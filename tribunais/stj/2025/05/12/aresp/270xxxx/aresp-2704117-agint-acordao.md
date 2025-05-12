@@ -1,0 +1,129 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou seguimento ao agravo em recurso especial, sob a alegação de que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+II. Questão em discussão
+2. A questão também envolve a análise da fundamentação do recurso especial quanto à alegada violação do art. 927 do CPC, e a necessidade de impugnação específica dos fundamentos da decisão agravada, conforme o princípio da dialeticidade recursal.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno, conforme a Súmula nº 182 do STJ.
+4. A argumentação genérica apresentada pelo agravante não é suficiente para desconstituir os argumentos que sustentam a decisão agravada.
+5. Não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada.
+IV. Dispositivo
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Desembargador Convocado Carlos Cini Marchionatti, que negou seguimento ao agravo em recurso especial interposto.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou seguimento ao agravo em recurso especial, sob a alegação de que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+II. Questão em discussão
+2. A questão também envolve a análise da fundamentação do recurso especial quanto à alegada violação do art. 927 do CPC, e a necessidade de impugnação específica dos fundamentos da decisão agravada, conforme o princípio da dialeticidade recursal.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno, conforme a Súmula nº 182 do STJ.
+4. A argumentação genérica apresentada pelo agravante não é suficiente para desconstituir os argumentos que sustentam a decisão agravada.
+5. Não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada.
+IV. Dispositivo
+6. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 501/505):
+"Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão do Tribunal de origem que negou seguimento ao recurso especial com fundamento nas Súmulas 5 e 7 do STJ (fls. 448-458).
+No recurso especial, a parte agravante sustenta violação do art. 421 do Código Civil e do art. 927 do CPC.
+Aduz, em suma, que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abusividade.
+Acena com dissídio jurisprudencial.
+Requer o provimento do recurso para reconhecer a legitimidade das taxas de juros cobradas no contrato em discussão.
+Contraminuta apresentada (fls. 471-473).
+É o relatório.
+Decido.
+De início, nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. HIPÓTESE. ABUSIVIDADE. RECONHECIMENTO. ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. ERRÔNEA. VALORAÇÃO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto.
+2. Na hipótese, o tribunal de origem, após a análise do conjunto fático- probatório dos autos e das cláusulas contratuais, considerou abusivos os juros remuneratórios, cuja revisão esbarra nas Súmulas nºs 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DO CONTRATO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. DEMONSTRAÇÃO CABAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. TARIFA DE CADASTRO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É inviável limitar a taxa de juros remuneratórios pactuada em contrato quando a corte de origem não tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+4. A tarifa de cadastro pactuada é válida, podendo ser cobrada apenas no início do relacionamento contratual, conforme o Tema n. 620 do STJ.
+5. Afasta-se eventual abuso na pactuação da tarifa de cadastro apenas na hipótese em que é cabalmente demonstrada abusividade no caso concreto, como ocorre na avaliação dos juros remuneratórios, isto é, mediante a análise das circunstâncias do caso, comparando-se os preços cobrados no mercado, o tipo de operação e o canal de contratação.
+6. Para o reconhecimento da abusividade das tarifas administrativas, não se admitem a referência a conceitos jurídicos abstratos nem a convicção subjetiva do magistrado.
+7. Agravo interno desprovido. (AgInt no REsp n. 2.007.638/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023)
+No hipótese, o Tribunal de origem dirimiu a questão como base nos seguintes fundamentos (fls. 408-412):
+O mérito refere-se aos juros remuneratórios convencionados.
+Com efeito, a taxa média de mercado divulgada pelo Banco Central deve servir como parâmetro, e não como teto máximo, para verificação de abusividade dos juros remuneratórios.
+A taxa de juros contratada deve, pois, destoar de forma relevante da taxa média de mercado, ou seja, sua alteração depende da demonstração cabal de sua abusividade (Recurso Especial repetitivo n. 1.112.879/PR).
+Tal entendimento tem amparo na jurisprudência consolidada do C. Superior Tribunal de Justiça:
+ ..
+Pois bem.
+No caso, as partes celebraram contrato de empréstimo pessoal, com taxa de juros remuneratórios atingindo patamar superior a 1.000% ao ano e a 20% ao mês, muito acima da taxa média, havendo, portanto, lucro evidentemente excessivo e claro desequilíbrio contratual.
+Verifica-se, portanto, expressiva discrepância entre a taxa contratada e a média de mercado, impondo-se a alteração, tal como fez o douto sentenciante.
+2. Dispositivo.
+Do exposto, conheço do presente recurso de apelação, rejeito as preliminares argüidas e, no mérito, lhe nego provimento, mantendo in totum a sentença.
+Conforme a fundamentação do acórdão recorrido, as taxas de juros contratadas em relação ao pacto em discussão na lide foram excessivamente superiores às médias de mercado divulgadas pelo Banco Central do Brasil para a época da pactuação, restando caracterizada a abusividade das referidas taxas.
+Nesse contexto, não há como afastar a conclusão do acórdão recorrido - acerca da abusividade da taxa de juros remuneratórios contratados, as quais importaram em desvantagem excessiva ao consumidor - sem a interpretação das cláusulas contratuais pactuadas e revolvimento fático-probatório, o que não se admite na via do recurso especial, conforme enunciados das Súmulas n. 5 e 7/STJ.
+Além disso, a incidência da Súmula n. 7/STJ torna prejudicado o exame do apontado dissídio jurisprudencial. Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Alterar o decidido no acórdão impugnado no que se refere à tese atinente à alegação de necessidade de nova avaliação do bem objeto de penhora, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp n. 2.398.976/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024 - sem grifo no original)
+No que se refere ao art. 927 do CPC, verifica-se que a parte recorrente não logrou demonstrar, de modo inequívoco, de que forma referido dispositivo teria sido violado. Configurada, assim, a deficiência na interposição do recurso, incide, no ponto, o enunciado da Súmula 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. VIOLAÇÃO DO ATO JURÍDICO PERFEITO E DO PRINCÍPIO DA MÍNIMA INTEVENÇÃO. DISPOSITIVO ARROLADO QUE NÃO GUARDA RELAÇÃO COM A TEMÁTICA ADUZIDA. SÚMULA N. 284/STF. PRODUÇÃO DE PROVA PERICIAL. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. VIOLAÇÃO DO ART. 927 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA N. 284/STF. ACÓRDÃOS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ.
+ ..
+3. O recorrente apontou de forma genérica que o art. 927 do CPC foi violado. De toda a forma, as suas razões recursais não guardam qualquer pertinência com esses artigos genericamente apontados, de forma que não é possível compreender em que reside a controvérsia. Assim, imperativa a incidência da Súmula n. 284/STJ por deficiência na fundamentação do presente recurso.
+ ..
+Agravo interno improvido.
+(AgInt no AREsp n. 2.731.182/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 25/11/2024.)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em 10% (dez por cento) sobre o valor já fixado pelas instâncias de origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015. "
+Com efeito, a legislação processual estabelece, no art. 932, III e IV do Código de Processo Civil, a faculdade de o relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+Cuida-se de inovação legal que reflete a já consagrada jurisprudência deste Superior Tribunal de Justiça, no sentido de que "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." (Súmula 568 do STJ, aprovada pela Corte Especial em 16/03/2016)
+Dada a sólida fundamentação que respalda a atuação do relator, a redação do art. 1.021, §1º do Código de Processo Civil é clara no sentido de estabelecer que "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Há, assim, ônus imposto ao agravante que deseja ver reformada a decisão que impugna, no sentido de que as razões por ele invocadas sejam especificamente voltadas à integralidade dos fundamentos trazidos pela decisão agravada e, ainda, que sejam aptas a desconstituir, de maneira contundente, os argumentos que sustentaram a decisão atacada.
+O não atendimento a tais requisitos importa, via de consequência, na manutenção do que decidido monocraticamente com base na inadmissibilidade manifesta ou na jurisprudência consolidada nesta Corte, conforme se extrai dos seguintes precedentes:
+CIVIL. TÍTULO EXTRAJUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA PARA COBRANÇA DE CHEQUES PRESCRITOS. IMPROCEDÊNCIA. MULTA EM PRIMEIROS EMBARGOS DECLARATÓRIOS. INTUITO PROTELATÓRIO. MERA INTERPOSIÇÃO DE RECURSO CABÍVEL NÃO ENSEJA LITIGÂNCIA DE MÁ-FÉ. PRECEDENTE. CONDIÇÃO DE CREDOR DO IMPUTADO QUE NEM SEQUER SE COADUNA COM A DE QUEM TEM INTUITO PROTELATÓRIO. AUSÊNCIA, ADEMAIS, DE IMPUGNAÇÃO AO FUNDAMENTO. DIALETICIDADE. SÚMULA Nº 283/STF, POR ANALOGIA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, TAMBÉM PARCIALMENTE PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. O princípio da dialeticidade exige impugnação específica dos fundamentos da decisão recorrida, sendo que a ausência de enfrentamento direto aos argumentos autônomos justifica o não provimento do agravo, nos termos da Súmula nº 283 do STF, aplicada por analogia.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.475.471/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, §1º,DO CPC. SÚMULA Nº 182/STJ. MOMENTO. IMPUGNAÇÃO. MULTA. ART.1.021, § 4º, DO CPC. NÃO AUTOMÁTICA.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. No caso, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é no agravo em recurso especial, e não no agravo interno interposto contra a decisão que não conheceu do recurso por ausência de impugnação específica dos fundamentos daquela decisão.
+4. A Segunda Seção decidiu que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+5. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.696.873/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A IMPENHORABILIDADE DE IMÓVEL E MANTEVE SUA EXPROPRIAÇÃO, BEM COMO INDEFERIU O PEDIDO DE NOVA AVALIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Cumprimento de sentença em que foi proferida decisão afastando a impenhorabilidade do imóvel e mantendo sua expropriação, bem como indeferindo o pedido de nova avaliação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.494.296/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 26/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. LITISCONSÓRCIO NECESSÁRIO. PRECLUSÃO. PROCESSUAL CIVIL. CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. CESSAÇÃO DOS DESCONTOS. REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO DECENAL. DIVERSOS PRECEDENTES ESPECÍFICOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. LEGITIMIDADE PASSIVA DO RECORRENTE. REVISÃO. SUMULAS N. 7/STJ E 280/STF.
+1. No âmbito do agravo interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada, afastando-se a incidência da Súmula n. 182/STJ (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, DJe 17/11/2021). Preclusa, portanto, a tese de imprescindibilidade de formação de litisconsórcio passivo.
+(..)
+(AgInt no AREsp n. 2.206.481/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Há, portanto, orientação clara e firme desta Terceira Turma no sentido de que, ausente impugnação específica dos fundamentos presentes na decisão agravada, ou inexistente apresentação de fundamentação robusta e suficiente à desconstituição dos argumentos fáticos e jurídicos alvo da pretensão recursal, a parte recorrente não logrará êxito em sua pretensão.
+No presente recurso, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão agravada, que analisou detidamente todas as questões jurídicas postas.
+Em atenção ao princípio da dialeticidade recursal, a impugnação da decisão agravada deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Observa-se que, no presente caso, embora o agravante aponte os óbices levantados como pretexto ao não acolhimento das suas razões, limita-se a tecer argumentação genérica quanto à sua não incidência.
+Dito mais claramente, a defesa nã o impugnou de maneira específica e suficiente os argumentos que sustentam a decisão agravada, do mesmo modo que não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, bem como não se demonstrou a inaplicabilidade dos julgados indicados pela decisão que inadmitiu o recurso especial ao presente caso, o que inviabiliza o conhecimento das insurgências.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA AO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a alegada intempestividade do agravo em recurso especial e a aplicação da Súmula nº 115 desta Corte.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.634.826/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
