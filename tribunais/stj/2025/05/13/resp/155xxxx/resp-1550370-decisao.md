@@ -1,0 +1,48 @@
+DECISÃO
+Em análise, recurso especial interposto por H KUNTZLER E COMPANHIA LTDA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. OPERAÇÕES DE HEDGE. IRPJ. CSLL.
+1. A operação de hedge, embora vise a garantir a sobrevivência da empresa a crises decorrentes da desvalorização da moeda estrangeira, não é necessária à manutenção da atividade da impetrante, razão pela qual não pode ser deduzida da apuração do lucro real, que serve de base à apuração do IRPJ e da CSLL.
+2. Apelação desprovida (fl. 165).
+Os embargos de declaração foram rejeitados (fls. 195-199).
+Nas razões recursais, a recorrente aponta violação aos arts. 535, I e II, do CPC/1973; 43 do CTN; 1º da Lei 7.689/1988; 76, § 4º, e 77, caput, V e § 1º, a e b, da Lei 8.981/1995.
+Sustenta, inicialmente, a existência de vícios no acórdão recorrido, não supridos em sede de embargos de declaração, nos seguintes termos:
+No caso em tela, o acórdão do E. TRF da 4ª Região, ao examinar a discussão incorreu em contradição e omissão, pois ao mesmo tempo que afirmou que as operações de hedge visam garantir a sobrevivência da empresa diante de instabilidades cambias, entendeu que ela não são necessária para a manutenção da atividade empresarial. Além disso, não houve manifestação acerca do art. 153, inc. III da Constituição e art. 43 do Código Tributário Nacional, inclusive tratando de questões indiferentes para o julgamento da lide, como a legalidade da tributação dos rendimentos e ganhos líquidos apurados em operações de hedge. Diz-se isso porque, não se pretende com a ação eximir-se do dever de pagar e IRPJ e CSLL sobre o rendimento e ganhos líquidos com as operações de hedge. Não há resistência quanto à isso. O que se pretende é não pagar IRPJ e CSLL sobre os prejuízos apurados com as operações de hedge, questão não enfrentada na decisão a quo (fl. 221).
+Quanto à questão de fundo, ressalta que "o grande equívoco da decisão recorrida é tratar o caso partindo da premissa equivocada de que a recorrente pretende se eximir do pagamento de IRPJ e CSLL sobre os rendimentos/ganhos líquidos auferidos em operações financeiras de hedge. Isso é equivocado, porque a recorrente busca, tão somente, eximir-se de pagar IRPJ e CSLL sobre os prejuízos/perdas suportados nas ditas operações quando há valorização do dólar" (fl. 230), destacando, assim, que "não se pretende deixar de pagar IRPJ e CSLL sobre os rendimentos ou ganhos líquidos auferidos com as operações financeiras hedge, mas somente deixar de incluir as perdas/prejuízos ao lucro líquido para fins de apuração do IRPJ e da CSLL a pagar" (fl. 232).
+Defende, em síntese, que:
+a) operações de hedge são aquelas destinadas, exclusivamente, à proteção contra riscos inerentes às oscilações de preços ou de taxas, quando o objeto do contrato negociado estiver relacionado com as atividades operacionais da pessoa jurídica, como no caso da recorrente;
+b) o IRPJ e a CSLL possuem como fato gerador a renda/lucro, que inevitavelmente devem gerar um acréscimo patrimonial, uma nova riqueza, o que não se verifica quando a empresa absorve prejuízos/perdas decorrentes das operações com hedge, motivo pelo qual não é razoável a determinação do Regulamento do Imposto de Renda em determinar a inclusão das perdas incorridas com hedge no lucro líquido;
+c) as operações com hedge são essenciais às atividades da recorrente, relativamente à exportação de sua produção, na medida em que utilizadas para prevenir as oscilações do câmbio a que fica vulnerável, diante da globalização financeira e dos riscos de crises sistêmicas;
+d) em função da adição das perdas com hedge ao lucro líquido, a recorrente pagou até o mês de novembro de 2012, IRPJ sobre lucro fictício no valor de R$ 603.118,71, bem como CSLL no valor de R$ 217.122,73; os valores representam quase 50% dos valores pagos em relação aos tributos em discussão; (fls. 250-251).
+Requer, ao final, seja "declarado o direito à não incidência de IRPJ e CSLL sobre as perdas/prejuízos nas operações de hedge, por não se revestirem de caráter de acréscimo patrimonial e/ou lucro, permitindo-se a não adição de tais valores ao lucro líquido" (fl. 251).
+Contrarrazões apresentadas (fls. 332-349).
+Considerando estar pendente de julgamento o Tema 185/STF, os autos foram devolvidos ao Tribunal de origem, o qual, entendendo pela distinção da matéria em relação ao paradigma, procedeu à devolução dos autos a esta Corte.
+É o relatório.
+Passo a decidir.
+O recurso merece prosperar, especificamente em relação à alegação de violação ao art. 535 do CPC/1973.
+A Corte de origem, ao solucionar a controvérsia, assim se manifestou:
+A magistrada sentenciante assim motivou a decisão apelada:
+Os contratos de hedge servem para a empresa exportadora se resguardar de eventual desvalorização da moeda estrangeira. Assim, havendo efetiva desvalorização, haverá pagamento pela instituição bancária da diferença de câmbio ajustada. Sobre esse valor recebido pela empresa, há incidência de imposto de renda.
+Todavia, a impetrante alega desproporcionalidade na medida em que, se houver valorização da moeda estrangeira, o valor pago pela empresa ao banco não é considerado pela Receita Federal como despesa dedutível. Assim, o valor deve ser adicionado ao lucro líquido para fins de apuração do IRPJ e da CSLL, procedimento contra o qual se insurge no presente mandado de segurança.
+A empresa impetrante é tributada pelo lucro real, razão pela qual ao apurar o lucro deve incluir as não dedutíveis, conforme Regulamento do Imposto de Renda - RIR (Decreto n º 3.000, de 26 de março de 1999):
+ ..
+Ainda, o art. 299 do RIR estabelece que as despesas operacionais, que podem ser deduzidas, são aquelas necessárias à atividade da empresa.
+ ..
+Com efeito, a operação de hedge embora vise a garantir a sobrevivência da empresa a crises decorrentes da desvalorização da moeda estrangeira não é necessária à manutenção da atividade da impetrante, razão pela qual não pode ser deduzida da apuração do lucro real, que serve de base à apuração do IRPJ e da CSLL.
+O fato gerador do Imposto de Renda é assim definido no art. 43 do CTN:
+ ..
+Quanto à CSLL, o seu fato gerador é o lucro auferido pelo contribuinte dentro do período-base encerrado em 31 de dezembro de cada ano; e a sua base de cálculo é o valor do resultado do exercício, antes da provisão para o imposto de renda (art. 2º, Lei 7.689/88).
+No caso em tela, verifica-se que a apelante não possui direito líquido e certo a ser tutelado, impondo-se a denegação da segurança.
+Sobre o tema estatui o artigo 77, da Lei nº 8.981/95:
+ ..
+No entanto, em 19.01.99, foi editada a Lei nº 9.779, que alterou a legislação do Imposto sobre a Renda relativa à tributação dos Fundos de Investimento Imobiliário e dos rendimentos auferidos em aplicação ou operação financeira de renda fixa ou variável, passando a prever a incidência do imposto de renda no caso das operações de hedge. O art. 5º da Lei nº 9.779/99, por sua vez, assim dispõe:
+ ..
+Na linha de orientação adotada pela togada singular, cujos fundamentos acolho como razões de decidir, colaciono os seguintes precedentes desta Corte:
+ ..  (fls. 161-163).
+Contra esse acórdão, a recorrente opôs embargos de declaração, sustentando a existência de contradição interna no julgado: "Como a operação debatida nos autos pode, concomitantemente, garantir a sobrevivência da empresa - frente à flutuação cambial - e não ser necessária à manutenção da atividade " (fl. 178).
+Apontou, ainda, a existência de omissão quanto à análise da controvérsia posta a exame: "A apelante/embargante pretende não adicionar ao lucro líquido as perdas incorridas nas operações de hedge, pois decorrem da valorização da moeda estrangeira frente ao real, que acabam sendo pagas à instituição bancária. Apesar de refletirem um ganho, por serem valores decorrentes de valorização da taxa de câmbio, trata-se apenas de um pseudo ganho, uma vez que representa uma perda para a empresa, que paga os valores para o banco" (fls. 181-182).
+Ao que se verifica do acórdão de fls. 195-199, os embargos de declaração foram rejeitados, sem que as questões apontadas pela recorrente fossem efetivamente apreciadas.
+Em situação idêntica, no julgamento do REsp 1.550.666/RS, o Ministro Gurgel de Faria consignou que " ..  o julgamento incorre em omissão relevante quanto ao argumento central do particular, o qual alegava que em momento algum discutiu a incidência ou não dos tributos em relação aos rendimentos/ganhos líquidos auferidos em operações financeiras de hedge. No entanto, foi essa última situação enfrentada na origem, quando o ponto controvertido era outro (saber se a tributação deve ocorrer quando a operação de hedge implicar perda/prejuízo). Ao se omitir em relação ao fundamento principal do recorrente, não houve o debate, na instância ordinária, sobre: i) se a tributação deve ocorrer quando a operação de hedge implicar perda/prejuízo; e ii) caso seja possível deduzir do lucro real as referidas perdas, qual seria o limite para essa dedução" (REsp n. 1.550.666, Ministro Gurgel de Faria, DJe de 25/10/2022).
+Alcançando a mesma conclusão, entendo estar configurada a violação ao art. 535 do CPC/73, devendo o feito retornar ao Tribunal de origem, para que sejam sanados os vícios de contradição e omissão apontados.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão referente aos embargos de declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada, com a análise das alegações da recorrente, ainda que seja para rejeitá-las, restando prejudicadas as demais questões.
+Intimem-se.
+EMENTA
