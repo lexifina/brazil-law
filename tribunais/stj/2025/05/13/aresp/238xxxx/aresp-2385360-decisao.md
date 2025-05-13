@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS AUGUSTO DE JESUS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0700341-73.2021.8.05.0150 (fls. 208/216).
+No recurso especial, o agravante postula pelo reconhecimento da atenuante da confissão, bem como pela redução da pena aquém do mínimo legal (230/238).
+Apresentadas as contrarrazões (fls. 243/248) o Tribunal de origem não admitiu o recurso especial com óbice na Súmula n. 83/STJ (fls. 249/254).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo seu desprovimento (fls. 295/300).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre, pois o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula 83/STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça. Ademais, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. A propósito: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Nesse sentido: AgRg no AREsp n. 2.211.864/PR, da minha relatoria, Sexta Turma, julgado em 17/4/2023, DJe 20/4/2023; e AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ainda que assim não fosse, não se verifica qualquer ilegalidade no acórdão atacado, em especial no tocante ao afastamento da atenuante da confissão, visto que está em consonância com a Súmula 630/STJ. Ademais, verifica-se que o acórdão recorrido também se encontra em consonância com o entendimento desta Corte no sentido de não admitir a redução da pena-base aquém do mínimo legal na segunda fase da aplicação da pena, nos termos da Súmula 231/STJ.
+Cito: AgRg no AREsp n. 2.297.928/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/9/2023; e AgRg no AREsp n. 2.223.080/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 2/5/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CONFISSÃO ESPONTÂNEA. IMPUGNAÇÃO GENÉRICA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. PLEITO DE REDUÇÃO DA PENA-BASE A PATAMAR AQUÉM DO MÍNIMO LEGAL. DESCABIMENTO. INTELIGÊNCIA DAS SÚMULAS 231 E 630/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ.
+Agravo em recurso especial não conhecido.
