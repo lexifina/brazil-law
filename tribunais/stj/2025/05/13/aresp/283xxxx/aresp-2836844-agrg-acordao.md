@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 284/STF, por deficiência de fundamentação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de indicação clara e precisa dos dispositivos legais supostamente violados impede o conhecimento do recurso especial, conforme a Súmula 284/STF.
+III. Razões de decidir
+3. A ausência de indicação clara e precisa dos dispositivos infraconstitucionais que teriam sido violados impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula 284 do STF.
+4. A parte agravante não trouxe argumentos capazes de infirmar a decisão agravada, mantendo-se a incidência da Súmula 284/STF.
+5. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade, e a ausência de impugnação específica inviabiliza o conhecimento do recurso.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A ausência de indicação clara e precisa dos dispositivos infraconstitucionais que teriam sido violados impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme a Súmula 284 do STF. 2. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade, e a ausência de impugnação específica inviabiliza o conhecimento do recurso.
+Dispositivos relevantes citados: Súmula 284/STF.
+Jurisprudência relevante citada: STJ, AgInt no REsp 1.468.671/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 30.03.2020; STJ, AREsp 1.641.118/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 25.06.2020.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  MATEUS DOS SANTOS PEREIRA  contra  a  decisão  proferida  pela  Presidência  desta  Corte  que  não  conheceu  do  agravo  em  recurso  especial  devido  à  incidência  da  Súmula  n.  284/STF.
+A  parte  agravante  defende  a  inaplicabilidade  do  referido  óbice.
+Requer  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  feito  ao  Colegiado  para  que  seja  dado  provimento  ao  recurso  especial.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 284/STF, por deficiência de fundamentação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de indicação clara e precisa dos dispositivos legais supostamente violados impede o conhecimento do recurso especial, conforme a Súmula 284/STF.
+III. Razões de decidir
+3. A ausência de indicação clara e precisa dos dispositivos infraconstitucionais que teriam sido violados impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula 284 do STF.
+4. A parte agravante não trouxe argumentos capazes de infirmar a decisão agravada, mantendo-se a incidência da Súmula 284/STF.
+5. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade, e a ausência de impugnação específica inviabiliza o conhecimento do recurso.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A ausência de indicação clara e precisa dos dispositivos infraconstitucionais que teriam sido violados impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme a Súmula 284 do STF. 2. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade, e a ausência de impugnação específica inviabiliza o conhecimento do recurso.
+Dispositivos relevantes citados: Súmula 284/STF.
+Jurisprudência relevante citada: STJ, AgInt no REsp 1.468.671/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 30.03.2020; STJ, AREsp 1.641.118/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 25.06.2020.
+VOTO
+Presentes  os  requisitos  de  admissibilidade  do  regimental,  passo  à  análise  do  agravo  em  recurso  especial,  adiantando,  desde  já,  que  a  irresignação  não  prospera.
+A  decisão  proferida  pela  Presidência  desta  Corte  está  assim  fundamentada  (fls.  494-495):
+Por meio da análise do recurso de MATEUS DOS SANTOS PEREIRA, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+O  agravante,  contudo,  não  trouxe  argumentos  capa  zes  de  infirmar  o  decisum  ora  agravado.
+Conforme  destacado  na  decisão  monocrática,  nas  razões  recursais  não  houve  indicação  clara,  precisa  e  inequívoca  de  dispositivo  de  lei  federal  supostamente  violado  ou  objeto  de  interpretação  divergente  por  outro  Tribunal,  como  seria  necessário.  Dessa  forma,  a  fundamentação  recursal  apresenta-se  deficiente,  atraindo  a  incidência,  por  analogia,  da  Súmula  n.  284/STF.
+Nos  termos  da  referida  súmula,  a  ausência  de  indicação  dos  dispositivos  infraconstitucionais  violados  e  sua  particularização  impede  o  conhecimento  do  recurso,  por  deficiência  de  fundamentação.
+Exemplificativamente :
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  MONOCRÁTICA  DA  PRESIDÊNCIA  DO  STJ.  AUSÊNCIA  DE  INDICAÇÃO  DOS  DISPOSITIVOS  DE  LEI  FEDERAL  SUPOSTAMENTE  VIOLADOS.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  INCIDÊNCIA  DA  SÚMULA  284  DO  STF.  TESE  DE  PRESCRIÇÃO  DA  PRETENSÃO  PUNITIVA  INOCORRENTE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  A  ausência  de  indicação,  clara  e  precisa,  dos  dispositivos  infraconstitucionais  que  teriam  sido  violados  impede  o  conhecimento  do  recurso,  por  deficiência  na  sua  fundamentação,  conforme  preceitua  a  Súmula  284  do  STF.
+2.  Ainda  que  superado  o  mencionado  óbice,  a  tese  recursal  de  ocorrência  da  prescrição  da  pretensão  punitiva  não  merece  prosperar,  pois,  como  fundamentado  no  acórdão,  o  processo  ficou  suspenso  em  razão  da  não  localização  do  réu  e  de  sua  citação  por  edital,  entre  7/5/2020  e  7/5/2022,  data  em  que  foi  retomado  o  curso  processual.
+3.  A  orientação  jurisprudencial  desta  Corte  é  de  que  o  prazo  máximo  de  suspensão  do  curso  do  processo  e  do  prazo  prescricional  é  regulado  pelo  máximo  da  pena  cominada  ao  delito  (art.  366  do  Código  de  Processo  Penal)  sendo,  no  caso,  de  quatro  anos  o  prazo  prescricional  (art.109,  V,  do  Código  Penal),  reduzido  pela  metade  diante  da  menoridade  do  recorrente  na  data  dos  fatos  (art.  115  do  Código  de  Processo  Penal).
+4.  Agravo  regimental  desprovido.  (AgRg  no  AREsp  n.  2.482.535/SP,  rel.  Min.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  19/03/2024,  DJe  de  22/03/2024 ;  grifamos).
+EXECUÇÃO  PENAL.  AGRAVO  EM  RECURSO  ESPECIAL.  FALTA  GRAVE.  RECONHECIMENTO  DE  FALTA  GRAVE.  PERDA  DE  ATÉ  1/3  DOS  DIAS  REMIDOS.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  ALEGADA  IMPOSSIBILIDADE  DA  PERDA  DOS  DIAS  REMIDOS.  CONSEQUENCIA  LEGAL  DA  FALTA  GRAVE.  SÚMULA  N.  83/STJ.  AUSÊNCIA  DE  INDICAÇÃO  DE  COMO  O  ACÓRDÃO  VIOLOU  OS  DISPOSITIVOS  LEGAIS  APONTADOS.  SÚMULA  N.  284/STF.  EVENTUAL  AFASTAMENTO  DA  FALTA  GRAVE.  REVOLVIMENTO  DE  FATOS  E  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  N.  7/STJ.  PRECEDENTES.  AGRAVO  EM  RECURSO  ESPECIAL  NÃO  CONHECIDO.
+I  -  A  superação  da  Súmula  n.  83,  STJ  exige  a  indicação  de  precedentes  contemporâneos  ou  supervenientes  capazes  de  alterar  a  modificação  do  julgado,  ou  a  demonstração  de  distinguishing,  o  que  não  ocorreu  no  caso  dos  autos.
+II  -  Quanto  ao  óbice  da  Súmula  n.  284,  STF,  o  agravante  deveria  demonstrar  de  que  forma  os  dispositivos  legais  foram  violados,  pois  não  basta  deduzir  a  sua  inaplicabilidade.
+III  -  A  decisão  que  não  admite  o  recurso  especial  tem  dispositivo  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal  e,  assim,  deve  ser  impugnada  em  sua  integralidade.
+IV  -  A  ausência  de  impugnação  específica  e  pormenorizada  dos  fundamentos  da  decisão  agravada  inviabiliza  o  conhecimento  do  recurso,  sendo  insuficientes  as  assertivas  de  que  todos  os  requisitos  foram  preenchidos  ou  a  reiteração  do  mérito  da  controvérsia.
+Agravo  em  recurso  especial  não  conhecido.  (AREsp  n.  2.559.376/RO,  rel.  Min.  Messod  Azulay,  Quinta  Turma,  julgado  em  07/05/2024,  DJe  de  15/05/2024 ;  grifamos).
+
+Ante  o  exposto,  nego  pr ovimento  ao  agravo  regimental.
+É  o  voto.
