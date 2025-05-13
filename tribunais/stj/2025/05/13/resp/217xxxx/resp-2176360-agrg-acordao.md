@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. APLICAÇÃO CUMULATIVA DE MAJORANTES. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+2. A pretensão do recurso especial demandaria o reexame aprofundado da prova produzida, uma vez que foi afastada a cumulação das majorantes por ter entendido a instância originária que a aplicação cumulativa se trata de medida desproporcional, observadas as circunstâncias apuradas.
+3. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que não conheceu do recurso especial, ante o óbice referido na Súmula n. 7 do STJ.
+A parte recorrente argumenta que não há discordância quanto aos fatos reconhecidos no acórdão, mas sim quanto aos critérios jurídicos utilizados, o que não demanda reexame de provas, assim sintetizando suas alegações:
+CRIME DE ROUBO. CUMULAÇÃO DAS MAJORANTES. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. DOSIMETRIA DA PENA. DESNECESSIDADE DE REEXAME DE PROVAS. INAPLICABILIDADE DA SÚMULA 07 DO STJ. ELEMENTOS INCONTROVERSOS RECONHECIDOS NAS DECISÕES DE ORIGEM.
+Teses Jurídicas.
+01. É perfeitamente possível ao Superior Tribunal de Justiça proceder à revaloração de elementos incontroversos reconhecidos nas decisões de origem, o que prescinde de qualquer incursão no caderno probatório, não havendo que se falar em reexame de provas. Na hipótese dos autos, este Órgão Ministerial pleiteia a reforma do acórdão proferido pelo Tribunal Mineiro para que sejam restabelecidos os aumentos cumulativos de pena pelas majorantes do crime de roubo aos acusados, com base nos elementos reconhecidos no próprio aresto que revelam a presença de fundamentação idônea e concreta para sua manutenção, como ocorreu na sentença.
+02. Embora não se desconheça o livre arbítrio do Julgador em constatar a desproporcionalidade da cumulação de majorantes, vê-se que a conclusão adotada pela Corte de Origem se encontra em dissonância com o entendimento dessa Corte Superior, de modo que inclusive existem julgados, em situações semelhantes ao dos autos, que adentraram no mérito da mesma questão aqui invocada sem afirmar que tal análise implicaria reexame de provas.
+Cita jurisprudência do STJ que, segundo alega, admitira a adoção de solução diversa sem revolvimento fático-probatório.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. APLICAÇÃO CUMULATIVA DE MAJORANTES. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+2. A pretensão do recurso especial demandaria o reexame aprofundado da prova produzida, uma vez que foi afastada a cumulação das majorantes por ter entendido a instância originária que a aplicação cumulativa se trata de medida desproporcional, observadas as circunstâncias apuradas.
+3. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+VOTO
+O conhecimento da matéria que se pretende devolver em recurso especial ao Superior Tribunal de Justiça exige que a manifestação desta Corte Superior se restrinja à aplicação do direito em tese, observadas as premissas fático-processuais cristalizadas pelas instâncias ordinárias.
+Essa é a razão de ser da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial", uma vez que a competência outorgada pela Constituição Federal ao Superior Tribunal de Justiça referente à análise do recurso especial se restringe à apreciação de questões de direito, inviabilizando a reavaliação dos fatos e das provas apurados no processo.
+O recurso especial, assim, tem por finalidade garantir a uniformidade da interpretação da lei federal, limitando-se à verificação abstrata de sua aplicação ou interpretação pelos tribunais de origem, medida inviável quando a pretensão recursal demandar, ainda que de modo sutil, a análise das conclusões fático-processuais emprestadas pelas instâncias ordinárias, soberanas na apreciação das provas.
+No caso dos autos, o Tribunal de Justiça reformou a sentença do Juiz de primeiro grau ao fundamento de que a aplicação cumulativa das causas de aumento mostra-se desproporcional no contexto do crime praticado.
+A propósito, veja-se o que constou na decisão ora recorrida (fl. 1.217):
+A pretensão não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o provimento do recurso especial dependeria de reexame do conjunto fático-probatório dos autos, providência incabível, observando-se a fundamentação do Tribunal de origem, o qual, no exercício do livre convencimento motivado dos Magistrados, considerou desproporcional a pena aplicada pelo Juízo de 1º Grau, nos seguintes termos (fls. 1.142-1.143): No que diz respeito às causas de aumento, demonstrado acima a participação de dois indivíduos na prática delitiva, utilizando arma de fogo e restringindo a liberdade das quatro vítimas para o fim de subtrair os bens mediante violência (incisos II e V, do § 2º, e §2-A, I, do artigo 157 do CP).
+Requer a defesa o afastamento do cúmulo das causas de aumento, por violação ao artigo 68 do CP, uma vez que o juízo as manteve (1/3 do concurso de agentes e restrição da liberdade e 2/3 da arma de fogo) de forma sequencial, ou seja, em critério sucessivo, cumulativo ou de efeito cascata.
+Não obstante o entendimento do juízo sentenciante, os fatos apurados ao longo da ação penal revelam a desproporcionalidade da medida, incidindo o previsto no §único do artigo 68 do CP:
+"No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+Entretanto, deve-se considerar como desfavorável ao apelante as "circunstâncias do crime", remetendo a majorante do concurso de pessoas e restrição da liberdade das vítimas reconhecida na fundamentação à primeira fase dosimétrica.
+ ..
+Frise-se que não há "reformatio in pejus" na redução da pena ao transportar o "concurso de agentes" e "restrição da liberdade das vítimas" para a primeira fase dosimétrica, uma vez que indevida a aplicação cumulativa das majorantes e não recrudescida a pena.
+Por fim, na causa de aumento, terceira fase dosimétrica, permanece apenas o patamar fixo de 2/3 (dois terços), pela utilização de arma de fogo no delito de roubo, artigo 157, § 2º-A, I, do CP. Acolhe-se em parte a tese da defesa. (destaquei)
+Alterar essa conclusão depende de reexaminar de forma aprofundada as provas produzidas, a fim de verificar se, no caso, é aplicável ou não a regra prevista no art. 68, § único, do Código Penal, diante das peculiaridades do crime praticado e à luz da proporcionalidade da pena final aplicada.
+A pretensão do recurso es pecial, portanto, esbarra no óbice mencionado, tornando-se inviável sua apreciação nesta instância, por demandar novo juízo de valor sobre o contexto probatório, nos termos da pacífica jurisprudência deste Tribunal Superior. A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA ARMADA. INSUFICÊNCIA DA PROVA DA AUTORIA DELITIVA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. INCOMPETÊNCIA DO JUÍZO. MATÉRIA NÃO PREQUESTIONADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão absolutória, baseada em alegações de insuficiência da prova judicializada da autoria delitiva, implicaria a necessidade de reexame de fatos e de provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.467.045/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVA. ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INCOMPATIBILIDADE COM A CONDENAÇÃO POR ASSOCIAÇÃO PARA O NARCOTRÁFICO. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. HABEAS CORPUS DE OFÍCIO. INICIATIVA DO JULGADOR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo as instâncias ordinárias demonstrado a existência de provas acerca da autoria e materialidade dos delitos de tráfico de drogas e associação para o narcotráfico, é certo que para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Conforme sedimentado na jurisprudência desta Corte Superior, a causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006 é incompatível com a condenação pela prática do crime de associação para o narcotráfico, pois evidenciada a dedicação a atividades criminosas.
+3. Com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE FURTO. DESCLASSIFICAÇÃO DA CONDUTA. AUSÊNCIA DE VIOLÊNCIA E/OU GRAVE AMEAÇA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O crime tipificado no art. 157 do Código Penal diverge do descrito no art. 155 do Código Penal em razão do emprego de violência, física ou moral, dirigida contra o detentor da coisa, ou seja, contra pessoa.
+2. Na ação delitiva, as instâncias de origem, ao reconhecerem o crime de furto, concluíram que a violência foi direcionada exclusivamente contra a res.
+3. Rever o entendimento externado pela instância ordinária para reconhecer as elementares do crime de roubo implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte. Precedentes (AgRg no AREsp n. 332.612/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/12/2016).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.515.441/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+No mesmo sentido: AgRg no AREsp n. 1.842.117/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023; AgRg nos EDcl no AgRg no AREsp n. 2.556.734/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024; e AgRg no AREsp n. 1.828.230/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2024, DJe de 20/6/2024.
+O acolhimento da tese recursal, em suma, demandaria o revolvimento do acervo fático-probatório dos autos, assim como a alteração das premissas estabelecidas pelo acórdão recorrido, o que é inviável no recurso especial, conforme esclarecido na Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
