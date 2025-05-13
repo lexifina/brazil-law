@@ -1,0 +1,123 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0706152-02.2020.8.07.0018APELANTE(S)DISTRITO FEDERALAPELADO(S)MARIA JANUARIA DE MACEDO FILHARelatoraDesembargadora CARMEN BITTENCOURT
+ Acórdão Nº1997830
+
+EMENTA
+
+CONSTITUCIONAL E PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. REJULGAMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. DISPONIBILIZAÇÃO DE MEDICAMENTO REGISTRADO NA ANVISA E NÃO PADRONIZADO NO SUS. ART. 1.030, II, DO CPC. REJULGAMENTO DO RECURSO, EM JUÍZO DE RETRATAÇÃO, PARA EXAME DE EVENTUAL DIVERGÊNCIA DO POSICIONAMENTO FIRMADO PELO EGRÉGIO COLEGIADO EM RELAÇÃO À TESE FIRMADA PELO COLENDO SUPREMO TRIBUNAL FEDERAL, COM REPERCUSSÃO GERAL, POR OCASIÃO DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO 1.366.243 (TEMA 1234). DISSONÂNCIA NÃO CONFIGURADA.
+
+I. CASO EM EXAME
+
+1. Remessa Necessária e Recurso de apelação interposto pelo Distrito Federal contra sentença que determinou o fornecimento do medicamento Bortezomibe pelo prazo inicial de seis meses à parte autora, condicionando a continuidade do tratamento à inexistência de medicamento similar padronizado no SUS, sem incluir a União no polo passivo ou prever ressarcimento ao Distrito Federal. O Distrito Federal interpôs recurso extraordinário objetivando, unicamente, a inclusão da União no polo passivo da demanda e o consectário e processamento da pretensão na Justiça Federal.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Definir a necessidade de inclusão da União no polo passivo da demanda, em razão do caráter não-padronizado do medicamento pleiteado.
+
+III. RAZÕES DE DECIDIR
+
+3. O excelso Supremo Tribunal Federal, por ocasião do julgamento do mérito do Recurso Extraordinário 1.366.243/SC (Tema 1.234), estabeleceu que as demandas relativas aos medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, deverão tramitar perante a Justiça Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo for igual ou superior ao valor de 210 (duzentos e dez) salários mínimos.
+
+4. Na ocasião, foram modulados os efeitos da decisão, unicamente quanto ao deslocamento de competência, determinando que “somente se apliquem aos feitos que forem ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico”.
+
+5. A formação de litisconsórcio passivo necessário com a União é desnecessária, pois o medicamento tem registro na ANVISA, não atende ao critério de custo anual superior a 210 salários mínimos e a demanda já estava em curso quando da publicação do julgamento de mérito do Tema 1.234/STF no Diário de Justiça Eletrônico.
+
+6. A excelsa Corte Suprema, ao julgar o Tema Repetitivo n. 1234 de Repercussão Geral, definiu que, nas ações que tramitarem na Justiça Estadual e que versem fornecimento de medicamentos não incorporados ao SUS, mas registrados na ANVISA, as condenações impostas a Estados e Municípios serão ressarcidas pela União por meio de repasses administrativos "Fundo a Fundo" (FNS ao FES ou ao FMS), sem necessidade de inclusão da União no polo passivo, em ato “a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite”, nos termos do item 3.3 das teses firmadas pelo e. STF no julgamento do RE 1.366.243.
+
+IV. DISPOSITIVO E TESE
+
+7. Novo julgamento realizado, em juízo de retratação, por força das disposições contidas no artigo 1.030, inciso II, do Código de Processo Civil, com a ratificação do v. acórdão exarado anteriormente, pelo qual foi negado provimento ao recurso de apelação interposto pelo Distrito Federal e à remessa necessária.
+
+Tese de julgamento:
+
+1. A inclusão da União no polo passivo não é necessária para o ressarcimento ao ente federado pelo fornecimento de medicamentos não incorporados ao SUS, devendo ser realizado diretamente pela via administrativa do Ministério da Saúde.
+
+Dispositivos relevantes citados: CPC, art. 1.030, II; CF/1988, art. 109, I.
+
+Jurisprudência relevante citada: STF, RE 1.366.243 (Tema 1234), Rel. Min. Gilmar Mendes, Plenário, j. 13.09.2024.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARMEN BITTENCOURT - Relatora, EUSTAQUIO DE CASTRO - 1º Vogal e DIAULAS COSTA RIBEIRO - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON TEIXEIRA DE FREITAS, em proferir a seguinte decisão: Novo julgamento realizado, em juízo de retratação, por força das disposições contidas no artigo 1.030, inciso II, do Código de Processo Civil, com a ratificação do v. acórdão exarado anteriormente, pelo qual foi negado provimento ao recurso de apelação interposto pelo Distrito Federal e à remessa necessária. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Maio de 2025
+
+Desembargadora CARMEN BITTENCOURTRelatora
+
+RELATÓRIO
+
+Cuida-se de novo julgamento, em juízo de retratação, na forma prevista no artigo 1.030, inciso II, do Código de Processo Civil, da remessa necessária e do recurso de apelação interposto pelo DISTRITO FEDERAL contra a r. sentença exarada sob o ID 27341728, pela qual o d. Magistrado de primeiro grau julgou procedente o pedido inicial para condenar o Distrito Federal a obrigação de fazer consubstanciada no fornecimento do tratamento com o medicamento BORTEZOMIBE à parte autora, conforme prescrição médica, condicionando a continuidade do tratamento à apresentação de relatório semestral, a ser elaborado pelo NATJUS/TJDFT.
+
+A egrégia 8ª Turma Cível, nos termos do v. acórdão exarado sob o ID 41684070, conheceu e negou provimento ao apelo interposto pelo Distrito Federal e à remessa necessária.
+
+Consoante o despacho exarado no ID 65680825, o Excelentíssimo Presidente do egrégio Tribunal de Justiça do Distrito Federal e dos Territórios, eminente Desembargador Waldir Leôncio Júnior, determinou o retorno dos autos à egrégia 8ª Turma Cível, nos termos do artigo 1.030, inciso II, do Código de Processo Civil, para que seja apreciada possível divergência entre o acórdão recorrido e o entendimento firmado pela excelsa Corte Suprema, com repercussão geral, sob o Tema 1.234.
+
+O eminente relator Desembargador Fábio Eduardo Marques determinou a manifestação das partesno prazo comum de 5 (dias), sobre o preenchimento dos requisitos, se for o caso, estabelecidos nos Temas 6 e 1.234 do Supremo Tribunal Federal (ID 66038634).
+
+O patrono informou o óbito da parte apelada no ID 67224075, postulando a resolução do processo, sem apreciação do mérito, nos termos do artigo 485, inciso IX, do Código de Processo Civil.
+
+Em razão do superveniente falecimento da apelada (ID 67250938), foi determinada a intimação do ente apelante para que, no prazo de 10 (dez) dias, se manifestasse a respeito da possível perda superveniente do interesse recursal.
+
+Em resposta (ID 67634260), o ente distrital apelante requer a continuidade do processo, considerando a responsabilidade da União e em razão dos gastos já realizados com o medicamento em questão.
+
+A d. Procuradoria de Justiça, no parecer acostado ao ID 68348185, manifestou o desinteresse ministerial na controvérsia recursal residual.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora CARMEN BITTENCOURT - Relatora
+Consoante relatado, trata-se de novo julgamento da remessa necessária e do recurso de apelação interposto pelo DISTRITO FEDERAL contra a r. sentença exarada sob o ID 27341728, por força de determinação do eminente Presidente do egrégio Tribunal de Justiça do Distrito Federal e dos Territórios (ID 65680825), por ocasião do exame da admissibilidade do recurso extraordinário interposto pelo apelante em face do v. acordão exarado sob o ID 41684070.
+
+De acordo com o inciso II do artigo 1.030 do Código de Processo Civil, recebida a petição do recurso especial ou extraordinário e oportunizada a apresentação de contrarrazão, os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos.
+
+Registre-se inicialmente que o ente distrital, em razão do caráter não-padronizado do medicamento prescrito à falecida demandante, interpôs recurso extraordinário (ID 42713782) pelo qual pretende, apenas, seja determinada a inclusão da União na relação processual, sua citação, e processamento da pretensão deduzida em juízo junto à Justiça Federal.  - ID 42713782 – pág. 9.
+
+Assim, a questão controvertida reside, unicamente, em verificar a possibilidade de inclusão da União no polo passivo da ação, com a consectária cassação da r. sentença e remessa dos autos à Justiça Federal.
+
+O voto condutor do v. acórdão em questão encontra-se fundamentado na tese de que é dispensável a inclusão da União no polo passivo das demandas que tratem do fornecimento de medicamentos registrados na ANVISA, mas não incorporados em atos normativos do Sistema Único de Saúde/SUS.
+
+O colendo Supremo Tribunal Federal, por ocasião do julgamento do Recurso Extraordinário 1.366.243 – SC, onde foi apreciada a questão relacionada à legitimidade passiva da União e a consectária competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde – SUS (Tema Repetitivo n. 1.234), fixou as seguintes teses:
+
+I – Competência.
+
+1) Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG – situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC.
+
+(...)
+
+II – Definição de Medicamentos Não Incorporados 2.1) Consideram-se medicamentos não incorporados aqueles que não constam na política pública do SUS; medicamentos previstos nos PCDTs para outras finalidades; medicamentos sem registro na ANVISA; e medicamentos off label sem PCDT ou que não integrem listas do componente básico.
+
+(...)
+
+III – Custeio 3) As ações de fornecimento de medicamentos incorporados ou não incorporados, que se inserirem na competência da Justiça Federal, serão custeadas integralmente pela União, cabendo, em caso de haver condenação supletiva dos Estados e do Distrito Federal, o ressarcimento integral pela União, via repasses Fundo a Fundo (FNS ao FES), na situação de ocorrer redirecionamento pela impossibilidade de cumprimento por aquela, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias.
+
+3.3) As ações que permanecerem na Justiça Estadual e cuidarem de medicamentos não incorporados, as quais impuserem condenações aos Estados e Municípios, serão ressarcidas pela União, via repasses Fundo a Fundo (FNS ao FES ou ao FMS). Figurando somente um dos entes no polo passivo, cabe ao magistrado, se necessário, promover a inclusão do outro para possibilitar o cumprimento efetivo da decisão. 3.3.1) O ressarcimento descrito no item 3.3 ocorrerá no percentual de 65% (sessenta e cinco por cento) dos desembolsos decorrentes de condenações oriundas de ações cujo valor da causa seja superior a 7 (sete) e inferior a 210 (duzentos e dez) salários mínimos, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias. 3.4) Para fins de ressarcimento interfederativo, quanto aos medicamentos para tratamento oncológico, as ações ajuizadas previamente a 10 de junho de 2024 serão ressarcidas pela União na proporção de 80% (oitenta por cento) do valor total pago por Estados e por Municípios, independentemente do trânsito em julgado da decisão, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias. O ressarcimento para os casos posteriores a 10 de junho de 2024 deverá ser pactuado na CIT, no mesmo prazo.
+
+(...) (STF. Plenário. RE 1366243, Rel. Min. Gilmar Mendes, data do julgado 13/09/2024 – Tema 1234 de Repercussão Geral)
+
+Assim, as demandas relativas aos medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, deverão tramitar perante a Justiça Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo for igual ou superior ao valor de 210 (duzentos e dez) salários mínimos.
+
+No caso em apreço, a Nota Técnica emitida pelo Núcleo de Apoio Técnico ao Judiciário – NATJUS - deste e. Tribunal (ID 27341598 - pág. 4) destacou que o custo total do medicamento inicialmente prescrito ao paciente, consubstanciado em 32 frascos de 3,5mg do bortezomibe durante todo o seu tratamento. Assim, o custo total deste é estimado em R$ 92.390,40, ou seja, inferior ao valor de referência (210 salários mínimos anuais), não atendendo ao requisito estabelecido pela Suprema Corte para fixação da competência da Justiça Federal.
+
+Ademais, nos termos do voto condutor, de Relatoria do eminente Ministro Gilmar Mendes, foram modulados os efeitos da decisão, unicamente quanto ao deslocamento de competência, determinando que somente se apliquem aos feitos que forem ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico. (destaque nosso)
+
+Frise-se, ainda, que, nas ações que permanecerem na Justiça Estadual e cuidarem de medicamentos não incorporados ao SUS, as imposições de condenações aos Estados e Municípios serão ressarcidas pela União Federal, via repasses Fundo a Fundo (FNS ao FES ou ao FMS), ou seja, diretamente pela via administrativa, em ato a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite - denominadas Comissão Intergestores Tripartite -, as quais são constituídas como foros permanentes de negociação, articulação e decisão entre os gestores nos aspectos operacionais e na construção de pactos nacionais, estaduais e regionais no Sistema Único de Saúde (SUS).¹
+
+Assim, como na hipótese dos autos, cuja petição inicial foi distribuída em 15/09/2020, pela qual se objetiva o fornecimento de medicamento com registro válido na ANVISA e não padronizado no âmbito do SUS para tratamento da moléstia que afligia a parte demandante, o processo deve permanecer tramitando perante a Justiça Comum do Distrito Federal, porquanto se trata de obrigação solidária entre os entes federados, cujo valor anual da obrigação não ultrapassa o limite de referência para deslocamento da competência para a Justiça Federal (210 salários mínimos anuais), não sendo o caso de determinação de inclusão da União no polo passivo da ação e, tampouco, de necessidade de ressalva do direito de ressarcimento ao Distrito Federal, porquanto esse deve ser realizado diretamente pela via administrativa, via repasses Fundo a Fundo (FNS ao FES ou ao FMS), em ato a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, nos termos do item 3.3 das teses firmadas no citado precedente paradigma.
+
+Com base na argumentação exposta, concluo não estar evidenciada, no caso concreto, afronta ao entendimento firmado pelo colendo Supremo Tribunal Federal, por ocasião do julgamento do Recurso Extraordinário 1.366.243 – SC, com repercussão geral (Tema Repetitivo n. 1.234).
+
+Portanto, em juízo negativo de retratação, nos termos do artigo 1.030, inciso II, do Código de Processo Civil, mantenho o entendimento firmado no v. acórdão n. 1640539 (ID 41684070), negando provimento ao recurso de apelação interposto pelo DISTRITO FEDERAL e à remessa necessária.
+
+É como voto.
+
+1. Sítio eletrônico do Ministério da Saúde - https://www.gov.br/saude/pt-br/acesso-a-informacao/gestao-do-sus/articulacao-interfederativa/cit - acesso em 11/11/2024 às 13h20
+
+O Senhor Desembargador EUSTAQUIO DE CASTRO - 1º Vogal Com o relatorO Senhor Desembargador DIAULAS COSTA RIBEIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+Novo julgamento realizado, em juízo de retratação, por força das disposições contidas no artigo 1.030, inciso II, do Código de Processo Civil, com a ratificação do v. acórdão exarado anteriormente, pelo qual foi negado provimento ao recurso de apelação interposto pelo Distrito Federal e à remessa necessária. Unânime
