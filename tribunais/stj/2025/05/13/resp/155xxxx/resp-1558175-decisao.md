@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JOSÉ TORRES DE MORAES, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 378):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. DIFERENÇA DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. CRITÉRIOS DE CORREÇÃO. ARTIGO 1º-F DA LEI 9.494/97, COM A REDAÇÃO DADA PELO ART. 5º DA LEI 11.960/2009. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO. AJG.
+1 - O cálculo exequendo deve se basear na remuneração constante das fichas financeiras do servidor. A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo.
+2 - Aplicáveis os critérios de remuneração e juros das cadernetas de poupança a partir de 01/07/2009, conforme previsto no artigo 1º-F da Lei 9.494/97, com a redação dada pelo art. 5º da Lei 11.960/2009.
+3 - Com a modulação dos efeitos da ADIN 4357, restou mantida a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), nos termos da Emenda Constitucional nº 62/2009, até 25.03.2015, data após a qual os créditos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E).
+4 - Os critérios de correção previstos na Lei 11.960/2009, que alterou a redação do artigo 1º-F da Lei 9.494/97, devem ser aplicados sem a capitalização dos juros.
+5 - É perfeitamente possível a compensação da verba honorária fixada nos embargos à execução em favor da parte embargante/executada com os honorários advocatícios fixados no processo de execução, independentemente da concessão de AJG.
+Os embargos de declaração opostos foram parcialmente acolhidos apenas para fins de prequestionamento (fl. 430).
+Nas razões de seu recurso, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 21, 128, 183, 458, II, 460, 535, II, do Código de Processo Civil de 1973 (CPC/1973); 1º e 2º, § 1º, da Medida Provisória 1.704/1998 (sucedida pelas Medidas Provisórias 1.775, 1.812, 1.904, 1.962, 2.086 e 2.169-43/2001); 8º da Medida Provisória 2.225/2001 e 8º da Medida Provisória 1.962-26/2000.
+Sustenta os seguintes pontos:
+a) ocorrência de julgamento extra petita, uma vez que "A r. decisão deste MM. Juízo, portanto, ao determinar a utilização da TR para fins de atualização dos valores devidos até 25 de março de 2015 ampliou os contornos da lide, na medida em que o presente recurso tem por objetivo apenas o afastamento da TR como índice de atualização dos valores devidos entre julho de 2009 e dezembro de 2013, já que, no que diz respeito ao período posterior a janeiro de 2014, ambas as partes concordam com o afastamento da TR" (fl. 440);
+b) nulidade do acórdão recorrido por negativa de prestação jurisdicional;
+c) possibilidade de incidência do reajuste de 28,86% sobre as rubricas relativas aos 3,17% e anuênios;
+d) impossibilidade de utilização da TR como índice de correção monetária;
+e) impossibilidade de compensação dos honorários sucumbenciais arbitrados da execução de sentença com os arbitrados nos embargos do devedor.
+A parte adversa apresentou contrarrazões (fls. 580/591).
+Realizado o juízo de retratação pelo órgão julgador em relação à aplicação dos Temas 810/STF, 905/STJ e 587/STJ, vieram os autos a esta Corte para análise das questões remanescentes do recurso (fl. 751).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Nas razões do recurso especial, relativamente à violação aos arts. 458 e 535 do Código de Processo Civil de 1973, a parte recorrente alegou que o Tribunal de origem não teria se manifestado sobre os seguintes pontos (fl. 442):
+1) questões de direito invocadas pela parte exequente/embargada que, por si só, poderiam dar ensejo à conclusão diversa;
+2) um adequado prequestionamento dos dispositivos normativos pertinentes às questões debatidas;
+3) o cárater extra petita da decisão proferida pelo juízo singular;
+4) inconstitucionalidade da TR e a sua inaplicabilidade aos créditos devidos no feito;
+5) impossibilidade de compensação dos honorários advocatícios da execução com aqueles fixados nos embargos do devedor.
+Constata-se que foram feitas alegações genéricas, que se deixou de indicar especificamente os pontos sobre os quais o julgador deveria ter se manifestado. O recurso especial é deficiente, o que inviabiliza a compreensão da controvérsia.
+Incide no caso em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Em relação à tese de julgamento extra petita, verifico que a questão encontra-se prejudicada, uma vez que realizado o juízo de retratação pelo órgão julgador quanto à aplicação dos Temas 810/STF e 905/STJ.
+Quanto ao mérito, o Tribunal de origem assim decidiu (fls. 372/373):
+Incidência da diferença de 3,17% sobre os anuênios
+Quanto ao ponto, tenho que deve ser mantida a sentença, porquanto o cálculo exequendo deve se basear na remuneração constante das fichas financeiras do servidor, não havendo qualquer determinação no título executivo para que seja considerado o acréscimo desses percentuais no cálculo das diferenças do resíduo de 3,17%.
+Outrossim, a incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo.
+Nesse sentido o entendimento desta Turma:
+EMENTA: ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. JUROS MORATÓRIOS. ARTIGO 354 DO CC. DIFERENÇA DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. CRITÉRIOS DE CORREÇÃO. ARTIGO 1º-F DA LEI 9.494/97, COM A REDAÇÃO DADA PELO ART. 5º DA LEI 11.960/2009. 1- Não há como a Administração, uma vez reconhecido eventual débito em relação a verbas salariais de servidores públicos, efetuar pagamentos administrativos sem que se priorize o pagamento do principal. Não é da sistemática do pagamento de servidores reconhecer direito à determinada parcela remuneratória e destinar o pagamento pura e simplesmente para quitação dos juros da respectiva verba sem que o faça primeiramente em relação ao principal. Inaplicabilidade, assim do artigo 354 do CC/2002 ao caso. 2 - O cálculo exequendo deve se basear na remuneração constante das fichas financeiras do servidor. A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo. 3 - Devida a inclusão, na base de cálculo dos 3,17%, das diferenças apuradas como devidas em razão do aumento de 28,86%. 4 - Aplicam-se, quanto à correção monetária e juros de mora, os índices de remuneração utilizados na remuneração das cadernetas de poupança, com o advento da Lei nº 11.960/2009, que alterou a redação do artigo 1º-F da Lei 9.494/97. (TRF4, AC 5038110- 20.2013.404.7100, Quarta Turma, Relator p/ Acórdão Candido Alfredo Silva Leal Junior, juntado aos autos em 02/05/2014)
+Diante disso, não devem ser incluídas na base de cálculo dos 3,17% as diferenças de anuênios.
+Verifico que os arts. 1º e 2º, § 1º, da Medida Provisória 1.704/1998 (sucedida pelas Medidas Provisórias 1.775, 1.812, 1.904, 1.962, 2.086 e 2.169-43/2001), 8º da Medida Provisória 2.225/2001 e 8º da Medida Provisória 1.962-26/2000 e a tese a eles correlata - possibilidade de incidência do reajuste de 28,86% sobre as rubricas relativas aos 3,17% e anuênios - não foram apreciados pelo Tribunal de origem, a despeito da oposição dos embargos de declaração.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
