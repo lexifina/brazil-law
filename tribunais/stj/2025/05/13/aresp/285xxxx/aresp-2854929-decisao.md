@@ -1,0 +1,36 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 379/382, in verbis:
+O agravo em recurso especial foi interposto por WALACE DE OLIVEIRA RODRIGUES contra decisão da Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo, que inadmitiu recurso especial interposto com fundamento na alínea "a" do art. 105, III, da CF/88.
+Extrai-se dos autos que o agravante foi condenado, em primeira instância, à pena de quatro anos e dois meses de reclusão, em regime aberto, e ao pagamento de 500 dias- multa, como incurso no art. 33, caput, da Lei n. 11.343/06.
+A Defensoria Pública do Estado do Espírito Santo apelou, tendo o TJ/ES, negado provimento em acórdão que recebeu a seguinte ementa:
+EMENTA: APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/2006). RECONHECIMENTO DO TRÁFICO PRIVILEGIADO NA FRAÇÃO MÁXIMA OU ACIMA DO MÍNIMO PREVISTO EM LEI. INCABÍVEL. RECURSO DESPROVIDO.
+1. Incabível o reconhecimento do tráfico privilegiado em sua fração máxima e, tampouco que seja fixada acima do mínimo previsto em lei, uma vez que a quantidade e variedade de drogas apreendidas, somada ao fato de ter o réu deixado seu município de origem para vender entorpecentes em outro município do Estado, demonstra que o acusado já está começando a se dedicar à traficância. Precedentes do c. STJ e deste e. TJES.
+2. Recurso a que se nega provimento. (f. 309)
+Interpôs, então, recurso especial, com fundamento na alínea "a" do art. 105, III, da CF/88, apontando violação ao art. 33, § 4º, da Lei n. 11.343/06 ao argumento de que o Tribunal a quo manteve o patamar de diminuição da pena em 1/3 com fundamentos genéricos, descolados das particularidades do caso. Pede que incida a fração máxima da referida causa de diminuição de pena (f. 320-327).
+O recurso não foi admitido na origem com fundamento no art. 1.030, V, do CPC, pela incidência das Súmula n. 7 e 83 do STJ (f. 334-337).
+Contra tal decisão, foi manejado o presente agravo em recurso especial, no qual a defesa sustenta que a análise da matéria tratada no apelo especial não implica reexame de provas, mas sim, interpretação do dispositivos legais violados, não havendo impedimento à admissão do recurso, sendo inidônea aplicação da Súmula n. 7/STJ. Alega que tampouco incide a Súmula n. 83 do STJ ao argumento de que o STJ possui jurisprudência consolidada, que corrobora a tese defensiva. Pede o provimento do agravo para admissão e regular processamento do recurso especial (f. 340-347).
+Contrarrazões às f. 349-353.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Não se desconhece a orientação desta Corte Superior de que a quantidade e a natureza da droga apreendida constituem elementos aptos a justificar a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, em patamar diferente do máximo.
+Contudo, na espécie, tenho que os fundamentos demasiadamente genéricos deduzidos pelas instâncias ordinárias, bem como a quantidade apreendida - pouco mais de 300g (e-STJ fls. 269) - não se mostram significativos para amparar a aplicação do suscitado redutor em fração diferente do máximo.
+A propósito, confiram-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. APLICABILIDADE. PEQUENA QUANTIDADE DE DROGA APREENDIDA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. RÉU PRIMÁRIO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+3. Segundo o art. 42 da Lei de Drogas, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+4. No caso, ao contrário do firmado pelo Tribunal de origem, entende-se que a quantidade do entorpecente apreendido - 21 invólucros de maconha (40,5g) - não se mostra elevada, fazendo jus o paciente à aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 no grau máximo, sobretudo quando considerada sua primariedade, bons antecedentes e a ausência, no caso concreto, de elementos indicativos de que integre organização criminosa ou de que se dedique à criminalidade.
+4.  .. .
+5. Estabelecida a pena definitiva em 1 ano e 8 meses de reclusão, verificada a primariedade da agente e sendo favoráveis as circunstâncias judiciais, o cumprimento inicial em regime aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal.
+6. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para aplicar a causa de diminuição de pena do art. 33, § 4º, da Lei n.11.343/06 no grau máximo (2/3), tornando a pena definitiva da paciente em 1 ano e 8 meses de reclusão, a ser cumprida em regime aberto, mais o pagamento de 166 dias-multa, substituída, ainda, a sanção corporal por pena restritiva de direitos, a ser fixada pelo Juízo da execução.
+(HC 356.882/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/06/2016, DJe 03/08/2016, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE DROGAS. ALTERAÇÃO DO QUANTUM DE REDUÇÃO PELA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. PEQUENA QUANTIDADE DE DROGA (10,30G DE COCAÍNA). PATAMAR MÁXIMO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Fixada a pena-base no mínimo legal e apreendida pequena quantidade de droga (10,30 gramas de cocaína), legítima é a aplicação da minorante (art. 33, § 4º, da Lei nº 11.343/2006) pelo seu máximo, ou seja, dois terços. Precedentes.
+2. No mais, o Agravante não traz argumentos robustos o bastante a fim de repelir os fundamentos da decisão agravada, que deve ser mantida por seus próprios termos.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 451.358/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/03/2014, DJe 28/03/2014, grifei.)
+Ante o exposto, conheço do agravo para dar provimento ao recuso especial, a fim de reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, e, assim, reduzir a reprimenda para 1 ano e 8 meses de reclusão, mantido o regime aberto, devendo ser substituída por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
