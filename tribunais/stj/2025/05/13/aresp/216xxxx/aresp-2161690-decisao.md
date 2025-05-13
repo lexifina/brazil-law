@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE EDUARDO PENA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pela Turma de Câmaras Criminais Reunidas do Tribunal de Justiça do Estado de Mato Grosso, que desproveu o agravo interno por ele interposto, mantendo, assim, a decisão monocrática que deferiu a realização de buscas e apreensões nas sedes das empresas do recorrente (Viação Xavante Ltda., Viação Araés Ltda. e Rio Novo Transportes e Turismo Ltda.).
+O agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 460-473).
+Contraminuta apresentada (e-STJ fls. 477-486).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 499-505).
+Decido.
+Não merece reparo a decisão que inadmitiu o recurso especial.
+O agravante alega que a decisão que deferiu as medidas cautelares de busca e apreensão não observou os requisitos do art. 240 do CPP, argumentando ausência de "fundadas razões", ausência de vinculação entre as empresas e que o mandado configuraria um "cheque em branco".
+No tocante à alegada violação ao art. 240 do CPP e ausência de requisitos para a decretação da busca e apreensão, o acórdão recorrido assim consignou (e-STJ fls. 369-382):
+"A decisão impugnada está embasada em elementos de convicção produzidos no curso do procedimento investigatório  declarações de funcionários, ex-funcionários, sócios, ex-sócios das empresas envolvidas, assessores parlamentares e dos investigados; interceptações telefônicas telemáticas (emails), buscas e apreensões domiciliares, análises de dados bancários e fiscais obtidos a partir de autorização judicial, dentre outras diligências , que apontaram ser o agravante JOSÉ EDUARDO PENA  proprietário da empresa VIAÇÃO XAVANTE LTDA e "à frente do controle operacional das empresas VIAÇÃO ARAES e RIO NOVO HORIZONTE E TURISMO"  responsável pelo pagamento de propinas e fraudes ao procedimento licitatório visando obstar a implantação do novo Sistema de Transporte Coletivo Intermunicipal de Passageiros no Estado de Mato Grosso.
+A conduta imputada ao agravante JOSÉ EDUARDO PENA e as atividades ilicitas perpretadas pela associação criminosa resultaram delimitadas : com fundamentos faticos-juridicos que merecem reprodução:  .. ".
+Em relação à alegada ausência de vinculação entre as empresas, o acórdão recorrido registrou que "a assertiva do agravante, no sentido de que "não há vinculação alguma entre as empresas", somente pode ser aferida após conclusões das investigações ou mesmo no curso da persecução penal" (e-STJ fl. 379).
+Quanto ao argumento de que o mandado seria um "cheque em branco", o acórdão hostilizado encontra-se fundamentado nos seguintes termos (e-STJ fl. 380):
+"No tocante à alegação de "mandado em branco", extrai-se do ato impugnado que o pedido formulado pelo NACO/GAECO possuía objeto certo e determinado, com indicação das pessoas físicas e jurídicas alvos, dos endereços residenciais/comerciais e referência às provas que serão buscadas no cumprimento da diligência.
+Na decisão, também foi consignado, expressamente, a finalidade da medida cautelar e os materiais, a serem apreendidos, nas sedes das empresas da propriedade do agravante (..)".
+Frise-se, ainda, que afigura-se desnecessário que a "manifestação judicial que defere a cautelar de busca e apreensão esmiúce quais documentos ou objetos devam ser coletados, até mesmo porque tal pormenorização só é possível de ser implementada após a verificação do que foi encontrado no local em que cumprida a medida, ou do que localizado em poder do indivíduo que sofreu a busca pessoal" (STJ, AgRg no HC nº 524.581/RJ - Relator: Min. Jorge Mussi - 13.2.2020)."
+Para infirmar as premissas adotadas pelo Tribunal de origem e acolher a pretensão do agravante quanto à inexistência de fundadas razões e de requisitos para a decretação da medida cautelar, seria necessária ampla incursão no material fático-probatório dos autos, o que é vedado pela Súmula 7 desta Corte.
+Ademais, o entendimento adotado pelo Tribunal de origem harmoniza-se com a jurisprudência firmada no âmbito deste Superior Tribunal de Justiça, que entende que "é desnecessária a pormenorização dos bens a serem arrecadados na fase pré-processual". Nesse sentido:
+RECURSO EM HABEAS CORPUS. CRIMES DE CORRUPÇÃO PASSIVA E ATIVA. NULIDADE DE PROVAS. PRÉVIO WRIT NÃO CONHECIDO PELA CORTE A QUO. DESCABIMENTO DO RECURSO ORDINÁRIO. ART. 105, II, A, DA CF/88. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Recurso improvido.
+ ..
+19. Acrescente-se que, no tocante ao conteúdo do mandado de busca e apreensão, a jurisprudência do Superior Tribunal de Justiça é no sentido de que é despicienda a pormenorização dos bens a serem arrecadados, máxime na fase pré-processual.
+20. Confiram-se os julgados:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. INVESTIGAÇÃO CRIMINAL. DEPUTADO ESTADUAL. NULIDADES. NÃO OCORRÊNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo regimental.
+ ..
+V - No que tange à tese defensiva segundo a qual a medida coercitiva de busca e apreensão seria de "extrema amplitude", depreende-se dos autos que não há que se falar em ilicitude das provas, porque o r. decisum que determinou a busca e apreensão encontra-se dentro de parâmetros adequados, com delimitação precisa e expressa dos objetos que poderiam ser buscados e apreendidos. Não há no ordenamento jurídico pátrio qualquer exigência de que a manifestação judicial que defere a cautelar de busca e apreensão esmiúce quais documentos ou objetos devam ser coletados, até mesmo porque tal pormenorização só é possível de ser implementada após a verificação do que foi encontrado no local em que cumprida a medida, ou do que localizado em poder do indivíduo que sofreu a busca pessoal. Ao contrário, o artigo 243 da Lei Processual Penal disciplina os requisitos do mandado de busca e apreensão, dentre os quais não se encontra o detalhamento do que pode ou não ser arrecadado.
+ ..
+VII - Destarte, em análise minuciosa do caso dos autos, tem-se que não resta configurada qualquer lesão concreta e efetiva a direitos do ora agravante.
+VIII - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios e jurídicos fundamentos.
+Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 145.665/RO, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 28/9/2021, DJe de 5/10/2021, grifei.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. CONCUSSÃO E PECULATO. MANDADO DE BUSCA E APREENSÃO. ARRECADAÇÃO DE DOCUMENTOS NÃO ESPECIFICADOS PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. COAÇÃO ILEGAL INEXISTENTE.
+DESPROVIMENTO DO RECLAMO.
+1. Não há no ordenamento jurídico pátrio qualquer exigência de que a manifestação judicial que defere a cautelar de busca e apreensão esmiúce quais documentos ou objetos devam ser coletados, até mesmo porque tal pormenorização só é possível de ser implementada após a verificação do que foi encontrado no local em que cumprida a medida, ou do que localizado em poder do indivíduo que sofreu a busca pessoal. Precedente.
+2. O artigo 243 da Lei Processual Penal disciplina os requisitos do mandado de busca e apreensão, dentre os quais não se encontra o detalhamento do que pode ou não ser arrecadado.
+3. Na espécie, embora a autoridade judicial tenha explicitado os documentos que deveriam ser apreendidos, cuja existência tinha ciência e cuja importância para as investigações já era conhecida, inexiste qualquer ilegalidade na arrecadação de outros objetos relevantes para o deslinde da controvérsia, encontrados durante o cumprimento da medida. Precedente do STF.
+ ..  (RHC n. 175.817, Ministro Sebastião Reis Júnior, DJEN de 24/02/2025.)
+Assim, não há como acolher a pretensão recursal, tendo em vista que sua análise demandaria incursão no material fático-probatório dos autos, providência vedada pela Súmula 7 desta Corte, além de que a decisão recorrida encontra-se em harmonia com a orientação jurisprudencial desta Corte acerca dos requisitos do mandado de busca e apreensão.
+Ante o exposto, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
