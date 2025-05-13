@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de MARCIO CRISTIANO DE MORAES - condenado por homicídio qualificado tentado e furto simples a 10 anos e 2 meses de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 19/40), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 5031812-25.2014.8.21.0001 (fls. 943/945, da 1ª Vara Central do Júri da comarca de Porto Alegre/RS) -, com o afastamento da exasperação da pena-base, pela negativação dos vetores:
+a) conduta social, sustentando que não há como apontar como negativa a conduta social do réu sob o argumento simplista de que esta é voltada para reiteração delitiva (fl. 10); e
+b) circunstâncias do crime, aduzindo bis in idem ao ter o ilustre relator utilizado a qualificadora do homicídio para exasperar a vetorial Circunstâncias (fl. 14).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a exasperação da pena-base está devidamente fundamentada em elementos concretos dos autos, evidenciando circunstâncias que extrapolam os elementos do tipo penal imputado. Confira-se a fundamento de negativação dos vetores:
+a) conduta social: tanto a vítima como a testemunha Juarez Ribeiro dos Santos afirmaram que o acusado era conhecido pela prática de furtos no estabelecimento em que laboravam, a evidenciar comportamento incompatível com aquele que se espera na comunidade (fl. 35); e
+b) circunstâncias do crime: o delito contra a vida foi cometido na via pública, na contramão até a cancela do Shopping, instante em que o a vítima, fiscal do estabelecimento, conseguiu alcança-lo e se pôs na frente do veículo, fazendo sinal de pare, momento em que MÁRCIO acelerou o veículo, fazendo com que a vítima parasse no parabrisa, fugindo do local, ziguezagueando o carro em via pública, momento em que a vítima caiu ao chão e bateu a cabeça (fl. 14).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E FURTO SIMPLES. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
