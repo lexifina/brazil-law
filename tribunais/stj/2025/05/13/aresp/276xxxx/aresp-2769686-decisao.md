@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por PERNAMBUCANAS FINANCIADORA S/A CRED FIN E INVESTIMENTO contra decisão que inadmitiu recurso especial com fundamento na Súmula 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, o recurso não merece prosperar.
+Quanto à apontada violação ao art. 489, § 1º, IV, do CPC/15, não há nulidade por negativa de prestação jurisdicional no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 571):
+Atento a essas premissas, após análise do conjunto probatório colacionado aos autos, verifica-se que a atuação do Procon se deu de acordo com a legislação aplicável e, por tal razão, não merece nenhuma intervenção do Poder Judiciário. Com efeito, infere-se do processo administrativo que, sob o juízo de valor do órgão fiscalizador, afeto às suas atribuições, houve a comprovação dos fatos alegados pela consumidora e, ainda, a decisão combatida está fundamentada, com a exposição do contexto fático, da norma consumerista violada e da sanção administrativa correspondente, tendo a infratora pleno conhecimento dos motivos de sua autuação. Na situação em exame, depreende-se que a consumidora teve sua linha telefônica bloqueada em maio de 2016, apesar de ter efetuado o pagamento integral das faturas que continham o débito do plano telefônico (abril a junho de 2016). Assim, conclui-se que o bloqueio da linha telefônica não ocorreu devido à falta de pagamento devido à impossibilidade de cobrança junto ao cartão de crédito emitido pela empresa autora, que estava bloqueado preventivamente em junho de 2016. Em vez disso, o bloqueio ocorreu pelo fato de a requerente não repassar à empresa de telefonia os valores recebidos da consumidora. Desta forma, resta evidenciada a falha na prestação do serviço realizada pela requerente/2ª apelante, que recebeu o valor referente à linha telefônica, não o repassou à empresa credenciada, ocasionando o bloqueio do plano telefônico e não restituiu à consumidora a quantia paga. Verifica-se, também, pelos documentos juntados, que a autora/2ª apelante foi efetivamente intimada do procedimento instaurado, a fim de apresentar a pertinente defesa administrativa e, ainda, restou devidamente notificada em face do pronunciamento administrativo condenatório. Portanto, não observo qualquer irregularidade na decisão proferida pelo Procon, pois, diante da constatação da violação à norma consumerista, a atuação do referido órgão de defesa dos direitos do consumidor se mostra perfeitamente legítima.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 489, § 1º, IV, do CPC/15.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Isso posto, com fundament o no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer d o recurso especial e negar- lhe provimento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
