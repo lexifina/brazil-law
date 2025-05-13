@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato bancário, ajuizada por JOSE BERNARDINO DA SILVA, em face da agravante.
+Acórdão: conferiu parcial provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL EM "AÇÃO REVISIONAL DE CONTRATO COM REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS". SENTENÇA CUJO TEOR JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO O DEMANDANTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, ESTES FIXADOS NO PERCENTUAL DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CAUSA, RESSALTANDO, CONTUDO, A CONDIÇÃO SUSPENSIVA DE EXIGIBILIDADE, POR SER O AUTOR BENEFICIÁRIO DA GRATUIDADE DA JUSTIÇA. RECURSO DO CONSUMIDOR REQUERENDO, INICIALMENTE, A CONCESSÃO DOS BENEFÍCIOS DA GRATUIDADE DA JUSTIÇA. NO MÉRITO, VISA A REFORMA DA SENTENÇA. TESE DE ABUSIVIDADE DOS JUROS REMUNERATÓRIOS PACTUADOS. PLEITO DE RESTITUIÇÃO EM DOBRO DOS VALORES INDEVIDAMENTE COBRADOS, BEM COMO A CONDENAÇÃO DO DEMANDADO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. NÃO CONHECIMENTO DO PEDIDO DE JUSTIÇA TENDO EM VISTA QUE O PLEITO FOI APRECIADO PELO MAGISTRADO A QUO. PEDIDO DE EFEITO SUSPENSIVO DO RECURSO NÃO CONHECIDO. INOBSERVÂNCIA AO PROCEDIMENTO LEGAL DISPOSTO NO ART. 1.012, §3º, DO CPC. AUSÊNCIA DE REGULARIDADE FORMAL. ACOLHIMENTO EM PARTE DAS TESES RECURSAIS. ABUSIVIDADE NA TAXA DE JUROS PACTUADA. PERCENTUAL FIXADO ACIMA DA TAXA MÉDIA DE MERCADO PREVISTA PELO BANCO CENTRAL DO BRASIL. RESTITUIÇÃO SIMPLES DOS VALORES INDEVIDAMENTE PAGOS. VALOR A SER RESTITUÍDO QUE DEVE SER ACRESCIDO DE CORREÇÃO MONETÁRIA, COM BASE NO INPC/IBGE, DESDE A DATA DE CADA PAGAMENTO INDEVIDO, ATÉ O DIA DA CITAÇÃO, MOMENTO A PARTIR DO QUAL DEVERÁ INCIDIR UNICAMENTE A TAXA SELIC, QUE ENGLOBA JUROS DE MORA E CORREÇÃO MONETÁRIA. DANOS MORAIS NÃO CONFIGURADOS. REVISÃO DE CLÁUSULAS CONTRATUAIS QUE, POR SI SÓ, NÃO ENSEJAM O DEVER DE INDENIZAR. SUCUMBÊNCIA MÍNIMA DO DEMANDADO. MANUTENÇÃO DA CONDENAÇÃO APENAS DO AUTOR AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, CONFORME ARBITRADO EM SENTENÇA. HONORÁRIOS RECURSAIS INDEVIDOS, EM OBSERVÂNCIA À ORIENTAÇÃO FIRMADA PELO STJ NO RESP N.º 1.573.573/RJ. RECURSO CONHECIDO EM PARTE, E NESSA PARTE, E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Decisão de admissibilidade do TJ/AL: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência da Súmula 7 do STJ; e
+ii) falta de comprovação do dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a agravante aduz que:
+i) não pretende o reexame de fatos e provas.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) falta de comprovação do dissídio jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
