@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAICON BANDEIRA SILVA, para impugnar a decisão proferida pelo Vice-Presidente do Tribunal de Justiça do Estado do Tocantins, que não admitiu o recurso especial.
+Consta dos autos que o recorrente foi condenado à pena de 4 (quatro) anos de reclusão, em regime inicial aberto, pela prática do delito de homicídio qualificado tentado (artigo 121, § 2º, incisos II e IV c/c artigo 14, inciso II, ambos do CP).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação ao art. 564, inciso III, alínea "k", do CPP.
+Não admitido o recurso especial, a defesa interpôs o presente agravo em recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e pelo desprovimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+No que concerne ao recurso especial interposto, o Tribunal de origem reconheceu que o acolhimento da tese de tentativa de homicídio prejudica o enfrentamento da tese defensiva de desistência voluntária (fls. 798/800):
+"Os jurados assentaram que a vítima foi alvo de golpes de faca (1º quesito) e que o réu foi o autor desses golpes contra a vítima (2º quesito), restando indagar se ele deu início a um crime de homicídio, que não se consumou por circunstâncias alheias à sua vontade (3º quesito). Assim, os jurados, respondendo que sim, firmaram a própria competência para prosseguir o julgamento e decidir sobre se o réu deveria ser absolvido ou não. Ao contrário do que alega a defesa, a resposta positiva dos jurados sobre a tentativa já afasta automaticamente a tese da desistência voluntária (CP, art. 15). Na desistência voluntária, o agente, por ato voluntário, interrompe ocurso da execução do crime, abandonando a prática dos demais atos que levariam a consumação do delito e que estavam a sua disposição. Assim, ao decidirem os jurados sobre a conduta do réu amoldar-se à tentativa de homicídio (tendo dado início aos atos de execução do delito, o qual não se consumou por circunstâncias alheias a sua vontade), a tese defensiva de desistência voluntária torna-se prejudicada."
+Colhe-se, no particular, a orientação no sentido de que "o acolhimento da tese relativa à tentativa de homicídio prejudica a análise da suposta desistência voluntária (precedentes desta Corte Superior e do Supremo Tribunal Federal)" (HC 642518 / MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 27/08/2021).
+De rigor, portanto, invocar a Súmula nº 83 desta Corte Superior, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Isso porque "o agravante não demonstrou a inaplicabilidade da Súmula n. 83 do STJ, pois não apresentou precedentes contemporâneos que evidenciassem a desarmonia do julgado com o entendimento jurisprudencial do STJ" (AREsp 2714789 / BA, QUINTA TURMA, de minha relatoria, DJEN 17/02/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
