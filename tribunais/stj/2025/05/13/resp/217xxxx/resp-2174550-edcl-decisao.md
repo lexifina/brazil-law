@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NAVEGANTES COMBUSTÍVEIS E FERRAGENS LTDA, contra decisão que conheceu parcialmente do recurso especial e, na parte conhecida, negou-lhe provimento (fls. 353-366).
+Eis a ementa do julgado (fl. 353):
+RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. ARTIGO 1.022, I, II E III, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TRIBUTAÇÃO MONOFÁSICA. IMPOSSIBILIDADE DE CONSTITUIÇÃO DE CRÉDITOS DE PIS/COFINS. TEMA 1093/STJ. ACÓRDÃO ALINHADO À JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. DISSÍDIO NÃO CONHECIDO. NECESSIDADE DE OBSERVÂNCIA DA ANTERIORIDADE NONAGESIMAL. FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME NO STJ. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+Em suas razões, a embargante aponta omissão no decisum, ao argumento de que "não se considera fundamentada a decisão judicial se limitar a invocar precedente sem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos" (fl. 371).
+Requer o acolhimento dos aclaratórios para suprir o vício apontado.
+O prazo para impugnação transcorreu in albis (certidão de fl. 380).
+É o relatório.
+A Primeira Seção do STJ, ao apreciar os Recursos Especiais n. 2178164/ES, 2124940/RS e 2123838/RS, decidiu submeter à sistemática dos recursos repetitivos questão jurídica relacionada à manutenção de créditos vinculados por comerciantes varejistas de combustível, sujeitos ao regime monofásico de tributação das contribuições para o PIS e a COFINS.
+O julgado produzido na ProAfR no REsp 2178164/ES (Tema 1339), sob a relatoria do Ministro Gurgel de Faria, foi assim resumido:
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PIS E COFINS. REGIME NÃO CUMULATIVO. COMERCIANTE VAREJISTA DE COMBUSTÍVEIS. MANUTENÇÃO DE CRÉDITOS. LEI COMPLEMENTAR N. 192/2022. AFETAÇÃO.
+1. A questão jurídica a ser equacionada pelo Superior Tribunal de Justiça refere-se à possibilidade de assegurar a comerciante varejista de combustíveis a manutenção de créditos vinculados da Contribuição para o PIS e da COFINS, com base nas Leis Complementares n. 192/2022 e 194/2022 e na MP 1.118/2022.
+2. Tese controvertida: decidir se o comerciante varejista de combustíveis, sujeito ao regime monofásico de tributação da Contribuição para o PIS e da COFINS, tem direito à manutenção de créditos vinculados, decorrentes da aquisição de combustíveis, no período compreendido entre a data da entrada em vigor da Lei Complementar n. 192/2022 até 31/12/2022 ou, subsidiariamente, até 22/09/2022, data final do prazo nonagesimal, contado da publicação da Lei Complementar n. 194/2022.
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.178.164/ES, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 15/4/2025, DJEN de 6/5/2025.)
+O órgão julgador, por unanimidade, suspendeu a tramitação dos agravos em recursos especiais e dos recursos especiais que versem sobre a mesma matéria, na segunda instância, ou que estejam em tramitação no STJ.
+Por considerar que a hipótese se amolda ao caso em exame e que o seu debate é prejudicial à análise dos aclaratórios, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: EDcl no AgRg no REsp n. 1.429.700/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, torno sem efeito a decisão embargada (fls. 353-366) e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1339), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL.  EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PIS E COFINS. EMPRESA DISTRIBUIDORA/VAREJISTA DE COMBUSTÍVEL. CREDITAMENTO. TRIBUTAÇÃO MONOFÁSICA. REGIME NÃO CUMULATIVO. MANUTENÇÃO DE CRÉDITOS. TEMA 1339. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
