@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+3. No caso em tela, entretanto, não foi comprovado o dissídio jurisprudencial, uma vez que o acórdão paradigma não guarda similitude fática com o caso aqui tratado.
+4. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental manejado por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182 do STJ.
+A parte agravante defende o desacerto da decisão recorrida, alegando que a pretensão da acusação está de acordo com a jurisprudência desta Corte que, em 10/6/2024, nos autos do AREsp n. 2.153.70/MG, decidiu pela compensação parcial da confissão espontânea com emprego de meio que dificultou a defesa da vítima.
+Requer o provimento do agravo regimental, com o consequente conhecimento e provimento do agravo em recurso especial.
+Nas fls. 808-814 consta parecer ministerial opinando pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+3. No caso em tela, entretanto, não foi comprovado o dissídio jurisprudencial, uma vez que o acórdão paradigma não guarda similitude fática com o caso aqui tratado.
+4. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram desacerto da decisão que não conheceu do agravo em recurso especial.
+Conforme constou na decisão agravada, a inadmissão do recurso especial pelo Tribunal de origem teve por fundamento a Súmula n. 182 do STJ. Por seu turno, a análise das razões do agravo em recurso especial confirma que não houve enfrentamento suficiente da questão.
+Isso porque, segundo a orientação do Superior Tribunal de Justiça, "a superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar  ..  o julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos" (AgRg no AREsp n. 2.543.587/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Não demonstrada tal circunstância nas razões do agravo em recurso especial ou sendo apenas afirmado que, no recurso especial, houve a citação de precedentes, constata-se acerto da decisão de inadmissão proferida na origem. Nesse sentido (destaquei):
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese. Precedentes.
+4. Agravo regimental não conhecido.
+(AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+3. Na hipótese dos autos, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à incidência da Súmula n. 83/STJ, apontado pelo Tribunal de origem como um dos fundamentos para inadmitir o recurso.
+4. Nos termos da orientação jurisprudencial desta Corte Superior, inadmitido o recurso especial com fundamento na Súmula n. 83/STJ óbice que também se aplica aos recursos especiais manejados com fundamento na alínea "a" do permissivo constitucional, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte sobre o tema, o que não ocorreu na hipótese dos autos. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.649.953/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+Ressalto que, no tocante ao dissídio jurisprudencial apontado, o julgado paradigma não guarda semelhança fática com o acórdão recorrido. Naquele caso, a vítima restou totalmente imobilizada, com as pernas e as mãos amarradas. Neste, foi considerado, para fins de compensaç ão com a confissão, o motivo fútil.
+Diversa, portanto, a importância e seriedade das circunstâncias agravantes de cada caso.
+Dessa forma, não foi comprovado o dissídio jurisprudencial, na forma do art. 1.029, § 1º, do Código de Processo Civil, e do art. 255, § 1º, do Regimento Interno do STJ, por ausência de identidade fática entre os julgados paradigma e impugnado. Precedentes: AgRg no REsp n. 1.989.069/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no AREsp n. 2.489.541/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024; AgRg no AgRg no AREsp n. 2.123.273/DF, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.
+Apesar das alegações defensivas, a parte agravante não conseguiu refutar a deficiência no cotejo analítico, pois deixou de comprovar que o realizou, contrapondo o paradigma indicado e o caso dos autos para demonstrar a semelhança entre as circunstâncias e a aplicação de teses divergentes. Nesse sentido: AgRg no AREsp n. 2.096.679/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023; e AgRg no AREsp n. 2.247.257/PA, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
