@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em recurso especial interno interposto pelo ESTADO DO RIO DE JANEIRO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso II do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 1400):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. MEIO AMBIENTE E PATRIMÔNIO HISTÓRICO E CULTURAL. DEFESA DO NÚCLEO HISTÓRICO RODRIGUES CALDAS, ANTIGA COLÔNIA JULIANO MOREIRA. SENTENÇA DE IMPROCEDÊNCIA. IMÓVEL TOMBADO. ESTADO DE PRECARIEDADE E ABANDONO. OBRAS, PROMOVIDAS PELO PODER PÚBLICO QUE SE MOSTRAM INSUFICIENTES À MANUTENÇÃO DA INTEGRIDADE DA CONSTRUÇÃO. NECESSIDADE DE RESTAURAÇÃO, CONSERVAÇÃO E REALIZAÇÃO DE OBRAS EMERGENCIAIS, VISANDO A PRESERVAÇÃO DA ESTRUTURA. PROTEÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. DANO MORAL COLETIVO, CONFIGURADO, CUJO VALOR DEVERÁ SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram eles rejeitados (fls. 1500-1509).
+Em seu recurso especial, às fls. 1527-1539, o recorrente sustenta violação aos artigos 489, II, §1º, IV e 1022, I, II e parágrafo único, II, do Código de Processo Civil e 19 do Decreto-lei nº 25/37, ao argumento de que o acórdão recorrido teria deixado de apresentar fundamentação específica sobre questões arguidas, especialmente sobre a responsabilidade principal do proprietário do imóvel tombado, que é o Município, e não o Estado.
+Defende que a responsabilidade principal pela conservação do imóvel tombado é do proprietário, que tem capacidade financeira para tal (fls. 1535-1536), razão pela qual, não há falar em responsabilidade solidária do Estado.
+O Tribunal de origem, às fls. 717-718, não admitiu o recurso especial sob os seguintes argumentos:
+I. Do Recurso Especial do Estado do Rio de Janeiro
+O recurso não será admitido.
+Inicialmente, a alegada ofensa aos artigos 489, §1º, IV, e 1.022, I, do CPC, nada mais é do que inconformismo com o teor da decisão atacada, uma vez que o acórdão recorrido dirimiu, fundamentadamente, as questões submetidas ao colegiado, não se vislumbrando qualquer dos vícios do art. 1.022 do CPC.
+Com efeito, o Órgão Julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo Jurisdicionado durante o processo judicial, em obediência ao que determinam o artigo 93, IX da Constituição da República e, a contrario sensu, o artigo 489, § 1º do CPC.
+Não se pode confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária aos interesses da parte recorrente. Inexistente qualquer vício a ser corrigido porquanto o acórdão guerreado, malgrado não tenha acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Nesse sentido:
+(..)
+Ademais, o detido exame das razões recursais revela que a recorrente ao impugnar o acórdão recorrido que entendeu por sua responsabilidade solidária quanto à obrigação de recuperar o bem degradado, pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, que não perfaz questão de direito, mas tão somente reanálise fático-probatória, inadequada para interposição de recurso especial.
+(..)
+Dessa maneira, pelo que se depreende da leitura do acórdão recorrido, verifica-se que eventual modificação da conclusão do Colegiado passaria pela seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, de modo que não merece trânsito o recurso especial, face ao óbice do Enunciado nº 7 da Súmula de Jurisprudência do Superior Tribunal de Justiça (A pretensão de simples reexame de prova não enseja recurso especial).
+Além disso, o acórdão recorrido reconhece que a solidariedade entre os entes públicos está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+E, na medida em que o julgado atacado está de acordo com o entendimento do Superior Tribunal de Justiça, inadmissível o recurso especial à luz da Súmula nº 83 do STJ (Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.), mesmo quando fundado no artigo 105, III, "a", da CRFB. Nesta esteira:
+(..)
+No agravo, de fls. 1822-1835, o Estado agravante alega que o acórdão impugnado não apresentou fundamentação adequada sobre questões essenciais, como a responsabilidade subsidiária do ente tombador e a capacidade do Município para cumprir suas obrigações.
+Aduz que o recurso especial enfrenta matéria de direito, com destaque para a "questão da responsabilização pela reparação de imóvel tombado pelo ente tombador quando o proprietário também é ente público com capacidade financeira e que faz uso exclusivo do imóvel, com evidente contrariedade ao que dispõe a Lei do Tombamento (artigo 19 e parágrafos do Decreto-lei nº 25/37)" (fl. 1807).
+Assevera que, quanto à aplicação da Súmula 83/STJ, "a jurisprudência indicada na decisão agravada não representa questão idêntica destes autos, em especial por não tratarem especificamente da responsabilidade decorrente do tombamento" (fl. 1816).
+É o relatório.
+A insurgência não merece prosperar.
+Com efeito, verifica-se que o agravante aponta malferimento aos artigos 489, II, §1º, IV e 1022, I, II e parágrafo único, II, ambos do Código de Processo Civil, sem, no entanto, explicitar por quais razões jurídicas cada uma das referidas normas processuais teriam sido contrariadas .
+Não obstante, nos termos da jurisprudência deste STJ, "não basta a mera indicação do dispositivo supostamente violado, pois as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa reformar o decisum" (AgRg no REsp n. 1.466.668/AL, rel. Min. Humberto Martins, Segunda Turma, DJe de 2/2/2016), o que não ocorreu na hipótese.
+De fato, "no recurso especial, não basta a simples menção dos artigos que se reputam violados, as alegações devem ser fundamentadas, havendo uma concatenação lógica, demonstrando de plano como o aresto hostilizado teria malferido os dispositivos indicados" (AgRg no REsp 262.120/SP, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA TURMA, DJ 03/10/2005), o que não se deu no caso dos autos.
+Dessarte, incide, na espécie, por analogia, o enunciado 284 da Súmula do STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO. SÚMULA 284/STF. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DA LEI FEDERAL. SÚMULA 14/STJ. CABIMENTO. IMPOSSIBILIDADE. ALEGAÇÃO DE ERRO NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Não se pode conhecer do recurso especial quando sua argumentação não demonstra de que modo a violação à lei federal se materializou. Súmula 284 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.314.471/RN, rel. Min. Paulo Sérgio Domingues,
+Primeira Turma, DJe de 26/6/2024)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ART. 1.022 DO CPC. IMPUGNAÇÃO GENÉRICA. SÚMULA 284/STF. NECESSIDADE DE APONTAR A FORMA COMO SE DEU A VIOLAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ILEGITIMIDADE ATIVA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. SOBRESTAMENTO. DESNECESSIDADE.
+(..)
+2. Quanto ao art. 506 do CPC, não houve desenvolvimento, nas razões recursais, de argumentos capazes de demonstrar a forma como se deu a violação do dispositivo legal. O conhecimento do Recurso Especial exige que a parte desenvolva, em suas razões, argumentos aptos a demonstrar o modo como teriam ocorrido as violações apontadas, sob pena de incidência, novamente, da Súmula 284/STF.
+(..)
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.120.487/DF, rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/6/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRAZO PRESCRICIONAL QUINQUENAL. SÚMULA 83 DO STJ. ALTERAÇÃO DAS PREMISSAS. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+(..)
+2. Na interposição de recurso especial, não basta a simples menção da norma federal tida por violada, sendo necessária a demonstração clara e precisa da ofensa em que teria incorrido o v. aresto hostilizado, sob pena de incidência da Súmula 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 884.469/SP, rel. Min. Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, DJe de 23/4/2018)
+Em relação à alegada violação ao artigo 19 do Decreto-Lei nº 25/37, denota-se que referida norma não foi expressamente interpretada pela Corte de origem, padecendo, portanto, do indispensável prequestionamento.
+Assim, tem-se que perquirir nessa via estreita sobre a violação da aludida norma, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+No caso, a despeito da oposição de embargos de declaração, a Corte local não analisou a questão, ainda que implicitamente, sob o enfoque do mencionado artigo, carecendo o recurso especial do requisito do prequestionamento, nos termos do enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De fato, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, situação essa inocorrente in casu. Confiram-se, nesse sentido, os precedentes da Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTROLE DE COMPETÊNCIA DO JUÍZADOS ESPECIAIS. DECADÊNCIA AFASTADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.533.370/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MUNICÍPIO DE CAPINZAL CONDENADO EM DEMANDA INDENIZATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA APONTADA COMO PARADIGMA. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. No caso, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284/STF.
+2. A tese do recurso especial não foi objeto de análise, a despeito da oposição de embargos de declaração, sob o viés pretendido pela agravante, pelo Tribunal de origem. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211/STJ.
+3. A jurisprudência desta Corte firmou-se no sentido de que que as decisões monocráticas não servem como paradigmas à comprovação de dissídio jurisprudencial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.930.521/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489, II, §1º, IV E 1022, I, II E P. Ú., II, AMBOS DO CPC. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF, APLICADA POR ANALOGIA. VIOLAÇÃO AO ART. 19 DL Nº 25/37. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
