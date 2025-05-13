@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por Petróleo Brasileiro S/A, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 313):
+ADMINISTRATIVO. REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. COMPENSAÇÃO DE CRÉDITO DE ROYALTIES PAGOS A MAIOR NA APURAÇÃO DA PRODUÇÃO MENSAL DAS CONCESSÕES EXCLUSIVAS. ATUALIZAÇÃO DO CRÉDITO PELO IPCA-E DEFERIDA PELA ANP. INCORREÇÃO NO PAGAMENTO DE RESPONSABILIDADE DA CONCESSIONÁRIA. UTILIZAÇÃO DA TAXA SELIC. DESCABIMENTO.
+1. A dispensa de duplo grau de jurisdição obrigatório, contida no artigo 496, §3º, inciso I, do Código de Processo Civil/2015, somente é aplicável a valores certos e líquidos, conforme expressamente determina a redação do preceito legal, incidindo, no caso vertente, a remessa necessária, com fulcro no artigo 496, §§ 1º e 2º do referido diploma normativo.
+2. Cinge-se a controvérsia em aferir se para a atualização do crédito objeto da compensação deferida pela ANP, decorrente dos royalties pagos a maior à Autarquia no mês de março/2014 referente à produção de petróleo e gás natural das concessões exclusivas dos Campos de Baleia Franca e Jubarte, deve ser aplicada a Taxa SELIC, como requerido pela demandante, ou a correção pelo IPCA-E, como autorizada pela ANP consoante o noticiado no Ofício nº 060/2016/SGP-ANP.
+3. A Taxa SELIC possui natureza híbrida englobando em seu cômputo juros de mora e correção monetária, objetivando compensar lesão ao patrimônio estatal em determinado período, no qual o ente público restou privado do montante que lhe era devido a título de tributo, sendo igualmente devido para fins de atualização dos créditos tributários dos contribuintes com o Fisco, em repetições de indébito ou compensações, em observância ao princípio da isonomia.
+4. Constatado que a ANP não concorreu para a ocorrência do pagamento efetuado a maior pela PETROBRÁS, fruto de ato unilateral da concessionária, afigura-se descabida a incidência da taxa SELIC, que contempla juros moratórios em seu cálculo, para atualização do crédito objeto de compensação. Precedentes desta Corte.
+5. Remessa necessária e apelação da ANP providas.
+Opostos embargos declaratórios, foram rejeitados (fls. 349/353).
+Irresignada, a parte recorrente aponta violação aos arts. 66 da Lei n. 8.383/91 e 39, § 4º, da Lei n. 9.250/95. Para tanto, sustenta que, em caso de "compensação ou restituição do valor indevido ou pago a maior para receitas patrimoniais", o respectivo crédito será corrigido pela taxa Selic.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No presente caso, o recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, o de que a Lei n. 8.383/91 impede a incidência da taxa Selic na hipótese de royalties.
+Destarte, o inconformismo esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
