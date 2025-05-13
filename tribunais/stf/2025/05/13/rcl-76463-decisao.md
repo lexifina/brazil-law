@@ -1,0 +1,111 @@
+DECISÃO
+
+RECLAMAÇÃO. RE Nº 695.911-RG/SP; TEMA RG Nº 492. DISCUSSÃO NESTA VIA SOBRE A APLICAÇÃO DE TEMA DA REPERCUSSÃO GERAL. TERATOLOGIA: AUSÊNCIA.  USURPAÇÃO DE COMPETÊNCIA DO STF: INOCORRÊNCIA. USO COMO SUCEDÂNEO RECURSAL: VEDAÇÃO. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de reclamação, com pedido de liminar, formalizada por Ricardo Mitsugu Nakayama e outro (a/s), contra acórdão proferido pela 2ª Turma Cível do Colégio Recursal de Bauru/SP, no Processo nº 1000354-26.2022.8.26.0458, mediante o qual teria inobservado o firmado no RE nº 695.911/SP, Tema nº 492 do ementário da Repercussão Geral.
+
+    2. Os reclamantes narram que ajuizaram ação para que fossem cessadas as cobranças indevidas de associação de proprietários de loteamento.
+
+    3. Informam que a autoridade reclamada considerou legal a cobrança das taxas de manutenção e conservação, os associando compulsoriamente. Ressaltam que tal providência é inadmissível, uma vez que não eram associados e adquiriram o lote, em questão, anteriormente à Lei nº 13.465, de 2017.
+
+    4. Requerem a concessão de medida liminar para suspender os efeitos do acórdão reclamado até o julgamento definitivo da reclamação.
+
+    5. No mérito, buscam a procedência do pedido para cassar o acórdão reclamado, destacando os seguintes pontos: i) impossibilidade de associação tácita; ii) prevalência do princípio da liberdade associativa  sobre o princípio da vedação do enriquecimento sem causa; iii) que não há vedação para a desfiliação dos que não possuem registro associativo em suas matrículas, “concluindo-se que houve violação ao Tema 492 (ausência de anuência expressa) e ao tema 922 (associação compulsória sem base legal)”.
+
+É o relatório.
+
+Decido.
+
+    6. A reclamação, inicialmente concebida como construção jurisprudencial, reveste-se de natureza constitucional, tendo como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), além da observância de enunciado da Súmula Vinculante do STF (art. 103-A, § 3º, da CRFB).
+
+    7. Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito do Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+    8. No caso em tela, alega-se inobservância ao decidido no RE nº 695.911/SP, leading case do Tema nº 492 da Repercussão Geral, no qual fixada a seguinte tese:
+
+“É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.”
+
+    9. Por seu turno, o ato reclamado consubstancia-se de acórdão proferido pelo Colégio Recursal reclamado, que deu provimento ao recurso inominado interposto pelo ora beneficiário, utilizando-se dos seguintes fundamentos (e-doc. 26; grifos acrescentados):
+
+“RECURSO INOMINADO DECLARATÓRIA DE INEXISTÊNCIA DE VÍNCULO ASSOCIATIVO E DE INEXIGIBILIDADE DE VALORES - TAXAS DE MANUTENÇÃO E CONSERVAÇÃO DE LOTEAMENTO IMOBILIÁRIO URBANO, PORPARTE DE ASSOCIAÇÃO, DE PROPRIETÁRIONÃO-ASSOCIADO PRINCÍPIO DA VEDAÇÃOAO ENRIQUECIMENTO ILÍCITO PREVALECE SOBRE O PRINCÍPIO DA LIBERDADE ASSOCIATIVA - TEMA 492 STF ACEITAÇÃOTÁCITA DA COBRANÇA PORQUANTO A PARTE AUTORA SEMPRE PAGOU AS TAXAS CONDOMINIAIS PRINCÍPIO DO "VENIRE CONTRA FACTUM PROPRIUM" RECURSOCONHECIDO E PROVIDO PARA JULGARIMPROCEDENTE O PEDIDO INICIAL. SENTENÇA REFORMADA.”
+(...)
+Trata-se de recurso inominado interposto em face da r. sentença de fls. 206/208 proferida pelo MM. Juiz de Direito Dr. Fernando Baldi Marchetti que julgou procedente o pedido, com fulcro no art. 487, I, do CPC, para declarar a inexistência de vínculo associativo entre os litigantes e a inexigibilidade das taxas associativas por ventura cobradas da parte autora.
+Fls. 231/239: Recorre a ré alegando, em síntese, que promoveu o registro do ato obrigacional perante o cartório de registro de imóveis de Piratininga, “cujo Estatuto Social prevê a cotização dos proprietários de imóveis, titulares de direitos ou moradores no loteamento em consonância como art. 36-A e seu parágrafo único da Lei nº 6.677/79 e com Tema de Repercussão Geral nº 492, do STF” (fl. 179); que mesmo desligando-se do quadro associativo, a obrigação dos recorridos em quitar as taxas mensais de manutenção se mantém; que, ainda, que conforme consta no §3º, do artigo 10, do mencionado Estatuto, os recorridos, quando desligados do quadro de associados, continuam usufruindo dos serviços prestados pela Associação; que, portanto, desligar-se da associação é possível, contudo, necessário manter-se regularmente em dia com as taxas de manutenção do Residencial. Requer a reforma da sentença para que seja julgado improcedente o pedido inicial.
+(...)
+O recurso merece provimento.
+Trata-se de ação declaratória de inexistência de vínculo associativo e inexigibilidade de valores cobrados a título de cota por Associação de Moradores. Sustentaram os autores, ora recorridos, que são proprietários e residem em lote com edificação localizado no Residencial Vale Florido, em Piratininga/SP. Relataram que notificaram a ré manifestando seu desejo de se desligarem da associação, comunicado este recebido pela ré em 04/2018, e desde então deixaram de efetuar o pagamento da taxa associativa. Requereram seja reconhecida a inexistência de relação jurídica com a ré, bem como a declaração de indébito enquanto não se associarem, ainda que haja aprovação e registro de novo estatuto.
+Quanto ao assunto, o Superior Tribunal de Justiça já havia se posicionado em meados de 2015, através do Tema 882 em recurso repetitivo (REsp nº 1.280.871/SP e REsp nº 1.439.163/SP), culminando na seguinte tese firmada: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram."
+Nada obstante, com o advento da Lei 13.465/2017 que alterou a Lei 6.766/1976, que dispõe sobre o parcelamento do solo urbano e dá outras providências, foi introduzido artigo 36-A e seu paragrafo único, por meio do qual dispõe que "as atividades desenvolvidas pelas associações de proprietários de imóveis, titulares de direitos ou moradores em loteamentos ou empreendimentos assemelhados, desde que não tenham fins lucrativos, sujeita seus titulares à normatização e a disciplina constantes de seus atos constitutivos, cotizando-se na forma desses atos para suportar a consecução dos seus objetivos."
+Assim, diante da divergência entre a lei de 2017 e o Tema 882 do STJ de 2015, o litígio foi levado para o Supremo Tribunal Federal, por meio do RE 695.911, Tema 492 da lista da repercussão geral, restando decidido que:
+(...)
+A temática, pois, não mais se compreende dentro dos domínios da livre associação e desfiliação, porquanto a exigência pecuniária passa a ter fonte legal.
+A questão constitucional enfrentada pela Corte Suprema, no cenário atual, é essencialmente sobre o alcance do direito à livre associação dos proprietários de imóveis em loteamentos, frente aos entes voluntariamente constituídos com a finalidade de administração e manutenção de serviços nas áreas de uso comum nessa espécie de parcelamento de solo.
+No mais, trata-se, pois, do denominado "condomínio atípico", advindo de loteamento fechado, o que é aceito.
+Por um lado, um aspecto é a associação que, por disposição constitucional e estatutária, deve obter do filiado a sua expressa e espontânea vinculação ao quadro associativo, e outro aspecto se refere à situação do condomínio, onde aqueles que utilizam serviços e investimentos comuns devem contribuir com a sua quota parte nas despesas.
+Não se trata unicamente de se associar, mas sim de evitar o enriquecimento sem causa, pois a parte autora se aproveita dos serviços prestados pela Associação - custeados por todos os outros moradores - e o conforto que elas oferecem, e não quer dispensar nada por isso, enriquecendo-se às custas dos demais condôminos, o que não pode ser acolhido.
+A recorrente promove serviços comuns e de interesse geral dos moradores e proprietários do “Residencial Vale Florido”, e não se pode olvidar que a consecução desses serviços de interesse comum dos proprietários e moradores geram despesas, as quais devem ser pagas com os recursos provenientes da arrecadação da contribuição de todos os interessados, independente da filiação ou não à associação.
+Ademais, os recorridos adquiriram o imóvel no Residencial administrado pela recorrente no ano de 2010 (fls. 16/17), cientes de que se tratava de um condomínio, tendo contribuído com as taxas condominiais antes e inclusive depois do advento da Lei 13.465/2017, sendo que somente requereram o desligamento da associação em abril de 2018, mas sua aceitação tácita é evidente, caso contrário, não teriam pagado as taxas condominiais desde que passaram a ter lote naquele local. A atitude contraditória dos recorridos se afigura como venire contra factum proprium, vedação que se fundamenta em princípio do Direito Civil.
+Consequentemente, o pedido contraposto formulado pela recorrente merece prosperar, pois a ninguém é dado o direito de beneficiar-se de todos os serviços e investimentos colocados no loteamento, com a contribuição dos demais moradores e proprietários, e sem dar a sua quota parte na contribuição.
+O pleito dos autores/recorridos traduz-se em beneficiar-se da contribuição dos demais moradores e/ou proprietários, gozando dos serviços e investimentos realizados no loteamento, sem qualquer comprometimento nas despesas, ou seja, enriquecendo às custas dos demais condôminos. Assim, como não há obrigatoriedade de os autores de se vincularem à associação de moradores, também não lhe é permitido usufruir os benefícios comuns gratuitamente.
+E as cotas condominiais visam cobrir as despesas úteis e necessárias à manutenção da coisa comum, bem como o pagamento dos funcionários encarregados da segurança e limpeza. Assim, o condômino estará sempre obrigado a cobrir as despesas condominiais, na proporção de sua quota parte, como emerge claro do artigo 1.336 do Código Civil, e arts. 2º parágrafo 8º e 36-A da Lei nº 6.766/79 quer quanto as despesas ordinárias, quer quanto as extraordinárias
+Corrobora-se esse entendimento pelo Código Civil, que trouxe como princípio elementar e essencial em matéria cível a vedação ao enriquecimento sem causa.
+Assim, considerando que os recorridos já eram proprietários de lote à data da constituição da Associação, tendo pago as taxas condominiais inclusive após a promulgação da Lei 13.465/2017, é evidente que os recorridos estão pretendendo se esquivar da obrigação de pagar taxa que tacitamente já tinham aceitado em pagar até então, o que não deve ser prestigiado.
+(...)
+Pelo meu voto, DOU PROVIMENTO AO RECURSO, a fim de reformar a r. sentença a quo, julgando-se improcedentes os pedidos iniciais.”
+
+    10. Na sequência, o Órgão Especial do Tribunal reclamado, ao apreciar o agravo interno dirigido contra a negativa de seguimento ao recurso extraordinário, assim concluiu:
+
+“AGRAVO INTERNO – INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO TEMA Nº 492 DO E. STF INADMISSIBILIDADE - RECURSO A QUE SE NEGA PROVIMENTO.
+(...)
+O recurso em comento se presta a reverter juízo negativo de admissibilidade de recurso especial ou extraordinário, cabendo à recorrente demonstrar ser equivocada a decisão recorrida. Conforme entendimento consolidado do STF, a apreciação da Repercussão Geral é de competência concorrente das turmas recursais. Inicialmente, verifico que a decisão impugnada se encontra em conformidade com o Tema nº 492 do Egrégio Supremo Tribunal Federal. (...)
+(...)
+Diante disso, verifico que o recurso interposto não preenche os requisitos de admissibilidade. Destarte, recebo o recurso de agravo por ser tempestivo, mas nego-lhe provimento por não estar demonstrada a repercussão geral no recurso extraordinário, bem como inexistir violação de dispositivo constitucional a ensejar o cabimento do recurso.”
+
+    11. Nesse cenário, denota-se que a conclusão a que chegou o Tribunal reclamado está em harmonia com a tese fixada no Tema nº 492 do ementário da Repercussão Geral, no tocante à exibilidade das contribuições associativas cobradas na espécie. Conforme asseverado pela autoridade reclamada “os recorridos adquiriram o imóvel no Residencial administrado pela recorrente no ano de 2010 (fls. 16/17), cientes de que se tratava de um condomínio, tendo contribuído com as taxas condominiais antes e inclusive depois do advento da Lei 13.465/2017, sendo que somente requereram o desligamento da associação em abril de 2018, mas sua aceitação tácita é evidente, caso contrário, não teriam pagado as taxas condominiais desde que passaram a ter lote naquele local. A atitude contraditória dos recorridos se afigura como venire contra factum proprium, vedação que se fundamenta em princípio do Direito Civil” (e-doc. 26, p. 5).
+
+    12. Com efeito, ambas as Turmas desta Corte já se manifestaram pela licitude da cobrança de taxa de manutenção de loteamentos fechados após a edição da Lei federal nº 13.465, de 2017:
+
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. COBRANÇA DE TAXA DE MANUTENÇÃO E CONSERVAÇÃO DE MORADOR NÃO ASSOCIADO. INCONSTITUCIONALIDADE DA COBRANÇA REFERENTE A PERÍODO ANTERIOR À VIGÊNCIA DA LEI 13.467/2017. TEMA 492 DA REPERCUSSÃO GERAL. PROVIMENTO PARCIAL. 1. O Plenário desta SUPREMA CORTE, no julgamento do RE 695.911, de relatoria do Min. DIAS TOFFOLI, julgado sob o rito da repercussão geral (Tema 492), DJe. 19/4/2021, fixou tese no sentido de que: ‘É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.’. 2. No caso concreto, consta da petição inicial requerimento para que “seja julgado procedente o pedido para condenar o Requerido ao pagamento do principal, bem como das taxas condominiais que vencerem no curso desta ação”. 3. Logo, é inconstitucional apenas a cobrança referente ao período que antecedeu a vigência da Lei 13.465/2017, sendo permitida a cobrança das taxas de manutenção que venceram após a vigência da norma regulamentadora. 4. Agravo interno a que se dá provimento parcial.” (RE nº 1.337.075-AgR-segundo/DF, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 29/11/2021, p. 07/12/2021; grifos nossos).
+
+“AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE MORADORES. LOTEAMENTO. TAXAS DE MANUTENÇÃO. DEVER DE PAGAMENTO. TEMA N. 492 DA REPERCUSSÃO GERAL. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. O Supremo assentou a inconstitucionalidade da cobrança de taxa de manutenção e conservação de loteamento imobiliário urbano apenas quando alusiva a período anterior à vigência da Lei n. 13.465/2017. Tema n. 492/RG. 2. Dissentir da conclusão alcançada pelo Colegiado de origem – quanto à existência de consentimento dos recorrentes em relação ao custeio das despesas – demandaria revolvimento dos elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 3. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 4. Agravo interno desprovido.” (RE nº 1.401.255-ED-AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, j. 04/09/2023, p. 22/09/2023; grifos nossos).
+
+    13. Destaco que esta Corte já assentou, por diversas vezes, que a impugnação, por meio de reclamação, de eventual incorreção quanto à aplicação de paradigma da repercussão geral somente é viável quando houver teratologia na decisão reclamada. Essa não é a situação dos autos. Nesse sentido, confiram-se os seguintes julgados:
+
+“RECLAMAÇÃO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO TEMA 492 DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INADMISSIBILIDADE DO RECURSO. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL PROVIDO PARA NEGAR SEGUIMENTO À RECLAMAÇÃO.
+1. Na linha do que consignado no item ‘i’ da Tese do Tema 492 da sistemática da repercussão geral, mesmo após o advento da Lei nº 13.465/2017, a cobrança por parte de associação ou entidades equiparadas a administradoras de imóveis de taxa de manutenção e conservação de loteamento imobiliário urbano dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado que já possuíam lote somente se revela possível após a devida adesão ao ato constitutivo da entidade.
+2. Para a viabilidade da reclamação fundada no art. 988, § 5º, II, do CPC, exige-se, além do esgotamento das vias ordinárias, que a interpretação dada pela Corte de origem ao tema de repercussão geral invocado seja teratológica. Não havendo teratologia na aplicação da tese de repercussão geral, a reclamação deve ser julgada improcedente.
+3. Agravo regimental provido para negar seguimento à reclamação.”
+(Rcl nº 51.082-AgR/SP, Rel. Min. Gilmar Mendes, Red. do Acórdão Min. Edson Fachin, Segunda Turma, j. 27/06/2022, p. 19/08/2022; destaques acrescidos).
+
+“AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. JUÍZO NEGATIVO DE ADMISSIBILIDADE DO APELO EXTREMO. RE 695.911-RG (TEMA 492). TAXA DE CONSERVAÇÃO DE LOTEAMENTO IMOBILIÁRIO URBANO. NECESSÁRIA ADESÃO AO ATO CONSTITUTIVO DAS ASSOCIAÇÕES PARA OS JÁ PROPRIETÁRIOS DE IMÓVEIS. LEI Nº 13.465/2017. MARCO TEMPORAL. BENEFICIÁRIO DO ATO RECLAMADO NÃO MAIS INTEGRAVA A ASSOCIAÇÃO DESDE 2016. ALEGAÇÃO DE MÁ APLICAÇÃO DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Alinhada a compreensão da Corte de origem ao julgamento proferido por este Supremo Tribunal Federal no RE 695.911-RG (Tema 492), no sentido da necessidade de adesão, por aqueles que já eram proprietários de imóveis antes do advento da Lei nº 13.465/2017, ao ato constitutivo das associações, para a cobrança de taxa de manutenção e conservação de loteamento imobiliário urbano.
+2. Não se excogita, pois, má aplicação do precedente de repercussão geral, de modo que a espécie não se amolda à hipótese autorizadora do cabimento da reclamação prevista no art. 102, I, l, da Constituição da República.
+3. Agravo interno conhecido e não provido.”
+(Rcl nº 49.026-AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, j. 08/02/2022, p. 15/02/2022; destaques acrescidos).
+
+“Agravo regimental em reclamação. Negativa de seguimento a recurso extraordinário com fundamento no Tema nº 492 da Repercussão Geral. Ausência de usurpação da competência do STF. Inexistência de teratologia na aplicação do tema. Agravo regimental ao qual se nega provimento.
+1. Não configura usurpação de competência do STF a decisão do Tribunal de origem, em sede de agravo interno, de manter a negativa de seguimento a recurso extraordinário com base em entendimento firmado em regime de repercussão geral.
+2. Não há teratologia na aplicação ao caso do Tema nº 492 da Repercussão Geral pela autoridade reclamada.
+3. Agravo regimental não provido, com aplicação de multa (art. 1.021, § 4º, do CPC).”
+(Rcl nº 53.568-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 27/06/2022, p. 05/08/2022; destaques acrescidos).
+
+    14. Revela-se evidente, portanto, a ausência de hipótese de cabimento da reclamação constitucional, tendo sido utilizada tal medida como sucedâneo recursal, providência vedada pela jurisprudência desta Corte. Confiram-se os seguintes julgados:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ADERÊNCIA ESTRITA: AUSÊNCIA. USO COMO SUCEDÂNEO RECURSAL: VEDAÇÃO.
+1. Este Supremo Tribunal Federal tem jurisprudência consolidada quanto à exigência, para o cabimento da reclamação constitucional, da aderência estrita entre o objeto do ato reclamado e o conteúdo do paradigma tido como violado.
+2. A reclamação constitucional é ação direcionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, pelo que não se consubstancia como sucedâneo recursal ou ação rescisória.
+3. Agravo regimental ao qual se nega provimento.”
+(Rcl nº 54.831-AgR/GO, de minha relatoria, Segunda Turma, j. 03/11/2022, p. 09/11/2022).
+
+“Agravo regimental em embargos de declaração em reclamação. ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão reclamada. Sucedâneo recursal. Impossibilidade. Redução do valor da multa do art. 1.026, § 2º, do CPC em razão do elevado valor da causa. Agravo regimental parcialmente provido.
+1. A reclamação constitucional é ação vocacionada para a tutela específica da competência e da autoridade das decisões proferidas pelo Supremo Tribunal Federal, não servindo como sucedâneo dos recursos cabíveis ou de ação rescisória.
+2. Impõe-se a redução da multa prevista no art. 1.026, § 2º, do CPC, quando, em razão do elevado valor da causa, resta configurada a desproporcionalidade do percentual fixado.
+3. Agravo regimental parcialmente provido.”
+(Rcl nº 52.823-ED-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, j. 18/10/2022, p. 19/12/2022; grifos nossos).
+
+    15. Ante o exposto, nego seguimento à reclamação, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido liminar. Sem honorários, de acordo com entendimento prevalente na Segunda Turma do Supremo Tribunal Federal.
+
+Publique-se.
+Brasília, 13 de maio de 2025.
+
+Ministro ANDRÉ MENDONÇA
+Relator
