@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SERCEL-INDUSTRIA DO MOBILIARIO LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 416):
+CONSELHOS REGIONAIS. CRQ. INSCRIÇÃO E RESPONSABILIDADE TÉCNICA. DESNECESSIDADE. ANUIDADES. ART. 5º DA LEI Nº 12.514/2011. HONORÁRIOS ADVOCATÍCIOS FIXAÇÃO POR EQUIDADE. ART. 85, § 8º-A DO CPC. LEI Nº 14.365/2022. TABELA DA OAB. RECOMENDAÇÃO. RAZOABILIDADE.
+1. Nos termos do art. 1º da Lei 6.839/80, que trata do registro de empresas nas entidades fiscalizadoras do exercício de profissões, o critério para a exigência de inscrição no órgão de classe é a atividade básica desenvolvida pela empresa.
+2. A jurisprudência desta Corte possui entendimento pacífico no sentido de que as indústrias fabricantes de produtos plásticos não necessitam de registro no Conselho Regional de Química.
+3. No caso, a empresa autora tem como atividade básica a "Fabricação de artefatos de material plástico para uso pessoal e doméstico", portanto, não ensejando a obrigatoriedade de registro e da contratação do profissional de química.
+4. Por não ter a parte autora apresentado requerimento administrativo visando o cancelamento do registro, tem-se como marco interruptivo para cobrança das anuidades a citação do Conselho nos autos, momento em que tomou ciência da pretensão da autora (art. 5º da Lei 12.514/2011).
+5. Este Tribunal firmou entendimento no sentido de que, ainda que a utilização da tabela de honorários da OAB seja mera recomendação, não vinculando os advogados e com maior razão o Poder Judiciário, esta deve ser prestigiada, nos casos em que a fixação da verba honorária com base nela não seja desproporcional para a questão em exame.
+Não foram opostos embargos declaratórios.
+Em seu recurso especial de fls. 426-432, alega o recorrente violação do art. 85, §8-A, do CPC, ao defender que "considerando as peculiaridades do caso concreto, o valor fixado a título de honorários advocatícios revela-se irrisório, motivo pelo qual merece ser revisto por este Superior Tribunal de Justiça" (fl. 431).
+O Tribunal de origem, às fls. 451-453, não admitiu o recurso especial pelo seguinte fundamento:
+rever a conclusão da Turma implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial, ponto em que o recurso deve ser inadmitido.
+Em seu agravo, às fls. 461-466, no tocante à incidência do enunciado nº 7 da Súmula do STJ, a parte agravante defende, em suma, que "O STJ possui precedentes que permitem a revisão dos honorários advocatícios fixados de forma irrisória, sem que isso configure reexame de prova, como em decisão em sede de agravo interno onde se estabeleceu que "é possível a revisão da verba honorária arbitrada pelas instâncias ordinárias quando evidenciado nos autos que esta foi estimada em valores manifestamente excessivos ou irrisórios"" (fl. 369).
+É o relatório.
+Decido.
+A insurgência não pode ser conhecida.
+De início, verifica-se que a parte agravante não infirmou de modo suficiente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em um único fundamento: (i) a incidência do enunciado 7 da Súmula do STJ, em razão da contenda demandar reexame fático e probatório dos autos.
+Todavia, no seu agravo, a parte não infirmou adequadamente o fundamento supra citado, de maneira que este, à míngua de impugnação suficiente, específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a integralidade do fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. DESCANSO SEMANAL REMUNERADO. SOBREAVISO. PRÊMIOS. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA À DECISÃO DE ADMISSIBILIDADE PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 83/STJ. JURISPRUDÊNCIA DOMINANTE. SÚMULA 182/STJ. PRECEDENTE DA CORTE ESPECIAL DO STJ.
+ ..
+5. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, bem como ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+6. Ademais, a Corte Especial do Superior Tribunal de Justiça assentou, no julgamento dos EAREsp 746.775/PR, ser necessária a impugnação específica de todos os fundamentos da decisão denegatória do Recurso Especial, sob pena de não conhecimento.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.428.209/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
