@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por MARIA ANGELICA BONILLA RAMIREZ E TATIANE MARTINS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 10/12/2024.
+Concluso ao Gabinete em: 5/3/2025.
+Ação: embargos à execução, opostos pelas agravantes em desfavor de M V PEDRAS E MATERIAIS DE CONSTRUÇÃO LTDA, decorrente de ação de execução de título executivo extrajudicial.
+Sentença: julgou improcedentes os embargos, extinguindo o processo, sem resolução de mérito.
+Acórdão: negou provimento à apelação interposta pelas agravantes, nos termos das seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DA EXECUTADA. CONSTATADA A AUSÊNCIA DE PREPARO. DISPENSA DO PAGAMENTO DO PREPARO RECURSAL DIANTE DA REPRESENTAÇÃO DA APELANTE POR CURADOR ESPECIAL. CONHECIMENTO DO RECURSO EM HOMENAGEM AOS PRINCÍPIOS DA AMPLA DEFESA E DO ACESSO À JUSTIÇA. PRELIMINARES. INVERSÃO DO ÔNUS PROBATÓRIO. INVIABILIDADE. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. IMPOSSIBILIDADE, AINDA, DA ADOÇÃO DA TEORIA FINALISTA MITIGADA. INDEMONSTRADA A HIPOSSUFICIÊNCIA NA SITUAÇÃO ANALISADA. INVIABILIDADE DE DISTRIBUIÇÃO DINÂMICA DO ÔNUS PROBATÓRIO COM BASE NO ART. 373, §1º, DO CPC. AUSÊNCIA DE FATOS CONCRETOS A INDICAR DIFICULDADE NA PRODUÇÃO DA PROVA. REPRESENTAÇÃO PARTE POR CURADOR ESPECIAL QUE NÃO IMPLICA, POR SI SÓ, A REDISTRIBUIÇÃO DO ÔNUS DA PROVA. PRELIMINAR REJEITADA.
+PLEITO DE EXIBIÇÃO EM CARTÓRIO DA VIA ORIGINAL DOS CHEQUES, SOB PENA DE INÉPCIA DA INICIAL E INEXIGIBILIDADE DOS TÍTULOS DE CRÉDITO. NÃO ACOLHIMENTO. PROCESSO DE EXECUÇÃO QUE TRAMITAVA EM AUTOS FÍSICOS, COM AS VIAS ORIGINAIS DIGITALIZADAS E ARQUIVADAS EM CARTÓRIO. ADEMAIS, AINDA QUE NÃO FOSSE ESSE O CASO, O CÓDIGO DE PROCESSO CIVIL ESTIMULA A TRAMITAÇÃO ELETRÔNICA DOS PROCESSOS JUDICIAIS E IMPÕE AO ADVOGADO A RESPONSABILIDADE PELA AUTENTICIDADE E GUARDA DOS DOCUMENTOS DIGITALIZADOS. INTELIGÊNCIA DOS INCISOS IV, VI E §1º, DO ART. 425, DO CPC. OUTROSSIM, TAMPOUCO FORAM DEMONSTRADAS CIRCUNSTÂNCIAS CONCRETAS APTAS A SUSCITAR DÚVIDAS QUANTO À AUTENTICIDADE E O RISCO DE CIRCULAÇÃO DOS TÍTULOS.
+MÉRITO. SUSCITADO A IRRESPONSABILIDADE DA EX-SÓCIA PELO DÉBITO. IMPOSSIBILIDADE DE REDIRECIONAMENTO DA EXECUÇÃO POR SE TRATAR DE DÍVIDA DECORRENTE DE PESSOA JURÍDICA DE RESPONSABILIDADE LIMITADA. TESE REJEITADA. DISTRATO E EXTINÇÃO DA SOCIEDADE REGISTRADO NA JUNTA COMERCIAL, NO QUAL HOUVE EXPRESSA ASSUNÇÃO PELA EX-SÓCIA APELANTE DAS DÍVIDAS DA SOCIEDADE. CONSTATADA, POIS, SUA LEGITIMIDADE PARA RESPONDER PELOS DÉBITOS.
+PEDIDO PARA A APELADA DEMONSTRAR O CUMPRIMENTO DA AVENÇA ORIGINAL. IMPOSSIBILIDADE. TÍTULO QUE OSTENTA NATUREZA ABSTRATA E AUTÔNOMA, PODENDO SER MITIGADA EM CASOS ESPECIAIS, NA AUSÊNCIA DE CIRCULAÇÃO DA CÁRTULA E DIANTE DE ELEMENTOS QUE COMPROVEM A EXISTÊNCIA DE VÍCIOS NO NEGÓCIO JURÍDICO ORIGINÁRIO. INEXISTÊNCIA, NO CASO CONCRETO, DE INDÍCIOS MÍNIMOS DE INADIMPLEMENTO CONTRATUAL. INVIABILIDADE DE DISCUSSÃO DA CAUSA DEBENDI. SENTENÇA MANTIDA.
+REQUERIMENTO DE FIXAÇÃO DE HONORÁRIOS ASSISTENCIAIS AO CURADOR ESPECIAL. POSSIBILIDADE. AUSÊNCIA DE FIXAÇÃO DE NA ORIGEM. POSSIBILIDADE DE CUMULAÇÃO COM HONORÁRIOS SUCUMBENCIAIS. VERBAS ARBITRADAS NOS TERMOS DA RESOLUÇÃO CM N. 5/2023 DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA.
+RECURSO CONHECIDO E DESPROVIDO.
+(e-STJ Fls. 141)
+Embargos de declaração: opostos pelas agravantes, foram rejeitados.
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) considerando as particularidades apontadas à e-STJ Fls. 219/222, ausência de negativa de prestação jurisdicional (art. 1.022 do CPC);
+ii) ausência de prequestionamento dos arts. 110, 341, parágrafo único, e 373, § 1º, do CPC; e 50, 286 e 884 do CC (Súmula 211/STJ);
+iii) deficiência de fundamentação quanto aos arts. 425, caput, IV e VI, §§ 1º e 2º, do CPC; e 1.052 e 1.109 do CC (Súmula 284/STF);
+iv) incidência da Súmula 283/STF, "(..) pois as razões recursais não são capazes de derruir os fundamentos do aresto, de que: a) os cheques originais encontram-se arquivados em cartório e digitalizados nos autos da execução; e b) por ocasião da liquidação e extinção da pessoa jurídica executada, a sócia - ora recorrente -"se responsabilizou, pessoalmente, por todo o passivo porventura supervenientes", consoante se retira do excerto acima transcrito" (e-STJ Fls. 222/223); e
+v) no tocante ao dissídio alegado, incidência da Súmula 284/STF.
+Agravo em recurso especial: nas razões do presente recurso, as agravantes alegam que:
+i) houve efetiva negativa de prestação jurisdicional e ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem não apreciou as teses apontadas quanto à natureza dos títulos executivos e responsabilidade pelos débitos na hipótese;
+ii) a guarda de documento original de título executivo é dotada de impossibilidade legal, bem como não há assunção de dívidas pela empresa extinta;
+iii) houve prequestionamento da matéria, mormente ante a oposição dos embargos de declaração na origem;
+iv) é inaplicável a Súmula 284/STF, havendo fundamentação suficiente acerca dos dispositivos legais apontados;
+v) a Súmula 283/STF é de ser afastada, pois "o título executivo não é original, e a Agravante jamais assumiu débitos passados, apenas os futuros com o ativo que porventura for receber, e a obrigação é condicionada a este ativo" (e-STJ fl. 239); e
+vi) houve similitude fática a ensejar o afastamento da Súmula 284/STF no que tange à divergência jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que as agravantes não demonstraram, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) ausência de prequestionamento dos arts. 110, 341, parágrafo único, e 373, § 1º, do CPC; e 50, 286 e 884 do CC (Súmula 211/STJ);
+ii) deficiência de fundamentação quanto aos arts. 425, caput, IV e VI, §§ 1º e 2º, do CPC; e 1.052 e 1.109 do CC (Súmula 284/STF); e
+iii) incidência da Súmula 283/STF, "(..) pois as razões recursais não são capazes de derruir os fundamentos do aresto, de que: a) os cheques originais encontram-se arquivados em cartório e digitalizados nos autos da execução; e b) por ocasião da liquidação e extinção da pessoa jurídica executada, a sócia - ora recorrente -"se responsabilizou, pessoalmente, por todo o passivo porventura supervenientes", consoante se retira do excerto acima transcrito" (e-STJ Fls. 222/223).
+As agravantes, assim, não demonstraram, de forma clara e específica, a inaplicabilidade dos referidos óbices, limitando-se a tecer considerações genéricas e a reprisar a sua argumentação de mérito, não trazendo, de fato, a adequada impugnação à sua incidência, notadamente para fins de demonstra r o efetivo desacerto da decisão.
+Saliente-se, nesse passo, no que tange à Súmula 211/STJ, que as agravantes alegaram, genericamente, a existência de prequestionamento. Cumpre esclarecer, entretanto, que o afastamento do referido fundamento deve ser demonstrado com a indicação expressa dos trechos nos quais foi analisada a questão tida por violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Consigne-se, por fim, nos termos da jurisprudência desta Corte, que o arbitramento de honorários ao defensor dativo é de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei 8.906/1994, razão pela qual deve ser pleiteado na origem, não nesta Corte, já havendo a sua fixação na espécie (e-STJ Fl. 223). Nesse sentido: EDcl no AgRg no AREsp n. 2.359.577/SC, Rel. Ministro Jesuíno Rissat o (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17.5.2024; e AgRg no AREsp n. 1.448.743/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 2.6.2020.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 1%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurs o contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
