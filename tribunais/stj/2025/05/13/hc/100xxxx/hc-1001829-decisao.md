@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAICON ARIELSON NEVES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento da Revisão Criminal n. 0003521-58.2025.8.16.0000, em que o Desembargador relator não conheceu da ação.
+Na presente impetração a defesa requer a concessão da ordem "a fim de reconhecer a atenuante da confissão e compensá-la integralmente com a agravante da reincidência, bem como restabelecer a sentença em relação à fração de 2/3 relativa à tentativa, procedendo, ao final, o redimensionamento da pena para fixá-la em 6 anos e 8 meses de reclusão" (e-STJ fl. 15).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No caso, verifico flagrante ilegalidade a atrair a concessão da ordem de ofício.
+Com efeito, quanto à confissão, verifica-se que o réu, de fato, ainda que parcialmente, admitiu as práticas criminosas referenciadas, fornecendo dados que corroboraram a condenação.
+Assim sendo, não há empecilho à aplicação da atenuante prevista no art. 65, III, "d", do Código Penal, no percentual de 1/6, considerando que esta Corte Superior de Justiça assentou a orientação de que mesmo a confissão qualificada permite a sua incidência. Nesse sentido:
+HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA DA PENA. CONFISSÃO PARCIAL. COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. PRECEDENTES. PARECER DA PROCURADORIA-GERAL DA REPÚBLICA ACOLHIDO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Conforme o entendimento sedimentado na Súmula n. 545 do Superior Tribunal de Justiça, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+2. Ainda que o Paciente tenha declarado em juízo conjuntura que pareça a descrição de simples subtração - o que configuraria crime diverso -, tal conduta também constitui elementar do delito de roubo, por se tratar de crime complexo, consistente na prática de furto associada à violência ou grave ameaça.
+3. Outrossim, no voto condutor do acórdão impugnado, consignou-se que o Paciente admitiu parcialmente os fatos em audiência. Portanto, na hipótese deveria ter ocorrido a compensação da agravante da reincidência com a atenuante, pois a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que deve ser promovida a compensação entre a agravante da reincidência e a atenuante da confissão espontânea ainda que a última tenha sido apenas parcial.
+4. Não pesa contra o Paciente a multirreincidência. Dessa forma, é de rigor a compensação integral entre a confissão espontânea e a agravante da reincidência.
+5. Parecer Ministerial acolhido. Ordem de habeas corpus concedida.
+(HC 525.885/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020.)
+Quanto dos delitos de associação e de resistência, todavia, não há falar na aplicação da benesse em referência, pois os autos evidenciam que o paciente negou a prática de tais crimes (e-STJ fls. 21/25).
+Ainda, no julgamento do REsp n. 1.341.370/MT, da relatoria do Ministro Sebastião Reis Júnior, proferido sob o rito dos recursos repetitivos, a Terceira Seção desta Corte pacificou o entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+A propósito:
+PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO. COMPENSAÇÃO ENTRE ATENUANTE DE CONFISSÃO COM AGRAVANTE DE REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no artigo 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+2. Conforme entendimento do Superior Tribunal de Justiça, pacificado por ocasião do julgamento do Recurso Especial Repetitivo 1.341.370/MT, da relatoria do Ministro Sebastião Reis Júnior, a agravante da reincidência e a atenuante da confissão espontânea são igualmente preponderantes, pelo que devem ser compensadas.
+3. (..)
+4. Agravo regimental não provido. Provimento alterado para fixar a nova pena. (AgRg no REsp n. 1.567.351/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016, grifei.)
+De outro lado, segundo a jurisprudência desta Corte, tratando-se de tentativa branca em que, apesar de efetuados disparos, a vítima não é atingida, deve ser aplicada a fração máxima de 2/3 pela tentativa, já que o bem jurídico (vida), conquanto ameaçado, não foi lesado pela conduta delituosa.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO TENTADO. APLICAÇÃO DA PENA. TERCEIRA FASE. TENTATIVA BRANCA. REDUÇÃO DA PENA NA FRAÇÃO MÁXIMA. POSSIBILIDADE.
+1. De acordo com reiterados precedentes desta Corte, nas hipóteses dos crimes de latrocínio e homicídio em que não há lesão à vítima (tentativa branca ou incruenta), a fração de redução da pena deve ser aplicada no máximo legal de 2/3 (dois terços), considerado o iter criminis percorrido.
+2. Na hipótese, em que pesem os disparos de arma de fogo, não houve lesões às vítimas, de modo que a respectiva redução deve ser aplicada no máximo legalmente previsto, isto é, na fração de 2/3 (dois terços). Precedentes.
+3. Agravo regimental provido a fim de fixar o percentual máximo de redução pela tentativa, redimensionando a reprimenda do agravante para 6 anos e 8 meses de reclusão, e pagamento de 3 dias-multa.
+Estendidos os efeitos deste decisum ao corréu João Carlos de Souza Costa.
+(AgRg no HC n. 734.316/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO TENTADO. DOSIMETRIA. TERCEIRA FASE. QUANTUM DE REDUÇÃO DA PENA. CRITÉRIO DO ITER CRIMINIS PERCORRIDO. TENTATIVA BRANCA OU INCRUENTA CONFIGURADA. APLICAÇÃO DA FRAÇÃO DE 2/3. AGRAVO DESPROVIDO.
+1. No que tange ao art. 14, II, do CP, pode-se afirmar que, quanto mais perto o agente chegar da consumação da infração penal intentada, menor será o percentual de redução; ao contrário, quanto mais distante o resultado pretendido pelo agente, maior será a diminuição da pena.
+2. É incontroverso nos autos que a hipótese é de tentativa branca, já que, conforme consignado pelas instâncias ordinárias, o réu não conseguiu ferir a vítima com o disparo de arma de fogo efetuado. Não há dúvida, portanto, que o bem jurídico (vida), nesse caso, embora tenha sofrido ameaça, não foi efetivamente alcançado pela conduta delituosa. Em situações de tentativa branca, esta Corte Superior tem aplicado a fração de 2/3 (dois terços), que é a máxima prevista no dispositivo de regência.
+3. Não tendo as instâncias ordinárias fundamentado de forma concreta e idônea a redução da pena na fração mínima, constatando-se tratar-se de tentativa branca ou incruenta, cabível é a redução da pena na fração máxima de 2/3.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 678.017/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. LATROCÍNIO. TENTATIVA INCRUENTA. MINORANTE. FRAÇÃO DE DOIS TERÇOS.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo, em ordem a que se evolua para o mérito.
+2. Embora não se trate de previsão legal especifica, não há ilegalidade na exasperação da pena-base na aplicação da fração de 1/8 entre a variação mínima e máxima das penas fixadas abstratamente ao delito, porquanto fixada dentro dos critérios de razoabilidade e proporcionalidade considerados pela jurisprudência desta Corte.
+3. "Conforme a jurisprudência do Superior Tribunal de Justiça, na hipótese de tentativa branca ou incruenta - quando não há lesões à vítima -, a respectiva redução deve ser aplicada no máximo legalmente previsto, isto é, na fração de 2/3 (dois terços)" (HC 473.074/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/11/2018, DJe 13/12/2018).
+4. Agravo regimental provido. Agravo conhecido para prover parcialmente o recurso especial. Aplicação da redução em 2/3 pelo crime de latrocínio tentado. Efeito extensivo ao corréu (art. 580 - CPP). Condenação definitiva de José de Arimatéia de Oliveira Bastos (re) fixada em 13 anos e 10 meses de reclusão e 25 dias-multa, no regime fechado; e de Rafael Braz da Silva (re) fixada em 12 anos e 9 meses de reclusão e 19 dias-multa, e 3 meses de detenção, no regime fechado.
+(AgRg no AREsp n. 1.925.308/TO, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região , Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022, grifei.)
+Assim, faz-se necessária a readequação da pena.
+A pena-base foi fixada acima do mínimo legal, em 20 anos de reclusão, e, na segunda fase, a atenuante da confissão espontânea foi compensada parcialmente (já que qualificada) com a agravante da reincidência; além de ter sido estabelecida a fração de 2/3 de diminuição pela tentativa. Desse modo, a pena alcança o patamar definitivo de 7 anos e 6 meses, ante a ausência de outras causas modificativas.
+Mantido, no mais, o acórdão impetrado.
+Ante o exposto, indefiro liminarmente o habeas corpus, mas concedo a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
