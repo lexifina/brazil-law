@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por YAN MARCOS RODRIGUES DE BRITO, contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, nos autos da Apelação Criminal nº 0004858-37.2020.8.27.2721, que negou provimento ao apelo defensivo, mantendo a condenação do réu à pena de 06 (seis) anos e 08 (oito) meses de reclusão, no regime inicial semiaberto, além de 20 (vinte) dias-multa, como incurso nas penas do art. 157, § 2º-A, inciso I, do Código Penal.
+O agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 299-304).
+Contraminuta apresentada (e-STJ fls. 308-313).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo não conhecimento do recurso especial (e-STJ fls. 328-337).
+É o relatório.
+Decido.
+O agravo não merece conhecimento.
+Com efeito, verifica-se que o recurso especial teve seu seguimento negado em virtude da incidência do óbice da Súmula n. 83/STJ, pois o entendimento adotado pelo Tribunal de origem estaria conforme a jurisprudência desta Corte.
+Ao interpor o presente agravo, o recorrente limitou-se a reiterar as razões do recurso especial acerca da alegada nulidade no reconhecimento fotográfico, sem impugnar especificamente o fundamento utilizado na decisão agravada.
+O agravante apenas alegou que, "conforme já se aludiu, o Recurso Especial não tem a finalidade de discutir o teor das provas juntadas aos autos, em razão da vedação da Súmula 7 desta Corte Especial, de modo que o intuito é o de tão-somente revisar a validade do reconhecimento fotográfico realizado nos autos, tendo em vista o não cumprimento dos requisitos obrigatórios" (e-STJ fl. 303).
+No entanto, ao analisar as razões do agravo, verifica-se que a parte agravante deixou de impugnar específica e adequadamente todos os fundamentos da decisão agravada, limitando-se a reiterar, de forma genérica, que as matérias tratadas no recurso especial foram prequestionadas e que não haveria necessidade de reexame probatório.
+Nota-se, portanto, que o recorrente não demonstrou que o acórdão impugnado dissentiu da jurisprudência desta Corte Superior, não se desincumbindo do ônus de afastar o óbice sumular aplicado.
+Nesse contexto, tem aplicação o enunciado da Súmula 182/STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Sobre o tema, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVANTE QUE ARGUI QUESTÃO DE ORDEM SUSTENTANDO A EXISTÊNCIA DE IRREGULARIDADES PROCEDIMENTAIS E A NULIDADE DO ACÓRDÃO QUE NÃO CONHECEU DO AGRAVO INTERNO. INEXISTÊNCIA DE NULIDADE. ACÓRDÃO SUFICIENTE FUNDAMENTAMENTO QUE NÃO CONHECE DO AGRAVO INTERNO COM BASE NA SÚMULA N. 182 DO STJ. PRETENSÃO DE REVISÃO DO ACÓRDÃO IMPUGNADO. INADEQUAÇÃO DA VIA ELEITA. PEDIDO NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do STJ, no julgamento de questão de ordem, já decidiu que, "a par de não haver previsão legal ou regimental de julgamento colegiado da matéria, a análise monocrática do pleito em tela não acarretou nenhum prejuízo ao agravante, uma vez que contra a respectiva decisão foi possível a interposição do presente agravo regimental" (AgRg na APn n. 940/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 20/9/2023, DJe de 3/10/2023).
+2. Por meio de simples petição, a parte agravante apresenta Questão de Ordem em relação ao processamento do feito perante esta Corte, sustentando a nulidade do acórdão que, com base na Súmula n. 182 do STJ, não conheceu do agravo interno interposto pela parte agravante.
+Sustenta, para tanto, a existência de irregularidades procedimentais, visto que "o v. acórdão infringiu forte a garantia do contraditório-defesa, posto abertamente invalidar as teses de defesa ao sobrepor nova decisão mediante o mesmo fundamento antes contestado".
+3. Inexiste nulidade no acórdão desta Segunda Turma que, de forma suficientemente fundamentada, não conheceu do agravo interno interposto pela parte agravante, diante da ausência de impugnação específica - nas razões do agravo interno - dos fundamentos da decisão agravada, mormente quanto à incidência, no caso, do óbice da Súmula n. 7 do STJ, atraindo, assim, com acerto, a incidência da Súmula n. 182 do STJ.
+4. Esta Corte já decidiu que "não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado" (AgInt no REsp n. 2.103.088/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+5. Observa-se o descontentamento da parte requerente e a sua pretensão de revisão do acórdão impugnado, o que deve dar-se por meio da via processual adequada, sob pena de multa.
+6. Agravo interno desprovido."
+(AgInt no AgInt nos EDcl no AREsp n. 2.351.303/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é pacífica no entendimento de que, para afastar o óbice da Súmula 7/STJ, é necessário que o recorrente demonstre que a controvérsia envolve apenas a qualificação jurídica dos fatos estabelecidos pelo acórdão recorrido, o que não ocorreu no caso em exame.
+Ainda que superado tal óbice, verifica-se que o acórdão impugnado está em harmonia com a jurisprudência desta Corte, que tem admitido o reconhecimento pessoal ou fotográfico, ainda que não observe rigorosamente os procedimentos do art. 226 do CPP, quando há outros elementos de prova a corroborar a autoria delitiva, como ocorre no caso em exame.
+No acórdão recorrido, o Tribunal de origem consignou expressamente que a condenação se baseou não apenas no reconhecimento fotográfico, mas também no reconhecimento pessoal realizado em juízo, no depoimento da vítima, nos depoimentos testemunhais, no interrogatório do recorrente e nas demais circunstâncias fáticas do caso (e-STJ fl. 203).
+Conforme precedente desta Corte:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECONHECIMENTO FOTOGRÁFICO. PROVAS CORROBORATIVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ .. 6. A jurisprudência do STJ estabelece a possibilidade de condenação, mesmo quando o reconhecimento fotográfico foi realizado sem a observância das formalidades do art. 226 do CPP, quando corroborado por outras provas independentes colhidas sob o crivo do contraditório e da ampla defesa.
+7. No caso concreto, além do reconhecimento fotográfico, a condenação foi embasada em depoimentos de vítimas e testemunhas e filmagens de câmeras de segurança.
+8. A análise aprofundada das provas demandaria um reexame do acervo fático-probatório, o que é inadmissível na via do habeas corpus. .. "
+(AgRg no HC n. 909.505/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.)
+Ante o exposto, não conheço do agravo.
+ EMENTA
