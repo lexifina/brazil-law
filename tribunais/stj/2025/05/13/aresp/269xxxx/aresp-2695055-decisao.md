@@ -1,0 +1,35 @@
+DECISÃO
+Depreende-se dos autos que FRANCISCO DA CONCEICAO SANTOS e OUTROS interpuseram recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ, fl. 146-147):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LEI N. 8.112/90. ADICIONAL DE INSALUBRIDADE. PERCENTUAL. TRANSPOSIÇÃO DO REGIME CELETISTA PARA ESTATUTÁRIO. EX-SERVIDORES CELETISTAS DA FUNASA. AUSÊNCIA DE DIREITO ADQUIRIDO. ATO JURÍDICO PERFEITO. NÃO VIOLAÇÃO. LEI N. 8.270/91. PRESCRIÇÃO QUINQUENAL. SENTENÇA MANTIDA.
+1. Cuida-se de decisão proferida na regência do CPC de 1973, sob o qual também foi manifestado o recurso, e conforme o princípio do isolamento dos atos processuais e o da irretroatividade da lei, as decisões já proferidas não são alcançadas pela lei nova, de sorte que não se lhes aplicam as regras do CPC atual, inclusive as concernentes à fixação dos honorários advocatícios, que se regem pela lei anterior.
+2. A jurisprudência já se consolidou no sentido de que não há direito adquirido à manutenção de adicionais ou vantagens pessoais concedidos em regime jurídico diverso daquele que o servidor faz parte desde a égide da Lei n. 8.112/90, não sendo o caso de se falar, do mesmo modo, em violação ao ato jurídico perfeito, à coisa julgada ou ao princípio da irredutibilidade de vencimentos. Precedentes deste Tribunal.
+3. O adicional de insalubridade tornou-se efetivamente devido, aos servidores públicos federais, com a edição da Lei n. 8.270/91, que regulamentou o art. 68 da Lei n. 8.112/90, devendo ser pago em percentuais de 5%, 10% e 20%, a depender do grau de insalubridade ser mínimo, médio ou máximo, respectivamente, a ser aplicado sobre o vencimento do cargo efetivo, e não mais com base no salário mínimo como previsto na CLT, não se caracterizando, portanto, redução dos valores a serem pagos, eis que distinta a base de cálculo.
+4. Prescrição das parcelas vencidas anteriormente ao quinquênio que antecede ao ajuizamento da ação (Súmula 85 do STJ).
+5. Apelação da parte autora desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 182-191).
+Nas razões do recurso especial (e-STJ, fls. 197-220), os recorrentes apontaram, além de divergência jurisprudencial, violação aos arts. 7º, 8º, 371, 373, I, II, 390, § 1º, 405, 411, 425, VI, 426, 430, 435, 436, 489, § 1º, IV, §§ 2º e § 3º, do CPC/2015; à Lei n. 8.112/1990; e à Lei 8.270/1991.
+Sustentaram, em síntese: a) negativa de prestação jurisdicional; b) os autores fazem jus à manutenção do adicional de insalubridade em grau máximo, dada a comprovação do direito alegado; e c) cabimento da juntada de prova emprestada por se tratar de fato novo.
+Contrarrazões às fls. 223-239 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial (e-STJ, fls. 240-241), o que levou a parte insurgente à interposição do recurso de fls. 245-270 (e-STJ), ascendendo os autos a esta Corte por determinação da Vice-Presidência do TRF1.
+Impugnação à fl. 272 (e-STJ).
+Brevemente relatado decido.
+Em melhor exame dos autos, verifica-se que o recurso acostado às fls. 245-270 (e-STJ), interposto contra decisão da Corte de origem que inadmitiu o recurso especial, com base no art. 1.030, V, do CPC/2015, foi dirigido ao próprio TRF da 1ª Região, com denominação de agravo interno e fundamentado no art. 1.021 do CPC/2015, o qual ampara aquele inconformismo.
+Efetivamente, o presente recurso foi dirigido ao próprio órgão prolator da decisão impugnada, a quem compete sua análise, nos termos do art. 1.021, § 2º, do CPC/2015.
+A Corte regional, por sua vez, recebeu o aludido agravo interno como agravo em recurso especial (art. 1.042 do CPC/2015), enviando-o a esta Corte Superior para apreciação (e-STJ, fl. 273).
+No entanto, nos termos da jurisprudência do Superior Tribunal de Justiça, a interposição equivocada de recurso quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro.
+Nesse contexto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie.
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE O RECURSO ESPECIAL. RECURSO CABÍVEL. AGRAVO EM RECURSO ESPECIAL. EXPRESSA PREVISÃO NO ART. 1.042 DO CPC/2015. PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. ERRO GROSSEIRO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Consoante a jurisprudência desta Corte, o único recurso cabível da decisão do primeiro juízo de admissibilidade do recurso especial é o agravo previsto no art. 1.042 do CPC/2015, que deve ser dirigido à Presidência do Tribunal de origem e processado nos próprios autos, e não por instrumento, como ocorreu na espécie.
+3. Ademais, o princípio da fungibilidade não pode ser aplicado quando houver expressa previsão legal de determinado meio processual, o que afasta a dúvida objetiva e impõe o reconhecimento de erro grosseiro pela utilização de outro meio. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.217.669/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO NA ORIGEM. PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. ERRO GROSSEIRO. AUSÊNCIA DE DÚVIDA OBJETIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição de agravo interno, ao invés de agravo em recurso especial, contra decisão do Tribunal de origem que inadmite o especial com base no óbice da Súmula n. 7/STJ configura erro grosseiro, uma vez que a redação do Código de Processo Civil de 2015 afastou a dúvida objetiva acerca do recurso cabível, não sendo adequada a aplicação da fungibilidade recursal. 2. Agravo interno não provido.
+(AgInt no AREsp n. 1.620.085/SP, relator. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1/9/2020)
+Por esse motivos, não se vislumbrando a ocorrência de erro material na denominação do recurso, mas, sim, erro inescusável, a impossibilitar recebimento do agravo interno como agravo em recurso especial, revela-se descabida a aludida determinação de subida dos presentes autos a este Superior Tribunal de Justiça.
+Acerca da temática, igualmente foram as conclusões adotadas nas seguintes decisões monocráticas do STJ: AREsp n. 2.451.561/SP, Min. Maria Thereza de Assis Moura, DJe de 06/10/2023; AREsp n. 2.123.163/PR, Min. Humberto Martins, DJe de 09/06/2022; e AREsp n. 1.847.833/SP, Min. Humberto Martins, DJe de 07/04/2021.
+Ante o exposto, não recebo o presente agravo interno como agravo em recurso especial e determino, com a devida baixa, a devolução dos autos ao Tribunal de origem para a adoção das providências que entender cabíveis.
+Publique-se.
+EMENTA
