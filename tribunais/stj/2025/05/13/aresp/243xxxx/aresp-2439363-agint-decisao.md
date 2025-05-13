@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO MARANHÃO da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso porque incide óbice da Súmula 182 do STJ (fls. 245/246).
+A parte agravante afirma que "houve o combate efetivo quanto ao óbice sumular em comento, ocasião na qual a Fazenda aduziu que para se chegar à conclusão diversa da corte maranhense não é preciso a interpretação de legislação local, bastando que se observe a redação das Leis 6.880/0 e 3.765/60 que tratam sobre os integrantes das forças armadas e que tais regramentos não podem ser aplicados a servidores estaduais quando não exista omissão ou lacuna da norma estadual" (fl. 253).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 264).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alíneas a e c, da Constituição Federal, do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fls. 143/160):
+MANDADO DE SEGURANÇA. SUSPENSÃO DO PAGAMENTO DE PENSÃO POR MORTE. FILHO DE POLICIAL MILITAR FALECIDO. DIREITO RECONHECIDO ATÉ O IMPETRANTE COMPLETAR VINTE E QUATRO ANOS SE INSCRITO EM CURSO DE ENSINO SUPERIOR. VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO. SEGURANÇA CONCEDIDA. DE ACORDO COM O PARECER MINISTERIAL. I. Preconiza a alínea "d" do inciso I do art. 7º da Lei nº 3.765/60 (Lei da Pensão Militar), incluída pela Medida Provisória nº 2.215-10, de 31.08.2001, que dispõe serem beneficiários de pensão por morte de militar os "filhos ou enteados até vinte e um anos de idade ou até vinte e quatro anos de idade, se estudantes universitários". II. Segurança concedida. De acordo com o parecer ministerial.
+Os embargos de declaração opostos foram rejeitados (fls. 176/190).
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 1.022, I e II, do Código de Processo Civil (CPC), 1º da Lei 3.765/1960 e 1º da Lei 6.880/1980. Argumenta que o Tribunal de origem foi omisso quanto à matéria discutida. Aduz que "na ausência de previsão legal, não cabe a prorrogação do recebimento desse benefício até os 24 anos, ainda que o beneficiário seja estudante universitário" (fl. 198).
+Sustenta que "a legislação local é taxativa e não faz exceção a perda da qualidade de segurado do filho maior universitário, ainda que afirme a dependência econômica, a qual não é requisito para a concessão do benefício" (fl. 202).
+Alega ainda que houve violação aos arts. 1º da Lei da Pensão Miliar e 2º do Estatuto Militar Federal, pois tais normas são aplicadas exclusivamente a membros das Forças Armadas, sendo, portanto, inaplicáveis ao militar estadual.
+Pois bem.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 169/170):
+Portanto, o acórdão recorrido incide em erro material quanto menciona existir previsão na lei estadual 6.513/1995 amparando a pretensão do embargante, vício que precisa ser sanado.
+Estando patente a existência de omissão e erro material no acórdão embargado, cabe a oposição de embargos de declaração, de conformidade com as normas dispostas nos incisos II e III, do art. 1.022 do CPC:
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO decidiu o seguinte (fls. 179/190):
+Se não vejamos o trecho do voto para sanar quaisquer dúvidas sobre o enfrentamento da matéria :
+"O impetrante, por sua vez, invocando o §2º do art. 42 da CF, alega que à espécie deve ser aplicada a regra prevista na Lei nº 6.513/1995, o Estatuto dos Policiais-Militares da Polícia Militar do Maranhão, compatível com o que preveem a Lei Federal nº 6.880/80, o Estatuto dos Militares Federais, e a Lei Federal nº 3.765/60, a Lei da Pensão Militar. Assim, aduz que a Lei Complementar n º 7 3 / 2 0 0 4 s ó s e a p l i c a a o s s e r v i d o r e s p ú b l i c o s c i v i s.
+Decerto, o Estatuto dos Policiais-Militares da Polícia Militar do Maranhão, Lei nº 6.513/95, no inciso II do seu art. 87 considera dependentes econômicos dos militares "os filhos, inclusive os enteados e adotivos até 21 (vinte e um) anos de idade ou, se estudante, até 24 (vinte e quatro) anos", em que pese a citada Lei Complementar nº 73/2004, que dispõe sobre o Sistema de Seguridade Social dos Servidores Públicos do Estado do Maranhão, em seu art. 9º, inciso II, considere dependentes econômicos dos segurados, para efeito de previdência social, os filhos solteiros menores de 18 ( d e z o i t o ) a n o s d e i d a d e .
+Ocorre que, como cediço, a Administração Pública é regida pelo princípio da legalidade previsto no art. 37, caput, da Constituição Federal, o que impede que o administrador crie obrigações, imponha p roibições ou conceda vantagens indistintamente.
+Desta feita, além da referida legislação estadual, deve-se analisar a legislação federal sobre o tema e, na espécie, o art. 5º da Lei nº 9.717/98 dispõe que "os regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal não poderão conceder benefícios distintos dos previstos no Regime Geral de Previdência Social, de que trata a Lei nº 8.213, de 24 de julho de 1991, salvo disposição e m c o n t r á r i o d a C o n s t i t u i ç ã o F e d e r a l ".
+Ademais, in casu deve ser considerado o que preconiza a alínea "d" do inciso I do art. 7º da Lei nº 3.765/60 (Lei da Pensão Militar), incluída pela Medida Provisória nº 2.215-10, de 31.08.2001, que dispõe serem beneficiários de pensão por morte de militar os "filhos ou enteados até vinte e um anos de idade ou até vinte e quatro anos de idade, se estudantes universitários " .
+Do trecho transcrito extrai-se, ainda, que não há falar em erro material por restar o acórdão fundamentado no art . 87 ,II, da Lei Estadual nº 6.513/95.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação Lei 6.513/1995, do Estatuto dos Policiais Militares do Maranhão.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, reconsidero a decisão de fls. 245/246 e conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
