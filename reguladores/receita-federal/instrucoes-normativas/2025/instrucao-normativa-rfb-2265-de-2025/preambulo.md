@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2265, de 9 de maio de 2025
+Exclui os Emirados Árabes Unidos e o regime fiscal austríaco aplicável às holding companies, respectivamente, do rol de jurisdições com tributação favorecida e de regimes fiscais privilegiados.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 24, 24-A e 24-C da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
