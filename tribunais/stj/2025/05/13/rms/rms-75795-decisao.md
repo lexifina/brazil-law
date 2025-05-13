@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se recurso ordinário em mandado de segurança interposto por SIMAO RAMOS BONFIM contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará.
+Ação: mandado de segurança, impetrado por SIMAO RAMOS BONFIM em face de decisão interlocutória, proferida pelo Juízo de 1º Grau da 5ª Vara Cível Empresarial de Belém/PA, nos autos da ação de obrigação de fazer c/c danos morais e pedido liminar de tutela de urgência de produção antecipada de provas (processo nº 0819380-47.2021.8.14.0301), ajuizada por RENILDA DO SOCORRO FERREIRA BRITO TAVARES, na qual a autoridade coatora determinou produção antecipada de provas (e-STJ fls. 24-25).
+Acórdão: indeferiu a petição inicial do mandado de segurança nos termos da seguinte ementa:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. JUSTIÇA GRATUITA. NÃO RECOLHIMENTO DAS CUSTAS. DESERÇÃO CONFIGURADA.
+I. Caso em exame: Trata-se de agravo interno interposto por Simão Ramos Bonfim contra decisão monocrática que indeferiu a petição inicial do mandado de segurança, após a não comprovação do recolhimento das custas processuais.
+II. Questão em discussão: A questão consiste em determinar se o mandado de segurança pode ser utilizado como sucedâneo recursal e se houve justificativa para a concessão da antecipação de provas, bem como a validade da decisão que indeferiu a gratuidade da justiça e cancelou a distribuição dos autos.
+III. Razões de decidir: O agravo não trouxe argumentos novos suficientes para alterar a decisão recorrida. O mandado de segurança não pode ser utilizado como substituto de recurso, salvo em casos de teratologia ou abuso de poder. A falta de preparo, conforme previsto no art. 1.007 do CPC, configura deserção, o que impede o conhecimento do recurso.
+IV. Dispositivo: Recurso de agravo interno conhecido e desprovido, mantendo-se a decisão que indeferiu a petição inicial do mandado de segurança.
+V. Tese de julgamento: "O mandado de segurança não pode ser utilizado como sucedâneo recursal, salvo em casos de teratologia, abuso de poder ou flagrante ilegalidade. A falta de preparo configura deserção e impede o conhecimento do recurso."
+Dispositivos relevantes citados: CF/1988, art. 5º, LXIX; CPC/2015, arts. 1.007 e 290; Lei 12.016/2009, art. 10; Súmula 267 do STF. (e-STJ fl. 156)
+Recurso ordinário: sustenta violação do devido processo legal ao argumento de que a decisão que concedeu a antecipação de prova é nula, pois limita-se "a um simples "Defiro", sem sequer uma linha de fundamentação..à moda caprichosa de um deus greco-romano", violando os requisitos do art. 381 do CPC (e-STJ fls. 187-186).
+Entende que "o acórdão atacado é eivado de vício no plano da existência..porque não se trata apenas de um simples inconformismo, mas de uma perplexidade diante de erro jurisdicional cometido no 1º Grau e endossado no 2º Grau, qual seja, erro de procedimento, má aplicação do art. 381 e de seus incisos I, II, III, utilizados fora do contexto previsto nesse procedimento", argumentando tratar de "atos jurisdicionais eivados de erros que demonstram a má condução processual; atropelam as formalidades necessárias, exigidas para que ambas as partes vivenciem um devido processo legal; e não uma parte sofra as consequências de um erro jurídico-procedimental e de julgamento, enquanto a outra beneficia-se de prática ilegal provinda da atividade desatenta de um juiz, de uma desembargadora e de um tribunal, que devem conhecer o Direito, no entanto, nesse processo, agem como se fossem estranhos ao âmbito jurídico" (e-STJ fl. 195).
+Requer a "suspensão de qualquer efeito de tal julgado, aguardando seja o presente recurso conhecido e provido concedendo-se a segurança pleiteada para que seja restabelecido o devido processo legal (e-STJ fl. 201).
+Parecer do MPF: refere que "deixa de se manifestar sobre o mérito do presente recurso, requerendo, assim, o seu regular prosseguimento" (e-STJ fl. 237).
+RELATADO O PROCESSO. DECIDE-SE.
+- Do não cabimento do Mandado de Segurança
+O mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial recorrível. Nesse sentido: AgInt nos EDcl no RMS 67.790/SP, Terceira Turma, DJe de 19/04/2022; RMS 14.455/AM, Quarta Turma, DJe de 07/10/2002; RMS 17.555/PI, Terceira Turma, DJe 28/02/2005. No mesmo sentido é o enunciado da Súmula 267/STF.
+No particular, ratifica-se o acórdão do Tribunal de Origem que indeferiu o pleito da recorrente com fundamento (i) na Súmula 267/STF, pois cabível apenas agravo de instrumento em face da decisão interlocutória, ato contra o qual se insurge a impetrante, e (ii) na ausência de direito líquido e certo por ausência de manifesta ilegalidade, abusividade ou teratologia da decisão do Juízo de 1º Grau.
+Nesse sentido (embora sem adentrar no mérito), opina o Ministério Público Federal, segundo o qual "a matéria versada no litígio envolve pretensão de índole predominantemente privada e substitutiva de recurso  g.n. " (e-STJ fl. 237) - ou seja: a hipótese é de tentativa de sucedâneo recursal.
+Incide, pois, o óbice da Súmula 267/STF, no sentido de que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição", restando inviabilizado o manejo deste "writ".
+DISPOSITIVO
+Forte nessas razões, CONHEÇO e NEGO PROVIMENTO ao recurso ordinário constitucional, restando prejudicado o pedido liminar.
+PREVINO a parte que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1021, §4º, e 1026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL PASSÍVEL DE RECURSO. NÃO CABIMENTO. SÚMULA 267/STF.
+1. O mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial recorrível.
+2. Recurso ordinário desprovido.
