@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por JANICE BORN contra decisão que inadmitiu recurso especial com fundamento na aplicação da Súmula 280 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+Foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso especial não merece prosperar.
+Súmula 280 do STF
+No que tange à matéria versada nos autos, o Tribunal de origem assim se manifestou:
+Ademais, o fato gerador do ITCMD, na transmissão causa mortis, é a abertura da sucessão (óbito), existindo tantos fatos geradores distintos quantos forem os herdeiros, e a agravante, na condição de herdeira, se tornou contribuinte do imposto, na forma dos artigos. 2º e 8º da Lei Estadual nº. 8.821/89.
+ ..
+É dizer, diferentemente do que sustenta a parte agravante/excipiente, em princípio, a responsabilidade pelo pagamento da diferença de alíquotas não é apenas dos cessionários a quem cedeu seus direitos hereditários.
+Verifica-se, portanto, que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual. Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ITCMD. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO FUNDAMENTADO EM NORMA LOCAL. SÚMULA 280/STF.
+1. A indicada afronta ao art. 35, I, do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando o artigo tido por violado não foi apreciado pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Em que pese a Corte estadual ter citado os arts. 38 e 97 do CTN em sua fundamentação, ela não os violou. Ademais, o acórdão recorrido baseou-se precipuamente na Lei 10.705/2000 para explicitar o valor da base de cálculo do ITCMD.
+3. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+4. Recurso Especial não conhecido (REsp n. 1.744.718/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/8/2018, DJe de 13/11/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITCMD. BASE DE CÁLCULO. VALOR VENAL DO IMÓVEL. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA 280/STF. FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+1. O Tribunal de origem concedeu a Segurança em favor do contribuinte, afastando a majoração da base de cálculo do ITCMD, ao fundamento de que o Decreto Estadual 55.002/2009 modificou o conceito de valor venal estabelecido na Lei Estadual 10.705/2000.
+2. A tese de violação do art. 97 do CTN (princípio da legalidade tributária) não pode ser enfrentada nesta via recursal, tendo em vista que depende da obrigatória exegese de normas legais e infralegais do ente federativo estadual (Súmula 280/STF). 3. Por outro lado, haveria necessidade de superar o fundamento constitucional utilizado no acórdão recorrido, isto é, de que norma infralegal (decreto regulamentar de execução da lei) não pode inovar no ordenamento jurídico, estabelecendo o valor de mercado para fins de lançamento do ITCMD. In casu, o Recurso Especial não constitui meio adequado para enfrentamento de matéria constitucional.
+4. Recurso Especial não conhecido (REsp n. 1.728.308/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/4/2018, DJe de 25/5/2018).
+Do dissídio jurisprudencial
+Quanto à alegação da existência de dissídio jurisprudencial, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 1.029, § 1º, do CPC/15 e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Com efeito, o dissídio jurisprudencial viabilizador do recurso especial não foi demonstrado nos moldes legais pois, além da ausência do cotejo analítico, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados, que teriam recebido interpretação divergente.
+Nesse mesmo sentido, "para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso" (AgInt no AREsp 2.387.742/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2023, DJe de 18/12/2023).
+Além disso, cumpre ressaltar que a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido objeto do dissídio, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia, incidindo a Súmula 284 do STF, por analogia.
+Nesse sentido, "o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo supostamente objeto de interpretação divergente. Incidência da Súmula 284 do STF, aplicável por analogia" (AgInt no REsp 2.038.687/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para não conhecer do recurso especial .
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
