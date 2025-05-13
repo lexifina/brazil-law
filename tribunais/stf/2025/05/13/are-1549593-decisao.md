@@ -1,0 +1,33 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. REPETIÇÃO DE INDÉBITO. EMOLUMENTOS CARTORÁRIOS. Pretensão de que a base de cálculo seja o valor da transação, conforme se deu com o recolhimento do ITBI, por força de mandado de segurança impetrado em face do Município de Ribeirão Preto. Descabimento. Os emolumentos são cobrados pelos Tabeliães de Notas ou Oficiais de Registro de Imóveis, estão atrelados à prestação de um serviço, e seu valor é definido na Lei Estadual nº 11.331/2002, que fixa três parâmetros para o cálculo, prevendo expressamente que pode ser utilizado o que for maior (art. 7º). Dessa forma, revela-se lícita a sua cobrança com base no valor venal. Inaplicabilidade do decidido do Tema 1113/STJ, que versou somente sobre a base de cálculo do ITBI. Inexistência de vinculação entre a base de cálculo dos emolumentos e a do imposto municipal. Impossibilidade de estabelecer, contra legem, que um dos parâmetros previstos no artigo 7º da Lei nº 11.331/2002 se sobreponha aos demais, como pretende a autora, não cabendo ao Poder Judiciário a escolha do que entenda ser o mais apropriado. Sentença de improcedência da ação mantida. Recurso não provido.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 150, inciso IV, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 280/STF. Sobre o tema:
+
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 13 de maio de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
