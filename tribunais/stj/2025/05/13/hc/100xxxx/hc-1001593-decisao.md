@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO EDUARDO FERREIRA MACHADO JUNIOR no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Embargos Infringentes na Apelação n. 5013276-29.2015.8.21.0001 ).
+Depreende-se dos autos que o Tribunal de origem negou provimento ao recurso de apelação da defesa, em acórdão assim ementado (e-STJ fl. 35):
+APELAÇÃO. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. INSURGÊNCIA DEFENSIVA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. AUSÊNCIA DE PROVA JUDICIALIZADA PARA SUSTENTAR A CONDENAÇÃO. ELEMENTOS DE INFORMAÇÃO PRODUZIDOS EXCLUSIVAMENTE NO INQUÉRITO POLICIAL. DESCONSTITUIÇÃO DO JULGADO. TRANCAMENTO DA AÇÃO PENAL DESDE A PRONÚNCIA. APELO DO MINISTÉRIO PÚBLICO. ERRO NA APLICAÇÃO DA PENA. RECRUDESCIMENTO. INVIABILIDADE.
+1. Considerando a evolução no entendimento jurisprudencial majoritário no sentido de que, se uma sentença de pronúncia não pode estar fulcrada, unicamente, em elementos informativos colhidos na etapa policial, por afronta aos termos no art. 155 do CPP, muito menos uma condenação. Na hipótese, havendo lastro probatório reunido exclusivamente na etapa policial de que os condenados participaram do crime de homicídio qualificado, ou seja, inexistindo qualquer prova judicializada a respeito, mostra-se necessária a desconstituição da condenação pelos jurados e, por consequência, dada a manifesta ausência de justa causa, o trancamento da ação penal. Precedentes desta e. Corte e das duas Turmas Criminais do e. STJ. Vencida a e. Relatora.
+2. Em continuidade do julgamento, examina-se o mérito do apelo ministerial. Na análise do art. 59 do CP, inviável a negativação da culpabilidade, porque o argumento trazido no apelo integra a elementar do crime e não se confunde com a intensidade do dolo; da personalidade e da conduta social dos réus, pois a prova judicial não traz dados suficientes para tanto; dos motivos porque aquele descrito na denúncia não foi recepcionado na decisão de pronúncia, não podendo, agora, ser utilizado para fins de elevação da basilar; e, das consequências do delito por não extrapolar daquelas comuns ao tipo.
+3. Perfeita a determinação pelo juiz-presidente para que fosse operada a detração do tempo cumprido a título de prisão preventiva pelos condenados (período superior a 5 anos de reclusão) na forma do art. 387, §2º, do CPP, de modo que, restando ambos a cumprir saldo de pena inferior a 08 anos de reclusão, cabível a fixação do regime semiaberto para o início do cumprimento das sanções, nos termos do art. 33, §2º, "b", do CP.
+4. Prequestionadas as matérias ventiladas.
+RECURSO DEFENSIVO IMPROVIDO. VENCIDA A E. RELATORA NO PONTO. APELO MINISTERIAL IMPROVIDO, À UNANIMIDADE.
+Interposto embargos infringentes, estes foram desprovidos (e-STJ fl. 21).
+Daí o presente writ, no qual a defesa busca a anulação da pronúncia em razão da ausência de provas judicializadas.
+É, em síntese, o relatório.
+Decido.
+A impetração objetiva a despronúncia do paciente em razão da inexistência de provas judicializadas.
+Contudo verifica-se que a decisão de pronúncia transitou em julgado. Assim, a análise da matéria estaria preclusa, porquanto deveria ter sido impugnada em momento oportuno, qual seja, quando da interposição dos recursos próprios cabíveis na espécie.
+Ademais, em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que o pedido de habeas corpus foi impetrado enquanto ainda estava pendente o prazo para a apresentação de recursos cabíveis perante a Corte de origem.
+Assim, percebe-se que a estratégia adotada pela defesa na utilização de outros meios impugnativos deve ser rechaçada, tornando inviável a apreciação deste writ, notadamente quando não se verifica flagrante ilegalidade a atrair a concessão de habeas corpus de ofício, como na espécie.
+Ante todo o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
