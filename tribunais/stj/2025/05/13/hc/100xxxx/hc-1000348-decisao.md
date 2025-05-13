@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTONIO CARLOS BUENO FILHO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução ministerial, nos termos do acórdão assim ementado:
+"Ementa. Agravo em Execução Penal. Remição pelo estudo. Aprovação parcial no Exame do ENCCEJA 2024. Ensino fundamental. Recurso do Ministério Público. Descabimento. Decisão reformada. Agravo provido." (e-STJ, fl. 8).
+Neste writ, o impetrante alega que a aprovação parcial - no caso, em 4 das 5 áreas - no Encceja relacionado ao ensino fundamental, mesmo sem a conclusão dessa etapa de ensino, permite a remição parcial da pena por estudo.
+Sustenta que "vincular a comprovação de conhecimento adquirido à aprovação integral no ENCCEJA simplesmente não tem cabimento, uma vez que cada nível de ensino é composto por campos de conhecimento, e em um rápido exercício lógico, é possível vislumbrar que a aprovação parcial (em quatro, de cinco campos do conhecimento), importa em conhecimento adquirido, ainda que parcialmente, o que alcança o objetivo da Resolução nº 391/2021, do CNJ" (e-STJ, fls. 4-5).
+Requer, ao final, seja restabelecida a decisão proferida pelo Juízo de primeiro grau, que concedeu ao paciente "106 dias de remição por aprovação parcial no ENCCEJA." (e-STJ, fl. 6).
+É o relatório.
+Decido.
+Esta Corte - HC n. 725.534/SP, da minha relatoria, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso em exame, o Juízo da Execução Penal concedeu ao ora paciente a remição de 106 dias de pena pela aprovação em 4 das 5 áreas do Encceja - ensino fundamental.
+Em seguida, o Tribunal de origem deu provimento recurso ministerial para revogar a remição anteriormente concedida.
+De fato, o art. 126, § 1º, I, da LEP prevê a existência do direito à remição de pena por horas de "frequência escolar", especificamente, na proporção de 1 dia de pena a cada 12 horas de frequência escolar divididas, no mínimo, em 3 dias.
+Confira-se, por oportuno, o teor desses dispositivos:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+§ 1º A contagem de tempo referida no caput será feita à razão de:
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+ .. ".
+Embora a Lei não ostente previsão expressa do direito à remição de pena por aprovação em exame ou prova instituído pelo Poder Público, o Superior Tribunal de Justiça, em interpretação extensiva do referido dispositivo legal, passou a admitir a remição de pena pela aprovação - total e, inclusive, parcial - no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja).
+Nesse sentido, confiram-se os seguintes precedentes: REsp n. 2.129.903/MG, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025; AgRg no RHC n. 185.243/MG, da minha relatoria, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024; e AgRg no REsp n. 2.096.687/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 20/12/2023.
+Quanto à base de cálculo desse benefício, a Terceira Seção desta Corte, em 10/3/2021, no paradigmático julgamento do HC n. 602.425/SC (Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/4/2021), promoveu, por maioria, interpretação extensiva do art. 1º, IV, da Recomendação CNJ n. 44/2013 do CNJ - o qual veio a ser substituído pelo art. 3º, parágrafo único, da Resolução CNJ n. 391/2021 do CNJ - para assentar que a aprovação, durante a execução da pena, em cada uma das 5 áreas de avaliação do Encceja - ensino fundamental - representa aproximadamente 26 dias inteiros (para um cálculo mais exato, 26,66666666666667 dias) a serem remidos.
+Estabeleceu-se, assim, que a aprovação em todas as 5 áreas do Encceja (nível fundamental) implica remição de 133 dias inteiros; e, nos termos do parágrafo 5º do referido artigo 126, certificada a conclusão do ensino fundamental, ocorrerá um acréscimo de 1/3, totalizando 177 dias inteiros a serem remidos.
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para reestabelecer a decisão que havia reconhecido o direito à remição de 106 dias inteiros pela aprovação em 4 das 5 áreas do Encceja - ensino fundamental.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da Execução Penal.
+Publique-se. Intime-se.
+EMENTA
