@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Carlos Antonio Fernandes Ferreira, condenado por infração aos arts. 12 e 16, parágrafo único, IV, da Lei n. 10.826/2003, c/c o art. 70 do Código Penal, à pena de 3 anos e 6 meses de reclusão, em regime aberto, convertida em duas sanções restritivas de direitos, mais 10 dias-multa (Processo n. 0195877-07.2012.8.17.0001, da 5ª Vara Criminal da comarca de Recife/PE).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco, que negou provimento ao recurso defensivo, mantendo a condenação do paciente (fls. 15/32).
+Requer-se a concessão da ordem para reconhecer a existência da prescrição retroativa em favor do paciente em relação ao crime de posse irregular de arma de fogo de uso permitido.
+Para tanto, argumenta-se que o acórdão do Tribunal de Justiça desconsiderou a contagem pela metade do prazo prescricional das penas aplicadas, conforme o art. 115 do Código Penal, devido à idade avançada do paciente, que possui mais de 70 anos. Alega-se que interpretação prejudicial ao acusado não pode retroagir, conforme o art. 5º, XL, da Constituição Federal. Defende-se que a prescrição deve ser reconhecida como matéria de ordem pública, podendo ser declarada até mesmo de ofício.
+É o relatório.
+Diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, quanto ao pleito de reconhecimento da prescrição, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise da alegação importaria indevida supressão de instância.
+Não é possível que a defesa, não tendo alegado a dita inobservância do referido art. 115, tampouco a ocorrência da prescrição perante as instâncias ordinárias, venha diretamente ao STJ buscando tal questão seja decidida.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Tampouco o Supremo Tribunal Federal admite o habeas corpus nessa circunstância de ausência de pronunciamento judicial conclusivo pela Corte a quo quanto à tese defensiva suscitada apenas no writ. A propósito: HC n. 235.221-AgR, Ministro Cristiano Zanin, Primeira Turma, DJe 9/2/2024; HC n. 236.138-AgR, Ministro Alexandre de Moraes, Primeira Turma, DJe 22/2/2024; HC n. 235.861-AgR, Ministro Luiz Fux, Primeira Turma, DJe 22/2/2024; e RHC n. 230.594-AgR, Ministro Nunes Marques, Segunda Turma, DJe 23/2/2024.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. POSSE DE ARMAS DE FOGO E MUNIÇÕES DE USO PERMITIDO E DE USO RESTRITO. PRESCRIÇÃO RETROATIVA. DUPLA SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
