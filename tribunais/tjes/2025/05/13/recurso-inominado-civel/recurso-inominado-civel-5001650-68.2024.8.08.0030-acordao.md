@@ -1,0 +1,102 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001650-68.2024.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ELIAS REMIDIO FREIRE e outros
+RECORRIDO: BANCO PAN S.A. e outros
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE TUTELA ANTECIPADA. CONTRATO NÃO APRESENTADO. FRAUDE CONTRATUAL DEMONSTRADA. CABIMENTO DE DEVOLUÇÃO DOS VALORES NA FORMA DOBRADA. DANOS MORAIS DEVIDOS. SENTENÇA PARCIALMENTE REFORMADA. RECURSO DO BANCO CONHECIDO E IMPROVIDO. RECURSO DO AUTOR CONHECIDO E PROVIDO. CONCESSÃO DA GRATUIDADE DE JUSTIÇA EM FAVOR DA PARTE REQUERENTE. DIREITO DO CONSUMIDOR.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.° 5001650-68.2024.8.08.0030
+
+Recorrente/Recorrido: BANCO PAN S.A
+
+Recorrido/Recorrente: ELIAS REMIDIO FREIRE
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concessão do benefício da assistência judiciária gratuita em favor da parte autora/recorrente, posto que preenchidos os requisitos legais.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE TUTELA ANTECIPADA. CONTRATO NÃO APRESENTADO. FRAUDE CONTRATUAL DEMONSTRADA. CABIMENTO DE DEVOLUÇÃO DOS VALORES NA FORMA DOBRADA. DANOS MORAIS DEVIDOS. SENTENÇA PARCIALMENTE REFORMADA. RECURSO DO BANCO CONHECIDO E IMPROVIDO. RECURSO DO AUTOR CONHECIDO E PROVIDO. CONCESSÃO DA GRATUIDADE DE JUSTIÇA EM FAVOR DA PARTE REQUERENTE. DIREITO DO CONSUMIDOR. (1). DA LIDE.
+NO EXÓRDIO ALEGA A PARTE AUTORA QUE CONSTATOU UM EMPRÉSTIMO FEITO EM SEU NOME E DESCONTADO EM SUA FOLHA DE PAGAMENTO. ADUZ QUE NUNCA REALIZOU O REFERIDO EMPRÉSTIMO. DESTE MODO, VEM SENDO INDEVIDAMENTE COBRADA POR CONTRATAÇÃO INDEVIDA, PLEITEANDO, DESTA FORMA, A RESTITUIÇÃO DOS VALORES INDEVIDAMENTE PAGOS E INDENIZAÇÃO POR DANOS MORAIS, ALÉM DA DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO.
+(2) DISPOSITIVO DA SENTENÇA. “[...]
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos formulados na inicial, com resolução do mérito, nos termos do art. 487, I, do Código de Processo Civil para: a) CONDENAR o banco réu a pagar a título de danos morais para a parte autora o valor de R$ 5.000,00 (cinco mil reais). Esclareço que o valor foi fixado por arbitramento, quantia esta já atualizada ao tempo desta sentença, à qual deve ser acrescida de correção monetária a partir do arbitramento (Inteligência da Súm. 362/STJ) e de juros de mora de 1% (um por cento) ao mês, nos termos do art. 406, do Código Civil de 2002, combinado com o art. 161, § 1º do CTN, a partir da citação (responsabilidade contratual); b) DECLARAR a inexistência de relação contratual entre as partes, retornando estas ao seu status quo ante e, por consequência, condenar o réu a proceder com a devolução das parcelas indevidamente descontadas do benefício do autor, de forma simples, que totalizam o montante de R$ 1.538,60 (mil, quinhentos e trinta e oito reais e sessenta centavos), quantia essa a ser acrescida de correção monetária a partir do efetivo prejuízo (Inteligência da Súm. 43/STJ) e de juros de mora de 1% (um por cento) ao mês, nos termos do art. 406, do Código Civil de 2002, combinado com o art. 161, § 1º do CTN, a partir da citação (responsabilidade contratual). c) DETERMINAR que a ré se abstenha de realizar descontos no benefício do autor, sob pena de multa de R$ 500,00 por cobrança indevida, limitada ao importe de R$ 10.000,00. Sem custas e honorários, nos termos do artigo 55, da Lei n°. 9099/95.
+[...]”. (3). RECURSO BANCO REQUERIDO.
+EM SUMA, ALEGA A NECESSIDADE DE REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS.
+(4). RECURSO DO AUTOR.
+EM SÍNTESE, REFUTA AS ALEGAÇÕES EXPOSTAS PELO REQUERIDO E ALEGA O CABIMENTO DE REPETIÇÃO DO INDÉBITO. POR FIM, PUGNA AINDA PELA MANUTENÇÃO DA CONDENAÇÃO ARBITRADA A TÍTULO DE DANOS MORAIS CONCEDIDA PELO JUÍZO
+A QUO.
+
+(4)
+
+CONTRARRAZÕES DO BANCO REQUERIDO.
+REFUTA AS ALEGAÇÕES DO AUTOR EXPOSTAS EM SEDE RECURSAL E, EM SÍNTESE, ROGA PELA MANUTENÇÃO DO COMANDO SENTENCIAL.
+(5) MÉRITO RECURSAL.
+O AUTOR/RECORRIDO ALEGA VÍCIO DE CONSENTIMENTO NA CONTRATAÇÃO DO NEGÓCIO JURÍDICO - DISCUTIDO NOS AUTOS - OUTRORA FIRMADO COM O BANCO RECORRENTE. NA ORIGEM, O DOUTO COLEGA ENTENDEU PELO PARCIAL ACOLHIMENTO DA PRETENSÃO AUTORAL, DE MODO QUE DETERMINOU O CANCELAMENTO DO CONTRATO, A DEVOLUÇÃO DOS VALORES NA FORMA SIMPLES E CONDENAÇÃO EM DANOS MORAIS. IRRESIGNADO, O BANCO INTERPÔS RECURSO, PLEITEANDO PELA MINORAÇÃO DO VALOR ARBITRADO A TÍTULO DE REPARAÇÃO MORAL. DE OUTRO LADO, O AUTOR MANEJOU RECURSO REQUERENDO O RECONHECIMENTO DE CABIMENTO DA REPETIÇÃO DO INDÉBITO, BEM COMO PUGNANDO PELA MANUTENÇÃO DA CONDENAÇÃO ARBITRADA A TÍTULO DE DANOS MORAIS NOS PRÓPRIOS TERMOS DA SENTENÇA.
+POIS BEM.
+
+A PRIORI
+, DESTACO QUE O REQUERIDO SEQUER JUNTOU O INSTRUMENTO CONTRATUAL, AS
+TED’S
+E FATURAS DISCUTIDO NO PRESENTE CADERNO PROCESSUAL. PORTANTO, RESTA EVIDENCIADO O VÍCIO DE MANIFESTAÇÃO DE VONTADE, QUE POR SUA VEZ IMPÕE A NULIDADE DO NEGÓCIO SUPOSTAMENTE CELEBRADO, RETORNANDO-SE AO
+STATU QUO ANTE
+, VISTO QUE FOI DEVIDAMENTE CONFIRMADA A ALEGAÇÃO DO CONSUMIDOR DE QUE JAMAIS ADQUIRIU O SERVIÇO OBJETO DOS AUTO JUNTO AO BANCO RÉU. QUANTO AOS DANOS MORAIS, O MAGISTRADO
+A QUO
+ENTENDEU PELO SEU CABIMENTO,
+O QUE CONCORDO.
+RESTA CARACTERIZADO O FERIMENTO NA ESFERA
+I
+MATERIAL EM DESFAVOR DO AUTOR, TENDO EM VISTAS AS COBRANÇAS EFETIVADAS EM SEU BENEFÍCIO PREVIDENCIÁRIO. ASSIM, TENHO ME CONVENCIDO DE QUE OS ABORRECIMENTOS SUPORTADOS PELOS CONSUMIDORES EM CASOS SIMILARES AO VERTENTE, ULTRAPASSAM O MERO DISSABOR. NO QUE PERTINE À REPETIÇÃO DO INDÉBITO,
+OUSO DISCORDAR
+DO MAGISTRADO DA ORIGEM, VISTO QUE DIANTE DA DESÍDIA DO BANCO EM SEQUER TER APRESENTADO O OBJETO SUPOSTAMENTE PACTUADO, RESTA CONFIGURADA A MÁ-FÉ DO MESMO INCIDINDO NO CABIMENTO DA CONDENAÇÃO MATERIAL NA SUA FORMA DOBRADA. PORTANTO, ENTENDO POR ACATAR O PLEITO RECURSAL APRESENTADO PELO AUTOR, REFORMANDO A SENTENÇA NO QUE TANGE À REPARAÇÃO MATERIAL, PARA QUE AGORA A MESMA SEJA EFETUADA NA SUA FORMA DOBRADA, MANTENDO-SE A SENTENÇA PROFERIDA QUANTO AOS SEUS DEMAIS TERMOS.
+(6).
+RECURSO DO BANCO CONHECIDO E IMPROVIDO
+.
+RECURSO DO AUTOR CONHECIDO E PROVIDO.
+(7).
+SENTENÇA REFORMADA PARCIALMENTE, TÃO SOMENTE PARA DETERMINAR QUE A DEVOLUÇÃO DOS VALORES SE DÊ NA SUA FORMA DOBRADA.
+(8).
+CONDENAÇÃO DO BANCO EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE
+R$ 2.000,00 (DOIS MIL REAIS)
+, NOS TERMOS DO ARTIGO 85, §8° DO CPC. (9). SEM CONDENAÇÃO DO AUTOR EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, POSTO QUE A PARTE LOGROU ÊXITO EM SEU PLEITO RECURSAL.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
