@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 07/05/2025 a 13/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão assim ementado (fls. 1.051-1.052):
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 181 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 181 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 181 do STF quando se discute a admissibilidade de recurso anterior de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. O acórdão recorrido foi considerado fundamentado de forma suficiente para a solução da controvérsia, em conformidade com o Tema n. 339 do STF, sendo imperativa a negativa de seguimento do recurso extraordinário.
+3.3. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.4. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+A parte embargante sustenta a ocorrência de erro material, sob o argumento de que adotou-se premissa fática equivocada, consubstanciado na ausência de exibição do instrumento de procuração, acarretando a ineficácia dos atos praticados pelo advogado em nome da parte, conforme art. 104, § 2º do CPC, com a consequente nulidade do processo desde a petição inicial.
+Reitera as razões já expendidas anteriormente, no sentido de que não se trata de reexame de prova, vedado pela Súmula n. 7 do STJ, mas da adequada valoração, permitida em recurso especial.
+Assinala, ademais, omissão acerca da alegação de necessidade de apreciação dos documentos apresentados de forma extemporânea, bem como de vício formal no registro da compra e venda do imóvel pela ENGECO-RALC.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+VOTO
+2. O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, pois, conforme registrado no acórdão embargado, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 941-943):
+1. Da violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC Em verdade, no tópico relativo à negativa de prestação jurisdicional, verifica-se que o agravante não deixa claro em quais vícios teria incorrido o acórdão proferido pela Corte local, não apontando, de forma pormenorizada, em que consistiria a negativa de prestação jurisdicional apontada. Salienta-se que a mera alegação genérica de que "o Tribunal de origem demonstradamente se negou a pronunciar-se sobre a possibilidade excepcional de análise da questão melhor posse dentro da ação" (e-STJ fl. 765) não explica, com efeito, como o TJ/AM teria incorrido nos vícios de omissão, contradição, obscuridade ou erro material. Destarte, deve ser mantida a aplicabilidade da Súmula 284/STF quanto ao ponto.
+2. Ausência de indicação do dispositivo legal
+No mais, tem-se que o agravante limita-se a afirmar que os dispositivos legais tidos por violados foram especificamente apontados nas razões do recurso especial, registrando expressamente que seriam eles os arts. 1.196, 1.200, 1.204, 1.208 e 1.210 do CC; 371, 489, § 1º, IV e VI, 926, 1.013 e 1.022, II, do CPC.
+Ocorre que, quanto ao tópico, a deficiência de fundamentação foi especificamente aplicada com relação a três argumentos constantes do recurso especial, quais sejam, os de i) nulidade dos atos praticados pela agravada em 1º grau dada a ausência de sua representação processual; ii) necessidade de apreciação dos documentos novos apresentados anteriormente ao julgamento da apelação; e iii) existência de vício formal no registro da compra e venda do imóvel pela recorrida, inclusive com indícios de falsidade documental.
+E, de fato, com relação a tais argumentos, não foram indicados precisamente os dispositivos legais eventualmente violados pelo Tribunal de origem, sendo de rigor a manutenção da decisão agravada também quanto. Salienta-se não haver, a propósito, qualquer omissão da decisão agravada sobre tais fundamentos, dada que a sua análise esbarrou, em verdade, na aplicabilidade da Súmula 284/STF, em virtude da constatada deficiência de fundamentação.
+3. Da ausência de prequestionamento
+Ainda, tem-se que o Tribunal de origem, a despeito da oposição de embargos de declaração, não decidiu acerca dos arts. 1.196, 1.200, 1.204 e 1.208 do CC; 371 e 1.013 do CPC, tidos por violados pelo agravante. E, na espécie, conforme verificou-se em tópico anterior, não houve a devida indicação da violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, uma vez que deficiente a fundamentação quanto ao ponto. Inviável mostra-se, portanto, afastar a aplicabilidade da Súmula 211/STJ na espécie.
+4. Da divergência jurisprudencial
+Por fim, não há como se ter por demonstrado o dissídio jurisprudencial alegado, uma vez que o agravante limita-se a transcrever trechos dos acórdãos tidos por paradigmas, impossibilitando a análise da efetiva identidade entre as molduras fáticas dos julgados comparados. Ressalte-se que, para a caracterização do dissídio, não basta a transcrição de ementas e trechos dos acórdãos paradigmas. Também é necessário que se aponte e explicite por que os casos são semelhantes e qual é a proximidade fática entre os julgados comparados, o que não foi realizado na hipótese dos autos.
+Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não foram preenchidos os requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao mérito recursal.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+Ademais, como consignado no aresto embargado, no que tange às demais alegações, não se conheceu de recurso anterior, de competência do STJ, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, qualquer alegação do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do STF.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário a envolver o conhecimento de recurso anterior não possui repercussão geral, nos termos do Tema n. 181 do STF. Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao STF.
+Inexistindo vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+3. Ante o exposto, rejeito os embargos de declaração.
+Advirto, desde logo, que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
