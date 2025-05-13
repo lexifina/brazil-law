@@ -1,0 +1,128 @@
+DECISÃO
+
+RECURSOS EXTRAORDINÁRIOS COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. MAGISTÉRIO. PISO SALARIAL. CONTROVÉRSIA SOBRE A COMPOSIÇÃO E INCLUSÃO DA GRATIFICAÇÃO ESPECIAL DE ATIVIDADE – GEA. BASE DE CÁLCULO PARA PAGAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 279, 280, 282, 284 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSOS EXTRAORDINÁRIOS COM AGRAVO AOS QUAIS SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravos nos autos principais contra inadmissão de recursos extraordinários interpostos, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado da Primeira Turma Recursal de Aracaju/SE:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. RECURSO INOMINADO DO DEMANDADO. PISO
+SALARIAL DO MAGISTÉRIO DA EDUCAÇÃO BÁSICA. ESTABELECIMENTO POR NORMA FEDERAL COMO REFERÊNCIA NACIONAL DE GARANTIA MÍNIMA REMUNERATÓRIA, CUJA CONSTITUCIONALIDADE FOI RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (ADI Nº 4.167). POLÍTICA PÚBLICA REGULAMENTADORA DE PRINCÍPIO INERENTE À ATIVIDADE DE ENSINO (ART. 206, VIII, DA CONSTITUIÇÃO FEDERAL). INCENTIVO E VALORIZAÇÃO DA CARREIRA QUE NÃO SE CONFUNDE COM O ESTABELECIMENTO IMPOSITIVO PELA UNIÃO AOS ENTES SUBNACIONAIS DE REGRAS DE REAJUSTAMENTO SALARIAL DE SEUS SERVIDORES, SOB PENA DE VIOLAÇÃO AO PACTO FEDERATIVO E DA AUTONOMIA DE ESTADOS E MUNICÍPIOS. GRATIFICAÇÃO ESPECIAL DE ATIVIDADE – GEA CONCEDIDA POR LEI A TODOS OS PROFISSIONAIS DO MAGISTÉRIO PÚBLICO DO MUNICÍPIO DE ARACAJU, DE CARÁTER GERAL E INDISTINTAMENTE, PASSANDO A INTEGRAR O VENCIMENTO BÁSICO DA CATEGORIA. CONJUGAÇÃO DE AMBAS AS RUBRICAS (VENCIMENTO BÁSICO + GEA) QUE ATENDEM AO MONTANTE MÍNIMO EXIGIDO PELA LEI Nº 11.738/2008 NOS ANOS DE 2022 E 2023. AUSÊNCIA DE ILEGALIDADE PRATICADA PELA ADMINISTRAÇÃO PÚBLICA MUNICIPAL NESSE ASPECTO. REFLEXOS SOBRE VANTAGENS DA CARREIRA QUE
+DEVEM SER CALCULADOS SOBRE O VENCIMENTO DO SERVIDOR COM OBSERVÂNCIA DO VALOR DO PISO NACIONAL DA CATEGORIA. DESCUMPRIMENTO COMPROVADO NO CASO CONCRETO. PAGAMENTO DEVIDO DAS DIFERENÇAS APURADAS, NÃO OBJETO DE CONTROVÉRSIA. MUDANÇA DE ENTENDIMENTO DESTA RELATORIA. SENTENÇA PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PROVIDO EM PARTE” (fls. 1-2,
+e-doc. 71).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 89).
+
+Recurso extraordinário com agravo interposto por Sileia de Farias Batista
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado a ADI n. 4.167, sob o argumento de que “a decisão de segundo grau proferida pela primeira Turma, ora recorrida, interpretou que o valor do Piso Nacional dos Professores, para fins de remuneração, poderia ser composto por uma gratificação denominada GEA – Gratificação especial de Atividade, além do vencimento básico, contrariando o entendimento de que o
+piso deve ser considerado exclusivamente como o vencimento básico” (fl. 3,
+e-doc. 90).
+
+    Afirma que “a Gratificação Especial de Atividade não é paga para os inativos, o próprio acórdão afirma que o Município de Aracaju deixou de cumprir a paridade constitucional, além disso, a decisão deixa óbvio que existem casos em que, inclusive os inativos, não perceberão a referida gratificação, quais sejam, aqueles aposentados que não possuem o direito à paridade. Dessa forma, resta nítido que não há o pagamento geral e indistinto da GEA para toda a categoria” (fl. 12, e-doc. 90).
+
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta e de incidência das Súmulas
+ns. 279, 280 e 636 do Supremo Tribunal Federal (e-doc. 105).
+
+    No agravo, reiteram-se os argumentos expostos no recurso extraordinário e pedem-se “a) O conhecimento e provimento do presente Agravo, tendo em vista demonstração inequívoca da repercussão geral das questões constitucionais aqui discutidas, para que seja determinado o processamento do Recurso Extraordinário sobrestado, em virtude da presença da hipótese prevista no § 2º e na alínea ‘a’, ambos do art. 102, inciso III da Carta Magna. b) Na hipótese de ser aplicado disposto no § 5º, do art. 1.042 do CPC, pugna pela realização da sustentação oral, ao tempo que requer o reconhecimento da violação à decisão proferida na ADI 4167 e a determinação de que o agravado cumpra integralmente a Lei nº 11.738/2008, garantindo o pagamento o piso salarial nacional dos profissionais do magistério público no vencimento básico da ora Agravante” (fls. 13-14, e-doc. 113).
+
+Recurso extraordinário interposto pelo Município de Aracaju
+
+    4. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado os arts. 1º, 18 e 29, os incs. I e II do art. 30, os incs. X e XIV do art. 37, o art. 39, o inc. I do § 4º do art. 60 e as als. a e c do inc. II do § 1º do art. 61 da Constituição da República, sob o argumento de que, “com base na legislação local de regência, não existe dúvida de que a base de cálculo para pagamento do triênio e do terço é o vencimento efetivo do cargo, sem levar em consideração qualquer outra vantagem ou direito, até mesmo para evitar o efeito cascata na remuneração” (fl. 7, e-doc. 94).
+
+    Sustenta que “a Turma Recursal, ao admitir que não existe ilegalidade no pagamento do piso com a soma do vencimento + GEA, e negar o pedido de aumento do vencimento para pagamento do piso, não poderia deferir o pagamento de reflexos sobre o triênio e terço, visto que, obviamente, não houve aumento da contraprestação pecuniária devida ao ocupante do cargo definido em lei municipal (vencimento)” (fl. 8, e-doc. 94).
+
+    5. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta e de incidência das Súmulas
+ns. 279, 280 e 636 do Supremo Tribunal Federal (e-doc. 105).
+
+    No agravo, reiteram-se os argumentos expostos no recurso extraordinário e pede-se “o conhecimento do presente recurso para o fim de dar-lhe provimento e determinar o processamento do recurso extraordinário sobrestado, uma vez que se faz presente a hipótese da alínea ‘a’, do art. 102, III, da CFRB. Por razões de economia processual, acaso entenda aplicável o § 5º do art. 1.042 do CPC, requer que se conheça diretamente do recurso sobrestado, comunicando tal decisão ao Tribunal a quo” (fl. 8, e-doc. 116).
+
+    6. Por apresentarem diversidade de fundamentos e pedidos, os recursos interpostos devem ser analisados em separado.
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+Recurso extraordinário com agravo interposto por Sileia de Farias Batista
+
+    7. Razão jurídica não assiste à agravante.
+
+    8. Tem-se na espécie ausência de indicação pela agravante do dispositivo da Constituição da República supostamente contrariado
+pelo Tribunal de origem, restringindo-se à alegação de contrariedade à ADI n. 4.167.
+
+    Este Supremo Tribunal decidiu que ”a ausência de indicação dos dispositivos constitucionais que teriam sido violados atrai a incidência da Súmula 284 do STF” (ARE n. 956.463-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 16.3.2017). Assim também, por exemplo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO
+DE COBRANÇA. ADICIONAL DE HORAS EXTRAS.
+POLICIAL MILITAR. AUSÊNCIA DE INDICAÇÃO
+DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO
+DO RECURSO EXTRAORDINÁRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+1. É inadmissível o recurso extraordinário quando a deficiência de
+sua fundamentação não indicação do dispositivo constitucional supostamente violado não permitir a exata compreensão da controvérsia. Incidência da Súmula 284 do STF. 2. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional (Súmula 280/STF). 3. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE
+n. 1.288.293-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 16.12.2020).
+
+    Ainda que se pudesse superar esse óbice, o que não se dá na espécie, como antes anotado, melhor sorte não teria a agravante.
+
+    9. A Turma recursal de origem assentou:
+
+    “Ingressando no mérito efetivo da controvérsia, a matéria tratada no presente RI envolve pretensão de servidor(es) do magistério público do município de Aracaju, especificamente relacionada ao piso salarial da categoria atuante na educação básica com jornada máxima de quarenta horas semanais. (...) Com esse objetivo, o legislador federal, encarregado de densificar normativamente um dos princípios regentes da atividade de ensino elencados na CF/88 (art. 206, VIII, e 60, III, ‘e’, do ADCT), editou a Lei nº 11.738/2008. (...) Submetida ao crivo de constitucionalidade, o STF, no âmbito da ADI nº 4.167, também no recorte que interessa ao caso, proclamou que ‘É constitucional a norma geral federal que fixou o piso salarial dos professores do ensino médio com base no vencimento, e não na remuneração global. Competência da União para dispor sobre normas gerais relativas ao piso de vencimento dos professores da educação básica, de modo a utilizá-lo como mecanismo de fomento ao sistema educacional e de valorização profissional, e não apenas como instrumento de proteção mínima ao trabalhador’. (...) Mas, um deles permanece em estado de inquietação: o que deve ou não ser efetivamente considerado, nos termos da lei e no plano da jurisdição constitucional, como integrante do piso, se somente o vencimento básico do professor ou se algo mais poderia ser admitido para efeito de composição desta base mínima. É esse o caso sob exame no presente voto, e diz respeito especificamente a uma gratificação que foi criada por meio da LC municipal nº 177/2022, mediante inclusão do inciso XI, ao art. 24, da LC municipal nº 51/2001, que dispõe sobre o Plano de Carreira e Remuneração do Magistério Público do Município de Aracaju. Trata-se da chamada GEA – Gratificação Especial de Atividade, sendo também, na mesma lei criadora, especificados os seus critérios de concessão (art. 28-A, §§1º e 2º). O(as) autor(es), como visto, denuncia(m) que o município, durante os anos de 2022 e 2023, uma vez atualizados pelos órgãos competentes os valores respectivos do piso em cada um deles, ignorou o patamar mínimo e vem pagando em montante inferior. O município Recorrente, também foi visto, nega que tenha desobedecido o piso nacional, e para tanto sustenta que a referida gratificação (GEA), há de ser considerada para esse efeito, uma vez que é permanente e paga indistintamente a todos os servidores da categoria do magistério, justamente desde 2022. (...) Pois bem, um aspecto essencial, situado no plano dos fatos relevantes da causa, não rende controvérsia, o de que a referia GEA, e que aparece no(a) contracheque/ficha financeira dos professores sob a rubrica 376, quando somada ao vencimento básico do profissional (rubrica 102), sob o aspecto estrito financeiro, atende pelo montante final ao exigido como mínimo do piso nos anos reportados. (...) Aqui, diversamente, tem-se a controvérsia centrada no próprio conceito de composição do piso mínimo, e ainda, mais especificamente, se essa GEA pode ser considerada integrada ao vencimento do professor, ou se entra na categoria de ‘remuneração global’, conforme o traço distintivo estabelecido pelo STF no julgamento da ADI nº 4.167. Nesse sentido, foi visto na origem o destaque dado ao que seria essa distinção
+no próprio Estatuto dos Servidores Municipais de Aracaju –
+LC nº 153/2016 (arts. 42 e 43). E nesses termos, segundo os recorridos, se não remanesce mais discussão sobre a possibilidade de a União definir o piso do magistério, descaberia cogitar de malferimento do pacto federativo por suposta violação da autonomia dos entes subnacionais. (...) Retomando-se a abordagem dos requisitos no caso presente, são justamente o pagamento geral e de forma indistinta a todos que integram a categoria, o que afasta, aqui sim com o escopo de se evitar cair na extensão desautorizada da remuneração global, parcelas remuneratórias meritórias, relacionadas especificamente a situações individualizadas. (...) Não influi, para esse efeito, o argumento de que no caso da GEA não é concedida aos inativos, e as concessões decorrem de sentenças judiciais; somente desnuda, claramente, um aspecto em que o município de Aracaju, aqui sim, deixou de observar o comando constitucional de paridade entre ativos e inativos, quando cabível. Tanto que a corrigenda veio pela intervenção judicial, situando todos no mesmo plano de atendimento ao piso salarial da categoria. Portanto, conforme foi acentuado nessas decisões do STF, ambas a corroborar, a meu sentir, a ideia de que piso salarial como política pública de incentivo quer dizer isso mesmo, reitere-se, a valorização desses profissionais com um vencimento básico não inferior ao mínimo legal nacional. E nesse objetivo, uma gratificação como essa em discussão (GEA), a todos da categoria concedida de forma indistinta, integrando validamente o referido vencimento e com isso atendendo ao montante mínimo legalmente previsto, a se apurar anualmente com as atualizações, não há o que falar de descumprimento por parte do município de Aracaju” (fls. 3-6, e-doc. 71).
+
+    Rever o entendimento adotado pela Turma recursal de origem demandaria reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo (Leis Complementares municipais ns. 51/2001 e 177/2022 e Lei federal n. 11.738/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Confiram-se, por exemplo, os seguintes julgados:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO
+EM RECURSO EXTRARDINÁRIO COM AGRAVO.
+PISO SALARIAL PROFISSIONAL NACIONAL. CONSTITUCIONALIDADE DA LEI Nº 11.738/2008. ACÓRDÃO IMPUGNADO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULAS 279 E 280/STF. 1. A decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte, que, ao julgar a ADI 4.167, Rel. Min. Joaquim Barbosa, declarou a constitucionalidade da Lei federal nº 11.738/2008, que estabeleceu o piso nacional dos professores da educação básica. 2. Para dissentir do acórdão recorrido, seriam imprescindíveis a reanálise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei
+nº 12.016/2009 e Súmula 512/STF). 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015” (ARE n. 1.426.092-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 25.8.2023).
+
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público civil. Piso salarial nacional do magistério. Paridade entre ativos e inativos. incidência das Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que concedeu a segurança.
+II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual. Súmulas 279 e 280/STF.
+IV. Dispositivo 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento” (ARE
+n. 1.499.000-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 16.9.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. DIREITO ADMINISTRATIVO. PISO NACIONAL PARA OS PROFESSORES DA EDUCAÇÃO BÁSICA.
+LEI FEDERAL 11.738/2008. CONSTITUCIONALIDADE. PAGAMENTO EM VALOR INFERIOR AO PISO PELO ESTADO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento do art. 18 da Constituição Federal. Incidência da Súmula 282/STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. II – A jurisprudência desta Corte, no julgamento da ADI 4.167/DF, de relatoria do Ministro Joaquim Barbosa, reconheceu a constitucionalidade da Lei 11.738/2008, que fixou o piso salarial nacional dos professores da educação básica com base no vencimento,
+e não na remuneração global. III – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. IV – Conforme a Súmula 279/STF,
+é inviável, em recurso extraordinário, o reexame do conjunto
+fático-probatório constante dos autos. V – Agravo regimental a que se nega provimento” (ARE n. 1.292.388-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 14.4.2021).
+
+Recurso extraordinário interposto pelo Município de Aracaju
+
+    10. Razão jurídica não assiste ao agravante.
+
+    11. A alegação de contrariedade aos arts. 1º, 18 e 29, aos incs. I e II do art. 30, aos incs. X e XIV do art. 37, ao art. 39, ao inc. I do § 4º do art. 60 e às als. a e c do inc. II do § 1º do art. 61 da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco os embargos de declaração opostos comprovam ter ocorrido, no momento processual próprio, o prequestionamento. Incidem na espécie as Súmulas ns. 282 e 356 deste Supremo Tribunal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.108.060-AgR, de minha relatoria, Plenário, DJe 6.6.2018).
+
+    12. É de se anotar, também, ausência de demonstração pela agravante de ofensa aos dispositivos da Constituição da República alegadamente contrariados pelo Tribunal de origem, o que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal. Nesse sentido, por exemplo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. INADMISSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia, máxime quando as razões recursais encontram-se dissociadas dos fundamentos do acórdão recorrido, ex vi do enunciado da Súmula 284 do STF. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE
+n. 1.371.780-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 16.5.2022).
+
+    Ainda que se pudessem superar todos esses óbices, o que não se dá, como antes anotado, melhor sorte não teria o agravante.
+
+    13. Quanto às alegações do Município agravante, a Turma recursal de origem concluiu:
+
+    “A segunda, constituindo ponto incidental do litígio, quanto aos reflexos estabelecidos na legislação local para a categoria (adicional de terço, adicional de triênio, décimo terceiro salário, terço ferial e outros da mesma natureza e base normativa), reitera-se o que nela mesma se prevê. Vale dizer, a base de cálculo, naquilo que for representada pelo vencimento base do servidor (rubrica 102), são os valores respectivos e indicativos do piso nacional para os anos em discussão, e assim sucessivamente para os demais nos termos da lei. E nesse específico ponto, consistindo aspecto que integra a pretensão autoral conexa, justamente na parte dos reflexos, consta denúncia de que a administração municipal, ao aplicar o cálculo e efetuar o pagamento, o fez partindo de base inferior ao que representava o piso nacional no(s) anos(s) apontado(s). Apresentou, inclusive, memória de cálculo evolutivo (fls. 26/29) por mês até o marco de novembro de 2023, indicando, pontualmente, as diferenças a menor em cada um dos reflexos. A esse respeito, força reconhecer, o município não contesta o evento, posto que centra a sua defesa, reforçada em sede recursal com argumentos expandidos, exclusivamente no argumento de cumpre a lei do piso nacional, quando considerada a parcela da GEA somada ao do vencimento do servidor. O fato é que, aí o reside o argumento central da tese, o qual, conforme exposto no presente voto, tem fundamento e se encaminha para o efetivo acolhimento. Coisa parcialmente distinta, cumpre reconhecer, é este cenário denunciado da não observância do piso nacional no que ele deve ser tomado por base de cálculo para os citados reflexos, aspecto conexo que, reitere-se, sem contestação específica, atrai a presunção de veracidade, a desnudar o ilícito que deve ser reparado” (fl. 6, e-doc. 71).
+
+    14. Rever o entendimento adotado pela Turma recursal de origem demandaria reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo (Leis Complementares municipais ns. 51/2001 e 177/2022 e Lei federal n. 11.738/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROFESSOR DA REDE PÚBLICA ESTADUAL. EDUCAÇÃO BÁSICA. LEI FEDERAL 11.738/2008. PISO SALARIAL. CONSTITUCIONALIDADE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 4.167. REFLEXOS NA CARREIRA. ESCALONAMENTO, VANTAGENS E GRATIFICAÇÕES. LEI COMPLEMENTAR 115/1998 E LEI 5.580/1998 DO ESTADO DO ESPÍRITO SANTO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. PENDÊNCIA DE RECURSO ESPECIAL. AUSÊNCIA DE CONDIÇÕES DE ADMISSIBILIDADE DO APELO EXTREMO. DESNECESSÁRIO O SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO” (ARE
+n. 1.262.639-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 5.8.2020).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROFESSOR. PISO SALARIAL. PREQUESTIONAMENTO. AUSÊNCIA. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Embora cabível, em tese, o agravo previsto no artigo 1.042 do CPC quanto às questões remanescentes, é inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282 e 356/STF. 5. Não se presta o recurso extraordinário para o reexame dos fatos e das provas. Incidência da Súmulas 279 do STF.
+6. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 7. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.312.809-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 25.5.2021).
+
+    Nada há a prover quanto às alegações dos agravantes.
+
+    15. Pelo exposto, nego provimento aos recursos extraordinários com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 13 de maio de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
