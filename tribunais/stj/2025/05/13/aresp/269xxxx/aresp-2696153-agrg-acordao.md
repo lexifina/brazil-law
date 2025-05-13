@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ATUAÇÃO DA GUARDA MUNICIPAL. APREENSÃO DE DROGAS EM LOCAL PÚBLICO. FLAGRANTE DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para conhecer em parte de recurso especial e, nessa extensão, negar-lhe provimento, ao fundamento de que a prisão em flagrante do acusado não estava eivada de qualquer ilegalidade
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a atuação da Guarda Municipal, ao realizar a prisão em flagrante do suspeito, constitui ilegalidade a contaminar o acervo probatório.
+III. Razões de decidir
+3. O dever de uniformização da jurisprudência dos tribunais e manutenção de sua estabilidade, integridade e coerência (CPC, art. 926), bem como a devida observância de precedente qualificado (CPC, art. 927), com ressalva do entendimento pessoal deste relato, exige o atendimento do comando do Tema de Repercussão Geral n. 656, no qual o Supremo Tribunal Federal reconheceu às Guardas Municipais o exercício de ações de segurança urbana, inclusive por meio de policiamento ostensivo e comunitário.
+4. Constitui situação de flagrante direto (art. 302, I, do CPP) a conduta de dispensar drogas em local público, de modo a autorizar a prisão em flagrante, bem como a busca pessoal e veicular.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. A atuação da Guarda Municipal em situação de flagrante delito é lícita. 2. A prisão em flagrante confere suporte jurídico à busca pessoal subsequente, legitimando o conjunto probatório produzido."
+Dispositivos relevantes citados: CF, art. 144, § 8º; CPP, art. 301; CPP, art. 244.
+Jurisprudência relevante citada: STF, Tema de Repercussão Geral n. 656; STJ, AgRg no RHC 202728/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 05/03/2025, DJEN de 10/03/2025; STJ, AgRg no HC 917754/SP, Rel. Ministra Daniela Teixeira, Rel p/ acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/02/2025, DJEN de 12/03/2025; STJ, AgRg no HC 957905/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/20024, DJEN de 23/12/202.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  FRANCISCO JOSE DA SILVA  contra  a  decisão  monocrática deste relator, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 313-319).
+A  parte  agravante  reitera que não havia justa causa para Guarda Civil realizar a busca pessoal e veicular, uma vez que não constitui fundada suspeita o fato de um veículo sair de um matagal
+Aduz que não havia situação de flagrante delito, pois o carro não estava em alta velocidade, não havia mau cheiro no carro ou no Agravante, tampouco sujeira ou qualquer vestígio de que pratica algum ilícito penal (fl. 326).
+Sustenta que as Guarda Municipais não possuem poder de polícia ostensiva.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ATUAÇÃO DA GUARDA MUNICIPAL. APREENSÃO DE DROGAS EM LOCAL PÚBLICO. FLAGRANTE DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para conhecer em parte de recurso especial e, nessa extensão, negar-lhe provimento, ao fundamento de que a prisão em flagrante do acusado não estava eivada de qualquer ilegalidade
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a atuação da Guarda Municipal, ao realizar a prisão em flagrante do suspeito, constitui ilegalidade a contaminar o acervo probatório.
+III. Razões de decidir
+3. O dever de uniformização da jurisprudência dos tribunais e manutenção de sua estabilidade, integridade e coerência (CPC, art. 926), bem como a devida observância de precedente qualificado (CPC, art. 927), com ressalva do entendimento pessoal deste relato, exige o atendimento do comando do Tema de Repercussão Geral n. 656, no qual o Supremo Tribunal Federal reconheceu às Guardas Municipais o exercício de ações de segurança urbana, inclusive por meio de policiamento ostensivo e comunitário.
+4. Constitui situação de flagrante direto (art. 302, I, do CPP) a conduta de dispensar drogas em local público, de modo a autorizar a prisão em flagrante, bem como a busca pessoal e veicular.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. A atuação da Guarda Municipal em situação de flagrante delito é lícita. 2. A prisão em flagrante confere suporte jurídico à busca pessoal subsequente, legitimando o conjunto probatório produzido."
+Dispositivos relevantes citados: CF, art. 144, § 8º; CPP, art. 301; CPP, art. 244.
+Jurisprudência relevante citada: STF, Tema de Repercussão Geral n. 656; STJ, AgRg no RHC 202728/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 05/03/2025, DJEN de 10/03/2025; STJ, AgRg no HC 917754/SP, Rel. Ministra Daniela Teixeira, Rel p/ acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/02/2025, DJEN de 12/03/2025; STJ, AgRg no HC 957905/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/20024, DJEN de 23/12/202.
+VOTO
+Presentes  os  requisitos  de  admissibilidade  do  regimental,  passo  à  análise  do recurso, adiantando, desde já, que a irresignação  não  prospera.
+Inicialmente, no que diz respeito ao poder de polícia das guarda municipais, o entendimento deste colegiado, conforme assentado no HC 830.530/SP, de relatoria do Min. Rogerio Schietti Cruz, se consolidou pela necessidade de avaliação, antes da verificação da justa causa, da competência dos agentes para a execução do ato. Conforme o precedente em questão:
+17. A adequada interpretação do art. 244 do CPP é a de que a fundada suspeita de posse de corpo de delito é um requisito necessário, mas não suficiente, por si só, para autorizar a realização de busca pessoal, porque não é a qualquer cidadão que é dada a possibilidade de avaliar a presença dele; isto é, não é a todo indivíduo que cabe definir se, naquela oportunidade, a suspeita era fundada ou não e, por consequência, proceder a uma abordagem seguida de revista. Em outras palavras, mesmo se houver elementos concretos indicativos de fundada suspeita da posse de corpo de delito, a busca pessoal só será válida se realizada pelos agentes públicos com atribuição para tanto, a quem compete avaliar a presença de tais indícios e proceder à abordagem e à revista do suspeito.
+ ..
+19. Não é das guardas municipais, mas sim das polícias, como regra, a competência para investigar, abordar e revistar indivíduos suspeitos da prática de tráfico de drogas ou de outros delitos cuja prática não atente de maneira clara, direta e imediata contra os bens, serviços e instalações municipais ou as pessoas que os estejam usando naquele momento.
+ ..
+20. Poderão, todavia, realizar busca pessoal em situações excepcionais - e por isso interpretadas restritivamente - nas quais se demonstre concretamente haver clara, direta e imediata relação com a finalidade da corporação, como instrumento imprescindível para a realização de suas atribuições. Vale dizer, salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto.
+ ..
+(HC n. 830.530/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 27/9/2023, DJe de 4/10/2023).
+Ocorre que, recentemente, o Supremo Tribunal Federal, por seu Tribunal Pleno, ao apreciar o recurso extraordinário n. 608.588/SP, julgando o Tema 656 de Repercussão Geral, fixou a seguinte tese (grifamos):
+É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.
+Sendo assim, considerando o dever de uniformização da jurisprudência dos tribunais e manutenção de sua estabilidade, integridade e coerência (CPC, art. 926), bem como a devida observância ao precedente em questão (CPC, art. 927), com ressalva do entendimento pessoal deste relator, deve ser aplicada a tese firmada pela Corte Suprema.
+Ou seja, haverá constatação de desvio de finalidade diante de prática, pela guarda municipal, de atividade de polícia judiciária, conforme expressamente assinalado pelo Pretório Excelso.
+Contudo, passa-se a considerar inserida na função da guarda municipal a realização de policiamento ostensivo e comunitário. Diante dessa cenário, deve ser avaliada a justa causa para a diligência, nos moldes da jurisprudência consolidada deste Tribunal Superior e dos parâmetros por ela estabelecidos para a atuação policial.
+Para melhor contextualizar, trago à colação dos fundamentos do acórdão apelatório (fls. 201-203 - grifamos):
+Salienta a defesa que a prova coligida padece de nulidade, decorrente do procedimento de busca pessoal realizado por guardas civis municipais.
+Sustenta que na esteira da jurisprudência do col. Superior Tribunal de Justiça é "nula a busca pessoal realizada por guardas municipais sem que estejam no exercício de proteção de bens municipais".
+Quanto ao ponto, não obstante aos substanciosos fundamentos elencados, entendo que, "in casu", haviam razões concretas a ensejar a suspeita da Guarda Municipal sobre a conduta do réu, uma vez que, em patrulhamento de rotina, depararam-se com o veículo saindo de um matagal em atitude suspeita.
+Na sequência, os agentes municipais acionaram o sinal sonoro da viatura para o veículo estacionar, mas este não parou, então o acionaram novamente, ocasião em que viram quando da janela do veículo algo foi jogado, e, em seguida, o veículo parou, sendo, portanto, legítima a ação desencadeada, inclusive o procedimento de busca pessoal.
+ ..
+Como é cediço, o delito de tráfico de drogas trata-se de crime de ação múltipla ou conteúdo variado, o qual se configura com a prática de quaisquer das condutas previstas no tipo penal, sendo dispensável para sua configuração a prática do comércio propriamente dito.
+Ademais, trata-se de delito de efeitos permanentes, o que significa dizer que o autor remanesce em permanente estado de flagrância, a possibilitar a incidência do disposto no artigo 303 da Lei Processual Penal.
+ ..
+No presente caso, contudo, entendo que se constata, na espécie, "relação clara, direta e imediata com a necessidade de proteger a integridade dos bens e instalações ou assegurar a adequada execução dos serviços municipais".
+Isso porque, conforme exposto, os guardas municipais estavam em patrulhamento, momento em que avistaram o veículo conduzido pelo réu saindo de um matagal e desobedecendo ordem de parada, quando visualizaram, em uma atitude suspeita, típica do tráfico de drogas, algo ser jogado para fora do veículo, o que se confirmou tratar-se de entorpecente.
+ ..
+Observa-se que o réu já se encontrava na posse das porções de droga apreendidas, razão pela qual o ilícito já havia se configurado, posto que o tráfico, assim como a posse de droga para uso próprio, são crimes permanentes, cuja consumação se prolonga no tempo, por deliberação exclusiva de seu agente ativo.
+Desse modo, não há que se falar na atuação ilegal dos Guardas Municipais ou de ilegalidade na busca pessoal por eles realizada, sendo de rigor a improcedência do presente pedido.
+No caso dos autos, todavia, nem mesmo é o caso de discussão acercada validade da busca pessoal e veicular, posto que a droga não foi apreendida junto ao corpo do acusado ou no interior do veículo que conduzia. Ao contrário, a substância proscrita foi arrestada em local público, após ter sido abandonada - diante dos agentes públicos - pelo acusado.
+Consistindo o crime de tráfico de drogas infração penal de ação múltipla (ou conteúdo variado), perfectibiliza-se com a prática de quaisquer dos núcleos verbais previstos no tipo do art. 33 da Lei Antidrogas.
+No caso sub examine, a moldura fática apresentada pelas instâncias ordinárias dá conta de que o ora recorrente foi visto transportando drogas, conduta que encontra tipicidade na norma incriminadora sub examine e, portanto, permite a busca pessoal, a apreensão da droga dispensada em local público e a prisão em flagrante do suspeito.
+Não olvido que ao julgar o AgRg no HC 904253/SP, de minha relatoria, a colenda Sexta desta Corte Superior em 16/09/2024 decidiu que a apreensão de sacola de drogas abandonada à vista de guardas municipais não autorizaria a prisão em flagrante.
+Contudo, em julgamento ainda mais recente, este mesmo Colegiado julgador analisou e referendou busca pessoal realizada em situação muito semelhante à dos autos, a cujos fundamentos me filiei. Eis a ementa do julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ATUAÇÃO DA
+GUARDA MUNICIPAL. APREENSÃO DE DROGAS ABANDONADAS EM VIA PÚBLICA. AUSÊNCIA DE ILEGALIDADE. FLAGRANTE DELITO. POSSIBILIDADE DE PRISÃO POR QUALQUER DO POVO. AGRAVO NÃO PROVIDO.
+ ..
+4. Segundo se depreende dos autos, guardas municipais estavam em patrulhamento pela região dos fatos - e descrita como localidade conhecida pela mercancia ilegal de entorpecentes - quando avistaram o paciente que, logo depois de constatar a presença da viatura, haveria empreendido fuga e dispensado uma sacola no decorrer do caminho.
+5. Na hipótese, portanto, a situação é um pouco diversa da que a Terceira Seção enfrentou no HC n. 830.530/SP (DJe 4/10/2023), em que se consolidou nesta Corte o entendimento quanto à impossibilidade de que as guardas municipais atuassem como se fossem polícias. Isso porque, no presente caso, não houve propriamente investigação por parte dos agentes municipais e a apreensão das drogas não decorreu de revista pessoal por eles realizada no paciente, porque elas não estavam na posse direta, isto é, no corpo dos acusados, mas sim abandonadas em via pública. A apreensão ocorreu, neste caso, independentemente de busca prévia e gerou, por conseguinte, situação de flagrante delito, que autoriza a prisão por qualquer do povo nos termos do art. 301 do CPP.
+6. Agravo regimental não provido. (AgRg no RHC 202728/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 05/03/2025, DJEN de 10/03/2025 - grifamos)
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS.
+ATUAÇÃO DA GUARDA MUNICIPAL. BUSCA PESSOAL. FLAGRANTE DELITO. AGRAVO REGIMENTAL PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu a impetração, mas concedeu, de ofício, ordem de habeas corpus para declarar a nulidade das provas obtidas por meio de busca pessoal realizada por guardas municipais, absolvendo o agravado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a atuação da Guarda Municipal, ao realizar busca pessoal e apreensão de drogas, configura ilegalidade que justifique a concessão de habeas corpus.
+III. Razões de decidir
+3. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. A atuação da Guarda Municipal é considerada lícita em situações de flagrante delito, não configurando atuação como polícia investigativa.
+5. A abordagem foi justificada pela fundada suspeita gerada pela conduta do agravante, que dispensou uma sacola ao perceber a aproximação dos guardas.
+6. A reanálise do acervo fático-probatório é inviável em sede de habeas corpus, impedindo a atuação excepcional da Corte.
+IV. Dispositivo e tese
+7. Agravo regimental provido para não conhecer do habeas corpus, reconhecendo a legitimidade da atuação dos guardas municipais e a licitude das provas colhidas, com a consequente restauração da condenação do agravado pelo crime de tráfico de drogas.
+Tese de julgamento: "1. A atuação da Guarda Municipal em situação de flagrante delito é lícita e não configura atuação como polícia investigativa. 2. A prisão em flagrante confere suporte jurídico à busca pessoal subsequente, legitimando o conjunto probatório produzido."
+Dispositivos relevantes citados: CF, art. 144, § 8º; CPP, art. 301;
+CPP, art. 244.
+Jurisprudência relevante citada: STJ, AgRg no HC 939.734/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 30/10/2024; STJ, AgRg no HC 902.702/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 7/10/2024; STJ, AgRg no REsp 2.108.571/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/11/2024. (AgRg no HC 917754/SP, Rel. Ministra Daniela Teixeira, Rel p/ acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/02/2025, DJEN de 12/03/2025 - grifamos)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL E DOMICILIAR. INOCORRÊNCIA. GUARDA MUNICIPAL. POSSIBILIDADE. SITUAÇÃO DE FLAGRANTE DELITO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As Guardas Municipais não têm atribuições de atividades investigativas ou ostensivas, mas somente de proteção do patrimônio municipal. Embora tenham sido incluídas no Sistema de Segurança Pública por força do julgamento da ADPF n. 995/DF pelo Supremo Tribunal Federal, o entendimento firmado pela Suprema Corte não interfere na jurisprudência já sedimentada, reafirmando, assim, o entendimento prevalente nesta Corte quanto aos limites da atuação dos guardas civis municipais.
+2. Na hipótese dos autos, a Corte local destacou que "Segundo apurado, os guardas municipais receberam a informação de que um casal, do qual a mulher se chamava Eduarda, estava na frente da residência a vender drogas. No local indicado, avistaram os réus com as mesmas características descritas, na posse de uma sacola, mas, ao perceberem a aproximação da viatura, os réus se evadiram para o interior da casa, não atendendo a ordem dada e dispensando a sacola plástica, a qual foi recuperada e no seu interior constatou-se grande quantidade de entorpecentes", ocasião em que foram apreendidos 1.314 microtubos plásticos de cocaína, com peso de 1.273 g; 984 invólucros plásticos de maconha, com peso de 7.478,7 g; 675 microtubos plásticos, com cocaína, na forma bruta de crack, com peso de 437,8 g; 166 frascos de lança-perfume; e 13 comprimidos de ecstasy.
+3. Dessa forma, evidenciando o estado de flagrante delito, tem-se autorizada a atuação da guarda municipal. De fato, "a jurisprudência dos Tribunais Superiores já sedimentou entendimento no sentido de que não há ilegalidade na prisão em flagrante realizada por guardas civis municipais, consoante disposto no art. 301 do CPP, segundo o qual "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito"" (AgRg no RHC n. 181.874/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+4. Por fim, a Corte local considerou não ter havido violação de domicílio, porquanto "ainda que exista, atualmente, divergência de interpretação acerca do acesso de agentes públicos ao interior de imóveis, no presente caso, tal discussão restou inócua, pois ambos os acusados declararam expressamente ter autorizado a entrada dos agentes públicos, afastando qualquer alegação de invasão domiciliar". Desse modo, ausentes elementos que apontem para eventual coação ou irregularidade na obtenção do consentimento, não se constata constrangimento ilegal a ser sanado pela via mandamental.
+5. Agravo regimental a que se nega provimento. (AgRg no HC 957905/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/20024, DJEN de 23/12/2024 - grifamos)
+Destarte, não tendo a parte recorrente agregado novos fundamentos que justifiquem a adoção de solução diversa daquela implementada na decisão monocrática, ora recorrida, sua manutenção revela-se adequada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
