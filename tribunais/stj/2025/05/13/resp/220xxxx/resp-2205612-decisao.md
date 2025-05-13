@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se recurso especial interposto por CENTRO TRASMONTANO DE SÃO PAULO, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 15/10/2024.
+Concluso ao gabinete em: 04/04/2025.
+Ação: de obrigação de fazer ajuizada por MARCOS CASTELLO VARONI, em face da recorrente, na qual requer o fornecimento de tratamento na modalidade home care conforme prescrição médica.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a recorrente ao fornecimento de tratamento na modalidade home care, pelo tempo necessário conforme prescrição médica, ressalvado o fornecimento de medicamentos de uso contínuo e de produtos de higiene adquiridos em farmácias.
+Acórdão: negaram provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. HOME CARE. Autor com quadro de diverticulite aguda perfurada e septicemia grave. Sentença de parcial procedência. Insurgência da ré. Alegação de ausência de obrigação de cobertura do tratamento domiciliar na extensão pretendida. Impossibilidade. Recomendação prescrita indispensável ao tratamento e cuidados especiais necessários para o quadro clínico. Abusividade da negativa. Aplicação do Código de Defesa do Consumidor. Precedentes. Súmulas nºs 90 e 102, do TJSP. Provas que revelam a necessidade da autora em receber cuidados especiais. Emprego da Súmula 90 desta E. Corte. Necessidade de cobertura da prestação do serviço indicado pelo médico assistente. Sentença mantida. Recurso não provido. (e-STJ, fls. 206/207).
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022 e 371 do CPC, e 10 da Lei n. 9.656/98. Além da negativa de prestação jurisdicional, aduz que há divergência técnica do plano terapêutico quanto à necessidade do atendimento domiciliar - home care, sustentando que, segundo os relatórios médicos, a paciente não preenche critérios para indicação de internação domiciliar, pois demanda cuidados que podem ser realizados por cuidador. Assevera a exclusão de cobertura de serviços "home care" e medicamentos domiciliares. Afirma que não há previsão de custeio de insumos. Sustenta a ocorrência de desequilíbrio econômico-financeiro do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da comprovação da necessidade do tratamento "home care", de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da alegação de cerceamento de defesa
+Conforme a jurisprudência do STJ, não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Precedentes: REsp n. 2.192.255/SP, Terceira Turma, DJEN de 28/2/2025; e AgInt no REsp n. 2.077.630/SP, Quarta Turma, DJe de 18/4/2024.
+Na espécie, o Tribunal de origem aduziu que "não restou evidenciado prejuízo à apelante pela não realização de prova pericial direta e indireta, tendo em vista a existência de laudo médico confeccionado por profissional que acompanha o apelado." (e-STJ, fls. 207).
+Não se constata, destarte, cerceamento de defesa.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp n. 2.714.570/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp n. 2.000.839/RJ, Quarta Turma, DJEN de 23/12/2024.
+- Da alegação genérica de ofensa à lei
+A recorrente alega, genericamente, violação da Lei 9.965/98, deixando de indicar especificamente qual dispositivo legal foi violado pelo acórdão recorrido. Ademais, é importante salientar que a menção genérica ao artigo de lei supostamente violado sugere a interpretação de que a alegada violação se refere apenas ao seu caput, que serve meramente como introdução ao conjunto de normas estabelecidas nos seus incisos, parágrafos e alíneas. No mesmo sentido: AgInt no AgInt no AREsp n. 2.260.168/DF, Terceira Turma, DJe de 6/12/2023 e AgInt no AREsp n. 2.158.801/RJ, Quarta Turma, DJe de 6/11/2023.
+Ressalte-se que é imprescindível que no recurso especial sejam apontadas com precisão as violações aos dispositivos legais indicados como infringidos. A parte interessada deve evidenciar de forma clara e objetiva os dispositivos supostamente violados, além de apresentar as razões que justifiquem a alegada violação.
+Adicionalmente, é essencial que se descreva detalhadamente como o dispositivo legal foi infringido, pois isso possibilitará ao STJ analisar a questão em conjunto com os elementos constantes nos autos. No entanto, na presente hipótese, essa correlação entre a violação apontada e os fatos do processo não foi devidamente estabelecida, o que faz incidir a Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 213) para 14% (quatorze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Precedentes.
+4. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
