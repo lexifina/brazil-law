@@ -1,0 +1,36 @@
+DECISÃO
+  Trata-se  de  agravo  em  recurso  especial  interposto  por  MINISTÉRIO  PÚBLICO  DO  ESTADO  DO  TOCANTINS,  contra  inadmissão,  na  origem,  de  recurso  especial  fundamentado  nas  alínea  "a"  do  inciso  III  do  artigo  105  da  Constituição  Federal,  manejado  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  TOCANTINS,  assim  ementado  (fls.  582/583):
+1.  AGRAVO  INTERNO  EM  REMESSA  NECESSÁRIA.  AUSÊNCIA  DE  INTIMAÇÃO  DO  MINISTÉRIO  PÚBLICO  NA  ORIGEM.  MERA  IRREGULARIDADE.  INCIDENTE  DE  ASSUNÇÃO  DE  COMPETÊNCIA.  UNIRG.  REVALIDAÇÃO  DE  DIPLOMA.  QUÓRUM  QUALIFICADO.  NULIDADE  SANADA.  TEORIA  DO  FATO  CONSUMADO.  CONFIRMADA.  AUSÊNCIA  DE  PRESSUPOSTOS  DE  CONSTITUIÇÃO  E  DE  DESENVOLVIMENTO  VÁLIDO  E  REGULAR  DO  PROCESSO.  INOCORRÊNCIA.  AGRAVO  CONHECIDO  E  NÃO  PROVIDO.  DECISÃO  MONOCRÁTICA  RATIFICADA.
+1.1  A  tese  de  inobservância  do  quórum  qualificado  e  vício  na  votação  do  Incidente  de  Assunção  de  Competência  oriundo  da  Remessa  Necessária  sob  o  no  0000009-48.2022.8.27.2722,  encontra-se  prejudicada  em  razão  do  novo  julgamento,  em  17/11/2022,  com  a  maioria  qualificada,  confirmando  a  tese  anteriormente  lançada  nestes  autos  e  ratificando  o  entendimento  outrora  prolatado.
+1.2  A  manifestação  anterior  do  Ministério  Público  estadual  sobre  a  desnecessidade  de  sua  intervenção  em  mandado  de  segurança  em  que  se  discute  direito  líquido  e  certo  da  parte  impetrante  quanto  à  obtenção  da  revalidação  de  certificado  estrangeiro  pelo  procedimento  simplificado,  somado,  ainda,  ao  fato  de  que  não  há  comprovação  de  prejuízo  efetivo  decorrente  da  sua  não  intimação,  afasta  a  alegada  nulidade  processual.
+1.3  Não  há  que  se  falar  na  falta  de  interesse  de  agir  da  parte  impetrante  em  razão  da  inadequação  da  via  eleita  pela  ausência  de  provas  pré-constituídas  do  alegado  direito  líquido  e  certo,  uma  vez  que,  como  o  objeto  deste  processado  já  havia  se  esgotado  com  o  cumprimento  da  decisão  liminar  deferida  pelo  juízo  de  primeiro  grau,  incorporando-se  o  direito  à  revalidação  pelo  procedimento  simplificado,  evidencia-se  a  ocorrência  de  fato  consumado  que  impede,  num  critério  de  proporcionalidade,  conclusão  que  possa  romper  algo  que  já  se  encontra  consolidado  pelo  tempo.
+Em  seu  recurso  especial  de  fls.  590/600,  o  recorrente  sustenta  violação  dos  arts.  178  e  279,  do  Código  de  Processo  Civil  e  12,  caput,  da  Lei  nº  12.016/2019.
+Sustenta  a  nulidade  por  ausência  de  intimação  do  Ministério  Público  e  defende  a  inaplicabilidade  da  teoria  do  fato  consumado.
+Às  fls.  661/662  a  agravada  JOSIANE  MOREIRA  DE  CARVALHO  informa  que  realizou  acordo  com  a  parte  interessada  FUNDAÇÃO  UNIRG.
+O  Tribunal  de  Origem  não  admitiu  o  recurso  especial  ante  a  superveniente  perda  de  seu  objeto  em  razão  do  acordo  extrajudicial  firmado  entre  as  partes  (fls.  689/690).
+Em  seu  agravo,  às  fls.  702/710,  o  agravante  afirma  que  "a  transação  firmada  entre  impetrante  e  a  FUNDAÇÃO  UNIRG  não  obsta  o  conhecimento  e  julgamento  do  recurso  especial  interposto  pelo  MINISTÉRIO  PÚBLICO  ESTADUAL,  principalmente  em  razão  da  avença  partir  de  premissa  já  refutada  pelo  Superior  Tribunal  de  Justiça,  qual  seja,  a  aplicação  da  teoria  do  fato  consumado  ao  caso  em  análise"  (fl.  707).
+A  FUNDAÇÃO  UNIRG  não  apresentou  contrarrazões  (fl.  744).
+A  decisão  de  inadmissibilidade  foi  mantida  às  fls.  751/752.
+O  Ministério  Público  intimado  a  se  manifestar  sobre  o  acordo  entabulado  (fls.  765/766)  pontuou  que  "não  há  se  falar  em  perda  do  objeto  recursal,  que  subsiste  no  interesse  ministerial  já  devidamente  demonstrado,  não  sendo  afetado  por  ato  que  não  teve  a  fiscalização  do  Parquet"  (fls.  773/775).
+O  Tribunal  de  Origem  se  retratou  da  decisão  que  considerou  prejudicado  o  recurso  especial  e  o  respectivo  agravo  em  recurso  especial  e  determinou  a  imediata  remessa  dos  autos  ao  STJ,  para  o  regular  processamento  do  recurso  interposto  pelo  Ministério  Público  (fls.  778/779).
+Às  fls.  788/789  a  agravada  informa  que  o  apostilamento  do  seu  seu  diploma  foi  emitido  pela  FUNDAÇÃO  UNIRG  e  junta  a  sentença  homologatória  do  acordo  (fls.  790/794).
+As  partes  foram  intimadas  a  se  manifestarem  (fl.  799).
+O  MPF  manifestou  ciência  (fl.  808).
+O  MINISTÉRIO  PÚBLICO  DO  ESTADO  DO  TOCANTINS  manifesta  que  o  seu  interesse  recursal  subsiste  (fl.  809/812).
+Houve  decisão  determinando  a  devolução  dos  atos  à  origem  para  que  se  procedesse  ao  devido  juízo  de  admissibilidade  do  recurso  especial  interposto  (fls.  819/821).
+No  juízo  de  admissibilidade,  o  Tribunal  de  Origem  não  admitiu  o  recurso  especial  sob  os  seguintes  fundamentos  (fls.  832/836):  (i)  incidência  da  Súmula  83/STJ,  (ii)  incidência  da  Súmula  7/STJ  e  (iii)  impossibilidade  do  manejo  do  recurso  especial  para  a  análise  de  violação  ao  texto  constitucional.
+Em  seu  agravo,  às  fls.  847/854,  a  parte  agravante  afirma  a  não  incidência  das  Súmulas  83  e  7  do  STJ  e  que  a  matéria  tem  natureza  infraconstitucional.
+A  contraminuta  foi  apresentada  às  fls.  865/877.
+A  decisão  de  admissibilidade  foi  mantida  à  fls.  890/891.
+É  o  relatório.
+A  presente  irresignação  perdeu  seu  objeto.
+Tendo  em  vista  a  superveniência  de  novo  título  judicial  -  decisão  exarada  pelo  juízo  de  primeiro  grau  ao  homologar  o  acordo  entre  as  partes  (fls.  790/7 94)  -  ,  irrefutável  o  reconhecimento  da  perda  de  objeto  do  presente  recurso.
+Nesse  sentido:
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  INTERLOCUTÓRIA.  INDEFERIMENTO  DE  PROVA  TESTEMUNHAL.  CERCEAMENTO  DE  DEFESA.  ALEGAÇÃO.  AGRAVO  DE  INSTRUMENTO.  SUPERVENIÊNCIA  DA  SENTENÇA  DE  SENTENÇA  DE  MÉRITO  NA  AÇÃO  PRINCIPAL.  PERDA  DE  OBJETO.
+1.  "Conforme  precedentes  deste  Superior  Tribunal  de  Justiça,  a  superveniência  de  sentença  de  mérito  implica  a  perda  de  objeto  de  recurso  interposto  contra  acórdão  que  desproveu  agravo  de  instrumento.  Isso  porque  eventual  provimento  do  especial  não  poderia  dar  ensejo  à  reforma  do  título  judicial  que  exerceu  cognição  exauriente."  (AgRg  no  REsp  1012974/RJ,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  24/09/2013,  DJe  03/10/2013).
+2.  Agravo  regimental  prejudicado.  (AgRg  no  AREsp  n.  427.255/SP,  relator  Ministro  Sérgio  Kukina,  Primeira  Turma,  julgado  em  16/10/2014,  DJe  de  5/11/2014.)
+Ante  o  exposto,  julgo  prejudicado  o  agravo  em  recurso  especial.
+Publique-se.
+Intime-se.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  SUPERVENIÊNCIA  DE  SENTENÇA  HOMOLOGATÓRIA  DE  ACORDO  ENTRE  AS  PARTES.  PERDA  DO  OBJETO.  PREJUDICIALIDADE  DO  RECURSO  EM  TRÂMITE  NO  STJ.  AGRAVO  PREJUDICADO.
