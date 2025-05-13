@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interno interposto por INSTITUTO BRASILEIRO DE ADMINISTRAÇÃO PÚBLICO E APOIO UNIVERSITÁRIO DO RIO DE JANEIRO - IBAP/RJ contra decisão que conheceu do agravo para negar provimento ao recurso especial (fls. 3233-3236).
+Em suas razões, a agravante afirma que "conforme demonstrado no recurso especial inadmitido, a negativa de prestação jurisdicional reside justamente no ponto em que v. acórdão recorrido deixou de enfrentar, mesmo após a oposição de embargos de declaração, os argumentos da Agravante de que não é possível equiparar a filiação do aprendiz na mesma categoria do empregado e, por conseguinte, classificá-lo como segurado obrigatório" (fl. 3244).
+Acrescenta que há omissão quanto à análise de todos os argumentos expostos no recurso de apelação, em especial no ponto que trata sobre a divergência entre a relação de emprego e o vínculo do colaborador na condição de aprendiz.
+Argumenta que "conforme explicita o art. 110 do CTN, não pode a lei ou o seu aplicador alterar conceito e o alcance do que pode ser considerado "empregado". Este argumento, contudo, não foi apreciado no v. acórdão embargado" (fl. 3245).
+Quanto ao entendimento de que o conteúdo do que foi decidido na origem se amolda à jurisprudência desta Corte, assinala que "Os julgados citados na r. decisão agravada (não vinculantes), com o devido respeito, não se amoldam ao caso, na medida em que, embora tenham abordado na origem sobre a tese subsidiária de equiparação das classes de menor assistido com a do menor aprendiz, não apreciaram a questão à luz da própria regra de incidência das contribuições previdenciárias a cargo da empresa prevista no art. 22, I, II e III, da Lei nº 8.212/1991" (fl. 3249).
+Defende a ilegalidade da cobrança de contribuições previdenciárias patronais parafiscais arrecadadas por conta de terceiros e para o financiamento de benefício decorrentes de Riscos Ambientais no Trabalho (RAT), sobre a remuneração paga ao colaborador na condição de aprendiz.
+Requer a reconsideração da decisão agravada ou submissão do feito ao órgão colegiado.
+Não foram apresentadas contrarrazões (certidão de fl. 3266).
+É o relatório.
+Não obstante as razões recursais, verifico que a agravante interpôs o recurso especial com a finalidade de ver reconhecida, além de eventual omissão no acórdão recorrido, a inexigibilidade das contribuições previdenciárias patronais previstas no art. 22, I, da Lei n.º 8.212/91, das contribuições parafiscais arrecadadas por conta de terceiros e da remuneração paga aos colaboradores na condição de aprendizes.
+Os temas que compõem o mérito da irresignação foram abordados pela Primeira Seção do STJ, que ao apreciar os Recursos Especiais n. 2191479/SP e 2191694/SP decidiu afetar a controvérsia ao rito dos recursos repetitivos, correspondente ao Tema n. 1342.
+A questão jurídica a ser dirimida tem a seguinte delimitação temática:
+"Definir se a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, inclusive as adicionais Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e as contribuições a terceiros."
+O acórdão proferido na Proposta de Afetação no REsp 2191479/SP, um dos escolhidos como representativo da controvérsia, foi assim sumariado:
+Ementa. Tributário. Recurso especial. Indicação como representativo de controvérsia. Contribuição patronal. Incidência. Contrato de aprendizagem (art. 428 da CLT). Admissibilidade. Afetação ao rito dos repetitivos.
+I. Caso em exame
+1. Recursos selecionados como representativos de controvérsia relativa à incidência da contribuição previdenciária patronal, inclusive a adicional Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e as contribuições destinadas a terceiros, sobre a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT).
+II. Questão em discussão
+2. Saber se a controvérsia é repetitiva e se os recursos especiais selecionados são admissíveis e representativos.
+III. Razões de decidir
+3. Os recursos especiais selecionados são admissíveis e representam controvérsia repetitiva sobre a interpretação da legislação federal.
+IV. Dispositivo e tese
+4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação da controvérsia afetada: Definir se a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, inclusive as adicionais Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e as contribuições a terceiros.
+6. Suspensão de todos os processos pendentes em que tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ. (ProAfR no REsp n. 2.191.479/SP, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 29/4/2025, DJEN de 7/5/2025.)
+O órgão julgador, por unanimidade, suspendeu o processamento de todos os processos pendentes nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Por considerar que a hipótese se amolda ao caso em exame e que o seu debate é prejudicial à análise do recurso especial, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: EDcl no AgRg no REsp n. 1.429.700/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, torno sem efeito o decisum agravado (fls. 3232-3236) e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1342), realize o juízo de adequação.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. REMUNERAÇÃO DECORRENTE DE CONTRATO DE APRENDIZAGEM. INCIDÊNCIA NA BASE DE CÁLCULO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS, ADICIONAIS E PARAFISCAIS. MATÉRIA AFETADA AO RITO DOS REPETITIVOS. TEMA 1342. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
