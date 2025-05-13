@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GLEISO SILVA DA HORA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0008531-34.2017.8.17.0001 e n. 0027049 -72.2017.8.17.0001).
+Consta dos autos que o paciente foi condenado às penas de 16 anos e 8 meses de reclusão, em regime inicial fechado, e pagamento de 60 dias-multa, como incurso nas sanções dos arts. 157, § 2º, I, II e III, do Código Penal e 2º da Lei n. 12.850/2013 (fls. 13/57).
+Em suas razões, sustenta o impetrante que o paciente se encontra submetido a constrangimento ilegal em decorrência de excesso de prazo para a formação definitiva da culpa, em violação do princípio da razoável duração do processo. Isso porque afirma estar preso preventivamente desde janeiro de 2019, e que estaria pendente, há quase 500 dias, a realização do juízo de admissibilidade do recurso especial por ele interposto.
+Ademais, aduz que o decreto de segregação cautelar careceria de fundamentação idônea, na medida em que a periculosidade do paciente estaria caracterizada apenas pelo modus operandi do delito descrito na denúncia.
+Requer seja revogada a prisão preventiva, com a consequente expedição do alvará de soltura em favor do paciente, ainda que mediante a aplicação de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Os autos vieram a mim distribuídos por prevenção do HC n. 658.911/PE, HC n. 974.974/PE, dentre outros.
+É o relatório.
+Inicialmente, em relação ao alegado excesso de prazo, como dito no julgamento do HC n. 974.974/PE, a questão nem sequer foi enfrentada pelo Tribunal a quo, incorrendo a sua análise, aqui e agora, em indevida supressão de instância.
+Quanto aos fundamentos da segregação cautelar, t em-se que as instâncias ordinárias decidiram de acordo com os precedentes dos Tribunais Superiores.
+No caso, extrai-se dos autos que o Juízo singular, ao decretar a prisão preventiva, ressaltou que (fl. 9 - grifo nosso):
+ ..
+O crime objeto destes autos é grave, foi cometido com grave ameaça à pessoa e com emprego de arma de fogo, tendo o legislador atribuído pena máxima superior a quatro anos de reclusão.
+Observa-se nos autos a necessidade da custódia preventiva ora pleiteada, pois vemos que trata-se de uma organização criminosa violenta, articulada, bem armada como informou a Autoridade Policial.
+Se soltos tais indivíduos podem ameaçar as testemunhas ou até matá-las.
+Nos presentes autos se verifica diversos homens portando armamento de guerra, os quais atacaram a empresa vítima causando comoção e terror em todos os que residiam nas vizinhanças.
+Não vejo outra forma, senão o deferimento das prisões preventivas ora pleiteadas, nos termos do art. 312, do CPP, como garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+O  Tribunal  a  quo,  ao  manter  a  constrição  cautelar,  concluiu  que, diante de suas periculosidades sociais - demonstradas pelo modus operandi do assalto em questão e por integrarem organização criminosa -, suas custódias devem ser mantidas como forma de garantir a ordem pública  (fls.  112/113).
+Como  se  vê,  o  periculum  libertatis  do  paciente  foi  evidenciado  pelas  instâncias  ordinárias.
+Assim,  observa-se,  da  análise  dos  trechos  acima,  que  a  constrição  cautelar  está  alicerçada  em  elementos  vinculados  à  realidade,  ante  a  referência  às  circunstâncias  fáticas  justificadoras,  com  destaque,  principalmente,  ao  modus  operandi.  Tudo  a  revelar  e  a  justificar  a  manutenção  da  medida  extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Sem contar que a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória e o julgamento da apelação defensiva que não concedem ao agente que ficou preso durante toda a instrução processual o direito de recorrer em liberdade, por subsistirem as circunstâncias que justificaram a decretação da prisão preventiva (AgRg no RHC n. 169.970/TO, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022; e AgRg no RHC n. 193.394/MT, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 15/5/2024).
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. EXCESSO DE PRAZO. TESE NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. PACIENTE QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO PROCESSUAL. LEGALIDADE. CONSTRANGIMENTO ILEGAL AUSENTE.
+Inicial indeferida liminarmente.
