@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE PROVA E ORDEM DE INTERROGATÓRIO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, no qual se alegou nulidade por indeferimento de perícia e inobservância da ordem do interrogatório em audiência de instrução.
+2. O Tribunal de origem manteve a condenação do agravante por tráfico de drogas, considerando desnecessária a perícia nas imagens e aplicando a Lei nº 11.343/06 quanto à ordem do interrogatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o indeferimento de perícia nas imagens e a realização do interrogatório no início da instrução, conforme a Lei nº 11.343/06, configuram nulidade processual.
+III. Razões de decidir
+4. O indeferimento da perícia foi considerado fundamentado e não configurou cerceamento de defesa, pois a prova testemunhal foi suficiente para o convencimento do magistrado.
+5. A ordem do interrogatório, conforme a Lei nº 11.343/06, não acarreta nulidade, pois não foi demonstrado prejuízo concreto ao agravante, além de a questão não ter sido suscitada oportunamente.
+6. A aplicação da Súmula 7/STJ impede o revolvimento de matéria fático-probatória em recurso especial.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O indeferimento de prova considerada irrelevante ou impertinente não configura cerceamento de defesa. 2. A ordem do interrogatório prevista na Lei nº 11.343/06 não acarreta nulidade sem demonstração de prejuízo concreto."
+Dispositivos relevantes citados: CPP, art. 400; Lei nº 11.343/06, art. 57; Súmula 7/STJ.
+Jurisprudência relevante citada: STF, HC 121953/MG, Rel. Min. Ricardo Lewandowski, j. 10.06.2014; STJ, AgRg no HC 839696/SP, Rel. Min. Reynaldo Soares da Fonseca, j. 23.10.2023; STJ, AgRg nos EAR Esp 2400913/SP, Rel. Min. Teodoro Silva Santos, j. 23.08.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOÃO GERALDO GONÇALVES CYRINO NETO contra decisão monocrática que negou provimento ao recurso especial.
+Consta nos autos que o agravante foi condenado, em sentença, às penas de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 777 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 33, caput, da Lei 11.343 /2006.
+O Tribunal de origem deu parcial provimento à apelação defensiva, para reduzir as penas "para 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, no mínimo legal, mantendo-se, no mais, a r. sentença hostilizada pelos próprios e bem lançados fundamentos".
+Sobrevieram embargos de declaração defensivos, os quais foram rejeitados. Irresignada, a Defesa interpôs recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, em que alegou ofensa aos arts. 400, 564, IV, 402 e 616 do Código de Processo Penal e divergência jurisprudencial. Ao final, requereu a reforma do acórdão impugnado.
+O Tribunal de origem não admitiu o recurso especial, porque "não foram devidamente atacados todos os argumentos do aresto", ausência de demonstração do dissídio jurisprudencial e incidência da Súmula 7/STJ.
+O agravo em recurso especial foi conhecido para negar provimento ao recurso especial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE PROVA E ORDEM DE INTERROGATÓRIO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, no qual se alegou nulidade por indeferimento de perícia e inobservância da ordem do interrogatório em audiência de instrução.
+2. O Tribunal de origem manteve a condenação do agravante por tráfico de drogas, considerando desnecessária a perícia nas imagens e aplicando a Lei nº 11.343/06 quanto à ordem do interrogatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o indeferimento de perícia nas imagens e a realização do interrogatório no início da instrução, conforme a Lei nº 11.343/06, configuram nulidade processual.
+III. Razões de decidir
+4. O indeferimento da perícia foi considerado fundamentado e não configurou cerceamento de defesa, pois a prova testemunhal foi suficiente para o convencimento do magistrado.
+5. A ordem do interrogatório, conforme a Lei nº 11.343/06, não acarreta nulidade, pois não foi demonstrado prejuízo concreto ao agravante, além de a questão não ter sido suscitada oportunamente.
+6. A aplicação da Súmula 7/STJ impede o revolvimento de matéria fático-probatória em recurso especial.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O indeferimento de prova considerada irrelevante ou impertinente não configura cerceamento de defesa. 2. A ordem do interrogatório prevista na Lei nº 11.343/06 não acarreta nulidade sem demonstração de prejuízo concreto."
+Dispositivos relevantes citados: CPP, art. 400; Lei nº 11.343/06, art. 57; Súmula 7/STJ.
+Jurisprudência relevante citada: STF, HC 121953/MG, Rel. Min. Ricardo Lewandowski, j. 10.06.2014; STJ, AgRg no HC 839696/SP, Rel. Min. Reynaldo Soares da Fonseca, j. 23.10.2023; STJ, AgRg nos EAR Esp 2400913/SP, Rel. Min. Teodoro Silva Santos, j. 23.08.2024.
+VOTO
+O recurso especial não foi provido, uma vez que não foi verificada de plano inidoneidade na motivação utilizada pela instância ordinária ao indeferir a prova requerida, bem como o momento do interrogatório.
+Sobre os temas, o Tribunal de origem asseverou que:
+"Não existe nulidade no ato de indeferimento de realização de perícia, requerida pela Defesa, tampouco ausência de fundamentação ou cerceamento de defesa, até porque não configurada, diante da prova carreada aos autos, suficiente para embasar o convencimento do Magistrado. A Defesa, em Memoriais, requereu a realização de perícia nas imagens aonde se constatou que o acusado trazia na sua cintura um "tijolo" de maconha, pedido este indeferido pelo juízo a quo (fl. 215) por entender totalmente desnecessário para o deslinde da questão. No caso, não havia, de fato, justificativa plausível para a realização de referida perícia sobre algo que, naturalmente a priva oral e os testemunhos dos agentes da lei poderiam, como de fato o fizeram, esclarecer sem maiores problemas e com maior celeridade processual. II Da mesma forma, não prospera o pleito de nulidade processual, desde o interrogatório, em razão da inobservância da ordem do interrogatório em audiência de instrução, pois sua realização no início da instrução não acarreta qualquer irregularidade processual, sendo certo que o artigo 57, da Lei nº 11.343/06, prevê que ele seja realizado como o primeiro ato da instrução criminal, anterior à oitiva das testemunhas. Se o artigo 400 do Código de Processo Penal, modificado pela Lei 11.719 /08, refere-se ao momento final do interrogatório no rito comum ordinário, tal disposição não se irradia a outros procedimentos como a de rito especial a que o tráfico se submete. sse é o entendimento do col. Supremo Tribunal Federal: "Tráfico de drogas: interrogatório do réu e princípio da especialidade. O rito previsto no art. 400 do CPP com a redação conferida pela Lei 11.719/2008 não se aplica à Lei de Drogas, de modo que o interrogatório do réu processado com base na Lei 11.343 /2006 deve observar o procedimento nela descrito (artigos 54 a 59). Com base nesse entendimento, a 2ª Turma denegou "habeas corpus" em que se pretendia a observância do art. 400 do CPP em processo penal alusivo ao crime de tráfico de drogas. A Turma afirmou que o art. 57 da Lei 11.343/2006 estabelece que o interrogatório ocorreria em momento anterior à oitiva das testemunhas, diferentemente do que prevê o art. 400 do CPP, que dispõe que o interrogatório seria realizado ao final da audiência de instrução e julgamento. Assentou, ainda, que seria necessária a demonstração do prejuízo, inocorrente na espécie. Ademais, entendeu que, no confronto entre as duas leis, aplicar-se-ia a lei especial quanto ao procedimento, que, no caso, seria a Lei de Drogas. Precedente citado: HC 85.155/SP (DJU de 15.4.2005). HC 121953/MG, rel. Min. Ricardo Lewandowski, 10.6.2014. (HC-121953) Informativo nº 750, de 09 a 13 de junho de 2014."
+Quanto ao tema, há entendimento jurisprudencial deste e. Tribunal. Assim, tem-se que a lei especial prevalece sobre a geral, devendo ser respeitado o determinado pela Lei nº 11.343/06.
+Da análise do trecho retro, não se verifica nenhuma flagrante ilegalidade na fundamentação apresentada pela instância ordinária, que considerou desnecessária a produção da prova.
+Rever tal fundamento importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTALNO HABEAS CORPUS. INDEFERIMENTO DE PROVAS. DECISÃO FUNDAMENTADA . NULIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O art . 400, § 1º, do Código de Processo Penal, autoriza o Magistrado a indeferir as provas que considerar irrelevantes, impertinentes ou protelatórias, uma vez que ele é o destinatário da prova. 2. No caso, o Tribunal de origem destacou que a prova pleiteada pela defesa(diligência acerca das imagens das câmeras de segurança do dia dos fatos, com o fim de comprovar que o paciente não ameaçou policial militar e não danificou a porta) era irrelevante e impertinente para o deslinde da causa, de maneira que o pedido foi indeferido. 3 . Assim, fundamentado o indeferimento da produção da prova requerida pela defesa , não se verifica infração ao princípio constitucional da ampla defesa. 4. Agravo regimental a que se nega provimento" (STJ - AgRg no HC 839.696/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/10/20).
+Do mesmo modo, no que se refere ao interrogatório ocorrido no primeiro ato, a defesa não demonstrou efetivo prejuízo ao agravante, além da preclusão, pois não restou comprovado que foi alegada na primeira oportunidade, qual seja: na audiência.
+Tal entendimento está de acordo com a jurisprudência desta Corte.
+A propósito:
+"AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTERROGATÓRIO REALIZADO NO INÍCIO DA INSTRUÇÃO. TESE DE NULIDADE POR INOBSERVÂNCIA DO ART . 400 DO CPP. ACÓRDÃO EMBARGADO QUE REJEITOU A ARGUIÇÃO DE NULIDADE EM FACE DA PRECLUSÃO E DA AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. TEMA N. 1 .114. PRECUSÃO INAPLICÁVEL AO CASO. QUESTÃO SUSCITADA EM ALEGAÇÕES FINAIS. PREJUÍZO NÃO DEMONSTRADO . ÓBICE PARA DECLARAÇÃO DE NULIDADE. INCIDÊNCIA DA SÚMULA N. 168/STJ NO TOCANTE AO PRIMEIRO PARADIGMA. MINORANTE DO TRÁFICO PRIVILEGIADO APLICADO NO PATAMAR DE 2/5 . PARADIGMA NÃO CONHECIDO. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SEMILITUDE FÁTICO- JURÍDICA ENTRE OS ACÓRDÃOS COMPARADOS; SEGUNDO PARADIGMA INADMISSÍVEL. DECISÃO AGRAVADA MANTIDA.
+1. Hipótese em que os embargantes, processados e condenados por tráfico de drogas, foram interrogados no início da instrução. A Defesa arguiu nulidade em razão da inobservância do art. 400 do Código de Processo Penal, que impõe a realização do interrogatório do réu como último ato da instrução criminal .
+2. O acórdão embargado erigiu dois fundamentos para não reconhecer a arguida nulidade: (i) preclusão, porque a insurgência não foi suscitada pela Defesa na primeira oportunidade, qual seja, na audiência de interrogatório do réu, mas tão somente nas alegações finais; e, ainda, (ii) ausência de demonstração de prejuízo em razão do apontado vício.
+3. No julgamento do R Esp n . 1.933.759/PR e do R Esp n. 1 .946.472 /PR, submetidos ao rito dos recursos repetitivos (Tema n. 1.114/STJ), a Terceira Seção desta Corte firmou a compreensão de que a nulidade - decorrente da inobservância do interrogatório como último ato da instrução - pode ser suscitada até as alegações finais (art . 571, I e II, do CPP), demandando, para declaração, prova de prejuízo concreto ao réu (art. 563 do CPP).
+4. Quanto ao primeiro paradigma (R Esp n . 1.825.622 /SP), deve ser mantida a incidência da Súmula 168/STJ, pois, ainda que inaplicável a preclusão - a defesa suscitou a nulidade decorrente da inversão do interrogatório em sede de alegações finais, ou seja, no prazo preconizado na Tema n. 1 .114/STJ - não foi demonstrado nenhum prejuízo concreto decorrente do interrogatório prematuro, circunstância apta a obstar a declaração da nulidade em questão, na esteira da disposição contida no art. 563 do CPP e do entendimento jurisprudencial mais recente desta Corte.
+5. Quanto ao segundo paradigma (AgRg no AR Esp n . 2.095.003/PA), inexiste similitude fático-jurídica entre os casos comparados, o que enseja a inadmissibilidade dos embargos de divergência.
+6 . Agravo regimental improvido" (STJ - AgRg nos EAR Esp 2.400.913/SP, Relator Ministro Teodoro Silva Santos, Terceira Seção, D Je 23/08/2024).
+A irresignação não merece prosperar. Assim, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
