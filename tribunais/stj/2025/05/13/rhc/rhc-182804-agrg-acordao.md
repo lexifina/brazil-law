@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Requisitos legais. Ausência de excesso de prazo. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a decisão do Tribunal de Justiça do Estado do Ceará que denegou o pedido de revogação da prisão preventiva do recorrente.
+2. O recorrente foi denunciado pela prática, em tese, do delito de homicídio qualificado, por motivo torpe, praticado em via pública mediante diversos disparos de arma de fogo, conforme art. 121, §2º, incisos I e IV c/c art. 29, caput, do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do recorrente está devidamente fundamentada na garantia da ordem pública, considerando a gravidade concreta da conduta e a periculosidade do agente.
+III. Razões de decidir
+4. A decisão de manter a prisão preventiva está fundamentada na gravidade concreta da conduta do recorrente, que cometeu homicídio qualificado em via pública, justificando a medida extrema para a garantia da ordem pública.
+5. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a presença de condições pessoais favoráveis não é suficiente para afastar a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar os fundamentos já expostos na inicial do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando devidamente fundamentada na gravidade concreta da conduta e na garantia da ordem pública. 2. A presença de condições pessoais favoráveis não afasta a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do CPP. 3. A ausência de novos argumentos no agravo regimental impede a alteração da decisão anteriormente proferida".
+Dispositivos relevantes citados: CPP, art. 312; Código Penal, art. 121, §2º, incisos I e IV; art. 29, caput.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, DJE 11.11.2024; STF, HC 146.874 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJE 26.10.2017.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO ANDERSON DOS SANTOS SILVA contra decisão da minha lavra, às fls. 121-124, na qual foi negado provimento ao recurso ordinário em habeas corpus para manter a decisão prolatada pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que denegou o pleito defensivo pela revogação da prisão preventiva do então recorrente.
+Depreende-se dos autos que o recorrente foi denunciado pela prá tica, em tese, do delito do art. 121, §2º, incisos I e IV c/c art. 29, caput, ambos do Código Penal.
+A prisão foi decretada visando a garantia da ordem pública em razão da gravidade em concreto da conduta (homicídio qualificado, por motivo torpe, praticado em via pública mediante diversos disparos de arma de fogo).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem. Diante da negativa ao pleito, interpôs recurso ordinário em habeas corpus, que, por decisão de minha lavra, negou provimento ao recurso para manter a prisão preventiva.
+No agravo regimental interposto às fls. 129-147 a recorrente se limita a reproduzir os mesmos fundamentos utilizados para sustentar a impetração do mandamus, como exposto acima.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Requisitos legais. Ausência de excesso de prazo. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a decisão do Tribunal de Justiça do Estado do Ceará que denegou o pedido de revogação da prisão preventiva do recorrente.
+2. O recorrente foi denunciado pela prática, em tese, do delito de homicídio qualificado, por motivo torpe, praticado em via pública mediante diversos disparos de arma de fogo, conforme art. 121, §2º, incisos I e IV c/c art. 29, caput, do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do recorrente está devidamente fundamentada na garantia da ordem pública, considerando a gravidade concreta da conduta e a periculosidade do agente.
+III. Razões de decidir
+4. A decisão de manter a prisão preventiva está fundamentada na gravidade concreta da conduta do recorrente, que cometeu homicídio qualificado em via pública, justificando a medida extrema para a garantia da ordem pública.
+5. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a presença de condições pessoais favoráveis não é suficiente para afastar a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar os fundamentos já expostos na inicial do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando devidamente fundamentada na gravidade concreta da conduta e na garantia da ordem pública. 2. A presença de condições pessoais favoráveis não afasta a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do CPP. 3. A ausência de novos argumentos no agravo regimental impede a alteração da decisão anteriormente proferida".
+Dispositivos relevantes citados: CPP, art. 312; Código Penal, art. 121, §2º, incisos I e IV; art. 29, caput.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, DJE 11.11.2024; STF, HC 146.874 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJE 26.10.2017.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos, haja vista a ausência de formulação de novos argumentos suscitados pelo recorrente aptos a ocasionar sua alteração.
+Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual cabe à parte recorrente impugnar os fundamentos que levaram ao não conhecimento do recurso especial.
+Ora, é pacífica a jurisprudência desta Corte no sentido de que inexistentes novos argumentos capazes de alterar o entendimento anteriormente firmado, o recurso não deve ser conhecido. A propósito:
+Nos termos da jurisprudência desta Corte Superior, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecido na decisão agravada sob pena de ser mantida a decisão pelos seus próprios fundamentos (súmula 182 do Superior Tribunal de Justiça). Limitando-se o recorrente a reiterar os argumentos expostos na inicial do habeas corpus, não deve o agravo regimental ser conhecido." AgRg no HC 841050/ES - Quinta Turma - Relatora Ministra Daniela Teixeira - DJE de 11.11.2024
+Na decisão de fls. 121-124 assim expus os fundamentos restantes da denegação da ordem, os quais incorporo como razões de decidir neste voto:
+" ..  Pela leitura dos autos, não obstante o réu tenha de apresentado espontaneamente à Autoridade Policial após homicídio e não ostente maus antecedentes, o fato é que a gravidade concreta da conduta é patente, visto que o Recorrente cometeu homicídio qualificado, por motivo torpe, praticado em via pública mediante diversos disparos de arma de fogo, motivação que justifica a medida extrema para a garantia da ordem pública. Sobre o tema: "O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, D Je 26/10/2017)." De mais a mais, outras alegações defensivas que demandem incursão no acervo fático-probatório, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso). Portanto, não há ilegalidade no decreto de segregação, visto que a concretude da gravidade está devidamente fundamentada na decisão e também não há excesso de prazo para justificar a soltura do réu, não cabendo ainda a aplicação das medidas cautelares diversas da prisão. Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada. Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus."
+Nesse sentido, endosso trecho da impugnação ministerial de fls. 161-165, quando aduziu que:
+" ..  o nobre Relator foi cirúrgico ao fundamentar que " ..  não há ilegalidade no decreto de segregação, visto que a concretude da gravidade está devidamente fundamentada na decisão e também não há excesso de prazo para justificar a soltura do réu, não cabendo ainda a aplicação das medidas cautelares diversas da prisão" (fls. 123). E, não menos relevante, registre-se que o magistrado de piso, ao analisar a mantença da prisão, levou em consideração a gravidade concreta representada pelo risco à liberdade do agravante, visto que, "ao atirar friamente na vítima, sem qualquer discussão aparente, continuando em perseguição para atingi-lo, demonstra ação impetuosa e animosa, que pode, a toda evidência, se repetir" (fl. 170 do processo nº 0200128-92.2022.8.06.0302). Assim, concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal, e, portanto, tem -se que o agravo regimental não merece prosperar, não havendo quaisquer reparos na decisão irresignada. "
+Desse modo, a alegação de que há excesso de prazo para justificar a soltura do réu, visto que o agravante encontra-se preso desde fevereiro de 2023, sem previsão de quando será submetido a julgamento pelo Tribunal do Júri bem como a alegação de apresentação espontânea após a ocorrência do crime não impede a manutenção de sua prisão. A uma, porque o modus operandi da conduta criminosa de homicídio imputada ao Recorrente foi grave. A duas, porque é sabido que a realização de uma sessão do júri demanda um razoável tempo de preparação.
+Registro ainda que as decisões da instância ordinária fundamentou a segregação pela gravidade concreta representada pelo risco à liberdade do agravante, visto que atirou friamente na vítima, sem qualquer discussão aparente, conforme informações constantes dos autos.
+Portanto , não vislumbro excesso de prazo nem ausência de justificativa para a manutenção da prisão, mantendo a decisão ora atacada pelos seus próprios fundamentos.
+Ante o exposto, os autos demonstraram de forma segura que é inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, razão pela qual nego provimento ao agravo regimental.
+É como voto.
