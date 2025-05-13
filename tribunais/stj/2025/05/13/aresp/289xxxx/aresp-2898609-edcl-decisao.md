@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MÁRCIO DE CASTRO VALADARES à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  a decisão monocrática exarada por Vossa Excelência, data vênia, incorreu em involuntária omissão, plenamente sanável mediante o presente recurso horizontal, senão vejamos.
+O Embargante no agravo de instrumento em recurso especial, fundamentou e impugnou especificamente a decisão monocrática que negou seguimento ao recurso especial, cujo fundamento é violação à Lei Federal, especificamente no que diz respeito ao parcelamento de crédito tributário antes do trânsito em julgado do processo. Conforme se observa, o Embargante impugnou especificamente o fundamento trazido naquela decisão monocrática de que a pretensão do recurso especial colidia com o preceito da súmula 284 do STF e Súmula 7/STJ, fato este não analisado por essa Relatoria.
+ ..
+ ..  fundamentou-se e impugnou-se especificamente a decisão monocrática que negou seguimento ao recurso especial, argumentando que em 2003 foi editada a Lei 10.684/03, que manteve o sistema da Lei 9.964/00 reconhecendo o parcelamento tributário como hipótese de suspensão da pretensão punitiva Estatal e o pagamento integral como forma de extinção da punibilidade, porém com uma modificação significativa: a redação do dispositivo não limitou temporalmente o momento da adesão ao parcelamento tributário ou do pagamento do débito.
+ ..
+ ..  o agravo de instrumento em recurso especial impugnou especificamente os fundamentos da decisão monocrática, requerendo o afastamento da aplicação da Súmula 284 do STF e Súmula 7/STJ, bem como os fundamentos que deram ensejo a inadmissão do Recurso Especial, um vez que houve mero erro material, conforme acima fundamentado, determinando- se, por consequência, o recebimento e o regular processamento do Recurso Especial, dando vigência ao art. 9º da Lei 10.684/03, logo, deferindo o pedido da Embargante de suspensão do processo, motivo pelo qual serve o presente recurso horizontal para sanar a omissão aqui narrada.(fls. 844/6)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, divergência não comprovada - Súmula 284/STF e súmula 7/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no Recurso Especial, de que maneira a análise não dependeria do reexame de provas". (AgRg no AREsp n. 1.677.886/MS, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 3.6.2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 7/STJ (condenação solidária da União e do Estado da Bahia). Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.907.380/BA, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe de 14.10.2021)
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
