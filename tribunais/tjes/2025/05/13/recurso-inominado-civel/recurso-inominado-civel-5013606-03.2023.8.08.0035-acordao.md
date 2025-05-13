@@ -1,0 +1,99 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5013606-03.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ERICA ANA MARIA AUGUSTIN LIMA
+RECORRIDO: BANCO BMG SA
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANO MORAL E MATERIAL COM PEDIDO TUTELA DE URGÊNCIA. SENTENÇA DE IMPROCEDÊNCIA. NECESSIDADE DE REFORMA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. DANOS MORAIS DEVIDOS. RECURSO DA AUTORA CONHECIDO E PARCIALMENTE PROVIDO. DECLARAÇÃO DE NULIDADE DO NEGÓCIO. DEVOLUÇÃO DOS VALORES NA FORMA DOBRADA. ARBITRAMENTO DE DANOS MORAIS NO VALOR DE R$ 5.000,00 (CINCO MIL REAIS). CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA EM FAVOR DA PARTE RECORRENTE.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.° 5013606-03.2023.8.08.0035
+
+Recorrente: ERICA ANA MARIA AUGUSTIN LIMA
+
+Recorrido: BANCO BMG SA
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade. ]
+
+Concedo a gratuidade de justiça em favor da parte recorrente, posto que preenchidos os requisitos legais.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANO MORAL E MATERIAL COM PEDIDO TUTELA DE URGÊNCIA. SENTENÇA DE IMPROCEDÊNCIA. NECESSIDADE DE REFORMA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. DANOS MORAIS DEVIDOS. RECURSO DA AUTORA CONHECIDO E PARCIALMENTE PROVIDO. DECLARAÇÃO DE NULIDADE DO NEGÓCIO. DEVOLUÇÃO DOS VALORES NA FORMA DOBRADA. ARBITRAMENTO DE DANOS MORAIS NO VALOR DE R$ 5.000,00 (CINCO MIL REAIS). CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA EM FAVOR DA PARTE RECORRENTE. (1). DA LIDE.
+A PARTE AUTORA ALEGA, EM SÍNTESE, QUE COMEÇOU A RECEBER COBRANÇAS DA RÉ REFERENTES A UM SUPOSTO DÉBITO DE UM CARTÃO DE CRÉDITO BMG CARD. COM A AJUDA DE SEU FILHO, A AUTORA BUSCOU INFORMAÇÕES PARA SABER A ORIGEM DA DÍVIDA, TENDO QUE ACIONAR DIVERSOS ÓRGÃOS PARA TENTAR SOLUCIONAR O PROBLEMA. RELATA QUE, APÓS MUITAS BUSCAS, DESCOBRIU QUE, SEM QUE ELA SOUBESSE, UMA DÍVIDA ESTAVA SENDO DEBITADA DE SEUS PROVENTOS DE APOSENTADORIA EM PARCELAS MÍNIMAS. AO EXIGIR UM EXTRATO DETALHADO COM DEMONSTRATIVO DOS DESCONTOS, APUROU QUE A RÉ DESCONTOU O TOTAL DE R$ 7.438,68. ENTRETANTO, ALEGA QUE NÃO RECEBEU INFORMAÇÕES CLARAS E PRECISAS SOBRE A DÍVIDA. INFORMA QUE AO QUE TUDO INDICA A RÉ TRANSFORMOU UM PROCEDIMENTO DE DISPONIBILIZAÇÃO DE CRÉDITOS EM UM PRODUTO (CARTÃO DE CRÉDITO), GERANDO DÍVIDAS ONDE NÃO SE PAGA PARCELAS VISANDO A QUITAÇÃO, MAS SIM, PAGAMENTO MÍNIMO, TORNANDO O DÉBITO AINDA MAIOR E IMPAGÁVEL. AFIRMA A AUTORA QUE NÃO RECONHECE A CONTRATAÇÃO. EM QUE PESE TER RECEBIDO CÓPIA DE CONTRATO PREENCHIDO ELETRONICAMENTE COM SEUS DADOS (DOCUMENTO ANEXO), NÃO RECONHECE TÊ-LO PACTUADO E TAMPOUCO ASSINADO, ADUZINDO QUE A ÚNICA EXPLICAÇÃO PLAUSÍVEL É QUE FOI GERADO UNILATERALMENTE PELA RÉ, RAZÃO PELA QUAL REQUER SUA RESCISÃO E RESTITUIÇÃO DOS VALORES.
+(2). SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO INICIAL.
+
+(3). RECURSO DA PARTE AUTORA.
+PLEITEIA, EM SEDE LIMINAR OS BENEFÍCIOS DA GRATUIDADE DE JUSTIÇA. NO MÉRITO, REITERA OS PEDIDOS MANIFESTADOS NA EXORDIAL, PUGNANDO PELA REFORMA INTEGRAL DO JULGAMENTO DA ORIGEM.
+(4). MÉRITO RECURSAL. CARTÃO DE CRÉDITO CONSIGNADO. DIREITO DO CONSUMIDOR.
+A REQUERENTE AFIRMA DESCONHECER O CONTRATO A TÍTULO DE CONSIGNADO SUPOSTAMENTE FIRMADO COM O RECORRIDO.
+A PRIORI,
+OUSO MANIFESTAR, POR IMPORTANTE, QUE A MATÉRIA EM DEBATE NOS PRESENTES AUTOS, DIZENTE À PRÁTICA DE FORMALIZAÇÃO DE CONTRATOS DE CARTÕES DE CRÉDITO CONSIGNADOS REALIZADOS PELAS ADMINISTRADORAS À REVELIA DA ADESÃO VOLUNTÁRIA DOS CONSUMIDORES, COM PROVIDÊNCIA DE SAQUES DE VALORES EVENTUALMENTE CONVENCIONADOS ESTIMULANDO A CONCRETIZAÇÃO DO NEGÓCIO MESMO SEM PRÉVIO CONHECIMENTO DOS CONSUMIDORES, TEM SE REPETIDO DE FORMA CONTUMAZ, SEMPRE SENDO BASEADAS NAS MESMAS ESTRATÉGIAS COMERCIAIS PRECEDIDAS DE RECLAMAÇÕES IDÊNTICAS DOS CLIENTES. ASSIM, TAIS CONTRATAÇÕES, DEMONSTRAM AUSÊNCIA DE FORMALIZAÇÃO DA VONTADE DOS SEUS CONSUMIDORES. O CASO NARRADO NO PRESENTE PROCESSO REPETE-SE EM VÁRIAS OUTRAS DEMANDAS, EM DESFAVOR DE MÚLTIPLAS INSTITUIÇÕES BANCÁRIAS, FAZENDO PARECER TRATAR-SE DE MODELO DE ABORDAGEM CONCERTADO, GERANDO OBRIGAÇÕES, AS QUAIS MUITO EMBORA FORMALMENTE VÁLIDAS, PORÉM EIVADAS DE VÍCIOS DE CONSENTIMENTO, O QUE LEVA OS CLIENTES A BUSCAREM A VIA JUDICIAL, MUITAS VEZES APÓS ESGOTADAS TENTATIVAS NA ESFERA ADMINISTRATIVA. COM A DEVIDA VÊNIA, DISCORDO DO ENTENDIMENTO DO MAGISTRADO
+A QUO
+NO QUE PERTINE AO NÃO RECONHECIMENTO DE IRREGULARIDADES. O CERNE DA PRESENTE LIDE PRENDE-SE EM APURAR SE EFETIVAMENTE FOI CELEBRADO PELA RECORRENTE O NEGÓCIO JURÍDICO VERGASTADO E, POR CONSEGUINTE, SE FORAM (I)LÍCITOS OS DESCONTOS SOBRE O BENEFÍCIO PREVIDENCIÁRIO DAQUELA, EM RAZÃO DE SUPOSTA CONTRATAÇÃO DE CARTÃO DE CRÉDITO CONSIGNADO E SE TAL SITUAÇÃO ENSEJA INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. NO CASO
+SUB EXAMINE
+NÃO SE PODE EXIGIR DO CONSUMIDOR A PRODUÇÃO DE PROVA NEGATIVA, POSTO QUE, O CONTEXTO FÁTICO DOS AUTOS NO QUAL SE RESPALDA A PRETENSÃO AUTORAL, TRATA-SE DE FATOS NEGATIVOS. DESSARTE, INCUMBE AO REQUERIDO DEMONSTRAR QUE, DE FATO, A AUTORA CONTRATOU O CARTÃO DE CRÉDITO CONSIGNADO OBJURGADO. AO ANALISAR DETIDAMENTE OS AUTOS, VERIFICO QUE EM
+ID.: 12121476
+A RÉ, ANEXOU O SUPOSTO CONTRATO, TAL QUAL FIRMADO POR MEIO DA FOTOGRAFIA (PERFIL) DA AUTORA, O QUE CONFIRMA QUE A RELAÇÃO FOI EFETIVADA VIRTUALMENTE (NA MODALIDADE BIOMETRIA). AO ANALISAR O CONTRATO FIRMADO, NOTO QUE,
+EMBORA SEJA VÁLIDO, O MESMO NÃO COMPROVA, SUFICIENTEMENTE, QUE A AUTORA DETINHA DAS INFORMAÇÕES NECESSÁRIAS QUANTO À CONTRATAÇÃO DO SERVIÇO DE
+CARTÃO DE CRÉDITO CONSIGNADO,
+VISTO QUE, A PRÓPRIO REQUERENTE, EM SUA INICIAL, AFIRMA DESCONHECER A SUPOSTA RELAÇÃO JURÍDICA EXISTENTE COM O BANCO RÉU, O QUE DEMONSTRA QUE A AUTORA NÃO TINHA CONHECIMENTO DO PRODUTO QUE CONTRATOU, PRINCIPALMENTE QUANDO É SABIDO QUE A CONTRATAÇÃO DE UM
+EMPRÉSTIMO CONSIGNADO
+SERIA MENOS ONEROSA À RECORRENTE. PORTANTO, O QUE ENTENDO PRESENTE, É, NA VERDADE, UM VÍCIO DE MANIFESTAÇÃO DE VONTADE, QUE POR SUA VEZ IMPÕE A NULIDADE DO NEGÓCIO EFETIVAMENTE CELEBRADO, RETORNANDO-SE AO
+STATU QUO ANTE
+.
+O CÓDIGO DE DEFESA DO CONSUMIDOR, TRAZ EXPRESSAMENTE EM SEU ARTIGO 6º, INCISO III, QUE É DEVER DA INSTITUIÇÃO PRESTAR TODAS AS INFORMAÇÕES DE FORMA ADEQUADA E CLARA AO CONSUMIDOR,
+SOBRE OS DIFERENTES TIPOS DE SERVIÇOS E PRODUTOS OFERTADOS POR ELA
+. TEM-SE, PORTANTO, DIGNA DE CONDÃO DE VERACIDADE A ASSERTIVA DE QUE A CONSUMIDORA NÃO PRETENDIA ADQUIRIR QUALQUER SERVIÇO DE CARTÃO DE CRÉDITO, CONSTITUINDO UM SERVIÇO/PRODUTO NÃO SOLICITADO PELA MESMA. DESTACO AINDA QUE, NO QUE PERTINE ÀS FATURAS ACOSTADAS AOS AUTOS EM
+ID.: 12121478,
+CONSTATO A INEXISTÊNCIA DE COMPRAS EFETIVADAS COM O CARTÃO, O QUE COMPROVA AINDA MAIS O FATO DE QUE A AUTORA JAMAIS PRETENDEU CONTRATAR O SERVIÇO DE CARTÃO DE CRÉDITO CONSIGNADO. NO QUE TANGE AOS DANOS MORAIS, TENHO ME CONVENCIDO DE QUE OS TRANSTORNOS EXPERIMENTADOS PELOS CONSUMIDORES, ULTRAPASSAM O MERO ABORRECIMENTO, SUJEITANDO O RECORRIDO AO PAGAMENTO DE INDENIZAÇÃO EXTRAPATRIMONIAL, DE MODO QUE ENTENDO PERTINENTE O ARBITRAMENTO DA MONTA DE R$ 5.000,00 (CINCO MIL REAIS) A TÍTULO INDENIZATÓRIO. NO QUE PERTINE À REPETIÇÃO DO INDÉBITO NA FORMA DOBRADA, ENTENDO QUE O REFERIDO INSTITUTO CABERÁ TÃO SOMENTE EM RELAÇÃO ÀS PARCELAS DESCONTADAS A PARTIR DE
+MARÇO/2021,
+EXPLICO. O SUPERIOR TRIBUNAL DE JUSTIÇA TINHA FIRME JURISPRUDÊNCIA NO SENTIDO DE QUE “A REPETIÇÃO EM DOBRO DE VALORES INDEVIDAMENTE COBRADOS E/OU DESCONTADOS EXIGE A DEMONSTRAÇÃO DA MÁ-FÉ DO CREDOR” (AGINT-ARESP 1.501.756/SC; QUARTA TURMA; REL. MIN. RAUL ARAÚJO; JULG. 10/10/2019; DJE 25/10/2019). MAIS RECENTEMENTE, ESSE ENTENDIMENTO FOI, EM PARTE, ALTERADO. NO JULGAMENTO DOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL 676.608/RS, A CORTE ESPECIAL DAQUELE SODALÍCIO DECIDIU QUE BASTA QUE O FORNECEDOR PRATIQUE UMA CONDUTA CONTRÁRIA À BOA-FÉ OBJETIVA PARA HAVER A INCIDÊNCIA DA NORMA (OU SEJA, É DESPICIENDA A ANÁLISE DO DOLO OU DA CULPA DO CREDOR). NO ENTANTO, MODULARAM-SE OS EFEITOS DA DECISÃO A FIM DE QUE ESSE ENTENDIMENTO SOMENTE FOSSE APLICÁVEL AOS VALORES PAGOS APÓS A PUBLICAÇÃO DO RESPECTIVO ACÓRDÃO, O QUE OCORREU EM MARÇO DE 2021. É O QUE SE VERIFICA DA EMENTA DO JULGADO: EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. TELEFONIA FIXA. COBRANÇA INDEVIDA. AÇÃO DE REPETIÇÃO DE INDÉBITO DE TARIFAS. 1) RESTITUIÇÃO EM DOBRO DO INDÉBITO (PARÁGRAFO ÚNICO DO ARTIGO 42 DO CDC). DESINFLUÊNCIA DA NATUREZA DO ELEMENTO VOLITIVO DO FORNECEDOR QUE REALIZOU A COBRANÇA INDEVIDA. DOBRA CABÍVEL QUANDO A REFERIDA COBRANÇA CONSUBSTANCIAR CONDUTA CONTRÁRIA À BOA-FÉ OBJETIVA. 2) APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL DO CÓDIGO CIVIL (ART. 205 DO CÓDIGO CIVIL). APLICAÇÃO ANALÓGICA DA SÚMULA Nº 412/STJ. 3) MODULAÇÃO PARCIAL DOS EFEITOS DA DECISÃO. CONHECIMENTO E PROVIMENTO INTEGRAL DO RECURSO. 1. Trata-se de embargos de divergência interpostos contra acórdão em que se discute o lapso prescricional cabível aos casos de repetição de indébito por cobrança indevida de valores referentes a serviços não contratados, promovida por empresa de telefonia. Discute-se, ainda, acerca da necessidade de comprovação da má-fé pelo consumidor para aplicação do art. 42, parágrafo único, do Código de Defesa do Consumidor. 2. Na configuração da divergência do presente caso, temos, de um lado, o acórdão embargado da Terceira Turma concluindo que a norma do art. 42 do Código de Defesa do Consumidor pressupõe a demonstração de que a cobrança indevida decorreu de má-fé do credor fornecedor do serviço, enquanto os acórdãos-paradigmas da Primeira Seção afirmam que a repetição em dobro prescinde de má-fé, bastando a culpa. Ilustrando o posicionamento da Primeira Seção: ERESP 1.155.827/SP, Rel. Min. Humberto Martins, Primeira Seção, DJe 30/6/2011. Para exemplificar o posicionamento da Segunda Seção, vide: ERESP 1.127.721/RS, Rel. Min. Antônio Carlos Ferreira, Rel. p/ Acórdão Min. Marco Buzzi, Segunda Seção, DJe 13/3/2013. 3. Quanto ao citado parágrafo único do art. 42 do CDC, abstrai-se que a cobrança indevida será devolvida em dobro, “salvo hipótese de engano justificável”. Em outras palavras, se não houver justificativa para a cobrança indevida, a repetição do indébito será em dobro. A divergência aqui constatada diz respeito ao caráter volitivo, a saber: se a ação que acarretou cobrança indevida deve ser voluntária (dolo/má-fé) e/ou involuntária (por culpa). 4. O próprio dispositivo legal caracteriza a conduta como engano e somente exclui a devolução em dobro se ele for justificável. Ou seja, a conduta base para a repetição de indébito é a ocorrência de engano, e a Lei, rígida na imposição da boa-fé objetiva do fornecedor do produto ou do serviço, somente exclui a devolução dobrada se a conduta (engano) for justificável (não decorrente de culpa ou dolo do fornecedor). 5. Exigir a má-fé do fornecedor de produto ou de serviço equivale a impor a ocorrência de ação dolosa de prejudicar o consumidor como requisito da devolução em dobro, o que não se coaduna com o preceito legal. Nesse ponto, a construção realizada pela Segunda Seção em seus precedentes, ao invocar a má-fé do fornecedor como fundamento para a afastar a duplicação da repetição do indébito, não me convence, pois atribui requisito não previsto em Lei. 6. A tese da exclusividade do dolo inviabiliza, por exemplo, a devolução em dobro de pacotes de serviços, no caso de telefonia, jamais solicitados pelo consumidor e sobre o qual o fornecedor do serviço invoque qualquer “justificativa do seu engano”. Isso porque o requisito subjetivo da má-fé é prova substancialmente difícil de produzir. Exigir que o consumidor prove dolo ou má-fé do fornecedor é imputar-lhe prova diabólica, padrão probatório que vai de encontro às próprias filosofia e ratio do CDC. 7. Não vislumbro distinção para os casos em que o indébito provém de contratos que não envolvam fornecimento de serviços públicos, de forma que também deve prevalecer para todas as hipóteses a tese, que defendi acima, de que tanto a conduta dolosa quanto culposa do fornecedor de serviços dá azo à devolução em dobro do indébito, de acordo com o art. 42 do CDC. Nessas modalidades contratuais, também deve prevalecer o critério dúplice do dolo/culpa. Assim, tanto a conduta dolosa quanto a culposa do fornecedor de serviços dão substrato à devolução em dobro do indébito, à luz do art. 42 do CDC. [...] 13. Fixação das seguintes teses. Primeira tese: A restituição em dobro do indébito (parágrafo único do artigo 42 do CDC) independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida, revelando-se cabível quando a referida cobrança consubstanciar conduta contrária à boa-fé objetiva. [...] Modulação dos efeitos:
+Modulam-se os efeitos da presente decisão – somente com relação à primeira tese – para que o entendimento aqui fixado quanto à restituição em dobro do indébito seja aplicado apenas a partir da publicação do presente acórdão
+. A modulação incide unicamente em relação às cobranças indevidas em contratos de consumo que não envolvam prestação de serviços públicos pelo Estado ou por concessionárias, as quais apenas serão atingidas pelo novo entendimento quando pagas após a data da publicação do acórdão. (STJ; EDiv-AREsp 676.608/RS; Corte Especial; Rel. Min. Og Fernandes; DJe 30/03/2021). ASSIM, NO CASO ORA EM JULGAMENTO, MOSTRA-SE APLICÁVEL A NOVA ORIENTAÇÃO JURISPRUDENCIAL, QUANTO AOS DESCONTOS EFETUADOS A PARTIR DE MARÇO/2021, CONSIDERANDO A INDUBITÁVEL CONDUTA DO BANCO CONTRÁRIA À BOA-FÉ OBJETIVA. SEM MAIS DELONGAS, ENTENDO POR BEM ACOLHER O PLEITO DA PARTE AUTORA EM SEDE RECURSAL, AINDA QUE PARCIALMENTE, DE MODO A DECLARAR A NULIDADE DO NEGÓCIO JURÍDICO OBJETO DOS AUTOS, BEM COMO CONDENAR A REQUERIDA AO RESSARCIMENTO DOS DANOS DE NATUREZA MATERIAL
+NA SUA FORMA SIMPLES ATÉ MARÇO/2021 E NA FORMA DOBRADA DESTE PERÍODO EM DIANTE,
+E AINDA CONDENAR A REQUERIDA AO PAGAMENTO DA INDENIZAÇÃO POR DANOS EXTRAPATRIMONIAIS, O QUE ARBITRO NA MONTA DE R$ 5.000,00 (CINCO MIL REAIS), VALOR ESTE QUE SE MOSTRA RAZOÁVEL E CONDIZENTE COM OS PRECEDENTES DESTA TURMA.
+(5).
+RECURSO DA AUTORA CONHECIDO E PARCIALMENTE PROVIDO.
+
+(6). SENTENÇA REFORMADA NOS TERMOS SUPRACITADOS. (7).
+SEM CONDENAÇÃO EM CUSTAS E HONORÁRIOS POR FORÇA LEGAL.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
