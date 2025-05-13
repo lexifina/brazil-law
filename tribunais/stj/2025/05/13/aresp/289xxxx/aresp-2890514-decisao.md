@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de Indenização por Danos Morais c/c Pedido de Tutela Antecipada ajuizada por Maria Caroline Bezerra Nunes Cordeiro em face de HAPVIDA ASSISTÊNCIA MÉDICA S/A, visando a cobertura de exame médico imprescindível para diagnóstico preciso de tumor cerebral e reparação por danos morais.
+Sentença: confirmou a tutela deferida para condenar a ré a cobrir o tratamento pedido e condená-la a reparar o autor em R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento ao recurso, mantendo integralmente a sentença combatida, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO DE TUTELA ANTECIPADA - PLANO DE SAÚDE - NEGATIVA DE COBERTURA DE EXAME MÉDICO IMPRESCIDÍVEL A DIAGNÓSTICO PRECISO QUANTO A TUMOR CEREBRAL - RESSONÂNCIA MAGNÉTICA PONDERA EM DIFUSÃO - LEI Nº 14.454/2022 - ROL DA ANS DETERMINA AS COBERTURAS MÍNIMAS - MÉDICO ASSISTENTE POSSUI LEGITIMIDADE PARA INDICAR O TRATAMENTO ADEQUADO, PREENCHIDOS OS REQUISITOS LEGAIS - AFRONTA AO DIREITO À SAÚDE E AO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA - ABUSIVIDADE DA NEGATIVA DE COBERTURA PELA SEGURADORA - DANOS MORAIS CONFIGURADOS - QUANTUM INDENIZATÓRIO MANTIDO NO VALOR DE R$10.000,00 - RECURSO IMPROVIDO - SENTENÇA INALTERADA." (fls. 457-458)
+Decisão de admissibilidade do TJ/PE: inadmitiu o recurso especial em razão da incidência da Súmula 83/STJ a respeito da obrigatoriedade de cobertura de tratamento contra câncer.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz indicou devidamente a ofensa aos artigos 10, 12, 16 e 17-A da Lei nº 9.656/98, além da Lei nº 9.961/2000 e Lei nº 14.454/2022, reiterando a tese de não obrigatoriedade de cobertura não incluído no rol da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do óbice da Súmula 83/STJ, pois não demonstrou que outra era a jurisprudência do STJ a respeito da obrigatoriedade de cobertura de tratamento contra câncer.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 456) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
