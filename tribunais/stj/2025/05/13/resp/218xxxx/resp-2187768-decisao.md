@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA DO ESTADO DE SÃO PAULO com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 117):
+APELAÇÃO - Execução Fiscal - Redirecionamento da execução em face dos sócios, passados mais de cinco anos a contar da citação da empresa - Impossibilidade - Ocorrência da prescrição - Art. 174 do Código Tributário Nacional, com redação anterior à Lei Complementar nº 118/2005 - Sentença de extinção mantida - Recurso desprovido.
+Nas razões do recurso especial (e-STJ, fls. 124-134), a parte recorrente alega que a decisão do Tribunal a quo contrariou o art. 174 do CTN, pois a prescrição foi interrompida pelo despacho do juiz que ordenou a citação.
+Além disso, argumenta que a desconsideração da personalidade jurídica é essencial para a efetividade da execução fiscal e que a responsabilidade dos sócios só surge após esgotadas as tentativas de penhora dos bens da pessoa jurídica.
+Em virtude do julgamento do Tema 444/STJ, os autos foram devolvidos à Turma Julgadora, que refutou o juízo de retratação. Consequentemente, o Presidente da Seção de Direito Público do Tribunal de origem admitiu o recurso especial (e-STJ, fls. 153-154).
+Brevemente relatado, decido.
+A situação dos autos envolve uma execução fiscal proposta pela ora recorrente contra a empresa DIGIPRESS EQUIPAMENTOS PARA ESCRITÓRIOS LTDA.
+Depreende-se dos autos que, após a constatação da dissolução irregular da empresa executada, foi requerido o redirecionamento da execução aos sócios da empresa, tendo sido reconhecido a prescrição para tal pretensão.
+Veja-se, a propósito, o seguinte trecho do acórdão recorrido (e-STJ, fls. 118-119):
+No presente caso, tem-se que a execução fora ajuizada em face de "DIGIPRESS EQUIPAMENTOS PARA ESCRITÓRIOS LTDA." em maio de 2004, tendo a empresa sido citada em novembro de 2004 (fl. 22).
+O pedido de deferimento para a inclusão dos sócios no polo passivo foi reiterado em 08/04/2011 (fl. 68).
+Nesse contexto, tem-se que os sócios da empresa executada, ora apelada, realmente não podem figurar no polo passivo da presente execução fiscal.
+Isso porque, é descabido o redirecionamento da execução depois do transcurso de mais de cinco anos da citação da empresa, tendo se operado a prescrição quinquenal.
+É precisamente este o comando legal que emerge do disposto no art. 174 do Código Tributário Nacional, com redação anterior à Lei Complementar nº 118/05:
+Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
+Parágrafo único. A prescrição se interrompe:
+I - pela citação pessoal feita ao devedor.
+(..)
+Desse modo, in casu, é inequívoca a caracterização da prescrição, motivo pelo qual, entendo correta a r. sentença, que deve ser mantida por próprios fundamentos.
+Como se pode notar, o Tribunal estadual reconheceu a prescrição para o redirecionamento da execução fiscal apenas devido ao transcurso do prazo de 5 (cinco) anos ocorrido entre a citação da pessoa jurídica devedora e o pedido de inclusão dos sócios no polo passivo.
+Sobre essa temática, a Primeira Seção desta Corte Superior firmou entendimento, no julgamento do Tema repetitivo 444, de que, em regra, o prazo prescricional para o redirecionamento da execução fiscal contra os sócios é de 5 (cinco) anos a partir da citação da pessoa jurídica devedora, exceto nos casos de dissolução irregular verificada após a citação da empresa.
+Ademais, foi estabelecido que o reconhecimento da prescrição exige a verificação de inércia da Fazenda Pública exequente quanto à prática de atos concretos visando à satisfação do crédito cobrado.
+Confira-se a tese jurídica desse precedente obrigatório:
+(i) o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do CTN, for precedente a esse ato processual;
+(ii) a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente, uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos no art. 135 do CTN). O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art. 792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude contra a Fazenda Pública); e,
+(iii) em qualquer hipótese, a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública, no lustro que se seguiu à citação da empresa originalmente devedora (REsp 1.222.444/RS) ou ao ato inequívoco mencionado no item anterior (respectivamente, nos casos de dissolução irregular precedente ou superveniente à citação da empresa), cabendo às instâncias ordinárias o exame dos fatos e provas atinentes à demonstração da prática de atos concretos na direção da cobrança do crédito tributário no decurso do prazo prescricional".
+Na hipótese em testilha, contudo, não há elementos suficientes no acórdão recorrido para o julgamento do feito, visto que não demonstra se houve e em que momento ocorreu a dissolução irregular, nem mesmo se a Fazenda Pública promoveu ou não atos concretos na direção da cobrança do crédito tributário no decurso do prazo prescricional.
+Desse modo, imperioso o retorno dos autos à origem para que prossiga no julgamento do feito, complementando o seu julgado quanto à prescrição para o redirecionamento da execução.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que perfaça novo julgamento da apelação, observada a diretriz jurisprudencial contida no recurso repetitivo acima indicada.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO CONTRA OS SÓCIOS. PRESCRIÇÃO BASEADA APENAS NO TRANSCURSO DO PRAZO DE 5 (CINCO) ANOS OCORRIDO ENTRE A CITAÇÃO DA PESSOA JURÍDICA DEVEDORA. TEMA REPETITIVO 444/STJ. NECESSIDADE DE RETORNO DOS AUTOS PARA NOVO JULGAMENTO EM CONFORMIDADE COM O PRECEDENTE OBRIGATÓRIO. RECURSO ESPECIAL PROVIDO.
