@@ -1,0 +1,31 @@
+Decisão: 1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça assim ementado (eDOC 49, grifei):
+
+    PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. CONDENAÇÃO TRANSITADA EM JULGADO HÁ VÁRIOS ANOS. INVIABILIDADE DE REVISÃO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE MATÉRIA JÁ ANALISADA E DECIDIDA POR ESTA CORTE DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta (RHC n. 97.329/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 14/9/2020). 2. A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, de relatoria do Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 25/10/2021). 3. A minorante do tráfico privilegiado foi afastada porque a Corte estadual reconheceu expressamente que o paciente ostenta anterior condenação por tráfico de drogas (fls. 43), cuja pretensão executória foi extinta pela prescrição após o trânsito em julgado, circunstância que deve ser levada em consideração para o afastamento da causa especial de diminuição de pena (e-STJ, fl. 295); nesse contexto, em que o paciente ostentava uma condenação anterior por tráfico de drogas, extinta pela prescrição executória somente após o trânsito em julgado da atual condenação, não havia como descaracterizar sua reincidência, para fazer incidir a causa especial de diminuição de pena do tráfico privilegiado. 4. Isso porque, segundo a jurisprudência consolidada desta Corte, a declaração de extinção da punibilidade pela prescrição da pretensão executória, embora impeça a execução da pena, não afasta os efeitos penais secundários decorrentes da existência de condenação criminal que transitou em julgado, tais como a formação de reincidência e maus antecedentes. É hipótese diferente da prescrição da pretensão punitiva, cujo implemento fulmina a própria ação penal, impendido a formação de título judicial condenatório definitivo, e, por essa razão, não tem o condão de gerar nenhum efeito penal secundário. 5. Desse modo, a declaração de extinção da punibilidade pela prescrição da pretensão executória pressupõe a existência de condenação criminal irrecorrível. A sua declaração afasta apenas a existência do direito estatal de executar a pena constante do título judicial transitado em julgado, mas não os consectários que dele advêm. 6. No caso, como visto, a declaração de extinção da punibilidade teve como fundamento a prescrição da pretensão executória, motivo pelo qual não havia ilegalidade na sua utilização como reincidência, sendo, por conseguinte, vedado o reconhecimento do tráfico privilegiado, por expressa vedação legal. Nesses termos, por se tratar de reiteração já matéria já analisada e decidida por esta Corte de Justiça, julgo prejudicada nova análise dessa insurgência. 7. Agravo regimental não provido.
+
+    Assim como no HC 238708, anteriormente manejado a esta Suprema Corte, em face do mesmo acórdão ora recorrido, o que se busca é o redimensionamento da pena imposta ao recorrente pela prática do crime de tráfico de drogas, sob a assertiva de que, apesar de já transitada em julgado a condenação, inexistente fundamento idôneo para o afastamento do privilégio previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+
+    O Ministério Público Federal, todavia, ofertou parecer pelo não provimento do recurso (eDOC 80).
+
+    É o relatório. Decido.
+
+    2. O recurso ordinário, porém, não comporta conhecimento.
+
+    Isso porque, como relatado, trata-se de mera reiteração do mencionado HC 238708, ao qual fora denegada a ordem vindicada, porque ausente ilegalidade ou teratologia no acórdão hostilizado. O decisum, também de minha lavra, aliás, também já transitou em julgado, em 18.06.2025.
+
+    A orientação jurisprudencial do Supremo Tribunal Federal é pacífica no sentido de que ‘a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus.’ (HC 118.043-AgR, Rel. Min. Celso de Mello) [...]” (HC 142.583 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 17.06.2019). Na mesma linha, apenas à guisa de exemplo:
+
+    “[…] 2. Quanto aos temas relativos ao excesso de prazo e à transcrição integral do conteúdo das conversas telefônicas interceptadas, o recurso ordinário apresenta exatamente o mesmo objeto e as mesmas causas de pedir do HC nº 142.732/SP, motivo pelo que não há razão para seu prosseguimento, visto que se trata de mera reiteração de impetração anterior cujo tema já foi decidido pelo Supremo Tribunal Federal. 3. É firme a jurisprudência da Corte quanto à inadmissibilidade de ‘habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 18/8/15) […]” (RHC 144.517 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 05.09.2018).
+
+    A jurisprudência desta Suprema Corte, inclusive, está sedimentada quanto à compreensão de que (i) “[c]onfigura abuso do direito de recorrer, desvirtuando o postulado constitucional da ampla defesa, a utilização indevida das espécies recursais, consubstanciada na interposição de inúmeros recursos contrários à jurisprudência” (HC 187.041 AgR-ED-ED, Tribunal Pleno, Relator(a) Min. Rosa Weber, julgado em 25.06.2021 a 02.08.2021), bem como de que (ii), em casos como desse jaez, autorizada a certificação do trânsito em julgado, independentemente da publicação do decisum.
+
+    3. Posto isso, nos termos do art. 21, § 1º, do RISTF, nego seguimento ao recurso ordinário em habeas corpus.
+
+    Publique-se e intimem-se.
+
+    Brasília, 14 de maio de 2025.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
