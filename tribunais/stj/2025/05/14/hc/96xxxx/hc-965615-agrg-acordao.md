@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Aplicação do redutor do tráfico privilegiado. REQUISITOS PREENCHIDOS. PATAMAR DE 2/3. QUANTIDADE DE DROGAS UTILIZADA NA PRIMEIRA FASE DA DOSIMETRIA. REGIME INICIAL SEMIABERTO ADEQUADO. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão monocrática que concedeu habeas corpus para aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 2/3, redimensionando a pena para 2 anos e 6 meses de reclusão e 250 dias-multa, a ser cumprida em regime inicial semiaberto.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade de droga apreendida, por si só, é suficiente para afastar a aplicação do redutor do tráfico privilegiado previsto no art. 33, § 4º, da Lei de Drogas.
+3. A questão também envolve a análise da possibilidade de revolvimento fático-probatório na via do habeas corpus para aplicação do redutor.
+III. Razões de decidir
+4. A quantidade de droga apreendida não é, isoladamente, suficiente para afastar a aplicação do redutor do tráfico privilegiado, conforme entendimento consolidado no STJ e STF.
+5. A decisão monocrática considerou que a quantidade de droga já foi utilizada para exasperação da pena-base, permitindo a aplicação do redutor na fração de 2/3.
+6. O habeas corpus foi conhecido e a ordem concedida de ofício, diante da constatação de constrangimento ilegal, sem necessidade de revolvimento fático-probatório.
+IV. Dispositivo e tese
+7. Agravo não provido.
+Tese de julgamento: "1. A quantidade de droga apreendida, por si só, não é suficiente para afastar a aplicação do redutor do tráfico privilegiado. 2. A aplicação do redutor pode ser feita na fração de 2/3 quando a quantidade de droga já foi considerada na pena-base. 3. O habeas corpus pode ser conhecido para concessão de ordem de ofício diante de constrangimento ilegal, sem revolvimento fático-probatório".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; art. 42.
+Jurisprudência relevante citada: STJ, AgRg no HC 696.621/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2021; STJ, AgRg nos EDcl no AgRg no AREsp 1936655/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/12/2021; STF, Tema 712 de repercussão geral.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão monocrática de minha lavra que concedeu a ordem de habeas corpus para reconhecer a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 2/3, redimensionando a reprimenda para 2 (dois) anos e 6 (seis) meses de reclusão e 250 (duzentos e cinquenta) dias-multa, a ser cumprida em regime inicial semiaberto, com base na análise dos requisitos legais e na jurisprudência consolidada acerca do tráfico de drogas na modalidade privilegiada.
+No presente recurso, o agravante sustenta, preliminarmente, que o habeas corpus não deveria ser conhecido, por configurar sucedâneo de recurso próprio.
+No mérito, alega que a decisão impugnada violou os princípios da proporcionalidade e da individualização da pena, ao aplicar a causa de diminuição do § 4º do art. 33 da Lei de Drogas, considerando a quantidade e a natureza das substâncias apreendidas, que, segundo o Ministério Público, evidenciariam a dedicação do paciente às atividades criminosas.
+Afirma, ainda, que a aplicação do redutor depende do revolvimento fático-probatório, o que não é admitido na via estreita do habeas corpus.
+Por fim, argumenta que a fixação do regime inicial aberto ou semiaberto, ou a eventual substituição da pena privativa de liberdade por penas restritivas de direitos, implica proteção jurídica insuficiente, diante da gravidade concreta do delito.
+Diante disso, requer a reconsideração da decisão monocrática ou, alternativamente, o julgamento colegiado do agravo regimental, com o consequente provimento do recurso, nos termos da fundamentação originalmente apresentada.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Aplicação do redutor do tráfico privilegiado. REQUISITOS PREENCHIDOS. PATAMAR DE 2/3. QUANTIDADE DE DROGAS UTILIZADA NA PRIMEIRA FASE DA DOSIMETRIA. REGIME INICIAL SEMIABERTO ADEQUADO. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão monocrática que concedeu habeas corpus para aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 2/3, redimensionando a pena para 2 anos e 6 meses de reclusão e 250 dias-multa, a ser cumprida em regime inicial semiaberto.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade de droga apreendida, por si só, é suficiente para afastar a aplicação do redutor do tráfico privilegiado previsto no art. 33, § 4º, da Lei de Drogas.
+3. A questão também envolve a análise da possibilidade de revolvimento fático-probatório na via do habeas corpus para aplicação do redutor.
+III. Razões de decidir
+4. A quantidade de droga apreendida não é, isoladamente, suficiente para afastar a aplicação do redutor do tráfico privilegiado, conforme entendimento consolidado no STJ e STF.
+5. A decisão monocrática considerou que a quantidade de droga já foi utilizada para exasperação da pena-base, permitindo a aplicação do redutor na fração de 2/3.
+6. O habeas corpus foi conhecido e a ordem concedida de ofício, diante da constatação de constrangimento ilegal, sem necessidade de revolvimento fático-probatório.
+IV. Dispositivo e tese
+7. Agravo não provido.
+Tese de julgamento: "1. A quantidade de droga apreendida, por si só, não é suficiente para afastar a aplicação do redutor do tráfico privilegiado. 2. A aplicação do redutor pode ser feita na fração de 2/3 quando a quantidade de droga já foi considerada na pena-base. 3. O habeas corpus pode ser conhecido para concessão de ordem de ofício diante de constrangimento ilegal, sem revolvimento fático-probatório".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; art. 42.
+Jurisprudência relevante citada: STJ, AgRg no HC 696.621/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2021; STJ, AgRg nos EDcl no AgRg no AREsp 1936655/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/12/2021; STF, Tema 712 de repercussão geral.
+VOTO
+A decisão agravada deve ser mantida pelos seus próprios fundamentos.
+Não obstante os argumentos apresentados pelo agravante, a decisão impugnada está em plena consonância com o entendimento consolidado deste Superior Tribunal de Justiça.
+De fato, tratando-se de habeas corpus impetrado como sucedâneo de recurso próprio, a impetração não deveria ser conhecida - e, de fato, não foi. Todavia, diante das alegações contidas na petição inicial, impôs-se o processamento do feito para aferição da existência de eventual constrangimento ilegal, apto a justificar a concessão da ordem de ofício - o que restou caracterizado.
+A tese deduzida no habeas corpus consistiu na aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com fixação do regime inicial semiaberto e substituição da pena privativa de liberdade por restritivas de direitos, ao argumento de que não haveria provas de envolvimento do paciente com organização criminosa ou reiteração delitiva, sendo a quantidade de droga apreendida insuficiente, por si só, para afastar a incidência do redutor.
+Sobre esse ponto, o Tribunal de origem assim pontuou (fl. 23):
+"Em seguida, o redutor previsto no § 4º do art. 33 da Lei de Drogas foi acertadamente excluído, uma vez comprovada a dedicação do peticionário ao tráfico de drogas, porquanto "quem guarda quase 18 quilos de maconha em tijolos ocupa posição elevada no organograma do tráfico, muito acima do pequeno traficante que, no elo final da cadeia logística da autêntica empresa, porta poucas porções individuais da droga para atendimento dos usuários no varejo.""
+O § 4º do art. 33 da Lei Antidrogas tem a seguinte redação:
+"Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Para o benefício da diminuição da pena, é necessário cumprir, cumulativamente, quatro requisitos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não se dedicar às atividades criminosas; (d) não integrar organização criminosa. Nesse mesmo contexto, na escolha do quantum de redução da pena em razão da incidência do redutor, deve-se levar em consideração também a quantidade e a natureza das substâncias apreendidas, por expressa previsão legal (art. 42 da Lei n. 11.343/2006).
+Os dois pressupostos iniciais são de avaliação estritamente objetiva, basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não tais requisitos. Quanto às duas últimas condições, a análise envolve apreciação subjetiva do magistrado processante, a partir dos elementos de convicção existentes nos autos, para aferir se o apenado se dedicava às atividades criminosas ou integrava organização criminosa.
+Na hipótese dos autos, verificou-se a presença de todos os requisitos exigidos para que seja reconhecido o tráfico de drogas privilegiado. Isto porque não houve qualquer menção, no acórdão impugnado, tampouco nas razões de agravo, sobre elementos concretos acerca da dedicação às atividades criminosas e/ou integrar organização criminosa.
+A jurisprudência desta Corte é firme no sentido de que, para obstar a aplicação do § 4º do art. 33 da Lei de Drogas, a quantidade de droga deve estar associada a outras circunstâncias do caso concreto.
+Como se lê do acórdão impugnado, a causa de diminuição de pena do § 4º do art. 33 da Lei de Drogas não foi aplicada em razão, exclusivamente, da quantidade da droga, que supostamente denotaria sua assídua dedicação às atividades criminosas.
+Sem razão, contudo.
+De proêmio, em análise acurada da matéria, verifica-se que os fundamentos apresentados pelas instâncias ordinárias estão em dissonância com o entendimento atualmente predominante nesta Corte e no Supremo Tribunal Federal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO NA FRAÇÃO DE 1/6. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA QUANTIDADE DE ENTORPECENTE APREENDIDO. PACIENTE PRIMÁRIO E SEM ANTECEDENTES. FUNÇÃO DE "MULA". CIRCUNSTÂNCIA NÃO INDICATIVA, POR SI SÓ, DE QUE O ACUSADO INTEGRA GRUPO CRIMINOSO. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 1/6.
+2. Esta Corte vem se manifestando no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018). 3. Nessa linha, precedentes deste Corte e do Supremo Tribunal Federal firmam a possibilidade de concessão do benefício do tráfico privilegiado, a despeito da apreensão de grande quantidade de droga, quando estiver caracterizada a condição de "mula" do tráfico, como no caso dos autos.
+3. Agravo regimental não provido.
+(AgRg no HC 696.621/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/12/2021.)
+A Terceira Seção do STJ, em sessão realizada em 27/4/2022, no julgamento do HC 725.534/SP, revitalizou seu entendimento pretérito, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 (alternativamente, a critério do magistrado), nesse último caso, ainda que sejam os únicos elementos aferidos, na linha intelectiva dos seguintes precedentes:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. NULIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06 NO PATAMAR MÁXIMO DE 2/3. IMPOSSIBILIDADE. NATUREZA E QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão acerca da ocorrência de cerceamento de defesa, tendo em vista o indeferimento do pedido de sustentação oral pela Defesa do acusado, não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+2. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+3. Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019). Precedentes.
+4. No presente caso, a incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas deve ser mantida no patamar de 1/6, em razão da quantidade e da natureza altamente deletéria do entorpecente apreendido (833,20g de cocaína), o que se mostra proporcional e adequado.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no AgRg no AREsp 1936655/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/12/2021, DJe 16/12/2021.)
+AGRAVO REGIMENTAL. DOSIMETRIA. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PENA-BASE. FIXADA EM 2/5 ACIMA DO MÍNIMO LEGAL. REDUÇÃO PARA 1/6. QUANTIDADE DE DROGAS NÃO EXORBITANTE. ART. 33, § 4º, DA LEI DE DROGAS. APLICAÇÃO. EXISTÊNCIA DE PROCESSOS EM ANDAMENTO. IMPOSSIBILIDADE. VOLUME DE ENTORPECENTES APREENDIDOS. SOPESADOS NA PRIMEIRA FASE DA DOSIMETRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+2. No presente caso, a apreensão de 220g de maconha e 25g de crack justifica a fixação da pena-base acima do mínimo legal, contudo, o patamar aplicado pelas instâncias de origem (2/5) revela-se desproporcional, devendo ser reduzido para 1/6.
+3. No tocante à causa de diminuição do art. 33, § 4º, da Lei de Drogas, recentemente esta Sexta Turma adotou o entendimento esposado pela Suprema Corte de que ações penais em curso não é circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+4. In casu, o Tribunal a quo mencionou a reiteração delitiva do recorrente, contudo, tal fundamento não é idôneo para afastar a benesse. Ademais, o volume de estupefacientes apreendidos foi sopesados na primeira fase da dosimetria.
+5. Dessa forma, a decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+6. Agravo regimental improvido.
+(AgRg no HC 684.988/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 9/11/2021, DJe 12/11/2021.)
+Esse novo enquadramento, por sinal, alinha-se com a tese estipulada em repercussão geral pelo STF, no Tema 712:
+"Possibilidade, em caso de condenação pelo delito de tráfico de drogas, de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, par. 4º., da Lei 11.343/2006.
+Tese:
+As circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena."
+Assim, é legítima a aplicação do redutor na fração de dois terços, uma vez que a quantidad e de droga já foi utilizada como critério para exasperação da pena-base na primeira fase da dosimetria, nos termos do art. 42 da Lei 11.343/2006.
+No caso concreto, a pena fixada foi de 7 anos e 6 meses de reclusão, e 750 dias-multa. Com o reconhecimento da minorante na fração de 2/3, a pena foi redimensionada para 2 anos e 6 meses de reclusão e 250 dias-multa.
+Por fim, a decisão agravada fixou o regime semiaberto e afastou a substituição da pena privativa de liberdade por penas restritivas de direitos, com base na quantidade de entorpecente apreendido, já considerada na pena-base. Dessa forma, não subsiste a alegação de que haveria proteção jurídica insuficiente.
+Ante o exposto, voto pelo desprovimento do agravo regimental, mantendo-se a decisão impugnada por seus próprios fundamentos.
