@@ -1,0 +1,14 @@
+Solução de Consulta Disit/SRRF04 nº 4017, de 12 de maio de 2025
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+NÃO CUMULATIVIDADE. MODALIDADE DE CREDITAMENTO PELA AQUISIÇÃO DE INSUMOS. APURAÇÃO DE CRÉDITOS BÁSICOS. PRODUTOS SUJEITOS A TRIBUTAÇÃO CONCENTRADA (MONOFÁSICA). PERCENTUAL APLICÁVEL.
+O produtor de álcool (etanol), inclusive para fins carburantes, sujeito ao regime de incidência não cumulativa da Cofins, pode apurar e descontar créditos relativos aos valores das aquisições de bens submetidos a tributação concentrada (monofásica) e utilizados como insumo na sua produção, nos termos e condições do Parecer Normativo Cosit/RFB n° 5, de 2018, e dos arts. 175 a 178 da Instrução Normativa RFB n° 2.121, de 2022, mediante a aplicação do percentual geral de 7,6% (sete inteiros e seis décimos por cento), sendo-lhe, porém, vedado, na apuração dos referidos créditos, utilizar a alíquota concentrada que incidiu em determinada etapa da cadeia produtiva ou de comercialização de tais insumos, por ausência de previsão legal específica neste sentido.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO de Consulta Cosit n° 16, de 4 de março de 2024.
+Dispositivos legais: Lei n° 9.718, de 1998, art. 5°, §§ 13, 14 e 16; Lei n° 10.833, de 2003, art. 2°, § 1°-A, e art. 3°, inciso I, alínea «b»; Parecer Normativo Cosit/RFB n° 5, de 2018; Instrução Normativa RFB n° 2.121, de 2022, arts. 175 usque 178.
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. MODALIDADE DE CREDITAMENTO PELA AQUISIÇÃO DE INSUMOS. APURAÇÃO DE CRÉDITOS BÁSICOS. PRODUTOS SUJEITOS A TRIBUTAÇÃO CONCENTRADA (MONOFÁSICA). PERCENTUAL APLICÁVEL.
+O produtor de álcool (etanol), inclusive para fins carburantes, sujeito ao regime de incidência não cumulativa da Contribuição para o PIS/Pasep, pode apurar e descontar créditos relativos aos valores das aquisições de bens submetidos a tributação concentrada (monofásica) e utilizados como insumo na sua produção, nos termos e condições do Parecer Normativo Cosit/RFB n° 5, de 2018, e dos arts. 175 a 178 da Instrução Normativa RFB n° 2.121, de 2022, mediante a aplicação do percentual geral de 1,65% (um inteiro e sessenta e cinco centésimos por cento), sendo-lhe, porém, vedado, na apuração dos referidos créditos, utilizar a alíquota concentrada que incidiu em determinada etapa da cadeia produtiva ou de comercialização de tais insumos, por ausência de previsão legal específica neste sentido.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO de Consulta Cosit n° 16, de 4 de março de 2024.
+Dispositivos legais: Lei n° 9.718, de 1998, art. 5°, §§ 13, 14 e 16; Lei n° 10.637, de 2002, art. 2°, § 1°-A, e art. 3°, inciso I, alínea «b»; Parecer Normativo Cosit/RFB n° 5, de 2018; Instrução Normativa RFB n° 2.121, de 2022, arts. 175 usque 178.
+[arquivo anexo: SC SRRF04-Disit nº 4.017-2025.pdf]
+FLÁVIO OSÓRIO DE BARROS
+Chefe
