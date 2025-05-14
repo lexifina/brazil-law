@@ -1,0 +1,15 @@
+DECISÃO
+THALLES GUILHERME NOBRE DE CARVALHO LIMA, denunciado pela suposta prática do delito de tráfico de drogas, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no HC n. 5017525-90.2025.8.24.0000.
+Busca a defesa seja determinada a remessa dos autos ao Órgão Superior do Ministério Público para reexame da aplicação do ANPP.
+Afirma a defesa que, após o julgamento do habeas corpus na origem, a ação penal foi sentenciada, havendo sido o acusado condenado a 4 anos de reclusão, em regime aberto, mais multa, como incurso no art. 33, § 4º, da Lei de Drogas.
+Não se descura ser o habeas corpus ação constitucional de natureza mandamental a fim de, precipuamente, afastar eventual ameaça ao direito de ir e vir, motivo pelo qual a compreensão desta Corte de Justiça é a da inviabilidade do seu manejo para tutelar direito que não seja o de locomoção.
+Contudo, na espécie, a sentença condenatória não foi trazida aos autos, o inviabilizando a análise do pleito. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+Além disso, o novo título judicial não foi objeto de análise pelo Tribunal estadual no acórdão apontado como ato coator, circunstância que, portanto, impede a apreciação do pedido no âmbito deste Tribunal Superior, sob pena de atuar em indevida supressão de instância.
+Nessa perspectiva:
+ ..  Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa própria dos Tribunais, ao identificarem ilegalidade flagrante em casos nos quais a respectiva competência foi inaugurada. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade  ..  (AgRg no HC n. 810.313/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/6/2023).
+ ..  2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido (HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016).
+À vista do exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
