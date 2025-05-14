@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO. LEI LOCAL. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de embargos à execução fiscal em que o executado alega ausência de fato gerador e inexigibilidade da cobrança referente ao Imposto sobre a Propriedade de Veículos Automotores (IPVA) dos exercícios 2015, 2016, 2017 e 2018. Na sentença o pedido foi julgado improcedente. No Tribunal de origem, a sentença foi mantida. No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de embargos à execução fiscal em que o executado alega ausência de fato gerador e inexigibilidade da cobrança referente ao Imposto sobre a Propriedade de Veículos Automotores (IPVA) dos exercícios 2015, 2016, 2017 e 2018. Na sentença o pedido foi julgado improcedente. No Tribunal de origem, a sentença foi mantida.
+No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+a) Inicialmente, em face da decisão recorrida mencionar que incabível o REsp por ofensa a lei local, necessário o agravante negar que haja alegado ofensa à lei local. Quem alegou isso foi o exequente. A alegação do executado é que houve ofensa à Lei do CPC e à Lei do CTN (por falta de tempo, citando artigos relacionados com a isenção).
+b) na seqüência, em verdade, o que se depreende da fundamentação da decisão do agravo no REsp é que não conhecido o REsp face o eminente julgador ter entendido que a reforma da decisão recorrida implica no reexame de provas.
+Porém, constatado pelo próprio relator na decisão ora fustigada que o Tribunal de origem não decidiu a matéria em conformidade com a jurisprudência do STJ. Não incidindo, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Documento eletrônico.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO. LEI LOCAL. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de embargos à execução fiscal em que o executado alega ausência de fato gerador e inexigibilidade da cobrança referente ao Imposto sobre a Propriedade de Veículos Automotores (IPVA) dos exercícios 2015, 2016, 2017 e 2018. Na sentença o pedido foi julgado improcedente. No Tribunal de origem, a sentença foi mantida. No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos:
+Eminentes Colegas, a discussão diz respeito à isenção do IPVA das competências de 2015, 2016, 2017 e 2018, relativas ao veículo de placas IWM1250, uma vez que arguida a perda total do veículo, em decorrência de "o veículo encontrar-se desfalcado do motor, vez que totalmente desmontado pela concessionária para análise e diagnóstico da causa do travamento do motor desde 2014", como aduz o próprio embargante (evento 1, INIC1).
+Quanto à alegação do direito à isenção, na forma do art. 4º, §§1º e 2º da Lei Estadual nº 8.115/85, entendo irrepreensível a decisão recorrida.
+Ocorre que, no caso, o contribuinte não fez qualquer prova a respeito das hipóteses de isenção de pagamento do IPVA do veículo em debate.
+Explico.
+Ainda que o recorrente, de forma rasa na instrução dos presentes embargos, demonstre que de fato o veículo de placas IWM1250 sofreu e possui danos causados no motor, que o impossibilitam de usufruir do bem móvel, o mesmo não logrou êxito em comprovar minimamente que o automóvel não tivesse condições de ser consertado, permitindo, assim, o restabelecimento de suas condições de rodagem. Tampouco há nos autos, quaisquer comprovações acerca das demais hipóteses de isenção do tributo em cobrança (perda total do veículo por furto, roubo ou sinistro).
+Das provas que instruem os embargos à execução em mesa, depreende-se que o recorrente não se desincumbiu de seu ônus probatório (art. 373, I, do CPC), posto que se restringiu a colacionar pequenos trechos do Laudo Técnico Pericial acerca dos problemas mecânicos do automóvel debate no decorrer do petitório dos embargos.
+Assim, resta cristalino que a parte não se desincumbiu de seu ônus, na forma do art. 373, I, do CPC.
+Verifica-se, assim, que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Ademais, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
