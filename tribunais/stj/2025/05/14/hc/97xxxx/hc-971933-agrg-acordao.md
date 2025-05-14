@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar. Denúncia especificada. FUNDADA SUSPEITA. AUTORIZAÇÃO DO MORADOR. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do Habeas Corpus e não vislumbrou excepcionalidade para concessão da ordem de ofício diante da não constatação de nulidade de violação de domicílio.
+2. O acórdão estadual confirmou que a abordagem foi motivada por informações sobre venda de televisores de procedência ilícita e pelo comportamento suspeito do denunciado, que usava tornozeleira eletrônica, bem como pela autorização do morador.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve ilegalidade no ingresso domiciliar realizado pela polícia, com base em denúncia especificada e comportamento suspeito do denunciado e autorização do morador
+4. A defesa alega divergências nos depoimentos dos policiais e ausência de investigações preliminares que justificassem o ingresso no domicílio, além de imprecisões nos relatos.
+III. Razões de decidir
+5. A decisão agravada foi mantida por entender que a denúncia especificada, com detalhes precisos sobre o local e comportamento suspeito do denunciado, além da autorização do morador, justificou o ingresso domiciliar.
+6. A alteração do que ficou consignado nas instâncias ordinárias demandaria o reexame de prova, incompatível com a via estreita do habeas corpus.
+7. Não foram apresentados argumentos suficientes para desconstituir a decisão agravada, que não constatou flagrante ilegalidade na incursão policial.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "1. A denúncia especificada, com detalhes precisos, juntamente com o comportamento suspeito do agente, aliado à autorização do morador, legitima o ingresso no domicílio. 2. A alteração do que ficou consignado nas instâncias ordinárias demanda o reexame de prova, incompatível com a via estreita do habeas corpus."
+RELATÓRIO
+Trata-se de agravo regimental interposto por IVONE PEREIRA DE OLIVEIRA contra decisão singular por mim proferida, a fls. 1958/1965, que não conheceu do Habeas Corpus, tampouco vislumbrou excepcionalidade para a concessão da ordem de ofício, diante da não constatação da nulidade de violação de domicílio e da não visualização de desproporcionalidade da pena restritiva de direito de prestação pecuniária fixada na origem, cuja reanálise da situação econômica dependeria de revolvimento do conjunto fático-probatório.
+A Defesa sustenta que a integralidade da fundamentação exposta no writ evidencia a presença de divergências significativas em pontos cruciais sobre a confiabilidade dos depoimentos dos policiais que foram tomados como base para o reconhecimento da legalidade da ação policial. Ressalta que, na fase extrajudicial, a equipe afirmou que a abordagem ocorreu na porta da residência motivada pelo grande nervosismo esboçado por Bruno e na circunstância de estar usando tornozeleira eletrônica, enquanto que, em juízo, nenhum dos policiais mencionou que Bruno usava tornozeleira eletrônica, a constituir lacuna na veracidade da justifica para sua abordagem, assim como a "resenha" dentro da casa mencionada pelo policial Frederico contrariaria a narrativa de que o referido estaria na porta da residência quando foi abordado, ou seja, não prestadas especificações da atitude suspeita que teria justificado a abordagem. Assinala que, quando no apartamento do agravante Ivone, o réu Marcos Paulo relatou que os policiais bateram na porta e imediatamente entraram perguntando pelo agravante. Aduz a inexistência de investigações preliminares que justificassem o ingresso no apartamento do agravante, dando enfoque para imprecisão dos relatos ao ter o policial Átila se referido à presença de uma mulher, quando, na realidade, o agravante Ivone trata-se de um homem.
+Requer que, acaso não reconsiderada a decisão, a submissão do mérito ao colegiado para que, conhecido e provido o agravo regimental, seja concedida a ordem para que seja reconhecida a nulidade das provas obtidas em violação de domicílio, bem como as delas havidas por derivação, absolvendo-se o agravante nos termos do art. 386, II, do CPP.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar. Denúncia especificada. FUNDADA SUSPEITA. AUTORIZAÇÃO DO MORADOR. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do Habeas Corpus e não vislumbrou excepcionalidade para concessão da ordem de ofício diante da não constatação de nulidade de violação de domicílio.
+2. O acórdão estadual confirmou que a abordagem foi motivada por informações sobre venda de televisores de procedência ilícita e pelo comportamento suspeito do denunciado, que usava tornozeleira eletrônica, bem como pela autorização do morador.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve ilegalidade no ingresso domiciliar realizado pela polícia, com base em denúncia especificada e comportamento suspeito do denunciado e autorização do morador
+4. A defesa alega divergências nos depoimentos dos policiais e ausência de investigações preliminares que justificassem o ingresso no domicílio, além de imprecisões nos relatos.
+III. Razões de decidir
+5. A decisão agravada foi mantida por entender que a denúncia especificada, com detalhes precisos sobre o local e comportamento suspeito do denunciado, além da autorização do morador, justificou o ingresso domiciliar.
+6. A alteração do que ficou consignado nas instâncias ordinárias demandaria o reexame de prova, incompatível com a via estreita do habeas corpus.
+7. Não foram apresentados argumentos suficientes para desconstituir a decisão agravada, que não constatou flagrante ilegalidade na incursão policial.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "1. A denúncia especificada, com detalhes precisos, juntamente com o comportamento suspeito do agente, aliado à autorização do morador, legitima o ingresso no domicílio. 2. A alteração do que ficou consignado nas instâncias ordinárias demanda o reexame de prova, incompatível com a via estreita do habeas corpus."
+VOTO
+Não reconsiderada a decisão, submeto o recurso ao julgamento desta Quinta Turma.
+A decisão agravada deve ser mantida por seus próprios fundamentos, ao entender, no ponto específico objeto de insurgência, a não verificação de mácula atribuída à atuação policial no ingresso domiciliar.
+A compor o quadro examinado naquela oportunidade, vale ter em atenção que a denúncia narrou a abordagem de Bruno nos seguintes termos (fl. 136):
+" ..
+Segundo apurado, na noite de 04 de abril de 2020, policiais militares do Batalhão de Choque realizavam patrulhamento de rotina pela cidade, quando receberam, via Disque Denúncia, informação acerca da existência de uma carga roubada de televisões, que estaria em uma residência situada na Avenida Laudelino de Almeida, qd. 9, lt. 2, casa 01, Setor Criméia Oeste.
+Visando checar a veracidade desta informação, por volta das 21:20h, os policiais se dirigiram até o local, onde avistaram o denunciado BRUNO HENRIQUE parado em frente e notaram que ele havia ficado bastante desconfortável com a presença da viatura, aparentando nervosismo. Além disso, ele também usava uma tornozeleira eletrônica.
+Desconfiados daquela atitude, foi feita então sua abordagem, momento em que ele afirmou que morava na casa situada no indigitado endereço  .. "
+Quanto ao ponto, o Tribunal de origem destacou que:
+"3. Teses de nulidade por violação domiciliar, de absolvição por insuficiência probatória e de desclassificação para receptação simples ou culposa
+A sentença atacada (mov. 386) fundamentou a condenação nos seguintes moldes:
+"No que tange aos pedidos de declaração de nulidade do feito, sob o argumento deque houve violações de domicílios por parte da polícia, vislumbra-se que não procedem."
+"Inexistem, nos autos, quaisquer elementos que atestem as violações alegadas, pois, a instrução processual, ratificando os elementos indiciários, demonstrou que a prisão dos acusados ocorreu em decorrência de abordagem realizada ao acusado Bruno Henrique após atitude suspeita do referido acusado e confirmação por parte dele de que tinha algumas televisões e posterior indicação do acusado João José como sendo o vendedor, situação que deflagrou a apreensão de outros televisores e abordagem aos demais acusados."
+"A instrução processual revelou que os próprios réus autorizaram a entrada das equipes policiais em suas residências e indicaram os locais em que as televisões estavam ocultadas, ratificando a informação inicial repassada pelo acusado Bruno Henrique."
+"Por outro lado, a conduta de ocultar, em proveito próprio, no exercício de atividade comercial, coisa que deve saber ser produto de crime, imputada aos acusados, é modalidade de crime permanente e admite a prisão em flagrante sem a necessidade de autorização judicial para tanto, especialmente porque enquanto o agente ocultar a coisa, permanece em flagrante delito, situação que admite prisão em flagrante, conforme artigo 303, do Código de Processo Penal, (..).""
+No caso em apreço, como os acusados se encontravam em situação de flagrante, vez que estavam cometendo a infração penal capitulada na Denúncia, a situação admitia a prisão em flagrante, não somente pela Polícia Militar, mas por qualquer pessoa, nos termos do artigo 301, do Código de Processo Penal, (..)."
+"Inobstante, os policiais, em seu múnus público, gozam da presunção de legalidade, legitimidade e veracidade de seus atos, conferida pelo ordenamento jurídico, materializada na fé pública, ao passo que, referida presunção somente é afastada quando apresentadas provas robustas da suposta violação, de maneira que, até que se prove o contrário, seus atos presumem-se verdadeiros."
+"A relativização da fé pública pressupõe a existência de prova em contrário, seja testemunhal ou material, o que não é o caso dos autos, sobretudo ante a manifesta ausência de provas no sentido de demonstrar as alegadas violações aventadas pelas Defesas. Ademais, é inconteste que as versões apresentadas pelos policiais se coadunam com os elementos indiciários constantes no Inquérito Policial, de forma que ratificam a legalidade das prisões e das apreensões."
+"Portanto, não acolho as preliminares aventadas pela Defesa.
+ .. .
+Pois bem. Como se infere dos elementos colhidos na fase investigativa e no contraditório judicial, os policiais militares abordaram o apelante Bruno, pois além de possuírem informações de que no local de sua residência estavam sendo vendidas televisores, ciente de sua procedência ilícita, ele apresentou nervosismo ao avistar a viatura policial, sobretudo por ele utilizar tornozeleira eletrônica. Na sequência, ele autorizou a entrada dos policiais na residência, afirmando ter adquiridos os televisores de João José, tendo os policiais se dirigido à residência dele, onde foram apreendidos mais televisores de origem ilícita. Ainda, Bruno admitiu ter vendido televisores para Ivone, com quem foi apreendido 6 dos objetos ilícitos." (fls. 177/182)
+Também constou no acórdão impugnado "(e) Bruno afirmou ser revendedor de roupas, e havia sido preso por roubo majorado e estava de tornozeleira eletrônica quando foi abordado pelos policiais, em decorrência destes fatos" (fl. 183).
+O art. 5º, inciso XI, da Constituição Federal assegura a inviolabilidade do domicílio. No entanto, consoante disposição expressa do dispositivo constitucional, tal garantia não é absoluta, admitindo relativização em caso de flagrante delito.
+Acerca da interpretação que deve ser conferida à norma que excepciona a inviolabilidade do domicílio, o Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, assentou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+No mesmo sentido, esta Corte Superior possui o entendimento de que as hipóteses de validação da violação domiciliar devem ser restritivamente interpretadas, mostrando-se necessário para legitimar o ingresso de agentes estatais em casa alheia a demonstração, de modo inequívoco, do consentimento livre do morador ou de que havia fundadas suspeitas da ocorrência do delito no interior do imóvel.
+A interpretação jurisprudencial relativa à aferição da presença de justa causa (fundadas razões) que legitime a mitigação do direito fundamental em questão, ainda que com viés restritivo, admite que a suposição acerca da ocorrência de crime no interior da residência esteja amparada em contexto fático anterior ao ingresso domiciliar, que indique a situação de ilicitude necessária à concretização da diligência (HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021).
+Na hipótese dos autos, conforme consignado pelas instâncias ordinárias, o ingresso no domicílio decorreu da existência de investigação prévia, após denúncia especificada sobre a prática delitiva no endereço indicado.
+Isso veio somado ao encontro de Bruno, logo dela à frente, e com comportamento suspeito que mais ainda chamou atenção pelo uso da tornozeleira eletrônica, quem apontou tanto de quem comprou os televisores, como a quem também fez a venda e, segundo a sentença, Bruno indicou "o endereço de João José, ao passo que não é crível presumir que João José seria indicado por Bruno aleatoriamente" (fl. 1584), raciocínio também aplicável ao agravante, em cujo interrogatório degravado na sentença e no acórdão nada se anotou da existência de contrariedade à entrada policial, ao contrário, "afirmou que o fato é verdadeiro" (fl. 1583).
+Destaca-se, ainda, que, conforme consta do acórdão impugnado, a entrada no domicílio foi autorizada pelo morador.
+Do contexto apresentado, portanto, não reluz a alegada mácula atribuída à atuação policial.
+Ademais, para se poder chegar às pretensões apresentadas pelo impetrante, seria imprescindível a reanálise do acervo fático-probatório, providência esta incabível na via estreita do habeas corpus.
+Nesse sentido:
+" ..
+5. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante.
+ .. "
+(AgRg no HC n. 937.078/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+" ..
+III - O habeas corpus é ação autônoma de impugnação, de natureza constitucional, voltada à tutela da liberdade de locomoção, contra ilegalidade ou abuso de poder, cujos limites cognitivos estreitos não admitem dilação probatória, somente se permitindo a análise de provas pré-constituídas que demonstrem, de maneira inequívoca, o alegado constrangimento ilegal.
+ .. "
+(AgRg no RHC n. 179.686/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024)
+Portanto, não foram apresentados argumentos suficientes no recurso para desconstituir a decisão agravada, que não constatou flagrante ilegalidade na incursão policial.
+Nesses termos, voto no sentido de conhecer e negar provimento ao presente agravo regimental.
