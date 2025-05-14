@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO A SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ARTIGO 966 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A Universidade Federal da Paraíba, às fls. 1972-1978, informa a ocorrência de fato novo superveniente capaz de influenciar no julgamento do recurso especial, qual seja, a afetação do Tema 1.311/STJ, coincidente com o mérito recursal.
+É o relatório. Decido.
+A suspensão do feito é medida necessária.
+Na hipótese dos autos, verifica-se que a questão jurídica objeto do recurso especial interposto pela Universidade Federal da Paraíba diz respeito ao Tema 1.311/STJ, que versa sobre o seguinte ponto: "saber se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença".
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos ou repercussão geral, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, a solução no recurso afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e seguintes do CPC/2015.
+Nesse contexto, assiste razão à embargante quanto à necessidade do sobrestamento do presente feito até final julgamento do Tema 1.311/STJ.
+Com efeito, somente após realizado o juízo de conformação, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Enfatize-se, por oportuno, que em razão da devolução dos autos à origem, eventual pedido de atribuição de efeito suspensivo ao recurso deve ser formulado ao presidente ou vice-presidente do tribunal local.
+Assim, em conformidade com a decisão de afetação, acolhem-se os embargos de declaração e determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, e em observância aos artigos 1.030 e 1.040 do CPC/2015: a) seja negado seguimento ao recurso especial, caso o acórdão recorrido esteja em conformidade com o entendimento do STJ; ou b) sejam os autos encaminhados ao órgão julgador para a realização do juízo de retratação, caso o acórdão recorrido divirja do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
