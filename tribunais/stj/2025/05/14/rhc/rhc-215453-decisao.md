@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LUIZ MIGUEL CANDIDO SILVA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do Habeas Corpus n. 1.0000.25.083196-3/000.
+Consta dos autos que o recorrente foi preso em flagrante no dia 28/2/2025, sob a acusação de tráfico de drogas. A prisão foi convertida em preventiva. Foram apreendidos 74 g de crack e 68,4 g de maconha (fls. 239/240).
+A parte recorrente sustenta que a decisão de primeira instância não está adequadamente fundamentada, sendo genérica e abstrata, termos em que pede, inclusive liminarmente, o provimento do recurso.
+É o relatório.
+No caso, o Magistrado singular, ao converter a prisão em flagrante em preventiva, consignou o que segue (fls. 204/205 - grifo nosso):
+Em acréscimo, as circunstâncias do fato também impõem a conversão da prisão em flagrante em preventiva, tendo em vista a diversidade e natureza das drogas apreendidas - e também os robustos indícios de mercancia frequente, conforme narrado pela Polícia Militar como também as demais drogas que foram encontradas.
+ ..
+Destaco nesta oportunidade, os constantes REDS nº: 2019- 004194267-001; 2020- 046818580-001; 2020-039438024-001; 2020- 039205482-001 E 2023- 006218695-001 onde demonstra a extensa ficha policial do flagranteado envolvendo o crime de tráfico de drogas.
+O Tribunal de Justiça manteve a segregação mediante a seguinte fundamentação (fl. 240):
+ ..  não se pode olvidar a quantidade, a variedade e a natureza de parte da droga apreendida (de alto poder destrutivo), além de objetos comumente utilizados na mercancia ilícita, na residência do paciente, em cumprimento a mandado de busca e apreensão, expedido após o recebimento de denúncias, e o suposto envolvimento de menor na prática do delito, a revelar a gravidade concreta dos crimes e a periculosidade - sem contar que o tráfico de entorpecentes é fomentador de diversos outros delitos e que a mera distribuição de drogas já macula a paz social.
+Há de se levar em conta, ainda, que Luiz Miguel já tinha outros registros por tráfico de drogas, lesão corporal e ameaça (fls. 204/215 do doc. único) - a evidenciar recalcitrância, que deve ser combatida pela preventiva.
+Como é cediço, na esteira de incontáveis precedentes desta Corte, a prisão cautelar é invariavelmente excepcional, subordinando-se à demonstração de sua criteriosa imprescindibilidade, à luz dos fatos concretos da causa, e não em relação à percepção do julgador a respeito da gravidade abstrata do tipo penal. Desse modo, o possível cometimento do delito, só por si, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de qualquer condenação definitiva (HC n. 359.375/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/10/2016).
+No caso em questão, o recorrente possui registros criminais, o que justifica certa cautela em relação à ordem pública, mas não é suficiente para a decretação da prisão preventiva, especialmente em razão da pequena quantidade de drogas apreendidas (74 g de crack e 68,4 g de maconha).
+Com efeito, a prisão preventiva é espécie do gênero de medidas cautelares e, como toda restrição a direitos fundamentais, deve observar o princípio da proporcionalidade. Portanto, a cautelar de máxima restrição terá lugar apenas diante da insuficiência das outras cautelares menos gravosas (HC n. 695.259/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/2/2022).
+Ante o exposto, dou provimento ao recurso em habeas corpus para cassar o acórdão impugnado e substituir a prisão preventiva imposta ao recorrente por medidas cautelares, a s erem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. POSSIBILIDADE DE SUBSTITUIÇÃO. FIXAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. PRECEDENTES.
+Recurso provido.
