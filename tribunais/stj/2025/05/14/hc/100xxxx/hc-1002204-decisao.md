@@ -1,0 +1,18 @@
+DECISÃO
+BRUNO BEZERRA FERREIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução n. 0002667-74.2025.8.26.0521,.
+A defesa busca o restabelecimento da decisão que deferiu a progressão prisional ao paciente, independentemente da realização de exame criminológico.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, o paciente praticou os crimes de tráfico privilegiado e tráfico ilícito de entorpecentes antes da inovação legislativa - 28/6/2016 e 28/7/2021, respectivamente. A Lei de Execução Penal trata da individualização da pena na fase do cumprimento da sentença e leis penais mais gravosas não podem ser aplicadas retroativamente.
+O paciente cumpre pena privativa de liberdade de 8 anos e 4 meses de reclusão, atualmente em regime semiaberto, cujo término de cumprimento está previsto para 28/3/2029.
+Formulado pedido de progressão ao regime aberto, o Juízo da execução concedeu o benefício. Entretanto, este foi cassado pelo Tribunal estadual, que determinou a realização de exame criminológico para aferir a presença do requisito subjetivo, considerando a nova redação do art. 112, § 1º, da LEP e que "o reeducando é reincidente e cometeu delito equiparado a hediondo (tráfico ilícito de entorpecentes), sem deslembrar do tráfico privilegiado, fatos esses, por si sós, ensejadores da necessidade de mais acurada análise de seu mérito,  ..  além de possuir longa pena por cumprir" (fls. 84-85).
+Verifico que é de rigor a concessão da ordem.
+Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+A instância a quo determinou a realização de exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que se limitou a tecer considerações a respeito da gravidade dos delitos pelos quais o reeducando cumpre reprimenda privativa de liberdade. Esse dado é inerente ao tipo penal e interessa à escolha da pena proporcional e adequada à gravidade do crime.
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, concedo a ordem de habeas corpus, in limine, para cassar a determinação de exame criminológico, estabelecer a irretroatividade do art. 112, § 1º, da LEP ao caso concreto e, em consequência, restabelecer a decisão de origem, que concedeu ao paciente a progressão ao regime aberto.
+Comunique-se, com urgência, às instâncias de origem.
+Publique-se e intimem-se.
+EMENTA
