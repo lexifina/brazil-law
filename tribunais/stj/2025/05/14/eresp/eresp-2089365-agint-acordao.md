@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DESAPROPRIAÇÃO. INDENIZAÇÃO. ACÓRDÃO EMBARGADO. NÃO CONHECIMENTO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FUNDAMENTAÇÃO DA INADMISSIBILIDADE. DISCUSSÃO. VIA INADEQUADA. ART. 1.043, INCISO III, PARTE FINAL, DO CPC. INAPLICABILIDADE. MÉRITO NÃO DEBATIDO. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado não se pronunciou sobre o mérito da questão suscitada nos embargos de divergência, em razão do óbice da Súmula n. 284 do STF, o que inviabiliza o conhecimento dos embargos, consoante a Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+2. Não cabe, na via dos embargos de divergência, que não se presta à reanálise dos requisitos de admissibilidade do recurso especial, discutir o teor da fundamentação utilizada, no acórdão embargado, no ponto em que não conheceu do do recurso especial, pela incidência da Súmula n. 284 do STF.
+3. É inviável a aplicação da regra da parte final do art. 1.043, inciso III, do CPC, quando o acórdão embargado, além de não ter conhecido da insurgência, não se pronunciou sobre a questão de mérito apontada como controvertida.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SANTO ANTÔNIO ENERGIA S.A., contra a decisão de minha lavra por meio da qual não se conheceu dos embargos de divergência, nos termos da seguinte ementa (fl. 1660):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. INDENIZAÇÃO. COBERTURA VEGETAL. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. ACÓRDÃO EMBARGADO QUE, NO PONTO, APLICOU A SÚMULA N. 284 DO STF. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. SÚMULA N. 315 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS.
+Alega a parte embargante, em síntese, que o acórdão embargado enfrentou o mérito da questão controvertida, mas "entendeu que haveria um distinguishing no caso e, por isso, não conheceu o recurso especial no ponto, o que equivale a ter conhecido a inexistência à norma em questão. Portanto, o não conhecimento do recurso especial não elimina o fato de que o mérito da questão foi enfrentado" (fl. 1667).
+Prossegue (fls. 1669-1670):
+Em que pese afirmar não estar conhecendo o recurso, colhe-se dos trechos retro negritados que o acórdão afirmou que a exploração financeira de espécies nativas pela parte recorrente, em virtude da cota de alagamento, seria circunstância apta a afastar a aplicabilidade e violação ao art. 12, § 2º da Lei 8.629/93, eis que a norma não teria "comando suficiente para alterar a mencionada conclusão".
+Portanto, isso se refere exatamente ao mérito da controvérsia recursal atinente ao indevido cálculo em separado da cobertura florística e aplicabilidade do art. 12, § 2º da Lei 8629/93.
+O acórdão embargado apegou-se a uma circunstância futura e posterior ao ato expropriatório (supressão da vegetação pelo ente expropriante na área de alague) para afirmar que o art. 12, § 2º da Lei 8629/93 não possuiria conteúdo normativo suficiente para o caso concreto, aplicando, assim, a Súmula 284/STF.
+Sustenta, ainda, que nos termos do art. 1.043, inciso III, do CPC, é embargável o acórdão de órgão fracionário que "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia" (fl. 1672). Por essas razões, diz ser inaplicável a Súmula n. 315 do STJ.
+Pede a reconsideração da decisão agravada ou a submissão do agravo interno ao Colegiado.
+Impugnação às fls. 1678-1681.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DESAPROPRIAÇÃO. INDENIZAÇÃO. ACÓRDÃO EMBARGADO. NÃO CONHECIMENTO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FUNDAMENTAÇÃO DA INADMISSIBILIDADE. DISCUSSÃO. VIA INADEQUADA. ART. 1.043, INCISO III, PARTE FINAL, DO CPC. INAPLICABILIDADE. MÉRITO NÃO DEBATIDO. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado não se pronunciou sobre o mérito da questão suscitada nos embargos de divergência, em razão do óbice da Súmula n. 284 do STF, o que inviabiliza o conhecimento dos embargos, consoante a Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+2. Não cabe, na via dos embargos de divergência, que não se presta à reanálise dos requisitos de admissibilidade do recurso especial, discutir o teor da fundamentação utilizada, no acórdão embargado, no ponto em que não conheceu do do recurso especial, pela incidência da Súmula n. 284 do STF.
+3. É inviável a aplicação da regra da parte final do art. 1.043, inciso III, do CPC, quando o acórdão embargado, além de não ter conhecido da insurgência, não se pronunciou sobre a questão de mérito apontada como controvertida.
+4. Agravo interno desprovido.
+VOTO
+Disse o acórdão embargado em relação à tese acerca da qual foram opostos os presentes embargos de divergência (fls. 1540-
+ ..  no que concerne à alegada afronta ao art. 12, § 2º, da Lei n. 8.629/1993, assinalo que o tribunal a quo consignou o seguinte (fls. 1.045/1.046e):
+Contudo, em que pese o posicionamento do STJ, coaduno com o entendimento de que sendo necessária a supressão vegetal, em razão da cota de alagamento decorrente de instalação de usina hidrelétrica, a indenização ao proprietário do bem expropriado é devida.
+Nessa perspectiva, o Supremo Tribunal Federal já consolidou entendimento de que a cobertura vegetal possui valor econômico e, portanto, deve ser indenizada pelo expropriante, mesmo que esteja em área sujeita à preservação permanente ou reserva legal, como se demostrará mais adiante.
+Ainda que o proprietário não explorasse economicamente a área no momento da expropriação, é certo que o poderia fazer a qualquer tempo em razão do seu direito de propriedade, observada, obviamente, a legislação florestal.
+Assim sendo, tendo a área que ser obrigatoriamente suprimida no momento da expropriação, nasce, nesse momento, o direito do proprietário de comercializar a cobertura florística existente na sua propriedade.
+Entender diversamente disso, no sentido de que o valor comercializado pela supressão vegetal no momento da expropriação é devido à expropriante, ensejaria o enriquecimento sem causa dessa em detrimento daquele, o que não se justifica.
+Ora, não há porque beneficiar a expropriante em detrimento do proprietário da área.
+Dessa forma, ainda que se alegue que a propriedade estava em área de proteção permanente ou que deveria ser descontado o percentual previsto em lei de reserva legal, importante salientar que o entendimento do STF há muito tempo é no sentido de que mesmo nestes casos a indenização seria possível.
+Deveras, a exploração financeira de espécies nativas pela parte recorrente tem o condão de diferenciar o acórdão recorrido dos paradigmas colacionados no Recurso Especial, pois é de conhecimento público o alto valor agregado nessas matérias-primas florestais.
+Indubitavelmente, existe distinguishing entre o teor dos aludidos paradigmas e o pleito da Recorrente a justificar, no ponto, a improcedência da sua irresignação, porquanto ausente comando suficiente no dispositivo para alterar a mencionada conclusão.
+Nessa esteira, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia", consoante entendimento esposado nas seguintes ementas:
+ ..
+De fato, é incontroverso nos autos a viabilidade econômica do imóvel expropriado em decorrência da denominada cota de alagamento, fato esse que, segundo penso, não pode simplesmente ser desconsiderado, sob pena de malferimento da norma constitucional relacionada à justa indenização aplicável às desapropriações.
+Como se vê, o acórdão embargado não se pronunciou sobre o mérito da questão suscitada nos embargos de divergência, em razão do óbice da Súmula n. 284 do STF, o que inviabiliza o conhecimento dos embargos, consoante a Súmula n. 315 do STJ: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Outrossim, a via dos embargos de divergência não se presta à reanálise dos requisitos de admissibilidade do recurso especial, a discutir o teor da fundamentação utilizada, no acórdão embargado, no ponto em que não conheceu do do recurso especial, pela incidência da Súmula n. 284 do STF. A propósito:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO 182 DA SÚMULA DO STJ. APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. SÚMULA 315/STJ.
+1. Não cabe, em embargos de divergência, reexaminar regra técnica de admissibilidade do recurso especial, nos termos da Súmula 315/STJ.
+2. Agravo interno a que se nega provimento. (EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.772.759/PR, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 27/11/2024, DJEN de 3/12/2024.)
+Ademais, é inviável a aplicação da regra da parte final do art. 1.043, inciso III, do CPC, quando o acórdão embargado, além de não ter conhecido da insurgência, não se pronunciou sobre a questão de mérito apontada como controvertida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
