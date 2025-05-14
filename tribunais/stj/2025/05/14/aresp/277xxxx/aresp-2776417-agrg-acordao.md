@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). PEDIDO FORMULADO PERANTE O STJ. AUSÊNCIA DE TRÂNSITO EM JULGADO. ANÁLISE COMPETENTE PELO MINISTÉRIO PÚBLICO OFICIANTE NA INSTÂNCIA EM QUE TRAMITA O PROCESSO. PRECEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme entendimento firmado pelo Supremo Tribunal Federal no HC 185.913/DF, nas hipóteses de aplicabilidade do acordo de não persecução penal (CPP, art. 28-A) a casos em andamento, a análise quanto à viabilidade da proposta deve ser feita pelo órgão ministerial oficiante na instância e no estágio em que estiver o processo.
+2. No caso, o pedido foi formulado pela Defesa diretamente perante o Superior Tribunal de Justiça, no curso do julgamento, não tendo ocorrido o trânsito em julgado do acórdão proferido em sede de agravo regimental no agravo em recurso especial.
+3. Nesse contexto, mostra-se acertada a decisão agravada que determinou a remessa dos autos ao Ministério Público Federal, para análise quanto ao preenchimento dos requisitos legais do art. 28-A do Código de Processo Penal.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que, em juízo de reconsideração, deu provimento ao agravo do Parquet estadual e determinou a remessa dos autos ao Órgão Ministerial Federal para se manifestar sobre a viabilidade de celebração de acordo de não persecução penal (ANPP), nos termos do art. 28-A do Código de Processo Penal.
+O feito tem origem em ação penal ajuizada contra RAFAEL TEIXEIRA BARBOSA, denunciado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, por fatos ocorridos em 17 de novembro de 2022, consistentes no transporte de aproximadamente 14,85 kg de maconha e 1,03 kg de crack, sem autorização legal ou regulamentar.
+A sentença condenou o réu à pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa. Em grau de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo, mantendo a condenação, mas reconhecendo a incidência da causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas. A pena foi redimensionada para 1 ano e 8 meses de reclusão, em regime aberto, substituída por duas restritivas de direitos, além de 180 dias-multa, no valor mínimo legal.
+O Ministério Público Estadual interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, arguindo ofensa ao art. 33, § 4º, da Lei n. 11.343/2006. O recurso foi inadmitido, ensejando a interposição de agravo em recurso especial.
+Conhecido o agravo para negar provimento ao recurso especial (e-STJ fls. 339/344) foi interposto agravo regimental, igualmente desprovido pela 5ª Turma, que manteve a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas (e-STJ fls. 361/366).
+A Defesa, então, apresentou petição requerendo a remessa dos autos ao Ministério Público Estadual para manifestação sobre eventual proposta de ANPP (e-STJ fls. 371/373). Inicialmente deferido o pedido, sobreveio agravo regimental do Parquet Estadual requerendo que a deliberação fosse efetivada pelo Ministério Público Federal.
+O agravo foi provido, em juízo de reconsideração (e-STJ fls. 11/12 do Expediente Avulso 1).
+No presente agravo regimental, o Ministério Público Federal alega que já foi encerrada a jurisdição desta Corte, de modo que os autos deveriam ser remetidos à 1ª instância, "onde a questão do cabimento ou não do ANPP sequer ainda foi debatida" (e-STJ fl. 26).
+Requer, assim, a remessa dos autos ao Juízo de 1º Grau, para que intime o Parquet lá atuante para apreciar a possibilidade de oferecimento do acordo de não persecução penal.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). PEDIDO FORMULADO PERANTE O STJ. AUSÊNCIA DE TRÂNSITO EM JULGADO. ANÁLISE COMPETENTE PELO MINISTÉRIO PÚBLICO OFICIANTE NA INSTÂNCIA EM QUE TRAMITA O PROCESSO. PRECEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme entendimento firmado pelo Supremo Tribunal Federal no HC 185.913/DF, nas hipóteses de aplicabilidade do acordo de não persecução penal (CPP, art. 28-A) a casos em andamento, a análise quanto à viabilidade da proposta deve ser feita pelo órgão ministerial oficiante na instância e no estágio em que estiver o processo.
+2. No caso, o pedido foi formulado pela Defesa diretamente perante o Superior Tribunal de Justiça, no curso do julgamento, não tendo ocorrido o trânsito em julgado do acórdão proferido em sede de agravo regimental no agravo em recurso especial.
+3. Nesse contexto, mostra-se acertada a decisão agravada que determinou a remessa dos autos ao Ministério Público Federal, para análise quanto ao preenchimento dos requisitos legais do art. 28-A do Código de Processo Penal.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhimento.
+Conforme relatado, o pedido de remessa dos autos ao Ministério Público para fins de manifestação sobre eventual proposta de acordo de não persecução penal (ANPP) foi formulado pela Defesa diretamente nesta instância superior, quando o processo ainda se encontrava em curso, não tendo ocorrido o trânsito em julgado do acórdão que julgou o agravo regimental no agravo em recurso especial.
+Nesse contexto, a deliberação sobre o cabimento do ANPP deve observar a orientação firmada pelo Supremo Tribunal Federal no julgamento do HC 185.913/DF, segundo a qual a viabilidade do oferecimento do acordo deverá ser avaliada pelo órgão ministerial oficiante na instância e no estágio em que estiver o processo, consoante se extrai do item 8 da ementa do referido julgado:
+EMENTA: DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS . ANPP - ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP, INSERIDO PELA LEI 13964/2019). APLICAÇÃO DA LEI NO TEMPO E NATUREZA DA NORMA. NORMA PROCESSUAL DE CONTEÚDO MATERIAL. NATUREZA HÍBRIDA . RETROATIVIDADE E POSSIBILIDADE DE APLICAÇÃO AOS CASOS PENAIS EM CURSO QUANDO DA ENTRADA EM VIGOR DA LEI 13964/2019 (23.1.2020). CONCESSÃO DA ORDEM.
+ .. .
+8. Nas hipóteses de aplicabilidade do ANPP (CPP, art. 28-A) a casos já em andamento no momento da entrada em vigor da Lei 13.964/2019, a viabilidade do oferecimento do acordo deverá ser avaliada pelo órgão ministerial oficiante na instância e no estágio em que estiver o processo. Se eventualmente celebrado o ANPP, será competente para acompanhar o seu fiel cumprimento o juízo da execução penal e, em caso de descumprimento, devem ser aproveitados todos os atos processuais anteriormente praticados, retomando-se o curso processual no estágio em que o feito se encontrava no momento da propositura do ANPP.
+Na hipótese dos autos, é certo que o feito permanece sob a jurisdição do Superior Tribunal de Justiça, motivo pelo qual se mostra adequada a determinação de remessa dos autos ao Ministério Público Federal, que atua nesta instância, para análise quanto ao preenchimento dos requisitos legais previstos no art. 28-A do Código de Processo Penal.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É como voto.
