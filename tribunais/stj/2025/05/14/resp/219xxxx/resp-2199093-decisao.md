@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERGA REPRESENTAÇÕES LTDA., fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. DESCABIMENTO. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA QUE NÃO PODE SER OPOSTA À FAZENDA PÚBLICA. MATÉRIA PACIFICADA PELO STJ POR MEIO DO RESP Nº 1.110.551/SP, JULGADO PELO REGIME DOS RECURSOS REPETITIVOS. INDISPONIBILIDADE DE BENS. CABIMENTO. ARTIGO 185-A, DO CTN.
+NOS TERMOS DO ARTIGO 34, DO CTN, TANTO O PROPRIETÁRIO, O TITULAR OU O POSSUIDOR DO IMÓVEL RESPONDEM PELOS SEUS DÉBITOS. QUALQUER DELES, DE FORMA ALTERNATIVA, PODE, PORTANTO, SER PARTE LEGÍTIMA DA EXECUÇÃO FISCAL. APLICAÇÃO DO RESP Nº 1.110.551/SP, JULGADO SOB O REGIME DOS RECURSOS REPETITIVOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+NO CASO, A PARTE RECORRENTE ALEGA QUE NÃO É MAIS PROPRIETÁRIA DOS IMÓVEIS TRIBUTADOS, OS QUAIS FORAM VENDIDOS PARA DUAS EMPRESAS QUE FICARIAM RESPONSÁVEIS PELA URBANIZAÇÃO E LOTEAMENTO, SENDO QUE AS OUTORGAS DAS ESCRITURAS SOMENTE NÃO OCORREU EM RAZÃO DA FALÊNCIA DAS EMPRESAS.
+OCORRE QUE AS CONVENÇÕES PARTICULARES RELATIVAS À RESPONSABILIDADE PELO PAGAMENTO DE TRIBUTOS NÃO PODEM SER OPOSTAS À FAZENDA PÚBLICA PARA MODIFICAR A DEFINIÇÃO LEGAL DO SUJEITO PASSIVO DAS OBRIGAÇÕES TRIBUTÁRIAS, CONFORME DISPÕE O ART. 123 DO CTN. NÃO OBSTANTE, A PARTE RECORRENTE CONSTA COMO PROPRIETÁRIA REGISTRAL DOS IMÓVEIS TRIBUTADOS.
+PARA QUE SEJA DECLARADA A INDISPONIBILIDADE DE BENS E DIREITO DO EXECUTADO É NECESSÁRIO QUE ELE NÃO TENHA PAGO A DÍVIDA NEM TENHA OFERECIDO BENS À PENHORA, E QUE NENHUM BEM TENHA SIDO ENCONTRADO PARA TAL FIM, TAL COMO OCORRE NOS AUTOS.
+NÃO HÁ FALAR EM EXCESSO DE EXECUÇÃO, TENDO EM VISTA QUE O DESPACHO RECORRIDO DEIXA CLARO QUE A INDISPONIBILIDADE DE BENS E DIREITOS DO DEVEDOR DEVE SER LIMITADA AO VALOR DA EXECUÇÃO, OU SEJA, ESTÁ EM CONFORMIDADE COM O PARÁGRAFO 1º DO ARTIGO 185-A, DO CTN.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO..
+Os embargos de declaração foram rejeitados.
+Nas suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, I, II, III e § 2º, e 1.022, II e parágrafo único do CPC, e do art. 185-A do CTN, assim como divergência jurisprudencial com o precedente que julgou o Tema 714 do STJ.
+Sustenta, em resumo: (i) o acórdão recorrido padece de nulidade, pois não sanada omissão suscitada nos embargos de declaração; (ii) na espécie, é incabível a medida de indisponibilidade de bens, visto que houve indicação de imóvel à penhora cujo valor supera o crédito executado.
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Inicialmente, no que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência; (ii) incorrer a decisão judicial em qualquer das condutas descritas no art. 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, o recurso especial se origina de agravo de instrumento manejado pela recorrente contra a decisão do juízo de execução fiscal que decretou a medida de indisponibilidade de bens.
+O TJRS negou provimento ao recurso. No que aqui interessa, eis a motivação consignada no acórdão recorrido:
+A parte recorrente alega que não é mais proprietária dos imóveis tributados, os quais foram vendidos para duas empresas que ficariam responsáveis pela urbanização e loteamento, sendo que as outorgas das escrituras somente não ocorreu em razão da falência das empresas, apresentando instrumento particular de promessa de compra e venda.
+ ..
+Melhor sorte não socorre ao postular o afastamento da indisponibilidade sobre o imóvel.
+A indisponibilidade de bens está regulamentada no art. 185-A do CTN, nos seguintes termos:
+ ..
+A jurisprudência desta Corte tem se posicionado no sentido de ser possível a determinação de indisponibilidade de bens e direitos, conforme previsto no art. 185-A do CTN, quando demonstrado o esgotamento das tentativas de penhora de bens.
+ ..
+Assim, para que seja declarada a indisponibilidade de bens e direito do executado é necessário que ele não tenha pago a dívida nem tenha oferecido bens à penhora, e que nenhum bem tenha sido encontrado para tal fim, tal como ocorre nos autos.
+Ocorre que a empresa recorrente, alegando a existência de omissão, opôs embargos de declaração com o escopo de obter a manifestação da Corte estadual acerca da alegação de que houve indicação de imóvel de sua propriedade, à penhora, em valor superior ao crédito cobrado, o que impediria a decretação da medida de indisponibilidade. Aduz que a declaração que fez, de não mais ser proprietária/possuidora, diz respeito a outros bens atingidos pela medida de indisponibilidade.
+Entretanto, no julgamento desses aclaratórios, nada mais foi acrescentado, limitando-se o Órgão julgador a reiterar a fundamentação do acórdão então embargado.
+Pois bem.
+Do que se observa, a omissão suscitada nos embargos de declaração se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, haja vista que a alegada existência de oferta à penhora de bem cujo valor é superior ao crédito executado mostra-se relevante para a integral solução da controvérsia, motivo pelo qual deve ser efetivamente enfrentada pelo Tribunal de origem.
+Como se sabe, a medida de indisponibilidade pressupõe a não localização de bens do devedor. Essa, inclusive, é a inteligência do precedente vinculante formado no julgamento do Tema 714 do STJ, em que firmada a seguinte tese:
+A indisponibilidade de bens e direitos autorizada pelo art. 185-A do CTN depende da observância dos seguintes requisitos: (i) citação do devedor tributário; (ii) inexistência de pagamento ou apresentação de bens à penhora no prazo legal; e (iii) a não localização de bens penhoráveis após esgotamento das diligências realizadas pela Fazenda, caracterizado quando houver nos autos (a) pedido de acionamento do Bacen Jud e consequente determinação pelo magistrado e (b) a expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou Estadual de Trânsito - DENATRAN ou DETRAN.
+(Grifos acrescidos)
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo TJRS, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com fundamento no art. 34, XXV, e 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão regional que julgou os embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie esses aclaratórios e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
+EMENTA
