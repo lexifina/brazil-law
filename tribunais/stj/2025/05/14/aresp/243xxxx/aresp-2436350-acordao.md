@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do recurso.
+Os Srs. Ministros Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+3. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por RONALDO DA SILVA ALVES em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 1592):
+PROCESSO PENAL. Denúncia por corrupção de testemunha. Artigo 343 do CP. Conduta de oferecer dinheiro para indivíduo negar ou calar a verdade em depoimento a ser prestado em procedimentos investigatórios. Imputação fundada em prova documental e pericial. Gravação ambiental efetuada pela própria testemunha a quem foi dirigida a proposta supostamente efetuada por um dos agentes. Áudio juntado pelo MP. Constatação da autenticidade por parecer técnico elaborado pelo próprio CAEX, grupo de apoio técnico vinculado ao órgão ministerial. Necessidade de degravação do diálogo e confirmação da lisura do áudio por perito oficial. Inteligência do artigo 159 do CPP. Manifesta violação do devido processo legal. Anulação do feito a partir das alegações finais, inclusive, para garantir a regular produção da prova pericial. Faculdade das partes oferecerem quesitos suplementares. Preliminar acolhida para esse fim.
+Nas razões do recurso especial (e-STJ fls. 1591/1598), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente "contrariedade, bem como a aplicação defeituosa dos dispositivos concernentes ao dolo penal, ao erro de tipo, bem como à disciplina processual da presunção de inocência, que são objetos do presente recurso, máxime o que dispõe o art. 4º, parágrafos 7º, 12 e §14, todos da Lei n. 12.850/2013; art. 3º, art. 564, inciso I, art. 386, inciso III, VII, ambos do Código de Processo Penal; arts. 13, 18, inciso I, 29, caput e §1º, 44, 59, 68, 71, todos do Código Penal; art. 937, inciso I, do Código de Processo Civil; art. 7º, inciso XII, da Lei n. 8.906/1994, e art. 8º, 2, "c" e "d" da Convenção Americana (e-STJ fls. 1605/1606).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+3. Agravo não conhecido.
+VOTO
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula n. 7 do STJ (e-STJ, fls. 1737)
+Não obstante, nas razões do agravo (e-STJ fls. 1746/1760), a parte agravante não apresentou impugnação específica ao referido fundamento , limitando-se a tecer considerações genéricas sobre a não incidência do referido enunciado e a reiterar as razões do recurso especial.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "a mera alusão no agravo em recurso especial acerca da impertinência dos pressupostos de aplicação de verbete sumular constante na decisão agravada não satisfaz o requisito da dialeticidade, pois nesse caso há mera reprodução da conclusão defendida, com o uso de argumentação evidentemente circular, redundando em tautologia" (AgInt no AREsp n. 2.185.448/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Assim, "Em obediência ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demanda reex ame de provas e corrobora a orientação jurisprudencial desta Corte, não bastando para tanto a insurgência genérica à incidência das Súmula n. 7 e n. 83 do STJ" (AgRg no AREsp n. 2.022.553/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+É o voto.
+RELATÓRIO
+Trata-se de agravo interposto por MITUO TAKAHASI em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 1592):
+PROCESSO PENAL. Denúncia por corrupção de testemunha. Artigo 343 do CP. Conduta de oferecer dinheiro para indivíduo negar ou calar a verdade em depoimento a ser prestado em procedimentos investigatórios. Imputação fundada em prova documental e pericial. Gravação ambiental efetuada pela própria testemunha a quem foi dirigida a proposta supostamente efetuada por um dos agentes. Áudio juntado pelo MP. Constatação da autenticidade por parecer técnico elaborado pelo próprio CAEX, grupo de apoio técnico vinculado ao órgão ministerial. Necessidade de degravação do diálogo e confirmação da lisura do áudio por perito oficial. Inteligência do artigo 159 do CPP. Manifesta violação do devido processo legal. Anulação do feito a partir das alegações finais, inclusive, para garantir a regular produção da prova pericial. Faculdade das partes oferecerem quesitos suplementares. Preliminar acolhida para esse fim.
+Nas razões do recurso especial (e-STJ fls. 1634/1644), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 157, caput, do CPP, ao argumento de que "o parecer técnico de fls. 1399/1420 constitui prova ilícita por ter sido produzido unilateralmente" (e-STJ fl. 1643).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+3. Agravo não conhecido.
+VOTO
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula n. 7 do STJ (e-STJ fls. 1741)
+Não obstante, nas razões do agravo (e-STJ fls. 1778/1782 ), a parte agravante não apresentou impugnação específica ao referido fundamento , limitando-se a tecer considerações genéricas sobre a não incidência do referido enunciado e a reiterar as razões do recurso especial.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "a mera alusão no agravo em recurso especial acerca da impertinência dos pressupostos de aplicação de verbete sumular constante na decisão agravada não satisfaz o requisito da dialeticidade, pois nesse caso há mera reprodução da conclusão defendida, com o uso de argumentação evidentemente circular, redundando em tautologia" (AgInt no AREsp n. 2.185.448/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Assim, "Em obediência ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demanda reexame de provas e corrobora a orientação jurisprudencial desta Corte, não bastando para tanto a insurgência genérica à incidência das Súmula n. 7 e n. 83 do STJ" (AgRg no AREsp n. 2.022.553/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+É o voto.
