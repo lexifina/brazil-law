@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARLENE DE JESUS GOMES e OUTROS contra decisão que inadmitiu recurso especial com fundamento na impossibilidade de matéria constitucional - a ensejar a interposição de recurso especial -, na ausência de demonstração da alegada violação dos dispositivos tidos por violados, na incidência da Súmula n. 7 do STJ e na inexistência de comprovação do dissídio jurisprudencial.
+Alega a parte agravante que a matéria debatida no apelo extraordinário foi devidamente prequestionada e que o recurso não foi oferecido com base no desrespeito à norma constitucional, mas sim por se tratar de discussão de competência absoluta a desrespeito da garantia constitucional do Juiz natural.
+Afirmam que o dissídio jurisprudencial, a respeito da interpretação do art. 47, § 2º, do CPC, foi devidamente demonstrado mediante o cotejo analítico entre os acórdãos tidos por divergentes
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na impossibilidade de matéria constitucional - a ensejar a interposição de recurso especial -, na ausência de demonstração da alegada violação dos dispositivos tidos por violados, na incidência da Súmula n. 7 do STJ e na inexistência de comprovação do dissídio jurisprudencial (fls. 878-880).
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente o fundamento relativo à incidência da Súmula n. 7 do STJ, limitando-se a defender a existência de prequestionamento e a comprovação da divergência jurisprudencial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
