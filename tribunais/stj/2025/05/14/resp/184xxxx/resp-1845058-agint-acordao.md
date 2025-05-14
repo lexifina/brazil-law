@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  RECURSO  ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DNIT. RODOVIA FEDERAL. ACIDENTE AUTOMOBILÍSTICO. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, POR DEMONSTRADA A OMISSÃO NO DEVER DE FISCALIZAÇÃO. AUSÊNCIA DE SINALIZAÇÃO NOTURNA . REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem, a partir da análise das provas trazidas aos autos, consignou estar demonstrada responsabilidade do DNIT, por negligência na fiscalização da execução de obra de duplicação de rodovia federal, c oncluindo que "a omissão do DNIT se deu ao não ser diligente com a fiscalização de sinalização noturna".
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT contra  a  decisão  que  não conheceu do recurso  especial,  pela aplicação das Súmulas 7 do STJ; e 283 do STF (fls. 1.209-1.211).
+Os embargos de declaração foram rejeitados (fls. 1.237-1.239).
+Aponta  a  parte agravante,  em  síntese,  a não incidência da Súmula 7 do STJ, pois, em conformidade com o art. 70 da Lei 8.666/1993, a responsabilidade do DNIT  no caso de dano decorrente de obra pública a cargo de construtora particular  seria subsidiária.
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  RECURSO  ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DNIT. RODOVIA FEDERAL. ACIDENTE AUTOMOBILÍSTICO. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, POR DEMONSTRADA A OMISSÃO NO DEVER DE FISCALIZAÇÃO. AUSÊNCIA DE SINALIZAÇÃO NOTURNA . REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem, a partir da análise das provas trazidas aos autos, consignou estar demonstrada responsabilidade do DNIT, por negligência na fiscalização da execução de obra de duplicação de rodovia federal, c oncluindo que "a omissão do DNIT se deu ao não ser diligente com a fiscalização de sinalização noturna".
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar.
+Com efeito, a Corte de origem asseverou a presença dos pressupostos para a responsabilização solidária  consubstanciada na verificação de que "omissão do DNIT se deu ao não ser diligente com a fiscalização de sinalização noturna, e, da ré TRIUNFO, pela omissão no cuidado em evitar perigos que advêm de uma obra numa rodovia federal, sobretudo à noite" (fl. 914).
+Ademais, ficou consignado que:
+No caso, o DNIT firmou com a Construtora Triunfo S/A, em 2-12- 2004, o contrato TT-195/2004-00, tendo como objeto a execução, em regime de empreitada e no prazo de 30 dias, de obras de restauração e duplicação na rodovia BR-101/SC, entre os quilômetros 329,90 e 358,50 (evento 1, CONTR3). O contrato foi firmado em observância à Lei 8.666/93 e prescrevia expressamente que ao DNIT cabia fiscalizar a execução dos trabalhos diretamente ou por empresa contratada (fl. 915 - grifo nosso).
+Com efeito, "a jurisprudência do STJ está consolidada no sentido de que, no caso de ação indenizatória por danos decorrentes de acidente de trânsito ocorrido em rodovia federal, tanto a União quanto o DNIT possuem legitimidade para figurar no polo passivo da demanda" (AREsp n. 1.706.772/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/10/2020).
+Desse modo, consideradas as peculiaridades do caso, a alteração da conclusão do acórdão recorrido, no sentido de que estaria demonstrada a responsabilidade por omissão do DNIT no dever de fiscalização de obra em rodovia federal, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INCIDÊNCIA DOS ENUNCIADOS N. 37, 283 E 284 DA SÚMULA DO STJ. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I - Em análise ao acórdão recorrido, o qual reconheceu a legitimidade do DNIT e a ilegitimidade da União Federal para figurarem no polo passivo da ação originária - que tem por objeto a reparação de danos em decorrência de acidente em rodovia federal, em razão da presença de animal na pista - constata-se que, com relação a última, o referido decisum encontra-se em confronto com a jurisprudência do STJ, A jurisprudência desta Corte está consolidada no sentido de que, "no caso de ação indenizatória por danos decorrentes de acidente de trânsito ocorrido em rodovia federal, tanto a União quanto o DNIT possuem legitimidade para figurar no polo passivo da demanda". Nesse sentido: AgInt no REsp 1627869/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017; REsp 1625384/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017.
+ ..
+IV - Em relação à alegação de violação do artigo 373, inciso I, do CPC/2015, o Tribunal a quo assentou-se no acervo probatório dos autos para entender pela existência de nexo de causalidade e consequente configuração da responsabilidade civil, senão vejamos (fl. 341):" Resta demonstrada, portanto, a omissão estatal, ficando estabelecido o nexo causal entre a conduta omissiva do Estado e o prejuízo material causado ao apelado, responde o apelante pela reparação dos prejuízos materiais daí decorrentes. Presente o nexo etiológico, passo a verificar a presença do requisito dano. Como cediço, o dano representa a lesão de qualquer bem jurídico, incluindo-se nesse conceito o dano moral e o dano material. A reparação dos danos morais e materiais sofridos encontra guarida no art. 5º, V e X, da Carta Magna em vigor, possibilitando-se a acumulação de indenizações por tais danos oriundas do mesmo fato, a teor do enunciado da Súmula 37 do STJ.
+V - A omissão do DNIT está caracterizada pela ausência de sinalização que alertasse os condutores acerca da possibilidade da travessia de animais na pista, bem como em face da ausência de iluminação na estrada, consoante se constata pelo exame das fotografias acostadas aos autos. O nexo causal está patente, pois em face da negligência da Recorrente, ocorreu o sinistro e o consequente dano.
+VI - Dessa forma, para se concluir de modo diverso do acórdão recorrido, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice do enunciado n. 7 da Súmula do STJ.
+ ..
+IX - Agravo interno improvido (AgInt no REsp n. 1.718.201/PE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/8/2018).
+PROCESSUAL CIVIL. CIVIL. LEGITIMIDADE PASSIVA. NEXO CAUSAL. CONDUTA OMISSIVA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. ANIMAIS EM RODOVIAS. MANUTENÇÃO DAS RODOVIAS. RETIRADA DE SEMOVENTES. RESPONSABILIDADE SOLIDÁRIA DO DNIT E DA POLÍCIA RODOVIÁRIA FEDERAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. O Tribunal de origem reconheceu que há provas que determinam a existência do nexo de causalidade entre o evento danoso e a responsabilidade das partes recorrentes, justificando a solidariedade no polo passivo e o valor da indenização (fls. 396-402/e-STJ e 612-621/e-STJ).
+4. Dessarte, o acolhimento da pretensão recursal demanda, in casu, o reexame do contexto fático-probatório, mormente das provas relativas às condições da rodovia, à presença de animal na pista, e do quantum devido a título de reparação do dano, o que atrai o óbice da Súmula 7/STJ.
+5. Recursos Especiais não conhecidos (REsp n. 1.648.561/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2017).
+Isso posto, nego provimento ao re curso.
