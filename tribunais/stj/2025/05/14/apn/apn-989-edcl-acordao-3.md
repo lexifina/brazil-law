@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Impedidos os Srs. Ministros João Otávio de Noronha, Benedito Gonçalves e Sebastião Reis Júnior.
+Ausentes, justificadamente, os Srs. Ministros Luis Felipe Salomão, Mauro Campbell Marques e Maria Isabel Gallotti.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AÇÃO PENAL. ART. 619 DO CPP. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+I. Hipótese em exame
+1. Embargos de declaração opostos por acusado contra acórdão que julgou parcialmente procedente ação penal originária.
+II. Questão em discussão
+2. O recorrente aponta omissão, contradição e erro material, pugnando pela concessão de efeitos infringentes ao julgado e pelo prequestionamento de dispositivos constitucionais.
+III. Razões de decidir
+3. As imputações delitivas e as teses defensivas foram exaustivamente analisadas pelos Ministros que integram a Corte Especial, revelando-se descabida a pretensão de reabrir o julgamento sob a alegação de suposta existência de omissões e contradições no aresto condenatório.
+4. O Juiz não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+5. A ocorrência de um dos vícios previstos no art. 619 do CPP é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de matéria constitucional não possibilita a sua oposição.
+6. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+IV. Dispositivo
+7. Embargos de declaração rejeitados.
+Jurisprudência citada: EDcl na APn 954/DF, Corte Especial, julgado em 17/11/2021, DJe de 19/11/2021; EDcl no AgRg no AgRg nos EAREsp n. 2.459.709/MG, Terceira Seção, julgado em 11/9/2024, DJe de 13/9/2024; EDcl no AgRg no CC n. 146.343/RJ, Terceira Seção, julgado em 9/2/2022, DJe de 11/2/2022; EDcl no AgInt nos EAREsp n. 1.366.994/GO, Corte Especial, julgado em 21/9/2021, DJe de 15/12/2021; EDcl no AgRg na APn n. 945/DF, Corte Especial, julgado em 8/6/2021, DJe de 10/6/2021; STF - ARE 1.271.602 AgR, Tribunal Pleno, julgado em 15/12/2020, DJe 18/01/2021; ARE 805.243 AgR, Primeira Turma, julgado em 21/10/2014, DJe 11/11/2014.
+RELATÓRIO
+Examinam-se embargos de declaração opostos por MARCOS PINTO DA CRUZ contra acórdão e-STJ fl. 10.680/10.687, no qual o embargante aponta, em síntese (e-STJ fl. 11.330/11.450):
+a) omissão, aduzindo que o aresto embargado não examinou a questão em torno da inviolabilidade de sigilo entre o embargante e seu advogado e não prequestionou dispositivos constitucionais suscitados pelo ora recorrente;
+b) que medida de busca e apreensão foi autorizada com base, exclusivamente, em declaração do colaborador;
+c) que não havia representante da OAB durante o cumprimento de diligência realizada na residência da advogada Eduarda Pinto da Cruz;
+d) que o mandado expedido para fins de cumprimento da citada busca e apreensão foi emitido de forma genérica, sem individualizar conduta supostamente praticada pela irmã do embargante;
+e) que o referido mandado deu azo à implementação de fishing expedition, levando-se a termo apreensão de documentos relacionados a terceiros, fato que violaria o art. 5º, X, da CF/88;
+f) que medida de busca e apreensão foi efetivada mesmo após o oferecimento de denúncia nos autos, fato que violaria o art. 5º X e XI, da CF/88;
+g) que a defesa não teve acesso à íntegra dos dados colhidos nos autos dos PBAC"s 34 e 39, fato que violaria os arts. 5º, LIV, LV e 93, IX, da CF/88;
+h) em observância ao princípio da obrigatoriedade da ação penal pública, o MPF deveria ter denunciado os membros do MPT que apresentaram parecer favorável no âmbito dos PEPT"s, sob pena de ofensa ao art. 129, I, da CF/88;
+i) que o elevado número de imputações, denunciados e de documentação carreada aos autos caracteriza megaprocesso e abuso do direito de acusar, fato que pode violar o art. 5º, LIV e LV da CF/88;
+j) que a defesa arguiu tese em torno da violação da cadeia de custódia, da necessidade de oitiva do MPF acerca deste ponto e que o pedido de perícia formulado teria sido negado, dados que implicariam em ofensa ao art. 5º, LVII, da CF/88;
+k) que o indeferimento de diligências solicitadas pelo ora embargante acarreta ofensa ao art. 5º, LIV e LV, da CF/88;
+l) que houve cerceamento de defesa, em virtude da ausência de intimação do embargante para julgamento de agravos regimentais;
+m) que a ausência de expedição de carta rogatória para oitiva de testemunhas de defesa implica em violação do art. 5º, LIV e LV, da CF/88;
+No mérito, o embargante alega, em relação ao crime de corrupção ativa, que não há provas de que o recorrente praticou o citado delito e aduz que o aresto recorrido não examinou os argumentos deduzidos pelo acusado, fato que ofende os arts. 93, IX, 5º, LIV, LVII, XXXV, XXXIX, da CF/88 e os arts. 8.2 e 9 do Decreto nº 678/92 (Pacto San José da Costa Rica).
+No tocante ao crime de corrupção passiva, o embargante alega que não há descrição de condutas específicas praticadas pelo embargante, que justifiquem a acusação, e que processamento dos PEPT"s seguiu estritamente as regras legais. Requer o prequestionamento dos arts. 93, IX, 5º, LIV, LVII, XXXV, XXXIX, da CF e dos arts. 8.2 e 9 do Decreto nº 678/92 (Pacto San José da Costa Rica).
+Sustenta, ainda, a licitude dos saques efetuados e dos valores recebidos, asseverando que " ..  os valores que recebeu de sua irmã e que foram referenciados pela acusação foram pagos em razão de contrato de cessão de cotas do escritório Cruz & Advogados Associados  .. " (e-STJ fl. 11.395). Pugna pelo prequestionamento dos arts. 5º, LIV, LVII, XXXV, XXXIX e 93, IX, ambos da CF/88.
+Aduz que as mensagens trocadas entre o embargante e Mário Peixoto foram explicadas pela defesa, requerendo o prequestionamento dos arts. 5º, LIV, LVII, XXXV, XXXIX e 93, IX, ambos da CF/88.
+Em relação ao delito de peculato, o embargante alega que não houve exame da tese de que não há adequação típica do crime. Pugna pelo prequestionamento dos arts. 93, IX, 5º, LIV, LVII, XXXV, XXXIX, da CF e dos arts. 8.2 e 9 do Decreto nº 678/92 (Pacto San José da Costa Rica).
+No que tange ao crime de lavagem de dinheiro, o recorrente aponta, em síntese, que não houve atos autônomos de lavagem de dinheiro, mas, sim, parte do recebimento indireto dos valores, conduta já contemplada no tipo penal da corrupção passiva.
+A defesa impugna a condenação por associação criminosa, alegando que a acusação não descreveu um programa delitivo próprio, tendo apenas repetido condutas relacionadas aos crimes de corrupção.
+Alega que, em cada caso de inclusão de empresa no PEPT, haveria apenas um único acerto corruptivo, não múltiplos crimes. Pugna pelo prequestionamento dos arts. 5º, LIV, LVII, XXXV, XXXIX, e 93, IX, ambos da CF/88.
+Em relação à dosimetria da pena, a defesa questiona a fixação da pena base acima do mínimo legal, alegando contradição na consideração do cargo de Desembargador como relevante para a prática dos delitos. Contesta, ainda, a aplicação da circunstância agravante prevista no art. 61, I, do Código Penal.
+Petição (e-STJ fl. 11.552/11.602): intimado, o MPF apresentou contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AÇÃO PENAL. ART. 619 DO CPP. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+I. Hipótese em exame
+1. Embargos de declaração opostos por acusado contra acórdão que julgou parcialmente procedente ação penal originária.
+II. Questão em discussão
+2. O recorrente aponta omissão, contradição e erro material, pugnando pela concessão de efeitos infringentes ao julgado e pelo prequestionamento de dispositivos constitucionais.
+III. Razões de decidir
+3. As imputações delitivas e as teses defensivas foram exaustivamente analisadas pelos Ministros que integram a Corte Especial, revelando-se descabida a pretensão de reabrir o julgamento sob a alegação de suposta existência de omissões e contradições no aresto condenatório.
+4. O Juiz não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+5. A ocorrência de um dos vícios previstos no art. 619 do CPP é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de matéria constitucional não possibilita a sua oposição.
+6. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+IV. Dispositivo
+7. Embargos de declaração rejeitados.
+Jurisprudência citada: EDcl na APn 954/DF, Corte Especial, julgado em 17/11/2021, DJe de 19/11/2021; EDcl no AgRg no AgRg nos EAREsp n. 2.459.709/MG, Terceira Seção, julgado em 11/9/2024, DJe de 13/9/2024; EDcl no AgRg no CC n. 146.343/RJ, Terceira Seção, julgado em 9/2/2022, DJe de 11/2/2022; EDcl no AgInt nos EAREsp n. 1.366.994/GO, Corte Especial, julgado em 21/9/2021, DJe de 15/12/2021; EDcl no AgRg na APn n. 945/DF, Corte Especial, julgado em 8/6/2021, DJe de 10/6/2021; STF - ARE 1.271.602 AgR, Tribunal Pleno, julgado em 15/12/2020, DJe 18/01/2021; ARE 805.243 AgR, Primeira Turma, julgado em 21/10/2014, DJe 11/11/2014.
+VOTO
+1. Antes de emitir juízo de valor sobre o teor dos declaratórios, é preciso registrar que o julgamento de mérito desta ação penal foi iniciado no dia 06/12/2023 e finalizado no dia 13/03/2025, após apresentação de voto-revisor, voto-vogal e 03 votos-vistas, lidos e examinados em 03 (três) sessões de julgamento da Corte Especial do STJ (e-STJ fl. 11.257/11.322).
+2. As imputações delitivas e as teses defensivas foram exaustivamente analisadas pelos Ministros que integram a Corte Especial, revelando-se incabível a pretensão de reabrir o julgamento sob a alegação de suposta existência de omissões e contradições no aresto condenatório ora impugnado.
+3. Conforme decidido, nos autos do EDcl na APn 954/DF (Corte Especial, julgado em 17/11/2021, DJe de 19/11/2021), "O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa." Nessa toada: EDcl no AgRg no AgRg nos EAREsp n. 2.459.709/MG, Terceira Seção, julgado em 11/9/2024, DJe de 13/9/2024.
+4. Importante frisar, ainda, que, consoante jurisprudência do STJ, o juiz não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão. Nesse diapasão: EDcl no AgRg no CC n. 146.343/RJ, Terceira Seção, julgado em 9/2/2022, DJe de 11/2/2022; EDcl no AgInt nos EAREsp n. 1.366.994/GO, Corte Especial, julgado em 21/9/2021, DJe de 15/12/2021.
+5. No mesmo sentido, o STF concluiu que "A jurisprudência do Supremo Tribunal Federal é no sentido de que o  art. 93, IX, da CR  exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte, capazes de, em tese, influenciar no resultado da demanda, fica dispensando o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador." (STF, ARE 1.271.602 AgR, Tribunal Pleno, julgado em 15/12/2020, DJe 18/01/2021). Confira-se, ainda: STF, ARE 805243 AgR, Primeira Turma, julgado em 21/10/2014, DJe 11/11/2014.
+6. Fixadas essas premissas, passo ao exame dos embargos de declaração opostos pelo réu.
+7. Depreende-se da leitura dos declaratórios, que o embargante, inconformado com o resultado do julgamento, repisa preliminares arguidas em sede de alegações finais, matéria que restou refutada quando do julgamento de mérito da ação penal.
+8. Com o escopo de evitar tautologia, registro que as questões em torno da (i) decretação de medida cautelar com respaldo nas declarações do colaborador, (ii) expedição de mandado de busca e apreensão genérico, (iii) da prática de fishing expedition, (iv) efetivação de busca e apreensão após o oferecimento de denúncia, (v) falta de acesso à íntegra dos dados colhidos nos PBAC"S 34 e 39/DF, (vi) violação ao princípio da obrigatoriedade da ação penal pública, (vii) existência de megaprocesso e abuso do direito de acusar, (viii) violação da cadeia de custódia e da expedição de ofício ao MPF, (ix) do indeferimento de diligências, (x) da ausência de intimação do embargante para julgamentos da Corte Especial, (xi) ausência de representante da OAB na diligência realizada na residência de Eduarda Cruz e (xii) do acesso a conversas mantidas entre o acusado e seus advogados, foram submetidos ao exame do Colegiado e pontualmente refutados à luz do cotejo da prova dos autos e dos fundamentos apontados às fl. 11.137/11.139 e fl. 11.147/11.166.
+9. Friso que, conforme apontado no voto prolatado por esta Relatora, o Min. Dias Toffoli, nos autos do HC 222.048/DF (impetrado pela defesa do condenado MARCOS PINTO DA CRUZ), denegou a ordem e registrou que a o acusado teve acesso a todo o material apreendido nos autos, não havendo que se falar em violação ao princípio da paridade de armas (e-STJ fl. 11.155).
+10. Referida decisão restou mantida pela Primeira Turma do STF (DJe 03/04/2023), tendo sido consignado que não restaram apontados elementos que denotem qualquer violação da cadeia de custódia nestes autos (e-STJ fl. 11.157/11.158).
+11. No tocante às alegações relacionadas ao mérito da ação penal, tem-se que, consoante contrarrazões do MPF (e-STJ fl. 11.858/11.596), as questões suscitadas pelo embargante, apesar de classificadas como omissão/contradição, não constituem quaisquer dos vícios elencados no art. 619 do CPP, mas mero inconformismo com os fundamentos adotados pelo aresto recorrido, diante do qual pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, providência que revela-se descabida na espécie. Nessa toada: EDcl na APn n. 954/DF, Corte Especial, julgado em 17/11/2021, DJe de 19/11/2021.
+12. No que tange à dosimetria das penas, verifica-se que o voto exarado por esta Relatora foi acompanhado pela maioria dos Ministros que integram a Corte Especial, cabendo ao embargante, se entender apropriado, interpor o recurso adequado para impugnar referido decisum.
+13. Registro, outrossim, que a pretensão de mero prequestionamento de princípios ou dispositivos cons titucionais não autoriza a oposição de embargos declaratórios (EDcl no AgRg na APn n. 945/DF, Corte Especial, julgado em 8/6/2021, DJe de 10/6/2021).
+Dispositivo
+Forte nessas razões, REJEITO os embargos de declaração.
