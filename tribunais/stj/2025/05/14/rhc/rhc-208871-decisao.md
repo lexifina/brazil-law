@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso interposto por GUILHERME AUGUSTO VAILATI CUNHA contra o acórdão do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que denegou o HC n. 5067004-86.2024.8.24.0000, assim ementado (fl. 300):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA DO CRIME DESCRITO NO ARTIGO 2º, INCISO II, DA LEI N. 8.137/90 (POR VINTE E CINCO VEZES). ALEGAÇÃO DE AUSÊNCIA DE DEFESA TÉCNICA EM RAZÃO DA RESPOSTA À ACUSAÇÃO APRESENTADA PELA DEFENSORIA PÚBLICA. INOCORRÊNCIA. DIVERGÊNCIA DE ESTRATÉGIA QUE NÃO CONFIGURA NULIDADE. ADEMAIS, PREJUÍZO AO RÉU NÃO DEMONSTRADO. ORDEM CONHECIDA E DENEGADA.
+A Súmula 523 do Supremo Tribunal Federal é clara no sentido de que "No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+Argumenta-se que a resposta à acusação apresentada pela Defensoria Pública limitou-se a uma negativa genérica dos fatos, sem a formulação de teses defensivas específicas ou requerimento de produção de provas (fl. 309).
+Alega-se que a defesa apresentada pela Defensoria Pública foi manifestamente insuficiente, não atendendo aos requisitos mínimos de uma defesa técnica efetiva, o que resultou em prejuízo concreto ao Recorrente, que não teve a oportunidade de ver suas teses devidamente apresentadas e apreciadas (fl. 310).
+Requer-se a declaração de nulidade absoluta do processo penal a partir da apresentação da resposta à acusação pela Defensoria Pública, determinando-se a reabertura dessa fase processual, com a devida consideração da defesa apresentada pelo advogado constituído; e a suspensão dos atos processuais subsequentes, até a regularização da defesa técnica do Recorrente (fl. 314), no Processo n. 5029603-63.2023.8.24.0008, da 2ª Vara Criminal da comarca de Blumenau/SC.
+Contrarrazões às fls. 318/319.
+Sem pedido liminar, os autos seguiram diretamente ao Ministério Público Federal, que opinou pela negativa de provimento d o recurso ordinário (fls. 327/329).
+É o relatório.
+É incensurável o acórdão recorrido.
+Consta dos autos que a resposta à acusação foi apresentada pela Defensoria Pública, tendo em vista que o recorrente não constituiu advogado para apresentar sua defesa no prazo legal. A resposta à acusação apresentada pugna pela improcedência da ação penal, requer a concessão da justiça gratuita e arrola como testemunhas as mesmas indicadas pela acusação (fl. 159).
+No campo das nulidades no processo penal, seja relativa ou absoluta, o art. 563 do Código de Processo Penal institui o conhecido princípio pas de nullité sans grief, segundo o qual o reconhecimento de nulidade exige a comprovação de efetivo prejuízo. E ainda, de acordo com a Súmula 523/STF, no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+Ora, o fato de a nova defesa não concordar com a linha defensiva adotada pela defesa anterior também não revela nulidade. Com efeito, a simples discordância do atual Defensor com a pretensão deduzida ou não pelo defensor anterior em suas manifestações não caracteriza deficiência/ausência de defesa capaz de gerar nulidade processual (AgRg no HC n. 463.316/GO, Ministra Laurita Vaz, Sexta Turma, julgado em 10/3/2020, DJe 24/3/2020). Assim, apenas a ausência de defesa, ou situação equiparável, com prejuízos demonstrados ao acusado, revela-se apta a macular a prestação jurisdicional (AgRg no RHC n. 187.185/RS, Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe 10/10/2023).
+No caso, observo que as razões recursais não demonstram de forma clara e específica o prejuízo do recorrente, havendo que se salientar que a tese de inexigibilidade de conduta diversa pode ser alegada em momento posterior à resposta à acusação, antes da prolação da sentença.
+Pelo exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. RESPOSTA À ACUSAÇÃO ELABORADA PELA DEFENSORIA PÚBLICA. ALEGAÇÃO DE DEFESA DEFICIENTE. SÚMULA 523/STF. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO.
+Recurso improvido.
