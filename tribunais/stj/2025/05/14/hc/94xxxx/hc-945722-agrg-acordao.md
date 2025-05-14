@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DOSIMETRIA. AFASTAMENTO DA AGRAVANTE DE CALAMIDADE PÚBLICA. TEMA JÁ ANALISADO EM IMPETRAÇÃO ANTERIOR COM O ACOLHIMENTO E REDIMENSIONAMENTO DA PENA. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+FABIO PEREIRA GONCALVES ingressa com agravo regimental inconformado com a decisão de fls. 305/306, assim ementada:
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DOSIMETRIA. AFASTAMENTO DA AGRAVANTE DE CALAMIDADE PÚBLICA. TEMA JÁ ANALISADO EM IMPETRAÇÃO ANTERIOR COM O ACOLHIMENTO E REDIMENSIONAMENTO DA PENA.
+Habeas corpus não conhecido.
+Consta dos autos que o paciente foi condenado, em primeiro grau, como incurso no art. 33, caput, da Lei n. 11.343/2006 (43,3 g de maconha e 12,5 g de cocaína), à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa. No julgamento da apelação, a pena foi elevada para 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, mais o pagamento de 680 dias- multa. O Tribunal estadual elevou a pena-base em 1/6 pelos maus antecedentes, tendo, ainda, elevado a pena em mais 1/6 pela incidência da agravante genérica do art. 61, II, j, do Código Penal,  ..  na vigência do Decreto Legislativo n. 6 do Congresso Nacional e Decreto Estadual n. 64.879, ambos em vigor desde 20/3/2020, os quais reconheceram o estado de calamidade pública em razão da pandemia do novel coronavírus (fl. 268).
+A revisão criminal não foi conhecida na origem e desprovido o respectivo agravo.
+Com o presente regimental, reitera-se o pedido de absolvição do paciente, sob a alegação de nulidade da busca pessoal, sem justa causa.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DOSIMETRIA. AFASTAMENTO DA AGRAVANTE DE CALAMIDADE PÚBLICA. TEMA JÁ ANALISADO EM IMPETRAÇÃO ANTERIOR COM O ACOLHIMENTO E REDIMENSIONAMENTO DA PENA. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O inconformismo não prospera.
+Primeiramente, as razões do agravo regimental não infirmaram a fundamentação da decisão agravada no sentido de que, quanto à revisão da dosimetria, o tema já foi analisado por esta Corte quando do julgamento do HC n. 783.126/SP, no qual foi concedida a ordem a fim de redimensionar a pena do paciente para 5 anos e 10 meses de reclusão, em regime inicial semiaberto, além do pagamento de 583 dias-multa (fl. 306).
+Nesse ponto, portanto, incide a Súmula 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+No mesmo sentido:
+ ..  A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. (AgRg no HC n. 650.416/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/3/2021, DJe 29/3/2021).
+Já quanto à tese de ilicitude de prova, dispôs o Tribunal estadual, no acórdão da revisão criminal, que pretende a defesa novamente trazer à baila o quanto decidido nos autos da Ação originária n. 1503344-75.2021.8.26.0228, onde se verificou regularidade da ação policial que culminou na prisão em flagrante do acusado, a existência de provas de materialidade e autoria suficientes para embasar a condenação do peticionário como incurso no art. art. 33, caput, da Lei n. 11.343/06, com a incidência da agravante referente à calamidade pública. Oportuno dizer que a revisão criminal não cabe como mero instrumento de reapreciação (fls. 14/15). Como se vê, o tema não foi devidamente enfrentado no acórdão impugnado, tendo em vista que não preenchidos os requisitos para a admissibilidade da revisão criminal.
+De todo modo, pelo que se pode extrair do contexto fático reproduzido nos autos não se verifica manifesta ilegalidade na abordagem policial, constando do acórdão da apelação que os policiais militares realizavam patrulhamento de rotina quando avistaram Fabio, o qual, ao avistar a viatura acelerou o passo, motivando a abordagem. No interior de sua mochila, encontraram uma sacola contendo porções de maconha e cocaína, além de uma quantia em dinheiro. O apelante alegou que levava os entorpecentes a um indivíduo localizado no centro da cidade (fl. 266 - grifo nosso).
+Às fls. 16/17, constam ainda as seguintes passagens (grifo nosso):
+Assim, mais uma vez, quanto ao mérito, cabe reiterar o decidido às fls.27/34, que demonstrou a ausência de ilegalidade na atuação dos policiais durante o flagrante, bem como apontou a ordem objetiva da agravante impugnada:
+"A busca pessoal realizada pelos policiais encontra-se total guarida pela previsão do art. 244 do Código de Processo Penal, que dispõe que: "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+Ante o exposto, infere-se que o procedimento se deu de acordo com o que exige a lei, sendo que a atitude suspeita do acusado que demonstrou nervosismo com a presença da viatura é suficiente para justificar a atuação dos policiais, configurando fundada suspeita.
+Assim versa o entendimento do E. STJ:a tentativa de se esquivar da guarnição policial evidencia a fundada suspeita de que o agente ocultava consigo objetos ilícitos, na forma do art. 240, § 2º, do Código de Processo Penal, a justificar a busca pessoal, em via pública (STJ6ª Turma. HC 889.618-MG, Rel. Min. Sebastião Reis Júnior, julgado em 23/4/2024 - Info 810).
+Com efeito, segundo entendimento desta Corte a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias, se houve, ou não, fuga do agravante, seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Não conheço do agravo regimental.
