@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de violação do art. 1º-F da Lei n. 9.494/97 (redação dada pela Lei n. 11.960/2009), motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211/STJ.
+2. O recurso especial não trouxe a alegação de violação do art. 1.022 do CPC/2015, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do CPC/2015.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO PIAUÍ contra decisão por mim proferida, por meio da qual foi conhecido o respectivo agravo em recurso especial, a fim de não conhecer o apelo nobre, conforme a seguinte ementa (fls. 599-602):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO MONITÓRIA. ÍNDICE DE JUROS E CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do recurso (fls. 608-611), o Agravante apresenta os seguintes argumentos:
+Ocorre que, o tema da correção monetária foi devidamente analisada no acórdão recorrido.
+Demais disso, foram interpostos embargos de declaração pre- questionadores, notadamente quanto ao artigo 1º-F da Lei nº 9.494/97.
+ ..
+Outrossim, convém lembrar que, mesmo se não tivessem explicita- dos no decisório os mencionados dispositivos legais, há de se assinalar que o prequestionamento não pode ser tomado como numérico, ou seja, não se deve exigir que, no acórdão recursado, estejam escritos os dispositivos legais tidos por violados.
+Impugnação apresentada às fls. 616-629.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de violação do art. 1º-F da Lei n. 9.494/97 (redação dada pela Lei n. 11.960/2009), motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211/STJ.
+2. O recurso especial não trouxe a alegação de violação do art. 1.022 do CPC/2015, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do CPC/2015.
+3. Agravo interno desprovido.
+VOTO
+Consta dos autos que o Juízo de primeiro grau julgou procedente o pedido inicial formulado em sede de ação monitória pela Agravada, consistente na constituição de título executivo no valor de R$ 57.960,17 (cinquenta e sete mil novecentos e sessenta reais e dezessete centavos), representado por duplicatas mercantis e notas fiscais inadimplidas.
+O Agravante interpôs apelação, a qual o Tribunal de origem deu parcial provimento a fim de acolher o pedido subsidiário e constituir o título executivo judicial no valor de R$ 44.433,08 (quarenta e quatro mil, quatrocentos e trinta e três reais e oito centavos), convertendo-se o mandado inicial em mandado executivo.
+A propósito, transcreve-se a ementa do referido julgado (fls. 345-361):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DO RECURSO. AFASTADA. PROVA DE VENDA E ENTREGA DE MEDICAMENTO. VALOR DEVIDO PELO ENTE PÚBLICO ESTADUAL. PARCIAL PROVIMENTO.
+1. No caso, a empresa autora, ora recorrida, instruiu sua inicial com cópia da nota fiscal, que foi devidamente assinada, confirmando o recebimento dos medicamentos por servidor competente para tal finalidade. Portanto, suficiente para comprovar o implemento da condição necessária para o pagamento.
+2. A nota fiscal é documento unilateral elaborado pelo emitente que será idôneo para registrar a transferência de propriedade de um bem ou a efetiva prestação de um serviço se confirmada a operação nela constante pelo destinatário. Para tanto, a assinatura revela-se elemento imprescindível para vincular o recebedor e comprovar a entrega da mercadoria. Dentro desse contexto, percebe-se que a tese do ente público recorrente de que o juiz a quo violou as regras de direito financeiro ao reconhecer o direito da parte autora não se sustenta.
+3. Os documentos comprovam o crédito da parte autora. A ausência de liquidação e pagamento da despesa pelo recorrente foi suprida judicialmente pela sentença recorrida, diante da resistência injustificada do ente público no cumprimento de sua obrigação contratada.
+4. Há carimbo de recebimento na nota fiscal 249.491 (id 4088954, página 43), ordem de fornecimento da diretora de assistência farmacêutica e identificação e assinatura dos recebedores das mercadorias fornecidas com o número da nota fiscal eletrônica correspondente. (id 4088954, páginas 38-39).
+5. A parte autora participou do pregão 142-2009 e comprovou, portanto, a efetiva entrega das mercadorias por meio das Notas fiscais que constitui recibo obrigatório após qualquer transação de venda de produtos ou prestação de serviços. Assim, embora não tenha sido colacionado o contrato administrativo firmado entre as partes, os documentos que instruem ao processo são robustos e suficientes para demonstrar o fornecimento de mercadorias pela requerente.
+6. Diante do trato especial inerente ao procedimento monitório, o autor da ação dever observar alguns requisitos que estão previstos no art. 700 e parágrafos do CPC, os quais seja: a) objeto da ação; b) prova escrita sem eficácia de título executivo; e c) devedor capaz.
+7. Percebe-se que foram preenchidos os requisitos, pois a prova escrita representada por notas fiscais e ordens de fornecimentos juntadas aos autos , não havendo nos autos prova de pagamento pela fazenda pública.
+8. Com relação aos valores devidos, considerando que há prova da entrega da mercadoria, era ônus da Fazenda Pública fazer prova dos pagamentos exigidos pela demandante (art. 373, II, do CPC), o que não fez, motivo pelo qual deve ser mantido o valor cobrado na inicial. Portanto, comprovada o fornecimento da mercadoria, impõe-se a condenação do ente público ao pagamento dos respectivos valores, sob pena de enriquecimento ilícito à custa do trabalho e dos bens de outrem, sendo irrelevante o fato de o compromisso ser originário da administração anterior. Juros e correção monetária pela SELIC, nos termos do artigo 3º da Ementa Constitucional nº 113/2021.
+9. Acordam os componentes da 3ª Câmara de Direito Público, do Tribunal de Justiça do Estado do Piauí, à unanimidade, em receber e DAR PARCIAL PROVIMENTO ao recurso de apelação para acolher o pedido subsidiário, constituindo o título executivo judicial de PLENO DIREITO no valor de R$ R$ 44.433,08 (quarenta e quatro mil, quatrocentos e trinta e três reais e oito centavos), convertendo-se o mandado inicial em mandado executivo, prosseguindo-se na forma prevista do disposto no Título II do Livro I da Parte Especial do Código de Processo Civil. Juros e correção monetária pela SELIC, nos termos do artigo 3º da EC 113/2021, na forma do voto do Relator.
+Os embargos de declaração opostos pelo Agravante foram rejeitados (fls. 386-392).
+Sustenta o Agravante, nas razões do apelo nobre, violação do art. 1º-F da Lei n. 9.494/97 (redação dada pela Lei n. 11.960/2009), sob o argumento de contrariedade do acórdão recorrido com o Tema n. 905/STF, pois teria havido duplicidade na aplicação dos índices de correção monetária, devido à quantia pleiteada já incluir correção pela caderneta de poupança até 27/9/2016, com risco de enriquecimento sem causa da parte autora.
+Por fim, pede o provimento do recurso especial, com a reforma do acórdão recorrido.
+Foram apresentadas contrarrazões (fls. 406-425). O recurso especial não foi admitido (fls. 427-431). Foi interposto agravo (fls. 551-556). Contraminuta apresentada às fls. 559-569.
+Parecer do Ministério Público Federal pelo improvimento do agravo (fls. 586-596).
+Às fls. 599-602, proferi decisão conhecendo do agravo para não conhecer o recurso especial, com fundamento no óbice da Súmula n. 211/STJ.
+Pois bem.
+O acordão recorrido, na parte que aqui interessa, está baseado nas seguintes razões de decidir (fls. 345-361; sem grifos no original):
+Diante do trato especial inerente ao procedimento monitório, o autor da ação dever observar alguns requisitos que estão previstos no art. 700 e parágrafos do CPC, os quais seja: a) objeto da ação; b) prova escrita sem eficácia de título executivo; e c) devedor capaz.
+Percebe-se que foram preenchidos os requisitos, pois a prova escrita representada por notas fiscais e ordens de fornecimentos juntadas aos autos , não havendo nos autos prova de pagamento pela fazenda pública.
+Com relação aos valores devidos, considerando que há prova da entrega da mercadoria, era ônus da Fazenda Pública fazer prova dos pagamentos exigidos pela demandante (art. 373, II, do CPC), o que não fez, motivo pelo qual deve ser mantido o valor cobrado na inicial.
+Portanto, comprovada o fornecimento da mercadoria, impõe-se a condenação do ente público ao pagamento dos respectivos valores, sob pena de enriquecimento ilícito à custa do trabalho e dos bens de outrem, sendo irrelevante o fato de o compromisso ser originário da administração anterior.
+Juros e correção monetária pela SELIC, nos termos do artigo 3º da Ementa Constitucional nº 113/2021.
+O Tribunal de origem não apreciou a tese de violação do art. 1º-F da Lei n. 9.494/97 (redação dada pela Lei n. 11.960/2009), mesmo tendo sido opostos embargos de declaração. Ausente o necessário prequestionamento, incide o comando da Súmula n. 211/STJ.
+Por outro lado, o recurso especial não trouxe a alegação de violação do art. 1.022 do CPC/2015, a fim de que fosse constatada a eventual omissão por parte da Corte de origem , indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual. Nesse sentido: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
