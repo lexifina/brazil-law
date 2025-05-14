@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por VALENTIM VEÍCULOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO cuja ementa guarda os seguintes termos (fls. 401-414):
+APELAÇÃO CINTEL - INDENIZATORIA - VEICULO USADO - DEFEITO APRESENTADO LOGO APÓS: O USO - HODÔMETRO ALTERADO - RESCISÃO CONTRATUAL - DEVOLUÇÃO DO VALOR PAGO - DANO MATERIAL COMPROVADO - DANO MORAL CONFIGURADO RECURSO CONHECIDO E IMPROVIDO.
+1- Conforme ilação do art. 18, caput da Lei 8.078/90, "os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo a que se destinam ou lhes diminuam o valor" o que é perfeitamente aplicável ao caso em análise.
+2- A tese levantada pela empresa de que não tinha conhecimento ou que tal fato não conduz que o veículo tenha problema irremediável, não é passível de ser albergado na medida em que se verifica pelo contrato firmado a disposição do registro da quilometragem, o que sem sombra de dúvidas pelo fator mercadologia é um atrativo para um veículo usado. A autora também logrou comprovar que as peças dos veículos apresentaram desgaste em pouco tempo após a compra o condiz e se relaciona à adulteração vergastada.
+3- Em relação ao pedido subsidiário da ora apelante de abatimento proporcional do valor do automóvel, compulsando os autos denota-se que tal matéria em nenhum momento foi discutida 1urante a instrução processual, vindo a tona somente agora em apelação, o que wineu ver, caracteriza inovação recursal, acarretando upressão de instância.
+4- O dano moral é caracterizado pelo dano que atinge a esfera subjetiva da pessoa, aspectos de sua personalidade, tais como honra, reputação e intimidade, afetando seu comportamento psicológico, causando aflição, desequilíbrio e angústia. A hipótese dos autos transcende o mero aborrecimento decorrente do inadimplemento contratual.
+5- Vislumbra-se razão para modificar o quantum indenizatório arbitrado, uma vez que não se pautou nos prin I cípios da razoabilidade e proporcionalidade, se mostrando exacerbado ante a situação vivida, razão pela qual entende-se que o vdlor de R$ 10.000,00 (dez mil reais) atende as finalidades indeniz I atórias no caso dos presentes autos.
+6- Recurso conhecido e improvido.
+Rejeitados os embargos de declaração opostos (fls. 429-437).
+No recurso especial, a recorrente aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 369 do CPC e 884 do Código Civil, sustentando a tese de que teria ocorrido cerceamento de defesa pelo indeferimento do pedido de produção de prova e em razão do enriquecimento ilícito.
+Foram oferecidas contrarrazões ao recurso especial (fls. 463-469).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 471-474), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 488-494).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Com efeito, da análise das razões do recurso especial, observa-se que o apelo nobre não merece ser conhecido, visto que a recorrente limita-se a suscitar cerceamento de defesa ante o indeferimento de produção de prova e a defender a tese de enriquecimento sem causa.
+Ocorre que, nas razões recursais, o recorrente deixa de impugnar o fundamento do acordão recorrido acerca da preclusão consumativa na tese de cerceamento de defesa, bem como da inovação recursal na tese de enriquecimento sem causa, o que atrai a incidência das Súmulas n. 283/STF e 284/STF, visto que a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, o que, por sua vez, denota também a deficiência das razões recursais.
+Nesse sentido, cito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA E COMINATÓRIA. DESATIVAÇÃO DE CONTA PESSOAL DE USUÁRIO DE JOGO ELETRÔNICO. USO DE SOFTWARE NÃO AUTORIZADO. OBTENÇÃO DE VANTAGENS INDEVIDAS NO AMBIENTE DO JOGO. CONDUTA VEDADA PELOS TERMOS DE USO DO SERVIÇO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. ILEGITIMIDADE PASSIVA DA DISTRIBUIDORA DO JOGO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULAS NºS 283 E 284/STF.
+1. Ação indenizatória e cominatória promovida por usuário do jogo eletrônico "Free Fire" que teve sua conta pessoal suspensa, de forma permanente, pela empresa requerida - administradora da aplicação de internet -, em virtude da constatação do uso de software que não autorizado (com propósito de obter vantagem indevida no ambiente do jogo), conduta vedada expressamente pelos termos de uso do serviço.
+2. Sentença primeva e acórdão recorrido que, a partir do exame do acervo fático-probatório carreado nos autos e da interpretação de cláusulas contratuais, concluíram pela improcedência do pleito autoral e pela licitude da penalidade contratual aplicada pela provedora de conteúdo ora demandada ao usuário infrator.
+3. É inviável rever, na via do recurso especial, conclusões das instâncias de cognição plena que resultam do estrito exame do acervo fático-probatório carreado nos autos e da interpretação de cláusulas contratuais (Súmulas nº 5 e 7 do STJ).
+4. A ausência de impugnação dos fundamentos utilizados pela Corte de origem para reconhecer a ilegitimidade passiva de uma das demandadas revela a deficiência da fundamentação recursal, atraindo a incidência dos óbices contidos nas Súmulas nºs 283/STF e 284/STF.
+5. Recurso especial parcialmente conhecido e não provido.
+(REsp n. 2.123.587/SC, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/2/2025, DJEN de 19/2/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL, AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO CAPAZ, POR SI SÓ, DE MANTER A DECISÃO RECORRIDA. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULAS N. 283/STF E 284/STF. AGRAVO IMPROVIDO.
