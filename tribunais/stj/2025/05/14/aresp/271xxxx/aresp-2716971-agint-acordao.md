@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, III, do CPC e do enunciado da Súmula 182/STJ (desrespeito ao princípio da dialeticidade recursal).
+2. Quando o recurso especial não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DE SERRITA contra a decisão da Presidência desta Corte Superior de fls. 1.145-1.146 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Pernambuco assim ementado (e-STJ, fl. 960):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANULAÇÃO DE ATO DE NOMEAÇÃO DE SERVIDO EFETIVO. AUSÊNCIA DE PROCESSO ADMINISTRATIVO. AFRONTA AO CONTRADITÓRIO E À AMPLA DEFESA. REINTEGRAÇÃO. REEXAME NECESSÁRIO IMPROVIDO, PREJUDICADO O APELO FAZENDÁRIO.
+1. A questão posta à análise cinge-se à verificação da legalidade do ato administrativo consubstanciado no Decreto nº 04/2021, expedido pelo prefeito de Serrita.
+2. Extrai-se dos documentos acostados aos autos que a impetrante já estava desempenhando suas funções, pelo que o afastamento da mesma demandava a instauração de processo administrativo em que assegurados o contraditório e a ampla defesa, conforme expresso no art. 5º, inciso LV, da CRFB.
+3. Tem sido iterativa a jurisprudência dos Tribunais Superiores no sentido de que " A demissão de servidor público, mesmo que não estável, deve ser precedida por processo administrativo, em que sejam assegurados o contraditório e a ampla defesa" (STF - RE 594.040 AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 06/04/2010, D Je-071 DIVULG 22-04-2010 PUBLIC 23-04-2010).
+4. Destarte, o Supremo Tribunal Federal assentou, em julgamento realizado sob o prisma da repercussão geral, que "Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo" (RE 594.296, Rel. Min. Dias Toffoli, Pleno, julgado em 21/09/2011, Repercussão Geral - Mérito, D Je-030, de 13/02/2012).
+5. Correta, pois, a sentença a quo que ordenou a reintegração da impetrante cujo ato de nomeação fora " decretado nulo" sem o devido processo legal. Decisão unânime.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.001-1.009).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, ofensa aos arts. 20, III, b, 21, parágrafo único, e 22 da Lei de Responsabilidade Fiscal (LC n. 101/2000); e à LC nº 173/2020.
+Esclareceu que se opôs ao acórdão por entender ter sido correta a ordem de reintegração da impetrante ao cargo público a que fora nomeada, cujo ato de nomeação foi decretado nulo sem o devido processo legal.
+Sustentou que a nomeação da recorrida não poderia ser realizada, considerando que, nos 180 (cento e oitenta) dias finais do mandato do gestor público, as despesas com pessoal não poderão sofrer aumento, sendo vedadas as contratações, sejam temporária, sejam por aprovação em concurso público.
+Argumentou o Município insurgente que não havia a necessidade de instauração de processo administrativo nesta hipótese, pois a posse da agravada já se encontrava eivada de vício de ilegalidade absoluta desde o nascedouro, tratando-se de ato verdadeiramente inexistente no mundo jurídico.
+Reforçou que, quando realizada a despesa total com pessoal, estava acima do limite estabelecido da Lei de Responsabilidade Fiscal, circunstância que impedia o provimento de cargos públicos e demandava a adoção de medidas que as reduzissem (que não foram adotadas pelo antigo prefeito), a evidenciar a ausência de direito dela de permanência no cargo público. Requereu provimento ao recurso especial (e-STJ, fls. 1.022-1.035).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior. Contra esse julgamento, interpõe a demandante o agravo interno.
+Neste recurso, frisa que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a aplicação da Súmula 83/STJ. Reafirma as teses lançadas no apelo especial acima sumariadas. Pugna pelo conhecimento e provimento do agravo (e-STJ, fls. 1.150-1.156).
+Contraminuta apresentada (e-STJ, fls. 1.160).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, III, do CPC e do enunciado da Súmula 182/STJ (desrespeito ao princípio da dialeticidade recursal).
+2. Quando o recurso especial não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a aplicação da Súmula 7/STJ; óbice sumular n. 280/STF; e Súmula 83/STJ.
+Entretanto, o insurgente deixou de impugnar objetivamente, ou seja, de forma direta e precisa o óbice da Súmula 83 do STJ. Com efeito, a parte faz referências vagas sobre o conteúdo da citada manifestação da segunda instância , sem contudo, argumentar com objetividade acerca do equívoco na aplicação desses enunciados sumulares.
+Cabe à parte agravante, "nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o recurso que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram à inadmissão do especial. Incidência da Súmula 182/STJ" (AgRg no AREsp 513.160/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2018, DJe de 13/6/2018).
+Nessa linha, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da manifestação recorrida, conforme o art. 932, III, do CPC e, por analogia, a Súmula n. 182/STJ - desrespeito ao princípio da dialeticidade recursal.
+A propósito, confiram-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido
+(AgInt no REsp n. 2.115.852/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 16/5/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ, art. 932, III, do CPC/2015 e Súmula 182/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.103.457/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Além disso, cumpre ressaltar que, quando o inconformismo excepcional não é admitido com fundamento no enunciado da Súmula n. 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não se verifica no presente caso.
+Vejam-se (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do STJ, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.387.034/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/9/2024, DJe de 26/9/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se de agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude da ausência de impugnação ao óbice da Súmula n. 83/STJ, aplicada na decisão que inadmitiu o apelo nobre na origem.
+2. A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+3. Considerando que cabe ao agravante rebater todos os fundamentos de forma exauriente, de modo a cumprir os ditames do artigo 932, inciso III, do CPC/2015, a ausência de impugnação específica e suficientemente fundamentada impede o conhecimento do agravo em recurso especial.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023 - sem grifo no original)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
