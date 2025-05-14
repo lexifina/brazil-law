@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDOÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Nos termos do art. 932, inciso III, do CPC, e dos arts. 34, XVIII, alíneas a e b; e 255, § 4.º, inciso I, ambos do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há se falar em eventual nulidade ou cerceamento de defesa" (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+3. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade diante da necessidade de garantir a ordem pública, considerando a gravidade concreta da conduta delituosa, pois, por ocasião da prisão em flagrante, houve a apreensão de 250 g de cocaína e 153 g de crack, drogas de elevado potencial deletério.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDA THAINA DO NASCIMENTO contra a decisão de fls. 185-188, que não conheceu do habeas corpus.
+Nas razões deste recurso, a defesa aduz que a decisão monocrática viola o princípio da colegialidade. No mérito, reforçou a alegação de que a agravante atuava como mera mula do tráfico, fato que, aliado às suas condições pessoais favoráveis, autoriza a revogação da prisão preventiva.
+Requer, ao final, o acolhimento do agravo, pretendendo obter a concessão da ordem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDOÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Nos termos do art. 932, inciso III, do CPC, e dos arts. 34, XVIII, alíneas a e b; e 255, § 4.º, inciso I, ambos do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há se falar em eventual nulidade ou cerceamento de defesa" (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+3. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade diante da necessidade de garantir a ordem pública, considerando a gravidade concreta da conduta delituosa, pois, por ocasião da prisão em flagrante, houve a apreensão de 250 g de cocaína e 153 g de crack, drogas de elevado potencial deletério.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam haver nenhum equívoco na decisão recorrida.
+"Nos termos do art. 932, inciso III, do CPC, e dos arts. 34, XVIII, alíneas a e b; e 255, § 4.º, inciso I, ambos do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há se falar em eventual nulidade ou cerceamento de defesa" (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+Conforme consta da decisão agravada, o Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação exposta a seguir.
+A prisão cautelar foi assim fundamentada (fls. 71-74):
+Dos autos em análise, constata-se que as autuadas foram presas em flagrante por terem cometido, em tese, os delitos de tráfico de drogas e associação para o tráfico (art. 33, e 35, ambos da Lei nº 11.346/06),caput cujas penas mínimas previstas é de 5 anos de reclusão e 3 anos de reclusão, respectivamente.
+ ..
+O fumus comissi delicti restou evidenciado, eis que foram apreendidos, no momento da abordagem, 250 gramas de cocaína e 153 gramas de crack, além de R$ 401,30 (quatrocentos e um reais e trinta centavos) em notas diversas, bem como uma faca utilizada para fracionar os entorpecentes.
+Conforme destacado pelo Ministério Público, "FERNANDA THAINÁ DO NASCIMENTO é companheira do hoje preso DARLAN MATEUS DE PAIVA (autos de execução nº 0001658- 10.2018.8.16.0163), conhecido pela traficância local, inclusive tendo sido testemunha de defesa nos autos nº 0003105-91.2022.8.16.0163 (mov. 124.9), a revelar o maior grau de reprovabilidade da conduta da agente, que mesmo ciente das consequências do crime, permanece fazendo deste um meio de vida".
+MARIA CLARA DE CARVALHO LEITE, por seu turno, em seu depoimento perante a Autoridade Policial (mov. 1.15), confirmou ter conhecimento de que no veículo eram transportadas as drogas apreendidas, o que denota a sua consciência da prática delitiva.
+Outrossim, a qualidade (cocaína e crack) e a quantidade de entorpecente, bem como o transporte intermunicipal, reforçam a gravidade concreta da conduta das flagradas.
+Por outro lado, tendo em vista as denúncias de que o veículo em que estavam as autuadas é utilizado para a distribuição de entorpecentes, a princípio, não está evidenciado o tráfico privilegiado (art. 33, §4º, da Lei nº 13.343/06), eis que há aparente dedicação a atividades criminosas, não sendo possível afirmar que o envolvimento de ambas as custodiadas foi um fato isolado.
+Assim, diante das informações apresentadas, depreende-se a presença de fortes indícios de que as autuadas praticaram o crime de tráfico de drogas, previsto no artigo 33, caput, da Lei nº 13.343/06.
+ ..
+Diante do exposto e como medida necessária para a garantia da ordem pública, com fulcro no inciso I, do artigo 313, do Código de Processo Penal, bem como pela presença dos pressupostos do artigo 312, do mesmo Código, em compasso com a manifestação do Ministério Púbico, a conversão da prisão em flagrante em prisão preventiva de FERNANDA THAINÁ DO NASCIMENTO e MARIA CLARA DE CARVALHO LEITE é a medida que se impõe.
+Expeça-se o respectivo mandado de prisão. (Grifei.)
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, houve a apreensão de 250 g de cocaína e 153 g de crack, drogas de elevado potencial deletério.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifo próprio.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
