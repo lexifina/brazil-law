@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO DE TURMA RECURSAL. ALEGAÇÃO DE CONTRARIEDADE À ORIENTAÇÃO JURISPRUDENCIAL DO STJ. NÃO CAMBIMENTO. RECLAMAÇÃO LIMINARMENTE INDEFERIDA. AGRAVO INTERNO DESPROVIDO.
+1. Mantém-se a decisão que indeferiu liminarmente a reclamação com base na jurisprudência consolidada do STJ, que estabelece que a reclamação, prevista no art. 105, inciso I, alínea f, da Constituição Federal, destina-se a tornar efetivas as decisões proferidas no próprio caso concreto, não servindo para a preservação da jurisprudência da Corte ou como sucedâneo recursal.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JANE DA SILVA NICOLETTI contra decisão de minha lavra (fls. 513-514) que indeferiu liminarmente a reclamação, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. RECLAMAÇÃO CONTRA ACÓRDÃO DE TURMA RECURSAL. ALEGAÇÃO DE CONTRARIEDADE À ORIENTAÇÃO JURISPRUDENCIAL DO STJ. NÃO CAMBIMENTO. RECLAMAÇÃO LIMINARMENTE INDEFERIDA.
+A reclamação foi ajuizada com o objetivo de impugnar decisão da 3ª Turma Recursal da Fazenda Pública do Estado do Rio Grande do Sul, alegando contrariedade à orientação jurisprudencial do Superior Tribunal de Justiça, especificamente sobre a concessão de assistência judiciária gratuita (fl. 513).
+A decisão ora agravada indeferiu a reclamação com base na jurisprudência consolidada do STJ, que estabelece que a reclamação, prevista no art. 105, inciso I, alínea f, da Constituição Federal, destina-se a tornar efetivas as decisões proferidas no próprio caso concreto, não servindo para a preservação da jurisprudência da Corte ou como sucedâneo recursal (fl. 514).
+A agravante sustenta que, diante da ausência de turma recursal uniformizadora em matéria processual prevista em lei federal, é necessário excepcionar o manejo da reclamação para discutir eventual contrariedade a entendimento jurisprudencial do STJ apenas com relação a matéria processual (fl. 524). Requer o provimento do Agravo Interno para reformar a decisão monocrática, permitindo o seguimento da reclamação.
+O INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL apresentou impugnação ao Agravo Interno, argumentando que a pretensão da agravante é contrária à jurisprudência consolidada do STJ, que não admite o uso da reclamação para garantir a observância de padrão decisório firmado em recurso representativo de controvérsia de tema repetitivo (fl. 528).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO DE TURMA RECURSAL. ALEGAÇÃO DE CONTRARIEDADE À ORIENTAÇÃO JURISPRUDENCIAL DO STJ. NÃO CAMBIMENTO. RECLAMAÇÃO LIMINARMENTE INDEFERIDA. AGRAVO INTERNO DESPROVIDO.
+1. Mantém-se a decisão que indeferiu liminarmente a reclamação com base na jurisprudência consolidada do STJ, que estabelece que a reclamação, prevista no art. 105, inciso I, alínea f, da Constituição Federal, destina-se a tornar efetivas as decisões proferidas no próprio caso concreto, não servindo para a preservação da jurisprudência da Corte ou como sucedâneo recursal.
+2. Agravo interno desprovido.
+VOTO
+O Agravo Interno busca a reforma da decisão que indeferiu liminarmente a reclamação, alegando necessidade de controle sobre a aplicação da jurisprudência do STJ acerca da concessão de assistência judiciária gratuita pela Turma Recursal estadual.
+A insurgência não merece guarida, porquanto em manifesta contraposição à jurisprudência mansa e pacífica desta Corte Superior, no sentido de que "" a  reclamação (art. 105, I, f, da Constituição da República) tem por finalidade tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal" (AgInt na Rcl 36.756/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 20/8/2019, DJe 23/8/2019)" (AgInt na Rcl n. 47.407/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 15/10/2024, DJe de 18/10/2024). No mesmo sentido, ilustrativamente:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECLAMAÇÃO CONTRA ACÓRDÃO DE TURMA RECURSAL. ALEGAÇÃO DE CONTRARIEDADE À ORIENTAÇÃO JURISPRUDENCIAL DO STJ. NÃO CAMBIMENTO. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação, prevista no art. 988 do CPC, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+III - Incabível o ajuizamento de reclamação para discutir eventual contrariedade a entendimento jurisprudencial do STJ no julgamento de recurso inominado, no âmbito dos Juizados Especias da Fazenda Pública, porquanto a Lei n. 12.153/2009 prevê procedimento específico.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgInt na Rcl n. 46.734/SP, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 24/4/2024, DJe de 2/5/2024; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
