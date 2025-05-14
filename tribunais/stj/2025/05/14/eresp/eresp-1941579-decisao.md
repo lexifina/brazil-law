@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de divergência manejados por REINALDO OLIVEIRA FONSECA contra acórdão prolatado pela e. Terceira Turma, Rel. Min. Ricardo Villas Bôas Cueva, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ALTERAÇÃO DO REGULAMENTO DE BENEFÍCIOS. MAJORAÇÃO DO PERCENTUAL DE CONTRIBUIÇÃO. NEGÓCIO JURÍDICO. VÍCIO DE CONSENTIMENTO. ANULAÇÃO. DECADÊNCIA. 1. A jurisprudência do Superior Tribunal de Justiça, ao apreciar casos idênticos ao dos autos, firmou orientação no sentido de que a pretensão que tem como pressuposto a anulação, por vício de consentimento, de contrato ou transação extrajudicial, está sujeita ao prazo decadencial de 4 (quatro) anos, previsto no art. 178, § 9º, V, alínea "b", Código Civil de 1916, vigente à época dos fatos, correspondente ao art. 178, II, do Código Civil de 2002.
+2. Agravo interno não provido.
+Nas razões do presente apelo recursal indica-se dissídio em relação aos seguintes julgados: Agint no Edcl no AREsp 1.902658/PB, Rel. Min. João Otávio de Noronha, Dje de 16/9/2024; Agint no Agint no AREsp 2.287.898/PE, Rel. Min. Marco Aurélio Bellizze, DJe de 21/8/2023; Agint no REsp 2.091.525/DF, Rel. Min. Marco Aurélio Bellizze, DJe de 04/3/2024.
+Argumenta o recorrente, em síntese, que "(..) se aplica o teor da Súmula 291 deste Superior, não havendo que se falar em não preservação do fundo de direito."
+Requer, assim, o provimento da insurgência a fim de reformar o acórdão impugnado. (fls. 971/1027)
+É o relatório.
+Decisão.
+A insurgência recursal não merece prosperar.
+1. Inicialmente, cumpre ressaltar que, nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+Na hipótese em apreço, o acórdão ora embargado proferido pela eg. Terceira Turma concluiu, em sintonia com a jurisprudência da Casa, que a pretensão que tem como pressuposto a anulação, por vício de consentimento, de contrato ou transação extrajudicial, está sujeita ao prazo decadencial de 4 (quatro) anos, previsto no art. 178, § 9º, V, alínea "b", Código Civil de 1916, vigente à época dos fatos, correspondente ao art. 178, II, do Código Civil de 2002.
+Nessa linha, confiram-se: AgInt no AREsp 2.471.728/BA, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 4/11/2024, DJEN de 29/11/2024; REsp nº 1.201.529/RS (Rel. p/ acórdão Ministra Maria Isabel Gallotti, Segunda Seção, D Je de 1º/6/2015), AgInt no REsp nº 1.838.142/RJ (Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020), AgInt no AgInt no AREsp nº 864.469/RJ (Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, D Je de 27/9/2019), AgInt no AgInt no AREsp nº 858.426/RJ (Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/4/2018), AgInt no AgInt nos EDcl no REsp nº 1.042.830/RJ (Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1º/8/2017), e AgInt no REsp nº 1.686.592/RJ (Rel. Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, DJe de 4/12/2017).
+Incide, pois, ao caso dos autos, o enunciado da Súmula 168/STJ porquanto o acórdão embargado encontra-se em harmonia com a jurisprudência desta STJ.
+2. Do exposto, com fundamento nos arts. 34, inc. XVIII e 266, indefiro liminarmente os presentes embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
