@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, alguns dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Não logrando êxito o presente recurso e, por conseguinte, ficando mantida a decisão de não conhecimento do agravo em recurso especial, é incabível o exame da matéria veiculada no recurso especial não admitido.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NILZA CALDEIRA DE SOUSA contra decisão da Presidência do Superior Tribunal de Justiça, por meio da qual não foi conhecido o respectivo agravo em recurso especial (fls. 231-232).
+Consta dos autos que o Juízo de primeiro grau julgou improcedente o pedido de concessão de aposentadoria rural por idade.
+Interposto recurso de apelação, a Corte de origem negou-lhe provimento, nos termos do acórdão de fls. 147-152, rejeitando os subsequentes embargos de declaração.
+No recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, a recorrente alegou divergência jurisprudencial e ofensa aos arts. 1.022, inciso I, do CPC, aduzindo negativa de prestação jurisdicional, bem como aos arts. 55, § 3º, e 106, da Lei n. 8.213/1991, alegando que os documentos acostados aos autos evidenciam o alegado exercício de labor rural.
+O apelo nobre foi inadmitido na origem (fls. 216-217), advindo o agravo nos próprios autos (fls. 220-225), o qual não foi conhecido pela decisão ora agravada, diante do óbice da Súmula n. 182 do STJ.
+Neste agravo interno, a recorrente alega, em síntese, que (fls. 239-244):
+ ..  o recurso fora interposto em consonância com o princípio da dialeticidade recursal, isto é, a impugnação foi realizada de forma efetiva, concreta e pormenorizada, não havendo se falar em alegações genéricas.  ..
+À despeito do entendimento do n. Relator, o acórdão recorrido não deu a adequada qualificação jurídica aos fatos, merecendo reforma. Repisa-se, o dispositivo do art. 1022 do CPC não foi respeitado pelo órgão julgador. Não se trata, na espécie, de rever o contexto fático-probatório, vedado ante o teor da Súmula 7, isto porque, conforme destacado alhures, a recusa na integração do aresto com os consequentes debates da matéria legal e na caracterização dos elementos de fato aptos a ensejar a aplicabilidade da lei, em grau de recurso especial, por esta e. Corte Especial de Justiça, constitui-se em negativa de prestação jurisdicional, com ofensa ao direito subjetivo da parte embargante e violação ao art. 1022, II, do CPC, norma deferitória do direito ora brandido.
+Pleiteia a reconsideração da decisão agravada ou a submissão do presente recurso à análise do órgão colegiado, para que seja provido o recurso e reconhecida a existência de início de prova material do alegado exercício de atividade rural.
+Não foi apresentada resposta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, alguns dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Não logrando êxito o presente recurso e, por conseguinte, ficando mantida a decisão de não conhecimento do agravo em recurso especial, é incabível o exame da matéria veiculada no recurso especial não admitido.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+O TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO não admitiu o apelo nobre com esteio na seguinte fundamentação: a) ausência de afronta ao art. 1.022 do CPC; b) incidência da Súmula n. 7 do STJ; e c) deficiência de cotejo analítico (fls. 216-217).
+Todavia, conforme assinalado na decisão ora atacada, a parte agravante, no agravo em recurso especial, deixou de se insurgir, especificamente, contra a fundamentação atinente à inexistência de contrariedade ao art. 1.022 do CPC e à ausência de cotejo analítico.
+Nessas condições, são aplicáveis o comando normativo contido no art. 932, inciso III, do CPC/2015, bem como a Súmula n. 182 do STJ, litteris: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  2. Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ.  ..  4. Agravo interno não provido. (AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..  5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. 6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+R essalto que a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quai s a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Por fim, não logrando êxito o presente recurso e, por conseguinte, ficando mantida a decisão de não conhecimento do agravo em recurso especial, é incabível o exame da matéria veiculada no recurso especial não admitido.
+Ilustrativamente:
+ ..  V - Por fim, conforme entendimento desta Corte, "não tendo o recurso ultrapassado o juízo de admissibilidade, não pode a matéria de mérito ser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo" (STJ, AgInt no REsp n. 1.814.371/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/9/2020).
+VI - Agravo interno improvido (AgInt no AREsp n. 1.996.227/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/5/2022, DJe 2/6/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
