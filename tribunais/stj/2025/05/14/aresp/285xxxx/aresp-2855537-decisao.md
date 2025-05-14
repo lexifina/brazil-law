@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE ALEXANDRE GALIACO ROIZ contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 539/540):
+"APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM COM PEDIDO DE URGÊNCIA. DESLIZAMENTO DE TERRA. QUEBRA DE CONTENÇÃO. QUEDA DE MATERIAIS E ESTRUTURAS DE TERRENOS VIZINHOS. AUSÊNCIA DE ATO ILÍCITO QUE POSSA SER IMPUTADO A TERCEIROS. CHUVAS INTENSAS QUE OCASIONOU A RUPTURA DE MURO DE CONTENÇÃO. CASO FORTUITO. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. EXERCÍCIO DO DIREITO AO DUPLO GRAU DE JURISDIÇÃO. SENTENÇA MANTIDA. APELO CONHECIDO E NÃO PROVIDO. Caso em que as provas técnicas produzidas nos autos, analisadas em conjunto, evidenciam que os danos no imóvel do Autor foram ocasionados por intensas chuvas que acabaram por saturar o solo e romper estrutura de contenção que construiu. Inexistindo provas de ato ilícito que possa ser imputado aos Réus, vez que não foram identificados danos nas estruturas das edificações que tenham contribuído para a ruptura da contenção e deslizamento da terra, não há como condená-los no dever de indenizar. Não age de má-fé aquele que, mesmo não logrando êxito em sua ação e recurso, exerce de forma legítima o direito ao duplo grau de jurisdição. Sentença mantida. Apelo não provido."
+Rejeitados os embargos de declaração opostos (fls. 621/651).
+No recurso especial, a parte recorrente alega violação d o art. 477 do CPC, sustentando que não foram analisados os argumentos do laudo e da impugnação do assistente de perícia, sendo considerado somente o laudo vago do perito judicial; e que as provas dos autos apontam para a responsabilidade da parte agravante, pelos desabamentos ocorridos.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 702/706).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 708/715), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 743/747).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa ao art. 477 do CPC e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices na Súmula 282 E 356/STF.
+Ademais, também quanto à alegação de afronta ao referido artigo, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar o artigo de lei que entende violado sem, todavia, cotejar e explicitar os motivos pelos qual o comando normativo deixou de ser aplicado.
+Tampouco a argumentação trazida no recurso é coerente com o artigo indicado, o que atrai os preceitos da Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF." (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+"A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).  ..  "(AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, §11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 16% sobre o valor da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ART. 477 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. ART. 284/STF. AGRAVO IMPROVIDO. DECISÃO DE ADMISSIBILIDADE MANTIDA.
