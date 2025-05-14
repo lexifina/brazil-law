@@ -1,0 +1,29 @@
+DECISÃO
+GIOVANA MARQUES DOS SANTOS alega sofrer coação em seu direito de locomoção em face de acórdão do Tribunal Regional Federal da 4ª Região no HC n. 5000204-33.2025.4.04.0000/PR.
+A defesa argumenta que a manutenção da medida cautelar diversa da prisão, consistente na monitoração eletrônica, é desproporcional e desnecessária, uma vez que a investigação transcorre há quase um ano, sem perspectiva de encerramento. Afirma, ainda, que tem sua liberdade mitigada, que o monitoramento eletrônico deve servir exclusivamente para assegurar o regular andamento do processo penal e que a paciente demonstrou sua capacidade de atender às exigências judiciais.
+Foram prestadas informações pelo Tribunal de origem (fls. 410-412) e pelo Juízo de primeiro grau (fls. 414-416).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, no mérito, pela denegação da ordem (fls. 419-422).
+Decido.
+I. Cautelares diversas e monitoramento eletrônico
+As medidas cautelares diversas da prisão preventiva não decorrem, automaticamente, da existência de procedimento de investigação ou do oferecimento da denúncia. Com base em critérios de necessidade e de adequação, elas se destinam a proteger os meios ou os fins do processo. Em razão de seu caráter instrumental e de urgência, têm de estar lastreadas em situações de risco atuais ou iminentes, geradas pelo estado de plena liberdade do acusado.
+O raciocínio do art. 313, § 2º, do CPP é aplicável a todas as cautelares, que não serão admitidas com a finalidade de antecipação do cumprimento de pena.
+De acordo com o art. 282 do CPP, as providências previstas no Título IX, aí incluídas não somente a prisão preventiva mas também aquelas elencadas no art. 319 do CPP, "deverão ser aplicadas observando-se a necessidade para a aplicação da lei penal, para a investigação ou a instrução criminal, e, nos casos expressamente previstos, para evitar a prática de infrações penais".
+Portanto, "não se trata de usar tais medidas quando não estiverem presentes os fundamentos da prisão preventiva. Nada disso. São medidas cautelares e, portanto, exigem a presença do fumus commissi delicti e do periculum libertatis, não podendo, sem eles, ser impostas" (LOPES JR., Aury. Prisões cautelares. 4 ed. SP: Saraiva, 2013, p. 177).
+No caso dos autos, a Corte local, em 3/9/2024, ao conceder a ordem no Habeas Corpus n. 5030795-12.2024.4.04.0000, decidiu pela concessão da liberdade provisória, com a fixação de cautelares diversas, entre elas a monitoração eletrônica (fls. 154-158).
+A paciente, porém, afirma a sua desnecessidade e desproporcionalidade em novo writ apresentado no Tribunal de origem, o ora apontado n. 5000204-33.2025.4.04.0000/PR, no qual se firmou que a medida era razoável e que não haveria excesso de prazo: (fls. 6-12, grifei):
+ ..
+A defesa interpõe o agravo regimental por entender que esta Turma deve conhecer e analisar o pleito de retirada do monitoramento eletrônico, o qual foi imposto por esta 7ª Turma há cerca de dois meses, alegando que nesse período tem cumprido religiosamente com o determinado.
+Ocorre que cumprir com as determinações judiciais não é nada mais do que a obrigação da monitorada que, em não o fazendo, poderia ficar sujeita à prisão preventiva, uma vez que foi flagrada traficando 5,35 kg de HAXIXE, devendo ter consciência da gravidade de sua conduta.
+Sobre as adaptações ao monitoração eletrônico na vida cotidiana, certamente se trata de decorrência natural da condição em que se encontra a investigada, não ensejando adequação do Poder Judiciário, mas sim das atitudes da monitorada.
+ ..
+A despeito das alegações defensivas, não constato ilegalidade nas decisões do Tribunal de origem. A análise minuciosa dos elementos constantes dos autos demonstra que as medidas cautelares impostas à paciente estão adequadas e proporcionais à gravidade concreta do crime imputada.
+A paciente foi presa em flagrante delito em 28/8/2024, quando abordada, na condição de passageira, no interior de um veículo em que eram transportados cerca de 5,35 kg de haxixe, e foi apontada pelos policiais como responsável pelo entorpecente, na cidade de Foz do Iguaçu, conhecida pela fronteira entre o Paraguai e a Argentina.
+O monitoramento eletrônico, combinado com a proibição de saída do território nacional, revela-se adequado e proporcional. Enquanto o monitoramento possibilita o acompanhamento de eventuais deslocamentos suspeitos que possam indicar tentativa de evasão, a proibição de saída do território nacional, na mesma medida, é apropriada às condições fronteiriças da cidade.
+A alegada primariedade e a residência fixa, embora relevantes, não se mostram suficientes para afastar as cautelares quando confrontadas com elementos concretos que apontam envolvimento em delitos graves.
+A medida cautelar de monitoramento eletrônico mostra-se vantajosa quando comparada à prisão preventiva, além de não impedir, de modo desproporcional, o exercício da atividade profissional e particulares da vida cotidiana - tanto que fixado um raio de três quilômetros para locomoção. Eventuais limitações à livre circulação são inerentes ao instituto da liberdade provisória, que requer a imposição de certas restrições para garantir razoável grau de vinculação à persecução penal.
+Diante de todo o exposto, considero devidamente fundamentada a aplicação das medidas cautelares em análise.
+Por fim, não prospera a menção de ilegalidade pelo prazo entre a utilização da monitoração e o trâmite processual. Conforme a informação do Juízo de primeiro grau (fls. 414-416), a denúncia foi ofertada em 17/3/2025 e aguarda-se a notificação e apresentação de defesa preliminar, para realizar-se juízo de sua admissibilidade. Dessa maneira, os autos não estão paralisados, como a inicial deste writ menciona, em prejuízo à contemporaneidade da medida cautelar vigente.
+III. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
