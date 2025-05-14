@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 1.017/1.018):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. REAFIRMAÇÃO DA DER. POSSIBILIDADE. TEMPO ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. TEMAS 810 DO STF E 905 DO STJ. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 76 TRF4. ARTIGO 85 CPC. CUSTAS PROCESSUAIS. ISENÇÃO.
+1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+2. Comprovado o tempo de serviço/contribuição suficiente e implementada a carência mínima, é devida a aposentadoria por tempo de serviço/contribuição, a contar da data de entrada do requerimento administrativo, nos termos dos artigos 54 e 49, inciso II, da Lei 8.213/1991, bem como efetuar o pagamento das parcelas vencidas desde então.
+3. É possível a reafirmação da DER para o momento em que restarem implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos artigos 493 e 933 do CPC/2015, observada a causa de pedir.
+4. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação do IGP-DI de 05/96 a 03/2006, e do INPC, a partir de 04/2006.
+5. Os juros de mora devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1% (um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta de poupança.
+6. Quando a concessão do benefício ocorre mediante reafirmação da DER, os juros de mora deverão ser calculados a contar da data da reafirmação (Incidente de Assunção de Competência, TRF4, processo nº 50079755.2013.4.04.7003, 5ª Turma, Relator Desembargador Paulo Afonso Brum Vaz, juntado aos autos em 18/4/2017).
+7. Custas processuais e honorários advocatícios divididos em igual proporção, em face da recíproca sucumbência, fixados em conformidade com o disposto na Súmula 76 deste Tribunal e de acordo com a sistemática prevista no artigo 85 do Código de Processo Civil de 2015.
+8. A parte autora é isenta do pagamento das custas processuais por força do benefício da AJG previamente concedido e a Autarquia é isenta quando demandada na Justiça Federal e na Justiça do Estado do Rio Grande do Sul.
+Os primeiros embargos de declaração opostos foram acolhidos em parte, nos seguintes termos (fls. 1.087/1.088):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE. INTEGRAÇÃO DO JULGADO. CABIMENTO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC, artigo 1.022, incisos I a III).
+2. Embargos parcialmente acolhidos para sanar omissão quanto à inclusão/retificação dos salários atinentes aos períodos de 01/1999 a 10/1999 para fins de apuração da RMI do benefício e para agregar fundamentos quanto à fixação dos honorários advocatícios e quanto à suspensão da exigibilidade em relação ao pagamento dos honorários advocatícios, em virtude do benefício de gratuidade de justiça concedido à parte autora.
+Os segundos e os terceiros embargos de declaração não foram conhecidos em razão da preclusão consumativa (fls. 1.143/1.146 e 1.175/1.181).
+Nas razões de seu recurso (fls. 1.110/1.117), o INSS alega violação dos arts. 85, caput, 927, III, e 1.022 do Código de Processo Civil (CPC), 389, 394, 395 e 396 do Código Civil (CC).
+Defende, em suma, que:
+(a) houve negativa de prestação jurisdicional;
+(b) deve ser afastada a condenação ao pagamento de honorários advocatícios;
+(c) deve ser afastada "a aplicação de juros moratórios nos termos acima expostos ou, alternativamente, fixá-los a partir da data do reconhecimento do direito caso esta seja posterior a citação do INSS" (fl. 1.117).
+A parte adversa apresentou contrarrazões (fls. 1.206/1.209).
+O recurso foi admitido na origem (fls. 1.219/1.222).
+É o relatório.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto aos honorários advocatícios, o Tribunal de origem assim se manifestou (fls. 1.044/1.045):
+Honorários advocatícios e custas processuais
+Os honorários advocatícios devem ser fixados no patamar mínimo de cada uma das faixas de valor, considerando as variáveis previstas nos incisos I a IV do § 2º e § 3º do artigo 85 do CPC/2015, incidente sobre as parcelas vencidas até a data do acórdão (Súmulas 111 do Superior Tribunal de Justiça e 76 do Tribunal Regional Federal da 4ª Região).
+No caso dos autos, considero que as partes sucumbiram em parcelas equivalentes, pois reconhecido o direito à aposentadoria e rechaçado o pleito indenizatório por danos morais (valor da causa R$ 58.341,88 e valor indenização por danos morais R$ 29.170,94, conforme petição inicial).
+Desse modo, fixo os honorários advocatícios no patamar mínimo de cada uma das faixas de valor, considerando as variáveis contidas nos incisos I a IV do § 2º e § 3º do artigo 85 do CPC/2015, incidente sobre as parcelas vencidas até a data do presente acórdão (Súmulas 111 do STJ e 76 deste Tribunal), distribuído na proporção de 50% para cada parte, vedada a compensação, nos termos do artigo 85, § 4º, inciso III, combinado com o artigo 86, ambos do CPC/2015.
+Caso o valor da condenação/atualizado da causa apurado em liquidação do julgado venha a superar o valor de 200 salários mínimos previsto no § 3º, inciso I, do artigo 85 do CPC/2015, o excedente deverá observar o percentual mínimo da faixa subsequente, assim sucessivamente, na forma do §§ 4º, inciso III e 5º do referido dispositivo legal.
+Registro, por oportuno, que o novo CPC não inovou nas regras que justificaram a tradicional jurisprudência sobre o termo final da base de cálculo dos honorários nas ações previdenciárias, havendo compatibilidade entre ambos.
+Custas por metade, suspensa a execução quanto à parte autora, em face da assistência judiciária gratuita previamente deferida (evento 6, DESP1) e quanto a Autarquia, por força do estabelecido artigo 4º, inciso I, da Lei 9.289/1996.
+Entendimento diverso, conforme pretendido, acerca da sucumbência, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MULTA MORATÓRIA. REDUÇÃO. LEI MAIS BENÉFICA. RETROAÇÃO. MATÉRIA DE ORDEM PÚBLICA. INEXISTÊNCIA. ÔNUS DA SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME DE PROVAS. INVIABILIDADE.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, as matérias de ordem pública podem ser alegadas em qualquer grau de jurisdição e apresentam-se cognoscíveis de ofício pelo magistrado, ou seja, independem de manifestação da parte para que sejam examinadas. Em se tratando de retroatividade de lei mais benéfica com a finalidade de reduzir a multa moratória, sobressai o caráter eminentemente patrimonial do debate, a depender de provocação da parte interessada.
+2. O Superior Tribunal de Justiça tem entendido incabível, em recurso especial, a aferição do grau de sucumbência para fins de fixação da verba honorária, porquanto demandaria o reexame de provas, providência que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.759.434/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024, sem destaque no original.)
+Quanto aos juros de mora, o INSS requer que "o termo inicial  ..  deve ser fixado a partir da data do reconhecimento do direito, tendo em vista o disposto nos artigos 389 e 394 do Código Civil" (fl. 1.117).
+O Tribunal de origem assentou que (fl. 1.044):
+Quanto aos juros de mora, devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1% (um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta de poupança, conforme dispõe o artigo 5º da Lei 11.960/2009, que deu nova redação ao artigo 1º-F da Lei 9.494/1997, considerado constitucional pelo STF (RE 870.947, com repercussão geral).
+No caso em apreço, o benefício foi concedido por meio de reafirmação da DER, logo, os juros de mora deverão incidir a contar da data da reafirmação da DER, conforme definido pela 3ª Seção deste Tribunal, em Incidente de Assunção de Competência (TRF4 50079755.2013.4.04.7003, 5ª Turma, Relator Desembargador Paulo Afonso Brum Vaz, juntado aos autos em 18/4/2017).
+Portanto, está prejudicado o pedido.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte , a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
