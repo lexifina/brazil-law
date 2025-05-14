@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por STONE SOCIEDADE DE CRÉDITO DIRETO S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Recurso especial interposto em: 25/9/2024.
+Concluso ao gabinete em: 11/4/2024.
+Ação: de revisão contratual, ajuizada por ALCINDO NUNES VARGAS BAR EIRELI em face da recorrente.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para declarar a abusividade da taxa de juros remuneratórios previstas na Cédula de Crédito Bancário, quais sejam, 4.49% a.m. e 53,88% a.a. reduzindo-a para 0,94% a.m. e 11,90% a.a. em conformidade com a taxa média de juros divulgada pelo BACEN na época da contratação, em consonância com a pesquisa efetuada junto ao sítio da Instituição, com a devida compensação de valores pagos indevidamente junto àqueles que são devidos decorrentes do contrato em questão, ou restituição em caso de eventual quitação do contrato, devendo se dar de forma simples, e, ainda, declarar que a capitalização de juros deve atrelar aos juros remuneratórios acima reconhecidos, com a devida compensação de valores pagos indevidamente junto àqueles que são devidos decorrentes do contrato em questão, ou restituição em caso de eventual quitação do contrato, devendo se dar de forma simples.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL - PRELIMINARES DE INCOMPETÊNCIA DO JUÍZO, ILEGITIMIDADE PASSIVA E INÉPCIA DA INICIAL - REJEITADAS - JUROS REMUNERATÓRIOS - TAXA MÉDIA DE MERCADO - ABUSIVIDADE CONFIGURADA. Cumpre validar a competência do foro de domicilio do consumidor em detrimento da cláusula de eleição de foro prevista no contrato, por força de aplicação do artigo 101, I, do Código de Defesa do Consumidor" (AC 1.0000.22.178554-6/001). De acordo com a teoria da asserção, acolhida pela jurisprudência do Superior Tribunal de Justiça para a verificação das condições da ação, o reconhecimento da legitimidade passiva ad causam exige que os argumentos deduzidos na inicial possibilitem a inferência, ainda que abstratamente, de que o réu possa ser o sujeito responsável pela violação do direito subjetivo invocado pelo autor (Precedentes STJ). Somente se verificada flagrante abusividade por parte da instituição financeira, com taxa muito acima da realidade do mercado à época da contratação, será possível alterar o que foi livremente pactuado. Esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos (AR Esp 1491654).
+Recurso especial: aponta violação aos arts. 2º, 3º e 29 do CDC, alegando a inaplicabilidade do CDC, ante a ausência de relação de consumo, bem como a existência de dissídio jurisprudencial, se insurgindo contra a limitação dos juros à taxa média, defendendo a inaplicabilidade da Lei de Usura à hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 2º, 3º e 29 do CDC, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 282/STF.
+- Da fundamentação deficiente
+Outrossim, no que se refere ao dissídio jurisprudencial, observa-se que o conteúdo normativo dos arts. 2º, 3º e 29 do CDC, apontados como violados nas razões do recurso especial, não dão suporte à tese jurídica exposta - limitação dos juros à taxa média -, o que atrai a incidência do óbice previsto na Súmula 284/STF.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 2% (dois por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de revisão contratual.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. Recurso especial não conhecido.
