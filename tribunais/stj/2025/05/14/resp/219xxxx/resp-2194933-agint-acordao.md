@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. DIFAL-ICMS. TEMA N. 1.093 DA REPERCUSSÃO GERAL. NÃO CABE AO STJ EMITIR JUÍZO A RESPEITO DOS LIMITES DO QUE FOI JULGADO NO PRECEDENTE EM REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+I - Na origem, trata-se de mandado de segurança impetrado por Riquena Neto Ar Condicionado Ltda. contra o Coordenador Geral de Receita Estadual da Secretaria de Estado de Finanças de Rondônia, questionando a exigência do Diferencial de Alíquota do ICMS.
+II - Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+III - A aferição da aplicabilidade da modulação dos efeitos do julgado do qual decorreu o tema 1093 do STF, impõe a necessidade de interpretar os parâmetros constitucionais utilizados, o que é inviável em sede de recurso especial, sob pena de usurpar a competência do Excelso Pretório. Sobre o assunto confiram-se: (AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024 e AgInt no REsp n. 2.090.322/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.)
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno contra monocrática que decidiu recurso especial interposto por Riquena Neto Ar Condicionado Ltda., com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado de Rondônia, nos termos assim ementados:
+Apelação em mandado de segurança. Tributário. Diferencial de alíquota tributária. Exigência. Legislação vigente. O recolhimento da diferença de ICMS entre a alíquota interna e a interestadual nas operações que destinem bens, mercadorias ou serviços a consumidor final são devidos quando amparados por lei. Recurso a que se nega provimento.
+Na origem, trata-se de mandado de segurança impetrado por Riquena Neto Ar Condicionado Ltda. contra o Coordenador Geral de Receita Estadual da Secretaria de Estado de Finanças de Rondônia, questionando a exigência do Diferencial de Alíquota do ICMS.
+Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+No recurso especial, Riquena Neto Ar Condicionado Ltda. alega ofensa aos arts. 489, §1º, VI, 1.022, II e parágrafo único, I, 927, I e III e 1.040, todos do CPC e 28, parágrafo único, da Lei n. 9.868/1999, bem como ao entendimento firmado pelo Tema 1093/STF.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. o acórdão não está levando em consideração a tese fixada pelo STF (Tema 1.093 e ADI 5469), para julgar a inexigibilidade do tributo, portanto incorrendo na concreta violação do art. 927, I e III do CPC. Assim, esse artigo sendo retirado do Código de Processo Civil, é clara matéria infraconstitucional, cabendo análise meritória pelo E. STJ do recurso especial interposto pela agravante.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. DIFAL-ICMS. TEMA N. 1.093 DA REPERCUSSÃO GERAL. NÃO CABE AO STJ EMITIR JUÍZO A RESPEITO DOS LIMITES DO QUE FOI JULGADO NO PRECEDENTE EM REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+I - Na origem, trata-se de mandado de segurança impetrado por Riquena Neto Ar Condicionado Ltda. contra o Coordenador Geral de Receita Estadual da Secretaria de Estado de Finanças de Rondônia, questionando a exigência do Diferencial de Alíquota do ICMS.
+II - Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+III - A aferição da aplicabilidade da modulação dos efeitos do julgado do qual decorreu o tema 1093 do STF, impõe a necessidade de interpretar os parâmetros constitucionais utilizados, o que é inviável em sede de recurso especial, sob pena de usurpar a competência do Excelso Pretório. Sobre o assunto confiram-se: (AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024 e AgInt no REsp n. 2.090.322/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.)
+IV - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+A aferição da aplicabilidade da modulação dos efeitos do julgado do qual decorreu o tema 1093 do STF, impõe a necessidade de interpretar os parâmetros constitucionais utilizados, o que é inviável em sede de recurso especial, sob pena de usurpar a competência do Excelso Pretório.
+Sobre o assunto confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIFAL-ICMS E FECP. TEMA 1.093 DA REPERCUSSÃO GERAL. NÃO CABE AO STJ EMITIR JUÍZO A RESPEITO DOS LIMITES DO QUE FOI JULGADO NO PRECEDENTE EM REPERCUSSÃO GERAL DO SUPREMO TRIBUNAL FEDERAL PARA AFERIR SE A CORTE A QUO APLICOU CORRETAMENTE A MODULAÇÃO DOS EFEITOS DAQUELE JULGADO. PRECEDENTES. PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. VIOLAÇÃO DO ART. 927, I E III, DO CPC. SÚMULA N. 211/STJ. FECP. SÚMULAS N. 280 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia restou examinada sob a ótica de fundamentos constitucionais, de forma que é inviável a análise da matéria em sede de especial sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Não é possível, em sede de recurso especial, aferir se houve a correta aplicação, pelo tribunal de origem, do entendimento firmado pelo STF no Tema 1.093 da repercussão geral. A Corte de Origem apenas aplicou o precedente ao caso concreto, interpretando-o consoante a sua compreensão dos parâmetros constitucionais eleitos pelo Supremo Tribunal Federal. À toda evidência, a Corte de Origem pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional. Já este Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte, nem mesmo a pretexto de ofensa ao art. 927 do CPC, emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional. A propósito: AgInt no AREsp 1.528.999/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 5.9.2019, DJe 16.9.2019; AgInt no AREsp 1.643.657/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; AgInt nos EDcl no AREsp 1.972.416/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 06/06/2022.
+3. No que diz respeito ao Fundo de Combate à Pobreza (FECP), a parte deixou de indicar dispositivo apto a amparar a pretensão recursal no ponto, razão pela qual incide o óbice da Súmula n. 284/STF. Ainda que assim não fosse, a questão do FECP foi examinada na origem à luz do art. 13-A da Lei Estadual n. 8.820/89 (e-STJ fl. 292), de forma que o conhecimento da matéria também esbarra na Súmula n. 280/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. DIFAL-ICMS. DISCUSSÃO SOBRE A MODULAÇÃO DOS EFEITOS DA DECISÃO DA SUPREMA CORTE E APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE. LC 190/2022. QUESTÃO DECIDIDA NA ORIGEM À LUZ DA LEGISLAÇÃO LOCAL E DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. REVISÃO. NÃO CABIMENTO. COMPETÊNCIA DO STF.
+1. A Corte local assim se manifestou: "(..) Em razão da promulgação da Lei Complementar Federal nº 190/2022, que regulamentou a cobrança do DIFAL a nível nacional, e da Lei Estadual nº 17.470/2021, que o fez a nível estadual, a cobrança será exigível quando do início da eficácia de suas disposições, questão objeto das ADIs nº 7066,7070 e 7075 em trâmite no C. Supremo Tribunal Federal" (fls. 468-470, e-STJ).
+2. A controvérsia foi decidida à luz da legislação local (Lei estadual 17.470/2021 do Estado de São Paulo) e de fundamentos eminentemente constitucionais, matérias insuscetíveis de serem examinadas em Recurso Especial.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 2.090.322/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
