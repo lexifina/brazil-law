@@ -1,0 +1,44 @@
+DECISÃO
+LUIZ CARLOS BANDEIRA RODRIGUES alega ser vítima de constrangimento ilegal em sua liberdade de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia no HC n. 0810996-98.2024.8.22.0000.
+O impetrante juntou aos autos cópia integral da denúncia.
+Remeto ao relatório lançado na decisão de fls. 260-261 e a reconsidero. Contudo, ainda que instruído minimamente o processo, assevero que o recurso não deve seguir por outro motivo, o desrespeito ao princípio da dialeticidade.
+O acórdão recorrido assim expôs os fundamentos, no que interessa (fls. 128-134, grifei):
+ ..
+Em relação ao conhecimento do Habeas Corpus, conforme decisão de liminar ID 24829185, este habeas corpus foi distribuído com a este Relator porque já havia sido impetrado anteriormente outro Habeas Corpus com o n. 0800078-35.2024.8.22.0000, em favor do paciente. As condições pessoais do paciente, bem como a falta dos requisitos presentes no art. 312 do CPP e que o paciente não é o autor dos fatos a ele imputados nos autos de origem, alegado pelo impetrante, já foram objetos de análise por ocasião do julgamento do habeas corpus n. 0800078-35.2024.8.22.0000.
+Desta forma, não foi conhecido em relação aos pedidos acima referido, conhecendo apenas das preliminares e do alegado excesso de prazo em razão da suposta demora estatal na produção do caderno acusatório.
+PRELIMINAR - Do não atendimento das regras de prevenção.
+Assevera que não houve atendimento das regras de prevenção, pois a Magistrada da 1ª Vara de Delitos Tóxicos, de acordo com as regras da Prevenção (art. 83 do CPP), não poderia ter redistribuído os autos à 2ª Vara, haja vista, que já havia antecedido ao Douto Magistrado da 2ª Vara de Delitos de Tóxicos da Comarca de Porto Velho - RO, na prática de vários atos do processo, bem como, de medidas a este relativa, como por exemplo: medida cautelar de interceptação das comunicações telefônicas (processo n. 0000336-98.2022.8.22.0501).
+Aduz, violação do princípio do Juiz Natural, vez que, a Magistrada da 1ª Vara de Delitos de Tóxicos da Comarca de Porto Velho - RO, antecedeu ao Douto Magistrado da 2ª Vara de Delitos de Tóxicos da Comarca de Porto Velho - RO, na prática de atos do processo.
+Na hipótese, a ação penal foi inicialmente encaminhada à 1ª Vara de Delitos de Tóxicos, que posteriormente redistribuiu o processo para a 2ª Vara de Delitos de Tóxicos, por ser esta o juízo prevento, em razão da prévia distribuição da medida cautelar de prisão preventiva, busca e apreensão, entre outros procedimentos (7031438-30.2023.8.22.0001 - 2ª VCR).
+Atualmente, a jurisprudência tem racionalizado a utilização da via do habeas corpus, dando ênfase e prioridade ao sistema recursal, bem como aos instrumentos próprios para combater as decisões que causam eventual inconformismo à parte, notadamente ao réu, em detrimento deste remédio heroico, reservando-o somente para aquelas hipóteses em que não haver meio apto para sanar o constrangimento.
+ ..
+O entendimento dos Tribunais Superiores é no sentido de não admitir o uso do writ como sucedâneo recursal, sob pena de frustrar a celeridade e desvirtuar a essência desse instrumento constitucional, de modo que não mais admite o manejo do habeas corpus em substituição ao recurso próprio (HC 280216).
+Nesse passo seguindo orientação dos Tribunais Superiores de que o habeas corpus não deve servir como sucedâneo recursal, vez que já foi discutida nos autos principais e, portanto, suscetível de recurso próprio e adequado.
+Desse modo, rejeito a preliminar de nulidade arguida, submetendo-a aos pares.
+MÉRITO - DO EXCESSO DE PRAZO
+ ..
+Conforme pacífica jurisprudência de nossos Tribunais Superiores, os prazos previstos na lei processual penal não devem ser somados de forma aritmética a fim de ser reconhecida coação ilegal à liberdade de locomoção do acusado em razão de eventual excesso, permitindo-se ao juízo, em hipóteses excepcionais, a ultrapassagem desses marcos, o que decorre da aplicação do princípio da razoabilidade. Logo, conforme já exposto, a regra não é absoluta.
+No caso em tela, é possível aferir que eventual demora na instrução do processo se dá em razão de se tratar de ação penal complexa, com 51 (cinquenta e um) réus , vários delitos e fatos delituosos, fazendo-se necessário maior número de diligências visando a produção das necessárias provas judiciais para a formação da convicção do juízo, não havendo o que se falar em inércia por parte da autoridade apontada como coatora.
+Não se pode olvidar que os crimes de tráfico de entorpecentes e associação para o tráfico, bem como organização criminosa e lavagem de capitais, por si sós, são delitos que trazem maiores dificuldades em desvendar suas características e estruturas, muitas vezes complexas e bem divididas, sendo o caso dos autos um exemplo.
+Nesse passo, em face das peculiaridades concretas, o prazo de prisão do paciente ainda está dentro de uma razoabilidade, não podendo, desta maneira, ser considerado elevado, de forma que não existe ilegalidade na prisão cautelar, haja vista que eventual excesso de prazo na formação da culpa é justificado, por se tratar de ação penal complexa.
+Portanto, constato que a ação penal está tramitando regularmente e dentro dos parâmetros razoáveis do processo, sem que se possa acoimar o juízo de inerte, o que afasta a alegação de constrangimento ilegal.
+ ..
+Ressalte-se que em consulta aos autos n. 7023691-63.2022.8.22.0001, houve reavaliação das prisões preventivas na data de 30/09/2024 e além disso, a audiência de instrução e julgamento está designada para 27/01/2025.
+Assim, não se evidencia a alegada ilegalidade praticada pelo juízo a quo.
+Diante do exposto, na parte conhecida, rejeito a preliminar e DENEGO a ordem.
+Da simples leitura da peça de fls. 147-209 vê-se que o impetrante copiou o mesmo texto da petição da impetração inicial, e, por isso mesmo, as razões recursais estão desconectadas do que foi decidido no acórdão recorrido. A parte não refuta os principais fundamentos que levaram ao conhecimento parcial e denegação da ordem na origem, quais sejam, o fato de o writ ter sido manejado como sucedâneo recursal e a inocorrência de excesso da prazo por força da complexidade da ação penal.
+Para recorrer de um ato judicial, é necessário demonstrar que ele contém algum equívoco, seja no entendimento da lei ou na aplicação das normas jurídicas. A ausência de impugnação específica da motivação do acórdão recorrido inviabiliza o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FRAUDE PROCESSUAL E ESTELIONATO. NULIDADE. REITERAÇÃO. ABUSO DO DIREITO DE RECORRER. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, o agravante manejou diversos expedientes processuais nesta Corte em decorrência da Ação Penal n. 0008785-70.2019.8.16.0031, deflagrada em seu desfavor, em razão da prática dos delitos de estelionato e fraude processual (arts. 171, caput, e 347, parágrafo único, ambos do Código Penal).
+4. Não se conheceu da impetração, pois a estratégia adotada pela defesa na utilização de meios impugnativos consecutivamente inadmissíveis sinaliza abuso do direito de recorrer e fere a dignidade da justiça, devendo ser rechaçada.
+5. Em vez de rebatar os fundamentos que impediram o conhecimento da impetração, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do habeas corpus.
+6. Quanto ao agravo de e-STJ fls. 119/123, conforme dispõe o art. 1.001 do Código de Processo Civil, não é cabível agravo regimental contra despachos, por não terem estes conteúdo decisório.
+7. Agravos regimentais não conhecidos (e-STJ fls. 91/103 e 119/123).
+(AgRg no HC n. 957.293/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+No mesmo sentido foi a orientação da eminente Subprocuradora-Geral da República, Dra. Mônica Nicida Garcia, em sua manifestação (fls. 252-258), cujos fundamentos adoto também como razões de decidir.
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
