@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JEFFERSON ANTONIO PINTO DE OLIVEIRA - condenado por lesão corporal qualificada pela condição do sexo feminino a 1 ano, 4 meses e 10 dias de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 12/24), não comporta processamento.
+Com efeito, busca a impetração a alteração do regime inicial fechado para semiaberto - na condenação proferida na Ação Penal n. 1503338-96.2023.8.26.0099 (fls. 29/36, da 2ª Vara Criminal da comarca de Bragança Paulista/SP) -, sustentando que a fundamentação para a aplicação de regime mais gravoso se pautou apenas sobre a suposta reincidência do paciente e suas circunstâncias judiciais (fls. 2/11).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação para agravamento do regime prisional - as circunstâncias judiciais são desfavoráveis e o acusado é reincidente, tudo a indicar que condenações anteriores não bastaram a que se emendasse, havendo a necessidade de maior rigor no início do cumprimento da pena (fl. 22) - está de acordo com o entendimento desta Corte Superior (AgRg no HC n. 955.320/PR, de minha relatoria, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LESÃO CORPORAL QUALIFICADA. REGIME PRISIONAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
