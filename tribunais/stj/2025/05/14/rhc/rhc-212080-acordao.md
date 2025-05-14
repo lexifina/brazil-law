@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito penal. Recurso ordinário em habeas corpus. Falsificação e adulteração de produtos alimentícios. EXAME DE CORPO DE DELITO. NECESSIDADE. Trancamento de inquérito policial. Recurso provido.
+I. Caso em exame
+1. Recurso ordinário em habeas corpus interposto contra os acórdãos do Tribunal de Justiça de Mato Grosso que negaram o trancamento do inquérito policial instaurado para apurar a suposta prática dos crimes de falsificação e adulteração de produtos alimentícios.
+2. O recorrente alega ilegalidade na obtenção de provas devido à entrada dos policiais em seu estabelecimento sem mandado judicial, fundamentada apenas em denúncia anônima, e a perda do objeto a ser investigado pela destruição dos produtos apreendidos sem a realização de perícia técnica.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a entrada dos policiais no estabelecimento do recorrente sem mandado judicial, mas com base em denúncia anônima e diligências preliminares, configura ilegalidade.
+4. Outra questão compreende indagar se a destruição dos vestígios sem a realização de perícia técnica inviabiliza a comprovação da materialidade delitiva, justificando o trancamento do inquérito policial.
+III. Razões de decidir
+5. A entrada dos policiais no estabelecimento do recorrente foi considerada legal, pois decorreu de investigação prévia e diligências preliminares que justificaram a operação.
+6. A destruição dos vestígios sem a realização de perícia técnica impossibilitou a comprovação da materialidade delitiva, tornando inviável a continuidade do inquérito policial.
+IV. Dispositivo e tese
+7. Recurso provido.
+Tese de julgamento: "1. A destruição de vestígios sem realização de perícia técnica quanto ao crime previsto no art. 272, §1º-A do Código Penal inviabiliza a comprovação da materialidade delitiva, justificando o trancamento do inquérito policial".
+Dispositivos relevantes citados: Código Penal, art. 272, §1º-A; Código de Processo Penal, art. 158.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 10/5/2016; STJ, HC 452.760/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 28/6/2018; STJ, RHC 98.395/RJ, Rel. Min. Jorge Mussi, Quinta Turma, DJe 28/6/2018.
+RELATÓRIO
+Trata-se de recurso ordinário interposto por BERNAN CARDOSO DE BRITO (ou BERNAM CARDOSO DE BRITO) contra os acórdãos do TRIBUNAL DE JUSTIÇA DE MATO GROSSO proferidos no HC n. 1035340-68.2024.8.11.0000 e nos subsequentes embargos de declaração, negando o trancamento do Inquérito Policial n. 452.4.2024.28024, instaurado para apurar a suposta prática dos crimes de falsificação e adulteração de produtos alimentícios.
+O recorrente reprisa a tese relativa ao trancamento do inquérito policial, em razão de ilegalidade na obtenção de provas e da perda do objeto a ser investigado.
+Aduz que a polícia teria ingressado em seu estabelecimento industrial sem mandado judicial, fundamentando-se apenas em denúncia anônima, o que configuraria prova ilícita. Além disso, menciona que a diligência não resultou na obtenção de elementos que comprovassem a prática de crime em situação de flagrância.
+Defende a perda superveniente da justa causa, uma vez que o descarte dos produtos apreendidos impossibilitou a comprovação da materialidade delitiva, a qual dependeria de perícia técnica para atestar eventual nocividade à saúde.
+Requer, em liminar, a suspensão das investigações até o julgamento final deste feito. No mérito, busca o provimento do recurso para determinar o trancamento do inquérito policial.
+Em 26/2/2025, indeferi o pedido liminar (fls. 286/287).
+Prestadas as informações (fls. 294/295), o Ministério Público Federal manifestou-se, às fls. 297/304, pelo provimento do recurso, conforme ementa a seguir:
+PENAL e PROCESSUAL PENAL. ROC em habeas corpus. Crime de falsificação e adulteração de produtos alimentícios. Pleito de trancamento do inquérito policial sob a alegação de suposta ilegalidade da diligência realizada no estabelecimento empresarial do investigado. Ausência de ilegalidade da diligência, diante de fundadas suspeitas da prática de crime. Pleito de trancamento do inquérito policial em razão da ausência de perícia nos objetos apreendidos. Cabimento. Infração que deixa vestígios e cuja constatação exige que fique comprovado que o bem era "falsificado, corrompido ou adulterado". Imprescindibilidade do laudo pericial. Destruição dos objetos sem a realização da perícia. Inviabilidade de constatação da materialidade delitiva do delito investigado que autoriza o trancamento do inquérito policial pela via do writ.
+Provimento do recurso.
+É o relatório.
+EMENTA
+Direito penal. Recurso ordinário em habeas corpus. Falsificação e adulteração de produtos alimentícios. EXAME DE CORPO DE DELITO. NECESSIDADE. Trancamento de inquérito policial. Recurso provido.
+I. Caso em exame
+1. Recurso ordinário em habeas corpus interposto contra os acórdãos do Tribunal de Justiça de Mato Grosso que negaram o trancamento do inquérito policial instaurado para apurar a suposta prática dos crimes de falsificação e adulteração de produtos alimentícios.
+2. O recorrente alega ilegalidade na obtenção de provas devido à entrada dos policiais em seu estabelecimento sem mandado judicial, fundamentada apenas em denúncia anônima, e a perda do objeto a ser investigado pela destruição dos produtos apreendidos sem a realização de perícia técnica.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a entrada dos policiais no estabelecimento do recorrente sem mandado judicial, mas com base em denúncia anônima e diligências preliminares, configura ilegalidade.
+4. Outra questão compreende indagar se a destruição dos vestígios sem a realização de perícia técnica inviabiliza a comprovação da materialidade delitiva, justificando o trancamento do inquérito policial.
+III. Razões de decidir
+5. A entrada dos policiais no estabelecimento do recorrente foi considerada legal, pois decorreu de investigação prévia e diligências preliminares que justificaram a operação.
+6. A destruição dos vestígios sem a realização de perícia técnica impossibilitou a comprovação da materialidade delitiva, tornando inviável a continuidade do inquérito policial.
+IV. Dispositivo e tese
+7. Recurso provido.
+Tese de julgamento: "1. A destruição de vestígios sem realização de perícia técnica quanto ao crime previsto no art. 272, §1º-A do Código Penal inviabiliza a comprovação da materialidade delitiva, justificando o trancamento do inquérito policial".
+Dispositivos relevantes citados: Código Penal, art. 272, §1º-A; Código de Processo Penal, art. 158.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 10/5/2016; STJ, HC 452.760/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 28/6/2018; STJ, RHC 98.395/RJ, Rel. Min. Jorge Mussi, Quinta Turma, DJe 28/6/2018.
+VOTO
+A controvérsia centra-se, fundamentalmente, em dois pontos: (i) a legalidade da entrada dos policiais no estabelecimento industrial do recorrente; e (ii) a possibilidade de prosseguimento da investigação após a destruição dos vestígios sem a realização de perícia técnica.
+Quanto ao primeiro ponto, não há ilegalidade a ser reconhecida. A diligência policial, realizada em conjunto com ação de fiscalização da vigilância sanitária, decorreu de investigação prévia, originada em denúncia anônima, mas seguida de diligências preliminares que geraram elementos suficientes para justificar a operação, que visava apreender produtos alimentícios falsificados ou adulterados no estabelecimento industrial do recorrente.
+A propósito, em caso análogo, no qual policiais civis em conjunto com fiscais da vigilância sanitária, dirigiram-se ao estabelecimento comercial  do investigado , após terem sido realizadas diligências preliminares em virtude de denúncias anônimas essa Corte Superior decidiu que, ainda que não se desconheça o alerta do Plenário do Supremo Tribunal Federal, no sentido de que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito (RE 603.616/RO, Relator Ministro GILMAR MENDES, Tribunal Pleno, DJe 10/5/2016), no caso, as denúncias anônimas, corroboradas pelos elementos de convicção apurados nas diligências preliminares, denotam a presença de fortes indícios das práticas delitivas imputadas ao réu, não sendo possível reconhecer manifesta ilegalidade a justificar a anulação de tal ato e das provas colhidas pelos policiais, sendo descabido o pleito de trancamento do inquérito policial (HC n. 452.760/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2018, DJe de 28/6/2018).
+Entretanto, no que concerne ao segundo ponto, tenho que o recorrente demonstrou constrangimento ilegal decorrente da impossibilidade de comprovar a materialidade delitiva após a destruição dos vestígios sem prévia análise pericial.
+O crime previsto no art. 272, § 1º-A, do Código Penal (falsificação, corrupção, adulteração ou alteração de substância ou produto alimentício) caracteriza-se como infração que deixa vestígios, sendo indispensável, nos termos do art. 158 do Código de Processo Penal, a realização de exame pericial que ateste a materialidade delitiva.
+O Superior Tribunal de Justiça orienta-se no sentido de que a venda de produtos impróprios ao uso e consumo, nocivos à saúde ou com valor nutricional reduzido, constituem delitos que deixam vestígios, sendo indispensável, nos termos do artigo 158 do Código de Processo Penal, a realização de exame pericial que ateste a materialidade delitiva, não bastando, para tanto, mero laudo de constatação (RHC n. 45.171/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/5/2016, DJe de 12/5/2016).
+No caso concreto, a autoridade policial, após receber informação da impossibilidade técnica de realização da perícia, determinou a destruição da polpa de açaí apreendida (corpo de delito) sem possibilitar a comprovação técnica da materialidade delitiva (fl. 178). Ora, a impossibilidade técnica de realização da perícia, somada à destruição do material apreendido por ordem da própria autoridade policial, criou obstáculo intransponível à comprovação da materialidade delitiva, tornando inviável a continuidade do inquérito policial para apuração do crime previsto no art. 272, § 1º-A, do Código Penal. Assim, por exemplo:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA AS RELAÇÕES DE CONSUMO. DEPÓSITO PARA VENDA DE MERCADORIAS SEM ORIGEM LEGAL. INEXISTÊNCIA DE LAUDO PERICIAL. AUSÊNCIA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA. PROVIMENTO DO RECLAMO.
+1. Da leitura do artigo 7º, inciso IX, da Lei 8.137/1990, verifica-se que se trata de delito contra as relações de consumo não transeunte, que deixa vestígios materiais, sendo indispensável, portanto, a realização de perícia para a sua comprovação, nos termos do artigo 158 do Código de Processo Penal. Doutrina. Precedentes do STJ e do STF.
+2. Na espécie, o inquérito policial foi instruído apenas com o laudo de exame em local de constatação de fato, com o termo de vistoria e o auto de infração, documentos que, como visto não são suficientes para a comprovação da materialidade do delito imputado aos recorrentes, impondo-se, assim, o trancamento da persecução criminal contra eles deflagrada.
+3. Recurso provido para determinar o trancamento da Ação Penal n. 0001035-35.2017.8.19.0053.
+(RHC n. 98.395/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 21/6/2018, DJe de 28/6/2018 - grifo nosso).
+Ante o exposto, dou provimento ao recurso para determinar o trancamento do Inquérito Policial n. 452.4.2024.28024, sem prejuízo de eventual apuração de outras infrações penais ou administrativas.
