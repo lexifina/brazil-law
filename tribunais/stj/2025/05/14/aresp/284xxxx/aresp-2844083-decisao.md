@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, no qual a parte recorrente discute a limitação das bases de cálculo de contribuições a vinte salários-mínimos.
+A parte recorrente aduz, em síntese (fls. 84/104):
+Trata-se, na origem, de Agravo de Instrumento interposto pelo Recorrente contra a decisão proferida nos autos da Execução Fiscal n.º 0047905- 16.2007.4.03.6182, a qual rejeitou a Exceção de Pré-Executividade e manteve a exigência de contribuições destinadas a terceiros (Sistema "S"), especificamente: (i) ao Serviço Social do Comércio (SESC), (ii) ao Instituto Nacional de Colonização e Reforma Agrária (INCRA), (iii) ao Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE) e (iv) ao Salário-Educação - FND.
+No entanto, o acórdão proferido pelo Tribunal a quo ofendeu o artigo 4º, parágrafo único, da Lei nº 6.950/81, a Lei nº 5.537/1968, 2º, da Lei de Introdução às Normas do Direito Brasileiro (Lei nº 4.657/42), INCRA - artigo 1º, I, "2", e 3º, do Decreto-Lei nº 1.146/70, o qual manteve os efeitos do adicional previsto no artigo 6º, §4º, da Lei nº 2.613/55, SEBRAE - artigo 8º, §3º da Lei nº 8.029/90, artigo 1º, do Decreto-Lei nº 2.318/86, Salário Educação - FNDE - artigo 15 da Lei nº 9.424/1996, artigo 1º, §1º, do Decreto nº 6.003/2006, SESC - artigo 1º e 3º do Decreto-Lei nº 9.853, de 13 de setembro de 1946, art. 6º do Decreto nº 61.836, de 05 de dezembro de 1967, SENAC - artigo 4º do Decreto-lei nº 8.621/46. Além da questão constitucional, previstas nos artigos 149, § 2º, 195, I, e 145 todos da CF.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbices nas súmulas 7 do STJ e 284 do STF e por ser via inadequada à alegação de violação a artigos da Constituição Federal, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual se defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 68/72):
+Trata-se de agravo de instrumento interposto por SINDICATO DOS TAXISTAS AUTONOMOS DE SAO PAULO objetivando a reforma da decisão proferida pelo juízo da 9º Vara Federal de Execuções Fiscais de São Paulo/SP, nos autos da Execução Fiscal de nº 0047905-16.2007.4.03.6182, que rejeitou a exceção de pré-executividade oposta. Em suas razões o agravante alega, em síntese, que os valores exigidos nas CDAs não estão limitados aos 20 (vinte) salários-mínimos previsto pelo artigo 4º, parágrafo único, da Lei n.º 6.950/81, não havendo necessidade de dilação probatória para a alegação da referida matéria.
+ ..
+No caso em tela, a matéria que a parte pretende discutir por meio de exceção de pré-executividade (aplicação do limite de 20 (vinte) salários-mínimos para fins de formação da base de cálculo de contribuições) requerem dilação probatória para uma análise mais apurada dos fatos, sendo própria, portanto, para ser discutida em sede de embargos após a devida garantia do juízo (art. 16, Lei 6.830/80).
+ ..
+Assim, as alegações defensivas dependem de dilação probatória, análise aprofundada e não restaram devidamente comprovadas, o que é incompatível com o célere procedimento da exceção de pré-executividade.
+Pois bem.
+Considerados os teores do acórdão recorrido e das razões recursais, nota-se a súmula 211 do STJ como óbice ao conhecimento do recurso, pois o órgão julgador a quo se limitou à decisão de não cabimento da objeção à executividade, sem manifestação, portanto, a respeito do mérito da pretensão da parte executada.
+De outro lado, firmada a premissa da necessidade de dilação probatória, não há como ser revista na via do especial sem o reexame do acervo probatório, razão pela qual a súmula 7 do STJ também é empecilho ao conhecimento do recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
