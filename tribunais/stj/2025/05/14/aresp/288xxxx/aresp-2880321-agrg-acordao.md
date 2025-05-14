@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na esteira do entendimento pacífico desta Corte Superior, não há afronta ao princípio da colegialidade na decisão monocrática proferida pelo relator que decide de acordo com a jurisprudência consolidada do Superior Tribunal de Justiça, sendo certo que tal decisão pode ser revista pelo órgão colegiado mediante a interposição de agravo regimental.
+2. O art. 932, III, do CPC e os arts. 34, XVIII, alíneas "a" e "b", e 255, § 4º, I, do RISTJ autorizam o relator a proferir decisão monocrática quando houver entendimento dominante sobre o tema, conforme disposto na Súmula 568/STJ.
+3. É inadmissível o agravo em recurso especial que não impugna especificamente todos os fundamentos da decisão de inadmissão, atraindo a incidência da Súmula 182/STJ.
+4. No caso concreto, a decisão agravada consignou a ausência de indicação de acórdãos paradigmas para caracterização da divergência, incidência das Súmulas 284/STF, 83 e 7/STJ, óbices não infirmados de maneira específica pela parte agravante.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDRÉ LUIZ BONFADA CARDOSO contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula 182/STJ.
+No presente agravo regimental, a defesa sustenta que a decisão monocrática fere o princípio da colegialidade, invocando os princípios do juiz natural e do devido processo legal. Alega, ainda, que impugnou de forma suficiente os fundamentos da decisão que inadmitiu o recurso especial, afirmando que não se trata de rediscussão de provas, mas sim de aplicação de normas legais. Requer a reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na esteira do entendimento pacífico desta Corte Superior, não há afronta ao princípio da colegialidade na decisão monocrática proferida pelo relator que decide de acordo com a jurisprudência consolidada do Superior Tribunal de Justiça, sendo certo que tal decisão pode ser revista pelo órgão colegiado mediante a interposição de agravo regimental.
+2. O art. 932, III, do CPC e os arts. 34, XVIII, alíneas "a" e "b", e 255, § 4º, I, do RISTJ autorizam o relator a proferir decisão monocrática quando houver entendimento dominante sobre o tema, conforme disposto na Súmula 568/STJ.
+3. É inadmissível o agravo em recurso especial que não impugna especificamente todos os fundamentos da decisão de inadmissão, atraindo a incidência da Súmula 182/STJ.
+4. No caso concreto, a decisão agravada consignou a ausência de indicação de acórdãos paradigmas para caracterização da divergência, incidência das Súmulas 284/STF, 83 e 7/STJ, óbices não infirmados de maneira específica pela parte agravante.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece provimento.
+Primeiramente, anota-se que na esteira do pacífico entendimento jurisprudencial desta Corte Superior, não fere o princípio da colegialidade a decisão monocrática de relator que julga em conformidade com a jurisprudência do Superior Tribunal de Justiça, notadamente porque pode ser objeto de revisão pelo órgão colegiado por meio da interposição de agravo regimental.
+Com efeito, " n os termos do art. 932, inciso III, do CPC, e dos arts. 34, XVIII, alíneas a e b; e 255, § 4.º, inciso I, ambos do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há se falar em eventual nulidade ou cerceamento de defesa". (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+Tal entendimento foi consolidado no enunciado n. 568 da Súmula desta Corte, o qual dispõe que " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No caso, a decisão agravada não conheceu do agravo em recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão de inadmissão do recurso especial, quais sejam: ausência de indicação dos acórdãos paradigmas para caracterização da divergência (Súmula 284/STF), ausência de prequestionamento (Súmula 83/STJ) e necessidade de revolvimento de matéria fático-probatória (Súmula 7/STJ).
+Conforme assentado pela jurisprudência desta Corte, "a decisão que inadmite o recurso especial possui fundamentação una, não sendo formada por capítulos autônomos, de modo que a parte deve impugnar todos os óbices apontados" (AgRg no AREsp n. 2.645.466/MG). A não impugnação de algum dos fundamentos atrai a aplicação da Súmula 182/STJ.
+No caso, o agravo em recurso especial limitou-se a reiterar teses relativas ao mérito da controvérsia, sem infirmar de forma específica os óbices apontados pela decisão agravada, o que configura ofensa à dialeticidade recursal.
+Ressalte-se que conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (ut, AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
