@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de reclamação, com pedido de antecipação de tutela, ajuizada por Gracietti da Penha Fabiano, com fundamento no artigo 988 do CPC/2015, contra decisão proferida pela Primeira Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Rio de Janeiro - SJ/RJ nos autos n. 5084773-78.2024.4.02.5101 e 5080678-78.2019.4.02.5101/RJ que, segundo afirma, teria violado a autoridade do Tema Repetitivo n. 1.070/STJ, o qual estabeleceu que "Após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário" (fl. 9).
+Requer "o deferimento da liminar para fins de suspender a decisão impugnada, para suspender o processo de cumprimento de sentença, até que seja realizado novos cálculos" e, ao final, a total procedência da ação.
+É o relatório. Passo a decidir.
+O instituto da reclamação dirigida ao Superior Tribunal de Justiça está previsto no art. 105, I, "f", da CF/1988, sendo cabível para a preservação da competência e a garantia da autoridade das decisões desta Corte.
+O Código de Processo Civil dispôs a respeito da legitimidade e cabimento da reclamação no seu art. 988, verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nesta Corte Superior, a reclamação está disciplinada no art. 187 e seguintes do Regimento Interno.
+In casu, antevê-se que a pretensão da reclamante não se amolda às hipóteses de cabimento da reclamação, ao revés, busca seja apreciada suposta ofensa ao julgamento do Tema 1.070/STJ.
+A propósito: "Nos termos do inciso I do art. 988 do CPC/2015, caberá reclamação para "preservar a competência do tribunal". Dessa forma, tem-se como principal função garantir a autoridade da decisão proferida pelo STJ, em um caso concreto, que tenha sido desrespeitada na instância de origem, em processo que envolva as mesmas partes, que não é o caso dos autos (AgInt na Rcl 34.462/RO, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/3/2020)".
+Outrossim, consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação visando ao controle da aplicação, no caso concreto, de tese firmada pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+Em igual sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NA RECLAMAÇÃO. ALEGADA INOBSERVÂNCIA DE TESE FIXADA EM RECURSO ESPECIAL REPETITIVO. NÃO CABIMENTO DA RECLAMAÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE DE ANÁLISE, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 22/10/2021.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, com base na orientação firmada pela Corte Especial do STJ, no julgamento da Rcl 36.476/SP (Rel. Ministra NANCY ANDRIGHI, DJe de 06/03/2020), no sentido de que não cabe reclamação para garantir a observância de acórdãos proferidos em recursos especiais repetitivos.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de manifestação desta Corte, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal. Precedentes.
+V. Embargos de Declaração rejeitados (EDcl no AgInt na Rcl 41.902/RJ, relatora Ministra Assusete Magalhães, Primeira Seção, DJe 15/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. PRECEDENTE FORMADO EM RECURSO REPETITIVO. DESCABIMENTO DO PLEITO.
+1. Com ressalva de entendimento, a Corte Especial do STJ estabeleceu que não cabe reclamação para o exame da correta aplicação de precedente formado em julgamento de recurso especial repetitivo à realidade do processo.
+2. Controvérsia que se esgota na instância ordinária com o julgamento do agravo interno previsto no art. 1.030, § 2º, do CPC, admitida posterior ação rescisória perante o tribunal de justiça ou regional.
+3. Agravo interno a que se nega provimento (AgInt na Rcl 41.925/SP, relator Ministro Og Fernandes, Primeira Seção, DJe 16/2/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TESE FIRMADA EM RECURSO REPETITIVO. APLICAÇÃO AO CASO CONCRETO PELOS TRIBUNAIS DE JUSTIÇA E REGIONAIS. EVENTUAL EQUÍVOCO. RECLAMAÇÃO. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO APROPRIADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.II - A Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art.
+988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui ação destinada à preservação da competência do Superior Tribunal de Justiça (inciso I), a garantir a autoridade de suas decisões (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+III - Revela-se incabível o ajuizamento de Reclamação para discutir eventual equívoco na aplicação de tese firmada em recurso repetitivo ao caso concreto pelos tribunais de justiças e regionais. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt na Rcl 40.414/SP, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 20/10/2021).
+Ante o exposto, não conheço da reclamação, com fundamento no artigo 34, XVIII, "a", do RISTJ. Prej udicado o pedido de antecipação de tutela.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO UTILIZADA PARA IMPUGNAR SUPOSTA INADEQUAÇÃO DA DECISÃO RECLAMADA A JULGAMENTO OCORRIDO EM SEDE DE RECURSO ESPECIAL REPETITIVO. DESCABIMENTO. PRECEDENTES. RECLAMAÇÃO NÃO CONHECIDA.
