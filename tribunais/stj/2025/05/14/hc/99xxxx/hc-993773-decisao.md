@@ -1,0 +1,28 @@
+DECISÃO
+FRANCISCO WESLEY PERGENTINO DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará na Apelação Criminal n. 0004070-46.2015.8.06.0146.
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas.
+A defesa aduz, inicialmente, ilicitude das provas derivadas da busca pessoal. Requer a absolvição do acusado. Subsidiariamente, requer a aplicação da minorante.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 114-116).
+Decido.
+I. Busca pessoal - supressão de instância
+Em relação à tese de ilicitude da busca pessoal, verifico que o Tribunal de origem não analisou a tese suscitada, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste writ.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+II. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+Quanto a ações penais e inquéritos policiais em andamento, não podem ser considerados, por si só, como fatos suficientes para a comprovação da dedicação habitual a atividades criminosas, conforme tese fixada no julgamento do Tema Repetitivo n. 1.139 dos Recursos Especiais (REsp 1.977.027/PR e REsp 1.977.180/PR, Rel. Min. Laurita Vaz, Terceira Seção, j. 10.8.2022).
+No caso, o Tribunal de origem reconheceu que o réu é primário e de bons antecedentes. Todavia, a minorante deixou de ser aplicada em razão de processos penais em andamento (sem sentença penal condenatória transitada em julgado): "Prosseguindo, na 3ª fase dosimétrica, incabível a aplicação da causa especial de diminuição da pena prevista no §4º do art. 33 da Lei de Drogas, pois o réu não preenche os requisitos legais, respondendo a vários procedimentos criminais, inclusive, pela prática de delitos semelhantes (certidão de antecedentes criminais à fl. 24), o que demonstra inclinação pela prática de delitos e impede a aplicação do tráfico privilegiado, conforme entendeu de forma escorreita o juízo de a quo" (fl. 32).
+Assim, o entendimento do Tribunal local está divorciado da orientação desta Corte Superior, razão pela qual é imperativa a concessão da ordem, no ponto, a fim de que a minorante seja aplicada.
+III. Nova dosimetria
+Na primeira e na segunda fases da dosimetria, fica a pena mantida no mínimo legal, tal como já promovido pelas instâncias ordinárias.
+Na segunda fase, tendo em vista a incidência da minorante acima reconhecida, deve ser a pena reduzida no patamar máximo de 2/3, à míngua de fundamentação para fixá-la em fração inferior.
+Assim, fica a pena definitiva imposta estabilizada em 1 ano e 8 meses de reclusão e 166 dias-multa.
+Como consectário da redução efetivada na pena do acusado, deve ser feito o ajuste no regime inicial do seu cumprimento. Uma vez que ele foi condenado a pena inferior a 4 anos, era primário ao tempo do delito, tinha bons antecedentes, teve a pena-base fixada no mínimo legal e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+I V. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo a ordem para reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do paciente, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e 166 dias-multa; b) fixar o regime inicial aberto e c) determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Determino a imediata expedição de alvará de soltura ao paciente, se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
