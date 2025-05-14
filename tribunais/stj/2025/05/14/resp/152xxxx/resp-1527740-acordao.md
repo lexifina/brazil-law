@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. COMERCIAL. RECUPERAÇÃO JUDICIAL. DEFERIMENTO DO PEDIDO. ALEGAÇÃO DE FRAUDE. CRÉDITO DA RECUPERANDA JUNTO A RECEITA FEDERAL. TRANSFERÊNCIA PARA O PROCESSO JUDICIAL. POSSIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela União contra a decisão que, nos autos da recuperação judicial da empresa agravada determinou a transferência para o processo do crédito que a recuperanda possuia com a Receita Federal.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte negou provimento do recurso especial.
+III - Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+IV - Quanto à tese de inexistência de atividade empresarial a ser recuperada, verifica-se que a pretensão demandaria a revisão dos elementos fático-probatórios dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno contra monocrática que decidiu recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Mato Grosso , nos termos assim ementados:
+AGRAVO DE INSTRUMENTO - SOCIEDADE EMPRESÁRIA EM RECUPERAÇÃO JUDICIAL- DETERMINAÇÃO DO JUÍZO RECUPERACIONAL DE TRANSFERÊNCIA PARA SI DE CRÉDITO QUE A EMPRESA POSSUI COM A RECEITA FEDERAL- PRETENSÃO DA RECEITA FEDERAL DE RECONHECIMENTO DO DIREITO DE UTILIZAÇÃO DO CRÉDITO PARA COMPENSAÇÃO DE OUTROS DÉBITOS DA EMPRESA RECUPERANDA COM A FAZENDA NACIONAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE E PEDIDO DE INSTAURAÇÃO DO INCIDENTE- INEXISTÊNCIA DESTA - ART. 480 E 481, DO CPC. REJEIÇÃO DA ALEGAÇÃO. INTERESSE PÚBLICO NA PRESERVAÇÃO DA EMPRESA EM DIFICULDADE-INTERPRETAÇÃO LITERAL DO ART. 6º, § 7º, DA LEI 11.101/05 QUE PODE PREJUDICAR A FORMAÇÃO DE UM AMBIENTE ECONÔMICO QUE PROPICIE O DESENVOLVIMENTO NACIONAL - PRECEDENTE STJ. RECURSO DESPROVIDO.
+Na origem, trata-se de agravo de instrumento interposto pela União contra a decisão que, nos autos da recuperação judicial da empresa agravada determinou a transferência para o processo do crédito que a recuperanda possui com a Receita Federal.
+No Tribunal a quo, a decisão foi mantida. Esta Corte negou provimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. é evidente a omissão do Tribunal de origem ao não analisar toda a documentação juntada pela Fazenda Nacional que comprova toda a fraude realizada para que fosse deferido o pedido de recuperação judicial.
+Caso tivessem sidos analisados tosos os documentos e indícios apresentados pela Fazenda Nacional, não seria deferido o pedido de recuperação judicial. Daí a essencialidade da análise.
+A fraude é tão evidente que desde o ano de 2018 o plano de recuperação judicial não está sendo cumprido.
+Assim, deve ser dado provimento ao recurso especial da Fazenda Nacional por violação ao art. 1.022, II, do CPC, eis que devem ser analisados todos os documentos juntados pela Fazenda Nacional que comprovam a fraude realizada, o que, por si só, já impediriam o deferimento do pedido de recuperação judicial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. COMERCIAL. RECUPERAÇÃO JUDICIAL. DEFERIMENTO DO PEDIDO. ALEGAÇÃO DE FRAUDE. CRÉDITO DA RECUPERANDA JUNTO A RECEITA FEDERAL. TRANSFERÊNCIA PARA O PROCESSO JUDICIAL. POSSIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela União contra a decisão que, nos autos da recuperação judicial da empresa agravada determinou a transferência para o processo do crédito que a recuperanda possuia com a Receita Federal.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte negou provimento do recurso especial.
+III - Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+IV - Quanto à tese de inexistência de atividade empresarial a ser recuperada, verifica-se que a pretensão demandaria a revisão dos elementos fático-probatórios dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+Quanto à tese de inexistência de atividade empresarial a ser recuperada, verifica-se que a pretensão demandaria a revisão dos elementos fático-probatórios dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
