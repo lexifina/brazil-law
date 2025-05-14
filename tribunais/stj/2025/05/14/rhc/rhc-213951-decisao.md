@@ -1,0 +1,38 @@
+DECISÃO
+WILDEGLAN ALVES SOARES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará no Habeas Corpus n. 0801813-91.2025.8.14.0000.
+Consta dos autos que o paciente foi denunciado pela prática dos crimes de tráfico de drogas e associação para o tráfico, conforme os arts. 33 e 35 da Lei n. 11.343/2006.
+A defesa sustenta, em síntese: a) ausência de fundamentação concreta e individualizada para a manutenção da prisão preventiva; b) presença de condições pessoais favoráveis; c) direito à prisão domiciliar por ser pai de filho recém-nascido; d) inexistência de risco à ordem pública, à instrução criminal ou à aplicação da lei penal; e e) suficiência e adequação da aplicação de medidas cautelares diversas da prisão. Requer a revogação da prisão preventiva ou sua substituição por prisão domiciliar.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que, diferentemente do alegado, as razões invocadas na instância de origem se mostram suficientes para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, as instâncias de origem apontaram a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta do delito.
+O Juízo de origem assim fundamentou sobre o caso concreto (fl. 77):
+"Logo, nesta senda, havendo elementos que induzem materialidade e indícios de autoria, a ordem pública é premissa que deve ser resguardada, à vista de conduta que impõe severo combate ao ordenamento jurídico, pelo transporte entre estados de elevada quantidade de entorpecente, em nítido desvalor ao dever de cuidado objeto.
+Esse agir, por si só, firmado no transporte de entorpecente de quantidade superior a 20kg, denota capacidade do agente na atividade de reiteração, portanto, em evidente mácula à ordem jurídica, incompatível com a concessão de liberdade provisória.
+Quanto à prisão domiciliar, apresentou os seguintes argumentos (fls. 176-174):
+Quanto à alegação da defesa do réu Wildeglan Alves Soares de ser pai de criança(s) menor(es) de 12 (doze) anos, não restou demonstrado que o acusado é o único responsável pelos cuidados do(s) filho(s), o que caberia à defesa demonstrar, tratando-se de alegação genérica, não restando comprovado, portanto, os requisitos do art. 318, do CPP.
+Segundo entendimento firmado pelo Superior Tribunal de Justiça, a prisão domiciliar no caso do homem com filho de até 12 (doze) anos incompletos não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação.
+O Tribunal a quo, por sua vez, assim decidiu (fls. 264-278):
+A quantidade e diversidade de substâncias entorpecentes, aliado ao modus operandi do coacto (transporte coletivo interestadual) delimitam de forma clara a periculosidade mencionada acima.
+Segundo jurisprudência do Superior Tribunal de Justiça, a especial gravidade do delito é fundamento que indica a necessidade de providência cautelar extrema para a garantia da ordem pública.
+Assim, entendo que o argumento relacionado à inidoneidade da fundamentação e a ausência de requisitos legais resta superado, conforme decisão do Juízo singular.
+ ..
+Ressalta-se ainda que as condições pessoais favoráveis ostentadas pelo paciente, por si sós, não impedem a decretação da prisão preventiva, conforme jurisprudência pacífica do STJ e entendimento sumulado desta Corte (súmula nº. 08/TJPA).
+Por fim, sabe-se que a prisão domiciliar no caso do homem com filho de até 12 anos incompletos, não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise do caso concreto, da sua adequação (Cf.: AgRg no HC n. 759.873/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, D Je de 26/8/2022).
+No caso sob análise, o fato do paciente ser pai de crianças menores de 12 anos não determina sua colocação em regime de prisão domiciliar, pois restringiu-se a evidenciar a sua condição de genitor de criança, sem, no entanto, apresentar prova de sua imprescindibilidade nos cuidados do infante, nos termos da jurisprudência do Superior Tribunal de Justiça.
+Ademais, do que se extrai das informações prestadas (fls. 324-328), é possível verificar que o paciente foi preso em 5/12/2024 e a instrução já está encerrada. Com efeito, o processo está na fase de apresentação de memoriais escritos.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Diante do exposto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+No mais, em interpretação do art. 318, VI, do Código de Processo Penal, esta Corte Superior firmou entendimento de que, com o advento da Lei n. 13.257/2016, a prisão domiciliar para o infrator (homem), pai de filhos menores de 12 anos de idade não tem caráter absoluto ou automático. É facultada ao magistrado a concessão do benefício após a análise, em concreto, de sua adequação.
+No caso dos autos, não ficou demonstrado que o paciente seja o único responsável pelos cuidados dos menores.
+Nesse sentido:
+ ..
+5. O entendimento desta Corte é no sentido de que, " e mbora todo pai seja indispensável à criação de seus filhos, o benefício previsto no art. 318, inciso VI, do CPP não possui aplicação automática, sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos". Tal providência - a comprovação de que o Agravante seria o único responsável pelos cuidados com sua criança - não foi tomada no caso em concreto.
+ ..
+(AgRg no RHC n. 176.732/MA, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/6/2023)
+Pelas mesmas razões acima externadas, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Deveras, "demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas elencadas no art. 319 do Código de Processo Penal" (HC n. 711.115/MS, Rel. Ministra Laurita Vaz, 6ª T., DJe 31/5/2022).
+Por fim, as circunstâncias pessoais do réu, ainda que lhe sejam inteiramente favoráveis, não são, por si sós, capazes de modificar a situação cautelar quando há outros elementos que recomendam as manutenções de suas prisões preventivas, o que é o caso do presente feito.
+À vista do exposto, nego provimento ao recurso .
+Pu blique-se e intimem-se.
+EMENTA
