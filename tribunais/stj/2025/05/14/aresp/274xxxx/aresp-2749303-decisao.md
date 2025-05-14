@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por EVANI CORDEIRO LIMA MELO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 316):
+"EMENTA: APELAÇÃO CÍVEL. ação declaratória de inexistência de DÉBITO cumulada com repetição de indébito e indenização por PERDAS E danos. CONTRATO DE EMPRÉSTIMO CONSIGNADO. CONTRATAÇÃO ELETRÔNICA. ASSINATURA DIGITAL POR "SELFIE". REGULARIDADE DA CONTRATAÇÃO. EXERCÍCIO REGULAR DO DIREITO. NEGÓCIO JURÍDICO VÁLIDO. LITIGÂNCIA DE MÁ-FÉ.
+1. As normas do CDC são aplicáveis às instituições financeiras, impondo-se a estas a responsabilidade objetiva pelos serviços inerentes às suas atividades e acerca do dever de informação sobre os produtos disponibilizados à clientela, conforme estabelece o art. 6º do aludido diploma legal.
+2. Constatada a legalidade e regularidade da contratação, mediante juntada de contrato assinado eletronicamente, com utilização de biometria facial ("selfie"), descabe falar em declaração de inexigibilidade do débito e indenização por dano material e moral.
+3. Comprovado nos autos que a autora movimentou a máquina judiciária, alterando a verdade dos fatos, visando obtenção de vantagem econômica, é devida a penalidade prevista pelo artigo 81 do Código de Processo Civil.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA."
+Rejeitados os embargos de declaração opostos (fls. 344-354).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos artigos 80, 355, 428, I, 429, II, do Código de Processo Civil e artigo artigo 5º, incisos XXXV e LV, da CF, ao argumento de que houve cerceamento de defesa, pois lhe foi negada a produção de prova pericial necessária para comprovar a autenticidade da cédula de crédito bancário impugnada. Sustenta que o ônus da prova incumbia ao banco recorrido e que a condenação por litigância de má-fé foi indevida, pois fundada apenas na ausência de provas, sem demonstração de dolo ou culpa grave. Argumenta, ainda, que o julgamento antecipado da lide violou os princípios do contraditório e da ampla defesa.
+Sem contrarrazões ao recurso especial (fl. 412).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 417-419), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 435-439).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento do artigo 5º, incisos XXXV e LV, da CF, por ser a via inadequada à alegação de afronta a artigos e preceitos da Constituição Federal, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+(AgInt no AREsp n. 2.737.417/PB, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024.)
+3. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal.
+(AgInt no AREsp n. 1.325.875/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Verifica-se que em relação à apontada ofensa aos arts. 80, 355, 428, I, 429, II, do Código de Processo Civil, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Assim, alterar o decidido no acórdão impugnado, no que se refere à alegação de cerceamento de defesa, ônus probatório e condenação por litigância de má-fé, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA E REPARAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA IMPROCEDENTE. EMPRÉSTIMO CONSIGNADO. IMPUGNAÇÃO DA AUTENTICIDADE DA ASSINATURA DO CONTRATO. TEMA N. 1 .061 DO STJ. ÔNUS DE PROVAR DA INSTITUIÇÃO FINANCEIRA DEVIDAMENTE CUMPRIDO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ . CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A tese firmada sob o rito dos recursos repetitivos, no Tema 1.061/STJ, é no sentido de que: "na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II)" (REsp 1 .846.649/MA, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 9/12/2021).
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere o pedido de produção de outras provas. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+3. No caso, nos moldes da jurisprudência firmada no referido precedente qualificado, as instâncias ordinárias reconheceram que a parte demandada se desincumbiu do ônus probatório, demonstrando fato impeditivo, modificativo e impeditivo do direito da parte autora, comprovando a existência da relação jurídica válida por meios de prova diversos da perícia, além do proveito econômico obtido pela consumidora, sem indícios de fraude, circunstância que atrai a incidência da Súmula 83/STJ.
+4. A modificação da conclusão do Tribunal de origem, para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, implicaria proceder ao reexame do conjunto fático-probatório, inviável em recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2443165/GO, Rel. Min. RAUL ARAÚJO, Data de Julgamento: 17/06/2024, QUARTA TURMA, DJe de 27/06/2024)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BEM DE FAMÍLIA. PENHORA. PRECLUSÃO. SÚMULA N. 7 DO STJ. PREJUDICIALIDADE EXTERNA. REEXAME FÁTICO-PROBATÓRIO. MULTA POR LITIGÂNCIA DE MÁ-FÉ FIXADA PELO TRIBUNAL DE ORIGEM. SÚMULA N. 7/STJ.
+ ..
+4. A jurisprudência desta Corte é firme no sentido de que a revisão das premissas que embasaram a aplicação de multa por litigância por má-fé importa no reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.505.321/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 14% sobre o valor atualizado da causa, observada eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONTRATO DE EMPRÉSTIMO CONSIGNADO. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA N. 7/STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ APLICADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
