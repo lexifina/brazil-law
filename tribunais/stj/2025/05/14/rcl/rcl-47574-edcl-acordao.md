@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA POR TURMA RECURSAL ESTADUAL. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. IMPOSSIBILIDADE. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos pelo Estado do Espirito Santo contra acórdão, assim ementado (fls. 207-208, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA POR TURMA RECURSAL ESTADUAL. PRETENSÃO DO RECLAMANTE PELA APLICAÇÃO AO CASO DE ENTENDIMENTO ASSENTADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Com o advento da Emenda Regimental nº 22-STJ, de 16/03/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte." (AgRg na Rcl n. 18.506/SP, relator Ministro Raul Araújo, Corte Especial, julgado em 6/4/2016, DJe de 27/5/2016.)
+3. A Resolução STJ n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte. Assim, considerando que a presente reclamação foi protocolada quando já em vigor a mencionada Resolução n. 3/2016, não mais subsiste a competência desta Corte para a sua apreciação. Precedentes.
+3. Ademais, oportuno registrar, consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação visando ao controle da aplicação, no caso concreto, de tese firmada pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+4. Agravo interno não provido.
+O embargante sustenta omissão no exame da ofensa ao artigo 1.022, inciso I e II, do CPC por parte do acórdão da Primeira Turma desta Corte, pois o decisum não teria analisado as seguintes questões relevantes e capazes de alterar, ainda que em parte, a conclusão alcançada. Para tanto alega que deve se pronunciar quanto ao fato de que (a) tendo sido reconhecida a incompetência absoluta do STJ para processar e julgar a presente reclamação, há de ser observada a regra do art. 64, § 3º, do CPC, que determina a remessa dos autos ao órgão julgador competente; (b) relativamente à divergência entre o posicionamento adotado pelo STJ e o entendimento atualmente prevalente no âmbito do E. Supremo Tribunal Federal, no sentido do cabimento da reclamação por inobservância de precedente firmado em julgamento de recursos extraordinário ou especial repetitivos, com fundamento no inciso II, do § 5º, do art. 988 do CPC.
+Ao final, requer (fl. 226, e-STJ): "seja conhecido e PROVIDO o presente recurso para sanar as omissões acima apontadas."
+Com impugnação às fls. 227-236, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA POR TURMA RECURSAL ESTADUAL. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. IMPOSSIBILIDADE. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022, I e II do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, não se antevê obscuridade/contradição ou omissão no decisum embargado.
+O acórdão embargado está assim fundamentado, na parte que interessa:
+No caso, não se fazem presentes nenhuma das figuras a justificar o ajuizamento do remédio constitucional.
+A hipótese dos autos versa acerca de reclamação ajuizada pelo ora agravante contra acórdão de Turma Recursal dos Juizados Especiais do Estado do Espirito Santo/ES que, segundo afirma, contrariou o entendimento pacificado por esta Corte no julgamento do Tema Repetitivo 516/STJ. Vejamos:
+1) por primeiro, registra-se que conforme decidido na Corte Especial do STJ, no julgamento da QO no AgRg na Rcl n.18.506/SP, "com o advento da Emenda Regimental n. 22-STJ, de 16/3/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte", passando a matéria a ser regulada pela Resolução STJ n. 3/2016.
+Por sua vez, a Resolução STJ n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+Assim, considerando que a presente reclamação foi protocolada quando já em vigor a mencionada Resolução n. 3/2016, não mais subsiste a competência desta Corte para a sua apreciação. A propósito:
+ ..
+2) Por segundo, registra-se que é assente nesta Corte Superior o entendimento segundo o qual não é cabível reclamação diretamente contra decisão de Turma Recursal com a finalidade de discutir contrariedade à jurisprudência dominante ou sumulada do STJ.
+ ..
+3) Anote-se, ainda, que consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação visando ao controle da aplicação, no caso concreto, de tese firmada pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+ ..
+Nesse contexto, a Segunda Seção desta Corte Superior entendeu ser manifestamente incabível o ajuizamento de reclamação direta para o STJ em ataque a acórdão de Turma de Uniformização do Sistema dos Juizados Especiais, nos Estados em que já estejam instaladas, ou de órgão fracionário dos Tribunais de Justiça, proferido no julgamento de reclamação apresentada com fundamento na Resolução STJ n. 3/2016, especialmente quando tais reclamos veicularem eventual discrepância de entendimento entre a decisão exarada na causa originária e precedente firmado pelo STJ sob o rito dos recursos especiais repetitivos.
+Isso porque, segundo a pacífica jurisprudência do STJ, a palavra final a respeito da adequação do julgado reclamado à tese repetitiva caberá à Turma de Uniformização, onde existir, ou ao órgão fracionário do Tribunal estadual encarregado do julgamento da reclamação, sem possibilidade de se trazer a discussão a esta Corte Superior.
+Diante do não cabimento da reclamação, não se poderia, por óbvio, avançar no exame das matérias suscitadas pela reclamante, razão pela qual não se constatam quaisquer dos vícios do art. 1.022 do Código de Processo Civil de 2015, mas, sim, mero intuito de rediscussão dos fundamentos do acórdão embargado, procedimento que não se coaduna com a finalidade dos aclaratórios.
+Desse modo, afasta-se a alegação de ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
