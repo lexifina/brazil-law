@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO CONSTATADO. TEMA 1.209/STJ. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração acolhidos, com efeitos infringentes.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por IGOR DIAS DA SILVA ao acórdão prolatado por esta Segunda Turma (e-STJ, fls. 1.804-1.808), assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284/STF. COISA JULGADA. REDIRECIONAMENTO DA EXECUÇÃO. ILEGITIMIDADE PASSIVA. DISCUSSÃO ACERCA DA REGULARIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ERRO MATERIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, "o erro material passível de correção por embargos de declaração é aquele relativo à inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado; caso contrário, trata-se de erro de julgamento, hipótese na qual a parte deve lançar mão das vias de impugnação apropriadas" (AgInt no R Esp n. 1.962.279/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, D Je de 17/5/2023).
+3. Embargos de declaração rejeitados.
+Nas razões recursais, o embargante aponta omissão no julgado recorrido, afirmando que deixou de ser esclarecido o motivo pelo qual não foi reconhecida que a matéria debatida nos autos está inserida no Tema 1.209/STJ, o qual se encontra pendente de apreciação no Superior Tribunal de Justiça.
+Afirma que "há nítida afetação pelo C. STJ o Tema 1.209, que trata da necessidade de instauração do Incidente de Desconsideração da Personalidade Jurídica (IDPJ) para o redirecionamento da execução fiscal aos sócios-gerentes, conforme previsto nos arts. 133 a 137 do CPC" (e-STJ, fl. 1.816).
+Sendo assim, requer o acolhimento destes aclaratórios.
+Impugnação às fls. 1.825-1.828 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO CONSTATADO. TEMA 1.209/STJ. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração acolhidos, com efeitos infringentes.
+VOTO
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o julgado prolatado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - O cabimento de Embargos de Declaração, consoante o disposto no art. 1.022 do Código de Processo Civil, é restrito às hipóteses de obscuridade, contradição ou omissão na decisão embargada, bem como para correção de erro material.
+II - Embargos de declaração acolhidos para corrigir erro material.
+(EDcl nos EDcl no AgInt no AREsp n. 2.496.225/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Na hipótese dos autos, o insurgente alega a existência de omissão no aresto proferido por esta Segunda Turma.
+De fato, examinando o acórdão recorrido, verifica-se a necessidade de esclarecimentos acerca da não inclusão da discussão inserida no recurso especial no Tema 1.209/STJ, o qual se encontra pendente de julgamento nesta Corte Superior.
+A questão de direito que envolve os autos (compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório) foi afetada pela Primeira Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de proposta de afetação do Tema 1.209, proferidas nos autos do REsp 2039132/SP, REsp 2013920/RJ, REsp 2035296/SP, REsp 1971965/PE e REsp 1843631/PE, todos de relatoria do Ministro Francisco Falcão, submeteram a julgamento a questão nos seguintes termos:
+RECURSO ESPECIAL. PROPOSTA DE JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. (IN)COMPATIBILIDADE. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. ART. 133 E SEGUINTES DO CPC. RITO PRÓPRIO DA EXECUÇÃO FISCAL. LEI N. 6.830/1980. IDENTIFICAÇÃO DAS HIPÓTESES DE IMPRESCINDIBILIDADE. FUNDAMENTO JURÍDICO.
+I - Notória a multiplicidade de processos com idêntica questão de direito, inclusive em trâmite perante esta Corte, sendo necessária a uniformização do entendimento, tendo em vista que a discussão é objeto de divergência entre as Turmas da Primeira Seção, a exemplo dos acórdãos proferidos no julgamento do AgInt no REsp n. 2.006.433/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023 e do AgInt no AREsp n. 2.216.614/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023.
+II - Afetação do recurso especial interposto pela Fazenda Nacional ao rito dos recursos repetitivos, com o intuito de que seja apreciada a seguinte tese: Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório.
+III - Em observância ao art. 1.037, II, do CPC, determino a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na Segunda Instância, ou que estejam em tramitação perante o Superior Tribunal de Justiça, hipótese esta em que deve ser respeitado o disposto no art. 256-L do RISTJ.
+(ProAfR no REsp n. 1.843.631/PE, relator Ministro Francisco Falcão, Primeira Seção, julgado em 22/8/2023, DJe de 28/8/2023.)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Preside nte do STJ.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para anular os julgados de fls. 1.691-1696; 1.764-1.771; e 1.804-1.808 (e-STJ), determinando, desse modo, a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.209/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+É como voto.
