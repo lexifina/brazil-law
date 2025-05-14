@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ribeiro Dantas.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EXECUÇÃO PENAL. Agravo regimental. Habeas corpus. falta grave. nulidade. Ausência de impugnação específica. aplicação da súmula n. 182/stj. absolvição ou desclassificação. revolvimento fático-probatório. agravo conhecido em parte e, nessa extensão, IM provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, sob alegação de nulidade no procedimento administrativo por falta de ouvida judicial e ausência de provas concretas na homologação de falta grave.
+2. O agravante alega constrangimento ilegal, sustentando falhas no procedimento disciplinar, como a falta de oitiva pessoal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+4. Outra questão é se a análise da prática de falta grave e a configuração de infração disciplinar administrativa demandam incursão na seara fático-probatória, o que é inadmissível na via do habeas corpus.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+6. A análise da prática de falta grave e a configuração de infração disciplinar administrativa demandam incursão na seara fático-probatória, o que é inadmissível na via do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental parcialmente conhecido e, nessa extensão, des provido.
+Tese de julgamento: "1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso. 2. A reavaliação da gravidade da infração disciplinar imputada ao condenado, para afastá-la ou desclassificá-la, é incabível na via do habeas corpus , pois demanda o revolvimento de matéria fático-probatória".
+Dispositivos relevantes citados: Não há dispositivos relevantes citados.
+Jurisprudência relevante citada: STJ, Súmula n. 182/STJ; STJ, AgRg no HC 675.620/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 22/03/2022; STJ, AgRg no HC 929.052/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024; STJ, AgRg no HC 605.409/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020; STJ, AgRg no HC n. 628.734/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 09/2/2021, DJe de 17/2/2021).
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO DIMAS DE ARAUJO contra a decisão de fls. 90-95 (e-STJ), que não conheceu do habeas corpus.
+O agravante alega, em suma, ocorrência de constrangimento ilegal. Sustenta que, na homologação de falta grave, " ..  não se produziu uma única prova segura, concreta contra o agravante, tratando-se de falta coletiva,  ..  além do procedimento disciplinar dispor de falha, nulidades, como falta de oitiva pessoal (art. 118 da LEP) e falta de atipicidade em razão da não individualização da conduta  .. " (e-STJ, fl. 102).
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. Agravo regimental. Habeas corpus. falta grave. nulidade. Ausência de impugnação específica. aplicação da súmula n. 182/stj. absolvição ou desclassificação. revolvimento fático-probatório. agravo conhecido em parte e, nessa extensão, IM provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, sob alegação de nulidade no procedimento administrativo por falta de ouvida judicial e ausência de provas concretas na homologação de falta grave.
+2. O agravante alega constrangimento ilegal, sustentando falhas no procedimento disciplinar, como a falta de oitiva pessoal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+4. Outra questão é se a análise da prática de falta grave e a configuração de infração disciplinar administrativa demandam incursão na seara fático-probatória, o que é inadmissível na via do habeas corpus.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+6. A análise da prática de falta grave e a configuração de infração disciplinar administrativa demandam incursão na seara fático-probatória, o que é inadmissível na via do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental parcialmente conhecido e, nessa extensão, des provido.
+Tese de julgamento: "1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso. 2. A reavaliação da gravidade da infração disciplinar imputada ao condenado, para afastá-la ou desclassificá-la, é incabível na via do habeas corpus , pois demanda o revolvimento de matéria fático-probatória".
+Dispositivos relevantes citados: Não há dispositivos relevantes citados.
+Jurisprudência relevante citada: STJ, Súmula n. 182/STJ; STJ, AgRg no HC 675.620/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 22/03/2022; STJ, AgRg no HC 929.052/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024; STJ, AgRg no HC 605.409/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020; STJ, AgRg no HC n. 628.734/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 09/2/2021, DJe de 17/2/2021).
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Inicialmente, observa-se que, quanto à tese de nulidade no procedimento administrativo por falta de ouvida judicial, a decisão agravada entendeu que a matéria não teria sido objeto de apreciação pelo Tribunal de origem, o que obstou sua análise por esta Corte sob pena de incorrer em supressão de instância. Nota-se, porém, que o agravante deixou de impugnar, de forma específica, tal fundamento em suas razões recursais, limitando-se a repisar a argumentação trazida na inicial do writ.
+Assim, consoante reiterada jurisprudência deste Superior Tribunal de Justiça, a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula n. 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no HC 675.620/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/03/2022, DJe 24/03/2022).
+Nesse sentido, ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. PAD. AUSÊNCIA DE OITIVA JUDICIAL E DE PRESENÇA DO APENADO PERANTE AS TESTEMUNHAS. SUPRESSÃO DE INSTÂNCIA. DESOBEDIÊNCIA. JUSTIFICATIVA APRESENTADA PERANTE A AUTORIDADE ADMINISTRATIVA. NÃO ACEITA. BEM FUNDAMENTADA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1-  ..  Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido.  ..  4. Habeas corpus do qual não se conhece. (HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+2- No caso, sobre as nulidades apontadas - ausência de oitiva judicial e de oitiva perante as testemunha -, a defesa deixou de impugnar o fundamento colocado na decisão agravada, qual seja de supressão de instância. Assim, nessa parte, a defesa violou o enunciado da Súmula 182 desta Corte: Ao agravante cabe impugnar de forma específica os fundamentos da decisão recorrida, sob pena de não conhecimento da insurgência.
+ ..
+6- Agravo regimental não provido.
+(AgRg no HC n. 929.052/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. DESNECESSIDADE DE AUDIÊNCIA DE JUSTIFICAÇÃO PARA HOMOLOGAÇÃO DE FALTA GRAVE E REGRESSÃO CAUTELAR. PRÁTICA DE NOVO DELITO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PER SALTUM. POSSIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 3. A Lei de Execução Penal expressamente qualifica a prática de fato previsto como crime doloso como falta grave e admite a regressão de regime diante de tal conduta. Também a jurisprudência desta Corte entende que ainda que não tenha havido o trânsito em julgado da respectiva ação penal, a prática do delito já é suficiente para configuração da falta disciplinar de natureza grave 4. Ademais, tratando-se de cometimento de falta grave no decorrer do cumprimento da pena em regime semiaberto harmonizado ou aberto, a jurisprudência desta Corte autoriza a regressão cautelar de regime, inclusive sem prévia oitiva judicial.
+5. O § 2º do art. 118 da Lei de Execução Penal determina que o condenado seja ouvido previamente na regressão definitiva de regime prisional. Na regressão cautelar, hipótese dos autos, não há tal exigência. (AgRg no HC 680.027/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 23/11/2021, DJe 26/11/2021).
+6. O Superior Tribunal de Justiça adota o entendimento de que é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal.
+(AgRg no HC n. 740.078/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+7. Agravo regimental não conhecido.
+(AgRg no HC n. 838.020/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+No mais, consoante anteriormente explicitado, o exame da tese de que não ocorreu a prática de falta grave não se coaduna com a via estreita do habeas corpus, dada a necessidade, na espécie, de incursão na seara fático-probatória, incabível nesta sede.
+Do mesmo modo, a análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, também demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Sobre o tema, os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. DESOBEDIÊNCIA. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. DIAS REMIDOS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A conduta descrita é prevista como falta grave no art. 50, VI, c/c. o art. 39, II e V, ambos da LEP e não há que se falar em ofensa ao princípio da legalidade. De acordo com a moldura fática do aresto, não se pode cogitar a absolvição ou a desclassificação da falta disciplinar.
+2. A insubordinação externada pela recusa não é insignificante, pois prejudica a boa ordem, a segurança e a disciplina na unidade prisional. Justamente por observar o princípio da proporcionalidade, o legislador qualificou o comportamento como falta grave.
+ ..
+4. Agravo regimental não provido." (AgRg no HC n. 605.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020, DJe de 1º/9/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESOBEDIÊNCIA. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO. VIA IMPRÓPRIA. PERDA DOS DIAS REMIDOS. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Conforme precedentes desta Corte Superior, condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal.
+3. "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+ ..
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido." (AgRg no HC n. 560.935/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/6/2020, DJe de 23/6/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AGRESSÕES MÚTUAS ENTRE DETENTAS E DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. RECONHECIMENTO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pela apenada, consistente em mútua agressão entre as detentas acrescida da desobediência aos agentes penitenciários, nos termos do artigo 50, incisos I e VI, combinado com o artigo 39, incisos II e V, ambos da Lei n. 7.210/1984.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+ ..
+5. Agravo regimental não provido." (AgRg no HC n. 516.423/SP, deste relator, Quinta Turma, julgado em 10/12/2019, DJe de 17/12/2019).
+Noutro giro, não há que se falar em aplicação de sanção coletiva, eis que a conduta da paciente foi individualizada, contando inclusive com depoimentos das agentes penitenciários, os quais gozam de presunção de veracidade, de modo que o procedimento administrativo disciplinar não padece de nulidade quanto a esse ponto. De mais a mais, não se pode confundir hipótese de autoria coletiva com sanção coletiva.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. INCITAR OU PARTICIPAR DE MOVIMENTO PARA SUBVERTER A ORDEM OU A DISCIPLINA. RECONHECIMENTO. SANÇÃO COLETIVA. NÃO OCORRÊNCIA. AUTORIA DEVIDAMENTE INDIVIDUALIZADA. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. REGRESSÃO DE REGIME DO CUMPRIMENTO DE PENA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Se as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pelo apenado, com previsão legal contida no art. 50, I, da LEP (incitar ou participar de movimento para subverter a ordem ou a disciplina), não há falar em aplicação indevida de sanção coletiva, sobretudo se a conduta do recorrente, que participou dos fatos, juntamente com outros apenados, foi devidamente individualizada por meio dos testemunhos dos agentes penitenciários.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+3. O Superior Tribunal de Justiça firmou o entendimento de que a prática de falta disciplinar de natureza grave implica a regressão de regime conforme estabelecido no art. 118, I, da LEP.
+4. A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+5. Na hipótese dos autos, a perda de 1/3 dos dias remidos se deu de forma fundamentada, haja vista a gravidade da natureza da falta disciplinar (participação em trama para subversão à ordem e à disciplina, articulando um atentado contra a integridade física de agentes de segurança penitenciária e a criação de facção criminosa).
+6. Agravo regimental não provido." (AgRg no HC n. 628.734/SP, deste relator, Quinta Turma, julgado em 09/2/2021, DJe de 17/2/2021).
+"HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PLEITO DE ANULAÇÃO DA CONDENAÇÃO POR FALTA GRAVE. INCITAÇÃO DOS DEMAIS PRESOS À DESORDEM. RELATO DOS AGENTES PENITENCIÁRIOS. INFRAÇÃO DE AUTORIA COLETIVA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.
+1. As instâncias ordinárias entenderam que o paciente cometeu falta grave durante a execução da pena, consistente na subversão coletiva da ordem e da disciplina no presídio, por meio da incitação dos demais reeducandos a adotar comportamentos eversivos.
+2. Os relatos dos agentes penitenciários são firmes no sentido de que o paciente exerce liderança negativa na unidade. A palavra dos agentes penitenciários é prova idônea para o convencimento do magistrado acerca da incitação à subversão da ordem e da disciplina.
+3. Não se trata de hipótese de sanção coletiva, que ocorreria se todos os reeducandos do estabelecimento prisional fossem responsabilizados, não sendo este o caso dos autos. Não se trata de aplicação de sanção coletiva, mas sim de infração de autoria coletiva, uma vez que foi apurada a falta disciplinar, com a responsabilização de inúmeros apenados, gerando punição individualizada de todos os envolvidos.
+4. O Superior Tribunal de Justiça possui entendimento firmado de que a análise da tese de não configuração da falta grave, ou de desclassificação para falta de natureza média, em regra, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória.
+5. Habeas corpus denegado." (HC n. 673.816/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 26/10/2021, DJe de 28/10/2021).
+Dessa forma, verifica-se que o recorrente não trouxe elementos aptos a infirmar a decisão agravada, razão pela qual merece subsistir por seus próprios fundamentos.
+Ante o exposto, conheço parcialmente do agravo regimental e, nessa extensão, nego-lhe provimento.
+É o voto.
