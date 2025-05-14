@@ -1,0 +1,40 @@
+DECISÃO
+FAGNER OLIVEIRA DOS SANTOS pleiteia a reconsideração da decisão de fls. 77-88, em que não conheci do recurso ordinário, por deficiência de instrução.
+Juntados os documentos faltantes (cópia do acórdão que decretou a segregação cautelar e da decisão que indeferiu o pleito de revogação), é o caso de reconsiderar a decisão.
+Neste writ, a defesa busca a revogação da custódia provisória do acusado, ainda que com a imposição de cautelares diversas, por reputar carente de fundamentação idônea o decreto preventivo e ausentes os requisitos do art. 312 do CP.
+O recurso ordinário comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Infere-se dos autos que o paciente foi acusado da suposta prática, no dia 24/3/2024, do crime de homicídio qualificado tentado e associação criminosa. O Tribunal de origem decretou a prisão preventiva em decisão assim fundamentada (fls. 85-86, destaquei):
+No caso, houve, em tese, participação dos réus não só na tentativa de homicídio, mas também em circunstâncias fáticas vinculadas à disputa de território e captação de colaboradores para traficância - facções Bala na Cara e Aberto Timbaúva - ainda que a vítima não os tenha visto pessoalmente no momento no atentado. Isto, porque os denunciados Diogo, Fagner e Filipe teriam concorrido para a prática do delito e, tendo em vista que ainda não iniciada a instrução criminal, mostra-se conveniente a segregação para tal fim.
+ ..
+No que se referem, especificamente, aos réus Diogo e Fagner, aos quais também é imputado o crime previsto no art. 288 do Código Penal, associação criminosa, há indícios que sustentam a prisão preventiva.
+A investigação apurou que, em tese, Diogo, conhecido como Sadol, e Fagner, conhecido como Grilo, são a liderança das organizações criminosas, junto de Filipe, e mandantes de diversos crimes na Zona Norte de Porto Alegre. A apuração, inicialmente, é de que a Vila Amazônia e a Vila Santa Maria são vizinhas, mas dominadas por facções rivais, o que gera os conflitos narrados no Inquérito.
+Nesse sentido, a testemunha Jonathan relatou vender drogas para Diogo e Fagner e que Diogo é o "dono" na Vila Santa Maria, sendo apurado que, em princípio, Diogo exerce o papel de líder e Fagner de segundo líder no comando, o que é feito de dentro dos presídios estaduais. evento 8, RELINVESTIG3 e evento 8, RELINVESTIG4.
+Dito isso, e diante da violência utilizada pela associação, a prisão se mostra oportuna também para garantia da ordem pública.
+De acordo com a doutrina de Renato Brasileiro de Lima, a necessidade de se garantir a ordem pública decorre do "risco considerável de reiteração de ações delituosas por parte do acusado, caso permaneça em liberdade, seja porque se trata de pessoa propensa à prática delituosa, seja porque, se solto, teria os mesmos estímulos relacionados com o delito cometido".
+Em análise aos antecedentes criminais extraídos do sistema eProc, verifica-se que os réus responderam e respondem por outros delitos igualmente graves, vinculados a homicídios e tráfico, denotando que, ao que tudo indica, soltos, a tendência é que ampliem o rol de antecedentes, indicando perigo o estado de liberdade dos investigados.
+É de se observar que após o fato em comento, ocorrido em 24/03/24, o acusado Filipe teve mais uma ocorrência registrada (processo nº 5121151-43.2024.8.21.0001 da 1ª Vara do Júri do Foro Central) tendo, em tese, voltado a delinquir no contexto de homicídio motivado por disputa de território para traficância.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Tribunal estadual apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o modus operandi do delito, praticado no contexto de conflito decorrente do tráfico de drogas, em concurso de agentes e com emprego de arma de fogo, bem como o risco de reiteração delitiva, em razão da existência do registro de outros processos criminais em curso, inclusive um pela suposta prática de homicídio qualificado após os fatos deste processo.
+O Tribunal de origem também destacou o papel de liderança do acusado em organização criminosa voltada à prática de crimes violentos e tráfico de drogas.
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que o registro de inquéritos policiais ou ações penais em andamento denota o risco de reiteração delitiva e, por isso mesmo, é fundamento idôneo para a custódia provisória.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Esta Corte também já se manifestou no sentido de que o modus operandi da conduta, praticada em contexto de conflito decorrente do tráfico de drogas, em concurso de agentes e com emprego de arma de fogo, também é apto a justificar a segregação cautelar.
+Ilustrativamente:
+ ..
+3. Prisão preventiva. Fundamentação idônea. As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC. Consignou-se, ainda, que o recorrente possui (4) quatro condenações pretéritas e responde a outras 3 (três) ações, todas de natureza penal, incluindo a prática de outro crime de homicídio tentado. Por fim, o agravante se encontra foragido.
+ ..
+(AgRg no RHC n. 198.810/ES, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 12/9/2024.)
+ ..
+4. Na espécie, a prisão foi decretada em decorrência da suposta prática dos delitos de homicídio duplamente qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima e corrupção de menores.
+Consta que dos autos que o agravante, em comum acordo com os demais envolvidos, praticou o crime de homicídio consumado contra Kleiton Silva de Magalhães, sendo a sua função, na empreitada criminosa, a de levar e dar fuga ao adolescente que efetuou os disparos com a arma de fogo, em razão de disputas pela hegemonia no tráfico de drogas local.
+Tais circunstâncias evidenciam a gravidade concreta da conduta e demonstram a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+ ..
+(AgRg no RHC n. 198.813/ES, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/9/2024.)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022).
+À vista do exposto, reconsidero a decisão de fls. 77-78 para negar provimento ao recurso ordinário, in limine.
+Publique-se e intimem-se.
+EMENTA
