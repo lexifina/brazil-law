@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu recurso especial dirigido ao acórdão prolatado no Apelação Cível n. 5074309-60.2021.4.04.7100/RS.
+Na origem, em sede de ação de cobrança ajuizada pelo Estado do Rio Grande do Sul em face da União, foi julgado procedente o feito para condená-la ao pagamento das despesas suportadas em tratamento oncológico (fl. 384).
+O Tribunal Regional negou provimento ao apelo da União, em acórdão assim ementado (fl. 389):
+ADMINISTRATIVO. DIREITO DA SAÚDE. FORNECIMENTO DE MEDICAMENTO ONCOLÓGICO. CONDENAÇÃO DO ESTADO EM AÇÃO JUDICIAL. TEMA 793/STF. RESSARCIMENTO EM FACE DA UNIÃO. CABIMENTO. SUCUMBÊNCIA. REDUÇÃO DA CONDENAÇÃO. ARBITRAMENTO POR EQUIDADE. DESCABIMENTO. TEMA 1.076/STJ.
+1. A Lei n.º 12.732/2012, prevê que pacientes com diagnóstico de neoplasia maligna receberão tratamento gratuito no âmbito do Sistema Único de Saúde  SUS (art. 1º). No plano infralegal, a Portaria n.º 876/2013 do Ministério da Saúde, prevê, em seu art. 8º, II, que compete ao referido Ministério garantir o financiamento do tratamento do câncer.
+2. Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro (Tema 793).
+3. A responsabilidade pelo custeio de tratamentos oncológicos no âmbito do SUS é integralmente da União, cabendo a este ente federado promover tal atendimento por meio de estabelecimentos credenciados como Unidades de Alta Complexidade em Oncologia (UNACON) ou Centros de Alta Complexidade em Oncologia (CACON).
+4. Consoante tese fixada no Tema 1.076/STJ, admite-se arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Os embargos declaratórios foram rejeitados (fls. 411-415).
+Nas razões do recurso especial, a parte recorrente aduziu violação dos arts. 9º e 506 do CPC, bem como dos arts. 7º, inciso IX, 17, inciso III, 18, inciso I, 14-A, parágrafo único e inciso I, 33, 34 e 35 da Lei n. 8.080/1990, diante da condenação da União ao ressarcimento de despesas suportadas pelo Estado do Rio Grande do Sul para custeio de tratamento oncológico, sem que a União tenha participado do processo judicial anterior que originou tais despesas.
+Reforçou, ademais, a inobservância do princípio da congruência subjetiva, que impede a extensão dos efeitos de uma sentença a terceiros não participantes do processo. Argumentou que a decisão recorrida viola a garantia da ampla defesa, uma vez que a União não teve a oportunidade de se manifestar no processo originário.
+Entendeu pela ocorrência de vício quanto à aplicação da Lei Orgânica da Saúde, que não prevê direito de regresso entre entes federativos, e que o ressarcimento de atendimentos deve ser feito mediante transferências fundo a fundo, conforme a legislação de regência.
+Pretendeu a reforma do julgado para que seja julgado totalmente improcedente o pedido inicial, com a inversão dos ônus sucumbenciais, e a redução dos honorários advocatícios, para que sejam estabelecidos por apreciação equitativa, considerando a natureza da causa e a ausência de complexidade que justifique remuneração elevada.
+Negado seguimento ao recurso e, noutra parte, inadmitido (fls. 505-508), foi interposto o presente agravo em recurso especial (fls. 515-517).
+Contrarrazões às fls. 522-529.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal Regional negou seguimento ao recurso especial em razão da aplicação da sistemática da repercussão geral, conforme os Temas n. 1076 e 793 do STF.
+Contudo, da decisão que nega seguimento a recurso especial com esteio em temas exarados sob as sistemáticas da Repercussão Geral ou dos Recursos Especiais Repetitivos, o único recurso cabível é o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, do Código de Processo Civil.
+Ressalte-se que, nos termos da jurisprudência do Superior Tribunal de Justiça, é inviável a aplicação do princípio da fungibilidade, pois, diante da clareza da norma processual, não há dúvida objetiva acerca do recurso cabível, constituindo erro grosseiro a interposição do recurso inadequado. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE MANTÉM NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE RECURSO ESPECIAL. NÃO CABIMENTO.
+ ..
+2. Consoante pacífico o entendimento deste Tribunal Superior, o agravo interno é o único recurso cabível contra a decisão que nega seguimento aos recursos especial e extraordinário, em razão de o acórdão recorrido estar em conformidade com tese definida na sistemática dos recursos repetitivos ou da repercussão geral. Precedentes.
+3. No caso dos autos, o Agravo em Recurso Especial e o recurso especial não podem ser conhecidos porque incabíveis contra acórdão que nega provimento a agravo interno, com a manutenção de decisão negatória de seguimento a recurso extraordinário, proferida nos termos dos arts. 1.030, inc. I, "a", e 1.035, § 8º, do CPC/2015.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.265.656/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO
+1. O único recurso cabível da decisão que nega seguimento aos recursos às instâncias superiores (STJ e STF), em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, é o agravo interno, a teor do expressamente previsto no art. 1.030, § 2º, do CPC.
+2. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Agravo interno improvido. (AgInt no AREsp n. 2.148.444/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+No mais, a Corte de origem inadmitiu o apelo nobre pelos seguintes fundamentos: impropriedade de se veicular ofensa ato normativo interno e incidência da Súmula n. 7 do STJ. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou nenhum dos referidos óbices, inobservando o princípio da dialeticidade.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 388), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO ONCOLÓGICO. CONDENAÇÃO DO ESTADO EM AÇÃO JUDICIAL. TEMA N. 793 DO STF. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
