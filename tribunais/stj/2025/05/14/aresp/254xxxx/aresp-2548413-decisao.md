@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 30):
+PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ACP N.º 0004911-28.2011.403.6183. ACORDO HOMOLOGADO. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. No curso da Ação Civil Pública n.º 004911-28.2011.403.6183, houve acordo homologado e não recorrido pelas partes, onde restou estabelecido o direito à recomposição dos benefícios concedidos entre 05/4/1991 e 01/1/2004, efetivado pelo o INSS através da Resolução 151/2011.
+2. Não há se falar em prescrição do pedido executório, pois, conforme reconhece o agravante, a ACP n.º 0004911-28.2011.403.6183 ainda não transitou em julgado.
+Embargos de declaração rejeitados (e-STJ fls. 211/213).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, ante o não suprimento de omissão apontada em sede de embargos de declaração, acerca da ocorrência da prescrição da pretensão executória.
+No mérito, aponta violação dos arts. 103, parágrafo único, da Lei n. 8.213/1991; 1º do Decreto n. 20.910/1932; e 3º do Decreto-Lei n. 4.597/1942, argumentando que ocorreu a prescrição da pretensão executória para cumprimento individual da sentença que homologou o acordo firmado pelas partes nos autos da ACP n. 0004911-28.2011.4.03.6183/SP, publicada em 1º/9/2011, sendo que o pedido de execução foi ajuizado somente em 14/12/2022 (e-STJ fls. 222/223).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 230/232).
+Passo a decidir.
+Verifico que foram preenchidos os requisitos de admissibilidade do agravo, motivo pelo qual passo a analisar o recurso especial.
+De início, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SUPERVENIÊNCIA DA LEI 14.230/2021. TEMA 1.199/STF. PRESENÇA DE DOLO E DO DANO. TIPICIDADE MANTIDA. DOSIMETRIA DAS PENAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A superveniência da Lei 14.230/2021 não altera a tipicidade da conduta, porque o Tribunal de origem, no acórdão recorrido, reconheceu a presença de ato ímprobo previsto no art. 10 da Lei 8.429/1992, o dolo dos agentes e a lesão ao erário.
+3. A revisão da dosimetria das penas encontra óbice na Súmula 7 do Superior Tribunal de Justiça (STJ), salvo evidente desproporcionalidade, o que não se verifica neste caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.044.604/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+No caso, o Tribunal de origem se manifestou de maneira clara acerca da prescrição da pretensão executória a saber (e-STJ fls. 27/29):
+A decisão preambular tem os seguintes termos:
+Não procede a insurgência recursal.
+Isso porque no curso da Ação Civil Pública 004911-28.2011.403.6183, houve acordo homologado e não recorrido pelas partes, onde restou estabelecido:
+".. a proposta de revisão e pagamento apresentada pelo INSS compreende os benefícios concedidos entre 5 de abril de 1991 a 1º de janeiro de 2004, não se lhe aplicando aos que são anteriores a essa data", isto é, "a revisão atenderá os estritos termos do precedente do STF, beneficiando os titulares de benefícios concedidos a partir de 05 de abril de 1991 e que, em 12/98 e 12/2003, recebiam o teto previdenciário vigente, respectivamente, de R$ 1.081,50 e R$ 1.869,34".
+O próprio INSS, por sua vez, já reconhecera o direito de recomposição dos benefícios concedidos neste período através da Resolução 151/2011, nos termos seguintes:
+"Art. 1º. Proceder, em âmbito nacional, à Revisão do Teto Previdenciário, em cumprimento às decisões do Supremo Tribunal Federal - STF, no Recurso Extraordinário nº 564.354/SE e do Tribunal Regional Federal - 3ª Região, por meio da Ação Civil Pública - ACP nº 0004911- 28.2011.4.03.
+Art. 2º. A revisão tem por objetivo a recomposição, nas datas das Emendas Constitucionais nº 20, de 15 de dezembro de 1998, e nº 41, de 19 de dezembro de 2003, do valor dos benefícios limitados ao teto previdenciário na sua data de início.
+Art. 3º. Terão direito à análise da revisão os benefícios com data inicial no período de 05 de abril de 1991 a 31 de dezembro de 2003, que tiveram o salário de benefício limitado ao teto previdenciário na data da concessão, bem como os benefícios deles decorrentes.
+Art. 4º. O processamento da revisão com a alteração da Mensalidade Reajustada - MR, dos benefícios selecionados, ocorrerá na competência agosto de 2011.
+Parágrafo único. Outros benefícios que venham a ser selecionados posteriormente, terão sua revisão efetivada na competência em que forem identificados.
+Art. 5º. Observada a prescrição quinquenal, os pagamentos das diferenças serão efetivados em parcela única, obedecendo aos seguintes critérios:
+a) até 31 de outubro de 2011, para quem tem direito a receber até R$ 6.000,00;
+b) até 31 de maio de 2012, para credor cujos valores variam entre R$ 6.000,01 até R$ 15.000,00;
+c) até 30 de novembro de 2012, para valores entre R$ 15.000,01 e R$ 19.000,00; e
+d) até 31 de janeiro de 2013, para créditos superiores a R$ 19.000,00.
+§ 1º Para efeito de aplicação da prescrição, será considerada a data de 5 de maio de 2011, quando foi ajuizada a ACP em questão.
+§ 2º Se houver pedido de revisão em data anterior à da propositura da ACP, o pagamento das diferenças será devido desde a Data do Pedido da Revisão - DPR.
+Art. 6º. Esta Resolução entra em vigor na data da sua publicação."
+Com esses contornos, tenho que não subsistem tanto alegação de que a revisão do benefício do segurado não estaria amparada no título judicial, assim como a de inexistência de trânsito em julgado do acordo homologado.
+A propósito dessa última alegação, os precedentes que seguem:
+Portanto, ainda que não ocorrido de fato o trânsito em julgado da Ação Civil Pública nº 0004911- 28.2011.4.03.6183/SP, houve acordo para revisão dos tetos em relação aos benefícios deferidos entre 5 de abril de 1991 e 1º de janeiro de 2004, sendo definitiva a execução individual quanto a tal tópico (TRF4, AG 5051430-53. 2020.4. 04.0000, 6ª Turma, Relator Julio Guilherme Berezoski Schattschneider, juntado aos autos em 07/05/2021)
+Tampouco tem efeito a alegada prescrição do pedido executório, pois, conforme reconhece o próprio agravante, a ACP nº 0004911-28.2011.403.6183 ainda não transitou em julgado.
+Nessa linha, tenho que a decisão peleada, por ora, não merece reparos.
+Ante o exposto, indefiro o pedido de efeito suspensivo.
+Não vindo aos autos qualquer argumento capaz de modificar os citados fundamentos da decisão preambular, adoto-os como razões de decidir.
+Ficam prequestionados, para fins de acesso às instâncias superiores, os dispositivos legais e constitucionais elencados por ambas as partes, cuja incidência restou superada pelas próprias razões de decidir do recurso.
+Isto posto, voto por negar provimento ao agravo de instrumento
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há, necessariamente, ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No mérito a pretensão não merece prosperar.
+O Tribunal Regional Federal concluiu que a fase de conhecimento ainda não alcançou um desfecho final, pois subsiste questão pendente, não havendo o trânsito em julgado da referida ação, conforme o seguinte trecho do aresto recorrido (e-STJ fl. 28):
+Tampouco tem efeito a alegada prescrição do pedido executório, pois, conforme reconhece o próprio agravante, a ACP nº 0004911-28.2011.403.6183 ainda não transitou em julgado.
+Esta Corte de Justiça tem sua jurisprudência assente no sentido de que, em "obrigação de pagar quantia certa, o procedimento executório contra a Fazenda é o estabelecido nos arts. 730 e 731 do CPC que, em se tratando de execução provisória, deve ser aplicado em harmonia com as normas constitucionais, que determinam que a expedição de precatório ou o pagamento de débito de pequeno valor de responsabilidade da Fazenda Pública, decorrentes de decisão judicial, mesmo em se tratando de obrigação de natureza alimentar, pressupõem o trânsito em julgado da respectiva sentença" (REsp n. 1.271.184/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/9/2011, DJe de 21/9/2011).
+O referido acórdão ficou assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA EM FACE DA FAZENDA PÚBLICA. AUSÊNCIA DE VALOR INCONTROVERSO. APELAÇÃO. DUPLO EFEITO. DISCUSSÃO DA PRESCRIÇÃO EM EMBARGOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+1. A violação do artigo 535 do CPC não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial. A Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+2. É cediço que na obrigação de pagar quantia certa, o procedimento executório contra a Fazenda é o estabelecido nos arts. 730 e 731 do CPC que, em se tratando de execução provisória, deve ser aplicado em harmonia com as normas constitucionais, que determinam que a expedição de precatório ou o pagamento de débito de pequeno valor de responsabilidade da Fazenda Pública, decorrentes de decisão judicial, mesmo em se tratando de obrigação de natureza alimentar, pressupõem o trânsito em julgado da respectiva sentença.
+3. O acórdão recorrido deve ser mantido pelos seus próprios termos por espelhar a jurisprudência desta Corte Superior, segundo a qual mostra-se inviável a execução provisória contra a Fazenda Pública, nos casos de execução de valores incontroversos, pois ainda é objeto de embargos a alegação de prescrição no qual, se procedente, resultará na extinção da execução.
+4. Quanto à interposição do apelo pela alínea "c", com base na divergência jurisprudencial, aplicável o disposto na Súmula n. 83 do STJ.
+5. Recurso especial não provido. (REsp n. 1.271.184/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/9/2011, DJe de 21/9/2011).
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. RECURSO ESPECIAL. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de se tornar ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, relator Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, a respeito do prazo prescricional de execução da sentença discutido nos autos, a Corte local se ancorou no entendimento firmado pelo STJ quando do julgamento de recurso especial repetitivo (REsp 1.336.026/PE - Tema 880) para concluir que "o trânsito em julgado da decisão exequenda ocorreu em 25/08/2015, e o prazo prescricional somente se iniciou em 30/06/2017, não estando, portanto, prescrita a execução, pois foi proposta antes de 30/06/2022, que é o termo final da prescrição" (fl. 267).
+3. Nesse panorama, fica prejudicada a análise da matéria do presente recurso especial, inclusive no tocante à alegada afronta art. 1.022 do CPC, tendo em vista estar atrelada àquela discutida no repetitivo.
+4. Agravo interno não provido. (AgInt no REsp n. 2.164.395/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+Impende registrar que a Corte Suprema, no julgamento do RE n. 1.205.530/SP (Tema 28), decidiu ser constitucional a expedição de precatório ou a requisição de pequeno valor - RPV para pagamento de parcela incontroversa e autônoma de sentença transitada em julgado, como se lê:
+Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitado em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor.
+Desse modo, uma vez que não houve trânsito em julgado no caso concreto, merece ser mantido o acórdão recorrido, pois não ocorreu a alegada prescrição da pretensão executória.
+Dessa forma, incide também aqui o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível quando o recurso especial é interposto com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
