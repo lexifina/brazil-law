@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. ANULAÇÃO DE QUESTÕES POR DECISÃO JUDICIAL DE TERCEIROS. EXTENSÃO A CANDIDATOS QUE NÃO INTEGRARAM A LIDE. DECADÊNCIA DA IMPETRAÇÃO. TERMO INICIAL. ATO ADMINISTRATIVO QUE NÃO ESTENDEU A ANULAÇÃO DAS QUESTÕES. DECADÊNCIA AFASTADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA ANÁLISE DO MÉRITO. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, mandado de segurança em que o impetrante requereu administrativamente em seu favor a aplicação do disposto no item 17.8. do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, que determina a atribuição do ponto correspondente à anulação de questões da prova objetiva de múltipla escolha a todos os candidatos.
+2. O Tribunal estadual reconheceu a decadência do exercício do direito à impetração do mandado de segurança, ao fundamento de que o lustro decadencial deve ser contado da data de homologação do concurso, o que ocorreu em 23/3/2022.
+3. É firme o entendimento, no âmbito deste STJ, segundo o qual o prazo para impetração de mandado de segurança deve ser contado a partir da ocorrência do ato lesivo.
+4. In casu, o impetrante requereu administrativamente o cumprimento do disposto no item 17.8 do Edital do Concurso, que foi indeferido pela Admin istração em 8/11/2023. Assim, impetrado o presente mandamus em 26/2/2024, deve ser afastada a decadência reconhecida pela Corte a quo.
+5. No que se refere à possibilidade de extensão dos efeitos da coisa julgada a quem não foi parte no processo individual e aplicabilidade do item 17.8 do edital ao caso, do fato superveniente - advento da Lei Estadual n. 10.516/2024 -, da suspensão do prazo de validade do concurso e a aplicação da Lei Estadual n. 9.650/2022, ressalta-se que não é possível a esta Corte analisar temas não enfrentados no Tribunal a quo, sob o risco de supressão de instância.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RODRIGO FERNANDES LOYOLA contra decisão monocrática de minha relatoria, assim ementada (fl. 1042):
+DIREITO ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. ANULAÇÃO DE QUESTÕES POR DECISÃO JUDICIAL. EXTENSÃO A CANDIDATOS QUE NÃO INTEGRARAM A LIDE. DECADÊNCIA DA IMPETRAÇÃO. TERMO INICIAL. ATO ADMINISTRATIVO QUE NÃO ESTENDEU A ANULAÇÃO DAS QUESTÕES. RECURSO PARCIALMENTE PROVIDO.
+Nas razões recursais, a parte agravante defende a reforma da decisão ora impugnada, pelos seguintes argumentos (fls. 1072-1074):
+A Agravante invoc a o princípio da isonomia, assegurado pela Constituição Federal de 1988 em seu art. 5º, caput, e o item 17.8 do edital do concurso, que prevê que, em caso de anulação de questões, todos os candidatos devem ser beneficiados com os pontos correspondentes.
+A negativa da autoridade administrativa em aplicar este item apenas aos candidatos que ingressaram com ação judicial individual viola a isonomia e o direito líquido e certo da Agravante, assim como a segurança jurídica.
+Embora a decisão monocrática tenha afirmado que as decisões judiciais possuem efeito inter partes, na forma do art. 506 do CPC, o que de fato é uma regra processual, o item 17.8 do edital é claro ao estabelecer que, em caso de anulação de questões, todos os candidatos devem ser beneficiados, independentemente de ação judicial.
+ ..
+Desta forma, como considerando todo o exposto, a parte Agravante notícia estes fatos supervenientes relevantes para o deslinde da demanda, consistente na obrigatoriedade que o art. 2º da Lei Estadual nº 10.516, de 25 de setembro de 2024, impõe à Administração Pública para reverter os pontos anulados judicialmente em favor da Recorrente.
+Pugna, assim, pela reconsideração da decisão agravada ou a sua submissão ao órgão colegiado para dar provimento ao recurso.
+Apresentada impugnação às fls. 1139-1141.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. ANULAÇÃO DE QUESTÕES POR DECISÃO JUDICIAL DE TERCEIROS. EXTENSÃO A CANDIDATOS QUE NÃO INTEGRARAM A LIDE. DECADÊNCIA DA IMPETRAÇÃO. TERMO INICIAL. ATO ADMINISTRATIVO QUE NÃO ESTENDEU A ANULAÇÃO DAS QUESTÕES. DECADÊNCIA AFASTADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA ANÁLISE DO MÉRITO. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, mandado de segurança em que o impetrante requereu administrativamente em seu favor a aplicação do disposto no item 17.8. do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, que determina a atribuição do ponto correspondente à anulação de questões da prova objetiva de múltipla escolha a todos os candidatos.
+2. O Tribunal estadual reconheceu a decadência do exercício do direito à impetração do mandado de segurança, ao fundamento de que o lustro decadencial deve ser contado da data de homologação do concurso, o que ocorreu em 23/3/2022.
+3. É firme o entendimento, no âmbito deste STJ, segundo o qual o prazo para impetração de mandado de segurança deve ser contado a partir da ocorrência do ato lesivo.
+4. In casu, o impetrante requereu administrativamente o cumprimento do disposto no item 17.8 do Edital do Concurso, que foi indeferido pela Admin istração em 8/11/2023. Assim, impetrado o presente mandamus em 26/2/2024, deve ser afastada a decadência reconhecida pela Corte a quo.
+5. No que se refere à possibilidade de extensão dos efeitos da coisa julgada a quem não foi parte no processo individual e aplicabilidade do item 17.8 do edital ao caso, do fato superveniente - advento da Lei Estadual n. 10.516/2024 -, da suspensão do prazo de validade do concurso e a aplicação da Lei Estadual n. 9.650/2022, ressalta-se que não é possível a esta Corte analisar temas não enfrentados no Tribunal a quo, sob o risco de supressão de instância.
+6. Agravo interno desprovido.
+VOTO
+Não obstante os combativos argumentos da p arte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão impugnada, que merece ser mantida.
+Na origem, mandado de segurança impetrado pelo agravante contra ato atribuído a o Secretário de Estado de Polícia Militar do Estado do Rio de Janeiro, que indeferira pedido administrativo de aplicação do item 17.8 do edital do concurso, o qual estabelece a atribuição, a todos os candidatos, da pontuação correspondente à anulação de questão da prova objetiva.
+O Tribunal de origem indeferiu a inicial, julgando extinto o processo sem análise de mérito, em razão da inobservância do prazo decadencial definido no art. 23 da Lei n. 12.016/2009, pelos seguintes fundamentos (fls. 98-102):
+Reexaminando toda a hipótese fática, verifico que a decisão agravada deve ser mantida.
+No presente recurso, o agravante apresenta argumentos que não merecem acolhimento e não são capazes de modificar a decisão monocrática ora agravada.
+Portanto, mantenho a decisão ora agravada, que segue abaixo na íntegra:
+Trata-se de MANDADO DE SEGURANÇA ORIGINÁRIO impetrado por RODRIGO FERNANDO LOYOLA, candidato reprovado na primeira fase do concurso Público de formação de soldados da polícia militar de 2014, objetivando a desconstituição do ato de reprovação, diante de anulação de algumas questões da prova através de decisões judiciais prolatadas em Mandados de Segurança impetrados, tempestivamente, por outros candidatos.
+Sustenta o impetrante a ilegalidade da decisão de reprovação, tendo, em consequência, direito líquido e certo a ser aprovado no certame.
+O pedido veio instruído com documentação correspondente, pugnando o autor pelo deferimento da Justiça Gratuita e de liminar.
+Relatado. Decido.
+Defiro a Gratuidade de Justiça.
+A matéria que se apresenta nesse Mandado de Segurança é eminentemente de direito, já tendo sido objeto de diversas decisões análogas no âmbito da jurisprudência deste Tribunal de Justiça, a ensejar seu julgamento monocrático, sendo desnecessária a manifestação da autoridade dita coatora.
+O Mandado de Segurança é remédio constitucional destinado a proteger direito líquido e certo não amparado por Habeas Corpus ou Habeas Data, quando a autoridade pública agir com ilegalidade ou abuso de poder, e seu regramento consta da Lei 12.016/2009, ecoando o seu artigo 1º a exata dicção constitucional contida no artigo 5º, inciso LXIX, da Constituição da República.
+O assento constitucional da ação mandamental de segurança, conquanto confira substancial relevância ao referido remédio, caracterizando-o como garantia e direito constitucional, pretendendo-se conferir maior efetividade aos direitos fundamentais, também, ergue insuperáveis limitações ao seu manejo, quais sejam a existência de direito líquido e certo e que a ilegalidade ou abuso de poder tenha emanado de ação ou omissão de autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+Considera-se direito líquido e certo aquele plenamente comprovado no momento da impetração do mandamus, por meio de prova pré-constituída, sendo esta verdadeira condição específica da ação mandamental, a obstar, portanto, a dilação probatória, de modo que todos os elementos de prova devem ser juntados na inicial do processo, cuja impetração deve se dar no prazo de 120 (cento e vinte) dias do ato impugnado, sob pena de decadência, consoante artigo 23 da lei nº 12.016/09.
+No caso em questão pretende o impetrante desconstituir ato administrativo de sua reprovação na 1ª fase de concurso público de formação de soldados da polícia militar, de que decorreu sua exclusão do certame, o que ocorreu em 28/10/2014, data em que foi publicado o resultado da prova objetiva com a reprovação do impetrante, como se constata de pesquisa aos sítios eletrônicos que divulgaram o resultado, já que não instruído o mandado de segurança com esta informação.
+Ao contrário do que pretende fazer crer o impetrante, nem o ato de homologação final do certame publicado em 2022, nem o indeferimento do pleito administrativo em novembro de 2023 tem o condão de reabrir a oportunidade para impetrar a segurança, na medida em que o ato causador da alegada ofensa ao suposto direito líquido e certo consistiu em sua exclusão do certame.
+Impetração que se deu, em 2024, quando de há muito ultrapassado o prazo de 120 (cento e vinte) dias do ato impugnado, a configurar a decadência, consoante artigo 23 da lei nº 12.016/09, já que conforme orienta o E. Superior Tribunal de Justiça o prazo para a impetração do mandado de segurança destinado a resguardar direito líquido e certo começa na data da ciência do ato concreto da lesão, ou seja, na exclusão do Impetrante do certame.
+Nesse sentido o julgamento do REsp 1368735/MS pela C. Segunda Turma, relatora a Ministra ELIANA CALMON:
+ ..
+A jurisprudência deste Tribunal de Justiça adota o mesmo entendimento:
+ ..
+Por tais fatos e fundamentos, INDEFIRO A INICIAL e JULGO EXTINTO O PRESENTE WRIT SEM JULGAMENTO DO MÉRITO, na forma do artigo 10, Lei 12.016/2009 c/c artigo 485, I do Código de Processo Civil.
+Condeno o impetrante ao pagamento das custas judiciais, respeitada a Gratuidade Justiça que lhe foi deferida.
+Sem condenação em honorários advocatícios, em conformidade com o artigo 25 da Lei nº 12.016/2009 e enunciado nº 512 da Súmula de jurisprudência do Supremo Tribunal Federal.
+ ..
+Portanto, entendo que, no caso em apreço, a parte agravante não trouxe qualquer argumento novo capaz de modificar o entendimento adotado na decisão monocrática hostilizada, razão pela qual, improcede o recurso interposto.
+Diante do exposto, VOTO pelo conhecimento e DESPROVIMENTO do agravo interno.
+No que se refere à decadência, é firme o entendimento, no âmbito de ste STJ, segundo o qual o prazo para impetração de mandado de segurança deve ser contado a partir da ocorrência do ato lesivo.
+In casu, o impetrante requereu administrativamente o cumprimento do disposto no item 17.8 do Edital do Concurso, que foi indeferido pela Administração em 8/11/2023. Assim, impetrado o presente mandamus em 26/2/2024, deve ser afastada a decadência reconhecida pela Corte a quo.
+Por outro lado, no que se refere à possibilidade de extensão dos efeitos da coisa julgada à terceiros, do fato superveniente - advento da Lei Estadual n. 10.516/2024 -, a suspensão do prazo de validade do concurso e a aplicação da Lei Estadual n. 9.650/2022, ressalta-se que não é possível a esta Corte analisar temas não enfrentados no Tribunal a quo, sob o risco de supressão de instância.
+A esse respeito:
+AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA. VIA JUDICIAL. PONTOS NÃO ATRIBUÍDOS A TODOS OS CANDIDATOS. DECADÊNCIA. TERMO INICIAL. CIÊNCIA DO ATO COATOR. RECURSO ORDINÁRIO PROVIDO. DECADÊNCIA AFASTADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. ANÁLISE DO MÉRITO. SUPRESSÃO DE INSTÂNCIA.
+1. Não é possível a esta Corte debruçar-se sobre temas não enfrentados pelo Tribunal de origem, sob o risco de supressão de instância. Na espécie, foi dado provimento ao recurso ordinário a fim de afastar a decadência e determinar o retorno dos autos ao Tribunal de origem para que proceda ao julgamento de mérito da impetração.
+2. Agravo interno improvido. (AgInt no RMS n. 74.428/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 10/12/2024. Sem grifo no original.)
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
