@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por USINAS SIDERÚRGICAS DE MINAS GERAIS S.A. - USIMINAS contra acórdão da Segunda Turma deste Tribunal, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, I E II, DO CPC/2015. INEXISTÊNCIA. AGRAVO INTERNO NÃO IMPROVIDO. 1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, consignando que, em relação ao ICMS-DIFAL, para consumidor final contribuinte, a inclusão do valor do próprio imposto em sua base de cálculo está disposta na Lei Complementar 87/1996, em consonância com o texto constitucional e entendimento sedimentado do Supremo Tribunal Federal, de forma que não há omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 489 e ao art. 1.022 do CPC/2015.
+2. Agravo interno não provido (fl. 821).
+A parte embargante sustenta, em síntese, que:
+ ..  sem prescindir do merecido respeito a esta c. Turma, olvidou-se do argumento outrora apresentado ao e. Tribunal Estadual e reiterado nos recursos elevados a esta Corte Superior, de que a sistemática de apuração do ICMS mediante "cálculo por dentro", pura e simplesmente, nunca foi objeto de questionamento da ora Embargante (fl. 837).
+Alega que "esta c. Turma manteve o entendimento do e. Tribunal Estadual, apreciando a questão tão somente sob a perspectiva da metodologia do "cálculo por dentro do ICMS" que, reitere-se, não foi o argumento que deu ensejo à interposição do recurso especial, tampouco do agravo interno" (fl. 838).
+O ESTADO DE MINAS GERAIS apresentou impugnação aos embargos de declaração às fls. 844-847.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, diante da ausência de violação aos arts. 489 e 1.022 do Código de Processo Civil, constando, expressamente, que (fls. 824-827):
+Na origem, a USINAS SIDERÚRGICAS DE MINAS GERAIS - USIMINAS, ajuizou embargos à execução fiscal, esta movida pelo ESTADO DE MINAS GERAIS, referente ao auto de infração n. 01.000967307-98, relativo a Imposto Sobre Circulação de Mercadorias e Serviços - ICMS, no período de setembro de 2016 a dezembro de 2017. O pedido de cancelamento do débito e extinção da execução fiscal foi julgado improcedente, conforme os seguintes fundamentos:
+A Autora pretende a declaração do seu suposto direito a não se sujeitar à complementação do recolhimento do diferencial de alíquota de ICMS devido quando da aquisição interestadual de bens destinados para uso, consumo e integração ao seu ativo permanente, sob o fundamento de que o imposto devido por "diferencial de alíquotas" foi majorado pelo Decreto nº 46.930/2015, e não por Lei Complementar, pontuando que a norma estabeleceu uma nova base de cálculo para as operações em questão.
+ ..
+A exigência de complementação da diferença entre alíquotas de ICMS objetiva assegurar, ao Estado de destino, a parcela que lhe cabe na partilha do tributo sobre operações interestaduais, evitando-se, assim, grave distorção na sistemática nacional, eis que a aquisição interestadual de mercadoria seria substancialmente menos onerosa do que a compra no próprio Estado, sujeita esta à alíquota interna "cheia". Por sua vez, o art. 146, inciso III, alínea "a", da Carta Magna, determina que cabe à lei complementar estabelecer normas gerais em matéria de legislação tributária, especialmente sobre definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes.
+Em observância à previsão constitucional supramencionada, a Lei Complementar nº 87/96 dispôs sobre a base de cálculo do tributo em seu art. 13, §1º, inciso I:
+"Art. 13. A base de cálculo do imposto é:
+(..) § 1o Integra a base de cálculo do imposto, inclusive na hipótese do inciso V do caput deste artigo: (Redação dada pela Lcp 114, de 16.12.2002) I - o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle;"
+Como se vê, a Lei Kandir dispôs que a base de cálculo do ICMS será integrada pelo montante próprio imposto, tendo o Exc. STF firmado o entendimento quanto à constitucionalidade da sistemática de apuração do ICMS denominada "cálculo por dentro" ou "base dupla", tema 214, definindo a tese "É constitucional a inclusão do valor do Imposto sobre Circulação de Mercadorias e Serviços - ICMS na sua própria base de cálculo", in verbis:
+ ..
+Analisando detidamente os dispositivos supramencionados, verifica-se que a norma estadual supramencionada limitou-se a descrever a sistemática de cálculo do tributo, não havendo, como sustentado pela parte autora, definição de sua base de cálculo. Além disso, a aplicação da "base única" ou "base dupla" é mera técnica de divisão de arrecadação do ICMS entre as unidades federadas de origem ou de destino, não influindo no valor total do ICMS correspondente ao diferencial de alíquotas a ser pago em determinada operação interestadual, cujo valor permanece o mesmo em ambas as situações. Frise-se, restou indicada, no diploma legal, a forma de cálculo do tributo, em conformidade com o disposto na Constituição da República e na Lei Complementar nº 87/96 (fls. 220-224).
+Interposto recurso de apelação, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, em relação ao ICMS-DIFAL para consumidor final contribuinte, a inclusão do valor do próprio imposto em sua base de cálculo está disposta na Lei Complementar 87/1996, em consonância com o texto constitucional e entendimento sedimentado do Supremo Tribunal Federal.
+Vejamos:
+Por sua vez, o art. 146, inciso III, alínea "a", da Carta Maior determina que cabe à lei complementar estabelecer normas gerais em matéria de legislação tributária, especialmente sobre "definição de tributos e de suas espécies, bem como, em relação aos impostos, seus respectivos fatos geradores, bases de cálculo e contribuintes".
+Em consonância com o texto constitucional, a Lei Complementar nº87/96 em seu artigo 6º, § 1º, assim determina:
+Art. 6º Lei estadual poderá atribuir a contribuinte do imposto ou a depositário a qualquer título a responsabilidade pelo seu pagamento, hipótese em que assumirá a condição de substituto tributário.
+§1º A responsabilidade poderá ser atribuída em relação ao imposto incidente sobre uma ou mais operações ou prestações, sejam antecedentes, concomitantes ou subseqüentes, inclusive ao valor decorrente da diferença entre alíquotas interna e interestadual nas operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, que seja contribuinte do imposto.
+E quanto a base de cálculo do imposto, estabelece que:
+Art. 13. A base de cálculo do imposto é:
+ ..  IX -nas hipóteses dos incisos XIII e XV do caput do art. 12 desta Lei Complementar
+a) o valor da operação ou prestação no Estado de origem, para o cálculo do imposto devido a esse Estado
+b) o valor da operação ou prestação no Estado de destino, para o cálculo do imposto devido a esse Estado.
+§ 1º Integra a base de cálculo do imposto, inclusive nas hipóteses dos incisos V, IX e X do caput deste artigo:
+I - o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle;
+ ..
+Sendo assim, a Lei Complementar nº87/96, que autoriza a inclusão do valor do próprio imposto em sua base de cálculo, o que, por conseguinte, afasta a existência de uma base de cálculo ficta para apuração do imposto, nos moldes sugeridos pelo recorrente (fls. 440-455).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; e EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
