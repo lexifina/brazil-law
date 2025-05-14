@@ -1,0 +1,48 @@
+DECISÃO
+DAVID PEREIRA DOS SANTOS interpõe recurso especial, fundado no art. 105, III, "a", do art. 105, II, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0024.20.014221-4.001.
+Nas razões do recurso especial, a defesa requer, em síntese, pena-base no mínimo legal e aponta violação dos arts. 619 do Código de Processo Penal e 1.022, I e II, do Código de Processo Civil.
+Apresentadas as contrarrazões e admitido o recurso (fls.420-422), o Ministério Público Federal opinou pelo seu desprovimento.
+Decido.
+I. Admissibilidade
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Consta dos autos que o recorrente foi condenado, em primeira instância, à pena total de 7 anos e 11 meses de reclusão, no regime fechado, além de multa, à razão mínima, pela prática de roubo duplamente majorado - (art. 157, § 2º, II e 2º-A, I, do CP).
+A Corte estadual negou provimento ao apelo defensivo e manteve o quantum da pena inaugural fixado na sentença.
+II. Dosimetria
+A defesa insurge-se contra a elevação da pena-base, sob o argumento da ausência de fundamentação.
+Verifico que a Corte de origem registrou o seguinte quanto à individualização da pena basilar (fls. 356-368, destaquei):
+ ..  A culpabilidade foi considerável, por se tratar de réu penalmente imputável, inexistindo nos autos qualquer elemento em contrário, tendo potencial capacidade de conhecer a ilicitude de suas condutas, sendo-lhe plenamente exigíveis condutas diversas das adotadas. Seu dolo, contudo, foi normal à espécie, não ultrapassando os limites que compreendem o próprio tipo penal.
+O réu ostenta maus antecedentes criminais e é reincidente, possuindo mais de uma condenação transitada em julgado, conforme certidões cartorárias judiciais acostadas aos autos, das quais utilizo o processo nº 0024.12.171.818-3 para valorar a presente circunstância.
+A conduta social do réu não restou delineada aos autos.
+Não vislumbro outros motivos senão o inerente ao delito em questão, qual seja, o ganho patrimonial fácil e desonesto em prejuízo alheio.
+A personalidade do acusado não pode ser aferida, até mesmo porque o processo judicial não dispõe de elementos técnicos que habilitem o julgador a proceder a valorações desta natureza.
+As circunstâncias do crime são graves, e indicam que o réu executou a prática delitiva em concurso com um indivíduo não identificado, com emprego de grave ameaça exercida com uso de arma de fogo, para subtrair bem de terceiro. Ante a incidência de duas majorantes, uma será analisa nesta fase processual e a outra na terceira fase de individualização da pena.
+As consequências do crime são inerentes ao tipo. O comportamento da vítima em nada contribuiu para a prática do furto.
+Ponderadas as circunstâncias judiciais, sendo duas delas desfavoráveis (antecedentes e circunstâncias - por estarem presentes duas majorantes, das quais utilizo uma, o concurso de pessoas), deve a pena base ser aumentada em 218 sobre o valor resultante da diferença entre o máximo e o mínimo da pena cominada ao tipo penal, razão pela qual, estabeleço a pena-base para o crime de roubo em 05 (cinco) anos e 06 (seis) meses de reclusão, o que tenho como necessário e suficiente para a reprovação e prevenção do crime  .. .
+a) Pena-base - culpabilidade
+Relativamente à pretendida redução da sanção inaugural, destaco que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleita a quantidade de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o magistrado, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto.
+Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Diante da fundamentação oferecida pelo Tribunal local, noto ilegalidade na fixação da pena-base. Isso porque as instâncias ordinárias fundamentaram o vetor judicial da culpabilidade com amparo na imputabilidade do réu, motivo pelo qual ele dispõe de "capacidade de conhecer a ilicitude de suas condutas" (fls. 356).
+A culpabilidade, todavia, deve ser compreendida como juízo de reprovabilidade da conduta a ressaltar maior ou menor censura do comportamento do agente no cotejo das circunstâncias concretas do caso.
+Na hipótese, não há elementos que justifiquem o aumento da pena basilar pelo referido vetor judicial. Dessa forma, afasto a fundamentação da valoração negativa.
+b) Pena-base - antecedentes
+A irresignação do recorrente visa o decote dos maus antecedentes, sob o argumento da superação do prazo depurador de cinco anos relativamente à condenação transitada em julgado.
+Quanto ao direito ao esquecimento e à valoração negativa dos maus antecedentes, ambas as turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se para afirmar que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade. Leva-se em consideração o lapso transcorrido entre a extinção da pena anteriormente imposta e a prática do novo delito, qual seja, mais de 10 anos.
+A propósito, confiram-se:
+ ..  a condenação anterior do réu  ..  configura maus antecedentes, ainda que ultrapassado o prazo quinquenal para reincidência (art. 64, I, do CP). O direito ao esquecimento, por sua vez, não se aplica, pois o intervalo entre a extinção da pena e o novo delito não excedeu 10 anos  ..  (REsp n. 2.115.794/PR, Rel. Ministra Daniela Teixeira, 5ª T., DJEN 25/2/2025, grifei).
+ ..  A jurisprudência do STJ admite a aplicação da teoria do direito ao esquecimento para afastar a valoração negativa de maus antecedentes quando a extinção da pena ocorreu há mais de 10 anos  ..  (REsp n. 2.087.831/SC, Rel. Ministra Daniela Teixeira, 5ª T., DJEN 25/2/2025).
+Na hipótese, não assiste razão ao recorrente porque a alegação de que as condenações ultrapassam o quinquídio legal da reincidência não está em consonância com a compreensão deste Tribunal Superior:
+ ..  as condenações atingidas pelo período depurador quinquenal do art. 64, inciso I, do CP, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes, na primeira etapa da dosimetria da pena. Precedentes.
+6. No mesmo sentido, o Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema 150 - repercussão geral), de relatoria do Ministro Luís Roberto Barroso, publicado no DJE de 23/11/2020, fixou a tese de que "não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal". Tal entendimento, todavia, não impede o afastamento da desfavorabilidade da vetorial - antecedentes, em razão de peculiaridades do caso concreto, notoriamente nas hipóteses de transcurso de lapso temporal muito extenso  ..  (AgRg no AREsp n. 2.720.836/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/10/2024, destaquei).
+Desse modo, conservo a valoração negativa dos antecedentes.
+c) Pena-base - circunstâncias do crime
+É pacífica a jurisprudência desta Corte Superior quando o delito apresentar duas ou mais causas de aumento, e uma delas servir de fundamento para elevar a pena inaugural, como procederam as instâncias ordinárias na hipótese. Isso porque o roubo sob apuração foi consumado com uso de arma de fogo e concurso de pessoas. Desse modo, as circunstâncias do crime foram devidamente maculadas por esta última majorante.
+A propósito:
+ ..  a dosimetria da pena foi realizada com base em elementos concretos, pois a migração da majorante relativa ao repouso noturno para a primeira fase da dosimetria, pode ser considerada como circunstância judicial negativa, não havendo ilegalidade que justifique a revisão (HC n. 871.449/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 11/12/2024) (HC n. 949.840/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN 25/4/2025).
+Diante desse cenário, reduzo a reprimenda inicial para 5 anos de reclusão, à razão de 1/8 para cada circunstância judicial, quantum aplicado nas instâncias locais. Na fase subsequente, mantenho a sanção no patamar acima indicado, pois compensadas plenamente a agravante (reincidência) com a atenuante (conf issão espontânea). Na etapa final, em virtude do emprego de arma de fogo, conservo o aumento de 2/3 e totalizo a reprimenda em 8 anos e 4 meses de reclusão.
+II. Dispositivo
+À vista do exposto, conheço do recurso especial para negar-lhe provimento. Todavia, concedo habeas corpus de ofício para reduzir o quantum da sanção para 8 anos e 4 me ses de reclusão, uma vez constatada ilegalidade na fundamentação da culpabilidade, como vetor judicial, no cômputo da pena basilar.
+Comunique-se o teor desta decisão, com urgência, às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
