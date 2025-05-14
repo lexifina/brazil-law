@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERTO RIBEIRO LIMA DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500260-92.2023.8.26.0617 (fls. 315/325).
+No recurso especial, o agravante requer: a) a absolvição pela nulidade de prova em razão da ilegalidade da busca domiciliar ou pessoal; b) o reconhecimento da insuficiência da prova para a sua condenação; c) a desclassificação da conduta prevista no art. 33 para a prevista no art. 28 da Lei 11.343/2006; d) O reconhecimento da causa especial de redução de pena, prevista no art. 33, § 4º, da Lei 11.343/2006; e e) A modificação do regime de pena do fechado para o semiaberto (fls. 331/351).
+Apresentadas as contrarrazões (fls. 367/376), o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 283/STF (fls. 379/383).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial, com base na Súmula 182 do STJ (fls. 432/435).
+É o relatório.
+O agravo não preenche os requisitos de admissibilidade.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a Súmula 283/STF, porquanto a parte agravante deixou de impugnar especificamente todos os fundamentos da decisão recorrida, o que impede o seu conhecimento, por ausência de requisito de admissibilidade.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. Assim, há de se reconhecer o óbice da Súmula 283/STF à espécie, no sentido de que é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. Caberia, então, ao agravante, nas razões do agravo em recurso especial, de forma específica, demonstrar a inaplicabilidade dos apontados óbices. No caso concreto, conforme se infere das razões de fls. 386/397, não houve impugnação específica, incidindo, portanto, o óbice da Súmula 182/STJ
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRAFICO DE DROGAS (951,99 G DE MACONHA). INSURGÊNCIA NÃO CONHECIDA POR INCIDÊNCIA DA SÚMULA 283/STF. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo em recurso especial não conhecido .
