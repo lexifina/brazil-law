@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Marco Buzzi, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284/STF. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que o acórdão recorrido, diversamente do paradigma, não apreciou matéria de mérito recursal, em razão da Súmula n. 284/STF.
+2. Os embargos são incabíveis quando o acórdão embargado, proferido em agravo interno, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável ao caso a Súmula n. 315/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência.
+Em suas razões, a parte agravante sustenta "que as interpretações por ambos os julgados são diametralmente opostas e absolutamente incompatíveis entre si, posto que a Primeira Turma e a Quarta Turma se contradizem, AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2092655-MG (2022/0080744-4) - e do caso concreto, embargado AgInt no AGRAVO EM RECURSO ESPECIAL Nº AREsp 2539565/GO (2023/0437690-8), restaram diametralmente divergentes quanto ao ponto nodal da controvérsia atinente a suposta óbice pela Súmula 182/STJ.  ..  Portanto, não há que se falar em inocorrência da hipótese prevista no art. 1.043, III, do CPC, tal como afirmado na r. decisão agravada, sendo certo que os Embargos de Divergência cumpriram com todos requisitos de admissibilidade, nos moldes do que prevê a atual jurisprudência do STJ  ..  Ademais, vale destacar que a aplicação da Súmula nº 315/STJ não tem aplicação atual, em virtude do Novo Código de Processo Civil, sendo clara a sua obsolescência" (fls. 1.069-1.070).
+Por fim, requer a reforma da decisão.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284/STF. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que o acórdão recorrido, diversamente do paradigma, não apreciou matéria de mérito recursal, em razão da Súmula n. 284/STF.
+2. Os embargos são incabíveis quando o acórdão embargado, proferido em agravo interno, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável ao caso a Súmula n. 315/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (fls. 1.051-1.053):
+Trata-se de embargos de divergência em recurso especial ou em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relator Ministro MARCO AURÉLIO BELLIZZE, assim ementado (e-STJ fl. 995):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. TERMO INICIAL DOS JUROS. RAZÕES DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO. AGRAVO INTERNO IMPROVIDO.
+1. Não se conhece do recurso especial quando as razões recursais estão dissociadas do decidido no acórdão recorrido, aplicando-se a Súmula nº 284 do STF.
+2. No caso, a recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+3. Agravo interno improvido.
+A parte embargante defende que o acórdão recorrido contrariou o seguinte julgado: AgInt no AREsp n. 2.092.655/MG, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 27/03/2023. Alega que "matéria ventilada no Recurso Especial, cuja caminhada foi obstada pela N. Relator Marco Aurélio Bellizze, por incidência da Súmula 284/STF, merece ser reapreciada.  ..  nota-se que Quarta Turma já reconheceu a existência de julgamento, ao observar que o pedido se encontrava explícito na petição inicial, e posteriormente renovado.  ..  Todavia, em julgamento ora embargado, afirmou que o especial interposto limitou-se a alegar de forma genérica os princípios violados, não tendo sido impugnados de forma específica os fundamentos do acórdão, deixando de reconhecer.  ..  Deste modo, estando abrangidos todos os fundamentos suficientes para solução da lide desde o especial, além destes serem todos suficientes para interpretação do caso concreto, não há o que se falar em óbice pela Súmula 284/STF" (e-STJ fls. 1.018/1.020).
+Pede a reforma do acórdão embargado (e-STJ fl. 1.022).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e o AgInt no AREsp n. 2.092.655/MG, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 27/03/2023.
+O acórdão recorrido não apreciou a matéria de mérito referente à incidência de juros moratórios na rescisão de compromisso de compra e venda, em razão do óbice da Súmula n. 284/STF, por verificar que o "argumento recursal pertinente ao tema está dissociado do que foi decidido pelo Tribunal estadual, evidenciando a deficiência de fundamentação, uma vez que a parte insurgente não impugnou, de forma específica, os seus fundamentos" (e-STJ fl. 1.000). Por outro lado, o paradigma da QUARTA TURMA, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial) suplantou, em controvérsia sobre o cabimento de agravo de instrumento na origem, a incidência das Súmulas n. 283 e 284 do STF.
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Os embargos, assim, são incabíveis quando o acórdão embargado não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no acórdão recorrido no ponto específico. Aplicável, por analogia, a Súmula n. 315/STJ.
+Confiram-se: AgInt nos EAREsp n. 1.898.298/RJ, Relator Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 25/4/2023, DJe de 28/4/2023, AgRg nos EAREsp n. 2.004.271/SC, Relator Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 21/3/2023, DJe de 4/4/2023.
+De igual modo, os embargos de divergência não merecem conhecimento por causa da impossibilidade de análise da correta aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial, diante da ausência de similitude entre o acórdão embargado e o paradigma. Portanto, são incabíveis os embargos de divergência, consoante o art. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se e intimem-se.
+Conforme dispõem os arts. 1.043, I, do CPC/2015 e 266, I, do RISTJ, os embargos de divergência se destinam à uniformização da jurisprudência desta Corte, eliminando eventuais discrepâncias de teses entre acórdãos de turmas ou seções distintas, acerca do mesmo tema jurídico.
+Os embargos, assim, são incabíveis quando o acórdão embargado, proferido em agravo nos próprios autos, não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade recursal, como ocorre no aresto recorrido no ponto específico. Aplicável a Súmula n. 315/STJ ao caso em apreço.
+Ademais, inexiste similitude fático-jurídica entre os casos confrontados, tendo em vista que o acórdão recorrido, diversamente do paradigma, não apreciou matéria de mérito, em razão da Súmula n. 284/STF .
+Dessa forma, mantenho a decisão impugnada, ante a ausência de razões novas capazes de alterar seus fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
