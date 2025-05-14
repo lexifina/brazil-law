@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por LUIS GUSTAVO CASAGRANDE e PAULO HENRIQUE DE SOUZA TONELOTTI contra acórdão proferido pelo Tribunal de origem com a seguinte ementa (fl. 106):
+Ementa. Direito Penal. Mandado de Segurança. Restituição de veículos cujo perdimento foi decretado em processo criminal. Descabimento. Inviável é a restituição de bens apreendidos antes do trânsito em julgado da sentença, salvo quando não mais interessar ao processo nos termos do artigo 118 do Código de Processo Penal. Lesão a direito líquido e certo não demonstrada. Segurança denegada.
+Em suas razões os recorrentes sustentam o direito à restituição dos bens apreendidos de terceiros de boa-fé, conforme disposto no art. 120 do Código de Processo Penal, alegando que a titularidade dos veículos teria sido comprovada por meio de documentação idônea.
+Alegam que não há conexão entre o recurso de apelação interposto nos autos principais e o direito debatido no mandado de segurança, uma vez que os bens não pertencem aos acusados daquele processo.
+Aduzem que terceiros não podem ser penalizados com a perda de seus bens devido a atos ilícitos cometidos por outrem, conforme o princípio da individualização da pena, previsto no art. 5º, XLVI, da Constituição Federal.
+Os recorrentes abordam, ainda, aspectos relacionados ao mérito da causa, reiterando que os bens não constituem instrumentos do crime nem teriam sido adquiridos por meio dele, e que a sentença dos autos principais evidenciou a ausência de ligação entre os veículos e o fato apurado (tráfico de drogas).
+No que tange às taxas e custas decorrentes do período de permanência dos veículos no pátio, ressaltam que não teriam dado causa à apreensão.
+Ao final, requerem o provimento do recurso, com a consequente concessão da segurança e determinação da restituição dos veículos apreendidos nos autos do processo criminal n. 1500033-43.2024.8.26.0593.
+Parecer do Ministério Público Federal opinando pelo improvimento do recurso (fl. 142):
+RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE COISA APREENDIDA. DECISÃO JUDICIAL DE NATUREZA DEFINITIVA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE RECURSO PREVISTO EM LEI. DECISÃO QUE DESAFIA RECURSO DE APELAÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 267 DO STF.
+1. A decisão judicial que resolve incidente de restituição de coisa apreendida tem natureza definitiva, para a qual o Código de Processo Penal prevê o recurso de apelação. Bem por isso, não pode ser impugnada através da ação mandamental. Precedentes.
+2. De qualquer sorte, conforme previsão do art. 118, do Código de Processo Penal, antes de transitar em julgado a sentença, os bens apreendidos pelo Juízo não serão restituídos enquanto interessarem à instrução.
+3. Parecer pelo desprovimento do recurso.
+É o relatório.
+No caso, o Tribunal de origem denegou a segurança, com base na seguinte fundamentação (fls. 107-109, grifo próprio):
+Não há direito líquido e certo. Não fazem jus os impetrantes à concessão da segurança pretendida.
+Os impetrantes formularam um pedido de restituição de bens nos Autos 1500033-43.2024.8.26.0593.
+Sobreveio, então, a sentença condenatória, que decretou o perdimento dos bens cuja restituição se busca nesta via mandamental, ressaltando:
+"Decreto a perda dos valores, do aparelho celular e, tendo em visto o encontro de entorpecentes em seu interior, do automóvel I/VOLVO C 30 2.0, ano de fabricação 2011, modelo 2011, cor preta, combustível gasolina, placa IRX1035, apreendido nos autos, nos termos do artigo 63, inciso I, da Lei 11343/06. Ainda, tendo em vista que a propriedade da motocicleta Honda, XL 700 V TRANSALP, ano de fabricação 2012, modelo 2012, combustível gasolina, cor branca, placa NYB9G77, depende de análise do Juízo Cível competente, indefiro o pedido de restituição do automóvel em questão."
+E referido decisum foi impugnado via recurso de apelação, ainda pendente de julgamento.
+Assim, não houve, ainda, trânsito em julgado da sentença penal condenatória.
+Destaca-se que, nos termos do artigo 118, do Código de Processo Penal, as coisas apreendidas somente serão restituídas, antes do trânsito em julgado, se não forem mais úteis para o processo. Logo, para que se resolva acerca da restituição, deve-se, primeiramente, saber se o objeto não é mais necessário à persecução penal.
+É certo que o interesse público na solução do grave crime cometido se sobrepõe ao interesse particular dos ora impetrantes.
+E, sendo assim, a decisão que negou o pedido do impetrante foi devidamente fundamentada, não se verificando na presente ação o direito líquido e certo aventado.
+Dessa forma, por óbvio, a referida análise não cabe em sede de Mandado de Segurança, pois, como de geral sabença, o mandado de segurança é remédio constitucional colocado à disposição de qualquer cidadão ou de qualquer pessoa jurídica para proteção de direito líquido e certo, desde que não amparado por habeas corpus ou habeas data, que esteja sendo lesado ou esteja na iminência de ser. E, por direito líquido e certo, entende-se aquilo que pode ser acolhido de plano, sem necessidade de qualquer dilação probatória, o que não é a hipótese aqui tratada.
+Como relatado, o mandado de segurança foi denegado pela ausência de comprovação do direito líquido e certo dos recorrentes. Foi fundamentado, pelo Tribunal de origem, que a superação do consignado pelo Juízo de primeiro grau demandaria dilação probatória, o que não é cabível na via estreita do writ.
+Porém, as razões do recurso ordinário em mandado de segurança não enfrentam, de modo suficiente, o referido fundamento, não bastando para tanto que a parte recorrente o mencione ou alegue genericamente que seu direito foi comprovado, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a não conceder a ordem exigia o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão recorrida.
+Aplica-se, em consequência, analogicamente a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO COMPROVAÇÃO DO DIREITO LIQUÍDO E CERTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182/STJ. JURISPRUDÊNCIA DO STJ.
+1. Como cediço, "Esta Corte possui entendimento consolidado segundo o qual a impetração de mandado de segurança pressupõe a existência de direito líquido e certo, comprovado mediante prova pré-constituída" (MS n. 29.616/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 4/4/2024, DJe de 10/4/2024).
+2. No caso dos autos, não foi demonstrado o direito líquido e certo por meio de prova pré-constituída no mandado de segurança no que diz respeito à pretensão de novo depoimento da vítima, pois inexiste a certeza de que o depoimento seria modificado ou se efetivamente seria capaz de sustentar o eventual ajuizamento de ação de revisão criminal.
+3. Não impugnado o fundamento eleito, faz-se aplicável o óbice da Súmula n. 182 do STJ, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo regimental não conhecido.
+(AgRg no RMS n. 72.742/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos d a decisão recorrida", hipótese amparada também pelo art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
