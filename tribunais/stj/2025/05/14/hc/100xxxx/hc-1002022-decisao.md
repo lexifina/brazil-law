@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de CHARLES MACHADO - condenado por homicídio qualificado e aborto provocado por terceiro a 24 anos e 6 meses de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 35/82), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 004.12.009779-0 (fls. 25/28, da 1ª Vara Criminal da comarca de Araranguá/SC), alterada em grau de apelação -, com afastamento da agravante de reincidência, alegando que a agravante não foi debatida em plenário.
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois assentado no acórdão hostilizado que a atenuante foi discutida em plenário - ambas as agravantes quanto à atenuante da confissão espontânea foram objeto de referência no interrogatório do Acusado promovido na sessão de Julgamento (vide gravação da fl. 244), tendo o Parquet inquirido-o sobre suas condenações anteriores, cumprimento de pena e relacionamento mantido com a Ofendida (fl. 80) -, concluir de forma diversa demandaria reexame probatório, inviável na via eleita.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
