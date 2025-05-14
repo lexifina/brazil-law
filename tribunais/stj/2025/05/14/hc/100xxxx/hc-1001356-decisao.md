@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de UEMERSON BENEDICTO RODRIGUES contra ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que, nos autos do Agravo em Execução n. 0009308-90.2024.8.26.0496, negou provimento à insurgência defensiva, mantendo a negativa do indulto previsto no Decreto n. 11.302/2022 (Execução n. 0006604-51.2017.8.26.0496, Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 6ª RAJ).
+A defesa alega que os crimes sobre os quais cabe indulto não foram cometidos em concurso com nenhum dos crimes impeditivos do art. 7º do Decreto n. 11.302/2022, não incidindo, portanto, a hipótese do art. 11, parágrafo único, do referido Decreto (fl. 6).
+Pede a concessão da ordem para indultar os crimes não impeditivos (fl. 6).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Isso porque a Terceira Seção deste Superior Tribunal, no AgRg no HC n. 890.929/SE, de minha relatoria, Terceira Seção, DJe de 29/4/2024, alinhou seu posicionamento ao do Supremo Tribunal Federal para considerar que o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente, em razão da unificação de penas. Confira-se: SL 1698 - MC-Ref, Ministro Luís Roberto Barroso, Tribunal Pleno, publicado em 29/2/2024.
+No caso, o paciente encontra-se condenado em razão da prática de crime impeditivo e não impeditivo, sendo inviável a concessão do indulto, consoante consignado pelo aresto impugnado (fls. 46/47 - grifo nosso):
+Como no caso dos autos o sentenciado possui condenações por crimes diversos em processos distintos situação impositora da unificação ou do somatório das penas até 25 de dezembro de 2022, nos termos do artigo 11, caput, do Decreto Presidencial nº 11.302/ 2022 e o cálculo de liquidação de penas, acostado a fls. 05/ 14, aponta que, somadas, as penas máximas em abstrato superam a condicionante quinquenal, impondo o arremate de que não restou comprovado o adimplemento de todos os requisitos legais.
+Mas não é só isso.
+Consoante se depreende do cálculo de liquidação de penas (fls. 05/ 14), datado de 08 de janeiro de 2024, o agravante não havia cumprido integralmente a pena relativa ao delito impeditivo (roubo duplamente qualificado tentado ver art. 7º, incisos I e II, do decreto indulgente) até o dia 25 de dezembro de 2022, data da edição do referido decreto, o que, de acordo com os dispositivos legais supra mencionados, impossibilita a concessão da benesse indultária, tanto sobre os delitos impeditivos, quanto sobre os demais delitos pelos quais o sentenciado cumpre pena privativa de liberdade.
+Salienta-se que o concurso de crimes aludido no parágrafo único, do artigo 11, do decreto indulgente, não se refere às espécies de concursos delituosos previstos nos artigos 69, 70 e 71, do Código Penal (material, formal ou crime continuado) e nem à existência de conexão ou continência, mas à pluralidade de processos executórios em desfavor do sentenciado, sobretudo, nos casos em que tenha havido a unificação das penas.
+Ante o exposto, indefiro liminarmente a inicial.
+Publiq ue-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO (DECRETO PRESIDENCIAL N. 11.302/2022). EXISTÊNCIA DE CRIME IMPEDITIVO NÃO PRATICADO EM CONCURSO. MUDANÇA DE ENTENDIMENTO PELA TERCEIRA SEÇÃO. ALINHAMENTO AO ENTENDIMENTO DO PLENO DO STF. UNIFICAÇÃO. PENA IMPOSTA POR CRIME IMPEDITIVO NÃO CUMPRIDA. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Writ indeferido liminarmente.
