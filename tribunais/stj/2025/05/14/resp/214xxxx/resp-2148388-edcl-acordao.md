@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. REAJUSTE DA PARCELA DE PRODUTIVIDADE FISCAL PELA UFIR/RJ. AGRAVO DE INSTRUMENTO. IMPROCEDÊNCIA DO PEDIDO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTIMENTE CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DA SUPREMA CORTE. A GRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA POR SEUS FUNDAMENTOS. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Estado do Rio de Janeiro contra a decisão que, nos autos de ação de obrigação de fazer c/c cobrança, ora em fase de cumprimento de sentença, determinou o cumprimento da obrigação de atualização do prêmio de produtividade fiscal dos agravados.
+II - No Tribunal de origem, a decisão foi mantida. Esta Corte negou provimento ao recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inviabilidade do recurso especial para o exame de ofensa a dispositivos da Constituição Federal, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se provimento ao recurso especial interposto pelo Estado do Rio de Janeiro, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, nos termos assim ementados:
+Agravo de Instrumento. Cumprimento de sentença. Reajuste da parcela de produtividade fiscal pela UFIR/RJ, com pagamento de valores pretéritos, observada a prescrição quinquenal. Recurso interposto em face da decisão que intimou o Estado do Rio de Janeiro para comprovar o efetivo cumprimento da obrigação de fazer. Confirmação.
+1. Título executivo judicial determinando a correção do valor dos prêmios de produtividade dos Autores/Agravados pela UFIR-RJ, com recálculo dos valores dos anos subsequentes e pagamento das diferenças pretéritas devidas, com os acréscimos legais, observados o quinquênio prescricional e o teto remuneratório do serviço público.
+2. Inaplicabilidade de precedente superveniente, no caso acórdão do Órgão Especial deste TJRJ, sobre decisão anterior já transitada em julgado. Preponderância da coisa julgada.
+3. Inexistência de pronunciamento da Suprema Corte sobre o tema, o que afasta a aplicação do parágrafo 12 do artigo 525 do CPC.
+4. Desprovimento do recurso.
+Na origem, trata-se de agravo de instrumento interposto pelo Estado do Rio de Janeiro contra a decisão que, nos autos de ação de obrigação de fazer c/c cobrança, ora em fase de cumprimento de sentença, ajuizada por Vinícius Mendes Moura Pimentel e outros, determinou a atualização do prêmio de produtividade.
+No Tribunal de origem, a decisão foi mantida. Esta Corte negou provimento ao recurso especial.
+No recurso especial, o Estado do Rio de Janerio alega ofensa aos arts. 505, 525 e 536, 4º, e 1022, do CPC e inconstitucionalidade do art. 7º, II, "a", da Lei Estadual nº 6127/2011. Invoca o Tema n. 733/STF.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REAJUSTE DA PARCELA DE PRODUTIVIDADE FISCAL PELA UFIR/RJ, COM PAGAMENTO DE VALORES PRETÉRITOS, OBSERVADA A PRESCRIÇÃO QUINQUENAL. RECURSO INTERPOSTO EM FACE DA DECISÃO QUE INTIMOU O ESTADO DO RIO DE JANEIRO PARA COMPROVAR O EFETIVO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. CONFIRMAÇÃO. NESTA CORTE CONHECEU PARCIALMENTE DO RECURSO, PARA NESSA PARTE, NEGAR-LHE PROVIMENTO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA POR SEUS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que conheceu parcialmente do recurso especial e nessa parte negou-lhe provimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+III - Ademais, a leitura atenta do acórdão recorrido revela que ele utilizou-se de fundamento constitucional para solucionar a controvérsia. Desta forma se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência. Dessa forma, não cumpre ao Superior Tribunal de Justiça, na via estreita do recurso especial, analisar a suposta violação de dispositivos constitucionais, nem mesmo para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal para tratar da matéria de índole eminentemente constitucional, através do processamento e julgamento de recursos extraordinários, nos termos do art. 102, III, da Constituição Federal.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+.. no v. acórdão ora embargado existe uma questão que restou omissa, e que é relevante, qual seja, aquela atinente à aplicação do disposto no artigo 1.032 do CPC. (..)
+O v. acórdão embargado passou absolutamente ao largo de tal questão, que precisa ser definida para que não se opere, neste feito, uma situação de non liquet, em que nem o STJ nem o STF apreciem a matéria atinente à ocorrência ou não de violação à coisa julgada quando, em relação de trato sucessivo, uma lei declarada inconstitucional após a sentença transitada em julgado venha a paralisar ex nunc a produção dos efeitos daquele julgado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. REAJUSTE DA PARCELA DE PRODUTIVIDADE FISCAL PELA UFIR/RJ. AGRAVO DE INSTRUMENTO. IMPROCEDÊNCIA DO PEDIDO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTIMENTE CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DA SUPREMA CORTE. A GRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA POR SEUS FUNDAMENTOS. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Estado do Rio de Janeiro contra a decisão que, nos autos de ação de obrigação de fazer c/c cobrança, ora em fase de cumprimento de sentença, determinou o cumprimento da obrigação de atualização do prêmio de produtividade fiscal dos agravados.
+II - No Tribunal de origem, a decisão foi mantida. Esta Corte negou provimento ao recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inviabilidade do recurso especial para o exame de ofensa a dispositivos da Constituição Federal, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à inviabilidade do recurso especial para o exame de ofensa a dispositivos da Constituição Federal, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+Com relação à alegada violação dos arts. 11, 489, § 1º, IV, e 1.022, II, do CPC/2015, não se vê pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação do recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça. (..)
+Consoante se depreende dos excertos reproduzidos do aresto recorrido, a Corte Estadual, com fundamento nos elementos fáticos dos autos, concluiu que a presente ação não possui natureza real, mas sim pessoal, com o prazo prescricional quinquenal previsto no art. 1º do Decreto Lei n. 20.910/1932, bem assim de que não houve desvio de finalidade na edição do Decreto n. 1.343/2007, em se tratando de tredestinação lícita a destinação do imóvel desapropriado para outra finalidade de interesse público.
+Nesse passo, para se deduzir de modo diverso do aresto recorrido, entendendo tratar-se a lide de natureza real, com prazo prescricional de 10 anos, que teve início somente a partir da efetiva e definitiva posse do recorrido no imóvel, na forma pretendida no recurso, demandaria o reexame do mesmo acervo fático-probatório já analisado, providência impossível pela via estreita do recurso especial, ante o óbice do enunciado da Súmula n. 7/STJ.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
