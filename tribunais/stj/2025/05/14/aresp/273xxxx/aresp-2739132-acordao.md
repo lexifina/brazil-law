@@ -1,0 +1,136 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Francisco Falcão.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. CREDITAMENTO. TRANSFERÊNCIA INTERESTADUAL DE MERCADORIAS. BASE DE CÁLCULO. ENTRADA MAIS RECENTE DA MERCADORIA. VIGÊNCIA DO ART. 13, § 4º, I, DA LC 87/96. CREDITAMENTO COM CUSTO DO CONSUMO DE ENERGIA ELÉTRICA. DEFICIÊNCIA RECURSAL. SÚMULA N. 283 E 284/STF .
+I - Na origem, a empresa contribuinte opôs embargos à execução fiscal para impugnar autos de infração relacionados ao suposto aproveitamento indevido de créditos de ICMS, relativo às operações de transferência de mercadorias entre estabelecimentos do mesmo contribuinte.
+II - Na sentença, julgou-se parcialmente procedente a demanda para anular alguns dos autos de infração. O Tribunal a quo manteve a sentença, sob fundamento, em resumo, de que a obrigação tributária foi calculada pelo Estado com base no valor médio das operações, em desacordo com o art. 13, § 4º, I, da LC 87/96, que exige a utilização do valor da última entrada da mercadoria.
+RECURSO ESPECIAL DO ESTADO DA BAHIA
+III - O Supremo Tribunal Federal, no julgamento do Tema 1.099 (ARE 1.255.885), firmou a seguinte tese: "Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia". Na mesma linha, no julgamento da ADC n. 49, decidiu que esse entendimento não afastaria o direito ao creditamento da operação anterior.
+IV - No caso em questão, a controvérsia se limita à metodologia de apuração da base de cálculo para fins de creditamento do ICMS, ou seja, se o valor a ser considerado deve ser o valor médio das operações ou o valor da última entrada da mercadoria.
+V - Embora a Lei Complementar n. 204/2023 e o Convênio ICMS n. 109/2024 tragam novas diretrizes para a apuração da base de cálculo do crédito de ICMS, deve-se aplicar, para as relações jurídicas ocorridas durante sua vigência, o art. 13, § 4º, I, da LC 87/96, que determina que a base de cálculo do imposto corresponde à entrada mais recente da mercadoria, conforme decidido pelo Tribunal de origem.
+VI - Em relação à utilização do custo com o consumo de energia elétrica para fins de creditamento de ICMS, verifica-se que as razões recursais apresentadas pelo Estado estão dissociadas dos fundamentos do acórdão recorrido. O Estado sustenta que as atividades da empresa no Estado da Bahia não estariam relacionadas com o processo de industrialização, enquanto o Tribunal a quo entendeu que a energia elétrica foi efetivamente consumida no estabelecimento do Estado de origem para a produção das mercadorias remetidas, tendo a empresa direito ao creditamento. Incide na hipótese as Súmulas n. 283 e 284, ambas do STF.
+RECURSO ESPECIAL DE PERDIGÃO AGROINDUSTRIAL S/A
+VII - Quanto a apontada ofensa à Súmula 166 do STJ, verifica-se que o recorrente, ao apresentar essa parcela recursal, não a vinculou a qualquer dispositivo legal, sendo necessário para o conhecimento da irresignação do recorrente no eito do recurso especial, a indicação do dispositivo legal e a forma de interpretação, supostamente violadora do regramento pelo Tribunal a quo. Nesse panorama, essa parcela recursal não viabiliza um confronto interpretativo normativo, implicando em não conhecimento. Incidência da Súmula 284/STF.
+VIII - Em relação à suposta ofensa do art. 13, § 4º, II, da LC n. 87/96, quanto ao pleito de creditamento do ICMS para as despesas com depreciação, manutenção e outros custos indiretos, denota-se que o Tribunal a quo fundamentou pela inexistência de previsão legal para fundamentar o direito ao creditamento. Assim, verifica-se que o citado dispositivo não tem densidade normativa para sustentar a tese do recorrente, em face do conteúdo específico do seu reclamo. Apresenta-se evidente a deficiência do pleito recursal, incidência da Súmula n. 284/STF.
+CONCLUSÃO
+IX - Agravos conhecidos para i) conhecer parcialmente do recurso especial do ESTADO DA BAHIA e, nessa parte, negar-lhe provimento, e ii) não conhecer do recurso especial de PERDIGÃO AGROINDUSTRIAL S/A.
+RELATÓRIO
+Tratam-se de agravos interpostos por PERDIGÃO AGROINDUSTRIAL S/A e por ESTADO DA BAHIA contra as decisões que inadmitiram os recursos especiais dos agravantes.
+Na origem, a empresa contribuinte opôs embargos à execução fiscal, com valor da causa atribuído em R$ 2.176.436,06 (dois milhões cento e setenta e seis mil quatrocentos e trinta e seis reais e seis centavos), em abril de 2014, com o objetivo de impugnar autos de infração relacionados ao suposto aproveitamento indevido de créditos de ICMS, relativo às operações de transferência de mercadorias entre estabelecimentos do mesmo contribuinte.
+Na sentença, julgou-se parcialmente procedente a demanda para anular alguns dos autos de infração. As apelações interpostas foram improvidas pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA. O referido acórdão foi assim ementado, in verbis:
+APELAÇÕES CÍVEIS RECÍPROCAS. EMBARGOS À EXECUÇÃO FISCAL. ICMS. TRANSFERENCIA DE MERCADORIA ENTRE ESTABELECIMENTOS DO MESMO TITULAR. RECURSOS NAO PROVIDOS.
+1. Nos termos das conclusões periciais, não desconstituídas de forma efetiva pelo Estado da Bahia, o valor da obrigação tributária foi calculada com base no valor médio das operações, e não da forma prevista no art. 13, 84º, I, da LC 87/96, o qual determina a utilização do valor da última entrada da mercadoria no estabelecimento. Correta, assim, a sentença ao determinar a nulidade das infrações respectivas.
+2. Tendo a perícia judicial concluído que a energia elétrica, na hipótese, restou consumida no estabelecimento remetente para a produção das mercadorias remetidas, mostra-se legítima a utilização da mesma como insumo para fins de creditamento de ICMS.
+3. Veja-se que, em se tratando de estabelecimento produtor, a regra para definição da base de cálculo do ICMS está prevista no art. 13, §4, II, da LC 87/96. Não há, portanto, previsão legal para a inclusão na base de cálculo de outros custos não inseridos estritamente da relação prevista no dispositivo supracitado.
+4. Embora seja a multa fixada em grande importe, não ultrapassa a mesma o valor do imposto, sendo este o limite considerado para fins de estabelecimento do caráter confiscatório.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial do ESTADO DA BAHIA, alega-se violação ao art. 13, §4º, II, da LC n. 87/96, bem como aos arts. 96, 97, I, 100, I, 109 e 110, todos do CTN.
+Sustenta, em síntese, que para apurar a base de cálculo do ICMS, nas operações de transferência entre estabelecimentos do mesmo contribuinte, pode ser utilizado o valor médio das operações.
+Na sequência, aduz malferimento dos arts. 19, 20 e 33, II, b, da LC n. 87/96, justificando, em resumo, que a Recorrida utilizou indevidamente créditos de ICMS sobre energia elétrica, uma vez que seu estabelecimento no Estado da Bahia não exerce atividade industrial, não havendo, portanto, direito ao creditamento do ICMS.
+Por sua vez, no recurso especial de PERDIGÃO AGROINDUSTRIAL S/A é apontada violação do do art. 13, § 4º, inciso II, da Lei Complementar nº 87/96.
+Sustenta, em síntese, que a base de cálculo do ICMS nas operações de transferência de mercadorias entre estabelecimentos do mesmo titular deve incluir todos os custos direta e indiretamente relacionados aos produtos fabricados, conforme o método de custeio real por absorção, e que a decisão recorrida desconsiderou essa metodologia ao excluir certas rubricas da base de cálculo do ICMS.
+Adiante, afirma inobservância Súmula 166 do STJ, justificando, em suma, que não há incidência do ICMS no simples deslocamento de mercadorias entre estabelecimentos do mesmo contribuinte.
+Apresentadas contrarrazões por ambas as partes.
+Após decisum que inadmitiu os recursos especiais foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. CREDITAMENTO. TRANSFERÊNCIA INTERESTADUAL DE MERCADORIAS. BASE DE CÁLCULO. ENTRADA MAIS RECENTE DA MERCADORIA. VIGÊNCIA DO ART. 13, § 4º, I, DA LC 87/96. CREDITAMENTO COM CUSTO DO CONSUMO DE ENERGIA ELÉTRICA. DEFICIÊNCIA RECURSAL. SÚMULA N. 283 E 284/STF .
+I - Na origem, a empresa contribuinte opôs embargos à execução fiscal para impugnar autos de infração relacionados ao suposto aproveitamento indevido de créditos de ICMS, relativo às operações de transferência de mercadorias entre estabelecimentos do mesmo contribuinte.
+II - Na sentença, julgou-se parcialmente procedente a demanda para anular alguns dos autos de infração. O Tribunal a quo manteve a sentença, sob fundamento, em resumo, de que a obrigação tributária foi calculada pelo Estado com base no valor médio das operações, em desacordo com o art. 13, § 4º, I, da LC 87/96, que exige a utilização do valor da última entrada da mercadoria.
+RECURSO ESPECIAL DO ESTADO DA BAHIA
+III - O Supremo Tribunal Federal, no julgamento do Tema 1.099 (ARE 1.255.885), firmou a seguinte tese: "Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia". Na mesma linha, no julgamento da ADC n. 49, decidiu que esse entendimento não afastaria o direito ao creditamento da operação anterior.
+IV - No caso em questão, a controvérsia se limita à metodologia de apuração da base de cálculo para fins de creditamento do ICMS, ou seja, se o valor a ser considerado deve ser o valor médio das operações ou o valor da última entrada da mercadoria.
+V - Embora a Lei Complementar n. 204/2023 e o Convênio ICMS n. 109/2024 tragam novas diretrizes para a apuração da base de cálculo do crédito de ICMS, deve-se aplicar, para as relações jurídicas ocorridas durante sua vigência, o art. 13, § 4º, I, da LC 87/96, que determina que a base de cálculo do imposto corresponde à entrada mais recente da mercadoria, conforme decidido pelo Tribunal de origem.
+VI - Em relação à utilização do custo com o consumo de energia elétrica para fins de creditamento de ICMS, verifica-se que as razões recursais apresentadas pelo Estado estão dissociadas dos fundamentos do acórdão recorrido. O Estado sustenta que as atividades da empresa no Estado da Bahia não estariam relacionadas com o processo de industrialização, enquanto o Tribunal a quo entendeu que a energia elétrica foi efetivamente consumida no estabelecimento do Estado de origem para a produção das mercadorias remetidas, tendo a empresa direito ao creditamento. Incide na hipótese as Súmulas n. 283 e 284, ambas do STF.
+RECURSO ESPECIAL DE PERDIGÃO AGROINDUSTRIAL S/A
+VII - Quanto a apontada ofensa à Súmula 166 do STJ, verifica-se que o recorrente, ao apresentar essa parcela recursal, não a vinculou a qualquer dispositivo legal, sendo necessário para o conhecimento da irresignação do recorrente no eito do recurso especial, a indicação do dispositivo legal e a forma de interpretação, supostamente violadora do regramento pelo Tribunal a quo. Nesse panorama, essa parcela recursal não viabiliza um confronto interpretativo normativo, implicando em não conhecimento. Incidência da Súmula 284/STF.
+VIII - Em relação à suposta ofensa do art. 13, § 4º, II, da LC n. 87/96, quanto ao pleito de creditamento do ICMS para as despesas com depreciação, manutenção e outros custos indiretos, denota-se que o Tribunal a quo fundamentou pela inexistência de previsão legal para fundamentar o direito ao creditamento. Assim, verifica-se que o citado dispositivo não tem densidade normativa para sustentar a tese do recorrente, em face do conteúdo específico do seu reclamo. Apresenta-se evidente a deficiência do pleito recursal, incidência da Súmula n. 284/STF.
+CONCLUSÃO
+IX - Agravos conhecidos para i) conhecer parcialmente do recurso especial do ESTADO DA BAHIA e, nessa parte, negar-lhe provimento, e ii) não conhecer do recurso especial de PERDIGÃO AGROINDUSTRIAL S/A.
+VOTO
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade, impugnaram a fundamentação da decisão agravada, de rigor o conhecimento dos agravos, passando-se ao exame dos recursos especiais interpostos.
+RECURSO ESPECIAL DO ESTADO DA BAHIA
+No que tange a suposta violação do art. 13, §4º, II, da LC n. 87/96, e dos arts. 96, 97, I, 100, I, 109 e 110, todos do CTN, o Tribunal a quo, apoiado na perícia realizada, fundamentou que, para fins de apuração do valor de creditamento do ICMS, o valor da obrigação tributária foi calculada com base no valor médio das operações e não com base no valor da última entrada da mercadoria, conforme se verifica nos excertos do acórdão vergastado:
+(..)
+Com relação às infrações 1 e 2, o Juízo a quo manifestou o entendimento de que "metodologia diversa da prevista em lei sem demonstração efetiva que a embargante atuou de forma a impedir o uso da metodologia de cálculo estipulada por lei".
+Dispôs ainda a sentença recorrida que "o critério do valor médio, utilizado pelo fisco, pode ser higido para outros fins, mas não se presta para determinar o montante fiscal decorrente da operação tributada no caso concreto, ante existência de critério legal para realizar tal tarefa".
+O Estado da Bahia, por sua vez, sustenta que a atividade do fisco agiu dentro da legalidade, bem assim que "restou claro que, nas infrações 1 e 2, a base de cálculo do imposto foi apurada com base na entrada mais recente, porque os remetentes não eram fabricantes das mercadorias, consoante o estabelecido no artigo 13, 8 4º, inciso |, da Lei Complementar nº 87/96".
+Contudo, a sentença baseou-se nas conclusões do Laudo Pericial em que restou consignado que "O Auditor fiscal utilizou o critério de preço médio das últimas entradas de mercadorias do mês anterior, conforme consta da impugnação aos embargos à execução" (fl. 986 dos autos digitais).
+Indagado, ainda, sobre qual a metodologia usada pelo fisco para a apuração do valor médio das operações, respondeu o Perito que "A metodologia utilizada foi a de preço médio das entradas de mercadorias do mês anterior. Referida metodologia não está no relato do Auto de infração", tendo, ainda, afirmado, na sequência que "O critério de preço médio é diferente do preço das últimas entradas".
+Observa-se, assim, que, nos termos das conclusões periciais, não desconstituídas de forma efetiva pelo Estado da Bahia, o valor da obrigação tributária foi calculada com base no valor médio das operações, e não da forma prevista no art. 13, §4º, I, da LC 87/96, o qual determina a utilização do valor da última entrada da mercadoria no estabelecimento.
+Com efeito, o 13, §4º, I, da LC 87/96, dispõe que:
+Art. 13. A base de cálculo do imposto é:
+(..)
+§ 4º Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de calculo do imposto é:
+I - o valor correspondente à entrada mais recente da mercadoria;
+Ademais, não apresentou o Estado da Bahia comprovação acerca de qualquer fato que justificasse, na hipótese, a utilização de critério de cálculo diverso daquela previsto na legislação vigente que trata da matéria.
+Por tal razão, não se vislumbra, no caso, fundamento para a reforma da sentença quanto ao tópico analisado.
+(..)
+Em 2020, ao examinar o Tema 1.099 (ARE 1.255.885), o STF firmou a seguinte tese: "Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia."
+Em 2021, o Pretório Excelso, no julgamento da ADC n. 49, renovou o entendimento no sentido de que a incidência do ICMS é decorrente de "operação jurídica praticada por comerciante que acarrete circulação de mercadoria e transmissão de sua titularidade ao consumidor final". Observou-se não configurar fato gerador de ICMS o deslocamento de mercadorias entre estabelecimentos do mesmo titular em unidades federativas diferentes.
+Em 2023, no julgamento dos embargos de declaração na ADC n. 49 ficou decidido que o entendimento não afastaria o direito ao creditamento da operação anterior e ainda aplicou modulação de efeitos para a partir do exercício financeiro de 2024.
+No entanto, no presente caso, a controvérsia não diz respeito à incidência do ICMS nas transferências interestaduais entre estabelecimentos do mesmo titular, mas sim a definição da base de cálculo do imposto para fins de creditamento. Especificamente, discute-se se o valor a ser considerado deve ser o valor médio das operações ou o valor da última entrada da mercadoria.
+No ponto, o Estado argumenta que seria legal o cálculo com base no valor médio das operações. Na esteira do decidido pelo Tribunal a quo, o 13, §4º, I, da LC 87/96, dispõe que:
+Art. 13. A base de cálculo do imposto é:
+(..)
+§ 4º Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de cálculo do imposto é:
+I - o valor correspondente à entrada mais recente da mercadoria;
+Importante destacar que o citado dispositivo foi revogado pela Lei Complementar n. 204, de 28 de dezembro de 2023. Em observância à nova legislação, o Conselho Nacional de Política Fazendária - CONFAZ editou a Convênio ICMS n. 109, de 3 de outubro de 2024, que prevê:
+Cláusula primeira: Na remessa interestadual de mercadorias entre estabelecimentos de mesma titularidade, fica assegurado o direito à transferência de crédito do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, a que se refere o inciso I do § 4º do art. 12 da Lei Complementar nº 87, de 13 de setembro de 1996, relativo às operações e prestações anteriores.
+(..)
+Cláusula quarta: O crédito a ser transferido corresponderá ao imposto apropriado referente às operações anteriores, relativas às mercadorias transferidas.
+§ 1º O crédito a ser transferido nos termos do "caput" fica limitado ao resultado da aplicação de percentuais equivalentes às alíquotas interestaduais do ICMS, definidas nos termos do inciso IV do § 2º do art. 155 da Constituição Federal, sobre os seguintes valores das mercadorias:
+I - o valor médio da entrada da mercadoria em estoque na data da transferência;
+(..)
+Embora haja inovação no método de apuração da base de cálculo para verificar os valores de crédito de ICMS, apenas deve ser observada nas relações jurídicas tributárias durante sua vigência, não se aplicando a relações tributárias pretéritas.
+Desse modo, deve prevalecer o entendimento do Tribunal de origem que reconheceu a ilegalidade da apuração adotada pelo Fisco e determinou a nulidade das infrações decorrentes da utilização do critério do valor médio das operações, durante a vigência do art. 13, §4º, I, da LC 87/96.
+Com relação à ofensa dos arts. 19, 20 e 33, II, b, da LC n. 87/96, o Tribunal de origem entendeu pela possibilidade de utilização do custo com o consumo de energia elétrica para fins de creditamento de ICMS, também com base nas conclusões da perícia realizada, conforme trechos do acórdão, in verbis:
+(..)
+A infração 03 (que trata das situações de transferência de mercadorias dos estabelecimentos produtores das mesmas), por sua vez foi, como relatado acima, anulada em parte pela sentença, envolvendo a questão dois tópicos distintos, consistentes em: a) utilização da energia elétrica como insumo para fins de creditamento de ICMS e b) utilização de custos indiretos diversos da energia elétrica para fins de creditamento de ICMS.
+Com relação à energia elétrica, o art. 33 da LC 87/96 dispõe que:
+Art. 33. Na aplicação do art. 20 observar-se-á o seguinte:
+(..)
+II  somente dará direito a crédito a entrada de energia elétrica no estabelecimento:
+(..)
+b) quando consumida no processo de industrialização;
+No caso dos autos, observa-se que indagado o Perito do Juízo se a quantia de energia elétrica informada na planilha de custos disponibilizada à fiscalização representava a energia utilizada na fabricação dos produtos remetidos ao estabelecimento autuado, este respondeu: "Sim. Conforme informações repassadas à Secretaria da fazenda do Estado da Bahia".
+Assim, tendo a perícia judicial concluído que a energia elétrica, na hipótese, restou consumida no estabelecimento remetente para a produção das mercadorias remetidas, mostra-se legítima a utilização da mesma como insumo para fins de creditamento de ICMS.
+(..)
+Verifica-se que as razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, o recorrente sustenta que as atividades da empresa contribuinte no Estado da Bahia não estariam relacionadas com o processo de industrialização e que, portanto, não teria direito ao creditamento do ICMS sobre o consumo de energia elétrica, enquanto, o acórdão recorrido assevera que a energia elétrica foi efetivamente consumida no estabelecimento do Estado de origem para a produção das mercadorias remetidas, tendo a empresa direito ao creditamento da exação.
+Dessa forma, o fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+RECURSO ESPECIAL DE PERDIGÃO AGROINDUSTRIAL S/A
+Quanto a apontada ofensa à Súmula 166 do STJ, verifica-se que o recorrente, ao apresentar essa parcela recursal, não a vinculou a qualquer dispositivo legal, sendo necessário para o conhecimento da irresignação do recorrente no eito do recurso especial, a indicação do dispositivo legal e a forma de interpretação, supostamente violadora do regramento pelo Tribunal a quo. Nesse panorama, essa parcela recursal não viabiliza um confronto interpretativo normativo, implicando em não conhecimento. Incidência da Súmula 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO A SÚMULA. INADMISSIBILIDADE. OMISSÃO CARACTERIZADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Não se admite recurso especial por alegada violação a súmula, pois esta não se equipara a dispositivo de lei federal para fins de interposição do recurso.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.552.889/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR. HOME CARE. RECUSA DE COBERTURA INDEVIDA. SÚMULA 568/STJ. IMPUGNAÇÃO. NÃO OCORRÊNCIA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+(..)
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.601.228/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Em relação à suposta ofensa do art. 13, § 4º, II, da LC n. 87/96, quanto ao pleito de creditamento do ICMS para as despesas com depreciação, manutenção e outros custos indiretos, denota-se que o Tribunal a quo fundamentou pela inexistência de previsão legal para fundamentar o direito ao creditamento, conforme os excertos do acórdão recorrido, in verbis:
+(..)
+Quanto à utilização de custos indiretos diversos da energia elétrica para fins de creditamento de ICMS, sustenta a BRF S/A que todos os custos direta ou indiretamente relacionados aos produtos fabricados devem ser considerados na quantificação do custo total, para fins de composição da base de cálculo do ICMS, não havendo extrapolação dos elementos indicados no art. 13, 84º, ll, da LC 87/96.
+Defende, ainda, que a planilha de custos apresentada contém nada mais do que os fatores de composição do custo de produção apurados com base no método real por absorção, nos termos da teoria geral da contabilidade Lei 6404/1976 e art. 290 do RIR/1999, os quais estão inseridos na regra prevista no art. 13, 84º, II, da LC 87/96.
+O método do custeio por absorção, por sua vez, consiste em acrescer aos custos dos produtos todos os custos da área de fabricação sejam esses diretos ou indiretos, fixos ou variáveis, de estrutura ou operacionais, tratando-se de método de apuração derivado da aplicação dos Princípios Fundamentais de Contabilidade. Este, contudo, não tem aplicação no âmbito, por ausência de expressa previsão legislativa.
+Veja-se que, em se tratando de estabelecimento produtor, a regra para definição da base de cálculo do ICMS está prevista no art. 13, §4, II, da LC 87/96, que dispõe:
+Art. 13. A base de cálculo do imposto é:
+(..)
+§ 4º Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de cálculo do imposto é:
+(..)
+II - o custo da mercadoria produzida, assim entendida a soma do custo da matéria-prima, material secundário, mão-de-obra e acondicionamento;
+Não há, portanto, previsão legal para a inclusão na base de cálculo de outros custos não inseridos estritamente da relação prevista no dispositivo supracitado.
+(..) (Grifo não consta no original)
+Desse modo, verifica-se que o art. 13, § 4º, II, da LC n. 87/96, não tem densidade normativa para sustentar a tese do recorrente, em face do conteúdo específico do seu reclamo. Apresenta-se evidente a deficiência do pleito recursal, incidência da Súmula n. 284/STF.
+Ante o exposto, conheço do agravo de PERDIGÃO AGROINDUSTRIAL S/A para não conhecer do recurso especial, e conheço do agravo do ESTADO DA BAHIA para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+É o voto.
