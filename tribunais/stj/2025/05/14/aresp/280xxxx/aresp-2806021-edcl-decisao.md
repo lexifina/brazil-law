@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 2171):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO E DE COMANDO NORMATIVO EM DISPOSITIVOS INDICADOS. SÚMULAS 211/STJ E 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+As embargantes alegam que há omissão no julgado, pois são inaplicáveis as Súmulas 283/STF e 284/STF, visto que a matéria foi devidamente impugnada e não analisada pelo TRF2 e pelo STJ. No ponto, tratam da violação dos arts. 730 e 749 do CC e 110 do CTN, aduzindo que "(..), todos os fundamentos que levaram à negativa de provimento do Recurso de Apelação na origem foram abordados no Recurso Especial e são suficientes para o reconhecimento da ilegalidade ora questionada, não havendo que se falar em ausência de fundamentação ou alegações genéricas." (fl. 2180). Afirmam que "(..) dedicaram um Capítulo inteiro do recurso (Capítulo 3.1.2 do Recurso Especial) para demonstrar a violação do art. 77, I, do Regulamento Aduaneiro; 730 e 749 do CC; 110 do CTN; e 5º, caput, da Lei 10.893/04, (..)." (fls. 2180-2181), sendo que os fundamentos expostos são capazes de contraditar o acórdão recorrido. Afirmam que há omissão também quanto aos arts. 489, §1º, inc. IV, e 1022 do CPC/2015, pois inaplicável a Súmula 211/STJ, tendo a matéria sido prequestionada e tendo sido requerida a aplicação do art. 1025 do CPC/2015.
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há omissão no julgado porque não incidem à hipótese as Súmulas 283/STF, 284/STF e 211/STJ.
+Todavia, tem-se que razão não lhe assiste.
+Com efeito, a título de apontar o vício integrativo, em verdade a parte demonstra sua irresignação com a solução dada à controvérsia. Ocorre que, como já estabelecido, a aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Veja-se que há omissão quando, embora oportunamente provocado, deixa o órgão julgador de analisar matéria relevante para o deslinde da causa. Por outro lado, não há omissão quando, mesmo sem que se examine individualmente cada um dos argumentos suscitados, há manifestação clara e fundamentada acerca de todas as questões relevantes para a solução da controvérsia.
+No caso, a decisão embargada assentou de forma completa e fundamentada, como de mister, as razões do seu convencimento a respeito do afastamento da alegada ofensa aos arts. 489, §1º, inc. IV, e 1022, inc. II, parágrafo único, inc. II, do CPC/2015 e da aplicação de cada óbice sumular, não havendo, portanto, falar em omissão.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
