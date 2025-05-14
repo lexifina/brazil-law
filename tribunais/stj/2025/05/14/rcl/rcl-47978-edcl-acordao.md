@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/05/2025 a 14/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ADRIANO BRANDÃO DE OLIVEIRA e OUTROS contra acórdão por mim relatado que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 237-238):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DO FEITO EXECUTIVO. ACLARATÓRIOS NA AÇÃO RESCISÓRIA N. 6.436/DF PENDENTES DE JULGAMENTO. IRRELEVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de recurso contra decisão que indeferiu o pedido de sobrestamento deste processo, e da execução na origem, até o julgamento definitivo da AR n. 6.436/DF, pela Primeira Seção do STJ, a qual desconstituiu a decisão proferida no REsp n. 1.585.353/DF.
+2. "A AR n. 6.436/DF já teve seu mérito analisado, porém ainda não transitou em julgado, mormente porque se encontra pendente a análise de embargos de declaração opostos pelo Sindifisco Nacional, sendo possível, ainda, o manejo de recurso para a instância extraordinária, se for o caso. O fato de ainda pender a análise dos declaratórios não deve ser tido como suficiente para o deferimento da medida drástica de determinar a suspensão de todos os feitos executivos vinculados ao referido título judicial, especialmente considerando que os embargos de declaração, em regra, não possuem o intuito de rever o mérito do julgado embargado, mas, somente, analisar a ocorrência de eventual omissão, contradição, obscuridade e/ou erro material. Assim, na hipótese de insatisfação com o resultado de qualquer demanda executiva que eventualmente seja julgada extinta/improcedente por juiz de primeira instância ou pelos tribunais regionais, o caso é de manejar o competente recurso contra tal decisão." (AgInt na TutPrv na AR n. 6.436/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 2/9/2024, DJe de 4/9/2024.)
+3. Portanto, considerando que os embargos de declaração não possuem, em regra, o condão de reverter o mérito do julgado embargado, a presente reclamação perdeu o seu sustentáculo, uma vez que, com a procedência da demanda rescisória, ainda que não definitiva, não mais subsiste a decisão transitada em julgado da Corte Superior havida como desrespeitada.
+4. Agravo interno desprovido.
+Sustenta a parte embargante que, "inexistindo título executivo superveniente - caso referida realidade efetivamente se consolide - é impossível a fixação de ônus decorrente de decisão desconstituída e, portanto, incapaz de gerar efeitos, quiçá efeitos negativos aos jurisdicionados que foram previdentes no ajuizamento dos cumprimentos de sentença à época da existência/validade/eficácia do título judicial."
+Não foi apresentada resposta ao recurso integrativo (fl. 290).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi assinalado que, angularizada a relação processual mediante a citação da parte adversa, é cabível a fixação de honorários advocatícios de sucumbência, pois a sua causa não está no cumprimento de sentença na origem, mas, sim, no ajuizamento da presente reclamaçã o, que foi julgada improcedente.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
