@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Luis Felipe Salomão, Mauro Campbell Marques e Maria Isabel Gallotti.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 784-785):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO QUANTO À OFENSA AOS ARTIGOS 489 E 1.022 DO CPC/2015. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o agravante se insurge contra decisão da Presidência desta Corte que indeferiu liminarmente os embargos de divergência, porquanto descabido o exame do dissídio interpretativo em torno da ofensa aos artigos 489 e 1.022 do CPC/2015.
+3. Segundo a jurisprudência desta Corte, "os embargos de divergência não se prestam para o confronto entre julgados que interpretam violação dos arts. 489, § 1º, e 1.022 do CPC, em razão das situações fático-jurídicas diferenciadas e da necessidade de análise individualizada de cada caso" (AgInt nos EAREsp 1.306.948/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe 21/10/2022). No mesmo sentido: AgInt nos EDcl nos EAREsp 2.426.055/SP, relator Ministro Francisco Falcão, Corte Especial, DJe 3/12/2024; AgInt nos EAREsp 2.286.871/SC, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 25/11/2024; AgInt nos EAREsp 2.312.873/SP, relator Ministro Benedito Gonçalves, Corte Especial, DJe 25/10/2024.
+4. Agravo regimental não provido.
+O embargante, aduzindo a ocorrência de omissão, afirma que o acórdão ora embargado "deixou de analisar que a parte objetivava através dos referidos embargos de divergência a análise da possibilidade de provimento dos declaratórios para fins de prequestionamento da matéria, com o objetivo de sanar as omissões contidas no declaratório" (fl. 795). Sustenta que é "totalmente cabível os referidos embargos de divergência, de modo que se mostra devido o reconhecimento do dissídio jurisprudencial demonstrado com a consequente reforma do decisum recorrido e a aplicação do entendimento da Primeira e da Terceira Turma do Superior Tribunal de Justiça, possibilitando a que este Colendo Superior Tribunal de Justiça reconheça a necessidade do retorno dos autos à origem, a fim de que sejam examinadas as questões suscitadas nos embargos de declaração, para título de prequestionamento da matéria, reconhecendo assim a violação do artigo 1.022 do NCPC" (fl. 797).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o acórdão embargado dirimiu a controvérsia com amparo na firme jurisprudência desta Corte no sentido de que "os embargos de divergência não se prestam para o confronto entre julgados que interpretam violação dos arts. 489, § 1º, e 1.022 do CPC, em razão das situações fático-jurídicas diferenciadas e da necessidade de análise individualizada de cada caso" (AgInt nos EAREsp 1.306.948/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe 21/10/2022). Adotando a mesma compreensão, confiram -se: AgInt nos EDcl nos EAREsp 2.426.055/SP, relator Ministro Francisco Falcão, Corte Especial, D Je 3/12/2024; AgInt nos EAREsp 2.286.871/SC, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 25/11/2024; AgInt nos EAREsp 2.312.873/SP, relator Ministro Benedito Gonçalves, Corte Especial, DJe 25/10/2024.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ressalte-se que "não cabe a esta corte se manifestar, ainda que para efeito de prequestionamento, acerca de suposta afronta a artigos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp 2.028.234/SC, relator Ministro Humberto Martins, Corte Especial, DJe 4/3/2024).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
