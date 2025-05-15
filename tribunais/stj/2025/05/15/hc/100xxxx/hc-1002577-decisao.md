@@ -1,0 +1,12 @@
+DECISÃO
+ÁUREO MARCOS RODRIGUES, MARIA APARECIDA TERTILIANO e MARCOS ANTONIO RODRIGUES impetram habeas corpus em que alegam sofrer coação ilegal em decorrência de atuação ilícita de várias autoridades.
+A petição inicial, deduzida em 462 páginas, é inepta. Não há fundamentos legais que tornem possível a prestação de alguma tutela.
+A peça, de redação confusa e agressiva, não contém narrativa objetiva e clara, a respeito de direito previamente denegado pelo Tribunal de Justiça ou Regional, não sendo possível a esta Corte identificar pedido juridicamente possível ou a inauguração da competência prevista no art. 105 da CF.
+Apesar da informalidade do habeas corpus, é preciso saber pedir e pedir bem, mediante alegações objetivas e claras, relacionadas a questões jurídicas (e não emocionais), para que esta Corte possa realizar a interpretação de leis vigentes no ordenamento pátrio.
+Tal como em impetrações anteriores (HC n. 800.556/MT e HC n. 823.623/MT), a parte faz considerações temerárias, disparatadas e de ódio. Enuncia opiniões acerca da suspeição de membros do Poder Judiciário e diversas autoridades, além de imputar-lhes a prática de crimes contra a sua propriedade, liberdade e a paz familiar.
+Usa expressões como "a pena de MORTE, hoje está sendo executada pelo JUIZ CORRUPTO, BANDIDO, LADRÃO, CHAMADO  ..  e confirmada pelos DESEMBARGADORES CORRUPTOS, BANDIDOS, LADRÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO" (fls. 223-224), "bandido de toga" (fl. 44), "onde figura o traficante, assassino, ladrão, estelionatários, desgraçado, vagabundo, comprador de sentença" (fl. 121) - as quais, evidentemente, não estão abrangidas pelo direito de petição.
+A manifestação em juízo tem limites e não pode ser feita com a intenção de ofender a honra de outrem. Excessos que permeiam o direito de petição, a depender da intenção do requerente, podem caracterizar crime de calúnia, injúria ou difamação. Em decisões prolatadas no HC n. 800.556/MT e no HC n. 823.623/MT, determinei, inclusive, a remessa dos autos ao MPF e ao MP-MT, para a apuração de eventual infração penal, o que deverá ser feito novamente.
+À vista do exposto, reconhecida a inépcia da petição inicial, indefiro liminarmente o habeas corpus.
+De acordo com o que dispõe o art. 40 do CPP, determino a remessa, por meio de arquivo eletrônico, de cópia dos autos do habeas corpus ao Ministério Público Federal e ao Ministério Público Estadual, para aferição do conteúdo da petição inicial.
+Publique-se e intimem-se.
+EMENTA
