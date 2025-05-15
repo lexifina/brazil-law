@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RENATO SOUZA PIRES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente foi condenado à pena de 6 (seis) anos de reclusão no regime inicial fechado, mais o pagamento de 600 dias-multa, como incurso no art. 33, caput da Lei 11.343/2006.
+São três as questões centrais em discussão: (i) saber se a atuação da guarda municipal na abordagem do paciente na apreensão de entorpecentes foi lícita; (ii) verificar a suficiência do conjunto probatório para a condenação pelo crime de tráfico de drogas; e (iii) analisar a possibilidade de aplicação do redutor previsto no artigo 33, §4º, da Lei 11.343/06, bem como a fixação de regime inicial menos gravoso.
+A liminar foi indeferida ( fls. 117/118).
+As informações foram prestadas ( fls.126/127, 128/174 ).
+O Ministério Público Federal ofereceu parecer ( fls.176/195 ).
+RELATADO. DECIDO.
+Inicialmente, o habeas corpus não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configura a competência originária desta Corte.
+O Superior Tribunal de Justiça passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, D Je de 13/2/2023).
+Quanto ao primeiro argumento da defesa, ressaltou o Ministério Público Federal a legalidade de atuação da guarda municipal (fl. 189 ):
+os guardas municipais estavam exercendo suas funções regulares de patrulhamento em via pública. Ao avistarem dois indivíduos numa motocicleta, estando o garupa sem capacete, notaram que os transeuntes, ao perceberem a viatura, tentaram se evadir, tendo o passageiro descido da moto e dispensado uma sacola plástica num canal. A guarnição agiu em conformidade com o dever de manter a ordem e proteger os bens municipais e seus usuários. A atitude do acusado, ao visualizar o veículo oficial, e sua tentativa de fuga, corroboraram a suspeita inicial dos agentes, conferindo-lhes, concretamente, a justa causa para proceder à abordagem e à busca pessoal, em função do estado flagrancial caracterizado de plano.
+Quanto à dosimetria da pena, verifico que o juiz de primeiro grau fixou a pena base 01 ano acima do mínimo legal, em razão de serem desfavoráveis a natureza e a quantidade da droga apreendida, bem como os antecedentes do paciente. Portanto, foi observada a diretriz estabelecida no artigo 42, da Lei 11343/06 a respeito do tema. Ressalto que " ao contrário do que alega a defesa, não pode ser tida como inexpressiva a quantidade apreendida" -71 unidades de "ice", 374 unidades de "dry", 91 unidades de "k2", 92 unidades de "crack", 392 porções de maconha, 13 frascos de lança perfume e 360 porções de cocaína ( fl.189).
+Com relação ao reconhecimento do tráfico privilegiado, compete às instâncias ordinárias, que são soberanas na análise das provas, averiguar se o paciente tende ou não aos requisitos do artigo 33, § 4º, da Lei n.º 11343/2006 ( AgRg no HC 523103/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/05/2020, D Je 20/05/2020).
+Dessa forma, a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Além do mais, não verifico a ocorrência de flagrante ilegalidade ou teratologia que possa justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
