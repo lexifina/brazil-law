@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pela DM CONSTRUTORA DE OBRAS LTDA. contra decisão do Tribunal de Justiça do Estado do Espírito Santo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 258):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - REJEIÇÃO - AUSÊNCIA DE COMPROVAÇÃO DE INEXIGIBILIDADE OU ILIQUIDEZ DA CERTIDÃO DE DÍVIDA ATIVA (CDA) - RECURSO CONHECIDO E DESPROVIDO.
+1. A certidão de dívida ativa goza de presunção de certeza e liquidez, cabendo ao executado comprovar eventual inobservância dos pressupostos legais, o que não foi identificado no caso concreto.
+2. A exceção de pré-executividade ofertada está fundada em argumentos genéricos de irregularidades na constituição do título executivo, seja pela não observância de pressupostos legais ou pelo cerceamento de defesa no processo administrativo, que deveriam ter sido comprovados, dada a presunção de certeza e liquidez do título executivo.
+3. Basta a singela leitura da CDA para se identificar todos os elementos exigidos pela lei para sua lavratura, incluindo a destacada origem, natureza e fundamento legal da dívida, assim como o número do processo administrativo, que, posteriormente, foi até juntado aos autos pelo exequente/excepto, que demonstrou que a executada/excipiente foi intimada por duas oportunidades naquela seara, mas não se manifestou.
+4. Somente em sede de embargos de declaração que fora alegada suposta questão prejudicial, relativa à ação declaratória proposta pela agravante em face do agravado, por meio da qual ela obteve o reconhecimento da legalidade da dedução da base de cálculo do ISSQN dos valores de materiais e subempreitadas de construção civil relativos a um contrato firmado com o Estado do Espírito Santo, sem efetiva demonstração de sua relação com os contratos que embasaram o título ora exequendo.
+5. Considerando a ausência de demonstração, de plano, de qualquer inexigibilidade ou iliquidez da CDA, ou mesmo de questão prejudicial, deve ser mantida a decisão agravada, que rejeitou a exceção de pré-executividade.
+6. Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 267/278).
+No recurso especial (e-STJ fls. 281/289), o recorrente aponta violação do art. 1.022, II, do CPC, ao argumento de que, provocado, o Tribunal de origem não se manifestou acerca de "tese relativa ao art. 313, V, "a", do CPC" (e-STJ fl. 286).
+Sustenta, também, contrariedade do art. 313, V, "a", do CPC, alegando que "a presente execução não pode prosseguir sem o prévio julgamento nos autos 0074242- 78.2012.8.08.0011" (e-STJ fl. 288), em que teria sido afastado o ISS "sobre subempreitada e materiais empregados na obra" (e-STJ fl. 287).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o recurso especial por entender não configurado vício de integração com base na jurisprudência desta Corte (Súmula 83 do STJ), bem como incidente o óbice da Súmula 7 do STJ (e-STJ fls. 301/306).
+No agravo em recurso especial (e-STJ fls. 308/314), o agravante alega que "houve omissão não suprida e que a alegação de ofensa ao art. 1.022 do CPC visava atingir o prequestionamento do art. 1.015 do CPC" (e-STJ fl. 313). Afirma, ainda, que "é evidente que a tese debatida é eminentemente jurídica e prescinde da análise de fatos e provas" (e-STJ fl. 314).
+A contraminuta foi apresentada.
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial, entre outros motivos, em razão da incidência da Súmula 7 do STJ.
+Contudo, nas razões do agravo, o agravante limita-se a sustentar basicamente que "é evidente que a tese debatida é eminentemente jurídica e prescinde da análise de fatos e provas" (e-STJ fl. 314), mencionando a suposta conclusão jurídica do acórdão recorrido e a tese deduzida no recurso especial.
+Em momento algum, evidencia concretamente que a análise da tese recursal, no caso dos autos, independe do reexame fático-probatório, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Sendo assim, constata-se que a parte não impugnou específica e adequadamente a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
