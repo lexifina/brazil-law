@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado por União - Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1.502):
+Apelação Cível. Direito Administrativo. embargos à Execução fiscal. Cobrança de Taxa de Ocupação. Prescrição. Nulidade de Lançamento. Falta de Intimação. Teoria da Actio Nata. Aplicação da Lei 9.636/98. Reconhecimento de Prescrição Parcial pela Administração. Princípios do Contraditório e Ampla Defesa não observados. Recurso e remessa necessária desprovidos.
+1. Remessa Necessária, tida por interposta, e Apelação Cível interposta pela União (Fazenda Nacional) contra sentença que julgou procedente o pedido de Resort Portobello Ltda., em sede dos embargos à execução em epígrafe, para "desconstituir os créditos discriminados na CDA n. 70 6.17.010966-08, em razão da prescrição verificada e da nulidade do lançamento e decretar a nulidade dos demais créditos tributários e das inscrições em dívida ativa que lastreiam a execução fiscal embargada em razão da nulidade do lançamento".
+2. A execução fiscal originária refere-se exclusivamente à cobrança da Taxa de Ocupação, conforme evidenciado nas Certidões de Dívida Ativa (CDAs) anexadas aos autos. A sentença de primeiro grau constatou que a multa por atraso na comunicação de transferência não está incluída nas CDAs objeto da execução fiscal, corrigindo equívoco da Fazenda Nacional.
+3. Ademais, a ausência de intimação da parte autora no processo administrativo constitui violação dos princípios do contraditório e da ampla defesa, garantidos pela Constituição Federal. A apelada somente tomou ciência da cobrança quando o débito já estava inscrito em dívida ativa, reforçando a nulidade do lançamento por falta de prévia intimação.
+4. A própria Fazenda Nacional, em momento anterior, reconheceu administrativamente a prescrição parcial dos débitos e a extinção das CDAs referentes aos períodos prescritos, o que fortalece a fundamentação da sentença recorrida.
+Recurso e Remessa Necessária desprovidos. Majorados os honorários advocatícios em 1% sobre o valor fixado na sentença, nos termos do artigo 85, §11, do CPC.
+Opostos embargos declaratórios, foram desprovidos (fls. 1.560/1.563).
+A parte recorrente aponta, em seu apelo nobre, violação aos seguintes dispositivos:
+I - art. 24 da Lei n. 11.457/2007; art. 26, da Lei n. 9.784/1999; art. 116, do Decreto n. 9.760/1946, ao argumento de que a decisão recorrida contrariou a legislação ao reconhecer a prescrição dos débitos e a nulidade do lançamento em decorrência da ausência de prévia intimação no processo administrativo;
+II - art. 116, do Decreto n. 9.760/1946; art. 3º, do Decreto-Lei n. 2.398/1987 e art. 47, § 1º, da Lei n. 9.636/1998, e aduz, neste sentido, que a notificação postal foi válida e que a parte autora tinha obrigação de manter seu endereço atualizado e que "Nesse sentido, somente com o conhecimento pela União quanto a ocorrência da transferência, seja por comunicação do adquirente, seja por meios próprios, seja por provocação de interessado, inicia-se o prazo decadencial para lançamento dos débitos de receita patrimonial" (fl. 1.582).
+Foram ofertadas contrarrazões às fls. 1.592/1. 601.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Cuidam os autos, na origem, de embargos à execução em que o pedido foi julgado procedente para que os créditos discriminados na CDA nº 70 6.17.010966-08 sejam desconstituídos, devido à prescrição verificada e à nulidade do lançamento, e para que a nulidade dos demais créditos tributários e das inscrições em dívida ativa que sustentam a execução fiscal embargada seja decretada.
+Referida decisão originou apelação da União, de provimento negado pelo Tribunal de origem (fls. 1.498/1.502) que manteve integralmente a sentença.
+Assim, decorreu o presente recurso especial, em que se alega a validade da intimação via postal de débitos referentes à taxa de ocupação, razão que afirma afastar a ocorrência de prescrição e as nulidades decretadas.
+E tenho que o recurso não prospera.
+Como se vê, o Tribunal de origem não se manifestou sobre as teses que sustentam (I) a validade da intimação postal e que (II) tal constatação teria o efeito de afastar a prescrição reconhecida na hipótese, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
