@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de indicação do artigo violado, incidindo a Súmula n. 284 do STF e em razão do reexame de matéria fática pela incidência das Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará em apelação nos autos de ação ordinária c/c reparação por danos morais e pedido de tutela de urgência.
+O julgado foi assim ementado (fls. 410-411):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA C/C REPARAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA DE URGÊNCIA. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DOS RÉUS. LEGITIMIDADE PASSIVA CONFIGURADA. BOLETO BANCÁRIO ADULTERADO. FRAUDE DENOMINADA "GOLPE DO BOLETO". CONSTATADO O VAZAMENTO DE DADOS PESSOAIS DO AUTOR. BOLETO FRAUDADO CONTENDO TODOS OS DADOS DO BOLETO ORIGINÁRIO. SEMELHANÇA. GOLPE IMPERCEPTÍVEL NO BOLETO. FALHA CONFIGURADA SOMENTE NO COMPROVANTE DE PAGAMENTO. PRESTAÇÃO DE SERVIÇO DEFEITUOSO. VAZAMENTO DE DADOS DO AUTOR. RESSARCIMENTO É MEDIDA QUE SE IMPÕE. RESPONSABILIDADE OBJETIVA, DE TODOS OS FORNECEDORES ENVOLVIDOS NO PAGAMENTO INDEVIDO OBJETO DA DEMANDA. DANOS CAUSADOS AO CONSUMIDOR. DANO MORAL CONFIGURADO. RECURSOS CONHECIDOS E IMPROVIDOS. SENTENÇA MANTIDA.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação do art. 944 do Código Civil, porquanto a indenização não observa a extensão do dano
+Ainda afirma sua ilegitimidade passiva e a ausência dos requisitos da responsabilidade civil, além de se insurgir contra o termo inicial dos juros de mora.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a condenação por danos morais ou, alternativamente, reduzindo o valor arbitrado.
+É o relatório. Decido.
+A controvérsia diz respeito à ação ordinária c/c reparação por danos morais e pedido de tutela de urgência em que a parte autora pleiteou a condenação do Hapvida na quantia de R$ 10.000,00 pelos danos morais e a título de dano material a quantia de R$ 907,32 correspondente à repetição do indébito em dobro pela cobrança indevida de R$ 453,66 referente à mensalidade do plano de saúde que constava de boleto fraudado.
+Na sentença, o Juízo de primeiro grau condenou o Hapvida a se abster de suspender e/ou cancelar o contrato do plano de saúde do promovente e ao pagamento da quantia de R$ 5.000,00 a título de danos morais, além de condenar o Santander no pagamento da quantia de R$ 5.000,00 a título de danos morais.
+A Corte estadual manteve integralmente a sentença.
+Quanto à ilegitimidade passiva, a ausência dos requisitos da responsabilidade civil, e o termo inicial dos juros de mora, verifica-se, no que diz respeito à alínea a, a parte recorrente limita-se, nas razões do recurso especial, a alegar a sua ilegitimidade passiva e a ausência dos requisitos da responsabilidade civil, além de se insurgir contra o termo inicial dos juros de mora, sem, contudo, indicar, de forma inequívoca, quais os dispositivos legais supostamente violados pelo acórdão impugnado, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284/STF, in verbis:
+Súmula n. 284/STF - É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por sua vez, a parte recorrente alega que a indenização não observa a extensão do dano, pois o valor arbitrado é exorbitante ao passo que o acórdão recorrido concluiu que o quantum indenizatório fixado na sentença a título de danos morais, no valor de R$ 10.000,00, sendo R$ 5.000,00 para cada requerido, mostra-se em conformidade com a jurisprudência.
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se apresentar-se irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na razoabilidade e proporcionalidade do valor arbitrado. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
