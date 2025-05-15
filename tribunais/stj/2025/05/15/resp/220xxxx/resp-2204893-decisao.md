@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por VENEIDE BARBALHO DE MEDEIROS contra acórdão prolatado, por unanimidade, pela 7ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de apelação, assim ementado (fl. 108e):
+ADMINISTRATIVO. APOSENTADORIA COM PROVENTOS PROPORCIONAIS. GRATIFICAÇÃO DE DESEMPENHO INTEGRAL. IMPOSSIBILIDADE. APELAÇÃO DESPROVIDA.
+1. Apelação interposta por particular contra sentença que julgou improcedente o pedido de concessão da integralidade da gratificação por desempenho, após a aposentadoria com ganhos proporcionais. A parte autora foi condenada ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor atualizado da causa (R$ 182.553,16), cuja exigibilidade permanecerá suspensa em razão do disposto no art. 98, § 3º, do CPC.
+2. Sustenta a apelante que, ao conferir o pagamento da gratificação de desempenho aos aposentados, a Lei nº 11.357/06, não fez distinção entre as aposentadorias e seus proventos.
+3. A controvérsia restringe-se ao reconhecimento do direito da autora de perceber integralmente a gratificação de desempenho, após aposentadoria com proventos proporcionais.
+4. A Lei nº 11.357/06, ao estabelecer o pagamento da gratificação aos aposentados não fez qualquer distinção entre as aposentadorias e os seus proventos, proporcionais e integrais, não podendo o intérprete da norma fazê-lo, firmando o posicionamento com base em julgados.
+5. O magistrado sentenciante acertou ao determinar a observância da proporcionalidade no pagamento das gratificações de desempenho devidas aos servidores que se aposentaram com proventos proporcionais.
+6. Os pagamentos aos servidores inativos, previstos nas leis instituidoras de cada gratificação, devem se dar em observância a todo o ordenamento jurídico, onde se encontra plenamente instituída a regra da proporcionalidade.
+7. Embora a Lei nº 11.357/06 não faça menção específica aos servidores aposentados com proventos não integrais, a sua aplicação deve alinhar-se à observância de todas as normas que regem a aposentadoria.
+8. A jurisprudência desta Corte Regional firmou o entendimento de que se aplica a regra da proporcionalidade no cálculo das gratificações aos servidores aposentados com proventos não integrais, porque referidas vantagens se inserem na definição de proventos, ou seja, são calculadas de forma proporcional ao montante efetivamente recebido.
+9. Apelação desprovida.
+10. Honorários advocatícios majorados em 10% (dez por cento) do fixado na origem, na forma do art. 85, § 11, do CPC, suspensa a exigibilidade da obrigação, consoante o art. 98, § 3º, do CPC.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 5º-B da Lei n. 11.355/2006, alegando-se, em síntese, que tal norma " ..  não faz qualquer distinção entre aposentadoria proporcional e integral, quando disciplina a forma de pagamento da vantagem de desempenho" (fl. 125e).
+Com contrarrazões (fls. 138/148e), o recurso foi inadmitido (fl. 150e).
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual "não há diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da gratificação de desempenho." (AgInt no AgInt no REsp n. 2.009.220/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE DESEMPENHO. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PROVIMENTO NEGADO.
+1. Trata-se, na origem, de ação em que a parte autora pretendia a revisão dos seus proventos de aposentadoria a fim de que fosse reconhecido o seu direito à percepção integral da Gratificação de Desempenho de Atividade do Seguro Social - GDASS, sem que fosse aplicada a redução proporcional ao tempo de contribuição.
+2. Verifica-se que, "nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Aplica-se o entendimento da Súmula 85 do STJ" (AgInt no REsp 2.036.021/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023).
+3. Nos termos da jurisprudência do STJ, "em razão da ausência de critério legal a definir tal discrepância, não pode haver diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da Gratificação de Desempenho" (AgInt no REsp 1.566.115/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/2/2020, DJe de 3/3/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.115.346/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. GDPGTAS. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ.
+1. Conforme o entendimento desta Corte, não há diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da gratificação de desempenho.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 2.009.220/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATIFICAÇÕES DE DESEMPENHO. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Segundo a jurisprudência desta Corte, a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide REsp 1.573.197; Rel. Ministra Assusete Magalhães, DJe 30.3.2017; REsp 1.208.930, Rel. Ministro Og Fernandes, DJe 28.9.2016; EDcl no REsp 1.538.956, Rel. Ministro Humberto Martins, DJe 18.8.2016).
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.056.948/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE DESEMPENHO. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. ÔNUS DA SUCUMBÊNCIA EM AÇÃO CIVIL PÚBLICA. DUPLO REGIME.
+1. Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Aplica-se o entendimento da Súmula 85 do STJ.
+2. O Superior Tribunal de Justiça adotou a orientação de que a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide REsp 1.573.197; Rel. Ministra Assusete Magalhães, DJe 30.3.2017; REsp 1.208.930, Rel. Ministro Og Fernandes, DJe 28.9.2016; EDcl no REsp 1.538.956, Rel. Ministro Humberto Martins, DJe 18.8.2016).
+3. Com relação à citada ofensa aos arts. 17 e 18 da Lei 7.347/1985, o acórdão recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça de que o ônus de sucumbência, na Ação Civil Pública, rege-se por duplo regime de modo que, quando vencida a parte autora, incidem as disposições especiais dos arts. 17 e 18 da Lei 7.347/1985; contudo, quando houver sucumbência, em razão da procedência da demanda, deve-se aplicar subsidiariamente o CPC.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.036.021/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023.)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para reconhecer que o pagamento da vantagem de desempenho da parte recorrente de forma integral.
+Condeno a União ao pagamento dos honorários advocatícios, os quais fixo no percentual de 15% (quinze por cento) sobre o valor da condenação. Isenta de custas processuais.
+Juros de mora e correção monetária nos termos do Tema 905/STJ e da legislação vigente.
+Publique-se e intimem-se.
+EMENTA
