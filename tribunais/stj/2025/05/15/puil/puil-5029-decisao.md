@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal com alegado arrimo nos arts. 926 e seguintes do CPC, requerido por Venito Alves de Moraes com o objetivo de reformar acórdão proferido à unanimidade pela 3.ª Turma Recursal da Fazenda Pública do TJRS, aresto pelo qual o colegiado gaúcho não conheceu de recurso inominado tido por tardio.
+No pedido dirigido a esta Corte, fls. 1.063/1.069, pondera o requerente que "o Acórdão recorrido é divergente de decisão de caso análogo proferido pelo Superior Tribunal de Justiça (STJ)" (fl. 1.066) pois, esta Corte, "no julgamento do EAREsp nº 668.615-MS afastou a intempestividade de um recurso ocasionada por indicação errônea da data final do prazo no sistema eletrônico do Tribunal de Justiça do Paraná (TJPR)" (sic. fl. 1.067).
+Em contrarrazões, fls. 1.080/1.088, o Município de Canela, na qualidade de requerido, pleiteia a inadmissibilidade do pedido, firme em que a questão tratada não é de direito material, como requer a lei de regência, nem há similitude fática entre o caso subjacente e o apontado no acórdão paradigma. No mérito, defende o acerto da decisão atacada e requer, subsidiariamente, a improcedência do pedido.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação regular (fl. 28).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento do requerente é reformar o acórdão proferido pela 3.ª Turma Recursal da Fazenda Pública do TJRS e, para isso, invoca arrimo no CPC e alega divergência de entendimento com julgado deste STJ.
+Nessas circunstâncias, não há como dar curso ao pedido.
+Em primeiro lugar, não indica o requerente, com as necessárias precisão e clareza, qual é a norma federal que tem por violada e por que razões o colegiado a teria maltratado. Essa deficiência de fundamentação impede, só por si, o conhecimento do pedido.
+Em segundo lugar, cuidando-se, como é o caso, de decisão afeta à competência do Juizado Especial Federal (ainda que proferida pela Justiça Estadual), rege-se o procedimento pela Lei n. 10.259/2001, diploma que, por seu art. 14, delimita as hipóteses de cabimento do pedido dirigido a esta Corte superior, restringindo-o à hipótese em que "a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ". No caso, a questão debatida (intempestividade da interposição do recurso inominado) não possui, por óbvio, natureza de "direito material" e este fato representa, por si, óbice intransponível ao conhecimento do pedido.
+Em terceiro lugar, a questão não foi submetida ao crivo da TNU, como previsto na apontada lei de regência, sendo encaminha ao STJ "per saltum".
+Assim, por todas estas razões, isolada ou conjuntamente consideradas, o presente pedido não reúne as condições necessárias para ir além do juízo (negativo) de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
