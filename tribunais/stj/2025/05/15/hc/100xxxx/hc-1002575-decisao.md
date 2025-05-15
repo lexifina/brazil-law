@@ -1,0 +1,13 @@
+DECISÃO
+LUCAS HENRIQUE DA SILVA FERNANDES alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa informa que o paciente teve reconhecida a prática de falta grave, sob o fundamento de que teria ingerido objeto ilícito e o descartado no vaso sanitário após imagem suspeita em scanner corporal. Entretanto, não houve apreensão de objeto, tampouco prova concreta da ingestão ou natureza do suposto material ilícito. Assim, o reconhecimento do ato de indisciplina está baseado em presunção, sem comprovação de materialidade.
+Afirma que o TJSP não conheceu da impetração, sob o argumento de que há recurso próprio (agravo de execução) para confrontar a decisão do Juiz da VEC.
+Requer a concessão da ordem, para ser proclamada a absolvição e afastada a falta grave e seus efeitos.
+Decido.
+Nos termos do art. 105 da CF, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Contudo, verifico que a questão foi devidamente suscitada perante o Tribunal de Justiça, o qual, apesar de instado a se manifestar, deixou de analisar a existência de flagrante ilegalidade da decisão do Juiz da VEC sob os argumentos de que o habeas corpus seria incabível como substituto do agravo em execução.
+Dessa forma, de ofício, reconheço a negativa de prestação jurisdicional, uma vez que, se o condenado não tiver interposto o agravo em execução, o remédio constitucional passa a ser o único recurso disponível para pleitear a correção de eventual ilegalidade que prejudique seu direito de locomoção.
+Destaco que:  ..  ""é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).  ..  (AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do habeas corpus, haja vista a supressão de instância. Contudo, de ofício, determino ao Tribunal de Justiça de origem que aprecie, uma vez não interposto o agravo em execução pela defesa, a alegada existência de flagrante ilegalidade na decisão do Juiz da VEC.
+Publique-se e intimem-se.
+EMENTA
