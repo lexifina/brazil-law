@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ALEXANDRE LUIZ CESTARI VIEIRA e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - LOCAÇÃO NÃO RESIDENCIAL - INADIMPLÊNCIA - ARGUIÇÃO DE IMPOSSIBILIDADE DE PLENA UTILIZAÇÃO DO IMÓVEL  LAUDO PERICIAL  LOCAL QUE PODERIA SER UTILIZADO NORMALMENTE  AUSÊNCIA DE PROVA DE PREJUÍZO  SENTENÇA MANTIDA  HONORÁRIOS ADVOCATICIOS  ARBITRAMENTO CONFORME AS CIRCUNSTÂNCIAS DO CASO SOB EXAME  NEGADO PROVIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 22, I e II, da Lei nº 8.245/1991, no que concerne ao descumprimento das obrigações do locador referentes às condições do imóvel para funcionamento de estacionamento, tendo em vista que o local foi entregue com problemas de infiltração e desgastes estruturais que demandaram gastos e impossibilitou o uso total do espaço, trazendo a seguinte argumentação:
+26. Importante destacar, que o presente Recurso não visa rediscutir o conjunto probatório apresentado, mas revelar que não houve ao menos a análise do laudo pericial, qual o D. Perito concluiu que encontravam-se dificuldades de uso pleno do estacionamento, o que enseja em evidente violação do artigo 22 da Lei nº 8.245, vez que é reponsabilidade do locador entregar ao locatário o imóvel alugado em estado de servir ao uso a que se destina e garantir, durante o tempo da locação, o uso pacífico do imóvel locado.
+27. É importante frisar que a destinação do imóvel como estacionamento impõe ao RECORRIDO o dever de zelar pela manutenção de características específicas, essenciais para o bom funcionamento da atividade comercial.
+28. A falta de reparos necessários, como a correção das infiltrações, que causavam empoçamento e mal odor, prejudicou a utilização adequada do bem, transferindo indevidamente ao RECORRENTE um encargo financeiro e operacional que deveria ser assumido pelo RECORRIDO, conforme estabelece a legislação.
+29. Nesse contexto, a decisão do Tribunal de origem ao desonerar o RECORRIDO de suas responsabilidades contraria frontalmente os comandos normativos do artigo 22, incisos I e II, da Lei nº 8.245/1991, pois ficou demonstrado que o imóvel não foi entregue nem mantido em condições que permitissem a exploração regular da atividade comercial de estacionamento, o que acarretou prejuízos diretos e significativos ao RECORRENTE.
+ ..
+33. Restou comprovado que, durante o período da locação, o RECORRIDO se omitiu em relação à necessidade de reparos indispensáveis no imóvel, como a regularização do sistema de iluminação, por exemplo.
+34. A ausência dessas providências gerou diversos transtornos e prejuízos para o RECORRENTE, que se viu impossibilitado de utilizar parte das vagas disponíveis e teve que lidar com o descontentamento dos clientes devido à falta de infraestrutura apropriada.
+35. A existência de falhas no estacionamento, como infiltrações e desgastes, colocava em risco a integridade dos veículos e a segurança dos clientes, motivo pelo qual ensejou em parcial inutilização da propriedade, configurando uma situação de flagrante descumprimento do dever de garantir o uso pacífico do bem.
+36. No contexto de uma atividade comercial, como o funcionamento de um estacionamento, a pacificidade no uso do imóvel está diretamente associada à previsibilidade e à segurança operacional. Quando o RECORRIDO deixa de cumprir com seu dever de manutenção, cria-se um ambiente de incerteza que prejudica diretamente o sucesso do negócio.
+ ..
+39. Diante do exposto, requer-se o provimento do presente recurso especial, para reformar o acórdão recorrido e determinar que o RECORRIDO seja responsabilizado pela realização dos reparos necessários, bem como pela indenização ao locatário pelos prejuízos materiais, assegurando a plena aplicação dos artigos 22, incisos I e II, da Lei nº 8.245/1991, em consonância com os princípios da boa-fé objetiva e da função social do contrato (fls. 784/786).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Não há nos autos elementos que apontem culpa da locadora quanto ao grau de sucesso do estacionamento.
+O contrato celebrado entre as partes não contém nenhuma garantia de fluxo mínimo de usuários, veículos ou ticket médio de consumo. O que se vê é uma frustração do locatário em relação a uma mera expectativa de retorno financeiro frente ao investimento aplicado no negócio.
+Ambas as partes firmaram o contrato cientes do risco do negócio, tendo elas total conhecimento das cláusulas contidas no contrato.
+Logo, não há culpa da locadora na falta de sucesso dos réus naquilo que vislumbraram ao celebrar o contrato.
+ ..
+Ademais, quanto aos supostos vícios no imóvel, foi produzida prova pericial, a qual não constatou que o local não poderia ser utilizado para a finalidade almejada. Além disso, não há prova de que havia demanda para garantir a ocupação de 100% das vagas de estacionamento (fls. 760/762).
+Tal o contexto , incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
