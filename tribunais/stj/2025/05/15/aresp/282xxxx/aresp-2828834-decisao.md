@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por IVANBERGUE PIRES SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0542001-61.2019.8.05.0001 (fls. 262/283).
+No recurso especial, o agravante postula pelo reconhecimento da causa especial de redução de pena, prevista no art. 33, § 4º da Lei n. 11.343/2006 no seu grau máximo (fls. 303/313).
+Apresentadas as contrarrazões (fls. 318/326), o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7/STJ (fls. 327/336).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 383/388).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Todavia, o recurso especial não merece conhecimento.
+No que concerne a alegada violação da lei pela não aplicação do benefício previsto no § 4º do art. 33 da Lei n. 11.343/2006, assim se manifestou o Tribunal de origem (fls. 270/271 - grifo no original):
+ ..
+O representante do Ministério Público requer o decote da causa especial de diminuição de pena, prevista no art. 33, §4º, da Lei n. 11.343/06, sob o argumento de que o réu não preencheria os requisitos legais necessários para a concesso da benesse.
+De fato, analisando verticalmente as provas que constam nos autos, verifica-se que razão assiste ao parquet.
+Nessa senda, cabe salientar que a causa especial de diminuição de pena contida no §4º do art. 33 da Lei 11.343/2006 é apenas aplicável às situações em que o réu é primário, portador de bons antecedentes e quando inexiste prova de que se dedica a atividades criminosas ou integra organização criminosa.
+Sabe-se que, apesar de a Lei n. 11.343/06 dar um tratamento mais rigoroso ao crime de tráfico de drogas, não se pode tratar igualmente circunstâncias distintas, não sendo justo, pois, apenar do mesmo modo um traficante contumaz e um iniciante, já que a pena deve refletir as peculiaridades e especificidades da conduta ilícita praticada.
+Neste diapasão, a minorante prevista no §4º do art. 33 da referida lei possibilita ao magistrado aplicar a pena que entender suficiente e necessária para a reprovação e prevenção do crime, mitigando ou não a reprimenda, com fundamento na realidade prática factual.
+É cediço, ainda, que a referida norma se destina a um grupo restrito de traficantes, os quais somente serão beneficiados com o propósito de se coibir que entrem definitivamente para o mundo da criminalidade.
+A pena será, pois, reduzida pela causa especial de diminuição, prevista no art.33, § 4º, do CP, apenas para os iniciantes, que ainda não se dedicam à narcotraficância de maneira reiterada, ou a tem como meio de vida, o que, de acordo com as evidências dos autos, não é o caso do apelante.
+Isso porque o policial Jackson Roque Machado, foi enfático ao informar que:
+"(..) se recorda da fisionomia do acusado; que sabe quem é o acusado; que não se recorda dos fatos narrados na denúncia, por conta do decurso do tempo; que o acusado é gerente do tráfico de drogas da região; que não sabe os policiais que estavam na diligência. Às perguntas da defesa: que o acusado é ligado a Messi, chefe da localidade do tráfico de drogas."
+Nesse norte, reforçando a prova oral manifestada pelo depoimento do policial Jackson Roque Machado, não se pode ignorar, a existência de fortes indícios de habitualidade do acusado na seara criminal, especificamente em envolvimento com a prática de tráfico de drogas, pois conforme consulta ao PJE 1º Grau, constata-se que o réu responde criminalmente a outros dois processos criminais, pelos quais foi condenado em primeira instância (8123709-49.2022.8.05.0001 e 8055038- 37.2023.8.05.0001), além de responder a um terceiro processo que se encontra em fase inicial (8039026-11.2024.8.05.0001), que referem-se à imputação de crime patrimonial e tráfico ilícito de drogas.
+Apesar de tais processos criminais não caracterizarem reincidência, tampouco maus antecedentes, por não ter ocorrido o trânsito em julgado, são elementos informativos que corroboram o depoimento da prova testemunhal ao evidenciar certo grau de envolvimento do acusado, voltado à prática do tráfico de entorpecentes ou, pelo menos, sua dedicação a essa atividade criminosa; inexistindo qualquer demonstração concreta do réu exercer ocupação lícita, para prover sua subsistência.
+Por tais considerações, deve ser afastada a incidência da minorante prevista no art. 33, §4º, da Lei n. 11.343/06.
+Isto posto, ante a ausência de causas de diminuição ou de aumento de pena a serem consideradas, readéqua-se a reprimenda do acusado Ivanbergue Pires Santos, tornando-a definitiva em 5 (cinco) anos de reclusão, em regime inicial semiaberto, nos termos do art. 33, §2º, "b", do Código Penal.
+ ..
+Analisando o acórdão combatido, observa-se que a Corte de origem concluiu que o agravante não preenchia os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, sendo inviável entender de modo diverso, dada a necessidade de revisão desses elementos fáticos, vedada em recurso especial, por força da Súmula 7/STJ.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+No presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação do agravante à atividade criminosa (tráfico de drogas), notadamente ao dispor que o acusado é gerente do tráfico de drogas da região, ligado ao chefe da localidade do tráfico de drogas.
+Assim, para se acolher a tese de que ele não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei 11.343/2006, como requer, imprescindível o reexame das provas, procedimento inviável na instância especial.
+Dessa forma, para revisar o aferido pela Corte de origem, seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ.
+Cito: AgRg no AREsp n. 2.847.381/PR, relator Ministro Reynaldo Soares da
+Fonseca, Quinta Turma, DJe 26/3/2025
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. PLEITO DE RESTABELECIMENTO DO PRIVILÉGIO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
