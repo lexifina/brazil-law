@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por DEIVISSON BISPO CARDOSO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0502519-72.2020.8.05.0001 (fls. 472/492).
+No recurso especial, o agravante postula: a) A fixação da pena base no mínimo legal; b) A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, no patamar máximo de 2/3; e c) A substituição da pena privativa de liberdade por penas restritivas de direito.
+Apresentadas as contrarrazões (fls. 530/542), o Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7 e 83/STJ.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do presente agravo em recurso especial (fls. 626/629).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, entendo que as teses deduzidas pelo agravante devem prosperar.
+Ao tratar dos temas, assim se manifestou a Corte de origem (fls. 488/489 - grifo nosso):
+ ..
+Com relação à análise das circunstâncias judiciais, previstas no art. 59, do Código Penal, verifica-se que o Juízo de primeiro grau procedeu corretamente quando da realização da dosimetria, ao valorar negativamente as circunstâncias do delito, em razão da quantidade de droga apreendida.
+Nesse sentido, veja-se o trecho da sentença ora vergastada:
+" ..  À vista das circunstâncias analisadas, em razão da quantidade de droga apreendida, a saber: 1.600,10g(um quilo, seiscentos gramas e dez centigramas) de maconha e 495,33g (quatrocentos e noventa e cinco gramas e trinta e três centigramas) de cocaína, fixo a pena-base para o delito de tráfico de drogas em 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa.  .. ". (ID 29816307 - Pág. 6)
+Dessa forma, a pena-base aplicada não merece qualquer modificação, estando em conformidade com a legislação penal.
+Além disso, no que se refere à terceira fase da dosimetria, o Apelante requereu a exasperação da fração de diminuição da pena para 2/3.
+Contudo, da análise dos autos, constata-se que o magistrado de primeiro grau fixou a causa de diminuição na fração de 1/6, em conformidade com a jurisprudência consolidada do egrégio Superior Tribunal de Justiça, tendo em vista que o réu responde a outra ação penal.  ..
+Com efeito, como muito bem pontuou a douta Procuradoria de Justiça, em seu parecer, "o § 4º do art. 33, a Lei n.º 11.343/2006, prevê a possibilidade de diminuição da pena de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas e nem integre organização criminosa".
+Ademais, não há que se falar em bis in idem, visto que a fração de diminuição aplicada se deu em razão de o apelante responder a outra ação penal.
+ ..
+No que se refere ao pedido de aplicação da causa especial de diminuição de pena da Lei de Drogas em seu patamar máximo, para o Superior Tribunal de Justiça a existência de ação penal em curso não pode ser utilizada para modular a fração da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. (REsp n. 2.092.407/MA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025 - grifo nosso).
+Assim, decotada a razão acima referida e levando-se em consideração que as instâncias ordinárias utilizaram o fundamento remanescente, a quantidade e a natureza da droga apreendida, tanto na aplicação da pena-base, com a cominação acima do mínimo legal (6 anos), quanto na terceira fase da dosimetria, ao vedar a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da referida lei, em seu patamar máximo, impõem uma nova dosimetria da pena.
+Destaca-se que a posição da Sexta Turma deste Tribunal Superior e também do Plenário do Supremo Tribunal Federal é no sentido de que configura bis in idem a utilização da quantidade de drogas tanto na fixação da pena-base como na escolha da fração de redução da reprimenda, pela causa de diminuição mencionada no parágrafo anterior (REsp n. 1.225.059/MG, de minha relatoria, Sexta Turma, DJe 10/4/2014).
+Menciono, ainda, precedente do Plenário do Supremo Tribunal Federal, proferido em repercussão geral em recurso extraordinário:
+Recurso extraordinário com agravo. Repercussão geral. 2. Tráfico de Drogas. 3. Valoração da natureza e da quantidade da droga apreendida em apenas uma das fases do cálculo da pena. Vedação ao bis in idem. Precedentes. 4. Agravo conhecido e recurso extraordinário provido para determinar ao Juízo da 3ª VECUTE da Comarca de Manaus/AM que proceda a nova dosimetria da pena. 5. Reafirmação da jurisprudência.
+(ARE n. 666.334 RG/AM, Ministro Gilmar Mendes, DJe 6/5/2014).
+Com isso, deve o Tribunal de origem proceder a uma nova fixação das reprimendas do agravante, com a utilização da quantidade e qualidade da droga em apenas uma das fases da dosimetria, devendo, ainda, em razão do novo quantum, verificar, como entender de direito, a possibilidade de abrandamento do regime prisional e de substituição da reprimenda carcerária.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, afastando o fundamento da presença de ação penal em curso como fator de modulação do privilégio, reconhecendo, ainda, a presença de bis in idem na consideração da quantidade de droga apreendida nas primeira e terceira fases, determinando que o Tribunal de origem proceda a uma nova dosimetria das penas.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO DE DROGAS (1.600,10 G DE MACONHA E 495,33 G DE COCAÍNA). VIOLAÇÃO DOS ARTS. 33, 44, 59, 65, "CAPUT", III, D, TODOS DO CP; 33, "CAPUT" E § 4º, DA LEI N. 11.343/2006. DOSIMETRIA. PENA-BASE E CAUSA DE DIMINUIÇÃO DA LEI DE DROGAS. BIS IN IDEM. VERIFICAÇÃO. OCORRÊNCIA. NATUREZA E QUANTIDADE DA DROGA. DUPLA UTILIZAÇÃO EM MAIS DE UMA FASE DA DOSIMETRIA. AÇÃO PENAL EM CURSO COMO FATOR DE MODULAÇÃO DA MINORANTE. ILEGALIDADE. RETORNO DOS AUTOS PARA NOVO CÁLCULO DA PENA.
+Agravo conhecido para, nos termos do dispositivo, dar provimento ao recurso especial.
