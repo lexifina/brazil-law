@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de DEJAIR FILIPIAK DE SOUZA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente se encontra preso preventivamente desde outubro de 2019, pela suposta prática de delitos contra a vida e patrimoniais, aguardando julgamento pelo Tribunal do Júri.
+Impetrada a ordem originária, a Desembargadora Relatora denegou a ordem (e-STJ, fls. 16-17).
+Neste writ, a defesa sustenta que há evidente constrangimento ilegal pelo excesso de prazo da prisão após a pronúncia e pela desnecessidade da continuidade da custódia neste momento.
+Aduz, para tanto, que três sessões de julgamento pelo Tribunal do Júri foram canceladas sem justificativa adequada, o que vem indevidamente perpetuando a custódia antecipada do réu.
+Requer a concessão de liberdade ao paciente para que possa aguardar o julgamento em liberdade, substituindo a prisão por medida cautelar menos gravosa, como o uso de tornozeleira eletrônica.
+Indeferida a liminar (e-STJ, fls. 46-47), o Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ, fls. 60-62).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Tal entendimento, de igual modo, é aplicável na hipótese dos autos, em que o tema suscitado não foi debatido pelo colegiado do Tribunal de origem, uma vez que a decisão impugnada foi proferida monocraticamente e a defesa não interpôs recurso para que a matéria fosse analisada pelo órgão colegiado.
+Nesse sentido os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR. AUSÊNCIA DE MANIFESTAÇÃO COLEGIADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus foi impetrado contra decisão monocrática de Desembargador. Não tendo a defesa interposto o recurso cabível contra aquele julgado, inexiste manifestação do Colegiado estadual sobre a questão aqui deduzida, o que impede o exame da matéria por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+2. Agravo regimental desprovido." (AgRg no HC n. 949.421/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2024, DJe de 25/11/2024);
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+4. Situação em que deve ser observado o princípio da unirecorribilidade recursal, sendo pacífico o entendimento desta Corte Superior no sentido de "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe de 3/4/2020).
+5. Agravo regimental desprovido." (AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+No caso dos autos, ademais, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, antes mesmo do exame da questão pelo colegiado do Tribunal de origem.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
