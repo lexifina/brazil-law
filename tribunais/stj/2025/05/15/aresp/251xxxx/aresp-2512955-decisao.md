@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CRISTIANE BRAUER ZAICOVSKI contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 469-476.
+O recurso especial foi interposto com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos de revisão judicial do contrato de compra e venda de imóvel.
+O julgado foi assim ementado (fls. 361-362):
+APELAÇÃO CÍVEL. CONTRATOS DO SISTEMA FINANCEIRO DE HABITAÇÃO. REVISÃO JUDICIAL DO CONTRATO DE COMPRA E VENDA DE IMÓVEL. TAXA DE ADMINISTRAÇÃO. TABELA PRICE. AUSÊNCIA DE ABUSIVIDADE. INOVAÇÃO RECURSAL. AUSÊNCIA DE FUNDAMENTAÇÃO. REALIZAÇÃO DE PERÍCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. Caso em que a apelante postulou o retorno dos autos ao primeiro grau para realização de perícia, sem, no entanto, fundamentar o pedido em questão. Recurso não conhecido, no ponto. CORREÇÃO MONETÁRIA. INOVAÇÃO RECURSAL. Verifica-se que não foi requerido na petição inicial, pela apelante, a incidência de correção monetária pelos índices divulgados pela Corregedoria Geral do Estado do Rio Grande do Sul, indicando inovação recursal. DO SISTEMA DE AMORTIZAÇÃO. Hipótese em que o contrato prevê expressamente a utilização da Tabela Price, inexistindo qualquer abusividade na prática. DA TAXA DE ADMINISTRAÇÃO. Não há ilegalidade na cobrança de taxa de administração, a qual destina-se à manutenção e operacionalização do sistema do crédito, tendo a requerida realizado a cobrança na forma contratada. Possível a pactuação das cláusulas contratuais com as mesmas condições permitidas para as entidades autorizadas a operar no sistema financeiro imobiliário. Lei 9.514/97. REPETIÇÃO DO INDÉBITO. Não havendo valores a revisar, descabe o acolhimento do pedido de restituição dos valores. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELO DESPROVIDO, NA PARTE CONHECIDA.
+No recurso especial a parte sustenta, em suma, que o Tribunal de origem divergiu de julgados do Superior Tribunal de Justiça, tendo em vista que as incorporadoras e construtoras, por não pertencerem ao Sistema Financeiro Nacional, não podem proceder à capitalização mensal de juros, devendo ser afastada a aplicação da tabela Price ao presente caso.
+Requer o provimento do recurso para que se reconheça a vedação à tabela Price, pois a recorrida não é integrante do Sistema Financeiro Nacional, devendo os juros ser lineares e capitalizados anualmente, o que fará com que ocorra a repetição do indébito.
+Contrarrazões às fls. 409-420.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Quanto à questão, o Tribunal a quo afirmou o seguinte (fl. 367, destaquei):
+No caso em comento, as partes celebraram, em 26 de novembro de 2012, o "contrato particular de compra e venda de imóvel, com pacto de alienação fiduciária em garantia de pagamento e outras avenças" (evento 37, DOC2) ora em revisão.
+Cumpre referir que, ainda que a incorporadora ré não seja integrante do sistema financeiro, é possível, nos contratos de financiamento imobiliário em geral, a pactuação de cláusulas contratuais com as mesmas condições permitidas para as entidades autorizadas a operar no sistema financeiro, conforme disciplina o artigo 5º, §2º, da Lei 9.514/971.
+Dessa forma, o Tribunal a quo concluiu pela possibilidade de pactuação das cláusulas contratuais por parte da ora agravada, nas mesmas condições das instituições financeiras, conforme disposto no art. 5º, § 2º, da Lei n. 9.514/1997.
+Nas razões do recurso especial, a parte restringiu-se a defender que a ora agravada não era integrante do sistema financeiro e, por tal motivo, não poderia aplicar a tabela Price ao contrato em questão. Em momento algum rebateu o fundamento do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ademais, o Tribunal de origem, ao concluir pela utilização da tabela Price, consignou o que se segue (fls. 367-368):
+No caso em comento, o contrato prevê, expressamente, a utilização do sistema francês de amortização, ou Tabela Price, conforme cláusula VII, item B, alínea II da avença, inexistindo qualquer abusividade na prática (evento 37, DOC2, p. 3):
+ ..
+Nessa linha, deve-se enfatizar que, conforme se conclui da avença, ficou ajustado que o requerente pagaria um número certo de parcelas de valor fixo, característica do sistema francês de amortização, ou Tabela Price.
+Para melhor compreensão, deve-se observar que essa metodologia implica abatimento mensal da parcela adimplida por um percentual, aplicado sobre o saldo devedor do mês anterior, de juros e de eventuais outros encargos, de modo que sua utilização, por si só, não constitui anatocismo. À vista disso, verifica-se que não houve a aplicação de juros sobre juros, mas tão somente do percentual de juros remuneratórios sobre o débito residual.
+Nesse contexto, não cabe ao STJ modificar tal entendimento por demandar a reanálise de cláusulas contratuais e o reexame de matéria fático-probatória, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
