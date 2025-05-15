@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão do Tribunal de Justiça do Estado do Espírito Santo que inadmitiu recurso especial interposto em razão do óbice da Súmula 83 do egrégio Superior Tribunal de Justiça.
+Consta dos autos que o recorrente, em cumprimento de pena, pretende que a reincidência em um dos crimes não seja reconhecida em uma das condenações para fins de concessão do livramento condicional, conforme decidido pelo Tribunal de origem.
+Com isso, o recorrente interpôs agravo em recurso especial, alegando ofensa ao artigo 83 do Código Penal e requerendo a admissão do recurso com efeito suspensivo.
+A decisão de admissibilidade do recurso especial, proferida pelo Tribunal de Justiça do Estado do Espírito Santo, não admitiu o recurso especial, fundamentando-se no entendimento do acórdão recorrido está em conformidade com a jurisprudência do STJ, aplicando-se a Súmula 83.
+O parecer ministerial é pelo não conhecimento do agravo em recurso especial, sustentando a incidência da Súmula 83 do STJ (e-STJ fls. 125/128).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos:
+incide no caso em tela a Súmula nº 83, Egrégio Superior Tribunal de Justiça, cujo teor "aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional" (STJ, AgInt no AR Esp 1484037/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/12/2019, D Je 09/12/2019). Isto posto, com fulcro no artigo 1.030, inciso V, do Código de Processo Civil, inadmito o recurso.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775 /PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018,DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice previsto na súmula 83 dessa Corte de Justiça.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a repisar os mesmas argumentos que já tinham sido expostos no recurso especial, sem infirmar os fundamentos da inadmissão do recurso.
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO MAJORADO. DECISÃO DE INADMISSÃO. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182/STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão que, na origem, ensejou a inadmissão dos recursos especiais, pautou-se nos óbices das Súmulas n. 7 e 83 do STJ. Todavia, nos respectivos agravos, as defesas deixaram de rebater, de forma concreta e arrazoada, o último dos fundamentos.
+2. Especificamente, no que diz respeito à impugnação da Súmula 83/STJ, conforme a assente jurisprudência do Superior Tribunal de Justiça, incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo o cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie (AgRg no AREsp n. 2.253.769/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/08/2023, DJe de 18/08/2023).
+3. Conclui-se, portanto, que os agravos em recurso especial não preencheram os requisitos de admissibilidade, uma vez que deixaram de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do apelo nobre, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+4. Agravo Regimental desprovido.
+(AgRg no AREsp n. 2.578.837/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+No caso concreto, o acórdão impugnado e a decisã o de inadmissão do recurso especial estão corretas ao apontar que a jurisprudência dessa Corte de Justiça é no sentido de que a reincidência deve incidir em todas as condenações. Vejamos:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REINCIDÊNCIA NA EXECUÇÃO PENAL. INCIDÊNCIA EM TODAS AS CONDENAÇÕES. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, por ser substitutivo de recurso próprio, e não concedeu a ordem de ofício, por ausência de flagrante ilegalidade.
+2. O juízo da execução penal indeferiu pedido do Ministério Público para reconhecer a reincidência do paciente e aplicar percentual mais gravoso para progressão de regime. O Tribunal, em agravo de execução penal, deu provimento ao recurso para aplicar a reincidência sobre a integralidade das penas do sentenciado.
+3. No habeas corpus, o impetrante alegou que a fração mais gravosa para progressão de regime só pode ser aplicada aos delitos cuja reincidência foi reconhecida no decreto condenatório, pedindo o reconhecimento da primariedade em relação a uma guia de execução específica.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a reincidência deve ser aplicada na integralidade das penas do sentenciado durante a execução penal, mesmo que não tenha sido reconhecida em todas as condenações na fase de conhecimento.
+III. Razões de decidir
+5. O entendimento jurisprudencial consolidado do Superior Tribunal de Justiça é de que a reincidência é uma circunstância pessoal que interfere na integralidade da execução penal, não se limitando às penas em que foi reconhecida na fase de conhecimento.
+6. A decisão impugnada está em consonância com a jurisprudência do STJ, que permite ao juízo das execuções penais reconhecer a reincidência para análise da concessão de benefícios, mesmo que não tenha sido reconhecida pelo juízo que prolatou a sentença condenatória.
+7. Não foram apresentados novos argumentos no agravo regimental capazes de alterar o entendimento anteriormente firmado, justificando a manutenção da decisão recorrida.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "A reincidência pode ser admitida pelo juízo das execuções penais para análise da concessão de benefícios, ainda que não reconhecida pelo juízo que prolatou a sentença condenatória".
+Dispositivos relevantes citados: Código Penal, art. 61, inciso I;
+Lei de Execução Penal, art. 66, inciso III. Jurisprudência relevante citada: STJ, AgRg no HC 904.095/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 09.09.2024; STJ, REsp 2.049.870/MG, Rel. Min. Laurita Vaz, Terceira Seção, julgado em 17.10.2023.
+(AgRg no HC n. 856.379/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+Por esses fundamentos, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
