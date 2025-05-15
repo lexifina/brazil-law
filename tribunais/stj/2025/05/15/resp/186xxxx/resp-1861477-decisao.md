@@ -1,0 +1,113 @@
+DECISÃO
+ENEIDA CAMPOS FERREIRA AGEL interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 003418-45.2004.8.26.0247.
+A ora recorrente foi condenada a 13 anos e 9 meses de reclusão, em regime inicial fechado, pelo crime previsto no art. 121, § 2º, III, do CP.
+Nas razões do especial, a defesa aponta a violação dos arts. 382 e 619 do CPP e 1.022, II, do CPC, c/c o art. 3º do CPP, uma vez que a Corte estadual foi omissa em apreciar os pedidos de aplicação da atenuante da confissão espontânea e revogação da prisão preventiva da acusada.
+Indica, ainda, a infringência dos arts. 420, I e parágrafo único, do CPP e 256 e 257 do CPC c/c o art. 3º do CPP, pois a intimação por edital da ré para a sessão plenária de julgamento não foi precedida de diligências necessárias para localizá-la e, portanto, foi injustificada.
+Sustenta a afronta aos arts. 59, 65, III, "d", e 26, parágrafo único, do CP, aos argumentos de que a) houve indevido bis in idem entre os fundamentos usados para aumentar a pena-base pela valoração negativa das circunstâncias do crime e a qualificadora do meio cruel, reconhecida pelos jurados; b) o aumento em 1/8 da pena-base pela análise desfavorável de uma única vetorial é desarrazoado; c) deve ser aplicada a atenuante da confissão espontânea, pois a acusada reconheceu a autoria delitiva na fase de investigação e na audiência de instrução, na primeira etapa do procedimento especial do Tribunal do Júri e d) a ré faz jus à minorante da semi-imputabilidade, pois "o Laudo Pericial constante dos autos aponta sem sombra de dúvida de que a Recorrente, embora tivesse completa capacidade de entendimento com relação ao caráter ilícito do fato, não era inteiramente capaz de determinar-se de acordo com esse entendimento, em razão de estar com sua capacidade de autodeterminação reduzida" (fl. 1.169).
+Alega, ainda, a inobservância dos arts. 312, 321 e 319 do CPP, em virtude de a prisão cautelar da recorrente haver sido decretada sem a presença dos pressupostos autorizadores da medida. Afirma: "Não se pode admitir, que seja determinada a prisão preventiva da Recorrente, tão somente em razão de em um tentativa de sua intimação, ter o oficial de justiça responsável encontrado a casa vazia em razão de reformas que ali acontecia" (fl. 1.171).
+Requer, ao fim, a nulidade do processo desde a determinação da intimação por edital da ré, o redimensionamento da pena ou a anulação do acórdão de embargos de declaração.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+Decido.
+I. Admissibilidade
+O recurso especial não preenche integralmente os requisitos de admissibilidade necessários ao seu conhecimento.
+Em relação aos arts. 256, 257 e 1.022 do CPC - os quais tratam, respectivamente, da citação por edital e dos embargos de declaração no âmbito do processo civil -, incide a Súmula n. 284 do STF, uma vez que há atos normativos específicos no processo penal a respeito dos temas - arts. 351 e seguintes, 420, 431 e 619 do CPP. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, AMBOS DO CPC. FUNDAMENTAÇÃO DEFICIENTE. DISPOSIÇÕES ESPECÍFICAS NO CPP REGULANDO A MATÉRIA, CIRCUNSTÂNCIA QUE AFASTA A INCIDÊNCIA DOS DISPOSITIVOS TIDOS COMO VIOLADOS NA SEARA PENAL NA FORMA DO ART. 3º DO CPP. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 261, 263, 265, § 2º, 352, IV, 357, I E II, 367 e 564, III, C, TODOS DO CPP. INADMISSIBILIDADE. RECURSO ESPECIAL INTERPOSTO EM FACE DE ACÓRDÃO EXARADO NO JULGAMENTO DE REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. PARADIGMAS EM HABEAS CORPUS E AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL NOS MOLDES REGIMENTAIS.
+Agravo regimental improvido.
+(AgRg no AREsp n. 2.379.473/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/9/2023, DJe de 22/9/2023, grifei.)
+Em relação aos pedidos de redução da pena-base (por fundamentação inidônea das circunstâncias do delito ou por seu aumento desproporcional), a parte já teve seu pleito acolhido por esta Corte Superior no julgamento do HC n. 712.283/SP. No referido habeas corpus, foi concedida a ordem à paciente, a fim de excluir a vetorial ora impugnada, de modo que sua pena-base foi fixada no mínimo legal. Assim, não há como conhecer da alegada violação do art. 59 do CP por superveniente ausência de interesse recursal.
+Em relação à interposição fundada no art. 105, III, "c", da CF, o recurso não pode ser conhecido, porque não foi demonstrado o dissídio jurisprudencial. No caso, a recorrente, além de não indicar os julgados paradigmas da divergência, não realizou o cotejo analítico entre eles e o acórdão recorrido.
+Conforme disposição dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em dissídio jurisprudencial, o recorrente deve colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando, de forma clara e objetiva, suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na hipótese.
+II. Art. 619 do CPP - omissões constatadas
+O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa.
+Na hipótese, a recorrente alega que o Tribunal estadual foi omisso em apreciar os pedidos de aplicação da atenuante da confissão espontânea e revogação da prisão preventiva da acusada, os quais foram formulados na apelação.
+Deveras, verifico que a defesa formulou ambos os pleitos nas razões recursais, conforme se verifica às fls. 987-1.009. Colaciono, por oportuno, trecho dos pedidos constantes na apelação (fl. 1.008):
+Por todo o exposto requer o que se segue:
+ ..
+III. Requer também a reforma da sentença para a aplicação da atenuante genérica prevista no artigo 65, inciso III, alínea "d", do Código Penal, para reduzir a pena aplicada à Acusada, em pele menos 1/6 (um sexto), em razão de sua confissão espontânea;
+ ..
+V. A revogação da prisão preventiva decretada em desfavor de ENEIDA CAMPOS FERREIRA AGEL, na Sessão do Tribunal do Júri, realizada no dia 08.11.2018, conforme termo de fls.809/814 dos autos do processo em anexo, em razão da ausência dos requisitos autorizadores da decretação da prisão preventiva;
+A Corte estadual, por sua vez, não se pronunciou expressamente sobre essas matérias, nem mesmo quando opostos embargos de declaração para sanar a omissão. O órgão recursal assim decidiu os aclaratórios (fls. 1.137-1.138, destaquei):
+Eneida Campos Ferrari Agel opôs estes embargos de declaração apontando a existência de omissão consistente na indevida apreciação da tese defensiva sobre cerceamento defensivo decorrente do chamamento da embargante; omissão na apreciação da defesa ao impugnar o cálculo de pena; omissão da decisão quanto à não apreciação da presença da atenuante da confissão espontânea: omissão da sentença na apreciação da hipótese de imputabilidade parcial da embargante e, por fim, omissão do acórdão com referência à manutenção da prisão preventiva. Requer, assim, o saneamento dessas omissões (cf. petição de fls. 983/1038).
+Rejeitam os embargos de declaração. Não houve qualquer omissão no acórdão quanto ao chamamento pessoal e por edital da embargante. O procedimento foi regular, decorrente do desaparecimento injustificado da acusada do foro da culpa. A preliminar foi devidamente enfrentada e rejeitada pelo acórdão
+O cálculo da pena foi fundamentado concretamente pelo juiz-presidente do Tribunal do Júri de Ilhabela, que apontou episódios atinentes à execução do crime como circunstâncias capazes de elevar a pena, motivação essa mantida integralmente pelo acórdão embargado.
+A decisão de primeiro grau afastou corretamente a semi-imputabilidade da embargante, asseverando que ao tempo do crime a acusada tinha plena condição mental e psicológica, sendo descabida, neste momento, qualquer alegação em contrário, que possa modificar a manifestação do Tribunal do Júri.
+Ante o exposto, rejeitam os embargos de declaração.
+A sistemática recursal inaugurada pelo Código de Processo Civil de 2015 consagrou, expressamente, a tese do prequestionamento ficto (art. 1.025 do CPC), em atenção aos princípios da economia processual e da celeridade. A jurisprudência do STJ admite a aplicação analógica desse instituto ao processo penal, por força do art. 3º do CPP, se a parte apontar a violação do art. 619 do Código de Processo Penal. Nesse caso, são possíveis, inclusive, a supressão da instância e a apreciação do mérito da questão.
+Nessa perspectiva: "Segundo jurisprudência do STJ, o prequestionamento ficto pode ser aplicado mesmo em matéria penal, desde que o recorrente indique a violação ao art. 619 do CPP, viabilizando o enfrentamento da questão em instância superior (AgRg no REsp 1.669.113/MG)" (AREsp n. 2.332.309/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024). A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 639, I, DO CPP. PREQUESTIONAMENTO FICTO. AUSÊNCIA. NÃO APONTADA A NEGATIVA DE PRESTAÇÃO JURISDICIONAL NAS RAZÕES DO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.669.113/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/5/2018.)
+Na hipótese, a recorrente opôs embargos de declaração com o intuito de ver suas teses examinadas, mas a Corte local manteve-se omissa, razão pela qual a parte interpôs este recurso especial, em que se suscitou a violação do art. 619 do CPP. Assim, estão preenchidos os requisitos necessários à adoção do prequestionamento ficto, o que autoriza a análise das teses defensivas pelo STJ.
+Quanto ao pleito de reconhecimento da atenuante prevista no art. 65, III, "d", do CP, o STJ entende ser necessário que o fato ensejador da circunstância ocorra em plenário. Como a regra de julgamento das decisões do Tribunal do Júri é a da íntima convicção, é imprescindível que a confissão ocorra perante o Conselho de Sentença ou que seja arguída pela defesa técnica durante o plenário, o que não foi constatado na espécie.
+Ilustrativamente: "Para que se considere debatida em Plenário, não é necessário que a confissão seja arguida pela defesa técnica, podendo emergir do depoimento do próprio acusado, no exercício de sua autodefesa, bastando que conste, da ata de julgamento do Tribunal do Júri, a sua efetiva ocorrência" (HC n. 474.065/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/5/2019).
+De toda forma, como a pena-base da ré foi fixada no mínimo legal, não haveria interesse-utilidade no reconhecimento da confissão espontânea, uma vez que não teria reflexos na pena da agente, nos termos da Súmula n. 231 do STJ ("a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal").
+Quanto ao pleito de revogação da prisão preventiva, não há como acolhê-lo. O Juiz Presidente do Tribunal do Júri indeferiu à acusada o direito de recorrer em liberdade pelos seguintes fundamentos (fl. 899, destaquei):
+Com efeito, a comprovação da materialidade e da autoridade delitiva encontra-se devidamente e reconhecida pelo Egrégio Tribunal do Júri. Com relação ao periculum libertatis, verifica-se que a prisão preventiva da ré mostra-se necessária, em concreto, para assegurar a aplicação da lei penal, porque a ré, após a prática dos fatos, mudou-se para a Comarca de Goiânia e após a confirmação da decisão de pronúncia não foi mais localizada, o que demostra a sua notória e concreta pretensão de empreender fuga. Portanto, a prisão preventiva da ré mostra-se imprescindível para assegurar a aplicação da lei penal. Ademais, fixado o regime fechado para o início de cumprimento da pena privativa de liberdade, inexiste desproporcionalidade na decretação da prisão provisória
+Portanto, o Magistrado apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação concreta para decretar a prisão preventiva, ao salientar o fundado risco de não aplicação da lei penal, haja vista que a ré estava foragida.
+Deveras, embora haja sido citada e, inclusive, comparecido ao seu interrogatório na fase de judicium accusationis, a acusada não foi localizada no endereço por ela declinado anteriormente para que fosse intimada da sessão plenária de julgamento. Assim, embora a agente tivesse conhecimento do trâmite de processo-crime em seu desfavor, encontrava-se em lugar incerto e não sabido, circunstância que, de acordo com a jurisprudência desta Corte Superior, impede o reconhecimento da ilegalidade suscitada.
+Nesse sentido:
+ ..  A custódia cautelar é providência necessária também para garantia a aplicação da lei penal. Isso porque, embora o Recorrente tenha ciência da tramitação da ação penal e da ordem de prisão contra ele emitida, consta que o mandado de prisão preventiva não foi cumprido e o Réu segue foragido. Nesse sentido, entende-se que "determinadas condutas, como a não localização, ausência do distrito da culpa, a fuga (mesmo após o fato) podem demonstrar o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia" (AgRg no HC 714.132/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/02/2022, DJe 21/02/2022).  ..
+(RHC n. 142.663/DF, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/8/2022, destaquei)
+Ademais, em consulta ao site do Tribunal estadual, o gabinete verificou que a acusada progrediu para o regime aberto em fevereiro de 2023, a indicar que não está presa.
+III. Art. 420, I, e parágrafo único, do CPP - nulidade decorrente de intimação por edital não constatada
+Conforme posicionamento jurisprudencial desta Corte Superior, em atenção ao art. 563 do CPP, não se declara a nulidade do ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte.
+Relativamente aos processos de competência do Tribunal do Júri, as nulidades ocorridas após a pronúncia devem ser arguídas logo depois de anunciado o julgamento e apregoadas as partes, sob pena de preclusão, consoante determina o art. 571, V, do Código de Processo Penal. É indispensável que a irresignação da parte esteja consignada na ata de julgamento.
+No caso em análise, a defesa se insurge quanto à intimação por edital da ré para a sessão plenária. Todavia, observo que a apontada nulidade não foi suscitada em momento oportuno, pois não consta na ata de julgamento nenhuma irresignação quanto ao assunto, conforme se observa pela leitura do referido documento às fls. 895-900.
+Dessa forma, a alegação defensiva está preclusa, pois não foi suscitada no momento oportuno: logo após anunciado o julgamento e apregoadas as partes. Nesse mesmo sentido:
+ ..
+1. A jurisprudência desta Corte Superior é no sentido de que, consoante o disposto no art. 571, V, do Código de Processo Penal - CPP, no âmbito dos processos de competência do Tribunal do Júri, as supostas nulidades ocorridas após a sentença de pronúncia devem ser alegadas logo depois de anunciado o julgamento e apregoadas as partes, sob pena de preclusão.
+ ..
+(AgRg no REsp n. 2.077.597/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+ ..
+1. Esta Corte Superior possui entendimento de que as nulidades ocorridas posteriormente à pronúncia, devem ser suscitadas no momento oportuno, qual seja, logo depois de anunciado o julgamento e apregoadas as partes, sob pena de preclusão, a teor do art. 571, V, do Código de Processo Penal, o que não ocorreu na presente hipótese, consoante se observa da ata de julgamento.
+ ..
+(AgRg no RHC n. 179.792/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/12/2023, DJe de 11/12/2023.)
+ ..
+3. Tratando-se de processo de competência do Tribunal do Júri, as nulidades posteriores à pronúncia devem ser arguidas depois de anunciado o julgamento e apregoadas as partes, e as do julgamento em plenário, em audiência, ou sessão do Tribunal, logo após sua ocorrência, sob pena de preclusão, consoante determina o art. 571, V e VIII, do Código de Processo Penal (HC 149007/MT, Rel. Min. Gurgel de Faria, Dje de 21/5/2015).
+ ..
+(AgRg no REsp n. 1.366.851/MG, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/10/2016, DJe de 17/10/2016.)
+Além disso, tal como registrou o Tribunal estadual, a intimação da ré por edital foi determinada por ela não haver sido encontrada durante anos no endereço indicado nos autos. Veja-se (fl. 1.257, grifei):
+O Juiz deferiu pedido de intimação da apelante por edital, por ela ter se colocado fora do alcance da justiça durante anos. Sempre que procurada na comarca, nos endereços constantes dos autos, por inúmeras vezes, a imputada nunca foi encontrada. Teria se mudado para outro estado da federação. Nesse passo e considerando a necessidade de imprimir ritmo ao processo, que deve atingir a sua finalização, cumpriu-se a regra do artigo 457 do CPP. Intimada por edital, a acusada não compareceu ao julgamento, que, segundo a lei, não deve ser adiado pela ausência do réu solto. Não há nenhuma irregularidade na intimação por edital nem na realização do julgamento pelo tribunal do júri sem que a acusada estivesse presente.
+Assim, não há irregularidade a ser sanada, pois o parágrafo único do art. 420, c/c o art. 457, ambos do CPP, determina que "será intimado por edital o acusado solto que não for encontrado". Ressalto, ainda, que não há como esta Corte Superior alterar as premissas fáticas assentadas no acórdão recorrido, em observância à Súmula n. 7 do STJ.
+IV. Art. 26, parágrafo único, do CP - preclusão
+A pretensão defensiva de reconhecimento da semi-imputabilidade da recorrente ao tempo dos fatos está preclusa. O art. 483 do CPP enuncia os quesitos a serem formulados para os jurados, entre os quais, o de causa de diminuição de pena. Veja-se (grifei):
+Art. 483. Os quesitos serão formulados na seguinte ordem, indagando sobre:
+I - a materialidade do fato;
+II - a autoria ou participação;
+III - se o acusado deve ser absolvido;
+IV - se existe causa de diminuição de pena alegada pela defesa;
+V - se existe circunstância qualificadora ou causa de aumento de pena reconhecidas na pronúncia ou em decisões posteriores que julgaram admissível a acusação.
+A ausência de um quesito configura nulidade, a qual deve ser arguída em plenário, logo depois depois de ocorrer. Confiram-se, a propósito, os seguintes dispositivos legais:
+Art. 564. A nulidade ocorrerá nos seguintes casos:
+ ..
+III - por falta das fórmulas ou dos termos seguintes:
+ ..
+k) os quesitos e as respectivas respostas;
+Art. 571. As nulidades deverão ser argu idas:
+ ..
+VIII - as do julgamento em plenário, em audiência ou em sessão do tribunal, logo depois de ocorrerem.
+Nesse mesmo sentido:
+ ..
+6. No moderno sistema processual penal, eventual alegação de nulidade, ainda que absoluta, deve vir acompanhada da demonstração do efetivo prejuízo. Não se proclama uma nulidade sem que se tenha verificado prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora, portanto, o princípio pas de nulitté sans grief, a teor do que dispõe o art. 563 do Código de Processo Penal.
+7. Não tendo a defesa impugnado os quesitos elaborados e lidos pelo juiz presidente ao final dos debates, incabível a arguição de nulidade, porque preclusa a referida faculdade processual, nos termos do art. 571, VIII, do CPP.
+ ..
+(AgRg no AREsp n. 2.320.685/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023, grifei)
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. TRIBUNAL DO JÚRI. NULIDADE DA QUESITAÇÃO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. TESE NÃO DEFENDIDA EM PLENÁRIO. ALEGAÇÃO EM MOMENTO OPORTUNO. AUSÊNCIA. PRECLUSÃO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. Inviável o reconhecimento da nulidade decorrente de vício na quesitação, a respeito da participação de menor importância, quando evidenciado que, além de tal tese não ter sido sustentada pela defesa em plenário, não houve insurgência em momento oportuno, atraindo a ocorrência da preclusão. Precedente.
+2. Ordem denegada.
+(HC n. 781.071/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/3/2023, DJe de 17/3/2023, destaquei)
+ ..
+1. Nos termos do art. 571, VIII, do CPP, a arguição da nulidade em sessão plenária deve ser formulada logo depois de ocorrer, sob pena de preclusão, sobretudo, na espécie, em que todos os quesitos obrigatórios foram submetidos à indagação dos jurados e as assertivas foram formuladas sem causar nenhuma perplexidade, tanto que, após a leitura dos quesitos e a indagação às partes nenhum requerimento ou reclamação foi solicitado.
+ ..
+(AgRg no AREsp n. 673.250/RJ, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 25/5/2021, DJe de 31/5/2021.)
+ ..
+2. A alegação de nulidade por vício na quesitação deverá ocorrer no momento oportuno, isto é, após a leitura dos quesitos e a explicação dos critérios pelo Juiz presidente, sob pena de preclusão, nos termos do art. 571 do CPP (HC 217.865/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/05/2016, DJe 24/05/2016)
+ ..
+(AgInt no REsp n. 1.477.914/MG, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/12/2016, DJe de 19/12/2016.)
+No caso em exame, a defesa não se insurgiu tempestivamente - na sessão plenária de julgamento -, quanto à ausência do quesito referente à minorante prevista no art. 26, parágrafo único, do Código Penal, o que configura a preclusão temporal da matéria.
+Ressalto, por oportuno, ser incabível o reconhecimento da causa de diminuição de pena sem a respectiva quesitação ao Conselho de Sentença, por caracterizar burla à competência constitucional conferida ao Tribunal do Júri.
+V. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
