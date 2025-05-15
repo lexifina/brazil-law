@@ -1,0 +1,39 @@
+DECISÃO
+O presente writ, com pedido liminar, impetrado em benefício de TATIANE STEFANI PEREIRA DA SILVA PRIMO - condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa, por incursão no crime de tráfico de drogas majorado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001303-31.2017.8.26.0559), não comporta processamento, mas merece ser acolhido de ofício.
+Busca-se, na presente impetração, a declaração de nulidade da condenação, sob o argumento de que esta foi fundamentada exclusivamente em depoimentos de policiais que já haviam demonstrado parcialidade.
+Subsidiariamente, requer-se o refazimento da dosimetria da pena, com o afastamento do aumento da pena-base, exasperada em razão da quantidade e natureza da droga apreendida, por se tratar de quantidade diminuta. Ademais, pleiteia-se a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, o que permitiria a substituição da pena privativa de liberdade por restritiva de direitos, com a fixação de regime mais brando, considerando que a paciente foi absolvida da imputação pelo crime de associação criminosa, além de ser primária e possuir bons antecedentes.
+É o relatório.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 15/2/2021, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Ademais, verifico que a alegada condenação com base exclusivamente em depoimentos policiais e exasperação indevida da pena-base, não foram examinados pelo Tribunal de origem, pois o apelo foi interposto pelo Ministério Público, houve confissão espontânea da paciente e do corréu e a pena inicial foi fixada no mínimo legal.
+Nessa ordem de ideias, não cabe a análise das referidas teses por esta Corte Superior, porquanto é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Contudo, da análise dos autos, verifico a existência de nítido constrangimento ilegal na terceira fase da dosimetria da pena a ser sanado, o que autoriza a concessão da ordem de ofício.
+Com efeito, o Tribunal estadual afastou a minorante do tráfico privilegiado aos seguintes fundamentos (fls. 326/328 - grifo nosso):
+ ..
+A pena-base foi fixada no mínimo legal, em 05 anos de reclusão, além do pagamento de 500 dias-multa.
+Embora presente a atenuante da confissão espontânea, ela não seria capaz de reduzir a pena abaixo do piso, nos termos da súmula 231, do STJ.
+Presente a causa de aumento do art. 40, inciso III, da Lei de Drogas, a reprimenda foi exasperada em 1/6, atingindo 05 anos e 10 meses de reclusão, e pagamento de 583 dias-multa.
+Entendeu o D. Magistrado a quo que a apelante fazia jus ao redutor previsto no § 4º, do artigo 33, da Lei nº 11.343/06, na fração de 1/2, totalizando, em definitivo, 02 anos e 11 meses de reclusão, e pagamento de 291 dias-multa, no valor unitário mínimo.
+No entanto, assiste razão ao representante do Ministério Público ao pleitear o afastamento do tráfico privilegiado.
+Isso porque a ré tentou ingressar em estabelecimento prisional com pouco mais de 101 gramas de maconha escondidas em seu ânus.
+Ora, 101 gramas de referido entorpecente significa dizer que poderiam ser confeccionados ao menos 101 cigarros.
+Um absurdo a entrada em um estabelecimento prisional de tamanha quantidade de droga!
+ ..
+Assim, embora primária e de bons antecedentes, entendo que a apelada não merece tamanha benesse, restando afastado o benefício previsto no art. 33, § 4º, da Lei de Drogas.
+ ..
+Além disso, esta Colenda Câmara já assentou o entendimento que o crime de tráfico ilícito de entorpecentes merece maior reprovabilidade em razão de sua gravidade e pelas consequências nefastas que sua prática tem na sociedade, razão pela qual estabeleço o regime inicial fechado.
+Para finalizar, de todo o exposto, se depreende que, na verdade, o legislador não permitiu ao juiz conceder outro regime que não seja o fechado ou, então, substituir a pena privativa de liberdade por restritivas de direitos, razão pela qual afasto a substituição.
+ ..
+Vê-se, a partir do trecho transcrito do acórdão impugnado, que o Tribunal estadual não logrou demonstrar, com funda mento em elementos concretos dos autos, a dedicação da paciente a atividades criminosas, tendo o acórdão se limitado a fazer referência a tentativa da ré em ingressar em estabelecimento prisional com 101 g de maconha oculta na região pélvica.
+Importante destacar esta Corte Superior de Justiça admite a aplicação da causa especial de diminuição de pena do tráfico privilegiado em hipótese de tentativa de ingresso de entorpecentes em estabelecimento prisional. A propósito, confiram-se os seguintes julgados: REsp n. 1.923.803/AC, Ministra Laurita Vaz, Sexta Turma, DJe 19/9/2022, e AgRg no HC n. 691.318/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/11/2021.
+Dessa forma, tratando-se de ré primária, de bons antecedentes, e não havendo, pelo Tribunal de origem, menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo de 2/3.
+Assim, passo à nova dosimetria da pena.
+Partindo-se do quantum de pena fixado pelo Juízo de primeiro grau até a terceira fase, ou seja, 5 anos de reclusão, e 500 dias-multa, reduzo a reprimenda em 2/3 em razão do reconhecimento da minorante do tráfico privilegiado e mantenho o aumento de 1/6 com base na majorante referente à prática do delito nas dependências de estabelecimento prisional, fixando-a definitivamente em 1 ano, 11 meses e 10 dias de reclusão, além do pagamento de 194 dias-multa.
+Quanto ao regime prisional, tendo em vista o redimensionamento da pena do paciente, a ausência de circunstância judicial desfavorável e a quantidade de droga apreendida - 101 g de maconha -, cabível a imposição do regime aberto (art. 33, § 2º, c, do Código Penal - CP). Cabível, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, pois preenchidos os requisitos do art. 44 do CP.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial. De ofício, concedo a ordem para fixar a pena da paciente em 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, e o pagamento de 194 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos a serem fixadas pelo Juízo da execução.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (101 G DE MACONHA). WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRETENSÃO DE ABSOLVIÇÃO E FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. MATÉRIAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO EVIDENCIADO. REDIMENSIONAMENTO DA REPRIMENDA. REGIME ABERTO. SUBSTITUIÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS.
+Petição inicial indeferida liminarmente. Ordem concedida de ofício, nos termos do dispositivo.
