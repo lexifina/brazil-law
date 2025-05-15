@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de PAULO HENRIQUE FERREIRA - condenado como incurso nos crimes de roubo majorado por duas vezes e roubo simples (Ação Penal n. 1500952-34.2024.8.26.0269) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Itapetininga/SP, ao argumento de que as circunstâncias judiciais são amplamente favoráveis ao paciente e que a fixação do regime mais grave se deu de maneira desproporcional diante da quantidade de droga apreendida (fl. 5).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, além de a exasperação da pena-base nem sequer ter sido questionada perante a Corte estadual, afastar-se da conclusão da instância a quo acerca do concurso formal de delitos, consubstanciada no fato de que não se verifica o liame subjetivo entre as infrações, de modo que cada uma delas foi perpetrada mediante impulso autônomo, aleatoriamente em tempo e espaços próximos entre si (fl. 20), ensejaria profundo revolvimento de fatos e provas, indesejável na via eleita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO POR 2 VEZES E ROUBO SIMPLES. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REPRIMENDA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. SUPRESSÃO DE INSTÃNCIA. CONTINUIDADE DELITIVA. LIAME SUBJETIVO. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
