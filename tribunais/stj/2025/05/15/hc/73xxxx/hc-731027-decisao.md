@@ -1,0 +1,34 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 136/140):
+Trata-se de habeas corpus impetrado em favor de Marcos de Lara Vaz, apontando como ato coator o acórdão da 2ª Câmara Criminal do Tribunal de Justiça do Paraná, que denegou a ordem no HC nº 0068562-11.2021.8.16.0000.
+Consta dos autos que Marcos de Lara Vaz foi denunciado, em 25/01/2021,pela prática dos crimes previstos no artigo 2º, caput e §§ 3º e 4º, II, c/c o artigo 1º, §1º, todos da Lei nº 12.850/2013, nos artigos 299 (seis vezes) e 312 do Código Penal, nos artigos 90 e 96, III, da Lei nº 8.666/93. O paciente associou-se a outros 17 indivíduos para a prática de crimes licitatórios e de falsidade documental (fls. 55/92).
+O Juízo da 1ª Vara Criminal de Foz de Iguaçu, em 29/09/2021, indeferiu o pedido da defesa de reconhecimento de litispendência de um dos fatos da denúncia com fato objeto da denúncia referente ao processo nº 6149-60.2016.8.16.0024 que tramita na 2ª Vara criminal de Almirante Tamandaré/PR (fls. 96/97).
+A defesa impetrou habeas corpus perante o TJPR, que denegou a ordem, nos termos da seguinte ementa (fl. 98):
+HABEAS CORPUS - APURAÇÃO DOS CRIMES DE FALSIDADE IDEOLÓGICA (ART. 299 DO CÓDIGO PENAL). INDEFERIMENTO DE EXCEÇÃO DE LITISPENDÊNCIA - COMPLEXIDADE DAS CAUSAS QUE IMPEDE A ANÁLISE DA LITISPENDÊNCIA NO PRESENTE MOMENTO - EVENTUAL RECONHECIMENTO DE LITISPENDÊNCIA QUE DEVE SER APRECIADO NA AÇÃO PRINCIPAL - IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO- PROBATÓRIO NA VIA ELEITA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+Contra essa decisão, impetrou-se o presente habeas corpus perante o STJ.
+Alegações do impetrante.
+O impetrante alega que o item 6.22 da denúncia do processo nº 0006149- 60.2016.8.16.0024 abrange o 6º fato (item 2.3) da denúncia do processo nº 0020665-28.2020.8.16.0030, sendo necessário o reconhecimento da litispendência. Busca, liminarmente e no mérito, o trancamento da ação penal em relação a um dos fatos (fls. 03/14).
+Informações prestadas às fls. 115/133.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e pela denegação da ordem.
+É o relatório.
+Decido.
+É o caso de não conhecimento do habeas corpus.
+O Tribunal de origem destacou a distinção das imputações feitas aos pacientes, que ficam bem esclarecidas pelo seguinte trecho do acórdão:
+Da leitura dos trechos da denúncia objeto da exceção de incompetência, verifica-se que há diversidade de réus e da descrição fática das condutas, constata-se ser uma exordial mais ampla do que a outra.
+Assim, tem-se que, de fato, a complexidade do feito impede a análise de eventual ocorrência de litispendência no presente momento, haja vista que seria necessário revolvimento fático-probatório, o que se mostra inadmissível na via eleita.
+O pretendido trancamento parcial do feito se mostra prematuro e, como ponderado no decisum recorrido, eventual reconhecimento de litispendência quando da prolação da sentença não ensejará prejuízo ao ora paciente.
+Com efeito, é inviável analisar a questão em sede de habeas corpus, já que eventuais associações de alguns réus com outros, em determinados períodos, podem importar em reconhecimento ou não da litispendência, o que demanda necessariamente análise probatório, o que é inviável em sede de habeas corpus.
+O controle dos fatos - e, portanto, de eventual litispendência - deve ser feito em sede de apelação criminal.
+Sobre o tema:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. CRIME DE ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO E DE RECONHECIMENTO DE LITISPENDÊNCIA. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE DA VIA ELEITA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE DEVIDAMENTE MOTIVADA. DESPROPORCIONALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. Na hipótese, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, serem os réus autores dos delitos descritos na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+4. Acerca do pleito de reconhecimento da litispendência, registrou o Tribunal de origem que, diversamente do alegado pela defesa, os processos tratam de fatos distintos. Ressaltou-se que nos presentes autos o crime de organização criminosa teria se perpetrado no período de abril e maio de 2015, enquanto nos autos do Processo n. 0006320-68.2014.8.12.0001 o fato delituoso ocorreu entre setembro e novembro de 2013. Assim, tendo o acórdão recorrido, motivadamente, concluído não haver litispendência a ação penal anterior e este processo, a alteração do julgado demandaria, inevitavelmente, o revolvimento do suporte fático-probatório dos autos, o que é vedado na estreita via do mandamus.
+5. No que tange à dosimetria, a exasperação da pena-base dos pacientes foi devidamente motivada, tendo as instâncias ordinárias destacado, em linhas gerais, que os pacientes exerciam, ao tempo dos fatos, posição de destaque na organização criminosa da qual eram parte, praticando os ilícitos, em sua maioria, de dentro dos estabelecimentos prisionais em que se encontravam.
+6. Com relação ao quanto de aumento, cumpre ressaltar que, diante do silêncio do legislador, a jurisprudência passou a reconhecer como critério ideal para individualização da pena na primeira etapa do procedimento dosimétrico o aumento na fração de 1/8 a cada circunstância judicial negativamente valorada, sendo facultado ao julgador, desde que mediante fundamentação idônea, estabelecer quantum superior. A fração de 1/8 deve incidir sobre o intervalo entre as penas mínima e máxima cominadas ao delito.
+7. Na hipótese dos autos, levando-se em consideração o intervalo entre as penas mínima e máxima cominadas aos crimes imputados aos pacientes (art. 2º da Lei 12.850/2013 - pena de 3 a 8 anos de reclusão e art. 35 da Lei n. 11.343/2006 - pena de 3 a 10 anos), nota-se que as instâncias ordinárias majoraram a pena-base dos pacientes exatamente na fração de 1/8, ou bem próximo, para cada circunstância judicial desfavorável. Desse modo, não se constata qualquer desproporcionalidade a ser sanada, de ofício, nessa via.
+8. Writ não conhecido.
+(HC 518.900/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/06/2020, D Je 26/06/2020). Grifei.
+Em face do exposto, não conheço do habeas corpus.
+EMENTA
