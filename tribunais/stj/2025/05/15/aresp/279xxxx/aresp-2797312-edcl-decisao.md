@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela ASSOCIAÇÃO DAS EMPRESAS BRASILEIRAS DE TECNOLOGIA DA INFORMAÇÃO - REGIONAL DE SÃO PAULO contra decisão em que não conheci do agravo em recurso especial, porque incabível contra decisão que nega seguimento a recurso especial na origem.
+Nas razões destes declaratórios (e-STJ fls. 319/331), a embargante sustenta "que existe erro de premissa na decisão embargada quando se observa que o recorrente teve a intenção de interpor, exatamente, o agravo em REsp, do art. 1.042 do CPC, com o intuito de obter anulação do acórdão do TJSP para fins de ver realizado o devido e adequado prequestionamento" (e-STJ fl. 322).
+Não houve impugnação.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+O agravo em recurso especial não foi conhecido uma vez que incabível contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo. Na decisão, destaquei, ainda, que a apontada violação dos arts. 489 e 1.022 do CPC não possui autonomia para viabilizar a interposição do mencionado recurso. Eis os fundamentos da decisão (e-STJ fls. 314/315):
+Do que se observa, o Tribunal de origem negou seguimento em parte ao recurso especial ao fundamento de que o acórdão recorrido está em sintonia com o precedente obrigatório desta Corte Superior segundo o qual "a Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, "a", da LC n. 87/1996, a base de cálculo do ICMS" (Tema 986 do STJ).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial com fundamento na conformidade do acórdão recorrido com o entendimento do STJ exarado em julgamento de recursos repetitivos. Confira-se:
+ ..
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Portanto, "na sistemática introduzida pelo art. 543-C do CPC/1973 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei n. 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011" (AgInt no AREsp 2.661.516/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.).
+Ressalte-se que, no caso, a violação dos arts. 489 e 1.022 do CPC/2015 relaciona-se ao mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, razão pela qual não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+A embargante sustenta erro de premissa na tentativa de justificar o cabimento do agravo em recurso especial, alegando que a interposição do recurso visava a anulação do acórdão recorrido para nova manifestação e observância do prequestionamento.
+Logo, as alegações da parte embargante, na realidade, manifestam seu inconformismo com o não conhecimento de recurso, mas não aponta propriamente nenhum dos vícios autorizadores dos embargos de declaração.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Relator Ministro Og Fernandes, Primeira Seção, julgado em 14/05/2019, DJe 30/05/2019)
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
