@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região, assim ementado (fls. 156/157):
+PREVIDENCIÁRIO. CONSTITUCIONAL. REVISÃO DE BENEFICIO. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. POSSIBILIDADE. JURISPRUDÊNCIA DO STF EM SEDE DE REPERCUSSÃO GERAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. CUSTAS PROCESSUAIS. HONORÁRIOS DE ADVOGADO.
+1. Não se discutindo o critério de cálculo ou de revisão do ato concessório do beneficio, mas sim o limitador a incidir sobre o cálculo incontroverso, a natureza da causa é meramente declaratória e condenatória, e não (des)constitutiva, de modo que incide, na espécie, apenas o prazo prescricional e não decadencial.
+2. A prescrição atinge as prestações anteriores ao qüinqüênio que antecedeu o ajuizamento da ação, nos termos do enunciado da Súmula 85 do STJ.
+3. A pretensão de se obter o reajuste do beneficio concedido antes da EC 20/98 e da EC 41/03, de acordo com os novos tetos nelas estabelecidos, encontra-se em perfeita sintonia com a jurisprudência dos Tribunais e do colendo Supremo Tribunal Federal.
+4. O Pleno do Supremo Tribunal Federal, em sede de repercussão geral, quando do julgamento do RE nº 564.354, reconheceu que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5 0 da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional". (RE nº 564354, Relatora Ministra Carmen Lúcia, Tribunal Pleno, D Je 15/02/2011)
+5. A prova dos autos demonstra que o benefício da parte autora (ou o benefício que o precedeu), por ocasião do cálculo original de sua renda mensal inicial ou em virtude de revisão da RMI implementada pelo INSS na via administrativa, teve o seu salário-de-beneficio limitado ao teto previsto no art. 29, §2º, e no art. 33 da Lei nº 8.213/91. De conseqüência, ela faz jus à aplicação ao seu beneficio dos novos tetos estabelecidos pelas EC"s 20/98 e 41/2003, na esteira da jurisprudência do STF.
+6. Os efeitos da declaração do direito ora reconhecido somente terão repercussão de cunho condenatório se na execução da sentença ficar demonstrado que, após as correções efetivadas no valor do benefício, ele ainda superava o teto existente quando da edição da EC 20/98 e da EC 41/2003.
+7. Correção monetária e juros de mora segundo o MCCJF.
+8. Honorários de advogado mantidos, na espécie, em R$ 2.000,00 (dois mil reais), à míngua de recurso da parte autora postulando a sua majoração e sob pena de reformatio in pejus.
+9. O INSS está isento do pagamento das custas e despesas processuais nas ações ajuizadas na Justiça Federal, por força do art. 4 0 , I, da Lei n. 9.289/96, limitando-se a sua condenação, no particular, ao ressarcimento de eventuais custas antecipadas pela parte autora.
+10. Presentes os requisitos do art. 273 do CPC, é devida a antecipação de tutela para a imediata implantação do novo benefício (obrigação de fazer), diante do direito reconhecido e do caráter alimentar do beneficio previdenciário
+11. Apelação e remessa oficial desprovidas.
+Opostos embargos declaratórios, foram rejeitados (fls.168/171).
+A parte recorrente aponta violação ao art. 1.022, do CPC. Sustenta que o Tribunal de origem teria negado prestação jurisdicional ao não se pronunciar sobre a necessidade de intimação "sobre os cálculos da Contadoria de fls. 88/95" (fl. 178).
+Contrarrazões às fls. 181/190.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta êxito.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+A questão dos cálculos da contadoria foi apresentada pelo INSS em sua apelação, como demonstra o seguinte excerto (fl. 123):
+B) DOS EQUÍVOCOS NOS CÁLCULOS DA CONTADORIA JUICIAL NO TOCANTE À APURAÇÃO DA MÉDIA DOS SALÁRIOS DE CONTRIBUICÃO E À APLICAÇÃO DO ÍNDICE TETO DO ARTIGO 26 DA LEI 8.870/94
+Consoante se observa da contraposição da reprodução da renda mensal inicial acostada às fls. 91 com a carta de concessão e os dados do sistema PLENUS, é possível se concluir que Contadoria judicial procedeu à alteração da renda mensal inicial da aposentadoria especial de 95% (noventa e cinco por cento) para 100% (cem por cento) e, ainda, apurou uma média de salários de contribuição inferior à devida.
+De se ressaltar que o equívoco da apuração da média dos salários de contribuição acabou por traduzir nos cálculos judiciais um índice do artigo 26 da lei 8.870/94 inferior ao efetivamente aplicado pela autarquia.
+Com efeito, o índice de reajuste teto é obtido da diferença percentual entre a média dos salários de contribuição e o valor teto do salário de contribuição ao tempo da concessão do benefício.
+Nesse sentir, nos cálculos da Contadoria se extrai um índice teto de 1.9703 resultado da operação matemática R$ 250.466,48/17.120,76, ao passo que nã revisão administrativa o índice teto utilizado foi de 1,9858, produto da operação de R$ 252.443,17/127.120,76..
+Diante disso, não prosperam as alegações de que não teria sido intimada sobre os cálculos da contadoria e, consequentemente, de que o Tribunal de origem foi omisso quanto a ausência dessa intimação.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
