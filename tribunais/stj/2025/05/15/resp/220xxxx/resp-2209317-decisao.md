@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, com fundamento na alínea "a" do permissivo constitucional, interposto por CARLOS EDUARDO SANTOS DE GUSMÃO contra acórdão prolatado pela 1ª Câmara Especializada Criminal do Tribunal de Justiça do Piauí assim ementado (fls. 208-209):
+APELAÇÃO CRIMINAL. PROCESSO PENAL. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. RÉU CONDENADO PELO FURTO QUALIFICADO MEDIANTE ESCALADA. TESE PREJUDICADA. INCIDÊNCIA DA CAUSA DE AUMENTO RELATIVA AO REPOUSO NOTURNO. ARTIGO 155, § 1º, DO CÓDIGO PENAL. IMPOSSIBILIDADE. INCIDÊNCIA DO TEMA REPETITIVO Nº 1087. A CAUSA DE AUMENTO PREVISTA NO § 1º DO ARTIGO 155 DO CÓDIGO PENAL NÃO INCIDE NO FURTO NA SUA FORMA QUALIFICADA. REDIMENSIONAMENTO DA PENA. MULTA. APLICAÇÃO EM MONTANTE INFERIOR AO DEVIDO. IMPOSSIBILIDADE DE ALTERAÇÃO EM PREJUÍZO DO RÉU. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Da qualificadora de rompimento de obstáculo. Após a instrução processual, o réu foi condenado pelo furto qualificado mediante escalada, fato este comprovado pelo seu próprio depoimento, portanto, torna-se prejudicada a análise da tese de afastamento da qualificadora de rompimento de obstáculo.
+2. Da causa de aumento do furto noturno. O Superior Tribunal de Justiça sedimentou o entendimento de que "a interpretação sistemática pelo viés topográfico revela que a causa de aumento de pena relativa ao cometimento do crime de furto durante o repouso noturno, prevista no art. 155, § 1º, do CP, não incide nas hipóteses de furto qualificado, previstas no art. 155, § 4º, do CP" (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, D Je de 27/6/2022).
+3. A celeuma gerou o tema repetitivo 1087, do Superior Tribunal de Justiça, que preceitua que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)".
+4. In casu, a constatação de que o delito de furto é qualificado evidencia que é incabível a incidência do repouso noturno como causa de aumento. Redimensionamento da pena.
+5. Redução da pena de multa. A fixação do número de dias-multa deve ser estabelecida com proporcionalidade à pena privativa de liberdade imposta. No caso em apreço, a pena de multa foi aplicada em montante inferior ao devido, sendo benéfica ao réu, não sendo alterada em razão do recurso ser exclusivo da defesa.
+6. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+O recorrente alega contrariedade aos arts. 59, 107, IV, 109, V, 110, § 1º, 115, 155, § 4º, II, do Código Penal. Sustenta a necessidade de afastamento das circunstâncias judiciais valoradas negativamente sem fundamento idôneo, decote da qualificadora da escalada e a prescrição retroativa.
+As contrarrazões foram apresentadas.
+O recurso foi admitido na origem.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial.
+É o relatório. Decido.
+O recurso especial não merece ser conhecido em parte, porque o Tribunal de origem não se manifestou sobre as questões levantadas somente nos embargos de declaração. É caso típico de incidência da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Vale conferir o teor do acórdão recorrido para certeza das coisas (fls. 275-276):
+No que tange às questões relacionadas à pena-base no mínimo legal e ao afastamento da qualificadora da escalada, constata-se que tais questões não foram suscitadas no recurso de apelação.
+Em recurso de apelação criminal, o Embargante fundamentou o pleito em três teses basilares, a saber: a) que seja afastada a qualificadora prevista no art. 155, § 4º, inciso I, do Código Penal; b) que seja afastada a aplicação da majorante de furto noturno no furto qualificado; c) que seja reduzida/parcelada a pena de multa.
+Trata-se, portanto, de inovação recursal. É importante lembrar que os embargos de declaração não se prestam à majoração de argumentos existentes no acórdão, mormente para resolver questão que não foi objeto de específico pedido por parte da defesa quando do recurso aviado, e, na verdade, os embargos estariam sendo utilizados como meio de agregar novos argumentos a serem dirimidos fora do prazo legalmente admitido.
+Quanto à prescrição, diante do provimento parcial do apelo defensivo, o réu foi condenado à pena de 3 anos e 4 meses de reclusão pela prática de furto qualificado. Em casos tais, verifica-se a prescrição em 8 anos, prazo reduzido pela metade (4 anos) se o réu for menor de 21 anos ao tempo do crime.
+Assim, em que pese à menoridade relativa do recorrente, correta a decisão proferida pela instância de origem, uma vez que não foi ultrapassado o lapso extintivo da prescrição entre o recebimento da denúncia (9/1/2018) e a publicação da sentença condenatória (3/6/2021).
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. PRONÚNCIA. VALIDADE. UTILIZAÇÃO DE LINGUAGEM SÓBRIA. FUNDAMENTAÇÃO DAS QUALIFICADORAS DO HOMICÍDIO. RECURSO DESPROVIDO.
