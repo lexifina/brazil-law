@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO-CNPQ contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. EXECUÇÃO FISCAL. CNPQ. RESSARCIMENTO DE BOLSA DE ESTUDOS. INSCRIÇÃO EM DÍVIDA ATIVA. IMPOSSIBILIDADE. INADEQUAÇÃO DO RITO DA EXECUÇÃO FISCAL.
+1. O ressarcimento ao CNPQ deve ser precedido de processo judicial para o reconhecimento do direito à repetição e no qual sejam assegurados o contraditório e a ampla defesa ao bolsista, não havendo como simplesmente o órgão público, de modo unilateral, através de processo administrativo, entender que se trata de dívida liquida, certa e exigível.
+2. Isso porque, da interpretação dada aos arts. 1º e 2º da Lei 6.830/80 e ao art. 39, § 2º, da Lei 4.320/64 extrai-se que a dívida cobrada pelo ora embargado não se enquadra no conceito de dívida ativa "não tributária", não podendo ser inscrita em CDA.
+2. Caso em que extinta, sem resolução de mérito, a execução fiscal, bem como os embargos à execução opostos por inexigibilidade do crédito exequendo.
+Os embargos de declaração foram acolhidos em aresto que recebeu a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RETORNO DO STJ. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. PREQUESTIONAMENTO IMPLÍCITO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Embargos de declaração reexaminados por força de decisão do STJ e acolhidos em parte para sanar a omissão apontada, sem, contudo, alterar o resultado do julgamento.
+3. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015).
+Nas razões recursais, o recorrente sustenta, em síntese, violação ao art. 1.022, II, do CPC, alegando omissão quanto à tese de julgamento extra petita, bem como afronta ao art. 2º da Lei 6830/1980 e ao art. 39, §§ 1º e 2º, da Lei 4.320/1964, pois é viável a inscrição em dívida ativa e cobrança do débito oriundo do pagamento indevido de bolsa de estudos.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+ Nos  embargos  de  declaração,  o  recorrente  apontou  omissão quanto à tese de julgamento extra petita, nos seguintes termos:
+Ao julgar o recurso, o Relator decretou a extinção da execução, sob a alegação de pretensa inexigibilidade do título, ao fundamento de inadequação do rito para a cobrança do crédito.
+Contudo, tal questão não foi objeto da sentença recorrida, e tampouco foi arguida pela parte, quer na inicial do processo, quer em sede de apelo.
+Como se sabe, O processo civil está sujeito a diversos princípios, dentre os quais os de que: o autor delimita a lide (CPC 141); o réu defende- se em relação ao pedido (contraditório); a decisão judicial deve guardar congruência com o pedido (CPC 492) e os pedidos são interpretados restritivamente (CPC 322), O julgamento proferido pelo tribunal substituirá a sentença ou a decisão recorrida no que tiver sido objeto de recurso (CPC 1.008).
+Não se pode perder de perspectiva que, a teor do caput do art. 1.013 do CPC, vigora o Princípio do tantum devolutum quantum apelatum, limitando a apreciação do mérito recursal àquilo que realmente foi objeto de impugnação pelas partes - no caso, sequer houve menção à alegada nulidade.
+Neste cenário, claramente se percebe que a decisão recorrida laborou em manifesto julgamento extra/ultra petita.
+Não havendo, portanto, nenhuma manifestação do executado (sequer em primeiro grau) quanto à alegada inadequação do rito adotado, não cabe à Corte Recursal, com a devida vênia, decretá-la de ofício, reconhecendo nulidade não postulada pela recorrente.
+Ao  julgar  os  embargos  de  declaração,  o  Tribunal  de  origem  analisou o conceito da dívida ativa não-tributária, mas, apesar de constar no seu relatório, deixou de fazer qualquer referência a tese de que, no acórdão recorrido, teria ocorrido julgamento extra petita, uma vez que não teria ocorrido manifestação do executado quanto à alegada inadequação do rito adotado.
+Como  se  vê,  tem-se  caracterizada  infringência  ao  art.  1.022  do  CPC.
+Ora,  "conquanto  o  julgador  não  esteja  obrigado  a  rebater,  com  minúcias,  cada  um  dos  argumentos  deduzidos  pelas  partes,  o  Código  de  Processo  Civil  de  2015,  exaltando  os  princípios  da  cooperação  e  do  contraditório,  lhe  impõe  o  dever  de  enfrentar  todas  as  questões  capazes  de,  por  si  sós  e  em  tese,  infirmar  as  conclusões  alcançadas  acerca  dos  pedidos  formulados  pelas  partes,  sob  pena  de  se  reputar  não  fundamentada  a  decisão  proferida"  (REsp  1.819.062/RJ,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  11/2/2020,  DJe  de  13/2/2020).
+A  princípio,  o  argumento  suscitado  pelo  recorrente  revela-se  essencial  para  o  correto  deslinde  da  controvérsia  e  é  insuscetível  de  exame  por  esta  Corte,  por  revelar  insuficiência  de  fundamentação  a  justificar  os  termos  em  que  decididos  os  embargos  de  declaração  opostos.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial a  fim  de,  anulando  o  acórdão  que  rejeitou  os  embargos  de  declaração,  determinar  o  retorno  dos  autos  ao  Tribunal  de  origem  para  sanar  o  vício  apontado.
+Intimem-se.
+ EMENTA
