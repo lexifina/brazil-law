@@ -1,0 +1,30 @@
+DECISÃO
+1. Trata-se de recurso extraordinário fundado no art. 102, III, a, da Constituição Federal interposto contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo interno do Estado de Santa Catarina, mantendo a decisão que deu provimento ao recurso especial do Ministério Público do Estado de Santa Catarina.
+O julgado recorrido recebeu a seguinte ementa (fl. 167):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. SAÚDE. FORNECIMENTO DE MEDICAMENTO. OBRIGAÇÃO SOLIDÁRIA ENTRE OS ENTES FEDERADOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Este Tribunal Superior, há muito, firmou a orientação segundo a qual o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, Estados, Distrito Federal e Municípios, sendo, portanto, qualquer desses entes, em conjunto ou isoladamente, parte legítima para figurar no polo passivo de demanda que objetive a garantia de acesso a medicamentos para tratamento de saúde. Precedentes.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida. IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 200-204).
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, aos arts. 23, II, 109, I, 196, e 198, caput, I, da Constituição Federal.
+Nesse sentido, argumenta o acórdão recorrido desconsiderou a responsabilidade solidária dos entes federados nas demandas prestacionais na área da saúde, conforme fixado no Tema 793 de Repercussão Geral pelo Supremo Tribunal Federal, que estabelece que a União deve compor o polo passivo em ações que envolvem medicamentos não padronizados pelo SUS.
+Requer, ao final, a admissão do recurso extraordinário, com a respectiva remessa dos autos ao Supremo Tribunal Federal.
+Devolvidos os autos ao órgão julgador para possível juízo de retratação em razão do Tema 793 do STF (fls. 234-237), a Primeira Turma do STJ manteve o acórdão recorrido (fls. 250-255).
+Sobreveio decisão desta Corte sobrestando o recurso extraordinário por força do Tema de Repercussão Geral n. 1.234 do STF.
+Transitado em julgado o recurso paradigma do Tema no STF, em 7/3/2025, procedeu-se ao dessobrestamento do recurso, vindo os autos conclusos.
+É o relatório.
+2. A controvérsia cinge-se à necessidade de inclusão da União na lide, e a consequente definição da Justiça competente para a apreciação de ação que busca o fornecimento de medicamento.
+A Suprema Corte, ao apreciar o RE n. 1.366.243/SC, julgado sob a sistemática da repercussão geral, enfrentou questões complexas e sistêmicas, e estabeleceu diretrizes fundamentais acerca da competência judicial e da responsabilidade pelo custeio nas demandas que envolvem o fornecimento de medicamentos - Tema n. 1.234 do STF.
+Após longas discussões, em sede de embargos declaratórios, o Supremo Tribunal Federal conferiu ajustes modulatórios ao referido tema, estabelecendo no acórdão que:
+ ..  os efeitos do tema 1234, quanto à competência, somente se aplicam às ações que forem ajuizadas após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico.
+Dessa forma, quanto à competência, o Tema n. 1.234/STF abrange apenas processos ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico (19/9/2024), afastando sua incidência sobre os processos em tramitação até a referida data, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao fixado marco jurídico.
+Com a restrição temporal estabelecida no Tema 1.234/STF, nos processos em tramitação até o referido marco mantém-se na competência já estabelecida, evitando, com isso, conflitos jurisdicionais.
+Ressalte-se, por oportuno, que a Suprema Corte ainda estabeleceu critérios de competência ao deferir a tutela provisória do RE n. 1.366.243/SC (Tema n. 1.234/STF), expressamente definindo que os processos com sentença prolatada até 17/4/2023 deveriam permanecer no ramo da Justiça do magistrado sentenciante até o trânsito em julgado e respectiva execução.
+Na espécie, a ação originária foi ajuizada em data anterior ao marco temporal.
+Assim, incide no caso a modulação de efeitos determinada no acórdão paradigma do Tema n. 1.234 do STF, razão pela qual a solução adotada por este Tribunal Superior não está divergente do entendimento firmado pela Corte Suprema.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTO. COMPETÊNCIA JURISDICIONAL. INCLUSÃO DA UNIÃO NA LIDE. DATA DO AJUIZAMENTO DA AÇÃO. MARCO TEMPORAL. HIPÓTESE ALCANÇADA PELA MODULAÇÃO DE EFEITOS. TEMA DE REPERCUSSÃO GERAL N. 1.234/STF. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
