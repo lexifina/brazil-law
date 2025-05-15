@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ LUIZ ROVER contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal (Apelação Criminal n. 0000667-91.2019.8.22.0014).
+Consta dos autos que o recorrente foi condenado, em primeiro grau, à pena de 03(três) anos e 10 (dez) meses de detenção e pagamento de 12(doze) dias-multa, a razão de 1/30 do salário-mínimo vigente à época do crime, pela prática do delito previsto no art. 89 da Lei n. 8.666/93.
+O Tribunal de origem negou provimento ao recurso da Defesa.
+Neste recurso especial, o recorrente alega violação aos arts. 5.º, parágrafo único, e 9.º, inc. II, do Decreto 11.302/2022, vez que "a defesa técnica do recorrente lançou pedido de concessão de indulto presidencial, considerando a condição favorável à concessão do perdão, tanto é verdade que o próprio Ministério Público exarou parecer reconhecendo a possibilidade de concessão da benesse. Contudo, em setembro do corrente ano sobreveio decisão negando provimento ao Agravo Interno interposto pelo ora recorrente." (e-STJ fl. 1.906).
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio do presente agravo.
+O Ministério Público Federal opinou pelo provimento do recurso, para absolver o recorrente, sustentando, em síntese, "que resta demonstrado nos autos é a lamentável e inegável vontade de desrespeitar as regras constitucionais e administrativas relativas à contratação mediante licitação para a realização de obras públicas, mas inexiste qualquer elemento concreto indicativo de que tal frustração tenha resultado em prejuízo ao erário ou de que houvesse por parte dos réus a intenção de não realizar a construção da galeria pluvial. Como já dito, a intenção de não seguir o rito licitatório é insuficiência para caracterizar o delito do artigo 89 da Lei n. 8666/93,  ..  é necessária a comprovação do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo à Administração Pública, não sendo suficiente apenas a vontade de desobedecer às normas legais do procedimento licitatório." (e-STJ fl. 2.052)
+É o relatório.
+Decido.
+Proferi nestes autos decisão no anterior recurso especial interposto pelo recorrente absolvendo-o da acusação pela qual foi condenado nas instâncias ordinárias.
+Verifica-se que restou prejudicado o presente agravo, que visava ao indulto presidencial, pela perda de objeto, já que não mais subsiste qualquer pena imposta ao agravante.
+Ante o exposto, julgo prejudicado o agr avo em recurso especial.
+EMENTA
