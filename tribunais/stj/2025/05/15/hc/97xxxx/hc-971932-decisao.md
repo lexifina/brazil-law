@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO DIEGO DE ALMEIDA DOS SANTOS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 6 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 625 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. O impetrante alega a nulidade da condenação, pois baseada em provas obtidas mediante revista pessoal ilegal e violação de domicílio sem mandado judicial ou fundadas razões. Afirma a nulidade do interrogatório do paciente "disfarçado de entrevista informal" (fl. 20), ao argumento de que os policiais responsáveis por sua prisão não lhe teriam informado seu direito ao silêncio. Sustenta que a prisão do paciente teria ocorrido tão somente com base no depoimento de um corréu e que o paciente não teria envolvimento nos fatos narrados na denúncia, razão pela qual defende a sua absolvição ou, ainda, a desclassificação da conduta a ele imputada para o delito previsto no art. 28 da Lei n. 11.343/2006. Caso assim não se entenda, pretende a redução da sanção imposta e o abrandamento do regime inicial de cumprimento de pena. Requer, liminarmente e no mérito, a absolvição do paciente ou a desclassificação do crime de tráfico para posse de drogas para uso pessoal. Subsidiariamente, pleiteia a revisão da dosimetria e a readequação do regime inicial de cumprimento de pena do paciente.
+A liminar foi por mim indeferida na decisão de fls. 548-549.
+O parecer ministerial está às fls. 557-564, pelo não conhecimento do writ e pela concessão da ordem de ofício, apenas para reduzir a fração de aumento pela reincidência específica para 1/6.
+É o relatório. DECIDO.
+É pacífico o entendimento desta Corte Superior, especialmente desta Quinta Turma, de que o habeas corpus não pode ser utilizado como substituto de recurso próprio ou de revisão criminal, salvo em casos excepcionais de flagrante ilegalidade, que possibilitam a concessão da ordem de ofício.
+Neste sentido, confira-se o seguinte julgado:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE PELA QUANTIDADE E VARIEDADE DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. INAPLICABILIDADE DA CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. INDÍCIOS DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. APREENSÃO DE ARMA DE FOGO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. NÃO CONHECIMENTO DO WRIT.
+1.  ..
+2.  ..
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade, que possibilitam a concessão da ordem de ofício, o que não se verifica no presente caso.
+4.  ..
+5.  ..
+6.  ..
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC 817210 / SP - Quinta Turma - Relatora: Ministra Daniela Teixeira - DJE 29.10.2024)."
+No caso concreto, salta aos olhos que o habeas corpus está sendo utilizado como verdadeira via revisional, para impugnar o acórdão transitado em julgado do Tribunal de Justiça de São Paulo, que negou provimento à apelação interposta e manteve a condenação do ora paciente às penas de 6 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 625 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Importa consignar, outrossim, que o acórdão transitou em julgado em 23.10.2024. Enquanto isso, o presente habeas corpus foi ajuizado em 23.12.2024.
+Evidentemente, não pode o impetrante pretender utilizar a estreita via do habeas corpus para buscar rediscutir questões que foram fartamente debatidas e apreciadas nas vias ordinárias, sob o império do contraditório e da ampla defesa.
+Com efeito, o habeas corpus não se presta para revolver a prova produzida nos autos.
+Ademais, especificamente quanto aos argumentos de nulidade da condenação por ter sido baseada em provas obtidas mediante busca pessoal ilegal e violação de domicílio sem mandado judicial ou fundadas razões, bem como o questionamento relativo à nulidade do interrogatório, estas não foram apreciadas pelo Tribunal de origem. Em consequência, não podem sequer ser aqui objeto de apreciação, sob pena de supressão de instância nesses pontos.
+Nesse sentido, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023). Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Minist ra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Observe-se que o sistema processual recursal é, ele próprio, garantidor do devido processo legal justo e não pode ser desvirtuado com tentativas de reapreciação e revaloração da prova produzida nas vias ordinárias.
+De resto, o acórdão transitado em julgado tem fundamentação razoável e adequada ao caso, não se identificando flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
