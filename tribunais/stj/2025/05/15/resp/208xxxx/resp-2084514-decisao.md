@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 480):
+TRIBUTÁRIO. DCTF. RETIFICAÇÃO DO REGIME DE TRIBUTAÇÃO DAS VARIAÇÕES CAMBIAIS.
+Tendo sido devidamente demonstrada a ocorrência de equívoco no preenchimento da DCTF, deve ser assegurado ao contribuinte o direito de retificação.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 504/506.
+A parte recorrente aponta violação aos seguintes dispositivos: (I) arts. 489, § 1º, e 1.022, II, parágrafo único, I, do CPC, ao argumento de que, a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca da questão neles suscitada, a saber, a de que "não há negar que a normativa que rege a matéria ora sub judice estabelece claramente, quanto ao Critério de Reconhecimento das Variações Monetárias dos Direitos de Crédito e das Obrigações do Contribuinte em Função da Taxa de Câmbio, a inalterabilidade da opção pelo Regime de Caixa, ou Regime de Competência, que é realizada em janeiro de cada ano pelo próprio contribuinte, na DCTF, ressalvada apenas a exceção prevista nas próprias regras, qual seja, quando ocorrer elevada oscilação da taxa de câmbio, o que não é a hipótese discutida no presente caso" (fl. 521); e (II) arts. 30, §§ 1º a 7º, da MP 2.158-35/2001; 147, § 1º, do CTN; 3º, 4º e 5º, da IN RFB 1.079/2010, alegando que a referida medida provisória prevê expressamente que "o direito de alterar o regime adotado na forma do inciso I, no decorrer do ano calendário, é restrito aos casos em que ocorra elevada oscilação da taxa de câmbio" (fl. 524), não tendo havido a condição estabelecida em lei para a referida alteração de regime como pretendido.
+Contrarrazões apresentadas às fls. 537/548.
+Parecer do Ministério Público Federal às fls. 569/574.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC.
+Com efeito, já nas razões de apelação a ora recorrente sustentou que "a pretensão de retificar o regime de variação cambial tal como deduzida pela impetrante encontra óbice na legislação que regulamenta a matéria, a saber, Medida Provisória nº 2158-35" (fl. 448 - g.n.).
+O julgado de fls. 480/483, todavia, passou ao largo da referida argumentação, tendo esposado como razão de decidir a existência de erro de preenchimento de DCTF.
+Foram então opostos embargos de declaração (fls. 491/494). nos quais o ente público reiterou que "A normativa que rege a matéria ora sub judice estabelece claramente, quanto ao Critério de Reconhecimento das Variações Monetárias dos Direitos de Crédito e das Obrigações do Contribuinte em Função da Taxa de Câmbio, a inalterabilidade da opção pelo Regime de Caixa, ou Regime de Competência, que é realizada em janeiro de cada ano pelo próprio contribuinte, na DCTF, ressalvada apenas a exceção prevista nas próprias regras, qual seja, quando ocorrer elevada oscilação da taxa de câmbio, o que não é a hipótese discutida no presente caso" (fls. 491/492).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Uma vez reconhecida a negativa de prestação jurisdicional, resta prejudicado o exame das demais teses recursais.
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação aos arts. 489 e 1.022 do CPC, determinando novo julgamento dos embargos de declaração.
+Publique-se.
+EMENTA
