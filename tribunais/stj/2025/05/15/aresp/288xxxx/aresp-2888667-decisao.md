@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KAIO FABIANO SANTANA SILVA contra a decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado, como incurso nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, a ser cumprida no regime inicial semiaberto (e-STJ fl. 439).
+Irresignada, a defesa interpôs recurso especial no qual requereu a incidência do tráfico privilegiado, a substituição da pena privativa de liberdade por restritiva de direitos e o abrandamento do regime inicial de pena (e-STJ fl. 439).
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso (e-STJ fl. 474).
+É o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, constata-se que a dedicação à atividade criminosa foi assentada basicamente na quantidade e na natureza da droga apreendida e em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena dos pacientes deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na situação dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedente.
+Dessa forma, diante do novo quantum da reprimenda, o agravante faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecendo a incidência da minorante do § 4º da Lei n. 11.343/2006, reduzir a pena do agravante para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
