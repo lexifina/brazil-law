@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, apresentado por CATIA NOVAIS BARBOSA e Outros, objetivando a atribuição de efeito suspensivo a agravo em recurso especial interposto contra decisão denegatória de recurso especial.
+Os requerentes sustentam, em síntese, que o acórdão recorrido teria negado vigência aos artigos 98, caput, e 99, §§ 2º, 3º e 4º, do Código de Processo Civil, tendo em vista que restou comprovado nos autos que os requerentes são merecedores do benefício da justiça gratuita.
+Embasam o fumus boni iuris na plausibilidade jurídica das alegações postas no recurso especial.
+Quanto ao periculum in mora, o relacionam com a possibilidade de extinção do feito na origem acaso não suspensos os efeitos do acórdão recorrido.
+Pugnam, ao final, pela concessão de efeito suspensivo ao agravo em recurso especial interposto nos autos do processo de nº 2265439-03.2024.8.26.0000, em trâmite perante a 2ª Câmara de Direito Privado do E. TJSP, a fim de que sejam suspensos os efeitos do v. acórdão recorrido, notadamente, quanto ao recolhimento de custas iniciais e de preparo recursal, até o julgamento definitivo do agravo em recurso especial a ser submetido a este C. STJ.
+Nesta Corte, o benefício da gratuidade de justiça foi deferido tão somente para afastar a exigibilidade das custas referentes ao ajuizamento da presente Petição (e-STJ fl. 52).
+Foi conferida oportunidade de complementação da documentação (e-STJ fl . 56), que veio aos autos às e-STJ fls. 59-102 .
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, inciso I, do Código de Processo Civil, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso vertente, considerando que já foi realizado o juízo prévio de admissibilidade do recurso especial, embora negativo, entende-se competir a esta Corte Superior o exame do pedido de atribuição de efeito suspensivo ao recurso.
+Vale ressaltar, a propósito, que este Tribunal Superior, em casos excepcionais, autoriza a concessão de efeito suspensivo a recurso especial ainda que inadmitido na origem, desde que demonstrada, além da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, a viabilidade de reversão do prévio juízo negativo de admissibilidade, conforme decidido nos seguintes julgados:
+"AGRAVO INTERNO NA PETIÇÃO - PEDIDO DE TUTELA DE URGÊNCIA PARA CONCESSÃO DE EFETIO SUSPENSIVO A RECURSO INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARAMENTE O PLEITO.
+1. A concessão da tutela de urgência, para conferir efeito suspensivo a recurso inadmitido na origem, e objeto de agravo (art. 1042 do CPC/15) é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. Precedentes do STJ.
+1.1 Quanto ao fumus boni iuris esse, em princípio, não fora adequadamente demonstrado, pois além da parte se limitar a aduzir que as razões do reclamo especial abonam o pleito de urgência, não elenca fundamentos aptos ao acolhimento do reclamo. Ademais, em análise ao recurso especial (fls. 53-65), evidencia-se que as violações aduzidas pela parte, em tese, não tem chance de prosperar no âmbito desta Corte Superior, haja vista que, em principio, não se verifica a apontada negativa de prestação jurisdicional, dado que a Corte local para o julgamento do caso apresentou os fundamentos que considerava pertinentes ao deslinde da controvérsia, apenas não adotando a tese do insurgente. E ainda, evidencia-se que a parte sustenta violação a dispositivo constitucional em sede de recurso especial, sendo inviável a esta Corte Superior proceder à averiguação de tal insurgência, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal. Quanto ao mais, vislumbra-se a incidência do óbice da súmula 283/STF dada a suposta ausência de adequada impugnação aos fundamentos basilares do acórdão recorrido e a aplicação, ao caso, do óbice da súmula 7/STJ, pois para acolher a tese de excesso de execução e violação à coisa julgada, seria imprescindível revolver provas e fatos.
+1.2. No que alude à urgência da medida, o requerente não demonstrou sua existência no caso, visto que a mera deflagração de cumprimento da sentença, não traduz a alegada premência.
+2. Agravo interno desprovido".
+(AgInt na Pet n. 15.063/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. DEMONSTRAÇÃO DO PERICULUM IN MORA E DO FUMUS BONI IURIS. NECESSIDADE. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Ação de indenização securitária, em razão de vícios de construção constatados nos imóveis adquiridos pelo SFH.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial inadmitido na origem; para tanto, porém, é necessária a demonstração do periculum in mora e a caracterização do fumus boni iuris.
+3. A ausência do periculum in mora basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do fumus boni iuris, que deve se fazer presente cumulativamente.
+4. Agravo interno não provido".
+(AgInt no TP n. 2.274/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2019, DJe de 18/11/2019.)
+No caso em apreço, não é possível visualizar a existência de situação excepcional apta a ensejar o deferimento da medida extrema.
+É consabido que o benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, bastando a simples afirmação de que a parte não está em condições de pagar as custas processuais e os honorários de advogado, sem prejuízo próprio ou de sua família.
+No entanto, cuidando-se de afirmação que possui presunção relativa, pode o magistrado indeferir a gratuidade se encontrar, na análise do suporte fático trazido aos autos, fundamentos que contrariem o estado de hipossuficiência afirmado pelo requerente.
+Na hipótese, as instâncias ordinárias, atentas aos documentos colacionados aos autos (declaração de Imposto de Renda e folha de holerite) e às demais circunstâncias fáticas, concluíram no sentido do indeferimento do benefício aos ora requerentes (e-STJ fl. 27).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. EMBARGOS À EXECUÇÃO. ASSISTÊNCIA JURIDIÁRIA GRATUITA INDEFERIDA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) o agravante não muniu os autos com dados concretos acerca da privação de condições de recolher custas processuais, ao contrário, os documentos apresentados não dão alicerce à alegação de insuficiência de recursos". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp n. 2.760.376/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. JUSTIÇA GRATUITA. INDEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. O pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (art. 99, § 2º, do CPC/2015).
+3. Na hipótese, rever o entendimento de que a renda auferida pelos recorrentes impossibilita o deferimento da justiça gratuita é inviável em Recurso Especial, devido à aplicação da Súmula 7/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido".
+(AgInt no AREsp 2.095.892/RS, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022).
+Assim, em um exame perfunctório, próprio das liminares, não se constata plausibilidade jurídica da insurgência dos requerentes.
+Nesse contexto, ausente um dos requisitos autorizadores da concessão da medida urgente, que devem estar necessariamente conjugados, inviável o deferimento do pleito.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+Intimem-se.
+Arquive-se.
+EMENTA
