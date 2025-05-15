@@ -1,0 +1,11 @@
+DECISÃO
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu afetar os REsps n . 2.168.455/SP e 2.168.454/SP, relator Ministro Afrânio Vilela, julgado em 29/4/2025, DJEN de 7/5/2025, à sistemática dos recursos repetitivos, com o fim de:
+Definir se o filho maior inválido com renda auferida da concessão de benefício previdenciário pode receber o benefício de pensão por morte.
+Outrossim, há determinação de "suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ."
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADO o Recurso Especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese a ser fixada, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS. DETERMINAÇÃO DE SOBRESTAME NTO DOS PROCESSOS. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
