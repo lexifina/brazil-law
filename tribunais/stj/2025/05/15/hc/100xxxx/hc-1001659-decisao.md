@@ -1,0 +1,18 @@
+DECISÃO
+GEORGE WILLIAN NEVES GUEDES DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça de São Paulo.
+A Defesa informa que o paciente cumpria pena quando sobreveio mandado de prisão em regime fechado referente a crime praticado em 2011, o que impossibilitou o cumprimento das condições do regime aberto. Assim, a decisão que determinou a regressão ao regime semiaberto não observou o contexto fático do caso, pois o não comparecimento mensal deixou de ser realizado por uma situação excepcional, alheia à intenção do reeducando, uma vez que ele estava impossibilitado de cumprir plenamente as obrigações.
+Busca a desconstituição da falta grave ou sua desclassificação, com o restabelecimento do regime aberto.
+Decido.
+O reeducando iniciou o controle do regime aberto em 9/3/2023, mas deixou de comparecer em juízo. A defesa afirma que a ausência de assinatura quadrimestral foi causada por circunstância extraordinária: a superveniência de mandado de prisão por crime praticado em 2011, "em razão de uma ação criminal de 2014" (fl. 65).
+Todavia, a versão sustentada pelo sentenciado perante o Juiz de primeiro grau foi a seguinte:
+ ..  o reeducando iniciou o controle do regime aberto em 09.03.2023, contudo, deixou de comparecer em juízo. O regime aberto foi sustado e o reeducando reencarcerado (fls. 1.102 e 1.115/1.120). Em sua oitiva judicial (fls. 1.218), o reeducando justificou que deixou de dar cumprimento às condições do regime aberto porque sua genitora ficou doente e necessitou fazer o acompanhamento dela. Ademais, em razão do resultado de uma ação criminal de 2014 seu advogado o aconselhou a não sair na rua para que pudesse resolver essa situação e assim permanecer no regime aberto. O pedido foi negado e, neste ínterim, sua genitora veio a falecer e, por isso, ficou aguardando em sua residência o agravo interposto por seu advogado para a concessão do regime semiaberto.
+Ao Tribunal de origem, o advogado explicou que o postulante "não compareceu em juízo em razão da necessidade de acompanhamento de sua genitora para tratamento médico". O acórdão recorrido registrou que ele não "demonstrou, a propósito, concretamente, qualquer excepcionalidade que pudesse justificar a falta cometida" (fl. 69).
+Nesse contexto, não há falar em ilegalidade.
+Incabível a pretendida desclassificação, uma vez que aconduta se amolda ao disposto no artigo 50, inciso V, da LEP. Caracteriza falta grave (e não média) descumprir, no regime aberto, as condições impostas.
+As justificativas apresentadas pelo sentenciado não afastam a falta disciplinar. A alegação de que o condenado prestava assistência à genitora enferma carece de comprovação nos autos e eventuais dificuldades de cumprir as obrigações do regime aberto deveriam haver sido previamente comunicadas ao Juízo da Execução, o que não ocorreu.
+Ademais, a escolha do sentenciado de, mesmo após o falecimento de sua genitora, permanecer em sua residência sob a justificativa da existência de mandado de prisão em outro processo, tampouco encontra respaldo legal e não o eximia do dever de cumprir rigorosamente as decisões do Juiz da VEC.
+Com efeito, "Às decisões judiciais, enquanto não forem invalidadas pelo próprio Poder Judiciário, não se pode opor um suposto direito de resistência" (AgRg no HC n. 910.878/SP, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.).
+O apenado que optou por descumprir as condições do regime aberto fez uma escolha que lhe trouxe os ônus correspondentes.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
