@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de SERGIO THIAGO DA SILVA RODRIGUES - na execução de pena privativa de liberdade -, atacando-se o acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (fls. 108/127 - Agravo em Execução Penal n. 0000200-51.2025.8.17.9000), não comporta processamento.
+Com efeito, busca a impetração a anulação da decisão que homologou a falta grave e, consequentemente, aplicou a penalidade de regressão de regime - na Execução da Pena n. 1000736-12.2022.8.17.4001 (fls. 59/60, da 1ª Vara Regional de Execução Penal de Recife/PE) -, sustentando insuficiência probatória da materialidade e autoria da infração, por não ter havido apreensão do aparelho celular ou perícia de voz (fls. 3/5), e que o depoimento da única testemunha policial não é suficiente para comprovar a autoria das mensagens de áudio enviadas (fls. 14/17).
+Sem pedido liminar.
+Ocorre que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois, concluir de forma diversa do acórdão hostilizado acerca da autoria e materialidade da falta grave, seria necessário o reexame probatório, inviável na via eleita (AgRg no HC n. 940.241/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025). Confira-se a fundamentação do acórdão (fl. 112):
+A testemunha policial LEILA RAPHAELA DIAS MARANHÃO foi categórica ao afirmar que o reeducando lhe enviou mensagens de áudio questionando se ela já tinha prestado depoimento em seu desfavor no processo disciplinar contra ele instaurado.
+De acordo com o d ocumento de ID 45320175 - pág. 4, a referida policial deu conhecimento ao superior de que o ora agravante, SERGIO THIAGO DA SILVA RODRIGUES, tinha entrado em contato com ela, no dia 02/04/2022, no horário das 21:05h, via whatsapp, perguntando se ela já havia sido ouvida no seu processo. Como não obteve resposta, o agravante apagou os áudios enviados, mas a policial já os tinha salvado.
+A conduta do apenado restou comprovada não só pelo depoimento da policial, mas também pelas mensagens apresentadas nos autos que foram salvas no aparelho celular da testemunha apesar de apagadas pelo remetente (ID 45320175 - págs. 7 e 8).
+Ademais, conforme previsto na legislação pertinente, não se faz necessário que o reeducando seja surpreendido na posse do aparelho celular para que seja configurada a falta grave, bastando que ele, de alguma forma, utilize-o para comunicação com outros presos ou com o ambiente externo, conforme ocorreu no presente caso.  ..
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA GRAVE. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. UTILIZAÇÃO INDEVIDA. INVIABILIDADE. PROVAS DO PROCESSO ADMINISTRATIVO DISCIPLINAR. FLAGRANTE ILEGALIDADE NÃO CONSTATADA.
+Inicial indeferida liminarmente.
