@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BENILDO GONÇALVES DOS SANTOS e BENI GONÇALVES DOS SANTOS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.022, 1.013, 99 § 3º, 373 I, e 1.072, III, do CPC, na ausência de indicação do artigo violado e na Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl 59.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação declaratória de morte presumida.
+O julgado foi assim ementado (fl. 15):
+AGRAVO DE INSTRUMENTO DECLARATÓRIA DE MORTE PRESUMIDA Indeferimento da assistência judiciária Insurgência dos dois coautores Descabimento Ausência de provas das alegações Não preenchimento dos pressupostos legais AGRAVO IMPROVIDO, com observação.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 37):
+EMBARGOS DECLARATÓRIOS Inexistência de quaisquer dos vícios que autorizam o recurso Pretensão de efeitos infringentes Inadmissibilidade no caso RECURSO REJEITADO, observado o prequestionamento.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, IV, e 1.022, II, do CPC, visto que a decisão não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+b) 373 I, do CPC, porquanto não foi demonstrada a insuficiência de recursos para concessão da justiça gratuita; e
+d) 99, § 3º, do CPC, pois a declaração de hipossuficiência financeira tem presunção de veracidade e foi firmada sob as penas da lei.
+Sustenta que o Tribunal de origem, ao não reconhecer a eficácia da declaração de hipossuficiência, divergiu do entendimento do STJ em casos semelhantes.
+Requer o provimento do recurso para que se reconheça a eficácia da declaração de hipossuficiência e se conceda o benefício da justiça gratuita.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 40.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de declaratória de morte presumida em que a parte autora pleiteou o recebimento dos direitos relativos à herança deixada por seu genitor.
+Em decisão interlocutória na referida demanda, o Juízo de primeiro grau indeferiu o pedido de assistência judiciária gratuita.
+A Corte estadual manteve a decisão, negando provimento ao agravo de instrumento.
+I - Arts. 373, I, 489, 1.013 e 1.022 do CPC
+Inicialmente, não há falar em ofensa aos arts. 373, I, 489, 1.013 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Vale destacar que o Tribunal de origem dispôs claramente que "não há prova de que  os recorrentes  prestam serviços consertando lavadoras de roupas diretamente na residência de terceiros, conforme afirmaram às fls. 65/66. Também inexiste prova de que não declaram imposto de renda (sequer há extrato da Receita Federal nesse sentido). Os coagravantes se qualificam como casados, mas nada há sobre os possíveis rendimentos das mulheres. Despesas extraordinárias não foram demonstradas. O alegado problema de saúde de um dos coagravantes não o impede de trabalhar do relatório médico assim não consta  ..  Além disso, a ação não tem natureza econômica imediata, podendo o valor da causa, em princípio, ser reduzido no despacho que indeferiu a benesse, também foi determinada a atribuição do valor da causa. Por fim, não há parte contrária, de forma que, também em princípio, não haverá maiores encargos" (fls. 17-18).
+Depreende-se da leitura do trecho do acórdão que a Corte local tratou claramente dos pontos necessários ao deslinde da questão, visto que os embargos de declaração foram opostos apenas para fins de prequestionamento. Logo, foram enfrentados todos os pontos necessários, não se constatando omissão, o que afasta a alegação de violação dos dispositivos supramencionados.
+Cumpre ainda destacar que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Vale ressaltar que "inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo" (AgInt no REsp n. 2.063.101/SP, relator Ministro Antonio Carlos Ferreira, DJe de 31/10/2023), bem como que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 542.931/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/2/2017, DJe de 16/2/2017).
+Dessa forma, inexiste violação dos arts. 373, I, 489, 1.013 e 1.022 do CPC.
+II - Arts. 99, § 3º, e 1.072, III, do CPC
+É certo que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481, que dispõe o seguinte: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+No caso, a Corte a quo, instância soberana na análise das provas, concluiu pelo indeferimento dos benefícios da gratuidade de Justiça à parte recorrente . De acordo com a análise dos documentos apresentados, verificou a inexistência de elementos capazes de atestar a hipossuficiência financeira alegada.
+Confira-se novamente (fls. 17-18, destaquei):
+ ..  Não há prova de que prestam serviços consertando lavadoras de roupas diretamente na residência de terceiros, conforme afirmaram às fls. 65/66. Também inexiste prova de que não declaram imposto de renda (sequer há extrato da Receita Federal nesse sentido). Os coagravantes se qualificam como casados, mas nada há sobre os possíveis rendimentos das mulheres. Despesas extraordinárias não foram demonstradas. O alegado problema de saúde de um dos coagravantes não o impede de trabalhar do relatório médico assim não consta (fls. 04 do incidente).
+Além disso, a ação não tem natureza econômica imediata, podendo o valor da causa, em princípio, ser reduzido no despacho que indeferiu a benesse, também foi determinada a atribuição do valor da causa.
+Por fim, não há parte contrária, de forma que, também em princípio, não haverá maiores encargos.
+Nesse contexto, concluir de forma contrária ao decidido e aferir se os oras agravantes não possuem condições de arcar com as custas processuais, conforme alegam nas razões do recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. ARTIGO 85, § 11, DO CPC/2015. OBSERVÂNCIA DOS LIMITES LEGAIS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de provas que demonstrem a incapacidade financeira de custear despesas processuais. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. O entendimento firmado pela Corte Especial deste Tribunal Superior é de que a fixação equitativa de honorários recursais observará o disposto no art. 85, §§ 2º e 3º, do CPC/2015.
+5. Decisão monocrática que observa os parâmetros legais e jurisprudenciais. Incidência da Súmula n. 83 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.974.574/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, destaquei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. NECESSIDADE DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE ARCAR COM OS CUSTOS PROCESSUAIS. SÚMULA 481/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, rejeitou o pedido, apresentado na Apelação, de concessão do benefício da gratuidade de justiça. Tal entendimento, firmado pelo Tribunal a quo, no sentido de que a parte recorrente não se caracterizaria como juridicamente pobre, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir, no caso, o reexame da matéria fático-probatória dos autos. Nesse sentido: AgInt no REsp 1.858.814/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2020; AgInt no REsp 1.880.769/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/12/2020; AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020.
+IV. Agravo interno improvido. (AgInt no REsp n. 1.349.031/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022.)
+III - Conclusão
+Ante ao exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixa ção na origem.
+Publique-se. Intimem-se.
+EMENTA
