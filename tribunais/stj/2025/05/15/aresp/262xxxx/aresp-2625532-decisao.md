@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão proferida pelo Tribunal de Justiça local que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0100156-03.2020.8.20.0118 (fls. 283/291).
+No recurso especial, o Ministério Público requereu, em síntese, o restabelecimento da sentença condenatória pelo crime de receptação (art. 180, caput, do CP), alegando que o acórdão absolutório violou o referido dispositivo legal ao desconsiderar os elementos objetivos que comprovam o dolo do agente (fls. 297/307).
+Inadmitido o recurso na origem (fls. 310/312), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 314/326).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 347/351).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. No entanto, o recurso especial não merece ser conhecido. Isso porque a pretensão ministerial demanda o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ.
+O acórdão recorrido, ao reformar a sentença condenatória para absolver o réu do crime de receptação, fundamentou sua decisão na análise do conjunto probatório dos autos, em especial nos depoimentos dos policiais que teriam evidenciado a boa-fé do réu (fl. 289).
+A pretensão do agravante demanda o reexame do conjunto fático-probatório para afastar a conclusão do Tribunal de origem quanto ao elemento subjetivo do tipo penal. Isto é, para acolher a acolher a tese ministerial, seria necessário reexaminar as alegações apresentadas pelo réu e concluir que tais elementos seriam suficientes para afastar seu conhecimento quanto à origem ilícita do bem, o que demandaria, inequivocamente, a reanálise do conjunto probatório.
+O Tribunal a quo, após avaliar as circunstâncias do caso, concluiu que existe relevante dúvida acerca do conhecimento da origem ilícita do bem (fl. 283), apontando que o comportamento do réu, sua condição pessoal de agricultor de baixa escolaridade, as circunstâncias em que se encontrava e o local onde os fatos ocorreram evidenciam a ausência de dolo (fl. 286). Para tanto, analisou a prova testemunhal e os demais elementos probatórios para concluir pela absolvição do réu.
+Desse modo, para desconstituir o entendimento firmado e concluir pela condenação do agravado seria necessário o revolvimento do conjunto fático-probatório, providência vedada no âmbito do recurso especial. Reforçando esse entendimento: AgRg no AREsp n. 2.731.331/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025; e AgRg no REsp n. 2.162.819/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 180, CAPUT, DO CP. PEDIDO DE CONDENAÇÃO. ACÓRDÃO ABSOLUTÓRIO. DÚVIDA ACERCA DO CONHECIMENTO DA ORIGEM ILÍCITA DO BEM. BOA-FÉ DO RÉU. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
