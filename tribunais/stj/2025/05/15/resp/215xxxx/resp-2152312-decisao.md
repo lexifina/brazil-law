@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense-RS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 58):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. REINTEGRAÇÃO. PARCELAS DEVIDAS. COISA JULGADA. TÍTULO EXECUTIVO. CONSECTÁRIOS LEGAIS. TEMA 810 STF. EC 113/21. VERBAS INDENIZATÓRIAS. PARCIAL PROVIMENTO.
+1. Tratando-se de título executivo transitado em julgado após 20 de novembro de 2017 em sentido contrário que decidido pelo Supremo Tribunal Federal no julgamento do RE 870.947 são privadas de exigibilidade, sendo cabível em sede de cumprimento e respectiva impugnação a aplicação da orientação da Corte Constitucional firmada no referido precedente (Tema 810 STF).
+2. Sobrevindo a Emenda Constitucional nº 113/21, há de ser reconhecida sua aplicabilidade imediata, sem efeitos retroativos, por se tratar de lei superveniente versando sobre consectários legais, substituindo os critérios anteriores, o disposto em seu conteúdo, isto é, o índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), acumulado mensalmente, para fins de atualização monetária, remuneração de capital e compensação da mora.
+3. Em relação ao auxílio-alimentação e ao auxílio-transporte, conforme julgado recente do Superior Tribunal de Justiça, apenas o primeiro deve ser incluído dentre as parcelas a serem pagas em razão da reintegração no cargo. O auxílio-transporte, por reclamar a existência de requisito específico, não se mostra devido.
+4. Agravo de instrumento parcialmente provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 76/78).
+A parte recorrente aponta violação aos arts. 1.022 do CPC; art. 22, caput, §§ 1º e 3º, a e c, § 6º, da Lei n.º 8.460/92. Sustenta, em síntese, negativa de prestação jurisdicional e que "o pagamento de auxílio-alimentação possui  por positivação em lei em sentido estrito  caráter de indenização, exigindo como pressuposto a efetiva ocorrência de dia trabalhado.  ..  Como não existiu tais gastos com alimentação no exercício das atividades do cargo, inexiste direito à indenização. Logo, não tendo o título executivo condenado expressamente ao pagamento de tal verba (o que é reconhecido no acórdão), descabe a exigência em fase de cumprimento de sentença, sob pena de violação aos dispositivos citados." (fls. 88/89)
+Requer, ainda, reforma quanto à correção monetária.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, ressalto que, após determinado o retorno dos autos ao órgão julgador, foi negado seguimento ao recurso quanto à correção monetária (Lei nº 11.960/09), em razão de o acórdão estar em consonância com o entendimento sufragado no STJ e STF, não tendo havido recurso quanto a este particular (fls. 120/122).
+Passo à análise das matéria remanescentes.
+Verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, quais sejam, art. 22, caput, §§ 1º e 3º, a e c, § 6º, da Lei n.º 8.460/92, tampouco foram opostos embargos declaratórios para suprir eventual omissão quanto a este particular. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
