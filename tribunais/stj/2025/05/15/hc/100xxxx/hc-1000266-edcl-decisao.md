@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração (Petição n. 00413231 /2025) opostos por GILCELIO ALVES BRITO à decisão da lavra deste Relator (fls. 40/41), em que foi parcialmente concedida a ordem para redimensionar a pena imposta ao embargante para 5 anos, 4 meses e 5 dias de reclusão, a seguir ementada:
+PENAL. HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. DOSIMETRIA. ILEGALIDADE NA SEGUNDA FASE. CONFISSÃO QUALIFICADA. INCIDÊNCIA DA ATENUANTE. NECESSIDADE DE REDIMENS IONAMENTO DA PENA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
+Sustenta o embargante a necessidade de sanar erro material quanto à pena imposta, alegando que, no acórdão hostilizado, o Tribunal estadual redimensionou a pena para 4 anos e 8 meses de reclusão, enquanto a decisão embargada aumentou a pena para 5 anos, 4 meses e 5 dias de reclusão (fl. 48). Requer, portanto, a correção do erro material apontado, pronunciando-se expressamente sobre os pedidos arguidos (fl. 49).
+É o relatório.
+Os presentes embargos comportam acolhimento, isso porque, diferentemente do que consta na decisão hostilizada - condenado por homicídio privilegiado a 5 anos e 10 meses de reclusão (fl. 40) -, o embargante foi condenado por homicídio privilegiado a 4 anos e 8 meses de reclusão (fls. 18/30).
+Então, necessário adequar o redimensionamento da pena, com a incidência de atenuante da confissão: na primeira fase, mantida a pena-base exasperada em 1/6 (fls. 36 e 23), em 7 anos de reclusão. Na segunda fase, aplica-se a atenuante da confissão, na fração de 1/12 por ter sido qualificada (AgRg no HC n. 882.377/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJe 21/6/2024), passando a reprimenda para 6 anos e 5 meses de reclusão. Na terceira fase, mantida a causa de diminuição do homicídio privilegiado em 1/3 (fl. 28), resultando a pena definitiva em 4 anos, 3 meses e 10 dias de reclusão.
+Em razão disso, acolho os presentes aclaratórios, atribuindo-lhes efeitos modificativos, para redimensionar a pena imposta ao embargante para 4 anos, 3 meses e 10 dias de reclusão, mantido o regime inicial semiaberto, referente à condenação proferida na Ação Penal n. 1500446-72.2021.8.26.0557, da Vara Única da comarca de Monte Azul Paulista/SP.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. INSURGÊNCIA CONTRA A DECISÃO QUE CONCEDEU PARCIALMENTE A ORDEM. ERRO MATERIAL CONFIGURADO. CORREÇÃO. ADEQUAÇÃO DO REDIMENSIONAMENTO DE PENA.
+Embargos de declaração acolhidos nos termos do dispositivo.
