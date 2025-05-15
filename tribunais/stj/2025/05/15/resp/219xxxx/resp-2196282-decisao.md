@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADRIANO DE JESUS DO NASCIMENTO, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente cumpre pena de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em razão da prática do crime de tráfico de drogas, com término de cumprimento da pena previsto para 29/05/2027.
+Depreende-se dos autos que o Juízo de primeiro grau concedeu em seu favor a progressão de regime, tendo a decisão sido cassada no âmbito do Tribunal de origem, com determinação de realização do exame criminológico antes de novo pronunciamento sobre a progressão de regime.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a acusação alega violação aos artigos 112 da Lei nº 7.210/84 e 2º, §2º, da Lei nº 8.072/90.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+No âmbito do HC nº 959833/SP, writ impetrado em favor do ora recorrente, contra o mesmo acórdão que julgou o agravo em execução, com base nos mesmos argumentos e com pedido idêntico de concessão de progressão de regime independentemente de realização de exame criminológico, este Ministro, em decisão publicada em 13/11/2024, concedeu a ordem pleiteada nos seguintes termos:
+"No caso vertente, verifico que o paciente foi considerado, pelo juízo da execução, como plenamente apto à progressão de regime, a partir da documentação juntada (fls. 27-28), que demonstra que ele não ostenta faltas graves recentes e que, além disso, trabalha e estuda (fl. 23). Desta forma, pelas peculiaridades do caso concreto e tendo em conta a falta de argumentação concreta em relação aos próprios autos da execução penal, tenho que a origem incorreu em excesso na execução penal, assim, impossibilitando a reinserção gradual e justa do apenado na sociedade. Ante o exposto, não conheço do writ. Concedo a ordem de habeas corpus, de ofício, para restabelecer a decisão do juízo da execução, contudo, apenas se o referido exame criminológico ainda não tiver sido produzido, situação esta em que deverá ser antes avaliado pelo juízo a quo, e, claro, caso nenhum aspecto desabonador superveniente tenha ocorrido na execução penal".
+Sendo assim, consoante entendimento sedimentado, "é cediço na jurisprudência desta Corte Superior que a análise anterior das matérias objeto do recurso especial nos autos de habeas corpus impetrado com idênticos fundamentos e pedidos implica perda de interesse recursal e prejudicialidade da pretensão recursal" (AgRg no AREsp n. 2.027.015/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022).
+Ante o exposto, julgo prejudicado e não conheço do recurso especial, nos termos do art. 255, §4o, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
