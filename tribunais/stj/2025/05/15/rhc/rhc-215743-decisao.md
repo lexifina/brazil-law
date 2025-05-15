@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por JOSÉ DANIEL GRATON contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2006174-20.2025.8.26.0000).
+Consta dos autos que o recorrente foi denunciado por, em tese, ter cometido o crime do art. 129, § 1º, incisos I e II, e do art. 147, caput, do CP.
+Neste recurso, a defesa invoca a necessidade de trancamento da ação penal, pois "O órgão acusador embasou sua denúncia única e exclusivamente nas declarações da suposta vítima, em um vídeo obtido de câmera de segurança de lugar não revelado e cuja qualidade das imagens nada esclarecem sobre os fatos, e, não arrolou testemunhas e não pugnou pela produção de qualquer meio de prova" (fl. 247).
+Sustenta que não há indícios de autoria ou provas da materialidade do crime de ameaça imputado, o que se comprova pela falta de testemunhas.
+Invoca que se designou audiência de instrução e julgamento para o dia 15/4/2025.
+Requer, inclusive liminarmente, a suspensão da ação penal. No mérito, o conhecimento e provimento do recurso para o trancamento da ação quanto à imputação por crime de ameaça, tendo em conta a falta de justa causa, na forma do inciso III do art. 395 do Código de Processo Penal.
+Contrarrazões, às fls. 265-267.
+É o relatório. DECIDO.
+Cinge-se a controvérsia a pedido de trancamento da ação penal por suposta falta de justa causa no crime de ameaça.
+Da análise dos elementos informativos constantes dos autos, contudo, não se verifica flagrante ilegalidade a legitimar a atuação deste Tribunal.
+Inicialmente, ressalto que o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+A liquidez dos fatos, assim, constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano (AgRg no HC n. 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/4/2024).
+No mesmo sentido:
+ ..  Como é de conhecimento, o trancamento de ação penal ou de procedimento investigativo na via estreita do habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou prova da materialidade do delito. Não se admite, por essa razão, na maior parte das vezes, a apreciação de alegações fundadas na ausência de dolo na conduta do agente ou de inexistência de indícios de autoria e materialidade em sede mandamental, pois tais constatações dependem, via de regra, da análise pormenorizada dos fatos, ensejando revolvimento de provas incompatível, como referido alhures, com o rito sumário do mandamus (AgRg no RHC n. 194.209/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/3/2024).
+Com efeito, segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca pela verdade real.
+Aqui, os termos da denúncia ofertada (fl. 17):
+ ..  I- Consta do incluso inquérito policial que, no dia 03 de abril de 2024, por volta das 09h00min, na Avenida Mogiana, 2201, Centro, na cidade de Sales Oliveira/SP, comarca de Nuporanga/SP, JOSÉ DANIEL GRATON, qualificado à fl.62, ofendeu a integridade corporal de Cláudio de Barros, produzindo-lhe lesões corporais, de natureza grave, por incapacidade para as atividades habituais por mais de 30 dias e perigo de vida, conforme laudo pericial de fls.45/46.
+II - Consta também que, no mesmo contexto e no mesmo local, JOSÉ DANIEL GRATON ameaçou, por palavras, Cláudio de Barros, de causar-lhe mal injusto e grave.
+Segundo se apurou, em razão de desentendimentos anteriores decorrentes, sobretudo, de posicionamentos políticos, JOSÉ DANIEL encontrou o ofendido na via pública1 e, utilizando-se de um objeto contundente não identificado, desferiu golpes contra a cabeça, braços, pernas e costas da vítima, causando-lhe as lesões corporais, de natureza grave, conforme o laudo pericial de fls.45/46.
+No mesmo contexto fático, o denunciado proferiu ameaça contra a vítima, dizendo que iria "dar um tiro nele".  ..
+No ponto, também trago o acórdão de origem (fls. 235-239):
+ ..  O presente writ não comporta concessão.
+Por primeiro, as eventuais alegações aventadas na inicial, relativas à matéria de fato e prova, implicam em análise aprofundada dos elementos trazidos para os autos da ação penal, o que é vedado na via estreita do habeas corpus.
+Segundo consta da Denúncia, no dia 03 de abril de 2024, na cidade de Sales Oliveira, José Daniel Graton ofendeu a integridade corporal de Cláudio de Barros, produzindo-lhe lesões corporais de natureza grave, por ocasionar incapacidade para as atividades habituais por mais de 30 dias, além de perigo de vida, conforme laudo pericial de fls. 45/46, da origem.
+Consta também que, no mesmo contexto e no mesmo local, José Daniel Graton ameaçou, por palavras, Cláudio de Barros, de causar-lhe mal injusto e grave.
+Segundo se apurou, em razão de desentendimentos anteriores, decorrentes sobretudo de posicionamentos políticos, José Daniel encontrou o ofendido na via pública e, utilizando-se de um objeto contundente não identificado, desferiu golpes contra a cabeça, braços, pernas e costas da vítima, causando-lhe as lesões corporais, de natureza grave.
+No mesmo contexto fático, o denunciado proferiu ameaça contra a vítima, dizendo que iria "dar um tiro nele". (fls. 78/80 da origem).
+Não é possível constatar-se, ao menos nos estreitos limites do habeas corpus, se os fatos imputados ao ora paciente pelo Ministério Público são manifestamente atípicos ou não; se teriam sido praticados pelo agente ou por terceiro, ou; se, em sendo a autoria inquestionável, teria o réu agido amparado por alguma das excludentes legais.
+Ao contrário do que alega a combativa Defesa, não se vislumbra, à primeira vista, ausência de justa causa, a saber: a patente ausência elementos que demonstrem indícios de autoria e prova da materialidade delitiva, mesmo quanto ao crime de ameaça, de tal sorte que, assim, admitisse o trancamento da ação penal, pela via excepcional do habeas corpus.
+Não havendo, portanto, flagrante ilegalidade ou abuso de poder, um possível desacerto quanto ao recebimento da denúncia por parte do Juízo de Direito de primeiro grau será reconhecido e corrigido apenas oportunamente, após a efetiva análise do mérito, mesmo porque na fase atual, eventual dúvida na persecução penal deverá ainda ser dirimida sempre pro societate.
+Não se presta o remédio heroico, assim, à valoração detalhada das provas amealhadas, uma vez que tal análise deverá ser efetivamente procedida ao longo da instrução da ação penal já iniciada.
+Ante o exposto, denega-se o writ.
+Como já muito bem explicado pelo próprio acórdão, o suposto delito de ameaça não se mostrou denunciado de forma teratológica.
+Vale destacar que o mesmo contexto comportou, em tese, crime até bem mais gravoso: "lesões corporais de natureza grave".
+Assim, não é possível, nos estreitos limites do habeas corpus, saber se os fatos imputados seriam manifestamente atípicos, ou não.
+No caso, prima facie, é possível verificar a presença dos indícios mínimos de autoria e de provas da materialidade necessários para a persecução penal, amparados nos fatos narrados e deduzidos na exordial acusatória.
+Isso porque, nos termos do art. 41 do Código de Processo Penal, a denúncia deve descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime, in verbis:
+Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas.
+Da leitura da narrativa constante dos autos e da peça inicial observa-se que houve a descrição adequada dos fatos criminosos, em tese, imputados.
+De qualquer maneira, as questões apresentadas pela defesa dizem respeito diretamente ao mérito da ação penal e serão analisadas em seu tempo, após exame do acervo probatório pelo juiz da instrução.
+Nesse compasso:
+ ..  O exame do preenchimento dos requisitos subjetivos pelo sentenciado, estabelecidos no art. 123 da Lei de Execução Penal, não pode ser analisado em via estreita do writ, por demandar análise fático-probatória (AgRg no RHC n. 155.097/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021).
+Corroborando: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
