@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 162):
+MANDADO DE SEGURANÇA - TRIBUTÁRIO - ITCMD incidente sobre bens imóveis e sobre cota social de empresa.
+I - Pretensão de recolhimento do imposto de acordo com o valor venal lançado pela Municipalidade para a cobrança do IPTU - Possibilidade - Decreto nº 55.002/2009 que, sob o auspício de regulamentar a Lei Estadual nº 10.705/2000, acaba majorando, por via inadequada, o tributo - Ofensa ao artigo 150, inciso I, da CF, e aos artigos 97 e 99 do CTN - Revisão da base de cálculo, por meio de processo administrativo de arbitramento - Impossibilidade - Medida que excede os estreitos limites do mandado de segurança - Precedentes - Por se tratar de matéria de ordem pública, possível a exclusão da possibilidade de arbitramento.
+II - Pretensão que busca seja considerado o valor patrimonial contábil das cotas sociais da empresa Kanxa Industrial Ltda - Possibilidade, considerando que as cotas não foram negociadas nos últimos 180 dias - Inteligência dos artigos 9º e 14, parágrafo 3º, da Lei nº 10.705/00 - Precedentes desta C. Corte.
+III - R. Sentença mantida, com observação. Recurso oficial improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 188/194).
+No recurso especial (e-STJ fls. 199/221), o recorrente aponta violação dos arts. 2º, 10, 141 e 492 do CPC. Diz também que o acórdão recorrido diverge do que decidiu esta Corte de Justiça no REsp n. 14.238/SP. Alega que "houve reforma da sentença em sede de remessa necessária sem que tivesse havido a interposição de recurso voluntário da parte contrária para agravar a situação jurídica da Fazenda Pública na lide" (e-STJ fl. 206).
+Além disso, sustenta vulneração dos arts. 38; 97, IV, 142 e 148 do CTN, além de dissídio jurisprudencial com a interpretação dada no AREsp 1.176.337/SP por este Superior Tribunal . Defende, em síntese, a possibilidade de fixação da base de cálculo do ITCMD por arbitramento, desde que garantidos os princípios do contraditório e da ampla defesa em processo administrativo.
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V, do CPC/2015) em razão da insuficiência da argumentação para infirmar as conclusões do acórdão recorrido, da ausência de violação dos dispositivos apontados como violados e da incidência das Súmulas 7 do STJ e 280 do STF, bem como da deficiente demonstração da divergência jurisprudencial (e-STJ fls. 234/236).
+No agravo em recurso especial (e-STJ fls. 241/259), o agravante afirma que "a análise da questão supera a análise de lei local" (e-STJ fl. 249) e alega que "é insubsistente o fundamento de incidência da Súmula 7 do STJ trazido pela decisão agravada" (e-STJ fl. 251). Por fim, diz que "foi atendida a exigência de demonstração analítica da divergência jurisprudencial" (e-STJ fl. 258).
+A contraminuta foi apresentada.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecimento do recurso especial (e-STJ fls. 296/303).
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial, entre outros motivos, em razão da incidência das Súmulas 7 do STJ e 280 do STF.
+Contudo, nas razões do agravo, a respeito da incidência da Súmula 7 do STJ, o agravante limita-se a sustentar genericamente que se trata de " inconformismo que recai sobre matéria exclusivamente de direito" (e-STJ fl. 250).
+Em momento algum evidencia concretamente que a análise da tese recursal, no caso dos autos, independe do reexame fático-probatório, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Ademais, deduz argumentação abstrata sobre a não incidência da Súmula 280 do STF.
+Sendo assim, constata-se que a parte não impugnou específica e adequadamente a incidência dos referidos enunciados .
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
