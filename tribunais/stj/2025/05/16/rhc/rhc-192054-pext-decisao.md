@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de extensão formulado por CRISTIOMAR DE FREITAS no qual se busca sejam a ele estendidos os efeitos da decisão proferida em favor do recorrente Júlio Cesar Medeiros dos Santos (e-STJ fls. 257/265).
+Em suas razões, sustenta a defesa que: "Conforme se depreende dos autos do processo originário nº 5000960-50.2019.4.04.7017, Cristiomar de Freitas figura como corréu de Julio Cesar Medeiros dos Santos, ambos apontados como líderes da mesma suposta organização criminosa e que: ambos foram alvos da mesma decisão de decretação de prisão preventiva; Ambos tiveram a prisão substituída por monitoramento eletrônico e medidas cautelares similares; Ambos estão submetidos à execução provisória da pena, em regime aberto harmonizado; E, principalmente, Cristiomar de Freitas também se encontra sob monitoramento eletrônico há mais de cinco anos, sem notícia de descumprimento das condições impostas. Logo, identidade de situação processual e fática entre o paciente originário e o ora requerente está sobejamente demonstrada, impondo-se o reconhecimento da mesma ilegalidade e a extensão dos efeitos da decisão concedida nos termos do art. 580 do Código de Processo Penal e da pacífica jurisprudência desta Corte." (e-STJ fls. 271/272.)
+É o relatório.
+Decido.
+A despeito do esforço da diligente defesa, não há como acolher o pleito, visto que inexistem, nestes autos, informações suficientes para se aquilatar a identidade de situações sustentada.
+Isso, porque não se sabe, ao certo, a data em que o ora requerente teve a sua prisão preventiva substituída por medidas cautelares, tampouco foi juntada a imprescindível comprovação documental da atual situação da condenação a ele imposta, cabendo destacar, outrossim, que nem mesmo se tem conhecimento da anterior submissão do requerimento aqui formulado (revogação do monitoramento eletrônico) ao crivo do Tribunal a quo, diferentemente do que se verificou em relação ao recorrente Júlio Cesar Medeiros dos Santos.
+Ressalto que se deteve a defesa a juntar aos autos a decisão que decretou a prisão preventiva do ora requerente, o que não é suficiente para se alcançar a conclusão almejada.
+À vista do exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
