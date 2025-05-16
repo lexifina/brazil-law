@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELZA LOPES DA SILVA contra decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em agravo de instrumento nos autos de ação de arbitramento de aluguel.
+O julgado foi assim ementado (fl. 13):
+Agravo de instrumento Ação de arbitramento de alugueis Decisão que indeferiu a citação edilícia e expediu alvará para a localização do endereço do agravado junto a empresas privadas Ônus da agravante de encaminhar o referido alvará às empresas que considerar pertinentes, sem a imposição de custo financeiro Determinação razoável, proporcional e que atende ao princípio da cooperação Recurso não provido. Nega-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 152-156).
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 1.022, I e II, e 489, § 1º, III e IV, do Código de Processo Civil. Alega que o acórdão dos aclaratórios não enfrentou adequadamente os embargos opostos, deixando de sanar omissões e contradições.
+Sustenta que houve erro material e omissão na decisão dos embargos de declaração, uma vez que não abordou a questão da inaplicabilidade do modelo de alvará para busca de endereço aos beneficiários da justiça gratuita, conforme o Comunicado SPI n. 26/2012.
+Destaca que o Tribunal local se limitou a reproduzir normas sem explicar sua relação com o caso concreto, não abordando todos os argumentos deduzidos e não demonstrando que o caso se ajustaria aos fundamentos dos precedentes invocados.
+Requer o provimento do recurso para que se anule o acórdão recorrido com a consequente devolução dos autos ao Tribunal de origem a fim de que julgue novamente os embargos de declaração para corrigir o erro material e suprir omissão alegada.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa aos arts. 1.022, I e II, e 489, § 1º, III e IV, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Verifica-se que o acórdão recorrido manteve a decisão de primeira instância, que indeferiu o pedido de citação por edital, uma vez que não foram esgotadas as diligências disponíveis para localizar o requerido. Destacou que a medida adotada está em conformidade com o princípio da cooperação, previsto no art. 6º do CPC, não impondo ônus financeiro à agravante, mas apenas a incumbência de imprimir e apresentar o alvará às empresas de telefonia. Confira-se (fls. 14-16):
+Denota-se dos autos que a decisão agravada indeferiu o pedido de citação por edital, uma vez que ainda não se esgotaram as diligências para a localização do requerido, tendo sido determinada a expedição de alvará para a busca de endereço da parte requerida nos cadastros das empresas de telefonia (OI, TIM, CLARO, VIVO). A decisão consignou ser responsabilidade da parte autora o encaminhamento às empresas mencionadas. In verbis:
+ ..
+Ao contrário do que tenta fazer crer as razões recursais, não houve a imposição do ônus à agravante de realizar as pesquisas extrajudiciais relativas ao endereço do agravado de forma isolada e sem a chancela do Poder Judiciário. Em verdade, houve deferimento do pedido de expedição de alvará para a busca de endereço por parte do juízo "a quo", sendo certo que referido documento já se encontra disponível nos autos, sendo incumbência da agravante, tão somente, encaminhar referido alvará às empresas que julgar pertinentes.
+Referida medida mostra-se compatível com o princípio da cooperação que rege o processo civil, nos moldes do artigo 6º do Código de Processo Civil, sendo razoável e proporcional.
+Ademais, pelo teor da decisão agravada, denota-se não haver a imposição de ônus financeiro à parte autora, ora agravante, para que diligencie junto às empresas de telefonia mencionada, bastando a simples impressão da decisão agravada pelo sistema e-SAJ que serve com alvará e apresentá-la a tais empresas.
+O fato de ser beneficiária da Justiça Gratuita não impede a realização de tal diligência, já que não haverá a imposição de custos financeiros para tanto. Seu patrono poderá valer-se, inclusive, das salas da Ordem dos Advogados do Brasil presentes nos Fóruns para realizar tal impressão.
+ ..
+Portanto, a decisão agravada não impede o seu acesso à justiça e tampouco contraria o disposto no artigo 98, § 1º, inciso IX do Código de Processo Civil, já que não impõe à parte beneficiária da Justiça Gratuita, ônus financeiro para realizar a simples diligência de imprimir a decisão agravada e apresentá-la às empresas de telefonia para busca de endereço do agravado.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 154-155):
+Em que pesem as alegações das embargantes, o acórdão se pronunciou, de forma expressa e fundamentada, acerca da matéria de fato e de direito devolvida a seu apreço, não havendo omissão a ser suprida. Com efeito:
+ ..
+Como se sabe, os magistrados estão adstritos ao princípio do livre-convencimento motivado de suas decisões, podendo, assim, firmar seu convencimento segundo suas convicções, desde que devidamente fundamentado, como ocorreu na espécie.
+Não é necessário que o acórdão aborde todos os dispositivos legais e constitucionais suscitados no recurso de apelação, bastando que estejam consignadas, de forma motivada e fundamentada, as razões utilizadas para a resolução das questões postas em litígio. No caso, todos os pontos devolvidos a este juízo foram apreciados à saciedade, não havendo, pois, questões a serem sanadas nesta oportunidade.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nesse sentido: REsp n. 2.166.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2025, DJEN de 26/3/2025; EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 17/3/2025, DJEN de 24/3/2025; AgInt no AgInt no AREsp n. 2.569.914/SE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
