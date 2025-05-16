@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por FERNANDO MIZIARA DE MATTOS CUNHA e JOÃO PAULO FRANCO ROSSI CUPPOLONI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul cuja ementa guarda os seguintes termos (fls. 181-193):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. RECUPERAÇÃO JUDICIAL EM CURSO. PEDIDO DE SUSPENSÃO DO INCIDENTE. DESCABIMENTO. Na hipótese, insurge-se a parte agravante contra a decisão que indeferiu o pedido de suspensão do incidente de desconsideração da personalidade jurídica sob o fundamento de que há processo de recuperação judicial contra a construtora. Via de regra, os bens dos sócios não integram o plano de recuperação judicial e inexiste interferência entre os feitos - desconsideração e recuperação judicial - para que se determine a suspensão do incidente. Inaplicável o artigo 6º, II da Lei 11.101/05 que prevê que o deferimento do processamento da recuperação judicial implica na suspensão das execuções ajuizadas pelos credores particulares contra sócio solidário, pois a ação primitiva é de desconsideração, e não executiva. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 432-438).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 1.024 do Código Civil, 795, caput, do Código de Processo Civil, e 6º, 6º-C, 49, caput, 59, caput, e 82-A da Lei n. 11.101/05, pois "o incidente de desconsideração da personalidade jurídica não pode ter seguimento, sob pena de burla ao processo de recuperação judicial, já que nele se estaria, estrategicamente, perseguindo um crédito por via que escapa à recuperação" (fl. 506).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 519-522).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 525-529), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 602-604).
+É, no essencial, o relatório.
+De início, não prospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acórdão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Em relação à apontada ofensa aos arts. 1.024 do Código Civil, 795, caput, do Código de Processo Civil, e 6º, 6º-C, 49, caput, 59, caput, e 82-A da Lei n. 11.101/05, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas 7 do Superior Tribunal de Justiça e 283 do Supremo Tribunal Federal.
+Alterar o decidido no acórdão impugnado, no que se refere à necessidade de suspensão do incidente de desconsideração da personalidade jurídica, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mais, extrai-se da decisão de admissibilidade que, "em que pese o esforço argumentativo para defender suas teses, as razões recursais não se mostram capazes de combater todos os fundamentos da decisão hostilizada, notadamente a conclusão de que "analisando a decisão que deferiu a recuperação judicial (Evento 81 - OUT2 do eproc nº 5029564- 42.2021.8.21.0001), não houve qualquer extensão dos efeitos aos bens dos sócios , o que retira do juízo da recuperação a competência para a apreciação do pedido de desconsideração da personalidade jurídica"" (fl. 527).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. PEDIDO DE SUSPENSÃO. INCABÍVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTO SUFICIENTE PARA MANTER A DECISÃO NÃO REFUTADO PELA PARTE. SÚMULA N. 283/STF. AGRAVO IMPROVIDO.
