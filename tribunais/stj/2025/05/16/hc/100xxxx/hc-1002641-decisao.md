@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de João Maria da Costa Peixoto, em que se aponta como autoridade coatora o Tribunal Regional Federal da 5ª Região (fl. 2).
+Na inicial, a defesa informa que o paciente foi transferido do sistema prisional estadual do Rio Grande do Norte para o Presídio Federal de Brasília/DF, por decisão do juiz da 8ª Vara Federal da Seção Judiciária do Rio Grande do Norte, sob a alegação de risco à segurança pública (fls. 3-4).
+A defesa sustenta que a transferência foi indevida, pois não há provas concretas de que o paciente represente risco atual à segurança pública, e que a decisão se baseou em informações de "ouvir dizer" (fl. 4).
+Ressalta que a inclusão de João no Sistema Penitenciário Federal (SPF) viola os princípios da dignidade da pessoa humana, da individualização da pena e da proporcionalidade, uma vez que não há provas de liderança em organização criminosa ou envolvimento em incidentes de fuga, violência ou grave indisciplina (fls. 4-5).
+Alega que a manutenção do paciente no SPF configura constrangimento ilegal, agravando indevidamente sua restrição de liberdade, sem amparo legal (fls. 6-7).
+Argumenta que a decisão judicial se baseia em conjecturas e presunções, sem lastro probatório consistente, em desrespeito à presunção de inocência e ao devido processo legal (fl. 7).
+A defesa também aponta a fragilidade dos indícios e a ausência de contemporaneidade dos fatos invocados para justificar a transferência, em descompasso com o artigo 3º do Decreto nº 6.877/2009 (fls. 8-9).
+Salienta que o acórdão do Tribunal Regional Federal da 5ª Região se escora em dados genéricos e desprovidos de especificidade, omitindo provas robustas e individualizadas que atestem a periculosidade presente de João (fls. 9-10).
+Argui a incompatibilidade da manutenção do recluso no SPF com o princípio da dignidade humana e o direito à convivência familiar, assegurado pelo artigo 103 da Lei de Execução Penal (LEP), devido à distância geográfica entre Brasília e Natal (fls. 11-12).
+No mérito, a defesa requer a concessão da liminar para suspender a decisão de inclusão do paciente no SPF e determinar sua transferência imediata para Natal, até o julgamento deste habeas corpus (fls. 13-14).
+Ao final, pleiteia a concessão definitiva da ordem de habeas corpus, confirmando-se a liminar, para cassar a decisão que determinou a manutenção de João no SPF e ordenar sua transferência para um estabelecimento prisional estadual em Natal (fl. 14).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que há periculosidade concreta para a inclusão do preso no Sistema Penitenciário Federal. Confira-se o seguinte trecho do acórdão impugnado (fl. 18):
+No caso dos autos, a periculosidade concreta do preso está demonstrada pelo Relatório Técnico de Análise (RTA) 588/2024 - GAECO/MPRN, evidenciando o longo histórico de associação com outras pessoas e que o agravante é membro de associação criminosa, hipótese que se enquadra na disposição do art. 3º, IV, do Decreto nº 6.877-09 para fins de inclusão no SPF ("ser membro de quadrilha ou bando, envolvido na prática reiterada de crimes com violência ou grave ameaça"), além de já ter exercido liderança em atividade criminosa de crime organizado.
+Ao contrário do que defende o agravante, todo conteúdo descrito das práticas criminosas do agravante, inúmeros processos e condenações por crimes de homicídios, extorsões e outros crimes, que embasara as conclusões do Ministério Público do Estado do Rio Grande do Norte não são meras conjecturas, mas estão lastreadas em fatos concretos devidamente documentados.
+A divergência quanto aos fatos que levaram à conclusão pela necessidade de inclusão do custodiado no Sistema Penitenciário Federal demanda incursão no conjunto fático-probatório a res peito do tema, inviável de ser efetuada em sede de habeas corpus. Nesse sentido, mutatis mutandis:
+ ..  No caso concreto, não houve superação dos motivos que justificaram a transferência do paciente para o sistema penitenciário federal, uma vez que ele é identificado como membro de grande influência em organização criminosa de alta periculosidade.
+8. A reanálise da persistência desses motivos demandaria revolvimento do acervo fático-probatório, o que não é possível na via do habeas corpus.
+9. Ausência de constrangimento ilegal apto a ensejar a concessão da ordem. IV. DISPOSITIVO
+10. Agravo regimental desprovido.
+(AgRg no HC n. 967.666/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+Ante o exposto, inevidente flagrante ilegalidade, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
