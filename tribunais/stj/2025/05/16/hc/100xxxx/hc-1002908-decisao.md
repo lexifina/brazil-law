@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOAO VICTOR FLORES PARREIRA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0715201-79.2024.8.07.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação Criminal n. 0715201-79.2024.8.07.0001), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 2ª Vara de Entorpecentes do Distrito Federal e mantida pelo Tribunal, ao argumento de que a minorante do tráfico privilegiado foi afastada por conversas em celulares que não são suficientes para afastar o tráfico privilegiado, salvo se acompanhadas de outras provas que evidenciem a habitualidade e a continuidade do crime (fl. 6).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias afastaram o redutor com fundamento no fato de que a quantidade expressiva, variedade e natureza de parte dos entorpecentes apreendidos (quase 3 kg de maconha, além de cocaína  ..  agregadas aos dados colhidos no seu aparelho celular, evidenciam dedicação habitual do acusado ao tráfico de drogas (fl. 367 da sentença).
+A combinação de elementos concretos dos autos, consistentes na quantidade de drogas e conversas no aparelho celular, é circunstância capaz de denotar a dedicação a atividades criminosas. A propósito: AgRg no AREsp n. 2.375.480/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJE 25/2/2025.
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS (CONVERSAS EM APARELHO CELULAR QUE DEMONSTRAM A HABITUALIDADE, A QUANTIDADE E A VARIEDADE DE DROGAS). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Indeferida a inicial liminarmente.
