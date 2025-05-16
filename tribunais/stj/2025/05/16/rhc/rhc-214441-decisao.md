@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por HILARIO DIMAS CAMILETTI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o recorrente foi denuciado e teve a prisão decretada pela suposta prática do crime previsto no art. 121, §2º, incisos I, III e IV, c/c art. 29, ambos do Código Penal. A prisão preventiva foi decretada em razão da reincidência do recorrente.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do recorrente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 146-164.
+No presente writ, alega que o recorrente estaria sofrendo constrangimento ilegal diante da ausência de indicios autoria delitiva e ausência dos requisitos ensejadores da prisão preventiva.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 176.
+Sem pedido de liminar.
+O Ministério Público Federal, às fls. 200-203, manifestou-se pelo "Desprovimento do recurso".
+É o relatório. DECIDO.
+Primeiramente, quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+A propósito:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019" (AgRg nos EDcl no HC n. 937.768/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+No que tange a alegação acerca da ausência de indícios de autoria delitiva, o Tribunal de origem manifestou que:
+"Feita essa ressalva, no que concerne ao fumus comissi delicti, conforme se depreende da denúncia, diante dos dados extraídos do aprelho celular em questão, foram verificadas conversas de "aplicativo "Whatsapp" entre os denunciados, oportunidade que Hilário determinou que Rafael entregasse munição de calibre.380 ao denunciado COSME, com a finalidade de ceifar a vida da vítima (fls. 62)". Dessa forma, existem nos autos indícios suficientes de autoria para fins de decretação da prisão preventiva do paciente"- fl. 154(grifei).
+Ir contrário ao decidido pelas instâncias ordinárias, demandaria revolvimento fático-probatório, inviável na via estreita do habeas corpus.
+Nesse sentido:
+"a tese de ausência de prova de materialidade e de autoria delitiva depende de revolvimento fático/probatório dos autos, não condizente com a via eleita. Em verdade o pedido defensivo tenta transmudar o habeas corpus em verdadeira revisão criminal e esta Corte Superior em terceira instância revisora, o que vedado" (AgRg no HC n. 916.957/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+"Para desconstituir as conclusões sobre autoria e materialidade dos crimes, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus, conforme jurisprudência pacífica desta Corte"(AgRg no HC n. 953.277/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+In casu, verifica-se que a decisão que decretou a prisão preventiva do recorrente encontra-se devidamente fundamentada em dados concretos extraídos dos autos para a garantia da ordem pública notadamente em razão do risco de reiteração delitiva do recorrente que é contumaz na prática delitiva e "ainda cumpre pena, nos autos da Execução n. 2001023-76.2019.8.08.0035, em trâmite perante a 2ª Vara Criminal desta Comarca (SEEU)" - fl. 13.
+Essa Corte Superior entende que:
+"maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar , o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pelo provimento do presente recurso.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea b do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
