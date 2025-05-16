@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por Valmor Braga Simonetti e Tanira Muniz Montiel Simonetti contra decisão que não admitiu o recurso especial manejado em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (fl. 1.137):
+SFH. REVISIONAL. CDC. PES. CES. TAXA DE ADMINISTRAÇÃO. ENCARGOS DE MORA. REPETIÇÃO DO INDEBITO. HONORÁRIOS ADVOCATÍCIOS.
+1. Conquanto teoricamente aplicável o CDC aos contratos de mútuo habitacional, não tendo o mutuário comprovado o atendimento dos pressupostos a aludidos no inc. VIII do art. 6º da Lei 8.078/90 (verossimilhança da alegação ou hipossuficiência da parte), não lhe assiste o direito à inversão do ônus da prova.
+2. A prova técnica pericial, com base nas informações prestadas pela categoria profissional do mutuário, elaborou planilha demonstrando que as parcelas foram exigidas DENTRO dos limites impostos pelo PES, já que os reajustes salariais do mutuário superaram os índices aplicados pelo credor.
+3. O entendimento deste Tribunal, na linha da jurisprudência do STJ, é de que, no âmbito do SFH, com aplicação do Plano de Equivalência Salarial (PES), levam-se em conta não só o aumento da categoria profissional, mas também as vantagens pessoais incorporadas definitivamente ao salário do mutuário.
+4. No caso dos autos, não há estipulação expressa acerca da incidência do CES, sendo portanto, inadmissível a sua cobrança.
+5. Reconhecida a incorreção das importâncias exigidas pela instituição tenho que não há como caracterizar a mora do mutuário autor, em razão de ter havido cobrança indevida de encargos relativos ao financiamento, devendo ser afastado este encargo no recalculo do débito.
+6. A cobrança da taxa administrativa foi livremente pactuada, sem violação da boa-fé dos contratantes, que tiveram ciência das condições do financiamento antes de firmá-lo com a Agência Financiadora, sabendo que esse encargo seria cobrado.
+7. Condeno cada uma das partes ao pagamento de honorários advocatícios à parte ex adversa, os quais, arbitro em 10% sobre o valor da causa, na proporção de 70% a favor da autora e 30% a favor da CEF.
+8. Apelação parcialmente provida.
+Embargos de declaração opostos contra o acórdão recorrido foram rejeitados por unanimidade (fls. 1.165-1.167).
+Nas razões do recurso especial, os recorrentes alegam que o acórdão recorrido violou os arts. 9º da Lei 4.380/1964; 39, V, 51, IV, 42, parágrafo único, do Código de Defesa do Consumidor; 85, §§ 2º e 14, do Código de Processo Civil; e 23 da Lei 8.906/1994.
+Quanto à suposta ofensa ao artigo 9º da Lei 4.380/1964, sustentam que o acórdão não reconheceu o pedido de reajuste das prestações pelos índices da variação salarial do mutuário titular do financiamento em respeito ao PES pactuado.
+Argumentam, também, que o acórdão negou vigência ao artigo 39, V, c/c artigo 51, IV, ambos do Código de Defesa do Consumidor, ao não reconhecer o pedido de expurgo das taxas administrativas desde a primeira prestação por já estar sendo cobrado juros no financiamento.
+Aduzem, ainda, que o acórdão negou vigência ao artigo 42, parágrafo único, do Código de Defesa do Consumidor, ao não reconhecer o pedido de repetição de indébito em dobro.
+Além disso, sustentam que o acórdão negou vigência ao artigo 85, §§ 2º e 14, do Código de Processo Civil, ao não reconhecer o pedido de condenação em sucumbência e impossibilidade de compensação.
+Não foram apresentadas contrarrazões ao recurso especial, conforme certificado à fl. 1.223.
+O recurso especial não foi admitido com fundamento nas Súmulas 5 e 7/STJ.
+Nas razões do seu agravo, a parte agravante alega que a decisão agravada não aplicou adequadamente os artigos 39, V, 42, parágrafo único, 51, IV, do Código de Defesa do Consumidor; 85, §§ 2º e 14, do Código de Processo Civil; e 23 da Lei 8.906/1994, além de não observar os Temas 619 e 1.076 do STJ.
+Não foi apresentada impugnação, conforme certificado à fl. 1.250.
+Assim delimitada a controvérsia, passo à análise do recurso.
+Trata-se de ação revisional de contrato de financiamento habitacional, com pedido de tutela de urgência, ajuizada por Valmor Braga Simonetti e Tanira Muniz Montiel Simonetti contra a Caixa Econômica Federal, visando à revisão do contrato firmado em 20.4.1989.
+A sentença julgou parcialmente procedentes os pedidos, determinando, entre outros, a manutenção dos índices de reajuste das prestações mensais aplicados pelo agente financeiro e a não incidência de juros remuneratórios sobre as parcelas em aberto. O acórdão recorrido deu parcial provimento à apelação, excluindo a cobrança do CES e afastando os encargos moratórios.
+Esclarecidas essas premissas, verifico que entre os pontos devolvidos no recurso especial está a discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC, tema afetado para julgamento em repetitivo (Tema 929/STJ), ainda pendente de julgamento.
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do Regimento Interno do Superior Tiribunal de Justiça (STJ).
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, tratando-se de provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Em face do exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 929) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Intimem-se.
+EMENTA
