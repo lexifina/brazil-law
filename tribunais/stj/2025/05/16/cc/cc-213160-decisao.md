@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por ALEXANDRE DEMARCHI em face do d. Juízo da 1ª Vara Cível de Pontes e Lacerda/MT e do d. Juízo da 13ª Vara Cível de Maceió/AL.
+O conflito de competência é estabelecido em sede de execução de acordo comercial, entabulado entre partes igualitárias, ALEXANDRE DEMARCHI e DANYEL MORAES ALVES, homologado pelo d. Juízo mato-grossense, no qual foi instituída a competência do Foro de Maceió (cláusula de eleição de foro).
+Inicialmente, em 9/7/2024, DANYEL MORAES ALVES propôs perante o d. Juízo de Maceió/AL, ação que "pretende executar decisão homologatória de autocomposição judicial, proferida no Processo nº 0007437-80.2017.8.11.0013", no qual fora eleito o Foro de Maceió como competente para dirimir as dúvidas e resolver os conflitos oriundos do assinalado acordo (nas fls. 50/63).
+O d. Juízo de Maceió/AL, em 16/7/2024, deferiu "parcialmente o pedido de tutela provisória de urgência" (nas fls. 64/67). Contra essa decisão ALEXANDRE DEMARCHI manejou agravo de instrumento ao qual o eg. Tribunal de Justiça de Alagoas negou provimento em sessão de julgamentos do dia 7/4/2025 (nas fl. 416/426). Foram opostos por ALEXANDRE DEMARCHI embargos de declaração que ainda pendem de julgamento.
+Após essa tramitação, ALEXANDRE DEMARCHI popôs perante o d. Juízo de Pontes e Lacerda/MT "CUMPRIMENTO DE SENTENÇA DE ACORDO HOMOLOGADO NOS AUTOS nº 0007437-80.2017.8.11.0013", que teve o pedido de tutela de urgência deferido em 29/4/2025, sem qualquer menção à cláusula de eleição do Foro de Maceió/AL (nas fls. 497/500).
+Sucede que, segundo noticia o interessado, DANYEL MORAES ALVES, na petição de fls. 647/651, o d. Juízo de Direito da 1ª Vara Cível de Pontes e Lacerda/MT reconheceu sua incompetência, diante da cláusula de eleição de foro, determinando a remessa dos autos ao d. Juízo da 13ª Vara Cível de Maceió/AL, o eleito contratualmente. Desse modo, o presente conflito de competência encontra-se esvaziado em seu objeto.
+Ante o exposto, julgo prejudicada a análise do conflito de competência, diante da perda superveniente de objeto.
+Publique-se.
+EMENTA
