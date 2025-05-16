@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL - UFRGS se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 1.017/1.018):
+EXECUÇÃO DE SENTENÇA. 28,86%. COMPENSAÇÃO. ATUALIZAÇÃO MONETÁRIA. PSS SOBRE OS JUROS DE MORA.
+1. Improcede a pretensão da UFRGS de compensação do reajuste de 28,86% com o aumento concedido pela Lei 8.627/93, eis que vai de encontro à coisa julgada (ação coletiva 98.00.01834-4). Inaplicabilidade do art. 741, parágrafo único, do CPC, eis que o título executivo apenas destoa do entendimento do Supremo, mas não adota como fundamento lei ou ato normativo, ou qualquer entendimento, que tenha sido declarado inconstitucional ou incompatível com a Constituição pelo STF.
+2. A partir do momento em que sobreveio ou a concessão do reajuste no percentual devido, ou a reestruturação da carreira, com a conseqüente renovação da correlação entre cargos e vencimentos, a diferença entre o reajuste devido e o efetivamente concedido fica absorvida pelos novos patamares remuneratórios, na medida em que tais valores não têm origem na revisão promovida pela regra contida nas Leis nº 8.622/93 e 8.627/93, e sim na nova lei que os especificou.
+3. De acordo com a jurisprudência dominante do egrégio STF, o art. 1º - F da Lei nº 9.494/97, acrescido pela MP nº 2.180-35/2001, que rege os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, tem aplicação imediata, independentemente da data de ajuizamento da ação judicial.
+4. Conforme entendimento firmado no egrégio STJ, os critérios estabelecidos pelo art. 1º-F da Lei 9.494/97 sobre juros e correção monetária têm a sua aplicação sujeita ao princípio tempus regit actum. Por conseguinte, as alterações operadas no referido dispositivo legal, especificamente pela Medida Provisória 2.180-35/2001 e Lei 11.960/2009, são aplicáveis aos processos em curso. Contudo, os critérios para o cálculo de juros e correção monetária devem incidir somente no período de tempo de sua vigência.
+5. Portanto, para o período anterior à edição da MP 2.180-35/2001, os juros de mora devem incidir no percentual de 12% ao ano, da citação até a entrada em vigor das alterações promovidas pela referida MP ao art. 1º - F da Lei nº 9.494/97. A partir dessa data, os juros de mora devem ser calculados no percentual de 6% ao ano.
+6. O Superior Tribunal de Justiça, por sua Primeira Seção, no julgamento do REsp nº 1.270.439, em sede de recurso repetitivo, consolidou entendimento de que o STF, ao julgar a ADI 4357/DFD, declarou a inconstitucionalidade parcial, por arrastamento, do art. 1º-F da Lei 9.494/97, com a redação da Lei 11.960/09, afastando a aplicação da TR como índice de correção monetária.
+7. Por conseguinte, a partir de 30 de junho de 2009, os juros de mora devem ser calculados no percentual de 0,5% (meio por cento) ao mês.
+Os embargos de declaração opostos foram acolhidos parcialmente sem efeitos infringentes (fl. 1.062).
+A parte recorrente aponta violação dos arts. 535, I e II, 741, parágrafo único, do Código de Processo Civil de 1973 (CPC/1973) e 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009. Alega:
+a) ocorrência de negativa de prestação jurisdicional;
+b) necessidade de aplicação do disposto no art. 1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009, a título de correção monetária;
+c) inexigibilidade do título executivo, uma vez que o Supremo Tribunal Federal entendeu que os reajustes concedidos pela Lei 8.627/1993 devem ser compensados, nos termos da Súmula 672/STF.
+A parte adversa apresentou contrarrazões (fls. 1.156/1.194).
+Ao recurso foi negado seguimento em relação às teses de violação do art. 1º-F da Lei 9.494/1997 e de inexigibilidade do título executivo, sendo inadmitido quanto às demais questões (fls. 1.260/1.268), razão pela qual foi interposto o presente agravo em recurso especial.
+Foi apresentado agravo interno, ocasião em que o órgão julgador realizou juízo de retratação, tendo em vista a aplicação dos Temas 810/STF e 905/STJ, nos termos da ementa de fl. 1.406, bem como manteve a conclusão do acórdão recorrido quanto à aplicação do Tema 476/STJ (fl. 1.437).
+Por meio da decisão de fls. 1.482/1.483, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) determinou a devolução dos autos ao Tribunal de origem para realizar o juízo de conformação em relação à aplicação do Tema 1.170/STF.
+Mantido o acórdão recorrido pela Corte de origem, os autos vieram ao STJ para análise das questões remanescentes (fls. 1.493/1.495).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Em relação à tese de violação do art. 535 do CPC/1973, observo que a parte recorrente, em seus embargos de declaração, apontou omissão no acórdão recorrido nestes termos (fl. 1.081):
+A autarquia recorrente opôs embargos declaratórios, no qual arguiu ocorrência de erro de matéria na aplicação do precedente REsp 1270439, julgado pela sistemática do art. 543-C do CPC, ao caso dos presentes autos, mencionando já existir recurso representativo em relação à observância da Lei 11960/09 (RESP 1.205.946).
+Contudo, não restou analisada a incidência da matéria arguida.
+Ocorre que o Tribunal de origem realizou o juízo de retratação quanto à aplicação dos Temas 810/STF e 905/STJ, razão pela qual a apreciação desta tese encontra-se prejudicada.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
