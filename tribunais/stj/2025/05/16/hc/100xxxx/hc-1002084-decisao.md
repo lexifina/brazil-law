@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de PEDRO HENRIQUE SILVA DOS SANTOS contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Ação Penal n. 1500177-75.2023.8.26.0585), não comporta processamento.
+Postula-se a concessão da ordem de habeas corpus, para aplicar o redutor do tráfico privilegiado.
+Contudo, diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração dos Habeas Corpus n. 932.204/SP, 993.459/SP e 998.876/SP, em benefício do mesmo paciente, contra o mesmo acórdão (Apelação n. 1500177-75.2023.8.26.0585) e com pretensão idêntica (aplicação da minorante do tráfico privilegiado).
+Assim, configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210 do RISTJ (AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018).
+No mesmo sentido: AgRg no HC n. 933.288/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; AgRg no RHC n. 124.697/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/4/2020; AgRg no HC n. 546.302/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 3/12/2019;  AgRg no HC n. 286.354/AC, Ministra Laurita Vaz, Quinta Turma, DJe 23/5/2014; AgRg no HC n. 474.992/ES, de minha relatoria, Sexta Turma, DJe 11/3/2019; RCD no HC n. 423.298/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/12/2017; AgRg no HC n. 391.116/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017; entre inúmeros outros.
+Quer dizer, é categórico o entendimento do Superior Tribunal de Justiça a respeito da impossibilidade de reiteração de pedidos já apresentados nesta Casa.
+Ademais, a impetração sucessiva e insistente de habeas corpus com mera reiteração de pedidos abarrota o Judiciário e prejudica a análise, com maior presteza, dos recursos que trazem em seu bojo ilegalidades cabíveis de serem conhecidas e corrigidas. Para além da falta de estrutura do Poder Judiciário, a prática da advocacia, nesses moldes, contribui com a morosidade do sistema, devendo ser fortemente rechaçada.
+Por fim, diante da reiteração de pedidos, cumpre advertir a causídica de que, caso interposto novo recurso reiterativo, a OAB local será comunicada para as devidas providências.
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR. PRETENSÃO IDÊNTICA À FORMULADA NOS HABEAS CORPUS N. 932.204/SP, 993.459/SP E 998.876/SP. MERA REITERAÇÃO DE PRÉVIO WRIT. INADMISSIBILIDADE.
+Inicial indeferida liminarmente.
