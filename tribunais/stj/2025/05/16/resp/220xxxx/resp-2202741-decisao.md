@@ -1,0 +1,22 @@
+DECISÃO
+.Trata-se de recurso especial interposto pelo MUNICÍPIO DE TOCANTINÓPOLIS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (fl. 53):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. PISO SALARIAL NACIONAL DO MAGISTÉRIO. SUSPENSÃO DO FEITO EM FACE DO TEMA 1.218 DO STF. INEXISTÊNCIA DE ORDEM DE SUSPENSÃO. RECURSO PARCIALMENTE PROVIDO.
+1. No RE 1326541/SP, foi admitida repercussão geral delimitando a questão controvertida a ser definida no Tema 1.218 do STF, qual seja: "adoção do piso nacional estipulado pela Lei federal 11.738/2008 como base para o vencimento inicial da carreira do magistério da Educação Básica estadual, com reflexos nos demais níveis, faixas e classes da carreira escalonada".
+2. Ocorre que, do supracitado Recurso Extraordinário não se verifica nenhuma ordem de suspensão dos processos que versem sobre a mesma matéria e tramitem em território nacional, conforme previsto no art. 1.037, II, do CPC.
+3. Desse modo, o reconhecimento da repercussão geral não provoca a suspensão automática dos demais processos que versem sobre a mesma matéria.
+4. Recurso conhecido e parcialmente provido, no sentido de desconstituir a decisão ora vergastada, devendo o feito originário seguir seu regular curso.
+Em suas razões recursais, a parte recorrente afirma haver violação do art. 1.037, II, do Código de Processo Civil (CPC) porque "o acórdão proferido incorreu em equívoco ao afastar a suspensão do feito" (fl. 65).
+A parte adversa apresentou contrarrazões (fls. 71/74).
+O recurso foi admitido na origem (fls. 80/82).
+É o relatório.
+No acórdão recorrido, o Tribunal de origem adotou a seguinte fundamentação (fls. 43/44):
+Conforme se infere dos autos de origem, o autor é servidor público municipal, ocupante do cargo efetivo de "professor", tendo ajuizado a demanda objetivando que o Município de Tocantinópolis seja condenado "ao pagamento do piso nacional do magistério instituído pela Lei 11.738/2008 enquanto vencimento inicial da carreira (Nível 1; Classe A), sobre o qual deverão incidir todas as demais vantagens remuneratórias, como progressão vertical (aumento de nível), progressão horizontal (aumento de classe, pago sob a rubrica "progressão lei 845/2010), e "quinquênio" (adicional por tempo de serviço), conforme plano de carreira municipal e consoante entendimento do STF (ADI 4167) e STJ (Tema 911); com a determinação de que o valor a ser implantando em folha obedeça os reajustes anuais informados pelo Ministério da Educação", bem como "ao pagamento de todos os valores retroativos pagos a menor durante o período não prescrito, inclusive considerando os reflexos do vencimento básico nas demais parcelas remuneratórias, a ser apurado em liquidação de sentença".
+Determinado o sobrestamento dos autos pelo juízo de origem até o julgamento do Tema 1.218 do STF, o autor interpôs o presente recurso alegando que a discussão travada naquele não é a mesma dos autos, não havendo razão para a suspensão destes.
+Consigne-se assim que no RE 1326541/SP, foi admitida repercussão geral delimitando a questão controvertida a ser definida no Tema 1.218 do STF, qual seja: "adoção do piso nacional estipulado pela Lei federal 11.738/2008 como base para o vencimento inicial da carreira do magistério da Educação Básica estadual, com reflexos nos demais níveis, faixas e classes da carreira escalonada".
+Ocorre que, do supracitado Recurso Extraordinário não se verifica nenhuma ordem de suspensão dos processos que versem sobre a mesma matéria e tramitem em território nacional, conforme previsto no art. 1.037, II, do CPC.
+Desse modo, o reconhecimento da repercussão geral não provoca a suspensão automática dos demais processos que versem sobre a mesma matéria.
+Na peça recursal, todavia, a parte recorrente não se insurge contra a fundamentação adotada segundo a qual, no caso concreto, "não se verifica nenhuma ordem de suspensão dos processos que versem sobre as mesma matéria e tramitem em território nacional, conforme previsto no art. 1.037, II, do CPC" (fl. 44).
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
