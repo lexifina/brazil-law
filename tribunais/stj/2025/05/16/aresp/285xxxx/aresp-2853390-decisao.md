@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo de JAIRO JOEL NOLL contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c" da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 5000856-94.2022.8.21.0017/RS
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 121, § 2º, I e IV, por duas vezes (duplo homicídio qualificado), e no art. 121, caput, na forma do art. 14, II, (homicídio simples tentado), todos do Código Penal - CP, à pena de 27 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado (fl. 471).
+Recurso de apelação interposto pela defesa foi provido para ara reconhecer a ocorrência de nulidade após de pronúncia, desconstituir a Sessão Plenária ocorrida no dia 17 de novembro de 2022 que condenara o agravante e determinar a realização de novo julgamento, bem como para conceder, de ofício, a liberdade provisória ao acusado mediante aplicação de medidas cautelares diversas da prisão (f. 596-601) O acórdão ficou assim ementado:
+APELAÇÃO CRIMINAL. CRIMES CONTRA A VIDA. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO (2X). TENTATIVA DE HOMICÍDIO SIMPLES. NULIDADE POSTERIOR À PRONÚNCIA. VIOLAÇÃO AO PRINCÍPIO DA AMPLA DEFESA. RECUSA DO ACUSADO DE RESPONDER PERGUNTAS DO JUÍZO. SUBSEQUENTE INDEFERIMENTO DE FORMULAÇÃO DE QUESTIONAMENTOS PELA DEFESA. VIOLAÇÃO DO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. NULIDADE CONFIGURADA. NOVO JULGAMENTO. IRRESIGNAÇÃO DEFENSIVA.
+Da nulidade posterior à pronúncia. Conforme se extrai da Ata de Julgamento, o acusado respondeu perguntas em referência à sua qualificação e individualização, e, em relação ao interrogatório de mérito, afirmou que somente responderia aos questionamentos elaborados pela defesa.
+Logo em seguida, o Juiz-Presidente encerrou o interrogatório antes da formulação dos questionamentos defensivos. Precedentes STJ e Terceira Câmara Criminal. Desse modo, demonstrada a flagrante violação à ampla defesa, resta desconstituída a Sessão Plenária ocorrida no dia 17 de novembro de 2022 e deve ser o réu submetido a novo julgamento.
+ACOLHIDA A PRELIMINAR DE NULIDADE. RECURSO DEFENSIVO PROVIDO. SENTENÇA REFORMADA. CONCEDIDA A LIBERDADE PROVISÓRIA DE OFÍCIO
+Embargos de declaração opostos pela defesa foram rejeitados (fl.675). O acórdão ficou assim ementado:
+EMBARGOS DE DECLARAÇÃO. RECURSO DE APELAÇÃO. DESCONSTITUIÇÃO DA SESSÃO PLENÁRIA. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IRRESIGNAÇÃO DEFENSIVA.
+1. Inicialmente, necessário referir que os embargos declaratórios, mesmo que para fins de prequestionamento, têm como requisito a ocorrência dos pressupostos do art. 619 do CPP.
+2. No caso em concreto, consta na decisão embargada expressamente a posição do Relator acerca da nulidade que maculou a sessão plenária, bem como das condições impostas à liberdade provisória.
+3. Inexiste, portanto, no acórdão atacado qualquer omissão, contradição, obscuridade ou erro material.
+EMBARGOS DESACOLHIDOS. ACÓRDÃO MANTIDO
+Em sede de recurso especial (fls. 684/699), a defesa apontou violação aos arts. 282, § 4º, 311,312, § 2º , 617 e 626, parágrafo único, todos do Código de Processo Penal, porque o TJ, em sede de embargos de declaração, deixou de se manifestar quanto ao princípio da não reformatio in pejus e vedação de prisão até o trânsito em julgado da decisão.
+Requer o provimento para a reforma do acórdão embargado.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL (fls. 705/710).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 284 do Supremo Tribunal Federal, pois as razões da peça recursal estão dissociadas do que ficou decidido no acórdão recorrido; e b) óbice das Súmulas n. 211 do STJ e n. 282 do STF, porquanto não houve prequestionamento aos artigos 617 e 626, parágrafo único, ambos do CPP (fls. 715/717).
+Agravo em recurso especial (fls. 729/740).
+Contraminuta do Ministério Público (fls. 744/747).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo (fls. 760/763).
+É o relatório.
+Decido.
+O TJ, ao inadmitir o recurso especial, adotou os seguintes fundamentos (grifos nossos):
+Consoante a jurisprudência do Superior Tribunal de Justiça, "não se conhece de recurso especial com razões dissociadas do que foi decidido pelo acórdão recorrido, o que atrai a aplicação da Súmula n. 284 do STFR Esp 1898607/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/02/2021, D Je 10/02/2021).
+O Recorrente alega que não garantiu "a liberdade do Recorrente mesmo após nova condenação pelo Tribunal do Júri" (Evento 81 - RECESPEC1, p. 15), ao passo que, no aspecto, o Órgão Julgador assentou que "diante da providência cima determinada, não mais persisitindo a condenação e para que o acusado não fique segregado por amis tempo, em razão de nuliade para a qual não deu causa, entendo por adequado, de ofício, revogar a prisão preventiva do paciente, substituindo-a por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal, nos seguintes termos: a) apresentação quinzenal em juízo; b) impossibilidade de afastamento da Comarca por mais de 15 dias sem anuência do Juízo de primeiro grau; c) recolhimento noturno de segunda a sábado, das 20h às 06h, e domingos e feriados durante o dia inteiro; d) monitoração eletrônica" (Evento 45 - RELVOTO1; grifos no original).
+Incide, portanto, a Súmula 284 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia
+3. Prequestionamento
+Consoante a jurisprudência do Superior Tribunal de Justiça, "é condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento" (AgRg no AR Esp 553.958/MA, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 11/11/2014, Dje 27/11/2014).
+Aliás, ainda que "a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento" (AgRg no R Esp 1066014/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/04/2013, D Je 26/04/2013)
+ ..
+In casu, não foram analisados no acórdão recorrido nem quando do julgamento dos embargos de declaração, a atrair a aplicação da Súmula 211 do Superior Tribunal de Justiça e da Súmula 282 do Supremo Tribunal Federal, a alegação de violação aos artigos 617 e 626, parágrafo único, do Código de Processo Penal, porquanto "o novo julgamento não pode ser mais gravoso ao réu no que diz respeito à dosimetria da pena" (fl.716).
+Todavia, ao interpor agravo contra a decisão de inadmissibilidade, o recorrente deixou de impugnar especificamente o óbice da Súmula n. 284 do STF, bem como o óbice da Súmula n. 211 do STJ.
+Em suas razões recursais, alega o recorrente genericamente que:
+"Veja-se que as razões dissociadas no que foi decidido no acórdão recorrido, bem como o prequestionamento, tiveram seus requisitos perfectibilizados quando da oposição dos aclaratórios com efeitos Prequestionatórios, devolvendo à Câmara Julgadora matéria afeta aos dispositivos de Lei acima referidos, ou seja, anulado o Júri, o novo julgamento não pode ser mais gravoso ao réu no que diz respeito à dosimetria da pena." (fl. 735).
+O óbice da Súmula 284 da Suprema Corte deve ser refutado por meio de demonstração da efetiva impugnação no recurso especial das razões contidas no acórdão do Tribunal de origem - o que não ocorreu na hipótese.
+Ressalte-se que a impugnação ao óbice referente à Súmula n. 211 do STJ não se limita à simples afirmação de que houve oposição de embargos de declaração e que a tese foi debatida pela instância de origem, ainda que implicitamente, desprovida da indicação específica de seu enfrentamento, com a colação de excertos do acórdão recorrido acerca do ponto controvertido - o que não ocorreu na hipótese dos autos.
+Sendo assim, deixou de refutar concretamente os motivos da decisão de inadmissibilidade do recurso especial.
+Destarte, o agravo em recurso especial não deve ser conhecido por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade proferida no TJSP, consoante o art. 932, III, do Código de Processo Civil de 2015 - CPC. Citam-se precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1.199.706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/5/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO CONFIRMADA.
+A teor do do art. 253, parágrafo único, inciso I, c.c. o art. 1º, da Resolução n. 17/2013, ambos do Regimento Interno desta Corte, é manifestamente inadmissível o agravo que não impugna, especificamente, todos os fundamentos da decisão de admissibilidade.
+Agravo regimental desprovido.
+(AgRg no AREsp 982.371/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO NÃO CONHECIDO MONOCRATICAMENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODAS AS RAZÕES UTILIZADAS PELO TRIBUNAL DE JUSTIÇA LOCAL PARA INADMITIR O APELO NOBRE. ART. 932, III, do NCPC. INSURGÊNCIA DESPROVIDA.
+ ..
+3. O agravo não infirmou todos os fundamentos apontados pela Instância a quo para a inadmissão de seu apelo nobre, razão pela qual o inconformismo não foi conhecido monocraticamente pela Presidência deste Sodalício, com fulcro na norma insculpida no art. 932, III, do CPC/2015, combinado com o art. 1.º da Resolução STJ n.º 17/2013.
+4. Em sede recursal é necessário que a parte refute de forma direta os impedimentos apontados para a não admissão de seu apelo extremo, explicitando os motivos pelos quais estes não incidiriam na hipótese em testilha, ônus do qual o agravante não se desincumbiu, razão pela qual a decisão impugnada deve ser mantida por seus próprios fundamentos.
+5. Agravo a que se nega provimento.
+(AgRg no AREsp 880.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/10/2016.)
+Ante do exposto, com fundamento nos arts. 932, III, do CPC, e 253, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
