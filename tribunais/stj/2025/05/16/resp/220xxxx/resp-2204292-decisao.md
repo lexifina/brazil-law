@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARA GRASEL, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado (fl. 1.074):
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA - JUSTIÇA GRATUITA NÃO CONCEDIDA. INALTERAÇÃO DE CONDIÇÃO FINANCEIRA. RECURSO DE APELAÇÃO CÍVEL - DECISÃO MONOCRÁTICA E SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+1. Agravante em via de interposição de recurso de apelação não apresentou documentação a modificar situação financeira anterior que lhe ensejou indeferimento do juízo a quo de seu pedido.
+2. Assim tendo o fato de que a decisão do juízo de primeiro grau não foi combatida a reformar a denegatória por competente recurso, tenho que a matéria precluiu no tempo, com o aceite da agravante ao recolhimento das custas iniciais do processo.
+3. Por está razão, se houve modificação da situação financeira anterior, deveria a agravante comprovar por fatos e documentos das causas outras a modificar sua sorte, inclusive para fins de concessão do benefício da justiça gratuita. Mas a parte tão somente reproduziu, em repetição aos argumentos iniciais, a tentar a sorte, em sede de apelação em clara pretensão de reexame de matéria preclusa.
+4. Indeferido o pedido de assistência judiciária gratuita por decisão não reformada, é inviável a simples repetição do referido pleito em sede de apelação, sendo necessária a comprovação, de plano, de alteração da situação financeira que ensejou o indeferimento anterior, sob pena de configurar a pretensão de reexame de matéria preclusa que prontamente obsta o não conhecimento do recurso por deserção, sem necessidade de prévia intimação da parte.
+Nas razões do recurso especial, o recorrente alega, além de divergência jurisprudencial, que o acórdão recorrido violou os arts. 9º, 10, 99 e 101 do Código de Processo Civil.
+Sustenta que, ao ter seu pedido de Justiça gratuita negado, deveria ter sido intimada para recolher as custas do recurso de apelação de forma simples, no prazo de 5 dias, e não em dobro.
+Argumenta, também, que não houve a intimação para recolhimento das custas do recurso, após a decisão que indeferiu o pedido de concessão dos benefícios da Justiça gratuita, conforme previsão legal.
+Foram apresentadas contrarrazões (fls. 1.371 - 1.381) pugnando o não acolhimento do recurso especial.
+O recurso especial foi admitido às fls. 1.382 - 1.386.
+Assim delimitada a controvérsia, passo a decidir.
+Ao apreciar os documentos juntados aos autos, observo que, de fato, não há comprovação de pagamento do preparo no ato da interposição do recurso e a parte não comprovou a tempo o pagamento da guia de recolhimento de custas, o que caracteriza a deserção do recurso especial.
+Na hipótese, é relevante destacar que a Corte de origem já havia indeferido o pedido de Justiça gratuita e confirmado a preclusão consumativa da aludida pretensão, razão pela qual não há que se cogitar em ocorrência de decisão surpresa com relação à determinação de recolhimento das custas de recurso em dobro. Confira-se a propósito o pertinente trecho do acórdão abaixo reproduzido (e-STJ, fls. 1.078 - 1.079):
+A razão de insurgência em agravo a requerer reforma da decisão sentencial e monocrática, ao meu ver, não merece prosperar, haja vista que a agravante em via de interposição de recurso de apelação não apresentou documentação a modificar situação financeira anterior que lhe ensejou indeferimento do juízo a quo de seu pedido.
+Oportuno explicitar a fundamento da decisão interlocutória (ID 97001135) do Juízo de primeiro grau, mantida pela decisão monocrática a demonstrar da ausência de comprovação da condição de miserabilidade da parte a fazer jus ao recebimento dos benefícios da Justiça gratuita:
+(..)
+Assim tendo o fato de que a decisão do juízo de primeiro grau não foi combatida a reformar a denegatória por competente recurso, tenho que a matéria precluiu no tempo, com o aceite da agravante ao pagamento/recolhimento das custas iniciais do processo.
+Por está razão, se houve modificação da situação financeira anterior, deveria a agravante comprovar por fatos e documentos das causas outras a modificar sua sorte, inclusive para fins de concessão do benefício da justiça gratuita. Mas a parte tão somente reproduziu, em repetição aos argumentos iniciais, a tentar a sorte, em sede de apelação em clara pretensão de reexame de matéria preclusa (grifamos).
+(..)
+Assim diante da ausência de novas provas (mudança das suas condições) acerca da situação de miserabilidade da parte agravante, deve ser mantido o indeferimento do benefício já proferido na sentença e mantido em decisão monocrática, pois, restou afastada a presunção de que a agravante não possui condições de arcar com as despesas do processo sem prejuízo próprio e da família.
+Dessa forma, não se tratando de pedido de Justiça gratuita formulado originalmente no recurso em que se pretende a dispensa do recolhimento das custas (hipótese em que a deserção configuraria decisão surpresa), ou seja, uma vez previamente reconhecida a preclusão da pretensão de concessão dos benefícios da Justiça gratuita, não haveria, de fato a necessidade de intimação da parte para recolhimento do valor das custas de forma simples e, se não houve o cumprimento da intimação para recolhimento em dobro, o reconhecimento da deserção é medida que se faz impositiva no caso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO RECOLHIMENTO. PRÉVIA CONCESSÃO DA GRATUIDADE DE JUSTIÇA. NÃO COMPROVAÇÃO. PATROCÍNIO DA CAUSA PELA DEFENSORIA PÚBLICA. PRESUNÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA. IMPOSSIBILIDADE. DESERÇÃO DO RECURSO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, o simples fato de ser a parte representada pela Defensoria Pública não faz presumir sua hipossuficiência econômica, devendo a concessão da gratuidade de justiça observar os ditames legais.
+2. A concessão da gratuidade de justiça não tem efeito retroativo, de modo que o deferimento do pedido, posterior à interposição do recurso, não isenta a parte do recolhimento do respectivo preparo.
+3. No caso dos autos, não houve a comprovação da prévia concessão do benefício da gratuidade de justiça e, mesmo após a intimação, a parte deixou de realizar o recolhimento do preparo em dobro, o que induz à deserção do recurso especial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.735.640/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DESERÇÃO. RECOLHIMENTO EM DOBRO. INTIMAÇÃO. ARTIGO 1.007, § 4º, DO CPC/2015. ART. 99, § 5º, DO CPC/2015. ADVOGADO QUE NÃO É BENEFICIÁRIO. JUSTIÇA GRATUITA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não comprovado o recolhimento das custas devidas no momento da interposição do recurso especial, a parte recorrente, após intimação, deve promover o recolhimento em dobro, conforme disciplina o § 4º do artigo 1.007 do Código de Processo Civil de 2015.
+3. Na hipótese, a parte recorrente, apesar de devidamente intimada, efetuou o recolhimento simples dos valores devidos, o que acarreta a deserção do recurso.
+4. Conforme entendimento firmado no Superior Tribunal de Justiça, o recurso que verse exclusivamente acerca do valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que possui direito à gratuidade.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.931.135/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2022, DJe de 5/5/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA. JUSTIÇA GRATUIRA. PEDIDO FORMULADO EM RECURSO. INDEFERIMENTO. INTIMAÇÃO DO REQUERENTE PARA RECOLHIMENTO EM DOBRO. NÃO CABIMENTO. PREPARO QUE DEVE SER RECOLHIDO NA FORMA SIMPLES. PRECEDENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+(..)
+3. Cinge-se a controvérsia do recurso especial em definir se, indeferido o pedido de gratuidade de justiça realizado na petição do recurso, a parte recorrente deve ser intimada para o recolhimento simples ou em dobro do preparo.
+4. O acórdão do Tribunal de origem entendeu correta a intimação para o recolhimento em dobro do preparo e, tendo a parte efetuado o recolhimento simples, aplicou a pena de deserção ao recurso de apelação.
+5. A interpretação a ser dada ao § 7º do art. 99 do CPC/2015, quando fala em fixação de prazo para o recolhimento do preparo, somente pode ser no sentido de oportunidade para recolher o valor originalmente devido, ou seja, na forma simples. Eventual exigência de recolhimento do preparo em dobro, quando do indeferimento do pedido de gratuidade de justiça que foi efetuado na petição do recurso, traz indevida surpresa para a parte que postula o mencionado benefício e tem a pretensão rejeitada.
+(..)
+7. Embargos de declaração acolhidos com efeitos modificativos para dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp n. 1.317.073/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)
+Por outro lado, alterar a conclusão do acórdão recorrido especificamente no caso em apreço, o qual asseverou expressamente que o recurso especial é deserto, demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
