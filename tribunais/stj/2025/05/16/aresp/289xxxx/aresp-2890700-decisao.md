@@ -1,0 +1,40 @@
+DECISÃO
+Em agravo interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais, examina-se inadmissão de recurso especial, sob o fundamento de que a análise demandaria o reexame do conjunto fático-probatório, o que é vedado pelo verbete n. 07 da Súmula deste Superior Tribunal de Justiça.
+O recorrente foi condenado pela prática do crime previsto no artigo 121, §2º, I e IV, do Código Penal, por ato praticado em 31 de agosto de 2006, a uma pena de 14 (catorze) anos de reclusão, em regime inicial fechado. Em segunda instância, a sentença condenatória foi mantida e o trânsito em julgado ocorreu em 18/11/2020.
+O recorrente propôs revisão criminal e alegou, em relação a esta ação autônoma de impugnação, que houve nulidade na decisão de pronúncia, pois foi baseada somente em elementos colhidos na fase de investigação preliminar. Quanto ao julgamento realizado em Plenário do Tribunal do Júri, a defesa alega que a decisão foi manifestamente contrária à prova dos autos.
+O Tribunal de Justiça do Estado de Minas Gerais julgou improcedente o pedido revisional (e-STJ Fl. 1481), cuja ementa segue transcrita:
+EMENTA: REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. NULIDADE DA DECISÃO DE PRONÚNCIA. PRECLUSÃO. SENTENÇA CONTRÁRIA À EVIDÊNCIA DOS AUTOS. INOCORRÊNCIA. REPETIÇÃO DE FUNDAMENTOS JÁ APRECIADOS. 1. Eventual vício na decisão de pronúncia deve ser discutido por meio de recurso próprio, em momento oportuno, sob pena de preclusão. 2. Se o pedido revisional está amparado por fundamentos já apreciados e rejeitados nas vias ordinárias, incabível rediscuti-los, já que a revisão criminal não funciona como segunda apelação
+A defesa interpôs recurso especial, com fundamento no artigo 105, III, "a", da Constituição Federal, alegando violação aos artigos 155 e 413, §1º, do Código de Processo Penal. Alega que a decisão de pronúncia teve como base somente os elementos colhidos durante a investigação preliminar. Aponta, também, violação ao artigo 593, III, "d", do Código de Processo Penal, em razão da decisão ser manifestamente contrária à prova dos autos. Segundo alegado, a única testemunha ouvida em plenário assumiu a autoria delitiva. Por fim, aponta violação ao artigo 621, I, do CPP, que trata da revisão criminal, sob o argumento de que esta ação é admissível no caso de condenação contrária ao conjunto probatório.
+O recurso especial não foi admitido pelo tribunal de origem, sob o óbice do verbete de n. 7 da Súmula deste Superior Tribunal de Justiça (e-STJ Fl. 1582-1583).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ Fl. 1628-1631), pois aplicável o óbice da Súmula 7/STJ, tal como constatado pelo Terceiro Vice-Presidente do TJMG, mas não apenas ele, como também o da Súmula 83/STJ.
+É o relatório.
+Decido.
+O recurso especial foi inadmitido com base no óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Nas razões do agravo em recurso especial, o agravante alega que não se trata de reexame de provas, mas sim de questão unicamente de direito. Argumenta que busca uma reavaliação, sob o prisma jurídico, da correta aplicação dos dispositivos legais.
+Ocorre que a superação do óbice do verbete de n. 7 da Súmula do Superior Tribunal de Justiça exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, não bastando a mera alegação genérica de que busca discutir tão somente questão de direito. A discussão sobre a absolvição, por insuficiência probatória, t raz a necessidade de reexame das provas. O mesmo entendimento deve ser aplicado quanto ao valor probatório atribuído à testemunha que assumiu a autoria do crime, pois implica em reanálise dos fatos e das provas.
+Quanto ao óbice da Súmula 7, há julgados n esse sentido acerca deste tema:
+.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL INDEFERIDA. RECONHECIMENTO DE NULIDADE POR VIOLAÇÃO AO ART. 28 DO CÓDIGO DE PROCESSO PENAL - CPP.
+PRECLUSÃO. ABSOLVIÇÃO. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante à violação ao art. 28 do CPP, a Defesa não apontou o vício oportunamente, estando a nulidade prejudicada pela preclusão.
+Precedentes.
+1.1. Conforme consta na própria peça revisional, o desrespeito ocorreu anos antes de 2012, sendo o vício alegado apenas na presente revisão criminal formulada em 2019.
+2. O Tribunal de Justiça julgou improcedente a revisional em atenção à inocorrência da hipótese prevista no art. 621, I, do CPP. Assim, inviável sua desconstituição pela via do recurso especial, ante a incidência da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 187453/DF, Relator Ministro Joel Ilan Paciornik, Quinta Turma, Data do julgamento 03/05/2022, Data da publicação 06/05/2022).
+O Tribunal de origem, conforme mencionado anteriormente, entendeu que a revisão criminal não era cabível em razão de a Defesa ter apresentado os mesmos argumentos, sem trazer fatos ou provas novos. Neste sentido é o entendimento deste Tribunal Superior:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ORGANIZAÇÃO CRIMINOSA E ROUBO MAJORADO. VIOLAÇÃO DO
+PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ILEGALIDADE DAS PROVAS.
+ABSOLVIÇÃO. REVISÃO CRIMINAL INDEFERIDA PELO TRIBUNAL DE ORIGEM. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 621 O CPP. REAPRECIAÇÃO DAS
+PROVAS DOS AUTOS. UTILIZAÇÃO COMO SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. PENA-BASE. FALTA DE INSTRUÇÃO. TESE EXAMINADA EM OUTRA IMPETRAÇÃO. ANÁLISE EXPRESSA DE TODAS AS TESES DEFENSIVAS. MOTIVAÇÃO SUFICIENTE. NÃO OBRIGATORIEDADE. CONSTRANGIMENTO ILEGAL NÃO VERFICADO.
+1. Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+2. É firme o entendimento desta Corte Superior de ser inadmissível a "revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/2/2016, DJe 25/2/2016).
+3. Hipótese em que o Tribunal de origem indeferiu a revisão criminal por não verificar a ocorrência de nenhuma das hipóteses do art. 621 do Código de Processo Penal, visto que a defesa não logrou demonstrar nenhuma incongruência na decisão impugnada nem trouxe provas novas aos autos. Buscou, na verdade, apenas o reexame de teses já arguidas e apreciadas, exaustivamente, na apelação criminal.
+4. Especificamente quanto às teses relativas à dosimetria penal, além do fato da defesa não ter juntado aos autos cópia integral do julgamento do recurso de apelação, verificou-se que a questão foi suscitada pela defesa nesta Corte em outra impetração, inviabilizando o seu exame.
+5. Segundo Jurisprudência desta Corte Superior, "o julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas" (AgRg no AREsp n. 1.130.386/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 8/11/2017).
+6. Agravo regimental não provido.
+(AgRg no RHC 169137/TO, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, Data do julgamento 13/09/2022, Data da publicação 19/19/2022).
+Neste contexto, o agravo, pois, deixa de indicar, com clareza e objetividade, a desne cessidade do reexame dos fatos e das provas.
+Pelo exposto, na forma do artigo 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
