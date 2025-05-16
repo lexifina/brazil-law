@@ -1,0 +1,14 @@
+DECISÃO
+ANTONIO JEREMIAS DE PAULA MORAES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação criminal n. 1.117.915-0)
+Consta dos autos que o paciente foi condenado pela prática dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo à pena de 6 anos, 9 meses e 18 dias de reclusão em regime inicial fechado, mais 660 dias-multa.
+A defesa requer seja reconhecida a ilegalidade do ingresso domiciliar, bem como ilicitude das provas encontradas por meio da referida diligência. Por estes argumentos, pede a absolvição do réu.
+Em caráter liminar, requer a suspensão da execução penal.
+Decido.
+Em consulta ao sistema do Tribunal estadual, verifico que a condenação contra a qual a defesa se insurge nesta ocasião já transitou em julgado, havendo-se dado baixa do processo na origem em 7/4/2014. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe15/3/2024).
+Apesar da ampliação do uso do writ, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Assim, não está em curso processo do qual o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a eventualidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP). Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
