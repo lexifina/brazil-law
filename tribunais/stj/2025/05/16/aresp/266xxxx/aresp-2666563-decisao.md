@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por QUALICORP ADMINISTRADORA DE BENEFÍCIOS S.A. e UNICONSULT - ADMINISTRADORA DE BENEFÍCIOS E SERVICOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 703):
+APELAÇÃO. PLANO DE SAÚDE. Obrigação de fazer com pedido de tutela antecipada cumulada com reparação de danos morais e materiais. Autorização para realização de parto a termo, isento de carências, conforme plano de saúde contratado. Recursos de todos os réus. Alegações de ilegitimidade de parte, ausência de danos morais ou materiais, alternativamente necessidade de arbitramento dos danos morais em patamar moderado. Descabimento. Responsabilidade civil por parte de toda a cadeia de fornecedores. Violação de direito básico da consumidora, que em situação vulnerável, grávida e próximo ao tempo do parto, não foi informada a respeito da impossibilidade de isenção de carências (plano carência zero). Reparação que se impõe, com o custeio de despesas negadas pelos requeridos. Danos morais. Cabimento. Recusa que extrapolou o mero aborrecimento. Minoração dos valores fixados. Descabimento. Manutenção que se impõe. Sentença mantida. Adoção do art. 252 do RITJ. RECURSOS DESPROVIDOS.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão estadual violou os arts. 485, VI, do CPC (legitimidade), 14, § 3º, II, do CDC (responsabilidade) e 944, parágrafo único, do CC (indenização).
+Sustenta que é parte ilegítima para figurar no polo passivo da ação, pois atua apenas como administradora de benefícios, sem responsabilidade sobre a cobertura de procedimentos médicos.
+Ademais, afirma que não houve falha na prestação de serviços nem negativa de cobertura, tornando indevida a condenação por danos morais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 794-810).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls.811-813), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 835-843).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Em relação à apontada ofensa aos arts. 485, VI, do CPC, 14, § 3º, II, do CDC e 944, parágrafo único, do CC, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Isso ocorre porque modificar as premissas adotadas pelo Tribunal de origem, relativas à legitimidade passiva da QUALICORP, à responsabilidade civil da administradora e ao cabimento de indenização por danos morais, exigiria revisão de cláusulas contratuais e reexame de fatos e provas, o que é vedado no âmbito do recurso especial, conforme estabelecido nas mencionadas súmulas.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATAÇÃO. FALHA. PRESTAÇÃO. SERVIÇOS. RELAÇÃO DE CONSUMO. ILEGITIMIDADE PASSIVA. DANO MORAL. ATO ILÍCITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA. PREQUESTIONAMENTO. SÚMULA Nº 282/STF. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. Na hipótese, o acolhimento da pretensão recursal para infirmar a conclusão do acórdão recorrido acerca da legitimidade de parte, realização do contrato entre as partes, ocorrência do dano moral e de configuração de ato ilícito demandaria o reexame das provas dos autos. Aplicabilidade da Súmula nº 7/STJ.
+2. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo.
+3. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a incidência da Súmula nº 7/STJ obsta a admissão do recurso por quaisquer das alíneas do permissivo constitucional.
+4. Não há como se conhecer do dissídio quando a parte recorrente não promoveu a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+5. A questão acerca da litigância de má-fé não foi objeto de debate pelo Tribunal de origem, o que atrai a incidência da Súmula nº 282/STF.
+6. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.642.478/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ERRO MÉDICO. RESPONSABILIDADE DA OPERADORA DO CONVÊNIO. PROFISSIONAL CREDENCIADO. PRECEDENTES. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Em relação à legitimidade da operadora do convênio para figurar no polo passivo da demanda, a orientação jurisprudencial desta Corte Superior se firmou no sentido de que, sendo o contrato fundado na prestação de serviços médicos e hospitalares próprios ou credenciados, no qual a operadora de plano de saúde mantém hospitais e emprega médicos ou indica um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço (AgInt no AREsp n. 1.590.763/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe de 31/3/2020).
+3. De fato, "A jurisprudência desta Corte Superior reconhece que a operadora de plano de saúde é solidariamente responsável pelos danos decorrentes de falha ou erro na prestação de serviços do estabelecimento ou médico conveniados" (REsp n. 1.901.545/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 8/6/2021, DJe de 11/6/2021).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou nova interpretação de cláusulas pactuadas (Súmulas n. 5 e 7 do STJ).
+5. No caso, o Tribunal de origem, com base nos fatos e nas provas dos autos, bem como nas cláusulas contratuais, considerou existir legitimidade passiva da ora recorrente e danos morais oriundos do erro médico. Alterar essa conclusão demandaria reexame dos fatos e das provas, além de revisão dos termos pactuados, providências vedadas em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.962.077/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. LEGITIMIDADE PASSIVA, RESPONSABILIDADE DA ADMINISTRADORA E DANOS MORAIS RECONHECIDOS. REVISÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO IMPROVIDO.
