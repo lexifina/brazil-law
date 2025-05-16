@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO ANTONIO TAVANO sob a alegação de omissão, contradição, obscuridade e ambiguidade na decisão embargada.
+Em suas razões, pontua a defesa que "o Embargante impetrou o presente Habeas Corpus na data de 12/04/23 juntando aos autos duas autorizações da Anvisa, uma com data de validade até 24 de outubro de 2024 (ID 281921644) e outra com data de validade até 18 de maio de 2024 (ID 281931299). Houve a concessão da ordem em primeira instância e a reforma da sentença de Piso ocorreu por meio do recurso voluntário no dia 10 de maio de 2024, mesmo assim não houve e não há que se perquirir ou condicionar a validade da autorização conforme a decisão recorrida, pois mesmo no momento da reforma da sentença no TRF3 as autorizações estavam válidas" (e-STJ fl. 990).
+Defende, ainda, a desnecessidade da juntada de laudo agronômico, tal como entendeu o Juízo de primeiro grau.
+No mais, repete a tese de que o embargante faz jus à obtenção de salvo-conduto para o cultivo de cannabis.
+Busca, assim, sejam sanados os vícios apontados.
+É o relatório.
+Decido.
+Não constato a existência dos vício indicados.
+Como cediço, nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte, tal como pretende a defesa.
+Consoante salientado na decisão embargada, não obstante tenha a Terceira Seção do Superior Tribunal de Justiça uniformizado o entendimento acerca da possibilidade do cultivo doméstico da Cannabis sativa para fins medicinais, desde que comprovada a necessidade terapêutica e obtida a devida licença da ANVISA, devendo ser contida a repressão criminal da conduta, a fim de garantir o direito à saúde e ao bem-estar físico e mental da pessoa acometida de condição clínica que necessite do uso medicamentoso da referida substância, até que seja regulamentado pelo Poder Executivo Federal o art. 2º, parágrafo único, da Lei n. 11.343/2006, a defesa não instruiu os autos com os documentos necessários à análise da controvérsia, pois a autorização para importação de produto derivado de cannabis, acostado ao processo, era válida até 18/5/2024, não tendo a defesa apresentado documento atualizado. Do mesmo modo, ausente o imprescindível laudo agronômico indicando a quantidade necessária ao cultivo para atender às prescrições médicas.
+A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL. IMPORTAÇÃO DE SEMENTES E CULTIVO DE CANNABIS SATIVA PARA FINS MEDICINAIS. SALVO-CONDUTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, em razão da ausência de ilegalidade que justificasse a concessão da ordem de ofício. O pedido visava à concessão de salvo-conduto para que agentes policiais se abstivessem de atentar contra a liberdade de locomoção do paciente, em razão importação, do plantio e utilização da cannabis sativa para tratamento medicinal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a concessão de salvo-conduto para o cultivo de cannabis sativa para fins medicinais, sem a devida comprovação documental exigida, como autorização da ANVISA e laudo médico atualizado atualizados e laudo técnico sobre o cultivo.
+III. Razões de decidir
+3. A decisão agravada foi mantida por seus próprios fundamentos, considerando que a documentação apresentada pelo agravante estava desatualizada e insuficiente para comprovar a necessidade do tratamento e a capacidade técnica para o cultivo.
+4. A ausência de autorização da ANVISA, laudo médico atualizado e laudo técnico de engenheiro agrônomo inviabiliza a concessão do salvo-conduto, conforme entendimento consolidado do Tribunal Superior.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A concessão de salvo-conduto para o cultivo de cannabis sativa para fins medicinais exige documentação idônea e atualizada, incluindo autorização da ANVISA e laudos médicos e técnicos. 2. A ausência de tais documentos inviabiliza a concessão do salvo-conduto." Dispositivos relevantes citados: Não há dispositivos legais específicos citados. Jurisprudência relevante citada: STJ, AgRg no HC 754.849/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 07.05.2024; STJ, AgRg no RHC 198.124/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 02.09.2024.
+(AgRg no HC n. 948.863/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SALVO-CONDUTO PARA USO MEDICINAL DE CANNABIS. AUTORIZAÇÃO DE IMPORTAÇÃO DO MEDICAMENTO VENCIDA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se buscava a expedição de salvo-conduto para posse, uso e cultivo de cannabis para fins medicinais.
+2. A decisão impugnada destacou a necessidade de apresentação de autorização válida da Anvisa para importação de cannabis, além de laudo médico e receituário detalhando as moléstias do requerente e a prescrição indicada.
+3. A autorização de importação anexada estava vencida, devendo ser renovada para posterior exame judicial acerca da concessão de salvo-conduto.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a superveniente expiração de validade de um documento durante o curso do trâmite processual pode ser atribuída ao impetrante ou se deve ser considerada em razão da morosidade do sistema judiciário.
+III. Razões de decidir
+5. O agravante não apresentou argumentos novos capazes de infirmar a decisão impugnada, que foi mantida por seus próprios fundamentos.
+6. O acolhimento do pedido defensivo está condicionado à apresentação de todos os documentos exigidos pela jurisprudência, incluindo autorização válida da ANVISA.
+7. A expiração da autorização de importação durante o curso do processo não pode ser atribuída ao impetrante, mas a renovação é necessária para o exame judicial do pedido.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A apresentação de autorização válida da Anvisa é condição para o exame judicial de salvo-conduto para uso medicinal de cannabis. 2. A expiração de validade de documentos durante o processo não exime a necessidade de renovação para concessão do pedido".
+Dispositivos relevantes citados: Não há dispositivos legais específicos citados. Jurisprudência relevante citada: STJ, REsp 1.972.092/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14.06.2022.
+(AgRg no HC n. 956.918/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2025, DJEN de 20/3/2025, grifei.)
+Friso: além de expirada a validade de documento essencial, não consta dos autos o imprescindível laudo técnico apontando a quantidade necessária ao cultivo para atender às prescrições médicas.
+Sendo assim, aplicam-se à espécie, conforme colacionado acima, os entendimentos desta Casa no sentido de que "a concessão de salvo-conduto para o cultivo de cannabis sativa para fins medicinais exige documentação idônea e atualizada, incluindo autorização da ANVISA e laudos médicos e técnicos" (AgRg no HC n. 948.863/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025, grifei) e de que "a apresentação de autorização válida da Anvisa é condição para o exame judicial de salvo-conduto para uso medicinal de cannabis. A expiração de validade de documentos durante o processo não exime a necessidade de renovação para concessão do pedido" (AgRg no HC n. 956.918/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2025, DJEN de 20/3/2025, grifei).
+Por fim, saliento que "a jurisprudência desta Corte Superior de Justiça é firme que "não cabe ao tribunal, que não é órgão de consulta, responder a questionários postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do decisum de inadmissibilidade dos embargos de retenção" (EDcl no REsp n. 739/RJ, Relator Ministro Athos Carneiro, in DJ 12/11/1990)" (EDcl no AgRg no Ag n. 1.182.329/SC, relator o Ministro Hamilton Carvalhido, DJe de 30/9/2010).
+Nesse sentido:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir obscuridade e contradição, nos termos do art. 535 do CPC, vícios não verificados na espécie (EDcl na Rcl 12196/SP, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe de 4/6/2014).
+2. Não está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nos casos em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial (REsp 1259899, Rel. Ministra Assusete Magalhães, DJ de 7/4/2014).
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, materializada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração (EDcl no RHC 41656/SP, Rel. Ministra Laurita Vaz, Quinta Turma, DJe de 3/6/2014).
+4. Os embargos de declaração, ainda que manejados com propósito de prequestionamento, são cabíveis tão somente nas restritas hipóteses do art. 535 do CPC, quando "houver, na sentença ou no acórdão, obscuridade ou contradição" ou quando "for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal", vícios não encontrados no provimento atacado (EDcl no AgRg no RMS 44.612/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/08/2015).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no RHC 63.290/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/2/2016, DJe 15/2/2016, grifei.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OMISSÃO. INEXISTÊNCIA. REVISÃO DA MATÉRIA A EXIGIR O EXAME DO MATERIAL COGNITIVO PRODUZIDO NOS AUTOS. INVIABILIDADE. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não há falar em omissão do acórdão embargado na hipótese em que a matéria foi decidida com a devida e clara fundamentação, sufragando-se, o entendimento de que as condutas imputadas aos réus não se enquadram na seara da prática de fraudes, ardis ou artifícios, em atos de gestão, administração ou gerência da instituição financeira, com potencial de prejudicar a saúde financeira da instituição, o que afasta a subsunção ao art. 4º, caput, da Lei n.º 7.492/86.
+2. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão -, e não à revisão de decisão de mérito, com a qual não se conforma o embargante.
+3. A obrigatoriedade de fundamentação das decisões judiciais, prevista no texto constitucional, não impõe, ao Magistrado, o dever de responder a todos os questionamentos das partes, tampouco utilizar-se dos fundamentos que entendam ser os mais adequados à solução da causa, bastando a fundamentação suficiente ao deslinde da questão, o que ocorreu na espécie.
+4. A revisão da matéria, tal qual pleiteado, exigiria o revolvimento do material cognitivo produzido nos autos, o que é inviável na via eleita, a teor do enunciado sumular 7/STJ.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 717.447/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/4/2015, DJe 24/4/2015, grifei.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PREVIDENCIÁRIO. ACÓRDÃO RECORRIDO. OMISSÃO. INEXISTÊNCIA. ARTS. 463, I E II, 467, 468, 475 -G E 485, V, DO CPC. FALTA DE PREQUESTIONAMENTO. CONTEÚDO NORMATIVO NÃO DEBATIDO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE INDICAÇÃO COMO PONTO OMITIDO NO RECURSO ESPECIAL. INEXIGÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO. EXCESSO DE EXECUÇÃO. AFERIÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DIVERGÊNCIA NÃO CONFIGURADA.
+1. Apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do ora agravante. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes, mormente se notório o caráter de infringência do julgado.
+ ..
+(AgRg no REsp 1127517/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/3/2014, DJe 10/4/2014, grifei.)
+À vista do exposto, rejeito os presentes aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
