@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SEBASTIÃO NUNES DO NASCIMENTO à decisão de fls. 1.272-1.276, que negou provimento ao agravo em recurso especial e majorou os honorários advocatícios em 10%.
+O embargante sustenta que a decisão monocrática foi omissa ao não considerar sua incapacidade parcial e permanente de leve intensidade (25%), conforme reconhecido pelo Tribunal de origem.
+Sustenta que a Súmula n. 7 do STJ não se aplica ao caso, pois não se trata de reapreciação de matéria probatória, mas de nova valoração jurídica da matéria já colocada no acórdão estadual recorrido.
+Afirma que a decisão embargada deixou de analisar a divergência jurisprudencial.
+Requer o acolhimento dos embargos de declaração.
+A parte embargada apresentou impugnação, alegando que os embargos de declaração não merecem prosperar, pois não há omissão, obscuridade, contradição ou erro material na decisão embargada. Afirma que a decisão embargada está em perfeita harmonia com a jurisprudência dominante do STJ e que o recurso busca apenas rediscutir matéria fático-probatória, o que é vedado pela Súmula n. 7 do STJ. Requer a rejeição dos embargos e a manutenção da decisão embargada sem pedido de aplicação de multa ou majoração de honorários (fls. 1.285-1.287).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No caso em apreço, verifica-se que, de fato, existe omissão quanto ao tópico relacionado ao dissídio jurisprudencial, o qual passo a analisar.
+O recorrente aponta a existência de dissídio jurisprudencial quanto à exclusão do pedido de pensionamento vitalício, sob o argumento de que ainda exerce a mesma atividade laborativa.
+Destaca que o Tribunal de Justiça do Estado de Mato Grosso do Sul (acórdão paradigma), interpretando o art. 950 do CC, estabelece que cabe pensão mensal vitalícia mesmo que o jurisdicionado continue exercendo atividade remunerada e mesmo que sua remuneração não tenha sofrido redução.
+Contudo, no tocante ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+No mais, não há falar na existência de omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil.
+No presente caso, quanto à não concessão de pensionamento vitalício a despeito da alegada incapacidade parcial e permanente de leve intensidade (25%), o embargante não aponta omissão passível de ser sanada pelo STJ em embargos de declaração,
+Apenas demonstra seu interesse na reanálise da questão referente à não concessão do pensionamento vitalício pelo Tribunal a quo, à existência de incapacidade permanente e à não incidência da Súmula n.7 do STJ.
+Segundo o entendimento da Corte Especial, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgados em 25/8/2020, DJe de 28/8/2020).
+Ademais, a mera irresignação do embargante com o entendimento adotado no julgamento do agravo não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021, DJe de 15/12/2021).
+Dessa forma, apenas nesse ponto, não há irregularidade sanável por meio dos presentes embargos, porquanto, em relação a essa questão, toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, acolho em parte os embargos de declaração para sanar a omissão em relação à análise do dissídio jurisprudencial, nos termos da fundamentação acima , sem efeitos modificativos.
+Publique-se. Intimem-se.
+EMENTA
