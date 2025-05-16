@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JOAO IUNES DE SIQUEIRA em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO, referente ao julgamento do HC n. 6006718-62.2024.4.06.0000.
+Consta dos autos que o recorrente foi inicialmente condenado pelo Juízo da Vara Única Federal da Subseção Judiciária de Passos/MG, na ação penal n. 0001674-62.2012.4.01.3804, pela prática dos delitos capitulados no art. 55, caput, da Lei 9.605/1998, e no art. 2º da Lei 8.176/1991, à pena de 1 (um) ano e 4 (quatro) meses de detenção e 23 (vinte e três) dias-multa (fls. 19-48).
+Ambas as partes apelaram ao Tribunal Regional Federal da 6ª Região, que negou provimento ao recurso da defesa e proveu parcialmente o recurso da acusação, redimensionando a pena do recorrente para 3 (três) anos e 6 (seis) meses de detenção e 105 (cento e cinco) dias-multa (fls. 67-78). O trânsito em julgado foi certificado em 23 de abril de 2024 (fl. 79).
+A defesa impetrou o HC n. 6006718-62.2024.4.06.0000 perante o Tribunal Regional Federal da 6ª Região, apontando como autoridade coatora o Juízo da 1ª Vara Federal Criminal da Subseção Judiciária de Passo/MG, objetivando a concessão da ordem para que fosse reconhecida a prescrição da pretensão punitiva. A ordem foi denegada (fls. 119-126).
+No presente recurso em habeas corpus, pleiteia-se o seu provimento para que seja declarada a extinção da punibilidade em razão da prescrição punitiva.
+O Ministério Público Federal opinou pelo desprovimento (fls. 157-159).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal, consubstanciado pela negativa ao reconhecimento da prescrição punitiva, em razão de o recorrente ter mais de 70 anos na data do acórdão condenatório.
+Da análise dos autos, verifico que a publicação da sentença ocorreu em 16/06/2016; a sessão de julgamento do acórdão em 25/03/2024 (fl. 95), e o trânsito em julgado, ocorrido em 23/04/2024 (fl. 79).
+O art. 115 do Código Penal dispõe que serão reduzidos pela metade os prazos de prescrição quando o réu for, na data da sentença penal condenatória, maior de 70 (setenta) anos.
+Art. 115 - São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos.
+Na espécie, verifica-se que, na data da sentença penal condenatória, o recorrente tinha apenas 67 (sessenta e sete) anos, não fazendo jus, portanto, à redução dos prazos de prescrição previstos no art. 109 do Código Penal.
+Embora o recorrente afirme que já tinha mais de setenta anos na data do acórdão condenatório, o art. 115 do Código Penal confere o direito à redução do prazo somente àqueles que tinham mais de 70 anos na data da sentença penal condenatória, não estendendo tal benefício ao momento do acórdão.
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 182/STJ. PRESCRIÇÃO INTERCORRENTE E RETROATIVA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE AMPLIAÇÃO DO OBJETO DO RECURSO. AUSÊNCIA DE PREQUESTIONAMENTO. REDUÇÃO DO PRAZO PRESCRICIONAL. NÃO INCIDÊNCIA DO ART. 115 DO CP. IDADE INFERIOR A 70 ANOS NA DATA DA SENTENÇA. RECURSO NÃO CONHECIDO.
+1. Da análise das razões do regimental, verifica-se que a pretensão recursal esbarra no óbice da Súmula n. 182 desta Corte Superior, porquanto o recorrente não impugna os fundamentos da decisão monocrática. Precedentes.
+2. No que tange ao pedido de declaração da prescrição punitiva nas modalidades intercorrente e retroativa, a matéria não foi objeto de análise pelo Tribunal a quo, tampouco apresentada no recurso especial, sendo trazida exclusivamente nas razões recursais do agravo regimental.
+3. Nos termos da orientação jurisprudencial pacífica desta Corte Superior, "é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do recurso especial" (AgRg no AREsp n. 1.141.996/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023). Na mesma linha, "é inviável a análise de matéria não suscitada no recurso especial e apresentada posteriormente, em agravo regimental e/ou embargos de declaração, caracterizando inovação recursal" (EDcl no AgRg no AREsp n. 1.375.327/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/3/2021, DJe de 5/3/2021).
+4. É firme o entendimento do Superior Tribunal de Justiça no sentido de que até mesmo as matérias de ordem pública não dispensam o requisito do prequestionamento. Incidência da Súmula n. 282/STF.
+Precedentes.
+5. Conforme o entendimento consolidado do Superior Tribunal de Justiça e do Supremo Tribunal Federal e, o critério etário dos 70 (setenta) anos, para fins de incidência do art. 115 do Código Penal, ocorre na data da publicação da primeira decisão condenatória, não havendo que se falar em redução do prazo prescricional pela metade quando o agente atinge a senilidade em data posterior no curso do processo. Precedentes.
+6. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.577.759/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.)
+Portanto, como a pena do recorrente foi de 3 (três) anos e 6 (seis) meses de detenção, o prazo prescricional aplicável é o previsto no art. 109, inciso IV, do Código Penal, qual seja, 8 (oito) anos.
+Tendo em vista que entre a publicação da sentença, ocorrida em 16/06/2016, e a sessão de julgamento do acórdão, ocorrida em 25/03/2024, não transcorreu mais de 8 (oito) anos, não há falar em declaração da extinção da punibilidade em razão de pre scrição.
+Ante o exposto, conheço do recurso em habeas corpus e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
