@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por A.M ENGENHARIA E CONTRUCOES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. REVITALIZAÇÃO DE FACHADA E ÁREAS COMUNS DE CONDOMÍNIO EDILÍCIO. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REQUISITOS PRESENTES. SERVIÇO ENTREGUE PARCIALMENTE E COM BAIXA QUALIDADE. IMPROCEDÊNCIA. SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I, do CPC, no que concerne à comprovação dos serviços prestados e o inadimplemento da parte recorrida tal como alegado na petição inicial, razão pela qual os pedidos devem ser julgados procedentes independentemente da perícia realizada 8 anos depois das reformas, trazendo a seguinte argumentação:
+Segundo a inicial, a Recorrente é credora do Recorrido em razão de 01 (um) Contrato de Prestação de Serviços, que teve 02 (dois) aditamentos, descritos abaixo.
+O Contrato de Prestação de Serviços, assinado em 24/04/14, teve como objeto serviços de reforma e pintura nas fachadas e outras áreas comuns, tudo descrito na Cláusula Segunda do referido contrato. O valor deste contrato foi de R$122.560,00, para ser pago em 20 parcelas fixas de R$6.128,00, iniciando-se em 10/05/14, tudo conforme consta no contrato.
+AQUI NADA FOI PAGO.
+O 1º. Aditamento ao Contrato, assinado em 09/05/14, teve como objeto a alteração dos valores e condições a serem pagos, sendo que este aditivo alterou o valor total do contrato, que passou para R$121.794,00, devendo ser pago uma entrada de R$12.639,00, a ser paga no dia 13/05/14, mais 19 parcelas fixas de R$5.745,00, iniciando-se em 10/06/14, tudo conforme consta neste aditivo. AQUI FOI PAGO O VALOR DA ENTRADA E AS DEMAIS PARCELAS ATÉ O ADITAMENTO ABAIXO.
+O 2º. Aditamento ao Contrato, assinado em 02/02/15, teve como objeto o acréscimo de serviços, tudo descrito na Cláusula Segunda do referido aditivo. Nesta época, restavam em aberto 11 parcelas de R$5.745,00. O valor deste aditivo, diante do acréscimo acima, foi de R$5.999,95 mais R$5.745,00, que somados atinge o total de R$11.744,95. O valor de R$5.999,95 ficou de ser pago em 11 parcelas fixas de R$545,45, parcelas estas que seriam acrescidas nas 11 (onze) ultimas parcelas do 1º. aditamento acima. Assim, o valor da parcela passou-se para R$6.290,45. O início do pagamento seria o dia 10/02/15. Já o valor de R$5.745,00, ficou de ser pago em 03 parcelas fixas de R$1.915,00, com vencimento para os dias 10/01/16, 10/02/16 e 10/03/16. O RECORRIDO PAGOU 09 DAS 11 PARCELAS DE R$6.290,45, DEIXANDO DE PAGAR AS 02 ÚLTIMAS, E NADA PAGOU ACERCA DAS 03 PARCELAS DE R$1.915,00.
+ ..
+HOUVE A REALIZAÇÃO DE PERÍCIA, CUJO RESULTADO FOI IMPUGNADO, VEZ QUE O ILUSTRE PERITO NÃO OBSERVOU O LÁPSO TEMPORAL DA OBRA E DA REALIZAÇÃO DA PERÍCIA.
+VEJA QUE A PERÍCIA FOI REALIZADA 08 ANOS APÓS OS SERVIÇOS. CLARO ENTÃO QUE ALGUNS DOS SERVIÇOS PODEM SIM ESTAREM DANIFICADOS PELA AÇÃO DO TEMPO.
+(fls. 840).
+ORA, MAIS UMA VEZ, HÁ NOS AUTOS PROVA CABAL DA REGULARIDADE DA REFORMA, CORROBORADA PELA PROVA ORAL. AQUI HOUVE VIOLAÇÃO AO ARTIGO 373, I, DO CPC.
+POR OUTRO LADO, CABIA AO RECORRIDO PROVAR AS SUAS ALEGAÇÕES. ISSO PORQUE, AO ALEGAR UM FATO IMPEDIDTIVO DO DIREITO, COUBE O ÔNUS DA PROVA AO RECORRIDO, QUE NÃO SE DESINCUMBIU, POIS NADA PROVOU A RESPEITO. A PERÍCIA, PELAS RAZÕES ACIMA, NÃO PODE SER VISTA COMO PROVA CABAL, POIS ELA FALHOU DIANTE DO LÁPSO TEMPORAL E DO PRAZO DE GARANTIA JÁ EXPIRADO.
+EM RESUMO, MANTER UM ACÓRDÃO DESTE É ATRAIR ILEGALIDADE E INJUSTIÇA, CAUSANDO DEVERAS VIOLAÇÕES AO CITADO ARTIGO ACIMA E TRAZENDO INSEGURANÇA JURÍDICA (fls. 837/844).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso, como relatado, a autora/apelante pretende receber R$ 18.325,90 (dezoito mil trezentos e vinte e cinco reais e noventa centavos) com lastro no contrato de prestação de serviços firmado em 24/04/2014, para a reforma, revitalização e pintura da fachada, bem como das áreas comuns do condomínio / apelado.
+Todavia, a prova pericial produzida evidenciou que ela (autora / apelante) não entregou todos os serviços para os quais foi contratada, senão vejamos
+ ..
+Vale dizer que o assistente técnico indicado pela ré, em seu substancioso e bem elaborado laudo, elencou nove (09) "patologias" dos serviços, quais sejam:
+a) "falta de uniformidade no acabamento da recuperação de rebocos e revestimentos soltos"; b) "manchas na repintura"; c) "falta de uniformidade na cor da pintura"; d) "aplicação insuficiente ou ausência de acabamento texturizado"; e) "empolamento (bolhas) / descascamento da repintura"; f) "fissuras na camada de tinta"; g) "descascamento de tinta sobre reboco ou concreto"; h) "desagregamento do revestimento / pintura exterior"; i) "trincas e fissuras no revestimento externo".
+Além disso, também ilustrou graficamente cada uma das patologias.
+ ..
+Portanto, como bem concluiu o d. Magistrado, o réu/ apelado conseguiu comprovar fato impeditivo ao direito da autora, porque o contrato tem natureza sinalagmática e, assim, a obrigação postulada na inicial somente poderia ser exigida - inclusive em parte -, após a realização da contraprestação que lhe corresponde, como a entrega completa das obras, com qualidade.
+Logo, no caso dos autos, aplica-se a exceção do contrato não cumprido - exceptio non adimpleti contratus -, prevista no art. 476 do Código Civil, que dispõe: "nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro" (fls. 812/816).
+Tal o contexto, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda, indubitavelmente, reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
