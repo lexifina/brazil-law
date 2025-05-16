@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIRECIONAL ENGENHARIA S.A. e OUTRA contra a decisão que inadmitiu o recurso especial com fundamento na sua intempestividade.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 1.004.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de pretensão indenizatória por danos morais e materiais.
+O julgado foi assim ementado (fl. 901):
+APELAÇÕES CÍVEIS - PRETENSÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS - COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA - PRAZO DE TOLERÂNCIA - CLÁUSULA CONTRATUAL AMBÍGUA - REPARAÇÃO MATERIAL - DANOS EMERGENTES - LUCROS CESSANTES - CUMULATIVOS - VÍCIOS CONSTRUTIVOS - PROVA UNILATERAL - DANOS MORAIS - CONFIGURADOS - HONORÁRIOS SUCUMBENCIAS - SUCUMBÊNCIA RECÍPROCA. 1. Seja pela previsão do art. 423 do Código Civil, seja pela previsão do art. 47 do Código de Defesa do Consumidor, as cláusulas contratuais ambíguas devem ser interpretadas de modo mais favorável ao aderente/consumidor. 2. Considerando que o contrato de compra e venda não especifica prazo para a efetiva entrega da unidade imobiliária, aplica-se ao caso o prazo de 180 dias. 3. O descumprimento contratual ensejou, além dos danos emergentes, lucros cessantes em virtude da impossibilidade de fruição do imóvel, de modo que não configura bis in idem a cumulação das referidas condenações. 4. Nos casos de atraso na entrega de imóvel por responsabilidade exclusiva da construtora, é presumível o prejuízo do promitente comprador, em razão da privação da fruição do bem. Precedente do Superior Tribunal de Justiça (STJ). 5. Laudo técnico apresentado não é, por si só, hábil a evidenciar o direito vindicado, uma vez que consiste em prova unilateral, produzida sem o crivo do contraditório. 6. O atraso injustificado no cumprimento de contrato de compra e venda de imóvel destinado à moradia, por longo período, gera abalo passível de indenização por danos morais. 7. Os ônus sucumbenciais devem ser distribuídos proporcionalmente ao grau de sucumbência de cada parte, nos termos do art. 86 do CPC.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos arts. 186 e 927 do Código Civil.
+Alega que a condenação por danos morais é indevida, pois o atraso na entrega do imóvel não ultrapassa o mero dissabor.
+Sustenta que o Tribunal de origem divergiu ao entender que o atraso na entrega do imóvel gera danos morais, enquanto outros tribunais consideram tal atraso como mero dissabor, citando acórdãos dos Tribunais de Justiça dos Estados do Rio Grande do Sul e do Rio de Janeiro.
+Requer a concessão de efeito suspensivo e, no mérito, que seja afastada a condenação por danos extrapatrimoniais.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 955.
+É o relatório. Decido.
+Inicialmente, verifico que o recurso especial é tempestivo, uma vez que o Dia da Justiça, 8 de dezembro, é considerado feriado nacional para efeitos forenses, nos termos do Decreto-Lei n. 8.292/1945.
+A controvérsia diz respeito à ação de pretensão indenizatória por danos morais e materiais em que a parte autora pleiteou a condenação das requeridas ao pagamento de indenização pelo atraso na entrega da obra, ressarcimento dos valores despendidos com aluguéis e indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando as rés ao pagamento de indenização pelo atraso na entrega do imóvel, danos materiais e danos morais.
+A Corte estadual manteve a sentença, negando provimento ao recurso principal e dando parcial provimento ao recurso adesivo, apenas para majorar a indenização por danos morais.
+No recurso especial, a parte recorrente alega que a condenação por danos morais é indevida, pois o atraso na entrega do imóvel não ultrapassa o mero dissabor.
+A Corte estadual concluiu que as circunstância do caso concreto permite concluir pela existência de danos morais indenizáveis decorrentes da mora injustificada na entrega do imóvel, o que acarretou abalo psicológico aos autores.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprud encial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Fica prejudicado o pedido de efeito suspensivo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
