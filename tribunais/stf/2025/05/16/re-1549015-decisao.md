@@ -1,0 +1,87 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Wilson Fernando da Silva, em face do acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+
+    “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. RECURSO INOMINADO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MILITAR INATIVO. LEI 13.954/2019. MAJORAÇÃO DA ALÍQUOTA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO APLICABILIDADE DO TEMA 1.177 DO STF AOS POLICIAIS MILITARES DO DISTRITO FEDERAL. RECURSO CONHECIDO E NÃO PROVIDO.
+
+    1. Trata-se de ação de conhecimento na qual a parte autora pretende obter tutela jurisdicional que declare a ilegalidade do aumento da contribuição previdenciária de 7,5% para 10,5% em razão da edição da Lei n. 13.954/2019, que determine o retorno da alíquota à 7,5% e condene o DF ao pagamento dos valores devidos em razão da diferença, cujos pedidos foram julgados improcedentes.
+
+    2. A parte autora interpôs recurso inominado regular e tempestivo. As contrarrazões foram apresentadas.
+
+     3. Em suas razões recursais, o recorrente narrou que é servidor inativo da PMDF e ajuizou ação em face do Distrito Federal, pois teve a alíquota da contribuição previdenciária sobre a pensão militar majorada de 7,5% para 9,5% e posteriormente para 10,5%, nos anos subsequentes à edição da Lei 13.954/19. Defendeu que a União, ao editar a Lei Federal nº 13.954/2019, excedeu a competência para regulamentar aumento de alíquota da pensão dos Militares do Distrito Federal. Sustentou que é ilegal a majoração da alíquota sem que haja alteração por meio de lei específica. Destacou que o Supremo Tribunal Federal reconheceu a inconstitucionalidade da alteração de alíquota por meio da Lei 13.954/2019 no julgamento do RE 1.338.750. Assim, requereu a reforma da sentença para que sejam julgados procedentes os pedidos expostos na peça inicial.
+
+    4. O Supremo Tribunal Federal, no julgamento do RE 1.338.750, com repercussão geral, Tema 1177, firmou o seguinte entendimento: “A competência privativa da União para a edição de normas gerais sobre inatividades e pensões das polícias militares e dos corpos de bombeiros militares (artigo 22, XXI, da Constituição, na redação da Emenda Constitucional 103/2019) não exclui a competência legislativa dos Estados para a fixação das alíquotas da contribuição previdenciária incidente sobre os proventos de seus próprios militares inativos e pensionistas, tendo a Lei Federal 13.954/2019, no ponto, incorrido em inconstitucionalidade”.
+
+    5. Ressalta-se que o entendimento firmado pelo STF menciona apenas os Estados, e não o Distrito Federal. Isso porque o artigo 22, XXI, da Constituição Federal prevê a competência privativa da União para a edição de normas gerais sobre inatividades e pensões das polícias militares e dos corpos de bombeiros militares e o art. 21, inciso XIV, do mesmo diploma, dispõe que a Polícia Militar do Distrito Federal é organizada e mantida por verbas da União, através de fundo constitucional. Dessa forma, por se tratar de competência privativa e de corporação organizada e mantida pela União, não há como reconhecer a incompetência do ente em destaque para legislar sobre a contribuição devida pelos militares distritais.
+
+    6. Neste sentido, destacam-se os seguintes julgados: “JUIZADO ESPECIAL. FAZENDA PÚBLICA. PENSÃOMILITAR. LEIS N. 10.486/02 E N. 13.954/20. CONTRIBUIÇÃO SOBRE A TOTALIDADE DA REMUNERAÇÃO. ALÍQUOTA PREVIDENCIÁRIA EQUIPARADA COM AQUELA APLICÁVEL ÀS FORÇAS ARMADAS. 1. Trata-se de recurso interposto pela autora/recorrente contra a sentença que julgou improcedentes os seus pedidos iniciais. 2. Em suas razões, a parte autora/recorrente sustenta que a contribuição previdenciária incidente sobre a pensão militar que percebe, com base em legislação aplicável às Forças Armadas (Lei n. 13.954/2020), é ilegal e inconstitucional, uma vez que existe legislação específica disciplinando o regime jurídico aplicável aos policiais militares do Distrito Federal (Lei n. 10.486/2002), dentre eles o regramento acerca do recolhimento da contribuição previdenciária sobre as pensões militares. 3. Com a promulgação da EC n. 103, o disposto no art. 22, XXI, da Constituição Federal sofreu modificações, de modo que à União passou a ser permitido dispor acerca das pensões das polícias militares e corpos de bombeiros militares. Nesse cenário, tem-se que a edição da Lei n. 13.954/2020, que alterou diversas disposições acerca da carreira militar, dentre as quais as regras quanto às contribuições previdenciárias, encontra-se dentro da competência privativa da União, afastando-se, por conseguinte, os supostos vícios de ilegalidade ou de inconstitucionalidade apontados pela parte autora/recorrente. 4. Mister ressaltar que a Lei n. 13.954/2020 alterou dispositivos do Decreto-Lei 667/1969, responsável pela reorganização das Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e passou a constar de seu ordenamento (art. 24-C) que incide contribuição sobre a totalidade da remuneração dos militares dos Estados, do Distrito Federal e dos Territórios, ativos ou inativos, e de seus pensionistas, com alíquota igual à aplicável às Forças armadas, cuja receita é destinada ao custeio das pensões militares e da inatividade dos militares (grifos nossos). Isto posto, melhor sorte não assiste à parte autora/recorrente quanto à alegação de distinção entre as forças armadas e a polícia militar, em relação à alíquota previdenciária, de modo a permanecer incólume a sentença prolatada pelo juízo de origem. 5. RECURSO CONHECIDO e NÃO PROVIDO. Condeno a parte recorrente vencida ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% sobre o valor da causa, cuja exigibilidade ficará suspensa em razão da gratuidade de justiça. 6. A Ementa servirá de Acórdão, nos termos do art. 46 da Lei 9.099/95. (Acórdão 1341243, 0744373-60.2020.8.07.0016, Relator: EDILSON ENEDINO DAS CHAGAS, 1ª Turma Recursal, data de julgamento: 14/05/2021, publicado no PJe: 01/06/2021. Pág.: Sem Página Cadastrada.)”.
+
+    7. “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. PROCESSUAL CIVIL. CONSTITUCIONAL. ADMINISTRATIVO. PREVIDENCIÁRIO. MILITAR INATIVO. LEI 13.954/2019. ALÍQUOTA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. PENSIONISTA MILITAR. LEGALIDADE. RECURSO CONHECIDO E NÃO PROVIDO. 1. Acórdão lavrado de acordo com a disposição inserta nos artigos 2º e 46, da Lei 9.099, de 26.09.1995 e artigo 60, §§ 1º e 2º, do Regimento Interno das Turmas Recursais. Presentes os pressupostos específicos, conheço do recurso. 2. O autor, ora recorrente, interpôs recurso inominado em face da sentença que julgou improcedentes os pedidos iniciais. Requer a suspensão da cobrança da contribuição previdenciária por força da Lei nº 13.954/2019. Esclarece que a via eleita para alterações das alíquotas e suas incidências foi acometida por vício de competência, tendo em vista que cabe à lei estadual, nos termos do Art. 42 da CF. Requer a reforma da sentença. 3. O recorrido, em contrarrazões, requer a manutenção da sentença. 4. A controvérsia incide sobre a aplicação da majoração da alíquota de contribuição previdenciária estabelecida pela Lei n. 13.954/2019 5. Na forma do art. 1º, cc. art. 3-A e art. 3-B da Lei 3.765/1960, com redação dada pela Lei 13.954/2019, e na forma do art. 24-C do Decreto-lei 667/1969, com redação dada pela Lei 13.954/2019, incide contribuição sobre a remuneração dos militares do DF, ativos ou inativos e de seus pensionistas, com alíquota igual a aplicada às Forças Armadas. Por conseguinte, o recorrente, pensionista de militar do DF, não pode exigir sejam cessados os descontos de contribuição para pensão militar a partir de janeiro de 2020, assim como à restituição dos valores retidos em sua remuneração a esse título. Ao contrário do que afirma o recorrente, as alterações advindas da Lei 13.954/2019 não se aplicam somente aos militares das Forças Armadas, mas também àqueles da Polícia Militar do DF por força do Decreto-lei 667/1969 e suas alterações conferidas pela mesma norma. 6. A disposição contida no art. 42 § 2º da CF/1988 que remete à norma editada pelo Distrito Federal diz respeito às condições para a concessão da pensão aos dependentes e seu reajuste, e não sobre a contribuição social para o sustento do benefício. Ademais, compete à União organizar e manter a polícia civil, militar e do corpo de bombeiros militar do Distrito Federal, por meio de fundo próprio (art. 21, inciso XIV, CF/1988 cc. Lei 10.633/2002). 7. RECURSO CONHECIDO E NÃO PROVIDO. Sentença mantida por seus próprios fundamentos. 8. Condeno o recorrente vencido ao pagamento de honorários advocatícios que fixo em 10% (dez por cento) do valor da causa, nos termos do Art. 55 da Lei 9.099/95 (Acórdão 1425808, 0763909-23.2021.8.07.0016, Relator: ANTONIO FERNANDES DA LUZ, 1ª Turma Recursal, data de julgamento: 20/05/2022, publicado no PJe: 03/06/2022. Pág.: Sem PáginaCadastrada.)”.
+
+    8. Conclui-se, assim, que a edição da Lei n. 13.954/2019 encontra-se dentro da competência privativa da União para estabelecer as regras quanto às contribuições previdenciárias dos militares distritais.
+
+    9. Por fim, não há que se falar em ofensa a irredutibilidade dos proventos. O regime próprio de previdência do servidor tem caráter solidário e contributivo, devendo ser gerido com critérios que garantam o equilíbrio financeiro e atuarial, de forma que a relação entre receitas e despesas assegure a manutenção e a solvabilidade do sistema. O princípio da irredutibilidade dos vencimentos dos servidores públicos também foi observado. A maior ou menor carga tributária não altera em si o valor total e ordinário dos proventos dos servidores públicos. Em que pese o fato de eventual carga tributária poder ser considerada confisco e acarretar lesão ao princípio da irredutibilidade dos vencimentos, tal hipótese não se configurou no caso concreto. Portanto, a sentença de improcedência deve ser mantida.
+
+     10. Recurso CONHECIDO e NÃO PROVIDO. Sentença mantida em seus próprios termos.
+
+    11. Condenada a parte recorrente, vencida, ao pagamento de custas e honorários advocatícios em favor do Distrito Federal, fixados em 10% sobre o valor da causa corrigida. Suspensa, no entanto, a exigibilidade de tais verbas ante o deferimento da gratuidade de justiça.
+
+    12. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei 9099/95.”
+
+    (Recurso inominado cível 0730827-64.2022.8.07.0016, Segunda Turma Recursal dos Juizados Especiais do Distrito Federal, relator: Juiz Arnaldo Corrêa Silva, j. 25.11.2022)
+
+    Os autos foram devolvidos à origem a fim de aguardar a conclusão do julgamento dos embargos de declaração no Recurso Extraordinário nº 1.338.750-RG (Tema 1.177) e, após, se o caso, exercer o juízo de retratação (id: a768e853).
+
+    O Tribunal local, então, após o julgamento dos embargos de declaração, promoveu juízo negativo de retratação (id: cd12fc9a).
+
+    Na minuta, sustenta-se violação do art. 24, XII e §1º, da Constituição da República. Argumenta-se, em síntese, que a tese firmada no tema 1.177 da Repercussão Geral seria aplicável ao Distrito Federal.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Esta Suprema Corte, no julgamento do RE 1.338.750 (Tema 1.177 da Repercussão Geral), decidiu que “A competência privativa da União para a edição de normas gerais sobre inatividades e pensões das polícias militares e dos corpos de bombeiros militares (artigo 22, XXI, da Constituição, na redação da Emenda Constitucional 103/2019) não exclui a competência legislativa dos Estados para a fixação das alíquotas da contribuição previdenciária incidente sobre os proventos de seus próprios militares inativos e pensionistas, tendo a Lei Federal 13.954/2019, no ponto, incorrido em inconstitucionalidade”.
+
+    Todavia, em embargos de declaração, o Plenário decidiu que a tese é inaplicável ao Distrito Federal. Confira-se:
+
+    “Direito Constitucional. Embargos de declaração em embargos de declaração no recurso extraordinário Acolhimento parcial do recurso admitido. Não conhecimento dos demais aclaratórios.
+
+    I. Caso em exame
+
+    1. Embargos de declaração contra acórdão que modulou os efeitos da decisão proferida, “a fim de preservar a higidez dos recolhimentos da contribuição de militares, ativos ou inativos, e de seus pensionistas, efetuados nos moldes inaugurados pela Lei 13.954/2019, até 1º de janeiro de 2023”.
+
+    2. No julgamento do mérito, o STF reafirmou sua jurisprudência e fixou a seguinte tese: “A competência privativa da União para a edição de normas gerais sobre inatividades e pensões das polícias militares e dos corpos de bombeiros militares (artigo 22, XXI, da Constituição, na redação da Emenda Constitucional 103/2019) não exclui a competência legislativa dos Estados para a fixação das alíquotas da contribuição previdenciária incidente sobre os proventos de seus próprios militares inativos e pensionistas, tendo a Lei Federal 13.954/2019, no ponto, incorrido em inconstitucionalidade”.
+
+    II. Questão em discussão
+
+    3. Discute-se a existência de omissão: (i) quanto à situação peculiar do Distrito Federal, que justificaria a inaplicabilidade da tese da repercussão geral e (ii) quanto à necessidade de ressalvar as ações já ajuizadas da modulação de efeitos. III. Razões de decidir
+
+    4. A tese firmada no julgamento do Tema 1.177 da Repercussão geral não se referiu ao Distrito Federal, de modo que a ele não se aplica. Demais questões a respeito da competência específica da União em relação a tal ente federativo (art. 21, XIV, da Constituição) ultrapassam os limites da matéria debatida e devem ser deduzidas pela via própria. 5. Ao modular os efeitos de julgados que impactam as finanças públicas, esta Corte adota, como regra geral, a ressalva ao direito dos contribuintes que ajuizaram ações antes da declaração de inconstitucionalidade da norma questionada. No entanto, uma ressalva irrestrita às ações em curso esvaziaria a modulação fixada no acórdão embargado, por resultar na repetição de parte significativa dos indébitos.
+
+    6. Em alguns Estados, a norma federal declarada inconstitucional resultou na redução da arrecadação sobre ativos, compensada pelo aumento da contribuição de inativos e pensionistas. A exclusão de todas as ações em curso dos efeitos da modulação implicaria na perda desse incremento arrecadatório, agravando o desequilíbrio na previdência dos militares estaduais.
+
+    7. Ainda que, em outros estados, não tenha se observado redução na alíquota da contribuição cobrada dos servidores ativos, a repetição de eventuais indébitos decorrentes da aplicação retroativa da tese sempre agravará o desequilíbrio dos regimes de previdência. Como o impacto financeiro das repetições de indébito foi o fundamento central a justificar a modulação de efeitos, é de se concluir que a ausência de uma ressalva geral às ações em curso não se deu por omissão, mas por escolha devidamente fundamentada.
+
+    8. Por outro lado, deve ser ressalvada a situação jurídica dos contribuintes que, antes da modulação de efeitos, obtiveram tutela judicial provisória assegurando o recolhimento das contribuições sem a aplicação da alíquota majorada prevista na norma federal impugnada. Nessa hipótese, como as contribuições foram efetivamente recolhidas com base em uma alíquota inferior, não há possibilidade de que os Estados sejam chamados a restituir eventual indébito. Assim, deve haver a aplicação retroativa da tese de repercussão geral tão somente para confirmar a higidez das contribuições recolhidas com base em leis estaduais, por força de decisão judicial.
+
+    IV. Dispositivo
+
+    9. Acolhimento parcial dos embargos do autor da ação, para determinar que a modulação de efeitos fixada no acórdão embargado não se aplique aos recolhimentos que, por força de decisão judicial com eficácia imediata, proferida até a data de julgamento dos primeiros embargos de declaração (05.09.2022), foram efetuados de acordo com a norma local pertinente. _________ Dispositivos relevantes citados: CF/88, art. 22, XXI; EC nº 103/2019, art. 1º; DL n.º 667/1969, art. 24-C; Lei n.º 13.954/2019, art. 25; CPC, art. 996. Jurisprudência relevante citada: RE 949.297 ED (2024), Rel. Min. Luís Roberto Barroso; RE 700.922 ED-segundos, Rel. Min. Alexandre de Moraes.” (RE 1338750 ED-ED, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 06-03-2025)
+
+    Portanto, o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais.
+
+    No mesmo sentido, destaco as decisões monocráticas no ARE 1438249/DF, Rel. Min Min. Luiz Fux, e no ARE 1433142/DF, de relatoria do Min. Dias Toffoli, que encamparam o entendimento aqui exposto.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 16 de maio de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
