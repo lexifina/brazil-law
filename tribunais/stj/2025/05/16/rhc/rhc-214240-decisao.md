@@ -1,0 +1,71 @@
+DECISÃO
+  Trata-se  de recurso em  habeas  corpus,  com  pedido  liminar,  interposto por DANILLO BATISTA DOS SANTOS CAETANO contra acórdão proferido pelo TRIBUNAL  DE  JUSTIÇA  DO  ESTADO DE ALAGOAS  no HC  n.  00028-87.2025.8.02.9002.
+Extrai-se  dos  autos  que  o  recorrente  teve a prisão em flagrante convertida em preventiva pela suposta prática do  crime  tipificado  no  art.  33,  caput,  da  Lei  n.  11.343/2006.
+Neste recurso,  a  parte  recorrente  sustenta a ausência de fundamentação idônea para a prisão preventiva decretada.
+Aduz que a suposta configuração de maus antecedentes e até mesmo de reincidência, por si só, não basta para respaldar a decretação de prisão cautelar, sendo indispensável a presença de concreta fundamentação em dados outros da realidade (fl. 87).
+Defende que o risco de reiteração delitiva fundado na mera reincidência demonstra que os julgadores fizeram uso da presunção de periculosidade do agente, o que viola o princípio constitucional da presunção de inocência.
+Assevera que a necessidade de acautelamento do meio social para evitar a prática de novos delitos é uma das finalidades da pena privativa de liberdade (prevenção especial negativa), que somente pode ser aplicada após o trânsito em julgado da condenação (fl. 87).
+Alega que a segregação cautelar é ultima ratio, e, excetuada a fiança, todas as demais medidas cautelares diversas da prisão previstas no art. 319 do CPP são compatíveis e adequadas ao caso em análise.
+Requer,  liminarmente  e  no  mérito,  o relaxamento da prisão do recorrente,  expedindo-se  o  consequente  alvará  de  soltura  ou,  subsidiariamente,  a  substituição  da custódia  por  medidas  cautelares  diversas.
+O  pedido  liminar  foi  indeferido  às  fls.  105/106.
+Informações  prestadas  às  fls.  108/110.
+O  Ministério  Público  Federal,  às  fls.  120/124,  opinou  pelo  não  provimento do recurso.
+É  o  relatório.
+DECIDO.
+No  caso,  o  Tribunal  de  origem,  ao  manter  a  segregação  cautelar  do  recorrente,  consignou  o  seguinte  (fls.  69/72;  grifamos):
+Em informações prestadas, o magistrado informou que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas. Prosseguiu narrando que uma guarnição da ROTAM desconfiou de um veículo que trafegava em alta velocidade, razão pela qual foi abordado pela polícia e, em consequência, foi encontrado um tablete de maconha. Em sequência, na residência do acusado, foram encontrados 13 kg (treze quilos) de maconha.
+Quanto aos pressupostos e requisitos utilizados para amparar a prisão preventiva do paciente, vale a pena destacar trechos do decisum da autoridade apontada como coatora (fls. 28/29, dos autos de origem):
+ ..  No caso, encontram-se presentes os requisitos exigidos para a decretação da segregação provisória, haja vista que o acusado é contumaz na prática delitiva, considerando que o mesmo responde por outro crime de tráfico de drogas nos autos n. 0701549-77.2017, o que demonstra que o flagrado acarreta risco concreto à ordem pública, revelando-se, desse modo, a sua periculosidade. Neste feito o autuado foi beneficiado com medidas cautelares diversas da prisão, inclusive monitoramento eletrônico, medidas estas que se revelaram ineficaz para frear a habitualidade criminosa do mesmo. Além disso, foi apreendida expressiva quantidade de droga (13.900kg de maconha), bem como duas balanças de precisão e um aparelho celular, conforme auto de exibição e apreensão de fls. 11.  ..
+Portanto, denota-se que a situação prisional do paciente foi apreciada pelo Juízo a quo, que apresentou fundamentação adequada acerca da custódia cautelar, a fim de justificar a necessidade do afastamento do acusado do convívio social, ressaltando a necessidade da segregação para garantir a ordem pública em razão do risco concreto de reiteração delitiva, visto que o acusado responde nos autos 0701549-77.2017, também pelo delito de tráfico de drogas, o que revela a periculosidade do réu, destacando, ainda, a considerável quantidade de droga apreendida, 13.900 kg de maconha, bem como duas balanças de precisão.
+Desse modo, é necessário que se reconheça a existência dos pressupostos da prisão preventiva, consistentes na prova da materialidade delitiva e em indícios de autoria em desfavor do paciente. Assim, é possível constatar a necessidade da segregação cautelar do paciente. Dessa forma, diante das informações contidas na decisão do Juízo de primeiro grau, fica demostrada a inviabilidade da substituição da custódia cautelar por medidas diversas ao cárcere.
+Nessa senda, não há como acolher os argumentos suscitados na impetração, porquanto a custódia preventiva do paciente foi imposta com fundamentos idôneos e suficientes tendo em vista que, conforme demonstrado, assentou-se em circunstâncias concretas.
+Sobre a alegada existência de condições pessoais favoráveis, as Cortes Superiores de justiça firmaram entendimento no sentido de que estas não impõem a concessão da ordem quando devidamente preenchidos os requisitos para a preventiva, como se vê no caso em análise.
+(..)
+A Procuradoria de Justiça, em parecer de fls. 55/59, fez constar que o decreto prisional se encontra devidamente fundamentado em dados concretos extraídos dos autos, do qual denota a necessidade da segregação cautelar para a garantia da ordem pública. Destacou-se que se mostra necessário a evitar possível reiteração/permanência da conduta delitiva, vez que "em consulta ao Sistema de Automação de Justiça - SAJ (primeiro grau), foi constado que o paciente encontra-se respondendo a um processo criminal, por fato análogo ao destes autos (n.º 0701549-77.2017.8.02.0001)."
+A PGJ salientou que "e não é cabível a aplicação das medidas cautelares alternativas à prisão no caso concreto, uma vez que o mesmo encontrava-se com monitoramento eletrônico quando cometeu novo delito."
+Diante de todo o exposto, acompanhando o entendimento perfilhado pela Procuradoria Geral de Justiça, conheço do writ para, no mérito, denegar a ordem de habeas corpus.
+Dos  excertos  transcritos,  concluo  que,  ao  contrário  do  que  alega  a  Defesa,  a  prisão  preventiva  foi  suficientemente  fundamentada  pelas  instâncias  ordinárias,  tendo  sido  ressaltada  a  gravidade  concreta  da  conduta  imputada  ao  paciente,  evidenciada  a  partir  da  apreensão  de  relevante  quantidade  de  entorpecentes  e  do  fundado receio  de  reiteração  delitiva,  considerando  que  o  recorrente responde por outro crime de tráfico de drogas nos autos n. 0701549-77.2017, conforme destacado na decisão impugnada  (fl.  69)  .
+Tais  elementos  demonstram  a  potencial  periculosidade  do  agente  e  são  aptos  a  justificar  a  segregação  cautelar  para  garantia  da  ordem  pública.
+Com  efeito,
+
+(a)  jurisprudência  desta  Corte  Superior  é  firme  ao  asseverar  que,  nas  hipóteses  em  que  a  quantidade  das  drogas  apreendidas  e  outras  circunstâncias  do  caso  revelem  a  maior  gravidade  do  tráfico,  tais  dados  são  bastantes  para  demonstrar  a  periculosidade  social  do  réu  e  a  necessidade  de  garantir  a  ordem  pública,  ante  o  fundado  receio  de  reiteração  delitiva  (RHC  n.  193.876/PR,  relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  23/4/2024,  DJe  de  30/4/2024).
+
+Exemplificativamente:
+
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  TRÁFICO.  PRISÃO  PREVENTIVA.  PERICULUM  LIBERTATIS.  FUNDAMENTAÇÃO  SUFICIENTE.  MEDIDAS  CAUTELARES.  INSUFICIÊNCIA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Ficou  evidenciada  a  necessidade  da  medida  constritiva  de  liberdade,  porquanto  demonstrada  a  gravidade  concreta  da  conduta  imputada  ao  acusado,  considerando  as  circunstâncias  fáticas  -  concurso  de  pessoas,  com  envolvimento  de  adolescentes,  com  utilização  de  diversas  residências  para  armazenar  drogas,  embalagens,  celulares,  com  grande  quantidade  de  entorpecentes  e  ainda  em  variedade  de  substâncias,  etc  -  ,  bem  como  o  risco  de  reiteração  delitiva,  em  razão  da  "existência  de  atos  delituosos  anteriores,  pela  mesma  prática  criminosa".
+2.  Conforme  orientação  jurisprudencial  desta  Corte,  inquéritos  e  ações
+penais  em  curso  constituem  elementos  capazes  de  demonstrar  o  risco
+concreto  de  reiteração  delituosa,  justificando  a  decretação  da  prisão
+preventiva  para  garantia  da  ordem  pública.
+3.  Dadas  as  apontadas  circunstâncias  do  fato  e  as  condições  pessoais  do  acusado,  não  se  mostra  adequada  e  suficiente  a  substituição  da  prisão  preventiva  por  medidas  a  ela  alternativas  (art.  282,  c/c  o  art.  319  do  CPP).
+4.  Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  874.767/SP,  relator
+Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  Tjdft),  Sexta  Turma,  julgado  em  19/8/2024,  DJe  de  22/8/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SENTENÇA CONDENATÓRIA PROFERIDA. SÚMULA N. 52/STJ. MANUTENÇÃO DAS CIRCUNSTÂNCIAS JUSTIFICADORAS DA PRISÃO PREVENTIVA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. INQUÉRITOS POLICIAIS OU AÇÕES PENAIS EM CURSO. RISCO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DESPROPORÇÃO ENTRE O TEMPO DE CUSTÓDIA E O QUANTUM DA PENA. INVIABILIDADE DE ANÁLISE. COVID-19. RECOMENDAÇÃO CNJ N. 62/2020. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo sido proferida sentença condenatória fica superada a alegação de excesso de prazo para a formação da culpa (Súmula n. 52 do STJ).
+2. A manutenção de custódia cautelar ganha reforço com a prolação de sentença condenatória que não concede ao agravante que ficou preso durante toda a instrução processual o direito de recorrer em liberdade, por subsistirem as circunstâncias que justificaram a decretação da prisão preventiva.
+3. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts.
+312, 313 e 315 do Código de Processo Penal.
+4. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+5. Inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+6. As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+7. É inviável a análise acerca da desproporção entre a custódia cautelar cuja revogação é pleiteada em habeas corpus e a quantidade de pena a ser eventualmente fixada em sentença condenatória, pois não é permitido, na estreita via do writ, juízo de valor antecipado acerca da condenação final.
+8. A Recomendação CNJ n. 62/2020 não prevê automática revogação da prisão preventiva ou sua imediata substituição por medidas cautelares alternativas, cabendo às autoridades judiciais a análise do caso concreto - realidade do ambiente prisional e condições pessoais de cada sentenciado - a fim de decidir sobre a possibilidade de concessão do benefício.
+9 . Agravo regimental desprovido.
+(AgRg no HC n. 732.146/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022; grifamos).
+PEDIDO  DE  RECONSIDERAÇÃO.  RECEBIMENTO  COMO  AGRAVO  REGIMENTAL.  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  PRISÃO  PREVENTIVA.  FUNDAMENTAÇÃO  IDÔNEA.  QUANTIDADE  EXPRESSIVA  DE  DROGA.  MEDIDAS  CAUTELARES  DO  ART.  319  DO  CPP.  SUBSTITUIÇÃO.  INVIABILIDADE.  DESPROVIMENTO.
+ 1.  Apresentada  fundamentação  idônea  para  a  prisão  cautelar,  consistente  na  gravidade  concreta  da  conduta,  evidenciada  na  expressiva  quantidade  de  entorpecente  (270  gramas  de  cocaína),  não  há  falar-se  em  ilegalidade.
+2.  "Havendo  a  indicação  de  fundamentos  concretos  para  justificar  a  custódia  cautelar,  não  se  revela  cabível  a  aplicação  de  medidas  cautelares  alternativas  à  prisão  (art.  319  do  CPP).  Precedentes."  (AgRg  no  HC  n.  781.094/GO,  relator  Ministro  Jesuíno  Rissato  (Desembargador  convocado  do  TJDFT),  Sexta  Turma,  julgado  em  24/4/2023,  DJe  de  27/4/2023.)
+3.  Agravo  regimental  desprovido.
+(RCD  no  HC  n.  891.933/RJ,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  22/4/2024,  DJe  de  25/4/2024).
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS  INDEFERIDO  LIMINARMENTE.  TRÁFICO  DE  DROGAS  (143  G  DE  MACONHA,  42  G  DE  COCAÍNA  E  29  G  DE  CRACK).  PRISÃO  PREVENTIVA.  RISCO  DO  ESTADO  DE  LIBERDADE  PARA  A  ORDEM  PÚBLICA.  REITERAÇÃO  DELITIVA  E  EXISTÊNCIA  DE  ANTECEDENTES.  FUNDAMENTAÇÃO  IDÔNEA.  NEGATIVA  DO  RECURSO  EM  LIBERDADE.  REGIME  SEMIABERTO.  COMPATIBILIDADE  COM  A  PRISÃO  PREVENTIVA.  PRISÃO  MANTIDA.  MANUTENÇÃO  DA  DECISÃO  MONOCRÁTICA  QUE  SE  IMPÕE.
+1.  Deve  ser  mantida  a  decisão  hostilizada  que  manteve  a  conversão  da  prisão  em  flagrante  do  agravante  em  preventiva,  pela  prática,  em  tese,  do  crime  de  tráfico  de  drogas.
+2.  Isso  porque  não  evidenciado  constrangimento  ilegal  na  fundamentação  do  decreto  preventivo,  que  se  encontra  justificado  na  existência  de  antecedentes  e  reiteração  delitiva  do  agente.
+(..)
+4.  Agravo  regimental  improvido.
+(AgRg  no  HC  n.  867.234/RS,  relator  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  julgado  em  8/4/2024,  DJe  de  11/4/2024;  grifamos).
+Desse  modo,  tendo  sido  concretamente  demonstrada  a  necessidade  da  prisão  preventiva  nos  autos,  não  se  mostra  suficiente  a  aplicação  de  me  didas  cautelares  mais  brandas,  nos  termos  do  art.  282,  inciso  II,  do  Código  de  Processo  Penal.
+Ante  o  exposto,  nego  provimento ao recurso em  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
