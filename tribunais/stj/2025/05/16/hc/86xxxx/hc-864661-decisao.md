@@ -1,0 +1,44 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de liminar para anular punição por falta grave, impetrado em favor de PEDRO HENRIQUE DOS SANTOS SOUZA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Agravo em Execução Penal 0005770-90.2023.8.26.0996).
+Consta nos autos que o Juízo da execução penal ratificou a decisão administrativa e classificou a conduta do paciente como falta disciplinar de natureza média, por infração ao art. 45, II, da Resolução SAP 144/2010.
+O Tribunal de origem deu provimento ao agravo em execução, interposto pelo Ministério Público para reconhecer a natureza grave da falta disciplinar, o que ensejou o reinício da contagem do lapso para fins de progressão de regime e a perda de 1/3 dos dias remidos.
+A defesa alega atipicidade da conduta que motivou a falta grave, ante: a) obediência à ordem do Agente de Segurança pelo paciente; b) inobservância do art. 45, § 3º, da Lei 7.210/1984, em razão da impossibilidade de individualização da conduta do paciente; e c) ausência de comprovação da posse do material apreendido.
+Assim, o pedido especifica-se no deferimento da ordem para absolver o paciente ou, subsidiariamente, desclassificar a conduta para falta disciplinar de natureza média.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público manifestou-se pela denegação da ordem nos termos da seguinte ementa (fl. 133):
+PENAL E PROCESSO PENAL. HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. NÃO CABIMENTO. LEI DE EXECUÇÃO PENAL. FALTA GRAVE. PRESO QUE CUMPRE PENA EM REGIME FECHADO. CONTRADITÓRIO E AMPLA DEFESA PRESERVADOS. PLEITOS DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. INVIABILIDADE. AUSÊNCIA DE JUSTIFICATIVA APTA A AFASTAR A FALTA GRAVE DEVIDAMENTE CARACTERIZADA. FUNDAMENTAÇÃO IDÔNEA. REVISÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO PROBATÓRIO. INVIÁVEL NA VIA ELEITA. PRECEDENTES. NÃO CONHECIMENTO OU, SUPERADA A PRELIMINAR, DENEGAÇÃO DA ORDEM.
+É o relatório. Decido.
+A Constituição da República assegura, no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+O Tribunal de origem, ao apreciar o agravo em execução, assim se manifestou (fls. 84-90):
+ ..  Consta dos autos que, no procedimento disciplinar nº 118/2022, ao agravado imputou-se falta disciplinar grave, por infringência ao artigo 50, inciso III e VI, c. c. 39, 11 e V, da Lei de Execução Penal, ocorrida em 23/09/2022, tendo o juízo de primeiro grau entendido que se tratou de falta de natureza média.
+Respeitado o entendimento contrário, o recurso merece provimento.
+No caso em comento, o procedimento disciplinar foi instaurado, desenvolvido e concluído sem nenhum vício ou irregularidade, respeitando os princípios do contraditório e da ampla defesa, tendo a administração penitenciária providenciado a regular oitiva do sentenciado, na presença de advogado, restando a infração disciplinar devidamente apurada.
+Respeitado o entendimento contrário, o recurso merece provimento.
+No caso em comento, o procedimento disciplinar foi instaurado, desenvolvido e concluído sem nenhum vício ou irregularidade, respeitando os princípios do contraditório e da ampla defesa, tendo a administração penitenciária providenciado a regular oitiva do sentenciado, na presença de advogado, restando a infração disciplinar devidamente apurada.
+ ..
+Não é muito assinalar que nada consta dos autos que permita a conclusão de que os servidores ouvidos tivessem motivo para incriminar o agravado de maneira gratuita, merecendo os depoimentos total credibilidade, principalmente quando seus depoimentos são firmes e coesos, conforme, a propósito, pacífico entendimento jurisprudencial dominante nos tribunais.
+ ..
+Cumpre consignar que a própria natureza do ambiente carcerário exige rígido respeito às normas de disciplina e segurança e qualquer ato de desobediência que ponha em risco a estabilidade e salvaguarda da unidade prisional não pode ser considerado de ofensividade mínima ou de reduzido grau de reprovabilidade.
+Diante de tal quadro, está claro que o fato aqui examinado ocorreu como descrito no procedimento administrativo, estando plenamente configurada a prática de falta disciplinar de natureza grave, uma vez que a conduta do reeducando perfeitamente amoldou-se à descrição contida nos artigos 50, incisos III e IV, c. c. 39, incisos II e V, ambos da Lei de Execução Penal, c.c. 46, incisos VI e VII, da Resolução SAP 144/2010, caracterizada, assim, a falta disciplinar de natureza grave.
+ ..
+No mais, como consequência do reconhecimento da falta de natureza grave, deve incidir a interrupção do lapso temporal para aquisição de progressão de regime (artigo 127 da Lei de Execução Penal, observadas, inclusive, as Súmulas nº 441, 534 e 535, todas do Superior Tribunal de Justiça.
+ ..
+Por fim, deve ser declarada a perda de 1/3 (um terço) dos dias remidos, haja vista a inadequação do comportamento indicado, tendo em vista que a própria natureza do ambiente carcerário exige rígido respeito às normas de disciplina e segurança, sendo que qualquer ato de desobediência que ponha em risco a estabilidade e salvaguarda da unidade prisional não pode ser considerado de ofensividade mínima ou de reduzido grau de reprovabilidade. ..
+Como se vê, o Tribunal local concluiu pela existência da falta grave, pois se amoldaria às situações previstas no art. 50 da LEP, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, uma vez que o ora paciente praticou falta grave consistente na posse de uma máquina artesanal para confecção de tatuagens.
+Logo, para se chegar à entendimento diverso, necessário seria o revolvimento do conteúdo fático-probatório dos autos, incabível nesta via.
+Noutra vertente, a análise da tese de não configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede (HC n.º 259.028/SP, Quinta Turma, Rel. Ministra. LAURITA VAZ, DJe de 7/3/2014). No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA APURADA POR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. DESOBEDIÊNCIA. INVIABILIDADE DE PROFUNDO REEXAME DE FATOS E DE PROVAS. AGRAVO DESPROVIDO.
+1. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o paciente incorreu em desobediência, conduta a qual, segundo a jurisprudência desta Corte Superior, consiste em falta grave, nos termos do art. 50, VI, c. c. o art. 39, II e V, ambos da LEP.
+2. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente. 3. Tendo as instâncias ordinárias entendido que quando os detentos foram orientados a permanecer no centro da cela e o paciente não acatou tal ordem, configurou-se ato de desrespeito nos termos do art. 50, VI, c/c o art. 39, II, ambos da Lei n. 7.210/1984, inviável a desconstituição do que foi decidido, visto que necessitaria o revolvimento de todo o contexto fático-probatório, o que inviável na via eleita.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 783.146/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. DESOBEDIÊNCIA. INEXIGIBILIDADE DE CONDUTA DIVERSA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA FALTA MÉDIA OU LEVE. REVOLVIMENTO DE PROVAS. VIA INADEQUADA. PERDA DOS DIAS REMIDOS. LIMITAÇÃO A 1 (UM DIA). DECISÃO DE 1º GRAU QUE NADA MENCIONA A RESPEITO DO TEMA. AUSÊNCIA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o reeducando violou os arts. 50, inc. VI, c/c o art. 39, inc. II, ambos da Lei de Execução Penal, cometendo ato de indisciplina quando desobedeceu ordem do agente penitenciário, na Unidade Prisional, ao se recusar a entrar no pavilhão.
+2. Revisar os elementos de prova para concluir pela atipicidade ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+3. Não há interesse de agir no que diz respeito à alegação defensiva quanto à perda dos dias remidos, não determinada pela Jurisdição Estadual.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.).
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
