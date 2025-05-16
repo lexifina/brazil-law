@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de recurso especial interposto por ZULEIDE RIBAMAR DE SOUZA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fl. 66):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO. PEDIDO DE REFORMA. INVIABILIDADE. DECISÃO DEVIDAMENTE FUNDAMENTADA. RECURSO QUE NÃO APRESENTOU NENHUM ARGUMENTO QUE DEMONSTRE INCORREÇÃO NA MOTIVAÇÃO DA DECISÃO HOSTILIZADA. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+1) As alegações do agravante não se mostram suficientes para modificar o meu posicionamento, pois não apresentou nenhum argumento que demonstre incorreção na motivação da decisão hostilizada, limitando-se a reiterar os argumentos lançados nas razões do agravo de instrumento.
+2) Destarte, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada" (art. 1.021, § 1º, do CPC), o que não ocorreu na espécie, haja vista que, repita-se, o agravante reiterou as teses devidamente analisadas e fundamentadas na decisão recorrida.
+3) Desse modo, considerando que a decisão recorrida está devidamente fundamentada e as razões do agravo interno não apresentam fato novo ou argumentação apta a justificar sua reforma, o desprovimento do agravo interno é medida que se impõe. 4) Agravo Interno conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 100/127).
+Nas razões de seu recurso, a parte recorrente alega a ocorrência de violação aos arts. 1.022, II, 203, § 1º, ambos do Código de Processo Civil (CPC).
+Para tanto, sustenta que:
+(1) "A fundamentação contida nos Embargos de Declaração afirmou que para que seja a APELAÇÃO o recurso cabível seria necessário que a sentença de primeiro grau recorrida tivesse o condão de EXTINGUIR A EXECUÇÃO, conforme dicção do parágrafo primeiro do artigo 203 do Código de Processo Civil. É que este mesmo dispositivo esclarece que a sentença é o pronunciamento judicial que extingue a execução e, na forma do artigo 1.009 do mesmo diploma legal, "da sentença cabe APELAÇÃO".
+Em suas razões também ficou consignado que o código de processo civil, no seu artigo 1.015 parágrafo único, é claro em dizer que em fase de liquidação de sentença o recurso cabível é o AGRAVO DE INSTRUMENTO, outrossim, que o parágrafo segundo do artigo 203 do Código de Processo Civil define que decisão interlocutória é todo o provimento judicial de natureza decisória que não se enquadre no parágrafo 1º, ou seja, É DECISÃO INTERLOCUTÓRIA AQUELA QUE NÃO EXTINGUE A EXECUÇÃO.
+Todavia, a despeito de toda a elucidação contida nas razões dos Embargos de Declaração, o r. acórdão de julgamento não se dignou em trazer, em quaisquer de suas linhas, algum conteúdo voltado ao recurso. Por certo, referido acórdão apresentou fundamentação genérica que se prestaria a qualquer outra situação" (fl. 136);
+(2) "inequívoco que o recurso de agravo de instrumento é a via recursal cabível para impugnação da decisão de primeiro grau que, apesar do título "sentença", não extinguiu o feito executório, mas determinou novas diligências que caracterizam claramente a continuidade da execução" (fl. 139).
+Requer que (fl. 140):
+c) Seja reconhecida a Violação ao artigo 1.022, II, do CPC, para que os autos retornem à Corte de origem para reapreciação dos Embargos de Declaração;
+d) Alternativamente, requer o conhecimento e provimento do presente Recurso Especial para reconhecer a violação ao artigo 203, §1º do Código de Processo Civil, e cassar a decisão regional que não conheceu do Agravo de Instrumento interposto.
+A parte adversa não apresentou contrarrazões (fl. 155).
+O recurso foi admitido (fls. 156/165).
+É o relatório.
+O Tribunal de origem, ao analisar a controvérsia, afirmou que (fls. 43/45):
+É que o agravo de instrumento deve ser manejado para contestar decisões interlocutórias que não ponham fim à execução ou ao cumprimento de sentença.
+Tendo sido a deliberação judicial no sentido de julgar parcialmente procedente impugnação a cumprimento de sentença, homologar os cálculos pertinentes à execução e determinar a expedição de precatório/requisição de pequeno valor, o recurso cabível para se contrapor ao ato é a apelação. Até porque não há mais o que ser discutido quanto a certeza, a exigibilidade e liquidez do título judicial questionado pela via da impugnação ao cumprimento de sentença, encerrando expressamente a referida fase processual.
+ ..
+Dessa forma, considerando que a deliberação judicial recorrida encerrou expressamente a fase de cumprimento de sentença, julgando a respetiva impugnação, não havendo mais o que ser decidido quanto ao mérito dessa fase processual, trata-se inequivocamente de uma sentença, pelo que a apelação é o recurso adequado para contra ela se contrapor.
+ ..
+Isto posto, nos termos do art. 932, III, do CPC, NÃO CONHEÇO do presente Agravo de Instrumento em razão de sua manifesta inadmissibilidade.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 92):
+Ainda o parágrafo segundo do artigo 203 do Código de Processo Civil define que decisão interlocutória é todo o provimento judicial de natureza decisória que não se enquadre no parágrafo 1º, ou seja, É DECISÃO INTERLOCUTÓRIA AQUELA QUE NÃO EXTINGUE A EXECUÇÃO.
+Não obstante o acima exposto, o juiz de primeiro grau ainda determinou a remessa dos autos à contadoria judicial para posterior homologação, ou seja, SEQUER HOUVE CÁLCULOS, portanto, não EXTINGUIU A EXECUÇÃO.
+Portanto, com o devido respeito a este nobre relator, evidente que a r. decisão incorreu em erro negar provimento ao Agravo de Instrumento interposto, em virtude da inequívoca demonstração de que a decisão proferida não pôs fim à execução, sendo o Agravo de Instrumento o recurso correto a ser utilizado.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO decidiu o seguinte (fl. 116):
+Destarte, não configura nenhum dos vícios previstos no art. 1.022 do CPC a existência de fundamentação concreta para a rejeição de um pedido em detrimento da argumentação veiculada pelo interessado.
+Ademais, o julgador não é obrigador a responder a todos os questionamentos das partes, quando já tenha apresentado fundamentação concreta fundamentar sua decisão, como de fato ocorre nos autos.
+ ..
+Desse modo, resta claro que, repita-se, o embargante pretende rediscutir as matérias que já foram amplamente analisadas no acórdão embargado, o que é incabível em aclaratórios.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao mérito, a discussão nos presentes autos é sobre a natureza da decisão que homologa os cálculos e determina a expedição de requisição de pequeno valor (RPV), se é terminativa ou não e, por conseguinte, definir qual seria o recurso cabível.
+Acerca do tema, a Primeira Turma desta Corte Superior, no julgamento do AREsp 2.569.918/MA, enfrentou questão idêntica e, na oportunidade, afirmou que somente nos casos em que é declarada a supressão total da dívida é que a decisão teria natureza de sentença e, portanto, seria impugnável por meio de apelação. Quanto aos demais casos, a decisão possui natureza interlocutória e é impugnável por agravo de instrumento.
+Transcrevo abaixo trechos do meu voto-vista naqueles autos:
+O Código de Processo Civil (CPC), em seus arts. 924 e 925, assim dispõem acerca da extinção do processo de execução:
+Art. 924. Extingue-se a execução quando:
+I - a petição inicial for indeferida;
+II - a obrigação for satisfeita;
+III - o executado obtiver, por qualquer outro meio, a extinção total da dívida;
+IV - o exequente renunciar ao crédito;
+V - ocorrer a prescrição intercorrente.
+Art. 925. A extinção só produz efeito quando declarada por sentença.
+A decisão que homologa os cálculos e determina a expedição de RPV não declara a extinção da obrigação, ao contrário, apenas determina o seu cumprimento. Logo, não restam dúvidas de que se trata de uma decisão interlocutória e, portanto, o recurso cabível é o agravo de instrumento.
+Acerca do tema, a Segunda Turma desta Corte Superior já se manifestou neste sentido:
+" ..  a execução será extinta sempre que o executado obtiver, por qualquer meio, a supressão total da dívida (art. 924, CPC/2015), que ocorrerá com o reconhecimento de que não há obrigação a ser exigida, seja porque adimplido o débito, seja pelo reconhecimento de que ele não existe ou se extinguiu" (AgInt no AREsp n. 1.986.386/MA, relator Ministro Hermann se extinguiu Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022).
+Corroborando esse entendimento, relembro o enunciado sumular 118/STJ, o qual dispõe que "o agravo de instrumento é o recurso cabível da decisão que . homologa a atualização do cálculo da liquidação".
+Se o agravo de instrumento é o recurso adequado para impugnar a decisão que homologa a atualização dos cálculos da liquidação, seria minimamente razoável concluir que a decisão que homologa os cálculos e determina a expedição de RPV, que tem natureza semelhante após o CPC de 2015, somente pode ser contestada por meio de agravo de instrumento.
+Assim, a decisão que homologa os cálculos e determina a expedição de RPV não possui natureza de sentença por não reconhecer a supressão total da dívida, nos termos do art. 924 e 925 , ambos do CPC (seja em razão do seu adimplemento, do reconhecimento da sua inexistência ou porque se extinguiu), e, portanto, é impugnável por agravo de instrumento.
+Essa decisão somente teria natureza de sentença se reconhecesse a inexistência de saldo a pagar e, por consequência, viesse a extinguir a execução. Nesse caso, pelo fato de colocar fim ao processo, a decisão seria sujeita ao recurso de apelação.
+Pois bem. Passo ao exame dos presentes autos.
+Na origem, trata-se de agravo de instrumento interposto pela parte ora recorrente da decisão proferida nos autos do cumprimento de sentença que acolheu em parte a impugnação para reconhecer excesso de execução, homologou os cálculos e determinou a expedição de RPVs.
+Transcrevo abaixo trechos da decisão em questão:
+Por outro lado, com relação ao excesso de execução alegado, especialmente no que toca à limitação temporal, vislumbro que a referida tese se encontra em consonância com a argumentação de limitação temporal de incidência exposta pelo Estado do Maranhão em sua Impugnação, que, ao contrário do que alega a Exequente, não viola a coisa julgada, mas apenas interpreta o título executivo com observância de sua integralidade e do princípio da boa-fé (art. 489, § 3º, do CPC).
+Em relação ao termo inicial de incidência, tenho que carece de maiores explanações, tendo em vista que a norma impugnada na Ação Coletiva nº14.440/2000, qual seja, Lei Estadual nº 7.072/1998, somente teve sua vigência(começou a produzir efeitos) a partir de 01.02.1998 (art. 3º) - em momento anterior, as remunerações dos Professores eram pagas regularmente, em conformidade com os arts. 54 a 57 do Estatuto do Magistério (Lei Estadual nº6.110/94) -, razão pela qual as diferenças remuneratórias foram pleiteadas somente a partir desta data.
+Assim, considerando que não há diferença remuneratória a ser paga em momento anterior, o termo inicial do pagamento das diferenças é 1º de fevereiro de 1998.
+Em relação ao termo final de incidência, em que pese não tenha sido estabelecido no âmbito do Processo nº 14.440/2000 e a Sentença e o Acórdão em Remessa Necessária serem posteriores, por tratar-se de relação jurídica continuada, ou seja, de trato sucessivo, somente opera efeitos enquanto a situação fático-jurídica permanece inalterada.
+A procedência dos pedidos do SINPROESEMMA, com determinação de escalonamento, ocorreu com base no fato de que a Lei Estadual nº 7.072/1998 foi editada em omissão quanto a obrigatoriedade de pagamento dos interstícios de 5%(cinco por cento) para os servidores do Grupo Magistério nas referências seguintes à primeira, em desconformidade com os arts. 54 a 57 do Estatuto do Magistério vigente à época, o que ocasionou a inválida redução de vencimentos da categoria.
+No entanto, com a edição da Lei Estadual nº 7.885/2003 (art. 3º, § 1º),houve previsão de retorno do pagamento do referido percentual através de tabela escalonada, que envolveu somente 13 (treze) de 18 (dezoito) prestações previstas, suspensa pela Medida Provisória nº 01, de 29 de julho de 2004, e somente retomada em definitivo através da Lei Estadual nº 8.186/2004, de 25.11.2004.
+Desta forma, considerando que o Estado do Maranhão regularizou e recompôs a remuneração da categoria através da Lei Estadual nº 8.186/2004,alterando a realidade fático-jurídica que deu ensejo à propositura da Ação Coletiva nº 14.440/2000, o termo final da contagem de incidência do título executivo é a data de 25 de novembro de 2004, vigência da referida lei, em razão da cláusula rebus sic stantibus.
+Assim, considerando que a parte exequente fora admitida 01/01/1990 em aplicando o entendimento do IAC nº 18.193/2018, portanto, faz jus a percepção dos valores retroativos, com base no título executivo firmado no Processo nº14.440/2000, no entanto, seguindo os cálculos da Contadoria Judicial, reconheço o excesso de execução no que se refere ao valor cobrado na petição inicial de execução.
+Desse modo, acolho em parte a presente impugnação, para reconhecer o excesso na execução com fulcro no art. 535, IV, do CPC, e assim reconhecer como devida a execução no valor apurado pela contadoria judicial.
+Desta forma homologo os referidos cálculos para que surta os devidos efeitos legais e, em consequência, determino que sejam intimadas as partes da presente decisum.
+Considerando a sucumbência recíproca, as partes devem ratear as despesas processuais, nos termos do art. 86, caput, do CPC.
+Condeno a parte exequente ao pagamento das custas e dos honorários advocatícios, que fixo em 10% sobre o valor corrigido da causa, nos termos do artigo 85, § 2º, e artigo 86, todos do CPC cuja exigibilidade se encontra suspensa em razão dos benefícios da gratuidade de justiça deferidos.
+De outro giro, fica dispensado o executado em relação ao pagamento do remanescente das custas processuais, em virtude da isenção legal que lhe assiste. Outrossim, condeno o executado ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) do valor cabível à parte exequente, nos termos dos arts. 85, § 3º, I, do CPC.
+Após o trânsito em julgado, expeçam-se as competentes Requisições de Pagamento em favor dos credores ou Precatórios conforme planilha atualizada de id. 47839481.
+Dessa decisão, ZULEIDE RIBAMAR DE SOUZA interpôs agravo de instrumento, do qual não se conheceu com os seguintes fundamentos (fl. 43):
+Tendo sido a deliberação judicial no sentido de julgar parcialmente procedente impugnação a cumprimento de sentença, homologar os cálculos pertinentes à execução e determinar a expedição de precatório/requisição de pequeno valor, o recurso cabível para se contrapor ao ato é a apelação. Até porque não há mais o que ser discutido quanto a certeza, a exigibilidade e liquidez do título judicial questionado pela via da impugnação ao cumprimento de sentença, encerrando expressamente a referida fase processual.
+ ..
+Dessa forma, considerando que a deliberação judicial recorrida encerrou expressamente a fase de cumprimento de sentença, julgando a respetiva impugnação, não havendo mais o que ser decidido quanto ao mérito dessa fase processual, trata-se inequivocamente de uma sentença, pelo que a apelação é o recurso adequado para contra ela se contrapor.
+Da leitura da decisão desafiada por agravo de instrumento, é possível extrair o seguinte:
+(1) foi acolhida em parte a impugnação apresentada pelo ESTADO DO MARANHÃO;
+(2) os cálculos foram homologados;
+(3) foi determinada a expedição de RPV.
+Assim, está claro que a decisão em questão não pôs fim ao cumprimento de sentença visto que não foi reconhecida a extinção do débito, seja pelo adimplemento total da dívida, reconhecimento da sua inexistência, ou porque se extinguiu. Logo, não é caso de interposição de apelação sub judice e sim de agravo de instrumento, nos termos do art. 1.015, parágrafo único, do Código de Processo Civil.
+Ante o exposto, dou provimento ao recurso especial e, por conseguinte, determino que o Tribunal de origem realize novo julgamento do agravo de instrumento interposto por ZULEIDE RIBAMAR DE SOUZA às fls. 4/12.
+Publique-se. Intimem-se.
+EMENTA
