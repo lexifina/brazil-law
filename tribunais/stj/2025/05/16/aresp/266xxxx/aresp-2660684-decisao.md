@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE EDUARDO SIQUEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 80):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INVENTÁRIO - Decisão que rejeitou a inclusão de suposto débito dos demais herdeiros com o Espólio - Insurgência do herdeiro requerente - Habilitação do crédito mencionada já anteriormente rejeitada - De qualquer forma, sentença referida pelo agravante que não contemplou condenação de qualquer das partes a pagar quantia - Medidas de natureza cautelar ou antecipatória, inclusive pedido de reserva de bens, que devem ser requeridas na eventual ação de cobrança, pois lá que será conhecida a questão - Descabido o pleito, ademais, de remoção de inventariante sem instauração do incidente apropriado - Decisão mantida - Agravo desprovido.
+Rejeitados os embargos de declaração opostos (fls. 90-92).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022, II, parágrafo único, II, e 489, §1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação aos arts. 502, 503 e 508, todos do CPC, pois há coisa julgada material, e as decisões recorridas desconsideraram a imutabilidade e a indiscutibilidade da decisão de mérito que reconheceu as dívidas dos herdeiros Carlos Augusto Siqueira e José Tadeu Siqueira para com o espólio.
+Sustenta, ainda, violação aos artigos 1.992 e 1.993, ambos do CC, haja vista que os herdeiros sonegaram bens da herança e que o inventariante deve ser removido por negar a existência dos bens.
+Aponta divergência jurisprudencial com arestos de outros Tribunais e desta Corte.
+Não foram oferecidas contrarrazões ao recurso especial (fl. 292).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 293-297), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo (fl. 348).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+De início, em relação à apontada violação dos arts. 489 e 1.022 do CPC, observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ. 1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.  ..  5. Agravo Interno não provido. (AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.) Por fim, alterar o decidido no acórdão impugnado quanto à violação dos arts. 832 e 833 do CPC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça. A propósito, cito o seguinte precedente:
+Ademais, em relação à apontada ofensa aos arts. 502, 503 e 508, todos do CPC e 1.992 e 1.993, ambos do CC, alterar o decidido no acórdão impugnado, no que se refere à alegação de reconhecimento de coisa julgada material e remoção do inventariante por sonegação de bens, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No tocante à divergência jurisprudencial suscitada, o recurso especial também não merece prosperar, porquanto não foi demonstrado o devido cotejo analítico e a similitude fática entre os acórdãos indicados, limitando-se a promover a citação de ementas de julgados que entende acolher sua tese recursal.
+Nesse sentido, cito:
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+ ..
+(AgInt no AREsp n. 1.916.463/PE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/11/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. AÇÃO DE INVENTÁRIO. COISA JULGADA. REMOÇÃO DE INVENTARIANTE. SONEGAÇÃO DE BENS. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA NÃO COMPROVADA. AGRAVO IMPROVIDO.
