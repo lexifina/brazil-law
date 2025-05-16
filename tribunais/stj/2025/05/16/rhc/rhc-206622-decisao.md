@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de MILENA BARONI FONTANA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que denegou a ordem no HC n. 5241546-19.2024.8.21.7000, com acórdão assim ementado (fl. 157):
+HABEAS CORPUS. CRIMES PREVISTOS NA LEI DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. FUMUS COMMISSI DELICT E PERICULUM LIBERTATIS EVIDENCIADOS. EXCESSO DE PRAZO NÃO VERIFICADO. A legalidade das prisão preventiva da paciente já foi analisada por esta Câmara Criminal quando do julgamento do Habeas corpus nº 5092331-66.2024.8.21.7000 em 25/04/2024 . Relativamente ao excesso de prazo, já decidiu o Superior Tribunal de Justiça que a contagem dos prazos processuais não pode ser realizada de forma aritmética, devendo sempre ser analisadas as peculiaridades do caso concreto mediante juízo de razoabilidade. Das informações prestadas pela autoridade apontada como coatora, e movimentações atualizadas do processo originário verifica-se que não há qualquer desídia a ser reconhecida na condução do processo criminal, uma vez que, embora com certo dilargamento da marcha processual, trata-se de feito grave e complexo com 21 (vinte e um) réus denunciados. A gravidade concreta dos crimes investig ados e as circunstâncias dos fatos que envolvem à paciente inviabilizam, neste momento, a aplicação de medidas cautelares previstas no Art. 319 do Código de Processo Penal. ORDEM DENEGADA..
+Extrai-se dos autos que a recorrente foi presa preventivamente pela suposta prática do delito previsto no art. 35 da Lei n. 11.343/06.
+Sustenta a recorrente o excesso de prazo na formação da culpa, sob o fundamento de que se encontra segregada há 05 (cinco) meses sem a realização de audiência de instrução e julgamento.
+Ressalta ser cabível a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, em especial o monitoramento eletrônico, proibição de comunicação com os demais corréus e proibição de ingresso em presídios.
+Ao final, pugna pelo provimento do recurso, a fim de que seja revogada a prisão preventiva ou a sua substituição por medidas cautelares diversas da prisão.
+As informações requisitadas foram apresentadas pelo Juízo a quo nas fls. 202-203.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 211-213).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+No caso, a prisão preventiva foi mantida pelo Tribunal de Justiça do Estado do Rio Grande do Sul para a garantia da ordem pública, conforme fundamentos de fls. 155-156 (grifamos):
+No presente caso, das informações prestadas pela autoridade apontada como coatora, verifica-se que não há qualquer desídia a ser reconhecida na condução do processo criminal, uma vez que, embora com certo dilargamento da marcha processual, trata-se de feito grave e complexo com 21 (vinte e um) réus denunciados.
+Destaca-se que quando das informações prestadas, a autoridade apontada como coatora apontou que o feito aguardava "o decurso do prazo do edital de citação dos réus GUILHERME e RICHER para, então, serem analisadas as defesas e designação de audiência para instrução do processo", e das movimentações atualizadas constantes no processo originário constata-se que em 15/09/2024 foi efetivada a prisão dos corréus Guilherme e Richer, sendo cumprido o mandado de prisão expedido.
+Já relativamente às medidas cautelares substitutivas à prisão preventiva, é de se destacar que de acordo com os elementos até então colhidos durante as investigações Milena estaria vinculada à teia de ações e atividades que envolvem o tráfico de drogas, havendo indícios de que a paciente, além de visitar no presídio o seu companheiro, André, líder da facção V7, intermedia a comunicação dos integrantes da facção criminosa.
+Tais circunstâncias, aliada à gravidade dos fatos apurados revelam objetivo risco à ordem pública, inviabilizando a aplicação de medidas cautelares previstas no Artigo 319 do Código Processo Penal.
+Pontua-se que a extensão do envolvimento do paciente com a organização criminosa, por ser matéria de prova, deverá ser objeto de análise pelo juízo de origem, no momento oportuno, e não nesta via estreita do Habeas corpus, em momento processual ainda tão incipiente.
+Assim, considerando que permanecem hígidos os motivos que determinaram a decretação da prisão preventiva da paciente, não havendo ilegalidade flagrante a ser reconhecida, mantenho a prisão preventiva da paciente para a garantia da ordem pública, conveniência da instrução criminal e aplicação da Lei Penal.
+Dos excertos transcritos, concluo que, ao contrário do que alega a defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a necessidade de se garantir a ordem pública, diante da gravidade dos fatos praticados pela paciente, bem como da periculosidade evidenciada pela facilidade em se comunicar com membros da facção criminosa.
+Ademais, não se vislumbra a ocorrência de excesso de prazo para a formação da culpa, considerando a complexidade do fato delituoso apurado, bem como a pluralidade de réus.
+Com efeito,
+a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação. (HC n. 541.104/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/02/2020, DJe de 27/02/2020).
+Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO CONFIGURADO. INCIDÊNCIA DA SÚMULA N. 64/STJ, NA ESPÉCIE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se verifica o excesso de prazo sustentado pela Defesa, considerando-se o tempo concreto da prisão preventiva da agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciada, além das peculiaridades do feito, que conta com pluralidade de réus (três).
+2. Incide, na espécie, o enunciado da Súmula n. 64/STJ (Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela Defesa), uma vez que a Defesa requereu o adiamento da audiência de instrução e julgamento previamente designada para o dia 05/11/2024.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 197.551/BA, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. FURTO QUALIFICADO. ESTELIONATO. FALSIDADE IDEOLÓGICA. USO DE DOCUMENTO FALSO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. LAVAGEM DE DINHEIRO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. REANÁLISE DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. INSTRUÇÃO FINALIZADA. SÚMULA N. 52/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que o Tribunal de origem não conheceu da impetração originária no tocante ao suposto cerceamento de defesa. Por esse motivo, não pode esta Corte apreciar a alegação, sob pena de indevida supressão de instância.
+2. Apreciar se as informações pertinentes ao acesso aos dados apreendidos dos aparelhos telefônicos teriam sido efetivamente disponibilizadas pelo Juízo demandaria o reexame de fatos e provas, providência incabível na via estreita do habeas corpus.
+3. Consoante o disposto no enunciado da Súmula n. 52/STJ, Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+4. Consideradas as peculiaridades da causa, que envolve pluralidade de réus, imputação de diversos delitos, com longa pena em abstrato, não há como reconhecer, por ora, a alegada desídia estatal na condução do feito.
+5. Agravo regimental não provido.
+(AgRg no HC n. 896.065/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Confiram-se, ainda, as seguintes ementas de julgados proferidos pelo Supremo Tribunal Federal, mutatis mutandis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. SITUAÇÃO NÃO CONFIGURADORA DE INOVAÇÃO DE FUNDAMENTAÇÃO PELOS TRIBUNAIS DE INSTÂNCIAS SUPERIORES. AGRAVO A QUE SE NEGA PROVIMENTO.
+(..)
+II - A decisão do Superior Tribunal de Justiça alinha-se perfeitamente à jurisprudência deste Supremo Tribunal, firmada no sentido de que a prisão preventiva pode ter fundamento na reiteração criminosa, como violadora da ordem pública, quando demonstrada a presença de registro de prática de crimes na folha de antecedentes criminais do réu. Precedentes.
+(..)
+IV - Agravo regimental a que se nega provimento.
+(RHC 177.649/AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/11/2019, DJe de 06/12/2019).
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA FUNDADA NO RISCO DE REITERAÇÃO. FUGA DO DISTRITO DA CULPA. ALEGAÇÃO DE EXCESSO DE PRAZO NÃO APRECIADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. COMPLEXIDADE DA CAUSA PENAL. PLURALIDADE DE RÉUS. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E NÃO PROVIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - É idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrado o risco de reiteração delitiva.
+(..)
+V - Agravo regimental a que se nega provimento.
+(RHC 198.621-AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 12/05/2021, DJe de 19/05/2021).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ainda, não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado. (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por consequência, não há flagrante ilegalidade a ser reconhecida.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
