@@ -1,0 +1,67 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SALDOS DE CONTAS DO FGTS. ÍNDICE DE CORREÇÃO MONETÁRIA. ACÓRDÃO RECORRIDO HARMÔNICO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 5.090. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Sétima Turma Recursal da Seção Judiciária do Rio de Janeiro:
+
+    “ADMINISTRATIVO - CEF - SALDOS DE CONTAS DO FGTS - ÍNDICE DE CORREÇÃO MONETÁRIA - PRESERVAÇÃO DO VALOR REAL - APLICAÇÃO DE ÍNDICE DIVERSO DO PREVISTO EM LEI - SENTENÇA DE IMPROCEDÊNCIA - RECURSO REPETITIVO (RESP 1614874) - APRECIAÇÃO PELO STJ - RECURSO DA PARTE AUTORA CONHECIDO E IMPROVIDO - SENTENÇA MANTIDA” (fl. 5, e-doc. 49).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 70).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. XXII do art. 5º, o inc. III do art. 7º e o caput do art. 37 da Constituição da República.
+
+    Argumenta que, “sendo a TR índice inidôneo para restabelecer o poder aquisitivo dos depósitos do FGTS, sua substituição por outro índice que melhor recomponha as perdas monetárias se toma imperioso, a fim de fazer prevalecer o art. 2º da Lei nº 8.036/90 e art. 233 do Código Civil” (fl. 13, e-doc. 79).
+
+    Sustenta que “a parte autora faz jus ao recebimento da substituição da aplicação da TR pelo INPC ou IPCA como índice de correção dos depósitos efetuados em conta de FGTS” (fl. 13, e-doc. 79).
+
+    3. Em 26.11.2019, foi determinada a suspensão do processo até o julgamento do mérito da Ação Direta de Inconstitucionalidade n. 5.090 (e-doc. 107).
+
+    Em 14.11.2024, o recurso extraordinário foi inadmitido sob o fundamento de harmonia do acórdão recorrido com o entendimento do Supremo Tribunal Federal fixado no julgamento da Ação Direta de Inconstitucionalidade n. 5.090 (e-doc. 120).
+
+    O agravante interpôs agravo contra a decisão de inadmissão do recurso extraordinário, ao argumento de que “a forma de aplicação do novo critério de correção ainda não está plenamente definida, o que reforça a necessidade de exame da questão pelo STF para garantir a correta implementação da decisão e evitar eventuais prejuízos ao Agravante e aos demais trabalhadores” (fl. 5, e-doc. 148).
+
+    Pede “seja dado total provimento ao presente Agravo para revisão da decisão que não admitiu o Recurso Extraordinário, sendo determinado o recebimento e devido processamento, para ao final, seja mantida a suspensão dos presentes autos até o julgamento definitivo da ADI 5.090, com trânsito em julgado; e, após, seja dado seguimento ao recurso extraordinário, para que o Supremo Tribunal Federal tenha a oportunidade de reavaliar a modulação dos efeitos da ADI 5.090 e garantir que os direitos do agravante sejam devidamente protegidos” (fl. 6, e-doc. 148).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    5. Na espécie, a Turma recursal de origem assentou:
+
+    “O Fundo de Garantia do Tempo de Serviço (FGTS) foi criado na década de 60, através da Lei 5.107/66, com previsão de correção monetária, de acordo com a legislação específica, e capitalização de juros sobre os depósitos recolhidos pelo empregador. Tudo isso com a finalidade de proteger o trabalhador demitido sem justa causa. Entretanto, o FGTS também financia programas de habitação popular, saneamento básico e infraestrutura urbana, que beneficiam a sociedade, em geral, principalmente a de menor renda. Atualmente o FGTS é regido pela Lei nº 8.036/90, sendo a CEF seu atual agente operador, cabendo sua regulamentação ao Conselho Curador do FGTS. A citada lei, em seu Art. 13, diz: ‘os depósitos efetuados nas contas vinculadas serão corrigidos monetariamente com base nos parâmetros fixados para atualização dos saldos dos depósitos de poupança e capitalização juros de (três) por cento ao ano’. Este comando legal alterou o indexador da correção monetária para os depósitos fundiários e o vinculou àquele utilizado nos contratos de caderneta de poupança, que hoje em dia é a Taxa Referencial. O questionamento feito pela parte recorrente foi baseado no fato de a caderneta de poupança adotar a TR como critério de correção monetária, índice este que não corresponde à verdadeira inflação existente no país, tanto que a parte autora requer a aplicação do INPC ou do IPCA para correção dos depósitos de FGTS. O FGTS é um fundo público, estatal, de contribuição compulsória dos empregados, pertencente a todos os trabalhadores, não havendo como atribuir-lhe tratamento análogo aos investimentos privados, devendo sua remuneração observar estritamente os critérios definidos pela legislação, sob pena de desequilíbrio de todas as operações de crédito que utilizam recursos do FGTS, mormente daquelas inerentes ao Sistema Financeiro da Habitação. A Caixa Econômica Federal, órgão gestor do FGTS, não pode deixar de cumprir o disposto na Lei nº 8.036/90, sendo totalmente incabível a pretensão do recorrente de ver aplicado índice não previsto em lei. Nesse sentido já se decidia antes do RESP 1614874/SC, senão vejamos: (...). Dessa forma, não há respaldo para a pretensão da recorrente de atualização por índice diverso do legal. Impõe-se, portanto, a manutenção da sentença de improcedência proferida pelo juízo de origem” (fls. 2-3, e-doc. 49).
+
+    Ao inadmitir o recurso extraordinário, a Turma recursal de origem ressaltou:
+
+    “É certo que a decisão proferida na referida Ação Direta de Inconstitucionalidade 5.090 ainda não transitou em julgado. Todavia, ‘Desnecessário o trânsito em julgado para que a decisão proferida no julgamento do mérito em ADI seja cumprida’ (STF, Rcl 2.576, Relatora Ministra Ellen Gracie, Tribunal Pleno, publicação em DJ de 20/8/2004, página 46). Ainda, ‘A existência de precedente firmado pelo Pleno do Supremo Tribunal Federal autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independentemente da publicação ou do trânsito em julgado do processo paradigma. Precedentes’ (STF, ARE 1.298.791 AgR, Relator Ministro Ricardo Lewandowski, Segunda Turma, publicação em DJe-081 de 29/4//2022.). 6. Na decisão proferida pelo Supremo Tribunal Federal, porém, apesar de se ter reconhecido o direito à remuneração das contas vinculadas ao FGTS ‘em valor que garanta, no mínimo, o índice oficial de inflação (IPCA) em todos os exercícios’, ocorrerá a produção de ‘efeitos ex nunc, a contar da publicação da ata de julgamento’ da Ação Direta de Inconstitucionalidade 5.090, ou seja, tal decisão somente se aplicará aos saldos nas contas vinculadas ao FGTS a partir de 17/6/2024 (data da publicação da ata de julgamento da referida ação (...). Em outras palavras, a decisão do Supremo Tribunal Federal não abrange a atualização monetária dos saldos existentes nas contas vinculadas ao FGTS antes da referida data (17/6/2024), com o pagamento de diferenças pretéritas. (...) Desse modo, pelo fato de a decisão do Supremo Tribunal Federal produzir eficácia contra todos (mesmo os que não participaram do processo) e ter efeito vinculante relativamente à administração indireta, a Caixa Econômica Federal (empresa pública federal integrante da administração federal indireta) deverá cumprir a decisão da Suprema Corte, já que cabe à referida empresa pública efetuar o crédito da atualização monetária e dos juros nos saldos existentes em todas as contas vinculadas ao FGTS, por força do art. 13, § 1º, da Lei 8.036/1990 (§ 1º com redação dada pela Lei 14.438/2022). 9. Em consequência, a se considerar que a decisão proferida pelo Supremo Tribunal Federal somente produzirá efeitos futuros (a contar de 17/6/2024), impõe-se inadmitir-se o recurso extraordinário, pois o acórdão recorrido está alinhado à referida decisão, ou seja, não se reconheceu o direito à remuneração dos saldos das contas vinculadas ao FGTS existentes até 17/6/2024 (data de publicação da ata de julgamento da Ação Direta de Inconstitucionalidade 5.090) por índice distinto da Taxa Referencial (TR), estabelecido em lei. 10. Quanto à remuneração dos saldos de contas vinculadas ao FGTS após 17/6/2024, embora o Supremo Tribunal Federal tenha reconhecido que a referida remuneração deve observar o ‘índice oficial de inflação (IPCA)’, a Caixa Econômica Federal cumprirá a decisão proferida na Ação Direta de Inconstitucionalidade 5.090 em relação a todas as contas vinculadas ao FGTS existentes no País. Desse modo, não há interesse processual da parte autora, já que nem sequer houve o descumprimento da decisão da Suprema Corte pela Caixa Econômica Federal. Ademais, ainda que venha a ocorrer tal descumprimento – o que se admite apenas como argumentação –, não se pode proferir decisão condicional, dependente de evento futuro e incerto (‘Se a Caixa Econômica Federal não cumprir a decisão do Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade 5.090...’), pois a decisão deve ser certa para pôr termo ao litígio, ainda que decida relação jurídica condicional, segundo o disposto no art. 492, parágrafo único, do Código de Processo Civil (Lei 13.105/2015)” (fls. 2-3, e-doc. 120).
+
+    6. Em 6.9.2019, o Ministro Luís Roberto Barroso deferiu medida cautelar na Ação Direta de Inconstitucionalidade n. 5.090-MC, para determinar a imediata suspensão de todos os processos em andamento que tratassem da matéria referente à correção dos depósitos nas contas vinculadas ao FGTS pela taxa referencial – TR. Tem-se naquela decisão:
+
+    “Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal” (DJe 9.9.2019).
+
+    Em 12.6.2024, este Supremo Tribunal Federal julgou parcialmente procedente o mérito da Ação Direta de Inconstitucionalidade n. 5.090, para afastar, com efeito ex nunc, a utilização da taxa referencial. Consta da ata de julgamento:
+
+    “O Tribunal, por maioria e nos termos do voto médio do Ministro Flávio Dino, Redator para o acórdão, julgou parcialmente procedente o pedido formulado na ação direta, com atribuição de efeitos ex nunc, a contar da publicação da ata de julgamento, estabelecendo o seguinte entendimento: a) Remuneração das contas vinculadas na forma legal (TR + 3% a.a. + distribuição dos resultados auferidos) em valor que garanta, no mínimo, o índice oficial de inflação (IPCA) em todos os exercícios; e b) Nos anos em que a remuneração das contas vinculadas ao FGTS não alcançar o IPCA, caberá ao Conselho Curador do Fundo (art. 3º da Lei nº 8.036/1990) determinar a forma de compensação. Vencidos os Ministros Luís Roberto Barroso (Presidente e Relator), André Mendonça, Nunes Marques e Edson Fachin, que julgavam parcialmente procedente o pedido para declarar que a remuneração das contas do FGTS não pode ser inferior à da caderneta de poupança, modulando os efeitos para os novos depósitos efetuados a partir de 2025. Ficaram vencidos parcialmente os Ministros Cristiano Zanin, Alexandre de Moraes, Dias Toffoli e Gilmar Mendes, que julgavam inteiramente improcedente o pedido” (DJe 17.6.2024).
+
+    A orientação ali firmada aplica-se a partir da publicação da ata de julgamento apenas aos depósitos ocorridos depois daquele julgamento, não retroagindo para incidir sobre os saldos existentes nas contas vinculadas ao FGTS.
+
+     Deve-se registrar ser assente na jurisprudência deste Supremo Tribunal que as decisões proferidas pelo Supremo Tribunal Federal dotadas de efeito vinculante e eficácia erga omnes produzem efeitos desde a publicação da ata do julgamento.
+
+    O acórdão recorrido harmoniza-se com essa orientação jurisprudencial do Supremo Tribunal Federal.
+
+    No mesmo sentido, a seguinte decisão monocrática: ARE n. 1.539.067, Relator o Ministro Alexandre de Moraes, DJe 14.3.2025.
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 18 de maio de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
