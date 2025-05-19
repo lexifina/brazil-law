@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial manejado por Lojas Becker Ltda. com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 613):
+TRIBUTÁRIO. PIS E COFINS. REGIME NÃO CUMULATIVO. APROPRIAÇÃO DE CRÉDITOS. IPI NÃO RECUPERÁVEL. IMPOSSIBILIDADE.
+1. Não é possível o creditamento, no âmbito do regime não cumulativo do PIS e da COFINS, dos valores referentes ao IPI não recuperável.
+2. A disposição do artigo 171, inciso III, da Instrução Normativa RFB nº 2.121/2022 está de acordo com a legislação de regência do PIS e COFINS não cumulativos.
+3. A expedição de ato normativo pelo Fisco para aclarar os critérios de apropriação de créditos de PIS e COFINS não cumulativos não configura nova exigência, mas apenas delimitação do entendimento administrativo acerca dos parâmetros de legais. Não há, assim, que se alegar violação ao princípio da anterioridade nonagesimal.
+Opostos embargos declaratórios, foram rejeitados (fls. 634/636).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, 1.022, II, do CPC; 1º e 3º, I, II, VI, § 2º, II, das Leis 10.637/2002 e 10.833/2003; 15, I, §1º, I, da Lei 10.865/2004; 301, § 3º, do Decreto 9.580/2018; 99 e 110 do CTN. Sustenta que: (I) apesar dos aclaratórios, o Tribunal de origem não se manifestou sobre as questões neles apontadas; (II) "o acórdão proferido, ao não permitir o creditamento do IPI não recuperável, viola a não cumulatividade e o direito ao creditamento previstos nos arts. 1º e 3º, I, II e VI e §2º, II, das Leis nº 10.637/02 e nº 10.833/03; art. 15, I, § 1º, I, da Lei nº 10.865/04; art. 301, § 3º, do Decreto nº 9.580/18, além de violar os arts 99 e 110 do CTN" (fl. 648).
+Contrarrazões às fls. 725/728.
+Parecer do Ministério Público Federal às fls. 770/782, pelo não provimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera .
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+Em relação à controvérsia dos autos, reconheceu o Tribunal de origem às fls. 609/611 (g.n.):
+A impetrante objetiva a fruição dos créditos de PIS e COFINS sobre o valor pago a título de IPI na aquisição de bens para revenda e/ou utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda.
+A não-cumulatividade adotada pelo legislador tributário em relação ao PIS e COFINS não se confunde com o princípio constitucional da não-cumulatividade previsto para os impostos (ICMS e IPI). Para estes impostos, a técnica e as restrições quanto ao direito de crédito estão previstas no próprio texto constitucional (art. 153, §3º, II e art. 155, §2º, I), enquanto que para as contribuições de PIS/COFINS atribuiu-se à lei ordinária a tarefa de instituir um sistema que evitasse a incidência cumulativa, consoante redação do § 12º do art. 195 da Constituição Federal.
+A lei autorizou que o contribuinte desconte determinados créditos que devem ser calculados com base na mesma alíquota, incidentes na aquisição de mercadorias e/ou insumos, assim como outros encargos e despesas previstos no art. 3º da Lei nº 10.833/02 e art. 3º da Lei nº 10.637/02, relacionados às atividades da pessoa jurídica, nos termos a seguir transcritos:
+ ..
+A fim de regulamentar as disposições das leis, a RFB editou sucessivamente as Instruções Normativas nºs 247/2002, 404/2004 e 1.911/2019, sendo que a norma de regência na via administrativa, nos dias atuais, é aquela prevista na IN 2121:
+ ..
+Não vislumbro que os sucessivos atos normativos administrativos tenham criado indevida restrição não prevista na legislação de regência. O IPI incidente na operação não conforma o conceito de custo de aquisição. Trata-se de valor que será objeto de apuração específica (livro de registro de apuração do IPI) e deduzido daquele imposto incidente sobre o valor total da operação de que decorrer a saída, sendo repassado ao consumidor final.
+O IPI nas aquisições, quando recuperável, não gera direito a crédito, na medida em que é compensado com o IPI incidente na operação subsequente. A 2ª Turma do TRF da 4ª Região assim examinou a questão:
+ ..
+Quanto ao IPI não recuperável, o valor do imposto destacado na nota do produto adquirido não compõe o faturamento do fornecedor para a finalidade da incidência da contribuição ao PIS e da COFINS. Como não ocorre a exigência das contribuições na etapa anterior, não é cabível ao adquirente de apurar créditos, pois não se está diante de múltiplas incidências das referidas contribuições.
+A expedição de ato normativo pelo Fisco para aclarar os critérios de apropriação de créditos de PIS e COFINS não cumulativos não configura nova exigência, mas apenas delimitação do entendimento administrativo acerca dos parâmetros de legais. Não há, assim, que se alegar violação ao princípio da anterioridade nonagesimal.
+Dessa forma, não se descortina negativa de prestação jurisdicional ao tão só argumento de ter o acórdão recorrido solucionado a demanda em sentido diverso do pretendido pela recorrente.
+Ademais, da leitura do excerto transcrito, ressai nítido que o apelo raro, nos moldes em que apresentado, não ultrapassa a barreira de admissibilidade recursal. Isso porque eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação de dispositivo da Instrução Normativa 2.121/2022 da Receita Federal do Brasil, providência vedada no âmbito do recurso especial, uma vez que tal regramento não se subsome ao conceito de lei federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PIS. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). REGIME NÃO CUMULATIVO. VALORES REFERENTES AO IPI RECUPERÁVEL. NÃO CONFIGURADA VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. NORMAS INFRALEGAIS. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. Quanto aos artigos 96, 97 e 99 do CTN, observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incide na espécie a Súmula 211/STJ.
+3. Ressalte-se que inexiste contradição no caso de ser afastada a ofensa ao art. 1.022 do CPC/2015 ou de não se conhecer do Apelo Nobre por ausência de prequestionamento. É perfeitamente possível que o aresto recorrido encontre-se devidamente fundamentado sem, no entanto, ter sido decidido à luz dos preceitos jurídicos invocados pela parte postulante.
+4. Constata-se que a controvérsia dos autos foi dirimida com base na análise e na interpretação da Instrução Normativa RFB 1.911/2019. Fica evidente, portanto, que eventual ofensa à legislação federal, se houve, ocorreu de forma indireta ou reflexa, o que não justifica a interposição de Recurso Especial nesse caso. Precedente: AgInt no REsp 1.680.999/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 3.6.2020.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 2.052.450/PR, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento .
+Publique-se.
+EMENTA
