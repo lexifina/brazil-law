@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCY MARIA MARQUES contra a decisão que inadmitiu o recurso especial com fundamento na inexistência de violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil, 4º, I, 6º, VI e VIII, 14, 39, I, c/c o art. 51, IV, do Código de Defesa do Consumidor e na incidência da Súmula n. 7 do STJ (fls. 686-687).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação de obrigação de fazer c/c pedido de danos morais e tutela antecipada.
+O julgado foi assim ementado (fl. 611):
+Apelação Cível. Ação de obrigação de fazer com danos morais. Aquisição de aparelho celular. Ausência de fornecimento do carregador junto com o aparelho. Indução à compra apartada. Venda casada. Art. 39, I do CDC. Vedação. Obrigação de fornecimento reconhecida. Dano moral. Inocorrência. Ausência de violação a direito de personalidade. Danos morais não caracterizados. Recurso principal parcialmente provido. Sentença reformada em parte. Recurso adesivo prejudicado.
+- A ausência de fornecimento do carregador do celular, acessório essencial para a utilização do telefone adquirido pelo consumidor, com estabelecimento de limitações ao acesso do equipamento, de forma a compelir o consumidor à aquisição onerosa do produto, configura prática comercial abusiva, típica de venda casada. - Demonstrada a adoção de conduta vedada pelo Código de Defesa do Consumidor, merece acolhimento o pedido inicial de condenação do fornecedor ao saneamento do vício, mediante o fornecimento do equipamento faltante. - A reparação por danos morais deve efetivamente reparar um dano concreto decorrente da violação a direitos da personalidade, como v. g. direito ao nome, à honra, à imagem, à privacidade e intimidade, direito ao seu próprio corpo e à sua integridade física (arts. 11 a 21 do CC), que seja capaz de causar dor, humilhação, constrangimento ou sofrimento à vítima do dano. À exceção do dano moral in re ipsa, sem a prova desse dano não há falar-se em indenização. - A ausência de entrega do produto ao consumidor, em que pese gere frustração e aborrecimento, por si só, não enseja violação à direito da personalidade. - Na hipótese, não há que se falar em indenização por danos morais, uma vez ausente comprovação de maiores desdobramentos lesivos da ausência de entrega ou da privação do produto.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil, pois o Tribunal não apreciou as teses levantadas, que eram capazes de infirmar o resultado; além disso, o Tribunal a quo não seguiu o precedente invocado, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento;
+b) 4º, I, 6º, VI e VIII, 14, 39, I, c/c o art. 51, IV, do Código de Defesa do Consumidor, pois o fornecimento de aparelho celular sem o dispositivo essencial de carregamento para sua utilização é um ato abusivo, razão pela qual é necessária a reparação por danos morais causados pela inutilização do produto até a efetiva entrega do dispositivo do carregamento.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ no REsp n. 1.634.851.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a condenação por danos morais.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+I - Arts. 489, § 1º, IV e VI, e 1.022, II, do CPC
+Descabe a apontada negativa de vigência do art. 1.022 e 489 do CPC, uma vez que nem sequer foram opostos embargos de declaração ao acórdão proferido pela Corte a quo.
+Incide na espécie o óbice inscrito na Súmula n. 284 do STF.
+II - Arts. 4º, I, 6º, VI e VIII, 14, 39, I, c/c o art. 51, IV, do CDC
+O Tribunal de Justiça, amparado no acervo fático-probatório dos autos, concluiu pela ausência de danos extrapatrimoniais decorrentes da ausência de entrega do carregador de conexão do fio do celular à tomada.
+Ressaltou que a própria autora só pleiteou o equipamento à requerida 44 dias após a compra, não comprovando que sofrera consequências em sua vida pessoal.
+Destacou que a parte, além de não comprovar suas alegações, pleiteando o julgamento antecipado da lide, nem sequer esclareceu quais as consequências efetivamente sofridas pela ausência do equipamento capazes de gerar lesão de ordem moral.
+Embora o art. 6º, VIII, do CDC preveja a facilitação da defesa do consumidor pela inversão do ônus da prova, não o exime de apresentar prova mínima dos fatos constitutivos de seu direito, o que, segundo o Tribunal de origem, não ocorreu (AgInt no AREsp n. 2.604.539/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024).
+Nesse contexto, para rev er as conclusões do Tribunal a quo e estabelecer que a ausência de entrega do carregador de conexão do fio do celular à tomada quando da venda do aparelho de telefonia móvel ultrapassou, no caso concreto, o mero dissabor e configurou dano moral indenizável, seria necessário reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+III - Dissídio jurisprudencial
+No tocante ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022;AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
