@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. REGULARIZAÇÃO NÃO EFETUADA. DESERÇÃO. SÚMULA 187/STJ. PEDIDO DE JUSTIÇA GRATUITA. AUSÊNCIA DE EFEITOS RETROATIVOS. JUIRSPRUDÊNCIA DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. O pedido de justiça gratuita, mesmo podendo ser formulado a qualquer tempo, "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 29/5/2012).
+3. A jurisprudência desta Corte entende que, por não ter efeito retroativo, a concessão do benefício da gratuidade judiciária posterior à interposição do recurso não afasta da parte o ônus de realizar o respectivo preparo. Neste sentido: AgInt no AREsp n. 2.438.201/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/8/2024; AgRg no AREsp n. 2.682.182/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/12/2024; AgInt no RMS 7.179/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 6/11/2023; REsp n. 2.182.666/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJEN 2/4/2025, monocrática; AgInt no AREsp 1.741.947/GO, Rel. Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/12/2021; AgInt no AREsp 1.397.319/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2019.
+4. No caso, mantido o não conhecimento do recurso pela deserção, com incidência da Súmula 187/STJ, diante da não comprovação do recolhimento das custas do recurso especial, mesmo após intimação da parte para a regularização do preparo.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por ECENTER SERVIÇOS DE APOIO ADMINISTRATIVOS LTDA LTDA. contra decisão que não conheceu do recurso, pela aplicação da Súmula 187/STJ, por falta de comprovação, no prazo assinalado, da realização do preparo, quando intimado à sua regularização, o que leva à deserção.
+Nas razões do presente agravo, alega que pleiteou, tempestivamente, o direito à gratuidade da justiça, diante da sua falta de condições em recolher as custas do presente recurso, expondo seus argumentos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. REGULARIZAÇÃO NÃO EFETUADA. DESERÇÃO. SÚMULA 187/STJ. PEDIDO DE JUSTIÇA GRATUITA. AUSÊNCIA DE EFEITOS RETROATIVOS. JUIRSPRUDÊNCIA DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016.
+2. O pedido de justiça gratuita, mesmo podendo ser formulado a qualquer tempo, "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 29/5/2012).
+3. A jurisprudência desta Corte entende que, por não ter efeito retroativo, a concessão do benefício da gratuidade judiciária posterior à interposição do recurso não afasta da parte o ônus de realizar o respectivo preparo. Neste sentido: AgInt no AREsp n. 2.438.201/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/8/2024; AgRg no AREsp n. 2.682.182/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/12/2024; AgInt no RMS 7.179/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 6/11/2023; REsp n. 2.182.666/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJEN 2/4/2025, monocrática; AgInt no AREsp 1.741.947/GO, Rel. Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/12/2021; AgInt no AREsp 1.397.319/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2019.
+4. No caso, mantido o não conhecimento do recurso pela deserção, com incidência da Súmula 187/STJ, diante da não comprovação do recolhimento das custas do recurso especial, mesmo após intimação da parte para a regularização do preparo.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A jurisprudência do STJ estabelece que o recurso especial deve ser acompanhado das guias de recolhimento e dos comprovantes de pagamento no momento de sua interposição, sob pena de deserção.
+No caso, aberto prazo para a regularização do preparo, a parte pediu a justiça gratuita. A decisão ora agravada não conheceu o recurso pela deserção, aplicando a Súmula 187/STJ, por falta de regularização do preparo, no prazo assinalado.
+A agravante discute a contagem do prazo, afirmando tempestiva sua petição para deixar de recolher as custas e pedir a justiça gratuita, em razão de feriado estadual que alega.
+Ocorre que o pedido de justiça gratuita, mesmo podendo ser formulado a qualquer tempo, "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, Quinta Turma, Rel. Ministro Marco Aurélio Bellizze, DJe de 29/5/2012).
+Com efeito, a jurisprudência desta Corte entende que, por não ter efeito retroativo, a concessão do benefício da gratuidade judiciária posterior à interposição do recurso não afasta da parte o ônus de realizar o respectivo preparo
+Neste sentido: AgInt no AREsp n. 2.438.201/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/8/2024; AgRg no AREsp n. 2.682.182/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/12/2024; AgInt no RMS 7.179/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 6/11/2023; REsp n. 2.182.666/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJEN 2/4/2025, monocrática; AgInt no AREsp 1.741.947/GO, Rel. Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/12/2021; AgInt no AREsp 1.397.319/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2019.
+Isso tudo considerado, no caso, pois, é desinfluente a alegação a respeito da tempestividade, uma vez que, nem mesmo na data que entendeu tempestivo, houve a comprovação do recolhimento das custas.
+Assim, é caso de se manter o não conhecimento do recurso pela deserção, com incidência da Súmula 187/STJ, diante da não comprovação do recolhimento das custas do recurso especial, mesmo após intimação da parte para a regularização do preparo.
+A propósito:
+2. No presente caso, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento. Assim, a parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187 do STJ, o que leva à deserção do recurso.
+(AgRg no AREsp n. 2.741.590/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/4/2025, DJEN de 7/4/2025, trecho da ementa)
+3. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida, o recurso especial é considerado deserto. Precedentes.
+(AgInt no AREsp n. 2.763.894/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025, trecho da ementa)
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
