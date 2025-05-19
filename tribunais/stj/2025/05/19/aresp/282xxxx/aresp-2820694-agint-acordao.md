@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ.DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso.
+II. Questão em discussão
+2. Cabimento de agravo de instrumento.
+III. Razões de decidir
+3. O conhecimento do recurso especial exige a indicação do permissivo constitucional autorizador de sua interposição. Ausente tal requisito, incide a Súmula n. 284/STF.
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+IV. Dispositivo
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 347-355) interposto contra decisão do eminente Ministro Presidente desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a parte agravante alega que não seria aplicável a Súmula n. 284/STF, uma vez que houve a devida indicação do dispositivo de lei violado. Aduz que não pretende reexaminar matéria fática, o que afastaria a Súmula n. 7/STJ. Defende a necessidade de suspensão do processo, afirmando que as questões discutidas no Tema n. 1.198/STJ são relevantes para a compreensão do caso concreto.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 358-364), requerendo o desprovimento do recurso e a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ.DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso.
+II. Questão em discussão
+2. Cabimento de agravo de instrumento.
+III. Razões de decidir
+3. O conhecimento do recurso especial exige a indicação do permissivo constitucional autorizador de sua interposição. Ausente tal requisito, incide a Súmula n. 284/STF.
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+IV. Dispositivo
+5. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 341/344):
+Cuida-se de Agravo apresentado por ERBE INCORPORADORA 037 S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO NÃO IMPUGNÁVEL POR AGRAVO DE INSTRUMENTO. ARTIGO 1.015 DO CPC. TEMA N. 988/STJ. TAXATIVIDADE MITIGADA. EXCEÇÃO NÃO CONFIGURADA. RECURSO IMPROVIDO. 1. ADMITE-SE, POR EXCEÇÃO, MITIGAR A TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC, NOS TERMOS DO TEMA N. 988 DO STJ, SOMENTE NOS CASOS DE RISCO DE PERECIMENTO DE DIREITO, EM QUE A APRECIAÇÃO DO EFEITO SUSPENSIVO SE MOSTRA INADIÁVEL, SOB PENA DE FULMINAR-SE O BEM DA VIDA PRETENDIDO. 2. A DECISÃO QUE RECONSIDERA A SENTENÇA QUE EXTINGUIU O PROCESSO SEM RESOLUÇÃO DE MÉRITO, PARA POSSIBILITAR O SEU PROSSEGUIMENTO, NÃO ESTÁ PREVISTA NO ROL DO ART. 1.015 DO CPC, NÃO SENDO IMPUGNÁVEL POR AGRAVO DE INSTRUMENTO. INEXISTINDO RISCO DE PERECIMENTO DE DIREITO, NÃO SE CONFIGURA A HIPÓTESE DE CABIMENTO DO AGRAVO DE INSTRUMENTO, À LUZ DA TAXATIVIDADE MITIGADA PREVISTA NO TEMA N. 988/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 485, § 7º, e 1.015, ambos do CPC; bem como divergência jurisprudencial ao tema n. 988/STJ, no que concerne à possibilidade de mitigação do rol previsto no art. 1.015 do CPC, in casu, porquanto presentes a urgência no julgamento do agravo, bem como o risco de inutilidade do julgamento da questão somente em sede de apelação. Argumenta:
+26. O agravo de instrumento da parte ora recorrente não foi conhecido pelo Tribunal Regional Federal da 3ª Região sob o fundamento de tratar-se, a decisão agravada, hipótese não abrangida pelo rol de cabimento disposto no art. 1015, CPC/2015, nos termos a seguir transcritos:
+ ..
+27. De fato, o STJ fixou tese em sede de recursos repetitivos no sentido de que a taxatividade do rol previsto no art. 1.015, CPC/2015 é mitigada (Tema 988/STJ). Assim, asseverou ser cabível a interposição de agravo de instrumento mesmo fora das hipóteses do artigo 1.015 quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+ ..
+29. O acórdão recorrido, por sua vez, entendeu pela inaplicabilidade do Tema 988/STJ, sob a premissa de que não se verifica "a urgência na apreciação da questão referente a retratação realizada pelo juízo a quo com fundamento no art. 485, § 7º, do CPC/2015." Tal entendimento não deve ser acolhido.
+30. O pedido de efeito suspensivo requerido no agravo de instrumento objetiva demonstrar não apenas a urgência na apreciação da violação ao art. 485, § 7º, CPC/2015 (probabilidade do direito), mas também a consequência lógica da manutenção dos efeitos decisão agravada (risco de dano grave ou de difícil reparação), qual seja: o dispêndio financeiro desarrazoado para custeio de honorários periciais determinados em centenas de processos análogos ao em comento.
+ ..
+32. A inutilidade do julgamento da tese relativa à violação ao art. 485, § 7º, CPC/2015, em sede de recurso de apelação, é clara, vez que o atual dispêndio financeiro da recorrente/agravante com os honorários periciais dificilmente lhe será ressarcido, ainda que a apreciação futura da tese violadora se afigure favorável.
+33. Ainda que o adiantamento dos honorários periciais realizados pela parte vencedora represente consectário lógico da sucumbência, no caso concreto a parte recorrida afirma categoricamente que "não tem rendimentos que possam suportar o recolhimento de custas e demais encargos processuais, que por certo advirão no decorrer deste feito."
+34. Faz-se necessária, portanto, a apreciação das teses ventiladas no agravo de instrumento, com urgência, posto que impactará diretamente na determinação do pagamento de honorários devidos ao profissional escolhido pelo juízo, quando da elaboração do laudo pericial técnico (fls. 138-140).
+É o relatório.
+Decido.
+Quanto à controvérsia, relativamente ao apontamento de contrariedade jurisprudencial ao tema n. 988/STJ, incide a Súmula n. 284/STF, porquanto não houve a indicação do permissivo constitucional autorizador do Recurso Especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte Recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte Superior de Justiça:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. . (AgInt no AREsp n. 1.479.509/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22.11.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2.8.2017; AgRg nos EDcl no AREsp n. 604.337/RJ, Rel. Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11.5.2015; e AgRg no AREsp n. 165.022/SP, Rel. Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3.9.2013; AgRg no Ag 205.379/SP, Rel. Ministro José Delgado, Primeira Turma, DJ de 29.3.1999; AgInt no AREsp n. 1.824.850/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21.6.2021; AgInt no AREsp n. 1.776.348/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.6.2021.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Somente na hipótese de risco de perecimento de direito, isto é, em que a apreciação do efeito suspensivo se mostra inadiável, sob pena de fulminar-se o bem da vida pretendido, é que se admite, por exceção, mitigar a taxatividade do rol. Neste sentido, merecem destaque as decisões exaradas pelo Superior Tribunal de Justiça (STJ) nos R Esp. n. 1696396 e 1704520, bem como o julgado abaixo, deste Tribunal:
+ ..
+No caso em análise, o Juízo a quo reconsiderou a sentença que extinguiu o processo sem resolução do mérito, para possibilitar o seu prosseguimento, na forma do §7º, do art. 485 do CPC, não havendo que se falar em risco de perecimento de direito (grifo meu) (fl. 125).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Por fim, em atenção ao pedido de sobrestamento do processo (Pet n. 01090329/2024), tem-se que o Recurso Especial interposto nestes autos sequer ultrapassou os requisitos de admissibilidade, porquanto foram aplicados óbices de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Assim, eventual suspensão do feito até julgamento do referido recurso repetitivo (Tema Repetitivo 1.198 do STJ) não interferiria no mérito do presente Recurso Especial, o qual, ressalte-se, sequer foi conhecido.
+Nesse mesmo sentido: AgRg no AREsp n. 572.146/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 29/10/2014; AgInt no AREsp n. 2.136.507/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 6/10/2023; AgInt no REsp n. 2.047.013/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2023.
+Ademais, na decisão de afetação do Tema n. 1.198 foi determinado, tão somente, a suspensão dos processos que tramitam no Tribunal de Justiça do Mato Grosso do Sul e nas comarcas do mesmo estado, o que não é o caso dos autos.
+Por essas razões, não há que se falar em sobrestamento do julgamento do presente feito, nos termos requeridos pela parte recorrente.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+Conforme constou, a parte, no especial, alegou que o acórdão recorrido contrariou o decidido no Tema n. 988/STJ, sem contudo especificar sob qual alínea do permissivo constitucional apresentava tal alegação. Aplicável, portanto, a Súmula n. 284/STF.
+Ademais, tendo o Tribunal de origem concluído não haver risco de perecimento de direito, decidir de outro modo demandaria reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Por fim, não tendo o recurso ultrapassado os requisitos de admissibilidade, não há falar em suspensão até o julgamento de tema repetitivo.
+Assim, não prosperam as alegações constantes no re curso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
