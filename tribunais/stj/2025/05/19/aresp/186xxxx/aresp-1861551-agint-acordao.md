@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MILITAR INATIVO. CONVERSÃO EM PECÚNIA DE LICENÇA ESPECIAL NÃO USUFRUÍDA, PORÉM UTILIZADA PARA MAJORAÇÃO DO ADICIONAL DE TEMPO DE SERVIÇO. POSSIBILIDADE. PRO VIMENTO NEGADO.
+1. Para o Superior Tribunal de Justiça (STJ), é possível a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da administração pública. Esse entendimento é aplicado ainda que o militar tenha utilizado o período da licença para majoração do adicional de tempo de serviço, como foi o caso dos autos. Assim, para se evitar o locupletamento do servidor, deve ser o respectivo período excluído do adicional de tempo de serviço, bem como devem ser compensados os valores já recebidos a esse título.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO da decisão de minha relatoria em que conheci do agravo e dei provimento ao recurso especial da parte adversa (fls. 710/713).
+A parte agravante alega que a parte autora (ora agravada) não faz jus à conversão em pecúnia da licença especial, pois utilizou o período a ela correspondente para contagem em dobro quando de sua passagem à inatividade.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 725/730).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MILITAR INATIVO. CONVERSÃO EM PECÚNIA DE LICENÇA ESPECIAL NÃO USUFRUÍDA, PORÉM UTILIZADA PARA MAJORAÇÃO DO ADICIONAL DE TEMPO DE SERVIÇO. POSSIBILIDADE. PRO VIMENTO NEGADO.
+1. Para o Superior Tribunal de Justiça (STJ), é possível a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da administração pública. Esse entendimento é aplicado ainda que o militar tenha utilizado o período da licença para majoração do adicional de tempo de serviço, como foi o caso dos autos. Assim, para se evitar o locupletamento do servidor, deve ser o respectivo período excluído do adicional de tempo de serviço, bem como devem ser compensados os valores já recebidos a esse título.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Na presente hipótese, a parte agravada interpôs recurso especial apontando a violação dos arts. 884 e 885 do Código Civil. Alegou, em síntese, que fazia jus à conversão em pecúnia dos períodos de licença especial não usufruídas, sob pena de enriquecimento ilícito por parte da administração.
+O recurso foi inadmitido na origem, tendo a parte interposto agravo em recurso especial, do qual conheci para não conhecer do recurso especial em razão da incidência da Súmula 7 do STJ (fls. 676/681).
+Irresignada, a parte então recorrente interpôs agravo interno e, diante das alegações ali expostas, afastei a aplicação do enunciado sumular em questão e dei provimento ao recurso especial.
+O Tribunal de origem rejeitou o pleito de conversão em pecúnia, pois o período da licença especial não gozada tinha sido utilizado para a majoração do adicional de tempo de serviço. Além disso, consta no acórdão recorrido a informação de que a parte não computou o período para contagem em dobro de tempo para inatividade, o que diverge do afirmado pela União em seu agravo interno.
+Por oportuno, destaco o seguinte trecho do acórdão recorrido (fls. 421/422):
+A respeito da pretensão autoral, esta e. Turma tem se manifestado, reiteradamente, no sentido de que "O fato de não terem sido as licenças especiais não gozadas úteis para fins de contagem em dobro do tempo de serviço quando da passagem do militar para a reserva não constitui motivo hábil para invalidar a sua opção de não gozar as referidas licenças, nem tampouco para gerar o seu direito à conversão, pois, ao permanecer na ativa, por vontade própria, por tempo superior ao necessário para a passagem à inatividade teve o efeito de lhe garantir o recebimento dos adicionais de permanência e tempo de serviço em percentuais majorados, por força do cômputo em dobro "para todos os efeitos legais" das licenças especiais, na forma da MP 2.215-10/2001. (TRF - 2ª Região. Oitava Turma Especializada. AC 0172662-05.2017.4.02.5101. Relator: Desembargador Federal MARCELO PEREIRA DA SILVA. E-DJF2R 25/03/2019. Unânime).
+ ..
+Com efeito, restou devidamente comprovado nos autos que, a despeito de não ter o Autor logrado usufruir do período adquirido a título de licença especial, tampouco de computá-lo para abreviar a sua passagem à inatividade - o que, depreende-se, decorreu de vontade própria do militar em permanecer no serviço ativo além do tempo necessário -, houve repercussão positiva no seu soldo, com a elevação do percentual relativo ao adicional por tempo de serviço, nos termos do art. 30 da MP nº 2.215-10/2001, razão pela qual não há como acolher o pleito autoral, sob pena de chancelar, indevidamente, dupla vantagem ao militar.
+Conforme destacado na decisão agravada, o acórdão recorrido diverge do entendimento desta Corte Superior.
+Para o STJ, é possível a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria, sob pena de enriquecimento ilícito da administração pública. Esse entendimento é aplicado ainda que o militar tenha utilizado o período da licença para majoração do adicional de tempo de serviço, como foi o caso dos autos. Assim, para se evitar o locupletamento do servidor, deve ser o respectivo período excluído do adicional de tempo de serviço, bem como compensados os valores já recebidos a esse título.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO USUFRUÍDA NEM CONTADA EM DOBRO. POSSIBILIDADE. ADICIONAL DE TEMPO DE SERVIÇO. EXCLUSÃO DO PERÍODO DE CONVERSÃO E COMPENSAÇÃO DOS VALORES RECEBIDOS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O STJ orienta-se no sentido de ser cabível a conversão em pecúnia da licença especial não gozada e não contada em dobro para inatividade, sob pena de enriquecimento ilícito da Administração. Não obstante o período da licença especial do militar tenha sido computado para a majoração do adicional de tempo de serviço, admite-se o pagamento da indenização pleiteada quando estabelecida a compensação das vantagens financeiras já recebidas.
+3. Com efeito, a Segunda Turma do STJ, no AgInt no REsp 1.570.813/PR, Rel. Min. Humberto Martins, DJe de 14.6.2016, asseverou que, "no caso dos autos, consignou o Tribunal de origem de que a contagem em dobro do tempo de serviço dos períodos de licença-especial não gozados pelo autor, a despeito de aumentar o percentual concedido a título de adicional de tempo de serviço na forma do art. 30 da MP 2.215-10/2001, não exclui o direito à conversão em pecúnia da licença-especial. Isso porque os dois períodos de licença-prêmio a que o autor fazia jus não influenciaram o tempo de serviço necessário à jubilação, já que mesmo sem a conversão já teria tempo suficiente para passar à inatividade. Nesse contexto, não há que falar em concessão de dois benefícios ao autor pela mesma licença especial não gozada, quais sejam, a contagem em dobro de tempo de serviço e conversão em pecúnia. O suposto locupletamento do militar foi afastado pela Corte regional que ressalvou que, tendo o autor optado pela conversão em pecúnia da licença-especial, deve ser o respectivo período excluído do adicional de tempo de serviço, bem como compensados os valores já recebidos a esse título".
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.104.993/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/4/2024, DJe de 2/5/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR INATIVO. LICENÇA ESPECIAL NÃO USUFRUÍDA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. SÚMULA 7 DO STJ. NÃO INCIDÊNCIA.
+ ..
+2. Segundo o entendimento desta Corte, é devida ao militar a conversão da licença especial em pecúnia, desde que esse período ficto, embora computado para fins de aposentadoria, não tenha influenciado para a concessão desse direito, por possuir tempo de serviço em excesso, devendo, nesse caso, ser excluída a averbação do período decorrente da contagem em dobro e compensados os valores indenizatórios com o quanto pago a título de adicional de tempo de serviço usufruído em decorrência dessa contagem ficta. Precedentes.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.612.126/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/12/2019, DJe de 19/12/2019.)
+Está correta a decisão pela qual dei provimento ao recurso especial da parte ora recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
