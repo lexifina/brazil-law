@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas data impetrado por Carla Vanessa Perin Valdino e Niaz Ali Shah em face do Ministro de Estado das Relações Exteriores objetivando, em apertada síntese, que sejam fornecidas as seguintes informações (fl. 7):
+1 - Histórico de Solicitações de Visto: Requer acesso aos registros de todas as solicitações de visto realizadas em nome do Requerente NIAZ ALI SHAH junto a Embaixada brasileira no Pakistão e nas quais foi parte interessada.
+2 - Motivos das Recusas: Solicito informações detalhadas sobre as razões que levaram às três recusas de visto para o cidadão do Paquistão NIAZ ALI SHAH, que pretende vir ao Brasil para reunião familiar.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República José Bonifácio Borges de Andrada, opinou pela denegação da ordem (fls. 65/69).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, " a  Lei 9.507/97, ao regulamentar o art. 5º, LXXII, da Constituição Federal, adotou procedimento semelhante ao do Mandado de Segurança, exigindo, para o cabimento do habeas data, prova pré-constituída do direito do impetrante, devendo, a petição inicial ser instruída com prova da recusa ao acesso às informações ou do decurso de mais de 10 (dez) dias sem decisão. Assim, a prova do anterior indeferimento do pedido de informação de dados pessoais, ou da omissão em atendê-lo, constitui requisito indispensável para que se concretize o interesse de agir no habeas data, de sorte que, sem que se configure situação prévia de pretensão resistida, há carência da ação constitucional do habeas data" (AgInt no HD n. 478/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 15/3/2023).
+In caso, não há nos autos prova pré-constituída de que tenha sido requerido à autoridade impetrada as informações pretendidas pela parte ora impetrante, muito menos de que tal pleito foi recusado.
+ANTE O EXPOSTO, denego o habeas data, extinguindo-o sem a resolução do mérito diante a inexistência de prova pré-constituída da recusa ou demora injustificada da autoridade impetrada atender ao pleito administrativo da parte impetrante. Sem condenação em honorários advocatícios, nos termos da Súmula 105/STJ, aplicada por analogia.
+Publique-se.
+EMENTA
