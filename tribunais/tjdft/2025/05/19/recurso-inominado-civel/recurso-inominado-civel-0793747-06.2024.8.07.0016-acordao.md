@@ -1,0 +1,61 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0793747-06.2024.8.07.0016RECORRENTE(S)BRB BANCO DE BRASILIA S.A.RECORRIDO(S)ADEMIR DA SILVA COSTARelatoraJuiza MARILIA DE AVILA E SILVA SAMPAIO
+ Acórdão Nº1999879
+
+EMENTA
+
+JUIZADOS ESPECIAIS CÍVEIS. DIREITO DO CONSUMIDOR. REPARAÇÃO DE DANOS MATERIAIS. ENGENHARIA SOCIAL. FRAUDE PRATICADA POR ESTELIONATÁRIOS. FRAGILIZAÇÃO DE DADOS CADASTRAIS. ARTS. 42 E 43 DA LGPD. GOLPE DO MOTOBOY. RESPONSABILIDADE OBJETIVA CONFIGURADA. TRANSAÇÕES ATÍPICAS. INCOMPATIBILIDADE COM O PADRÃO DE CONSUMO DA CLIENTE. FALHA NO DEVER DE SEGURANÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Recurso inominado interposto contra a sentença que julgou parcialmente procedentes os pedidos deduzidos na inicial, para declarar a nulidade das transações realizadas no dia 25/05/2020, no montante de R$14.384,41, e condenar o requerido a pagar ao autor o valor de R$7.192,20, correspondente à metade do prejuízo, reconhecendo a culpa concorrente. Em suas razões, o recorrente aduz que é o caso de culpa exclusiva da parte autor. Pede a reforma da sentença.
+
+2. Recurso cabível e tempestivo. Preparo recolhido id. 71188145. Foram apresentadas contrarrazões, id 71188145.
+
+3. A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a controvérsia ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei Federal nº 8.078/90). Com efeito, a responsabilidade civil no CDC assenta-se sobre o princípio da qualidade do serviço ou produto, não apresentando a qualidade esperada o serviço que não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, dentre as quais se destacam o modo de prestação do seu fornecimento e o resultado e os riscos que razoavelmente dele se esperam (art. 14, § 1º, I e II do CDC). A responsabilidade objetiva do fornecedor em tais casos somente será ilidida se ficarem comprovados os fatos que rompem o nexo causal, ou seja, deve o fornecedor provar que, tendo o serviço sido prestado o defeito inexistiu ou o fato exclusivo do consumidor ou de terceiro. A dicção do § 3º do art. 14 do CDC é muita clara ao criar a inversão ope legis do ônus da prova da inexistência do fato do serviço, ao estabelecer que "o fornecedor do serviço só não será responsabilizado quando provar...".
+
+4. A Súmula 479 do STJ dispõe que "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias". Para mais, a responsabilidade pelos danos decorrentes de fraudes perpetradas por terceiros decorre do risco da atividade negocial, configurando-se como fortuito interno, sem contar que as vítimas são, via de regra, pessoas idosas, e não há prova de que os bancos e empresas financeiras contam com dispositivos de segurança capazes de impedir a ocorrência de fraude perpetrada por terceiros. Demais disso, a aplicação do golpe só é possível em virtude da fragilização dos dados pessoais da autora em poder do banco. Destaque-se que a Lei Geral de Proteção de Dados nos art. 42 e 43 trata da responsabilidade civil dos agentes de tratamento, impondo-lhes o dever de reparar os danos que causarem, em violação ao dever de segurança relacionado aos dados disponibilizados.
+
+5. O Superior Tribunal de Justiça, após a edição da citada súmula, julgou recentemente caso semelhante em que responsabilizou a instituição financeira em razão da falha de segurança de seu sistema após a prática do "golpe do motoboy" (REsp n. 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022). Nos termos do julgado citado, em que pese não seja possível impor à instituição financeira a responsabilidade pelo golpe em si, mostra-se plenamente cabível sua responsabilização pela falha de segurança consistente em aprovar diversas transações com o cartão, sendo elas totalmente atípicas e incompatíveis com o padrão de consumo do cliente. Nas palavras da ilustre Relatora, "Na hipótese dos golpes de engenharia social, resta evidente que a conduta das instituições financeiras de se manter inerte perante a ocorrência de diversas transações de valores altos em poucos minutos concorre para permitir os golpes aplicados em seus correntistas. Assim, o nexo causal é estabelecido ao se concluir que poderia a instituição financeira ter evitado o dano sofrido em decorrência dos golpes, caso adotasse medidas de segurança mais eficazes para identificar as transações atípicas. 36. Nesta linha, não há como argumentar que a falta de segurança das instituições bancárias para criar mecanismos que obstem movimentações atípicas que aparentem ilegalidade está desassociada da atividade bancária. Em verdade, somente as instituições financeiras detêm os meios adequados para obstar estas transações atípicas, uma vez que estas devem ser comparadas com histórico do consumidor no que tange a valores, frequência e modo."
+
+6. Além disso, conforme Súmula 28 das Turmas Recursais, "As instituições financeiras respondem pelos danos decorrentes de fato do serviço nas fraudes bancárias conhecidas como "golpe do motoboy", em que o consumidor, supondo seguir instruções de preposto do banco, e utilizando-se dos instrumentos de comunicação por ele fornecidos, entrega o cartão de crédito/débito a terceiro fraudador que o utiliza em saques e compras. Em caso de culpa concorrente, a indenização deve ser proporcional".
+
+7. Nos últimos anos, houve um aumento exponencial das atividades bancárias executadas de forma on-line, sendo os clientes/consumidores levados a utilizar cada vez mais os serviços digitais e, na mesma proporção, sendo expostos a riscos de perdas financeiras decorrentes de acessos irregulares, fraudes e operações irregulares. Nesse passo, a instituição financeira há de ser responsabilizada pela segurança contra fraudes na prestação de serviços bancários, tendo em vista que, na mesma proporção em que os Bancos investem em ferramentas de segurança da atividade e atendimento ao cliente, de igual modo os fraudadores buscam meios de burlar os sistemas, restando evidenciado que as atividades executadas no ambiente digital têm enorme potencial de acarretar danos ao consumidor.
+
+8. Convém esclarecer que o dever de segurança dos bancos implica ciência dos riscos decorrentes da própria atividade, e nas operações realizadas em ambiente digital o cliente não sabe com quem está interagindo, se humano ou não humano, se um legítimo representante do banco ou um fraudador. Assim, em que pese sejam irrefreáveis, inexoráveis e inegavelmente úteis tanto ao fornecedor, como ao consumidor e, portanto, lícitas (sendo seu uso às vezes obrigatório), são permeadas por riscos inerentes, o parâmetro de cuidado exigido dos bancos quanto ao crédito e à administração financeira do consumidor é maior do que aquele exigido para ferramentas digitais que não tratem de interesses imprescindíveis aos usuários. Para mais, a boa-fé e o dever de cuidado impõem aos bancos a obrigação de garantirem a segurança dos produtos e serviços oferecidos, preservando o patrimônio do consumidor, e pondo-o a salvo de práticas que representem prejuízo. O art. 8º do CDC preconiza que tais riscos não podem ser suportados pelo consumidor, sob pena de ter seu patrimônio dilapidado por fraudadores.
+
+9. Não obstante, em se tratando de fraude bancária, os casos não podem ser analisados de maneira uníssona, as circunstâncias que permeiam a hipótese devem ser averiguadas de forma minuciosa, atentando a todas as especificidades, de modo a se constatar se as situações concretas são aptas a autorizar a responsabilização da Instituição Financeira, uma vez que a conduta exclusiva do consumidor ou o fato de terceiro nas operações bancárias somente serão consideradas aptas a excluir tal responsabilidade se estiverem absolutamente dissociadas das condutas omissivas, comissivas ou informativas que competem ao banco. Neste caso específico, simples análise do extrato bancário inserido com a inicial, id. 71188118, permite a conclusão de que os lançamentos se mostram incompatíveis com o perfil de consumo do usuário, além de terem sido feitos em um único dia, indicando a quebra de perfil. Neste sentido cito o seguinte julgado: “Embora os consumidores tenham a incumbência de zelar pela guarda e segurança do cartão pessoal e da respectiva senha, é também dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas, a ponto de dificultar as fraudes, independentemente de qualquer ato dos consumidores.” (AgInt no AgInt no AREsp n. 2.347.579/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+
+10. Ante as premissas acima destacadas e a análise do caso concreto, além da comprovação documental, resta caracterizada violação ao regramento da Lei Geral de Proteção de Dados, o que configura falha no sistema de segurança do recorrente, conferindo verossimilhança à ligação recebida pelo consumidor, e possibilitando a concretização da fraude.
+
+11. Neste sentido, cito julgado desta Turma: "É incontroverso que os estelionatários tinham informações sobre os dados bancários da parte autora. Situação quase que rotineira para qualquer correntista de Banco é o recebimento de ligações, via celular, de prepostos dessas instituições financeiras, para ofertar produtos." (Acórdão 1431274, 07049441820228070016, Relator: ARNALDO CORRÊA SILVA, Segunda Turma Recursal, data de julgamento: 20/6/2022, publicado no DJE: 28/6/2022). E, ainda, acórdão da 3ª. Turma: "A despeito da falsidade do atendimento, há verossimilhança nas alegações do autor de que a partir da ligação realizada em nome do banco, foi convencido da legitimidade das orientações para realização de procedimentos de verificação, já que advinda de preposto do banco que conhecia seus dados pessoais e da existência da conta corrente junto ao BRB." Grifei. (Acórdão 1427793, 07669855520218070016, Relator: CARLOS ALBERTO MARTINS FILHO, Terceira Turma Recursal, data de julgamento: 8/6/2022, publicado no DJE: 14/6/2022).
+
+12.  Ademais, embora seja plausível a tese de que o recorrido poderia ter sido mais diligente, e evitado o prejuízo suportado, certo é que, à luz do homem médio, as circunstâncias que permeiam este caso são preponderantes no sentido de que era muito mais difícil perceber a fraude do que ser vítima dela, e considerando-se que o interlocutor dispunha de dados sigilosos, pois a ligação recebida pela recorrida indicava que o interlocutor dispunha de todos os dados do correntista, evidenciando a falha na prestação do serviço.  Ressalte-se que trata-se de correntista com idade avançada, 70 anos, o que caracteriza a hipervulnerabilidade. Nessa quadra, ante a vedação prevista pelo princípio da non reformatio in pejus, mantém-se hígida a sentença proferida.
+
+13. Recurso CONHECIDO E NÃO PROVIDO.
+
+14. Condenado o recorrente ao pagamento de honorários de sucumbência que fixo em 10% sobre o valor da condenação (art. 55 da Lei 9099/95).
+
+15. A súmula de julgamento servirá de acórdão, nos termos do art. 46 da Lei 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARILIA DE AVILA E SILVA SAMPAIO - Relatora, GISELLE ROCHA RAPOSO - 1º Vogal e SILVANA DA SILVA CHAVES - 2º Vogal, sob a Presidência da Senhora Juíza SILVANA DA SILVA CHAVES, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Maio de 2025
+
+Juíza MARILIA DE AVILA E SILVA SAMPAIORelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza GISELLE ROCHA RAPOSO - 1º Vogal Com o relatorA Senhora Juíza SILVANA DA SILVA CHAVES - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
