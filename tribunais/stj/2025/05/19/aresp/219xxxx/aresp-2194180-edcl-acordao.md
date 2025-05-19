@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO INTERNO NO AGRAVO EM  RECURSO  ESPECIAL.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE  NÃO  VERIFICADAS.  INTUITO  INFRINGENTE.  DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  ASSOCIAÇÃO DE COMUNICAÇÃO EDUCATIVA ROQUETTE PINTO  ao  acórdão  da  Terceira Turma  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER CONVERTIDA EM PERDAS E DANOS. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DO LAUDO PERICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, §§ 2º E 14, DO CPC/2015. REFORMATIO IN PEJUS. NÃO CONFIGURAÇÃO. MATÉRIA DE ORDEM PÚBLICA. BASE DE CÁLCULO. VALOR HOMOLOGADO NA LIQUIDAÇÃO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Rever o entendimento firmado pelas instâncias ordinárias, para reconhecer a alegada ofensa à coisa julgada, a nulidade do método utilizado pelo perito e o suposto enriquecimento sem causa dos credores, demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+3. A jurisprudência desta Corte Superior firmou-se no sentido de que os honorários advocatícios, enquanto consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus.
+4. O § 2º do art. 85 do CPC veicula a regra geral e obrigatória de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) do valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, do valor atualizado da causa.
+5. O Código de Processo Civil relegou o § 8º do art. 85 a uma regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação, for inestimável ou irrisório o proveito econômico obtido ou for muito baixo o valor da causa.
+6. O presente caso é de observância da regra geral do art. 85, § 2º, do CPC, com fixação da verba honorária a partir do valor homologado na fase de liquidação.
+7. Agravo interno não provido".
+Em  suas  razões,  a  embargante  sustenta  ,  em síntese,  a existência de vícios no acórdão embargado, pois (i) o aresto prolatado na origem não se manifestou sobre os argumentos relacionados com a necessidade de respeito à coisa julgada e da adoção de possível receita com break publicitário como parâmetro da conversão em perdas e danos; (ii) os óbices das súmulas 5 e 7/STJ não se aplicam à hipótese; e (iii) no que se refere aos honorários, não houve consideração do entendimento jurisprudencial referente à possibilidade de sua fixação com base na equidade, bem como dos princípios constitucionais da isonomia, devido processo legal, proporcionalidade e razoabilidade.
+Ao  final,  pleiteia  o  acolhimento  do  recurso.
+Impugnação  às e-STJ fls. 2.311/2.316.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO INTERNO NO AGRAVO EM  RECURSO  ESPECIAL.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE  NÃO  VERIFICADAS.  INTUITO  INFRINGENTE.  DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso,  o  voto  condutor  do  acórdão  embargado,  acolhido  por  unanimidade  pela  Terceira Turma,  foi  claro  ao  afirmar  a  inviabilidade  de  prover o recurso especial.
+Destacou-se  expressamente:
+(i)  a ausência de negativa de prestação jurisdicional, tendo Tribunal de origem se pronunciado de forma específica quanto às questões da coisa julgada, da conversão da obrigação em perdas e danos e o método utilizado pelo expert para a confecção do laudo;
+(ii) que não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal, para discutir a extensão da coisa julgada, a existência de nulidade no método utilizado pelo perito para elaboração do laudo técnico e do suposto enriquecimento sem causa, demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusulas contratuais, procedimentos inviáveis ante a natureza excepcional da via eleita; e
+(iii) a aplicação da orientação contida no Tema 1.076/STJ à hipótese, com a observância de que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados - como no caso.
+Cumpre observar, relativamente à alegada ausência de motivação na apreciação da negativa de prestação jurisdicional quanto à extensão da coisa julgada, que o Tribunal de origem, à luz da prova dos autos, concluiu que
+"a parte ré, ora recorrente, tenta rediscutir matéria já decidida por esta Corte, especialmente o já reconhecido direito dos autores/agravados  ora recorridos  de comercializarem a série denominada "As Aventuras do Tio Maneco"
+e que
+"(..) deve ser rechaçada a tese de que "não há, na Cláusula Oitava do Contrato, qualquer indicação de que os direitos de comercialização ali outorgados seguiram válidos, mesmo após a extinção do Contrato pelo decurso natural do seu período de vigência" (fls. 16), especialmente à luz dos artigos 507 e 508 do CPC" (e-STJ, fls. 137/138).
+Nesse contexto, o acórdão embargado está devidamente fundamentado, não havendo falar em vício na prestação jurisdicional, tendo em vista que, conforme orientação desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp nº 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Assim,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  sanar  erro  material,  mas,  sim,  r eformar  o  julgado  por  via  inadequada.
+Por fim, registra-se que não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivos constitucionais , ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - A pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a oposição de embargos declaratórios. Precedente da Corte Especial.
+3 - Embargos de declaração no agravo interno na reclamação rejeitados" (EDcl no AgInt na Rcl 33.214/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 20/6/2017 - grifou-se).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  com  a  advertência  de  que,  havendo  reiteração  de  embargos  protelatórios,  a  multa  prevista  no  art.  1.026  do  Código  de  Processo  Civil  será  aplicada.
+É  o  voto.
