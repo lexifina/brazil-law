@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE DISTRIBUIÇÃO E COMERCIALIZAÇÃO DE COMBUSTÍVEIS. COMODATO DE EQUIPAMENTOS. CLÁUSULA PENAL E BONIFICAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reinterpretação de cláusulas contratuais e reexame de matéria fático-probatória (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por VIBRA ENERGIA S.A. contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+RESPONSABILIDADE CIVIL. Direitos e obrigações relacionados à distribuição e comercialização de combustíveis, com comodato de equipamentos. Abordagem de distribuidora. Tutela constitutivo/reparatória. Juízo de parcial procedência. Apelo da autora. Desprovimento.
+A agravante sustenta que o acórdão recorrido é omisso e desprovido de fundamentos. Alega não ser caso de incidência das Súmulas 5 e 7/STJ, já que se busca a revaloração jurídica dos fatos a fim de que se reconheça a violação, pelo acórdão, "à disciplina insculpida nos arts. 413, 421, 421-A e 422 do Código Civil".
+Em sua impugnação, ANIELO D"AMARO & CIA LTDA. e OUTROS afirmam que os fundamentos da decisão não foram impugnados. A par disso, a pretensão é de interpretação de cláusulas contratuais e de reexame de prova, o que leva à aplicação das Súmulas 5 e 7/STJ. Pede a aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE DISTRIBUIÇÃO E COMERCIALIZAÇÃO DE COMBUSTÍVEIS. COMODATO DE EQUIPAMENTOS. CLÁUSULA PENAL E BONIFICAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reinterpretação de cláusulas contratuais e reexame de matéria fático-probatória (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O agravo não prospera.
+Com efeito, o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Rejeito, pois, a alegação de contrariedade aos arts. 489 e 1022 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa a interpretação de cláusulas contratuais e o reexame de prova. A agravante afirma que a cláusula penal, bem como a cláusula que prevê a restituição da bonificação antecipada pela parte contratante, não foram adequadamente consideradas pelo acórdão recorrido; entende que o pagamento dos valores a elas referentes deveria ter sido deferido em outros termos. A respeito da matéria, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 836):
+Assim como a exclusividade na aquisição de produtos de distribuidora, contratante, a compra, em quantidades mínimas, está na essência do negócio de risco compartilhado pelos réus, na perspectiva de retorno de investimentos realizados pela distribuidora, à consideração de estrutura econômica e comercial, que disponibiliza para melhor desempenho da operação de revenda. Aqui, todavia, inobstante a inobservância de limites aquisitivos mínimos, ainda em descompasso com termos expressos em licença de uso de marca, despontam abusivos valores pretendidos a título de cláusula penal, compondo perdas e danos, ainda na perspectiva de devolução integral de antecipação de bonificação.
+Tais circunstâncias foram corretamente aferidas pelo magistrado da causa:
+"Nos termos da cláusula 8.2 do contrato sobredito, sujeitar-se-iam os requeridos, a quem atribuível a culpa pelo rompimento do pacto, " ..  ao pagamento de multa no montante de 10% do valor do contrato, sem prejuízo do pagamento das perdas e danos à parte inocente, na exata medida dos prejuízos efetivamente causados e dos lucros cessantes" (fls. 46).
+Referida previsão é excessiva, pois corresponde ao valor que a autora auferiria se fornecesse todos os produtos previstos no contrato, sem a sua própria contraprestação.
+É dizer, autorizar que a requerente não somente aufira cláusula sancionatória, mas, ainda, receba integralmente pela mercadoria não transladada, ofende a cláusula geral da boa-fé objetiva, pois importa em premiar a requerente com valor superior ao que perceberia, se as cláusulas de quantidade fossem observadas, ou seja, auferirá a autora o valor integral da venda dos produtos, em sua quantidade mínima, sem, contudo, fornecer efetivamente a mercadoria, o que não se admite.
+Limito, pois, a cláusula penal, de modo que seja composta pela multa de 10% sobre o valor do contrato; somada a percentual de 20% sobre o valor do volume de combustíveis não realizado, fração, razoável para indenizar a autora pela resolução.
+Assim, e valendo-me da planilha de fls. 151, fixo em R$157.551,741 o valor devido pelos requeridos, por razão do descumprimento do contrato de promessa de venda e compra mercantil" (fl. 701).
+Ainda, sobre pretendida devolução de bonificação antecipada:
+"É dizer, condiciona-se a antecipação de bonificação ao adimplemento dos pactos, justamente, para que, com o correr da contratação, a requerente veja-se ressarcida pelo valor precipitado. Assim, se foram cumpridos por significante período os contratos, por certo que foi a requerente adequadamente ressarcida pela quantia antecipada, não lhe socorrendo, agora, o pleito de restituição integral. À verdade, aqui, não há que se falar em restituição qualquer do valor de bonificação, pois que a primeira violação do contrato - conversão do autoposto em bandeira branca - deu-se apenas aos 03 de novembro de 2017, quando já exaurido o período original de vigência do pacto sobredito (01 de abril de 2007 a 31 de março de 2017, conforme fls. 59).
+Ora, pressupõe-se que o valor de antecipação de bonificação é integralmente restituído à requerente, mediante as contraprestações pactuais que percebe pelos pactos mais, ante o regular adimplemento das avenças todas firmadas, no lapso originalmente fixado. Se cumpridos os pactos todos, pelo período de tempo originalmente pactuado, presume-se que já restituída à requerente a bonificação, nada mais hav endo aquela que pleitear, a tal título" (fl. 703).
+E, diante de valores abusivos, a intervenção moderadora tem perfeita adequação à espécie, ao influxo da norma do artigo 413, do Código Civil.
+Entendeu-se, portanto, que a cláusula penal era abusiva, pois importava em pagamento de valores muito superiores aos que se poderiam esperar da execução normal do contrato, o que implicaria em receber até mesmo por mercadoria não fornecida, além de que a bonificação já fora restituída mediante contraprestações adimplidas ao longo do tempo. Não há como rever esse entendimento em recurso especial, dado o disposto nas Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+Deixo de aplicar a multa requerida pelos agravados, por não verificar o propósito protelatório.
+É como voto.
