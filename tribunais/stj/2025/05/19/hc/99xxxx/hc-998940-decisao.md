@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOÃO MARCELO TOMAZ DA SILVA e FELIPE FERREIRA FRANCO contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0870564-26.2024.8.19.0001.
+Na inicial, a Defesa informa que os pacientes foram condenados às penas de 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 1.399 (mil trezentos e noventa e nove) dias-multa, como incursos nos artigos 33, caput, e 35, caput, ambos c.c. o artigo 40, IV, todos da Lei n. 11.343/2006 (fls. 3).
+Alega que houve nulidade do processo diante da produção de prova ilícita, pois a busca domiciliar foi realizada sem fundadas razões, sem mandado judicial e fora das hipóteses de exceções da lei (fls. 5-6).
+Sustenta que não há elementos típicos de estabilidade e permanência para a configuração do crime associativo do artigo 35 da Lei n. 11.343/2006, e que os pacientes foram processados apenas por terem sido detidos em uma única circunstância, sem prova de vínculo efetivo e estável para o tráfico de drogas (fls. 7-8).
+Afirma que os sentenciados são primários e sem antecedentes criminais, o que justificaria a aplicação do redutor do tráfico privilegiado previsto no artigo 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo (fls. 9-10).
+Defende que, a partir da redução da pena, deve ser aplicado o regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos, conforme o artigo 44 do Código Penal (fls. 10-11).
+Requer, por fim, liminarmente, que os segregados aguardem o julgamento deste writ em liberdade.
+No mérito, pugna a Defesa pela concessão da ordem para que as provas produzidas na ação penal sejam consideradas ilícitas, com a anulação de todo o feito e a absolvição dos pacientes, nos termos do artigo 386, VII, do Código de Processo Penal (fls. 7), bem como a absolvição dos condenados em relação ao crime associativo do artigo 35 da Lei n. 11.343/2006, a aplicação do redutor do tráfico privilegiado, a readequação do regime de cumprimento de pena ao regime aberto e a substituição da pena privativa de liberdade por duas penas restritivas de direitos (fls. 11-12).
+É o relatório. DECIDO.
+Conforme consta dos autos, a Defesa busca, em síntese, o reconhecimento de suposta nulidade ocorrida na origem, com a consequente anulação da condenação do ora paciente, bem como a revisão da dosimetria das penas.
+No entanto, o presente habeas corpus se volta contra um julgado transitado, imutável, enquanto abarcado pelo preceito constitucional da coisa julgada. Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+" ..  1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..  3. Agravo regimental desprovido." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, cotejando as alegações deduzidas na inicial com a percuciente fundamentação contida no acórdão impugnado, não verifico a presença de coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ademais, no que concerne às teses aventadas nesta impetração relativas à dosimetria da penas (aplicação do tráfico privilegiado, fixação do regime aberto e substituição das penas corporais), constata-se que as matérias não foram analisadas pela instância ordinária, o que também inviabilizaria seu exame nesta Corte Superior em razão da indevida supressão de instância.
+Com efeito, o Superior Tribunal de Justiça possui entendimento no sentido de que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta" (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Ante todo o exposto, indefiro liminarmente o habeas corpus com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Retifique-se a autuação para constar como paciente também o corréu FELIPE FERREIRA FRANCO.
+Publique-se. Intimem-se.
+ EMENTA
