@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. OMISSÃO E CONTRADIÇÃO. ALEGAÇÃO DE QUE AS TESES MERITÓRIAS NÃO FORAM DEVIDAMENTE ANALISADAS. EXISTÊNCIA DE ÓBICES DE ADMISSIBILIDADE RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Na hipótese, o embargante aponta omissão e contradição quanto à análise das razões invocadas no mérito dos recursos que não superaram o juízo prévio de admissibilidade. O não conhecimento das irresignações impossibilita o pronunciamento do Tribunal acerca das alegações nela veiculadas, motivo pelo qual não há que se falar na presença de vícios integrativos no julgado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FRANCISCO THEMONTIER BORGES DA SILVA BRASIL opõe embargos declaratórios contra o acórdão de fls. 1.250-1.252, por meio do qual a Sexta Turma não conheceu do agravo regimental por ele interposto contra decisão monocrática da Presidência desta Corte que não conheceu do seu agravo em recurso especial.
+Em suas razões, o embargante aduz, em síntese, a existência de omissão e contradição quanto ao exame das razões invocadas no mérito dos recursos, em especial a inexistência de dolo de apropriação indébita, a desproporcionalidade da causa de aumento decorrente da continuidade delitiva, a incidência da causa extralegal de exclusão da culpabilidade e a possibilidade de oferecimento de ANPP.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. OMISSÃO E CONTRADIÇÃO. ALEGAÇÃO DE QUE AS TESES MERITÓRIAS NÃO FORAM DEVIDAMENTE ANALISADAS. EXISTÊNCIA DE ÓBICES DE ADMISSIBILIDADE RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Na hipótese, o embargante aponta omissão e contradição quanto à análise das razões invocadas no mérito dos recursos que não superaram o juízo prévio de admissibilidade. O não conhecimento das irresignações impossibilita o pronunciamento do Tribunal acerca das alegações nela veiculadas, motivo pelo qual não há que se falar na presença de vícios integrativos no julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pelo embargante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, verifico que, no acórdão recorrido, expressamente constou que a ausência de impugnação integral e específica dos óbices de inadmissibilidade do recurso especial, por ocasião da interposição do agravo, impossibilitaria o conhecimento deste último recurso, ante a incidência da Súmula n. 182 do STJ.
+Evidentemente, como o agravo e o recurso especial não superaram o juízo de prévia admissibilidade, as matérias veiculadas no mérito daquelas irresignações não foram examinadas por esta Corte. Logo, não há omissão ou contradição passível de ensejar o acolhimento desta via integrativa, visto que, como dito, a existência dos óbices formais inviabilizou o pronunciamento deste Superior Tribunal acerca das teses suscitadas pela defesa.
+À vista do exposto, rejeito os embargos de declaração.
