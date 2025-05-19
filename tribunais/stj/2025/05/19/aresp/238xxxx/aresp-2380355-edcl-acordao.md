@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por Flávio Burgos Balbino, às fls. 3.099-3.112, contra acórdão, assim ementado (fls. 3.081-3.082):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ART. 17, §10-F, DA NLIA. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão a que chegou o Tribunal de origem a respeito da comprovação do dolo específico na conduta dos demandados para a caracterização do ato ímprobo tipificado no art. 11, V, da NLIA demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+4. Agravo interno não provido.
+O embargante sustenta, em síntese, omissão na origem a respeito da fundamentação sobre a ausência de dolo específico, na medida em que não apresentou uma análise detalhada dos elementos probatórios que sustentariam a referida conclusão, conforme determina a Lei n. 14.230/2021, além da exigência de individualização da conduta.
+Aduz contradição em relação à aplicação da Súmula n. 7 do STJ ao caso vertente, porquanto a questão em debate envolve a correta interpretação e aplicação da legislação infraconstitucional atinente ao dolo específico, e não o reexame de provas.
+Aponta, ainda, obscuridade acerca da aplicabilidade da Lei n. 14.230/2021, omissão sobre a insuficiência da prova pericial grafotécnica e erro material na aplicação da Súmula n. 284/STF, em virtude de sua aplicação restritiva, somente se justificando quando há deficiência na fundamentação do recurso, que impeça a compreensão da controvérsia, o que não seria o caso dos autos.
+Com impugnação.
+Às fls. 3.139-3.142, o Ministério Público do Estado de São Paulo (MPSP) manifestou-se contrariamente à oferta de acordo formulada pela Multigestão Consultoria Ltda., às fls. 3.117-3.121, e requereu seja certificado o trânsito em julgado da condenação em relação à referida empresa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar: (a) a necessidade de reexame do conjunto fático-probatório dos autos para rever a conclusão do Tribunal de origem a respeito da demonstração do dolo específico na conduta dos demandados para a caracterização do ato ímprobo tipificado no art. 11, V, da NLIA. A propósito, citou: AgInt no REsp n. 2.153.077/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 7/10/2024, DJe de 9/10/2024; REsp n. 2.061.719/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/8/2024, DJe de 2/9/2024; AgInt no REsp n. 2.107.345/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no AREsp n. 1.206.630/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/2/2024, DJe de 1/3/2024; AgInt no AREsp n. 2.432.962/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024; e (b) a incidência do óbice contido na Súmula n. 284/STF, em virtude da deficiência de fundamentação no tocante à alegada ofensa ao art. 17, § 10-F, da NLIA e à tese de impossibilidade de condenação por tipo diverso daquele contido na inicial, assim como o pedido a ele relacionado de afastamento das condenações ao ressarcimento ao erário ou de pagamento de multa civil, tendo em vista que o acórdão a quo assentou que a condenação foi baseada em pedido subsidiário (e-STJ, fl. 2.754).
+Na ocasião, elucidou-se, ainda, a orientação desta Corte Superior acerca da adequação normativo-típica (AgInt no AREsp n. 1.206.630, Rel. Min. Paulo Sérgio Domingues, DJe 1/3/2024).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Por oportuno, registre-se que após o julgamento dos presentes aclaratórios, os autos deverão retornarem conclusos para apreciação do pedido formulado pelo MPSP às fls. 3.139-1.142 de certificação do trânsito em julgado em relação à Multigestão Consultoria Ltda..
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
