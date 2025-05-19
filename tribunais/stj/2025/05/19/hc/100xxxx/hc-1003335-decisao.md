@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de ANDRE LUIS DA SILVA - condenado por receptação simples a 1 ano de reclusão e 10 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 10/30), não comporta processamento.
+Com efeito, busca a impetração o abrandamento do regime prisional para aberto - na condenação proferida na Ação Penal n. 0042155-89.2019.8.13.0074 (fls. 2/3, da Vara Criminal da comarca de Bom Despacho/MG), alterada em grau de apelação -, alegando erro material na decisão que alterou o regime de aberto para semiaberto, sem fundamentação idônea e em violação do princípio da non reformatio in pejus (fls. 4/6).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2023, DJEN de 25/4/2023).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, especialmente porque, diferentemente do alegado na inicial, o regime semiaberto foi fixado na sentença - a pena privativa de liberdade não poderá ser cumprida desde o início em regime aberto, consoante disposto no artigo 33, § 2o, aliena "c", tendo em vista que o réu é reincidente. Deverá, portanto, começar a cumpri-la no regime semi-aberto (fl. 35) - e, corretamente, mantida no acórdão hostilizado - considerando a reincidência do acusado, confirmo a fixação do regime semiaberto para o inicial cumprimento da pena (fl. 29) - não configurando reformatio in pejus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES. REGIME PRISIONAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
