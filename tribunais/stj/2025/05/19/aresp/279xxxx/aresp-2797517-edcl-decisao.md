@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ÍKARO PEREIRA BRAVIN, contra à decisão de fls. 1528-1532, por mim proferida, que conheceu do agravo para não conhecer do recurso especial.
+Em seu recurso, o embargante sustenta, em síntese, a existência de omissão em razão da ausência de análise do alegado bis in idem na dosimetria da pena, ao argumento de que a quantidade de drogas foi utilizada na exasperação da pena-base, bem como para afastar a minorante do tráfico privilegiado.
+Requer, que se dê efeitos infrigentes ao recurso, para que se aplique o previsto no art. 33, § 4º, da Lei n. 11.343/2006 ou se corrija o quantum da pena corporal.
+Foram apresentadas contrarrazões (fls. 1563-167).
+É  o  relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No que toca ao afastamento da redutora especial do tráfico de drogas, a decisão embargada assim assentou (fls. 1530-1531):
+Quanto ao tema controvertido, a Corte local concluindo que, diante das circunstâncias concretas dos fatos, comprovadas nos autos, acerca de elementos que apontam certo nível organizacional e dedicação às atividades criminosas, não há como autorizar o reconhecimento do benefício do "tráfico privilegiado" (art. 33, § 4º, da Lei nº 11.343/06), consignando que (fls. 1200-1207, grifamos):
+Ao realizarem buscas no veículo, que estava sob a responsabilidade do apelante Íkaro, os policiais conseguiram apreender três bolsas no porta-malas contendo doze tabletes de maconha que pesavam, aproximadamente, 12,7 quilos. Segundo o apurado, os réus recorrentes teriam adquirido a droga no Estado do Maranhão, com destino à cidade da Serra, neste Estado.
+Após a devida instrução, entendeu o juízo de origem haver provas suficientes para a condenação de Anderson Felix Domingos, Hemerson Pereira Rodrigues e Íkaro Pereira Bravin pelos crimes de tráfico de drogas e associação para o tráfico, fixando-lhes as penas já indicadas e decretando o perdimento do veículo. Registrou o juízo, no entanto, não haver certeza quanto a interestadualidade da prática criminosa, deixando de fazer incidir a causa de aumento respectiva.
+(..)
+Passando à dosimetria, entendo que, apesar da absolvição do crime de associação para o tráfico de drogas, não é possível reconhecer o benefício do "tráfico privilegiado" (art. 33, § 4º, da Lei nº 11.343/06) em favor dos réus, diante das circunstâncias concretas dos fatos, tendo em vista que o crime foi praticado em concurso de pessoas, envolvendo tráfico intermunicipal de grande quantidade de drogas, que estavam escondidas em malas de roupas, elementos que apontam certo nível organizacional e dedicação às atividades criminosas.
+De modo que para afastar a minorante do tráfico privilegiado, o TJ/ES manteve o entendimento do Magistrado de origem no sentido de que restou configurada a dedicação a atividades criminosas, pois o réu é envolvido com a criminalidade e com o tráfico drogas, diante das circunstâncias do cometimento do delito.
+A pretensão de exame acerca da dedicação do recorrente a atividades criminosas esbarra no óbice da Súmula n. 7/STJ, uma vez que, para dissentir da conclusão do Tribunal de origem e afastar a aplicação da minorante do artigo 33, § 4º, da Lei n. 11.343/2006, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+No caso em exame, embora o embargante tenha apontado fundamentos que, em seu entender, configuram omissão no julgado, não vislumbro a existência de eventual mácula, mas, sim, a pretensão de rediscussão da matéria já decidida por esta Corte, o que é inviável em sede de embargos de declaração.
+De fato, conforme asseverado no decisum embargado, foram apontados, pela origem, fundamentos suficientes, com elementos objetivos e em conformidade com a interpretação desta Corte Superior, aptos a chancelarem o afastamento da aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, pois a configuração do réu estar envolvido com a criminalidade e com o tráfico drogas, restou demonstrada pelas circunstâncias do cometimento do delito.
+Assim, reitero que o apontado vício, além de inexistente, objetiva na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Destaco entendimento pacífico do Superior Tribunal de Justiça,
+os embargos de declaração são inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso (EDcl no AgRg no AREsp n. 2.545.463/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024).
+No mesmo sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. FLAGRANTE ILEGALIDADE NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado, nos termos do art. 619 do Código de Processo Penal  CPP.
+2. Nos presentes aclaratórios, a defesa aduz que o acórdão embargado incidiu em omissão, porquanto, ao contrário do decidido, o agravo em recurso especial apresentou efetiva dialeticidade em relação à decisão agravada. Além disso, argumentou que as ilegalidades apontadas no apelo nobre, por serem flagrantes, deveriam ter sido reconhecidas de ofício.
+3. Não há qualquer omissão a ser sanada, mas tão somente inconformismo da parte com o resultado do julgamento. O acórdão embargado expôs de forma clara e precisa as razões pelas quais se mostrou inviável o conhecimento do agravo regimental.
+4. Consoante jurisprudência desta Corte, " n os termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. No tocante ao pleito de habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+Precedentes.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.572.783/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
