@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por EVANDRO NASCIMENTO DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de homicídio duplamente qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão para a garantia da ordem pública em razão da gravidade em concreto da conduta e do fundado receio de reiteração delitiva denegando a ordem, em acórdão de fls. 44-51.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 85-86.
+É o relatório. DECIDO.
+In casu, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista, que o recorrente, em concurso de agentes, seria um dos responsáveis pela prática do crime de homicídio duplamente qualificado, praticado mediante violação de domicílio da vítima, que foi executada com diversos disparos de arma de fogo enquanto dormia, tendo o crime ocorrido em decorrência do tráfico de drogas e seus consectários comerciais - fls. 45-46.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC. Consignou-se, ainda, que o recorrente possui (4) quatro condenações pretéritas e responde a outras 3 (três) ações, todas de natureza penal, incluindo a prática de outro crime de homicídio tentado. Por fim, o agravante se encontra foragido.
+4. Gravidade concreta da conduta. A conduta dos agentes, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal" (AgRg no RHC n. 198.810/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/9/2024).
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
