@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 639-640, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+A parte embargante sustenta que a decisão incorreu em omissão, sob o reiterado argumento de que "tanto o Recurso Especial quanto o Agravo que o sucedeu não foram fundamentados na alínea "c" do art. 105, III, da Constituição Federal, ou seja, não invocaram divergência jurisprudencial que justificasse a exigência de cotejo analítico ou a aplicação da Súmula 83/STJ" (fl. 658).
+Menciona que fundamentou seu recurso especial exclusivamente na negativa de vigência ao artigo 85, § 10º, do CPC/2015, o que afasta a necessidade de cotejo analítico ou demonstração de dissídio jurisprudencial (fl. 658).
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De fato, tal argumentação apresentada pela parte embargante não foi alvo de pronunciamento específico na decisão de fls. 653-654, razão pela qual passo à análise da questão levantada.
+Ao compulsar os autos, verifica-se que, de fato, a parte embargante fundamentou seu recurso especial na negativa de vigência ao artigo 85, § 10º, do CPC/2015, nos termos do art. 105, III, alínea "a" da Constituição Federal.
+Ocorre que, por mais que não tenha invocado a divergência jurisprudencial, o recurso especial não foi admitido pela Corte de origem, dentre outros motivos, pela aplicação da Súmula 83/STJ, a qual se aplica igualmente aos recursos especiais interpostos pela alínea "a" do permissivo constitucional (AgRg no AREsp n. 521.111/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/9/2018, DJe de 27/9/2018).
+Ressalta-se ainda que, assim como mencionado na decisão embargada, não houve a devida impugnação específica à aplicação da súmula 83/STJ, o que acarretou o não conhecimento do agravo.
+Dessa forma, por mais que se reconheça a ausência de fundamentação do recurso especial com base na divergência jurisprudencial, é certo que o recurso foi inadmitido em razão da aplicação da Súmula 83/STJ, e a parte embargante não se desincumbiu do ônus de impugnar especificamente tal fundamentação, a qual exige, nos termos da jurisprudência do STJ, "a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do Superior Tribunal de Justiça ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 1.852.071/SP, Rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 16/2/2023).
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para fins de esclarecimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
