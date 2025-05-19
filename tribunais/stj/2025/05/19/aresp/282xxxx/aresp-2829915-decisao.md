@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CAMPOS FLORIDOS COMERCIO DE COSMETICOS LTDA., com fundamento na incidência , por analogia, da Súmula 282 do STF, na impossibilidade de análise, em recurso especial, de violação de norma constitucional e na ausência de violação dos arts. 489 e 1022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois houve prequestionamento de todas as matérias trazidas no recurso especial. Afirma que o acórdão recorrido é omisso, porquanto deixou de analisar algumas questões de direito (fl. 624).
+Assevera, ainda, que a questão debatida não possui natureza constitucional (fl. 626).
+Aduz, no recurso especial, que "a impetração do mandamus ocorreu antes do encerramento do julgamento do RE nº 1.287.019 e que, por consequência, o direito das requerentes não foi alcançado pela modulação de efeitos determinada pelo E. Supremo Tribunal Federal" (fl. 554).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Trata-se, na origem, de mandado de segurança impetrado com escopo de "afastar a incidência do DIFAL nas operações interestaduais que tenham como destinatário consumidor final não contribuinte e contribuinte do ICMS, devido ao Estado de São Paulo enquanto Estado de destino de operações interestaduais", sob a alegação de que não existe lei complementar regendo a cobrança do tributo, dessa forma a imposição do pagamento do imposto seria inconstitucional.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fl. 368):
+Na mesma linha, em 22/09/2021, quando da análise da Reclamação nº 48.731 MC/SP, ressaltou o STF, quanto ao marco temporal para aplicação da modulação dos efeitos do Tema nº 1.093, que "o entendimento desta Corte é de as decisões proferidas em sede de controle concentrado de constitucionalidade produzem efeitos a partir da data em que se publica a ata de julgamento, a qual, no caso, ocorreu em 3.3.2021".
+Desta forma, uma vez que a presente ação mandamental estava em curso quando da publicação da ata de julgamento do Tema 1.093, ela se encaixa na exceção prevista na modulação de efeitos do julgado do STF, de modo a não recolher o DIFAL sobre operações interestaduais com mercadorias vendidas a consumidores finais não contribuintes do ICMS localizados no Estado de São Paulo.
+E ainda, no julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 496):
+No caso dos autos, a ação mandamental foi distribuída em 26/02/2022, posteriormente à data do julgamento do Tema 1.093 pelo Supremo Tribunal Federal, de tal sorte que ao "mandamus" não se aplica a ressalva da modulação dos efeitos, e, portanto, o contribuinte não possui direito líquido e certo a não se submeter ao recolhimento do DIFAL nas operações interestaduais que tenham destinatário consumidor final do ICMS.
+Nos segundos embargos de declaração, que a meu ver foi procrastinatório, pois a omissão já tinha sido esclarecida anteriormente, a Corte bandeirante assentou:
+Isso porque, no caso concreto, em sede de juízo de conformidade, adotou-se o novo entendimento da Corte Suprema de que as ações em andamento até o dia 24 de fevereiro de 2021, inclusive, estariam afastadas da modulação dos efeitos do decidido no Tema 1.093/STF.
+Como se vê, a negativa de prestação jurisdicional não restou configurada, o que existe é mera recalcitrância em aceitar o resultado do julgamento.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto à análise dos arts. 215, 515, 1.035 e 1.040 do CPC e 165 do CTN, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria" (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Por último, com relação à infringência do art. 927 do CPC, está claro que ela não ocorreu, pois a Corte de origem interpretou corretamente a norma, no sentido de que os juízes e os tribunais observarão os julgamentos de recursos extraordinário repetitivo.
+Na verdade, a recorrente pretende discutir no recurso especial o teor do Tema 1.093, julgado sob repercussão geral pelo Supremo Tribunal Federal, o que é inviável nesta via.
+Dessa forma, portanto, não compete o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de usurpação dos poderes conferidos à Suprema Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E CONSTITUCIONAL. JUROS DE MORA ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO E A DATA DO DEPÓSITO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. COMPETÊNCIA DO STF.
+1. Em relação à incidência de juros de mora entre a expedição do precatório e o seu efetivo pagamento, verifica-se que o fundamento adotado pelo Corte a quo é eminentemente constitucional, com amparo na jurisprudência do Supremo Tribunal Federal, no art. 100 da Carta Magna e na Súmula Vinculante 17.
+2. Não cabe ao Superior Tribunal de Justiça examinar a questão, porquanto reverter o julgado significaria usurpar competência que, por expressa determinação do art. 102, III, da Constituição Federal, pertence ao Supremo Tribunal Federal.
+3. Recurso Especial não conhecido (REsp n. 1.814.286/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/6/2019, DJe de 1/7/2019).
+ADMINISTRATIVO. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. PRECATÓRIOS. EC 30/2000. COISA JULGADA. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL. INVIABILIDADE.
+1. Inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. O acórdão recorrido entendeu pela inexistência de violação da coisa julgada a partir da interpretação de dispositivos constitucionais (ADCT, art. 78, e EC 30/2000).
+3. A análise da fundamentação constitucional do acórdão recorrido é de competência da Suprema Corte, por reserva expressa da Constituição Federal. Precedentes.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (AREsp 729.156/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para con hecer em parte do recurso especial e, nessa extensão, negar-lhe p rovimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
