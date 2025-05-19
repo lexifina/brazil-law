@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fl. 426):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. RETORNO STJ. REEXAME.
+I. Prescrição. Afastada. Em virtude das sucessivas renovações contratuais, deve ser considerado como termo inicial da prescrição a data da assinatura do último contrato firmado pelas partes.
+II. Juros remuneratórios. Entidade fechada de previdência complementar. Aplicam-se aos contratos revisados os termos do Decreto ne 22.626/33 (Lei de Usura), isto é, a limitação dos juros remuneratórios ao percentual de 12% ao ano.
+III. Capitalização de Juros. Afastada, ante a ausência de expressa previsão contratual. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES. UNÂNIME.
+O acórdão recorrido atende à decisão de minha lavra (fls. 414-417) que determinou o retorno dos autos à origem, a fim de que houvesse pronunciamento acerca de omissões apresentadas nos embargos de declaração e não sanadas pela Corte local.
+Nas razões recursais (e-STJ fls. 450-477), fundamentadas no art. 105, III, "a", da CF, o recorrente aponta ofensa ao art. 85, § 2º, do CPC/2015, sustentando, em síntese, que, "em se tratando de ação em que há condenação à restituição do valor pago a maior pela parte recorrente, é evidente que não se trata de ação em que o proveito econômico é imensurável como decidido pelo Tribunal a quo" (fl. 477).
+Não foram apresentadas contrarrazões (fl. 530).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Quanto aos honorários advocatícios, assim dispôs a Corte local (fl. 434):
+Tendo em vista o novo alcance da decisão, redimensiono os ônus sucumbenciais e condeno o réu ao pagamento de 90% das custas processuais e honorários sucumbenciais em favor dos patronos do autor, os quais fixo em 20% sobre o valor atualizado da causa, com fulcro no artigo 85, §2º e §11, do Código de Processo Civil. Já, ao autor, caberá o pagamento de 10% das custas processuais e honorários sucumbenciais em favor dos procuradores de réu, os quais fixo em 10% sobre o valor atualizado da causa.
+A jurisprudência do STJ se firmou no sentido de que, para a fixação dos honorários sucumbenciais, na vigência do CPC/2015, deve-se observar a seguinte ordem de preferência: (a) o valor da condenação; (b) o proveito econômico obtido pelo vencedor; e (c) o valor atualizado da causa. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE FIXAÇÃO. REGRA GERAL. ART. 85, § 2º, DO CPC. EXCESSO DE EXECUÇÃO. PROVEITO ECONÔMICO MENSURÁVEL. APURAÇÃO DO HONORÁRIOS ADVOCATÍCIOS EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE.
+1. Cumprimento de sentença.
+2. Quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da 2ª Seção.
+3. Além disso, é firme a jurisprudência desta Corte Superior no sentido de que "havendo proveito econômico, não há vedação para que o valor arbitrado a título de honorários seja apurado em sede de liquidação da condenação "(AgInt no REsp n. 1.879.482/DF, Quarta Turma, julgado em 30/11/2020, DJe de 7/12/2020).
+4. Recurso especial provido.
+(REsp n. 2.166.048/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. ILEGITIMIDADE PASSIVA DE UM DOS CORRÉUS. HONORÁRIOS ADVOCATÍCIOS. CPC, ART. 338, PARÁGRAFO ÚNICO. INAPLICABILIDADE. BASE DE CÁLCULO. PROVEITO ECONÔMICO. PREFERÊNCIA SOBRE VALOR DA CAUSA. CPC, ART. 85, § 2º. PROVEITO ECONÔMICO OBTIDO PELA CORRÉ CALCULÁVEL. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+2. A jurisprudência desta Corte é firme de que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, Relatora Ministra Nancy Andrighi, Relator para acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe de 29/3/2019).
+3. Somente se o proveito econômico da corré cuja ilegitimidade foi reconhecida fosse imensurável é que seria o caso de se estabelecer o valor da causa como base de cálculo dos honorários, o que não é o caso dos autos, em que é possível o cálculo do valor do pedido julgado improcedente.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.505.181/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Tal ordem, entretanto, não foi seguida, pois, havendo condenação para, em liquidação de sentença, apurar e afastar "a incidência da capitalização mensal nos contratos revisados, tanto mensal quanto anual, admitidas a compensação frente ao montante devido pelo recorrente e a repetição simples do indébito" (fl. 433), a Corte estadual estabeleceu como base de cálculo dos honorários de sucumbência o valor atualizado da causa.
+Ocorre que, nos termos da jurisprudência desta Corte, havendo condenação, ainda que ilíquida, esta deve ser a base de cálculo dos honorários advocatícios. Confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. ORDEM DE PREFERÊNCIA. VALOR DA CONDENAÇÃO. INEXISTÊNCIA DE PARTICULARIDADES APTAS A AFASTAR O ENTENDIMENTO DO STJ SOBRE O TEMA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento alcançado pela origem não está ajustado à jurisprudência deste Tribunal, porquanto, atentando-se à ordem de preferência estabelecida em precedente da Segunda Seção do STJ, a verba honorária deve ser fixada com base no valor da condenação, inexistindo particularidades a ensejarem a adoção de outra base de cálculo.
+2. Registre-se, ainda, que esta Casa já decidiu que, sendo mensurável, ainda que somente em liquidação, os honorários sucumbenciais devem ser fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/6/2024, DJe de 26/6/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RITO COMUM. REVISÃO DE CONTRATO. NULIDADE DE CLÁUSULAS. PROCEDÊNCIA DO PEDIDO. PROVEITO ECONÔMICO. AFERIÇÃO EM LIQUIDAÇÃO DE SENTENÇA. FIXAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA SOBRE O PROVEITO ECONÔMICO. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência desta Corte, "havendo proveito econômico, não há vedação para que o valor arbitrado a título de honorários seja apurado em sede de liquidação da condenação" (AgInt no REsp 1.879.482/DF, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 30/11/2020, DJe de 7/12/2020).
+2. Agravo interno provido para, em novo julgamento, dar provimento ao recurso especial.
+(AgInt no REsp n. 2.114.037/MT, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/6/2024, DJe de 7/6/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO SOBRE O VALOR DA CONDENAÇÃO. FUTURA LIQUIDAÇÃO. POSSIBILIDADE. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER MENSURÁVEL. PRECEDENTES.
+1. O fato de o valor da condenação depender de futura liquidação, por si só, não impede que a verba honorária a tome como parâmetro, em especial quando sopesado o entendimento firmado no âmbito da Segunda Seção no sentido de escalonar a fixação dos honorários, de modo que a condenação se sobressai com relação ao proveito econômico, o valor da causa e à luz da equidade. Exegese do REsp n. 1.746.072/PR, relator para acórdão Ministro Raul Araújo, Segunda Seção, DJe de 29/3/2019.
+ ..
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.987.698/SC, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 13/12/2023, DJe de 15/12/2023.)
+No caso, o valor da condenação poderá ser facilmente identificado na fase de liquidação, devendo ser essa a base de cálculo a ser adotada para a fixação dos honorários sucumbenciais.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para fixar os honorários advocatícios devidos aos advogados da parte recorrente no equivalente a 20% (vinte por cento) sobre o valor da condenação, a ser apurado em liquidação de sentença.
+Publique-se e inti mem-se.
+EMENTA
