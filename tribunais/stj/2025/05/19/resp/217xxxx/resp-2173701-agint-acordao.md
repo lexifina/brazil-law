@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BLOQUEIO DE VALORES. SALÁRIO. IMPENHORABILIDADE. CASO CONCRETO. IMPOSSIBILIDADE.
+1. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ADRIANA APARECIDA RIBEIRO MORATO DO CANTO contra a decisão desta relatoria que negou provimento ao recurso especial.
+Em suas razões (e-STJ fls. 187/197), a agravante reitera as alegações do recurso especial. Sustenta a violação do art. 833, IV e X, do Código de Processo Civil.
+Defende a impenhorabilidade dos valores depositados em poupança até o limite de 40 salários-mínimos, bem como dos proventos de natureza salarial. Argumenta que devido a movimentação da conta poupança feita através de saques, o magistrado entendeu por afastar o caráter impenhorável da conta, alegando que as movimentações de um mês para o outro fariam perder a característica de verba salarial, bem como a característica de poupar.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BLOQUEIO DE VALORES. SALÁRIO. IMPENHORABILIDADE. CASO CONCRETO. IMPOSSIBILIDADE.
+1. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+2. Agravo interno não provido.
+VOTO
+Não procede a irresignação.
+Conforme assentado na decisão monocrática ora combatida, o TJSP afastou a impenhorabilidade de valores provenientes de contas bancárias da recorrente sob o seguinte argumento:
+"Isto porque, conforme observado nos autos do agravo de instrumento nº 2001068-14.2024.8.26.0000, os extratos bancários colacionados àqueles autos, não houve a penhora de qualquer montante oriundo de verba salarial, na medida em que, conforme se infere dos extratos de fls. 38/40 a penhora foi realizada em 17.10.23, no valor de R$ 1.453,91, ao passo que o salário foi creditado apenas em 27.10.23 no importe de R$ 1.776,14.
+Diante desse cenário, imperioso concluir que a penhora recaiu sobre valores já existentes na conta corrente da agravante, razão pela qual inexiste qualquer óbice para que a manutenção do bloqueio, vez que não se trata de penhora sobre verba salarial, mas sim de montante que remanesceu em conta de um mês para o outro o qual, de certo, perdeu o caráter de impenhorabilidade.
+Desta forma, plausível se mostra a reforma da r. decisão agravada nesse particular, para o fim de manter a penhora realizada no valor de R$ 1.453,91.
+No que toca à penhora realizada no valor de R$ 8.339,93 em outra conta bancária em 17.10.23, a qual a ora agravada aponta como sendo poupança, observa-se que nela a agravante mantinha depositada a quantia expressiva de R$ 15.621,34 no momento da constrição.
+Neste contexto, oportuno destacar que além de inexistir qualquer prova acerca de sua natureza, não há qualquer elemento probatório que demonstre que a suposta conta poupança era utilizada para fins exclusivos de poupar recursos, mormente quando se verifica do extrato bancário copiado no agravo de instrumento retro mencionado (fls. 32/34), que a conta era movimentada por meio da realização de transferência via PIX.
+Note-se que no mês de outubro, mês em que houve o bloqueio judicial, foram realizadas 8 transações dessa natureza, 14 outras ocorreram no mês de novembro e outras 05 no mês de dezembro/23.
+Daí porque, tendo em vista que a utilização de conta poupança na referida modalidade se desvirtua de sua forma originária, vez que a conta poupança era utilizada como se fosse conta corrente, inviável que a agravada goze da benesse do art. 833, X, do CPC, razão pela qual possível a realização da constrição de valores nela contido.
+Por outro lado, com razão, foi reconhecido pelo R. Juízo a quo a impenhorabilidade de parte da quantia depositada na referida conta bancária, pois, embora a agravada não tenha se desincumbido do ônus de comprovar que referido montante teria sido depositado pelo genitor de sua filha, esta Relatora, com o fito de proferir decisão com olhos postos na verdade real, realizou consulta nos autos nº 1011236- 68.2022.8.26.0451, no qual foi verificado a celebração de acordo homologado pelo R. Juízo da Vara de Família, no qual fixou o pagamento de valores em favor da menor nos termos mencionados pela agravada, razão pela qual nenhuma penhora poderia recair sobre tal montante.
+Todavia, mesmo considerado a impenhorabilidade do referido montante, assim como da quantia de R$ 5.000,00, decorrente de valor recebido a título de participação nos lucros da empregadora da agravada, sobejaria depositada na conta em comento a quantia de R$ 7.321,34.
+Assim, evidente de mostra que, embora não pudesse ser mantida a penhora sobre o valor integral realizado, plausível que esta se antivesse sobre o valor de R$ 7.321,34, mormente quando nada nos autos demonstra que outros valores que estavam na referida conta bancária fossem impenhoráveis.
+Portanto, pertinente se mostra a reforma da r. decisão agravada para o fim de reconhecer que a penhora realizada no importe de R$ 8.339,93, deve ser mantida pelo valor de R$ 7.321,34, devendo o saldo remanescente de R$ 1.018,59 ser liberado em favor da parte ora agravada."
+Tal entendimento está de acordo com a jurisprudência deste STJ, segundo a qual a regra geral da impenhorabilidade poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. BLOQUEIO DE VALORES. SALÁRIO. IMPENHORABILIDADE. CASO CONCRETO. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. No caso concreto, o tribunal de origem sequer reconheceu a natureza salarial da verba penhorada.
+4. É inviável rever o entendimento firmado pela instância ordinária sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 2.108.721/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
