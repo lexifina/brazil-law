@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por HERDEIROS DE MARTINS SEBASTIÃO KREUSCH, com fundamento na incidência das Súmulas 7 e 83 deste STJ (fls. 869-871).
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, sob o argumento de que não é necessário o revolvimento de provas para verificação da contrariedade aos dispositivos legais invocados nas razões do recurso especial (fls. 890-891). Assevera, ainda, que a decisão afronta o decidido no Tema 793/STF e que a tese de ilegitimidade da União já foi apreciada e afastada no julgamento do agravo de instrumento n. 5047376- 10.2021.4.04.0000/PR, tendo ocorrido violação à coisa julgada (fl. 893).
+Contraminuta apresentada às fls. 841-850.
+É o relatório.
+Passo a decidir.
+Embora o recorrente aponte a existência de violação a normas infraconstitucionais, o acórdão recorrido apreciou a questão sob o enfoque predominantemente constitucional, especialmente do entendimento consolidado na Súmula 793/STF, requerendo análise da jurisprudência do Supremo Tribunal Federal.
+Confira-se os seguintes excertos do aresto de origem (fls. 755 e 763):
+No que diz respeito à alegação de emenda à inicial extemporânea, conforme a decisão acima transcrita, ao ajuizar a demanda, extrai-se dos fundamentos da petição da medida cautelar que um dos objetivos da parte autora, além de suspender qualquer cobrança ou inserção do nome nos serviços de proteção ao crédito ou protesto de títulos, referentes à internação e tratamento de sua esposa junto ao Hospital Marcelino - Associação Paranaense de Cultura, é buscar o ressarcimento do ente público federal em relação às despesas despendidas em razão de internação emergencial em instituição hospitalar particular. Portanto, não há que se falar em nulidade para reforma decisão para se reconhecer a ilegitimidade da apelante, pois o fundamento utilizado para tal situação é o Tema 793 do STF, segundo o qual nas ações em que se pleiteia tratamento em face do SUS, o responsável financeiro para arcar com o seu custeio deve compor, obrigatoriamente, o polo passivo, ainda que os outros entes possam também figurar na relação processual.
+Dessa forma, não compete o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de usurpação dos poderes conferidos à Suprema Corte.
+Outrossim, para avaliar se houve violação à coisa julgada, seria necessário reexame de documentos constantes de outro processo, especialmente para certificar se a questão tratada se identifica com a que ora se debate no presente feito, o que não se admite ante o óbice da Súmula 7/STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
