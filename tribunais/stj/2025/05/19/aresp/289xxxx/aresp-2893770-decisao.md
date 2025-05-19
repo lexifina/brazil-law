@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FRANCISCO PINHEIRO DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO. PESSOA FÍSICA. GRATUIDADE. DEFERIMENTO. REIVINDICATÓRIA. REQUISITOS. POSSE INJUSTA. CONFIGURAÇÃO. AÇÃO PROCEDENTE. DIREITO DE RETENÇÃO, INOVAÇÃO RECURSAI. NÃO CONHECIMENTO.
+Defere-se a gratuidade judiciária à pessoa física, quando não desconstituída a presunção de hipossuficiência financeira por elementos probatórios dos autos.
+É procedente a ação reivindicatória, quando a prova dos autos indicar que estão presentes os requisitos para sua concessão, em especial, se evidenciada a posse injusta do requerido e a defesa da propriedade pela autora em outras oportunidades.
+Ausente alegação de direito de retenção na contestação, sua alegação apenas na apelação constitui indevida inovação em sede recursal de modo que não pode ser conhecida (fls. 328/329).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 1.228 e 1.238 do CC, no que concerne ao reconhecimento da inadequação da via eleita - ação reivindicatória -, pelo fato de a parte recorrida nunca ter tido a posse do imóvel reivindicado, trazendo a seguinte argumentação:
+O acervo probatório carreado aos autos pelo recorrente estrema de dúvida que sua posse iniciou-se no começo da invasão, nos anos 90. Não há dúvidas que a recorrida nunca teve a posse do imóvel reivindicado.
+Como narrado na síntese dos fatos, o recorrente juntou comprovante de pagamento de IPTU desde 2006 até 2018 (Id 23491598), bem como anexou documento da Prefeitura de Porto Velho, em que consta o recorrente como interessado, deferindo pedido de prescrição do IPTU entre os anos 2000 a 2006 (Id 23491596, pág. 08).
+Não obstante, o documento de Id 23491596 demonstra, através de certidão de inteiro teor lavrada em 2012, que desde 2008 o imóvel é de propriedade do Município de Porto Velho.
+Assim, facilmente percebe-se a falta de veracidade do que narrado na inicial, alegando que a posse da autora começou a ser turbada em 2017 pelo recorrido.
+ ..
+Não há dúvidas que o recorrente exerce a posse com animus domini da área reivindicada por mais de 15 (quinze) anos. Tal fato comprova-se com as provas acima mencionadas.
+Destarte, requer seja reconhecida a inadequação da via eleita ou a usucapião prevista no art. 1.238 do Código Civil em favor do recorrente (fls. 347/348).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Apreciando os autos, verifica-se que a pretensão deduzida pela autora se funda na propriedade que detém sobre o imóvel descrito na inicial, sendo que sua posse, segundo alega, teria sido perturbada de forma injusta pelo requerido.
+ ..
+Na espécie, a despeito das alegações do apelante, infere-se que quem teria, em tese, adquirido o imóvel seria sua ex-companheira; contudo, ele próprio tentou regularizar o imóvel e não o conseguiu por já estar registrado em nome da autora, contudo, ciente de tal fato, permaneceu na posse deste.
+Ademais, o argumento de que não houve oposição à sua posse não se mostra verdadeira, pois consta dos autos outra ação também ajuizada pela autora em 2015 contra as pessoas de EVALDO BORGES DOS SANTOS e SUELY CASTRO DA SILVA (0006683-42.2015.8.22.0001), a qual, mesmo julgada improcedente, aponta que a autora sempre se opôs à ocupação de terceiros em relação ao imóvel.
+Trago à colação, ainda, trechos da sentença de primeiro grau que apontam para a conclusão acima:
+  Ao contrário, a parte requerida não demonstra sua legitimidade ao referido imóvel visto que os documentos que apresenta, apenas comprovam declaração de sua residência em endereço divergente, sem identidade com o imóvel objeto nos autos (id. n. 83852641; . 83852650 - págs. 4, 11, 12, 16; 83853652) Assim, possuindo a parte requerente justo título - prova da titularidade do domínio, delimitação do bem e prova de posse injusta exercida pelo requerido -, figura-se correta a sua pretensão consistente no exercício da posse sobre o bem, mediante imissão.
+De forma contrária, o próprio requerido afirma em sede de contestação que possuía conhecimento que o imóvel era de Domínio Pleno em favor da autora (id. n. 83852630 - Pág. 4), desse modo, concretiza-se sua posse de má-fé. Outrossim, a parte requerida não trouxe provas que seu requerimento junto a SEMUR (protocolo 01-18.06505-000/2012) ficou, em algum momento, positivo.
+Por outro lado, a autora conseguiu demonstrar sua aptidão dominial sobre a propriedade, ante a aquisição do domínio da propriedade do imóvel objeto da lide. Logo, esse instrumento em nome da autora constitui-se como justo título revestido de aptidão concreta à transferência de domínio da propriedade.
+Portanto, assiste direito à autora, devendo ser imitida na posse do imóvel supracitado em caráter definitivo  - destacou-se.
+Nesta perspectiva, mantenho a procedência do pedido inicial (fls. 325/328).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
