@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA. TAXA SELIC. AUSÊNCIA DE PREQUESTIONAMENTO. DANOS MORAIS. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incide a Súmula 282 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por José Antô nio Barros Munhoz contra decisão que não conheceu do recurso especial (fls. 1.002-1.005).
+A referida decisão agravada fundamentou-se, basicamente, na ausência de prequestionamento acerca da pretensão de utilização da taxa SELIC como índice de correção para fins de pagamento da condenação em danos morais, aplicando a Súmula 211/STJ.
+Além disso, a decisão destacou a impropriedade da via eleita para análise de tese de violação de dispositivos da Constituição Federal, sob pena de invasão da competência atribuída ao STF.
+No que tange aos danos morais, foi observado que a Corte de origem, após análise de fatos e provas, concluiu pela ocorrência do ato ilícito, do dano e do nexo de causalidade, conforme trecho do acórdão reproduzido. Em consequência, entendeu-se que a revisão da conclusão adotada na origem, para acolher a pretensão de afastamento da condenação em danos morais, encontra veto na Súmula 7/STJ, por demandar reexame de fatos e provas.
+Nas razões do agravo interno, a parte recorrente defende, em síntese, que o reconhecimento da inexistência de ilegalidade na atitude do Agravante durante o programa de rádio, para que seja afastada a condenação em danos morais, não exige o reexame de matéria fática.
+Alega ser desnecessário o prequestionamento na hipótese dos autos, destacando que a discussão sobre correção monetária configura matéria de ordem pública, na medida em que tal encargo é consectário legal da condenação. É, portanto, passível de alteração de ofício, não ocorrendo preclusão, violação à coisa julgada, tampouco reformatio in pejus.
+Não foi apresentada impugnação ao agravo interno (fls. 1.025-1.026).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA. TAXA SELIC. AUSÊNCIA DE PREQUESTIONAMENTO. DANOS MORAIS. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incide a Súmula 282 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não comporta acolhimento.
+Preliminarmente, ainda que se considerasse matéria de ordem pública a utilização da SELIC como índice de correção monetária, cumpre registrar que " m esmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento" (AgInt no AREsp n. 2.288.289/SP, de minha relatoria, Quarta Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+Nesse contexto, reitero que a Corte de origem não emitiu nenhum juízo de valor sobre a matéria, carecendo do necessário prequestionamento a viabilizar sua discussão na presente oportunidade. No ponto, verifica-se que não houve emissão de juízo de valor sobre os preceitos indicados como violados, sendo obstada sua análise, a teor da Súmula 282/STF.
+Em relação à pretensão de afastamento da condenação em danos morais, cumpre destacar que, após a análise de fatos e provas levados aos autos, a Corte de origem concluiu pela existência do ato ilícito, do dano e do nexo de causalidade, sendo relevante a transcrição do trecho do acórdão abaixo reproduzido (fls.  894 -895):
+O  requerido,  ora  embargante,  ocupava  o  cargo  de  Prefeito  Municipal  e  se  utilizou  de  espaço  diário  de  que  dispunha  na  rádio  requerida  para  ofender  a  honra  do  autor,  ora  embargado,  que  à  época  comandava  o  destacamento  da  Polícia  Militar  na  cidade,  que  conta  com  cerca  de  70  mil  habitantes.
+Segundo  foi  comprovado,  o  requerido,  ora  embargante,  afirmou  que  o  autor,  ora  embargado,  atuava  com  "comportamento  contrário  aos  interesses  da  segurança  da  nossa  cidade"  (fls.  246),  que  ele  "mente,  mentiu  inclusive  à  Justiça",  que  enviou  ofício  ao  Juiz  de  Direito  "mentindo  sobre  a  ação  da  prefeitura,  sobre  a  ação  da  guarda  municipal,  sobre  a  ação  do  Conselho  Tutelar"  e  que  "alguém  que  mente  não  tem  obviamente  condições  de  exercer  o  comando  do  destacamento  da  Polícia  Militar  da  nossa  cidade  ",  aduzindo  que  ele  praticava  "desmandos  ",  "ação  descabida",  "política",  "ação  contra  os  interesses  da  cidade"  (fls.  247).
+Não  se  vislumbra,  assim,  hipótese  de  ofensa  excepcionalmente  grave  à  honra  do  autor,  ora  embargado,  pois,  de  fato,  se  tratam  de  duas  pessoas  públicas,  que  devem  possuir  um  patamar  naturalmente  mais  elevado  de  tolerância  às  críticas,  sendo  certo  que  algumas  das  palavras  proferidas  pelo  embargante  contra  o  embargado,  embora  tenham  ultrapassado  o  mero  tom  de  crítica,  não  devem  ser  consideradas  graves  a  ponto  de  ensejar  uma  reprimenda  elevada,  tal  como  consignado  no  voto  condutor  (R$  20.000,00)  do  v.  acórdão  embargado,  sendo  mais  adequado  o  acolhimento  da  proposta  contida  no  voto  divergente  (R$  10.000,00),  o  qual  está  em  sintonia  com  os  princípios  da  proporcionalidade  e  da  razoabilidade,  na  medida  em  que  não  é  apto  a  ensejar  o  enriquecimento  do  embargado  nem  a  ruína  financeira  do  embargante,  ao  mesmo  tempo  em  que  pune  adequadamente  os  excessos  por  este  praticados.  Nesse  sentido  é  a  jurisprudência  mais  recente  deste  Sodalício:
+(..)
+Imperioso,  portanto,  o  provimento  aos  embargos  infringentes,  visando  a  ratificar  o  voto  divergente  proferido  no  julgamento  anterior,  de  sorte  a  reduzir  o  valor  da  indenização  por  danos  morais  para  R$  10.000,00,  mantidos  os  consectários  legais  dantes  fixados.
+Nesse contexto, a revisão da conclusão adotada na origem para que seja afastada a condenação em danos morais na hipótese, depende de necessário reexame de fatos e provas, notadamente da transcrição integral das falas contidas no programa de rádio onde foram veiculadas as ofensas que configuraram ato ilícito conforme o entendimento da Corte local; circunstância que encontra veto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
