@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOSE TORRES DA SILVA SOBRINHO, com fundamento na incidência  da Súmula  5 e 7 deste STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Assevera que "se mostra necessária apenas a revalorização jurídica dos fatos identificados e delineados no acórdão impugnado, eis que o Tribunal a quo realizou o delineamento do contexto fático-probatório, o qual deve ser submetido à revaloração jurídica na via especial. Desta forma, evidente a não incidência da s Súmula s 05 e 07 desse Egrégio Superior Tribunal de Justiça, sendo que o Recurso Especial interposto merece ser conhecido e totalmente provido, pois preenchidos todos os requisitos para tanto" (fl. 1.464).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Nas razões do recurso especial, a parte agravante afirma que "independentemente da Seguradora responsável pela apólice dos Recorrentes, a Recorrida possui legitimidade para figurar no polo passivo da ação, porque conforme a legislação, das seguradoras líderes, o agente financeiro escolhia anualmente, entre as líderes, a seguradora de sua preferência, sendo, ainda, possível a qualquer tempo, o IRB e o BNH (atualmente a Caixa Econômica Federal) excluírem a seguradora cuja desempenho fosse insatisfatório, conforme consta na cláusula 2 das Normas e Rotinas Aplicáveis à Cobertura Compreensiva Especial do Seguro Habitacional do SFH" (fl. 1.419).
+Ao decidir a lide, o Tribunal de origem consignou (fls. 1.370-1.378):
+3.5. In casu, conforme bem pontuado na sentença, quando remetidos os autos à Justiça Federal, aquele juízo oficiou a COHAPAR a fim de obter informações inerentes a apólice securitária do autor não pertencia ao Ramo 66. Em resposta, a Companhia comunicou que a apólice do autor consta, atualmente, como Ramo 61/65, ou seja, do ramo privado, e, precipuamente, que a seguradora é a Companhia Excelsior de Seguros. (mov. 1.46, autos originários)
+3.6. Tal circunstância evidencia a impossibilidade de prosseguimento da pretensão autoral em face da seguradora TRADITIO (atual razão social da SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS), haja vista não ter sido contratada ou ter prestado serviços à Companhia de Habitação do Paraná - COHAPAR. Inclusive, não foi quem recebeu o respectivo prêmio e, por conseguinte, não comprometeu a arcar com eventuais indenizações securitárias.
+3.7. Ora, por ter natureza privada a apólice, não há se falar em "pool" de seguradoras, sendo descabido imputar a responsabilidade do contrato do autor a qualquer seguradora, mas, sim, somente àquela que se obrigou contratualmente a responder por eventuais danos, no caso, em princípio, a Companhia Excelsior de Seguros.
+ ..
+3.9. Assim, considerando que o conjunto probatório constante dos autos demonstra de forma inequívoca que o contrato sob enfoque está fora do SFH, escorreita a sentença ao reconhecer a ilegitimidade passiva da seguradora ré.
+O acórdão estadual concluiu pela ilegitimidade passiva da recorrida, ressaltando a vinculação das apólices securitárias ao ramo privado.
+Diante das premissas fáticas estabelecidas no acórdão, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, atraindo, por conseguinte, a incidência das das Súmulas 5 e 7 deste STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. AGENTE FINANCEIRO. COHAPAR. ARTIGO 47 DO CÓDIGO DE PROCESSO CIVIL DE 1973. LITISCONSÓRCIO PASSIVO NECESSÁRIO. AUSÊNCIA. TRIBUNAL DE ORIGEM. ENTENDIMENTO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não se justifica a inclusão do agente financeiro no feito como litisconsorte passivo se não ficar evidenciada sua responsabilidade pela cobertura securitária.
+3. Na hipótese, rever a conclusão do tribunal local demandaria o reexame de cláusulas contratuais e de matéria fático-probatória, procedimentos inadmissíveis em recurso especial diante do disposto nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido (AgInt no AREsp 872.601/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/08/2020, DJe de 18/08/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. APÓLICES PRIVADAS. COBERTURA FORA DO SISTEMA FINANCEIRO DA HABITAÇÃO. DEMANDA QUE DEVE SER PROPOSTA EM FACE DA SEGURADORA QUE EFETIVAMENTE ASSUMIU A RESPONSABILIDADE SECURITÁRIA. AUSÊNCIA DE CONTRATO DE SEGURO COM A SEGURADORA RÉ. INCIDÊNCIA DAS SÚMULAS 5 E 7 deste STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese, o Tribunal de origem observou que as apólices securitárias referentes aos imóveis dos autores são todas privadas e não há formação de "pool" de seguradoras, sendo parte legítima passiva para a ação de responsabilidade obrigacional securitária apenas a seguradora especificamente responsável pelos contratos de mútuo, qual seja a Companhia Excelsior de Seguros. Inviável, portanto, a responsabilização da Caixa Seguradora, estando caracterizada sua ilegitimidade passiva.
+2. A modificação do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis no recurso especial, a teor do disposto nas Súmulas 5 e 7 deste STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.573.362/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 01/06/2020, DJe de 15/06/2020).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Deixo de estipular honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
