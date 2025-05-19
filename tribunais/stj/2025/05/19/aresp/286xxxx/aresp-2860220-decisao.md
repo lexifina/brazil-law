@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra a decisão que inadmitiu o recurso especial com fundamento na ausência de contrariedade ao art. 1.022, II, do CPC, na incidência das Súmulas n. 5 e 7 do STJ e na prejudicada a análise da divergência jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não se atrela a nenhum entendimento do STJ, não preenche os requisitos formais e requer o não conhecimento do agravo ou seu improvimento, com aplicação de multa (fls. 638-649).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em apelação nos autos de ação revisional cumulada com pedido de tutela antecipada.
+O julgado foi assim ementado (fl. 235):
+APELAÇÃO. PLANO DE SAÚDE. PRELIMINAR. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO. IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. PREFACIAL. REJEIÇÃO. PLANO DE SAÚDE DE AUTOGESTÃO. CDC. INAPLICAÇÃO. SÚMULA 608, DO STJ. MENSALIDADE. REAJUSTE ANUAL. AUSÊNCIA DE COMPROVAÇÃO DOS CÁLCULOS ATUARIAIS. ABUSIVIDADE DOS ÍNDICES APLICADOS. RECONHECIMENTO. REAJUSTE ANUAL. ÍNDICE DA TABELA FIPE-SAÚDE PREVISTO CONTRATUALMENTE. EXCLUSÃO. REAJUSTE ATUARIAL. DEVOLUÇÃO DOS VALORES PAGOS A MAIOR, DE FORMA SIMPLES. SENTENÇA REFORMADA. PREFACIAL REJEITADA. APELAÇÃO. PROVIMENTO PARCIAL.
+Os embargos de declaração opostos não foram acolhidos.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, do CPC, pois o acórdão deixou de se manifestar sobre tese defensiva arguida referente a violação dos arts. 421 e 422 do CC por não ter sido respeitado o pacta sunt servanda;
+b) 421 e 422 do CC, porquanto a intervenção do Estado deve ser mínima e excepcional, assegurando a vontade das partes conforme estabelecido contratualmente, observando-se o princípio da boa-fé.
+Pondera que os reajustes dos contratos coletivos não são vinculados aos índices da ANS, prevalecendo o pactuado entre as partes conforme consolidado no contrato celebrado.
+Requer o provimento do recurso para que se reconheça a violação os arts. 1.022, II, do CPC e 421 e 422 do CC, e assim a legalidade dos reajustes anuais.
+Nas contrarrazões, a parte recorrida aduz que o recurso não se atrela a nenhum entendimento do STJ, não preenche os requisitos formais e requer o não conhecimento do recurso especial ou seu improvimento (fls. 599-612).
+É o relatório. Decido.
+A controvérsia diz respeito à ação revisional cumulada com pedido de tutela antecipada em que a parte autora pleiteou a revisão dos reajustes anuais aplicados ao seu plano de saúde, alegando abusividade nos índices aplicados.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido, condenando a autora ao pagamento das custas e honorários advocatícios, fixados em 10% sobre o valor da causa, com a exigibilidade suspensa em razão da gratuidade de justiça.
+A Corte estadual reformou a sentença, determinando que os reajustes do plano de saúde observem somente o índice IPC Saúde (FIPE) e condenou a recorrida na repetição do indébito, de forma simples.
+Destacou que os reajustes anuais das mensalidades do plano de saúde devem observar o índice IPC Saúde (FIPE), conforme estipulado contratualmente, e que a apelada não comprovou o aumento da sinistralidade e a variação dos custos médicos para demonstrar efetivamente o desequilíbrio contratual, também não comprovou que realizou a comunicação dos reajustes à ANS para o controle de eventuais práticas abusivas, conforme exigido pela Resolução Normativa n. 171/2008.
+Assim, o acórdão recorrido, com base no acervo probatório dos autos, considerou abusivo os índices de reajuste aplicados, determinando a devolução simples dos valores pagos a maior.
+De início afasta-se a alegada violação do art. 1.022, II, do CPC, porquanto, conforme verifica-se do acórdão, a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+A questão relativa à alegada violação dos arts. 421 e 422 do CC não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Consoante entendimento jurisprudencial do STJ, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC e a falta de prequestionamento e a incidência das Súmulas n. 211 do STJ e 282 do STF em relação às teses invocadas pela parte agravante que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia outros fundamentos utilizados pelo colegiado.
+Nesse sentido: AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 3/5/2018; e AgInt no AREsp n. 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe de 26/3/2018.
+Por fim, no tocante ao apontado dissídio, ressalte-se que a incidência dos óbices sumulares processuais quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A esse respeito: AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+Ante o exposto, nego provimento ao agravo.
+Nos termos d o § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
