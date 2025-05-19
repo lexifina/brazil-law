@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALLCONTROL ENGENHARIA EIRELI (em recuperação judicial) contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 83 do STJ, por não ter sido demonstrada a divergência jurisprudencial (fls. 286-287).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em agravo de instrumento nos autos de execução de título extrajudicial. O julgado foi assim ementado (fl. 230):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO REALIZADA. SUSPENSÃO DA EXECUÇÃO. MEDIDA PRUDENTE. A habilitação de eventual crédito na recuperação judicial, oriunda de execução, não autoriza a extinção do processo, mas, a suspensão, conforme disposição do art. 6º da Lei nº 11.101/2005. Deve-se aguardar o findar da recuperação judicial para extinguir a execução.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 248):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADE, OMISSÃO OU ERRO MATERIAL. REJEIÇÃO. Os embargos declaratórios tratam-se de recurso cabível, apenas quando há contradição, obscuridade, omissão ou erro material, nos termos do art. 1.022 do CPC. Se a situação apontada pelo recurso não se amoldar a quaisquer dessas hipóteses, impõe-se sua rejeição.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 59, caput e § 1º, da Lei n. 11.101/2005, porquanto a decisão judicial que concede a recuperação judicial constitui título executivo judicial, implicando novação dos créditos anteriores ao pedido;
+b) 924, III, do Código de Processo Civil, visto que deve ser determinada a extinção da execução quando o executado obtiver, por qualquer outro meio, a extinção total da dívida.
+Sustenta que o Tribunal de origem divergiu do entendimento do Tribunal de Justiça do Estado de São Paulo, que, em caso similar, reconheceu a necessidade de extinção da execução, uma vez que o crédito objeto está sujeito aos efeitos da recuperação judicial.
+Requer o provimento do recurso para que se determine a extinção da execução originária, ante a submissão do crédito aos efeitos da recuperação judicial.
+Parecer do Ministério Público Federal pelo provimento do recurso (fls. 316-322).
+É o relatório. Decido.
+O agravo é cabível, tempestivo e preenche os demais requisitos de admissibilidade, razão pela qual merece conhecimento.
+Superada essa análise, verifica-se que o recurso especial merece prosperar.
+A matéria controvertida consiste em definir se a novação dos créditos resultante da aprovação do plano de recuperação judicial suspende ou extingue as execuções individuais.
+O Tribunal de Justiça do Estado de Minas Gerais, ao analisar a questão, pontuou o seguinte (fl. 232):
+Cinge-se a demanda recursal se correta ou não a decisão que determinou o sobrestamento da execução e não sua extinção em razão da habilitação do crédito no quadro geral de credores da agravante.
+Afirmou, ao final, que " o cabível, por ora, é suspensão da execução devendo-se aguardar a extinção da recuperação judicial, haja vista que a novação do crédito dependerá da eficácia ou não do plano " (fl. 233), conforme o disposto no artigo 6º da Lei nº 11.101/2005, o qual disciplina que o deferimento do processamento da recuperação judicial "suspende o curso da prescrição e de todas as ações e execuções em face do devedor".
+Entretanto, tal entendimento está em dissonância com a jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que a novação de que trata o art. 59 da Lei 11.101/2005 implica a habilitação dos créditos no quadro geral e na consequente extinção das respectivas execuções singulares contra a recuperanda.
+Nesse sentido, o REsp n. 1.899.107/PR, relatado pelo Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2023, DJe de 28/4/2023, assim ementado:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUPRESSÃO DAS GARANTIAS. CONCORDÂNCIA DO CREDOR. EXECUÇÃO INDIVIDUAL. EXTINÇÃO. RECUPERANDA. COOBRIGADOS. FASE DE FISCALIZAÇÃO JUDICIAL. TÉRMINO. SUSPENSÃO.
+1. A questão controvertida resume-se a definir se é caso de extinção da execução de título executivo extrajudicial ajuizada contra a empresa em recuperação judicial e os coobrigados do título na hipótese em que o titular do crédito concorda com a cláusula de supressão das garantias inserta no plano de recuperação judicial.
+2. Nos termos da consolidada jurisprudência desta Corte, a cláusula que prevê a supressão das garantias somente é eficaz em relação ao credor titular da garantia que com ela concordar expressamente, o que ocorreu no caso em análise.
+3. No que respeita à sociedade em recuperação judicial, com a aprovação do plano e a consequente novação dos créditos, a execução contra ela ajuizada deve ser extinta, pois não terá como prosseguir, já que o descumprimento do plano acarretará a convolação da recuperação em falência (no prazo de fiscalização judicial), a execução específica do plano ou a decretação da quebra com fundamento no artigo 94 da LREF (decorrido o prazo de fiscalização judicial). Precedentes.
+4. No caso de descumprimento do plano dentro do prazo de fiscalização judicial, o credor poderá requerer a convolação da recuperação judicial em falência, nos termos dos arts. 61, § 1º, e 73, IV, da LREF. Os credores terão seus direitos e garantias reconstituídos nas condições originalmente contratadas (artigo 61, § 2º, da LREF), de modo que a execução contra os coobrigados, antes suspensa, poderá prosseguir.
+5. No caso de o descumprimento do plano se dar após o prazo de fiscalização judicial, a novação torna-se definitiva, nos termos do artigo 62 da Lei nº 11.101/2005, cabendo ao credor requerer a execução específica do plano (título executivo judicial) ou a falência com base no artigo 94, III, "g", da Lei nº 11.101/2005, situação em que a execução contra o coobrigado deve ser extinta.
+6. Recurso especial parcialmente provido.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar a extinção da execução individual movida por MARCELO TOSTES SOCIEDADE DE ADVOGADOS contra ALLCONTROL ENGENHARIA LTDA. (EM RECUPERAÇÃO JUDICIAL) .
+Publique-se. Intimem-se.
+EMENTA
