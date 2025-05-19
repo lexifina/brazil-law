@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. PRESCRIÇÃO. REFORMA DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se a pretensão autoral está prescrita, em virtude da demora na citação válida por mera desídia da agravada.
+2. A conclusão adotada no acórdão recorrido quanto à ausência de desídia da agravada e de inocorrência da prescrição, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA CRISTINA LINS DE MELO (MARIA CRISTINA) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. PRESCRIÇÃO. REFORMA DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 1.083).
+Os embargos de declaração opostos por MARIA CRISTINA foram rejeitados (e-STJ, fls. 1.104/1.109).
+Nas razões do presente inconformismo, MARIA CRISTINA defendeu que descabe falar no reexame da prova e que a controvérsia aqui discutida não decorre da interpretação de cláusulas contratuais, mas da correta aplicação da legislação federal, especificamente dos prazos prescricionais previstos nos artigos 206, § 5º, I, e 206, § 3º, IV e V, do Código Civil (e-STJ, fls. 1.113/1.118).
+Foi apresentada impugnação (e-STJ, fls. 1.123/1.127).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. PRESCRIÇÃO. REFORMA DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se a pretensão autoral está prescrita, em virtude da demora na citação válida por mera desídia da agravada.
+2. A conclusão adotada no acórdão recorrido quanto à ausência de desídia da agravada e de inocorrência da prescrição, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo não merece acolhimento, porque a linha argumentativa apresentada pela MARIA CRISTINA é incapaz de evidenciar o desacerto da decisão unipessoal, que está em consonância com a atual jurisprudência desta Corte, consoante fundamentação que se segue.
+Cinge-se a controvérsia a definir se a pretensão autoral está prescrita, em virtude da demora na citação válida por mera desídia da ASSOCIAÇÃO DOS SERVIDORES DO TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO (ASTCERJ).
+No caso, o Tribunal fluminense, soberano na análise fático-probatória, afirmou que
+ ..  Trata-se de recurso de apelação contra sentença que julgou parcialmente procedente o pedido inicial para condenar a Ré ao pagamento das mensalidades do plano de saúde referentes ao período de setembro de 2010 a janeiro de 2011, distribuindo os ônus sucumbenciais em 50% (cinquenta por cento) das custas judiciais para cada parte e fixando os honorários advocatícios em 10% (dez por cento) sobre o valor da condenação, observada a gratuidade de justiça deferida.
+Insurge-se a Ré requerendo a nulidade da sentença para que seja reconhecida e declarada a prescrição da pretensão autoral e, no mérito, a reforma da sentença para que seja mantida a exclusão das mensalidades de fevereiro, março e abril de 2011, bem como, afastada do quantum debeatur, a multa de 2% (dois por cento) e os honorários advocatícios de 20% (vinte por cento) aplicada na planilha de débito que instruiu a petição inicial.
+Pois bem.
+ ..
+Cinge-se a controvérsia apenas em relação à eventual prescrição trienal ou quinquenal e quanto à aplicação da multa de 2% (dois por cento) e honorários advocatícios de 20% (vinte por cento) aplicada na planilha do débito que instruiu a petição inicial.
+A Autora distribuiu a demanda em 16/10/2014 objetivando a cobrando do débito referente às mensalidades do plano de saúde firmado pela Associação com a empresa Amil - Assistência Médica Internacional Ltda. do qual a Ré é segurada, e vencidas a partir de setembro de 2011.
+Acerca da prescrição dispõe o art. 206, §5º, I, do Código Civil que prescreve em 5 (cinco) anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, sendo esta a hipótese dos autos, uma vez que se trata mera cobrança de mensalidade em contrato de prestação de serviço de plano de saúde.
+Assim, em se tratando de cobrança das mensalidades referentes ao período de setembro de 2010 a abril de 2011 (index 03), o termo final do prazo quinquenal referente à parcela mais antiga dar-se-ia em setembro de 2015, e tendo a demanda sido distribuída em 16/10/2014, não há que se falar em prescrição.
+Quanto à alegação de prescrição intercorrente, cumpre observar que o próprio Juízo a quo reconheceu inexistir conduta desidiosa por parte da Autora que pudesse ensejar na demora da prestação jurisdicional, consoante trecho que segue (index 849):
+Primeiramente no tocante a prescrição trienal e quinquenal sou por desacolher, uma vez que a demanda foi distribuída (sic) dentro do prazo legal, não havendo conduta desidiosa da autora que pudesse culpa-la (sic) pela demora da prestação jurisdicional, senão o excesso de serviço e processos da serventia, que não pode prejudicar a parte que se socorre do Judiciário.
+Neste sentido, o §3º, do art. 240, do C.P.C. dispõe que: "a parte não será prejudicada pela demora imputável exclusivamente ao serviço judiciário", razão pela qual não ocorreu a prescrição, visto que esta foi interrompida, diante dos termos do art. 240, § 1º, do mesmo diploma legal, in verbis:
+Art. 240 § 1º. A interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação.
+Em relação à inclusão da multa de 2% (dois por cento) e do percentual de 20% (vinte por cento) a título de honorários advocatícios na planilha de débito acostada à inicial, observa-se que a aplicação de multa, juros e encargos financeiros, de fato, têm previsão contratual expressa, da qual a Apelante/Ré teve, inclusive, ciência por ocasião da contratação  .. .
+Quanto aos honorários advocatícios houve pedido expresso na petição inicial para que estes fossem estipulados em percentual de 10% (dez por cento) a 20% (vinte por cento).
+Entretanto, por ocasião do julgamento restou a 1ª Ré condenada ao pagamento de honorários advocatícios fixados pelo Juízo a quo, de forma clara e objetiva, no percentual de 10% (dez por cento) sobre o valor da condenação, ou seja, incidirá sobre o valor das mensalidades do período de setembro de 2010 até 24/01/2011, acrescidos dos juros legais, desde a citação até a efetiva data de pagamento e, da correção monetária a contar da data do desembolso (index 778 e 849), não merecendo qualquer reparo.
+Desta forma, merece prestígio a sentença.
+Em atenção ao disposto no § 11, do art. 85, do C.P.C., e considerando o não provimento do recurso da 1ª Ré, devem ser majorados os honorários advocatícios sucumbenciais, na fase recursal, a favor do advogado da Autora, em 2% (dois por cento), tendo em vista o trabalho adicional realizado por seu patrono, em especial, oferecimento das contrarrazões (index 901), observada a gratuidade de justiça que lhe foi deferida, nos termos do art. 98, do C.P.C.
+Diante do exposto, meu voto é no sentido de CONHECER, MAS DE NEGAR PROVIMENTO ao Recurso de Apelação da 1ª Ré, majorando-se os honorários advocatícios sucumbenciais, na fase recursal, a favor do advogado da Autora, em 2% (dois por cento), tendo em vista o trabalho adicional realizado por seu patrono, em especial, o oferecimento das contrarrazões (index 901), observada a gratuidade de justiça que lhe foi deferida, nos termos do art. 98, do C.P.C (e-STJ, fls. 928/939 - sem destaques no original).
+Verifica-se, conforme já salientado no julgado agravado, que concluir de modo diverso do acórdão recorrido, no sentido de que (i) a pretensão estaria prescrita, em virtude de um novo marco temporal; e (ii) houve desídia da ASTCERJ, esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+Assim, consoante já salientado no julgado agravado, a conclusão adotada no acórdão recorrido quanto à ausência de desídia da ASTCERJ e de não ocorrência da prescrição, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+Desse modo, consoante já ressaltado no julgado agravado, está claro que o recurso especial não deve nem sequer ultrapassar a barreira do conhecimento.
+Nesse contexto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
