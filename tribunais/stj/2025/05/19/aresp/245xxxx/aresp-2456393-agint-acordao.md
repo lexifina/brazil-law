@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Nos termos da jurisprudência desta Corte, não configura julgamento ultra/extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita. Incidência da Súmula 83/STJ.
+3. A conclusão a que chegou o Tribunal de origem, relativa à existência de documentação apta a denotar a existência do débito, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PEARSON EDUCATION DO BRASIL LTDA, em face da decisão de fls. 8117-8124, e-STJ, da lavra deste signatário, que deu parcial provimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 7926-7933, e-STJ):
+Indenização por danos materiais e morais. Danos materiais abrangendo supostos créditos decorrentes de relação negocial, ou seja, realização de empreendimento comum cooperação mútua "joint venture". Rés recebiam os valores pagos pelos alunos. Autora tinha participação em tais verbas. Pretensão da autora de valor certo e determinado não fora comprovada.
+Rés também não demonstraram a inexistência de dívida em relação à autora, pois não trouxeram documentação hábil para tanto. Procedência da ação abrangendo o pretenso crédito da autora deve sobressair. Verba a ser identificada em liquidação e sentença apta a prevalecer. Alegação de julgamento "extra petita" sem suporte. Princípio da adstrição do juiz que é observada até o trânsito em julgado. Referência prematura por parte do polo passivo não apresenta embasamento, pois o limite do que fora requerido sobressairá até o desfecho integral da demanda. Devido processo legal observado. Apelos desprovidos.
+Opostos embargos de declaração (fls. 7936-7941, e-STJ), esses foram rejeitados (fls. 7942-7944, e-STJ).
+Nas razões do recurso especial (fls. 7950-7972, e-STJ), a insurgente aponta ofensa aos seguintes artigos:
+(i) 1022, I, do CPC/2015, na medida em que o acórdão recorrido é omisso e contraditório no que toca à possibilidade de arguição de existência de julgamento extra petita em fase de liquidação de sentença;
+(ii) 141 e 492 do CPC/2015, já que o comando da sentença não obedeceu ao pedido das partes autoras;
+(iii) 509, II, do CPC/2015, pois a questão atinente à existência de julgamento extra petita deverá ser dirimida no presente momento, já que, na fase de liquidação de sentença, é vedado rediscutir o mérito da demanda;
+(iv) 373, I, do CPC/2015, ao argumento de que os documentos que comprovariam o dano não possuem credibilidade;
+Sem contrarrazões.
+Em decisão de fls. 8117-8124, e-STJ, deu-se parcial provimento ao apelo, tão somente para fixar a necessidade de que o valor a ser arbitrado na fase de liquidação de sentença, a título de quantum debeatur, esteja limitado ao pedido na inicial. Quanto às demais matérias aventadas, o recurso foi inadmitido, com base na inexistência de negativa de prestação jurisdicional e na incidência das Súmulas 7 e 83 do STJ.
+Irresignada, a insurgente interpõe o presente agravo interno (fls. 8129-8140, e-STJ), no qual refutam a incidência dos supracitados óbices.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Nos termos da jurisprudência desta Corte, não configura julgamento ultra/extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita. Incidência da Súmula 83/STJ.
+3. A conclusão a que chegou o Tribunal de origem, relativa à existência de documentação apta a denotar a existência do débito, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa aos artigo 1.022 do CPC/15, "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso em tela, conforme destacado na decisão agravada, o Tribunal local consignou que o valor exigido ser superior ao pedido na inicial seria mera suposição, a ser solvida no momento adequado. Ademais, a decisão ora agravada, ao dar parcial provimento ao apelo, assentou, em atenção ao princípio da correlação acima referido, que o montante a ser aferido na fase de liquidação não pode ser superior ao pleiteado na inicial.
+Logo, não há se falar em negativa de prestação jurisdicional, mas em mero inconformismo da parte com o acolhimento de tese jurídica por parte do Tribunal local.
+2. De igual modo, não merece acolhida o pretenso afastamento do óbice da Súmula 83/STJ em relação à aludida existência de decisão extra petita.
+Conforme destacado na decisão agravada, a jurisprudência do STJ orienta-se no sentido de que o pedido deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita. Ademais, o provimento em menor grau do pedido igualmente não constitui decisão extra petita. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não é cabível recurso especial fundado em alegação de ofensa a enunciado sumular (Súmula 518 do STJ).
+2. Nos termos da jurisprudência desta Corte, não configura julgamento ultra/extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita. Precedentes.
+3. A jurisprudência do STJ pacificou o entendimento de que a existência de outras restrições em nome do autor em cadastro de inadimplentes afasta a indenização por dano moral, ressalvado apenas o direito de cancelamento, conforme entendimento cristalizado na Súmula 385 desta Corte.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1123955/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/09/2019, DJe 26/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. REIVINDICAÇÃO DE USO EXCLUSIVO DE IMÓVEL. ACOLHIMENTO PARCIAL DA PRETENSÃO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OBSERVÂNCIA AOS LIMITES DO PEDIDO. INEXISTÊNCIA DE JULGAMENTO EXTRA PETITA. AGRAVO INTERNO IMPROVIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. O acolhimento parcial da pretensão expressamente formulada na petição inicial não caracteriza ofensa ao princípio da adstrição ou da congruência.
+3. Na espécie, tendo em vista que o autor postulou expressamente o reconhecimento do direito ao uso exclusivo das laterais do prédio indicado nos autos, não se observa lesão ao princípio da adstrição, na sentença que deferiu ao demandante até menos do que o efetivamente pleiteado, ao assegurar apenas "o direito de usar a área de passagem existente entre seu prédio e o prédio vizinho do seu lado direito" (fl. 2.214), sem excluir o uso (conjunto) da área pela ora recorrente.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 880.213/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+Na espécie, tais preceitos orientaram o posicionamento adotado pelo Tribunal local, o qual deu provimento à pretensão autoral, reconhecendo a obrigação de pagar, em montante a ser apurado em liquidação de sentença. Veja-se (fls. 7930-7931, e-STJ):
+O aventado julgamento extra petita não tem suporte, mesmo porque, o pleiteado pela autora não tivera o reconhecimento integral, conforme disposto à pág. 15, alínea "b", em relação ao valor, ressaltando, inclusive, que a planilha teria origem unilateral, portanto, a dívida fora reconhecida e o quantum deverá ser objeto de liquidação de sentença, haja vista que, na fase instrutória, não fora apontado efetivamente o quantum devido.
+A alegação de que o julgamento extra petita poderia apontar valor superior ao pedido em liquidação de sentença configura simples suposição e poderá ser arguido na fase processual pertinente, haja vista que o princípio da adstrição do juiz se estende até a formação da coisa julgada.
+Desta forma, apresenta-se precipitada a alegação de anomalia da decisão em exame.
+Assim, as rés vêm em busca de formalismo exacerbado, porém insuficiente para dar respaldo à modificação da decisão.
+Convém ressaltar que as próprias rés não impugnam que recebiam os valores correspondentes, mas poderão apresentar toda a documentação pertinente, a fim de propiciar a realização da necessária perícia contábil o que já deveria inclusive ter ocorrido, tanto que as próprias rés fazem referência sobre prestação de contas, logo, poderiam ter disponibilizado o necessário de forma transparente, levando em consideração o princípio da lealdade processual, e não vir em busca de subterfúgio.
+No mais, a relação negocial entre as partes é notória, sendo que também as rés é quem recebiam os valores correspondentes, portanto, já estariam aptas a demonstrar eventual débito em relação à autora ou até mesmo suposto crédito, no entanto, optaram pela omissão, quando efetivamente tinham a obrigação contratual de disponibilizar o necessário.
+Logo, distintamente do que defende a insurgente, não se vislumbra a existência de decisão extra petita por parte da Corte local.
+De rigor, portanto, a manutenção da decisão agravada, quanto à aplicação do óbice da Súmula 83/STJ.
+3. Igualmente, afigura-se inviável o afastamento do óbice da Súmula 7/STJ no que tange à alegada violação ao art. 373, I, do CPC/2015.
+Como disposto na decisão agravada, o Tribunal local, à luz dos elementos de prova que instruem os autos, consignou que a documentação apresentada pela parte autora é suficiente para denotar a existência do débito, havendo necessidade apenas de quantifica-lo. Destacou, ademais, que a apuração do quantum não foi possível em decorrência de conduta atribuível às requeridas. Veja-se (fl. 7931, e-STJ):
+Convém ressaltar que as próprias rés não impugnam que recebiam os valores correspondentes, mas poderão apresentar toda a documentação pertinente, a fim de propiciar a realização da necessária perícia contábil o que já deveria inclusive ter ocorrido, tanto que as próprias rés fazem referência sobre prestação de contas, logo, poderiam ter disponibilizado o necessário de forma transparente, levando em consideração o princípio da lealdade processual, e não vir em busca de subterfúgio.
+No mais, a relação negocial entre as partes é notória, sendo que também as rés é quem recebiam os valores correspondentes, portanto, já estariam aptas a demonstrar eventual débito em relação à autora ou até mesmo suposto crédito, no entanto, optaram pela omissão, quando efetivamente tinham a obrigação contratual de disponibilizar o necessário.
+Logo, distintamente do que aduz a insurgente, o provimento do recurso demandaria, necessariamente, o revolvimento de matéria probatória tendente a infirmar a premissa acima disposta.
+Trata-se, contudo, de providência que encontra óbice na Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
