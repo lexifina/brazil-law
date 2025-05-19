@@ -1,0 +1,23 @@
+DECISÃO
+BRUNO RIBEIRO DA SILVA agrava de decisão em que julguei prejudicado o habeas corpus.
+O agravante apresenta cópia da decisão proferida pelo Desembargador relator em embargos declaratórios, aduz que os motivos ali exarados já constavam da decisão que indeferiu a liminar - e, por isso mesmo, foram refutados na inicial deste writ - e pugna seja afastada a prejudicialidade do feito.
+Diante da juntada da peça faltante e dos esclarecimentos defensivos, reconsidero a decisão de fls. 114-115.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+O indeferimento da liminar, no writ originário, foi assim justificado (fls. 128-, grifei):
+Agora, no tocante a medida liminar e em que pese o lapso identificado na decisão, tenho que o pleito pretendido é satisfativo, pois, busca "a imediata revogação da prisão preventiva ilegalmente decretada" porque o Juízo da 1.ª Vara Regional das Garantias da Comarca de João Pessoa, decretou a prisão preventiva do paciente sem qualquer requerimento da autoridade policial ou do ministério público, ou seja de ofício.
+Na decisão, a magistrada enfatizou, verbis:
+ ..
+A materialidade do crime e a existência de indícios de autoria revelam-se incontestes, em face dos depoimentos, os documentos juntados aos autos e do material apreendido que consta no auto de apresentação e apreensão. Com efeito, os crimes imputados aos acusados revestem-se de extrema gravidade, com apreensão de substâncias estupefacientes e armas de fogo. Portanto, para garantia da ordem pública e conveniência da instrução processual, a segregação cautelar demonstra-se medida mais adequada.
+ ..
+Importante ressaltar, que o mencionado equívoco não compromete a essência da decisão, que é o indeferimento da liminar por ausência dos requisitos específicos do Habeas Corpus, sobremaneira na análise da plausibilidade do direito e do perigo da demora, e não nas questões tangenciais consignadas no trecho em destaque.
+Ademais, a alegação de impossibilidade de decretação da prisão preventiva de ofício, com base na Lei n.º 13.964/2019, confunde-se com o próprio mérito da impetração, inviável de ser examinado em sede de liminar. A análise aprofundada da legalidade da prisão preventiva decretada de ofício, se confirmada ou não tal assertiva, demanda um exame mais completo do caso, o que deve ser feito no julgamento do mérito do Habeas Corpus, após a devida instrução e manifestação do Ministério Público.
+Conforme registrado no auto de prisão em flagrante, foram apreendidas duas pistolas calibre .40, cada uma com dois carregadores, 68 munições de mesmo calibre, porções de maconha (79,53 g) e cocaína (62,51 g).
+Na hipótese, vê-se que o pedido de urgência foi indeferido por não se identificar, naquele momento processual, ilegalidade no decreto preventivo, que ressaltou a gravidade da conduta em tese perpetrada pelo paciente e pelos coautuados - em especial, pela apreensão de armas de fogo e duas espécies de entorpecentes.
+Além disso, o Desembargador relator consignou que as ponderações defensivas, relacionadas à nulidade da decisão que convolou o flagrante em prisão cautelar, devem ser analisadas de modo detalhado no momento oportuno, com a vinda de esclarecimentos da autoridade apontada como coatora.
+Diante desse cenário, não constato flagrante ilegalidade na espécie.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, reconsidero a decisão agravada, mas não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
