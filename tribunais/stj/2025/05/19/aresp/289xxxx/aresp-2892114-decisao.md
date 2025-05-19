@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON CARLOS DE SOUZA contra decisão que inadmitiu recurso especial contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento da Apelação Criminal n. 1.0000.23.317973-8/001.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, em regime inicial fechado, e ao pagamento de 793 (setecentos e noventa e três) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso da defesa reduzindo a pena para 6 anos, 9 meses e 20 dias de reclusão, e 680 dias-multa, em acórdão assim ementado (e-STJ fl. 362):
+EMENTA: APELAÇÃO CRIMINAL DEFENSIVA - DELITO DE TRÁFICO DE DROGAS - DESCLASSIFICAÇÃO PARA O CRIME DE PORTE DE ENTORPECENTE PARA USO PRÓPRIO - FINALIDADE MERCANTIL DOS TÓXICOS APREENDIDOS DEMONSTRADA - NÃO CABIMENTO - DOSIMETRIA DA PENA - AFASTAMENTO DA VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA LEGAL DA NATUREZA DA DROGA - FUNDAMENTOS INIDÔNEOS A JUSTIFICÁ-LA - NECESSIDADE - REGIME PRISIONAL - ABRANDAMENTO - ANTECEDENTES CRIMINAIS E REINCIDÊNCIA- INVIABILIDADE.
+1- Comprovadas a materialidade e a autoria do delito de tráfico de drogas estampado na denúncia, impossível a sua desclassificação para aquele previsto no art. 28 da lei de regência.
+2 - A pequena quantidade de droga apreendida, não obstante a sua natureza, não viabiliza o recrudescimento da pena-base.
+3- Os maus antecedentes e a reincidência justificam a fixação do regime fechado para o início do cumprimento da pena privativa de liberdade imposta, ainda que fixada esta em montante inferior a oito anos, nos termos do art. 33, §2º, c/c § 3º, do Código Penal.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação aos arts. 33 e 28 da Lei n. 11.343/2006, sustentando a possibilidade de desclassificação do delito de tráfico de drogas para uso pessoal, devido à ausência de elementos concretos que evidenciem a finalidade mercantil da substância entorpecente.
+O recurso especial foi inadmitido com fundamento na Súmula n. 7 do STJ, que impede o reexame fático-probatório nos recursos especiais (e-STJ fls. 396/397).
+Daí o presente agravo em recurso especial, no qual alega a defesa que a análise do mérito recursal não demanda incursão no conteúdo fático-probatório, mas apenas a revaloração dos critérios jurídicos utilizados na apreciação dos fatos.
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo, mantendo-se a decisão recorrida por seus próprios fundamentos (e-STJ fls. 441/452).
+É o re latório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O Tribunal de origem, ao manter a condenação do réu, consignou que (e-STJ fls. 365/367):
+4 - DO MÉRITO.
+Quanto à tese desclassificatória, colhe-se dos autos que o apelante, em juízo (PJe mídias), confessando a propriedade das pedras de crack apreendidas consigo, informara, contudo, que as mesmas se destinavam ao consumo próprio, anotando que havia acabado de comprá-las junto à mulher avistada pela guarnição, e que lograra fugir.
+Na Depol, optara pelo silêncio (fls. 14/15, ord. 2).
+Entendo, contudo, que a prova coligida apontara, inequivocamente, para a prática do delito de tráfico de drogas nos moldes reconhecidos na sentença.
+Os militares ouvidos na instrução deixaram claro que o local dos fatos se trata de ponto de venda de drogas.
+Afirmaram, outrossim, que o apelante já era conhecido no meio policial pelo seu envolvimento com o comércio ilícito de entorpecentes.
+Deixaram claro, de outra sorte, que, na ocasião dos fatos, o apelante e uma mulher, que lograra fugir, interagiam, trocando algo.
+Anotaram, ademais, que a dupla, avistando a guarnição, correra em fuga, observando sentidos opostos, pelo que, então, optaram perseguir o apelante.
+Consignaram, ainda, que, na fuga, o apelante dispensara algo que, arrecadado, descobriu-se tratar-se de três pedras de crack, devidamente embaladas e prontas para a comercialização.
+Registraram, também, que, alcançado e revistado o apelante, com ele foram apreendidos quarenta reais em espécie, divididos em notas de dez reais.
+Juntou-se aos autos relatório produzido pela Polícia Judiciária segundo o qual o apelante realizava com habitualidade o comércio de drogas na região dos fatos, apontando-se, inclusive, o endereço onde o mesmo atuava (fl. 28, ord. 2).
+Detalhe: o apelante, quando do ocorrido, encontrava-se foragido do sistema prisional, onde cumpria pena, também, por .. associação para o tráfico de drogas e porte irregular de arma de fogo de uso permitido!
+E o apelante, é importantíssimo sublinhar, avalizando o que fora dito pelos militares, confirmou que se encontrava no local do ocorrido, que interagia então com uma mulher e que tinha consigo a droga apreendida, afirmando, contudo, ser usuário de entorpecentes e de ter daquela adquirido o tóxico arrecadado ..
+Como consequência do consignado retro, tem-se que nada, absolutamente nada, de suspeição fora levantado quanto à lisura do proceder policial havido, lembrando, de outra sorte, que os militares, servidores públicos, gozando, pois, de fé pública, ainda que relativa, não foram sequer contraditados quando de seu depoimento judicial.
+Diante de tal quadro, e tudo resumido, convenci-me de que a verdade dos fatos encontra-se com os militares ouvidos na fase probatória, valendo destacar que, tendo infirmado a acusação contra si irrogada, competia ao apelante, a teor do disposto no art. 156 do Código de Processo Penal, fazer prova do álibi apresentado - drogas destinadas ao seu consumo e compra das mesmas em mãos da mulher referida -, do que, entretanto, encerrada a instrução, não se desincumbira.
+Tal como a autoria, a materialidade do delito em questão encontra-se suficientemente demonstrada, conforme se colhe do boletim de ocorrência (fls. 8/11, ord. 2), do auto de apreensão (fl. 16, ord. 2), do laudo de constatação (fl. 18, ord. 2) e do exame toxicológico (fl. 23, ord. 2) juntados aos autos.
+Tendo, pois, a condenação pelo crime de tráfico de drogas se revelado consentânea com a prova coligida, não se há falar, via de consequência, em desclassificação deste para aquele de porte de drogas para uso pessoal - art. 28 da Lei de Tóxicos.
+Vê-se que o único elemento utilizado para justificar a condenação, além da apreensão da droga em poder do réu, no ato da prisão em flagrante, foi o depoimento prestado em J uízo pelos policiais que a efetuaram.
+Contudo, ainda que a palavra dos agentes policiais, como regra, autorize a imposição do decreto condenatório, nota-se que, no caso em exame, as declarações não permitem concluir que o acusado tenha praticado o delito que lhe foi imputado na denúncia.
+A apreensão da droga, por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da referida lei, sendo mister destacar que foram apreendidos apenas 0,5g (cinco decigramas) de crack.
+Além disso, não foram localizados petrechos comuns a essa prática (balança de precisão, calculadora, material para embalar a droga, etc.).
+Ademais, apesar de o policial ter afirmado que "o apelante e uma mulher, que lograra fugir, interagiam, trocando algo", diante dos demais elementos constantes dos autos não é possível afirmar com a certeza necessária que o réu estaria praticando o tráfico de drogas ou apenas adquirindo substâncias entorpecentes para uso pessoal, mormente pela pequena quantidade apreendida.
+O réu, ao ser inquirido, impende registrar, afirmou ser usuário de drogas. E o fato de já ter sido condenado anteriormente por associação para o tráfico não implica a realização do tipo descrito no art. 33 da Lei n. 11.343/2006, pois o que a evidenciara seriam as circunstâncias da sua prisão, as quais no caso, como registrado, mostram-se insuficientes.
+Portanto, esse cenário probatório devidamente delineado nos atos decisórios ora impugnados não permite concluir que o paciente deva ser condenado nos moldes da acusação formulada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. POSSIBILIDADE. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA A CONDUTA DE PORTE DE SUBSTÂNCIA ENTORPECENTE PARA CONSUMO PRÓPRIO. EXCEPCIONALIDADE DO CASO DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que diz respeito à impossibilidade de manejo do habeas corpus como sucedâneo de revisão criminal, destaca-se inexistir nos autos documento comprobatório do eventual trânsito em julgado do acórdão proferido pelo Tribunal a quo.
+2. De toda forma, a jurisprudência desta Corte Superior é firme ao asseverar a possibilidade de conhecimento do habeas corpus substitutivo de revisão criminal, sempre que constatada flagrante ilegalidade nos autos, como na hipótese. Precedentes.
+3. A Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (Lei n. 6.368/1976).
+4. Na espécie em julgamento, não constam dos autos elementos mínimos capazes de embasar a condenação por tráfico de drogas, haja vista que a quantidade de substância entorpecente apreendida com o acusado não foi expressiva, bem como a ausência de provas concretas sobre a traficância, na medida em que os policiais, que contavam apenas com denúncias anônimas acerca da ocorrência do delito, não presenciaram nenhum ato concreto de mercancia. O réu não foi pego fornecendo nem negociando drogas com terceiros. Também não foi encontrado em poder dele nenhum apetrecho ligado à narcotraficância, tal como balança de precisão ou material para embalar drogas.
+5. Especificamente no caso dos autos, a conclusão pela desclassificação da conduta imputada ao réu para o delito descrito no art. 28 da Lei n. 11.343/2006 não demanda o revolvimento de matéria fático-probatória. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória.
+Depende, ademais, da definição, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para condenar o réu pela prática do crime de tráfico de drogas, vis-à-vis os elementos (subjetivos e objetivos) do tipo penal respectivo.
+6. Agravo regimental não provido.
+(AgRg no HC n. 781.124/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023, grifei.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e desclassificar a conduta para o tipo descrito no art. 28 da Lei n. 11.343/2006, devendo a instância de origem proceder aos ajustes nas medidas a serem aplicadas.
+Publique-se. Intimem-se.
+EMENTA
