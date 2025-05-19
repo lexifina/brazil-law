@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. DEFICIÊNCIA. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. AÇÃO MONITÓRIA. PROVAS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+3. Na hipótese, a revisão da conclusão do aresto impugnado acerca da inexistência de provas do direito pleiteado é vedada pela Súmula nº 7/STJ.
+4. Segundo jurisprudência pacífica, a incidência de óbices sumulares obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional.
+5. Agravo conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por ATGF - ASSOCIAÇÃO DOS TRIATLETAS DA GRANDE FLORIANÓPOLIS contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS MONITÓRIOS, CONFIRMANDO A DÍVIDA. RECURSO DA DEVEDORA/EMBARGANTE. PEDIDO DE EFEITO SUSPENSIVO. PERDA DO OBJETO, FRENTE AO JULGAMENTO DO MÉRITO. NÃO CONHECIMENTO. MÉRITO. AÇÃO MONITÓRIA AJUIZADA PELA ASSOCIAÇÃO DOS TRIATLETAS DA GRANDE FLORIANÓPOLIS EM FACE DA FEDERAÇÃO BAIANA DE TRIATHLON VISANDO À COBRANÇA D E ROYALTIES PELO USO DA MARCA "CHALLENGE" NO ANO DE 2019, BEM COMO DE VALORES EM ABERTO DECORRENTES DE EVENTO REALIZADO EM 2018, DE QUANTIAS SUPOSTAMENTE ADIANTADAS PARA REALIZAÇÃO DO EVENTO DE 2019 E BUSCANDO, POR FIM, A DEVOLUÇÃO DE 42 WINDFLAGS. PROVA DOCUMENTAL REVELANDO QUE A PARCERIA PARA REALIZAÇÃO DO EVENTO OCORREU ENTRE A FEDERAÇÃO BAIANA E A EMPRESA DASH SPORTS, TITULAR DO USO DA MARCA "CHALLENGE FAMILY" NO BRASIL. INEXISTÊNCIA DE PROVA DOCUMENTAL DANDO CONTA DE QUE OS ROYALTIES FORAM PAGOS PELA ASSOCIAÇÃO CATARINENSE EM NOME DA FEDERAÇÃO BAIANA. OUTROSSIM, CARÊNCIA DE PROVA NO SENTIDO DE QUE O VALOR INADIMPLIDO DA PROVA DE 2018 SEJA DE TITULARIDADE DA ASSOCIAÇÃO. IGUALMENTE, QUANTIAS SUPOSTAMENTE ADIANTADAS PELA ASSOCIAÇÃO NÃO DEMONSTRADAS À SUFICIÊNCIA. PROVA ORAL DANDO CONTA DE QUE TAIS MONTANTES POSSIVELMENTE SÃO ORIUNDOS DO PAGAMENTO DE INSCRIÇÕES DA PROVA CHALLENGE SALVADOR 2019, DA QUAL A ASSOCIAÇÃO NÃO PARTICIPOU. POSSÍVEL GERENCIAMENTO DO FUNDO DE INSCRIÇÕES PELA ATGF. SITUAÇÃO NEBULOSA. REPASSE DIRETO DE VERBAS DA ATGF PARA A FEBATRI NÃO DEMONSTRADO. CARÊNCIA DE PROVA DOCUMENTAL. AUTORIZAÇÃO PARA REALIZAÇÃO DE PROVAS NO BRASIL, COM EXCLUSIVIDADE, PELA ASSOCIAÇÃO, QUE NÃO LHE CONFERE A TITULARIDADE DE ROYALTIES OU OUTRAS DESPESAS. FEDERAÇÃO BAIANA QUE IGUALMENTE ESTAVA AUTORIZADA, COM EXCLUSIVIDADE, A REALIZAR O EVENTO EM SALVADOR. EMBARGOS MONITÓRIOS, PORTANTO, PROCEDENTES NO PONTO. DÍVIDA NÃO COMPROVADA. TESES DE ILEGITIMIDADE ATIVA E DE CERCEAMENTO DE DEFESA PREJUDICADAS. OBRIGAÇÃO DE FAZER. DEVOLUÇÃO DAS WINDFLAGS. ITENS DE TITULARIDADE DA ASSOCIAÇÃO. RESTITUIÇÃO OPERADA ANTES DA SENTENÇA. PERDA DO INTERESSE PROCESSUAL. EXTINÇÃO SEM ANÁLISE DO MÉRITO. TODAVIA, INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. ÔNUS SUCUMBENCIAIS, QUANTO A ESSE PLEITO, QUE REMANESCEM A CARGO DA EMBARGANTE/DEVEDORA. OBRIGAÇÃO SUCUMBENCIAL READEQUADA, FRENTE À PARCIAL PROCEDÊNCIA DOS EMBARGOS MONITÓRIOS. RECURSO CONHECIDO EM PARTE E, NESTA PORÇÃO, PARCIALMENTE PROVIDO" (e-STJ fl. 532).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 489, § 1º, 700, § 5º, e 1.022, parágrafo único, II, do Código de Processo Civil.
+Assevera que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar as questões postas nos embargos declaratórios, relativas às provas de que a agravante detém os direitos de representação para a realização do evento em questão.
+Sustenta a necessidade de conversão do feito ao procedimento comum, haja vista a existência de dúvida quanto à idoneidade da cobrança.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. DEFICIÊNCIA. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. AÇÃO MONITÓRIA. PROVAS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+3. Na hipótese, a revisão da conclusão do aresto impugnado acerca da inexistência de provas do direito pleiteado é vedada pela Súmula nº 7/STJ.
+4. Segundo jurisprudência pacífica, a incidência de óbices sumulares obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional.
+5. Agravo conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que tange ao defeito na prestação jurisdicional, a recorrente pretende o pronunciamento acerca das provas de que detém os direitos de representação para a realização do evento em questão.
+Contudo, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho do voto condutor dos embargos de declaração:
+"(..)
+Com efeito, da simples leitura do voto embargado e dos fundamentos lançados nos aclaratórios, é possível compreender que a irresignação não está na ausência de enfrentamento de alguma tese apontada pela parte ou questão crucial para o deslinde da controvérsia, mas, sim, na discordância quanto à valoração da prova encartada aos autos.
+Neste sentir, a embargante defende que a oitiva do Sr. Cleber, a prova documental e os áudios acostados na inicial são suficientes para comprovar que a Federação Baiana de Triathlon estava inadimplente consigo, o que não significa que tais provas não foram ponderadas no julgamento do caso.
+A bem da verdade, houve suficiente e pormenorizado enfrentamento das provas, do que se concluiu que Cleber não havia ajustado o patrocínio com a ATGF, mas, sim, com a empresa Dash Sports. Quanto ao print de tela mencionado pela ora recorrente, aliás, vê-se que foi expressamente citado e valorado no julgado embargado, entendendo-se elemento insuficiente, no entanto, para comprovar o repasse financeiro:
+(..)
+E, quanto à prova oral, foram ouvidos todos os depoentes e sopesadas suas versões dos fatos, inclusive no que toca à oitiva do Sr. Cleber, não havendo indicativo, ao contrário do que afirma a ora embargante, de que o depoente "utilizou de má-fé para se "livrar do problema", deixando claro que mandou mensagem confirmando a dívida aos "fornecedores e atletas" (fl. 6 dos aclaratórios).
+Aliás, especificamente quanto à sétima pergunta feita pela advogada da ora recorrente, o depoente mencionou que as inscrições da prova permaneceram com a ATGF, o que não comprova, no entanto, as dívidas aqui discutidas, já que o ajuste para a execução da prova Challenge Salvador 2019 foi firmado com a Dash Sports, não com a ATGF.
+Observe-se a transcrição de sua oitiva e as conclusões dela retiradas, também constantes expressamente no voto:
+(..)
+No que toca aos áudios constantes no caderno processual, tem-se que nada esclarecem sobre a suposta dívida com a ATGF, já que são todos dirigidos ao Sr. Café (representante da Dash Sports).
+Assim, se aludidos elementos de prova não são relevantes para a tese da embargante, não há falar em omissão - rememorando-se que decisão omissa, dentre outras hipóteses, é aquela que não enfrenta "todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, §1º, IV, CPC, grifou-se).
+É dizer, se os áudios não comprovam, ou mesmo colocam em dúvida, que a ATGF é a titular das quantias aqui cobradas, nada dizem com o que interessa verdadeira aos autos - do contrário, apenas indicam de modo ainda mais veemente que o ajuste não foi com a Associação, em reforço argumentativo ao que já se havia decidido em colegiado" (e-STJ fls. 562/564).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da agravante.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA DA VENDEDORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. As Turmas que compõem a Segunda Seção deste Superior Tribunal firmaram entendimento no sentido de que, nos casos de rescisão de contrato de compra e venda de imóvel por culpa do vendedor, é aplicável o prazo decenal contado a partir da resolução.
+3. Agravo interno não provido."
+(AgInt no AREsp 2.267.897/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 6/12/2023 - grifou-se).
+No mais, extrai-se das razões recursais que a recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..) o próprio manejo de embargos monitórios já foi suficiente para a convolação do rito sumário ao ordinário (tanto que houve instrução processual), permitindo-se à embargante ampla dilação probatória para comprovar o débito e sua titularidade sobre ele - houve complementação de documentos e inclusive produção de prova oral, registre-se" (e-STJ fl. 564).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela agravante, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, as conclusões do Tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Nesse sentido, o fato de não haver prova suficiente da titularidade do débito, pois, não se dá por dúvida que seria sanável através de outros elementos de prova, mas, sim, porque mesmo a prova apresentada não é capaz de amparar os pedidos exordiais.
+Repisa-se que foram ouvidas testemunhas, permitiu-se à sua causídica amplo questionamento e, ademais, as partes produziram farta prova documental - insuficientes, no entanto, a amparar a integralidade do pleito autoral.
+Anota-se, inclusive, o que se registrou no julgado embargado:
+(..)
+Ressalta-se que nenhuma das testemunhas narrou o repasse de direitos do Challenge Family à ATGF e também inexiste qualquer documento neste sentido nos autos. Da mesma forma, ainda que haja indicativos de que a ATGF arcou com algum custo do evento Challenge Salvador 2019, não fica claro se tais quantias eram provenientes das inscrições ou se eram empréstimos diretos, mais parecendo se cuidar da primeira hipótese, como acima já mencionado.
+De qualquer forma, era ônus da ora embargante comprovar, de modo cabal, todos os repasses e a que título se deram para, então, constituir seu direito de cobrar, situação, como já visto e revisto, que não há nos autos" (e-STJ fls. 565/569).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Salienta-se que a errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+Registra-se, também, que, consoante iterativa jurisprudência desta Corte, a incidência de óbices sumulares impedem a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 489 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 283/STF. ANÁLISE DE DISSÍDIO PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, embora opostos os embargos de declaração, obsta o seu conhecimento, nos termos da Súmula n. 211/STJ.
+2. A ausência de impugnação, no recurso especial, de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283/STF.
+3. Consoante entendimento firmado neste Superior Tribunal, os mesmos óbices impostos à admissão do recurso especial pela alínea a do permissivo constitucional impedem a análise pela alínea c, prejudicando o exame do dissenso jurisprudencial.
+4. Agravo interno desprovido."
+(AgInt no AREsp 2.540.477/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/8/2024 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor atualizado do decaimento, não cabendo a majoração estabelecida no art. 85, § 11, do Código de Processo Civil, por já estarem no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto.
