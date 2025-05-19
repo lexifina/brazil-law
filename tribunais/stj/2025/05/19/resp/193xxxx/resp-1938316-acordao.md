@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. ALUGUÉIS. DESPESAS ACESSÓRIAS. PRAZO PRESCRICIONAL. ALEGAÇÃO DE INCAPACIDADE. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O Tribunal de origem concluiu que não restou comprovada a incapacidade do recorrente no período alegado, fundamentando sua decisão em elementos de prova colhidos durante a instrução processual.
+2. Rever as conclusões do Tribunal a quo demandaria a reanálise do conjunto fático-probatório, o que é vedado em recurso especial, conforme o óbice contido na Súmula 7/STJ.
+3. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por GETULIO PINHEIRO DE BRITO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal, figurando como parte recorrida MEGA DISTRIBUIDORA DE LENTES OFTÁLMICAS EIRELI - EPP.
+O aresto impugnado foi assim ementado (fl. 128):
+DIREITO CIVIL. CONTRATO DE LOCAÇÃO. ALUGUÉIS. DESPESAS ACESSÓRIAS. PRAZO PRESCRICIONAL DE 03 ANOS. PRESCRIÇÃO DA PRETENSÃO.
+I - Aplica-se o prazo prescricional de 03 anos, previsto no art. 206, § 3º, inciso I, do Código Civil, à pretensão de cobrança de aluguéis e despesas acessórias a contrato de locação de imóvel, tais como IPTU, despesas condominiais, consumo de água e energia elétrica.
+II - A capacidade civil de pessoa maior de dezoito anos é presumida, devendo a incapacidade ser declarada em sentença de interdição.
+III - Negou-se provimento ao recurso.
+Opostos embargos declaratórios (fls. 134-136), o recurso foi rejeitado. Eis a ementa do julgado (fl. 145):
+EMBARGOS DE DECLARAÇÃO. RECURSO. CITAÇÃO. CONTRARRAZÕES. ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. I - Citado o réu para apresentar contrarrazões à apelação do autor, cabível a fixação de honorários advocatícios sucumbenciais em desfavor da parte recorrente, já que houve a angularização da relação processual. II- Deu-se provimento ao recurso.
+Em suas razões recursais (fls. 151-168), o recorrente alega a violação dos arts. 97, III, 198, I, e 206, § 3º, I, do Código Civil. Aduz que, sendo absolutamente incapaz, a prescrição não deveria correr contra ele, conforme previsto no dispositivo. Alega que sua incapacidade foi reconhecida judicialmente e, portanto, a prescrição deveria estar suspensa desde a manifestação da incapacidade (fls. 157-158).
+O recorrente aponta ainda a ocorrência de dissídio jurisprudencial, pois o acórdão impugnado diverge de entendimentos de outros tribunais, incluindo o Superior Tribunal de Justiça, que reconhecem a suspensão do prazo prescricional desde a manifestação da incapacidade mental, independentemente da data da sentença de interdição (fls. 158-163).
+Requer o provimento do recurso especial para reformar o acórdão recorrido.
+Devidamente intimado, o recorrido apresentou contrarrazões (fls. 188-190), pugnando pelo não conhecimento do recurso especial, ante a incidência do óbice contido na Súmula STJ n. 7.
+É, no essencial, o relatório.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. ALUGUÉIS. DESPESAS ACESSÓRIAS. PRAZO PRESCRICIONAL. ALEGAÇÃO DE INCAPACIDADE. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O Tribunal de origem concluiu que não restou comprovada a incapacidade do recorrente no período alegado, fundamentando sua decisão em elementos de prova colhidos durante a instrução processual.
+2. Rever as conclusões do Tribunal a quo demandaria a reanálise do conjunto fático-probatório, o que é vedado em recurso especial, conforme o óbice contido na Súmula 7/STJ.
+3. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Quanto à alegação de violação dos artigos acima indicados, o recurso especial não reúne sequer condições de ser conhecido.
+Isso porque, consoante o relatado, buscam os recorrentes, em essência, a revisão do conjunto fático-probatório já analisado pelas instâncias ordinárias, o que é vedado em recurso especial, pois tal pretensão esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+O acórdão recorrido, ao manter a sentença proferida em primeiro grau de jurisdição, fundamentou-se na análise das provas apresentadas, concluindo que não restou comprovada a incapacidade do recorrente no período alegado, fundamentando sua decisão em elementos de prova colhidos durante a instrução processual.
+Rever as conclusões do Tribunal a quo demandaria a reanálise do conjunto fático-probatório, o que é vedado em recurso especial, conforme o óbice contido na Súmula n. 7 do Superior Tribunal de Justiça, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. INTERRUPÇÃO DO PRAZO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. PREQUESTIONAMENTO. INEXISTÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. CLÁUSULAS CONTRATUAIS. EXAME. IMPOSSIBILIDADE.
+1. A alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF).
+2. Nos autos de embargos à execução de título extrajudicial, a Corte de origem, por maioria de votos, manteve sentença de improcedência e rejeitou a prejudicial de prescrição.
+3. A modificação do julgado recorrido para concluir que a confissão de dívida é causa interruptiva da prescrição, de modo que estariam prescritas oito notas fiscais, "em virtude do decurso de mais de dois anos e meio entre os reconhecimentos das dívidas no Diário Oficial e o ajuizamento da execução no dia 12/08/2021", não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+4. Para fins de prequestionamento, "não basta que o recorrente devolva o tema controvertido para o Tribunal, necessário se faz que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto" (AgInt no AgInt no AREsp n. 2.340.040/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe de 7/5/2024).
+5. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+6. Não se conhece do recurso especial quando ocorre a subsistência de fundamentação apta, por si só, para manter o decisum combatido.
+7. A Corte local entendeu que os consectários moratórios aplicáveis ao título são aqueles estabelecidos no contrato firmado entre as partes, em observância ao princípio do pacta sunt servanda, de modo que o discordar das conclusões lançadas no julgado recorrido impõe nova interpretação das cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+8. Agravo interno parcialmente provido para afastar a aplicação da Súmula 284 do STF, fazendo incidir, no ponto, os óbices das Súmulas 283 do STF, 5 e 7 do STJ.
+(AgInt no REsp n. 2.098.431/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/8/2024, DJe de 26/8/2024.)
+Por outro lado, o alegado dissídio jurisprudencial também não pode ser conhecido porque não realizado o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados, não bastando, portanto, a mera transcrição de ementas ou votos. Com efeito, o Superior Tribunal de Justiça já decidiu:
+Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório. (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, D Je de 5/4/2019.)
+Ainda nesse sentido, cito: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, Dje de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020; AgInt no AREsp n. 1.568.037/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020; AgInt no REsp n. 1.886.363/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/4/2021; AgRg no REsp n. 1.857.069/PR, relator Ministra Laurita Vaz, Sexta Turma, DJe de 5/5/2021.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pela incidência da Súmula STJ n. 7. Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários advocatícios por não terem sido fixados em primeiro grau de jurisdição.
+É como penso. É como voto.
