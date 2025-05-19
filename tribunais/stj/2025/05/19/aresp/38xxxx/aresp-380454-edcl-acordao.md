@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há vícios de omissão, contradição ou obscuridade, ou erro material, na decisão embargada, não se prestando o recurso integrati vo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Indeferido o pedido de extinção da ação com base na nova Lei 14.230/2.021, considerando a manutenção da intempestividade do recurso de apelação, deixou a parte de agravar dessa decisão, incidindo o fenômeno da preclusão.
+3. O acórdão ora embargado não analisa a incidência da Lei 14.230/2021, pois os embargos de declaração não devolveram essa questão, não podendo, assim, omitir-se o órgão julgador sobre o que a ele não foi devolvido e, ademais, encontrava-se precluso.
+4. Em obiter dictum, ressalto que a interposição do recurso de apelação fora do prazo legal evidencia o trânsito em julgado da sentença condenatória, sendo, portanto, impossível aplicar o quanto decidido no Tema 1.199/STF. Precedentes.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RAUL GONZALEZ ACOSTA e Outro contra o acórdão que acolheu os anteriores embargos de declaração para sanar omissões, sem efeitos infringentes (fls. 1.864/1.869).
+O embargante sustenta em suma: (a) inexistência de trânsito em julgado da sentença; (b) alegação de prejuízo efetivo advindo da atuação de juiz incompetente; e (c) violação dos arts. 236 e 242 do Código de Processo Civil de 1973, com discussão sobre a republicação da sentença e reabertura do prazo recursal.
+Diz que a decisão embargada é omissa quanto à matéria de ordem pública, especialmente sobre a prescrição e incidência da Lei 14.230/2021.
+Alega também que houve contradição ao considerar transitada em julgado a sentença, sem certificação nesse sentido, e que não houve alegação de prejuízo efetivo advindo da atuação de juiz incompetente.
+Impugnação apresentada às fls. 1.891/1.892 pelo Ministério Público do Distrito Federal e Territórios, que pede a rejeição dos embargos de declaração, por inexistência de vícios que autorizariam sua oposição.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há vícios de omissão, contradição ou obscuridade, ou erro material, na decisão embargada, não se prestando o recurso integrati vo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Indeferido o pedido de extinção da ação com base na nova Lei 14.230/2.021, considerando a manutenção da intempestividade do recurso de apelação, deixou a parte de agravar dessa decisão, incidindo o fenômeno da preclusão.
+3. O acórdão ora embargado não analisa a incidência da Lei 14.230/2021, pois os embargos de declaração não devolveram essa questão, não podendo, assim, omitir-se o órgão julgador sobre o que a ele não foi devolvido e, ademais, encontrava-se precluso.
+4. Em obiter dictum, ressalto que a interposição do recurso de apelação fora do prazo legal evidencia o trânsito em julgado da sentença condenatória, sendo, portanto, impossível aplicar o quanto decidido no Tema 1.199/STF. Precedentes.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Recordo que, ainda sob a relatoria do Ministro Napoleão Nunes Maia Filho, o agravo interno dos réus teve o seu provimento negado, tendo lá sido ressaltado que o acórdão na origem não afrontou a legislação federal indicada, pois: (a) embargos de declaração intempestivos não interrompem nem suspendem o prazo para interposição de outros recursos, consoante a jurisprudência do STJ; (b) não se decreta a nulidade do ato se este pode ser aproveitado e não traz prejuízo à parte; (c) as publicações não deixaram de ser conhecidas pelo advogado que subscreve o recurso, bastando ver as tempestivas manifestações ao longo do processo.
+Contra aquele acórdão houve a oposição de anteriores embargos de declaração que foram acolhidos sem efeitos infringentes, tendo a Primeira Turma assim se manifestado acerca da controvérsia (fls. 1.867):
+Nas razões do recurso especial, a parte recorrente alegou violação ao art. 113 do Código de Processo Civil (CPC) de 1973, em razão de suposta incompetência do Juízo de primeiro grau, que proferiu sentença além dos limites da designação realizada por meio da Portaria VPR 25, de 27/4/2011, que designou magistrado da Unidade de Apoio Judicial para atuar em Regime de Mutirão nos processos relativos à Meta 2 de 2009 e 2010, as quais se referem aos processos distribuídos até 31/12/2006, sendo que os referidos autos foram distribuídos em 25/7/2007.
+Conforme bem consignado pelo Tribunal de origem, "não se violou qualquer regra de competência referente à matéria objeto da lide ou às condições pessoais ou funcionais das partes" (fl. 1.160), não havendo que se falar em incompetência absoluta a ensejar a nulidade dos atos processuais.
+Ademais, a parte recorrente não alega qualquer prejuízo efetivo advindo da referida atuação judicial, de modo que não está configurada ofensa ao princípio da identidade física do juiz, nos termos da pacífica jurisprudência deste Superior Tribunal de Justiça, in verbis:
+ ..
+No que concerne à suposta omissão acerca da republicação do ato judicial, circunstância capaz de afastar a intempestividade da apelação, a parte recorrente sustentou, nas razões do especial, violação ao art. 236, caput, e 242 do CPC/1973. Verifico, contudo, que os referidos dispositivos legais não foram objeto de debate pela instância de origem, não preenchendo a alegação o requisito do prequestionamento.
+Ademais, constata-se que a discussão acerca da tempestividade da apelação restringiu-se à tese de suspensão ou não do prazo recursal em decorrência de embargos intempestivos, de modo que não há qualquer manifestação da instância precedente acerca da argumentação fática de que a sentença foi republicada e reaberto o prazo recursal.
+O Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento. Incide neste caso o enunciado 282 da Súmula do STF.
+Ademais, o conhecimento da referida argumentação, de que teria havido a republicação da decisão embargada, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Não há que se falar, assim, em omissão ou contradição em relação à intimação da parte e à incompetência do juízo.
+Por outro lado, antes do julgamento dos anteriores embargos, a parte ré, na petição de fls. 1.832/1.841, sustentou a incidência da Lei 14.230/2021, ressaltando a prescrição intercorrente e a ausência de comprovação de prática dolosa e lesiva aos cofres públicos. Postulou, assim, a extinção da ação.
+Em março de 2.023, indeferi aquele pedido, ressaltando que o recurso de apelação na origem não foi conhecido dada a sua intempestividade, não se podendo, assim, aplicar a Lei 14.230/2.021, seja no tocante à prescrição, seja quanto ao tópico do elemento subjetivo da conduta.
+A parte não agravou dessa decisão, vindo apenas a opor embargos de declaração contra o acórdão que julgou anterior recurso que sequer devolvia a aplicação da Lei 14.230/2.021.
+Como se vê, ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum, não havendo necessidade de esclarecer, complementar ou integrar o que foi decidido no acórdão embargado.
+Em obter dictum, ressalto que a intempestividade do recurso de apelação foi mantida, do que se extrai o trânsito em julgado da sentença condenatória, fato este que independe da respectiva certidão, conclusão que conduz à impossibilidade de aplicação do quanto decidido no Tema 1.199/STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO ESPECIAL INTEMPESTIVO. FORMAÇÃO DA COISA JULGADA. IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199 DO STF. IRRETROATIVIDADE.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que a matéria nele debatida não possui repercussão geral, conforme entendimento firmado no Tema n. 181 do STF.
+1.2. A parte agravante sustentou a existência de repercussão geral da matéria debatida no recurso extraordinário, afeta à preservação do direito de acesso à justiça, e pugnou pela aplicação no caso concreto, de forma imediata e retroativa, das novas disposições da Lei de Improbidade Administrativa, introduzidas pela Lei n. 14.230/2021.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidades que resultaram no não conhecimento de recurso de competência do STJ.
+2.2. A possibilidade de aplicação no caso concreto das novas disposições da Lei de Improbidade Administrativa, introduzidas pela Lei n. 14.230/2021, à luz das teses firmadas pelo Supremo Tribunal Federal no julgamento do Tema n. 1.199.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possuir repercussão geral.
+3.4. No tocante à aplicação da Lei n. 14.230/2021, o Supremo Tribunal Federal, no julgamento do Tema n. 1.199, firmou teses segundo as quais (i) é necessária a comprovação de responsabilidade subjetiva dolosa na tipificação dos atos de improbidade administrativa; (ii) a revogação da modalidade culposa de improbidade administrativa é, em regra, irretroativa; (iii) as inovações introduzidas na Lei de Improbidade Administrativa incidem sobre as condenações por atos ímprobos culposos ainda não transitados em julgado; e (iv) o novo regime prescricional não retroage, aplicando-se os novos marcos temporais apenas após a publicação da nova lei.
+3.5. Na hipótese dos autos, a intempestividade do recurso especial gerou o trânsito em julgado do feito em data que antecedeu a própria edição das novas disposições da Lei de Improbidade Administrativa, o que afasta a possibilidade de aplicação das conclusões alcançadas pelo STF no Tema n. 1.199.
+3.6. As alterações promovidas na Lei de Improbidade Administrativa e o julgamento do Tema n. 1.199 pela Suprema Corte não impactam a solução dada ao presente recurso extraordinário, tendo em vista as estreitas balizas do juízo de admissibilidade, previstas no art. 1.030 do Código de Processo Civil.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+(AgInt no RE nos EDcl no AgInt nos EDcl no AREsp n. 1.563.708/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/3/2025, DJEN de 8/4/2025.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DA LEI 14.230/21, QUE PROMOVEU ALTERAÇÕES NA LEI 8.429/92. TEMA 1.199/STF. ART. 11 DA LIA. CULPA GRAVE RECONHECIDA NA ORIGEM. EXTINÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+ ..
+4. Diversamente do afirmado na decisão embargada, ressalvada a hipótese de intempestividade, no caso específico das Ações de Improbidade Administrativa, a análise do direito superveniente (art. 493 do CPC) não depende do conhecimento do Recurso. Isto porque o Supremo Tribunal Federal, ao julgar o Tema 1.199, estabeleceu como único marco para incidência da Lei 14.230/2021, ao menos para os tipos por ela extintos, o trânsito em julgado da decisão condenatória, sem nenhuma outra restrição atinente ao conhecimento do Recurso pendente. Nessa linha: EDcl nos EDcl nos EDcl no AgInt no AREsp 1.706.946/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 19.12.2022.
+ ..
+(EDcl no AgInt no AREsp n. 2.094.115/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024 - destaque ausente no original)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. FORMAÇÃO DA COISA JULGADA. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199 DO STF. IRRETROATIVIDADE.
+ ..
+5. Na hipótese dos autos, a intempestividade do agravo em recurso especial gerou o trânsito em julgado do feito em data que antecedeu a própria edição das novas disposições da Lei de Improbidade Administrativa, o que afasta a possibilidade de aplicação das conclusões alcançadas pelo STF no Tema n. 1.199.
+6. Portanto, as alterações promovidas na Lei de Improbidade Administrativa e o julgamento do referido paradigma pela Suprema Corte não impactam a solução dada ao presente recurso extraordinário, tendo em vista as estreitas balizas do juízo de admissibilidade, previstas no art. 1.030 do Código de Processo Civil.
+7. Agravo interno a que se nega provimento.
+(AgInt no RE no AgInt no AREsp n. 2.232.924/RN, relator Ministro Og Fernandes, Corte Especial, julgado em 13/8/2024, DJe de 15/8/2024 - destaque ausente no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. INEXISTÊNCIA. RECURSO ESPECIAL INTEMPESTIVO. FORMAÇÃO DA COISA JULGADA. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199/STF. IRRETROATIVIDADE. ACLARATÓRIOS REJEITADOS.
+ ..
+4. No caso dos autos, o agravo interposto pelo ora embargante não foi conhecido ante a intempestividade do recurso especial.
+5. Considerando que a formação da coisa julgada na presente demanda ocorreu antes mesmo da publicação da Lei n. 14.230/2021, não é possível a sua aplicação retroativa, nos exatos termos do que foi definido pela Corte Suprema no referido precedente qualificado.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE no AgInt no AREsp n. 1.847.103/SP, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 24/10/2023, DJe de 26/10/2023 - destaque ausente no original)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
