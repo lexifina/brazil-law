@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. REGISTRO DE IMÓVEIS. ILEGITIMIDADE ATIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, ainda que não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por KOBRASOL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo nobre insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. SENTENÇA DE EXTINÇÃO QUE RECONHECEU A ILEGITIMIDADE ATIVA AD CAUSAM E DETERMINOU O LEVANTAMENTO DO BLOQUEIO DAS MATRÍCULAS N. 125.903 E N. 125.904 REGISTRADAS NO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DA CAPITAL. RECURSO DA AUTORA. ALEGAÇÃO DE QUE É PARTE LEGÍTIMA. INSUBSISTÊNCIA. AÇÃO ANULATÓRIA DEFLAGADA POR SUPOSTA NULIDADE NA "AV-2" DA MATRÍCULA N. 125.903 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DA CAPITAL/SC, EM QUE SE REQUER O CANCELAMENTO DO REFERIDO ATO E DA MATRÍCULA N. 125.904, ABERTA EM DECORRÊNCIA DAQUELA AVERBAÇÃO (AV-2). PLEITO DE RETIFICAÇÃO DE ÁREA DE IMÓVEL LINDEIRO A TERRENO DE MARINHA SOBRE O QUAL TERIA, EM TESE, DIREITO DE OCUPAÇÃO. REGISTRO IMOBILIÁRIO PATRIMONIAL - RIP. INSCRIÇÃO DA OCUPAÇÃO CANCELADA. ATO ADMINISTRATIVO DISCRICIONÁRIO E RESOLÚVEL A QUALQUER TEMPO, EXEGESE DO ART. 7º DA LEI N. 9.636/1998. AUTORA QUE NÃO É PROPRIETÁRIA, POSSUIDORA, OCUPANTE OU DETENTORA DE QUALQUER DIREITO REAL OU PESSOAL SOBRE A COISA ALHEIA. AUSÊNCIA DE LIAME JURÍDICO ENTRE A RECORRENTE E O BEM DA UNIÃO. ILEGITIMIDADE AD CAUSAM CONFIGURADA. SENTENÇA A QUO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. ALMEJADA REDUÇÃO DA VERBA HONORÁRIA FIXADA NA ORIGEM PARA CONDENAR EM 3% A 5% NOS TERMOS DO ART. 338 DO CPC. INAPLICABILIDADE. AUSÊNCIA DE SUBSTITUIÇÃO DO SUJEITO ATIVO DA RELAÇÃO JURÍDICA DISCUTIDA. PEDIDO SUBSIDIÁRIO DE REDUÇÃO DA VERBA FIXADA EM 20%. INSUBSISTÊNCIA. PARÂMETROS FIXADOS EM OBSERVÂNCIA DAS PECULIARIDADES DO CASO CONCRETO. ATENDIMENTO AO ART. 85, § 2º, DO CPC. ÔNUS SUCUMBENCIAL MANTIDO. PEDIDO EM CONTRARRAZÕES DE CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ. NÃO ACOLHIMENTO. AUSÊNCIA DE CONDUTA PROCESSUAL DOLOSA. HIPÓTESES DO ART. 80 DO CPC NÃO CARACTERIZADAS. INVIÁVEL O ARBITRAMENTO DOS HONORÁRIOS RECURSAIS POR TER ATINGIDO O LIMITE MÁXIMO NA ORIGEM. RECURSO CONHECIDO E DESPROVIDO." (e-STJ fls. 4.400-4.401)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 4.466-4.467).
+Nas razões do recurso especial (e-STJ fls. 4.534-4.556), interposto com fundamento no art. 105, inciso III, "a", da Constituição Federal, a parte recorrente alega violação dos seguintes dispositivos com as respectivas teses:
+(i) artigos 489, § 1º, inciso IV, e 1.022, inciso II, e parágrafo único, do Código de Processo Civil - porque teria havido negativa de prestação jurisdicional ao deixar o Tribunal de origem de se manifestar acerca de aspectos relevantes da demanda suscitados em embargos de declaração, consistentes no alegado "interesse jurídico decorrente da simples existência do processo administrativo em trâmite, o que seria suficiente para ser reconhecido o dito legítimo interesse jurídico e, por sua vez, a legitimidade ativa ad causam" (e-STJ fl. 4.546); e
+(ii) artigos 17 e 996, parágrafo único, do Código de Processo Civil - argumentando que "a simples existência de processo administrativo em trâmite (..) deixa bastante evidenciado que a mesma figura na qualidade de terceira interessada com a possibilidade de ser prejudicada caso seja mantida a decisão de segundo grau que a impeça de pleitear a declaração de nulidade dos atos registrais eivados de vícios de legalidade" (e-STJ fl. 4.551).
+As contraminutas foram apresentadas (e-STJ fls. 4.596-4.608, 4.613-4.615 e 4.632-4.637).
+O recurso especial foi inadmitido (e-STJ fls. 4.640-4.643), dando ensejo à interposição do presente agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (e-STJ fls. 4.848-4.852).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. REGISTRO DE IMÓVEIS. ILEGITIMIDADE ATIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, ainda que não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (artigos 489, § 1º, inciso IV, e 1.022, inciso II, e parágrafo único, do Código de Processo Civil), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Com efeito, da simples leitura do acórdão recorrido, às fls. 4.463-4.464 (e-STJ), nota-se que a Corte estadual solucionou a controvérsia de forma clara, integral e coerente, manifestando-se expressamente inclusive acerca do apontado procedimento administrativo.
+Logo, não há falar em omissão simplesmente por ter o órgão julgador decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019)
+Quanto à apontada violação dos artigos 17 e 996, parágrafo único, do Código de Processo Civil, a inversão das conclusões das instâncias de cognição plena - que reconheceram a ilegitimidade ativa - demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Não cabe a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto
