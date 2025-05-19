@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ CARLOS GONCALVES DE LIMA, JHYONATAN DINIZ DA SILVA e GABRIEL ALEXANDRE SOUZA AZEVEDO, em que se aponta como autoridade coatora o Desembargador do Tribunal de Justiça de Goiás relator do HC n. 5224709-74.2025.8.09.0051.
+Narram os autos que os pacientes foram presos em flagrante, no dia 20/3/2025, pela suposta prática dos delitos de associação criminosa e adulteração de sinal identificador de veículo automotor.
+Neste mandamus, a defesa sustenta que, em audiência de custódia, o Ministério Público requereu a liberdade provisória dos pacientes com aplicação de medidas cautelares, corroboradas pela defesa, mas o juízo das garantias converteu a prisão em flagrante em preventiva de ofício.
+Aduz que a decisão viola a Súmula 676 do STJ e os arts. 311 e 315, § 2º, I, II, III e VI, do Código de Processo Penal, por não indicar a imprescindibilidade da prisão preventiva à luz do caso concreto, invocando razões genéricas e abstratas, sem fundamentação concreta e individualizada sobre a inaplicabilidade das medidas cautelares do art. 319 do CPP.
+Requer, inclusive em liminar, a substituição da prisão preventiva por medidas cautelares previstas no art. 319, I, III, IV e V, do CPP, até o julgamento definitivo do remédio constitucional.
+A liminar foi deferida.
+Às fls. 528/529, deferi o pedido de extensão dos efeitos da decisão liminar ao corréu Lucas Valdeir Rabelo de Oliveira.
+Solicitadas informações ao Juízo de origem, não foram elas juntadas aos autos até o momento, conforme a certidão de fl. 567.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Nívio de Freitas Silva Filho, pelo não conhecimento do writ, mas pela concessão da ordem de ofício para revogar a prisão preventiva dos pacientes e do autuado LUCAS, embora com a imposição por esse STJ ou pelo Juízo de primeira instância de medidas cautelares diversas, tal qual previsto no artigo 319 do Código de Processo Penal (fl. 556).
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+In casu, da análise dos autos, ao menos em um juízo perfunctório, verifica-se que o pedido formulado, além de revestir-se de plausibilidade jurídica, está amparado pelo periculum in mora, sendo o caso de deferir-se a medida de urgência.
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça ao concluir o julgamento do RHC n. 131.263/GO, em 24/2/2021, firmou o entendimento de que é inadmissível a decretação da prisão preventiva de ofício. Consignou-se, a respeito do tema, que a interpretação do art. 310, II, do CPP, deve ser realizada à luz dos arts. 282, §§ 2º e 4º, e 311, do mesmo estatuto processual penal, que vedam, de forma absoluta, a custódia cautelar, sem o prévio requerimento das partes ou, quando no curso da investigação criminal, por representação da autoridade policial ou mediante requerimento do Ministério Público.
+No caso concreto, não há prévio requerimento do Ministério Público, que, durante a audiência de custódia, manifestou-se pela restituição da liberdade do paciente (fl. 185), tendo o Juízo de primeiro grau, ao homologar a prisão em flagrante, decretado a prisão preventiva do réu, de ofício, o que, conforme entendimento jurisprudencial, deixou de ser admitido pela legislação processual penal em vigor.
+Nesse sentido, a propósito, tem-se o enunciado n. 676 da súmula do Superior Tribunal de Justiça, segundo o qual, em razão da Lei n. 13.964/2019, não é mais possível ao juiz, de ofício, decretar ou converter prisão em flagrante em prisão preventiva.
+No mais, com razão o nobre parecerista quando opinou pela concessão da ordem.
+Ante o exposto, concedo a ordem, confirmando-se a medida liminar, inclusive no pedido de extensão, para revogar a prisão cautelar imposta aos pacientes e ao corréu Lucas Valdeir Rabelo de Oliveira, nos Autos n. 5214871-10.2025.8.09.0051, podendo o Magistrado novamente decretá-la, desde que com prévia manifestação do órgão da acusação nesse sentido.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. SUPERAÇÃO. PRISÃO PREVENTIVA DECRETADA DE OFÍCIO. NECESSIDADE DE REQUERIMENTO PRÉVIO. EVIDENTE CONSTRANGIMENTO ILEGAL. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERAÇÃO. POSSIBILIDADE. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo, com extensão dos efeitos ao corréu Lucas Valdeir Rabelo de Oliveira.
