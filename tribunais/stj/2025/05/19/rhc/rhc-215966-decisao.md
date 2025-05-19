@@ -1,0 +1,43 @@
+DECISÃO
+ELIAS ALVES SILVA DE SOUZA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.25.084506-2/000, que manteve a prisão preventiva do paciente pela suposta prática de tráfico de drogas.
+A defesa pretende a soltura do acusado ou a substituição da custódia por medidas alternativas, sob o argumento de que o decreto cautelar carece de fundamentação idônea.
+Decido.
+O recurso comporta pronta solução, uma vez que o acórdão impugnado está em consonância com a jurisprudência do STJ.
+O Juízo de primeira instância, ao converter a prisão em flagrante do ora recorrente em preventiva, salientou o seguinte (fl. 187, grifei):
+De acordo com o boletim de ocorrência e os depoimentos das testemunhas policiais, Elias Alves Silva de Souza teria sido flagrado em local conhecido pela prática do tráfico de drogas, na posse de uma quantia em dinheiro e um bilhete com nome e telefone possivelmente ligados ao fornecimento de entorpecentes. Durante as diligências, também foram apreendidas substâncias análogas a maconha e cocaína nas imediações do local da abordagem. Não obstante os argumentos da Defensoria Pública, entendo que, no presente caso, a prisão preventiva se justifica para garantia da ordem pública. A quantidade e a variedade das drogas apreendidas (287,9g de substância que se comportou como cocaína e 1030,25g de substância com características de maconha) extrapolam a caracterização da figura do mero usuário, indicando um possível envolvimento significativo com a atividade ilícita. A apreensão de dinheiro em espécie, em notas diversas, é outro indício que reforça a suspeita de que o flagranteado se dedicava à comercialização de entorpecentes.
+Ademais, a forma como a droga estava acondicionada, escondida em um terreno próximo ao imóvel, sugere uma organização e planejamento que denotam um risco concreto à ordem pública.
+O Tribunal local, a seu turno, manteve a prisão cautelar nestes termos (fl. 223):
+Conforme decisão juntada em doc. de ordem nº 02, fls. 86/87, a necessidade excepcional da medida restou fundamentada na gravidade concreta dos fatos, sobretudo diante da suposta participação de dois adolescentes na empreitada criminosa e da quantidade e variedade de droga apreendida, qual seja 1.030,25g de maconha e 287,9g de crack, além da quantia de R$ 474,00 em notas diversificadas, indicando a possível dedicação e habitualidade do paciente com o tráfico de drogas.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora recorrente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação concreta para decretar a prisão preventiva, ao salientar a gravidade da conduta, evidenciada pela diversidade e expressiva quantidade de entorpecente - 1,03 kg de maconha e 287,9 g de cocaína -, além de R$ 474,00 em espécie (fl. 140).
+O STJ é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública. Nessa perspectiva:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE.
+QUANTIDADE DA DROGA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA.
+RECURSO IMPROVIDO.
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), 6ª T., DJe 7/5/2021, grifei)
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. TESE DE AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA.
+INVIABILIDADE DE ANÁLISE NA VIA ESTREITA DO HABEAS CORPUS. PRISÃO PREVENTIVA. GRANDE QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS.
+IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA.
+ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1- Vislumbrada pelas instâncias ordinárias a existência de prova suficiente para instaurar a ação penal, reconhecer que os indícios de materialidade e autoria do crime são insuficientes para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus.
+2- A manutenção da custódia cautelar encontra-se suficientemente fundamentada diante das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a apreensão de considerável quantidade de droga escondida no veículo de onde o Paciente acabara de sair - 1 kg de maconha.
+3- A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese.
+4- Indevida a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se justificada e mostra-se imprescindível para acautelar o meio social, evidenciando que providências menos gravosas não seriam suficientes para garantir a ordem pública, como no presente caso.
+5- Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 592.884/RS, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/9/2020)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. NEGATIVA DE SEGUIMENTO. SUPERAÇÃO DE ÓBICE IMPOSTO PELO ENUNCIADO DA SÚMULA N. 691 DO STF.
+IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática que indeferiu liminarmente o seguimento do habeas corpus, com espeque no enunciado da Súmula n. 691 do Supremo Tribunal Federal.
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+3. No particular, não se vislumbra teratologia na decisão que indeferiu o pedido liminar no writ originário, que considerou fundamentada a prisão preventiva do paciente na gravidade concreta do delito, tendo em vista a quantidade de substância entorpecente apreendida (mais de 1 kg de maconha, e uma balança de precisão).
+4. Agravo regimental conhecido e não provido.
+(AgRg no HC n. 580.221/TO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/6/2020, destaquei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se m ostram adequadas e suficientes para evitar a prática de novas infrações penais. Nessa perspectiva: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, nego provimento ao recurso em habeas corpus in limine.
+Publique-se e intimem-se.
+EMENTA
