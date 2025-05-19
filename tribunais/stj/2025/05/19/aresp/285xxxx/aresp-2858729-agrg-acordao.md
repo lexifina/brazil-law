@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão proferida pela Presidência que não conheceu do agravo em recurso especial, porquanto a parte não impugnou adequadamente todos os fundamentos do decisum que inadmitiu seu especial.
+3. Esta Sexta Turma tem proclamado que o "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe de 15/4/2021).
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MOISES DE LIMA interpõe agravo regimental contra decisão proferida pela Presidência do STJ, que não conheceu de seu agravo em recurso especial, ante a incidência, por analogia, da Súmula n. 182 do STJ.
+Neste regimental, a defesa assere que "impugnou sim de forma explícita e direta os verbetes sumulares deste Egrégio Superior Tribunal de Justiça" (fl. 1.086).
+Aduz, ainda, que "nada impede a concessão de habeas corpus de ofício para o reconhecimento das ilegalidades indigitadas" (fl. 1.087).
+Pleiteia a reforma do ato ora atacado e o provimento do regimental e do recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão proferida pela Presidência que não conheceu do agravo em recurso especial, porquanto a parte não impugnou adequadamente todos os fundamentos do decisum que inadmitiu seu especial.
+3. Esta Sexta Turma tem proclamado que o "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe de 15/4/2021).
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pese aos argumentos defensivos, a decisão vergastada merece ser mantida.
+De início, lembro que o agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao negar seguimento ao recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ao inadmitir o especial do réu, a Corte de origem asseverou incidir a Súmula n. 282 do STJ ao caso, porquanto a tese de desistência voluntária não foi discutida pelo colegiado estadual. Entendeu ser aplicável a Súmula n. 7 do STJ, tendo em vista que a revisão do veredito demandaria o revolvimento do acervo fático-probatório dos autos. Destacou a incidência da Súmula n. 83 do STJ, porquanto o acórdão decidiu em conformidade com a jurisprudência do STJ, no que toca à constatação de que os jurados apenas optaram por uma das versões sustentadas em Plenário, que tinha amparo nas provas do processo. Assentou incidirem as Súmulas n. 7 e 83 do STJ quanto ao pleito de revisão da dosimetria e assinalou que os mesmos óbices acima invocados eram aplicáveis ao recurso interposto com base na alínea "c" do permissivo constitucional. Considerou incidir a Súmula n. 13 do STJ, tendo em vista que o recorrente "olvidou em indicar o dispositivo de lei federal objeto da divergência e, ainda, em demonstrar a similitude fática entre as decisões em confronto, limitando-se a abordar apenas o antagonismo jurídico, com base na transcrição das ementas dos arestos, o que se mostra insuficiente" (fl. 1.032).
+Em seu agravo em recurso especial, a parte assentou que "Súmula 7 não impede o juízo de cognição horizontal, que verifica a constatação da prova. Com efeito, em sede de Recurso Especial, nada impede que se constate a (in)existência de provas neste ou naquele sentido" (fl. 1.045) e desenvolveu as teses de que: o insurgente haveria desistido voluntariamente de prosseguir na empreitada criminosa; que não estaria comprovado o animus homicida; a animosidade anterior entre réu e vítima afastaria a suposta futilidade da conduta; a dosimetria da pena teria sido equivocada. Quanto a este último ponto, asseriu que essa matéria foi prequestionada.
+Entretanto, ao assim agir, o agravante não se desincumbiu do ônus de infirmar todos os fundamentos da decisão que inadmitiu o seu especial.
+Com efeito, a jurisprudência do STJ proclama que são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. Conforme já decidido por esta Corte Superior, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 10/11/2016, DJe de 18/11/2016, destaquei).
+A propósito:
+ ..
+III. Razões de decidir
+5. O entendimento desta Corte Superior é que a simples assertiva genérica de revaloração da prova não é suficiente para afastar o óbice da Súmula n. 7 do STJ, sendo necessário o cotejo com as premissas fáticas do acórdão recorrido.
+ ..
+(AREsp n. 2.739.086/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+ ..
+5. Relativamente à Súmula 7/STJ, mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+6. O momento adequado para impugnação dos fundamentos da decisão que ensejou a inadmissão do recurso especial é a interposição do agravo, sob pena de preclusão, não cabendo fazê-lo nas razões do agravo regimental.
+7. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp n. 1.856.037/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 22/6/2021, DJe de 28/6/2021.)
+Além disso, para impugnar a incidência da Súmula n. 83 do STJ, não basta afirmar que o Tribunal decidiu contra a jurisprudência desta Corte Superior. É necessário ao menos colacionar precedentes contemporâneos ou supervenientes aos referidos na decisão que inadmitiu o especial que comprovem que a compreensão do Tribunal estadual é contrária à da jurisprudência, ônus do qual o insurgente não se desincumbiu.
+Por fim, o insurgente nada aduziu sobre a falta de prequestionamento da alegação de desistência voluntária, nem sobre a deficiência na demonstração da divergência pretoriana, seja pela incidência dos óbices anteriormente invocados também sobre os recursos interpostos com base na alínea "c" do permissivo constitucional, seja pela aplicação da Súmula n. 13 do STJ.
+Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices da inadmissão do recurso especial. Assim, correta foi a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Por fim, lembro que esta Sexta Turma tem proclamado que o "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe de 15/4/2021, grifei), como no caso.
+À vista do exposto, nego provimento ao agravo regimental.
