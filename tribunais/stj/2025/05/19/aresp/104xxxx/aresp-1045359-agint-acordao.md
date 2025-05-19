@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CONFIGURADA. DECISÃO MANTIDA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Decisão agravada que acertadamente determinou o retorno dos autos para novo julgamento dos embargos de declaração.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COSAN COMBUSTÍVEIS E LUBRIFICANTES S.A. contra decisão singular de minha lavra na qual conheci do agravo e dei provimento ao recurso especial, a fim de cassar o acórdão dos embargos de declaração e determinar novo julgamento, pelos seguintes fundamentos: a) o Tribunal de origem deixou de se manifestar sobre a preliminar de nulidade da sentença por negativa de prestação jurisdicional; b) não foi apreciado o pedido de rescisão do contrato por culpa das autoras; c) a sentença e o acórdão apelado limitaram-se a acolher a tese principal sem a análise do pedido sucessivo (fls. 1.221-1.223).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada deve ser reformada uma vez que não ficou comprovada a violação do art. 1.022 do Código de Processo Civil/2015.
+Argumenta, também, a violação aos arts. 485, II, e 535, II, do CPC/73, uma vez que o Tribunal de origem teria enfrentado todos os vícios suscitados nos embargos de declaração, não havendo omissão ou contradição a ser reconhecida.
+Aduz, por fim, que o agravo em recurso especial interposto pela parte ora agravada não reunia condições de conhecimento, pois não houve a impugnação aos fundamentos da decisão que não admitiu o recurso especial, incidindo a Súmula n. 182 do STJ.
+Contraminuta ao agravo às fls. 1.241-1.251.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CONFIGURADA. DECISÃO MANTIDA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Decisão agravada que acertadamente determinou o retorno dos autos para novo julgamento dos embargos de declaração.
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação renovatória de locação de imóvel destinada ao funcionamento de posto revendedor de combustíveis, na qual COSAN COMBUSTÍVEIS E LUBRIFICANTES S.A. e AUTO POSTO JURUNA LTDA. buscaram a renovação da locação, a fixação do valor do aluguel mensal e o direito de retenção até a devida indenização pelas benfeitorias realizadas no imóvel.
+A sentença julgou improcedente o pedido renovatório e determinou a de volução do imóvel, bem como condenou as autoras em custas e honorários advocatícios.
+A TANGRAN EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. interpôs recurso de apelação alegando a nulidade da sentença por ilegitimidade das partes; fixação de aluguel em valor ínfimo e a necessidade de majoração dos honorários advocatícios.
+O Tribunal de origem negou provimento à apelação interposta pela agravada, mantendo a sentença, afastando a preliminar de nulidade da sentença e reconhecendo: (i) a apelante não possui interesse em recorrer para modificar a motivação da sentença a fim de constar que o contrato foi rescindido por culpa das autoras/apeladas, ora agravante; (ii) a questão relativa ao valor dos aluguéis provisórios foi atingida pela preclusão; (iii) o arbitramento da verba honorária está sujeito a critérios de valoração pelo magistrado de acordo com as peculiaridades do caso concreto, e o valor fixado mostra-se capaz de remunerar dignamente os profissionais que atuaram na causa (fls. 658-670).
+A agravada, opôs embargos de declaração sustentando omissão do Tribunal de origem sustentando a existência de pedido sucessivo, nos termos do art. 289 do CPC/73 e, portanto, a necessidade de reconhecimento da nulidade da sentença, uma vez que o reconhecimento da culpa pela rescisão do contrato atrairia o pagamento da multa contratual sobre o valor do contrato e, ainda, a indenização decorrente da sublocação. Aduziu, ainda, a existência de obscuridade porque não pleiteou a majoração do aluguel provisória, mas a fixação do aluguel definitivo para o período de duração do processo (fls. 673-678).
+A agravada interpôs recurso especial às fls. 808-885 que foi provido, em decisão singular de minha lavra, em virtude do reconhecimento da negativa de prestação jurisdicional.
+Como constou na decisão agravada, da acurada análise do acórdão que julgou os embargos de declaração, verifica-se que o Tribunal de origem não tratou sobre o tema, visto que apenas reiterou os fundamentos adotados no acórdão.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal de origem a se manifestar sobre as questões relativas ao pedido sucessivo de reconhecimento de culpa da ora agravante na rescisão do contrato e, portanto, a incidência de multa contratual, bem como da ausência de preclusão do pedido de majoração do aluguel definitivo, terminou por negar prestação jurisdicional.
+O retorno dos autos para novo julgamento dos embargos de declaração é medida que se impõe.
+No que se refere à ausência de impugnação aos fundamentos da decisão que não admitiu o recurso especial e, portanto, o não preenchimento dos requisitos para conhecimento do agravo em recurso especial, destaco que o pedido não merece provimento.
+Isso se diz porque constou na decisão que não admitiu o recurso especial os seguintes fundamentos: (i) ofensa aos arts. 458, II, e 535, II, do CPC/73 (489, II, e 1022 do CPC), uma vez que o colegiado deliberou sobre as questões necessárias à solução da lide, estando o acórdão fundamentado de forma a não ensejar dúvidas; (ii) reexame dos elementos informativos dos autos, pois a reforma do acórdão recorrido implicaria reexame dos elementos informativos dos autos, o que não se amolda aos limites do recurso especial, conforme Súmula 7 do STJ; (iii) a violações a dispositivos constitucionais não podem ser objeto de recurso especial, sendo matéria própria de apelo extraordinário (fls. 908-909).
+Nas razões do seu agravo em recurso especial, a parte ora agravada, sustentou: (i) a comprovação da ofensa aos arts. 458, II, e 535, II, do CPC/73 (489, II, e 1022 do CPC), uma vez que houve omissões e obscuridades no acórdão, que não enfrentou diretamente os pontos relevantes suscitados nos embargos de declaração; (ii) não se pretende o reexame de fatos, mas sim a verificação da violação dos artigos mencionados e apreciação da dissonância jurisprudencial; e (iii) que os dispositivos constitucionais referidos no recurso não objetivam sustentar violação para recurso especial, mas reforçar a violação aos dispositivos infraconstitucionais (fls. 914-998).
+Como se vê, os fundamentos da decisão de admissibilidade foram impugnados nas razões do agravo em recurso especial, não havendo óbice para conhecimento do recurso.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
