@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO CIVIL PÚBLICA. REALIZAÇÃO DE EXAME MÉDICO. NEGATIVA. VÍCIO NA PRESTAÇÃO JURISDICIONAL.  NÃO  OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1.  Na  espécie,  o  não  acolhimento  das  teses  ventiladas  pela  parte recorrente  não  significa  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia.
+2.  No caso, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+3.  A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOTRE DAME INTERMÉDICA SAÚDE S.A  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento  em  virtude  da  ausência  de  vício  na  prestação  jurisdicional,  da  aplicação  das  Súmulas  nºs 5 e  7/STJ  e da prejudicialidade do exame da divergência jurisprudencial em razão da aplicação de óbice sumular  (e-STJ  fls.  2.170/2.274).
+Nas  presentes  razões (e-STJ fls. 2.187/2.198), a agravante  alega que  houve afronta aos arts. 489 e 1.022 do Código de Processo Civil e que o Ministério Público não tem legitimidade para figurar no feito.
+Aponta violação dos arts. 141 e 492 do Código de Processo Civil,
+"(..) posto que as decisões proferidas transcenderam os limites impostos pela causa de pedir e, por consequência, pelos pedidos iniciais. Conforme restou claro, não obstante a controvérsia tenha se estabelecido acerca da inteligência do art. 10 da Lei nº 9.656/98, da soberania da prescrição médica frente à regulamentação da ANS, houve a análise dos pedidos sob fundamento legal absolutamente distinto, qual seja, suposta não previsão contratual expressa de não cobertura aos exames de PET- SCAN e PET-CT." (e-STJ fl. 2.192).
+Afirma, ainda,  ter ocorrido ofensa aos arts. 55, §3º, 114 e 115, I, do Código de Processo Civil, além de divergência jurisprudencial.
+Foi  apresentada  impugnação  (e-STJ  fls.  2.228/2.236).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO CIVIL PÚBLICA. REALIZAÇÃO DE EXAME MÉDICO. NEGATIVA. VÍCIO NA PRESTAÇÃO JURISDICIONAL.  NÃO  OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1.  Na  espécie,  o  não  acolhimento  das  teses  ventiladas  pela  parte recorrente  não  significa  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia.
+2.  No caso, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+3.  A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+A  recorrente  não  trouxe  argumentos  suficientes  para  infirmar  a  decisão  agravada.
+Concretamente,  verifica-se  que  as  instâncias  ordinárias  enfrentaram  a  matéria  posta  em  debate  na  medida  necessária  para  o  deslinde  da  controvérsia.
+No  caso  dos  autos,  o  tribunal  de  origem  manifestou-se  expressamente  quanto  à  legitimidade do ministério público,  conforme  se constata  do  seguinte  trecho  do  acórdão:
+"(..)
+O Colendo Superior Tribunal de Justiça já decidiu que é de decenal o prazo prescricional para o exercício da pretensão de reembolso de despesas médico hospitalares cobertas pelo contrato de plano de saúde (ou de seguro-saúde), mas que não foram pagas pela operadora.
+A sentença não é "extra petita", porquanto o magistrado singular analisou todas as questões de fato e de direito. Conforme se infere da fundamentação lançada pelo juiz sentenciante, este apreciou a causa proposta e, ao final, aplicou o direito que entendeu adequado na espécie.
+E ilegitimidade ativa do afasta-se preliminar de Ministério a Público.
+A Súmula 601 do C. STJ dispõe que: "O Ministério Público tem legitimidade ativa para atuar na defesa dos direitos difusos, coletivos e individuais homogêneos dos consumidores, ainda que decorrentes da prestação de serviços públicos".
+Ademais, o artigo 103, VIII, da Lei Complementar 734/1993 dispõe que são funções institucionais deste órgão, nos termos da legislação aplicável: "promover o inquérito civil e a ação civil pública, para a proteção, a prevenção e a reparação dos danos causados ao patrimônio público e social, ao meio ambiente, ao consumidor, aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico, e a outros interesses difusos, coletivos, homogêneos e individuais indisponíveis".
+E não se trata de hipótese de litisconsórcio passivo necessário, uma vez que a ANS apenas regulamenta os planos de saúde e as negativas para realização dos exames PET CT e/ou PET SCAN são dadas pela requerida Notre Dame e não pela ANS. Logo, a relação contratual abrangida pela presente demanda é entre a Notre Dame (operadora de plano de saúde) e os consumidores (beneficiários).
+(..)
+É fato inconteste a partir das inúmeras ações ajuizadas por beneficiários do plano de saúde do qual a Unimed é operadora que o plano de saúde requerido nega com frequência a cobertura de exame PET CT ou PET SCAN aos seus clientes e o faz sob a alegação de que tal exame não consta no rol da ANS como sendo cobertura obrigatória.
+O exame conhecido como PET CT ou PET SCAN é um moderno exame, de larga utilização e que apresenta resultados mais precisos e rápidos que outros que estão sendo utilizados.
+A esse respeito, a modernização das técnicas e procedimentos médicos é constante, contínua e progressiva, não sendo possível aos contratos tratar especificamente sobre a inclusão ou exclusão de cada um deles, pois, muitas vezes, a maioria desses exames sequer existe ao tempo da contratação, não se podendo privar o paciente de receber o tratamento com o método mais moderno disponível no momento em que surge a doença coberta.
+Há muito que a Jurisprudência desta Corte e do E. STJ, já tem firmado o entendimento de que as empresas operadoras de Contratos de Prestação de Serviços Médicos e Hospitalares, ou aquelas que celebram Contratos de Seguro para cobertura desses mesmos serviços, não podem se recusar a cobrir tratamentos que tenham direta relação com doença coberta ou mesmo procedimentos e exames que dela decorram, tudo porque as recusas contrariam a própria natureza do contrato.
+(..)
+No mais, a própria ANS afirmou nos autos do inquérito civil que os exames de PET SCAN ou PET CT são arrolados como procedimentos de realização obrigatória pela tabela TUSS, Terminologia Unificada da Saúde Suplementar, com observação das Diretrizes de Utilização, ambos estabelecidos pela ANS, informando, assim, que tais exames são assegurados aos beneficiários.
+Nesse passo, não vislumbro motivo jurídico razoável para a negativa de cobertura referente ao exame necessário à saúde do consumidor, configurando tal conduta abusiva perante as normas do Código de Defesa do Consumidor.
+O artigo 10, caput, e § 2º, da Lei nº 9.656/1998, impõe às operadoras de plano de saúde o dever de oferecer a seus atuais e futuros consumidores o plano referência de assistência à saúde, no qual abranja cobertura assistencial médico-ambulatorial e hospitalar (..) das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde.
+Assim, há obrigatoriedade de cobertura de tratamento da doença de que padece o consumidor como um todo, tendo em vista que a Ré é obrigada a custear o tratamento da doença (câncer), de modo que tem o dever de cobrir o serviço de diagnóstico necessário à sua detecção e controle e não limitar a determinados tipos de câncer. Com relação ao alegado aumento das mensalidades, como aduzido pela Ré Unimed, cumpre salientar que deve esta observar o contrato em vigor, sendo certo que como já consignado, o exame de PET CT ou PET SCAN é de cobertura obrigatória.
+Como bem consignado no v. Acórdão paradigma; "Não há falar, por outro lado, no estabelecimento de concorrência desleal, tampouco em afetação do mercado securitário, na medida em que compete ao autor o ajuizamento de demanda semelhante em face das demais operadoras para afastar a abusividade da negativa do exame discutido.
+O fato de a medida proferida nestes autos atingir apenas a empresa ré não pode servir de justificativa para a improcedência do pedido, em manifesto prejuízo ao direito do universo de consumidores vinculados à seguradora-ré. Ressalte-se ainda que a livre concorrência não se sobrepõe aos direitos básicos dos consumidores, parte mais fraca da relação jurídica, máxime em se tratando de direito fundamental da pessoa humana, qual seja, a saúde."
+Por fim, a publicidade tem efetivo cabimento para que os consumidores tenham conhecimento da decisão proferida em Ação Civil Pública, ou seja, que abrange todos os beneficiários da Ré, a fim de que possam, se o caso, exercer os seus direitos. "  (e-STJ  fls.  1.233/1.237).
+Nesse contexto,  não  há  falar  em  negativa  de  prestação  jurisdicional , pois essa  somente  se  configura  quando,  na  apreciação  do  recurso,  o  tribunal  local  se omite em  pronunciar  acerca  de  questão  que  deveria  ser  decidida,  e  não  foi.
+Vale anotar que no caso em exame não foram opostos embargos declaratórios na origem para suprir eventual omissão.
+Assim,  o  não  acolhimento  das  teses  ventiladas  pela  parte recorrente  não  significa  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+Ademais,  verifica-se  do  excerto  acima  transcrito  que,  para  rever  a  conclusão  do  tribunal  local,  seria  necessário  o  revolvimento  do  acervo  fático-probatório  dos  autos  por  esta  Corte,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+Nessa  esteira:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. NECESSIDADE DE PROVA TÉCNICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA. N. 7/STJ. EXAME PET-CT/PET-SCAN. TRATAMENTO DE CÂNCER. SOLICITAÇÃO MÉDICA. COBERTURA OBRIGATÓRIA. SÚMULA N. 83/STJ.
+1. Não se configura violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+2. Não há cerceamento no julgamento antecipado da lide quando a instância de origem entende que o feito está suficientemente instruído e indefere a produção de provas adicionais, por serem desnecessárias ou por se tratar de matérias já comprovadas documentalmente.
+3. Rever a convicção formada pelo Tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+4. Para a jurisprudência do STJ, o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de exames/medicamentos/procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+5. "Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica" (AgInt no REsp 1.765.668/DF, Terceira Turma, julgado em 29/4/2019, DJe de 6/5/2019).
+Agravo interno improvido."
+(AgInt no REsp n. 2.164.283/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024)
+Por fim, anota-se que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
