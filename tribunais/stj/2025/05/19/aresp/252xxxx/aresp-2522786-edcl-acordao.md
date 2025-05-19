@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGR AVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não é omisso o acórdão que, de maneira detalhada, confirma a decisão que não conheceu do agravo em recurso especial, haja vista a parte não haver atacado com propriedade todos os argumentos usados para a não admissão do seu recurso especial. Não houve avanço sobre o mérito do recurso especial, porque não preenchidos os pressupostos para sua admissibilidade.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CHARLES BUBLITZ REITER e LUIZ CARLOS PIRES DA SILVA opõem embargos de declaração ao acórdão de fls. 1.416-1.419, proferido pela Sexta Turma, que negou provimento ao agravo regimental.
+A defesa argumenta que o acórdão foi omisso em relação aos temas sustentados pelos insurgentes.
+Assere que se insurgiu de maneira pormenorizada quanto a todos os tópicos elencados e passa a repetir a tese de que houve "negativa de vigência do que disciplina o artigo 155 do Código Penal" (fl. 1.450, sic, grifei), pois a pronúncia haveria se dado com base em elementos colhidos na fase de inquérito.
+Pleiteia o acolhimento dos presentes embargos, para que o vício apontado seja sanado e o especial analisado detidamente.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGR AVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não é omisso o acórdão que, de maneira detalhada, confirma a decisão que não conheceu do agravo em recurso especial, haja vista a parte não haver atacado com propriedade todos os argumentos usados para a não admissão do seu recurso especial. Não houve avanço sobre o mérito do recurso especial, porque não preenchidos os pressupostos para sua admissibilidade.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, constato que a decisão embargada não padece do vício apontado, pois, de forma clara e sem omissões, explicou a inobservância do princípio da dialeticidade e, fundamentadamente, confirmou a aplicação da Súmula n. 182 do STJ feita pela Presidência deste Superior Tribunal. Não houve avanço sobre o mérito do recurso especial, porque não preenchidos os pressupostos para sua admissibilidade.
+Com efeito, constou do ato ora impugnado (fls. 1.418-1.419, grifos no original):
+A Corte estadual entendeu incidir a Súmula n. 284 do STF ao caso, porquanto o especial não explicitou quais dispositivos de lei federal teriam sido interpretados de maneira divergente por outros tribunais. Assentou que a defesa não procedeu o necessário cotejo analítico e lembrou que julgados em habeas corpus não se prestam para comprovar dissídio jurisprudencial, bem como que a referida divergência não pode ser comprovada com julgados do mesmo tribunal que exarou a decisão combatida, o que atrai a incidência da Súmula n. 13 do STJ. Ainda, asseverou que, como a decisão dos jurados encontrou respaldo nas provas dos autos, revê-la é tarefa obstada pela Súmula n. 7 do STJ, e que, na hipótese, aplica-se a Súmula n. 83 do STJ, porquanto, ao entender que a palavra da vítima tem especial relevância, a Corte estadual decidiu em conformidade com a jurisprudência deste Tribunal Superior. Por fim, registrou a aplicação da Súmula n. 126 do STJ, porquanto o acórdão assentou-se em fundamento de ordem constitucional.
+Em seu agravo de fls. 1.304-1.316, a defesa repetiu a tese principal de seu especial e assentou ser "cristalino a divergência de julgados" e que "o cotejo analítico encontra-se devidamente preenchido e superado" (ambas à fl. 1.312). Aduziu haver contrassenso na aplicação concomitante das Súmulas n. 7 e 83 do STJ e que nenhum desses óbices tem aplicação no presente caso, porquanto o especial versa unicamente sobre questão eminentemente de direito e não as matérias em discussão não foram alvos de julgamento de recursos repetitivos. Por fim, cita dois julgados do Tribunal de Justiça de Santa Catarina, nos quais a referida Corte decidiu de forma contrária ao acórdão questionado.
+Ao assim agir os agravantes nada comentaram a respeito de: falta de indicação do dispositivo legal violado; impossibilidade de julgados em habeas corpus lastrearem alegação de divergência jurisprudencial; incidência das Súmulas n. 13 e 126 do STJ; aplicação da Súmula n. 83 do STJ em relação à relevância da palavra da vítima.
+Portanto, verifica-se estar correta a decisão proferida pela Presidência deste Tribunal Superior, pois os insurgentes não rebateram, concretamente, todos os óbices da inadmissão do recurso especial. Assim, não merece reparos a aplicação da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Destaco, por fim, que a impugnação tardia da decisão que inadmitiu o recurso especial, além de caracterizar indevida inovação recursal, não tem o condão de afastar o óbice aplicado.
+Nesse sentido:
+ ..
+3. A impugnação tardia de fundamento da decisão de inadmissibilidade do recurso especial configura inovação recursal e não afasta a ausência de impugnação constatada na petição de agravo em recurso especial, em razão da preclusão consumativa.
+4. Não cabem embargos de declaração para fins de prequestionamento se inexistem vícios a serem sanados.
+5. Embargos declaratórios rejeitados.
+(EDcl no AgRg nos EDcl no AREsp n. 1.253.070/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/4/2019, DJe de 22/4/2019.)
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
