@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de OLAIR PATTA MOREIRA JUNIOR, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL - TJRS no julgamento da Apelação Criminal n. 5001451-19.2014.8.21.0003/RS.
+Extrai-se dos autos que o Juízo de primeiro grau condenou o paciente à pena de 11 anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, §2º, incisos II e III, c/c o art. 14, inciso II, ambos do Código Penal - CP. Na oportunidade, foi facultado o recurso em liberdade, conforme sentença acostada às fls. 42/44.
+O Tribunal de origem negou provimento à apelação das partes, determinando a expedição de mandado de prisão em desfavor do réu, na forma do Tema n. 1068 do STF, dando-se início à execução provisória da pena. O acórdão ficou assim ementado:
+"EMENTA: DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. ALEGAÇÕES DE NULIDADE POSTERIOR À PRONÚNCIA. IMPEDIMENTO DE JURADO. NOMEAÇÃO DE DEFENSOR DATIVO. PROBLEMAS NA GRAVAÇÃO DE DEPOIMENTOS. DECISÃO DO JÚRI. APLICAÇÃO DA PENA. RECURSO DESPROVIDO. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA.
+I. CASO EM EXAME: Apelação criminal interposta pelo acusado, condenado pelo crime de homicídio qualificado, na forma tentada, à pena de 11 anos de reclusão. O apelante sustenta nulidades processuais, alegando impedimento de jurado por suposta amizade com a família da vítima, designação tardia de defensor dativo e falha na gravação dos depoimentos em plenário. Aduz, ainda, que a decisão do Júri seria manifestamente contrária à prova dos autos e que houve erro na dosimetria da pena.
+II. QUESTÃO EM DISCUSSÃO: Há quatro questões em discussão: (i) verificar se há nulidade processual em razão de suposto impedimento de jurado; (ii) analisar se a nomeação de defensor dativo poucos dias antes do julgamento comprometeu a plenitude da defesa; (iii) avaliar se falhas na gravação dos depoimentos em plenário acarretam nulidade do julgamento; e (iv) examinar se a decisão dos jurados foi manifestamente contrária à prova dos autos e se houve erro na fixação da pena.
+III. RAZÕES DE DECIDIR: A alegação de impedimento de jurado não prospera, pois não há registro formal da impugnação pela defesa na ata de julgamento, sendo a argumentação meramente especulativa e sem prova concreta de influência no resultado do julgamento.
+A nomeação do defensor dativo não configura nulidade, pois a advogada aceitou o encargo e teve prazo razoável para preparar a defesa, inexistindo comprovação de prejuízo efetivo ao acusado.
+A falha na gravação dos depoimentos em plenário não compromete a validade do julgamento, pois os jurados, destinatários diretos da prova, tiveram contato com os depoimentos e puderam formar seu convencimento.
+A decisão dos jurados não é manifestamente contrária à prova dos autos, pois há indícios suficientes de autoria e dolo, sendo a acusação sustentada por elementos probatórios convergentes, incluindo as declarações da vítima.
+A dosimetria da pena observa critérios objetivos e está devidamente fundamentada, considerando as circunstâncias judiciais desfavoráveis, o reconhecimento da qualificadora do emprego de fogo e do motivo fútil, além da aplicação da minorante da tentativa em grau mínimo.
+A execução provisória da pena deve ser determinada, nos termos do Tema 1068 do STF e do artigo 492, I, "e", do CPP, independentemente da interposição de eventuais recursos.
+IV. DISPOSITIVO E TESE: Recurso desprovido. Determinação de expedição de mandado de prisão para execução provisória da pena." (fls. 22/23)
+No presente writ, defendem os impetrantes a possibilidade de suspender a execução imediata da pena, enfatizando a irretroatividade do precedente firmado em julgamento com repercussão geral pelo Supremo Tribunal Federal (Tema n. 1.068/STF).
+Aduzem que não foi apresentada fundamentação idônea para a segregação cautelar do paciente, reputando ausentes os requisitos autorizadores da segregação cautelar, elencados no art. 312 do Código de Processo Penal - CPP.
+Ponderam que decretação da prisão preventiva após a condenação exige fatos supervenientes que demonstrem risco atual e não há, nos autos, registros de novos incidentes ou comportamentos do paciente que justifiquem o encarceramento.
+Ressaltam as condições pessoais favoráveis do réu e a possibilidade de aplicação das medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requerem, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas, a fim de que o paciente possa recorrer em liberdade.
+É o relatório.
+Decido.
+Conforme  relatado,  impugna-se a execução provisória da pena imposta.
+Pelo que se depreende, o réu respondeu ao processo em liberdade e restou condenado à pena de 11 anos de reclusão, em regime inicial fechado, tendo a Corte estadual determinado a execução provisória da pena, com fulcro no art. 492, inciso I, alínea e, do CPP.
+Quanto ao tema, o Supremo Tribunal Federal, em 12/9/2024, ao julgar o RE 1.235.340/SC, em regime de repercussão geral, por maioria de votos, firmou o entendimento de que a soberania dos vereditos autoriza a execução imediata da pena aplicada pelo Tribunal do Júri, independentemente do quantum da reprimenda fixada - Tema n. 1.068.
+Desse modo, não há falar em ilegalidade decorrente da determinação de cumprimento imediato da pena imposta.
+Nesse sentido, precedente do STJ:
+AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO CONTRA DECISÃO DE CONCESSÃO LIMINAR DA ORDEM DE HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENA IMPOSTA PELO TRIBUNAL DO JÚRI. PENA SUPERIOR A 15 ANOS DE RECLUSÃO. ART. 492, I, E DO CPP. ALTERAÇÃO PROMOVIDA PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). APLICABILIDADE IMEDIATA. ENTENDIMENTO DO STF. TEMA 1.068 DA REPERCUSSÃO GERAL. QUANTUM DA PENA. IRRELEVÂNCIA.
+1. A jurisprudência do Supremo Tribunal Federal, em diversas oportunidades, tem declarado a nulidade das decisões que afastam a aplicação do art. 492, I, e, do Código de Processo Penal, por violação da Súmula Vinculante 10 e da cláusula de reserva de Plenário, pois tal afastamento configura controle difuso de constitucionalidade que demanda a manifestação do órgão pleno ou do órgão especial.
+2. A jurisprudência recente do Superior Tribunal de Justiça já vinha se alinhando ao entendimento do STF, aplicando a execução imediata da pena imposta pelo Tribunal do Júri. Precedentes.
+3. No julgamento do RE n. 1.235.340/SC (Tema 1.068 da Repercussão Geral), finalizado em 12/9/2024, o STF deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+4. Diante do posicionamento vinculante do STF e da recente orientação do STJ, torna-se inviável a concessão de habeas corpus que contrarie tais precedentes, devendo-se aplicar imediatamente a prisão ao réu condenado pelo Tribunal do Júri.
+5. Agravo regimental provido.
+(AgRg no HC n. 788.126/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/9/2024.)
+Por sua vez, a possibilidade de substituir a prisão preventiva por medidas cautelares diversas, não foi discutida no Tribunal a quo, impedido qualquer pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
