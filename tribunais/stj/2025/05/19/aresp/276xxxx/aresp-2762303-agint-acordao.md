@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. NEGATIVA INDEVIDA. DANOS MORAIS CONFIGURADOS. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Na situação em análise, trata-se de procedimento vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. contra decisão unipessoal que conheceu do agravo, para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negou provimento.
+Ação: de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por WILSON PEREIRA DOS SANTOS, em face da agravante, em razão de negativa indevida de custeio dos procedimentos de "Prostatavesiculectomia Radical com Neouretra Proximal com Linfadenectomia Pélvica por Videolaparoscopia Robótica" para tratamento de câncer de próstata (e-STJ, fls. 09/32).
+Sentença: julgou parcialmente procedentes os pedidos, para:
+i) confirmando a tutela de urgência deferida anteriormente, condenar a agravante a realizar a cobertura dos procedimentos requeridos na petição inicial; e
+ii) condenar a agravante ao pagamento de compensação por danos morais, no valor de R$ 3.000,00 - três mil reais (e-STJ, fls. 755/758).
+Acórdão: negou provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA. ABUSIVIDADE. CANCER PROSTATA. CIRURGIA PROSTECTOMIA RADICAL POR VIDEOLAPAROSCOPIA E LINFADENECTOMIA PÉLVICA POR LAPAROSCÓPICA" E "NEOURETRA PROXIMAL PELA TÉCINICA ROBÓTIOCA E DEMAIS DESPESAS. COBERTURA PELA ANS. PRECEDENTES DO TJPE E DO STJ. DANOS MORAIS. CABIMENTO. MANUTENÇÃO. NEGAR PROVIMENTO AOS RECURSOS.
+1. A necessidade dos procedimentos de "Prostatectomia Radical Videolaparoscópica", "Linfadenectomia pélvica por laparoscópica" e "Neouretra Proximal"," pela técnica robótica prescrito ao consumidor foi devidamente comprovada através de laudo médico.
+2. O art. 10, § 4º, da Lei 9.656/98 prevê que a amplitude das coberturas no âmbito da saúde suplementar será estabelecida em norma editada pela ANS, e, sobre o tema em discussão, a Resolução Normativa - RN 465 de 24 de fevereiro de 2021, que atualiza o Rol de Procedimentos e Eventos em Saúde, lista o procedimento em questão para planos de segmentação hospitalar e planos-referência no seu Anexo 1.
+4. (sic) O PARECER TÉCNICO Nº 34/GEAS/GGRAS/DIPRO/2021 prevê a técnica robótica de acordo com as doenças do Anexo I.
+5. Uma vez demonstrada a cobertura obrigatória do tratamento indicado pelo médico assistente, não se considera razoável a recusa do plano de saúde, inclusive quanto à realização da cirurgia por robótica.
+6. Na situação narrada, a negativa indevida agravou a aflição psicológica do paciente, já abalado pelos problemas de saúde inerentes ao seu quadro clínico, ensejando, dessa maneira, a configuração de danos morais (Súmula 35 do TJPE), sendo adequado o arbitramento no valor de R$ 3.000,00 (três mil reais) na hipótese, à luz dos princípios de razoabilidade e proporcionalidade, em atenção às circunstâncias fáticas do caso concreto, a fim de compensar o lesado sem ocasionar o seu enriquecimento indevido.
+7. Majoro os honorários advocatícios para em 20% sobre o valor da condenação, nos termos do art. 85, § 11, do CPC/2015, observado os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. (e-STJ, fls. 1.306/1.307)
+Embargos de Declaração: opostos pelas partes, foram rejeitados (e-STJ, fls. 1.356/1.364).
+Recurso especial: alega violação dos arts. 373, 927, 1.022, 1.039, todos do CPC; 10, §§ 4º e 13, 12, VI, ambos da Lei 9.656/98; 51 do CDC; 186, 421, caput e parágrafo único, e 927, todos do CC/02. Além da negativa de prestação jurisdicional, sustenta:
+i) a legalidade da recusa de cobertura de procedimento fora da cobertura contratual e não listado no rol taxativo da ANS;
+ii) aplicação inadequada das regras de distribuição do ônus da prova;
+iii) que, nos termos da Lei 14.454/2022, é possível a cobertura de tratamentos/procedimentos não constantes no rol da ANS (de natureza taxativa), desde que preenchidos determinados requisitos, os quais não foram atendidos na hipótese;
+iv) a ausência de abusividade na cláusula que negou o procedimento ao agravado;
+v) a impossibilidade de determinação de custeio integral de procedimento fora da rede credenciada sem dar oportunidade de indicação de clínica credenciada; e
+vi) a inexistência de negativa de autorização do procedimento, tratando-se de uma situação na qual não havia previsão legal de cobertura e ela foi simplesmente negada, o que afasta a ocorrência de ato ilícito e de pagamento de compensação por danos morais (e-STJ, fls. 1.377/1.408).
+Decisão monocrática: conheceu do agravo, para conhecer parcialmente do recurso especial interposto e, nessa extensão, negou provimento, nos termos do art. 932, III, IV, "a", do CPC, bem como na Súmula 568/STJ (e-STJ, fls. 1.467/1.474).
+Agravo interno: alega, em síntese:
+i) a violação do art. 1.022 do CPC, de forma a asseverar que foram opostos embargos de declaração "(..) para sanar a omissão quanto a alegação de risco de enriquecimento ilícito da parte autora. Contudo, o julgamento restou genérico, no sentido de que não havia qualquer omissão a ser sanada. Neste ponto reside a violação clara ao art. 1.022 do CPC." (e-STJ, fl. 1.482);
+ii) a existência do devido prequestionamento das matérias constantes nas razões do recurso especial, bem como que "(..) com a oposição de Embargos de Declaração apontando que não houve manifestação quanto a questão do enriquecimento ilícito, a matéria se encontra pré-questionada nos termos do artigo 1.025 do CPC (..)" (e-STJ, fl. 1.484);
+iii) a não incidência da Súmula 568/STJ, de modo a não existir entendimento pacificado nesta Corte Superior na hipótese (obrigatoriedade de cobertura), pois "(..) esse Superior Tribunal de Justiça, em outra ocasião, já se posicionou no sentido de que as Operadoras de Saúde não possuem a obrigação de custear procedimento que não esteja incluído no rol da ANS." (e-STJ, fl. 1.486);
+iv) a não incidência da Súmula 568/STJ, pois "(..) em relação aos danos morais por negativa administrativa, essa Corte, em outros casos análogos, já se posicionou no sentido de que, havendo discussão plausível sobre o contrato, não há que se falar em dano moral." (e-STJ, fl. 1.488); e
+v) que "(..) as questões do recurso especial residem na correta interpretação dos artigos 10, caput (sic), §§4º e 13, 12, IV, da Lei 9.656/98; 186, 421, 421-A, p. ú (sic), e 927 todos do CC; 373, 927, III, 1.022 e 1.039, todos do CPC; 51, IV, do CDC. 20. Vale dizer, novamente, que para se aferir a violação apontada no presente recurso especial, basta partir da moldura fática delineada no v. aresto atacado para se verificar a frontal violação, não havendo qualquer necessidade de se revolver provas, de modo que a citada Súmula 7 desse Superior Tribunal de Justiça não encontra aplicação no caso em exame." (e-STJ, fl. 1.490).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. NEGATIVA INDEVIDA. DANOS MORAIS CONFIGURADOS. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Na situação em análise, trata-se de procedimento vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo, para conhecer parcialmente do recurso especial interposto pela agravante e, nessa extensão, negou provimento, em razão da:
+i) não demonstração de violação do art. 1.022 do CPC;
+ii) ausência de prequestionamento (Súmula 211/STJ);
+iii) incidência da Súmula 568/STJ (obrigatoriedade de custeio de tratamento de câncer);
+iv) incidência da Súmula 7/STJ; e
+v) incidência da Súmula 568/STJ (danos morais).
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da violação do art. 1.022 do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição, obscuridade ou erro material. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente ao não afastamento da obrigação de custeio de tratamento de câncer (procedimento ou medicamento) nos termos recomendado pelo médico, se a doença é coberta contratualmente, ainda que ausente de previsão no rol da ANS, sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+Por fim, observa-se que a parte agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC.
+2. Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 10, § 13, da Lei 9.656/98, 373, 927 e 1.039, todos do CPC, 51, IV, do CDC, 421, caput e parágrafo único, do CC/02, apesar da oposição de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Imperioso frisar, novamente, no que se refere à alegação de prequestionamento da matéria em razão do teor do art. 1.025 do CPC, que o dispositivo citado dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. Entretanto, na situação posta em análise, esta Corte não entende pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 211 do STJ.
+3. Da súmula 568/STJ
+Nas razões do agravo interno, a parte agravante defende a não incidência da Súmula 568/STJ, de modo a não existir entendimento pacificado nesta Corte Superior na hipótese (obrigatoriedade de cobertura), pois "(..) esse Superior Tribunal de Justiça, em outra ocasião, já se posicionou no sentido de que as Operadoras de Saúde não possuem a obrigação de custear procedimento que não esteja incluído no rol da ANS." (e-STJ, fl. 1.486).
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça que entende que, independentemente da discussão a respeito da natureza do rol da ANS, há obrigatoriedade de cobertura de tratamento contra o câncer.
+Para isso trouxe os seguintes precedentes: AgInt no AgInt no AREsp n. 2.346.356/SP (Terceira Turma, DJe de 28/2/2024) e AgInt no REsp n. 2.104.608/SP (Quarta Turma, DJe de 11/3/2024).
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+4 Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca da conclusão da ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, não demandaria o reexame de fatos e provas.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+5. Da súmula 568/STJ
+Nas razões do agravo interno, a parte agravante defende a não incidência da Súmula 568/STJ, pois "(..) em relação aos danos morais por negativa administrativa, essa Corte, em outros casos análogos, já se posicionou no sentido de que, havendo discussão plausível sobre o contrato, não há que se falar em dano moral." (e-STJ, fl. 1.488).
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça que entende que, a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente.
+Para isso trouxe os seguintes precedentes: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na situação dos autos, a decisão agravada dispôs que o Tribunal de origem condenou a agravante no pagamento de compensação por danos morais examinando as circunstâncias específicas da hipótese quanto à experimentação de agravamento da situação psicológica do paciente, não merecendo reforma o acórdão, portanto, neste ponto.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Necessário salientar que o único julgado colacionado pela agravante (REsp 2.019.618/SP, Terceira Turma, DJe de 1/12/2022) não se refere à obrigatoriedade de cobertura de tratamento contra o câncer, independentemente da discussão a respeito da natureza do rol da ANS, estando esse entendimento consolidado no STJ, não havendo que se falar em dúvida razoável na interpretação do contrato.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
