@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em julgamento da Apelação Criminal n. 10621.15000656-0/001.
+Consta dos autos que os recorridos WELLINGTON ALVES DA SILVA, DIEGO DE OLIVEIRA SANTOS e DIOGO ANTONIO ALVES foram condenados pela prática do delito tipificado no art. 121, § 2º, incisos I, II e IV, do Código Penal - CP (homicídio qualificado), respectivamente, às penas de 19 anos e 3 meses de reclusão, 22 anos de reclusão e 24 anos de reclusão, todos em regime inicial fechado (fls. 1.195/1.201).
+Recurso de apelação interposto pela defesa foi provido para anular a decisão do Tribunal do Júri, submetendo os apelantes a novo julgamento, afastando a qualificadora do motivo torpe (fl. 1.424). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - MOTIVO TORPE E MOTIVO FÚTIL - ERRO QUE PROVOCOU PERPLEXIDADE NA QUESITAÇÃO - RECURSOS PROVIDOS." (fl. 1.419)
+Embargos de declaração opostos pela acusação foram rejeitados, nos termos do acórdão de fls. 1.548/1.552.
+Em recurso especial (fls. 1.570/1.600), a acusação apontou violação aos arts. 121, § 2º, incisos I, II e IV, do Código Penal - CP; 3º, 421, 593, III, alíneas "a" e "d" e § 3º, e 619 do Código de Processo Penal - CPP, e 1.025 do Código de Processo Civil - CPC, aduzindo o seguinte:
+"A Corte de origem, entrementes, rejeitou os aclaratórios ministeriais (fls. 1.139/1.141v), mantendo-se silente/omissa quanto às seguintes questões ali suscitadas. Vejam-se:
+a) a imutabilidade da decisão de pronúncia, após o julgamento pelo Tribunal do Júri, porquanto eventuais recursos manejados contra decisum prolatado pelo Tribunal popular são de fundamentação vinculada;
+b) eventual defeito na quesitação da qualificadora do motivo torpe não foi arguido em momento oportuno, encontrando-se preclusa a anulação do iulqamento pelo Tribunal do Júri, assim como resta preclusa a análise quanto à pertinência da qualificadora do motivo torpe, pois o Conselho de Sentença acatou os termos pronúncia;
+c) é possível que o crime de homicídio seja qualificado por mais de uma qualificadora de índole subjetiva, in casu, de motivação torpe e fútil, não havendo óbice à coexistência das qualificadores supra-aludidas para um mesmo fato;
+d) o próprio aresto apontou que um som alto no estabelecimento da vítima motivou o homicídio (motivo fútil), e que este foi planeiado e executado para vingar o comportamento do ofendido de se indispor com os recorridos; e
+e) ao afastar a qualificadora do motivo torpe, o Tribunal a quo deu nova interpretação jurídica aos fatos, usurpando a competência do Júri Popular.
+Assim agindo, violou o aresto os artigos 121, § 2º , incisos I, II e IV, do Código Penal, 3º , 421, 593, inciso III, alíneas "a" e "d", e § 3º, 619 do Código de Processo Penal e 1.025 do Código de Processo Civil." (fls. 1.583/1.584)
+Requereu a anulação do acórdão recorrido e restabelecimento da qualificadora do motivo torpe.
+Contrarrazões de WELLINGTON ALVES DA SILVA e DIEGO DE OLIVEIRA SANTOS (fls. 1.620/1.627 e fls. 1.641/1.649).
+Admitido o recurso no TJ (fls. 1.652/1.653), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 1.668/1.672).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS anulou a decisão dos jurados pelas seguintes razões:
+"Os apelantes foram pronunciados nos exatos moldes da capitulação da denúncia (homicídio qualificado pela motivação fútil, pela motivação torpe e pela utilização de recurso que dificultou a defesa da vítima).
+ ..
+A motivação de um crime não pode ocupar duas qualificadoras. A circunstância de natureza subjetiva (motivo, o antecedente psicológico do dolo) deve refletir uma qualificadora, estudando a doutrina a distinção entre futilidade e torpeza da motivação.
+No caso concreto, há defeito na quesitação que gerou perplexidade nas respostas e deixou bem evidente a impossibilidade da imputação do homicídio qualificado pelo motivo fútil e pelo motivo torpe ao mesmo tempo.
+Lê-se:
+O crime foi praticado por motivo torpe, tendo os acusados premeditado toda a ação criminosa e voltado ao bar no dia seguinte, previamente ajustados, para ceifar a vida da vítima
+Observa-se que o quesito não narra, identifica, descreve, qual seria o motivo torpe (vingança por discussão tola no dia anterior). Se assim fizesse revelaria a dupla quesitação sobre motivação - a reles discussão anterior está a identificar a futilidade e também estaria a sustentar a atuação por vingança, o que não pode ser mantido.
+Há erro que legitima a cassação do veredito.
+A pronúncia não foi alvo de recurso em sentido estrito. Para este(s) recurso(s) de apelação, é certo afirmar que se trata de recurso de fundamentação vinculada. Isso não significa análise exclusivamente do que foi alegado pela defesa. Significa que o pano de fundo da revisão é o fundamento do apelo. Por isso, está autorizada a corte revisora a apontar e afastar ilegalidade (erro) cujo pano de fundo é a fundamentação que sustenta a interposição do apelo, ainda que sem correspondência exata com as razões apresentadas.
+Cabe, portanto, a esta corte revisora, afastar da imputação que será novamente apresentada ao Júri a qualificadora do motivo torpe, subsistindo a qualificadora do motivo fútil assim quesitado: "O crime foi praticado por motivo fútil, em decorrência de reles discussão ocorrida no dia anterior "
+Com essas considerações, dou provimento aos recursos para, pela fundamentação acima, cassar o veredicto, submetendo os apelantes a novo julgamento, afastando a qualificadora do motivo torpe." (fls. 1.424/1.423)
+Extrai-se dos trechos acima que Tribunal a quo entendeu pela impossibilidade da imputação da prática do delito de homicídio qualificado por motivo fútil e por motivo torpe de forma concomitante. Em consequência, constatou defeito na quesitação que, ao não especificar qual seria o motivo torpe (vingança por discussão tola no dia anterior), não deixou transparecer que a discussão em questão estaria consubstanciando o motivo fútil (ação por motivo tolo) e o motivo torpe (ação por vingança).
+Tal entendimento não encontra amparo na jurisprudência desta Corte, na medida em que, embora não seja possível a cumulação de duas ou mais qualificadoras quando advindas de mesmo fato, o defeito da quesitação que, supostamente, revelaria tal ocorrência, não teria sido oportunamente aventado na sessão de julgamento do Plenário do Júri, razão pela qual não poderia o Tribunal a quo reconhecê-lo e repará-lo.
+Sobre o entendimento acima exposto, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊN CIA. CONTRADIÇÃO NA QUESITAÇÃO E INCOMPATIBILIDADE ENTRE AS QUALIFICADORAS. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não viola o princípio da colegialidade, por haver previsão legal e regimental, a decisão monocrática em que o relator nega provimento ao recurso especial quando o acórdão impugnado está em consonância com a jurisprudência dominante acerca do tema, como no presente caso.
+Precedentes.
+2. É possível a cumulação de duas ou mais qualificadoras quando oriundas de fatos ou condutas distintas, como na hipótese, de modo que a quesitação das adjetivadoras do motivo torpe e do motivo fútil, que foram fundadas em circunstâncias fáticas diferentes, e o reconhecimento delas pelos jurados não viola os preceitos do art. 564, parágrafo único, do CPP.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.274.959/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/8/2024, DJe de 29/8/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. HOMICÍDIO QUALIFICADO. QUESITAÇÃO. NULIDADE NÃO ARGUIDA EM PLENÁRIO. PRECLUSÃO. OCORRÊNCIA. PRISÃO PREVENTIVA. AUSÊNCIA DE PRESSUPOSTOS. SÚMULA N. 7/STJ. EXECUÇÃO PROVISÓRIA DA PENA. AGRAVO DESPROVIDO.
+1. Fixou-se a jurisprudência deste Tribunal Superior no sentido de que eventuais irregularidades atinentes à quesitação ofertada aos jurados caracterizam nulidade relativa, ensejando a sua imediata contestação e a prova do prejuízo para a parte a quem aproveita.
+Assim, constando do acórdão proferido pelo Tribunal de origem que não houve, no momento oportuno, manifestação de irresignação por parte da defesa, está operada a preclusão.
+2. Entendendo o Tribunal de origem, soberano na análise dos elementos fáticos da lide, que a custódia cautelar era imprescindível para assegurar a aplicação da lei penal, notadamente diante da ausência de vínculos do acusado com o distrito da culpa, a reversão de tal conclusão esbarraria no disposto no enunciado 7 da Súmula de Jurisprudência deste Tribunal Superior.
+3. "A execução provisória da pena é consectário lógico do esgotamento da jurisdição das instâncias ordinárias, não necessitando de fundamentação a determinação do cumprimento provisório da pena fixada" (HC n. 376.915/SP, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/4/2017, DJe de 8/5/2017).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.354.879/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2019, DJe de 10/9/2019.)
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRIBUNAL DO JURI. ACOLHIMENTO DA TESE DE TENTATIVA DE HOMICÍDIO. QUESITO SOBRE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. DESNECESSIDADE. PRECEDENTES. NULIDADE NA QUESITAÇÃO. FALTA DE ALEGAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO.
+1. Quanto à quesitação no Tribunal do Júri, é assente neste Superior Tribunal de Justiça o entendimento de que o acolhimento da tese de homicídio tentado e, pois, do animus necandi, torna desnecessário, por incompatibilidade lógica, o quesito de desclassificação para lesões corporais. Precedentes.
+2. No mais, de acordo com entendimento pacífico deste Superior Tribunal de Justiça, em atenção ao que estabelece o artigo 571, inciso VIII, do Código de Processo Penal, as nulidades ocorridas no Plenário do Júri, no que se refere à quesitação, devem ser apontadas no momento oportuno, sob pena de preclusão.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.654.881/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 25/4/2017, DJe de 3/5/2017.)
+Destarte, impõe-se o afastamento da anulação do veredicto do Tribunal do Júri que, no caso, concluiu pela prática do delito do art. 121, § 2º, incisos I, II e IV, do CP (homicídio qualificado por motivo torpe, motivo fútil e recurso que dificulte a defesa). Em face da presença de outras teses defensivas não examinadas pelo Tribunal a quo, determina-se o retorno dos autos a essa instância, a fim de que prossiga no julgamento do apelo defensivo.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para afastar a anulação do veredicto do Júri, nos termos acima expostos, e determinar o retorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento do recurso de apelação defensivo.
+Publique-se. Intimem-se.
+ EMENTA
