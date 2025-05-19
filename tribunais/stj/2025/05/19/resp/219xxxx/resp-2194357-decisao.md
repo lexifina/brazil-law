@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Antônio Eduardo Galhardo Gasques contra decisão da Corte de origem que negou seguimento ao recurso especial, ao fundamento de que, "em relação a possibilidade da utilização da sentença trabalhista como início de prova material para reconhecimento da qualidade de segurado, a matéria foi submetida à sistemática dos recursos repetitivos no REsp 1.938.265/MG - Tema 1.188  ..  não remanesce possibilidade alguma de acolhimento da tese em favor da parte recorrente, alternativa àquelas já firmadas pelo Superior Tribunal de Justiça." (e-STJ, fls. 699-701).
+É o relatório. Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Feitos esses esclarecimentos, de pronto observa-se que o recurso não merece trânsito.
+Consoante expressamente disposto no §2º do art. 1.030 do CPC/2015, o agravo interno é único recurso cabível para impugnar decisão que, com fulcro no art. 1.030, I, b, do CPC/2015, nega seguimento a recurso especial.
+Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Nesse contexto, a interposição de agravo em recurso especial configura erro grosseiro, sendo inaplicável a fungibilidade recursal, porquanto inexiste dúvida objetiva quanto ao recurso a ser manejado.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO DO APELO NOBRE. ORIENTAÇÃO FIRMADA EM RECURSO REPETITIVO. DESCABIMENTO. AGRAVO INTERNO. DECISÃO OMISSA. ERRO GROSSEIRO. CONSTATAÇÃO.
+1. De acordo com o disposto no art. 1.030, § 2º, do CPC/2015, o agravo interno é o recurso cabível contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos, sendo a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+2. Caso em que, apesar de ter interposto o agravo interno na Corte de origem para impugnar a aplicação do tema repetitivo, a agravante também se insurgiu contra esse fundamento na argumentação do agravo em recurso especial, cuja interposição, no ponto, configura erro grosseiro a afastar a aplicação do princípio da fungibilidade recursal.
+3. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes.
+4. Agravo interno parcialmente conhecido e desprovido. (AgInt no AREsp n. 2.442.133/SC, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 14/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC/2015. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme consolidada jurisprudência desta Corte, a interposição de agravo em recurso especial, em lugar de agravo interno, contra decisão do Tribunal de origem que nega seguimento ao apelo nobre com base em recurso repetitivo caracteriza erro grosseiro, pois, ante a disposição expressa do art. 1.030, § 2º, do CPC/2015, inexiste dúvida objetiva acerca da insurgência cabível, o que impossibilita a aplicação dos princípios da fungibilidade recursal ou instrumentalidade das formas. Precedentes.
+3. Observada a dupla natureza da fundamentação constante do juízo de admissibilidade, o procedimento adequado a ser adotado pela parte insurgente seria a interposição simultânea de agravo interno, suscitando eventual equívoco na aplicação do recurso repetitivo, e de agravo em recurso especial, para infirmar os demais fundamentos que levaram à inadmissão do apelo nobre. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.323.296/PE, rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 4/10/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE NA ORIGEM. CONCLUSÃO DE QUE O ACÓRDÃO RECORRIDO ESTÁ EM CONFORMIDADE COM RECURSO REPETITIVO. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.  ..
+I - Nos termos do art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STF ou do STJ exarado no julgamento de recursos repetitivos.
+II - Na hipótese, a interposição exclusiva de agravo em recurso especial para impugnar decisão que negou seguimento ao recurso especial caracteriza erro grosseiro, o que afasta a aplicação do princípio da fungibilidade recursal e impede o conhecimento do recurso. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.665.229/SP, rel. Min. Messod Azulay Neto, Quinta Turma, DJe de 30/10/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO AO APELO NOBRE COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CPC. INEXISTÊNCIA DE QUESTÃO JURÍDICA REMANESCENTE. DESCABIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE, OUTROSSIM, PERDEU SEU OBJETO COM O DESPROVIMENTO DO AGRAVO INTERNO PELA CORTE DE ORIGEM.
+1. "Se o recurso especial teve seu seguimento negado, nos termos do art. 1.030, I, b, do CPC/2015, o único recurso cabível será o agravo interno de que trata do § 2º do dispositivo legal em comento. A interposição do agravo previsto no art. 1.042 do CPC/2015 caracteriza-se como erro grosseiro" (AgInt no AREsp n. 2.511.473/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 22/8/2024).
+2. Hipótese em que, após negar seguimento ao recurso especial com fundamento no Tema Repetitivo n. 880/STJ, o Tribunal de origem também o inadmitiu "no remanescente", com base na Súmula 7/STJ em claro erro material, uma vez que não havia questão jurídica remanescente a ser examinada.
+3. Mesmo se adotada a premissa defendida pela parte agravante de que o trânsito do apelo nobre foi obstado por dois alicerces diversos - "teve o seguimento negado com base nos arts. 1.030, I, "b", e 1.040, I, do CPC/2015 e foi inadmitido com base no art. 1.030, V, CPC/2015" -, ainda assim seria de rigor o reconhecimento de que ambos os fundamentos referiam-se à mesma questão jurídica. Logo, desprovido o agravo interno pelo Sodalício de origem, automaticamente houve a perda do objeto do agravo em insurgência especial.
+4. "Conforme a jurisprudência desta Corte Superior, "caso o exame da questão não traga nenhum resultado prático à parte recorrente, fica afastado o binômio utilidade/necessidade, com a configuração da ausência de interesse recursal" (AgInt no AREsp n. 2.033.844/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/5/2023.)" (AgInt no REsp n. 2.090.607/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/4/2024).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.425.744/PR, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 10/10/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários sucumbenciais por não ter sido fixada tal verba nas instâncias ordinárias, sendo inaplicável o art. 85, § 11, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC/2015. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. CONSTATAÇÃO. AGRAVO NÃO CONHECIDO.
