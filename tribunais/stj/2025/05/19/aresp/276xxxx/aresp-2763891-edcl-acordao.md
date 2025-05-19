@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não é omisso o acórdão que, de maneira clara e fundamentada, demonstra as razões pelas quais incide a Súmula n. 7 do STJ ao caso, a impedir a análise de mérito do recurso especial.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ESTEFÂNIO FELÍCIO MARTINS opõe embargos de declaração ao acórdão proferido pela Sexta Turma, que negou provimento ao agravo regimental.
+A defesa aponta omissão no julgado, porquanto não houve pronunciamento acerca da superação da Súmula n. 7 do STJ, "diante das peculiaridades do caso concreto e eventual concessão de Habeas Corpus "ex officio" para anular o julgamento com base no art. 593, III, "d" do CPP, uma vez que a decisão dos jurados foi manifestamente contrária às provas dos autos e submeter o Embargante a novo julgamento" (fl. 2.650).
+Pleiteia que as omissões sejam supridas, de modo que sejam examinados os pleitos de superação da Súmula n. 7 do STJ e de eventual concessão de habeas corpus de ofício.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não é omisso o acórdão que, de maneira clara e fundamentada, demonstra as razões pelas quais incide a Súmula n. 7 do STJ ao caso, a impedir a análise de mérito do recurso especial.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Importante, também, destacar que, conforme compreende o STJ, "Não é omisso o acórdão que, de maneira detalhada, confirma a decisão que não conheceu do agravo em recurso especial, haja vista a parte não haver atacado com propriedade todos os argumentos usados para a não admissão do seu recurso especial" (EDcl no AgRg no AREsp n. 2.522.786/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+No caso, constato que o acórdão embargado não foi omisso.
+Constou do julgado combatido que, nos recursos nos quais a alegação é de decisão dos jurados manifestamente contrária à prova dos autos, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pela Corte popular. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo. Caso contrário, deve ser preservado o juízo feito pelos jurados, no exercício da sua soberana função constitucional, como ocorreu na espécie.
+Na hipótese, ficou expressamente consignado no ato ora impugnado que o Tribunal a quo, ao manter a decisão dos jurados, "registrou haver nos autos testemunhos judicializados prestados por testemunhas oculares do crime, que declararam haver o réu insinuado que os companheiros da vítima também deveriam ser mortos e haver ele impedido o socorro ao ofendido" (fl. 2.641).
+O acórdão embargado, ainda, asseriu que, constatado haver a Corte local mantido a condenação do insurgente por verificar que o veredito proferido pelo Conselho de Sentença encontrou lastro no conjunto probatório constante do feito, não cabe ao Tribunal a quo, tampouco a esta Corte Superior, valorar as provas dos autos, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É cabível, tão somente, averiguar se a versão acolhida pelos jurados encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame. Tais considerações, aliás, afastam a possibilidade de concessão de habeas corpus de ofício.
+Nesse contexto, o julgado ora questionado foi claro em expor as razões pelas quais é de rigor a incidência da Súmula n. 7 do STJ, pois, como lá consignado, para se infirmar a conclusão dos jurados e submeter o réu a novo julgamento, seria necessário o revolvimento probatório, providência incabível em recurso especial.
+Portanto, não se verifica nenhum dos vícios apontados no acórdão recorrido.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
