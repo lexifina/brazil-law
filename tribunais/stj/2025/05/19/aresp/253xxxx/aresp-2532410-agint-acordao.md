@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RIO GRANDE ENERGIA S/A da decisão de relatoria da Presidência do Superior Tribunal de Justiça (STJ) que não conheceu do recurso especial porque a revisão do acórdão recorrido demandaria a revisão de fatos e provas e pela ausência de prequestionamento dos temas (fls. 225/229).
+A parte agravante afirma que questiona a ausência de fundamentos para determinação da medida de inversão do ônus da prova, na forma do art. 373 do Código de Processo Civil (CPC), sendo a decisão na origem de caráter genérico e subjetiva frente as características do caso, de forma a se tratar de questão eminentemente jurídica por intermédio de exame das premissas já assentadas na origem.
+A parte adversa não apresentou impugnação (fl. 255).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+VOTO
+Primeiramente, quanto às teses de violação ao art. 489 do CPC e divergência jurisprudencial quanto ao art. 373, I, também do CPC, em que foi reconhecida a incidência da Súmula 282 do Supremo Tribunal Federal (STF) pela ausência de prequestionamento, verifico que não houve impugnação específica por parte do ora agravante, razão pela qual mantenho a decisão agravada nos pontos em seus exatos termos.
+No mais, o Tribunal de origem, ao examinar o processo, resolveu o seguinte (fls. 129/135):
+A matéria devolvida reside na inaplicabilidade da inversão do ônus da prova, tendo em vista a falta de hipossuficiência técnica da empresa agravada - comércio varejista de produtos alimentícios -, em razão da assessoria especializada por profissional de engenharia elétrica; no descabimento da produção de prova negativa do cometimento de falhas na prestação do serviço, com base no art. 373, §2º, do CPC; no ônus processual do agravado, na comprovação dos fatos constitutivos dos direitos alegados na inicial; na prestação de informações acerca de outras modalidades tarifárias para a empresa recorrida, desde 2008; e, notadamente, em 07.11.2011, o envio da "Carta de Opções Tarifárias", a revelar a ciência do agravado acerca das opções de tarifas; bem como na inexistência das faturas de energia elétrica pretéritas requeridas, haja vista o transcurso do lapso temporal de 5 anos, consoante art. 163, da Res. nº 414/2012 da ANEEL.
+
+Dos elementos dos autos, denota-se o aforamento da presente demanda de rito ordinário por parte da empresa ora recorrida - Supermercado Marcolan LTDA -, com vistas à restituição, em dobro, dos valores cobrados a título do fornecimento do serviço de energia elétrica, em razão da incorreta classificação tarifária na modalidade de Alta Tensão Convencional A4 - Industrial -, e o direito ao enquadramento na tarifa Horo-Sazonal Verde A4 - Industrial - evento 3, PROCJUDIC1.
+Depois, a contestação - evento 3, PROCJUDIC2 (fls. 12-34); a réplica - evento 3, PROCJUDIC3, fls. 47-50, e PROCJUDIC4, fls. 1-7; a intimação das partes acerca do interesse na produção de provas (fl. 21); o desinteresse da empresa autora (fl. 24); e o pedido da concessionária de prova documental, pericial e testemunhal (fls. 25-27).
+Daí o saneamento do processo, com o deferimento das provas pericial e oral, com a designação de perito judicial (fls. 28-30); e a digitalização dos autos - evento 6.
+Por fim, o pedido de esclarecimentos por parte do perito - evento 23 -; a petição da parte autora - ensejou a decisão agravada -, para fins da inversão do ônus da prova, bem como para a intimação da demandada para a juntada das tabelas de preço das tarifas convencional e horossazonal dos anos de 2002 a 2012; bem como das faturas de energia do período objeto da perícia - outubro de 2007 a janeiro de 2012 - evento 28 -; e o provimento ora vergastado - evento 32.
+
+De igual forma, indicada a superioridade técnica da concessionária recorrente, tanto para a avaliação do enquadramento tarifário, tendo em vista seu mister, como a obtenção dos documentos constantes dos arts. 57 e 58 da Resolução supramencionada, haja vista dever decorrente da própria concessão.
+
+Portanto, evidenciada a verossimilhança das alegações da empresa autora agravada, e a hipossuficiência técnica, haja vista a relação de consumo, com base no art. 6º, III, do CDC, a sugerir a dilação probatória na forma posta na decisão hostilizada, notadamente o ônus da concessionária, para fins da apresentação dos documentos - tabelas de preço das tarifas convencional e horossazonal dos anos de 2002 a 2012; e faturas de energia elétrica de outubro de 2007 a janeiro de 2012 -, especialmente em razão da confecção por parte da própria demandada, bem como da utilidade para o perito judicial na elaboração do laudo pericial.
+Conforme consignado na decisão agravada, mediante amplo exame dos contextos fático e probatório dos autos, comprovou-se, por intermédio de fundamentação detalhada e exaustiva, contando inclusive com laudo pericial, a hipossuficiência da parte a autorizar a inversão do ônus da prova.
+O argumento da parte agravante de mera questão de direito não prospera visto que o debate - tese relativa à impossibilidade de inversão do ônus da prova - constitui justamente o ponto controvertido que foi decidido por intermédio do amplo exame dos autos, sem mencionar as demais nuances inerentes ao processo, não havendo que se falar, assim, em existência de circunstância ou fato incontroverso, o qual a parte omitiu-se em apontar.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
