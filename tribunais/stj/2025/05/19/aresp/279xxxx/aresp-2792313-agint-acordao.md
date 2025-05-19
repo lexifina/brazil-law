@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  DISPOSITIVO  CONSTITUCIONAL.  ALEGAÇÃO  INVIÁVEL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.
+1.  Compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar  nesta  seara  a  violação  de  dispositivos  constitucionais  ainda  que  para  fins  de  prequestionamento,  sob  pena  de  invasão  da  competência  atribuída  ao  Supremo  Tribunal  Federal.
+2.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282/STF.
+3.  Agravo  interno  provido  para,  reconsiderando  a  decisão  agravada,  conhecer  do  agravo  e  não  conhecer  do  recurso  especial
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  COMPANHIA  DE  DESENVOLVIMENTO  HABITACIONAL  E  URBANO  DO  ESTADO  DE  SÃO  PAULO  -  CDHU  -  contra  a  decisão  da  Presidência  deste  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  devido  à  irregularidade  de  representação  processual  (e-STJ  fls.  657/658).
+Nas  presentes  razões,  a  agravante  aduz  que  "(..)  a  falta  de  juntada  de  procuração  é  mera  irregularidade,  SANÁVEL  A  QUALQUER  TEMPO.  No  caso,  mostra-se  que  foi  juntada  apenas  um  dia  depois  do  prazo  estipulado  por  motivos  de  instabilidade  no  sistema"  (e-STJ  fl.  666).
+Diante  da  renúncia  de  mandato  informada  às  e-STJ  fls.  680/690  e  691/701  e  da  intimação  da  recorrente,  esta  regularizou  a  sua  representação  processual  às  e-STJ  fls.  707/744.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  DISPOSITIVO  CONSTITUCIONAL.  ALEGAÇÃO  INVIÁVEL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.
+1.  Compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar  nesta  seara  a  violação  de  dispositivos  constitucionais  ainda  que  para  fins  de  prequestionamento,  sob  pena  de  invasão  da  competência  atribuída  ao  Supremo  Tribunal  Federal.
+2.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282/STF.
+3.  Agravo  interno  provido  para,  reconsiderando  a  decisão  agravada,  conhecer  do  agravo  e  não  conhecer  do  recurso  especial
+VOTO
+  Em  razão  da  agravante  haver  promovido  a  regularização  da  representação  processual  às  e-STJ  fls.  707/744,  reconsidera-se  a  decisão  de  e-STJ  fls.  657/658  e  passa-se  a  julgar  o  agravo  em  recurso  especial.
+Trata-se  de  agravo  interposto  por  COMPANHIA  DE  DESENVOLVIMENTO  HABITACIONAL  E  URBANO  DO  ESTADO  DE  SÃO  PAULO  -  CDHU  contra  a  decisão  que  inadmitiu  recurso  especial.  O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA  DE  AÇÃO  COMINATÓRIA  C.C.  INDENIZAÇÃO.  Decisão  que  autorizou  o  levantamento  de  quantias  incontroversas  depositadas  nos  autos  referente  ao  dano  moral  e  aos  honorários  advocatícios.  Insurgência  recursal.  Alegações  referentes  à  obrigação  de  fazer  convertida  em  perdas  e  danos  que  não  guardam  pertinência  com  a  decisão  recorrida.  Decisão  mantida.  RECURSO  IMPROVIDO"  (e-STJ  fl.  606).
+No  recurso  especial,  a  recorrente  alega  violação  dos  artigos  537  do  Código  de  Processo  Civil  e  5º,  LV,  da  Constituição  Federal.
+Sustenta,  em  síntese,  que  a  conversão  da  obrigação  de  fazer  em  perdas  e  danos  foi  realizada  de  forma  excessiva,  sem  considerar  os  meios  menos  gravosos  para  o  executado,  violando  o  devido  processo  legal  e  os  princípios  da  razoabilidade  e  proporcionalidade.
+Sem  as  contrarrazões  (e-STJ  fl.  623),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+De  início,  nos  termos  do  artigo  105,  III,  da  Constituição  Federal,  compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar  nesta  seara  a  violação  de  dispositivos  constitucionais  ainda  que  para  fins  de  prequestionamento,  sob  pena  de  invasão  da  competência  atribuída  ao  Supremo  Tribunal  Federal  (artigo  102,  III,  da  Carta  Magna).
+No  que  se  refere  à  ofensa  ao  artigo  537  do  CPC,  verifica-se  que  a  matéria  versada  no  dispositivo  apontado  como  violado  no  recurso  especial  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  sequer  de  modo  implícito,  e  não  foram  opostos  embargos  declaratórios  com  a  finalidade  de  sanar  omissão  porventura  existente.  Por  esse  motivo,  ausente  o  requisito  do  prequestionamento,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  não  ventilada,  na  decisão  recorrida,  a  questão  federal  suscitada."
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  CONHECIDO  COMO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  ALEGADA  VIOLAÇÃO  AOS  ARTS.  26  E  29  DA  LEI  10.931  E  789  DO  CPC.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  NÃO  OPOSIÇÃO  DE  EMBARGOS  DE  DECLARAÇÃO.  ATRAÇÃO  DO  ENUNCIADO  282/STF.  EMBARGOS  DE  DECLARAÇÃO  CONHECIDOS  COMO  AGRAVO  INTERNO  AO  QUAL  SE  NEGA  PROVIMENTO"  (EDcl  no  REsp  1.789.134/RS,  Relator  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  30/11/2020,  DJe  de  3/12/2020  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  COMPLEMENTAÇÃO  DE  BENEFÍCIO  PREVIDENCIÁRIO.  PREQUESTIONAMENTO.  NÃO  OCORRÊNCIA.  SÚMULA  282/STF.  PRESCRIÇÃO  QUINQUENAL.  ALCANCE  DAS  PARCELAS  VENCIDAS  ANTERIORMENTE  AO  QUINQUÊNIO  QUE  PRECEDE  O  AJUIZAMENTO  DA  AÇÃO.
+1.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados  impede  o  conhecimento  do  recurso  especial.
+2.  O  acórdão  recorrido  que  adota  a  orientação  firmada  pela  jurisprudência  do  STJ  não  merece  reforma.
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.097.857/SP,  Relatora  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  10/11/2017  -  grifou-se).
+Ante  o  exposto,  reconsiderando  a  decisão  de  e-STJ  fls.  657/658,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Deixo  de  majorar  os  honorários  advocatícios,  conforme  determina  o  artigo  85,  §  11,  do  CPC,  haja  vista  que  estes  não  foram  arbitrados  na  origem.
+É  o  voto.
