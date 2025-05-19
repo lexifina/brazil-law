@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/05/2025 a 19/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial): para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 1961):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. 1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ. 2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016). 3. Agravo interno não provido.
+Os embargantes alegam, em suma, que o julgado embargado deixou de considerar a demonstração, feita no agravo interno, de que (fls. 1973/ 1974):
+3. Constata-se, assim, manifesta omissão quanto à necessária análise do conteúdo do agravo interno, notadamente no que concerne à demonstração de que os argumentos recursais estavam alinhados à impugnação dos fundamentos da decisão agravada, circunstância que, caso apreciada, poderia conduzir a um desfecho distinto.
+4. O agravo interno foi manejado com o propósito de evidenciar que o recurso especial preenchia integralmente aos requisitos de admissibilidade estabelecidos pela Constituição da República, uma vez que veiculava questões eminentemente jurídicas, dissociadas de qualquer reexame fático-probatório. Para embasar sua pretensão, a Embargante apontou a ocorrência de violações normativas que justificariam o processamento do recurso, nos seguintes termos:
+- Erro material não sanado (art. 1.022, inc. III, do CPC): O Tribunal Regional Federal inovou na fundamentação ao imputar à Embargante argumentos inexistentes na autuação fiscal originária, incorrendo em flagrante distorção dos fatos. Ademais, os embargos de declaração opostos para sanar tal equívoco foram indevidamente rejeitados, sem a necessária apreciação do vício apontado, em manifesta afronta ao dever constitucional de fundamentação das decisões judiciais.
+- Autonomia da importação por encomenda (art. 118, § 3º, da Lei n.º 11.281/2006): A mera negociação entre a importadora e o fornecedor estrangeiro não possui o condão de descaracterizar a operação de importação por encomenda, uma vez que tal circunstância não encontra qualquer óbice na legislação vigente. Não obstante, o Tribunal a quo, em manifesta interpretação equivocada, presumiu indevidamente que qualquer tratativa entre importador e exportador teria o efeito automático de inviabilizar esse regime aduaneiro, desconsiderando a autonomia jurídica que lhe é inerente e incorrendo, assim, em erro na aplicação do direito.
+- Desproporcionalidade da pena de perdimento (art. 2º, caput e § 1º, inc. VI, da Lei n.º 9.784/1999): A sanção de perdimento imposta à Embargante configura medida excessiva e desproporcional, sobretudo por se tratar da penalidade mais gravosa prevista no ordenamento aduaneiro.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial): para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se, inicialmente, que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2015.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, verifica-se que o acórdão embargado decidiu a controvérsia de forma clara e fundamentada, ao assentar que (fls. 1964/1965):
+De início, observa-se que, no mais, o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Diferentemente do que defende o agravante, não se observa, da leitura do AREsp, a impugnação específica da referida fundamentação da decisão que obstou a subida do recurso especial, de modo a expor eventual equívoco na decisão ora agravada.
+Para afastar a aplicação da Súmula 7/STJ, não basta a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da demanda, sendo imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice.
+Sublinha-se que ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão agravada foram lançados e impugná-los, de forma individualizada e específica (EAR Esp 746.775/PR, Rel. Min. João Otávio de Noronha, Corte Especial, julgado em 19/9/2018), o que não ocorreu no caso dos autos.
+Assim, a falta de impugnação específica ou a insurgência genérica contra fundamento adotado na decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo.
+Ora, a mera discordância com a solução jurídica empregada no bojo do decisum embargado não dá ensejo à oposição de embargos de declaração, na medida em que tal modalidade recursal apenas ostenta efeito integrativo.
+As alegações do embargante não dizem respeito a vícios de integração constantes da decisão embargada, razão pela qual a sua não concordância com as teses nela sufragas deve ser manifestada na via recursal adequada.
+Isso posto, rejeito os embargos de declaração, considerando a inexistência dos vícios previstos no artigo 1.022 do CPC/2015.
+É como voto.
