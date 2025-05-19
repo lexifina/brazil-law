@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis - SJ/MT, suscitante, e o Juízo de Direito da Vara Única de Guiratinga/MT, suscitado, nos autos de inquérito policial instaurado para apurar suposta prática do crime de contrabando/descaminho por LUCAS PEREIRA CAMPOS, por ter sido surpreendido, na MT-110, em Guiratinga/MT, em fiscalização de rotina, na posse de 570 caixas de "Pinga Pirassununga 51 - cada caixa com 12 litros", desacompanhadas de nota fiscal ou outra documentação comprobatória da origem e recolhimento de tributos.
+O Juízo de Direito da Vara Única de Guiratinga/MT remeteu o feito à Justiça Federal nos seguintes termos (fl. 279):
+No que concerne a esse tema, conforme estabelecido pela Súmula 151 do Superior Tribunal de Justiça, a responsabilidade pela apreciação da questão recai sobre a Justiça Federal, e não a Estadual. Isso se fundamenta no fato de a infração penal ter sido perpetrada em prejuízo dos bens, serviços e interesses vinculados à entidade pertencente à União.
+Em outras palavras, o investigado estaria, em tese, envolvido no transporte de mercadorias no valor de R$ 142.800,00 (cento e quarenta e dois mil e oitocentos reais), desprovidas da devida documentação fiscal, em conformidade com o disposto no artigo 109, inciso IV, da Constituição Federal.
+Vale ressaltar que essa matéria é de ordem pública que pode e deve ser conhecida de ofício e a qualquer tempo.
+Por sua vez, o Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis - SJ/MT suscitou o presente conflito ao argumento de que (fls. 4-5):
+Extrai-se dos autos que a única motivação contida na manifestação do MP-MT e da decisão do Juízo estadual para defenderem a competência da Justiça Federal foi a de que os fatos narrados se enquadrariam nos tipos legais de contrabando ou descaminho.
+Contudo, conforme bem salientado pelo MPF em sua manifestação, não há qualquer indício de cometimento dos citados delitos, pois ausente importação de mercadoria proibida (contrabando), ou mesmo de ingresso no território nacional de mercadorias permitidas, porém sem o devido recolhimento tributário (descaminho). A mercadoria apreendida (aguardente da Marca Pirassununga 51) é de origem nacional e de uso/comercialização lícita.
+Outrossim, também não é o caso de fixação da competência da Justiça Federal em razão da suposta prática de crime contra a ordem tributária da União (esta tese foi aventada apenas na manifestação do MPF - id 2036980286), pois ausente nos autos qualquer informação de supressão de tributo federal. Registre- se que para a consumação do delito tributário citado é necessário a constituição definitiva do crédito tributário pelo fisco federal, situação completamente ausente nos autos.
+Ainda que, em tese, seja possível a ocorrência de supressão de algum tributo federal (situação completamente ausente nos autos até o presente momento), não se pode fixar a competência da Justiça Federal apenas em razão desta "possibilidade totalmente incerta".
+O Ministério Público Federal manifestou-se pela declaração de competência do Juízo de Direito da Vara Única da Comarca de Guiratinga/MT, o suscitado (fls. 305-311).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+No caso em apreço, conforme apontado pelo Ministério Público e pelo Juízo Suscitante, não há falar em delito de contrabando ou descaminho, pois a mercadoria apreendida (aguardente da Marca Pirassununga 51) é de origem nacional e de uso/comercialização lícita.
+Na espécie, embora o Juízo de Direito suscitado tenha aventado a prática em tese dos delitos de contrabando e de sonegação de tributo federal, a afirmação não encontra amparo nos elementos de prova até o momento colhidos no curso do inquérito policial.
+A competência da Justiça Federal estabelecida no artigo 109, IV, da Constituição Federal pressupõe a existência de prejuízo a bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas. Precedentes da Terceira Seção.
+Considerando-se que não há demonstração de que os eventuais delitos não foram cometidos em detrimento de bens, serviços e interesses da União ou sua entidade autárquica, não há falar em competência da Justiça Federal para conhecer do feito.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. ART. 171 DO CÓDIGO PENAL. CRIME DE ESTELIONATO. ART. 109, IV, DA CF. AUSÊNCIA DE PREJUÍZO DE OFENSA A BENS, SERVIÇOS E INTERESSES DA AUTARQUIA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+- Hipótese em que advogada falsificou documento denominado "ato de secretaria", pelo qual exigia de terceiro interessado na propositura de ação previdenciária valores referentes a despesas com serviços de técnico judiciário.
+- A suposta prática delituosa não se subsume às hipóteses de infrações penais de competência Federal de que cuida o art. 109, inciso IV, da Carta Magna. Impende considerar que eventual interesse reflexo da União não é suficiente para atrair a competência da Justiça Federal. Precedentes.
+Agravo regimental desprovido.
+(AgRg no CC 124.601/PR, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), TERCEIRA SEÇÃO, julgado em 09/04/2014, DJe 25/04/2014)
+A possibilidade de descoberta de outras provas e/ou evidências, no decorrer das investigações, levando a conclusões diferentes, demonstra não ser possível firmar peremptoriamente a competência definitiva para julgamento do presente inquérito policial. Contudo, tendo em conta que a definição do Juízo competente em tais hipóteses dá-se em razão dos indícios coletados até então, revela-se a competência da Justiça Estadual para julgamento da presente
+Logo, com razão o juízo suscitante quando afirma a competência da Justiça Estadual para processamento e julgamento do feito.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Guiratinga/MT , ora suscitado .
+Publique-se. Intimem-se.
+EMENTA
