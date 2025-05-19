@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da Vara Criminal de Brumado - BA, suscitante, e o Juízo de Direito da 4ª Vara Criminal de Uberlândia - MG, suscitado, nos autos de inquérito policial instaurado para apurar possível prática do crime de tentativa de estelionato (art. 171, §2º, V, do Código Penal c/c artigo 14, II, do Código Penal), que foi objeto de registro de ocorrência por empresa seguradora.
+Consta nos autos que Washington Macedo da Silva tentou obter vantagem indevida com o pagamento do seguro do caminhão de sua propriedade, subtraído na cidade de Uberlândia/MG. A seguradora não pagou a indenização pois constatou que o número original do chassi do veículo correspondia a outro veículo de propriedade do Exército.
+O Juízo de Direito da 4ª Vara Criminal de Uberlândia - MG, acolhendo manifestação ministerial, declinou competência para o Juízo de Direito da Vara Criminal de Brumado - BA, fundamentando que a competência para investigação dos fatos está sob a jurisdição do local onde o contrato de seguro foi realizado (fls. 127-128).
+O Juízo de Direito da Vara Criminal de Brumado - BA, suscitou o presente conflito, sob o entendimento de que a competência é do lugar onde ocorreu o efetivo prejuízo à vítima (fls. 144-147).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitado (fls. 156-158).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Cinge-se a controvérsia em definir a competência para processar inquérito policial no qual se investiga crime de estelionato, se do do local onde o contrato de seguro foi realizado ou do lugar onde ocorreu o efetivo prejuízo à vítima.
+Em se tratando de inquérito que objetiva apurar a prática de crime de estelionato mediante fraude para obtenção de seguro, a competência para processar o feito segue a regra estabelecida no art. 70, caput, do Código de Processo Penal, ou seja, do local da consumação do crime, que, no caso, é a localidade em que se verificou a prática do último ato de execução (acionamento do seguro para fins de indenização) necessário para a consumação.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. USO DE DOCUMENTOS FALSOS PARA OBTENÇÃO DE SEGURO DPVAT. ABSORÇÃO. ESTELIONATO TENTADO. COMPETÊNCIA DO JUÍZO DO LOCAL EM QUE PRATICADO O ÚLTIMO ATO DE EXECUÇÃO. ART. 70, CAPUT, DO CÓDIGO DE PROCESSO PENAL. HIPÓTESE NÃO PREVISTA NA LEI N. 14.155/2021. PARECER MINISTERIAL ACOLHIDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O estelionato é um crime material, de maneira que se consuma com a ocorrência do resultado material (naturalístico), qual seja, a obtenção de vantagem ilícita.
+2. Não tendo os agentes conseguido obter os valores pretendidos, restou caracterizada a tentativa de estelionato, incidindo, assim, na espécie o disposto no caput do art. 70 do Código de Processo Penal.
+3. Portanto, in casu, a competência para processamento do feito será do local onde foi praticado o último ato de execução, qual seja, Porto Velho/RO.
+4. Não é caso de aplicação do § 4.º do art. 171 do Código Penal, incluído pela Lei n. 14.155/2021, pois a situação dos autos (estelionato mediante golpe em seguradora) não foi referida na novel regra, visto que não se trata de cheque emitido sem provisão de fundos ou transferência bancária com pagamento frustrado (na hipótese, nem sequer houve depósito ou transferência de valores).
+5. Conflito conhecido para declarar competente o Juízo de Direito da 4.ª Vara Criminal de Porto Velho/RO, o Suscitado.
+(CC n. 198.845/RJ, relator Ministro Teodoro Silva Santos, Terceira Seção, julgado em 13/12/2023, DJe de 15/12/2023, grifamos).
+CONFLITO DE COMPETÊNCIA. ESTELIONATO TENTADO. GOLPE DA SEGURADORA. ELEMENTAR DA FRAUDE PRATICADA NO RIO DE JANEIRO. LOCAL DO FLAGRANTE COMO MERO INSTRUMENTO DA ELEMENTAR. FACILIDADE PARA COLHEITA DE PROVAS NO RIO DE JANEIRO. DECLARADO COMPETENTE O JUÍZO DE DIREITO DA 2A VARA CRIMINAL DE MADUREIRA - RJ.
+1. Sabe-se que a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução (art. 70 do CPP).
+2."Em situações excepcionais, a jurisprudência desta Corte tem admitido a fixação da competência para o julgamento do delito no local onde tiveram início os atos executórios, em nome da facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real." (CC 151.836/GO, Rel. Min. Reynaldo Soares da Fonseca, TERCEIRA SEÇÃO, DJe 26/6/2017).
+3. No caso, pelos elementos presentes nos autos, há evidências de que a principal responsável pelo delito de falsa comunicação de crime e por arquitetar a tentativa de estelionato contra a seguradora encontra-se no Rio de Janeiro, localidade em que seria acionado o seguro, sendo que a mera circunstância de o transportador contratado e o carro terem sido encontrados no Estado no Mato Grosso do Sul não pode transferir a apuração das infrações para tal localidade.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de Madureira/RJ, o suscitante.
+(CC n. 169.792/RJ, Ministro Ribeiro Dantas, Terceira Seção, julgado em 11/3/2020, DJe 18/3/2020).
+No caso, os fatos ocorreram na BR 50, KM 80, no Município de Uberlândia - MG, razão pela qual, nos moldes do art. 70 do Código de Processo Penal, a competência para processamento do feito é do Juízo suscitado.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 4ª Vara Criminal de Uberlândia - MG, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
