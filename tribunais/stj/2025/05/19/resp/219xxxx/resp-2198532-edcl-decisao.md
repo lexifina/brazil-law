@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Embargos de Declaração interpostos pela UNIVERSIDADE FEDERAL DE PERNAMBUCO à decisão que não conheceu do Recurso Especial em face da incidência do óbice da Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Em suas razões, sustenta a parte embargante haver omissão quanto à suspensão/sobrestamento do feito pelo Tema n. 1.033/STJ, objeto do Recurso Especial.
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cabe a esta Corte, antes da análise do Recurso Especial, garantir a observância dos procedimentos inerentes à sistemática dos Recursos Repetitivos.
+Em outras palavras, a aplicação da sistemática de julgamento de Precedentes Qualificados precede a análise do recurso, exceto se intempestivo, consoante precedente a seguir reproduzido:
+V - Ultrapassados os óbices processuais objetivos sanáveis (art. 932, parágrafo único, do CPC/2015), e verificado que há afetação para julgamento repetitivo (recurso especial) ou repercussão geral reconhecida (recurso extraordinário), os demais pressupostos relacionados aos óbices à admissibilidade, que dizem respeito à matéria de fundo, tal como a incidência dos enunciados n. 7 e 83 da Súmula do STJ, devem ser superados em respeito à primazia da decisão de mérito (arts. 6º, 317 e 932, parágrafo único, todos do CPC/2015).  ..
+VII - Portanto, antes da verificação da presença de óbices à admissibilidade do recurso especial, deve ser realizada a verificação da existência ou não de pendência: afetação para julgamento repetitivo; repercussão geral reconhecida sobre a matéria, incidente de resolução de demandas repetitivas ou outro incidente de uniformização de jurisprudência".
+(AgInt nos EDv nos EAg n. 1.409.814/RJ, Rel. Ministro Francisco Falcão, Corte Especial, DJe de 09.12.2019, grifo meu).
+In casu, não obstante o tema tenha sido tratado no Recurso Especial (fls. 767/773), o Tribunal de origem traçou o distinguishing, manifestando-se nos seguintes termos:
+Assim, a medida cautelar de protesto tem o condão de interromper o prazo prescricional ainda que contra a Fazenda Pública, viabilizando nova contagem de prazo, em conformidade com o disposto no art. 9º do Decreto 20.910/32.
+Em acréscimo, não há que se falar em suspensão do feito diante de pendência de julgamento do Tema 1033 pelo STJ (REsps nºs 1801615/SP e n. 1774204/RS), que trata da medida cautelar de protesto proposta pelo Ministério Público e o aproveitamento da interrupção do prazo prescricional para o ajuizamento da execução individual. No caso dos autos a medida cautelar de protesto foi ajuizada pelo próprio sindicato que iniciou o cumprimento de sentença, motivo que justifica o indeferimento do pedido de suspensão do feito. Neste sentido, segue precedente desta Sexta Turma: TRF5. PROCESSO 0803895-51.2023.4.05.0000, Agravo de Instrumento. Sexta Turma. Relator Des. Federal Sebastião José Vasques de Moura. Julg. 03/12/2023.
+Ainda em preliminar, aduz a UFPE que, caso se entenda que o protesto teve o condão de interromper a prescrição, deve ser reconhecida a prescrição parcial da pretensão, sendo atingidas as parcelas vencidas antes do quinquênio anterior à propositura do cumprimento de sentença individual.
+Não é o caso, contudo, de cumprimento de sentença individual, mas proposto pelo Sindicato em substituição a dez dos sindicalizados, dada a limitação aplicada ao caso, que tem por escopo evitar tumulto processual. Afasto, assim, a alegada prescrição (fls. 663/664)
+Ao assim proceder, o Tribunal a quo observou o rito especial, o que dispensa o retorno dos autos à origem e a realização do juízo de admissibilidade recursal por esta Corte, como ocorreu no caso em tela (decisão de fls. 890/891).
+Portanto, não há irregularidade sanável por meio dos presentes Embargos, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
