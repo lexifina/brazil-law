@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por EWALTON PEREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 646-647):
+"APELAÇÃO CÍVEL - COMPLEMENTAÇÃO DE APOSENTADORIA - PETROS - PRESCRIÇÃO DE FUNDO DE DIREITO - INOCORRÊNCIA - PEDIDO DE IMPLANTAÇÃO DE CORREÇÃO NA FORMA DE REGRAMENTO COLACIONADO AOS AUTOS - REPACTUAÇÃO APÓS DISTRIBUIÇÃO DA AÇÃO - AUSÊNCIA DE CONTESTAÇÃO OU VÍCIOS APARENTES - RENÚNCIA AO REGRAMENTO ANTIGO OU VIGENTE QUANDO DA REUNIÃO DOS REQUISITOS PARA INATIVIDADE - APELO PROVIDO - AÇÃO JULGADA IMPROCEDENTE
+1. A ação busca que a PETROS seja obrigada ao pagar a complementação de pensão devida ao apelado conforme estabelecido no regulamento válido à época em que aderiu ao Plano de Complementação.
+2. O pedido exordial não é de revisão do ato de aposentação ou da forma de pagamento ali indicada, mas de descumprimento por parte da PETROS do pactuado no momento da aposentação, com desobediência à regra prevista no regulamento e redução dos valores pagos mensalmente, restando aplic avel a prescrição de trato sucessivo.
+3. A prova dos autos demonstra que, após o ajuizamento da ação, houve repactuação pela parte apelada conforme termo de evento 38389354, o que ocorreu em 27/08/2012, contando do referido termo de acordo cláusula específica em que o repactuante se compromete, inclusive, em pedir extinção de processo que trate do critério do cálculo do benefício de Suplementação de Pensão.
+4. Em vista da repactuação, onde expressamente aderiu as novas regras do Plano Petros do Sistema Petrobrás, resta improvido os pleitos de alteração da remuneração de acordo com regulamento anterior.
+5. A Concessão dos pleitos na forma ajustada traria a parte "o melhor dos mundos" em que receberia benefícios da pactuação originária e da repactuação, já que nada trata quanto a perda ou devolução de benefícios recebidos em vista da repactuação, tais como valores descritos no momento da assinatura do acordo.
+6. Apelo provido para reverter a sentença para improcedência, condenando o autor no pagamento das custas e honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da causa na forma do §2º, do art. 85, do CPC, cuja cobrança resta sobrestada por ser a parte apelada credora da assistência judiciária gratuita."
+Rejeitados os embargos de declaração opostos (fls. 702-719).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, especialmente quanto à irretroatividade da repactuação do plano de previdência complementar.
+Aduz que a adesão à repactuação proposta pela recorrida não afasta a necessidade de observância do regulamento vigente à época da aposentadoria (1983), critério que teria sido ign orado na sentença. Afirma, ainda, que a decisão colegiada desconsiderou a vedação à retroação dos efeitos financeiros da repactuação, o que teria prejudicado o pleito de correção do benefício, e que houve cerceamento de defesa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 735-756).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 758-765), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 773-778).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação do artigo 1.022 do CPC
+Inicialmente, não há falar em ofensa ao artigo 1.022 do CPC, uma vez que o Tribunal a quo, de forma clara e fundamentada, manifestou-se sobre os pontos suscitados, ao enfrentar as questões relativas à validade da repactuação, destacando que ela foi realizada de forma livre e consciente, e que a adesão às novas regras foi devidamente documentada. Além disso, a Corte de origem analisou expressamente os efeitos da repactuação sobre o cálculo dos benefícios, concluindo que a pretensão da parte levaria à cumulação indevida de vantagens.
+Confira-se excerto do acórdão (fls. 652-656):
+"A prova dos autos demonstra que, após o ajuizamento da ação, houve repactuação pela parte apelada conforme termo de evento 38389354, o que ocorreu em 27/08/2012, contando do referido termo de acordo cláusula específica em que o repactuante se compromete, inclusive, em pedir extinção de processo que trate do critério do cálculo do benefício de Suplementação de Pensão.
+É o que se infere da cláusula "4.2" do acordo firmado entre as partes:
+"4.2. Na hipótese de existência de ação judicial em que se discuta o critério do cálculo do benefício de Suplementação de Pensão, imediatamente após a conclusão do atual processo de repactuação, assinarei Termo nindividual de Transação a ser homologado judicialmente nos autos da respectiva ação, atestando que se trata de composição de interesse recíproco das partes interessadas, com pedido de extinção do processo, com julgamento do mérito, em relação ao referido pedido."
+Cumpre salientar que a mudança não foi imposta à autoria, estando documentado comprovando a adesão das demandantes ao novo regramento, não havendo que se lhes reputar o mais remoto vício de consentimento não questionado a tempo e modo.
+Esta Corte, por seu turno, tem entendimento firmado no sentido de que a repactuação leva à improcedência do pedido de alteração da forma de cálculo dos proventos e de aposentadoria complementar já que, entendimento contrário, levaria a autoria ao "melhor dos mundos" no qual receberia benefícios de acordo com a regra que julgasse melhor, no tempo em que entendesse, mesmo recebendo benesses para repactuar.
+ ..
+Diante da repactuação a alteração do plano de previdência complementar não deve ser acolhida, frente a livre adesão pela apelada às alterações efetuadas no novo regulamento, tendo recebido benefícios imediatos em vista do mesmo, sem que trate a ação de sua devolução ou correção."
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ressalte-se, ainda, que, conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão da gratuidade de justiça.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. PLANO DE PREVIDÊNCIA COMPLEMENTAR. REPACTUAÇÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
