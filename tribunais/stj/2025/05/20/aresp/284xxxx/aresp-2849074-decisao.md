@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SALESIO NUHS e por TAURUS ARMAS S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 282, 283, 284 e 356 do STF e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação de indenização por danos morais.
+O julgado foi assim ementado (fl. 405):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGADA PRÁTICA DE ATO ILÍCITO PELO REQUERIDO DECORRENTE DA PUBLICAÇÃO DE COMENTÁRIO SUPOSTAMENTE OFENSIVO A HONRA E A IMAGEM EM PERFIL DE REDE SOCIAL. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA.
+IMPUGNAÇÃO À JUSTIÇA GRATUITA. INSUBSISTÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NOS AUTOS DA HIGIDEZ FINANCEIRA DA PARTE. PREFACIAL AFASTADA.
+PLEITO DE REFORMA DA SENTENÇA VISANDO A CONDENAÇÃO DO DEMANDADO AO PAGAMENTO DE INDENIZAÇÃO POR DANO MORAL. INSUBSISTÊNCIA. DEMANDADO QUE FORMULOU COMENTÁRIO EM PUBLICAÇÃO DOS AUTORES, POSTADO NA REDE SOCIAL INSTAGRAM. ALÉM DO COMENTÁRIO DO RÉU, A PUBLICAÇÃO EM QUESTÃO RECEBEU MAIS DE 100 (CEM) COMENTÁRIOS. AUSENTE PROVA NOS AUTOS DE QUE A REFERIDA POSTAGEM TENHA CAUSADO ABALO À REPUTAÇÃO E AO BOM NOME DOS AUTORES, ÔNUS QUE LHES INCUMBIA (ART. 373, I, CPC). 373, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. DEVER DE INDENIZAR INEXISTENTE. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+HONORÁRIOS RECURSAIS. MAJORAÇÃO DA CONDENAÇÃO SUCUMBENCIAL ACESSÓRIA. EXEGESE DO ARTIGO 85, § 11, DO CPC.
+RECURSO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 186, 187 e 927 do Código Civil, pois o acórdão recorrido afastou a condenação de danos morais aos autores diante do ilícito praticado pela parte demandada; e
+b) 7º, I, da Lei n. 12.965/2014, visto que o acórdão recorrido não reconheceu a ofensa à inviolabilidade da intimidade e da vida privada, sua proteção e indenização pelo dano material ou moral decorrente de seu malferimento.
+Sustenta que o Tribunal de origem divergiu ao decidir que não seria devida indenização por danos morais, uma vez que as ofensas proferidas não ultrapassaram a esfera do mero dissabor, pois não haveria comprovação que tal situação tenha afetado a honra objetiva dos autores, visto que ausente prova nos autos de que a referida publicação tenha causado abalo à reputação e ao bom nome dos autores, ônus que lhe incumbia, conforme acórdãos divergentes do TJCE e TJPE.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a procedência dos pedidos do recorrente e condenando o recorrido a indenizar os recorrentes pelos danos extrapatrimoniais causados no valor de R$ 20.000,00.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenização por danos morais em que a parte autora pleiteou a condenação do demandado ao pagamento de indenização por danos morais no montante de R$ 20.000,00.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido formulado por Salesio Nuhs e Taurus Armas S.A. em face de Mateus Ganasini, condenando os autores ao pagamento solidário das despesas, custas processuais e dos honorários advocatícios em favor dos patronos da parte ré, fixados em 10% sobre o valor atualizado da causa.
+A Corte estadual manteve a sentença por seus fundamentos.
+I - Art. 7º, I, da Lei n. 12.965/2014
+Considera-se preenchido o requisito do prequestionamento quando o tribunal de origem se manifesta acerca da matéria inserta no dispositivo de lei federal apontado como violado, sendo desnecessária a menção explícita a seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Inexistindo referido debate na instância antecedente, o recurso especial não comporta conhecimento ante a incidência analógica da Súmula n. 282 do STF.
+II - Arts. 186, 187 e 927 do Código Civil
+No recurso especial, a parte recorrente alega que o acórdão recorrido afastou a condenação de danos morais aos autores, diante do ilícito praticado pela parte demandada;
+A Corte estadual concluiu que não há comprovação de que a referida publicação tenha causado abalo à reputação e ao bom nome dos autores, fundamentando-se para tanto nas razões seguintes: o comentário sequer menciona o nome da pessoa física autora, não havendo identificação de que as palavras fossem destinadas a Salesio Nuhs; ainda que os dizeres tenham sido direcionados à autora Taurus, o adjetivo "esquerdista" não representa uma ofensa clara, uma injúria ou um palavrão; a outra expressão constante na postagem, qual seja, "bando de picareta" que também não contém de forma clara os destinatários e retrata depreciação genérica e abstrata; o comentário em questão não repercutiu com reportagens ou curtidas, de forma que não ficou demonstrado prejuízo para a empresa autora ou o abalo em sua honra objetiva.
+Contudo, nas razões do recurso especial, a parte limitando-se a alegar que o acórdão recorrido violou os dispositivos legais não refutou o fundamento do Tribunal a quo referente à ausência de prova de abalo à reputação e ao bom nome dos autores. Caso de aplicação da Súmula n. 283 do STF.
+III - Divergência jurisprudencial
+Sustenta que o Tribunal de origem divergiu ao decidir que não seria devida indenização por danos morais, uma vez que as ofensas proferidas não ultrapassaram a esfera do mero dissabor, porquanto não há comprovação que tal situação tenha afetado a honra objetiva dos autores, visto que ausente prova nos autos de que a referida publicação tenha causado abalo à reputação e ao bom nome dos autores, ônus que lhe incumbia, conforme acórdãos divergentes do TJCE e TJPE.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo. Publique-se. Intimem-se.
+EMENTA
