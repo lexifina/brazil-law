@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por TERESINHA CENSATO, que foi condenada pela prática do crime tipificado no art. 2º, II, da Lei n. 8.137/1990, por quatro vezes, na forma do art. 71 do Código Penal, à pena de 8 meses e 22 dias de detenção, em regime aberto, mais 13 dias-multa, substituída a pena corporal por uma restritiva de direito consistente em prestação de serviços à comunidade.
+Impugna-se o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no HC n. 5007080-13.2025.8.24.0000 (fls. 58/62).
+Consta que a paciente, após o trânsito em julgado da condenação, impetrou habeas corpus no Tribunal de Justiça pugnando pelo reconhecimento da prescrição da pretensão punitiva ou pela absolvição da paciente por ausência de dolo e atipicidade da conduta ou pela inexigibilidade de conduta diversa.
+A Quinta Câmara Criminal conheceu em parte e, nessa extensão, denegou a ordem, em acórdão lavrado nos termos desta ementa (fl. 62):
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 2º, INCISO II, DA LEI N. 8.137/90). SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. DISCUSSÃO ACERCA DO MÉRITO. ABSOLVIÇÃO POR AUSÊNCIA DE DOLO E ATIPICIDADE DA CONDUTA. PLEITO SUSIDIÁRIO, DE RECONHECIMENTO DA INEXIGIBILIDADE DE CONDUTA DIVERSA EM RAZÃO DA CRISE FINANCEIRA ENFRENTADA PELA EMPRESA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE DE MAIORES APROFUNDAMENTOS PELA VIA ELEITA. PRECEDENTES. ADEMAIS, IMPOSSIBILIDADE DO RECONHECIMENTO DA PRESCRIÇÃO DECORRENTE DO PERÍODO DE SUSPENSÃO NO ART. 366 DO CPP. SÚMULA 415 DO SUPERIOR TRIBUNAL DE JUSTIÇA E TEMA 438 DO SUPREMO TRIBUNAL FEDERAL. PERÍODO DE SUSPENSÃO DO PRAZO REGULADO PELO MÁXIMO DA PENA COMINADA AO DELITO. PRAZO NÃO TRANSCORRIDO. EXTINÇÃO DA PUNIBILIDADE OBSTADA.
+CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+Daí o presente feito, com as mesmas pretensões: a extinção da punibilidade pela prescrição; a absolvição da paciente por ausência de dolo e atipicidade da conduta; ou, alternativamente, a inexigibilidade de conduta diversa, ante a crise financeira enfrentada pela empresa; com o consequente trancamento da execução penal, por constrangimento ilegal flagrante à liberdade da paciente (fls. 75/76).
+Sem contrarrazões.
+O recurso foi processado sem pedido liminar.
+O Ministério Público Federal opinou nestes termos, em resumo (fl. 109):
+Recurso em Habeas corpus. Crimes contra a ordem tributária. Sentença condenatória com trânsito em julgado. Pretensão de que seja revista a sentença por meio de HC. Impossibilidade. Parecer pelo não provimento do recurso.
+É o relatório.
+Incensurável o acórdão recorrido.
+Não obstante o trânsito em julgado da condenação, a Corte estadual afastou as alegações de constrangimento ilegal de maneira fundamentada em habeas corpus substitutivo de revisão criminal, que nem sequer tinha cabimento. Afinal, é inviável a utilização da via eleita para revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, em especial quando ausente flagrante ilegalidade.
+Conforme o acórdão, o enfrentamento das teses referentes à ausência de dolo e atipicidade da conduta ou inexigibilidade de conduta diversa demanda exaustiva análise probatória e nem de longe demonstra a existência de coação ilegal que justifique a impetração de habeas corpus (fl. 60). A revisão desse entendimento fica completamente inviabilizada, seja pelo reexame de prova, seja pela instrução deficiente destes autos, já que não foi juntada cópia da sentença condenatória.
+Quanto ao reconhecimento da prescrição, a própria argumentação da defesa é claramente contraditória, pois, embora reconheça que o prazo prescricional aplicável é de 4 anos, e que entre o recebimento da denúncia e a sentença transcorreu um prazo total de 2 anos, 9 meses e 31 dias (cf. fl. 79), afirma que o prazo prescricional encontra-se virtualmente exaurido, de modo a configurar a prescrição da pretensão punitiva (fl. 79), o que refoge à lógica.
+Ante o exposto, nego provimento ao presente recurso (art. 34, XVIII, b, do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ART. 2º, II, DA LEI N. 8.137/1990. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. PLEITO DE ABSOLVIÇÃO OU RECONHECIMENTO DA PRESCRIÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A SER SANADA. PARECER ACOLHIDO.
+Recurso im provido.
