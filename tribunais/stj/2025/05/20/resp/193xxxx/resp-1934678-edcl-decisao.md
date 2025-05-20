@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ENGIE BRASIL ENERGIA S.A contra a decisão em que neguei provimento ao recurso especial (fls. 1148/1154).
+A parte recorrente alega que a decisão embargada é omissa em relação a dois pontos:
+(1) inobservância das particularidades do caso concreto, porque, embora a denunciação à lide tenha sido julgada prejudicada, as denunciadas foram, na verdade, vencidas, uma vez que, representadas pelo mesmo advogado da parte autora, defenderam a mesma tese de procedência da ação principal, que, ao final, foi julgada improcedente;
+(2) na decisão, não se analisou que a fixação dos honorários sucumbenciais em 17% mostrava-se exorbitante, visto que o advogado havia apresentado petição idêntica para as duas denunciadas.
+Requer que o recurso seja acolhido com efeitos infringentes, para afastar a condenação ao pagamento de honorários sucumbenciais às denunciadas ou reduzir o percentual para 10% sobre o valor da causa.
+A parte adversa não apresentou impugnação (fl. 1.164).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionada nestes termos (fls. 1.151/1.153):
+O Tribunal de origem entendeu que, nos casos de denunciação à lide, quando julgada improcedente a ação principal, a lide secundária fica prejudicada, devendo o denunciante arcar com honorários advocatícios em favor do denunciado por força do princípio da causalidade, uma vez que deu causa à instauração dessa demanda paralela, sendo irrelevante o fato de as denunciadas terem defendido a procedência do pedido principal, pois o art. 129, parágrafo único, do CPC prevê a condenação do denunciante em honorários mesmo quando vencedor na ação principal.
+Vê-se que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+A ausência de manifestação expressa sobre a atuação da parte denunciada, a identidade da representação e o valor dos honorários não configura omissão relevante, pois a denunciação da lide é facultativa e foi a parte recorrente quem deu causa à sua instauração, atraindo, pelo princípio da causalidade, a responsabilidade pelos ônus sucumbenciais.
+Conforme entendimento desta Corte: "A omissão irrelevante à solução da controvérsia não constitui negativa de prestação jurisdicional. Assim não padece de vícios a decisão do Tribunal de origem que, fundamentadamente, abraça tese contrária à do recorrente, sendo desnecessário, por redundância, o enfrentamento de todos os pontos expostos nos aclaratórios" (AgRg no AREsp 355.528/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/5/2015, D Je 18/5/2015).
+Verifico que o acórdão a quo encontra-se em conformidade com o entendimento deste Tribunal de que, "nas hipóteses em que a denunciação à lide mostra-se improcedente, o denunciante, mesmo tendo sido vencedor na ação principal, deve arcar com os honorários advocatícios devidos ao denunciado" (REsp 1.804.866/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/5/2019, D Je de 17/6/2019).
+Nesse sentido:
+ ..
+Quanto ao percentual arbitrado para os honorários, na origem, os honorários sucumbenciais foram fixados em 15% do valor da causa, ficando a parte recorrente responsável pelo pagamento em favor do patrono das denunciadas. Em observância ao art. 85, § 11, do CPC, o Tribunal de origem majorou os honorários para 17% do valor da causa, considerando o trabalho adicional em grau recursal.
+O Superior Tribunal de Justiça tem o entendimento de que, quando observados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC, não se mostra excessiva a majoração dos honorários recursais, o que se verifica no presente caso.
+Quanto à questão apontada no recurso ora examinado, na decisão embargada, deixou-se consignado que o acórdão recorrido estava em conformidade com o entendimento do Superior Tribunal de Justiça referente à condenação do denunciante ao pagamento dos honorários advocatícios quando a denunciação à lide se mostra improcedente, bem como que na fixação do valor devido a título de honorários foram respeitados os limites legais estabelecidos, de modo que não se mostrava excessivo.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
