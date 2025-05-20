@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2025 a 20/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF". Precedentes .
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo MUNICÍPIO DE LAJEADO contra acórdão da Primeira Seção deste STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. FUNDAMENTAÇÃO GENÉRICA. AGRAVO INTERNO DESPROVIDO. 1. A ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. 2. Agravo interno desprovido.
+A parte embargante sustenta, em síntese, que: a) "ainda que não fosse possível perceber de imediato que o Juízo Federal de Brasília e o Juízo Federal de Alagoas se declararam competentes, a questão em apreço é improtelável em virtude de coexistirem dois processos distintos que tratam sobre o mesmo tema"; b) "os dois processos coexistem porque 2 juízos distintos declararam-se incompetentes (16ª Vara Federal da Seção Judiciária do Distrito Federal e 19ª Vara Federal da Seção Judiciária de São Paulo"; c) "o exequente exerceu sua faculdade de escolha optando por ajuizar o cumprimento de sentença na Seção Judiciária do Distrito Federal, nos termos do § 2º do art. 109 da Constituição Federal"; pugnando pelo acolhimento dos embargos, com efeitos infringentes (fls. 1.042-1.049).
+A parte embargada não apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF". Precedentes .
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os embargos de declaração não merecem conhecimento.
+Nos termos do art. 1.023 do CPC, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
