@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2025 a 20/05/2025, por unanimidade, dar provimento ao agravo interno, para estabelecer a competência do juízo da 17ª Vara Cível e Ambiental de Goiânia-GO nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL E FALÊNCIA. ART. 7º-A DA LEI 11.101/05. NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE CLASSIFICAÇÃO DE CRÉDITO PÚBLICO. SUSPENSÃO DAS EXECUÇÕES. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Em atenção às alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, em especial às disposições integrantes do art. 7º-A, caput e §§ 2º, 4º, V, e 6º, deste diploma legal, é necessária a instauração, pelo juízo falimentar, para cada Fazenda Pública credora, de incidente de classificação de créditos públicos - discutidos em execuções fiscais e em execuções instauradas de ofício -, sendo de rigor a suspensão dessas demandas até o encerramento da falência (CC 194.316/MG, Segunda Seção, DJe 18/11/2024).
+2. O prosseguimento, no juízo federal, de execução de crédito fiscal devido por sociedade falida invade a esfera de competência do juízo falimentar.
+3. Agravo interno provido. Conflito conhecido para estabelecer a competência do JUÍZO DA 17ª VARA CÍVEL E AMBIENTAL DE GOIÂNIA - GO.
+RELATÓRIO
+Examina-se agravo interno interposto por TEHCNA SERVIÇOS DE ENGENHARIA EIRELI contra decisão da Presidência desta Corte que não conheceu do conflito de competência.
+Ação em trâmite na Justiça Estadual (17ª Vara Cível e Ambiental de Goiânia): falência da agravante.
+Ação em trâmite na Justiça Federal (10ª Vara Federal de Goiânia): execução fiscal n. 0006918-69.2016.4.01.3500, ajuizada pela UNIVERSIDADE FEDERAL DE GOIÁS.
+Conflito de competência: alega, em síntese, que o juízo onde tramita o processo falimentar é o único competente para decidir acerca do destino do patrimônio da empresa falida. Pleiteou, liminarmente, a suspensão dos atos constritivos recaídos sobre o patrimônio a massa falida.
+Decisão agravada: não conheceu do conflito de competência.
+Agravo interno: sustenta que a penhora no rosto dos autos falimentares, determinada pelo Juízo da Execução Fiscal, "acaba por dar preferência ao pagamento de um crédito em detrimento de outros preferencialmente prioritários com relação aos créditos fiscais", violando a par conditio creditorum, além de inviabilizar a realização do ativo da agravante (e-STJ, fl. 38). Pugna pelo provimento do recurso com a declaração da competência do juízo falimentar.
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL E FALÊNCIA. ART. 7º-A DA LEI 11.101/05. NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE CLASSIFICAÇÃO DE CRÉDITO PÚBLICO. SUSPENSÃO DAS EXECUÇÕES. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Em atenção às alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, em especial às disposições integrantes do art. 7º-A, caput e §§ 2º, 4º, V, e 6º, deste diploma legal, é necessária a instauração, pelo juízo falimentar, para cada Fazenda Pública credora, de incidente de classificação de créditos públicos - discutidos em execuções fiscais e em execuções instauradas de ofício -, sendo de rigor a suspensão dessas demandas até o encerramento da falência (CC 194.316/MG, Segunda Seção, DJe 18/11/2024).
+2. O prosseguimento, no juízo federal, de execução de crédito fiscal devido por sociedade falida invade a esfera de competência do juízo falimentar.
+3. Agravo interno provido. Conflito conhecido para estabelecer a competência do JUÍZO DA 17ª VARA CÍVEL E AMBIENTAL DE GOIÂNIA - GO.
+VOTO
+A decisão agravada não conheceu do conflito de competência, com fundamento na anterior jurisprudência desta Corte, segundo a qual "A penhora no rosto dos autos da falência, determinada cautelarmente pelo Juízo da execução fiscal, não representa usurpação da competência do Juízo Universal porque, além de a pretensão satisfatória do fisco não se suspender com a quebra, os pagamentos são feitos conforme as regras do concurso de credores" (AgInt no CC n. 190.841/GO, Segunda Seção, DJe de 7/6/2023).
+Ocorre que o STJ, em atenção às alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, em especial às disposições integrantes do art. 7º-A, caput e §§ 2º, 4º, V, e 6º, deste diploma legal, passou a assinalar que é necessária a instauração, pelo juízo falimentar, para cada Fazenda Pública credora, de incidente de classificação de créditos públicos - discutidos em execuções fiscais e em execuções instaurad as de ofício -, sendo de rigor a suspensão dessas demandas até o encerramento da falência (CC 184.316, Segunda Seção, DJe 18/11/2024).
+Decretada a quebra do devedor, portanto, quaisquer execuções voltadas à cobrança de créditos públicos devem ficar suspensas, a fim de que o montante passe a integrar o quadro-geral de credores e os pagamentos respeitem à ordem legal de preferências (art. 83 da Lei 11.101/05).
+Na hipótese, o prosseguimento, no Juízo Federal, da execução de crédito fiscal devido por sociedade falida - com a determinação de penhora no rosto dos autos - invade a esfera de competência do Juízo da Falência.
+Logo, há de ser provido o presente recurso, a fim de que o conflito seja conhecido e estabelecida a competência do juízo falimentar.
+Forte nessas razões, DOU PROVIMENTO ao agravo interno, para conhecer do conflito de competência e estabelecer a competência do JUÍZO DE DIREITO DA 17ª VARA CÍVEL E AMBIENTAL DE GOIÂNIA - GO para deliberar acerca do pagamento dos créditos públicos apurados pelo Juízo Federal e devidos pela agravante .
