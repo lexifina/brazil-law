@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LIN ZHIWU contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem de habeas corpus originária.
+Consta dos autos que o recorrente foi denunciado pela suposta prática das condutas de sonegação fiscal, descritas no art. 1º, II e V, c/c o art. 12, I, ambos da Lei n. 8.137/1990, por, supostamente, na qualidade de titular administrador da empresa Wú - Variedades Eireli, reduzir o pagamento de tributo devido à Fazenda Pública Estadual.
+A impetração originária foi denegada nos termos da seguinte ementa:
+HABEAS CORPUS - SONEGAÇÃO FISCAL - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - AUSÊNCIA INJUSTIFICADA DO RÉU À AUDIÊNCIA - REVELIA - CONFIGURAÇÃO - APRESENTAÇÃO DE ATESTADO MÉDICO APÓS A AUDIÊNCIA - SUSPENSÃO DA DECISÃO DE PRIMEIRO GRAU - IMPOSSIBILIDADE - DESIGNAÇÃO DE NOVA AUDIÊNCIA - NÃO CABIMENTO - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - ORDEM DENEGADA.
+No presente recurso, a defesa sustenta a ocorrência de cerceamento de defesa, pois o recorrente não compareceu à audiência de instrução designada para 3/12/2024 devido a uma emergência médica, tendo a justificativa sido apresentada por meio de atestado médico após o término do ato processual, o que não foi aceito pelo magistrado, que decretou sua revelia.
+Alega que o atendimento médico teve início antes da audiência, porém, em razão da complexidade do estado de saúde do recorrente, seu atendimento foi minucioso e demorado, de modo que o atestado somente foi emitido quando a audiência já estava encerrada. Argumenta ainda que o documento foi juntado aos autos no mesmo dia.
+Requer, liminarmente, a suspensão da decisão que rejeitou a redesignação da audiência de instrução e decretou a sua revelia até o julgamento final deste writ. No mérito, pugna pelo provimento do recurso para que a referida decisão seja anulada.
+A medida liminar foi indeferida (fls. 3.259-3.261), e o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Paulo Eduardo Bueno, opinou pelo desprovimento do recurso.
+Após análise detida dos autos, verifico que não há razão para reformar a decisão impugnada.
+O cerne da questão está na validade da decretação de revelia do recorrente diante da ausência à audiência de instrução e julgamento e na apresentação tardia de atestado médico.
+Do atestado médico juntado aos autos, consta apenas que, "devido à sintomatologia atual, deve permanecer afastada do trabalho para tratamento especializado por pelo menos 07 (sete) dias" (fl. 1.604), sem a comprovação específica da impossibilidade de comparecimento à audiência de instrução e julgamento.
+Ademais, o documento foi apresentado apenas após o término do ato processual, não tendo sido demonstrada, tempestivamente, a impossibilidade de comparecimento do recorrente.
+Esta situação se amolda à jurisprudência consolidada do Superior Tribunal de Justiça, como bem destacado pelo MPF em seu parecer, especialmente o precedente firmado no RHC n. 96.282/MT, relatado pelo Ministro Jorge Mussi, julgado em 21/6/2018, que estabelece:
+Inexiste qualquer ilegalidade no decreto de revelia do acusado cujo atestado médico não comprovou que estava, de fato, impossibilitado de comparecer à audiência de instrução, e que, mesmo após ser devidamente intimado, não compareceu à assentada.
+A decretação da revelia, no caso concreto, está amparada pelo art. 367 do Código de Processo Penal, que prevê que o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado.
+O Tribunal de origem, ao analisar o caso, ressaltou que "diversas foram as tentativas de realizar o interrogatório do réu, todas frustradas" e que "o processo tramita regularmente, e a declaração de revelia do acusado foi corretamente realizada, diante de suas ausências reiteradas em momentos processuais relevantes".
+Vale destacar que, ao contrário do alegado pelo recorrente, a figura da revelia não é incompatível com o processo penal, estando expressamente prevista no art. 367 do CPP, e não acarreta cerceamento de defesa quando aplicada nos termos da lei, com a manutenção da defesa técnica, como ocorreu no presente caso.
+O direito ao interrogatório, embora seja uma garantia fundamental do acusado, não pode servir como instrumento para obstruir o regular andamento do processo quando evidenciada a intenção procrastinatória, especialmente quando a ausência não é devidamente justificada.
+Ante o exposto, em consonância com o parecer ministerial, nego provimento ao recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
