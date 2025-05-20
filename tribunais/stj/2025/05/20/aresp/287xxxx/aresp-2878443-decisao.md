@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DO RIO GRANDE DO NORTE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA DO ESTADO. MÉDICA. PLEITO DE TRANSMUDAÇÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO PARA APOSENTADORIA ESPECIAL. PREENCHIMENTO DOS REQUISITOS LEGAIS. COMPROVAÇÃO DO PERCEBIMENTO DO ADICIONAL DE INSALUBRIDADE DE FORMA ININTERRUPTA. LASTRO PROBATÓRIO SUFICIENTE PARA DEMONSTRAR A NATUREZA INSALUBRE DE SUA ATIVIDADE LABORAL. DESNECESSIDADE DE PERÍCIA. PRECEDENTES DESTA CORTE E DO STJ. INGRESSO NO SERVIÇO PÚBLICO ANTES DA VIGÊNCIA DAS EMENDAS À CONSTITUIÇÃO DE Nº 20/98 E 41/03. INAPLICABILIDADE DO ART. 67, CAPUT, DA LCE Nº 308/05 E DAS REGRAS DE TRANSIÇÃO FIXADAS NO RE Nº 590.260/SP. CONTAGEM DIFERENCIADA DO TEMPO DE SERVIÇO PARA A APOSENTADORIA ESPECIAL POR INSALUBRIDADE. INTERPRETAÇÃO CONJUNTA ADVINDA DOS ARTIGOS 6º E 7º DA EC Nº 41/2003, 2º E 3º DA EC Nº 47/2005, DA PRIMEIRA PARTE DO ARTIGO 67, DA LC Nº 308/2005, DA SÚMULA VINCULANTE Nº 33 DO STF E DO § 1º DO ARTIGO 57 DA LEI Nº 8.213/91. CONHECIMENTO E DESPROVIMENTO DO APELO.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 57, §§ 3º e 4º, e 58, §§ 1º e 2º, ambos da Lei n. 8.213/1991. Sustenta a ausência de prova técnica (laudo pericial) a comprovar o exercício de trabalho insalubre pela recorrida, não configurando prova idônea para tanto os contracheques apresentados, não sendo o caso, portanto, de concessão de aposentadoria especial à recorrida, trazendo a seguinte argumentação:
+8. Noutro ponto, inexiste nos autos qualquer prova técnica capaz de comprovar o trabalho insalubre exercido pela parte recorrida -, não sendo meios de prova idôneos os contracheques apresentados, deixando, assim, de preencher os requisitos que ensejam a concessão de aposentadoria especial, conforme exigido pelos §§ 3º e 4º do art. 57 e §§ 1º e 2º do art. 58, todos da Lei federal nº 8.213/91, "verbis":
+ ..
+9. A comprovação efetiva e permanente da atividade insalubre dar-se-ia por meio de documento pericial ou laudo técnico e, de acordo com as exigências contidas no normativo, a referida documentação só é obtida mediante prévio processo administrativo com parecer específico, no caso, da junta médica estadual, atestando e delimitando a especificidade de cada servidor.
+Nesse sentido, a Segunda e Quinta Turmas do colendo Superior Tribunal de Justiça assim orientam:
+ ..
+10. No caso vertente, inexiste nos autos qualquer comprovação do exercício em atividade insalubre, pelo menos no que é exigido pelos arts. 57 e 58 da Lei 8.213/91.
+11. Desse modo, ao julgar como julgou, a e. Corte potiguar violou os arts. 57 e 58 da referida Lei 8.213/91 (fls. 778-781).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
