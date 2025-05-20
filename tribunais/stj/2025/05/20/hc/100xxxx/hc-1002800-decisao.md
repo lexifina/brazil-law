@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ELTON CARLOS RAMOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no Agravo em Execução n. 0007356-37.2024.8.26.0509.
+Consta dos autos que o paciente interpôs recurso contra a decisão que entendeu como falta grave a prática de fato definido como crime doloso durante o gozo do livramento condicional, regrediu o paciente para o regime fechado e decretou a perda de um terço dos dias remidos.
+O Tribunal a quo negou provimento ao agravo em execução.
+Sustenta que a decisão do Juízo de primeira instância considerou que a prática de fato definido como crime doloso no curso do livramento condicional caracteriza falta grave, impondo a regressão de regime e a perda de dias remidos.
+Contudo, argumenta que não deveria ter sido decretada a perda dos dias remidos e que a prática de fato previsto como crime constitui falta grave apenas quando o sentenciado cumpre pena em regime fechado ou semiaberto, conforme se extrai do art. 52 da LEP.
+Assevera que, em relação ao livramento condicional, a penalidade prevista pela legislação para a prática de crime doloso no curso do período de prova é exclusivamente a revogação do instituto, não configurando falta grave, por ausência de previsão legal.
+Requer, liminarmente e no mérito, a concessão da ordem para absolver o paciente da falta grave que lhe é imputada, reestabelecendo-se os dias remidos e eliminando-se a data da falta como marco interruptivo do lapso para progressão.
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ademais, consoante entendimento desta Corte Superior,
+o dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta (AgRg no HC 530.261/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/09/2019).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo de primeiro grau reconheceu a prática de falta grave mediante a seguinte fundamentação (fls. 33/34):
+A prática de crime doloso durante o livramento condicional configura falta disciplinar de natureza grave, nos termos do art. 52 da LEP. Nesse sentido é a jurisprudência do STJ:
+(..)
+Quanto à questão de fundo, impende ressaltar que a "falta grave" é um minus em relação ao "crime", de modo que certa a condenação pelo crime, certa será, também, a prática de falta disciplinar de natureza grave.
+Isso porque não há que se questionar a existência da falta grave ou sobre quem seja o seu autor quando estas questões já se acharem decididas no Juízo Criminal. Portanto, desnecessária a oitiva judicial do sentenciado.
+Certa a prática de falta grave, tanto que transitada em julgada a condenação, cabe ao juízo da execução penal tão somente a imposição das consequências legais da já reconhecida falta disciplinar.
+Consigno que para análise da quantidade de dias remidos a serem perdidos, deverá ser observado o determinado no artigo 57 da LEP que diz: "Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão".
+Assim, diante da prática de falta grave, impõe-se a aplicação do artigo 127 da Lei de Execução Penal com a perda de 1/3 do tempo remido, ante a gravidade da falta disciplinar (crime doloso), que frustra sobremaneira os fins da pena.
+Irresignada, a Defesa interpôs agravo perante o Tribunal de origem, que negou provimento ao recurso nos seguintes termos (fls. 11/12):
+Pacífico que o agravante foi beneficiado com o livramento condicional, e no curso do período de prova foi preso pela prática de tráfico de drogas, havendo notícia que, inclusive, já foi antes condenado por tal.
+Assim, nos termos do artigo 52, da Lei de Execução Penal, praticou falta disciplinar de natureza grave, consistente em cometimento de crime doloso no curso do cumprimento das penas, a ensejar que retome o cumprimento das penas em regime mais gravoso, conforme disposto no artigo 118, da Lei de Execução Penal, vez que o livramento condicional é benefício concedido mediante algumas condições a serem cumpridas, e em caso de seu descumprimento, a consequência natural é a regressão.
+Soma-se a tal que, por se tratar de benefício regido por regramento próprio constante dos artigos 83 e seguintes, do Código Penal, o condenado que infringe as condições impostas deve também suportar as consequências ali elencadas, o que redunda dizer que infringe também o artigo 52, da LEP.
+E uma vez caracterizada a falta grave, como na espécie, de rigor que haja a perda dos dias eventualmente remidos, na proporção máxima de 1/3 desses, dada a redação do artigo 127, da Lei de Execução Penal, conferida pela Lei nº 12.433/11, por ter traído a confiança que lhe foi depositada pelo Estado, ao lhe conceder benefício dos mais amplos, todavia voltando a reincidir na prática de crime doloso, que inclusive resultou em sua condenação definitiva.
+Assim sendo, nada há a ser modificado na bem lançada decisão monocrática, não havendo como ser atendido o pleito defensivo.
+Isto posto, nega-se provimento ao agravo ajuizado em favor de Elton Carlos Ramos, mantendo-se, por seus fundamentos, a r. Sentença.
+Com efeito, o art. 142 da Lei de Execuções Penais e o art. 88 do Código Penal estabelecem que, no caso de revogação do livramento condicional em virtude da prática de novo crime no curso do benefício, não se computará na pena o tempo em que o recuperando esteve solto e não se concederá, em relação à mesma pena, novo livramento.
+Por sua vez, esta Corte Superior possui entendimento firme no sentido de que as consequências da prática de novo crime no curso do livramento, já estabelecidas na lei, não se compatibilizam com o reconhecimento de falta grave, que tem regramento próprio. Logo, não é possível, no caso em análise, a perda dos dias remidos e a anotação de falta grave.
+Isso porque, no período de livramento condicional, embora o condenado esteja em cumprimento de pena, não está recolhido ou submetido às regras de nenhum estabelecimento prisional, mas, sim, às condições que foram fixadas pelo Juízo da Execução Penal, no momento da audiência admonitória.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que, de acordo com a jurisprudência do Superior Tribunal de Justiça,
+a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena (REsp n. 1.101.461/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 19/02/2013).
+Nesse sentido, os seguintes precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME. CONSEQUÊNCIAS LEGAIS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão singular proferida em habeas corpus, que afastou a perda dos dias remidos e a remir na execução penal, após a prática de novo crime durante o livramento condicional.
+2. A decisão agravada não acatou o pedido de absolvição da falta grave e de manutenção do benefício de livramento condicional, mas afastou a perda dos dias remidos e a remir, por entender que tal consequência não está prevista em lei.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prática de novo crime durante o livramento condicional autoriza a perda dos dias remidos e a remir, além da revogação do benefício.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que a prática de crime durante o livramento condicional tem regras próprias, previstas no Código Penal e na Lei de Execução Penal, que não incluem a perda dos dias remidos como consequência.
+5. O livramento condicional, por ser usufruído fora do sistema prisional, não admite a aplicação de sanções além da suspensão ou revogação do benefício e a desconsideração do tempo de liberdade, conforme o princípio da legalidade.
+6. A prática de novo crime durante o livramento condicional não configura falta grave que justifique a perda dos dias remidos, devendo ser tratada conforme as disposições específicas do Código Penal e da Lei de Execução Penal.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A prática de novo crime durante o livramento condicional não autoriza a perda dos dias remidos, apenas a revogação do benefício. 2. O livramento condicional possui regramento próprio, não se confundindo com as consequências legais de falta grave durante o cumprimento da pena".
+Dispositivos relevantes citados: Código Penal, arts. 83 a 90; Lei de Execução Penal, arts. 131 a 146.Jurisprudência relevante citada:
+STJ, AgRg no HC 344.486/RS, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 13.03.2018; STJ, AgRg no HC 572.228/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 23.06.2020.
+(AgRg no HC n. 963.673/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA GRAVE E APLICAÇÃO DOS CONSECTÁRIOS LEGAIS. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Esta Corte posiciona-se no sentido de que a prática de fato definido como crime durante o livramento condicional tem regras próprias previstas nos arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes da falta grave praticada durante o cumprimento da pena, não sendo possível a aplicação dos consectários legais da falta grave sem a instauração do procedimento adequado (AgInt no RHC n. 141.748/PA, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 23/9/2022).
+2. Agravo regimental provido para reconsiderar a decisão anterior e, mantendo a revogação do livramento condicional, conceder a ordem para afastar a anotação do cometimento de falta grave pelo paciente, excluindo, consequentemente, todas as sanções aplicadas em detrimento da homologação da falta.
+(AgRg no HC n. 814.602/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+De rigor, portanto o reconhecimento do constrangimento ilegal.
+Ante o exposto, não conheço do presente habeas corpus, contudo, concedo liminarmente a ordem de habeas corpus, de ofício, para cassar o acórdão impugnado e determinar ao Juízo das Execuções Penais que elabore novo cálculo da pena, sem aplicar os consectários próprios da falta disciplinar de natureza grave ao crime praticado no curso do livramento condicional.
+Publique-se e intimem-se.
+EMENTA
