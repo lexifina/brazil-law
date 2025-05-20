@@ -1,0 +1,22 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 295/308 e do entendimento da Corte Especial do STJ na QO no AREsp 2638376/MG, reconsidero a decisão de fl. 283, proferida pelo Ministro Presidente do STJ, e passo a novo exame do agravo em recurso especial interposto por KARLA VIVIAN BARCELOS LOPES e UBER CESAR LOPES BARCELOS, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/07/2024.
+Concluso ao gabinete em: 30/01/2025.
+Ação: obrigação de fazer cumulada com compensação por danos morais, em fase de cumprimento de sentença, ajuizada pelos agravantes, em face de UNIMED SEGUROS SAUDE S/A, em razão de negativa de cobertura de tratamento médico.
+Decisão interlocutória: indeferiu a instauração de incidente de desconsideração da personalidade jurídica e rejeitou o cumprimento de sentença.
+Decisão monocrática: não conheceu do agravo de instrumento interposto pelos agravantes.
+Recurso especial: alegam violação dos arts. 203, §§ 1º e 2º, e 932, III, do CPC. Sustentam que: i) o agravo de instrumento não poderia não ter sido conhecido, porquanto não houve intimação da recorrente para sanar o vício constatado, mas apenas para se manifestar sobre eventual inadequação da via eleita; ii) em respeito ao princípio da fungibilidade recursal, mediante a relativização da dúvida objetiva, o recurso de agravo de instrumento deveria ter sido recebido como apelação, tendo em vista não se configurar erro grosseiro, diante das particularidades da hipótese dos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de requisito de regularidade formal
+Verifico a ausência de requisito de regularidade formal, a evidenciar ser manifestamente incabível o recurso especial interposto, porquanto este ataca decisão monocrática (e-STJ fls. 72/78) contra a qual caberia agravo interno perante o Colegiado local, em obediência à previsão do artigo 1.021, § 2º, do CPC/2015. Desse modo, não houve o exaurimento da instância ordinária.
+Com efeito, a teor do disposto no artigo 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, " ..  julgar, emrecurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios  .. ". Nesse sentido, os seguintes precedentes desta Corte Superior: AgInt nos EAREsp n. 1.732.139/MA, Corte Especial, DJe de 1º/2/2022; AgInt no AREsp n. 2.149.403/CE, Terceira Turma, DJe de 28/6/2023; AgInt no AREsp n. 2.188.284/PE, Terceira Turma, DJe de 15/2/2023; AgInt no AREsp n. 2.105.073/SE, Quarta Turma, DJe de 11/4/2023; e AgInt no AREsp n. 2.225.405/MT, Quarta Turma, DJe de 11/4/2023.
+Desse modo, aplicável, por analogia, o óbice da Súmula n. 281/STF.
+Forte nessas razões, RECONSIDERO a decisão de fl. 283, proferida pelo Ministro Presidente do STJ, e CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. DECISÃO QUE INDEFERIU A INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA E REJEITOU O CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA N. 281/STF.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais em que foi proferida decisão indeferindo a instauração de incidente de desconsideração da personalidade jurídica e rejeitando o cumprimento de sentença.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, revela-se inadmissível o processamento de recurso especial interposto contra decisão monocrática, porquanto um dos pressupostos para sua admissibilidade é o exaurimento das instâncias ordinárias. Incidência, por analogia, da Súmula 281 do Supremo Tribunal Federal. Precedentes.
+3. Decisão da Presidência de e-STJ fl. 283 reconsiderada. Agravo conhecido. Recurso especial não conhecido.
