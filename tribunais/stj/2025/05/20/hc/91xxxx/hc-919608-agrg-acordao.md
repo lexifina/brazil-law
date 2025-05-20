@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve como fundamento o entendimento do Superior Tribunal de Justiça de que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio ou como meio de destrancamento de recurso, para os quais há remédio recursal previsto na legislação, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistente flagrante ilegalidade que autorize a concessão da ordem de ofício.
+5. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDA PEDROSO CINTRA DE SOUZA contra a decisão que não conheceu do habeas corpus.
+A parte agravante, nas razões do agravo regimental, defende a ocorrência de constrangimento ilegal em razão da negativa de aplicação imediata da lei penal mais benéfica, em especial a Lei n. 14.231/2021, que trata da improbidade administrativa, e a Lei n. 14.836/2024, que disciplina o desempate em julgamento colegiado e a concessão de habeas corpus de ofício.
+Defende que, em hipóteses análogas, o Superior Tribunal de Justiça tem concedido habeas corpus mesmo sem o exaurimento da instância ordinária, diante de flagrante ilegalidade.
+Argumenta, ainda, que, segundo o Tema n. 1.199 do Supremo Tribunal Federal, a nova legislação de improbidade deve ser aplicada imediatamente aos processos em curso que ainda não transitaram em julgado. A não aplicação dessas normas pelas instâncias ordinárias configuraria uma resistência indevida à retroatividade da lei penal mais benéfica.
+Ressalta que há violação da Lei n. 14.836/2024, especialmente quanto ao dispositivo que determina que, em julgamento penal com resultado empatado, deve prevalecer a decisão mais favorável ao réu. No caso concreto, o relator teria ignorado tal comando legal.
+Impugna a imposição de multa por abandono da causa com base no art. 265 do CPP, sustentando que a ausência do advogado ocorreu por motivo de saúde e que, conforme precedentes do TJAM, TJMG e STJ, a ausência isolada e justificada não caracteriza abandono processual. Ressalta, ainda, a revogação da previsão legal da sanção com o advento da Lei n. 14.752/2023.
+Aponta a existência de erro material e omissão no acórdão recorrido, que deixou de aplicar as normas supervenientes e desconsiderou a jurisprudência dos tribunais superiores sobre o tema.
+Requer, por fim, o reconhecimento da nulidade do acórdão agravado, por violação do princípio da legalidade e do direito à aplicação da lei penal mais benéfica. Pleiteia a concessão de habeas corpus de ofício, nos termos da nova legislação processual penal, e o afastamento da multa imposta ao advogado, em conformidade com os precedentes e dispositivos legais invocados.
+Ciência do Ministério Público Federal.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve como fundamento o entendimento do Superior Tribunal de Justiça de que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio ou como meio de destrancamento de recurso, para os quais há remédio recursal previsto na legislação, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistente flagrante ilegalidade que autorize a concessão da ordem de ofício.
+5. Agravo regimental não conhecido.
+VOTO
+A decisão que não conheceu do habeas corpus foi assim fundamentada (fls. 111-112):
+O art. 210 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) determina que, "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+O habeas corpus é ação constitucional que tem por objeto o direito potestativo "liberdade de locomoção", e, segundo o art. 5º da Constituição, além do art. 647 do CPP, será concedido sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar.
+Essa ação constitucional, conforme a jurisprudência desta Corte Superior, não serve para destrancar recursos. Acrescenta-se, ainda, que muito menos serve a ação constitucional para discutir a validade da decisão do Juiz de primeiro grau que aplicou multa aos advogados, seja por abandono da causa, seja por litigância de má fé.
+Ainda que se admita discutir pedidos outros que não sejam pertinentes à liberdade de locomoção, a matéria apresentada a esta Corte Superior não foi objeto de análise no Tribunal de origem, que apenas não conheceu da Carta Testemunhável, e, por isso, não pode ser apreciada no STJ, sob pena de supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Contudo, as razões do agravo regimental não se voltam contra o motivo de não conhecimento da impetração, qual sejam, os óbices do art. 105, I, II e III, da CF, o que inviabiliza a apreciação do recurso, devido à não impugnação especificada dos fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC e, por analogia, de acordo com a conclusão sedimentada na Súmula n. 182 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE DROGA APREENDIDA. ANTECEDENTES. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO CONCOMITANTE POR POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDO. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, CONFORME PARECER MINISTERIAL. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e não concedeu a ordem de ofício uma vez que não identificada qualquer ilegalidade na fixação da pena-base e diante da impossibilidade de reconhecimento da minorante do tráfico privilegiado ao paciente condenado por crime de tráfico em concurso com o de posse de arma de fogo com numeração suprimida. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+(AgRg no HC n. 870.658/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024 - grifo próprio.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. "WRIT" CONTRA DECISÃO MONOCRÁTICA EM ANÁLISE LIMINAR. SÚMULA 691 DO STF. AUSENTE TERATOLOGIA OU EVIDENTE ILEGALIDADE. TRÁFICO. REGIME INICIAL MAIS GRAVOSO. FUNDAMENTAÇÃO ADEQUADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022)
+ ..
+3. Ao agravante se impõe o ônus de demonstrar o desacerto da decisão agravada. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, o que atrai ao caso o disposto no enunciado n. 182 da Súmula desta Corte e inviabiliza o conhecimento do agravo. Precedentes.
+4. Agravo regimental não conhecido.
+(AgRg no HC n. 878.605/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/5/2024, DJe de 16/5/2024 - grifo próprio.)
+Não há, ademais, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício, mas sim apenas uma irresignação, com alegações não subsidiadas documentalmente, contra o conteúdo decisório tomado com base no a rt. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
