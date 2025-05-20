@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de petição apresentada por LUCAS JU STINO FERREIRA, com pedido de tutela de urgência, por meio da qual se requer a suspensão do trâmite de demanda ajuizada perante no Juizado Especial Cível (Processo n. 0100702-57.2023.8.26.0968) até o julgamento do Tema n. 1.178, submetido ao rito dos recursos repetitivos.
+De acordo com a parte ora requerente (fls. 4-5):
+A presente controvérsia tem ao fundo processo judicial onde a decisão teratológica revogou a gratuidade de justiça sob a fundamentação de que a documentação juntada pela parte autora não demonstra a alegada hipossuficiência financeira e/ou econômica, mesmo que presentes declaração de isenção do Imposto de Renda, pela ausência de extratos bancários, de conta pessoal, e profissional do advogado onde movimenta valores que não lhes pertence, mas de clientes, vigorando plena restrição em respeito aos sigilos fiscal, e bancário, além de ser conta conjunta do requerente com sua genitora.
+A prova da suficiência econômica está sempre a cargo de quem impugna a benesse, e a revogação do benefício, sem a intimação prévia do interessado para se manifestar especificamente sobre os fatos alegados pela parte impugnante, e quando a impugnação vier pautada em fato já conhecido do juiz, e em fatos fora dos autos não está autorizada, por Lei expressa, a revogação da concessão da gratuidade judiciária pelo Juiz:
+ ..
+Em outras palavras, mesmo comprovando que sua renda mensal é inferior a três salários-mínimos líquidos, pelo critério utilizado aqui, e por analogia ao critério adotado pela Defensoria Pública Estadual/SP, que considera a renda bruta, o requerente teve o benefício cassado de forma abrupta sem respeito aos postulados do contraditório e da ampla defesa. E tudo isso, no caso dos autos, sem nenhum elemento de convicção ou indício capaz de contradizer a veracidade da declaração de hipossuficiência financeira prestada pela parte recorrente que, de fato, teve o benefício cassado não por não ter as condições financeiras declaradas, mas, porque se recusou a violar o sigilo fiscal e bancário de clientes e de sua genitora, com quem movimentava a conta. Os elementos de informação coligidos aos autos, demonstram isso.
+Defende, portanto, a impossibilidade de que haja o prosseguimento da tramitação do feito antes da conclusão do julgamento do processo paradigma por esta Corte Superior.
+É o relatório.
+Ao submeter a afetação do Tema n. 1178, sob o regime dos recursos especiais repetitivos, a Corte Especial determinou apenas o sobrestamento dos recursos especiais e dos agravos em recurso especial, não havendo a obrigatoriedade da suspensão dos processos em trâmite nos Juizados Especiais.
+Confira-se, no ponto, o seguinte trecho do voto que proferi por ocasião da afetação da matéria em debate:
+A propósito, considerando que os feitos que debatem a questão ora em apreço possuem os mais diversos objetos e fases processuais, proponho que sejam suspensos apenas os recursos que tratam exclusivamente da matéria, a partir de quando deflagrada a discussão no âmbito deste Superior Tribunal.
+Disso resulta a proposta de suspensão somente dos recursos especiais ou agravos em recurso especial, esteja o recurso respectivo nesta Corte Superior ou no Tribunal de origem.
+Desse modo, a providência buscada na presente petição é descabida, razão pela qual o pleito deve ser indeferido.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
