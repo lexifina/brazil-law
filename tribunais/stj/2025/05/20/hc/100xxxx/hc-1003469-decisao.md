@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de WELLYNGTON JAMES DA SILVA GOMES - condenado como incurso no crime de roubo majorado, pelo concurso de agentes e restrição da liberdade da vítima (Ação Penal n. 1545397-52.2023.8.26.0050) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1545397-52.2023.8.26.0050), não comporta processamento.
+Com efeito, busca a impetração a fixação da fração mínima de recrudescimento da pena pelo reconhecimento de duas majorantes previstas no art. 157, § 2º, do Código Penal, ao argumento de que o aumento da pena, no concurso de causas majorantes, não segue critérios estritamente matemáticos (sic) - (fl. 4). Aponta ausência de fundamentação válida para o recrudescimento em 1/2. Cita, em favor de sua tese, a Súmula 443 deste Superior Tribunal.
+O presente habeas corpus foi apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível. Além disso, não se verifica a ocorrência do ilegal constrangimento, a justificar a superação do referido óbice.
+As instâncias ordinárias não se basearam em um critério puramente matemático quando aplicaram a fração de 1/2 para elevação da pena, na terceira fase, mas sim em idônea fundamentação, de que a vítima, além das ameaças de morte e desvio de sua trajetória no exercício do trabalho, foi forçada, obviamente, a ajudar os algozes a descarregar quase toda a carga então roubada, o que, no todo, justifica o tirocínio do julgador monocrático, com imposição de maior rigor ao índice aplicado (fl. 189).
+Assim, não houve ofensa à Súmula deste Superior Tribunal (Súmula 443).
+Em face do exposto, indefiro liminarmente a inicial.
+Publiqu e-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DA VÍTIMA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. COAÇÃO ILEGAL MANIFESTA. INEXISTÊNCIA. DOSIMETRIA. PERCENTUAL EM RAZÃO DAS MAJORANTES. NÃO UTILIZAÇÃO DO CRITÉRIO PURAMENTE MATEMÁTICO (SÚMULA 443/STJ). CONCRETOS FUNDAMENTOS. AMEAÇA DE MORTE, DESVIO DE TRAJETÓRIA E AJUDA EM DESCARREGAR A CARGA ROUBADA.
+Inicial liminarmente indeferida.
