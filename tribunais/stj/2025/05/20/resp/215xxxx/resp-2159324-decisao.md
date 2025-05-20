@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se, na origem, de mandado de segurança impetrado com a finalidade de ver reconhecido o direito ao registro na escrita fiscal e à compensação, nos termos do art. 2º, §4º, I da Lei n. 12.546/2011, dos valores de créditos de REINTEGRA relacionados ao período compreendido entre 29 novembro de 2012 a 31 de dezembro de 2013, acrescidos de juros à Taxa Selic.
+Relatam as impetrantes, em síntese, que se dedicam à exploração da indústria e comércio do açúcar e do álcool e seus derivados, especialmente do produto classificado no código TIPI 1701.99.00, sendo parte relevante de sua produção direcionada à exportação.
+O ponto de inconformismo está relacionado ao Decreto n. 7.633/2011, que excluiu do benefício do REINTEGRA alguns produtos específicos classificados nos NCMs 17 e 22. De acordo com as impetrantes, a norma seria ilegal porque a Lei n. 12.546/2011 apenas autorizaria o Poder Executivo a relacionar os códigos TIPI contemplados pelo benefício fiscal, não sendo possível excluir produtos específicos.
+O valor dado à causa corresponde a R$ 400.000,00 (quatrocentos mil reais).
+O Juízo de primeira instância julgou improcedente o pedido e denegou a segurança ao adotar o entendimento de que em nenhum momento a Lei impõe ao Executivo a necessidade de utilizar como marcador dos beneficiários a integralidade de determinado tópico da TIPI (fls. 307-308).
+O Tribunal Regional Federal da 3ª Região deu provimento ao recurso de apelação da contribuinte por meio de acórdão assim ementado:
+TRIBUTARIO. REINTEGRA. RESTRIÇÃO. LIMITAÇÃO DO DIREITO AO REINTEGRA. BENS RELACIONADOS AO ANEXO DO DECRETO 7.633/2011. EXTRAPOLADOS OS LIMITES DA LEI N. 12.546/2011. APELAÇÃO PROVIDA.
+- O Reitegra inicialmente foi instituído pela MP 540/2011, que disciplinou os limites atribuídos ao Poder Executivo, os quais consistem na fixação do benefício entre zero e 3% (três por cento), bem como na possibilidade de diferenciar o percentual aplicável por setor econômico e tipo de atividade.
+-A apelante teve seu direito violado, em razão do disposto no artigo 2º, caput, e anexo do Decreto nº 7.633/2011.
+-Configurado o indébito fiscal, tem direito a impetrante à compensação dos valores questionados, com quaisquer tributos e contribuições administrados pela Secretaria da Receita Federal, nos termos da Lei n. 10.637/2002, observando-se ainda, a prescrição quinquenal e o disposto no art. 170-A do CTN.
+-Apelação provida.
+Ambas as partes opuseram embargos de declaração.
+A Fazenda Nacional alegou que o benefício do REINTEGRA não se confunde com tributo, tampouco seria isenção ou redução da base de cálculo, sendo o acórdão omisso quanto ao art. 111 do CTN, que impõe interpretação literal e restrita, reiterando, no mais, a matéria de defesa (fls. 456-468).
+As impetrantes alegaram que o acórdão seria omisso quanto à atualização dos créditos do REINTEGRA pela Selic (fls. 470-473).
+O Tribunal a quo rejeitou os embargos de declaração, nos seguintes termos:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+- A teor do disposto no art. 1.022 do CPC, somente têm cabimento nos casos de obscuridade ou contradição (inc. I), de omissão (inc. II) e de erro material (inc. III).
+- O v. Acórdão embargado não se ressente de quaisquer desses vícios. Da simples leitura do julgado verifica-se que foram abordadas todas as questões debatidas pelas partes.
+- Acerca dos pontos específicos de irresignação dos recursos, verifica-se que não há qualquer omissão a respeito das razões que justificam o reconhecido de indébito, bem como da eventual necessidade de correção monetária.
+- O v. Acórdão foi explícito quanto ao fato de que o Decreto 7.633/11 extrapolou os limites de previstos pela lei n. 12.546/2011. No que se refere à necessidade de correção dos créditos pela Selic, restou consignado no voto que esta depende da existência de óbice por parte do Fisco.
+- Com efeito, o E. STJ firmou entendimento em recurso representativo da controvérsia (R Esp 1.035.847/RS) de que nos casos de pedidos de ressarcimento de créditos deve incidir a correção monetária se houver demora no atendimento pela Secretaria da Receita Federal do Brasil.
+- Na hipótese dos autos, tem direito à compensação da diferença dos valores decorrentes da aplicação da SELIC sobre os créditos ora discutidos, quando houver resistência injustificada do Fisco.
+- Quanto à definição do termo inicial da incidência de correção monetária à compensação de créditos tributários escriturais, o E. STJ no julgamento dos Recursos Especiais n.ºs 1.767.945/PR, 1.768.060/RS e 1.768.415/SC, submetidos à sistemática dos recursos repetitivos, julgados em 12/02/2020, DJe 06/05/2020, definiu que: "O termo inicial da correção monetária de ressarcimento de crédito escritural excedente de tributo sujeito ao regime não cumulativo ocorre somente após escoado o prazo de 360 . dias para a análise do pedido administrativo pelo Fisco (art. 24 da Lei n. 11.457/2007)"
+- Assim, enquanto não apresentado pedido de compensação ou ressarcimento, não há o que falar em resistência do Fisco.
+- Ademais, desconstituir os fundamentos da decisão embargada implicaria, in casu, em inevitável reexame da matéria, incompatível com a natureza dos embargos declaratórios.
+- Quanto ao prequestionamento, cumpre salientar que, ainda que os embargos de declaração opostos tenham este propósito, é necessária a observância dos requisitos previstos no art. 1022 do Código de Processo Civil, o que não ocorreu no presente caso, uma vez que a matéria constitucional e federal foi apreciada.
+- Embargos de declaração rejeitados.
+Em seu recurso especial, interposto com fundamento no art. 105, III, a e c, da CF, as impetrantes alegam, preliminarmente, violação dos arts. 489 e 1.022 do CPC. No mérito, apontam que o acórdão de origem violou o art. 39, §4º da Lei n. 9.250/1995, bem como a tese firmada no julgamento do Tema 1.003/STJ (fls. 511-533).
+A Fazenda Nacional, por sua vez, interpôs recurso especial com fundamento no art. 105, III, a, CF, alegando, preliminarmente, violação dos arts. 489 e 1.022 do CPC. Quanto ao mérito, alega que houve violação dos arts. 99 e 111 do CTN, art. 2º, §2º, c/c art. 50 da Lei 12.546/2011 e art. 24 da Lei 11.457/2007 (fls. 553-582).
+É o relatório. Decido.
+O recurso especial da Fazenda Nacional merece parcial provimento.
+De início, afasto a alegada violação dos arts. 489 e 1.022 do CPC, visto que os embargos de declaração opostos contra o acórdão recorrido tiveram como objetivo apenas a rediscussão da tese, com nítido efeito infringente.
+Quanto ao mérito, entretanto, possui razão a Fazenda Nacional.
+O Superior Tribunal de Justiça, ao apreciar a matéria discutida nos autos, concluiu não ser possível a extensão do benefício fiscal do REINTEGRA a todos os itens da TIPI quando não contemplados na lista anexa do Decreto n. 7.633/2011. Na ocasião, prevaleceu o entendimento de que a Lei n. 12.546/2011 garantia a possibilidade de o Poder Executivo selecionar determinados setores e bens objeto de exportação, além de estabelecer a variação de alíquota via decreto entre zero e 3%, conforme o setor econômico, uma vez que o benefício não foi instituído de modo uniforme para todos os produtos relacionados na TIPI. Nesses termos:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022, DO CPC/2015. REINTEGRA. ART. 2º, §3º, I, DA LEI N. 12.546/2011. LEGALIDADE DO ANEXO AO DECRETO N. 7.633/2011, QUE LISTOU OS BENS MANUFATURADOS PASSÍVEIS DE USUFRUIR DO BENEFÍCIO FISCAL.
+1. Inocorre, na espécie, qualquer violação ao art. 1.022 do CPC/2015. A Corte de Origem enfrentou de forma suficiente e fundamentada os dispositivos legais e teses relevantes para a solução da controvérsia e capazes, em tese, infirmar a conclusão adotada pelo julgador (art. 489, §1º, IV, do CPC/2015).
+2. O próprio art. 2º, §3º, I, da Lei n. 12.546/2011, é claro ao definir que, dentre os bens tabelados pela Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), poderiam ser colhidos alguns ou todos (conforme a conveniência administrativa extrafiscal) a serem listados em ato do Poder Executivo para fazer parte do regime REINTEGRA.
+3. Portanto, a seleção dos "bens manufaurados" foi remetida à edição de ato próprio do Chefe do Poder Executivo, ou seja, ao Decreto n. 7.633/2011, que não indicou em seu Anexo os códigos da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi) referentes aos produtos exportados pelo recorrente, quais sejam:
+grãos de trigo (NCM 1001.99.00), milho em grãos beneficiados (NCM 1005.90.10), e grãos de soja beneficiada (1201.90.00).
+4. Estando o Decreto n. 7.633/2011 perfeitamente dentro das raias dadas pelo art. 2º, §3º, I, da Lei n. 12.546/2011, não há qualquer ilegalidade apta a sustentar o pleito do recorrente de gozar da benesses do REINTEGRA (créditos presumidos de PIS/PASEP e COFINS) para as mercadorias que exporta.
+5. Recurso especial não provido.
+(REsp n. 1.876.304/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/9/2020, DJe de 21/9/2020.)
+A propósito, é importante ressaltar que o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que os decretos regulamentares do REINTEGRA não extrapolam os limites da delegação que autoriza a variação do percentual conforme a necessidade apurada pelo Poder Executivo. Vejamos:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. REINTEGRA. APROVEITAMENTO DOS CRÉDITOS. FIXAÇÃO DE ALÍQUOTAS SUCESSIVAS NO TEMPO MEDIANTE DECRETO.
+LEGALIDADE.
+1. Ausente a alegada violação ao art. 1.022, do CPC/2015, tendo em vista que a Corte de Origem analisou de forma suficiente os argumentos levantados pela parte no que diz respeito aos princípios da legalidade, moralidade, motivação e finalidade.
+2. A lei que faculta ao Poder Executivo Federal editar sucessivos decretos alterando as alíquotas do REINTEGRA de maneira uniforme para todo e qualquer bem, isto é, sem fazer necessariamente qualquer discrímen por tipo de bem, também faculta ao mesmo Poder Executivo Federal editar um único decreto que, em atenção à previsibilidade (segurança jurídica), já fixa as alíquotas a serem sucessivamente aplicadas a períodos preestabelecidos. Sendo assim, os decretos regulamentares do REINTEGRA não extrapolam os limites da delegação que autoriza a variação do percentual conforme a necessidade apurada pelo Poder Executivo. Precedentes: REsp. n. 1.657.525 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 03.11.2020;
+REsp. n. 1.873.758 / SC, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 16.06.2020; REsp. n. 1.732.813/RS, Primeira Turma, Rel. Min. Gurgel de Faria, julgado em 14.05.2019.
+3. Desta forma, são lícitos os Decretos n. 8.415/2015, n. 8.543/2015, n. 9.148/2017 e n. 9.393/2018, ao estabelecer os percentuais do crédito do REINTEGRA diferenciados previamente por períodos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.936.708/RS, relator Ministro Mauro Campbell Marques, Segunda Tur rma, julgado em 14/2/2022, DJe de 17/2/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ACÓRDÃO COMBATIDO. OMISSÃO. AUSÊNCIA. REINTEGRA. ALÍQUOTAS. DECRETO. LEGALIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+2. Os decretos regulamentares do REINTEGRA não extrapolam os limites da delegação que autoriza a variação do percentual conforme a necessidade apurada pelo Poder Executivo. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.703.390/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/10/2022, DJe de 24/11/2022.)
+Considerando o provimento do recurso especial da Fa zenda Nacional, entendo por prejudicado o recurso interposto pelas impetrantes, que se baseia exclusivamente na atualização dos créditos de REINTEGRA pela Selic.
+Ante o exposto, dou parcial provimento ao recurso especial da Fazenda Nacional, bem como julgo prejudicado o recurso especial das impetrantes.
+Publique-se. Intimem-se.
+EMENTA
