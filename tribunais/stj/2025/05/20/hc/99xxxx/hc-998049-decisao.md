@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KAUA DA SILVA LAURINDO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela suposta prática do crime de tentativa de homicídio qualificado.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem em acórdão de fls. 311-315.
+No presente writ, sustenta que a prisão preventiva foi decretada com base em argumentos inidôneos, como a presunção de fuga não comprovada nos autos, e que o delito teria ocorrido em legítima defesa da genitora do paciente, que havia sido agredida momentos antes pela pretensa vítima (fls. 3-6).
+Afirma que o paciente possui condições pessoais favoráveis, sendo primário, portador de bons antecedentes, com atividade remunerada e residência fixa na Comarca dos fatos, o que evidenciaria vínculo ao distrito da culpa .
+Requer a concessão da ordem para revogar a prisão preventiva do paciente ou para que sejam fixadas medidas cautelares diversas da prisão, conforme previsto no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 322-323.
+As informações foram prestadas às fls. 329-344 e 345-361. O Ministério Público Federal, manifestou-se "pela denegação da writ" em parecer de fls. 365-372.
+É o relatório. DECIDO.
+Quanto a alegação acerca da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como do acórdão impugnado, in casu, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que revelam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, uma vez que o paciente com outros correús teria se deslocado até a residência da vítima, onde, após invadi-la, passaram a desferir contra a vítima socos e chutes. Não satisfeito, o paciente teria esfaq ueado a vítima nas costas e, mesmo caída ao solo, continuou a sofrer agressões. Sustenta a decisão, ainda, que o paciente, acreditando ter ceifado a vida do ofendido, evadiu-se do distrito da culpa.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"O modus operandi demonstrou frieza e crueldade representando periculosidade in concreto ao meio social"(AgRg no HC n. 940.932/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Ademais, é pacífico o entendimento desta Corte que a fuga do distrito da culpa é fundamento válido à segregação cautelar para assegurar a aplicação da lei penal.
+A propósito:
+"A evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/11/2019)."(AgRg nos EDcl no HC n. 866.528/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Quanto a alegação acerca da legítima defesa, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar , o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
