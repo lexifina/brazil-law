@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por Minalba Alimentos e Bebidas Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 873):
+APELAÇÃO. MULTAS APLICADAS COM BASE NA LEI MUNICIPAL N. 14.751/2008, QUE INSTITUIU RESTRIÇÕES PARA CAMINHÕES EM ZONA DE MÁXIMA RESTRIÇÃO DE CIRCULAÇÃO (ZMRC). ADMISSIBILIDADE. VEÍCULOS AUTUADOS, TODOS DA MARCA FIAT IVECO DAILY 55C16 (COM PBT DE 5.300 QUILOGRAMAS), QUE SÃO CONSIDERADOS PELA LEGISLAÇÃO COMO "CAMINHÕES", E NÃO COMO CAMINHONETES. SENTENÇA DE PROCEDÊNCIA. RECURSOS OFICIAL E DA MUNICIPALIDADE DE SÃO PAULO PROVIDOS.
+Opostos embargos declaratórios, foram rejeitados (fls. 925/927; 982/985).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.:
+a) 1.022, II do CPC, caso se entenda que não houve o prequestionamento dos artigos tidos como violados no apelo nobre;
+b) 2º, caput e §1º, da LINDB e 933 do CPC, alegando "a existência de lei municipal posterior que liberou integralmente o trânsito daqueles caminhões na cidade de São Paulo" (fl. 991). Aduz que "a lei posterior revoga a anterior quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior. Esse é o caso em tela, porque há Decreto Municipal (53.149/12) que liberou na cidade de São Paulo o trânsito integral dos caminhões do modelo da Recorrente" (fl. 997), matéria que devia ter sido apreciada de ofício pelo Tribunal de origem;
+c) 6º da LINDB, sustentando que a disposição do princípio de que a lei não retroagirá, salvo para beneficiar o réu, é aplicado em todo o sistema administrativo sancionador. Assim, afirma que "não há razão para que se reconheça como legítima uma cobrança de multa de infração não mais existente" (fl. 1.000).
+Foram ofertadas contrarrazões às fls. 1.040/1.045.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que tange à matéria de fundo, o Tribunal de origem destacou (fl. 874/875):
+A controvérsia, portanto, envolve discussão sobre a natureza dos veículos da autora. Se forem considerados "caminhões", as multas são legítimas (inclusive no que diz respeito à NIC); se forem considerados "caminhonetes", as autuações são ilegais.
+ ..
+No presente caso, em que pese a resistência da autora, todos os veículos indicados na petição inicial, pelo critério acima, são considerados "caminhões", e não caminhonetes, conforme quadro abaixo.
+ ..
+O PTB do modelo DAILY 55C16 consta, por exemplo, das Notas Fiscais de fls. 93 e 110, bem como do ofício do DENATRAN (fls. 472/473), e essa informação (referente ao PBT de 5.300 kg) pode ser confirmada no site da própria fabricante(https://www. iveco. com/brasil/collections/technical_sheets/documents/ produtos/daily_chassi_cabine. pdf), daí o reconhecimento de legalidade das autuações, com base na Lei n. 14.751/2008.
+E acrescentou nos aclaratórios (fl. 984):
+Não é esse, entretanto, o caso dos autos, porque o v. acórdão embargado, aqui, enfrentou as questões postas em discussão com apoio em motivação adequada e suficiente para justificar o posicionamento adotado, ou seja, considerou que os veículos autuados, indicados na petição inicial, são considerados caminhões, e não caminhonetes, daí o reconhecimento de validade das autuações de trânsito.
+A questão referente ao enquadramento, ou não, dos veículos da autora nas características dos caminhões VUC (Veículo Urbano de Carga), que teriam sido liberados (pelo Decreto Municipal n. 53.149/2012) para circulação na cidade de São Paulo, não foi objeto de discussão nos autos, e por isso, não justifica o reexame da matéria com base nesse fundamento, daí a rejeição dos embargos, não só por esse fundamento (referente à impossibilidade de inovação recursal), mas também (i) porque essa matéria, caso não configurasse inovação recursal, deveria ser deduzida nos primeiros embargos; e (ii) porque o referido ato normativo não poderia retroagir para descaracterizar infrações já consumadas.
+Com efeito, "A jurisprudência pacífica desta Corte Superior é no sentido de que, em razão do aperfeiçoamento da preclusão consumativa, não incorre em vício de omissão o julgador que não se manifesta, no acórdão integrativo, a respeito de questões que configuram indevida inovação recursal, porquanto é vedado à Corte de origem apreciar matéria sobre a qual não se operou o efeito devolutivo. Precedentes." (AgInt nos EDcl no AREsp n. 2.692.501/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/4/2025, DJEN de 7/5/2025).
+Neste sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE FAZER INCIDIR O ÓBICE DA SÚMULA 7/STJ. DESNECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. PROVIMENTO NEGADO.
+1. A observação de que o Tribunal de origem teria equiparado a efetivo pagamento os valores depositados a título de garantia não caracteriza premissa fática, mas sim posicionamento jurídico, revisitável em recurso especial sem que se faça necessário o revolvimento das provas dos autos.
+2. A argumentação acerca da natureza ex nunc do deferimento do pedido de recuperação judicial não foi alegada no momento oportuno, configurando inovação recursal e preclusão consumativa.
+3. A jurisprudência do Superior Tribunal de Justiça (STJ) é no sentido de que ocorre preclusão consumativa quando a matéria ventilada em agravo interno constitui inovação recursal em relação ao recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.344.389/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025 - g.n.)
+Ademais, no presente caso, o recurso especial não impugnou tal fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
