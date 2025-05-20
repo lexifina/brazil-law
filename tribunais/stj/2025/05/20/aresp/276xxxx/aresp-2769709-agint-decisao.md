@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por SILVANA APARECIDA DE SOUZA ALVES OLIVEIRA da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso em razão da incidência da Súmula 182/STJ (fl. 739).
+A parte agravante afirma, em suma, que não é o caso de incidência do enunciado da Súmula 7 do Superior Tribunal de Justiça (STJ).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 760).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada porque verifico que foi realizada a impugnação específica do óbice aplicado na decisão agravada.
+Passo ao exame do agravo em recurso especial.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alíneas a e c, da Constituição Federal, do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 501):
+APELAÇÃO AÇÃO ORDINÁRIA Votuporanga Adicional de insalubridade Pretensão de recebimento do adicional de insalubridade em grau médio Técnico em educação de desenvolvimento infantil Atividades exercidas que não podem ser consideradas insalubres, já que não expõem a servidora a nenhum dos agentes nocivos listados na Norma Regulamentadora n. 15 da Portaria n. 3.214/78 do Ministério do Trabalho Afastamento das conclusões do laudo pericial, tendo em vista que a exposição a agentes biológicos se dá de forma eventual ou ocasional Conforme constou no próprio Laudo Pericial, a caracterização da insalubridade em grau médio depende de serviços prestados em estabelecimento de saúde, cemitério ou tratamento de resíduos de animais deteriorados, não sendo estes a hipótese da autora, que apenas cuida de bebês saudáveis em creche Contato eventual com criança enferma não gera direito ao adicional de insalubridade, que exige contato habitual com o risco biológico Precedentes desta Câmara Sentença mantida Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 531/534).
+Nas razões de seu recurso especial, a parte agravante alega violação aos arts. 479 do Código Civil; 192 da Consolidação das Leis do Trabalho; e ao Tema 534 do Superior Tribunal de Justiça (STJ). Sustenta que:
+"Embora o juízo não está adstrito ao laudo, em se tratamento de implementação de adicional de insalubridade, necessária prova pericial a ser realizada por Profissional Técnico nomeado pelo juízo para fins de atestar a submissão do servidor aos agentes nocivos potencialmente agressivos em sua jornada de trabalho, bem como o grau de incidência de insalubridade" (fl. 544).
+Aduz que "não houve motivação fundamentada no tocante ao afastamento do laudo pericial, eis que o v. acórdão se resumiu a indicar que não pode acolher a conclusão do laudo pericial apresentado, tendente à classificação do seu trabalho insalubre" (fl. 542).
+Nos exatos termos do acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu que não se pode acolher a conclusão do laudo pericial apresentado e classificar o trabalho como insalubre (fls. 503/504).
+No entanto, considerando que o magistrado não está adstrito às conclusões do laudo pericial, verifica-se que da análise de todo o conjunto probatório que a autora não laborou em condições insalubres.
+Com efeito, extrai-se dos autos que a autora trabalha, desde 2017 na atividade de cuidadora de crianças de 2 a 3 anos.
+Verifica-se que a autora trabalha com crianças sãs que, por ventura, podem contrair alguma enfermidade; entretanto, tal fato não leva à conclusão de que a atividade é insalubre, até porque, se assim fosse, todo ambiente dessa natureza deveria ser assim considerado e todos que lá laboram fariam jus ao adicional almejado.
+Assim, apesar de o laudo pericial apontar exposição insalubre a agentes biológicos, é certo que, de acordo com as regras de experiência, essa exposição é limitada a períodos muito curtos, razão pela qual pode ser considerada ocasional ou eventual, a afastar o enquadramento da atividade como insalubre.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fát ico-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, reconsidero a decisão de fls. 666/667 e conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
