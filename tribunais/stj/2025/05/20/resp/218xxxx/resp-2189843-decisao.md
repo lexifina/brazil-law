@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS proferido em juízo de retratação, assim ementado (fl. 1.330):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. TEMA 1076 DO STJ. REJULGAMENTO DO FEITO QUANTO À FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APELAÇÃO. MEDIDA CAUTELAR. COMPRA E VENDA DE IMÓVEL. AQUISIÇÃO. LICITAÇÃO PÚBLICA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. ACÓRDÃO MANTIDO.
+1. Trata-se de rejulgamento da apelação em vista do julgamento do Tema 1076 pelo1. STJ, nos termos dos art. 1.030, III, e 1.040, II, ambos do Código de Processo Civil - CPC.
+2. No caso, o embargante atribuiu à causa o montante de R$ 933.880,002. (novecentos e trinta e três mil oitocentos e oitenta reais), correspondente ao valor dos direitos sobre imóvel, adquiridos através da escritura pública de cessão de direitos e obrigações com assunção de dívida imobiliária e ratificação da alienação fiduciária em garantia.
+2.1. Apesar do entendimento fixado no Tema 1076 pelo Superior Tribunal de Justiça, a premissa estabelecida por esta 6ª Turma Cível, amparado pela jurisprudência do Supremo Tribunal Federal - STF, revela ser possível, no caso, o emprego da equidade para estabelecimento dos honorários sucumbenciais, a partir da conjugação dos parâmetros legais (grau de zelo do profissional, lugar de prestação do serviço, natureza e a importância da causa, trabalho realizado pelo advogado e tempo exigido para o seu serviço) com os princípios da proporcionalidade e razoabilidade.
+3. Acórdão integralmente mantido.
+Nas razões de seu recurso (fls. 1.355/1.372), a parte recorrente alega violação do art. 85, §§ 2º, 6º e 8º, do Código de Processo Civil (CPC), sustentando ser indevida a fixação dos honorários advocatícios pelo critério da equidade no presente caso, pois "a causa possui valor definido (R$ 933.880,00) e não se enquadra como valor muito baixo, nos termos do § 8º do citado artigo 85 do CPC" e "o critério do proveito econômico também não se amolda à realidade do processo, notadamente quando se está diante da impr ocedência de todos os pedidos" (fl. 1.364).
+Requer a reforma do acórdão para se "arbitrar honorários sucumbenciais acima do percentual mínimo estipulado pelo artigo 85, § 2º, do CPC, com sua subsequente majoração nesta nova etapa recursal (CPC, art. 85, § 11)" (fl. 1.372).
+A parte adversa apresentou contrarrazões (fls. 1.387/1.392).
+O recurso foi admitido (fls. 1.397/1.398).
+Às fls. 1.412/1.415, determinei o retorno dos autos à origem para que, após o julgamento do Tema 1.255 pelo Supremo Tribunal Federal (STF), a Corte de origem procedesse nos termos do art. 1.040 e seguinte do CPC.
+Em 30/4/2025, a Corte de origem decidiu que, não obstante a determinação desta Corte Superior, o invocado precedente do STF se restringia apenas às demandas em que a Fazenda Pública era parte (fl. 1.422).
+De fato, em recente julgamento de questão de ordem, o Tribunal Pleno do STF, por unanimidade, esclareceu que o Tema 1.255 está, atualmente, restrito à fixação de honorários advocatícios em causas em que a Fazenda Pública for parte, nos termos do voto do relator, o Ministro André Mendonça (Plenário, Sessão Virtual de 28/2/2025 a 11/3/2025). A orientação, portanto, não se aplica à hipótese dos autos, em que a parte recorrente é uma sociedade de economia mista, com personalidade jurídica de direito privado.
+É o relatório.
+Cuida-se na origem de medida cautelar proposta por GONÇALVES E FILHO SUPERMERCADO LTDA, buscando a suspensão de leilão promovido pela COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP até o julgamento da ação de rescisão de contrato de compra e venda de imóvel.
+O Juízo de primeira instância julgou improcedente o pedido, condenando a parte autora "ao pagamento das custas e dos honorários sucumbenciais, estes fixados nos percentuais mínimos sobre o valor da causa, nos termos do art. 85, §3º, incisos I e I, do CPC" (fl. 1.001).
+O Tribunal de origem reformou em parte a sentença e, quanto aos honorários advocatícios, assim deliberou (fls. 1.086/1.093):
+Alfim, conforme já relatado, o apelante requer a inversão dos honorários advocatícios por entender que a requerida/apelada, foi quem deu causa ao ajuizamento da ação; ou, caso assim não se entenda, que os honorários sucumbenciais sejam arbitrados com base na equidade (§ 8º do art. 85 do CPC).
+Pois bem! Inicialmente, não há que se falar em inversão dos honorários advocatícios, pois é mais do que evidente que, além de ser sucumbente, quem deu causa à ação proposta foi a própria parte autora/apelante que não adimpliu com suas obrigações contratuais.
+De outro lado, contudo, entendo que assiste razão ao recorrente no que toca à aplicação do § 8º do art. 85 do CPC para fins de fixação dos honorários sucumbenciais.
+Nesse passo, em relação ao arbitramento dos honorários advocatícios por equidade, sobreleva registrar que a Corte Especial do STJ, por maioria, no julgamento do Tema 1.076 (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), definiu que não é permitida a fixação de honorários advocatícios por apreciação equitativa nas hipóteses em que os valores da condenação ou da causa, ou do proveito econômico da demanda forem elevados, afirmando as seguintes teses jurídicas:
+ ..
+Sobreleva, ainda, destacar a edição da recente Lei nº 14.365/2022, que acrescentou ao art. 85 do CPC os §§ 6º-A e 8º-A, com as seguintes redações:
+ ..
+No entanto, em razão das peculiaridades do caso concreto, que em muito se distingue dos julgados que embasaram a tese do Tema 1.076, entendo que deve ser buscada solução proporcional e razoável para fixação da verba honorária.
+Nesse sentido, é cediço que a fixação do valor dos honorários de sucumbência é regido por vetores previstos nos incisos do § 2º do art. 85 do CPC, quais sejam, o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Neste contexto, em hipóteses em que a fixação da sucumbência alcance valores irrazoáveis ou desproporcionais em cotejo com as circunstâncias da causa, cumpre ao julgador arbitrar os honorários por critérios de equidade (§ 8º), de modo a evitar distorções de natureza remuneratória ao advogado, evitando-se o seu aviltamento ou que sirvam de mecanismo para enriquecimento injusto e desproporcional.
+E, mesmo considerando a mencionada tese fixada sob o rito dos recursos repetitivos (Tema 1.076), o correspondente entendimento deve ser analisado em conjunto com os princípios constitucionais que também regem o Código instrumental civil, disposto fundamentalmente nos seus artigos 1º e 8º, os quais estabelecem que o processo civil será ordenado, disciplinado e interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição Federal, atentando-se para os princípios da razoabilidade e da proporcionalidade.
+ ..
+É de salutar importância, ainda, destacar que o Supremo Tribunal Federal, em inúmeros julgados, vem se posicionando no sentido de que a fixação da verba honorária deve se pautar pelos critérios de razoabilidade e proporcionalidade nas hipóteses em que a utilização da regra disposta no art. 85 e seus parágrafos impliquem num resultado desarrazoado.
+ ..
+Diante dos precedentes acima colacionados, considerando a interpretação teleológica da norma conjugada com os princípios constitucionais da razoabilidade e da proporcionalidade, é fácil concluir que as regras previstas no art. 85, §§ 2º, 6º-A e 8º-A não devem prevalecer quando o arbitramento dos honorários ensejar manifesta desproporção à complexidade da causa, ao trabalho do profissional e aos demais requisitos previstos nos incisos do § 2º do referido artigo.
+ ..
+Dessa forma, com fulcro no § 8º do art. 85 do CPC, diante da baixa complexidade do caso dos autos, entendo que a quantia de R$ 12.000,00 mostra-se razoável para remunerar condignamente o trabalho advocatício da requerida.
+Isso posto, forte nas considerações acima, DOU PARCIAL PROVIMENTO, na parte conhecida, ao recurso do autor para, tão somente, fixar os honorários advocatícios sucumbenciais em R$ 12.000,00, na forma do § 8º do art. 85 do CPC.
+O entendimento adotado pela Corte local foi mantido em juízo de retratação (fls. 1.329/1.342).
+A Corte Especial do Superior Tribunal de Justiça, nos autos dos Recursos Especiais 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP, da relatoria do Ministro Og Fernandes, julgados sob o rito de recursos repetitivos (Tema 1.076), firmou o entendimento segundo o qual:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subseqüentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (DJe de 31/5/2022).
+Nesse contexto, o acórdão recorrido diverge da tese cogente firmada por esta Corte, devendo, por isso, ser reformado.
+No mais, o Superior Tribunal de Justiça consagrou o entendimento de que apenas é devida a majoração da verba honorária sucumbencial, consoante o disposto no art. 85, § 11, do Código de Processo Civil (CPC), se estiverem presentes os seguintes requisitos, simultaneamente:
+(1) decisão recorrida publicada a partir de 18/3/2016, momento em que entrou em vigor o novo Código de Processo Civil;
+(2) que do recurso não se tenha conhecido integralmente ou que ele tenha sido desprovido, monocraticamente ou pelo órgão colegiado competente; e
+(3) condenação em honorários advocatícios, desde a origem, no processo em que interposto o recurso.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. FUNDAMENTOS. IMPUGNAÇÃO ESPECIFICA. AUSÊNCIA. NULIDADE. VERIFICAÇÃO NA VIA ESPECIAL. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+4. Em se tratando de recurso interposto após a vigência do Código de Processo Civil de 2015, cabe a majoração dos honorários de sucumbência, nos termos do art. 85, § 11, do CPC/2015.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.303.109/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/3/2021, DJe de 11/3/2021.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS RECURSAIS. CABIMENTO. PRECEDENTES. EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS.
+1. Constata-se a omissão no acórdão proferido no julgamento do agravo interno, em relação ao pleito de fixação de honorários recursais, na forma do art. 85, § 11, do CPC/2015.
+2. Em se tratando de recurso interposto após a vigência do CPC/2015, cabe a majoração dos honorários de sucumbência, nos termos do art. 85, § 11, do CPC/2015.
+3. Embargos de declaração conhecidos e acolhidos.
+(EDcl no AREsp n. 1.545.645/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/10/2020, DJe de 25/11/2020.)
+Assim, não tendo a parte recorrida interposto recurso especial, não há falar em majoração dos honorários sucumbenciais com suporte no art. 85, § 11, do CPC.
+Ante o exposto, dou parcial provimento ao recurso especial; determino a devolução dos autos à origem a fim de que os honorários de sucumbência sejam arbitrados observando-se os limites contidos no art. 85, §§ 3º, 4º, 5º e 6º, do Código de Processo Civil, conforme a orientação firmada nos precedentes (Tema 1.076), como entender de direito.
+Publique-se. Intimem-se.
+ EMENTA
