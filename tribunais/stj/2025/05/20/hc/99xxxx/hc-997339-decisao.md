@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de EDVALDO CANHETE MALDONADO - condenado como incurso no crime de posse de arma de fogo com numeração suprimida (fls. 82/89) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0000920-57.2021.8.12.0800), não comporta acolhimento.
+Com efeito, busca a impetração a reforma do acórdão combatido, com a absolvição do paciente, em razão da ausência de provas robustas e seguras para a condenação, nos termos do art. 386, inc. VII, do Código de Processo Penal (fl. 16).
+Ocorre que, além de se tratar de writ destinado a revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal estadual afastou a absolvição do paciente aduzindo que não deve ser acolhida a tese defensiva de absolvição por insuficiência de provas, já que a conduta do apelante amolda-se perfeitamente àquela prevista no artigo 16, § 1º, IV da Lei Federal n. 10.826/2003, na medida em que possuía arma de fogo com marca ou qualquer outro sinal de identificação raspado, suprimido ou alterado, em sua residência (fl. 27).
+E, conforme consta da sentença, a materialidade do fato ficou comprovada pelo boletim de ocorrência (f. 8-10), termo de declaração (f. 11), bem como pelos depoimentos colhidos na fase de inquérito e em juízo (fl. 83).
+Vê-se que, ao contrário do alegado pela defesa do paciente, o Tribunal estadual, soberano na análise dos elementos de prova dos autos, entendeu devidamente comprovada a autoria delitiva, de modo que a revisão da conclusão alcançada pelo acórdão impugnado seria inevitável o reexame do contexto fático-probatório dos autos, providência incompatível com a via célere do habeas corpus.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E LEGISLAÇÃO EXTRAVAGANTE. HABEAS CORPUS. POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. PLEITO DE ABSOLVIÇÃO POR FALTA DE PROVAS. AUTORIA DELITIVA COMPROVADA EM ESPECIAL PELOS DEPOIMENTOS TESTEMUNHAIS CONFIRMADOS EM JUÍZO. ENTENDIMENTO EM SENTIDO CONTRÁRIO. REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Habeas corpus denegado.
