@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 14/05/2025 a 20/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - CUMPRIMENTO DE SENTENÇA - EXAURIMENTO DO PERÍODO DE BLINDAGEM - RETOMADA DA COMPETÊNCIA DO JUÍZO EM QUE SE PROCESSA A EXECUÇÃO INDIVIDUAL PARA A PRÁTICA DOS ATOS EXECUTIVOS INERENTES AO PROCEDIMENTO - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO (CC 191.533/MT) - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO INCIDENTE - INSURGÊNCIA DA RECUPERANDA.
+1. A Segunda Seção, no julgamento do CC n. 191.533/MT, decidiu que, "exaurido o prazo de blindagem e não tendo o Juízo da recuperação judicial determinado sua prorrogação ou a subsistência de seus efeitos (decisão, naturalmente, passível de ser impugnada pela via recursal própria, e não por meio de conflito de competência perante esta Corte de Justiça), as execuções individuais, inclusive, as de crédito concursal, podem prosseguir, não mais subsistindo a competência do Juízo recuperacional".
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por XINGUARA INDUSTRIA E COMERCIO S/A - EM RECUPERAÇÃO JUDICIAL contra decisão, da lavra deste signatário, acostada às fls. 144/146, que não conheceu do incidente em epígrafe.
+Em síntese, o conflito de competência, com pedido liminar, aforado pela ora agravante envolve o r. Juízo de Direito da 3ª Vara Cível de Recife/PE no qual se processa a recuperação judicial da insurgente (Processo nº 0030716-08.2013.8.17.0001) e o r. juízo da 11ª Vara Cível de Santos/SP, onde tramita o cumprimento de sentença n.º 0015532-45.2021.8.26.0562, movido por Maersk Brasil Brasmar Ltda.
+Aduziu a suscitante, em síntese, que o Juízo da 11ª Vara Cível de Santos/SP determinou a realização de atos constritivos nos autos do mencionado cumprimento de sentença, na qual figura como executada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, o qual, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Citou, em favor de sua tese, julgados deste STJ.
+Requereu a concessão de liminar objetivando sobrestar o ato executório determinado pelo r. Juízo Cível e, no mérito, a declaração de competência do r. juízo recuperacional. (fls. 3/16)
+Às fls. 144/146, este signatário, apoiado em recente orientação jurisprudencial da Segunda Seção, exarado no CC 191.533/MT, Rel. Min. Marco Aurélio Bellizze, não conheceu do incidente.
+Em suas razões, a insurgente repisa os fundamentos da exordial. Entende satisfeitos os requisitos para manejo do conflito de competência. Adiciona argumentação acerca da competência do r. juízo da recuperação judicial para o exame de atos constritivos em face de seu patrimônio. Requer a reconsideração do julgado ou a submissão a julgamento colegiado. (fls. 149/161)
+Prestadas as informações (fls. 173/175), o MPF ofertou parecer no sentido do não conhecimento do conflito. (fls. 182/186)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - CUMPRIMENTO DE SENTENÇA - EXAURIMENTO DO PERÍODO DE BLINDAGEM - RETOMADA DA COMPETÊNCIA DO JUÍZO EM QUE SE PROCESSA A EXECUÇÃO INDIVIDUAL PARA A PRÁTICA DOS ATOS EXECUTIVOS INERENTES AO PROCEDIMENTO - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO (CC 191.533/MT) - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO INCIDENTE - INSURGÊNCIA DA RECUPERANDA.
+1. A Segunda Seção, no julgamento do CC n. 191.533/MT, decidiu que, "exaurido o prazo de blindagem e não tendo o Juízo da recuperação judicial determinado sua prorrogação ou a subsistência de seus efeitos (decisão, naturalmente, passível de ser impugnada pela via recursal própria, e não por meio de conflito de competência perante esta Corte de Justiça), as execuções individuais, inclusive, as de crédito concursal, podem prosseguir, não mais subsistindo a competência do Juízo recuperacional".
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A insurgência não merece prosperar.
+1. Consoante destacado na oportunidade do exame unipessoal, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. No mérito, para hipóteses deste jaez, a orientação jurisprudencial recentemente adotada pela eg. Segunda Seção caminha no sentido segundo o qual "(..) exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial - é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto". (ut. CC n. 191.533/MT, Rel. Min. Marco Aurélio Bellizze, SEGUNDA SEÇÃO, julgado em 18/4/2024, D Je de 26/4/2024)
+Com esse norte hermenêutico, no caso sob foco, o r. juízo da 11ª Vara Cível de Santos/SP consignou que "(..) não há suporte legal para o pedido da Xinguara Indústria e Comércio S/A. A recuperação judicial da executada foi concedida em 07/04/2014, conforme documento anexo, e o stay period já foi exaurido há muito tempo. Sendo assim, as execuções individuais podem prosseguir sem necessidade de nova deliberação pelo juízo recuperacional." (fls. 105/106)
+No julgamento do CC n. 191.553/MT supracitado destacou ainda que "remanesce incólume o dever do Juízo em que se processa a execução individual de crédito extraconcursal de bem observar o princípio da menor onerosidade, a fim de que a satisfação do débito exequendo se dê na forma menos gravosa ao devedor, podendo obter, em cooperação do Juízo da recuperação judicial, as informações que reputar relevantes e necessárias".
+3. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
