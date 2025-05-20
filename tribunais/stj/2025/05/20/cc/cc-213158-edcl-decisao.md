@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por POTTENCIAL SEGURADORA S. A em face da decisão que não conheceu conheceu do conflito que tem por objeto a execução de apólice de seguro garantia judicial.
+A decisão embargada considerou que, "como o fato caracterizador do sinistro ocorreu antes do pedido do processamento do pedido de recuperação judicial, a execução da suposta apólice do seguro garantia judicial não fica impedida, pois inocorrente a novação, devendo ser levada a cabo pela Justiça trabalhista" (na fl. 118).
+Por sua vez, afirma o embargante que "nota-se que o Juízo, ao reconhecer a necessidade de retificação da planilha de cálculos atualizada (Id 7c966f2), que acompanhava a intimação do Tomador para pagamento ocorrida em 07/02/2023 (Id 78fa5f4), e consequentemente realizando nova intimação em 10/03/2023 (Id bd13fd3), publicada em 13/03/2023, instruída com a planilha de cálculos retificada (Id 8274879), anulou o ato anterior, tornando sem efeitos a intimação de Id 78fa5f4 e marco inicial para contagem de prazo considerado pela r. Decisão embargada" e que "logo, a r. Decisão embargada, ao considerar que (i) o prazo para pagamento inicial da dívida teve início em 07/02/2023; e (ii) a inadimplência do Tomador/Sociedade Recuperanda ocorreu em 03/03/2023, se pautou em premissa equivocada no julgamento" (grifou-se, na fl. 1941).
+Conclui que, assim, "deverá ser considerada válida a intimação ocorrida em 10/03/2023, publicada em 13/03/2023 (Id bd13fd3), expedida após retificados os cálculos, com o decurso de prazo do Tomador ocorrendo em 27/03/2023" (na fl. 124).
+Requer a correção do erro material.
+É o relatório.
+Decido.
+Assiste razão à embargante.
+No caso, a sentença que homologou os cálculos e determinou o pagamento da condenação em 15 (quinze) dias foi exarada em 7/2/2023, poucos dias depois, em 13/3/2023 foi substituída por outra, que promoveu a correção de erro havido na somatória anterior e determinou novo prazo para o pagamento da condenação
+Desse modo, corrigindo o erro material, tem-se que: SELTEC VIGILÂNCIA ESPECIALIZADA LTDA está submetida a procedimento de recuperação judicial perante o d. Juízo de Direito da Vara Regional Empresarial de Porto Alegre/RS desde 28/3/2023, o que conduz à conclusão de que o pedido foi feito anteriormente à esta data, e que encontra-se inadimplente desde 28/3/2023, quando escoado o prazo para o pagamento voluntário da dívida, iniciado em 13/3/2023.
+Logo, como o fato caracterizador do sinistro ocorreu após o pedido do processamento de recuperação judicial, a execução da suposta apólice do seguro garantia judicial fica impedida pela ocorrência da novação, devendo ser habilitado o valor da condenação trabalhista nos autos da recuperação judicial para posterior pagamento..
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, corrigindo o erro material e, por conseguinte, declarando a competência do Juízo de Direito da Vara Regional Empresarial de Porto Alegre/RS.
+Publique-se.
+EMENTA
