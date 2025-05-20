@@ -1,0 +1,81 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO. SUBSTITUIÇÃO PROCESSUAL. DESNECESSIDADE DE AUTORIZAÇÃO EXPRESSA DOS ASSOCIADOS, DE SUA RELAÇÃO NOMINAL E DE COMPROVAÇÃO DE SUA FILIAÇÃO PRÉVIA. TEMA 1.119 DA REPERCUSSÃO GERAL. SUPOSTA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO 748.371 (TEMA 660). EXECUÇÃO DE CONDENAÇÃO PECUNIÁRIA CONTRA A FAZENDA PÚBLICA. ART. 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. ÍNDICE DE CORREÇÃO MONETÁRIA. TAXA REFERENCIAL - TR. IMPOSSIBILIDADE. AUSÊNCIA DE MODULAÇÃO TEMPORAL DOS EFEITOS. RE 870.947-ED. TEMA 810 DA REPERCUSSÃO GERAL. OBSERVÂNCIA PELO TRIBUNAL A QUO. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 97 DA CRFB. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo nas alíneas a do permissivo constitucional, contra acórdão que assentou:
+
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DOS FISCAIS FEDERAIS AGROPECUÁRIOS — GDAFA. SERVIDORES APOSENTADOS E PENSIONISTAS. PARIDADE COM OS SERVIDORES ATIVOS. LIMITE MÁXIMO. INEXISTÊNCIA DE OFENSA À COISA JULGADA. COMPENSAÇÃO COM EVENTUAIS VALORES PAGOS CUMULATIVAMENTE COM A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DOS FISCAIS FEDERAIS AGROPECUÁRIOS — GDFFA.
+
+    1. O titulo executivo concedeu a segurança "para o fim de garantir aos substituídos da impetrante o recebimento da Gratificação de Desempenho de Atividade de Fiscalização Agropecuária — GDAFA da mesma forma e nos mesmos percentuais em que concedida aos servidores em atividade, ou seja, no seu limite máximo, no percentual de 50% (cinquenta por cento)." Com isso, não há duvidar que, em essência, o título executivo reconhece o direito dos Fiscais Agropecuários aposentados ao mesmo percentual concedido aos seus pares em atividade, na forma da lei. Tendo a Lei 10.883/2004 elevado para 55% o limite máximo da GDAFA, este deve ser o percentual, em razão da sobredita paridade assegurada no título executivo, a ser observado quando da execução do julgado, até a implementação dos mecanismos de aferição da performance individual dos servidores em atividade.
+
+    2. Na hipótese, o direito às diferenças vencimentais não se limita à data da edição da Lei 10.883/2004, que institui os limites para a percepção da vantagem instituída pela Medida Provisória 2.229-43 (reedição da MP 2.048-26), pois o referido diploma legal, apesar de assegurar o pagamento da gratificação aos inativos, prevê o pagamento em patamar diferenciado dos servidores da ativa, em desconformidade com o título executivo.
+
+    3. O direito deve ser assegurado até 31 de janeiro de 2008, quando surgiu no mundo jurídico nova alteração da matéria, com a edição da Lei 11.784/2008, esta que extinguiu a GDAFA, instituindo, em substituição, a GDFFA, com critérios de aferição de desempenho.
+
+    4. Os elementos existentes nos autos indicam para a possibilidade de eventuais pagamentos terem sido efetuados administrativamente em favor dos exequentes a título da GDAFA a partir de fevereiro de 2008. Contudo, valores eventualmente pagos devem ser abatidos do valor reconhecido no título exequendo relativamente a cada um representado, desde que comprovado nos autos, sob pena de duplicidade de pagamentos. Isso porque nos termos do que estabelece o art. 45 da Lei. 11.784/2008, a GDFFA não poderá ser paga cumulativamente com outras gratificações de desempenho de atividade ou de produtividade.
+
+    5. Apelação da União e recurso adesivo da parte exequente desprovidos” (Doc. 11, p. 12)
+
+    Os embargos de declaração opostos foram desprovidos (Doc. 17).
+
+    Nas razões do apelo extremo (Doc. 22), a União apresenta preliminar de repercussão geral e, no mérito, entende violados os artigos 5°, LIV, LV, LXX, XXXVI e XXI; e 100, todos da CRFB. Alega, em síntese, (i) irregularidade na representação processual por ausência de filiação direta, pois a Associação Nacional dos Fiscais Federais Agropecuários - ANFFA, “quando da impetração do mandado de segurança coletivo, não atuou na defesa dos interesses de seus associados, Associações Estaduais, mas no interesse dos Fiscais Federais Agropecuários, filiados às associações estaduais que [a] compõem” (Doc. 22, p. 12); (ii) ilegitimidade ativa e ausência de título para exequentes que não constavam da lista de beneficiários que acompanhou a inicial da ação de conhecimento; (iii) “após 2004, o percentual de GDAFA é de 50%, em conformidade com o acórdão da demanda cognitiva, que foi prolatada após a Lei n° 10.883/04, logo a alegação de majoração de 50% para 55% poderia ter sido feita na fase de conhecimento, o que faz com que o fato esteja acobertado pela coisa julgada, não podendo haver modificação do título executivo transitado em julgado na fase de liquidação e execução” (Doc. 22, p. 31); (iv) “a correção monetária dos valores tidos como base de cálculo dos honorários devidos deve observar, desde julho/2009 até a modulação dos efeitos do julgamento proferido pelo STF no RE 870.947, os índices oficiais de remuneração básica da caderneta de poupança (Taxa Referencial — TR)” (Doc. 22, p. 30).
+
+    O Tribunal a quo inadmitiu o recurso extraordinário (Doc. 27).
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Ab initio, verifica-se que o acórdão recorrido converge com a jurisprudência desta Corte, no sentido de que, em impetração de mandado de segurança coletivo por associações, é desnecessária a autorização expressa dos associados, visto que, nessa situação, ocorre a substituição processual prevista no artigo 5º, inciso LXX, alínea b, da Constituição Federal. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário. Constitucional. Mandado de segurança coletivo. Associação. Legitimidade ativa. Autorização expressa dos associados. Relação nominal. Desnecessidade. Precedentes.
+
+    1. É pacífica a jurisprudência desta Corte de que as associações, quando impetram mandado de segurança coletivo em favor de seus filiados, atuam como substitutos processuais, não dependendo, para legitimar sua atuação em Juízo, de autorização expressa de seus associados, nem de que a relação nominal desses acompanhe a inicial do mandamus, consoante firmado no julgamento do MS nº 23.769/BA, Tribunal Pleno, Relatora a Ministra Ellen Gracie.
+
+    2. Agravo regimental não provido.” (RE 501.953-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 26/4/2012, destaquei)
+
+    Assevere-se, ainda, que o Plenário desta Suprema Corte, ao julgar o ARE 1.293.130, Rel. Min. Luiz Fux, Tema 1.119 da Repercussão Geral, reafirmou esse entendimento e pacificou definitivamente a controvérsia, aprovando a seguinte tese:
+
+    “É desnecessária a autorização expressa dos associados, a relação nominal destes, bem como a comprovação de filiação prévia, para a cobrança de valores pretéritos de título judicial decorrente de mandado de segurança coletivo impetrado por entidade associativa de caráter civil.” (DJe de 08/01/2021, destaquei)
+
+    Demais disso, a jurisprudência desta Corte é uníssona quanto ao entendimento de que os princípios da ampla defesa, do contraditório (artigo 5º, LV), do devido processo legal (artigo 5º, LIV) e os limites da coisa julgada (artigo 5º, XXXVI), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário do Supremo Tribunal Federal na análise do ARE 748.371, da relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660:
+
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+
+    Nesse mesmo sentido, os seguintes julgados:
+
+    “Ementa: Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público estadual. Gratificação. Incorporação. Violação ao art. 93, IX, da Constituição federal. Inexistência. Tema 660 da RG. Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. O STF já decidiu que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). 5. O Plenário desta Corte afastou a existência de repercussão geral da controvérsia relativa à suposta violação aos arts. 5º, II, XXXV, XXXVI, LIV E LV, da CF, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748.371-RG Tema 660). 6. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 7. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 8. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015”. (ARE 1.533.178-AgR, Rel. Min. Luís Roberto Barroso - Presidente, Tribunal Pleno, DJe de 18/3/2025)
+
+    “EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE REPRESENTAÇÃO. TRANSFERÊNCIA DO SERVIDOR. CESSAÇÃO DO PAGAMENTO. NATUREZA JURÍDICA. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal não possui repercussão geral (ARE 748.371-RG, Plenário, Rel. Min. Gilmar Mendes, DJe de 1º/8/2013, Tema 660). 2. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional local, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmulas 279 e 280 do STF). 3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.383.606-AgR, Rel. Min. Luiz Fux - Presidente, Tribunal Pleno, DJe de 17/8/2022)
+
+    Quanto à pretensão de incidência de atualização monetária do montante da condenação conforme o o índice previsto no art. 1º-F da Lei 9.494/1007, na redação do art. 5º da Lei 11.960/1999, melhor sorte não assiste o agravante. Com efeito, o acórdão ora recorrido está em harmonia com o entendimento firmado por esta Corte no julgamento do Recurso Extraordinário 870.947, Tema 810 da Repercussão Geral, Rel. Min. Luiz Fux, no qual fixadas as seguintes teses:
+
+    “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e
+
+    2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.” (DJe de 20/11/2017, destaquei)
+
+    Adiante, em 3/10/2019, o Plenário do STF indeferiu os pedidos de modulação de efeitos formulados em diversos Embargos de Declaração opostos contra o Recurso Extraordinário 870.947, Redator p/ o acórdão Min. Alexandre de Moraes, in verbis:
+
+    “Ementa : QUATRO EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. REJEIÇÃO. REQUERIMENTO DE MODULAÇÃO DE EFEITOS INDEFERIDO.
+
+    [...]
+
+    6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma.
+
+    7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional.
+
+    8. Embargos de declaração todos rejeitados. Decisão anteriormente proferida não modulada.” (DJe de 3/2/2020 - destaquei)
+
+    Enfim, verifica-se que o artigo 97 da Constituição da República, que a parte recorrente considera violado, não foi debatido no acórdão recorrido. Além disso, os embargos de declaração opostos não sanaram tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário. Incidem, portanto, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+    Ademais, havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário deverá ser majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 20 de maio de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
