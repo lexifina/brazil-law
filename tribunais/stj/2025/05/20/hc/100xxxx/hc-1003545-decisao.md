@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ROBSON VIEIRA MESQUITA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ proferido no julgamento do Habeas Corpus n. 0623585-19.2025.8.06.000, assim ementado (fl. 8-39), cuja ordem foi denegada.
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei 11.343/2006, estando preso preventivamente desde 11/03/2025.
+O impetrante alega, em suma, que não estão presentes os requisitos do art. 312 do CPP e que o decreto de prisão preventiva carece de fundamentação idônea. Argumenta que não se pode manter a prisão preventiva quando não há apreensão de drogas ou laudo pericial que ateste a materialidade do crime de tráfico, baseando-se a acusação apenas em mensagens trocadas entre terceiros que citam o nome do paciente.
+Afirma que a imputação feita ao paciente limita-se ao art. 33 da Lei de Drogas, mas as decisões judiciais se fundamentam em elementos vinculados a associação criminosa, não descritos na denúncia, violando o contraditório e a ampla defesa.
+Também aduz ausência de contemporaneidade da prisão e que a inexistência de fatos supervenientes tornam a custódia ilegal, por ausência de periculum libertatis concreto (fls. 4-5).
+Requer liminarmente a concessão da medida para que o paciente possa aguardar o julgamento definitivo deste writ em liberdade, ainda que mediante o cumprimento de medidas cautelares diversas da prisão (art. 319 do CPP) (fls. 6).
+No mérito, requer a concessão da ordem para revogar a prisão preventiva de Robson Vieira Mesquita, com base na ausência de justa causa e na ilegalidade da fundamentação apresentada pelas instâncias inferiores. Subsidiariamente, que sejam aplicadas medidas cautelares diversas da prisão (art. 319, CPP); alternativamente, que seja determinado o trancamento da ação penal em relação ao artigo 33 da Lei de Drogas, por manifesta ausência de materialidade delitiva e de justa causa (fls. 7).
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do artigo 312 do Código de Processo Penal.
+O decreto prisional resul tou assim fundamentado (fls. 124-136):
+ ..  No mais, constata-se que os alvos são investigados sob a suspeita de envolvimento com os delitos de tráfico ilícito de entorpecentes e associação para o tráfico.
+Noticia, ainda, que consta dos autos diálogos que evidenciam a participação de Enderson no crime de tráfico de drogas, na qualidade de fornecedor de armas, munições e financiador das atividades criminosas de Gleiciane. Além disso, há indícios de que Robson tenha cedido sua conta bancária para o recebimento dos valores provenientes do tráfico ilícito de entorpecentes.
+ ..
+III) ROBSON VIEIRA MESQUITA:
+A manutenção do representado em liberdade traz sérios risco a ordem pública - por se tratar da prática de delitos de extrema gravidade (arts. 33 da Lei nº 11.343/06), sobretudo porque no caso em testilha há fortes indícios de que o representado possui participação na compra e venda de entorpecentes ilícitos, pois há indícios de que tenha cedido sua conta bancária para o recebimento dos valores provenientes do tráfico ilícito de entorpecentes.
+Importante frisar, ainda, que o representado já responde por outros delitos, conforme consta em certidão de antecedentes criminais de fls. 79-85.
+Dessa maneira, a gravidade concreta dos fatos certamente ampara medida extrema para a garantia da ordem pública, pois a natureza do delito é grave, bem como as circunstâncias em que o envolveram demonstram a periculosidade do agente.
+Portanto, faz-se necessário a prisão preventiva do representado para garantir a ordem pública, visando a prevenir a reprodução de fatos criminosos, e a aplicação da lei penal, visando a acautelar o meio social.
+Verifica-se que a prisão preventiva do paciente foi decretada mediante fundamentação válida, para a garantia da ordem pública, dada a gravidade concreta dos fatos imputados, "pois há indícios de que tenha cedido sua conta bancária para o recebimento dos valores provenientes do tráfico ilícito de entorpecentes". Além disso, o magistrado ressaltou o risco de reiteração delitiva, uma vez que "o representado já responde por outros delitos, conforme consta em certidão de antecedentes criminais".
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019)" (AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Devidamente fundamentada a prisão preventiva do paciente, não se verifica flagrante ilegalidade capaz de justificar a sua revogação.
+No que pertine à alegação de descompasso entre a fundamentação da prisão e a imputação penal, verifica-se que a Corte de origem não se manifestou a respeito, ficando esta Corte Superior impedida de fazê-lo, sob pena de indevida supressão de instância.
+Por fim, cabe destacar que a via estreita do habeas corpus não se presta a análise da tese de suficiência de indícios de autoria e materialidade, porquanto demanda ampla dilação probatória, incompatível com o rito célere e a cognição sumária que caracterizam referida ação constitucinal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
