@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GERALDA ROSA MOREIRA, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/2/2025.
+Concluso ao gabinete em: 15/5/2025.
+Ação: declaratória de nulidade de cartão de crédito e de empréstimo consignado c/c obrigação de fazer e danos morais, ajuizada pela agravante em desfavor do BANCO PAN S/A.
+Sentença: integralizada pela decisão de e-STJ fls. 275/276, julgou procedentes os pedidos iniciais para: a) declarar a nulidade do contrato de empréstimo consignado de nº 361525455-8; b) ratificar a liminar e determinar à parte ré que se abstenha de cobrar o débito mencionado no item "a", sob pena de multa a ser arbitrada; c) condenar a parte ré a restituir em dobro os valores descontados do benefício da autora, referente ao contrato de nº 361525455-8, ficando autorizada a compensação; d) condenar a parte ré a restituir o valor depositado referente ao contrato de nº 361525455-8, ficando autorizada a compensação e; e) condenar a parte ré a pagar à parte autora a quantia de R$ 6.000,00 (seis mil reais) a título de danos morais.
+Acórdão: deu provimento ao recurso de apelação interposto pela parte agravada , nos termos da seguinte ementa:
+APELAÇÃO - INEXISTÊNCIA DE DÉBITO - CONTRATO DE EMPRÉSTIMO CONSIGNADO - CARTÃO DE CRÉDITO - DANOS MORAIS SELFIE - INDENIZAÇÃO - AUSÊNCIA DE FALHA PRESTAÇÃO SERVIÇOS - CONTRATAÇÃO COMPROVADA. De conformidade com o disposto no art. 14, Código de Defesa do Consumidor, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação de danos causados aos consumidores por defeitos relativos à prestação dos serviços, só se eximindo da responsabilidade, nos termos do § 3º, se for comprovada a inexistência do defeito, ou a culpa exclusiva do consumidor ou de terceiro. Com a evolução dos contratos, e adoção de novas tecnologias pelas instituições financeiras, a selfie pode ser considerada mecanismo de declaração de vontade. Existindo provas da relação jurídica existente entre as partes, devem ser considerados lícitos os descontos efetuados no benefício previdenciário do consumidor, não havendo direito a indenização por danos morais.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial, em razão da incidência das Súmulas 5 e 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega, em síntese, que "o debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito" (e-STJ fl. 375).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira específica e consistente, a inaplicabilidade dos óbices acerca da incidência das Súmulas 5 e 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, a parte recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023 e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
