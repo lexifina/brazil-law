@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DA 2ª VARA DO TRABALHO DE GOIÂNIA - GO, ora suscitante, e o JUÍZO FEDERAL DA 3ª VARA FEDERAL CÍVEL DA SEÇÃO JUDICIÁRIA DE GOIÁS, o suscitado, nos autos do mandado de segurança individual impetrado por RAÍSSA NETTO MEDEIROS contra ato do Presidente da Empresa Brasileira de Serviços Hospitalares - EBSERH e do Presidente do Instituto Brasileiro de Formação e Capacitação - IBFC.
+Consoante se extrai do sistema processual e como bem salientado pelo Ministério Público Federal em parecer de fls. 298-300, a matéria já foi objeto de decisão no Conflito de Competência n. 209.229-GO, também de minha relatoria, com trânsito em julgado em 29/11/2024, em que foi decidido o seguinte:
+Com efeito, o Supremo Tribunal Federal no julgamento do Tema n. 992, sob o rito da repercussão geral, firmou a tese no sentido de que compete à justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame contra a Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal.
+O julgado em questão restou assim ementado:
+RECURSO EXTRAORDINÁRIO REPRESENTATIVO DA CONTROVÉRSIA. TEMA 992. DIREITO DO TRABALHO. DIREITO ADMINISTRATIVO. DISCUSSÃO SOBRE COMPETÊNCIA. ART. 114, INCISO I, DA CF/88. FASE PRÉ-CONTRATUAL.
+1. Inexistência de relação de trabalho na chamada fase pré-contratual a atrair a competência da Justiça do Trabalho.
+2. Prevalência do caráter público. Concurso público como ato de natureza administrativa.
+3. Fixação da tese: Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal. Recurso extraordinário não provido. (RE 960429, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 05-03-2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-157 DIVULG 23-06-2020 PUBLIC 24-06-2020; sem grifos no original).
+Nesse mesmo sentido, assim vem decidindo esta Corte: CC n. 208.848/RJ, relator Min. FRANCISCO FALCÃO, DJe de 28/10/2024; CC n. 206.742/GO, relator Min. BENEDITO GONÇALVES, DJe de 9/8/2024; CC n. 203.949/PE, relator Min. BENDITO GONÇALVES, DJe de 10/4/2024; CC n. 202.700/ES, relator Min. PAULO SÉRGIO DOMINGUES, DJe de 19/3/2024; CC n. 189.664/MG, relator Min. AFRÂNIO VILELA, DJe de 7/2/2024, entre outros.
+ .. , CONHEÇO do conflito para declarar competente o Juízo Federal da 3ª Vara Federal Cível da Seção Judiciária de Goiás, ora suscitado, para o processamento e julgamento do presente mandamus.
+Ante o exposto, NÃO CONHEÇO do presente conflito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA DO TRABALHO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. DECISÃO PROFERIDA NO CC N. 209.229/GO QUE ESTABELECEU A COMPETÊNCIA DA JUSTIÇA FEDERAL . NÃO CONHEÇO DO CONFLITO.
