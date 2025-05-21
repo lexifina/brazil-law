@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de reclamação com pedido de tutela de urgência formulada pelo ESPÓLIO DE JOÃO CARLOS SOARES DE OLIVEIRA contra acórdão da 15ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, proferido nos autos do Agravo de Instrumento n. 2379593-34.2024.8.26.0000, assim ementado:
+EMENTA: DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. RECURSO NÃO PROVIDO.
+I. Caso em Exame
+Agravo de instrumento interposto contra decisão que rejeitou a exceção de pré-executividade em execução fiscal movida pela Prefeitura Municipal de Barretos para cobrança de IPTU dos exercícios de 2012 a 2015. O agravante alega prescrição, sustentando que a execução anterior foi extinta por abandono, sem interrupção do prazo prescricional.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar se a execução fiscal atual está prescrita, considerando a extinção da execução anterior por abandono e a ausência de marco interruptivo do prazo prescricional.
+III. Razões de Decidir
+3. A possibilidade de renovar a certidão de dívida ativa e repropor a execução fiscal é permitida dentro do prazo de cinco anos, conforme o artigo 173, inciso II, do Código Tributário Nacional, a partir do trânsito em julgado da execução fiscal anterior.
+4. A prescrição foi interrompida pelo despacho que ordena a citação, conforme a redação do artigo 174 do CTN dada pela LC 118/2005. A tese do Tema 869 do STJ não se aplica ao direito tributário.
+IV. Dispositivo e Tese
+5. Recurso não provido.
+Tese de julgamento: 1. A repropositura da execução fiscal dentro do prazo de cinco anos é válida quando a execução anterior foi extinta sem julgamento do mérito.
+2. A interrupção da prescrição ocorre com o despacho que ordena a citação, conforme a LC 118/2005. Legislação Citada: CTN, art. 173, II; art. 174, parágrafo único, I; CPC, art. 486. Jurisprudência Citada: STJ, AgRg no AR Esp 52.192/SP, Rel. Min. Mauro Campbell Marques, j. 17/11/2011, D Je 28/11/2011; TJSP, AP nº 1007136-22.2015.8.26.0223, Rel. Des. Ricardo Chimenti, 18ª Câmara de Direito Público, j. 7/12/2017.
+O reclamante sustenta, em resumo, que o acórdão reclamado, ao afastar a prescrição, contraria o precedente vinculante formado no julgamento do Tema 869 do STJ. Afirma que:
+(..) a hermenêutica por trás do Tema 869 do STJ é justamente trazer "um tipo de punição" ao litigante que ao utilizar-se da máquina assoberbada Judiciário, abandona a lide e propicia a extinção do processo sem análise do mérito, não podendo ser o autor desidioso beneficiado com a interrupção e nova contagem do prazo prescricional.
+Desta forma, toda vez que uma decisão proferida por juízes hierarquicamente inferiores desrespeitar prévia decisão proferida por esse egrégio Superior Tribunal de Justiça, será cabível a reclamação com a finalidade de garantir a autoridade e a eficácia de seu provimento jurisdicional (com base no princípio da hierarquia).
+Pugna, liminarmente, pela suspensão do acórdão reclamado e, no mérito, por sua cassação.
+Passo a decidir.
+O processamento da presente reclamação deve ser, desde logo, indeferido.
+Com a ressalva do meu ponto de vista em sentido contrário, já manifestado por ocasião do julgamento da Rcl n. 37.081/SP, a Corte Especial do STJ, na sessão de 5/2/2020, ao apreciar a Rcl n. 36.476/SP, Relatora Ministra Nancy Andrighi, DJe 6/3/2020, decidiu que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo à realidade do processo.
+Entendeu a Corte, em síntese, que o art. 988, IV, do CPC/2015, ainda no período da vacatio legis, foi alterado pela Lei n. 13.256/2016, sendo excluída a previsão de cabimento de reclamação para garantir a observância de precedente oriundo de "casos repetitivos", passando a constar, apenas, o precedente advindo do julgamento de IRDR, que é espécie daqueles.
+Destacou que, sob um aspecto topológico, não há coerência e lógica em afirmar que o parágrafo 5º, II, do referido dispositivo, com a redação dada pela nova Lei, veicularia nova hipótese de cabimento de reclamação, já que as hipóteses de cabimento foram expressamente elencadas nos incisos do caput.
+Afirmou, ainda, que a investigação do contexto jurídico-político em que foi editada a Lei n. 13.256/2016 enseja a compreensão de que a norma efetivamente visou ao não cabimento de reclamações dirigidas ao STF e ao STJ para o controle da aplicação de acórdãos proferidos sob a sistemática de questões repetitivas, sendo certo que admitir o contrário atenta contra a finalidade da instituição da sistemática em comento, que surgiu como mecanismo de racionalização da prestação jurisdicional das Cortes Superiores.
+Registrou, por fim, que, na sistemática dos recursos repetitivos, a aplicação no caso concreto não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno previsto no art. 1.030, § 2º, do CPC/2015.
+Assim, em razão do posicionamento adotado pela Corte Especial do STJ, mostra-se incabível a presente reclamação.
+Esse entendimento vem sendo ordinariamente aplicado pela Seções especia lizadas desta Corte Superior, conforme se verifica desses recentes arestos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. ALEGADO EQUÍVOCO NA APLICAÇÃO DE PRECEDENTE VINCULANTE. NÃO CABIMENTO DA RECLAMAÇÃO. UTILIZAÇÃO DO INSTRUMENTO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do STJ firmou entendimento pelo não "cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos" (STJ, Rcl n. 36.476/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 6/3/2020). Nesse sentido: AgInt na Rcl n. 46.898/GO, relator Ministro Herman Benjamin, Primeira Seção, julgado em 24/4/2024, DJe de 6/5/2024; AgInt na Rcl n. 47.502/GO, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 17/9/2024, DJe de 23/9/2024.
+2. É inviável o uso da reclamação como sucedâneo recursal. Nesse sentido: AgInt na Rcl n. 38.395/MG, relator Ministro Herman Benjamin, Primeira Seção, julgado em 19/5/2020, DJe de 4/6/2020;
+AgInt nos EDcl na Rcl n. 43.496/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 12/12/2023, DJe de 14/12/2023; AgInt na Rcl n. 46.185/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28/11/2023, DJe de 30/11/2023.
+3. Agravo interno não provido.
+(AgInt na Rcl n. 46.932/GO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 18/3/2025, DJEN de 21/3/2025.)
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NA RECLAMAÇÃO INDEFERIDA LIMINARMENTE. DECISÃO NA ORIGEM DE NEGATIVA DO SEGUIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DE PRECEDENTE VINCULANTE. ACÓRDÃO NA ORIGEM EM RECURSO INTERNO MANTENDO O ENTENDIMENTO. UTILIZAÇÃO DA RECLAMAÇÃO PARA ARROSTAR ALEGADA INCIDÊNCIA IMPRÓPRIA DE TEMA DO STF. NÃO CABIMENTO. DECISÃO MONOCRÁTICA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A reclamação é instrumento processual de caráter específico e de aplicação restrita, nos termos do artigo 105, inciso I, alínea "f", da Constituição Federal, destinando-se à preservação da competência do Superior Tribunal de Justiça e à garantia da autoridade das suas decisões.
+2. O Tribunal de origem negou provimento ao agravo interno, mantendo a negativa de seguimento do recurso especial, em que se consignou a consonância do entendimento do aresto vergastado, sobre a constatação da responsabilidade subjetiva pelo ato de improbidade administrativa, com tema oriundo de precedente vinculante.
+3. Incabível o manejo da via reclamatória para o controle de conformidade da tese firmada sob o rito dos recursos repetitivos (art. 1.030, inciso I, alínea "b", do Código de Processo Civil).
+4. Ausente violação à competência do Superior Tribunal de Justiça em decorrência da aplicação do tema de repercussão geral do Supremo Tribunal Federal (artigo 988, § 1.º, do Código de Processo Civil).
+5. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 47.502/GO, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 17/9/2024, DJe de 23/9/2024.)
+No mesmo sentido: AgInt na Rcl n. 43.026/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/9/2023, DJe de 22/9/2023; EDcl no AgInt na Rcl n. 34.988/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 15/8/2023, DJe de 17/8/2023; AgRg nos EDcl na Rcl n. 43.410/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 10/5/2023, DJe de 12/5/2023.
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, INDEFIRO LIMINARMENTE a presente reclamação, porquanto incabível. JULGO PREJUDICADO o pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
