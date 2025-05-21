@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE 5 G DE COCAÍNA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. COMPORTAMENTO ESQUIVO. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+1. A jurisprudência desta Corte tem entendido que a revista pessoal sem autorização judicial prévia somente pode ser realizada diante de fundadas suspeitas de que alguém oculte consigo arma proibida, coisas achadas ou obtidas por meios criminosos, instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos; ou objetos necessários à prova de infração, na forma do disposto no § 2º do art. 240 e no art. 244, ambos do Código de Processo Penal.
+2. A busca pessoal deve ser amparada por fundada suspeita, conforme o art. 244 do Código de Processo Penal, o que se verifica no presente caso diante das circunstâncias fáticas constantes dos autos - motocicletas paradas na contramão, em lugar afastado da cidade, de madrugada e comportamento esquivo ao avistar a viatura. Assim não há falar aqui em nulidade da busca pessoal.
+3. Ordem denegada.
+RELATÓRIO
+O presente habeas corpus, impetrado em favor de MATHEUS SONEMBERG, condenado por tráfico de drogas à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e pagamento de 750 dias-multa, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ (Embargos Infringentes n. 0000152-26.2024.8.16.0086), não comporta acolhimento.
+Alega-se, aqui, após o trânsito em julgado da condenação, ilegalidade na busca pessoal realizada sem justa causa suficiente, uma vez que, no caso em tela, não havia indícios de atividade criminosa antes da abordagem, nem ação suspeita por parte do paciente, tornando a apreensão derivada da busca pessoal manifestamente ilegal, devendo ser considerada prova (fl. 6).
+Requer-se a concessão da ordem para que seja reconhecida a nulidade das provas obtidas mediante a busca pessoal ilegal.
+Informações prestadas às fls. 847/877 e manifestação do Ministério Público Federal pelo não conhecimento do habeas corpus às fls. 880/882.
+É o relatório.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE 5 G DE COCAÍNA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. COMPORTAMENTO ESQUIVO. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+1. A jurisprudência desta Corte tem entendido que a revista pessoal sem autorização judicial prévia somente pode ser realizada diante de fundadas suspeitas de que alguém oculte consigo arma proibida, coisas achadas ou obtidas por meios criminosos, instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos; ou objetos necessários à prova de infração, na forma do disposto no § 2º do art. 240 e no art. 244, ambos do Código de Processo Penal.
+2. A busca pessoal deve ser amparada por fundada suspeita, conforme o art. 244 do Código de Processo Penal, o que se verifica no presente caso diante das circunstâncias fáticas constantes dos autos - motocicletas paradas na contramão, em lugar afastado da cidade, de madrugada e comportamento esquivo ao avistar a viatura. Assim não há falar aqui em nulidade da busca pessoal.
+3. Ordem denegada.
+VOTO
+Pois bem. O presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, verificando-se dos autos a existência de justa causa e fundamentação idônea a justificar a abordagem policial (fl. 700 - grifo nosso):
+ ..
+Ao analisar os autos, constata-se que os policiais militares responsáveis pela prisão em flagrante do acusado prestaram relatos harmônicos e firmes no sentido de que, no dia dos fatos, estavam em patrulhamento quando visualizaram, na rotatória da BR 272, duas motocicletas paradas na contramão, sendo que uma estava caída no canteiro e a outra estava na via. Relataram que havia dois indivíduos, sendo que um deles havia "esboçado uma fuga". Aduziram que, diante das circunstâncias do fato e da atitude suspeita, procederam a abordagem, oportunidade em que localizaram com o réu buchas de cocaína e dinheiro com várias notas trocadas.
+Dessa forma, o que se depreende dos autos, é que a abordagem policial inicial ocorreu com base em fundadas razões, na medida em que duas pessoas estavam paradas na rotatória da cidade, local afastado, e especialmente por ser madrugada, aproximadamente 1 hora da manhã, merecendo destaque que um dos indivíduos havia "esboçado uma fuga" ao visualizar a viatura.
+ ..
+Assim, diante das circunstâncias fáticas constantes dos autos - motocicletas paradas na contramão, em lugar afastado da cidade, de madrugada e comportamento esquivo ao avistar a viatura -, resta evidente que a abordagem pessoal do condenado se mostrou legítima e amparada legalmente.
+Com efeito, nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC n. 229.514/PE, julgado em 28/8/2023) - (AgRg no HC n. 985.396/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN 26/3/2025).
+Ademais, a desconstituição do que ficou estabelecido nas instâncias ordinárias ensejaria o reexame aprofundado de todo conjunto fático-probatório da ação penal, providência incompatível com os estreitos limites habeas corpus.
+Ante o exposto, denego a ordem.
