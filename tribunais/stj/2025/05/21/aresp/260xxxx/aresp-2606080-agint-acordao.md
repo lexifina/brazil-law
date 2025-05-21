@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. PESSOA JURÍDICA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA. MATÉRIA QUE DEMANDA O REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A revisão da convicção formada pelo colegiado local - acerca da não comprovação da hipossuficiência, indispensável ao deferimento da gratuidade de justiça - demandaria o necessário reexame de fatos e provas, o que é inadmitido nesta instância extraordinária, considerando o disposto no enunciado sumular n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por KARMA AUDIOVISUAL LIMITADA contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 108):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. PESSOA JURÍDICA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA. MATÉRIA QUE DEMANDA O REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo interno (e-STJ, fls. 115-124), a agravante sustenta a inaplicabilidade da Súmula n. 7/STJ, ponderando que não há necessidade de revolvimento do acervo probatório dos autos principais, mas apenas a análise de documentos específicos e determinados que demonstram a sua condição de hipossuficiência, a fim de proceder à correta interpretação do direito aplicável ao caso concreto.
+Postula, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Não foi apresentada impugnação ao recurso (e-STJ, fl. 127).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. PESSOA JURÍDICA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA. MATÉRIA QUE DEMANDA O REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A revisão da convicção formada pelo colegiado local - acerca da não comprovação da hipossuficiência, indispensável ao deferimento da gratuidade de justiça - demandaria o necessário reexame de fatos e provas, o que é inadmitido nesta instância extraordinária, considerando o disposto no enunciado sumular n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+VOTO
+Os argumentos trazidos pela parte agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Consoante anotado na decisão agravada, o Tribunal de Justiça do Estado de São Paulo consignou que a parte requerente não preencheu os requisitos para a obtenção da gratuidade de justiça, declinando a seguinte fundamentação (e-STJ, fl. 34-37 - sem grifos no original):
+No caso em análise, após o indeferimento em Primeiro Grau exatamente por falta de comprovação da necessidade da benesse, caberia à agravante providenciar a juntada das últimas declarações do Imposto de Renda Pessoa Jurídica, balanço patrimonial mais recente, extratos bancários e, estando inativa, os demais documentos necessários para comprovar sua condição financeira. Todavia, limitou-se a apresentar Declaração de débitos e créditos tributários federais (fls. 21/29), que em nada acrescentam na análise da miserabilidade jurídica da agravante, mormente sendo uma empresa sujeita ao recolhimento de tributos municipais. Considerando a desídia da agravante, que não atendeu à determinação legal, o que era de seu próprio interesse, deixando de apresentar provas de sua hipossuficiência financeira, de rigor, o indeferimento da justiça gratuita.
+ ..
+Diante da escassez de elementos probatórios que justifiquem a benesse, impõe-se o indeferimento do pedido de concessão da justiça gratuita, pois tal benefício aplica-se às pessoas jurídicas hipossuficientes que demonstrem a impossibilidade de arcar com os encargos processuais, o que não ocorreu no caso concreto.
+Pelo exposto, pelo meu voto, proponho o NÃO PROVIMENTO DO RECURSO.
+Com efeito, nos termos da jurisprudência do Superior Tribunal de Justiça, a pessoa jurídica faz jus à gratuidade judiciária, desde que comprove a insuficiência de recursos financeiros para custeio das despesas processuais.
+Do trecho acima destacado verifica-se que o Tribunal de origem negou o benefício da gratuidade, consignando que a ora agravante não comprovou sua condição de hipossuficiência financeira, deixando de apresentar documentos contábeis e fiscais.
+Por conseguinte, a pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demandaria o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o Superior Tribunal de Justiça fosse uma terceira instância revisora e o recurso especial pudesse ser transmudado em uma apelação da apelação.
+Nessas circunstâncias, inviável alterar a convicção formada pelo colegiado local - acerca da não comprovação da hipossuficiência, indispensável ao deferimento da gratuidade de justiça -, sem que se proceda ao reexame de fatos e provas, o que é inadmitido nesta instância extraordinária, devendo ser ratificada a aplicação da Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EMPRESA INDIVIDUAL DE RESPONSABILIDADE LIMITADA. IMPOSSIBILIDADE DE EQUIPARAÇÃO À PESSOA NATURAL. CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA À PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O art. 102 da Constituição Federal estabelece que cabe ao Supremo Tribunal Federal (STF) decidir sobre a existência ou não de violação a um dispositivo constitucional; a atuação do Superior Tribunal de Justiça no mesmo sentido implicaria usurpação de competência da Suprema Corte..
+2. Inexiste a alegada violação do art. 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalta-se que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+3. A empresa individual de responsabilidade limitada (EIRELI), que estava prevista no art. 980-A do Código Civil, sempre constou no rol de pessoas jurídicas de direito privado, detendo, inclusive, o direito de ver reconhecida a separação patrimonial entre o titular e a empresa. Assim, em sendo a EIRELI pessoa jurídica, está correta a Corte local em julgar o pedido de concessão do benefício da gratuidade da justiça conforme o regramento aplicável às pessoas jurídicas, sendo descabida a pretensão de equiparação à pessoa natural.
+4. O Tribunal de origem reconheceu que a pessoa jurídica ora recorrente não conseguira comprovar sua hipossuficiência econômica para fins de obtenção do benefício da gratuidade de justiça. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.019.952/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, D Je de 13/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. INDEFERIMENTO NA INSTÂNCIA ORDINÁRIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.988.874/TO, r elator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2024, D Je de 6/3/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, 1.022, II, DO CPC. VÍCIOS NÃO CONFIGURADOS. PESSOA JURÍDICA. ASSISTÊNCIA JUDICIÁRIA. NÃO COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. ACÓRDÃO RECORRIDO. REFORMA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+1. Não ocorre ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. Nos termos da Súmula 481/STJ, a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais.
+3. No caso, inviável a alteração da conclusão do Tribunal de origem quanto à ausência de comprovação por parte da agravante de seu estado de hipossuficiência, ante o óbice sumular 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AR Esp n. 2.314.440/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2023, D Je de 16/8/2023.)
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, subsiste íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto
