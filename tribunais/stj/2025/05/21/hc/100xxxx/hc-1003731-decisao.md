@@ -1,0 +1,14 @@
+DECISÃO
+BRUNO FELIX DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Agravo em Execução n. 0008264-25.2024.8.26.0047, em que foi mantida a decisão que "determinou a realização de novo cálculo penal do sentenciado, afastando a possibilidade de detração da prestação pecuniária adimplida parcialmente, abatendo-se tão somente eventual cumprimento de prestação de serviço à comunidade sobre o tempo de pena privativa de liberdade a cumprir" (fl. 39).
+A defesa assevera que, "tendo a pena privativa de liberdade sido convertida em prestação pecuniária, o cumprimento integral desta elimina, evidentemente, a obrigação da pessoa apenada de cumprir a pena privativa. Logo, como consequência lógica, o cumprimento parcial da prestação pecuniária deve afastar a obrigação de cumprimento da prestação pecuniária na proporção cumprida" (fl. 3).
+Depreende-se os autos que "o agravante foi condenado às penas de 01 ano e 08 meses de reclusão em regime aberto, como incurso no artigo 33, §4º, da Lei nº 11.343/06, tendo a pena corporal restado substituída por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária" (fl. 40).
+A respeito do tema, urge consignar que " e sta Corte não admite a aplicação do instituto da detração penal à pena de prestação pecuniária, por ausência de previsão legal" (REsp n. 1.853.916/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 13/8/2020.)
+No mesmo sentido:
+ ..
+1. Não é possível a aplicação por analogia da detração, na pena privativa de liberdade, do valor recolhido a título de prestação pecuniária, a qual tem caráter penal e indenizatório, com consequências jurídicas distintas da prestação de serviços à comunidade. Precedentes  ..  (AgRg no REsp n. 1.853.576/PR, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/8/2020.)
+ ..
+2. Não é possível a aplicação por analogia da detração na prestação pecuniária, pois, ainda que aplicadas conjuntamente (prestação de serviço à comunidade e prestação pecuniária), trata-se de institutos diversos, com consequências jurídicas distintas. Ademais, a prestação pecuniária tem caráter penal e indenizatório, sendo que o possível exame da redução do quantum arbitrado ensejaria reanálise das provas carreadas nos autos, o que é incompatível com a estreita via do writ  ..  (AgRg no HC n. 401.049/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/2/2019, grifei.)
+Dessa forma, torna-se irretocável a compreensão exarada pela Corte de origem, segundo a qual, "a prestação pecuniária consubstancia reprimenda não temporal, de caráter meramente econômico, de modo que seu cumprimento não se relaciona ao tempo de cumprimento de pena privativa de liberdade substituída, tal como ocorre com a prestação de serviços à comunidade" (fl. 41).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
