@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo interno interposto por EDUARDO JOSÉ MALUF, ADRIANA EDUARDO DAUD MALUF e ROSELENA EDUARDO DAUD MALUF contra decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial (fls. 675-677).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim resumido (fl. 318):
+*AGRAVO DE INSTRUMENTO. Ação de Indenização por Danos Materiais. Contrato de Intermediação de Ativos Financeiros. DECISÃO que indeferiu o pedido de redução e parcelamento dos honorários periciais. INCONFORMISMO deduzido no Recurso. EXAME: Prova pericial que exige conhecimento técnico, por envolver matéria de alta complexidade. Estimativa dos honorários periciais em R$ 144.000,00 que se mostra excessiva. Arbitramento provisório que comporta redução para R$ 70.000,00, considerando as peculiaridades do caso concreto, relevando-se ainda os parâmetros da razoabilidade e da proporcionalidade. Aplicação do artigo 870, parágrafo único, do Código de Processo Civil. Possibilidade de revisão desses honorários quando do arbitramento em caráter definitivo, após a perícia, em vista do grau de zelo do "Expert" nomeado, da natureza e da complexidade do trabalho realizado. Pretensão de rateio da verba honorária que já se acha preclusa. Impossibilidade de parcelamento dos honorários periciais, ante a observância do princípio da celeridade processual. Decisão parcialmente reformada. RECURSO PARCIALMENTE PROVIDO.*
+Em suas razões recursais, as partes agravantes defendem que (fls. 684-686):
+O presente recurso tem previsão expressa no artigo 1.021 do Código de Processo Civil de 2015, sendo interposto contra a respeitável decisão monocrática da Presidência deste Tribunal da Cidadania, que não conheceu do agravo em recurso especial tirado perante o Tribunal Paulista (origem).
+O agravo em recurso especial mencionado foi interposto com base no artigo 1.042 e seguinte dos Código de Processo Civil em vigor1, contra a respeitável decisão monocrática de Presidência de Direito Privado do Egrégio Tribunal de Justiça Paulista, a fls. 424 / 426 dos autos, que indeferiu o processamento do recurso especial interposto pela autora com fulcro no artigo 1.030, V, do CPC/2015.
+ ..
+A r. decisão monocrática recorrida não conheceu do agravo em recurso especial mediante a seguinte fundamentação:
+ ..
+Sucede que, em contraponto às razões da r. decisão monocrática agravada, houve a impugnação específica quanto ao tópico relacionada à ausência de afronta ao artigo 1.022 do CPC, na petição do agravo em recurso especial.
+Impugnação às fls. 701-707, 708-733 e 734-738.
+Contrarrazões ao recurso especial às fls. 376-382, 384-389 e 391-411.
+É, no essencial, o relatório.
+Com razão as partes agravantes, motivo pelo qual, exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno do STJ, torno sem efeito a decisão de fls. 675-677.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação recursal não merece prosperar.
+No recurso especial, as partes recorrentes alegam violação aos seguintes dispositivos legais: art. 95 do CPC; art. 6º, VIII, do CDC.
+Nesse sentido, sustentam que (fls. 358-363):
+O dispositivo de direito federal vulnerado pela r. decisão recorrida é o artigo 95 do Código de Processo Civil de 20151, na medida em que o v. acórdão recorrido não admitiu o rateio dos honorários periciais (de valor bastante expressivos) entre autor e réus, havendo solicitação de perícia de ambos os polos do processo.
+Não só foi vulnerada regra processual, mas também outro dispositivo de lei federal de natureza consumerista, a saber, o artigo 6º, VIII do Código de Defesa do Consumidor, que determina a facilitação da defesa do consumidor e a inversão do ônus da prova (e seus encargos) ao fornecedor (não há dúvidas que a relação estabelecida entre as partes, a teor da Súmula 297 do STJ, perfaz relação consumerista).
+ ..
+Sobre a distribuição do encargo com a perícia (honorários), deve-se destacar que a presente lide envolve relação de consumo, com pedido expresso na exordial e demais peças do autor de inversão do ônus da prova, tudo com base no quanto dispõe o artigo 6º., VIII, do Código de Defesa do Consumidor. Assim, uma vez deferida a inversão do ônus da prova, solicitada pela autora desde a inicial, entende-se que as despesas com a produção da prova pericial, ainda que a título de adiantamento, devem recair sobre as requeridas.
+Ainda que a D. Câmara tenha entendido, em seu acórdão, não ser o caso da inversão do ônus da prova e da distribuição dos encargos financeiros com a perícia técnica exclusivamente às requeridas, subsidiariamente deve-se consignar que o Código de Processo Civil de 2015 alterou substancialmente as diretivas do artigo 33 do CPC/1973, passando a adotar entendimento pelo qual permite-se o rateio dos honorários periciais de forma equânime entre as partes, nos termos do que dispõe o caput do artigo 95 do CPC:
+ ..
+Assim, para que seja seguida a legislação federal, subsidiariamente ao pedido de inversão do ônus financeiro com a perícia às requeridas, com base no artigo 6º. do Código de Defesa do Consumidor, requer-se o rateio entre a parte autora e as quatro requeridas dessas despesas, ao fim competindo o adiantamento de 20% ou 1/5 (um quinto) dos honorários fixados a cada uma.
+Ademais, não há que se falar em preclusão do pedido, tendo em vista o rol de hipóteses de agravo de instrumento no artigo 1.015 do CPC/2015, que já não mais admite a interposição de recurso contra toda e qualquer decisão interlocutória proferida nos autos, como ocorria no regime adotado pelo Código Buzzaid.
+No que concerne à alegada violação do art. 95 do CPC, assim decidiu a Corte de Origem (fls. 319-321):
+Conforme já relatado, cuida-se de Agravo de Instrumento interposto contra decisão nos autos da Ação de Indenização por Danos Materiais, que o agravante move contra os agravados, proferida pelo MM. Juiz "a quo" nos termos seguintes:
+ ..
+Demais, consta dos autos que foi proferida decisão determinando que os honorários periciais ".. serão suportados pela parte autora" ("sic", fl. 8981 dos autos principais), publicada no Diário de Justiça Eletrônico em 27 de outubro de 2021. Ora, ante a ausência de impugnação recursal no prazo processual cabível, resta prejudicado o exame quanto ao rateio dos honorários periciais entre as partes, mormente considerando a ocorrência da preclusão temporal no tocante
+Com efeito, verifica-se que o recurso não apresenta argumentação específica e suficientemente apta a derruir o fundamento adotado pela Corte de Origem de que a questão resta preclusa em razão da ausência de impugnação recursal no prazo processual cabível, o que atrai os óbices das Súmulas n. 283/STF e 284/STF.
+A propósito, mutatis mutandis, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIOS. PRESTAÇÃO DE CONTAS. POSSIBILIDADE DE O RECURSO DE APELAÇÃO SER JULGADO MONOCRATICAMENTE PELO RELATOR. EMENDA À INICIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AGRAVO IMPROVIDO.
+1. O recorrente não impugnou o fundamento do acórdão recorrido acerca da possibilidade de o recurso de apelação ser julgado monocraticamente nos termos do art. 557 do CPC, o qual permitiu a emenda à petição inicial em homenagem aos princípios da celeridade e economia processual.
+2. Dessa forma, sendo a aludida motivação apta, por si só, para sustentar o decisum combatido, aplica-se na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 775.231/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/12/2015, DJe de 14/12/2015, grifei.)
+No que concerne à alegada violação do art. 6º, VIII, do CDC, observa-se que o Tribunal de origem não abordou, sequer implicitamente, a tese levantada e não foram opostos embargos declaratórios visando obter pronunciamento judicial acerca do ponto específico.
+Diante disso, verifica-se que não foi cumprido o necessário e indispensável prequestionamento da matéria, motivo pelo qual incide, no caso, o enunciado das Súmulas n. 282/STF e 356/STF.
+Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS QUE SE INSEREM, NECESSARIAMENTE, NO ÂMBITO DE COBERTURA DA APÓLICE. PRECEDENTE DA SEGUNDA SEÇÃO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. COBRANÇA DE MULTA DECENDIAL. TEMA NÃO PREQUESTIONADO. SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Conforme orientação firmada no âmbito da Segunda Seção, no contrato de seguro habitacional obrigatório vinculado ao SFH, a exclusão da responsabilidade da seguradora deve ficar limitada aos vícios decorrentes de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, uma vez que a expectativa do mutuário é receber o bem imóvel próprio e adequado ao uso a que se destina, não sendo compatível com a garantia de segurança esperada pelo segurado a exclusão de cobertura dos vícios de construção (REsp n. 1.804.965/SP, relatora Ministra NANCY ANDRIGHI, Segunda Seção, julgado aos 27/5/2020, DJe de 1º/6/2020). Incide, à hipótese, a Súmula n. 568 do STJ.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento. Incidência dos óbices das Súmulas nºs 282 e 356 do STF, por analogia.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(AREsp n. 2.788.186/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Ante o exposto, conheço do agravo para não conhece do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo
+em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO ESPECIFICAMENTE NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS N. 283/STF E 284/STF. TESE RECURSAL NÃO ABORDADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 356/STF . AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
