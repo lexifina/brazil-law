@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO TENTADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na aplicação da fração de tentativa, considerando o avançado iter criminis e a proximidade de consumação do delito. Concluir de forma diversa demandaria reexame probatório, inviável na via eleita.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 312.869/2025) interposto por ANDERSON RODRIGUES LUZ contra decisão da lavra deste Relator (fls. 45/46), em que se indeferiu liminarmente a impetração, a seguir ementada:
+PENAL. HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO TENTADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INDEVIDA SUPRESSÃO DE INSTÂNCIA E REEXAME PROBATÓRIO INVIÁVEL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ para revisão da condenação imposta e mantida pelas instâncias ordinárias - o habeas corpus é remédio processual que tutela a liberdade de locomoção do paciente em casos de abuso de poder ou de ilegalidade. Nessa linha, sustenta-se que o presente caso retrata manifesta ilegalidade - a justificar o conhecimento do tema em sede habeas corpus (fl. 52) - e, no mérito, ratifica os argumentos da impetração, pretendendo a revisão da dosimetria, com a aplicação da fração máxima de redução de pena (2/3) em face do reconhecimento da tentativa (fl. 55).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO TENTADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na aplicação da fração de tentativa, considerando o avançado iter criminis e a proximidade de consumação do delito. Concluir de forma diversa demandaria reexame probatório, inviável na via eleita.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que indeferiu liminarmente a impetração, mantendo a condenação do agravante por estelionato previdenciário tentado a 1 ano, 1 mês e 10 dias de reclusão, e 45 dias-multa, referente à Ação Penal n. 1000952-60.2021.4.01.4300 (fls. 24/34, da 4ª Vara Federal da Seção Judiciária do Tocantins) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois a fração de aplicação da tentativa, 1/2 (fl. 15), está devidamente fundamentada em razão do avançado iter criminis - considerando a proximidade de consumação do delito, chegando, o réu, a entregar o documento falso para conferência, sendo, apenas então, interrompido o delito, por circunstâncias alheias à vontade do agente (fl. 16) -, então, alterar o quantum de redução demandaria reexame probatório, inviável na via eleita (AgRg no HC n. 893.826/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 16/10/2024, DJe 23/10/2024).
+Em razão disso, nego provimento ao presente agravo regimental.
