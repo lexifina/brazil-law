@@ -1,0 +1,52 @@
+DECISÃO
+KLEVISON CARVALHO ARAÚJO e KLEISON CARVALHO DE ARAÚJO agravam da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0002653-78.2001.8.14.0401.
+Nas razões de recurso especial, foi apontada a violação dos arts. 413 e 567, ambos do Código de Processo Penal.
+Aduza defesa, em síntese, a nulidade dos atos praticados, sob o argumento de que, para a validade dos atos praticados por juízo absolutamente incompetente, seria imprescindível a ratificação posterior pelo juízo competente, o que não ocorreu.
+Afirma que, "em nenhum despacho do juízo do Tribunal do Júri e nem mesmo sua sentença de primeiro grau, foi mencionado os depoimentos colhidos pelo juízo incompetente" (fl. 785).
+Por fim, requer o reconhecimento, de ofício, da prescrição da pretensão punitiva.
+A Corte de origem não admitiu o recurso em razão da incidência da Súmula n. 83 do STJ (fls. 970-974), o que ensejou a interposição do presente agravo.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 1.025-1.030).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+Todavia, o recurso especial não preenche integralmente os requisitos necessários de admissibilidade.
+Quanto ao pleito de reconhecimento da prescrição, percebo carecer o assunto do necessário prequestionamento, a impedir o conhecimento da alegação, haja vista a matéria não haver sido nem mesmo submetida à Corte estadual.
+Nesse sentido:
+ ..  A prescrição relativa dos fatos praticados em março e abril de 2009 não foi prequestionada nas instâncias de origem. O STJ admite que mesmo as matérias ditas de ordem pública estão sujeitas, no âmbito do recurso especial, ao requisito do prequestionamento.
+ ..
+(AgRg no AREsp n. 2.269.012/PE, Rel. Ministro Rogerio Schietti, 5ª T., DJe 30/3/2023.)
+Incidem, portanto, os óbices das Súmulas n. 282 e 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Além disso, a parte nem sequer apontou qual seria o artigo violado nesse ponto, a demonstrar a incidência da Súmula n. 284 do STF ao caso.
+Por fim, a alegação de prescrição foi feita de maneira genérica, apenas pelo suposto decurso do tempo, sem nenhuma consideração a respeito dos possíveis marcos interruptivos a serem considerados para tal fim, tudo a, mais uma vez, evidenciar a impossibilidade de conhecimento da alegação, ante o óbice sumular acima citado.
+II. Arts. 413 e 567 do CPP
+Esta Corte Superior reconhece a teoria do juízo aparente de forma a admitir como válidos atos praticados por juízo aparentemente competente, cognição adequada à situação descrita.
+De fato, "nos termos da jurisprudência deste Tribunal, a modificação da competência não invalida automaticamente a prova regularmente produzida. Destarte, constatada a incompetência absoluta, os autos devem ser remetidos ao juízo competente, que pode ratificar ou não os atos já praticados" (HC n. 308.589/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 1º/9/2016).
+Tal orientação tem sido mantida pelo Superior Tribunal, conforme se verifica no seguintes precedentes: RHC n. 114.053/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 4/11/2019, e AgRg no RHC n. 45.401/RJ, Rel. Ministro Rogeiro Schietti, 6ª T., DJe 30/10/2018.
+Ou ainda: "mesmo em caso de incompetência absoluta, é possível ao juízo que recebe os autos do processo ratificar ou não os atos decisórios e provas colhidas" (RHC n. 76.745/RJ, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2017, grifei).
+No mesmo sentido:
+ ..  1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento no sentido de que mesmo em caso de incompetência absoluta, é possível ao juízo que recebe os autos do processo ratificar ou não os atos decisórios e provas colhidas (RHC n. 76.745/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 4/4/2017).
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento
+(EDcl no RHC n. 52.549/MT, Rel. Ministro Sebastião Reis Junior, 6ª T., DJe 31/8/2017, destaquei).
+ ..  2. Ademais, conquanto o tema ainda dê ensejo a certa controvérsia o que evidencia ainda mais a necessidade de submissão ao colegiado, vem se pacificando nesta Corte o entendimento no sentido de que, mesmo em caso de reconhecimento de incompetência absoluta, podem os atos decisórios cautelares praticados pelo juiz incompetente serem ratificados pelo juiz a quem forem remetidos os autos. Precedentes.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 383.513/BA, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 28/4/2017, grifei).
+ ..  1. Na hipótese, não há se falar em constrangimento ilegal na prisão preventiva decretada pela Justiça estadual, tendo em vista que o reconhecimento da sua incompetência não possui o condão de anular ou tornar ilegal os decretos de prisão expedidos em desfavor do ora recorrente, uma vez que é pacífico neste Superior Tribunal de Justiça que mesmo nos casos de incompetência absoluta é possível a ratificação dos atos decisórios. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no HC n. 507.755/RJ, Rel. Ministro Ribeiro Dantas,5ª T., DJe 23/9/2019, grifei)
+ ..  IV - No que pertine à arguição de nulidade absoluta do decreto prisional ante a incompetência do juízo, a jurisprudência deste Superior Tribunal de Justiça admite a possibilidade de ratificação implícita dos atos decisórios - inclusive da ordem de prisão cautelar - quando o juízo competente dá normal seguimento ao processo.
+Habeas corpus não conhecido.
+(HC n. 473.384/PB, Rel. Ministro Felix Fischer, 5ª T., DJe 13/2/2019, destaquei).
+No caso dos autos, os recorrentes foram denunciados pela suposta prática do crime previsto no art. 129, § 3º, c/c art. 29, ambos do Código Penal. A ação penal, inicialmente, tramitou perante a Vara de Crimes contra Crianças e Adolescentes da Comarca de Belém, a qual declinou de sua competência em favor da 1ª Vara do Tribunal do Júri da Comarca da Capital. No juízo competente, a denúncia foi ratificada, passando a imputar aos acusados a prática do crime tipificado no art. 121, caput, c/c art. 14, inciso II, do Código Penal.
+Encerrada a primeira fase do procedimento do Tribunal do Júri, os réus foram impronunciados. Inconformada, a assistente de acusação interpôs recurso de apelação, ao qual o Tribunal de origem deu provimento e reformou a sentença do Juízo de primeiro grau para pronunciar os acusados.
+A defesa, por sua vez, opôs embargos de declaração, os quais foram rejeitados com base nos seguintes fundamentos (fls. 756-757, grifei ):
+Os embargantes alegam que há contradição e omissão entre o acórdão embargado e as provas colhidas nos autos, pois nenhuma testemunha foi ouvida pelo juizo competente viu os recorrentes atirarem na vitima, bem como os elementos de cognição que foram utilizados como meio de cónvencimento não foram colhidos sob o crivo do contraditório.
+Com efeito, os embargos de declaração se prestam para esclarecer contradição ou suprir omissão no aresto recorrido e não entre este e as provas colhidas nos autos, tendo em vista que não se constitui uma terceira apelação.
+ ..
+Ad argumentum, esclareça-se que o processo tramitou, inicialmente, pela Vara de Crimes Contra Crianças e Adolescentes, onde foram colhidos os testemunhos de Sílvio Carlos Pereira (fls. 273  Vol. I) e Rosana Santos dos Santos (fls. 204  Vol. I). E o fato deste juízo ter declinado a sua competência não invalida essas declarações, uma vez que o art. 567 do CPP só exige a ratificação dos atos decisórios. Portanto, há nos autos provas, colhidas sob o crivo do contraditório, que fornecem indícios de autoria para pronunciar os embargantes.
+Ante o exposto, conheço e rejeito os declaratórios, nos terrinas da fundamentação.
+O Tribunal de origem, ao afastar a tese defensiva, ressaltou o fato de que o "processo tramitou, inicialmente, pela Vara de Crimes Contra Crianças e Adolescentes, onde foram colhidos os testemunhos de Sílvio Carlos Pereira (fls. 273  Vol. I) e Rosana Santos dos Santos (fls. 204  Vol. I). E o fato deste juízo ter declinado a sua competência não invalida essas declarações" (fl. 757).
+Assim, concluo que o Tribunal de origem, ao afirmar a possibilidade de convalidação dos atos já praticados pelo juízo declarado competente, decidiu a questão de acordo com a jurisprudência desta Corte Superior.
+3. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
