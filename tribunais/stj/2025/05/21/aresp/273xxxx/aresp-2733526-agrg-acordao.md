@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. CRIME DE EXPOR A VIDA DE OUTREM A PERIGO DIRETO OU IMINENTE. TRIBUNAL DO JURI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE REEXAME DDO ACERVO FÁTICO PROBATÓRIO. SÚMULA N. 7/STJ. RECURSO NÃO PROVIDO.
+1. É assente o entendimento de que a quebra da soberania dos veredictos é admitida, apenas, em hipóteses excepcionais, em que a decisão do Júri não encontra amparo nas provas produzidas, destoando, inquestionavelmente, de todo o acervo probatório.
+2. No caso, a Corte a quo, em decisão devidamente motivada, asseverou que a conclusão dos jurados encontra respaldo nas provas judiciais e extrajudiciais que instruem os autos. Assim, concluir que a decisão do Júri mostrou-se manifestamente contrária às provas dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por EDIVALDO JUNIOR RODRIGUES MARQUES DE SOUZA contra decisão contra decisão que conheceu do agravo, mas não conheceu do recurso especial.
+A defesa sustenta que a decisão do Conselho de Sentença foi manifestamente contrária à prova dos autos, pois o agravante não teria agido com dolo homicida. Argumenta-se que houve erro na execução do disparo, caracterizando "aberratio delicti", nos termos do art. 74 do Código Penal.
+Alega-se que o agravante não pretendia atingir a vítima, mas apenas o pneu ou o solo, e que a condenação foi influenciada por comoção. Requer a revaloração das provas, insistindo na tese de violação aos artigos 593, III, "d", do Código de Processo Penal e 74 do Código Penal.
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. CRIME DE EXPOR A VIDA DE OUTREM A PERIGO DIRETO OU IMINENTE. TRIBUNAL DO JURI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE REEXAME DDO ACERVO FÁTICO PROBATÓRIO. SÚMULA N. 7/STJ. RECURSO NÃO PROVIDO.
+1. É assente o entendimento de que a quebra da soberania dos veredictos é admitida, apenas, em hipóteses excepcionais, em que a decisão do Júri não encontra amparo nas provas produzidas, destoando, inquestionavelmente, de todo o acervo probatório.
+2. No caso, a Corte a quo, em decisão devidamente motivada, asseverou que a conclusão dos jurados encontra respaldo nas provas judiciais e extrajudiciais que instruem os autos. Assim, concluir que a decisão do Júri mostrou-se manifestamente contrária às provas dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Conforme consignado na decisão agravada, a quebra da soberania dos veredictos é apenas admitida em hipóteses excepcionais, em que a decisão do Júri for manifestamente dissociada do contexto probatório, hipótese em que o Tribunal de Justiça está autorizado a determinar novo julgamento.
+No caso, o Tribunal de Justiça de Mato Grosso concluiu, com base na análise do conjunto probatório, que a decisão do Conselho de Sentença encontra respaldo nos elementos constantes dos autos. A Corte de origem afastou a alegada "aberratio delicti", ao assentar que o réu, policial militar experiente e conhecedor dos efeitos do armamento que utilizava, efetuou os disparos ciente dos riscos, inclusive de atingir os ocupantes do veículo. Afirmou, ainda, que os jurados acolheram a versão acusatória, considerando que o disparo foi doloso, o que inviabiliza a tese de erro na execução.
+Como dito, a jurisprudência desta Corte Superior é firme no sentido de que a cassação do veredicto do Tribunal do Júri exige que a decisão seja manifestamente dissociada do conjunto probatório, o que não se verifica no caso em exame. Havendo nos autos duas versões plausíveis dos fatos e tendo os jurados optado por uma delas, não cabe ao STJ, na via especial, substituir o juízo de mérito das instâncias ordinárias, por demandar reexame aprofundado do conjunto fático-probatório.
+No contexto, verifica-se que o acórdão recorrido está alinhado à jurisprudência desta Corte, razão pela qual incide o óbice da Súmula n. 83/STJ. Por sua vez, a pretensão de revaloração da prova para se concluir pela ausência de dolo direto ou eventual, encontra impedimento na Súmula n. 7/STJ.
+A respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO (SEIS VEZES). HOMICÍDIO DUPLAMENTE QUALIFICADO. CONDENADO A 144 ANOS DE RECLUSÃO. TRIBUNAL DO JÚRI. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. NÃO OCORRÊNCIA. DECISÃO DOS JURADOS FUNDAMENTADA NOS ELEMENTOS DEMONSTRADOS NA REALIZAÇÃO DO JÚRI. IMPOSSIBILIDADE DE INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. NULIDADE. AUSÊNCIA DE MÍDIAS DAS AUDIÊNCIAS NOS AUTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO DESPROVIDO.
+1. A instituição do júri, com a organização que lhe dá o Código de Processo Penal, assegura a soberania dos veredictos. Desse modo, para que seja cabível a apelação com esteio no art. 593, inciso III, alínea d, do mencionado diploma legal, imperioso que a conclusão alcançada pelos jurados seja teratológica, completamente divorciada do conjunto probatório constante do processo.
+2. A doutrina e a jurisprudência recomendam o respeito à competência do Tribunal do Júri para decidir entre as versões plausíveis que o conjunto contraditório da prova admita.
+3. Na hipótese, não há se falar em decisão contrária à prova dos autos, uma vez que a decisão dos jurados foi fundamentada nos elementos demonstrados durante a realização do Júri, escolhendo uma das versões apresentadas ao Conselho de Sentença; estando, portanto, o acórdão recorrido em conformidade com o entendimento desta Corte Superior.
+4. Ademais, a alteração de tal entendimento demandaria a análise de matéria fático-probatória, o que é vedado na via eleita, incidindo no caso a Súmula n. 7/STJ.
+5. A alegação de nulidade por cerceamento de defesa, em razão da ausência de juntada das mídias das audiências aos autos, não foi prequestionada perante o Tribunal de origem, inclusive porque o tema não foi objeto da apelação defensiva, motivo pelo qual não pode ser aqui examinada, ante o que preceitua a Súmula n. 211/STJ.
+6. Agravo regimental desprovido
+(AgRg no AREsp n. 1.625.666/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE PROVA JUDICIALIZADA PARA CONDENAÇÃO NO TRIBUNAL DO JÚRI. REVISÃO DAS CONCLUSÕES DO CONSELHO DE SENTENÇA E DA CORTE DE ORIGEM. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIMENTAL DESPROVIDO.
+I - "Não obstante a jurisprudência desta Corte superior entenda que o art. 155 do Código de Processo Penal seja aplicado a todos os procedimentos penais, o Conselho Popular pode condenar o réu até por íntima convicção, não sendo, portanto, possível afirmar quais provas foram valoradas para a condenação do agente. Inviável, portanto, a análise referente à violação ao art. 155 do CPP" (AgRg no HC n. 454.895/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 25/09/2018).
+II - No caso concreto, verifico que o eg. Tribunal de origem declinou, de forma explícita, as razões - baseado nas provas judicializadas e elementos inquisitoriais carreadas aos autos - pelas quais concluiu pela manutenção da decisão proferida pelo Plenário do Júri, assim, entender de forma contrária, reclama incursão no material fático-probatório, procedimento vedado pela Súmula n. 7 desta Corte, e que não se coaduna com os propósitos atribuídos à via eleita.
+Agravo regimental desprovido
+(AgRg no AREsp n. 1.950.052/CE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
