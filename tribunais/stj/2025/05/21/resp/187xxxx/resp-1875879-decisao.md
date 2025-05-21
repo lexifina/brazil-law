@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto por LACTICÍNIOS TIROL LTDA contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 254):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI Nº 11.457/2007. COMPENSAÇÃO DE OFÍCIO. 1. A matéria foi resolvida pelo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.138.206, submetido à sistemática dos recursos repetitivos, na sessão de 09/08/2010, em que restou definido que o processo administrativo tributário encontra-se regulado pelo Decreto 70.235/72 - Lei do Processo Administrativo Fiscal, sendo que o prazo para conclusão passou a ser expressamente previsto na Lei 11.457/07, que estabeleceu, em seu art. 24, a obrigatoriedade de ser proferida decisão administrativa no prazo máximo de 360 dias a contar do protocolo dos pedidos, o qual deve ser aplicado de imediato aos pedidos, defesas ou recursos administrativos pendentes. 2. A Corte Especial, na sessão do dia 27.11.14, nos autos da Arguição de Inconstitucionalidade n. 5025932-62.2014.404.0000, reconheceu a inconstitucionalidade do parágrafo único do art. 73 da Lei nº 9.430/96, incluído pela Lei nº 12.844/13, que autorizava a compensação de ofício com débitos objeto de parcelamento sem garantia. 3. Extrapolado o prazo de 360 dias, é razoável que seja estabelecido o prazo de 30 dias para que a autoridade impetrada conclua os pedidos de ressarcimento. 4. Os casos de restituição ou ressarcimento devem seguir a dotação orçamentária, ressalvando-se que o mandado de segurança não é substitutivo da ação de cobrança. 5. Configura-se ultra petita a sentença no ponto em que estabeleceu a condenação ao pagamento de correção monetária pela SELIC desde o término do prazo de 360 dias relativo a cada pedido.
+Nas razões recursais, a parte recorrente sustenta violação aos arts. 24 da Lei 9.784/99; 97 e 147 da IN RFB 1.717/2017; 3º e 4º do Decreto 2.138/1997, argumentando, em síntese, que "o ato administrativo que põe termo ao processo administrativo de ressarcimento é complexo, inicia-se com o protocolo do pedido e encerra-se com o efetivo ressarcimento na conta bancária da Impetrante" (fl. 284).
+Recurso especial fundado no art. 105, III, "a", da Constituição Federal.
+Contrarrazões à fl. 302.
+É o relatório.
+Passo a decidir.
+O recurso não merece conhecimento.
+Súmulas 282 e 356 do STF
+Relativamente à alegação de violação aos arts. 97 e 147 da IN RFB 1.717/2017; 3º e 4º do Decreto 2.138/1997, o exame dos autos revela que a matéria contida nos artigos apontados como violados não foi objeto de análise pelas instâncias ordinárias, a respeito da qual não foram opostos embargos de declaração, de modo que enseja a aplicação das Súmulas 282 e 356 do STF.
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação das Súmulas 282 e 356 do STF.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MUNICÍPIO DE CATALÃO/GO. SERVIDOR PÚBLICO. READAPTAÇÃO FUNCIONAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada (arts. 17 e 485, § 3º, do CPC), não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+ ..
+VII - Agravo interno improvido (AgInt no AREsp n. 2.169.823/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Súmulas 283 e 284 do STF
+Quanto ao prazo para a disponibilização do saldo de crédito, a controvérsia dos autos foi resolvida pelo Tribunal recorrido sob os seguintes fundamentos (fl. 263):
+Contudo, ao contrário do que alega o apelante, o disposto no artigo 24 da Lei n. 9.784/99 não assegura o creditamento no prazo de cinco dias, sendo certo que os casos de restituição ou ressarcimento devem seguir a dotação orçamentária, ressalvando-se que o mandado de segurança não é substitutivo da ação de cobrança, como bem ficou esclarecido nas informações prestadas pela autoridade coatora (evento 16, INF_MAND_SEG1):
+Todavia, o pagamento depende de disponibilidade orçamentária desta Delegacia da Receita Federal, recebida de instâncias superiores da administração pública federal. O máximo que esta Delegacia pode estabelecer, após a conclusão dos pedidos, é finalizar os preparativos para o pagamento. O pagamento, no caso de restituição ou ressarcimento, seguirá a dotação orçamentária.
+Convém ressaltar que o mandado de segurança não se presta a substituir ação de cobrança, nos termos da Súmula 269 do STF. Ademais, o prazo previsto no art. 24 da Lei 11.457/2007 é para que ocorra a decisão administrativa e não para que esta decisão seja efetivamente executada.
+Entretanto, observo que a parte recorrente deixou de refutar o principal argumento trazido pelo acórdão impugnado para indeferir seu pleito, qual seja: necessidade de observância da dotação orçamentária.
+Desse modo, verifica-se que os fundamentos suficientes para a manutenção do acórdão não foram impugnados de forma específica pela parte recorrente, deficiência argumentativa que atrai, por analogia, o óbice das Súmulas 283 e 284 do STF.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. INOCORRÊNCIA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECEBIMENTO. PARCELAS EM ATRASO. AJUIZAMENTO DA AÇÃO COLETIVA.
+1. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+ ..
+4. Agravo interno desprovido (AgInt no AREsp n. 2.368.855/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO. REVISÃO DO BENEFÍCIO. INAPLICÁVEL À DECADÊNCIA PREVISTA NO ART. 103-A DA LEI 8.213/1991. FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF.
+1. O Tribunal de origem consignou:  .. . A irresignação não merece prosperar, porquanto o Tribunal a quo utilizou fundamentos que a parte recorrente esquivou-se de rebater. Como os fundamentos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permitem aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+3. Agravo Interno não provido (AgInt no AREsp n. 2.289.600/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
