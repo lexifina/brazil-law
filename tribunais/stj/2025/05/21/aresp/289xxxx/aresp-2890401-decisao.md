@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DERMAPELLE FARMÁCIA DE MANIPULAÇÃO LTDA - EPP (DERMAPELLE) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA CUMULADA COM RESSARCIMENTO DE VALORES. SENTENÇA DE IMPROCEDÊNCIA. LEGITIMIDADE ATIVA COMPROVADA. ILEGITIMIDADE PASSIVA REJEITADA NA ORIGEM. APLICAÇÃO DA TEORIA DA APARÊNCIA. EMPRESA RÉ QUE FAZ PARTE DO MESMO GRUPO ECONÔMICO E É REPRESENTADA PELA MESMA PESSOA, QUE FIRMOU O INSTRUMENTO PARTICULAR DE RESCISÃO DE CONTRATO E QUITAÇÃO RECÍPROCA. SENTENÇA REFORMADA PARA JULGAR PROCEDENTE O PEDIDO, CONDENANDO A RÉ AO RESSARCIMENTO DO VALOR DA MULTA APLICADA PELA RECEITA ESTADUAL. ÔNUS SUCUMBENCIAIS REDIMENSIONADOS. APELAÇÃO PROVIDA. UNÂNIME.." (e-STJ, fls. 471)
+Nas razões do presente inconformismo, DERMAPELLE defendeu que (1) não há óbice das Súmulas 7 e 211 do STJ, pois a controvérsia se restringe à aplicação do art. 50 do Código Civil, sem necessidade de reexame de questões de fato; (2) houve negativa de prestação jurisdicional, pois o Tribunal a quo não apreciou a inaplicabilidade da Teoria da Aparência ao caso concreto; (3) o prequestionamento ficto foi desconsiderado, apesar de estar presente conforme o art. 1.025 do CPC.
+Foi apresentada contraminuta (e-STJ, fls. 28).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, DERMAPELLE alegou violação aos arts.1.022, II, do Código de Processo Civil e 50 do Código Civil, ao sustentar que (1) houve negativa de prestação jurisdicional, pois o acórdão foi omisso quanto à inaplicabilidade da Teoria da Aparência em relações contratuais não consumeristas; (2) o acórdão violou o art. 50 do Código Civil ao não exigir os requisitos para desconsideração da personalidade jurídica, como desvio de finalidade ou confusão patrimonial; (3) há dissídio jurisprudencial na interpretação do art. 50 do Código Civil, conforme decisões dos Tribunais de Justiça de São Paulo e Acre, que afastam a aplicação da Teoria da Aparência em casos semelhantes.
+(1) Da negativa de prestação jurisdicional
+DERMAPELLE alegou omissão da Corte estadual, pois é inaplicável a Teoria da Aparência em relação contratuais não consumeristas.
+No caso, verifica-se que o r. acórdão estadual apreciou a questão da seguinte forma. Confira-se:
+Assim, embora as empresas M RIGON ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA, ARMAZÉM AMAZÔNICO STORE, INDÚSTRIA DE COSMÉTICOS PELLE NATURAL LTDA E DERMAPELLE FARMÁCIA DE MANIPULAÇÃO LTDA - EPP, consistam em pessoas jurídicas diversas, com CNPJ diferentes, pertencem elas ao mesmo grupo econômico, com o que de se ter que aplicável a Teoria da Aparência ao caso concreto. (e-STJ, fls. 568)
+Todavia, a mera indicação de grupo econômico com base na Teoria da Aparência não é suficiente para o entendimento do caso, pois tal teoria aplica-se ao CDC e não resta claro se é este o Código aplicável a presente demanda ou se o Código Civil.
+Sendo Código Civil, é necessário a caracterização de desvio de finalidade ou confusão patrimonial nos termos da lei, para reconhecimento da legitimidade passiva de DERMAPELLE, por meio da desconsideração da personalidade jurídica.
+Afinal, destaco que a mera existência de grupo econômico sem a presença de tais requisitos não autoriza a desconsideração, nos termos do §4º do artigo 50 do CC.
+Dessa forma, verifico violação ao art. 1.022 do CPC, uma vez que não foi devidamente analisada as teses sustentadas por DERMAPELLE nos aclaratórios.
+Por fim, julgo prejudicado os demais pedidos por ora.
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de que retorne os autos ao Tribunal de origem, para análise, especialmente, do artigo 50 do CC e se deve este ser aplicado ao caso concreto , bem como analise os embargos de declaração opostos, como entender de direito.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULA COM RESSARCIMENTO DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. VERIFICADA. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
