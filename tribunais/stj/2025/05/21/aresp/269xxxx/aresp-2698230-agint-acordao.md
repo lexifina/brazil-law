@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE DECISÃO PRECÁRIA. NÃO CABIMENTO. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DE EFEITO SUSPENSIVO À DISCUSSÃO QUE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 735 DO STF E N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É cediço o entendimento nesta Corte Superior de que descabe recurso especial para reexaminar decisões que possuam natureza precária, como na hipótese, sujeita à modificação a qualquer tempo, dependente de confirmação ou revogação pela sentença de mérito, que ulteriormente sobrevirá. Incidência, por analogia, da Súmula n. 735 do STF.
+2. Para rever a conclusão do acórdão recorrido, no sentido de ser cabível a atribuição de efeito suspensivo ao recurso de apelação interposto pela Fazenda Estadual, seria necessário o reexame de matéria fático-probatória, descabido em recurso especial, na forma da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRK AMBIENTAL REGIÃO METR OPOLITANA DO RECIFE/GOIANA SPE S.A., contra decisão por mim proferida, em que se conheceu do agravo para não se conhecer do recurso especial, pela incidência da Súmula n. 7 do STJ, mantendo-se a decisão do Tribunal de origem (fls. 679-681).
+A recorrente contesta a aplicação das Súmulas n. 735 do STF e n. 7 do STJ (fl. 703), argumentando que a modulação dos efeitos da decisão beneficiaria a agravante. Aduz que (i) a Súmula n. 735 do STF não deveria ter sido aplicada, devido à natureza precária da decisão; (ii) a Súmula n. 7 do STJ dispensa reexame de matéria fático-probatória (fl. 703); (iii) houve violação ao art. 1.037, inciso II, do CPC, e a ordem de suspensão emitida no Tema n. 986 pelo STJ foi descumprida, pois o acórdão recorrido teria permitido a cobrança de ICMS sobre valores que não representam efetiva circulação jurídica de mercadoria antes do posicionamento definitivo sobre o tema.
+Pleiteia a reforma da decisão que não conheceu do recurso especial, buscando reverter a aplicação das súmulas e a decisão de mérito sobre a incidência do ICMS nas tarifas TUST e TUSD.
+Foi apresentada resposta ao agravo interno (fls. 703-716).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE DECISÃO PRECÁRIA. NÃO CABIMENTO. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DE EFEITO SUSPENSIVO À DISCUSSÃO QUE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 735 DO STF E N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É cediço o entendimento nesta Corte Superior de que descabe recurso especial para reexaminar decisões que possuam natureza precária, como na hipótese, sujeita à modificação a qualquer tempo, dependente de confirmação ou revogação pela sentença de mérito, que ulteriormente sobrevirá. Incidência, por analogia, da Súmula n. 735 do STF.
+2. Para rever a conclusão do acórdão recorrido, no sentido de ser cabível a atribuição de efeito suspensivo ao recurso de apelação interposto pela Fazenda Estadual, seria necessário o reexame de matéria fático-probatória, descabido em recurso especial, na forma da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece prosperar.
+Nos termos da decisão agravada, conheceu-se do agravo em recurso especial para não se conhecer do recurso especial, em razão da (i) aplicação por, analogia, da Súmula n. 735 do STF, no sentido de que "não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão e a necessidade de revisão dos elementos probatórios dos autos; e (ii) incidência da Súmula n. 7 do STJ - fundamentos utilizados pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO para não admitir o apelo nobre.
+É cediço o entendimento nesta Corte Superior de que descabe recurso especial para reexaminar decisões que possuam natureza precária, como na hipótese, sujeita à modificação a qualquer tempo, dependente de confirmação ou revogação pela sentença de mérito, que ulteriormente sobrevirá. Incidência, por analogia, da Súmula n. 735 do STF.
+Nesse sentido (grifos nossos):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPUGNAÇÃO PARCIAL DA DECISÃO RECORRIDA. POSSIBILIDADE. PRECLUSÃO DAS DEMAIS QUESTÕES. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS DO DEVEDOR. REVISÃO DOS REQUISITOS. RECURSO ESPECIAL INCABÍVEL ÓBICE DAS SÚMULAS 735/STF E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. A jurisprudência desta Corte Superior consigna que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, considerando a natureza precária da decisão, conforme disposta na Súmula n.º 735 do STF" (AgInt no REsp n. 2.032.857/SP, Relator o Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+3. O Tribunal local verificou que a pretensão dos agravantes não pode ser concedida pela falta de garantia ao juízo, um dos requisitos para a atribuição de efeito suspensivo aos embargos do devedor, considerando que a garantia hipotecária contratual não supre a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º do art. 919 do CPC/2015.
+4. A análise de eventual preenchimento dos requisitos para se conceder o efeito suspensivo aos embargos à execução não pode ser realizada por se tratar de reexame fático-probatório, vedado no âmbito do recurso especial por força da Súmula 7/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.583.257/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+No mais, a Corte a quo consignou (fl. 573; sem grifos no original):
+ ..
+Todavia, eventuais pedidos de efeito suspensivo e tutela de urgência e agravos de instrumento interpostos contra decisões que apreciem tais pedidos devem ser examinados, a despeito da suspensão dos processos, por força do art. 314 do CPC.
+3. Sendo assim, à luz do art. 314 c/c art. 1012, §§ 3º e 4º, do CPC, inclino-me pela concessão do efeito suspensivo à apelação interposta pelo Estado de Pernambuco, por vislumbrar, conforme acima exposto, a probabilidade de provimento do recurso, bem como risco de dano grave ao erário estadual.
+ ..
+Por outro lado, como já afirmado anteriormente, para rever a conclusão do acórdão recorrido, no sentido de ser cabível a atribuição de efeito suspensivo ao recurso de apelação interposto pela Fazenda Estadual, seria necessário o reexame de matéria fático-probatória, descabido em recurso especial, na forma da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
