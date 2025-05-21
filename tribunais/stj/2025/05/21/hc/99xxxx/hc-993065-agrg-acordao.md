@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. WRIT SUBSTITUTIVO. NÃO CABIMENTO. INVERSÃO DAS CONCLUSÕES DA CORTE DE ORIGEM QUANTO À PRÁTICA DO DELITO. REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não obstante a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, não há ilegalidade a permitir a concessão da ordem, ainda que de ofício; isso, porque a Corte de origem, soberana na análise do acervo fático-probatório dos autos, concluiu, com base nas declarações da corré revel prestadas em fase inquisitorial, além dos testemunhos colhidos em juízo dos policiais que realizaram a abordagem, que o ora agravante tinha ciência sobre o transporte do entorpecente, ficando assim caracterizado o crime de tráfico, de modo que é inviável a alteração de tal conclusão pela via do habeas corpus, dado os estreitos limites de cognição da via eleita, não se podendo olvidar que a e sta Corte compete apenas a revisão de seus próprios julgados.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MARCELO SENA DA LUZ contra a decisão de e-STJ fls. 110/112, por meio da qual indeferi liminarmente o presente habeas corpus.
+No caso, o ora agravante foi denunciado pela suposta prática do delito de tráfico de drogas, por ter sido surpreendido, juntamente com outra agente, transportando 2kg (dois quilogramas) de skunk. Superadas as demais fases processuais, foi a denúncia julgada parcialmente procedente e o ora agravante absolvido (e-STJ fls. 45/58).
+Irresignado, apelou o Ministério Público, sendo provido o recurso para condenar o agravante, como incurso nas sanções do art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006, às penas de 10 anos, 9 meses e 9 dias de reclusão, em regime fechado, além de 1.020 dias-multa (e-STJ fls. 13/44).
+Neste writ, sustentou a defesa que a Corte de origem reformou a sentença de primeiro grau com base em presunções e conjecturas inverossímeis, como a troca de olhares entre o agravante e a corré e o nervosismo durante a abordagem policial, que não traduzem certeza da ciência do transporte de droga, que teria sido contratado apenas para realizar uma "corrida" para a corré.
+Afirmou que o agravante teve reconhecida sua profissão como motorista de lotação e que inexiste norma legal que o autorize vistoriar a bagagem de passageiro, sendo certo que o nervosismo de uma pessoa abordada é inerente à abordagem policial e não poderia ser interpretado em seu desfavor.
+Destacou que o depoimento extrajudicial da corré é insuficiente para embasar o édito condenatório, e requereu a concessão da ordem para restabelecer a sentença de primeiro grau que absolveu o agravante.
+Nesta oportunidade, a defesa defende o cabimento do habeas corpus quando presente flagrante ilegalidade e, no mais, reitera os termos da inicial na qual pleiteou a concessão da ordem para absolver o ora agravante.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. WRIT SUBSTITUTIVO. NÃO CABIMENTO. INVERSÃO DAS CONCLUSÕES DA CORTE DE ORIGEM QUANTO À PRÁTICA DO DELITO. REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não obstante a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, não há ilegalidade a permitir a concessão da ordem, ainda que de ofício; isso, porque a Corte de origem, soberana na análise do acervo fático-probatório dos autos, concluiu, com base nas declarações da corré revel prestadas em fase inquisitorial, além dos testemunhos colhidos em juízo dos policiais que realizaram a abordagem, que o ora agravante tinha ciência sobre o transporte do entorpecente, ficando assim caracterizado o crime de tráfico, de modo que é inviável a alteração de tal conclusão pela via do habeas corpus, dado os estreitos limites de cognição da via eleita, não se podendo olvidar que a e sta Corte compete apenas a revisão de seus próprios julgados.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece prosperar.
+Como destaquei na decisão agravada, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Frisei não desconhecer a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, no entanto concluí não ser o caso de reconhecimento de ilegalidade flagrante a permitir a concessão da ordem, ainda que de ofício.
+Isso, porque a Corte de origem, soberana na análise do acervo fático-probatório dos autos, concluiu, com base nas declarações da corré revel prestadas em fase inquisitorial, além dos testemunhos colhidos em juízo dos policiais que realizaram a abordagem, que o ora agravante tinha ciência sobre o transporte do entorpecente, ficando assim caracterizado o crime de tráfico, de modo que é inviável a alteração de tal conclusão pela via do habeas corpus, dado os estreitos limites de cognição da via eleita, não se podendo olvidar que a esta Corte compete apenas a revisão de seus próprios julgados.
+Dessarte, entendo que a decisão agravada deve ser mantida por seus próprios fundamentos, razão pela qual nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
