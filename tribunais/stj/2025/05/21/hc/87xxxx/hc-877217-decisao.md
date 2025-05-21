@@ -1,0 +1,14 @@
+DECISÃO
+ALEXANDRE DE ALMEIDA DINIZ alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação criminal n. 026800-21.2017.8.26.0562.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, mais multa, a ser cumprida no regime semiaberto, pela prática do crime previsto no art. 1º, caput, da Lei n. 9.613/1998.
+A defesa busca a declaração de nulidade da ação penal e da sentença condenatória proferida em desfavor do paciente, porquanto haveriam se baseado em prova ilícita - quebra de sigilo bancário e fiscal sem ordem emanada por autoridade judicial competente.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 595-602).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação proferido em 7/11/2019. Em consulta ao sistema interno do STJ, por força do ajuizamento do AREsp n. 1.726.930/SP - o qual não foi conhecido -, verifico certidão de trânsito em julgado de 21/6/2023. Pelos documentos constantes dos autos, não constato o ajuizamento de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
