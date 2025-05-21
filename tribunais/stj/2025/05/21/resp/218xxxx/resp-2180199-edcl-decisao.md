@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Associação dos Amigos de Santa Catarina contra decisum singular de fls. 3.134/3.138 que conheceu do recurso especial e, na parte conhecida, negou lhe provimento, uma vez que, no apelo nobre, não cabe invocar violação a norma constitucional, bem como diante da não ocorrência de negativa de prestação jurisdicional e da incidência das Súmulas n. 7 e 211/STJ.
+Em suas razões, a parte embargante aduz, em resumo, que há omissão quanto: (I) à tese da não responsabilidade dos associados, conforme art. 53 do Código Civil; (II) à ilegalidade da prova emprestada, pois a decisão reconheceu erro material ao afirmar que as provas foram colhidas na ação penal, sem invalidar ou revisar seu uso; (III) ao indeferimento da prova oral, configurando cerceamento de defesa; (IV) à superveniência da Lei Complementar n. 213/2025, que afeta diretamente a validade da sanção debatida.
+A parte embargada apresentou impugnação às fls. 3.180/3.183.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que (fl. 3.138):
+Por fim, cumpre expor que, no caso, o Tribunal de origem não se pronunciou sobre a tese da impossibilidade de os associados responderem por eventuais obrigações assumidas em nome da associação nos termos trazidos nas razões do apelo nobre, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi a quo"). apreciada pelo tribunal.
+No que tange à alegação de que não foi possível produzir provas que corroborassem sua defesa, a decisão destacou (fl. 3.136):
+Primeiramente cumpre expor que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido 5º, LV, da CF, relativamente à apontada ofensa ao art. da Constituição Federal.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, tra duzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido ou apresentar inovação recursal em sede de aclaratórios, como a alegada superveniência da Lei Complementar n. 213/2025 e a ilegalidade da prova emprestada.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDEVIDA INOVAÇÃO RECURSAL EM EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL PENDE DIVERGÊNCIA INTERPRETATIVA. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, quando a fundamentação adotada pelo órgão julgador é adequada e suficiente à solução da controvérsia suscitada. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. A jurisprudência pacífica desta Corte Superior é no sentido de que, em razão do aperfeiçoamento da preclusão consumativa, não incorre em vício de omissão o julgador que não se manifesta, no acórdão integrativo, a respeito de questões que configuram indevida inovação recursal, porquanto é vedado à Corte de origem apreciar matéria sobre a qual não se operou o efeito devolutivo. Precedentes.
+4. Quanto à divergência, o recurso é acoimado de deficiência insanável, uma vez que o recorrente não particulariza o dispositivo legal sobre o qual pende divergência interpretativa. Incidência da Súmula 284/STF, por configurada a deficiência da fundamentação recursal.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.692.501/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/4/2025, DJEN de 7/5/2025 - g.n .)
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. TEMA 1.115/STJ. EMBARGOS DE DECLARAÇÃO MANEJADOS PELO IBDP (AMICUS CURIAE). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE AMPLIAÇÃO DA TESE FIXADA. IMPOSSIBILIDADE. REJEIÇÃO DOS ACLARATÓRIOS.
+1. Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no Código de Processo Civil - CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+3. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivos. Portanto, não há falar em omissão ou obscuridade.
+5. Embargos de declaração do Instituto Brasileiro de Direito Previdenciário - IBDP rejeitados.
+(EDcl no REsp n. 1.947.404/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 19/12/2023, DJe de 6/2/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+ EMENTA
