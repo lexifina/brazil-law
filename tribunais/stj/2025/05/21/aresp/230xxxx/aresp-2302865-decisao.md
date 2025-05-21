@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE DE FIGUEIREDO FREITAS, RONALDO DOMINGOS COSTA e SOMEPI SOCIEDADE MEDICA DE PIRAPORA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 3.443):
+AGRAVO INTERNO  PROCESSUAL CIVIL  PRELIMINARES DE NÃO CONHECIMENTO DO RECURSO POR VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE E DA DIALETICIDADE  ILEGITIMIDADE PASSIVA  REJEIÇÃO  EFEITO SUSPENSIVO  DEFERIMENTO PRESENÇA DOS REQUISITOS LEGAIS  DECISÃO MANTIDA  RECURSO NÃO PROVIDO.
+- "Ocorre preclusão consumativa quando a matéria já foi decidida anteriormente por decisão judicial transitada em julgado." (TJMG -Agravo de Instrumento nº 1.0034.16.002275-1/004).
+- Impõe-se a rejeição da preliminar de não conhecimento do recurso por razões dissociadas quando se verifica que as teses recursais combateram os fundamentos da decisão, observando-se o princípio da dialeticidade.
+- Segundo a teoria da asserção, amplamente adotada pelo Superior Tribunal de Justiça, as condições da ação devem ser analisadas conforme a simples narrativa contida na petição inicial, sendo desnecessário um maior aprofundamento cognitivo por parte do julgador.
+- Descabe a reforma da decisão monocrática que deferiu o pedido para que fosse atribuído efeito suspensivo ao agravo de instrumento interposto, quando presentes os requisitos exigidos para tanto.
+- Não sendo as alegações trazidas pela parte capazes de afastar os argumentos lançados no "decisum" objurgado, sua manutenção é medida que se impõe.
+-Preliminares de não conhecimento do recurso e de ilegitimidade passiva rejeitadas.
+- Decisão mantida.
+- Recurso não provido.
+Rejeitados os embargos de declaração opostos (fls. 3.522-3.533).
+No recurso especial, JOSE DE FIGUEIREDO FREITAS, RONALDO DOMINGOS COSTA e SOMEPI SOCIEDADE MEDICA DE PIRAPORA LTDA. alegam, preliminarmente, ofensa ao art. 1.022, I e II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduzem, no mérito, que o acórdão recorrido contrariou as disposições contidas nos artigos 805 e 867 do CPC, tendo em vista que a penhora dos aluguéis, única fonte de renda da empresa, é excessivamente onerosa e compromete sua sobrevivência financeira, violando o princípio da menor onerosidade da execução.
+Sustentam, ainda, violação do art. 873, II, do CPC. Argumentam que a avaliação do imóvel penhorado está defasada, pois foi realizada há mais de nove anos, e que houve majoração no valor do bem, o que justifica uma nova avaliação antes da realização de hasta pública.
+Alegam ofensa ao art. 924, II, do CPC e defendem que a execução deve ser extinta em relação aos danos morais, aos lucros cessantes e aos honorários sucumbenciais, pois já foram pagos.
+Foram oferecidas contrarrazões ao recurso especial (fls. 3.575-3.582).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 3.607-3.610), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 3.636-3.645).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação do art. 1.022 do CPC
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao rejeitar os aclaratórios, demonstrou a completa apreciação dos pontos indicados como omissos. Vejamos (fls. 3.526-3.527):
+Foram devida e exaustivamente apreciadas, mediante fundamentação clara, inteligível e coerente, as questões referentes à possibilidade de manutenção da penhora dos alugueres do imóvel.
+Mostra-se evidente que a pretensão da embargante é de rediscutir o mérito do recurso, em razão de mero inconformismo com a decisão que lhe foi desfavorável, sobretudo porque levanta argumento dizendo que possui outras dívidas. O fato de possuir outras dívidas não afasta a necessidade de pagar as que conseguiram efetuar constrições.
+No que tange à omissão referente a possibilidade de nova avaliação do imóvel, o embargante alega que existem benfeitorias e acréscimo de área, porém não traz as provas para corroborar o que foi dito. Vale observar que a execução se estende por décadas sem a satisfação do crédito, logo, suspender o praceamento para nova avaliação de estar bem fundamentada e provada pelos embargantes. Ademais, como próprio disseram no agravo de instrumento sequencial 022, a matéria já está sob o crivo do Superior Tribunal de Justiça.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Da ausência de prequestionamento
+Com efeito, da análise do acórdão recorrido, observa-se que a Corte a quo não se manifestou efetivamente quanto à violação do art. 924, II, do CPC e à necessidade de extinção parcial da execução em relação aos danos morais, aos lucros cessantes e aos honorários sucumbenciais.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração, uma vez que, apesar de o Tribunal de origem ter declarado que "não há omissão no que foi decidido referente a impossibilidade de extinção parcial da execução, tratando-se de mero inconformismo" (fl. 3.527), não se manifestou efetivamente quanto ao ponto no acórdão recorrido.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ. (AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos. (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Oportuno consignar que esta Corte não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Por fim, cumpre esclarecer que o reconhecimento de eventual omissão que pudesse justificar o retorno dos autos à origem ou considerar o prequestionamento ficto (art. 1.025 do CPC) somente seria possível se houvesse fundamentação adequada e suficiente quanto à ofensa ao art. 1.022 do CPC, em relação a esse ponto em específico, o que não aconteceu na espécie, tendo em vista que a alegação de violação do art. 1.022 do CPC restringiu-se ao encerramento das atividades da recorrente, ao déficit da empresa e à avaliação do imóvel.
+A propósito, cito:
+1. É deficiente a alegação genérica de violação dos arts. 489 e 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal de origem, tampouco comprova ter questionado as suscitadas falhas momento oportuno, além de sua relevância para a solução da controvérsia. Incidência da Súmula 284/STF.
+2. Para a configuração do prequestionamento na forma do art. 1.025 do CPC/2015, é necessária não apenas a indicação de contrariedade ao art. 1.022 do mesmo código, mas também o conhecimento da respectiva tese e a configuração de um dos vícios descritos na norma. Precedentes. (AgInt nos EDcl no AREsp n. 1.507.172/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 2/9/2020.)
+- Do reexame de fatos e provas. Súmula n. 7/STJ
+Por fim, da análise do acórdão recorrido, observa-se que o Tribunal de origem afastou as alegações de excesso da penhora e de necessidade de nova avaliação do imóvel, tendo em vista que o acervo probatório corroborava o preenchimento dos requisitos legais para a manutenção da medida constritiva e a ausência de demonstração das alegadas benfeitorias e dos acréscimos à área do imóvel.
+Nesse contexto, alterar o decidido no acórdão impugnado, no que se refere à suposta violação dos arts. 805, 867 e 873, II, do CPC, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTENTE. EXTINÇÃO PARCIAL DA EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. LEGALIDADE DA PENHORA. NECESSIDADE DE REAVALIAÇÃO DOS BENS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
