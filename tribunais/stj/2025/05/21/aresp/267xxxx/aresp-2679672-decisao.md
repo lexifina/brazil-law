@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DESPESAS DE CONDOMÍNIO. Concessão de efeito suspensivo. Garantia do Juízo em Primeiro Grau. Impossibilidade de constrição de valores e bens em nome do Executado. Discussão quanto à nulidade do título executivo que demanda instrução probatória, já tendo sido reconhecida a nulidade de assembleia que elegeu o síndico e contratou a administradora em processo anterior. Liberação dos valores bloqueados e revogação da penhora sobre os veículos pertencentes ao Executado. Reforma da r. decisão interlocutória. RECURSO DO EXECUTADO PARCIALMENTE PROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 17, 485, IV, 489 e 1022 do Código de Processo Civil de 2015, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Além disso, o recurso especial não dispensa o reexame de prova. O agravante procura discutir a nulidade da execução, questão a respeito da qual o Tribunal de origem já expôs a necessidade de instrução probatória. A respeito do tema, confira-se o seguinte trecho do acórdão recorrido (fl. 236):
+(..) não se pode olvidar que a execução está garantida e é incontroversa a concessão do efeito suspensivo em sede dos embargos à execução opostos. É certo, ainda, que houve o reconhecimento por este E. Tribunal, de nulidade da assembleia na qual foi escolhida e contratada a administradora do condomínio e eleito o síndico que representa o Exequente na demanda.
+(..)
+Ora, como o próprio magistrado de primeiro grau afirmou quando do recebimento dos embargos à execução, a questão relativa à nulidade do processo executivo demanda dilação probatória, o que revela a precariedade da continuidade dos atos executivos, ainda mais diante da expressa concessão de efeito suspensivo nos embargos.
+Não se justifica a penhora de bens em nome do Executado, muito menos o levantamento de valores constritos, porquanto suspensa a execução, diga-se, já devidamente garantida.
+A conjuntura fática dos autos aponta para a necessidade de instrução do feito a fim de que se demonstre a eventual legitimidade da nova assembleia que elegeu o síndico e contratou a administradora, sem a qual o título que embasou a presente execução carece de exigibilidade.
+Assim, não se pode reconhecer, por ora, a nulidade da execução, mas devem ser suspensos todos os atos de execução praticados, incluindo, nesse passo, a liberação dos valores bloqueados e bens penhorados nos autos.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
