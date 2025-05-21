@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 735 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 88.
+O recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer c/c indenização por danos morais.
+O julgado foi assim ementado (fl. 38):
+Agravo de instrumento. Ação de obrigação de fazer c.c. indenização por danos morais. Plano de saúde. Decisão agravada que deferiu a tutela antecipada pleiteada, para determinar que a Ré restabeleça o plano de saúde da Autora, ante a presença dos requisitos legais para tanto. Inconformismo da Ré. Não acolhimento. Presença dos requisitos autorizadores da medida, considerado que foi demonstrada a quitação das mensalidades do plano de saúde referentes aos meses subsequentes, bem como ausente demonstração de cientificação adequada da consumidora para purgação da mora. Respeito à regra do artigo 13, parágrafo único, inciso II, da Lei n. 9.656/98, bem como ao conteúdo da Súmula nº 94 desse E. Tribunal. Insurgência contra alegado atendimento fora da rede credenciada e período de carência contratual. Não conhecimento, por não relacionados à decisão atacada. Decisão mantida em sede de cognição sumária. Recurso conhecido em parte e não provido na parte conhecida.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 13, parágrafo único, II, da Lei n. 9.656/1998, pois a rescisão unilateral do contrato foi legítima, atentando-se para o previsto na lei e no contrato existente entre as partes. Afirma que houve a comprovação da notificação prévia da beneficiária sobre a sua inadimplência, bem como quanto ao cancelamento do plano em razão do não pagamento;
+b) Súmula n. 94 do TJSP, porque a falta de pagamento da mensalidade não opera, per si, a pronta rescisão unilateral do contrato de plano ou seguro de saúde, exigindo-se a prévia notificação do devedor com prazo mínimo de dez dias para purga da mora;
+c) 5º, II, da CF, porquanto houve ofensa ao princípio da legalidade, visto que não há lei ou qualquer outro ato normativo que obrigue a cobertura do tratamento; e
+d) 2º, III, da Lei n. 13.874/2019, alegando a intervenção subsidiária e excepcional do Estado no exercício das atividades econômicas.
+Requer o provimento do recurso para que seja cassada a decisão proferida no julgamento do recurso de agravo de instrumento.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial interposto deve ser inadmitido, pois não houve a alegada violação aos artigos mencionados, tampouco restou comprovada a alegada divergência jurisprudencial, além de majorar os honorários sucumbenciais das partes recorridas fixados em instância anterior (fls. 66-73).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos morais em que a parte autora pleiteou o restabelecimento do plano de saúde, a entrega do contrato e regulamento de uso do plano contratado, e o boleto para pagamento referente ao mês de março de 2023, além de indenização por danos morais no valor de R$ 13.200,00.
+A Corte estadual manteve integralmente a decisão de primeiro grau que deferiu a tutela antecipada para restabelecimento do plano de saúde da autora.
+I - Art. 13, parágrafo único, II, da Lei n. 9.656/1998
+A controvérsia diz respeito à concessão de tutela cautelar em caráter antecedente, que determinou o restabelecimento do plano de saúde da parte recorrida, com o fornecimento dos boletos bancários para pagamento de eventuais meses em atraso, devidamente acrescido(s) com os encargos da mora contratados.
+O Tribunal de origem, ressalvando a competência para analisar apenas os pressupostos necessários à antecipação de tutela, manteve a decisão liminar que deferira a tutela por reconhecer que estavam presentes os requisitos autorizadores. Concluiu estarem comprovadas a necessidade e a utilidade do restabelecimento do plano se saúde diante da ausência de demonstração de notificação prévia da recorrida sobre a rescisão contratual.
+Confiram-se trechos do voto condutor do acórdão do agravo de instrumento (fls. 40-41):
+Ao contrário do quanto argumentado pela Ré, ora Agravante, tem-se que os elementos colacionadas à exordial corroboram as alegações da Autora. Observe-se que a beneficiária colacionou no processo originário o pagamento dos boletos referentes aos meses subsequentes (págs. 19/27 na origem). A Ré, por seu turno, embora afirme que a rescisão se deu pela inadimplência, a ela competia a demonstração de que teria notificado a Autora acerca do débito, antes de proceder ao cancelamento - nos termos da legislação vigente. Contudo, neste sentido, nada comprovou, ônus que somente a ela incumbia.
+ ..
+O que se tem, por ora, é que a Ré, ora Agravante, não demonstrou que teria informado à Autora sobre a suposta inadimplência e, assim, cumprido o princípio da boa-fé contratual, de forma a garantir que a Autora fosse adequada e previamente informada, com possibilidade de purgação da mora para a continuidade da relação entabulada, consoante o enunciado pela Súmula 94 dessa Corte, que dispõe: "A falta de pagamento de mensalidade não opera, per si, a pronta rescisão unilateral do contrato de plano ou seguro saúde, exigindo-se a prévia notificação do devedor com prazo mínimo de dez dias para purga da mora".
+Dessa forma, os elementos constantes do processo indicam a abusividade imputada à Ré, ora Agravante, sobretudo porque, conquanto atribua a rescisão à inadimplência da Autora, não demonstrou a ter notificado previamente para eventual purgação da mora.
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSOESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DEINDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIALINTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIADE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de : Aos9/3/2016recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA.JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME.SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF.NÃO PROVIMENTO.
+1.Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ.(REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7.4.2015, DJe de 27/4/2015.)
+2.Não cabe, em recurso especial, reexaminar matéria fático-probatória(Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ademais, quanto à notificação prévia ao cancelamento do plano de saúde, rever as conclusões do Tribunal a quo - de que houve comprovação -demandaria reexame de provas, o que não é cabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+II - Súmula n. 94 do TJSP
+O recurso especial não é cabível com fundamento em violação de enunciado de súmula, que não se enquadra no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal, conforme a Súmula n. 518 do STJ.
+II- Art. 5º, II, da CF
+Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+IV - Art. 2º, III, da Lei n. 13.874/2019
+Com relação ao dispositivo acima mencionado, verifica-se que não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Caso, pois, de aplicação da Súmula n. 282 e 356 do STF.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
