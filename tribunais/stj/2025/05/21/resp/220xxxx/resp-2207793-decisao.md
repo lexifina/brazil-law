@@ -1,0 +1,8 @@
+DECISÃO
+Em análise, recurso especial interposto por GERALDO JUNIO DE SA FERREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Verifico que uma das questões discutidas neste recurso especial foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1.338/STJ, cuja questão submetida a julgamento é: "Definir, à luz do art. 256, § 3º, do Código de Processo Civil, se há obrigatoriedade de expedição de ofício a cadastros de órgãos públicos e concessionárias de serviços públicos para localizar o réu antes da citação por edital".
+Nesse contexto, conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Intimem-se.
+EMENTA
