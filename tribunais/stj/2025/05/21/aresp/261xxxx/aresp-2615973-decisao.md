@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. TRANSPORTE AÉREO. EXTRAVIO TEMPORÁRIO DE BAGAGEM. SENTENÇA DE PROCEDÊNCIA. RECURSO DA COMPANHIA AÉREA RÉ. RELAÇÃO CONSUMERISTA. RESPONSABILIDADE OBJETIVA. AVENTADA INEXISTÊNCIA DE DANO MORAL. INSUBSISTÊNCIA. VIAGEM INTERACIONAL DESTINADA A INTERCÂMBIO DA PARTE AUTORA. ATRASO DE UM DIA DO VOO DE CONEXÃO ATÉ O DESTINO FINAL SOMADO AO PERÍODO DE UM DIA ATÉ A EFETIVA DEVOLUÇÃO DA BAGAGEM. SITUAÇÃO QUE DESBORDA O MERO DISSABOR. PLEITO ALTERNATIVO PARA REDUÇÃO DO VALOR INDENIZATÓRIO. CABIMENTO. QUANTIA READEQUADA AO PARÂMETRO ADOTADO POR ESTA CÂMARA. SENTENÇA MODIFICADA, NO PONTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 186, 927 e 944 do Código Civil; 14 do Código de Defesa do Consumidor, além de divergência jurisprudencial. Sustenta que a indenização por danos morais haveria de ser majorada para R$ 10.000,00 (dez mil reais).
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. A agravante procura demonstrar que os dissabores por ela sofridos ocasionaram danos morais que tais a justificar a majoração da indenização fixada. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 264):
+Na hipótese vertente, a parte autora adquiriu passagens aéreas para realizar a sua viagem à Londres, saindo do aeroporto de Florianópolis/SC às 19h05min do dia 6/7/2019 (voo G3 2137), com conexão no aeroporto de Galeão/RJ (LX 8099) e de Zurich (LX 466), até a chegada no destino final em 7/7/2019 às 17h55min (evento 1, DOCUMENTACAO12).
+Ocorre que o voo LX 466 com destino à Londres foi cancelado, sendo a autora realocada nos voos LX 750 (Zurich/Luxemburgo) e LG 4593 (Luxemburgo/Londres) no dia 8/7/2019. Todavia, a bagagem da apelada foi temporariamente extraviada no curso da viagem, de modo que somente a recuperou após um dia da data de chegada no destino final.
+Com efeito, a responsabilidade civil da Companhia Aérea recorrente - responsável pelo trecho Zurich/SWI - Londres/UK (evento 1, DOCUMENTACAO12) - é objetiva, mormente porque integra a cadeia de consumo e não comprovou nos autos o local onde ocorreu o extravio da mala.
+(..)
+Inclusive, nesse tocante, também não prospera a insurgência da recorrente quanto à inexistência de abalo moral suportado pela autora.
+Isso porque a viagem destinava-se ao curso de inglês da demandante, momento muito esperada por ela. Contudo, a ocasião que deveria ser de comemoração foi eivada de transtornos ao longo dos dois dias de cancelamento do voo até a devolução da bagagem extraviada.
+Face a tal circunstância, narrou a autora que "ao chegar a Londres, registre-se, atrasada, foi diretamente à escola, pois tinha que realizar o teste de nivelamento para saber qual seria a sua turma" e que "os imprevistos com a viagem influenciaram negativamente no resultado do teste, posto que a Requerente estava estressada com o atraso e preocupada com suas malas que não haviam chegado" (evento 1, INIC1, p. 6).
+Junto a isso, impende salientar que a recorrida encontrava-se longe de casa, em um país de língua estrangeira; fatores estes que certamente intensificaram o aborrecimento já existente.
+Sob tal cenário, ressoa nítido que a situação vivenciada pela parte apelada extrapola o mero dissabor, dado que se caracteriza como fato extraordinário.
+Tais circunstâncias justificam o valor por fim definido em R$ 5.000,00 (cinco mil reais), quantia que não se revela exorbitante nem ínfima a ponto de justificar a intervenção do Superior Tribunal de Justiça.
+Não há como alterar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
