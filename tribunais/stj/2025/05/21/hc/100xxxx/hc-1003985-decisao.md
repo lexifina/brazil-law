@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CLAUDIO VICTOR GUTIERREZ DE LIMA, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul (HC n. 14038041020258120000).
+Consta dos autos que o paciente foi preso em flagrante por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006 (fl. 3). Alega a defesa que a quantidade de droga apreendida é pequena e que a decisão que decretou a prisão preventiva carece de fundamentação concreta, limitando-se a mencionar a gravidade abstrata do crime (fls. 4/5).
+Sustenta que a prisão preventiva foi decretada sem a demonstração de fatos novos ou contemporâneos que justifiquem a medida, violando o art. 315, § 2º, do CPP (fls. 8/10). Afirma que o paciente possui condições pessoais favoráveis, como primariedade, endereço certo e ocupação lícita, trabalhando como entregador de lanches e refeições (fl. 10).
+Requer a substituição da prisão preventiva por medidas cautelares diversas previstas no art. 319 do CPP (fl. 11).
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra assim fundamentada (fl. 18):
+O fumus comissi delicti - indícios suficientes de autoria e prova da materialidade delitiva - apresenta-se consubstanciado no boletim de ocorrência, nos depoimentos dos policiais responsáveis pela prisão, no auto e termo de exibição e apreensão, no laudo de exame preliminar de constatação em substância e demais documentos que instruem o APF n. 0000097-57.2025.8.12.0052.
+O periculum libertatis, por sua vez, apresenta-se pela necessidade, em especial, de acautelar a ordem pública, em razão da gravidade concreta da conduta delituosa imputada ao paciente (e corréu/estrangeiro), especialmente considerando a natureza, quantidade e diversidade das drogas apreendidas (17 pacotes/10,24 kg de maconha/haxixe; 1 pacote/1 Kg de cocaína - fls. 49/52, autos n. 0000097-57.2025.8.12.0052).
+Convém ressaltar que a natureza e quantidade de entorpecente, que são consideradas circunstâncias preponderantes pelo art. 42 da Lei n. 11.343/06, em princípio, traduzem forte indício de periculosidade do agente, bem como de dedicação ao tráfico, e pode ser considerada um dado concreto a justificar a confirmação da custódia excepcional em razão do efetivo risco à garantia da ordem pública, a exigir do julgador maior prudência na análise.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 908.734/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2024; e AgRg no RHC n. 160.743/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 20/5/2022.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
