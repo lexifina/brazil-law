@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interno manifestado por Banco Bradesco S.A. em face da seguinte decisão:
+Cuida-se de Agravo em Recurso Especial apresentado por BANCO BRADESCO S/A à decisão que inadmitiu Recurso Especial interposto com fundamento no art. 105, III, da Constituição Federal.
+É o relatório. Decido.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ e divergência não comprovada.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+Afirma a parte agravante que "impugnou especificamente os fundamentos da decisão recorrida, ressaltando que a aplicação da Súmula 7/STJ ao caso concreto se deu de maneira equivocada, pois a controvérsia reside na interpretação jurídica dos dispositivos legais aplicáveis e não na reapreciação do acervo fático-probatório" (e-STJ, fl. 416).
+Pede o provimento do recurso.
+Impugnação da parte contrária no sentido de que o recorrente não impugnou os fundamentos do juízo negativo de admissibilidade ou, ainda que ultrapassado o juízo de admissibilidade, o julgamento da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Assim delimitada a controvérsia, passo a decidir.
+Tem razão o recorrente quando afirma que houve impugnação aos fundamentos da decisão que negou seguimento ao recurso especial.
+É o que se colhe de fl. 367 (e-STJ).
+Leia-se:
+"O eminente desembargador também entendeu que as razões do recurso se ativeram a uma perspectiva de reexame de elementos, o que não corresponde à realidade dos fatos, haja vista que o banco comprovou ter suas alegações sido devidamente comprovadas nos autos.
+É sabido que os apelos excepcionais não possibilitam a rediscussão da matéria de fato subjacente à causa, apenas permitindo a solução de divergência quanto à questão de direito.
+Consequência disso é a vedação do reexame probatório consagrada nos Enunciados nº 07 do STJ e nº 279 do STF.
+Todavia, o que parece estar pacificado pela própria definição da egrégia Corte, quando analisado de forma mais aprofundada, apresenta uma zona nebulosa para os jurisdicionados.
+Aliás, tanto a doutrina quanto a jurisprudência reconhecem a dificuldade da distinção entre matéria de fato e matéria de direito, neste sentido o eminente jurista Rodolfo de Camargo Mancuso faz a seguinte ponderação."
+Merece, pois, conhecimento o agravo em recurso especial, o que se passa a examinar.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Declaratória de inexigibilidade de débito cumulada com indenizatória. Cobrança indevida. Débito declarado quitado por sentença judicial. Dano moral. Valor da indenização mantido. Mantido o valor dos honorários advocatícios. Recursos desprovidos.
+Alegou-se, na ocasião, violação 186 e 927 do Código Civil e 373 do Código de Processo Civil sob os argumentos de que não há causa para a condenação em reparação por dano moral e nem prova de violação a direito da personalidade.
+Colhe-se dos autos que os agravados ingressaram com pedido condenatório e declaratório em face do agravado e dos interessados alegando:
+"(..) que as requeridas Toledo Piza e Aval têm promovido, de forma exagerada, ligações diárias de cobrança e envio de mensagens eletrônicas via SMS aos requerentes, em decorrência de uma cessão de crédito adquirida do banco réu.
+Contudo, afirmaram que o crédito adquirido junto ao banco réu foi liquidado através de sentença judicial datada de 23/01/2013.
+Aduziram que no ano de 2006 o banco réu propôs Ação de Execução Hipotecária do Sistema Financeiro de Habitação em face dos autores, em razão de duas parcelas em aberto de um financiamento de 240 (duzentos e quarenta) meses, do imóvel onde os autores residem, sendo que a referida sentença consignou a aplicação da cláusula 22 do contrato entabulado entre as partes, o que redundou em quitação do alegado débito e consequente extinção da execução hipotecária nº 0136591-56.2006.8.26.0002 e da penhora do bem imóvel.
+No entanto, a parte ré continua a efetuar a cobrança dos valores, no importe de R$ 66.000,00 (sessenta e seis mil reais).
+Ao final, postulam pela declaração de inexigibilidade e exclusão de qualquer débito e encargos financeiros oriundo da relação noticiada, bem como baixa da hipoteca ativa na matrícula do bem, além de indenização por danos morais no valor de R$ 66.000,00 (sessenta e seis mil reais)" (e-STJ, fl. 162).
+A sentença julgou parcialmente procedentes os pedidos para declarar a inexigibilidade do débito e condenar os réus ao pagamento de "indenização por danos morais no valor de R$ 10.000,00 (dez mil reais)" (e-STJ, fl. 165).
+O Tribunal local, no exame de recursos interpostos por ambas as partes, manteve a sentença e, no tocante aos danos morais, à vista de que:
+"(..) se o autor foi cobrado por débito declarado quitado pelo Poder Judiciário, mostra-se de rigor o reconhecimento dos danos morais, já que o autor suportou aborrecimento, humilhação, constrangimento, irritação, sofrimento, revolta íntima, tudo tipificando o dano moral que constitucionalmente é passível de indenização, independentemente de qualquer prejuízo de natureza patrimonial" (e-STJ, fl. 264).
+É inequívoco, pois, que o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa, como já se decidiu.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. Para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de afastar a legitimidade passiva da recorrente, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+2. A Corte local, ao considerar que foram demonstrados os elementos ensejadores do dever de indenizar na hipótese sub judice, relativamente à cobrança indevida por meio de ligações telefônicas e mensagens excessivas, o fez com base na análise aprofundada do acervo probatório dos autos, sendo que a pretensão recursal enseja o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor do óbice da Súmula 7 do STJ.
+3. A intervenção deste Tribunal Superior quanto ao montante arbitrado a título de danos morais pelas instâncias ordinárias limita-se a casos nos quais o valor da indenização seja notadamente irrisório ou exagerado, diante do quadro fático delimitado pelas instâncias de origem, distanciando-se dos padrões de razoabilidade e proporcionalidade, o que não se evidencia no caso em tela.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.689.569/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Em face do exposto, reconsidero a decisão agravada para conhecer do agravo em recurso especial e, porém, negar-lhe provimento. Nos termos do art. 85, § 11, do CPC/2015, majoro, em substituição ao que fixado na decisão ora reconsiderada, em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão dos benefícios da J ustiça gratuita.
+Intimem-se.
+EMENTA
