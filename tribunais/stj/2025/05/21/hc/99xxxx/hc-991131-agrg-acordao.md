@@ -1,0 +1,124 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. EXTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. No caso, a prisão preventiva foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, do delito de roubo mediante concurso de agentes.
+Consta dos autos que o agravante, na companhia de corréu, em via pública, durante o dia, teria abordado a vítima e, mediante violência, já que ela foi agredida com socos e empurrada, subtraiu duas correntes de ouro, avaliadas em R$ 5.000,00 (cinco mil reais).
+Assim, tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta e demonstram, por ora, a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+3. Cumpre salientar que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa na situação apresentada nos autos.
+4. Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+5. Agravo regimental a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por KAYKY ANTUNES DA CRUZ contra decisão de e-STJ fls. 598/605, na qual deneguei a ordem impetrada em seu benefício.
+Depreende-se dos autos que o agravante encontra-se preso preventivamente, pela suposta prática do delito tipificado no art. 157, § 2º, II, do Código Penal.
+Segundo a peça acusatória (e-STJ fl. 9):
+No dia 27 de fevereiro de 2025, por volta das 13h00min, em via pública, na Avenida Presidente Getúlio Vargas, Água Verde, nesta cidade e Foro Central da Comarca da Região Metropolitana de Curitiba/PR, o denunciado KAYKY ANTUNES DA CRUZ, em companhia de um segundo indivíduo não identificado, agindo com consciência e vontade dirigidas à prática do ilícito, em divisão de tarefas, cada um colaborando com parcela necessária à realização da ação delitiva, mediante violência a pessoa, consistente desferir socos e empurrar a vítima, subtraíram, para ambos, 2 (duas) correntinhas de ouro, avaliadas em R$5.000,00 (cinco mil reais), de propriedade da ofendida C.A. de O.V..
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 24/25):
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PRETENSÃO DE REVOGAÇÃO DA SEGREGAÇÃO CAUTELAR. NÃO ACOLHIMENTO. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXCEPCIONAL. PREVISÃO DOS ARTS. 312 E 313 DO CPP. MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA DEMONSTRADA. GRAVIDADE DO MEDIDASMODUS OPERANDI. ALTERNATIVAS DIVERSAS DA PRISÃO PREVISTAS NO ARTIGO 319 DO CPP. INCOMPATIBILIDADE LÓGICA E INEFICÁCIA DEMONSTRADA. ORDEM CONHECIDA E DENEGADA.
+I. Caso em exame
+1. impetrado em favor de indivíduo que alega sofrer Habeas corpus constrangimento ilegal devido à prisão preventiva, alegando que a prisão é desnecessária, uma vez que o acusado é primário, possui residência fixa e emprego lícito, e não apresenta histórico de comportamento criminoso.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da presença dos requisitos para a decretação da segregação cautelar, elencados nos artigos 312 e 313, ambos do Código de Processo Penal.
+III. Razões de decidir
+3. A prisão preventiva, embora seja considerada exceção, pode ser decretada quando demonstrada a sua real indispensabilidade para o efeito de acautelar a ordem pública, a instrução criminal ou a aplicação da lei penal (artigo 312 do Código de Processo Penal).
+4. No caso, o paciente utilizou de grande modus operandi reprovabilidade e causou graves danos patrimoniais, atuando na companhia de outro indivíduo não identificado, mediante violência, consistente em desferir socos e empurrar a vítima, subtraiu 02 (duas) correntes de ouro avaliadas em 5.000,00 (cinco mil reais).
+5. O (comprovação da existência do crime e fumus comissi delicti indícios de autoria) e o (perigo concreto periculum libertatis causado pela permanência do agente em liberdade) estão devidamente evidenciados na decisão que decretou a constrição cautelar do paciente, a qual foi fundamentada em dados concretos dos autos que demonstram ser imprescindível a manutenção da prisão preventiva para garantia da ordem pública.
+6. Conforme entendimento jurisprudencial consolidado, as condições subjetivas favoráveis do paciente não têm o condão de, por si sós, afastar a segregação cautelar, mormente quando preenchidos os requisitos elencados no artigo 312 e 313 do Código do Processo Penal.
+IV. Dispositivo e tese
+7. Ordem conhecida e denegada.
+No writ impetrado no STJ, a defesa asseriu, primeiramente, a extemporaneidade da audiência de custódia, já que a prisão do acusado se deu em 27/2/2025 e a audiência foi realizada em 1º/3/2025.
+Alegou que o decreto prisional carecia de fundamentação idônea, já que pautado, somente, na gravidade abstrata do delito, além de não estarem presentes os requisitos autorizadores da custódia, nos termos do art. 312 do CPP.
+Pontuou que o "MP promoveu o arquivamento do inquérito policial em relação ao paciente quanto ao delito de roubo majorado (art. 157, § 2º, II, CP) praticado contra as vítimas Sibeli Otilia Rutz de Souza e Greicy Rutz Passos de Souza, em razão da ausência de indícios de participação na prática delitiva, ou seja, havendo ocorrência de fato novo, bem como ficando evidente que os motivos iniciais que levaram ao decreto preventivo se alterou" (e-STJ fl. 400).
+Destacou as condições pessoais favoráveis do agente e afirmou ser suficiente a aplicação de outras medidas cautelares.
+Dessa forma, requereu, liminarmente e no mérito, a revogação da prisão, ainda que mediante a imposição de medidas alternativas, com a expedição do competente alvará de soltura (e-STJ fls. 396/411).
+A ordem foi denegada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, do delito de roubo mediante concurso de agentes, pois o agravante, na companhia de corréu, em via pública, durante o dia, teria abordado a vítima e, mediante violência, já que a ofendida foi agredida com socos e empurrão, subtraiu duas correntes de ouro avaliadas em R$ 5.000,00 (cinco mil reais)  e-STJ fls. 598/605.
+No presente agravo regimental, a defesa alega a ausência de fundamentação idônea para a manutenção da prisão preventiva.
+Ressalta que "não basta fazer alegações vagas a respeito do modus operandi para justificar-se a decretação ou manutenção do decreto preventivo. Deve-se demonstrar, por decisão motivada de forma idônea, a existência de condutas repetitivas, sistemáticas e metódicas por parte do acusado, que demonstram o perigo concreto de em liberdade traga risco a ordem pública e a paz social" (e-STJ fl. 616).
+Reforça que "não houve desde o início das investigações, até o presente momento, qualquer indicativo de reiteração ou continuidade delitiva, devendo ser destacado que a conduta criminosa imputada ao agravante teria sido a violência da abordagem, e diga-se de passagem uma única vez, o que por si só não demonstra a estabilidade e dedicação criminosa" (e-STJ fl. 620).
+Assere que "a prisão do agravante foi decretada em torno de um ano após o início das investigações, bem como demonstrou uma única participação isolada  ..  na dita empreitada criminosa. Logo, a decretação da prisão sem a observância do requisito da contemporaneidade a torna uma ilegal antecipação de um dos efeitos mais graves de uma condenação em ação penal, qual seja, a pena" (e-STJ fls. 620/621).
+Afirma ser suficiente, no caso, a aplicação de outras medidas cautelares, nos termos do art. 319 do CPP.
+Por fim, aduz que, "com relação ao que afirmou o ínclito Relator a respeito das teses relativas à tese de extemporaneidade da audiência de custódia não foi apreciada pelo colegiado estadual, estando a Corte impedida de fazer a devida análise, sob pena de indevida supressão de instância. Entretanto, entendemos que, uma vez devidamente levantada a matéria, cabe essa Corte de Justiça, por uma questão de economia processual e Jurisdição Consti tucional conferida pela carta de Direitos, preterirem a devida análise, não podendo o agravante ser prejudicado por mera formalidade, tudo isso em homenagem aos princípios constitucionais previstos nos artigos 5º, inciso XXXV, e no artigo 93, inciso IX, ambos da nossa Constituição Federal de 1988. Novamente e com todo respeito, entendemos que é inadequado utilizar-se de supressão de instância como fundamento para denegar ordem de "habeas corpus", isso porque trata-se de remédio constitucional onde versa sob a liberdade do indivíduo - fator que se sobrepõe em face de regras de competência - sendo caso de concedido de ofício em determinadas situações" (e-STJ fls. 624/625).
+Diante disso, pleiteia o "processamento e acolhimento do presente Agravo Regimental com a necessária reforma da decisão guerreada" (e-STJ fl. 625).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. EXTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. No caso, a prisão preventiva foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, do delito de roubo mediante concurso de agentes.
+Consta dos autos que o agravante, na companhia de corréu, em via pública, durante o dia, teria abordado a vítima e, mediante violência, já que ela foi agredida com socos e empurrada, subtraiu duas correntes de ouro, avaliadas em R$ 5.000,00 (cinco mil reais).
+Assim, tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta e demonstram, por ora, a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+3. Cumpre salientar que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa na situação apresentada nos autos.
+4. Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+5. Agravo regimental a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Insurge-se a defesa contra a custódia cautelar imposta ao agravante.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, esses foram os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 43/47, grifei):
+Existem indícios suficientes de autoria e materialidade delitiva carreada aos autos, consubstanciados pelos depoimentos de mov. 1.4 e 1.6, interrogatório de mov. 1.12 e termo de declaração da vítima de mov. 1.10.
+Existem provas da materialidade e indícios de autoria delitiva, o que por si só, no entendimento do Supremo Tribunal Federal, já pode motivar um decreto de prisão preventiva:  ..
+Outrossim, importante destacar quanto aos fortes indícios de autoria delitiva em relação ao autuado, evidenciados por meio do relato consistente da vítima e dos agentes públicos responsáveis pela abordagem , os quais estão em consonância com o detalhado no boletim de ocorrência:
+"EQUIPE ACIONADA VIA SADE MOBILE, PARA ATENDIMENTO DE OCORRÊNCIA, EM QUE O SOLICITANTE INFORMA QUE UM MASCULINO FOI CONTIDO AO SUBTRAIR OBJETO DE TRANSEUNTE. EQUIPE NO LOCAL CONVERSOU COM A SRA. CAMILA AMARAL DE OLIVEIRA VIEGAS, QUE INFORMOU QUE ESTAVA SENTADA EM UM BANCO NA RUA GETÚLIO VARGAS, QUANDO FOI SURPREENDIDA POR DOIS INDIVÍDUOS DE BICICLETA, QUE A EMPURRARAM PARA ROUBAR SUAS CORRENTES DE OURO DO PESCOÇO E ENTÃO ELA VEIO A REAGIR E NA SEQUÊNCIA FOI SOCADA NO PEITO E JOGADA NO CHÃO, TENDO ALGUMAS ESCORIAÇÕES DEVIDO AS AGRESSÕES. NESTE MOMENTO CHEGOU UM TRANSEUNTE QUE AO VISUALIZAR A SITUAÇÃO DEFENDEU A SRA. CAMILA EMPURRANDO A BICICLETA DOS AUTORES, FAZENDO COM QUE OS INDIVÍDUOS SE EVADISSEM A PÉ SENTIDO IGNORADO. VALE RESSALTAR QUE O TRANSEUNTE QUE AUXILIOU A VÍTIMA NÃO ESTAVA NO LOCAL DA OCORRÊNCIA E ELA TAMPOUCO O CONHECIA. POSTERIORMENTE, AS OUTRAS VÍTIMAS, SRA. SIBELI OTILIA RUTZ DE SOUZA E SUA FILHA SRA. GREICY RUTZ PASSOS DE SOUZA ESTAVAM SAINDO DE CARRO DA UNIMED NA RUA PASTEUR, QUANDO FORAM SURPREENDIDAS PELOS DOIS AUTORES DO ROUBO DA CORRENTE E UM DELES FEZ MENÇÃO DE ESTAR ARMADO, SUBTRAINDO O VEÍCULO DE SIBELI, UM UP TSI DA COR BRANCA, PLACA BEL5D43, FUGINDO DO LOCAL, E O OUTRO AUTOR, KAYKY ANTUNES DA CRUZ, NÃO CONSEGUIU ENTRAR NO VEÍCULO ROUBADO E CONTINUOU FUGINDO A PÉ, SENDO DETIDO POR UM SEGURANÇA DA EMPRESA STV, O SR. RODOLFO DURE RUIZ DIAZ JUNIOR, QUE O IMOBILIZOU ATÉ A CHEGADA DA EQUIPE POLICIAL NA RUA MAURÍCIO CAILLET. AS VÍTIMAS DO ROUBO DO VEÍCULO, A SRA. SIBELI E A SRA. GREICY, E A VÍTIMA DO ROUBO DAS CORRENTES, SRA. CAMILA, TAMBÉM ESTAVAM NO LOCAL. A EQUIPE EM REVISTA PESSOAL NÃO LOCALIZOU NENHUM OBJETO COM O AUTOR QUE ESTAVA DETIDO, NEM TAMPOUCO O OBJETO DO ROUBO E SEGUNDO O AUTOR ELE HAVIA DEIXADO COM O OUTRO MASCULINO. DIANTE DISSO, FORAM LIDOS OS DIREITOS CONTITUCIONAIS DO AUTOR, SR KAYKY ANTUNES DA CRUZ, E EM SEGUIDA ENCAMINHADO ÍNTEGRO ATÉ A CENTRAL DE FLAGRANTES DE CURITIBA JUNTAMENTE COM AS VÍTIMAS. A EQUIPE FEZ A CONDUÇÃO DAS VÍTIMAS COM O APOIO DA VTRL1651. FOI NECESSÁRIO UTILIZAR O USO DE ALGEMAS CONFORME SÚMULA VINCULANTE Nº 11 PARA SEGURANÇA DA EQUIPE E PELO RECEIO DE FUGA." (mov. 1.1).
+A materialidade delitiva está consubstanciada pelas declarações da vítima e dos policiais militares.
+Com efeito, tais elementos demonstram indícios suficientes sobre a materialidade e autoria delitiva do crime que recai sobre a pessoa da custodiado, sendo necessária a manutenção de sua prisão, pelo fato de a ordem pública estar abalada.
+A ordem pública como conceito aberto que é, torna -se capaz de se adaptar as necessidades de cada comunidade.
+Embora primário, trata-se de crime grave, com grave ameaça à vítima revelando-se o modus operandi na gravidade concreta do delito, que em tese, em concurso, abordou a vítima, entrou em vias de fato, e após a agressão conseguiu levar duas correntinhas de ouro da vítima; ressalta-se, ainda, em fuga o autuado tentou cometer um novo delito que resultou sem sucesso.  ..
+Igualmente necessária a manutenção da prisão do autuado, como garantia da instrução criminal, eis que solto, poderá constranger a vítima, obstaculizando a instrução criminal; e como garantia da aplicação da Lei penal.
+Acrescente-se por fim, que nos termos da Lei 12.403/2011, há a previsão da possibilidade de aplicação de medidas cautelares diversas, em substituição à prisão cautelar.
+Contudo, para o caso, especificamente em razão do artigo 313, I, da referida Lei, combinado com o artigo 312 da Lei 12.403/2011, não há que se falar em aplicação de medidas cautelares diversas da prisão cautelar, pois presentes requisitos ensejadores da prisão cautelar.
+Ante o exposto, com fundamento nos artigos 312 e 313, II, ambos do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE em PRISÃO PREVENTIVA de KAYKY ANTUNES DA CRUZ.
+Ao indeferir o pleito de revogação da custódia, o MM Juiz assim se manifestou (e-STJ fls. 54/55, grifei):
+Conforme já foi esclarecido nos autos principais, o fumus comissi delicti encontra-se devidamente caracterizado pelos elementos colhidos no inquérito policial em que o requerente figurou como indiciado.
+O periculum libertatis também ficou suficientemente fundamentado na garantia da ordem pública diante da periculosidade do requerente e do perigo gerado pelo estado de liberdade dele, ressaltando-se o próprio modus operandi empregado no crime, bem como diante do risco de reiteração da conduta delitiva.
+Consta dos autos que na data dos fatos, por volta das 13h00, o requerente, na companhia de outro indivíduo não identificado, mediante violência, consistente em desferir socos e empurrar a vítima, subtraíram para eles, 02 (duas) correntes de ouro avaliadas em 5.000,00 (cinco mil reais).
+Nessa ambiência, é relevante notar que a subtração ocorreu em via pública, em uma praça com relativa movimentação de pessoas, em plena luz do dia, em face da vítima mulher e que o réu e outro sujeito lhe abordaram e covardemente, a fim de assegurar a subtração das correntes, lhe agrediram com socos e a empurram. E mesmo que um terceiro transeunte tenha se aproximado, o réu e seu comparsa não se intimidaram e fugiram na posse da res furtiva.
+Portanto, esse modo de agir comprova não apenas a gravidade concreta da conduta do acusado, mas também seu desprezo pelas regras de convívio social, permitindo concluir, assim, a periculosidade social do agente, pois gratuitamente e sem justificativa alguma cometeu o crime, bem como o risco concreto que representa a ordem pública.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, do delito de roubo mediante concurso de agentes.
+Consta dos autos que o agravante, na companhia de corréu, em via pública, durante o dia, teria abordado a vítima e, mediante violência, já que ela foi agredida com socos e empurrada, subtraiu duas correntes de ouro avaliadas em R$ 5.000,00 (cinco mil reais).
+Por oportuno, ressalto que, ao contrário do alegado pela defesa, basta, para a decretação da prisão preventiva, indícios de autoria e materialidade do delito imputado ao agente, o que ocorreu no caso em apreço, não necessitando a reiteração da prática delitiva para a manutenção da custódia.
+Assim, tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta e demonstram, por ora, a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. RISCO À ORDEM PÚBLICA.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III. RAZÕES DE DECIDIR
+4. A prisão preventiva está devidamente fundamentada na gravidade concreta do delito e no risco à ordem pública, demonstrado pelo modus operandi da tentativa de roubo, que envolveu planejamento prévio, concurso de agentes e ameaça grave à vítima.
+ ..
+IV. DISPOSITIVO
+9. Agravo regimental desprovido. (AgRg no HC n. 958.208/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU RECURSO EM HABEAS CORPUS. ROUBO MAJORADO E RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DOS FATOS. REGISTRO CRIMINAL DIVERSO. INADEQUAÇÃO DE MEDIDAS DO ART. 319 DO CPP.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade, desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado. Deve apoiar-se em motivos concretos, dos quais se possa extrair o perigo atual que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+2. O Juiz motivou a necessidade de garantir a ordem pública, ao destacar a periculosidade social do réu, revelada pela gravidade dos fatos (roubo em concurso de agentes, quando a vítima foi empurrada e caiu de sua moto, em seguida a suposta receptação) e por registro criminal diverso (ação penal em curso por tráfico de drogas).
+3. Diante da fundamentação exarada, não se mostra suficiente a substituição da prisão preventiva por medidas do art. 319 do CPP.
+ ..
+6. Recurso ordinário não provido. (RHC n. 200.839/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Ao ensejo:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. APREENSÃO DE ARMAMENTO E ENTORPECENTES. GRAVIDADE CONCRETA DOS FATOS. PERICULOSIDADE DO AGENTE E GARANTIA DA ORDEM PÚBLICA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. ANTECIPAÇÃO DE PENA. NÃO OCORRÊNCIA. RECURSO DESPROVIDO. I. CASO EM EXAME
+ ..
+6. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+ ..
+IV. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no HC n. 981.591/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES. APREENSÃO DE APETRECHOS RELACIONADOS AO TRÁFICO. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES INSUFICIENTES. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+5. Agravo regimental improvido. (AgRg no HC n. 978.224/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+Por fim, a tese de extemporaneidade da audiência de custódia, já que a prisão do recorrente se deu em 27/2/2025 e a audiência foi realizada em 1º/3/2025, não foi apreciada pelo Tribunal a quo, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Confira-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. NULIDADES PROCESSUAIS. EXCESSO DE PRAZO. AGRAVO DESPROVIDO.
+ ..
+4. A ausência de deliberação pelo Tribunal de origem sobre as nulidades apontadas impede a manifestação desta Corte Superior, sob pena de supressão de instância.
+ ..
+IV. Dispositivo e tese
+8. Agravo desprovido.  ..  (AgRg no RHC n. 201.376/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Não vislumbro, portanto, constrangimento ilegal apto a justificar a retificação da decisão combatida, razão pela qual a mantenho por seus próprios fundamentos.
+Ante todo o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
