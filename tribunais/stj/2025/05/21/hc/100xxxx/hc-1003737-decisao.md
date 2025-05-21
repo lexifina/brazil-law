@@ -1,0 +1,15 @@
+DECISÃO
+DIEGO MICHEL SILVA DE OLIVEIRA COSTA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução n. 021296-63.2024.8.26.0996.
+A defesa busca a concessão de livramento condicional ao paciente, ao argumento de que este preenche os requisitos necessários para tal fim.
+Decido.
+O apenado do regime fechado não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante a prática de falta disciplinar de natureza grave - "descumprimento de portaria judicial, saída temporária junho/2023" (fl. 27), em 15/6/2023 , reveladora de mau comportamento carcerário durante o período da execução penal.
+Nesse contexto, é possível o avanço para a solução imediata do habeas corpus, pois o acórdão recorrido está alinhado à tese jurídica fixada pela Terceira Seção desta Corte, no Tema Repetitivo n. 1.161:
+ ..  a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal  ..  (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023)
+O Tribunal de origem decidiu a controvérsia conforme o precedente qualificado, pois destacou (fl. 48):
+No que se refere ao livramento condicional, entende-se que a avaliação do mérito deverá atentar para registros de infrações disciplinares de natureza grave (ainda que reabilitadas, salvo se muito antigas), para eventual histórico prisional conturbado, e, se houver, para as conclusões do exame criminológico.  ..
+Deveras, além da previsão objetiva de não cometimento de falta grave nos últimos 12 meses, a legislação também estabelece requisito subjetivo mais rigoroso para o livramento condicional, fase mais benéfica da execução e que não pressupõe a passagem pelos regimes semiaberto e aberto. A exigência é proporcional à amplitude do benefício. Para alcançar a liberdade antecipada, principalmente sem cumprir as demais etapas do sistema progressivo, é imprescindível cumprir determinadas exigências, uma delas o bom comportamento durante toda a execução da pena.
+Consta na guia penal do paciente o registro de falta disciplinar, classificada como grave, consistente em "descumprimento das normas da saída temporária, haja vista que permaneceu fora do perímetro de inclusão de monitoramento" (fl. 47).
+Diante desse cenário, seria incoerente conceder a antecipação de liberdade a um reeducando do regime fechado que apresenta histórico de prática de infração disciplinar grave durante benefício anterior, quando nem sequer preenche os requisitos para ser transferido ao regime aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
