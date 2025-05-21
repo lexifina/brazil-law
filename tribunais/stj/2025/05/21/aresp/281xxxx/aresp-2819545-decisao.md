@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por COMPANHIA DE NAVEGAÇÃO AMAZÔNIA - CNA com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Segunda Turma de Direito Público do Tribunal de Justiça do Estado do Pará, assim ementado (e-STJ, fl. 306):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. SENTENÇA QUE RECONHECE A EXISTÊNCIA DE INFRAÇÃO AMBIENTAL COMETIDA PELA EMPRESA RECORRENTE BEM COMO A LEGALIDADE DO AUTO DE INFRAÇÃO LAVRADO E MESMO ASSIM MODIFICA A SANÇÃO IMPOSTA NO CORRESPONDENTE PROCESSO ADMINISTRATIVO. ATUAÇÃO DO PODER EXECUTIVO REVESTIDA DE LEGALIDADE A IMPOSSIBILITAR O JUDICIÁRIO DE MANIFESTAR-SE QUANTO AO MÉRITO ADMINISTRATIVO. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES (ART. 2º DA CF). RECURSO CONHECIDO E PROVIDO PARA CASSAR A SENTENÇA E RESTABELECER A HIGIDEZ DA SANÇÃO IMPOSTA A RECORRENTE.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 310-331), a insurgente apontou violação aos arts. 5º, LV, e 37 da Constituição Federal; ao art. 937, I, do CP/2015; aos arts. 93 e 118, I a VI, da Lei n. 5.887/1995; e ao art. 18 da Resolução do CONAMA n. 237/1997.
+Alegou a ocorrência do cerceamento de defesa, pois seus procuradores, embora tivessem envidados todos os esforços necessários para o pedido de sustentação oral, o processo fora julgado sem que pudesse exercer a ampla defesa e o contraditório.
+Sustentou que a penalidade imposta afronta os princípios da proporcionalidade e da razoabilidade.
+Contrarrazões às fls. 467-483 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 7 e 83 deste Superior Tribunal (e-STJ, fls. 484-491), o que ensejou a interposição do presente agravo (e-STJ, fls. 493-501).
+Brevemente relatado, decido.
+O recurso especial não merece ser conhecido.
+Preliminarmente, no tocante à apontada ofensa aos arts. 5º, LV, e 37, da Constituição Federal, cabe salientar que a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+No tocante ao art. 937, I, do CPC/2015, referente à tese do cerceamento de defesa, nota-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Com efeito, é firme o entendimento neste Superior Tribunal quanto à incidência das Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem, tampouco foram opostos os embargos declaratórios com intuito de provocar o debate na instância ordinária, como se observa no caso sob julgamento.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. CERCEAMENTO DE DEFESA E DECISÃO SURPRESA. CONTEÚDO NORMATIVO DE DISPOSITIVO LEGAL NÃO IMPUGNADO NA APELAÇÃO E NOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência do STJ, não cabe a análise de matéria não submetida ao necessário prequestionamento nas instâncias ordinárias, sob pena de incidência das Súmulas 282 e 356 do STF, por analogia.
+2. Alegação, em petição de recurso especial, de que houve cerceamento de defesa e decisão surpresa, o que importaria violação do art. 10/CPC. Construção argumentativa em torno do referido dispositivo legal inaugurada tão somente na via especial, sem apreciação pelas instâncias ordinárias, fato que atrai a incidência dos aludidos óbices sumulares.
+3. O STJ possui entendimento consolidado no sentido de que é inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Pretensão de revisão de indenização fixada a título de danos morais, sob a alegação de exorbitância dos valores e de malferimento dos parâmetros da razoabilidade e da proporcionalidade. Reexame de fatos e provas.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.818.883/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+No que concerne à alegada violação ao art. 18 da Resolução do CONAMA n. 237/1997, é importante pontuar que não merece ser conhecida a irresignação. Isso porque, consoante entendimento firmado neste Superior Tribunal, é inviável, na estrita via do recurso especial, o exame de violação a dispositivo de resolução, porquanto tal espécie normativa não se enquadra no conceito de lei federal, prevista no art. 105, III, a e c, da Constituição Federal.
+A propósito (sem grifo no original):
+RECURSO ESPECIAL. ATO NORMATIVO GERAL E ABSTRATO. INSTRUÇÃO NORMATIVA E REGIMENTO INTERNO DE TRIBUNAL. IMPOSSIBILIDADE DE ANÁLISE. TEMPESTIVIDADE. REQUISITO FORMAL DE ADMISSIBILIDADE. AUSÊNCIA DE PEDIDO DE PUBLICAÇÃO EM NOME DE DETERMINADO ADVOGADO. VALIDADE DA PUBLICAÇÃO FEITA EM NOME DO SUBSTABELECENTE. PRECEDENTES. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO. PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO.
+1. Para efeito de admissibilidade do recurso especial, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Não cabe a esta Corte a análise de suposta violação de portarias, instruções normativas, resoluções ou regimentos internos dos tribunais.
+ ..
+7. Agravo interno a que se nega provimento, tendo em vista a intempestividade do recurso especial.
+(AgInt nos EDcl no AREsp n. 1.488.552/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2023, DJe de 2/5/2023.)
+No que tange à questão de fundo, o cerne da controvérsia é o exame da razoabilidade e da proporcionalidade da multa aplicada em auto de infração pelo Estado do Pará, em razão da ausência de solicitação tempestiva de renovação de licença ambiental.
+Nota-se que a pretensão da insurgente se apoia na alegada violação aos art. 93 e 118, I a VI, da Lei n. 5.887/1995. Todavia, por se tratar de legislação local, sua análise é inviável em recurso especial.
+Isso porque, conforme previsão constitucional, o recurso especial é vocacionado à tutela do direito infraconstitucional federal, de modo que a esfera especial revela-se imprópria ao exame de direito local, incidindo, por analogia, o enunciado da Súmula n. 280/STF.
+No ponto (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280/STF. VIOLAÇÃO DE SÚMULAS DE TRIBUNAIS OU NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. Incide a Súmula 283 do Supremo Tribunal Federal (STF), por analogia, quando a parte deixa de impug nar, nas razões recursais, fundamento autônomo do acórdão recorrido.
+2. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal.
+3. Para o Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, alínea a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.054.041/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 25/11/2024, DJEN de 29/11/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. 1. DIREITO CONSTITUCIONAL. VIOLAÇÃO A NORMAS DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO STF. 2. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 3. VIOLAÇÃO A DISPOSITIVO DE RESOLUÇÃO. VIA RECURSAL IMPRÓPRIA. 4. LEI N. 5.887/1995. LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. 5. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
