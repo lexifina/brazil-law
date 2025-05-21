@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Ação civil pública. Loteamento irregular. Necessidade do deferimento de medidas assecuratórias a fim de se evitar o aprofundamento dos danos e sua consolidação. Imperiosa a inclusão no polo passivo da demanda dos demais corréus e suas esposas, residentes nas 20 chácaras apontadas pelo Município. Litisconsórcio necessário. Caracterização. Entendimento jurisprudencial deste E. TJSP. RECURSO PROVIDO EM PARTE.
+Em seu recurso especial, o recorrente sustenta, além de divergência jurisprudencial ofensa aos arts. 3º, IV, e 4º, VII, da Lei 6.938/1981, 275 do Código Civil e 113, § 1º, 114 do CPC. Para tanto, alega que:
+Nas ações civis públicas por dano ambiental e urbanístico não há obrigatoriedade na formação do litisconsórcio passivo, facultando-se ao legitimado a propositura da ação em face de um, de alguns de todos os agentes poluidores, em razão da responsabilidade civil em matéria ambiental ser solidária entre o causador direto e o indireto dos danos causados, nos termos do artigo 3º, inciso IV, da referida Lei de Política Nacional do Meio Ambiente (fl. 151).
+O MUNICÍPIO DE MOGI DAS CRUZES apresentou contrarrazões ao recurso especial.
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 185-186), tendo o recorrente interposto o agravo de fls. 190-205.
+Na decisão de fl. 226, foi determinada a autuação do agravo "como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno".
+O MINISTÉRIO PÚBLICO FEDERAL opinou pelo provimento do recurso (fls. 234-240).
+É o relatório. Decido.
+O recurso especial não comporta conhecimento.
+Com efeito, a Corte de origem dirimiu a controvérsia a respeito da necessidade de formação de litisconsórcio necessário ao fundamento de que a "determinação é a que melhor se coaduna com os princípios da dignidade da pessoa humana e do devido processo legal, do contraditório e da ampla defesa (CF, Art. 5º, inciso LIV)" (fl. 140).
+Entretanto, a parte recorrente não cuidou de interpor o devido recurso extraordinário, o que enseja a aplicação da Súmula 126 do STJ, segundo a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário". A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. ARTS. 489 E 1022 NÃO VIOLADOS. ANÁLISE DE PROVAS. SÚMULA 7 E 83/STJ. INCIDÊNCIA. SÚMULA 126/STJ APLICAÇÃO.
+ ..
+3. Não houve interposição do devido Recurso ao Supremo Tribunal Federal. Quanto ao argumento de que o princípio da unicidade sindical impede a agravante de ser representada por ambos os sindicatos (fundamento constitucional - CF, art. 8, II), incide a Súmula 126/STJ: "é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado").
+4. Agravo Interno não provido (AgInt no AREsp n. 2.367.621/MA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/3/2024, DJe de 19/4/2024).
+Além disso, conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os arts. 3º, IV, e 4º, VII, da Lei 6.938/1981, 275 do Código Civil e 113, § 1º, 114 do CPC não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Por fim, a incidência dos mencionados óbices (em especial a Súmula 126/STJ), impede o conhecimento do recurso especial, no tocante ao alegado dissídio jurisprudencial.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intime m-se.
+EMENTA
