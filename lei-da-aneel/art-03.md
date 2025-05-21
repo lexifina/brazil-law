@@ -14,7 +14,7 @@ XIII - efetuar o controle prévio e a posteriori de atos e negócios jurídicos 
 XIV - aprovar as regras e os procedimentos de comercialização de energia elétrica, contratada de formas regulada e livre;
 XV - promover processos licitatórios para atendimento às necessidades do mercado;
 XVI - homologar as receitas dos agentes de geração na contratação regulada e as tarifas a serem pagas pelas concessionárias, permissionárias ou autorizadas de distribuição de energia elétrica, observados os resultados dos processos licitatórios referidos no inciso XV do caput deste artigo;
-XVII - estabelecer mecanismos de regulação e fiscalização para garantir o atendimento à totalidade do mercado de cada agente de distribuição e de comercialização de energia elétrica, bem como à carga dos consumidores que tenham exercido a opção prevista nos arts. 15 e 16 da Lei nº 9.074, de 7 de julho de 1995;
+XVII - estabelecer mecanismos de regulação e fiscalização para garantir o atendimento ao mercado de cada agente de distribuição e de comercialização de energia elétrica e à carga dos consumidores que tenham exercido a opção prevista nos art. 15 e art. 16 da Lei nº 9.074, de 7 de julho de 1995;
 XVIII - definir as tarifas de uso dos sistemas de transmissão e distribuição, sendo que as de transmissão devem ser baseadas nas seguintes diretrizes:
 a) assegurar arrecadação de recursos suficientes para a cobertura dos custos dos sistemas de transmissão, inclusive das interligações internacionais conectadas à rede básica;
 b) utilizar sinal locacional visando a assegurar maiores encargos para os agentes que mais onerem o sistema de transmissão;
@@ -36,3 +36,10 @@ II - as peculiaridades operacionais e processuais relativas a eventuais decisõe
 III - a destinação integral dos valores do indébito, após apresentação ao órgão fazendário competente de requerimento do crédito a que faz jus, nos termos da legislação de cada ente tributário;
 IV - os valores repassados pelas distribuidoras de energia elétrica diretamente aos consumidores em virtude de decisões administrativas ou judiciais; e
 V - o equilíbrio econômico-financeiro da concessão.
+§ 9º As modalidades tarifárias de fornecimento de energia elétrica aplicadas às unidades consumidoras, independentemente da tensão de fornecimento em que são atendidas, poderão prever, entre outros aspectos:
+I - tarifas diferenciadas por horário;
+II - disponibilização do serviço de fornecimento de energia elétrica mediante pré-pagamento;
+III - tarifas multipartes que considerem a cobrança de parte dos custos associados à disponibilização de capacidade para uso do sistema de distribuição desvinculada do consumo de energia, complementada com parcela proporcional a esse consumo;
+IV - tarifas diferenciadas para áreas de elevada complexidade em relação ao combate às perdas não técnicas e de elevada inadimplência; e
+V - diferentes tipos de tarifas em função de critérios técnicos, locacionais e de qualidade, a serem aplicados de forma não discriminatória, resguardadas a transparência de cálculo e a publicidade dos valores aplicados em cada tipo tarifário.
+§ 10. A ANEEL poderá estabelecer critérios para os quais será compulsória a aplicação das modalidades tarifárias previstas no § 9º.

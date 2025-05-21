@@ -20,10 +20,11 @@ III - os mecanismos de segurança operativa, podendo incluir curvas de aversão 
 IV - as restrições de transmissão;
 V - o custo do deficit de energia; e
 VI - as interligações internacionais.
-§ 5º Nos processos de definição de preços e de contabilização e liquidação das operações realizadas no mercado de curto prazo, serão considerados intervalos de tempo e escalas de preços previamente estabelecidos que deverão refletir as variações do valor econômico da energia elétrica, observando inclusive os seguintes fatores:
+§ 5º Nos processos de definição de preços e de contabilização e liquidação das operações realizadas no mercado de curto prazo, serão considerados intervalos de tempo previamente estabelecidos e preços que deverão refletir as variações do valor econômico da energia elétrica, observados, inclusive, os seguintes fatores:
 I - o disposto nos incisos I a VI do § 4º deste artigo;
-II - o mecanismo de realocação de energia para mitigação do risco hidrológico; e
-III - o tratamento para os serviços ancilares de energia elétrica.
+II - o mecanismo de realocação de energia para mitigação do risco hidrológico;
+III - o tratamento para os serviços ancilares de energia elétrica; e
+IV - os limites de preços mínimo e máximo.
 § 6º A comercialização de que trata este artigo será realizada nos termos da Convenção de Comercialização, a ser instituída pela Agência Nacional de Energia Elétrica - ANEEL, que deverá prever:
 I - as obrigações e os direitos dos agentes do setor elétrico;
 II - as garantias financeiras;
