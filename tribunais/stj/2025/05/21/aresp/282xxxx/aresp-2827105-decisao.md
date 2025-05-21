@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTONIO CARLOS RODRIGUES, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ, fls. 842-848):
+"REVISÃO CRIMINAL - Extorsão mediante seqüestro ausência de nulidade no reconhecimento realizado na delegacia diante das formalidades preconizadas pelo art. "226, cpp, na medida que o reconhecimento foi confirmado, sob o crivo do contraditório, pela vitima procedência da ação fundada também em outros elementos idoneos de prova reunidos sob o crivo do contraditório  afasta-se a alegada violação ao artigo 226, do código de processo penal - revisão indeferida."
+Opostos embargos de declaração (e-STJ, fls. 852-860), os quais foram rejeitados (e-STJ, fls. 863-867).
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 157; 226; 386, VII; 564, IV; 619; 621, I, do Código de Processo Penal. Aduz, em síntese, que o o acórdão foi omisso quanto às teses defensivas de ausência de comprovação da autoria delitiva. Afirma que o reconhecimento pessoal foi nulo. Defende a ausência de lastro probatório suficiente para a condenação. Alega que a foto submetida ao reconhecimento fotográfico não consta nos autos. Assevera que o depoimento prestado pela vítima e pela testemunha são contraditórios.
+Com contrarrazões (e-STJ, fls. 920-933), o apelo nobre foi inadmitido na origem (e-STJ, fl. 936-938).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ, fls. 1.003 - 1.005).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+No que se refere ao lastro probatório, à manifestação do Tribunal de origem acerca da autoria delitiva e à alegada nulidade do reconhecimento realizado, destaco trecho do acórdão (e-STJ, fl. 847):
+"De qualquer forma, o requerente foi reconhecido, sob o crivo do contraditório, pela vítima, não se cogitando, portanto, na almejada nulidade do reconhecimento realizado por suposta ausência das formalidades preconizadas no artigo 226 do Código de Processo Penal.
+E, se não bastasse, os demais envolvidos no sequestro (exceto César, que estava foragido) também confessaram sua conduta delituosa na fase pré-processual (fls. 11/15), ratificando as palavras da vítima.
+A ativa participação de Antônio no crime de extorsão mediante sequestro é, portanto, incontestável, assim como a qualificadora de privação de liberdade da vítima por mais de 24 horas, uma vez que o sequestro durou mais de 50 dias, comprovados pelas provas colhidas no Inquérito Policial e pela prova oral produzida sob as garantias constitucionais do contraditório.
+A confissão de Evando é corroborada pelos documentos acostados nos autos a fls. 73/74, consistentes em um ofício e um extrato do Banco Bradesco, informando os saques descritos por Evando, comparsa do acusado, confirmando, inclusive, a continuidade delitiva, uma vez que aqueles foram realizados em um período de menos de dez dias, em locais próximos e sempre da mesma maneira. (Sentença de fls. 304/312).
+ ..
+O peticionário, sem trazer à colação algum fato novo, reitera o pedido absolutório constante tanto nas alegações finais como nas razões de apelação (fls. 330/331), eis que não se conforma com o edito condenatório, sendo que o alegado já foi analisado e rechaçado pela r. sentença de primeiro grau e pelo v. Acórdão revivendo."
+Assim, o Tribunal local, a quem cabe a análise exauriente dos fatos e provas, em análise da terceira revisão criminal (fls. 846), asseverou que houve prova suficiente da autoria e da materialidade delitiva, bem como não reconheceu haver nulidade no reconhecimento realizado. Ademais, consignou que a autoria restou demonstrada por outras provas constantes nos autos, como provas documentais, testemunhais e a palavra da vítima. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Em relação à suposta contradição entre os depoimentos testemunhais e a palavra da vítima, verifico que não há prequestionamento da matéria. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, tratando-se de inovação recursal. o que atrai a incidência da Súmula 211/STJ.
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp n. 1.721.960/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/10/2020, DJe de 12/11/2020.)
+Em relação à alegada violação ao art. 621 do Código de Processo Penal, há uma deficiência de compreensão, no recurso especial, dos reais argumentos que embasaram o aresto recorrido. Com efeito, embora o Tribunal local tenha entendido que não estar presente qualquer hipótese de cabimento de revisão criminal, a parte recorrente se restringe a afirmar que o Tribunal permaneceu omisso quanto às teses de ausência de comprovação de autoria. Assim, as razões recursais encontram-se dissociadas do que efetivamente restou decidido na origem, o que reclama incidência da Súmula 284/STF. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DUPLAMENTE QUALIFICADO. RAZÕES RECURSAIS QUE NÃO IMPUGNAM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. As razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia. Incidência da Súmula n. 284/STF.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.482.371/TO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/3/2024, DJe de 15/3/2024.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO APELO EXTREMO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284 DO STF. INCIDÊNCIA. REGIME INICIAL FECHADO. PENA DEFINITIVA SUPERIOR A 8 ANOS DE RECLUSÃO. ARTIGO 33, § 2º, A, DO CÓDIGO PENAL. APLICAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se conhece de recurso especial cujas razões encontram-se dissociadas do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+ ..
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.812.405/CE, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 11/5/2021, DJe de 13/5/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
