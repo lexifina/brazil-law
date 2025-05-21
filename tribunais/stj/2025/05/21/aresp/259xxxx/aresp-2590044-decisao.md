@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo interposto por METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 383):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. DOENÇA INCAPACITANTE. COBERTURA DE INVALIDEZ PERMANENTE TOTAL POR DOENÇA. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DA SEGURADORA. PRELIMINAR. PRESCRIÇÃO REJEITADA NA ORIGEM. INCONFORMISMO DA REQUERIDA. INCIDÊNCIA AO CASO DO ART. 206, § 1º, II, "B", DO CÓDIGO CIVIL. CONTAGEM DO LAPSO TEMPORAL A PARTIR DA CIÊNCIA INEQUÍVOCA DA INCAPACIDADE PERMANENTE. APOSENTADORIA CONCEDIDA POR MEIO DE DEMANDA JUDICIAL. AUTORA COMUNICADA POR CORRESPONDÊNCIA. INÍCIO DO PRAZO PRESCRICIONAL. LAPSO ANUAL NÃO TRANSCORRIDO ATÉ O AJUIZAMENTO DA DEMANDA. PREJUDICIAL AFASTADA. MÉRITO. ALEGADA AUSÊNCIA DE PROVA DE QUE A AUTORA SE ENCONTRA DEPENDENTE DE TERCEIROS PARA OS ATOS DA VIDA COTIDIANA. DESNECESSIDADE. APÓLICE COM COBERTURA PARA INVALIDEZ PERMANENTE TOTAL POR DOENÇA, E NÃO PARA INVALIDEZ PERMANENTE TOTAL POR DOENÇA FUNCIONAL (IPDF). ARGUMENTO DE QUE A CONCESSÃO DE APOSENTADORIA AFIGURA-SE INSUFICIENTE. NÃO ACOLHIMENTO. DOCUMENTO EXIGIDO PELA PRÓPRIA SEGURADORA PARA INSTRUIR O AVISO DE SINISTRO. INCAPACIDADE PERMANENTE TOTAL POR DOENÇA DEMONSTRADO NOS AUTOS. RAZÕES RECURSAIS REJEITADAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 442-444).
+No recurso especial, a recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos:
+I) art. 206, § 1º, II, alínea "b", do Código Civil, porquanto o acórdão recorrido não reconheceu a prescrição da pretensão da segurada, mesmo após o transcurso do prazo ânuo previsto para a propositura da ação de cobrança de indenização securitária;
+II) art. 7º do CPC: alega que houve cerceamento de defesa devido à ausência de perícia médica para comprovar a invalidez da segurada, o que seria necessário para a correta aplicação da cobertura de Invalidez Funcional Permanente Total por Doença (IFPD);
+III) art. 10 do CPC: sustenta que a cobertura contratada é de Invalidez Funcional Permanente Total por Doença (IFPD), e não de Invalidez Permanente por Doença (IPD), como aplicado pelo acórdão recorrido;
+IV) arts. 757 e 760 do CC: pelo fato de que o acórdão recorrido não observou os limites contratuais estabelecidos no contrato de seguro. Aduz que a decisão judicial desconsiderou a distinção entre as coberturas de Invalidez Funcional Permanente Total por Doença (IFPD) e Invalidez Laborativa Permanente Total por Doença (ILPD), aplicando indevidamente a cobertura de IFPD sem que houvesse comprovação da perda da existência independente do segurado, conforme exigido pelo contrato;
+V) arts. 436, parágrafo único, e 801, § 1º, do Código Civil: sustenta que o dever de informar o segurado no seguro de vida em grupo é da Estipulante, e não da Seguradora, conforme entendimento recente do STJ;
+VI) art. 85, § 2º, do CPC: contesta a fixação dos honorários advocatícios, alegando que foram estabelecidos em desacordo com os parâmetros do art. 85, § 2º, do CPC.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial (fl. 762).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 765-769), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 906).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação do art. 1.022 do CPC
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e fundamentada, manifestou-se sobre os pontos alegados como omissos.
+É o que se extrai dos seguintes trechos (fls. 379-380):
+A prescrição suscitada na contestação foi afastada sob os seguintes fundamentos (evento 55, SENT 205):
+Não se pode falar em prescrição no presente caso. É que o prazo prescricional foi interrompido como pedido de indenização formulado diretamente à seguradora e somente voltou a fluir em 18/8/2010, com a negativa do seu pedido na seara administrativa (fl. 16). Após, em10/3/2011, a presente ação foi ajuizada (fl. 02). Portanto, não houve o decurso do prazo de um ano.
+A seguradora ré não se contenta com esta decisão e busca a sua reforma, aos argumentos de que (i) ao contrário do considerado na sentença, o pedido administrativo apenas suspende o prazo anual, e não interrompe (Súmula 229 STJ); (ii) a aposentadoria foi concedida em 1-10-2009, a carta de negativa administrativa é datada de 18-8-2010 e a ação foi ajuizada em 10-3-2011.
+Aplicável à espécie o prazo previsto no art. 206, § 1º, II, "b", do Código Civil ("prescreve em um ano a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo, quanto aos demais seguros, da ciência do fato gerador da pretensão").
+Nesse sentido, sabe-se, conforme os contornos da interpretação sufragada pelo Superior Tribunal de Justiça, que, nas "ações de cobrança de indenização do segurado contra a seguradora, o prazo prescricional de um ano tem início na data em que o segurado teve ciência inequívoca de sua invalidez permanente (Súmula 278/STJ)" (AgRg no Ag 1158070/BA, rel. Mina. Maria Isabel Gallotti, da Quarta Turma, j. 6-8-2015).
+Além disso, o Superior Tribunal de Justiça firmou entendimento por meio da Súmula 229 no sentido de que "o pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão".
+No caso em apreço, a aposentadoria da demandante foi concedida por meio de sentença judicial, com efeitos desde 1-10-2009. Todavia, a beneficiária só tomou conhecimento da concessão pelo documento do evento 55 (anexo 15), datado de 6-7-2010.
+Desse modo, ainda que o pedido administrativo tenha suspendido (e não interrompido) o prazo, não se pode falar em prescrição, já que entre o dia em que tomou ciência da aposentadoria (6-7-2010) e o ajuizamento da ação (10-3-2011) não transcorreu um ano.
+ ..
+A recorrente não se conforma com a procedência do pedido inicial, apresentando argumentos no sentido de inexistir nos autos prova da Invalidez Permanente Total por Doença Funcional (IPDF) e que a demandante não teria demonstrado que se encontra dependente de terceiros para os atos da vida cotidiana.
+Em recente decisão prolatada por meio da sistemática dos recursos repetitivos, o Superior Tribunal de Justiça esclareceu que, "na Invalidez Funcional Permanente Total por Doença (IFPD), a garantia do pagamento da indenização é no caso de invalidez consequente de doença que cause a perda da existência independente do segurado, ocorrida quando o quadro clínico incapacitante inviabilizar de forma irreversível o pleno exercício das suas relações autonômicas (art. 17 da Circular SUSEP nº 302/2005)" (Recurso Especial n. 1.845.943/SP, rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, j. 13-10-2021).
+Todavia, a apólice em comento possui cobertura para invalidez permanente total por doença (petição 181 e 189), e não para IFPD.
+Desse modo, para fins de recebimento da indenização securitária postulada na exordial, afigura-se desnecessário exigir que a segurada esteja sob as seguintes condições elencadas por Ricardo Bechara Santos:
+ ..
+Além disso, não pode a apelante alegar que a concessão da aposentadoria e os documentos acostados ao feito mostram-se insuficientes para demonstrar a invalidez, já que compreendem exatamente os documentos por ela exigidos para instruir o aviso de sinistro, conforme se extrai da própria apólice (petição 186):
+ ..
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ressalte-se, ainda, que, conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+- Da ausência de prequestionamento
+Conforme se extrai dos autos, os arts. 436, parágrafo único, e 801, § 1º, do Código Civil e 85, § 2º, do CPC, apontados como violados, bem como as teses a eles vinculadas, não foram prequestionados, incidindo o óbice da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+- Art. 206, § 1º, II, alínea "b", do Código Civil - Súmula n. 7/STJ
+Com efeito, conforme trechos do acórdão já mencionados, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, consignou que entre a ciência da aposentadoria e o ajuizamento da ação, não transcorreu um ano, afastando, assim, a alegação de prescrição (fls. 379-380).
+Alterar o decidido no acórdão impugnado, no que se refere à ocorrência da prescrição, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Arts. 7º e 10 do CPC - Arts. 757 e 760 do CC - Súmulas n. 5 e 7/STJ
+Como se vê, o Tribunal de origem concluiu que a apólice em questão possui cobertura para invalidez permanente total por doença, e não para Invalidez Funcional Permanente Total por Doença (IFPD). Além disso, destacou que os documentos apresentados, incluindo a concessão de aposentadoria, eram suficientes para comprovar a incapacidade permanente total por doença, conforme exigido pela própria apólice para instruir o aviso de sinistro (fls. 380-381).
+Desse modo, reverter a conclusão do Tribunal a quo para acolher a pretensão recursal quanto à alegação de cerceamento de defesa, bem como para reconhecer que a cobertura contratada seria para invalidez funcional, demandaria a análise e interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA E ACIDENTES PESSOAIS. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). RECONHECIMENTO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do tribunal de origem, que consignou que a cobertura contratada foi na modalidade Invalidez Permanente Total por Doença, e não Invalidez Funcional Permanente Total por Doença (IFPD), esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.863.696/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/9/2020, DJe de 28/9/2020.)
+- Da divergência jurisprudencial
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 17% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL  CIVIL.  CIVIL.  AÇÃO  DE  COBRANÇA.  SEGURO  DE  VIDA  EM  GRUPO.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC.  NÃO  OCORRÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  N.  211/STJ.  INVALIDEZ  FUNCIONAL  PERMANENTE  TOTAL  POR  DOENÇA  (IFPD).  RECONHECIMENTO.  IMPOSSIBILIDADE.  PRETENSÃO  DE  REEXAME  DA  MATÉRIA  FÁTICO-PROBATÓRIA  E  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INCIDÊNCIA  DAS  SÚMULAS  N.  5  E  7/STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  CONHECIDO  EM  PARTE  E  IMPROVIDO.
