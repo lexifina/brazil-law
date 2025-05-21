@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDUARDO BARTH COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC nº 5066302-43.2024.8.24.0000).
+Colhe-se dos autos que o paciente encontra-se recolhido no Presídio Regional de Imbituba em virtude de condenação à pena de 10 anos e 6 meses de reclusão, atualmente no regime fechado, tendo sido indeferido pedido de prisão domiciliar.
+A Defesa alega que o paciente sofre da Síndrome da Talidomida, apresentando braços encurtados, mãos malformadas e ausência de uma das pernas, além de outras comorbidades, o que compromete sua mobilidade e independência, tornando-o incapaz de realizar atividades básicas sem assistência de um cuidador (fls. 3-4).
+Sustenta que a unidade prisional é inadequada para suprir as necessidades médicas do paciente, que requer suporte contínuo de um cuidador, sessões regulares de fisioterapia e fortalecimento muscular, inviáveis no ambiente carcerário (fls. 5-6).
+Aponta que a permanência do paciente na prisão apresenta risco iminente de agravamento de sua condição de saúde, com possibilidade de sequelas irreversíveis e risco de óbito (fl. 7).
+Requer, liminarmente e no mérito, a substituição da prisão em regime fechado pela domiciliar.
+Pedido de liminar indeferido (fls. 51-52).
+As informações foram prestadas às fls. 58-59 e fls. 60-90.
+O Ministério Público Federal manifestou-se, às fls. 99-108, pelo não conhecimento do writ e, caso conhecido, no mérito, pela denegação da ordem de habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+No caso, a defesa deseja a concessão de prisão albergue domiciliar ao paciente para o resguardo de sua saúde, embora já tenha sido condenado definitivamente ao cumprimento de pena no regime inicial fechado.
+Da análise dos elementos informativos constantes dos autos, não verifica-se a flagrante ilegalidade a legitimar a atuação desta Corte.
+Para melhor elucidação do tema, confiram-se os fundamentos utilizados pelo julgado impugnado (fls. 16-18):
+Constata-se dos autos originários que o Magistrado a quo, depois de colhidas as manifestações do Diretor do Presídio Regional de Imbituba e do órgão do Ministério Público(Seq. 22.1 e 32.1, SEEU), indeferiu o pedido defensivo de prisão domiciliar (Seq. 34.1,SEEU, todos dos autos originários).
+Para tanto, ponderou não ter ficado comprovada a existência de situação excepcional, notadamente a impossibilidade de tratamento no interior do cárcere, tendo em conta especialmente a conclusão prestada pelo ergástulo, fundamentada em parecer do médico oficial, de que "a Unidade Prisional se apresenta como em estando em condições dedar efetividade ao cumprimento da pena ao referido interno".
+Na mesma ocasião, sem ignorar o estado de saúde do paciente e as assertivas defensivas, a autoridade dita coatora solicitou novas informações ao estabelecimento prisional.
+Reforçada a instrução do incidente com novas promoções da equipe de saúde, da defesa, do órgão do Ministério Público e do médico (Seq. 49.1, 56, 60.1 e 67.1, SEEU), o Juízo de Primeiro Grau entendeu mais uma vez descabida a prisão domiciliar, porquanto não infirmados os motivos anteriores, e determinou que a unidade prisional acoste, mensalmente, relatório de saúde atualizado do apenado, a fim de verificar eventual impossibilidade da prestação do tratamento adequado e a tomada das medidas cabíveis (seq. 71.1, SEEU, todos dos autos originários).
+No dia 17 de outubro de 2024, diante da aventada necessidade de reforço muscular, a Coordenação de Execução Penal da unidade solicitou parecer do serviço de fisioterapia do sistema público de saúde, a ser realizado no Presídio Regional de Imbituba, com o objetivo de examinar a demanda apresentada pelo médico especialista particular, bem como verificar a viabilidade de sua execução no ambiente prisional (Seq. 85.1-2, SEEU, dos autos originários).
+Superada essa breve retrospectiva, lembra-se que a concessão da prisão domiciliar ao preso que se encontre em cumprimento de pena definitiva pressupõe o enquadramento em alguma das hipóteses do art. 117 da Lei n. 7.210/84, voltando-se o art.318 do Código de Processo Penal, assim como os parâmetros cunhados pelo Supremo Tribunal Federal nos Habeas Corpus Coletivos ns. 143.641 e 165.704, à substituição da prisão provisória, salvo se presente peculiaridade concreta que demonstre a sua imprescindibilidade.
+ ..
+No caso dos autos, as decisões que indeferiram a concessão da benesse foram motivadas, não desprezaram o peculiar estado de saúde do paciente e sopesaram a excepcionalidade da prisão domiciliar.
+A autoridade dita coatora muniu o exame da quaestio com manifestações do estabelecimento prisional, inclusive por intermédio do seu serviço de saúde, e concluiu pela compatibilidade do estado de saúde do paciente com o cumprimento da pena privativa de liberdade intramuros, ao menos até que advenha notícia em sentido contrário.
+Aguarda-se, ainda, nova manifestação sobre o estado de saúde do paciente, a qual pode conduzir à modificação da forma de cumprimento da sanção, desde que constatada efetivamente a presença de excepcionalidade.
+Logo, ausente coação ilegal flagrante, é manifesta a impropriedade da via.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, embora o art. 117 da Lei de Execução Penal estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto.
+Para tanto, deve ser demonstrada a excepcionalidade do caso concreto que indique a imprescindibilidade da medida, exigindo-se a comprovação da debilidade do condenado e a constatação de que o tratamento adequado ao restabelecimento de sua saúde encontra-se comprometido pela inexistência de assistência necessária no interior do estabelecimento prisional.
+Nesse sentido:
+"A teor dos julgados desta Corte, é admissível, por interpretação extensiva do art. 117 da LEP, a concessão da prisão domiciliar "no caso de regime prisional diverso do aberto, excepcionalmente, em face de comprovada doença grave, se o tratamento médico necessário não puder ser ministrado no presídio" (HC n. 755.764/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+ ..
+(AgRg no HC n. 859.644/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024).
+"1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 801.974/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)"
+Na mesma linha, o Enunciado n. 26 da I Jornada de Direito Processual Penal do Conselho Nacional de Justiça afirma que:
+"É possível, em situações excepcionais, a aplicação da prisão domiciliar humanitária, prevista no art. 117 da Lei n. 7.210/1984, também aos condenados em cumprimento de regime fechado e semiaberto".
+A Suprema Corte também tem admitido, em situações absolutamente excepcionais, a concessão de prisão domiciliar a regimes mais severos de execução penal, a exemplo das ordens implementadas nas hipóteses em que o condenado estiver acometido de doença grave a demandar tratamento específico, incompatível com o cárcere ou impassível de ser oferecido pelo Estado (AgR na AP n. 996, Ministro Edson Fachin, Segunda Turma, DJe 29/9/2020). Nesse mesmo sentido: HC n. 194.217, Ministra Cármen Lúcia, DJe 15/12/2020. (grifei)
+Segundo afirmado na decisão de 1º grau (fls. 19-21) a unidade prisional possui condições de satisfazer as necessidades específicas do apenado. Destaca-se, ainda, que o juízo singular determinou que a unidade prisional acoste, mensalmente, relatório de saúde atualizado do apenado, a fim de verificar eventual impossibilidade da prestação tratamento adequado e a tomada das medidas cabíveis.
+A despeito disso, de acordo com o entendimento esposado pelas instâncias ordinárias, depois de efetuar o cotejo dos documentos dos autos, não ficou comprovado a debilidade extrema e que o paciente não esteja recebendo os cuidados médicos necessários no local em que está recolhido. Além disso, não é possível a verificação direta do estado de saúde do paciente pelo Superior Tribunal de Justiça, porque tal análise demandaria incursão fático-probatória, inviável na via do habeas corpus. Nesse sentido:
+"Para o deferimento de prisão domiciliar não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional (AgRg no HC n. 814.504/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023), o que não restou demonstrado no caso em apreço.
+3. Agravo regimental improvido.
+(AgRg no HC n. 828.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+"6. A verificação acerca do estado de saúde do agravante, para fins de concessão de prisão domiciliar, nos termos do art. 318, II, do CPP, demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do habeas corpus.
+7. Agravo regimental desprovido."
+(AgRg no HC n. 891.325/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+"Desse modo, modificar as conclusões da instância pretérita, a fim de substituir a custódia cautelar por prisão domiciliar, implicaria em necessário revolvimento de fatos e provas, o que e inviável na estreiteza procedimental do writ.
+9. Habeas Corpus denegado."
+(HC n. 820.075/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/6/2023, DJe de 27/6/2023.)
+Assim, não vislumbro a ocorrência de flagrante ilegalidade ou teratologia a ensejar a concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
