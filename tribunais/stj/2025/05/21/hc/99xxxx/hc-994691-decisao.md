@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PATRICK DA ROSA LOPES contra acórdão de Apelação Criminal n. 5001752-49.2017.8.21.0006 (fls. 15-24).
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, e do art. 16, parágrafo único, IV, da Lei n. 10.826/2003, às penas de 8 anos de reclusão, em regime semiaberto, e pagamento de 510 dias-multa (fls. 229-236). Interposta apelação, o recurso defensivo foi desprovido (fls. 15-24).
+Daí o presente writ, em que a impetrante alega, em síntese, "excesso de pena, na medida em que nega vigência ao disposto no artigo 40, IV, da Lei de Drogas, precisamente no instante em que reconhece o porte de arma como crime autônomo, deixando de reconhecer a majorante de emprego de arma de fogo no delito de tráfico de drogas - aplicação do princípio da consunção" (fl. 5).
+Aduz que o paciente preenche todos os requisitos para ser reconhecida a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, tendo em vista que é primário, possui bons antecedentes, não se dedica a atividades criminosas e não integra organização criminosa.
+Requer, liminarmente, a suspensão da execução até o julgamento definitivo do writ. No mérito, pugna pela concessão da ordem para que "seja afastado o concurso material, desclassificando-se a conduta para o tipo penal do art. 33, caput, c/c art. 40, IV, da lei 11.343/2006, e ainda seja declarada a incidência do art. 33, § 4º, da lei de Drogas." (fl. 14).
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem nos termos da seguinte ementa (fl. 401):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INVIABILIDADE. PROCESSO JÁ TRANSITADO EM JULGADO. WRIT SUBSTITUTO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. REFORMA DA DOSIMETRIA. ART. 621 DO CPP. ABSOLUTA CARÊNCIA DE HIPÓTESE LEGAL. IMPROCEDÊNCIA DA REVISÃO CRIMINAL SUBSTITUTIVA. NÃO CONHECIMENTO DO WRIT.
+É o relatório. Decido.
+No caso, consoante informações prestadas pelas instâncias ordinárias , o acórdão condenatório transitou em julgado (fl. 394). Assim, o presente writ foi impetrado após o trânsito em julgado da condenação, sendo, pois, substitutivo de revisão criminal.
+E, nos termos da jurisprudência desta Corte, " n ão deve ser conhecido o w ri t que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, D Je de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Nesse contexto, ainda que relevantes os argumentos deduzidos na inicial, o egrégio Superior Tribunal de Justiça não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
