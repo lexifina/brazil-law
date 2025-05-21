@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE CESAR BANDEIRA SANTOS, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve sua condenação em 10(dez) meses e 24 (vinte e quatro) dias de detenção, no regime aberto, e pagamento de 08(oito) dias/multa, além da suspensão da permissão/habilitação para condução de veículo automotor pelo prazo de 01 (um) mês e 18 (dezoito) dias, por infração ao artigo 306, parágrafo 1º, inciso II, da Lei n. 9.503/1997, e artigos 129, "caput", e 331, ambos do Código Penal, todos em concurso material, substituída a pena privativa de liberdade pelo pagamento de 10 (dez) dias/multa, cada diária no mínimo legal, e uma restritiva de direitos (trabalho aos fins de semana em equipe de resgate do Corpos de Bombeiros e em outras unidades móveis especializadas no atendimento a vítimas de trânsito, na forma do artigo 312-A, inciso I, do CTB, e ressalvas do artigo 148, da LEP) (e-STJ fls. 490/494).
+Apresentados embargos de declaração, esses foram rejeitados (e-STJ fls. 490/494).
+Nas razões do recurso especial (e-STJ fls. 482/486), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 28, §2º, do CP. Sustenta que o recorrente deve ser beneficiado com maior redutor da pena, eis que sua embriaguez mostra-se motivada por doença.
+Apresentadas contrarrazões (e-STJ fls. 503/508), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 512/514), tendo sido interposto o presente agravo (e-STJ fls. 517/520).
+O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e não conhecimento do recurso especial. (e-STJ fls. 548/552).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Quanto à embriaguez, o Código Penal, no artigo 28, §2º, dispõe que a pena pode ser reduzida de um a dois terços, se o agente, por embriaguez, proveniente de caso fortuito ou força maior, não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.
+No presente caso, a Corte local, em decisão devidamente motivada, aplicou a referida causa de diminuição no patamar de 1/3, notadamente diante da justificativa de que "apesar de apontar a semi-imputabilidade do réu e indicar tratamento ambulatorial, o próprio perito deixou evidente que o grau de comprometimento mental do acusado é pequeno" (e-STJ fl . 387) (e-STJ fl. 476).
+Assim, rever tal conclusão, no sentido da aplicação em fração superior, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
