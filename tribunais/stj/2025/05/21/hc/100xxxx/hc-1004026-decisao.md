@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUIZ FELIPE DA SILVA NASCIMENTO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP proferido no julgamento da Apelação Criminal n. 1500113-46.2024.8.26.0483.
+Extrai-se dos autos que o Juízo de primeiro grau condenou o paciente a 1 ano e 8 meses de reclusão, inicialmente no regime aberto, mais o pagamento de 166 dias-multa, como incurso no art. 33, § 4º, da Lei n. 11.343/06.
+O Tribunal de origem negou provimento à apelação interposta pela defesa, em julgamento assim resumido (fl. 18):
+"Apelação criminal. Tráfico de drogas. Requer apelante reconhecida ausência de dolo para absolver o réu. Subsidiariamente, a desclassificação para o artigo 28 da Lei 11343/20 06. Autoria e materialidade bem comprovadas. Tráfico de drogas evidenciado pela apreensão de drogas e mensagens de celulares que comprovam a venda a terceiros. Em interrogatório judicial, apelante admite que auferia valores com a intermediação ou venda de drogas. Condenação de rigor. Penas de reclusão e de multa fixadas no patamar mais baixo. Regime estabelecido é o mais brando. Não há o que se reformar. RECURSO NÃO PROVIDO."
+Neste writ, os impetrantes alegam que a instância ordinária não substituiu a pena privativa de liberdade por restritiva de direitos, mesmo reconhecendo o tráfico privilegiado (art. 33, §4º da Lei 11.343/2006) e ausentes vetores negativos na primeira fase da dosimetria da pena (art. 59 do CP), inobservando a Súmula Vinculante n. 59 do Supremo Tribunal Federal e a jurisprudência consolidada desta Corte.
+Pretendem a concessão da ordem, em liminar e no exame de mérito, para revisar a dosimetria da pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Verifico que a ilegalidade suscitada na inicial sequer foi submetida à análise no acórdão ora contestado. A propósito, confiram-se fragmentos extraídos do voto condutor no julgamento da apelação:
+"Impossível a desclassificação para o crime previsto no artigo 28 da Lei 11343/2006, uma vez que ficou evidenciado, inclusive pelo seu interrogatório judicial, que L. F. D. S. N. auferia valores ao menos pela intermediação da venda de drogas. Ainda que parte da substância entorpecente fosse usada para consumo próprio, é inafastável a prova da mercancia a terceiros. Até porque as condições de usuário e traficante não são mutuamente excludentes.
+Na primeira fase da dosimetria da pena, em atenção ao disposto no art. 42 da Lei nº 11.343/06 e no art. 59 do Código Penal, a pena-base foi acertadamente fixada no mínimo legal de 05 anos de reclusão e 500 dias-multa em seu mínimo unitário à míngua de maus antecedentes,
+Na segunda fase, a pena manteve-se inalterada, eis que a circunstância atenuante da confissão não ensejaria a sua redução aquém do patamar mínimo, a teor da Súmula nº 231 do Superior Tribunal de Justiça.
+Na terceira etapa, por entender presentes os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/2006, o de 2/3 (dois terços), estabelecendo pena de 1 (um) ano e 8 (oito) meses de reclusão, e pagamento de 166 (cento e sessenta e seis) dias-multa, no mínimo legal, razão pela qual não há como se impor reforma.
+No mais, permanece inalterada a reprimenda. O regime fixado foi o mais brando, o aberto.
+Não havendo reclamo para a substituição da pena privativa de liberdade ou suspensão condicional da pena, mantenho a r. sentença como lançada." (fls. 22/23, sem destaque no original)
+Nesse cenário, não cabe ao STJ conhecer da impetração, sem exame do constrangimento alegado, sob pena de supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA PROVA DECORRENTE DA CO NDUTA PERPETRADA POR GUARDAS MUNICIPAIS. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM A DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. ALTERAÇÃO DA CONCLUSÃO DA INSTÂNCIA ORDINÁRIA QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME INICIAL FECHADO. POSSIBILDIADE. PENA SUPERIOR A 4 (QUATRO) E INFERIOR A 8 (OITO) ANOS DE RECLUSÃO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIA DO REQUISITO OBJETIVO. PENA SUPERIOR A 4 (QUATRO) ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. A tese de nulidade da prova decorrente da conduta perpetrada por guardas municipais não foi apreciada pelo Tribunal de origem, o que obsta a apreciação da questão por essa Corte Superior, sob pena de se incorrer em indevida supressão de instância. Precedentes.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no HC n. 830.175/SP, de minha relatoria, QUINTA TURMA, julgado em 2/10/2023, DJe de 4/10/2023.)
+Oportuno realçar que "para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado" (AgRg no HC n. 778.674/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 22/11/2022, DJe de 2/12/2022).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
