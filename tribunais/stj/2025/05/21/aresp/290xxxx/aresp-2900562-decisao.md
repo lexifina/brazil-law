@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SANTANA DE PARNAÍBA e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXECUCÃO FISCAL. IPTU. DECISÃO QUE RECONHECEU A HIGIDEZ DAS CDAS E REJEITOU PEDIDO DE EXTINÇÃO DO FEITO. CERTIDÕES DE DÍVIDA ATIVA QUE SILENCIAM QUANTO AO TERMO INICIAL DOS ENCARGOS MORATÓRIOS. AUSÊNCIA DESSA INFORMAÇÃO GERA PREJUÍZO À DEFESA DOS CONTRIBÚINTES. NULIDADE CONFIGURADA. AGRAVO PROVIDO PARA EXTINGUIR O PROCESSO E CONDENAR O MUNICÍPIO AO PAGAMENTO DE VERBAS SUCUMBENCIAIS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 202 do CTN e ao art. 2º, §§ 5º e 6º, da LEF, no que concerne à legalidade da CDA, visto que estão preenchidos os requisitos legais para sua validade, não afastando a presunção de certeza e liquidez do título diante da ausência de prejuízos para o executado promover a sua a defesa, sendo certo que os créditos estão especificados de forma clara, com a discriminação de cada uma das exações cobradas. Argumenta:
+Com efeito, ao declarar nula a CDA que embasou a execução fiscal, com fundamento, repita-se, no artigo 202 do CTN e artigo 2º, §§ 5º e 6º, da Lei nº 6.830/80, acabou violando tais dispositivos de lei federal, afastando, equivocadamente, a presunção de liquidez e certeza do título.
+Não há falar em nulidade da CDA, pois, no que dispõe os requisitos da certidão de dívida ativa, urge esclarecer que a falta destes não descaracteriza de pronto a sua presunção e exigibilidade, certeza e liquidez.
+ ..
+Assim, não merecem serem tratadas como causas de nulidade as meras irregularidades constantes no título, que não prejudicam o executado e não afastam, portanto, a presunção de liquidez e certeza do título. O julgamento contrário, pois, com o reconhecimento de ofício da nulidade, configura a violação aos dispositivos federais já mencionados.
+Aliás, as Certidões de Dívida Ativa não são nulas, visto que observam todos os requisitos do artigo 2º, §5º da Lei 6.830/80, c/c artigos 201 e 202 do Código Tributário Nacional, conforme se vislumbra da simples análises das cártulas dispostas às fls. 02/05 da execução fiscal, tanto que a irresignação do recorrido não passa do plano abstrato, de meras conjecturas acadêmicas.
+ ..
+No tocante a cobrança dos créditos, esse diversamente do entendimento lançado no v. acórdão, são sim, especificados de forma clara, posto ser patente que houve a discriminação de cada uma das exações cobradas, nos termos determinados pela Lei de Regência, art. 202, do CTN (fls. 53-58).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+As certidões de fls. 2/6 (na origem) não preenchem parte desses requisitos, pois falta nelas o termo inicial para cálculo dos encargos da mora.
+ ..
+Há claro prejuízo para os executados/contribuintes: ausência dos elementos essenciais das CDA"s subtrai de ambos a possibilidade de cotejar o montante cobrado e a legislação respectiva (f ls. 47-48).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
