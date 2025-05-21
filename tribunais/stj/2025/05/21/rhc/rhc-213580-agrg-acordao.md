@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, OCULTAÇÃO DE BENS E VALORES, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, pois há indícios de que o recorrente seja integrante de organização criminosa, tendo sido apontado como operador financeiro responsável por arrecadar dinheiro proveniente dos pontos de venda, com o objetivo de gerar receitas para a organização, uma vez que, em sua conta, foram registrados valores incompatíveis com a renda declarada, alcançando aproximadamente R$1.210.240,00 (um milhão, duzentos e dez mil e duzentos e quarenta reais), o que reforça sua atuação na ocultação de recursos ligados ao grupo criminoso.
+3. Havendo a indicação de fundamentos efetivos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CAIO HENRIQUE FREITAS DE PAULA ALVARENGA contra a decisão de fls. 1.016-1.019, que negou provimento ao recurso em habeas corpus.
+Nas razões deste recurso, a defesa alega a ausência de fundamentação apta a justificar a imposição da segregação cautelar, a qual se baseou em suposta integração do agravante em facção criminosa.
+Ressalta que o agravante é primário, possui bons antecedentes e que o delito não envolveu violência ou grave ameaça, o que torna a prisão cautelar desproporcional.
+Requer, ao final, o acolhimento do agravo para que seja revogada a prisão preventiva do agravante, ainda que com a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, OCULTAÇÃO DE BENS E VALORES, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, pois há indícios de que o recorrente seja integrante de organização criminosa, tendo sido apontado como operador financeiro responsável por arrecadar dinheiro proveniente dos pontos de venda, com o objetivo de gerar receitas para a organização, uma vez que, em sua conta, foram registrados valores incompatíveis com a renda declarada, alcançando aproximadamente R$1.210.240,00 (um milhão, duzentos e dez mil e duzentos e quarenta reais), o que reforça sua atuação na ocultação de recursos ligados ao grupo criminoso.
+3. Havendo a indicação de fundamentos efetivos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, no procedimento de habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+A prisão preventiva do recorrente foi decretada nos seguintes termos (fls. 382-387 - grifo próprio):
+O caso dos autos trata de uma operação que visa combater organização criminosa altamente estruturada, com atuação interestadual no comércio ilícito de armas de fogo, tráfico de drogas e lavagem de dinheiro, denominada "Operação Maré".
+As investigações, iniciadas em junho de 2022, incluíram técnicas como a quebra de sigilo telefônico e telemático dos investigados, operações de campo, e cruzamento de dados com sistemas policiais, em consonância com decisão judicial no Processo Cautelar nº 512360517.2022.8.13.0024.
+ ..
+CAIO HENRIQUE FREITAS DE PAULA ALVARENGA é identificado como, supostamente, operador financeiro, responsável por recolher valores dos pontos de venda no aglomerado Cabana do Pai Tomás, gerando receitas para o grupo liderado por PARAÍBA. Em seu nome, foram movimentados valores incompatíveis com sua renda declarada, totalizando cerca de R$1.210.240,00, o que evidencia seu papel na ocultação de capitais do grupo criminoso.
+ ..
+Como se vê, a presente representação foi instruída com elementos suficientes a indicar que os investigados integrariam, em tese, ORCRIM estruturada, com divisão de tarefas e hierarquia entre os membros, altamente especializada, dedicada à prática do crime de tráfico de drogas e lavagem de bens e valores, com atuação interestadual.
+Conforme demonstrado, o aludido grupo movimentaria vultosas somas monetárias, mantendo suas práticas criminosas mesmo após a prisão de alguns de seus membros, indicando que, caso permaneçam em liberdade, continuarão a delinquir.
+Neste sentido, cumpre destacar a inaplicabilidade das medidas cautelares previstas no art. 319 do CPP, pois nenhum surtiriam no presente caso, diante das circunstâncias delitivas, das condições pessoais dos investigados e da gravidade das condutas imputadas.
+Assim, percebe-se que restou demonstrado o fumus comissi delicti e o periculum libertatis, revelando-se necessário o decreto cautelar para evitar a continuidade das atividades da organização criminosa e, consequentemente assegurar a garantia da ordem pública.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, tendo em vista que há (fl. 387):
+Elementos suficientes a indicar que os investigados integrariam, em tese, ORCRIM estruturada, com divisão de tarefas e hierarquia entre os membros, altamente especializada, dedicada à prática do crime de tráfico de drogas e lavagem de bens e valores, com atuação interestadual.
+Segundo o disposto pelo Juízo de primeiro grau, há elementos concretos de que o recorrente seja integrante de organização criminosa, apontado como operador financeiro responsável por arrecadar dinheiro proveniente dos pontos de venda, com o objetivo de gerar receitas para a organização, uma vez que, em sua conta, foram registrados valores incompatíveis com a renda declarada, alcançando aproximadamente R$ 1.210.240,00 (um milhão, duzentos e dez mil e duzentos e quarenta reais), o que reforça sua atuação na ocultação de recursos ligados ao grupo criminoso.
+Nesse contexto:
+ ..  conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe de 20/2/2009)".
+(AgRg no HC n. 910.098/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Em idêntica direção, confira-se:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "FIM DO MUNDO". ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE NULIDADE E DESENTRANHAMENTO DE PROVAS ILÍCITAS. ACESSO AO CONTEÚDO DO CELULAR APREENDIDO PELA AUTORIDADE POLICIAL OCORRIDO SEM AUTORIZAÇÃO JUDICIAL. QUEBRA DE SIGILO DE DADOS E TELEMÁTICOS. NÃO OCORRÊNCIA. AUTORIZAÇÃO DO CORRÉU. EXERCÍCIO DE AUTODEFESA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DECISÃO MANTIDA.
+ ..
+2. Com efeito: "A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque." (AgRg no HC n. 640.313/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 5/3/2021.)
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 183.658/RJ, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Por fim, havendo a indicação de fundamentos efetivos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
