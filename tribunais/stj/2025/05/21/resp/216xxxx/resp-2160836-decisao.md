@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto por LUIS FERNANDO DOS SANTOS MELLO contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos de ação de indenização por danos morais.
+Nas razões recursais, o recorrente sustenta violação ao art. 85, § 8º-A, do CPC, alegando que o Juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+No mérito, o Tribunal de origem manteve a fixação dos honorários advocatícios fixados em R$ 1.500,00 (mil e quinhentos reais), com fundamento no art. 85, § 2º, IV, do CPC, asseverando o seguinte:
+Por oportuno, registro que não desconheço o disposto no art. 85, § 8º-A do CPC. Referida norma, inserida no Código de Processo Civil pela Lei Federal nº 14.365/2022 e dispôs os honorários advocatícios fixados pelo critério de apreciação equitativa deveriam observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil ou o limite mínimo de 10% do valor da causa, o que for maior:
+ ..
+Embora a norma determine a aplicação da tabela de honorários estabelecida pela OAB, o Poder Judiciário não pode ficar vinculado aos valores estabelecidos pela respectiva seccional da OAB, especialmente em casos tais, em que a aplicação da tabela de honorários elaborada pela OAB implicaria em condenação em verba honorária sucumbencial absolutamente desproporcional ao direito atingido na causa, que foi a inexigibilidade de débito no valor de R$ 243,09.
+Vale lembrar que a tabela de honorários elaborada pela OAB serve como referencial para regular os valores cobrados pelos advogados na relação privada entre o procurador e seu cliente, não podendo vincular o Poder Judiciário na fixação de honorários de sucumbência. A este respeito, cito recentes julgados do Tribunal de Justiça, rechaçando a aplicação indiscriminada do art. 85, § 8º-A, do CPC em situações como a dos autos:
+Assim, o entendimento do acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte, no sentido de que "o arbitramento dos honorários sucumbenciais, de acordo com a ordem de preferência estabelecida no § 2º do art. 85 do Código de Processo Civil, deve seguir os seguintes critérios objetivos: 1º) nas causas em que houver condenação, esse é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% e 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa" (AgInt no AREsp 2.237.789/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 29/5/2024).
+Registre-se, ainda, que "a Tabela organizada pelo Conselho Seccional da OAB possui natureza orientadora e não vinculativa, uma vez que o magistrado deverá fixar a verba honorária consoante os critérios de apuração da complexidade do trabalho desenvolvido pelo profissional e do valor econômico da questão" (AgRg no AREsp 677.388/PB, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/11/2015).
+Assim, aplica-se o entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
