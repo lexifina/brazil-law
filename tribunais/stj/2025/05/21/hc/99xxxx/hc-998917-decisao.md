@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de MÁRCIO ALEXANDRE VIEIRA DOS SANTOS, JOÃO PEDRO DOS SANTOS BARROS e DIEGO DE JESUS PEIXOTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal nº 0802320-91.2022.8.19.0073).
+Consta dos autos que os pacientes foram condenados como incursos no art. 157, § 2º, II e § 2º-A, I, do Código Penal às penas de 07 (sete) anos, 04 (quatro) meses e 26 (vinte e seis) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 16 (dezesseis) dias-multa, à razão unitária mínima (Marcio Alexandre Vieira dos Santos e João Pedro dos Santos Barros) e 10 (dez) anos, 04 (quatro) meses e 13 (treze) dias de reclusão em regime inicial fechado, e ao pagamento de 25 (vinte e cinco) dias-multa, à razão unitária mínima (Diego de Jesus Peixoto).
+O Tribunal local negou provimento ao apelo defensivo (fls. 06-23).
+Neste writ, a impetrante alega constrangimento ilegal em razão da aplicação cumulativa das causas de aumento de pena previstas no art. 157, § 2º, II e § 2º-A, I, do Código Penal.
+Afirma que a jurisprudência admite a aplicação de apenas uma causa de aumento, prevalecendo a que mais aumente a pena, conforme o art. 68, parágrafo único, do Código Penal.
+Requer a concessão da ordem de habeas corpus, para aplicar o art. 68, parágrafo único, do Código Penal, impondo-se um só aumento, na fração de 2/3, pela causa de aumento do emprego de arma de fogo.
+Informações prestadas às fls. 147-151 e 152-155.
+Parecer do MPF às fls. 177-183, opinando pelo não conhecimento da impetração e, se conhecida, pela denegação da ordem.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, considerando a necessidade de racionalização do emprego do remédio heroico que reiteradamente é impetrado de maneira desvirtuada, alheia aos preceitos constitucionais e legais, entende ser incabível a impetração de habeas corpus substitutivo de recurso próprio ou de revisão criminal, sob pena subversão do sistema recursal e indevida supressão de instância.
+Nesse  sentido:
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  "HABEAS  CORPUS".  ORGANIZAÇÃO  CRIMINOSA.  DOSIMETRIA.  INEXISTÊNCIA  DE  ILICITUDE  FLAGRANTE.  RECURSO  NÃO  PROVIDO.
+1.  A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+ ..  (AgRg  no  HC  n.  921.445/MS,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  3/9/2024,  DJe  de  6/9/2024.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  WRIT  SUBSTITUTIVO  DE  RECURSO  ESPECIAL,  IMPETRADO  QUANDO  O  PRAZO  PARA  A  INTERPOSIÇÃO  DA  VIA  RECURSAL  CABÍVEL  NA  CAUSA  PRINCIPAL  AINDA  NÃO  HAVIA  FLUÍDO.  INADEQUAÇÃO  DO  PRESENTE  REMÉDIO.  PRECEDENTES.  NÃO  CABIMENTO  DE  CONCESSÃO  DA  ORDEM  DE  OFÍCIO.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  É  incognoscível,  ordinariamente,  o  habeas  corpus  impetrado  quando  em  curso  o  prazo  para  interposição  do  recurso  cabível.  O  recurso  especial  defensivo,  interposto,  na  origem,  após  a  prolação  da  decisão  agravada,  apenas  reforça  o  óbice  à  cognição  do  pedido  veiculado  neste  feito  autônomo.
+ .. (AgRg  no  HC  n.  834.221/DF,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  18/9/2023,  DJe  de  25/9/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ ..
+(AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021), situação não verificada na espécie.
+Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que Havendo mais de uma majorante do delito de roubo, é possível que uma delas seja utilizada como tal e que as demais sejam consideradas como circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria (caso conste no rol do art. 61, II, do CP), seja para elevar a pena-base na primeira fase do cálculo. (AgRg no AREsp n. 1.178.691/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/5/2018, DJe de 9/5/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
