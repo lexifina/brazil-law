@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, o que não ocorreu na presente hipótese (Súmulas n. 282 e 356/STF). Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMPLA ENERGIA E SERVIÇOS S.A. contra decisão monocrática desta relatoria assim ementada (e-STJ, fls. 249-252):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 256-272), a insurgente defende, em resumo, que houve o prequestionamento, ainda que implícito, de todas as matérias apresentadas no seu recurso especial, uma vez que estes temas foram oportunamente suscitados no recurso dirigido ao Tribunal de Justiça do Estado do Rio de Janeiro.
+Sustenta, ainda, a não incidência da Súmula 283/STF ao caso, sob o argumento de que houve a efetiva impugnação aos fundamentos do acórdão recorrido.
+Busca, assim, a reconsideração da decisão agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, o que não ocorreu na presente hipótese (Súmulas n. 282 e 356/STF). Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme registrado na decisão ora atacada, AMPLA ENERGIA E SERVIÇOS S.A. interpôs agravo de instrumento, no âmbito de ação de indenização em fase de cumprimento de sentença, pretendendo a redução do valor fixado a título de multa por descumprimento de decisão judicial.
+Analisando o referido agravo de instrumento, o desembargador relator, em decisão monocrática, não conheceu do recurso por considerá-lo inadmissível, nos termos do art. 932, III, do CPC (e-STJ, fls. 22-25).
+Interposto agravo interno pela insurgente, o Tribunal de Justiça do Estado do Rio de Janeiro não conheceu do recurso, conforme as seguintes justificativas (e-STJ, fls. 138-142 - sem grifo no original):
+Trata-se de recurso de agravo interno interposto, com supedâneo nas disposições do artigo 1.021 do Código de Processo Civil, contra a decisão monocrática proferida às fls.23/26.
+Na decisão unipessoal vergastada, o recurso de agravo de instrumento interposto pelo agravante não foi conhecido. A inadmissão do recurso se deu pelo fato do recorrente ter se insurgido contra despacho proferido pelo juízo de origem, nos seguintes termos:
+(..)
+Acerca da presente espécie recursal, impende consignar que, quando o relator exerce qualquer de suas atribuições conferidas pelo art. 932 do Código de Processo Civil, de forma monocrática, sua decisão pode ser impugnada perante o colegiado ao qual pertence, por meio do recurso em comento.
+Sabe-se que o agravo interno tem sua admissibilidade condicionada à impugnação específica dos fundamentos da decisão objurgada, conforme previsão do § 1º do art. 1.021 do CPC in verbis:
+"Art. 1.021. § 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Assim, não basta ao recorrente manifestar objetiva insurgência contra o ato judicial, antes disso, exige-se que sejam indicados os motivos que em substância fundamentam a irresignação, com pertinente e suficiente indicação no que consistiria o erro de julgamento e as razões conducentes à reforma pretendida.
+O agravante, por sua vez, em nenhum momento, nas suas razões de agravo, enfrentou os fundamentos da decisão monocrática hostilizada, limitando- se a reproduzir as mesmas teses anteriormente apresentadas. Dessarte, na linha do entendimento consolidado no E. STJ, o recurso não comporta conhecimento.
+(..)
+Portanto, não há, como se observa, qualquer correlação entre a matéria deduzida nas razões do agravo interno com aquela objeto da decisão recorrida, exsurgindo daí a completa ausência de impugnação específica da decisão hostilizada. Não se desincumbindo a parte recorrente do seu dever de impugnação específica.
+Dessarte, os argumentos embasadores do inconformismo do agravante não acrescentaram nada de relevante ao feito, de forma que são incapazes de ensejar a modificação da decisão monocrática atacada.
+Logo, não há razões para alterar o posicionamento adotado ao tempo do julgamento monocrático do recurso de Agravo de Instrumento, tendo em vista que a decisão recorrida somente seria passível de reforma caso a parte recorrente demonstrasse erro material ou trouxesse fatos novos e robustos capazes de modificá-la, o que não ocorreu. Como sabido, o mero descontentamento com o julgado não autoriza a retratação.
+Acentua-se que é irrelevante a referência expressa aos dispositivos legais e constitucionais tidos por violados, pois o exame da controvérsia, à luz dos temas invocados, é suficiente para caracterizar o prequestionamento da matéria.
+Diante disso, com a máxima vênia, entendo que a decisão monocrática deve ser mantida.
+Em face do exposto, DEIXO DE RECONSIDERAR A DECISÃO OBJURGADA e submeto a insurgência recursal ao crivo do órgão colegiado desta Câmara, nos termos do artigo 1.021, § 2º, do Código de Processo Civil, pronunciando-me desde já pelo NÃO CONHECIMENTO DO RECURSO DE AGRAVO INTERNO.
+Por conseguinte, tal como enfatizado anteriormente, a despeito das alegações recursais da parte insurgente, constata-se que nenhuma das questões suscitadas no recurso especial, concernentes à suposta exorbitância do valor da multa fixada por descumprimento de decisão judicial, bem como o conteúdo normativo dos dispositivos que amparam as respectivas teses, foram objeto de debate pelo acórdão recorrido, sob o enfoque pretendido pela ora recorrente, porque o Tribunal estadual nem sequer conheceu do agravo interno por ela manejado.
+Dessa forma, ausente o debate no acórdão recorrido acerca das questões ventiladas, tampouco a oposição de embargos de declaração a fim de suscitar a discussão na origem, é inviável a apreciação das matérias devido à falta do indispensável prequestionamento, incidindo as Súmulas 282 e 356 do Supremo Tribunal Federal no ponto.
+Para que se configure o prequestionamento, exigido inclusive para as matérias de ordem pública, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não se deu na presente hipótese.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento no sentido de que o prequestionamento implícito ocorre quando houver o efetivo debate da matéria, embora não haja expressa menção aos dispositivos violados, situação não verificada nestes autos.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. TEMA N. 69 DA REPERCUSSÃO GERAL. INSURGÊNCIA CONTRA A APLICAÇÃO DA MODULAÇÃO DOS EFEITOS. ALEGADA AFRONTA AO ART. 535, §§ 6.º, 7.º E 8.º, DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE. ART. 1.032 DO CPC. INAPLICABILIDADE. RECURSO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tele relativa ao art. 535, § 6.º, § 7.º e § 8.º, do Código de Processo Civil, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ. O recurso especial não trouxe a alegação de violação ao art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem.
+2. O alegado prequestionamento implícito, aventado nas razões de agravo interno, não socorre a Parte Recorrente, pois não se cuida da mera ausência de citação do dispositivo de lei federal no acórdão recorrido, mas sim de falta de manifestação sobre a própria tese recursal, incluída, evidentemente, mas não a ela se limitando, a própria valoração sobre o artigo de lei apontado no recurso especial.
+3. Inviável o recurso especial que pretende a reforma de acórdão assentado em fundamento constitucional, sob pena de usurpação da competência do Pretório Excelso.
+4. Nos termos da pacífica jurisprudência desta Corte, " a pesar de o art. 1.032 do Código de Processo Civil de 2015 prever a aplicação do princípio da fungibilidade ao apelo nobre que versar sobre questão constitucional, tal aplicação está condicionada à hipótese em que há um equívoco quanto à escolha do recurso cabível, sendo certo que, no caso dos autos, além da inexistência de recurso em separado no tocante ao capítulo decisório de fundamento constitucional, sequer foi apontada contrariedade a preceitos constitucionais, de modo que não há falar em aplicação do princípio antes referido" (AgInt no REsp n. 1.651.768/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/5/2019, DJe de 24/5/2019).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.037.732/AL, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Além disso, o confronto entre o acórdão impugnado e as razões do recurso especial revela que os fundamentos utilizados pelo Tribunal estadual (inadmissibilidade do recurso de agravo interno por ausência de impugnação específica da decisão agravada) não foram rebatidos pela parte insurgente. Desse modo, tendo em vista que tais fundamentos são suficientes para manutenção da conclusão do julgado, incide o óbice da Súmula 283/STF quanto ao referido ponto.
+Em face disso, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
