@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. REVOGAÇÃO DO BENEFÍCIO. MODIFICAÇÃO DA SITUAÇÃO FINANCEIRA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  Quanto à apontada violação aos arts. 489 e 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+2.  Ademais, a agravante aduz que o acórdão recorrido, ao manter o benefício da gratuidade de justiça unicamente com base no balanço patrimonial da sociedade empresária nos anos 2021 e 2022, incorre em violação aos arts. 98, §§2º e 3º, do CPC/2015.
+Contudo, verifica-se que o Tribunal de origem, ao concluir pela insuficiência na demonstração de alteração da situação econômico-financeira da parte agravada que pudesse implicar na mudança de sua hipossuficiência, levou em consideração a documentação acostada nos autos.
+Em vista disso, denota-se que a eventual modificação da conclusão do Tribunal a quo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+3.Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo FAZENDA DO ESTADO DE SÃO PAULO contra  a  decisão  que  conheceu do agravo, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, em razão da inexistência de violação aos arts. 489, §1º, IV e VI, e 1.022  do  CPC e da aplicação da Súmula 7 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que a despeito de o Ministro Relator ter negado provimento ao apelo especial, confirma-se a omissão do acórdão recorrido quanto ao documento acerca do faturamento informado pela empresa no sistema de dívida ativa.
+Defende, ainda, que o escopo principal do recurso não é analisar as provas que mostram a capacidade financeira da empresa, mas sim instar o Tribunal da Justiça a examiná-las por completo.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. REVOGAÇÃO DO BENEFÍCIO. MODIFICAÇÃO DA SITUAÇÃO FINANCEIRA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  Quanto à apontada violação aos arts. 489 e 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+2.  Ademais, a agravante aduz que o acórdão recorrido, ao manter o benefício da gratuidade de justiça unicamente com base no balanço patrimonial da sociedade empresária nos anos 2021 e 2022, incorre em violação aos arts. 98, §§2º e 3º, do CPC/2015.
+Contudo, verifica-se que o Tribunal de origem, ao concluir pela insuficiência na demonstração de alteração da situação econômico-financeira da parte agravada que pudesse implicar na mudança de sua hipossuficiência, levou em consideração a documentação acostada nos autos.
+Em vista disso, denota-se que a eventual modificação da conclusão do Tribunal a quo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+3.Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+I - Da negativa de prestação jurisdicional
+De início, quanto à apontada violação aos arts. 489 e 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+No presente caso, como já destacado na decisão monocrática ora recorrida, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando expressamente que os documentos apresentados são insuficientes para ensejar a revogação da concessão de gratuidade de justiça (fls. 27-31):
+ ..  O pedido de revogação da justiça gratuita não pode ser acolhido, pois não há efetiva comprovação da alteração da condição de hipossuficiência que, à época, motivou a concessão do benefício.
+O fato de a agravada continuar em atividade e atuando com grande frota de veículos, situação capturada por imagens do sítio comercial da empresa, não demonstra efetivamente alteração de sua situação financeira, especialmente porque os balanços patrimoniais demonstram prejuízo acumulado e patrimônio líquido negativo (fl. 265 dos autos principais).
+Dessa forma, não estando devidamente demonstrada a alteração da situação econômica da agravada, que implique mudança de sua hipossuficiência, não há como deferir o pedido de revogação do benefício, conforme pleiteado pelo agravante.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Assim, inexiste violação aos arts. 489 e 1.022 do CPC.
+II - Da incidência da Súmula 7 do STJ
+Ademais, a agravante aduz que o acórdão recorrido, ao manter o benefício da gratuidade de justiça unicamente com base no balanço patrimonial da sociedade empresária nos anos 2021 e 2022, incorre em violação aos arts. 98, §§2º e 3º, do CPC/15.
+Contudo, do que se observa no trecho acima destacado, verifica-se que o Tribunal de origem, ao concluir pela insuficiência na demonstração de alteração da situação econômico-financeira da parte agravada que pudesse implicar na mudança de sua hipossuficiência, levou em consideração a documentação acostada nos autos.
+Em vista disso, denota-se que a eventual modificação da conclusão do Tribunal a quo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. DEVEDORA BENEFICIÁRIA DA JUSTIÇA GRATUITA. ALTERAÇÃO DA SITUAÇÃO ECONÔMICA. REVISÃO. SÚMULA 7 DO STJ.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada, no que diz respeito à sua condenação ao pagamento de honorários advocatícios, em razão da extinção do cumprimento de sentença.
+3. A jurisprudência desta Corte é no sentido de que a execução das verbas de sucumbência não pressupõe prévia revogação do benefício concedido, sendo possível o pedido de cumprimento de sentença pelo credor de honorários sucumbenciais, desde que este comprove a modificação da situação financeira do beneficiário da gratuidade de justiça, nos termos do art. 98, § 3º, c/c o art. 514 do CPC/2015 (REsp 1.733.505/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/9/2019, DJe de 20/9/2019).
+4. No caso, as instâncias ordinárias concluíram que não houve modificação da situação financeira da executada, beneficiária da assistência judiciária gratuita no feito principal, a ensejar a cobrança de honorários advocatícios, sendo certo que a revisão do julgado demandaria incursão na seara fático-probatória do caso concreto, providência vedada pela Súmula 7 do STJ.
+5. Agravo interno conhecido parcialmente e, nessa extensão, desprovido (AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/9/2024, DJe de 6/9/2024 - grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. JUSTIÇA GRATUITA. CONCESSÃO. PESSOA JURÍDICA. POSSIBILIDADE. ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DO CONTEXTO PROBATÓRIO DOS AUTOS. APLICAÇÃO DA SÚMULA 7 DO STJ. ARTS. 10 E 436 DO CPC/2015. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..  2. É pacífica a jurisprudência desta Corte Superior no sentido de que é possível a concessão dos benefícios da justiça gratuita à pessoa jurídica, desde que seja comprovada a precariedade de sua situação financeira, já que é relativa a presunção de miserabilidade.
+3. Hipótese em que a Corte de origem, ao analisar os fatos e as provas dos autos, consignou: a documentação trazida pela empresa agravada, portanto, ampara a pretensão da mesma à obtenção dos benefícios da gratuidade (fl. 536).
+4. A alteração dessa conclusão demandaria, necessariamente, o reexame do acervo fático-probatório constante dos autos, providência inviável na via do recurso especial, ante o óbice da Súmula 7 do STJ.
+ ..
+7. A gravo interno parcialmente provido (AgInt no AREsp n. 1.815.896/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 27/6/2022, DJe de 30/6/2022 - grifo nosso).
+Isso posto, nego provimento ao recurso.
