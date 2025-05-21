@@ -1,0 +1,45 @@
+DECISÃO
+WALDENE CASTILHO DE MOURA agrava da decisão que inadmitiu seu recurso especial com base no art. 105, III, "a", da CF, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás no Recurso em Sentido Estrito n. 0090760-10.2018.8.09.0140.
+Nas razões do recurso especial, a defesa apontou violação do art. 121, § 2º, II e IV, do Código Penal, ao argumento de que "não ficou demonstrado nem indícios de materialidade do crime narrado, não existindo provas mínimas capaz de demonstrar que o réu passou perto de atirar na suposta vítima" (fl. 348).
+Subsidiariamente, requer a exclusão das qualificadoras do motivo fútil e uso de recurso que dificultou a defesa da vítima.
+Apresentadas as contrarrazões (fls. 365-377), a Corte de origem inadmitiu o recurso em razão da incidência da Súmula n. 7 do STJ (fls. 382-383), o que ensejou a interposição do presente agravo.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer o recurso especial (fls. 424-426).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O recurso especial, todavia, merece apenas parcial conhecimento.
+No que se refere à alegação de inexistência de provas suficientes para a pronúncia do acusado, incide a Súmula n. 284 do STF, porque as razões de pedir estão dissociadas dos dispositivos apontados como violados, que dizem respeito apenas ao tipo penal que haveria sido praticado pelo agravante, mas não tratam das normas processuais que eventualmente poderiam dar suporte à alegação da defesa de que não foram preenchidos os requisitos suficientes para autorizar a pronúncia do agravante pelo delito indicado.
+É dizer, os dispositivos legais apontados como violados não têm força normativa suficiente para desconstituir o fundamento central do acórdão relativo à existência de provas da autoria delitiva, porque a pretensão recursal não diz respeito à mera interpretação do sentido normativo dos tipos penais, mas sim à insuficiência das provas de autoria existentes nos autos.
+Em sentido análogo:
+ ..  A impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, bem como argumentos dissociados dos fundamentos do acórdão atacado, revelam a deficiência das razões do recurso especial, fazendo incidir a Súmula nº 284 do STF.  ..
+(AgInt no AREsp n. 1.329.298/GO, Rel. Ministro Moura Ribeiro, 3ª T., DJe 13/12/2018)
+ ..  III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(AgInt no REsp n. 2.023.179/RJ, Rel. Ministra Regina Helena Costa, 1ª T., DJe 16/3/2023)
+ ..  É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+(AgInt no AREsp n. 2.103.614/RJ, Rel. Ministra Maria Isabel Gallotti, 4ª T., DJe 16/12/2022)
+II. Art. 121, § 2º, II e IV, do CP
+A pronúncia configura um mero juízo de admissibilidade da acusação, razão pela qual basta que o Juiz esteja convencido da materialidade do delito e da existência de indícios suficientes de autoria ou de participação para que o acusado seja pronunciado, consoante o disposto no art. 413 do Código de Processo Penal.
+A decisão que submete o acusado a julgamento perante o Conselho de Sentença deve ser fundamentada não apenas em relação à materialidade do fato e aos indícios suficientes de autoria ou de participação, mas também no que se refere às qualificadoras, haja vista o disposto no art. 93, IX, da Constituição Federal.
+Vale dizer, embora a decisão de pronúncia deva ser comedida na apreciação das provas, deve conter uma fundamentação mínima para o reconhecimento de qualificadoras, deixando o juízo de valor acerca da sua efetiva ocorrência para ser apreciado pelo Conselho de Sentença.
+Faço lembrar que a Constituição Federal conferiu ao Tribunal do Júri a competência para julgar crimes dolosos contra a vida e lhe assegurou a soberania dos veredictos. Assim, em respeito ao princípio do juiz natural, é entendimento dominante nesta Corte Superior de Justiça que "somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu" (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/6/2016, destaquei).
+Portanto, "ausente qualquer fundamentação idônea para o afastamento das qualificadoras e havendo pertinência entre as referidas qualificadoras e as provas dos autos, cabe ao Conselho de Sentença a tarefa de analisá-las" (REsp n. 1.095.226/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016).
+No caso, o réu foi denunciado pela prática do crime de homicídio qualificado. As qualificadoras previstas no art. 121, § 2º, II e IV, do CP foram assim narradas na denúncia: "quando vítima e Carla estavam conversando nas proximidades dos sanitários, o denunciado apareceu e, motivado por ciúmes, de inopino, efetuou diversos disparos de arma de fogo na direção do ofendido" (fl. 2, grifei).
+Na pronúncia, o Juízo de origem assim decidiu (fls. 262-263, grifei):
+ ..  Quanto às qualificadoras previstas no art. 121,§ 2º, incisos II e IV do Código Penal, entendo que existem elementos nos autos que conduzem à possibilidade de sua configuração.
+Consta nos autos que o acusado repentinamente atirou contra a vítima por motivos de ciúmes.
+É de se acolher neste caso, o entendimento majoritário dos Tribunais, no sentido de que a exclusão de qualificadora somente é possível quando manifestamente improcedente, o que não ocorre no presente caso.
+Neste sentido decidiu o Supremo Tribunal Federal, no Habeas Corpus nº 76.678, RTJ 175/207:
+".. na pronúncia o juiz não deve excluir as qualificadoras, salvo as manifestamente improcedentes, levando em conta que não é de rigor nem recomendável cuidar de circunstâncias agravantes ou atenuantes, que permanecerão no libelo crime acusatório a fim de serem submetidas ao soberano Tribunal do Júri."
+Dessa forma, mantenho as qualificadoras apresentadas na denúncia, para que sejam analisadas mais profundamente pelo Conselho de Sentença.
+A Corte de origem manteve a pronúncia, sob os seguintes fundamentos (fl. 335, grifei):
+ ..  Tanto a vítima quanto as testemunhas ouvidas durante a audiência da primeira fase do rito escalonado do Júri confirmaram que o ofendido estava em um pitdog quando o recorrente chegou, viu a vítima conversando com sua namorada, ex-companheira dele e desferiu os disparos com a arma de fogo.
+Assim, infere-se, ao menos neste momento, que a ação do acusado dificultou ou impossibilitou as chances de defesa do ofendido, bem como que o ato foi motivado por razão fútil (ciúmes), de modo que a situação que deverá ser apreciada pelo Tribunal do Júri, que decidirá soberanamente sobre elas.
+Segundo as instâncias ordinárias, a partir do depoimento da vítima e das testemunhas, é possível extrair a plausibilidade da versão acusatória de que o réu, ao visualizar o ofendido conversando com sua namorada, o surpreendeu com os disparos de arma de fogo, por motivo de ciúmes. A s qualificadoras não se mostram manifestamente improcedentes e descabidas , razão pela qual devem ser mantidas.
+Ressalto que o Superior Tribunal de Justiça tem o entendimento consolidado de que, "embora os ciúmes não caracterizem, por si só, a motivação fútil, tem-se que cabe ao Conselho de Sentença avaliar se o contexto trazido nos autos autoriza a qualificação dos ciúmes como motivo fútil" (HC n. 296.167/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/2/2017).
+Ilustrativamente, mutatis mutandis: "a qualificadora do motivo fútil foi indevidamente decotada da sentença de pronúncia, pois o Tribunal de origem não demonstrou sua manifesta improcedência. Para justificar a exclusão da majorante, foi realizado indevido juízo de valor, com interpretação que cabia exclusivamente ao Tribunal do Júri" (AgRg no REsp n. 1.743.740/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/9/2018).
+De igual maneira, não se revela manifestamente improcedente a incidência da qualificadora do uso de recurso que dificultou a defesa da vítima na decisão de pronúncia, de modo que caberá ao Tribunal do Júri examinar de maneira mais aprofundada as provas dos autos a fim de decidir sobre a incidência ou não da qualificadora.
+Saliento, por fim, que não há como desconstituir ou alterar as premissas fático-probatórias mencionadas pelas instâncias ordinárias, em virtude da Súmula n. 7 do STJ.
+III. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
