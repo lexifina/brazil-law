@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de SIRLENE IGNACIA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem em mandamus prévio, nos termos do acórdão assim ementado:
+"HABEAS CORPUS - EXECUÇÃO PENAL - NÃO CONHECIMENTO - REEXAME DO WRIT CONFORME DECISÃO DO STJ - EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO E PRISÃO DOMICILIAR- CONSTRANGIMENTO ILEGAL VERIFICADO. Não verificada a ocorrência de constrangimento ilegal, a denegação da ordem é medida que se impõe." (e-STJ, fl. 15).
+Neste writ, a impetrante alega constrangimento ilegal suportado pela paciente decorrente da sua iminente prisão.
+Sustenta: (i) a desnecessidade de prisão da condenada para expedição da guia de execução, por ser excessivamente gravosa; (ii) a possibilidade de recolhimento do mandado de prisão e expedição da guia de execução, a fim de que possa ser pleiteada a prisão domiciliar para a sentenciada, mãe de criança de 7 anos de idade.
+Requer, ao final, a concessão da ordem para que, "declarando-se a ilegalidade da coação, com a expedição de contramandado de prisão ou alvará de soltura, cassando a r. decisão alvejada, determinando ao d. Juiz da 1ª Vara Criminal da Comarca de Juiz de Fora/MG, processo original 0405085-90.2015.8.13.0145 a expedição da guia de execução definitiva remetendo-a ao Juízo da Execução Penal da Comarca de Sarzedo/MG onde reside a Paciente o que permitirá ao digno magistrado, no caso concreto, analisar pedido da Paciente quanto a eventual possibilidade de autorizar o cumprimento do regime fixado (fechado) na forma domiciliar, por razões humanitárias, e também por falta de vagas no sistema carcerário, como também pelo art. 318, V do CPP." (e-STJ, fl. 14).
+É o relatório.
+Decido.
+Pelo que se depreende da petição inicial, a impetrante pretende a concessão da ordem para o afastamento da prisão da paciente e a expedição da guia de execução penal, possibilitando, assim, que a sentenciada, em liberdade, requeira ao Juízo da Execução o cumprimento de sua pena definitiva em regime domiciliar, por ser mãe de criança menor de 12 anos.
+O Tribunal de origem não examinou a controvérsia, considerando que "a análise do pleito se encontra prejudicada. Isso porque, em consulta ao SEEU, verifica-se que foi concedido a paciente o benefício do indulto, com a consequente declaração de extinção da punibilidade. Portanto, torna-se inviável a análise da possibilidade de expedição do contramandado de prisão e da concessão da prisão domiciliar." (e-STJ, fl. 17).
+Dessa forma, a ilegalidade objeto desta ação constitucional é inviável de apreciação por esta Corte Superior, sob pena de supressão de instância:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO DOMICILIAR E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS. REQUISITOS DO ART. 312 DO CPP PREENCHIDOS. POSIÇÃO DE LIDERANÇA. INTERRUPÇÃO DE ATIVIDADE DE ORGANIZAÇÃO CRIMINOSA. CONTEMPORANEIDADE DA MEDIDA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas atinentes à prisão domiciliar, por ser pai de criança menor de 12 anos de idade, e ao excesso de prazo não foram, especificamente, analisados pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do Superior Tribunal de Justiça. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+ ..
+8. Agravo regimental não provido." (AgRg no RHC n. 206.657/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO. REVOGAÇÃO DE LIVRAMENTO CONDICIONAL. AUSÊNCIA DE INTIMAÇÃO. IMPOSIÇÃO DE SIGILO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO. INEXISTÊNCIA DE NULIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não analisou as teses relativas à ausência de intimação da decisão que decretou a prisão e à imposição de sigilo pela autoridade impetrada. Dessarte, não havendo o pleito sido alvo de efetivo debate na origem, fica impedido o Superior Tribunal de Justiça de examiná-lo, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 203.422/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Petição recebida como agravo regimental, em homenagem ao princípio da fungibilidade, tendo em vista ausência de previsão legal de pedido de reconsideração. Precedentes.
+2. A matéria referente à possibilidade de concessão de prisão domiciliar a paciente não foi não foi objeto de debate pelo Tribunal a quo. Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+3 . Agravo regimental não provido." (RCD no HC n. 933.245/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROGRESSÃO DE REGIME. DATA-BASE. PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. ACÓRDÃO IMPUGNADO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. ALEGAÇÃO DE QUE A DECISÃO QUE DETERMINOU A REALIZAÇO DE EXAME CRIMINOLÓGICO ESTARIA EMBASADA EM FALTA GRAVE POSTERIOMENTE ABSOLVIDA. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESPROVIMENTO DO AGRAVO.
+ ..
+2. A alegação de que o agravante foi posteriormente absolvido da prática de falta grave que embasou a determinação de realização de exame criminológico não foi enfrentada pelo Tribunal de origem, circunstância que impede a manifestação desta Corte sobre o tema, sob pena de supressão de instância.
+3. Agravo regimental desprovido." (AgRg no HC n. 753.687/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
