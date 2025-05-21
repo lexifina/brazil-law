@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por JUSCELIO JANUÁRIO DOS SANTOS, com base no permissivo constitucional, e que desafia acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO assim ementado (e-STJ fl. 605):
+APELAÇÃO  BENEFÍCIO PREVIDENCIÁRIO  NÃO COMPROVAÇÃO DA QUALIDADE DE SEGURADO  CONCESSÃO DE APOSENTADORIA POR INVALIDEZ  INADMISSIBILIDADE.
+Ausente a comprovação da qualidade de segurado, é inadmissível a concessão do benefício previdenciário de aposentadoria por invalidez previsto no artigo 42 da Lei nº 8.213, de 24 de julho de 1991.
+Recurso não provido.
+Os embargos de declaração opostos foram acolhidos, em parte, sem efeitos infringentes (e-STJ fls. 650/662).
+Em suas razões, a parte recorrente aponta violação do art. 489, § 1º, inciso IV, do CPC, sustentando que o Tribunal de origem carece de fundamentação por não se manifestar sobre ponto essencial ao deslinde da controvérsia, qual seja, o fato de que "a cessação do benefício ocorreu em 16/10/2007, conforme mencionado no v. acórdão, contudo o recorrente não teve outro emprego, pois ainda tinha o vínculo de emprego em vigor, tanto que com a alta do INSS, o recorrente retornou ao mesmo labor e continuou no vínculo de emprego até a data de 19/05/2008, conforme também reconhecido no v. acórdão" (e-STJ fl. 699).
+Argumenta: "o fim do contrato de emprego em 19/5/2008, com dispensa do emprego, implica na incidência do art. 15, inciso II, § 2º da Lei 8.213/91, por conseguinte a contar de 19/5/2008, o embargante teria direito a 12 meses  12 meses, totalizando 24 meses de período de graça, de sorte que o período de graça seria prorrogado até 19/5/2010" (e-STJ fl. 702).
+Contrarrazões não apresentadas.
+Decisão de inadmissibilidade à e-STJ fls. 712/717.
+Passo a decidir.
+O art. 489, § 1º, do CPC trata dos casos em que a decisão judicial carece de fundamentação. Veja-se :
+Art. 489.  ..
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento. (Grifos acrescidos)
+No presente caso, verifica-se que o Tribunal a quo foi provocado, tanto em sede de apelação quanto nas razões dos embargos de declaração, a se manifestar a respeito dos seguintes tópicos (e-STJ fl. 344):
+ ..
+O Embargante teve o vinculo de emprego até a data 19/5/2008 segunda a sua CTPS(Num. 109122979 - Pág. 5) para o ultimo empregador, conforme juntamos nesta oportunidade cópia de r. sentença trabalhista do TRT da 23ª região, porém segundo informação prestada pelo CNIS e citada no v. acórdão, o embargante foi segurado de 16/5/1990 até 19/9/2008. O embargante foi dispensado na data de 19/5/2008 e percebeu seguro desemprego.
+A OMISSÃO OU CONTRADIÇÃO OU DECISÃO BASEADA EM PREMISSA EQUIVOCADA ENCONTRA-SE NO TRECHO SOBRE A DATA DO AJUIZAMENTO DA DEMANDA E FIM DO PERÍODO DE GRAÇA PREVISTO NO ART. 15 DA LEI 8.213/91:
+Portanto, após a cessação do último benefício previdenciário concedido, a qualidade de segurado se manteve por mais doze (12) meses, ou seja, até 16 de outubro de 2008. Ainda, pela ausência de novo registro de vínculo empregatício, por óbvio, o apelante manteve a situação de desemprego, razão pela qual a qualidade de segurado se estendeu por mais doze (12) meses, isto é, até 16 de outubro de 2009.
+Logo, na época em que a ação de concessão de benefício previdenciário c/c medida liminar foi proposta, em 23 de dezembro de 2010 (Id. 121143482 - fls. 3), o apelante não mais apresentava a qualidade de segurado.
+O v. acórdão considerou que o ultimo benefício previdenciário perdurou até 16/10/2008 e término do período de graça na data de 16/10/2009, que seria a última data da qualidade de segurado do embargante e como a demanda foi ajuizada em 23/12/2010, o embargante não mais tinha qualidade de segurado da previdência.
+ ..
+O indeferimento administrativo do benefício previdenciário se deu na data de 16/10/2007, conforme comprovado pela cópia da decisão administrativa do INSS(Num. 109122979 - Pág. 6), e citado no v. acórdão que mencionou que com o fim do benefício, o embargante teve 12 meses de período de graça e pelo desemprego teve mais 12 meses, totalizando 24 meses de período de graça, portanto o período de graça, segundo v. acórdão durou entre 16/10/2007 e 16/10/2009:
+Portanto, após a cessação do último benefício previdenciário concedido, a qualidade de segurado se manteve por mais doze (12) meses, ou seja, até 16 de outubro de 2008. Ainda, pela ausência de novo registro de vínculo empregatício, por óbvio, o apelante manteve a situação de desemprego , razão pela qual a qualidade de segurado se estendeu por mais doze (12) meses, isto é, até 16 de outubro de 2009.(grifos nossos)
+Insta mencionar, que a cessação do benefício ocorreu em 16/10/2007, conforme mencionado no v. acórdão, contudo o embargante retornou ao mesmo labor e continuou no vínculo de emprego até a data de 19/05/2008, conforme também reconhecido no v. acórdão:
+No extrato do Cadastro Nacional de Informações Sociais - CNIS está registrado que, entre 16 de maio de 1990 a 19 de setembro de 2008, houve, aproximadamente, oitenta e sete (87) meses e dez (10) dias de contribuição previdenciária (Id. 121143482 - fls. 66/69).
+Dessa forma, emergiu a omissão ou decisão baseada em premissa equivocada sobre o fim do contrato de emprego e o início do período de graça, haja vista que o segurado ora embargante teve alta do INSS em 16/10/2007, mas o vinculo de emprego perdurou até meados de 2008.
+Ocorre que a Corte a quo rejeitou o recurso integrativo sem se pronunciar acerca dessas questões, que são essenciais ao deslinde da causa, pois a ação foi julgada improcedente justamente porque as instâncias ordinárias reconheceram que, quando da propositura da ação, o recorrente não possuía mais a qualidade de segurado e, por isso, não foram preenchidos os requisitos do art. 42 da Lei n. 8.213/91, necessários à concessão de aposentadoria por invalidez.
+Cumpre observar que, sem a manifestação do Tribunal de origem a respeito da tese defendida pelo recorrente, o Superior Tribunal de Justiça fica impossibilitado de examinar a questão, em razão do óbice contido na Súmula 7 do STJ, que impede, a esta Corte Superior, o reexame de fatos e de provas.
+Nesse contexto, constata-se que a insurgência da recorrente se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, visto que as questões por ela suscitadas nos embargos de declaração, acima identificadas, mostram-se relevantes para a integral solução da controvérsia, devendo, portanto, serem efetivamente enfrentadas pelo Tribunal de origem.
+Ante o exposto, com fundamento no art. 34, XXV, e 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão a quo, que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os aclaratórios e enfrente todos os argumentos deduzidos capazes de, em tese, infirmar a conclusão exarada.
+Publique-se. Intimem-se.
+ EMENTA
