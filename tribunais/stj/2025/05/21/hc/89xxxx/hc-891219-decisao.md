@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ALTEMIR FREITAS contra julgado do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL na apelação criminal nº 5000128- 37.2009.8.21.0008/RS.
+Consta dos autos que o paciente e corréu foram denunciados e levados a julgamento pelo Tribunal do Júri como supostamente incursos nas sanções do art. 121, §2º, incisos I e IV, na forma do art. 14, inciso II, por três vezes, e art. 125, caput, todos do Código Penal, e na forma do seu art. 29, caput.
+Realizada a sessão plenária, houve a absolvição do réu quanto ao 1º fato, por negativa de autoria; a sua absolvição quanto ao 2º e ao 4º fatos, por negativa do quesito quanto à materialidade, em consonância com requerimento formulado pelo Ministério Público em suas alegações finais; e a condenação do réu quanto ao 3º fato, pois apenas como incurso nas sanções do artigo 121, § 2º, inciso IV, na forma do artigo 14, inciso II, ambos do Código Penal.
+Interposta apelação pelo Ministério Público, esta, ao final, foi provida pelo Tribunal impetrado para anular a decisão do Tribunal do Júri por se mostrar manifestamente contrária à prova dos autos e determinar a submissão do réu a novo julgamento.
+Neste habeas corpus, a defesa se insurge contra a decisão anulatória, eis que entende que deva prevalecer a soberania dos vereditos.
+Requer, no mérito, a declaração de nulidade do julgado, com o restabelecimento da decisão absolutória dos jurados.
+Inteiro teor do acórdão impetrado às fls. 11/26.
+Decisão que indeferiu a liminar requerida às fls. 1226/1228.
+Informações prestadas pelo Tribunal de origem às fls. 1245/1332.
+Parecer do MPF às fls. 1338/1344, onde se manifesta pelo não conhecimento do writ.
+É o relatório. DECIDO.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Isto porque o Tribunal impetrado fundamentou o acórdão anulatório de maneira adequada, clara e coerente, subsidiado pelos elementos de prova que guarneceram os autos, em especial, os relatos fornecidos pela vítima sobrevivente, cujo conteúdo fora no sentido de que tanto ela quanto a segunda vítima foram alvos de disparos proferidos pelo paciente e mediante o mesmo contexto, o que revela patente contradição no que diz respeito à condenação ter se dado em relação a somente um dos fatos, circunstância apta a caracterizar a sentença, no entender da Corte de origem, como manifestamente contrária à prova dos autos nos termos do art. 593, III, "d", do Código de Processo Penal.
+Válido frisar que a Terceira Seção desta Corte Superior, ao apreciar o HC n. 323.409/RJ, em julgamento realizado em 28/2/2018, acolhendo, por maioria, voto do Ministro FELIX FISCHER, firmou entendimento no sentido de que a anulação da decisão absolutória do Conselho de Sentença - ainda que por clemência -, manifestamente contrária à prova dos autos, segundo o Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, inciso III, alínea "d", do Código de Processo Penal), não viola a soberania dos vereditos, ou seja, a decisão de clemência será passível de revisão pelo Tribunal de origem qu ando não houver mínimo respaldo fático nos autos que dê suporte à benesse.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
