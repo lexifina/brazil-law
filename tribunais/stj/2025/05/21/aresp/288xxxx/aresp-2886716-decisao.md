@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo manejado por Universo Online S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.266):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - PROCEDIMENTO ADMINISTRATIVO - DEFESA DO CONSUMIDOR - VÍCIOS FORMAIS NÃO CONSTATADOS - CONDENAÇÃO - "BIS IN IDEM" - INOCORRÊNCIA - MULTA - VALOR ARBITRADO.
+1. O controle jurisdicional do processo administrativo se restringe ao exame de sua regularidade e à legalidade dos atos praticados, considerando a observância do contraditório, da ampla defesa e do devido processo legal, sendo vedadas incursões ao mérito administrativo, bem como a análise e a valoração das provas constantes no procedimento.
+2. Considerando que prazos previstos para conclusão de procedimento administrativo (PGJMG, Res.11/2011) não são peremptórios e a ausência de demonstração de prejuízo, não há falar em nulidade por ofensa à duração razoável do processo, especialmente diante da necessidade de prorrogações para realização de diligências e das solicitações de dilação de prazo feitas pelas partes para prestarem informações e se manifestarem sobre documentos e atos praticados no procedimento.
+3. Rejeita-se a alegação de ocorrência de repetição de condenações aplicadas em outros procedimentos administrativos diante da verificação de que as sanções não decorrem dos mesmos fatos, mas da prática de condutas lesivas a consumidores diversos, apuradas especificamente.
+4. Sem prova de ilegalidade ou falta de razoabilidade, deve ser mantida a multa aplicada como sanção à infração apurada no procedimento administrativo, considerando a gravidade da infração, a vantagem econômica auferida pelo fornecedor e a sua condição econômica.
+5. Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.383/1.388).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.:
+a) 1.022 do CPC, sustentando omissão quanto: (i) a outros órgãos integrantes do Sistema Nacional de Defesa do Consumidor já o terem apenado pela mesma conduta, incorrendo em bis in idem; (ii) ao fato de serem incontroversas as informações sobre o verdadeiro faturamento, apresentadas na petição inicial deste processo e não impugnadas pelo recorrido; (iii) à necessidade de se aplicar a sanção pecuniária com base na receita líquida do local da infração e não com base na receita líquida nacional da empresa; e (iv) aos argumentos trazidos acerca da desproporcionalidade e irrazoabilidade do valor da multa fixado à luz dos parâmetros legais;
+b) 39, I, 57 e 105, do CDC, afirmando que não praticou conduta abusiva. Sustenta que foram aplicadas multas por diversos órgãos integrantes do Sistema Nacional de Defesa do Consumidor, violando o princípio do non bis in idem, tendo em vista que as sanções se deram com esteio nos mesmos fatos e fundamentos jurídicos. Aduz, ainda, que "o valor aplicado a título de sanção pecuniária pelo MPMG foi desproporcional e irrazoável" (fl. 1.402). Afirma que "não há qualquer embasamento fático ou legal a justificar a prática de ato lesivo à legislação consumerista por parte do recorrente Uol. Ao contrário: trata- se de mero questionamento individual do consumidor, o qual foi devidamente resolvido pelo recorrente Uol." (fl. 1.404).
+Foram ofertadas contrarrazões às fls. 1.435/1.447.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que tange à questão de fundo, o Tribunal de origem destacou (fls. 1.269/1.278):
+No caso, o Procedimento Administrativo nº 0024.13.006308- 4/001 foi instaurado com base na Lei federal nº 8.078, de 1990 (CDC), Decreto Federal nº 2.181, de 1997, e Resolução PGJ nº 11, de 2011, para apurar prática infrativa às leis de consumo pela imposição de aquisição de serviço de valor adicionado, consistente em provedor de conteúdo ou serviço de antivírus não solicitados previamente pelos consumidores.
+A investigação preliminar teve início em 14/8/2013, com base em notícia de fato apresentada pelo consumidor Lourivan Coelho acerca da instalação de serviço de "anti-vírus" não solicitado e cobrança indevida de três mensalidades de R$ 69,90, das quais só obteve ressarcimento de uma (ordem n. 7, f.22 e 25-27).
+ ..
+Por fim, a decisão proferida no procedimento administrativo se afigura coerente com as infrações apuradas relativas à imposição de serviços não solicitados de provedor de conteúdo ou antivírus e consequentes cobranças indevidas, conforme reclamações registradas perante o Procon-MG, Procon-ALMG e Anatel (ordem n. 96-101).
+Extrai-se da decisão a exposição das infrações cometidas, individualização das sanções aplicadas e valoração das multas de acordo com a gravidade, a vantagem auferida e a condição econômica do fornecedor.
+ ..
+Da análise dos autos, infere-se que o Apelante não demonstrou a ocorrência de dupla condenação pelos mesmos fatos. O procedimento administrativo questionado nesta ação (0024.13.006308- 4/001) apurou que "não restou configurada a venda casada entre o serviço de provedor de conteúdo/antivírus e o serviço de internet, mas sim a imposição do serviço de valor adicionado em desfavor dos consumidores".
+Destaca-se que no acórdão proferido na ação invocada pelo Apelante (proc. 1.0000.20.471439-8/002) consta a apuração de venda casada no procedimento administrativo anteriormente instaurado (0024.12.005.793-0).
+ ..
+Rejeita-se a alegação de ocorrência de repetição de condenações aplicadas em outros procedimentos administrativos diante da verificação de que as sanções não decorrem dos mesmos fatos, mas da prática de condutas lesivas a consumidores diversos, apuradas especificamente.
+Nada a prover quanto ao pedido de redução do valor da multa, tendo em vista que o Apelante deixou de apresentar prova ou demonstrativo de seu faturamento bruto anual na seara administrativa, dando ensejo ao arbitramento na forma do Regulamentos da PGJ (art. 63, § 1º, da Resolução PGJ nº 11/2011 c/c Resolução nº 52/2011, artigo 21, III, 19 da Resolução PGJ 14/2019).
+Ademais, como visto, o Apelante se manteve inerte quando intimado para se manifestar a respeito da possível majoração da multa pelo reenquadramento da infração.
+Inexistindo prova de ilegalidade e de falta de razoabilidade, é inviável a alteração da penalidade aplicada.
+Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TRANSPORTE PÚBLICO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS COLETIVOS. CONSTATAÇÃO. MATÉRIA DE PROVA. REEXAME. IMPOSSIBILIDADE.
+1. A Corte de origem manteve a condenação da parte recorrente ao pagamento de indenização por danos morais coletivos decorrentes da inadequada prestação do serviço de transporte coletivo, por reconhecer que "a conduta do Apelante acarretou danos que ultrapassaram a esfera patrimonial, afetando a dignidade dos consumidores, razão por que deve ressarci-los."
+2. Revisitar a conclusão do aresto impugnado para admitir que a falha identificada não enseja a indenização postulada a título de danos morais coletivos reclama imperiosa incursão no conjunto fático-probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.155.273/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023 - g.n.)
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO. RECURSO ESPECIAL. TRANSPORTE COLETIVO INTERESTADUAL. RESERVA DE VAGAS PARA IDOSOS. ART. 40 DA LEI 10.741/2003. INCIDÊNCIA DA SÚMULA 284/STF. DECRETOS REGULAMENTARES. NÃO ENQUADRAMENTO NO CONCEITO DE "LEI FEDERAL" A QUE SE REFERE O PERMISSIVO CONSTITUCIONAL. MULTA DO PROCON. REVISÃO DO VALOR. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O art. 40 da Lei 10. 741/2003 não contém comando normativo que sustente a tese de que a gratuidade é restrita ao serviço convencional, atraindo a incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia..
+2. O Superior Tribunal de Justiça (STJ) considera que decretos regulamentares não se enquadram no conceito de tratado ou lei federal, inviabilizando o recurso especial que aponte violação a tais atos normativos.
+3. A revisão do valor da multa aplicada pelo Procon (órgão de Proteção ao Consumidor) implicaria reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.038.084/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025 - g.n.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
