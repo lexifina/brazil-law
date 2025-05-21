@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por EDGARD DANGUY, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fl. 39):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO PELA DEFESA. PLEITO DE REFORMA. DESACOLHIMENTO. RECURSO MANEJADO MANIFESTAMENTE INCABÍVEL. INVIABILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. RECURSO DE AGRAVO DE INSTRUMENTO NÃO PREVISTO EM MATÉRIA PENAL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 50/58), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 584 do CPP. Sustenta que a decisão recorrida está totalmente equivocada, pois desconsiderou o grave erro cometido pelo juízo a quo, o qual no Processo n.º 0001721-54.2020.8.16.0134, recebeu o recurso em sentido estrito ajuizado pela Defesa contra a decisão que não recebeu a apelação por ela interposta, porém, determinou a formação de "autos apartados, desentranhando-se a peça recursal, a fim de que" não houvesse a paralisação do feito principal (e-STJ fls. 52), sem determinar a suspensão do trâmite, conforme determina o artigo 584 do CPP.
+Apresentadas contrarrazões (e-STJ fls. 90/93), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 68/70), tendo sido interposto o presente agravo e contrarrazões.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo e, caso conhecido, pelo seu não provimento (e-STJ fls. 158/164).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, a violação do artigo 584 do CPP, como apresentada nas razões recursais, não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+No caso, a parte deveria ter apresentado embargos de declaração na origem para que o Tribunal a quo analisasse a referida questão e, se essa persistisse, imprescindível que fosse o recurso fundamentado em violação ao artigo 619 do CPP, razão pela qual subsiste patente a ausência de prequestionamento acerca da matéria.
+Prosseguindo, a Corte de origem consignou que, tratando-se de decisão proferida em ação de natureza penal, na qual EDGARD foi denunciado por homicídio culposo praticado na direção de veículo automotor (art. 302, § 1.º, incisos I e II, CTB), contra ela somente se afiguram cabíveis as medidas (recurso ou ação) de mesmo cunho, não sendo o caso do agravo de instrumento, manifestação recursal própria e exclusiva do processo civil (e-STJ fls. 41).
+Contudo, a parte recorrente, em seu recurso especial, nada falou sobre o referido fundamento. Assim, a falta de impugnação do referido fundamento do acórdão recorrido atrai os óbices das Súmulas 283/STF e 284/STF .
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
