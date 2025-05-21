@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REITERAÇÃO DE PEDIDO ANTERIOR. ANÁLISE DA NULIDADE DA BUSCA PESSOAL POSTERGADA PARA A INSTRUÇÃO CRIMINAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+1. É cediço o entendimento de que a mera reiteração de pedido anterior não comporta conhecimento. No caso dos autos, verifica-se que a presente impetração é mera reiteração do HC 987.950/SP, impetrado em benefício do mesmo paciente, contra o mesmo acórdão recorrido, prolatado nos autos do HC n. 2396862-86.2024.8.26.0000, possuindo a mesma causa de pedir e pedido, o que obsta a análise deste writ.
+2. Ademais, a despeito das alegações defensivas, deixa de justificar-se a negativa de prestação jurisdicional pela Corte de origem que, corretamente, deixou de analisar nessa fase processual a alegação de nulidade da busca pessoal, matéria que necessariamente deve ser objeto de instrução específica no cerne da ação penal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JONATHAN GONZAGA DE ABREU contra decisão de fls. 112-113, que indeferiu liminarmente o presente habeas corpus por ser mera reiteração do HC n. 987.950/SP.
+Nas razões deste recurso, a defesa busca a reconsideração da decisão agravada alegando, em suma, que "não se trata de reiteração de Habeas Corpus, a paciente é o mesmo, mas o pedido é outro, que se baseia na ausência de manifestação do Tribunal de origem, acerca do pedido formulado na impetração originária (nulidade das provas que embasaram a condenação), configura indevida negativa de prestação jurisdicional" (fl. 120).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado, para reformar a decisão recorrida e, por conseguinte, conceder a ordem "para que a Corte estadual analisar a matéria suscitada no writ originário" (fl. 121)
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REITERAÇÃO DE PEDIDO ANTERIOR. ANÁLISE DA NULIDADE DA BUSCA PESSOAL POSTERGADA PARA A INSTRUÇÃO CRIMINAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+1. É cediço o entendimento de que a mera reiteração de pedido anterior não comporta conhecimento. No caso dos autos, verifica-se que a presente impetração é mera reiteração do HC 987.950/SP, impetrado em benefício do mesmo paciente, contra o mesmo acórdão recorrido, prolatado nos autos do HC n. 2396862-86.2024.8.26.0000, possuindo a mesma causa de pedir e pedido, o que obsta a análise deste writ.
+2. Ademais, a despeito das alegações defensivas, deixa de justificar-se a negativa de prestação jurisdicional pela Corte de origem que, corretamente, deixou de analisar nessa fase processual a alegação de nulidade da busca pessoal, matéria que necessariamente deve ser objeto de instrução específica no cerne da ação penal.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Confira-se (fls. 112-113):
+ ..
+Em consulta ao sistema de banco interno deste Tribunal, verifica-se que a presente impetração é mera reiteração do HC 987.950/SP, impetrado em benefício do mesmo paciente, contra o mesmo acórdão recorrido, prolatado nos autos do HC n. 2396862-86.2024.8.26.0000, possuindo a mesma causa de pedir e pedido, o que obsta a análise deste writ, conforme sedimentada jurisprudência deste Sodalício.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ANÁLISE DE QUESTÕES JÁ EXAMINADAS NO HC N. 694.828/MG. REITERAÇÃO DE PEDIDO. DESCABIMENTO. INSURGÊNCIA QUANTO À DATA PARA JULGAMENTO DO MÉRITO DO WRIT NA ORIGEM. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. As alegações suscitadas neste writ , concernentes ao disposto no art. 580 do Código de Processo Penal e aos requisitos da prisão preventiva, já foram objeto de exame no HC n. 694.828/MG, impetrado em favor da ora Agravante. Assim, configurada a hipótese de reiteração de pedido, deve ser mantida a decisão agravada que indeferiu liminarmente o writ.
+2. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.(AgRg no HC 696.965/MG, Sexta Turma, Rel. Ministra Laurita Vaz, DJe 04/11/2021, grifei)
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. REITERAÇÃO DE PARTES, CAUSA DE PEDIR E PEDIDOS DO HC 674.420/PR. LITISPENDÊCIA. TRÍPLICE IDENTIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O presente habeas corpus guarda identidade de partes, causa de pedir e pedidos com o HC 674.420/PR, impetrado em momento anterior.
+III - Em ambas as impetrações, tem-se o mesmo paciente e o mesmo cenário fático-processual. Levantam-se idênticas teses de violação aos princípios da ampla defesa, do contraditório e do devido processo legal em virtude do indeferimento do pedido de produção probatória e de deficiência da assistência jurídica prestada pela Defensoria Pública da União até o momento em que o agravante constituiu advogado particular nos autos. E, finalmente, requer-se a mesma providência: o deferimento do pedido de produção probatória ou a declaração de nulidade da Ação Penal n. 5012581-37.2015.4.04.7000.
+IV - O habeas corpus é espécie de ação e, nessa medida, deve observar os pressupostos processuais e as suas condições. Entre os pressupostos processuais, destaca-se, no caso, a litispendência, doutrinariamente classificada como pressuposto processual objetivo extrínseco negativo, a qual, de acordo com a teoria da tríplice identidade, obsta o ajuizamento de nova ação que guarde identidade de partes, causa de pedir e pedido com outra ação anterior que esteja em curso.
+V - Por esse motivo, esta Corte Superior tem jurisprudência firme para não conhecer de habeas corpus com reiteração de pedidos.
+Agravo regimental desprovido.(AgRg no HC 691.648/PR, Quinta Turma, Rel. Min. Felix Fischer, DJe 04/11/2021, grifei)
+Ademais, a despeito das alegações defensivas, não há falar em negativa de prestação jurisdicional pela Corte de origem que, corretamente, deixou de analisar nessa fase processual a alegação de nulidade da busca pessoal, matéria que necessariamente deve ser objeto de instrução específica no cerne da ação penal.
+Ante o exposto, indefiro liminarmente este habeas corpus, com fundamento nos arts. 34, inc. XX, e 210, ambos do RISTJ.
+Como se vê, todas as alegações defensivas foram analisadas, inclusive a suposta negativa de prestação jurisdicional, ausente no caso dos autos, uma vez que a controvérsia atinente à nulidade de busca pessoal deverá ser analisada no curso da instrução criminal, sendo certo que as demais controvérsias foram devidamente analisadas nos autos do HC n. 987.950/SP, denegado por se vislumbrar a legalidade da prisão preventiva. Confira-se:
+ ..  Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi preso em flagrante em 14/12/2024, convertido em prisão preventiva, "por suposta infração ao art. 33 da Lei 11.343/2006 e art. 16 da Lei 10.826/2003" (e-STJ, fl. 30).
+Argumenta o impetrante, em suma, com a ilegalidade das buscas pessoal e veicular, porquanto realizadas sem fundada suspeita, alegando, outrossim, ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, o trancamento da ação penal ou a revogação da prisão preventiva, ainda que mediante substituição das medidas cautelares previstas no art. 319 da mesma lei processual.
+É o relatório.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+De início, a respeito da ilicitude das provas e consequente trancamento da ação penal, consignou o Tribunal local que " a  regularidade da busca domiciliar será mais bem apurada nos autos do processo principal, momento em que as partes poderão usar de todos os meios de prova admitidos a fim de formar o livre convencimento do juízo, sob o manto do contraditório, garantidas a ampla defesa e a paridade de armas" (e-STJ, fl. 32).
+Logo, fica esta Corte inviabilizada de analisar o tema sob pena de indevida supressão de instância.
+No mais, a prisão preventiva é compatível com a presunção de inocência, desde que fundamentada em elementos concretos que demonstrem o fumus comissi delicti e o periculum libertatis, conforme previsto no art. 312 do CPP.
+Da decisão que decretou a custódia preventiva, no que interessa, extrai-se (e-STJ, fls. 116-117):
+ ..
+Segundo consta, JONATHAN GONZAGA DE ABREU foi autuado pela prática, em tese, dos crimes previstos no artigo 33 da Lei 11.343/06 e artigo 16 da Lei 10.826/03, pois, no dia 14/12/2024, por volta das 20h30, abordaram o custodiado e uma outra pessoa em atitudes suspeitas.
+Em revista ao veículo do autuado, como o painel estava solto, acabaram encontrando uma chave "allen" que abriu o painel e, nele, encontram droga, balança de precisão, um caderno com anotações sobre o comércio de entorpecentes, além de uma arma de uso restrito (pistola Glock, calibre 380 com seletor de rajada) e 13 munições intactas. Os objetos foram apreendidos, juntamente com dois aparelhos celulares.
+ ..
+É caso de conversão da prisão em flagrante em prisão preventiva, pois presentes os seus requisitos e pressupostos. Há indícios de autoria e de materialidade de crimes apenados com pena máxima superior a 04 anos, sendo cabível a prisão preventiva nos termos do art. 313, inciso I, do Código de Processo Penal.
+Além disso, o autuado registra antecedentes e não comprovou possuir ocupação lícita, sendo a medida imprescindível para a garantia da ordem pública e da aplicação da lei penal, pois em liberdade pode tornar a delinquir, além de nada o vincular ao distrito da culpa.
+Por tais razões, nenhuma outra medida cautelar diversa da prisão se mostra adequada à situação em tela, sendo o caso de, por ora, mantê-lo preventivamente preso.
+ ..
+Como se vê, não há falar-se em inidoneidade do decreto prisional, haja vista o réu, ora paciente, ter sido apreendido com "droga, balança de precisão, um caderno com anotações sobre o comércio de entorpecentes, além de uma arma de uso restrito (pistola Glock, calibre 380 com seletor de rajada) e 13 munições intactas", além do registro de antecedentes criminais.
+""Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 107.238/GO, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019)" (AgRg no RHC n. 207.771/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+"Entende o Superior Tribunal de Justiça que a apreensão de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado" (AgRg no HC n. 952.713/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024).
+Por fim, " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves" (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Assim, inexistindo divergência da matéria no órgão colegiado deste Tribunal, admissível o exame deste writ in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Ante o exposto denego o habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
