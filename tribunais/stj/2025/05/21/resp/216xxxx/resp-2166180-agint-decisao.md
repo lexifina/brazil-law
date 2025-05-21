@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por ABASTECEDORA DE COMBUSTÍVEIS E LUBRIFICANTES 1200 LTDA, contra decisão que não conheceu do recurso especial (fls. 308-322).
+Em seu agravo interno, às fls. 328-337, a agravante afirma que a decisão monocrática não reflete a correta interpretação do direito aplicável ao caso, salientando que a controvérsia em questão diz respeito à aplicação da anterioridade nonagesimal às alterações promovidas pela LC 194/2022.
+Acrescenta que "Uma vez que o legislador inicialmente optou por um regime mais benéfico de creditamento e, posteriormente, retornou ao regime geral mais restritivo, portanto, é direito do comerciante varejista (revendedor) que a nova regra seja aplicada apenas após o prazo de 90 dias, conforme jurisprudência consolidada do STF" (fl. 332).
+Afirma que a situação é distinta daquela decidida no Tema 1093.
+Sustenta que a Súmula 283/STF não é aplicável ao caso, uma vez que o fundamento adotado no acórdão recorrido foi expressamente impugnado. Assinala, ainda, que foi demonstrada de forma clara e inequívoca a divergência jurisprudencial.
+Requer a reforma da decisão agravada para reconhecer o direito da agravante "à manutenção dos créditos de PIS/COFINS decorrentes da aquisição de combustíveis, nos termos da LC nº 192/2022" (fl. 337).
+Não foram apresentadas contrarrazões (certidão de fls. 344).
+É o relatório.
+Verifico que a agravante pretende o reconhecimento do direito ao creditamento dos valores à título de PIS e de COFINS sobre o custo da aquisição dos combustíveis, enquanto não decorrido o prazo nonagesimal.
+A Primeira Seção do STJ, ao apreciar os Recursos Especiais n. 2178164/ES, 2124940/RS e 2123838/RS, decidiu submeter à sistemática dos recursos repetitivos questão jurídica relacionada à manutenção de créditos vinculados por comerciantes varejistas de combustível, sujeitos ao regime monofásico de tributação das contribuições para o PIS e a COFINS.
+O julgado produzido na ProAfR no REsp 2178164/ES (Tema 1339), sob a relatoria do Ministro Gurgel de Faria, foi assim resumido:
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PIS E COFINS. REGIME NÃO CUMULATIVO. COMERCIANTE VAREJISTA DE COMBUSTÍVEIS. MANUTENÇÃO DE CRÉDITOS. LEI COMPLEMENTAR N. 192/2022. AFETAÇÃO.
+1. A questão jurídica a ser equacionada pelo Superior Tribunal de Justiça refere-se à possibilidade de assegurar a comerciante varejista de combustíveis a manutenção de créditos vinculados da Contribuição para o PIS e da COFINS, com base nas Leis Complementares n. 192/2022 e 194/2022 e na MP 1.118/2022.
+2. Tese controvertida: decidir se o comerciante varejista de combustíveis, sujeito ao regime monofásico de tributação da Contribuição para o PIS e da COFINS, tem direito à manutenção de créditos vinculados, decorrentes da aquisição de combustíveis, no período compreendido entre a data da entrada em vigor da Lei Complementar n. 192/2022 até 31/12/2022 ou, subsidiariamente, até 22/09/2022, data final do prazo nonagesimal, contado da publicação da Lei Complementar n. 194/2022.
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.178.164/ES, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 15/4/2025, DJEN de 6/5/2025.)
+O órgão julgador, por unanimidade, suspendeu a tramitação dos agravos em recursos especiais e dos recursos especiais que versem sobre a mesma matéria, na segunda instância, ou que estejam em tramitação no STJ.
+Por considerar que a hipótese se amolda ao caso em exame e que o seu debate é prejudicial à análise do agravo interno, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: EDcl no AgRg no REsp n. 1.429.700/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, torno sem efeito a decisão agravada (fls. 308-322) e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1339), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. PIS E COFINS. EMPRESA DISTRIBUIDORA/VAREJISTA DE COMBUSTÍVEL. CREDITAMENTO. TRIBUTAÇÃO MONOFÁSICA. REGIME NÃO CUMULATIVO. MANUTENÇÃO DE CRÉDITOS. TEMA 1339. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
