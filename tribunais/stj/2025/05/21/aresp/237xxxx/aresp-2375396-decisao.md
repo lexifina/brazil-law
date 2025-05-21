@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela CORONEL DIOGO COMÉRCIO E TRANSPORTE DE GÁS LTDA. e OUTROS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 948):
+Apelação Cível - Administrativo - Apelação Cível - Retorno dos autos por determinação do E. Presidente da Seção de Direito Público da Corte para realização de juízo de conformidade em se considerando o tema nº 1.097 do C. STJ - Matéria relativa à validade de multa por não identificação de condutor por empresa proprietária do veículo e exigência de dupla notificação - Aceitação da conclusão, com alteração do julgado.
+1. Com o julgamento do Recurso Especial nº 1.925.456/SP (Tema 1.097 do C. STJ, deve ser dado integral cumprimento ao quanto nele decidido - Necessidade de dupla notificação da pessoa jurídica relativa à autuação por infrações de trânsito - Superação da tese em sentido contrário firmada pela C. Turma Especial da Seção de Direito Público deste Egrégio Tribunal no julgamento do IRDR nº 2187472-23.2017.8.26.0000 - Retratação do Acórdão que se impõe, para julgar procedente o pedido.
+2. Decretação da nulidade das autuações que se impõe com a correspondente condenação na restituição de valores pelo Município de São Paulo - Aplicação dos índices de atualização monetária e juros de mora descritos no item 3.3 do R Esp nº 1.492.221/PR, Tema 905, julgado pelo STJ.
+3. Ônus de sucumbência invertidos e majorados em desfavor do Município de São Paulo.
+Juízo de retratação aceito para alteração do julgado, reformada a r. Sentença, com o decreto de procedência do pedido.
+Embargos de declaração rejeitados (e-STJ fl. 967):
+EMBARGOS DE DECLARAÇÃO - Acórdão desta Câmara que, em sede de juízo de retratação, alterou o Acórdão para dar provimento ao recurso da empresa autora no que toca à repetição de indébito na forma do Tema nº 1.097 do C. STJ Embargos de Declaração agora opostos pelo Município para ver reconhecida eiva do decisório, para tanto, apontando supostas omissões - Acolhimento dos embargos de declaração de rigor.
+1. Com efeito, impõe enfrentar a tese defensiva relativa à necessidade de comprovação dos pagamentos para efeito de repetição de indébito Empresa autora que deverá, em sede de liquidação, promover a comprovação dos pagamentos efetivamente por ela realizados.
+2. De mesmo modo, a correção monetária e os juros de mora deverão observar o disposto no Tema nº 810 do C. STF, afastando-se os juros de mora de 1% ao mês, dado não se estar, efetivamente, ante relação jurídica de natureza tributária.
+Embargos de Declaração acolhidos.
+Segundos embargos de declaração rejeitados (e-STJ fls. 996/1.001).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 320, parágrafo único, do Código de Processo Civil e do art. 286, § 2º, do Código de Trânsito Brasileiro.
+Sustenta que os documentos juntados aos autos são suficientes para comprovar o pagamento, além de a responsabilidade pela sua quitação ser do proprietário, independente do tempo em que as infrações ocorreram.
+Aduz que somente o proprietário tem legitimidade para pleitear a anulação de multa e a repetição do indébito e, quando a anulação da penalidade ocorre no processo administrativo, não se faz nenhuma exigência quanto à comprovação do pagamento individual de cada multa e do responsável pela quitação, não havendo lógica na sua exigência na esfera judicial.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 1.031/1.034).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fl. 1.049/1.053), é o caso de examinar o recurso especial.
+Inicialmente, verifica-se que a parte insurgente apontou ofensa ao art. 320, parágrafo único, do CPC, porém referido artigo não possui parágrafo único e trata questão diversa do objeto discutido nos autos e da tese defendida no apelo nobre, o que demonstra a deficiência da fundamentação a atrair o óbice da Súmula 284/STF.
+A propósito: AgInt no AREsp 2.530.039/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024; e AgInt no AREsp 2.094.320/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/11/2022, DJe de 24/11/2022.
+Quanto ao mais, o Tribunal de origem apontou que, para a repetição do indébito das multas anuladas, é necessária a comprovação incontroversa de que efetuou o pagamento da autuação, o que é passível de apreciação em sede de liquidação (e-STJ fl. 968).
+Nota-se que a questão não foi apreciada pelo enfoque pretendido, apesar de opostos embargos de declaração, carecendo do requisito constitucional do prequestionamento a atrair o óbice da Súmula 211 do STJ.
+Nesse sentido: AgInt no AREsp 2.247.747/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023; e AgInt no AREsp 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.
+Além disso, o dispositivo apontado como contrariado, por si só, não tem comando normativo suficiente para sustentar a tese recursal que apenas o proprietário teria legitimidade para questionar a anulação da multa e eventual repetição do indébito, incidindo, novamente a Súmula 284 do STF.
+Confiram-se: AgInt no REsp 2.093.794/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 20/3/2025; e AgInt no AREsp 2.520.394/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/2/2025, DJEN de 19/2/2025.
+Ademais, reconhecer a suficiência de documentos a demonstrar o direito pleiteado importaria em revisão dos elementos de convicção presentes nos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Relativamente a alegação de dissídio jurisprudencial, constata-se que a parte insurgente trouxe como paradigma julgado proferido pela mesma Corte de julgou o acórdão ora recorrido, TJSP, sendo inviável seu conhecimento, conforme preceitua a Súmula 13 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
