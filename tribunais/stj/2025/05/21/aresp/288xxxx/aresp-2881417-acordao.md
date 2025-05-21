@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INGRESSO IRREGULAR NO DOMICILIO. PRESENÇA DE FUNDADAS RAZÕES. ACESSO FRANQUEADO. PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓIRO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O Superior Tribunal de Justiça compreende que é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do artigo 240 do Código de Processo Penal. No caso concreto, após localizarem Anderson, pessoa que ajudou o recorrente no traslado dos objetos roubados, os policiais foram até a sua residência e, mediante sua autorização, adentraram no imóvel e encontraram o recorrente na posse da arma utilizada no delito e na posse de alguns objetos subtraídos.
+2. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+1. APELAÇÃO. AÇÃO PENAL. ROUBO MAJORADO. QUESTIONAMENTO SOBRE A AUTORIA. PRELIMINAR REJEITADA. PLEITO DE ABSOLVIÇÃO NÃO ACOLHIDO. CONDENAÇÃO MANTIDA.
+1.1. Diante dos indícios acerca do paradeiro dos bens subtraídos e do acusado, e considerando a expressa autorização do proprietário do imóvel, a entrada no domicílio esteve amparada em fundadas razões, o que afasta, de forma inequívoca, qualquer alegação de ilicitude das provas colhidas.
+1.2. A consistência das informações prestadas pela vítima, aliada à recuperação dos bens subtraídos em poder do acusado, após sua identificação com base nas características descritas, constitui conjunto probatório robusto que elide a tese absolutória e confirma a versão acusatória. (e-STJ fl. 357)
+A defesa aponta a violação dos arts. 157, §1º e 386, VII, do Código de Processo Penal; 98 do Código Processual Civil e 12 da Lei n. 1060/50. Sustenta as seguintes teses: i) nulidade das provas oriundas do ingresso dos policiais no domicílio e; ii) ausência de provas para a condenação.
+Contrarrazões às e-STJ fls. 388/394.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 451/461.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INGRESSO IRREGULAR NO DOMICILIO. PRESENÇA DE FUNDADAS RAZÕES. ACESSO FRANQUEADO. PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓIRO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O Superior Tribunal de Justiça compreende que é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do artigo 240 do Código de Processo Penal. No caso concreto, após localizarem Anderson, pessoa que ajudou o recorrente no traslado dos objetos roubados, os policiais foram até a sua residência e, mediante sua autorização, adentraram no imóvel e encontraram o recorrente na posse da arma utilizada no delito e na posse de alguns objetos subtraídos.
+2. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Os elementos existentes nos autos informam que o recorrente foi condenado como incurso no artigo 157, § 2º, IV e § 2º-A, I, do CP, à pena de 8 anos e 2 meses de reclusão.
+A defesa alega a nulidade das provas oriundas do ingresso dos policiais no domicílio do recorrente, porque realizado sem autorização legal. Sobre o tema, o TJTO assim se manifestou:
+Conforme os registros iniciais, o Apelante ingressou ilicitamente no imóvel de ANDERSON OLIVEIRA RODRIGUES por intermédio de escalada do muro.
+Uma vez no interior da residência, utilizando-se de arma de fogo (revólver calibre 38), anunciou o assalto e subjugou o morador.
+Em seguida, imobilizou a vítima, amarrando-lhe mãos e pés e confinando-a em um dos cômodos.
+Na sequência, o infrator retirou do local os objetos que havia escolhido, valendo-se dos serviços de um motorista de aplicativo.
+A vítima, mantida em cárcere privado por aproximadamente 1 (um) hora, conseguiu romper as amarras que a prendiam e acionou a polícia, ocasião em que informou as características física do sujeito, a exemplo da vestimenta (calça jeans, camiseta de cor escura, boné), bem como relatou que o mesmo se apropriou de diversos itens que estavam no local.
+Destaca-se que os Policiais empreenderam diligências objetivando a captura do Acusado, logrando êxito em localizá-lo após conseguirem identificar o indivíduo que o ajudou no traslado dos itens subtraídos, sujeito intitulado ANDERSON MARINHO, que narrou ter conhecido o Apelante quando cumpriam pena de tráfico, porém, disse que não sabia da origem ilícita dos bens.
+Ao ser localizado na residência de ANDERSON, onde estava hospedado, o Apelante foi encontrado em posse da arma de fogo utilizada no roubo e de alguns dos objetos subtraídos (Evento 6, anexo REL_MISSAO_POLIC1). Diante dos fatos, foi preso em flagrante.
+ ..
+No que concerne à preliminar que postula a nulidade das provas obtidas, devo ressaltar que ANDERSON MARINHO, proprietário da residência, permitiu a entrada dos policiais no recinto, o que possibilitou a localização e prisão do Apelante.
+Portanto, diante dos indícios prévios sobre o paradeiro dos bens e do Acusado, a entrada no domicílio era justificada e foi devidamente autorizada, fundadas razões que inequivocamente afastam a alegação de ilicitude das provas obtidas. (e-STJ fls. 349/350)
+O Supremo Tribunal Federal definiu, em repercussão geral (Tema n. 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010).
+Na mesma linha, o Superior Tribunal de Justiça compreende que é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do artigo 240 do Código de Processo Penal.
+No caso concreto, após localizarem Anderson, pessoa que ajudou o recorrente no traslado dos objetos roubados, os policiais foram até a sua residência e, mediante sua autorização, adentraram no imóvel e encontraram o recorrente na posse da arma utilizada no delito e na posse de alguns objetos subtraídos.
+Não há dúvida de que que o cenário descrito exigia pronta atuação da polícia e, além disso, a entrada no domicílio do recorrente foi franqueada por Anderson, o que afasta o conceito de invasão. Nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO MAJORADO. ALEGAÇÃO DE NULIDADE DAS PROVAS OBTIDAS MEDIANTE VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. ENTRADA DOS POLICIAIS FRANQUEADA PELO MORADOR. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. MODIFICAÇÃO QUE INCIDE EM REVISÃO FÁTICO-PROBATÓRIA. DOSIMETRIA DA PENA. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça já decidiu que, apesar de o ingresso em domicílio sem mandado judicial exigir fundadas razões de crime em desenvolvimento, não há ilicitude se "o próprio paciente franqueou a entrada dos agentes públicos em sua residência" (HC n. 440.488/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe de 16/8/2018).
+2. Na hipótese, as instâncias ordinárias foram categóricas ao afirmarem que o morador autorizou a diligência policial em sua residência, o que afasta a suposta nulidade por invasão domiciliar.
+A modificação dessa premissa, como pretende a defesa, implica no revolvimento da matéria probatória, o que, como consabido, é vedado na via eleita.
+3. Esta Corte Superior considera legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, especialmente diante do modus operandi do delito.
+4. Inexiste ilegalidade no cálculo da terceira fase da pena quando o Juízo sentenciante apresenta motivação concreta para o cúmulo de duas causas de aumento, no crime de roubo, referentes ao concurso de pessoas (na fração de 1/3) e ao emprego de arma de fogo (na fração de 2/3), com referência a peculiaridades do caso em comento, notadamente o roubo praticado por 3 agentes e no período noturno, demonstrando que o modus operandi do delito refletiu especial gravidade, o que encontra guarida na jurisprudência desta Corte.
+5. Agravo regimental improvido. (AgRg no HC n. 666.284/SC, desta Relatoria DJe de 8/6/2021.)
+Ademais, para se acolher a versão apresentada pela defesa de que não foi franqueada a entrada dos policias, seria necessário o aprofundado revolvimento fático-probatório, procedimento vedado pela Súmula n. 7 do STJ.
+A defesa sustenta também que não há nos autos provas seguras para a condenação.
+A tese defensiva não pode ser apreciada na via do recurso especial, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
