@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ESTABILIDADE E PERMANÊNCIA NÃO DEMONSTRADAS. TRÁFICO DE DROGAS. PENA-BASE NO MÍNIMO. QUANTIDADE NÃO EXPRESSIVA DE DROGAS APREENDIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. Uma vez que as instâncias ordinárias - dentro do seu livre convencimento motivado - não observam elementos concretos, constantes dos autos, que efetivamente evidenciassem a estabilidade e a permanência exigidas para a configuração de crime autônomo, deve ser mantida inalterada a absolvição da ré.
+3. Para entender-se de forma diversa e afastar a compreensão das instâncias de origem, seria necessário o reexame de fatos e provas produzidas nos autos, providência incabível no recurso especial, a teor da Súmula n. 7 do STJ.
+4. Embora a quantidade e a natureza das drogas constituam, de fato, circunstâncias preponderantes a serem consideradas na dosimetria da pena, o montante de entorpecente apreendido não foi excessivamente elevado, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais elementos para justificar a exasperação da pena-base.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE agrava da decisão de fls. 1.473-1.482, em que fixei a pena da acusada em 1 ano e 8 meses de reclusão mais multa, no regime aberto, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+O recorrente busca a condenação da recorrida pela prática do crime previsto no art. 35 da Lei de Drogas e, por conseguinte, o afastamento da minorante do tráfico privilegiado, ao argumento de que houve a estabilidade e permanência do vínculo associativo.
+Afirma ser cabível a exasperação da pena-base ante a apreensão de expressiva quantidade de drogas e a modificação do regime prisional.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ESTABILIDADE E PERMANÊNCIA NÃO DEMONSTRADAS. TRÁFICO DE DROGAS. PENA-BASE NO MÍNIMO. QUANTIDADE NÃO EXPRESSIVA DE DROGAS APREENDIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. Uma vez que as instâncias ordinárias - dentro do seu livre convencimento motivado - não observam elementos concretos, constantes dos autos, que efetivamente evidenciassem a estabilidade e a permanência exigidas para a configuração de crime autônomo, deve ser mantida inalterada a absolvição da ré.
+3. Para entender-se de forma diversa e afastar a compreensão das instâncias de origem, seria necessário o reexame de fatos e provas produzidas nos autos, providência incabível no recurso especial, a teor da Súmula n. 7 do STJ.
+4. Embora a quantidade e a natureza das drogas constituam, de fato, circunstâncias preponderantes a serem consideradas na dosimetria da pena, o montante de entorpecente apreendido não foi excessivamente elevado, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais elementos para justificar a exasperação da pena-base.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+No delito do art. 35 da Lei 11.343/20069, a expressão empregada pelo legislador se refere à associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas.
+Nesse sentido, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, consoante afirmei na decisão agravada, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é imprescindível que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+Na hipótese, o decisum foi claro ao concluir que a pretensão ministerial demandaria o revolvimento do acervo fático-probatório dos autos, em especial porque pretende a condenação do réu pelo delito de associação para o tráfico, providência inviável no âmbito do recurso especial, a teor da Súmula n. 7 do STJ.
+Conforme exposto na decisão agravada, o Tribunal de origem manteve a absolvição da acusada pelo delito de associação para o tráfico pelos seguintes argumentos (fls. 1.261-1.262, grifei):
+Por outro lado, a prática do crime de associação para o tráfico por parte da recorrida não há de ser reconhecida, haja vista a insuficiência dos elementos probatórios produzidos nos autos, os quais não demonstraram um vínculo estável e duradouro entre a recorrida e os demais investigados, mas tão somente que existia essa ligação entre eles.
+Desse modo, deve a sentença ser reformada para julgar parcialmente procedente a denúncia para condenar Jússica Natasha do Nascimento como incursa nas penas do art. 33, caput, da Lei n.
+11.343/2006; mantendo a sua absolvição quanto à imputação relativa à associação para o tráfico, com fulcro no art. 386, VII, do Código de Processo Penal.
+Em relação à configuração do crime de associação para o tráfico de drogas, a leitura da fundamentação do acórdão que julgou a apelação deixa claro a falta de comprovação do vínculo estável e permanente entre os envolvidos para a prática de tráfico de drogas.
+Reafirmo, portanto, que não é viável, em recurso especial, alterar a conclusão alcançada no acórdão recorrido, sem a incursão do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Dessa forma, reitero que o acórdão impugnado está de acordo com a jurisprudência dominante desta Corte de Justiça.
+II. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, a pena-base foi exasperada pelas instâncias ordinárias ante a apreensão de 168,05 g de drogas, consistentes em "71 (setenta e uma) porções de pedras de crack, pesando tem-se a 111,67g; e 19 (dezenove) porções de cocaína, pesando 98,17g" (fl. 1.263).
+Pelos trechos transcritos, constato que as instâncias de origem, ao analisarem as circunstâncias judiciais do delito de tráfico de drogas, consideraram como desfavoráveis a quantidade e a natureza das drogas apreendidas (111,67 g de crack e 98,17 g de cocaína).
+No entanto, embora a quantidade e a natureza do entorpecente constituam, de fato, circunstâncias preponderantes a serem considerados na dosimetria da reprimenda e, apesar de uma das drogas ser, realmente, de alto poder viciante, entendo que a quantidade das drogas apreendidas não foi tão expressiva a ponto de justificar o aumento da pena-base, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, somente tais elementos para justificar a exasperação da pena-base.
+Ademais, entendo que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Assim, uma vez verificada a inadequação da análise das circunstâncias judiciais, a pena-base foi corretamente reduzida ao mínimo legal, ou seja, 5 anos de reclusão e 500 dias-multa.
+Por fim, fixada a pena-base no mínimo legal, entendo que deve ser mantido o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006 e pela Súmula Vinculante n. 59.
+Portanto, constato que não há razões para modificar o entendimento firmado na decisão agravada.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
