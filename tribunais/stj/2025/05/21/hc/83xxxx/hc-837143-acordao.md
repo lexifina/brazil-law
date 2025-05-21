@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS, INCLUSIVE EM REVISÃO CRIMINAL. INADMISSIBILIDADE. NULIDADES, ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS E DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADEMIR JOSE DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 0016.814-63.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 25 anos e 6 meses de reclusão, em regime inicial fechado, além do pagamento de 3.000 dias-multa, pela prática do crime de tráfico de drogas e associação para o mesmo fim (Ação Penal n. 0004797-08.2012.8.26.0484, da 1ª Vara Judicial da comarca de Promissão/SP - fls. 48/67).
+Interposta apelação, o Tribunal a quo deu parcial provimento ao recurso da defesa para reduzir a pena do ora paciente, fixando-a em 18 anos e 8 meses de reclusão, em regime fechado, além do pagamento de 2.799 dias-multa (Apelação Criminal n. 0004797-08.2012.8.26.0484 - fls. 78/105).
+Aqui, após o trânsito em julgado da condenação (2016), alega a defesa que não teria sido comprovada a autoria delitiva e que não teria sido encontrada substância entorpecente na posse do paciente.
+Menciona que a acusação não provou os fatos alegados, e que a sentença condenatória foi fundada em elementos duvidosos e suposições, asseverando a ausência de vínculo associativo para configurar a associação para o tráfico.
+Afirma que a interceptação telefônica teria sido baseada em denúncia anônima, o que teria contaminado toda a ação penal, aduzindo que a inicial acusatória teria sido baseada em prova ilícita.
+Entende que o acórdão teria sido ilegal no tocante à valoração negativa das circunstâncias do crime e que não haveria fundamentação que motivasse a não aplicação de causa de diminuição do tráfico privilegiado no patamar máximo.
+Requer, liminarmente, o reconhecimento das ilegalidades do acórdão, suspendendo os efeitos da condenação até o julgamento final do writ. No mérito, pugna pela concessão da ordem para a absolvição do paciente ou o redimensionamento da pena aplicada.
+Solicitadas informações, foram prestadas (fls. 262/263).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem (fls. 448/458).
+Estes autos vieram a mim conclusos por prevenção.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS, INCLUSIVE EM REVISÃO CRIMINAL. INADMISSIBILIDADE. NULIDADES, ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS E DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
+VOTO
+De início, a impetração não prospera, pois, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento.
+No que tange às interceptações, a alegação de nulidade foi afastada de forma fundamentada, pois consta do acórdão da revisão criminal que (fl. 105 - grifo nosso):
+ ..
+Em compulsar o último apenso do 1º volume dos autos, constata-se que ao levar os fatos a conhecimento da autoridade policial, os investigadores que subscrevem o relatório de investigação de fls. 9/12 já haviam apurado, a partir de informação anônima recebida, a identificação e o endereço do peticionário, bem como a existência de vários bens de sua propriedade, mas que se encontravam em nome de terceiros, supunha-se então, como forma de não despertar a atenção das autoridades policial e fazendária.
+Os investigadores já haviam identificado até mesmo o avião que, segundo a informação anônima, era utilizado pelo peticionário para o transporte e distribuição de drogas em várias cidades do Estado de São Paulo (foto da aeronave anexada a fl. 20). Até então havia indícios no sentido de ser o peticionário o chefe de complexo esquema de tráfico ilícito de drogas.
+Diante desses elementos e da plausível conclusão no sentido de que as interceptações telefônicas eram imprescindíveis para elucidar o caso em sua real extensão, a medida foi autorizada em decisão judicial exemplarmente fundamentada (v. fls. 35/36) e, depois, prorrogada de modo igualmente bem fundamentado, o que se vê dos procedimentos em apenso aos volumes dos autos, tendo perdurado por cinco meses, aproximadamente, tempo razoável dada a complexidade da organização investigada, suficiente para identificar os demais corréus, quatro ao todo, e prendê-los junto com o peticionário (fl. 105);
+Nesse contexto, para desconstituir as conclusões alcançadas pelo Tribunal a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Igualmente, o pleito de absolvição por insuficiência de provas é inviável de análise na via eleita.
+Quanto ao pleito de redução da pena-base, também não assiste razão à defesa, uma vez que as circunstâncias dos crimes foram valoradas negativamente, de maneira fundamentada, tendo o Juízo de origem ressaltado os maus antecedentes, a natureza e quantidade de drogas das drogas apreendidas, além da posição de destaque ocupada na organização criminosa, como chefe do esquema, sendo o responsável por adquirir a droga do fornecedor em Ponta Porã para Promissão e fornecê-la para diversos outros traficantes de municípios da região (fls. 50/51 e 91).
+Com efeito, a dosimetria da pena-base foi fundamentada de forma concreta e idônea, em conformidade com a jurisprudência, considerando a quantidade de droga e a posição de liderança do acusado, ora paciente (HC n. 925.875/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe 26/11/2024), sendo ainda, a jurisprudência desta Corte firme no sentido de que as condenações criminais alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, contudo, não impedem a configuração de maus antecedentes (AgRg no HC n. 908.220/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, DJe 18/11/2024).
+Como cediço, a dosimetria da pena se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, sendo, por isso, somente passível de revisão na estreita via do habeas corpus em hipóteses excepcionais de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não ficou demonstrado pela impetrante.
+Quanto à minorante do tráfico privilegiado, é entendimento deste Superior Tribunal que a condenação por associação para o tráfico impede a incidência do redutor (HC n. 827.714/RS, Ministra Daniela Teixeira, Quinta Turma, DJEN 14/2/2025).
+Assim, inexiste ilegalidade na dosimetria da pena aplicada, devendo ser mantida, na íntegra, a reprimenda.
+Ante o exposto, denego a ordem.
