@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por CESAR ADRIANI SANTIAGO contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0019269-62.2016.4.03.6105.
+Pretendem os recorrentes o conhecimento do recurso para que seja diminuída a pena-base aplicada, bem como o montante da prestação pecuniária.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo, e, se conhecido, pelo não conhecimento do recurso especial (fls. 989/995).
+É o relatório.
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida.
+No entanto, melhor sorte não tem o recurso especial.
+O recorrente aponta a ilegalidade da exasperação da pena-base, que, face a uma circunstância judicial negativa, foi aumentada em 1/6. Igualmente, refere que a prestação pecuniária arbitrada, no montante de 2 salários mínimos, é excessiva.
+Relativamente à exasperação da pena-base, não se mostra possível mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa. A lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, sendo assim, o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido.
+De toda sorte, esta Corte de Justiça tem jurisprudência consolidada de que é proporcional a fração de 1/6 de aumento, calculado a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base, ressalvada a apresentação de elementos concretos, idôneos e suficientes a justificar a imposição de patamar superior, o que não ocorreu na espécie (AgRg no HC n. 825.816/BA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 15/9/2023).
+Ainda, a destacar a inexistência de critério matemático rígido, tem-se decidido que faz parte do juízo discricionário do julgador indicar o aumento da pena em razão da existência de circunstância judicial desfavorável, não estando obrigado a seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, de 1/8 do intervalo entre as penas mínima e máxima, ou, até mesmo, outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório (AgRg no AREsp n. 2.578.562/SE, de minha relatoria, Sexta Turma, julgado em 22/4/2025, DJEN de 29/4/2025).
+Assim, estando a decisão recorrida em conformidade com a jurisprudência desta Corte, o recurso é inviável, nos termos da Súmula 83 do STJ.
+Quanto à alegação de excesso no montante da prestação pecuniária - arbitrada em dois salários mínimos, de forma fundamentada -, a análise do recurso esbarra na impossibilidade de reexame da matéria fático-probatória, como tem decidido este Tribunal: AgRg nos EDcl no AREsp n. 1.686.679/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020 e AgRg no REsp n. 1.862.237/PR, relator Ministro de minha relatoria, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA DA PENA. ART. 59 DO CP. CIRCUNSTÂNCIAS JUDICIAIS. CRITÉRIO MATEMÁTICO RÍGIDO PARA EXASPERAÇÃO DA PENA BASE. INEXISTÊNCIA. SÚMULA 83/STJ. PRESTAÇÃO PECUNIÁRIA. ALEGADO VALOR EXCESSIVO. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. SÚMULA 7 DO STJ.
+Agravo conhecido para não conhecer do recurso especial.
