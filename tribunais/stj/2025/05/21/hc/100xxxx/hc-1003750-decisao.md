@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DANILO SILVA DE SENA, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 01 ano e 08 meses de reclusão, em regime inicial fechado, mais pagamento de 16 dias-multa, no mínimo legal, por infração ao disposto no art. 155, caput, do Código Penal.
+Irresignada, a defesa apelou à Corte local, que deu parcial provimento ao recurso defensivo, para redimensionar a reprimenda para 01 ano e 03 meses de reclusão e pagamento de 12 dias-multa, nos termos da seguinte ementa:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. FURTO. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em Exame Réu condenado a 01 ano e 08 meses de reclusão, em regime inicial fechado, e 16 dias-multa por furto de celular, conforme art. 155, caput, do Código Penal.
+II. Questão em Discussão
+2. A questão em discussão consiste em (i) possibilidade de compensação integral ou parcial da agravante da reincidência com a atenuante da confissão e (ii) o abrandamento do regime prisional.
+III. Razões de Decidir
+3. A compensação integral é descabida devido à tripla reincidência, sendo uma delas específica. Não obstante, possível a compensação parcial e redução do acréscimo para  , fixando-se a pena em 01 ano e 03 meses de reclusão e 12 dias-multa.
+4. O regime inicial fechado é mantido em razão da personalidade do agente e da multirreincidência, conforme art. 33, §3º, do Código Penal.
+IV. Dispositivo e Tese
+5. Recurso parcialmente provido.
+Tese de julgamento: 1. Compensação parcial entre confissão e multirreincidência. 2. Manutenção do regime fechado em razão da reincidência e da personalidade do agente.
+Legislação Citada: Código Penal, art. 155, caput; art. 33, §3º; art. 44, II. Súmula 231 e Súmula 545 do STJ.
+Jurisprudência Citada: STF, RHC nº 117357, Rel. Min. Rosa Weber, Primeira Turma, j. 05.11.2013." (e-STJ fls. 11)."
+Neste writ, a defesa sustenta fazer jus a regime mais favorável, tendo em vista que o regime mais gravoso, o fechado, não contou com fundamentação idônea, a contragosto das Súmulas 718 e 719, ambas do STF, em especial porque as circunstâncias lhes são favoráveis.
+Nesse contexto, requer a concessão do regime prisional semiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Eis o teor do acórdão impugnado acerca da fixação do regime fechado:
+"O regime inicial fechado estabelecido na r. sentença deve ser mantido, porquanto fixado em consonância ao disposto no art. 33, §3º, do Código Penal.
+Inviável, assim, o abrandamento buscado pela defesa, pois diante da personalidade distorcida do agente, revelada pela vida pregressa desajustada, não se mostra suficiente para a reprovação e prevenção do crime a fixação de regime diverso, a despeito, inclusive, do quantum de pena ora infligido. Inaplicável, destarte, a Súmula 269, do Superior Tribunal de Justiça." (e-STJ, fls. 16)
+Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Outrossim, consoante o disposto na Súmula 269/STJ, "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Na hipótese, malgrado o réu seja reincidente, a reprimenda imposta não ultrapassa os 4 anos de reclusão e tem como favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, motivo pelo qual o paciente faz jus ao regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal e da Súmula 269/STJ.
+A seguir, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+" PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO POR FURTO QUALIFICADO TENTADO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 226 DO CPP. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INVIABILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL INTERMEDIÁRIO. PENA INFERIOR A 4 ANOS. AGRAVANTE REINCIDENTE. ENUNCIADO DA SÚMULA N. 269 DO STJ. VEDADA A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. GRAVIDADE DO DELITO. REEXAME FÁTICO-PROBATORIO. AGRAVO DESPROVIDO.
+1. Inadmissível a análise referente à alegação de violação ao art. 226 do Código de Processo Penal - CPP, tendo em vista que a referida irresignação não foi analisada pelo Tribunal a quo, por ocasião do julgamento da apelação criminal, não podendo este Tribunal Superior de Justiça enfrentar o tema, sob pena de incidir em indevida supressão de instância.
+2. A jurisprudência desta Corte é no sentido de que, a situação de reincidência do agente, mesmo quando a pena aplicada é inferior a 4 anos e as circunstâncias judiciais são favoráveis, autoriza a fixação do regime semiaberto. Nesse sentido, o enunciado da Súmula n. 269 desta Corte: " é  admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+No caso em apreço, verifica-se que o Tribunal de origem reconheceu adequada a fixação do regime inicial semiaberto para cumprimento de pena de 9 meses e 10 dias de reclusão, em virtude da situação de reincidência do sentenciado.
+3. Nos termos do art. 44, § 3º, do Código Penal, "se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime".
+Na hipótese dos autos, a Corte estadual justificou a negativa fundamentada na gravidade do delito, asseverando que, "o furto, embora tentado, foi qualificado pelo rompimento de obstáculo, com expressivo prejuízo suportado pela vítima (cerca de R$ 12.000,00)", entendendo não ser a medida socialmente recomendável. Nesse passo, a reforma do entendimento do Tribunal de origem, como pretende a defesa, demandaria o reexame o reexame do material fático-probatório constante dos autos, providência inviável na presente via.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 937.170/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCAMINHO. WRIT IMPETRADO EM SUBSTITUIÇÃO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. PENA INFERIOR A 4 ANOS. FIXAÇÃO DO REGIME PRISIONAL INICIAL SEMIABERTO. POSSIBILIDADE. REINCIDÊNCIA. MOTIVAÇÃO IDÔNEA. SÚMULA N. 269 DO STJ. RECURSO DESPROVIDO.
+1. O Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus, situação não foi identificada no caso.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a reincidência é fundamento adequado e suficiente para justificar a adoção de regime inicial de cumprimento de pena mais gravoso.
+3. É possível aplicar o regime prisional semiaberto ao réu reincidente condenado a reprimenda inferior a 4 anos de reclusão, se consideradas favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, nos termos do enunciado da Súmula n. 269 do STJ.
+4. Agravo regimental não provido.
+(AgRg no HC n. 959.953/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/4/2025, DJEN de 7/4/2025.)
+Ante o exposto, não conheço do habeas corpus. Concedo, contudo, a ordem de ofício para fixar o regime semiaberto, salvo se por outro motivo o paciente estiver descontando pena em regime mais grave.
+Publique-se. Intimem-se.
+EMENTA
