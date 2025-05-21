@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. NÃO CONHECIMENTO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. Indeferimento de produção de provas. Cerceamento de defesa. DECISÃO FUNDAMENTADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. Agravo REGIMENTAL não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ser meio inadequado à pretensão de declaração de nulidade da sentença condenatória, alegando cerceamento de defesa pelo indeferimento de oitiva de testemunha.
+2. Fato relevante. O agravante foi condenado à pena de reclusão e multa, por fraudes na obtenção de financiamento, com recurso de apelação parcialmente provido para absolver de um dos crimes, abrandar o regime prisional e substituir a pena privativa de liberdade por prestação de serviços à comunidade e prestação pecuniária.
+3. As decisões anteriores. A ordem de habeas corpus não foi conhecida, pois já havia recurso especial interposto contra o mesmo acórdão, e não foi constatada ilegalidade flagrante que permitisse a concessão de habeas corpus de ofício.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento da oitiva de testemunha essencial à busca da verdade real configura cerceamento de defesa, justificando a nulidade da sentença condenatória.
+III. Razões de decidir
+5. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão, evitando a subversão do sistema recursal.
+6. A jurisprudência é firme no sentido de que o indeferimento de oitiva de testemunhas, quando fundamentado pelo magistrado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa.
+7. Não há flagrante ilegalidade a ser sanada pela via do habeas corpus, pois a negativa da pretensão foi devidamente fundamentada na sentença condenatória, considerando a falta de verossimilhança da alegação do réu.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão. 2. O indeferimento de oitiva de testemunhas, quando fundamentado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa".
+Dispositivos relevantes citados: CPP, art. 402; Lei n. 7.492/1986, art. 19.
+Jurisprudência relevante citada: S TJ, AgRg no HC 967.391/RO, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 26.03.2025; STJ, AgRg no HC 938.662/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 07.10.2024; STJ, AgRg no HC n. 342.168/PB, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 08.02.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SANDRO DA SILVA VAKIUTI (fls. 588/597) contra a decisão de fls. 581/583 que não conheceu da ordem de habeas corpus porque meio inadequado à pretensão.
+Consta nos autos que o ora agravante foi condenado na origem à pena de 06 (seis) anos de reclusão, no regime inicial semiaberto, mais o pagamento de 98 (noventa e oito) dias-multa, como incurso nas sanções do art. 19, da Lei n. 7.492/1986, por duas vezes, em concurso material.
+Interposto recurso de apelação, foi parcialmente provido para, absolvendo o réu de um dos crimes, impor a reprimenda de 02 (dois) anos e 04 (quatro) meses de reclusão, no regime prisional aberto, além do pagamento de 39 (trinta e nove) dias-multa, substituída a privativa de liberdade por prestação de serviços à comunidade e prestação pecuniária.
+No writ impetrado perante esta Corte, sustentou a Defensoria Pública ser ilegal a condenação de Sandro em razão do cerceamento de defesa consistente no indeferimento da oitiva de testemunha essencial à busca da verdade real, buscando a declaração de sua nulidade.
+Não conhecida a ordem, alega a Defesa nas razões deste que, possível a concessão de ofício de habeas corpus quando verificada flagrante ilegalidade, nos termos do art. 647-A, do CPP, o julgado deve ser reformado porque nítido o constrangimento ilegal apontado na inicial.
+Reitera os termos da impetração quanto à ilegalidade da decisão que indeferiu produção de prova, posto que demonstrada a relevância da oitiva da testemunha, capaz de confirmar a versão defensiva, indispensável se mostrando a complementação da prova oral na fase do art. 402, do CPP.
+Assevera que, não conhecido o recurso especial interposto contra o mesmo acórdão, ausente assim análise dos pontos aqui levantados, não se verifica ofensa ao princípio da unirrecorribilidade.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao órgão colegiado para que, concedida a ordem, seja declarada nula a sentença condenatória.
+O Ministério Público Federal apresentou resposta às fls. 601/603, requerendo o não conhecimento do agravo.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. NÃO CONHECIMENTO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. Indeferimento de produção de provas. Cerceamento de defesa. DECISÃO FUNDAMENTADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. Agravo REGIMENTAL não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ser meio inadequado à pretensão de declaração de nulidade da sentença condenatória, alegando cerceamento de defesa pelo indeferimento de oitiva de testemunha.
+2. Fato relevante. O agravante foi condenado à pena de reclusão e multa, por fraudes na obtenção de financiamento, com recurso de apelação parcialmente provido para absolver de um dos crimes, abrandar o regime prisional e substituir a pena privativa de liberdade por prestação de serviços à comunidade e prestação pecuniária.
+3. As decisões anteriores. A ordem de habeas corpus não foi conhecida, pois já havia recurso especial interposto contra o mesmo acórdão, e não foi constatada ilegalidade flagrante que permitisse a concessão de habeas corpus de ofício.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento da oitiva de testemunha essencial à busca da verdade real configura cerceamento de defesa, justificando a nulidade da sentença condenatória.
+III. Razões de decidir
+5. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão, evitando a subversão do sistema recursal.
+6. A jurisprudência é firme no sentido de que o indeferimento de oitiva de testemunhas, quando fundamentado pelo magistrado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa.
+7. Não há flagrante ilegalidade a ser sanada pela via do habeas corpus, pois a negativa da pretensão foi devidamente fundamentada na sentença condenatória, considerando a falta de verossimilhança da alegação do réu.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão. 2. O indeferimento de oitiva de testemunhas, quando fundamentado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa".
+Dispositivos relevantes citados: CPP, art. 402; Lei n. 7.492/1986, art. 19.
+Jurisprudência relevante citada: S TJ, AgRg no HC 967.391/RO, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 26.03.2025; STJ, AgRg no HC 938.662/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 07.10.2024; STJ, AgRg no HC n. 342.168/PB, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 08.02.2022.
+VOTO
+O inconformismo não prospera.
+Como se vê do julgado ora combatido, não foi a ordem conhecida porque impetrada quando já em trâmite recurso especial interposto contra o mesmo acórdão, sendo sabido que O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão, evitando a subversão do sistema recursal (AgRg no HC n. 967.391/RO, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025).
+Outrossim, ainda que possível fosse a análise da matéria por meio deste em razão do não conhecimento do recurso especial, sem análise da nulidade aqui aventada, certo é que, como constou do julgado ora recorrido (fls. 583/583):
+Ademais, não há que se falar em ilegalidade flagrante apta a superar o óbice em questão - tanto que não concedido de ofício o habeas corpus quando da apreciação recursal mencionada.
+Na matéria, ademais, é firme a jurisprudência deste Sodalício no sentido de que " n ão constitui cerceamento de defesa o indeferimento de oitiva de testemunhas, quando o Magistrado o faz fundamentadamente, por considerá-la desnecessária ou protelatória" (AgRg no HC n. 938.662/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/10/2024, D Je de 11/10/2024).
+De fato, uníssono entendimento no sentido de que o indeferimento de produção de provas, em razão da discricionariedade do julgador, não configura per si cerceamento de defesa, notadamente por ser ele o destinatário das provas, não se vislumbra da impetração violação aos princípios do contraditório e da ampla defesa, devidamente fundamentada na sentença condenatória a negativa da pretensão, posto que o réu apresentou somente em seu interrogatório judicial, após mais de dez anos dos fatos e contrariando versão anterior, nome de pessoa que, já falecida, confirmaria sua narrativa, requerendo então a oitiva do filho de tal indivíduo.
+Destacou o Magistrado (fl. 234):
+Embora este Juízo, no passado, tenha sido bastante benevolente  talvez até demasiadamente  com a DPU na formulação de provas na fase do art. 402 do CPP nos casos em que havia mínima plausabilidade para a alegação, é evidente que o Juízo, ao assim fazê-lo, o faz tecnicamente como testemunhas do Juízo, e não da Defesa, ainda que, na prática, o Juízo assim o faça deferindo pedido da Defesa. A diferença para este caso é que a alegação do réu não tem qualquer verossimilhança; seria teratológico, do ponto de vista judicial, que o Juízo forçasse a reabertura da instrução processual quando não é juridicamente o caso, e apenas para ouvir uma testemunha que, à luz das provas dos autos, na melhor das hipóteses, estaria cometendo falso testemunho, isso se fosse encontrada a pessoa e esta não decidisse falar a verdade, o que seria contrário aos interesses do acusado.
+Sobre o assunto, vale colacionar julgado desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 1º, INCISO I, DO DECRETO-LEI 201/67. PEDIDO DE PRODUÇÃO DE PROVA NA FASE DO ART. 402 DO CPP. INDEFERIMENTO MOTIVADO. NECESSÁRIO REVOLVIMENTO DO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS PARA INFIRMAR O ENTENDIMENTO DO DECISUM DE ORIGEM. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A caracterização de cerceamento do direito de defesa pelo indeferimento de alguma prova requerida pela parte possui como condicionante possível arbitrariedade praticada pelo órgão julgador, e não simplesmente a consideração ou entendimento da parte pela indispensabilidade de sua realização. Logo, poderá o magistrado, em estrita observância à legislação de regência e com fito de formar sua convicção, entender pela necessidade ou não da produção de determinada prova, desde que fundamente o seu entendimento de forma adequada e oportuna.
+2. Portanto, pode o juízo indeferir as provas consideradas irrelevantes, impertinentes ou protelatórias, nos termos do art. 400, § 1º, do Código de Processo Penal. Na hipótese, consignou o Desembargador relator da impetração originária, dentre outros fundamentos, que "os documentos constantes nos autos, igualmente, são suficientes para formar juízo de valor acerca dos fatos imputados aos denunciados, razão pela qual também indefiro este pleito". Portanto, fica claro que infirmar tal entendimento, no intuito de se concluir pela necessidade ou não de produção da prova, é expediente defeso na angusta via do habeas corpus.
+3. Ademais, o fundamento da decisão impugnada no sentido de não vislumbrar "necessidade de oitiva das pessoas mencionadas, que sequer foram arroladas no momento oportuno pelas partes, mesmo quando já Conhecidas e identificadas" (e-STJ fl. 57) encontra, mutatis mutandis, ressonância na jurisprudência desta Corte, porquanto "não há ilegalidade na desconsideração do rol de testemunhas da defesa, apresentado fora do prazo legalmente estabelecido, ante a preclusão temporal desta faculdade processual (HC n. 202.928/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, julgado em 15/5/2014, DJe de 8/9/2014)" (AgRg no RHC n. 105.683/RJ, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/6/2019, DJe 14/6/2019).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 342.168/PB, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+Não se vislumbra, portanto, flagrante ilegalidade a ser sanada pela estreita via do habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
