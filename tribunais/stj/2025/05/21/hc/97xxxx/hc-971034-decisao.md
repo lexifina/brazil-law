@@ -1,0 +1,18 @@
+DECISÃO
+AGAMENON VIEIRA REIS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502093-17.2024.8.26.0228.
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas.
+A defesa aduz, em síntese, ilicitude das provas derivadas da atuação da guarda municipal, por desvio de função. Requer a absolvição do acusado.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 85-91).
+Decido.
+I. Atuação das guardas municipais
+A respeito da atuação das guardas municipais, a Terceira Seção desta Corte Superior havia firmado o entendimento de que, "salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto" (HC n. 830.530/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 4/10/2023).
+Todavia, o Supremo Tribunal Federal, no julgamento do RE n. 608.588/SP (Rel. Min. Luiz Fux, j. 20/2/2025), com repercussão geral reconhecida (Tema n. 656 da repercussão geral), firmou a tese de que " é  constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional".
+Por conseguinte, em atenção ao dever de uniformização, estabilidade, integridade e coerência da jurisprudência pelos Tribunais (CPC, art. 926, c/c CPP, art. 3º), e com ressalva da minha posição pessoal sobre o tema, deve ser aplicada ao caso a nova tese firmada pelo Supremo Tribunal Federal no julgamento supracitado.
+II. O caso dos autos
+O Tribunal de origem validou a atuação da guarda municipal com base nos seguintes fundamentos (fl. 36):
+Não há qualquer ilegalidade na atuação dos guardas civis municipais, que efetuavam patrulhamento em região conhecida pelo intenso tráfico de drogas, onde avistaram o acusado em atitude típica da traficância e por isso o abordaram, localizando em seu poder diversas porções crack, além de uma quantia em dinheiro. Consta ainda que o réu imediatamente admitiu a sua atuação no comércio de entorpecentes. Em se tratando flagrante delito, o ato é legítimo, conforme previsão do artigo 301, do Código de Processo Penal: "Qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito".
+Diante dos fatos reconhecidos pelas instâncias ordinárias, verifico que a guarda municipal atuou no desempenho de policiamento ostensivo e comunitário, sem a assunção de atividade de polícia judiciária, nos termos da decisão proferida pelo Plenário do STF no Tema de Repercussão Geral n. 656, acima mencionado, razão pela qual deve ser rejeitada a tese de desvio de função na atuação da guarda municipal na espécie.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
