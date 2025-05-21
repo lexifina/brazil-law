@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIA ZELIA DE SOUSA SANTOS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer c/c indenização por danos morais.
+O julgado foi assim ementado (fl. 198):
+Plano de saúde ação de obrigação de fazer c.c. indenização por danos morais autora que postula a condenação da ré ao custeio de cirurgias pós-bariátricas sentença de procedência em parte, que determinou o custeio das cirurgias e fixou indenização por dano moral em R$ 5.000,00 insurgência da ré parcial acolhimento procedimentos que constituem desdobramento de anterior cirurgia (bariátrica), coberta pelo contrato relatório do médico que assiste a paciente que comprova a necessidade dos procedimentos que não tem natureza estética, mas caráter reparador e funcional ônus da prova em contrário que era da ré, conforme precedente vinculante, não tendo havido requerimento de provas - tema 1069 do C. STJ - recusa que, portanto, mostrou-se abusiva à luz do CDC - súmula 97 deste E. Tribunal de Justiça precedentes desta E. 6ª Câmara dano moral que, no entanto, não restou configurado mero inadimplemento contratual - inexistência de violação a direito da personalidade recurso parcialmente provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos: 186 e 927 do Código Civil e 6º, VI, do Código de Defesa do Consumidor, pois a negativa de cobertura causou danos morais à recorrente.
+Requer provimento ao recurso para que se condene a recorrida ao pagamento de indenização por danos morais.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 268.
+Admitido o apelo extremo (fls. 269-270), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos morais em que a parte autora pleiteou o custeio de cirurgias pós-bariátricas e indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou procedente em parte a ação, determinando o custeio das cirurgias e fixando indenização por dano moral em R$ 5.000,00.
+A Corte estadual reformou parcialmente a sentença, afastando a condenação por danos morais. Destacou que os danos morais não foram caracterizados pois inexiste comprovação nos autos de que a negativa de cobertura tenha ocasionado agravamento da saúde da autora ou preocupação, angústia e sofrimento que tenha ultrapassado o limite do mero aborrecimento.
+Como visto, a Corte de origem, considerando a análise do acervo probatório dos autos, concluiu que não houve a configuração do dano moral indenizável.
+Em tal contexto, para infirmar as conclusões do acórdão recorrido e concluir pelo cabimento de indenização por danos morais, seria imprescindível a análise do acervo probatório dos autos, o que é incabível nesta instância especial, ante o óbice da Súmula n. 7 do STJ.
+Em relação ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
