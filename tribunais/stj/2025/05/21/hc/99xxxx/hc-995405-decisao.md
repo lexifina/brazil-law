@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AGNALDO APARECIDO DE ALMEIDA GUIMARAES contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado (fl. 16):
+AGRAVO EM EXECUÇÃO. REMIÇÃO FICTA POR TRABALHO. DESPROVIMENTO. Pedido de remição ficta por trabalho durante o período pandêmico de COVID-19. Atividades laborativas do sentenciado que não foram interrompidas por restrições sanitárias, conforme informações da unidade prisional. Dias não trabalhados que, a toda evidência, não se deram unicamente em razão do estado pandêmico, nos termos do Tema 1.120 da Corte Superior. Remição ficta negada. Agravo desprovido.
+No presente writ, a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pelo indeferimento da remição da pena pelo trabalho, ao argumento de que "a suspensão do trabalho durante a pandemia não deve prejudicar o direito à remição de pena de acordo com Lei de Execução Penal (LEP), a remição por trabalho é um direito do preso, que não pode ser penalizado por uma situação excepcional, como uma crise de saúde pública, fora de seu controle e que exigiu a interrupção temporária das atividades laborais" (fl. 7), motivo por que deve ser reconhecido o direito à remissão ficta da pena no período em que o preso esteve impedido de trabalhar em razão de emergência de saúde pública.
+Requer, em liminar e no mérito, a remição da pena referente aos intervalos de interrupção entre os períodos de 16/4/2021 a 30/7/2021 e 18/10/2021 a 15/11/2021.
+Indeferida a medida liminar, o Ministério Público Federal manifestou-se contrariamente ao pedido nos termos da seguinte ementa (fl. 71):
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO FICTA DE PENA PELO TRABALHO. IMPOSSIBILIDADE. WRIT SUBSTITUTIVO.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. O benefício da remição encontra-se devidamente disciplinado na Lei nº 7.210/84, adotando como base de cálculo o número de dias efetivamente trabalhados, não havendo cogitar-se de outro critério.
+3. Considerando a excepcionalidade do período da pandemia do Covid-19, este Egrégio Tribunal fixou a seguinte tese: Nada obstante a interpretação restritiva que deve ser conferida ao art. 126, § 4º, da LEP, os princípios da individualização da pena, da dignidade da pessoa humana, da isonomia e da fraternidade, ao lado da teoria da derrotabilidade da norma e da situação excepcionalíssima da pandemia de covid-19, impõem o cômputo do período de restrições sanitárias como de efetivo estudo ou trabalho em favor dos presos que já estavam trabalhando ou estudando e se viram impossibilitados de continuar seus afazeres unicamente em razão do estado pandêmico. mais recentemente.
+4. No referido precedente, fez-se uma diferenciação necessária, a saber, a aplicação da remição ficta apenas àqueles que, já estavam trabalhando ou estudando e, em razão da covid, viram-se impossibilitados de continuar com suas atividades.
+5. No caso em apreço, sequer houve a interrupção das atividades laborais do apenado em razão da pandemia, afastando-se, de plano, a possibilidade de concessão da benesse.
+6. Parecer pelo não conhecimento do writ.
+É o relatório. Decido.
+Sobre a questão, assim se manifestou o juízo da execução (fl. 41):
+ ..  Os contornos ao direito à remição ficta foram estabelecidos pelo C. Superior Tribunal de Justiça no julgamento do REsp nº 1.953.607-SC, processo-paradigma do Tema nº 1120 - Remição Ficta - Extensão - Trabalho - Estudo - Covid 19, ocasião em que se fixou a seguinte tese:
+"Nada obstante a interpretação restritiva que deve ser conferida ao art. 126, §4º, da LEP, os princípios da individualização da pena, da dignidade da pessoa humana, da isonomia e da fraternidade, ao lado da teoria da derrotabilidade da norma e da situação excepcionalíssima da pandemia de COVID-19, impõem o cômputo do período de restrições sanitárias como de efetivo estudo ou trabalho em favor dos presos que já estavam trabalhando ou estudando e se viram impossibilitados de continuar seus afazeres unicamente em razão do estado pandêmico". (sem destaque no original).
+No caso em tela, a Direção da Unidade Prisional informou que o apenado não estava vinculado a atividades de trabalho ou estudo quando as atividades foram suspensas em decorrência da pandemia do COVID-19, não existindo período de afastamento a ser considerado. ..
+O TJSP manteve o indeferimento do pedido com os seguintes fundamentos (fls. 18-19):
+ ..  Consta dos autos que o sentenciado desenvolveu atividade laborterápica entre novembro de 2020 a dezembro de 2021, merecendo destaque que assim não o fez ininterruptamente, constando intervalos de dias não trabalhados (fls. 114/119-principal), sendo que teve concedida a remição de pena pelos dias de trabalho efetivamente cumpridos (fls. 124- principal).
+Agora, reclama a remição ficta por trabalho referente ao "período de 22.3.2021 a 26.10.2021", que, segundo alega, não trabalhou em razão da suspensão das atividades laborterápicas em face da das restrições sanitárias provocadas pela pandemia de COVID-19.
+Como bem observado pelo Parquet, a teor das informações prestadas pela direção técnica da unidade prisional, as atividades laborativas desempenhadas pelo sentenciado no período de 6.2.2020 a 20.6.2022 (que abarca o intervalo reclamado - 22.3.2021 a 26.10.2021) não foram interrompidas em razão das restrições sanitárias impostas pela COVID-19 (fls. 147/148-principal).
+Aliás, a assertiva de que não houve interrupção das atividades laborterápicas em decorrência do estado pandêmico se reforça pela observância de que, repita-se, o sentenciado chegou a trabalhar no intervalo de novembro de 2020 a dezembro de 2021, período pandêmico.
+Com efeito, quanto ao período reclamado (22.3.2021 a 26.10.2021), a toda evidência, tem-se que não trabalhou por motivos outros, nada se erigindo nos autos no sentido de que deixou de trabalhar "unicamente em razão do estado pandêmico", a teor da tese firmada pela Corte Superior, não fazendo jus ao reconhecimento da remição ficta. ..
+No caso, as instâncias de origem, considerando as informações prestadas pela direção da unidade prisional, firmaram que "quanto ao período reclamado (22.3.2021 a 26.10.2021), a toda evidência, tem-se que não trabalhou por motivos outros, nada se erigindo nos autos no sentido de que deixou de trabalhar "unicamente em razão do estado pandêmico", a teor da tese firmada pela Corte Superior, não fazendo jus ao reconhecimento da remição ficta".
+Com efeito, rever o entendimento das instâncias ordinárias, a fim de acolher a tese defensiva da remição ficta da pena, em razão do paciente ter ficado impossibilitado de trabalhar tão somente devido à pandemia de covid-19, demandaria revolvimento de matéria fático-probatória, procedimento incompatível com a presente via. Mutatis mutandis, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO POR TRABALHO INTERNO DE GALERIA. ATIVIDADE SUPERVISIONADA PELO ESTABELECIMENTO PRISIONAL. CONSTATAÇÃO DO CARÁTER RESSOCIALIZADOR PELO JUÍZO DAS EXECUÇÕES. FALTA DE COMPROVAÇÃO DO REGULAR DESEMPENHO. FLEXIBILIZAÇÃO DAS REGRAS DO ART. 126 DA LEP. ATESTADO DE EFETIVO CUMPRIMENTO EMITIDO PELO PRÓPRIO ESTABELECIMENTO PRISIONAL. SUFICIÊNCIA. SÚMULA N. 7, STJ.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II - A pretensão ministerial esbarra no entendimento deste Superior Tribunal de Justiça, que admite a remição pelo trabalho interno de galeria, notadamente com a flexibilização das regras previstas no art. 126 da lei de execução penal, quando reconhecido o efetivo cumprimento pelo próprio estabelecimento prisional.
+III - O Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, manteve o entendimento do Juízo da Execução, que asseverou que o reeducando efetivamente exerceu a atividade de "trabalho interno de galeria, devidamente comprovada em atestado de efetivo trabalho, por 36 dias.
+IV - Na hipótese, a desconstituição do entendimento firmado pelo Tribunal local, para abrigar a tese de inidoneidade da comprovação em tela , como pretende a defesa, demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.404.729/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. TRABALHO EXTERNO. AUSÊNCIA DE COMPROVAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou pedido de remição de pena por trabalho externo, sob alegação de ausência de comprovação dos requisitos necessários.
+2. O juízo plantonista e o juízo da execução indeferiram o pedido por falta de documentos comprobatórios, como carteira de trabalho assinada e comprovantes de pagamento.
+3. O Tribunal a quo manteve a decisão, destacando a insuficiência das folhas de ponto e a ausência de evidências concretas de vínculo empregatício e pagamento.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a remição de pena pode ser concedida sem a comprovação formal do vínculo empregatício e do efetivo cumprimento da jornada de trabalho.
+III. Razões de decidir
+5. As instâncias de origem concluíram pela ausência de comprovação da atividade laboral, sendo necessário o revolvimento fático-probatório, o que é incabível em habeas corpus.
+6. A remição de pena requer comprovação de trabalho supervisionado e formalizado, o que não foi demonstrado no caso.
+7. A decisão reafirma que a análise de provas e fatos não pode ser realizada na via estreita do habeas corpus.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "A remição de pena pelo trabalho requer comprovação formal do vínculo empregatício e do efetivo cumprimento da jornada de trabalho, não sendo possível o revolvimento fático-probatório em habeas corpus".
+(AgRg no RCD no HC n. 950.258/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
