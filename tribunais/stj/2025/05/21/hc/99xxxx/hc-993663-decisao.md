@@ -1,0 +1,42 @@
+DECISÃO
+ Trata-se  de  habeas  corpus,  com  pedido de  liminar,  impetrado  em  favor  de  MISAEL RODRIGUES JARDIM,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  no  HC  n.  2067094-57.2025.8.26.0000.
+Consta  dos  autos  que  o  Juízo de primeiro grau decretou a prisão preventiva do  paciente,  pela  suposta  prática  do  crime  de tentativa de homicídio.
+Inconformada,  a  Defesa  impetrou  habeas  corpus  perante  o  Tribunal  de  origem,  que  denegou  a  ordem.
+Neste  writ,  o  impetrante  sustenta que os fatos ocorreram em 28 de setembro de 2024, e que a prisão preventiva foi requerida e deferida em 12 de fevereiro de 2025, após um intervalo de cinco meses dos fatos, mesmo com o paciente se apresentando em todos os momentos.
+ Assevera, ainda, que a prisão preventiva é medida excepcional e que não há requisitos para sua manutenção, pois o paciente não representa perigo à ordem pública, à ordem econômica, à instrução criminal, ou à aplicação da lei penal.
+Alega que houve cerceamento de defesa, pois a denúncia não foi disponibilizada para visualização da defesa, ferindo o princípio do contraditório e ampla defesa.
+Aduz, também, que possui todas as condições pessoais favoráveis para responder o processo em liberdade, ou seja, é réu primário, possui bons antecedentes, residência fixa e emprego lícito.
+Requer,  liminarmente, a expedição de salvo-conduto, evitando a concretização da ameaça ao direito de liberdade do paciente, caso não seja este o entendimento, requer a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 131-134.
+Informações processuais às fls. 140-153.
+É  o  relatório.
+DECIDO.
+De início, pontuo que, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese que sustenta a ocorrência de eventual cerceamento de defesa, uma vez que o tema não foi debatido na Corte de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Quanto à necessidade da prisão preventiva, o Magistrado de primeiro grau, assim se manifestou (fls. 124-125; grifamos):
+ ..  Consta dos autos que o denunciado prestava serviços para a vítima como pedreiro na construção de uma casa.
+Na data dos fatos, o autor foi convidado para um churrasco que a vítima organizou no local em frente à obra, para seus funcionários. No período da tarde, ao término da reunião, quando alguns dos convidados já haviam se retirado, o denunciado exigiu que a vítima lhe pagasse adiantado pelos serviços prestados como pedreiro.
+Diante de tal exigência, a vítima tentou emprestar dinheiro com um vizinho da obra, para pagá-lo, porém, acabou informando a este que somente conseguiria lhe fazer uma transferência via PIX.
+O acusado não aceitou e, por conta disso, discutiu com a vítima e lhe desferiu um soco no rosto, derrubando-a no chão. Ato contínuo, tentou chutar a vítima, porém, foi impedido por Eberton, que tentou conter o agressor. Não satisfeito, o denunciado se armou com uma faca que trazia em sua cintura e desferiu uma estocada na perna esquerda da vítima, que chegou a ser socorrida, mas não resistiu aos ferimentos e veio a óbito.
+Decido.
+Com efeito, nos termos do art. 312 do C.P.P., é cabível a prisão preventiva quando houver necessidade para a garantia da ordem pública, ordem econômica, conveniência da instrução criminal ou para assegurar a aplicação da Lei Penal, sempre que houver prova da existência do crime e indício suficiente de autoria.
+ ..
+Da análise dos elementos constantes dos autos, exsurge-se a materialidade e autoria do crime, pelo que se faz presente o fumus comissi delicti. Há indícios de materialidade e autoria do cometimento do delito de homicídio, conforme os elementos colhidos no curso da investigação e depoimento de testemunha presencial.
+A decretação da prisão preventiva se justifica para garantia da ordem pública e assegurar a aplicação da lei penal. Como se verifica, o denunciado praticou crime grave por motivo fútil e na sequência evadiu-se, chegou em casa, contou ao irmão que "havia matado um cara", pegou as roupas e sumiu. Depois internou-se em comunidade terapêutica para se livrar do cárcere. A prisão se justifica também para evitar fuga do denunciado do distrito da culpa e futura execução da pena, visto que se evadiu do local após o cometimento do delito. Verifico ainda dos autos que o denunciado já possui processo em que não foi localizado. (antecedentes fls. 53).
+Pelos mesmos motivos, as medidas cautelares diversas da prisão, estampadas nos incisos do art. 319, do CPP, revelam-se insuficientes à garantia da ordem pública e aplicação da lei penal. Desse modo, decreto a prisão preventiva de MISAEL RODRIGUES JARDIM nos termos do artigo 312 e 313, I, do Código de Processo Penal, expedindo-se o competente mandado de prisão"
+O Tribunal estadual, corroborando as razões do Magistrado singular, registrou que o paciente deve permanecer segregado preventivamente em razão da ignóbil modus operandi empregado na empreitada delitiva a refletir a gravidade concreta da conduta supostamente por ele praticada e o risco à aplicação da lei penal que a sua liberdade poderia representar.
+Tais circunstâncias justificam a prisão processual do condenado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública
+Nesse sentido:
+A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal. Na hipótese, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi. (RHC n. 158.318/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022; grifamos).
+A jurisprudência desta Corte Superior é firme ao asseverar que, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade concreta da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal) (AgRg no HC 704.584/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/03/2022, DJe 16/03/2022; grifamos).
+"é pacífico o entendimento desta Corte  de  que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020 (AgRg no HC n. 761.951/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
