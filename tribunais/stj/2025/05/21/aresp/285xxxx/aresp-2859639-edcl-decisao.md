@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ALEXANDRE MARCOS OTONI à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+O Código de Processo Civil estabelece, em seu artigo 1.022, que cabem embargos de declaração em face de qualquer decisão judicial para fins de esclarecer obscuridade, eliminar contradição, suprimir ou corrigir erro material.
+In casu, em que pese o respeitável entendimento deste juízo, observa-se claro erro material na decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+A decisão embargada menciona como um dos fundamentos para o não conhecimento do recurso a aplicação da Súmula 735 do STF, que veda o reexame do deferimento ou indeferimento de tutela provisória em recurso extraordinário, argumentando que, por se tratar de uma decisão precária, suscetível de reversão a qualquer momento pela instância a quo, não seria cabível, em regra, o recurso especial para revisar esse tipo de decisão.
+No entanto, a questão em debate não envolve tutela provisória, mas sim uma penhora de bens do embargante, em sede de cumprimento de sentença, mais especificamente, a penhora realizada sobre verbas de natureza alimentar (decorrentes de valores trabalhistas), que são impenhoráveis conforme o artigo 833, IV, do Código de Processo Civil (CPC) e, portanto, não pode ser tratada como uma questão envolvendo tutela provisória.
+O recurso especial interposto não visa o reexame de uma medida cautelar ou de urgência, mas a análise das violações à legislação federal de uma decisão de natureza definitiva, que já analisou a questão substancial do caso.
+Evidente, assim, que aplicou-se de forma equivocada a lógica das tutelas provisórias, que são medidas cautelares, à análise de um direito substancial, no qual se discute a validade e a legalidade de uma penhora sobre valores que são legalmente impenhoráveis, conforme o disposto no artigo 833, IV, do CPC.
+Portanto, a utilização da Súmula 735 do STF configura um erro material, já que a decisão está sendo fundamentada em uma premissa que não se aplica à natureza do pedido, violando, assim, o devido processo legal e o direito de acesso à Justiça, sendo imprescindível a correção do decisum, a fim de assegurar a devida análise dos direitos do embargante (fls. 3.110-3.111).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
