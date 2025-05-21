@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de BRUNO ARAUJO DOS SANTOS - condenado por tráfico de drogas a 5 anos e 10 meses de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 10/25 - Agravo de Execução Penal n. 0705168-96.2025.8.07.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração a detração do período de prisão provisória e recolhimento domiciliar com monitoração eletrônica - na Execução n. 0404124-75.2022.8.07.0015 (fls. 60-67, da Vara de Execuções Penais do Distrito Federal) -, ao argumento de que o apenado ficou cautelarmente recolhido, no bojo da ação penal 0732390-46.2019.8.07.0001, entre 15/9/2019 e 11/12/2019.  ..  Em 7/6/2024, em sede de execução, o juízo da Vara de Execuções das Penas e Medidas Alternativas do Distrito Federal (VEPEMA/DF) reconheceu a prescrição da pretensão executória referente ao processo (fl. 6).
+Sem pedido liminar.
+Ocorre que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Entretanto, há ilegalidade manifesta apta a superar o citado óbice, pois a fundamentação do acórdão hostilizado para indeferimento da detração - não houve absolvição, nem extinção da punibilidade sem a formação de culpa no processo referente ao crime de tráfico, tendo a punibilidade sido extinta pela prescrição da pretensão executória, o que, conforme citado anteriormente, não autoriza a detração em processo diverso (fl. 16) -, em desacordo com o entendimento desta Corte Superior (AgRg no HC n. 738.445/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022).
+Em razão disso, concedo liminarmente a ordem para determinar ao Juízo da execução que faça a detração do período em que o paciente ficou preso preventivamente, de 15/9/2019 a 11/12/2019, e dos 90 dias em que ficou em recolhimento domiciliar, com monitoramento eletrônico, referente à Execução n. 0404124-75.2022.8.07.0015, da Vara de Execuções Penais do Distrito Federal.
+Intime-se o Ministério Público do Distrito Federal e Territórios.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. DETRAÇÃO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. TEMPO DE PRISÃO CAUTELAR EM PROCESSO DIVERSO. EXTINÇÃO DA PUNIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
