@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo no permissivo constitucional, contra acórdão do TRF-5ª, que autorizou a expedição de precatório complementar, incluindo os juros moratórios entre a data da elaboração dos cálculos e a data da expedição do requisitório.
+Em suas razões, a parte recorrente aponta violação dos arts. 223, 505, 507, 1000, parágrafo único, do CPC/2015.
+Contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fls. 1.366/1.367.
+Passo a decidir.
+A pretensão não merece prosperar.
+É que o STJ adequou seu posicionamento para adotar entendimento proferido pelo STF em sede de repercussão geral, segundo o qual "incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório" (RE 579.431/RS, Rel. Min. Marco Aurélio Mello, Tribunal Pleno, julgado em 19/04/2017, DJe, 30/06/2017).
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. JULGAMENTO DO TEMA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL RECONHECIDA. REALINHAMENTO DA JURISPRUDÊNCIA DESTA CORTE. ADEQUAÇÃO AO DECIDIDO PELO STF.
+1. A Corte Especial do STJ, no julgamento do REsp 1.143.677/RS, Rel. Min. Luiz Fux, sob o regime do art. 543-C do CPC/73, adotou entendimento no sentido de que não incidem juros moratórios entre a data da elaboração da conta de liquidação e a do efetivo pagamento do precatório ou da requisição de pequeno valor (RPV).
+2. Ocorre que o Plenário do Supremo Tribunal Federal no julgamento do RE n. 579.431, com repercussão geral reconhecida, realizado na sessão de 19/4/2017, enfrentou essa questão jurídica trazida no presente feito, firmando tese contrária à fixada pela Corte Especial deste STJ, no julgamento do REsp 1.143.677/RS, sob o rito do art. 543-C do CPC/73.
+3. Dessa forma, de rigor a reforma do acórdão embargado para realinhar o entendimento e, nos termos do art. 1040 do CPC/15, fazer a devida adequação ao decidido pelo STF, no sentido de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e da requisição ou do precatório".
+4. Embargos de declaração acolhidos, com efeitos modificativos, para negar provimento ao recurso especial do INSS.
+(EDcl no AgInt nos EDcl no AREsp 946.172/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 27/06/2017) (Grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DE ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RPV. RE 579.431/RS. REPERCUSSÃO GERAL.
+1. Inicialmente, no que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. No mérito, a discussão estabelecida nos autos versa, efetivamente, sobre a incidência dos juros de mora no período compreendido entre a elaboração da conta de liquidação e a expedição do precatório ou da requisição de pequeno valor.
+3. Em que pese a orientação desta Corte, firmada no REsp 1.143.677/RS sob o rito do art. 543-C do Código de Processo Civil, segundo a qual não incidem juros moratórios no período compreendido entre a homologação da conta de liquidação e a requisição de pequeno valor (RPV), deve prevalecer o entendimento do Supremo Tribunal Federal, assentado no julgamento do Recurso Extraordinário 579.431/RS em 19.04.2017, sob o regime da repercussão geral - Tema 96 -, segundo o qual incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição de pequeno valor - RPV ou do precatório.
+4. No caso, o acórdão recorrido encontra-se em sintonia com a novel orientação do Supremo Tribunal Federal.
+5. Recurso Especial não provido.
+(REsp 1.671.032/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 13/09/2017) (Grifos acrescidos).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. SALDO REMANESCENTE. JUROS DE MORA. INCIDÊNCIA ATÉ O DEPÓSITO DA INTEGRALIDADE DA DÍVIDA. COISA JULGADA. OBSERVÂNCIA. PRECEDENTES.
+1. O Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria, fixou tese nos seguintes termos: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório" (RE n. 579.431/RS).
+2. Havendo, porém, determinação para que os juros de mora incidam até o efetivo pagamento, como evidenciado no caso concreto, esta Corte firmou a compreensão de que, em respeito à coisa julgada, deve prevalecer o comando expresso na sentença exeqüenda que determinou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.615.261/RS, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 15/04/2021) (Grifos acrescidos).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INCIDÊNCIA DE JUROS MORATÓRIOS ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E A DA EXPEDIÇÃO DE RPV/PRECATÓRIO. MATÉRIA PACIFICADA EM SEDE DE REPERCUSSÃO GERAL NO SUPREMO TRIBUNAL FEDERAL. RE 579.431/RS. REL. MIN. MARCO AURÉLIO, DJe 30.6.2017. HAVENDO DETERMINAÇÃO PELA INCIDÊNCIA ATÉ O DEPÓSITO DA INTEGRALIDADE DA DÍVIDA, ESTA DEVE PREVALECER EM RESPEITO A COISA JULGADA. AGRAVO INTERNO DO INSS A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 579.431/RS, sob o regime da repercussão geral, consolidou o entendimento de que incidem juros de mora no período compreendido entre a data da realização dos cálculos, expedição de requisição de pagamento e o registro do precatório ou RPV.
+2. Contudo, em havendo determinação expressa para que os juros de mora incidam até o efetivo pagamento, a Corte Especial do STJ pacificou entendimento de que, em face da coisa julgada, deve prevalecer o comando expresso na sentença exequenda que determinou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório. (AgRgEREsp. 1.104.790/RS, Rel. Min. JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe 22.10.2009).
+3. Agravo Interno do INSS a que se nega provimento.
+(AgInt nos EDcl no REsp 1.571.522/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 26/03/2020) (Grifos acrescidos).
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
