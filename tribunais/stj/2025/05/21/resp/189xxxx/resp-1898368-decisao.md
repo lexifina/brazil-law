@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL POTENCIAL POLUIDOR INDÚSTRIA DE CALÇADOS EM COURO INSTRUÇÕES NORMATIVAS DO IBAMA N 11 E 12 DE 2018 PARA EFEITO DE RECOLHIMENTO DA TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL AS EMPRESAS FABRICANTES DE CALÇADOS EM COURO DEVEM SER ENQUADRADAS NO POTENCIAL POLUIDOR MÉDIO TAL COMO PREVISTO NO CÓDIGO 11 DO ANEXO VIII DA LEI N 6938 DE 1981 TENDO EM VISTA A NOVA ORIENTAÇÃO DO IBAMA POR MEIO DAS INSTRUÇÕES NORMATIVAS N 11 E 12 DE 2018
+Os embargos de declaração foram rejeitados.
+Sustenta a parte recorrente, em síntese: i) nulidade por vício de fundamentação quanto à atividade registrada da empresa, também verificada em perícia (art. 1022, II, do CPC/2015); ii) necessidade de enquadramento da empresa como Indústria de Couros e Peles, devido ao uso de couro na fabricação de calçados, o que implica potencial poluidor alto (art. 17-D, § 3º, da Lei n. 6.938/1981); iii) erro no enquadramento da empresa no código de atividade, que deveria ser o código 10, referente à fabricação de artefatos de couro, e não o código 11, referente à indústria exclusivamente têxtil (art. 17-D, § 3º, da Lei n. 6.938/1981); e iv) aplicação incorreta de instruções normativas posteriores aos fatos geradores (art. 6º da Lei de Introdução às Normas do Direito Brasileiro).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Na origem, a Indústria de Calçados Wirth Ltda. ajuizou ação declaratória contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, alegando que suas atividades de fabricação de calçados de couro deveriam ser enquadradas no código 11 do Anexo VIII da Lei n. 10.165/2000, com potencial poluidor médio, e não no código 10, que implica potencial poluidor alto.
+A sentença fundamentou-se no laudo pericial, que atestou que a empresa utiliza couro acabado como matéria-prima, decidindo pela improcedência da demanda e mantendo o enquadramento no código 10. O Tribunal, por sua vez, deu provimento à apelação, considerando as Instruções Normativas n. 11 e 12, de 2018, do IBAMA, que enquadram a fabricação de calçados de couro no código 11, com potencial poluidor médio.
+No recurso especial, está em questão o enquadramento da empresa como Indústria de Couros e Peles, devido ao uso de couro na fabricação de calçados, o que implicaria potencial poluidor alto.
+Com relação à alegada violação aos arts. 489 e 1.022, I e, II, do CPC/2015, considero a matéria prequestionada, pelo que passo à análise do mérito.
+No mérito, a retroação de orientação administrativa a fato ocorrido anteriormente, como admitida pelo acórdão recorrido, não é possível.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. AUTO DE INFRAÇÃO. MULTA. REDUÇÃO. PRINCÍPIO DA RETROATIVIDADE DA LEI MAIS BENÉFICA AFASTADO.
+1. O crédito de natureza administrativa, decorrente do exercício de poder de polícia, deve ser regulado pela lei vigente à época do cometimento da infração. A retroatividade da norma sancionadora mais benéfica ao infrator depende de previsão legal expressa.
+2. Agravo interno não provido (AgInt no AgInt no REsp n. 2.136.927/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AUTO DE INFRAÇÃO. ANTT. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..  V - Evidencia-se que a compreensão do Tribunal de origem, quanto à retroatividade da norma mais benéfica, para redução de multa de natureza administrativa, destoa do entendimento desta Corte Superior, conforme seguintes precedentes: REsp n. 2.103.140/ES, relator Ministro Gurgel de Faria, Primeira Turma, DJe 18/6/2024; AgInt no AREsp n. 1.547.574/SP, Primeira Turma, relator Ministro Gurgel de Faria, DJe 9.12.2021; AgInt no REsp n. 1.954.631/SP, Primeira Turma, relatora Ministra Regina Helena Costa, DJe de 8.10.2021. Em idêntico sentido, confira-se: AREsp n. 2.182.875, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 27/2/2024.
+VI - Com efeito, considerando o cenário consignado no acórdão recorrido, constata-se que o entendimento firmado pelo Tribunal de origem discrepa da jurisprudência desta Corte Superior, merecendo reforma no ponto. O julgado destoa da orientação do STJ, o qual entende ser inaplicável a disciplina jurídica do Código Tributário Nacional, referente à retroatividade de lei mais benéfica (art. 106 do CTN), às multas de natureza administrativa. Como se observa, o acórdão de origem merece reforma, uma vez que devem ser mantidos os valores das penalidades pecuniárias arbitradas pela Administração segundo a legislação vigente à época do cometimento das infrações.
+VII - Correta, portanto, a decisão que deu provimento ao recurso especial.
+VIII - Agravo interno improvido (AgInt no AgInt no AREsp n. 2.550.888/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025).
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MULTA ADMINISTRATIVA. DÍVIDA NÃO TRIBUTÁRIA. INAPLICABILIDADE DO ART. 106, II, DO CTN. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência dominante desta Corte, o art. 106, II, do CTN, que prevê retroatividade da lei mais benéfica, não se aplica às dívidas de natureza jurídica não tributária.
+2. Agravo interno não provido (AgInt nos EDcl no REsp n. 1.417.115/PE, de minha r elatoria, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Isso posto, dou provimento ao recurso especial, para restabelecer a sentença.
+Invertida a sucumbência fixada em segunda instância.
+Intimem-se.
+EMENTA
