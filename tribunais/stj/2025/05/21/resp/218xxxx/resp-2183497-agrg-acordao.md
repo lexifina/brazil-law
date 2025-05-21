@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. IMPUGNAÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL. SAÍDAS TEMPORÁRIAS. MODIFICAÇÕES TRAZIDAS PELA LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. INVIABILIDADE DE APLICAÇÃO AOS CRIMES COMETIDOS ANTES DE SUA VIGÊNCIA. IRRETROATIVDADE DA LEI PENAL MAIS GRAVOSA. RECURSO IMPROVIDO.
+1. A orientação jurisprudencial desta Corte Superior firmou-se no sentido de que as alterações trazidas pela Lei n. 14.843/2024 configuram novatio legis in pejus, por impor restrições à saída temporária e trabalho externo do apenado.
+2. As normas relacionadas à execução são de natureza penal e, enquanto tais, somente podem incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP) (HC n. 926.021, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/8/2024).
+3. Considerando que a recorrente já vinha cumprindo pena por fatos anteriores à referida modificação legislativa, não é possível a aplicação das restrições impostas pela lei posterior (Lei n. 14.843/24) para prejudicá-la.
+4. Agravo regimental não provido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão monocrática de minha lavra que deu provimento ao Recurso Especial para restabelecer a decisão do Juízo das Execuções Criminais que autorizou a fruição de saídas temporárias pela apenada.
+No presente recurso, o Parquet estadual sustenta a necessidade de reforma da decisão, argumentando que a nova legislação de norma processual penal, que deve ser aplicada imediatamente aos atos jurisdicionais praticados durante a sua vigência, independentemente da data da prática da conduta delitiva (e-STJ fl. 134).
+Entende que no que diz respeito ao instituto da saída temporária, pode-se afirmar que o sentenciado, quando dá início ao cumprimento da pena, não adquire, automaticamente, o direito ao benefício em questão, justamente por não se tratar de um direito subjetivo, e sim de um instituto cuja aplicabilidade dependerá da avaliação do juiz, no momento em que aquele atinja condições processuais para o usufruto da benesse (e-STJ fl. 134).
+Defende que não se mostra razoável a manutenção do benefício da saída temporária com base na data do cometimento do crime, pois a norma que dispõe sobre a possibilidade de gozo ou não da benesse tem caráter eminentemente processual e deve ser aferida no momento em que o direito é implementado, ou seja, quando os requisitos são preenchidos pelo apenado (e-STJ fl. 135).
+Afirma, ainda, que não se pode cogitar verificar a implementação dos requisitos atinentes à saída temporária tendo como base a data do cometimento do crime, justamente por não se tratar de um direito objetivo (sujeito à vedação do art. 5º, XL, da CF), e sim de um instituto processual atinente ao processo de execução penal, cuja aplicabilidade deve ser aferida no momento em que o direito é implementado, ou seja, quando os requisitos são preenchidos pelo apenado (e-STJ fl. 138).
+Conclui asseverando que não foram respeitados os limites de aplicabilidade do art. 5º, XL, da CF, uma vez que a decisão agravada deu contornos de lei material a instituto eminentemente procedimental e que, desde 11-4-2024, não mais existe no ordenamento jurídico, de modo que a vedação contida no referido dispositivo não poderia ter sido aplicada para a solução da presente controvérsia (e-STJ fl. 138).
+Pugna, assim, pela reconsideração da decisão monocrática prolatada. Em caso de juízo negativo de retratação, requer o conhecimento e provimento do presente agravo regimental pela Quinta Turma do STJ, para que seja restabelecido o acórdão do Tribunal estadual, indeferido-se o benefício da saída temporária à apenada, com a aplicação, de imediato, das alterações trazidas pela Lei n. 14.843/2024, ainda que por fatos praticados antes de sua vigência (e-STJ fl. 139).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. IMPUGNAÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL. SAÍDAS TEMPORÁRIAS. MODIFICAÇÕES TRAZIDAS PELA LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. INVIABILIDADE DE APLICAÇÃO AOS CRIMES COMETIDOS ANTES DE SUA VIGÊNCIA. IRRETROATIVDADE DA LEI PENAL MAIS GRAVOSA. RECURSO IMPROVIDO.
+1. A orientação jurisprudencial desta Corte Superior firmou-se no sentido de que as alterações trazidas pela Lei n. 14.843/2024 configuram novatio legis in pejus, por impor restrições à saída temporária e trabalho externo do apenado.
+2. As normas relacionadas à execução são de natureza penal e, enquanto tais, somente podem incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP) (HC n. 926.021, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/8/2024).
+3. Considerando que a recorrente já vinha cumprindo pena por fatos anteriores à referida modificação legislativa, não é possível a aplicação das restrições impostas pela lei posterior (Lei n. 14.843/24) para prejudicá-la.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo.
+Entretanto, o recurso não autoriza provimento.
+Observo, inicialmente, que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que "a análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna. Inviável, assim, o exame de ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência reservada à Corte Suprema" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017).
+Não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão agravada, que assim se manifestou sobre a controvérsia:
+Inicialmente, verifica-se que a discussão posta nos presentes autos limita-se a questão de direito intertemporal, qual seja, a perquirir se as alterações e restrições trazidas pela Lei n. 14.843/2024 ao benefício da saída temporária ou à trabalho externo sem vigilância direta são aplicáveis, ou não, aos fatos anteriores e às execuções já em andamento ao tempo de sua publicação.
+No ponto, importante lembrar as normas relacionadas à execução são de natureza penal e, enquanto tais, somente podem incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP) (HC n. 926.021, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/8/2024).
+Em relação às alterações trazidas pela Lei n. 14.843/2024, a orientação jurisprudencial desta Corte Superior firmou-se no sentido de que se trata de novatio legis in pejus, por impor restrições à saída temporária e trabalho externo.
+Nesse sentido, entre outros os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS. BENEFÍCIO CASSADO. FUNDAMENTAÇÃO INIDÔNEA. IMPOSIÇÃO DA LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O advento da Lei n. 14.843/2024 alterou a redação do art. 122, § 2º, da LEP, para proibir a concessão de saída temporária aos condenados por crime hediondo ou praticado mediante violência ou grave ameaça contra a pessoa.
+2. In casu, os delitos pelos quais o apenado foi condenado são anteriores à Lei n. 14.843/2024 e sua aplicação retroativa implica em constrangimento ilegal sanável pela via eleita. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 956.052/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 929.034/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Assim, no caso, considerando que a recorrente já vinha cumprindo pena por fatos anteriores à referida modificação legislativa, não é possível a aplicação das restrições impostas pela lei posterior (Lei n. 14.843/24) para prejudicá-la.
+Por essas razões, dou provimento ao recurso especial para restabelecer a decisão do Juízo das Execuções Criminais.
+Saliento, por pertinente, que esta mesma orientação tem sido adotada em outros julgados desta Corte, como se vê, entre outros, dos seguintes, que cito a título de exemplo:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. APLICAÇÃO RETROATIVA DA LEI N. 14.843/2024. IMPOSSIBILIDADE. NOVATIO LEGIS IN PEJUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Agravo regimental interposto pelo Ministério Público do Estado de Santa Catarina contra decisão monocrática que concedeu ordem de habeas corpus em favor de condenado, impedindo a aplicação retroativa da Lei n. 14.843/2024, que alterou o art. 122 da Lei de Execução Penal para vedar saídas temporárias a condenados por crimes hediondos ou praticados com violência ou grave ameaça.
+2. A questão em discussão consiste em saber se a Lei n. 14.843/2024, que recrudesce a execução da pena ao vedar saídas temporárias, pode ser aplicada retroativamente a condenações ocorridas antes de sua vigência.
+3. A Lei n. 14.843/2024, ao modificar o § 2º do art. 122 da Lei de Execução Penal, torna mais restritiva a execução da pena, vedando saídas temporárias para condenados por crimes hediondos ou cometidos com violência ou grave ameaça.
+4. A aplicação retroativa dessa norma constitui novatio legis in pejus, vedada pela Constituição Federal (art. 5º, XL) e pelo Código Penal (art. 2º).
+5. A jurisprudência do STJ e do STF firmou entendimento de que normas mais gravosas não podem retroagir para prejudicar o executado, conforme a Súmula 471/STJ e precedentes correlatos.
+6. No caso concreto, os crimes pelos quais o paciente foi condenado ocorreram antes da vigência da Lei n. 14.843/2024, o que impede a aplicação retroativa das novas restrições à saída temporária.
+6. Agravo regimental improvido.
+(AgRg no HC n. 952.813/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS. APLICAÇÃO RETROATIVA DE NORMA MAIS GRAVOSA. IMPOSSIBILIDADE. NOVATIO LEGIS IN PEJUS. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Santa Catarina contra decisão que não conheceu do habeas corpus substitutivo, mas concedeu a ordem de ofício para restabelecer decisão do Juízo da Execução Penal que deferiu ao apenado a progressão ao regime semiaberto e o benefício das saídas temporárias, afastando a aplicação retroativa da Lei n. 14.843/2024.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a Lei n. 14.843/2024, que modificou o § 2º do art. 122 da Lei de Execução Penal, recrudescendo as condições para concessão das saídas temporárias, pode ser aplicada retroativamente a fatos anteriores à sua vigência.
+III. Razões de decidir
+3. A Lei n. 14.843/2024, ao alterar o § 2º do art. 122 da Lei de Execução Penal, torna mais gravosa a execução penal, ao vedar a concessão de saídas temporárias para condenados por crimes hediondos ou cometidos com violência ou grave ameaça contra a pessoa.
+4. Em respeito ao princípio constitucional da irretroatividade da lei penal mais gravosa (art. 5º, XL, da Constituição Federal), e à regra do art. 2º do Código Penal, essa norma não pode ser aplicada retroativamente.
+5. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal estabelece que normas de execução penal de natureza mais gravosa, como a prevista no § 2º do art. 122 da LEP, têm caráter material e não meramente procedimental, vedando sua aplicação a fatos anteriores à sua vigência.
+6. No caso concreto, os crimes que fundamentaram a condenação ocorreram antes da entrada em vigor da Lei n. 14.843/2024, razão pela qual não se admite a aplicação retroativa das restrições por ela introduzidas.
+7. O Tribunal de origem equivocou-se ao aplicar de forma imediata a referida norma, violando o princípio da legalidade penal e configurando constrangimento ilegal.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O § 2º do art. 122 da Lei de Execução Penal, com redação dada Lei n. 14.843/2024, torna mais restritiva a execução da pena, restringindo o gozo das saídas temporárias aos condenados por crimes hediondos ou cometido com violência ou grave ameaça à pessoa, não pode ser aplicado retroativamente a fatos ocorridos antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa."
+Dispositivos relevantes citados: CF/1988, art. 5º, XL; CP, art. 2º; LEP, art. 122, § 2º, com redação dada pela Lei n. 14.843/2024.
+Jurisprudência relevante citada: STJ, Súmula 471; RHC n. 200.670/GO, Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/8/2024; HC n. 373.503/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 15/2/2017; STJ, AgRg no REsp n. 2.011.151/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/9/2022.
+(AgRg no HC n. 943.656/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS. LEI Nº 14.843/2024. RESTRIÇÃO DO BENEFÍCIO. LEI PENAL MAIS GRAVOSA. IRRETROATIVIDADE. ART. 5º, XL, DA CONSTITUIÇÃO FEDERAL. NATUREZA MATERIAL DAS NORMAS DE EXECUÇÃO PENAL QUE AFETAM O STATUS LIBERTATIS. PRECEDENTES DO STF. DIREITO REGIDO PELA LEI VIGENTE À ÉPOCA DO FATO. RECURSO DESPROVIDO.
+1. Agravo regimental interposto contra decisão monocrática que concedeu habeas corpus de ofício para restabelecer decisão do Juízo da Execução Penal, que havia deferido saídas temporárias ao apenado, contrariando a Lei nº 14.843/2024.
+2. A questão em discussão consiste em saber se a Lei nº 14.843/2024, que restringe a concessão de saídas temporárias, possui natureza processual, com aplicabilidade imediata, ou material, sujeitando-se ao princípio da irretroatividade da lei penal mais gravosa.
+3. A jurisprudência consolidada, inclusive do Supremo Tribunal Federal, entende que normas de execução penal que impactam o status libertatis do apenado possuem natureza material, sujeitando-se ao princípio da irretroatividade da lei penal mais gravosa.
+4. A saída temporária, embora dependa do preenchimento de requisitos, integra o título executivo do apenado e é regida pela lei vigente à época do fato, não constituindo mera expectativa de direito.
+5. As razões de política criminal e dificuldades administrativas não justificam o afastamento da garantia constitucional da irretroatividade da lei penal mais gravosa.
+6. Agravo desprovido.
+(AgRg no HC n. 961.783/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 11/3/2025.)
+Desse modo, deve ser mantida a decisão agravada pelos seus próprios fundamentos.
+Ante o exposto, nego provimento a este agravo regimental.
+É como voto.
+.
