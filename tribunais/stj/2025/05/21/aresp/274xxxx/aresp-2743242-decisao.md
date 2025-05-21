@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo ESTADO DE SÃO PAULO, com fundamento na incidência  da Súmula  7 do STJ e por não ter sido demonstrada a violação às normas legais apontadas.
+A parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente aponta violação aos arts. 397, parágrafo único, c/c 405 do Código Civil, e art. 240 do CPC/2015, ao argumento de que o acórdão recorrido teria "chancelado a cobrança feita sobre o valor total consubstanciado no documento de dívida de fl. 05", acrescentando que o "valor contido nesse documento  ..  já inclui juros de mora desde a época dos fatos (1989 a 1994) até agosto de 2018" (fl. 184).
+Defende que :
+ ..  a certidão de fls. 14 é excessivamente vaga, e não expõe sequer a taxa de juros utilizada e a data inicial e valor de cada parcela remuneratória que compôs o cálculo, tornando efetivamente impossível verificar se o montante alcançado é o correto!
+Sendo assim, não se trata de um documento dotado de liquidez e certeza, como quer fazer crer a parte contrária, ao pretender seja cobrado exatamente o numerário que ali consta.
+Ora, pela letra do art. 397 do Código Civil, a mora somente é "ex re" quando a obrigação é dotada de LIQUIDEZ - e evidentemente, não se pode considerar como "líquida" a cobrança de um valor arbitrário, o qual não se tem a menor certeza de como foi alcançado (fls. 184-185).
+Contrarrazões apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo , passo à análise do recurso especial.
+O Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+A demanda veio instruída por certidão emitida pelo departamento responsável do Tribunal de Justiça que retrata a situação na qual a Administração assume o inadimplemento e reconhece à parte o direito de receber a "correção monetária" de vencimentos não quitados na época em que deveriam tê-lo sido, ou seja, entre 1989 e 1994.
+A Administração assim agiu com respaldo, inclusive, na Constituição Estadual de 1989, cujo artigo 116, de forma inovadora, reconheceu o direito dos servidores públicos à percepção da correção monetária sobre pagamentos de vencimentos com atraso, de modo a aplacar os prejuízos daí advindos.
+Os critérios adotados pelo juízo de primeiro grau ao tratar da correção monetária e dos juros de mora na sentença estão corretos, devendo ser confirmados.
+Não subsiste a alegação da apelante de que os juros são devidos desde a citação nos termos do art. 1º da Lei nº 4.414/64. Isso, pois, é necessário distinguir entre os juros moratórios que compõem o FAM, anteriores ao julgamento, e os juros moratórios que incidem sobre a condenação de pagar o FAM.
+E, nesse sentido, justamente porque a Administração não pagou determinadas parcelas remuneratórias a seus servidores na data correta, sobre as parcelas não pagas no vencimento incidem juros moratórios. Tais juros moratórios bem como a correção monetária compõem o FAM, cujo valor foi atestado pela própria Administração à fl. 15; por conta de o valor ter sido calculado pela própria Administração, desnecessária a liquidação do julgado. Esses juros moratórios foram calculados até a data da expedição da certidão (agosto/2022), ao passo que os juros moratórios incidentes sobre a condenação são calculados desde a citação. Dessa forma, não ficou caracterizado o anatocismo alegado pelo apelante.
+A alteração da conclusão a que chegou o Tribunal a quo, no sentido de que "é necessário distinguir entre os juros moratórios que compõem o FAM, anteriores ao julgamento, e os juros moratórios que incidem sobre a condenação de pagar o FAM", e que "esses juros moratórios foram calculados até a data da expedição da certidão (agosto/2022), ao passo que os juros moratórios incidentes sobre a condenação são calculados desde a citação", ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
