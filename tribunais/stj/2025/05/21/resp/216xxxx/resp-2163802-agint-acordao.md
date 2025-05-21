@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/05/2025 a 21/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ APLICADA, POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por FTL - FERROVIA TRANSNORDESTINA LOGÍSTICA S.A. contra decisão que não conheceu do recurso especial, assim ementada (fl. 531):
+RECURSO ESPECIAL. ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. POLO ATIVO OCUPADO APENAS PELA FERROVIA TRANSNORDESTINA LOGÍSTICA S. A. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. ACÓRDÃO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em seu agravo interno, às fls. 545/554, a agravante afirma que "as questões debatidas no Recurso Especial foram devidamente pre-questionadas ao longo do litígio, tendo sido inclusive apreciadas em todas as decisões meritórias - não obstante o entendimento equivocado aplicado" (fl. 548).
+Alega que "a presente ação versa sobre patrimônio público federal arrendado à TRANSNORDESTINA LOGÍSTICA S/A, por força do Contrato de Arrendamento de Bens Vinculados à Prestação de Serviço Público de Transporte Ferroviário, em anexo, celebrado entre a então COMPANHIA FERROVIÁRIA DO NORDESTE e a REDE FERROVIÁRIA FEDERAL S/A - RFFSA" (fls. 550).
+Defende que "diante da sucessão legal da RFFSA pela União, inarredável se mostra o deslocamento da competência para a Justiça Federal, conforme entendimento da Primeira Seção do Superior Tribunal de Justiça" (fl. 551).
+Explica que "nos termos da Súmula 365, do STJ, a intervenção da União como sucessora da RFFSA desloca a competência para a Justiça Federal, ainda que a sentença tenha sido proferida por Juízo Estadual" e que "houve a sub-rogação pessoal da REDE FERROVIÁRIA S. A ("RFFSA") pelo DNIT, sendo-lhe transferida a propriedade dos bens móveis e imóveis afetos à utilização da exploração ferroviária" (fl. 552).
+Requer, ao final, a reconsideração da decisão agravada ou a apresentação do feito à julgamento perante a 2ª Turma.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ APLICADA, POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+2. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno em apreço não possui aptidão para ser conhecido.
+O artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, §1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, §2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decisão monocrática de fls. 531/537 , pautou-se em dois fundamentos distintos e autônomos: (i) - o acórdão proferido pelo tribunal de origem foi fundamentado em matéria eminentemente constitucional, o que afasta o cabimento do recurso especial; (ii) - ausência de prequestionamento da matéria perante a Corte de origem, nos termos do que apregoa o enunciado 282 da Súmula do STF.
+Todavia, na órbita do agravo interno, a recorrente não impugnou suficientemente nenhum dos dois fundamentos da decisão monocrática, os quais, à míngua de impugnação minuciosa e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Quanto ao primeiro fundamento do decisum unipessoal (i), segundo o qual não se pode conhecer de recurso especial quando o acórdão impugnado foi fundamentado em matéria eminentemente constitucional, nota-se não ter havido sequer menção a ele no agravo interno, não ocorrendo a mínima tentativa da parte em refutá-lo.
+No que toca ao segundo fundamento da manifestação (ii), nos termos da jurisprudência desta Corte, a parte "para impugnar a falta de prequestionamento, deveria ter se remetido à ratio decidendi a fim de especificar em que trechos haveria debate judicial suficiente acerca do conteúdo de cada um dos dispositivos que o recorrente julga violados" (AgInt no AREsp n. 2.498.984/SC, rel. Min. Herman Benjamin, Segunda Turma, DJe de 4/6/2024), o que não ocorreu na espécie.
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+De fato, "o princípio da dialeticidade impõe à defesa o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos". (AgRg no HC n. 783.172/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 15/2/2023)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
