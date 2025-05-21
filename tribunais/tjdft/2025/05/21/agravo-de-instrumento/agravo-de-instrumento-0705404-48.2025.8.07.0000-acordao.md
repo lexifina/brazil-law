@@ -1,0 +1,120 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0705404-48.2025.8.07.0000AGRAVANTE(S)ANTIMIO ALVES BEZERRA NETOAGRAVADO(S)RAIZEN S.A.RelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº2002175
+
+EMENTA
+
+Civil e processual civil. Agravo de instrumento. Execução de título extrajudicial. Penhora. Imóvel rural. Pequena propriedade rural. Alegação de impenhorabilidade. Condições. Residência no imóvel ou Imóvel trabalhado pela família. Demonstração. Inocorrência. Invocação da salvaguarda endereçada ao bem de família. Inaplicabilidade. Constrição legítima. Agravo desprovido.
+
+I. Caso em exame
+
+1. Cuida-se de agravo de instrumento interposto em face da decisão que, nos autos de ação de execução de título extrajudicial, rejeitara a impugnação  à penhora que formulara o executado almejando a desconstituição do ato constritivo incidente sobre o imóvel rural de sua titularidade, sob o prisma de que não se desincumbira do ônus de comprovar o preenchimento do requisito atinente à exploração familiar do bem ou de que é qualificável como bem de família (CPC, art. 833, VIII; Lei nº 8.009/90, arts. 1º, §1º, e 4º, §2º), mantendo incólume a constrição.
+
+II. Questão em discussão
+
+2. A questão objeto do agravo adstringe-se à apreensão se a pequena propriedade rural penhorada como forma de ser viabilizada a satisfação do crédito objeto de execução de título extrajudicial é expropriável, ou se, eventualmente, encontra-se alcançada pela impenhorabilidade inerente ao bem de família ou à pequena propriedade rural trabalhada pela família.
+
+III. Razões de decidir
+
+3. O imóvel destinado à residência do executado e sua família, sobre o qual detém a condição de proprietário ou titular dos direitos a ele vinculados, qualifica-se comobemdefamília, usufruindo da intangibilidade assegurada pelo artigo 1º da Lei nº 8.009/90 se o débito perseguido não se enquadra nas ressalvas que, como exceção à proteção dispensada, legitimam a elisão da intangibilidade, conforme ressalvado pelo artigo 3º do mesmo instrumento legal.
+
+4. Estando o instituto da impenhorabilidade do bem de família vocacionado a preservar a dignidade do devedor, e não tutelar ou prestigiar a inadimplência, assegurando ao obrigado ao menos local para habitar em companhia da família, salvo as situações excepcionadas, tratando-se de imóvel caracterizado como pequena propriedade rural, pois de área inferior a 4 (quatro) módulos fiscais, apenas é alcançado pela salvaguarda se destinado à residência familiar ou se trabalhado pela família (Lei nº 8.009/90, art, 4º, §2º; CF, art. 5º, XXVI; e CPC, art. 833, VIII)).
+
+5. A despeito de se caracterizar o imóvel penhorado como pequena propriedade rural, não subsistindo elementos a evidenciarem que nele reside o executado ou que sua família nele trabalha, não é alcançado pela impenhorabilidade legalmente assegurada, pois volvida precipuamente a resguardar a dignidade do executado, resguardando-lhe local de moradia, tornando inaplicável a salvaguarda em situação em que não reside no imóvel constrito ou que se destina ao trabalho familiar, defronte a mera arguição de que o explora, tornando-o produtivo, segundo emerge da regulação legal.
+
+IV. Dispositivo
+
+6. Agravo conhecido e desprovido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador CARLOS PIRES SOARES NETO, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 29 de Maio de 2025
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Antimio Alves Bezerra Neto em face de decisão[1] que, nos autos da ação de execução de título extrajudicial manejada em seu desfavor pela agravada – Raízen Combustíveis S/A –, rejeitara a impugnação[2] à penhora que formulara almejando a desconstituição do ato constritivo incidente sobre o imóvel de matrícula nº 5420, registrado perante o Ofício de Registro de Iguatu/CE, sob o prisma de que não se desincumbira do ônus de comprovar o preenchimento do requisito atinente à exploração familiar do bem (CPC, art. 833, VIII), mantendo incólume a constrição. De seu turno, objetiva o agravante, mediante a agregação de efeito suspensivo ao recurso, o sobrestamento do decidido originariamente; e, ao final, sua reforma, eximindo-se o bem individualizado da medida constritiva originariamente determinada.
+
+Como fundamentos aptos a aparelharem a pretensão reformatória que veiculara, argumentara que os elementos probatórios que coligira aos autos originários evidenciariam a exploração da pequena propriedade rural por via do desempenho de atividades de pecuária e agricultura. Nesse contexto, defendera que o imóvel assegura a sua subsistência e a de sua família, despontando-se impenhorável e ensejando a necessidade de ser-lhe outorgada a proteção legalmente conferida. Desta feita, aventara que a constrição fixada ressente-se de lastro, devendo ser afastada e, alfim, infirmada, de forma a ser preservada a intangibilidade do bem em comento.
+
+Consignara que, diante dessas circunstâncias, estando patente a plausibilidade do direito que vindica, a decisão devolvida a reexame figura-se desprovida de sustentação, devendo ser reformada, o que legitima, inclusive, estando a argumentação que alinhara revestida de verossimilhança, a concessão do provimento em sede de antecipação da tutela recursal, sobrestando-se o decisório hostilizado.
+
+Admitido o agravo, o efeito suspensivo vindicado restara indeferido, oportunidade em que fora assinalado prazo à agravada para, querendo, contrariar o recurso[3].
+
+A agravada, devidamente intimada, contrariara o agravo, defendendo, em suma, seu desprovimento[4].
+
+É o relatório.
+
+[1] Processo nº 0729953-32.2019.8.07.0001, Decisão – ID 222265976 (fls. 775/778).
+
+[2] Processo nº 0729953-32.2019.8.07.0001, Impugnação – ID 219734468 (fls. 747/753).
+
+[3] - ID Num. 69236950.
+
+[4] - ID Num. 69729806.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cabível, tempestivo, preparado, subscrito por advogado e corretamente aparelhado, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo.
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Antimio Alves Bezerra Neto em face de decisão que, nos autos da ação de execução de título extrajudicial manejada em seu desfavor pela agravada – Raízen Combustíveis S/A –, rejeitara a impugnação à penhora que formulara almejando a desconstituição do ato constritivo incidente sobre o imóvel de matrícula nº 5420, ora registrado perante o Ofício de Registro de Iguatu/CE, sob o prisma de que não se desincumbira do ônus de comprovar o preenchimento do requisito atinente à exploração familiar do bem (CPC, art. 833, VIII), mantendo incólume a constrição. De seu turno, objetiva o agravante, mediante a agregação de efeito suspensivo ao recurso, o sobrestamento do decidido originariamente; e, ao final, sua reforma, eximindo-se o bem individualizado da medida constritiva originariamente determinada.
+
+Do aduzido depreende-se que o objeto deste recurso cinge-se à aferição da legitimidade e viabilidade de ser penhorado o imóvel particularizado como forma de ser viabilizada a satisfação do crédito que é perseguido pela agravada através do executivo que é manejado em desfavor do agravante. Noutras palavras, o cerne da controvérsia reside na apreensão se a pequena propriedade rural sobre a qual recaíra a constrição é expropriável, ou se, eventualmente, encontra-se alcançada pela impenhorabilidade inerente ao bem de família. Alinhadas essas premissas e emoldurado o objeto do vertente agravo, passo a examinar o mérito recursal.
+
+Inicialmente merece ser assinalado que, conforme se infere dos autos do executivo subjacente, a penhora incidira sobre o imóvel de matrícula nº 5420, consubstanciado em gleba de terras denominada “Sítio Queimadas I”, com área de 22,3 ha (vinte e dois vírgula três hectares), situada no Distrito de Quixoá - Zona Rural do Município de Iguatu/CE[1]. Sustenta o agravante que a supradita pequena propriedade rural se afigura impenhorável, porquanto nela são desenvolvidas atividades de pecuária e agricultura, de modo a garantir seu sustento e o de sua família.
+
+Estabelecidas essas premissas fáticas, ressalta-se que a prova de que o imóvel penhorado qualifica-se como bem de família é eminentemente documental e está afeta ao excutido, adquirindo relevo especial os assentos constantes do fólio real. Demais disso, outros documentos se despontam hábeis a corroborar a qualificação de bem de família – como boletos referentes a energia elétrica e taxas condominiais pertinentes à unidade, haja vista que aptos a positivarem que o bem é destinado à residência do executado e sua entidade familiar. Na hipótese, contudo, vislumbra-se que o recorrente não produzira evidenciara que o imóvel nomeado é habitado e/ou trabalhado por sua família, limitando-se a formular alegações desprovidas de lastro material.
+
+Com efeito, amoldando-se o imóvel ao conceito alusivo a bem de família, usufrui da intangibilidade assegurada pelo artigo 1º da Lei nº 8.009/90[2], inclusive porque não se enquadra o débito, derivado de contrato de confissão de dívida e carta-fiança, perseguido pela agravada nas ressalvas que legitimam a elisão da intangibilidade, conforme ressalvado pelo artigo 3º daquele mesmo instrumento legal. Merece ser destacado que, de acordo com as previsões albergadas pela Lei nº 8.009/90, é prescindível que o imóvel, a ser alcançado pelo benefício da impenhorabilidade, seja o único bem de propriedade do devedor ou que nele resida. Essa lei especial estipulara duas condições para que o imóvel seja considerado impenhorável, a saber: que disponha de natureza residencial e que sirva de moradia para a parte executada e seu núcleo familiar.
+
+Comentando o tema, Ricardo Arcoverde Credie[3] pontua o seguinte: “Todas as residências estão protegidas pela imunidade à penhora, sem que se cogite da sua valia, desde que se configurem como bens de família na forma da Lei nº 8.009, de 1990. Dois os supostos de direito material para que a residência da família não seja apreendida judicialmente: o prédio deve ser residencial e, além, o grupo deverá estar residindo nele efetivamente.” Assim é que, ostentando caráter residencial e nele residindo o executado, compreende-se que está salvaguardado, pois destinado à residência da entidade familiar, a par de que a proteção visa a assegurar o direito à moradia como inerente à dignidade humana.
+
+Outrossim, em se tratando de pequena propriedade rural, a Carta Magna erigira como direito fundamental sua impenhorabilidade para pagamento de débitos decorrentes da atividade produtiva nela desenvolvida, sendo assim definida em lei, desde que trabalhada pela família (CF, art. 5º, XXVI[4]). Essa salvaguarda fora replicada pelo ator legiferante processual no artigo 833, inciso VIII, ao prever que é impenhorável “a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família”, tal como na Lei do Bem de Família (Lei nº 8.009/90), cujo artigo 4º, § 2º, prevê que “quando a residência familiar constituir-se em imóvel rural, a impenhorabilidade restringir-se-á à sede de moradia, com os respectivos bens móveis, e, nos casos do art. 5º, inciso XXVI, da Constituição, à área limitada como pequena propriedade rural.”
+
+A seu turno, a caracterização de pequena propriedade rural, à míngua de previsão específica, dar-se-á por analogia ao estatuído no artigo 4º, inciso II, alínea “a”, da Lei nº 8.629/93, que adota o critério de até 04 (quatro) módulos fiscais para que uma propriedade possa ser enquadrada em aludida qualificação. No caso, de conformidade com informações disponibilizadas na plataforma do Instituto Nacional de Colonização e Reforma Agrária (INCRA)[5], no município de Iguatu/CE um módulo fiscal equivale a 40 ha (quarenta hectares), de molde que, na referida localidade, reputa-se como pequena propriedade rural aquela não ultrapasse 160 ha (cento e sessenta hectares). À vista desse parâmetro, ressoa inexorável que o imóvel alcançado pela excussão efetivamente é passível de ser reputado como pequena propriedade rural.
+
+Todavia, consoante o acentuado, não basta a caracterização quantitativa da área para que incida sobre ela a impenhorabilidade. Além de tal requisito, é indispensável que seja a propriedade rural sede de moradia (Lei nº 8.009/90, art. 4º, § 2º) ou que seja trabalhada pela família (CF, art. 5º, XXVI, e CPC, art. 833, VIII), atributos esses que não foram comprovados pelo agravante, porquanto, do cotejo dos autos do executivo subjacente, não sobejam elementos que indiquem tais circunstâncias. Por oportuno, frisa-se que o fato de não ter havido a avaliação judicial do sítio especificado patenteia que sequer subsistem elementos aptos a subsidiarem a análise acerca da impenhorabilidade da propriedade em testilha. Quanto ao ponto, aliás, verifica-se que o recorrente não cuidara de aparelhar o que deduzira com qualquer documentação hábil a conferir-lhe sustentação.
+
+Dessa constatação deflui a evidência de que o agravante não guarnecera os autos de arcabouço probatório hábil a desqualificar a decisão vergastada, que entendera pela penhorabilidade do bem especificado por não vislumbrar a incidência da proteção legal acobertando-o. No aspecto, restara debitado ao recorrente a incumbência de apresentar provas de que, efetivamente, o imóvel nomeado detém a condição de bem de família, que não pode ser sustentada pela mera argumentação de que explora o imóvel, tornando-o produtivo. Em suma, não se descurara o executado do encargo probatório que lhe ficara afetado frente à invocação da proteção constante no artigo 833, inciso VIII, do estatuto processual civil. Esse é o entendimento há muito estratificado pela egrégia Corte Superior de Justiça, conforme asseguram os arestos adiante ementados:
+
+“PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. PEQUENA PROPRIEDADE RURAL. ALEGAÇÃO DE IMPENHORABILIDADE. ÔNUS DA PROVA DO EXECUTADO DE QUE O BEM CONSTRITO É TRABALHADO PELA FAMÍLIA. AUSÊNCIA DE COMPROVAÇÃO. JULGAMENTO: CPC/2015. 1. Recurso especial interposto em 23/09/2019 e atribuído ao gabinete em 28/10/2020. 2. O propósito recursal consiste em definir sobre qual das partes recai o ônus da prova de que a pequena propriedade rural é trabalhada pela família e se a proteção da impenhorabilidade subsiste mesmo que o imóvel tenha sido dado em garantia hipotecária. 3. Para reconhecer a impenhorabilidade, nos termos do art. 833, VIII, do CPC/2015, é imperiosa a satisfação de dois requisitos, a saber: (i) que o imóvel se qualifique como pequena propriedade rural, nos termos da lei, e (iii) que seja explorado pela família. Até o momento, não há uma lei definindo o que seja pequena propriedade rural para fins de impenhorabilidade. Diante da lacuna legislativa, a jurisprudência tem tomado emprestado o conceito estabelecido na Lei 8.629/1993, a qual regulamenta as normas constitucionais relativas à reforma agrária. Em seu artigo 4ª, II, alínea "a", atualizado pela Lei 13.465/2017, consta que se enquadra como pequena propriedade rural o imóvel rural "de área até quatro módulos fiscais, respeitada a fração mínima de parcelamento". 4. Na vigência do CPC/73, a Terceira Turma já se orientava no sentido de que, para o reconhecimento da impenhorabilidade, o devedor tinha o ônus de comprovar que além de pequena, a propriedade destinava-se à exploração familiar (REsp 492.934/PR; REsp 177.641/RS). Ademais, como regra geral, a parte que alega tem o ônus de demonstrar a veracidade desse fato (art. 373 do CPC/2015) e, sob a ótica da aptidão para produzir essa prova, ao menos abstratamente, é certo que é mais fácil para o devedor demonstrar a veracidade do fato alegado. Demais disso, art. 833, VIII, do CPC/2015 é expresso ao condicionar o reconhecimento da impenhorabilidade da pequena propriedade rural à sua exploração familiar. Isentar o devedor de comprovar a efetiva satisfação desse requisito legal e transferir a prova negativa ao credor importaria em desconsiderar o propósito que orientou a criação dessa norma, o qual, repise-se, consiste em assegurar os meios para a manutenção da subsistência do executado e de sua família. 5. O oferecimento do bem em garantia não afasta a proteção da impenhorabilidade, haja vista que se trata de norma de ordem pública, inafastável pela vontade das partes. Precedentes. 6. A ausência de comprovação, pela parte executada, de que o imóvel penhorado é explorado pela família afasta a incidência da proteção da impenhorabilidade. 7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico e a demonstração da similitude fática entre o acórdão recorrido e os acórdãos paradigmas. 8. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.” (REsp n. 1.913.234/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 8/2/2023, DJe de 7/3/2023.)
+
+“Processo civil. Impenhorabilidade de imóvel rural. Para declarar a impenhorabilidade com fundamento no art. 649, X do CPC, necessária a comprovação de exploração familiar com fim de garantir a subsistência. Precedentes. Recurso conhecido e provido.” (REsp n. 492.934/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2004, DJ de 18/10/2004, p. 266.)
+
+“PENHORA. PROPRIEDADE RURAL. POSSIBILIDADE. ÔNUS DA PROVA. VIOLAÇÃO. ARTIGO 333, I E II, DO CPC. INEXISTÊNCIA - MATÉRIA DE PROVA. SÚMULA 7/STJ. I - O tribunal a quo deu correta interpretação ao artigo 333 e incisos do Código de Processo Civil, pois, se os próprios recorrentes deduziram as razões pelas quais seria de rigor a impenhorabilidade do imóvel rural que possuem, deveriam ter apresentado as provas pertinentes, para respaldar as suas alegações. II - Se, com arrimo no conjunto fático-probatório, o tribunal de origem verificou a ausência dos requisitos indispensáveis para conceder o benefício da impenhorabilidade à propriedade rural dos recorrentes, esta questão não pode ser revista em sede de especial, por incidência do enunciado n.º 7 da Súmula desta Corte. III - O dissídio jurisprudencial, por sua vez, não restou demonstrado, nos moldes exigidos pelo artigo 255 e parágrafos do Regimento Interno desta Corte. Recurso especial não conhecido.” (REsp n. 177.641/RS, relator Ministro Castro Filho, Terceira Turma, julgado em 8/10/2002, DJ de 2/12/2002, p. 303.)
+
+Essa egrégia Casa de Justiça, outrossim, perfilha o mesmo posicionamento, consoante se afere dos julgados adiante sumariados:
+
+“APELAÇÃO. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. IMPENHORABILIDADE. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO DE CRÉDITOS. IMPOSSIBILIDADE. 1. Nos termos dos arts. 1º e 5º da Lei nº 8.009/90, é impenhorável o imóvel residencial da entidade familiar, desde que seja o único bem utilizado para fins de moradia permanente. 2. A pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, é impenhorável, conforme dispõe o art. 833, VIII do CPC. 3. É incabível a compensação entre os honorários advocatícios obtidos na ação de conhecimento e no cumprimento de sentença diante da ausência de identidade de credor e de devedor (art. 368 do Código Civil). 4. Recurso conhecido e não provido. (Acórdão 1246237, 07012967720198070002, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 29/4/2020, publicado no DJE: 13/5/2020. Pág.:  Sem Página Cadastrada.)
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA. BENS OFERECIDOS PARA SUBSTITUIÇÃO. ARTS. 847 E 848, CPC. LIVRES E DESEMBARAÇADOS. AUSÊNCIA DE COMPROVAÇÃO. IMPENHORABILIDADE. ART. 833, CPC. PROPRIEDADE RURAL FAMILIAR. NÃO CARACTERIZAÇÃO. EXISTÊNCIA DE ÔNUS REAL. CONDIÇÃO NÃO PREVISTA. EXCESSO DE PENHORA. NÃO VERIFICADO. RECURSO IMPROVIDO. 1. Agravo de instrumento contra decisão que, em sede de cumprimento de sentença, rejeitou a impugnação à penhora formulada pela devedora, que pretendia a substituição das penhoras realizadas, ou, subsidiariamente, o reconhecimento de que as penhoras são indevidas. 2. Nos termos dos arts. 847 e 848 do CPC, ao executado admite-se o oferecimento de outros bens em substituição à penhora realizada, desde estejam livres e desembaraços, hipótese, contudo, não verificada nos autos. 3. De acordo com o art. 833, VIII, CPC, a pequena propriedade rural, utilizada para a subsistência familiar, é absolutamente impenhorável. Por propriedade rural familiar, entende-se aquela cuja área não supere o módulo rural (art. 4º, II e III, Lei nº 4.504/64). 3.1. In casu, a própria agravante confirma que a área do imóvel rural penhorado supera o módulo rural fixado para a região; em outra ótica, a executada não logrou demonstrar que a atividade exercida na propriedade dirige-se ao sustento familiar. 3.2. O fato de parte do bem estar gravado por ônus real não o torna impenhorável na sua integralidade, uma vez que, para esses casos, não consta condição de impenhorabilidade do rol do art. 833, do CPC. 4. Segundo o art. 831 do CPC, a penhora deverá recair sobre tantos bens quantos bastem para o pagamento integral do débito. 4.1. Ainda que o valor do bem penhorado exceda o montante da execução, não há excesso de penhora quando se tratar do único bem encontrado. 4.2. No caso, não houve excesso de penhora, porquanto esta recaiu sobre os únicos bens encontrados para garantir a totalidade do crédito exequendo; com efeito, esgotadas as tentativas anteriores de satisfação, não pode a executada valer-se de sua própria inércia para lograr a desconstituição das penhoras realizadas. 5. Agrado de instrumento improvido.” (Acórdão 1062415, 07117587020178070000, Relator: JOÃO EGMONT, 2ª Turma Cível, data de julgamento: 22/11/2017, publicado no DJE: 30/11/2017. Pág.:  Sem Página Cadastrada.)
+
+Ante o exposto, aferido que o agravante não se safara do ônus de comprovar que a pequena propriedade rural em evidência está efetivamente acobertada pelo manto da impenhorabilidade, a pretensão que delineara almejando que seja o bem forrado pela intangibilidade assegurada pelo legislador, tornando-se impassível de constrição, não se reveste de substrato material, legitimando que seja mantida a decisão que, refutando a impugnação à medida constritiva sucedida, preservara a penhora que alcançara o imóvel.
+
+Diante dos argumentos alinhados, conheço do agravo de instrumento e nego-lhe provimento, mantendo intacta a decisão arrostada. Custas pelo agravante.
+
+É como voto.
+
+[1] Cadastro de Imóveis Rurais – ID 68804859 (fl. 11); Certidão – ID 68804860 (fls. 12/17).
+
+[2] Lei nº 8.009/90 - “Art. 1º - O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.”
+
+[3] CREDIE, Ricardo Arcoverde. Bem de Família, Ed. Malheiros, 2000. pág. 17.
+
+[4] Constituição Federal - “Art. 5º, XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento.”
+
+[5] INCRA, Índices básicos. Disponível em: https://pro-pgt-incra.estaleiro.serpro.gov.br/pgt/indices-basicos. Acesso em 20 fev. 2025.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
