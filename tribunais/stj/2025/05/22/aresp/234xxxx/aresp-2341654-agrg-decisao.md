@@ -1,0 +1,57 @@
+DECISÃO
+DOUGLAS FERREIRA DE SOUZA interpõe agravo regimental contra a decisão de fls. 480-481, em que a Presidência do STJ não conheceu do agravo em recurso especial, em virtude da Súmula n. 182 do STJ. Segundo a decisão agravada, a defesa não rebateu a Súmula n. 7 do STJ e, portanto, não atendeu a dialeticidade recursal.
+Neste regimental, a parte alega e comprova que, na petição do AREsp, impugnou suficientemente a Súmula n. 7 - óbice indicado pelo Tribunal de origem para inadmitir seu recurso especial. Colacionou trecho do agravo em que sustentou "a análise a respeito da valoração legal da prova apreciada pela decisão impugnada, tendo como base, em abstrato, o valor jurídico do conjunto probatório em contraste com preceito de lei federal, assim como a qualificação jurídica dos fatos aqui discutidos" (fl. 493).
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+O Ministério Público Federal opinou pelo não provimento do regimental (fl. 505).
+Decido.
+I. Admissibilidade - juízo de retratação
+O agravo é tempestivo e impugnou adequadamente os fundamentos da decisão recorrida, razões pelas quais reconsidero a decisão agravada para conhecê-lo.
+O recurso especial, contudo, não comporta conhecimento, pois não preenche todos requisitos constitucionais, legais e regimentais para o seu processamento, conforme evidenciado a seguir.
+II. Contextualização
+O réu foi denunciado pela prática de homicídio culposo no trânsito em decorrência dos fatos assim narrados na inicial acusatória (fls. 4-5):
+Segundo foi apurado, o denunciado, que fazia parte da equipe de RPM e estava acompanhado pelo Sd PM Silvio Roberto Bruno Galindo Bernal, conduzia a motocicleta de prefixo M-21380 com destino à 3a cia do 21 0 BPM/M, pela Avenida Sapopemba, sentido centro-bairro.
+A vítima Leonardo Christino, que trafegava com a motocicleta Honda/POP 100, placas FZK 7963, pela Rua Atalaia Velha, adentrou na Avenida Sapopemba pela direita, também sentido centro-bairro, ultrapassou o veículo Renault/Sandero placas PVM 4520, que era conduzido pelo civil Anderson Adriano Moraes e fez uma curva acentuada à esquerda.
+Concomitantemente, o denunciado, de maneira imprudente e, em desacordo com o Código de Trânsito Brasileiro (art. 32), que proíbe a ultrapassagem em vias com duplo sentido de direção e pista única, ultrapassou diversos veículos pela esquerda, ocasião em que atingiu Leonardo. Em razão da colisão, a vítima caiu ao solo e foi atropelada pelo ônibus de placas FID 0580, conduzido por Johnata Pinheiro França, o qual trafegava no sentido contrário da Avenida. Leonardo não resistiu aos ferimentos e veio à óbito (laudo necroscópico às fls. 88/91).
+Ao fim da instrução, foi absolvido. O Tribunal de origem, a seu turno, julgou procedente a apelação do Ministério Público, a fim de condenar o agente pelo delito previsto no art. 206 do CPM (homicídio culposo) a 1 ano de detenção em regime aberto.
+Nas razões do especial, a defesa apontou a violação do art. 439, "b", do Código de Processo Penal Militar, ao argumento de que a conduta do acusado é atípica, pois "sua ação na condução da motocicleta NÃO inobservou um dever de cuidado objetivo, não houve qualquer conduta descuidada do recorrente" (fl. 436).
+Afirmou que, "Segundo restou demonstrado por todos os depoimentos nos autos, houve culpa exclusiva da vítima no episódio e causa superveniente furtuita que acarretou a morte consistente na chegada do ônibus no outro lado da via" (fl. 437). Aduziu que "a morte da vitima se encontra em causa superveniente relativamente independente, ou seja, foi decorrente do atropelamento de um veículo automotor de grande porte que transitava no outro lado da via" (fl. 437).
+Requereu a absolvição do réu.
+III. Art. 439, "b", do CPPM
+O art. 439, "b", do CPPM determina que o órgão julgador deverá absolver o réu quando o fato não constituir infração penal. No caso em exame, o Tribunal estadual concluiu, fundamentadamente e após a análise das provas pericial, testemunhal e audiovisual, que o ora agravante praticou o crime de homicídio culposo no trânsito, conforme se observa no acórdão (fls. 401-403, grifei):
+Somados, o depoimento de Anderson e o vídeo já mencionado, chega-se à seguinte conclusão:
+- A vitima civil, ainda que iniciando uma tentativa de ultrapassagem (irregular), trafegava em velocidade próxima da que vinham os demais veículos no mesmo sentido de direção (até porque tratava-se de uma motocicleta de baixa cilindrada  109 cm3, com pouco poder de aceleração, contrapondo-se à viatura, uma Honda XRE de 300 cm3);
+- No momento em que a vítima ingressou na Av. Sapopemba, ela não conseguiu visualizar a viatura do recorrido, porque esta vinha mais atrás na mesma via e mesma mão de direção;
+- A vitima, já na Avenida Sapopemba, mas sem sequer imaginar que a viatura do recorrido se aproximava, iniciou uma ultrapassagem proibida sobre os demais veículos que trafegavam na mesma mão de direção, sobre a faixa contínua existente (o chamado "corredor);
+- A viatura do recorrido  e a do seu companheiro de guarnição  transitava em velocidade muito superior à dos demais veículos na mesma mão de direção e já vinha realizando uma ultrapassagem também proibida sobre a faixa contínua existente (também no "corredor), buscando se abrigar da chuva "torrencial" que caía;
+- Por conta da maior velocidade que imprimia a viatura, o recorrido alcançou rapidamente a moto do civil;
+- Em determinado momento, a viatura do recorrido colidiu com a moto da vítima civil, batendo com a parte frontal da viatura na lateral esquerda e traseira da moto do civil, como declarou o civil Anderson e como demonstram as fotos de ambos os veículos  fls. 17, foto nº 13, danos na parte frontal (carenagenn) da viatura - fls. 18, foto nº 15, dano no protetor to manete direito da viatura .
+Essa é a dinâmica do evento, que nem mesmo a perícia conseguiu constatar, quero crer porque, talvez, não tenha tido acesso ao vídeo.
+Estabelecida dinâmica do ocorrido, há que se prosseguir e verificar se há culpa por parte do recorrido sobre o evento morte oriundo do acidente.
+Efetivamente, a vítima teve sua parcela de culpa na colisão com a viatura policial do recorrido. Embora possa se constatar pelas imagens do vídeo que ela ingressou na Avenida Sapopemba com alguma cautela, em seguida tentou realizar uma ultrapassagem proibida num local não permitido (numa via de mão dupla, em local onde havia, inclusive, faixa contínua impeditiva).
+De outro lado, e aqui está o cerne do provimento do recurso ministerial, o recorrido também contribuiu para que a colisão entre as motos  e o atropelamento da vítima pelo ônibus  acontecesse.
+Assim como a vítima realizava ultrapassagem em local proibido, o recorrido  com maior grau de culpa que o civil  trafegava em velocidade incompatível com a via naquele momento, visto que "chovia torrencialmente"; como relataram todas as testemunhas, o trânsito estava mais lento que o normal, "meio parado" como relatou o próprio apelado em interrogatório, por conta da chuva forte e repentina; deveria o militar ter reduzido a velocidade da viatura. Ao contrário, prosseguiu em alta velocidade e vinha, desde o momento em que ele surge no vídeo, ultrapassando todos os demais veículos da via, também em local proibido, sobre a faixa contínua  na linguagem popular: "vinha fazendo o corredor".
+Não fosse suficiente, de acordo com o depoimento da testemunha Anderson, foi a viatura do recorrido que colidiu com a traseira da moto do civil, desestabilizando-o e fazendo-o ir ao solo.
+Se a vítima agiu com culpa, e agiu, não menos culpa teve o recorrido. Aliás, agiu o apelado com muito mais culpa que o civil, visto que vinha ele atrás do civil; e como ele próprio reconheceu: "ele viu o civil à sua frente".
+Trafegava o militar em velocidade incompatível com a via em momento de chuva, pelo simples motivo de procurar abrigo, e realizava ultrapassagem em local proibido. Colidiu com a moto da vítima e ambos foram ao chão. Com a queda, a vítima foi lançada para a mão contrária de direção e, infelizmente, foi atropelada pelo ônibus, vindo a óbito.
+Está perfeitamente delineada a relação de causalidade entre a conduta culposa do recorrido e a morte da vítima.
+Demonstrada, assim, à saciedade, a autoria, a materialidade e, principalmente, a culpa do apelado que contribuiu com o acidente, que consistiu em realizar ultrapassagem em local proibido (faixa contínua de via com mão dupla).
+Embora, como dito, ambos os condutores das motocicletas tenham agido com culpa para a colisão entre os veículos, como bem se sabe, em Direito Penal (e no Direito Penal Militar também) não há "compensação de culpas".
+O recorrido deve arcar com a (ir)responsabilidade de sua conduta.
+Razão pela qual a reforma da r. sentença recorrida e a sua condenação pelo homicídio culposo (na direção de veículo automotor) são medidas de rigor que se impõem.
+Não há como conhecer da pretensão absolutória da defesa, em virtude da Súmula n. 7 do STJ. Deveras, o recurso especial deve apresentar uma questão federal, e não mera irresignação acerca das especificidades da causa decidida pelas instâncias ordinárias, a quem compete a cognição vertical do caderno fático-probatório do processo.
+No caso, a Corte local, após a análise minuciosa das provas dos autos, concluiu que, embora a vítima também haja contribuído para o acidente ao realizar uma ultrapassagem irregular, o réu agiu com grau de culpa significativamente maior, pois conduzia viatura policial em velocidade incompatível com as condições da via  sob forte chuva e trânsito lento  e fazia ultrapassagens em faixa contínua, contrariando normas de trânsito básicas. A imprudência do réu foi evidenciada pela colisão traseira que desestabilizou a moto da vítima, levando-a ao chão e, na sequência, ao atropelamento fatal por um ônibus.
+Segundo registrado no acórdão, a dinâmica do acidente, comprovada por vídeo e testemunhos, confirma que o réu visualizou o ofendido à sua frente, mas ainda assim não adotou conduta defensiva e seguiu em alta velocidade. Diante disso, o nexo causal entre a conduta imprudente do réu e o resultado morte se encontra caracterizado.
+Alterar tal entendimento exigiria reexame das provas, especialmente das imagens, dos depoimentos e dos laudos periciais, o que é vedado por força da Súmula n. 7 do STJ.
+Exemplificativamente:
+ ..
+1. Eventual acolhimento da tese de insuficiência de provas para a absolvição do delito imputado ao agravante depende de aprofundado exame do conteúdo do acervo fático-probatório carreado aos autos, providência não comportada nos estreitos limites cognitivos do recurso especial, a teor do enunciado n. 7 da Súmula desta Corte.
+ ..
+(AgRg no AREsp n. 1.111.267/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 17/12/2018)
+ ..
+2. Tendo o acórdão recorrido considerado suficientes as provas de autoria e materialidade para a condenação do Agravante, infirmar tais fundamentos com o escopo de absolvê-lo por insuficiência probatória é inviável no âmbito desta Corte Superior de Justiça, pois implicaria o reexame fático-probatório, o que atrai o óbice da Súmula n.º 7 desta Corte.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.292.791/DF, Rel. Ministra Laurita Vaz, 6ª T., DJe 26/11/2018)
+IV. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 480-481, a fim de conhecer do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
