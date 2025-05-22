@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE MORORO DA SILVA contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0000561-11.2018.4.03.6002.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para negar seguimento ao recurso especial (fls. 586/594).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o recurso especial ante a incidência da Súmula 83/STJ, uma vez que sobre o tema aplica-se a Súmula 231/STJ.
+A parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harm onia com a atual jurisprudência do Superior Tribunal de Justiça. Ademais, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Na espécie, a parte agravante cingiu-se a sustentar que a Súmula 231/STJ está em discussão na Terceira Seção, o que autorizaria a admissão do recurso especial.
+Contudo, a jurisprudência do STJ, conforme consolidado na Súmula 231, veda a redução da pena abaixo do mínimo legal, mesmo com a aplicação de atenuantes, como a confissão espontânea. A revisão da Súmula 231 está sendo discutida pela Terceira Seção, mas o enunciado continua válido até decisão em contrário (AgRg no AREsp n. 2.419.566/AL, Ministra Daniela Teixeira, Quinta Turma, DJe 6/11/2024).
+Ademais, esta Corte definiu que a ausência de trânsito em julgado do julgamento de revisão da Súmula n. 231 do STJ não justifica o sobrestamento do feito ou a revisão da pena aplicada, mantendo-se o entendimento consolidado (AgRg no REsp n. 2.112.295/PA, Ministro Messod Azulay Neto, Quinta Turma, DJEN 25/3/2025).
+No mais, a jurisprudência do Superior Tribunal de Justiça, reafirmada no julgamento dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS, mantém a validade da Súmula 231, em conformidade com o entendimento do Supremo Tribunal Federal no Tema 158 da repercussão geral.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. A propósito: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Nesse sentido: AgRg no AREsp n. 2.211.864/PR, da minha relatoria, Sexta Turma, julgado em 17/4/2023, DJe 20/4/2023; e AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Além disso, conforme apontado pelo Ministério Público Federal, a análise das razões do recurso de apelação (fls. 453/457) demonstra que a argumentação defensiva se limitou a postular pela redução da pena de prestação pecuniária.
+Dessa forma, a tentativa de introduzir a alegação de ofensa ao mencionado dispositivo legal apenas em sede de embargos declaratórios configura indevida inovação recursal, vedada pela ocorrência da preclusão consumativa. A matéria deveria ter sido arguida no recurso principal, não sendo admissível sua apresentação posterior.
+O Superior Tribunal de Justiça adverte que a inovação recursal em embargos de declaração é vedada, devido à preclusão consumativa (HC n. 940.682/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 12/11/2024).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL PROCESSUAL PENAL. INOVAÇÃO RECURSAL EM SEDE DE EMBARGOS DE DECLARAÇÃO. INADMISSIBILIDADE. CAUSA DE DIMINUIÇÃO FIXADA EM SEU MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 231/STJ. SÚMULA 83/STJ.
+Agravo em recurso especial não conhecido.
