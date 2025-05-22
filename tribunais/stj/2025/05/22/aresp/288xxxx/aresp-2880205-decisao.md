@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ITALLO MATHEUS RODRIGUES DE ANDRADE contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não admitiu o recurso especial com fundamento na Súmula n. 7, STJ .
+Alega a defesa (fls. 435-446) que a decisão merece reparo, considerando que o recurso manejado não buscou a reanálise de provas, mas, sim, sua revaloração.
+Contraminuta em agravo especial constante das fls. 453-454.
+O Ministério Público Federal ofertou parecer opinando pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (fls. 485-492).
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+Observo, no ponto, que, no que concerne à Súmula n. 7, STJ, embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador.
+A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)" (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023);
+"Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022).
+Deste modo, rever a conclusão a que soberanamente chegou o Tribunal de origem importaria revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7, STJ.
+O Tribunal de Justiça do Distrito Federal e dos Territórios apresentou fundamentada decisão justificando o não acolhimento da tese defensiva, conforme excerto (fls. 355-356):
+"Sustenta a defesa que não há provas suficientes para condenação. Pede, subsidiariamente, seja a conduta desclassificada para o crime do art. 28 da L. 11.343/06.
+Para determinar se a droga se destinava a consumo pessoal, o juiz atenderá à natureza e à quantidade da droga apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente (art. 28, § 2º, L. 11.343/06).
+Após receberem denúncia de tráfico, policiais realizaram campana e filmaram a ação do réu. Pelas imagens é possível vê-lo trocando objetos com três pessoas, em movimento típico de traficância de drogas (IDs 63294430/2). Especificamente, com o usuário abordado, ambos estão sentados em um banco, quando o réu retira sacola branca de sua bermuda, separa a droga e realizam a transação.
+O réu foi flagrado portando quatro porções de maconha fracionadas e embaladas separadamente.
+Ainda que pequenas as porções, as circunstâncias fáticas indicam que o réu trazia consigo as substâncias entorpecentes para fins dedifusão ilícita, o que foi corroborado pelos depoimentos harmônicos dos policiais que monitoravam o local dos fatos, pelo depoimento do usuário na delegacia e pelas filmagens.
+A versão do réu - de que a maconha encontrada em seu poder era para consumo próprio - não merece credibilidade.
+Conquanto o usuário tenha alterado sua versão dos fatos em juízo - negou que comprou a droga e disse que o réu fez cigarro de maconha para fumarem juntos -, na delegacia ele narrou detalhadamente a dinâmica da compra da droga e, em juízo, reconheceu a autenticidade de sua firma no termo de declaração e afirmou que não foi coagido a assiná-lo.
+As circunstâncias fáticas - após denúncia anônima, policiais fizeram campana, visualizaram e filmaram o réu vendendo drogas, abordaram-no junto com usuário, sendo que ambos portavam porções fracionadas de drogas - indicam que o réu vendeu e trazia consigo droga para fins de difusão ilícita.
+Ressalte-se que o fato de o réu ser usuário de drogas não o impede de exercer de forma concomitante o tráfico. Uma conduta não exclui a outra. Aliás, não raramente a traficância de drogas se torna ocupação econômica habitual do dependente químico, em razão da facilidade para a mantença do vício e do ganho pecuniário necessário para sustentá-lo.
+Daí porque descabida a absolvição ou desclassificação para o tipo penal do art. 28 da L. 11.343/06."
+Observa-se que houve exaustiva fundamentação por parte do Tribunal de Justiça, não havendo, portanto, que se falar em ilegalidade.
+Deste modo, rever a conclusão a que soberanamente chegou o Tribunal de origem importaria revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7, STJ.
+Por fim, convém acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
