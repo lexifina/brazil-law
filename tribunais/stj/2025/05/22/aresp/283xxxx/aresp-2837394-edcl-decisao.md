@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EVERTON RODRIGUES BATISTA à decisão de fls. 1083/1084, que não conheceu do recurso.
+Sustenta a parte embargante:
+No presente caso, o recorrente foi intimado da decisão que inadmitiu seu recurso especial em 17/10/2024, conforme a intimação disponibilizada no sistema PJe. Assim, o prazo para a interposição do agravo em recurso especial teve início em 18/10/2024, conforme consta na intimação abaixo:
+ ..
+Verifica-se que a intimação foi extraída diretamente do sistema PJe, no qual é possível identificar o número do processo e as partes envolvidas. O próprio sistema do PJe estabelece como prazo fatal para a interposição do recurso o dia 11/11/2024, considerando os feriados forenses ocorridos entre os dias 31 de outubro, 1 e 2 de novembro de 2024 no Tribunal de Justiça do Distrito Federal e Territórios.
+O dia 31 de outubro de 2024 foi considerado feriado na Justiça do Distrito Federal e Territórios em razão do Dia do Servidor Público, conforme disposto na Portaria Conjunta 112/2024. Já os dias 1 e 2 de novembro de 2024 foram instituídos como feriados forenses, nos termos do artigo 60 da Lei nº 11.697/2008, nos termos da portaria em anexo.
+Portanto, a decisão foi publicada em 17/10/2024, e o prazo para a interposição do recurso é de 15 dias úteis. Considerando os feriados forenses nos dias 31 de outubro, 1 e 2 de novembro, o prazo para interposição do recurso se estendeu até 11/11/2024, data em que o recorrente apresentou seu recurso, tornando-o, assim, tempestivo.
+Tais informações inclusive já foram trazidas aos autos, uma vez que a parte recorrente foi intimada a comprovar a tempestividade de seu recurso, o que foi formalmente abordado na petição às fls. 1.074/1.078 (fls. 1090/1091).
+ ..
+A parte tem se valido de dados fornecidos pelo próprio Judiciário, uma vez que os sites dos Tribunais, por meio da internet, constituem a principal fonte de informação para os advogados acompanharem os trâmites processuais e as atualizações sobre os calendários do Judiciário.
+Dessa forma, fica evidenciada a tempestividade do recurso, uma vez que foi interposto dentro do prazo legal, levando em consideração os feriados locais e em conformidade com a indicação do sistema eletrônico do próprio Tribunal (fl. 1092).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada que agora se repete, a parte recorrente foi intimada da decisão agravada em 17.10.2024, sendo o Agravo somente interposto em 11.11.2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942 /SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+No entanto, quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu na vigência da nova redação do mencionado artigo, a parte foi intimada, no STJ, para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual. Porém, não comprovou, tendo em vista que a petição de fls. 1074/1077 não foi suficiente para afastar a intempestividade.
+Observe-se que a parte, às fls. 1047/1077, não trouxe nenhum documento apto para comprovar a tempestividade do recurso.
+Não se desconhece do entendimento de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, Rel. Ministra LAURITA VAZ, Corte Especial, DJe 21.03.2022)
+Todavia, devem ser apresentados documentos aptos a comprovar a tempestividade do recurso, não servindo prints de tela ou imagens de páginas extraídas da internet e inseridas na petição, como pretende a parte.
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.)
+Mesmo porque o sistema do Tribunal a quo considera para a contagem dos prazos processuais as suspensões ocorridas naquela corte, que no caso, devem sempre ser comprovadas pela parte recorrente quando da apresentação dos recursos para este Superior Tribunal de Justiça, nos termos do que preceitua o art. 1.006, § 3º do CPC.
+No mais, é certo que o feriado da justiça federal de 1º.11.2024 e o feriado nacional de 2.11.2024 não precisam ser comprovados. Porém, o dia 31.10.2024 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento oportuno, o que não ocorreu.
+No caso, o print colacionado à fl. 1076 não é suficiente para afastar a intempestividade do recurso.
+A propósito: AgInt nos EDcl no AREsp n. 2.101.676/MG, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 15.12.2022; AgInt no REsp n. 1.987.950/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1.12.2022; AgRg no AREsp n. 2.149.824/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 28.11.2022.
+Dessa forma, os documentos apresentados com os presentes Embargos de Declaração não podem ser conhecidos, em razão da preclusão.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
