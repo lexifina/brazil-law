@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ HENRIQUE MARQUES contra decisão que inadmitiu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal, interposto contra acórdão proferido pela 8ª Turma do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (APELAÇÃO CRIMINAL Nº 5003468-61.2022.4.04.7017/PR).
+O agravante foi condenado pela prática do crime previsto no art. 334-A, § 1º, II, do Código Penal, a 3 (três) anos, 1 (um) mês e 15 (quinze) dias de reclusão, no regime inicial aberto, substituída a pena privativa de liberdade por 2 (duas) penas restritivas de direitos, consistentes em 1 (uma) pena de prestação de serviços à comunidade e 1 (uma) pena de prestação pecuniária no valor de 10 (dez) salários mínimos ao tempo do efetivo pagamento. (e-STJ fls. 638-666).
+O recurso especial alegou ofensa aos arts. 158 e 386, II e VII, do Código de Processo Penal, sustentando a nulidade da condenação pela ausência de laudo pericial que comprovasse a origem estrangeira da mercadoria apreendida. (e-STJ fls. 759-776).
+A Vice-Presidência do TRF4 inadmitiu o recurso especial, ao fundamento de que o acolhimento das teses recursais exigiria reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ. (e-STJ fls. 794-796)
+No presente agravo, o recorrente insiste que a matéria é de direito e que a ausência de prova pericial compromete a materialidade do crime, o que poderia ser aferido sem revolvimento probatório. (e-STJ fls. 804-810).
+Contrarrazões apresentadas. (e-STJ fls. 814-819).
+O agravo não foi recebido pela decisão da d. Presidência desta Corte. (e-STJ fls. 824-825), todavia, após a interposição de agravo regimental (e-STJ fls. 829-833), a decisão foi reconsiderada. (e-STJ fl. 836).
+Parecer do Ministério Público Federal pelo não provimento do agravo. (e-STJ fls. 847-849).
+É o relatório. Decido.
+Conheço do agravo em recurso especial, porquanto impugnou adequadamente o óbice sumular aplicado pelo Tribunal de origem. Todavia, o recurso especial não pode ser conhecido.
+Quanto à Alegação de Violação ao Artigo 158 do CPP.
+A pretensão recursal não merece conhecimento.
+O recorrente argumenta que a ausência de perícia técnica para comprovar a origem estrangeira dos camarões violaria o disposto no art. 158 do CPP, que determina ser indispensável o exame de corpo de delito nos crimes que deixam vestígios.
+Ocorre que o Tribunal de origem, após minuciosa análise do conjunto probatório, concluiu pela desnecessidade de realização de perícia específica para a comprovação da materialidade delitiva, considerando suficientes os demais elementos de prova constantes dos autos.
+Conforme expressamente consignado no acórdão:
+"Assim, a ausência de perícia para atestar a origem estrangeira do camarão não serve, por si só, para afastar as conclusões neste sentido, que estão embasadas em todo o contexto probatório do local do carregamento, condições do carregamento, tentativa de ocultar a carga de camarões e ausência de nota fiscal." (e-STJ Fl. 654)
+O Tribunal também destacou que:
+"No caso em apreço, não há que se cogitar a violação ao artigo 155 do Código de Processo Penal. É que os principais documentos produzidos na fase inquisitorial são provas irrepetíveis, como o Auto de Apreensão e o Demonstrativo de Crédito Tributário Evadido pela irregular importação." (e-STJ Fl. 654)
+E ainda, no acórdão dos embargos de declaração, a Corte de origem esclareceu:
+"Ademais, nos autos do procedimento administrativo, consta vistoria feita pelo Ministério da Agricultura (evento 1 - PORT_INST_IPL1 - proc. 5001992222021404701), podendo o termo perícias também se referir a este fato." (e-STJ Fl. 750)
+Neste contexto, para alterar as conclusões do acórdão recorrido e acolher a tese de que seria indispensável a realização de perícia técnica específica para comprovar a origem estrangeira dos camarões, seria necessário o reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ademais, o Tribunal de origem fundamentou suficientemente a comprovação da materialidade delitiva, com base em elementos probatórios válidos, reconhecendo que:
+"De acordo com a jurisprudência pacífica do TRF 4ª Região, nos crimes de contrabando e/ou descaminho, a materialidade do fato e a autoria são comprovadas, via de regra, por meio dos documentos elaborados e lavrados pela autoridade competente e responsável pela diligência fiscalizatória por ocasião da apreensão das mercadorias." (e-STJ Fl. 655)
+Não se vislumbra, portanto, a alegada violação ao art. 158 do CPP, uma vez que o acórdão recorrido apresentou fundamentação adequada para demonstrar a suficiência dos elementos probatórios existentes nos autos para a comprovação da materialidade delitiva, cuja revisão demandaria o reexame de fatos e provas, vedado pela Súmula 7/STJ.
+Quanto à Alegação de Violação ao Artigo 386, II e VII, do CPP.
+De igual modo, não merece conhecimento a alegação de violação ao art. 386, incisos II e VII, do CPP.
+A pretensão do recorrente, neste ponto, é obter a absolvição por insuficiência de provas quanto à materialidade e à autoria delitivas. Entretanto, o Tribunal a quo, após análise detalhada do conjunto probatório, concluiu pela existência de provas suficientes para a condenação.
+No que concerne à autoria, o acórdão recorrido apresentou fundamentação clara e robusta:
+"No que diz respeito ao juízo de autoria, há consistência no conjunto probatório em revelar a atuação do réu na prática delitiva, considerando ser o único sócio e administrador da pessoa jurídica SANTINI E MARQUES LTDA (CNPJ 30.405.753/0001-48), empresa que promoveu a importação de camarões de procedência estrangeira sem a documentação comprobatória do registro, análise e autorização dos órgãos sanitários competentes." (e-STJ Fl. 642)
+E prosseguiu afirmando que:
+"Em síntese, toda a ação foi direcionada e comandada pelo acusado, que era patrão do motorista e responsável legal pela empresa, de modo que seu comportamento deve ser analisado sob a ótica da chamada Teoria do Domínio do Fato, na medida em que tinha "o controle final do fato", dominando "finalisticamente o decurso do crime" e decidindo "sobre sua prática, interrupção e circunstâncias ("se", "quando", "onde", "como", etc.)"". (e-STJ Fl.653)
+Quanto à materialidade, além dos excertos já citados, o acórdão destacou:
+"A respeito da materialidade delitiva, comprova-se a partir dos elementos registrados no Inquérito Policial n. 5001992-22.2021.404.7017, especialmente pelos seguintes: Auto de Infração e Apreensão de Mercadorias, Demonstrativo de Créditos Tributários Elididos, fotografias da apreensão e produtos apreendidos (..), declarações do denunciado LUIZ HENRIQUE MARQUES (..) e declarações do proprietário da ATLANTICO COM. IMP. EXP. LTDA." (e-STJ Fl. 638)
+Observa-se, portanto, que o Tribunal de origem formou seu convencimento com base em elementos probatórios concretos e suficientes para embasar a condenação, de modo que a pretensão recursal de absolvição por insuficiência de provas demandaria, inevitavelmente, o reexame do acervo fático-probatório, o que é vedado pela Súmula 7/STJ.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que A revisão das conclusões das instâncias ordinárias sobre a suficiência de provas de materialidade e autoria é vedada em sede de recurso especial, por demandar reexame do conjunto fático-probatório, conforme enunciado na Súmula 7/STJ. (REsp n. 2.030.233/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 20/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+EMENTA
