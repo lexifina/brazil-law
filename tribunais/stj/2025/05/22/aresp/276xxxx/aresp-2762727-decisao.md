@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO DAMACENO BARBOSA SILVA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao recurso (Apelação Criminal nº 1507045-39.2024.8.26.0228).
+Decidiu o tribunal de origem o seguinte:
+"EMENTA: APELAÇÃO CRIMINAL ROUBO CIRCUNSTANCIADO (Artigo 157, parágrafo 2º, incisos II e V, e parágrafo 2º-A, inciso I, do Código Penal) PRELIMINARES: I Nulidade diante da inobservância do artigo 226, do Código de Processo Penal AFASTADA Vítimas não procederam ao reconhecimento, haja vista que estavam encapuzadas durante toda a ação criminosa. II - FALTA DE FUNDAMENTAÇÃO - Inexiste nulidade, caso em que a decisão se encontra suficientemente fundamentada. MÉRITO: ABSOLVIÇÃO IMPOSSIBILIDADE Autoria e materialidade devidamente comprovadas - Provas não deixam dúvidas quanto à ocorrência do delito de roubo. Desclassificação para o delito de furto simples ou furto qualificado privilegiado INVIABILIDADE Grave ameaça devidamente caracterizada com emprego de armas de fogo Seguro depoimento das vítimas na fase Administrativa e em Juízo. Redimensionamento da pena. Aplicação do artigo 68, parágrafo único, do Código Penal Aumento na fração de 2/3 (dois terços). Manutenção do regime inicial fechado Artigo 33, parágrafo 2º, alínea "c", e parágrafo 3º, do Código Penal. Inviável a substituição da pena privativa de liberdade por restritiva de direitos e a concessão da suspensão condicional da pena "Sursis", pois ausentes os requisitos legais. Prequestionamento - Afigura-se desnecessária a abordagem pelo órgão julgador de toda a matéria debatida pela parte, mesmo diante do prequestionamento para efeito de interposição de Recursos. Preliminares afastadas e recurso parcialmente provido."
+Em seu recurso especial, o agravante alegou, com base no art. 105, III, "a", da Constituição Federal, que o acórdão violou as normas contidas nos arts. 155, 156, caput, e 386, inciso V, todos do Código de Processo Penal, sustentando, em síntese, a insuficiência de provas para a condenação (e-STJ fls. 316-322).
+O referido recurso foi inadmitido pelo Tribunal de origem sob o fundamento de que a pretensão de simples reexame da prova não enseja recurso especial, nos termos da Súmula 7/STJ (e-STJ fls. 367-368).
+Em suas razões, o agravante sustenta a necessidade de reforma da decisão que inadmitiu o processamento do recurso especial, argumentando que não há óbice processual para apreciação do reclamo, houve omissão na decisão recorrida, a decisão agravada carece de fundamentação adequada e houve violação ao princípio da inafastabilidade da jurisdição (e-STJ fls. 371-381).
+Contraminuta apresentada (e-STJ fls. 384-389).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 407-409).
+É o relatório.
+Decido.
+Não merece reparo a decisão que inadmitiu o recurso especial.
+De fato, o recurso especial foi inadmitido sob o fundamento de que a pretensão do recorrente exigiria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Embora o agravante tenha interposto o presente recurso contra a decisão denegatória, suas razões não apresentam impugnação específica ao fundamento utilizado para a inadmissão do recurso especial, qual seja, o óbice da Súmula 7/STJ. Em nenhum momento o agravante demonstra, de modo objetivo e direto, por que razão não se aplicaria a referida súmula ao caso concreto, nem aponta qual questão de direito federal poderia ser examinada sem necessidade de revisitar a situação fática.
+Em vez de enfrentar o óbice apontado, o agravante limita-se a apresentar argumentações genéricas sobre o cabimento do recurso, apontando suposta omissão na decisão recorrida, questionando sua fundamentação e invocando princípios constitucionais.
+A propósito, quando o óbice apontado na decisão de inadmissibilidade se refere à incidência da Súmula 7/STJ, caberia ao agravante demonstrar que a controvérsia não demanda reexame de provas, apontando de forma específica como a questão federal poderia ser examinada de plano, sem revolvimento do conjunto fático-probatório. No entanto, isso não ocorreu no caso em tela.
+Nesse contexto, constata-se que o agravo não impugnou especificamente os fundamentos da decisão que inadmitiu o recurso especial, o que atrai a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 121, CAPUT, C/C O ART. 14, II, DO CP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1 - A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+2 - Na hipótese, a parte agravante deixou de infirmar, como ressaltado na decisão monocrática reprochada, de maneira adequada e suficiente, as razões apresentadas pelo egrégio Tribunal de origem para negar trânsito ao recurso especial.
+3 - É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+4 - Agravo regimental desprovido.
+(AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.)
+É entendimento desta Corte Superior, ainda, que "a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa, não bastando aduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecido, por exemplo, a desarmonia do julgado com a jurisprudência da Corte Superior ou ainda a desnecessidade de uma incursão na seara probatória" (AgRg no AREsp n. 425.292/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/9/2014, DJe de 25/9/2014), de modo que a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas, sob pena de incidência da Súmula n. 182/STJ.
+De outro lado, ainda que superado o referido óbice, a pretensão recursal de absolvição por insuficiência de provas demandaria, efetivamente, o reexame do conjunto fático-probatório dos autos, o que não se coaduna com a via eleita, ante o óbice da Súmula 7/STJ.
+De fato, o acórdão recorrido consignou expressamente que "não há qualquer dúvida da participação do recorrente na empreitada criminosa" (e-STJ fl. 290), fundamentando esse entendimento nos depoimentos das vítimas, que "narraram em detalhes a dinâmica dos fatos" (e-STJ fl. 289), bem como nos relatos dos policiais militares responsáveis pela prisão em flagrante do réu.
+Ressalte-se que, consoante a jurisprudência pacífica deste Superior Tribunal de Justiça:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECONHECIMENTO PESSOAL. NULIDADE. PROVAS SUFICIENTES. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu da impetração de habeas corpus, mantendo a condenação do réu. A defesa alega nulidade do reconhecimento pessoal por violação do art. 226 do CPP e ausência de provas suficientes para a condenação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a nulidade do reconhecimento pessoal, realizado em desconformidade com o art. 226 do CPP, compromete a condenação do réu, considerando a existência de outras provas nos autos.
+3. A defesa questiona a atuação da Defensoria Pública, que teria impetrado habeas corpus no STJ ao invés de apresentar o recurso cabível, e alega inércia processual subsequente.
+III. Razões de decidir
+4. No tocante às alegadas nulidades processuais, percebe-se que os temas não foram submetidos a exame da Corte de origem, máxime a alegada nulidade por ausência de defesa, o que obsta o exame dos tema por este Tribunal, sob pena de indevida supressão de instância.
+5. O reconhecimento pessoal, ainda que realizado em desconformidade com o art. 226 do CPP, não invalida a condenação quando há outras provas suficientes nos autos que sustentam a autoria e materialidade delitivas.
+6. A palavra da vítima, especialmente em crimes contra o patrimônio, possui relevante valor probatório quando firme e coerente, sendo corroborada por outros elementos de prova.
+7. A desconstituição da autoria demandaria aprofundamento no exame das provas, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. O reconhecimento pessoal em desconformidade com o art. 226 do CPP não invalida a condenação se há outras provas suficientes. 2. A palavra da vítima, quando firme e coerente, possui relevante valor probatório em crimes contra o patrimônio.".
+Dispositivos relevantes citados: CPP, art. 226."
+(AgRg no HC n. 982.852/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025, negritei.)
+Assim, para modificar o entendimento firmado pelo Tribunal de origem no sentido da existência de provas suficientes da autoria delitiva, seria imperioso o reexame aprofundado dos elementos fático-probatórios constantes dos autos, providência vedada pela Súmula 7/STJ.
+Nesse contexto, percebe-se que o recurso especial encontra óbice intransponível para sua admissão, sendo adequada sua inadmissão pelo Tribunal a quo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+P ublique-se. Intimem-se.
+EMENTA
