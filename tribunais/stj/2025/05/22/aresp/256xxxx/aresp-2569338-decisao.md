@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por WESLEY RODRIGO DE ARAUJO GONCALVES contra  acórdão  do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 157, § 2º, inciso II, e §2º-A, inciso I, do Código Penal, à pena de 11 (onze) anos, 1 (um) mês e 20 (vinte) dias de reclusão, em regime inicial fechado, e 100 (cem) dias-multa, no valor unitário mínimo legal (fls. 322-329).
+O Tribunal de origem, por unanimidade, negou provimento ao apelo defensivo (fls. 515-541).
+A defesa interpôs recurso especial  com  fundamento  no  art.  105,  inciso  III,  alínea  s a e c,  da  Constituição  Federal,  sustentando a  violação aos arts. 226 e 386, incisos V e VII, ambos do Código de Processo Penal. Ao final, requereu a absolvição do recorrente (fls. 544-561).
+O recurso foi inadmitido na origem, diante do óbice da Súmula n. 83, STJ (fls. 573-578).
+Em razões de agravo, a defesa sustentou a existência de divergência no âmbito desta Corte. Postulou pelo provimento do agra vo para o provimento do recurso especial (fls. 592-602).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, subsidiariamente, pelo não provimento do recurso  (fls.  630-637).
+É  o  relatório. DECIDO.
+O agravo em recurso especial é tempestivo e impugnou os argumentos da decisão do Tribunal a quo, razão pela qual deve ser conhecido.
+O recurso especial questiona a legalidade do reconhecimento pessoal realizado, em inquérito, sem as formalidades do art. 226 do Código de Processo Penal, a ensejar a nulidade do feito.
+No HC n. 598.886/SC, a Sexta Turma do STJ deu nova interpretação ao art. 226 do Código de Processo Penal, antes entendido como mera recomendação legislativa. A partir do citado julgamento, posteriormente acompanhado pela Quinta Turma no HC n. 652.284/SC, esta Corte passou a reconhecer o procedimento legal do reconhecimento de pessoas como formalidade essencial à validade do ato.
+O presente caso, porém, trata de situação fática diversa do julgado paradigma.
+Na espécie, o Tribunal de origem, com esteio nos fatos e provas constituídos nos autos, concluiu pela legitimidade do reconhecimento realizado pessoalmente pela vítima e corroborado em juízo.
+Confira-se, a propósito, trecho do acórdão (fl. 518):
+"Pôde a vítima afirmar em Juízo (ID. 20547148) que fora o apelante Wesley Rodrigo de Araújo Gonçalves aquele que saiu correndo, mancando, já sem nada no rosto, momento em que o acusado gesticulou como se tivesse com a arma na cintura, quando então a vítima recuou e ele tomou distância.
+Em seu relato, afirmou tê-lo reconhecido por foto e pessoalmente, além de na própria audiência de instrução e julgamento, momento em que afirmou ter a absoluta certeza de que este participou do assalto que lhe vitimou.
+Neste particular, necessário ressaltar que "2.  4 "Nos crimes patrimoniais como o descrito nestes autos, apalavra da vítima é de extrema relevância, sobretudo quando reforçada pelas demais provas dos autos" (AgRg no AREsp n. 1.250.627/SC, Relator Ministro JORGE MUSSI, Quinta Turma, DJe de 11/5/201)." (AgRg no AREsp n. 2.035.719/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.).
+Assim, além de seu depoimento em juízo corroborar os elementos colhidos na fase inquisitorial, guarda ainda consonância com os demais elementos de prova, como o Boletim de Ocorrência n. 162012/2022 (ID 20545817  Pág. 6 a 8) e até mesmo pelo interrogatório do réu que, embora tenha negado aprática delitiva, afirmou em juízo que tinha uma deficiência na perna, tal como afirmou a vítima existir no acusado.
+Portanto, exsurge extremamente relevante apalavra da vítima no caso concreto, sobretudo ante o grau de certeza por ela apresentado, logrando tal depoimento, a um só tempo, afastar eventual prejuízo decorrente de suposta inobservância do art. 226 do CPP (inocorrente, como se viu na espécie), assim como a alegação de insuficiência probatória para manutenção da condenação."
+Conforme o acórdão recorrido, a vítima descreveu características físicas do agente e apontou indubitavelmente o acusado como sendo o autor do delito, tanto por fotografias quanto pessoalmente.
+Assim, a existência de prévia descrição pela vítima das características físicas específicas do autor do fato, mormente em relação ao fato de que mancava, o que foi corroborado pelo próprio acusado, autoriza o reconhecimento da distinção do caso concreto em relação à alegada nulidade do reconhecimento.
+Neste sentido:
+"AGRAVO REGIMENTAL NO RECUSO ESPECIAL. ROUBO AOS CORREIOS. AUTORIA DELITIVA. RECONHECIMENTO PESSOAL. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Em julgados recentes, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa."
+2. In casu, o Tribunal Regional assentou que as provas dos autos permitem se chegar à conclusão de que o recorrente é um dos autores do crime de roubo, apontando, para tanto, não apenas o reconhecimento realizado pela vítima na fase inquisitiva e ratificado na fase judicial, mas a prévia descrição pela vítima das características físicas do recorrente e da dinâmica dos fatos, deixando induvidosa a autoria delitiva, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, o HC n. 598.886/SC, da relatoria do e. Ministro ROGÉRIO SCHIETTI CRUZ.
+3. A reversão das premissas fáticas das instâncias ordinárias a fim de desconstituir a autoria delitiva, depende de reexame de fatos e provas, o que atrai o óbice da Súmula 7 do STJ.
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 2.104.223/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+Por conseguinte, o Tribunal de origem fixou a autoria delitiva com base nas provas dos autos, incluído o reconhecimento pessoal. Alterar o entendimento do Tribunal acerca da existência de elementos de prova de autoria suficientes importaria vedado reexame fático-probatório, nos termos da Súmula n. 7, STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
