@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de LUIZ HENRIQUE FRANCO BUENO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (Recurso em Sentido Estrito n. 0000066-77.2017.8.14.0952).
+Depreende-se dos autos que o Juízo de primeira instância rejeitou a denúncia por inépcia da inicial "formal e material (falta de justa causa para o exercício da ação penal), na forma do art. 395, I e III, do CPP" (e-STJ fls. 98/105).
+Contra essa decisão o Ministério Público interpôs recurso em sentido estrito, tendo o Tribunal de origem dado provimento para receber a denúncia ofertada com relação ao crime previsto no art. 54 da Lei n. 9.605/1998, nos termos da ementa de e-STJ fls. 208/209:
+RECURSO PENAL EM SENTIDO ESTRITO. ART. 54, CAPUT, DA LEI Nº. 9.605/98. DENÚNCIA DO REJEITADA. PRELIMINAR DE CONHECIMENTO DO RECURSO SUSCITADA EM CONTRARRAZÕES. PLEITO QUE SE CONFUNDE COM O MÉRITO. MÉRITO. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE SE RESGUARDAR O DEVIDO PROCESSO PENAL, A SER EXAURIDO MEDIANTE OS PÁLIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PEÇA ACUSATÓRIA QUE ATENDE, EM SUA INTEIREZA, ÀS EXIGÊNCIAS LEGAIS PREVISTAS NO ARTIGO 41, DO CÓDIGO DE PROCESSO PENAL. RECURSO CONHECIDO E PROVIDO. DECISÃO UNANIME.
+1. A pretensão de não conhecimento do recurso em razão da não impugnação de todo o conteúdo da decisão, veiculada em contrarrazões, confunde-se com o próprio mérito do recurso, tendo em vista que demanda a análise dos fundamentos de fato e de direito que resultaram na decisão de rejeição da denúncia.
+2. O efeito devolutivo inerente a toda e qualquer insurgência recursal, aplicável, portanto, também ao recurso em sentido estrito, encontra limites nas razões expostas pelo recorrente, em respeito ao princípio da dialeticidade que rege os recursos no âmbito processual penal pátrio, por meio do qual se permite o exercício do contraditório pela parte que defende os interesses adversos, garantindo-se, assim, o respeito à cláusula constitucional do devido processo legal.
+2.1. No caso dos autos, a Promotora de Justiça do Meio Ambiente, Patrimônio Cultural, Habitação e Urbanismo, inconformada com decisão prolatada pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Ananindeua, manejou Recurso em Sentido Estrito, com fundamento no artigo 581, inciso I, do Código de Processo Penal, por meio do qual se insurge a respeito do pronunciamento judicial de mérito que rejeitou sumariamente a denúncia, mencionando de forma resumida o seu inconformismo acerca dos fundamentos jurídicos adotados pelo Juízo a quo.
+3. Não há que se falar em inépcia da peça acusatória ou ausência de justa causa, quando esta, além de descrever o fato típico de maneira adequada, permitindo o exercício do contraditório e da ampla defesa, demonstra os indícios de autoria delitiva e a prova de materialidade, consubstanciada em laudo de vistoria de constatação realizado pela Polícia Civil, por meio da Divisão Especializada em Meio Ambiente, subscrita por perito policial, dotado de fé pública.
+4. Recurso conhecido e provido para receber a denúncia ofertada com relação ao crime do art. 54, caput, da Lei nº . 9.605/1998, à unanimidade.
+Daí o presente writ, no qual sustenta a defesa a inépcia da denúncia: "O Ministério Público NADA descreveu sobre condutas, mas, sim, valeu-se de instituto inexistente no sistema processual penal brasileiro, com a intenção de aplicar a LUIZ a abjeta imputação penal objetiva, há muito rechaçada pelo nosso ordenamento jurídico e por esse e. Superior Tribunal de Justiça." (e-STJ fl. 11)
+Sustenta a falta de justa causa, pois "a própria intensidade dos ruídos não passa de uma hipótese, uma crença dos i. policiais e do Ministério Público, posto que a suposta medição teria se dado, segundo os próprios autos, sem a utilização de equipamentos e procedimentos adequados e legalmente exigidos" (e-STJ fl. 20).
+Ainda, afirma que "o único motivo pelo qual foi incluído no polo passivo é o suposto cargo então ocupado na empresa MERCÚRIO, ainda sob uma equivocada aplicação de Princípio inexistente (um desvirtuamento da Teoria da "Responsabilização Objetiva"), que vincularia a responsabilizaçã o de pessoa física, simplesmente replicando o encargo da jurídica, fundamento esse que carece de qualquer respaldo legal " (e-STJ fl. 32).
+Diante dessas considerações, pede "primeiramente, o sobrestamento liminar da Ação Penal originária e, com o julgamento definitivo do writ, a concessão da ordem de Habeas Corpus para, cassando-se o v. Acórdão do e. Tribunal de Justiça do Estado do Pará (Ato Coator - Doc. nº 06), determinar-se o trancamento do referido processo, reconhecendo-se, isolada ou cumulativamente, as patentes (e ilegais) inépcia da denúncia, ausência de justa causa para a ação penal e vedada responsabilização objetiva atribuída ao Paciente" (e-STJ fl. 40).
+Indeferido o pedido liminar.
+Foram prestadas informações.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Consoante bem analisado pelo Tribunal de origem e pelo Ministério Público Federal, não é o caso de trancamento da ação penal. Com efeito, há indícios suficientes de autoria e prova da materialidade dos fatos criminosos, sendo que a avaliação acurada de mérito será realizada no decorrer da instrução criminal .
+Neste mesmo sentido, o precedente desta Corte:
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÕES DE IRREGULARIDADE NO RECONHECIMENTO FOTOGRÁFICO E CERCEAMENTO DE DEFESA. MATÉRIAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. Caso em exame
+1. Recurso ordinário interposto contra acórdão do Tribunal de Justiça da Bahia, que denegou habeas corpus, mantendo a tramitação da ação penal por receptação qualificada, tipificada no art. 180, §1º, do Código Penal.
+2. Fato relevante. Recorrente denunciado por suposta aquisição de veículo produto de crime, utilizado em sua atividade comercial.
+Defesa alega ausência de justa causa para a ação penal, inépcia da denúncia e irregularidade no reconhecimento fotográfico.
+3. As decisões anteriores. Tribunal de origem entendeu que a denúncia atende aos requisitos do art. 41 do Código de Processo Penal, com indícios suficientes de autoria e materialidade delitiva, não havendo constrangimento ilegal a ser reparado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há justa causa para a ação penal, considerando a alegada ausência de elementos mínimos de prova e irregularidades no reconhecimento fotográfico.
+5. A questão em discussão também envolve saber se houve cerceamento de defesa pela ausência de oportunidade para sustentação oral no julgamento do Tribunal de origem.
+III. Razões de decidir
+6. A análise de alegações não submetidas ao Tribunal de origem não é possível, sob pena de supressão de instância, conforme precedentes do STJ.
+7. A denúncia atende aos requisitos legais, narrando de forma clara os fatos criminosos, permitindo o pleno exercício do direito de defesa.
+8. As questões suscitadas pela defesa dizem respeito ao mérito da ação penal, que devem ser esclarecidas ao longo da instrução processual, sendo insuscetíveis de incursão probatória na via do habeas corpus.
+IV. Dispositivo e tese
+9. Recurso parcialmente conhecido e, nessa extensão, desprovido.
+Tese de julgamento: "1. A análise de alegações não submetidas ao Tribunal de origem não é possível, sob pena de supressão de instância.
+2. O recebimento da denúncia que atende aos requisitos do art. 41 do CPP e apresenta indícios suficientes de autoria e materialidade delitiva não configura constrangimento ilegal".
+Dispositivos relevantes citados: CPP, art. 41; CPP, art. 226.
+Jurisprudência relevante citada: STJ, AgRg no HC 818.673/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023; STJ, RHC 76.705/MT, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 15/5/2018, DJe de 23/5/2018.
+(RHC n. 200.957/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025, grifei)
+Quanto à tipicidade da conduta imputada ao paciente , transcrevo trecho do bem lavrado acórdão de fls. 208/230:
+Como se vê, a denúncia descreve satisfatoriamente a prática de fato que, em princípio, amolda-se à figura típica do art. 54 da Lei 9.605/98, pois narra o possível cometimento do ilícito nas dependências do estabelecimento da Sociedade Anônima, bem como a responsabilidade do representante legal da empresa MÉRCURIO ALIMENTOS S/A, ao permitir (por ato de gestão da empresa) ou não impedir (omissão imprópria) o funcionamento de vários aparelhos condicionadores de ar instalados na empresa que emitem ruídos de 71,4 dB (A), níveis muito além do estabelecido como saudável a saúde humana, sendo a validade ou não do referido laudo melhor analisada durante a instrução do processo.
+Quanto à ausência de descrição fática a sustentar a continuidade delitiva indicada na sustentação oral feita pela defesa dos recorridos, averbo que os termos da denúncia indicam que o "ruído" é causado pelo aparelho de ar-condicionado que mantém o frigorífico funcionando, sendo este fato relatado pelo depoimento de testemunhas e pelo laudo de constatação, o que, demonstra o liame necessário para manter os termos da exordial em sua integralidade.
+Mostra-se típica a conduta imputada ao paciente, e o esclarecimento das circunstâncias dar-se-á durante a instrução, não havendo que se falar em trancamento da ação penal.
+Em face do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
