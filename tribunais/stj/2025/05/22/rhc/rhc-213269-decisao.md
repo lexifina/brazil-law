@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por JHOMISON DE OLIVEIRA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2364066-42.2024.8.26.0000).
+Depreende-se dos autos que o recorrente foi condenado definitivamente à pena de 15 anos, 09 meses e 16 dias de reclusão, pela prática dos crimes de tráfico de drogas, furto simples, três furtos qualificados e ameaça em concurso material com resistência, sendo cinco crimes comuns e um equiparado a hediondo.
+A defesa pleiteou perante o juízo da execução a extinção da punibilidade de uma de suas penas pelo integral cumprimento e a progressão de regime, pedidos indeferidos.
+O Tribunal de origem denegou a ordem em julgado assim ementado (fl. 702):
+HABEAS CORPUS. Unificação de penas. Pedido de reconhecimento da declaração da extinção da punibilidade em razão do integral cumprimento das penas. Impossibilidade. Penas unificadas que passam a ser computadas em sua totalidade. Pedido de progressão ao regime semiaberto. Matéria tratada nos autos que apresenta complexidade, exigindo uma análise vedada em sede de habeas corpus. Não pode o presente writ substituir o recurso ordinário, ainda mais quando existe via própria para discussão da matéria, nos termos do artigo 197 da Lei de Execução Penal. Via inadequada. Ação parcialmente conhecida e, na parte conhecida, denegada a ordem.
+A Defesa alega, em síntese, que o recorrente está preso por mais tempo do que determina a lei, pois ele foi condenado apenas em dois processos no regime inicial fechado e ele cumpriu quase a integralidade das penas nesse regime.
+Afirma que nas condenações remanescentes foi fixado regime inicial aberto.
+Requer, liminarmente e no mérito, o provimento do recurso ordinário para declarar a extinção da punibilidade da pena imposta no processo nº 0022166-25.2015.8.26.0576 e conceder a progressão de regime no processo de execução criminal n.º 7008989-89.2017.8.26.0482.
+Pedido de liminar indeferido (fls. 737-738).
+As informações foram prestadas às fls. 744-748 e fls. 749-757.
+O Ministério Público Federal manifestou-se, às fls. 761-767, em parecer assim ementado:
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS DE 06 CONDENAÇÕES. APENADO QUE CUMPRE UM TOTAL DE 15 ANOS, 09 MESES E 16 DIAS DE RECLUSÃO. REGIME FECHADO IMPOSTO NOS TERMOS DO ARTIGO 111 DA LEI DE EXECUÇÃO PENAL. PRETENSÃO DE EXTINÇÃO DA PUNIBILIDADE E CONCESSÃO DE LIBERDADE PELO CUMPRIMENTO INTEGRAL DE DUAS DAS CONDENAÇÕES. DESCABIMENTO. TÉRMINO DA REPRIMENDA UNIFICADA QUE ESTÁ PREVISTO PARA AGOSTO DE 2032. PLEITO DE PROGRESSÃO DE REGIME. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO QUE DEMANDA DILAÇÃO PROBATÓRIA INCOMPATÍVEL COM A VIA ELEITA. ADEMAIS, CONSTA DO ANDAMENTO PROCESSUAL QUE O PLEITO JÁ FOI FORMALIZADO NA ORIGEM E QUE, ANTE A INSUFICIÊNCIA DE ELEMENTOS CONCRETOS QUE INDIQUEM O PREENCHIMENTO DO REQUISITO SUBJETIVO, O JUÍZO DA EXECUÇÃO DETERMINOU A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PARECER PELO NÃO PROVIMENTO DO RECURSO EM HABEAS CORPUS.
+É o relatório. DECIDO.
+Consoante relatado, a defesa pretende a extinção da punibilidade da pena referente a uma ou algumas das condenações e a progressão de regime.
+Para melhor elucidação do tema, confiram-se os fundamentos utilizados pelo julgado impugnado (fls. 703-704):
+Constam das informações e do Boletim Informativo (fls. 444/452 autos originais) que o paciente foi condenado definitivamente à pena de 15 anos, 09 meses e 16 dias de reclusão, pela prática de tráfico de drogas, furto simples, três furtos qualificados e ameaça em concurso material com resistência, sendo cinco crimes comuns e um equiparado a hediondo.
+Em relação ao cumprimento das penas, o paciente foi condenado em quatro processos ao regime aberto e em dois ao regime fechado.
+Em 20 de setembro de 2021, o d. juízo a quo fixou o regime fechado para o cumprimento das penas, nos termos do artigo 111, da Lei de Execução Penal.
+A Defesa alega que o paciente cumpriu a totalidade da pena aplicada em razão dos processos n. 0022166-25.2015.8.26.0576 (furto) e n. 0032542-36.2016.8.26.0576 (tráfico), requerendo, assim, que ele seja colocado em liberdade para o cumprimento de pena dos processos remanescentes.
+É cediço que efetuado somatório, nos termos do artigo 111, da Lei de Execução Penal, as reprimendas devem ser unificadas, ou seja, passam a ser computadas em sua totalidade.
+Assim, realizada a unificação das penas é inviável a extinção da punibilidade, pelo integral cumprimento da pena, referente a uma ou algumas das condenações.
+Portanto, conforme consta do Boletim Informativo, o paciente cumprirá sua reprimenda em 10.08.2032 (fls. 445 autos originais), e não há que se falar em extinção das penas privativas de liberdade conforme requerido pelo impetrante.
+Com efeito, o art. 111, caput e parágrafo único, da Lei n. 7.210/1984, prescreve a soma da pena superveniente como forma de determinação do regime, in verbis:
+"Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime."
+No caso, considerando que o total da pena unificada é superior a 08 anos, foi corretamente imposto o regime fechado, sendo descabida a pretensão de extinção de punibilidade, pelo integral cumprimento da pena, referente a uma ou algumas das condenações, visto que o término da reprimenda unificada está previsto para agosto de 2032.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA PREQUESTIONADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO NÃO CONSTATADA. AFASTAMENTO DA INCIDÊNCIA DAS SÚMULAS 282, 284 E 356/STF. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE DO CRIME MENOS SEVERO. UNIFICAÇÃO DAS PENAS. CÔMPUTO INDIVIDUALIZADO PARA CÁLCULO DA EXTINÇÃO DA PUNIBILIDADE PELO CUMPRIMENTO DA PENA. IMPOSSIBILIDADE.
+1. Considerando que a matéria encontra-se prequestionada, bem como que não se verifica deficiência de fundamentação, fica afastada a incidência das Súmulas 282 e 356/STF e 284/STF.
+2. Em se tratando de unificação de penas, deve-se levar em consideração o somatório das reprimendas para fins de averiguação da extinção da punibilidade pelo cumprimento da pena, por constituir uma única sanção, sendo inadmissível o cômputo individualizado para cada delito.
+3. Agravo regimental provido para conhecer do agravo, mas para negar provimento ao recurso especial.
+(AgRg no AREsp n. 2.000.322/TO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+Quanto ao pedido de progressão de regime, verifica-se que a matéria não foi analisada pelo Tribunal de origem.
+Na realidade, das informações constantes nos autos, à fl. 747, verifica-se que a defesa formalizou pedido de progressão ao regime semiaberto perante o juízo de 1º grau apenas em 17/02/2025, o qual determinou realização prévia de exame criminológico a fim de aferir o requisito subjetivo.
+Portanto, o pedido de progressão ao regime semiaberto ainda está pendente de apreciação perante o juízo de 1º grau.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
