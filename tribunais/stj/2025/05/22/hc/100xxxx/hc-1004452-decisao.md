@@ -1,0 +1,12 @@
+DECISÃO
+GABRIEL DE SOUZA DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 5032721-88.2024.8.21.0010).
+Consta dos autos que o paciente foi condenado a 8 anos de reclusão, em regime fechado, mais multa, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 16, § 1º, IV, da Lei n. 10.826/2003.
+Neste writ, busca a imposição do regime semiaberto para cumprimento da pena.
+Decido.
+Por ocasião do julgamento do HC n. 111.840/ES, realizado em sessão extraordinária do dia 27/6/2012, o Pleno do Supremo Tribunal Federal, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, afastando, assim, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e de outros a eles equiparados.
+Dessa forma, reconhecida a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990, a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade e a natureza de drogas apreendidas), para que, então, seja determinado o regime carcerário que, à luz do disposto no art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006 - se mostre o mais adequado para a prevenção e a repressão do delito perpetrado.
+No caso, a instância de origem entendeu pela imposição do regime fechado "considerando o grau de censurabilidade da conduta, já exposto na definição da pena-base" (fl. 152).
+Logo, apesar de o réu haver sido condenado a reprimenda igual a 8 anos, teve circunstância judicial desfavorável - tanto que a pena-base foi fixada acima do mínimo legal, em razão da "grande quantidade de material apreendido" (fl. 672) -, de modo que o regime inicial fechado é o adequado para a repressão e a prevenção do delito perpetrado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
