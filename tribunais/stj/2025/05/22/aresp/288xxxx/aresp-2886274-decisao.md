@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SPE - BOA VISTA APARECIDA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+DIREITO CIVIL. APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL. DEVOLUÇÃO DE VALORES PAGOS. CLÁUSULA PENAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PARCIALMENTE REFORMADA.
+I. CASO EM EXAME
+1.APELAÇÃO CFVEL INTERPOSTA CONTRA SENTENÇA QUE DECLAROU A RESCISÃO DE CONTRATOS DE COMPRA E VENDA DE IMÓVEIS E CONDENOU A PARTE RÉ Ã RESTITUIÇÃO DOS VALORES PAGOS, COM DEDUÇÃO DE 10% A TÍTULO DE DESPESAS ADMINISTRATIVAS E DE CORRETAGEM. A SENTENÇA FIXOU HONORÁRIOS ADVOCATÍCIOS COM BASE NO VALOR DA CAUSA. A APELANTE PLEITEIA A DECLARAÇÃO DE CULPA EXCLUSIVA DOS COMPRADORES PELA RESCISÃO, APLICAÇÃO DE CLÁUSULA PENAL DE 20% OU, SUBSIDIARIAMENTE, A REDUÇÃO DA MULTA PARA 3,33% E A FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SOBRE O PROVEITO ECONÔMICO.
+II. QUESTÃO EM DISCUSSÃO
+2. A QUESTÃO EM DISCUSSÃO CONSISTE EM (I) SABER SE A RESCISÃO CONTRATUAL DECORRE DA CULPA EXCLUSIVA DOS COMPRADORES; (II) DEFINIR O PERCENTUAL DE RETENÇÃO SOBRE OS VALORES PAGOS, A TÍTULO DE DESPESAS ADMINISTRATIVAS E CORRETAGEM; E (III) DETERMINAR A BASE DE CÁLCULO PARA OS HONORÁRIOS ADVOCATÍCIOS, SE SOBRE O VALOR DA CAUSA OU SOBRE O PROVEITO ECONÔMICO. III. RAZÕES DE DECIDIR
+3. A RESCISÃO CONTRATUAL DECORREU DA INADIMPLÊNCIA DOS COMPRADORES, O QUE AUTORIZA A RETENÇÃO DE PARTE DOS VALORES PAGOS, LIMITADA A 10%, CONFORME ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO.
+4. O PERCENTUAL DE 10% APLICADO PELO JUÍZO DE ORIGEM ESTÁ EM CONSONÂNCIA COM A JURISPRUDÊNCIA, QUE ADMITE RETENÇÕES ENTRE 10% E 25% EM CASOS DE RESCISÃO POR CULPA DO COMPRADOR.
+5. QUANTO AOS HONORÁRIOS ADVOCATÍCIOS, DEVE PREVALECER A BASE DE CÁLCULO SOBRE O PROVEITO ECONÔMICO OBTIDO, CONFORMEPREVISTO NO ART. 85, §2º E §11, DO CPC.
+IV. DISPOSITIVO E TESE
+6. RECURSO PARCIALMENTE PROVIDO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O PROVEITO ECONÔMICO (fls. 392/393).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 421, parágrafo único, do CC, no que concerne à necessidade de manutenção da multa compensatória de 20% sobre os valores pagos pela parte recorrida fixada no contrato de promessa de compra e venda de imóvel, trazendo a seguinte argumentação:
+O acórdão deve ser reformado porque fere o princípio da intervenção mínima e a excepcionalidade da revisão contratual, institutos protegidos pelo art. 421, parágrafo único, do CC. Trata-se de contrato anterior à Lei dos Distratos. Portanto, não acobertado pela mencionada norma.
+Contudo, o contrato está amparado pela jurisprudência do STJ, que considerou como razoáveis as retenções entre 10% e 25% dos valores pagos nas compras e vendas, senão vejamos:
+ ..
+Deve-se sopesar que quando da construção desse entendimento, o Tribunal levou em conta os reflexos nos negócios imobiliários, o que torna indiscutível que os parâmetros atendem às duas pontas envolvidas nesses negócios.
+Sendo assim, não há que se falar em revisão do contrato uma vez que não há qualquer excepcionalidade, visto que o percentual previsto em contrato está em consonância com a jurisprudência do STJ. Com efeito, é defeso ao Tribunal invalidar contratação havida dentro dos limites legais, sob pena de cometer dirigismo, tal qual ocorreu no caso concreto.
+A consequência desse dirigismo excessivo é a sensação de insegurança que o mercado experimenta, pois mesmo quando fixa cláusulas em harmonia com a interpretação dos Tribunais, essas são consideradas inválidas.
+Portanto, o acórdão impugnado não deve prevalecer, uma vez inexistir a excepcionalidade que autoriza a revisão contratual, nos termos do art. 421, parágrafo único, do CC (fls. 400/401).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribu nal a quo se manifestou nos seguintes termos:
+Abstrai-se dos elementos dos autos que é incontroverso que a rescisão contratual foi motivada pela inadimplência dos autores/Compradores, em razão das dificuldades financeiras que inviabilizaram a continuidade do negócio nos termos avençados.
+Sob essa perspectiva, estabelecida a responsabilidade dos autores/Compradores pela rescisão, emerge o direito de retenção pela ré/Vendedora de determinado porcentual sobre a importância paga, como forma de indenizá-la pelos prejuízos e encargos inerentes ao empreendimento.
+O instrumento particular de promessa de compra e venda foi firmado entre as partes. Tal avença previa em caso de inadimplência/rescisão (cláusula terceira), as seguintes deduções: 1) Despesas administrativas de 20% sobre o valor pago pelos compradores; 2) Despesas de comercialização de 5% sobre o valor do contrato.
+Anota-se que a cláusula penal constitui pacto acessório, de natureza pessoal, por meio do qual as partes contratantes, com o objetivo de estimular o integral cumprimento da avença, determinam previamente uma penalidade a ser imposta ao devedor na hipótese de inexecução total ou parcial da obrigação, ou de comprimento desta em tempo e modo diverso do pactuado.
+ ..
+A cláusula penal compensatória, contudo, deve ser fixada em porcentual que não demonstre excessividade, sob pena de causar desequilíbrio contratual, motivo pelo qual pode ser alterado. Isso porque a cláusula de retenção afigura-se como uma forma justa e razoável de indenizar o vendedor pelos prejuízos suportados, notadamente as despesas administrativas, comercialização, corretagem, tributos e taxas incidentes sobre o imóvel, dentre outros.
+Incumbe considerar a aplicação do disposto no artigo 413 do Código Civil, acaso preenchidas as hipóteses previstas no mencionado dispositivo, norma de ordem pública, que prevê:
+ ..
+Ademais, vale pontuar, que a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de permitir retenções, a título de despesas administrativas, nos percentuais entre 10% a 25% do montante pago pelo comprador, quando houver resolução do compromisso de compra e venda por culpa do comprador, como aconteceu na espécie, sendo que a dedução das despesas administrativas, já inclui a despesa de comercialização, sob risco de penalizar os compradores duas vezes pela desistência do negócio.
+ ..
+Nessa linha de raciocínio, com supedâneo no Código de Defesa do Consumidor e nas disposições do artigo 413 do Código Civil, a multa penal deve ser equitativa e deve permitir vantagem razoável ao fornecedor, com intuito de evitar, assim, a abusividade e a ofensa ao equilíbrio contratual.
+Dessarte, levando-se em consideração as especificidades do caso em testilha e tendo em vista que a vendedora ficará com a propriedade do imóvel, podendo renegociá-lo, constata-se que a retenção do percentual em 10% (dez por cento) do montante pago pelos compradores, mostra-se razoável e proporcional, além de permitir a indenização devida à vendedora pelas despesas gerais do rompimento unilateral do contrato, sem lhe ocasionar o enriquecimento sem causa.
+ ..
+Nesse entendimento, merece parcial procedência os pedidos iniciais, para determinar a rescisão contratual, por culpa dos compradores, mediante a restituição dos valores pagos, após a dedução do montante de 10% (dez por cento), a título de despesas administrativas, corrigido monetariamente pelo INPC (índice mais favorável aos consumidores), a partir do desembolso de cada parcela, e juros de mora de 1% ao mês, a partir do trânsito em julgado da decisão (Tema nº 1.002/STJ) (fls. 383/389).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
