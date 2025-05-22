@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS.
+Nas razões (fls. 564/573), alegou que houve violação aos arts. 70, caput, 2ª parte, do Código Penal e 315, § 2º, inciso VI, do Código de Processo Penal e 489, § 1º, inciso VI, c/c o 1.022, parágrafo único, do Código de Processo Civil. Argumentou que o acórdão recorrido, apesar de ter reconhecido o dolo direto quanto a 1 (uma) vítima e o eventual em relação às outras 3 (três), afastou o concurso formal impróprio. Disse que o Tribunal de origem não explicou por que, no caso concreto, não se aplica a orientação deste Superior Tribunal de Justiça que se firmou, segundo expôs, no sentido do recurso especial. Pediu o provimento do recurso para restabelecer a pena aplicada na sentença, que somou todas as penas individualmente infligidas por cada vítima de tentativa de homicídio.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 592/597).
+É o relatório. DECIDO.
+O acórdão recorrido concluiu que, no caso concreto, não houve desígnio autônomo entre as 4 (quatro) tentativas de homicídio e, por isso, afastou o concurso formal impróprio, mantendo-o, porém, na modalidade própria.
+Confira-se o que ficou sintetizado no julgado (fl. 507):
+"Como não ficou devidamente comprovado que o agente protagonizou as quatro tentativas de homicídio com desígnios autônomos e independentes, deve ser aplicada a regra prevista na primeira parte do art. 70 do Código Penal".
+Nessa linha, dissentir desse desfecho demanda reexame de provas, com o afastamento do quadro fático estabelecido pelo acórdão, providência que esbarra na Súmula nº 7, STJ.
+Acrescente-se, no ponto, que, embora a jurisprudência desta Corte aponte que é viável reconhecer desígnio autônomo a partir da modalidade eventual do dolo (AgRg no AREsp n. 2.760.868/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.), isso não dispensa, no caso concreto, a análise do acervo probatório. Pensar de modo diverso reservaria o concurso formal próprio apenas à hipótese de crime culposo, o que não encontra respaldo nas decisões deste Superior Tribunal de Justiça.
+A esse respeito, jugado desta 5ª Turma: "A presença do dolo e a pluralidade de vítimas não impedem a incidência do concurso formal próprio, quando restar incontroverso que os crimes contra vítimas distintas ocorreram no mesmo contexto fático, mediante uma ação" (AgRg no HC n. 686.739/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.).
+Por fim, o julgador não está obrigado a enfrentar, individual e expressamente, todos os argumentos postos pela parte, desde que, na fundamentação empregada, solucione a controvérsia de forma satisfatória.
+Vejamos: "Não há inobservância da norma insculpida no art. 315, § 2º, inc. IV, do CPP quando se colhe da sentença os fundamentos da condenação, não se exigindo do julgador o enfrentamento da totalidade dos argumentos suscitados" (AgRg no REsp n. 2.143.670/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.).
+Assim, na medida em que o acórdão resolveu a discussão que lhe foi submetida, apreciando a prova e concluindo, a partir dela, que não houve desígnio autônomo, não havia necessidade de, pontualmente, indicar por que razão este ou aquele precedente citado não haveria de ser aplicado.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem -se.
+EMENTA
