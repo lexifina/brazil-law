@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por RUBENS NUNES CAMILO, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fls. 225):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ART. 155, § 4º, IV DO CP - ABSOLVIÇÃO POR FALTA DE PROVAS - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - DEPOIMENTOS DOS POLICIAIS E DEMAIS PROVAS SUFICIENTES - PRINCÍPIO DA BAGATELA - INVIABILIDADE - ISENÇÃO DE CUSTAS - IMPOSSIBILIDADE - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO - RECURSO DESPROVIDO. - Presentes a autoria e a materialidade em relação ao furto, mantem-se a condenação. - A palavra dos policiais militares tem especial relevância não podendo a sua credibilidade ser esvaziada apenas em razão de sua função e, inexistindo provas que a contrarie, não há motivo para desacreditá-la, sobremaneira quando ausentes indícios concretos aptos a desaboná-la. - Ausentes os requisitos subjetivos, em face da reincidência do acusado, não se pode falar em princípio da insignificância ou bagatela. - O art. 804 do CPP dispõe que o pagamento das custas é um dos efeitos da condenação, sendo cabível ao Juízo da Execução a análise do pleito. - Deve ser mantida a isenção das custas dada ao acusado na sentença de piso em obediência a impossibilidade de "reformatio in pejus".
+Nas razões do recurso especial (e-STJ fls. 246/254), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 155 e 386, inciso VII, do CPP e do artigo 129, §13, do CP. Sustenta a absolvição por debilidade do acervo probatório, diante da ausência de provas judicializadas.
+Apresentadas contrarrazões (e-STJ fls. 258/260), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 263/264), tendo sido interposto o presente agravo (e-STJ fls. 274/282).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo em recurso especial. (e-STJ fls. 309/312).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de furto qualificado (e-STJ fls. 228/234 ).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
