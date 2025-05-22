@@ -1,0 +1,47 @@
+Trata-se de recurso extraordinário contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região-TRF3, assim ementado:
+
+    CONSTITUCIONAL E ADMINISTRATIVO: FUNCIONÁRIO PÚBLICO. CONVERSÃO DOS VENCIMENTOS EM URV. LEI 8.880/94. PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. ALTERAÇÃO DA DATA-BASE. ARTIGO 168 DA CF/88. DIMINUIÇÃO DE VENCIMENTOS. I - Para efeito de reajuste, a remuneração ou gratificação de audiência dos extintos Juízes classistas está sujeita aos mesmos critérios utilizados em relação aos servidores públicos federais, por expressa disposição da Lei 9.655/98. II - Para os servidores que percebem seus vencimentos no primeiro dia útil, após o dia 20 de cada mês, a conversão utilizando como base de cálculo valores correspondentes ao 10º dia após o recebimento importa num prejuízo correspondente à defasagem causada pela inflação medida naquele período. III - Desde a edição da Lei nº 8.880/94 não existe regramento que impeça a correção do equívoco quanto à conversão dos vencimentos dos autores em URV. E mesmo que esta norma dispusesse de outra forma, a imposição esbarraria no princípio constitucional da irredutibilidade de vencimentos. IV - A partir do julgamento da Medida Cautelar na ADI 2323 (DJ de 20 de abril de 2001), o E. STF reconheceu que o novo plano de salários trazido pela Lei 9.421/96 não produziu elevação real nos vencimentos dos servidores, de forma que a limitação temporal antes determinada pela ADI 1.797-0 deixou de refletir a melhoria nos seus vencimentos. Em razão desse novo posicionamento da alta Corte, os demais Tribunais, em decisões administrativas, concederam a prorrogação do pagamento do percentual reclamado, cujo incorporação definitiva, a teor da decisão proferida pelo Conselho de Administração do Superior Tribunal de Justiça, deu-se somente a partir do mês de outubro de 2000. V - A partir da entrada em vigor da MP 2.180-35/2001, que acrescentou o artigo 1º-F à Lei nº 9.494/97, o percentual obrigatório de juros de mora passou a ser o de 0,5% ao mês. Verifico, no entanto, que a citação no caso em apreço se deu antes da entrada em vigor da MP citada, de forma que o entendimento desta Turma segue orientação da jurisprudência do E. STJ, que determina a fixação dos juros de mora em 1% ao mês, por se tratar de verba alimentar. VI - Tendo em conta o fato de já ter havido o pagamento administrativo por parte de alguns Tribunais, de parte ou de todo o principal relativo ao índice questionado, a cautela impõe que sejam observados eventuais pagamentos, de forma a compensar na hora da liquidação da sentença. VII - Apelação da União Federal improvida. Remessa oficial parcialmente provida. Apelação da autora provida (doc. 17, pp. 8-9 – grifei).
+
+    Os embargos de declaração que se seguiram foram rejeitados (doc. 22).
+
+    Neste recurso extraordinário, fundamentado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação do art. 111, da mesma Carta.
+
+    O recurso merece acolhida.
+
+    Com efeito, no julgamento da Ação Direta de Inconstitucionalidade 1.797/PE, DJ 26/4/2001, o Relator, Ministro Ilmar Galvão, asseverou que:
+
+    Considerando, entretanto, que a resolução impugnada não esclarece os limites temporais abrangidos pela diferença sob enfoque, revela-se oportuno que se lhe dê interpretação conforme à Carta, para o fim de deixar explicitado ser ela devida, aos servidores, de abril de 1994 a dezembro de 1996, e, aos magistrados, de abril de 1994 a janeiro de 1995, posto que, em janeiro de 1997, entrou em vigor a Lei nº 9.421/96 que, ao instituir as carreiras dos servidores do Poder Judiciário, fixou-lhes novos padrões remuneratórios; e, em fevereiro de 1995, os Decretos Legislativos nºs 6 e 7 (DOU de 23.01.95), que estabeleceram novas cifras para a remuneração dos Ministros de Estado e membros do Congresso Nacional, aplicáveis aos Ministros do STF por força da Lei nº 8.448, de 21.07.92, com reflexos sobre toda a magistratura federal (grifei).
+
+    O entendimento proferido na ADI 1.797/PE, no que concerne à limitação temporal do direito aos 11,98%, prevalece em relação aos magistrados, tendo em vista que a orientação assentada no julgamento da ADI 2.323-MC/DF, DJ 31/10/2000, Rel. Min. Ilmar Galvão, e da ADI 2.321-MC/DF, DJe 31/10/2000, Rel. Min. Celso de Mello, modificou apenas o entendimento relativo aos servidores públicos, conforme a jurisprudência desta Corte. Confiram-se, a propósito, os seguintes julgados, entre outros:
+
+    Juízes Classistas aposentados da Justiça do Trabalho: vencimentos: diferença de 11,98% decorrente da conversão em URV: limite temporal. Firme a jurisprudência do STF no sentido de ser devida a inclusão do percentual de 11,98% nos vencimentos dos servidores em decorrência de sua conversão para URV de 1º de março de 1994. (cf. ADIn-MC 2.321, de 25.10.00, Celso e ADIn-MC 2.323, 25.10.00, Galvão). No julgamento da ADIn 1797, Galvão, RTJ 175/1, explicitou o Supremo Tribunal que as diferenças em questão seriam devidas aos servidores, de abril de 1994 a dezembro de 1996, e, aos magistrados, com é o caso, de abril de 1994 a janeiro de 1995; já que em janeiro de 1997 entrou em vigor a L. 9.421/96, que, ao instituir as carreiras dos servidores do Poder Judiciário fixou novos padrões de vencimentos em real; e, em fevereiro de 1995, os Decretos Legislativos ns. 6 e 7, que estipularam novas cifras para a remuneração dos Ministros de Estado e membros do Congresso Nacional, aplicáveis aos Ministros por força da L. 8.448/92, com reflexos sobre toda a magistratura federal” (RE 479.005-AgR/BA, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19/5/2006 – grifei).
+
+    Embargos de declaração em agravo regimental em recurso extraordinário. 2. Efeitos infringentes. Possibilidade. Omissão 3. URV 11,98%. Servidores do Poder Judiciário. Magistrados. Delimitação ao período de abril de 1994 a janeiro de 1995. ADI 1.797. Precedente. 4. Embargos de declaração parcialmente acolhidos. (RE 300.904-AgR-ED/CE, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 15/2/2006).
+
+    EMBARGOS DE DECLARAÇÃO – CARÁTER INFRINGENTE – EXCEPCIONALIDADE – INTIMAÇÃO DA PARTE CONTRÁRIA PARA IMPUGNÁ-LOS – RECOMPOSIÇÃO ESTIPENDIÁRIA PERTINENTE À PARCELA DE 11,98% (CONVERSÃO, EM URV, DOS VALORES EXPRESSOS EM CRUZEIROS REAIS) – INCORPORAÇÃO DESSA PARCELA AO PATRIMÔNIO JURÍDICO DOS AGENTES ESTATAIS – LIMITAÇÃO TEMPORAL, QUANTO AOS JUÍZES CLASSISTAS, NA APLICAÇÃO DE REFERIDO ÍNDICE – POSSIBILIDADE – EMBARGOS DE DECLARAÇÃO RECEBIDOS (RE 428.569-AgR-ED/CE, Rel. Min. Celso de Mello, Segunda Turma, DJ 16/10/2013).
+
+    AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO CONTRA DECISÃO MONOCRÁTICA. ADMINISTRATIVO E CONSTITUCIONAL. LIMITAÇÃO TEMPORAL DO REAJUSTE SALARIAL DE 11,98%. JUÍZES CLASSISTAS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 1.797. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE 658.511-AgR-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 25/2/2014 ).
+
+    Por oportuno, destaco trecho do voto proferido pelo Min. Gilmar Mendes no julgamento do RE 300.904-AgR-ED/CE, da sua relatoria, que bem elucida a questão:
+
+    A embargante alega omissão pelo fato de não ter sido enfrentado pelo acórdão que os embargados são magistrados da Justiça Trabalhista, não se aplicando ao caso a ADI 2.323.
+
+    Razão assiste à embargante, esta Corte ao julgar a ADI 1.797, Rel. Min. Ilmar Galvão, DJ 13.10.02 decidiu:
+
+    Considerando, entretanto, que a decisão impugnada não esclareceu os limites temporais de aplicação da diferença sob enfoque, impõe-se dar-lhe interpretação conforme a Carta, para o fim de deixar explicitado ser ela devida, aos servidores, de abril de 1994 a dezembro de 1996; e, aos magistrados, de abril de 1994 a janeiro de 1995; posto que, em janeiro de 1997, entrou em vigor a Lei n. 9.421/96, que, ao instituir as carreiras dos servidores do Poder Judiciário, fixou novos padrões de vencimentos em real; e, em fevereiro de 1995, os Decretos Legislativos n. 6 e 7 (DOU de 23.1.95), que estipularam novas cifras para a remuneração dos Ministros de Estado e membros do Congresso Nacional, aplicáveis aos Ministros do STF por força da Lei n. 8.448, de 21.7.92, com reflexos sobre toda a magistratura federal.
+
+    Assim, acolho parcialmente os embargos de declaração, tão somente para restringir a incidência do percentual de 11,98%, no período de abril de 1994 a janeiro de 1995, nos termos da jurisprudência desta Corte (...)” (grifei).
+
+    Com esse mesmo raciocínio, cito os seguintes julgados, entre outros: RE 684.870-AgR/SP, DJe 7/2/2013 e RE 725.741/MG, DJe 17/12/2012, Rel. Min. Cármen Lúcia; RE 798.872-AgR/DF, DJe 14/5/2014, Rel. Min. Teori Zavascki; AI 436.150/MG, DJ 6/12/2004, Rel. Min. Joaquim Barbosa; RE 794.368/DF, DJe 24/2/2014, Rel. Min. Rosa Weber.
+
+    Desse modo, não se aplica à recorrida a orientação firmada nas ADIs 2.321-MC/DF e 2.323-MC/DF por ser ela membro da magistratura federal (juíza classista). O entendimento firmado pela ADI 1.797/PE não foi superado no julgamento daquelas ações no que concerne aos magistrados.
+
+    Isso posto, dou provimento ao recurso extraordinário para reconhecer a violação ao que foi decidido na ADI 1797 e, como corolário, cassar o acórdão recorrido, e, assim, restringir a incidência do percentual de 11,98% ao período de abril de 1994 a janeiro de 1995, nos termos da jurisprudência deste Tribunal.
+
+    Publique-se.
+
+    Brasília, 22 de maio de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
