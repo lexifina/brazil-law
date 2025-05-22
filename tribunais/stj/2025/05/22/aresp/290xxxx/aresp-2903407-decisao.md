@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por WILLIAM ALVES FERREIRA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+A parte agravante, às fls. 760-762, sustenta descabimento da Súmula n. 7, STJ no caso em análise, uma vez que os fatos apontados são incontroversos, demandando apenas revaloração jurídica.
+Contraminuta apresentada à fl. 769-770.
+O Ministério Público Federal às fls. 793-796 manifestou-se pelo não conhecimento do agravo.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nada obstante, entendo ser impossível conhecer do recurso com fulcro nas Súmulas n. 7 e 83 deste Superior Tribunal de Justiça.
+Alega o autor violações na dosimetria da pena, uma vez que o vetor culpabilidade teria sido analisado em violação ao princípio do ne bis in idem. Além disso, o patamar da pena aplicado na 1ª fase da dosimetria teria sido diverso de 1/6, havendo, portanto, ilegalidade e aumento desproporcional.
+Em relação à culpabilidade, aduziu o juízo de primeiro grau:
+"O réu agiu com culpabilidade negativa, pois praticou o crime no curso do cumprimento da pena, aproveitando-se de benefícios conferidos pelo juízo da execução penal (execução penal nº 0021429-50.2016.8.07.0015), o que denota maior juízo de reprovabilidade de sua conduta. (fls. 522)."
+Assim, não há que se falar em ilegalidade. Segundo o agravante, o Juízo teria valorado o dolo de forma dúplice, o que não ocorreu no caso. Está patente que a fundamentação é completamente dissociada do dolo do agente, razão pela qual o argumento apresentado não encontra sequer respaldo fático nos autos
+No tocante ao patamar utilizado para majorar a pena na 1ª fase da dosimetria, usou o juízo de 1º grau o valor de 1/8 do intervalo da pena abstratamente cominada (fls. 522).
+Conforme cediço, esta Corte Superior sedimentou entendimento no sentido de
+que, "em relação ao quantum de aumento na primeira fase da dosimetria, "a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito." (AgRg no REsp 143.071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 6/5/2015). Isso significa que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor" (AgRg no HC 919409 / RN, QUINTA TURMA, de minha relatoria, DJe 16/09/2024).
+Nesta ordem de ideias, as referidas frações da exasperação, comumente adotadas por este Tribunal, "não inviabilizam o aumento da pena-base em frações superiores, desde que haja fundamentação apta e suficiente a justificar o incremento da sanção penal" (AgRg no HC 851.355/RJ, SEXTA TURMA, Rel. Ministra Laurita Vaz, DJe de 02/10/2023).
+Com efeito, é pacífica a orientação de que "a dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, cabendo revisão apenas em casos de flagrante ilegalidade ou desproporcionalidade" (AgRg no REsp 1977793 / SP, QUINTA TURMA, de minha relatoria, DJe 20/12/2024). E no que toca à pena-base fixada, há fundamentação concreta para o incremento da sanção penal a partir da discricionariedade motivada do julgador.
+Sendo assim, "uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para reduzir a reprimenda-base estabelecida ao acusado" (AgRg no HC 927292 / ES, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+De mais a mais, o acolhimento da pretensão defensiva depende da incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Ante o exposto, com fundamento no art. 253, II, alínea a, do Regimento Interno do STJ e Súmula 83 do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
