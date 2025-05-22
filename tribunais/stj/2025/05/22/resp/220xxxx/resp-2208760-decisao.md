@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto pelo DISTRITO FEDERAL contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (fls. 128-135), assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL . REDIRECIONAMENTO. INCLUSÃO DOS SÓCIOS. REQUISITOS. NECESSIDADE.
+1. A possibilidade de responsabilização pessoal do sócio pelas dívidas tributárias de sociedade empresária está condicionada à comprovação da ocorrência das hipóteses do art. 135 do Código Tributário Nacional.
+2. A eventual presunção de dissolução irregular da pessoa jurídica não enseja o automático redirecionamento da execução para o seu sócio-gerente, mormente quando a certidão de dívida ativa está endereçada somente para a empresa, e diante da necessidade de processo administrativo prévio para garantir o contraditório e a ampla defesa. Precedentes.
+3. Agravo de instrumento desprovido.
+O DISTRITO FEDERAL interpôs o presente recurso especial, admitido na origem com fundamento no art.105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 135, III, do CTN.
+Os autos retornaram ao órgão fracionário do TJDFT para que exercesse o juízo de adequação ao Tema n. 981/STJ. Contudo, em sede de juízo de adequação, o TJDFT manteve seu entendimento em novo acordão, (fls. 211-220), assim ementado:
+DIREITO TRIBUTÁRIO. REJULGAMENTO. RECURSO ESPECIAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO FRUTÍFERA. INFRAÇÃO LEGAL. INEXISTÊNCIA. REDIRECIONAMENTO. SÓCIO-ADMINISTRADOR. REQUISITOS. NECESSIDADE. TEMA REPETITIVO N. 981 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento contra a decisão que indeferiu o requerimento de redirecionamento da execução fiscal ao sócio-gerente da pessoa jurídica executada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em analisar a possibilidade de redirecionar a execução fiscal para o sócio-gerente sem que haja evidência de infração legal.
+III. RAZÕES DE DECIDIR
+3 . Os sócios podem ser responsabilizados/cobrados pelo fisco por dívidas da sociedade empresarial nas hipóteses previstas no art. 135 do Código Tributário Nacional. A possibilidade de inclusão do sócio-gerente da sociedade empresarial no polo passivo da ação executiva é admitida mediante a comprovação de que houve infração à lei.
+4. A alteração do endereço sem a devida publicidade e registros legais fundamenta a presunção de dissolução irregular da sociedade empresarial e legitima o redirecionamento da execução fiscal para o sócio-gerente.
+5. A citação frutífera afasta a presunção de dissolução irregular da pessoa jurídica executada e obsta o redirecionamento automático da execução fiscal para o sócio-gerente. O Tema Repetitivo n. 981 do Superior Tribunal de Justiça é inaplicável neste caso.
+IV. DISPOSITIVO E TESE 6. Agravo de instrumento desprovido.
+Tese de julgamento: "A citação frutífera afasta a presunção de dissolução irregular da pessoa jurídica executada e obsta o redirecionamento automático da execução fiscal ao sócio-gerente que não consta na certidão de dívida. Situação que requer a instauração de processo administrativo prévio para a garantia do contraditório e da ampla defesa."
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes rejeitados (fls. 272-280).
+Em seguida, os autos foram remetidos para apreciação do presente recurso especial.
+É o relatório.
+Passo a decidir.
+Cuida-se de recurso especial interposto contra acórdão que indeferiu o pedido de redirecionamento da execução fiscal ao sócio da empresa executada em caso de dissolução irregular.
+Inicialmente, o acórdão recorrido enfrentou a questão do seguinte modo (fl. 133):
+A análise dos autos originários indica que a empresa executada não funciona no domicílio fiscal por ela informado. A eventual presunção de dissolução irregular da contribuinte, no entanto, não enseja o automático redirecionamento da execução para o seu sócio-gerente, mormente quando a certidão de dívida ativa está endereçada somente para a empresa, e diante da necessidade de processo administrativo prévio para garantir o contraditório e a ampla defesa.
+Conforme consignado no acórdão recorrido, após a citação, a empresa encerrou suas atividades no seu endereço conhecido, entretanto, o Tribunal a quo deixou de autorizar o redirecionamento da execução fiscal ao sócio.
+O acórdão merece ser reformado, pois, segundo a jurisprudência deste Superior Tribunal de Justiça, o encerramento das atividades no endereço comercial é suficiente para presumir a dissolução irregular e autorizar o redirecionamento da execução fiscal para a figura dos sócios-gerentes, nos termos da Súmula n. 435/STJ, mesmo que ocorra posteriormente à citação.
+Nesse sentido, o STJ firmou entendimento no Tema n. 981/STJ de que "O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o terceiro não sócio, com poderes de administração na data em que configurada ou presumida a dissolução irregular, ainda que não tenha exercido poderes de gerência quando ocorrido o fato gerador do tributo não adimplido, conforme art. 135, III, do CTN".
+No Recurso Especial repetitivo 1.371.128/RS (Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 17/09/2014), Tema n. 630/STJ, a Primeira Seção do STJ assentou a possibilidade de redirecionamento da execução fiscal ao sócio-gerente. O voto condutor do respectivo acórdão registrou que a Súmula 435/STJ "parte do pressuposto de que a dissolução irregular da empresa é causa suficiente para o redirecionamento da execução fiscal para o sócio-gerente" e que "é obrigação dos gestores das empresas manter atualizados os respectivos cadastros, incluindo os atos relativos à mudança de endereço dos estabelecimentos e, especialmente, referentes à dissolução da sociedade" .
+A regularidade desses registros é exigida para que se demonstre que a sociedade dissolveu-se de forma regular, em obediência aos ritos e formalidades previstas nos arts. 1.033 a 1.038 e arts. 1.102 a 1.112, todos do Código Civil de 2002 - onde é prevista a liquidação da sociedade com o pagamento dos credores em sua ordem de preferência - ou na forma da Lei 11.101/2005, no caso de falência. A desobediência a tais ritos caracteriza infração à lei que autoriza o redirecionamento da execução fiscal ao sócio gerente.
+Portanto, o acórdão recorrido dissentiu do Tema n. 630/STJ, que estabelece que "Em execução fiscal de dívida ativa tributária ou não-tributária, dissolvida irregularmente a empresa, está legitimado o redirecionamento ao sócio-gerente".
+Isso posto, com fundamento no art. 932, V, do CPC, bem como na Súmula n. 568/STJ e art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para autorizar o redirecionamento da execução fiscal para a pessoa do sócio gerente ao tempo da dissolução irregular.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
