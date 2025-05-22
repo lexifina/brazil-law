@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de GABRIEL NASCIMENTO RESENDE DUQUE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.22.174551-6/001), não comporta conhecimento.
+Com efeito, busca a impetração, em síntese, a concessão da ordem para reduzir a pena do paciente mediante o reconhecimento do tráfico privilegiado (fls. 3/26).
+A liminar foi indeferida (fls. 59/60).
+Prestadas as informações (fls. 65/78), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 82/85).
+É o relatório.
+De início, verifica-se que a impetração não prospera, visto que a insurgência apresentada pela defesa neste writ tem nítidas feições de revisão criminal, porquanto já houve o trânsito em julgado da condenação imposta ao paciente, o que denota flagrante impropriedade do meio processual ora utilizado.
+Neste sentido, diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, não se verifica o alegado constrangimento ilegal, decorrente da não incidência da minorante do tráfico privilegiado, pois o redutor foi afastado pelas instâncias ordinárias com fundamento no fato de que os elementos dos autos indicam que o paciente não exercia a traficância esporadicamente, mas, sim, praticava permanentemente, a atividade ilícita numa determinada região, circunstâncias que denotam a dedicação à atividade criminosa.
+Esse ponto foi fundamentado da seguinte forma (fls. 48/49):
+Por outro lado, melhor sorte não socorre à Defesa ao requerer a aplicação da causa especial de redução de pena prevista no artigo 33, §4º, da Lei 11.343/06.
+Ressalta-se que a benesse em questão é voltada para quem adere ao tráfico de drogas esporadicamente, movido, por exemplo, pela necessidade de ganhar dinheiro ou mesmo drogas para sustentar seu vício, e não ao traficante contumaz, que exerce, permanentemente, a atividade ilícita numa determinada região. No caso concreto, resta claro que réu GABRIEL NASCIMENTO RESENDE DUQU E realmente se dedicava às atividades criminosas, em especial ao tráfico ilícito de entorpecentes.
+Destaque a natureza e a expressiva quantidade de droga apreendida - 3.200 pinos de cocaína com massa de 2.846g, além de uma "pedra de crack", com massa de 772g-, que, além de seu grande valor econômico, poderia ser facilmente comercializadas para consumo individual.  ..
+Ainda, o policial civil Claudiomar da Costa Silva, responsável pelas investigações que vinham sendo realizadas há cerca de três meses antes da operação, esclarece perante a autoridade judicial que "no final do ano de 2021, recebeu diversas ligações na delegacia de Perdões sobre intenso tráfico de drogas na região, nas quais, pessoa indeterminada apontou o nome de Gabriel Nascimento Resende Duque, afirmando que esse último trazia droga com eventualidade a Perdões". A testemunha afirma, ainda, "que a operação foi realizada, pois, no dia anterior à data dos fatos, ficou sabendo que Gabriel faria a entrega da droga em Perdões" (id. 8521788018).
+Finalmente, a FAC (id 7281328014) do investigado GABRIEL NASCIMENTO RESENDE DUQUE aponta a existência de outro registro criminal pela prática, em tese, do crime de associação ao tráfico de drogas, em 04/03/2021, na Comarca de Campo Belo/MG, além de um mandado de prisão em aberto.
+Ademais, alcançar conclusão inversa das instâncias inferiores, as quais firmaram sua conclusão com base em ampla análise dos elementos de convicção produzidos na instrução criminal, demandaria reexame de provas, inviável na presente via (AgRg no AREsp n. 2.411.728/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2023).
+Diante do exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO STJ PASSÍVEL DE REVISÃO. AUSÊNCIA DE ILEGALIDADE PASSÍVEL DE CORREÇÃO POR HABEAS CORPUS. MINORANTE AFASTADA DE FORMA FUNDAMENTADA.
+Writ não conhecido.
