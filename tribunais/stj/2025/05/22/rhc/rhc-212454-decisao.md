@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ADRIAN OLIVEIRA FERREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Depreende-se dos autos que o recorrente está preso preventivamente pela suposta prática dos crimes previstos nos arts. 155, §4º, IV, 163, parágrafo único, III, ambos do Código ; pelo ; pelo ; 14 da Lei n. 10.826/03, 33, caput, da Lei n. 11.343/06 e 2º da Lei n. 12.850/13.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 533-548.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na ausência dos requisitos ensejadores da prisão preventiva.
+Defende, ainda, que o recorrente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal, às fls. 619-623, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista o envolvimento do recorrente com organização criminosa, denominada Comando Vermelho. O acusado, juntamente com dois adolescentes, em cumprimento às ordens de outro corréu, teriam destruído e furtado diversas câmeras pertencentes ao projeto governamental Vigia  e à Vigilância Sanitária Municipal do estado de Mato Grosso, prejudicando a segurança pública e a investigação de crimes - fl. 390.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, conforme consignado pelas instâncias ordinárias, o ora agravante, acusado pela suposta prática de estelionato contra idoso, estaria a ser investigado pelo cometimento de outros delitos semelhantes em outros municípios e com o mesmo modus operandi aplicando o chamado "golpe do falso mecânico".
+Diante desse contexto, houve acusação de sua participação em organização criminosa responsável pela prática de diversos estelionatos em pelo menos sete municípios diferentes.
+É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do agravante indica que a ordem pública não estaria acautelada com sua soltura.
+O fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte" (AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.)
+No mesmo sentido: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Destacou, ainda, a corte de origem que foram apreendidos na posse do acusado 95 porções de maconha e 10 pinos de cocaína, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No caso, a prisão preventiva possui fundamentação idônea, decretada a bem da ordem pública, em razão das circunstâncias do flagrante, ocasião em que foram apreendidos "818,00g (oitocentos e dezoito gramas) e 994,0g (novecentos e noventa e quatro gramas) de cocaína e 4,0g (quatro gramas) de maconha" (AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+De mais a mais, a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos que autorizem a sua imposição.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
