@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA HELENA OLIVEIRA BRAGA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PESSOA NATURAL. BENS E APLICAÇÕES COMPROVADOS PELA DECLARAÇÃO DE IRPF. REQUISITOS DE HIPOSSUFICIÊNCIA NÃO COMPROVADOS.
+RECURSO CONHECIDO E IMPROVIDO.
+1. A gratuidade de justiça é um mecanismo que visa garantir a todos o acesso amplo à justiça, mormente, às pessoas menos favorecidas economicamente, colaborando assim para que nenhuma lesão ou ameaça a direito deixe de ser apreciada pelo órgão jurisdicional.
+2. O valor investido comprova que há sobra de valores, que permite à agravante investir em aplicações, o que não se coaduna com a impossibilidade de arcar com as custas processuais.
+3.A não ser assim, os benefícios do Poder Público, que geralmente deveriam contemplar os necessitados, terminarão desviados para a parcela mais abastada da população.
+4. Agravo de instrumento conhecido e improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 do Código de Processo Civil, no que concerne à necessidade de deferimento da gratuidade de justiça, tendo em vista que a parte ora recorrente alegou e demonstrou sua atual situação de hipossuficiência financeira, trazendo a seguinte argumentação:
+17. Nobres Ministros, a Recorrente vem novamente, com a máxima súplica, requerer a concessão ao pedido de gratuidade de justiça, nos moldes já solicitados no agravo apreciado pelo Tribunal, uma vez que não possui condições de arcar com as custas judiciais e despesas processuais dos autos, sem causar prejuízo ao seu sustento e de sua família.
+18. O seu pedido resta justificado nos documentos colacionados nos autos, sendo a declaração de hipossuficiência econômica, contracheque e comprovação do comprometi mento de renda, principalmente, com os gatos médicos e de insumos que sua mãe acamada necessita. (fl. 290).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso em comento, verifico que a agravante é psicóloga da Secretaria de Saúde do Distrito Federal, auferindo rendimento bruto no valor de R$ 7.387,33 e rendimento líquido no importe de R$ 5.778,41, conforme contracheque de ID 205752495, autos de origem.
+Contudo, verifica-se que a agravante possui valor em aplicação de renda fixa, no valor de R$ 42.343,00, além de valor depositado em caderneta de poupança no importe de R$ 6.758,00, conforme declaração de imposto de renda, exercício 2024 (ID 205750743, autos de origem).
+Com efeito, o valor investido atualmente comprova que há sobra de valores, que permite à agravante investir em aplicações, o que não se coaduna com a impossibilidade de arcar com as custas processuais.
+Além disso, o próprio objeto da ação é a restituição de valores investidos, no importe de R$ 100.000,00 (cem mil reais), que, conjugados com os elementos existentes nos autos, fragiliza a presunção de ausência de recurso.
+Diante desse contexto, entendo que restou demonstrado que a agravante possui condições de arcar com as despesas processuais, o que indica, a princípio, que não possui necessidade do benefício postulado.
+Importante ponderar que as custas processuais cobradas pelo TJDFT são módicas e, comparadas aos outros tribunais do país, são uma das mais baixas.
+No caso, considerando que a agravante não comprovou a necessidade da justiça gratuita, o pedido de gratuidade de justiça deve ser indeferido. A não ser assim, os benefícios do Poder Público, que geralmente deveriam contemplar os necessitados, terminarão desviados para a parcela mais abastada da população.
+ ..
+Assim, pelas razões supracitadas e precedentes acima explanados, conclui-se que a agravante não faz jus aos benefícios da gratuidade de justiça. (fls. 264-267).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
