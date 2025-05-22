@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão de fls. 713-721, que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+O recorrido foi absolvido pelo juízo de primeiro grau, nos termos do art. 386, VII, do CPP. Interposta apelação pelo Ministério Público, resultou desprovida, mantendo-se a absolvição por insuficiência probatória.
+No agravo em recurso especial, a parte sustenta que a decisão de inadmissibilidade do recurso especial foi equivocada, pois busca-se a revaloração dos critérios jurídicos da prova, e não o reexame fático-probatório (fls. 728-742).
+No recurso especial, sustenta-se violação do art. 155, §4º, II, do Código Penal, aduzindo que há provas suficientes para a condenação do réu, e que a decisão do Tribunal de Justiça de Sergipe desconsiderou a robustez das provas (fls. 680-701).
+Requer, pois, o provimento do recurso, a fim de reformar o acórdão do Tribunal de Justiça de Sergipe, impondo-se a condenação do réu ADELMO VIEIRA DE ANDRADE, por infringência ao disposto no art. 155, §4º, II, do Código Penal Brasileiro.
+A contraminuta foi apresentada (fls. 745-751).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo conhecimento do agravo para negar seguimento ao recurso especial, conforme a ementa a seguir (fls. 771-772):
+Agravo em recurso especial contra decisão denegatória de seguimento a recurso especial. Crime de furto qualificado. Autoria afastada pelas instâncias ordinárias por insuficiência probatória. Pleito condenatório. Tese de existência de elementos de convicção hábeis a sustentar a condenação. Pretensão recursal que demanda análise do conjunto fático-probatório. Incidência da Súmula 7 do STJ. Parecer pelo conhecimento do agravo para negar seguimento ao recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e busca infirmar as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 671-673 ):
+De fato, como bem destacado pela Magistrada sentenciante, não existe comprovação de que a ,subtração do material ocorreu no dia 14/09/2018 somado ao fato de que não há, nos autos, qualquer documento que comprove a existência de tais Importa destacar,materiais na escola no dia dos fatos. ainda, o Relatório Final do Inquérito Policial (pp. 17/19) e o Relatório da Comissão Permanente de Sindicância e Inquérito Administrativo Disciplinar da Secretaria de Estado da Administração (pp. 416/427), os quais concluíram pela fragilidade probatória quanto à autoria imputada ao servidor público estadual indiciado, ora réu.
+Nesse sentido, importa reproduzir parte das conclusões da Autoridade Policial no mencionado relatório (sem destaque no original):
+"Cumpre me informar que, mesmo diante de tantas evidências não foram apresentadas pela Secretaria de Educação e seus representados qualquer documento que comprovasse a remessa e a existência dos materiais naquela escola, tais como: A data da entrada dos materiais e o seu recebimento, ficha de controle do patrimônio, as especificidades dos aparelhos, a quantidade existente no dia do fato e demais informações dos estoque protocolos comuns e encontrados nos bens disponíveis encontrados nas repartições públicas. Considerando, que a responsável pela custódia dos bens na escola a Sra Maria de Fátima se encontra em tratamento de saúde restou prejudicada a confirmação de que no dia da movimentação das câmeras tenha sido o mesmo dia da subtração o que inseria o investigado na cena do crime e o imputaria a ele o desaparecimento dos bens, não bastante, diante do lapso do tempo entre a ocorrência e abertura deste procedimento houve um prejuízo considerável à coleta de provas na área periférica notadamente a identificação do veículo utilizado no transporte dos bens, SOU DE PARECER FAVORÁVEL ao ARQUIVAMENTO deste procedimento, salvo melhor entendimento, até que novas provas surjam e nos permitam esclarecer os fatos."
+Outro detalhe que merece registro é o fato de que, das próprias imagens das câmeras de segurança juntadas aos autos nas pp. 533/535 pela Autoridade Policial, não se visualizam dentro da sala da secretaria os objetos descritos na denúncia como furtados, o que ratifica o entendimento acima esposado no sentido de que sequer houve inventário dos bens supostamente subtraídos.
+Em suma, na hipótese dos autos, forçoso concluir pela inexistência de provas seguras sobre a autoria delitiva na forma descrita na denúncia, incidindo, portanto, o princípio do in dubio pro reo.
+Com efeito, tendo as instâncias ordinárias, após cuidadosa análise do acervo fático probatório, concluído pela absolvição do réu, pela ausência de provas incriminadoras, inviável ao egrégio Superior Tribunal de Justiça a análise de tal contexto, incidindo, pois, o óbice da Súmula 7/STJ.
+No mesmo sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO MANTIDA. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que conheceu do agravo para não conhecer do recurso especial, mantendo a absolvição do réu pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei nº 11.343/2006.
+2. O réu foi absolvido em primeira instância, decisão mantida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que considerou insuficientes as provas para condenação, destacando a ausência de elementos concretos que demonstrassem a prática de traficância.
+3. A decisão agravada fundamentou-se na ausência de provas robustas que indicassem, sem dúvida, a autoria do crime, aplicando o princípio do in dubio pro reo e a presunção de inocência.
+II. Questão em discussão4. A questão em discussão consiste em saber se a absolvição do réu pelo crime de tráfico de drogas deve ser mantida, diante da alegada insuficiência de provas para condenação.
+III. Razões de decidir5. A condenação penal exige prova robusta e inequívoca da autoria e materialidade do delito, o que não se verificou no caso em análise.
+6. A aplicação do princípio do in dubio pro reo é imperativa quando há dúvida razoável sobre a destinação das substâncias entorpecentes apreendidas, notadamente quando a quantidade não é exorbitante.
+7. A revisão do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula 7 do STJ, que impede o reexame de provas nesta instância.
+IV. Dispositivo e tese8. Agravo regimental desprovido.
+Tese de julgamento: "1. A condenação penal exige prova robusta e inequívoca da autoria e materialidade do delito. 2. O princípio do in dubio pro reo deve ser aplicado quando há dúvida razoável sobre a destinação das substâncias apreendidas. 3. A revisão do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula 7 do STJ".
+Dispositivos relevantes citados: CR, art. 5º, LVII; CPP, art. 386, VII; Lei nº 11.343/2006, art. 33.Jurisprudência relevante citada:
+STJ, AgRg no AREsp 2.263.861/MG, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 26.09.2023; STJ, AgRg no AREsp 695.931/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.09.2016.
+(AgRg no AREsp n. 2.691.961/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2024, DJEN de 3/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
