@@ -1,0 +1,46 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe recurso especial com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região no Agravo de Execução Penal n. 5002645-58.2024.4.04.7004/PR.
+Consta dos autos que a recorrida foi condenada à pena de 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto, mais multa no valor de R$ 15.143,20, pela prática do crime de tráfico internacional de drogas (art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006), com o reconhecimento da causa de diminuição prevista no art. 33, § 4º.
+O Tribunal Federal manteve a decisão de primeiro grau que concedeu indulto e negou provimento ao agravo em execução ministerial, nos termos da seguinte ementa (fl. 84):
+AGRAVO DE EXECUÇÃO PENAL. INDULTO DA PENA DE MULTA. ARTS. 1º, XVII, E 2º, X, DO DECRETO Nº 11.846/2023. TRÁFICO PRIVILEGIADO. POSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. DESPROVIMENTO DO RECURSO. 1. Ainda que o § 4º do art. 33 da Lei de Drogas seja uma causa de diminuição do crime previsto no caput, a redação do art. 1º, XVII, do Decreto Presidencial nº 11.846/2023 evidencia a intenção de não vedar o indulto nos casos de tráfico privilegiado. Isto porque o dispositivo elenca expressamente que as hipóteses de vedação se referem tão somente ao caput e ao § 1º do art. 33, do que se conclui que os demais parágrafos (§§ 2º, 3º e 4º) não estão abarcados pela proibição. 2. A possibilidade de concessão de indulto ao tráfico privilegiado é historicamente aceita pela jurisprudência, até porque se trata de situação tida como notoriamente menos gravosa do que a elencada no caput do tipo penal. Precedentes. 3. Preenchidos os requisitos do Decreto Presidencial, a apenada faz jus ao indulto da multa. Desprovimento do agravo de execução.
+Irresignado, no recurso especial, o Ministério Público Federal aduz, em síntese, que: I) o Decreto n. 11.846/2023 veda a concessão de indulto aos condenados por tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), ainda que com incidência da minorante do § 4º; II) o tráfico privilegiado não constitui figura típica autônoma, mas apenas causa de diminuição de pena; III) diferentemente do Decreto n. 11.302/2022, o Decreto n. 11.846/2023 não faz menção expressa à forma minorada do tráfico de drogas, mantendo-a entre as hipóteses vedadas. Aponta violação do art. 1º, XVII, do Decreto n. 11.846/2023, pelo que requer o indeferimento do indulto (fls. 90-100).
+Apresentadas as contrarrazões (fls. 107-112) e admitido o recurso pelo Tribunal a quo (fls. 114-115), o Ministério Público Federal superior opinou pelo desprovimento do recurso (fls. 129-143).
+Decido.
+I. Admissibilidade
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+II. Cabimento do indulto
+A controvérsia cinge-se à possibilidade de concessão de indulto, nos termos do Decreto n. 11.846/2023, a condenada por tráfico internacional de drogas com a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico privilegiado).
+O recurso especial não merece prosperar.
+Inicialmente, é preciso destacar que o Supremo Tribunal Federal, no julgamento do HC n. 118.533/MS, firmou o entendimento de que o tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) não tem natureza hedionda. Esse entendimento foi consolidado por esta Corte com a superação do Tema Repetitivo n. 600 do STJ, que culminou no cancelamento da Súmula 512 do STJ, a qual dispunha que "a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 não afasta a hediondez do crime de tráfico de drogas".
+A partir desse reconhecimento, a jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que, por não ser o tráfico privilegiado equiparado a crime hediondo, não se lhe aplicam as vedações constitucionais e legais à concessão de indulto.
+Quanto ao Decreto n. 11.846/2023, o art. 1º, XVII, assim estabelece:
+Art. 1º O indulto coletivo e a comutação de penas concedidos às pessoas nacionais e migrantes não alcançam as que tenham sido condenadas:
+ ..
+XVII - por crime de tráfico ilícito de drogas, nos termos do disposto no caput e no § 1º do art. 33, nos art. 34 a art. 37 e no art. 39 da Lei nº 11.343, de 23 de agosto de 2006.
+A interpretação adequada do dispositivo, que melhor se coaduna com os princípios da legalidade e da separação dos poderes, é a de que, ao mencionar expressamente apenas o "caput e o § 1º do art. 33" como hipóteses impeditivas da concessão do indulto, o decreto excluiu deliberadamente os demais parágrafos - inclusive o § 4º - dessa vedação.
+Essa conclusão é reforçada pela própria técnica legislativa adotada no decreto, que, sempre que quis fazer referência a parágrafos, o fez expressamente, como se verifica da menção ao "§ 1º do art. 33". O silêncio em relação ao § 4º, portanto, não pode ser interpretado como mero esquecimento ou imprecisão, mas como escolha deliberada do legislador.
+Interpretar de modo diverso e estender a vedação ao § 4º do art. 33, significaria criar, por via oblíqua, uma hipótese impeditiva não prevista expressamente no decreto, o que representaria indevida usurpação da competência privativa do Presidente da República para a concessão de indulto (art. 84, XII, da Constituição Federal).
+Nesse sentido, a jurisprudência desta Corte é pacífica em afirmar que a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste em invasão à competência exclusiva do Presidente da República. A propósito:
+DIREITO PENAL. HABEAS CORPUS. INDULTO. TRÁFICO PRIVILEGIADO. ORDEM CONCEDIDA.
+I. Caso em exame
+1. Habeas corpus impetrado contra a decisão da Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que reformou decisão de primeira instância e cassou a concessão de indulto a condenada por tráfico privilegiado, com base no Decreto n. 12.338/2024.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a possibilidade de concessão do indulto previsto no Decreto n. 12.338/2024 para condenados por tráfico privilegiado, considerando a exclusão deste crime da vedação do indulto.
+3. Examinar se a decisão de segunda instância desconsiderou precedentes que permitem a concessão do indulto para o tráfico privilegiado, ao interpretar equivocadamente a vedação constitucional.
+III. Razões de decidir
+4. O Decreto n. 12.338/2024, em seu art. 1º, XVIII, não veda a concessão de indulto para o crime de tráfico privilegiado, conforme interpretação sistemática e precedentes jurisprudenciais.
+5. A figura do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, não é considerada crime hediondo, não havendo impedimento constitucional para a concessão do indulto.
+6. A decisão de segunda instância, ao cassar o indulto, configurou constrangimento ilegal por não observar a exceção prevista no Decreto n. 12.338/2024.
+IV. Dispositivo e tese
+7. Ordem concedida, confirmada a liminar, para restaurar a decisão do Juízo de primeiro grau (fls. 34/36).
+Tese de julgamento: "1. O Decreto n. 12.338/2024 não veda a concessão de indulto para o crime de tráfico privilegiado. 2. O tráfico privilegiado não é considerado crime hediondo, permitindo a concessão do indulto. 3. A decisão que desconsidera a exceção prevista no Decreto n. 12.338/2024 configura constrangimento ilegal".
+Dispositivos relevantes citados: Decreto n. 12.338/2024, art. 1º, XVIII; Lei n. 11.343/2006, art. 33, § 4º.Jurisprudência relevante citada: STJ, AgRg no HC n. 840.517/SP, da minha relatoria, Sexta Turma, DJe 9/11/2023; e STJ, AgRg no HC n. 878.816/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/2/2024.
+(HC n. 986.016/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/4/2025, DJEN de 29/4/2025, grifei.)
+No que diz respeito especificamente à pena de multa, o art. 2º, X, do Decreto n. 11.846/2023 prevê:
+Art. 2º Concede-se o indulto coletivo às pessoas, nacionais e migrantes:  ..  X - condenadas a pena de multa, ainda que não quitada, independentemente da fase executória ou do juízo em que se encontre, aplicada isolada ou cumulativamente com pena privativa de liberdade, desde que não supere o valor mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Nacional, estabelecido em ato do Ministro de Estado da Fazenda, ou que não tenham capacidade econômica de quitá-la, ainda que supere o referido valor;
+No caso em análise, a pena de multa imposta à recorrida foi fixada em R$ 15.143,20, valor inferior ao limite estabelecido para ajuizamento de execuções fiscais pela Fazenda Nacional (R$ 20.000,00), de modo que, também sob esse aspecto, a concessão do indulto mostra-se juridicamente adequada.
+Portanto, o acórdão recorrido está em harmonia com a juri sprudência desta Corte superior e, assim, não merece reforma.
+III. Dispositivo
+Ante o exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
+ EMENTA
