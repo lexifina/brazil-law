@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por IGOR CARNEIRO CORREIA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.505391-3/000).
+Extrai-se dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática dos delitos previstos no art. 2º, § 4º, IV, da Lei n. 12.850/2013, no art. 1º, caput, c/c o § 4º e no art. 1º, caput, § 1º, incisos I e II, c/c o § 4º, todos da Lei n. 9.613/1998.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 16):
+HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO - TESES RELACIONADAS À EVENTUAL NULIDADE PROCESSUAL E CERCEAMENTO DE DEFESA - DESCABIMENTO - HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. Em consonância com a orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça, a ação constitucional de Habeas Corpus não pode ser utilizada como sucedâneo recursal, bem como não se presta a espiolhar todo e qualquer suposto cerceio defensivo (ou nulidade processual), mormente quando não guarde correlação direta e imediata com a liberdade ambulatorial do paciente e quando possa ser suscitado por meio de veículo próprio, ainda que à guisa de arguição preliminar, excetuados os casos em que patentemente configurado o constrangimento ilegal, o que, in casu, não se verifica.
+Neste recurso ordinário, alega a defesa que o paciente sofre constrangimento ilegal tendo em vista a nulidade da citação, ante a ausência de entrega da denúncia ao paciente no presídio.
+Aduz, ainda, nulidade por cerceamento de defesa, tendo em vista a ausência de acesso integral aos elementos de informações colacionados no inquérito, em especial o relatório de inteligência financeira que embasou a denúncia.
+Diante dessas alegações requer (e-STJ fl. 15):
+1) Seja declarada a NULIDADE DA CITAÇÃO DO PACIENTE nos termos do art. 564, IV do Código de Processo Penal, e, subsidiariamente, entendendo pela regularidade desta, seja determinado que este Impetrante, pessoalmente ou por intermédio de ofício à unidade prisional, entregue a denúncia ao Paciente, reabrindo o prazo para apresentação de resposta à acusação.
+2) Seja determinada a juntada nos autos do Relatório de Inteligência Financeira nº 102.796, todos os seus anexos, bem como os procedimentos de solicitação/origem dos alertas, supostamente enviados pelo COAF, pela autoridade policial e/ou Ministério Público.
+É o relatório.
+Decido.
+No caso, percebe-se que as alegações trazidas na impetração estão dissociadas da realidade fática e dos fundamentos apresentados no acórdão da origem.
+Da leitura do acórdão impugnado, verifica-se, inicialmente, que o Tribunal de origem destacou que, "conforme certidão acostada em ID 10297126023, foi certificado que os dados brutos da investigação policial foram armazenados em secretaria e disponibilizados para consulta e retirada, por parte dos advogados cadastrados, mediante cópia em HD externo, devido ao tamanho total dos arquivos (cerca de 270 gigabytes)" (e-STJ fl. 20), demonstrando que as alegações apresentadas na presente impetração, no sentido de que a defesa técnica não teve acesso aos elementos de informação estão dissociadas dos fundamentos adotados pelo referido Tribunal.
+Desse modo, tendo em vista a deficiência na fundamentação, fica obstada a análise deste habeas corpus, ante a impossibilidade de compreensão da controvérsia.
+Ademais, quanto à alegação de nulidade da citação, ante a ausência de entrega da denúncia ao paciente no presídio, tenho que a matéria não foi debatida no acórdão recorrido, no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar o tema, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
