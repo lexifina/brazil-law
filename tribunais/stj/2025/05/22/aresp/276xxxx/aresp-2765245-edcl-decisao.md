@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Ivonete Maria do Nascimento, contra decisão monocrática proferida por esta Corte Superior que, no agravo em recurso especial interposto pelo Município de São Paulo, conheceu do agravo para não conhecer do recurso especial da municipalidade, porquanto, para tanto, exigiria o revolvimento de matéria fática dos autos e análise de lei estadual e lei municipal, óbices relacionados às Súmula 7/STJ e Súmula 280/STF.
+A parte embargante aponta vício no acórdão embargado, notadamente omissão, na medida em que não aplicou/majorou os honorários advocatícios recursais, nos termos do art. 85, §11 do CPC de 2015.
+Não houve impugnação aos embargos de declaração.
+É o relatório. Decido.
+Os embargos não merecem acolhida.
+Consoante se depreende do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, na parte que trata dos honorários advocatícios sucumbenciais, fl. 549, estamos diante de sentença não líquida (art. 85, II, §4º, do CPC de 2015).
+Confira o excerto extraído do referido julgado:
+"Em face da determinação de recálculo da multa, quando aos honorários advocatícios sucumbenciais, aplica-se o disposto no inciso II do § 4º do art. 85 do Código de Processo Civil".
+Nesse passo, resta impossível a esta Corte Superior definir qualquer percentual sobre o valor da condenação a título de honorários recursais, porquanto não houve o arbitramento da verba pelas instâncias inferiores.
+Segundo entendimento desta Corte Superior, proferida a sentença sob a égide do CPC/2015, e vencida a Fazenda Pública, os honorários advocatícios devem ser fixados com base nos parágrafos 3º e 4º da referida norma, sendo possível a definição dos percentuais aplicáveis somente quando da liquidação do julgado, de acordo com o art. 85, parágrafo 4º, inciso II, do CPC de 2015.
+Por oportuno, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SENTENÇA ILÍQUIDA. PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS A SER DEFINIDO EM LIQUIDAÇÃO. ART. 85, § 4º, II, DO CPC/2015. PRECEDENTES.
+1. Ausência de ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido se manifestou de forma clara e fundamentada, quando do julgamento dos embargos de declaração, no sentido de que, ainda que a apuração do proveito econômico da causa somente ocorra na fase de liquidação do julgado, o § 2º do art. 85 do CPC autoriza que os honorários sejam fixados desde já entre o mínimo de dez e o máximo de vinte por cento sobre ele. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que, nas causas em que a Fazenda Pública for parte, o estabelecimento do montante relativo aos honorários advocatícios está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial, de modo que a definição do percentual dos honorários sucumbenciais deve ocorrer somente quando da liquidação do julgado, de acordo com a redação do art. 85, § 4º, II, do CPC/2015.
+3. Recurso especial parcialmente provido (REsp n. 1.878.908/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ILÍQUIDA. ART. 85, § 4º, II, DO CPC/2015. PERCENTUAL QUE SERÁ FIXADO PELAS INSTÂNCIAS ORDINÁRIAS. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que o estabelecimento do montante relativo aos honorários recursais está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial. 2. Desse modo, justifica-se a definição do percentual dos honorários sucumbenciais somente quando da liquidação do julgado, de acordo com o art. 85, § 4º, II, da Lei 13.105/2015.
+3. Registre-se que a possibilidade de fixação de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada quando não imposta.
+4. Recurso Especial não provido (REsp n. 1.844.891/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe de 19/12/2019).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
