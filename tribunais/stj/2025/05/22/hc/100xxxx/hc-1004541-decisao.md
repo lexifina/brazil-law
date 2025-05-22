@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS GABRIEL GOMES DE AVELINO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (HC 2137562-46.2025.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 18 de outubro de 2024 pela suposta prática do crime de tráfico de drogas, sendo a prisão convertida em preventiva.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem. Eis a ementa (e-STJ fl. 25):
+"Habeas Corpus". Tráfico de drogas. Impetração almejando a revogação da custódia. Questões relativas à regularidade do decreto prisional, fundamentação e preenchimento dos requisitos autorizadores da custódia já analisadas. Reiteração de pedido nesta parte. Elucubração sobre o cabimento de benesses diante de eventual condenação incompatível com a estreita via eleita. "Acréscimo de argumento que não altera o quadro" objeto de decisão anterior. Ordem indeferida liminarmente, na forma do artigo 663 do CPP.
+No presente writ, a impetrante alega a existência de constrangimento ilegal na manutenção da prisão preventiva, sob o argumento de que a decisão que decretou a custódia é carente de fundamentação idônea, baseada exclusivamente na gravidade abstrata do delito, sem que estejam presentes os requisitos autorizadores previstos no artigo 312 do Código de Processo Penal.
+Sustenta que o paciente é primário, possui residência fixa e família constituída, circunstâncias que afastariam a necessidade da segregação cautelar. Afirma ainda que, em caso de eventual condenação, seria cabível a aplicação da causa de diminuição prevista no § 4º do artigo 33 da Lei de Drogas, com a substituição da pena privativa de liberdade por restritivas de direitos e imposição de regime prisional mais brando.
+Requer, liminarmente, a revogação da prisão preventiva, com expedição de alvará de soltura, para que o paciente responda ao processo em liberdade, com a confirmação da ordem no julgamento de mérito.
+É o relatório. Decido.
+O presente writ é mera reiteração do RHC n. 212447/SP - apresentando as mesmas partes, causa de pedir e pedido. No julgamento do agravo regimental, realizado em 25/3/2025, foi negado provimento ao recurso.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC n. 253.038/SP, Relatora Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 11/04/2013, DJe 23/04/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/ 9/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
