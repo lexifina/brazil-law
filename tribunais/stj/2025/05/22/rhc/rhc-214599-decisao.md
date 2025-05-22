@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FELIPHE DE BRITO TEIXEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente foi preso em flagrante, cuja prisão foi convertida em preventiva, pela prática dos crimes do art. 311, §2º, inciso III, do Código Penal e do art. 311, do Código de Trânsito Brasileiro.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão de fls. 143-150.
+Na hipótese, a defesa aponta a ocorrência de constrangimento ilegal consubstanciado na ausência de periculum libertatis para a manutenção da segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o recorrente reiteradamente praticaria condutas criminosas, circunstância apta a justificar a segregação cautelar.
+Sobre a necessidade da prisão do recorrente, mostra-se adequada a fundamentação do Juízo de primeiro grau, que destaca a reiteração delitiva do recorrente, inclusive de crime da mesma natureza:
+A gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, sobretudo diante da reiteração delitiva do autuado Feliphe de Brito Teixeira pois, em que pese sua primariedade, responde a ação penal pela suposta prática dos delitos de receptação e adulteração de sinal identificador de veículo. Além disso, o autuado foi beneficiado com alvará de soltura em 26/07/2023, expedido pelo Juízo Criminal da Comarca de Jaboticatubas, quando foi preso em flagrante pela suposta prática do delito de receptação e, em 04/07/2024, expedido pelo Juízo Criminal da Comarca de Vespasiano, quando foi preso em flagrante pela prática do mesmo delito de adulteração de sinal identificador automotor. (fl. 70).
+Sobre o tema, o seguinte precedente desta Corte:
+"A prisão preventiva foi adequadamente fundamentada, com base na necessidade de garantir a ordem pública, considerando que o paciente é reincidente esp ecífico em crimes de tráfico de drogas e estava em cumprimento de pena no momento do flagrante. O risco concreto de reiteração delitiva justifica a medida extrema, sendo insuficientes outras cautelares alternativas" (AgRg no HC n. 925.326/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 23/10/2024).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ainda, pelo que foi dito, mostra-se inadequada neste momento a aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
