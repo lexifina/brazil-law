@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO CESAR MATIAS DA SILVA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que negou provimento à apelação interposta pelo agravante.
+A parte agravante às fls. 351-356 sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto.
+Contraminuta apresentada à fl. 360.
+O Ministério Público Federal às fls. 375-376 manifestou-se pelo desprovimento do agravo.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nada obstante entendo ser impossível conhecer do recurso com fulcro na Súmula n. 7 deste Superior Tribunal de Justiça.
+O direito processual é regido pelo princípio da dialeticidade, segundo o qual os recursos devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida, demonstrando, ponto a ponto, os motivos do eventual desacerto do julgado contestado.
+Na espécie, entretanto, verifico que o agravante não enfrentou adequadamente os fundamentos que ensejaram a incidência do óbice apontado pelo Tribunal de origem para inadmitir o apelo nobre.
+No que concerne à Súmula n. 7, STJ, a defesa se limitou a alegar que a pretensão de desclassificação do delito de roubo para furto não demandaria reexame de provas, mas tão somente a revaloração jurídica dos fatos incontroversos.
+Embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tais quais descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador. A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)" (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023)
+"Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022)
+Na hipótese, o que se percebe é que busca o agravante não somente a rediscussão jurídica atribuível à narrativa fática, mas sim a reavaliação do conteúdo probatório produzido, em especial, todas as circunstâncias que levaram à atribuição da autoria delitiva e ao reconhecimento da materialidade do delito, medida que encontra óbice no enunciado sumular nº 07 do STJ. No mesmo sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ARTS. 33 e 35, CAPUT, DA LEI N. 11.343/2006. PLEITO CONDENATÓRIO. CONDUTA DELITIVA. PARTICIPAÇÃO NÃO COMPROVADA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 07 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na análise dos elementos fático-probatórios dos autos, entendeu pela falta de comprovação de participação dos agravados na conduta delitiva, afastar tal entendimento implicaria o reexame de provas, a incidir o enunciado da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Agravo regimental desprovido." (AgRg no AREsp n. 809.393/AC, Quinta Turma, Rel. Min. Joel Ilan Paciornick, DJe de 28/10/2016, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 33, CAPUT, E 40, III, AMBOS DA LEI Nº 11.343/2006. TRÁFICO DE DROGAS. PLEITO CONDENATÓRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 948.377/RS, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 12/9/2016, grifei).
+Logo, impossível aceder com o agravante.
+Ante o exposto, com fundamento no art. 253, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
