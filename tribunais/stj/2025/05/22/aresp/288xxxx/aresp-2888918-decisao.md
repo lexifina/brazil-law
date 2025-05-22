@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURICIO BARBOSA LIMA JUNIOR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial apresentado na Apelação Criminal n. 1509155-11.2024.8.26.0228 e embargos de declaração opostos em seguida (fls. 236/246 e 259/264).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 367/370).
+É o relatório.
+A decisão agravada ostenta conteúdo híbrido, de modo que, no tópico em que foi negado seguimento ao recurso, com base no tema 712, seria adequada a interposição de agravo interno no Tribunal a quo, o que não ocorreu no caso, circunstância que atrai a incidência do princípio da preclusão, especificamente na parte em que se verificou a negativa de seguimento.
+Nesse sentido: AgInt no RE nos EDcl no AgInt no AREsp n. 1.866.098/PR, Ministro Jorge Mussi, Corte Especial, DJe 25/3/2022; e AgInt no REsp n. 1.920.307/PR, Ministro Luis Felipe Salomão, Quarta Turma, DJe 15/12/2021.
+Quanto ao tópico em que se verificou a inadmissão do recurso especial, Súmula 283/STF, afigura-se adequada a interposição de agravo dirigido a esta Corte (art. 1.030, § 1º, c/c o art. 1.042, ambos do CPC), sendo o reclamo, no entanto, inadmissível.
+Após análise dos autos, verifica-se que a parte agravante deixou de impugnar, de forma suficiente e específica, o fundamento relacionado à Súmula 283/STF.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA QUE OSTENTA CONTEÚDO HÍBRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO NO TÓPICO EM QUE FOI NEGADO SEGUIMENTO AO RECURSO. PRECLUSÃO. INTERPOSIÇÃO DE AGRAVO (ART. 1.042 DO CPC) CONTRA OS TÓPICOS EM QUE O RECLAMO FOI INADMITIDO. ADEQUAÇÃO. IMPUGNAÇÃO GENÉRICA DE UM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INADMISSIBILIDADE. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL (ART. 932, III, DO CPC).
+Agravo em recurso especial não conhecido.
