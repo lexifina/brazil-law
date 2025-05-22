@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por EDSON DA SILVA CAMPOS e DOUGLAS SANTANA FORTUNATO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1.0567.18.002620-3/002 (fls. 977/990).
+No recurso especial, os agravantes apontam a violação do art. 33, § 4º, da Lei n. 11.343/2006 e postulam a aplicação da causa especial de redução de pena, no seu grau máximo, e a consequente substituição de pena (fls. 1.012/1.019).
+O Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7/STJ (fls. 1.034/1.037).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo e não provimento do recurso especial (fls. 1.078/1.084).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prosperam as teses apresentadas pelos agravantes.
+No que concerne à alegada violação da lei pela não aplicação do benefício, assim se manifestou o Tribunal de origem (fl. 987 - grifo nosso):
+ ..
+De se consignar, por necessário, que a droga arrecadada, de grande volume, encontrava-se distribuída em 21 (vinte e uma) barras!, somando por volta de 21 quilos, montante este que, por sua expressividade, alcançaria um número considerável de usuários.
+De mais a mais, o fato de se encontrarem os entorpecentes escondidos em local estratégico - entre a vegetação densa - a forma de acondicionamento da substância ilícita - em barras - e o montante expressivo em que se mostrava a mesma distribuída deixam claro que o tóxico em comento se destinava ao comércio ilícito, bem como que os apelantes compõem grupo criminoso destinado ao tráfico rotineiro de entorpecentes.
+Isso posto, não se há falar, de consequência, ante as circunstâncias delitivas ventiladas, em aplicação da causa especial de redução de pena prevista no § 4º do art. 33 da Lei 11.343/06.
+ ..
+Analisando o acórdão combatido, observa-se que a Corte de origem concluiu que os agravantes não preenchiam os requisitos para o reconhecimento da minorante, afastando o benefício da diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+Dessa forma, é possível aferir a motivação concreta para justificar o afastamento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, comumente evidenciado pelo modus operandi, como pelas circunstâncias do fato, de modo a propiciar a análise e o aferimento o envolvimento de agentes no comércio ilícito de entorpecentes.
+No caso em tela, os elementos se consubstanciam não somente pela grande quantidade da droga apreendida, o que denota a participação de outras pessoas para o transporte até o destino e seu recebimento, mas pela forma de acondicionamento, considerando que a droga fora escondida e guardada em local estratégico, preparado para dificultar a fiscalização policial e, por fim, pelo concurso de agentes, os ora agravantes.
+Por outro lado, os agravantes não cuidaram de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça. Ademais, não comprovaram que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos.
+A orientação sedimentada é de que cabe à parte agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+A propósito: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que quanto a este pleito, os agravantes deixaram de observar a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP) e nessas condições, o presente agravo não merece prosperar, haja vista não terem atacado, de forma específica, este referido fundamento da decisão combatida, incidindo no óbice da Súmula 182/STJ, sendo inadmissível o inconformismo por deficiência na sua fundamentação.
+Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Portanto, no presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação dos agravantes à atividade criminosa (tráfico de drogas).
+Assim, para se acolher a tese de que eles não se dedicam a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei 11.343/2006, como desejam, imprescindível seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ.
+Quanto aos pedidos para fixação de regime mais brando (aberto) para o cumprimento de pena e de substituição de pena, mantido o patamar fixado na sentença condenatória em 6 anos e 3 meses de reclusão, nos termos do acórdão atacado, observam-se as vedações previstas no inciso I do art. 44 e no art. 33, § 2º, alínea b, ambos do Código Penal, não havendo afronta a lei federal.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (21 KG DE MACONHA). CAUSA DE DIMINUIÇÃO DE PENA. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. ÓBICE DAS SÚMULAS 7 E 182/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
