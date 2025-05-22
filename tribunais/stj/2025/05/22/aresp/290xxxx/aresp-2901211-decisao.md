@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por IVONETE DE ARAUJO RODRIGUES, com fundamento na alínea a do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (fl. 128):
+"APELAÇÃO CRIMINAL. INCIDENTE DE RESTITUIÇÃO DE COISA APREENDIDA. SENTENÇA DE AUSÊNCIA SUPERVENIENTE DO INTERESSE PROCESSUAL. PERDIMENTO DO BEM EM FAVOR DA UNIÃO. VEÍCULO UTILIZADO NA PRÁTICA DO CRIME DE TRÁFICO ILÍCITO DE DROGAS. RECURSO DO REQUERENTE. RESTITUIÇÃO DE VEÍCULO. BEM UTILIZADO NA PRÁTICA DELITIVA. PERDIMENTO DEVIDO. ART. 243, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO FEDERAL E ARTS. 61, 63 E 63-B DA LEI DE DROGAS. TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL (TEMA 647). RESTITUIÇÃO INCABÍVEL. RECURSO NÃO PROVIDO."
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 91, inciso II, alíneas a e b, do Código Penal, bem como aos arts. 118, 119, 120 e 133, § 1º, todos do Código de Processo Penal.
+Aduz, em síntese, que o perdimento de bens utilizados para o transporte de substância entorpecente só é possível quando demonstrado que tal objeto/veículo é utilizado habitualmente na prática criminosa, ou que tenha sido preparado/modificado para a prática daquela atividade ilícita.
+Sustenta, ainda, que na condição de terceira de boa-fé e legítima proprietária do automóvel, sem qualquer envolvimento no crime praticado por seu filho, teria direito à restituição do veículo ou, ao menos, ao valor correspondente em caso de já ter ocorrido a alienação do bem.
+Com contrarrazões (fls. 152-158), o recurso especial foi inadmitido na origem (fls. 161-162), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal se manifestou pelo não provimento do recurso (fls. 211-217).
+É o relatório. DECIDO.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+De início, observo que o Tribunal de origem negou provimento ao recurso de apelação da recorrente, sustentando sua decisão em duplo fundamento: um de natureza constitucional, concernente à aplicação do art. 243, parágrafo único, da Constituição da República, e outro de natureza infraconstitucional, referente aos arts. 61, 63 e 63-B da Lei n. 11.343/2006.
+Nesse cenário, incide à espécie o óbice da Súmula n. 126, STJ, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+A lógica subjacente a esse enunciado reside no fato de que, mesmo que esta Corte Superior acolhesse a tese da recorrente quanto à alegada violação aos dispositivos infraconstitucionais, o acórdão impugnado permaneceria incólume em razão do fundamento constitucional, cuja análise é de competência privativa do Supremo Tribunal Federal, mediante recurso extraordinário.
+Analisando os autos, constato que a recorrente não interpôs recurso extraordinário contra o fundamento constitucional do acórdão, o qual, por si só, sustenta a conclusão adotada pelo Tribunal a quo.
+A propósito:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. INVASÃ O DE DOMICÍLIO. FUNDAMENTO CONSTITUCIONAL. SÚMULA N. 126/STJ.
+1. Incide a Súmula n. 126 desta Corte, pois, não obstante a existência de fundamento constitucional autônomo no acó rdão recorrido, não foi interposto o recurso extraordinário.
+2. Agravo regimental desprovido."
+(STJ - AgRg no REsp: 2107537 MG 2023/0399398-5, Relator.: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 04/03/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 07/03/2024)
+Ademais, ainda que superado o óbice sumular acima exposto, o acolhimento da pretensão recursal demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial, conforme o enunciado da Súmula n. 7, STJ.
+Isso porque a recorrente sustenta, em suas razões, ser terceira de boa-fé sem envolvimento no crime de tráfico praticado por seu filho, circunstância que demandaria a incursão em fatos e provas para verificar sua participação ou conhecimento da atividade ilícita, bem como a alegada habitualidade ou não do uso do veículo na prática delitiva.
+O Tribunal de origem, ao analisar as provas constantes dos autos, concluiu que o veículo foi utilizado para o transporte de substâncias ilícitas, o que, à luz da legislação aplicável e do entendimento firmado pelo STF, seria suficiente para justificar o perdimento do bem em favor da União.
+Ressalte-se, por oportuno, que a pretensão da recorrente de aplicar ao caso concreto entendimento diverso daquele firmado pelo STF em repercussão geral (Tema 647) não pode ser apreciada por esta Corte Superior, sob pena de usurpação da competência constitucional reservada à Suprema Corte.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
