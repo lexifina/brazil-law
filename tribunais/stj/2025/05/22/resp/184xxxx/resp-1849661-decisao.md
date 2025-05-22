@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, recurso especial interposto por UNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO ÁREA DE PRESERVAÇÃO PERMANENTE DANO RESPONSABILIDADE RECUPERAÇÃO AMBIENTAL PRAD INDENIZAÇÃO ASTREINTES
+Os embargos de declaração foram acolhidos nos seguintes termos:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1025 DO CÓDIGO DE PROCESSO CIVIL.
+1. São cabíveis embargos de declaração contra qualquer decisãojudicial para esclarecer obscuridade ou eliminar contradição, supriromissão ou corrigir erro material, consoante dispõe o artigo 1022 do Código de Processo Civil.
+2. O prequestionamento de dispositivos legais e/ou constitucionaisque não foram examinados expressamente no acórdão encontradisciplina no artigo 1025 do Código de Processo Civil, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimentoou não dos embargos de declaração.
+3. Determinado pelo STJ o prequestionamento expresso para fins de apontar de fato a inexistência de violação aos dispositivos legais e justificar a condenação da UNIÃO em obrigação de fazer decorrente de dano ambiental, explicitada sua omissão após ser instada a se manifestar sobre construção e ter permanecido inerte, motivo pelo qual sanada omissão sem modificação do julgado.
+Sustenta a parte recorrente, em síntese: i) não haver atribuição legal para a União na fiscalização e recuperação de área degradada em zona urbana, sendo esta responsabilidade do Município (arts. 3º e 14, § 1º, da Lei n. 6.938/1981, e art. 22, parágrafo único, da Lei n. 4.771/1965, art. 6º, I, do Decreto-Lei n. 2.398/1987, art. 11 da Lei n. 9.636/1998, art. 2º da Lei n. 7.735/1989, e arts. 141, 492 e 537, § 1º, do CPC/2015); e iii) o valor fixado para as astreintes é excessivo (art. 537, § 1º, do CPC/2015).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Na origem, o Ministério Público Federal ajuizou ação civil pública contra Paulo César da Costa, Ivaldo da Costa, União, Município de São Francisco do Sul, IBAMA e FATMA, visando à demolição de edificações em área de preservação permanente e à recuperação ambiental, além de indenização por danos ao meio ambiente.
+A sentença condenou Paulo César e Ivaldo da Costa a elaborar e implementar um Plano de Recuperação da Área Degradada (PRAD), com retirada das benfeitorias, e a União a participar solidariamente.
+O Tribunal manteve a sentença, destacando a responsabilidade objetiva dos réus pela degradação ambiental e a obrigação da União de fiscalizar. No recurso especial, está em questão a responsabilidade da União e a aplicação de multa diária (astreintes) contra a Fazenda Pública.
+A responsabilidade da União não foi afirmada apenas no dever subsidiário de fiscalizar violações ao meio ambiente, senão no fato de constituir-se a área de proteção permanente em bem de sua titularidade, por ser terreno de marinha. O acórdão também aponta que o pedido nesse sentido constava desde a inicial. Transcrevo o acórdão integrativo, no que importa (fls. 1168-1169):
+Assim, não prospera alegação da UNIÃO de que o entendimento deste Regional violou qualquer dispositivo do Código de Processo Civil de 1973 ou do atual, em vigor desde 2015, não prosperando qualquer tese de julgamento extra petita em razão da condenação a demolição não constante em pedido, visto que tal pleito foi explícito, conforme acima transcrito.
+Nenhuma mácula, portanto, aos arts. 128, 460 e 461 do CPC/73. Da mesma forma, e nos termos acima indicados, a condenação da UNIÃO decorre do fato de que foi instada a se manifestar e quedou-se inerte, deixando transcorrer o tempo e a construção indevida em área de sua titularidade, fato que não foi evitado apesar dos embargos do MUNICÍPIO e do IBAMA, fundamento que afastou a responsabilidade destes da lide.
+A norma invocada, no sentido de que seria descabido à Secretaria de Patrimônio da União a obrigação de promover o PRAD não afasta a responsabilidade da União, seja por esse órgão ou outro de sua organização interna. Além disso, o próprio dispositivo atribui à SPU a obrigação de fiscalizar e zelar, inclusive mediante recurso à Polícia Federal e Estadual, bem como às Forças Armadas, da integridade física, patrimônio e destinação do patrimônio da União. O meio ambiente compõe essa integridade física e patrimonial.
+Assim, não há suporte normativo à tese recursal no comando invocado. Ademais, o caput do art. 11 da Lei n. 9.636/1998 não foi objeto de decisão na origem, tampouco constando alegação de omissão sobre o ponto nos aclaratórios ou de vício no recurso especial. Incidência das Súmulas n. 284 e 356/STF.
+Quanto à multa coercitiva, sua proporcionalidade tampouco foi abordada pela instância ordinária, estando ausente o prequestionamento.
+Isso posto, não conheço do recurso especial.
+Não sendo caso de má-fé, descabe a incidência de honorários de sucumbência em ação civil pública, inclusive a título recursal.
+Intimem-se.
+EMENTA
