@@ -1,0 +1,12 @@
+DECISÃO
+VALDIVINO MARTINS RIBEIRO alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso na Apelação Criminal n. 0029159-49.2018.8.11.0042.
+Extrai-se dos autos que o paciente foi condenado à pena de 8 anos, 5 meses e 15 dias de reclusão, em regime inicial fechado, mais multa, como incurso no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006.
+Nesta Corte, a defesa postula "seja concedido a liminar e no mérito provido o presente recurso para absolver Valdivino Martins Ribeiro da prática do crime de tráfico de drogas nas dependências de estabelecimento prisional (art. 33, caput, c.c. art. 40, inciso III, ambos da Lei n. 11.343/2006), com fundamento no art. 386, inciso III, do Código de Processo Penal" (fl. 6).
+Decido.
+Este habeas corpus se insurge contra acórdão proferido em 19/8/2020. Em consulta à página eletrônica da Corte de origem, o gabinete verificou que o feito transitou em julgado em 16/12/2020. A presente impetração foi veiculada em 19/5/2025, mais de quatro anos após o trânsito em julgado da condenação, a evidenciar que é substitutiva de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
