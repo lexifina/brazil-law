@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido de extensão ajuizado por RAFAEL PRESTES DA SILVA (fls. 457/665) de decisão monocrática da minha relatoria, em que concedi a ordem impetrada em favor do paciente ANDREY MODESTO DA SILVA, a fim de revogar a segregação cautelar imposta pelo Juízo da 2ª Vara Estadual de Processo e Julgamento dos Crimes de Organização Criminosa e Lavagem de Dinheiro (Autos n. 5009963- 28.2024.8.21.0039/RS), mediante a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal. Eis a ementa (fl. 443):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ALEGAÇÃO DE EXTEMPORANEIDADE DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO DA CUSTÓDIA CAUTELAR. INEXISTÊNCIA DE FATOS QUE RELACIONEM O PACIENTE AO GRUPO CRIMINOSO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida, confirmando a liminar anteriormente deferida.
+Sustenta o requerente que se encontra em situação fático-processual idêntica à do paciente em questão, pois, considerando que ambos os decretos constritivos se fundamentam na mesma argumentação e estão vinculados ao mesmo quadro probatório referente aos denunciados, bem como levando em conta que Rafael ostenta circunstâncias pessoais ainda mais favoráveis do que as do paciente Andrey, torna-se imprescindível reconhecer a extensão do benefício concedido a este último (fl. 457).
+Parecer ministerial opinando pelo indeferimento do pedido de extensão (fls. 669/672).
+É o relatório.
+De acordo com análise do decreto de prisão, os fundamentos para a prisão preventiva de Rafael Prestes da Silva e Andrey Modesto da Silva estão alicerçados na necessidade de garantir a ordem pública e a conveniência da instrução criminal. Ambos são acusados de envolvimento em uma rede de tráfico de drogas, com evidências de participação ativa em transações ilícitas, conforme diálogos interceptados e analisados durante a investigação.
+No entanto, quando concedida a ordem de habeas corpus em favor do paciente, a decisão trouxe parte dos fundamentos apresentados no voto divergente, em que constam os seguintes fatos (fl. 417):
+ ..  Não fora o mesmo flagrado em transporte de entorpecentes e não se pode afirmar, desde já, sem estreme de dúvidas que o paciente está de fato envolvido com o tráfico de drogas.
+ ..
+Verifica-se que o paciente é tecnicamente primário, ostentando antecedentes policiais, e as demais condições pessoais favoráveis, não podem ser absolutamente ignoradas. Trata-se de indivíduo de 23 anos que, a princípio, não possui outras condenações em seu passado, não s e podendo afirmar, portanto, que em liberdade, acaba por se envolver na prática de delitos, o que afasta a necessidade de segregação para garantia da ordem pública.
+ ..
+Ausentes, porém, no que diz respeito ao paciente, os indicativos suficientes de que estivesse participando da empreitada criminosa levada a efeito pelos corréus, já que o único elemento probatório a pesar contra si é uma transcrição de conversa que sugere que o paciente é responsável pelo transporte das drogas, sem apreensão de qualquer objeto ilícito.
+ ..
+No caso de Rafael Prestes da Silva, não há informações disponíveis no decreto de prisão (fls. 146/247) e na decisão de primeiro grau (fls. 297/301) que indiquem se a sua situação poderia se adequar em alguma similitude às particularidades apontadas em relação ao paciente, naquilo que foi considerado e fundamentado no acórdão hostilizado. Nesses termos, não há como ser feito um paralelo entre o que foi considerado naquela decisão de habeas corpus com o presente pedido de extensão.
+Assim, a decisão que concedeu a ordem em benefício do paciente se vincula a circunstâncias de caráter exclusivamente pessoal, razão pela qual não é passível de extensão a qualquer acusado, nos termos do que dispõe o art. 580 do Código de Processo Penal.
+Ante o exposto, indefiro o pedido de extensão.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. QUESTÕES FÁTICAS CONSIDERADAS NO VOTO DIVERGENTE DO ACÓRDÃO HOSTILIZADO. AUSÊNCIA DE POSSÍVEL COMPARAÇÃO DA SITUAÇÃO ENTRE O REQUERENTE E O PACIENTE. DECISÃO DE PRIMEIRO GRAU E DECRETO PREVENTIVO. AUSÊNCIA DE ANÁLISE DA SITUAÇÃO FÁTICA DO REQUERENTE. DECISÃO CONCESSIVA DA ORDEM QUE SE VINCULA A CIRCUNSTÂNCIAS DE CARÁTER EXCLUSIVAMENTE PESSOAL. EXTENSÃO. INVIABILIDADE (ART. 580 DO CPP).
+Pedido de extensão indeferido.
