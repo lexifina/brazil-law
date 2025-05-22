@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Cleiton Augusto da Silva, em que se aponta como autoridade coatora a Sexta Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 2119091-79.2025.8.26.0000, mantendo a prisão preventiva imposta ao paciente pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa sustenta que a prisão preventiva se revela desproporcional, diante da concreta possibilidade de absolvição ao final da instrução, o que configuraria constrangimento ilegal à liberdade de locomoção do paciente (fl. 7).
+Alega, ainda, a inexistência de risco à ordem pública, destacando que não há nos autos elementos concretos que indiquem periculosidade do acusado ou risco de reiteração delitiva. Argumenta que o delito imputado é desprovido de violência ou grave ameaça, de modo que a gravidade abstrata da infração penal, assim como eventual vedação legal, não constituem, por si sós, fundamento idôneo para a manutenção da segregação cautelar, sendo plenamente viável que o paciente aguarde o desfecho do processo em liberdade (fl. 8).
+Requer, assim, a concessão liminar da ordem para a revogação da prisão preventiva, com a imediata expedição de alvará de soltura, para que possa aguardar em liberdade o resultado de seu processo (fl. 8).
+É o relatório.
+Infere-se dos autos que a prisão preventiva do paciente foi decretada com fundamento na garantia da ordem pública, diante da gravidade concreta da conduta a ele imputada - ingresso de 77,65 g de maconha em estabelecimento prisional -, bem como da sua periculosidade social, evidenciada pela reiteração delitiva específica.
+Mantendo a medida constritiva, a insurgência foi afastada aos seguintes fundamentos (fls. 15/16):
+ ..
+a decisão que decretou sua prisão preventiva (fls.20/26, datada de 10.03.2025), está fundamentada em termos regulares, não merecendo qualquer reparo, destacado que "o réu é reincidente (fls. 159/163), ostentando considerável rol de antecedentes com condenações em crimes como tráfico de drogas, de modo a demonstrar inequivocamente uma conduta voltada à prática de infrações criminais e a inegável periculosidade do agente".
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, registrando várias condenações, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+No mesmo sentido: AgRg no HC n. 987.655/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
