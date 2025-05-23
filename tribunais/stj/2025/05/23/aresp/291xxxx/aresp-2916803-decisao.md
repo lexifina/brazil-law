@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS CERQUEIRA PELLEGRINI contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0348074-09.2014.8.05.0001 (fls. 391/463).
+No recurso especial (fls. 470/486), o agravante sustenta que a conduta narrada nos autos deveria ser desclassificada do crime de tráfico de drogas para o delito de porte para consumo pessoal, nos termos do art. 28 da Lei n. 11.343/2006, destacando que o acervo probatório não seria suficiente para justificar a condenação pelo tipo do art. 33 da Lei de Drogas, razão pela qual invoca violação dos arts. 155 e 386, VII, do Código de Processo Penal. Alega que a desclassificação não demandaria reexame de provas, tratando-se apenas da subsunção jurídica dos fatos narrados no acórdão recorrido.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do recurso especial (fls. 552/558).
+É o relatório.
+O agravo merece conhecimento, porquanto tempestivo e apto, tendo sido adequadamente impugnados os fundamentos da decisão de inadmissibilidade.
+O Tribunal de origem inadmitiu o recurso especial sob o fundamento de que a pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Por sua vez, o agravante sustenta que não se aplica a Súmula 7/STJ, visto que o pleito de desclassificação do fato capitulado no art. 33 da Lei n. 11.343/2006 para o crime previsto no art. 28 do mesmo diploma legal não exigiria reexame de provas, tampouco controvérsia sobre os fatos narrados no acórdão recorrido, restringindo-se à análise da subsunção jurídica.
+Na hipótese dos autos, verifica-se que o Tribunal assentou a presença de elementos objetivos que justificam a condenação por tráfico de drogas, como se observa dos fundamentos do acórdão recorrido (fls. 414/415 - grifo nosso):
+As circunstâncias da apreensão das drogas, em cotejo com sua variedade e natureza, tornam inviabilizada a pretendida desclassificação da conduta para a sua posse destinada a consumo próprio, notadamente porque apreendidos entorpecentes de três vertentes distintas (maconha, LSD e ecstasy), sendo que o próprio recorrente não aludiu em juízo ao consumo de duas delas.
+Demais disso, foi igualmente apreendida uma balança e relatada tentativa de contato de terceira pessoa com o réu solicitando drogas, o que,
+inclusive, foi parcialmente reconhecido por ele próprio.
+Sob tal contexto, sobretudo ante as diretrizes do art. 28 da Lei n. 11.343/06, não se vislumbra espaço para que seja agasalhada a tese desclassificatória.
+Extrai-se da decisão que a condenação se baseou em elementos concretos considerados suficientemente robustos pela instância ordinária para afastar a tese de uso pessoal. Destaca-se, especialmente, a diversidade de substâncias entorpecentes apreendidas - incluindo drogas sintéticas como LSD e ecstasy -, aliada à presença de balança de precisão e à narrativa de tentativa de comercialização identificada no contexto da prisão, em contraste com a alegação defensiva de que não teriam sido encontrados elementos indicativos de atividade ilícita de comercialização.
+No presente feito, a pretensão de desclassificação da conduta para o delito de porte de droga para uso próprio, ou de modificação do julgado para reconhecer a ausência de provas, esbarra no óbice da Súmula 7/STJ, pois implicaria o reexame do conjunto probatório dos autos - não com o propósito de reinterpretar a norma jurídica, mas de reavaliar fatos já apreciados pelas instâncias ordinárias.
+Em casos análogos, o Superior Tribunal de Justiça tem reafirmado essa orientação. Confira-se: AgRg no AREsp n. 2.565.912/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/4/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DELITUOSA. INVIABILIDADE. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. VALIDADE DOS FUNDAMENTOS APRESENTADOS PELA CORTE DE ORIGEM. SÚMULA 7.
+Agravo conhecido para não conhecer do recurso especial.
