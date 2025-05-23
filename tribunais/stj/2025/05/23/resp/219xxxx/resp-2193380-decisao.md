@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJMG assim ementado (fl. 411):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO - COMPRA E VENDA IMÓVEL - ATRASO NA ENTREGA DAS OBRAS - TRANSFERÊNCIA DO BEM. A mudança de titularidade do imóvel sujeito a transação de compra e venda não resulta automaticamente na rescisão do contrato; a conclusão deste só ocorre após o cumprimento integral de todas as obrigações assumidas pelas partes envolvidas.
+Os embargos de declaração foram rejeitados (fls. 446-453).
+Nas razões apresentadas (fls. 457-466), a recorrente aponta dissídio jurisprudencial e ofensa aos arts. 104, 138 a 165 e 166 do CC/2002, defendendo que, à míngua de vícios de consentimento, seria descabido rescindir o compromisso de compra e venda imobiliário, escriturado e registrado, visto que se trataria de ato jurídico perfeito e acabado.
+Acrescenta que se trata "de contrato de promessa de compra e venda, extinto em razão de já ter sido convolado em escrituras pública definitiva devidamente registrada, que embora rescindido o contrato de promessa de compra e venda já extinto, não restou anulada a escritura pública devidamente registrada" (fl. 462).
+Foram apresentadas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 475-508).
+O recurso foi admitido na origem (fls. 514-515).
+É o relatório.
+Decido.
+A utilização de expressões genéricas para indicar a afronta a dispositivos legais - arts. 138 a 165 do CC/2002 -, segundo a jurisprudência do STJ torna a fundamentação recursal deficitária e inviabiliza o conhecimento do recurso, devido à aplicação analógica da Súmula n. 284/STF. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 914 "E SEGUINTES" DO CPC/1973. FALTA DE ESPECIFICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DISSÍDIO JURISPRUDENCIAL. SIMPLES TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. "O uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF. Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgRg no REsp n. 1.124.819/AM, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/6/2014, DJe 12/6/2014).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1/8/2017.)
+A Corte a quo concluiu que o registro da escritura pública de compra e venda do imóvel não seria óbice à rescisão do compromisso de compra e venda imobiliário com base no atraso na entrega das obras, nos seguintes termos (fls. 420-421):
+É incontroverso que até a data da distribuição da ação, a parte ré, ora apelante, não havia cumprido integralmente com as obrigações estabelecidas na Cláusula 8a (doe. ordem nº 07).
+Da mesma forma, é incontroverso que foi lavrada escritura pública de compra e venda (doe. ordem nº 09), atestando a quitação do ITBI no valor de R$5.064,21 (doe. de ordem 9); quitação da compra no valor de R$95.000,00 e registrado o imóvel no nome da parte autora, ora apelada (doe. ordem nº 11), a quitação dos débitos de IPTU dos anos de 2014 a 2020 (does. ordem nº 13/20).
+Diante da ausência do cumprimento das obrigações contratuais pela parte Ré/Apelante, a parte Autora/Apelante promoveu a notificação solicitando providências (doe. ordem nº 20/27), ou seja, sem o cumprimento de todo o prometido pela ré, em que pese a transferência do imóvel, não houve o exaurimento do contrato que só restaria integralmente cumprido com a entrega daquilo que ambas as partes se obrigaram.
+A meu ver, ao contrário das ilações da parte Requerida/Apelante, a transmissão do lote, parte do objeto do negócio para o nome da parte Autora/Apelante não enseja a extinção do contrato de promessa de compra e venda, o qual, repita-se, somente se exauriria com o cumprimento integral das obrigações assumidas mutuamente.
+Para revisar tal entendimento, a parte recorrente invocou os arts. 104 e 166 do CC/2002, os quais, todavia, não apresentam o alcance normativo pretendido , porque não tratam especificamente dos efeitos do registro na aquisição imobiliária, tampouco das hipóteses de legais de sua desconstituição.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 104, 138 a 165 e 166 do CC/2002 sob o ponto de vista da parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Segundo a Corte estadual, a transmissão do lote aos adquirentes não implicaria na extinção do contrato de promessa de compra e venda, porque a eficácia do pacto estava condicionada ao cumprimento integral das obrigações assumidas, incluindo a entrega do imóvel no prazo acordado, situação inexistente nos autos (fls. 420-421).
+A respeito de tal razão de decidir, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
