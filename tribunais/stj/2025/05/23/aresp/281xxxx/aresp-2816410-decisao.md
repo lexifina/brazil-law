@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTONIO LUCAS NE (ANTONIO) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESTITUIÇÃO DO CAUSÍDICO. NOVOS PATRONOS. EXECUÇÃO DE HONORÁRIOS DO ADVOGADO DESTITUÍDO. IMPOSSIBILIDADE. PROPOSITURA DE AÇÃO AUTÔNOMA. DECISÃO REFORMADA. 1. O advogado tem legitimidade para executar, nos próprios autos do processo em que atuou, os honorários de sucumbência, desde que não haja conflito entre ele e os atuais patronos da causa. 2. Instaura-se novo litígio quando há discordância em relação à execução de honorários entre a parte exequente e o advogado destituído, o que enseja ao antigo patrono buscar o recebimento dos honorários por meio de ação executiva autônoma. Precedentes do STJ. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. (e-STJ, fl. 1931)
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+ANTONIO interpôs recurso especial com base na alínea a do permissivo constitucional, alegando violação aos artigos 85, § 14, 489, §1º, IV, e 1.022, I, do CPC, 23 e 24, § 1º, da Lei nº 8.906/94 e 288 do CC sustentando que (1) o acórdão recorrido está eivado de omissão, pois não analisou a questão da preclusão, que poderia alterar as conclusões do julgamento. Esclarece que, a despeito de ter destituído o recorrente da condição de seu patrono em março/2013, não se opôs à continuidade do litisconsórcio, e, nesses termos, por certo haveria preclusão do embate sobre a questão central debatida neste recurso. (2) Assevera que a decisão de afastar o advogado do processo viola seu direito autônomo de executar os honorários sucumbenciais nos mesmos autos da ação em que atuou, em sede de cumprimento de sentença, conforme previsto no Estatuto da Advocacia. Entende estar precluso o entendimento acerca do litisconsórcio. Considera que a cessão de crédito realizada pelo Banco do Brasil é considerada ineficaz em relação ao recorrente, pois ele não participou da negociação, violando o princípio de que a cessão não pode afetar terceiros que não consentiram. Isso, sem dizer que não se vislumbra nenhum prejuízo à recorrida a continuidade da cobrança de ambas as verbas - honorários advocatícios sucumbenciais pertencentes ao recorrente e multa pertence a ela, cessionária - em litisconsórcio.
+Da suscitada violação do art. 489, §1º, IV, e 1.022 do NCPC
+Da acurada análise do acórdão que julgou os aclaratórios verifica-se que o Tribunal estadual não tratou sobre o tema visto que apenas consignou:
+Como é cediço, não é cabível ao advogado destituído do patrocínio da causa pleitear a verba honorária durante o curso da demanda. Vale dizer, é incumbência do causídico buscar seus direitos, especialmente os honorários contratuais e/ou sucumbenciais dos quais possa ter sido privado, por meio de uma ação autônoma movida contra o antigo cliente. (e-STJ, fls. 1935).
+De fato, em seu embargos de declaração ANTONIO requereu a manifestação do Tribunal acerca da preclusão, tendo em vista a existência de litisconsórcio sem que a parte interessada oferecesse resistência.
+O tema também não foi tratado no acórdão dos embargos de declaração.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao Tribunal de Goiás para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. EMBARGOS. OMISSÃO. CONFIGURAÇÃO. OFENSA AO ART. 1.022 DO NCPC. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
