@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por FRANKLIN BRUNO ROSA DOS SANTOS contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, a qual inadmitiu o recurso especial por incidência da Súmula n. 7/STJ, bem como negou seguimento ao recurso especial por incidência do Tema 934/STJ.
+Em suas razões, a parte agravante sustenta que, em relação a incidência ou não do Tema 934/STJ,  n ão se trata de pretensão de superação do entendimento consagrado, mas de mera subsunção dos fatos provados às próprias balizas do enunciado (fl. 505).
+Em relação ao óbice do Súmula n. 7/STJ, afirma genericamente que não pretende e nunca pretendeu o reexame de provas, mas sim a declaração de agressão a texto expresso de lei (fl. 506).
+Requer o provimento do agravo para que seja admitido e provido o recurso especial.
+A Procuradoria-Geral da República manifestou-se pelo não conhecimento do agravo (fls. 538-542).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+Inicialmente, cumpre destacar que configura erro não passível de aplicação do princípio da fungibilidade a interposição de agravo em recurso especial com o objetivo de impugnar todos os fundamentos da decisão híbrida que inadmitiu o recurso especial com base em tese firmada em recurso repetitivo e com fundamento nos pressupostos de admissibilidade recursais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO DA PARTE DA DECISÃO DE ORIGEM QUE APLICOU A SISTEMÁTICA DO RECURSO REPETITIVO. PREVISÃO EXPRESSA NO CÓDIGO DE PROCESSO CIVIL. AGRAVO QUE NÃO INFIRMA, ESPECIFICAMENTE, OS ÓBICES DAS SÚMULAS 284/STF E 7/STJ. INCIDÊNCIA DA SÚMULA 182/STJ. NULIDADE DO FLAGRANTE. IMÓVEL EM CONSTRUÇÃO. DOMICÍLIO INABITADO. NÃO OCORRÊNCIA. PRECEDENTES.
+1. O Código de Processo Civil estabelece o cabimento, simultâneo, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, este de competência da Superior Instância, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+ ..
+6. Agravo regimental improvido.(AgRg no AREsp n. 1.875.440/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 19/10/2021, DJe de 22/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DO TRIBUNAL DE ORIGEM QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Conforme determinação expressa contida no art. 1.030, I, "b" e § 2º, c/c o art. 1.042, caput, do CPC/2015, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo (AgInt no AREsp n. 1.539.749/ES, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 12/02/2020).
+2. No caso dos autos, a decisão que negou seguimento ao recurso especial baseou-se nas teses adotadas nos Recursos Repetitivos RESP 1.111.175/SP, Tema 175, DJ 10/06/2009 e RESP 1.143.320/RS, Tema 400, DJ 12/05/2010, e no RE 582.461, com repercussão geral reconhecida sob o Tema n. 214. Desse modo, o agravo em recurso especial não é cabível para afastar os referidos fundamentos.
+3. Em relação aos demais fundamentos da decisão que inadmitiu o recurso especial, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.131.948/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023, grifamos)
+Ademais, o cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica ao óbice contido na Súmula n. 7 do STJ. Nas razões do agravo, de fato, a parte deixou de impugnar especificamente a incidência do referido enunciado.
+Com efeito, o agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório, não tendo realizado a contextualização e indicação de dados concretos constantes do acórdão recorrido.
+Como se sabe, são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023), o que não se verifica na hipótese.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍF ICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido. (AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos)
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+A propósito :
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Não hou ve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido. (AgRg no AREsp 187 1630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023 - grifamos)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
