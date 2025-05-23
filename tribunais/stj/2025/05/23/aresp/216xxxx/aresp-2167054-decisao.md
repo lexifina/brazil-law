@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial porque não demonstrada a violação dos dispositivos legais indicados e tampouco a divergência jurisprudencial (fls. 313-316).
+O acórdão recorrido encontra-se assim ementado (fls. 197-198):
+IMPUGNAÇÃO DE CRÉDITO- CONTRATO DE COMPRA E VENDA COM RESERVA DE DOMÍNIO - CRÉDITO DE NATUREZA EXTRACONCURSAL (ART. 49, § 3º, LRJ) - DESNECESSIDADE DE REGISTRO DO CONTRATO E DA COMPROVAÇÃO DE CONSTITUIÇÃO DO DEVEDOR EM MORA -Decisão recorrida que classificou o crédito da agravante como quirografário - Inconformismo da credora - Acolhimento - Agravante que pretende que o seu crédito seja considerado extraconcursal, nos termos do art. 49, § 3º, Lei nº 11.101/2005, independentemente de registro e da constituição em mora do devedor. O registro do contrato no Registro de Títulos e Documentos não é requisito de existência e validade do negócio, sendo necessário apenas para fins de publicidade e produzir efeitos perante terceiros (art. 522, do Código Civil, c.c. art. 129, n. 5º, Lei n. 6.015/1973). Ademais, a constituição em mora do devedor é necessária apenas para que o credor execute a cláusula de reserva de domínio (art. 525 do Código Civil), e não para pleitear que seu crédito seja considerado extraconcursal em sede de impugnação de crédito, como no caso concreto Decisão reformada para reconhecer o crédito da agravante como extraconcursal - RECURSO PROVIDO COM OBSERVAÇÃO.
+Os embargos de declaração foram rejeitados (fls. 245-250).
+Nas razões do recurso especial (fls. 253-267), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, a parte recorrente aponta ofensa ao art. 1.022 do CPC/2015, porque apesar da oposição dos embargos de declaração, não foi analisado "o fato de a Recorrida ter desistido da pretensão recursal antes da publicação do Acórdão, ato unilateral, irrenunciável e que, com efeito, encontra amparo no artigo 998 do Código de Processo Civil, que não estabelece qualquer limitador para o exercício de referido direito" (fl. 257).
+Indica violação do art. 998 do CPC/2015 defendendo que a desistência do recurso pode ser pleiteada a qualquer tempo, portanto, deve ser homologada a desistência requerida pela parte contrária, realizada cinquenta minutos antes da data da disponibilização do acórdão.
+Suscita divergência jurisprudencial e contrariedade aos arts. 522 do CC/2002 e 49, § 3º, da Lei n. 11.101/2005 defendendo ser necessário o registro do contrato de venda e compra com reserva de domínio no cartório para que seja reconhecida a extraconcursalidade do crédito.
+No agravo (fls. 319-330), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (fl. 356).
+É o relatório.
+Decido.
+De início, não há falar em omissão quanto ao pedido de desistência, que foi expressamente analisado pelo TJSP nos aclaratórios. Confira-se (fl. 247):
+Inicialmente, cumpre observar que não se há falar em omissão, uma vez que o requerimento de desistência do recurso apresentado pela agravante se deu após o término do julgamento do agravo de instrumento. A omissão que lastreia os embargos de declaração refere-se à falta de análise de alguma questão suscitada nas razões recursais, o que não ocorreu na hipótese vertente.
+Ademais, o entendimento da Corte estadual, quanto à impossibilidade de deferir o pedido quando o requerimento é formulado após a conclusão do julgamento, está em consonância com o entendimento desta Corte. Nesse sentido:
+AGRAVO INTERNO NA DECISÃO QUE INDEFERIU O PEDIDO DE DESISTÊNCIA DO ARESP. PLEITO FORMULADO APÓS A CONCLUSÃO DO JULGAMENTO PELA TURMA. PRETENSÃO QUE SÓ COMPORTA ACOLHIMENTO ANTES DO JULGAMENTO PELO COLEGIADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "Consoante orientação consolidada nesta Corte Superior, não obstante o art. 998 do CPC/2015 (correspondente ao art. 501 do CPC/73) - autorizar o recorrente, a qualquer tempo, desistir do recurso -, sua interpretação sistemática conduz à conclusão de que tal pretensão somente pode ser deferida quando formulada anteriormente à conclusão de seu julgamento, para que não prejudique a atividade jurisdicional". (AgInt no AREsp n. 1.803.196/GO, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 3/5/2024) 2. Agravo interno não provido.
+(AgInt na DESIS no AREsp n. 2.374.445/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. RETIRADA DO FEITO DA PAUTA DE JULGAMENTO. PEDIDO DE DESISTÊNCIA. OMISSÃO INEXISTENTE.
+1. Os embargos de declaração visam aclarar obscuridade, eliminar contradição ou suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide. Ausentes essas hipóteses, não procede a irresignação recursal.
+2. O pedido de desistência do recurso deve ser formulado antes do seu julgamento, sob pena de tumultuar o desempenho da atividade jurisdicional.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.202.425/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 10/5/2016, DJe de 23/5/2016.)
+Em relação à desnecessidade de registro do contrato para que o crédito seja considerado extraconcursal, o acórdão recorrido foi assim fundamentado (fls. 200):
+Quanto à necessidade do registro, é certo que o art. 49, § 3º, Lei nº 11.101/2005 (LRJ) não exige registro do contrato para ser considerado extraconcursal.
+O art. 522 do Código Civil, ao dispor sobre a venda com reserva de domínio, diz que "A cláusula de reserva de domínio será estipulada por escrito e depende de registro no domicílio do comprador para valer contra terceiros" (g/n).
+Em reforço, o art. 129, n. 5º, da Lei n.6.015/1973 (Registros Públicos) enuncia que "Estão sujeitos a registro, no Registro de Títulos e Documentos, para surtir efeitos em relação a terceiros (5º) os contratos de compra e venda em prestações, com reserva de domínio ou não, qualquer que seja a forma de que se revistam, os de alienação ou de promessas de venda referentes a bens móveis e os de alienação fiduciária" (g/n).
+Como se vê, a norma exige registro para ter eficácia perante terceiros, e não para fins de demonstrar a existência e validade do negócio jurídico em relação às partes contratantes.
+O entendimento da Corte estadual, de que o registro do contrato é necessário apenas para fins de publicidade, permitindo a oposição a terceiros, está em consonância com a jurisprudência do STJ. Confiram-se:
+DIREITO EMPRESARIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. CONSTITUIÇÃO DA GARANTIA. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE. CRÉDITO NÃO SUJEITO À RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, § 3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária.
+2. "A jurisprudência da Corte orienta que na cessão fiduciária de créditos, cuja legislação de regência não exige o registro como elemento constitutivo da propriedade ou titularidade fiduciária, a transferência ao credor fiduciário se efetiva a partir da contratação e, por esse motivo, os bens não se submetem aos efeitos da recuperação judicial do cedente, sem quebra da expectativa dos demais credores da recuperanda" (AgInt no REsp 1.706.063/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 30/6/2022).
+3. É vedado à parte inovar nas razões do agravo interno apresentando tese não arguida nas contrarrazões ao recurso especial, ante a preclusão.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 946.884/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+DIREITO CIVIL E COMERCIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE DE REGISTRO PARA A CONSTITUIÇÃO DA GARANTIA. CREDOR NÃO SUJEITO Á RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+1. A cessão fiduciária de título de crédito, nos termos da disciplina específica da Lei 4.728/95, com a redação dada pela Lei 10.931/2004, não depende de registro em cartório de títulos e documentos para ser constituída, não se lhe aplicando a regra do art. §1º do art. 1.361 do Código Civil, regente da cessão fiduciária de coisa móvel infungível.
+2. O registro da cessão fiduciária do título de crédito pode ser necessário para salvaguardar eventual direito de terceiro a quem o título de crédito seja oponível, a saber, o devedor do título de crédito cedido pela recuperanda. Não há repercussão na esfera de direitos dos demais credores, donde a irrelevância da existência do registro para o processo de recuperação.
+ ..
+5. Recurso especial conhecido e provido.
+(REsp n. 1.629.470/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 30/11/2 021, DJe de 17/12/2021.)
+Incide a Súmula n. 83 do STJ no caso em apreço .
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
