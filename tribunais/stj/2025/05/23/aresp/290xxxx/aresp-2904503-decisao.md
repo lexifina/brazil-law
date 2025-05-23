@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por B E V L e outros, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo de instrumento: interposto pelos recorrentes contra decisão, proferida nos autos de ação indenizatória, que determinou a suspensão da ação até o julgamento de ação civil pública em trâmite no Estado.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUSPENSÃO DO PROCESSO INDIVIDUAL ATÉ O JULGAMENTO DA AÇÃO CIVIL PÚBLICA QUE TRAMITA NA JUSTIÇA FEDERAL. OPORTUNIDADE PARA REALIZAÇÃO DE ACORDO DE COMPENSAÇÃO FINANCEIRA. TERMO ADITIVO QUE DETERMINAVA O SOBRESTAMENTO DO FEITO ATÉ DEZEMBRO DE 2022. ENTENDIMENTO DA SEÇÃO ESPECIALIZADA CÍVEL PARA SUSPENSÃO DAS AÇÕES ATÉ 31 DE DEZEMBRO DE 2022. PRAZO ULTRAPASSADO. AÇÃO CIVIL PÚBLICA JULGADA EM PRIMEIRA INSTÂNCIA. NECESSIDADE DE PROSSEGUIMENTO DO FEITO, A FIM DE PRESERVAR A SEGURANÇA JURÍDICA E ACESSO À JUSTIÇA. PRECEDENTES. PRELIMINARES NÃO ACOLHIDAS.ALEGADA ILEGITIMIDADE DA PARTE. AUSÊNCIA DE PROVAS. TEORIA DA ASSERÇÃO. ALEGADA EXISTÊNCIA DE COISA JULGADA. DOCUMENTO COMPROVANDO QUE ALGUNS AGRAVANTES FIRMARAM ACORDO NA JUSTIÇA FEDERAL. EFEITO TRANSLATIVO. EXTINÇÃO PARCIAL DO PROCESSO. RECURSO CONHECIDO E PROVIDO. (fl. 307, e-STJ)
+Decisão de admissibilidade do TJ/AL: inadmitiu o recurso especial em razão do seguinte fundamento: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não trata de simples reexame de fatos, muito menos de divergência com a jurisprudência pacífica deste C. Tribunal Superior, mas sim da análise de violações diretas às legislações infraconstitucionais e jurisprudência dessa C. Corte."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
