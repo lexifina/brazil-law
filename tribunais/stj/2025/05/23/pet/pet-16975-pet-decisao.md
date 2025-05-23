@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de PETIÇÃO PFRN 00723877/2024 apresentada em favor de Elisangela Ferreira, que se encontra presa, em que solicita preferência e prioridade no julgamento do habeas corpus apesar de tentativas anteriores de restabelecimento de sua prisão domiciliar.
+A defesa argumenta que a paciente permanece ilegalmente no cárcere, uma vez que a decisão que concedeu a prisão domiciliar não indicava que tal benefício seria cessado (fls. 72).
+O parecer do Procurador da República, constante nos autos às fls. 66/69, opina pelo restabelecimento da prisão domiciliar da paciente, destacando a urgência da situação, especialmente considerando que a filha da paciente, com pouco mais de 4 anos, está sob cuidados de terceiros, acreditando tratar-se de um período de férias (fls. 72).
+A defesa enfatiza que informar à criança sobre o paradeiro da mãe poderia causar danos psicológicos graves, justificando a necessidade de uma interpretação mais benéfica do caso, caracterizando a prisão domiciliar como uma medida humanitária (fls. 72-73).
+A petição cita o processo de origem nº 1525267-26.2022.8.26.0228 e o HCSTJ nº 816418, relatado pela Ministra Laurita Vaz, que concedeu a ordem de habeas corpus de ofício, permitindo que a ré cumprisse pena em execução provisória. A defesa alega que o mandado de prisão foi expedido sem contraditório, desrespeitando princípios constitucionais e cerceando a defesa da paciente (fls. 71).
+Por fim, a advogada Mirian Vidal da Silva, inscrita na OAB/SP, solicita que o mérito do habeas corpus seja apreciado com urgência e preferência, requerendo a expedição de alvará de soltura em favor da paciente, considerando ilegal a decisão que a levou ao cárcere (fls. 72-73).
+A petição foi recebida eletronicamente no STJ em 23 de agosto de 2024, conforme os termos do Art. 1º, § 2º, Inciso III, alínea "b", da Lei 11.419/2006 (fls. 74).
+Decido.
+Na data de hoje foi por mim proferida decisão com o seguinte dispositivo:
+Ante o exposto, nos termos defendidos pelos representantes doMinistério Público Federal, às fls. 66-69 e 200-203, com fundamento no art.932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n.568 do STJ, reconsidero a minha decisão de fls. 94/97 e CONCEDO, DE OFÍCIO A ORDEM DE HABEAS CORPUS, para restabelecer a prisão domiciliar a ELISÂNGELA RODRIGUES DOS SANTOS, sem prejuízo da imposição de outras medidas cautelares alternativas, notadamente o uso de tornozeleira eletrônica, nos termos do art. 319 do Código de Processo Penal, a critério e sob acompanhamento do Juízo da execução.
+Assim sendo, julgo prejudicado o pedido por perda de objeto.
+EMENTA
