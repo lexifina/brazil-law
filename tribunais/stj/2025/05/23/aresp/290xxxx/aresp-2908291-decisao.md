@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ANLISTONES TEOFILO DA SILVA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO no julgamento da Apelação Criminal n. 6864-41.2015.8. 17.037.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa, em acórdão as sim ementado (e-STJ fl. 169):
+PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 14, DA LEI 10.826/2003. DOSIMETRIA DA PENA. REDUÇÃO DA PENA PELA APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. RECONHECIMENTO. NÃO VALORAÇÃO. PENA APLICADA NO MÍNIMO LEGAL. INCIDÊNCIA DA SÚMULA 231 DO STJ. APELO A QUE SE NEGA PROVIMENTO. DECISÃO UNÂNIME.
+A defesa interpôs recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, alegando violação ao art. 65, I; art. 107, IV; art. 109, V; art. 110, § 1º e art. 115, todos do Código Penal e ao art. 61 do Código de Processo Penal.
+Inadmitido o recurso especial, houve a interposição deste agravo.
+O Ministério Público Federal, em seu p arecer, manifestou-se pelo conhecimento do agravo para negar provimento ao recurso especial (e-STJ fls. 272/276).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+No caso dos autos, não há como ser reconhecida a prescrição da pretensão punitiva, conforme pretendido pela defesa.
+Como bem pontuado pelo acordão da origem, "muito embora o juízo tenha aplicado a atenuante da menoridade, o fato é que o apelante já tinha completado 22 (vinte e dois) anos há época dos fatos, afinal, o crime foi cometido no dia 15 de outubro de 2015 e o réu nasceu em 19 de setembro de 1993 (vide consulta de cadastro civil acostada à fl. 33)" (e-STJ fl. 172).
+Dessa forma, não faz jus à redução do prazo prescricional, pois no caso não incide o redutor do art. 115 do CP.
+Mutatis mutandis:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. Reincidência específica. Progressão de regime. POSSIBILIDADE DE RECONHECIMENTO PELO JUÍZO DAS EXECUÇÕES NA ANÁLISE DE BENEFÍCIOS. Recurso desprovido.
+I. CASO EM EXAME
+1. Recurso especial, cujos requisitos de admissibilidade foram cumpridos, interposto contra acórdão que manteve a aplicação da fração de 3/5 para progressão de regime, em razão da reincidência específica em crime equiparado a hediondo.
+2. O recorrente busca a aplicação de percentual menor para progressão de regime, alegando primariedade reconhecida em sentença anterior. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a reincidência específica pode ser considerada pelo Juízo da Execução Penal para fins de progressão de regime, mesmo que não reconhecida na sentença condenatória. III. RAZÕES DE DECIDIR
+4. A reincidência é uma condição de caráter pessoal que pode ser reconhecida pelo Juízo da Execução Penal, afetando todas as condenações e o cálculo dos benefícios executórios.
+5. A jurisprudência do STJ permite que o Juízo das Execuções Penais adeque o cumprimento da sanção penal às condições pessoais do réu, incluindo a reincidência, sem que isso configure reformatio in pejus.
+6. A análise do acervo fático-probatório dos autos é necessária para modificar as conclusões da origem, o que não é permitido em sede de recurso especial.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(AREsp n. 2.549.222/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 6/12/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO DEFINITIVA. EXECUTADO QUE JÁ TINHA CONTRA SI CONDENAÇÃO DEFINITIVA POR TRÁFICO DE DROGAS, QUANDO VEIO A PRATICAR NOVAMENTE O DELITO DE TRÁFICO DE ENTORPECENTES. CONDIÇÃO DE REINCIDENTE APLICÁVEL A TODAS AS CONDENAÇÕES DE MESMA NATUREZA. LEI 13.964/2019. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DAS EXECUÇOES. POSSIBILIDADE. TEMA REPETITIVO N. 1.208 AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+2. O entendimento jurisprudencial desta Corte consolidou-se no sentido de que a reincidência é circunstância pessoal que interfere na integralidade da execução, e não somente nas penas em que ela tiver sido reconhecida. Precedentes: AgRg no HC 660.579/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/10/2021, DJe 11/10/2021; AgRg no HC 616.696/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; AgRg no HC n. 509.877/MS, de minha relatoria, Quinta Turma, DJe 27/6/2019; AgRg no HC n. 450.475/ES, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 21/11/2018.
+3. Não obstante a entrada em vigor da Lei. n. 13.964/2019, esta Corte manteve entendimento de que "a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (AgRg no HC 616.696/SP, Quinta Turma, rel. Min. FELIX FISCHER, DJe 18/12/2020). No mesmo sentido, as decisões monocráticas: REsp 1.957.643/MG, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe de 18/02/2022; REsp 1.978.212/MG, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 10/02/2022; REsp 1.977.504/MT, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 02/02/2022; HC 714.220/MG, Rel. Min. RIBEIRO DANTAS, DJe de 02/02/2022.
+4. O paciente praticou o crime de tráfico de drogas (autos n. 0004565-62.2016.4.03.6002 - data do delito: 27.5.2016) após o trânsito em julgado de uma condenação também por tráfico de drogas (autos n. 0021433-96.2010.8.05.0001 - trânsito em julgado em 13/2/2014), situação que caracteriza reincidência específica em crimes hediondos, de modo que deve ser aplicada a fração de 3/5 no cômputo da progressão de regime para todos os delitos hediondos, bem como excluída a previsão do livramento condicional, conforme entendimento desta Corte Superior.
+5. A Terceira Seção desta Corte, no julgamento do Recurso Especial n. REsp 2.049.870/MG, pela sistemática do recurso representativo de controvérsia, estabeleceu tese, no Tema Repetitivo n. 1.208, no sentido de que "A reincidência pode ser admitida pelo juízo das execuções penais para análise da concessão de benefícios, ainda que não reconhecida pelo juízo que prolatou a sentença condenatória".
+6. Agravo regimental desprovido.
+(AgRg no HC n. 884.785/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
