@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se recurso especial interposto por M A D L, representada por sua genitora F A D, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 06/06/2024.
+Concluso ao gabinete em: 06/12/2024.
+Ação: de obrigação de fazer c/c consignação em pagamento e compensação por dano moral, ajuizada por M A D L em face de UNIMED NACIONAL - COOPERATIVA CENTRAL, alegando o indevido cancelamento, pela operadora, do contrato de plano de saúde, sem a garantia de manutenção de seu tratamento médico.
+Sentença: julgados parcialmente procedentes os pedidos para condenar a UNIMED "a incluir e manter a Autora no plano de saúde ao qual fazia parte ou em plano individual com cobertura correspondente, garantindo a cobertura integral do tratamento de home care da menor" (fl. 240, e-STJ).
+Acórdão: o TJ/SP, por unanimidade, negou provimento a ambas as apelações interpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. RESCISÃO UNILATERAL. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANO MORAL. Sentença de parcial procedência para manutenção do vínculo contratual, rejeitado o pleito indenizatório por dano moral Apelos de ambas as partes. Não acolhimento. Cancelamento da apólice pela operadora. Plano Coletivo. Tema 1.082 do C. STJ. Operadora de plano de saúde que não demonstrou a oferta à autora de plano similar na modalidade individual ou familiar. Comprovação de que está em tratamento de Paralisia Cerebral (CID G80) e Crise Convulsiva (CID G 40). Necessidade da manutenção do vínculo nas mesmas condições praticadas. Precedentes da Câmara. Inocorrência, outrossim, de dano moral na espécie. O mero descumprimento contratual não enseja o pagamento de indenização, conforme precedentes do c. STJ. Ausência de demonstração de agravamento do quadro de saúde da autora e de interrupção de seu tratamento. Honorários advocatícios que só podem ser fixados sobre o valor da causa no caso concreto, em razão da perenidade do tratamento. Balizas do § 2º do art. 85 do CPC que foram respeitadas. Sentença preservada. RECURSOS DESPROVIDOS.
+Recurso especial: alega violação dos arts. 186 e 927 do CC e do art. 85, § 2º, do CPC, bem como dissídio jurisprudencial. Sustenta que o cancelamento do plano de saúde no curso do tratamento, enquanto portadora de paralisia cerebral e crise convulsiva, não pode ser considerado mero aborrecimento, pois se trata de espécie de dano moral in re ipsa, cuja compensação não pode ser fixada em menos de R$ 20.000,00 (vinte mil reais). Afirma que "a obrigação de fazer em questão não apenas ostenta natureza condenatória como também possui um montante econômico auferível, expresso pelo valor da cobertura indevidamente negada" e que "o montante econômico é justamente o valor do tratamento da recorrente" (fl. 375, e-STJ).
+Parecer do MPF: da lavra do I. Subprocurador-Geral Renato Brill de Góes, opina pelo não conhecimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte recorrente não impugnou os fundamentos utilizados pelo TJ/SP para afastar o alegado dano moral - de que não está configurada a ocorrência de ato ilícito pela operadora, bem como de que não houve interrupção do tratamento ou agravamento da condição de saúde da beneficiária - e fixar os honorários sobre o valor da causa - de que "se trata de obrigação de fazer que perdurará por tempo indeterminado (note-se, como transcrito alhures, que o médico assistente da autora reputa seu quadro como aparentemente "irreversível")" (fl. 355, e-STJ) -, razão pela qual deve ser mantido o acórdão recorrido.
+Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere às circunstâncias que sustentam a conclusão sobre a ausência do dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 8% (oito por cento - fl. 356, e-STJ) para 10% (dez por cento) sobre o valor da causa, observada a concessão da gratuidade de justiça (fl. 42, e-STJ).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C CONSIGNAÇÃO EM PAGAMENTO E COMPENSAÇÃO POR DANO MORAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer c/c consignação em pagamento e compensação por dano moral.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+3. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+4. Recurso especial não conhecido.
