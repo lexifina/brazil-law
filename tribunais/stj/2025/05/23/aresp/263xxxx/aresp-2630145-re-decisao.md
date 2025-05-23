@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 551):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Situação em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 587-592).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ofensa ao princípio da fundamentação das decisões judiciais, porque o julgado recorrido não teria enfrentado as teses defensivas capazes de alterar a conclusão adotada.
+Sustenta que o acórdão não estaria em sintonia com o Tema n. 339 do STF e a repercussão geral já teria sido " ..  reconhecida no recurso extraordinário 719.870/MG (tema 670 do STF)  .. " (fl. 603).
+Aduz a inaplicabilidade das Súmulas n. 182 do STJ e 279 do STF no caso.
+Requer a atribuição de efeito suspensivo e, ao final, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 554-557):
+Registro, inicialmente, que a Súmula 182 do STJ - "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" - diz respeito ao agravo interno direcionado ao Colegiado contra decisão monocrática do relator, de que trata o art. 1.021 do CPC de 2015.
+Extensivamente, o referido enunciado sumular é aplicado também ao agravo em recurso especial quando o agravante não impugna todos os fundamentos da decisão de inadmissibilidade do apelo nobre na Corte de origem. Nesse sentido: AgInt no AREsp 1.693.328/SP, rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 1º/10/2020; e AgInt no AREsp 1.461.155/SP, rel. Ministro OG FERNANDES, Segunda Turma, DJe 09/09/2019.
+Na espécie, a recorrente não trouxe nenhum argumento capaz de alterar a decisão atacada, proferida em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão que inadmitiu o recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+No caso dos autos, a decisão ora agravada consignou que os seguintes fundamentos da decisão que inadmitiu o apelo raro não foram objeto de impugnação nas razões de agravo em recurso especial: ausência de afronta ao art. 1.022 do CPC e Súmula 7 do STJ (e-STJ fl. 483).
+De fato, da leitura das razões da referida peça, é possível constatar que a recorrente se limitou a dizer que (e-STJ fls. 395/399):
+ ..
+Assim, não há como afastar a aplicação da Súmula 182 do Superior Tribunal de Justiça ao caso.
+Isso porque, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento" (AREsp 212.401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+Da mesma forma ocorre com o art. 1.022 do CPC/2015, em que a parte recorrente deveria ter demonstrado, nas razões de agravo em recurso especial, qual seria o ponto omisso, contraditório ou obscuro do julgado recorrido, além da pertinência da questão para a resolução da controvérsia, situação não verificada na espécie.
+Registre-se que ""não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça" (AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022)" (AgInt no AREsp n. 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022).
+Ainda, "a alegação de suposta usurpação de competência desta Corte, por si só, não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do recurso especial" (AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 17/8/2022)" (AgInt no AREsp n. 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022).
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração (fls. 589-592):
+No caso dos autos, o voto condutor do acórdão embargado registrou que (e-STJ fls. 554/557):
+ ..
+Pois bem.
+A leitura do trecho em destaque põe em evidência que os embargos não devem ser acolhidos, pois não há nenhuma omissão no julgado embargado.
+Conforme se pode depreender, o acórdão manteve a decisão que aplicou a Súmula 182 do STJ para não conhecer do agravo em recurso especial diante da ausência de impugnação processualmente adequada dos fundamentos de inadmissão do recurso especial atinentes à ausência de afronta ao art. 1.022 do CPC e à incidência da Súmula 7 do STJ.
+Nos embargos de declaração, ao argumento de omissão na análise das razões do agravo interno, a parte recorrente busca a revisão desse entendimento.
+Assim, é possível constatar que não há nenhuma omissão ser sanada e que, em verdade, as alegações deduzidas nos aclaratórios manifestam o inconformismo da embargante com o julgado embargado. No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário e julgo prejudicado o pleito de atribuição de efeito suspensivo .
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
