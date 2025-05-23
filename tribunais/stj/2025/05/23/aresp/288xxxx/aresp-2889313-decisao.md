@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 211 do STJ (fls. 996-1.006).
+O acórdão recorrido está assim ementado (fls. 661-662):
+CUMPRIMENTO DE SENTENÇA - ALEGADA NULIDADE DA DECISÃO AGRAVADA - AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA - APRESENTAÇÃO DE DOCUMENTO NOVO - DOCUMENTOS QUE NÃO SE AMOLDAM ÀS HIPÓTESES DE DOCUMENTOS NOVOS - PRECLUSÃO - NULIDADE DE ALGIBEIRA - IMÓVEIS PENHORADOS - AVALIAÇÃO - LAUDO PERICIAL JUDICIAL - HOMOLOGAÇÃO - DETERMINAÇÃO DE VENDA DOS BENS PENHORADOS - LEILÃO - PERCENTUAL MÍNIMO DE 50% SOBRE O VALOR DA AVALIAÇÃO FIXADO PARA A ARREMATAÇÃO - FUNDAMENTAÇÃO SATISFATÓRIA - NOVA AVALIAÇÃO - DESNECESSÁRIA - IRRESIGNAÇÃO DOS EXECUTADOS - MERA ALEGAÇÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Se a decisão foi pronunciada de forma suficiente e clara sobre as questões discutidas nos autos, sobretudo sobre os argumentos que, em tese, poderiam informar a conclusão adotada, não há nulidade. Precedente do STJ.
+In casu, em que pese às alegações dos agravantes, não há que falar-se em inobservância ao disposto no parágrafo único, do art. 435, do CPC, posto que o recibo apresentado nos autos, não se trata de documento "novo"(recibo de pagamento, acostado ao feito de origem no id. 13057626), de forma que a decisão ora agravada, não merece reforma neste ponto.
+À vista disso, pode-se, portanto, afirmar que o processo é um caminhar para frente e que, por esse motivo, a lei proíbe a redecisão de questão já apreciada, sob o fundamento da preclusão.
+Na espécie, tenho que a conduta perpetrada pelos agravantes, se equipara às hipóteses em que o c. STJ reconheceu a denominada nulidade de algibeira, ou de bolso, que ocorre justamente quando a parte deixa para arguir o vício apenas em momento posterior, dada a conveniência para a sua defesa, e em afronta ao princípio da boa-fé processual, norteador da legislação processual em vigor.
+Considerando a existência de preclusão lógica aliada a alegação de nulidade de algibeira, não há que se falar em irregularidade do ato judicial impugnado.
+Quanto a ilegalidade da fixação do percentual para a arrematação em 50% do valor da avaliação (preço mínimo fixado), sustentando tratar-se de preço vil, tenho que também não merece prosperar, haja vista que foi observado o disposto na norma processual legal.
+Acerca da necessidade de nova atualização monetária do valor da avaliação, conforme entendimento jurisprudencial assente no STJ e nesta Corte, a atualização monetária do valor da avaliação somente deve ocorrer quando transcorrer um significativo lapso temporal entre o ato e a venda, o que não retrata a hipótese dos autos.
+Os dois embargos de declaração opostos pela primeira agravada foram acolhidos nos termos das seguintes ementas (fls. 733 e 894-895):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO EXISTENTE - VÍCIO SANADO - PRELIMINAR DE CONTRARRAZOES - NÃO CONHECIDA - INOVAÇÃO RECURSAL - EMBARGOS ACOLHIDO SEM ALTERAÇÃO DO JULGADO.
+Para que seja cabível os embargos de declaração, é necessário haver conexão entre a matéria arguida e os requisitos ensejadores, conforme preconizam os artigos 1.022, parágrafo único, inc. I, e 489, § 1º, do CPC/2015.
+Tendo em vista que o recurso de agravo de instrumento possui devolutividade restrita, vinculado apenas ao efetivamente decidido na decisão recorrida, a matéria atinente à aplicação de multa por litigância de má-fé, diante da suposta conduta atentatória à dignidade da justiça praticada pelos executados, ora embargados, bem como os argumentos e pedidos a ela correlatos, que não foram analisados pelo magistrado a quo, não podem ser conhecidos neste momento processual, sob pena de ferir os princípios constitucionais do devido processo legal e do duplo grau de jurisdição.
+Apesar de vislumbrado a omissão no acórdão, o vício não modifica a conclusão do julgado.
+EMBARGOS DE DECLARAÇÃO - PRELIMINAR DE ILEGITIMIDADE ATIVA DA RECORRENTE - AFASTADA - ERRO MATERIAL - OMISSÃO - VÍCIO SANADO - PLEITO DE CONDENAÇÃO EM LITIGANCIA DE MÁ-FÉ - INDEFERIMENTO - EMBARGOS ACOLHIDO SEM ALTERAÇÃO DO JULGADO.
+Para que seja cabível os embargos de declaração, é necessário haver conexão entre a matéria arguida e os requisitos ensejadores, conforme preconizam os artigos 1.022, parágrafo único, inc. I, e 489, §1º, do CPC/2015.
+Quanto ao pleito de condenação dos agravantes, ora embargados, pela prática da litigância de má-fé em segunda instância, tenho que não merece acolhimento, ante a ausência dos requisitos dispostos no artigo 80 do CPC, uma vez que a simples propositura de ação ou interposição de recurso não implica em litigância de má-fé, consubstanciando simples exercício do direito de ação ou defesa.
+Acrescento que, conforme os precedentes do Superior Tribunal de Justiça, o reconhecimento da litigância de má-fé depende da parte adversa comprovar ter sofrido dano processual, circunstância que também não restou evidenciada.
+Nas razões do recurso especial (fls. 771-815), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) art. 435, parágrafo único, do CPC/2015, porque o recibo de pagamento teria sido juntado aos autos tão logo localizado, não representando nulidade de algibeira. Afirmou que as razões para a juntada extemporânea foram devidamente demonstradas. Indicou julgados do TJSP, TJMG e do STJ, a fim de demonstrar a divergência de entendimentos, e
+b) arts. 265 e 1.997 do CC/2002, pois seu patrimônio teria sido "levado à alienação por iniciativa particular e efetivamente ARREMATADO sem que houvesse a clara e objetiva delimitação da responsabilidade de cada sucessor e do equilíbrio entre a responsabilidade de cada um com o quinhão que se lhe coube da herança. Aduziu que "não há nenhuma determinação legal que torne os sucessores solidários com o autor da herança nem muito menos com os demais sucessores concorrentes, nem tampouco houve em momento algum do processo ato das partes que os tornasse solidários uns com os outros" (fl. 800).
+Sustentou ainda que "tiveram  ..  sublimado seu direito de invocar os arts. 850 e 917, § 1º, do CPC, que autorizam a redução proporcional da penhora" (fl. 802). Argumentou que a "prerrogativa de estabelecer qual o limite da responsabilidade de cada sucessor e a cotejar com o quinhão recebido de herança implica, portanto, EM DESDOBRAMENTOS DA GARANTIA DE DEVIDO PROCESSO LEGAL, sendo direito dos Recorrentes pleitear a redução de sua penhora aos limites de sua parcela no débito (fl. 803). Indicou julgados do TRT da Segunda Regi ão e do TJMG para demonstrar o dissenso de jurisprudência quanto ao tema.
+Apontou ainda divergência acerca da interpretação do art. 891 do CPC/2015, defendendo a necessidade de atualização monetária da avaliação do imóvel penhorado, haja vista o tempo decorrido entre a avaliação e a arrematação do bem.
+Contrarrazões às fls. 912-936.
+No agravo (fls. 1.009-1.039), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 1.044-1.057).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Quanto à alegada violação do art. 435, parágrafo único, do CPC/2015, o Tribunal de origem assim decidiu a controvérsia (fls. 667-670):
+O douto magistrado a quo, ao fundamentar a decisão agravada quanto ao documento apresentado pelos executados, assim manifestou, verbis:
+"Inicialmente, passo a análise de substancial controvérsia posta pelos executados acerca de documento novo, mais precisamente recibo de pagamento, acostado ao feito de id n. 13057626.
+A alegação de pagamento já foi indeferida e analisada nos autos conforme trecho da decisão que rejeitou a impugnação ao cumprimento de sentença, cito: (..)
+Pelo princípio da concentração dos atos processuais, os documentos que visam a comprovar as alegações das partes devem vir acompanhados da peça inicial ou da contestação.
+O feito originário n. 444/2002 teve início há 22 anos, tempo mais que suficiente para o exercício da defesa Embora seja documento preexistente, esse não foi apresentado na fase cognitiva, e nem mesmo em nenhuma das 02 (duas) impugnações ao cumprimento de sentença ofertadas.
+Em outras palavras, o acolhimento da tese exposta equivaleria a permitir que a parte executada obtivesse vantagens com a alegação da própria torpeza (nemo auditur propriam turpitudinem allegans), ou mesmo prestigiar a nulidade de algibeira.
+Havendo nulidade a parte deve de plano deve ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão.
+ ..
+Sobre a questão, dispõe o art. 508 do CPC: Art. 508. Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido.
+O pedido na forma posta, afronta à segurança jurídica e estabilidade processual.
+Sem mais delongas, imperioso reconhecer a preclusão da juntada de documentos novos pela requerida, isso porque é sabido que a juntada de documentos após a inicial ou contestação só é admissível nos casos descritos no art. 435 do CPC, veja-se:
+Art. 435. É lícito às partes, em qualquer tempo, juntar aos autos documentos novos, quando destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos.
+Consagra, assim, a inviabilidade de a juntada extemporânea dos documentos decorrer de "guarda de trunfo" pela parte. (Manual de direito processual civil. Volume único. 10ª ed. Salvador: Ed. JusPodivm, 2018. p. 788)
+Entretanto, os referidos documentos não se amoldam às hipóteses de documentos novos, aptos a justificar sua admissão, porquanto disponíveis quando do ajuizamento da ação e ausente qualquer motivo plausível que impediu sua juntada anteriormente.
+Com isso, como os documentos não se caracterizam como novos torna-se inviável o acolhimento da tese que de que eles são para contrapor as alegações apresentadas pela parte exequente.
+Isso porque, o art. 435, caput, parte final, do CPC, permite a apresentação de documentos novos para "contrapô-los aos que foram produzidos nos autos", portanto, ainda que seja para contrapor as alegações apresentadas pela parte exequente, como os documentos não caracterizam-se como novos não é possível a sua juntada aos autos após 22 anos de tramitação processual.
+Portanto, resta latente que a parte executada não juntou tais documentos a tempo e modo, perdendo a oportunidade para tanto, o que impede a sua apresentação neste momento processual, porquanto preclusa a pretensão.
+A propósito:
+Art. 223. Decorrido o prazo, extingue-se o direito de praticar ou de emendar o ato processual, independentemente de declaração judicial, ficando assegurado, porém, à parte provar que não o realizou por justa causa.
+Nessa toada, já decidiu o Superior Tribunal de Justiça:
+(..)
+Posto isso, rejeito as arguições de id n. 130157619 e 142798521". (id. 224952660 - Pág. 3/7 - negritei e grifei).
+Dessa forma, em que pese às alegações dos agravantes, não há que falar- se em inobservância ao disposto no parágrafo único, do art. 435, do CPC, posto que o recibo apresentado nos autos, não se trata de documento "novo" (recibo de pagamento, acostado ao feito de origem no id. 13057626), de forma que a decisão ora agravada, não merece reforma neste ponto.
+À vista disso, pode-se, portanto, afirmar que o processo é um caminhar para frente e que, por esse motivo, a lei proíbe a redecisão de questão já apreciada, sob o fundamento da preclusão.
+Por conseguinte, em que pese às alegações dos recorrentes, resta evidente que a matéria trazida à baila quanto ao pagamento integral da chamada parte líquida exigida no presente cumprimento de sentença, está coberta pela preclusão.
+Com efeito, a preclusão é a perda da faculdade processual, pelo seu não uso no momento oportuno (preclusão temporal), pela prática de ato incompatível com o que se pretenda exercitar no processo (preclusão lógica) ou pelo fato de já ter exercido o ato (preclusão consumativa).
+Logo, se a parte discute uma questão no curso do processo e, após ser proferida a decisão a respeito, pratica ato incompatível com o que se pretenda exercitar no feito, faz precluir a possibilidade continuar a discuti-la, ante a ocorrência de preclusão lógica.
+É a regra do art. 507, do CPC: "É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.".
+ ..
+Não obstante, com a devida vênia, ainda que a questão trazida à baila seja matéria de ordem pública, podendo ser discutida a qualquer tempo, não está isenta de ser alcançada pela preclusão temporal e consumativa.
+ ..
+Desse modo, tenho que a conduta perpetrada pelos agravantes, se equipara às hipóteses em que o c. STJ reconheceu a denominada nulidade de algibeira, ou de bolso, que ocorre justamente quando a parte deixa para arguir o vício apenas em momento posterior, dada a conveniência para a sua defesa, e em afronta ao princípio da boa-fé processual, norteador da legislação processual em vigor.
+A Corte local, mantendo o entendimento do Juízo de primeiro grau, não aceitou o recibo apresentado pela parte. Em primeiro lugar consignou não se tratar de "documento novo", porque existente à época do ajuizamento da ação, não tendo sido, ademais, apresentado motivo suficiente para impedir sua juntada anteriormente. Ao contrário disso, entendeu o TJMT que o referido documento teria sido guardado pela parte para ser juntado em momento oportuno.
+Decidir de outro modo, acolhendo a alegação de que foram apresentados motivos justificados para a juntada extemporânea demandaria reexame de elementos fáticos, o que é incabível no especial por força da Súmula n. 7/STJ.
+Além disso, o Colegiado local concluiu pela existência de preclusão acerca da alegação de pagamento da dívida, nos termos do art. 507 do CPC/2015.
+As razões do especial não indicaram possível violação do referido dispositivo de lei, circunstância que atrai a aplicação do óbice erigido pela Súmula n. 283/STF.
+Ademais, o entendimento do Juízo estadual de que mesmo questões de ordem pública estão sujeitas à preclusão encontra amparo na jurisprudência do STJ, a teor do seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE NULIDADE DE ATO JURÍDICO C/C DANO MORAL. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. MATÉRIAS DE ORDEM PÚBLICA. QUESTÃO DECIDIDA. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. SÚMULA N. 568/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+ ..
+5. Esta Corte Superior tem entendimento no sentido de que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional. Precedentes.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.671.683/SC, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Outrossim, o processo está em fase de cumprimento de sentença, sendo que, segundo entendimento exarado por esta Corte, a "invocação do art. 435, parágrafo único, do CPC não pode ser utilizada de forma indiscriminada pela parte com o intuito de juntar documentos em qualquer fase do processo, inclusive após a prolação de sentença, na tentativa de, por vias transversas, desconstituir a coisa julgada" (AgInt no REsp n. 2.034.103/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2023, DJe de 23/8/2023.)
+Os arts. 265 e 1.997 do CC/2002 e as teses referentes à responsabilidade dos sucessores e à possibilidade de redução da penhora não foram examinados pela Corte de origem, de forma que, por ausência de prequestionamento, incide a Súmula n. 282/STF.
+No que diz respeito à atualização do valor da avaliação do imóvel, a Corte estadual entendeu que, no caso, tal providência não seria necessária. Alterar essa conclusão demandaria revisão de elementos fáticos, o que, repito, encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, NEGO PRO VIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
