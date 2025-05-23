@@ -1,0 +1,29 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 997):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. POLICIAIS MILITARES PRONUNCIADOS POR HOMICÍDIO QUALIFICADO. INQUÉRITO POLICIAL MILITAR ARQUIVADO EM DECISÃO NÃO FUNDAMENTADA. INEXISTÊNCIA DE COISA JULGADA MATERIAL. INQUÉRITO POLICIAL POSTERIORMENTE INSTAURADO PELA POLÍCIA CIVIL COM BASE EM NOVAS PROVAS. POSSIBILIDADE. TESE DE VIOLAÇÃO AO ARTIGO 18 DO CPP AFASTADA. INTELIGÊNCIA DA SÚMULA 524 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O inquérito policial militar inicialmente instaurado contra os recorrentes foi arquivado em decisão não fundamentada, que não faz coisa julgada material. Posteriormente, a Polícia Civil instaurou outro inquérito policial, fundado em novas provas que embasaram a denúncia e posterior decisão de pronúncia, não havendo qualquer violação ao artigo 18 do Código de Processo Penal. Inteligência da Súmula 524/STF.
+2. Agravo regimental desprovido.
+As partes recorrentes sustentam a ocorrência de violação do art. 5º, XXXVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alegam que o acórdão recorrido teria violado a coisa julgada ao permitir a reabertura de investigação penal sobre fatos já arquivados com trânsito em julgado, sem novas provas substanciais.
+Argumentam que as novas provas apresentadas no segundo inquérito não seriam substancialmente novas e não alterariam o panorama probatório existente à época do arquivamento.
+Requerem, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 1.039-1.041 e 1.043-1.045.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXVI, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 1.002-1.004):
+Quanto à alegação de violação ao art. 18 do CPP, a matéria já havia sido submetida ao Juízo de primeiro grau, obtendo a seguinte fundamentação:
+A Defesa dos acusados arguiu a preliminar de coisa julgada material, alegando que os fatos já foram apurados nos autos do inquérito n 10004446- 63.2010.8.13.0582, o qual foi arquivado em razão do pedido do Ministério Público, que havia entendido ter a conduta dos acusados sido amparada pela excludente de ilicitude do estrito cumprimento do dever legal. Tal alegação preliminar já foi analisada, consoante decisão de ff. 165/166. Analisando os autos em apenso nº0004446-63.2010.8.13.0582 verifico que houve apenas determinação para arquivamento do feito, não havendo na decisão especificação de qualquer causa que pudesse gerar coisa julgada. Assim, a preliminar não deve ser acolhida.  ..
+O Tribunal de Justiça, ao negar provimento ao recurso em sentido estrito, reiterou os fundamentos de ausência de violação à coisa julgada, ressaltando que o inquérito instaurado pela Polícia Civil estava fundamentado em outras provas, diversas das que constavam do inquérito do âmbito militar, o que demonstra haver cumprimento, e não violação, do art. 18 do CPP.
+ ..
+Verifica-se com acentuada clareza que, inicialmente, a decisão inicial de arquivamento não está fundamentada, não reconhecendo definitivamente qualquer excludente de modo a constituir coisa julgada material. Ademais, no inquérito da Polícia Civil houve produção de novas provas, que fundamentaram a denúncia apresentada e, posteriormente, a sentença de pronúncia, não se identificando qualquer violação ao art. 18 do CPP.
+A jurisprudência desta Corte Superior é uníssona quanto à possibilidade de prosseguimento das investigações, malgrado o arquivamento anterior, desde que produzidas novas provas, como se observou neste caso concreto.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
