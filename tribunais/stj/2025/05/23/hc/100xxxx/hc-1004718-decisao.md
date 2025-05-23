@@ -1,0 +1,15 @@
+DECISÃO
+Ricardo Ribeiro de Lima foi condenado, ao lado de outras duas pessoas, pela prática dos crimes dos arts. 157, § 2º, II e V, e § 2º-A, I, e 158, §§ 1º e 3º, ambos do Código Penal, a cumprir 18 anos e 7 meses de reclusão, em regime inicial fechado, e a pagar 36 dias-multa (Processo n. 1517655-45.2023.8.26.0602, da 4ª Vara Criminal da comarca de Sorocaba/SP).
+Pretendendo a absolvição do paciente por insuficiência de provas, impetrou-se no Tribunal de Justiça de São Paulo o HC n. 2122183-65.2025.8.26.0000.
+A Primeira Câmara de Direito Criminal não conheceu liminarmente da ordem impetrada (fls. 32/36).
+Com a mesma pretensão, inclusive em caráter liminar, ajuizou-se este writ, reiterando-se a tese de que apenas o testemunho da vítima foi usado para o decreto condenatório (fl. 10) e o depoimento da vítima, quando isolado do conjunto probatório, não é suficiente para embasar um decreto condenatório (fl. 23).
+É o relatório.
+Primeiramente, observo que a alegada insuficiência de provas não foi objeto de apreciação pelo Tribunal de origem, de modo que conhecer agora de tal insurgência implicaria indevida supressão de instância.
+Além disso, se há simultâneo ajuizamento de apelação e de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a decisão das questões para o recurso adequado, mormente quando sua análise reclama o exame do conjunto fático-probatório da ação penal. Com efeito,  ..  a matéria suscitada no writ originário será melhor examinada no âmbito da apelação, a qual é dotada de efeito devolutivo amplo, especialmente com a possibilidade de revolvimento da matéria fático-probatória, sendo certo que "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado  pelo  impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe 16/05/2022) (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+Como expôs o Tribunal, a verificação da correção do decreto condenatório é providência que demanda uma análise mais aprofundada do conjunto probatório, e a via adequada para tanto é o recurso de apelação, de maior amplitude, que já foi regularmente interposto e aguarda processamento em primeiro grau de jurisdição, não sendo o "habeas corpus" dele substituto (fl. 35).
+Assim, não há constrangimento ilegal a ser sanado por esta via. A matéria será objeto de discussão e análise pela Corte local por ocasião do julgamento do apelo defensivo.
+À vista do exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE ROUBO E EXTORSÃO. INSURGÊNCIA CONTRA A SENTENÇA CONDENATÓRIA. PRETENSÃO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS . PRÉVIO WRIT NÃO CONHECIDO. APELAÇÃO PENDENTE DE JULGAMENTO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA.
+Writ indeferido liminarmente.
