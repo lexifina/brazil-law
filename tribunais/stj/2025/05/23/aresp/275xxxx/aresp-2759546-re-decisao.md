@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 1.176):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. NULIDADE DAS PROVAS. INVASÃO DOMICILIAR. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. REGIME INICIAL FECHADO. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE INSUFICIÊNCIA DAS PROVAS DE AUTORIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem não se manifestou sobre a alegada ilicitude da prova decorrente de suposta invasão domiciliar, não tendo sido interpostos embargos de declaração para suprir eventual omissão. Incidência do óbice da Súmula 282 do Supremo Tribunal Federal.
+2. A fixação do regime inicial fechado encontra-se devidamente fundamentada na reincidência do agravante e na presença de circunstância judicial desfavorável, conforme entendimento pacífico do Superior Tribunal de Justiça.
+3. A Corte de origem, em decisão devidamente motivada, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela condenação do agravante pela prática dos crimes previstos no art. 12 da Lei nº 10.826/03 (fato 1) e art. 33, caput, e § 1º, II, da Lei nº 11.343/06 (fato 2). Rever tais fundamentos para concluir pela ausência de prova concreta da autoria do acusado importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+4. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.204-1.206).
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXIX, LIV e LV, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Defende a atipicidade da conduta do recorrente, pleiteando a sua absolvição com base no princípio do in dubio pro reo.
+Enfatiza que não há necessidade de reexame de provas.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 1.228-1.231.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+2.1. Importante salientar que esse tema de repercussão geral alcança também a assertiva de violação do princípio da legalidade, conforme demonstram os seguintes precedentes:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO, DO DIREITO ADQUIRIDO, COISA JULGADA E ATO JURÍDICO PERFEITO. OFENSA CONSTITUCIONAL REFLEXA. TEMA 660. VERBAS RECEBIDAS EM VIRTUDE DE DECISÕES ADMINISTRATIVAS. MANUTENÇÃO DO PAGAMENTO ATÉ INTEGRAL ABSORÇÃO POR QUAIQUER OUTROS REAJUSTES FUTUROS CONCEDIDOS AOS SERVIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF. TEMA 395 DA REPERCUSSÃO GERAL.
+1. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+2. Ação que versa sobre o direito de a parte autora perceber o restante dos valores reconhecidos administrativamente e não adimplidos, referentes à incorporação de quintos/décimos.
+3. O Plenário desta CORTE, no julgamento do RE 638.115- EDED/ CE (Rel. Min. GILMAR MENDES, DJe de 8/5/2020), por maioria, acolheu parcialmente os embargos de declaração, com efeitos infringentes, para reconhecer indevida a cessação imediata do pagamento dos quintos, quando fundado em decisão judicial transitada em julgado.
+4. Quanto às verbas recebidas em virtude de decisões administrativas - hipótese dos autos -, modulou-se o efeito da decisão para que o servidor continue recebendo os valores até sua absorção integral por quaisquer reajustes futuros concedidos aos servidores.
+5. O entendimento firmado pelo STF no Tema 395 não implica a extinção de débitos já reconhecidos administrativamente, não adimplidos no tempo apropriado.
+6. Agravo Interno a que se nega provimento.
+(RE n. 886.764-AgR, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Agravo regimental em recurso extraordinário. Servidor público estadual. Policial militar. Processo administrativo disciplinar. Demissão. Violação dos princípios do devido processo legal, da ampla defesa e do contraditório. Inexistência de repercussão geral. Fatos e provas. Reexame. Inadmissibilidade. Legislação infraconstitucional. Análise. Impossibilidade. Precedentes.
+1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal - Tema nº 660 do Quadro de Temas de Repercussão Geral do Supremo Tribunal Federal.
+2. As instâncias de origem reconheceram a legalidade do processo administrativo disciplinar que culminou na demissão do ora agravante amparadas na legislação pertinente e nos fatos e nas provas constantes dos autos.
+3. São inadmissíveis, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF.
+4. Agravo regimental não provido.
+5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(RE n. 1.440.088 AgR, relator Ministro Dias Toffoli, Segunda Turma, julgado em 22/8/2023, DJe de 11/9/2023.)
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXIX, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 1.183-1.188):
+ ..
+Por fim, a alegação de insuficiência das provas da autoria delitiva em relação ao agravante, verifica-se que a Corte de origem, em decisão devidamente motivada, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela condenação do agravante pela prática dos crimes previstos no art. 12 da Lei nº 10.826/03 (fato 1) e art. 33, caput, e § 1º, II, da Lei nº 11.343/06 (fato 2), conforme trechos abaixo (e-STJ Fls. 886/870):
+ .. .
+Assim, rever tais fundamentos para concluir pela ausência de prova concreta da autoria do acusado, como requer o agravante, importa revolvimento de matéria fático- probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ao contrário do alegado pela defesa, não se trata de matéria exclusivamente de direito, mas sim da verificação da suficiência das provas colhidas durante a persecução a embasar as condenações, cuja análise demandaria profunda incursão probatória.
+Ainda que inexistisse tal óbice, a pretensão defensiva não prosperaria, porquanto a prática dos delitos pelos recorrentes foi devidamente comprovada por elementos de prova colhidos na fase investigativa, devidamente corroborados pela prova testemunhal, durante a instrução processual. Nesse sentido, conforme acima descrito, " a  quantidade de entorpecente já embalado, a diversidade de drogas, a quantidade de pés de Cannabis, a forma de acondicionamento do entorpecente, a prévia informação da polícia de que os irmãos traficavam naquele local demonstram que a finalidade de Thiago e William em possuir toda essa droga era uma: comercialização".
+Consta ainda do acórdão impugnado que "as versões dos acusados não restaram comprovadas no feito e, sobretudo, não subsistem diante da uníssona palavra dos policiais (Jair e Ulisses) em juízo - "no sentido de que Thiago fugiu com armas/artefatos bélicos quando da abordagem, ficando claro que estava em conluio com Willian, sendo certo, ainda, que ambos estavam desenvolvendo a narcotraficância no local" (mov. 97) -, em cotejo com os demais elementos de provas coligidos nos autos (cf. mov. 34)." (e-STJ Fl.866).
+Portanto, não há como se desconstituir o farto conjunto-fático probatório delineado pela Corte de origem.
+Ademais, segundo a jurisprudência consolidada desta Corte, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso.
+Nesse sentido:
+ ..
+Alterar tal conclusão demandaria reexame do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
