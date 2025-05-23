@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SEGUROS S.A., contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão da 12ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 2749):
+ADMINISTRATIVO. SFH. INDENIZAÇÃO SECURITÁRIA. INTERESSE PROCESSUAL APÓS QUITAÇÃO DO CONTRATO DE FINANCIAMENTO. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO. PRODUÇÃO PROVA PERICIAL. CERCEAMENTO DE DEFESA.
+1. Conforme precedente do STJ (R Esp Nº 1.622.608/RS, Terceira Turma, Relatora Ministra Nancy Andrighi, julgamento 11/12/2018), à luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto).
+2. Identificado o interesse processual da parte autora e ausente manifestação do juízo de origem acerca dos termos inicial e final da contagem do prazo prescricional, há necessidade de anulação da sentença e se impõe a devolução dos autos à Vara de origem, onde deverão ser sobrestados até o julgamento do Tema 1.039 do STJ, com posterior reapreciação da matéria, inclusive no que tange à produção probatória compatível para a análise do pleito de mérito.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 2787/2794).
+Em seu recurso especial, às fls. 2803/2821, o recorrente sustenta violação aos arts. 17, 485, inciso VI, e 1.022, incisos I e II, do Código de Processo Civil.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 2854/2855):
+Observa-se que o julgado expressamente determinou o sobrestamento dos autos na origem até a conclusão do julgamento do Tema 1.039 do STJ:
+Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação.
+Trata-se de precedente de observância obrigatória e vinculante, com ordem de suspensão nacional.
+Nos termos delineados, o recorrente carece do direito em recorrer, pois não há vantagem a ser obtida e nem prejuízo a suportar (efeito prático), já que apenas determinado o sobrestamento na origem.
+Além do mais, alegação de que o julgado violaria preceitos de lei federal relacionados à matéria, assim como a alegação de dissídio jurisprudencial, esbarra no fato de que a decisão do Tribunal, por ter determinado o retorno dos autos ao juízo de origem para aguardar o julgamento de tema repetitivo da matéria, não se enquadra no conceito de "causa decidida", requisito necessário para o cabimento do recurso especial (Súmula 735 do STF).
+Ante o exposto, não admito o recurso especial.
+Em seu agravo, a parte alega que (fls. 2871/2875):
+Verifica-se que a decisão agravada entendeu que a discussão inserida no Recurso Especial tem similitude com a matéria objeto do Tema 1039 do STJ em relação a prescrição, sendo que o recorrente carece do direito em recorrer, pois não há vantagem a ser obtida e nem prejuízo a suportar (efeito prático), já que apenas determinado o sobrestamento na origem, nos exatos termos da pretensão recursal.
+Contudo, não há como prevalecer tal entendimento.
+É que conforme consignado nas razões recursais entende a Agravante que a falta de interesse de agir ante a quitação do contrato não está vinculada à prescrição, sendo que a primeira implica em extinção do processo sem julgamento de mérito (como entendeu a r. sentença de primeiro grau) e a segunda conduz a extinção do processo com julgamento de mérito (que efetivamente é objeto da suspensão determinada pelo STJ no julgamento do tema 1039).
+Em suas razões recursais a Agravante alegou que houve negativa de vigência aos artigos 17 e 485, inciso VI do CPC, sob a alegação de que com a extinção do contrato também há a extinção do direito do mutuário tendo em vista que as partes não contrataram uma "cobertura eterna" de seguro eis que o intuito do seguro era certificar que a garantia ao financiamento (que é o imóvel) continuasse existindo até a quitação da última parcela. Encerrado o contrato, não há razão para a continuidade do seguro prestamista.
+ ..
+No entanto, em que pese ter sido determinado o retorno dos autos ao Juízo de origem para que fique sobrestado o feito até o julgamento do tema 1039 do STJ (a respeito da prescrição), o fato é que como visto no tópico anterior a discussão colocada nos presentes autos diz respeito a entendimento que em sendo acolhido implicará em extinção do processo sem julgamento de mérito e decidirá a causa de forma definitiva.
+Deve ser ponderado que a Súmula 735 do STJ diz respeito a impossibilidade de interposição de Recurso Extraordinário/Especial em relação a decisão que defere liminar:
+Súmula 735 - "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+O fundamento que embasa a súmula é de que os julgados negam a admissibilidade ao recurso extraordinário fundado em decisão interlocutória pela ausência de utilidade (interesse) no seu debate (o provimento liminar foi absorvido pela sentença) e pela ausência de seu caráter definitivo.
+Contudo, no caso em tela não se trata de decisão interlocutória e sim de decisão definitiva em relação a perda de direito do mutuário de pleitear o direito perante a seguradora ante a extinção do contrato de seguro, inclusive que já tinha levado a extinção do processo em sentença de primeiro grau.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento de que o Tema 1.039/STJ é um precedente de observância obrigatória e vinculante, com ordem de suspensão nacional.
+Em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Vale destacar que as alegações de que a falta de interesse de agir ante a quitação do contrato não está vinculada à prescrição e que houve violação aos artigos 17 e 485, inciso VI, do CPC não servem para impugnar o referido fundamento.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Registro, por fim, que e m verdade, é inadmissível a interposição de recurso contra decisão que determina o sobrestamento do feito em razão da pendência de julgamento de tema submetido à sistemática de recursos representativos de controvérsia repetitiva. Ademais, a alegação de distinguishing deveria ter sido direcionada ao Tribunal de origem, consoante determina o art. 1.037, § 9º, do CPC/2015.
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. SFH. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
