@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TAMARA LUIZA SANTOS DANTAS, TAINA SANTOS DANTAS e MANOEL FERREIRA DOS SANTOS NETO, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/04/2024.
+Concluso ao gabinete em: 08/01/2025.
+Ação: de reparação por dano material cumulada com compensação por dano moral, ajuizada por TÂMARA LUIZA DOS SANTOS DANTAS, TAINÁ SANTOS DANTAS e MANOEL FERREIRA DOS SANTOS NETO, em face das agravadas, na qual alegam que sua genitora foi vítima de acidente automobilístico causado por preposto da agravada AMATO & CRUVINEL LTDA - MICROEMPRESA, sendo esta e as demais agravadas responsáveis solidárias pelo evento narrado. Pleiteiam compensação por dano moral e reparação por dano material.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar as agravadas, solidariamente, ao pagamento de danos materiais ao agravante MANOEL FERREIRA DOS SANTOS NETO, em forma de pensão mensal, na quantia correspondente a dois terços (2/3) de um salário-mínimo, levando-se em consideração o valor legal vigente na data de cada vencimento, desde a data do óbito até o dia em que o autor completará 25 (vinte e cinco) anos de idade, assim como ao pagamento de compensação por danos morais no valor de R$ 30.000,00 (trinta mil reais), para cada um dos autores/agravantes.
+Acórdão: deu parcial provimento à apelação interposta pelos agravantes e negou provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. MORTE DA GENITORA DOS AUTORES. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA EMPRESA PROPRIETÁRIA DA CARGA E DAS TRAN SPORT ADORAS. REJEITADA. RESPONSABILIDADE SOLIDÁRIA. ENTENDIMENTO PACÍFICO DO STJ. EXISTÊNCIA DE INTERESSE ECONÔMICO NO TRANSPORTE. PRELIMINAR DE NULIDADE DE CITAÇÃO AFASTADA. AR DEVIDAMENTE ASSINADO POR PREPOSTO DA EMPRESA AMATO & CRUVINEL. PRELIMINAR DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA INACOLHIDA. ANÚNCIO DO JULGAMENTO DO FEITO CONFORME O ESTADO DO PROCESSO. AUSÊNCIA DE INSURGÊNCIA PELOS AUTORES. MÉRITO. RESPONSABILIDADE DO MOTORISTA DO CAMINHÃO PELO ACIDENTE. RECONHECIMENTO DA ESFERA CRIMINAL. IMPOSSIBILIDADE DE DISCUSSÃO NO JUÍZO CÍVEL. ART. 932, INCISO III, DO CÓDIGO CIVIL. DANOS MORAIS IN RE IPSA. PERDA DA GENITORA DOS AUTORES. QUANTUM MAJORADO PARA R$ 50.000,00 (CINQUENTA MIL REAIS).
+ATENDIMENTO AOS PARÂMETROS DESTA CORTE EM CASO IDÊNTICO. DANOS MATERIAIS COMPROVADOS. DEPENDÊNCIA ECONÔMICA DO AUTOR MANOEL FERREIRA DOS SANTOS NETO. MENOR AO TEMPO DO EVENTO. PENSIONAMENTO FIXADO COM BASE NO SALÁRIO MÍNIMO. AUSÊNCIA DE PROVA DOS RENDIMENTOS DA VÍTIMA. TERMO A QUO: DATA DO ÓBITO. TERMO AD QUEM: DATA EM QUE O AUTOR COMPLETAR 25 ANOS. MULTA PELA INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS MANTIDA. APELO DAS EMPRESAS CONHECIDOS E DESPROVIDOS. APELO DOS AUTORES CONHECIDO E PARCIALMENTE PROVIDOS. (e-STJ Fls. 978/982)
+Recurso especial: alegam violação dos arts. 389 e 944 do CC; 369 e 373 do CPC, e do tema 660/STF. Insurgem-se contra o valor fixado a título de compensação por dano moral, imputando-o irrisório. Sustentam a ocorrência de cerceamento de defesa em virtude do indeferimento do pedido de produção de provas
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao valor fixado a título de compensação por dano mora, bem como em relação à inocorrência de cerceamento de defesa na espécie, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto não fixados em desfavor da parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reparação por dano material cumulada com compensação por dano moral.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
