@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANDERSON MESSIAS DA SILVA HOLANDA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí (HC n. 0751236-98.2025.8.18.0000).
+Consta dos autos que o recorrente foi preso em flagrante pela suposta prática dos crimes de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06) e posse irregular de arma de fogo de uso permitido (art. 12, caput, da Lei n. 10.826/03), sendo a prisão posteriormente substituída por medidas cautelares, entre elas a imposição de monitoração eletrônica.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem.
+No presente recurso, a defesa alega constrangimento ilegal em virtude da excessiva duração da medida de monitoração eletrônica, a qual vem sendo aplicada ao recorrente há mais de um ano e cinco meses, sem qualquer reavaliação judicial, contrariando, segundo sustenta, o princípio da provisoriedade das medidas cautelares, previsto no art. 282, § 5º, do Código de Processo Penal, bem como na Resolução nº 213/2015 do Conselho Nacional de Justiça.
+Argumenta que, durante esse período, o recorrente não praticou qualquer infração penal, possui residência fixa, foi regularmente citado e não interferiu no andamento do processo. Destaca, ainda, que a instrução criminal foi encerrada desde 21/ 9/2023, estando pendente apenas a apresentação de alegações finais. Sustenta que a manutenção da medida, sem justificativa e sem reavaliação periódica, viola os princípios da razoabilidade, da proporcionalidade e da presunção de inocência.
+Reforça, ainda, que a medida acarreta sérios prejuízos à dignidade do recorrente, comprometendo sua reinserção social e afetando sua vida profissional e familiar, funcionando, na prática, como uma antecipação indevida de pena. Menciona o precedente do Superior Tribunal de Justiça no HC 351.273/CE, da relatoria do Ministro Nefi Cordeiro, que reconheceu a ilegalidade da imposição da tornozeleira eletrônica sem motivação concreta, e invoca o princípio da isonomia, ao mencionar que a corré Selma Cristiane Soares da Silva, em situação análoga, obteve liminar para retirada da tornozeleira.
+Diante disso, requer a concessão de medida liminar para a revogação da monitoração eletrônica, com a confirmação definitiva da ordem ao final do julgamento deste recurso.
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da monitoração eletrônica imposta ao paciente no momento da concessão de sua liberdade provisória.
+Ocorre que, conforme informação extraída do endereço eletrônico do Tribunal de origem, em 22/4/2025, o recorrente foi condenado à pena de 7 anos, 3 meses e 15 dias de reclusão e 1 ano, 5 meses e 15 dias de detenção, em regime inicial fechado, sendo-lhe concedido o direito de recorrer em liberdade. Nessa oportunidade, foram revogadas todas as medidas cautelares impostas ao acusado quando da concessão da liberdade provisória.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
