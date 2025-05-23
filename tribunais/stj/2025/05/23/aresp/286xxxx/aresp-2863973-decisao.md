@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO . PRELIMINAR DE CERCEAMENTO DE DEFESA . INOCORRÊNCIA . AUSÊNCIA DE PROVAS DA CONTRATAÇÃO. DANOS MORAIS. CABIMENTO. MANUTENÇÃO DO VALOR FIXADO. 1. Nos termos do artigo 370 do Código de Processo Civil, cabe ao juiz o direcionamento da instrução do processo, com a determinação das diligências a serem realizadas para a formação de seu convencimento. Deste modo, o reconhecimento de inutilidade da prova solicitada para a solução lide não caracteriza cerceamento de defesa. 2. Não comprovada a contratação, resulta inexistente o débito atribuído àquele que não se revela consumidor efetivo, tornando, assim, indevida a cobrança correspondente. 3. Caracteriza-se o dano moral ante a inscrição indevida no nome do consumidor no cadastro de inadimplentes, comportando a manutenção da verba indenizatória, em consonância com os princípios da razoabilidade e da proporcionalidade, a fim de aperfeiçoar a finalidade pedagógica e repressiva da recomposição da lesão imaterial provocada, sem, contudo, causar enriquecimento ilícito da outra parte. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA" (fl. 241).
+Nas razões do recurso especial, a recorrente aponta ofensas ao arts. 188, I, do CC, 31, IV, da Lei n. 8.987/95, 2º, 3º, I, e 4º, IV, da Lei n. 9.427/96.
+Sustenta, em síntese, a ausência da sua responsabilidade civil, a título de dano moral, ante a falta da prática de ato ilícito por parte da agravante.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+A respeito da controvérsia, o tribunal local, com fulcro no acervo fático-probatório dos autos, concluiu que a recorrente não comprovou a contratação de serviços por parte da recorrida, sendo indevida a inscrição do nome da parte autora em cadastro de proteção do crédito, gerando danos morais in re ipsa, fixando o valor indenizatório em R$ 8.000,00 (oito mil reais). A título elucidativo, transcreve-se o seguinte excerto do acórdão estadual:
+" ..
+Desse modo, a recorrente não comprovou a existência de contratação de serviços por parte da autora, uma vez que não foi apresentado nenhum contrato ou requerimento assinado, nem gravação telefônica.
+ ..
+Ao transportar a legislação ao caso vertente, imperiosa a conclusão da ilicitude da conduta da apelante, como bem verificado na sentença, à medida que não foi comprovada a existência de contratação da requerente com a empresa requerida. Dessa forma, não havendo a recorrente se desincumbido de demonstrar o negócio jurídico questionado nos autos, impõe-se a declaração da inexistência de débito a justificar a negativação do nome da autora, tal como declarado na sentença.
+ ..
+Sabe-se que a inclusão indevida do nome do consumidor no cadastro de proteção ao crédito é fato gerador de dano moral in re ipsa, isto é, dispensa prova do dano no caso concreto. No caso dos autos, ficou evidenciada a inclusão indevida do nome da apelada nos cadastros de inadimplentes, ato ilícito que enseja a indenização por danos extrapatrimoniais.
+Nesse sentido, o Superior Tribunal de Justiça tem entendimento pacificado no sentido de que "a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplente enseja o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos" (fls. 238-239).
+Na hipótese, não se verifica afronta aos dispositivos legais tidos por violados, porquanto o entendimento do Tribunal de origem encontra-se em conformidade com o entendimento desta Corte Superior, a qual possui jurisprudência no sentido de que, nas hipóteses de inscrição indevida em órgão de restrição ao crédito, como a dos autos, o dano moral opera-se in re ipsa, ou seja, decorre do próprio fato da referida inscrição, sendo desnecessária a sua comprovação. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. INDENIZAÇÃO POR DANOS MORAIS. CABIMENTO. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A jurisprudência desta Corte Superior entende que a reparação por dano moral em casos de inscrição indevida em cadastro de inadimplentes dispensa a prova da ofensa ao direito da personalidade, por se tratar de dano in re ipsa (presumido).
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.612.713/GO, relator MINISTRO MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024 - g. n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. SÚMULA N. 7 DO STJ AFASTADA. NOVA ANÁLISE. INDENIZAÇÃO. DANOS MORAIS. PROTESTO INDEVIDO. INSCRIÇÃO INDEVIDA NO CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos casos de protesto indevido de título e de inscrição indevida em cadastro de proteção ao crédito, o dano moral é considerado in re ipsa.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.513.837/GO, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024 - g. n.)
+Assim, encontrando-se o acórdão local em sintonia com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+EMENTA
