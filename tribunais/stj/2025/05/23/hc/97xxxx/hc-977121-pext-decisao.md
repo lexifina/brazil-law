@@ -1,0 +1,24 @@
+DECISÃO
+Por meio da petição protocolizada sob o n. 00383281/2025, é requerida a extensão, em favor de GABRIEL LUIZ JACINTHO DE SOUZA, dos efeitos da decisão que concedeu o habeas corpus em benefício do corréu Jefersom Xavier dos Santos.
+Alega-se, em suma, que o requerente está em situação fático-processual idêntica à do paciente Jefersom.
+O Ministério Público Federal opinou pelo deferimento do pedido de extensão (fls. 904/907).
+É o relatório.
+O art. 580 do Código de Processo Penal estabelece que, no caso de concurso de agentes (art. 25 do CP), o decisum do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese, o decreto de prisão preventiva, ao impor a custódia cautelar, explicitou que o periculum libertatis de fato é nítido, diante da gravidade concreta da conduta, evidenciado pelas circunstâncias e modus operandi do ato criminoso, bem como a quantidade e natureza droga apreendida (1,53 kg de cocaína, balanças de precisão, material de embalagem) - (fls. 11 e 14 - grifo nosso):
+ ..
+Gabriel foi abordado dentro de seu veículo VW/Gol, onde foram encontradas 11 porções de substância análoga à cocaína e R$ 67,00 (sessenta e sete reais). Em sua residência, mediante consentimento, localizaram-se 1,53 kg de cocaína, balanças de precisão, material de embalagem e dois televisores possivelmente furtados.
+ ..
+Não bastasse, conforme consta no Boletim de Ocorrência, a equipe policial recebia denúncias constantes sobre a venda de entorpecentes no local.
+Demonstra, com isso, possuírem conduta voltada à prática do delito, de modo que é necessário frear a empreitada criminosa, que vem sendo por eles desenvolvidas, não sendo suficientes as medidas cautelares diversas da prisão.
+Em tempo, é de se ressaltar que o tráfico de drogas é, inegavelmente, o mote da grande maioria dos crimes perpetrados, atualmente, na Comarca de Umuarama/PR, bem como nas demais cidades do Estado, sendo, portanto, medida necessária, adequada e recomendada, para o caso concreto, a prisão cautelar, para acautelamento da ordem pública, visando, assim, evitar-se a reiteração delitiva por parte dos autuados.
+ ..
+A propósito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Ademais, na residência do requerente, além da relevante quantidade de droga apreendida e dos materiais típicos utilizados para o tráfico, foram encontrados dois televisores, o que, em tese, sugere a prática de outro crime.
+Tal possibilidade é corroborada pelo relato constante do auto de prisão em flagrante, que menciona que a denúncia cita que o indivíduo por nome de Gabriel, o qual é proprietário de um veículo GOL, de cor preta, é o fornecedor da droga, sendo entorpecentes de vários tipos, ele fornece a droga para outros traficantes venderem, bem como para os frentista do posto de combustível revenderem aos usuários  ..  e que ainda há informação de que o Gabriel segura objeto de furto, o qual é usado como moeda de droga por usuários (fl. 50 - grifo nosso).
+Assim, diante da quantidade relevante de droga apreendida, da possível prática de outro crime pelo requerente e dele ser o principal fornecedor das drogas na localidade, não há falar em situação fática processual idêntica entre o requerente e o corréu beneficiado, estando a custódia cautelar devidamente fundamentada na gravidade concreta da conduta, evidenciada pelas circunstâncias e modus operandi do ato criminoso.
+Ademais, a decisão que concedeu a liberdade em favor do corréu se referiu ao fato de que o réu é primário, sem maus antecedentes e as circunstâncias dos autos não exigem tão gravosa medida como a prisão preventiva, pelo que a segregação cautelar do paciente se mostra desproporcional, mormente por se tratar de delito cometido sem violência ou grave ameaça e com apreensão de apenas 14,9 g de cocaína em posse do denunciado (fl. 68 da denúncia), circunstâncias de caráter exclusivamente pessoal, o que impede a extensão ao corréu.
+Ante o exposto, indefiro o pedido de extensão em relação a GABRIEL LUIZ JACINTHO DE SOUZA (Ação Penal n. 0016640-86.2024.8.16.0173).
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE 1,53 KG DE COCAÍNA, BALANÇAS DE PRECISÃO, MATERIAL DE EMBALAGEM E TELEVISORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INEXISTÊNCIA DE SITUAÇÃO FÁTICO-PROCESSUAL IDÊNTICA À DO CORRÉU BENEFICIADO. RELEVANTE QUANTIDADE DE DROGA APREENDIDA E POSSÍVEL PRÁTICA DE OUTRO CRIME.
+Pedido de extensão indeferido.
