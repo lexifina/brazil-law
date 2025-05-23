@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 554):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. EMPRÉSTIMO CONSIGNADO. JUROS REMUNERATÓRIOS. INSTRUÇÃO NORMATIVA Nº 28/2008 DO INSS. A instrução normativa INSS nº 28/2008 prevê a limitação da taxa de juros aplicáveis aos contratos de empréstimo consignado, mas não do Custo Efetivo Total da operação de crédito bancário, que engloba outras verbas, tais como: tarifas, tributos, seguros e outras despesas. Litiga com má-fé a parte que, sabidamente sem razão, subverte por completo a veracidade dos fatos, com o único intuito de obter vantagem indevida.
+V.V. DISCREPÂNCIA ENTRE O PERCENTUAL AJUSTADO, O CUSTO EFETIVO TOTAL (CET) E A INSTRUÇÃO NORMATIVA Nº 28/2008 DO INSS. LIMITAÇÃO DA TAXA. RESTITUIÇÃO SIMPLES. - De acordo com o art. 13, II, da Instrução Normativa nº 28/08 do INSS, com redação vigente na data da contratação, a taxa de juros não poderá ser superior a 2,08% ao mês, devendo expressar o custo efetivo do empréstimo. - Não configurada a má-fé, é inadmissível a restituição em dobro dos valores indevidamente cobrados,
+Nas razões do recurso especial (fls. 567-575), fundamentando no art. 105, III, "a" e "c", da CF, o recorrente apontou divergência jurisprudencial e violação dos seguintes dispositivos:
+(i) art. 6º, § 1º, da Lei n. 10.820/2003, pois a taxa de juros deve ser limitada ao percentual disposto na Instrução Normativa n. 92/2017 do INSS, equivalente a 2,08% ao mês, e
+(ii) arts. 80 e 81 do CPC, alegando a necessidade de exclusão da multa por litigância de má-fé.
+Contrarrazões não apresentadas (fl. 580).
+É o relatório.
+Decido.
+Inicialmente, no que se refere à limitação dos juros ao percentual de 2,08% ao mês, conforme a Instrução Normativa n. 92/2017 do INSS, a Corte de origem consignou que "em seus cálculos a parte demandante claramente confunde a taxa de juros aplicada com o custo efetivo total e ainda desconsidera a capitalização de juros, que foi devidamente pactuada" (fl. 559). Concluiu, assim, que, "ausente a incidência de taxa de juros superior àquela determinada na Instrução Normativa n. 28/2008 do INSS, não há qualquer abusividade a ser declarada e tampouco valores a serem restituídos" (fl. 563).
+Contudo, no recurso especial, apontando contrariedade ao art. 6º, § 1º, da Lei n. 10.820/200C, a parte sustenta somente que a taxa de juros deve ser limitada ao percentual disposto na Instrução Normativa n. 92/2017 do INSS, equivalente a 2,08% ao mês.
+Como não houve impugnação de fundamento do acórdão recorrido, incide no caso a Súmula n. 283 do STF.
+Ademais, não se conhece da alegada ofensa à Instrução Normativa n. 92/2017 do INSS, pois dispositivos de resoluções, portarias, regulamentos ou circulares não constituem matéria passível de análise por meio de recurso especial.
+Por fim, o Tribunal de origem reconheceu a litigância de má-fé do recorrido. Nesse contexto, afirmou que "a litigância de má-fé da requerente é da mais lídima clareza, pois procurou alterar a verdade dos fatos ao afirmar que a taxa de juros mensais pactuadas eram abusivas, além de tentar usar do processo para conseguir objetivo ilegal, consistente na obtenção de limitação da taxa de juros que já se encontra em conformidade com a norma regulamentadora da espécie, bem como devolução do indébito" (fl. 563).
+Rever a conclusão do Tribunal a quo quanto à litigância de má-fé, demandaria nova incursão no conjunto probatório, providência vedada na instância especial, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NÃO CONHEÇO d o recurso especial. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC.
+Publique-se e intimem-se.
+EMENTA
