@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de tutela antecipada antecedente formulado por INSTITUTO PAULISTA DE ENSINO E CULTURA (IPEC) e OUTRO, visando "a cassação do indevido efeito suspensivo entregue no processo 2232446-04.2024.8.26.0000 indevidamente movido por BANCO SANTANDER (BRASIL) S/A" (fl. 3).
+Alegam que "o banco Recorrido iniciou recurso contra processo que ganhou (falta de interesse recursal), com base em tese INEXISTENTE e nunca antes apresentada (supressão de instancia), que foi intempestivamente interposta ensejando preclusões diversas, mas principalmente ofendeu COISA JULGADA do ARESP 1297237/SP e com base em decisão inexistente no momento da propositura da demanda que sequer transitou em julgado. Mas mesmo assim, o Recorrido foi premiado com concessão liminar de efeito suspensivo a toda essa aberração jurídica aceita pelo Tribunal a quo " (fls. 4-5). Aduzem que "o presente processo deu-se por atos de usurpação e confisco de bens das Recorrentes ocorridas há mais de 18 ANOS ATRÁS pelo Recorrido, fatos esses incontestáveis, sendo a sua "maioridade" razão mais que suficiente ao caráter de urgência" (fl. 6). Acrescentam que o agravo de instrumento não seria o recurso cabível, a tese nele apresentada estaria preclusa, além de ter-se operado a coisa julgada. Ao final, requerem (fl. 12):
+I. Seja LIMINARMENTE declarado NULO e/ou INADMISSÍVEL e/ou EXTINTO, todos os atos do processo originário qual seja Agravo de Instrumento (2232446-04.2024.8.26.0000) pois PRECLUSOS, INTEMPESTIVOS, com supressão de instancia e com ERRO GROSSEIRO de proposição.
+II. Seja LIMINARMENTE declarado a COISA JULGADA do Agravo de Instrumento (2232446-04.2024.8.26.0000) pois o STJ no ARESP 1297237/SP (DOCUMENTO 03) já assim determinou em 2018.
+III. Seja cassada a liminar indevidamente concedida ao Recurso Especial da Recorrida e que indevidamente suspendeu o processo executório.
+IV. Por fim requer a condenação por litigância de má-fé e ato atentatório a dignidade da justiça interpor recurso sabidamente indevido e eivado de preclusões e subterfúgios com único intuito protelatório abusando do direito de defesa inclusive inventando fatos para locupletar-se indevidamente.
+É o relatório.
+Decido.
+Das peças juntadas, depreende-se que o recurso especial ainda não ultrapassou a fase do juízo de admissibilidade, tendo apenas sido analisado o pedido de efeito suspensivo e aberto vista para contrarrazões.
+A competência do STJ para apreciar requerimentos da espécie inaugura-se, a rigor, somente depois de publicada a decisão que examina a admissibilidade do recurso excepcional, conforme dispõe o art. 1.029, § 5º, I, do CPC/2015.
+Somente em hipóteses excepcionais, quando de pronto evidenciada a ausência dos requisitos para o deferimento da medida e, outrossim, demonstrado o perigo de dano reverso, esta Corte admite o requerimento precoce de contracautela para cassar o efeito suspensivo deferido na origem.
+Não é o caso dos autos, todavia.
+Conforme se colhe da fundamentação exarada na decisão que atribuiu efeito suspensivo ao especial da parte contrária (fls. 50-52), existe probabilidade de êxito do recurso, haja vista que a questão atinente à aplicação da Taxa Selic, à primeira vista, encontra respaldo em julgamento de recurso repetitivo pelo STJ.
+Além disso, haveria seguro garantia apresentado nos autos, de forma que o bloqueio relativo à parte controvertida do débito causaria prejuízos ao recorrente.
+Ademais, não foi apresentado pelos requerentes nenhum ato evidente e concreto de perigo de dano reverso, somando-se que as alegações apresentadas quanto ao descabimento do agravo de instrumento, além de não estar claro se foram apresentadas ao Juízo de origem, demandariam, ao que parece, reexame de elementos fáticos, o que não pode ser realizado nesta instância.
+Por todo o exposto, à míngua de haver sido demonstrada as excepcionais condições que autorizam o pronto exame do requerimento, NÃO CONHEÇO do pedido.
+Publique-se. Intimem-se.
+EMENTA
