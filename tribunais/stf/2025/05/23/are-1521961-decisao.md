@@ -1,0 +1,87 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. PRECEDENTES. ALEGADA AFRONTA AOS INCS. XXXV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. TEMAS 660 E 895 DA REPERCUSSÃO GERAL. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado da Primeira Turma Recursal dos Juizados Especiais Federais de São Paulo:
+
+    “AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO. DECISÃO AGRAVADA EM PERFEITA SINTONIA COM A TESE FIRMADA NO PRECEDENTE RELEVANTE. NEGADO PROVIMENTO” (fl. 5, e-doc. 30).
+
+    2. No recurso extraordinário, o agravante afirma que teriam sido contrariados os incs. XXXV e LV do art. 5º da Constituição da República.
+
+    Assevera que o acórdão recorrido afronta o princípio da segurança jurídica e nega-lhe o direito à devida prestação jurisdicional e à ampla defesa “ao julgar improcedente o reconhecimento como especial dos períodos de 01/04/2009 a 05/09/2009, de 01/07/2010 a 01/02/2012 e de 20/06/2013 a 21/03/2019 em razão da ausência no PPP acerca da indicação do responsável técnico pelos registros ambientais, SEM CONVERTER O JULGAMENTO EM DILIGÊNCIA” (fl. 6, e-doc. 33).
+
+    Esclarece “porque, a presente demanda foi ajuizada em 02/02/2021, sendo que, entre os documentos anexados à inicial encontra-se o Perfil Profissiográfico Profissional do Autor que atesta a exposição a agentes nocivos nos respectivos períodos. Contudo, verifica-se um erro formal, pois não há indicação do responsável técnico no referido documento. Cumpre asseverar que, até o momento, a jurisprudência dos Tribunais Regionais Federais e da Turma Nacional de Uniformização majoritariamente dispensava a menção ao responsável pela monitoração dos registros ambientais no PPP (...). No entanto, em 26/06/2021, houve o trânsito em julgado do Tema nº 208 da TNU” (fl. 6, e-doc. 33).
+
+    Sustenta que “o entendimento fixado por meio do Tema nº 208 da TNU teve o seu trânsito em julgado apenas em 26/07/2021, ou seja, em data POSTERIOR ao ingresso da presente ação, em 03/02/2021. Nesse sentido, frisa-se que um dos princípios basilares do Estado Democrático de Direito é a segurança jurídica, de modo que a tese fixada NÃO pode surpreender o jurisdicionado com a negativa de seu direito, sendo caso de modulação dos efeitos, conforme estabelece o artigo 927 do CPC, o que não ocorreu no caso em análise” (fl. 12, e-doc. 33).
+
+    Pede “que o presente RECURSO EXTRAORDINÁRIO seja conhecido e integralmente provido, para ANULAR a Decisão recorrida, com a finalidade de converter o julgamento em diligência, com a abertura de prazo para que o Recorrente junte aos autos o LTCAT e declaração do empregador (já apresentados) para fins de comprovação de inalteração no ambiente de trabalho ou em sua organização ao longo do tempo, de forma a complementar o PPP colacionado aos autos, nos termos do Tema 208 da TNU” (fl. 14, e-doc. 33).
+
+    3. O recurso extraordinário não foi conhecido por ser manifestamente incabível, em razão de ter sido interposto contra decisão irrecorrível (e-doc. 35).
+
+    4. Neste agravo, o agravante sustenta que “o Juízo ‘a quo’ fundamentou-se na previsão contida no artigo 11, parágrafo 3º, da Resolução CJF3R nº 80/2022, que determina que da decisão proferida com fundamento nos incisos II e III, caberá agravo interno, que será julgado pela Turma Recursal a que pertence o juiz que a proferiu, mediante decisão irrecorrível. No entanto, menciona-se que a garantia de acesso à instância recursal, sobretudo em casos nos quais se discutem direitos previdenciários, é essencial para assegurar a plena proteção dos interesses dos segurados e a efetivação dos direitos sociais previstos na Constituição Federal” (fl. 6, e-doc. 37).
+
+    Pede “seja o presente Agravo recebido e provido para reformar a decisão agravada, no sentido de dar seguimento ao Recurso Extraordinário” (fl. 16, e-doc. 37).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. Tem-se no § 1º do art. 1.035 do Código de Processo Civil que, para efeito da repercussão geral, há de se considerar a demonstração de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa. Não basta afirmar ter o tema repercussão geral, alegando que ”o presente caso é de profunda Repercussão Geral, uma vez que aborda questões que transcendem o interesse subjetivo e individual do Recorrente. O acórdão recorrido viola direitos fundamentais ao deixar de analisar e valorar as provas válidas constantes nos autos, o que resultou em uma prestação jurisdicional insuficiente e contrária aos princípios da segurança jurídica, do contraditório e da ampla defesa” (fl. 14, e-doc. 33). É ônus legalmente conferido e exclusivo do recorrente demonstrar, com argumentos substanciais, haver na espécie relevância econômica, política, social ou jurídica, o que não ocorreu.
+
+    A insuficiência da argumentação expressa, formal e objetivamente articulada pelo agravante para demonstrar, nas razões do recurso extraordinário, a repercussão geral da matéria constitucional arguida inviabiliza o exame do recurso extraordinário.
+
+    Embora o agravante tenha mencionado que a controvérsia trazida nos autos “é de profunda Repercussão Geral” (fl. 14, e-doc. 33), não foram desenvolvidos argumentos suficientes para cumprir o objetivo da exigência constitucional.
+
+    Insuficiente alegar ter o tema repercussão geral, sendo ônus do recorrente demonstrar ter-se, na espécie, relevância econômica, política, social ou jurídica, o que não foi cumprido.
+
+    Ressalte-se que este Supremo Tribunal tem entendimento no sentido de que até mesmo os recursos cujas matérias sejam de repercussão geral reconhecida devem apresentar preliminar devidamente fundamentada:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INSUFICIÊNCIA DA FUNDAMENTAÇÃO DA REPERCUSSÃO GERAL. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. INADMISSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. INCIDÊNCIA DAS SÚMULAS 282/STF e 356/STF. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). CONSTITUCIONAL. REPASSE PELO ENTE FEDERATIVO AO INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES DO ESTADO DO RIO DE JANEIRO DOS DESCONTOS INCIDENTES SOBRE OS VENCIMENTOS INCIDENTES DOS SERVIDORES MUNICIPAIS DA CONTRIBUIÇÃO PARA CUSTEIO DE SERVIÇOS DE SAÚDE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, ainda que se trate de repercussão geral presumida ou reconhecida em outro recurso. II – O Supremo Tribunal Federal não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. III – Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. IV – Agravo regimental a que se nega provimento” (RE n. 1.339.918-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.11.2021).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. 1. Nos termos da orientação firmada nesta Corte, cabe à parte Recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional veiculada no recurso extraordinário. 2. Mesmo nas hipóteses em que se considera presumida a repercussão geral, revela-se insuficiente a fundamentação da existência de repercussão geral de recurso extraordinário em que se restringe a alegar de forma genérica e lacônica que a controvérsia possui repercussão geral, sem fazê-lo por meio da abertura de preliminar formal e fundamentada. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC, e majoração de honorários advocatícios, nos termos do art. 85, § 11, do CPC” (ARE n. 1.069.978-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 5.4.2018).
+
+    Na espécie, não foi atendido o § 3º do art. 102 da Constituição da República, pela ausência de demonstração de relevância e transcendência da causa, a tornar insuficiente a articulação do tema na petição, revelando-se a inviabilidade do recurso. Confiram-se, por exemplo, os julgados seguintes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO CONSTITUCIONAL MERAMENTE REFLEXA. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. Agravo interno a que se nega provimento” (RE n. 1.059.349-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.009.600-AgR, de minha relatoria, Plenário, DJe 15.3.2017).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica, para que seja atendido o requisito previsto no art. 102, § 3º, da CF e no art. 543-A, § 2º, do CPC/1973, requisito não observado pela recorrente. II - Nos termos do art. 85, § 11, do CPC, deixo de majorar os honorários recursais, uma vez que não foram fixados pelo juízo de origem. III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º do CPC” (ARE n. 924.553-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 7.12.2016).
+
+    “QUESTÃO DE ORDEM. RECONHECIMENTO, PELO SUPREMO TRIBUNAL FEDERAL, DA PRESENÇA DA REPERCUSSÃO GERAL EM DETERMINADO PROCESSO. PRELIMINAR FORMAL E FUNDAMENTADA DE REPERCUSSÃO GERAL NOS OUTROS RECURSOS QUE TRATEM DO MESMO TEMA. EXIGIBILIDADE. 1. Questão de ordem resolvida no sentido de que o reconhecimento, pelo Supremo Tribunal Federal, da presença da repercussão geral da questão constitucional em determinado processo não exime os demais recorrentes do dever constitucional e processual de apresentar a preliminar devidamente fundamentada sobre a presença da repercussão geral (§ 3º do art. 102 da Constituição Republicana e § 2º do art. 543-A do CPC). 2. Agravo regimental desprovido” (ARE n. 663.637-AgR-QO, Relator o Ministro Ayres Britto, Plenário, DJe 6.5.2013).
+
+    7. Ainda que pudesse ser superado esse óbice processual, o que não se dá na espécie, melhor sorte não assiste ao agravante
+
+    8. Não procedem os argumentos do agravante quanto à ofensa aos incs. XXXV e LV do art. 5º da Constituição da República. No julgamento do Recurso Extraordinário com Agravo n. 748.371-RG, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando necessário o exame da legislação infraconstitucional:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371, Relator o Ministro Gilmar Mendes, Tema 660, DJe 1º.8.2013).
+
+    No julgamento Recurso Extraordinário n. 956.302, precedente do Tema 895 da repercussão geral, no qual analisada alegação de afronta ao princípio da inafastabilidade de jurisdição, o Ministro Edson Fachin, Relator do recurso, destacou em seu voto:
+
+    “Em que pese o estatuto constitucional do princípio da inafastabilidade de jurisdição em abstrato (art. 5º, XXXV, da Constituição da República) constata-se que, no caso concreto, o Recorrente fundamenta o apelo extremo em argumentos genéricos, demonstrando inconformismo com o deslinde legal, fundado em normas de direito processual civil, do acórdão recorrido, o que não se admite em sede de recurso extraordinário, por exigir o reexame de legislação infraconstitucional.
+
+    Em situações como a dos presentes autos, eventual ofensa ao princípio da inafastabilidade de jurisdição seria de natureza indireta, sendo firme a jurisprudência do Supremo Tribunal Federal no sentido de que o debate nesses termos não alcança estatura constitucional” (Plenário, DJe 16.6.2016).
+
+    Naquela assentada, fixou-se a seguinte tese:
+
+    “A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral”.
+
+    No caso dos autos, o inconformismo do agravante dirige-se contra julgado que decidiu, fundado em normas infraconstitucionais, que “o acórdão recorrido está em plena consonância com o Tema n. 208 do(a) Turma Nacional de Uniformização”, o qual estabelece requisitos para a validade do Perfil Profissiográfico Previdenciário (PPP) para fins do reconhecimento de aposentadoria especial. Logo, há óbice processual intransponível ao exame da controvérsia em recurso extraordinário, consistente na ausência de ofensa constitucional direta.
+
+    Declarada sem repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o inc. III do art. 932 e o art. 1.035 do Código de Processo Civil e o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+    Nada há a prover quanto às alegações do agravante.
+
+    9. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 23 de maio de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
