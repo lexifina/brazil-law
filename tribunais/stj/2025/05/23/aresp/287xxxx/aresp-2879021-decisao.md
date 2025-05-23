@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fls.  86-87):
+AGRAVO  INTERNO  NO  AGRAVO  DE  INSTRUMENTO.  DECISÃO  MONOCRÁTICA  QUE  NÃO  CONHECEU  DO  AGRAVO  DE  INSTRUMENTO  POR  AUSÊNCIA  DE  COMPROVAÇÃO  DE  PREPARO  NO  ATO  DE  SUA  INTERPOSIÇÃO  QUE  SE  MANTÉM.  INAPLICABILIDADE  DE  MULTA.
+Preliminar  de  nulidade  da  decisão  agravada  rejeitada.
+Único  equívoco,  dos  três  arguidos,  dizia  respeito  a  afirmação  de  que  a  GRERJ  estaria  vinculada  a  outro  recurso,  erro  sanado  na  decisão  monocrática  que  julgou  os  embargos  de  declaração.
+As  demais  arguições  não  se  trata  de  equívoco  do  julgador,  mas  da  parte  recorrente  que  deixou  de  comprovar,  no  ato  da  interposição  do  recurso,  e  mesmo  após  intimação,  o  devido  preparo.
+Com  efeito,  conforme  esposado  na  decisão  monocrática,  no  ato  de  interposição  do  agravo  de  instrumento,  a  agravante  não  indicou  qualquer  número  de  GRERJ  a  fim  de  comprovar  o  devido  preparo,  o  que  ensejou  a  certidão  cartorária  acerca  do  não  recolhimento  das  custas.
+Diante  disso,  foi  determinada  a  regularização  das  custas  em  dobro,  nos  termos  do  art.  1.007,  §  4º,  do  CPC,  determinação  não  cumprida  pela  recorrente,  que  limitou-se  a  informar  número  de  GRERJ,  a  qual  restou  vinculada  ao  processo  originário,  conforme  certidão  da  Secretaria  do  Juízo.
+Ainda  que  fosse  possível  reconhecer  equívoco  no  preenchimento  da  guia  pela  vinculação  da  GRERJ  a  processo  diverso  (art.  1.007,  §  7º,  do  CPC),  é  ônus  da  recorrente  providenciar  a  desvinculação  da  GRERJ  do  processo  equivocado  para  posterior  vinculação  ao  processo  devido,  o  que  tampouco  foi  realizado  pela  recorrente,  não  obstante  intimação.
+Cumpre  notar  que  passados  meses  após  a  interposição  do  recurso,  ainda  não  foi  demonstrado  pela  recorrente  a  correta  vinculação  da  GRERJ  ao  agravo  de  instrumento.
+Assim,  sendo  indispensável  a  vinculação  e  conferência  da  guia  para  o  correto  recebimento  e  processamento  do  recurso,  tendo  sido  oportunizado  prazo  para  regularização,  nos  art.  1.007,  §  4º,  do  CPC,  quinquídio  ignorado  pela  recorrente,  de  rigor  a  manutenção  da  decisão  agravada  que  não  conheceu  do  agravo  de  instrumento.  Precedentes  desta  Corte  de  Justiça.  NEGADO  PROVIMENTO  AO  RECURSO
+Nas  razões  de  recurso  especial,  alega  a  parte  agravante,  em  suma,  violação  dos  artigos  489  e  1.007  do  Código  de  Processo  Civil.
+Sustenta  que:  "Considerando  que  houve  o  devido  recolhimento  das  custas  previamente,  bem  como  a  comprovação  no  ato  de  interposição,  não  caberia  a  recorrente  efetuar  novo  recolhimento,  sobretudo  em  dobro,  eis  que  não  aplicável,  ao  caso,  o  disposto  no  §4º  do  art.  1.007,  do  CPC"  (e-STJ,  fl.  98).
+Defende  a  nulidade  do  acórdão  por  deficiência  de  fundamentação  quanto  ao  argumento  de  que  o  número  indicado  na  guia  de  recolhimento  do  recurso  de  agravo  de  instrumento  não  correspondia  a  número  de  processo  diverso,  mas  ao  número  dos  autos  principais.
+Apresentadas  contrarrazões  (fls.  126-128),  pugnando  o  não  provimento  do  recurso.
+O  recurso  não  foi  admitido  na  origem,  nos  termos  da  decisão  de  fls.  130-135.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Não  assiste  razão  à  parte  agravante.
+Após  a  análise  de  fatos  e  provas  levados  aos  autos,  a  Corte  de  origem  concluiu  que  não  foi  comprovado  o  preparo  do  recurso  de  agravo  de  instrumento  interposto  na  origem,  destacando  expressamente  que,  ainda  que  fosse  desconsiderado  o  fundamento  de  que  houve  a  indicação  de  número  de  processo  diverso  na  guia  de  recolhimento,  a  parte  deveria  ter  informado  o  número  do  agravo  de  instrumento  interposto  e  não  o  número  dos  autos  originais.
+Respectiva  circunstância  revela  ser  adequada  a  fundamentação  do  acórdão,  não  subsistindo  portanto  a  tese  de  nulidade  por  deficiência  de  fundamentação,  conforme  se  verifica  no  trecho  do  acórdão  abaixo  reproduzido,  em  especial  das  passagens  em  destaque  (fls.  87-89):
+Cuida-se  de  agravo  interno  interposto  contra  decisão  unipessoal  desta  Relatora  que  não  conheceu  do  agravo  de  instrumento  interposto  por  ausência  de  comprovação  de  regularidade  de  preparo.
+Passo,  por  primeiro,  ao  exame  da  preliminar  de  nulidade  da  decisão  agravada,  que,  segundo  alegações  da  recorrente,  teria  adotado  premissas  equivocadas  para  sua  conclusão.
+Sem  razão.
+Primeiro,  porque  o  único  equívoco,  dos  três  arguidos,  dizia  respeito  a  afirmação  de  que  a  GRERJ  estaria  vinculada  a  outro  recurso,  erro  sanado  na  decisão  monocrática  que  julgou  os  embargos  de  declaração  -  id  0045.
+As  demais  arguições  não  se  trata  de  equívoco  do  julgador,  mas  da  parte  recorrente  que  deixou  de  comprovar,  no  ato  da  interposição  do  recurso,  e  mesmo  após  intimação,  o  devido  preparo,  como  se  demonstrará  a  seguir.
+Assim,  rejeita-se  a  preliminar  arguida.
+Passo  ao  exame  mérito.
+Consoante  estabelecido  no  artigo  932,  III,  do  CPC,  incube  ao  relator  não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida,  tendo  o  agravo  de  instrumento  originalmente  interposto  esbarrado  em  um  desses  óbices.
+Com  efeito,  conforme  esposado  na  decisão  monocrática,  no  ato  de  interposição  do  agravo  de  instrumento,  a  agravante  não  indicou  qualquer  número  de  GRERJ  a  fim  de  comprovar  o  devido  preparo,  o  que  ensejou  a  certidão  cartorária  do  id  0020  acerca  do  não  recolhimento  das  custas.
+Diante  disso,  foi  determinada  a  regularização  das  custas  em  dobro,  nos  termos  do  art.  1.007,  §  4º,  do  CPC  -  id  0022,  determinação  não  cumprida  pela  recorrente,  que  limitou-se  a  informar  nos  autos  o  recolhimento  da  Guia  de  nº  21738607591-42  (id  0024),  sendo  prestada  a  seguinte  informação  pela  Secretaria  do  Juízo:
+(..)
+Verifica-se,  portanto,  que  a  referida  GRERJ  não  foi  vinculada  ao  agravo  de  instrumento  interposto,  autuado  sob  o  n.º  0035174-31.2024.8.19.0000,  mas  ao  processo  originário.
+A  norma  que  regulamenta  a  matéria  o  âmbito  deste  Tribunal  de  Justiça  é  o  Ato  Normativo  TJ  n.º  09/2009,  que  assim  dispõe:
+(..)
+Observe-se  que  norma  regente  é  do  ano  de  2009,  quando  a  GRERJ  passou  a  ser  eletrônica,  mas  as  petições  ainda  eram  protocolizadas  em  papel  no  PROGER.
+Por  isso  a  determinação  de  que  as  serventias  judiciais  vinculassem  as  guias  de  recolhimento  recebidas,  para  que  fosse  possível  realizar  conferência  e  certificação.
+Contudo,  quando  as  petições  passaram  a  tramitar  de  forma  eletrônica,  a  vinculação  da  guia  passou  a  ser  de  responsabilidade  dos  advogados  e  a  correta  instrução  da  peça  processual,  no  ato  de  interposição  do  recurso,  é  requisito  indispensável,  sob  pena  de  não  conhecimento.
+Ainda  que  fosse  possível  reconhecer  equívoco  no  preenchimento  da  guia  pela  vinculação  da  GRERJ  a  processo  diverso  (art.  1.007,  §  7º,  do  CPC),  é  ônus  da  recorrente  providenciar  a  desvinculação  da  GRERJ  do  processo  equivocado  para  posterior  vinculação  ao  processo  devido,  o  que  tampouco  foi  realizado  pela  recorrente,  não  obstante  intimação.
+Cumpre  notar  que  passados  meses  após  a  interposição  do  recurso,  ainda  não  foi  demonstrado  pela  recorrente  a  correta  vinculação  da  GRERJ  ao  agravo  de  instrumento  (grifamos).
+Assim,  sendo  indispensável  a  vinculação  e  conferência  da  guia  para  o  correto  recebimento  e  processamento  do  recurso,  tendo  sido  oportunizado  prazo  para  regularização,  nos  art.  1.007,  §  4º,  do  CPC,  quinquídio  ignorado  pela  recorrente,  de  rigor  a  manutenção  da  decisão  agravada  que  não  conheceu  do  agravo  de  instrumento.
+Por  outro  lado,  ao  considerar  a  premissa  fática  de  que  não  houve  a  indicação  correta  do  número  do  processo  referente  ao  agravo  de  instrumento  na  guia  de  recolhimento  das  custas,  a  alegação  genérica  de  que  houve  a  indicação  do  correto  número  na  referida  guia  não  comporta  acolhimento  na  presente  oportunidade  em  virtude  do  disposto  na  Súmula  7/STJ.
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+Descabida  a  majoração  de  honorários  advocatícios,  porque  a  decisão  alvo  do  recurso  especial  tem  natureza  interlocutória,  não  comportando  o  estabelecimento  de  verbas  sucumbenciais.
+Intimem-se.
+EMENTA
