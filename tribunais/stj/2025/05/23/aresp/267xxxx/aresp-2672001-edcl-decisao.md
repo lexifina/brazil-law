@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Trata-se de embargos de declaração opostos por CRISTOVÃO BOLANHO DE FARIA e FLÁVIO AUGUSTO DE SOUZA BATISTA contra decisão monocrática que não conheceu do agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão agravada (Súmula 182/STJ), ausência de cotejo analítico demonstrativo de dissídio jurisprudencial (art. 1.029, § 1º, do CPC c/c art. 255, § 1º, do RISTJ), e incidência da Súmula 7/STJ.
+Os embargantes alegam contradição no decisum, afirmando que a manifestação do Ministério Público Federal mencionada na decisão embargada não se referiria ao agravo por eles interposto, mas sim à petição apresentada por corréu. Sustentam, ainda, que suas razões recursais impugnaram ponto a ponto os fundamentos da decisão agravada, inclusive demonstrando adequadamente o dissídio jurisprudencial e afastando o óbice da Súmula 7/STJ.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, cabem embargos de declaração contra acórdão ou decisão colegiada para esclarecer ambiguidade, obscuridade, contradição ou omissão.
+No caso, não se verifica contradição, omissão ou qualquer outro vício apto a justificar a oposição dos embargos de declaração.
+Quanto à alegação de que o parecer ministerial teria se limitado ao agravo interposto por outro acusado, observa-se que o parecer constante dos autos (e-STJ fls. 2210/2213) refere-se ao processo como um todo, sem delimitação objetiva que o restrinja ao corréu Paulo Sérgio de Mello. A simples ausência de menção expressa ao nome dos embargantes no corpo do parecer não permite concluir que a manifestação do Ministério Público Federal tenha desconsiderado o agravo interposto por eles, sobretudo considerando que o parecer foi lançado em processo conjunto.
+Ademais, a decisão embargada analisou efetivamente o agravo interposto pelos embargantes e consignou, de maneira fundamentada, que as suas razões não enfrentaram de forma individualizada e suficiente os três fundamentos autônomos da decisão de inadmissibilidade do recurso especial, caracterizando ofensa ao princípio da dialeticidade e incidência da Súmula 182/STJ. Não há, portanto, omissão ou contradição a ser sanada, mas mero inconformismo dos embargantes com o resultado do julgamento, situação que não enseja o manejo da via eleita.
+Por fim, as alegações quanto à existência de impugnação suficiente no agravo, à inexistência de reexame probatório e à demonstração do dissídio jurisprudencial já foram enfrentadas na decisão embargada, com fundamento na jurisprudência pacífica desta Corte, inexistindo qualquer ponto relevante que tenha sido omitido.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
