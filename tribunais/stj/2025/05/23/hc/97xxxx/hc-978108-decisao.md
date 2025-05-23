@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ERIC FRANCISCO XAVIER em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática das condutas descritas nos arts. 2º da Lei n. 12.850/2013 e 273, § 1º, do Código Penal.
+A impetrante alega que a ausência de entrega da cópia da denúncia ao paciente no momento da sua citação constituiria cerceamento de defesa, uma vez que teria impossibilitado o acusado de ter ciência do conteúdo da peça acusatória e de exercer o seu direito ao contraditório e à ampla defesa.
+Requer, liminarmente, a suspensão da ação penal originária. No mérito, pugna pela concessão da ordem para que sejam declarados nulos todos os atos processuais subsequentes à citação, determinando-se a reabertura do prazo para apresentação de resposta à acusação, com a entrega da cópia integral da denúncia ao paciente.
+A liminar foi indeferida (fls. 1.167-1.168).
+Nova manifestação do paciente às fls. 1.176-1.179.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (fls. 1180-1183).
+É o relatório.
+Esta Corte de Justiça já firmou a compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+O rito do habeas corpus exige prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira clara e evidente, a pretensão deduzida e a existência do constrangimento ilegal, ônus do qual não se desincumbiu a impetrante, em relação à nulidade da citação sem a entrega de cópia da denúncia.
+Relativamente à suposta nulidade, o Tribunal local examinou a questão nos seguintes termos (fls. 22-23):
+Verifico que a denúncia foi oferecida em 29/11/2024 e recebida em 04/12/2024, oportunidade em que foi determinada a citação dos denunciados.
+Conforme se extrai da certidão emitida pelo Oficial de Justiça (ordens de nº 289), "em cumprimento ao mandado retro, diligenciei ao endereço indicado neste, onde, com as cautelas legais, CITEI ERIC FRANCISCO XAVIER, de todo teor do mandado, o(a) qual ficou bem ciente, recebeu a contrafé que lhe entreguei e deixou de exarar sua assinatura. Certifico mais que, o requerido declarou que possui condições financeiras de constituir advogado para sua defesa nos autos" (ordem nº 289).
+Portanto, o mandado de citação emitido para o paciente foi devidamente cumprido na unidade prisional em que ele se encontra acautelado no dia 13/12/2024 e a certidão colacionada ao feito originário em 18/12/2024. Frente ao exposto, verifico que tanto o mandado de citação quanto a certidão obedeceram às formalidades legais dispostas nos arts. 352 e 357 do Código de Processo Penal.
+Quanto à alegação de ausência de entrega de cópia da denúncia no momento da citação, ressalto que a exordial acusatória é composta por 891 (oitocentos e noventa e uma) páginas, o que inviabiliza a entrega a cada um dos denunciados.
+Ressalto, ainda, que a Dra. Tatiana da Silveira Reis, inscrita na OAB/MG sob o nº 77.713, encontra-se cadastrada nos autos originários como patrona do paciente, o que permite o pleno acesso aos documentos constantes nos autos e, assim, o exercício regular do contraditório e da ampla defesa, não havendo que se falar, neste momento, em nulidade.
+Não se constata, portanto, constrangimento ilegal a autorizar a concessão da ordem.
+Isso porque, conforme afirmado pelo próprio paciente, houve a citação válida, ou seja, pessoal, no estabelecimento prisional em que se encontra detido.
+Inclusive, por ocasião da citação, o próprio paciente afirmou que possuía advogado constituído nos autos, tendo-lhe sido esclarecido o motivo da citação, embora não tenha sido entregue cópia da denúncia.
+Conforme elucidado pelo Tribunal de origem, a denúncia possui oitocentas e noventa e uma páginas, razão pela qual não foi entregue a cópia da denúncia.
+Em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte.
+Aplica-se também o Enunciado sumular n. 523 do Supremo Tribunal Federal, segundo o qual, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+Conforme a jurisprudência pacífica de ambas as Turmas que compõem a Terceira Seção desta Corte Superior, não evidenciado prejuízo à defesa, mostra-se inviável reconhecer nulidade no processo, ainda que sob o pretexto de vício de ordem absoluta, como requerido no presente feito.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. NULIDADE POR AUSÊNCIA DE CITAÇÃO. NÃO OCORRÊNCIA. RÉU FORAGIDO. CITAÇÃO POR EDITAL. ADVOGADO CONSTITUÍDO NOS AUTOS. CIÊNCIA INEQUÍVOCA DA IMPUTAÇÃO PENAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A citação do acusado é o ato processual por meio do qual se perfectibiliza a relação jurídico-processual penal deflagradora do devido processo legal substancial.
+2. O colegiado de origem afastou a nulidade por cerceamento de defesa por estar comprovado nos autos que o acusado tinha total conhecim ento da ação penal, porquanto constituiu defensor logo após a decisão de primeiro grau que recebeu a denúncia, determinou a citação dos acusados e decretou a prisão preventiva, concluindo que, "embora não tenha sido encontrado para ser citado por estar foragido, teve o seu direito de defesa amplamente exercido".
+3. Na hipótese, a despeito de o paciente encontrar-se foragido desde a data dos fatos e de serem infrutíferas as diversas tentativas de intimação pessoal do acusado, durante toda a instrução processual ele foi devidamente assistido, tendo respondido a todos os atos processuais por meio de advogado constituído, de modo que a finalidade da citação foi integralmente alcançada.
+4. Desse modo, não há como reconhecer a nulidade por cerceamento de defesa, mormente porque não comprovado prejuízo decorrente da citação por edital, sendo certo que o paciente não pode beneficiar-se de sua própria torpeza a fim de nulificar os atos processuais a que deu causa.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 823.208/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+No caso em apreço, após a citação regular foi apresentada a defesa pela própria advogada constituída, não havendo a demonstração do prejuízo alegado, já que devidamente assistido pela defesa técnica.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
