@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, mandado de segurança impetrado por ANTÔNIO CARLOS RIBEIRO MOREIRA contra ato atribuído ao MINISTRO DA SAÚDE E UNIÃO FEDERAL, objetivando, em sede de tutela provisória de urgência, "que se determine à autoridade coatora que regularize o acesso do impetrante ao Sistema de Gerenciamento de Programas - SGP, viabilizando imediatamente a sua inscrição no Edital do programa Mais Médicos, ainda que de forma extemporânea" (fls. 4-13).
+Sustenta a impetrante, em suma, que: a) é médico, graduado em Medicina pela Universidade Gama Filho, do estado do Rio de Janeiro em 04 de outubro de 2006, atuando, no presente momento no Munícipio de Formosa do Rio Preto/BA; b) imbuído do desejo de trabalhar na Atenção Primária, decidiu inscrever-se no Programa Mais Médicos, que teve Edital publicado no dia 2 de maio de 2025 e cujas inscrições deveriam ser realizadas entre os dias 5 e 8 de maio de 2025, por meio do portal SGP; c) "ao tentar efetuar sua inscrição no portal SGP, enfrentou uma série de dificuldades técnicas que o impediram de acessar o sistema: 1. No momento de inserir seu login e senha, foi surpreendido pela notificação de "acesso negado". Pensou ter esquecido a sua senha foi, então, em "Esqueci minha senha", mas essa tentativa revelou-se igualmente infrutífera, pois, ao tentar modificar a senha, recebeu a notificação de que seu CPF não correspondia à data de nascimento cadastrada, impossibilitando, assim, o acesso ao sistema."; d) "tentou buscar soluções junto ao suporte técnico do portal SGP, protocolando uma Reclamação na Ouvidoria sob o nº de protocolo 25072.022106/2025-16 destinada ao Ministério da Saúde, mas não obteve nenhuma resposta"; pugnando pela concessão de medida liminar, inaudita altera pars, para "determinar à autoridade coatora que regularize o acesso do Impetrante ao Sistema de Gerenciamento de Programas - SGP, viabilizando imediatamente sua inscrição no Edital do Programa Mais Médicos, ainda que de forma extemporânea".
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre esclarecer que nos termos do que asseveram as normas de regência do mandado de segurança, em especial o disposto no art. 5º, LXIX e LXX, da Constituição da República, bem como o art. 1º da Lei nº 12.016/09, o mandado de segurança destina-se à proteção de direito individual ou coletivo, líquido e certo, lesado ou ameaçado de lesão por ato de autoridade coatora não amparado por "habeas corpus" ou "habeas data", independentemente da categoria ou da função.
+Por sua vez dispõe o art. 10, da Lei nº 12.016/2009:
+A inicial será desde logo indeferida, por decisão motivada, quando não for o caso de mandado de segurança ou lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal para a impetração.
+Quanto aos pressupostos específicos do mandado de segurança, MARIA SYLVIA ZANELLA DI PIETRO leciona:
+Além dos pressupostos processuais e das condições da ação exigíveis em qualquer procedimento, são pressupostos específicos do mandado de segurança:
+1. ato de autoridade;
+2. ilegalidade ou abuso de poder;
+3. lesão ou ameaça de lesão;
+4. direito líquido e certo não amparado por habeas corpus ou habeas data.
+Quanto ao primeiro requisito, considera-se ato de autoridade todo aquele que for praticado por pessoa investida de uma parcela de poder público. Esse ato pode emanar do estado, por meio de seus agentes e órgãos ou de pessoas jurídicas que exerçam funções delegadas. (..)". (Direito Administrativo. 15ª ed. - São Paulo: Atlas, 2003, p. 636-637).
+Como visto, a ocorrência de ato de autoridade que acarrete ameaça ou lesão a direito líquido e certo da pessoa é condição primordial para a admissibilidade do Mandado de Segurança, o que não restou evidenciado na espécie.
+No caso dos autos, apura-se que, o ato apontado como coator seria a omissão pela ausência de resposta à "Solicitação" de acesso ao feita pelo impetrante no "Fala.BR", Plataforma Integrada de Ouvidoria e Acesso à Informação (fl. 28), serviço disponibilizado pela Controladoria Geral da União, órgão de controle interno.
+Dessa maneira, sem descuidar da importância do pleito apresentado no presente writ, inexiste vinculação entre a omissão da plataforma da Ouvidoria disponibilizada pela Controladoria Geral da União e o Ministro da Saúde que enseje na legitimidade da autoridade coatora apontada.
+Sendo assim, por constituir a indicação do ato coator pressuposto de desenvolvimento válido e regular do mandado, deve ser indeferida a inicial.
+Isso posto, indefiro a petição inicial com fundamento no art. 6º, §5º c/c art.10 da Lei 12.016/09.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e da Súmula 105/STJ.
+Intimem-se.
+EMENTA
