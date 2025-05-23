@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 387-389).
+O acórdão recorrido encontra-se assim ementado (fl. 289):
+Compromisso de compra e venda. Revisão contratual. Falta de audiência de conciliação. Prejuízo não demonstrado. Nulidade não configurada. Correção mensal pelo IGP-M e juros aplicados conforme Tabela Price. Legalidade. Ausência de abuso de direito ou onerosidade excessiva no caso concreto. Modificação forçada das condições do contrato que constitui medida excepcional. Art. 421 do CC. Ação improcedente. Recurso improvido.
+Os embargos de declaração foram acolhidos sem efeitos modificativos (fls. 298-301).
+Nas razões do recurso especial (fls. 304-317), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais: 1013, § 1º, do CPC/2015, 6º, VIII, do CDC/1998, 317, 421, 422 e 478 do CC/2002 e 3º, I, da CF/1988, sob os seguintes fundamentos:
+(I) defendeu a necessidade de realização de perícia contábil "porquanto a matéria não era exclusivamente de direito, assim tem-se como contrariado também o artigo 1013, § 1º do CPC" (fl. 310);
+(II) aduziu que "Os doutos julgadores, seja na sentença, seja no acórdão ignoraram a inversão do ônus da prova, como se não existisse no ordenamento jurídico o instituto. Assim, é inevitável concluir que houve cabal violação à lei federal do art. 6º, inciso VIII, do Código de Defesa do Consumidor" (fl. 310);
+(III) asseverou que, em se tratando "de contrato de financiamento relativo à compra e venda de imóvel com pagamento do saldo do preço em parcelas mensais e consecutivas, inadmissível a capitalização dos juros em qualquer periodicidade" (fl. 312) e,
+(IV) requereu "a substituição do IGPM pelo IPCA ou outro índice que melhor se enquadre a atual condição do trabalhador brasileiro sendo portanto tal substituição apenas como forma de reequilibrar a relação contratual, ao menos no período de desequilíbrio" (fls. 312-313). Assim, "cabível o pedido de alteração do índice de correção para substituição do IGPM pelo IPCA desde o início da pandemia em março de 2020, em atenção ao dever de solidariedade (art. 3º, I, da Constituição Federal), à cláusula geral da função social do contrato (art. 421 do CC), que gera eficácia externa, e à cláusula geral da boa-fé objetiva, bem como seus deveres anexos de proteção e cuidado (art. 422 do CC), com eficácia interna ao contrato" (fl. 316).
+No agravo (fls. 392-399), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 405-414).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+(I) CERCEAMENTO DE DEFESA E NECESSIDADE DE PROVA PERICIAL CONTÁBIL
+Verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 1.013, § 1º, do CPC/2015 - segundo o qual "A apelação devolverá ao tribunal o conhecimento da matéria impugnada. § 1º Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado" -, porque a norma em referência nada dispõe a respeito da tese de cerceamento de defesa ante a necessidade de produção de prova pericial.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+No mais, ainda que superado referido óbice, quanto à necessidade de perícia contábil, a Corte de origem consignou que (fl. 300):
+No caso, não se vislumbra nos autos indícios do fato apontado, pelo que injustificável a produção de custosa perícia contábil.
+Como assentado, "a utilização do Sistema Francês de Amortização, Tabela Price, para o cálculo das prestações da casa própria não é ilegal e não enseja, por si só, a incidência de juros sobre juros" (AgInt no AREsp 751.655/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 10/3/2020, DJe 31/3/2020).
+Assim, cabia à parte autora demonstrar minimamente como teria ocorrido a capitalização de juros no caso concreto. Limitou-se, no entanto, a genericamente lançar a hipótese nas suas manifestações.
+Modificar o entendimento do acórdão impugnado de que, "No caso, não se vislumbra nos autos indícios do fato apontado, pelo que injustificável a produção de custosa perícia contábil" demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(II) INVERSÃO DO ÔNUS DA PROVA
+Quanto à necessidade de inversão do ônus da prova, o acórdão recorrido consignou que (fl. 300):
+Consoante pacífica jurisprudência do STJ, a inversão do ônus da prova não é automática, dependendo da constatação da presença ou não da verossimilhança das alegações do consumidor, que não está dispensado de comprovar minimamente o fato constitutivo do seu direito. (AgInt nos EDcl no REsp n. 1.991.361/SP, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; AgInt no AREsp n. 1.328.873/RJ, Rel. Min Raul Araújo, Quarta Turma, julgado em 21/11/2019, DJe de 18/12/2019; AgRg no REsp 1.216.562/SP, Rel. Min. Paulo De Tarso Sanseverino, Terceira Turma, julgado em 04/09/2012, DJe de 10/09/2012).
+Vê-se que o aresto combatido decidiu a matéria posta em conformidade com a jurisprudência do STJ acima citada.
+(III) ILEGALIDADE DA CAPITALIZAÇÃO MENSAL DE JUROS
+Relativamente à tese de que se tratando "de contrato de financiamento relativo à compra e venda de imóvel com pagamento do saldo do preço em parcelas mensais e consecutivas, inadmissível a capitalização dos juros em qualquer periodicidade" a parte não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+(IV) ONEROSIDADE EXCESSIVA E APLICAÇÃO DA TEORIA DA IMPREVISÃO E FUNÇÃO SOCIAL DO CONTRATO
+No que concerne à necessidade de substituição do IGPM pelo IPCA ou outro índice que melhor se enquadre a atual condição do trabalhador brasileiro, diante da teoria da imprevisão e para atender a função social do contrato, o acórdão combatido asseverou que (fls. 290-292):
+No mais, o decreto de improcedência do pedido de revisão contratual era a medida que se impunha, na medida em que os elementos dos autos não apontam para abuso de direito ou onerosidade excessiva.
+Nenhuma ilegalidade decorre da previsão do IGP-M como índice de correção, sendo ele tradicionalmente eleito nos contratos envolvendo compra de imóvel com pagamento parcelado (STJ, AgRg no Ag 787.813/RS, 3ª Turma do Superior Tribunal de Justiça, Rel. Min. Sidnei Beneti, em 20/10/2009, D Je 11/11/2009).
+Mesmo que em determinados períodos, como ocorreu nos meses marcados pela pandemia do Covid-19, observe-se descompasso entre o IGP-M e os demais índices oficiais de correção, isso não o torna inválido. Ao longo dos anos um pode apresentar maior variação que outro.
+Na hipótese em tela, o contrato vem desde maio de 2017 (fls. 112/113) e a presente demanda foi proposta somente em abril de 2022, quando já superada a fase de maior alta do IGP-M.
+ ..
+Necessário lembrar que a intervenção nos contratos regidos pelo Direito Privado para garantir a sua função social deve ser mínima, dado o pressuposto de que a revisão contratual é medida excepcional (art. 421 do CC).
+Contudo, no recurso especial, apontando contrariedade aos arts. 317, 421, 422 e 478 do CC/2002, a parte sustenta somente a necessidade de substituição do IGPM pelo IPCA ou outro índice como forma de reequilibrar a relação contratual.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido, notadamente de que, "Mesmo que em determinados períodos, como ocorreu nos meses marcados pela pandemia do Covid-19, observe-se descompasso entre o IGP-M e os demais índices ofici ais de correção, isso não o torna inválido. Ao longo dos anos um pode apresentar maior variação que outro" e que "a presente demanda foi proposta somente em abril de 2022, quando já superada a fase de maior alta do IGP-M". Incide, portanto, a Súmula n. 283 do STF no caso em apreço.
+Além do mais, rever o entendimento do acórdão impugnado de que "os elementos dos autos não apontam para abuso de direito ou onerosidade excessiva" nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Cumpre asseverar que o referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a gratuidade da justiça.
+Publique-se e intimem-se.
+ EMENTA
