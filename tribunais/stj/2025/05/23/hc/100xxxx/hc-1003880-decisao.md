@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS EDUARDO VAZ DE ALMEIDA BAIA em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2102176-52.2025.8.26.0000, a despeito da oposição de embargos de declaração que foram julgados improcedentes.
+Consta dos autos que o paciente foi preso em flagrante pelo delito do art. 33, caput, da Lei de Drogas.
+Alega, em síntese, que (i) houve ausência de provas concretas e, por serem inconsistentes, os relatos dos policiais levantam dúvidas sobre a veracidade dos fatos narrados, (ii) a abordagem do paciente foi realizada sem que houvesse fundada suspeita, sendo um "portão aberto" insuficiente para atuação policial, (iii) a abordagem e a suspeição foram engendradas sob o manto do preconceito racial, conforme depoimento do acusado e dos demais investigados, (iv) a posse da cannabis sativa se destinava ao seu consumo pessoal, (v) nega possuir balança de precisão na bolsa apreendida, bem como nega a prática de tráfico de entorpecentes, (vi) o paciente é primário e possui trabalho lícito, (vii) na sequência há violação de domicílio na residência de outro dos investigados nos autos, (viii) não estão presentes os requisitos do art. 312 e 313, ambos do Código de Processo Penal, para o decreto da prisão preventiva, (ix) é possível a aplicação das medidas cautelares do art. 319 do Código de Processo Penal, (x) em caso de eventual condenação, será aplicado o tráfico privilegiado, com a consequente substituição da pena privativa de liberdade por restritivas de direitos, de forma que se mostra desproporcional a custódia extrema.
+Requer, liminarmente e no mérito, a concessão da ordem para determinar a revogação da segregação cautelar, com a expedição de alvará de soltura em favor do paciente ou a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que:
+Inicialmente, a r. decisão restou fundamentada na materialidade e indícios de autoria pela prática de tráfico de drogas e de associação ao tráfico, cuja pena privativa de li berdade supera 04 anos, e na garantia da ordem pública, da instrução criminal e da aplicação da lei penal, considerando a gravidade em concreto do delito, notadamente a quantidade de drogas apreendidas e a realização do tráfico, em tese, de forma associada.
+Ademais, a eventual inconsistência de depoimentos policias ao confrontados com os depoimentos dos investigados é matéria afeta da análise do mérito da demanda, assim como a eventual aplicação de tráfico privilegiado. (fl. 240).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+EMENTA
