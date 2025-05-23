@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em razão da incidência da Súmula n. 7 do STJ (fls. 375-378).
+O Tribunal de origem deu parcial provimento ao recurso, em julgado que recebeu a seguinte ementa (fl. 331):
+APELAÇÃO CÍVEL - DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE EMPRÉSTIMO CONSIGNADO - REGULARIDADE DA CONTRATAÇÃO NÃO COMPROVADA - RESTITUIÇÃO SIMPLES DOS VALORES DESCONTADOS INDEVIDAMENTE - CABIMENTO - DANOS MORAIS INDENIZÁVEIS - INEXISTÊNCIA. - Negando a parte autora ser sua a assinatura aposta em documento particular, compete ao réu o ônus de produzir prova em sentido contrário, por força do art. 429, II, do CPC. - Não logrando êxito a instituição financeira em comprovar a regularidade da contratação do empréstimo consignado, há que ser reconhecida a inexistência da relação contratual, com a restituição, de forma simples, dos valores descontados indevidamente do benefício previdenciário do consumidor, admitida, porém, a compensação com o valor eventualmente creditado indevidamente na conta corrente deste. - Meros descontos indevidos em benefício previdenciário não geram danos morais in re ipsa, sendo da parte autora o ônus de comprovar a efetiva ofensa causada a seus direitos da personalidade.
+Nas razões do especial (fls. 360-370), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos arts. 4º, 6º, IV, VI, VII e XI, 39, III e IV, 54-C, III, e 54-D, I e III, do CDC, alegando que ficou configurado o dano moral indenizável.
+Não foram oferecidas contrarrazões (fl. 374).
+No agravo (fls. 397-405), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (fl. 409).
+É o relatório.
+Decido.
+A Corte de origem asseverou que os meros descontos indevidos no benefício previdenciário não geraram danos morais, não tendo a parte autora, ora recorrente, comprovado a efetiva ofensa causada a seus direitos de personalidade. Confira-se (fls. 339-340):
+ ..  entendo que embora a situação vivida pela recorrente tenha lhe causado transtornos, haja vista ter sido obrigada a procurar o Judiciário para ver reconhecido o seu direito à declaração de inexistência da relação jurídica, não existem provas nos autos de que tenha chegado a ofender nenhum de seus direitos da personalida de, pelo que, na hipótese, não há falar em danos morais indenizáveis, os quais necessitam ser comprovados, haja vista não configurarem meros descontos indevidos em benefício previdenciário danos morais in re ipsa.
+Para rever o entendimento do Tribunal do estado, de que não ficou configurado o dano moral, seria necessária nova análise do conjunto fático-probatório dos autos, providência vedada, a teor da Súmula n. 7 do STJ.
+Por fim, quanto ao dissídio jurisprudencial, a Súmula n. 7 do STJ impede seu exame, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual se deu solução à causa.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, §§ 1º e 11, do CPC, seria caso de majorar os honorários advocatícios. No entanto, deixo de fazê-lo, tendo em vista que foram arbitrados em percentual máximo.
+Publique-se e intimem-se.
+EMENTA
