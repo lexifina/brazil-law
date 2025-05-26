@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. RECURSO MANIFESTAMENTE INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de declaração opostos contra decisão de admissibilidade do recurso especial, uma vez que manifestamente incabíveis, não interrompem o prazo para interposição de outros recursos. Precedentes.
+2. Nesse contexto, é inegável a intempestividade do agravo, visto que foi apresentado fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, caput, do Código de Processo Civil e o art. 798 do Código de Processo Penal.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+SOLON DE ALMEIDA interpõe agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial pelo óbice da intempestividade.
+A defesa afirma, em síntese, que os embargos de declaração interromperam o prazo para interposição do agravo (fls. 133-136). Pleiteia, assim, a reconsideração do decisum anteriormente proferido ou a submissão do recurso à turma julgadora.
+Intimado, o Ministério Público Federal não se pronunciou.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. RECURSO MANIFESTAMENTE INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de declaração opostos contra decisão de admissibilidade do recurso especial, uma vez que manifestamente incabíveis, não interrompem o prazo para interposição de outros recursos. Precedentes.
+2. Nesse contexto, é inegável a intempestividade do agravo, visto que foi apresentado fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, caput, do Código de Processo Civil e o art. 798 do Código de Processo Penal.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A pretensão não merece êxito, uma vez que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+É inegável a intempestividade do agravo, visto que foi ajuizado fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, caput, do Código de Processo Civil - Lei n. 13.105/2015 -, e o art. 798 do Código de Processo Penal.
+Cabe esclarecer que os embargos de declaração opostos contra decisão de admissibilidade do recurso especial, uma vez que manifestamente incabíveis, não interrompem o prazo para interposição de outros recursos.
+Nesse sentido:
+ ..  3. É intempestivo o agravo em recurso especial que não observa o prazo de interposição de 15 dias contínuos, conforme art. 798 do Código de Processo Penal - CPP e art. 1.003, § 5º, do Código de Processo Civil - CPC. 3.1. A interposição de recurso manifestamente incabível contra decisão de inadmissibilidade do recurso especial, como os embargos de declaração e o agravo interno, não interrompe o prazo para interposição do agravo nos próprios autos. Precedentes. (AgInt no AREsp 1156261/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 22/2/2018). 3.2. O agravo em recurso especial é interposto contra decisão do Presidente do Tribunal de origem que inadmite o recurso especial, conforme art. 1.042 do Código de Processo Civil - CPC. No caso em tela, é inadequada a interposição de agravo em recurso especial em face de decisão do Presidente do Tribunal de origem que não conheceu do agravo interno. 4. Em razão da preclusão consumativa, configura inadmissível inovação recursal o acréscimo de fundamentos para amparar o pedido do agravo em recurso especial ou do recurso especial em sede de agravo regimental ou de embargos de declaração. 5. O não conhecimento do agravo em recurso especial obsta a análise de questões que pressupõem o seu conhecimento, bem como o conhecimento do recurso especial. 6. Embargos de declaração recebidos como agravo regimental para negar-lhe provimento." (AgRg no AgRg no AREsp 1249989/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/04/2019, DJe 29/04/2019, grifou-se). " ..  3. A jurisprudência deste Sodalício é pacífica no sentido de que os embargos de declaração opostos contra decisão que inadmite o recurso especial não interrompem o prazo para interposição do recurso adequado. Precedentes. 4. Agravo a que se nega provimento. (AgRg no AREsp 715.587/PR, Rel. Ministro Jorge Mussi, 5ª T., julgado em 16/6/2016, DJe 22/06/2016).
+À vista do exposto, nego provimento ao agravo regimental .
