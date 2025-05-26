@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado, não fundamenta consistentemente o acórdão recorrido e não se manifesta sobre tema essencial ao deslinde da controvérsia de modo a esgotar a prestação jurisdicional.
+2. Conforme entendimento desta Corte Superior, a existência de omissões acerca de questões relevantes ao julgamento da causa, as quais, se acolhidas, poderiam alterar o resultado do julgamento, ocasiona o provimento do recurso especial por omissão.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno, interposto por CAIXA DE PREVIDÊNCIA DOS FUNCS DO BANCO DO BRASIL, contra decisão monocrática desta Relatoria, de fls. 308-311, que conheceu do agravo para dar parcial provimento ao recurso especial para determinar a remessa dos autos ao eg. Tribunal de origem, para que novamente aprecie os embargos de declaração, como entender de direito, sanando os vícios apontados.
+Em suas razões recursais, a parte agravante sustenta, em síntese, a inexistência de violação aos arts. 489 e 1.022 do Código de Processo Civil, porque não há omissão a ser sanada e porque é permitido o reconhecimento do prequestionamento implícito.
+Os agravados apresentaram impugnações (fls. 333-337 e 338-346).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado, não fundamenta consistentemente o acórdão recorrido e não se manifesta sobre tema essencial ao deslinde da controvérsia de modo a esgotar a prestação jurisdicional.
+2. Conforme entendimento desta Corte Superior, a existência de omissões acerca de questões relevantes ao julgamento da causa, as quais, se acolhidas, poderiam alterar o resultado do julgamento, ocasiona o provimento do recurso especial por omissão.
+3. Agravo interno a que se nega provimento.
+VOTO
+A presente irresignação não merece prosperar, devendo ser confirmada a decisão monocrática.
+Trata-se, na origem, de agravo de instrumento interposto pelos ora agravados contra decisão proferida nos autos da ação de restituição de contribuições previdenciárias, em fase de cumprimento de sentença, que delimitou os parâmetros para confecção dos cálculos e determinou a incidência dos juros remuneratórios até a data do desligamento dos credores.
+Sustentaram os agravantes que a decisão interlocutória não previu expressamente quais indexadores correspondem aos índices do IPC do IBGE expurgados pela PREVI durante todo o período de sua vigência, e que os juros remuneratórios deveriam incidir até a data do efetivo pagamento.
+O Tribunal a quo manteve a determinação de que os juros remuneratórios devem incidir até a data do desligamento dos ex-associados, conforme precedentes do Superior Tribunal de Justiça (STJ), e que o Índice de Preços ao Consumidor (IPC) deve ser aplicado apenas ao mês de julho de 1987, estando preclusa a discussão sobre os demais meses.
+Nos embargos de declaração opostos, os embargantes suscitaram, entre outras questões, a necessidade de esclarecimento sobre o fato de que não houve preclusão sobre a matéria dos indexadores do IPC/IBGE, uma vez que o tema não foi devidamente apreciado pela instância ordinária, e que a decisão embargada não limitou o índice do IPC.
+A Corte a quo, embora provocada, não sanou a omissão em questão.
+Nas razões do recurso especial, os recorrentes afirmaram haver negativa de prestação jurisdicional por parte do Tribunal a quo quanto à "A inexistência de preclusão da matéria inerente ao direito à incidência de TODOS os índices do IPC-IBGE durante o período de sua vigência, nos termos do entendimento firmado no julgamento dos Recursos Especiais Repetitivos nº 1.183.474/DF e nº 1.177.973-DF" (fl. 140), sustentando permanecer a omissão, mesmo após a oposição de embargos de declaração.
+Conforme se constata, em que pese a matéria relativa à não ocorrência de preclusão tenha sido alegada em sede de embargos de declaração, a eg. Corte de origem quedou-se inerte no exame da questão, deveras relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não pode ser analisada de plano.
+Isso, porque o conhecimento do recurso especial exige a manifestação da instância ordinária acerca das questões de fato e de direito suscitadas, seja para acolher ou para afastar a tese no caso concreto. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 535 do CPC/73 (art. 1.022 do CPC/2015), a fim de que seja suprida a omissão existente. Confiram-se, por oportuno, os seguintes pr ecedentes:
+"RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. ERRO DE CÁLCULO NA ATUALIZAÇÃO DOS VALORES EXECUTADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015 CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. Ação de cobrança ajuizada em 2009, atualmente na fase de cumprimento de sentença, da qual foi extraído o presente recurso especial, interposto em 30/09/2022 e concluso ao gabinete em 25/07/2023.
+2. O propósito recursal é decidir sobre a negativa de prestação jurisdicional, a existência de coisa julgada ou preclusão quanto ao suposto erro de cálculo no cumprimento de sentença e a aplicação da multa por litigância de má-fé e por embargos de declaração manifestamente protelatórios.
+3. A jurisprudência desta Corte é no sentido de que a homologação dos cálculos não os torna imunes de impugnação quando verificado erro material, porquanto o erro material não transita em julgado, podendo ser corrigido a qualquer tempo pelo juiz ou Tribunal de onde se originou a decisão.
+4. A existência de omissão relevante à solução da controvérsia, não sanada pelo Tribunal de origem, caracteriza violação do art. 1.022 do CPC/2015.
+5. Recurso especial conhecido e provido."
+(REsp n. 2.120.731/SE, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/5/2024, DJe de 17/5/2024, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE IMPLÍCITO. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MAJORAÇÃO EM GRAU RECURSAL. OMISSÃO DO TRIBUNAL ESTADUAL. QUESTÃO OPORTUNAMENTE SUSCITADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial firmou entendimento no sentido de que o Superior Tribunal de Justiça "pode realizar o juízo de admissibilidade de forma implícita, sem necessidade de exposição de motivos, onde o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito" (EREsp n. 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 17/12/2014, DJe de 19/12/2014).
+2. A existência de omissão relevante à solução da controvérsia, não sanada pelo Tribunal de origem caracteriza violação do art. 1.022 do CPC/2015, sendo necessário o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação da matéria neles suscitada .
+3. Agravo interno desprovido."
+(AgInt no REsp n. 2.048.620/PE, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/5/2023, DJe de 1/6/2023, g.n.)
+Dessa forma, caracterizada a alegada ofensa ao art. 1.022 do CPC/2015, em razão da omissão da colenda Corte de origem em examinar a questão suscitada, faz-se necessário o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
