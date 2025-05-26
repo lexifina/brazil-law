@@ -1,0 +1,17 @@
+DECISÃO
+GILBERT DE OLIVEIRA SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2048435-97.2025.8.26.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que " i mputa-se ao ora paciente a conduta de ter sido flagrado trazendo consigo, guardando e vendendo, sem a devida autorização, as seguintes substâncias ilícitas: a) 38,8 g de maconha, fracionados em 33 invólucros plásticos; b) 9,5 g de cocaína em pó, divididos em 43 invólucros plásticos" (fl. 72).
+Asseriu a defesa, perante a Corte de origem, "que a decisão ora combatida careceria de fundamentação idônea, pois as razões nela trazidas seriam genéricas e se baseariam tão somente na gravidade em abstrato do delito e na vida pregressa do paciente" (fl. 72).
+Todavia, ao impor a segregação cautelar, destacou o Juízo de primeira instância que "já foi condenado definitivamente duas vezes por tráfico, o que demonstra a sua tendência ao ilícito e justifica a prisão para garantia da ordem pública, ou seja, para impedir que novos delitos sejam praticados" (fl. 38, sublinhei).
+A esse respeito, urge consignar também que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Confiram-se:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico de drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+Ademais, " m ostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC n. 714.681/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/5/2022).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
