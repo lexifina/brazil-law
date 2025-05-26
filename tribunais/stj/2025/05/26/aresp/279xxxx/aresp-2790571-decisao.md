@@ -1,0 +1,24 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 329/335, in verbis:
+1. Trata-se de agravo em recurso especial interposto por MARCOS REINALDO NG contra decisão proferida pelo Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que inadmitiu o processamento do recurso especial interposto em face de acórdão proferido por sua 9ª Câmara de Direito Criminal que, à unanimidade, deu parcial provimento ao recurso de apelação defensivo para reduzir a pena para 2 anos e 4 meses de reclusão, em regime inicial aberto e 11 dias-multa, em seu mínimo unitário, e para afastar a condenação à reparação dos danos à vítima, mantidos os demais termos da sentença.
+2. O acórdão recebeu a seguinte ementa (fl. 219):  ..
+3. Em sede de recurso especial manejado com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, a defesa alega violação aos artigos 59 e 155, §4º, inciso II, ambos do Código Penal, pugnando pelo provimento do recurso para a fixação da pena-base no mínimo legal, com a substituição da pena privativa de liberdade por 01 restritiva de direito.
+4. A decisão ora agravada negou seguimento ao apelo nobre em razão da incidência das Súmulas nº 7/STJ, 282/STF e 356/STF.
+5. Adveio, então, o presente agravo em recurso especial, às fls. 287/292.
+6. Contraminuta apresentada às fls. 302/305, os autos subiram a esse Superior Tribunal de Justiça e, em seguida, vieram com vista ao Ministério Público Federal.
+Ao final, o Parquet opinou pelo não conhecimento do recurso, nos termos da seguinte ementa (e-STJ fl. 329):
+AGRAVO EM RECURSO ESPECIAL. FURTO. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 59 E 155, § 4º, AMBOS DO CP. ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS CONSIDERADAS DESFAVORÁVEIS. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ.
+FUNDAMENTAÇÃO IDÔNEA. CONHECIMENTO DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+- A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade a lei federal, buscando a análise dos elementos utilizados para valoração de circunstâncias judiciais, não encontra campo na via eleita, dada à necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao STJ ao teor de sua Súmula nº 7.
+- É pacífico, nas duas Turmas especializadas em matéria criminal dessa Corte de Justiça, o entendimento de que o recurso especial não se destina revisão da dosimetria da pena, exceto em caso de erro ou ilegalidade evidentes, o que não se verifica na espécie.
+- "Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de furto qualificado, pois o crime foi perpetrado dentro de residência, a qual foi invadida pelos agentes, o que denota a maior gravidade da conduta." (AgRg no HC 599.949/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020).
+- Parecer pelo conhecimento do agravo para negar seguimento ao recurso especial.
+É o relatório.
+Decido.
+No caso, acerca da controvérsia, consta da sentença condenatória, mantida, no ponto, pelo Tribunal de origem (e-STJ fl. 175):
+Ademais, as consequências do crime são mais gravosas, pois não se limitaram ao prejuízo financeiro da vítima  maior de 60 anos de idade , mas também atingiram a autoestima da ofendida, que se sentiu impotente e envergonhada, tanto que não contou nada nem mesmo para os filhos.
+Da análise do trecho transcrito, não vislumbro a existência de ilegalidade quanto ao aumento da pena-base, já que feita referência, no cálculo dosimétrico, à gravidade concreta do delito praticado, traduzida no abalo psicológico sofrido pela vítima. De fato, da leitura da sentença condenatória, verifica-se que a dinâmica delitiva revelou a existência de circunstância que denotou a gravidade da ação, com a presença de elementos mais gravosos do que aqueles ínsitos aos tipos penais em comento.
+Conforme devidamente apontado no parecer ministerial, cujas razões passo a adotar, "considerando que as instâncias ordinárias, mediante valoração do acervo probatório produzido no feito, entenderam, de forma fundamentada, como negativas as consequências do crime, a análise do pleito de redimensionamento da primeira fase da dosimetria demandaria exame detido de provas, providência vedada pelo enunciado nº 7 da Súmula desse Tribunal Superior" (e-STJ fls. 332/333).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
