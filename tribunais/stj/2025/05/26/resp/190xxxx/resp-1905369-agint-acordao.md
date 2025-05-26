@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGOS 489, § 1º, IV, E 1.022, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola os artigos 489, § 1º, IV, e 1.022, do CPC/2015.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Ministério Público do Estado do Paraná (MPPR) contra decisão, assim ementada (fl. 579):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGOS 489, § 1º, IV, E 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+O agravante alega, em síntese, que a questão suscitada restou decidida pelo Tribunal a quo, embora sobre vertente desfavorável ao ora recorrido, mas de maneira suficiente para decidir a correlação lógico-jurídico com a pretensão de fundo deduzida no cumprimento de sentença, visto que as características do modelo de veículo compactador de lixo Sita 6.000 foram listadas pela auditoria apresentada pelo ora agravante e transcritas pela Corte local.
+Sustenta a inexistência de omissão no acórdão a quo, eis que reconheceu a validade do levantamento técnico de preços realizado pelo Parquet em sede de liquidação de sentença por arbitramento.
+Aduz que a liquidação por arbitramento exige conhecimento técnico sobre o objeto para se chegar à quantia devida, razão pela qual, no caso em apreço, é dispensável que a Corte de origem se debruce, exaustivamente, sobre especificações constantes na auditoria já realizada.
+Às fls. 614-624, o agravado apresentou impugnação asseverando a relevância da omissão acerca dos documentos que apontam, inequivocamente, que os equipamentos objeto da Amostra utilizada pela Auditoria do MPPR não têm as mesmas especificações técnicas dos coletores e compactadores objeto da demanda, motivo pelo qual não poderia servir de base para cálculo/apuração do quantum debeatur, sob pena de configurar liquidação de julgado com fundamento em meras estimativas hipotéticas, desconexas da realidade e do objeto da ação, que é o ressarcimento da exata diferença entre o valor pelo qual os equipamentos foram vendidos e o seu valor de mercado à época.
+Defende não ser devidamente fundamentada, à luz do disposto no art. 489, §1º, IV, do CPC, a decisão que não se pronuncia sobre o conteúdo dos documentos juntados aos autos e que têm o potencial de infirmar a conclusão do julgador sobre as perspectivas fáticas.
+Enfatiza a relevância da aludida questão na medida em que influenciará no valor a ser apurado na presente liquidação de sentença a respeito da apuração se haveria - e se houver, quanto seria - a diferença entre o valor pago ao Município de Maringá pela venda dos dois coletores e compactadores de lixo, e o valor de mercado dos equipamentos à época da cessão onerosa, para que possa ser constatado o montante a ser ressarcido ao erário, em virtude de possível pagamento ao referido Município de valor inferior ao de mercado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGOS 489, § 1º, IV, E 1.022, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola os artigos 489, § 1º, IV, e 1.022, do CPC/2015.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Sustenta o agravante não ser hipótese para o reconhecimento da violação dos artigos 489, § 1º, IV, e 1.022, do CPC/2015.
+Ocorre que, a despeito da oposição de embargos de declaração, o Tribunal de origem não se manifestou de forma satisfatória a respeito das seguintes questões de fato deduzidas pelo embargante, ora agravado, e que se apresentam indispensáveis à solução do litígio: (i) quais as especificações técnicas da Amostra 3 utilizada pela Auditoria do MP/PR, constante do mov. 55.2, p. 11 dos autos principais; (ii) quais as especificações técnicas da Amostra 4 utilizada pela Auditoria do MP/PR, constante do mov. 55.2, p. 12-13 dos autos principais; e (iii) quais as especificações técnicas da Amostra 5 utilizada pela Auditoria do MP/PR, constante do mov. 55.2, p. 14 dos autos principais (fls. 155-162).
+Conforme já assinalado na decisão agravada, deve ser acolhida a ofensa aos artigos 489, § 1º, IV, e 1.022, do CPC/2015, pois o acórdão a quo não elucidou os referidos pontos que indicam que os equipamentos da Amostra não têm as mesmas especificações técnicas dos coletores e compactadores objeto dos autos.
+No caso, é essencial o novo pronunciamento no pertinente aos pontos alegados para que a prestação jurisdicional seja integral e efetiva, mormente, por se tratar de questão fático-probatória em relação à qual compete ao Tribunal de origem elucidá-la para a devida especificação da moldura fática, haja vista a sua relevância porquanto poderá influenciar no valor a ser apurado na presente liquidação de sentença.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
