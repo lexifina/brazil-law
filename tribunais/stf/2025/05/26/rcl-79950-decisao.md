@@ -1,0 +1,87 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO. TERCEIRIZAÇÃO. RESPONSABILIDADE DO PODER PÚBLICO. ÔNUS DE PROVA DA CULPA IN VIGILANDO DA ADMINISTRAÇÃO. ALEGAÇÃO DE AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA POR ESTA SUPREMA CORTE NA ADC 16, NO TEMA-RG 246 E NO TEMA-RG 1.118. OCORRÊNCIA. RESPONSABILIZAÇÃO ATO RECLAMADO QUE IMPUTOU AUTOMATICAMENTE A RESPONSABILIDADE SUBSIDIÁRIA DO ENTE PÚBLICO. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    Decisão:  Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado de São Paulo contra decisão do Tribunal Superior do Trabalho, nos autos do Processo nº 0010338-82.2016.5.15.0049, sob alegação de inobservância da decisão vinculante proferida pelo Plenário deste Supremo Tribunal Federal no julgamento da Ação Direta de Constitucionalidade 16, bem como de descumprimento das teses fixadas sob os Temas 246 e 1.118 da sistemática da repercussão geral.
+
+    Em síntese, narra o autor ter sido demandado na origem por particular empregado de empresa terceirizada, contratada pela Administração Pública, com vistas à condenação subsidiária ao pagamento de verbas trabalhistas devidas pela empresa interposta. Relata que a condenação havida nas instâncias ordinárias caracterizaria presunção de culpa do Poder Público, não tendo a parte autora da ação trabalhista se desincumbido d ônus da prova da existência de efetiva culpa na fiscalização do contrato.
+
+    Sustenta que a decisão em comento afronta diretamente a tese vinculante fixada sob o Tema 246 da sistemática da repercussão geral, vez que, dos votos proferidos naquele julgamento depreender-se-ia ser indevida a inversão do ônus da prova. Do mesmo modo, sustenta violação ao quanto decidido na ADC 16 e no Tema-RG 1.118 porquanto a responsabilização subsidiária foi afirmada unicamente a partir do inadimplemento de obrigações trabalhistas da empresa prestadora dos serviços, sem que houvesse sido produzida prova da culpa in vigilando.
+
+    Requer, por estes fundamentos, a suspensão liminar da decisão impugnada e, após regular trâmite, sua cassação definitiva, a fim de que seja excluída a responsabilidade do Estado no caso concreto.
+
+    Dispensa-se, no caso concreto, a requisição de informações da autoridade reclamada e a manifestação da Procuradoria-Geral da República, em homenagem ao princípio da celeridade processual e com esteio no art. 52, parágrafo único, do RISTF.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, 5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, 5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de inobservância das decisões deste Supremo Tribunal Federal na ADC 16 e nos Temas 246 e 1.118 da sistemática da repercussão geral.
+
+    Deveras, no julgamento da ADC 16, o Plenário deste Supremo Tribunal Federal declarou a constitucionalidade de dispositivo da antiga Lei de Licitações (Lei 8.666/93) que expressamente afastava a possibilidade de transferência ao Poder Público da responsabilidade pelo adimplemento de verbas trabalhistas devidas por empresa contratada a seus empregados (art. 71, §1º). Eis a ementa do acórdão:
+
+    “RESPONSABILIDADE CONTRATUAL. Subsidiária. Contrato com a administração pública. Inadimplência negocial do outro contraente. Transferência consequente e automática dos seus encargos trabalhistas, fiscais e comerciais, resultantes da execução do contrato, à administração. Impossibilidade jurídica. Consequência proibida pelo art., 71, § 1º, da Lei federal nº 8.666/93. Constitucionalidade reconhecida dessa norma. Ação direta de constitucionalidade julgada, nesse sentido, procedente. Voto vencido. É constitucional a norma inscrita no art. 71, § 1º, da Lei federal nº 8.666, de 26 de junho de 1993, com a redação dada pela Lei nº 9.032, de 1995”. (ADC 16, Tribunal Pleno, Rel. Min. Cezar Peluso, DJe 09/09/2011).
+
+    O entendimento então adotado restou reafirmado no julgamento de mérito do RE 760.931, de cujo acórdão fui redator e em que se fixou a seguinte tese:
+
+    Tema-RG 246: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”. (grifei)
+
+    Consigno, no ponto, que ambas as Turmas deste Supremo Tribunal Federal, no exercício de uma interpretação integrativa do acórdão proferido no RE 760.931, têm declarado que seria do trabalhador o ônus probatório da culpa in vigilando da Administração para a configuração da responsabilidade subsidiária. Nesse sentido, os seguintes julgados: Rcl 40.137 AgR, Primeira Turma, Redator p/ o acórdão Min. Luiz Fux, DJe 12/08/2020 e Rcl 44.628 AgR, Segunda Turma, Relator Min. Gilmar Mendes, DJe 18/05/2021.
+
+    Mais recentemente, o Plenário deste Supremo Tribunal Federal, à luz das inúmeras reclamações que aportam a esta Corte sobre a temática ora em julgamento, decidiu o RE 1.298.647, leading case do Tema 1.118 da sistemática da repercussão geral (Rel. Min. Nunes Marques, DJ 15/04/2025). Com efeito, ante a controvérsia acerca da distribuição dos ônus probatórios surgida da aplicação do Tema 246 aos casos concretos, o Plenário deste Supremo Tribunal Federal houve por bem admitir aquele tema de repercussão geral, com o fito de esclarecer a matéria. Eis as teses vinculantes fixadas por ocasião do Tema 1.118:
+
+    Tema 1.118-RG: “1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+
+    2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.
+
+    3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+
+    4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+
+    Como se pode perceber, o julgamento do RE 1.298.647, Tema 1.118-RG, reafirmou a jurisprudência desta Corte, consubstanciada pelos julgados proferidos na ADC 16 e no Tema-RG 246, segundo a qual a responsabilização trabalhista subsidiária do Poder Público não pode ser decretada de forma automática, demandando a efetiva prova, nas instâncias ordinárias, acerca da culpa in vigilando.
+
+    Pois bem. A leitura da decisão ora impugnada revela que o acórdão reclamado reputou cabível a condenação subsidiária do reclamante, por entender que seria ônus da Administração Pública a demonstração da efetiva fiscalização do contrato firmado, com vistas a afastar a culpa in vigilando pelo inadimplemento de verbas trabalhistas, consoante se extrai do acórdão regional, mantido pelo TST (doc. 4, p. 141-142):
+
+    “Na situação em apreço, a culpa ‘in elegendo’ não restou caracterizada, porque o segundo reclamado contratou a primeira ré de acordo com o procedimento licitatório estabelecido na Lei n.º 8.666/1993, fato inconteste nos autos.
+
+    Outro, entretanto, é o entendimento acerca da culpa ‘in vigilando’, eis que, malgrado a recorrente tenha jungido aos autos recibos de pagamento e comprovantes de recolhimento do FGTS e de contribuições previdenciárias, há prova consistente de que não fiscalizou o cumprimento de todas as obrigações trabalhistas da empresa prestadora de serviços.
+
+    Note que o recorrente, através de ofício de 01/04/2014 elaborado pela unidade escolar onde a reclamante prestou serviços, foi informado a respeito do desatendimento de obrigações trabalhistas, por parte da primeira reclamada, quanto a empregadas que prestaram serviços naquela localidade, inclusive no que tange à ausência de baixa da CTPS de uma delas (ID. 5391a60).
+
+    Contudo, somente em 21/08/2014, veio a rescindir o contrato de prestação de serviços firmado com a primeira reclamada, três meses depois de ter a reclamante sido dispensada da reclamada sem a anotação de sua CTPS e o pagamento de suas verbas rescisórias, evidenciando seu total descaso frente ao descumprimento das obrigações trabalhistas (ID. 0887b42 - Pág. 23 e ID. 18e1dbb - Pág. 1).
+
+    Portanto, se o ente público não seguiu à risca os procedimentos legais, não fiscalizando a empresa contratada, nem prezando pela sua idoneidade, emerge clara a culpa "in vigilando" da Administração Pública, estabelecendo-se a sua responsabilidade subsidiária.
+
+    Deve-se ter em mente que a responsabilidade subsidiária da Administração Pública tem como causa principal a efetiva demonstração de ausência da necessária e indispensável fiscalização dos atos praticados pela empresa prestadora (ou ainda, até mesmo, em hipóteses de fiscalização falha, precária ou insuficiente), pelo órgão público contratante, situação esta devidamente retratada nos autos.
+
+    Em razão disso, é forçoso concluir que não se verifica qualquer infringência ao §1º do art. 71 da Lei nº 8.666/93 ao se condenar subsidiariamente a Administração Pública, eis que a proibição contida em tal dispositivo insere-se na transferência direta da responsabilidade ao tomador dos serviços e, ainda assim, essa transferência somente seria inviável se a empresa prestadora do serviço fosse idônea.
+
+    Na verdade, o disposto no §1º do art. 71 da Lei nº 8.666/93 tem o objetivo de isentar a responsabilidade primária ou principal da Administração Pública frente aos encargos trabalhistas da empresa contratada, não afastando, assim, a responsabilidade subsidiária da Administração Pública.”
+
+    Dado o contexto, em que ausente a demonstração dos elementos ensejadores da responsabilidade subsidiária, definidos no Tema 1.118 da repercussão geral, vislumbro o desacerto da decisão reclamada, a ensejar a procedência da reclamação para o fim de de afastar a responsabilidade subsidiária do ente reclamante.
+
+    Ex positis, JULGO PROCEDENTE a reclamação, para reformar o acórdão proferido pelo Tribunal Superior do Trabalho, nos autos do Processo nº 0010338-82.2016.5.15.0049, afastando a responsabilidade subsidiária do autor.
+
+    Comunique-se o teor desta decisão à autoridade reclamada.
+
+    Oficie-se o tribunal reclamado para que promova a notificação da parte beneficiária acerca da presente diretamente nos autos da ação de origem.
+
+    Publique-se.
+
+    Brasília, 26 de maio de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
