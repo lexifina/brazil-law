@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO - DECISÃO MONOCRÁTICA QUE, AO RECONHECER A NEGATIVA DE PRESTAÇÃO JURISDICIONAL PELA INSTÂNCIA DE ORIGEM, DETERMINOU A DEVOLUÇÃO DOS AUTOS PARA REJULGAMENTO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Manutenção da decisão agravada, a qual determinou o retorno dos autos à Corte de origem, para que haja efetiva emissão de juízo de valor acerca dos argumentos apresentados pelo ora agravante nos embargos declaratórios opostos em face do acórdão proferido em sede de apelação.
+2. A existência de transação entre as partes é a própria discussão do presente recurso, de modo que, para o seu reconhecimento, deve o Tribunal Estadual, sob pena de supressão de instância, após sanar as omissões existentes sobre a sua controvérsia, homologá-la ou não. O pedido feito pela agravada deve ser direcionado à Corte a quo e não ao STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por MASSA FALIDA - C ANDRADE COMÉRCIO PARTICIPAÇÕES E EMPREENDIMENTOS LTDA, em face da decisão monocrática proferida às fls. 2513/2614 (e-STJ), que ao rejeitar os embargos de declaração, manteve o decisum singular de fls. 2445/2447 (e-STJ), deu parcial provimento ao reclamo para anular o acórdão que julgou os embargos de declaração e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento pormenorizado do ponto tido por omisso (a possibilidade ou não de homologação do acordo celebrado entre as partes como matéria de preliminar do recurso de apelação).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO C/C AÇÃO DE NULIDADE DE ATO JURÍDICO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO, SOB ALEGAÇÃO DE LITISPENDÊNCIA. INOCORRÊNCIA . ILEGITIMIDADE RECONHECIDA EM SEGUNDA INSTÂNCIA. AFASTAMENTO NECESSÁRIO. AUSÊNCIA DE INTERESSE NÃO CARACTERIZADA. NECESSIDADE DE CONTINUIDADE DO FEITO. 1. Não há falar em extinção por litispendência quando evidenciado que, muito embora as demandas invocadas para esse fim tenham em comum um dos pedidos, ostentam causa de pedir e partes diversas. 2. Inviável afirmar a ilegitimidade da parte para o manejo da demanda quando assentado que a nulidade que pretende ver reconhecida, embora envolva transações firmadas entre terceiros, interfere diretamente em sua esfera de interesses, o que justifica o manejo da ação. 3. Não se pode reconhecer a existência de ausência de interesse decorrente de decisão anterior negando a reintegração dos recorrentes na posse do bem, eis que a improcedência da ação de restituição por eles aforada deu-se em momento anterior ao laudo pericial que reconheceu a fraude que fundamenta o pedido de nulidade. 4. Assente, de modo inconteste, a fraude na celebração que se pretende ver anulada, não há como desconsiderar a existência de tal circunstância, a qual deve ser sopesada quando da decisão do feito. Apelação cível conhecida e provida. Sentença cassada.
+Foram opostos embargos de declaração, os quais restaram rejeitados.
+Em suas razões de recurso especial (fls. 1986/1999, e-STJ), as partes recorrentes apontaram ofensa ao artigo 1.025 do Código de Processo Civil.
+Sustentaram negativa de prestação jurisdicional pela instância de origem, porquanto a Corte Estadual se manteve omissa no enfrentamento do pedido de homologação de acordo que deveria ter sido julgada preliminarmente ao recurso de apelação.
+Contrarrazões juntada às fls. 2188/2197 (e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso a Súmula 83 do STJ e, ainda, 282 do STF.
+Daí o presente agravo (art. 1.042 do CPC/2015), buscando destrancar o processamento daquela insurgência.
+Contraminuta apresentada às fls. 2246/2289 (e-STJ).
+Foi dado parcial provimento ao reclamo, por este relator, para determinar o rejulgamento, na instância de origem, dos embargos de declaração.
+Em suas razões (fls. 2518/2528, e-STJ), a agravante aduz, em suma, que este signatário deveria ter se restringido a homologar a transação e julgar prejudicado o recurso.
+Impugnação apresentada às fls. 2533/2543 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO - DECISÃO MONOCRÁTICA QUE, AO RECONHECER A NEGATIVA DE PRESTAÇÃO JURISDICIONAL PELA INSTÂNCIA DE ORIGEM, DETERMINOU A DEVOLUÇÃO DOS AUTOS PARA REJULGAMENTO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Manutenção da decisão agravada, a qual determinou o retorno dos autos à Corte de origem, para que haja efetiva emissão de juízo de valor acerca dos argumentos apresentados pelo ora agravante nos embargos declaratórios opostos em face do acórdão proferido em sede de apelação.
+2. A existência de transação entre as partes é a própria discussão do presente recurso, de modo que, para o seu reconhecimento, deve o Tribunal Estadual, sob pena de supressão de instância, após sanar as omissões existentes sobre a sua controvérsia, homologá-la ou não. O pedido feito pela agravada deve ser direcionado à Corte a quo e não ao STJ.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Conforme se observa da simples leitura dos autos, a presente controvérsia se restringe ao exame da existência de negativa de prestação jurisdicional pela instância de origem.
+1. Delimitada a cognição no feito, a decisão singular, ora recorrida, realizou detidamente o cotejo entre as teses contidas no apelo da parte e a fundamentação do acórdão decisório.
+Das razões dos aclaratórios opostos ao julgamento do recurso de apelação, extrai-se a seguinte provocação integrativa da parte ora recorrente (fl. 1889, e-STJ):
+14. A transação das partes, como causa de extinção do processo com exame de mérito  art. 487, inc. III, alínea b, do CPC , conforma hipótese de prejudicialidade do julgamento da apelação. Por esta razão, o requerimento de homologação da autocomposição das partes constitui ponto sobre o qual devia se pronunciar previamente o órgão julgador da apelação, sobretudo diante da omissão do eminente Relator em fazer, a tempo e a modo, o que lhe incumbia  artigo 932, inc. I, parte final, do CPC c. c Art. 138, inc. II, do RITJGO . Omissão esta que, nos termos do parágrafo único, inc. II, do artigo 1.022, c. c § 1º, inc. IV, do artigo 489, ambos do CPC, torna também carente de fundamentação o v. acórdão embargado, nulificando-o.
+O Tribunal Estadual, por sua vez, no julgamentos dos embargos de declaração, assim se manifestou:
+Quanto ao vício invocado em ambos os recursos - omissão - constato que não resta evidenciado no decisum.
+É que a omissão é marca de provimento judicial que olvida tese firmada em julgamento de casos repetitivos ou incidente de assunção de competência (parágrafo único, I) ou que padece dos vícios de fundamentação elencados no artigo 489, § 1º, CPC/2015, são eles: i) se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso; iii) invocar motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrentar todos os argumentos deduzidos no processo e capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e vi) deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+No caso em apreço, não tenho como caracterizadas quaisquer das circunstâncias acima apontadas.
+Do cotejo acima descrito, observa-se da leitura dos aclaratórios apresentados que a omissão alegada não foi objeto de sequer uma linha de exame.
+Assim, quanto à ofensa ao artigo 1.022 do Código de Processo Civil, calcada no fato de o Tribunal de origem ter rejeitado os embargos de declaração, razão assiste à parte recorrente ante a manifesta ausência de tratamento de motivação adequada, restringindo-se a dizer que se tratava de pretensão infringente.
+Por tal motivo, foi dado parcial provimento ao reclamo para anular o acórdão que julgou os embargos de declaração e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento pormenorizado do ponto tido por omisso (a possibilidade ou não de homologação do acordo celebrado entre as partes como matéria de preliminar do recurso de apelação).
+De rigor, portanto, a manutenção da decisão ora agravada.
+2. O objeto do presente recurso, como visto no primeiro item, é exatamente a existência de omissãos quanto à validade da homologação da transação.
+A existência de transação entre as partes é a própria discussão do presente recurso, de modo que, para o seu reconhecimento, deve o Tribunal Estadual, sob pena de supressão de instância, após sanar as omissões existentes sobre a sua controvérsia, homologá-la ou não.
+O pedido feito pela agravada deve ser direcionado à Corte a quo e não ao STJ.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
