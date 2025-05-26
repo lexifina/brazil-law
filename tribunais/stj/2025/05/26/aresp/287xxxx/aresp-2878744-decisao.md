@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JORGE EDSON DE MOURA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES DO EX-TERRITÓRIO DE RONDÔNIA. TRANSPOSIÇÃO AO QUADRO EM EXTINÇÃO DA ADMINISTRAÇÃO FEDERAL. ART. 89 DO ADCT. EMENDA CONSTITUCIONAL N. 60/2009. LEIS N. 12.249/2010, 12.800/2013 E 13.121/2015. EMENDA CONSTITUCIONAL N. 79/2014. VEDAÇÃO AO PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS. APELAÇÃO E REMESSA OFICIAL PROVIDAS. 1. A QUESTÃO DISCUTIDA NOS AUTOS VERSA SOBRE O DIREITO A DIFERENÇAS REMUNERATÓRIAS DECORRENTES DA TRANSPOSIÇÃO DE SERVIDORES DO ESTADO DE RONDÔNIA AO QUADRO DE PESSOAL EM EXTINÇÃO DOS EX- TERRITÓRIOS FEDERAIS DA ADMINISTRAÇÃO FEDERAL, E FIXAÇÃO DO RESPECTIVO MARCO INICIAL DOS EFEITOS FINANCEIROS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 2º da Lei n. 12.800/2013, no que concerne à necessidade de pagamento de diferenças remuneratórias retroativas em virtude de atraso excessivo para conclusão de processo de transposição de servidor público do quadro estadual para o quadro federal, haja vista que houve extrapolação dos prazos contidos na legislação para o surgimento de efeitos financeiros. Argumenta:
+O v. Acórdão vergastado, ao reformar a r. sentença e negar completamente o direito a retroativos em virtude do atraso no enquadramento, violou frontalmente o art. 2º da Lei nº 12.800/2013 (primeira lei a regulamentar a transposição) pois esta previu de modo expresso a partir de quando a transposição iria surtir efeitos financeiros:
+ ..
+A referida Lei foi promulgada em 23/04/2013, e os servidores tinham 90 dias para apresentar o termo de adesão, portanto até 24/07/2013. Destarte, considerando o tempo necessário ao recebimento das adesões e à análise dos pedidos, trabalho ao qual a Lei conferiu uma estimativa, projetou os efeitos financeiros para 01/01/2014 ou 01/03/2014 conforme a categoria.
+Resta claro e inequívoco que o art. 2º da Lei nº 12.800/2013 é, sim, a definição do marco inicial para os efeitos financeiros da transposição, e tendo o(a) Recorrente feito a opção no prazo legal, se a União demorou mais do que o prazo razoável para efetivar a transposição, os retroativos desde janeiro ou março de 2014 são devidos.
+ ..
+Também não afasta a frontal violação ao art. 2º da Lei nº12.800/2013 o fundamento contido no acórdão 4 de que a Medida Provisória n.817/2018, posteriormente convertida na Lei n.13.681/2018, não deixou qualquer margem legal que possibilite o pagamento de diferenças remuneratórias de forma retroativa em qualquer hipótese.
+Isso porque, nesse caso, o direito adquirido quanto ao marco inicial de pagamento retroativo já foi considerado e analisado pelo Legislador Constituinte por ocasião da edição da Emenda Constitucional nº 60/2009 e, indo muito além, os impactos financeiros da transposição já foram previamente analisados por ocasião da própria Lei nº12.800/2013 que regulamentou a transposição.
+ ..
+Data vênia, a regência do marco inicial para os efeitos financeiros da transposição foi garantido na Lei n. 12.800/2013 e esta não foi revogada pela Medida Provisória n. 817/2018, posteriormente convertida na Lei n. 13.681/2018, já que o(a) Recorrente apresentou seu termo de adesão/opção dentro do prazo legal, portanto até 24/07/2013.
+Logo, possui direito adquirido.
+ ..
+Dito isso, resta claro e inequívoco que o art. 2º da Lei nº 12.800/2013 é, sim, a definição do marco inicial para os efeitos financeiros da transposição, e tendo o(a) Recorrente feito a opção no prazo legal, se a União demorou mais do que o prazo razoável para efetivar a transposição, os retroativos desde janeiro ou março de 2014 são devidos (fls. 323-332).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Precedentes" ;(AgInt no AREsp n. 2.416.042/AM, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 26/2/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.824.215/RS, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; AgInt no REsp n. 2.168.140/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.623.773/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgInt nos EDcl no AREsp n. 2.650.082/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no REsp n. 1.874.657/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025; AgInt no REsp n. 2.157.169/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 20/2/2025; AgInt no REsp n. 1.694.319/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
