@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIEL CRISTIANO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+O recorrente foi condenado em primeiro grau de jurisdição como incurso no crime previsto no art. 33 da Lei n. 11.343/06, às penas de 5 (cinco) anos de reclusão, a serem cumpridas em regime inicial semiaberto, e 500 (quinhentos) dias-multa (fl. 152).
+O Tribunal de Justiça negou provimento ao recurso, mantendo incólume a sentença de primeiro grau (fls. 152-172).
+Sobreveio recurso especial da defesa, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao art. 33, § 4º, da Lei n. 11.343/06 (fls. 179-185).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 911-921).
+É o relatório. DECIDO.
+A controvérsia nos autos consiste em determinar se é cabível, no caso, o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06, em sua fração máxima, e, por consequência, a substituição da pena privativa de liberdade por restritiva de direitos.
+A defesa sustenta que o benefício do tráfico privilegiado foi negado ao recorrente com base na existência de processo em andamento contra ele, o que não poderia ser utilizado para concluir que se dedicava à atividade criminosa. Assim, requer a aplicação do privilégio, por não haver nos autos qualquer fundamentação idônea que justifique seu afastamento.
+O Tribunal de Justiça afastou o privilégio, considerando que os elementos concretos dos autos revelam que o recorrente é traficante habitual. Tal conclusão foi alcançada não apenas pela existência de outro processo em curso, mas também pela análise do conjunto probatório, que evidenciou que o acusado fazia do tráfico sua ocupação e principal fonte de renda, tendo sido encontrados em sua residência balança de precisão e outros apetrechos. Assim consignou (fl. 166):
+"O cerne da questão presente neste recurso trata da incidência ou não da causa especial de redução de pena prevista no art.33, 84º da Lei 11.343/2006.
+Em consulta ao sistema Judwin observei que o acusado responde ao processo nº 0000264-96.2018.8.17.0370 por infrações previstas nos art.14 da Lei 10.826/2003 e art.180, caput, do CP.
+Além disso, da análise da prova carreada ao processo conclui-se que o réu se dedica a afividades criminosas. Apesar de primário, ficou claro nos autos que o acusado fazia do tráfico a sua ocupação e principal fonte de renda, vez que em sua residência fora encontrada balança de precisão e outros apetrechos.
+As alegações do apelante na tentativa de se furtar da dedicação à atividades criminosas não foram convincentes."
+Verifico, assim, o equívoco da premissa da defesa de que o acórdão recorrido teria fundamentado o afastamento do art. 33, § 4º, da Lei n. 11.343/06 unicamente com base em processo em andamento.
+Como se observa, a habitualidade delitiva restou comprovada pela conjunção de diversos elementos concretos, que demonstram a dedicação do recorrente à atividade criminosa: a quantidade e a forma de acondicionamento das drogas, os depoimentos constantes d os autos, os petrechos apreendidos utilizados na mercancia (balança de precisão e rolo plástico), além do dinheiro em espécie encontrado (fl. 162).
+Ressalto que o posicionamento do Tribunal de origem está em consonância com o entendimento consolidado desta Corte. A apreensão de quantidade e variedade de entorpecentes, bem como sua forma de acondicionamento, e a apreensão de instrumentos utilizados para a prática habitual do ilícito, como balança de precisão, são circunstâncias aptas a indicar a dedicação a atividades criminosas.
+Nesse mesmo sentido, estão os precedentes: AgRg no AREsp n. 2.337.750/ES, rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024; AgRg no HC n. 886.853/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024; AgRg no HC n. 801.806/SP, de minha relatoria, Quinta Turma, julgado em 17/10/2023, DJe de 20/10/2023.
+Nessa linha:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. REITERAÇÃO DO MÉRITO. APREENSÃO DE PETRECHOS. NATUREZA E VARIEDADE DE DROGAS. INCABÍVEL A APLICAÇÃO DA MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/06. SÚMULA N. 7, STJ. PRECEDENTES.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A jurisprudência desta Corte orienta-se no sentido de que a apreensão de petrechos para o tráfico e entorpecentes em circunstâncias que indiquem a dedicação a atividades criminosas é apta a afastar a minorante do tráfico privilegiado. Precedentes.
+III - Não tendo apresentado argumentos aptos a alterar a compreensão anteriormente firmada, a manutenção da decisão agravada é medida que se impõe.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.337.688/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/9/2024, DJe de 17/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO. QUANTIDADE DE DROGA E PRESENÇA DE ELEMENTOS CONCRETOS ADICIONAIS. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO IMPROVIDO.
+1. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas" (AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+2. Tendo as instâncias ordinárias afastado a minorante fundamentadamente, com base em elementos concretos extraídos dos autos, como a expressiva quantidade de droga apreendida na residência do réu, local utilizado como "ponto de armazenamento, venda e distribuição de drogas  ..  inclusive com relativa estabilidade geográfica e temporal, de forma sucessiva e constante", a pretendida revisão do julgado, com vistas à concessão da minorante, não se coaduna com a estreita via do writ.
+3. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 810.786/PI, relator Ministro Og Fernandes, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
