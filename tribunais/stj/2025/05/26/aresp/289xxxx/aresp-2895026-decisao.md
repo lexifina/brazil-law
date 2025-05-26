@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por PAULO ALEXANDRE MENSCH e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. ESPÉCIES DE TÍTULOS DE CRÉDITO. EMBARGOS À EXECUÇÃO. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU A AJG. AGRAVANTES QUE POSSUEM PATRIMÔNIO INCOMPATÍVEL COM A CONDIÇÃO FINANCEIRA CARACTERÍSTICA DOS DESTINATÁRIOS DA BENESSE. A RENDA MENSAL NÃO PODE SER VERIFICADA DE MANEIRA ABSOLUTA DE FORMA A EMBASAR A CONCESSÃO DO BENEFÍCIO, E SIM EM CONJUNTO COM OS DEMAIS ELEMENTOS INDICATIVOS DA VERDADEIRA SITUAÇÃO FINANCEIRA DO REQUERENTE. NEGATIVA DE PROVIMENTO AO AGRAVO. RECURSO QUE NÃO TRAZ ELEMENTOS NOVOS CAPAZES DE MODIFICAR A DECISÃO. POIS APENAS REPRISA OS MESMOS ARGUMENTOS DA INICIAL DO AGRAVO DE INSTRUMENTO. MANTIDA A DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 99, § 2º, do CPC, no que concerne à concessão da gratuidade de justiça, tendo em vista a comprovação da hipossuficiência financeira para arcar com as despesas processuais, trazendo a seguinte argumentação:
+No caso concreto, o recorrente, produtor agrícola, requereu a concessão do benefício da justiça gratuita, em decorrência da impossibilidade de arcar com os custos do processo, comprovando prejuízo e endividamento progressivo decorrente da grave seca que assolou o estado do Rio Grande do Sul.
+ ..
+No entanto, como buscou justificar, em sede recursal, o recorrente não pode pagar os custos da demanda sem prejuízo da sua própria mantença, da sua família e da continuidade de sua atividade agrícola, tendo além da sua própria declaração apresentado documentos comprobatórios da sua condição financeira deficitária e de crescente endividamento, inclusive tendo comprometido todo seu patrimônio declarado com dívidas bancárias.
+Neste sentido, o recorrente comprovou de forma objetiva que o seu patrimônio declarado de R$ 4.800.000 é insuficiente para fazer frente às dívidas existentes, que atingem o patamar de R$ 5.022.000 (superendividamento).
+ ..
+Na hipótese, data maxima venia, o acórdão viola o contido no § 2º, do artigo 99, do CPC, ao afastar a comprovação juntada pelos recorrente e valorizando tão somente o valor da propriedade rural, em situação de superendividamento, ressalta-se
+ ..
+No caso concreto, o juízo a quo limitou-se a analisar o patrimônio do recorrentes, sem realizar uma análise aprofundada da sua situação financeira como um todo.
+É preciso considerar que a existência de bens não implica, necessariamente, em capacidade econômica para arcar com as despesas processuais, especialmente quando esses bens estão vinculados a dívidas ou comprometidos com outras obrigações (fls. 77-804)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O Agravo Interno não prospera, devendo ser mantida a decisão agravada pelos seus próprios fundamentos, verbis:
+ ..
+Na hipótese em exame, os agravante possuem como natureza da ocupação ser produtor na exploração agropecuária, além de as declarações de imposto de renda demonstrarem que não fazem jus ao benefício da assistência judiciária gratuita.
+Analisando os documentos apresentados, verifico que o recorrente Paulo Alexandre possui patrimônio considerável, composto por..
+ ..
+Acrescento que as alegações do Agravo Interno não trazem elementos novos capazes de modificar a decisão recorrida, ao contrário, reproduzem os argumentos lançados no Agravo de Instrumento, razão pela qual vai mantida a decisão, por seus próprios fundamentos (fls. 59-62).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
