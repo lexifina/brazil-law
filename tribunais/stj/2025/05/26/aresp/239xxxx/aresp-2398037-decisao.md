@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXANDRE AZAMBUJA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 15, caput, da Lei n. 10.826/2003 e no art. 306, §1º, inciso II, do Código de Trânsito Brasileiro, à pena de 02 (dois) anos de reclusão e 06 (seis) meses de detenção, além de 20 dias-multa, no valor mínimo legal (fls. 144-153).
+O Tribunal de origem, por unanimidade, negou provimento ao apelo defensivo (fls. 255-263).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas alegações recursais, pleiteou o reconhecimento da violação ao disposto no art. 386, inciso VII, do Código de Processo Penal. Sustentou que não há provas suficientes para a condenação. Ao final, requereu a absolvição do agravante (fls. 271-282).
+O recurso especial foi inadmitido na origem, em razão do óbice previsto na Súmula n. 7, STJ (fls. 297-301).
+Foi interposto o presente agravo em recurso especial, no qual o agravante sustentou que a análise do recurso especial não dependeria do exame de questões fático-probatórias (fls. 311-322).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 339-343).
+É  o  relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula n. 182, STJ, cuja aplicação se dá analogicamente ao caso em tela.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+No caso em tela, o agravante não realizou um confrontamento com a decisão do Tribunal de origem que inadmitiu o recurso especial pelo óbice da Súmula n. 7, STJ. O que se observa das suas razões é mera negativa genérica de que o especial exige revolvimento fático-probatório, sem demonstração clara e concreta da superação do óbice erigido pela decisão do Tribunal de origem.
+A jurisprudência do STJ rechaça a possibilidade de conhecimento do recurso especial com fundamentação genérica e lacônica em revaloração da prova. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBSTRUÇÃO DE INVESTIGAÇÕES CONTRA ORGANI ZAÇÕES CRIMINOSAS. SÚMULA 7/STJ NÃO IMPUGNADA DEVIDAMENTE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS UTILIZADOS PARA INADMITIR O RECURSO ESPECIAL. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL POR ESTA VIA RECURSAL. INCIDÊNCIA DA SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIÁVEL PELA VIA DO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com efeito, das razões colacionadas no agravo em recurso especial, verificou-se que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no Recurso Especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+2. A ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do Apelo Nobre impede o conhecimento do Agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+3. É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+4. De todo modo, a desconstituição do julgado, no intuito de acolher o pleito de absolvição do agravante demandaria necessariamente aprofundado revolvimento do contexto de fatos e prova, o que é inviável por esta via recursal, nos termos da Súmula 7/STJ.
+Precedentes.
+5. O Superior Tribunal de Justiça possui entendimento no sentido de que, "Na via do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento" (EDcl no AgRg no AREsp n. 2.254.533/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.341.711/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/11/2023, DJe de 28/11/2023).
+Ao não se desincumbir da obrigação de rebater os fundamentos da decisão do Tribunal a quo e de demonstrar como o óbice poderia ser superado, o agravante incorreu em violação à Súmula n. 182, STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
