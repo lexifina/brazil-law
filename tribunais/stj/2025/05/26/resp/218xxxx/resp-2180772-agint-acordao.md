@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA EMBARGANTE.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno.
+2. Para superar as premissas sobre as quais se baseou a Corte de origem, a fim de reconhecer a ilegalidade da contratação do seguro prestamista, seria necessário o revolvimento dos elementos de prova constantes dos autos, hipótese vedada na presente esfera recursal, ante os óbices contidos nas Súmulas 5 e 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por ELIZABETH PEREIRA VASSILIOU em face da decisão acostada às fls. 786/792, e-STJ, da lavra deste relator, que negou provimento ao recurso especial.
+O apelo extremo (art. 105, III, "a", da CF/88) fora deduzido em desafio ao acórdão prolatado pelo e. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 725, e-STJ):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. REVISÃO DE CONTRATO. CÉDULA DE CRÉDITO BANCÁRIO. CAPITAL DE GIRO. SENTENÇA DE IMPROCEDÊNCIA.
+1. CONTROVÉRSIA. Insurgência das embargantes. Alegação de ilegalidade da capitalização de juros, o que majorou de forma abusiva o valor devido. Além disso, as embargantes impugnaram a cobrança da tarifa de abertura de crédito e do seguro prestamista.
+2. CAPITALIZAÇÃO DE JUROS. Permitida em periodicidade inferior à anual em relação aos contratos entabulados com instituições integrantes do Sistema Financeiro Nacional, a partir de 31/3/2000, em razão da MP. 1.963-17/2000, reeditada pela MP 2.170-36/2001 (STJ, Súmula 539; Tema Repetitivo 953).
+3. TARIFAS BANCÁRIAS. TARIFAS DE ABERTURA DE CRÉDITO (TAC). Afastada. Cobrança de "tarifa" sem especificar e informar o seu fato gerador, vulnerando o art. 17, da Resolução-CMN 3.954/2011. Tarifas de abertura de crédito (TAC) e de emissão de Carnê (TEC), que não são válidas após a Resolução CMN 3.518/2007, em vigor desde 30/4/2008 (STJ, Tema Repetitivo 619).
+4. CONTRATAÇÃO DE SEGURO PRESTAMISTA. PROTEÇÃO FINANCEIRA. Validade. Diferentemente do CDC (que não se aplica ao caso em tela), o CC/02 não prevê rol exemplificativo das práticas contratuais abusivas, além de determinar que a relação jurídica passe a ser regida pelo princípio da mínima intervenção contratual e excepcionalidade da revisão contratual (CC/02, art. 421, par. ún.). Não incidência do Tema Repetitivo 972, do C. STJ, justamente por não ser hipótese de aplicação da legislação consumerista.
+5. RECURSO DAS EMBARGANTES PARCIALMENTE PROVIDO.
+Opostos embargos de declaração (fls. 756/766, e-STJ), esses foram rejeitados.
+Nas razões de recurso especial (fls. 744/755, e-STJ), a recorrente aponta ofensa aos artigos 5º da Medida Provisória nº 2.170-36/01; 6º, III e V, 39, I, 51, IV Código de Defesa do Consumidor, bem como entendimento do STJ na Súmula nº 539 e Resp. Repetitivo nºs 1.388.972. Sustenta, em síntese, a ilegalidade da capitalização dos juros e da cobrança do seguro prestamista.
+Sem contrarrazões (fls. 777, e-STJ).
+Admitido o processamento do recurso na origem (fls. 778/779, e- STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (fls. 786/792, e-STJ), este relator negou provimento ao recurso especial com amparo na Súmula 83 do STJ em relação capitalização diária do juros e Súmula 7 em relação à cobrança do "seguro proteção financeira".
+No agravo interno (fls. 796/801, e-STJ), a insurgente sustenta a ilegalidade da cobrança do "seguro proteção financeira", argumentando para tanto que o contrato é de adesão.
+Impugnação às fls. 804/816, e-STJ, pugnando pela majoração dos honorários em razão da interposição do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA EMBARGANTE.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno.
+2. Para superar as premissas sobre as quais se baseou a Corte de origem, a fim de reconhecer a ilegalidade da contratação do seguro prestamista, seria necessário o revolvimento dos elementos de prova constantes dos autos, hipótese vedada na presente esfera recursal, ante os óbices contidos nas Súmulas 5 e 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão impugnada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. A irresignação estabelecida no presente agravo interno limita-se à incidência do óbice estabelecido pela Súmula 7 desta Corte à hipótese, restando preclusas as demais questões.
+Não será apreciada , portanto, a tese relacionada à ilegalidade da capitalização diária de juros - Incidência da Súmula 83 do STJ.
+2. No que se refere ao "seguro proteção financeira", a jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+No presente caso, observa-se que a Corte de origem entendeu que não há comprovação de que a recorrente foi obrigada a contratar (fls. 734/735, e-STJ):
+5. Seguro prestamista
+A princípio, a inclusão desse seguro nos contratos bancários é permitida, conforme disposto no § 2º, do art. 1º, da Resolução-CMN nº 3517, do CMN (em vigor desde 3/3/2008), que expressa:
+(..)
+Porém, em que pese a liberdade de contratar, inicialmente assegurada, o âmbito da controvérsia se restringe a liberdade contratual para escolher outra seguradora contratante.
+E sendo inaplicável o CDC ao caso em tela, a relação jurídica dos autos passa a ser regida pelo princípio da mínima intervenção contratual e excepcionalidade da revisão contratual, conforme determina o par. ún, do art. 421, do CC/02, que expressa:
+(..)
+E isso, porque é presumida a paridade e simetria nos mesmos (CC/02 art. 421-A).
+Emerge daí, que a pactuação expressa do seguro prestamista, retratada no contrato em tela, se trata de serviço acessório efetivamente contraído pelo mutuário, que se vinculou deliberadamente à oferta anunciada pelo mutuante e estipulante.
+Em paralelo, diferentemente do Código de Defesa do Consumidor, o CC/02 não prevê rol exemplificativo de práticas contratuais abusivas, ainda que esse contrato tenha sido formado mediante simples adesão.
+Em outras palavras, a prática vedada pelo inc. I, do art. 39, do CDC ("condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos") não é vedada pelo CC/02, de modo que se o embargante, no exercício de seu negócio, aceitou a proposta de seguradora integrante do mesmo conglomerado econômico, essa prática deve ser tolerada no âmbito da autonomia privada, pois reitero que aqui não se aplica o CDC, e, por isso, também não se aplica o Tema Repetitivo 972, do C. STJ, que se restringe às hipóteses de incidência da legislação consumerista.
+Outrossim, se as embargantes incorreram em erro, ou foram induzidas pela contraparte a formar falsa percepção da realidade (dolo), deveriam exercer sua pretensão anulatória fundada em vício de consentimento (CC/02, art. 171, II), mas demonstrando o fato constitutivo de seu direito, tal
+Denota-se, assim, que o Tribunal local proferiu decisão pautado na premissa fixada nesta Corte Superior, incidindo no tópico o enunciado da Súmula 83 do STJ.
+Ademais, para rever a conclusão quanto à alegada imposição da contratação demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é viável na via especial, ante o óbice das Súmulas 5 e 7 do STJ.
+Destaca-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. SEGURO DE PROTEÇÃO FINANCEIRA. PRECEDENTE REPRESENTATIVO DA CONTROVÉRSIA. TEMA N. 972 DO STJ. ILEGALIDADE NÃO VERIFIDADA NA ORIGEM. SÚMULAS N. 5, 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+2. No caso, ficou consignado no acórdão que a parte autora da ação revisional não foi compelida a contratar o seguro nem demonstrou a suposta venda casada.
+3. O desfecho atribuído ao processo na origem não destoa das premissas fixadas no precedente representativo da controvérsia (Súmula n. 83/STJ), impondo-se reafirmar que o acolhimento da insurgência demandaria reexame de matéria fática e interpretação do contrato estabelecido entre as partes, procedimento inviável em recurso especial (Súmulas n. 5 e 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.817/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INCORPORAÇÃO IMOBILIÁRIA. COMPRA E VENDA. CONTRATO. RESCISÃO. INICIATIVA DO COMPRADOR. ILEGITIMIDADE. RELAÇÃO DE CONSUMO. REVOLVIMENTO FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA. VALORES PAGOS. RETENÇÃO/DEVOLUÇÃO. PERCENTUAL. SÚMULA N. 83/STJ. ARRAS CONFIRMATÓRIAS. SÚMULA N. 83/STJ. DESPESAS CONDOMINIAIS. TAXA DE RATEIO. SÚMULA N. 7/STJ. LEILÃO. DESPESAS. MÁ-FÉ FIRMADA NA ORIGEM. SÚMULAS N. 5 E 7/STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA. SÚMULA N. 83/STJ. DECISÃO MONOCRÁTICA MANTIDA.
+1. A análise da alegação de ilegitimidade demandaria revolvimento fático- probatório, o que encontra óbice na Súmula n. 7/STJ, pois, no ponto, o Tribunal de origem decidiu - com base em demonstrativos de pagamentos, prestação de contas, seguro prestamista - pela legitimidade da recorrente, firme na premissa de que, embora não figurasse a recorrente como incorporadora do empreendimento, emprestou sua marca, seu nome e sua reputação ao empreendimento imobiliário, como verdadeira coincorporadora.
+2. Também esbarra no óbice da Súmula n. 7/STJ a alegação de que não se cuidaria de relação de consumo, uma vez que reclamaria investigação e revolvimento dos fatos que circundam a relação contratual. 3. Esta Corte Superior possui entendimento firme no sentido de que, com a resolução do contrato de compromisso de compra e venda por culpa do adquirente, é possível a retenção de 10% (dez por cento) a 25% (vinte e cinco por cento) dos valores pagos. Incidência da Súmula n. 83/STJ.
+4. O leilão do imóvel não exclui o direito do promitente comprador em receber as parcelas pagas, sob pena de enriquecimento ilícito (AgInt nos EDcl no AREsp n. 2.089.345/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+5. Segundo a jurisprudência do STJ, "as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no REsp n. 1.893.412/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/12/2020, D Je de 11/12/2020), o que foi observado pelo Tribunal de origem. Caso de aplicação da Súmula n. 83/STJ (v. AgInt no REsp n. 1.985.686/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/3/2023, DJe de 28/3/2023; AgInt no AREsp n. 2.100.449/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023). Desse modo, incide no ponto o obstáculo da Súmula n. 83/STJ.
+6. Quanto às despesas com o pagamento da taxa de rateio das despesas condominiais, a decisão recorrida decidiu que o serviço não foi nem será desfrutado pelos recorridos, de modo a integrar a base de cálculo da parcela a ser restituída. A revisão do entendimento encontra obstáculo na Súmula n. 7/STJ.
+7. Ao decidir acerca dos valores despendidos com a realização do leilão extrajudicial, o Tribunal definiu que houve má-fé da parte recorrente ao não acolher o pleito da parte recorrida de distrato, preferindo levar o imóvel a leilão, como artifício para evitar devolução de soma paga. Rever tal entendimento demandaria reexame de cláusulas contratuais e reexame do acervo fático- probatório juntado aos autos. Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ.
+8. Relativamente ao termo inicial da correção monetária, o Tribunal local, ao aplicar o entendimento de que o termo inicial corresponde à data do efetivo desembolso, decidiu em sintonia com a jurisprudência desta Corte (AgInt no AgInt no AREsp n. 2.009.613/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022; AgInt no REsp n. 1.988.931/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022; AgInt nos EDcl no REsp n. 1.882.426/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022). Aplica-se, portanto, o obstáculo contido no Súmula n. 83 do STJ.
+9. Quanto às suscitações de dissídio jurisprudencial, a parte recorrente não se desincumbiu do ônus da demonstração da similitude fática entre os arestos apontados como paradigmas e a situação dos autos, de forma que não se mostra possível o cotejo analítico.
+10. Na linha da jurisprudência desta Corte, a apreciação, em recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca e o percentual delimitado, esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.983.147/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+3. Por outro lado, não há falar em majoração dos honorários recursais em sede de agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recurso interposto na mesma instância.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+ ..
+6. Não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+ ..
+11. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada.
+(AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017)
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
