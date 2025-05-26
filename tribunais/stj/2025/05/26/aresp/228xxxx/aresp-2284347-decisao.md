@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por FERNANDA BOGHOSIAN ROSSI e SAN BABILA IMPORTACAO EXPORTACAO E COMERCIO DE VESTUARIO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 290):
+APELAÇÃO CÍVEL. Embargos à Execução. Contratos bancários. Sentença de Improcedência. Inconformismo. Não acolhimento. Crédito para capital de giro. Cédula de crédito bancário. Inaplicabilidade do Código de Defesa do Consumidor. Contratante que emprega o capital em sua atividade empresária. Questão que não se enquadra no conceito de consumidor final. Precedentes do Superior Tribunal de Justiça. Seguro prestamista. Instituto jurídico da venda casada está previsto no artigo 39, I do aludido Diploma Legal. Ausência de ilegalidade na imposição contratual. Inaplicabilidade, ademais, dos Temas 53, 54 e 972 do STJ (R Esp 969.129/MG) (distinguishing). Juros remuneratórios. Juros pré-fixados. Ausência de abusividade porquanto os valores foram devidamente informados no Contrato, bem como devidamente aplicados. Entendimento vinculante do Superior Tribunal de Justiça no R Esp 1.061.530/RS. Capitalização de Juros. Previsão contratual expressa a prever a cobrança de taxa de juros anual superior ao duodécuplo da taxa de juros mensal. Possibilidade. Súmulas nº 539 e 541 do Superior Tribunal de Justiça. Tese firmada no julgamento do R Esp 973.827/RS, sob a sistemática dos Recursos Repetitivos (Tema 247). Abusividade não constatada. Sentença mantida. RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 377).
+No recurso especial, alega a parte recorrente ofensa aos arts. 1.022, 489, § 1º, IV, 141 e 492 do CPC. Alega que o Tribunal de origem não enfrentou os argumentos apresentados pela recorrente a respeito da aplicação de taxa de juros maior do que a contratada e julgou matérias não discutidas nos autos, como abusividade e capitalização de juros.
+Sustenta que o banco não respeitou o prazo de carência e a taxa de juros estipulada, praticando elevação indireta da taxa de juros, o que descaracterizaria a mora. Subsidiariamente, requer a aplicação da taxa SELIC em relação à mora.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 383 - 389).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 390 - 392), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 409 - 413).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, registre-se que o Tribunal de origem não se manifestou acerca do alegado desrespeito a prazo de carência, nem sobre a aplicação da taxa SELIC como encargo moratório, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem sobre esses temas. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 356/STF.
+Afasto ainda a alegação de negativa de prestação jurisdicional e de ausência de fundamentação.
+A recorrente alega que o julgado é omisso, pois não observou os limites propostos na petição inicial, e decidiu sobre matéria diversa da pedida. Aduz que o banco não respeitou a taxa de juros por ele próprio estipulada, cobrando percentual maior que o contratado, bem como cobrando indevidamente seguro em razão de venda casada.
+O Tribunal de origem consignou que é regular a contratação do seguro. Registrou ainda, citando a sentença, que os juros efetivamente cobrados estão conforme o contrato e que os cálculos apresentados pela recorrente estão incorretos (fls. 293-294):
+Não há, pois, irregularidade na imposição da contratação de seguro prestamista tal e qual incluído no Contrato.
+De outro lado, com relação aos juros, observa-se que a Cédula de Crédito Bancário celebrada pelas Partes previu uma taxa de juros mensal em 1,30% ao mês, e anualmente em 16,76% (fls. 50).
+Assim, os juros remuneratórios tiveram as taxas anuais e mensais pré-fixadas, além de prévia e claramente informadas no Pacto, o que exclui a tese de cobrança de taxa diversa da pactuada, sobretudo com relação ao custo efetivo da transação.
+A esse respeito, bem fundamentou o Magistrado sentenciante:
+(..) Sem melhor sorte a alegação de que o cálculo das parcelas e dos juros foi equivocado. O coeficiente utilizado pelo Banco-embargado levou em consideração o número exato de dias decorridos entre os vencimentos de cada uma das parcelas previamente ajustadas e com dias certos, até mesmo porque a capitalização avençada entre as Partes é diária (vide quadro, item II. 5, p. 50), assim como os encargos de mora (vide 5.1, p. 53), a se observar dias úteis. Já o cálculo apresentado pelas Embargantes, desconsidera os dias de vencimentos previamente ajustados (item II, 15, pp. 50/51), tomando como premissa equivocada o vencimento de todas as parcelas a cada 30 dias, sem atentar para o prazo de operação contratualmente ajustado (732 dias, vide item II. 2, p. 50) quiçá, como bem apontado pelo Embargado, que não há cobrança de parcela no mês de fevereiro/21 (ver quadro de p. 51), mas sim duas no subsequente mês de março, respectivamente nos dias 01 (20ª parcela) e 21 (21ª parcela)."
+Alterar o decidido no acórdão impugnado, no que se refere à cobrança de juros conforme o que foi contratado, exige o reexame de fatos e provas e a reanálise contratual, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. NÃO CONHECIMENTO DA INSURGÊNCIA QUANTO AO PONTO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema, por força da Súmula 284/STF.
+3. O reexame de fatos e provas, assim como a interpretação de cláusulas contratuais em recurso especial são inadmissíveis, por força das Súmulas 5 e 7 do STJ.
+4. Conforme a jurisprudência desta Corte, a ausência de impugnação, no agravo interno, de fundamento da decisão agravada acarreta a preclusão da matéria não impugnada.
+5. Não se conhece do agravo interno no ponto em que suas razões se encontram dissociadas dos fundamentos adotados na decisão agravada, caracterizando ofensa ao princípio da dialeticidade recursal.
+6. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp n. 2.779.487/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 295).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. COBRANÇA DE JUROS CONFORME PREVISÃO CONTRATUAL. REEXAME. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
