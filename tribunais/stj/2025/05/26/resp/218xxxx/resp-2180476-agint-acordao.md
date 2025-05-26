@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por ASPEN DISTRIBUIDORA DE COMBUSTÍVEIS LTDA. contra a decisão de minha lavra, constante às e-STJ fls. 131/133, em que neguei provimento ao recurso especial no qual a empresa agravante defendeu a nulidade do acórdão recorrido por ofensa aos arts. 489 e 1.022 do CPC.
+Nas suas razões (e-STJ fls. 139/145), a parte agravante reitera a sua alegação de nulidade do acórdão recorrido por negativa de prestação jurisdicional, pois não teria se manifestado sobre as seguintes questões: "(i) a inexistência de dispositivo legal que autorize o levantamento de valores, nos moldes em que foi requerido pela Fazenda Pública Agravada, haja vista a extinção das referidas execuções fiscais; (ii) o potencial lesivo da medida no plano recuperacional da Agravante, bem como a obrigatoriedade de submissão do ato ao juízo em que tramita a recuperação judicial e, por fim (iii) a existência de objeção pendente de apreciação pelo juízo de 1ª instância, à época do deferimento do requerimento fazendário."
+A parte agravada apresentou impugnação (e-STJ fls. 150/153).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos não convencem.
+Na origem, cuidam os autos de agravo de instrumento manejado pela empresa agravante contra decisão do magistrado de primeiro grau que deferiu o pedido da Fazenda Pública exequente de transferência de valores depositados em outras execuções fiscais extintas para a garantir o crédito a que se refere o feito executivo em curso.
+O TJSP negou provimento ao recurso, com a seguinte motivação:
+1. Deve ser mantida incólume a r. decisão agravada.
+2. Ao que se depreende dos autos do presente agravo de instrumento, bem como, em especial, dos autos principais, o ESTADO DE SÃO PAULO ajuizou ação de execução fiscal em face da empresa ASPEN DISTRIBUIDORA DE COMBUSTÍVEIS LTDA tendente à cobrança de crédito tributário relativo a ICMS e multa.
+2.1. Considerando-se que não se logrou a garantia do crédito tributário objeto da ação executiva subjacente ao presente recurso, e em se levando em conta que a empresa executada é alvo de outras execuções fiscais, já extintas, e com valores depositados nos respectivos autos e disponibilizados ao fisco, o ESTADO DE SÃO PAULO formulou pedido de transferência dos valores à sua disposição nos autos daquelas execuções fiscais extintas para os autos da ação executiva subjacente ao reclamo em tela, com o escopo de alcançar maior garantia do juízo.
+2.2. O preclaro juiz da causa deferiu a pretensão veiculada pelo ESTADO DE SÃO PAULO, com o que não se conforma a empresa executada, ASPEN DISTRIBUIDORA DE COMBUSTÍVEIS LTDA, que se insurge por meio do presente agravo de instrumento.
+3. Carece de amparo, contudo, a irresignação externada pela empresa agravante, ASPEN DISTRIBUIDORA DE COMBUSTÍVEIS LTDA.
+4. Acerca da controvérsia trazida a lume por meio do agravo de instrumento "sub examine", cumpre consignar, primeiramente que, como cediço, a Lei de Execuções Fiscais, em seu artigo 11, estatui o dinheiro no topo da ordem de preferência para nomeação de bens à penhora.
+4.1. Assim os termos do referido artigo 11 e incisos, da LEF:
+ ..
+4.2. No caso em epígrafe, temos que a empresa ora agravante, além de executada pelo fisco bandeirante na ação de execução fiscal subjacente ao agravo de instrumento em tela, também foi executada pelo Estado de São Paulo nas Execuções Fiscais processadas sob os nº 0005069-49.2007.8.26.0428, 0006481-15.2007.8.26.0428 e 0000375-95.2011.8.26.0428, sendo certo que essas execuções fiscais foram julgadas extintas e nelas há valores depositados em favor do Estado de São Paulo.
+4.3. Logo, nada impede que o fisco do Estado de São Paulo, em vez de solicitar o levantamento dos valores disponíveis nas Execuções Fiscais processadas sob os nº 0005069-49.2007.8.26.0428, 0006481-15.2007.8.26.0428 e 0000375-95.2011.8.26.0428, requeira, como o fez, a transferência daqueles valores para garantir o juízo da ação executiva subjacente ao recurso em tela.
+5. Assim sendo, como se disse, não se vislumbra óbice à transferência de valores constritos em outras ações de execução fiscal na qual executada a ora agravante para os autos da ação executiva subjacente ao presente recurso, na qual também devedora a ora recorrente, sendo certo que tal medida encontra amparo na inteligência do artigo 11, da LEF.
+6. Destarte, na esteira do entendimento acima delineado, fica mantida tal como lançada a r. decisão agravada.
+Irresignada, a empresa interpôs recurso especial em que alegou a nulidade do acórdão recorrido por incorrer nos seguintes vícios de integração:
+(..) omissão quanto ao (i) art. 489, inciso II e IV do CPC, na medida em que pende julgamento de Exceção de Pré-Executividade, o que, por si só, reflete na necessidade de aguardar o deslinde da análise das nulidades auferidas de plano; (ii) art. 1.022, II do CPC, na medida em que omisso quanto a inexistência de previsão legal que autorize a transferência da penhora cuja execução foi extinta.
+ ..
+Portanto, ao incorrer em omissão quanto ao art. 489, §1º, incisos II e IV do CPC, o v. acórdão recorrido se olvidou de observar que a presente demanda versa sobre perigo de dano irreparável já que a Recorrente atravessa plano de recuperação judicial ainda em decurso.
+Pois bem.
+Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A esse respeito, vide: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1901723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1813698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1860227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+Feita essa consideração, reitero que, na hipótese, não há falar em negativa de prestação jurisdicional, pois a fundamentação contida no julgado a quo, certa ou errada, é clara ao expressar a compreensão de que, consoante inteligência do art. 11 da LEF, a Fazenda Pública credora tem o direito subjetivo de requerer a transferência de valores depositados em outras execuções já extintas para garantir a quitação do crédito cobrado no feito executivo em curso.
+Diante dessa interpretação de que o art. 11 da LEF asseguraria tal direito subjetivo à Fazenda Pública exequente, não se mostra relevante o argumento de que tal transferência não poderia ser realizada enquanto não examinada a exceção de pré-executividade apresentada pela recorrente.
+Acresço que o fato de empresa encontrar-se em recuperação judicial não retira a competência do juízo da execução fiscal para determinar a constrição. Nesse sentido: AgInt no AREsp n. 2.488.307/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/9/2024, DJe de 4/9/2024; REsp n. 2.184.895/PE, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 1/4/2025, DJEN de 4/4/2025.
+Assim, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação que macule a validade do acórdão recorrido.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
