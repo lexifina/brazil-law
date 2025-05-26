@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por HÉRCULES MOTORES ELÉTRICOS LTDA. contra decisão constante às e-STJ fls. 485/487, em que não conheci do seu agravo em recurso especial por ausência de impugnação específica dos fundamentos de inadmissão do apelo raro adotados na origem.
+Nas suas razões, a parte agravante afirma ter apontado, no apelo nobre, violação dos arts. 927, I e II, e 1.040 do CPC, frisando que a desconsideração das premissas estabelecidas no julgamento do Tema 1.093 do STF implicaria a inobservância desses dispositivos legais.
+Diz ainda ter: (i) criado tópico específico para combater a aplicação da Súmula 280 do STF, reafirmando a contrariedade dos artigos de lei federal citados; (ii) questionado a incidência das Súmulas 211 do STJ e 282 do STF, por ser admitido o prequestionamento implícito das teses recursais; e (iii) havido ausência de manifestação quanto à assertiva de divergência jurisprudencial, por se tratar de hipótese distinta e autônoma de cabimento do recurso especial.
+Por fim, repisa considerações pertinentes ao mérito do apelo nobre, argumentando que a matéria em debate - exigência do DIFAL na aquisição de mercadorias destinadas a contribuintes do ICMS -, embora diferente da examinada pelo Supremo Tribunal Federal no RE 1.287.019, merece o mesmo tratamento.
+Contrarrazões às e-STJ fls. 511/514.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Da análise dos autos, verifiquei que a inadmissão do especial deu-se com base em: (i) incidência das Súmulas 211 do STJ e 282 do STF relativamente aos arts. 927, I e II, e 1.040 do CPC; (ii) natureza constitucional das razões de decidir; e (iii) aplicação da Súmula 280 do STF, ante a necessidade de interpretação da Lei Estadual n. 10.297/1996.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente esses fundamentos.
+Com respeito ao prequestionamento dos dispositivos legais apontados, disse apenas que " ..  se admite o prequestionamento implícito  .. " (e-STJ fl. 407) e que eles " ..  tratam da observância aos precedentes vinculantes pelos órgãos do Poder Judiciário, assunto este que consubstancia o cerne da controvérsia" (e-STJ fl. 408).
+Esse texto não demonstra ter havido, no julgado, o efetivo debate das respectivas teses recursais.
+Quanto ao caráter constitucional da prestação jurisdicional oferecida, a insurgente não comprova que o julgado resolveu a questão com base na interpretação da legislação infraconstitucional indicada (arts. 927, I e II, e 1.040 do CPC). Aliás, a própria parte aduz que, " ..  embora o DIFAL na venda para não contribuinte e o DIFAL na aquisição de mercadorias destinadas ao uso e consumo por contribuintes do ICMS sejam hipóteses diferentes, aplicam-se, no presente caso, as mesmas premissas do Tema de Repercussão Geral n. 1.093  .. " (e-STJ fls. 408/409).
+A pretensão, portanto, é a de impor orientação estabelecida pelo STF em sede de repercussão geral a caso distinto do analisado pela Corte Maior.
+Por fim, para questionar a incidência da Súmula 280 do STF, a agravante alegou somente que " ..  a decisão agravada, apesar de ter considerado dispositivos da referida lei estadual, além de ter violado os dispositivos constitucionais indicados no respectivo recurso extraordinário, negou vigência de dispositivos de lei federal" (e-STJ fl. 408). Do argumento não se extrai a desnecessidade de interpretação da norma local.
+Para demonstrar que a solução da controvérsia independe da aplicação de dispositivos de lei local, além de apresentar a tese recursal fundada na assertiva de violação de legislação federal, deve o jurisdicional transcrever excertos do acórdão que evidenciem a alegação, ou seja, que exponham ter o Colegiado a quo chegado a entendimento fundado na intepretação de lei federal e aplicável, em tese, em qualquer outra unidade da Federação. Em resumo, é necessário comprovar que a lide não foi julgada pelo Tribunal de origem à luz de interpretação de legislação municipal, estadual ou distrital.
+Cumpre salientar que "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível, da parte agravante, o efetivo ataque aos seus fundamentos.
+A decisão agravada, portanto, espelha a orientação da Corte Especial que, por ocasião do julgamento dos EAREsps 701.404/SC, 746.775/SC e 831.326/SC (relator para acórdão o Ministro Luis Felipe Salomão, DJe de 30/11/2018), definiu a necessidade de a parte agravante, no agravo de que trata o art. 1.042 do CPC (antigo art. 544 do CPC de 1973), impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. RECURSO CONTRA A DECISÃO DA ILUSTRE PRESIDÊNCIA DESTA CORTE SUPERIOR QUE NÃO CONHECEU DO AGRAVO, FRENTE À CONSTATADA NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DE FATO, A NÃO SUBMISSÃO A ABALO DE TODOS OS ALICERCES LÓGICOS DA DECISÃO RECORRIDA IMPLICA INCOGNOSCIBILIDADE DA PRETENSÃO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Não se conhece do Agravo em Recurso Especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida (AgInt no AREsp 1.282.707/RS, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 11.02.2021; AgRg no AREsp 1.751.057/DF, Rel. Min. LAURITA VAZ, DJe 17.02.2021; AgInt no REsp 1.690.982/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 18.12.2020).
+2. Crucial registrar que a Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade (AgRg no AREsp 1.784.300/PR, Rel. Min. LAURITA VAZ, DJe 11.03.2021).
+3. Agravo Interno do particular desprovido.
+(AgInt no AREsp 1.795.439/SC, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.).
+Assim, é de rigor o desprovimento do presente agravo interno.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
