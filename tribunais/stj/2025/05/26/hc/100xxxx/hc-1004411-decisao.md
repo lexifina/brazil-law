@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOÃO VITOR FERREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (HC n. 5002807-35.2025.8.08.0000).
+Narram os autos que o paciente está preso preventivamente desde 17/2/2025, nos autos da ação penal em que foi denunciado como incurso no art. 33 da Lei n. 11.343/2006.
+Consta, ainda, que a Corte estadual não conheceu do writ originário por entender que haveria supressão de instância, já que a defesa não havia requerido a revogação da prisão cautelar ao Magistrado de piso antes de impetrar o habeas corpus no Tribunal de Justiça.
+Neste mandamus, a impetrante sustenta que a decisão que decretou a prisão preventiva do paciente e dos demais investigados não trouxe, em absoluto, um único fundamento individualizado e concreto sobre a necessidade da medida extrema, o que indubitavelmente caracteriza uma fundamentação genérica e antecipatória de juízo de culpabilidade, em flagrante violação ao princípio constitucional da presunção de inocência (fls. 10).
+Alega que o paciente é casado, pai de uma criança de 04 (quatro) anos, possui residência fixa, local, aliás, onde foi realizada busca e apreensão e nada foi encontrado, além de desenvolver atividade lícita com carteira assinada, há aproximadamente um ano em uma mesma empresa (fls. 13).
+Requer, inclusive em liminar, a revogação da prisão preventiva para que o paciente possa aguardar em liberdade a ação penal.
+É o relatório.
+A ordem comporta concessão in limine, ainda que em menor extensão.
+No caso, depreende-se dos autos que o writ originário foi impetrado contra a decisão que decretou a prisão preventiva, contudo, o Tribunal Justiça não conheceu do mandamus por entender que não foi pleiteada em primeira instância a revogação da prisão preventiva do paciente e, por conseguinte, os argumentos aventados pelo impetrante ainda não foram analisados pelo Juízo de Primeiro Grau. O Habeas Corpus impetrado perante o Segundo Grau de Jurisdição torna-se via inadequada de impugnação quando o objeto do pedido de não tiver sido anteriormente apreciado pelo Juízo de primeiro grau, sob pena de supressão de instância (fl. 22 - grifo nosso).
+Da leitura dos trechos acima, observa-se que o Tribunal a quo entendeu que não caberia habeas corpus contra a decisão de prisão preventiva sem a prévia ratificação dos fundamentos da custódia pelo Juiz, em um pedido de revogação da prisão. Assim, sem essa providência, não haveria o esvaziamento da instância antecedente. A Corte estadual impôs um requisito que não está previsto no ordenamento jurídico.
+Dessa forma, as teses aqui apontadas pela impetrante acerca da prisão preventiva não foram enfrentadas em segunda instância, sendo vedada a pretendida supressão de instância.
+Contudo, assiste razão à defesa ao sustentar a ilegalidade do acórdão em virtude da necessidade de se requerer, previamente, a revogação da constrição ao Magistrado singular para, então, possibilitar o manejo do writ na Corte de origem.
+Portanto, insurgindo-se a defesa contra a decretação da prisão preventiva e ficando evidenciado que as questões apontadas no writ estavam relacionadas com temas inerentes ao próprio decreto constritivo, a exemplo da alegada ausência de fundamentos concretos para a prisão, não há falar em supressão de instância e impossibilidade de apreciação dos temas pelo Tribunal de origem.
+Não houve, no writ originário, supressão de instância, mas negativação da jurisdição.
+A propósito, como bem disse o Ministro Reynaldo Soares da Fonseca, no HC n. 664.511/RJ, não houve, na impetração originária, supressão de instância, uma vez que o writ se dirigiu contra ato coator perfectibilizado no decreto preventivo expedido pelo magistrado. A formulação de novo pedido de liberdade geraria, eventualmente, outro ato coator, um novo título que superaria o primeiro, e não o "esvaziamento da instância".
+Ante o exposto, concedo liminarmente, em menor extensão, a ordem para determinar que o Tribunal de Justiça do Espírito Santo prossiga imediatamente no julgamento do Habeas Corpus n. 5002807-35.2025.8.08.0000, analisando os temas relacionados com a prisão preventiva, como entender de direito.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE CONHECIMENTO DO WRIT NA ORIGEM. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente, em menor extensão, nos termos do dispositivo.
