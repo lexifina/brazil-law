@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões/contradições no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Sind. dos Trabs. em Políticas Públicas e Gestão Educ. de Supt. Oper. Adm. e Pedag. no Âmbito da Rede Pública de Ens. da Educ. Básica e Superior do DF contra acórdão proferido pela Primeira Turma, assim ementado (fl. 1.107):
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ADICIONAL NOTURNO. PRESCRIÇÃO. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno desprovido.
+Em suas razões, a parte embargante sustenta, em síntese, a ocorrência de omissão e contradição no aresto, no que tange à comprovação de sua hipossuficiência e a necessidade da concessão do benefício da justiça gratuita.
+Aduz a não incidência ao caso da Súmula 7/STJ, sob a alegação de que "o embargante foi preciso ao indicar que se buscava, apenas a devida aplicação do direito ao referido caso, com o reconhecimento de a afronta ao art. 202 do Código Civil, bem como o art. 8º do Decreto nº 20.910/1932, que estabelecem que a interrupção da prescrição poderá se dar uma única vez.  ..  Ressalte-se que a interrupção do prazo quinquenal se deu com o peticionamento do Sindicato dos Auxiliares de Administração Escolar do Distrito Federal em 28.2.2013, porém a decisão proferida pela d. turma entende que a interrupção anterior não suspendeu o prazo para obrigação de pagar, considerando, assim, 13.7.2015 como ponto de interrupção da prescrição. Além disto, pondera-se que, a execução da sentença coletiva exigia prévia liquidação e a realização dos cálculos prescindia da apresentação das fichas financeiras dos servidores substituídos. A prática de atos com o fim do recebimento do crédito afastou a inércia caracterizadora da prescrição, de modo que seu prazo se interrompeu do mencionado peticionamento. Tendo isto em vista, cumpre consignar novamente que a contagem do prazo prescricional indica o transcurso de 3 meses e 12 dias antes do fato interruptivo (início da primeira execução) e 2 anos, 7 meses e 17 dias após o trânsito em julgado dos embargos à execução de número 0031604-31.2015.8.07.0018, até a distribuição do presente cumprimento de sentença, totalizando 2 anos, 10 meses e 29 dias. Diante deste quadro, considerando que a interrupção da prescrição se deu em 28.02.2013, demonstra a total aplicabilidade d a Súmula 383 do STF e da súmula 150/STF, o qual é didática ao determinar que o prazo prescricional não ficará reduzido aquém de cinco anos, não havendo o que se falar em qualquer prescrição no caso concreto" (fls. 1.125/1.127).
+A parte embargada apresentou impugnação às fls. 1.176/1.179.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões/contradições no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado que "indefiro o pedido de justiça gratuita, pois, nos termos da Súmula 481 do STJ, a pessoa jurídica, com ou sem fins lucrativos, faz jus ao benefício da assistência judiciária gratuita se demonstrar sua impossibilidade de arcar com os encargos processuais, pois não existe presunção legal de insuficiência de recursos na hipótese de pessoas jurídicas, o que, contudo, não restou evidenciado no caso, visto que a parte agravante se limita a sustentar a sua impossibilidade de arcar com as custas processuais em razão de estar sofrendo diversos atos constritivos em face das execuções movidas pelo ente federativo, deixando de trazer aos autos quaisquer outros documentos hábeis a comprovar tal alegação.  ..  Como antes asseverado, a alteração das premissas adotadas pelo Sodalício de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (fls. 1.108/1.109).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões/contradições no julgado, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no aresto embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
