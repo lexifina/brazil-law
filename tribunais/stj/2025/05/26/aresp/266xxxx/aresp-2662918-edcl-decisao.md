@@ -1,0 +1,17 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por INCPP - INSTITUTO NACIONAL DOS INVESTIDORES EM CADERNETA DE POUPANÇA E PREVIDÊNCIA contra decisão unipessoal que não conheceu do pedido de reconsideração em face da decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, referente ao Tema 1033/STJ.
+Nas razões do presente recurso, o embargante aduz, em síntese, omissão na decisão, sob o fundamento de que a situação dos autos não se amolda à questão de direito afetada. Requer a reforma do decisum a fim de que seja sanado o vício apontado.
+RELATADO O PROCESSO, DECIDE-SE.
+Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (art. 1022 do CPC), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Na presente hipótese, o vício supramencionado não se mostra presente.
+Nos termos da decisão embargada, recorda-se que o recurso especial discute, entre outras matérias, a interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto por legitimado para propor demandas coletivas, sendo que tal questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1.033), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016.
+Logo, não há vício a ser sanado na decisão embargada, sendo certo que o mero descontentamento da parte não torna cabível o recurso de embargos de declaração, que servem ao aprimoramento do julgado, mas não à sua modificação, apenas excepcionalmente admitida.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fls. 1866-1874).
+Nada obstante, adverte-se o embargante que a oposição de novos embargos, se declarados manifestamente protelatórios, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC, sobretudo porque, consoante o entendimento pacificado nesta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte local é irrecorrível, por não constituir juízo de admissibilidade do recurso especial (AgInt no REsp 1.594.317/SC, 3ª Turma, DJe 20/9/2018; e AgInt no REsp 1.549.779/SE, 4ª Turma, DJe 3/4/2018).
+Forte nessas razõe s, REJEITO os embargos de declaração no recurso especial.
+Baixem-se os autos ao Tribunal de origem para que permaneça suspenso o recurso até a publicação do acórdão paradigma (Tema 1033/STJ), nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar os seguintes vícios: obscuridade, contradição, omissão ou erro material. Descabe seu acolhimento quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
