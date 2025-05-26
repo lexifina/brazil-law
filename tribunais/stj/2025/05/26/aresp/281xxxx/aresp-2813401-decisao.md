@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LUIZ XAVIER PINTO, contra decisão que inadmitiu recurso especial fundamentado exclusivamente na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/11/2024.
+Concluso ao gabinete em: 04/02/2025.
+Ação: execução de título executivo extrajudicial ajuizada por LUIZ XAVIER PINTO em face de VERA LUCIA GOMES DUTRA, por meio do qual sustenta a penhora de parte da remuneração da executada, alegando que não foram encontrados outros bens passíveis de penhora e que a penhora não comprometeria a subsistência digna da devedora (e-STJ fls. 113-118).
+Sentença: julgou improcedente o pedido de penhora da remuneração da executada, fundamentando na impenhorabilidade das verbas de caráter alimentar e na ausência de comprovação do valor da remuneração (e-STJ fls. 54-62).
+Acórdão: negou provimento ao agravo de instrumento, nos termos da seguinte ementa (e-STJ fls. 55-56):
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO. PEDIDO DE CONSTRIÇÃO DE PERCENTUAL DA REMUNERAÇÃO DO EXECUTADO. PRESSUPOSTOS NÃO ATENDIDOS. INDEFERIMENTO MANTIDO. I. A penhora de parte da remuneração do executado, ao mesmo tempo em que preserva o núcleo da impenhorabilidade e com isso prestigia o princípio da dignidade da pessoa humana (CF, art. 1º, III), assegura a satisfação gradual do crédito do exequente em consonância com o princípio da efetividade da execução (CF, art. 5º, XXXV). II. A impenhorabilidade do inciso IV do artigo 833 do Código de Processo Civil pode ser flexibilizada quando a constrição de parte da remuneração do executado não comprometer a sua subsistência digna e de sua família e não forem encontrados outros bens passíveis de penhora. III. A impenhorabilidade do inciso IV do artigo 833 do Código de Processo Civil não pode ser atenuada na hipótese em que sequer é conhecida a remuneração do executado e não foram esgotados os meios de localização de bens penhoráveis. IV. Agravo de Instrumento conhecido e desprovido.
+Recurso especial: alega dissídio jurisprudencial por violação do art. 833, inciso IV, do Código de Processo Civil. Sustenta que a penhora de parte da remuneração pode ser admitida mesmo sem conhecimento do valor exato, desde que garantida a subsistência digna do devedor, e que o Tribunal de Justiça do Paraná adotou entendimento diverso, permitindo a penhora em situação similar (e-STJ fls. 78-86).
+Juízo prévio de admissibilidade: o TJDFT inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática, notadamente quanto ao cumprimento dos requisitos que impedem a penhora excepcional de percentual da remuneração. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi suficientemente comprovado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, Quarta Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de execução de título executivo extrajudicial.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
