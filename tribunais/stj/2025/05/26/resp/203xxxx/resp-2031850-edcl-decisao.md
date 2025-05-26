@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por  MARIA DA CONCEICAO DOS SANTOS COSTA  à  decisão  em que o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região)  determinou  o  retorno  dos  autos  ao  Tribunal  de  origem  com  vistas  a  aguardar  a  solução  da  Ação  Direta  de  Inconstitucionalidade  5.090/DF (  fls.  347/349).
+Nas  razões  de  seus  embargos  de  declaração,  a  parte  embargante  reitera  que  "optou  por  renunciar  a  qualquer  outro  índice  de  correção,  anuindo  expressamente  à  Taxa  Referencial  -  TR  ,  justamente  no  intuito  de  receber  seu  crédito  com  a  celeridade  que  a  Constituição  Federal  preconiza  a  todos  os  processos  judiciais"  (fls.  351/352).
+Por  conseguinte,  pede  que  os  embargos  sejam  acolhidos  para,  reconhecendo  a  perda  do  objeto  recursal  , homologar sua renúncia ou determinar ao juízo de origem que o faça.
+Manifestação  pela  parte  embargada  juntada  às  fls.  377/378  onde  declara  que  "concorda com os termos da petição de fls. 351/354, quanto a aplicação da TR".
+É  o  relatório.
+Os  embargos  declaratórios  não  apresentam  vícios  formais,  foram  opostos  dentro  do  prazo  e  cogitam,  objetivamente,  de  matéria  própria  dessa  espécie  recursal  (arts.  1.022  e  1.023  do  CPC).  Nada  há,  enfim,  que  impeça  o  seu  conhecimento.
+O  recurso  especial  interposto  pela  parte  ora  embargada,  MUNICÍPIO  DE  PARAUAPEBAS,  discute  especificamente  a  aplicação  da  Taxa  Referencial  (TR)  como  índice  de  correção  aplicável  aos  depósitos  do  Fundo  de  Garantia  por  Tempo  de  Serviço  (FGTS).
+Assim,  tendo  a  parte  embargante  renunciado  a  qualquer  outro  índice  anuindo  com  a  aplicação  da  TR,  verifico  que  o  objeto  recursal  não  subsiste  e  estes  embargos  merecem  acolhimento.
+Considerando  que  o  acolhimento  implicará  na  modificação  da  decisão  embargada,  registro  que  a  manifestação  do  MUNICÍPIO  DE  PARAUAPEBAS,  às  fls.  377/378,  concordando  com  o  alegado  cumpre  providência  disposta  no  art.  1.023,  § 2º  do  CPC.
+Ante  o  exposto,  conforme  o  art.  34,  XI,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  c/c  art.  487,  III,  "c"  do  CPC,  acolho  os  embargos  de  declaração  reconsiderando  a  decisão  de  fls.  347/349  para  homologar  a  renúncia  por  parte  de  MARIA DA CONCEICAO DOS SANTOS COSTA  a  qualquer  outro  índice  de  correção  dos  depósitos  de  FGTS  com  anuência  expressa  à  TR,  neste  feito,  e  declarar  prejudicado  o  recurso  especial  do  MUNICÍPIO  DE  PARAUAPEBAS.  Sem  majoração  de  honorários  recursais.
+Transitada  em  julgado  esta  decisão,  retornem  os  autos  à  origem  para  demais  providências.
+Publique-se.  Intimações  necessárias.
+ EMENTA
