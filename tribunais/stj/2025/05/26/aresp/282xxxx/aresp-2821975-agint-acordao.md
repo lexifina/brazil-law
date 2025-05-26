@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+RELATÓRIO
+Trata-se de agravo interno (fls. 484-490) interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial (fls. 477-480).
+Em suas razões, a parte agravante alega que não busca o reexame de provas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 494-500).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 477-480):
+Cuida-se de Agravo apresentado por HAPVIDA ASSISTENCIA MEDICA S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. EMPRESARIAL COLETIVO. REAJUSTE ANUAL. TRATATIVA ENTRE AS PARTES. PROPOSTA EFETUADA E ACEITA. RÉU NÂO COMPROVOU QUALQUER IMPEDITIVO, MODIFICATIVO OU EXTINT1VO DO DIREITO DO AUTOR. ÔNUS DA PROVA NÂO OBSERVADO. AGRAVO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do arts. 14, § 3º, I, do CDC e 15 da Lei nº 9.656/98 , no que concerne à legalidade e validade do reajuste do plano saúde coletivo no percentual aplicado pela ora recorrente, trazendo a seguinte argumentação:
+Na situação em foco, o contrato é de modalidade coletivo empresarial e foi firmado em 01/08/2011 e todos os reajustes aplicados estavam de acordo com o contrato e a legislação aplicável em exercício regular de um direito.
+O caso envolve reajuste anual que, a cada aplicação, sofria mudança comuns no contrato com conferência das partes, mas ao contrário do que foi dito pela parte adversa, em 2013 não houve acerto limitando o reajuste anual em 10%. o que correu foi um acerto relativo ao ano de 2012, não 2013.
+Este percentual refere-se à sinistralidade do contrato, que é um termo que explica que, quando chega o aniversário do contrato, a operadora formaliza comunicado aos contratantes e assim se iniciam as negociações para firmar o novo reajuste que é pactuado em comum acordo entre as partes. Assim, em 2012 o percentual de sinistralidade foi de 12%, mas após as negociações, chegou-se ao consenso para reduzi- lo para 10%.
+Em não se diga que a parte adversa provou irregulares no acerto, pois o documento que junto em fls. 45 é apócrifo e aponta que o percentual para o ano de 2013 foi de 16%, sendo reduzida após a negociação respectiva, para 12%
+ ..
+Pelo visto, a forma de reajuste e percentual foi previamente acertada entre as partes e não se confunde com os índices da ANS. In casu, todos os reajustes aplicados foram calculados adequadamente e de forma proporcional com foco na SINISTRALIDADE.
+ ..
+Entende-se que não há mais espaço para o judiciário considerar abusiva a cláusula do reajuste por sinistralidade diante desse cenário de jurisprudências favoráveis a questão, sob pena de continuar causando inúmeros prejuízos financeiros às operadoras de planos de saúde que tentam suprir as necessidades deixadas pelo Estado no âmbito da saúde, imputando ônus muito além do contratado.
+A cláusula de reajuste, portanto, não pode ser tida como ilegal, pois há expressa previsão nos contratos, da mesma forma está autorizado pela ANS, bem como não é contrário às premissas do Código de Defesa do Consumidor - quando este fora aplicado ao caso -, eis que foi garantida a rescisão às partes contratante e contratada.
+Entender de forma contrária causará sério comprometimento financeiro de toda entidade privada do seguimento de prestação de serviço à saúde, incorrendo em inequívoco desestímulo à atividade, obrigando-lhes a suportar prejuízos decorrentes do desequilíbrio econômico. Conclui-se, portanto, pela legalidade da cláusula de reajuste por sinistralidade nos contratos de plano de saúde coletivo.
+Aplicar o reajuste a seus critérios é agir em Exercício Regular de Direito para assegurar o indispensável EQUILÍBRIO ECONÔMICO-FINANCEIRO entre a assistência médica prestada e a contraprestação pecuniária devida. Ademais, a Requerente, que é pessoa jurídica, aderiu ao referido contrato para obter cobertura de seguro saúde para seus funcionários/colaboradores/associados, conseguindo vantagens na negociação com mensalidades bem abaixo do preço de mercado.
+Ex positis, essa Corte Especial deve DAR PROVIMENTO ao presente recurso para REFORMAR o acórdão vergastado, nos moldes aqui levantados, afastando a condenação, sob pena de perpetuar grave violação aos dispositivos de lei federal citados (fls. 391/396).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com efeito, ao contrário do que argumenta o agravante, a decisão combatida não tomou como base as regras aplicadas aos contratos individuais, mas sim, tratou da questão tendo como base que o Plano de Saúde objeto da ação é de natureza Empresarial Coletivo.
+Inicialmente, observa-se que foi determinada a inversão do ônus da prova (Id. 6478843 - fl. 8), não tendo o agravante se insurgido contra tal decisão; que o autor conseguiu se desincumbir de comprovar os fatos constitutivos do seu direito; e que, por sua vez, o réu/agravante não comprovou quaisquer fatos impeditivos, modificativos ou extintivos do direito do autor.
+Das provas carreadas aos autos, extrai-se que houve uma proposta por parte do agravante de reajuste anual de 10% (dez por cento), comprovada através de email datado de 29/04/2013 (Id. 6478826 - fl. 9), aceita pelo agravado. Porém, o percentual de fato aplicado foi de 16,55% (dezesseis ponto sessenta e cinco por cento), que, após contestado pelo agravado, ficou em 12% (doze por cento), conforme observa-se nas negociações travadas através de emails - Id. 6478832 - fls. 1/6, percentual este ainda superior à proposta inicial.
+Os argumentos trazidos pelo agravante nas razões do interno, para justificar a legalidade da aplicação do reajuste de 12%, são os mesmos apresentados em sede de apelação e já combatidos na decisão monocrática atacada.
+ ..
+Assim sendo, transcrevo abaixo os termos da decisão monocrática guerreada (Id. 7993182 - fls. 3/4), nas partes que interessam, cuja fundamentação repele integralmente a pretensão no presente Agravo Interno: deduzida
+"No presente caso, observo ter o autor juntado à exordial o documento de fls.47 destes autos virtuais, datado de 29/04/2013 e que aponta a proposta de reajuste anual em 10% (dez por cento).
+Sobre mencionado documento, em que pese o apelante tenha tentado descaracterizá-lo, tenho que seu conteúdo é confirmado pelo teor do e-mail de fls.93, enviado por silvianascimento@hapvida.com.br e no qual é dito o seguinte: "Ressalto quanto ao seu reajuste que em decorrência do relato exposto e e-mail encaminhado, abri processo administrativo para trato na negociação de seu reajuste podendo, após análise, ser gerado uma Carta de Desconto para ser aplicada em seu vencimento de agosto".
+Mais adiante, no e-mail de fls.95, consta o seguinte:
+"Agradecemos o envio de seu comprovante, mas ressalto novamente quanto ao seu percentual. O que lhe informado pela Sra. Noeli no dia 29/04/13 foi referente ao seu percentual Julho/2012, porém mediante as circunstancias foi aberto processo administrativo para trato do mesmo. Por gentileza aguardar fechamento do processo para informa-lo do que será negociado".
+Da leitura dos documentos juntados à exordial, em especial o conteúdo dos e-mails tenho que, de fato, o apelado, ainda que por equívoco da apelante, recebeu no ano de 2013 a proposta de reajuste anual de 10% (dez por cento), pois o documento é datado de abril daquele ano, e não de 2012.
+Dessa forma, tenho que o autor/apelado cumpriu fielmente com seu ônus probatório, comprovando o fato constitutivo de seu direito.
+Na contramão, o ora apelante não teve a mesma sorte. Note-se que nenhuma prova documental foi juntada à contestação, tendo réu pedido o julgamento antecipado da lide (fls.191 dos autos eletrônicos).
+Ora, a contestação era a oportunidade de o apelante demonstrar ter havido equívoco na formação da proposta de reajuste anual, juntado, exemplificativamente, documentos que comprovassem que o percentual de 16,55% (dezesseis vírgula cinquenta e cinco por cento) é o que, de fato, corresponderia ao perfeito equilíbrio contratual, mas não o fez, limitando-se a alegar, sem nada provar.
+Desta forma, não tendo o réu/apelante se desincumbido de seu ônus probatório, não há como acatar sua tese de exercício regular do direito.
+ ..
+Como se observa na decisão acima reproduzida, este relator não aplicou como regra os limites de reajuste aplicados pela ANS para os planos individuais/familiares e nem desconsiderou que o reajuste dos planos coletivos tem como base a sinistralidade, mas sim, embasou o nas decisum provas trazidas aos autos.
+Por fim, em nenhum momento, o agravante conseguiu demonstrar que os 16,55% era o valor adequado para o equilíbrio financeiro contratual, trazendo apenas argumentos sem provas, como registrado na decisão agravada. Nesse sentido, já tem decidido o STJ que compete ao julgador analisar se houve comprovação do aumento da sinistralidade, o que, in casu, não ocorreu (fls. 373/375).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+Conforme destacado na decisão agravada, o Tribunal de origem concluiu que, pelos e-mails trocados entre as partes, ficou acordado o reajuste do plano em 10% (dez por cento), bem como que a agravante deixou de comprovar a necessidade do aumento da mensalidade no percentual apontado.
+Modificar o entendimento do acórdão impugnado demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
