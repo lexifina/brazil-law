@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXTINÇÃO DO PROCESSO. ABANDONO DA CAUSA. REQUERIMENTO EXPRESSO DO RÉU. NECESSIDADE. INTIMAÇÃO DO AUTOR. INÉRCIA. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior consolidada na Súmula 240/STJ, no sentido de que a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu.
+2. Para rever o entendimento firmado pelas instâncias ordinárias, de que o autor quedou-se inerte quando foi intimado para impulsionar o feito, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por LUIZ PAZIN contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. RECONHECIDO O ABANDONO DA CAUSA E JULGADO EXTINTO O FEITO, SEM JULGAMENTO DE MÉRITO, COM FULCRO NO ART. 485, III, DO CPC/15. INSURGÊNCIA DE AMBAS AS PARTES. RECURSO DO EXECUTADO. POSTULADA CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA BEM COMO A FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS COM BASE NO VALOR DA CAUSA. POSTERIOR DESISTÊNCIA DO RECURSO. ACOLHIMENTO DO PEDIDO DE DESISTÊNCIA QUE SE IMPÕE. INTELIGÊNCIA DO ARTIGO 998 DO CÓDIGO DE PROCESSO CIVIL. RECURSO PREJUDICADO. RECURSO DO EXEQUENTE. ALEGADA INVIABILIDADE DE EXTINÇÃO DA AÇÃO POR ABANDONO DE CAUSA, DE OFÍCIO PELO JUÍZO E SEM A VÁLIDA INTIMAÇÃO PESSOAL DA PARTE AUTORA. TESE QUE MERECE ACOLHIDA. SENTENÇA DE ABANDONO DE CAUSA QUE NÃO FOI PRECEDIDA DE REQUERIMENTO DO RÉU, CONFORME PRECEITUA O ARTIGO 485, §6º DO CÓDIGO DE PROCESSO CIVIL E O ENUNCIADO 240 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. SENTENÇA CASSADA. RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROSSEGUIMENTO DO FEITO. RECURSO DO EXEQUENTE CONHECIDO E PROVIDO. RECURSO DO EXECUTADO PREJUDICADO." (e-STJ fl. 295).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 338/339).
+No recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos artigos 2º, 10 e 485, III e § 6º, do Código de Processo Civil, defendendo que a extinção do processo por abandono de causa pelo autor independe de requerimento do réu e que não houve intimação do demandado para que seja oportunizada a manifestação em juízo antes da extinção do feito.
+Após as contrarrazões (e-STJ fl. 416/424), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXTINÇÃO DO PROCESSO. ABANDONO DA CAUSA. REQUERIMENTO EXPRESSO DO RÉU. NECESSIDADE. INTIMAÇÃO DO AUTOR. INÉRCIA. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior consolidada na Súmula 240/STJ, no sentido de que a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu.
+2. Para rever o entendimento firmado pelas instâncias ordinárias, de que o autor quedou-se inerte quando foi intimado para impulsionar o feito, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o Tribunal de origem decidiu o seguinte:
+"(..)
+Da análise conjugada das normas, portanto, é de se concluir que, em se tratando de extinção por abandono de causa por mais de 30 (trinta) dias, de fato se exige a intimação pessoal da parte para que a falta seja suprida em 5 (cinco) dias. Não obstante isso, caso operada a angularização processual, necessário se faz o requerimento da parte demandada nesse sentido.
+Na hipótese vertente, nota-se que, após idas e vindas processuais, citada a parte executada - que opôs embargos à execução recebidos sem efeito suspensivo (evento 45 do processo n. 5003984-88.2020.8.24.0024) -, a magistrada de origem proferiu a seguinte decisão:
+1. Em atenção à petição do evento 32, registra-se que a apresentação do título original em cartório já foi postergada para momento oportuno (evento 09).
+2. A parte executada já foi citada (evento 26).
+Logo, intime-se a parte exequente para impulsionar o feito, no prazo de 15 (quinze) dias, sob pena de extinção.
+No silêncio, intime-se pessoalmente para o mesmo fim, em 05 (cinco) dias, sob pena de extinção. (evento 37 - grifei)
+Intimada a casa bancária por meio de seu advogado constituído (evento 41), deixou o prazo fluir in albis, o que ensejou a remessa de ofício visando à intimação pessoal (evento 47), o qual foi recebido sem nenhuma objeção por pessoa que assinou o respectivo Aviso de Recebimento na qualidade de Gerente de Serviços da Agência do Banco do Brasil localizada na Rua Padre Biaggio Simonetti, no Centro da cidade de Fraiburgo (evento 48), mantendo-se, todavia, inerte a parte exequente.
+Nesse cenário, entretanto, não há como se reconhecer caracterizado o abandono de causa, pois, como visto, não houve requerimento expresso do executado nesse sentido, apesar de atuante no feito haja vista que, devidamente citado, opôs os embargos à execução n. 5003984-88.2020.8.24.0024, o que impede a extinção do feito com fulcro no artigo 485, inciso III do Código de Processo Civil.
+(..)" (e-STJ fls. 300/301).
+De fato, o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior consolidada na Súmula 240/STJ, no sentido de que: "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. APELAÇÃO. EFEITO DEVOLUTIVO. EXTINÇÃO DE EXECUÇÃO EMBARGADA. ABANDONO DA CAUSA. SÚMULA 240/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o efeito devolutivo da apelação, em sua dimensão vertical, confere profundidade ampla ao recurso, o que permite ao tribunal reapreciar todas as questões ligadas à matéria veiculada no apelo, sem estar limitado pelos fundamentos jurídicos adotados pela sentença, nem pelos suscitados pela parte. Precedentes.
+2. Nos termos da Súmula 240/STJ, "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.572.231/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/11/2024, DJEN de 29/11/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXTINÇÃO DO PROCESSO POR ABANDONO PROCESSUAL. NECESSIDADE DE REQUERIMENTO DO RÉU. INCIDÊNCIA DA SÚMULA N. 240/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Segundo a Súmula n. 240/STJ, a extinção do processo, por abandono da causa pelo autor, depende do requerimento do réu.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.131.120/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+"RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. EXTINÇÃO DO PROCESSO POR ABANDONO. REQUERIMENTO DA PARTE RÉ E INTIMAÇÃO PESSOAL DA PARTE AUTORA. NECESSIDADE. INTIMAÇÃO PESSOAL REALIZADA PELA SECRETARIA DO JUÍZO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. ATO MERAMENTE ORDINATÓRIO. DELEGAÇÃO. POSSIBILIDADE.
+1. Ação de execução por quantia certa ajuizada em 15/12/2003, da qual foi extraído o presente recurso especial, interposto em 27/04/2021 e atribuído ao gabinete em 13/12/2021.
+2. O propósito recursal consiste em dizer sobre a possibilidade de a Secretaria do Juízo realizar, por delegação, a intimação pessoal da parte autora para dar andamento ao processo sob pena de extinção por abandono.
+3. De acordo com a jurisprudência do STJ, a extinção do processo em decorrência do abandono da causa pelo autor somente poderá ser decretada se houver requerimento do réu, na hipótese em que a relação processual já tiver sido integralizada (Súmula 240/STJ), e se a parte autora, intimada pessoalmente, deixar de se manifestar sobre o prosseguimento do processo no prazo de cinco dias (art. 485, III e § 1º, do CPC/2015). Precedentes.
+4. O art. 93, XIV, da CF/1988, acrescentado pela Emenda Constitucional nº 45/2004, autoriza que sejam delegados aos servidores a prática de atos de administração e atos de mero expediente sem caráter decisório, permitindo, dessa maneira, a desburocratização de serviços meramente ordinatórios do processo, em observância ao princípio constitucional da celeridade processual.
+Nesse mesmo sentido, preceituam os arts. 152, VI e § 1º, e 203, § 4º, do CPC/2015.
+5. O STJ já se posicionou no sentido de que "não há que falar em nulidade da delegação aos serventuários de justiça da prática de atos ordinatórios ou de mero expediente" (AgRg no AREsp 480.543/RJ, 4ª Turma, DJe de 14/09/2016).
+6. A intimação pessoal da parte autora para dar andamento ao processo, no prazo de cinco dias, sob pena de extinção sem resolução de mérito, trata-se de consectário legal da norma contida no art. 485, § 1º, do CPC/2015.
+7. A referida intimação se revela, portanto, como despacho de mero expediente e, assim, passível de delegação aos serventuários de justiça, porquanto, além de ser desprovida de conteúdo decisório, visando apenas dar andamento ao processo, frise-se, em cumprimento ao procedimento determinado pelo art. 485, § 1º, do CPC/2015, a análise quanto à desídia da parte fica reservada ao juiz, que vai avaliar o efetivo abandono do processo para proferir a sentença de extinção.
+8. Hipótese dos autos em que além de ter havido requerimento da parte executada, a exequente foi intimada, não só na pessoa de seus procuradores, como também pessoalmente, ainda que pela Secretaria do Juízo, para dar andamento ao processo, no prazo de cinco dias, sob pena de extinção sem resolução de mérito, tendo se mantido inerte, razão pela qual sobreveio a sentença de extinção por abandono.
+9. Recurso especial conhecido e provido."
+(REsp n. 1.977.579/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2022, DJe de 6/10/2022.)
+Nesse contexto, verifica-se que o entendimento esposado no acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a incidência da Súmula nº 568/STJ.
+Ademais, para rever o entendimento firmado pelas instâncias ordinárias, de que o autor quedou-se inerte quando foi intimado para impulsionar o feito, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. ABANDONO DA CAUSA. REQUERIMENTO DO RÉU. INTIMAÇÃO PESSOAL DA PARTE. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. RECURSO NÃO PROVIDO. 1.
+O acórdão recorrido decidiu em sintonia com a jurisprudência do STJ de que a extinção do feito por abandono de causa pela parte autora exige o requerimento da ré, a intimação pessoal da autora para que a falta seja suprida no prazo de 48 horas, antes da extinção do feito.
+Precedentes. 2. A alteração das premissas fáticas adotadas pelo eg. Tribunal de origem exige o reexame do substrato fático-probatório contido nos autos, providência que, na via do recurso especial, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.244.268/MS, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª REGIÃO), Quarta Turma, julgado em 16/8/2018, DJe de 23/8/2018.)
+Por fim, o recurso também não merece ser conhecido quanto ao dissídio alegado.
+Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. (..)
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido"
+(AgInt no AREsp 913.875/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/10/2016, DJe 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula 283 do Supremo Tribunal Federal.
+2. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento"
+(AgInt no AREsp 864.649/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/10/2016, DJe 7/11/2016).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
