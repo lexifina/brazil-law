@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, proposta por CECILIA MARIA DE SOUZA objetivando garantir a autoridade da decisão proferida nos autos do REsp 2.175.573/PE, desta Relatoria, a qual, após reconhecer a negativa de prestação jurisdicional, determinou o retorno dos autos à origem para sanar as omissões apontadas, ficando prejudicado o exame das demais questões.
+Em suas razões, a insurgente alega que "(..) O v. Acórdão publicado nos autos do Resp. 2175573/PE determinou que a 2ª Câmara Cível do TJPE, adentra-se ao mérito dos embargos de declaração para analisar a tese, lá externada, da necessidade de se respeitar a meação da viúva em penhora de valores amealhados na constância da convivência em comum." Acrescenta que "(..) Sob o argumento de que a análise do mérito dos embargos de declaração violaria o duplo grau de jurisdição, e ainda, configuraria a supressão de instância, a 2ª Câmara Cível do TJPE desconsiderou a decisão deste e. Tribunal."
+Requer, assim, que "(..) anule o v. Acordão publicado pela 2ª Câmara Cível do TJPE, garantindo a respeitável decisão adotada nos autos do Resp. 2175573/PE, determinando o enfrentamento amplo da tese externada nos embargos de declaração que versa sobre impossibilidade de penhora de valores em inobservância a meação do cônjuge supérstite."
+É o relatório.
+Decisão.
+O incidente não merece acolhimento.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a decisão proferida no REsp 2.175.573/PE determinou o retorno dos autos à origem para sanar omissões apontadas no apelo nobre, ficando prejudicado o exame das demais questões, o que, de fato, foi cumprido pela autoridade ora reclamada, ainda que contrário aos interesses da reclamante.
+Dessa forma, inexiste - da leitura dos presentes autos (fls. 32/58) - qualquer inobservância da decisão exarada por este STJ porquanto é cediço a compreensão segundo a qual o julgamento contrário aos interesses da insurgente não implica descumprimento a autoridade da decisão do STJ, a autorizar o manejo da reclamação, pois não cabe nessa seara a análise do mérito do ato impugnado que deve ser objeto de recurso próprio.
+Já se decidiu que a reclamação é via excepcional e não pode ser utilizada como sucedâneo de recurso cabível na origem, pois pressupõe estrita aderência entre o objeto reclamado e o conteúdo da decisão a qual se alega descumprida.
+A propósito, confiram-se os seguintes julgados: AgInt na Rcl n. 44.175/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, julgado em 28/3/2023, DJe de 3/4/2023; AgInt nos EDcl na Rcl n. 43.514/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 30/8/2022, DJe de 6/9/2022.
+Dessa forma, inexistente qualquer das hipóteses legais de cabimento, o indeferimento liminar da presente reclamação é medida de rigor.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
