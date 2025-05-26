@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIÃO COMERCIAL BARÃO S.A. LOCAÇÃO E EMREENDIMENTOS (ou UNIÃO COMERCIAL BARÃO LDTA.) contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489, II e § 1º, IV, e 1.022, II e parágrafo único, do CPC e na Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial não reúne condições de admissibilidade, pois não demonstrou a efetiva afronta à legislação federal, tampouco o dissídio jurisprudencial. Defende que a decisão monocrática deve ser mantida (fls. 395-408).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais em apelação nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 263):
+AÇÃO DE COBRANÇA - APROVAÇÃO E HOMOLOGAÇÃO DO CRÉDITO NO PLANO DE RECUPERAÇÃO EXTRAJUDICIAL - NOVAÇÃO DO CRÉDITO - FALTA SUPERVENIENTE DE INTERESSE DE AGIR - CARÊNCIA DA AÇÃO - EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. - A aprovação e homologação do crédito em recuperação extrajudicial enseja a superveniente perda do objeto da ação de cobrança por ausência de interesse de agir, uma vez que operada a novação da dívida, com a constituição de título executivo judicial perante o juízo da recuperação judicial.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 293):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL - INEXISTÊNCIA - REJEIÇÃO DOS EMBARGOS. - Inexistindo obscuridade, contradição, omissão ou erro material na decisão hostilizada, a demandar correção, devem ser rejeitados os embargos declaratórios.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 337, § 4º, do CPC, porquanto o acórdão recorrido atribuiu força de coisa julgada a uma decisão de deferimento de recuperação extrajudicial ainda pendente de julgamento de diversos recursos (fls. 300-311);
+b) 6º, § 1º, da Lei n. 11.101/2005, visto que o acórdão impediu o prosseguimento de demanda para recebimento de valor ilíquido (fls. 300-311);
+c) 49 da Lei n. 11.101/2005, pois o acórdão submeteu créditos de natureza extraconcursal ao regime da recuperação extrajudicial, constituídos somente após a apresentação do pedido de recuperação correspondente (fls. 300-311);
+d) 489, II e § 1º, IV, e 1.022, II, do CPC, porquanto houve omissão do acórdão quanto à inexistência de coisa julgada do deferimento da recuperação extrajudicial e à natureza extraconcursal do dever de indenizar o bem cujo extravio somente foi informado após referida recuperação (fls. 300-311).
+Sustenta que o acórdão recorrido contraria o entendimento de que créditos apurados posteriormente ao pedido de recuperação não se submetem aos seus efeitos, conforme precedentes do STJ (fls. 300-311).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando-se o regular prosseguimento da lide quanto à pretensão indenizatória.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não reúne condições de admissibilidade, pois não demonstrou a efetiva afronta à legislação federal, tampouco o dissídio jurisprudencial. Pugna pela manutenção da decisão monocrática (fls. 360-373).
+É o relatório. Decido.
+O agravo é cabível, tempestivo e preenche os demais requisitos de admissibilidade, razão pela qual merece conhecimento.
+Superada essa análise, verifica-se que o recurso especial não deve prosperar.
+Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Ressalte-se que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO QUINQUENAL DAS PARCELAS ANTECEDENTES AO AJUIZAMENTO DA DEMANDA. PRESCRIÇÃO DO FUNDO DO DIREITO. INEXISTÊNCIA. DEVOLUÇÃO DE RESERVA DE POUPANÇA. DISCUSSÃO SOBRE SER CASO DE CONTRATO DE RISCO. REVISÃO DE CLÁUSULAS CONTRATUAIS E PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5, 7, 291 E 427 DO STJ . AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+ ..
+4. Agravo interno desprovido. (AgInt no REsp n. 1.781.470/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO NA DECISÃO AGRAVADA. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. FUNDAMENTAÇÃO DEFICIENTE E GENÉRICA. APLICAÇÃO DA SÚMULA N. 284 DO STF. MATÉRIA VENTILADA NO RECURSO ESPECIAL. REVISÃO. SÚMULA N. 7 DO STJ. NEGÓCIO JURÍDICO SIMULADO. APLICAÇÃO DO CÓDIGO CIVIL DE 1916. ANULAÇÃO. PRAZO DE 4 ANOS. NÃO VOLVIDO ATÉ A VIGÊNCIA DO CÓDIGO CIVIL DE 2002. REGRA ATUAL. NULIDADE ABSOLUTA. NÃO SUJEITO A PRAZO DE DECADÊNCIA E PRESCRIÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 489 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+ ..
+8. Agravo interno desprovido. (AgInt no AREsp n. 2.135.804/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+No presente caso, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando, de forma clara, precisa e completa, as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+É cediço também que "o julgador não está obrigado a responder todas as considerações das partes, bastando que decida a questão por inteiro e motivadamente" (REsp n. 415.706/PR, relator Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 4/6/2002, DJ de 12/8/2002), o que de fato ocorreu no caso em análise.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da recorrente.
+A matéria de fundo consiste em definir se a novação dos créditos, resultante da aprovação do plano de recuperação judicial, suspende ou extingue as execuções individuais.
+O Tribunal de Justiça do Estado de Minas Gerais, ao analisar a questão, pontuou o seguinte (fl. 266-268):
+Aprovado e homologado o crédito no plano de recuperação extrajudicial, criou-se uma nova obrigação, com a extinção da obrigação anterior, transformando-se o crédito habilitado em título executivo judicial, nos termos previstos no §6º do artigo 161 da Lei de Recuperação Judicial.
+ ..
+Assim, inviável o prosseguimento da ação de cobrança, porquanto a antiga obrigação deixou de existir, haja vista que foi substituída pelo título judicial, decorrente da homologação do crédito em favor da parte autora/apelante. Ante o exposto, NEGO PROVIMENTO AO RECURSO.
+Tal entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que a novação de que trata o art. 59 da Lei n. 11.101/2005 implica a habilitação dos créditos no quadro geral e na consequente extinção das respectivas execuções singulares em desfavor da recuperanda.
+Nesse sentido, o REsp n. 1.899.107/PR, relatado pelo Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2023, DJe de 28/4/2023, cuja ementa transcrevo:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUPRESSÃO DAS GARANTIAS. CONCORDÂNCIA DO CREDOR. EXECUÇÃO INDIVIDUAL. EXTINÇÃO. RECUPERANDA. COOBRIGADOS. FASE DE FISCALIZAÇÃO JUDICIAL. TÉRMINO. SUSPENSÃO.
+1. A questão controvertida resume-se a definir se é caso de extinção da execução de título executivo extrajudicial ajuizada contra a empresa em recuperação judicial e os coobrigados do título na hipótese em que o titular do crédito concorda com a cláusula de supressão das garantias inserta no plano de recuperação judicial.
+2. Nos termos da consolidada jurisprudência desta Corte, a cláusula que prevê a supressão das garantias somente é eficaz em relação ao credor titular da garantia que com ela concordar expressamente, o que ocorreu no caso em análise.
+3. No que respeita à sociedade em recuperação judicial, com a aprovação do plano e a consequente novação dos créditos, a execução contra ela ajuizada deve ser extinta, pois não terá como prosseguir, já que o descumprimento do plano acarretará a convolação da recuperação em falência (no prazo de fiscalização judicial), a execução específica do plano ou a decretação da quebra com fundamento no artigo 94 da LREF (decorrido o prazo de fiscalização judicial). Precedentes.
+4. No caso de descumprimento do plano dentro do prazo de fiscalização judicial, o credor poderá requerer a convolação da recuperação judicial em falência, nos termos dos arts. 61, § 1º, e 73, IV, da LREF. Os credores terão seus direitos e garantias reconstituídos nas condições originalmente contratadas (artigo 61, § 2º, da LREF), de modo que a execução contra os coobrigados, antes suspensa, poderá prosseguir.
+5. No caso de o descumprimento do plano se dar após o prazo de fiscalização judicial, a novação torna-se definitiva, nos termos do artigo 62 da Lei nº 11.101/2005, cabendo ao credor requerer a execução específica do plano (título executivo judicial) ou a falência com base no artigo 94, III, "g", da Lei nº 11.101/2005, situação em que a execução contra o coobrigado deve ser extinta.
+6. Recurso especial parcialmente provido.
+Incide, pois o óbice da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
