@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DE MINAS GERAIS contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo em Execução Penal n. 1.0069.17.002048-6/001) que manteve a decisão que extinguiu a punibilidade de EDINALDO REZENDE OLIVEIRA.
+Nas razões do recurso especial, o Parquet suscitou violação dos arts. 1º, 38, 39 e 117, todos da Lei de Execução Penal, 619 do Código de Processo Penal e 1.022 do Código de Processo Civil c/c o art. 3º do Código de Processo Penal (fls. 81/92).
+A Corte de origem inadmitiu o reclamo com fundamento nas Súmulas 283/STF e 83/STJ (fls. 97/99).
+Contra o decisum, a acusação interpôs o presente agravo (fls. 105/114).
+O Ministério Público Federal, na condição de custos legis, manifestou-se pelo provimento do agravo e do recurso especial, a fim de que seja desconsiderado como tempo de pena cumprida, o período durante o qual houve o descumprimento das condições da prisão domiciliar (fls. 129/131).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Quanto ao recurso especial em si, verifico que padece de fundamentação deficiente especificamente no tocante à suposta violação dos arts. 619 do Código de Processo Penal e 1.022 do Código de Processo Civil c/c o art. 3º do Código de Processo Pena, pois o agravante não demonstrou de que forma o acórdão violou os referidos preceitos, circunstância que atrai a incidência da Súmula 284/STF:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO COMPRA E VENDA DE IMÓVEL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NºS 283 E 284/STF. VIOLAÇÃO. VERBETE SUMULAR. IMPOSSIBILIDADE. SÚMULA Nº 518/STJ. REEXAME DE PROVAS. CLÁUSULA. INTERPREÇÃO. SÚMULAS Nº 5 E 7/STJ.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. A Corte Especial deste Superior Tribunal de Justiça já consolidou o entendimento de que para fins do art. 105, III, alínea "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula nº 518/STJ).
+4. Na hipótese, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ. 5.
+Agravo interno não provido.
+(AgInt no AREsp n. 2.409.172/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe 18/9/2024 - grifo nosso).
+De outra parte, no que se refere aos demais dispositivos tidos como vulnerados, observo que o agravante não atacou a integralidade da fundamentação lançada no acórdão recorrido para manter a decisão que declarou a extinção da punibilidade do agravado, sendo o caso, portanto, de incidência da Súmula 283/STF.
+Vejamos o seguinte trecho da decisão do juízo de execução (fl. 24 - grifo nosso):
+ ..
+Muito embora aponte o sistema que o término da pena ocorra em 25 de outubro de 2021, mover a máquina judiciária para revogar uma sentença de extinção de punibilidade, para tentar fazer com que o sentenciado cumpra o restante da reprimenda, pouco mais de um mês, seria afrontar o princípio da ampla defesa, vez que nos autos não foram analisados eventuais benefícios de concessão de indulto ou comutação discriminados em decretos presidenciais.
+Na hipótese, a eventual falta grave em razão de cometimento de novo crime passou sem apuração e nem mesmo o inquérito foi concluído, devendo ser analisado em favor do réu a inércia estatal.
+O não cumprimento das regras do regime aberto também não teve providenciais tomadas a tempo e modo, não podendo agora, há pouco mais de um mês do cumprimento da pena, revogar a sentença que já extinguiu a punibilidade para tentar buscar fazer com que o sentenciado se justifique para uma futura revogação de benefícios, esbarrando na restrição inadequada de liberdade.
+Nem mesmo eventual recurso interposto seria suficiente porque atingiria o lapso temporal, sendo antieconômico e sem necessidade.
+Ante o exposto, desacolho a pretensão ministerial e mantenho a sentença de extinção da punibilidade do sentenciado.
+ ..
+A Corte a quo manteve tal conclusão e indeferiu o pleito ministerial de interrupção da pena com base em múltiplos fundamentos, a saber: 1) ausência de interesse de agir na persecução da infração disciplinar (fl. 47); 2) ausência de interrupção do cumprimento de pena, uma vez que o descumprimento das obrigações pelo reeducando caracteriza apenas infração disciplinar não apurada a tempo e modo oportunos (idem); 3) ausência de respaldo legal para aplicação da pretendida revogação retroativa; e, 4) violação do princípio da proporcionalidade, especialmente quando está embasada em eventual descumprimento das condições constatado posteriormente por falta de fiscalização dos órgãos da execução penal (fl. 47).
+Das razões recursais, entretanto, observo que o agravante não impugnou a integralidade dos fundamentos utilizados para manter a extinção da punibilidade do agravado, na medida em que se restringiu a defender que diante do descumprimento das condições impostas, a revogação da prisão domiciliar é obrigatória, operando-se automaticamente (fl. 90). Com efeito, limitou-se a insistir na tese segundo a qual se o reeducando não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não deve ser computado tal período como pena efetivamente cumprida, devendo ser modificada a decisão primeva que extinguiu a punibilidade do reeducando (fl. 91).
+Logo tenho que deixou de impugnar a integralidade dos fundamentos contidos no acórdão recorrido, atraindo, assim, a incidência da Súmula 283/STF à espécie.
+A propósito: AgRg no AREsp n. 2.417.244/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/11/2023; AgInt no AREsp n. 1.976.621/RJ, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 3/11/2023; e AgRg no AREsp n. 1.929.766/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/2/2022.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. VIOLAÇÃO DOS ARTS. 619 DO CPP E 1.022 DO CPC. INADMISSIBILIDADE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 1º, 38, 39 e 117, TODOS DA LEP. INADMISSIBILIDADE. RAZÕES QUE NÃO LOGRARAM IMPUGNAR A ÍNTEGRA DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
