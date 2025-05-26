@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ADVERTÊNCIA DO ARTIGO 1.026, § 2º, DO CPC/2015.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados, com advertência de que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de segundos embargos de declaração opostos pelo Ministério Público do Estado de São Paulo (MPSP) contra acórdão proferido por esta e. Primeira Turma, assim ementado (e-STJ, fls. 1.258-1.259):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ. 2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+O embargante, em síntese, reitera os termos dos primeiros embargos de declaração no sentido de que haveria omissão no acórdão proferido às fls. 1.173-1.189 a respeito do elemento subjetivo (dolo específico) atribuído ao embargado, de modo a caracterizar a continuidade típico-normativa da conduta ao disposto na novel redação do inciso V do artigo 11 da Lei de Improbidade Administrativa.
+Diante disso, defende a necessidade de realização do juízo de conformação, com remessa dos autos ao Tribunal de origem, porquanto a análise da existência, ou não, do dolo específico demanda o reexame probatório, o que é vedado a esta Corte por força do óbice da Súmula n. 7 do STJ.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ADVERTÊNCIA DO ARTIGO 1.026, § 2º, DO CPC/2015.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados, com advertência de que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado rejeitou os embargos de declaração opostos pelo MPSP, às fls. 1.195-1.210, tendo em vista a inexistência de vícios a ensejar esclarecimento, complemento ou eventual integração do que decidido no acórdão proferido por esta e. Primeira Turma, às fls. 1.173-1.189, no sentido de que, a despeito do enquadramento da conduta da ora embargada, em tese, à hipótese prevista no novel inciso V do art. 11 da LIA, verifica-se não ser possível a aplicação do princípio da continuidade típico-normativa ao caso vertente, porquanto ausente, na espécie, o dolo específico necessário para a configuração da conduta descrita no art. 11, V, da NLIA, consoante orientação jurisprudencial firmada pelo Superior Tribunal de Justiça.
+Para tanto, citou: EDcl no AgInt nos EDcl no AREsp n. 2.078.253/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/11/2024, DJe 26/11/2024; EDcl no AgInt no AREsp n. 2.161.043/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/11/2024, DJe 26/11/2024; AgInt no AREsp n. 2.420.049/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.
+Com efeito, a fundamentação contida no acórdão anterior, embora não aceita pelo ora embargante, é suficiente à solução da controvérsia, razão por que não há contradição ou omissão a ser sanada.
+Deste modo, resta evidente a ausência de argumentação plausível nestes embargos de declaração, os quais visam solicitar o rejulgamento da controvérsia.
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
