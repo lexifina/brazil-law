@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA AFASTADO. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS.INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela inexistência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+3. Recuso especial conhecido em parte e, nessa extensão, improvido.
+RELATÓRIO
+Trata-se de recurso especial interposto por MARIA DE AGUIAR ARAGÃO (MARIA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. JOÃO PAZINE NETO, assim ementado:
+Ação cominatória. Plano de saúde. Reanálise determinada pelo STJ. Contrato anterior à Lei 9.656/98 e não adaptado. Irrelevância. Questão deve ser analisada sob a ótica do Código de Defesa do Consumidor. Inteligência do Tema 123 do C. STF e incidência da Súmula 608 do STJ. Negativa de cobertura ao custeio de prótese necessária ao procedimento cirúrgico. Autora que sofre de insuficiência cardíaca, com indicação cirúrgica e colocação de implante Mitraclip. Consulta realizada ao NatJus, diante da determinação de reanálise. Parecer que foi desfavorável. Julgamento anterior confirmado, para reforma da sentença de procedência e inversão da sucumbência. Mantido o provimento do recurso. (e- STJ, fl. 936)
+Nas razões do presente recurso, MARIA alegou a violação dos arts. 10 e 12 da Lei n. 9.656/98, 39, 47 e 51 do CDC, 1.022 do NCPC e 421 e 422 do CC, ao sustentar que (1) o acórdão estadual não se pronunciou sobre a alegação de que o implante Mitraclip encontra respaldo no Conitec; (2) o tratamento em testilha se encaixa nas hipóteses de exceção da taxatividade do rol da ANS, estabelecidas no julgamento do STJ.
+Foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA AFASTADO. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS.INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela inexistência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+3. Recuso especial conhecido em parte e, nessa extensão, improvido.
+VOTO
+O recurso especial não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+MARIA sustentou que o acórdão estadual não se pronunciou sobre a alegação de que o implante Mitraclip encontra respaldo no Conitec.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre a exclusão da cobertura levando em consideração todo o acervo fático-probatório dos autos, sem a necessidade de mencionar expressamente cada um dos documentos analisados.
+Conclui-se, portanto, que todos os temas importantes ao deslinde da controvérsia foram apreciados pelo Tribunal de Justiça, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Do dever de cobertura
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o Colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa ao concluir pela legalidade da negativa de cobertura do tratamento.
+Por oportuno, transcreve-se:
+Dessa forma, não se tem como efetivamente determinar a cobertura reclamada, pois confirmado, por análise técnica, que o presente caso não se enquadra nas exceções delineadas pela Corte Superior, que obrigariam, a Operadora do plano de saúde, ao custeio de tratamento, independentemente de constar ou não no rol da ANS.
+Os demais argumentos suscitados não são suficientes para infirmar os fundamentos acima enunciados para a solução da lide. (e-STJ, fl. 939)
+Assim, para se desconstituir as premissas firmadas no acórdão recorrido, seria necessário o reexame do acervo fático-probatório dos autos, o que é obstado, em recurso especial, pelo enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade.
+Precedentes. 1.1. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela inexistência de excepcional necessidade de cobertura. Aplicação das Súmulas 7 e 83 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.886.532/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/4/2023, DJe de 2/5/2023)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ROL DE PROCEDIMENTOS DA ANS. RECUSA DE COBERTURA DE MEDICAMENTO. ESCLEROSE MÚLTIPLA. MEDICAMENTO QUE NÃO CONSTAVA DO ROL DA ANS. SITUAÇÃO EXCEPCIONAL APTA A AUTORIZAR O CUSTEIO DO TRATAMENTO. AGRAVO DESPROVIDO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, eis que o tratamento de saúde não era experimental, tendo sido apurado tecnicamente à luz de evidências científicas constantes do Laudo Médico Pericial que o tratamento era imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n. 7 do STJ.
+2. Conforme entendimento desta Quarta Turma, firmado no julgamento do REsp 1.733.013/PR, o rol de procedimentos mínimos da ANS não pode ser visto como meramente exemplificativo, tampouco a cobertura do plano de saúde como ilimitada, não sendo correto afirmar ser abusiva a exclusão do custeio dos meios e dos materiais necessários ao tratamento indicado pelo médico assistente que não estejam no rol da ANS ou no conteúdo contratual.
+3. No presente caso, a necessidade de se custear medicamento não previsto, à época, no rol da ANS encontra-se justificada, devido ao fato de o beneficiário apresentar esclerose múltipla cujo tratamento com o medicamento Ocrelizumabe era adequado à garantia de sua sobrevivência, conforme apontado pelo Laudo Médico Pericial, devendo ser mantida a determinação das instâncias ordinárias de custeio do procedimento pelo plano de saúde.
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.919.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2021, DJe de 1º/7/2021)
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
