@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial, interposto pela BANCO DO BRASIL S/A., com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim resumido (fls. 49/50, e-STJ):
+BANCÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA PROVENIENTE DE AÇÃO DE COBRANÇA AJUIZADA PELO BANCO AGRAVADO CONTRA OS ORA AGRAVANTES. DECISÃO AGRAVADA QUE REJEITOU EXCEÇÃO DE PRÉ- EXECUTIVIDADE.
+1. CONFIGURADA A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA, QUE NO CASO CONCRETO É QUINQUENAL (STF, SÚMULA 150; CC, ART. 206, § 5º, I). TERMO INICIAL QUE OCORRE NA DATA DO TRÂNSITO EM JULGADO QUE, POR SUA VEZ, NÃO NECESSITA DE ATO JUDICIAL OU CERTIFICAÇÃO NOS AUTOS, BASTANDO O TRANSCURSO DO PRAZO RECURSAL PARA SUA CONCRETIZAÇÃO. PRECEDENTES DO STJ E DESTE TRIBUNAL. EM CONCRETO, O TRÂNSITO EM JULGADO DA SENTENÇA DA FASE DE CONHECIMENTO OCORREU EM 23-11-2016, E O BANCO AGRAVADO REQUEREU O CUMPRIMENTO DE SENTENÇA APENAS EM 10-7-2023, QUANDO DECORRIDOS MAIS DE 6 (SEIS) ANOS E 7 (SETE) MESES. DECISÃO REFORMADA PARA DECRETAR A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA, NA FORMA DO ART. 487, INCISO I, DO CPC.
+2. ACOLHIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE QUE ENSEJA A CONDENAÇÃO DO BANCO EXCEPTO AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. EVIDENCIADA A DESÍDIA DA INSTITUIÇÃO FINANCEIRA. PRECEDENTES DESTE TRIBUNAL. VERBA HONORÁRIA QUE DEVE SER FIXADA DENTRE OS PERCENTUAIS DE 10 A 20% PREVISTOS NO § 2º DO ARTIGO 85 DO CPC. PROVEITO ECONÔMICO QUE NÃO SE MOSTRA IRRISÓRIO OU MUITO ELEVADO CAPAZ DE JUSTIFICAR A FIXAÇÃO DA VERBA HONORÁRIA DE FORMA EQUITATIVA PRETENDIDA PELO BANCO AGRAVADO EM CONTRARRAZÕES. DECISÃO REFORMADA.
+RECURSO PROVIDO.
+Opostos embargos de declaração (fls. 71/84, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 103/133, e-STJ), a parte recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 921, § 5º e 85, § 10 do Código de Processo Civil/15. Sustenta, em suma, ser indevida a condenação em honorários sucumbenciais, em razão do princípio da causalidade.
+Contrarrazões às fls. 229/247, e-STJ, e após juízo positivo de admissibilidade (fls. 257/260, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação comporta acolhimento.
+1. Ainda que seja questionável a aplicação do artigo 921, § 5º, do CPC/15, que tratada prescrição intercorrente, ao presente caso, em que se reconheceu a prescrição para execução, o recurso comporta acolhimento.
+Isso porque, antes mesmo da edição da Lei nº 14.195/21 (que modificou o referido dispositivo legal, passando a prever que extinção da execução deve ocorrer sem ônus às partes, quando reconhecida a prescrição intercorrente), esta Corte Superior já considerava injustificada a imposição de sucumbência à parte exequente que teve frustrada a pretensão de satisfação de seu crédito em razão de prescrição.
+De fato, em grande parte das hipóteses em que aplicado o referido entendimento tratava-se do reconhecimento de prescrição intercorrente.
+Neste sentido, inclusive, os precedentes da Corte Especial deste STJ: AgInt nos EAREsp n. 1.795.253/SC, relator Ministro Og Fernandes, Corte Especial, julgado em 25/4/2023, DJe de 2/5/2023; AgInt nos EAREsp n.1.667.204/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 8/2/2022, DJe de 16/2/2022.
+Todavia, o mesmo raciocínio foi aplicado em hipóteses nas quais a extinção da execução decorreu do reconhecimento da prescrição por não ter sido operada a citação do executado, por inércia ou desídia da parte credora - exatamente como na presente hipótese.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação monitória.
+2. Em caso de extinção da execução, a imposição de obrigação de pagamento de honorários advocatícios deve levar em conta tanto a regra geral da sucumbência quanto o princípio da causalidade. Não se justifica a imposição de sucumbência à parte exequente, que teve frustrada a pretensão de satisfação de seu crédito, em razão de prescrição. A parte devedora, ao deixar de cumprir a obrigação (pagar a dívida), deu causa ao ajuizamento da execução. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, a parte devedora, que deixou de satisfazer a obrigação -, não tendo relação com o motivo que ensejou a decretação da prescrição (inércia/desídia da parte credora). Precedentes.
+3. Agravo interno no agravo em recuso especial não provido.
+(AgInt nos EDcl no AgInt no AREsp n. 2.496.197/PB, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. RECONHECIMENTO. APRESENTAÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONDENAÇÃO DO CREDOR EM HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. SÚMULA N. 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A extinção da execução pelo reconhecimento da prescrição intercorrente (ou da prescrição da pretensão executiva ) não enseja a fixação de verba honorária em favor do executado.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.671.323/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Em caso de extinção da execução, a imposição de obrigação de pagamento de honorários advocatícios deve levar em conta tanto a regra geral da sucumbência quanto o princípio da causalidade. Não se justifica a imposição de sucumbência à parte exequente, que teve frustrada a pretensão de satisfação de seu crédito, em razão de prescrição. A parte devedora, ao deixar de cumprir a obrigação (pagar a dívida), deu causa ao ajuizamento da execução.
+2. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, a parte devedora, que deixou de satisfazer a obrigação -, não tendo relação com o motivo que ensejou a decretação da prescrição (inércia/desídia da parte credora).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.959.952/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022.)
+No caso, o Tribunal de origem, ao analisar a controvérsia, assim decidiu (fls. 59 /63, e-STJ):
+28. Desse modo, inegável a configuração da prescrição da pretensão executória de Banco do Brasil S. A., no presente cumprimento de sentença, o que enseja a reforma da decisão agravada para extinguir parcialmente o feito - apenas em relação ao crédito pretendido pelo Banco - com resolução do mérito, com fulcro no artigo 487, inciso II, do Código de Processo Civil. 29.
+Em terceiro lugar, o acolhimento da exceção de pré-terceiro lugar executividade para reconhecer a extinção, ainda que parcial, da execução enseja a fixação de honorários advocatícios em favor da parte excipiente-executada entre os percentuais de 10 a 20% sobre o proveito econômico ou sobre o valor da causa, conforme já decidiu o Superior Tribunal de Justiça:
+(..)
+30. Assim, diante do acolhimento da exceção de pré-executividade para extinguir o cumprimento de sentença apresentado pelo Banco, deve a instituição financeira excepta se responsabilizar pelo pagamento dos honorários advocatícios a serem fixados em favor dos procuradores constituídos pelos excipientes.
+31. A condenação do Banco excepto ao pagamento das verbas sucumbenciais fundamenta-se no princípio da sucumbência e por ter dado causa à instauração indevida do cumprimento de sentença, quando já havia sido configurada a prescrição da pretensão executória. Assim, a prescrição decorreu de desídia do Banco exequente e não de comportamento atribuível à parte executada.
+32. Assim, o caso em exame não se trata de hipótese prescrição intercorrente fundamentada na ausência de localização do devedor ou de bens penhoráveis, elencada no inciso III do art. 921 do CPC (dispositivo legal que rege a prescrição intercorrente). Logo, não se aplica ao caso concreto a nova redação do § 5º do art. 921 do CPC, que impõe a extinção do processo sem ônus para as partes quando a prescrição se configura no curso do processo pela falta de localização do devedor ou de bens penhoráveis.
+(..)
+34. Assim, diante do acolhimento da exceção de pré-executividade apresentada pelos executados, condena-se o Banco do Brasil excepto, ora agravado, ao pagamento dos honorários advocatícios devidos aos procuradores constituídos pelos excipientes, ora agravantes.
+Como se vê, o acórdão recorrido destoa da jurisprudência desta Corte Superior, segundo a qual, a extinção da execução pelo reconhecimento da prescrição intercorrente (ou da prescrição da pretensão executiva ) não enseja a fixação de verba honorária em favor do executado.
+Assim, estando em desconformidade com a jurisprudência desta Corte Superior, o acórdão recorrido merece reforma.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou provimento ao recurso especial para reformar o acórdão recorrido e afastar os honorários advocatícios , à luz da fundamentação supracitada.
+Publique-se.
+Intimem-se.
+EMENTA
