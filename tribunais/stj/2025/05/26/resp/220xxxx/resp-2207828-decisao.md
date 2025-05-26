@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se recurso especial interposto por LEANDRO ESTEVO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 19/11/2024.
+Concluso ao gabinete em: 23/04/2025.
+Ação: revisão contratual com pedido de tutela antecipada, ajuizada por LEANDRO ESTEVO em face de KOBRASOL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (e-STJ fls. 3-28).
+Sentença: julgou parcialmente procedentes os pedidos das ações revisionais nº 0807122-39.2013.8.24.0064 e nº 0300085-81.2014.8.24.0064, declarando a impossibilidade de capitalização de juros e vedando a Tabela Price, além de descaracterizar a mora do devedor e declarar nula a cláusula de honorários advocatícios extrajudiciais. Condenou o requerido ao pagamento de custas processuais e honorários advocatícios (e-STJ fls. 482-493).
+Acórdão: negou provimento ao agravo retido e ao apelo da parte ré, KOBRASOL EMPREENDIMENTOS IMOBILIÁRIOS LTDA., e deu provimento parcial ao recurso do autor, LEANDRO ESTEVO, condenando a ré ao pagamento de honorários advocatícios correspondentes a 10% sobre o valor da causa na ação nº 0807716-53.2013.8.24.0064, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÕES REVISIONAIS, CONSIGNATÓRIAS E RESCISÓRIA CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA DAS REVISIONAIS E CONSIGNATÓRIAS E DE IMPROCEDÊNCIA DA RESCISÓRIA. RECURSOS DE AMBAS AS PARTES. AGRAVO RETIDO. ALEGADA INOBSERVÂNCIA AO ARTIGO 285-B, CAPUT E PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL DE 1973. MONTANTES CONSIGNADOS EM AÇÕES ESPECÍFICAS. OBRIGAÇÕES CONTROVERTIDAS SUFICIENTEMENTE APONTADAS. AUSÊNCIA DE PREJUÍZO AO CONTRADITÓRIO. INÉPCIA DA INICIAL INOCORRIDA. CONTRATOS DE COMPRA E VENDA DE SALAS COMERCIAIS. APLICAÇÃO DA "TABELA PRICE". VEDAÇÃO. INADEQUAÇÃO DE CAPITALIZAÇÃO DE JUROS EM PACTO IMOBILIÁRIO FIRMADO DIRETAMENTE COM CONSTRUTORA. APLICAÇÃO DA SÚMULA 121 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA DE FORMA SIMPLES. HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. IMPOSIÇÃO DE OBRIGAÇÃO UNILATERAL AO CONSUMIDOR ADERENTE. DESIGUALDADE ENTRE AS PARTES. ARTIGO 51, XII DO CÓDIGO DE DEFESA DO CONSUMIDOR. COBRANÇA DE HONORÁRIOS AFASTADA. MORA DO ADQUIRENTE. AÇÕES CONSIGNATÓRIAS AJUIZADAS NA SEQUÊNCIA. DEPÓSITOS DOS VALORES INCONTROVERSOS REALIZADOS NA INTEGRALIDADE. INSURGÊNCIA QUANTO A OUTRAS OBRIGAÇÕES CONTRATUAIS (PAGAMENTO DE IPTU E CONDOMÍNIO). VALORES ADIMPLIDOS NO CURSO DA DISCUSSÃO JURÍDICA. PREJUÍZOS NÃO APONTADOS. DESCARACTERIZAÇÃO DA MORA, OBSERVADOS PRECEDENTES, RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. PROVEITO ECONÔMICO INCERTO E AUSÊNCIA DE CONDENAÇÃO, STRITO SENSU, NAS AÇÕES REVISIONAIS E NAS CONSIGNATÓRIAS. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO POR EQUIDADE, NO CASO CONCRETO, CABÍVEL. AÇÃO REVISIONAL CUJO PEDIDO FOI REJEITADO. VERBA HONORÁRIA QUE, AUSENTE PROVEITO ECONÔMICO OU CONDENAÇÃO, DEVE INCIDIR SOBRE O VALOR DA CAUSA. ALTERAÇÃO DA SENTENÇA NO PONTO. RECURSOS CONHECIDOS. AGRAVO RETIDO E APELO DA PARTE RÉ DESPROVIDOS. APELAÇÃO AUTORAL PARCIALMENTE PROVIDA. (e-STJ fls. 704-715).
+Recurso Especial: alega violação ao art. 85, § 2º do CPC.
+Sustenta que, em ações revisionais, os honorários advocatícios sucumbenciais devem ser calculados com base no benefício econômico obtido com a procedência dos pedidos, ou sobre o valor da causa, conforme precedentes do Superior Tribunal de Justiça.
+Argumenta que a fixação dos honorários por equidade não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados, devendo ser observados os percentuais previstos no CPC.
+Requer o provimento do recurso para reformar o acórdão recorrido, aplicando os honorários advocatícios sobre o benefício econômico ou o valor da causa (e-STJ fls. 786-800).
+Decisão de admissibilidade: TJSC admitiu o recurso especial (e-STJ fls. 1087-1088).
+RELATADO O PROCESSO, DECIDE-SE.
+Da fundamentação deficiente - Súmula 284/STF
+Observa-se, da análise das razões recursais, que o recorrente não demonstra como o acórdão recorrido violou o art. 85, § 2º do CPC, visto que o acórdão condenou o recorrido ao pagamento de honorários advocatícios correspondentes a 10% sobre o valor da causa, o que importa na inviabilidade do recurso especial ante a incidência, por analogia, da Súmula 284/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno a parte que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL COM PEDIDO DE TUTELA ANTECIPADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Ação de revisão contratual com pedido de tutela antecipada.
+2. A deficiência de fundamentação importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284/STF.
+3. Recurso especial não conhecido.
