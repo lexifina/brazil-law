@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, não conhecer dos embargos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. INDICAÇÃO. AUSÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APLICABILIDADE.
+1. "A não indicação dos vícios elencados no art. 1.022 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão do recurso" (EDcl nos EDcl no AgInt nos EDcl nos EAREsp 2.448.956/PE, relator Ministro Sebastião Reis Júnior, Corte Especial, DJEN de 1º/4/2025).
+2. De igual modo, de acordo com a jurisprudência desta Corte, "os embargos de declaração não se destinam ao prequestionamento explícito ou à revisão do julgado sob outros fundamentos" (AgRg no REsp 1.235.316/RS, relator Ministro Hamilton Carvalhido, Primeira Turma, DJe de 12/5/2011).
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Josey Figueiredo da Costa contra acórdão proferido pela Primeira Turma, assim ementado (fl. 1.758):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+Sustenta a parte embargante que (fls. 1.775/1.776):
+ ..  não houve pronunciamento quanto a totalidade das matérias aduzidas nas razões de recurso e submetidas à apreciação por parte da C. Corte Superior de Justiça. Por sua vez, o direito a Fundamentação explicita no recurso de agravo, igualmente encontra-se previsto em Lei.
+É de bom alvitre ressaltar, que se faz mister o pronunciamento explícito da C. Corte Superior, quanto a contrariedade aos comandos Legais que asseguram, dentre outros, o Direito Fundamental do Acesso à Justiça; Legalidade e Devido Processo Legal; Fundamentação das Decisões Judiciais; Contraditório e Ampla Defesa. Irretroatividade da lei; Direito Adquirido; cumprimento dos Princípios Constitucionais atinentes a Administração Pública; Estabilidade Financeira e Equilíbrio financeiro do Servidor Público.
+Igualmente, é direito do cidadão, como corolário do Acesso à Justiça e Fundamentação das Decisões Judiciais, assegurados na Carta Maior, o pronunciamento da C. Corte no que tange ao prequestionamento específico, quanto aos comandos Constitucionais e de Lei federal suscitadas no recurso ofertado; Bem como não sendo apreciada todas as matérias aduzidas nas razões de recurso, o que, permissa vênia e respeito, fere o comando do artigo 93, IX da Carta Maior da República.
+Logo, consta-se à presença dos elementos autorizadores a interposição dos presentes embargos.
+Defende, outrossim, a necessidade de acolhimento dos aclaratórios para fins de prequestionamento. Em suas próprias palavras (fls. 1.777/1.778):
+Ainda, verifica-se que se faz mister que a C. Corte se pronuncie, em PREQUESTIONAMENTO, quanto a contrariedade de dispositivos da Constituição Federal, in casu, as Garantias Constitucionais: Do Acesso à Justiça; Legalidade; Devido Processo Legal; Proporcionalidade e Razoabilidade; Contraditório e Ampla Defesa, Irretroatividade da lei; Direito Adquirido; violação aos princípios atinentes a Administração Pública; Estabilidade financeira e equilíbrio financeiro do Servidor Publico. Dispositivos Constitucionais: Artigos: 1º, III e IV; 5º,II, XXXV, XXXVI, XL, LIV, LIV 37 caput e § 6º, 40 caput e §§ 3º e 17, 93, IX, 201 todos da Constituição Federal. Comandos de Lei Federal: Artigos 4º. 8º. 141, 341, 374, III, 1.013 § 3º. III; 1.021 caput e § 3º; 1.022, I, II, III; 1025, do Código de Processo Civil; 319 e 884 do Código Civil; art. 4º. , 5º. 6º. Parágrafo 2º. da LINDB. Artigo 266 parágrafo 4º. do Regimento Interno do Superior Tribunal de Justiça. O que viabilizaria o manejo de eventual recurso quer para essa C. Corte e/ou Recurso Extraordinário, para o C. Supremo Tribunal Federal. Tal qual entendimento já pacificado a teor do disposto nos Verbetes das Súmulas 356 do Supremo Tribunal Federal e 211 do Superior Tribunal de Justiça.
+Requer, assim, o acolhimento dos embargos de declaração.
+Sem impugnação (fls. 1.785/1.786).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. INDICAÇÃO. AUSÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APLICABILIDADE.
+1. "A não indicação dos vícios elencados no art. 1.022 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão do recurso" (EDcl nos EDcl no AgInt nos EDcl nos EAREsp 2.448.956/PE, relator Ministro Sebastião Reis Júnior, Corte Especial, DJEN de 1º/4/2025).
+2. De igual modo, de acordo com a jurisprudência desta Corte, "os embargos de declaração não se destinam ao prequestionamento explícito ou à revisão do julgado sob outros fundamentos" (AgRg no REsp 1.235.316/RS, relator Ministro Hamilton Carvalhido, Primeira Turma, DJe de 12/5/2011).
+3. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Sucede que, na espécie, a parte embargante deixou de indicar, de forma clara, precisa e congruente, quais seriam os vícios de omissão, contradição, obscuridade ou erro material efetivamente presentes no aresto embargado, situação que caracteriza deficiência de fundamentação recursal, nos termos da Súmula 284/STF.
+Nesse sentido, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO INEXISTÊNCIA DE VÍCIOS PRECONIZADOS NO ART. 1.022 DO CPC. IMPOSSIBILIDADE. REITERAÇÃO PROTELATÓRIA. BAIXA IMEDIATA.
+1. Os embargos de declaração são cabíveis quando houver obscuridade, contradição, omissão ou erro material na sentença ou no acórdão, conforme dispõe o art. 1.022 do CPC.
+2. A não indicação dos vícios elencados no art. 1.022 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão do recurso.
+3. Opostos os segundos embargos de declaração, sem apontar vício no julgado, evidencia-se o intuito protelatório.
+4. A jurisprudência deste Superior Tribunal de Justiça pacificou-se no sentido de que, diante da reiterada oposição de recursos meramente protelatórios pela parte, deve ser determinada a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado.
+5. Embargos de declaração não conhecidos, com majoração de multa já aplicada e determinação de baixa dos autos à origem, independentemente da publicação deste acórdão, com certificação do trânsito em julgado.
+(EDcl nos EDcl no AgInt nos EDcl nos EAREsp 2.448.956/PE, relator Ministro Sebastião Reis Júnior, Corte Especial, DJEN de 1/4/2025, grifo nosso.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SUCESSIVOS. MANIFESTAMENTE PROTELATÓRIOS. MULTA. NÃO CONHECIMENTO DOS EMBARGOS.
+I - O embargante não aponta vícios sanáveis em embargos de declaração. Inconformado com o resultado contrário aos seus interesses, utiliza-se dessa via estreita para impugnar as decisões anteriores. Sucessivos embargos declaratórios podem ser conhecidos tão somente quanto à alegação de vícios existentes no acórdão que julgou os primeiros embargos, uma vez que, nos termos da jurisprudência desta Corte, pelo princípio da unirrecorribilidade e em razão da preclusão consumativa, são incabíveis terceiros embargos pretendendo rediscutir vícios do acórdão já embargado anteriormente. EDcl nos EDcl no AgInt no AREsp n. 1.128.141/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2023, DJe de 18/12/2023.
+II - Considerando que os embargos são manifestamente protelatórios, condeno a parte embargante a pagar ao embargado multa de 2% sobre o valor atualizado da causa. (art. 1.026, § 2º, do CPC/2015).
+III - Embargos de declaração não conhecidos.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1.677.713/RS, relator Ministro Francisco Falcão, Corte Especial, DJEN de 31/3/2025, grifo nosso.)
+Por fim, ainda de acordo com a jurisprudência desta Corte, "os embargos de declaração não se destinam ao prequestionamento explícito ou à revisão do julgado sob outros fundamentos" (AgRg no REsp 1.235.316/RS, relator Ministro Hamilton Carvalhido, Primeira Turma, DJe de 12/5/2011).
+ANTE O EXPOSTO, não conheço dos embargos de declaração.
+É como voto.
