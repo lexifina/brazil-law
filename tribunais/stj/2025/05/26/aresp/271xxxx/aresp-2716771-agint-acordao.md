@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AUTORA.
+1. A modificação do entendimento do Tribunal de origem demandaria a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por C. M. CIRURGICA INDUSTRIA E COMERCIO LTDA, contra decisão monocrática, de lavra deste signatário, acostada às fls. 1188/1191, e-STJ, que conheceu do agravo para não conhecer do recurso especial.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 1036, e-STJ):
+Apelações cíveis. Segundo julgamento por força da ação rescisória julgada parcialmente procedente pela Seção de Direito Privado (antiga Seção Cível). Ação de cobrança. Contrato de representação comercial. Rescisão. Parte autora que pretende devolução pela ré de quantias recebidas a título de adiantamento de comissões. Parte ré que opõe reconvenção, requerendo pagamento de indenização por danos morais e indenização pela rescisão contratual. Sentença de improcedência dos pedidos. Recurso de ambas as partes. Recurso da parte autora. Alegação de irregularidade da representação processual da apelante. Questão superada pelo julgamento da Ação Rescisória nº 0073986-50.2021.8.19.0000. Alegação autoral de que a ré não teria realizado nenhuma venda durante dois anos de vigência contratual. E-mails acostados pela própria autora que demonstram intensa atividade negocial da mesma, com realização de algumas vendas, bem como negócios não realizados por desídia da autora. Parte autora que não comprovou o fato constitutivo de seu direito, nos termos do art. 373 I CPC. Contrato de representação comercial que, na forma da Lei 4886/65 não demanda que o representante comercial faça vendas, mas que prospecte o mercado e faça intermediação entre clientes potenciais. Recurso da parte ré. Danos morais à pessoa jurídica que se verificam somente em caso de ofensa à honra objetiva ou ao bom nome comercial. Parte ré que não demonstrou ocorrência de abalo comercial que justificasse indenização por danos morais. Indenização por rescisão contratual alegadamente imotivada. Art. 27, "j" da Lei 4.886/65. Cláusulas contratuais que permitem rescisão contratual mediante prévio aviso, feito pela ré. Rescisão fundamentada em descumprimento de obrigações do contrato de representação comercial. Art. 35, "c" da Lei 4.886/65. Descabimento de indenização. Sanções não previstas no contrato entre as partes. Desprovimento de ambos os recursos. Honorários majorados, na forma do art. 85, § 11 CPC.
+Em suas razões de recurso especial (fls. 1055/1062, e-STJ), a recorrente aponta ofensa aos artigos 302 e 334, IV, do CPC/1973; 884 do CC/2002; e 32 da Lei 4.886/1965.
+Sustenta, em síntese, que diante da inexistência de vendas realizadas ou mediadas pela recorrida, esta não tem direito ao recebimento de comissão e deve devolver as quantias recebidas.
+Contrarrazões (fls. 1085/1096, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou o processamento do recurso especial, sob o fundamento de que aplicáveis ao caso as Súmulas 5 e 7/STJ.
+Daí o agravo (art. 1042 do CPC/2015).
+Contraminuta às fls. 1164/1174 (e-STJ).
+Por decisão monocrática (fls. 1188/1191, e-STJ), foi desprovido o reclamo, sob o fundamento de incidência das Súmulas 5 e 7 do STJ, mantendo-se, por consequência, a higidez do acórdão estadual recorrido.
+Na presente oportunidade, a agravante, em suas razões de fls. 1194/1199, e-STJ, insiste no argumento de mérito do apelo nobre, e pretende ver afastada a incidência dos óbices aplicados na decisão ora agravada.
+Impugnação às fls. 1205/1220, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AUTORA.
+1. A modificação do entendimento do Tribunal de origem demandaria a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida.
+1. Na espécie, a Corte de origem concluiu ser indevida a devolução de comissões recebidas, consignando a ausência de demonstração de que não houve vendas durante a vigência do contrato, bem como que alguns negócios não efetivados deixaram de ser concretizados por desídia da própria autora-apelante, ora agravante.
+Convém colacionar os seguintes trechos do acórdão recorrido (fls. 1041/1046, e-STJ):
+C. M. Cirúrgica Indústria e Comércio Ltda., autora da presente ação, celebrou contrato de representação comercial com Top Life Promoção e Marketing ME, ora ré, para mediação de vendas de produtos médico-hospitalares.
+Alega a autora que adiantou à ré a quantia de R$ 50.000,00 em 10 parcelas, como antecipação das comissões devidas pelas vendas que deveriam ser realizadas por esta. Entretanto, a Top Life não teria realizado nenhuma venda em cerca de um ano, o que motivou a C. M. a rescindir o contrato, e ajuizar a presente ação de enriquecimento sem causa, com o fim de obter o ressarcimento da quantia antecipada.
+A empresa ré, por sua vez, ajuizou reconvenção, requerendo pagamento de indenização por danos morais e danos materiais pela rescisão imotivada do contrato, alegando que atuou com diligência na mediação das vendas, o que teria sido o único objeto do contrato, atuando a ré como intermediária, e que os negócios não se concretizaram por desídia da própria autora.
+A sentença julgou improcedentes todos os pedidos, principal e reconvencional, tendo ambas as partes, interposto apelações.
+A relação entre as partes é de representação comercial, submetida às disposições da Lei 4.886/651, bem como ao contrato celebrado entre as partes (fls. 16/20).
+(..)
+Inicialmente, a questão levantada pela apelante ré acerca da regularidade processual da apelante autora, já foi superada pelo julgamento da Ação Rescisória nº 0073986-50.2021.8.19.0000, não podendo o recurso portanto deixar de ser recebido.
+No mérito, a controvérsia recursal refere-se à realização ou não de vendas por parte da ré e, em caso negativo, se cabível devolução à autora das comissões de vendas por ela antecipadas.
+O acordo particular, juntado à fl. 21, previu o adiantamento de três meses de comissão pagos pela autora à ré, no valor de R$ 5.000,00 mensais, devendo os valores serem descontados das vendas realizadas.
+Entretanto, a parte autora não comprovou o fato de que a ré não teria realizado nenhuma venda durante os 2 anos de vigência de contrato, sendo que os e-mails juntados às fls. 86/132, 160/195 e 197/225 demonstram intensa atividade negocial efetivada pela ré junto a diversos clientes da autora, visando a realização de compras dos materiais hospitalares por ela comercializados.
+Refira-se, a título de exemplo, o conteúdo dos e-mails de fls. 192 e 194, que demonstram a efetiva realização de vendas mediadas pela ré:
+(..)
+Ressalte-se que não se afigura verossímil a narrativa autoral no sentido de que a ré não teria possibilitado nenhuma venda durante dois anos e, ainda assim, a autora continuasse adiantando comissões de vendas pelo período de 10 meses, sendo certo que o ajuste inicial fora de 3 meses de adiantamento.
+Por fim, há indícios de que algumas vendas, de fato, não teriam sido realizadas por desídia da própria autora, conforme afirmado pela ré. Neste sentido, veja-se o conteúdo dos e-mails de fls. 204 e 223:
+(..)
+Desta forma, a parte autora não se desincumbiu de seu ônus probatório, na forma do art. 373 I CPC, ao não demonstrar a efetiva ausência total de vendas realizadas pela ré, não sendo devidas portanto as comissões adiantadas pela autora.
+Ademais reina controvérsia sobre o papel do representante comercial, este que não é vendedor empregado da empresa que o contrata, sendo na verdade responsável por prospectar o mercado, propor aproximações entre as empresas e coadjuvar na realização de negócios.
+Desse modo, inevitavelmente, para rever tais conclusões, seria imprescindível a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+Logo, verifica-se, no caso, que a decisão singular deve ser mantida com amparo nos fundamentos e nos precedentes acima alinhavados.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
