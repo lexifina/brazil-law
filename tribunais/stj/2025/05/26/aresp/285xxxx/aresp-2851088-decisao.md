@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ERBE INCORPORADORA 037 S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 18/08/2023.
+Concluso ao gabinete em: 26/02/2025.
+Ação: de indenização por danos materiais e compensação por danos morais proposta por LORRAINY FERREIRA ALVES contra ERBE INCORPORADORA 037 S.A.
+Sentença: julgou extinta a ação. (e-STJ Fls. 597)
+Acórdão: deu provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+"APELAÇÃO. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PROGRAMA MINHA CASA MINHA VIDA. VÍCIOS DE CONSTRUÇÃO. INTERESSE DE AGIR COMPROVADO. PRÉVIO REQUERIMENTO ADMINISTRATIVO. RECURSO PROVIDO. Caracteriza-se o interesse de agir, figurado no art. 3º, CPC, por uma necessidade de recorrer ao Judiciário, para a obtenção do resultado pretendido, independentemente da legitimidade ou legalidade da pretensão, numa relação de necessidade e adequação, por ser primordial a provocação da tutela jurisdicional apta a produzir a correção da lesão arguida na inicial. In casu, busca a parte autora o ressarcimento de valores a que entende fazer jus, em razão da constatação de vícios construtivos em imóvel do Programa Minha Casa Minha Vida, conforme a prefacial. Em se tratando o contrato de mútuo habitacional, de documento comum, de modo que se a autora, parte vulnerável no processo, alegar a dificuldade na sua obtenção, se mostra possível a determinação para que a ré promova a sua juntada. Assim, o documento requerido pelo Juiz a quo não é necessário para a propositura da presente ação, uma vez que o mesmo poderá ser juntado pela CEF por ocasião da contestação. Em razão da garantia da inafastabilidade da jurisdição, prevista no artigo 5º, XXXV, da Constituição Federal, o acesso ao Judiciário para pleitear a indenização por danos decorrentes de vícios de construção não pode ser obstado somente porque a parte autora não buscou a priori obter, na esfera administrativa, tal ressarcimento. O requerimento administrativo, embora necessário, pode ser suprido por qualquer comunicação sobre os vícios construtivos, ou seja, prescinde de rigor formal, bem como pela eventual oposição da parte contrária do pedido indenizatório. Precedentes do C. STJ. Apelação provida. Sentença anulada." (e-STJ Fls. 748)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados. (e-STJ Fls. 820)
+Recurso especial: alega violação dos arts. 17, 319, IV, 1.022, II e §único, II, 489, §1º, IV, todos do CPC. Além do pedido de reconhecimento de negativa de prestação jurisdicional, a parte agravante sustenta em seu recurso especial que houve inépcia da petição inicial por falta de especificação dos pedidos e ausência de interesse de agir devido à falta de tentativa de resolução administrativa. (e-STJ Fls. 832-846)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de o documento requerido pelo Juiz a quo não é necessário para a propositura da presente ação (e-STJ Fl. 752); e que verifica-se que a parte agravada promoveu a notificação extrajudicial das apeladas (e-STJ Fl. 755)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere aos documentos colacionados comprovam que a parte agravada celebrou contrato de financiamento de imóvel integrante do Programa Minha Casa Minha Vida, além de ter demonstrado que comunicou à CEF a existência de vícios de construção (e-STJ Fl. 756), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
