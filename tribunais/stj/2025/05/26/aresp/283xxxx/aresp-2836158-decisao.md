@@ -1,0 +1,63 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MÁRCIA KARTSCH, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/11/2024.
+Concluso ao gabinete em: 19/02/2025.
+Ação: de repactuação de dívidas, ajuizada pela agravante, em face de COOPERFORTE- COOPERATIVA DE ECONOMIA E CRÉDITO MUTUO DOS FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PUBLICAS FEDERAIS LTDA.
+Decisão interlocutória: deferiu parcialmente o pedido de tutela de urgência formulado pela agravante, para determinar a limitação dos descontos relativos a todos os empréstimos consignados a desconto em folha de pagamento e débito em automático na conta da agravante de valores até 35% dos seus proventos (abatidos os valores da previdência e do IRPF), dividindo-se o percentual entre todas as demandadas até elaboração do plano de pagamento ao final do processo. Quanto às dívidas atinentes ao cartão de crédito, se existente, determinou o respeito ao limite legal de 5% de consignação sobre a renda líquida.
+Determinou ainda que a agravada se abstivesse de incluir a agravante nos cadastros restritivos de crédito ou emitir títulos para fins de protesto, enquanto pendente a lide, sob pena de multa diária.
+Acórdão (e-STJ, fls. 69/75): deu provimento ao agravo de instrumento interposto pela agravada, para afastar a determinação de limitação dos descontos efetuados na conta- corrente da agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REPACTUAÇÃO DE DÍVIDA. DECISÃO QUE DEFERIU PARCIALMENTE O PEDIDO DE TUTELA DE URGÊNCIA FORMULADO PELA PARTE AUTORA (ORA AGRAVADA).
+PRELIMINAR DE PRECLUSÃO ARGUIDA EM SEDE DE CONTRARRAZÕES. REJEIÇÃO. DECISÃO AGRAVADA QUE RETIFICOU O PROVIMENTO ANTERIORMENTE DEFERIDO. MÉRITO. DESCONTOS EM CONTA CORRENTE. LIMITAÇÃO AO PERCENTUAL DE 30%. INVIABILIDADE. INEXISTE ILEGALIDADE NO DESCONTO DE VALORES EM CONTA-CORRENTE QUE POSSUA LIVRE MOVIMENTAÇÃO, AINDA QUE TENHA, TAMBÉM, A FUNÇÃO DE RECEBIMENTO DE SALÁRIO. PRECEDENTES DESTA CORTE E DO SUPERIOR TRIBUNAL DE JUSTIÇA. HIPÓTESE DOS AUTOS EM QUE NÃO ESTÃO EVIDENCIADOS OS REQUISITOS DO ART. 300 DO CÓDIGO DE PROCESSO CIVIL. DECISÃO AGRAVADA REFORMADA NO PONTO.
+PRELIMINAR REJEITADA E RECURSO PROVIDO. UNÂNIME.
+Embargos de declaração (e-STJ, fls. 139/141): opostos pela agravante, foram rejeitados.
+O Tribunal de origem consignou o seguinte:
+Ademais, da simples leitura do acórdão ora embargado, verifica-se que a decisão não foi omissa ou contraditória, restando devidamente fundamentada acerca de todas as questões trazidas para apreciação, especialmente quanto ao reconhecimento do não preenchimento dos requisitos necessários para o acolhimento da preliminar e da ausência de fundamentos para a limitação dos descontos em conta-corrente no caso concreto, como se vê do excerto do julgado a seguir transcrito:
+(..)
+Noutro giro, não observo a propalada omissão quanto à ausência de "aprofundamento" da questão relativa ao reconhecimento, na decisão agravada, da inaplicabilidade do Tema nº 1.085, na medida em que não está, o juiz, obrigado a dar enfrentamento a todos os argumentos e alegações das partes, sobremaneira quando já tenha encontrado motivo suficiente para proferir a decisão, estando o seu dever limitado ao enfrentamento tão- somente das questões capazes de infirmar os fundamentos adotados no provimento jurisdicional. O fundamento do acórdão, no sentido de que deve haver a diferenciação do desconto feito em folha de pagamento, para o qual se tem admitido a limitação em 30% da remuneração bruta do devedor, daquele feito diretamente na conta, para o qual não há previsão legal de limitação, não seria infirmado pela tese de inaplicabilidade do Tema nº 1.085.
+Não há, outrossim, a propalada obscuridade na análise da preliminar veiculada em contrarrazões, onde, de forma clara, tratou-se apenas de afastar a tese de preclusão, pelos seguintes fundamentos:
+(..)
+Não houve, no aspecto, qualquer manifestação favorável ou desfavorável à tese de incidência do Tema 1.085, estando, o acórdão, limitado à matéria devolvida na preliminar.
+De qualquer modo, cumpre referir que, de fato, o Augusto STJ assentou, na Tese 1,085 firmada, que "são lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+Hipótese, pois, que se amolda ao caso dos autos, já que, como claramente referido no acórdão ora embargado, os descontos incidem na conta-corrente da parte agravada, ora embargante, e, não, sobre folha de pagamento (descontos compulsórios), sem aptidão, portanto, de malferir o princípio da dignidade da pessoa ou gerar prejuízo à preservação do mínimo existencial, não sendo, pois, o caso de aplicação, por analogia, da limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003.
+Desse modo, o acórdão não é omisso, ao revés, pois que amplamente apresentou os fundamentos para afastar a limitação imposta na decisão agravada.
+Recurso especial (e-STJ, fls. 159/182): alega violação dos arts. 223, 489, §1º, IV, V e VI, 996, 1.015 e 1.022, I, II, e parágrafo único, I e II, do CPC e do art. 93, IX, da CF/88, bem como dissídio jurisprudencial.
+Afirma que o Tribunal de origem foi omisso com relação à falta de interesse e à preclusão da matéria relativa à tutela de urgência deferida, bem como com relação à não incidência do Tema 1.085 do STJ.
+Sustenta que a matéria relativa à tutela de urgência deferida estaria preclusa e que a agravada não teria interesse recursal diante da retificação no percentual de descontos que somente lhe favoreceu.
+É O RELATÓRIO. DECIDO.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos argumentos relativos à preclusão da matéria relativa à tutela de urgência deferida, consignando que houve retificação da decisão anterior, inclusive com acréscimos de novas determinações, bem como acerca dos argumentos relacionados ao Tema 1.085/STJ (e-STJ fl. 73 e 140/141), de maneira que os embargos de declaração opostos pelo agravante/recorrente de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram como o acórdão recorrido violou o art. 1.015 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 996 e 1.015, do CPC, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que não haveria preclusão, de que houve retificação da decisão anterior, com acréscimos de novas determinações, bem como de que deveria ser afastada a limitação dos descontos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Não cabimento de recurso especial contra decisão que concede ou indefere tutela antecipada (Súmula 735/STF)
+Ademais, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que concede ou indefere tutela antecipada, seu objeto deve focar nas condições legais de sua concessão. Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que antecipou os efeitos da tutela, que podem ser alterados no momento em que for prolatada a sentença, desaconselha-se o conhecimento e julgamento de recursos especiais que versem sobre o tema, exceto quando tratarem dos requisitos legais de concessão da tutela antecipada e não exigirem o reexame de matéria fática e probatória.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que indefere a antecipação de tutela, a questão de fundo do direito sobre o qual versa a controvérsia.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPACTUAÇÃO DE DÍVIDAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. ACÓRDÃO QUE DEFERE MEDIDA LIMINAR. RECURSO ESPECIAL. INCABÍVEL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ.
+1. Ação de repactuação de dívidas.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+7. O reexame de fatos e provas em recurso especial é inadmissível.
+8. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+9. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+10. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+11. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
