@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO HORIZONTAL BEIRA RIO e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 735 do STF e na ausência de demonstração dos requisitos da tutela provisória de urgência (fls. 286-287).
+Alega os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 304.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em agravo de instrumento nos autos de ação de obrigação de fazer c/c tutela antecipada.
+O julgado foi assim ementado (fls. 210-211):
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C TUTELA ANTECIPADA. DECISÃO AGRAVADA QUE CONCEDE EM PARTE A LIMINAR EM FAVOR DA AGRAVADA, DETERMINANDO QUE A AGRAVANTE SE ABSTENHA DE INSTALAR PLACAS, FAIXAS, LETREIROS, CONES DE SINALIZAÇÃO OU QUALQUER OUTRO INSTRUMENTO DE PUBLICIDADE SOBRE A AUTORA/AGRAVADA E O EMPREENDIMENTO EM CONSTRUÇÃO, BEM COMO DE ABORDAR FUNCIONÁRIOS, PREPOSTOS, CORRETORES E VISITANTES DO LOTEAMENTO. PLEITO DE CASSAÇÃO DA DECISÃO. CONJUNTO PROBATÓRIO, EM SEDE DE COGNIÇÃO SUMÁRIA, QUE ORIENTA A OBSERVÂNCIA DO PODER GERAL DE CAUTELA. DECISÃO, POR ORA, QUE EVITA MAIS CONFLITOS, ATÉ O DESLlNDE DA QUESTÃO DE FUNDO. NECESSIDADE DE INSTRUÇÃO PROCESSUAL A FIM DE CARACTERIZAR A NATUREZA DAS AÇÕES DA AGRAVANTES. PARECER DO MINISTÉRIO PÚBLICO PELO IMPROVIMENTO DO RECURSO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 302 do CPC, porque o direito de expressão e informação dos recorrentes está sendo cerceado;
+b) 1.019, I, do CPC, pois os requisitos para concessão da tutela recursal estão presentes. Relata a existência de verossimilhança das alegações na medida em que veicula sem ofensa fatos relevantes em derredor do empreendimento, sendo o principal deles de que, no Condomínio Horizontal Beira Rio, não há villages e sua área comum não se comunica, nem é acessível a terceiros, tais quais o empreendimento da recorrida.
+Afirma que os prejuízos em questão já são aferíveis ante o impedimento de informarem no âmbito condominial a existência de empreendimento que erroneamente se diz integrante do condomínio recorrente, sem o ser.
+Relata a existência de danos de difícil reparação à parte recorrente, na medida, terceiriza indevidamente o risco empresarial da recorrida na realização do empreendimento, que faz promessas que sabe não serão cumpridas.
+Sustenta que o Tribunal de origem divergiu ao aplicar automaticamente a Súmula n. 735 do STF, ignorando a gravidade dos direitos envolvidos.
+Requer o provimento do recurso, com efeito suspensivo para que se reforme o acórdão recorrido, cassando a medida liminar concedida.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 304.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c tutela antecipada em que a parte autora pleiteou que os réus se abstivessem de instalar placas, faixas, letreiros, cones de sinalização ou qualquer outro instrumento de publicidade sobre a autora e o empreendimento Boulevard Parque, bem como de abordar funcionários, prepostos, corretores e visitantes do Loteamento Ampliação Recreio do Ipitanga.
+Na sentença, o Juízo de primeiro grau deferiu parcialmente a tutela de urgência, determinando aos réus que se abstivessem das condutas mencionadas.
+A Corte estadual manteve a decisão singular, até ulterior deliberação, ante à necessidade de instrução processual sobre os fatos.
+I - Art. 302 CPC e 1.019 do CPC
+A jurisprudência desta Corte não admite, em regra, a interposição de recurso especial cujo objetivo seja discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide analogicamente a Súmula n. 735 do STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Por sua vez, não se olvide que o Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam sobre a matéria da tutela provisória, qual seja, o teor do art. 300 do CPC (AgInt no AREsp n. 1.943.057/RJ, relator Minsitro Raul Araujo, Quarta Turma, julgado em 14/3/2022, DJe de 4/4/2022).
+Confiram-se também:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA E PROVISÓRIA. DO DECISUM. REAVALIAÇÃO. IMPOSSIBILIDADE. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+3. Esta Corte de Justiça admite a mitigação do Enunciado 735 do STF, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015), situação que não se vislumbra na espécie.
+4. Havendo fundamento suficiente para a manutenção do aresto recorrido, não impugnado nas razões do especial, incide na espécie a Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.907.919/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COBRANÇA E PEDIDO DE TUTELA DE URGÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IDONEIDADE DOS DOCUMENTOS APRESENTADOS. ABUSO DE PERSONALIDADE AFASTADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REQUISITOS DA LIMINAR. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. Nas razões do recurso especial, a parte recorrente não impugnou todos os fundamentos do acórdão recorrido. Dessa forma, correta a aplicação da Súmula n. 283/STF.
+4. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal na Súmula n. 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação à norma que diga respeito ao próprio mérito da causa, como se verifica no presente caso.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.826.427/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/8/2021, DJe de 19/8/2021.)
+Ademais, considerando que O Tribunal de origem concluiu que estavam presentes os requisitos para concessão da tutela de urgência, com base nas provas dos autos, rever as conclusões do Tribunal a quo demandaria o necessário reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+II- Conclusão
+Ante o exposto, nego provimento ao agravo .
+Diante do que foi acima decidido, o pedido de atribuição de efeito suspensivo, formulado nas razões do recurso especial, fica prejudicado.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
