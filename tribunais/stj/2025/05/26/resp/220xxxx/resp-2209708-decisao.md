@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por BANCO ITAUCARD S.A., com fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (fls. 310/311, e-STJ):
+CÉDULA DE CRÉDITO BANCÁRIO. REVISÃO DE CLÁUSULAS CONTRATUAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+APELO DE AMBAS AS PARTES. APELO DO DEMANDADO. TARIFA DE AVALIAÇÃO DO BEM. VALIDADE. PRESTAÇÃO DO SERVIÇO COMPROVADA. ORIENTAÇÃO DO STJ.
+O STJ reconhece a validade tanto da cobrança da tarifa de avaliação do bem, quanto do ressarcimento da despesa referente ao registro do contrato, desde que o serviço tenha sido efetivamente prestado e que o valor não se revele excessivo. (REsp. n. 1.578.553/SP. Rel. Min. Paulo Tarso Sanseverino, j. em 28.11.2018).
+APLICAÇÃO DA TAXA SELIC COMO ÍNDICE DE CORREÇÃO MONETÁRIA. EXEGESE DO ARTIGO 389, P.Ú, DO CC C/C ARTIGO 406, §1º, DO CPC. CORREÇÃO MONETÁRIA QUE DEVE OCORRER NOS SEGUINTES TERMOS: ATÉ A DATA DE 29.08.2024, O VALOR A SER REPETIDO SE SUJEITA À ATUALIZAÇÃO MONETÁRIA PELO INPC A PARTIR DE CADA DESEMBOLSO, MAIS JUROS DE MORA DE 1% AO MÊS, A CONTAR DA CITAÇÃO, NOS TERMOS DA REDAÇÃO ORIGINAL DOS CITADOS DISPOSITIVOS LEGAIS; JÁ EM RELAÇÃO AOS VENCIMENTOS POSTERIORES A DATA DE 30.08.2024 (INCLUSIVE), A CORREÇÃO MONETÁRIA DEVE INCIDIR PELO IPCA, COM JUROS DE MORA PELA TAXA SELIC, DEDUZIDO O ÍNDICE DE ATUALIZAÇÃO MONETÁRIA ANTERIORMENTE FIXADO (IPCA), NOS TERMOS DA ATUAL REDAÇÃO DOS CITADOS ARTIGOS.
+APELO DO DEMANDANTE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA DE 12% AO ANO. TESE REJEITADA. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO, LEVANDO-SE EM CONSIDERAÇÃO, AINDA, AS PECULIARIDADES DO CASO CONCRETO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central, devendo-se observar, ainda, as peculiaridades do caso concreto, em especial a demonstração de razões que justifiquem eventual incidência acima da tabela de referência que se qualifica como norte para o exame da temática.
+TARIFA DE REGISTRO DO CONTRATO. PRESTAÇÃO DO SERVIÇO COMPROVADA. VALIDADE DAS COBRANÇAS. ORIENTAÇÃO DO STJ.
+O STJ reconhece a validade tanto da cobrança da tarifa de avaliação do bem, quanto do ressarcimento da despesa referente ao registro do contrato, desde que o serviço tenha sido efetivamente prestado e que o valor não se revele excessivo. (REsp. n. 1.578.553/SP. Rel. Min. Paulo Tarso Sanseverino, j. em 28.11.2018).
+CAPITALIZAÇÃO DE JUROS. ENCARGO ADMITIDO, DESDE QUE EXPRESSAMENTE PACTUADO. ORIENTAÇÃO CONSOLIDADA NO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 973.827.
+A prática do anatocismo, como também é chamada a capitalização de juros, com periodicidade inferior a um ano, é permitida pelo ordenamento jurídico pátrio, desde que existente pactuação expressa e clara e que a data do contrato seja posterior à edição da Medida Provisória n. 1.963-17/00, em 31 de março de 2000, (reeditada como MP n. 2.170-36/01).
+APELO DO DEMANDADO PARCIALMENTE PROVIDO. APELO DO DEMANDANTE NÃO PROVIDO.
+Opostos embargos de declaração (fls. 318/322, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 353/362, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação do artigo 406 do Código Civil. Sustenta, em
+síntese, que é a Taxa Selic é a taxa referencial para correção monetária das condenações cíveis.
+Contrarrazões às fls. 464/467, e-STJ.
+Após decisão de admissão do recurso especial (fls. 470/472, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A pretensão recursal merece prosperar.
+1. Com efeito, quanto à violação ao art. 406 do Código Civil, o recorrente alega que a atualização dos débitos deve ser efetuada pela taxa SELIC.
+No ponto, a pretensão recursal merece prosperar.
+O Tribunal de origem fixou a incidência dos consectários legais nos seguintes termos (fls. 306/307, e-STJ):
+(b) correção monetária e juros de mora
+Não obstante entendimento outrora admitido por este Tribunal de Justiça, em face da recente promulgação da Lei n. 14.905, de 28 de junho de 2024, que altera a Lei n. 10.406, de 10 de janeiro de 2002 (Código Civil), o índice nacional de preços ao consumidor amplo - IPCA passa a ser o indexador oficial de correção monetária, nos termos do artigo 389, p.ú, do Código Civil:
+(..)
+Contudo, considerando a regra transitória, aplica-se o Provimento n. 13/1995 até 29-8-2024, momento anterior a entrada em vigor dos efeitos das alterações atribuídas ao Código Civil pela Lei n. 14.905/2024.
+No tocante aos juros de mora, a partir da entrada em vigor da nova redação do art. 406 do Código Civil, ou seja, 30-8-2024, incide a taxa SELIC com dedução do IPCA.
+Dito isto, in casu, até a data de 29.08.2024, o valor a ser repetido se sujeita à correção monetária pelo INPC a partir de cada desembolso mais juros de mora de 1% ao mês, a contar da citação, nos termos da interpretação original do artigo 406 do CC e do artigo 161, §1º, do CTN; já em relação aos vencimentos posteriores a data de 30.08.2024 (inclusive), a correção monetária deve incidir pelo IPCA com juros de mora pela taxa Selic deduzido o índice de atualização monetária anteriormente fixado (IPCA), nos termos do artigo 389, p. ú, do CC c/c 408, §1º, do CPC.
+Verifica-se que o acórdão recorrido destoa da jurisprudência desta Corte, firmada no sentido de que "a taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1717052/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 08/03/2019).
+No mesmo sentido, ainda, confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO . EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. O acórdão embargado foi claro ao consignar que os juros de mora devem observar a disposição legal prevista no art. 406 do CC, cuja interpretação jurisdicional é reiterada no sentido de que a taxa de juros a que se refere o indigitado normativo é a Selic.
+2. O art. 406 do CC sofreu alteração com o advento da Lei n. 14.905/2024, cuja produção de efeitos já se efetivou a contar de 28/8/2024, o que evidencia a necessidade de sua incidência nos novos moldes preconizados.
+3. A manutenção do julgado nos termos em que fixado inviabilizará ao embargante a revisão dos consectários para aplicação da citada legislação superveniente, visto que o provimento do recurso da parte adversa expressamente consignou a incidência da Selic a título de juros de mora nos moldes da redação original do art. 406 do CC, vedada a cumulação com correção monetária.
+4. Precedentes desta Corte, firmados em recurso repetitivo, estabelecem que, se por um lado, é possível a revisão do capítulo dos consectários legais fixados no título judicial, em fase de liquidação ou cumprimento de sentença, em razão da alteração operada por lei nova, por outro lado viola a coisa julgada a alteração dos consectários na liquidação quando expressamente estabelecido sua forma de incidência. REsp n. 1.111.117/PR, relator para acórdão Ministro Mauro Campbell Marques, Corte Especial, DJe de 2/9/2010. Tema n. 176/STJ.
+5. Também já destacado em recurso repetitivo que não viola a coisa julgada pedido formulado na fase executiva que não pôde ser suscitado no processo de conhecimento, porquanto decorrente de fatos e normas supervenientes "à última oportunidade de alegação da objeção de defesa na fase cognitiva, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso" (REsp 1.235.513/AL, relator Min. Castro Meira, Primeira Seção, DJe de 20/8/2012).
+6. A última oportunidade para elucidar as questões quanto aos consectários legais à luz do art. 406 do CC é no presente julgado, sob pena de se formar título judicial que não poderá ser alterado para fazer incidir a norma superveniente, pois acabaria infringindo a coisa julgada, conforme fixado no Tema n. 176/STJ.
+7. Os juros de mora deverão observar a incidência do art. 406 do CC, na sua redação original, com incidência da Taxa Selic, vedada a cumulação com correção monetária, até 27/8/2024, momento a partir do qual a incidência do art. 406 do CC deverá observar suas novas disposições.
+Embargos de declaração acolhidos em parte com efeitos modificativos.
+(EDcl no AgInt nos EDcl no AREsp n. 1.857.204/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLRAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGRA DE IMPUTAÇÃO DO PAGAMENTO. CABÍVEL. SALVO PREVISÃO CONTRATUAL. DOS LANÇAMENTOS INDEVIDOS. REVISÃO DO JULGADO. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ. REPETIÇÃO EM DOBRO. PREQUESTIONAMENTO. AUSENTE. TAXA SELIC. APLICABILIDADE.
+1. Não há falar em omissão, falta de fundamentação ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando a controvérsia posta nos autos.
+2. Na hipótese dos autos, acolher a tese pleiteada pelo recorrente quanto aos lançamento indevidos, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor dos Enunciados n.º 5 e 7/STJ.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que, a partir da vigência do Novo Código Civil, os juros moratórios deverão observar a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional conforme previsto no art. 406, do Código Civil.
+5. A taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC.
+6. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+7. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1816197/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA DA PARTE AGRAVADA.
+1. Consoante a jurisprudência desta Corte Superior, "A taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1717052/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 08/03/2019).
+1.1. Segundo entendimento deste Tribunal Superior, a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício, não caracterizando preclusão consumativa.
+2. Agravo interno desprovido.
+(AgInt no REsp 1792993/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Desse modo, o entendimento do Tribunal local contraria a jurisprudência desta Corte Superior sobre a matéria, merecendo prosperar a irresignação da recorrente, para determinar que deve ser adotada a taxa SELIC para a atualização monetária, afastada a cumulação com qualquer outro encargo, nos termos do artigo 406 do CC.
+3. Ante o exposto, com fulcro no art. 932 do CPC c/c Súmula 568 do STJ, dou provimento ao recurso especial, a fim de determinar que seja adotada exclusivamente a Taxa Selic como índice de correção monetária e juros moratórios.
+Publique-se.
+Intime-se.
+EMENTA
