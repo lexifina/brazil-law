@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Fls. 927/931e - Trata-se de Agravo Interno (art. 1.021 do CPC/2015) interposto contra decisão monocrática da Sr. Ministro Herman Benjamin, Presidente desta Corte, mediante a qual o Agravo em Recurso Especial não foi conhecido, nos termos do art. 21-E, V, do RISTJ, porquanto incidiria a Súmula n. 182 desta Corte (fls. 922/931e).
+Impugnação de CABE EMPREENDIMENTOS IMOBILIARIOS LTDA e VOLPER EMPREENDIMENTOS IMOBILIARIOS LTDA às fls. 938/943e.
+Não exercido o juízo de retratação (fl. 945e), os autos foram a mim redistribuídos (fl. 952e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que o Agravo em Recurso Especial seja novamente analisado.
+Trata-se de Agravo em Recurso Especial do MUNICÍPIO DE PORTO ALEGRE (fls. 890/893e), objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com o art. 34, XVIII, b, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que a decisão recorrida adotou entendimento consolidado nesta Corte, segundo o qual o protocolo de recurso pela parte em processo diverso configura erro grosseiro, de forma que, a juntada da peça aos autos corretos após o decurso do prazo recursal implica o reconhecimento da intempestividade da impugnação.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO PETICIONADO EM FEITO DIVERSO. IDENTIFICAÇÃO ERRÔNEA DO NÚMERO DO PROCESSO. JUNTADA NO PROCESSO CORRETO APÓS O PRAZO LEGAL. RECURSO INTEMPESTIVO.
+1. O agravante peticionou agravo em recurso especial com a identificação incorreta do número do processo, o que o vinculou a feito diverso.
+2. A juntada posterior do recurso nos presentes autos, quando já findo o prazo legal, não afasta a intempestividade recursal.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.227.307/SP, relator Benedito Gonçalves, Primeira Turma, DJe de 18/6/2018).
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. DISTRIBUIÇÃO COMO INICIAL. ERRO GROSSEIRO. INTEMPESTIVIDADE. RECONHECIMENTO.
+1. Esta Corte tem reiteradamente entendido que o protocolo de recurso em autos de demanda diversa daquela em que o recorrente efetivamente figurava como parte configura erro grosseiro, de modo que a sua juntada aos autos corretos, quando já expirado o prazo do recurso, não tem o condão de afastar a sua intempestividade.
+Precedentes.
+2. Hipótese em que a parte, ao invés de interpor recurso ordinário no processo próprio e perante o órgão competente, deflagrou uma ação originária diretamente neste Superior Tribunal, classificando a petição como inicial e pretende que seja levado em consideração a data de tal protocolo como se interposição de recurso fosse, o que não se mostra possível.
+3. Agravo interno não provido.
+(AgInt no RMS n. 51.570/MS, relator Gurgel de Faria, Primeira Turma, DJe de 18/2/2022).
+PROCESSUAL CIVIL. EXPEDIENTE AVULSO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROTOCOLO DO RECURSO EM PROCESSO DIVERSO, AINDA QUE CONEXO. INTEMPESTIVIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que o protocolo de Recurso em processo diverso, ainda que conexo, caracteriza erro grosseiro e, quando sua juntada nos autos corretos ocorre após o prazo recursal, considera-se intempestivo.
+2. Agravo interno não conhecido.
+(AgInt no RMS n. 72.131/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/3/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS NÃO CONFIGURADOS. DOCUMENTO NOVO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. PROTOCOLO ELETRÔNICO EQUIVOCADO DE APELAÇÃO. INTERPOSIÇÃO EM PROCESSO DIVERSO. ERRO GROSSEIRO. INTEMPESTIVIDADE. SÚMULA N. 83/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que os documentos juntados eram extemporâneos, não se enquadrando na definição de "documento novo" e estavam relacionados aos fatos articulados na inicial. Desse modo, modificar tal premissa requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, por esbarrar no óbice da Súmula n. 7 do STJ.
+3. Nos temos da jurisprudência do STJ, o protocolo de recurso em processo diverso caracteriza erro grosseiro e, quando não corrigido a tempo, acarreta a intempestividade do recurso. Incidência da Súmula n. 83/STJ.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.169.228/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+Por fim, no que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ (Recursos Especiais ns. 1.864.633/RS, 1.865.223/SC e 1.865.553/PR, acórdãos pendentes de publicação), fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, nos termos do art. 85, §§ 3º e 11, de rigor a majoração, em 10% (dez por cento), dos honorários anteriormente fixados (fl. 750e).
+Posto isso, nos termos do § 2º art. 1.021 do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 922/923e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 927/931e, e, com fundamento nos arts. 932, IV, do Código de Processo Civil e 34, XVIII, b, do RISTJ, NEGO PROVIMENTO ao Agravo em Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
