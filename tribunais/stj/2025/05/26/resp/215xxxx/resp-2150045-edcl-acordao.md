@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  declaratórios  opostos  por  CICLO  EMPREENDIMENTOS  IMOBILIÁRIOS  S.S.  LTDA.  ao  acórdão  da  Terceira  Turma  que  não  conheceu  do  seu  recurso  especial  nos  termos  da  seguinte  ementa:
+"RECURSO  ESPECIAL.  AÇÃO  DE  RESOLUÇÃO  DE  CONTRATO.  COMPRA  E  VENDA  DE  IMÓVEL.  ALIENAÇÃO  FIDUCIÁRIA.  RESTITUIÇÃO  DAS  PARCELAS  PAGAS.  DISPOSITIVOS  APONTADOS  COMO  VIOLADOS.  COMANDO  NORMATIVO  INSUFICIENTE.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DISSÍDIO  JURISPRUDENCIAL.  MERA  TRANSCRIÇÃO  DE  EMENTAS  E  TRECHOS  DE  JULGADOS.  INSUFICIÊNCIA.  TEMA  REPETITIVO.  CONCEITO  DE  LEI  FEDERAL.  VIOLAÇÃO.  EXAME.  INVIABILIDADE.
+1.  A  legislação  apontada  no  recurso  especial  não  possui  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  acórdão  recorrido,  tampouco  para  sustentar  a  tese  defendida  pelo  recorrente,  o  que  configura  a  deficiência  de  fundamentação  do  recurso  especial  (Súmula  nº  284/STF).
+2.  Nos  termos  dos  artigos  1.029,  §  1º,  do  CPC/2015  e  255,  §  1º,  do  RISTJ,  a  divergência  jurisprudencial  requisita  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  acórdãos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  se  oferecendo,  como  bastante,  a  simples  transcrição  de  ementas  e  de  excertos  de  julgados.
+3.  A  alegação  de  violação  de  tema  repetitivo  não  autoriza  a  abertura  da  via  especial,  tendo  em  vista  que  o  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  exige  a  demonstração  da  contrariedade,  negativa  de  vigência  ou  interpretação  divergente  ao  artigo  de  lei  federal.
+4.  Recurso  especial  não  conhecido"  (e-STJ  fl.  561).
+Nas  razões  dos  presentes  aclaratórios,  a  embargante  sustenta  haver  omissão  e  contradição  no  acórdão,  pois  não  foi  enfrentado  o  fundamento  central  do  seu  recurso  especial,  segundo  o  qual  os  arts.  26  e  27  da  Lei  nº  9.514/1997,  que  são  normas  específicas  e  com  comandos  legais  expressos,  ao  preverem  a  consolidação  da  propriedade  em  nome  do  credor  fiduciário  e  o  encerramento  do  procedimento  extrajudicial,  prevalecem  sobre  as  disposições  do  Código  de  Defesa  do  Consumidor.
+Aduz  que  o  julgado  embargado  deixou  de  considerar  que:  a  e mbargada  não  é  destinatária  final  do  produto,  o  que  afasta  a  aplicação  do  Código  de  Defesa  do  Consumidor;  o  contrato  estava  amparado  por  alienação  fiduciária;  o  procedimento  foi  seguido  até  o  final  com  o  imóvel  sendo  levado  a  leilão;  não  havia  saldo  remanescente  a  ser  devolvido  à  embargada.
+Afirma  que  os  arts.  26  e  27  da  Lei  nº  9.514/1997  regulam  com  clareza  a  execução  extrajudicial  da  alienação  fiduciária  de  imóveis,  inclusive  a  destinação  do  produto  do  leilão,  e  reitera  que,  não  havendo  saldo,  não  há  fundamento  para  a  devolução  de  valores  à  parte  inadimplente,  sendo  indevida  a  incidência  do  CDC.
+Sustenta,  ainda,  que  seu  recurso  especial  apresentou  fundamentação  suficiente,  com  a  apresentação  de  jurisprudência  pertinente,  razão  pela  qual  é  contraditória  a  aplicação  do  óbice  da  Súmula  nº  284/STF.
+Não  foi  apresentada  impugnação  (e-STJ  fl.  582).
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Verifica-se,  desde  logo,  que  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  embargos  de  declaração  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+A  controvérsia  foi  devidamente  solucionada  com  expressa  e  adequada  fundamentação  em  relação  à  inviabilidade  de  conhecimento  do  recurso  especial,  tanto  no  que  diz  respeito  quanto  à  falta  de  indicação  específica  do  dispositivo  infraconstitucional  tido  por  violado  -  pois  os  arts.  22,  23,  24,  25,  26  e  27  da  Lei  nº  9.514/1997 e  2º  e  53  do  Código  de  Defesa  do  Consumidor  não  possuem  força  normativa  suficiente  para  infirmar  os  fundamentos  do  acórdão  combatido,  nem sequer  para  sustentar  a  tese  defendida  pela  recorrente,  o  que  atrai  a  aplicação  do  óbice  da  Súmula  nº  284/STF  -  como  pela  ausência  de  adequada  demonstração  do  suposto  dissídio  pretoriano.
+Eis,  por  oportuno,  excerto  do  referido  julgado:
+"(..)
+Quanto  à  incidência  do  CDC  no  caso  em  exame,  o  tribunal  de  origem  considerou  que,  apesar  de  não  existir  interesse  da  recorrida  na  desconstituição  da  rescisão  contratual,  por  já  ter  sido  ultimada  alienação  do  imóvel  dado  em  garantia,  é  possível  a  devolução  dos  valores  pagos,  aos  fundamentos  de  que  a  resolução  do  contrato  produz,  entre  os  seus  efeitos,  o  de  trazer  as  partes  ao  estado  anterior,  com  a  restituição  das  parcelas  já  adimplidas,  e  de  que,  mesmo  que  inadimplente,  pode  o  adquirente  pedir  a  rescisão  do  contrato  e  a  devolução  das  quantias  pagas.
+É  o  que  se  infere  do  seguinte  excerto  do  acórdão  recorrido:
+(..)
+No  entanto,  quanto  ao  argumento  do  recurso  especial  de  que  o  procedimento  da  Lei  nº  9.514/97  já  foi  encerrado,  sem  que  houvesse  saldo  positivo  para  devolução  à  recorrida  -  do  que  decorreria  a  impossibilidade  de  devolução  dos  valores  pagos,  na  forma  do  CDC  -,  o  recorrente  não  apontou  especificamente  o  dispositivo  infraconstitucional  tido  por  violado.
+De  fato,  verifica-se  que  os  dispositivos  tidos  como  violados  os  arts.  22,  23,  24,  25,  26  e  27  da  Lei  nº  9.514/97,  2º  e  53  do  Código  de  Defesa  do  Consumidor,  não  possuem  força  normativa  suficiente  para  infirmar  os  fundamentos  do  acórdão  combatido,  tampouco  para  sustentar  a  tese  defendida  pelo  recorrente  de  que  procedimento  da  Lei  nº  9.514/97  já  foi  encerrado,  sem  que  houvesse  saldo  positivo  para  devolução  à  recorrida,  o  que  configura  a  deficiência  de  fundamentação  do  recurso  especial,  a  atrair  o  óbice  da  Súmula  nº  284/STF.
+Nesse  sentido:
+(..)
+Com  relação  à  suposta  divergência,  o  alegado  dissídio  não  foi  adequadamente  demonstrado,  pois,  no  especial  (e-STJ,  fls.  393/418),  a  recorrente  se  limitou  a  transcrever  ementas  e  trechos  de  julgados.
+Nos  termos  dos  arts.  1.029,  §  1º,  do  Código  de  Processo  Civil  e  255,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  a  divergência  jurisprudencial  deve  ser  comprovada  e  demonstrada,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  arestos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  bastando,  para  tanto,  a  simples  transcrição  de  ementas  e  de  trechos  de  julgados,  como  ocorre  na  espécie"  (e-STJ  fls.  563/564).
+Ademais,  não  atendidos  os  requisitos  de  admissibilidade  do  recurso  especial,  não  há  falar  em  omissão  quanto  às  teses  de  mérito  nele  discutidas.
+A  propósito:
+  "PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AO  FUNDAMENTO  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  Nº  182/STJ  E  DOS  ARTS.  932,  III,  E  1.021,  §  1º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APRECIAÇÃO  DE  MATÉRIA  DE  ORDEM  PÚBLICA  ARGUIDA  NO  RECURSO  ESPECIAL.  IMPOSSIBILIDADE.  BARREIRA  DO  CONHECIMENTO  NÃO  SUPERADA.  APLICAÇÃO  DE  MULTA.  ART.  1.021,  §  4º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  DESCABIMENTO.  MULTA.  LITIGÂNCIA  DE  MÁ-FÉ.  INAPLICABILIDADE.
+(..)
+IV  -  A  orientação  desta  Corte  consolidou-se  no  sentido  da  impossibilidade  de  análise  do  mérito  do  Recurso  Especial,  ainda  que  verse  sobre  questão  de  ordem  pública,  quando  esse  sequer  tenha  ultrapassado  a  barreira  do  conhecimento.  Precedentes  das  Turmas  componentes  da  1ª  e  2ª  Seções.
+(..)
+Precedente  do  Supremo  Tribunal  Federal.
+VII  -  Agravo  Interno  não  conhecido"  (AgInt  no  AREsp  939.302/PE,  Rel.  Ministra  REGINA  HELENA  COSTA,  PRIMEIRA  TURMA,  julgado  em  18/11/2019,  DJe  20/11/2019).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.
+(..)
+3.  Não  tendo  sido  ultrapassado  o  requisito  de  admissibilidade  do  recurso,  não  há  falar  em  omissão  quanto  às  teses  de  mérito,  ainda  que  se  trate  de  matéria  de  ordem  pública.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.426.503/GO,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  16/9/2019,  DJe  18/9/2019).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
