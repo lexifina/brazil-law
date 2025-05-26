@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JULIA INES ARAUJO DOS SANTOS contra decisão que inadmitiu recurso especial com fundamento na ausência de demonstração de violação do art. 205 do CC e na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação declaratória de inexistência de débito cumulada com reparação por danos morais e materiais.
+O julgado foi assim ementado (fl. 179):
+APELAÇÃO. Contratos bancários. Empréstimo consignado. Ação declaratória de inexistência de débito cumulada com reparação por danos morais e materiais. Processo extinto, com resolução do mérito, pela prescrição. Recurso interposto pela autora. Termo inicial contado a partir do último desconto. Prazo quinquenal previsto no art. 27 do CDC. Precedentes do STJ. Sentença mantida. Recurso não provido.
+Nas razões do recurso especial, a ora agravante aponta violação do art. 205 do Código Civil. Alega que o Tribunal de origem não observou o prazo decenal aplicado nas ações que discutem cobrança indevida de valores referentes aos serviços não contratados.
+Defende, assim, a necessidade de afastamento da prescrição.
+Indica a existência de dissídio jurisprudencial.
+Requer o provimento do recurso para reforma do acórdão recorrido.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Quanto à prescrição da pretensão autoral, o Tribunal a quo asseverou o seguinte (fls. 180-182):
+Conforme o C. Superior Tribunal de Justiça, na hipótese de ação declaratória de inexistência de débito fulcrada na contratação de empréstimo com instituição financeira, aplica-se o prazo prescricional de cinco anos previsto no art. 27 do CDC, iniciando-se a contagem a partir da data do último desconto no benefício previdenciário.
+ ..
+No caso, o último desconto foi realizado em novembro de 2018, conforme fls. 100. A ação foi ajuizada em abril de 2024. Transcorridos mais de 5 anos. A prescrição estava consumada, porque computada na forma do artigo 27 do Código de Defesa do Consumidor, eis que a matéria envolve defeito de produto. De rigor era a extinção do processo.
+Como exposto, concluiu-se pela prescrição da pretensão autoral, pois não fora observado o prazo de cinco anos para o ajuizamento de ação declaratória de inexistência de débito fulcrada na contratação de empréstimo com instituição financeira.
+Nesse cenário, o Tribunal de origem decidiu em consonância com a jurisprudência do STJ, que compreende que nas ações declaratórias com pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, aplica-se o prazo prescricional quinquenal do art. 27 do CDC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA OU NULIDADE DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DO PRAZO QUINQUENAL PREVISTO NO ART. 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DA CORTE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC" (AgInt no AREsp 1.720.909/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24.11.2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.462.298/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento, ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte Superior é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+3. "O termo inicial para o cômputo do prazo prescricional corresponde à data em que ocorreu a lesão, ou seja, a data do pagamento" (AgInt no AREsp n. 1056534/MS, Relator o Ministro Luis Felipe Salomão, julgado em 20/4/2017, DJe 3/5/2017). Incidência da Súmula n.º 83 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.008.501/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. PRECEDENTES. TERMO INICIAL DA PRESCRIÇÃO. DATA DO ÚLTIMO DESCONTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência sedimentada nesta Corte Superior é no sentido de que, fundando-se o pedido na ausência de contratação de empréstimo com instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo quinquenal previsto no art. 27 do Código de Defesa do Consumidor.
+2. Em relação ao termo inicial, insta esclarecer que a jurisprudência desta Casa é firme no sentido de que o prazo prescricional para o exercício da referida pretensão flui a partir da data do último desconto no benefício previdenciário.
+3. Agravo interno improvido. (AgInt no AREsp n. 1.728.230/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA POR DANOS MORAIS. FATO DO SERVIÇO. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL APLICÁVEL À PRETENSÃO RESSARCITÓRIA ORIUNDA DE FRAUDE NA CONTRATAÇÃO DE EMPRÉSTIMO EM BENEFÍCIO PREVIDENCIÁRIO. ÚLT IMO DESCONTO INDEVIDO. SÚMULA 83/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+2. O termo inicial do prazo prescricional da pretensão de repetição do indébito relativo a desconto de benefício previdenciário é a data do último desconto indevido. Precedentes.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.720.909/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/10/2020, DJe de 24/11/2020.)
+Portanto, incidente ao caso a Súmula n. 83 do STJ.
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 83 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DANOS MATERIAIS E MORAIS. ATO ILÍCITO ADMINISTRATIVO. LAVRATURA DE PROCURAÇÃO PÚBLICA. TABELIÃO DE NOTAS. PRAZO PRESCRICIONAL. ART. 206, § 3º, V, DO CÓDIGO CIVIL. PRAZO TRIENAL. JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO ANULATÓRIA. AGRAVO NÃO PROVIDO.
+1. Na origem, trata-se de ação de indenização por danos materiais e morais, em decorrência de ato ilícito administrativo praticado em lavratura de procuração pública e escritura de compra e venda perante Tabelião de Notas.
+2. Prescreve em 3 (três) anos a pretensão de reparação civil contra ato praticado por tabelião no exercício da atividade cartorária, haja vista a aplicação do art. 206, § 3º, V, do Código Civil de 2002 e do art. 22, parágrafo único, da Lei nº 8.935/1994.
+3. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração, por meio de precedentes atuais, de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio de distinguishing, o que não ocorreu na hipótese.
+4. Tratando-se de ação indenizatória decorrente do reconhecimento judicial de nulidade de negócio jurídico, inicia-se o prazo prescricional no momento em que definitiva a nulidade, isto é, do trânsito em julgado da ação anulatória (STJ, Recurso Especial nº 1799959 - DF/ 2018/0313290-3, Ministro Luis Felipe Salomão, Publicação no DJe/STJ nº 2984 de 2/9/2020).
+5. A incidência do enunciado da Súmula 83/STJ obsta a análise do recurso pela alínea "c", ficando prejudicado o exame do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 2.156.511/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023, destaquei.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
