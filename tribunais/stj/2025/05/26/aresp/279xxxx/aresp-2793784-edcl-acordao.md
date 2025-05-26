@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ALUGUEL RESIDENCIAL. VALOR DA FIANÇA. DEVOLUÇÃO. CONDIÇÃO DO IMÓVEL NO MOMENTO DA DEVOLUÇÃO. QUESTÃO DECIDIDA COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de ação de cobrança do valor depositado a título de fiança em contrato de locação residencial, o qual não foi devolvido ao término da relação contratual, com a entrega das chaves.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a questão relacionada aos danos apontados no imóvel - se provenientes ou não do mau uso pelo locatário - foi decidida com base na análise dos elementos fáticos da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA TERESA ALOE DA COSTA CURY (MARIA TERESA) contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ALUGUEL RESIDENCIAL. VALOR DA FIANÇA. DEVOLUÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONDIÇÃO DO IMÓVEL NO MOMENTO DA DEVOLUÇÃO. QUESTÃO DECIDIDA COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de ação de cobrança do valor depositado a título de fiança em contrato de locação residencial, o qual não foi devolvido ao término da relação contratual, com a entrega das chaves.
+2. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do CPC), não se prestando a novo julgamento da causa.
+3. A partir da análise dos elementos fáticos da causa, concluiu o Tribunal estadual que não foi possível distinguir quais danos no imóvel foram decorrentes da reforma realizada pelo condomínio e quais seriam provenientes de eventual mau uso pelo locatário. Logo, para ultrapassar a convicção firmada no acórdão recorrido seria necessário o reexame do acervo probatório dos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+4. Agravo interno não provido.
+Nas razões do presente inconformismo, MARIA TERESA alegou a violação do art. 1.022, II, do CPC, indicando omissão do julgado quanto à análise da cláusula contratual IV.1 do contrato de locação firmado entre as partes, expressamente invocada pela ora embargante, a qual atribui ao locador a responsabilidade pelas obras estruturais, inclusive aquelas decorrentes da reforma realizada pelo próprio condomínio.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ALUGUEL RESIDENCIAL. VALOR DA FIANÇA. DEVOLUÇÃO. CONDIÇÃO DO IMÓVEL NO MOMENTO DA DEVOLUÇÃO. QUESTÃO DECIDIDA COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de ação de cobrança do valor depositado a título de fiança em contrato de locação residencial, o qual não foi devolvido ao término da relação contratual, com a entrega das chaves.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a questão relacionada aos danos apontados no imóvel - se provenientes ou não do mau uso pelo locatário - foi decidida com base na análise dos elementos fáticos da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, MARIA TERESA indicou omissão do julgado quanto à análise da cláusula contratual IV.1 do contrato de locação firmado entre as partes, expressamente invocada pela ora embargante, a qual atribui ao locador a respo nsabilidade pelas obras estruturais, inclusive aquelas decorrentes da reforma realizada pelo próprio condomínio.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que a questão relacionada aos danos apontados no imóvel - se provenientes ou não do mau uso pelo locatário -, foi decidida com base na análise dos elementos fáticos da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Isso, inclusive, é o que se denota dos seguintes trechos do voto proferido no julgamento do agravo interno, a saber:
+Gira o litígio em torno do estado de conservação do imóvel ao tempo da desocupação e à consequente obrigação do apelado de arcar com os custos dos reparos realizados pela locadora.
+É bem conhecida a obrigação do locatário de restituir o imóvel nas mesmas condições em que o recebeu à época do início de vigência da locação. No caso, há fotografias que demonstram o péssimo estado de alguns cômodos (fls. 66/80). Ocorre que há circunstância relevante a ser considerada: houve a necessidade de reforma estrutural no prédio, razão pela qual foram ocasionados danos a alguns cômodos do apartamento, conforme se infere da prova oral.
+Diante dessa circunstância, incumbia à locadora comprovar quais danos seriam decorrentes da reforma realizada pelo próprio condomínio, cuja responsabilidade não pode ser imputada ao locatário, e quais seriam advindos de eventual mau uso do imóvel, conforme ponderou o juízo a quo.
+Destaco, a propósito, o seguinte trecho da sentença:
+"Com efeito, registre-se, de início, que, consoante o depoimento do Sr. Manoel Messias Franco Santos, zelador do condomínio, a obra no banheiro social foi realizada pelo próprio condomínio, em razão da necessidade de troca da coluna do esgoto. Note-se que tal depoente afirmou categoricamente que os buracos presentes na foto de fls. 79 foram realizados pelo encanador do condomínio.
+Relatou, outrossim, que quando o autor entregou as chaves do apartamento à proprietária, o banheiro ainda se encontrava nesse estado.
+Apontou, ainda, que tais buracos não foram fechados, pois seria necessária a troca da tubulação antes da finalização do serviço.
+Neste particular, importante observar que, consoante cláusula IV.1 da avença (fls. 06), as obras necessárias são de responsabilidade do locador, sendo claramente esta a natureza da obra de troca de tubulação do banheiro.
+O zelador do condomínio declarou, também, que os buracos na parede da área de serviço fazem parte da obra do banheiro social.
+Por fim, mencionou que a pia da cozinha tem cerca de 50 anos.
+Por sua vez, afirmou o Sr. Sinisio da Cruz Prates Neto, prestador de serviço contratado pela autora para realizar a reforma do apartamento, que o mofo presente no apartamento era decorrente da obra realizada no banheiro social.
+Destarte, dos depoimentos das testemunhas arroladas pela própria ré, do considerável lapso temporal da locação e da considerável idade do imóvel, não se faz possível distinguir, apenas pelas poucas fotos coligidas aos autos, quais deteriorações são decorrentes do uso normal do apartamento e da ação do tempo, quais avarias são decorrentes da obra realizada pelo condomínio, e quais avarias são, de fato, decorrentes de eventual mau uso do autor.
+Inexistem, portanto, elementos que permitam a este Juízo identificar quais avarias são decorrentes de mau uso, bem como quantificá-las, sendo certo que o valor total despendido pela requerida para a reforma do imóvel também foi destinado a reparar as deteriorações ocasionadas pelo uso normal do bem e pela ação do tempo e as avarias provocadas pela obra realizada pelo condomínio. E o ônus de prova de tais fatos e alegações recai sobre a ré, não tendo dele se desincumbido" (fls. 209/210).
+Com efeito, a locadora não produziu nenhuma prova com a finalidade de demonstrar quais danos decorreram da reforma realizada pelo condomínio que, repita-se, não pode ser imputada ao locatário, e quais decorreram de eventual mau uso do bem. Logo, não comporta acolhida a pretensão de impor ao locatário as despesas com os reparos dos cômodos avariados. Em síntese, a sentença deu correta solução à lide e a insurgência recursal é desmerecedora de acolhimento (e-STJ, fls. 270/273).
+Cumpre asseverar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020 - sem destaques no original)
+Desse modo, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, finalidade que desborda das hipóteses de cabimento dos aclaratórios, previstas nos arts. 489 e 1.022 do CPC.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
