@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS ( relator):
+Cuida-se de agravo interno interposto pela ASSOCIACAO DE BENEFICIOS MUTUOS DOS AMIGOS DO RIO DE JANEIRO - ASSORIO contra decisão proferida pela Presidência do STJ, por meio da qual se aplicou a Súmula n. 182 do STJ (fls. 221-222).
+Embargos de declaração rejeitados (fls. 236-237).
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 50):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. MEDIDA EXCEPCIONAL.
+AUSÊNCIA DE GARANTIA DO JUÍZO. INTELIGÊNCIA DO ART. 919 § 1º DO CPC.
+NÃO DEMONSTRAÇÃO DE DANO GRAVE OU IRREPARÁVEL. PROSSEGUIMENTO DA EXECUÇÃO.
+Alegação de que a decisão carece de fundamentação, com termos que poderiam ter sido utilizados em qualquer outro pedido de tutela. O que enseja a eventual nulidade do ato é a falta de fundamentação, não a fundamentação econômica e adequada ao caso concreto.
+O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.
+Ausência de elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Inexistência de penhora a garantir a execução, bem como depósito ou caução.
+Requisitos necessários à atribuição de efeito suspensivo aos embargos que não foram cumpridos. Inteligência do Art. 919, §1º do CPC.
+Recursos conhecido e não provido.
+Embargos de declaração rejeitados (fl. 104):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO.
+Recurso que se presta a sanar contradição, obscuridade, omissão ou erro material de julgamento. Art. 1.022 do CPC.
+Embargante que alega que o acórdão foi omisso quanto à necessidade de fundamentação específica na decisão atacada, bem como à excepcionalidade na hipótese que dispensa a garantia do juízo.
+Ausência de quaisquer vícios no referido julgado, o qual enfrentou todas as matérias discutidas. Insatisfação da parte embargante que não merece amparo.
+A simples pretensão de revisão do julgado, mesmo mascarada com o véu do prequestionamento, não pode ser acolhida se resta claro no julgado as razões de decidir e as normas legais em que se finca tal conclusão.
+Prequestionamento que já se considera alcançado nos termos do art. 1.025 do CPC. Enunciados 52 e 172 da súmula deste TJERJ.
+Recurso conhecido e não provido.
+No agravo interno, a parte agravante sustenta que (fl. 246):
+Embora tenha sido o recurso especial inadmitido pela terceira vice-presidência do TJRJ, por entender que esbarraria na Súmula 7 desta Corte, para em seguida este juízo não conhecer do agravo em recurso especial, por entender que não houve impugnação específica quanto aos pontos sensíveis do acórdão recorrido, fato é que tanto o recurso especial quanto o agravo em recurso especial, impugnaram especificamente todos os pontos abordados.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões (fls. 253-269).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não merece provimento o presente recurso.
+O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos: 1) ausência de violação dos arts. 489 e 1.022 do CPC; 2) incidência da Súmula n. 7/STJ; e 3) deficiência de cotejo analítico.
+No caso dos autos, não houve impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante se absteve de impugnar a deficiência de cotejo analítico.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Nesse sentido, confiram-se julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ALEGAÇÃO EXTEMPORÂNEA DE AFRONTA A PRINCÍPIO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA PROFERIDA PELA RELATORIA. IMPUGNAÇÃO ESPECÍFICA. NÃO CONSTATAÇÃO. INSURGÊNCIA GENÉRICA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Alegado ultraje (extemporâneo e inadmissível), na via regimental, aos princípios constitucionais da "ampla defesa" e do "contraditório", além de evidenciar manifesta inovação recursal, descabida por força da preclusão consumativa incidente, carece de cognoscibilidade, por pautar-se em espectro normativo (metanorma) "diverso" do conceito de tratado ou lei federal, enquadrado pelo constituinte originário no art. 105, III, da CF/88.
+2. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e específica (pormenorizada), seu eventual desacerto.
+3. Consoante entendimento perfilhado por esta Corte de Uniformização, a ausência de "dialética" e "estratificada" impugnação aos fundamentos assentados na decisão monocrática agravada - prolatada por esta Corte - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c art. 34, XVIII, "a", do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+4. Na espécie, constata-se que o (ora) agravante não infirmou - de forma específica e pormenorizada - o fundamento aclarado na origem de que a embargada qualificadora, adstrita ao meio que dificultou a defesa (art. 121, § 2º, IV, CP), não se encontra dissociada do conjunto probatório carreado aos autos (em juízo de prelibação da acusação, sob o escalonado rito do Júri), de modo a afastar a perquirida ofensa do aresto local à dicção do art. 619 do CPP.
+5. Tal delineamento processual inviabiliza (à luz dos subjacentes princípios da "cooperação processual" e do "devido processo legal", em sua dupla acepção formal e material), o objetivado juízo de delibação do reclamo, consoante exegese do art. 6º do CPC c/c art. 3º do CPP.
+6. Agravo regimental não conhecido.
+ AgRg no AREsp n. 2.306.553/PB, relator Ministro Otávio de Almeida Toledo (desembargador convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. SÚMULA 182/STJ. RAZÕES DIVORCIADAS. SÚMULA 284/STF.
+1. Trata-se de Agravo Interno contra decisão monocrática proferida pela Presidência do STJ, que não conheceu do Agravo em Recurso Especial.
+2. A decisão presidencial assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, consonância do acórdão recorrido com jurisprudência do STJ, Súmula 7/STJ (exclusão do polo passivo) e Súmula 7/STJ (impenhorabilidade do bem de família). Entretanto, a parte agravante deixou de impugnar especificamente: consonância do acórdão recorrido com jurisprudência do STJ. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito: (..) Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (fls. 1.261-1.262, e-STJ).
+3. A parte agravante refuta o embasamento da decisão, alegando, em síntese: "24. Além de que, diverso do ponderado pela r. decisão agravada, no que diz respeito a jurisprudência do STJ e a suposta infração legal, há de se consignar que o Agravante, no agravo em recurso especial, impugnou com veemência os fundamentos da r. decisão denegatória do recurso especial sob o viés do fato novo que foi utilizado como razão de decidir pelo E. Tribunal a quo e a pressuposta incidência da Súmula 7 do STJ, o que se passa demonstrar abaixo. (..) 37. Como se extrai das razões do agravo em recurso especial, ao afastar o cabimento da Súmula 7 deste C. STJ, o Agravante demonstrou a violação expressa ao art. 135, III, do CTN e inadequação ao entendimento deste C. STJ, oportunidade na qual, ressaltou-se que o d. Tribunal a quo fundamentou sua conclusão meritória pela responsabilidade do Agravante com base em fato novo, sem sequer oportunizar ao Agravante prévia manifestação ou processo cognitivo que oportunizasse o oferecimento de todos os meios de prova e fundamentos cabíveis." (fl. 1.282-1.286, e-STJ).
+4. Dessa forma, caberia à parte, no presente momento, demonstrar que impugnou o fundamento da decisão agravada (óbice processual apontado nela).
+5. Na hipótese, deveria a parte indicar precedentes do STJ contemporâneos ao acórdão hostilizado, em sentido oposto, para, fundamentadamente, demonstrar a inexistência de entendimento conforme a jurisprudência do STJ, e isso não ocorreu.
+6. No caso concreto, a linha argumentativa é deficiente, pois deixa de refutar o fundamento da decisão agravada e se encontra dissociada do seu conteúdo.
+7. Aplicam-se, assim, as Súmulas 182/STJ e 284/STF.
+8. Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.067.588/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL TORNADA SEM EFEITO PELA PRESIDÊNCIA DO STJ. NECESSIDADE DE NOVA ANÁLISE DO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. Embora a presidência desta Corte tenha proferido decisão não conhecendo do agravo em recurso especial por incidência da Súmula 182/STJ, entendeu por tornar sem efeito o referido decisum (e-STJ fl. 1.232). Assim sendo, necessária a retomada da análise do recurso.
+2. No caso dos autos, efetivamente não foram rebatidos todos os fundamentos da decisão de inadmissibilidade do recurso especial, atraindo a incidência do óbice da Súmula 182/STJ.
+3. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo em recurso especial, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm, nos termos do enunciado sumular n. 182 desta Corte Superior.
+4. Embargos de declaração acolhidos, com efeitos modificativos, para não conhecer do agravo em recurso especial.
+(EDcl no AgRg no AREsp n. 2.630.230/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incid ência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
