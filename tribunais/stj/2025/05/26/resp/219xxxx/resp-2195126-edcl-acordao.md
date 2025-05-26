@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por DANIEL GONCZAROWSKA GOMES ao acórdão que não conheceu do seu recurso especial nos termos da seguinte ementa:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. IMPUGNAÇÃO. PRAZO. TERMO INICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PRECLUSÃO. SUCESSÃO. HERDEIROS. HABILITAÇÃO. PRAZO. REABERTURA. FUNDAMENTOS DISSOCIADOS. SÚMULA Nº 284/STF. HONORÁRIOS. DISPOSITIVO. COMANDO NORMATIVO. INSUFICIÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. TEMA REPETITIVO. VIOLAÇÃO. DESCABIMENTO.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+2. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. A legislação apontada no recurso especial não possui comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura a deficiência de fundamentação do recurso especial (Súmula nº 284/STF).
+4. A alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, negativa de vigência ou interpretação divergente ao artigo de lei federal.
+5. Recurso especial não conhecido" (e-STJ fl. 567).
+Nas razões dos presentes aclaratórios, o embargante sustenta haver omissão no acórdão, pois a tese de que o prazo para a apresentação da impugnação ao cumprimento de sentença deveria ter termo inicial na primeira oportunidade em que a parte executada se manifestasse nos autos após a vigência do Código de Processo Civil de 2015 está pautada no art. 218 do citado diploma legislativo, que foi expressamente mencionado na fundamentação do acórdão recorrido, o que caracteriza o indispensável prequestionamento da matéria.
+Aduz que, nesse contexto, o acórdão embargado é omisso em examinar o mérito do seu recurso especial, que corresponde à controvérsia central levada à apreciação das instâncias ordinárias.
+Requer, ao final, o acolhimento dos embargos com efeitos infringentes para que, sanada a omissão apontada, seja reconhecido o prequestionamento da matéria e apreciada a questão de mérito.
+A impugnação foi apresentada às e-STJ fls. 588/591.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se, desde logo, que o acórdão embargado não padece de nenhum dos vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia relativa à inviabilidade de se conhecer o recurso especial quanto à apontada violação do art. 218, § 3º, do CPC e à correspondente tese acerca do termo inicial do prazo para a apresentação da impugnação ao cumprimento de sentença foi devidamente solucionada com expressa e adequada fundamentação no acórdão embargado, tendo sido consignado que nem o dispositivo tido por violado nem a correlacionada tese foram enfrentados pelo acórdão recorrido, inexistindo erro material, omissão ou contradição a serem sanados.
+Eis, por oportuno, excerto do referido julgado:
+"(..)
+Quanto à alegada ofensa ao artigo 218, § 3º, do Código de Processo Civil, o Tribunal a quo enfrentou a definição do termo inicial do prazo para a apresentação da impugnação ao cumprimento de sentença nos seguintes termos:
+"Ato contínuo, houvera, em 20/08/2020, e, por óbvio, sob os ditames do novo código de ritos, a suspensão da execução lastreada art. 921, § 1º, do estatuto processual de 2015. 6  Emerge incontroverso, ademais, que, em 16/12/2021, o executado falecera , tendo o embargante, em 7  25/11/222, informado que habilitara-se nos autos do inventário para garantir o pagamento do débito , 8  tendo havido o prosseguimento da execução, de conformidade com a decisão que, em 23/02/2023, determinara a penhora no rosto dos autos do inventário. Após, em 07/11/2023, o espólio aviara, então, 9  impugnação ao débito apurado, cuja desqualificação o ora embargante pretende ver operada, mas que não comporta acolhimento. Consoante adiantado, o termo inicial e final da intimação para pagamento iniciara-se sob a égide do estatuto processual de 1973 e a intimação para apresentação de impugnação, já que inexistente penhora frutífera, não ocorrera, portanto (CPC/73, art. 475-J, § 1º).
+É sob essa realidade que deveria ter havido, ante a situação de conexidade entre os interregnos assegurados ao adimplemento do débito e aviamento de impugnação, a intimação específica do devedor, já sucedido por seu espólio, após a vigência do novo estatuto processual, para o manejo da peça impugnatória (CPC, art. 525), o que não lhe fora oportunizado. Assim, acorrendo o espólio aos autos e aviando a impugnação antes mesmo do termo inicial do prazo, tempestiva a impugnação ofertada (CPC, art. 218, § 4º), ensejando a incidência da tese repetitiva que fora destacada no acórdão ora desafiado." (e-STJ, fl. 125, grifou-se)
+Observa-se, portanto, que a norma versada no referido dispositivo e a correspondente tese de que o termo inicial do prazo para a apresentação da impugnação ao cumprimento de sentença deveria ser a primeira oportunidade em que a parte teve para se manifestar nos autos, não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração.
+Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Observa-se, ainda, que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, a qual nem sequer foi suscitada no caso dos autos" (e-STJ fls. 570/571).
+Registra-se que a norma citada no acórdão recorrido foi disposta no § 4º do art. 218 do CPC, e não aquela apontada como violada, prevista no § 3º do mencionado dispositivo legal, não havendo, pois, ao contrário do sustentado pelo embargante, como se cogitar, na espécie, da ocorrência de prequestionamento numérico.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
