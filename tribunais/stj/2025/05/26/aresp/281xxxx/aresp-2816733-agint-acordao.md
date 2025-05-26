@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+RELATÓRIO
+Trata-se de agravo interno (fls. 260-269) interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial (fls. 252-256).
+Em suas razões, a parte agravante alega que não busca o reexame de provas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fl. 279).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 252-256):
+Cuida-se de Agravo apresentado por SOLIDARIEDADE - CURITIBA - PR - MUNICIPAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO MONITORIA. PRESTAÇÃO DE SERVIÇOS. PEDIDO INICIAL JULGADO PROCEDENTE. INSURGÊNCIA DA PARTE RÉ. SERVIÇOS DE IMPRESSÃO DE MATERIAL GRÁFICO PARA CAMPANHA ELEITORAL ENVOLVENDO COLIGAÇÃO PARTIDÁRIA. APRESENTAÇÃO DAS RESPECTIVAS NOTAS FISCAIS E RECIBOS DE ENTREGA DO MATERIAL. NEGOCIAÇÃO COMERCIAL QUE ESTAVA AO ENCARGO DA CAMPANHA MAJORITÁRIA, QUE REPASSAVA OS VALORES DO FUNDO PARTIDÁRIO Ã CAMPANHA PROPORCIONAL, INTEGRADA PELA RÉ. PROVA TESTEMUNHAL ASSENTE NESSE SENTIDO, CORROBORADA POR INFORMAÇÃO EXTRAÍDA DO "SITE" DOS REGISTROS PÚBLICOS DE CONTAS DA CAMPANHA DA RÉ. DOCUMENTO PÚBLICO, BUSCADO PELO JUIZ DA CAUSA E JUNTADO NA SENTENÇA. NÃO CARACTERIZAÇÃO COMO DOCUMENTO NOVO. AUSÊNCIA DE OFENSA AO CONTRADITÓRIO E AMPLA DEFESA. POSSIBILIDADE DE O JUIZ PESQUISAR A VERDADE REAL E BEM INSTRUIR A CAUSA. INTELIGÊNCIA DO ART. 370 DO CPC. ASSINATURAS NOS RECEBIDOS QUE TERIAM SIDO APOSTAS POR PESSOAS ESTRANHAS AOS QUADROS DE FUNCIONÁRIOS E COLABORADORES DA RÉ. NÃO COMPROVAÇÃO. TRABALHOS GRÁFICOS QUE FORAM ENCOMENDADOS E RECEBIDOS PELA COLIGAÇÃO, QUE POSTERIORMENTE OS REPASSOU AO RESPECTIVO PARTIDO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, II, do CPC, no que concerne à inobservância do ônus probatório inerente à parte recorrida no que tange à comprovação da contratação do serviço de impressão de material gráfico e efetiva entrega desses produtos durante campanha eleitoral. Apresenta a seguinte argumentação:
+Após a inversão do ônus da prova, coube à parte Recorrida demonstrar o fato constitutivo do seu direito, o que foi provado de forma robusta nos autos pela Recorrente.
+Logo, era obrigatório que a Recorrida apresentasse documentos sólidos que fossem aptos a justificar uma cobrança de R$ 59.754,99 (cinquenta e nove mil, setecentos e cinquenta e quatro reais e noventa e nove centavos) em desfavor da Recorrente.
+Mas nada disso aconteceu nos autos.
+De um PRIMEIRO cariz, da análise apurada dos argumentos veiculados na vergastada sobressai a constatação de que não há prova suficiente para a comprovação da prestação de serviços.
+O acórdão recorrido equivocou-se ao entender que o ônus de prova acerca da regularidade da contratação e entrega dos materiais era do Recorrente (mov. 15.1-TJ/PR):
+ ..
+Ocorre que a Recorrente, cujo ônus de comprovar a regularidade da cobrança e do protesto lhe incumbia, trouxe aos autos comprovantes de entrega com assinaturas de pessoas não reconhecidas por nenhumas das testemunhas ouvidas em Juízo, no sentido de que trabalhou em toda a campanha e desconhece todas as pessoas que supostamente assinaram os recibos de entrega.
+A decisão ora recorrida violou o artigo 373, II do Código de Processo Civil ao não reconhecer que cabia à parte Recorrida a prova da celebração do contrato e da efetiva entrega dos materiais.
+ ..
+No presente contexto, a ausência de assinaturas de representantes da Recorrente no comprovante de entrega não apenas viola esse preceito fundamental, mas também com- promete a essência da boa-fé que deveria reger a conduta das partes contratantes, e com isso, percebe-se a ausência de manifestação de vontade válida pelas partes.
+ ..
+Portanto, resta demonstrado que não houve uma contratação do serviço da Re- querida para a impressão do material de campanha contratado exclusivamente pela campa- nha majoritária.
+O ônus probatório, conforme estabelecido legalmente, repousa exclusivamente sobre a Recorrida no que tange à comprovação da contratação do serviço. Contudo, a aná- lise detida dos autos revela uma lacuna probatória substancial, uma vez que não foram apresentadas evidências capazes de respaldar a alegação de que a transação ocorreu con- forme afirmado.
+Diante dessa falha na produção de prova, torna-se evidente que a Recorrida não cumpriu o ônus que lhe foi atribuído, reforçando a violação do art. 373, II, do CPC (fls. 201-203).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 10 e 370 do CPC, no que concerne à nulidade da sentença proferida nos autos ante o cerceamento do seu direito de defesa, porquanto, houve prolação de decisão surpresa embasada em documento novo carente de análise prévia dos envolvidos. Aponta a seguinte argumentação:
+A Recorrente busca demonstrar que o Magistrado ultrapassou os limites impostos em lei federal ao valer-se de um documento novo nos autos, em sede de sentença e com o objetivo de fundamentá-la.
+ ..
+O que não se revela possível é o julgador suprir a deficiência probatória da parte, exatamente o que ocorreu in casu.
+ ..
+Em razão do exposto, é notório que a conduta do Juízo a quo não foi adequada, tendo em vista que buscou suprir a deficiência probatória da parte, vez que utilizou a captura de tela de maneira surpresa na sentença com o intuito de melhor fundamentá-la, restando evidente a violação do art. 370 do CPC.
+De uma QUARTA perspectiva de análise, a Recorrente busca demonstrar que o Juiz a quo não obedeceu aos termos legais do art. 10 do CPC, vez que impediu as partes de se manifestarem sobre o novo conteúdo encartado na sentença.
+ ..
+A Recorrente teve cerceada pelo Juízo sentenciante a oportunidade processual de se manifestar e apresentar suas razões sobre o novo documento trazido em sentença, o que, por certo, incutiria no mérito de toda a questão dos autos.
+Desse modo, impõe-se que, no caso, o juiz deveria ter concedido a oportunidade de manifestação para as partes acerca do novo documento incluído no processo em sede de sentença, sob pena de violar o artigo supramencionado (fls. 209-210).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A detida análise do acervo probatório revela que a Apelante não logrou apresentar elementos hábeis a desconstituir a bem lançada sentença, pois nem sequer impugnou, de forma específica, os fundamentos esposados pela Juíza da causa como razão de decidir.
+ ..
+Fato é que inexiste, no presente caso, contrato escrito de prestação de serviços, visto que a cobrança está amparada apenas em notas fiscais, de modo que se revela de suma importância o exame da prova oral produzida em Juízo, porquanto a análise da existência de contratação e a efetiva prestação dos serviços se dá no plano dos fatos, sendo certo que, em havendo início de prova escrita, a prova testemunhal deve ser admitida como subsidiária ou complementar.
+ ..
+Assim, embora as testemunhas ouvidas tenham evidenciado que o partido Solidariedade não tinha caixa ou autonomia para contratação direta de serviços gráficos, os depoimentos forma unânimes no sentido de que o responsável pela contratação de tais serviços estava ao encargo de Marcelo Victorino , o qual declarou expressamente que promoveu a contratação da Gráfica SPEEDGRAF para Nunes confeccionar material de campanha da coligação que e a Autora integrava nas eleições de 2020, e que repassou ao Solidariedade os valores respectivos.
+Não bastasse isso, a r. sentença bem esclareceu que, mediante consulta aos registros públicos de contas de campanha do partido Solidariedade (https://divulgacandcontas.tse.jus.br/divulga/#/ - acessado em 24/11/2023), foi possível confirmar o repasse do valor exato referido pela testemunha Marcelo , e justamente na data indicada por ela. Victorino Nunes
+ ..
+Quanto a alegação da Apelante, de que os comprovantes de entrega do material terem sido assinados por pessoas que afirma serem estranhas, e desconhecidas das testemunhas ouvidas em Juízo, constata-se que esse argumento não se presta como meio idôneo para comprovar que o material não foi entregue.
+A uma, porque ela não logrou demonstrar que tais pessoas eram, de fato, estranhas ao partido Solidariedade e ao partido majoritário coligado (PSL), ou seja, não apresentou a relação do quadro de funcionários e de colaboradores que atuaram na campanha daquele ano. A duas, porque, conforme a sentença, tal cenário ocorreu justamente pelos trabalhos gráficos terem sido encomendados e recebidos pela Coligação, que os repassava ao respectivo partido posteriormente.
+Conclui-se, destarte, que a Autora/Apelada logrou apresentar elementos aptos a comprovar a existência da contratação e da efetiva prestação dos serviços, sem a devida contraprestação pecuniária, de modo que a r. sentença está a merecer integral ratificação (fls. 185-190, grifos meus).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.4.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13.8.2020; AgInt no AREsp 1.060.371/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17.8.2020; e REsp 1.812.278/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 29.10.2019.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+E nem se diga que se trata de documento novo, sobre o qual não foi dado às partes a oportunidade de se manifestar, conforme alegado pela Apelante, pois a r. sentença bem evidenciou que tais dados foram extraídos dos "registros públicos de contas da campanha da Autora", que, obviamente, são de livre acesso ao cidadão comum, de modo que não subsiste a alegação de que houve ofensa ao contraditório e à ampla defesa.
+ ..
+Em verdade, o processo possui uma dupla finalidade: uma de natureza pública e outra, privada.
+Privada, quando objetiva a solução da lide; pública quando a prestação jurisdicional do Estado-Juiz tenha por desiderato a paz social.
+E, diante da feição publicista do processo, hodiernamente não se admite mais o juiz como mero espectador da contenda judicial.
+É que, uma vez reconhecida a autonomia do direito processual, e consolidada a sua natureza de direito público, a função jurisdicional ordinária torna-se um poder-dever estatal, na qual se enfeixam os interesses particulares e os do próprio Estado.
+Por isso é possível afirmar que é através da regra do art. 370 da nossa Lei Processual Civil, que trata dos chamados poderes instrutórios gerais do juiz, que se vê a visão social do processo.
+ ..
+Como se vê, está explícita a autorização para o juiz pesquisar, investigar a verdade, para constatar da veracidade do que foi produzido pelas partes (fls. 188-189, grifos meus).
+Logo, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Dessarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+A propósito: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+Conforme destacado na decisão agravada, o Tribunal de origem concluiu pela correta observância do ônus probatório e pela ausência de cerceamento de defesa.
+Modificar o entendimento do acórdão impugnado demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
