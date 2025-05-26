@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  GILSON  LIBÓRIO  DE  OLIVEIRA  MENDES  contra  decisão  que  negou  seguimento  ao  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fls.  390/400,  e-STJ):
+Dano  moral.  Interesse  de  agir.  Condição  da  ação.  Teoria  da  asserção.  Imputação  da  prática  de  crimes.  Livre  manifestação  do  pensamento.  Não  incidência.  Nota  de  retratação.  Jornal  de  grande  circulação.  Honorários  advocatícios:  ausente  condenação,  os  honorários  advocatícios  obedecem  ao  CPC  85,  §  2º.  CPC.  Vedação  reformatio  in  pejus.
+Em  suas  razões  recursais,  a  recorrente/exequente  alega  violação  ao  art.  85,  §  2º,  do  CPC.  Aduz  que:  "( )  há  notória  agressão  ao  texto  legal  acima  indicado  a  medida  em  que  impõe  ao  recorrente  a  condenação  ao  pagamento  de  honorários  sucumbenciais  tomando  por  base  o  valor  da  causa  e  não  o  valor  da  condenação  como  expõe  o  art  85  do  CPC".  Por  fim,  destaca  o  Tema  Repetitivo  1.076/STJ  e  pede  que  os  honorários  sejam  fixados  com  base  no  valor  da  condenação.
+A  recorrida,  devidamente  intimada,  quedou-se  inerte  (fl.  479,  e-STJ).
+Assim  posta  a  questão,  passo  a  decidir.
+Presentes  os  pressupostos  de  admissibilidade  e  ultrapassado  o  limite  do  conhecimento  do  presente  recurso,  verifico  que  não  deve  ser  provido.
+No  caso  dos  autos,  sobreveio  sentença  parcialmente  procedente  para  condenar  a  ré  a  publicar  retratação  em  dois  jornais  e  a  pagar  R$  15.000,00  por  danos  morais.  A  recorrente  opôs  embargos  de  declaração,  parcialmente  acolhidos.  Em  seguida,  a  autora  e  uma  das  rés  (ASSOCIAÇÃO  DOS  METALÚRGICOS  ANISTIADOS  E  ANISTIANDOS  DO  ABC  -  AMA-A)  apelaram.  O  Tribunal  de  origem  negou  provimento  a  ambos  os  apelos.  Diante  disso,  a  recorrente  interpôs  recurso  especial,  que  não  foi  admitido  pela  Corte  local.  Irresignada,  a  recorrente  interpôs  o  presente  agravo  em  recurso  especial.
+Desse  modo,  cinge-se  a  controvérsia  à  fixação  dos  honorários  advocatícios  com  base  no  valor  condenação,  nos  termos  do  art.  85,  §  2º,  do  CPC.
+Quanto  aos  honorários,  é  fato  incontroverso  que  as  verbas  sucumbenciais  são  devidas  em  casos  de  condenação.  Entretanto,  é  importante  que  a  fixação  dos  honorários  leve  em  consideração  o  regramento  do  Código  de  Processo  Civil,  acerca  dos  percentuais  e  bases  de  cálculo  cabíveis.
+Com  efeito,  o  acórdão  recorrido  fundamentou  que:
+"Por  fim,  quanto  aos  honorários  de  sucumbência,  estes  devem  ser  fixados  sobre  o  valor  da  causa,  isso  porque  em  relação  à  primeira  e  segunda  rés  não  houve  condenação.
+A  fortiori,  mesmo  que  o  Juízo  a  quo  tivesse  confundido  as  rés,  o  que  não  foi  o  caso,  primeira  ré  (Associação  dos  Metalúrgicos  do  ABC  -  AMA)  e  segunda  ré  (Associação  dos  Aposentados,  Pensionistas  e  Anistiados  da  Petrobrás  e  Subsidiárias  do  Estado  do  RJ),  tal  fato  não  afastaria  a  condenação  do  autor  em  pagar  honorários  advocatícios  para  a  primeira  ré,  que,  no  presente  feito,  foi  excluída  da  demanda  (id  17995832).
+Nesse  sentido,  confira-se  elucidativa  explicação  realizada  pelo  Juízo  a  quo  na  decisão  dos  declaratórios  lá  opostos  (id  17995888,  pág.  2):
+A  sentença  expressamente  consignou  que  deverá  o  autor  suportar  o  ônus  da  sucumbência  em  relação  à  primeira  requerida  ASSOCIAÇÃO  DOS  METALÚRGICOS  APOSENTADOS  DO  ABC,  ante  a  sua  exclusão  da  demanda.
+Ainda,  julgou  improcedente  o  pedido  em  relação  à  segunda  requerida  ASSOCIAÇÃO  DOS  TRABALHADORES  APOSENTADOS,  PENSIONISTAS  E  ANISTIADOS  DA  PETROBRAS  E  SUBSIDIARIAS  NO  ESTADO  DO  RJ.
+Ressalto  que  não  houve  a  inclusão  da  Associação  Brasileira  de  Políticos  Anistiados  no  dispositivo  da  sentença,  ante  a  realização  de  acordo  entre  as  partes.
+Por  outro  lado,  consta  erro  material  no  dispositivo  da  sentença,  visto  que  o  autor  deve  arcar  com  honorários  advocatícios  em  favor  da  primeira  e  segunda  requeridas,  e  não  da  terceira  requerida,  conforme  constou.  Grifei
+É  dizer,  a  exclusão  da  primeira  ré  da  demanda,  ainda  que  substituída  por  outra,  não  afasta  os  honorários  advocatícios,  que,  na  hipótese,  serão  pagos  pelo  autor.
+Essa  é  a  inteligência  do  CPC  338,  parágrafo  único:
+Art.  338.  Alegando  o  réu,  na  contestação,  ser  parte  ilegítima  ou  não  ser  o  responsável  pelo  prejuízo  invocado,  o  juiz  facultará  ao  autor,  em  15  (quinze)  dias,  a  alteração  da  petição  inicial  para  substituição  do  réu.
+Parágrafo  único.  Realizada  a  substituição,  o  autor  reembolsará  as  despesas  e  pagará  os  honorários  ao  procurador  do  réu  excluído,  que  serão  fixados  entre  três  e  cinco  por  cento  do  valor  da  causa  ou,  sendo  este  irrisório,  nos  termos  do  art.  85,  §  8º.  Grifei
+Observa-se,  porém,  que  os  honorários  advocatícios  ao  procurador  da  ré  excluída  deveriam  ter  sido  fixados  em  3%  e  5%  do  valor  da  causa  ou,  se  irrisório,  na  forma  do  CPC  85,  §  8º.
+Ausente  impugnação  da  parte  contrária  mantém-se  como  arbitrados  na  sentença  recorrida,  sob  pena  de  reformatio  in  pejus,  na  medida  em  que  pagará  10%  sobre  200  salários  mínimos  para  as  duas  rés,  e  não  3%  ou  5%  sobre  o  valor  da  causa  (200  salários  mínimos)  para  uma  e  10%  sobre  o  valor  da  causa  para  a  outra  ré,  o  que  resultaria  num  valor  ainda  maior.
+Posto  isso,  nego  provimento  a  ambos  os  apelos".
+Dessa  forma,  consignou-se  que  os  honorários  de  sucumbência,  devem  ser  fixados  sobre  o  valor  da  causa,  pois  não  houve  condenação  em  relação  à  primeira  e  à  segunda  rés.  A  exclusão  da  primeira  ré  da  demanda  não  afasta  a  obrigação  do  autor  de  pagar  honorários  advocatícios,  conforme  previsto  no  art.  338,  parágrafo  único,  do  CPC.  Nesse  caso,  os  honorários  advocatícios  deveriam  ser  fixados  entre  3%  e  5%  do  valor  da  causa.  Contudo,  como  não  houve  impugnação  da  parte  contrária,  manteve-se  a  fixação  em  10%  sobre  o  valor  da  causa  para  as  duas  rés,  para  evitar  reformatio  in  pejus.
+A  fixação  de  honorários  advocatícios  sobre  o  valor  da  causa  fundamenta-se  na  ausência  de  condenação  em  relação  à  primeira  e  à  segunda  rés,  o  que  inviabiliza  a  revisão  da  matéria  em  sede  de  recurso  especial,  nos  termos  da  Súmula  7  do  STJ.
+Há  diversos  precedentes  do  STJ  sobre  o  tema:
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS.  CPC/2015.  BASE  DE  CÁLCULO.  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  PREQUESTIONAMENTO.  AUSÊNCIA.
+( )
+2.  A  revisão  do  entendimento  do  aresto  hostilizado  no  tocante  à  existência  de  condenação  a  obrigação  de  pagar  no  título  objeto  de  cumprimento  esbarra  no  óbice  da  Súmula  7  do  STJ,  uma  vez  que  o  Tribunal  de  origem  decidiu  a  questão  com  base  na  realidade  fático-probatória  dos  autos.
+( )
+4.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.549.872/MT,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  julgado  em  7/4/2025,  DJEN  de  11/4/2025).
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  VALOR  DA  CAUSA.  IMPUGNAÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  BASE  DE  CÁLCULO.  INCIDENTE  PROCESSUAL.  CAUSALIDADE.  SÚMULA  Nº  83/STJ.  VALOR.  RAZOABILIDADE.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  ACÓRDÃO  RECORRIDO.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.
+( )
+5.  No  caso,  rever  a  conclusão  do  tribunal  de  origem  quanto  à  falta  de  razoabilidade  do  valor  pretendido  a  título  de  honorários  advocatícios  é  providência  que  esbarra  na  Súmula  nº  7/STJ.
+6.  Agravo  interno  não  provido.
+(AgInt  no  REsp  n.  1.987.084/PA,  relator  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  4/12/2023,  DJe  de  7/12/2023).
+Logo,  não  existe  razão  para  o  arbitramento  de  verbas  sucumbenciais  de  forma  diversa  à  fixada  pelas  instâncias  ordinárias.  Em  outras  palavras,  o  Tribunal  de  origem  aplicou  corretamente  a  regra  inserta  no  art.  85,  do  CPC.
+Em  face  do  exposto,  não  havendo  o  que  reformar,  nego  provimento  ao  agravo  em recurso  especial.
+Intimem-se.
+EMENTA
