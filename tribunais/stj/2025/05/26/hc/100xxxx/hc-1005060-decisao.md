@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WENDER LUIZ PEREIRA SOBRINHO contra o TRIBUNAL DE JUSTIÇA DE SÃO PAULO ante o julgamento do Agravo em Execução n. 0002303-80.2025.8.26.0496.
+Narram os autos que o procedimento administrativo disciplinar foi instaurado em desfavor do paciente para apurar o cometimento de falta disciplinar consistente na imputação de manter em sua posse bilhetes com anotações não permitidas (RL, contabilidade e etc.) na data de 4/6/2024 (fl. 93).
+A defesa alega aqui que a conduta imputada ao paciente não se amolda como àquela de natureza grave prevista junto ao art. 50, inciso VI, c/c o art. 39, inciso II, ambos da Lei n. 7.210/84, uma vez que em momento algum restou caracterizada qualquer conduta de desobediência ou de desrespeito a qualquer ordem emanada dos agentes de polícia penal, mas sim e tão somente a conduta de manter em sua posse anotações impróprias, a qual se amolda a uma daquelas, de natureza média, previstas junto ao art. 45, incisos VII, XII ou XIII, da Resolução SAP 144 de 29/6/2010 (fl. 9).
+Requer, assim, a concessão da ordem para que seja desclassificada a conduta faltosa irrogada ao Paciente junto ao Procedimento Administrativo Disciplinar n. 088/2024, homologada junto a Execução de Pena n. 0009163-68.2023.8.26.0496 e objeto do Agravo em Execução n. 0002303-80.2025.8.26.0496, daquela prevista junto ao art. 50, inciso VI c/c art. 39, inciso II, ambos da Lei 7.210/84 para uma daquelas, de natureza média, previstas junto ao art. 45, incisos VII, XII ou XXIII, da Resolução SAP 144 de 29/06/2010 (fl. 10).
+É o relatório.
+Não tem cabimento o presente writ, afinal a ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No Superior Tribunal de Justiça, é pacífico o entendimento de que a via do habeas corpus é imprópria para a análise das teses de insuficiência probatória, responsabilização disciplinar coletiva, atipicidade da conduta ou desclassificação da conduta, dada a necessidade de incursão na seara fático-probatória, incabível nesta sede (AgRg no HC n. 328.288/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/3/2017 - grifo nosso).
+Sobre o tema, ainda estes precedentes: AgRg no HC n. 962.840/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 9/5/2025; e AgRg  no  HC  n. 562.216/SP,  Ministro Reynaldo Soares da Fonseca,  Quinta Turma,  DJe  2/6/2020.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. DESCLASSIFICAÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA
+Writ indeferido liminarmente.
