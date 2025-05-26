@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. AÇÃO REVISIONAL DE CONTRATO. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREVIDÊNCIA PRIVADA COMPLEMENTAR. ONEROSIDADE EXCESSIVA. VERIFICAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO CONTRATUAL. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento.
+3. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova pericial requerida pela parte em virtude da suficiência dos documentos dos autos.
+4. A revisão das matérias referentes à existência de onerosidade excessiva na contratação demanda a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno provido para reconsiderar a decisão e-STJ fls. 1.054-1.055 para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por EVIDENCE PREVIDÊNCIA S.A. contra decisão que não conheceu do agravo em recurso especial porque não foram impugnados todos os fundamentos da decisão que não admitiu o apelo nobre, a saber: ausência de afronta ao art. 1.022 do CPC e Súmula 7/STJ (e-STJ fls. 1.054-1.055).
+Nas razões do agravo (e-STJ fls. 1.058-1.061), a agravante sustenta em síntese, que demonstrou a inaplicabilidade da Súmula nº 7/STJ. Aduz que o tribunal da origem descreveu a situação fática para a nova valoração jurídica, tornando desnecessário o revolvimento do conjunto fático-probatório dos autos.
+Alega que declinou as razões pelas quais houve efetiva violação do art. 1.022 do CPC, tendo em vista a omissão quanto a inteligência e aplicabilidade dos artigos 17, 58 e 28 da Lei Complementar nº 109/2001.
+Ao final, pugna pela reforma da decisão atacada.
+Sem impugnação (e-STJ fls. 1.062).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. AÇÃO REVISIONAL DE CONTRATO. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREVIDÊNCIA PRIVADA COMPLEMENTAR. ONEROSIDADE EXCESSIVA. VERIFICAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO CONTRATUAL. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento.
+3. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova pericial requerida pela parte em virtude da suficiência dos documentos dos autos.
+4. A revisão das matérias referentes à existência de onerosidade excessiva na contratação demanda a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno provido para reconsiderar a decisão e-STJ fls. 1.054-1.055 para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de e-STJ fls. 1.04-1.055 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PREVIDÊNCIA PRIVADA. Sentença de improcedência.
+CERCEAMENTO DE DEFESA. Processo suficientemente instruído. Preliminar afastada.
+REVISÃO DE BENEFÍCIO. Autora que é entidade aberta de previdência complementar. Alegação de alterações nas taxas de juros, expectativa de vida e de exigências do órgão regulamentador. Fatos que fazem parte do risco da atividade. Aplicação da teoria da imprevisão que se mostra descabida. Termos fixados unicamente pela autora, tendo a ré apenas aderido ao contrato. Precedentes deste E. Tribunal.
+VERBAS DE SUCUMBÊNCIA. Afastadas. Ré revel. Recurso provido em parte somente para afastar a condenação da requerente ao pagamento das verbas de sucumbência" (e-STJ fl. 981).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 999-1.002).
+Nas razões do especial (e-STJ fls. 1.005-1.027), a recorrente aponta negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022, I, do CPC - nulidade do acórdão por não suprir a omissão apontada nos aclaratórios, especialmente, no que diz respeito à aplicação ao caso concreto do quanto disposto nos artigos 17, 68 e 28 da Lei Complementar nº 109/2001;
+(ii) art. 373, I, do CPC - cerceamento de defesa ante a necessidade de produção de prova pericial atuarial essencial para o deslinde da controvérsia, e
+(iii) arts. 317, 478, 479 e 480 do Código Civil - necessidade de serem observados, de maneira objetiva, os pressupostos para o reconhecimento da onerosidade excessiva.
+No ponto, afirma que o aresto atacado "ao negar a revisão do contrato ou sua resolução, estará por prejudicar a totalidade dos participantes do Plano de FGB que está correndo risco de liquidação em razão da onerosidade excessiva" (e-STJ fl. 1.024).
+Ressalta que o Código de Defesa do Consumidor "não veda a revisão e rescisão de contratos. Isto porque NÃO EXISTE CONTRATO ETERNO/ABSOLUTO NA LEGISLAÇÃO BRASILEIRA" (e-STJ fls. 1.026).
+Sem contrarrazões (e-STJ fl. 1.030).
+A irresignação não merece prosperar.
+Verifica-se que é inviável o acolhimento da tese recursal relativa à suposta violação do art. 1.022 do Código de Processo Civil.
+De fato, extrai-se dos autos que o tribunal de origem agiu corretamente ao rejeitar os declaratórios opostos pela recorrente, ora agravante, não subsistindo nenhuma omissão, contradição ou obscuridade no acórdão embargado, ficando patentes, em verdade, o propósito infringente dos aclaratórios e a pretensão da embargante de obter do colegiado julgador pronunciamento acerca de manifestação explícita a respeito de temas que já haviam sido suficientemente abordados pela Corte local.
+É o que se constata do seguinte trecho do acórdão atacado:
+"(..)
+Trata-se de contrato firmado entre entidade aberta de previdência complementar e a ré, beneficiária.
+Alega a autora fatores de imprevisibilidade, como o aumento da expectativa de vida e queda da taxa de juros, que alteraram o equilíbrio econômico-financeiro do contrato.
+Não há, nos autos, indicativo de que, de fato, tenha ocorrido desequilíbrio econômico-financeiro no cumprimento do contrato existente, certo que, a apelante contou com toda sua expertise de mercado para a elaboração do contrato, que foi meramente aceito pela beneficiária.
+Fatores como a regulação do mercado em que a apelante atua, tábua biométrica defasada, exigência de aporte financeiro pelo órgão regulador e alteração da taxa de juros tratam-se, em realidade, de fatores inerentes ao risco da atividade exercida.
+Desta forma, não há como se abrir a possibilidade de interferência legítima do Poder Judiciário na espécie, uma vez que esta somente se justifica em casos absolutamente especialíssimos em que possível a incidência da teoria da imprevisão, o que não está comprovado no caso concreto.
+Conforme bem aduzido pelo juízo a quo: "Eventual mudança no cenário socioeconômico, aumento da expectativa de vida, não podem ser considerados como fatos imprevisíveis, consistindo risco do negócio entabulado pela autora ao oferecer seu produto no mercado de consumo. Ademais, a requerida arcou regularmente com a prestação assumida sendo surpreendida com a pretensão de repactuação ou resolução do negócio, em razão da desvantagem econômica apontada. Invoca a autora a Teoria da Imprevisão para repactuar ou resolver o plano FGB (Fundo Garantidor de Benefício) sustentando a ocorrência de mudança significativa no cenário socioeconômico do país, como a expressiva queda da taxa de juros e aumento da expectativa de vida da população. Contudo, nos termos dos artigos 317 e 478 do Código Civil acima transcritos, a revisão ou a resolução contratual dependem da ocorrência de eventos extraordinários e imprevisíveis, circunstâncias que não estão presentes no caso, respeitado entendimento diverso."(fls. 893).
+Neste ponto, por qualquer ângulo que se analise a demanda tal qual posta, imperioso reconhecer que o decisum vergastado não merece retoques, eis que avaliou corretamente os elementos de fato e de direito trazidos pelos litigantes" (e-STJ fl. 984-985).
+Como consabido, a estreita via dos declaratórios não se presta à reforma do julgado impugnado.
+Ademais, ressalta-se que o órgão julgador não está obrigado a se pronunciar a respeito de todo e qualquer ponto suscitado pelas partes, mas somente acerca daqueles considerados suficientes para fundamentar sua decisão.
+A motivação contrária ao interesse da parte, ou mesmo omissa quanto aos pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos de declaração. Dessa maneira, não se revela configurada a aludida negativa de prestação jurisdicional.
+Por fim, o tribunal de origem afastou o alegado cerceamento de defesa, conforme se extrai do seguinte excerto:
+"(..) os elementos trazidos ao caderno processual mostraram-se suficientes para a análise das questões colocadas pelas partes, não assistindo razão à autora quando requer produção de outras provas, tal como a perícia atuarial" (..) Ação revisional de contrato. Previdência privada. Contrato de Fundo Garantidor de Benefício FGB. Revisão com fundamento em onerosidade excessiva provocado por condições econômicas envolvendo queda da taxa de juros, aumento da expectativa de vida e imposições regulatórias do ramo de atuação. Sentença de improcedência. Inconformismo da parte autora. Preliminar. Cerceamento de defesa. Inocorrência. Inutilidade do meio de prova pretendido, pois a perícia atuarial tem como pressuposto a demonstração da ocorrência de fatos extraordinários e imprevisíveis" (e-STJ fls. 983 - grifou-se).
+Dessa maneira, sendo o nosso sistema processual civil orientado pelo princípio do livre convencimento motivado, ao magistrado é permitido formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, de forma que a intervenção do Superior Tribunal de Justiça quanto a tal valoração esbarra na Súmula nº 7/STJ.
+Além disso, não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção de prova requerida pela parte em virtude da suficiência dos documentos dos autos.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA ABERTA. RESCISÃO CONTRATUAL E REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO DECENAL. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE PROVAS. INADMISSIBILIDADE. SÚMULA Nº 7/STJ. ALTERAÇÃO UNILATERAL DE CONTRATO. INDEVIDA CONVERSÃO DE PLANO DE PREVIDÊNCIA PRIVADA EM AVENÇA SECURITÁRIA (PECÚLIO). PRINCÍPIO DA BOA-FÉ OBJETIVA. INOBSERVÂNCIA.
+1. Na hipótese de ação de rescisão de contrato firmado com entidade de previdência privada, cumulada com repetição de indébito, incide a prescrição decenal do Código Civil, uma vez configurada relação obrigacional de natureza pessoal (afastando-se pretensão puramente previdenciária).
+2. É possível o julgamento antecipado da lide quando o magistrado entender substancialmente instruído o feito, declarando a existência de provas suficientes para o seu convencimento. Os princípios da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. Rever os fundamentos de não reconhecimento do cerceamento de defesa por ter sido a lide julgada antecipadamente demanda a reapreciação do conjunto fático-probatório dos autos, o que é inadmissível em recurso especial, a teor da Súmula nº 7/STJ.
+(..)" (AgInt no REsp nº 1.790.652/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/8/2024, DJe de 14/8/2024- grifou-se).
+Superados tais pontos, todas as demais alegações da recorrente buscam modificar a conclusão do julgado alicerçada no acervo fático-probatório dos autos.
+Com efeito, concluiu-se pela inexistência de onerosidade excessiva na contratação.
+Assim, inviável rever os fundamentos adotados, por óbice das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. AÇÃO REVISIONAL DE CONTRATO. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREVIDÊNCIA PRIVADA COMPLEMENTAR. ONEROSIDADE EXCESSIVA. VERIFICAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO CONTRATUAL. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento.
+3. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova pericial requerida pela parte em virtude da suficiência dos documentos dos autos.
+4. A revisão das matérias referentes à existência de onerosidade excessiva na contratação demanda a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido." (AgInt no AREsp n. 2.518.884/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 1.054-1.055 para, em novo exame, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
