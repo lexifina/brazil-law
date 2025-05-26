@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/05/2025 a 26/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ANSELMO CARVALHO XIMENES contra o acórdão dessa Primeira Turma que acolheu os embargos de declaração do Ministério Público do Estado do Rio de Janeiro, com efeitos modificativos, para limitar a improcedência ao pedido condenatório por improbidade administrativa, mantendo a declaração de nulidade dos atos administrativos e a correspondente decretação da perda do cargo de médico municipal.
+A parte embargante alega, em resumo, que a decisão embargada é omissa ao não considerar que a perda do cargo de médico estava diretamente ligada aos atos de improbidade administrativa, que foram declarados inexistentes.
+Anselmo sustenta que, sem improbidade administrativa, não há fundamento legal para a perda do cargo, e que a nulidade do estágio probatório não poderia resultar na perda do cargo exercido há mais de 20 anos.
+Impugnação apresentada às fls. 1103/1109.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 1.079/1.081):
+O Ministério Público foi claro ao formular na inicial da ação civil pública em que postulou a condenação do réu às penas por improbidade administrativa e, ainda, a anulação de atos administrativos ligados ao estágio probatório, à nomeação e à posse de Anselmo Carvalho Ximenes no cargo de Médico Gastroenterologista.
+Na causa de pedir, o autor afirmou que o réu havia sido nomeado em 30 de abril de 1998 pela Portaria 640/1998, data em que já exercia o mandato de Vice- Prefeito de Rio Bonito/RJ.
+Sustentou, ainda, que "o MUNICÍPIO DE RIO BONITO é arrolado no pólo passivo da demanda porque um dos pedidos ora veiculados é o da nulidade do ato que confirmou o estágio experimental travado entre este e o Senhor Anselmo Carvalho Ximenes" (fl. 11).
+Por fim, ao formular os pedidos, arrematou (fl. 16):
+4. Seja julgado procedente o pedido com a decretação da nulidade do boletim de avaliação de estágio e da portaria 640/98 referente ao ato 1140 de 17 de junho de 1997;
+5. Seja, ainda, julgado procedente o pedido, acolhendo-se a pretensão ora deduzida, para reconhecer a prática dos atos de improbidade administrativa previstos no art. 11, caput e inciso I, da Lei nº 8429/92, aplicando-se aos demandados as sanções previstas no art. 12, III e parágrafo único da mesma lei  .. .
+Quando da prolação da sentença, bem se vê que Anselmo, quando da indicação das penas aplicadas, não foi condenado à perda da função pública. Houve, sim, a declaração de nulidade de todos os atos administrativos de avaliação de estágio experimental, nomeação e posse do réu no cargo de médico e, por isso, decretou-se a perda do cargo.
+A propósito (fl. 500):
+Diante do exposto, nos termos do art. 269, I, do CPC, JULGO PARCIALMENTE PROCEDENTE o pedido formulado na inicial, e, com fulcro no artigo 11, caput e inciso I, da Lei 8.429/92, CONDENO os réus PAULO SÉRGIO OSÓRIO RODRIGUES e ANSELMO CARVALHO XIMENES nas penas cumulativas do artigo 12, III, da mesma lei, razão pela qual suspendo seus direitos políticos pelo prazo de 05 (cinco) anos; fixo a multa civil a ser paga por cada um dos réus condenados em 10 (dez) vezes o valor da remuneração percebida por eles e proíbo-os de contratarem com o Poder Público ou receberem benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual sejam sócios majoritários, pelo prazo de 03 (três) anos. DECRETO A NULIDADE de todos os atos administrativos de avaliação de estágio experimental e posse do réu ANSELMO CARVALHO XIMENES no cargo efetivo de médico, em especial do BOLETIM DE AVALAÇÃO DE ESTÁGIO e da PORTARIA Nº. 640/98, referente ao ato 1140 de 17 de junho de 1997, cujas cópias se encontram acostadas às fls. 265/266 e, por conseguinte, DECRETO A PERDA DO CARGO de médico do Município de Rio Bonito em relação ao réu ANSELMO CARVALHO XIMENES.
+O Tribunal de Justiça, do mesmo modo, entendeu estar presente um cúmulo de ações, apreendendo os pedidos de forma autônoma (fl. 617):
+In casu, entendo que as sanções aplicadas aos réus, quais sejam, a suspensão dos direitos políticos pelo prazo de 05 anos; a de multa civil correspondente a 10 vezes o valor da remuneração percebida por eles, e proibição de contratarem com o Poder Público ou receberem benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual sejam sócios majoritários, pelo prazo de 03 anos, afiguram-se proporcionais às ímprobas condutas e ao resultado inibidor legitimamente almejado.
+ ..
+De igual modo, entendo não comportar reparos a sentença, ao reconhecer a nulidade dos atos administrativos de avaliação, aprovação e posse do réu Anselmo no cargo efetivo de médico, porquanto, os aludidos atos foram praticados em violação aos primados reitores da Administração Pública, e a ação também fora proposta em face do Município de Rio Bonito, que sequer insurgiu-se quanto ao pleito, não se imiscuindo quanto ao mérito da questão.
+Diante da independência entre as pretensões formuladas pelo Ministério Público, a abolição da tipicidade da conduta decorrente da superveniência da Lei 14.230/2021 e, assim, a improcedência do pedido condenatório por improbidade administrativa não influiriam na declaração de nulidade dos atos administrativos de cumprimento do estágio e de nomeação e posse do servidor.
+O recurso especial formulado por Anselmo, ademais, limitou-se a defender a violação ao art. 535 do CPC/1973 (tendo em vista a ausência da devida dosimetria das penas) e ao art. 12 da Lei de Improbidade Administrativa (LIA) em decorrência de excesso na sua aplicação, diante da ausência de prejuízo ao erário ou proveito patrimonial ao recorrente.
+Não houve a devida impugnação da declaração de nulidade dos atos administrativos correspondentes ao estágio experimental e à nomeação e à posse do servidor por violação aos princípios da administração mediante a afirmação falsa de que não exercia função pública inacumulável, a assinatura dos cartões de ponto sem a prestação das atividades do cargo e a ausência de cumprimento do estágio experimental, remanescendo incólume esse capítulo do acórdão.
+A respeito da questão apontada no recurso ora examinado, a PRIMEIRA TURMA expressamente manifestou-se acerca de um cúmulo de ações e, assim, da possibilidade de a improcedência do pedido condenatório por improbidade conviver com a declaração de nulidade dos atos que deram pelo cumprimento do estágio e de nomeação e posse do servidor, considerada a indevida acumulação de cargos e, ademais, não ter sido, a declaração de nulidade, devidamente impugnada no recurso especial .
+Como se vê, ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
