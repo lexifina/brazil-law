@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS HENRIQUE DE OLIVEIRA COLTURATO contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido nos autos do Habeas Corpus Criminal n. 2074223-16.2025.8.26.0000.
+Com efeito, busca a impetração o trancamento da Ação Penal n. 1500096-44.2025.8.26.0622 ou a declaração da ilicitude dos objetos apreendidos, ao argumento de nulidade da busca pessoal e domiciliar realizada por guardas municipais, uma vez que houve um desvirtuamento da função dos referidos agentes.
+Aduz que os policiais atuaram, no caso, como polícia preventiva. Afinal, agiram, realizando busca pessoal e domiciliar, para reprimir crimes em geral, sem qualquer relação direta com bens, instalações ou serviços municipais, sem competência constitucional para tanto.
+Requer, assim, o trancamento da ação penal ou o reconhecimento da ilicitude das provas que deflagraram a presente ação penal.
+É o relatório.
+Além de se tratar de writ destinado a revisar fatos que foram analisados pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento.
+Em 20/2/2025, o Supremo Tribunal Federal julgou o Recurso Extraordinário n. 608.588, fixando a seguinte tese de repercussão geral no Tema 656:
+É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.
+Tal entendimento, portanto, permitiu a ampliação da atuação das guardas municipais na atividade de prevenção e repressão de crimes, o que afasta a exigência, até então constante da jurisprudência do Superior Tribunal de Justiça, de que a atuação das guardas municipais deve ter relação clara, direta e imediata com a proteção de bens, serviços ou instalações municipais, ou de seus usuários.
+Nesse toar, para que seja considerada idônea a abordagem, essa deve ser precedida de fundada suspeita.
+Assim, diante dos atuais limites das atribuições das guardas municipais, conforme o entendimento recente do Supremo Tribunal Federal sobre a matéria, não há ilegalidade na busca pessoal e domiciliar sofrida pelo paciente no caso em análise, uma vez que havia fundada suspeita para justificar a atuação dos agentes públicos, baseada em fato objetivo, conforme descrito na denúncia (fls. 59/60 - grifo nosso):
+Apurou-se que, no dia dos fatos, os Guardas Municipais realizavam patrulhamento de rotina quando visualizaram CARLOS na janela de sua residência, recebendo dinheiro de Sergio e, em contrapartida, entregando-lhe algo em troca.
+Em razão da fundada suspeita da mercancia ilícita, o denunciado foi abordado pela Guarda Civil Municipal. Durante revista pessoal, foram encontradas em seu bolso 20 porções de cocaína acondicionadas em pinos plásticos, sendo 16 fechadas e 04 já abertas, além da quantia de R$ 150,00 (cento e cinquenta reais) em espécie, dividida em duas cédulas de R$ 50,00 e cinco cédulas de R$ 10,00.
+No mesmo instante, outra equipe da GCM abordou Sergio, que é usuário de drogas e havia sido visto entregando dinheiro ao denunciado. Em sua posse, foram encontrados dois pinos e cocaína. Ao ser questionado, Sergio confessou que adquiriu a droga na residência do denunciado pelo valor de R$ 20,00 (vinte reais).
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. SUPOSTA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL E DOMICILIAR REALIZADA POR GUARDAS MUNICIPAIS. TEMA N. 656 DO STF. APLICABILIDADE. FUNDADA SUSPEITA. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Indeferida liminarmente a inicial.
