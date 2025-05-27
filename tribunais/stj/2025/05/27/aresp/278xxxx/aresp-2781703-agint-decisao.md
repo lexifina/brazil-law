@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela KATIA SUSANA FILGUEIRAS RABELO contra decisão monocrática da Presidência desta Corte que não conheceu do recurso especial em razão da intempestividade (fl. 683).
+Embargos de decla ração rejeitados (fls. 704-705).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 234):
+APELAÇÃO CÍVEL. AÇÃO MONITORIA. CONTRATO DE ABERTURA DE CRÉDITO - CDC EMPRÉSTIMO. COMPROVAÇÃO DA DÍVIDA. PREENCHIMENTO DOS REQUISITOS LEGAIS. CAPITALIZAÇÃO MENSAL DE JUROS. PRÁTICA DE ANATOCISMO. POSSIBILIDADE. EXCESSO VALOR DO DÉBITO. NÃO COMPROVAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. 1. CONSOANTE O VERBETE SUMULAR Nº 247 DO STJ, "O CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE, ACOMPANHADO DO DEMONSTRATIVO DE DÉBITO, CONSTITUI DOCUMENTO HÁBIL PARA O AJUIZAMENTO DA AÇÃO MONITORIA". COMPROVADA A EXISTÊNCIA DA DÍVIDA POR MEIO DO EXTRATO E PLANILHA DE EVOLUÇÃO DO DÉBITO, É DO REQUERIDO O ÔNUS DA PROVA DE FATO CONSTITUTIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR. 2. A EXPRESSA PREVISÃO NO CONTRATO, CELEBRADO APÓS A VIGÊNCIA DA MP Nº 2.170-36/2001, DA INCIDÊNCIA DE CAPITALIZAÇÃO MENSAL, VIABILIZA SUA APLICAÇÃO. 3. É PERMITIDA A CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO EM CONTRATOS CELEBRADOS APÓS 31.3.2000, DATA DA PUBLICAÇÃO DA MEDIDA PROVISÓRIA N. 1.963-17 DE 2020. 4. NO CASO, CONSIDERANDO QUE A REQUERIDA APENAS ALEGOU EXCESSO DO VALOR PRETENDIDO, SEM APONTAR A QUANTIA QUE ENTENDE CORRETA E TAMPOUCO TER JUNTADO DEMONSTRATIVO DISCRIMINADO E ATUALIZADO DO DÉBITO, NÃO HÁ FALAR EM REFORMA DA SENTENÇA QUE REJEITOU OS EMBARGOS MONITÓRIOS. 5. SENDO A PARTE RECORRENTE VENCIDA NESTA INSTÂNCIA REVISORA, CABÍVEL A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DO PROCURADOR DA PARTE ADVERSA. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Alega a agravante que (fl. 716):
+ ..  para a correta aferição da tempestividade do recurso, deve-se considerar exclusivamente a data da publicação do acórdão no Diário de Justiça Eletrônico (DJe), e não qualquer informação extraída dos sistemas eletrônicos dos Tribunais, os quais possuem caráter meramente informativo.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno, com a consequente reforma da decisão para reconhecer a tempestividade do recurso.
+Não foram apresentadas contrarrazões (fl. 723).
+É, no essencial, o relatório.
+Com razão a parte agravante.
+A Corte Especial do STJ, na sessão do dia 5/2/2025, no julgamento da QO no AREsp n. 2.638.376/MG, fixou a seguinte tese:
+A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+Com efeito, o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei n. 14.939/2024, aplicar-se-á a todos os processos em curso. O recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso. Caso não o faça, o T ribunal determinará, a qualquer momento, enquanto não encerrada a sua competência, a correção do vício formal ou poderá desconsiderá-lo, caso a informação já conste do processo eletrônico.
+No caso dos autos, a parte recorrente comprovou a tempestividade do recurso (fls. 736-755).
+Desse modo, afasto a intempestividade do recurso especial.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fl. 683 .
+Voltem os autos conclusos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI N. 14.939/2024. FERIADO LOCAL E SUSPENSÃO DO EXPEDIENTE FORENSE COMPROVADOS. AGRAVO INTERNO PROVIDO.
