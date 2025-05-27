@@ -1,0 +1,94 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005706-95.2024.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ZENILDA DA PENHA CETTO GASPERAZZO
+RECORRIDO: ASSOCIACAO DE APOSENTADOS MUTUALISTA PARA BENEFICIOS COLETIVOS - AMBEC
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA/VOTO: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C RESTITUIÇÃO EM DOBRO E INDENIZAÇÃO POR DANO MORAIS. DIREITO DO CONSUMIDOR. DESCONTOS REALIZADOS EM PROVENTOS DE APOSENTADORIA DA AUTORA A TÍTULO DE “CONTRIBUIÇÃO AMBEC”. ASSOCIAÇÃO DE APOSENTADOS. ALEGAÇÃO DE AUSÊNCIA DE CONTRATAÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. NÃO COMPROVAÇÃO DE FILIAÇÃO À ENTIDADE. AUSÊNCIA DE AUTORIZAÇÃO PARA OS DESCONTOS. DEVOLUÇÃO DAS PARCELAS DESCONTADAS. RESTITUIÇÃO SIMPLES. LESÃO MORAL CARACTERIZADA. RECURSO INOMINADO IMPROVIDO. SENTENÇA MANTIDA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.° 5005706-95.2024.8.08.0014
+Recorrente: ASSOCIAÇÃO DOS APOSENTADOS MUTUALISTAS PARA BENEFÍCIOS COLETIVOS - AMBEC
+
+Recorrida: ZENILDA DA PENHA CETTO GASPERAZZO
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA/VOTO: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C RESTITUIÇÃO EM DOBRO E INDENIZAÇÃO POR DANO MORAIS. DIREITO DO CONSUMIDOR. DESCONTOS REALIZADOS EM PROVENTOS DE APOSENTADORIA DA AUTORA A TÍTULO DE “CONTRIBUIÇÃO AMBEC”. ASSOCIAÇÃO DE APOSENTADOS. ALEGAÇÃO DE AUSÊNCIA DE CONTRATAÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. NÃO COMPROVAÇÃO DE FILIAÇÃO À ENTIDADE. AUSÊNCIA DE AUTORIZAÇÃO PARA OS DESCONTOS. DEVOLUÇÃO DAS PARCELAS DESCONTADAS. RESTITUIÇÃO SIMPLES. LESÃO MORAL CARACTERIZADA. RECURSO INOMINADO IMPROVIDO. SENTENÇA MANTIDA. (1). TESE AUTORAL.
+ADUZ A AUTORA, EM SÍNTESE, QUE É BENEFICIÁRIA DO INSS E TOMOU CONHECIMENTO DE QUE ESTÃO SENDO FEITOS DESCONTOS EM SEU BENEFÍCIO PREVIDENCIÁRIO EM NOME DA RÉ, A QUAL NÃO AUTORIZOU. DIANTE DISSO, PEDE A SUSPENSÃO DOS DESCONTOS REALIZADOS EM SEU BENEFÍCIO, SEJA DECLARADA A ILEGALIDADE DA COBRANÇA DE “CONTRIBUIÇÃO AMBEC”, REPETIÇÃO DO INDÉBITO, BEM COMO INDENIZAÇÃO POR DANOS MORAIS.
+(2). DISPOSITIVO DA SENTENÇA.
+“Diante dessas considerações, profiro resolução de mérito, com base no artigo 487, inciso I, do CPC/15, e
+JULGO PARCIALMENTE PROCEDENTES
+os pedidos iniciais para:
+DECLARAR
+indevidos os descontos efetuados no benefício previdenciário da parte requerente a título de contribuição confederativa e, por consequência, DETERMINAR à parte requerida que se ABSTENHA de efetuar deduções relativas à indigitada rubrica, sob pena de multa de R$ 200,00 (duzentos reais) por cada subtração lançada, limitada ao teto de R$ 5.000,00 (cinco mil reais),
+caso já não o tenha feito por força de decisão anteriormente proferida nestes autos.
+
+CONFIRMAR
+a decisão provisória concedida.
+CONDENAR
+a parte requerida a restituir à parte autora os valores dos descontos efetivamente realizados em seu benefício previdenciário antes do ajuizamento da ação e durante o curso do processo, de forma simples, com juros de mora pela SELIC referente a cada parcela descontada (sem incidência de fator autônomo de correção monetária, a fim de se evitar o bis in idem, uma vez que tal rubrica também desempenha essa função), cabendo à parte requerente, ao início da fase de cumprimento, proceder ao somatório mediante simples cálculos aritméticos, não havendo que se falar, por conseguinte, de capítulo de sentença ilíquido em situações que tais).
+CONDENAR
+a parte requerida, ainda, a pagar à parte requerente a quantia de R$ 5.000,00 (cinco mil reais) a título de danos morais, com juros de mora pela SELIC desde o evento danoso (data da inclusão), por se tratar de responsabilidade extracontratual (Súmula 54 STJ), sem incidência de fator autônomo de correção monetária, a fim de se evitar o bis in idem, pelas razões já expostas. Sem custas e honorários, ex vi do disposto nos artigos 54 e 55 da Lei n. 9.099/95”.
+(3). RECURSO DA PARTE RÉ.
+PUGNA, EM SÍNTESE, PELO PROVIMENTO DO RECURSO INTERPOSTO COM A REFORMA DA R. SENTENÇA, AFASTANDO A CONDENAÇÃO POR DANOS MORAIS, OU CASO NÃO SEJA ESSE O ENTENDIMENTO, SUBSIDIARIAMENTE QUE HAJA A MINORAÇÃO DO
+QUANTUM
+INDENIZATÓRIO ARBITRADO.
+(4). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(5). DO MÉRITO.
+RELAÇÃO CONSUMERISTA
+
+UMA VEZ QUE A REQUERENTE (CONSUMIDORA) É DESTINATÁRIA FINAL DOS SERVIÇOS PRESTADOS PELA REQUERIDA (FORNECEDORA), NOS TERMOS DOS ARTS. 2º E 3º DO CDC. POIS BEM, ANALISANDO DETIDAMENTE OS AUTOS, ENTENDO QUE A SENTENÇA NÃO MERECE MODIFICAÇÃO. DESSE MODO, POR SER A RÉ/RECORRENTE FORNECEDORA DE SERVIÇO, RESPONDE OBJETIVAMENTE, OU SEJA, INDEPENDENTEMENTE DE CULPA, POR FALHAS NA SUA PRESTAÇÃO, NA FORMA DO ARTIGO 14 DA LEI DE REGÊNCIA - RESPONSABILIDADE DA QUAL SOMENTE SE EXIMIRÁ SE PROVAR A OCORRÊNCIA DE ALGUMA CAUSA EXCLUDENTE, A SABER, A INEXISTÊNCIA DO DEFEITO OU A CULPA EXCLUSIVA DE TERCEIRO/DA VÍTIMA. NO PRESENTE CASO, A PARTE RECORRIDA ALEGA QUE VEM SENDO ALVO DE DESCONTOS INDEVIDOS EM SEU BENEFÍCIO A TÍTULO DE “CONTRIBUIÇÃO AMBEC”, FIGURANDO A PARTE RECORRENTE COMO CREDORA DE TAIS VALORES, SENDO QUE COM ESTA NUNCA CELEBROU NEGÓCIO JURÍDICO. NESSE SENTIDO, NÃO VERIFICO QUE A RECORRENTE TENHA SE DESINCUMBIDO DE SEU ENCARGO, VISTO NÃO TER COMPROVADO POR QUALQUER MEIO A EFETIVA FILIAÇÃO/ASSOCIAÇÃO DA RECORRIDA, JÁ QUE DEIXA DE JUNTAR AOS AUTOS INSTRUMENTO DE ASSOCIAÇÃO OU OUTRO QUE PUDESSE COMPROVAR A VONTADE LIVREMENTE MANIFESTADA PELA PARTE RECORRIDA EM SE ASSOCIAR ÀQUELA. DESSE MODO, TEM-SE QUE A CONSUMIDORA SE DESINCUMBIU DO ENCARGO DE PRODUZIR PROVA MÍNIMA DO DIREITO ALEGADO. A FORNECEDORA, À QUAL CABERIA, POR FORÇA DOS ARTIGOS 373, II, DO CPC E 14, §3º, DO CDC, DEIXOU DE AFASTAR A FALHA DO SERVIÇO. JUNTO A ISSO, COADUNO COM O ENTENDIMENTO DO JUÍZO
+A QUO
+QUE EM SENTENÇA EXPÔS:
+“Isso pois não comprovou por qualquer meio a efetiva filiação/associação da parte requerente, já que deixa de juntar aos autos instrumento de associação ou outro que pudesse comprovar a vontade livremente manifestada pela parte requerente em se associar àquela.”
+NESSE CONTEXTO, RESTA EVIDENTE A NECESSIDADE DE DECLARAÇÃO DA ILEGALIDADE DOS DESCONTOS REALIZADOS. DIANTE DISTO, O DANO MATERIAL RESTOU PROVADO, FAZENDO JUS A AUTORA AO RESSARCIMENTO DOS VALORES DESCONTADOS DO SEU BENEFÍCIO NA FORMA SIMPLES, PORQUANTO AINDA QUE OS DESCONTOS TENHAM SIDO RECONHECIDOS COMO INDEVIDOS, ENTENDO QUE NÃO SE PODE PRESUMIR A MÁ-FÉ DA PARTE RECORRENTE, DEVENDO SER EFETUADA A DEVOLUÇÃO SIMPLES. POR FIM, QUANTO AOS DANOS MORAIS DEVE-SE ASSINALAR QUE A IMPUTAÇÃO DE DESCONTOS INDEVIDOS REALIZADOS EM BENEFÍCIO PREVIDENCIÁRIO, VERBA DE NATUREZA ALIMENTAR, PROVOCA DESESTABILIZAÇÃO ORÇAMENTÁRIA, GERANDO ABALO PSÍQUICO E MORAL, AFIGURANDO-SE
+IN RE IPSA
+. QUANTO AO VALOR ARBITRADO, CONSTATO QUE O
+QUANTUM
+DE R$ 5.000,00 (CINCO MIL REAIS), ENCONTRA-SE EM CONSONÂNCIA COM OS CRITÉRIOS DA PROPORCIONALIDADE E RAZOABILIDADE, POSTO QUE NÃO É EXORBITANTE, TAMPOUCO DESPROPORCIONAL À GRAVIDADE DO DANO INFLIGIDO, EM CONSONÂNCIA COM O ENUNCIADO NÚMERO 32 DAS TURMAS RECURSAIS.
+NESTA ESTEIRA, ENTENDO QUE A SENTENÇA IMPUGNADA DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ENUNCIADO NÚMERO 11 DAS TURMAS RECURSAIS.
+(6).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LJE), CONDENO A PARTE RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO EM 20% SOBRE O VALOR DA CONDENAÇÃO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
