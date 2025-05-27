@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por PALMAR EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 1.521):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO DE EXIGIR CONTAS - NEGATIVA DE CONHECIMENTO DO RECURSO - UNIRRECORRIBILIDADE RECURSAL - OFENSA - PRECLUSÃO CONSUMATIVA - OCORRÊNCIA - PEDIDO DE DESENTRANHAMENTO DO PRIMEIRO RECURSO INTERPOSTO - IRRELEVÂNCIA.
+- Pelo princípio da unicidade ou unirrecorribilidade recursal, para cada decisão proferida a ser atacada, há um único recurso próprio e adequado previsto no ordenamento jurídico.
+- Não se admite a utilização de mais de um recurso para impugnar um mesmo conteúdo jurídico proferido, sob pena de não conhecimento do segundo recurso, pela preclusão consumativa.
+- A desistência apresentada quanto ao primeiro recurso, ainda que com o propósito de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa no que concerne a este (AgInt nos EDcl no AREsp n. 1.740.288/MG).
+Sem embargos de declaração.
+No recurso especial, PALMAR EMPREENDIMENTOS IMOBILIÁRIOS LTDA. alega que o acórdão recorrido contrariou as disposições contidas no art. 5º do Código de Processo Civil, por entender que houve indução a erro pelo sistema do Tribunal de Justiça, que indicou equivocadamente que o ato judicial impugnado era uma sentença, levando à interposição de recurso de apelação em vez de agravo de instrumento.
+Sustenta, ainda, violação dos arts. 188 e 223 do Código de Processo Civil. Defende que o princípio da instrumentalidade das formas deve ser aplicado, permitindo o aproveitamento do recurso de agravo de instrumento, uma vez que o desentranhamento do recurso de apelação não causou prejuízo à recorrida e foi tempestivamente corrigido.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.563-1.567).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.572-1.575), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.600-1.604).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 5º, 188 e 223 do Código de Processo Civil, o Tribunal de origem apresentou as seguintes considerações (fls. 1.523-1.526):
+Conforme relatado, o agravante interpôs o presente agravo interno contra a monocrática proferida no recurso n. 1.0000.23.073412-1/003, em que foi negado conhecimento ao agravo de instrumento por ele interposto da decisão em que a Juíza de Direito de 1º grau julgou procedente o pedido de exigir contas, condenando o réu/agravante a prestar contas no prazo de 15 dias.
+A decisão recorrida deve ser mantida, pois o agravo de instrumento interposto não poderia mesmo ser conhecido, porque ele ofende o princípio da unirrecorribilidade recursal e as matérias nele discutidas foram atingidas pela preclusão consumativa, diante da apresentação de apelação contra o mesmo ato judicial impugnado no agravo de instrumento então interposto.
+Com efeito, pelo princípio da unirrecorribilidade recursal, não é lógico nem possível a interposição de dois recursos distintos para se discutir a mesma decisão judicial proferida em um processo. Em caso de utilização de mais de um recurso para impugnar um mesmo conteúdo jurídico, não se pode, então, conhecer do segundo recurso, pela preclusão. Ilustrativa é a jurisprudência do STJ e do STF  ..
+No caso, como já dito, o agravante interpôs recurso de apelação no dia 28/08/2023, inclusive recolhendo as custas recursais relativas à apelação (doc. ordem 352 - /003), antes da interposição do agravo de instrumento onde foi proferida a monocrática impugnada (06/09/2023), conforme se vê da petição recursal constante do doc. ordem 351 dos autos /003.
+Logo, o agravo de instrumento, que foi o segundo recurso interposto (06/09/2023 - recibo ordem 353 dos autos /003) pela mesma parte contra o mesmo pronunciamento judicial, viola a unirrecorribilidade e esbarra na preclusão consumativa, pelo que não pode mesmo ser conhecido, tal como foi feito na monocrática ora agravada.
+Fica o acréscimo que o fato de o agravante ter requerido o desentranhamento do recurso de apelação por ele anteriormente interposto (doc. ordem 355 dos autos /003) é questão de somenos, pois esse requerimento, ainda que deferido de forma irregular pela magistrada de 1º grau, não é capaz de ressuscitar o direito do agravante de recorrer da mesma decisão por meio de outro recurso.
+Com efeito, independentemente da análise do juízo de admissibilidade do recurso de apelação interposto anteriormente pelo agravante, não haveria prejuízo da conclusão de que este agravo de instrumento é inadmissível, pela ocorrência de preclusão consumativa e violação à unirrecorribilidade.
+ ..
+Quanto à alegação de que o ato judicial então impugnado estava intitulado como "sentença", algo que teria confundido o agravante a respeito do recurso cabível, isso não é fundamento apto para admitir o agravo de instrumento, pois, como já dito, é o fato de o agravante já ter interposto outro recurso contra o mesmo ato judicial é que gera a preclusão consumativa, e não o fato de o recurso interposto em primeiro lugar ser, ou não, admitido.
+Da análise das razões do recurso especial, observa-se que a parte recorrente limita-se a suscitar que foi induzida a erro pelo sistema do Tribunal de Justiça e que deve ser aproveitado o recurso de agravo de instrumento, e deixa de impugnar os fundamentos do acordão referentes aos princípios da unirrecorribilidade recursal e da preclusão consumativa, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO DO RECURSO. UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. SÚMULAS N. 7/STJ E 283/STF. AGRAVO IMPROVIDO.
