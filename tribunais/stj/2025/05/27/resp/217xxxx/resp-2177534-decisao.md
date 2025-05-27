@@ -1,0 +1,57 @@
+DECISÃO
+Em análise, recurso especial interposto pela FTL - FERROVIA TRANSNORDESTINA LOGÍSTICA S.A contra acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. POLO ATIVO OCUPADO APENAS PELA FTL - FERROVIA TRANSNORDESTINA LOGÍSTICA S. A. AUSÊNCIA DE INTERESSE DA UNIÃO, DO DNIT E DA ANTT. MANIFESTAÇÕES EXPRESSAS. INEXISTÊNCIA DE ENTES FEDERAIS NO POLO ATIVO DA DEMANDA. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. LITISCONSÓRCIO ATIVO NECESSÁRIO COM A UNIÃO, A ANTT E O DNIT. INOCORRÊNCIA.
+1 - Trata-se de apelação interposta pela FTL - Ferrovia Transnordestina Logística S. A. em face da r. sentença proferida pelo MM. Juiz Federal Tarcísio Correa Monte, da 26ª Vara Federal da Subseção Judiciária dos Palmares/PE, pela qual, em sede de ação de reintegração de posse, julgou extinto o processo sem resolução de mérito, nos termos do art. 485 do CPC, ao reconhecer a incompetência da Justiça Federal para o processamento do feito, ante a expressa manifestação da União Federal, do Departamento Nacional de Infraestrutura de Transportes - DNIT e da Agência Nacional de Transportes Terrestres - ANTT de que não possuem interesse no feito.
+2 - O cerne da controvérsia consiste em aferir a competência da Justiça Federal para processar e julgar a demanda que trata de esbulho em faixa de domínio e área non aedificandi de via férrea de propriedade do Departamento Nacional de Infraestrutura de Transportes - DNIT e que se encontra sob a posse da FTL - Ferrovia Transnordestina Logística S. A.
+3 - Em regra, a competência da Justiça Federal fixa-se pela natureza das pessoas envolvidas no processo (competência ), conforme previsão do art. ratione personae 109, inciso I, da Constituição da República Federativa do Brasil.
+3.1 - A presente demanda foi proposta pela FTL - Ferrovia Transnordestina Logística S. A., pessoa jurídica de direito privado, em face das empresas ABL Engenharia e Companhia Pernambucana de Saneamento - COMPESA, também de natureza jurídica de direito privado. Instados, a União Federal, o DNIT e a ANTT manifestaram expressamente desinteresse em integrar o feito, tendo assim reiterado nas contrarrazões à apelação.
+4 - Quanto ao argumento recursal atinente ao litisconsórcio ativo necessário entre a ora Apelante e os mencionados entes federais, destacou-se no Voto que o art. 114 do CPC estabelece que "o litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes".
+4.1 - A Quinta Turma do Tribunal Regional Federal da 5ª Região já se manifestou sobre o assunto no Voto da Eminente Desembargadora Federal Cibele Benevides Guedes da Fonseca, nos autos do Agravo de Instrumento nº. 0800034-57.2023.4.05.0000, julgado à unanimidade, na sessão presencial de 11/09/2023.
+4.2 - Não restou configurada a hipótese de litisconsórcio ativo necessário, seja pela ausência de determinação legal, seja pela natureza da relação jurídica, que não impõe a participação dos entes federais, ainda que a área discutida integre o patrimônio público federal, porquanto o objeto da ação se limita ao domínio possessório do imóvel, que não se confunde nem atinge o direito de propriedade dos entes federais.
+5 - Precedentes da Corte: PROCESSO 0813718-49.2023.4.05.0000, AGRAVO DE INSTRUMENTO, DESEMBARGADORA FEDERAL JOANA CAROLINA LINS PEREIRA, 5ª TURMA, JULGAMENTO: 11/12/2023; PROCESSO: 08059804420224050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL FRANCISCO ROBERTO MACHADO, 1ª TURMA, JULGAMENTO: 01/09/2022; PROCESSO: 08042053820134058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª TURMA, JULGAMENTO: 09/08/2016. 6 - Assim, não se tratando de causa com interesse de ente contemplado pelo art. 109, I, da Constituição da República Federativa do Brasil, resta flagrante a incompetência da Justiça Federal. 7 - Sem verba honorária recursal, porque não houve condenação da Recorrente nesse tipo de verba na sentença ora recorrida. 8 - Apelação conhecida e NÃO PROVIDA.
+Os embargos de declaração foram rejeitados tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega o seguinte:
+Analisando-se o Acórdão proferido, com o devido respeito observam-se divergências com relação à, interpretação de dispositivos constitucionais e infraconstitucionais relevantes em se tratando de ocupação de bens públicos. Assim se entende que a decisão recorrida contrariou os dispositivos legais aplicáveis ao tema, sendo medida que se impõe a apreciação e provimento do presente Recurso Especial.
+DA SUCESSÃO LEGAL DA RFFSA PELA UNIÃO:
+ ..
+O negócio jurídico em tela teve por objeto a concessão da exploração da atividade ferroviária na região nordeste, outorgada pela União Federal por meio do Decreto de 30 de dezembro de 1997, em anexo, publicado no Diário Oficial da UNIÃO em 31 de dezembro do mesmo ano.
+ ..
+Nesse contexto, por força de dispositivo expresso da Lei nº. 11.483/2007, bem como as cláusulas dos contratos de arrendamento e concessão firmados entre a RFFSA e esta peticionante, faz-se nitidamente presente a necessidade de participação da UNIÃO na presente lide.
+Assim, diante da sucessão legal da RFFSA pela União, inarredável se mostra o deslocamento da competência para a Justiça Federal, conforme entendimento da Primeira Seção do Superior Tribunal de Justiça, publicizado no julgamento do Conflito de Competência 107173/SP, de relatoria do Min. Luiz Fux, a seguir:
+ ..
+DA COMPETÊNCIA DO JUÍZO FEDERAL PARA PROCESSAR E JULGAR O FEITO - PRECEDENTES JURISPRUDENCIAIS:
+Emerge dos autos, em verdade, que os referidos entes públicos federais se manifestaram no sentido da ausência de interesse em integrar a lide. Dito isto, restou decretada a incompetência deste Juízo para a causa e determinada a remessa do feito à Justiça Estadual.
+Nesse contexto, por força do , a competência cível geral da Justiçaart. 109, I, da Constituição Federal Federal é firmada, dentre outras causas, quando a União, suas autarquias ou empresas públicas federais, na condição de autoras, rés, assistentes ou oponentes.
+Dessa forma, não se atentou para o fato de que esta demanda reflete sim na esfera jurídica do DNIT, tendo em vista que é a autarquia federal proprietária do bem objeto da lide, bastante em si para atrair a competência para a Justiça Federal, segundo o dispositivo constitucional supra referido.
+ ..
+Com efeito, não é apenas o direito de propriedade (que, in casu, é do DNIT) que justifica a proteção de faixa de domínio, mas, sobretudo, o interesse público, voltado para a segurança e integridade física de bens e pessoas.
+Violação/Desconsideração ao que dispõem os arts. 9º, §2º do Decreto 2.089/63 e 4º, inciso III, da Lei 6.769/79, que definem os conceitos e aplicação dos institutos Faixa de Domínio e Área Não Edificável.
+ ..
+Os terrenos que margeiam os rios navegáveis são bens públicos dominicais, salvo se por algum título legítimo não pertencerem ao domínio particular.
+Assim, até prova em contrário, presume-se que os "terrenos reservados" pertencem ao domínio público, presunção que pode ser ilidida por documento idôneo, comprobatório da propriedade particular (fls. 507-512).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento, por incidência da Súmula 284/STF.
+Como é possível verificar da leitura das razões do apelo especial, o recorrente não demonstrou, de forma clara, como se consubstanciam as alegadas ofensas aos dispositivos de lei federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE RESCISÃO DE CONTRATO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO, ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE DEMANDADA.
+ ..
+2. A indicação genérica pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente, sem comprovação de como este fora malferido, implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+ ..
+5. Agravo interno provido para reconsiderar a decisão singular da Presidência e, de plano, conhecer do agravo para negar provimento ao apelo extremo (AgInt no AREsp n. 2.613.098/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025).
+De relevo, ainda que prequestionada a matéria recursal, a expressa manifestação da União sobre o desinteresse em uma causa, afasta a competência da Justiça Federal. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+ ..
+VI - Feitas tais considerações, a matéria objeto do presente conflito de competência já ascendeu a esta Corte em outras oportunidades, dando ensejo à sedimentação do entendimento segundo o qual: Nos termos do art. 109, I, da CF, a competência da Justiça Federal é ratione personae, exigindo-se a presença da União, de entidade autárquica ou de empresa pública federal na condição de autoras, rés, assistentes ou oponentes. Nesse sentido: AgRg no CC n. 133.619/PA, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 9/5/2018, DJe 16/5/2018; AgRg no CC n. 133.001/PA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/6/2017, DJe 21/6/2017.
+VII - Ou seja, a fixação da competência em favor da Justiça Federal ocorre apenas nas causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou opoentes (CF, art. 109, I). Cuida-se, pois, de regra de competência ratione personae.
+VIII - Nesse sentido, ainda que a verba federal não tenha sido incorporada ao patrimônio municipal, a manifesta ausência de interesse da União em integrar a lide afasta a competência da Justiça Federal. Nesse sentido: AgRg no CC n. 139.562 / SP, Rel. Ministro Olindo Menezes, Primeira Seção, julgado em 25/11/2015, DJe 1/12/2015.
+IX - Ademais, a teor do enunciado da Súmula n. 150 do Superior Tribunal de Justiça, "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública". Investido dessa competência, o Juízo suscitado deixou de assumir o processo sob o fundamento de que nele não figuram as pessoas jurídicas de direito público que firmariam a competência da Justiça Federal.
+Mutatis mutandis, rechaçou o interesse de alguma dessas pessoas.
+Nesse mesmo sentido: AgInt no CC n. 138.008/PR, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 22/3/2017, DJe 27/3/2017.
+X - Há de se reconhecer, portanto, a incompetência do Tribunal Regional Federal da 1º Região para o julgamento da recurso de apelação interposto, declarando-se competente o Tribunal de Justiça do Estado do Tocantins suscitado.
+XI - Agravo interno improvido (AgInt no CC n. 168.577/TO, relator Ministro Francisco Falcão, Primeira Seção, julgado em 2/6/2020, DJe de 4/6/2020).
+Confira ainda as seguintes decisões monocráticas: REsp n. 2.203.452, Ministra Regina Helena Costa, DJEN de 09/05/2025; AREsp n. 2.831.650, Ministro Teodoro Silva Santos, DJEN de 30/04/2025.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
