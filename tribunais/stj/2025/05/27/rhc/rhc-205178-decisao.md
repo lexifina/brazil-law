@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JOSÉ DE ARAÚJO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+Consta dos autos que o recorrente foi denunciado pela prática, em tese, do crime do art. 157, § 2º, I e II, c/c o art. 29, ambos do Código Penal, ocorrido no dia 3/1/2005.
+Não tendo sido localizado nos endereços indicados nos autos, o recorrente foi citado por edital, havendo a suspensão do processo e do prazo prescricional, além de se decretar a prisão preventiva.
+O impetrante alega, em suma, constrangimento ilegal em razão da nulidade do feito a partir da citação editalícia, por ausência de expedição de mandado de intimação do advogado para fornecer o endereço do réu.
+Sustenta irregularidade na citação do réu por edital, aduzindo que, por equívoco, a servidora certificou nos autos que teria "decorrido o prazo de manifestação do advogado". Alega que a referida servidora deixou de informar se o mandado de intimação destinado ao advogado do réu, apesar de expedido, havia ou não sido cumprido pelo oficial de justiça encarregado da diligência; que, no edital, o nome do réu foi escrito errado; e que, após a publicação do edital, foi decretada a prisão preventiva do recorrente.
+Requer a reforma do acórdão recorrido para conceder a ordem e revogar a prisão preventiva.
+O Ministério Público Federal apresentou manifestação, opinando pelo improvimento do recurso em habeas corpus (fls. 551-555).
+É o relatório.
+No ponto, o acórdão impugnado teve a seguinte fundamentação (fl. 518):
+Quanto à alegada falta de intimação do advogado para fornecer novo endereço, observa-se que não assiste razão ao impetrante, eis que expedida a intimação via sistema PJE (id. 28633702 - Pág. 33), foi certificado que expediu prazo legal sem manifestação (id. 28633702 - Pág. 44).
+Como sabido, nos termos do art. 5º da Lei nº 11.419/2006, os advogados são intimados de forma eletrônica pelo sistema PJE, e não mais por oficial de justiça  ..
+E, no caso, verifica-se que foi certificado nos autos que decorreu o prazo legal sem manifestação da parte, conforme consulta à aba "expedientes", na data de "14/02/2023 23:59:59 - para manifestação do advogado intimado", a qual tem fé pública.
+Quanto ao edital de citação por erro no nome do paciente, alegando nulidade porque o edital de citação (id 70602285), citou "JOSÉ LUIZ DE ARAÚJO e não o réu JOSÉ DE ARAÚJO", temos que a denúncia, bem como os depoimentos constantes nos autos, informam que o réu se chama José Luiz de Araújo, conforme nome indicado no edital de citação, de tal modo que caberia ao ora impetrante comprovar o verdadeiro nome do coacto nos autos da ação penal de origem.
+Além disso, a ordem de habeas corpus é taxativa quanto às hipóteses de cabimento, sendo incompatível com discussões que demandem dilação probatória. É ação de rito sumário que demanda prova pré-constituída. Assim, cabe à defesa do paciente comprovar sua real identidade nos autos da ação penal, não havendo segurança jurídica para concluir, por meio do presente writ, de que o denunciado não se trata da mesma pessoa do coacto.
+Ademais, mister salientar que, nos termos do art. 259 do CPP, a qualquer tempo, no curso do processo, do julgamento ou da execução da sentença, se for descoberta a sua qualificação, far-se-á a retificação, por termo, nos autos, sem prejuízo da validade dos atos precedentes.
+A leitura do acórdão impugnado revela que houve a adequada aplicação do direito ao caso concreto, não havendo nenhuma nulidade a ser reconhecida, porquanto a intimação do advogado é realizada via sistema PJE e não por of icial de justiça.
+Por fim, observa-se que o acórdão local afastou a ocorrência de equívoco na grafia constante do edital de citação, pois reproduziu o que constava dos autos, cabendo à defesa, se fosse o caso, comprovar a identidade do paciente.
+Quanto à manutenção do decreto prisional não houve manifestação da Corte local, o que impede o aprofundamento na questão por esta Corte de Justiça, sob pena de supressão de instância.
+Com efeito, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
