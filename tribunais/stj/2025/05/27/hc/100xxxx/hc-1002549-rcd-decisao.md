@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por LUCAS GABRIEL DA SILVA RODRIGUES e CARLOS HENRIQUE ALVES DOS SANTOS contra decisão monocrática, por mim proferida, a qual concedeu a ordem, de ofício, apenas em relação ao paciente LUCAS.
+Alegam os requerentes que se "faz necessário o PEDIDO DE RECONSIDERAÇÃO, pois, com relação ao paciente LUCAS deve incidir o artigo 387 § 2º do CPP, considerando que está preso há mais de 2 (dois) anos, com redimensionamento de sua pena, o REGIME DEVE SER O ABERTO com a determinação da expedição do alvará de soltura", bem como que, quanto a CARLOS, "demonstrado nas provas juntada aos autos que aquele não é reincidente que tanto o Tribunal de Origem quanto o magistrado se equivocaram ao fundamentar como reincidente. Ainda, o regime foi mantido no fechado exclusivamente com relação a reincidência. Assim, demonstrado sua primariedade de rigor o redimensionamento da pena e afastamento do regime fechado e aplicação do artigo 387 §2º do CPP".
+Pugnam, ao final, pela reconsideração da decisão agravada.
+É o relatório.
+Decido.
+No que tange ao pedido de detração em favor do paciente LUCAS, saliento que, na linha da jurisprudência desta Corte, ele deve ser formulado perante a execução penal, competente para verificação da situação prisional do paciente após o trânsito em julgado da sentença condenatória (AgRg no HC n. 970.020/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2025, DJEN de 26/3/2025; AgRg na Rcl n. 47.580/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 20/8/2024, DJe de 22/8/2024.)
+No que se refere ao alegado equívoco no reconhecimento da reincidência do paciente CARLOS, não há como aferir tal condição em sede mandamental, mormente porque as instâncias ordinárias indicaram apenas a vasta certidão de antecedentes criminais do paciente como elemento fundante da reincidência e não a ação penal a que se refere a defesa (e-STJ, fls. 20 e 44), de modo que, se há equívoco, ele deve ser examinado, em sede de revisão criminal, pelo Tribunal de origem, visto que, nesta limitada via, não há como se perquirir provas, devendo a ilegalidade ser flagrante, o que não se verifica no caso.
+Indefiro, pois o pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
