@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por VALDEIR CARDOSO TEIXEIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 000853-40.2020.8.18.0031.
+Consta dos autos que a parte agravante foi condenada, em primeiro grau, à pena de 03 (três) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, e 11 (onze) dias-multa, pela prática dos crimes tipificados nos arts. 12, caput, e 16, §1º, IV, da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido e de uso restrito), e art. 28 da Lei n. 11.343/2006 (porte de drogas para consumo pessoal).
+Em segunda instância, o Tribunal de origem negou provimento à apelação defensiva, em acórdão assim ementado (fl. 553):
+EMENTA: PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA (ART. 16, §1º, INCISO IV, DA LEI 10.826/2003), POSSE ILEGAL DE MUNIÇÕES (ART. 12 DA LEI 10.826/2003) E POSSE DE DROGAS (ART. 28, CAPUT, DA LEI 11.343/2006) - ABSOLVIÇÃO - ESTADO DE NECESSIDADE - IMPOSSIBILIDADE - APLICAÇÃO DO PRÍNCIPIO DA CONSUNÇÃO - IMPOSSIBILIDADE - REDUÇÃO DA PENA DE MULTA - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO. 1 - A mera alegação do acusado de que portava arma de fogo para se proteger, sem a cabal demonstração da existência de um perigo concreto e atual, não basta à configuração da causa de exclusão da ilicitude do estado de necessidade. 2 - No caso, a conduta praticada pelo apelante se amolda a tipos penais diversos, atingindo bens jurídicos distintos, o que inviabiliza o reconhecimento da prática de apenas um delito ou a absorção do crime mais grave pelo menos grave; Principio da consunção afastado. 3. A sanção pecuniária foi imposta em 11 (onze) dias-multa, ou seja, de forma proporcional à pena privativa de liberdade, sendo então impossível a redução. 4. Recurso conhecido e improvido, à unanimidade.
+Nas razões do recurso especial, a parte alega violação dos artigos 12 e 16 da Lei 10.826/03 e ao artigo 60 do Código Penal , ao argumento de que o princípio da consunção deve ser aplicado, pois as armas foram apreendidas no mesmo contexto fático (fls. 571-576).
+Requer, ainda, a redução da pena de multa, atendendo à situação econômica do réu (fls. 576-577).
+Contrarrazões apresentadas às fls. 581-594.
+O Tribunal a quo inadmitiu o apelo especial com base em fundamento devidamente impugnado pela parte agravante (fls. 603-610).
+Parecer do Ministério Público Federal pelo não provimento do agravo (fls. 638-640).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Acerca da controvérsia dos autos, o Tribunal de origem manifestou-se nos seguintes termos (fls. 564):
+Pleiteia, ainda, a defesa que seja aplicado o princípio da consunção, entre os crimes de posse irregular de arma de fogo de uso permitido e posse ou porte ilegal de arma de fogo de uso restrito, sob o argumento de que as armas foram apreendidas no mesmo contexto fático. Em que pesem os respeitáveis argumentos apresentados, não assiste razão à defesa.
+Como se sabe, a jurisprudência pátria firmou o entendimento no sentido de que os mencionados tipos penais tutelam bens jurídicos distintos, o que torna inviável o reconhecimento da prática de apenas um deles ou a absorção do crime mais grave pelo menos grave. Confira-se:
+(..)
+Portanto, inviável a aplicação do referido princípio.
+Da leitura do excerto acima transcrito, constata-se que o entendimento adotado pelo eg. Tribunal de origem está em consonância com a orientação firmada por esta Corte, segundo a qual  o s tipos penais dos arts. 12, 14 e 16 do Estatuto do Desarmamento tutelam bens jurídicos distintos, o que torna inviável o reconhecimento do crime único quando o agente é denunciado e condenado por infração a mais de um dispositivo legal (AgRg no REsp 1497670/GO, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe 07/04/2017).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. ESTATUTO DO DESARMAMENTO. ARTS. 12 E 14, AMBOS DA LEI N. 10.826/2003. PORTE ILEGAL DE ACESSÓRIO DE ARMA DE FOGO DE USO PERMITIDO E POSSE DE MUNIÇÕES E ACESSÓRIOS DE USO PERMITIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRINCÍPIO DA CONSUNÇÃO. MANUTENÇÃO DO AFASTAMENTO QUE SE IMPÕE. BENS JURÍDICOS DISTINTOS. JURISPRUDÊNCIA DO STJ.
+1. em regra, inaplicável, o princípio da insignificância aos crimes de posse e de porte de arma de fogo ou munição, sendo irrelevante inquirir a quantidade de munição apreendida (AgRg no REsp n. 2.034.540/AC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2023).
+2. a jurisprudência do STJ entende ser incabível aplicar o princípio da consunção entre os crimes dos arts. 12, 14 e 16 da Lei n. 10.826/2003, por tutelarem bens jurídicos distintos, sobretudo quando praticados em contextos diversos. Precedentes.  .. , consoante a jurisprudência do STJ, não seria aplicável o princípio da absorção entre os delitos de posse irregular e porte ilegal de arma de fogo de uso permitido (AgRg no REsp n. 1.848.629/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1/4/2022).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 2.021.776/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Têm-se, ainda: AgRg no REsp n. 1.848.629/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1/4/2022; AgRg no REsp n. 1.863.921/MG, Quinta Turma, Rel. Min. Felix Fischer, DJe de 4/5/2020; AgRg no REsp n. 1.813.427/MS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), DJe de 2/3/2020; AgRg no REsp 1682928/MG, Quinta Turma, Rel. Min. Felix Fischer, DJe 25/09/2017; AgRg no HC n. 288.476/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/8/2015.
+Finalmente, quanto à pena de multa, o Tribunal consignou que, na hipótese, a sanção pecuniária foi imposta em 11 (onze) dias-multa, ou seja, de forma proporcional à pena privativa de liberdade, sendo então impossível a redução (fl. 566).
+Sabe-se que a fixação da pena de multa deve guardar proporção com a pena privativa de liberdade imposta, levando-se em consideração o limite mínimo de 10 (dez) e máximo de 360 (trezentos e sessenta) dias-multa, conforme o estabelecido no artigo 49 do CP. Assim, tendo em vista que, no caso concreto a sanção foi estabelecida seguindo esse entendimento, não há falar em redução ao mínimo legal.
+A propósito:
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECEPTAÇÃO. DOSIMETRIA. PRIMEIRA FASE. CIRCUNSTÂNCIA JUDICIAL. CULPABILIDADE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PENA DE MULTA.
+PROPORCIONALIDADE. AUSÊNCIA DE ILEGALIDADE. ÓBICES DAS SÚMULAS 7 e 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se discute a dosimetria da pena.
+2. O agravante pleiteia a neutralização das circunstâncias judiciais referentes à culpabilidade e às consequências do crime, além da redução ou parcelamento da pena de multa, alegando hipossuficiência econômica. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a premeditação e as consequências do crime justificam a exasperação da pena-base, e se a condição econômica do acusado permite a redução ou parcelamento da pena de multa. III. RAZÕES DE DECIDIR
+4. A premeditação do crime demanda maior reprovação na conduta e autoriza a negativação da culpabilidade.
+5. As consequências do crime são desfavoráveis, uma vez que o projétil da arma de fogo ficou alojado na perna da vítima, causando-lhe fortes dores.
+6. No tocante à pena de multa, o entendimento proferido pelo Tribunal de origem se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que para a pena pecuniária, estabelece-se a quantidade de dias que seja proporcional ao quantum da pena privativa de liberdade, com observância das circunstâncias judiciais do art. 59 do Código Penal.
+7. A revisão da dosimetria da pena por esta Corte Superior é impedida pela Súmula 7/STJ, salvo em casos de evidente desproporcionalidade, o que não se verifica no presente caso.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.411.555/PI, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+Dessa forma, estando o acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
