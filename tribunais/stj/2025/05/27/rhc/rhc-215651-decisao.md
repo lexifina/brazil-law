@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por PIERRE LUIZ DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos a prisão preventiva do recorrente, em virtude de suposta prática do delito capitulado no art. 121, § 2º, I, do Código Penal, termos em que denunciado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 116-123.
+Em suas razões, sustenta a defesa que o recorrente tem predicados pessoais favoráveis e sua segregação processual encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito, ausente a correlação entre a argumentação judicial para a prisão preventiva e a representação do Ministério Público, não estando presentes os requisitos autorizadores da medida extrema, previstos no artigo 312 do Código de Processo Penal.
+Afirma que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Requer, assim, a revogação da prisão cautelar ou a substituição por medidas cautelares diversas da prisão ou prisão domiciliar.
+Sem pedido de liminar.
+O Ministério Público Federal em parecer, às fls.164-169, se manifestou pelo não provimento do recurso ordinário.
+É o relatório. DECIDO.
+No tocante à alegação de que a segregação processual encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito, ausente a correlação entre a argumentação judicial para a prisão preventiva e a representação do Ministério Público, não estando presentes os requisitos autorizadores da medida extrema, previstos no artigo 312 do Código de Processo Penal, tenho que a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente pela forma na qual o delito foi em tese praticado, uma vez que o recorrente, por vingança pessoal, teria matado a vítima a atingindo por vários disparos de arma de fogo quando caminhava por via pública sem pressentir que estava sendo seguida e, logo consumada a ação delitiva o denunciado empreendeu fuga.
+Cumpre registrar que "as graves circunstâncias em que praticados os fatos ilícitos (modus operandi) justificam a constrição cautelar para garantia da ordem pública" (AgRg no RHC n. 188.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024).
+Nesse sentido: AgRg no RHC n. 191.872/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/5/2024; AgRg no RHC n. 192.434/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/2024; AgRg nos EDcl no HC n. 821.980/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024 e AgRg no HC n. 870.815/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/4/2024.
+A Jurisprudência desta Corte se firmou no sentido de que a devida caracterização da fuga do distrito da culpa enseja motivo suficiente a embasar a manutenção da constrição cautelar decretada.
+A propósito:
+"A fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço."(AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+"a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal". (AgRg no HC n. 568.658/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020)"(AgRg no HC n. 797.955/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
