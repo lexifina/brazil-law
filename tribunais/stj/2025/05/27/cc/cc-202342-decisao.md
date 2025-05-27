@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE CRISTIANO CASTRO - PI, suscitante, e o JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE CORRENTE - SJ/PI, suscitado, no Auto de Prisão em Flagrante delito n. 0801026-46.2021.8.18.0047 (numeração da Justiça Estadual), lavrado em nome de Fabiano Dias Macedo, por policiais rodoviários federais, pela suposta prática dos delitos previstos nos arts. 306, § 1º, I (conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool) e 309 (dirigir veículo automotor, em via pública, sem habilitação), ambos da Lei n. 9.503/97.
+O Juízo Federal da Vara Cível e Criminal de Corrente-SJ/PI declinou da competência e determinou a remessa dos autos à Justiça Estadual, por entender que não há crime de desobediência (art. 330 do CP), pois o descumprimento de ordem emanada de policial rodoviário federal é conduta materialmente atípica (fl. 22).
+O Juízo de Direito da Vara Única de Cristiano Castro/PI, por sua vez, suscitou o presente conflito negativo de competência, com fundamento no art. 109, IV, da Constituição Federal, destacando que o crime de desobediência causou prejuízo à União, o que, por si só, atrai a competência da Justiça Federal (fls. 3-4).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitante (fls. 231-239).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Consta dos autos que, os policiais rodoviários federais autuaram, em flagrante, o investigado Fabiano Dias Macedo, pois teria desobedecido ordem de parada dada pelos agentes em atividade na rodovia BR-135, na cidade de Cristiano Castro/PI, tendo empreendido fuga da fiscalização, na condução de motocicleta sem placa de identificação e sem uso de capacete. Após ser alcançado pela polícia rodoviária federal, foi constatado que o condutor estava embriagado e não possuía habilitação para a condução da motocicleta, tendo sido, por isso, preso.
+O matéria em exame foi pacificada na Terceira Seção do Superior Tribunal de Justiça, em recurso especial representativo da controvérsia, sendo fixada a seguinte tese:
+A desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro (Tema n. 1.060).
+Eis a ementa do acórdão:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PENAL. CRIME DE DESOBEDIÊNCIA. ART. 330 DO CÓDIGO PENAL. ORDEM LEGAL DE PARADA EMANADA NO CONTEXTO DE ATIVIDADE OSTENSIVA DE SEGURANÇA PÚBLICA. TIPICIDADE DA CONDUTA. SUPOSTO EXERCÍCIO DO DIREITO DE AUTODEFESA E DE NÃO AUTOINCRIMINAÇÃO. DIREITOS NÃO ABSOLUTOS. IMPOSSIBILIDADE DE INVOCAÇÃO PARA A PRÁTICA DE DELITOS. RECURSO PROVIDO.
+1. O descumprimento de ordem legal emanada em contexto de policiamento ostensivo para prevenção e repressão de crimes, atuando os agentes públicos diretamente na segurança pública, configura o crime de desobediência, conforme foi reconhecido, no caso, pelo Juízo de primeira instância.
+2. O direito a não autoincriminação não é absoluto, motivo pelo qual não pode ser invocado para justificar a prática de condutas consideradas penalmente relevantes pelo ordenamento jurídico.
+3. Recurso especial representativo da controvérsia provido, com a fixação a seguinte tese: A desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.
+(REsp n. 1.859.933/SC, de minha relatoria, Terceira Seção, julgado em 9/3/2022, DJe de 1º/4/2022).
+Dessa forma, tendo a ordem sido emanada por autoridade ou agente de trânsito no exercício regular dessa atividade, com no caso por policiais rodoviários, caracterizada a infração administrativa prevista no art. 195 do Código de Trânsito Brasileiro, cuja competência é da Justiça estadual.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Cristiano Castro/PI, o suscitante.
+Publique-se. Intimem-se.
+EMENTA
