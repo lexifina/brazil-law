@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais.
+O paciente encontra-se "preso preventivamente desde o dia 15/06/2024 no curso de ação penal que apura suposta prática dos crimes de tráfico de drogas e associação para o tráfico" (fl. 23), sendo denunciado, em conjunto com a corré, nos termos dos arts. 33, caput, e 35 da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+Argumenta a impetrante, em suma, com a ausência dos requisitos do art. 312 do CPP e o excesso de prazo para o encerramento da instrução criminal, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 77):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INVIABILIDADE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. EXCESSO DE PRAZO NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+Na origem, Processo n. 0000253-98.2024.8.13.0554, da Vara Única de Rio Novo/MG, não há sentença proferida nos autos, conforme informações extraídas do site do TJMG em 22/5/2025.
+É o relatório. Decido.
+A Constituição da República assegura, no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Não obstante a excepcionalidade que é a privaç ão cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva, transcrita no aresto impugnado, teve a seguinte fundamentação (fls. 25-26):
+ ..  Constata-se que, no caso em apreço, a prisão cautelar dos indiciados deve ser decretada com fundamento no art. 312 do Código de Processo Penal, mormente para garantia da ordem pública, considerando-se, sobretudo, a expressiva quantidade e qualidade de drogas apreendida durante o cumprimento da ordem de busca domiciliar.
+Todo o exposto, indica a necessidade do cárcere cautelar.
+Ainda, o periculum in libertatis reside na necessidade de se velar pela aplicação da norma, assegurar a ordem pública e garantir a instrução criminal, latente no presente caso. Destarte, ressalto que o conceito de ordem pública não se limita a prevenir a reprodução de fatos criminosos, mas, também a acautelar o meio social e a própria credibilidade da Justiça em face de sua negativa repercussão no meio social, sendo que a conveniência da medida deve ser regulada pela sensibilidade do juiz à reação do meio social no que concerne à prática delituosa.
+No caso em apreço, Janderson evadiu-se do distrito da culpa, além disso, é de conhecimento deste Juízo que o mesmo foi agraciado recentemente com HC pelo c. STJ no bojo dos autos de nº 5000240-14.2024.8.13.0554, desmembrado do feito de nº 0001329-94.2023.8.13.0554.
+Ante o exposto, DECRETO a prisão preventiva de JANDERSON DESIDÉRIO DA SILVA com fundamento nos artigos 312 e 313 do CPP. ..
+Como se vê, descaracterizada, ao menos neste juízo preliminar, a alegada inidoneidade da medida extrema, haja vista a quantidade e variedade de drogas apreendidas com o réu, ora paciente - "11 pedras de crack pesando 34,48g; 44 pedras crack pesando 6,92g; 11 papelotes de cocaína pesando 8g; 01 papelote de cocaína pesando 0,50g e 02 buchas de maconha pesando 4,73g" (fl. 27) -, além ter evadido do distrito da culpa, sendo que "foi agraciado recentemente com HC pelo c. STJ no bojo dos autos de nº 5000240-14.2024.8.13.0554, desmembrado do feito de nº 0001329-94.2023.8.13.0554".
+"O Supremo Tribunal Federal já concluiu que "mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida" (HC n. 210.563 AgR, relator Nunes Marques, Segunda Turma, julgado em 9/5/2022, DJe 6/6/2022)" (AgRg no HC n. 972.161/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+"A prisão preventiva foi decretada com base na gravidade concreta do delito e no risco à aplicação da lei penal, especialmente em razão da fuga do distrito da culpa, circunstância que justifica a necessidade da custódia cautelar." (AgRg no HC n. 959.337/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+Ainda, "" c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 107.238/GO, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019)" (AgRg no RHC n. 207.771/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+"São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Noutra vertente, " a  jurisprudência do Superior Tribunal de Justiça estabelece que o reconhecimento de ilegalidade por excesso de prazo não decorre de critério matemático, mas da análise de eventual retardamento injustificado da prestação jurisdicional" (AgRg no RHC n. 204.762/AL, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/2/2025, DJEN de 18/2/2025).
+No caso sob exame, conforme informações colhidas no sítio eletrônico do Tribunal de origem, verificou-se que em 31/1/2025, o Juízo processante manteve a prisão preventiva.
+Em 11/2/2025, foi proferido despacho para elaboração do laudo pericial e vista ao MP para apresentação de alegações finais.
+Em 26/2/2025, foi juntada petição com manifestação da promotoria.
+Em 8/4/2025, determinou-se à Depol que remetesse laudo com informações do aparelho móvel apreendido para manifestação do MP.
+Em 5/5/2025, o MP foi intimado para manifestação.
+Nesse contexto, não se pode falar em ilegalidade da prisão por excesso de prazo, porquanto não se verifica demora injustificada na condução do feito. A propósito:
+AGRAVO REGIMENTAL EM RHC. CRIMES DE TRÁFICO DE DROGAS, PORTE ILEGAL DE ARMA DE FOGO, DESACATO E RESISTÊNCIA. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. DESENVOLVIMENTO REGULAR DA AÇÃO PENAL. PROPORCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. No caso, não se constata retardo abusivo ou injustificado na prestação jurisdicional, de forma a caracterizar excesso de prazo na formação da culpa. Segundo as informações prestadas pelo Juízo de primeiro grau, a defesa prévia foi apresentada no dia 5/2/2025, a denúncia recebida e a audiência de instrução e julgamento designada para data próxima - dia 31/3/2025. Em consulta ao site do Tribunal, a mencionada audiência foi realizada e designada uma próxima para o dia 22/4/2025. Esse contexto informativo evidencia que a ação penal se desenvolve dentro dos parâmetros de normalidade, sem registros de paralizações indevidas ou injustificadas.
+3. Considerando o tempo de prisão cautelar, estágio atual do processo com a possível conclusão da instrução, as circunstâncias do crime (apreensão de mais de 19 kg de maconha, cerca de 679g de cocaína e 151g de crack -associada à localização de armas de fogo, munições, balanças de precisão e outros petrechos), a soma das penas mínimas em abstrato dos crimes imputados e a condição de reincidente, não se verifica excessiva demora ou desproporcionalidade a justificar o relaxamento da prisão cautelar do recorrente. Julgados do STJ.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 212.304/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DEDIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem em habeas corpus impetrado em favor de indiciado por tráfico ilícito de entorpecentes, cuja prisão em flagrante foi convertida em preventiva.
+2. A decisão agravada fundamentou a prisão preventiva na gravidade concreta da conduta e na periculosidade do agente, com base em elementos concretos dos autos, como a quantidade e variedade de drogas apreendidas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada e se há excesso de prazo na sua manutenção.
+III. Razões de decidir
+4. A prisão preventiva está fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, considerando a gravidade concreta da conduta e a periculosidade do agente.
+5. A alegação de excesso de prazo não se sustenta, pois os prazos processuais não são fatais ou peremptórios, devendo ser analisados à luz da razoabilidade e das peculiaridades do caso concreto.
+6. Não foram apresentados novos argumentos no agravo regimental que justifiquem a alteração da decisão anterior, que deve ser mantida por seus próprios fundamentos.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciem a gravidade da conduta e a periculosidade do agente. 2. O excesso de prazo deve ser analisado com base na razoabilidade e nas peculiaridades do caso concreto, não sendo critério aritmético."
+(AgRg no HC n. 964.826/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Assevera-se, assim, que o feito segue seu trâmite regular, não se tendo qualquer notícia de fato que evidencie atraso injustificado ou desídia atribuída ao Poder Judiciário local.
+Ante o exposto, denego a ordem em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
