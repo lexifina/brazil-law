@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ROSARIO CURTO contra acórdão do Tribunal Regional Federal da 4ª Região, proferido no julgamento do HC n. 5005410-28.2025.4.04.0000.
+Os autos informam que foi instaurado inquérito policial para apurar fraudes fiscais supostamente cometidas pelo ora recorrente e outras duas pessoas. O procedimento de investigação aponta que o recorrente teria assinado alterações no contrato social da empresa Ecocase Incorporadora LTDA utilizando-se de documentação fraudulenta para fazer transferências patrimoniais para terceiros.
+No curso das investigações, o juízo de primeiro grau decretou o bloqueio do patrimônio do recorrente e deferiu medidas cautelares a partir dos elementos cognitivos provenientes de procedimentos de apuração instaurados no âmbito da Receita Federal. Aduzindo usurpação por parte do órgão fiscal federal de atribuições relacionadas à persecução penal, a defesa impetrou habeas corpus na origem, postulando, em síntese, a suspensão do bloqueio dos ativos.
+O Tribunal de origem denegou a ordem (e-STJ, fls. 234-261). Neste recurso ordinário, a defesa reitera os argumentos em favor do reconhecimento da ilicitude dos atos de investigação por parte da Receita Federal, que estaria desempenhando funções típicas de órgão de persecução penal em relação a crimes não relacionados à ordem tributária. Em razão disso, os atos constritivos carecem de fundamentação juridicamente idônea, além de se mostrarem desproporcionais.
+Diante disso, requer o provimento deste recurso para declarar nula a decisão que determinou o bloqueio integral de bens do recorrente.
+Não há pedido liminar.
+Os autos foram remetidos ao Ministério Público Federal, que se manifestou pelo não provimento do recurso.
+É o relatório. Decido.
+Este recurso não comporta conhecimento.
+Há de se ter em mente que o habeas corpus se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição causada por ato de autoridade pública tido por ilegal.
+Neste caso, a defesa busca, por meio da ação mandamental que deu origem a este recurso, discutir a validade de medidas constritivas direcionadas ao patrimônio do recorrente, de maneira que não é possível presumir qualquer ameaça de lesão à liberdade ambulatorial na hipótese. Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se ameaça real ao direito de locomoção, inexistente no caso destes autos.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LAVAGEM DE DINHEIRO E ORGANIZAÇÃO CRIMINOSA. MEDIDAS ASSECURATÓRIAS. SEQUESTRO DE BENS E BLOQUEIO DE CONTAS. LIBERDADE DE LOCOMOÇÃO NÃO VIOLADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não conheceu do pedido, sob o fundamento de que "existe mecanismo processual apropriados, adequado, deixando incabível o remédio heroico do Habeas Corpus, que sabidamente se destina a proteger a liberdade do indivíduo, enquanto a pretensão deduzida é de liberação de automóvel e de contas bancárias" (fl. 841).
+2. O acórdão recorrido não divergiu da jurisprudência desta Corte Superior, no sentido de que o habeas corpus não se presta para revogar decisão que determinou medidas que não atingem a liberdade ambulatorial do acusado.
+3. Agravo regimental desprovido. (AgRg no RHC n. 178.891/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+PROCESSO PENAL. HABEAS CORPUS. ESTELIONATO. INQUÉRITO POLICIAL. (1) ORDEM COMO SUCEDÂNEO RECURSAL. IMPROPRIEDADE. (2) TRANCAMENTO DA INVESTIGAÇÃO. PACIENTE NÃO INDICIADA. PESSOA JURÍDICA DE SUA TITULARIDADE. UTILIZAÇÃO PARA PERPETRAÇÃO DE FRAUDE. BLOQUEIO DE BENS. INTERESSE MERAMENTE PATRIMONIAL. VIA INADEQUADA. (3) EXCESSO DE PRAZO. NÃO RECONHECIMENTO. RECOMENDAÇÃO DE AGILIZAÇÃO NA CONCLUSÃO DAS INVESTIGAÇÕES.
+1. No contexto de racionalização do emprego do habeas corpus, é imprópria a sua utilização como sucedâneo recursal.
+2. Não figurando a paciente como indiciada, sendo assinalado pela Autoridade Policial que ela não se encontra envolvida na suposta prática de estelionato, inexiste interesse jurídico a ser tutelado por meio do habeas corpus. Na espécie, como a pessoa jurídica de que sócia a paciente teve valores bloqueados, graças à conta-corrente de tal sociedade ter sido utilizada como rota de passagem de recursos desviados, a pretensão ora vertida se revestiria de nítido interesse patrimonial, cuja tutela não é de ser esgrimada pela via heroica. De mais a mais, não se mostra apropriado o trancamento das investigações, pois há pessoa indiciada e notícia de que outras pessoas estão em vias de serem identificadas como responsáveis pelo sucesso do desfalque criminoso.
+3. In casu, conquanto ainda não haja constrangimento, é de se recomendar à autoridade policial que ultime as investigações com a maior brevidade possível, dado que já se passaram mais de cinco anos de seu início.
+4. Ordem não conhecida, com recomendação de celeridade na conclusão das investigações policiais.
+(HC n. 230.696/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 12/8/2014, DJe de 25/8/2014.)
+Diante do exposto, nos termos do art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço deste recurso ordinário.
+Publique-se
+EMENTA
