@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de ROBERT OTACILIO REIS OLIVEIRA, pronunciado pela prática do crime de homicídio qualificado, por duas vezes, conforme o art. 121, § 2º, IV, e o art. 121, § 2º, I e IV, do Código Penal (Ação Penal n. 0001372-04.2023.8.13.0175).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em razão do acórdão proferido no HC n. 1.0000.25.112411-1/000 (fls. 12/16).
+Requer-se a concessão liminar da ordem a fim de reconhecer a nulidade da sentença de pronúncia fundamentada exclusivamente em elementos colhidos na fase inquisitorial não repetidos em juízo (fl. 5), com a imediata suspensão do julgamento já designado para 29/5/2025 e a expedição de alvará de soltura, e, ao final, a impronúncia do paciente.
+É o relatório.
+A ilegalidade capaz de justificar a impetração de habeas corpus substitutivo deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Com efeito, não se vislumbra qualquer irregularidade na ausência de exame do mérito do habeas corpus impetrado na origem, pois esta Corte Superior de Justiça possui entendimento pacífico no sentido de que as eivas existentes na pronúncia devem ser arguidas no momento oportuno, sob pena de preclusão (RHC n. 58.491/MG, Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe 23/9/2015).
+No caso, a defesa não se insurgiu contra a alegada ausência de elementos probatórios para a pronúncia do ora paciente, mediante a interposição de recurso em sentido estrito. Conforme noticiado pelo Juízo a quo, a sentença de pronúncia transitou em jul gado no dia 27/1/2025 (fl. 15).
+Assim, o acórdão ora impugnado está alinhado à compreensão do Superior Tribunal de Justiça, de que é inviável a desconstituição da decisão de pronúncia após seu trânsito em julgado, pois a matéria deveria ter sido impugnada em momento oportuno, qual seja, quando da interposição dos recursos próprios cabíveis na espécie (AgRg no HC n. 889.766/RO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/11/2024).
+Afora isso, a eventual desconsti tuição das premissas fáticas assentadas na decisão de primeiro grau, relativamente à existência de lastro probatório mínimo para a pronúncia, exigiria revolvimento fático-probatório do processo principal, o que não se admite em habeas corpus (cf. o AgRg no HC n. 698.599/MG, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 21/2/2022). Vale destacar que há, na pronúncia, expressa referência à prova testemunhal produzida em juízo - depoimentos do policial condutor do flagrante e do irmão das vítimas.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. DECISÃO TRANSITADA EM JULGADO. PRETENSÃO DE IMPRONÚNCIA. PRÉVIO WRIT NÃO CONHECIDO POR VIR COMO SUBSTITUTIVO DO RECURSO PRÓPRIO. ACÓRDÃO ATACADO ALINHADO À JURISPRUDÊNCIA DESTA CORTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
