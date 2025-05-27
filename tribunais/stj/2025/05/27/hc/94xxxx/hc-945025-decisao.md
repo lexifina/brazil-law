@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ DO CARMO LAVAGNOLI contra acórdão do Tribunal de Justiça do Paraná, no HC n. 0056795-68.2024.8.16.0000, assim ementado:
+HABEAS CORPUS COM PEDIDO LIMINAR. CONDENAÇÃO PELA PRÁTICA DO CRIME DE CALÚNIA E INJÚRIA (ARTS. 138 E 140 DO CÓDIGO PENAL). PLEITO LIMINAR DE SUSPENSÃO DO PROCESSO DE EXECUÇÃO DA PENA. AVENTADO CONSTRANGIMENTO ILEGAL ORIGINADO PELA NULIDADE DO PROCESSO-CRIME Nº. 0000191- 27.2021.8.16.0151. NÃO ACOLHIMENTO. APELAÇÃO CRIMINAL QUE CONFIRMOU A CONDENAÇÃO. TRÂNSITO EM JULGADO. INADMISSIBILIDADE DE UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DAREVISÃO CRIMINAL. IDENTIFICADA A "NULIDADE DE ALGIBEIRA", DE TODA INADMISSÍVEL. DESTARTE, NÃO VISLUMBRADA, EX OFFICIO,QUALQUER ILEGALIDADE. ORDEM NÃO CONHECIDA. (e-STJ, fls. 60-61)
+Em seu arrazoado, o impetrante aponta violação ao art. 44 do Código de Processo Penal decorrente da nulidade da procuração outorgada pelo querelante; ao princípio da indivisibilidade da ação penal pois a queixa-crime não teria sido proposta contra todos os envolvidos; ofensa ao art. 89 da Lei n. 9.099/1995 uma vez que não foi oportunizada a suspensão condicional do processo; e violação ao art. 28-A do Código de Processo Penal por cerceamento do direito de aderir à proposta de acordo de não persecução penal.
+Pugna, liminarmente, pela suspensão dos efeitos penais e extrapenais decorrentes do processo criminal. No mérito, requer a declaração de nulidade da Ação Penal n. 0000191-27.2021.8.16.0151 e o respectivo processo de execução.
+O pedido liminar foi indeferido (e-STJ, fl. 93) e o agravo regimental interposto contra essa decisão não foi conhecido (e-STJ, fls. 150-151 e 154-156).
+Informações prestadas às fls. 109-130; 131-133; e 139-142, e-STJ.
+O Ministério Público opinou pela denegação da ordem (e-STJ, fls. 169-172).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+In casu, observa-se que a condenação transitou em julgado em 7/3/2024, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e e 108, inciso I, alínea b, ambos da Constituição da República.
+Nada obstante, a defesa ainda impetrou o Habeas Corpus n. 0056795-68.2024.8.16.0000 aqui impugnado, que não foi conhecido por se tratar de sucedâneo recursal. O agravo regimental correspondente foi desprovido.
+Consoante exposto nas informações prestadas pelo Tribunal de Justiça, a insurgência deveria ter sido aventada em Revisão Criminal. Ademais, nos termos do parecer ministerial, não tendo as questões sido alvo de apreciação no acórdão impugnado, o seu conhecimento diretamente por esta Corte fica obstado, sob pena de indevida supressão de instância.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
