@@ -1,0 +1,22 @@
+DECISÃO
+VAGNER DOS REIS FERREIRA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A Defesa informa que o paciente cumpre pena privativa de liberdade e teve deferido o pedido de progressão ao regime semiaberto em primeira instância. Contudo, a decisão foi cassada em agravo em execução interposto pelo Ministério Público. O Tribunal determinou a regressão ao regime fechado para submissão ao exame criminológico, fundamentando-se no histórico carcerário do paciente, que inclui desobediência e desrespeito.
+A indica que o preso tem atestado de bom comportamento emitido pela direção carcerária, histórico de estudo e ausência de falta disciplinar desde 2022, satisfazendo o requisito subjetivo. Alega que as faltas cometidas não poderiam amparar o acórdão recorrido.
+Requer, por isso, o restabelecimento da decisão de primeiro grau.
+Decido.
+O apenado cumpre 28 anos, 8 meses e 10 dias de reclusão, por furto qualificado, vários roubos majorados e tráfico de drogas privilegiado, com término de execução previsto para 29/10/2047. Ele praticou faltas disciplinares de natureza grave (16/2/2020 e 5/5/2020), com data de reabilitação mais recente em 14/4/2022, consistentes em desobediência/burlar a vigilância e descumprimento de ordem/desrespeito.
+No acórdão recorrido, o Tribunal determinou a realização do exame criminológico para aferir o requisito subjetivo do art. 112 da LEP, "ante o conturbado histórico carcerário, como visto alhures,  pois  neste momento Vagner não poderia ter sido beneficiado com a progressão de regime, precipitadamente deferida pelo d. Juízo da Execução Penal, impondo-se a realização da avaliação multidisciplinar a que alude os artigos 7º e 8º da LEP" (fl. 15).
+O acórdão recorrido está em conformidade com a jurisprudência desta Corte e a Súmula n. 439 do STJ.
+Com efeito, em situação não somente de crimes violentos (roubos majorados), com longa pena a cumprir (até 2047), mas diante de faltas graves praticadas dentro do mesmo período de quatro anos, o colegiado decidiu que está justificada a determinação do exame criminológico e, portanto, que não se afigura razoável considerar o histórico conturbado como fato remoto ou destituído de relevância. Nesta hipótese, o mero atestado de bom comportamento carcerário, isoladamente, não se mostra suficiente para aferir o requisito subjetivo para a progressão de regime.
+Confira-se: "não se constata a existência de manifesta ilegalidade a ser sanada, pois, na decisão que determinou a realização do exame criminológico, há fundamentação relacionada ao comportamento do agravante durante a execução da pena, destacando-se o registro de faltas graves,  ..  no ano de 2018 e  ..  no ano de 2022" (AgRg no HC n. 975.514/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/3/2025, DJEN de 31/3/2025).
+Deveras:
+ ..
+3. A "despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça" (AgRg no HC n. 695.981/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022).
+4. "Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+5. O Superior Tribunal de Justiça "possui entendimento de que o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2018, DJe de 16/2/2018).
+ ..
+(AgRg no HC n. 952.103/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+Ilustrativamente: "O exame criminológico pode ser determinado pelo magistrado para aferição do mérito do apenado, desde que fundamentado nas peculiaridades do caso. 2. A prática de faltas disciplinares graves pode justificar a realização do exame criminológico para progressão de regime" (AgRg no HC n. 870.419/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
