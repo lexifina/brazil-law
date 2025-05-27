@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+
+Direito processual civil. Agravo regimental no agravo em recurso especial. Recurso especial inadmitido. Falta de impugnação específica. súmula 182/stj. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, sob o fundamento de que não houve impugnação específica dos fundamentos da decisão agravada, incidindo a Súmula 182/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agrav o apresentou impugnação específica e concreta aos fundamentos da decisão que inadmitiu o recurso especial.
+III. Razões de decidir
+3. A decisão agravada foi mantida, pois o agravante não apresentou impugnação específica e concreta aos fundamentos da decisão que inadmitiu o recurso especial, limitando-se a repetir argumentos genéricos.
+4. A ausência de impugnação específica viola o princípio da dialeticidade, o que inviabiliza o conhecimento do agravo, conforme a Súmula 182/STJ.
+5. A reiteração dos argumentos do recurso especial no agravo não satisfaz a exigência de impugnação específica, mantendo-se os fundamentos não impugnados.
+IV. Dispositivo e tese
+6. Agravo regimental im provido.
+Tese de julgamento: "1. A ausência de impugnação específica e concreta aos fundamentos da decisão que inadmite recurso especial inviabiliza o conhecimento do agravo, conforme a Súmula 182/STJ. 2. A reiteração dos argumentos do recurso especial no agravo regimental não satisfaz a exigência de impugnação específica, mantendo-se os fundamentos não impugnados".
+Dispositivos relevantes citados: CPC/2015, art. 1.042; CPC/1973, art. 544, § 4º, I.
+Jurisprudência relevante citada: STJ, AgRg no AR Esp 1.789.363/SP, Min. Laurita Vaz, Sexta Turma, julgado em 02.02.2021; STJ, AgRg no RHC 128.660/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.08.2020; STJ, EAR Esp 746.775/PR, Min. João Otávio de Noronha, relator p/ Acórdão Min. Luís Felipe Salomão, Corte Especial, julgado em 19.09.2018.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  JESSICA  MONIQUE  ALCANTARA  DA  SILVA  contra  decisão  monocrática  que  não  conheceu  de  seu  agravo  em  recurso  especial  (e-STJ,  fls.  403-404).
+A  parte  agravante  aduz,  em  síntese,  que  " h ouve impugnação específica de todos os fundamentos da decisão recorrida, cumprindo-se o disposto no artigo 932, III, do CPC e artigo 253, parágrafo único, I, do RISTJ"  (e-STJ,  fl.  557).
+Pede,  ao  final,  o  provimento  deste  agravo  regimental,  para  que  seja  conhecido  e  provido  o  recurso  especial.
+É  o  relatório.
+EMENTA
+
+Direito processual civil. Agravo regimental no agravo em recurso especial. Recurso especial inadmitido. Falta de impugnação específica. súmula 182/stj. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, sob o fundamento de que não houve impugnação específica dos fundamentos da decisão agravada, incidindo a Súmula 182/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agrav o apresentou impugnação específica e concreta aos fundamentos da decisão que inadmitiu o recurso especial.
+III. Razões de decidir
+3. A decisão agravada foi mantida, pois o agravante não apresentou impugnação específica e concreta aos fundamentos da decisão que inadmitiu o recurso especial, limitando-se a repetir argumentos genéricos.
+4. A ausência de impugnação específica viola o princípio da dialeticidade, o que inviabiliza o conhecimento do agravo, conforme a Súmula 182/STJ.
+5. A reiteração dos argumentos do recurso especial no agravo não satisfaz a exigência de impugnação específica, mantendo-se os fundamentos não impugnados.
+IV. Dispositivo e tese
+6. Agravo regimental im provido.
+Tese de julgamento: "1. A ausência de impugnação específica e concreta aos fundamentos da decisão que inadmite recurso especial inviabiliza o conhecimento do agravo, conforme a Súmula 182/STJ. 2. A reiteração dos argumentos do recurso especial no agravo regimental não satisfaz a exigência de impugnação específica, mantendo-se os fundamentos não impugnados".
+Dispositivos relevantes citados: CPC/2015, art. 1.042; CPC/1973, art. 544, § 4º, I.
+Jurisprudência relevante citada: STJ, AgRg no AR Esp 1.789.363/SP, Min. Laurita Vaz, Sexta Turma, julgado em 02.02.2021; STJ, AgRg no RHC 128.660/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.08.2020; STJ, EAR Esp 746.775/PR, Min. João Otávio de Noronha, relator p/ Acórdão Min. Luís Felipe Salomão, Corte Especial, julgado em 19.09.2018.
+VOTO
+As  alegações  da  parte  agravante  não  são  suficientes  para  alterar  a  decisão  agravada,  que  deve  ser  mantida  por  seus  próprios  fundamentos.
+Como  se  constatou  quando  do  julgamento  monocrático,  a  decisão  que  inadmitiu  o  recurso  especial  na  origem  pautou-se  no  seguintes  fundamentos:  incidência  da  Súmula  283  do  STF;  não  comprovação  da  divergência  jurisprudencial;  impossibilidade  de  alegação  de  divergência  com  paradigmas  oriundos  de  habeas  corpus,  mandado  de  segurança  ou  recurso  ordinário;  e  incidência  da  Súmula  7  do  STJ.
+No  agravo,  todavia,  o  agravante  não  combate  especificamente  os  fundamentos  da  decisão  agravada.
+Sobre  o  ponto  a  Corte  Especial  do  STJ  manteve  o  entendimento  da  necessidade  de  impugnação  específica  de  todos  os  fundamentos  da  decisão  agravada,  sob  pena  de  incidência  da  já  referida  Súmula  182/STJ.
+Eis  a  ementa  do  aresto  paradigma:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.  1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,  II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator  "não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.  2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.  3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.  4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.  5.  Embargos  de  divergência  não  providos".
+(EAR  Esp  n.  746.775/PR,  relator  Ministro  João  Otávio  de  Noronha,  relator  p/  Acórdão  Ministro  Luís  Felipe  Salomão,  Corte  Especial,  julgado  em  19/9/2018,  D  Je  de  30/11/2018.)
+Como  se  não  bastasse,  o  agravo  basicamente  renova  os  argumentos  antes  lançados  no  recurso  especial,  quanto  aos  quais  entendeu-se  por  aplicável  o  óbice  ora  em  análise.
+Ocorre  que  a  simples  reiteração  dos  argumentos  do  recurso  especial,  como  fez  aqui  o  agravante,  viola  o  princípio  da  dialeticidade  e  torna  inadmissível  o  agravo  do  art.  1.042  do  CPC,  nos  termos  da  Súmula  182/STJ.
+  Corrobora:
+"PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  1.  PRELIMINAR  DE  PRESCRIÇÃO.  EXAME  DE  (e-STJ  Fl.631)  Documento  eletrônico  juntado  ao  processo  em  10/12/2024  às  18:50:05  pelo  usuário:  SISTEMA  JUSTIÇA  -  SERVIÇOS  AUTOMÁTICOS  Documento  eletrônico  VDA44878258  assinado  eletronicamente  nos  termos  do  Art.1º  §2º  inciso  III  da  Lei  11.419/2006Signatário(a):  MARCELO  NAVARRO  RIBEIRO  DANTAS  Assinado  em:  10/12/2024  18:44:34Publicação  no  D  Je/STJ  nº  14  de  12/12/2024.  Código  de  Controle  do  Documento:  2ad022d5-b435-4b58-afb3-320531907982  OFÍCIO.  ART.  61  DO  CPP.  NÃO  IMPLEMENTO  DO  PRAZO  PRESCRICIONAL  ENTRE  OS  MARCOS  INTERRUPTIVOS.  2.  ACÓRDÃO  CONFIRMATÓRIO.  MARCO  INTERRUPTIVO.  TESE  FIRMADA  PELO  PLENÁRIO  DO  STF.  HC  176.473/STF.  3.  RECURSO  ESPECIAL  NÃO  ADMITIDO.  AGRAVO  NÃO  CONHECIDO.  TRÂNSITO  EM  JULGADO  QUE  RETROAGE.  ARESP  386.266/SP.  4.  NEGATIVA  DE  SEGUIMENTO  AO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  A  TODOS  FUNDAMENTOS  DA  DECISÃO.  CORRETA  INCIDÊNCIA  DA  SÚMULA  182/STJ.  5.  AGRAVO  REGIMENTAL  A  QUE  SE  NEGA  PROVIMENTO.  ..  4.  A  decisão  agravada  não  conheceu  do  agravo  em  recurso  especial,  porque  o  recorrente  se  limitou  a  repetir,  na  íntegra,  os  termos  do  recurso  especial.  Como  é  de  conhecimento,  a  ausência  de  impugnação  específica  e  pormenorizada  dos  fundamentos  da  decisão  que  não  admite  o  recurso  especial  inviabiliza  o  conhecimento  do  agravo,  por  violação  do  princípio  da  dialeticidade,  uma  vez  que  os  fundamentos  não  impugnados  se  mantêm.  Dessa  forma,  mostra-se  correta  a  incidência  do  enunciado  n.  182  da  Súmula  desta  Corte,  o  que  impede  o  provimento  ao  presente  agravo  regimental.  5.  Agravo  regimental  a  que  se  nega  provimento".
+(AgRg  no  AR  Esp  n.  1.260.918/MA,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  12/5/2020,  D  Je  de  19/5/2020.)
+Por  conseguinte,  a  Súmula  182/STJ  impede  que  se  passe  ao  mérito  do  agravo  do  art.  1.042  do  CPC,  o  qual  não  supera  o  juízo  de  admissibilidade.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
