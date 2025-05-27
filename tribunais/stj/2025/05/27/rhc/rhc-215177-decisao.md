@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LENER LOPEZ OLIVEIRA contra acórdão proferido pelo Tribunal Regional Federal da 4.ª Região.
+Consta dos autos que o recorrente foi preso preventivamente, sob a suspeita de prática dos crimes de tráfico internacional de drogas e associação para o tráfico.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte Estadual, tendo sido a ordem denegada. Eis a ementa:
+"PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA - CONJUGAÇÃO DOS PRESSUPOSTOS LEGAIS. EXCESSO DE PRAZO - INOCORRÊNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INEFICÁCIA. ORDEM DENEGADA.
+1. A prova da existência do crime e os indícios suficientes de autoria em relação ao paciente restaram plenamente demonstrados.
+2. A prisão preventiva do paciente para a garantia da ordem pública justifica-se pelas circunstâncias do caso concreto, notadamente pela possível participação em organização criminosa de elevado poderio econômico.
+3. Não se verifica excesso de prazo na manutenção da prisão preventiva quando a complexidade dos fatos em exame - com indícios de participação em organização criminosa; a pluralidade subjetiva de réus; e a inexistência de inércia no processamento da ação penal justificam o lapso temporal pelo qual perdura a segregação cautelar.
+4. Presentes as circunstâncias do caso concreto, as medidas cautelares diversas da prisão previstas no Código de Processo Penal não se mostram suficientes ao acautelamento da ordem pública.
+5. Ordem de habeas corpus denegada. " (e-STJ, fl. 72).
+Neste recurso, alega o recorrente, em síntese, excesso de prazo para o encerramento da instrução.
+Requer, assim, o relaxamento ou a revogação da prisão preventiva ou, de forma alternativa, a substituição por medidas cautelares.
+O pleito liminar foi indeferido (e-STJ, fl. 99).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 116-120).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do recurso ordinário.
+No que se refere ao excesso de prazo, segundo orientação pacificada nos Tribunais Superiores, a análise da duração da instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz.
+Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+O Tribunal de origem consignou o seguinte:
+"- LENER LOPEZ OLIVERA É apontado pela autoridade representante como o líder do grupo criminoso investigado.
+Em virtude do flagrante que deu origem às investigações, teve sua prisão preventiva decretada e foi condenado em 1º grau, no âmbito da Justiça Estadual, em conjunto com FABIO BRITO DE MU OZ, pelo tráfico de 15 Kg (quinze quilogramas) de skunk.
+Preso preventivamente em 03.03.2023, LENER LOPEZ OLIVERA, cidadão uruguaio, foi encaminhado ao Presídio de Jaguarão/RS e, depois, transferido para o Presídio de Pelotas/RS, onde supostamente teria acesso facilitado a telefones celulares, a fim de permanecer no comando do grupo criminoso.
+LENER é apontado como o responsável pelo cultivo e pela produção de maconha, a partir de locais situados na fronteira do Uruguai com o Brasil. Segundo apurado, o acusado contaria com uma fazenda no Uruguai, denominada na rede social Instagram como "Planet_hemp_Uruguay", onde possuíria uma plantação ao ar livre, e em um galpão, situado na Rua Dionísio Corornel, 161, na cidade de Rio Branco, Uruguai, que denominam "Club", onde haveria o cultivo in door de skunk.
+Sobre as instalações físicas responsáveis pela produção, a autoridade representante traz as seguintes imagens, extraídas dos perfis de Instagram de LENER, colocadas no Relatório de Análise de Polícia Judiciária nº 18/2023 (processo 5002915-82.2024.4.04.7101/RS, evento 1, DOC28, p. 52/53):
+ ..
+O alegado excesso de prazo, por sua vez, não se evidencia. Sobre o tema, cumpre referir que o excesso de prazo só pode ser reconhecido quando a demora, à luz do princípio da razoabilidade, for injustificada, devendo ser consideradas as particularidades do caso concreto, a forma da condução do feito pelo magistrado e a atuação das partes.
+Nessa linha, o entendimento consolidado no âmbito dos Tribunais Superiores é no sentido de que a mera extrapolação dos prazos processuais legalmente previstos não tem o condão de, automaticamente, acarretar o relaxamento da prisão do investigado.
+ ..
+Aliás, a jurisprudência do Superior Tribunal de Justiça, até mesmo quando há desrespeito aos prazos procedimentais em processos envolvendo réus presos, não tem reconhecido o constrangimento ilegal, ante critérios de razoabilidade, máxime quando se cuida de processos ou investigações - como, inexoravelmente, se verifica na espécie - com vários réus e particular complexidade.
+Já houve o oferecimento de denúncia contra o paciente e o processo apresenta marcha regular - não se verifica inércia dos órgãos estatais no processamento do feito. Outrossim, como já referido, há considerar a existência de pluralidade subjetiva no polo passivo da ação penal e a complexidade dos fatos apurados - envolvendo o cometimento de crimes em associação delitiva. Todas essas circunstancias justificam o lapso temporal pelo qual perdura a segregação cautelar do paciente. " (e-STJ, fl. 3.554).
+Conforme informações de fls. 106-111, em 28/1/2025, o Juízo a quo determinou a cisão processual do recorrente e outros réus para faser a "Solicitação de Assistência Jurídica em Matéria Penal - SAJ com finalidade de formalizar suas notificações para apresentação de defesa prévia, tendo sido autuados sob o processo n. 5001689-05.2025.4.04.7102 (ev. 172.1)" (e-STJ, fl. 107). Destacou-se, ainda, que "atendendo à solicitação do MInistério da Justiça - Coordenação de Extradição e Transferência de Pessoas Condenadas do Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional, foi efetivada a transferência de LENER LOPEZ OLIVEIRA, do Uruguai para o Brasil, encontrando-se recolhido no Presídio Estadual de Pelotas/RS, desde 29/04/2025 (ev. 392.1)" (e-STJ, fl. 110).
+Da análise dos autos, verifica-se que se trata de ação penal decorrente da chamada Operação Flos que envolve um grupo criminoso envolvido em tráfico internacional de drogas que demanda maior dilação probatória pelos múltiplos agentes nacionais e estrangeiros, bem como pela complexidade dos delitos .
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL ORGANIZAÇÃO CRIMINOSA E TRÁFICO INTERNACIONAL DE DROGAS. REDE COMPLEXA DE COLABORADORES. ENVOLVIMENTO DE FUNCIONÁRIOS DO PORTO E TÉCNICOS RESPONSÁVEIS PELA MANUTENÇÃO DE CONTÊINERES. APREENSÃO DE MAIS DE TRÊS TONELADAS DE COCAÍNA. EXCESSO DE PRAZO NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a prisão preventiva de acusado por participação em organização criminosa voltada ao tráfico internacional de drogas, com apreensões significativas de cocaína em portos internacionais.
+2. Fato relevante. O agravante, técnico de manutenção de contêineres, utilizava seu acesso privilegiado para facilitar a inserção de drogas em contêineres, contribuindo para a logística do tráfico internacional. A prisão preventiva foi mantida para garantir a ordem pública e evitar a reiteração delitiva.
+3. As decisões anteriores. O Tribunal de origem concluiu pela adequação da prisão preventiva, considerando a complexidade do caso, a quantidade de droga apreendida e a periculosidade do grupo criminoso.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a manutenção da prisão preventiva do agravante é justificada pela gravidade das condutas, periculosidade do agente e risco de reiteração delitiva, bem como se há excesso de prazo na formação da culpa.
+III. Razões de decidir
+5. A manutenção da prisão preventiva é justificada pela necessidade de garantir a ordem pública, em razão da gravidade concreta das condutas e da periculosidade do agente.
+6. A complexidade do caso, envolvendo uma organização criminosa com múltiplos réus e operações internacionais, justifica a dilação dos prazos processuais, não configurando excesso de prazo.
+7. A jurisprudência desta Corte é pacífica quanto à manutenção da prisão preventiva em casos de tráfico de drogas, considerando a quantidade de droga e a contumácia delitiva.
+IV. Dispositivo 8. Agravo desprovido. (AgRg no RHC n. 208.415/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO MATCH POINT. TRÁFICO INTERNACIONAL DE DROGAS E LAVAGEM DE DINHEIRO. EXTENSÃO DE PRISÃO DOMICILIAR CONCEDIDA A CORRÉU. INDENTIDADE DE SITUAÇÕES QUE NÃO SE VERIFICA. CONDIÇÕES PERSONALÍSSIMAS. EXCESSO DE PRAZO. COMPLEXIDADE.
+1. O art. 580 do CPP prescreve que, "no caso de concurso de agentes  .. , a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros". Assim, a extensão dos efeitos de benefício concedido a um réu depende da demonstração de que não houve particularização dos fundamentos que não se apliquem aos demais.
+2. No caso, a prisão domiciliar concedida ao corréu decorreu de uma série de fatores pessoais, a saber: idade acima de 60 anos; sérios problemas de saúde física e mental; risco de suicídio; além de ter uma filha menor, com mãe falecida, que estava sob os cuidados da avó, que é cega e passou a ser cuidada pela irmã, coinvestigada.
+Tais circunstâncias são personalíssimas e não se verificam no âmbito familiar do ora recorrente.
+3. Destacou-se que a filha do agravante está sob os cuidados da mãe - coinvestigada e beneficiada pela prisão domiciliar justamente para cuidar da menor. E, quanto ao estado de saúde da companheira dele, consignou o Magistrado de primeiro grau que o atestado e os laudos médicos acostados aos autos não indicaram risco ou ineficácia do tratamento medicamentoso, nada mencionando acerca de eventual incapacidade para cuidar da filha, com 12 anos de idade, o que não autoriza a prisão domiciliar, nos termos do art. 318 do CPP.
+4. Como se pode ver, a decisão judicial favorável proferida em favor do corréu encontra-se fundada em motivos de caráter eminentemente pessoal, sendo evidente a diversidade na situação fático-jurídica, o que impede a extensão dos efeitos da decisão proferida em benefício deste, nos moldes do disposto no citado art. 580 do CPP.
+5. A aferição do excesso de prazo não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+6. No caso, o processo vem tendo regular andamento na origem, sem indícios de desídia ou paralisação imputável aos órgãos estatais responsáveis. O feito está tramitando normalmente, sobretudo, dada a complexidade e a pluralidade de réus.
+7. Agravo regimental a que se nega provimento. (AgRg no RHC n. 205.133/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
