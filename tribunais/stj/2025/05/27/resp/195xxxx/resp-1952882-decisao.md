@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por DERCY MILANI, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado à pena de 12 (doze) anos e 06 (seis) meses de reclusão, em regime inicial fechado, ante a prática do delito tipificado no artigo 121, § 2º, incisos II e IV, do Código Penal.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 93, IX, da Constituição Federal e 121, § 2º, incisos II e IV, do Código Penal.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+De saída, esta Corte Superior possui orientação no sentido de que não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (EDcl no AgRg no AREsp 2688436 / MS, QUINTA TURMA, de minha relatoria, DJEN 20/12/2024)."
+De outro ângulo, no que toca ao pleito de exclusão das qualificadoras, entenda esta Corte Superior que "rever o entendimento do Tribunal de origem para afastar a pronúncia demandaria necessariamente amplo reexame do acervo fático-probatório, procedimento incompatível com a estreita via do mandamus, entendimento que se aplica à pretensão de decote da qualificadora, porquanto cabe ao juiz natural da causa, o Conselho de Sentença, debater a classificação e qualificação dos delitos imputados ao réu, art. 5º, XXXVII, "d", da Constituição Federal" (AgRg no HC 891631 / SC, QUINTA TURMA, de minha relatoria, DJe 24/05/2024).
+Com efeito, ao que se depreende das razões de decidir adotadas pelo Tribunal de origem, entendeu-se pela manutenção das qualificadoras a partir dos seguintes fundamentos (fl. 632):
+"Também não há que se falar em decisão contrária à prova dos autos no reconhecimento, pelos jurados, das qualificadoras. A qualificadora do motivo fútil se refere ao fato de a vítima ter discutido com o acusado por desentendimento no trânsito. A qualificadora do recurso que dificultou a defesa da vítima se deve ao fato de ela estar pilotando uma motocicleta, que estava parada, e o réu, um caminhão. As provas dos autos são nesse sentido."
+Na espécie, portanto, o acolhimento da pretensão defensiva depende da incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
