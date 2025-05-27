@@ -1,0 +1,23 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por CLEBER RIBEIRO DE QUEIROZ - preso preventivamente pela prática, em tese, do crime de tráfico de drogas, com apreensão de 20,4 g de maconha e 9,6 g de crack -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1402144-78.2025.8.12.0000), co mporta provimento.
+Com efeito, busca o recurso a revogação da segregação cautelar imposta pelo Juízo de Direito da Vara das Garantias, Tribunal do Júri e Execução Penal da comarca de Três Lagoas/MS (Autos n. 0800453-24.2025.8.12.0018), ainda que mediante a imposição de outras medidas cautelares diversas da prisão, sob o argumento de inidoneidade dos fundamentos do decreto da custódia cautelar do recorrente, pois justificada na gravidade abstrata do delito.
+Afirma que o recorrente possui condições pessoais favoráveis e que a denegação da ordem pelo Tribunal de Justiça se deu por voto da maioria, destacando que a Desembargadora prolatora do voto minoritário afirmou que é evidente que a apreensão de 20 gramas de maconha e 9.6 gramas de crack não é suficiente para abalar a ordem pública de Paranaíba/MS de modo que seja decretada a prisão preventiva de um jovem primário, que não pode ser punido por estar desempregado ou morando de favor (fl. 159).
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, asseverando o Magistrado de primeiro grau que se vislumbra a concreta gravidade do crime, a variedade de drogas apreendidas e "modus operandi". Por conseguinte, de rigor a conversão do flagrante em preventiva, não se mostrando adequadas as medidas cautelares diversas da prisão (fl. 88).
+Com efeito, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seu decisum a fatores reais de cautelaridade.
+O que não ocorreu na espécie, conforme se verifica das transcrições da decisão que converteu a prisão em flagrante em preventiva.
+A propósito:
+ ..
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. O decreto prisional não apontou elementos válidos para justificar a prisão preventiva, com base nas hipóteses da norma processual penal.
+4. Efetivamente, nem mesmo a droga apreendida com o réu, absolutamente primário, não pode ser considerada relevante a ponto de justificar a restrição total da sua liberdade - 30,32 gramas de cocaína, mais uma balança. Bem como se trata de crime sem violência ou grave ameaça à pessoa. Precedentes.
+5. Assim, concluo ter havido restrição à liberdade do agravado sem idônea fundamentação, o que impõe o deferimento do pedido de urgência, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera antecipação da resposta punitiva à conduta.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 944.874/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2024 - grifo nosso).
+Ademais, extrai-se do laudo pericial de fls. 72/74 que foram apreendidos apenas (20 ,4 g de maconha e 9,6 g de crack), não havendo apreensão de outros objetos que poderiam indicar uma maior dedicação a atividades criminosas ou organização para a traficância pelo recorrente, tais como, balança de precisão, caderno de anotações, elevada quantia em dinheiro, materiais para embalagens, dentre outros.
+Ante o exposto, dou provimento ao recurso ordinário em habeas corpus para revogar a prisão cautelar imposta ao recorrente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou da superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (20,4 G DE MACONHA E 9,6 G DE CRACK). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. AUSÊNCIA. MENÇÃO, APENAS, À GRAVIDADE ABSTRATA DO CRIME. QUANTIDADE NÃO EXORBITANTE DE DROGAS. DELITO COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
