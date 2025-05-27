@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por Universidade Federal de Santa Maria (UFSM), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 867):
+ADMINISTRATIVO. APELAÇÃO. SERVIDOR PÚBLICO CIVIL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA DOS PERÍODOS NÃO GOZADOS E NÃO UTILIZADOS PARA FINS DE APOSENTADORIA. ISENÇÃO TRIBUTÁRIA. BASE DE CÁLCULO. ATUALIZAÇÃO MONETÁRIA. TEMA 1.086 DO STJ.
+1. O cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, incluindo-se gratificação natalina, férias, adicional de 1/3 de férias, abono de permanência, adicional de insalubridade, auxílio-alimentação e saúde suplementar.
+2. A conversão da licença-prêmio não usufruída em pecúnia tem natureza indenizatória, não incidindo imposto de renda e contribuição previdenciária.
+3. A correção monetária incide desde quando devida cada parcela.
+4. Apelação desprovida.
+Os embargos de declaração opostos foram parcialmente acolhidos, apenas para fim de prequestionamento (fls. 903/909).
+Em suas razões (fls. 916-923), a parte recorrente alega violação ao art. 1.022, I e II, do Código de Processo Civil, sustentando que o Tribunal de origem recusou-se a enfrentar/prequestionar a matéria, razão pela qual deve ser anulada a decisão, retornando os autos para pronunciamento sobre as questões jurídicas abordadas nos embargos de declaração.
+Defende a ilegitimidade da autarquia para responder aos termos da demanda, relativamente ao capítulo do pedido no qual se pleiteia a isenção tributária sobre a verba remuneratória pretendida.
+Argumenta que a decisão recorrida fixou a base de cálculo da licença prêmio convertida em pecúnia em dissonância com o entendimento do STJ, sendo necessária a exclusão do adicional de insalubridade.
+Aponta que, para os juros de mora, a taxa selic deve incidir a partir da data da citação e, para o momento anterior a citação, deve ser observada a incidência do IPCA-e, conforme temas 905/STJ e 810/STJ.
+Contrarrazões apresentadas às fls. 928/938.
+O recurso foi admitido na origem à fl. 941.
+É o relatório.
+O recurso especial não deve ser conhecido.
+De pronto, verifica-se a deficiência da fundamentação quanto à alegada violação ao art. 1.022, I e II, do CPC, pois apresentada de forma genérica no recurso especial, não sendo demonstrados exatamente os pontos em que o acórdão se fez omisso, o que justifica a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já decidiu que "é deficiente a fundamentação de recurso especial em que a alegação de ofensa ao art. 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata do ponto omisso, contraditório ou obscuro constante do acórdão recorrido, incidindo, por analogia, o óbice da Súmula n. 284/STF" (REsp n. 2.035.645/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/8/2024, DJe de 15/8/2024).
+De igual sorte, percebe-se que a parte recorrente não indicou expressamente , em suas razões recursais, os dispositivos legais federais supostamente violados quanto às teses de ilegitimidade passiva da autarquia quanto ao capítulo de isenção tributária; base de cálculo da licença-prêmio convertida em pecúnia; e incidência de juros de mora, não evidenciando, assim, os motivos que fundamentariam a sua irresignação.
+Acrescente-se, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do recurso especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.928.578/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/3/2022).
+Dessarte, também incide na espécie o enunciado 284 da Súmula do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. CONDENAÇÃO MANTIDA. PRECEDENTES. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+2. Os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+Precedentes.
+3. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.425.182/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.) (nossos os grifos).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. JUROS MORATÓRIO. TERMO INICIAL. CITAÇÃO VÁLIDA. SÚMULA 204/STJ. ÍNDICES. TEMA 905/STJ. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 111/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Quando não há a indicação de dispositivo de lei federal violado ou a sua mera citação desacompanhada da demonstração efetiva da alegada contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - No julgamento do Tema n. 905/STJ dos recursos especiais repetitivos, restou fixado que nas condenações de natureza previdenciária impostas à Fazenda Pública sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei n. 11.430/2006, que incluiu o art. 41-A na Lei n. 8.213/1991. Os juros de mora incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009).
+IV - Nos termos da Súmula 204/STJ, em se tratando de débitos relativos a benefícios previdenciários, os juros de mora incidem a partir da citação.
+V - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+VI - Fixada a verba honorária pela instância ordinária com amparo nos critérios legais, a revisão de tal valor por esta Corte é cabível tão somente em caráter excepcional, quando o valor da condenação se mostrar irrisório ou exorbitante, o que não é o caso. Aplicação da Súmula n. 7/STJ.
+VII - Nas ações previdenciárias, os honorários advocatícios não incidem sobre as prestações vencidas até o trânsito em julgado do feito, nos termos da Súmula 111/STJ. Esse entendimento foi ratificado no julgamento do Tema n. 1.105/STJ.
+VIII - É defeso examinar, em sede de agravo interno, argumentos não suscitados oportunamente pelas partes nas razões de recurso especial, dada a inovação recursal e a preclusão consumativa.
+IX - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+X - Agravo Interno improvido.
+(AgInt no REsp n. 2.121.376/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.) (nossos os grifos).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente no importe de 10% sobre o valor já arbitrado , nos termos do artigo 85, § 11º, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022, I e II, DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284/STF, APLICADA POR ANALOGIA. ILEGITIMIDADE PASSIVA DA AUTARQUIA QUANTO A ISENÇÃO TRIBUTÁRIA, BASE DE CÁLCULO DA LICENÇA-PRÊMIO CONVERTIDA EM PECÚNIA E INCIDÊNCIA DOS JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL FEDERAL CONTRARIADO. SÚMULA 284/STF, APLICADA POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
