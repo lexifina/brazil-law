@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decis ão que inadmitiu recurso especial interposto por JOSABETE FREITAS LOZ DE OLIVEIRA com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado (e-STJ, fl. 250):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE TUTELA DE URGÊNCIA C/C INDENIZAÇÃO POR DANOS MORAIS - CORTE DE FORNECIMENTO DE ÁGUA - AÇÃO JULGADA IMPROCEDENTE - ALEGAÇÃO DE PAGAMENTO OU QUITAÇÃO DE FATURA MENSAL - FATURA PAGA COM ATRASO DE QUASE 60 (SESSENTA) DIAS - COMUNICAÇÃO REGULAR DA FORNECEDORA DO ATRASO NO PAGAMENTO DA FATURA, PASSÍVEL DE CORTE. FATURA PAGA NA MESMA DATA EM QUE FOI DETERMINADO O CORTE NO FORNECIMENTO OCORRIDO EM TEMPO INFERIOR A 48 HORAS DO PAGAMENTO - AUSÊNCIA DE COMUNICAÇÃO DO PAGAMENTO PELA AUTORA E DE TEMPO HÁBIL PARA BAIXA NO SISTEMA. COMPENSAÇÃO BANCÁRIA E SUSPENSÃO DA DETERMINAÇÃO DE CORTE - CORTE JUSTIFICIADO - REGULAMENTO LEGAL - AUSÊNCIA DE DANO MORAL - RECURSO DESPROVIDO.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 261-276), a insurgente apontou violação aos arts. 14 e 22 do CDC; e aos arts. 186 e 927 do Código Civil.
+Sustentou a responsabilidade objetiva da parte agravada, pois, sendo fornecedor do serviço e tendo recebido o pagamento acerca do débito em atraso, deveria ter evitado o corte no fornecimento de água. Assim, deve responder independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.
+Alegou que a conduta da agrava revelou-se abusiva, uma vez que, no dia da interrupção do fornecimento, já possuía ciência do pagamento realizado pela consumidora do serviço.
+Afirmou que a interrupção e água quando não havia mais situação de inadimplência provocou dano moral.
+Contrarrazões às fls. 279-283 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 286-290), o que ensejou a interposição do presente agravo (e-STJ, fls. 298-302).
+Brevemente relatado, decido.
+Trata-se, na origem, de ação declaratória de inexistência de débito cumulada com indenização por danos morais ajuizada pela ora agravante em desfavor da Companhia de Saneamento de Sergipe - DESO (ora agravada).
+No que concerne à alegada responsabilidade objetiva e à falha na prestação de serviço, a Corte de origem, à luz das provas dos autos, apontou a inexistência da falha aduzida pela recorrente (e-STJ, fls. 252-253, sem grifos no original):
+Inicialmente, cumpre destacar que incidem no presente caso as regras do Código de Proteção e Defesa do Consumidor - CDC, vez que a DESO se enquadra na conceituação de fornecedor de serviços, enquanto o autor figura como destinatário final deste serviço, sendo, portanto, definida como consumidora (arts. 2º e 3º do CDC).
+Nesse diapasão, responde a requerida, de forma objetiva, pelos danos causados à requerente, não havendo necessidade de se perquirir sobre sua culpa, conforme inteligência do art. 14 do indigitado diploma legal, bastando, assim, a prova da existência do fato e o nexo de causalidade, o que no caso em tela restou incontroverso.
+Imperioso destacar também, a incidência das regras consumeristas no que tange à inversão do ônus da prova, quando seja hipossuficiente o consumidor ou quando forem verossímeis suas alegações (art. 6º, inciso VIII, do CDC).
+Trata-se de ônus da ré trazer documentos aptos a provar suas alegações, no caso em concreto, a confirmação de que havia fatura mensal de consumo em aberto
+Neste sentido, pretende a recorrente a indenização por danos morais, alegando o corte no fornecimento, mesmo estando adimplente com as faturas mensais correspondente ao fornecimento de água.
+Entretanto, as provas dos autos comprovam a inadimplência da autora, permitindo a aplicação das normas regimentais acerca do corte no fornecimento, após regular comunicação ao consumidor, sobre o atraso no pagamento da fatura mensal
+Realmente constatamos que houve o corte no fornecimento de água, conforme avista-se à p. 34, em função da inadimplência da conta referente ao mês de dezembro de 2023.
+Ora, o ponto divergente incide sobre a legalidade ou não do corte, ou seja, há que se refletir se o corte fora legítimo, por inadimplência da recorrente, ou não.
+A requerente destaca que a fatura estava paga, não havendo inadimplência. Porém, esmiuçando as datas de vencimento, percebemos que a fatura foi quitada com mais de um mês após a data regular. A fatura referente ao mês de dezembro de 2023, com vencimento em 27/12/2023 (p. 31), somente fora quitada em 19/02/2024 (p. 30).
+Na fatura referente ao mês de Janeiro de 2024, a apelante recebeu o aviso do corte (p. 160), por impontualidade da conta do mês de dezembro de 2023, no valor de R$ 45,01 (quarenta e cinco reais e um centavo), que somente fora quitada em 19 de fevereiro de 2024, conforme já exposto.
+Nestes termos, o pagamento da conta foi realizado com atraso de quase 60 dias.
+Ressalte-se que, ao contrário do alegado pela autora, não houve tempo hábil para a baixa no sistema, compensação bancária do pagamento, realizado às 15:48 horas do dia 19/02/24, tendo sido emitido o documento do corte às 18:44 horas da mesma data, e o corte no dia 21/02/24, ocorrendo a baixa da fatura no dia 20/04/24, sem tempo suficiente para a sua suspensão.
+Logo, não há que se falar em falha na prestação de serviço da DESO, haja vista que a autora recebeu a notificação com aviso de corte, diante do atraso significativo, quanto ao pagamento da conta de água mensal.
+O juízo sentenciante destacou a legitimidade da suspensão no fornecimento de água por inadimplência:
+ ..
+Realmente, o atraso representa a inadimplência da demandante, afastando o alegado dano moral, ausente o nexo entre a conduta e o dano.
+Nesse contexto, a revisão do julgado quanto à conclusão alcançada pela Corte de origem sobre a inexistência da falha de serviço alegada pela agravante importa necessariamente o reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado da Súmula n. 7 deste Superior Tribunal.
+Quanto à aventada ocorrência de dano moral decorrente da interrupção do fornecimento de água, o Tribunal estadual assim se pronunciou (e-STJ, fl. 253):
+No que diz respeito ao pedido de indenização por danos morais, discorre sobre o tema, o Professor Arnaldo Rizzardo, com a seguinte conceituação:
+ ..
+Desta forma, não há evidência do dano neste caso especifico, diante de culpa da autora, que se manteve inadimplente, após a data do vencimento da respectiva fatura.
+Ora, tendo a Corte de origem adotado o entendimento, à luz das prova coligidas aos autos, que não ficou demonstrado o dano moral alegado pela parte agravante, é defeso a este Superior Tribunal proceder ao revolvimento do acervo fático-probatório com a finalidade de alcançar conclusão diversa. Incide, portanto, o enunciado da Súmula n. 7/STJ.
+Por fim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor atualizado da causa, observado o benefício da gratuidade (arts. 85, § 2º, e 98, § 3º, do CPC).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. INTERRUPÇÃO DO FORNECIMENTO DE ÁGUA. 1. DIREITO DO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇO. 2. DIREITO CIVIL. DANOS MORAIS. 3. PRETENSÕES RECURSAIS QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
