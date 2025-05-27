@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA VARA ÚNICA DE FARTURA - SP em face do JUÍZO DE DIREITO DA 2A VARA CRIMINAL DE BARRA DO GARÇAS - MT por ocasião do processamento do Inquérito Policial n. 1176-58.2019.811.0004 (0001351-68.2019.8.26.0187).
+No presente conflito, o suscitante relata que o inquérito policial foi instaurado para a apuração de crime de estelionato praticado por ligação telefônica, em que a vantagem indevida foi obtida por meio de transferência bancária.
+Alega que o delito de estelionato se consuma no momento e no local em que obtida a vantagem indevida, e que "em que pese o depósito tenha sido realizado nesta Comarca, a consumação do delito somente ocorreu quando o valor transferido foi creditado na conta destinatária, a qual pertence a agência de Barra dos Garças" (fl. 51).
+Requer, assim, a fixação da competência do Juízo suscitado, sede da agência em que foi recebida a indevida vantagem econômica, nos termos do art. 70, caput do Código de Processo Penal - CPP.
+Ministério Público Federal manifestou-se pelo conhecimento do conflito e declaração de competência do Juízo Suscitante, nos termos do parecer de fls. 96/98.
+É o breve relatório.
+Decido.
+Presentes os requisitos de admissibilidade, o presente conflito deve ser conhecido.
+Tratando-se de inquérito policial em que se apura, em tese, crime de estelionato praticado por ligação telefônica em que a vantagem indevida foi obtida por meio de depósito bancário, verifica-se que deve ser aplicado ao caso concreto a regra insculpida no art. 70, § 4º, do CPP. A propósito, confira-se o seu teor:
+"Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+ ..
+§ 4º Nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção. (Incluído pela Lei nº 14.155, de 2021)."
+Logo, deve ser fixada a competência do local do domicílio da vítima de estelionato, ainda que os fatos tenham ocorrido antes do advento da Lei n. 14.155/2021.
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DENÚNCIA DE PRÁTICA DE ESTELIONATO. TRANSFERÊNCIA BANCÁRIA FRUSTRADA E EMISSÃO DE CHEQUE SEM SUFICIENTE PROVISÃO DE FUNDO. ART. 70, § 4º, DO CPP. COMPETÊNCIA DO DOMICÍLIO DA VÍTIMA. APLICAÇÃO IMEDIATA DA LEI PROCESSUAL AOS PROCESSOS EM CURSO. COMPETÊNCIA DE TERCEIRO JUÍZO. AGRAVO REGMENTAL PARCIALMENTE PROVIDO.
+1. Nos termos do § 4º do art. 70 do Código Penal, acrescentado pela Lei n. 14.155/2021, a competência para o processamento e o julgamento dos crimes de estelionato, quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+2. Conforme orientação jurisprudencial desta Corte Superior, a lei processual tem aplicação imediata, mesmo que os fatos tenham ocorrido antes da lei nova, motivo pelo qual, diante da alteração legislativa que criou hipótese específica de competência no caso de crime de estelionato, deve ser reconhecida a competência do Juízo do domicílio da vítima.
+3. Agravo regimental parcialmente provido para declarar a competência de uma das Varas Criminais da Circunscrição Judiciária do Riacho Fundo/DF, juízo não envolvido no presente conflito.
+(AgRg no CC n. 196.475/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/6/2023, DJe de 21/6/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. ESTELIONATO. CRIME PRATICADO MEDIANTE CHEQUE FRAUDULENTO. HIPÓTESE NÃO PREVISTA NA LEI N. 14.155/2021. CONSUMAÇÃO DO CRIME NO LOCAL ONDE A VÍTIMA POSSUI CONTA BANCÁRIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O delito de estelionato, tipificado no art. 171, caput, do Código Penal, consuma-se no lugar onde aconteceu o efetivo prejuízo à vítima. Por essa razão, a Terceira Seção do Superior Tribunal de Justiça, no caso específico de estelionato praticado por meio de depósito em dinheiro ou transferência de valores, firmara a compreensão de que a competência seria do Juízo onde se auferiu a vantagem ilícita em prejuízo da vítima, ou seja, o local onde se situava a conta que recebeu os valores depositados.
+2. A Lei n. 14.155, de 27 de maio de 2021, que incluiu o § 4.º no art. 70 do Código de Processo Penal, criou hipótese específica de competência no caso de crime de estelionato praticado mediante depósito, transferência de valores ou cheque sem provisão de fundos em poder do sacado ou com o pagamento frustrado. Diante da modificação legislativa, não mais subsiste o entendimento firmado por esta Corte Superior, devendo ser reconhecida a competência do Juízo do domicílio da vítima.
+3. Contudo, a hipótese dos autos, como bem ressaltou o parecer ministerial, não foi expressamente prevista na nova legislação, visto que não se trata de cheque emitido sem provisão de fundos ou com pagamento frustrado, mas de tentativa de saque de cártula falsa, em prejuízo de correntista. Assim, aplica-se o entendimento pela competência do Juízo do local do eventual prejuízo, que ocorre com a autorização para o saque do numerário no local da agência bancária da vítima.
+4. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE URUPÊS/SP, o Suscitado.
+(CC n. 182.977/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/3/2022, DJe de 14/3/2022.)
+Ante o exposto, conheço do presente conflito para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE FARTURA - SP para processar o Inquérito Policial n. 1176-58.2019.811.0004 (0001351-68.2019.8.26.0187).
+Publique-se.
+Intimem-se.
+EMENTA
