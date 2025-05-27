@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por Maria Auxiliadora Teixeira da Silva, contra decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, sob o fundamento de sua intempestividade.
+Inconformada, a parte agravante, em suas razões, sustenta que "o referido recurso foi interposto dentro do prazo, uma vez que houve suspensão de prazos devido ao feriado de Corpus-Christi, conforme Provimento 2.728/2023  ..  Portanto, o Recurso Especial foi interposto dentro do prazo legal, uma vez que a decisão foi disponibilizada no dia 23 de maio de 2024 (quinta-feira), publicada no dia 24 de maio de 2024 (sexta feira), iniciando-se o prazo no dia 27 maio de 2024, havendo suspensão nos dias 30 e 31 de maio de 2024 devido ao Feriado de Corpus-Christi, seguindo o prazo para o dia 18 de junho de 2024." (fls. 520/521)
+As razões do recurso não foram impugnadas.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fl. 508), tornando-a sem efeito.
+Passo a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto por Maria Auxiliadora Teixeira da Silva, desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial com base nos seguintes fundamentos: (I) que assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial; (II) aplicação da Súmula 284/STF; e (III) não comprovação do dissídio jurisprudencial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar os supracitados motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, limitando-se a repetir a argumentação adotada no bojo das razões do apelo especial.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
