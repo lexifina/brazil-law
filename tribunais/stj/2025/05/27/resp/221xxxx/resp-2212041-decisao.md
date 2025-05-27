@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por Estado de Alagoas com fundamento no art. 105, III, a , da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 621):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. A LICITAÇÃO. REGIME DIFERENCIADO DE CONTRATAÇÕES PÚBLICAS RDC. EDITAL RDC Nº 01/2022. CONSÓRCIO ARENA ALAGOAS. CONTRATAÇÃO DE EMPRESA DA CONSTRUÇÃO CIVIL PARA ELABORAÇÃO DE PROJETO EXECUTIVO E CONSTRUÇÃO DE 20 (VINTE) ARENAS DE ESPORTE DE PRAIA, EM SISTEMA DE GALPÃO DE CONCRETO PRÉ-MOLDADO, A SEREM IMPLANTADOS EM DIVERSOS MUNICÍPIOS DO ESTADO DE ALAGOAS. INABILITAÇÃO FUNDAMENTADA NO NÃO ATENDIMENTO DOS REQUISITOS DELINEADOS PELO ITEM 7.2.1.1 DO CERTAME, ESPECIFICADAS NO CAT Nº 666028/2016. APLICABILIDADE DOS PRINCÍPIOS ADMINISTRATIVOS QUE REGEM O PROCEDIMENTO DE LICITAÇÃO. PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. NECESSIDADE DE MITIGAÇÃO SOB PENA DE EXCESSO DE FORMALISMO. PRECEDENTE DO STJ E DESTA CORTE. SENTENÇA REFORMADA PARA CONCEDER A ORDEM. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados (fls. 746/768).
+A parte recorrente aponta violação aos arts. 489, § 1º, e 1.022, II, do CPC, sustentando que não ocorreu pronunciamento do Tribunal de origem sobre a omissão suscitada nos embargos de declaração acerca da ausência de comprovação dos requisitos do edital, bem como do contrato de sociedade em conta de participação como documento apto a demonstrar a incapacidade da parte.
+Foram ofertadas contrarrazões às fls. 844/850.
+O Ministério Público Federal, na condição de fiscal da lei, opina pelo não conhecimento dos recursos especiais (fls. 944/952).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ao tratar do tema, o Tribunal de origem consignou (fls. 626/629):
+Nesse diapasão, compreende-se que a documentação que integra os autos enseja uma revisão na sentença primária, tendo em vista que a CAT nº 666028/2016, aliada à declaração do Presidente do FIEA, evidencia a conformidade com as exigências de qualificação técnica preconizadas no edital do certame.
+ ..
+Igualmente, não encontra respaldo o argumento adotado pelo Juízo a quo, o qual questionou a validade da declaração constante à fl. 195 dos autos originais, sob a alegação de que foi emitida pelo presidente de uma instituição diversa da contratante principal. Investigação realizada nos sítios eletrônicos do SENAI/AL e do FIEA revela que o Sr. José Carlos Lyra de Andrade ocupa a posição de presidente em ambas as instituições, ambas integrantes do mesmo sistema da indústria. Essa constatação confirma o atendimento ao disposto no item 10.5.5.1 do edital, fornecendo robustos indícios de que a parte recorrente demonstrou de maneira idônea a qualificação técnica exigida no âmbito da licitação em análise.
+Assim, conclui-se que "A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015." (AgInt no AREsp n. 2.316.500/MA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+ANTE O EXPOSTO, conheço do recurso especial e nego-lhe provimento.
+Publique-se.
+ EMENTA
