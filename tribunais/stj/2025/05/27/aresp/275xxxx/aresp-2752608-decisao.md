@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por FRANCISCO SCARPARI NETO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 501):
+APELAÇÃO CÍVEL. DIREITO DAS SUCESSÕES. INVENTÁRIO PRODUÇÃO ANTECIPADA DE PROVAS. SENTENÇA INDEFERITÓRIA DA PETIÇÃO INICIAL PARA PRODUÇÃO DE PROVAS DO ACERVO PATRIMONIAL DE AUTOR DE HERANÇA, POR HERDEIRO. EXISTÊNCIA DE DOAÇÕES INOFICIOSAS. RECURSO CONHECIDO E PROVIDO EM PARTE. PRELIMINARES EM 1. A. REJEIÇÃO. JUÍZO DE SUCESSÕES PORQUE OSCONTRAMINUTA. COMPETÊNCI DOCUMENTOS SOLICITADOS VISAM INSTRUIR AUTOS DE INVENTÁRIO. APLICAÇÃO DO ARTIGO 6º, ALÍNEA "G", DA RESOLUÇÃO 93/2013, DO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA. 2. EXISTÊNCIA. UTILIDADE DA DEMANDA PARAINTERESSE DE AGIR. CONFERÊNCIA DO ACERVO PATRIMONIAL. 3. . RECONHECIMENTO. TRANSFERÊNCIA DE BENS PELO AUTOR DALEGITIMIDADE PASSIVA HERANÇA AOS REQUERIDOS. PARTICIPAÇÃO NA RELAÇÃO JURÍDICA DISCUTIDA NOS AUTOS. RECEBIMENTO DA PETIÇÃO INICIAL. ACERVO PATRIMONIAL DO AUTOR DAMÉRITO. HERANÇA ESVAZIADO EM RELAÇÃO A UM HERDEIRO E DEMONSTRAÇÃO DE DOAÇÕES INOFICIOSAS EM FAVOR DE HERDEIRO E OUTROS EM SUCESSIVAS RELAÇÕES JURÍDICAS. LEGITIMIDADE DE HERDEIRO PARA BUSCA DE BENS EM NOME DO E DEDE CUJUS HERDEIRO. AUTOR DA HERANÇA FUNDADOR DA EMPRESA GOIOERÊ EMPREENDIMENTOS LTDA COM DEMONSTRADO PATRIMÔNIO E DESENVOLTURA POSITIVA. BENEFÍCIO DE FILHO PRIVILEGIADO MATERIALIZADA EM 39 (TRINTA E NOVE) ALTERAÇÕES CONTRATUAIS QUE FAVORECEM CONHECIMENTO E APRECIAÇÃO PELOS DEMAIS HERDEIROS EM EXPECTATIVA DE QUINHÃO PARA AFERIR A POSSIBILIDADE DE PRETENSÃO A ESTES BENS, OU NÃO. DOAÇÃO DA FAZENDA SCARPARI POSTERIORMENTE INCORPORADA A GOIOERÊ EMPREENDIMENTOS LTDA. CIRCUNSTÂNCIAS FÁTICAS INDICATIVAS DA INDISPENSABILIDADE DE PROVOCAÇÃO E DILIGENCIAS PARA AFERIR A REGULARIDADE DO ESVAZIAMENTO PATRIMONIAL EMPRESARIAL DO ESPÓLIO. 2. QUEBRA DO SIGILO FISCAL E NÃO CONHECIMENTO. AUSÊNCIA DE VALORAÇÃO DA PROVA. ANÁLISE DABANCÁRIO. QUEBRA DO SIGILO FISCAL E BANCÁRIO PELO JUÍZO DE ORIGEM, SOB PENA DE SUPRESSÃO DE INSTÂNCIA E AFRONTA AO DUPLO GRAU DE JURISDIÇÃO. RECURSO CONHECIDO EM PARTE, E NESTA EXTENSÃO, PROVIDO PARA DETERMINAR O PROCESSAMENTO DA PRODUÇÃO ANTECIPADA DE PROVAS PELO JUÍZO DE ORIGEM.
+Rejeitados os embargos de declaração opostos (fls. 540-546).
+No recurso especial, a parte recorrente alega violação dos arts. 381 e 382 do Código de Processo Civil, pois a decisão recorrida não observou os limites objetivos para a ação de produção antecipada de provas.
+Aduz que a decisão não considerou a prescrição subjacente aos atos objetos da ação, que ocorreram há mais de 40 anos, e que não há interesse processual demonstrado para a produção das provas, tornando a medida pleiteada inútil e inadequada.
+Foram oferecidas contrarrazões (fls. 594-619).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 620-622), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 643-663).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 381 e 382 do Código de Processo Civil, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 e do Superior Tribunal de Justiça.
+Alterar o decidido no acórdão impugnado, no que se refere à necessidade e adequação da produção antecipada de provas, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+4. É firme a jurisprudência desta Corte Superior no sentido de que o prequestionamento é imprescindível, ainda que se trata de matéria de ordem pública.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. PRODUÇÃO ANTECIPADA DE PROVA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
