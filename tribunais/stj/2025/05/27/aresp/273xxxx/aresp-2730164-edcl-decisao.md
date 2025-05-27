@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTÔNIO DONIZETE DE OLIVEIRA E OUTROS contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial, assim ementada (fl. 849):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE COMPRA E VENDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AUSÊNCIA DE SOLIDARIEDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ANÁLISE DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
+A parte embargante alega contradição no arbitramento dos honorários sucumbenciais, pugnando por sua majoração.
+A parte embargada apresentou impugnação (fls. 862-864).
+É, no essencial, o relatório.
+A irresignação merece acolhida.
+Com efeito, o Juízo de primeiro grau julgou extinto o processo com resolução do mérito e condenou o requerido, José Roberto Naves Provinciali, em razão de sua sucumbência, ao pagamento de custas e honorários advocatícios sucumbenciais ao patrono da parte adversa, ora embargante, fixados em 15% sobre o valor da causa, veja-se o excerto da sentença (fl. 430):
+Extingo o feito com resolução do mérito nos moldes do artigo 487, I do Código de Processo Civil.
+Condeno o requerido ao pagamento de custas e honorários advocatícios que fixo em 15% sobre o valor da causa nos moldes do artigo 85, § 2º do Código de Processo Civil.
+Posteriormente, ao julgar os recursos de apelação interpostos pelas partes, o Tribunal de origem manteve a sentença por seus próprios fundamentos e majorou os honorários advocatícios sucumbenciais, nos termos do art. 85, §11, do CPC, para 17% sobre o valor atualizado da causa, em favor do embargante, ora recorrido (fl. 627):
+Atenta ao disposto no artigo 85, §11, do Código de Processo Civil, majoro os honorários advocatícios em favor do embargado, ora primeiro apelado, no importe de 17% (dezessete por cento) sobre o valor atualizado da causa. Deixo de majorar em favor do segundo apelante, uma vez que inexiste condenação em seu proveito no primeiro grau.
+Entretanto, o acórdão proferido continha erro material quanto à identificação das partes, referindo-se equivocadamente aos "primeiros apelados" como destinatários da verba honorária, o que gerou dúvida sobre quem deveria suportar tal ônus. O vício foi posteriormente sanado por meio de decisão proferida pelo próprio Tribunal de origem, que esclareceu o seguinte (fl. 765):
+Leia-se "primeiros embargantes" as partes ANTÔNIO DONIZETE DEOLIVEIRA E OUTROS., desse modo, mantém-se a condenação em desfavor somente da parte JOSÉ ROBERTO NOVAES PROVINCIALI em honorários advocatícios arbitrados em 17% (dezessete por cento), nos termos do artigo 85, §11º do Diploma Processual.
+ANTE O EXPOSTO, afasto o erro material alegado
+A majoração dos honorários com base no art. 85, § 11, do CPC é devida se estiverem presentes três requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+No caso dos autos, o agravo em recurso especial da parte ora embargada foi desprovido, devendo ser aplicado o referido dispositivo legal. Além disso, há nos autos a informação de que houve condenação, na origem, ao pagamento de honorários advocatícios (fls. 627 e 765 ). Presentes, portanto, os requisitos à majoração da verba.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. OMISSÃO SANADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I - A jurisprudência do Superior Tribunal de Justiça é no sentindo de se aplicar o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), impondo a majoração do percentual já fixado, relativo aos honorários advocatícios, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+II - Verificada a existência de omissão no acórdão embargado quanto aos honorários recursais e considerando o disposto no art. 85, § 11, do CPC, combinado com o Enunciado Administrativo n. 7/STJ, impõe-se a majoração do valor relativo aos honorários advocatícios fixados na origem, em um ponto percentual, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+III - Embargos de declaração acolhidos para fixar os honorários recursais.
+(EDcl no AREsp 1.643.720/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 25/6/2021.)
+Ante o exposto, acolho os embargos de declaração apenas para majorar os honorários advocatícios para 19% sobre o valor atualizado da causa, com fundamento no § 11 do art. 85 do CPC, mantidos inalterados os demais termos da decisão embargada.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. ERRO MATERIAL CONFIGURADO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
