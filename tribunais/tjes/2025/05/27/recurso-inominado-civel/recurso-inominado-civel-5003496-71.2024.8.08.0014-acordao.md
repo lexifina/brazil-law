@@ -1,0 +1,112 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003496-71.2024.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: COLATINALASER LTDA
+RECORRIDO: KESIA NOGUEIRA DE SALES
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA DE DANO MORAL C/C DANO ESTÉTICO. DIREITO DO CONSUMIDOR. DEPILAÇÃO A LASER. QUEIMADURAS NAS PERNAS. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS ESTÉTICOS. DANOS MORAIS. RESPONSABILIDADE OBJETIVA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003496-71.2024.8.08.0014
+
+Recorrente: BALASER LTDA.
+
+Recorrida: KESIA NOGUEIRA DE SALES
+
+Relator:
+DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA DE DANO MORAL C/C DANO ESTÉTICO. DIREITO DO CONSUMIDOR. DEPILAÇÃO A LASER. QUEIMADURAS NAS PERNAS. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS ESTÉTICOS. DANOS MORAIS. RESPONSABILIDADE OBJETIVA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. (1). DA LIDE.
+A AUTORA PLEITEIA, EM SUA INICIAL, INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS, EM VIRTUDE DE QUEIMADURAS NA EXTENSÃO DA PERNA APÓS A REALIZAÇÃO DE PROCEDIMENTO ESTÉTICO REALIZADA PELA PARTE REQUERIDA (DEPILAÇÃO A LASER), SENDO QUE AS LESÕES, MESMO APÓS TRATAMENTO, AINDA PERSISTIRAM NA REFERIDA REGIÃO.
+(2). ANTÍTESE.
+POR OUTRO LADO, EM CONTESTAÇÃO, A DEFESA DA PARTE REQUERIDA PUGNA, EM SÍNTESE, PELA IMPROCEDÊNCIA DOS PEDIDOS INICIAIS, ALEGANDO CIÊNCIA DA PARTE AUTORA AOS POSSÍVEIS RISCOS INERENTES AO PROCEDIMENTO DE DEPILAÇÃO A LASER, EIS QUE ANUÍDOS MEDIANTE ASSINATURA ELETRÔNICA EM CONTRATO, NÃO HAVENDO, PORTANTO, ATO ILÍCITO POR PARTE DA REQUERIDA. ALÉM DISSO, QUANTO AO TRATAMENTO DAS MANCHAS, A PARTE REQUERIDA ALEGA QUE DISPONIBILIZOU ATENDIMENTO DERMATOLÓGICO PARA A PARTE REQUERENTE E QUE ESSA, APÓS A PRIMEIRA CONSULTA, DEIXOU DE COMPARECER NA CONSULTA DE RETORNO.
+(3). DISPOSITIVO DA SENTENÇA.
+“Diante dessas considerações, profiro resolução de mérito, com base no artigo 487, inciso I, do CPC, e JULGO
+PARCIALMENTE PROCEDENTE
+o pedido inicial para: C
+ONDENAR a parte requerida a pagar à parte requerente a quantia de R$ 5.500,00 (cinco mil e quinhentos reais), a título de danos morais, com juros pela SELIC a partir da citação, sem incidência de fator autônomo de correção monetária (a fim de evitar o bis in idem já que a taxa aplica também desempenha tal função). CONDENAR a parte requerida, ainda, a pagar à parte requerente a quantia de R$ 4.000,00 (quatro mil reais), a título de danos estéticos, com juros pela SELIC a partir da citação, sem incidência de fator autônomo de correção monetária (a fim de evitar o bis in idem já que a taxa aplica também desempenha tal função).
+Sem custas e honorários,
+ex vi
+do disposto nos artigos 54 e 55 da Lei n. 9.099/95”.
+(4). RECURSO DA PARTE RÉ.
+PRELIMINARMENTE, REQUER: CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO INTERPOSTO; SEJA RECONHECIDA A NECESSIDADE DA REALIZAÇÃO DE PERÍCIA TÉCNICA, DEVENDO A AÇÃO SER EXTINTA SEM RESOLUÇÃO DO MÉRITO, CONSOANTE O ARTIGO 51, INCISO II, DA LEI 9.099/95; O RECONHECIMENTO DA NULIDADE DA SENTENÇA, EM VIRTUDE DE CERCEAMENTO DE DEFESA ANTE O INDEFERIMENTO DA PROVA TESTEMUNHAL, E SUA CONSEQUENTE CASSAÇÃO; DIANTE DA NULIDADE DA SENTENÇA, REQUER-SE O RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA A DEVIDA PRODUÇÃO DE PROVA TESTEMUNHAL PELA RECORRIDA. MERITORIAMENTE, PUGNA PELA REFORMA INTEGRAL DA R. SENTENÇA, JULGANDO-SE TOTALMENTE IMPROCEDENTE A PRESENTE DEMANDA. SUBSIDIARIAMENTE, ROGA PELA MINORAÇÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(6). DA QUESTÃO PROCESSUAL. (6.1).
+AUSÊNCIA DE DANO IRREPARÁVEL QUE JUSTIFIQUE A CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. GRAVE RISCO A RECORRENTE NÃO DEMONSTRADO. EFEITOS DA SENTENÇA DE PISO QUE NÃO TÊM O CONDÃO DE TRAZER GRAVES PREJUÍZOS AO PATRIMÔNIO DA RÉ.
+EFEITO SUSPENSIVO PLEITEADO NÃO ATRIBUÍDO
+. RECEBO O RECURSO SOMENTE EM SEU EFEITO DEVOLUTIVO, CONSOANTE O DISPOSTO NO ART. 43 DA LEI 9099/95.
+(6.2).
+ALUSIVO À PRELIMINAR DE INCOMPETÊNCIA DO JUIZADO EM RAZÃO DA NECESSIDADE DE PRODUÇÃO PROBATÓRIA, REJEITO-A DE PLANO, POIS ENTENDO QUE OS DOCUMENTOS APRESENTADOS PERMITEM UMA AVALIAÇÃO CLARA POR PARTE DO MAGISTRADO SEM A NECESSIDADE DE REALIZAÇÃO DE PERÍCIA.
+(6.3).
+QUANTO À ALEGAÇÃO DE CERCEAMENTO DE DEFESA, SOB O ARGUMENTO DE QUE O PEDIDO DE PRODUÇÃO DE PROVA TESTEMUNHAL FOI INDEFERIDO PELO JUÍZO
+A QUO
+, VALE DESTACAR QUE INCUMBE AO MAGISTRADO DETERMINAR AS PROVAS NECESSÁRIAS À INSTRUÇÃO DO FEITO, INDEFERINDO AS DILIGÊNCIAS INÚTEIS OU MERAMENTE PROTELATÓRIAS, ALÉM DO QUE, A RESPECTIVA DECISÃO PODE SER REVISTA, COMO DE FATO ESTÁ SENDO, VIA RECURSO INOMINADO. SALIENTO AINDA QUE, O JULGADOR NÃO ESTÁ OBRIGADO A CONTRADITAR TODOS OS ARGUMENTOS E FUNDAMENTOS ARGUIDOS PELAS PARTES, QUANDO POR UM DELES, CONSTITUA A SUA CONVICÇÃO, BASTANDO SOMENTE QUE A FUNDAMENTE. TRATA-SE DO PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ; E NO CASO DOS AUTOS, JÁ ADIANTO QUE O DEPOIMENTO DA MÉDICA QUE REALIZOU O PROCEDIMENTO EM NADA ALTERARIA O DELINEAMENTO E CONCLUSÃO DO JULGAMENTO DA PRESENTE DEMANDA, POIS NÃO SE TRATA DE DEPOIMENTO ESSENCIAL PARA O DESLINDE DO FEITO, PORTANTO, NÃO HÁ QUE SE FALAR EM CERCEAMENTO DE DEFESA.
+(7). DO MÉRITO.
+RESTOU COMPROVADO NOS AUTOS QUE A REQUERENTE CONTRATOU A PRESTAÇÃO DE SERVIÇOS DA REQUERIDA PARA A REALIZAÇÃO DE TRATAMENTO ESTÉTICO DE REMOÇÃO DEFINITIVA DE PELOS, MEDIANTE DEPILAÇÃO A LASER NAS ÁREAS DAS PERNAS. NO MAIS, CONSIDERANDO QUE O SERVIÇO CONTRATADO DIZ RESPEITO A UM PROCEDIMENTO ESTÉTICO, CUJA FINALIDADE É A REMOÇÃO DEFINITIVA DE PELOS DO CORPO MEDIANTE A MINISTRAÇÃO DE LASER, CERTO É QUE A ADMINISTRAÇÃO DA POTÊNCIA ERRADA NA MÁQUINA LEVA A QUEIMADURAS NO PACIENTE E, NA HIPÓTESE DE QUEIMADURAS, A TEOR DO ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR, O FORNECEDOR RESPONDE OBJETIVAMENTE PELA QUALIDADE DO SERVIÇO PRESTADO, SALVO SE PROVAR QUE O DEFEITO INEXISTE OU CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIROS. POIS BEM.
+APÓS ANÁLISE DETIDA DO CADERNO PROCESSUAL, CONCLUO QUE NÃO PROSPERA OS ARGUMENTOS DA REQUERIDA, EM TENTAR AFASTAR A SUA RESPONSABILIDADE PELOS FATOS OCORRIDOS COM A AUTORA, SENDO DESNECESSÁRIA QUALQUER DISCUSSÃO DE CULPA EM VISTA DA RESPONSABILIZAÇÃO OBJETIVA QUE DECORRE DA RELAÇÃO DE CONSUMO QUE EXISTE ENTRE AS PARTES. DOS AUTOS RESTOU, COMPROVADO QUE A PARTE AUTORA AO SER SUBMETIDA AO PROCEDIMENTO ESTÉTICO REALIZADO PELOS PROFISSIONAIS DA REQUERIDA SOFREU QUEIMADURAS DE SEGUNDO GRAU, CONFORME FOTOS (IDS. 9959934, 9959935 E 9959936), LAUDO MÉDICO ACOSTADO PELA REQUERENTE (ID. 9959938) E DEMAIS DOCUMENTOS APRESENTADOS PELAS PARTES. DESSA FORMA, COMPREENDO QUE A PARTE AUTORA DESINCUMBIU DO SEU ÔNUS PROBATÓRIO, PREVISTO NO ARTIGO 373, INCISO I DO CÓDIGO DE PROCESSO CIVIL, QUE DISPÕE QUE INCUMBI AO AUTOR PROVAR FATOS CONSTITUTIVOS DO SEU DIREITO. LOGO, TODO O ACERVO PROBATÓRIO JUNTADO AOS AUTOS PELA PARTE AUTORA CORROBORAM PARA A CONSTATAÇÃO DO SERVIÇO DEFEITUOSO.
+É NÍTIDO AINDA QUE O RESULTADO OBTIDO PELA PARTE AUTORA NÃO FOI AQUELE ESPERADO, JÁ QUE O PROCEDIMENTO RESULTOU EM MANCHAS/QUEIMADURAS. PORTANTO, EM CASOS COMO O PRESENTE, A OCORRÊNCIA DO DANO MORAL É FACILMENTE VERIFICADA, UMA VEZ QUE OS TRANSTORNOS EXPERIMENTADOS PELA RECORRIDA EXTRAPOLA OS LIMITES DA RAZOABILIDADE, NÃO PODENDO, JAMAIS, SEREM CONSIDERADOS MEROS ABORRECIMENTOS, RELATIVOS A FATO COTIDIANO. DESTACO, INCLUSIVE, SER ESSE O ATUAL ENTENDIMENTO JURISPRUDENCIAL E POR MIM ACOMPANHADO,
+IN VERBIS
+:
+INDENIZAÇÃO. DEPILAÇÃO A LASER. QUEIMADURAS NA PERNA. MANCHAS DE QUEIMADURA. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE OBJETIVA. DANOS MATERIAL, MORAL E ESTÉTICO. VALORAÇÃO.
+I - Queimaduras originadas de depilação a laser em toda a extensão das pernas, caracterizam falha na prestação do serviço e enseja a responsabilidade objetiva de indenizar, art. 14, caput, do CDC
+. II - A valoração da compensação moral deve observar o princípio da razoabilidade, a gravidade e a repercussão dos fatos, a intensidade e os efeitos da lesão. A sanção, por sua vez, deve observar a finalidade didático-pedagógica, evitar valor excessivo ou ínfimo, e objetivar sempre o desestímulo à conduta lesiva. Quanto ao dano estético, deve ser analisado o grau de deformidade, sua extensão e visibilidade. III - Apelação parcialmente provida. (0706083-95.2019.8.07.0020 – TJDF - Publicado no DJE: 21/01/2021)________________________________________Responsabilidade Civil Indenizatória Prestação de Serviços Depilação à laser Queimaduras Danos materiais, morais e estéticos. 1. Descumprido o dever de prestar informação adequada e ostensiva, configura-se falha na prestação de serviços e consequentemente o dever indenizatório (art. 14, do CDC). 2.
+As queimaduras verificadas, após procedimento de depilação a laser, não se subsumem aos riscos e efeitos do tratamento informados ao consumidor
+. 3. Os danos estéticos podem ser reparados em conjunto com os danos morais, por meio de uma só verba, arbitrada especialmente com vistas à intensidade de ambos os danos. 4
+. Danos morais in re ipsa. Presumem-se os danos morais em caso de lesões físicas ao cliente
+. 5. Para a fixação do quantum indenizatório, levam-se em conta determinados critérios baseados nas condições econômicas e sociais das partes, bem como a intensidade do dano, atendidos os princípios da razoabilidade e proporcionalidade. 6. Honorários advocatícios majorados para 20% (vinte por cento) sobre o valor da condenação, em observância ao art. 85, §11, do CPC. Ação parcialmente procedente. Recurso da ré desprovido e provido, em parte, o da autora para majorar a indenização para R$ 15.000,00 (quinze mil reais). (AC 10085887720178260100 – TJ SP – Julgado e publicado em 25/10/2018)________________________________________RESPONSABILIDADE CIVIL. TRATAMENTO ESTÉTICO (DEPILAÇÃO A LASER). QUEIMADURAS. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL.
+I - Restou demonstrado que o procedimento estético causou a autora lesões incompatíveis com a adequada prestação do serviço. Hipótese na qual a demandante submeteu-se a tratamento de depilação a laser nas pernas, sobrevindo-lhe queimaduras. Assim, existindo o nexo causal entre o fato e o dano, é patente o dever de indenizar.
+
+II - As adversidades sofridas pela demandante, a aflição e o desequilíbrio em seu bem-estar, fugiram à normalidade e se constituíram em agressão à sua dignidade. Manutenção do montante indenizatório em R$ 10.000,00 (dez mil reais), considerando o grave equívoco da parte ré, o aborrecimento e o transtorno sofridos pela demandante, além do caráter punitivo-compensatório da reparação
+. III - DANO MATERIAL. NÃO COMPROVADO.O dano material não se presume, sendo ônus do demandante demonstrar o efetivo prejuízo advindo dos gastos com o seu tratamento médico, bem como sobre a necessidade de despesas futuras com a recuperação de sua estética. IV - DANO ESTÉTICO. AFASTAMENTO.É cabível a reparação por dano estético nos casos em que comprovado prejuízo evidente à imagem da vítima. Dano estético não demonstrado.Ônus de sucumbência. Readequação.APELAÇÃO PARCIALMENTE PROVIDA. (AC 0369253-70.2015.8.21.7000 – TJ RS; Publicado em 29/03/2016).
+COMPROVADOS ESTÃO, POIS, O DANO, A CONDUTA LESIVA E O NEXO CAUSAL, PELO QUE ENTENDO POR DESNECESSÁRIAS, ENTÃO, MAIORES CONSIDERAÇÕES, MOTIVO POR QUE PASSO À ANÁLISE DO
+QUANTUM
+INDENIZATÓRIO. É CEDIÇO QUE A INDENIZAÇÃO É ARBITRAL E TEM O SENTIDO DE COMPENSAR A SENSAÇÃO DE DOR DA VÍTIMA COM UMA SITUAÇÃO AGRADÁVEL OU NORMAL EM CONTRÁRIO. PORÉM, A MEDIDA TEM DE SER JUSTA E NÃO PODE LEVAR AO ENRIQUECIMENTO SEM CAUSA. FIXADAS ESSAS PREMISSAS, ENTENDO QUE O VALOR DE R$ 5.500,00 (CINCO MIL E QUINHENTOS REAIS), A TÍTULO DE INDENIZAÇÃO, SE APRESENTA JUSTO E SUFICIENTE, EM VALOR CONDIZENTE COM A GRAVIDADE DA CONDUTA DA RECORRENTE, COM A EXTENSÃO DOS DANOS EXPERIMENTADOS PELA PARTE RECORRIDA E COM A CAPACIDADE ECONÔMICA DAS PARTES, OBJETIVANDO, ASSIM, AMENIZAR A DOR E O SOFRIMENTO DA RECORRIDA, SEM LHE CAUSAR ENRIQUECIMENTO INDEVIDO, NÃO DESCUIDANDO DO CARÁTER PEDAGÓGICO, NO SENTIDO DE INDUZIR A RECORRENTE A ADOTAR UMA POSTURA MAIS DILIGENTE NA PRESTAÇÃO DOS SEUS SERVIÇOS. POR FIM, NO QUE TANGE AOS OS DANOS ESTÉTICOS COMPROVADOS PELAS IMAGENS COLIGIDAS SÃO INCONTESTÁVEIS E MERECEM SEU ARBITRAMENTO NO
+QUANTUM
+FIXADO NA R. SENTENÇA, QUAL SEJA, R$ 4.000,00 (QUATRO MIL REAIS).
+(8). SOB ESSA MOTIVAÇÃO,
+CONHEÇO DO RECURSO
+INTERPOSTO E
+NEGO-LHE PROVIMENTO
+, MANTENDO A SENTENÇA INTOCADA, POR SEUS PRÓPRIOS FUNDAMENTOS. CONDENO A RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS, FIXADOS EM 20% SOBRE O VALOR DA CONDENAÇÃO, NA FORMA DO ART. 85, §2º DO CÓDIGO DE PROCESSO CIVIL E ART. 55 DA LEI Nº. 9.099/95.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
