@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por SEBASTIÃO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO PARANÁ, que o condenou a 2 (dois) anos e 3 (três) meses de reclusão, em regime semiaberto, e a 13 (treze) dias-multa, pela prática do crime do art. 14 da Lei nº 10.826/2003.
+Nas razões (fls. 462/479), alegou que houve violação aos arts. 157, §1º, 240, § 2º e 244, todos do Código de Processo Penal. Argumentou que a apreensão da arma de fogo se deu por meio de busca pessoal a partir de notícia anônima. Pediu o provimento do recurso para que se declare a ilicitude da prova.
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 503/510).
+É o relatório. DECIDO.
+Em relação à busca pessoal, o art. 244 do Código de Processo Penal a permite em 3 (três) hipóteses: i) em caso de prisão; ii) se houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito; iii) por ocasião de busca domiciliar.
+A jurisprudência equipara, ademais, no que se refere aos requisitos que a autorizam, a busca pessoal à busca veicular: "A busca pessoal, à qual se equipara a busca veicular, é regida pelo art. 244 do Código de Processo Penal" (AgRg no HC n. 951.780/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.).
+No caso, o acórdão descreveu que a equipe policial recebeu notícia anônima de que um indivíduo portava arma de fogo em determinado bairro, bem como que foram repassadas as características da pessoa e do veículo. Em sequência, prossegue o Tribunal de origem, localizado o ora agravado, com ele nada foi encontrado, mas, no carro, apreendeu-se arma de fogo.
+Acerca da validade da busca pessoal e veicular realizada a partir de notícia anônima, a orientação desta 5ª Turma: "A denúncia anônima foi específica e qualificada, indicando o endereço e as características da motocicleta utilizada pelo agravante, justificando a abordagem e a busca pessoal" (AgRg no HC n. 983.740/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.).
+Além disso, se, de um lado, a atuação das forças de segurança pública não pode se afastar de critérios técnicos, objetivos, com observância da igualdade e da não-discriminação (art. 3º, inciso IV, da Constituição Federal), esse parâmetro deve ser compatibilizado com o dever do Estado e com o direito e responsabilidade de todos quanto à segurança pública (art. 144, caput, da Constituição Federal).
+Sobre o tema, fundamentação de julgado do Supremo Tribunal Federal:
+" ..  ao realizar perguntas ao condutor, o policial está treinado para identificar comportamentos objetivos que sugerem a prática de crime. Referido tirocínio, ao contrário de ser ponto negativo, é a genuína aplicação da ciência voltada à atividade policial, objeto do curso de formação dos policiais.
+Não tem qualquer sentido o Estado aplicar investimentos vultosos em inteligência policial para, ao cabo, julgar-se nula sua aplicação".
+(HC 247335 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 16-12-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 18-12-2024 PUBLIC 19-12-2024).
+Em acréscimo, não há sequer indicação de que os policiais militares teriam agido por perseguição pessoal ou por outro subjetivismo avesso à administração pública. Não existe, ainda, menção de excesso na abordagem ou de qualquer outro elemento que possa sugerir que o trabalho realizado tenha se desvirtuado daquilo que prevê o art. 144, caput, da Constituição Federal, bem como da missão que é própria da Polícia Militar (art. 144, § 5º, da Constituição Federal).
+Por isso, ausente indicativo mínimo de ilicitude na busca pessoal e veicular, não há espaço à invalidação da prova daí decorrente.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem -se.
+EMENTA
