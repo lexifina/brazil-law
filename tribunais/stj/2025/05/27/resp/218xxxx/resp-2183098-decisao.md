@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por Emmanuel Behr - espólio e outros com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 42):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. TERMO FINAL DA EXECUÇÃO.
+1. Em se tratando de valores devidos ao espólio de servidor falecido, os sucessores, na condição de herdeiros, possuem legitimidade somente para pleitear os valores não recebidos em vida pelo titular. Assim, a execução deve ser limitada à data do óbito do ex-servidor. Após o óbito, eventuais diferenças são devidas à pensionista, cabendo a esta pleitear em nome próprio o que lhe for de direito.
+Opostos embargos declaratórios, foram rejeitados (fls. 66/68).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC; 1º da Lei nº 6.858/1980 e ao Decreto nº 85.845/1981 . Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação de que a Corte de origem manteve-se omissa quanto a pontos essenciais ao deslinde do feito.
+Aduz, ainda, que "a pensionista possui legitimidade para receber os valores não auferidos pelo servidor falecido, inclusive quanto às competências anteriores a instituição do benefício de pensão, com fulcro no Decreto nº 85.845/1981, art. 1º da Lei nº 6.858/1980, e no posicionamento desse Superior Tribunal de Justiça  ..  reconhecendo-se que, ainda que o servidor tenha falecido em data anterior ao aforamento da ação de conhecimento, o título executivo judicial ora executado estende-se aos pensionistas, porquanto pertencentes à categoria representada pela entidade sindical  .. Seja REFORMADO o acórdão recorrido, porquanto, nos termos de jurisprudência CONSOLIDADA inclusive nesse Egrégio Superior Tribunal de Justiça, "o sindicato possui legitimidade ativa para substituir a pensionista diante da natureza do vínculo que a pensão gera em relação à viúva do servidor"" (fls. 101/102).
+Contrarrazões às fls. 115/118.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas nos embargos declaratórios e no recurso especial, sustentou (fls. 52/59):
+o acórdão embargado incorreu em equívoco, porquanto não analisou - omissão - a alegação de o título executivo determina a inclusão do reajuste devido, inclusive, sobre os proventos das pensionistas, de modo a afastar a limitação pretendida pela parte agravante à data do óbito do servidor instituidor de pensão Emmanuel Behr.
+Ademais os pensionistas atuam, no presente feito, com fundamento no Decreto nº 85.845/1981, que dispõe sobre o pagamento aos dependentes habilitados dos valores não recebidos em vida pelos respectivos titulares.
+Outrossim, é posição assente na jurisprudência de nossos Tribunais, o reconhecimento da legitimidade dos sucessores/herdeiros/dependentes habilitados à pensão por morte do servidor, de receberem os valores que não foram recebidos por aquele, inclusive relativos as competências anteriores e posteriores ao óbito.
+ ..
+Contudo, o Tribunal de origem quedou silente sobre tais argumentações, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando as omissões apontadas nesta decisão.
+Publique-se.
+EMENTA
