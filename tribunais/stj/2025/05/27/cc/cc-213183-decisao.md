@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da Vara Militar de São Paulo - SJ/SP, suscitante, e o Juízo de Direito da Vara do Juizado Especial Criminal da Comarca de São José dos Campos/SP, suscitado.
+Os autos restringem-se à definição da competência para o processamento da persecução penal referente ao delito de ameaça, supostamente cometido por Luiz Miguel dos Santos, civil, contra o Major da Aeronáutica, Bruno Gurgel Fernandes Tavora, militar da ativa.
+Consta dos autos que Luiz Miguel dos Santos teria supostamente ameaçado Bruno Gurgel Fernandes Tavora em razão de um incidente de trânsito ocorrido dias antes, envolvendo o veículo da vítima e uma motocicleta pertencente ao suposto agressor, na Avenida Engenheiro Francisco José Longo, n. 1350, na cidade de São José dos Campos/SP. As alegadas ameaças teriam sido feitas pelo ofensor contra o ofendido por meio de comunicação telefônica remetida ao aparelho celular da vítima.
+O Juízo suscitante argumenta que não houve a prática de crime militar, pois, embora tenha sido cometido contra um militar da ativa, o fato ocorreu fora do exercício de suas funções, não se enquadrando em nenhuma das hipóteses previstas na alínea "d" do inciso III do artigo 9º do Código Penal Militar.
+Por sua vez, o Juízo suscitado entendeu que a conduta se ajusta ao inciso III do referido dispositivo legal.
+Nesta instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito, para declarar competente o Juízo de Direito da Vara do Juizado Especial Criminal da Comarca de São José dos Campos/SP , suscitado.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição da República, razão pela qual passo ao seu exame.
+Caracteriza-se como crime militar, praticado por civil contra militar, a conduta que se enquadre em alguma das alíneas do inciso III do artigo 9º do Código Penal Militar. Ressalte-se que a jurisprudência nacional entende que, em tempo de paz, a submissão do civil à Justiça Militar é excepcional, legitimando-se apenas quando a conduta delituosa ofender diretamente bens jurídicos sob titularidade das Forças Armadas.
+Confiram-se os seguintes precedentes que dão a tônica avaliativa sobre a competência da Justiça Castrense:
+ ..
+1.A jurisprudência desta Corte já assentou o entendimento de que é militar o crime praticado por civil ou militar contra militar no exercício de suas funções, ainda que de caráter subsidiário.
+ ..
+6. Agravo regimental não provido. (AgRg no AREsp n. 553.243/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/11/2019, DJe de 12/11/2019.)
+ ..
+I - Nos termos do disposto no art. 9º, inciso III, alínea "a", do Código Penal Militar, considera-se crime militar, em tempo de paz, os delitos praticados por civil em detrimento de patrimônio sob administração militar (Precedentes do STF e do STJ).
+II - Na hipótese, os bens objeto do delito de receptação (22 pneumáticos radiais) foram furtados do Arsenal de Guerra General Câmara, da Unidade Militar de General Câmara/RS. Desta forma, forçoso concluir que o delito em tese praticado causou dano ao patrimônio militar, razão pela qual a competência para processamento do feito é da Justiça Militar, nos termos do art. 9º, III, "a", do CPM.
+Conflito de competência conhecido para declarar competente o Juízo Auditor da 1ª Auditoria da 3ª Circunscrição Judiciária Militar de Porto Alegre/RS, ora suscitado. (CC n. 134.245/RS, relator Ministro Felix Fischer, Terceira Seção, julgado em 26/11/2014, DJe de 11/12/2014.)
+ ..
+1. Nos termos do art. 9º, III, "d", do Código Penal Militar, considera-se crime militar, em tempo de paz, os delitos praticados por civil, ainda que fora do lugar sujeito à administração militar, contra militar em função de natureza militar, ou no desempenho de serviço de vigilância, garantia e preservação da ordem pública, administrativa ou judiciária, quando legalmente requisitado para aquele fim, ou em obediência a determinação legal superior.
+2. A função militar é atribuição específica conferida por lei ao militar, como integrante das forças armadas, exercitadas com características próprias da instituição militar, sobrelevando-se o poder legal conferido à autoridade militar.
+3. É militar o crime praticado por civil contra militar no exercício das funções que lhe foram legalmente atribuídas, seja ela de caráter subsidiário ou não.
+4. Neste caso, a suposta prática do crime de desacato foi praticado por civil contra militares da Marinha do Brasil, devidamente requisitados para a atividade de vigilância naval.
+5. Conflito de competência conhecido para declarar competente o Juízo Auditor da Auditoria da 8ª Circunscrição Judiciária Militar de Belém - PA, ora suscitado. (CC n. 130.996/PA, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 12/2/2014, DJe de 1/8/2014.)
+ ..
+1. Para a hipótese colacionada na parte final do art. 9º, III, b, do Código Penal Militar, é dispensável a coexistência de dois pressupostos para o crime militar, a saber, que o delito seja praticado contra militar em atividade ou contra funcionário da Justiça Militar (no exercício da função) e em local sujeito à administração militar.
+2. Na espécie, o denunciado (civil) foi acusado da suposta prática do crime de corrupção ativa por ter oferecido vantagem indevida a servidor da Justiça Militar (analista judiciário), no exercício de sua função (cumprimento de mandato de citação), a fim de que deixasse de praticar ato de ofício. Fato delituoso que ocorreu na residência do denunciado, fora do recinto militar.
+3. Crime considerado como militar em tempo de paz, tendo em vista ter sido praticado contra funcionário da Justiça Militar, no exercício de função inerente ao seu cargo.
+4. Conflito conhecido para se declarar a competência do Juízo Auditor da 3ª Auditoria da Primeira Circunscrição Judiciária Militar do Rio de Janeiro, o suscitante. (CC n. 88.600/RJ, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 14/9/2011, DJe de 29/9/2011.)
+Na hipótese em análise, verifica-se que a suposta ameaça praticada pelo agressor contra a vítima não decorreu do exercício das funções militares desempenhadas pelo ofendido, nem teve o propósito de atingir as atribuições essenciais das Forças Armadas. Conforme os autos, o ofensor, valendo-se de um incidente de trânsito ocorrido anteriormente entre ele e a vítima, teria ameaçado o militar por meio de contato realizado para o telefone celular do ofendido, em razão da recusa deste em fornecer mais dinheiro para solucionar a disputa relacionada ao referido incidente. Em razão disso, o suposto agressor teria afirmado que descobriria "onde a vítima mora" e "cobraria da forma dele".
+Sobre o caso, não é o outro o entendimento adotado pelo Ministério Público Federal em seu parecer (e-STJ, fls. 92-94):
+Realmente, o reconhecimento de tal competência, a teor do contido no artigo 9º, III, "b" e "d", do Código Penal Militar, exige que o fato atente contra a integridade, a dignidade, o funcionamento e a respeitabilidade das instituições militares, sendo que a participação do Oficial das Forças Armadas BRUNO GURGEL FERNANDES no caso se deu tão somente porque ele se envolveu num acidente de trânsito e, dias depois, foi ameaçado por telefone, em razão de supostos danos materiais causados ao condutor da motocicleta atingida pelo veículo que era por ele conduzido.
+ ..
+Assim sendo, não tendo o delito qualquer relação com as funções exercidas pelo autor da representação, BRUNO GURGEL FERNANDES, nem foi ele praticado nas premissas da instituição militar, não está presente qualquer interesse militar na apuração e punição do fato criminoso o que, consequentemente, afasta a competência da justiça especializada no caso.
+ ..
+Assiste razão, portanto, ao Juízo Federal da Vara Militar de São Paulo/SP, ora suscitante, pelo que a competência para supervisionar o feito deve se firmar perante a Justiça Comum Estadual.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara do Juizado Especial Criminal da Comarca de São José dos Campos/SP.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
+EMENTA
