@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIS FERNANDO OLIVEIRA DA SILVA com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (TRF1) assim ementado (fls. 231-232):
+CONSTITUCIONAL. ADMINISTRATIVO. EMPREGADO PÚBLICO CELETISTA. DEMISSÃO. ANISTIA. LEI N. 8.878/94. RETORNO AO SERVIÇO. TRANSPOSIÇÃO PARA O REGIME ESTATUTÁRIO. IMPOSSIBILIDADE. PRAZO PRESCRICIONAL QUINQUENAL. TERMO INICIAL. DATA DA READMISSÃO. RENÚNCIA TÁCITA À PRESCRIÇÃO. INOCORRÊNCIA. PROTESTO JUDICIAL INTERRUPTIVO DO PRAZO PRESCRICIONAL. INAPLICÁVEL. SENTENÇA CONFIRMADA.
+1. No que concerne às ações de servidores readmitidos em razão da anistia prevista na Lei n. 8.878/1994, cujo mérito é a transposição funcional do regime celetista (CLT) para o Regime Jurídico Único (RJU), instituído pela Lei n. 8.112/90, a jurisprudência da Primeira Seção deste Tribunal se consolidou no sentido de que o prazo prescricional para sua interposição é quinquenal e o termo inicial de sua contagem é a data da readmissão do anistiado.
+2. No presente caso, o autor ajuizou a presente ação depois de decorridos mais de cinco anos da data de sua readmissão, impondo-se, portanto, o reconhecimento da prescrição do seu direito de ação.
+3. O protesto judicial ajuizado pela Associação Nacional dos Beneficiados pela Lei n. 8.878/94 - ANBENE, em 18/12/2014, não se presta para interromper o prazo prescricional em curso, tanto pela ausência de comprovação de que o autor estava vinculado à associação à época do ajuizamento do referido protesto, quanto pelo fato de a presente ação ter sido proposta depois de decorrido o prazo prescricional contado pela metade, a partir do referido marco temporal, conforme o art. 9º do Decreto 20.910/32.
+4. No que diz respeito ao mérito da referida transposição funcional, o Supremo Tribunal Federal já decidiu pela sua impossibilidade, não podendo ser aplicado ao caso o disposto no art. 243 da Lei n. 8.112/1990, nem no art. 19, do Ato de Disposições Constitucionais Transitórias, e, nos termos do enunciado da Súmula Vinculante 43, que dispõe: "É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido".
+5. Com relação à declaração incidental da inconstitucionalidade do art. 39, caput, da EC 19/1998, vem-se decidindo que não há como deferir o retorno ao serviço sob regime diverso daquele inicialmente firmado entre o empregado e a empresa pública, não sendo aplicáveis, na espécie, os artigos 243 da Lei 8.112/90 e o 19 do ADCT, tampouco o entendimento fixado pelo Supremo Tribunal Federal na Medida Cautelar na ADI 2.135-4/DF.
+6. Nos termos do art. 85, parágrafo 11, do CPC, os honorários arbitrados na sentença devem ser majorados em 2% (dois por cento), a título de honorários advocatícios recursais, observando-se, no entanto, os efeitos da gratuidade de justiça já deferida, conforme disposto no art. 98, § 3º, do CPC.
+7. Apelação que se nega provimento.
+No recurso especial (fls. 247-255), a parte recorrente alega, além de dissídio jurisprudencial, violação da Súmula 85/STJ e dos artigos 2º da Lei n. 8.878/1994 e 243 da Lei n. 8.112/1990, sob os seguintes argumentos (fls. 251-253):
+ ..
+Não há prescrição sob matéria de trato sucessivo.
+Por isso a violação a Súmula de nº 85 do STJ:
+ ..
+Excelência, no caso em apreço não estamos discutindo transposição, mas de pedido de redistribuição do cargo extinto anteriormente para o novo cargo exercido.
+Isso porque o cargo do Autor anteriormente ocupado foi totalmente extinto na reforma administrativa promovida na Década de 90, não existindo mais no âmbito da Administração Pública Federal. Daí porque sequer pode se dizer que o retorno deve ser feito no cargo anteriormente ocupado pois o cargo foi completamente extinto.
+Por este motivo inclusive que foram mantidas apenas suas funções, classe e padrão, situação que não configura provimento derivado de cargos públicos.
+ ..
+Mas como dito, trata nada mais nada menos que pedido de redistribuição do seu cargo, o qual nos ensinamentos do mestre JOSÉ DOS SANTOS CARVALHO FILHO, após tratar sobre as formas de provimento de cargos públicos, em relação ao instituto da redistribuição, disse o seguinte:
+ ..
+O caso do Recorrente é idêntico.
+Seu cargo ocupado entre 1985 até 1992 era um, porém com a extinção do seu cargo e a determinação de retorno após os anos 2010, houve o deslocamento para quadro diverso do primeiro, mas titularizado no cargo.
+Isso foi inclusive o que disse o art. 243 da Lei nº 8.112/90 para estes casos em específicos de extinção do cargo anteriormente ocupado:
+ ..
+Portanto, em se tratando de redistribuição de cargos públicos com seus respectivos ocupantes, do Quadro de Pessoal da Empresa Pública Extinta para a Administração Pública direta, e não de transposição, não há ofensa à regra do concurso público prevista no art. 37, inciso II, da CF, porque sua redistribuição não foi feita em cargo público diverso daquele para o qual foi admitido no serviço público antes de 88, pois continua ocupando seu próprio cargo, motivo pelo qual, nesse caso, não ocorre provimento derivado.
+Logo, quando do seu retorno, todos os anos enquanto não ocorrer a correção do direito do autor, ano após ano, surge no tempo e no espaço a violação do seu direito.
+Frisa-se, tratando-se de prestação de trato sucessivo não ocorre a prescrição da ação, mas, tão-somente, a das parcelas anteriores aos cinco anos do ajuizamento da demanda, consoante orientação da Súmula 85/STJ.
+Daí porque estamos falando de situação de natureza de trato sucessivo e consequentemente fica afastada a tese de prescrição:
+ ..
+Com contrarrazões (fls. 257-258).
+Juízo positivo de admissibilidade (fls. 259).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial não constitui via adequada para a análise de eventual ofensa a súmula, ainda que vinculante, porque o termo "súmula" não está compreendido na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 2º da Lei n. 8.878/1994 e 243 da Lei n. 8.112/1990, sem explicar como o acórdão recorrido teria violado tais dispositivos, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA N. 284/STF. EXECUÇÃO FISCAL. COMPARECIMENTO EXPONTÂNEO DO RÉU. JUNTADA DE PROCURAÇÃO. PRESCRIÇÃO. NÃO RECONHECIDA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.170.113/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025).
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. OMISSÃO INEXISTENTE. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ARTS. 649 DO CPC E 187 DO CÓDIGO CIVIL. INDICAÇÃO GENÉRICA. SÚMULA N. 284 DO STF. APOSENTADORIA. TETO REMUNERATÓRIO. REPERCUSSÃO GERAL. RE N. 606.358/SP. TEMA N. 257. MODULAÇÃO DOS EFEITOS. VALORES RECEBIDOS EM EXCESSO E DE BOA-FÉ ATÉ E DEPOIS DE 18/11/2015. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. De acordo com o entendimento fixado na jurisprudência desta Corte Superior, a mera menção a dispositivos legais, sem que haja clara e precisa fundamentação apta a demonstrar de que maneira o acórdão recorrido os tenha contrariado, tal como ocorre na hipótese dos autos, configura deficiência de fundamentação a atrair a incidência da Súmula n. 284 do STF.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.103.150/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 11/12/2024, DJEN de 16/12/2024).
+Ainda que assim não fosse, no que diz respeito aos artigos 2º da Lei n. 8.878/1994 e 243 da Lei n. 8.112/1990 e às teses a eles vinculadas, no sentido de que "em se tratando de redistribuição de cargos públicos com seus respectivos ocupantes, do Quadro de Pessoal da Empresa Pública Extinta para a Administração Pública direta, e não de transposição, não há ofensa à regra do concurso público prevista no art. 37, inciso II, da CF, porque sua redistribuição não foi feita em cargo público diverso daquele para o qual foi admitido no serviço público antes de 88, pois continua ocupando seu próprio cargo, motivo pelo qual, nesse caso, não ocorre provimento derivado" (fl. 253), verifica-se que não houve juízo de valor por parte da Corte de origem sob o viés pretendido pela parte, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR. ANISTIA ADMINISTRATIVA. PRESCRIÇÃO. VIOLAÇÃO A SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES RECURSAIS, SOB O VIÉS PRETENDIDO PELA PARTE. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
