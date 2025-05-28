@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante USINA CANSANÇÃO DE SINIMBÚ S/A - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL e o JUÍZO DA 2ª VARA DO TRABALHO DE SÃO MIGUEL DOS CAMPOS - AL.
+Ação em trâmite perante o juízo cível: recuperação judicial da suscitante.
+Ação em trâmite perante o juízo trabalhista: reclamatória n. 0000232- 56.2017.5.19.0262 ajuizada por JOSE ADRIANO MARQUES.
+Conflito de competência: alega, em suma, que o plano de recuperação de recuperação judicial possui cláusula que veda a execução contra os sócios e, assim, que é inviável o prosseguimento da execução trabalhista por meio da instauração de incidente de desconsideração da personalidade jurídica da devedora. Postula, liminarmente, a suspensão da ação trabalhista, o desfazimento dos atos constritivos realizados e a designação do juízo recuperacional para resolver as questões sobre o patrimônio da suscitante e de seus diretores.
+Tutela antecipada: deferida às fls. 81/82 e-STJ.
+Parecer do MPF: opinou pela competência do juízo recuperacional.
+RELATADO O PROCESSO, DECIDO.
+O Superior Tribunal de Justiça assentou o entendimento de que "Compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contém cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022).
+Na hipótese, observa-se que o plano de recuperação judicial da suscitante, aprovado e homologado judicialmente em 20/3/2023 (e-STJ, fl. 40), possui cláusula expressa que impede o credor, submetido aos efeitos do processo de soerguimento, executar os sócios da recuperanda, por meio da desconsideração da personalidade jurídica, para satisfação dos seus créditos (e-STJ, fl. 66).
+A Justiça Trabalhista, de sua vez, determinou o prosseguimento da execução trabalhista, mediante a instauração do incidente de desconsideração da personalidade jurídica da empresa executada, a fim de atingir os bens dos sócios da recuperanda, em 28/2/2025 (e-STJ, fl. 97), após a homologação do plano de recuperação judicial.
+Assim, como a decisão homologatória do plano acabou por estender os efeitos do regime aos sócios da recuperanda e impedir a execução de crédito concursal contra eles, mostra-se configurado, nos termos da jurisprudência desta Corte, o alegado conflito de competência.
+Ademais, como bem salientado pelo Parquet federal, "mostra-se indevida a continuidade da execução trabalhista referente ao crédito novado" (e-STJ, fl. 106). Isso porque os efeitos da novação irradiam-se desde a aprovação do plano de recuperação judicial pela assembleia de credores, de modo que a eles se subordinam todos os créditos concursais.
+Logo, a aprovação do plano e a consequente novação dos créditos também impede a instauração da desconsideração da personalidade jurídica da recuperanda, porquanto todas as execuções que, nesse momento, ainda estejam direcionadas apenas contra o patrimônio da recuperanda, devem ser obrigatoriamente extintas.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL, para decidir acerca da desconsideração da personalidade jurídica pleiteada nos autos da reclamação indicada na inicial e, bem assim, sobre a continuidade da execução.
+Publique-se. Intimem. Oficie-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZO LABORAL E JUÍZO DA RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. CLÁUSULA. EXECUÇÃO CONTRA OS SÓCIOS. IMPEDIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELO JUÍZO LABORAL. CONFLITO. CARACTERIZAÇÃO.
+1. Nos termos da jurisprudência desta Corte, "compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contem cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022).
+2. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL.
