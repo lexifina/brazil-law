@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2267, de 27 de maio de 2025
+Altera a Instrução Normativa RFB nº 2.237, de 4 de dezembro de 2024, que dispõe sobre a Declaração de Débitos e Créditos Tributários Federais - DCTFWeb.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 5º, § 1º, do Decreto-Lei nº 2.124, de 13 de junho de 1984, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
