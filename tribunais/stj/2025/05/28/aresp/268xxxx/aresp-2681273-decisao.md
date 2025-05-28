@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por GEAP AUTOGESTAO EM SAÚDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fls. 521-523 ):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE DE AUTOGESTÃO. NÃO INCIDÊNCIA DAS NORMAS CONSUMERISTAS. MODELO DE ACESSO RESTRITO A GRUPO DETERMINADO DE PESSOAS. PROIBIÇÃO DE COMERCIALIZAÇÃO. FINS NÃO LUCRATIVOS. TUTELA DO EQUILÍBRIO ATUARIAL E DO PRINCÍPIO DA SOLIDARIEDADE. INAPLICABILIDADE DO PLANO DE REFERÊNCIA. PRECEDENTES DO STJ. APLICAÇÃO DAS REGRAS DO CÓDIGO CIVIL EM MATÉRIA CONTRATUAL. FORNECIMENTO DE FÁRMACO APROVADO PELA ANVISA. ALEGAÇÃO DE AUSÊNCIA DE PREVISÃO NO ROL DA ANS. IRRELEVÂNCIA. LISTA NÃO TAXATIVA. INTERPRETAÇÃO ABUSIVA EM DESFAVOR DO USUÁRIO. DIGNIDADE DA PESSOA HUMANA. CUSTEIO DEVIDO. INDENIZAÇÃO POR DANOS MORAIS. RECUSA INJUSTIFICADA. ABALO PSICOLÓGICO. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL E PROPORCIONAL. DESPROVIMENTO DO APELO.
+- A evidente diferença estrutural existente entre os planos de autogestão, de acesso restrito a um grupo determinado, daqueles comercializados por operadoras que oferecem seus produtos ao mercado geral e objetivam o lucro, não deve ser relevada pelo operador do direito. Via de consequência, entender pela aplicabilidade das normas consumeristas neste modelo de gestão, no qual inexiste relação de consumo, indubitavelmente ocasionaria o desequilíbrio atuarial do plano de saúde, violando o princípio da solidariedade, próprio à sua constituição, onerando os demais beneficiários não envolvidos na lide. - "Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo." (R Esp 1285483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/06/2016, D Je 16/08/2016).
+-- O rol divulgado pela Agência Nacional de Saúde tem conteúdo meramente exemplificativo, abarcando apenas os procedimentos básicos, motivo pelo qual o fato de o procedimento não constar nesta relação não importa, por si só, na exclusão da sua cobertura. - Em 22 de setembro de 2022 entrou em vigor a Lei nº 14.454/2022, que obriga os planos de saúde a cobrirem tratamentos e procedimentos fora do rol da Agência Nacional da Saúde - ANS. - É entendimento assente na jurisprudência do STJ no sentido de que a injusta recusa de cobertura de plano de saúde dá direito ao segurado ao ressarcimento dos danos extrapatrimoniais sofridos, tendo em vista que tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada. - Para a quantificação dos danos morais, deve-se levar em consideração os critérios de proporcionalidade e razoabilidade do montante fixado. - Apelo desprovido.
+Sem embargos de declaração.
+No recurso especial, a GEAP alega que o acórdão estadual contrariou as disposições contidas nos arts. 186, 421, 422 e 423 do Código Civil, 10, caput, e 12 da Lei n. 9.656/1998.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial (fl. 593).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 601-606), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 621).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência das Súmulas n. 282 e 356 do STF e 83/STJ.
+Entretanto, a parte agravante não impugnou adequadamente a incidência da Súmula n. 83/STJ.
+Os julgados trazidos pelo Tribunal de origem para inadmitir o recurso especial são no sentido de que, havendo cobertura para a doença, deve haver cobertura para o procedimento ou medicamento necessário, mesmo que seja experimental, e ainda de que é abusiva negativa de fornecimento de medicamento registrado na ANVISA e constante no rol da ANS.
+Por outro lado, o julgado trazido no agravo em recurso especial versa sobre a definição da natureza do Rol de Procedimentos e Eventos em Saúde Suplementar da ANS, estabelecendo que, em regra, esse rol é taxativo.
+Ressalta-se que "a adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. OBRIGAÇÃO DE FAZER E DANOS MORAIS. AGRAVO IMPROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que deferiu a antecipação de tutela nos autos de obrigação de fazer e indenização por danos morais. No Tribunal a quo, o agravo foi improvido. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC, no não cabimento de REsp contra acórdão que defere ou indefere medida liminar, cautelar ou antecipação de tutela, na incidência da Súmula n. 7/STJ e da Súmula n. 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente à ocorrência da Súmula n. 83/STJ.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem:
+meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.204.575/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC.
+CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ.
+Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fl. 411).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURS O ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO ESPECÍFICA DA SÚMULA N. 83/STJ. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
