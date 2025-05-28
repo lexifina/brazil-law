@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022, I, DO CPC. CONTRADIÇÃO. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO . VIOLAÇÃO AO ART. 1.022, II, DO CPC. OMISSÃO. INDICAÇÃO GENÉRICA E INEXISTÊNCIA DE DEMONSTRAÇÃO DE RELEVÂNCIA DO VÍCIO PARA O DESLINDE DA CONTROVÉRSIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. INOBSERVÂNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Incide, por analogia, o enunciado 284 da Súmula do STF, nos tópicos em que a fundamentação recursal é deficiente a ponto de impedir a exata compreensão da controvérsia.
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão monocrática, de minha lavra, que conheceu do agravo para não conhecer do recurso especial, por aplicação do enunciado 284 da Súmula do STF, por analogia, consoante a seguinte ementa, verbis (fl. 3.698):
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022, I E II, DO CPC. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS SOBRE O QUAL RECAI A PECHA DE CONTRADIÇÃO/OMISSÃO E INEXISTÊNCIA DE DEMONSTRAÇÃO DE RELEVÂNCIA DO VÍCIO PARA O DESLINDE DA CONTROVÉRSIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em seu agravo interno às fls. 3.725-3.727, a agravante afirma que "apontou a omissão do TRF em apreciar o art. 7º do CPC, considerando o uso da prova emprestada neste feito". Além disso, pontua que "a União demonstrou que a omissão em apreciar o art. 7º do CPC é relevante, na medida em que a prova emprestada utilizada desconsiderou o entendimento da fiscalização, quando se milita em favor da Administração Tributária a presunção de veracidade, não havendo que se falar, com todo o respeito, em deficiência recursal, a atrair o óbice da Súmula n. 284/STF".
+As contrarrazões foram apresentadas às fls. 3.732-3.739, oportunidade em que a agravada pleiteia a aplicação da multa por litigância de má-fé prevista no artigo 1.021, §4º, do Código de Processo Civil e a majoração dos honorários de sucumbência. A mesma parte ainda peticionou nos autos às fls. 3.708-3.710, requerendo "seja expedido o competente Alvará de Levantamento Eletrônico, nos termos da Resolução nº 708 - CJF, de 1º de junho de 2021", "considerando a realização do depósito do valor integral do crédito tributário desde a data de sua realização".
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022, I, DO CPC. CONTRADIÇÃO. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO . VIOLAÇÃO AO ART. 1.022, II, DO CPC. OMISSÃO. INDICAÇÃO GENÉRICA E INEXISTÊNCIA DE DEMONSTRAÇÃO DE RELEVÂNCIA DO VÍCIO PARA O DESLINDE DA CONTROVÉRSIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. INOBSERVÂNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Incide, por analogia, o enunciado 284 da Súmula do STF, nos tópicos em que a fundamentação recursal é deficiente a ponto de impedir a exata compreensão da controvérsia.
+2 . Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+Com efeito, da análise da petição de recurso especial da agravante, verifica-se que a recorrente aponta contrariedade ao artigo 1.022, inciso I, do Código de Processo Civil, alegando haver contradição, mas sem explicitar de que modo se materializaria esse vício no acórdão recorrido, notadamente por não apontar onde residiriam proposições internas inconciliáveis entre si no aresto.
+Não obstante, nos termos da jurisprudência deste STJ, "não basta a mera indicação do dispositivo supostamente violado, pois as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa reformar o decisum" (AgRg no REsp n. 1.466.668/AL, rel. Min. Humberto Martins, Segunda Turma, DJe de 2/2/2016), o que não ocorreu na hipótese.
+De fato, "no recurso especial, não basta a simples menção dos artigos que se reputam violados, as alegações devem ser fundamentadas, havendo uma concatenação lógica, demonstrando de plano como o aresto hostilizado teria malferido os dispositivos indicados" (AgRg no REsp 262.120/SP, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA TURMA, DJ 03/10/2005), o que não se deu no caso dos autos.
+De igual sorte, a agravante alega afronta ao artigo 1.022, inciso II, do Código de Processo Civil, cingindo-se à alegação genérica de omissão, e sem argumentação que demonstre a relevância e pertinência para fins de alteração do entendimento firmado no acórdão recorrido.
+De fato, "é deficiente a fundamentação recursal na parte em que se aponta violação ao art. 1.022 do CPC. É que a argumentação da recorrente no ponto foi genérica, sem demonstração objetiva de qual exatamente teria sido a omissão não sanada pela Corte de origem, bem assim a sua relevância para o justo deslinde da causa". (AgInt no AgInt no AREsp n. 2.170.578/DF, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 23/8/2023)
+Do mesmo modo, "sem precisa e clara indicação do vício em que teria incorrido a decisão embargada e das matérias sobre as quais deveria pronunciar-se a instância ordinária e sem específica demonstração da relevância delas para o deslinde da controvérsia, a afirmação genérica de afronta ao art. 1.022 do CPC/2015 atrai a incidência da Súmula 284 do STF". (AgInt no REsp n. 2.120.487/DF, rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/6/2024)
+Dessarte, incide, em ambos os casos, por analogia, o enunciado 284 da Súmula do STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284 DO STF. TESE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. ÓBICE DA SÚMULA N. 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Hipótese em que a parte recorrente aponta, genericamente, omissão quanto à apreciação do art. 1.022 do CPC, sem, contudo, demonstrar especificamente sua relevância para o julgamento do feito. Incidência do óbice da Súmula n. 284 do STF.
+(..)
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.583.702/RS, rel. Min. Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA MAIOR INVÁLIDA. POLICIAL MILITAR. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. COMPETÊNCIA DO STF. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+(..)
+2. Revelam-se deficientes as razões do recurso especial quando o recorrente, além de não indicar quais incisos do artigo 1.022 do CPC/2015 foram supostamente violados, não aponta omissão, contradição ou obscuridade no acórdão recorrido nem demonstra qual questão de direito deixou de ser abordada pela Corte de origem e a sua efetiva relevância para fins de rejulgamento dos aclaratórios na origem. Configurada a fundamentação recursal deficiente, aplica-se à hipótese a Súmula 284/STF.
+(..)
+6. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp n. 2.452.749/RJ, rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 20/8/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO. SÚMULA 284/STF. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DA LEI FEDERAL. SÚMULA 14/STJ. CABIMENTO. IMPOSSIBILIDADE. ALEGAÇÃO DE ERRO NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Não se pode conhecer do recurso especial quando sua argumentação não demonstra de que modo a violação à lei federal se materializou. Súmula 284 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.314.471/RN, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 26/6/2024)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ART. 1.022 DO CPC. IMPUGNAÇÃO GENÉRICA. SÚMULA 284/STF. NECESSIDADE DE APONTAR A FORMA COMO SE DEU A VIOLAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ILEGITIMIDADE ATIVA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. SOBRESTAMENTO. DESNECESSIDADE.
+(..)
+2. Quanto ao art. 506 do CPC, não houve desenvolvimento, nas razões recursais, de argumentos capazes de demonstrar a forma como se deu a violação do dispositivo legal. O conhecimento do Recurso Especial exige que a parte desenvolva, em suas razões, argumentos aptos a demonstrar o modo como teriam ocorrido as violações apontadas, sob pena de incidência, novamente, da Súmula 284/STF.
+(..)
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.120.487/DF, rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/6/2024)
+Outrossim, importa consignar que, o fato da recorrente tentar corrigir a fundamentação recursal, por ocasião do agravo interno, não tem o condão de modificar sua situação processual, tendo em vista que, "a argumentação trazida somente por ocasião do manejo do agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, tendo em vista a ocorrência de preclusão consumativa". (AgInt no AREsp n. 403.811/RN, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 14/3/2024) No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+(..)
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2022)
+Além do mais, tem-se que a aplicação da multa prevista no §4º do artigo 1.021 do Código de Processo Civil não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+Ainda, tem-se que "a jurisprudência do Superior Tribunal de Justiça não admite nova majoração de honorários de sucumbência por ocasião do julgamento de agravo interno quando tal verba já tiver sido aumentada pela decisão agravada, tendo em vista que a interposição do mencionado recurso não inaugura nova instância". (AgInt no AREsp n. 2.453.160/DF, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 28/10/2024)
+Por fim, considerando que o STJ não é juízo instrutório, e lhe compete por missão constitucional tão somente a interpretação da legislação infraconstitucional, informe-se à parte requerida que falece competência à Secretaria desta Corte e ao próprio STJ conceder o quanto solicitado na petição de fls. 3.708-3.710, não havendo nada a prover quanto ao requerido pela parte na atual instância. Todavia, isso não é um empecilho para que a agravada formule o pedido na instância adequada e em modo e tempo oportunos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
