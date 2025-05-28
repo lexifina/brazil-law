@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso especial interposto por AILTON BATISTA DOS SANTOS JÚNIOR contra acórdão assim ementado (fls. 611):
+"PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO E POSSE IRREGULAR DE ARMA DE FOGO. CONHECIMENTO E NÃO PROVIMENTO. I. Caso em exame. 1. Recurso de apelação interposto contra sentença condenatória, nos termos do art. 121, § 2º, I e IV, do CP, c/c art. 12. da Lei n.º 10.826/03. II. Questão em discussão. 2. Pedido de afastamento da circunstância judicial da culpabilidade, em decorrência da tese de que inexiste qualquer elemento, nos autos, apto a corroborar a exacerbação da vetorial. Argumentação de que o comportamento da vítima, bem como supostas ameaças prévias, por ela perpetradas, justificariam a neutralização da circunstância. III. Razões de decidir. 3. Pleito que não merece prosperar. In casu, a premeditação do crime restou comprovada por meio do modus operandi em que ocorreu. Situação que foi corroborada pelo depoimento das testemunhas oculares. Outrossim, a ausência de intenção da vítima em brigar com o réu restou evidenciada por meio do depoimento de sua ex-companheira, que afirmou que a vítima, no fatídico dia de sua morte, saiu de casa para trabalhar, ou seja, sem a menor intenção de encontrar com o réu. IV. Dispositivo 4. Recurso conhecido e não provido."
+Consta dos autos que o recorrente foi condenado em primeira instância pela prática de homicídio qualificado e posse irregular de arma de fogo, com pena de 20 anos e 5 meses de reclusão, em regime inicial fechado (fls. 510-519).
+O Tribunal de Justiça de Alagoas, ao julgar a apelação, manteve a sentença condenatória, negando provimento ao recurso defensivo (fls. 611-619).
+No recurso especial, a defesa sustenta violação ao artigo 59 do Código Penal, alegando que a valoração negativa da culpabilidade foi feita sem fundamentação idônea (fls. 624-632).
+Requer o provimento do recurso para afastar o juízo negativo sobre a referida vetorial, com a consequente redução da pena.
+O recurso foi admitido pela Corte de origem (fls. 645-646).
+Contrarrazões apresentadas (fls. 641-643).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial e, se conhecido, pelo seu não provimento, nos termos da seguinte ementa (fls. 662-665):
+"PENAL E PROCESSO PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AFASTAMENTO DA NEGATIVAÇÃO DA CULPABILIDADE. IMPOSSIBILIDADE. PREMEDITAÇÃO. NECESSIDADE DE REVOLVIMENTO DE PROVA. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL E, SE CONHECIDO, PELO SEU NÃO PROVIMENTO."
+É o relatório.
+Decido.
+O recurso é tempestivo e infirma os fundamentos do acórdão impugnado. Passo à análise do mérito.
+A controvérsia trazida no recurso cinge-se à idoneidade da fundamentação utilizada para valorar negativamente a culpabilidade do recorrente, com base na premeditação do crime.
+O acórdão recorrido, no que importa ao caso, encontra-se assim fundamentado (fls. 616-619, grifei):
+"18. No que tange à referida insurgência de erro na valoração da culpabilidade, convém transcrever excertos da sentença relacionados ao ponto impugnado. Vejamos:
+ ..  A) HOMICÍDIO A culpabilidade de réu é reprovável. Há, nos autos, prova de que o crime ocorreu com premeditação. Destaque-se que a vítima já vinha sendo ameaçada pelo réu, isto em razão de uma desavença bem anterior ao fato. Ademais, também foi apurado que o réu teria ido até o encontro da vítima, que ao sair do estabelecimento em que estava para conversar com o réu, foi alvejada com disparos de arma de fogo, que lhe foram a causa do óbito. Neste sentido, destaque-se que a premeditação é condição suficiente para a valoração negativa dessa circunstância, denotando maior reprovabilidade da conduta.
+ ..
+19. Diante do exposto, entendo que não há qualquer reparo a ser efetuado no trecho destacado. Justifico.
+20. É que, tratando-se da análise do grau de reprovabilidade da conduta, não se discute que o apelante ultrapassou os limites da norma penal, haja vista o fato de ter agido, de fato, com premeditação.
+21. Isso porque, em que pese a defesa apontar a inexistência de prévio intento na arquitetura do delito, pode-se aferir, por meio do modos operandi praticado pelo réu que este agiu com a intenção prévia de alvejar a vítima. Por outro lado, a vítima encontrava-se em momento de descontração quando fora abordada pelo ora apelante.
+22. Corroborando o exposto, colhe-se trecho do depoimento da testemunha Gabinete Des. Celyrio Adamastor Tenório Accioly ocular, Jean Wytalo Silva de Araújo - mídia audiovisual de fls. 304:
+ ..
+Que estava virado, conversando e, do nada, o réu chegou e encostou na vítima, Que pensou até que eles se conheciam; Que a vítima continuou sentada e o réu estava em pé; Que não ouviu nenhum xingamento; Que, antes dos tiros, não viu nenhuma agressão física entre a vítima e o réu; Que a vítima permaneceu sentada, enquanto o réu ficou falando com ele, em pé; Que a vítima levou o tiro enquanto estava sentado; Que o réu chegou e encostou na vítima; Que não viu eles conversando, que só viu um encostado no outro; Que quando escutou o tiro, saiu correndo.
+ ..
+23. Por sua vez, a testemunha Valdo da Silva, da seguinte forma se pronunciou: - mídia audiovisual de fls. 304:
+ ..
+Que a vítima chegou acompanhada de seu sobrinho (Jean); Que eles lancham sempre no mesmo caldo de cana, na feirinha; Que chegou um rapaz para conversar com a vítima; Que quando olhou para trás, já ouviu o tiro; Que o réu chegou tranquilo e ele achou até que os dois se conheciam;
+ ..
+24. A meu ver, a situação narrada demonstra que a vítima encontrava-se em um momento de descontração junto às citadas testemunhas, até o momento em que fora abordada pelo réu que, agindo de forma inesperada por todos, deflagrou os tiros que culminaram na sua morte.
+25. Tal cenário ganha roupagem, ainda, através do depoimento da ex-companheira da vítima, que afirmou que seu marido saiu, no dia em que ocorreu o seu assassinato, com a pessoa de nome Jean (primeira testemunha) para a feira, e que, após essa parada, iria trabalhar. A testemunha trouxe aos autos a informação de que o de cujus realizava a venda das camas que o tio de seu colega produzia e os mencionados, após a parada na feira, iriam realizar uma entrega de mercadoria - mídia audiovisual de fl. 304.
+26. Ora, as informações, até o momento reunidas, levam-me a crer na hipótese de exacerbação da culpabilidade do réu. Aliás, não há que se falar em culpa da vítima, consoante procura fazer crer a defesa, na medida em que essa saiu de casa sem qualquer intento de encontrar, tampouco de brigar com o réu, possuindo o objetivo de ir trabalhar naquele dia. Por outro lado, pode-se concluir que o réu foi ao encontro da vítima, armado, a fim de realizar sua execução.
+27. No caso em deslinde, a premeditação do crime permite, a toda evidência, a majoração da pena-base a título de culpabilidade, pois demonstra o dolo intenso e o maior grau de censura a ensejar resposta penal superior.
+28. Outro o entendimento do Superior Tribunal de Justiça sobre o tema. Vejamos:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A premeditação demonstra que o agente teve uma maior reflexão, um tempo para ponderar, trabalhando psiquicamente a conduta criminosa, o que demonstra um maior grau de censura ao comportamento do indivíduo, apto a majorar a pena-base. 2. Agravo regimental improvido. (STJ - AgRg no R Esp: 1721816 PA 2018/0023380-0, Relator: Ministra MARIA THEREZA DE ASSIS MOURA, Data de Julgamento: 19/06/2018, T6 - SEXTA TURMA, Data de Publicação: D Je 29/06/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO. PRIMEIRA FASE DA DOSIMETRIA. CONDUTA SOCIAL, CIRCUNSTÂNCIAS DO CRIME E PERSONALIDADE. FRAÇÃO DE UM SEXTO NA PRIMEIRA E SEGUNDA ETAPA DO CÁLCULO PENAL. REITERAÇÃO DOS PLEITOS FORMULADOS NO HC N. 636.151/ES, JÁ JULGADO. CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO. 1. No HC n. 636.151/ES, a Defesa postulou o decote do aumento da pena no tocante à conduta social, personalidade do agente e circunstâncias do crime, bem como a incidência da fração de 1/6 (um sexto) de aumento na primeira e segunda etapa da dosimetria. Assim, o presente writ, nesses pontos, não deve ser conhecido, pois trata-se de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. 2. A premeditação do delito demonstra o maior grau de reprovabilidade do comportamento e, assim, autoriza a 3. Agravo regimental desprovido. (STJ - AgRg no HC: 721052 ES 2022/0027243-4, Relator: Ministra LAURITA VAZ, Data de Julgamento: 22/02/2022, T6 - SEXTA TURMA, Data de Publicação: D Je 03/03/2022).
+29. Em suma, ao contrário do que sustenta a defesa, entendo que não há que se falar na tese de que o comportamento da vítima ou, ainda, de que supostas "ameaças prévias" desta tem o condão de afastar o grau de culpabilidade da conduta perpetrada pelo réu, que, por sua vez, ultrapassou os limites esperados do tipo penal."
+No tocante à circunstância judicial da culpabilidade, no julgamento do Tema Repetitivo n. 1.318, a Terceira Seção desta Corte fixou as seguintes teses:
+1. A premeditação autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora;
+2. A exasperação da pena-base pela premeditação não é automática, reclamando fundamentação específica acerca da maior reprovabilidade da conduta no caso concreto.
+Verifica-se nos autos que a valoração negativa da culpabilidade do recorrente foi devidamente justificada, especialmente com base na premeditação da conduta. Não há que se falar em culpa da vítima, como pretende a defesa, pois restou claro que ela apenas se dirigia ao trabalho naquele dia, sem qualquer intenção de encontrar ou confrontar o réu. Ao contrário, é possível concluir que o acusado foi ao seu encontro já armado, com o deliberado intuito de executar o crime, circunstância que reforça a premeditação na conduta do réu. (fls. 617-618).
+A propósito:
+"DIREITO PENAL. RECURSO ESPECIAL. ESTELIONADO. DOSIMETRIA DA PENA. CULPABILIDADE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA NA EXASPERAÇÃO DA PENA-BASE. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ. IMPOSSIBILIDADE DE REVISÃO DO QUANTUM DA MULTA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, que manteve a dosimetria da pena aplicada ao recorrente. No recurso especial, a defesa alega violação ao art. 59 do Código Penal, contestando a fundamentação utilizada para valorar negativamente as circunstâncias judiciais da culpabilidade e das consequências do crime, com pedido de decote dessas vetoriais.
+ ..
+5. A culpabilidade do recorrente foi negativada com base em elementos concretos, notadamente a premeditação do crime, o que aumenta o grau de reprovabilidade da conduta e justifica a exasperação da pena-base (AgRg no AREsp 1.969.935/TO, Quinta Turma).
+ ..
+7. A decisão recorrida está em consonância com o entendimento consolidado desta Corte, atraindo a incidência da Súmula 83 do STJ, que impede o seguimento do recurso especial quando o acórdão recorrido adota orientação firmada por esta Corte.
+ ..
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL." (AREsp n. 2.743.706/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+"DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. PREMEDITAÇÃO E MODUS OPERANDI. AGRAVANTE. ELEVAÇÃO DE 1/6. PROPORCIONALIDADE. TENTATIVA. ITER CRIMINIS PERCORRIDO. QUANTUM DE REDUÇÃO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a dosagem da pena em condenação por roubo tentado, com agravantes e atenuantes consideradas na dosimetria.
+2. O Juízo de 1º grau fixou a pena-base em 7 anos de reclusão, considerando a premeditação e as circunstâncias do crime, como o uso de ardil e a manutenção de nove pessoas reféns. A pena foi ajustada em fases subsequentes, resultando em 6 anos, 5 meses e 3 dias de reclusão.
+3. A Corte de origem, em revisão criminal, ajustou a pena para 4 anos, 1 mês e 23 dias de reclusão, aplicando a fração de 1/3 para as majorantes e considerando a menoridade relativa para redução do prazo prescricional.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a dosimetria da pena foi corretamente aplicada, considerando a premeditação como fundamento para majoração da pena pela culpabilidade e o modus operandi como justificativa para aumento pela circunstância do crime.
+5. Outra questão em discussão é a adequação da fração de aumento e diminuição da pena nas fases subsequentes da dosimetria, especialmente em relação às atenuantes e agravantes e fração de redução pela tentativa.
+III. Razões de decidir
+6. A premeditação do crime é considerada fundamento idôneo para justificar a majoração da pena pela culpabilidade, pois desborda do tipo penal.
+7. O aumento da pena em razão das circunstâncias do crime é justificado pelo modus operandi, que revela gravidade concreta superior à ínsita aos crimes de roubo.
+8. A fixação da pena-base não precisa seguir um critério matemático rígido, mas deve ser proporcional e devidamente justificado.
+9. Na segunda fase, não se vislumbra manifesto excesso nos parâmetros dosimétricos adotados, porquanto a pena foi reduzida ao piso legal pelas duas atenuantes, remanescendo uma agravante a ser sopesada, o que implicou elevação de 1/6 da reprimenda intermediária.
+10. A redução da pena pela tentativa foi aplicada corretamente, considerando o iter criminis percorrido pelos agentes.
+IV. Dispositivo e tese
+11. Agravo desprovido." (AgRg no HC n. 961.315/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/02/2025, DJEN de 26/02/2025, grifei.)
+Assim, verifica-se a in cidência da Súmula n. 83 do STJ, pois o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
