@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus impetrado em favor de IVALDO BARBOSA DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+O recorrente foi denunciado pela prática do crime previsto no art. 1º, inciso II, do Decreto-Lei nº 201/67, por suposta fraude à licitação, nos termos do art. 90, da Lei 8.666/93, sob a acusação de violação ao principio da publicidade, enquanto Prefeito do Município de Japeri.
+A Defesa alega, em síntese, que não é possível a imputação do crime previsto no art. 1º, inciso II, do Decreto-Lei 201/67 com base em delito de Fraude à Licitação (art. 90 da Lei 8.666/93) que está prescrito e que jamais foi investigado ou objeto de processo. Pretende a reclassificação delitiva para a conduta tipificada no art. 1º, inciso XIV, do Decreto-Lei 201/67. Argui a inépcia da denúncia por ausência de descrição do dolo específico e da demonstração de efetivo prejuízo aos cofres públicos.
+Requer o provimento do recurso ordinário para que seja reconhecida a inépcia da denúncia e a impossibilidade de imputação do art. 1º, inciso II do Decreto-Lei 201/67 com base em delito prescrito de Fraude à Licitação (art. 90 da Lei 8.666/93); e pela desclassificação da imputação para o crime previsto no art. 1º, inciso XIV, do Decreto-Lei n.201/67.
+A liminar foi indeferida ( fls.309/310).
+As informações foram prestadas ( fls.321/327).
+O Ministério Público Federal ofereceu parecer ( fls. 331/335).
+É o relatório. DECIDO.
+Somente após a devida instrução criminal, em que se propiciará ampla produção probatória para ambas as partes, regida pelos princípios do contraditório e da ampla defesa, é que se poderá concluir pela condenação ou absolvição do recorrente. Não se mostra adequado, portanto, antecipar tal juízo para a fase inicial do procedimento, em que se exige um lastro mínimo a embasar a exordial. Caso cabível a desclassificação, poderá ser promovida oportunamente pelo Juízo, garantindo-se os benefícios pertinentes que se mostrem adequados a nova definição jurídica eventualmente aplicável aos fatos.
+Inviável, no momento, um exame mais aprofundado da tese defensiva quanto à insuficiência dos elementos probatórios carreados aos autos. A jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023).
+Como ressaltou o Ministério Público Federal (fl.334), "a acusação do recorrente está lastreada em indícios de autoria e prova da materialidade, sendo que a denúncia está instruída com diversos documentos nela mencionados e que a acompanham".
+Além disso, não verifico ocorrência de prescrição. O crime do artigo 1º, inciso II, do Decreto-Lei nº 201/67 é de maior potencialidade ofensiva, cuja pena máxima alça a 12 anos, sem contar com as penas acessórias do § 2º do mesmo dispositivo. Não há falar em prescrição da pretensão punitiva, como bem concluiu o acórdão impugnado.
+Portanto, como apontou o Ministério Público Federal ( fl.335) "descabido nesta ação mandamental o pretendido trancamento da ação penal ou a desclassificação dos fatos para outro tipo de menor gravidade, ou ainda, o reconhecimento da inviabilidade do crime de responsabilidade pela prescrição da fraude à licitação".
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
