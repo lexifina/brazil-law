@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de GUILHERME PEREIRA DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO EM EXECUÇÃO - FALTA GRAVE - PLEITO DE RESTABELECIMENTO DO REGIME ABERTO - NÃO ACOLHIMENTO - DESCUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS PARA O REGIME ABERTO - PERFEITA SUBSUNÇÃO DOS FATOS À DESCRIÇÃO LEGAL DE FALTA DISCIPLINAR DE NATUREZA GRAVE QUE AUTORIZA A REGRESSÃO AO REGIME MAIS SEVERO - A PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE INTERROMPE O LAPSO TEMPORAL INDISPENSÁVEL PARA OBTENÇÃO DO BENEFÍCIO DE PROGRESSÃO DE REGIME - INTELIGÊNCIA DA SÚMULA Nº 534 COL. SUPERIOR TRIBUNAL DE JUSTIÇA - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Em suas razões, sustentam as impetrantes a ocorrência de constrangimento ilegal, pois não há provas suficientes para o reconhecimento da falta disciplinar de natureza grave, sendo que considerando os critérios de proporcionalidade, razoabilidade e lesividade, deve ser considerada materialmente atípica.
+Requer, em suma, a absolvição da falta disciplinar com retorno do paciente ao regime aberto e a não interrupção do lapso temporal para obtenção de novos benefícios a contar da data da suposta falta.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Segundo sustenta o agravante, ele estaria em sua residência no dia e horário em que a polícia militar se dirigiu para lá, mas que, porque a casa não tinha campainha e pelo fato de estar dormindo, não ouviu o chamado policial.
+No entanto, essa exculpatória não encontra mínima comprovação. Ora, como visto no boletim policial, os agentes chamaram o reeducando e acionaram sinais luminosos e sonoros, mas, mesmo assim, ninguém respondeu. Desse modo, soa inverossímil a referida alegação, uma vez que é consabido que as sirenes policiais são altas justamente para chamar a atenção no trânsito, não sendo crível a desculpa de não ter ouvido esses sinais sonoros.
+Não fosse suficiente, apura-se que o sr. Meirinho inclusive compareceu à residência do reeducando em horário que deveria estar em casa, mas foi constatado que novamente ele não estava em casa, conforme informação da Sra. Geane, circunstância que, mais uma vez, comprova seu total desinteresse em prestar contas à Justiça.
+Assim, a conduta do agravante guarda perfeita subsunção ao disposto no art. 50, inc. V, da Lei de Execuções Penal, que dispõe, ipsis litteris: "Comete falta grave o condenado à pena privativa de liberdade que: V - descumprir, no regime aberto, as condições impostas;", restando configurada, portanto, infração disciplinar de natureza grave.
+ ..
+Consectário lógico do cometimento de falta disciplinar, tem-se a interrupção do lapso temporal indispensável à obtenção de determinados benefícios condicionados ao atendimento de requisito objetivo-temporal, na forma e regime jurídico reconhecido por entendimento sumulado do Col. Superior Tribunal de Justiça.
+Mais ainda, na dicção do art. 118 da LEP, em caso de falta disciplinar grave devidamente reconhecida, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, o que, nos autos, resultou na imposição do regime mais severo previsto (fls. 14-15).
+Nessa linha, para modificar a decisão de origem, a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
