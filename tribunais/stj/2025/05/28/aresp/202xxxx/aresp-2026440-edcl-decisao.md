@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos pela DEFENSORIA PÚBLICA DA UNIÃO em favor de THIAGO MEDEIROS DE OLIVEIRA contra decisão que conheceu do agravo para negar provimento ao recurso especial ( fls. 671/678).
+Sustenta o embargante (fls. 683/687), em síntese, que não ocorreu manifestação sobre os motivos do Tribunal de origem ter valorado negativamente a pena-base, bem como não explicou a razão da pena-base não poder ser fixada no mínimo legal e também não articulou acerca do aumento desproporcional em 1/3 ante a apenas uma circunstância judicial negativa, sendo que a jurisprudência desta Corte Superior é firme em utilizar a fração de 1/6 para cada circunstância..
+É o relatório. DECIDO.
+Apontei na decisão embargada que as instâncias ordinárias fixaram a prestação pecuniária de forma motivada, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, de acordo com as peculiaridades do caso concreto, a desconstituição das conclusões alcançadas, no intuito de abrigar a pretensão recursal de redução do valor do montante da prestação pecuniária, com base na alegada incapacidade econômica do recorrente, demandaria necessariamente aprofundado revolvimento do acervo de fatos e provas, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ.
+A decisão embargada, também refutou a alegação de que o acórdão recorrido teria contrariado os arts. 59 e 68 do Código Penal ao considerar motivação ilegítima para negativar as circunstâncias do crime e, em face dessa vetorial, recrudescer a pena em patamar excessivo.
+Consignei, ainda, que a individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Ante à presença de duas ou mais circunstâncias judiciais desfavoráveis, as quais possuem justificativas idôneas, tenho para mim como proporcional o aumento de 1/3 promovido pelas instâncias ordinárias, não se vislumbrando flagrante ilegalidade na fração escolhida pela origem para recrudescer a reprimenda do agravante.
+Portanto, não verifico qualquer omissão a ser sanada na decisão embargada.
+Ante o exposto, nego provimento aos embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
