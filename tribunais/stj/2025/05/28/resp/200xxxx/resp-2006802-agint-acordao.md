@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROFESSOR UNIVERSITÁRIO. REGISTRO EM CONSELHO REGIONAL DE QUÍMICA. INEXIGIBILIDADE. ALEGAÇÕES DE NECESSIDADE DE FIXAÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E DE SUCUMBÊNCIA MÍNIMA. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDA DE. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Controvérsia recursal que reside na necessidade ou não de fixação de indenização por danos morais e de sucumbência mínima.
+2. No caso, o Tribunal de origem afastou a fixação de danos morais com base na inexistência de conduta abusiva do Conselho Profissional e que o pagamento da verba honorária está em conformidade com o proveito econômico obtido por cada parte.
+3. A revisão do entendimento da Corte a quo demandaria uma reavaliação de todo o conjunto de fatos e provas da causa, o que é obstado pela Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno contra a decisão de minha relatoria, no Recurso Especial n. 2006802 - DF.
+A decisão não conheceu do recurso especial, aplicando o óbice da Súmula n. 7/STJ, por entender que as alegações de necessidade de fixação de indenização por danos morais e de sucumbência mínima demandariam reexame fático-probatório. A parte dispositiva da decisão majorou os honorários advocatícios em 10% sobre o valor fixado na sentença em desfavor da parte recorrente (fls. 480-487).
+Nas razões do presente recurso, Alexandre Fonseca e outros, alegam que não se trata de hipótese de revolvimento do conteúdo fático probatório, uma vez que "a Corte de origem consignou todos os elementos necessários à demonstração da conduta ilícita do Conselho e, consequentemente, da configuração do dano moral" (fl. 501). Nesse contexto, reiteram que o acórdão recorrido violou os seguintes dispositivos legais:
+a) Arts. 186 e 927 do Código Civil: Sustentam que a ilicitude do ato do Conselho Regional de Química em manter a cobrança de anuidades, mesmo quando não cabíveis, justifica a condenação ao pagamento de danos morais (fls. 499-501).
+b) Art. 86 do CPC: Argumentam que o acórdão recorrido não reconheceu a sucumbência mínima dos recorrentes, uma vez que seu pedido principal foi atendido, e apenas a pretensão de indenização por danos morais foi afastada. Pleiteiam que os ônus da sucumbência recaiam integralmente sobre o Conselho Regional de Química da 12ª Região (fls. 501-502).
+A parte agravada não apresentou impugnação, conforme certidão de decurso de prazo sem resposta, que consta na fl. 507.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROFESSOR UNIVERSITÁRIO. REGISTRO EM CONSELHO REGIONAL DE QUÍMICA. INEXIGIBILIDADE. ALEGAÇÕES DE NECESSIDADE DE FIXAÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E DE SUCUMBÊNCIA MÍNIMA. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDA DE. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Controvérsia recursal que reside na necessidade ou não de fixação de indenização por danos morais e de sucumbência mínima.
+2. No caso, o Tribunal de origem afastou a fixação de danos morais com base na inexistência de conduta abusiva do Conselho Profissional e que o pagamento da verba honorária está em conformidade com o proveito econômico obtido por cada parte.
+3. A revisão do entendimento da Corte a quo demandaria uma reavaliação de todo o conjunto de fatos e provas da causa, o que é obstado pela Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Como destacado na decisão agravada, ao decidir sobre a não configuração de danos morais a serem indenizados e sobre a sucumbên cia recíproca, o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 357-358):
+No tocante aos danos morais, verifico que a cobrança foi afastada após decisão judicial, fato que denota a natureza controvertida da res in iudicio deducta e, consequentemente, a inexistência de condita abusiva do Conselho Profissional.
+Colaciono julgados do egrégio Superior Tribunal de Justiça e do egrégio Tribunal Regional Federal da 3a Região: "Não se configura em dano moral ou material a cobrança de um tributo indevido ou "a maior" (..)." (RESP 200900515078, Min. Eliana Calmon, DJE de 10/02/2010) e "O dano moral, como e são de interesses não patrimoniais de pessoa física ou jurídica, não visa simplesmente a refazer o patrimônio, mas a compensar o que a pessoa sofreu emocional e socialmente em razão de fato lesivo. Meros aborrecimentos, dissabores, mágoas ou irritabilidades estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do dia-a-dia, não são situações intensas e duradouras a ponto de romper o equilíbrio psicológico do indivíduo. (..) - Daí que a condenação a pagar indenização por dano moral deve ser reservada a casos pontuais, em que a parte comprova a existência de má-fé da Administração pública - situação não ocorrida neste caso.  (..).". (AC 00030735020114036183, Juiz Convocado Rodrigo Zacharias, TRF3 e-DJF3 Judicial 1 de 01/06/2016).
+No que tange aos honorários de sucumbência, entendo que tal verba tem característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+Na hipótese, o eminente magistrado a quo determinou o pagamento da verba honorária em conformidade com o proveito econômico obtido por cada parte nesta demanda (fl. 284), razão pela qual reputo devidamente observada a norma processual.
+Dessa forma, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatória. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ.
+Nessa linha de entendimento quanto aos honorários advocatícios (sem destaques no original):
+PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA N. 284/STF. PRETENSÃO DE REEXAME DOS FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS N. 283 E 284/STF. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF.
+ ..
+V - Incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática. Nesse sentido: (AgInt no AR Esp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, D Je de 25/6/2020, AgInt no R Esp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, D Je de 28/8/2020; AgInt no AR Esp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, D Je de 7/5/2020; AgInt no R Esp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, D Je de 14/2/2020).
+ ..
+XIV - Agravo interno improvido. (AgInt no AR Esp n. 2.604.183/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIO NO JULGADO. OCORRÊNCIA. ERRO DE PREMISSA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Na espécie, a decisão que julgou o recurso especial baseou-se em premissa equivocada em relação aos honorários advocatícios, pois considerou a fixação da verba honorária pelo Tribunal de origem no julgamento da apelação (R$ 1.000,00), sem considerar a modificação realizada no julgamento dos embargos de declaração, em que se reconheceu a existência de sucumbência recíproca.
+3. A jurisprudência desta Corte possui entendimento de que a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para não conhecer do recurso especial. (EDcl no AgInt no R Esp n. 1.780.421/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/11/2023, D Je de 13/11/2023.)
+Já quanto aos danos morais (sem destaques no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. CONTAMINAÇÃO DECORRENTE DE MANIPULAÇÃO DE INSETICIDA. PESTICIDA - DDT. DANOS MORAIS. LEGITIMIDADE PASSIVA DA UNIÃO E DA FUNASA. PRESCRIÇÃO. NÃO OCORRÊNCIA. NEXO DE CAUSALIDADE VERIFICADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRECEDENTES. RECURSO INTERNO DESPROVIDO.
+ ..
+3. Diante das premissas fáticas lançadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias - no sentido de (im)procedência da pretensão indenizatória por dano moral -, demandaria, necessariamente, o reexame de todo o conjunto probatório produzido nos autos, providência incompatível com a via especial, nos termos da Súmula n. 7 do STJ. Precedentes.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.164.021/BA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OFENSA AOS ART. 373, I, DO CPC E 14 DO CDC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RESPONSABILIDADE DA CONCESSIONÁRIA E CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. AGRAVO INTERNO DESPROVIDO
+ ..
+2. Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da responsabilidade da concessionária e da configuração do dano moral, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.729.583/MA, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 9/4/2025, DJEN de 15/4/2025.)
+PROCESSUAL CIVIL. RELAÇÃO DE CONSUMO. FORNECIMENTO DE ÁGUA. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CEDAR. OMISSÃO. INEXISTÊNCIA. NEGATIVA DE FORNECIMENTO DO SERVIÇO. SÚMULAS 211 E 7/STJ.
+ ..
+3. Por fim, extrai-se do decisum objurgado e das razões recursais que o acolhimento da pretensão recursal demanda reexame do contexto fático- probatório, mormente para reavaliar se houve responsabilidade civil imputável à parte recorrente, o que não se admite por conta da referida Súmula 7/STJ.
+4. Agravo Interno não provido. (AgInt no AR Esp n. 2.114.242/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, D Je de 13/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
