@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por JEFTER COUTO SOARES contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim ementado:
+PENAL E PROCESSUAL PENAL. CONDENAÇÃO PELA PRÁTICA DOS CRIMES TIPIFICADOS NO ART. 2o, CAPUT, §2º, DA LEI Nº 12.850/13; ART. 33, CAPUT, DA LEI Nº 11.343/2006; E ART. 14, DA LEI Nº 10.826/2003, NA FORMA DO ARTIGO 69 DO CÓDIGO PENAL. ABSOLVIÇÃO PELO CRIME EXPRESSO NO ART. 35, LEI Nº 11.343/2006. APELAÇÃO DEFENSIVA. PRETENSO RECONHECIMENTO DE NULIDADE DA SENTENÇA. TRANSFERÊNCIA PARA O MÉRITO. MÉRITO. REJEIÇÃO DA TESE DE NULIDADE. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. INVIABILIDADE. CONTEXTO PROBATÓRIO FIRME E ROBUSTO. DEPOIMENTO DOS POLICIAIS EM JUÍZO SUFICIENTES PARA DEMONSTRAR AUTORIA E MATERIALIDADE DOS CRIMES DE INTEGRAR ORGANIZAÇÃO CRIMINOSA ARMADA, TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO. RECURSO MINISTERIAL. PLEITO DE CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. NÃO ACOLHIMENTO. ESTABILIDADE E PERMANÊNCIA DA ASSOCIAÇÃO NÃO EVIDENCIADA. REFORMA DA DOSIMETRIA. ELEVAÇÃO DA PENA-BASE COM A VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA JUDICIAL DA CULPABILIDADE. JUSTIFICATIVA INIDÔNEA PARA O INCREMENTO DA PENA-BASE. DADOS INERENTES AO PRÓPRIO TIPO PENAL. INCIDÊNCIA DA CAUSA DE AUMENTO DE PENA DO ART. 2o, § 4o, I E IV DA LEI Nº 12.850/2013. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS QUE COMPROVEM A PARTICIPAÇÃO DE ADOLESCENTE OU VINCULAÇÃO COM FACÇÃO INDEPENDENTE. PLEITO DE APLICAÇÃO MAIS SEVERA DAS CAUSAS DE AUMENTO DE PENA DA LEI N.º 12.850/2013 PREJUDICADO QUANTO AO §4º, I E IV DA LEI Nº 12.580/13. FRAÇÃO APLICADA QUANTO AO §2º COM BASE EM FUNDAMENTAÇÃO GENÉRICA. FRAÇÃO MÁXIMA. INCIDÊNCIA. ELEMENTOS CONCRETOS. RECURSO DEFENSIVO CONHECIDO E DESPROVIDO. RECURSO MINISTERIAL CONHECIDO E PARCIALMENTE PROVIDO.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 1837-1865).
+Contraminuta apresentada (e-STJ fls.1867-1871).
+O Ministério Público Federal opinou "pelo não conhecimento do agravo em recurso especial interposto por JEFTER COUTO SOARES e, caso conhecido, pelo seu desprovimento" (e-STJ fls. 1899-1907).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+A decisão que inadmitiu o recurso especial baseou-se em dois fundamentos específicos. Primeiro, aplicou a Súmula 284 do Supremo Tribunal Federal quanto à suposta nulidade absoluta da abordagem policial, considerando que o recorrente deixou de mencionar de forma precisa qual dispositivo infraconstitucional teria sido violado pelo acórdão recorrido. Segundo, aplicou a Súmula 83 deste Superior Tribunal de Justiça no tocante à alegada violação ao art. 155 do Código de Processo Penal, verificando estar o acórdão recorrido em consonância com a jurisprudência consolidada desta Corte Superior sobre a possibilidade de utilização de provas produzidas no inquérito quando corroboradas por outras submetidas ao contraditório.
+O exame das razões do agravo revela que o agravante não impugnou especificamente os fundamentos da decisão agravada. Quanto à aplicação da Súmula 284 do Supremo Tribunal Federal, o agravante não apresentou qualquer argumentação destinada a afastar tal óbice, limitando-se a sustentar genericamente a existência de nulidade processual sem indicar com precisão os dispositivos legais supostamente violados. No que se refere à incidência da Súmula 83 deste Superior Tribunal de Justiça, o agravante também não trouxe argumentação específica para demonstrar eventual divergência jurisprudencial ou inadequação da aplicação do referido enunciado sumular.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO ANALÓGICA DA SÚMULA 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no artigo 105, III, alínea "a", da CF/88, visando reformar acórdão do Tribunal de Justiça do Estado de Santa Catarina que rejeitou embargos à execução.
+2. A decisão agravada considerou a ausência de indicação precisa dos dispositivos legais violados e a necessidade de reexame de prova, aplicando as Súmulas 284 do STF e 7 do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo interno atende aos requisitos de impugnação específica dos fundamentos da decisão agravada, conforme exigido pelo art. 1.021, §1º, do CPC.
+4. Outra questão é se a parte agravante demonstrou a inaplicabilidade dos óbices sumulares que impediram o conhecimento do recurso especial.
+III. Razões de decidir
+5. A ausência de impugnação específica dos fundamentos da decisão agravada justifica o não conhecimento do agravo interno, conforme a Súmula 182 do STJ.
+6. A parte agravante não apresentou elementos suficientes para desconstituir a decisão impugnada, nem demonstrou a inaplicabilidade dos precedentes indicados.
+7. A mera citação de doutrinadores e a transcrição de trechos doutrinários, sem conexão clara com os preceitos legais supostamente violados, não satisfazem o princípio da dialeticidade recursal.
+IV. Dispositivo e tese
+8. Agravo interno não conhecido."
+(AREsp n. 2.709.457/SC, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+A jurisprudência desta Corte Superior é pacífica no sentido de que deve ser inadmitido o agravo que deixa de atacar especificamente os fundamentos da decisão agravada, conforme estabelece a Súmula 182 do Superior Tribunal de Justiça: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O agravante limitou-se a reiterar as teses já apresentadas no recurso especial, fazendo apenas referência genérica à Súmula 7 desta Corte Superior, que sequer foi mencionada na decisão agravada, sem enfrentar adequadamente os óbices processuais especificamente apontados pelo juízo de admissibilidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
