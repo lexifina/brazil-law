@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA PARA FORNECIMENTO DE MEDICAMENTO. RÉUS SOLIDÁRIOS. RATEIO PROPORCIONAL DA VERBA HONORÁRIA. INTELIGÊNCIA DO ART. 87, §§ 1º e 2º, DO CPC. RAZÕES RECURSAIS QUE NÃO INFIRMAM A DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. Caso em exame: 1.1. Agravo Interno apresentado pela Defensoria do Estado de Mato Grosso do Sul contra decisão que conheceu do Agravo em Recurso Especial para não conhecer do Recurso Especial, em ação cominatória para fornecimento de medicamento, envolvendo réus solidários e o rateio proporcional da verba honorária, pelo óbice da Súmula 283/STF.
+II. Questão em discussão: 2.1. Saber se as razões de Agravo infirmam a decisão agravada.
+III. Razões de decidir: 3.1. Os argumentos da agravada não infirmam a decisão recorrida. O Tribunal a quo aplicou corretamente o art. 87, §§ 1º e 2º, do CPC, que prevê o rateio proporcional da verba honorária entre réus solidários, em julgado que se harmoniza com a jurisprudência do STJ, a qual já assentou que a verba honorária é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos.
+IV. Dispositivo: 4.1. Agravo desprovido.
+Jurisprudência relevante citada: STJ, AREsp 1.711.300, Rel. Min. Maria Isabel Gallotti, DJe de 09/10/2020; STJ, EDcl nos EDcl na DESIS no AgInt na Rcl nº 37.445/DF, Rel. Min. Luis Felipe Salomão, Segunda Seção, j. 18/05/2021; STJ, AREsp n. 2.763.157, Ministro Gurgel de Faria, DJE de 23/12/2024.
+RELATÓRIO
+Trata-se de Agravo Interno apresentado pela Defensoria do Estado de Mato Grosso do Sul contra a decisão que proferi às fls. 469/472, por meio da qual conheci do Agravo em Recurso Especial para não conhecer do Recurso Especial, como posto na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA PARA FORNECIMENTO DE MEDICAMENTO. RÉUS SOLIDÁRIOS. RATEIO PROPORCIONAL DA VERBA HONORÁRIA. INTELIGÊNCIA DO ART. 87, § 2º, DO CPC. RAZÕES RECURSAIS QUE NÃO IMPUGNAM FUNDAMENTO SUFICIENTE DO ACÓRDÃO ATACADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões a Defensoria alega, na tentativa de afastar a Súmula 283/STF, que não refutou o argumento que tive por suficiente à manutenção do acórdão da origem, qual seja, o de que, concorrendo diversos autores ou diversos réus, os vencidos responderão proporcionalmente pelas despesas e pelos honorários, inclusive se a distribuição não tiver sido feita (art. 87, § 2º), porque tal análise "era completamente desnecessária ao desenvolvimento da tese recursal". No mais, reprisa seus argumentos defendendo que o Estado deveria ter sido condenado em verba autônoma e não por rateio do valor já fixado para o Município, antes do reconhecimento, pelo Tribunal a quo, de que o Estado também deve a sucumbência à Defensoria.
+Houve impugnação (fls. 489/494).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA PARA FORNECIMENTO DE MEDICAMENTO. RÉUS SOLIDÁRIOS. RATEIO PROPORCIONAL DA VERBA HONORÁRIA. INTELIGÊNCIA DO ART. 87, §§ 1º e 2º, DO CPC. RAZÕES RECURSAIS QUE NÃO INFIRMAM A DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. Caso em exame: 1.1. Agravo Interno apresentado pela Defensoria do Estado de Mato Grosso do Sul contra decisão que conheceu do Agravo em Recurso Especial para não conhecer do Recurso Especial, em ação cominatória para fornecimento de medicamento, envolvendo réus solidários e o rateio proporcional da verba honorária, pelo óbice da Súmula 283/STF.
+II. Questão em discussão: 2.1. Saber se as razões de Agravo infirmam a decisão agravada.
+III. Razões de decidir: 3.1. Os argumentos da agravada não infirmam a decisão recorrida. O Tribunal a quo aplicou corretamente o art. 87, §§ 1º e 2º, do CPC, que prevê o rateio proporcional da verba honorária entre réus solidários, em julgado que se harmoniza com a jurisprudência do STJ, a qual já assentou que a verba honorária é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos.
+IV. Dispositivo: 4.1. Agravo desprovido.
+Jurisprudência relevante citada: STJ, AREsp 1.711.300, Rel. Min. Maria Isabel Gallotti, DJe de 09/10/2020; STJ, EDcl nos EDcl na DESIS no AgInt na Rcl nº 37.445/DF, Rel. Min. Luis Felipe Salomão, Segunda Seção, j. 18/05/2021; STJ, AREsp n. 2.763.157, Ministro Gurgel de Faria, DJE de 23/12/2024.
+VOTO
+Sem razão a agravante.
+Como já se anotara na decisão agravada, os fundamentos do Tribunal a quo estão bem-postos e têm congruência com o pleito da Defensoria, como demonstram os seguintes excertos que ora reprisamos:
+No caso, o acórdão deu provimento ao recurso da parte autora, patrocinada pela Defensoria, para condenar o Estado de Mato Grosso do Sul ao pagamento de 50% dos honorários advocatícios arbitrados na sentença, observando o Tema n.º 1.002, do STF.
+A Defensoria sustentou que o rateio dos honorários entre os réus foi determinado sem que houvesse pedido nesse sentido, violando o princípio da devolutividade do recurso de apelação.
+Contudo, o fato de ter havido a divisão dos honorários entre os entes públicos (Município e Estado) não extrapola os limites da lide, na medida em que houve o atendimento do pedido feito na apelação da parte autora (condenação do Estado ao pagamento dos honorários), aplicando-se a regra de distribuição da sucumbência prevista no CPC:
+"Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+§ 1º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput".
+A aplicação do texto legal independe de requerimento das partes e, ainda que nada fosse falado a respeito do rateio dos honorários, a divisão seria aplicada, por força do § 2.º, do artigo 87 do CPC, segundo o qual:
+"Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários".
+Noutras palavras, o Tribunal a quo, ausente na sentença o rateio que se impunha na condenação dos dois réus solidários, aplicou a previsão do § 2º, do art. 87, do CPC/2015, ao mesmo tempo em que deu provimento ao pedido da recorrente de condenar em honorários, também, o Estado de MS.
+Além do mais, tal posicionamento da origem se harmoniza com a jurisprudência deste STJ, no sentido de que a verba honorária é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. PLURALIDADE DE VENCIDOS E DE VENCEDORES. RATEIO DA VERBA SUCUMBENCIAL. ART. 87 DO CPC.
+1. Nos termos do art. 87 do CPC: a) havendo mais de um integrante no polo ativo, o valor fixado a título de honorários será distribuído proporcionalmente entre os vencidos nos termos em que determinado na sentença ou, no silêncio desta, de forma solidária; b) o valor dos honorários será rateado pelos integrantes do litisconsórcio vencedor. Em outras palavras, a regra do rateio na distribuição dos ônus sucumbenciais se aplica tanto à pluralidade de autores quanto à de réus, tendo em vista que tal verba é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos. Precedentes (AREsp n. 1.711.300, Ministra Maria Isabel Gallotti, DJe de 09/10/2020).
+2. Embargos de declaração parcialmente acolhidos sem efeitos infringentes. (EDcl nos EDcl na DESIS no AgInt na Rcl nº 37.445/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 18/5/2021, DJe de 25/5/2021)
+Por fim, no mesmo sentido do AREsp ora recorrido, para caso da mesma Defensoria Pública de MS, representando outra parte, contra o mesmo Estado do MS, sobre a mesma matéria, AREsp n. 2.763.157, Ministro Gurgel de Faria, DJE de 23/12/2024.
+Do exposto, não tendo sido infirmados os argumentos da decisão agravada, permanece hígido o acórdão impugnado.
+Nego provimento ao Agravo.
