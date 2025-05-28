@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUIÇÃO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por ALDA DA SILVA contra decisão monocrática que não conheceu de habeas corpus substitutivo de revisão criminal, no qual se alegava ilegalidade na condenação pelo crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), pleiteando-se a absolvição da pacien te, mesmo após o trânsito em julgado da condenação.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade de habeas corpus, após o trânsito em julgado da condenação, para contestar matéria própria de revisão criminal, e, caso admitido, examinar a existência de ilegalidade flagrante na condenação pelo crime de associação para o tráfico.
+III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça entende ser inadmissível o habeas corpus substitutivo de revisão criminal, quando já transitada em julgado a condenação, salvo em casos de flagrante ilegalidade, nos termos da jurisprudência consolidada da Corte.
+4. A competência do STJ para julgar revisão criminal está limitada às decisões proferidas por seus próprios órgãos, nos termos do art. 105, I, e, da CF/1988, o que deixa de ocorrer no caso em análise, em que a condenação foi confirmada por Tribunal de Justiça estadual.
+5. Inexistem nos autos elementos que caracterizem constrangimento ilegal evidente a justificar a concessão da ordem de ofício, conforme exige o § 2º do art. 654 do CPP.
+6. O agravante deixou de apresentar argumentos ou provas novas capazes de infirmar os fundamentos da decisão agravada, sendo mantida a conclusão anterior de inadmissibilidade do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALDA DA SILVA contra decisão que denegou o habeas corpus.
+Sustenta a defesa que o habeas corpus é admissível mesmo após o trânsito em julgado da condenação, especialmente em casos de flagrante ilegalidade.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, para absolver a paciente do crime previsto no art. 35 da Lei n. 11/343/2006.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUIÇÃO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por ALDA DA SILVA contra decisão monocrática que não conheceu de habeas corpus substitutivo de revisão criminal, no qual se alegava ilegalidade na condenação pelo crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), pleiteando-se a absolvição da pacien te, mesmo após o trânsito em julgado da condenação.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade de habeas corpus, após o trânsito em julgado da condenação, para contestar matéria própria de revisão criminal, e, caso admitido, examinar a existência de ilegalidade flagrante na condenação pelo crime de associação para o tráfico.
+III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça entende ser inadmissível o habeas corpus substitutivo de revisão criminal, quando já transitada em julgado a condenação, salvo em casos de flagrante ilegalidade, nos termos da jurisprudência consolidada da Corte.
+4. A competência do STJ para julgar revisão criminal está limitada às decisões proferidas por seus próprios órgãos, nos termos do art. 105, I, e, da CF/1988, o que deixa de ocorrer no caso em análise, em que a condenação foi confirmada por Tribunal de Justiça estadual.
+5. Inexistem nos autos elementos que caracterizem constrangimento ilegal evidente a justificar a concessão da ordem de ofício, conforme exige o § 2º do art. 654 do CPP.
+6. O agravante deixou de apresentar argumentos ou provas novas capazes de infirmar os fundamentos da decisão agravada, sendo mantida a conclusão anterior de inadmissibilidade do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+A decisão agravada, que merece ser mantida por seus próprios fundamentos, foi assim proferida (fls. 157-160):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALDA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, no julgamento da apelação criminal n. 7001102-22.2023.8.22.0008.
+Consta dos autos que a paciente foi condenada às penas de 8 anos e 6 meses de reclusão e ao pagamento de 1.083 dias-multa, como incursa nos arts. 33 e 35 da Lei n. 11.343/2006 (fl. 2).
+A defesa e o Ministério Público interpuseram apelações perante o Tribunal de origem, que, por unanimidade, negou provimento aos recursos, conforme acórdão de fls. 13-42.
+O acórdão transitou em julgado em 11/04/2025.
+No presente writ, a defesa alega que houve ilegalidade na condenação pelo crime de associação para o tráfico de drogas, previsto no art. 35 da Lei n. 11.343/2006, por ausência de prova concreta quanto à estabilidade e permanência do vínculo associativo (fls. 6-9).
+Sustenta que a condenação está baseada em suposições e contorcionismos imaginários, sem comprovação dos requisitos legais para a configuração do delito de associação para o tráfico de drogas (fls. 7-9).
+Afirma que não há qualquer prova de associação ao tráfico contra a paciente nos autos, e que a decisão condenatória é ilegal (fls. 10).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para absolver a paciente do crime previsto no art. 35 da Lei n. 11.343/2006 (fls. 10).
+É o relatório.
+Decido.
+O presente habeas corpus é sucedâneo de revisão criminal, sendo, portanto, inadmissível.
+Esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus, impetrado nesta Corte Superior de Justiça, como substitutivo de revisão criminal, ressalvada a possibilidade de concessão da ordem de ofício, se presente flagrante ilegalidade" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Nesse mesmo sentido, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO DESTA CORTE SUPERIOR. INCOMPETÊNCIA DO STJ PARA O PROCESSAMENTO DO PEDIDO. TRÁFICO INTERNACIONAL DE ENTORPECENTES. POSTAGEM VIA CORREIOS. 3,280 KG DE SUBSTÂNCIA EM PÓ BRANCO, IDENTIFICADA COMO LIDOCAÍNA. DOSIMETRIA. ALEGAÇÃO DE ILEGALIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. NEGATIVAÇÃO DAS CIRCUNSTÂNCIAS DO CRIME. DROGA ESCONDIDA EM BASES DE PATINETES PARA DIFICULTAR A FISCALIZAÇÃO. FUNDAMENTAÇÃO IDÔNEA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS VERIFICADA PELAS INSTÂNCIAS ORIGINÁRIAS. APRESENTAÇÃO DE ELEMENTOS CONCRETOS. INVIABILIDADE DE REEXAME PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Inicialmente, registre-se a indevida utilização da impetração, que hostiliza condenação transitada em julgado, como sucedâneo de revisão criminal.
+2. Ademais, deve ser mantida a decisão agravada que indeferiu liminarmente a impetração, haja vista que o aumento de um ano aplicado na primeira fase da dosimetria pelas instâncias ordinárias, em razão das circunstâncias do crime, apontando que estas extrapolam as comuns à espécie, já que a droga estava oculta dentro de bases de patinetes, o que tinha por objetivo dificultar a fiscalização (fl. 80), não se mostra indevido ou desproporcional. Precedentes.
+3. No que tange à causa especial de redução de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, não se verifica constrangimento ilegal, pois a fundamentação das instâncias ordinárias quanto à dedicação do ora agravante a atividades criminosas, para afastar a incidência da causa de diminuição de pena do tráfico privilegiado, está de acordo com o entendimento da Sexta Turma desta Corte.
+4. Por fim, a exasperação da pena-base, aliada à reprimenda definitiva imposta superior a 4 anos, além das circunstâncias judiciais negativas que envolveram a prática do delito, bem como a condenação anterior do paciente pelo mesmo delito - ocultação da droga em compartimento adrede preparado no interior de patinetes, colaboração com o tráfico ilícito de entorpecentes em grande escala (fl. 86) -, justificam o regime inicial fechado, nos termos do art. 33, § 3º, c/c o art. 59, ambos do Código Penal e da jurisprudência deste STJ.
+5. Agravo regimental improvido." (AgRg no HC n. 801.152/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/2/2024, DJe de 28/2/202, grifei)
+"HABEAS CORPUS. IMPETRAÇÃO QUE QUESTIONA DECISÃO TRANSITADA EM JULGADO NÃO PROFERIDA PELO STJ. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AUMENTO DA PENA-BASE. PROPORCIONAL E SOB FUNDAMENTAÇÃO IDÔNEA. ALEGADA CONFISSÃO TOTAL. SUPRESSÃO DE INSTÂNCIA E INSTRUÇÃO DEFICIENTE. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso.
+3. Além disso, não se identifica ilegalidade flagrante a ensejar a concessão da ordem de ofício, pois a Corte estadual manteve o incremento da pena-base em quantum proporcional e sob fundamentação idônea.
+4. Embora a defesa argumente que o réu confessou totalmente o delito e pleiteie a integral compensação da atenuante com uma agravante, esse assunto não foi discutido pela Corte de origem e a defesa não acostou cópia da sentença condenatória, a inviabilizar o exame acerca da existência da apontada ilegalidade.
+5. Habeas corpus parcialmente conhecido e, na parte conhecida, denegada a ordem." (HC n. 829.748/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2023, DJe de 11/12/2023, grifei).
+Portanto, deve ser observada a regra do art. 105, inc. I, alínea e, da Constituição Federal, segundo a qual, a competência desta Corte Superior para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.
+No caso, como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+De qualquer forma, não identifico no acórdão impugnado nenhuma coação ilegal que justifique a concessão da ordem, nos termos do § 2º do art. 654 do Código de Processo Penal
+Ante o exposto, não conheço do habeas corpus.
+Vale ressaltar que, sendo inexistente no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo ora agravante, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+De toda maneira, deixo de vislumbrar no acórdão recorrido ilegalidade que configure coação apta a justificar a concessão da ordem, nos termos do § 2º do art. 654 do Código de Processo Penal.
+Considerando que o agravante deixou de apresentar elemento capaz de alterar a conclusão do julgado, permanece o posicionamento firmado na decisão agravada, contexto em que nego provimento ao agravo regimental.
+É o voto.
