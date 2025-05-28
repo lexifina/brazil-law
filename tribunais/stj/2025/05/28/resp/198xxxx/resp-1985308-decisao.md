@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMAURI LUIZ contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que determinou a instauração de incidente para apuração de falta grave supostamente cometida pelo recorrente durante o período de livramento condicional (fls. 634-642).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação aos arts. 50, 118, 140, 145 da Lei n. 7.210/1984 e 86, I, e 87 do Código Penal (fls. 690-702).
+Em contrarrazões, o Ministério Público do Estado de Minas Gerais requer o não conhecimento do recurso devido à Súmula n. 283, STF, e por versar sobre matéria constitucional. No mérito, pugna pela manutenção da decisão recorrida (fls. 706-714).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 775-779).
+É o relatório. DECIDO.
+A controvérsia versa sobre na possibilidade de aplicação das consequências da falta grave ao apenado que, durante o período de prova do livramento condicional, comete novo delito. No caso em questão, o Tribunal a quo determinou a abertura de incidente para a apuração da falta grave (fls. 634-642).
+Em que pesem as conclusões do Tribunal de origem, há de se analisar as peculiaridades do instituto. Isso porque o livramento condicional, conforme estabelecem os arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, possui um conjunto normativo próprio. Sua característica especial reside no fato de ser um benefício que, embora vinculado à execução penal, é integralmente usufruído fora do sistema prisional.
+De acordo com o art. 86, inciso I, c/c o art. 88 do Código Penal e o art. 145 da Lei de Execução Penal, caso ocorra a prática de um novo delito durante o período do livramento condicional, este deverá ser revogado. Além disso, o tempo em que o condenado esteve em liberdade não será computado na pena.
+Dessa forma, considerando a ausência de previsão legal para outras sanções, o princípio da legalidade impede que o novo crime seja equiparado a uma falta grave.
+Sobre o tema:
+"4. A jurisprudência do Superior Tribunal de Justiça estabelece que a prática de crime durante o livramento condicional tem regras próprias, previstas no Código Penal e na Lei de Execução Penal, que não incluem a perda dos dias remidos como consequência.
+5. O livramento condicional, por ser usufruído fora do sistema prisional, não admite a aplicação de sanções além da suspensão ou revogação do benefício e a desconsideração do tempo de liberdade, conforme o princípio da legalidade.
+6. A prática de novo crime durante o livramento condicional não configura falta grave que justifique a perda dos dias remidos, devendo ser tratada conforme as disposições específicas do Código Penal e da Lei de Execução Penal." (AgRg no HC n. 963.673/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025)
+"1. O cometimento de novo crime no curso do livramento condicional não acarreta os mesmos efeitos da falta grave prevista na Lei n. 7.210/1984, pois a eventual condenação pelo delito mais recente terá as implicações inerentes e previstas no Código Penal, as quais não fazem parte do sistema de progressão de penas.
+2. No período de livramento condicional, embora o condenado esteja em cumprimento de pena, não está recolhido ou submetido às regras de nenhum estabelecimento prisional, mas, sim, às condições que foram fixadas pelo Juízo da Execução, por ocasião da audiência admonitória." (AgRg no REsp n. 1.990.407/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022)
+Ante o exposto, dou provimento ao recurso especial, nos termos do art. 255, § 4º, inciso III, do RISTJ, para afastar a determinação de apuração da falta grave e seus consectários legais, sem prejuízo, da aplicação das sanções legais para o livramento condicional.
+Publique-se. Intimem-se.
+EMENTA
