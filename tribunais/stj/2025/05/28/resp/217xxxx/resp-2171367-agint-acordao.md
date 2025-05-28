@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REMESSA NECESSÁRIA. PARCELAMENTO. PRESCRIÇÃO. SUPOSTA OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 435 DO CPC. NÃO IMPUGNADO FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO SUFICIENTE, POR SI SÓ, PA RA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. VIOLAÇÃO DO ART. 203 DO CTN. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão proferido pelo Tribunal de origem não possui a omissão suscitada pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Inexiste, portanto, ofensa ao art. 1.022 do CPC/2015.
+2. Em relação à suposta contrariedade ao art. 435 do CPC, constata-se que a parte recorrente deixou de impugnar, nas razões do apelo nobre, fundamento apresentado pela Corte de origem que é suficiente, por si só, para a manutenção do julgado. Incide, no ponto, o óbice da Súmula n. 283 do STF.
+3. O Tribunal a quo, apesar da oposição de embargos de declaração, não apreciou a tese recursal vinculada à alegada ofensa ao art. 203 do Código Tributário Nacional, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CCN PARTICIPACOES SOCIEDADE LIMITADA UNIPESSOAL contra a decisão de minha lavra, pela qual conheci parcialmente do recurso especial e, nessa parte, neguei-lhe provimento, nos termos da seguinte ementa (fl. 424):
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REMESSA NECESSÁRIA. PARCELAMENTO. PRESCRIÇÃO. SUPOSTA OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 435 DO CPC. NÃO IMPUGNADO FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO SUFICIENTE, POR SI SÓ, PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. VIOLAÇÃO AO ART. 203 DO CTN. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+Consta dos autos que o Juízo singular extinguiu a execução fiscal, diante da ocorrência da prescrição dos débitos.
+O Tribunal de origem, por sua vez, deu provimento "à remessa necessária para determinar o retorno dos autos ao Ju ízo de origem com vistas ao regular prosseguimento da execução fiscal" (fl. 308). O acórdão ficou assim ementado (fl. 309):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. REMESSA NECESSÁRIA. PARCELAMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. Cuida-se de remessa necessária em virtude de sentença que extinguiu a execução fiscal, diante da prescrição dos débitos.
+2. No caso, a União comprovou que os débitos foram objeto de sucessivos parcelamentos, com rescisão em 2019. Assim, ajuizada e execução fiscal em 31/03/2021, não se cogita da ocorrência da prescrição no caso em tela.
+3. O parcelamento - ou o simples pedido - é causa de suspensão de exigibilidade do crédito, nos exatos termos do artigo 151, inciso VI, do Código Tributário Nacional, e implica reconhecimento da dívida pelo devedor, cuja consequência imediata é a interrupção do curso do prazo prescricional, na forma do artigo 174, parágrafo único, inciso IV, do Código Tributário Nacional, o qual somente volta a fluir a partir de sua rescisão. Precedente.
+4. Remessa necessária provida.
+Os subsequentes embargos de declaração opostos contra o referido julgado foram rejeitados (fls. 361-362).
+Nas razões do recurso especial, a parte recorrente alegou ofensa ao art. 1.022 do CPC, ao argumento de que "não foi analisada/apreciada a questão da extemporaneidade da documentação trazida pela União" (fl. 379).
+Sustentou contrariedade ao art. 435 do CPC nestes termos (fls. 380-382):
+Como dito no VV. Acórdão, a Fazenda Pública instada a se manifestar para impugnar a exceção de pré-executividade não o fez, depois novamente para interpor o recurso contra sentença que extinguiu a Execução Fiscal, novamente permaneceu inerte, contudo quando da certidão de que o processo iria para o Eg. TRF em reexame necessário, ai então com uma conduta nada ortodoxa, peticiona apresentando um parcelamento que não fora objeto da apreciação da instância a quo, não passou pelo contraditório, ampla defesa e uma contraprova a fim de refutá-los, alegando simplesmente que o débito em questão foi anteriormente parcelado.
+ ..
+No presente caso Excelência, tais documentos foram juntados após o prazo recursal, e mais, ao total arrepio da lei, pois em reexame necessário verificamos que não houve reexame algum, na medida em que estes documentos não foram sequer conhecidos pelo Juízo Monocrático.
+Também afirmou que houve violação do art. 203 do Código Tributário Nacional, pois "a CDA que fundamenta a presente execução fiscal está viciada, visto não ter a mesma um de seus elementos fundamentais, qual seja, a liquidez, pois não trouxe a Fazenda Pública nada que demonstre ter a referida dívida (CDA) descontado todos os pagamentos efetuados com o alegado parcelamento" (fl. 388).
+Contrarrazões às fls. 406-413.
+O recurso especial foi admitido (fl. 419).
+A decisão de fls. 424-427 conheceu parcialmente do recurso especial e, nessa parte, negou-lhe provimento.
+Neste agravo interno, a parte agravante reitera a alegada ofensa ao art. 1.022 do CPC, bem como se insurge contra a incidência das Súmulas 283 do STF e n. 211 do STJ.
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Segunda Turma desta Corte Superior.
+Não foi apresentada resposta ao recurso.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REMESSA NECESSÁRIA. PARCELAMENTO. PRESCRIÇÃO. SUPOSTA OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 435 DO CPC. NÃO IMPUGNADO FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO SUFICIENTE, POR SI SÓ, PA RA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. VIOLAÇÃO DO ART. 203 DO CTN. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão proferido pelo Tribunal de origem não possui a omissão suscitada pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Inexiste, portanto, ofensa ao art. 1.022 do CPC/2015.
+2. Em relação à suposta contrariedade ao art. 435 do CPC, constata-se que a parte recorrente deixou de impugnar, nas razões do apelo nobre, fundamento apresentado pela Corte de origem que é suficiente, por si só, para a manutenção do julgado. Incide, no ponto, o óbice da Súmula n. 283 do STF.
+3. O Tribunal a quo, apesar da oposição de embargos de declaração, não apreciou a tese recursal vinculada à alegada ofensa ao art. 203 do Código Tributário Nacional, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ
+4. Agravo interno desprovido.
+VOTO
+A irresignação não prospera.
+De início, reafirmo que o acórdão proferido pelo Tribunal de origem não possui a omissão suscitada pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão no sentido de que "a prescrição é matéria de ordem pública, cognoscível de ofício a qualquer tempo e por qualquer instância" (fl. 361). O Tribunal regional também salientou que "o reexame necessário devolve ao Tribunal todas as questões discutidas na sentença, independentemente de recurso voluntário" (fl. 361).
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Em relação à suposta contrariedade ao art. 435 do CPC, a Corte a quo expressamente consignou que "a prescrição é matéria de ordem pública, cognoscível de ofício a qualquer tempo e por qualquer instância" (fl. 361).
+Reitero que o referido fundamento, que é suficiente, por si só, para dar suporte à conclusão do Tribunal de origem, não foi impugnado nas razões do recurso especial. Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Por fim, destaco, mais uma vez, que o Tribunal a quo, apesar da oposição de embargos de declaração, não apreciou a tese recursal vinculada à alegada ofensa ao art. 203 do Código Tributário Nacional, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+A propósito, ao sustentar, nas razões do apelo nobre, a violação do art. 1.022 do CPC, a parte recorrente não suscitou a omissão da referida questão, o que é indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.
+Nesse sentido: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Assim, na ausência de argumentos relevantes que infirmem as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
