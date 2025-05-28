@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MONDELEZ BRASIL LTDA. a acórdão proferido pela Segunda Turma desta Corte assim ementado (e-STJ, fl. 151):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISCUSSÃO ACERCA DA REGULARIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. JUNTADA DE CÓPIA DO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. ÔNUS DE ILIDIR A PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA QUE COMPETE AO CONTRIBUINTE. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem baseou-se na interpretação de fatos e provas para concluir pela higidez da Certidão de Dívida Ativa. Portanto, claro está que, para o Superior Tribunal de Justiça chegar a entendimento diverso, sobretudo no que concerne à aferição do preenchimento ou não dos requisitos essenciais à validade da CDA, demandaria inevitável reexame de matéria fática, procedimento vedado em recurso especial, consoante enunciado da Súmula 7/STJ.
+2. O Superior Tribunal de Justiça possui entendimento de que "o ajuizamento da execução fiscal prescinde da cópia do processo administrativo que deu origem à Certidão de Dívida Ativa, sendo suficiente a indicação, no título, do seu número. Isto por que, cabendo ao devedor o ônus de infirmar a presunção de liquidez e certeza da CDA, poderá juntar aos autos, se necessário, cópia das peças daquele processo que entender pertinentes, obtidas junto à repartição fiscal competente, na forma preconizada pelo art. 6.º, § 1º c/c art. 41 da Lei 6.830/80" (REsp 718.034/PR, Rel. Min. Castro Meira, Segunda Turma, DJ 30.05.2005).
+3. Agravo interno improvido.
+Em suas razões recursais, a embargante alega omissão no acórdão ora embargado, defendendo que a análise da tese apresentada em seu recurso especial não demanda o revolvimento do conjunto probatório, sendo inaplicável o óbice da Súmula 7/STJ.
+Assevera, assim, que a matéria fática está amplamente delimitada pelas decisões proferidas nos autos originários e que esta Corte Superior teria sido provocada a se manifestar sobre matéria exclusivamente de direito, quais sejam: "a) se a CDA deve evidenciar as causas para exigência do débito (ausência de pagamento, não homologação de compensação, pagamento a menor, etc.), ou se é suficiente trazer dispositivos legais que remetam à instituição do tributo em cobrança; e b) se a CDA deve conter a forma de cálculo dos encargos legais ou se é suficiente trazer os valores que estão sendo exigidos a esse título" (e-STJ, fl. 170).
+Não foi apresentada impugnação ao recurso, conforme certificado à fl. 187 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+As razões do recurso revelam tão somente o intuito de reapreciação da causa, o que não se admite em embargos de declaração, os quais se revestem de índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. ALEGAÇÃO DE IMPENHORABILIDADE. REEXAME. VEDAÇÃO DA SÚMULA 7 DO STJ.
+1. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. No caso, o exame da eventual impenhorabilidade dos bens demandaria ultrapassar o quadro fático delineado nas instâncias ordinárias, providência vedada pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.725.196/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. OCORRÊNCIA. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. TEMA N. 880/STJ. INAPLICABILIDADE.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp n. 941.782/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 21/9/2020, DJe 24/9/2020 e AgInt no REsp n. 1.385.196/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 31/8/2020, DJe 10/9/2020.)
+ ..
+X - Agravo interno improvido.(AgInt no REsp n. 2.113.466/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Na espécie, observa-se que a embargante, sem demonstrar a existência de nenhum vício, limita-se a reiterar os argumentos apresentados em suas insurgências anteriores quanto à nulidade da Certidão de Dívida Ativa que instrumentaliza a execução, o que já foi refutado pelo acórdão embargado.
+Reitere-se, assim, que no acórdão embargado esta Turma julgadora entendeu que o Tribunal de origem baseou-se na interpretação de fatos e provas para concluir pela higidez da Certidão de Dívida Ativa e que, para chegar a entendimento diverso, sobretudo no que concerne à aferição do preenchimento ou não dos requisitos essenciais à validade da CDA, seria inevitável o reexame de matéria fática, procedimento vedado em recurso especial, consoante enunciado da Súmula 7/STJ.
+Ademais, consignou-se que, consoante entendimento desta Corte Superior, "o ajuizamento da execução fiscal prescinde da cópia do processo administrativo que deu origem à certidão de dívida ativa, sendo suficiente a indicação, no título, do seu número. Isto porque, cabendo ao devedor o ônus de infirmar a presunção de liquidez e certeza da CDA, poderá juntar aos autos, se necessário, cópia das peças daquele processo que entender pertinentes, obtidas junto à repartição fiscal competente, na forma preconizada pelo art. 6.º, § 1º c/c art. 41 da Lei 6.830/80" (REsp 718.034/PR, Rel. Min. Castro Meira, Segunda Turma, DJ 30.05.2005).
+Por fim, ressaltou-se que, independentemente de maiores considerações a respeito de a parte ora embargante ter, ou não, procedido ao necessário cotejo analítico entre os julgados, " é  pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica" (AgInt no AREsp n. 2.074.854/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 19/9/2024).
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil.
+Diante dessas considerações, rejeito os embargos de declaração.
+É como voto.
