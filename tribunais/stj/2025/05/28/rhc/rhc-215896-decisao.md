@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ALINE CUNHA MARTINS contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, no julgamento do HC n. 0622754-68.2025.8.06.0000.
+A recorrente está sendo investigada por, supostamente, integrar organização criminosa em disputa pelo controle do tráfico de drogas no município de Caucaia, no Ceará. A recorrente foi presa em 5 de setembro de 2023. A paciente foi colocada em liberdade em março de 2024, com imposição de medidas cautelares diversas, dentre as quais a suspensão do exercício da advocacia perante a jurisdição criminal.
+Por meio de habeas corpus impetrado na origem, a defesa buscou revogar as medidas cautelares, alegando excesso de prazo e falta de fundamentação idônea para justificá-las.
+O Tribunal de origem denegou a ordem (e-STJ, fls. 44-64). Neste recurso, a defesa reitera as alegações relativas ao excesso de prazo das medidas cautelares, sobretudo aquela que a impede de atuar na jurisdição criminal, o que, segundo sua defesa, está lhe causando prejuízos financeiros graves.
+Diante disso, requer o provimento deste recurso para substituir a medida cautelar de suspensão do exercício da advocacia perante a jurisdição criminal.
+É o relatório. Decido.
+Este recurso não comporta conhecimento.
+Há de se ter em mente que o habeas corpus se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição causada por ato de autoridade pública tido por ilegal.
+Neste caso, a defesa busca, por meio da ação mandamental que deu origem a este recurso, discutir a validade e a continuidade de medidas constritivas direcionadas à atividade profissional da recorrente, de maneira que não é possível presumir qualquer ameaça de lesão à liberdade ambulatorial na hipótese. Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se ameaça real ao direito de locomoção, inexistente no caso destes autos.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LAVAGEM DE DINHEIRO E ORGANIZAÇÃO CRIMINOSA. MEDIDAS ASSECURATÓRIAS. SEQUESTRO DE BENS E BLOQUEIO DE CONTAS. LIBERDADE DE LOCOMOÇÃO NÃO VIOLADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não conheceu do pedido, sob o fundamento de que "existe mecanismo processual apropriados, adequado, deixando incabível o remédio heroico do Habeas Corpus, que sabidamente se destina a proteger a liberdade do indivíduo, enquanto a pretensão deduzida é de liberação de automóvel e de contas bancárias" (fl. 841).
+2. O acórdão recorrido não divergiu da jurisprudência desta Corte Superior, no sentido de que o habeas corpus não se presta para revogar decisão que determinou medidas que não atingem a liberdade ambulatorial do acusado.
+3. Agravo regimental desprovido. (AgRg no RHC n. 178.891/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+PROCESSO PENAL. HABEAS CORPUS. ESTELIONATO. INQUÉRITO POLICIAL. (1) ORDEM COMO SUCEDÂNEO RECURSAL. IMPROPRIEDADE. (2) TRANCAMENTO DA INVESTIGAÇÃO. PACIENTE NÃO INDICIADA. PESSOA JURÍDICA DE SUA TITULARIDADE. UTILIZAÇÃO PARA PERPETRAÇÃO DE FRAUDE. BLOQUEIO DE BENS. INTERESSE MERAMENTE PATRIMONIAL. VIA INADEQUADA. (3) EXCESSO DE PRAZO. NÃO RECONHECIMENTO. RECOMENDAÇÃO DE AGILIZAÇÃO NA CONCLUSÃO DAS INVESTIGAÇÕES.
+1. No contexto de racionalização do emprego do habeas corpus, é imprópria a sua utilização como sucedâneo recursal.
+2. Não figurando a paciente como indiciada, sendo assinalado pela Autoridade Policial que ela não se encontra envolvida na suposta prática de estelionato, inexiste interesse jurídico a ser tutelado por meio do habeas corpus. Na espécie, como a pessoa jurídica de que sócia a paciente teve valores bloqueados, graças à conta-corrente de tal sociedade ter sido utilizada como rota de passagem de recursos desviados, a pretensão ora vertida se revestiria de nítido interesse patrimonial, cuja tutela não é de ser esgrimada pela via heroica. De mais a mais, não se mostra apropriado o trancamento das investigações, pois há pessoa indiciada e notícia de que outras pessoas estão em vias de serem identificadas como responsáveis pelo sucesso do desfalque criminoso.
+3. In casu, conquanto ainda não haja constrangimento, é de se recomendar à autoridade policial que ultime as investigações com a maior brevidade possível, dado que já se passaram mais de cinco anos de seu início.
+4. Ordem não conhecida, com recomendação de celeridade na conclusão das investigações policiais.
+(HC n. 230.696/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 12/8/2014, DJe de 25/8/2014.)
+Diante do exposto, nos termos do art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço deste recurso ordinário.
+Publique-se.
+EMENTA
