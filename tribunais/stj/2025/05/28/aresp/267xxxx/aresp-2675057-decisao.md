@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que não admitiu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 469-476, a saber:
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão do Segundo Vice-Presidente do Tribunal de Justiça daquele Estado, que não admitiu o recurso especial com espeque na Súmula 7/STJ.
+Inconformado, o agravante contesta a incidência da Súmulas 7 e afirma que a análise das alegações não exige reexame de provas, pois as balizas fáticas são incontroversas e estão explicitamente delineadas nos autos.
+Pugna pelo provimento deste agravo para que o recurso especial seja conhecido e, ao final, provido.
+A contraminuta foi apresentada pelo agravado.
+Ao final, o Ministério Público Federal opinou pelo "pelo conhecimento e provimento do agravo para dar-se provimento ao recurso especial, restabelecendo-se a sentença condenatória" (e-STJ fl. 476).
+É o relatório.
+Decido.
+No que tange, em princípio, à admissibilidade recursal, observo que o agravo em recurso especial deve ser conhecido.
+Passo, assim, à análise do recurso especial.
+O recurso especial manejado pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS pretende o reconhecimento da "legalidade das diligências empreendidas no caso vertente, com a devida comprovação da materialidade do crime previsto no art. 33, caput, da Lei n. 11.343/06 e restabelecimento da condenação do recorrido" (e-STJ fl. 394).
+No caso em exame, o Tribunal de origem conferiu provimento à apelação defensiva para reconhecer a nulidade da busca pessoal realizada pelos policiais e, via de consequência, absolveu a parte acusada, pelos seguintes fundamentos (e-STJ fls. 342-345):
+Evidencia-se que a abordagem policial ocorreu por avistarem o acusado descendo de um veículo com uma sacola na mão e, ao ter avistado a viatura, tentou abrir o portão rapidamente. Assim, consigo foi encontrada a substância ilícita e significativa quantia em dinheiro.
+Nesse contexto, exsurge a ilegalidade da revista pessoal realizada pelos policiais militares.
+O perlustrar do alfarrábio consente sondar que não ficou demonstrado de modo suficiente, para além da dúvida razoável, que os elementos relativos à prática de infração penal se haja obtido de modo lícito, é referir, de que se tenha coletado em perímetro de atuação preventiva pela polícia ostensiva (militar), desaproximando-se, por conseguinte, do indispensável à sua validez.
+O colendo Superior Tribunal de Justiça (STJ), há algum tempo, exige, em termos de standard probatório para a busca pessoal sem mandado judicial a existência de fundada suspeita (a sedimentar indiscutível justa causa) - lastreada em juízo de probabilidade, descrita, portanto, com a maior precisão possível e aferível (empós, aferida), de modo objetivo e devidamente justificada pelos indícios e circunstâncias do caso concreto - de que o citoyen traga consigo drogas, armas ou outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência.
+A propósito, de dizer-se que o súdito estatal não pode ter sua liberdade deambulatorial e situacional subjugada ao líbito de sortilégios conjecturais dos que compõem as forças ostensivas e preventivas.
+ ..
+A concretização da atividade ostensivo-preventiva se tem manifestado como aquela que povoa a mente do pescador, na crença e expectativa de que será bem-sucedido em sua iniciativa de ir a algum local, assim o pesqueiro, rio, lago, lagoa, represa, mar, oceano e ali exitará na captura de algum espécimen de peixe, para seu deleite, sobrevivência, comercialização.
+O que se tem por fishing expedition emoldura-se como a prospecção indeterminada e genérica, em regra, destituída de zetética preliminar, - vedada à polícia ostensivo-repressiva, é referir, à Polícia Militar (PM) -, na perspectiva de se facear eventual situação que configure a prática de algum contingente delito e que lhe serviria de justificativa para legitimar as diligências de buscas concretizadas, sem que disponha de atribuições neste sentido.
+No entanto, o preceito privil ge contre l"auto-incrimination (privilege against self-incrimination ou privilegio contro l"autoincriminazione ou direito à não autoincriminação) erige-se como óbice intransponível à procura irresoluta e prognóstica, pois ao Estado não se consente atuar no limbo da legalidade.
+ ..
+O desate, por conseguinte, é somente um, a declaração da ilicitude dos elementos decorrentes desta conduta.
+Por destoar da orientação deste Tribunal Superior, merece reparo o acórdão proferido pelo Tribunal de origem.
+Assiste razão ao Parquet quando destaca que "o pronunciamento transcrito  ..  termina por extrapolar os contornos erigidos pelo legislador, estabelecendo rigores que vão além daqueles efe tivamente necessários para a constatação da aludida fundada suspeita, a qual não pode obstar de forma desproporcional o exercício regular da função inerente aos policiais militares, em prejuízo da segurança pública" (e-STJ fl. 471).
+De fato, na situação concreta examinada, as circunstâncias indicadas, em conjunto, ultrapassam o mero subjetivismo e indicam a existência de fundada suspeita de que o acusado estaria na posse de objeto ilícitos, em especial de substâncias entorpecentes, haja vista a tentativa evidente de evitar a abordagem policial.
+Segundo consta dos autos, "ao descer de um veículo estacionado em via pública e se deparar com a presença da viatura, o recorrido tentou refugiar-se em sua casa, o que motivou a abordagem policial ainda em via pública, do lado de fora da residência" (e-STJ fl. 472-473).
+Esses elementos sinalizam que não se tratou aqui de busca aleatória e vaga. Evidente que, neste caso, os policiais se depararam com a existência de uma probabilidade enorme de que o acusado estava transportando algum ilícito, o que lhes autorizava a busca pessoal.
+Acresça-se que o caso versa sobre tráfico de substância entorpecente, cujos efeitos se protraem no tempo, denominado crime permanente, cujo autor, justamente por causa disso, remanesce em permanente estado de flagrância, a possibilitar a incidência do disposto no art. 303 da Lei Processual Penal brasileira.
+No caso em exame, a ação policial estava amparada em fundadas razões, devidamente justificadas a posteriori, indicativas da ocorrência de situação de flagrante delito, que culminou na apreensão de relevante quantidade de substâncias entorpecentes (770g de maconha), em regular diligência e exercício do dever/poder de polícia.
+Nesse contexto, restou justificada a abordagem e busca pessoal, não se vislumbrando qualquer ilegalidade na atuação dos policiais, uma vez que amparada nas circunstâncias do caso concreto.
+Constata-se, portanto, que a diligência policial não foi arbitrária, mas decorreu de coleta progressiva de elementos que levaram, de forma válida, à conclusão segura de ocorrência de crime permanente.
+As informações colhidas e postura evasiva e nervosa do sentenciado foram suficientes para a configuração de fundada suspeita apta a justificar a busca pessoal, nos termos do art. 244 do CPP e conforme entendimento desta Corte Superior.
+Assim, de rigor o reconh ecimento da higidez da busca realizada.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. LEGALIDADE DA ABORDAGEM. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame1. Agravo regimental em habeas corpus interposto contra decisão que denegou a ordem, mantendo a condenação do paciente por tráfico de drogas, com base em busca pessoal e veicular realizadas por policiais militares.
+2. O paciente foi abordado em rodovia após demonstrar nervosismo ao avistar a viatura policial, o que motivou a busca veicular.
+3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à apelação da defesa para reduzir a pena, mantendo a condenação por tráfico de drogas.
+II. Questão em discussão4. A questão em discussão consiste em saber se a busca pessoal e veicular realizada pela polícia, sem mandado judicial, foi legal e justificada por fundada suspeita.
+III. Razões de decidir5. A abordagem policial foi considerada legal, pois foi motivada por fundada suspeita decorrente do comportamento nervoso do paciente ao avistar a viatura.
+6. A busca veicular foi justificada pela necessidade de proteção dos bens jurídicos envolvidos e pela prevenção do transporte ilegal de substâncias entorpecentes.
+ ..  (AgRg no HC 954693/SP - AGRAVO REGIMENTAL NO HABEAS CORPUS 2024/0397875-8 - Min. Riberio Dantas, Quinta Turma, julgado em 12.02.2025, destaquei).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADAS SUSPEITAS. OCORRÊNCIA. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do STJ é no sentido de que a busca pessoal, conforme o art. 244 do CPP, dispensa mandado quando há prisão ou fundada suspeita de posse de arma proibida, objetos ou papéis delituosos, ou quando determinada no curso de busca domiciliar. Além disso esta Corte Superior possui entendimento segundo o qual a busca veicular equipara-se à busca pessoal, desde que haja fundada suspeita de crime.
+2. No caso dos autos, a busca veicular realizada pelos policiais militares no caso em análise se mostrou legal. Com base em informações recebidas via COPOM, o paciente foi abordado pelos policiais enquanto conduzia sua motocicleta Honda vermelha em via pública. Antes da busca veicular, ele descartou duas porções de maconha. Durante a busca pessoal, foram encontradas mais quatro porções da mesma substância, além de R$ 1.127,10 em dinheiro no banco da moto.
+3. A fundada suspeita é um conceito legal que avalia as circunstâncias específicas para determinar se há motivos razoáveis de envolvimento em atividades criminosas. Essa avaliação considera fatores como comportamento suspeito, informações recebidas e características do indivíduo ou veículo.
+4. A autonomia da autoridade policial é essencial para combater o tráfico de drogas, desde que fundamentada em fatos objetivos e não em estereótipos. No caso em questão, a correspondência entre as características do veículo abordado e a denúncia anônima fortalece a suspeita de envolvimento com tráfico de drogas. Portanto, não há ilegalidade a ser reparada.
+5. Agravo regimental desprovido.
+(AgRg no AgRg nos EDcl no AgRg no HC n. 791.510/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/6/2023, DJe de 27/6/2023, destaquei).
+Não há, portanto, como reconhecer a ilicitude dos elementos produzidos na fase inquisitorial, notadamente porque havia fundadas razões para a abordagem e busca pessoal, pelos fundamentos acima mencionados.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, nos exatos termos do parecer ministerial, a fim de que seja reconhecida a licitude das provas produzidas e restabelecida a sentença condenatória proferida pelo Juízo de Primeiro Grau.
+Publique-se. Intimem-se.
+EMENTA
