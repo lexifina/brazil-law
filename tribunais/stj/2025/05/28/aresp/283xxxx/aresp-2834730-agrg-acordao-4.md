@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Alegações genéricas sobre eventual desproporcionalidade da pena, sem indicação precisa de violação legal, atraem a incidência da Súmula 284/STF.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANA VALERIA DE JESUS TRINDADE contra decisão de minha relatoria que conheceu do agravo para conhecer parcialmente e, nessa parte, negar provimento ao recurso especial (e-STJ fls. 10.798/10.810).
+Nas razões do presente recurso, a defesa rebate a aplicação do óbice da Súmula 284/STF sob o argumento de que o recurso especial foi bem fundamentado quanto à dosimetria da pena.
+Defende que a pretensão recursal não exige reexame do material cognitivo, destacando que o exame da dosimetria pode ser feito mesmo de ofício, com a concessão de habeas corpus.
+Requer, ao final, seja dado provimento ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Alegações genéricas sobre eventual desproporcionalidade da pena, sem indicação precisa de violação legal, atraem a incidência da Súmula 284/STF.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+A decisão agravada conheceu do agravo para conhecer parcialmente e, nessa parte, negar provimento ao recurso especial (e-STJ fls. 10.798/10.810), com amparo nos seguintes fundamentos: Súmula 283/STF (nulidade das provas); consonância do entendimento firmado na origem com a jurisprudencial do STJ (princípio da serendipidade); impossibilidade de análise em recurso especial de normativo que não seja lei federal; ausência de demonstração de prejuízo; Súmula 7/STJ (quebra da cadeia de custódia); Súmula 7 (pretensão absolutória); Súmula 284/STF (dosimetria); ausência de desproporcionalidade na fixação da pena; e Súmula 7/STJ (dosimetria).
+No presente agravo regimental, a parte recorrente limitou-se a afirmar de forma geral que não incidem no caso as vedações das Súmulas 284/STJ e 7/STJ em relação ao questionamento da dosimetria da pena.
+Nesse contexto, aplica-se o verbete n. 182/STJ, pois, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram ao não conhecimento do recurso, tampouco a insistência no mérito da controvérsia.
+Assim sendo, não há como se afastar a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. DECISÃO NOS TERMOS DA JURISPRUDÊNCIA DESTA CORTE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A decisão agravada deixou claro que quanto à alegada falta de competência legislativa do estabelecimento prisional para "criar novas faltas", tal insurgência não foi analisada pelo Tribunal de origem, e sua análise por esta Corte ensejaria supressão de instância.
+III - Concluiu, ainda, pela legalidade da decisão do Tribunal de origem, porquanto foi homologada falta disciplinar de natureza média, enquanto o Superior Tribunal de Justiça possui entendimento no sentido de que a posse de artefatos para a confecção e a própria realização de tatuagens em ambiente carcerário constitui infração disciplinar de natureza grave.
+IV - A Defesa limitou-se a repisar os fatos e os mesmos argumentos vertidos na inicial e as razões recursais não foram aptas ao afastamento dos fundamentos da decisão agravada, o que atrai o enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 819.105/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECIFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. REGIME PRISIONAL SEMIABERTO. COMPATIBILIDADE COM PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS IMPUTADOS. OPERAÇÃO OPEN DOORS. PROVA ILÍCITA. NECESSIDADE DE REEXAME DE CONJUNTO PROBATÓRIO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos da decisão agravada enseja o não conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia." (AgRg no REsp n. 2.054.455/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023).
+2. A jurisprudência desta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória.
+3. Prisão preventiva decretada com base na gravidade concreta das condutas imputadas ao réu, que teria contribuído, de forma determinante, com organização criminosa que causou prejuízos de ordem milionária, através da prática de crimes cibernéticos.
+4. Inexistência de elementos suficientes para demonstrar a influência do julgamento proferido no RHC n. 143.169/RJ sobre o caso específico do agravante; chegar à conclusão diversa demandaria inevitável reexame do conjunto de provas, o que encontra óbice na Súmula 7/STJ.
+5. Agravo regimental não conhecido.
+(AgRg no RHC n. 164.948/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Ainda que fosse possível superar o referido óbice, vale destacar que  a  parte  agravante  não  trouxe  nas razões recursais  elementos  suficientes  para  infirmar  a  decisão  agravada, no particular.
+Com efeito, em relação à dosimetria da pena, verifica-se deficiência da fundamentação recursal, posto que o recorrente não indicou de que forma teria havido a suposta violação artigos 59 do Código Penal, limitando-se a indicar a a ausência de provas dos elementos considerados para o incremento da pena. Os argumentos apontados no apelo nobre não demonstram, de forma clara e específica, como teria havido violação a legislação federal infraconstitucional, quais seriam tais afrontas e sua relação com o caso concreto. A pretensão recursal, portanto, esbarra no óbice da Súmula 284 do STF, que preceitua: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Saliente-se que considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (ut , AgRg no AgRg nos E Dcl no AREsp n. 1.617.439/PR, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, D Je 28/9/2020).
+Todavia, o réu não tem direito subjetivo à utilização das referidas frações, não sendo tais parâmetros obrigatórios, o que se exige é a fundamentação adequada e a proporcionalidade na exasperação da pena.
+No caso, os elementos concretos adotados pela Corte estadual não evidenciam flagrante desproporcionalidade dentro do critério da discricionariedade vinculada do julgador, o que é imprescindível para a intervenção deste Tribunal Superior em recurso especial. Além disso, cabe frisar que a alteração das premissas fáticas do acórdão impugnado para o fim de alteração da dosimetria é providência vedada na via do recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, não conheço do agravo regimental .
+É como voto.
