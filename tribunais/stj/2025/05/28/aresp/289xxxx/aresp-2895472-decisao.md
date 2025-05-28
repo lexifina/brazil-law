@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MAURO SERGIO AMORIM contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0034426-60.2015.8.10.0001 (fls. 980/1.008).
+No recurso especial, a defesa alegou violação dos arts. 59, 107, IV, 109, V e 138 do Código Penal, pugnando pelo reconhecimento da prescrição da pretensão punitiva e, subsidiariamente, pel a absolvição do agravante ou a redução da pena aplicada (fls. 1.094/1.171).
+Inadmitido o recurso sob o fundamento da incidência das Súmulas 7 e 83/STJ (fls. 1.177/1.180), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 1.181/1.264).
+O Ministério Público Federal opinou pelo conhecimento do agravo para conhecer do recurso especial, para que seja reconhecida a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa (fls. 1.293/1.296).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+Como bem pontuou o Ministério Público Federal, está perfectibilizada a prescrição da pretensão punitiva, na modalidade retroativa (art. 110, § 1º, do CP).
+No presente caso, verifica-se que a denúncia foi recebida em 7/10/2015 (fls. 419/420). A sentença penal condenatória foi prolatada em 14/8/2020, sem recurso do Ministério Público (fls. 771/784). O acórdão confirmatório da condenação foi publicado em 21/6/2024 (fls. 1.270/1.275), referente à sessão de julgamento do dia 18/6/2024, sem recurso da acusação.
+O Tribunal de origem rejeitou a preliminar de prescrição ao considerar a pena aplicada na sentença, de 2 anos e 4 meses de detenção, que, segundo o art. 109, V, do Código Penal, prescreve em 8 anos, prazo que não teria transcorrido entre o oferecimento da denúncia e o advento da sentença condenatória, nesses termos (fls. 984):
+ ..  Nessa esteira, tem-se que, condenado o Apelante à pena de 02 (dois) anos e 04 (quatro) meses de detenção, a prescrição haverá que respeitar à regra do art. 109, V, da Lei Substantiva Penal, somente ocorrendo, pois, em 8 (oito) anos, com a ressalva prevista no art. 110, § 1º, do mesmo Diploma, segundo o qual "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa".  ..
+Entretanto, ao julgar a apelação, a Corte local reduziu a pena a 2 anos de detenção, o que conduz ao prazo prescricional de 4 anos, conforme disposto no art. 109, V, do Código Penal.
+Assim, considerando que entre a data do recebimento da denúncia (7/10/2015) e a publicação da sentença condenatória (prolatada em 14/8/2020), transcorreu prazo superior a 4 anos, consumou-se a prescrição da pretensão punitiva, na modalidade retroativa (art. 110, § 1º, do CP). Ficam prejudicadas as demais alegações do agravante, pelo reconhecimento da prescrição.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, reconhecendo a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa, com fundamento no art. 110, § 1º, c/c o art. 109, V, do Código Penal.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE CALÚNIA. PENA DEFINITIVA DE 2 ANOS DE DETENÇÃO. PRAZO PRESCRICIONAL DE 4 ANOS. TRANSCURSO DE LAPSO TEMPORAL SUPERIOR A 4 ANOS ENTRE O RECEBIMENTO DA DENÚNCIA E A PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA CONFIGURADA.
+Agravo conhecido para dar provimento ao recurso especial.
