@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL  PENAL.  HABEAS  CORPUS.  PRODUÇÃO  DE  PROVA.  INDEFERIMENTO  DO  PEDIDO.  DECISÃO  MOTIVADA.  ACÓRDÃO  IMPUGNADO  ALINHADO  À  JURISPRUDÊNCIA  DO  STJ.  INEVIDÊNCIA  DE  CONSTRANGIMENTO  ILEGAL.
+1.  O  magistrado,  no  curso  da  instrução  criminal,  tem  a  prerrogativa  de  recusar,  com  justificativa,  diligências  que  sejam  meramente  protelatórias,  sem  relevância  ou  inadequadas.  Além  disso,  é  responsabilidade  da  parte  solicitante  comprovar  a  necessidade  da  prova  solicitada,  o  que  não  foi  feito  neste  caso.
+2.  Ordem  denegada.
+RELATÓRIO
+Trata-se de habeas corpus , com pedido de liminar, impetrado em benefício de Walkleber  dos Santos Nascimento, em que se aponta como autoridade coatora a Câmara Especializada Criminal do Tribunal de Justiça da Paraíba, que denegou o Habeas Corpus criminal n. 0815600-97.2024.8.15.0000, mantendo a decisão do Juízo de Direito da 5ª Vara Mista de Santa Rita/PB que indeferiu os requerimentos formulados pela defesa do paciente nos autos da Ação Penal n. 0808446-39.2023.8.15.0331.
+Neste  writ,  sustenta-se  cerceamento  de  defesa,  em  razão  do  indeferimento  do  pedido  formulado  pelo  impetrante  (acesso  à  escala  de  serviço  dos  policiais  militares  que  participaram  da  operação,  à  relação  das  viaturas  utilizadas,  bem  como  de  seus  GPS,  e  da  estação  de  rádio  base  -  fl.  8),  pelo  Magistrado  de  primeira instância.
+Requer-se,  assim,  a  concessão  liminar  da  ordem  a  fim  de  reformar  a  decisão  proferida  pelo  MM.  Juízo  de  Direito  da  5ª  Vara  mista  de  Santa  Rita/PB,  para  determinar  que  seja  oficializado  o  comando  geral  da  Polícia  Mitar  Do  Estado  Da  Paraíba,  para  que  forneça,  a  escala  de  serviço  dos  policiais  militares  que  participaram  da  violação  ao  domicilio,  do  Paciente,  no  dia  29/12/2023.  A  relação  das  viaturas  que  participaram,  bem  como  seus  GPS  e  estação  de  rádio  base  (fl.  10).
+O  pedido  liminar  foi  indeferido  (fls.  151/152).
+Prestadas  as  informações  (fls.  162/164),  o  Ministério  Público  Federal  manifestou-se  pelo  não  conhecimento  do  habeas  corpus  (fls.  166/167).
+É  o  relatório.
+EMENTA
+PROCESSUAL  PENAL.  HABEAS  CORPUS.  PRODUÇÃO  DE  PROVA.  INDEFERIMENTO  DO  PEDIDO.  DECISÃO  MOTIVADA.  ACÓRDÃO  IMPUGNADO  ALINHADO  À  JURISPRUDÊNCIA  DO  STJ.  INEVIDÊNCIA  DE  CONSTRANGIMENTO  ILEGAL.
+1.  O  magistrado,  no  curso  da  instrução  criminal,  tem  a  prerrogativa  de  recusar,  com  justificativa,  diligências  que  sejam  meramente  protelatórias,  sem  relevância  ou  inadequadas.  Além  disso,  é  responsabilidade  da  parte  solicitante  comprovar  a  necessidade  da  prova  solicitada,  o  que  não  foi  feito  neste  caso.
+2.  Ordem  denegada.
+VOTO
+No  caso,  o  Tribunal  a  quo  decidiu  nos  exatos  termos  da  jurisprudência  desta  Corte.  Quer  dizer,  não  há  falar  em  evidente  ilegalidade  a  ser  reparada  no  momento.
+Ora,  há  aqui  a  compreensão  de  que  ao  magistrado,  no  curso  do  processo  penal,  é  facultado  o  indeferimento,  de  forma  motivada,  das  diligências  protelatórias,  irrelevantes  ou  impertinentes.  Cabe,  outrossim,  à  parte  requerente  demonstrar  a  real  imprescindibilidade  na  produção  da  prova  requerida,  o  que  não  ocorreu  no  presente  caso  (AgRg  no  HC  n.  693.562/RN,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  22/8/2022).
+A  propósito,  confira-se  a  decisão  do  Magistrado  de  primeiro  grau,  transcrita  no  acórdão  hostilizado  (fl.  38):
+ ..  Em  primeiro  lugar,  sobre  a  diligência  postulada  pela  defesa.  Na  verdade,  o  aparelho  policial  não  é  o  ente  acusado  -  quem  está  sofrendo  a  acusação  é  o  denunciado  Walkleber  dos  Santos  Nascimento,  conforme  o  teor  da  denúncia;  Conforme  apontou  o  Ministério  Público,  os  policiais  -  não  todos  -  mas  o  que  o  MP  entendeu  necessário  ouvi-los  e  trouxe  a  juízo  como  testemunhas  prestaram  os  esclarecimento  que  estavam  a  seu  alcance;  não  é  possível  colocar  o  aparelho  policial  em  posição  de  investigado  -  salvo  se  prova  ou  indícios  fortes  de  violação  ou  abuso  de  autoridade,  o  que  não  foi  apontado  pela  defesa.  Por  esta  razão  e  em  companhia  do  parecer  do  MP,  este  Juízo  indefere  as  diligências  da  defesa.
+Assim,  como  bem  pontuou  o  Ministério  Público  Federal,  em  seu  parecer  às  fls.  (166/167),  não  há  ilegalidade  apta  a  ensejar  a  concessão  da  ordem  de  ofício,  pois  a  negativa  de  produção  de  provas  foi  devidamente  fundamentada  pela  instância  de  origem,  que  apontou  a  irrelevância  e  impertinência  das  diligências  requeridas  para  o  deslinde  da  causa,  em  conformidade  com  o  poder  discricionário  do  magistrado  (fl.  167).
+Nesse  contexto,  não  merece  reforma  o  acórdão  atacado.
+Ilustrativamente:  RHC  n.  208.084,  de  minha  relatoria,  DJe  27/11/2024;  e  AgRg  no  RHC  n.  198.786/AL,  Ministra  Daniela  Teixeira,  Quinta  Turma,  DJe  23/10/2024.
+Ante  o  exposto,  denego  a  ordem.
