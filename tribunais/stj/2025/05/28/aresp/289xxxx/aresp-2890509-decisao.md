@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PARANÁ EQUIPAMENTOS S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 27/02/2025.
+Concluso ao gabinete em: 06/05/2025.
+Ação: de reparação de danos materiais, compensação de danos morais e obrigação de fazer para entrega de coisa certa, ajuizada por TERRAPLANAGEM PERUZZO LTDA, em desfavor da agravante, em virtude de contrato de compra e venda de bem móvel (retroescavadeira) supostamente cumprido de forma extemporânea e com a entrega de bem diverso do que acordado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de condenar a agravante ao pagamento de: (i) R$ 41.400,00 (quarenta e um mil e quatrocentos reais) a título de reparação de danos materiais; e (ii) R$ 11.520,00 (onze mil, quinhentos e vinte reais) a título de lucros cessantes.
+Acórdão: negou provimento às apelações interpostas pela agravante e pela agravada, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. COMPRA E VENDA DE RETROESCAVADEIRA. ATRASO NA ENTREGA NÃO DEMONSTRADO. AUSÊNCIA DE PROVA QUANTO A DATA LIMITE ESTIPULADA ENTRE AS PARTES PARA A TRADIÇÃO DO BEM. PLEITO DE LUCROS CESSANTES. PARALISAÇAO DAS ATIVIDADES PELA COMPRADORA EM RAZÃO DA NECESSIDADE DE REPAROS NA MÁQUINA. MANUTENÇÃO QUE SE IMPÕE. PERDA DE SERVIÇO DEVIDAMENTE COMPROVADA. ENTREGA DE MÁQUINA FABRICADA DOIS ANOS ANTES DA AQUISIÇÃO. DESGASTE NATURAL DOS COMPONENTES. FALTA DE INFORMAÇÃO AO ADQUIRENTE. OFENSA À BOA-FÉ CONTRATUAL. ARTIGO 422 DO CÓDIGO CIVIL. DANOS MATERIAIS MANTIDOS. RECURSO CONHECIDOS E DESPROVIDOS (e-STJ fl. 590).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 489, § 1º, IV, e 1.022 do CPC; e 422 do CC. Além de negativa de prestação jurisdicional, sustenta a violação ao princípio da boa-fé objetiva, uma vez que o contrato celebrado entre as partes exigia a entrega de uma retroescavadeira nova, sem uso, mas não especificava o ano de fabricação como critério determinante para caracterizar o bem como novo. Aduz que a retroescavadeira entregue à compradora era um bem novo, sem uso prévio e em perfeitas condições de funcionamento, características que atendem plenamente o conceito de "novo" dentro do mercado de maquinário pesado. Assevera que, ao entregar um bem sem uso, a fornecedora cumpriu rigorosamente com a obrigação contratual, proporcionando um produto que atendeu aos requisitos técnicos e às expectativas razoáveis do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da necessidade de ressarcimento, por parte da agravante, dos prejuízos suportados pela agravada, uma vez que, "evidenciado que o decurso do tempo, mesmo que sem o efetivo uso do bem, por certo culminou no desgaste das peças, não havendo como responsabilizar o adquirente pelo mau uso da máquina, mormente porque cabia ao vendedor a manutenção da retroescavadeira durante esses dois anos em que ficou na posse e propriedade do equipamento" (e-STJ fl. 597). Os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, IV, do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC.
+- Do reexame de fatos e provas
+O TJ/PR assim se manifestou a respeito da responsabilidade da agravante pela entrega da máquina que se apresentou defeituosa:
+Inicialmente, consigno que restou incontroverso no feito, e confirmado pelo laudo pericial, que a retroescavadeira objeto do ajuste foi fabricada no ano de 2016 e alienada à TERRAPLANAGEM PERUZZO LTDA-ME em 2018.
+O que restou apurado nos autos é que o equipamento ficou parado, sem qualquer uso, ao longo desses dois anos, até que fosse vendido e entregue a recorrente (1).
+Possível auferir do laudo colacionado ao feito pelo expert que a retroescavadeira precisou de reparos meses após sua aquisição muito provavelmente em razão dos anos em que ficou parada antes de ser vendida à TERRAPLANAGEM PERUZZO LTDA-ME/apelante (1), vejamos:
+(..)
+Ademais, da própria documentação trazida pela apelante (2)/PARANA EQUIPAMENTO S.A. se nota que após apresentar defeitos pouco mais de seis meses da entrega do bem a retroescavadeira foi recolhida pela vendedora no dia 12/07/2018 e entregue à compradora em 20/07/18, período em que foram realizados reparos no tanque de combustível, apurada falha no bloqueio diferencial, falha no cilindro de articulação da caçamba, bem como desgastes nas buchas de giro da caçamba (mov. 43.1 - pag.10).
+Assim, evidenciado que o decurso do tempo, mesmo que sem o efetivo uso do bem, por certo culminou no desgaste das peças, não havendo como responsabilizar o adquirente pelo mau uso da máquina, mormente porque cabia ao vendedor a manutenção da retroescavadeira durante esses dois anos em que ficou na posse e propriedade do equipamento (e-STJ fls. 596-597) (grifos acrescentados).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da existência de fundamento não impugnado
+A agravante, em relação à sua responsabilização no caso concreto, não impugnou o seguinte fundamento utilizado pelo TJ/PR:
+Assim, evidenciado que o decurso do tempo, mesmo que sem o efetivo uso do bem, por certo culminou no desgaste das peças, não havendo como responsabilizar o adquirente pelo mau uso da máquina, mormente porque cabia ao vendedor a manutenção da retroescavadeira durante esses dois anos em que ficou na posse e propriedade do equipamento (e-STJ fl. 597) (grifos acrescentados).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, e IV, "a" do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em seu desfavor em 5% (cinco por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS, COMPENSAÇÃO DE DANOS MORAIS E OBRIGAÇÃO DE FAZER PARA ENTREGA DE COISA CERTA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de reparação de danos materiais, compensação de danos morais e obrigação de fazer para entrega de coisa certa, em virtude de contrato de compra e venda de retroescavadeira firmado entre as partes.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
