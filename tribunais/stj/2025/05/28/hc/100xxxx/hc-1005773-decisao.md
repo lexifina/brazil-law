@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de KAUA AMARAL DOS REIS, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo nos autos do recurso de Apelação Criminal n. 1502765-24.2024.8.26.0196 (fls. 45/50).
+Narram os autos que o paciente foi c ondenado, em primeira instância, como incurso nas sanções do art. 33, c/c o art. 40, III, ambos da Lei n. 11.343/2006, às penas de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, além do pagamento de 500 dias-multa, substituída a pena privativa de liberdade aplicada por restritivas de direitos consistentes em prestação de serviços à comunidade e multa (Processo n. 1502765-24.2024.8.26.0196, da 2ª Vara Criminal da comarca de Franca/SP - fls. 38/44).
+Interposta apelação, o Tribunal a quo deu provimento ao apelo do Ministério Público para afastar a incidência da minorante do tráfico privilegiado e condenar o ora paciente à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa, calculados no mínimo legal, mantendo, no mais, a sentença de primeiro grau (fls. 45/50).
+No presente writ, sob a alegação de constrangimento ilegal na dosimetria, requer-se, em liminar e no mérito, a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, e a fixação de regime inicial mais benéfico .
+Os autos vieram a mim conclusos por prevenção do HC n. 926.838/SP.
+É o relatório.
+De plano, observo que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Entretanto, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+No que tange à dosimetria, tem-se que o Tribunal local afastou o redutor do art. 33, § 4º, da Lei n. 11.343/2006, reconhecido pelo Juízo de primeiro grau, nestes termos (fls. 48/49 - grifo nosso):
+ ..
+Respeitado o posicionamento do juízo a quo, julgo que o privilégio, neste caso, deve ser afastado, uma vez que, pela prova colidida, restou evidente que o apelado se dedicava à atividade criminosa, fazendo da mercancia meio de vida, o que se constata pela sua confissão, pela forma de acondicionamento das substâncias (60 porções e fragmentos de substância em pedra, acompanhadas de segmento de plástico branco (págs. 14/18), prontas para serem comercializadas nas imediações de um centro de acolhimento para moradores em situação de rua, a apreensão de R$ 29,50 em dinheiro, produto das vendas, além do fato do acusado responder a ação penal por delito idêntico, no caso, havia sido beneficiado pela liberdade provisória em março de 2024 e voltou a delinquir no mesmo sentido (págs. 30/31 - autos nº 1501514-68.2024.8.26.0196) Com efeito, o privilégio é para o pequeno "traficante", que se desviou única vez, com mínima quantidade. Não serve àquele que insiste no crime, ainda mais com quantidade de droga não desprezível.
+Afastada a causa de diminuição de pena, a sanção definitiva concretiza-se em 5 anos e 10 meses de reclusão e 583 dias-multa, unidade no piso.
+Da atenta análise dos autos observa-se que o Tribunal local afastou o redutor especial por concluir que o acusado se dedica a atividades criminosas, baseando-se, para tanto, nas circunstâncias da prisão, na forma de acondicionamento das drogas e na ação penal sem definitividade.
+Contudo, nos termos da jurisprudência desta Corte, nenhum desses fundamentos dissociado de outros elementos que demonstrem sua dedicação a atividades criminosas é óbice legal ao reconhecimento do tráfico privilegiado. Nesse sentido: AgRg no AREsp n. 2.107.531/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 22/3/2024.
+Assim, não há motivos idôneos para o não reconhecimento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Ante o exposto, concedo liminarmente a ordem, a fim de restabelecer a sentença que condenou o paciente às penas de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, além do pagamento de 500 dias-multa, substituída a pena privativa de liberdade aplicada por duas restritivas de direitos consistentes em prestação de serviços à comunidade e multa (Processo n. 1502765-24.2024.8.26.0196, da 2ª Vara Criminal da comarca de Franca/SP).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). INDEFERIMENTO. FUNDAMENTAÇÃO INIDÔNEA. RESTABELECIMENTO DA SENTENÇA QUE RECONHECEU A FORMA PRIVILEGIADA DO CRIME QUE SE IMPÕE.
+Ordem concedida liminarmente nos termos do dispositivo.
