@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. EXCESSO DE PRAZO. JULGAMENTO DE WRIT IMPETRADO NA ORIGEM. JULGAMENTO POSTERIOR À PRESENTE IMPETRAÇÃO. PREJUDICIALIDADE DESTE FEITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese central deste mandamus reside no alegado excesso de prazo para a apreciação do habeas corpus originário - HC n. 0092252-80.2024.8.19.0000. Após a sua impetração, conforme informações do Juízo de Primeiro Grau, proferida decisão monocrática pelo TJRJ nos referidos autos, o qual rejeitou liminarmente o feito, pelo que verifica-se a perda superveniente do objeto do presente mandamus.
+Acresça-se que, posteriormente, da análise do andamento processual, tem-se que a Corte Bandeirante negou provimento ao agravo regimental interposto em 11/2/2025, fato que corrobora a tese de prejudicialidade desta impetração.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ADEBALDO PEREIRA contra decisão singular por mim proferida, às fls. 1922/1923, em que não conheci do habeas corpus ante a superveniente perda de objeto.
+No presente recurso (fls. 1928/1936), a defesa sustenta "inércia do Tribunal por mais de dois meses, sem sequer solicitar informações, independentemente de a juíza ter proferida nova decisão, não muda a situação jurídica do Agravante, permanecendo a flagrante coação ilegal e ausência de fundamentação legal para mantê-lo preso, além do excesso de prazo visto que a instrução não terminou em razão da Juíza não cobrar as diligências indispensáveis para resolução da instrução e o novo interrogatório depois do acesso as provas requeridas, após o oferecimento da denúncia e a defesa prévia apresentada com as suas respectivas diligências deferidas, o que ocorre até o presente momento, sem cumprimento das provas e diligências" (fls. 1930).
+Acrescenta que "a correria em decidir o HC nº 0092252- 80.2024.8.19.0000 no recesso, após sua omissão por mais de dois meses foi exatamente para prejudicar o julgamento do HC nº 972864 / RJ (2025/0000158-3) nesse Egrégio Superior Tribunal de Justiça. O que de fato aconteceu em razão de não terem anexado o agravo regimental protocolizado no dia 30.01.2025" (fls. 1931).
+Assim, requer o provimento do agravo regimental a fim de conceder a ordem reconhecendo haver excesso de prazo para o encerramento da instrução criminal.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. EXCESSO DE PRAZO. JULGAMENTO DE WRIT IMPETRADO NA ORIGEM. JULGAMENTO POSTERIOR À PRESENTE IMPETRAÇÃO. PREJUDICIALIDADE DESTE FEITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese central deste mandamus reside no alegado excesso de prazo para a apreciação do habeas corpus originário - HC n. 0092252-80.2024.8.19.0000. Após a sua impetração, conforme informações do Juízo de Primeiro Grau, proferida decisão monocrática pelo TJRJ nos referidos autos, o qual rejeitou liminarmente o feito, pelo que verifica-se a perda superveniente do objeto do presente mandamus.
+Acresça-se que, posteriormente, da análise do andamento processual, tem-se que a Corte Bandeirante negou provimento ao agravo regimental interposto em 11/2/2025, fato que corrobora a tese de prejudicialidade desta impetração.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante.
+No caso, a tese central deste mandamus reside no alegado excesso de prazo para a apreciação do habeas corpus originário - HC n. 0092252-80.2024.8.19.0000. Após a sua impetração, conforme informações do Juízo de Primeiro Grau, proferida decisão monocrática pelo TJRJ nos referidos autos, o qual rejeitou liminarmente o feito, pelo que verifica-se a perda superveniente do objeto do presente mandamus.
+Acresça-se que, posteriormente, da análise do andamento processual, tem-se que a Corte Bandeirante negou provimento ao agravo regimental interposto em 11/ 2/2025, fato que corrobora a tese de prejudicialidade desta impetração.
+Embora noticie o impetrante que foram opostos embargos de declaração (ainda não julgados), considerando, sobretudo, a natureza de tal recurso, não há plausibilidade no argumento trazido pelo agravante consubstanciado em erro deste STJ por indução da Corte de origem.
+Nessa ordem de ideias, a decisão agravada deve mantida pelos seus próprios e jurídicos fundamentos, litteris:
+" ..
+Conforme informações do Juízo de Primeiro Grau proferida decisão monocrática, nos autos do habeas corpus impetrado perante o Tribunal a quo (HC n. 0092252-80.2024.8.19.0000), que rejeitou liminarmente o feito, nos seguintes termos:
+"(..) uma vez constatada, mediante o resultado de consulta realizada junto ao site desta Corte, a superveniência da prolação, em 16.12.2024, de Decisão reavaliatória do estado ergastulário do ora paciente, o que restou mantido, a gerar novo título prisional, perfilou-se como prejudicada a análise de mérito deste remédio heroico, porquanto já ultrapassada a conjuntura fática que lhe emprestava significado, decreta-se a rejeição liminar do presente feito, por perda do objeto, nos moldes preconizados pelo art. 65Ca9 do CPP."
+Nessa ordem de ideias, na esteira do parecer ministerial da lavra do douto Subprocurador-Geral da República MAURICIO ANDREIUOLO RODRIGUES, de fls. 1917/1919, "verifica-se a perda superveniente do objeto do presente writ, uma vez que a tese central deste habeas corpus reside no alegado excesso de prazo para a apreciação do mandamus originário, situação que se tornou superada com a prolação da decisão monocrática".
+À vista do exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, pela perda superveniente do seu objeto."
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
