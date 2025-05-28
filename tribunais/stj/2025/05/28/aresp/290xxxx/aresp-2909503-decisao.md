@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por GEISON JOSE DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial.
+O agravante foi condenado por infração ao art. 16, caput, da Lei n. 10.826/03 e art. 180, caput, do Código Penal, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão (fls. 202-209).
+O Tribunal deu parcial provimento ao apelo defensivo para redimensionar a pena para 05 (cinco) anos, 8 (oito) meses e 7 (sete) dias de reclusão, em regime fechado (fls. 326-332).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, para alegar negativa vigência ao art. 240, §1º, do Código de Processo Penal (fls. 347-366).
+O recurso foi inadmitido na origem devido à incidência da Súmula n. 126, STJ, e por pretender o reconhecimento de afronta a norma constitucional (fls. 391-395).
+Nas razões do agravo em recurso especial, a defesa sustenta a inaplicabilidade das Súmulas 7 e 126/STJ (fls. 404-419).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 437-441).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nas razões do recurso especial, a Defesa pleiteia, em síntese, o reconhecimento da ilicitude da busca domiciliar com a consequente declaração da nulidade das provas dela decorrentes.
+Para delimitar a controvérsia, colaciono excertos elucidativos do acórdão (fl.328):
+"Partindo dessa premissa, se observa que, no caso concreto, não houve qualquer ilegalidade no ingresso domiciliar e na apreensão realizada, visto que os policiais, após receberem informação dando conta de que um indivíduo estaria efetuando disparos em via pública, foram até o local apontado e visualizaram o réu disparando arma de fogo. Ao perceber a presença dos policiais, o acusado empreendeu fuga para o interior de sua residência, dispensando a arma de fogo. Assim, pelo contexto fático, entendo que existiam razões concretas para o ingresso no domicílio em que foram apreendidos os artefatos bélicos e demais objetos, incluindo entorpecentes.
+Portanto, as fundadas razões para o ingresso dos agentes foram demonstradas de forma cristalina nos autos, inexistindo ilicitude na obtenção da prova."
+Observo que as instâncias ordinárias reconheceram a presença de elementos probatórios suficientes a configurar fundada suspeita da prática de crime de natureza permanente, circunstância que legitima o ingresso dos policiais militares no domicílio do recorrente, independentemente de prévia autorização judicial.
+Para alterar a conclusão do acórdão impugnado, no sentido de afastar a credibilidade atribuída ao testemunho dos policiais militares - e, por conseguinte, concluir que não teriam presenciado o recorrente efetuando disparos de arma de fogo antes de adentrar em seu domicílio - demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na via estreita do recurso especial, conforme dispõe a Súmula n. 7, STJ: "a pretensão de simples reexame de prova não enseja recurso especial.".
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO. TESE DE VIOLAÇÃO DE DOMICÍLIO AFASTADA. CONSENTIMENTO PRÉVIO DO MORADOR. MUNIÇÕES DE FUZIS DE GROSSO CALIBRE. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extrai-se da conclusão do Tribunal de origem que restou comprovado nos autos o consentimento prévio do agravante para o ingresso em sua residência, razão pela qual não há que se falar em violação de domicílio, sendo certo que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância, ante o óbice da Súmula 7/STJ.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.222.161/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES DEMONSTRADAS. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a validade da busca pessoal e do ingresso em domicílio está condicionada à existência de fundadas razões, devidamente demonstradas, que indiquem a prática criminosa em curso.
+2. No caso, o Tribunal de origem afastou a tese de ilicitude das provas afirmando que, no caso, o Serviço de Inteligência da Polícia Militar estava monitorando os acusados por dias, com fortes indícios de que administravam um laboratório de refino de cocaína (bem como de outras drogas, como maconha), o qual funcionava dentro de uma casa, alugada exclusivamente para esse fim, de forma que os procedimentos adotados, assim como o ingresso no domicílio, representaram mero desdobramento das diligências iniciais de campana e investigação.
+3. As instâncias ordinárias apontaram, a partir de dados concretos, a presença de elementos indicativos da prática de crime suficientes para caracterizar a fundada suspeitas capaz de autorizar os procedimentos adotados, independente de prévia autorização judicial.
+4. Inviável a alteração das conclusões assentadas na origem, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.814.084/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+Finalmente, quanto ao recurso especial fundado na alínea "c" do permissivo constitucional, observa-se que também tem por escopo o reconhecimento da ilicitude da busca domiciliar. Contudo, "segundo entendimento desta Corte, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou à mesma tese jurídica, como na espécie." (AgRg no REsp n. 2.195.607/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
