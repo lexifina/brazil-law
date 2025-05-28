@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em benefício de OTONIEL RIOS DOS SANTOS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Segundo se infere dos autos, o paciente foi condenado como incurso no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais o pagamento de 680 dias-multa.
+Essa condenação transitou em julgado em 13/9/2023.
+Nesta Corte, a defesa alega, em suma, manifesta ilegalidade na aplicação do regime prisional mais severo. Destaca que o "Paciente esteve preso preventivamente de 27 de agosto de 2014 a 21 de setembro de 2017, como comprovam os documentos anexados ( doc. 03), sendo posteriormente beneficiado com liberdade provisória, ( doc. 04). Atualmente, encontra-se solto. Contudo, foi expedido mandado de prisão ( doc. 05), em razão do trânsito em julgado da sentença condenatória, motivo pelo qual se faz urgente a análise deste writ."
+Requer a concessão da ordem para que seja estabelecido o modo semiaberto.
+É o relatório.
+Decido.
+Preliminarmente, observa-se que a defesa se insurge contra acórdão que transitou em julgado, o que confere a este writ nítidas características revisionais, uma vez que busca desconstituir decisão acobertada pela coisa julgada.
+No ponto, cumpre destacar que, a fim de se prestigiar a sistemática recursal prevista na lei processual penal e diante do número excessivo e abusivo de habeas corpus (este é o milionésimo aqui no Superior Tribunal de Justiça!), o Supremo Tribunal Federal e esta Corte pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Portanto, ainda que não conhecidos a ação ou o recurso, fica assegurado ao réu a possibilidade de ser beneficiado com a ordem de habeas corpus, de ofício, se verificado pelo julgador alguma violência ou coação em sua liberdade de locomoção, conforme reafirmado no art. 647-A do CPP, segundo redação incluída pela Lei n. 14.836/2024 (desnecessária, aliás, pois tal possibilidade vinha expressa na redação original do CPP de 1941, em seu art. 654, § 2º).
+Nesse sentido: AgRg no HC n. 940.391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; AgRg no HC n. 961.564/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+Na hipótese, não se identifica manifesta ilegalidade imposta ao paciente, pois o regime mais grave tem como fundamento a reincidência do agente, consoante autoriza o art. 33, §§ 2º e 3º, do Código Penal e seguintes julgados desta Corte:
+" ..  3. Não há que se falar em desproporcionalidade na fixação de regime prisional fechado justificado em função da existência de circunstância judicial desfavorável e da reincidência.
+4. Agravo regimental desprovido." (AgRg no HC n. 974.626/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.)
+" ..  5. No que tange ao regime de cumprimento de pena, embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos, o regime inicial fechado encontra-se justificado, uma vez que, além da reincidência, houve a consideração de circunstâncias judiciais negativas (antecedentes e qualificadora subjacente) para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+ ..  7. Agravo regimental não provido." (AgRg no AREsp n. 2.870.076/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+Quanto ao pedido de detração do período de prisão cautelar, observa-se que o tema não foi objeto de debate pela Corte de origem, o que impede o enfrentamento da questão diretamente pelo STJ, sob pena de incorr er em indevida supressão de graus de jurisdição.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
