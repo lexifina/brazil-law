@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL . INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BIOVIP PLANOS DE SAÚDE LTDA., ADNAN ALI SALMAN e SAID MOHAMAD MAJZOUB contra acórdão de minha relatoria que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 1171-1175):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+Sustenta a parte Embargante que o acórdão impugnado incorreu em erro de fato capaz de, caso saneado, afastar o referido óbice sumular, qual seja, que (fl. 1184):
+3. Tal erro de fato está presente na equivocada premissa de que não teria o Agravo em Recurso Especial demonstrado a não-incidência do óbice da Súmula nº 7 deste C. Superior Tribunal de Justiça no tocante ao juízo de admissibilidade do Recurso Especial.
+4. Contudo, sem razão tal entendimento, pois os Embargantes, no Agravo em Recurso Especial, ao contrário do que restou consignado, lograram demonstrar que a apreciação e julgamento do Recurso Especial não demandaria qualquer reexame probatório por esta C. Corte Superior, afastando-se, portanto, a aplicabilidade do enunciado da Súmula nº 07/STJ.
+5. Neste sentido, nos seguintes trechos da argumentação tecida no Agravo em Recurso Especial, os Embargantes demonstraram que a mera leitura do v. Acórdãos recorridos - notadamente do Agravo Interno e dos Aclaratórios - evidenciam (i) que nem sequer houve o exame de mérito da tese trazida para julgamento (indevido redirecionamento do feito executivo fiscal aos sócios, Srs. Adnan Ali Salman e Said Mohamad Majzoub), bem como (ii) que foi indevidamente aplicada a multa prevista no artigo 1.026, parágrafo 2º, do Código de Processo Civil para a hipótese de oposição de Aclaratórios com fins de prequestionamento.
+Decorrido prazo para resposta ao recurso integrativo, vide certidão de decurso à fl. 1195.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL . INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Outrossim, no aresto embargado foi explicitamente assinalado o seguinte (fls. 1173-1175):
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório.
+Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015). Limitou-se a afirmar o que segue (fls. 1.037-1.044, STJ):
+ ..
+29. Isso, porque, diferentemente do entendimento trazido no "Decisum", é prescindível o revolvimento do acervo fático-probatório, até mesmo porque TRATA-SE DE MATÉRIAS EMINENTEMENTE DE DIREITO.
+30. Os Agravantes buscam incansavelmente demonstrar que o Aresto violou de forma clara dispositivos de lei federal, bem como buscam o justo sopesamento de suas situações jurídicas, de modo que não há que se falar em revolvimento de matéria fática e, por conseguinte, na aplicação do óbice da Súmula nº 7 deste C. Tribunal da Cidadania.
+31. Com isso em mente, no caso dos autos, não se pode confundir o reexame de fatos e provas, vedado pela Súmula nº 7/STJ, com a revaloração de fatos e provas, com base em elementos que foram expressamente tratados em Decisão recorrida. A revaloração da prova ou de dados explicitamente admitidos e delineados na decisão da qual se recorre não implica o reexame de fatos e provas.
+32. Demonstrado, daí, ser desnecessário rever quaisquer documentos ou provas dos autos, bastando, para acolher a insurgência dos Agravantes, analisar o equivocado enquadramento jurídico que foi dado aos fatos delineados nas Decisões Judiciais, ou, "in casu", na falta de julgamento perpetrado pelo v. Acórdão de 2º grau dos pontos levantados pelos Agravantes, deforma que se está a tratar de matéria puramente de direito.
+ ..
+32. Assim sendo, a revaloração da prova situa-se na análise da questão de direito, isto é, trata do cotejo entre o valor que foi atribuído à prova pela instância inferior e o que lhe é atribuído por lei.
+33. Destarte, a r. Decisão agravada se equivoca ao considerar que o óbice da Súmula nº 7 deste C. Superior Tribunal de Justiça incide no presente caso, de modo que a sua reforma é medida que se impõe.
+ ..
+36. No caso vertente, muito embora a solução da contenda reclame análise de elementos concretos e pontuais delineados nas Instâncias Ordinárias, o exame que se propõe é aquele que analise aclara falta de prestação jurisdicional pelo E. Tribunal "a quo", notadamente em face da falta de enfrentamento de todos os argumentos trazidos pelos Agravantes, além da indevida aplicação de multa em julgamento de Embargos de Declaração opostos com objetivo de prequestionamento da matéria para fins de interposição de recursos excepcionais, em dissonância com o entendimento estabelecido na Súmula nº 98/STJ.
+37. Assim, os Agravantes não pretendem qualquer discussão sobre revolvimento do acervo fático-probatório dos autos, conforme constante da r. Decisão agravada, mas apenas que seja aplicado critério objetivo previsto em lei quanto às ofensas aos referidos artigos de Lei Federal.
+38. Ademais, a r. Decisão agravada lança mão de fundamentação retórica, a qual, "data maxima venia", não se sustenta, com o nítido objetivo de atravancar a subida do Recurso Especial dos Agravantes, tendo em vista que a admissão do Recurso Especial não levaria à violação da Súmula nº 7 deste E. Superior Tribunal de Justiça, mas apenas à atribuição do devido valor a fato incontroverso e à aplicação dos corretos efeitos jurídicos a tal fato, o que não foi feito pelo v. Acórdão de 2º grau.
+39. Está claro, então, que a r. Decisão agravada se equivocou ao considerar que o óbice da Súmula nº 7 deste C. Superior Tribunal de Justiça incide no presente caso, de modo que a sua reforma é medida que se impõe, sendo imperiosa a admissão e conhecimento do Recurso Especial de ID 278860351.
+Inexistindo impugnação específica de um dos óbices sumulares utilizados pelo tribunal de origem, é forçoso o não conhecimento do agravo por este tribunal superior.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
