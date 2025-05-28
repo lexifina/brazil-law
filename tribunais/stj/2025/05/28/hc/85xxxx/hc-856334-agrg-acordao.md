@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO. EXTORSÃO MEDIANTE SEQUESTRO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental" (AgRg no HC n. 484.200/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe 5/4/2019).
+2. Na espécie, houve restrição à liberdade das vítimas que permaneceram sob o jugo dos agentes, sendo sua libertação negociada mediante condição consistente na abertura do cofre do banco do qual uma das vítimas era gerente, com a subsequente subtração do dinheiro que constituiu a vantagem ilícita pretendida pelos réus; dessa forma, a moldura delineada no acórdão da Corte de origem é suficiente a permitir a subsunção do fato ao tipo penal previsto no art. 159 do Código Penal, não havendo nenhuma ilegalidade a permitir a concessão de habeas corpus, ainda que de ofício.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DEIVID DOS SANTOS contra a decisão de e-STJ fls. 274/277, por meio da qual não conheci do habeas corpus.
+No caso, o ora agravante foi condenado à pena de 16 anos e 4 meses de reclusão, em regime inicial fechado, como incurso nas sanções do art. 159, § 1º, do Código Penal.
+Interposta apelação, foi o recurso desprovido pelo Tribunal de origem em acórdão cuja ementa foi assim definida (e-STJ fl. 20):
+APELAÇÃO CRIMINAL  EXTORSÃO MEDIANTE SEQUESTRO  PRELIMINARES  REJEIÇÃO  ABSOLVIÇÃO  POSSIBILIDADE EM RELAÇÃO À PRIMEIRA APELANTE E IMPOSSIBILIDADE EM RELAÇÃO AOS DEMAIS  DESCLASSIFICAÇÃO  PARTICIPAÇÃO DE MENOR IMPORTÂNCIA  REDUÇÃO DA PENA  RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA  IMPOSSIBILIDADE  CUSTAS  ISENÇÃO  MATÉRIA AFETA À EXECUÇÃO PENAL. A incompetência territorial configura nulidade relativa devendo ser arguida em tempo oportuno e modo adequado, sob pena de preclusão e prorrogação. Sendo a busca realizada com autorização do proprietário do estabelecimento e em situação de flagrância não há que se falar em ilegalidade do procedimento. A prolação de sentença condenatória pressupõe produção de prova firme e robusta, sem a qual se impõe a absolvição de um dos acusados. Restando suficientemente comprovadas a materialidade e a autoria do crime em relação aos outros dois acusados, não há como se acolher o pleito de absolvição por insuficiência de provas. Inviável a desclassificação d o crime de extorsão mediante sequestro para extorsão qualificada ou favorecimento real se a conduta dos agentes se amolda perfeitamente àquela do artigo 159, § 1º, do Código Penal. Não configura participação de menor importância, se a conduta do agente é essencial para a consumação do delito praticado em concurso de pessoas. Existindo circunstâncias judiciais desfavoráveis correta a fixação da pena-base acima do mínimo legal. Não tendo o réu confessado a prática do crime que lhe foi imputado, não pode ser reconhecida a atenuante da confissão espontânea. E na fase da execução que a alegada miserabilidade jurídica do condenado deverá ser examinada, a fim de se conceder ou não a isenção de custas.
+Neste writ, sustentou a defesa, em suma, a possibilidade de desclassificação da conduta, afirmando que não se configurou o crime do art. 159 do Código Penal, pois a privação da liberdade ocorrera para obtenção de vantagem econômica, configurando a hipótese do art. 158, § 3º, do Código Penal (e-STJ fls. 9/10).
+Requereu, assim, a concessão da ordem para desclassificar a conduta de extorsão mediante sequestro para o crime de extorsão qualificada prevista no art. 158, §§ 1º e 3º, do Código Penal.
+Nesta oportunidade, a defesa sustenta a nulidade da decisão agravada por ofensa ao princípio da colegialidade e, no mais, reitera as razões contidas na inicial quanto ao pleito de desclassificação da conduta.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO. EXTORSÃO MEDIANTE SEQUESTRO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental" (AgRg no HC n. 484.200/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe 5/4/2019).
+2. Na espécie, houve restrição à liberdade das vítimas que permaneceram sob o jugo dos agentes, sendo sua libertação negociada mediante condição consistente na abertura do cofre do banco do qual uma das vítimas era gerente, com a subsequente subtração do dinheiro que constituiu a vantagem ilícita pretendida pelos réus; dessa forma, a moldura delineada no acórdão da Corte de origem é suficiente a permitir a subsunção do fato ao tipo penal previsto no art. 159 do Código Penal, não havendo nenhuma ilegalidade a permitir a concessão de habeas corpus, ainda que de ofício.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não prospera.
+Inicialmente, cumpre destacar que "não viola o princípio da colegialidade a decisão monocrática do relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental" (AgRg no HC n. 484.200/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe 5/4/2019).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se c onsiderar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A decisão monocrática não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma.
+3. No caso, a periculosidade do acusado, evidenciada pela sua reiteração delitiva, pois "possui três condenações criminais, além de vários outros envolvimentos em processos e em ocorrências criminais. Há, ainda, uma sentença condenatória, proferida em 29/05/2023", constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública.
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 910.543/MG, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+No mais, não há nenhum argumento apto a ensejar o posicionamento firmado na decisão agravada.
+Com efeito, acerca do tema, assim consignou o Tribunal de origem (e-STJ fls. 73/74):
+ ..  as vítimas tiveram a liberdade restringida e permaneceram sob o jugo dos autores e dos comparsas não identificados, inclusive sob a mira de arma de fogo, sendo a liberação especificadamente condicionada à abertura do cofre do banco do qual a vitima Saulo era gerente, com a subtração do dinheiro obtenção da vantagem ilícita pretendia pelos réus.
+ ..
+Essa é exatamente a hipótese dos autos, pois não há dúvidas de que a vitima Saulo e seus familiares foram privados da liberdade, inclusive permaneceram na companhia dos agentes por considerável espaço de tempo, sofrendo ameaças, passando toda a noite e parte da manhã vigiadas, somente saindo dessa situação "após o dinheiro ter sido subtraído.
+Do mesmo modo, não há dúvidas de que a privação da liberdade de Saulo se deu com o intuito de obter vantagem indevida consistente em, repita-se, liberar o acesso à agência banco Sicoob, da qual era gerente, com a subtração do valor que estava no cofre.
+Na esteira desse raciocínio, não há que se falar em desclassificação para o chamado "sequestro-relâmpago" previsto no artigo 158, § 3º, do Código Penal  ..  (Grifei.)
+Frisei que, na espécie, houve restrição à liberdade das vítimas que permaneceram sob o jugo dos agentes, sendo sua libertação negociada mediante condição consistente na abertura do cofre do banco do qual a vítima Saulo era gerente, com a subsequente subtração do dinheiro que constituiu a vantagem ilícita pretendida pelos réus.
+De fato, assim dispõe o art. 159 do Código Penal:
+Art. 159 - Sequestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate:
+Pena - reclusão, de oito a quinze anos. (Grifei.)
+Viu-se, portanto, que a conduta dos réus não se confundiu com aquela prevista no art. 158, § 3º, do Código Penal, na medida em que ficou configurado efetivo cárcere das vítimas até a troca da vantagem obtida como condição do resgate.
+Concluiu-se, desta forma, que a moldura delineada no acórdão impugnado é suficiente a permitir a subsunção do fato ao tipo penal previsto no art. 159 do Código Penal, e que a alteração das conclusões obtidas pelas instâncias de origem, para fins de desclassificação do delito imputado, ultrapassaria os limites cognitivos do habeas corpus, notadamente quando se trata de condenação já confirmada em segunda instância, como no caso.
+Assim, o não conhecimento do habeas corpus foi medida de rigor.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
