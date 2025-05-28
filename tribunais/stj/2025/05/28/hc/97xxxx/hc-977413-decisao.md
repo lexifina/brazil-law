@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de MAIQUE HENRIQUE REIS SCHWINGEL - condenado como incurso no crime de tráfico de drogas majorado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5008105-02.2022.8.21.0016), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 2ª Vara Criminal da comarca de Ijuí/RS, ao argumento de que a busca domiciliar que ensejou a prisão em flagrante não foi precedida de fundada suspeita da prática de crime. Subsidiariamente, pede a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento.
+Extrai-se do acórdão a quo que, além de a companheira do paciente ter franqueado a entrada dos policiais no imóvel (fl. 36 ), a minorante do tráfico privilegiado foi afastada mediante fundamentação concreta, pois houve a apreensão de grande quantidade de droga (fl. 28 - 12.053 g de maconha), uma balança de precisão, uma faca e dois celulares (fl. 51) e restou provado a circunstância do concurso de agentes e a causa de aumento decorrente do envolvimento de adolescente, circunstâncias que analisadas conjuntamente, são aptas a afastar a causa de diminuição de pena (fl. 52).
+Assim, desconstituir as conclusões alcançadas pela Corte estadual, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Por fim, também cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, de nego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. ENTRADA FRANQUEADA PELA COMPANHEIRA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. APREENSÃO DE 12.053 G DE MACONHA, FACA E CELULARES. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
