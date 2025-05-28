@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO DE SOUZA HOLANDA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do tribunal de justiça de origem.
+O réu foi condenado em primeira instância pelos delitos do art. 158, §1º, e art. 311, § 1º, ambos do Código Penal e ainda art. 14 da Lei n. 10.826/2003, à pena total (concurso material) de 13 (treze) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, para cumprimento em regime inicial fechado, e ao pagamento de 44 (quarenta e quatro) dias-multa.
+O tribunal de justiça conheceu parcialmente do recurso para negar provimento (fls. 451-489).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação dos artigos 386, V e VI, do Código de Processo Penal, e art. 65 do Código Penal (fls. 510-536).
+O recurso não foi admitido na origem, em razão de aduzida intempestividade (fls. 546-547).
+No agravo, a parte recorrente aduz a tempestividade do recurso especial e pede provimento para que seja examinado o recurso especial interposto (fls. 550-554).
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo para dar parcial provimento, determinando a devolução dos autos à origem para exame da admissibilidade (fls. 578-581).
+É o relatório. DECIDO.
+A discussão nos autos refere-se à tempestividade do recurso especial interposto na origem e, uma vez vencido o óbice da admissibilidade, sobre a possibilidade de absolvição do crime de extorsão por ausência de provas, absolvição do crime de adulteração de sinal identificador de veículo automotor por ausência de provas, e reconhecimento da confissão para fins de dosimetria quanto ao porte ilegal de arma de fogo.
+Verifica-se que o acórdão de fls. 461-498 foi publicado no Diário de Justiça em 06/09/2023 (quarta-feira), conforme certidão (fls. 511-518), tendo o recurso especial sido protocolado em 22/09/2023.
+Percebe-se o equívoco da decisão de origem quando entendeu que o prazo recursal iniciar-se-ia no dia 07 de setembro de 2023. Sendo a referida data feriado nacional, não é possível que seja o termo inicial da contagem do prazo, que somente se iniciou no dia 08 de setembro de 2023. Por tal razão, o recurso foi protocolado no último dia do prazo legal de 15 dias corridos (art. 1.003, § 5º, do CPC/2015 c/c art. 798 do CPP), havendo tempestividade.
+Uma vez reconhecida a tempestividade, passo a fazer o exame dos demais requisitos de admissibilidade, concluindo que o recurso especial deve ser conhecido apenas parcialmente e, nesta extensão, provido parcialmente.
+De fato, em relação a quase toda a matéria do recurso, não há admissibilidade em razão da incidência da Súmula 7, STJ, uma vez que há a necessidade de exame da matéria fático-probatória. O acórdão do Tribunal de Justiça considerou que houve provas suficientes do delito de extorsão, calcadas na palavra verossimilhante da vítima e dos depoimentos policiais (fls. 469-475).
+Não tem cabimento a tese recursal no sentido de que o fato só estaria provado se houvesse "filmagens, gravações, mensagens e/ou áudios" (fl. 513). As demais alegações de insuficiência também só poderiam ser acolhidas com amplo reexame probatório, o que é vedado.
+Ainda, os precedentes juntados pela parte são do próprio tribunal recorrido, e não do STJ, entendendo-se pela ausência de provas naqueles casos, não tendo relação com o presente processo, em que foi reconhecida a suficiência probatória.
+Semelhante raciocínio deve ser aplicado à questão relativa à ausência de provas da adulteração da identificação do veículo automotor. O tribunal de origem reconheceu a suficiência dos depoimentos para concluir que o réu teria colocado cimento em parte da placa para ocultá-la, afastando-se a alegação defensiva de que terceiro o teria feito (ocorrida no momento da abordagem, conforme relatos policiais) ou de que teria passado em algum local com cimento e o cimento subiu para a placa (alegada em juízo).
+Incide, neste aspecto, a Súmula n. 7, STJ.
+Ainda, especificamente sobre o questionamento da ausência de laudo pericial, a jurisprudência do STJ entende que, em relação ao referido delito, outras provas podem ser suficientes para a condenação. Portanto, no caso, tendo sido assentada a suficiência probatória, a mera ausência de laudo não implica absolvição:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O NARCOTRÁFICO E RECEPTAÇÃO. PRETENSÃO DE ABSOLVIÇÃO QUANTO AO ÚLTIMO CRIME. IMPOSSIBILIDADE. DELITO ANTECEDENTE DE SUPRESSÃO DE SINAL IDENTIFICADOR. CONDUTA TÍPICA. AGRAVO DESPROVIDO.
+1. O entendimento do Tribunal a quo no sentido de ser típica a conduta de supressão de sinal identificador, sendo que a Lei n. 14.562/2023 somente trouxe de forma expressa o posicionamento dominante nos Tribunais, está em consonância com a jurisprudência desta Corte.
+2. O crime de adulteração de sinal identificador de veículo pode ser caracterizado por outros meios de prova, não sendo imprescindível a realização de exame pericial, como ocorreu no caso dos autos, cuja comprovação se deu por meio de fotografias.
+3. Agravo regimental desprovido."
+(AgRg nos EDcl no HC n. 899.798/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. USO DE FITA ISOLANTE PARA ADULTERAR A PLACA DE VEÍCULO. DELITO DO ART. 311 DO CÓDIGO PENAL. FOTOGRAFIAS COMPROVANDO A CONTRAFAÇÃO. DESNECESSIDADE DE PERÍCIA. 1.
+A legislação de trânsito (art. 115 do CTB, complementado pela Resolução n. 45 do CONTRAN) prevê que o veículo será identificado externamente por meio de placas dianteira e traseira, obedecidas as especificações e modelos estabelecidos pelo Contran.
+2. As placas constituem sinal identificador de qualquer veículo e a conduta realizada pelo agravante, que, com o uso de fita isolante, modificou o seu número, configura sim o delito tipificado no art. 311 do Código Penal.
+3. Conforme mencionado pelo Tribunal de origem, as fotografias constantes do processo são claras e comprovam a contrafação.
+4. O tipo constante do art. 311 do Código Penal visa resguardar a autenticidade dos sinais identificadores de veículos automotores, tutelando a fé pública e o poder de polícia do Estado, não exigindo que a conduta do agente seja dirigida a uma finalidade específica, tornando, também, desnecessária a produção de prova pericial, se no processo ficar clara a adulteração, o que ocorreu.
+5. Agravo regimental desprovido."
+(AgRg no HC n. 496.325/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2019, DJe de 23/8/2019.)
+Portanto, há o óbice da Súmula n. 83, STJ.
+Em relação à incidência da confissão sobre o delito de porte ilegal de arma de fogo, o pleito recursal deve ser parcialmente provido.
+O acórdão afirma que o acusado confessou que estava com arma de fogo no momento da abordagem, mas que alegou que teria autorização genérica de lei estadual para o fazer. Houve, portanto, confissão qualificada, aquela na qual o delito dele é admitido, mas com alguma alegação que poderia fazer não incidir a tipificação penal.
+Nestes casos, deve ser considerada a atenuante da confissão, ainda que em patamar menor, uma vez que qualificada:
+"DIREITO PENAL. AGRAVO REGIMENTAL. DEFESA TÉCNICA. SÚMULA N. 523 DO STF. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. RECONHECIMENTO DA CONFISSÃO QUALIFICADA. FRAÇÃO ABAIXO DE 1/6. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que afastou a tese de deficiência de defesa técnica, manteve a exasperação da pena-base e reconheceu a presença da confissão espontânea qualificada, redimensionamento a pena a partir da incidência da atenuante na fração de 1/12.
+II. Questão em discussão
+2. As questões em discussão consistem em verificar se: (i) houve deficiência ou ausência de defesa técnica do agravante durante o processo penal; (ii) a valoração negativa da culpabilidade na dosimetria da pena foi devidamente fundamentada;
+(iii) a fração de 1/12 aplicada à atenuante da confissão espontânea qualificada foi justificada.
+III. Razões de decidir
+3. Não foi verificado qualquer desamparo defensivo ao agravante, pois o advogado participou de todos os atos processuais relevantes, interpôs recursos e esteve presente em audiência, de modo a não ter havido a demonstração de prejuízo efetivo à sua representação e defesa, o que faz atrair o entendimento da Súmula n. 523 do STF.
+4. A valoração negativa da culpabilidade foi fundamentada, com base em elementos concretos e não inerentes ao tipo penal do crime, considerando a maneira grave em que o homicídio se desenvolveu, ocorrido a facadas em um banheiro de evento festivo com grande número de pessoas presentes, justificando a maior reprovabilidade da conduta.
+5. A aplicação da fração de 1/12 para a atenuante da confissão espontânea qualificada está em consonância com a jurisprudência, a qual permite a redução em patamar inferior a 1/6 em casos de confissão parcial ou qualificada.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Tese de julgamento: "1. A defesa técnica é considerada suficiente quando há prova de que o procurador participou de todos os atos processuais relevantes, interpôs recursos e esteve presente em audiência, ao mesmo tempo em que não há demonstração de prejuízo suportado à parte representada, conforme a inteligência da Súmula 523 do STF. 2. A valoração negativa das circunstâncias judiciais na primeira fase da dosimetria da pena deve ser fundamentada em elementos concretos e não inerentes ao tipo penal do crime imputado.
+3. A jurisprudência do STJ é firme no entendimento de que a confissão parcial ou qualificada enseja a incidência da atenuante na dosimetria da pena em fração menor do que a usual de 1/6".
+Dispositivos relevantes citados: CP, art. 59; CP, art. 65, III, "d"; CPP, art. 563.Jurisprudência relevante citada: STF, Súmula 523; STJ, AgRg no HC 734.200/SP, Min. Jesuíno Rissato, Quinta Turma, julgado em 9/8/2022; STJ, AgRg no AREsp n. 2.354.888/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 6/10/2023."
+(AgRg no REsp n. 2.157.250/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+Diante do exposto, considerando-se que a pena-base do delito de porte de arma de fogo foi fixada no mínimo legal, tendo incidido a agravante da reincidência, faço a compensação parcial com a atenuante de confissão (qualificada) para fixar a pena intermediária em 2 (dois) anos e 2 (dois) meses de reclusão e 11 (onze) dias-multa e, não havendo causas de aumento ou diminuição, fixar esta como pena final para o referido delito.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, dar provimento parcial ao recurso especial, redimensionando-se a pena do delito do art. 14 da Lei n. 10.826/2003 para 2 (dois) anos e 2 (dois) meses de reclusão e 11 (onze) dias-multa, mantidos os demais termos do acórdão.
+Publique-se. Intimem-se.
+EMENTA
