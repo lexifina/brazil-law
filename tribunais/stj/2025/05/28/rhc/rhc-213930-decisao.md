@@ -1,0 +1,128 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por CAROLINE LUCAS CONTENTE e CLAUDIO DE SOUZA CONTENTE contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0106889-36.2024.8.19.0000).
+Consta dos autos que os recorrentes foram denunciados como incursos no art. 171, § 2º, IV e V, do CP. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 504):
+Ementa. PENAL E PROCESSO PENAL. HABEAS CORPUS. ART. 171, PARÁGRAFO 2.º, INCISOS IV E V, DO CÓDIGO PENAL. DENÚNCIA RECEBIDA. Impetrantes buscam o trancamento da ação penal, por ausência de representação da empresa lesada, como exigido pelo §5.º, do ar. 171 do Código Penal, eis que a autoridade policial requereu a autorização para a continuidade das investigações para outra empresa, diversa daquela apontada como suposta vítima.
+Seguradora intimada, se manifestou tempestivamente, no sentido da continuidade das investigações. Na ação penal pública condicionada à representação, são dispensadas maiores formalidades, basta a manifestação de vontade da parte ofendida no sentido de desejar a investigação penal do crime. Precedente do STJ. Seguradora demonstrou nos autos ter o registro da plataforma de vendas de seguros online. Descabida a análise de questões meritórias na estreita via do writ. Constrangimento ilegal não verificado.
+ORDEM DENEGADA.
+No presente recurso, a defesa sustenta a) inépcia da denúncia, asseverando que supostamente apura-se uma possível fraude para recebimento de seguro sem que conste nos autos qualquer prova da EXISTÊNCIA de seguro (e-STJ fl. 551) e b) ausência de representação legal, pois embora elencada como vítima a seguradora Bem Mais Seguros Ltda, não houve representação por sua parte, mas sim da Assurant S. A., tratando-se de pessoas jurídicas diversas, o que enseja a rejeição da denúncia nos termos do art. 395, II, do CP.
+No tocante à inépcia da denúncia, assevera que não há descrição de como se deu a comunhão de ações e desígnios ente os réus quando da prática do delito previsto no art. 171, § 2º, IV e V, do CP. Afirma que a exordial acusatória possui verbos nucleares regentes de duas modalidades do crime de estelionato, e, como se não bastasse, a tipificação de uma terceira modalidade (e-STJ fl. 549). Outrossim, que não consta do inquérito policial a apólice de seguro, não se podendo afirmar sequer que o bem é segurado.
+Requer seja determinado o trancamento da ação penal n. 0905848-32.2023.8.19.0001, pela inépcia da denúncia, e que se reconheça a ausência de representação, com o trancamento da ação penal por falta de condição de procedibilidade.
+Não houve pedido liminar. O Ministério Público Federal se manifestou, às e-STJ fls. 803/807, nos seguintes termos:
+RECURSO EM HABEAS CORPUS. DIREITO PE- NAL. DIREITO PROCESSUAL PENAL. ESTELIONATO. TRANCAMENTO DO INQUÉRITO POLICIAL. DESCABIMENTO. DECADÊNCIA DO DIREITO DE REPRESENTAÇÃO. NÃO OCORRÊNCIA. INEXIGÊNCIA DE FORMALIDADES. DES- PROVIMENTO.
+1. "A representação, nos crimes de ação penal pública condicionada, prescinde de formalidades." (AgRg no RHC n. 183.799/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.).
+2. Parecer pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. Decido.
+Busca a defesa, no presente recurso, o reconhecimento da inépcia da denúncia e da ausência de condição de procedibilidade para a ação penal, diante da falta de representação da vítima.
+Verifica-se dos autos que o inquérito policial foi instaurado com base na falsa comunicação de crime de roubo, realizada pelos acusados no registro de ocorrência n. 018-02481/2021, em 8/8/2021 (e-STJ fl. 509).
+Inicialmente, e xtrai-se do acórdão impugnado que nele não foi tratado o tema relativo à inépcia da denúncia. Assim, muito embora a defesa alegue, na presente sede, que a Corte de origem já decidiu acerca de tal matéria, o impetrante, advogado habilitado, não juntou aos autos o acórdão respectivo, de modo que esta relatoria se encontra impossibilitada de examinar, com clareza, os fundamentos pelos quais a Corte local afastou a inépcia da denúncia, o que impede, por consequência, o exame da suposta coação ilegal da qual o paciente estaria sendo alvo.
+Ora, como é de conhecimento, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ao ensejo: Tratando-se de habeas corpus impetrado por advogado habilitado, tem ele o ônus de instruir a ação corretamente, com a íntegra dos documentos necessários à análise da controvérsia, o que não foi feito, circunstância que obsta a apreciação da coação ilegal de que o paciente estaria sendo alvo (HC n. 410.875/RN, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 13/12/2018, DJe de 19/12/2018).
+Em situações semelhantes, destaca-se os seguintes precedentes desta Corte Superior:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência dessa Corte, "a prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental." (AgRg no REsp 1.322.181/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. In casu, não foi juntado, aos autos, o inteiro teor do acórdão proferido em sede de apelação, o qual é imprescindível para a análise da impetração, não foram juntadas aos presentes autos.
+4 . Agravo regimental não provido.
+(AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.) - negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADES. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente o inteiro teor do acórdão hostilizado - a saber, relatório, ementa e voto(s) -, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 770.978/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/11/2022, DJe de 18/11/2022.) - negritei.
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, CORRUPÇÃO DE MENORES E ASSOCIAÇÃO CRIMINOSA. CONDENAÇÃO. PENA DE 37 ANOS DE RECLUSÃO. AVENTADO EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. SENTENÇA CONDENATÓRIA E INTEIRO TEOR DO V. ACÓRDÃO OBJURGADO NÃO JUNTADOS AOS AUTOS. DEFICIÊNCIA DE INSTRUÇÃO. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A deficiência de instrução impede a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de indeferimento liminar do habeas corpus, como ocorreu no caso, no qual a defesa, embora nesta oportunidade tenha juntado cópia da r. sentença condenatória, olvidou-se de juntar cópia do inteiro teor do v. acórdão objurgado, tendo colacionado tão somente a ementa.
+II - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 677.843/PE, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), Quinta Turma, julgado em 8/2/2022, DJe de 23/2/2022) - negritei.
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O WRIT. AGRAVANTE CONDENADA POR ORGANIZAÇÃO CRIMINOSA. PLEITO DE CONCESSÃO DA PRISÃO DOMICILIAR. FILHOS MENORES DE 12 ANOS DE IDADE. DEFICIÊNCIA NA INSTRUÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 31/8/2015).
+2. Caso em que a defesa busca a concessão do pedido de substituição da custódia preventiva pela prisão domiciliar. Contudo, o impetrante não juntou cópia das peças essenciais para a compreensão da controvérsia, tais como cópia do inteiro teor do acórdão impugnado, do decreto de prisão preventiva e da decisão do Juiz a quo que tenha denegado o pleito de prisão domiciliar, razão pela qual há de ser mantida a decisão que indeferiu liminarmente o writ.
+3. Agravo regimental improvido.
+(AgRg no HC 657.829/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021) - negritei.
+HABEAS CORPUS LIBERATÓRIO. TENTATIVA DE HOMICÍDIO. PRETENSÃO ABSOLUTÓRIA. IMPROPRIEDADE DO WRIT. NÃO CONHECIMENTO. EXCESSO DE PRAZO. PRISÃO REALIZADA EM 02.09.07. INSTRUÇÃO DEFICIENTE. SÚMULA 21/STJ. ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+1. O habeas corpus, por exigir prova pré-constituída do direito alegado, é inadequado para a análise de questões que exigem dilação probatória, como a tese de negativa de autoria.
+2. O único documento que instrui o presente writ é a cópia da ementa do acórdão proferido no habeas corpus impetrado na origem, sendo flagrante, portanto, a deficiência da instrução do feito, dificultando a apreciação da alegação de excesso de prazo para a formação da culpa.
+3. No entanto, dessume-se dos autos que fora proferida a sentença de pronúncia, restando prejudicado o argumento da impetração, pois aplica-se, na espécie, a Súmula 21 desta Corte, segundo a qual, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+4. Parecer do MPF pelo não conhecimento da ordem.
+5. Ordem parcialmente conhecida e, nesta parte, denegada.
+(HC n. 104.360/TO, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 18/9/2008, DJe de 20/10/2008) - negritei.
+No que se refere à falta de representação da vítima, o Tribunal local assim decidiu (e-STJ fls. 507/517):
+Pois bem, depreende-se dos autos que os pacientes foram denunciados pela suposta prática do delito descrito no artigo 171, §2.º, IV do Código Penal. Eis que teriam efetuado registro policial sobre o roubo de dois aparelhos celulares, contudo, no decorrer das investigações, apurou-se que eles continuaram a utilizar os mencionados aparelhos celulares, mesmo após a comunicação da subtração.
+Neste writ os impetrantes alegam a ausência de representação da Seguradora lesada. No entanto, tal alegação não merece prosperar.
+De acordo com as informações prestadas, o inquérito policial foi instaurado com base na falsa comunicação de crime de roubo, realizada pelos acusados no registro de ocorrência n.º 018-02481/2021, em 08/08/2021.
+Em consulta aos autos principais se verifica que a Seguradora Assurant foi intimada pela Autoridade Policial da 18.ª DP, tendo autorizado, em 18/10/2021, a continuidade das investigações em face dos pacientes, pela prática, em tese, do delito prática do delito descrito no artigo 171, §2.º, IV do Código Penal (pasta 71737068 daqueles autos).
+A Lei n.º 13.964, de 24 de dezembro de 2019, alterou o art. 171 do Código Penal acrescentou o § 5.º, segundo o qual as ações penais para os crimes de estelionato são públicas condicionadas mediante representação do ofendido, salvo as exceções dos incisos I a IV do mesmo dispositivo legal. O ofendido não está incluído em tais hipóteses, portanto, é necessária a representação.
+Em consequência, o não exercício da representação no prazo do art. 103, do Código Penal e do art. 38 do Código de Processo Penal, de 6 meses gera a decadência que é um instituto material de extinção da punibilidade do agente (art. 107, inciso IV, do Código Penal).
+Assim, logo após ser notificada sobre os fatos, a seguradora Assurant Seguradora S.A. encaminhou autorização para a continuidade das investigações dos denunciados, em razão de sua condição de vítima. A qual apresentou autorização para a continuidade das investigações em 18/10/2021.
+Logo, não há falar-se em decadência do direito de representação, uma vez que a suposta vítima declarou o desejo de representar criminalmente, assim, a princípio, resta plenamente satisfeita a condição de procedibilidade prevista no § 5º, do artigo 171, do Código Penal.
+Saliente-se que no caso de ação penal pública condicionada à representação, como no presente caso, são dispensadas maiores formalidades, bastando a manifestação de vontade da parte ofendida no sentido de desejar a investigação penal do crime.
+ .. .
+Ademais, o Juízo apontado como coator informou que a empresa lesada peticionou nos autos, informando que realizou o pagamento da quantia de R$3.090,25, em razão de ação cível movida pelo acusado e apresentou, novamente, autorização para a continuidade da ação penal.
+Não bastasse, em consulta aos autos principais se verifica que na mesma oportunidade a Seguradora Assurant requereu a juntada dos documentos de representação - Ata de Assembleia Geral, devidamente registrada na Junta Comercial, estatuto social, ata de reunião com conselho de administração, procuração, substabelecimento, ata de reunião de diretoria, entre outros.
+Foi anexada, ainda, cópia da ação cível de obrigação de fazer c/c danos morais e materiais (0211525-89.202.8.19.0001), movida pelo ora paciente Claudio de Souza Contente, em face da Assurant Seguradora S.A., buscando receber indenização pelo roubo/furto de seu aparelho celular modelo Iphone X GSM, 256B Gray, fabricado pela Apple, com o comprovante de pagamento de indenização no valor de R$ 3.090,25.
+E, como bem salientado pelo Parquet, a empresa "Bem mais seguro" é uma marca registrada e plataforma de vendas de seguros online, explorada pela Seguradora Assurant, de modo que a alegada ausência de representação estaria superada, nos termos seguintes (pasta 120267147 dos autos principais). In verbis:
+"No que concerne à representação da seguradora lesada, observa- se que consta no i.71737068, na qual a Seguradora Assurant Seguradora SA informa que os denunciados possuem contrato de seguro, figurando como vítima de todo o ocorrido.
+Nesta seara, insta esclarecer que a "Bem mais seguro" é uma marca registrada e plataforma de venda de seguros online explorada pela Assurant Seguradora SA 1 . Logo, as alegações dos acusados de falta de representação suscitada pelos acusados encontra-se superada.
+Conforme mencionado anteriormente, douta defesa dos acusados aborda o mérito da denúncia, contudo, não é este o momento adequado para discussão do mérito da causa, uma vez que a instrução processual sequer se iniciou."
+E, ao analisar as alegações defensivas, o juízo proferiu decisão, rejeitando os argumentos defensivos, tendo ratificado o recebimento da denúncia e designado audiência de instrução e julgamento (pasta 123097718 dos autos principais):
+"DECISÃO (..) A Denúncia foi recebida em 10/08/2023 (id. 71830984).
+O acusado Claudio foi citado (id. 103534600) e apresentou resposta à acusação, por meio de advogado, conforme id. 108357038.
+A acusada Caroline foi citada (id. 116417161) e apresentou resposta à acusação, por meio de advogado (id. 118536647).
+É o relatório.
+1. DA RATIFICAÇÃO DO RECEBIMENTO DA DENÚNCIA Após examinar detidamente a Resposta à Acusação, verifica-se que não é caso de absolvição sumária.
+Frise-se que as alegações expostas pela defesa dizem respeito ao mérito da ação, o que será apreciado após a dilação probatória adequada.
+Assim, ratifico o recebimento da Denúncia.
+Designo audiência de instrução e julgamento para o dia 01/10/2024 às 13h40min. (..)"
+Deste modo, não se verifica a ocorrência de qualquer constrangimento ilegal a ser sanado. Aliás, deve ser ressaltado que as questões relativas ao mérito da ação criminal não são passíveis de análise pela estreita via do habeas corpus.
+Ante ao exposto, inexistindo ilegalidade a ser sanada, DENEGA-SE A ORDEM.
+Como se vê, o Tribunal de origem salientou que a empresa "Bem mais seguro" é uma marca registrada e plataforma de vendas de seguros online, explorada pela Seguradora Assurant, de modo que a alegada ausência de representação estaria superada  ..  (e-STJ fl. 516). Nesse contexto, transcreve-se, novamente, pela clareza de fundamentos, trecho da manifestação do Ministério Público estadual (e-STJ fls. 516):
+"No que concerne à representação da seguradora lesada, observa- se que consta no i.71737068, na qual a Seguradora Assurant Seguradora SA informa que os denunciados possuem contrato de seguro, figurando como vítima de todo o ocorrido.
+Nesta seara, insta esclarecer que a "Bem mais seguro" é uma marca registrada e plataforma de venda de seguros online explorada pela Assurant Seguradora SA 1 . Logo, as alegações dos acusados de falta de representação suscitada pelos acusados encontra-se superada.
+Conforme mencionado anteriormente, douta defesa dos acusados aborda o mérito da denúncia, contudo, não é este o momento adequado para discussão do mérito da causa, uma vez que a instrução processual sequer se iniciou."
+Ademais, a Corte local consignou que a empresa Assurant Seguradora Ltda apresentou autorização para a continuidade das investigações em desfavor dos pacientes em 18/10/2021, o que foi reiterado nos autos de ação cível movida pelos pacientes, devendo, efetivamente, se ter por demonstrada a representação legal nos termos em que exigida nas hipóteses de estelionato.
+Em hipótese semelhante, assim decidiu esta Corte:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AÇÃO PENAL PÚBLICA CONDICIONADA. FORMALIDADES. INEXISTÊNCIA. DEMONSTRAÇÃO INEQUÍVOCA DE INTERESSE NA PERSECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior é firme em assinalar que, nos crimes de ação penal pública condicionada, a representação não exige maiores formalidades, sendo suficiente a demonstração inequívoca de interesse na persecução penal, de modo que basta que a vítima ou seu representante legal leve o fato ao conhecimento das autoridades policiais.
+2. Na espécie, a Corte local consignou que "a denúncia foi oferecida em 30.03.2022 e recebida em 22.09.2022, já na vigência da nova redação do art. 171 do CP,  ..  e , ao que se infere dos documentos carreados no evento 1 da ação penal originária, os representantes das pessoas jurídicas lesadas demonstraram interesse na representação criminal,  conforme  os boletins de ocorrência acostados nos itens INQ2 (fl. 38), INQ5 (fl. 8), INQ7(fls. 5/6) e INQ8 (fls. 45/46), registrados, respectivamente, por A. B., representante da empresa USINAGEM SANTA ROSA LTDA (5º fato); D. F., sócio-proprietário da empresa BG FERRAMENTAS COMÉRCIO E IMPORTAÇÃO LTDA (2º fato); R. E. F., representante da W&S SAURA LTDA (4º fato);
+e J. L. D. P., representante da OXIMAG INDÚSTRIA E COMÉRCIO DE PRODUTOS MAGNÉTICOS LTDA (3º fato)".
+3. Portanto, forçoso concluir que o acórdão está em consonância com o entendimento do STF, quando - ao constatar "manifestações claras e expressas de representação contra os investigados, pelos representantes das quatro empresas lesadas" - salienta que, "pelas qualificações com que se apresentaram os responsáveis pelos registros policiais, no sentido de serem representantes das empresas, não se identifica, em princípio, ilegitimidade para exercera representação, lembrando que o writ exige prova pré-constituída", bem como "a circunstância de que os representantes dos lesados se apresentaram perante a autoridade policial, registrando o fato criminoso, por si só, constitui forte indicativo do interesse na investigação do ilícito".
+4. Agravo regimental não provido.
+(AgRg no RHC n. 182.152/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+Portanto, no presente caso, em duas ocasiões houve manifestação de interesse quanto à continuidade das investigações em desfavor dos pacientes, de modo que se afasta a tese de ausência de representação, que prescinde de formalidades específicas. A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL. REPRESENTAÇÃO DA VÍTIMA. FORMALIDADES. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, considerando suficiente o registro de boletim de ocorrência e a participação da vítima em juízo para a representação no crime de estelionato.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se o registro de boletim de ocorrência e o depoimento da vítima em juízo são suficientes para a representação da vítima no crime de estelionato, praticado antes da Lei n. 13.964/2019, mas com denúncia oferecida após sua vigência.
+III. Razões de decidir
+3. A representação da vítima para o crime de estelionato não exige formalidades específicas, bastando o comportamento inequívoco da vítima, demonstrado pelo registro de boletim de ocorrência e comparecimento em juízo.
+4. A jurisprudência do STJ orienta que a representação pode ser depreendida do comparecimento à Delegacia de Polícia e das declarações prestadas, sem necessidade de formalização específica.
+5. No caso concreto, a vítima registrou a ocorrência e compareceu aos atos processuais, o que é suficiente para o reconhecimento da representação.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+Tese de julgamento: "1. A representação da vítima não exige formalidades específicas. 2. A falta de representação formal não impede o prosseguimento da ação penal se houver demonstração inequívoca do interesse da vítima em processar o autor do fato".
+Dispositivos relevantes citados: Código Penal, art. 171, §5º;
+Código de Processo Penal, art. 39.Jurisprudência relevante citada:
+STJ, AgRg no REsp 1.912.568/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30/4/2021; STJ, REsp 1.891.923/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 16/2/2023; STJ, HC 618.235/AC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020; STJ, AgRg no AREsp 1.668.091/PR, Rel. Min. Laurita Vaz, Sexta Turma, DJe 4/9/2020.
+(AgRg no REsp n. 2.199.408/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/5/2025, DJEN de 13/5/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. AUSÊNCIA DE REPRESENTAÇÃO FORMAL DA VÍTIMA. AUSÊNCIA DE JUSTA CAUSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão monocrática que denegou habeas corpus impetrado em favor do paciente denunciado por estelionato, nos termos do art. 171, caput, do Código Penal.
+2. A Defesa alegou ausência de condição de procedibilidade da ação penal devido à falta de representação formal da vítima e falta de justa causa por inexistência de indícios de autoria delitiva.
+3. O habeas corpus foi denegado, e o Ministério Público manifestou-se pelo não conhecimento do agravo regimental e, caso conhecido, pelo seu não provimento.
+II. Questão em discussão
+4. A discussão consiste em saber se a ausência de representação formal da vítima para o crime de estelionato, após a alteração promovida pela Lei n. 13.964/2019, impede a ação penal.
+5. Outro ponto é verificar a alegação de falta de justa causa para a ação penal, considerando a inexistência de indícios de autoria delitiva.
+III. Razões de decidir
+6. O entendimento pacificado é que o habeas corpus não pode ser utilizado como substitutivo de recurso, salvo em casos de flagrante ilegalidade, o que não se verifica na hipótese vertente.
+7. A representação da vítima não exige formalidades específicas, sendo suficiente a demonstração do interesse de autorizar a persecução criminal, o que foi evidenciado pelo registro de boletim de ocorrência e pelo comparecimento espontâneo à delegacia.
+8. A alegação de falta de justa causa não se sustenta, pois há indícios suficientes de autoria e materialidade delitiva, devendo a análise aprofundada ocorrer durante a instrução processual.
+9. O agravante não impugnou especificamente todos os fundamentos da decisão agravada, limitando-se a reiterar argumentos apresentados, o que inviabiliza o agravo regimental.
+IV. Dispositivo e tese
+10. Agravo regimental não provido.
+Tese de julgamento: 1. O habeas corpus não pode ser utilizado como substitutivo de recurso, salvo em casos de flagrante ilegalidade. 2. A representação da vítima para o crime de estelionato não exige formalidades específicas, bastando a demonstração do interesse em autorizar a persecução criminal. 3. A alegação de falta de justa causa deve ser analisada durante a instrução processual, não cabendo ao habeas corpus tal exame.
+Dispositivos relevantes citados: Código Penal, art. 171, § 5º; Lei 13.964/2019.
+Jurisprudência relevante citada: STJ, AgRg no HC 646.435/SP, Rel. Min. Rogerio Schietti Cruz; STF, HC 180.421/SP, Rel. Min. Edson Fachin.
+(AgRg no HC n. 926.745/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
