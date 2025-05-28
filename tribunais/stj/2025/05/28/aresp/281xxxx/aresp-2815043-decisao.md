@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JEFERSON BARBOSA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado pela prática do crime do art. 155, caput, por duas vezes, na forma do art. 71, ambos do Código Penal, à pena de 2 (dois) anos, 1 (um) mês e 6 (seis) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 15 (quinze) dias-multa, no valor mínimo legal (fls. 184-187).
+O Tribunal de origem, por maioria, deu parcial provimento ao apelo defensivo, apenas para fixar honorários recursais ao defensor (fls. 269-283).
+Opostos embargos infringentes (fls. 288-294), foram rejeitados (fls. 320-323).
+A defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 65, inciso III, alínea "d", do Código Penal. Aduziu que, embora a confissão não tenha sido utilizada para condenação, a jurisprudência do STJ, com base no princípio da confiança, entende que o acusado tem direito ao benefício, ainda que não confirmada em juízo (fls. 329-340).
+O recurso foi inadmitido na origem, em razão do óbice estabelecido na Súmula n. 7, STJ (fl. 363-364).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou que o recurso especial demanda apenas revisão de dosimetria da pena. Ao final, requereu o provimento do agravo para o provimento do recurso especial (fls. 371-382).
+O Ministério Público Federal opinou pelo conhecimento do agravo e pelo provimento do recurso especial (fls. 439-442).
+É o relatório. DECIDO.
+O agravo é tempestivo e impugnou os fundamentos da decisão do Tribunal a quo.
+Quanto à admissibilidade do recurso especial, afasto o óbice da Súmula n. 7, STJ, porquanto o recorrente apresentou pretensão de natureza eminentemente jurídica, consistente na necessidade de reconhecimento da atenuante do art. 65, inciso III, alínea "d", do Código Penal, na hipótese de confissão extrajudicial não confirmada em juízo.
+Feitas tais considerações, passo à análise do m érito do recurso especial.
+O agravante insurge-se contra o acórdão de origem no ponto em que deixou de reconhecer a atenuante confissão espontânea.
+Observo que, apesar de o agravante ter efetivamente confessado os fatos, em sede extrajudicial, conforme reconhecido pelo acórdão que julgou os embargos infringentes (fl. 321), a conclusão do julgado, equivocadamente, foi o afastamento do benefício.
+Conforme o entendimento mais recente desta Corte, a atenuante deve ser reconhecida também nas hipóteses de confissão parcial, qualificada, extrajudicial ou retratada, e mesmo que não tenha sido expressamente adotada na formação do convencimento do juízo como um dos fundamentos da condenação. Ademais, é possível a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO CONSUMADO. DOSIMETRIA. SEGUNDA FASE. COMPENSAÇÃO INTEGRAL DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DE CONFISSÃO. POSSIBILIDADE. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - No julgamento do REsp n. 1.972.098/SC, a interpretação de vários precedentes relacionados à Súmula 545/STJ foi revista pela Quinta Turma desta eg. Corte Superior de Justiça, no sentido de adequar as possibilidades de incidência da atenuante prevista no art. 65, III, d, do CP. Com efeito, diante do voto do Exmo. Ministro Ribeiro Dantas no referido julgado, esta Quinta Turma passou a acatar que a confissão do acusado, seja ela parcial, qualificada, extrajudicial ou retratada - ainda que não tenha sido expressamente adotada na formação do convencimento do Juízo como um dos fundamentos da condenação -, não lhe retira o direito ao reconhecimento da atenuante, tendo em vista que esse requisito não está previsto no art. 65, III, d, do CP.
+II - A jurisprudência dessa eg. Corte pacificou o entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência, porquanto igualmente preponderantes, nos termos do artigo 67, do Código Penal.
+III - No julgamento do Habeas Corpus n. 365.963/SP, de relatoria do em. Ministro Felix Fischer, a Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento das Turmas que a compõe no sentido de possibilitar a compensação da atenuante da confissão espontânea com a agravante da reincidência, irradiando seus efeitos para ambas as espécies (genérica e específica), ressalvados os casos de multirreincidência.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.014.352/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Portanto, com razão o agravante, de modo que o recurso especial merece provimento para o reconhecimento da incidência da atenuante da confissão espontânea.
+Em face disso, passo ao redimensionamento da reprimenda.
+Mantenho a pena-base fixada na sentença, no patamar de 1 (um) ano e 6 (seis) meses de reclusão e 13 (treze) dias-multa.
+Na segunda fase, valho-me da fundamentação do voto divergente, à fl. 283 - "na segunda fase, diante do concurso da agravante da reincidência e da atenuante da confissão espontânea, deixa-se de promover a compensação integral, reduzindo-se a fração de aumento adotada na sentença para 1/6 (um sexto), considerando que o apelante é multirreincidente específico ("autos 252852420168240023 e 199424720168240023" - Evento 110, SENT1)" -, de modo a fixar a pena intermediária em 1 (um) ano e 9 (nove) meses de reclusão e 15 (quinze) dias-multa.
+Sem causas de aumento ou de diminuição na terceira fase, torno a pena intermediária em definitiva.
+Por fim, reconheço a incidência da continuidade delitiva, nos termos do art. 71 do Código Penal e da Súmula n. 659, STJ, e, tendo em vista que o agravante cometeu o delito de furto por duas vezes nas mesmas circunstâncias, adoto a fração de 1/6 de aumento. Assim, a pena alcança 2 (dois) anos e 15 (quinze) dias de reclusão e 15 (quinze) dias-multa.
+Ficam mantidas as demais disposições do acórdão.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "c" do RISTJ, conheço do agravo para dar provimento ao recurso especial, de modo a reconhecer a atenuante da confissão espontânea, redimensionando a pena do agravante para 2 (dois) anos e 15 (quinze) dias de reclusão, em regime inicial semiaberto, e 15 (quinze) dias-multa, no valor mínimo legal, inalteradas as demais disposições do acórdão.
+Publique-se. Intimem-se.
+EMENTA
