@@ -1,0 +1,31 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 3.534):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PLEITO ABSOLUTÓRIO QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A SÚMULA. INCIDÊNCIA DA SÚMULA 518 /STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O Tribunal de origem concluiu que estão presentes todos os elementos necessários à comprovação da materialidade e autoria da conduta. A inversão do julgado, de maneira a fazer prevalecer o pleito absolutório, (AgRg no AREsp n. 2.008.032/SP, encontra óbice na Súmula n. 7/STJ" relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/11/2022, DJe de 8/11/2022).
+2. "O Recurso Especial não constitui via adequada para a análise de eventual ofensa a enunciado sumular, por não estar este compreendido na expressão "lei federal". Nesse sentido, a Súmula 518 /STJ: "Para fins do artigo 105, III, a, da Constituição Federal, não é cabível recurso especial (AgRg no REsp n. fundado em alegada violação de enunciado de súmula"." 2.007.173/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023).
+3. "Não é função do STJ rejulgar a causa. Esta Corte não pode ser transmudada em terceira instância revisora, como se o recurso especial (AgInt no AREsp n. 1.821.923/PR, relator fosse uma apelação da apelação" Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022).
+4. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional por parte do Tribunal de Justiça de São Paulo e do Superior Tribunal de Justiça, ao não se manifestarem sobre matérias defensivas de suma importância que poderiam ensejar sua absolvição.
+As alegações centrais do recorrente incluem: (i) a existência de comprovantes de pagamentos referentes às operações comerciais realizadas, que demonstrariam a existência dos negócios jurídicos; (ii) a confissão expressa do Auditor Fiscal de que os negócios jurídicos realmente existiram; (iii) a validade das notas fiscais; e (iv) a existência de boa-fé no aproveitamento do crédito de ICMS, conforme a Súmula nº 509 do Superior Tribunal de Justiça.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+Apresentadas contrarrazões (fls. 3.562-3.573).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido que não conheceu do recurso especial em razão das Súmulas 7 e 518 do STJ, como se observa do seguinte trecho do referido julgado (fls. 3.537-3.538):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Com efeito, "o Tribunal de origem concluiu que estão presentes todos os elementos necessários à comprovação da materialidade e autoria da conduta. A inversão do julgado, de maneira a fazer prevalecer o pleito absolutório, encontra óbice na Súmula n. 7/STJ" (AgRg no AREsp n. 2.008.032/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+Além disso, como bem ressaltado pelo Ministério Público Federal em seu parecer, "o Recurso Especial não constitui via adequada para a análise de eventual ofensa a enunciado sumular, por não estar este compreendido na expressão "lei federal". Nesse sentido, a Súmula 518/STJ: "Para fins do artigo 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (AgRg no REsp n. 2.007.173/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023).
+Por fim, insta consignar que "não é função do STJ rejulgar a causa. Esta Corte não pode ser transmudada em terceira instância revisora, como se o recurso especial fosse uma apelação da apelação" (AgInt no AREsp n. 1.821.923/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2022, DJe de 14/2/2022 ).
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
