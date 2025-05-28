@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTÔNIO BARBOSA DOS SANTOS FILHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 3003955-17.2025.8.26.0000).
+Colhe-se dos autos que o paciente foi preso em flagrante, em 17/2/2024, pela suposta prática do delito de receptação (art. 180, caput, do Código Penal), tendo sido posteriormente celebrada a suspensão condicional do processo pelo prazo de dois anos, cujas condições incluíram a prestação pecuniária de um salário mínimo e meio a ser entregue a uma instituição filantrópica.
+Irresignada, a defesa impetrou prévio writ, no qual sustentou a ilegalidade da inclusão de prestação pecuniária como condição da suspensão condicional do processo, por ausência de previsão legal. A ordem, no entanto, foi denegada pela Corte de origem em acórdão cuja ementa foi assim definida (e-STJ fl. 10):
+HABEAS CORPUS. RECEPTAÇÃO. SUSPENSÃO CONDICIONAL DO PROCESSO. Condições cumuladas com prestação pecuniária. Pedido de afastamento desta última. Possibilidade de manutenção. Lei que permite ao Magistrado a aplicação de outras condições, desde que adequadas ao fato e à situação pessoal do acusado Paciente que aceitou as condições apresentadas. Ordem denegada.
+Daí o presente writ, em que a defesa reitera as alegações contidas no writ originário, argumentando que a prestação pecuniária é uma pena restritiva de direitos e não pode ser imposta sem previsão legal.
+Requer, assim, a concessão da ordem para afastar a prestação pecuniária como condição da suspensão condicional do processo, mantendo-a em vigor nos demais termos.
+É o relatório. Decido.
+O habeas corpus não prospera.
+Com efeito, " a o julgar o REsp 1.498.034/RS, submetido ao rito do artigo 543-C do Código de Processo Civil, a 3ª Seção desta Corte Superior de Justiça firmou o entendimento de que, além daquelas obrigatórias, previstas nos incisos do § 1º do artigo 89 da Lei 9.099/1995, é facultada a proposta, pelo Ministério Público, bem como a imposição, pelo magistrado, de outras condições para a concessão da suspensão do processo, desde que adequadas ao fato e à situação pessoal do acusado, em estrita observância ao princípio da proporcionalidade (AgRg no RHC 69.873/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 2/8/2016, DJe de 10/8/2016)" (HC n. 542.766/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2019, DJe de 9/12/2019.).
+No mesmo sentido, ainda:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 89 DA LEI N. 9.099/1995. SUSPENSÃO CONDICIONAL DO PROCESSO. PERDA DA FIANÇA. OBRIGAÇÕES EQUIVALENTES A PENAS RESTRITIVAS DE DIREITOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do que dispõe o art. 89 da Lei n. 9.099/1995, é facultado ao magistrado estabelecer outras condições para a suspensão condicional do processo, além das previstas nos incisos I a IV do § 1º do art. 89 da legislação de regência, desde que adequadas ao fato e à situação pessoal do acusado.
+2. Não há óbice legal, segundo o art. 89, § 2º, da Lei n. 9.099/1995, a que o réu assuma obrigações equivalentes, do ponto de vista prático, a penas restritivas de direitos (tais como a prestação de serviços comunitários ou a prestação pecuniária), visto que tais condições são apenas alternativa colocada à sua disposição para evitar sua sujeição a um processo penal e cuja aceitação depende de sua livre vontade.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 83.810/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/8/2017, DJe de 29/8/2017, grifei.)
+Nesse contexto, não há nenhuma ilegalidade a ser sanada por esta via, na medida em que é possível a cumulação de outras condições para a suspensão condicional do processo, tais como prestação pecuniária e prestação de serviços à comunidade, não havendo nenhuma desproporcionalidade no caso concreto, em que imposta a prestação pecuniária de 1,5 salário mínimo a ser entregue à instituição filantrópica da cidade, com possibilidade de parcelamento em seis vezes.
+Ante o exposto, denego a ordem, in limine.
+Publique-se. Intimem-se.
+EMENTA
