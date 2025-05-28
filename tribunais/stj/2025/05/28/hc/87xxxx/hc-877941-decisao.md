@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUAN ALVES DE SOUSA, contra ato do Tribunal de Justiça do Distrito Federal e Territórios.
+O paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa, porque, no dia 26/11/2021, trazia consigo, para fins de tráfico, 11 porções de maconha (19,83g). Insurge-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, que negou provimento à apelação defensiva.
+A defesa sustenta a ilegalidade da busca pessoal, uma vez que o paciente não estaria em atitude suspeita e que apenas o fato de ter se evadido ao avistar a viatura policial não justifica a abordagem realizada.
+Argumenta pela inaplicabilidade da majorante prevista pelo art. 40, III, da Lei nº 11.343/06, tendo em vista que o fato da traficância ter sido realizado na praça, por si só, não justificaria maior repressão estatal, uma vez que os fatos teriam ocorrido a noite, quando o fluxo de pessoas era reduzido.
+Requer a concessão da ordem para que seja reconhecida a nulidade da busca pessoal, das provas obtidas e a consequente absolvição do réu. Subsidiariamente, pleiteia o afastamento da majorante prevista pelo art. 40, III, da Lei nº 11.343/06.
+As informações foram prestadas ( fls.255/291,293/325 ).
+O Ministério Público Federal ofereceu parecer (fls.330/336).
+RELATADO. DECIDO.
+O paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa, porque, no dia 26/11/2021, trazia consigo, para fins de tráfico, 11 porções de maconha (19,83g).
+Interposta apelação pela defesa, o Tribunal de origem manteve a condenação do paciente.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, passo a analisar a existência de eventual constrangimento ilegal que possa embasar a concessão da ordem de ofício.
+Quanto à alegação de nulidade da busca pessoal, não verifico ilegalidade. Como ressaltou o Ministério Público Federal (fls.334): " verifica-se que policiais militares realizaram a abordagem do paciente ao identificarem sua atitude suspeita, que, ao notar a viatura, evadiu-se do local. Ao ser abordado, foram encontradas 11 porções de maconha em seu poder". Dessa forma, justificável a abordagem e a busca pessoal realizada.
+Com relação aos critério de fixação de pena, o acórdão manteve a sentença que estabeleceu pena-base acima do mínimo legal (06 anos ) em razão da existência de maus antecedentes, já que o paciente foi condenado definitivamente nos autos n. 0730639-53.2021.8.07.0001 por fato anterior aos apurados no presente processo.
+Fundamentou o juiz : (fl.172/180 )" Considerando que o trânsito em julgado do processo citado se deu somente em 04/05/2023, tal condenação não pode ser considerada como reincidência, de forma que procedo à avaliação negativa a título de maus antecedentes.
+Não foi aplicada a redução prevista no art. 33, § 4º,da Lei 11343/2006, pelo seguinte fundamento (fl.177): "A causa de diminuição insculpida no artigo 33, §4", da LAD não deve ser aplicada ao réu, somando-se à fundamentação o fato de ele registrar maus antecedentes".
+Contudo, é possível afastar a incidência indevida da causa especial de aumento estabelecida no artigo 40, III da Lei 11343/06, até em razão da pouca quantidade de maconha apreendida com o paciente (19 g), com baixo potencial lesivo. A pena final deve ser fixada em 05 anos de reclusão e 500 dias-multa, à razão de 1/30 do salário mínimo vigente à época do fato, devidamente corrigido, na forma do art. 49, § 1º do Código Penal.
+Ante o exposto, não conheço o habeas corpus, mas concedo em parte, de ofício, a ordem para redimensionar a pena do paciente LUAN ALVES DE SOUSA de 5 anos e 10 meses de reclusão e 583 dias-multa, para 05 anos de reclusão e 500 dias-multa, mantendo os demais termos da condenação ( proc. n. 0741785-91.2021.8.07.0001).
+Publique-se. Intimem-se.
+EMENTA
