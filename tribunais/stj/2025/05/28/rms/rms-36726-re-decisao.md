@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 251-257) interposto contra acórdão no qual foi estabelecido que, " d eclarada pelo Supremo Tribunal Federal a inconstitucionalidade do art. 97 do ADCT, incluído pela EC 62/2009 (AD Is 4.357/DF e 4.425/DF), é impossível acolher a pretensão de se obstar o sequestro de verba pública para pagamento de precatório com fundamento no referido preceito constitucional" (fl. 237).
+Às fls. 279-280, o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no RE 659.172/SP/RG - Tema n. 519 do STF.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 519 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fls. 322-324).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fls. 335-336):
+PROCESSO CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONSTITUCIONAL. PAGAMENTO DE PRECATÓRIO. SEQUESTRO DE VERBAS PÚBLICAS. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL N. 62/2009. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO SUPREMO TRIBUNAL FEDERAL. MODULAÇÃO DOS EFEITOS. TEMA N. 519/STF. EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. RECURSO PROVIDO.
+1. Discute-se a legalidade do sequestro de verbas públicas, para fins de pagamento de precatórios, assim como a eficácia dessa constrição após a vigência da Emenda Constitucional n. 62/2009, que instituiu regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios (art. 97, do ADCT).
+2. O Supremo Tribunal Federal, ao julgar o Tema n. 519, firmou a tese de que "o regime especial de precatórios trazido pela Emenda Constitucional nº 62/2009 aplica-se aos precatórios expedidos anteriormente a sua promulgação, observados a declaração de inconstitucionalidade parcial quando do julgamento da ADI nº 4.425 e os efeitos prospectivos do julgado." (RE n. 659.172, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 25/9/2023, Repercussão Geral - Mérito, DJe de 30/10/2023.)
+3. Na espécie, tendo em vista que o acórdão proferido por esta Segunda Turma não se harmoniza com a orientação consolidada pelo STF, justifica-se, em juízo de conformação, a reforma do julgado para se adequar ao quanto decidido em sede de repercussão geral (Tema n. 519).
+4. Recurso ordinário provido para, no exercício do juízo de conformação (art. 1.040, inciso II, do CPC/2015), conceder a segurança pleiteada, determinando-se a aplicação da EC n. 62/2009 ao caso dos autos.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 251-257, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
