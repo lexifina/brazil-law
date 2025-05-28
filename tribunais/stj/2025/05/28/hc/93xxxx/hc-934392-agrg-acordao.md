@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA. PROVA ORAL PRODUZIDA EM JUÍZO. MERO JUÍZO DE ADMISSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORA. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. As instâncias ordinárias entenderam pela suficiência dos elementos probatórios para que o paciente seja levado a julgamento perante o Tribunal do Júri pela suposta prática do crime de homicídio qualificado, ressaltando a prova oral colhida na fase judicial.
+2. O entendimento do Tribunal de Justiça está em consonância com a jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que a pr onúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do Júri.
+3. A revisão das premissas fáticas consideradas pelas instâncias anteriores na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+4. A jurisprudência do Superior Tribunal de Justiça, que entende que somente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MIKAEL FÁBIO FERREIRA DA SILVA contra a decisão que não conheceu do habeas corpus, em desfavor de acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Depreende-se dos autos que o agravante foi pronunciado pela suposta prática da conduta descrita no art. 121, § 2º, II, do Código Penal.
+No respectivo writ impetrado no Superior Tribunal de Justiça, a defesa requereu a concessão da ordem para que o agravante fosse despronunciado.
+Diante do não conhecimento do habeas corpus, interpôs-se o presente agravo.
+Nas razões do agravo, a defesa repisa os fundamentos expendidos na petição inicial, sustentando a ausência de indícios suficientes da autoria delitiva, por entender que a pronúncia do agravante teria se baseado exclusivamente em depoimentos indiretos, que não seriam aptos para justificá-la.
+Aduz a falta de elementos concretos e de fundamentação idônea para a manutenção da qualificadora do crime.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao colegiado, para a concessão da ordem.
+O Ministério Público Federal, que pugnou pelo não conhecimento do writ ou pela denegação da ordem, manifestou ciência da decisão agravada à fl. 602.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA. PROVA ORAL PRODUZIDA EM JUÍZO. MERO JUÍZO DE ADMISSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. EXCLUSÃO DE QUALIFICADORA. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. As instâncias ordinárias entenderam pela suficiência dos elementos probatórios para que o paciente seja levado a julgamento perante o Tribunal do Júri pela suposta prática do crime de homicídio qualificado, ressaltando a prova oral colhida na fase judicial.
+2. O entendimento do Tribunal de Justiça está em consonância com a jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que a pr onúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do Júri.
+3. A revisão das premissas fáticas consideradas pelas instâncias anteriores na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+4. A jurisprudência do Superior Tribunal de Justiça, que entende que somente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+5. Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão ora agravada, o Tribunal de origem preservou a decisão de pronúncia, consignando a existência de robusto conjunto probatório, que revela a existência de elementos indiciários da materialidade e autoria delitivas, nos seguintes termos expostos no voto condutor do acórdão (fls. 538-543):
+13. De outra banda, não há nos autos quaisquer provas aptas a absolver sumariamente o Réu, pois, isso somente poderia ser possível mediante a comprovação de forma cabal que o ora Recorrente não teria sido o autor ou partícipe do delito.
+14. Com efeito, havendo relatos sobre a autoria e circunstâncias do crime e, de outro lado, não sendo constatada prova apta para afastar, de plano, as acusações que pendem sobre o recorrente, não há como entender que não teria havido, pelo menos no presente momento processual, a prática do delito.
+15. Ademais, como bem salientou a Procuradoria de Justiça, consta dos autos uma faca e uma camisa com manchas de sangue que, em tese, foram utilizadas pelo acusado e encontradas na casa onde o mesmo residia com sua companheira, bem como, que os depoimentos utilizados como fundamentos para a pronúncia foram colhidos em Juízo, portanto, com observância do contraditório e da ampla defesa.
+16. Pois bem, havendo indícios de prova da participação do recorrente na ação delituosa, colhidos tanto na fase inquisitorial quanto na instrução criminal, corroborando os termos da denúncia, eventual dúvida deve militar em favor da sociedade (princípio do in dubio pro societate), sendo acertada a decisão que o submeteu ao julgamento popular.
+17. Reitere-se que, nesta fase do judicium accusationis, a jurisprudência tem entendido que, havendo provas conflitantes, sem que se evidencie preponderância entre elas, a dúvida deve ser dirimida pelo Conselho de Sentença.
+O entendimento do Tribunal de Justiça está em consonância com a jurisprudência desta Corte Superior, que se firmou no sentido de que a pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do Júri.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA, DESOBEDIÊNCIA E DESACATO. DECISÃO DE PRONÚNCIA BASEADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL E NA FASE JUDICIAL. INDÍCIOS MÍNIMOS DE AUTORIA. REVISÃO DO ACÓRDÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se tão somente pelo exame da ocorrência do crime e de indícios de sua autoria.
+2. No caso, a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral, inclusive no que diz respeito aos crimes conexos.
+3. A alteração do entendimento das instâncias ordinárias, de modo a despronunciar o acusado, demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 848.629/RS, Sexta Turma, de minha relatoria, DJe de 3/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA. IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+ ..
+5. A decisão de pronúncia é um juízo de admissibilidade, cabendo ao Tribunal do Júri a análise aprofundada das provas.
+6. A exclusão de qualificadoras só é possível se manifestamente improcedentes, o que não se verifica no caso.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.622/AL, Quinta Turma Turma, relatora Ministra Daniela Teixeira, DJe de 2/10/2024.)
+Acrescente-se que a revisão das premissas fáticas consideradas pelas instâncias antecedentes na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+No que concerne à qualificadora do motivo fútil, da mesma forma, o Tribunal estadual manteve a decisão de pronúncia, que assim estabeleceu (fl. 500):
+Este Juízo entende que o motivo fútil é aquele insignificante, banal, apresentando desproporção entre o crime e sua causa moral e de tão pequeno é justificável a majoração do desvalor da conduta do agente.
+Ao menos neste momento processual, existem indícios de que o acusado Mikael Fábio Ferreira da Silva teria ceifado a vida da vítima porque teria se incomodado com a colocação de um pássaro próximo à sua casa, o que pode, em tese, configurar motivação fútil.
+Saliente-se que a alegação defensiva de que pode ter havido discussão entre réu e vítima não afasta a necessidade de análise do Conselho de Sentença acerca da qualificadora, primeiro porque isto não ilide os indícios de que o fato teria ocorrido por causa do incômodo com a colocação de um pássaro próximo à casa do réu. Além disso, levando-se em consideração que "discussão" é um termo "guarda-chuva", altamente vago, ambíguo e poroso, o qual exige uma adequada contextualização para que se possa compreender seu significado, importa destacar, a título exemplificativo, que uma discussão pode ser motivada por situação relevante ou irrelevante, pode ser rápida ou duradoura, pode ser inédita ou repetida, enfim, "discussão" pode se materializar de várias formas, de modo que não é possível, jamais, dizer que, por si só, uma eventual discussão deveria implicar no afastamento da qualificadora do motivo da análise do Conselho de Sentença, visto que somente este poderá avaliar todas as circunstâncias que resultaram em discussão, para, depois, no mérito, julgar se houve motivação fútil.
+Também no ponto, o acórdão da Corte local está em consonância com a jurisprudência do Superior Tribunal de Justiça, que entende que somente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RÉU PRONUNCIADO POR HOMICÍDIO DUPLAMENTE QUALIFICADO. PLEITO DE DESPRONÚNCIA. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias, analisando os elementos fáticos probatórios colacionados aos autos, entenderam, de forma motivada, que existem provas mínimas, colhidas na fase inquisitorial e em juízo, da participação do réu no crime em questão. Para infirmar o que restou decidido pelo Tribunal de origem, com o objetivo de absolver sumariamente o acusado ou de despronunciá-lo, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+2. "Na decisão de pronúncia, a qual constitui mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Precedentes" (AgRg no HC n. 810.815/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.601.247/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO. DECISÃO DE PRONÚNCIA. QUALIFICADORAS RELATIVAS AO MOTIVO TORPE E FEMINICÍDIO. INCOMPATIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. EXCLUSÃO DE QUALIFICADORAS. EXCEPCIONALIDADE. NÃO CONFIGURAÇÃO. REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MEIO CRUEL. MULTIPLICIDADE DE GOLPES DE FACA. ABSOLUTA IMPERTINÊNCIA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O afastamento de qualificadoras reconhecidas na decisão de pronúncia somente é admissível quando forem manifestamente improcedentes ou incabíveis; sem amparo nos elementos dos autos, ou ficarem comprovadas, de forma inequívoca, as circunstâncias que justificam seu decote. Entendimento contrário não se compatibiliza com a competência constitucionalmente atribuída ao Júri Popular para o julgamento dos crimes dolosos contra a vida.
+2. Não tendo a Corte estadual se debruçado sobre a alegação de que os ciúmes não constituem motivo torpe, inviável o conhecimento da questão, de maneira originária, por este Superior Tribunal Justiça.
+Incidência da Súmula n. 211/STJ.
+3. As instâncias ordinárias, soberanas na análise do acervo probatório, concluíram haver indícios mínimos da configuração da qualificadora prevista no art. 121, § 2º, inciso VI, do Código Penal, vigente à época dos fatos, motivo pelo qual o afastamento de tal premissa exigiria o aprofundado revolvimento probatório, juízo em encontra óbice na Súmula n. 7/STJ.
+4. Perpetrada a conduta homicida, supostamente, mediante uma multiplicidade de golpes de faca, não se mostra, a princípio, absolutamente descabida a qualificadora do meio cruel, o que impõe que seja o deslinde da controvérsia atribuído, oportunamente, ao Conselho de Sentença. Precedentes.
+5. Na dicção do Superior Tribunal de Justiça, os óbices que impedem o conhecimento do recurso especial fundado na alínea "a" do permissivo constitucional também prejudicam o exame do alegado dissídio jurisprudencial acerca dos mesmos temas.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.709.891/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
