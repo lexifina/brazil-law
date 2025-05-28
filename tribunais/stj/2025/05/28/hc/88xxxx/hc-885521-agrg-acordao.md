@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA BUSCA DOMICILIAR RECONHECIDA EM PROCESSO CONEXO. DOSIMETRIA. PREJUDICIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. NULIDADE. BUSCA PESSOAL. FUGA. FUNDADA SUSPEITA. AUSÊNCIA DE ILEGALIDADE.
+1. A Sexta Turma desta Corte entende que a permissão para a revista pessoal decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+2. No caso em aposto, diante da fuga do paciente ao avistar os policiais, não há falar em ilegalidade ou abuso no procedimento, sendo a apreensão dos entorpecentes consequência legítima da atuação policial.
+3. Prejudicados os pleitos referentes à dosimetria da pena, uma vez que, em processo conexo, foi determinado ao Juízo de origem que desentranhe as provas declaradas ilícitas dos autos e promova novo julgamento da ação penal; sendo assim, caso se mantenha a condenação, nova dosimetria da pena será realizada.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WESLLEY HENRIQUE CARDOSO MENDES LIMA contra a decisão da minha lavra, na qual julguei prejudicado o habeas corpus impetrado por ele, assim ementada (fl. 492):
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADES. DOSIMETRIA. PLEITO DEFERIDO NO HC N. 951.208/SP POR MEIO DE PEDIDO DE EXTENSÃO. PERDA DO OBJETO.
+Writ prejudicado.
+Posteriormente, a defesa opôs embargos de declaração, que foram acolhidos para sanar omissão, porém sem efeitos infringentes, nos seguintes termos (fl. 501):
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO RECONHECIDA. AUSÊNCIA DE EFEITOS INFRINGENTES. NULIDADE. BUSCA PESSOAL. FUGA. FUNDADA SUSPEITA. AUSÊNCIA DE ILEGALIDADE.
+Embargos de declaração acolhidos para sanar a omissão apontada, sem efeitos infringentes.
+O agravante alega que, apesar de a decisão ter sido aclarada após a interposição dos embargos de declaração, os fundamentos utilizados para afastar a nulidade da atuação policial, especificamente quanto à busca pessoal em face do réu, não encontram respaldo no caso concreto (fl. 511) e que a suposta conduta do réu de "tentar fugir" não é suficiente para justificar a busca pessoal (fl. 512).
+No mais, reitera os fundamentos da inicial, alegando: 1) nulidade absoluta da busca pessoal; 2) cerceamento de defesa diante do indeferimento da remessa de ofício para empresas de telefonia móvel; 3) incidência da minorante do tráfico privilegiado; 4) alteração do regime inicial de cumprimento da pena; e 5) reforma da dosimetria com a aplicação da pena em seu mínimo legal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA BUSCA DOMICILIAR RECONHECIDA EM PROCESSO CONEXO. DOSIMETRIA. PREJUDICIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. NULIDADE. BUSCA PESSOAL. FUGA. FUNDADA SUSPEITA. AUSÊNCIA DE ILEGALIDADE.
+1. A Sexta Turma desta Corte entende que a permissão para a revista pessoal decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+2. No caso em aposto, diante da fuga do paciente ao avistar os policiais, não há falar em ilegalidade ou abuso no procedimento, sendo a apreensão dos entorpecentes consequência legítima da atuação policial.
+3. Prejudicados os pleitos referentes à dosimetria da pena, uma vez que, em processo conexo, foi determinado ao Juízo de origem que desentranhe as provas declaradas ilícitas dos autos e promova novo julgamento da ação penal; sendo assim, caso se mantenha a condenação, nova dosimetria da pena será realizada.
+4. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão repreendida não comporta reparos.
+Inicialmente, uma vez que foi deferido o pedido de extensão em favor do ora agravante, no HC n. 951.208/SP, a fim de declarar a nulidade das provas obtidas mediante a busca e apreensão domiciliar realizada ilegalmente, bem como as provas delas decorrentes, entendo prejudicados os pleitos de: I) incidência da minorante do tráfico privilegiado; II) a alteração do regime inicial de cumprimento da pena; e III) reforma da dosimetria com a aplicação da pena em seu mínimo legal.
+Ora, uma vez que foi determinado ao Juízo de origem que desentranhe as provas declaradas ilícitas dos autos e promova novo julgamento da ação penal, caso se mantenha a condenação, nova dosimetria da pena será realizada, demonstrada assim a prejudicialidade dos referidos pleitos.
+Por outro lado, quanto à alegação de cerceamento de defesa, o Tribunal a quo decidiu nos exatos termos da jurisprudência desta Corte. Quer dizer, não há falar em evidente ilegalidade a ser reparada no momento.
+Ora, há aqui a compreensão de que ao magistrado, no curso do processo penal, é facultado o indeferimento, de forma motivada, das diligências protelatórias, irrelevantes ou impertinentes. Cabe, ainda, à parte requerente demonstrar a real imprescindibilidade na produção da prova requerida, o que não ocorreu no presente caso (AgRg no HC n. 693.562/RN, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022).
+Por fim, como anteriormente explanado, a Sexta Turma desta Corte entende que a permissão para a revista pessoal decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+É certo que a busca pessoal (art. 244 do CPP) possui um nível diverso de proteção da busca domiciliar (art. 240, § 1º, do CPP), o que justifica a adoção de um standard probatório um pouco menos rigoroso. Nesse sentido, mutatis mutandis, cito o seguinte precedente: HC n. 877.943/MS, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2024.
+No caso, consta da sentença condenatória que (fl. 252 - grifo nosso):
+ ..
+A abordagem policial, que é diferente de busca pessoal, ocorreu porque o réu era a única pessoa que estava no local sem uniforme e a denúncia apontava que alguém faria entrega de drogas no local. De mera abordagem, a situação evoluiu para busca pessoal porque o réu Weslley notou a presença dos policiais e resistiu à abordagem (fato confessado), tentando fugir. Assim, a abordagem seguiu os limites definidos pelo Eg. Superior Tribunal de Justiça, que diferencia a abordagem da busca pessoal, bem como revela a precisão da informação sobre o momento e local exato da traficância.
+ ..
+Assim, não houve qualquer ilegalidade ou abuso no procedimento, sendo a apreensão dos entorpecentes consequência legítima da atuação policial.
+Inclusive, em sessão realizada no dia 18/4/2024, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 877.943/MS (Rel. Ministro Rogerio Schietti), decidiu que a conduta de fugir correndo repentinamente ao avistar uma guarnição policial preenche o requisito de fundada suspeita de corpo de delito para uma busca pessoal em via pública, nos termos do art. 244 do CPP (AgRg no HC n. 798.072/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/10/2024).
+Em face do exposto, nego provimento ao agravo regimental.
