@@ -1,0 +1,12 @@
+DECISÃO
+Neste writ, que se volta contra acórdão denegatório proferido pela Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (HC n. 2300870-98.2024.8.24.8.26.0000 - fls. 12/23), pretende-se, inclusive em sede de liminar, a imediata concessão da liberdade provisória de CASSIO REGIO DE ALMEIDA GONCALVES no Processo n. 1503177-24.2024.8.26.0270, da 2ª Vara Judicial da comarca de Itapeva/SP - preso preventivamente no bojo da denominada Operação Cavalo de Aço , e denunciado pela prática do crime descrito no art. 2º, caput, da Lei n. 12.850/2013 (fls. 44/69) -, sem prejuízo da imposição de outras medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, aplicáveis ao caso, aos argumentos, em suma, de ausência dos requisitos legais autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; de desnecessidade da referida segregação, ante as suas condições pessoais de favorabilidade - primário, tem bons antecedentes, possui residência fixa (fl. 6); de desproporcionalidade da medida constritiva extrema, pois se trata de crimes cometidos sem violência ou grave ameaça (fl. 7 - grifo nosso); e de inidoneidade de fundamentação do decreto prisional.
+Estes autos foram a mim distribuídos por prevenção (HC n. 958.131/SP).
+Liminar indeferida (fls. 293/296).
+Prestadas as informações (fls. 299/300 e 309/310), o Ministério Público Federal opinou pelo não conhecimento (fls. 479/486).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, em 3/2/2025, o Juízo de Direito da 2ª Vara Judicial da comarca de Itapeva/SP concedeu a liberdade provisória cumulada com medidas cautelares diversas (art. 319 do CPP), expedindo, na oportunidade, o alvará de soltura em favor do ora paciente (Processo n. 1506374-21.2023.8.26.0270), fato que esgota a pretensão contida na presente impetração, dada a superveniente alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO CAVALO DE AÇO. CRIME DESCRITO NO ART. 2º, CAPUT, DA LEI N. 12.850/2013. PRISÃO PREVENTIVA. PRETENSÃO DE RE VOGAÇÃO. SUPERVENIENTE CONCESSÃO DE LIBERDADE PROVISÓRIA CUMULADA COM MEDIDAS CAUTELARES ALTERNATIVAS (ART. 319 DO CPP) PELO JUÍZO DE ORIGEM. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
