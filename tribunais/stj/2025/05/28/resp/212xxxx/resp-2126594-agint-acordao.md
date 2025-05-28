@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DA FAZENDA PÚBLICA REJEITADA. DESCABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INOBSERVÂNCIA DE PRECEDENTE OBRIGATÓRIO VERIFICADA. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, não cabem honorários advocatícios de sucumbência em virtude da rejeição da impugnação ao cumprimento de sentença ofertada pela Fazenda Pública. Logo, sem razão os agravantes quando defendem o cabimento da verba honorária.
+2. Razões recursais insuficientes para a revisão do julgado.
+3 . Agravo interno desprovido.
+RELATÓRIO
+Fazenda do Estado de São Paulo interpôs recurso especial contra os acórdãos de fls. 27-29 e 71-72 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Créditos sujeitos a pagamento por precatório e requisição de pequeno valor. Impugnação rejeitada. Devidos honorários advocatícios. Código de Processo Civil, artigo 85, §§ 1º e 7º. Superação de Superior Tribunal de Justiça, Súmula 519, editada na vigência do estatuto processual anterior. Não sobre o valor do débito, mas somente sobre a diferença entre os valores controvertidos. Código de Processo Civil, artigo 86, "caput". Recurso parcialmente provido para determinar incidência dos honorários advocatícios sobre a diferença entre os valores controvertidos.
+EMBARGOS DE DECLARAÇÃO. Cumprimento de sentença. Cumpre corrigir o erro material de enquadramento legal da base de cálculo dos honorários advocatícios. Código de Processo Civil, artigo 85, § 2º, sobre o valor do proveito econômico obtido, que corresponde à diferença entre os valores controvertidos. Embargos acolhidos.
+Nas razões do recurso especial (e-STJ, fls. 34-41), apontou a insurgente a existência de violação dos arts. 85, caput e §§ 1º e 7º, e 927, III, do CPC/2015. Sustentou, em síntese: i) o descabimento dos honorários advocatícios de sucumbência na rejeição da impugnação ao cumprimento de sentença; e ii) a não observância de precedente obrigatório.
+Foram apresentadas contrarrazões às fls. 47-54 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 82-87), ascenderam os autos a esta Corte Superior.
+Em decisão monocrática de fls. 109-113 (e-STJ), esta relatoria conheceu do recurso especial e deu-lhe provimento, afastando a incidência dos honorários advocatícios de sucumbência na rejeição da impugnação ao cumprimento de sentença ofertada pela Fazenda Pública.
+Daí sobreveio este agravo interno (e-STJ, fls. 118-122), no qual defendem Nair Prado Hoffmann e outros ser devida a verba honorária.
+Impugnação às fls. 126-130 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DA FAZENDA PÚBLICA REJEITADA. DESCABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INOBSERVÂNCIA DE PRECEDENTE OBRIGATÓRIO VERIFICADA. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, não cabem honorários advocatícios de sucumbência em virtude da rejeição da impugnação ao cumprimento de sentença ofertada pela Fazenda Pública. Logo, sem razão os agravantes quando defendem o cabimento da verba honorária.
+2. Razões recursais insuficientes para a revisão do julgado.
+3 . Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Na decisão agravada, concluiu-se pelo provimento do recurso especial, aplicando-se a jurisprudência desta Corte, no sentido do descabimento dos honorários advocatícios de sucumbência na rejeição da impugnação ao cumprimento de sentença ofertada pela Fazenda Pública.
+Veja-se às fls. 110-113 (e-STJ):
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem concluiu pelo cabimento dos honorários advocatícios de sucumbência na rejeição da impugnação ao cumprimento de sentença. Arguiu que o entendimento expresso na Súmula 519/STJ foi superado com a entrada em vigor do CPC/2015.
+Veja-se à fl. 29 (e-STJ):
+Cumprimento de sentença de ação de cobrança, servidores públicos estaduais, diferenças de quinquênios e sexta-parte, trinta exequentes, sujeito à RPV e precatório, acolhido o valor de R$ 1.048.607,55, rejeitada impugnação, valor de R$ 799.852,77, origem, fls. 01/04, 1643/1716, 1723/1730 e 2084/2086. São devidos honorários advocatícios, Código de Processo Civil, artigo 85, §§ 1º e 7º, superado Superior Tribunal de Justiça, Súmula 519, editada na vigência do estatuto processual anterior, porém sobre a diferença entre os valores controvertidos, conforme Código de Processo Civil, artigo 86, "caput". Destarte, DÁ-SE parcial provimento ao recurso, com fixação de honorários advocatícios nos percentuais mínimos do artigo 85, §§ 3º e 5º, do Código de Processo Civil, sobre a diferença entre os valores controvertidos.
+Tal entendimento não se mostra em sintonia com a jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA. REPETIÇÃO DE INDÉBITOS TRIBUTÁRIOS. IMPUGNAÇÃO. PROCEDÊNCIA DO PEDIDO. HOMOLOGAÇÃO DO VALOR APRESENTADO PELO EXECUTADO. JUROS. PRECLUSÃO. TEMAS N. 810/STF E 905/STJ. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. EXISTÊNCIA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+I - Na origem, trata-se de agravo de instrumento interposto por Carrefour Comércio e Indústria Ltda. contra a decisão que, nos autos do cumprimento de sentença, relativo à repetição de indébito tributário, homologou cálculos apresentados pela municipalidade em impugnação.
+II - No Tribunal a quo, a decisão foi reformada para determinar o prosseguimento da execução. Esta Corte negou provimento ao recurso especial do Carrefour Comércio e Indústria Ltda. e conheceu do agravo para dar provimento ao recurso do Município do Rio de Janeiro.
+III - Considerando que o |Município do Rio de Janeiro, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, faz-se de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+IV - Assiste razão ao recorrente no que toca à existência de omissão, caracterizando a violação do art. 1022 do CPC/2015.
+V - O recorrente em seus embargos declaratórios aponta que o acórdão entendeu que "estaria preclusa a questão acerca da incidência de juros para a repetição dos exercícios de 1994 a 1997, quando é certo que todo o ordenamento jurídico brasileiro entende que a forma de cômputo de juros é norma de ordem pública, que pode ser suscitada a qualquer tempo, e sobre a qual não se opera preclusão".
+VI - Sustenta nos embargos de declaração que há decisões dos Tribunais Superiores que não foram enfrentadas pelo Tribunal de origem, o que denota omissão quanto ao Tema Repetitivo n. 905 do STJ e Tema n. 810 do STF.
+VII - Embora esteja claro o argumento da embargante, o Tribunal a quo deixou de apreciar a questão, o que indica o malferimento do art. 1022 do CPC/2015. Com o mesmo diapasão, destaco os seguintes precedentes, in verbis: (AgInt no REsp n. 1.537.418/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/6/2020, DJe 10/6/2020 e AREsp n. 1.562.331/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe 19/12/2019).
+VIII - Merece provimento o recurso para anular o acórdão que julgou os embargos de declaração, a fim de que o Tribunal de origem se manifeste especificamente sobre as questões articuladas nos declaratórios.
+IX - Os embargos de declaração, fundados no art. 1.022, II, do CPC/2015, têm o desiderato de obter o pronunciamento do julgador sobre ponto ou questão que deveria ter sido analisada.
+X - A alegada omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar. Essa é a dicção do referido dispositivo legal.
+XI - A controvérsia está fundada sobre o cabimento de condenação em honorários sucumbenciais quando rejeitada a impugnação da Fazenda Pública em cumprimento de sentença e a aplicação de multa por litigância de má-fé.
+XII - O Superior Tribunal de Justiça, ao julgar o Recurso Especial n. 1.134.186/RS (DJe 21/10/2011), submetido ao rito dos recursos repetitivos, firmou o entendimento a respeito da condenação ao pagamento de honorários advocatícios em impugnação ao cumprimento de sentença, decidindo que não são cabíveis quando rejeitada a impugnação.
+XIII - A Súmula n. 519 do STJ, aplicável às execuções contra a Fazenda Pública, expressamente prevê "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+XIV - Esta Corte Superior, ainda que após a edição do CPC/2015, manteve esse entendimento, consoante os seguintes julgados: (AgInt no REsp n. 1.864.374/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/9/2020, DJe de 14/9/2020 e R Esp n. 1.812.245/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe de 1º/7/2019.)
+XV - Segundo a jurisprudência desta Corte, a litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não se verifica no caso em apreço. Nesse sentido: (AgInt no REsp n. 2.077.630/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+XVI - As omissões apresentadas pelo recorrente não apresentam relevância para a situação deslindada no presente feito, não sendo então de rigor o pronunciamento do julgador acerca das referidas questões, não sendo considerada omissão a ausência de pronunciamento dos temas para os fins dos arts. 535, II, do CPC/1973 ou 1.022, II, do CPC/2015.
+XVII - Afasta-se ainda a ofensa aos arts. 85, § 7º, 80, IV e VI, e 81, ambos do CPC/2015, pelas mesmas razões alhures fundamentadas.
+XVIII - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. TESE FIRMADA EM JULGAMENTO DE RECURSO REPETITIVO (RESP 1.134.186/RS). AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Na origem, a parte agravante se insurge contra a ausência de fixação de honorários advocatícios na decisão que rejeitou a impugnação ao cumprimento de sentença.
+2. Esta Corte Superior firmou o entendimento, em julgamento realizado sob a sistemática repetitiva, de que não são cabíveis honorários advocatícios quando for rejeitada a impugnação ao cumprimento de sentença.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a Súmula 519/STJ é aplicável às execuções contra a Fazenda Pública, ainda que após a edição do Código de Processo Civil de 2015.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.029.834/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Consequentemente, houve inobservância de precedente obrigatório desta Corte Superior (Súmula 519/STJ).
+Diante do exposto, conheço do recurso especial e dou-lhe provimento para afastar os honorários arbitrados na impugnação ao cumprimento de sentença.
+Na presente insurgência, defendem o s agravantes o cabimento da verba honorária em virtude da rejeição da impugnação ao cumprimento de sentença.
+Conforme se depreende dos precedentes colacionados na decisão monocrática, o entendimento do Superior Tribunal de Justiça é pelo descabimento dos honorários advocatícios de sucumbência na rejeição da impugnação apresentada pela Fazenda Pública, permanecendo válida a Súmula 519/STJ mesmo após a edição do Código de Processo Civil de 2015.
+Logo, sem razão os agravantes quando defendem o cabimento dos honorários.
+Dessa forma, prevalece o fundamento da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
