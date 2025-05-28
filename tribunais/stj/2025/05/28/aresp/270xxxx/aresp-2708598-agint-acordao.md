@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. CUMPRIMENTO DE SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015. TERMO FINAL. PRIM EIRO JULGAMENTO PROCEDENTE. SÚMULA 111/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  O entendimento alcançado no acórdão impugnado converge com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o termo final dos honorários advocatícios, em matéria previdenciária, deve ser fixado na data do julgamento favorável à concessão do benefício, excluindo-se as parcelas vincendas, a teor da Súmula 111/STJ. Precedentes.
+2. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por AGNALDO DE JESUS MAGALHÃES contra  a  decisão  que  conheceu do agravo para negar provimento ao recurso especial interposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ.
+Argumenta  a  parte agravante,  em  síntese,  que "diferentemente do que foi relatado, a decisão que concedeu o benefício fruto da condenação na fase de conhecimento foi a decisão proferida pelo TJSP em sede de apelação" (fl. 289).
+Aduz, ainda, que "o acórdão do TJSP na fase de conhecimento é a decisão que imprime a condenação ao INSS modificando a decisão de 1º Grau. Desta forma, a base de cálculo dos honorários deve contar com todas as parcelas até a data desta decisão, ou seja, até 15/12/2020" (fl. 291).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. CUMPRIMENTO DE SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015. TERMO FINAL. PRIM EIRO JULGAMENTO PROCEDENTE. SÚMULA 111/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  O entendimento alcançado no acórdão impugnado converge com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o termo final dos honorários advocatícios, em matéria previdenciária, deve ser fixado na data do julgamento favorável à concessão do benefício, excluindo-se as parcelas vincendas, a teor da Súmula 111/STJ. Precedentes.
+2. Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar.
+Com efeito, a decisão agravada está em consonância com a jurisprudência do STJ, firmada no sentido de que o termo final dos honorários advocatícios, em matéria previdenciária, deve ser fixado na data do julgamento favorável à concessão do benefício, excluindo-se as parcelas vincendas, a teor da Súmula 111/STJ.
+No caso dos autos, o provimento favorável ao segurado ocorreu já na sentença, que considerou procedente em parte o pedido autoral para determinar a concessão de auxílio-acidente "a partir de 05/01/2009 (fl. 288 ), que é o dia subsequente ao da cessação do benefício de auxílio doença acidentário" (fl. 11), sendo irrelevante, para a apuração da verba honorária, a melhora na prestação jurisdicional em segunda instância.
+Assim, de acordo com a jurisprudência desta Corte, não se mostra viável a fixação dos honorários advocatícios considerando as prestações vencidas até a data do acórdão.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. DISPOSITIVO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015 E CONCESSIVA DE REVISÃO DE BENEFÍCIO. TERMO FINAL. PRIMEIRO JULGAMENTO PROCEDENTE. SÚMULA 111 DO STJ. APLICAÇÃO. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado ou interpretado de maneira divergente pelo Tribunal de origem implica deficiência de fundamentação no recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+2. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença e morte, ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, de modo que permanece inalterado o escopo da Súmula 111 do STJ, evitando possível conflito de interesses entre o patrono e seu representado.
+3. A respeito da base de cálculo da verba honorária em causas previdenciárias, a orientação jurisprudencial do Superior Tribunal de Justiça, reafirmada pela Primeira Seção no julgamento do Tema 1.105 do STJ, é a de que continua aplicável o conteúdo da Súmula 111 desta Corte, no sentido de que o termo final deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado.
+4. Caso em que o provimento favorável ao segurado ocorreu na sentença, que considerou procedente em parte o pedido autoral, fixando os honorários advocatícios em 10% do valor da condenação, considerando as parcelas vencidas até a data da sentença, nos temos da Súmula 111 do STJ, em conformidade com a jurisprudência desta Corte Superior, circunstância que enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+5. Agravo interno desprovido (AgInt no AREsp n. 2.403.720/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024 - grifo nosso).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015 E CONCESSIVA DE REVISÃO DE BENEFICIO. TERMO FINAL. PRIMEIRO JULGAMENTO PROCEDENTE. SÚMULA 111 DO STJ. APLICAÇÃO.
+1. O Superior Tribunal de Justiça, analisando os parâmetros intertemporais que norteiam o regime jurídico observado no momento da fixação dos honorários de sucumbência, firmou a orientação de que a lei aplicável é aquela vigente na data da sentença/decisão em que arbitrada tal verba.
+2. Hipótese em que a sentença data de 2020, portanto a controvérsia sobre a verba honorária advocatícia, no Tribunal de origem, foi corretamente examinada à luz do Código de Processo Civil de 2015 (CPC/2015).
+3. O CPC vigente não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85.
+4. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença e morte, ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, de modo que permanece inalterado o escopo da Súmula 111 do STJ, evitando possível conflito de interesses entre o patrono e seu representado.
+5. A respeito da base de cálculo da verba honorária em causas previdenciárias, a orientação jurisprudencial do Superior Tribunal de Justiça, reafirmada pela Primeira Seção no julgamento do Tema 1.105 do STJ, é a de que continua aplicável o conteúdo da Súmula 111 desta Corte, no sentido de que o termo final deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado.
+6. In casu, o provimento favorável ao segurado ocorreu na sentença, que considerou procedente em parte o pedido autoral para determinar a revisão pretendida na aposentadoria por tempo de contribuição do autor, sendo irrelevante, para a apuração da verba honorária, a melhora na prestação jurisdicional em segunda instância.
+7. Agravo interno desprovido (AgInt nos EDcl no REsp n. 2.068.805/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/4/2024, DJe de 7/5/2024 - grifo nosso).
+Isso posto, nego provimento ao recurso.
