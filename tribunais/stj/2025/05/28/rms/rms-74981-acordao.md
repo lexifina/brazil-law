@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES. ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA. AFASTAMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO PROVIDO.
+I - Trata-se de recurso ordinário em mandado de segurança impetrado contra ato do Secretário de Polícia Militar do Estado do Rio de Janeiro, visando ao cumprimento do item 17.8 do edital do concurso público, em razão da anulação de questões da prova objetiva por outros candidatos.
+II - O Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança, reconhecendo a ilegitimidade passiva da autoridade impetrada.
+III - Consoante entendimento adotado nesta Corte Superior, "para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS n. 39.566/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013).
+IV - O ato apontado ato coator é o indeferimento do requerimento administrativo pelo Secretário de Estado da Polícia Militar do Rio de Janeiro, em que pleiteou a extensão dos efeitos da anulação de questões, reconhecida em sentença proferida nos autos do processo n. 0418653-89.2014.8.19.0001, a outros candidatos pela via judicial. Considerando que o requerimento administrativo foi indeferido pelo próprio Secretário de Estado, há legitimidade para atuar no polo passivo do presente mandamus.
+V - Recurso ordinário provido.
+RELATÓRIO
+Trata-se de recurso ordinário em mandado de segurança com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 8/3/2024 contra ato atribuído ao Secretário de Polícia Militar do Estado do Rio de Janeiro, consistente no pedido do Impetrante, ao requerer, administrativamente, o cumprimento do item 17.8 do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, em razão da anulação de questões da prova objetiva, obtida por outros candidatos do referido concurso.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em decisão monocrática, extinguiu o feito sem exame de mérito, ante o reconhecimento da ilegitimidade passiva da autoridade impetrada.
+Interposto agravo interno, o TJRJ negou-lhe provimento, ficando assim ementado o referido acórdão, in verbis:
+Agravo Interno em Mandado de Segurança. Concurso CF Sd 2014. Alegado ato coator praticado pelo Secretário de Estado da Polícia Militar. Agravante que pretende obter a pontuação decorrente da anulação, em demandas judiciais individuais, de 3 (três) questões da prova objetiva de história. Pedido administrativo indeferido diante, essencialmente, (i) da responsabilidade da banca organizadora pelas provas aplicadas, (ii) da intempestividade do requerimento administrativo fundado na disposição do Edital que previa a anulação de questões e (iii) dos limites objetivos das decisões judiciais proferidas em ações movidas por outros candidatos.
+1- Agravante que não ataca os fundamentos do ato apontado como coator. Clara pretensão de rediscussão das questões da prova objetiva.
+2- Precedentes do STJ no sentido de que a rediscussão de questões de prova aplicada em concurso público deve ser endereçada à respectiva banca organizadora, e não ao órgão ou ente público que realizou o certame.
+3- Parte que não pretende a prática de ato de incumbência do Exmo. Secretário de Estado, e sim a anulação das citadas questões por via mais célere.
+4- Orientação jurisprudencial pacífica do STJ no sentido de que, "se houver equívoco na indicação da autoridade coatora, não é adequado oportunizar a emenda à inicial do mandado de segurança, caso a correção implique na alteração da competência do órgão jurisdicional, devendo ser extinto o processo sem resolução do mérito" (AgInt no AR Esp 1745229/SP).
+5- Recurso a que se nega provimento.
+Não foram opostos embargos de declaração.
+O Recorrente alega, em síntese, que o ato coator é o indeferimento do requerimento administrativo de atribuição dos pontos decorrentes de anulações de questões por outros candidatos na via judicial, por ser o momento em que foi violado o direito previsto no item 17.8 do edital do certame, o que afasta a decadência, visto que não discute nem a reprovação nem o mérito de tais anulações.
+Apresentadas contrarrazões.
+O Ministério Público opina pelo provimento do recurso ordinário.
+É o relatório.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES. ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA. AFASTAMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO PROVIDO.
+I - Trata-se de recurso ordinário em mandado de segurança impetrado contra ato do Secretário de Polícia Militar do Estado do Rio de Janeiro, visando ao cumprimento do item 17.8 do edital do concurso público, em razão da anulação de questões da prova objetiva por outros candidatos.
+II - O Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança, reconhecendo a ilegitimidade passiva da autoridade impetrada.
+III - Consoante entendimento adotado nesta Corte Superior, "para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS n. 39.566/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013).
+IV - O ato apontado ato coator é o indeferimento do requerimento administrativo pelo Secretário de Estado da Polícia Militar do Rio de Janeiro, em que pleiteou a extensão dos efeitos da anulação de questões, reconhecida em sentença proferida nos autos do processo n. 0418653-89.2014.8.19.0001, a outros candidatos pela via judicial. Considerando que o requerimento administrativo foi indeferido pelo próprio Secretário de Estado, há legitimidade para atuar no polo passivo do presente mandamus.
+V - Recurso ordinário provido.
+VOTO
+Consoante entendimento adotado nesta Corte Superior, "para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS n. 39.566/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013).
+Na mesma linha, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. EXAME NACIONAL DA MAGISTRATURA - ENAM. COTA RACIAL. AUTODECLARAÇÃO A SER AVALIADA PELA COMISSÃO DE HETEROIDENTIFICAÇÃO DO TRIBUNAL DE JUSTIÇA ESTADUAL. ILEGITIMIDADE PASSIVA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
+1. Nos termos do art. 6º, § 3º, da Lei n. 12.016/2009, a autoridade coatora é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal, ou, ainda, aquela que detém competência para corrigir a suposta ilegalidade.
+2. Na hipótese dos autos, a impetração volta-se contra ato de atribuição da Comissão de Heteroidentificação do TJRJ e da Fundação Getúlio Vargas - FGV, responsável pela organização do concurso, o que acaba por afastar a competência desta Corte para conhecer da ação mandamental.
+Agravo interno improvido.
+(AgInt no MS n. 30.255/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 25/2/2025, DJEN de 5/3/2025.)
+Na hipótese dos autos, verifica-se que o ato imputado como ilegal é o indeferimento, por parte do Secretário de Estado da Polícia Militar do Rio de Janeiro, de requerimento administrativo em que se buscava a extensão dos efeitos da anulação de questões, reconhecida em sentença proferida nos autos do processo n. 0418653-89.2014.8.19.0001, a outros candidatos pela via judicial.
+Considerando que o requerimento administrativo foi indeferido pelo próprio Secretário de Estado, há legitimidade para atuar no polo passi vo do presente mandamus.
+Vale mencionar que a legitimidade passiva do Secretário de Estado da Polícia Militar do Rio de Janeiro é questão superada no Superior Tribunal de Justiça, uma vez que em diversos julgados análogos - atinentes ao Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro (CFSd/PMERJ-2014) - o aludido Secretário de Estado foi apontado como atividade coatora e tido por legítimo para figurar no polo ativo da presente demanda.
+Nessa linha, mutatis mutandis: AgInt no RMS n. 74.022/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 11/3/2025, DJEN de 24/3/2025; AgInt no RMS n. 74.059/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/3/2025, DJEN de 18/3/2025; RMS n. 74.424/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2025, DJEN de 18/3/2025; AgInt no RMS n. 73.739/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 4/12/2024.
+Assim, deve ser afastada a ilegitimidade passiva da autoridade impetrada, devendo os autos retornarem ao TJRJ para prosseguir na análise das demais questões do mandado de segurança.
+Ante o exposto, dou provimento ao recurso ordinário para afastar a ilegitimidade passiva da autoridade impetrada e determinar o retorno dos autos ao Tribunal de origem para prosseguir no julgamento das demais questões do mandado de segurança.
+É o voto.
