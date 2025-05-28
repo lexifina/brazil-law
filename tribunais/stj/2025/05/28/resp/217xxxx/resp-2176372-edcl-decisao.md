@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JEFFERSON PONTES BARBOZA DA SILVA, contra decisão de fls. 743/754, de minha relatoria, em que conheci parcialmente do recurso especial, negando-lhe provimento, nos termos da Súmula n. 568/STJ.
+Nas razões dos aclaratórios (fls. 757/760), a defesa sustenta que há omissão quanto as seguintes teses: nulidade decorrente da utilização de prova emprestada juntada aos autos; violação do tema 506 do STF; nulidade da sentença de condenação que utilizou balança e caderno não periciados para fundamentar condenação por tráfico de drogas; violação à presunção de inocência e do art. 156 do Código de Processo Penal pela necessidade do acusado provar a licitude de valores apreendidos.
+Requer sejam acolhidos os presentes embargos declaratórios, com o fim de sanar as referidas omissões.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem ser acolhidos.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC. Entretanto, tais vícios não foram constatados na hipótese.
+No caso em apreço, não há falar em omissão no decisum e sim em inconformismo da parte. Os aclaratórios não servem para alterar a conclusão da decisão embargada, que está devidamente fundamentada.
+No que se refere à alegação de nulidade decorrente da utilização de prova emprestada, destacou-se que a defesa teve a oportunidade de se insurgir contra isto nas alegações finais e não o fez. Ademais, a decisão impugnada foi clara ao afirmar que a condenação não se baseou exclusivamente na prova emprestada, o que afasta eventual nulidade, nos termos da jurisprudência consolidada desta Corte (AgRg no AREsp 2.532.397/SP, Rel. Min. Ribeiro Dantas, DJe 13/8/2024).
+No que se refere à alegação de descriminalização da posse de droga para uso próprio, referente ao Tema 506 do STF, bem como ofensa aos arts. 155 e 158, ambos do CPP, quanto à ausência de perícia do caderno de anotações e balança de precisão, como dito, as matérias não constaram nas razões de apelação do ora embargante, razão pela qual a Corte de origem não se pronunciou sobre as questões.
+Sendo assim, o apelo carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF. Inviável, pois, o conhecimento do apelo nobre quanto ao ponto.
+Ante o exposto, nos termos do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, por não haver vício a sanar, rejeito os embargos de declaração.
+Publique -se. Intimem-se.
+EMENTA
