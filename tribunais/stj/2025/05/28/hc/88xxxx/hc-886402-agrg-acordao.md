@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Detração penal. Progressão de regime. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, no qual se alegava violação ao art. 387, § 2º, do Código de Processo Penal, em razão da não aplicação da detração do tempo de prisão provisória para fixação de regime prisional mais brando.
+2. O agravante foi condenado por lesão corporal e ameaça, com pena de 5 meses e 12 dias de detenção, em regime inicial semiaberto, mantida em apelação. A defesa sustentou que o Tribunal de Justiça não aplicou a detração do tempo de prisão cautelar para fixar o regime prisional.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve a não aplicação da detração do tempo de prisão provisória para fixar o regime prisional.
+III. Razões de decidir
+4. A jurisprudência do STJ entende não haver violação ao art. 387, § 2º, do CPP quando a detração não altera o regime inicial de cumprimento de pena, fixado com base em fundamentação concreta. Ademais, o agravante cumpre penas por mais de uma condenação, o que ensejaria, de toda forma, um revolvimento de fatos e provas inviável na presente via e neste STJ de forma originária.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "A detração do tempo de prisão cautelar é irrelevante para a fixação do regime prisional quando o regime mais gravoso se mostra fundamentado".
+Dispositivos relevantes citados: CP, art. 33, §§ 2º e 3º; CPP, art. 387, § 2º.
+Jurisprudência relevante citada: STJ, REsp 1.843.481/PE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 07.12.2021; STJ, AgRg no HC 852.812/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26.09.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de JAILSON FERNANDO MARSSONA DE OLIVEIRA contra a decisão que não conheceu do habeas corpus.
+Nos autos da PEC n. 8000806-93.2023.8.24.0018, o Juízo da Vara Regional de Execuções Penais da Comarca de Chapecó manteve o cumprimento da pena remanescente em regime fechado.
+A defesa sustenta que o agravante vem cumprindo pena privativa de liberdade referente aos autos "n. 0009131- 72.2018.8.24.0018, pelo delito do art. 155, §§ 1º e 4º, I e IV, condenado à pena 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial semiaberto e; - n. 5028058-93.2021.8.24.0018, pelo delito do art. 33, caput, da Lei 11.343/06, condenado à pena 5 (cinco) anos de reclusão, em regime inicial fechado" (fl.3).
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ não conhecido, sustentando que o caso em questão, trata-se do método de cálculo para progressão de regime, considerando a detração penal como tempo de pena cumprida.
+Argumenta que o método utilizado pelo juízo da execução penal e confirmado pelo TJSC gera flagrante excesso de execução e constrangimento ilegal.
+Aduz que a forma correta de aplicação do art. 42 do Código Penal é a que considera o período de prisão provisória como pena efetivamente cumprida para todos os fins, inclusive para o cálculo da progressão de regime, com a incidência da fração sobre o total da reprimenda aplicada ao réu.
+Afirma que, no caso em análise, ao considerar o tempo de prisão provisória apenas como abatimento da pena total, antes do cálculo dos percentuais de progressão, o juízo da execução penal promoveu uma dupla penalização ao agravante.
+Assere que é caso de se computar a detração como pena cumprida, incidindo as frações de progressão sobre o total da pena aplicada, e, assim, antecipar a data de progressão de regime para 7/9/2026, em vez de 18/10/2026.
+Requer, ao final, a reconsideração da decisão monocrática ou a submissão do pleito ao órgão colegiado, para que seja conhecido e provido o presente agravo regimental, concedendo a ordem pretendida.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 276.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Detração penal. Progressão de regime. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, no qual se alegava violação ao art. 387, § 2º, do Código de Processo Penal, em razão da não aplicação da detração do tempo de prisão provisória para fixação de regime prisional mais brando.
+2. O agravante foi condenado por lesão corporal e ameaça, com pena de 5 meses e 12 dias de detenção, em regime inicial semiaberto, mantida em apelação. A defesa sustentou que o Tribunal de Justiça não aplicou a detração do tempo de prisão cautelar para fixar o regime prisional.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve a não aplicação da detração do tempo de prisão provisória para fixar o regime prisional.
+III. Razões de decidir
+4. A jurisprudência do STJ entende não haver violação ao art. 387, § 2º, do CPP quando a detração não altera o regime inicial de cumprimento de pena, fixado com base em fundamentação concreta. Ademais, o agravante cumpre penas por mais de uma condenação, o que ensejaria, de toda forma, um revolvimento de fatos e provas inviável na presente via e neste STJ de forma originária.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "A detração do tempo de prisão cautelar é irrelevante para a fixação do regime prisional quando o regime mais gravoso se mostra fundamentado".
+Dispositivos relevantes citados: CP, art. 33, §§ 2º e 3º; CPP, art. 387, § 2º.
+Jurisprudência relevante citada: STJ, REsp 1.843.481/PE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 07.12.2021; STJ, AgRg no HC 852.812/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26.09.2023.
+VOTO
+No presente recurso, como dito, o agravante reitera argumentos lançados anteriormente e pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+A controvérsia consiste na análise da aplicação, ou não, da detração do tempo de prisão provisória para fixar o regime prisional.
+No caso, o Tribunal de origem manteve a decisão do juízo da execução penal que alterou a pena base para a obtenção de benefícios para o agravante, vejamos:
+ ..  Compulsando-se os autos se verifica que o agravante encontra-se recolhido para cumprimento de duas condenações definitivas, referentes à prática de crime comum, em que aplicada a pena de 2 anos, 4 meses e 24 dias de reclusão, e de crime equiparado a hediondo, em que aplicada a pena de 5 anos de reclusão. Foi preso em flagrante em 16/10/2021, permanecendo segregado cautelarmente até 25/01/2022. Na data de 26/07/2023 ocorreu a prisão em razão de condenação definitiva. Veja-se, da decisão recorrida, que o tempo de prisão preventiva foi lançado como tempo de pena cumprida, pois descontado da reprimenda referente ao crime equiparado a hediondo, antes da realização do cálculo para a progressão de regime (evento 1.1). Com efeito, não há correção a ser promovida, pois embora a legislação pátria seja omissa, é entendimento consolidado desta Câmara Criminal e amplamente majoritário deste Tribunal, no sentido de que o período de tempo cumprido deve ser descontado do total da pena imposta e, somente após tal equação, é que será calculado eventual direito ou benefício no âmbito da execução penal, nos termos realizados na origem. A propósito, "o benefício da progressão de regime deve ser calculado com base no montante da pena a cumprir após o desconto do período da segregação cautelar, pois, pensamento em contrário, afrontaria o sistema progressivo previsto na Lei de Execução Penal" (TJSC, Agravo de Execução Penal n. 8000315-74.2023.8.24.0022, rel. Des. Carlos Alberto Civinski, Primeira Câmara Criminal, j. 17-08-2023).
+Ao contrário do que sustenta a defesa, foi devidamente considerado o tempo de prisão provisória para o cômputo do prazo para a progressão de regime, e, somente após aplicado os percentuais previstos no art. 112 da LEP.
+Este entendimento do acórdão se alinha à jurisprudência desta Corte Superior, no sentido de que, o requisito objetivo para a progressão de regime deve ser calculado sobre o montante da pena aplicada descontando-se a detração, pois a jurisprudência do STJ entende não haver violação ao art. 387, § 2º, do CPP quando a detração não altera o regime inicial de cumprimento de pena, fixado com base em fundamentação concreta.
+Nesse sentido:
+ ..  Com o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer, ainda, que o § 2º do art. 387 do CPP dispõe que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade. O referido preceito normativo não se refere à progressão de regime prisional, instituto próprio da execução penal, mas, sim, à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do Código Penal. No presente caso, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Isso porque, conforme se observa nos autos, ainda que descontado o período de prisão cautelar, não haveria alteração do regime inicial fixado na condenação, pois o agravamento do regime está baseado na reincidência do acusado e na existência de circunstância judicial negativa na pena-base, nos termos do art. 33, §§ 2º e 3º, do Código Penal (AgRg no REsp n. 2.104.637/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/12/2023.)
+ ..  A defesa sustentou que o Tribunal de Justiça não aplicou a detração do tempo de prisão cautelar para fixar o regime prisional  ..  A jurisprudência do STJ entende não haver violação ao art. 387, § 2º, do CPP quando a detração não altera o regime inicial de cumprimento de pena, fixado com base em fundamentação concreta, diante da constatação de circunstâncias judiciais desfavoráveis e da reincidência  ..  (STJ, AgRg no HC 852.812/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26.09.2023.)
+Ademais, o agravante cumpre penas por mais de uma condenação, o que ensejaria, de toda forma, um revolvimento de fatos e provas inviável na presente via e neste STJ de forma originária.
+É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
