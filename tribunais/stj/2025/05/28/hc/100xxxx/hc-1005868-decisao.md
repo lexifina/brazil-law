@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de RENÊ GLÓRIA SILVA, impugnando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, em julgamento do agravo em execução n. 5012517- 62.2024.8.19.0500.
+Consta dos autos que o Juiz das Execuções Criminais indeferiu o pedido de visita periódica ao lar, sob os fundamentos de que o apenado acabou de ter seu regime progredido para o semiaberto, sendo necessário um maior tempo em observação de seu comportamento no referido regime, além de que o comportamento carcerário adequado a que alude o inciso I, do artigo 123, da LEP deve abarcar toda a execução de sua pena (e-STJ fls. 16/17).
+Contra a decisão, a defesa interpôs agravo em execução, perante a Corte de origem, o qual negou provimento ao recurso, recebendo o acórdão a seguinte ementa (e-STJ, fl. 11):
+AGRAVO DE EXECUÇÃO. DECISÃO QUE INDEFERIU VISITA PERIÓDICA AO LAR. A Defesa busca a reforma da decisão, sustentando que estão cumpridos os requisitos objetivos e subjetivos. SEM RAZÃO A DEFESA. Concessão do benefício de saída extramuros, na modalidade de VPL, que encerra faculdade confiada ao prudente arbítrio do Juízo da Execução e reclama a presença cumulativa dos requisitos objetivos e subjetivos previstos no art. 123 da LEP. A progressão ao regime semiaberto não acarreta consequência automática ao deferimento da benesse. O objetivo da saída temporária é a ressocialização do indivíduo, adaptando-o para o convívio em sociedade de forma gradual, objetivando a plenitude da liberdade, o que deve ser apurado no decorrer do regime semiaberto. Trata-se de agravante condenado à pena de 08 anos e 03 meses de reclusão pela prática de crime de roubo majorado, com término da pena previsto para 30.05.2031. Progressão para o regime semiaberto deferido em 17.07.2024. Como bem fundamentou a Magistrada da execução, necessário maior tempo de observação do comportamento do apenado no referido regime para que, assim, seja reavaliado o pedido. Gravidade em concreto do crime. Longa pena remanescente a cumprir. A concessão da visita periódica ao lar não se revela compatível com os objetivos da pena no seu aspecto ressocializador. Manutenção da decisão agravada. DESPROVIMENTO DO RECURSO DEFENSIVO.
+Nesta  impetração,  a  defesa  sustenta o preenchimento, pela pena, dos requisitos legais, para obtenção da visita periódica ao lar.
+Alega que o indeferimento do benefício se baseou unicamente na longevidade da pena e na recente progressão de regime.
+Diante  disso,  requer,  liminarmente  e  no  mérito,  as saídas temporárias na modalidade visita periódica ao lar - VPL ao Paciente, ou, subsidiariamente, determinando ao D. Juízo da VEP que reaprecie o pleito de concessão de saída temporária, afastadas quaisquer ponderações sobre a longevidade da pena ou a progressão recente para o regime semiaberto.
+É  o  relatório. Decido.
+Não há como prosseguir a irresignação.
+O presente habeas corpus apresenta as mesmas partes, mesmo pedido e mesmos fundamentos de fato e de direito constante do HC n. 1001971/RJ, julgado perante esta Corte no dia 13/5/2025, inclusive concedendo a ordem de ofício, a fim de determinar que o Juízo das execuções criminais reaprecie o pedido de visita periódica ao lar apenas com base em fatores concretos da execução, afastando os fundamentos de tempo de pena cumprido no regime semiaberto e gravidade do delito (e-STJ fls. 260/268 do referido HC conexo).
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. REPETIÇÃO DE HABEAS CORPUS ANTERIORMENTE IMPETRADO. MESMOS FUNDAMENTOS DE FATO E DE DIREITO DO HC 409.853/SC. MERA SUBSTITUIÇÃO DO IMPETRANTE. AUSÊNCIA DE INTERESSE PROCESSUAL.
+1- O propósito do habeas corpus é definir se deve ser mantida a ordem de acolhimento institucional diante da existência de indícios de ausência de paternidade biológica, ocorrência de fraude no registro de nascimento e burla ao cadastro de adoção.
+2- A mera repetição de fundamentos de fato e de direito já ventilados em idêntico habeas corpus, substituindo-se apenas o nome do impetrante, implica em manifesta inexistência de interesse processual, nas modalidades utilidade e adequação. Precedentes.
+3- Habeas corpus não conhecido.
+(HC n. 412.492/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017)
+PROCESSUAL PENAL. HABEAS CORPUS. MERA REPETIÇÃO DE OUTRO JÁ IMPETRADO E JULGADO. INDEFERIMENTO LIMINAR DO SEGUNDO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1 - A mera repetição de habeas corpus cujo pleito já foi devidamente decidido nesta Corte, em impetração anterior, denota ser de rigor o indeferimento liminar da inicial do segundo writ.
+2 - Agravo regimental não provido.
+(AgRg no HC n. 421.616/GO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 7/11/2017, DJe de 13/11/2017)
+Assim, por se tratar de mera reiteração, o presente writ não pode prosseguir.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
