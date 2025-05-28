@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/05/2025 a 28/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. DECISÃO DE NÃO CONHECIMENTO DO RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. As razões recursais estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por MARIANE DE MORAIS RIGOTTI contra  a  decisão  que  conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 284/STF, por analogia.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  a decisão que rejeitou os embargos de declaração não pode ser considerada como supridora da obscuridade apontada, pois não esclareceu se, na ausência de comprovação de pagamento das férias proporcionais após a LC nº 266/2019, tais valores seriam de fato executáveis. Dessa forma, permanece a negativa de prestação jurisdicional, o que impõe a necessidade de reforma da decisão agravada para que a controvérsia seja devidamente analisada (fl. 341).
+Defende, ainda, que "a tese recursal está claramente delimitada, não havendo qualquer imprecisão que justifique a aplicação da Súmula 284/STF" (fl. 341).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação apresentada às fls. 348-353 requerendo o não conhecimento do agravo interno.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. DECISÃO DE NÃO CONHECIMENTO DO RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. As razões recursais estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+No caso dos autos, o Tribunal de origem decidiu a controvérsia posta sob os seguintes fundamentos:
+Isso porque, é de ordinária sabença que, com a edição da Lei Complementar Estadual nº 266/2019 o Estado de Mato Grosso do Sul passou a prever o pagamento de férias proporcionais aos profissionais da educação, de modo que a sentença merece reforma, a fim de decotar do montante devido ao requerente os valores efetivamente pagos à título de férias proporcionais, o que deverá ser apurado em liquidação do julgado, a fim de evitar enriquecimento ilícito da parte autora em prejuízo ao erário.
+Quanto ao pleito de afastamento da gratificação natalina, melhor sorte não assiste ao recorrente, eis que não há provas nos autos de que tais valores foram pagos integralmente ao autor, e a planilha de cálculo de fls. 52/3 sequer foi impugnada pelo réu, uma vez que este deixou de colacionar ao feito documentos para comprovar o pagamento correto de tal verbas, razão pela qual a sentença não merece reparos nesse ponto (fl. 249).
+Ademais, no julgamento dos embargos de declaração, o Tribunal de origem assim se manifestou:
+Conforme bem salientado no acórdão embargado, devem ser decotados da condenação os valores efetivamente pagos à título de férias proporcionais, ou seja, deve haver a comprovação de que a importância relativa a tal verba foi quitada após o advento da Lei nº 266/2019, do contrário, tais valores permanecem devidos à autora e serão incluídos no pagamento.
+Por oportuno, colaciono o mencionado trecho do julgado:
+"(..) Isso porque, é de ordinária sabença que, com a edição da Lei Complementar Estadual nº 266/2019 o Estado de Mato Grosso do Sul passou a prever o pagamento de férias proporcionais aos profissionais da educação, de modo que a sentença merece reforma, a fim de decotar do montante devido ao requerente os valores efetivamente pagos à título de férias proporcionais, o que deverá ser apurado em liquidação do julgado, a fim de evitar enriquecimento ilícito da parte autora em prejuízo ao erário. (..)"
+Quanto ao ônus probatório, embora não conste expressamente no voto, torna-se desnecessária manifestação a seu respeito, uma vez que caberá ao Estado a comprovação do pagamento pois foi ele que alegou a quitação da verba, nos termos no art. 373, II, do CPC (fls. 266-267).
+Por sua vez, o recurso especial trouxe a seguinte fundamentação:
+No entanto, o fato de ter entrado em vigor Lei nesse sentido não necessariamente faz prova do pagamento dos valores referentes as férias proporcionais após julho de 2019, sendo necessário a liquidação dos valores e dedução de valores efetivamente pagos, justamente porque nesse cenário, por força do art. 373, II do CPC, caber ao réu o ônus de provar que foram pagas as férias proporcionais após julho/2019, já que confessa ter sido realizado o pagamento, sem qualquer prova a respeito.
+ ..
+Dessa maneira, cabe ao ente público provar tal pagamento, por força do dispositivo acima citado, o que não foi observado ao longo do presente processo. Então, verificada a inexistência do cumprimento do ônus probatório e ainda sim a limitação do pagamento de férias até o mês de julho/2019, tem-se a negativa da prestação jurisdicional, por negar a fundamentar acerca da confissão e ausência de prova do pagamento.
+ ..
+Dessa forma, observada a negativa de prestação jurisdicional, pugna pelo provimento do presente Recurso Especial para declarar a nulidade do Acórdão recorrido e determinar novo julgamento, sob o ponto: "quando da liquidação da sentença, se demonstrado documentalmente a ausência do pagamento de férias proporcionais após promulgação da lei (julho/2019), se mantém a limitação imposta pela decisão recorrida, tendo em vista que trata-se de quantia que depende de liquidação de valores, com dedução de valores pagos (fls. 277-279).
+Assim, não merece reparo a decisão recorrida, porquanto as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que restou consignado nas razões de decidir do acórdão, bem como no julgamento em sede de embargos de declaração, que cabe ao estado a comprovação do pagamento pois foi quem alegou a quitação da verba, descabida, portanto, a alegação de negativa de prestação jurisdicional.
+Registre-se, também, que a parte recorrente sequer apontou violaçã o aos arts. 489 e 1.022 do CPC/2015 em suas razões recursais.
+Saliente-se, ademais, que restou claramente disposto no acórdão recorrido que "devem ser decotados da condenação os valores efetivamente pagos à título de férias proporcionais, ou seja, deve haver a comprovação de que a importância relativa a tal verba foi quitada após o advento da Lei nº 266/2019, do contrário, tais valores permanecem devidos à autora e serão incluídos no pagamento" (fl. 266).
+Assim, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, de modo que a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Isso posto, nego provimento ao recurso.
