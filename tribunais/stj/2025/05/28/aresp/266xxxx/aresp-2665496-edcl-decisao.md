@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELO SANTOS DE OLIVEIRA, advogado das quereladas YARA CASTRO CARVALHO e NADIA BATISTA DA SILVA, em face da decisão monocrática que não conheceu dos agravos em recursos especiais interpostos pelas partes.
+O embargante alega omissão na decisão quanto à majoração dos honorários advocatícios que lhe são devidos, pleiteando a elevação da verba honorária de R$ 3.000,00 (três mil reais) para R$ 20.000,00 (vinte mil reais), ou subsidiariamente para R$ 15.000,00 (quinze mil reais), com base na decisão do Tribunal de Justiça de Goiás que rejeitou a queixa-crime e fixou honorários sucumbenciais.
+Foram apresentadas contrarrazões pela parte embargada (e-STJ fls. 814-821).
+É o relatório.
+Decido.
+Conheço dos embargos, pois tempestivos. Entretanto, eles não merecem acolhimento.
+Preliminarmente, cumpre esclarecer que os embargos de declaração, nos termos do artigo 619 do Código de Processo Penal, prestam-se exclusivamente para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente na decisão embargada. Não se prestam para reapreciar o mérito da decisão ou para reiterar argumentos já analisados e rejeitados.
+No caso em exame, verifica-se que os embargos declaratórios apresentados aparentam ser mera reiteração dos fundamentos dos agravos em recursos especiais, buscando, na verdade, a reforma da decisão embargada e não o saneamento de qualquer vício. Conforme se extrai, em verdade, o embargante pretende, através dos embargos, obter a majoração dos honorários advocatícios, questão que sequer foi objeto de apreciação nesta instância em razão da inadmissibilidade dos recursos especiais.
+Nesse sentido, analisa-se que, no presente caso, não há qualquer omissão a ser suprida. A decisão embargada foi clara ao não conhecer dos agravos em recursos especiais por ausência dos pressupostos de admissibilidade, o que impede qualquer análise meritória das questões suscitadas, incluindo a pretendida majoração dos honorários advocatícios. Sob essa lógica, portanto, cabe ponderar que a questão dos honorários advocatícios, ainda que fixados pelo Tribunal de origem em favor do embargante, não pode ser objeto de majoração nesta instância quando o próprio recurso especial interposto pelas suas constituintes não preenche os requisitos mínimos de admissibilidade.
+Ademais, conforme expressamente consignado na decisão embargada, "é cediço o entendimento desta Corte no sentido de que a revisão dos honorários advocatícios fixados por equidade não é admissível na estreita via do recurso especial, porquanto decididos com base nos elementos informativos do processo, cujo reexame encontra as disposições do verbete n. 7 da Súmula desta Corte" . (AgInt no AREsp n. 788.432/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2016, DJe de 11/10/2016.) Ainda:
+"REGIMENTAL. RECURSO ESPECIAL. PROCESSO PENAL. QUEIXA-CRIME. IMPROCEDÊNCIA. HONORÁRIOS SUCUMBENCIAIS IMPOSTOS. APLICAÇÃO ANALÓGICA DO ART. 20, §3º, DO CPC. POSSIBILIDADE. VALOR. EXAME DE PROVAS. SÚMULA N. 7 DO STJ.
+1. Consoante a jurisprudência sedimentada do STJ, o princípio geral da sucumbência é aplicável no âmbito do processo penal quando se tratar de ação penal privada. Precedentes.
+2. Não cabe ao STJ revisar os valores de sucumbência fixados pela instância ordinária em consideração aos elementos fáticos da causa. Enunciado n. 7 da Súmula desta Corte Superior.
+3. Agravo regimental a que se nega provimento".
+(AgRg no REsp 1206311/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/06/2014, DJe 11/06/2014)"
+O embargante não logrou demonstrar que a majoração dos honorários independeria de reexame dos referenciais de fixação, tais como o trabalho desempenhado, nível de complexidade da ação e atuação processual, questões estas que esbarram no óbice da Súmula 7/STJ.
+Na realidade, os presentes embargos declaratórios, longe de apontarem qualquer omissão, contradição, obscuridade ou erro material na decisão embargada, configuram tentativa inadequada de rediscutir o mérito já decidido, desvirtuando a finalidade do instituto previsto no art. 619 do Código de Processo Penal.
+Ante o exposto, rejeito os embargos de declaração, mantendo integralmente a decisão embargada que não conheceu dos agravos em recursos especiais interpostos.
+Publique-se. Intimem-se.
+EMENTA
