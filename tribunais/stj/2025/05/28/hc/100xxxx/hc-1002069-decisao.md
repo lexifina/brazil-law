@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DOUGLAS BARBOSA contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve seu pedido de retificação do cálculo de pena indeferido pelo juízo da execução (fl. 24). A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 33-36, com a seguinte ementa:
+HABEAS CORPUS. Execução penal. Impetração objetivando a retificação do cálculo de liquidação de penas. Remédio heroico, ademais, que não pode ser usado como sucedâneo da via recursal adequada, no caso, o agravo de execução. Solução fundamentada. Pedido formulado a exigir análise de matéria atrelada à situação processual do paciente, com a produção e interpretação de prova, algo impossível de ocorrer pela estreita via eleita. Constrangimento ilegal não verificado de plano. Ordem indeferida liminarmente, dispensados parecer da Procuradoria de Justiça e informações da autoridade apontada como coatora (artigo 663 do CPP).
+No presente writ, alega o impetrante constrangimento ilegal decorrente de erro no lançamento do termo inicial do cumprimento da pena, o que resultou em prejuízo ao paciente, uma vez que deixou de considerar mais de um ano de prisão cumprida em outro estado da federação.
+Requer, em sede de liminar e no mérito, a concessão da ordem a fim de determinar a correção do cálculo de pena.
+O pedido liminar foi indeferido (fls. 42-43). Foram prestadas as informações solicitadas (fls. 49-73).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, nos termos da seguinte ementa (fl. 75):
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. EXECUÇÃO PENAL. PLEITO DE RETIFICAÇÃO DO CÁLCULO DE PENAS REALIZADA PELO JUÍZO DAS EXECUÇÕES. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. PACIENTE NÃO INTERPÔS AGRAVO EM EXECUÇÃO NA ORIGEM E TESE SEQUER EXAMINADA PELA CORTE LOCAL EM WRIT. SUPOSTO CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER POR NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DIRETO A ESTA CORTE SUPERIOR INCOMPETENTE POR E EM RESPEITO À JURISDIÇÃO E SEUS LIMITES.
+É o relatório.
+Decido.
+O acórdão impugnado foi assim proferido:
+Trata-se de Habeas Corpus impetrado em favor de DOUGLAS BARBOSA, sob a alegação de ilegal constrangimento decorrente de ato do MM. Juiz de Direito do Deecrim UR2 da Comarca de Araçatuba, nos autos de Execução nº. 0013302-07.2022.8.26.0041. Aduz o impetrante que o paciente foi preso em data diversa da lançada como termo a quo no cálculo de penas, situação a impactar no marco temporal para fins de progressão, já que "mais de um ano de prisão simplesmente desapareceu de seu histórico carcerário". Apontando a necessidade de se ajustar o termo inicial da custódia, pede, liminarmente, a retificação da conta de penas, confirmada a ordem quando do julgamento da impetração.
+É o relatório.
+O Habeas Corpus deve ser negado de plano, sem necessidade de informações da autoridade impetrada e de parecer da ilustrada Procuradoria de Justiça, consideradas as alegações trazidas, na forma do artigo 663 do Código de Processo Penal.
+Com efeito, insurge-se o impetrante contra decisão do juízo da execução que indeferiu pedido de retificação do cálculo de penas ante mero erro material, pretendendo o impetrante, agora, o recálculo, com observância do tempo de prisão cumprido pelo paciente no Estado de Pernambuco.
+De proêmio, consigne-se que o inconformismo diante da decisão do juiz da execução enseja a interposição de agravo de execução, nos termos do artigo 197 da Lei nº. 7.210/84, daí a inadmissibilidade do Habeas Corpus como sucedâneo da medida recursal adequada (TJESP, HC 2084885-49.2019.8.26.0000, Relator Desembargador MARCO ANTÔNIO COGAN, julgado 25-4-2019).
+Aqui, não é demais lembrar que a jurisprudência das Cortes Superiores, reconhecendo o limitado âmbito da ação constitucional, com imediato socorro a hipóteses de flagrante ilegalidade e potencial prejuízo à liberdade de locomoção do indivíduo, tem assinalado a impossibilidade de banalização da via impugnativa autônoma, indevidamente utilizada como substitutivo da via revisional ou de recursos cabíveis à espécie.
+Assim, inadmissível a análise de questão atrelada a questões pertinentes à fase executória pela sumária via do Habeas Corpus, porquanto imprescindível o exame de matéria de fato ínsita à situação do preso, algo inconciliável com o writ, dada a imprescindibilidade da produção e interpretação de provas.
+Nesse tom, não se demonstrou o equívoco no cálculo adotado pelo juiz da execução, não podendo vingar impetração desacompanhada de peças essenciais à análise da controvérsia (STF, HC 132103 AgR/SP, Relatora Ministra CARMEN LÚCIA).
+E, não se constatando constrangimento ilegal de plano decorrente de ato do juízo das execuções, indefere-se liminarmente o Habeas Corpus, consoante artigo 663 do Código de Processo Penal.
+À vista do exposto, pelo meu voto, DENEGO O HABEAS CORPUS in limine.
+Verifica-se que o Tribunal de origem não analisou a questão controvertida, ressaltando que "não se demonstrou o equívoco no cálculo adotado pelo juiz da execução, não podendo vingar impetração desacompanhada de peças essenciais à análise da controvérsia".
+Desse modo, "A ausência de deliberação colegiada na instância de origem impede a apreciação direta da matéria por esta Corte Superior, sob pena de indevida supressão de instância" (AgRg no HC n. 971.396/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
