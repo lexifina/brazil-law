@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE SEROPEDICA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0019638- 50.2018.8.19.0077. Segue a ementa (fl. 31):
+Execução fiscal. Extinção do processo na forma do art.485, IV do CPC, por falta de pressuposto processual. Recurso de apelação interposto fora do prazo. Juízo de admissibilidade que deve ser realizado pelo órgão julgador de segundo grau. Certidão exarada pela serventia judicial informando a intempestividade do apelo. Recurso desprovido.
+Os embargos de declaração foram desprovidos (fl. 46).
+Nas razões de seu recurso especial, a parte alega violação aos arts. 25, caput e parágrafo único, e 27, parágrafo único, da Lei n. 6.830/1980 e aos arts. 183, § 1º, 242, § 3º, 269, § 3º, e 1.003, caput e § 5º, do CPC. Defende a nulidade da intimação que embasou a conclusão do acórdão quanto à intempestividade do recurso de apelação por ser despida de personalidade jurídica, pois foi dirigida à Prefeitura. Afirma que a intimação pessoal da Fazenda Pública deve ser feita na pessoa do seu representante judicial, o procurador municipal (fl. 67).
+Requer o conhecimento do agravo e, no mérito, o seu provimento para reformar a decisão que inadmitiu o recurso especial, determinando-se o processamento do recurso que teve seguimento obstado.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade, passo ao exame do recurso especial.
+O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de nulidade da intimação da Fazenda Pública por violação dos dispositivos federais mencionados, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+O recurso especial não trouxe a alegação de ofensa ao art. 1.022 do Código de Processo Civil - a fim de que se constatasse a eventual omissão por parte da Corte de origem -, a qual é indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.. Nessa linha: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; e AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Ao decidir sobre a extinção do processo de execução fiscal, a Corte estadual amparou-se no acervo fático-probatório dos autos para assim fundamentar sua decisão (fls. 31-32):
+4. Trata-se de recurso decorrente da extinção da execução fiscal, na forma do artigo 485, IV do CPC.
+5. A certidão cartorária de fls. 24 noticia que a apelação foi interposta fora do prazo legal.
+6. O Juízo de admissibilidade da apelação deve ser realizado pelo órgão julgador de segundo grau, na forma do artigo 1.010 do CPC/2.015. Neste sentido, constato que o recurso foi apresentado quando já ultrapassado o prazo legal, sendo esse oferecido somente no dia 17/12/2021.
+No que concerne à alegada contrariedade ao art. 183, § 1º, do CPC/2015 - suposta necessidade de intimação pessoal do procurador do município -, as razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Precedentes: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; e AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois ausente condenação, nas instâncias ordinárias, em verba de sucumbência em favor do advogado da parte ora recorrida.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. ALEGAÇÃO DE QUE É NECESSÁRIA A INTIMAÇÃO PESSOAL DO PROCURADOR DO MUNICÍPIO. RAZÕES DO APELO NOBRE DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
