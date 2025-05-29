@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pela ora agravante.
+O agravado, em primeira instância, foi absolvido da imputação da prática dos delitos previstos no art. 46, parágrafo único, da Lei n. 9.605/1988 e no art. 299 do Código Penal.
+Interposta apelação, foi negado provimento ao recurso ministerial, em acórdão assim ementado (e-STJ fls. 346-360):
+APELAÇÃO CRIMINAL - CRIME CONTRA A FLORA E FALSIDADE IDEOLÓGICA - RECURSO DO MINISTÉRIO PÚBLICO CONTRA SENTENÇA ABSOLUTÓRIA - TESE RECURSAL REJEITADA - NÃO DEMONSTRAÇÃO DO ELEMENTO VOLITIVO (DOLO) - ABSOLVIÇÃO QUE SE IMPÕE - APLICAÇÃO DO PRINCÍPIO DO IN -DUBIO PRO REO RECURSO CONHECIDO E DESPROVIDO. 1. No caso dos autos, o apelado afirmou que possuía dois caminhões semelhantes, um dos quais estava cadastrado no sistema do IBAMA, mas no dia dos fatos houve equívoco e a madeira foi carregada no veículo sem o cadastro; 2. Com relação a divergência sobre a descrição do tipo da madeira transportada, os fiscais indicaram que o veículo transportava "ripas", mas constava no DOF o material como sendo "sarrafo" e a diferença entre os produtos seria a espessura, apenas; 3 . Não restou demonstrado que o apelado auferiria vantagem ilícita ao descrever as mercadorias como "sarrafo" ou invés de "ripas" e que o material era de origem ilícita; 4. A absolvição é medida de rigor quando não há manancial probatório capaz de sustentar a condenação.
+Contra referido acórdão, foi interposto recurso especial, com base no art. 105, III, "a", da CF, no qual se alega negativa de vigência ao artigo 46, parágrafo único, da Lei nº 9.605/1988 e ao art. 299 do Código Penal, ao argumento, em síntese, de que o recorrido praticou "crime contra o patrimônio ecológico (flora), ao comercializar/transportar, sem licença válida, madeira serrada oriunda de bioma Amazônico, bem como de crime contra a fé pública, ao incluir no referido DOF informação diversa da que deveria nele constar, alterando a verdade sobre fato juridicamente relevante". Ressalta que "não pode o Recorrido atribuir aos seus funcionários as inconsistências na documentação, já que sendo ele o responsável legal da empresa, é pessoalmente obrigado a observar a legislação" (e-STJ fls. 363-380).
+O recurso especial foi inadmitido pelo óbice previsto na Súmula n. 7 do STJ (e-STJ fls. 411-419).
+Contra a decisão de inadmissão foi interposto o presente agravo (e-STJ fls. 425-434).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo, conforme razões sintetizadas na seguinte ementa (e-STJ fls. 467-470):
+AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A FLORA E FALSIDADE IDEOLÓGICA. CORTE DE ORIGEM QUE, REAPRECIANDO O ACERVO PROBATÓRIO, ENTENDEU PELA ABSOLVIÇÃO DO RÉU POR INSUFICIÊNCIA DE PROVAS. PLEITO PELA CONDENAÇÃO QUE DEMANDARIA INVIÁVEL REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 07/STJ. CONHECIMENTO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF) e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Contudo, o conhecimento do recurso especial esbarra no óbice previsto na Súmula 7/STJ, que dispõe que "A pretensão de simples reexame de prova não enseja recurso especial".
+Do voto condutor do acórdão recorrido, extraem-se as seguintes razões de decidir (e-STJ fls. 352-360):
+"Notoriamente, cumpre destacar de saída que os crimes de falsidade ideológica e transporte irregular de madeira exigem o elemento volitivo do agente em contrariar a norma cogente, dito de outra forma, o dolo.
+No caso dos autos, apesar de ser clarividente a infração administrativa, decorrente do preenchimento irregular de documento oficial, não se vislumbra a intenção do apelado em cometer os crimes imputados na denúncia, pois de acordo como os elementos colhidos nos autos de origem não indicam ter o apelado agido com dolo.
+O réu demonstrou que tinha outro veículo com caraterísticas similares cadastrado junto aos órgãos oficiais para o transporte da madeira, tendo inclusive requerido a inclusão do veículo objeto da fiscalização junto à ADEMA, mas informou não ter logrado êxito, sob a justificativa que o sistema voltado ao devolvia mensagens de erro.
+Na oitiva em Juízo, o apelado afirmou que possui 02 (dois) caminhões e que houve equívoco no momento da confecção da nota, gerando a divergência nas placas dos veículos, como constatado na fiscalização.
+Noutro mote, não se pode olvidar que o apelado ainda afirmou que empresa era nova e as informações foram inseridas no sistema do IBAMA e que usava um dos caminhões para o transporte de telhas e o outro para o transporte de madeira, mas no dia dos fatos houve equívoco e a madeira foi carregada no veículo sem o cadastro.
+Com relação a divergência sobre a descrição do tipo da madeira, não é necessário esforço argumentativo para concluir que tal divergência é de ordem administrativa, tendo os fiscais indicado que o veículo transportava "ripas", mas constava no DOF o material como sendo "sarrafo" e que a diferença seria a espessura da madeira, apenas.
+Por fim, não restou demonstrado que o apelado auferiria vantagem ilícita ao descrever as mercadorias como "sarrafo" ou invés de "ripas" e que o material era de origem ilícita.
+Logo, não ficou demonstrada a existência do dolo exigido para a caracterização dos dois delitos descritos na denúncia.
+A sentença fustigada bem apreciou os fatos, motivo porque é percuciente a transcrição nos pontos de interesse para a formação da convicção jurídica, in vrbis:
+(..)
+Ao avaliar as condutas típicas descritas na denúncia, a Exma. Magistrada de origem bem fundamentou a inexistência da conduta volitiva do apelado em perpetrar os crimes, cabendo a transcrição dos pontos e evitando tautologia, ad literris:
+(..)
+Destaque-se que, para prolação de um decreto penal condenatório, é indispensável prova robusta que dê certeza da existência do delito e seu autor, o que não se vislumbra nesse caso.
+Sabe-se que no Processo Penal Brasileiro, vigora o princípio do in dubio pro reo, retirado a partir de interpretação conferida ao disposto no artigo 386, inciso VII, do CPP, o qual impõe que, na existência de dúvida a respeito da autoria delitiva, a liberdade do acusado deve preponderar sobre a pretensão punitiva estatal.
+Assim, o princípio constitucional da presunção de inocência deve ser respeitado e a dúvida favorece a parte ré, sempre." (destaques acrescidos)
+Como se observa do trecho acima transcrito, o Tribunal de origem concluiu pela insuficiência de provas de que o recorrido agira com dolo, o que fez com base em elementos e circunstâncias do caso concreto.
+Logo, para superar as conclusões alcançadas na Corte de origem, soberana na análise dos fatos e das provas, e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ e impede a atuação excepcional desta Corte.
+Nesse sentido, aliás, confira-se o seguinte trecho do parecer ministerial de fls. 467-470 (e-STJ):
+"Como se vê, a Corte Estadual, soberana na análise das provas produzidas durante a instrução criminal, analisou minuciosamente o caso concreto, e, por não vislumbrar robustez nos elementos probatórios, reputando-os inaptos para fins de condenação do agravado pelo crime contra a flora e falsidade ideológica, decidiu pela absolvição do então apelante.
+Desse modo, como preconizado pelo Tribunal a quo, a fragilidade no acervo probatório milita em favor dos réus (in dubio pro reo).
+Ademais, para infirmar o que restou decidido pela Corte Estadual, condenando o ora agravado, seria necessária a reapreciação dos fatos e provas colacionados aos autos, o que é incabível em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+Assim, não há falar em violação aos dispositivos legais invocados.
+Ante o exposto, o Ministério Público Federal, como custos iuris, postula o não conhecimento do Agravo para não conhecer o Recurso Especial."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
