@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLEON FROTA DE SOUZA contra decisão do Desembargador Presidente do Tribunal de Justiça do Estado de Rondônia que inadmitiu o recurso especial anteriormente interposto.
+Em síntese, o agravante afirma que a decisão que inadmitiu seu recurso especial utilizou como fundamento a Súmula 83 do Superior Tribunal de Justiça, argumentando que a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida. Contudo, aduz o agravante que há decisões do egrégio STJ em sentido contrário ao acórdão impugnado, e mais recentes que os precedentes utilizados como parâmetro para a inadmissão recursal.
+O caso originou-se de recurso do Ministério Público para desconstituir a concessão de remição pela aprovação do apenado em matéria do ENEM, ao qual a 1ª Câmara Criminal do Tribunal de Justiça do Estado de Rondônia deu provimento. Contra essa decisão, a Defensoria Pública interpôs Recurso Especial, que não foi admitido.
+O agravante sustenta que, diferentemente dos precedentes citados na decisão agravada (AgRg no HC 592.511/SC, DJE 15/9/2020; AgRg no HC 753.813/SC, DJE 16/2/2023; e AgRg no HC 797.329/SC, DJE 26/05/2023), há julgados mais recentes do STJ reconhecendo o direito à remição pela aprovação no ENEM mesmo quando o apenado já tenha concluído o ensino médio anteriormente, citando especificamente: AgRg no AREsp n. 2.590.175/RO, julgado em 11/06/2024; AgRg no HC n. 829.069/SP, julgado em 24/06/2024; e outros precedentes de 2024.
+Ao final, requer o conhecimento e provimento do agravo em recurso especial para que seja admitido e provido o recurso especial, com o reconhecimento do direito do recorrente à remição decorrente de sua aprovação no ENEM (e-STJ fls. 77-82).
+O Ministério Público do Estado de Rondônia contra-arrazoou o recurso especial (e-STJ fls. 62-72), mas não se manifestou quanto ao agravo em recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial, em parecer assim ementado (e-STJ fls. 103-104):
+"EMENTA: AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA APROVAÇÃO NO ENEM. INADMISSIBILIDADE DO APELO COM BASE NA SÚMULA 83/STJ. IMPUGNAÇÃO DEFICIENTE. Parecer pelo não conhecimento do Agravo em Recurso Especial."
+É p relatório. Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial. Não se aplica, ao caso, o teor da Súmula 83 desta Corte de Justiça, porque a jurisprudência contemporânea firmou-se no sentido oposto ao que ficou decidido no acórdão recorrido.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Por fim, não se aplica ao caso o teor da súmula 7, uma vez que avaliar a legalidade dos fundamentos invocados para indeferir a remição pela aprovação no ENEM não exige o revolvimento fático e probatório, limitando-se essa Corte de Justiça a promover a revaloração jurídica dos fatos reconhecidos pelas instâncias ordinárias e a correta aplicação da lei federal no caso concreto.
+Passo a julgar, monocraticamente, o mérito do recurso especial, uma vez que o acórdão recorrido está em contradição com a jurisprudência consolidada pelo Superior Tribunal de Justiça (art. 255, § 4º, III, do RISTJ).
+O acórdão recorrido negou a remição de pena pela aprovação do paciente no ENEM de 2023, porque ele já tinha sido agraciado com a remição de pena em razão de sua aprovação no ENCCEJA 2019, pelo que o pedido da defesa traduziria bis in idem.
+Todavia, a jurisprudência dessa Corte de Justiça é no sentido de que é possível a remição em razão da aprovação no ENEM, mesmo para o reeducando que tenha sido agraciado com a remição de pena em razão de sua aprovação no ENCCEJA.
+Não há bis in idem, porque os fatos geradores são distintos e os exames possuem graus de dificuldade e finalidades distintas.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO DE PENA. APROVAÇÃO PARCIAL NO ENEM. CONCLUSÃO ANTERIOR DO ENSINO MÉDIO PELO ENCCEJA. POSSIBILIDADE. ENTENDIMENTO DESTA QUINTA TURMA. RECURSO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu remição de pena a apenado aprovado em três áreas do ENEM/2023, apesar de já ter concluído o ensino médio pelo ENCCEJA/2022.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de concessão de remição de pena pela aprovação parcial no ENEM, mesmo após a conclusão do ensino médio pelo ENCCEJA, sem configurar bis in idem.
+III. Razões de decidir
+3. A jurisprudência desta Corte reconhece que a aprovação no ENEM, mesmo após a conclusão do ensino médio, demanda esforço adicional e não configura duplicidade de benefício.
+4. O ENEM possui grau de complexidade superior ao ENCCEJA, justificando a remição de pena pela aprovação parcial.
+5. A Resolução n. 391/2021 do CNJ permite a remição de pena por aprovação no ENEM, reforçando a legalidade do benefício.
+IV. Dispositivo e tese6. Agravo regimental desprovido.
+Tese de julgamento: 1. A aprovação no ENEM permite remição de pena, mesmo após a conclusão do ensino médio pelo ENCCEJA, sem configurar bis in idem. 2. O ENEM possui complexidade superior ao ENCCEJA, justificando a remição de pena por aprovação parcial.
+Dispositivos relevantes citados: LEP, art. 126; Resolução CNJ n. 391/2021.Jurisprudência relevante citada: STJ, AgRg no HC n. 786.844/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023; STJ, AgRg no HC n. 792.658/SP, Min. Messod Azulay Neto, Quinta Turma, julgado em 1/7/2024; AgRg no HC n. 829.069/SP, Min. Daniela Teixeira, julgado em 24/6/2024.
+(AgRg no HC n. 928.497/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024, grifou-se.)
+DIREITO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA. APROVAÇÃO NO ENEM E ENCCEJA. BIS IN IDEM NÃO CONFIGURADO NO CASO CONCRETO. AGRAVO NÃO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu habeas corpus de ofício, determinando ao juízo da execução a reanálise do caso concreto para reconhecer a possibilidade de remição de penas.
+2. O Tribunal de origem negou provimento ao agravo em execução penal interposto pela defesa, mantendo o indeferimento da remição parcial pela aprovação no ENEM/2023.
+II. Questão em discussão3. A questão em discussão consiste em saber se a aprovação no ENEM e no ENCCEJA configura sempre bis in idem para fins de remição de pena, considerando que ambos os exames referem-se, de alguma forma, ao ensino médio.
+III. Razões de decidir4. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal é pacífica no sentido de que as aprovações no ENEM e no ENCCEJA não configuram bis in idem, pois possuem graus de dificuldade e finalidades distintas.
+5. A Resolução n. 391/2021 do CNJ permite a remição de pena por aprovação no ENEM, mesmo que o apenado já tenha concluído o ensino médio anteriormente, desde que não haja acréscimo de 1/3 previsto no art. 126, § 5º, da LEP.
+6. A decisão agravada foi mantida por seus próprios fundamentos, reconhecendo o direito do agravado à remição de pena por aprovação parcial no ENEM e no ENCCEJA.
+IV. Dispositivo e tese7. Agravo regimental não provido.
+Tese de julgamento: "1. As aprovações no ENEM e no ENCCEJA não configuram bis in idem para fins de remição de pena como regra. 2. A remição de pena por aprovação no ENEM é permitida, mesmo que o apenado já tenha concluído o ensino médio anteriormente, sem acréscimo de 1/3 previsto no art. 126, § 5º, da LEP.".
+Dispositivos relevantes citados: LEP, art. 126, § 5º; Resolução n. 391/2021 do CNJ. Jurisprudência relevante citada: STJ, EREsp n. 1.979.591/SP, Terceira Seção, DJe de 13/11/2023; STJ, AgRg no HC n. 786.844/SP, Quinta Turma, DJe de 13/9/2023; STJ, AgRg no REsp n. 1.995.491/MG, Sexta Turma, DJe de 13/6/2022.
+(AgRg no HC n. 953.074/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025, grifou-se.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO (ENEM). POSSIBILIDADE. ART. 126 DA LEP. FINALIDADES DISTINTAS ENTRE O ENEM E O ENCCEJA. GRAU DE COMPLEXIDADE E ESFORÇO ACADÊMICO SUPERIOR. BIS IN IDEM NÃO CONFIGURADO. JURISPRUDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A remição de pena por estudo, prevista no art. 126 da Lei de Execução Penal (LEP), objetiva incentivar a educação e a reintegração social do apenado, reconhecendo o esforço educacional durante a execução da pena.
+2. O Exame Nacional do Ensino Médio (ENEM) e o Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) possuem finalidades distintas, sendo que, desde 2017, o ENEM deixou de servir à certificação de conclusão do ensino médio, voltando-se ao ingresso no ensino superior.
+3. Não há configuração de bis in idem quando o benefício é concedido com base em exames de finalidades diferentes e que demandam graus diversos de empenho acadêmico.
+4. Precedentes desta Corte Superior amparam o reconhecimento da remição de pena por aprovação no ENEM, mesmo após o apenado ter sido beneficiado pelo ENCCEJA.
+5. Agravo regimental não provido. (AgRg no AREsp n. 2.666.739/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025, grifou-se.)
+Tratando-se de aprovação em ENEM, que é uma simples prova, não é exigível a fiscalização do período de estudo realizado pelo reeducando ou a juntada de histórico escolar completo para a concessão da remição.
+A LEP não exige, para o reconhecimento da remição da pena pela aprovação no ENEM, a fiscalização por parte do estabelecimento prisional, sendo defeso ao Magistrado indeferir o referido benefício com fundamento não previsto em lei.
+Por esses fundamentos, com base no art. 253, parágrafo único, II, "c", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para dar provimento ao recurso especial, a fim de desconstituir o acórdão recorrido e restabelecer os efeitos da decisão de primeiro grau (SEEU nº 4000100-74.2019.8.22.0019, evento 267.1, e-STJ fls. 18-20).
+Após o trânsito em julgado, comunique-se o MM Juízo da Execução Penal para cumprimento da presente decisão, anotando a remição e promovendo nova liquidação de pena.
+Publique-se. Intimem-se.
+EMENTA
