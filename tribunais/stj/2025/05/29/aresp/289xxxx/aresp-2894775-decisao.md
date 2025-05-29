@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por ITALO MENDES BRAZ contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 438):
+"AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DESASTRE AMBIENTAL. DECISÃO AGRAVADA QUE INDEFERIU A INVERSÃO DO ÔNUS DA PROVA QUANTO À CONDIÇÃO DE PESCADOR. TEMA Nº 680 DO STJ. COMPETE À PARTE AUTORA DEMONSTRAR O EXERCÍCIO DA PROFISSÃO DE PESCADOR. INVERSÃO DO ÔNUS DA PROVA QUE NÃO SE JUSTIFICA. DECISÃO AGRAVADA QUE SE ENCONTRA FUNDAMENTADA E NÃO SE MOSTRA TERATOLÓGICA. SÚMULA Nº 227 DESTE TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E NÃO PROVIDO. "
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 482-486).
+Nas razões do recurso especial (e-STJ, fls. 501-513), a agravante alega violação dos arts. 357, 373, 489 e 1.022 do Código de Processo Civil de 2015; 3º, 4º, 14º da Lei n. 6.938/1981; 6º e 17 do Código de Defesa do Consumidor; e 1º da Lei n. 8.078/1990.
+Sustentou, em síntese, ausência de prestação jurisdicional e de fundamentação, uma vez que deixou de analisar as omissões apontadas em relação à necessária inversão do ônus da prova e ao reconhecimento da condição de pescador do recorrente; afirmou que a inversão do ônus da prova aplica-se às ações de degradação ambiental.
+Foram apresentadas contrarrazões (e-STJ, fls. 518-554).
+O Tribunal a quo não admitiu o recurso especial, em razão de ausência de violação dos arts. 489 e 1.022 do CPC/2015; e da incidência das Súmulas 7 e 83 do STJ (e-STJ, fls. 814-823 ).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Quanto a alegada necessidade de inversão do ônus da prova e comprovação da condição de pescador, o Tribunal de origem, ao julgar a apelação e os embargos de declaração, consignou o seguinte (e-STJ, fls. 442-443):
+Verifica-se que a decisão agravada indeferiu a inversão do ônus da prova, ressaltando caber ao autor produzir "prova documental de forma a comprovar cabalmente a condição de pescador através de registro profissional, anteriormente ao fato, em Órgão Público competente, ainda que a emissão da carteira de pescador tenha ocorrido posteriormente, e a região de atuação". Nesse contexto, releva notar que não está evidenciado empecilho probatório, devendo a parte autora provar minimamente os aspectos fáticos de sua narrativa e incumbindo a produção das provas a quem alega.
+A inversão do ônus da prova prevista no artigo 6º, VIII, do Código de Defesa do Consumidor, diferentemente do que alega a recorrente, tem aplicação ope judicis e não ope legis, cabendo ao juiz redistribuir a carga probatória conforme o caso concreto, ainda que a relação jurídica seja regida pela legislação consumerista. Na espécie, não há necessidade de alteração da distribuição legal do ônus da prova (artigo 373 do CPC), eis que não se observa dificuldade ou impossibilidade que justifique o reequilíbrio dinâmico da produção da prova. Ou seja, não se vislumbra hipossuficiência técnica da parte autora no tocante à demonstração da sua condição de pescador.
+(..)
+Portanto, a comprovação da condição de pescador se dará a partir da apresentação de tais documentos, observando-se que, na espécie, os documentos juntados pelo agravante como indicativos de sua condição de pescador serão apreciados em momento oportuno pelo juízo a quo, que ainda não se pronunciou a respeito, tendo apenas decidido, acertadamente, pelo descabimento da inversão do ônus da prova quanto a este aspecto.
+Verifica-se que o Tribunal de origem, ao atribuir o ônus da prova quanto à condição de pescador à parte demandante, julgou em conformidade com o entendimento do STJ, incidindo a Súmula 83/STJ.
+Ressalte-se que a Súmula 618/STJ aplica-se às ações de degradação ambiental, possibilitando transferir ao suposto degradante o encargo de provas que a conduta praticada não ocasionou riscos ao meio ambiente, entretanto não dispensa a comprovação do exercício da atividade de pesca pelo degradado.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DE SEU DIREITO. NEXO CAUSAL. PROVA MÍNIMA. SÚMULA N. 83/STJ. CONDIÇÃO DE PESCADOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral.
+Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos. (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+2. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ.
+Incidência da Súmula n. 83 do STJ.
+3. Modificar as conclusões do acórdão recorrido quanto à comprovação da condição de pescadora e a existência de nexo causal requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.816.896/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
+EMENTA
