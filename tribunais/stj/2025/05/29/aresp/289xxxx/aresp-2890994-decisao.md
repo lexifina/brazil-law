@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5015440-06.2022.4.04.9999, assim ementado (fl. 439):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. CONDIÇÃO DE DEPENDENTE. MAIOR INVÁLIDO. ANTERIOR AO ÓBITO. PRESUNÇÃO RELATIVA DE DEPENDÊNCIA ECONÔMICA. TUTELA ESPECÍFICA.
+1. Os requisitos para a obtenção do benefício de pensão por morte estão elencados na legislação previdenciária vigente à data do óbito, cabendo a parte interessada preenchê-los. No caso, a parte deve comprovar: (a) ocorrência do evento morte; (b) a qualidade de segurado do de cujus e (c) a condição de dependente de quem objetiva a pensão.
+2. Configurada a invalidez do dependente anterior ao óbito do instituidor e presumida a dependência econômica do beneficiente, devido o benefício de pensão por morte.
+3. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC, sem a necessidade de um processo executivo autônomo (sine intervallo).
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 543-545).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega nulidade do acórdão em virtude da ofensa ao art. 1.022, inciso II, do Código de Processo Civil, pois a Corte a quo não teria sanado as omissões suscitadas nos embargos declaratórios. No mérito, aponta contrariedade aos arts. 16, inciso I e § 4º, 74 e 77, § 2º, inciso II, da Lei n. 8.213/91 (fls. 550-555).
+Ausentes as contrarrazões (fl. 561).
+O recurso especial foi inadmitido às fls. 564-565, seguindo-se a interposição do presente agravo.
+É o relatório.
+Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu afetar o REsp n. 2.168.455/SP, relator Ministro Afrânio Vilela, na sessão virtual com término em 29/4/2025, DJEN de 7/5/2025, à sistemática dos recursos repetitivos (TEMA N. 1341/STJ), com o fim de: "Definir se o filho maior inválido com renda auferida da concessão de benefício previdenciário pode receber o benefício de pensão por morte."
+Outrossim, há determinação de suspensão "aos processos nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ".
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese a ser fixada (Tema n. 1341/STJ), observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS. DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. TEMA N. 1341/STJ. PREJUDICADA A ANÁLISE, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
