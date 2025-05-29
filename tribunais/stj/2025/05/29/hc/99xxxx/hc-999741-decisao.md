@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIEGO SILVA RODRIGUES em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Tribunal a quo, em decisão unânime, não conheceu do habeas corpus ali apresentado pela Defesa, em acórdão cuja ementa registra (fls. 8/11):
+HABEAS CORPUS PRETENDIDA A REVOGAÇÃO DA PRISÃO PREVENTIVA AUSÊNCIA DE DOCUMENTOS HÁBEIS À ANÁLISE DO CONSTRANGIMENTO ILEGAL Habeas corpus impetrado sem documentos processuais - É firme a jurisprudência dos Tribunais Superiores no sentido de que a demonstração do constrangimento ilegal deve ser feita pelo impetrante, através de provas pré-constituídas que deem lastro probatório à análise dos autos. Não o fazendo, resta impossível o conhecimento do writ. Não conhecimento, in limine, do pedido.
+A defesa alega, em síntese, ocorrência de constrangimento ilegal, sob o argumento de que " f oi pacificado nos Tribunais Superiores que a prisão preventiva medida de exceção em nosso ordenamento jurídico tende ser renovada obrigatoriamente de forma justificada, se renovada após o prazo de 90 dias, acontecimento não ocorrido nesta ação" (fl. 8).
+Ao final, requer a "concessão do remédio heróico e conseqüente expedição de ALVARÁ DE SOLTURA, endereçado ao Centro de Detenção Provisória de Vila Independencia - São Paulo , onde o mesmo acham-se detido, agindo assim estará sendo aplicada a mais inteira e escorreita justiça, corrigindo esta sombria situação" (fl. 16).
+Liminar indeferida (fls. 28/29) e informações prestadas (fls. 34/58).
+O ilustrado representante do Ministério Público Federal, em seu parecer, manifestou-se pela denegação da ordem, em parecer cuja ementa registra:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. EXCESSO DE PRAZO. REEXAME DOS FUNDAMENTOS DA PRISÃO PREVENTIVA. CUMPRIMENTO DO ARTIGO 316 DO CPP. FALTA DE INTERESSE DE AGIR. PELO NÃO CONHECIMENTO.
+É o relatório. Decido.
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 9 85.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Inicialmente, cumpre ressaltar, por oportuno, que, da análise dos autos, verifica-se que o Tribunal a quo não conheceu do habeas corpus, não tendo analisado, por consequência lógica, a fundamentação empregada pelo Juízo de primeiro grau para fundamentar a mantença da segregação cautelar, o que impossibilita a sua análise por este Tribunal Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. TESE DE VIOLAÇÃO DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PLEITO DE APLICAÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/06. DESCABIMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em situações excepcionais de flagrante ilegalidade ou teratologia, o que não se verifica no presente caso.
+2. Quanto à suposta nulidade decorrente da violação de domicílio, verifica-se que o tema não foi analisado pela Corte de origem, uma vez que não foi suscitado em sede de apelação da defesa, o que inviabiliza, portanto, sua análise no Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A minorante prevista no artigo 33, § 4º, da Lei n. 11.343/06 não se aplica ao agente que se dedica a atividades criminosas ou integra organização criminosa, evidências devidamente comprovadas nos autos. No caso, apontou-se que o agravante realizava o comércio ilícito com regularidade, inclusive na função de gerência do tráfico no bairro em que reside, em facção criminosa que, segundo a prova oral, tem ascendência criminosa na região, não se tratando, portanto, de um episódio isolado em sua vida. Soma-se a isso, ainda, a apreensão de considerável quantidade de drogas em sua residência. Tais circunstâncias, portanto, afastam a possibilidade de aplicação do redutor de pena.
+4. Agravo regimental não provido. (AgRg no HC n. 978.149/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025)
+No mais, no que concerne à alegação de constrangimento ilegal em virtude do alegado excesso de prazo, sem razão a parte impetrante.
+Acerca das questões aqui trazidas, o Tribunal de origem, no que importa ao caso, assim se manifestou (fls. 8/11):
+ ..
+O pedido não deve ser conhecido in limine.
+A impetração não está acompanhada de nenhum documento processual, o que inviabiliza o conhecimento de eventual existência de coação ilegal.
+Com efeito, é firme a jurisprudência dos Tribunais Superiores no sentido de que a demonstração do constrangimento ilegal deve ser feita pelo impetrante, através de provas pré-constituídas que deem lastro probatório à análise dos autos. Não o fazendo, resta impossível o conhecimento do writ.
+(..)
+No mesmo sentido, já decidiu este Tribunal:
+"CASO EM QUE A IMPETRAÇÃO NÃO ESTÁ INSTRUÍDA COM AS PEÇAS NECESSÁRIAS À SUA APRECIAÇÃO.  ..  2 - No caso vertente, liminarmente, há que se indeferir este writ. Isso porque o rito do habeas corpus demanda prova pré- constituída, apta a demonstrar o constrangimento ilegal invocado, de forma que não há como se dar prosseguimento à marcha processual, vez que a ausência dessa inviabiliza a apreciação do pedido. (TJSP, Habeas Corpus nº 2099404-87.2023.8.26.0000, 8ª Câmara de Direito Criminal, Rel. Marco Antônio Cogan, j. 05.03.2023)"
+Ante o exposto, não conheço do pedido.
+Com relação aos prazos consignados na lei processual, a jurisprudência de ambas as turmas criminais desta Corte orienta que o julgador deve atentar às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência da indevida coação.
+No presente caso, consta das informações prestadas pelo Tribunal de origem que, em data de 11 de março de 2025, "o Juiz, diante do quanto estabelece o artigo 316, parágrafo único do Código de Processo Penal, reexaminou a necessidade da manutenção da prisão preventiva do acusado e, assinalando não haver nenhum fato novo que justificasse qualquer alteração, manteve a prisão do paciente. Informo ademais que o processo está concluso para sentença" (fl. 35), pelo que, ao contrário do que alegado na presente impetração, denota que o feito está com o trâmite normal, não se vislumbrando, portanto, desídia ou morosidade por parte das instâncias ordinárias.
+A jurisprudência desta Corte é firme no sentido de que não há ilegalidade na duração da prisão preventiva quando o processo tramita de forma regular. No caso dos autos, não se verifica mora processual injustificada.
+Conforme ressaltado pelo ilustrado representante do Parquet Federal, em sua manifestação (fls. 62/64, sem grifos no original):
+Ordem não pode ser conhecida.
+Tribunal de Justiça informou que, em 11 de março de 2025, Juízo reexaminou necessidade de manutenção da prisão preventiva do paciente (fls. 35). Na ocasião, decidiu-se pela inexistência de fato novo que justificasse revogação da custódia. Inicial do habeas corpus foi protocolada em 28 de abril de 2025 (fls. 02). Falta interesse de agir na pretensão da defesa.
+De todo modo, o descumprimento dos prazos estabelecidos no artigo 316 do Código de Processo Penal não implica automaticamente ilegalidade da prisão. Confira-se:
+(..)
+Por fim, há tramitação regular do processo, que está concluso para sentença desde 12 de março de 2025, conforme informações colhidas no sítio eletrônico do Tribunal de Justiça do Estado de São Paulo (em 20 de maio de 2025).
+O Ministério Público Federal aguarda não conhecimento do habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
