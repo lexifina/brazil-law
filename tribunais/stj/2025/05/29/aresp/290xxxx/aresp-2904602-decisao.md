@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por MARIA VITÓRIA RODRIGUES DA SILVA e Outros com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (e-STJ Fl.209):
+"AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E DIREITO CONSTITUCIONAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EXTINÇÃO DO PROCESSO EM RELAÇÃO AOS RECORRENTES EM RAZÃO DA HOMOLOGAÇÃO DE ACORDO APÓS ADESÃO AO PROGRAMA DE COMPENSAÇÃO FINANCEIRA. ACORDO CELEBRADO NOS AUTOS DE AÇÃO CIVIL PÚBLICA. PACTO QUE ABRANGE O OBJETO DA AÇÃO INDENIZATÓRIA. PRECEDENTES. DECISÃO MANTIDA. NÃO APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. CONDUTA IMPUTADA AO CAUSÍDICO DO AGRAVANTE. ENVIO DE OFÍCIO À COMISSÃO DE ÉTICA DA OAB. RECURSO CONHECIDO E NÃO PROVIDO."
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustentam os recorrentes, ora agravantes, que o Tribunal a quo, ao manter a extinção do processo sem resolução do mérito diante da homologação do acordo coletivo, negou acesso à justiça e violou os arts. 186 e 927 do Código Civil e art. 14, §1º, da Lei 6.938/1991, na medida em que o acordo celebrado não abrange todas as questões suscitadas na presente ação indenizatória, notadamente o dano moral, que é individual e personalíssimo.
+Obtemperam que o acordo coletivo restringe direitos sociais e contém cláusula leonina, além do que não garantiu os honorários de advogado, conforme previsto no Estatuto da OAB.
+As contrarrazões ao recurso especial foram apresentadas a fls. 315/346.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em agravo de instrumento interposto contra sentença que extinguiu o processo sem julgamento do mérito em relação aos recorrentes, em razão de coisa julgada, qual seja acordo coletivo homologado perante à Justiça Federal.
+A questão recursal gira em torno do direito à indenização por danos morais.
+No presente caso, extrai-se do acórdão recorrido que a extinção do processo se deu em relação aos Autores, ora Agravantes.
+O Tribunal a quo consignou (e-STJ Fls.215/216) que as partes ora litigantes formalizaram acordo individual extrajudicial, devidamente homologado, o qual abrangeu indenizações de quaisquer natureza.
+Em verdade, a desconsideração de acordo homologado judicialmente, por supostos vícios de consentimento, deve ser realizada por meio de ação própria, conforme orientação da jurisprudência.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA DE VÍCIOS NO JULGADO. HOMOLOGAÇÃO DE ACORDO JUDICIAL. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. SÚMULAS 5, 7 E 568/STJ. PEDIDO DE SOBRESTAMENTO INDEFERIDO. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial para, na extensão do conhecimento parcial do recurso especial, negar-lhe provimento. Insistem as agravantes na ofensa ao art. 1.022 do CPC e sustentam não ser aplicável a Súmula 7/STJ. Pleiteiam, ainda, o sobrestamento do feito em razão de fato novo consistente em ação civil pública proposta pela Defensoria Pública de Alagoas e alegações de inadequação dos acordos firmados pela Braskem. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se houve violação ao art. 1.022 do CPC por causa de suposta negativa de prestação jurisdicional;
+(ii) analisar a possibilidade de sobrestamento do feito diante de fatos novos, incluindo ação civil pública e investigações internacionais, em contraposição ao trânsito em julgado de acordo judicial homologado.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem não incorre em negativa de prestação jurisdicional ao adotar fundamentação suficiente para decidir a controvérsia, ainda que diversa da pretendida pela parte recorrente, conforme entendimento consolidado desta Corte.
+4. A ausência de vícios no acórdão recorrido, como obscuridade, omissão ou contradição, impede o reconhecimento de violação do art. 1.022 do CPC.
+5. O reexame de fatos e provas, bem como de cláusulas contratuais constantes do acordo judicial homologado, encontra óbice nas Súmulas n. 5 e 7/STJ.
+6. A desconsideração de acordo homologado judicialmente, por supostos vícios de consentimento, deve ser realizada por meio de ação própria, conforme jurisprudência desta Corte (Súmula n. 568/STJ).
+7. Quanto ao pedido de sobrestamento, prevalece o trânsito em julgado do acordo homologado, sendo indevido suspender o feito para aguardar desfecho incerto de ação civil pública superveniente, em respeito aos princípios da celeridade e eficiência processual.
+IV. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 2.709.741/AL, Rel. Ministro CARLOS CINI MARCHIONATTI (DESEMBARGADOR CONVOCADO TJRS), TERCEIRA TURMA, julgado em 17/02/2025, DJe de 20/02/2025)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. SÚMULAS 5 E 7/STJ. DISCUSSÃO ACERCA DA EXISTÊNCIA DE VÍCIO EM ACORDO HOMOLOGADO JUDICIALMENTE. AÇÃO ANULATÓRIA. COBRANÇA DE HONORÁRIOS CONTRATUAIS. AÇÃO PRÓPRIA. SÚMULA 568/STJ.
+1. Ação de compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Eventual alegação de vício em acordo homologado judicialmente deve ser deduzida por meio de ação anulatória. Precedentes.
+5. Cabe ao recorrente discutir, em ação própria, a questão relativa aos honorários contratuais devidos pela parte ao seu patrono. Precedentes.
+6. Agravo interno não provido."
+(AgInt no AREsp 2.505.625/AL, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/02/2025, DJe de 20/02/2025)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. SÚMULAS 5 E 7 /STJ. DISCUSSÃO ACERCA DA EXISTÊNCIA DE VÍCIO EM ACORDO HOMOLOGADO JUDICIALMENTE. AÇÃO ANULATÓRIA. COBRANÇA DE HONORÁRIOS CONTRATUAIS. AÇÃO PRÓPRIA. SÚMULA 568/STJ.
+1. Ação de compensação por danos morais.
+2. O propósito recursal consiste em decidir se (I) houve negativa de prestação jurisdicional; (II) o acordo firmado nos autos de ação civil pública, que tramita na Seção Judiciária de Alagoas, abrange os danos morais apontados pelo recorrente, (iii) há cláusula leonina no citado acordo e (iv) se é viável a retenção, a título de honorários, de 20% (vinte por cento) sobre o valor da causa, em virtude de possível descumprimento de contrato celebrado entre advogado e seu respectivo constituinte.
+3. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Incidência da Súmula 284/STF.
+4. A Corte de origem decidiu as questões acerca da ausência de interesse de agir do recorrente e da ausência de irregularidade na formalização do acordo com respaldo nas peculiaridades fático-probatórias dos autos. Pretensão recursal que demanda reexame de provas e de cláusula pactuada em acordo homologado judicialmente.
+5. Eventual alegação de vício em acordo homologado judicialmente deve ser deduzida por meio de ação anulatória. Súmula 568/STJ.
+6. Cabe ao recorrente discutir, em ação própria, a questão relativa aos honorários contratuais devidos pela parte ao seu patrono.
+8. Recurso especial parcialmente conhecido e, nessa extensão, não provido." (REsp 2.157.064/AL, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/11/2024, DJe de 27/11/2024)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS EM DECORRÊNCIA DE AFUNDAMENTO DO SOLO EM ÁREA DE ATIVIDADE DE MINERAÇÃO DA BRASKEM. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL NO QUAL A PARTE AUTORA DEU QUITAÇÃO IRREVOGÁVEL REFERENTE A TODOS OS DANOS RELATIVOS AOS FATOS NARRADOS NA AÇÃO CIVIL PÚBLICA, OS QUAIS COINCIDEM COM OS FATOS NARRADOS NA PRESENTE AÇÃO INDIVIDUAL. ATO JURÍDICO PERFEITO. REDISCUSSÃO DE CLÁUSULAS DO ACORDO NOS AUTOS DA AÇÃO INDENIZATÓRIA. IMPOSSIBILIDADE. COBRANÇA DE HONORÁRIOS CONTRATUAIS. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA.
+1. Agravo interno contra decisão que negou provimento ao agravo em recurso especial por entender que incidiria, no caso, o óbice da Súmula 7 do STJ. Reconsideração.
+2. Não há que se falar em ofensa ao art. 1.022 do CPC/2015 se o Tribunal de origem se pronunciou suficientemente sobre as questões postas em debate, apresentando fundamentação adequada à solução da controvérsia, sem incorrer em nenhum dos vícios mencionados no referido dispositivo de lei.
+3. Nos termos da jurisprudência do STJ, não pode ser desconsiderado acordo celebrado entre as partes, sob pena de ofensa a ato jurídico perfeito. Precedentes.
+4. A desconsideração de acordo homologado judicialmente, por suposto vício de consentimento, depende do ajuizamento de ação própria em que se busque, expressamente, a sua anulação. Precedentes.
+5. Segundo a jurisprudência desta Corte, em havendo conflito entre as partes e seus advogados, a questão relativa aos honorários contratuais deve ser discutida em ação própria. Precedentes.
+6. Agravo interno a que se dá provimento para reconsiderar a decisão de fls. 552/557 e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp 2.431.438/AL, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/05/2024, DJe de 16/05/2024)
+Dessa forma, conclui-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial. Sem majoração da verba advocatícia sucumbencial, na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Publique-se.
+EMENTA
