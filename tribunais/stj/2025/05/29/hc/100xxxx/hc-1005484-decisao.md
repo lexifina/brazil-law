@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HILTON SOUTO MAIOR NETO, apontando como autoridade coatora Desembargador do Tribunal de Justiça da Paraíba, nos pedidos de tutela cautelar penal (Processos n. 0806250-51.2025.8.15.0000 e n. 0806823-89.2025.8.15.0000).
+Em seu arrazoado, o impetrante aponta a ocorrência de cerceamento de defesa e violação à Súmula Vinculante n. 14, diante da recusa reiterada da autoridade policial e judicial em franquear o acesso aos autos da investigação.
+Alega que a negativa de acesso aos autos se prolonga de maneira injustificada desde 19 de maio, causando prejuízo processual manifesto e agravado pelo decurso do tempo.
+Aduz que deve ser respeitado o sigilo profissional relacionado ao exercício da advocacia e aponta a necessidade de manutenção do sigilo integral do inquérito.
+Pugna pela concessão da medida liminar para determinar que não seja realizada a extração de dados do aparelho celular do paciente; para se conferir o acesso da defesa aos autos do inquérito e de processos cautelares a ele vinculados; e para que seja preservado o sigilo integral do inquérito.
+No mérito, requer a confirmação da pretensão liminar de proteção ao sigilo profissional, limitando-se eventual análise de dados do aparelho celular exclusivamente às informações diretamente relacionadas ao objeto da investigação, mediante decisão judicial devidamente fundamentada, conforme o entendimento consolidado do Supremo Tribunal Federal e com a consequente devolução do aparelho apreendido.
+É o relatório.
+Decido.
+O presente writ se volta contra decisão singular do Relator, a qual deveria ter sido impugnada por agravo interno, a fim de devolver a questão ao colegiado competente, nos termos do art. 105, inciso I, alíneas a e c, da Constituição da República.
+Com efeito, "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2018, DJe 5/4/2018).
+É " u níssona a jurisprudência desta Corte Superior no sentido de que o habeas corpus aqui impetrado somente será analisado quando exaurida a instância ordinária, o que não ocorreu no caso concreto." (AgRg no HC n. 782.477/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 2/3/2023).
+De todo modo, quanto ao sigilo profissional, cumpre asseverar que  a  proteção do art. 7º, II e § 6º, da Lei nº 8.906/94 deve ser entendida em favor da atividade da advocacia e do sigilo na relação com o cliente, não podendo ser interpretada como obstáculo à investigação de crimes pessoais, e que não dizem respeito à atividade profissional desenvolvida. Precedentes". (AgRg no RHC n.161.536/MG, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ªRegião, Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+No tocante à suposta recusa de acesso aos autos da investigação e a consequente violação à Súmula Vinculante n. 14, não há nenhuma menção acerca desse tema na decisão impugnada, tornando inviável a análise da efetiva ocorrência do alegado cerceamento de defesa.
+Quanto à preservação do sigilo integral do inquérito, verifica-se que o Desembargador Relator, ao deferir a postulação do Ministério Público para decretar as medidas de busca e apreensão e quebra de sigilo bancário, fiscal, telefônico e telemático, em desfavor do ora paciente e outros investigados, decretou o sigilo do feito até a efetivação das medidas, conforme se observa à fl. 50, e-STJ .
+Sendo assim, a presente impetração não comporta acolhimento.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
