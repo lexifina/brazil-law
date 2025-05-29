@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de EVA MARTINS GUILHERME, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2079194-44.2025.8.26.0000 (fls. 18/28).
+Colhe-se dos autos que a paciente foi denunciada por homicídio qualificado tentado e ameaça, tendo sido fixadas medidas cautelares quando do recebimento da denúncia (Processo n. 1500655-67.2024.8.26.0094 - fls. 37/38).
+Formulado pedido de revogação das restrições, foi indeferido (fls. 45/46).
+Busca a presente impetração a revogação das medidas cautelares impostas à paciente, por ausência de fundamentação e contemporaneidade (5 meses após os fatos), bem como porque a paciente possui predicados favoráveis, como primariedade e residência fixa.
+Requer, liminarm ente e no mérito, a revogação das medidas cautelares.
+Constatadas divergências no nome da paciente em várias peças nos autos, foi solicitada a juntada d e documento de identidade atualizado, o que foi realizado (fls. 85/89) e retificada a autuação.
+É o relatório.
+O presente writ não comporta processamento.
+Inexiste o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação das medidas impostas à paciente.
+No caso, o Tribunal estadual, ao convalidar a decisão do Juízo singular e manter as medidas cautelares anteriormente impostas, concluiu que (fl. 27 - grifo nosso):
+ ..
+Observe-se que, além dos indícios de autoria e prova da materialidade, estão presentes os demais requisitos necessários para a aplicação das medidas cautelares, q ue se destinam a minimizar a ocorrência de danos de difícil reparação, evitando, de outro lado, a segregação cautelar, bem como garantindo a aplicação da lei penal e com fim de evitar a prática de novos crimes, bem como preservar a vítima. Dessa forma, a situação é, de fato, benéfica para a paciente.
+ ..
+Pois bem. Da leitura do trecho acima vê-se que as medidas cautelares não se mostram desproporcionais ou desarrazoadas, ao contrário, são necessárias para a garantia da ordem pública - pois a paciente tentou matar o próprio filho e, sem êxi to, o ameaçou de morte, motiva da por anterior desavença banal por questões patrimoniais (fl. 31) -, conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+Ora, sobre a matéria em discussão nestes autos, é pacífico o entendimento do Superior Tribunal de Justiça de que, "diante das circunstâncias concretas do caso e em observância à proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal" (AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022) - (AgRg no RHC n. 176.377/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023).
+Nesse sentido, confira-se: AgRg no HC n. 565.227/PB, Ministra Laurita Vaz, Sexta Turma, DJe 6/8/2020.
+Ademais, a manutenção das cautelas impostas é compatível com os princípios da razoabilidade, proporcionalidade e adequação, pois foram estabelecidas de forma suficiente para garantir a efetividade do processo penal. Além disso, ajustam-se plenamente à situação concreta, e sua revogação, neste momento, é prematura, podendo ser reavaliadas posteriormente. A propósito, por exemplo, o AgRg no RHC n. 162.853/SC, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 7/6/2022, DJe de 20/6/2022 - grifo nosso ).
+Em face do e xposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO . AMEAÇA. FIXAÇÃO DE MEDIDAS CAUTELARES PELO JUÍZO. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE E RAZOABILIDADE DAS MEDIDAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
