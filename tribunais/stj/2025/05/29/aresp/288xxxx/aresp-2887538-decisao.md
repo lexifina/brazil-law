@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial está motivada na incidência da Súmula 83/STJ. Todavia, a parte agravante não impugnou, especificamente, a referida fundamentação, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Frisa-se, por oportuno, que a adequada impugnação à Súmula 83/STJ exige da parte que esta desenvolva uma argumentação demonstrando sua inaplicabilidade e, concomitantemente, colacione julgados do STJ - atuais - em sentido contrário ao do acórdão recorrido, é dizer, no mesmo sentido da tese defendida no recurso especial cuja ascensão é buscada.
+Na espécie, conquanto a parte tenha sustentado a inaplicabilidade do óbice sumular e indicado precedentes no seu agravo em recurso especial, verifica-se que tais julgados não dizem respeito à situação específica dos autos.
+Veja-se que foi assentado na decisão obstativa que a exceção de pré-executividade foi acolhida para extinguir o processo sem resolução de mérito em vista da ocorrência de litispendência, caso em que não há falar em proveito econômico, sendo por isso autorizada a fixação honorária na forma do art. 85, §8º, do CPC/2015, conforme a jurisprudência do STJ. Foram então apontados dois julgados desta Corte Superior sobre essa mesma situação fática, dos anos de 2021 e 2024 (AgInt no REsp 1.807.900/RS e AgInt no AREsp 2.394.964/PE). A agravante, de sua feita, trouxe precedentes que tratam da fixação de honorários em circunstâncias diversas, uma parte deles inclusive anterior aos indicados na decisão então agravada.
+Ora, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que, a bem de ver, não ocorreu no caso dos autos.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
