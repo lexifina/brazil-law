@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de EDMILSON PEDRO RODRIGUES em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2149881-46.2025.8.26.0000.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O impetrante sustenta que a decisão que converteu a prisão em flagrante em preventiva está em desacordo com o artigo 315, §2º, incisos I, II e III, do Código de Processo Penal, por não indicar de forma idônea a imprescindibilidade da prisão preventiva à luz do caso concreto, utilizando razões genéricas e abstratas.
+Alega que a custódia cautelar é desproporcional, considerando a ínfima quantidade de droga apreendida e o fato de o réu ser primário, além de não haver demonstração concreta de periculum libertatis.
+Afirma que a decisão violou o princípio constitucional da presunção de inocência, ao considerar um processo ainda não transitado em julgado como justificativa para a prisão preventiva.
+Requer, assim (fl. 05):
+a) a concessão da MEDIDA LIMINAR para relaxar a prisão ilegal, ou, subsidiariamente, substituir a prisão preventiva destas, pelas medidas cautelares do artigo 319 do CPP até o julgamento de mérito deste writ, bem como seja expedido com extrema urgência o competente ALVARÁ DE SOLTURA CLAUSULADO;
+b) NO MÉRITO, após as informações a serem prestadas pela autoridade coatora, que seja CONCEDIDA A ORDEM para relaxar a prisão ilegal, subsidiariamente, revogar a prisão preventiva definitivamente, para o paciente responder ao processo em liberdade, subsidiariamente, que permaneça a aplicação das medidas cautelares diversas. Por fim, caso não seja conhecido o pedido de habeas corpus, que então seja a ordem concedida de ofício, diante da manifesta ilegalidade (CRFB/88, art. 5º, LXVIII; CPP, art. 654, §2.º).
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que:
+Importa considerar, a propósito, que a r. decisão de primeiro grau de jurisdição, que converteu a prisão em flagrante em preventiva, em tese, está motivada, com a consideração da gravidade concreta do crime em questão e das condições pessoais desfavoráveis do paciente, que, embora tecnicamente primário, conta com condenação recente pelo crime de tráfico de drogas (fl. 7/9). Não é demais anotar, também, que, pelo que verte dos elementos de convicção colhidos na fase extrajudicial da persecução penal, em especial, os testemunhos dos policiais civis, a apreensão de droga decorreu do cumprimento de mandado de busca e apreensão e o paciente já era conhecido por seu envolvimento com o tráfico de drogas, de modo que, em caso de eventual condenação pelo crime de tráfico, não há como se reconhecer, inequivocamente, que fará jus a benefício que importe em liberdade.
+Assim, prematura a apreciação da matéria em questão na esfera de cognição sumária própria do presente momento inicial da persecução penal. De rigor, portanto, a análise de todas as circunstâncias da presente espécie, consideradas suas peculiaridades, com o objetivo de verificar a legalidade e até mesmo a razoabilidade do ato tido como ilegal. Posteriormente, com as informações, será possível avaliar todos os aspectos da presente impetração. (fl. 7/8)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
