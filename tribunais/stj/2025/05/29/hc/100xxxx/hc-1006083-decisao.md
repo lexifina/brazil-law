@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Mohamed Jamel do Carmo Passos, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo, que denegou o Habeas Corpus criminal n. 5004016-39.2025.8.08.0000, mantendo a prisão preventiva do paciente pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa sustenta a ausência de fundamentos idôneos a justificar a medida constritiva.
+Discorre sobre as condições pessoais favoráveis do paciente, réu primário, bons antecedentes, residência fixa, atividade lícita, além de ser pai de uma criança de 2 meses de idade (fl. 5).
+Requer, assim, a concessão liminar da ordem, para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Infere-se dos autos que a prisão preventiva do paciente foi decretada com fundamento na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta evidenciada pela diversidade de entorpecentes que trazia consigo ou mantinha sob sua guarda (fl. 35).
+Mantendo a constrição cautelar, o Tribunal de Justiça destacou (fls. 21/22):
+ ..  Logo, da documentação constante nos autos, verificam-se presentes a demonstração da materialidade e dos indícios suficientes de autoria delitiva por parte do paciente, restando comprovado, assim, o fumus comissi delicti necessário para a decretação da custódia cautelar.
+Destaca-se, ademais, que tais questões serão devidamente debatidas, de forma aprofundada, perante o juízo de conhecimento, momento oportuno para discussão probatória exaustiva. Quanto ao periculum libertatis, entendo que esse persiste em razão da necessidade de garantia da ordem pública, tendo em vista a gravidade concreta do crime supostamente praticado, especialmente em razão da quantidade, variedade e natureza das drogas apreendidas.
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, entendo desproporcional a medida mais gravosa; o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão - 9 unidades de maconha, 89 pedras de crack e 79 pinos de cocaína -, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 9 UNIDADES DE MACONHA, 89 PEDRAS DE CRACK E 79 PINOS DE COCAÍNA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
