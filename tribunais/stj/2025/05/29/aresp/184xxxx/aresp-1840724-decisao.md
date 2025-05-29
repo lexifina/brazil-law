@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIVERE 3 SPE INCORPORAÇÃO IMOBILIÁRIA LTDA contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão assim ementado (fls. 36):
+"AGRAVO DE INSTRUMENTO. AÇÃO ORIGINÁRIA NULIDADE COM PEDIDO CUMULADO DECLARATÓRIO DE COM OBRIGAÇAO DE FAZER. TUTELA DECISÃO QUE INDEFERIU O PEDIDO DE PROVISÓRIA DE URGÊNCIA. PARTE AGRAVANTE QUE PRETENDE CONVENÇÃO A ANULAÇÃO DE CLÁUSULA DE CONDOMINIAL QUE ISENTA A INCORPORADORA DO PAGAMENTO DAS COTAS CONDOMINIAIS PROPRIEDADE. DAS UNIDADES DE SUA PRESENTE A PROBABILIDADE DO DIREITO, CONSIDERANDO O ENTENDIMENTO PACIFICADO NA NESTE TRIBUNAL CORTE SUPERIOR, BEM COMO DE JUSTIÇA ACERCA DA ILEGALIDADE DA ALUDIDA CLÁUSULA. NO MESMO SENTIDO, PRESENTE O PERIGO DE DANO PELAS PELA IRREPARÁVEL, CONSUBSTANCIADO DIFICULDADES FINANCEIRAS CAUSADAS INADIMPLÊNCIA DAS COTAS CONDOMINIAIS DOS LOTES DE PROPRIEDADE DA PARTE AGRAVADA. PARTE AGRAVANTE QUE LOGROU DEMONSTRAR ENSEJADORES REQUERIDA, A EXISTÊNCIA DOS REQUISITOS DA CONCESSÃO DA TUTELA ARTIGO CONFORME ENUNCIA O 300 DO CPC. REFORMA DA DECISÃO AGRAVADA QUE SE IMPÕE. PRECEDENTES DO E. STJ E DESTE TJRJ. RECURSO AO QUAL SE DÁ PROVIMENTO".
+Nas razões do apelo nobre (fls. 65-74), VIVERE 3 SPE INCORPORAÇÃO IMOBILIÁRIA LTDA alega, além de divergência jurisprudencial, violação aos arts. 927, III, 932, V, e 1.019, II, do CPC/15, afirmando, em síntese, que o "(..) acórdão está em desconformidade com o entendimento sedimento pelo Col. STJ no julgamento do recurso especial paradigma REsp 1.280.871/SP, sob a sistemática dos recursos repetitivos, no sentido de que as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (fls. 66 - destaques no original).
+Intimada, ASSOCIAÇÃOVIVERDE 3 RIO DAS OSTRAS apresentou contrarrazões (fls. 158-191), pelo desprovimento do recurso.
+O apelo nobre foi inadmitido (decisão às fls. 207-210), ao fundamento, entre outros, de que o recurso encontra óbice na Súmula n. 735/STF.
+Sobreveio o manejo do agravo em recurso especial (fls. 222-233) em testilha.
+Também foi oferecida contraminuta (fls. 240-273), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+O apelo não merece prosperar.
+No caso dos autos, o eg. TJ-RJ, com arrimo no acervo fático-probatório carreado aos autos, reformando decisão interlocutória, concluiu pela presença dos requisitos necessários à concessão da tutela de urgência em favor da parte ora Agravada. É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 37-42):
+"Trata-se de agravo de instrumento interposto por ASSOCIAÇÃO VIVERDE 3 RIO DAS OSTRAS, insurgindo-se contra a decisão proferida pelo Juízo da 2a Vara da Comarca de Rio das Ostras, que indeferiu tutela provisória de urgência visando autorizar que o condomínio autor efetue a cobrança das cotas condominiais dos lotes sob propriedade da parte agravada.
+(..)
+Com efeito, em sede de cognição sumária, cabe ao Juiz da causa aferir a relevância do direito alegado (fumus boni 1 -uris), o perigo na demora (periculum in mora), bem como a possibilidade de dano irreparável, sendo que, o juízo a quo entendeu por indeferir a liminar por considerar ausente o perigo de dano, vez que a incorporadora nunca pagou as cotas das unidades de sua responsabilidade.
+Analisando o mérito, razão assiste ao recorrente.
+A probabilidade do direito está presente, vez que é assente o entendimento da Corte Superior de Justiça, bem como deste Tribunal, que a aludida cláusula disposta na convenção condominial é inválida, vez que estabelece um privilégio em favor da incorporadora, impondo oneração excessiva aos demais condôminos. Confira-se:
+(..)
+De outra ponta, o perigo de dano encontra-se devidamente caracterizado, podendo ser irreversível, vez que a situação de hipossuficiência do condomínio vem se agravando com o decurso do tempo, podendo inviabilizar os serviços de conservação do condomínio, considerando a desproporcionalidade do rateio das despesas causada pela aludida cláusula.
+Não resta a menor dúvida que é dever dos condôminos contribuir para as despesas de manutenção do condomínio na proporção de suas frações ideais, à luz do que dispõe o Código Civil em seu artigo 1.336, I, senão vejamos:
+(..)
+Apesar da permissão legal prevista na parte final do citado dispositivo, que autoriza os condôminos estabelecer outros critérios para determinar o rateio, observa-se que, em sede de cognição sumária, ao estabelecer unilateralmente a cláusula discutida na demanda originária a parte agravada onerou excessivamente os demais condôminos.
+Vale dizer que, para o deferimento da antecipação da tutela, cabe a aferição do momento processual mais propício para o seu enfrentamento, seja antes ou depois da oitiva da parte contrária e, é necessário que autor comprove a presença dos elementos autorizadores da medida de urgência previstos no artigo 300 do novo CPC:
+(..)
+Desta feita, presentes a probabilidade do direito e o perigo de dano, requisitos autorizadores do artigo 300 do CPC, merece prosperar o presente recurso, devendo ser reformada a decisão atacada.
+Diante destas considerações, voto no sentido de DAR PROVIMENTO AO RECURSO, CONCEDENDO A TUTELA PROVISÓRIA DE URGÊNCIA, nos termos do artigo 300, § 2º c/c artigo 299, parágrafo único, ambos do CPC, para autorizar que o condomínio autor efetue a cobrança das cotas condominiais vincendas relativas às unidades sob propriedade da parte agravada." (g. n.)
+Com efeito, a jurisprudência do eg. STJ, em consonância com o entendimento firmado pelo col. STF na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela. . Em tais hipóteses, admitindo-se, tão-somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam a tutela de urgência, os quais, no caso, sequer foram apontados como violados. Nessa linha de intelecção, confiram-se os recentes precedentes:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE. PROMESSA DE COMPRA E VENDA. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. TUTELA DE URGÊNCIA. REQUISITOS. SÚMULA N. 735 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+(..)
+3. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do S
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.000.897/PA, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.130.128/GO, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023 - g. n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DE TUTELA DE URGÊNCIA. INCIDÊNCIA DA SÚMULA N. 735 DO STF. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 300 DO CPC. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.075.131/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" do RJ-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
