@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de tutela de urgência, ajuizada por A D F L (MENOR), em face da agravante, na qual alega ser diagnosticado com transtorno do espectro autista (TEA) e busca compelir a requerida de a arcar com os custos da continuidade de seu tratamento junto à clínica R&R Integrar Psicologia e Saúde Ltda., então descredenciada do plano de saúde (e-STJ, fls. 157/158).
+Acórdão recorrido: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - DIAGNOSTICADO COM TRANSTORNO DO ESPECTRO AUTISTA, O PACIENTE FAZ TRATAMENTO MULTIDISCIPLINAR EM CLÍNICA ESPECIALIZADA - OPERADORA DE PLANO DE SAÚDE QUE DESCREDENCIOU A CLÍNICA E NÃO COMPROVOU QUE O ATENDIMENTO SERÁ MANTIDO POR PRESTADOR DE SERVIÇO CAPACITADO E ACESSÍVEL AO BENEFICIÁRIO - PRETENSÃO DE SUSPENSÃO DO TRÂMITE PROCESSUAL DEVIDO AO AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PELO MINISTÉRIO PÚBLICO PARA APURAR A REGULARIDADE DOS DESCREDENCIAMENTOS EFETUADOS - CAUSA DE PEDIR E PEDIDO DISTINTOS - PREJUDICIALIDADE EXTERNA NÃO COMPROVADA - O AJUIZAMENTO DE AÇÃO COLETIVA NÃO OBSTA O PROSSEGUIMENTO DA AÇÃO INDIVIDUAL (CDC, ART. 104) - PRECEDENTE - DECISÃO MANTIDA - AGRAVO DESPROVIDO. (e-STJ, fl. 156)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da:
+i) não demonstração de violação do art. 313, V, "a", CPC; e
+ii) ausência de realização de cotejo analítico entre os acórdãos confrontados para fins de demonstração de dissídio jurisprudencial (e-STJ, fls. 147/149).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) a demonstração de violação do art. 313, V, "a", CPC, pois "(..) é necessário que a ação individual se revolva de cautela e aguarde a promoção do julgamento que está na iminência de ser prolatado na Ação Coletiva em apreço, vedando a produção de entendimentos judiciais conflitantes entre si e injustamente prejudiciais a um dos litigantes." (e-STJ, fl. 250); e
+ii) que "(..) passa-se a evidenciar que a Agravante não se limitou a transcrever ementas sem proceder o devido cotejo analítico. Sobre a matéria em si, restou consignado no presente recurso que pelo E. Tribunal de Justiça do Estado de Minas Gerais é apresentado um entendimento mais condizente com o que determina a lei, acerca da possibilidade de suspensão de ações individuais em razão de ajuizamento de Ação Civil Pública." (e-STJ, fl. 252).
+Parecer do Ministério Público Federal: da lavra do i. Subprocurador-Geral da República Mauricio Vieira Bracks, opina pelo não conhecimento do agravo em recurso especial (e-STJ, fls. 282/283).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: ausência de realização de cotejo analítico entre os acórdãos confrontados para fins de demonstração de dissídio jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
