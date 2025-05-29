@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por ADEMILTON FIRMINO DOS SANTOS contra decisão de fls. 474-477, que inadmitiu o recurso especial com fundamento na Súmula 7 do Superior Tribunal de Justiça, que impede o reexame de provas.
+O recorrente foi condenado pelo juízo de primeiro grau, como incurso no art. 33 da Lei 11.343/06 e art. 16, § 1º, inciso IV, da Lei 10.826/03, à pena 11 anos de reclusão, em regime fechado. Em sede de apelação, a pena foi reduzida a 8 anos e 2 meses de reclusão, em regime inicial fechado, e 816 dias-multa.
+No agravo em recurso especial, a parte sustenta que a decisão de inadmissibilidade do recurso especial foi equivocada, pois não se trata de reexame de provas, mas de violação ao art. 59 do Código Penal e ao art. 33, § 4º, da Lei 11.343/06 (fls. 487-496).
+No recurso especial, sustenta-se violação dos arts. 59 do Código Penal e 33, § 4º, da Lei 11.343/06, aduzindo que a dosimetria da pena foi desproporcional e que o tráfico privilegiado deveria ter sido aplicado (fls. 430-454).
+Requer o provimento do recurso, a fim de que seja absolvido dos crimes imputados, ou subsidiariamente, que seja aplicada a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, em seu patamar máximo, e que seja ajustada a dosimetria da pena, fixando a pena base no mínimo legal, além de realizar a detração penal e readequar o regime inicial de cumprimento para o semiaberto.
+Contraminuta apresentada (fls. 510-518).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo não conhecimento do recurso especial, conforme a ementa a seguir (fl. 538):
+Agravo em recurso especial. Penal. Tráfico de drogas. Condenação. Pedido de absolvição por insuficiência probatória. Pena-base no mínimo legal. Aplicação da minorante de tráfico privilegiado. Alteração de regime inicial de cumprimento da pena. Impossibilidade. Súmulas 07 e 83 do STJ. Ausência de impugnação específica. Súmula 182/STJ. Reiteração de recurso anterior. Súmula 284/STF. Pelo não conhecimento do agravo ou, se conhecido, pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Quanto à dosimetria da pena-base, verifica-se que a questão já foi devidamente analisada por esta Corte nos autos do HC 980.672/BA, tratando-se, pois, de mera reiteração de pedido.
+Já acerca da minorante do tráfico privilegiado, colhe-se do acórdão recorrido (fls. 377-398):
+Agora, percorremos, em análise, pedido subsidiário de aplicação do tráfico privilegiado, restando ilógico tal acatamento, mais uma vez, dando-se razão ao julgador primeiro, porque fácil é perceber que os recorrentes dedicam-se a prática de crimes em especial a mercancia ilícita de drogas, sendo pessoas conhecidas na localidade, haja vista pretérita denúncia anônima por moradores do Bairro, da dupla em franca comercialização de drogas, motivadora da diligência policial, contando-se ainda do modus operandi, incrementado por William (vendedor) e Ademilton (segurança - portando arma de fogo devidamente municiada e pronta para disparar).
+Conclui o julgador a quo, acerca da negativa do privilégio:
+Os acusados praticaram o crime de tráfico em região conflagrada, em concurso de pessoas. Um dos comparsas portava arma de fogo para a garantia da empreitada criminosa. Assim, REJEITO a tese defensiva sobre a aplicação da causa de diminuição de penal constante do art. 33, parágrafo 4º, da Lei 11.343/06, para os dois réus.
+Dúvida não se tem que a minorante em comento está vocacionada para punir com menor rigor o pequeno traficante, isto é, aquele indivíduo que não faz da traficância o seu meio de vida, o que não é o caso dos autos, devidamente robustecido nas páginas trazidas para análise.
+Comunga igual entendimento a douta Procuradoria:
+Nesta esteira, registra-se ainda que a utilização supletiva da quantidade de droga apreendida para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa. Dessa forma, muito embora não tenha-se utilizado de tal elemento para afastar a causa de diminuição em contenda, amealhando-se o quanto noticiado pelos policiais militares sob o crivo do contraditório, a forma em que se deu o flagrante, a forma como estava acondicionada a droga, o fato de os apelados está portando arma de fogo, a abordagem ter sido realizada em região conhecida pelo intensa prática de tráfico de drogas, são elementos aptos e amplamente corroborados nos autos, servido de baliza para o afastamento da causa de diminuição de pena. Assim, não preenchidos os requisitos previstos em lei, e tomando em consideração as peculiaridades do caso concreto, incabível a aplicação da benesse prevista no § 4º, do artigo 33, da Lei de Drogas. (Id. 73192720).
+Verifica-se que o acórdão negou a aplicação do tráfico privilegiado por concluir que os réus se dedicavam à atividade criminosa, sendo conhecidos na localidade pela mercancia de drogas, conforme denúncia anônima que motivou a diligência policial. Destacou-se, ainda, o modus operandi estruturado: o corréu atuava como vendedor e o ora recorrente portava arma de fogo para garantir a segurança da atividade.
+Além disso, ressaltou-se que o crime ocorreu em região conflagrada, com a apreensão de drogas acondicionadas para comércio e a presença de arma de fogo. Esses elementos, corroborados pelos depoimentos policiais, demonstraram a dedicação à traficância e justificaram o afastamento da minorante prevista no art. 33, §4º, da Lei de Drogas.
+Nesse contexto, a inversão do acórdão, de modo a afastar a dedicação à atividade criminosa, reconhecendo-se a incidência da minorante, demandaria amplo revolvimento fático-probatório, incabível na via do recurso especial, conforme a Súmula 7 desta Corte. Veja-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS VIOLADOS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. A agravante sustenta que apontou claramente os dispositivos federais violados e que a condenação foi baseada em elementos insuficientes, requerendo a absolvição.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de indicação precisa dos dispositivos infraconstitucionais violados no recurso especial impede o seu conhecimento, conforme a Súmula 284/STF.
+3. A questão também envolve a análise da aplicação da minorante do tráfico privilegiado, considerando a alegação de que a recorrente não se dedicava a atividades criminosas nem integrava organização criminosa.
+III. Razões de decidir
+4. A ausência de indicação precisa dos dispositivos violados no recurso especial impede o seu conhecimento, conforme a Súmula 284/STF, não sendo possível sanar o vício em sede de agravo regimental devido à preclusão consumativa.
+5. O Tribunal Estadual utilizou farto conjunto probatório para concluir que a recorrente não era principiante na prática delitiva, destacando as comunicações realizadas com fornecedores de drogas, a existência de veículos batedores e o nível de sofisticação da empreitada criminosa.
+6. Reformar o entendimento adotado pela Corte a quo para aplicar a minorante do tráfico privilegiado demandaria amplo revolvimento fático-probatório, o que é vedado nesta via especial, por força da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A ausência de indicação precisa dos dispositivos violados no recurso especial impede o seu conhecimento, conforme a Súmula 284/STF. 2. A aplicação da minorante do tráfico privilegiado é inviável quando há evidências de dedicação a atividades criminosas, conforme a análise das circunstâncias concretas do caso"  .. .
+(AgRg no AREsp n. 2.748.829/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
