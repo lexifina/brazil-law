@@ -1,0 +1,47 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO COM REGISTRO NA ANVISA NÃO INCORPORADO AO SISTEMA ÚNICO DE SAÚDE - SUS. LEGITIMIDADE PASSIVA. COMPETÊNCIA. RECURSO EXTRAORDINÁRIO 1.366.243. TEMA 1.234 DA REPERCUSSÃO GERAL. MODULAÇÃO DOS EFEITOS DA DECISÃO QUANTO À DELIMITAÇÃO DA COMPETÊNCIA JURISDICIONAL. RESTRIÇÃO ÀS AÇÕES AJUIZADAS APÓS 19/09/2024, AFASTADA A INCIDÊNCIA SOBRE OS PROCESSOS EM TRAMITAÇÃO ATÉ TAL MARCO. IMPOSSIBILIDADE DE SUSCITAÇÃO DE CONFLITO NEGATIVO DE COMPETÊNCIA QUANTO A FEITOS ANTERIORES. RESSARCIMENTO PELA UNIÃO, FUNDO A FUNDO (FNS AO FES OU AO FMS), NOS CASOS DE AÇÕES QUE PERMANECEREM NA JUSTIÇA ESTADUAL, ENVOLVEREM FÁRMACOS NÃO INCORPORADOS E IMPUSEREM CONDENAÇÕES AOS ESTADOS E MUNICÍPIOS. PROMOÇÃO PELO MAGISTRADO, SE NECESSÁRIO, COM VISTAS À EFETIVAÇÃO DA DECISÃO, DA INCLUSÃO DE ENTE FEDERATIVO NO POLO PASSIVO DA DEMANDA. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “RECURSO INOMINADO – AÇÃO DE OBRIGAÇÃO DE FAZER – FORNECIMENTO DE MEDICAMENTO – DIREITO À SAÚDE – CABIMENTO – INCLUSÃO DA UNIÃO – RESPONSABILIDADE SOLIDÁRIA – DESNECESSIDADE.
+
+    1. O município deve fornecer os medicamentos necessários para o tratamento de saúde, uma vez que a saúde é direito de todos, conforme art. 196 da Constituição Federal.
+
+    2. É desnecessária a inclusão da União no polo passivo, diante da responsabilidade solidária entre os entes federativos nas demandas prestacionais na área da saúde.” (Doc. 17, p. 1)
+
+    Não foram opostos embargos de declaração.
+
+    Nas razões do apelo extremo, o Estado de Minas Gerais apresenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 196 da Constituição da República. Sustenta, em síntese, que cuida-se de “de pedido de fornecimento de medicamento não incorporado para fornecimento pelo Sistema Único de Saúde (SUS)” (Doc. 18, p. 2). Afirma que o Supremo Tribunal Federal, ao analisar o Recurso Extraordinário 855.178, Tema 793 da Repercussão Geral, interpretou o artigo 196 da Constituição Federal e assentou a seguinte tese: “Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro” (Doc. 18, p. 2). Afirma que “o acórdão proferido pelo colegiado negou a necessária inclusão da União no processo, violando assim o art. 196 da Constituição, já que compete ao Ministério da Saúde a incorporação de novas tecnologias para serem fornecidas pelo SUS” (Doc. 18, p. 3). Salienta que “a adequada aplicação do Tema 793 da repercussão geral exige seja a União incluída no polo passivo das ações obrigacionais quando os medicamentos ou tratamentos de saúde pleiteados: a) não tiverem seu uso ou aplicação aprovados pela Agência Nacional de Vigilância Sanitária - Anvisa; b) forem solicitados para o tratamento de enfermidades diversas daquelas para as quais inicialmente prescritos pelos fabricantes e pelos órgãos de saúde (uso off label); c) não forem padronizados pela Comissão Nacional de Incorporação de Tecnologias no SUS Conitec e incluídos na Relação Nacional de Medicamentos Essenciais Rename ou na Relação Nacional de Ações e Serviços de Saúde - Renases; d) embora padronizados, tiverem seu financiamento, aquisição e dispensação atribuídos à União, segundo critérios de descentralização e hierarquização do SUS previstos no ordenamento jurídico vigente” (Doc. 18, p. 7). Ressalta que “não se sustenta o pedido unicamente dirigido ao Estado de Minas Gerais de medicamentos não incorporados e não previstos nos Protocolos Clínicos e Diretrizes Terapêuticas do SUS, em relação aos quais o ente federativo não detém a prerrogativa de alteração ou adequação” (Doc. 18, p. 9). Requer, ao final, o provimento do recurso extraordinário para “determinar a inclusão da União no processo, direcionando a ela o cumprimento da ordem de fornecimento do medicamento” (Doc. 18, p. 10).
+
+    A Defensoria Pública do Estado de Minas Gerais apresentou contrarrazões ao recurso (Doc. 19).
+
+    Admitiu-se o recurso extraordinário (Doc. 21).
+
+    A Presidência do Supremo Tribunal Federal determinou a devolução do feito ao Tribunal de origem para aplicação da sistemática da repercussão geral - Tema 1.234 (Doc. 22).
+
+    Em 06/05/2025, a Presidência do Tribunal de origem, por entender que o feito “não abrangeu de forma exaustiva os elementos previstos nas Súmulas Vinculantes n. 60 e 61, bem como nos Temas 6 e 1234”, determinou seu reenvio a esta Corte (Doc. 29).
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Com efeito, por ocasião do julgamento do Recurso Extraordinário 1.366.243, Rel. Min. Gilmar Mendes, paradigma do Tema 1.234 da Repercussão Geral, DJe de 11/10/2024, o Plenário desta Suprema Corte assentou, em suma, que, para “fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS e medicamentos oncológicos, ambos com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG – situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED – Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC”.
+
+    Consignou-se, adicionalmente, que as “ações que permanecerem na Justiça Estadual e cuidarem de medicamentos não incorporados, as quais impuserem condenações aos Estados e Municípios, serão ressarcidas pela União, via repasses Fundo a Fundo (FNS ao FES ou ao FMS). Figurando somente um dos entes no polo passivo, cabe ao magistrado, se necessário, promover a inclusão do outro para possibilitar o cumprimento efetivo da decisão” (destaquei).
+
+    Ademais, modulou-se a eficácia do decisum, atribuindo-lhe efeitos ex nunc, “unicamente quanto ao deslocamento de competência (item 1 do acordo firmado na Comissão Especial nesta Corte), determinando que somente se apliquem aos feitos que forem ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico – que se deu em 19/09/2024 –, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico”.
+
+    Posteriormente, o Plenário desta Corte “rejeitou os embargos de declaração opostos pelo Estado de Santa Catarina, mas os acolheu a título de esclarecimentos e sem efeitos modificativos para constar do item 1, referente à Competência, a seguinte redação: 1) Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS e medicamentos oncológicos, ambos com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC; e 3) acolheu parcialmente os embargos opostos pela União, tão somente quanto à modulação dos efeitos da decisão no que se refere à competência, para abarcar também os medicamentos incorporados, devendo ser suprimido do Capítulo 5 do voto condutor do acórdão embargado a remissão ao ‘item 1 do acordo firmado na Comissão Especial’, por referir-se unicamente aos medicamentos não incorporados. Consequentemente, os efeitos do tema 1.234, quanto à competência, somente se aplicam às ações que forem ajuizadas após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco jurídico” (Recurso Extraordinário 1.366.243-ED, Plenário, Rel. Min. Gilmar Mendes, DJe de 05/02/2025).
+
+    Dessas orientações não divergiu o acórdão ora recorrido, uma vez que a presente ação foi ajuizada em data anterior ao marco temporal fixado no referido leading case de repercussão geral a título de modulação de efeitos da decisão acerca da definição da competência jurisdicional, considerado, ainda, que eventual ressarcimento devido pela União deverá se dar na via administrativa, via repasse Fundo a Fundo (FNS ao FES ou ao FMS).
+
+    Ex positis, DESPROVEJO o RECURSO EXTRAORDINÁRIO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 29 de maio de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
