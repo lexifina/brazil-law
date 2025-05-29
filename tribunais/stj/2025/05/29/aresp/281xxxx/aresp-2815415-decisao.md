@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por NOBRE SEGURADORA DO BRASIL S.A, desafiando decisão que não admitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE ACIDENTE DE TRÂNSITO. ACIDENTE EM TRANSPORTE COLETIVO. RELAÇÃO DE CONSUMO. SOLIDARIEDADE SEGURADO E SEGURADORA. RESPONSABILIDADE OBJETIVA. DANO MORAL. CARACTERIZADO. MANUTENÇÃO DO QUANTUM. TERMO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS EM GRAU RECURSAL.
+1. A responsabilidade decorrente do contrato de transporte é objetiva, nos termos do artigo 37, § 6º, da Constituição Federal e dos artigos 14 e 22 do Código de Defesa do Consumidor, sendo atribuído ao transportador, concessionário do serviço público, o dever reparatório quando demonstrado o nexo causal entre o defeito do serviço e o acidente de consumo, do qual somente é passível de isenção quando houver culpa exclusiva de terceiro ou do próprio consumidor.
+2. O fornecedor somente pode eximir-se de sua responsabilidade civil caso comprove a existência de quaisquer das excludentes previstas no § 3º do artigo 14 do Código de Defesa do Consumidor, quais sejam, a inexistência do defeito ou a culpa exclusiva do consumidor ou de terceiro, o que não ocorreu nos presentes autos.
+3. Presentes todos os requisitos da responsabilidade civil objetiva, é impositiva a manutenção do decreto judicial objurgado que condenou a concessionária do serviço público à reparação das respectivas lesões causadas.
+4. A relação que se estabelece entre o transportador e o usuário dos serviços de ônibus possui natureza contratual. Assim, ao embarcar, o passageiro contrata a prestação do serviço de transporte e a empresa assume o dever de transportá-lo em segurança, de modo a chegar incólume até o seu destino.
+5. Sofrendo a passageira do transporte público lesões físicas em decorrência de acidente, as quais ensejaram sequelas físicas e padecimento psicológico, é devida a compensação pelos danos morais experimentados.
+6. O quantum indenizatório a título de danos morais observou convenientemente os caracteres compensatórios e pedagógicos da medida, bem como os princípios da proporcionalidade e da razoabilidade, que levam em conta as condições econômicas de ambas as partes, os transtornos experimentados pela vítima e a conduta reprovável do agente, com o intuito de se evitar que a quantia a ser paga configure um enriquecimento indevido ou uma penalidade de insignificante dimensão. Logo, manutenção da importância fixada pelo juízo primevo é medida que se impõe.
+7. Carece reparo o Édito judicial apenas na parte referente ao termo inicial dos juros de mora, pois na hipótese de condenação por danos morais fundada em responsabilidade civil contratual, os juros de mora devem ser computados a partir da citação (art. 405 do CC).
+8. Uma vez desprovida a 1ª Apelação Cível, faz-se necessária a majoração dos honorários sucumbenciais fixados no 1º Grau.
+9. Conhecida e parcialmente provida a 2ª Apelação Cível, sem majoração de honorários.
+1ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+2ª APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+SENTENÇA PARCIALMENTE REFORMADA."(e-STJ, fls.874/850):
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.006/1.010) .
+Nas razões do recurso especial, a ora agravante aponta, violação aos arts. 8, do CPC e 944, do CC, sustentando, em síntese que a quantia de R$ 10.000,00 (dez mil reais) fixada a título de danos morais mostra-se exorbitante.
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-GO, com arrimo no acervo fático-probatório carreado aos autos, reformando sentença, concluiu pela responsabilidade civil da ora Agravante no acidente automobilístico que causou danos à ora agravada, fixando a indenização a título de danos morais em R$ 10.000,00 (dez mil reais). A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"4.2.2 Por outro lado, verifica-se que o contrato de transporte de pessoas se encontra regulado pelos artigos 734 e seguintes, do Código Civil, incumbindo à transportadora, além de levar os passageiros do local do embarque até o destino, garantir a segurança e a incolumidade física dos transportados. E, no caso de ocorrer acidente durante sua execução, responde a transportadora de forma objetiva pelos danos causados, tornando-se desnecessária a produção de provas a esse respeito, em razão de decorrer tal responsabilidade do risco do negócio a que se destina.
+4.2.3 Portanto, não há dúvida de que o contrato de transporte pactuado pelas partes litigantes encontra-se submetido às normas consumeristas, porquanto a requerente constitui o destinatário final (usuário) do serviço e por ela paga, mediante aquisição do bilhete de passagem, emergindo o dever do fornecedor responder objetivamente pelos danos experimentos pelo consumidor (art.
+14, do Código de Direito do Consumidor). Presente no contrato de transporte está a cláusula de incolumidade nele inserta.
+(..)
+5.1.1 Conforme já mencionado, a relação jurídica discutida é consumerista, há a inversão do ônus da prova e caberia ao réu provar a inveracidade do alegado pela autora, o que não o fez. Dessa maneira, a responsabilidade da requerida é objetiva conforme preceitua o artigo 14, do Código de Defesa do Consumidor, sendo incontroverso o nexo causal entre a conduta do réu e o dano moral sofrido pela vítima, o dever de indenizar é medida que se impõe.
+(..)
+4.5. Logo, nesse caso, é certo que houve falha na prestação de serviços por parte do 2º Apelante e, sendo objetiva a responsabilidade das concessionárias de serviço público, resta configurada a responsabilidade desta pelos danos sofridos pela parte autora, pois o contrato de transporte obriga o transportador a levar o passageiro incólume ao seu destino, restando patente a obrigação de indenizar.
+4.6 Assim, verifica-se que a parte Apelada conseguiu comprovar o fato constitutivo do seu direito, conforme artigo 373, I, do Código de Processo Civil. Nesse sentido, cumpre destacar a premissa que ao autor, incumbe a prova dos atos constitutivos de seu direito, devendo o réu provar a existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+(..)
+5.2.1 A indenização consiste em compensação ou tentativa de substituir o sofrimento por uma satisfação pecuniária, possuindo aspectos retributivo e punitivo, que são sopesados também se levando em conta o potencial financeiro do causador.
+5.3. O dano moral tem caráter dúplice, pois tanto visa a punição do agente, capaz de desestimulá-lo a reincidir na prática do ato ilícito, quanto a de ser capaz de proporcionar ao ofendido um bem-estar psíquico.
+5.3.1 Caracterizada a ocorrência de dano moral, impõe-se a condenação do demandado em pecúnia, como forma de reparação do abalo por ele provocado, sem caracterizar, porém, enriquecimento sem causa por afronta aos princípios da razoabilidade e proporcionalidade.
+5.4 Da mesma forma, o quantum indenizatório não pode configurar enriquecimento ilícito, como também, não pode ser ínfimo ou simbólico, devendo desestimular a empresa requerida à prática dos atos de negativação indevida.
+5.4.1 Isto posto, considerando o nível da gravidade do ocorrido, a sua extensão, bem como a natureza do constrangimento, em atendimento a toda matéria exaustivamente explanada, bem como aos princípios da razoabilidade e proporcionalidade, tenho que a indenização por danos morais deve ser mantida no valor de R$ 10.000,00 (dez mil reais), por considerar o montante suficiente para repreensão do ato ilícito." (e-STJ, fls.869/872, g. n.)
+Com efeito, a iterativa jurisprudência desta eg. Corte é no sentido de que a revisão do valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; excepcionalmente, afasta-se a referida súmula quando o valor da indenização se mostrar irrisório ou exorbitante, contrariando os princípios da razoabilidade e da proporcionalidade.
+Nessa linha de intelecção, confiram-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.903.343/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - g. n.)
+No caso, a questionada indenização foi fixada em R$ 10.000,00 (dez mil reais) para agravada que sofreu lesão corporal (fratura na coluna) que a incapacitou definitivamente para o trabalho em decorrência do acidente, valor que não se mostra exorbitante. Assim sendo, inexistindo situação excepcional, o apelo nobre também contra óbice na referida Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
