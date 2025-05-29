@@ -1,0 +1,17 @@
+DECISÃO
+Em petição de habeas corpus, impetrado em favor de Felipe Jeremias Barbosa Pereira, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+O paciente foi condenado às penas de 02 (dois) anos e 06 (seis) meses de reclusão, no regime semiaberto, e 06 (seis) dias-multa, por incurso no artigo 157, caput, c. c. o artigo 14, inciso II, ambos do Código Penal.
+A petição expõe a existência de constrangimento ilegal por causa da fixação da pena acima do mínimo legal. Assim, o pedido especifica-se em revisão da dosimetria para redução da pena base e fixação do regime inicial aberto.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, nos termos da seguinte ementa (e-STJ, fl. 69-75):
+"ROUBO TENTADO. SUBSTITUTIVO DE RECURSO ESPECIAL. DOSIMETRIA DA PENA. REEXAME DE FATOS E PROVAS. 1. O writ não deve ser conhecido tendo em vista a ausência de flagrante ilegalidade somado ao indevido uso como substitutivo de recurso especial. 2. Inocorrência de ausência de fundamentação idônea ou erro de técnica, razão pela qual o acolhimento da tese defensiva relacionada à dosimetria da pena implicaria em reexame de fatos e provas, incabível na via estreita do writ. Parecer pelo não conhecimento da ordem e, caso conhecida, pela sua denegação".
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de , 8/4/2024 publicada no Diário Oficial da União de 9/4/2024.
+O Tribunal de origem assim fundamentou a reprimenda do paciente, acima da pena base, dada a forma violenta como o paciente abordou a vítima idosa (e-STJ fls. 22-31 ).
+Dessa forma, entendo que a fundamentação utilizada pelo Tribunal a quo foi plenamente adequada e exaustiva. Não há qualquer ilegalidade ou teratologia nas palavras utilizadas pelo Tribunal de origem e, como se sabe, o redimensionamento da pena, via habeas corpus, é excepcional.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
