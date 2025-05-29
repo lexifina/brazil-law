@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO BMG S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. Execução que se adequa ao decisum, na forma do voto de fls. 196 dos autos originários, que fixou multa de R$ 1.000,00 por descumprimento sem limitação da astreinte. Laudo pericial e contábil que se adequa do voto proferido no agravo de instrumento e no bojo do processo principal. Excesso de execução que se afasta.
+IMPROVIMENTO DO AGRAVO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 502, § 4º, 509, § 4º, 523 e 525, § 1º, inciso V, do Código de Processo Civil, no que concerne à inobservância dos termos do título executivo judicial, pois verifica-se que os cálculos apresentados foram elaborados em desacordo com os parâmetros expressamente estabelecidos, configurando clara ofensa à coisa julgada, sendo certo que essa desconformidade resulta em indevido enriquecimento da parte recorrida, trazendo a seguinte argumentação:
+38. Ao contrário do que faz crer a decisão recorrida, não houve observância aos termos do título executivo judicial, pois o cálculo homologado foi realizado em total desconformidade aos parâmetros estabelecidos, em ampla ofensa a Coisa Julgada.
+39. Veja-se, não se trata de inovação probatória, se trata apenas de executar a sentença/acórdão nos seus exatos termos.
+40. O BMG demonstrou as incorreções no cálculo efetuado pelo i. perito, sendo o referido laudo pericial homologado sem qualquer plausibilidade, violando frontalmente a coisa julgada.
+41. Portanto, ao homologar o laudo pericial elaborado em desconformidade com o título executivo, o magistrado a quo contribui para o enriquecimento indevido do Recorrido, tendo em vista que viola o que restou decidido em sentença.
+ ..
+51. Ao contrário do que faz crer a decisão recorrida, não houve observância aos termos do título executivo judicial, pois o cálculo homologado foi feito em total desconformidade aos parâmetros estabelecidos, em ampla ofensa a Coisa Julgada.
+46. Repita-se, o título judicial que ampara os parâmetros para a sua liquidação menciona expressamente a limitação da multa, motivo pelo qual é dever do procedimento de liquidação quantificar o valor devido corretamente, sem alterar os termos julgados.
+47. Portanto, ao homologar o laudo pericial elabarado em desconformidade com o título executivo, o magistrado a quo contribui para o enriquecimento indevido do Recorrido.
+48. Pelos motivos expostos, tendo em vista a violação do §4º, artigo 509 e 523 Código de Processo Civil, requer seja dado provimento ao Recurso Especial, a fim de anular o v. Acórdão recorrido, determinando-se a realização de nova Perícia Contábil nos termos da r. sentença e acórdão liquidando. (fls. 79-80).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A hipótese dos autos é simples e não demanda grandes controvérsias.
+A execução lastreia-se na cobrança de danos morais fixados em sentença e nas astreintes, fixadas pelo voto de fls 196 dos autos principais, prolatado em autos de agravo de instrumento.
+Neste, afastando a limitação da multa fixada em primeiro grau, o exmo. relator decidiu pela "finalidade coercitiva inicial que aponta para a fixação de multa de R$ 1.000,00 (mil reais) para cada desconto indevido." O laudo contábil apresentado nos autos espelha os valores devidos pela parte ré agravante, apresentando-se o presente recurso como meramente protelatório.
+Assim, e inexistindo no recurso fundamentos fáticos ou jurídicos a fundamentar a impugnação do laudo contábil que indicou o valor da execução, VOTO PELO DESPROVIMENTO DO AGRAVO DE INSTRUMENTO. (fl. 68).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pelo acórdão recorrido, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15.3.2019).
+Na mesma linha: "Acerca do alcance do título executivo, a questão não pode ser examinada, na via do recurso especial, ante o óbice da Súmula 7/STJ" (AgInt no REsp n. 2.044.337/GO, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 11/4/2024).
+E ainda: "O Superior Tribunal de Justiça possui o entendimento no sentido de que a interpretação do conteúdo do título executivo judicial cabe ao Tribunal de origem, com espeque na inteligência de que cabe à Corte de origem interpretar o título executivo judicial do qual participou e formou. Rever esse entendimento esbarraria no óbice da Súmula n. 7/STJ" (AgInt no AREsp n. 1.834.069/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 6/12/2023).
+Confiram-se ainda os seguintes julgados:AgInt no AREsp n. 2.499.118/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.445.944/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/8/2024; AgInt nos EDcl no AREsp n. 2.364.928/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/4/2024; AgInt no AREsp n. 2.165.862/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/9/2023; AgInt no AREsp n. 2.291.061/PE, relator Ministro Humberto Martins, Terceira Turma, DJe de 20/9/2023; AgInt no REsp n. 1.939.707/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 17/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
