@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por ITAU UNIBANCO S.A contra decisão que inadmitiu o recurso especial fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 62):
+"AÇÃO DE EXIGIR CONTAS - Decisão que encerra a primeira fase da ação, com o dever de prestar contas - Recurso cabível é o de agravo de instrumento. Decisão interlocutória. Recurso conhecido. Teoria da asserção. Entendimento do C. STJ. Inépcia da inicial. Preliminar afastada - Pedido específico, com indicação dos motivos consistentes pelos quais se exige as contas - Necessidade de prestação de contas sobre a divergência entre a quantidade de ações de titularidade da Autora e o quantitativo disponibilizado pela Ré. Honorários advocatícios - A decisão que julga procedente a primeira fase da ação de exigir ou prestar contas, enseja a condenação em honorários sucumbenciais. Decisão mantida. Recurso desprovido."
+Opostos embargos de declaração foram eles rejeitados (e-STJ fls. 106-114).
+Nas razões do recurso especial (e-STJ, fls. 117-134), o agravante alega ofensa aos arts. 489, 550 e 1.022 do Código de Processo Civil de 2015; e 287 da Lei n. 6.404/1976, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, além de negativa de prestação jurisdicional, a falta de interesse de agir do agravado para a propositura da ação de prestação de contas e a ocorrência de pedido genérico.
+Foram apresentadas contrarrazões (e-STJ, fls. 117-134).
+O Tribunal de origem não admitiu o recurso especial em razão da ausência de violação dos arts. 489 e 1.022 do CPC/2015; da falta de demonstração de ofensa aos dispositivos apontados; da incidência da Súmula 7/STJ; e da ausência de comprovação do dissídio jurisprudencial apontado (e-STJ, fls. 252-254).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação do art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1022, I, II, DO CPC. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. FORMA CONTINUADA. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DA RENÚNCIA DO MANDATO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação dos arts. 489, § 1º, IV, e 1022, I, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O termo a quo do prazo prescricional de ação de cobrança de prestação de serviços advocatícios, que se deu de forma continuada, será a data da renúncia do mandato. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.055.320/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+No tocante ao interesse de agir da recorrida, a Corte de origem afirmou (e-STJ, fls. 66-69):
+Superada a análise do recurso cabível, a alegação de a inépcia da inicial, por não se admitir pedido genérico de prestação de contas, bem como a ausência de comprovação do direito autoral, não comportam acolhimento.
+Isso porque, da análise perfunctória da narrativa exposta na exordial e do conjunto probatório, vislumbra-se que o objeto do pedido de prestação de contas está bem delimitado na inicial da ação originária, inclusive demonstrado com a juntada de documentos que a acompanha, no período especificado, tendo o Banco Agravante, portanto, integrado a cadeia administradora do capital informado.
+Assim, as circunstâncias são suficientes para se aferir a legitimidade da Agravada em propor a demanda de prestação de contas, à luz da teoria da asserção, segundo a qual as condições da ação devem ser aferidas a partir das afirmações deduzidas na petição inicial, de tal modo que a carência de ação deve ser reconhecida apenas quando possível constatar a ausência de uma das referidas condições em cognição não exauriente.
+(..)
+A alegação de inépcia da inicial, por sua vez, igualmente não merece prosperar.
+Com efeito, compulsando-se os autos, vislumbra-se que a autora especificou por meio dos documentos juntados às fls. 23/35 (autos principais), que o procedimento tem como objeto as ações ordinárias e preferenciais de sua titularidade.
+Assim, delimitou o período de prestação das contas a partir daquela data que identificou a inconsistência de dados quanto ao número de ações da titularidade disponibilizadas pela Agravante.
+Afigura-se, pois, precisa e suficiente a explanação, pois não se trata propriamente de dúvida sobre lançamentos, mas sim sobre o destino do próprio saldo que em tese havia de existir. Inequivocamente o Banco tem o dever prestar contas sobre o destino das ações apontadas nos extratos de fls. 23/35(autos principais) ao invés de alegar de forma evasiva a necessidade de se considerar a incidência de eventos societários que alteram a quantidade de ações ao longo do tempo ou mesmo a falta de interesse de agir da agravada e inépcia da inicial. Ademais, o banco Agravante já teria prestado as contas nos autos originários, consoante petição e documentos de fls. 221/307 daqueles autos.
+(..)
+In casu, a autora alegou haver incompatibilidade de informações entre o saldo de ações constantes do livro de registro de ações (fls. 23/29), que não foram disponibilizadas em favor da Autora/Agravada. (Sem grifo no original).
+Sendo assim, não há como se afastar a conclusão do aresto recorrido a fim de se verificar a alegada inexistência de interesse processual, tendo em vista que seria necessário interpretar as circunstâncias fáticas e probatórias da lide, a atrair a vedação contida na Súmula 7/STJ desta egrégia Corte.
+Corrobora esse entendimento o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a alegada negativa de prestação jurisdicional.
+2. Consoante jurisprudência desta Corte Superior, a petição inicial que permite aferir a causa de pedir e o pedido e que possibilita a ampla defesa da parte ré não pode ser considerada inepta. Incidência da Súmula 83 do STJ.
+3. Para derruir as conclusões contidas no decisum e verificar eventual inépcia da inicial seria imprescindível o revolvimento do acervo fático e probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+4. Não constitui requisito para a aferição do interesse processual a comprovação do encaminhamento de requerimento administrativo daquilo que se postula judicialmente. (AgInt no REsp 1.954.342/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/02/2022, DJe de 25/02/2022) 5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.689.290/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
