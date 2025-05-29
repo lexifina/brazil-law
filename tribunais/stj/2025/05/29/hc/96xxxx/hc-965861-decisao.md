@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JABSON FRANCISCO DAMASCENO, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no HC n. 5060299-72.2024.8.24.0000.
+Consta dos autos que o Paciente está preso e pugna pela prisão domiciliar, sob o argumento de que é imprescindível aos cuidados da esposa doente.
+Neste writ, a Defesa sustenta a existência de coação por parte do Tribunal a quo, em razão do indeferimento de um pedido de prisão domiciliar de natureza humanitária. Para questionar a decisão, a Defesa interpôs agravo interno. Posteriormente, o impetrante apresentou embargos de declaração com o objetivo de sanar uma contrariedade presente no acórdão do TJSC. Contudo, sobreveio decisão que não conheceu dos embargos de declaração, sob o argumento de "insubsistência do recurso".
+Alega que a esposa do paciente é portadora de neoplasia mamária, sendo ele o único familiar próximo indispensável para os cuidados necessários à sua cônjuge. Diante disso, sustenta-se a necessidade da concessão de prisão domiciliar.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a ilegalidade do acórdão proferido, concedendo o cumprimento de pena na modalidade de prisão em albergue domiciliar, com uso de tornozeleira, se necessário.
+Petição intermediária acostada (fls. 80/81).
+Liminar indeferida e requisitadas informações (fls. 85/86).
+Informações acostadas (fls. 89/84 e 98/214).
+Parecer do Ministério Público Federal, pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 218/221).
+Vieram os autos conclusos (fl. 223).
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, rel. Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, destaco que, em que pese a oposição de embargos de declaração na origem contra a decisão que negou conhecimento tanto à impetração originária quanto ao respectivo recurso de agravo interno, a Corte estadual também não conheceu dos aclaratórios e, por conseguinte, não enfrentou a matéria constante da presente impetração.
+Contudo, verifico que, na hipótese, o não conhecimento do mandamus originário e dos referidos recursos interpostos, acabam por revestirem-se de caráter denegatório, vez que houve, em mais de uma ocasião no processo originário, a tentativa pela defesa de provocar a manifestação colegiada do Tribunal estadual acerca de sua tese, razão pela qual cumpre verificar a hipótese de ocorrência de flagrante ilegalidade nesta Instância Superior.
+O Juízo de primeiro grau, ao apreciar o pleito de prisão domiciliar excepcional, formulado em favor ao ora Paciente, decidiu pelo indeferimento do pedido, nos seguintes termos (fls. 23/25):
+Trata-se de pedido de prisão domiciliar, formulado em favor de JABSON FRANCISCO DAMASCENO, sob o argumento de que é imprescindível para os cuidados da esposa doente.
+O Ministério Público manifestou-se pelo aguardo da recaptura do sentenciado e realização de estudo social.
+DECIDO.
+Antes de analisar o caso concreto é necessário fazer uma distinção entre as modalidades de prisão domiciliar: a) como substitutiva da prisão preventiva; b) como forma alternativa de cumprimento da pena.
+(..)
+Como se vê, as hipóteses de prisão domiciliar para casos de cumprimento de pena, hipótese dos autos, são menos abrangentes que aquelas da substitutiva de prisão preventiva, sendo a lógica evidente, de que esta última se trata de regime provisório, cautelar, portanto deveria ser menos gravoso que a primeira, forma de cumprimento de sanção condenatória.
+(..)
+Todavia, o fundamento do deferimento excepcional desta prisão domiciliar, fugindo da regra do regime aberto, é que a doença seja grave, sofrimento inconteste e (portanto requisito cumulativo) o estabelecimento prisional não tenha condições de cuidar do apenado com a dignidade necessária.
+Novamente, não é o caso dos autos, que visa adequar-se na hipótese do art. 117, III, da LEP.
+Nestes casos, a jurisprudência muito excepcionalmente tem concedido a prisão domiciliar, tornando imprescindível, não só a comprovação de que não exista outro meio de cuidar do filho, como a inexistência de outros meios estatais suficientes para cuidado do infante em questão, tal qual o caso de doença.
+(..)
+Deve-se afastar a ideia, portanto, de que a mera existência de familiar portador de doença grave geraria esse direito. Note-se, a concessão de prisão domiciliar em regime diverso do aberto, em contrariedade à norma taxativa da LEP, já se trata de uma excepcionalidade, que deve ser ponderada não só quanto ao requisito objetivo, quanto também a imperiosidade da medida, quando o aparato estatal se mostra ineficiente para tutelar o outro direto em questão.
+(..)
+Não basta o requisito objetivo (existência do familiar portador de doença grave), mas também a demonstração de que a pessoa não sobreviverá sem o cuidado de terceiros e que não exista qualquer outro meio, familiar ou estatal, para exercer os cuidados necessários.
+No caso dos autos, o sentenciado deliberadamente deixou de retornar da saída temporária, o que demonstra o seu total descomprometimento com o cumprimento da pena, e o fato de estar foragido inviabiliza a realização de estudo social.
+Além disso, não existe qualquer elemento nos autos que indique a imprescindibilidade da presença do sentenciado para a sobrevivência da esposa enferma. Ao contrário disso, o fato de estar recolhido nos últimos meses, até ser beneficiado com a saída temporária, leva a crer que a esposa do apenado não corre risco vida sem a presença dele para exercer eventuais cuidados.
+Extrai-se dos excertos supratranscritos que o Juízo singular indeferiu o pleito de prisão domiciliar, sob o fundamento do não cabimento do caso às hipóteses legalmente previstas, bem como da não demonstração da imprescindibilidade da presença do apenado para que sejam prestados os cuidados de que necessita sua esposa, de modo a excepcionar a regra estabelecida pelo art. 117, III, da Lei de Execução Penal.
+Dito isso, tem-se que não se verifica a ilegalidade apontada, vez que de acordo com o entendimento consolidado no âmbito desta Corte Superior, segundo o qual, para a concessão da chamada prisão domiciliar humanitária, faz-se necessária a demonstração de que os cuidados a serem prestados pelo apenado são imprescindíveis aos cuidados de parente enfermo (RHC 118.648/BA, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Com efeito, a Parte Impetrante não se desincumbiu do ônus de comprovar, de forma inequívoca, a procedência das alegações suscitadas, tendo juntado aos autos tão somente cópia de trechos extraídos de um exame criminológico, cuja autenticidade sequer é viável aferir (fl. 80).
+Ad argumentandum tantum, ainda que superadas tais inconsistências, verifica-se que o teor do aludido documento trata de análise com base no relato do Paciente por ocasião da perícia, não havendo quaisquer outros elementos que sequer sugiram a confirmação de sua veracidade; além de não se identificar, nestes autos, sequer um laudo médico que corrobore a situação de saúde aduzida na impetração, tampouco a imprescindibilidade dos cuidados a serem prestados pelo ora Paciente à sua esposa enferma.
+Desse modo, constata-se que a alteração das premissas alcançadas na origem demandaria o respectivo revolvimento fático-probatório, providência incompatível com a via do habeas corpus.
+Nesse sentido:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CONCUSSÃO. APELAÇÃO JULGADA. EXPEDIÇÃO DO MANDADO DE PRISÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. INOCORRÊNCIA. PRISÃO DOMICILIAR PARA CUIDAR DO CÔNJUGE. AUSÊNCIA DE PREVISÃO LEGAL. INEXISTÊNCIA DE PROVAS DAS ALEGAÇÕES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. O Pleno do Supremo Tribunal Federal, em 5.10.2016, no julgamento das medidas cautelares nas ações diretas de constitucionalidade 43 e 44, por maioria de votos, confirmou entendimento antes adotado no julgamento do HC n.º 126.292, no sentido de que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência, de modo que, confirmada a condenação por colegiado em segundo grau, e ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada. Ressalva do entendimento da Relatora.
+2. O pedido de prisão domiciliar para cuidar do marido, supostamente portador de doença grave e incapacitante, não possui previsão legal. Ademais, não existem provas da incapacidade do cônjuge para as atividades básicas do cotidiano nem de que eventuais cuidados devam ser prestados exclusivamente pela ora recorrente.
+3. Recurso a que se nega provimento.
+(RHC 75.065/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 8/11/2016, grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. CUIDADO DA SAÚDE DO CÔNJUGE E DO FILHO DE 14 ANOS. NÃO DEMONSTRAÇÃO DE IMPRESCINDIBILIDADE. DESCONSTITUIÇÃO DA CONCLUSÃO DAS INSTÂNCIAS ORDIN ÁRIAS. NECESSIDADE DE REEXAME APROFUNDADO DO CON JUNTO FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO
+1. Em regra, a concessão de prisão domiciliar só é admitida em favor de apenado inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP. Na hipótese, as instâncias ordinárias afirmaram que a ora paciente, atualmente em regime semiaberto, não é imprescindível para o cuidado do seu filho de 14 anos e do seu esposo, não restando demonstrada, portanto, flagrante ilegalidade a ser sanada por esta corte.
+2. Para afastar a conclusão da origem, é necessário o revolvimento do conjunto fático-probatório, providência sabidamente incompatível com a estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 667.641/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe de 24/9/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
