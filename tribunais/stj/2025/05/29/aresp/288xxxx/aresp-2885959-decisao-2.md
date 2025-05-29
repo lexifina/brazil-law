@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por GILSON NOÉ DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, cuja ementa é a seguinte (e-STJ fls. 193/198):
+APELAÇÃO CRIMINAL DUPLA. ROUBO MAJORADO. EXPLOSÃO MAJORADA. ABSOLVIÇÃO. FALTA DE PROVAS. DOSIMETRIA. JUSTIÇA GRATUITA. 1) Resultando das provas dos autos a certeza das condutas ilícitas previstas nos arts. 157, § 2º, I, II e V e 251, § 2º, ambos do CP, incomportável a absolvição. 2) Tratando-se de ações distintas, com lesões a bens jurídicos diversos, inviável a consunção do delito de explosão pelo crime de roubo. 3) Não é possível o reconhecimento do concurso formal (art. 70, CP), se evidenciada a prática de mais de uma ação autônoma, atraindo a incidência do art. 69, CP. 4) Havendo equívoco na valoração de circunstância judicial para ambos apelantes, cabível a redução da pena-base quanto ao crime de roubo majorado. 5) Demonstrando que o 1º Apelante tinha participação relevante para a consumação dos delitos, não se aplica o art. 29, § 1º, CP. 6) A pena de multa deve ser proporcional a sanção privativa de liberdade. 7) O pedido de justiça gratuita deverá ser avaliado na fase de execução penal. 8) Recursos conhecidos e parcialmente providos.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 3962/3969).
+Nas razões do recurso especial (e-STJ fls. 3996/3999), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 29, §1º, do CP. Sustenta o reconhecimento da participação de menor importância na conduta delitiva.
+Apresentadas contrarrazões (e-STJ fls. 4020/4034 ), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 4040/4042), tendo sido interposto o presente agravo (e-STJ fls. 4065/4067).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo para não conhecer do recurso especial e, se conhecido, pelo não provimento (e-STJ fls. 4090/4101).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de roubo majorado, como coautor, conforme trecho abaixo (e-STJ fls. 3968):
+A testemunha Fábio Lacerda De Macedo também afirmou: "Que o grupo chegava no local, realizava disparos para intimidar a população e os Policiais Militares e realizava sequestro daquelas pessoas que se encontravam perto do local, para que se resguardassem caso a polícia chegasse no local".
+Acrescente-se que a participação do embargante Gilson na empreitada criminosa às instituições financeiras se deu de forma direta, inclusive, com manuseamento de explosivos e arrombamento de caixas, portanto, sequer a que se falar em participação de menor importância (art. 29, § 1º, CP).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da participação de menor importância na conduta delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
