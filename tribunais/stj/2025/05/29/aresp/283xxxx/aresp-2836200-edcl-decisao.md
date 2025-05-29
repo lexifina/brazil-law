@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.404-1.408) opostos por UMANIZZARE GESTÃO PRISIONAL E SERVIÇOS S/A contra decisão (fls. 1.396-1.401) desta relatoria que conheceu do agravo de BETACRUZ SECURITIZADORA LTDA, ora embargada, para não conhecer do recurso especial.
+Nas razões dos aclaratórios, UMANIZZARE GESTÃO PRISIONAL E SERVIÇOS S/A suscita existência de omissão, porque não foram fixados honorários advocatícios sucumbenciais no incidente de desconsideração da personalidade jurídica suscitado pela ora Embargada.
+Aduz que a eg. Corte Especial "(..) em 13 de fevereiro de 2025, julgou o REsp nº 2072206, tendo superado a jurisprudência até então dominante e passado a admitir a fixação de honorários em sede de Incidente de Desconsideração da Personalidade Jurídica que venha a ser julgado improcedente (..)" (fls. 1.404).
+Defende, também, que "(..) com a reversão do entendimento jurisprudencial acerca do tema, passa-se a admitir expressamente a fixação de honorários advocatícios em caso de julgamento de improcedência do IDPJ aventureiro, que causa transtornos indevidos a terceiros, como ocorre na presente hipótese" (fls. 1.405).
+Alega, ainda, que os "(..) honorários advocatícios devem ser fixados sobre o valor atualizado da causa quando a pretensão autoral é julgada improcedente, conforme os §§ 2º e §6º-A do art. 85 do CPC (..)" (fls. 1.405).
+Afirma, ainda, que, no caso, "(..) tem-se a atribuição de um valor certo para o IDPJ (o crédito que se buscou atribuir indevidamente a terceiros), que foi informado no momento da propositura do IDPJ e que se pretendia impor à ora Embargante, o qual, uma vez atualizado, deve servir como parâmetro para a fixação dos honorários advocatícios" (fls. 1.406).
+Intimada, BETACRUX SECURITIZADORA LTDA apresentou impugnação (fls. 1.412-1.416), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, a razão não assiste ao ora Embargante, então agravada, pois, não há vícios a serem corrigidos na decisão que, repita-se, conheceu do agravo de BETACRUX SECURITIZADORA LTDA, ora embargada, para não conhecer do recurso especial.
+No caso, se a ora Embargante, então agravada, discordava do v. acórdão estadual que não fixou honorários advocatícios sucumbenciais, deveria ter interposto o respectivo recurso especial, trazendo ao eg. STJ a discussão quanto à possibilidade de verba honorária sucumbencial em sede de incidente de desconsideração da personalidade jurídica. Entretanto, tal tese não poderá ser analisada sob a alegação de omissão na decisão que julgou recurso interposto pela parte contrária, ora embargada, sob pena de indevido reformatio in pejus.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
