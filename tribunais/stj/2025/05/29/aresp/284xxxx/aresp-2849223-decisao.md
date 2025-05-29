@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS X S.A., contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 942) :
+RECURSO DE AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AÇÃO CAUTELAR PENDENTE DE TRÂNSITO EM JULGADO NA JUSTIÇA FEDERAL. PROCESSO SUSPENSO. ALEGAÇÃO DE QUE A APELAÇÃO INTERPOSTA NÃO POSSUI EFEITO SUSPENSIVO. POSSIBILIDADE DE REVERSÃO DO JULGAMENTO. PODER GERAL DE CAUTELA. DIVERSAS EXECUÇÕES PENDENTES. DECISÃO MANTIDA.
+1. Segundo dispõe o art. 921, inciso I c/c art. 313, inciso V, alínea "a", ambos do Código de Processo Civil/2015, a execução será suspensa quando depender de julgamento de outra causa, bem como da declaração da existência ou inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+2. Considerando a probabilidade de reversão do resultado da ação cautelar perante a Justiça Federal, cujo julgamento se refere à declaração de existência ou de inexistência da relação jurídica que motiva as execuções, forçoso convir que os autos de origem devem permanecer suspensos.
+3. Atentando-se à possibilidade de que a retomada do curso processual leve a repercussões irreversíveis à parte agravada e a eventual tumulto processual, forçoso convir que é temerária a retomada da execução.
+RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fl. 979):
+EMBARGOS DE DECLARAÇÃO NO RECURSO DE AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AÇÃO CAUTELAR PENDENTE DE TRÂNSITO EM JULGADO NA JUSTIÇA FEDERAL. SUSPENSÃO DA EXECUÇÃO. PODER GERAL DE CAUTELA. AUSÊNCIA DE CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA DECIDIDA. ACÓRDÃO MANTIDO.
+1. Os embargos de declaração se destinam a corrigir falha do comando judicial que comprometa seu entendimento, o que pode decorrer de quatro hipóteses: contradição, omissão, obscuridade e a correção de erro material.
+2. No caso, não se vislumbra a incidência de contradição, mas tão somente a insatisfação com o julgamento, razão porque pretende-se a rediscussão da matéria.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Afirma a recorrente que há violação ao art. 1.012, §1º, V, do CPC e dissídio pretoriano, sustentando que, extinta a cautelar, a liminar que fora deferida fica também revogada, daí porque é impróprio manter suspensa a execução, em virtude de ter sido interposta apelação contra a sentença que extiguira a cautelar. Salienta que a apelação, em tal hipótese, não tem efeito suspensivo.
+Foram apresentadas contrarrazões (fls. 1.010-1.028).
+O recurso não foi admitido na origem por incidência da Súmula 83/STJ (fls. 1.031-1.033).
+É o relatório. Decido.
+Impugnada a decisão de inadmissibilidade, conheço do agravo e passo ao exame do recurso especial.
+Colhe-se do acórdão recorrido (fls. 944-947):
+(..)
+Insurge-se a recorrente contra decisão que manteve a suspensão da execução de título extrajudicial de origem, a fim de aguardar o julgamento final da ação cautelar n. 83489-47, que tramita na Justiça Federal.
+Após detida análise dos autos, entendo que a pretensão não merece acolhida.
+Explico.
+Primeiramente, de se ressaltar que o ponto nevrálgico da lide cautelar é a liquidez, a certeza e a exigibilidade dos títulos executados nas ações n. 0402610-90.2010, 0402622-07.2010, 0402655- 94.2010 e 0187503-82.2013. Nesse sentido, a suspensão dos processos decorrente do trâmite da ação cautelar perante a Justiça Federal, objetivando a declaração de que tais títulos possuem ou não os requisitos legais para serem executados nos supracitados autos. Segundo dispõe o art. 921, inciso I c/c art. 313, inciso V, alínea "a", ambos do Código de Processo Civil/2015, a execução será suspensa quando depender de julgamento de outra causa, bem como da declaração da existência ou inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+(..)
+Assim sendo, muito embora a apelação interposta nos autos cautelares não esteja dotada do efeito suspensivo, há que se considerar a possível reversão do resultado do julgamento realizado.
+Isso porque, naqueles autos, a extinção do processo por abandono da causa ocorreu pela demora na juntada das peças faltantes na referida ação, porém, a responsável pela digitalização do processo é a 1ª Vara Cível, Registros Públicos e Ambiental da Comarca de Posse. Além disso, apesar de determinada a inclusão da União na lide, não houve sua manifestação anteriormente à prolação da sentença.
+Dessa forma, considerando as particularidades do caso e a probabilidade de reversão do resultado da ação cautelar n. 83489-47, cujo julgamento refere-se à declaração de existência ou de inexistência da relação jurídica que motiva as execuções, forçoso convir que os autos de origem devem permanecer suspensos.
+Com efeito, à guisa da possibilidade de manter suspenso o processo, ainda que não detenha a apelação lá interposta efeito suspensivo, "o poder geral de cautela assegura ao magistrado o deferimento de todas as medidas que se revelarem adequadas ao asseguramento da utilidade da tutela jurisdicional, ainda que sejam coincidentes com aquelas previstas especialmente para a execução. Portanto, sobressai o caráter instrumental da providência de natureza cautelar, que visa à garantia do próprio instrumento, no sentido de assegurar a efetividade do processo judicial" (REsp 1847105/SP, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 12/09/2023, DJe de 19/09/2023).
+(..)
+Dessa forma, atentando-se à possibilidade de que a retomada do curso processual leve a tumulto processual e a repercussões irreversíveis à parte agravada, forçoso convir que é temerária a retomada do processo.
+Consoante se depreende, encontra-se arrimado o julgamento combatido, não só na questão da ausência de efeito suspensivo à apelação, em casos deste jaez, mas também nos arts. 313, V, "a" e 921, I, ambos do CPC (suspensão da execução quando depender de julgamento de outra causa ou da declaração da existência ou inexistência de relação jurídica que constitua o objeto principal de outro processo pendente), capazes, por si sós, para manter o julgado, mas que não foram especificamente impugnados nas razões do recurso especial. Não foram, sequer, mencionados. Incide a Súmula 283/STF.
+Nesse sentido, o entendimento desta Corte:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. CUMPRIMENTO DE SENTENÇA. RESSARCIMENTO DO VALOR DO SINAL. DECISÃO DE IMPENHORABILIDADE DO IMÓVEL. EXEQUENTE QUE NÃO TEM RELAÇÃO COM O CRÉDITO CONCEDIDO PARA A COMPRA DO BEM PELA RECORRIDA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de ação de execução objetivando a devolução do sinal pago na aquisição de imóvel cujo negócio não se concretizou, e posteriormente o bem veio a ser alienado a terceiros, alegando a credora que o valor executado teria sido utilizado pela devedora na compra do imóvel onde atualmente reside e que se pretende penhorar.
+2. Concluiu o Tribunal estadual pela impossibilidade de se estender a exceção à regra da impenhorabilidade à hipótese dos autos, tendo em vista que o titular do crédito, aqui, não é a exequente, ora recorrente, mas sim a instituição financeira com quem a executada, ora recorrida, firmou o contrato de financiamento. Logo, a exequente não tem relação com o crédito concedido para a compra do imóvel pela executada.
+3. Ocorre que esse fundamento, suficiente, por si só, para manter a conclusão do aresto objurgado, não foi objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, o óbice da Súmula n.º 283 do STF, por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5 . Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.325.445/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - SEGUNDA FASE - NULIDADE DE INTIMAÇÃO - INEXISTÊNCIA DE PREJUÍZO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Não há se falar em nulidade quando ausente prejuízo. No caso dos autos, a despeito de ter constado na intimação, errônea unidade federativa, os demais elementos essenciais necessários à identificação da advogada e do processo permitiram que ato processual atingisse o seu objetivo.
+2.1. A ausência de impugnação ao fundamento adotado pelo acórdão recorrido que, por si só, é capaz de manter o entendimento então firmado, atrai a incidência, por analogia, da Súmula nº 283 do STF.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.179.932/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
