@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por AMAURI LUIZ CARDOSO, fundado no art. 105, III, "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fls. 424/439):
+<AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO POR TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ EXECUTIVIDADE - ILIQUIDEZ DO TÍTULO - NECESSIDADE DE DILAÇÃO PROBATÓRIA - IMPOSSIBILIDADE DE DISCUSSÃO - CÉDULA DE CRÉDITO BANCÁRIO - PRESCINDIBILIDADE DE JUNTADA DO ORIGINAL - DOCUMENTO SEM CIRCULAÇÃO - EXTRATOS BANCÁRIOS - DISCRICIONARIEDADE LEGAL - POSSIBILIDADE DE ANEXAR APENAS PLANILHA DE CÁLCULO - DECISÃO MANTIDA. I - A exceção de pré-executividade permite ao devedor obter a extinção do procedimento executivo mediante discussão de matérias de ordem pública, aquelas cognoscíveis de ofício e a qualquer tempo pelo Juízo. II - Tratando-se de questionamentos consistentes na iliquidez do título, se fazendo necessária a dilação probatória, incabível a oposição de exceção de pré-executividade. III - Considerando que a cédula de crédito bancário não é um título ao portador, dispensável a juntada do original para lastrear a ação de execução. III - Nos termos do artigo 28 da Lei 10.931/2004, a demonstração do saldo devedor também poderá ser comprovada por mera planilha de cálculos, ocasião em que é desnecessária a juntada dos extratos bancários. >
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alegou violação aos arts. 320, 783, 798, I, "b", parágrafo único, I, 803, I, todos do Código de Processo Civil, 39, XIII, do Código de Defesa do Consumidor, 887 do Código Civil e 29, §1º, da Lei Federal n. 10.931/2004, sustentando, em síntese, que eventual incerteza, iliquidez e inexigibilidade do título podem ser discutidas e reconhecidas tanto por meio de exceção de pré-executividade quanto por embargos à execução.
+Assevera sobre a necessidade de apresentação da via original da cédula de crédito bancário e seu depósito em juízo, a fim de que se comprove a posse e se impeça o endosso do título executivo.
+Defende que a inexistência de índice de correção monetária no título executivo o torna ilíquido e incerto, nulificando a execução. Outrossim, alega a impossibilidade de estipulação unilateral de índice de correção monetária diverso, no curso processo executivo.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+Inicialmente, cumpre destacar que, quanto às vulnerações aos arts. 320, 783, parágrafo único, I, todos dos CPC, 39, XIII, do CDC e 887 do CC, não se pronunciou o Tribunal a quo, ausente o indispensável requisito do prequestionamento.
+Com efeito, não existem elementos jurídicos no acórdão recorrido que possibilitem, na via recursal, apreciação envolvendo controvérsia com base nas teses supramencionadas.
+Em síntese, tais argumentos não se encontram contemplados na fundamentação expendida pelo Tribunal de origem para a solução da controvérsia, o que impossibilita a apreciação das teses aventadas, sob pena de incorrer em supressão de instâncias.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Com efeito, o prequestionamento consiste no efetivo pronunciamento da matéria no acórdão recorrido, o que não ocorreu na espécie em relação aos arts. elencados, nem mesmo implicitamente. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULA 282 STF. HONORÁRIOS ADVOCATÍCIOS NO CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA SOBRE O VALOR EXECUTADO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Súmula 282/STF.
+2. Os honorários advocatícios no cumprimento de sentença devem incidir apenas sobre o valor executado pelo advogado, e não sobre o valor do crédito apurado em favor de seu cliente, no processo de conhecimento. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.309.419/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER E OBRIGAÇÃO DE PAGAR C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA ANTECIPADA. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+3. Não se considera preenchido o requisito do prequestionamento (prequestionamento implícito) quando o tribunal de origem não debate efetivamente acerca da matéria inserta no dispositivo de lei federal.
+4. A simples transcrição das ementas, sem o correspondente cotejo analítico entre os paradigmas e o acórdão recorrido e sem a demonstração da identidade ou similitude fática entre eles nos moldes do RISTJ, impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+5. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+6 . Agravo interno desprovido.
+(AgInt no REsp n. 2.041.495/RN, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Relativamente à tese de iliquidez e incerteza do título objeto da lide, consignou o Tribunal a quo tratar-se de decisão que exige dilação probatória, tendo em vista basear-se o pedido na adoção de índice de correção monetária diverso do pactuado entre as partes, o que afasta a possibilidade de cabimento da exceção de pré-executividade, litteris (e-STJ, fl. 417):
+"Diversamente ao construído pela doutrina, o executado ofertou exceção de pré-executividade aduzindo algumas matérias que demandam necessária dilação probatória e, portanto, deveriam ter sido arguidas em embargos à execução.
+Os embargos à execução, ainda que considerados como mecanismo de defesa, assume caráter de ação autônoma, permitindo o amplo debate e a dilação probatória, de modo a afastar o pedido executivo.
+(..)
+A alegação de que o título executado carece de obrigação líquida e certeza, por ter utilizado índice de cálculo da correção monetária diferente do pactuado entre as partes, além de demandar dilação probatória, deveria ter sido suscitada em embargos à execução, por força do art. 917, do CPC.
+Nesse sentido, deve ser mantida a sentença que rejeitou a exceção de pré-executividade."
+Neste sentido, é de rigor a manutenção do decisum no ponto, porquanto entende esta Corte Superior que "A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (AgInt nos EDcl no AgInt no AREsp 2.229.134/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 22/4/2024, DJe de 13/5/2024).
+Assim, ausente um dos requisitos para que seja cabível a exceção de pré-executividade, incide no ponto o comando sumular n. 83/STJ. Outrossim, a revisão do julgado, com o fito de reconhecer que foram demonstrados os requisitos necessários ao oferecimento da exceção de pré-executividade, demandaria incursão no acervo fático-probatório dos autos, diligência vedada pela Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DÍVIDA LÍQUIDA. PRESCRIÇÃO. TERMO INICIAL. DIA DO PAGAMENTO DA ÚLTIMA PARCELA. REQUISITOS DA EXCEÇÃO NÃO PREENCHIDOS NO CASO CONCRETO. AGRAVO INTERNO DESPROVIDO.
+1. Consoante iterativa jurisprudência do STJ, o termo inicial do prazo prescricional de dívida líquida se implementa no dia fixado no título para pagamento da última parcela devida.
+2. Segundo a orientação do STJ, a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, a saber: (i) indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (ii) indispensável que a decisão possa ser tomada sem necessidade de dilação probatória. No caso concreto, o Tribunal a quo asseverou que há necessidade de dilação probatória, razão pela qual rejeitou a exceção.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.657.990/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 18/11/2024, DJEN de 29/11/2024.) g.n
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULAS DE CRÉDITO RURAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ABUSIVIDADE DOS REMUNERATÓRIOS E DA COMISSÃO DE PERMANÊNCIA. NÃO CONHECIMENTO DA MATÉRIA PELO TRIBUNAL ESTADUAL. DISCUSSÃO ACERCA DO EXCESSO DOS JUROS MORATÓRIOS. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO CPC. MATÉRIA, ADEMAIS, QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE O ÓBICE SUMULAR. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Inexistente o prequestionamento sobre a matéria relativa ao excesso dos juros moratórios, obstaculizada está a via de acesso ao apelo excepcional. Incidente a Súmula n. 211 do STJ.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que seja indicada violação do art. 1.022 para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei, o que não foi observado na espécie.
+3. A revisão da conclusão do julgado, para analisar os requisitos necessários ao oferecimento da exceção de pré-executividade, com o consequente acolhimento da pretensão recursal, demandaria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei.
+5. Recurso especial não conhecido.
+(REsp n. 2.125.721/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)  g.n
+Quanto à possibilidade de juntada das cópias do título executivo extrajudicial, esta eg. Corte entende que "a apresentação da via original da Cédula de Crédito Bancário só é necessária, a critério do juiz, se houver alegação concreta e motivada do executado de que o título possui alguma inconsistência formal ou material, de que ele circulou ou de que estaria sendo executado em duplicidade." (AgInt no REsp n. 2.071.098/MT, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Neste sentido, o acórdão recorrido consignou ser suficiente, para embasar o pedido executivo, a juntada da cópia da Cédula de Crédito Bancário, considerando não se tratar de documento dotado de livre circulação (e-STJ, fls. 418), decidindo consentaneamente ao entendimento exarado pelo STJ.
+Nesta linha de intelecção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. JUNTADA DO ORIGINAL DO TÍTULO. DESNECESSIDADE.
+1. Ação de execução de título extrajudicial.
+2. A necessidade de juntada da via original do título executivo extrajudicial deve ficar a critério do julgador e se faz necessária apenas quando invocado pelo devedor algum fato concreto impeditivo da cobrança do débito. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.035.971/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO. VIA ORIGINAL. APRESENTAÇÃO. DESNECESSIDADE.
+1. A discussão nos autos reside em verificar se há necessidade de juntar a via original de cédula de crédito bancário garantida por alienação fiduciária em ação de busca e apreensão.
+2. A exigência de apresentação da via original do título executivo pode ser abrandada no caso em que inexiste dúvida em relação à existência do título e da dívida e não comprovada que houve circulação.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.106.763/MT, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Observa-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto objeto do recurso, é medida que se impõe, mormente ante a incidência da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
