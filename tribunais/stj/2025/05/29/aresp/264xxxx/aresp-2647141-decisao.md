@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por ALDERSON FANTE DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0022528-88.2018.8.12.0001 (fls. 516/523).
+No recurso especial, fundado nas alíneas a e c do permissivo constitucional, a defesa sustentou violação dos arts. 155 e 386, VII, do Código de Processo Penal, objetivando a absolvição do agravante por insuficiência de provas, alegando que o semáforo estava favorável ao condutor, que a velocidade média não pode servir de parâmetro para aferir a velocidade no momento do impacto e que houve culpa exclusiva da vítima. Sustentou que está caracterizado dissídio jurisprudencial entre o acórdão recorrido e ac órdão proferido pelo Tribunal a quo, que concluiu pela absolvição em caso similar (fls. 530/583).
+O apelo foi obstado na origem em razão da incidência da Súmula 7/STJ, bem como pela não demonstração dos requisitos da divergência jurisprudencial (fls. 608/618), subindo os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 624/654).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 690/691).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, já que reúne os requisitos de admissibilidade.
+Entretanto, a pretensão deduzida pelo agravante no recurso especial não deve prosperar.
+O Tribunal de origem concluiu, com base no conjunto probatório dos autos, que (fls. 520/523):
+ ..
+A materialidade e autoria delitivas restaram comprovadas pelo Auto de Prisão em Flagrante (f. 08/09), Auto de Apreensão (f. 37), Termo de Constatação de Alteração da Capacidade Psicomotora (f. 39/40), Laudo de Exame de Corpo de Delito Exame Necroscópico (f. 79/82), Laudos Periciais (f. 85/99, f. 117/144), além da prova oral colhida ao longo do processo.
+ ..
+Urge destacar que o sinal estar verde (ou não) não descaracteriza a obrigação do condutor de diminuir a velocidade ao avistar um pedestre atravessando a via, principalmente porque a velocidade excessiva e ausência de reflexo do condutor foram determinantes para o resultado fatídico.
+Ademais, as testemunhas que participaram da reunião sobre investimentos terem afirmado que não consumiram bebida alcoólica na reunião, não significa concluir que o acusado não pudesse estar embriagado, até porque a constatação do estado de embriaguez foi feita por mais de um policial que teve contato com o acusado durante os trâmites da condução da residência até a delegacia, não havendo razão para descrédito de tais agentes públicos.
+Nesse sentido, vale trazer significativa ponderação do representante da Procuradoria-Geral de Justiça (f. 510):
+" ..  restou incontroverso que o apelante conduziu veículo automotor com capacidade psicomotora alterada em razão da influência de álcool, uma vez que os policiais militares que participaram da ocorrência relataram que o réu se apresentava em visível estado de embriaguez.
+Nas mesmas circunstâncias foi a análise do arquivo de vídeo realizada pelo Laudo Pericial n.º 136.794 (fls. 85-99), que descreveu habilidosamente a dinâmica dos fatos, concluindo que a vítima, Moisés, juntamente com seu amigo Bruno, atravessam a faixa de pedestre em direção ao estabelecimento Euclides Conveniência.
+Nesse sentido, verificou-se que o automóvel VW UP CROSS MDV, conduzido pelo apelante trafegava em alta velocidade (aproximadamente 106 km/h), de forma que a vítima e o amigo Bruno começaram a correr ao notarem a proximidade do veículo, no entanto, Moisés foi atingido.
+Destaca-se que, no momento da colisão, a vítima foi projetada para cima do teto do automóvel VW UP CROSS MDV, placas QAK-0105 (V1), chegando apenas a se desprender do veículo após, aproximadamente, 55,79 metros de distância do local da colisão, consoante imagens de fls. 134-141.  .. "
+Assim, não merece prosperar a tese de culpa exclusiva da vítima, ausência de culpa do acusado ou de nexo causal, especialmente pela coerência e harmonia do conjunto probatório, sendo imperiosa a manutenção da sentença condenatória.
+ ..
+A pretensão recursal de desconstituir essas conclusões e obter a absolvição do agravante demandaria necessariamente amplo revolvimento de fatos e provas dos autos, o que encontra óbice na Súmula 7/STJ.
+Quanto ao recurso especial fundamentado em divergência jurisprudencial, este também não merece conhecimento. O entendimento consolidado nesta Corte Superior estabelece a impossibilidade de conhecer o recurso especial pela divergência quando esta se baseia em aspectos fáticos, e não na interpretação do direito. Tal orientação decorre da aplicação da Súmula 7/STJ, que incide igualmente sobre os recursos especiais interpostos com base na alínea c do permissivo constitucional. Confiram-se: AgInt no AREsp n. 1.570.877/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/6/2020, DJe de 1º/7/2020; AgInt no AREsp n. 1.616.996/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/5/2020, DJe de 13/5/2020; e AgRg no AREsp n. 1.089.689/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 21/9/2017, DJe de 4/10/2017.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PLEITO ABSOLUTÓRIO. ALEGADA INSUFICIÊNCIA DE PROVAS. DISSÍDIO JURISPRUDENCIAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
