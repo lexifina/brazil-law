@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por AGUAS DE PENHA SANEAMENTO SPE S.A. da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial dirigido contra o acórdão prolatado em Apelação Cível n. 5000856-51.2021.8.24.0048 assim ementado (fl. 151):
+TRIBUTÁRIO - IPTU - CONCESSIONÁRIA DE SERVIÇO PÚBLICO - BENS IMÓVEIS ADQUIRIDOS E EMPREGADOS NO SERVIÇO DE ABASTECIMENTO DE ÁGUA E ESGOTAMENTO SANITÁRIO - DESENVOLVIMENTO DE ATIVIDADE ECONÔMICA - INTUITO DE LUCRO - PROXIMIDADE COM OS TEMAS 385 E 437 DO STF - AUSÊNCIA DE IMUNIDADE - SENTENÇA RATIFICADA.
+1. A partir do julgamento dos Temas 385 e 437, o STF definiu que o essencial para fins da caracterização da imunidade recíproca não é propriamente a destinação do imóvel - se afetado ou não à prestação de um serviço público -, tampouco a propriedade registral, mas a eventual exploração de atividade econômica com fins lucrativos.
+2 . Ainda que se trate de concessionária de serviço público e que os imóveis objetos da exação estejam sendo empregados no serviço de abastecimento de água da localidade (e que futuramente serão revertidos à Administração), a autora está excluída da não incidência diante da efetiva exploração de atividade econômica com intuito lucrativo e distribuição de benefícios entre os acionistas.
+3. Recurso desprovido.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: ausência de prequestionamento (Súmulas n. 282 e 356 do STF), ausência de impugnação de fundamento autônomo (Súmula n. 283 do STF) e deficiência na fundamentação recursal (Súmula n. 284 do STF). Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à Súmula n. 284 do STF.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Com efeito, a parte agravante, nas razões do agravo em recurso especial, em relação à Súmula n. 284 do STF, restringiu-se a afirmar que a decisão agravada se revelou genérica, não tendo impugnado de maneira específica o óbice referente à deficiência na fundamentação apresentada, o qual não permitiu a exata compreensão da controvérsia.
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial, que não admite o recurso especial, não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
