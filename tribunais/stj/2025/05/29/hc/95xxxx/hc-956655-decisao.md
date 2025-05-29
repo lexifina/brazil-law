@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCIANO JESUS DA COSTA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Na impetração a defesa informa que o paciente foi condenado à pena de 4 meses e 2 dias de detenção em regime inicial aberto, como incurso nas sanções do art. 349-A, c/c o art. 62, II, ambos do Código Penal (fl. 4).
+Alega que a tentativa de ingresso de objetos ilícitos no sistema prisional deve ser enquadrada como crime impossível, com fundamento no art. 17 do Código Penal, pois a fiscalização rigorosa na entrada da penitenciária inviabilizou a consumação do delito (fls. 5-7).
+Sustenta que não há tipicidade na conduta, afirmando que o réu não praticou nenhum dos verbos nucleares previstos no art. 349-A do Código Penal, e que a mera solicitação ou induzimento não se confunde com a prática direta de qualquer um desses verbos (fls. 7-8).
+Afirma que a condenação foi baseada exclusivamente em elementos colhidos no procedimento administrativo, sem a devida produção probatória em juízo, em violação ao art. 155 do Código de Processo Penal (fls. 9-11).
+No mérito, a defesa requer a absolvição do paciente, com fundamento na ausência de tipicidade da conduta e na tese de crime impossível (fl. 12).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 480-482).
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+No caso concreto a discussão já foi exaurida desde a sentença em primeira instância, pretendendo a parte utilizar a impetração como uma nova instância recursal, o que não é possível. Portanto, do writ não se pode conhecer.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+Conforme jurisprudência deste Superior Tribunal de Justiça, a existência de fiscalização e a revista pessoal apenas minimiza ou dificulta o ingresso de objetos ilícitos no interior do estabelecimento prisional, mas não o impede por completo, razão pela qual não se sustenta a alegação de crime impossível.
+Nesse sentido:
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. CRIME IMPOSSÍVEL. IMPOSSIBILIDADE. DELITO UNISSUBSISTENTE. REVISTA ÍNTIMA. LICITUDE DAS PROVAS OBTIDAS. MOMENTO DO INTERROGATÓRIO. RECURSO PROVIDO.
+1. O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte em relação à conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não houve nenhuma contradição, omissão, ambiguidade ou obscuridade no julgado proferido pela Corte de origem, de modo a gerar o pretendido reconhecimento de violação do art. 619 do Código de Processo Penal, porquanto o Tribunal a quo efetivamente externou as razões pelas quais entendeu configurada a apontada nulidade arguída pela defesa (relativa à ordem do interrogatório) e considerou devida a absolvição da acusada.
+3. O crime descrito no art. 33, caput, da Lei n. 11.343/2006 é unissubsistente, de maneira que a realização da conduta esgota a concretização do delito. Inconcebível, por isso mesmo, a sua ocorrência na modalidade tentada.
+4. É desnecessária, para a configuração do delito previsto no art. 33, caput, da Lei n. 11.343/2006, a efetiva tradição ou entrega da substância entorpecente ao seu destinatário final. Basta a prática de uma das dezoito condutas relacionadas a drogas para que haja a consumação do ilícito penal. Precedentes.
+5. Em razão da multiplicidade de verbos nucleares previstos no art. 33, caput, da Lei n. 11.343/2006 (crime de ação múltipla ou de conteúdo variado), inequívoca a conclusão de que o delito ocorreu em sua forma consumada, na modalidade "trazer consigo" ou "transportar". Vale dizer, antes mesmo da abordagem da acusada pelos agentes penitenciários, o delito já havia se consumado com o "trazer consigo" ou "transportar" drogas (no caso, 143,7 g de maconha), sem autorização ou em desacordo com determinação legal ou regulamentar.
+Inviável, por conseguinte, a aplicação do instituto do crime impossível.
+6. Conquanto seja possível inferir que a revista pessoal tenha por objetivo evitar a entrada de armas, explosivos, drogas, aparelhos celulares e outros similares em estabelecimentos prisionais, sua existência apenas minimiza o ingresso de tais objetos no presídio.
+7. Não obstante a acusada tivesse o direito de se recusar a ser revistada intimamente, submeteu-se, de maneira voluntária, ao procedimento adotado no estabelecimento prisional, que resultou na localização, no interior de sua vagina, de 143,7 g de maconha, acondicionados dentro de um preservativo, os quais seriam entregues a seu companheiro, que estava preso no local. Assim, não houve ato ofensivo à honra da acusada, tampouco dano à sua integridade física ou moral. 8. As pessoas que se dirigem ao presídio sabem, previamente, que podem ser submetidas à revista pessoal e minuciosa.
+Trata-se. tal procedimento (quando realizado com estrita observância a procedimento legal e com respeito aos princípios e às garantias constitucionais), de legítimo exercício do poder de polícia do Estado, de cunho preventivo, o qual objetiva garantir a segurança social e os interesses públicos.
+9. Caso haja fundadas suspeitas de que o visitante do presídio esteja portando material ilícito, é possível a realização de revista íntima, com fins de segurança, a qual, por si só, não ofende a dignidade da pessoa humana, notadamente quando realizada dentro dos parâmetros legais e constitucionais, sem nenhum procedimento invasivo, tal como ocorreu na espécie dos autos. Precedentes.
+10. Por ocasião do julgamento do HC n. 127.900/AM, ocorrido em 3/3/2016 (DJe 3/8/2016), o Pleno do Supremo Tribunal Federal firmou o entendimento de que o rito processual para o interrogatório, previsto no art. 400 do Código de Processo Penal, deve ser aplicado a todos os procedimentos regidos por leis especiais. Isso porque a Lei n. 11.719/2008 (que deu nova redação ao referido art. 400) prepondera sobre as disposições em sentido contrário previstas em legislação especial, por se tratar de lei posterior mais benéfica ao acusado (lex mitior), já que assegura maior efetividade a princípios constitucionais, notadamente aos do contraditório e da ampla defesa.
+11. De modo a não comprometer o princípio da segurança jurídica dos feitos já sentenciados (CF, art. 5º, XXXVI), houve modulação dos efeitos da decisão: estabeleceu que essa orientação somente deve ser aplicada aos processos cuja instrução ainda não se haja encerrada.
+12. Recurso especial provido, nos termos do voto do relator.
+(REsp n. 1.523.735/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/2/2018, DJe de 26/2/2018 - grifo próprio.)
+Por fim, a conduta do paciente está enquadrada em um dos verbos nucleares do tipo penal do art. 349-A do CP, qual seja, promover, consistente em dar causa ao ingresso de aparelho celular na unidade prisional por meio de sua ocultação na genitália da visitante.
+Conforme consta do acórdão do TJSP (fls. 307-309):
+(..) É dos autos que o recorrente induziu/solicitou que sua visita Rosimeire promovesse o ingresso de aparelho celular nas dependências da penitenciária em que ele cumpria pena. O dolo que impulsionava a conduta do recorrente é evidente, porquanto sabido que se trata de objeto cujo posse é proibida no interior da unidade penal. O crime se consumou no instante em que Rosimeire adentrou a unidade penal, com o objeto ocultado em seu corpo (genitália) a fim de burlar a fiscalização, não sendo necessário que o aparelho telefônico chegasse na posse do preso.
+Os fatos são confirmados pelas testemunhas ouvidas, Márcia (agente de segurança penitenciária) e Sirlei (escrivã de polícia), as quais narraram que Rosimeire declarou para ambas que havia ingressado na penitenciária com o referido objeto a pedido de seu companheiro (v. mídia).
+Anoto que não há que se desmerecer o depoimento das testemunhas acima referidas (uma agente de segurança penitenciária e outra escrivã de polícia), que é tomado em juízo sob o crivo do contraditório, não sendo invalidado pelo sistema processual brasileiro, tendo, ainda, o mesmo valor que quaisquer outros, mormente quando os autos não revelam a existência de animosidade para com o réu.
+Portanto, havendo prova de autoria e da ocorrência do crime, a r. sentença condenatória há de ser mantida.
+Não há, assim, flagrante ilegalidade na espécie.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
