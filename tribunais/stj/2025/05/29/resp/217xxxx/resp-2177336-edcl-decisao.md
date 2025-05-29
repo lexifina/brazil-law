@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos por KARSTEN COMÉRCIO E SERVIÇOS DE DISTRIBUIÇÃO LTDA e KARSTEN NORDESTE INDUSTRIA TEXTIL LTDA em face de decisão monocrática de minha relatoria que ficou assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. AUSÊNCIA DE NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO INCIDÊNCIA DE IRPJ E CSLL NA TAXA SELIC DA REPETIÇÃO DO INDÉBITO TRIBUTÁRIO. TEMA N. 962 DO STF. INCIDÊNCIA DE IRPJ E CS LL NOS JUROS INCIDENTES NA DEVOLUÇÃO DE DEPÓSITOS JUDICIAIS. TEMA N. 504 DO STJ. INCIDÊNCIA DE PIS E COFINS SOBRE VALORES A TÍTULO DE TAXA SELIC. PRECEDENTES DA PRIMEIRA E SEGUNDA TURMAS DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+A embargante alega que (fls. 654-655):
+(a) "em respeito à segurança jurídica, à proteção da confiança, à isonomia e à previsibilidade das decisões judiciais, a r. decisão não poderia ter julgado parcialmente procedente o Recurso Especial da União quanto às matérias, visto que os julgamentos dos Temas 504/STJ e 1237/STJ não se encerraram (é possível que ocorra alteração daquelas decisões).";
+(b) "fundamentos nucleares, apesar de serem de suma importância para o deslinde da controvérsia, não foram objeto de análise, o que configura omissão. E, mesmo que assim não fosse, serviriam os presentes Embargos para que as invocadas questões e normas fossem prequestionadas, a fim de viabilizar os próximos recursos, se necessários.".
+Não foi apresentada resposta ao recurso integrativo, conforme certidão de fl. 664.
+É o relatório. Decido.
+Os embargos de declaração não merecem acolhimento.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+No caso, a decisão impugnada resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+A parte embargante não apontou, em concreto, qualquer omissão na decisão recorrida, tendo feito apenas uma alegação genérica de que fundamentos nucleares para o deslinde da causa não foram analisados, mas sem apontar quais seriam tais fundamentos.
+Diante disso, patente a deficiência de fundamentação, a atrair a Súmula n. 284/STF.
+Quanto à alegação de que "a r. decisão não poderia ter julgado parcialmente procedente o Recurso Especial da União quanto às matérias, visto que os julgamentos dos Temas 504/STJ e 1237/STJ não se encerraram", verifico que esta não caracteriza a presença de nenhum vício elencado no art. 1.022 do CPC, estando a parte buscando um rejulgamento da causa, o que é plenamente inviável na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
