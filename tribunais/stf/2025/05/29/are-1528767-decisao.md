@@ -1,0 +1,35 @@
+Trata-se de recurso extraordinário com agravo interposto contra acórdão do Tribunal Regional Federal da 3ª Região-TRF3, assim ementado:
+
+    CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS. SAT/RAT. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. SALÁRIO E GANHOS HABITUAIS DO TRABALHO. VERBAS INDENIZATÓRIAS E SALARIAIS. RECUPERAÇÃO DE INDÉBITO. - O texto constitucional confiou à União Federal amplo campo de incidência para exercício de sua competência tributária no tocante à contribuição previdenciária patronal, compreendendo o conjunto das verbas remuneratórias habituais (salários e demais rendimentos do trabalho), cuja conformação normativa está essencialmente consolidada na Lei 8.212/1991 (notadamente em seu art. 22). Todavia, não estão no campo constitucional de incidência e nem nas imposições legais verbas com conteúdo indenizatório, em face das quais não pode incidir contribuição previdenciária. - Cada uma das contribuições “devidas a terceiros” ou para o “Sistema S” possui autonomia normativa, mas a União Federal as unificou para fins de delimitação da base tributável (p. ex., na Lei 2.613/1955, na Lei 9.424/1996, na Lei 9.766/1999 e na Lei 11.457/2007, regulamentadas especialmente no art. 109 da IN RFB 971/2009, com alterações e inclusões), razão pela qual as conclusões aplicáveis às contribuições previdenciárias também lhes são extensíveis. - A Primeira Seção do Superior Tribunal de Justiça decidiu, no REsp nº 1230957 / RS, julgado em 26/02/2014, que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado (Tema 478) e quinze primeiros dias de afastamento em razão de doença ou acidente (Tema 738). - Em favor da unificação do direito e da pacificação dos litígios, foi necessário acolher a orientação do E.STF no sentido da desoneração do terço de férias usufruídas (p. ex., RE-AgR 587941, j. 30/09/2008). Contudo, sob o fundamento de que o terço constitucional de férias usufruídas (art. 7º, XVII, da Constituição) é de verba periódica auferida como complemento à remuneração do trabalho, e que por isso, está no campo de incidência de contribuições incidentes sobre a folha de salários, o E.STF mudou sua orientação ao julgar o RE 1072485 (Sessão Virtual de 21/08/2020 a 28/08/2020), firmando a seguinte Tese no Tema 985: “É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias”. - Observada a prescrição quinquenal (art. 168 do CTN), a recuperação do indébito tem os acréscimos do Manual de Cálculos da Justiça Federal, e as regras para compensar são as vigentes no momento do ajuizamento da ação, assegurado o direito de a parte-autora viabilizá-la na via administrativa segundo o modo lá aplicável (REsp 1.137.738/SP, Rel. Min. Luiz Fux, v.u., DJe: 01/02/2010, Tese no Tema 265). Portanto, cumpridos os termos do art. 170 e do art. 170-A, ambos do CTN, e os critérios fixados por atos normativos da Receita Federal do Brasil (notadamente o art. 84 e seguintes da IN SRF 1.717/2017 e alterações, legitimados pelos padrões suficientes fixados na legislação ordinária da qual derivam), utilizando a GFIP, os indébitos poderão ser compensados apenas com contribuições previdenciárias; utilizando o eSocial e a DCTFWeb, os indébitos podem se valer da compensação “unificada” ou “cruzada” entre créditos e débitos previdenciários ou fazendários, nos termos do art. 74 da Lei 9.430/1996, com as restrições do art. 26-A, §1º, da Lei 11.457/2007 (introduzido pela Lei 13.670/2018). - Recurso a que se dá provimento e remessa oficial a que se dá parcial provimento (doc. 13, pp. 14-15).
+
+    Os embargos de declaração que se seguiram foram rejeitados (docs. 16 e 22).
+
+    No recurso extraordinário, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação ao art. 195, I, a, da mesma Carta.
+
+    Foi determinada a devolução dos autos à Turma julgadora, na forma dos arts. 1.039 a 1.041, do CPC, à luz do entendimento do STF no RE 1.072.485/PR, Tema 985 da Repercussão Geral. A Turma de origem manteve seu entendimento esclarecendo que:
+
+    O STF determinou a devolução destes autos para observância do art. 1.030, I a III, do CPC, à luz do quanto decidido pela Suprema Corte nos autos do RE n.º 1.072.485/PR, vinculado ao tema n.º 985 de Repercussão Geral.
+
+    Todavia, o compulsar dos revela que, em que se pese o respeitável entendimento externado na decisão, em verdade, o RE n.º 1.072.485/PR, vinculado ao tema n.º 985 de Repercussão Geral, já foi aplicado no caso vertente, tendo sido observada pelo acórdão recorrido inclusive a modulação dos efeitos da decisão (doc. 40, p. 5).
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhimento.
+
+    Isso porque não há previsão legal para interposição de recurso extraordinário contra acórdão que aplica paradigma de repercussão geral. Nos termos do Código de Processo Civil, ao tribunal recorrido cabe apenas reexaminar o recurso anteriormente julgado e exercer a devida retratação (arts. 1.040, II, e 1.041, § 1º) ou manter o acórdão recorrido com consequente remessa do recurso extraordinário ao Supremo Tribunal Federal (art. 1.041).
+
+    Raciocínio contrário ensejaria a indesejável perpetuação recursal. Nesse sentido, cito os seguintes julgados do Supremo Tribunal Federal:
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NÃO CABIMENTO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA DECISÃO EM JUÍZO DE RETRATAÇÃO, NOS TERMOS DO § 1º DO ART. 1.041 DO CÓDIGO DE PROCESSO CIVIL. 1. Compete à Presidência do Tribunal de origem aplicar aos recursos sobrestados o entendimento proferido pelo Supremo Tribunal Federal em repercussão geral (art. 1.030, inciso I, do CPC) ou encaminhar o processo ao órgão julgador para realizar o juízo de retratação (art. 1.030, inciso II, do CPC). 2. Não é cabível novo recurso extraordinário ou qualquer outro instrumento processual dirigido ao Supremo Tribunal Federal contra decisão do tribunal de origem quanto à vinculação do feito a tema da sistemática da repercussão geral. 3. Agravo regimental ao qual se nega provimento, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC) (ARE 1.370.036 AgR, Rel. Min. Dias Toffoli, Primeira Turma,  DJe 5/5/2022).
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. IMUNIDADE. TERRENO SEM UTILIZAÇÃO. ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO AO TEMA 693 DA REPERCUSSÃO GERAL. DISCUSSÃO EM TORNO DA CORRETA APLICAÇÃO DA TESE DEFINIDA EM RECURSO AFETADO À SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO. PRECEDENTES. 1. Incabível o apelo extremo, na hipótese, para discutir a correta aplicação de tese firmada pelo Supremo Tribunal Federal em recurso afetado pela sistemática da repercussão geral. 2. Agravo regimental a que se nega provimento (ARE 1.069.780 AgR/RS, Rel. Min. Edson Fachin, Segunda Turma, DJe 9/1/2023).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 29 de maio de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
