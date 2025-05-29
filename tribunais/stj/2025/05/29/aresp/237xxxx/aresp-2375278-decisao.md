@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ABRAAO FELIX SOUZA e JANE MAIARA DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1003541-45.2021.8.11.0086 (fls. 460/ 478).
+No recurso especial, os agravantes requerem o reconhecimento da causa especial de redução de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 e o consequente abrandamento de regime de pena (fls. 504/513).
+Apresentadas as contrarrazões (fls. 516/523), o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7/STJ (fls. 566/571).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não conhecer do recurso especial (fls. 595/599).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+No que concerne à alegada violação da lei pela não aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, assim se manifestou o Tribunal de origem (fls. 475/476 - grifo nosso):
+
+No que diz respeito à incidência da minorante descrita no § 4º do art. 33 da Lei n. 11.343/06, sabe-se que para fazer jus à referida causa redutora de pena, o condenado deve preencher, concomitantemente, os requisitos previstos no referido dispositivo legal, isto é, ser primário, ostentar bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização com essa finalidade, porquanto, a intenção do legislador, ao elaborar a referida minorante, foi diferenciar o traficante contumaz daqueles que cometeram o ilícito ocasionalmente, concedendo-lhe benefício proporcional ao seu merecimento, para ensejar uma sanção suficiente à prevenção e reprovação do delito.
+
+No caso em apreciação, o juízo de primeiro grau justificou a não aplicação da minorante aos apelantes porque "a testemunha Grecion Ribeiro de Carvalho asseverou em juízo, que, há meses, o réu vinha desempenhando a venda de drogas naquele endereço, não se tratando de um criminoso de primeira viagem a fazer jus ao benefício", circunstância, essa, apta a demonstrar a habitualidade criminosa do casal e a sua dedicação à narcotraficância. Diante disso, impõe-se reconhecer que a sentenciante agiu com acerto ao deixar de aplicar a benesse em alusão aos dois.
+ ..
+Em relação ao pedido referente ao reconhecimento da causa de redução máxima de pena conforme previsto no art. 33, § 4º da Lei n. 11.343/2006, os agravantes, nas razões do agravo em recurso especial, cingiram-se a informar que preenchem os requisitos para o alcance do benefício, sendo primários, com bons antecedentes, não restando provado nos autos que se dedicam a atividades criminosas e muito menos integrem organização criminosa.
+Analisando o acórdão combatido, observa-se que a Corte de origem conclui, por fundamentação idônea, que os agravantes não preenchiam os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, reconhecendo a dedicação de ambos a atividades criminosas porque ficaram demonstradas por meio da prova testemunhal a habitualidade criminosa do casal e a sua dedicação à narcotraficância, pois, há meses, o réu vendia drogas naquele endereço.
+Portanto, no presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação dos agravantes a atividades criminosas (tráfico de drogas). Assim, para se acolher a tese de que eles não se dedicam a tais atividades, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como desejam, imprescindível seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (47 G DE COCAÍNA). CAUSA DE DIMINUIÇÃO DE PENA. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
