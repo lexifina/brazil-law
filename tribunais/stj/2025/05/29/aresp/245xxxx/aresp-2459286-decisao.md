@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por EUROSTAR DO BRASIL S/A contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" , da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl.527):
+EMENTA: Apelação cível. Ação de responsabilidade civil por vício do produto c/c restituição de quantia paga e danos materiais e morais. Inscrição indevida em cadastros de proteção ao crédito.
+I. Dano moral in re ipsa. Comprovada nos autos a inscrição, de forma indevida, do nome da autora/segunda apelante em cadastros de proteção ao crédito, em razão da cobrança por produtos defeituosos, mostra-se patente a ocorrência de dano moral in re ipsa e a obrigação de indenizar.
+II. Quantificação do dano moral. Proporcionalidade e razoabilidade. Súmula 32 do TJGO. Devem ser aplicados os princípios da razoabilidade e da proporcionalidade na aferição do valor reparatório, somado às condições pessoais da vítima e às próprias circunstâncias do dano gerado, para se alcançar o desejado cunho compensatório. O quantum indenizatório fixado pelo julgador singular em R$ 10.000,00 (dez mil reais) deve ser mantido, uma vez que condiz com as particularidades fáticas do caso concreto, considerando os valores arbitrados para danos morais in re ipsa suportados por pessoas jurídicas em razão de inscrição em cadastros de inadimplentes, bem como o fato de haver nos autos provas de que a empresa foi impedida de realizar compras a prazo em decorrência da negativação indevida.
+III. Honorários sucumbenciais. Fixação com base no proveito econômico obtido. Promovida a ação objetivando a declaração da inexistência do débito e a condenação à reparação por danos morais, os honorários advocatícios fixados na sentença devem ter como base o proveito econômico obtido, consubstanciado na somatória do valor da dívida declarada inexistente e da indenização.
+Primeira apelação conhecida e desprovida. Segundo apelo conhecido e parcialmente provido.
+Rejeitados os embargos de declaração opostos (fls. 549-557).
+No recurso especial, a parte recorrente alega violação do art. 884, parágrafo único, do Código Civil.
+Sustenta, em síntese, que o entendimento adotado pela Corte estadual, ao declarar a inexigibilidade do crédito entre as partes em relação aos produtos descritos na Nota Fiscal n. 17876, ofendeu o princípio da vedação ao enriquecimento ilícito, pois a recorrida não pagará pelos produtos comprados e continuará sendo proprietária das câmaras de ar (fls. 572-573), razão pela qual entende que os produtos devem ser restituídos ao recorrente.
+Defende, ainda, que, ao declarar totalmente inexigível o débito entre as partes, inclusive dos produtos vendidos, permitiu que a recorrida lucre duas vezes, uma vez que recebeu pela venda dos produtos e foi desincumbida da obrigação de pagar pela mercadoria adquirida, violando, uma vez mais, a vedação ao enriquecimento ilícito (fl. 574).
+Sem contrarrazões ao recurso especial (fl. 683).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 686-688), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 703).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Em relação à apontada ofensa ao art. 884, parágrafo único, do Código Civil, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça, pois, alterar o decidido no acórdão impugnado, no que se refere à inexistência de enriquecimento ilícito, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Quanto ao ponto, assim decidiu a origem (fl. 530):
+No que tange ao pleito de devolução dos produtos impróprios para venda ao fabricante, sob pena de enriquecimento ilícito, reputa-se inviável, na medida em que se passaram mais de três anos desde a realização do negócio, parte dos produtos foi comercializada, ensejando os prejuízos narrados na inicial, e não há que se falar em enriquecimento ilícito, na medida em que, conforme atestado pela perícia, trata-se de câmaras de ar impróprias para uso, não podendo, após a identificação dos vícios de qualidade, ser comercializadas.
+Nesse sentido, cito o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. O Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83 do STJ.
+2. No que diz respeito à alegada violação ao art. 884 do Código Civil, o Tribunal de origem, com amparo no acervo fático-probatório dos autos, concluiu pela inexistência de enriquecimento ilícito da agravada. A revisão desse entendimento demandaria apreciação de provas, cujo reexame é vedado em âmbito de recurso especial, em razão da incidência da Súmula 7 desta Corte Superior.
+3. É firme a orientação jurisprudencial adotada por esta Corte no sentido de que "o promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel." (AgRg no AREsp 693.206/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/03/2018, DJe 22/03/2018)." Incidência da Súmula 83/STJ.
+4. Para derruir as conclusões contidas no decisum atacado a fim de aferir a ocorrência ou não de culpa pelo atraso na entrega do imóvel ao adquirente, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de matéria fático-probatória, providência vedada pela Súmula 7/STJ desta Corte.
+5. Nos termos do entendimento desta Corte, tanto os recursos interpostos pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exigem a indicação do dispositivo legal malferido ou ao qual foi atribuída interpretação divergente, o que não ocorrera na hipótese. Incidência da Súmula 284/STF.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.441.849/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL POR VÍCIO DO PRODUTO C/C RESTITUIÇÃO DE QUANTIA PAGA E DANOS MATERIAIS E MORAIS. ENRIQUECIMENTO ILÍCITO. VERIFICAÇÃO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
