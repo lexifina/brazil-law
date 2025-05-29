@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DE GOIÁS contra a decisão, constante às e-STJ fls. 210/214, em que determinei a devolução do autos à origem para aguardo do julgamento do Tema 1.255 do STF.
+O embargante aponta omissão no julgado, dizendo que não houve manifestação sobre a sua principal tese recursal, qual seja, a necessidade de afastamento da condenação em honorários advocatícios. No seu entendimento (e-STJ fl. 219):
+ ..  ainda que haja o pedido de que os honorários sucumbenciais sejam fixados por equidade, nos termos do art. 85, §8º, do CPC, tal requerimento é apenas subsidiário, sendo que o que o Estado de Goiás pretende precipuamente com seu recurso especial é o afastamento da condenação em honorários, em atenção ao princípio da causalidade, uma vez que, conforme demonstrado, não houve resistência por parte do ente público estadual e, apesar de acolhida parcialmente a exceção de pré-executividade, não houve a extinção, ainda que parcial, da ação executória.
+Afirma que a matéria é mais abrangente e, se acolhida, seria capaz de afastar o sobrestamento do feito em razão do referido tema de repercussão geral. Requer, por isso, " ..  seja reformada a decisão embargada para determinar o regular prosseguimento do feito com a apreciação da primeira tese apresentada pelo Estado de Goiás, quer seja, que não são devidos honorários advocatícios à espécie" (e-STJ fl. 222).
+Impugnação da parte contrária às e-STJ fls. 234/243.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios inexistentes na espécie.
+Isso porque, na decisão embargada, registrei claramente quais eram as teses do recurso especial. Confira-se (e-STJ fl. 211):
+No apelo nobre, a parte recorrente aponta violação do art. 85, caput e § 8º, do CPC.
+Afirma que, ao condená-lo ao pagamento dos honorários advocatícios, o Tribunal de origem desconsiderou o princípio da causalidade. Argumenta que, não tendo havido resistência à aplicação da orientação estabelecida no Tema 1.062 do STF aos cálculos do crédito, descabe falar em sucumbência, tampouco em extinção parcial da execução.
+Sustenta, subsidiariamente, que, " ..  diante das particularidades do presente caso, o acórdão vergastado incorreu em violação à norma prevista no artigo 85, § 8º, do CPC ao não aplicar o critério da equidade na fixação dos honorários advocatícios, mesmo se tratando de demanda com valores exorbitantes, porquanto o montante fixado, no caso concreto, causa prejuízo desproporcional à Fazenda Pública" (e-STJ fl. 173). Requer o sobrestamento do feito até o julgamento do Tema 1.255 do STF.
+Uma delas, observe-se, diz respeito à controvérsia existente no Tema 1.255 do STF.
+Por outro lado, como também consignado no decisum, "a insurgência apresentada no recurso especial diz respeito ao art. 85, § 3º, do CPC, porque o TJGO entendeu " ..  vencido o exequente, ainda que não tenha apresentado resistência à exceção de pré-executividade, razão para a sua condenação em honorários advocatícios sucumbenciais, calculados sobre o valor decotado da execução, por aplicação do princípio da sucumbência"  .. " (e-STJ fl. 211).
+Há possibilidade, portanto, à luz de futura orientação a ser estabelecida pelo Supremo Tribunal Federal, de que a solução adotada no acórdão recorrido seja alterada. Por isso, é sim necessário que os autos aguardem na origem o julgamento a ser proferido sob o regime da repercussão geral.
+Constata-se que a insurgência do embargante, na verdade, não diz respeito à eventual deficiência de fundamentação do julgado, mas à insatisfação com o julgamento. A pretensão, de caráter meramente infringente, é de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
