@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de MARCO ANTÔNIO DE LUCA, em que se aponta como autoridade coatora a 1ª TURMA ESPECIALIZADA DO TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO (fl. 3).
+Consta dos autos que o paciente foi condenado às penas de 32 anos de reclusão e ao pagamento de 999 dias-multa, como incurso nos arts. 317 e 333 do Código Penal, e no art. 2º, caput, c/c o § 4º, II do mesmo art. 2º da Lei n. 12.850/2013 (fls. 6-8). Foram interpostos recurso de apelação pela defesa e pela acuação.
+O Tribunal de origem acolheu a questão de ordem para declarar a incompetência da 7ª Vara Federal Criminal do Rio de Janeiro para processar e julgar a ação penal 0504938-16.2017.4.02.5101/RJ (Operação Ratatouille) e, por consequência, a nulidade da sentença condenatória proferida neste feito, determinando a remessa dos autos à primeira instância para que o feito seja distribuído livremente entre uma das Varas Federais Criminais do Rio de Janeiro.
+A defesa alega que houve indevida aplicação da Teoria do Juízo Aparente, o que teria gerado constrangimento ilegal ao paciente, pois o magistrado da 7ª Vara Federal Criminal do Rio de Janeiro, mesmo ciente de sua incompetência, teria manipulado os critérios de competência para julgar a ação penal (fls. 5-6, 13-15).
+Sustenta que a 1ª Turma Especializada do TRF-2, ao declarar a incompetência da 7ª Vara Federal Criminal do Rio de Janeiro, deveria ter anulado todos os atos decisórios, incluindo o recebimento da denúncia e decisões exaradas em processos cautelares, conforme o disposto no art. 567 do Código de Processo Penal (fls. 11-12, 21-22).
+Afirma que a aplicação da Teoria do Juízo Aparente não é adequada ao caso concreto, pois o magistrado teria agido com malícia ao alargar sua competência, o que impede a convalidação dos atos decisórios (fls. 15-16, 24-25).
+No mérito, requer a declaração de nulidade de todos os atos decisórios praticados pelo juiz Marcelo Bretas, incluindo o recebimento da denúncia e decisões exaradas em processos cautelares, uma vez reconhecida a malícia do julgador em alargar a sua competência, por força do que dispõe o art. 567 do Código de Processo Penal (fls. 27).
+As informações foram prestadas (fls. 457-461 e 467-470) e o Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem, nos termos da seguinte ementa (fl. 544-558).
+É o relatório.
+O habeas corpus está prejudicado.
+Conforme pacífico entendimento deste Superior Tribunal:
+A teor da jurisprudência desta Corte Superior, com a superveniente alteração de competência do juízo, não há ilegalidade no aproveitamento de provas colhidas ou autorizadas por magistrado aparentemente competente para processar e julgar o feito, podendo as mesmas serem ratificadas e confirmadas, a posteriori, pelo Juízo competente, com aplicação da teoria do juízo aparente, mesmo nos casos de incompetência absoluta. Precedentes desta Corte e do Supremo Tribunal Federal.
+(AgRg no AREsp n. 1.630.845/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020).
+No caso, assim como exposto no parecer ministerial, "em consulta ao sítio do TRF2 (nº do processo: 0504938-16.2017.4.02.5101), constata-se que a ação penal foi redistribuída ao Juízo da 2ª Vara Federal Criminal do Rio de Janeiro, tendo o Magistrado ratificado todos os atos decisórios e as provas colhidas, em 20/09/2024. Consta, ainda, que contra essa decisão foi impetrado habeas corpus perante o TRF2, que foi denegado em 10/12/2024 (HC nº 5013793-83.2024.4.02.0000/RJ)." (fl. 549).
+Além disso, em 17/03/2025, o mesmo juízo determinou a remessa dos autos ao Superior Tribunal de Justiça, com fundamento no art. 105, I, "a", da Constituição Federal, em razão da prerrogativa de foro reconhecida a um dos corréus, nos termos da tese firmada pelo Supremo Tribunal Federal no julgamento do HC n. 232.627.
+Desse modo, diante da existência de novo título judicial, proferido após a impetração deste writ, e especialmente após o declínio de competência, deve-se reconhecer a perda do objeto da presente impetração.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
