@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus, em favor de LUIS RICARDO DE CASTILHO, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (agravo em execução n. 234-30.2025.8.26.0220).
+Consta dos autos que o Juízo da 2ª Vara da Comarca de Guaratinguetá/SP concedeu indulto ao paciente, nos termos do art. 9º, VIII, do Decreto n. 12.338/2024. Após recurso ministerial, a Corte de origem cassou a decisão e restabeleceu a pena privativa de liberdade.
+Argumenta a defesa que as condições para concessão do benefício são apenas aquelas dispostas no Decreto n. 12.338/2024, "sendo vedada a criação de outros requisitos pelo julgador" (fl. 4). Deste modo, "como não há qualquer aplicação de sanção reconhecida pelo Juízo competente no que tange à falta, cumprindo ressaltar que a declaração de indulto e de comutação da pena tem preferência sobre a decisão de qualquer outro incidente no curso da execução penal", de rigor o restabelecimento do benefício. (fl. 4 - sem destaques no original).
+É o que requer.
+Sem pedido liminar.
+Prestadas informações, o Ministério Público Federal assim opinou (fl. 73):
+Habeas corpus substitutivo de recurso próprio. Utilização inadequada do HC. Acórdão em agravo em execução que revogou indulto de penas concedido com base no art. 9º, VIII, do Decreto nº 12.338/2024. Não comparecimento em juízo no mês de dezembro de 2024 sem apresentação de justificativa a configurar falta grave. Juízo da execução deferiu o indulto desconsiderando requerimento do MPE para intimação do apenado a fim de apresentar justificação. Equívoco da interpretação do juízo primevo. A valoração do requisito subjetivo para concessão do livramento condicional deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal. Precedentes.
+Parecer pelo não conhecimento do habeas corpus. Todavia, pelo retorno dos autos principais ao juízo da execução a fim de que seja realizada a audiência de justificação da falta grave apontada. Caso não justificado, seja instaurado procedimento administrativo disciplinar, nos termos do art. 59 da Lei de Execução Penal, respeitando-se os princípios do devido processo legal, do contraditório e da ampla defesa, apurando-se a falta grave e, em sendo o caso, homologando-a para ratificar a negativa do benefício pleiteado pela defesa.
+É o relatório.
+DECIDO.
+Cinge-se a controvérsia à possibilidade de se obstar a concessão de indulto natalino pelo cometimento de falta disciplinar não reconhecida judicialmente.
+O Tribunal de Justiça reformou o deferimento do benefício do indulto nos seguintes termos (fls. 10-12):
+Aos 22 de março de 2024 foi beneficiado com o livramento condicional, ocasião em que cientificado e advertido quanto ao comparecimento trimestral em juízo, comprovando o exercício de ocupação lícita, dentre outras condições impostas (fls. 496/497 dos autos de origem).
+Aos 13 de janeiro de 2025 a defesa pleiteou a concessão de indulto, com base no Decreto 12.338/2024, sob o argumento de que o reeducando cumpriu com todos os requisitos exigidos.
+Todavia, houve notícia de que teria ocorrido descumprimento das condições estipuladas no mês de dezembro de 2024, já que não compareceu em Juízo (fl. 16).
+O Ministério Público opinou pelo indeferimento do indulto.
+O Magistrado a quo deferiu o pedido de concessão do benefício, fundamentando que:
+"(..) No caso dos autos, em que pese a informação de possível descumprimento do comparecimento periódico em juízo, supostamente praticada nos doze meses anteriores a 25.12.2024 (fls. 559), não se vislumbra, até o presente momento, reconhecimento formal da falta grave após audiência de justificação, após o contraditório.
+Assim, não há como afastar a possibilidade de concessão de indulto." (fls. 21/22).
+Com razão o representante ministerial.
+Em que pese o entendimento do douto magistrado a quo, inconteste que o sentenciado deixou de cumprir as condições do livramento condicional, cometendo, assim, falta disciplinar, nos termos do art. 50, da Lei 7.210/84 - ainda que não haja o reconhecimento judicial da sanção nos doze meses de cumprimento da pena contados retroativamente a 25 de dezembro de 2024 (até porque não houve tempo hábil para a instauração do procedimento disciplinar antes da decisão que extinguiu a pena), motivo pelo qual ausente o requisito para concessão do indulto (artigo 6º do Decreto 12.338/2024).
+Sobre tal aspecto, bem ponderou o Desembargador Grassi Neto, no julgamento do Agravo em Execução Penal nº 0005059-76.2024.8.26.0050, que deu provimento ao recurso do Ministério Público para cassar a decisão de primeiro grau que concedeu o indulto: ".. o sentenciado deve, no curso do regime aberto, demonstrar de forma efetiva o seu comprometimento para com a Justiça. As condições estabelecidas não podem ser simplesmente desconsideradas, já que expressam o caráter retributivo da sanção penal e a finalidade de ressocialização da pena. No caso em análise, a total desídia do agravado revela efetivo abandono do regime, demostrando, dessa forma, seu menosprezo para com o cumprimento da sanção penal" (data do julgamento 18.10.2024).
+Destarte, não preenchido o requisito subjetivo para a concessão do indulto, deve ser reformada a decisão agravada.
+É certo que, consoante o entendimento firmado pela egrégia Terceira Seção desta Corte, a prática de fato definido como falta grave durante o período estabelecido no decreto presidencial impede a concessão da comutação da pena ou do indulto, não havendo exigência de que a sua apuração e homologação também ocorram no referido período.
+Ocorre que, embora se admita que a homologação da falta grave se dê após a publicação do Decreto Presidencial, tem-se que, em qualquer situação, deve ocorrer antes da decisão denegatória do benefício.
+Assim, tendo em vista que a benesse foi revogada por causa da existência de falta disciplinar de natureza grave, cometida dentro dos prazos previstos pelas normas legais, porém ainda não homologada quando dessa decisão, caracteriza-se a violação aos arts. 6º e 8º do aludido Decreto, in verbis:
+Art. 6º A declaração do indulto e da comutação de pena prevista neste Decreto fica condicionada à inexistência de aplicação de sanção reconhecida pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave prevista na Lei nº 7.210, de 11 de julho de 1984, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2024.
+Art. 8º Para a declaração do indulto e da comutação da pena, não serão exigidos exames criminológicos nem outros requisitos além dos previstos neste Decreto.
+A propósito:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. COMUTAÇÃO. FALTA GRAVE COMETIDA NOS ÚLTIMOS 12 MESES. AUSÊNCIA DE HOMOLOGAÇÃO. INEXISTÊNCIA DE EMPECILHO AO BENEFÍCIO. ART. 4º, § 1º, DO DECRETO PRESIDENCIAL Nº 7.648/2011. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. O art. 4º, § 1º, do Decreto Presidencial nº 7.648/2011 disciplina que a prática de falta grave nos 12 meses anteriores à publicação do Decreto, sem a devida homologação, não impede a concessão dos benefícios nele trazidos.
+3. Habeas corpus não conhecido. Ordem concedida de ofício para determinar ao Juízo das Execuções que proceda ao cálculo da comutação da pena a que o paciente faz jus.
+(HC n. 250.843/RS, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/2/2013, DJe de 4/3/2013).
+Vê-se, portanto, que a falta grave, ainda que se trate de novo delito, não impede a obtenção do indulto, consoante disposto no art. 52 da LEP, exceto se praticada no período previsto no decreto presidencial e homologada até a decisão que examina o pedido de concessão do benefício, razão pela qual deve ser mantido o acórdão recorrido, concessiva do indulto.
+Ante o exp osto, concedo o habeas corpus para restabelecer a decisão de primeiro grau que concedeu ao paciente LUIS RICARDO DE CASTILHO o indulto natalino.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
