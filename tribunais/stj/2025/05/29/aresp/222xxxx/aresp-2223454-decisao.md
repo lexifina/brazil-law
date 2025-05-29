@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por GIOVANI JOSE GOMES BAEZ contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 000098-69.2018.4.03.6002.
+O Ministério Público Federal apresentou parecer opinando pelo provimento do agravo em recurso especial, mas pelo desprovimento do recurso especial (fls. 454/457).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+O Tribunal de origem não admitiu o apelo nobre pela necessidade de reexame de provas (Súmula 7/STJ).
+A parte agravante sustenta que ausente o óbice da Súmula 7/STJ. Aduz que os argumentos expostos no Recurso Especial não demandam a reanálise das provas, posto que, o que se pretende é, tão somente, discutir a possibilidade do julgador se utilizar dos argumentos lançados no v. acórdão para negar a aplicação da causa de diminuição de pena do artigo 33, §4º, Lei 11.343/06 em seu percentual máximo.
+No mérito do recurso especial, argumenta, em síntese, que as provas carreadas aos autos evidenciam se tratar o recorrente de figura de menor importância na cadeia de distribuição, sendo absolutamente substituível por qualquer outra pessoa, não havendo que se falar, portanto, em papel de importância para o crime organizado. (fl. 398).
+Conforme jurisprudência do Superior Tribunal de Justiça, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Desta forma, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena (AgRg no HC n. 863.894/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2024).
+O Tribunal de origem, ao efetivar a modulação do § 4º do art. 33 da Lei n. 11.343/2006 aplicou o patamar de 1/2 (metade) mediante os seguintes fundamentos (fls. 378/379):
+Assim, em atenção às circunstâncias do caso concreto, especificamente o conhecimento do acusado de que estava a serviço do crime organizado, bem como aos fins percorridos pelo direito, fixo a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06 na fração de 1/2 (metade), perfazendo a pena definitiva de 2 (dois) anos e 11 (onze) meses de reclusão e 291 (duzentos e noventa e um) dias-multa.
+Infere-se assim que a minorante foi modulada em razão do recorrente ter prestado voluntariamente serviço a uma organização criminosa, o que é admitido pela jurisprudência do Superior Tribunal de Justiça (AgRg no HC n. 609.738/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2020).
+Ademais, a modulação da fração de diminuição da pena é ato discricionário do julgador, devidamente fundamentado, e não permitindo reexame do conjunto fático-probatório, vedado pela Súmula 7 do STJ. Ilustrativamente: AgRg no AREsp n. 2.709.479/PR, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN 16/12/2024; AgRg no AREsp n. 2.730.087/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 26/3/2025; e REsp n. 2.150.092/PA, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025.
+Ante o contexto do delito exposto em minúcias no acórdão e considerado para fins de modulação da minorante, evidenciado que o recurso pretende reincursão no acervo probatório ao buscar rediscutir o papel do recorrente na empreitada criminosa.
+De rigor a aplicação do óbice contido na Súmula 7 do Superior Tribunal de Justiça ao caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006 ANTE MODULAÇÃO DA MINORANTE NO PATAMAR DE 1/2. DISCRICIONARIEDADE DO JULGADOR NA ADEQUAÇÃO DA PENA AO CASO CONCRETO, INEXISTINDO ILEGALIDADE OU ARBITRARIEDADE NO PATAMAR FIXADO. DESCABIMENTO DE REDIMENSIONAMENTO DA PENA. ÓBICES DAS SÚMULAS 7 E 83/STJ. DECISÃO CONFORME A JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para não conhecer do recurso especial.
