@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 376):
+TRIBUTÁRIO. PROCEDIMENTO COMUM CÍVEL. GORJETAS. NATUREZA SALARIAL. SIMPLES NACIONAL. INCIDÊNCIA AFASTADA. NÃO ENQUADRAMENTO DAS GORJETAS NO CONCEITO DE RECEITA BRUTA DA EMPRESA. MULTIPLICIDADE DE PRECEDENTES.
+1. Trata-se de apelação em procedimento comum cível interposta pela Fazenda Nacional, em face de sentença do Juízo da 6ª Vara Federal de Pernambuco, que julgou procedentes os pedidos formulados pela parte autora na petição inicial, proferindo julgamento com resolução de mérito (art. 487, I, do CPC), para declarar a inexistência de relação jurídico tributária que a obrigue ao recolhimento do IRPJ, da CSLL, do PIS e da COFINS com a inclusão na base de cálculo dos valores recebidos a título de gorjeta, no âmbito do SIMPLES NACIONAL, determinando à ré abster-se de exigir e cobrar o IRPJ, a CSLL, o PIS e a COFINS por sobre os valores recebidos a título de gorjeta pela parte autora.
+2. Nos termos do art. 457, § 3º, da CLT, as gorjetas correspondem a parte da remuneração dos empregados da empresa contribuinte, ostentando, por isso, natureza salarial.
+3. O regime simplificado instituído pela Lei Complementar nº 123/2006, permite que as empresas optantes do SIMPLES Nacional arrecadarem tributos federais, estaduais e municipais, por meio da incidência de percentuais que especifica sobre o valor da receita bruta da empresa optante.
+4. Se o valor da gorjeta ostenta natureza salarial, ele não pode ser considerado como receita bruta da empresa, e incluído na base de cálculo do SIMPLES Nacional.
+5. Em razão disso, tais valores não podem sofrer incidência de tributos federais embutidos no regime do SIMPLES Nacional, como IRPJ, CSLL, PIS e COFINS, nos termos reconhecidos pela sentença.
+6. A jurisprudência consolidada deste Tribunal Regional Federal da 5ª Região é no sentido de que a gorjeta não pode ser incluída no cálculo do SIMPLES NACIONAL em razão de não integrar o faturamento e nem o patrimônio da empresa, nos termos do art. 457 da CLT.
+7. Honorários advocatícios recursais arbitrados no percentual de 1% (um por cento), a ser adicionado ao percentual fixado na r. sentença recorrida.
+8. Apelação desprovida.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 420/424).
+Nas suas razões, o recorrente aponta violação do art. 1022, II, do CPC/2015, dos arts. 3º, §1º, 18, § 3º, e 24 da Lei Complementar n. 123/2003, do art. 457 da CLT, do art. 3º, § 2º, da Lei n. 9.718/1998, do art. 1º, § 3º, da Lei n. 10.637/2002 e do art. 1º, § 3º, da Lei n. 10.833/2003.
+Sustenta, preliminarmente, a existência de negativa de prestação jurisdicional, em virtude de o Tribunal de origem não ter se manifestado sobre as questões levantadas, nos embargos de declaração, relevantes para o deslinde da controvérsia.
+Quanto ao mérito, alega que os valores recebidos a título de taxa de serviço (gorjeta) constituem receita bruta operacional e, portanto, devem sofrer incidência do IRPJ e da CSLL.
+Defende, ainda, que as gorjetas integram a receita bruta e não podem ser excluídas da base de cálculo do Simples Nacional por falta de previsão legal.
+Contrarrazões apresentadas às e-STJ fls. 521/532.
+Recurso especial admitido na origem (e-STJ fl. 546).
+Passo a decidir.
+Cuidam os autos, na origem, de mandado segurança no qual se busca o reconhecimento do direito líquido e certo da contribuinte impetrante para que as gorjetas não sejam consideradas receita bruta com a finalidade de tributação sob o regime do Simples Nacional, cuja ordem foi concedida.
+O TRF da 5ª Região, ao examinar a apelação fazendária e a remessa necessária, negou-lhes provimento, amparado nos seguintes fundamentos (e-STJ fl. 369 e seguintes):
+O cerne da apelação da Fazenda Nacional consiste em tentar fazer valer a incidência dos tributos englobados no simples nacional (IRPJ, CSLL, PIS e COFINS) sobre os valores recebidos pelo empregador, e repassados a seus funcionários, a título de gorjeta.
+Sem razão a apelante.
+Nos termos do art. 457, caput e § 3º, da Consolidação das Leis do Trabalho - CLT (com redação conferida pela Lei nº 13.419/2017), a gorjeta é verba devida ao trabalhador e paga tanto por liberalidade do cliente, no limite que lhe aprouver, como por cobrança de percentual sobre o valor total da conta a ser paga pelo cliente, inserido de forma automática pelo estabelecimento empresarial. Como tal, compõe parte da remuneração dos empregados da empresa, sendo, portanto, verba de natureza salarial. Eis o texto do referido artigo:
+(..)
+O Tribunal Superior do Trabalho tem inclusive entendimento sumulado (Súmula 354) no sentido de que "as gorjetas cobradas pelo empregador na nota de serviço ou oferecidas espontaneamente pelos clientes integram a remuneração do empregado, não servindo de base de cálculo para as parcelas de aviso prévio, adicional noturno, horas extras e repouso semanal remunerado".
+Por sua vez, o SIMPLES Nacional é um regime jurídico de tributação diferenciado e favorecido, voltado às micro e pequenas empresas e instituído pela Lei Complementar nº 123/2006.
+Por meio dele, nos termos do art. 13 da referida lei, faculta-se à micro e pequena empresa recolherem, em documento único, um valor total no qual se encontram, entre outros impostos, o IRPJ, o PIS, a COFINS e a CSLL.
+Para encontrar o valor devido a título de SIMPLES basta realizar uma multiplicação das alíquotas discriminadas nas tabelas dos Anexos I a V, da mencionada lei complementar (art. 18), conforme o caso em que se enquadre a empresa, pela base de cálculo discriminada no art. 3º, §§ 1º e 3º, da mesma lei, como se pode ver a seguir:
+(..)
+Ora, como se estabeleceu acima, as gorjetas compõe a remuneração do empregado, não podendo, por isso, ser confundidas com a receita bruta auferida por micro e pequenas empresas do ramo de bares e restaurantes, onde usualmente se paga gorjeta.
+Se esse valor é renda do trabalhador, como já dito alhures, ele será tributado oportunamente com o Imposto de Renda Pessoa Física - IRPF, de tal arte que não poderia ele ser computado novamente como receita bruta das empresas, de modo a ser alvo da tributação facilitada do SIMPLES Nacional.
+Pois bem.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, ao concluir que as gorjetas não compõem a base de cálculo do Simples Nacional, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+É que o ente público alega que as gorjetas, ao passarem pelo controle das empresas, deveriam ser incluídas na base de cálculo dos tributos devidos. Entretanto, a Corte regional foi enfática em destacar que (e-STJ fl. 421):
+ ..
+o STJ já decidiu no sentido de que "o valor pago a título de gorjetas não pode integrar o conceito de faturamento, receita bruta ou lucro para fins de apuração do ISS, PIS, COFINS, IRPJ e CSLL. Entendimento esse aplicável também ao SIMPLES NACIONAL." (STJ - R Esp: 1834375 PE 2019/0254725-8, Relator: Ministro NAPOLEÃO NUNES MAIA FILHO, Data de Publicação: DJ 05/02/2020).
+Ressalte-se que "As gorjetas possuem a finalidade de reforçar os salários dos empregados, tendo nítida natureza jurídica de verba salarial, independentemente de serem pagas voluntária ou compulsoriamente, nos exatos termos do artigo 457 da CLT, não podendo ser incluídas na base de cálculo dos tributos federais em discussão (PIS, COFINS, IRPJ e CSLL)" (STJ, AgInt no AREsp 972.774/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 25/11/2019).
+Ora, da mesma forma e pelas mesmas razões, deve-se reconhecer o direito de excluir as gorjetas da base de cálculo da tributação unificada do Simples Nacional, que também incide sobre a receita bruta, na forma do art. 18, § 3º, da LC nº 123/2006.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater, um a um, todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No mais, verifico que esta Corte Superior adotou o entendimento de que o valor pago a título de gorjetas, ante a sua natureza salarial, não pode integrar o conceito de faturamento, de receita bruta ou de lucro para fins de apuração tributária referente ao Simples Nacional.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. GORJETAS. NATUREZA SALARIAL. NÃO SE ENQUADRANDO NO CONCEITO DE RECEITA BRUTA PARA EFEITO DE TRIBUTAÇÃO PELO SIMPLES NACIONAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - O o valor pago a título de gorjetas, ante a sua natureza salarial, não pode integrar o conceito de faturamento, receita bruta ou lucro para fins de apuração tributária. Considerando-se, então, o conceito de receita bruta explicitado na Lei Complementar n. 123/2006 e a natureza salarial da gorjeta, esta verba não deve integrar a receita bruta para fins de cálculo do Simples Nacional (AgInt no AREsp n. 1.846.725/PI, Rel. Min. Gurgel de Faria, 1ª T. j.
+8.4.2024, DJe de 18.4.2024).
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp 2.150.233/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024).
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. BASE DE CÁLCULO DE PIS, COFINS, IRPJ E CSLL. SIMPLES NACIONAL. GORJETAS. ACÓRDÃO RECORRIDO CONFORMADO AO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A conclusão das instâncias ordinárias, quanto à não inclusão das gorjetas na base de cálculo do PIS, COFINS, IRPJ e CSLL, no regime do Simples Nacional, está conformada ao entendimento de ambas as Turma de Direito Público do Superior Tribunal de Justiça. Dessa forma, incide, no caso, o óbice de conhecimento da Súmula n. 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 2.164.827/PB, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 14/10/2024, DJe de 23/10/2024).
+Forçoso convir, então, que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
