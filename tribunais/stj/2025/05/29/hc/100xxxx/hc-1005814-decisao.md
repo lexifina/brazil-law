@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HUGO JARDEL DO NASCIMENTO VIEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS em embargos de declaração opostos no recurso em sentido estrito n. 5354029-80.2024.8.09.0127 assim ementado:
+DIREITO PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a Recurso em Sentido Estrito interposto contra decisão de pronúncia por homicídio qualificado e ocultação de cadáver.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão é a existência de omissão, obscuridade, contradição ou ambiguidade no acórdão embargado, nos termos do artigo 619 do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+3. O acórdão embargado analisou detidamente as provas, concluindo pela existência de indícios suficientes de autoria e materialidade, bem como pela manutenção da qualificadora do homicídio.
+4. As alegações do embargante buscam, na verdade, rediscutir o mérito da decisão, o que é inadmissível em sede de embargos de declaração.
+IV. DISPOSITIVO E TESE
+5. Embargos de declaração rejeitados.
+"1. O acórdão embargado não apresenta vícios a justificar o acolhimento dos embargos de declaração. 2. A pretensão do embargante é rediscutir o mérito da decisão, o que não é cabível na via eleita."
+Dispositivos relevantes citados: CP, arts. 121, § 2º, inc. IV, 211, 29; CPP, art. 414; CPP, art. 619.
+Jurisprudências relevantes citadas: STJ, AgRg no R Esp 1.693.713/GO, Relator: Ministro Ribeiro Dantas, 5ªTurma, julgado em: 24/04/2018; STF, RHC 103.078, julgado em 21/08/2012; TJSC, Recurso em Sentido Estrito n. 0005678-19.2015.8.24.0004, j. 04-07-2019; STF - RHC: 154681 SP 0106962-31.2018.1.00.0000, Relator: EDSON FACHIN, Data de Julgamento: 30/08/2021, Segunda Turma, Data de Publicação: 28/09/2021; E Dcl no AgRg no HABEAS CORPUS Nº 766.654 - SP (2022/0268890-6), Relator : MINISTRO REYNALDO SOARES DA FONSECA; E Dcl nos EAR Esp 650.536/RJ, Rel. Ministro Raul Araújo, Corte Especial, julgado em 26/10/2021, D Je 05/11/2021; E Dcl no AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/06/2020, D Je 04/08/2020.
+Em síntese, alega o impetrante que o paciente foi denunciado pela prática dos crimes de homicídio qualificado pela dissimulação e ocultação de cadáver. Aduz que o paciente foi pronunciado e, na sequência, a defesa interpôs recurso em sentido estrito, ao qual foi dado parcial provimento para reconhecer excesso de linguagem. Foi, então, proferida nova decisão de pronúncia, contra a qual a defesa interpôs novo recurso em sentido estrito, ao qual o Tribunal de origem negou provimento. A defesa opôs embargos de declaração, que foram rejeitados. Neste writ, sustenta a ocorrência de negativa de prestação jurisdicional, pois o Tribunal de origem não teria analisado as teses defensivas, notadamente, "(i) édito decisório baseado em depoimento indireto; (ii) perda de uma chance probatória, à vista da não produção de provas relevantes pelo órgão acusatório e (iii) as declarações do corréu, isoladamente, não poderiam nem mesmo embasar o recebimento da denúncia, nos termos do artigo 4º, § 16, da Lei 12.850/2013" (fl. 10). Reitera tais teses neste writ.
+Pleiteia a concessão de liminar e no mérito que seja determinado que o Tribunal de origem profira novo julgamento. Subsidiariamente, a concessão da ordem para despronunciar o paciente.
+É o relatório.
+DECIDO.
+Em tempos de habeas corpus de número um milhão impetrado nesta Colenda Corte, cujo relator é o Ministro Ribeiro Dantas, discute-se a eficácia desse remédio constitucional e a real necessidade de se restringi-lo aos requisitos constitucionais e legais em relação ao direito de ir, vir e ficar, ou seja, à liberdade de locomoção, ou então aceitá-lo como substituto de outro recurso ou ação cabível.
+Conforme exposto pelo Ministro Rogerio Schietti Cruz nos autos do HC n. 1.002.968:
+"Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico." (g.n.)
+Nesse contexto, verifica-se que o habeas corpus em tela foi impetrado como substitutivo de recurso próprio e não está instruído com todas as peças necessárias para análise do pleito, notadamente que demonstrem a prévia submissão das teses ora arguidas perante o Tribunal de origem. A petição não faz qualquer menção ao cabimento do remédio constitucional na hipótese e se houve recurso especial.
+Fato é que a "Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal." (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+No caso, não se verifica flagrante ilegalidade.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
