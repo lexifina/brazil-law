@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra acórdão do TRIBUNAL DE JUSTIÇA daquela unidade federativa.
+WILLINGTON LUIZ VITOR SANTANA foi condenado em primeira instância como incurso nas sanções dos arts. 180 e 329 do Código Penal e do art. 14 da Lei n. 10.826/03, às penas de 3 (três) anos e 6 (seis) meses de reclusão e 2 (dois) meses e 10 (dez) dias de detenção e 24 (vinte e quatro) dias-multa (fls. 230-237).
+O Tribunal de Justiça absolveu o recorrido das imputações dos arts. 180 e 329 do Código Penal (fls. 316-324). Opostos embargos de declaração pelo Ministério Público (fls. 336-340), o Tribunal acolheu-os parcialmente para fixar o regime semiaberto de cumprimento de pena quanto à condenação pelo crime do art. 14 da Lei n. 10.826/2003 (fls. 349-353).
+A defesa opôs embargos de declaração para que fosse reconhecida a atenuante da menoridade relativa, bem como afastada a agravante de reincidência. Requereu, ademais, o reconhecimento da prescrição (fls. 362-375).
+O Tribunal de Justiça acolheu os embargos de declaração defensivos, para redimensionar a pena final e declarar extinta a punibilidade, pela ocorrência da prescrição intercorrente (fls. 392-399).
+O Ministério Público do Estado do Rio de Janeiro interpôs recurso especial, com fundamento no art. 105, inciso III, "a", da Constituição, para alegar contrariedade aos arts. 110, §1º, e 112, inciso I, do Código Penal (fls. 410-430).
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 524-528).
+É o relatório. DECIDO.
+O recurso especial não ultrapassa a barreira de conhecimento.
+O acórdão recorrido reconheceu a prescrição da pretensão punitiva estatal com base na pena aplicada em concreto, tendo em vista que transcorreram mais de 2 (dois) anos entre os marcos interruptivos do art. 117 do Código Penal.
+Assentou que, redimensionada a pena definitiva para 2 (dois) anos de reclusão e constatada a menoridade relativa do agente à época dos fatos, o prazo prescricional é de 2 (dois) anos, nos termos do art. 109, inciso V, c/c art. 115, ambos do Código Penal. Concluiu que, entre a data da sentença (18/12/2019) e a data de publicação do acórdão que julgou os embargos de declaração na apelação (14/12/2022), transcorreu lapso temporal superior a dois anos, o que acarreta a extinção da punibilidade pela prescrição da pretensão punitiva estatal (fls. 398-399).
+Por sua vez, embora aponte como violados os arts. 110, §1º, e 112, inciso I, ambos do Código Penal, o recurso ministerial tece argumentos quanto à necessidade de se aguardar o trânsito em julgado para ambas as partes, para que se verifique a ocorrência da prescrição da pretensão estatal executória.
+Transcreve inúmeros precedentes do Superior Tribunal de Justiça sobre o tema, sem se atentar para o fato de o acórdão recorrido não ter declarado a prescrição da pretensão de execução da pena, mas sim a própria prescrição da pretensão punitiva estatal, a qual pode ser reconhecida com base na pena aplicada em concreto, quando a sentença tenha transitado em julgado para a acusação.
+Como se vê, as razões do recurso especial não dialogam com os fundamentos do acórdão recorrido, o que inviabiliza a compreensão da controvérsia e caracteriza a deficiência do recurso especial. A falta de enfrentamento das razões de decidir do acórdão recorrido atrai a incidência das Súmulas n. 283 e n. 284, STF. (AgRg nos EDcl no AREsp n. 2.664.781/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024.).
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
