@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA - IFPB contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO proferido na Apelação Cível n. 0807572-40.2017.4.05.8200, assim ementado (fls. 162-163):
+EMENTA: PROCESSUAL CIVIL. SERVIDOR. DIFERENÇAS REMUNERATÓRIAS. PARCELAS RECONHECIDAS ADMINISTRATIVAMENTE. PRESCRIÇÃO. INOCORRÊNCIA. CORREÇÃO MONETÁRIA. APLICAÇÃO DO IPCA-E (E NÃO DA TR). ARTIGO 1º-F DA LEI Nº 9.494/97 C/C LEI Nº 11.960/2009. ADI Nº 4357. REPERCUSSÃO GERAL.
+1. Trata-se de apelação de sentença que julgou procedente o pedido para condenar o INSTITUTO FEDERAL DA PARAÍBA - IFPB a pagar ao autor RANIERI SILVA LEITE o valor das parcelas retroativas, correspondente ao período de 01/03/2013 a 31/12/2014, referente à Retribuição por Titulação (RT) - RSC III, no montante equivalente à quantia reconhecida como devida administrativamente e ainda não adimplida, cujo montante deverá ser apurado em liquidação de sentença, corrigido monetariamente, com base no IPCA-E, desde o vencimento de cada parcela e acrescido de juros de mora desde a citação com base no Manual de Cálculos da Justiça Federal. Honorários fixados em 10% (dez por cento) do proveito econômico obtido com a ação (valor da causa: R$ 123.619,32), na forma do art. 85, § 3º, I, do CPC.
+2. Em seu apelo, IFPB defende a ocorrência da prescrição e que carece à parte autora interesse processual. Alega que a questão a ser enfrentada na presente demanda seria a de que a eventual procedência da demanda, de imediato, implicaria em ofensa frontal ao §1º do artigo 169 da Carta Constitucional e que a prestação jurisdicional ora pleiteada encontraria óbices legais intransponíveis, uma vez que não haveria previsão orçamentária atual para o pagamento imediato dos atrasados. Acrescenta que o pagamento administrativo de vantagens aos servidores públicos, de qualquer forma, por repercutir diretamente no cronograma financeiro da União, deveria se submeter aos ditames orçamentários próprios, bem como às disposições da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000). Requer, por fim, subsidiariamente, a aplicação do art. 1º F da Lei 9.494/97.
+3. Inicialmente, destaque-se que não há que se falar em carência de ação, vez que a parte tem o direito de pleitear o que lhe é devido, não estando obrigada a esperar pela vontade da Administração em efetuar o pagamento das diferenças.
+4. A parte autora teve assegurado, pela Portaria nº 375/2015, de 10 de fevereiro de 2015, o direito à percepção de vantagens pecuniárias decorrentes de Reconhecimento de Saberes e Conhecimento (RSC), com efeitos financeiros retroativos a 01/03/2013. Ajuizada a presente ação em 03/08/2018, não há que se falar em prescrição.
+5. O servidor tem direito de requerer perante o Judiciário a satisfação do seu crédito, independente de prévia dotação orçamentária, uma vez que não está obrigado a se submeter à conveniência e oportunidade da Administração em pleitear verbas para o pagamento dos seus débitos.
+6. Ressalte-se, também, que a ausência de previsão orçamentária será suprida pela determinação judicial de realização de pagamento através de precatório ou RPV.
+7. O STF, no julgamento do RE 870.947/SE, em 20/09/2017, em sede de repercussão geral, definiu a tese segundo a qual "o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina" (STF, Plenário, Rel. Min. LUIZ FUX, julg. 20/09/2017).
+8. A título de honorários recursais, fica majorado em 1% o valor aplicado na sentença para os honorários advocatícios, nos termos do art. 85, §11, do CPC15.
+9. Apelação improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 204-206).
+Nas razões do apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega violação dos arts. 1º, 2º e 9º, do Decreto n. 20.910/1932, bem como do art. 240 do CPC, ao afirmar que:
+ ..
+O acórdão recorrido entendeu pela condenação ao pagamento de valores reconhecidos administrativamente, não obstante a ocorrência da prescrição intercorrente em relação ao pleito do autor/recorrido.
+Com efeito, é incontroverso que a Autarquia reconheceu em julho/2015 o direito do autor à progressão de classe.
+Destarte, havendo por certo que a instauração de processo administrativo interrompe o prazo prescricional, este voltou a correr a partir da data do reconhecimento da dívida pela autarquia-ré, por mais , por força dos arts. 1º, 2º e 9º dois anos e seis meses Decreto 20.910/32, infra:
+ ..
+Dessa forma, em a pretensão do autor findou integralmente maculada pela prescrição. Ajuizada a presente ação apenas em 2018 201803/08/, não há dúvidas que eventual direito já restou atingido pela prescrição, não se podendo permitir a obtenção de título judicial que garanta créditos sabidamente prescritos.
+Assim, torna-se indispensável a reforma do acórdão recorrido para que seja reconhecida a extinção do feito mediante reconhecimento da prescrição do direito perseguido por parte da parte autora/recorrida.
+Caso a prescrição intercorrente não seja acatada, pugna pelo reconhecimento da prescrição quinquenal, de modo que os valores relativos às diferenças de vencimentos que antecedem o prazo de cinco anos da data da propositura da presente ação judicial devem ser declarados prescritos.
+Deveras, reza o art. 1º, do Decreto nº 20.910/32, nesses termos:
+ ..  (fl. 216).
+Requer, assim, o provimento do recurso "em razão de o acórdão recorrido ter negado vigência a dispositivos de lei federal acima dispostos, determinando-se, por conseguinte, a sua reforma" (fl. 217).
+Apresentadas contrarrazões (fls. 222-231).
+Admitido o apelo nobre pelo Tribunal de origem (fl. 233).
+Nesta Corte, decisão da lavra da ministra Assusete Magalhães que entendeu ter sido a matéria afetada, Tema n. 1.109, pela Primeira Seção do STJ, portanto, determinada a devolução do feito ao Tribunal de origem.
+O Tribunal a quo deixou de realizar o juízo de adequação e manteve o acórdão proferido.
+É o relatório.
+Decido.
+Na origem, trata-se de ação ordinária ajuizada em face do Instituto Federal da Paraíba - IFPB em que o Autor requer o pagamento de verba retroativa reconhecida administrativamente a título de Retribuição por Titulação (RT) - RSC III, referente ao período compreendido entre 1/3/2013 a 31/12/2014, com juros e correção monetária até a data do efetivo pagamento. O pleito foi julgado procedente (fls. 102-105).
+A Corte a quo afastou a ocorrência de prescrição e negou provimento à apelação do Instituto, ao fundamento de que o "servidor tem direito de requerer perante o Judiciário a satisfação do seu crédito, independente de prévia dotação orçamentária, uma vez que não está obrigado a se submeter à conveniência e oportunidade da Administração em pleitear verbas para o pagamento dos seus débitos" (fls. 159-164).
+O Tribunal de origem, ao afastar a ocorrência da prescrição intercorrente, não apreciou a tese de violação dos arts. 1º, 2º e 9º, do Decreto n. 20.910/32, bem como do art. 240 do CPC sob o enfoque trazido no recurso especial (prescrição intercorrente), pois reconheceu a ocorrência da renúncia tácita pela Administração, e a parte recorrente não suscitou a questão em seus embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Com efeito, para que a matéria seja considerada prequestionada, ainda que não seja necessária a menção expressa e numérica aos dispositivos violados, é indispensável que a controvérsia recursal tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente no apelo nobre. Com a mesma compreensão: AgInt no REsp n. 1.868.269/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023; AgInt no REsp n. 1.947.143/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022.
+Nesse sentido:
+ ..
+5. Inviável o conhecimento do recurso especial quando a Corte a quo não examinou a controvérsia sob o enfoque do art. 386, tampouco foram opostos os competentes embargos de declaração a fim de suscitar omissão quanto a tal ponto. Aplicação do Enunciado Sumular 282/STF.
+ ..
+(AgInt no AREsp n. 2.344.867/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+ ..
+1. Nos termos da jurisprudência desta Corte, "para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto".
+ ..
+(AgInt no REsp n. 1.997.170/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+ ..
+3. Em face da ausência de prequestionamento da matéria, incabível o exame da pretensão recursal por esta Corte, nos termos das Súmulas ns. 282 e 356 do STF.
+ ..
+(AgInt no AREsp n. 1.963.296/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 163), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS REMUNERATÓRIAS. PARCELAS RECONHECIDAS ADMINISTRATIVAMENTE. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ÓBICE DAS SÚMULAS N. 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
