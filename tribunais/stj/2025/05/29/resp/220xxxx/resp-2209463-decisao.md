@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO - FAZENDA NACIONAL, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no julgamento da Apelação/Remessa Necessária n. 5001994-31.2021.4.04.7101/RS.
+Na origem, cuida-se de mandado de segurança impetrado por BIANCHINI INDÚSTRIA DE PLÁSTICOS LTDA, no qual postulou a concessão de medida liminar para determinar a imediata conclusão do despacho aduaneiro com a consequente liberação das mercadorias amparadas pela Declaração de Importação n. 21/0718647-1, sem a aplicação de multa de 30% do valor aduaneiro, conforme menção da Autoridade Aduaneira e com o devido recolhimento dos tributos devidos na importação, sendo o Imposto de Importação à alíquota de 4% (fl. 217).
+Em primeiro grau, a sentença foi proferida para julgar procedente o pedido inicial, concedendo a segurança pleiteada, de modo a afastar a aplicação, no presente caso, de quaisquer das multas previstas no art. 706 do Decreto n. 6.759/2009 (Regulamento Aduaneiro) (fl. 217).
+A Corte local, em julgamento da Apelação e remessa oficial, negou provimento ao recurso, em acórdão assim resumido (fl. 221):
+"ADUANEIRO. IMPORTAÇÃO. DESPACHO ADUANEIRO. IMPORTAÇÃO. MULTA. ART. 706, I, B, DO DECRETO 6.759/09. LICENÇA DE IMPORTAÇÃO. OBTENÇÃO POSTERIOR AO REGISTRO DA DI. ERRO JUSTIFICÁVEL. AUSÊNCIA DE MÁ-FÉ E DE DANO AO ERÁRIO. AFASTAMENTO. PRINCÍPIO DA PROPORCIONALIDADE."
+Nas razões do apelo nobre, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, a recorrente não aponta afronta aos arts. 105 e 144 do CTN, art. 1º do DL 37-66 e aos arts. 72, 73, inciso I, e 706, I, alínea "a", do Decreto n. 6759/09 (fls. 234-237).
+Ao final, requer o provimento do recurso especial para que seja reformado o acórdão recorrido, restabelecendo-se, assim, a vigência das normas jurídicas mencionadas (fl. 237).
+Houve interposição de contrarrazões (fl. 245).
+O Recurso Especial foi admitido (fl. 265).
+Houve manifestação do Ministério Público Federal, opinando pelo não conhecimento ou desprovimento do Recurso Especial (fl. 293):
+DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. DESPACHO ADUANEIRO. LICENÇA DE IMPORTAÇÃO. AUSÊNCIA. EXCLUSÃO DA MULTA. FUNDAMENTOS DA CORTE DE ORIGEM COM BASE NO ACERVO FÁTICO DA CAUSA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. ACÓRDÃO, AINDA, ASSENTE EM FUNDAMENTOS SUFICIENTES, NÃO ELIDIDOS PELO RESP. SÚMULA 283 DO STF. PARECER DO MPF PELO NÃO CONHECIMENTO OU DESPROVIMENTO DO APELO NOBRE.
+É o relatório.
+Decido.
+O recurso não merece ser conhecido.
+O acórdão recorrido, quanto ao afastamento da multa prevista no art. 706, inciso I, alínea "a", do Decreto n. 6759/09, assim decidiu:
+Com efeito, considerando os princípios da razoabilidade e proporcionalidade, assiste razão à requerente, pois a omissão detectada - cujas circunstâncias permitem que se entendam os motivos -, sanada administrativamente no interregno de 1 (um) dia, revela-se escusável, motivo pelo qual pode-se reconhecer que não subsistem motivos para a imposição de "quaisquer das multas previstas no artigo 706 do Decreto nº 6.759/2009" , como corretamente assentado na sentença recorrida.
+Anote-se, outrossim, que art. 112 do CTN dispõe que a lei tributária que define infrações, ou lhe comina penalidades, interpreta-se de maneira mais favorável ao acusado, considerando- se a natureza ou as circunstâncias materiais do fato, ou a natureza ou extensão de seus efeitos.
+Vê-se, pois, que o acórdão está assentado nos seguintes fundamentos, cada qual suficiente, por si só, para dar suporte à conclusão do Tribunal de origem: a) aplicação do princípio da proporcionalidade e razoabilidade; b) o art. 112 do CTN leva à conclusão de que a interpretação dos fatos relacionados a infração deve ser realizada de modo mais favorável ao sujeito passivo. A parte recorrente, no entanto, não impugnou nenhum dos fundamentos utilizados na origem.
+Portanto, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Além disso, o Tribunal de origem não apreciou o afastamento da multa sob o enfoque nos arts. 105 e 144 do CTN, art. 1º do DL 37-66 e aos arts. 72, 73,, inciso I do Decreto 6759-09, sem que a parte recorrente tenha oposto embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Com efeito, para que a matéria seja considerada prequestionada, ainda que não seja necessária a menção expressa e numérica aos dispositivos violados, é indispensável que a controvérsia recursal tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente no apelo nobre.
+Nesse sentido:
+ ..
+5. Inviável o conhecimento do recurso especial quando a Corte a quo não examinou a controvérsia sob o enfoque do art. 386, tampouco foram opostos os competentes embargos de declaração a fim de suscitar omissão quanto a tal ponto. Aplicação do Enunciado Sumular 282/STF.
+ ..
+(AgInt no AREsp n. 2.344.867/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+ ..
+1. Nos termos da jurisprudência desta Corte, "para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto."
+ ..
+(AgInt no REsp n. 1.997.170/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+ ..
+3. Em face da ausência de prequestionamento da matéria, incabível o exame da pretensão recursal por esta Corte, nos termos das Súmulas ns. 282 e 356 do STF.
+ ..
+(AgInt no AREsp n. 1.963.296/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+Na mesma linha de entendimento: AgInt no AREsp n. 2.109.595/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024; AgInt no AREsp n. 2.312.869/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/9/2023, DJe de 27/9/2023.
+Por fim, como apontado pela recorrida nas contrarrazões, o recurso especial funda-se em uma suposta retroação, a qual sequer fora mencionada na decisão recorrida. Vê-se, pois, que as razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF ("Não cabe condenação em honorários de advogado na ação de mandado de segurança") e 105 do STJ ("Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ADUANEIRO. IMPORTAÇÃO. DESPACHO ADUANEIRO. IMPORTAÇÃO. MULTA. ART. 706, INCISO I, ALÍNEA B, DO DECRETO 6.759/09. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N 283 DO STJ. ART. 47 DA LEI N 11.101/05. AUSÊNCIA DE PREQUESTIONAMENTO SOB O ENFOQUE TRAZIDO NO RECURSO. SÚMULAS N. 282 E 356 DO STF. RETROAÇÃO. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284 DO STF. RECURSO NÃO CONHECIDO .
