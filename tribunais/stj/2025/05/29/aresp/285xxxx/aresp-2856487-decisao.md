@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de UNIMED NOROESTE/RS - SOCIEDADE COOPERATIVA DE ASSISTÊNCIA À SAÚDE LTDA. contra decisão que inadmitiu recurso especial, interposto com fulcro nas alíneas "a" e "c" do permissivo constitucional, objetando-se decisão, tomada pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, em acórdão assim ementado:
+"RECURSO DE APELAÇÃO. SEGUROS. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. COBERTURAS OBRIGATÓRIAS.
+TRATAMENTO MULTIDISCIPLINAR. PSICOTERAPIA PELO MÉTODO ABA . COBERTURA OBRIGATÓRIA, EM ATENÇÃO PARECER TÉCNICO Nº 39/GCITS/GGRAS/DIPRO/2021 DA ANS. POSSIBILIDADE. REQUISITOS PREENCHIDOS. OBRIGATORIEDADE DE COBERTURA. NEUROPSICOPEDAGOGIA. O DEVER DE COBERTURA PELO PLANO DE SAÚDE ESTÁ AMPARADO PELA PREVISÃO DA COBERTURA DA DOENÇA QUE ACOMETE O PACIENTE EM CONTRATO, RESOLUÇÃO NORMATIVA DA ANS Nº 539/20223, E EXECUÇÃO POR PROFISSIONAL DA SAÚDE. PSICOMOTRICIDADE. VAI RECONHECIDA A PRETENSÃO, DIANTE DO RECONHECIMENTO DE QUE O EDUCADOR FÍSICO SE TRATA DE PROFISSIONAL DA ÁREA DA SAÚDE. PRECEDENTES DESTA CÂMARA CÍVEL. DECISÃO DE ORIGEM PARCIALMENTE REFORMADA. MUSICOTERAPIA. AFASTAMENTO. AUSENTE DEVER DE COBERTURA, CONSIDERANDO QUE NÃO É PRESTADA POR PROFISSIONAL DA ÁREA MÉDICA E TEM CARÁTER EXPERIMENTAL, CONSOANTE O PARECER TÉCNICO Nº 25/GEAS/GGRAS/DIPRO/2022 DA ANS.
+NEGARAM PROVIMENTO AO APELO DA RÉ E DERAM PARCIAL PROVIMENTO AO RECURSO DE APELAÇÃO DA PARTE AUTORA."
+Em seu recurso especial, além de dissídio jurisprudencial, a parte recorrente alega violação dos seguintes dispositivos de lei federal, com as respectivas teses:
+(i) Art. 489 do CPC, argumentando que o acórdão recorrido teria sido omisso ao não enfrentar explicitamente todos os pontos relevantes suscitados pela recorrente, prejudicando a prestação jurisdicional adequada;
+(ii) Art. 293 do CPC, defendendo a alteração do valor da causa, a fim de ser fixado na proporção de 12 mensalidades ou, subsidiariamente, o valor de alçada; e
+(iii) Arts. 8º e 85, § 8º do CPC, sustentando de que a fixação dos honorários advocatícios deveria ocorrer de forma equitativa, pois o valor da causa é inestimável, tratando-se de obrigação de prestação de serviços de saúde por tempo indeterminado. Assevera a não observância das exigências do bem comum, deixando de adotar a proporcionalidade e razoabilidade na fixação dos honorários.
+Contrarrazões ofertadas às 1.100-1.110 (e-STJ).
+Em juízo prévio de admissibilidade, o eg. TJ-RS inadmitiu o apelo nobre, dando ensejo ao presente agravo.
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ, fls. 1.156-1.159).
+É o relatório. Passo a decidir.
+De início, é inviável conhecer das teses de deficiência da fundamentação e de alteração do valor da causa, por ausência de prequestionamento, óbice da Súmula 282/STF, porque não foram decididas pelo Tribunal de origem e nem mesmo foram objeto de embargos de declaração.
+Quanto à pretensão de revisão da base de cálculo dos honorários advocatícios, o recurso especial não pode ser provido, pela conformidade do acórdão recorrido com as teses fixadas para o Tema 1.076 dos Recursos Repetitivos:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+(REsp n. 1.850.512/SP, Relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe de 31/5/2022)
+Como visto, é subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível quando, havendo ou não condenação ou proveito econômico, for ele irrisório ou inestimável e o valor da causa for baixo, ou seja, na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo.
+Desse modo, considerando que o Tribunal de origem arbitrou honorários advocatícios em 10% sobre o valor da causa - R$ 144.000,00 (cento e quarenta e quatro mil reais) -, que não é baixo, observando a base de cálculo e o percentual mínimo aplicáveis, constata-se a conformidade do acórdão recorrido com o entendimento desta Corte, motivo pelo qual é inviável o provimento do recurso especial.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 11% para 12% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
