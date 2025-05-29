@@ -1,0 +1,34 @@
+DECISÃO
+
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de KAIQUE SANTANA MIRANDA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 014292-53.2024.8.26.0000).
+Consta dos autos que o paciente foi condenado às penas de 9 (nove) anos, 6 (seis) meses e 17 (dezessete) dias de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 157, § 2º, incisos II e V, c/c o § 2º-A, inciso I, do Código Penal, e de 2 (dois) meses de detenção, em regime inicial aberto, pela prática do delito capitulado no artigo 329 do Código Penal.
+O impetrante sustenta que houve erro judicial na dosimetria da pena, pois a pena-base foi exasperada com fundamento na premeditação, o que configura bis in idem, pois a premeditação foi presumida a partir do concurso de agentes, já contemplado como causa de aumento na terceira fase da dosimetria.
+Aduz que a fundamentação para a majoração da pena-base carece de concretude, não demonstrando como a premeditação ultrapassaria o dolo genérico do crime de roubo, violando o princípio da individualização da pena.
+Afirma que a sanção foi majorada de forma cumulativa e desproporcional, sem fundamentação concreta, contrariando a Súmula 443 do STJ, que exige fundamentação específica para o aumento na terceira fase do roubo circunstanciado e que a decisão não observou o princípio da proporcionalidade, aplicando aumentos sucessivos sem análise individualizada da gravidade concreta de cada majorante.
+Alega que o regime inicial fechado foi fixado com base em circunstâncias judiciais desfavoráveis, mas a ilegalidade na dosimetria da pena elevou indevidamente o quantum da pena, devendo ser revisto conforme o art. 33, § 2º, do CP, e a Súmula 440 do STJ.
+Requer, assim (fl. 05):
+1. A concessão liminar da ordem de Habeas Corpus, para suspender os efeitos do acórdão proferido na Revisão Criminal nº 0014292-53.2024.8.26.0000, até o julgamento definitivo do writ, diante do evidente constrangimento ilegal e da possibilidade de dano irreparável ao paciente.
+2. No mérito, a concessão definitiva da ordem, para:
+Redimensionar a pena-base do crime de roubo qualificado ao mínimo legal (4 anos de reclusão), excluindo-se a majoração por premeditação;Revisar as causas de aumento na terceira fase, aplicando-se fração única proporcional (sugere-se 1/2), em substituição ao aumento cumulativo de 3/8 e 2/3;Readequar o regime inicial de cumprimento da pena, conforme o novo quantum fixado;Manter inalterada a pena pelo crime de resistência (2 meses de detenção), por não ser objeto de impugnação.1. A expedição de alvará de soltura ou salvo-conduto, caso a pena redimensionada permita a progressão de regime ou o cumprimento em regime menos gravoso.
+2. A intimação da autoridade coatora para prestar informações, nos termos do art. 662 do CPP.
+3. A oitiva do Ministério Público Federal, conforme art. 203 do RISTJ.
+Informações  prestadas  às  fls.  25/37 e 41/108.
+O  Ministério  Público  Federal  manifestou-se  à  fls.  112/117,  opinando  pelo não conhecimento do writ, ou pela denegação da ordem.
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,  a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade. (AgRg no HC 710.060/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+Ademais,  a  premeditação do crime é fundamento idôneo para justificar a majoração da pena pela culpabilidade do réu, porquanto o fato de ter premeditado o crime desborda do tipo penal (AgRg no AREsp n. 2.341.780/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024).
+Não há falar em bis in idem, pois o fundamento da qualificadora diverge do fundamento da circunstância judicial, vale dizer, um se refere ao concurso de agentes e o outro se refere ao modus operandi empregado na execução do delito (crime premeditado).
+Outrossim, a aplicação cumulativa das causas de aumento foi devidamente fundamentada pelas instâncias ordinárias, haja vista o modus operandi do delito, que foi praticado por cinco agentes, com divisão de funções, e ainda com restrição da liberdade das vítimas por cerca de 1h30, as quais foram amarradas e permaneceram sob a mira de armas de fogo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. CONCURSO DE TRÊS AGENTES. EMPREGO ARMA DE FOGO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA POR 4 HORAS. CUMULAÇÃO DE FRAÇÕES. IDONEIDADE. AUSÊNCIA DE NOVOS ARGUMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante não apresentou novos argumentos em relação à idoneidade da aplicação cumulativa das frações de aumento do roubo, em razão da quantidade excessivas.
+2. Segundo o art. 68, parágrafo único, do CP, no concurso de causas de aumento a que são atribuídas frações distintas, deve incidir a maior delas isoladamente, com a finalidade de evitar patamar desproporcional à gravidade da conduta.
+3. O aumento cumulativo, embora possível, exige fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ.
+4. A participação de três agentes munidos com armamento bélico durante o roubo reduz consideravelmente a capacidade de resistência da vítima, ao ponto de inviabilizá-la e de expor a maior perigo o bem jurídico tutelado, o que pode refletir no cálculo dosimétrico mediante a aplicação cumulativa das frações de aumento previstas para o concurso de agentes, emprego de arma de fogo e restrição da liberdade da vítima, conforme a hipótese retratada nestes autos.
+5. Agravo regimental não provido.
+(AgRg no HC n. 974.313/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/4/2025, DJEN de 7/5/2025).
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
