@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por R2 INDÚSTRIA DE EMBALAGENS LTDA. em oposição ao acórdão proferido TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento de apelação em mandado de segurança (Processo n. 5011697-67.2018.4.04.7205), que restou assim ementado (fls. 2104-2109):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL) E IMPOSTO DE RENDA PESSOA JURÍDICA (IRPJ). APURAÇÃO EM REGIME DE LUCRO PRESUMIDO. BASE DE CÁLCULO. EXCLUSÃO DO IRPJ, DA CSLL, DO PIS, COFINS E CPRB. DESCABIMENTO. É descabida a pretensão de ter excluído o IRPJ, a CSLL, o PIS, a COFINS e a CPRB da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ), apurados pelo lucro presumido, seja porque não se aplica extensivamente ao caso a tese firmada pelo Supremo Tribunal Federal apenas em relação à contribuição ao PIS e à COFINS, seja porque essa forma de apuração dos tributos, pela sua natureza, já leva em consideração todas as possíveis deduções.
+A recorrente ainda opôs embargos declaratórios (fls. 2119-2120), os quais foram rejeitados por unanimidade (fls. 2128-2132).
+Em sede de recurso especial (fls. 2142-2148), a empresa R2 INDÚSTRIA DE EMBALAGENS LTDA. defende "a inconstitucionalidade da inclusão, em qualquer hipótese, do IRPJ, da CSLL, do PIS e da COFINS na base de cálculo do IRPJ e da CSLL (Lucro Presumido)", alegando que o Tribunal de origem teria violado os arts. 15 e 20 da Lei n. 8.249/1995; art. 110 do Código Tributário Nacional e o art. 12 do Decreto-Lei n. 1.598/1977.
+Contrarrazões da FAZENDA NACIONAL às fls. 2171-2173.
+Às fls. 2179-2180, o TRF da 4ª Região admitiu o recurso especial e o remeteu ao Superior Tribunal de Justiça.
+Às fls. 2212-2213, a eminente Ministra Assusete Magalhães, então relatora do feito, determinou o sobrestamento e retorno do feito à origem por compreender que a sua controvérsia estava dentro dos limites do Tema n. 1.008 do STJ.
+Ato contínuo, o Tribunal Regional Federal da 4ª Região compreendeu que não havia correlação entre a controvérsia dos autos e a referida no Tema n. 1.008 do STJ, razão pela qual determinou o seu retorno a esta Corte Superior (fls. 2224-2225).
+O Ministério Público Federal, às fls. 2241-2244, apresentou parecer no sentido de que o Superior Tribunal de Justiça teria afetado o tema debatido nestes autos ao rito dos recursos repetitivos, nos seguinte termos:
+O STJ afetou os Resps 2151907/RS, 2151903/RS, e 2151904/SC, como representativos da presente controvérsia (TEMA 1312). Veja-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. INCLUSÃO DE PIS/COFINS NA BASE DE CÁLCULO DO IRPJ/CSLL APURADO PELO LUCRO PRESUMIDO. QUESTÃO DE DIREITO. MULTIPLICIDADE DE CAUSAS PARELHAS. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA AFIRMADO PELO STF. RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Controvérsia jurídica submetida ao Superior Tribunal de Justiça: "definir se as contribuições PIS/COFINS compõem a base de cálculo do IRPJ/CSLL quando apurados na sistemática do lucro presumido".
+2. Recurso especial selecionado que preenche os requisitos de admissibilidade, permitindo o conhecimento da questão de direito controvertida.
+3. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia presente nas amostras selecionadas para julgamento paradigmático.
+4. Conveniência de se uniformizar, com força vinculante, o entendimento do STJ quanto à matéria, de modo a estabilizar definitivamente a jurisprudência do Tribunal quanto ao tema controvertido, ainda mais em havendo jurisprudência dominante no âmbito do Supremo Tribunal Federal a declarar o caráter infraconstitucional da controvérsia.
+5. Afetação do recurso especial ao regime dos recursos repetitivos. (grifo nosso.)
+Em razão da pendência no julgamento, opina-se pela suspensão do presente recurso e pela remessa dos autos ao Tribunal a quo , a fim de que, após o julgamento do tema pela Corte Nacional, proceda ao juízo de retratação ou conformação, conforme o caso, nos termos dos arts. 1.040 e 1.041 do CPC.
+É o parecer.
+Ao fim, pugnou pelo sobrestamento da análise do presente recurso e pela consequente devolução dos autos à origem para o oportuno exercício do juízo de conformidade, nos termos do art. 1.040 do Código de Processo Civil.
+É o relatório.
+Decido.
+De fato, a informação trazida pelo Ministério Público Federal revela-se bastante pertinente, pois a controvérsia destes autos, qual seja a discussão sobre a incidência de PIS e COFINS na base de cálculo do Imposto de Renda de Pessoa Jurídica (IRPJ) e Contribuição Social sobre Lucro Líquido (CSLL) apurados sob o regime de lucro presumido fora afetada recentemente, no último dia 25/2/2025, pela Primeira Seção deste Superior Tribunal de Justiça, em acórdão assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. INCLUSÃO DE PIS/COFINS NA BASE DE CÁLCULO DO IRPJ/CSLL APURADO PELO LUCRO PRESUMIDO. QUESTÃO DE DIREITO. MULTIPLICIDADE DE CAUSAS PARELHAS. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA AFIRMADO PELO STF. RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Controvérsia jurídica submetida ao Superior Tribunal de Justiça: "definir se as contribuições PIS/COFINS compõem a base de cálculo do IRPJ/CSLL quando apurados na sistemática do lucro presumido".
+2. Recurso especial selecionado que preenche os requisitos de admissibilidade, permitindo o conhecimento da questão de direito controvertida.
+3. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia presente nas amostras selecionadas para julgamento paradigmático.
+4. Conveniência de se uniformizar, com força vinculante, o entendimento do STJ quanto à matéria, de modo a estabilizar definitivamente a jurisprudência do Tribunal quanto ao tema controvertido, ainda mais em havendo jurisprudência dominante no âmbito do Supremo Tribunal Federal a declarar o caráter infraconstitucional da controvérsia.
+5. Afetação do recurso especial ao regime dos recursos repetitivos.
+(ProAfR no REsp n. 2.151.907/RS, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/2/2025, DJEN de 25/2/2025.)
+Assim, na linha do que decidira a Primeira Seção, o sobrestamento do presente processo e o consequente retorno à origem é medida que se impõe.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMI NO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1.312 do STJ, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INCLUSÃO DE PIS E CONFIS NA BASE DE CÁLCULO DE IRPJ E CSLL. AFETAÇÃO. CONTROVÉRSIA A SER APRECIADA NO RITO DOS RECURSOS REPETITIVOS. TEMA N. 1.312 DO STJ. SOBRESTAMENTO DA ANÁLISE DO RECURSO E RETORNO À ORIGEM. RECURSO ESPECIAL PREJUDICADO.
