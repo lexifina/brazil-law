@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial fund amentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 265):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS. EMPRÉSTIMO CONSIGNADO ORDINÁRIO. INSURGÊNCIA DO CONSUMIDOR. ALEGAÇÃO DE DESCONHECIMENTO DA RELAÇÃO JURÍDICA. INSTITUIÇÃO FINANCEIRA QUE SE DESINCUMBIU DO ÔNUS DE COMPROVAR A EXISTÊNCIA DE CONTRATO REGULARMENTE FORMALIZADO E A EFETIVA DISPONIBILIZAÇÃO DOS VALORES. ART. 373, II, DO CPC. AUSÊNCIA DE ATO ILÍCITO. PRECEDENTES DESTA CORTE. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS.
+Os embargos de declaração foram rejeitados (fls. 327-334).
+Em suas razões (fls. 298-307), a parte aponta a violação dos seguintes dispositivos:
+(i) arts. 1.022, I e II, do CPC, sustentando, em síntese, omissão e contradição do acórdão recorrido sobre a não observância do ônus de comprovar a autenticidade da assinatura constante do contrato (fl. 304); e
+(ii) arts. 373, II, e 429, II, CPC e 6º, VIII, do CDC, aduzindo que, embora a Justiça local considere que a assinatura é semelhante à de sua identidade, a autenticidade somente poderia ser aferida por meio de prova grafotécnica (fl. 305).
+Alega ainda que (fl. 305):
+Especificamente quanto à assinatura em contrato bancário, esse E. STJ fixou a seguinte tese no Tema 1.061: "na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II)."(2ª Seção, DJe de 09/12/2021).
+Contrarrazões apresentadas (fls. 321-325).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inicialmente, em relação à afronta ao art. 1.022 do CPC, importa esclarecer que os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+A Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão ou contradição alguma a ser sanada.
+Quanto ao mérito, o Tribunal de origem assim se pronunciou (fls. 280-283):
+Na espécie, verifica-se que o juízo de primeiro grau julgou improcedentes os pedidos autorais, entendendo pela ausência de lastro probatório hábil a comprovar a efetiva irregularidade na contratação e, consequentemente, consignou que o negócio jurídico pactuado deve ser cumprido na sua integralidade, sob a luz do princípio da pacta sunt servanda.
+Irresignada, a parte apelante sustenta que não contraiu o empréstimo que teria dado causa aos descontos em seus proventos. Assim, de um lado, o banco contratado sustenta que os contratos firmados estão plenamente válidos e que os valores foram devidamente disponibilizados. E, de outro lado, tem-se a parte contratante aduzindo que não contratou os empréstimos sub judices, motivo pelo qual requer a declaração de sua inexistência.
+Dentro dessa perspectiva, diante da negativa da parte autora, no sentido de que não teria contratado os serviços da parte apelada, caberia à instituição financeira o ônus probatório de demonstrar a prova em sentido contrário, já que não se revela lícito, à parte, a imposição de realização de uma prova negativa, ao que a doutrina convencionou chamar de "prova diabólica".
+Observe-se que é princípio básico do direito processual civil atribuir ao autor o ônus de alegar os fatos constitutivos de seu direito material, com a produção de provas que sirvam para embasar seus argumentos e ao réu o ônus de trazer elementos desconstitutivos, impeditivos ou modificativos do direito daquele, nos termos do art. 373 do CPC:  ..
+Em análise à documentação fático-probatória juntada nos autos originários, em sede de contestação, nota-se que houve a contratação de empréstimo consignado comum nº 010013736234 (fls. 83/88). Referido contrato consta no extrato de contratações do INSS apresentado pela parte consumidora (fls. 11). Trata-se de contrato físico, com assinatura física da parte autora (fls. 86) semelhante à de sua identidade (fls. 9).
+Note-se, porém, que este Tribunal possui entendimento firmado no sentido de que, além de restar comprovada a regularidade do contrato de empréstimo consignado, é imperioso que se demonstre a efetiva disponibilização dos valores para o consumidor, o que se faz pela juntada das respectivas ordens de pagamento, TED entre bancos etc. ..
+É que não adianta comprovar a realização de um contrato de empréstimo consignado sem que se comprove o empréstimo propriamente dito, sob pena de caracterização de falha na prestação dos serviços, nos termos dos arts. 14 e 348 do CDC. Além disso, a contratação de um empréstimo sem a disponibilização efetiva dos valores pela instituição bancária caracteriza prática abusiva, segundo o art. 399, IV e V, do CDC.
+Assim sendo, verifica-se que, além de demonstrar a regularidade contratual, o banco teria se desincumbido de ônus de demonstrar a efetiva disponibilização dos valores vinculados aos contratos sub judice, tendo em vista a juntada do respectivo comprovante de disponibilização (fls. 82), em estrita observância ao ônus probatório do art. 6º, VIII, do CDC, e do art. 373, II, § 1º, do CPC.
+Em sede de embargos de declaração, salientou ainda que (fls. 330-331):
+ ..  ao interpor os embargos, o recorrente aduz que esta Câmara teria inobservado o entendimento do Superior Tribunal de Justiça, no julgamento do REsp 1846649/MA (Tema 1061/STJ), que: "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade (CPC, arts. 6º, 369 e 429, II)."
+Entretanto, o argumento não foi suscitado em sede de apelação. Nesta oportunidade, a recorrente limitou-se a alegar a falha na prestação do serviço da instituição financeira, oportunidade em que pleiteou a repetição do indébito e a condenação ao pagamento de indenização por danos morais. Frisa-se ainda que o embargante sequer mencionou error in procedendo por não ter sido oportunizado a produção de prova.
+Dado o cenário apresentado, não pode a parte demandada, agora em sede de embargos de declaração, reivindicar alegação não expressamente consignada em apelo recursal, tampouco submetida ao juízo de origem.
+Desse modo, ao apreciar a questão relativa ao ônus de comprovar a autenticidade da assinatura, o Tribunal do estado esclareceu que foi juntado contrato com assinatura física da recorrente semelhante à de sua identidade, e que o ora recorrido teria se desincumbido de ônus de demonstrar a efetiva disponibilidade dos valores vinculados aos contratos em análise, ou seja, a Corte local concluiu pela validade do negócio jurídico por outros meios de prova que não a perícia grafotécnica.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. ÔNUS DA PROVA. REVISÃO SÚMULA 7/STJ. 3. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE FIRMADA EM JULGAMENTO DE RECURSO ESPECIAL REPETITIVO. TEMA 1.061. 4. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça dispõe que não configura cerceamento de defesa o julga mento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+1.1. Infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção de perícia, esbarraria no enunciado n. 7 da Súmula desta Corte.
+2. Modificar o entendimento do Tribunal local, para assim acolher a pretensão recursal nos moldes em que pretendido acerca do ônus da prova, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ, não sendo caso de revaloração de provas.
+2.1. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Quanto à alegação de que o Tribunal estadual não teria observado o disposto no Tema 1.061 desta Corte, referente ao REsp n. 1.846.649/MA, julgado sob o rito dos recursos especiais repetitivos, verifica-se que o acórdão estadual encontra-se em harmonia com a jurisprudência do STJ, uma vez que, na hipótese, concluiu pela validade do negócio jurídico celebrado entre as partes por outros meios de provas, o que atrai a incidência da Súmula 83/STJ.
+4.  .. .
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.364.794/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÔNUS DA PROVA. AUTENTICIDADE DE ASSINATURA. RECURSO DESPROVIDO.
+ ..
+II. Questão em discussão
+3. A questão consiste em saber se a instituição financeira cumpriu o ônus de provar a autenticidade das assinaturas nos contratos bancários impugnados, conforme o Tema Repetitivo n. 1.061 do STJ.
+4. A questão também envolve a análise da suficiência dos elementos probatórios apresentados e a necessidade de produção de prova pericial.
+III. Razões de decidir
+5. O Tribunal de origem concluiu que a instituição financeira se desincumbiu do ônus probatório, demonstrando a regularidade das contratações e a inexistência de fraude, com base em provas documentais.
+6. A jurisprudência do STJ estabelece que o juiz é o destinatário das provas e pode formar sua convicção com base nos elementos apresentados, sem necessidade de novas diligências, desde que fundamentado.
+7. A revisão das conclusões do Tribunal de origem demandaria reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. Cabe à instituição financeira o ônus de provar a autenticidade das assinaturas em contratos bancários impugnados. 2. O juiz pode valorar o conjunto probatório e decidir pela suficiência das provas apresentadas, sem necessidade de perícia, desde que fundamentado."  ..
+(AgInt no AREsp n. 2.574.303/RS, minha relatoria, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Tendo em vista a consonância do acórdão recorrido com a jurisprudência desta Corte Superior, aplica-se a Súmula n. 83 do STJ, tanto em relação aos recursos interpostos com base na alínea "c" quanto àqueles fundados na alínea "a" do permissivo constitucional.
+Ademais, é inviável desconstituir a convicção formada pelas instâncias originárias quanto à ausência de prova por parte do recorrido, em razão da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial .
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC.
+Publique-se e intimem-se.
+EMENTA
