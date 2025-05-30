@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra decisão que inadmitiu o recurso especial de fls. 853-863 em razão da ausência de demonstração de afronta aos arts. 3º do CDC, 114 do CPC/2015 e 884 e 944 do CC, da incidência da Súmula n. 7 do STJ e da falta de comprovação do dissídio jurisprudencial (fls. 886-888).
+O acórdão recorrido encontra-se assim ementado (fl. 843):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO. Vícios construtivos em imóvel. Sentença de parcial procedência, que condenou as rés ao pagamento de indenização por danos materiais de R$ 18.505,46. Inconformismo das demandadas. Descabimento. Preliminares de cerceamento de defesa, decadência e ilegitimidade passiva afastadas. Natureza e finalidade social da CDHU que não inviabilizam a aplicação do Código de Defesa do Consumidor ao caso. Danos efetivamente constatados por perícia judicial. Indenização devida e de incumbência das rés. Montante bem apurado pelo auxiliar do Juízo. Índice BDI que não comporta exclusão do cálculo. Fator orçamentário a compor o preço adequado quanto aos reparos que se busca indenizar, principalmente por considerar custos variáveis não diretamente relacionados a materiais e mão-de-obra. Sentença mantida. Recursos nãos providos.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 853-863), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 3º do CDC e 114 do CPC/2015, defendendo, respectivamente, (i) a inaplicabilidade das disposições do CDC no caso concreto e (ii) a existência de litisconsórcio necessário entre a parte agravante e a Municipalidade de Gastão Vidigal.
+Aponta ainda ofensa aos arts. 884 e 944 do CC.
+No agravo (fls. 904-914), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 917-921 .
+É o relatório.
+Decido.
+A parte alega genericamente violação dos arts. 884 e 944 do CC, não havendo, portanto, demonstração clara e inequívoca da infração, o que caracteriza fragilidade na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Não houve pronunciamento do Tribunal de origem acerca da tese de existência de litisconsórcio necessário (afronta ao art. 114 do CPC/2015), nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Incidem no caso as Súmulas n. 282 e 356 do STF.
+Ademais, a Corte local analisou os fatos e as provas dos autos para concluir que "está-se diante de ação em que pretendida indenização em decorrência de vícios construtivos apresentados pelo imóvel adquirido pelos ora apelados através de "Instrumento Particular de Venda e Compra de Imóvel com Financiamento Imobiliário e Pacto Adjeto de Alienação Fiduciária em Garantia pelo Sistema Financeiro da Habitação SFH e outras avenças" firmado com a CDHU" (fl. 846).
+Destacou que "por se subsumirem as partes ao conceito de consumidor e fornecedor previstos pelos arts. 2º e 3º, do Código de Defesa do Consumidor, não se alcança teratologia ou arbitrariedade quanto à aplicação da legislação consumerista ao caso, a despeito da natureza e finalidade social da agravante, eis que já decidiu o Superior Tribunal de Justiça ser plenamente aplicável "o Código de Defesa do Consumidor aos contratos firmados no âmbito do Sistema Financeiro da Habitação" (AgRg no REsp 1223685/SC, Rel. Min. Paulo de Tarso Sanseverino)" (fl. 846).
+Não há como rever o entendimento do Tribunal de origem acerca da aplicabilidade do CDC sem a incursão em elementos fático-probatórios, providência vedada em recurso especial devido às disposições da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo de fls. 904-914.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
