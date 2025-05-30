@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de afronta aos dispositivos legais arrolados e da incidência da Súmula n. 7/STJ (fls. 423-424).
+O acórdão recorrido encontra-se assim ementado (fl. 386):
+ACIDENTE DE TRÂNSITO. Colisão em pátio de carga e descarga de supermercado. Comprovação do valor despendido pela autora. Pretensão de perda total do veículo por ausência de peça original para o reparo. Inviabilidade. Avaria ínfima que não justifica a perda total. Veículo com mais de 15 anos e não mais fabricado. Utilização de peça não original ou usada. Possibilidade. Dever de indenizar danos materiais comprovados e reparos na funilaria estimados em laudo pericial. Ação parcialmente procedente. Sentença mantida. Recurso não provido. Condenação em indenização pelos danos morais apenas em relação à corré proprietária do veículo. Inviável a condenação solidária com a seguradora, não causadora do dano. Seguradora que não recusou a responsabilidade contratual. Ressarcimento que deve observar os limites da apólice contratada. Juros de mora da indenização contatos a partir da data do acidente. Súmula 54/STJ. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 398-401).
+Nas razões do recurso especial (fls. 404-413), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 141 e 492 do CPC/2015 e 402 e 944 do CC/2002. Para tanto, sustentou que:
+(i) ocorreu julgamento citra petita, pois "não levaram em consideração o pedido expresso da inicial, acerca da condenação da recorrida  .. , ao pagamento do gasto que o recorrente teve com o conserto de seu veículo KOMBI. E, conforme demonstra a nota fiscal e a ordem de serviço de fls. 19 e 20, a recorrente gastou para o conserto do câmbio do veículo VW/Kombi, o valor de R$ 2.036,00  .. . Ainda, a prova testemunhal foi clara em atestar que, em decorrência do acidente, o câmbio do veículo KOMBI ficou danificado" (fl. 410); e
+(ii) "houve omissão na r. sentença de fls. 302/304, uma vez que não houve a análise do pedido inicial referente à troca do câmbio do veículo KOMBI. Foi interposto embargos de declaração para sanar a omissão (fls. 307/308), porém, o mesmo foi rejeitado (fls. 310). Reiteramos o pedido na apelação interposta às fls. 313/322, todavia, ele não foi analisado novamente. Ou seja, também houve omissão no venerando acórdão, sendo que foi interposto embargos de declaração, e o mesmo foi rejeitado" (fl. 411).
+No agravo (fls. 427-433), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminutas apresentadas às fls. 436-441 e 443-447.
+É o relatório.
+Decido.
+Constata-se que, apesar de opostos embargos de declaração, a tese de julgamento citra petita, bem como de afronta aos arts. 141 e 492 do CPC/2015, não foi expressamente indicada nas razões do recurso, tampouco foi enfrentada pelo Tribunal a quo.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a Súmula n. 211/STJ, devido à ausência de prequestionamento.
+Por sua vez, a alegação de que "não houve a análise do pedido inicial referente à troca do câmbio do veículo" (fl. 411) não foi apreciada pelo TJSP, a despeito da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, também incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ademais, a suposta omissão do acórdão recorrido não pode ser conhecida por esta Corte Superior, porque a parte não indicou qual dispositivo de lei federal teria sido violado e os dispositivos legais apontados como descumpridos - quais sejam, os arts. 141 e 492 do CPC/2015 e 402 e 944 do CC/2002 - nada dispõem sobre o assunto, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+De todo modo, para modificar o acórdão impugnado, no sentido de apurar o valor do ressarcimento que a parte entende devido, seria imprescindível reexaminar o conjunto fático-probatório dos autos, providência não admitida na via especial, conforme a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
