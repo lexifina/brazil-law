@@ -1,0 +1,19 @@
+DECISÃO
+ALESSANDRO SIMPLÍCIO GOMES alega ser vítima de coação ilegal em decorrência de acórdão proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução Penal n. 0022485-04.2024.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, pela prática do crime de roubo majorado (art. 157, § 2º, I e II, do Código Penal), com progressão ao regime aberto em 15/6/2020. Em 11/10/2024, foi-lhe concedido o indulto com base no Decreto Presidencial n. 11.846/2023, por decisão da 4ª Vara das Execuções Criminais da Comarca de São Paulo, que reconheceu o cumprimento do requisito objetivo e afastou a prática de falta grave no período de 12 meses anterior ao decreto. A decisão foi reformada em segundo grau, sob o fundamento de descumprimento das condições do regime aberto.
+A defesa aduz, em síntese: a) inexistência de falta grave homologada no período de 12 meses que antecede a edição do Decreto n. 11.846/2023; b) impossibilidade de interpretação extensiva do art. 6º do referido decreto; c) preenchimento integral dos requisitos legalmente exigidos para a concessão do indulto. Requer a concessão da ordem para restabelecer a decisão concessiva do indulto.
+A medida liminar foi indeferida às fls. 104-105 e as informações prestadas pelo Juízo de primeiro grau às fls. 111-115.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 119-123).
+Decido.
+I. Inexistência de procedimento formal para apuração de falta grave
+Nos termos do art. 6º do Decreto Presidencial n. 11.846/2023, a concessão do indulto está condicionada à inexistência de sanção por falta disciplinar grave, reconhecida pelo juízo competente, em audiência de justificação, com observância do contraditório e da ampla defesa.
+A jurisprudência deste Superior Tribunal de Justiça tem admitido, de forma excepcional, que a prática da falta grave possa constituir óbice ao benefício, ainda que não homologada, desde que demonstrada a formalização de procedimento para apuração disciplinar, com instauração de sindicância, registro oficial ou realização de audiência de justificação.
+No caso dos autos, contudo, não se identifica nenhum elemento que indique a abertura de processo administrativo disciplinar ou sindicância, tampouco consta dos autos registro de audiência de justificação ou decisão que tenha reconhecido, mesmo provisoriamente, a falta imputada ao sentenciado.
+A própria decisão do Juízo da execução, que concedeu o indulto, é clara ao afirmar que, "em relação à falta grave supostamente cometida (descumprimento das condições do regime aberto), inexiste notícia, até a presente data, de realização de audiência de justificação, nem tampouco a aplicação de sanção pelo Juízo competente para apuração da infração disciplinar".
+A cassação da decisão pelo Tribunal de origem, sem respaldo em procedimento formal, representa interpretação ampliativa de norma restritiva de direito, incompatível com o regime jurídico dos benefícios previstos em decreto presidencial e com o princípio da legalidade estrita, que rege a execução penal.
+Prevalece, portanto, o entendimento consolidado nesta Corte: "A prática de falta grave não homologada, e tampouco objeto de apuração formal por meio de procedimento específico, não pode obstar a concessão do indulto" (AgRg no REsp n. 1.742.392/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/4/2019; HC n. 286.607/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/10/2014).
+II. Dispositivo
+Ante o exposto, concedo a ordem para restabelecer a decisão proferida pelo Juízo da Vara das Execuções Criminais, que declarou extinta a punibilidade do paciente com fundamento no Decreto Presidencial n. 11.846/2023.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
