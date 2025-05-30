@@ -1,0 +1,20 @@
+DECISÃO
+SAMUEL MALEKO MAKANDA impetrou habeas corpus contra acórdão proferido pela 8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0015839-75.2024.8.26.0050.
+Consta dos autos que o Juízo da Vara de Execuções Criminais concedeu ao paciente o indulto pleno, com base no art. 2º, XIV, do Decreto n. 11.846/2023. O Ministério Público interpôs agravo em execução, provido pelo Tribunal de origem, que revogou a decisão de primeiro grau ao fundamento de que o delito de tráfico de drogas  mesmo em sua forma menos gravosa  estaria vedado ao benefício, e de que haveria indícios de descumprimento das condições do regime aberto, configurando falta disciplinar, ainda não reconhecida judicialmente (fls. 14-23).
+A defesa sustenta, em síntese, que a causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 afasta a natureza hedionda do crime de tráfico de drogas, não havendo vedação ao indulto para essa hipótese. Afirma que o paciente preenche os requisitos objetivo e subjetivo exigidos no Decreto n. 11.846/2023, sendo incabível condicionar a concessão da clemência à instauração de procedimento disciplinar. Alega que, na ausência de reconhecimento judicial de falta grave até 25/12/2023, não se pode afastar o direito ao benefício.
+O pedido liminar foi indeferido às fls. 80-81 e as informações prestadas pelo Juízo da execução constam às fls. 88-91.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 107-114).
+Decido.
+I. Inexistência de impedimento à concessão do indulto
+O paciente foi condenado pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, com expressa aplicação da causa de diminuição de pena, reconhecida na sentença penal condenatória. Nos termos da jurisprudência pacificada deste Superior Tribunal de Justiça, essa figura legal não é equiparada a crime hediondo, o que afasta a vedação estabelecida no art. 1º, inciso I, do Decreto n. 11.846/2023.
+Nesse sentido, já decidiu esta Corte: "O tráfico de drogas, quando reconhecida judicialmente a minorante prevista no § 4º do art. 33 da Lei 11.343/2006, não se enquadra no rol dos crimes hediondos" (HC n. 519.455/SC, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 6/11/2019).
+Na mesma linha, o Supremo Tribunal Federal também já firmou entendimento de que: "Não se enquadra como hediondo o crime de tráfico de drogas quando reconhecida, na sentença, a causa de diminuição de pena do § 4º do art. 33 da Lei 11.343/06" (HC n. 118.533/MS, Rel. Ministra Cármen Lúcia, 2ª T., DJe 26/2/2016).
+Superada, portanto, a alegação de impedimento pelo tipo penal, verifica-se que o segundo fundamento adotado pelo Tribunal de origem  abandono do regime aberto desde 2019  também não subsiste. Embora haja referência ao descumprimento das condições do regime, não consta dos autos nenhuma apuração formal da suposta infração, seja por meio de boletim de ocorrência, sindicância, procedimento administrativo ou audiência de justificação.
+O art. 6º do Decreto n. 11.846/2023 é claro ao exigir que a ausência de faltas seja entendida como "a inexistência de sanção aplicada por decisão do juízo da execução penal, em audiência de justificação, ou homologada nos termos do art. 59 da Lei de Execução Penal".
+Como se extrai do acórdão impugnado e do parecer do Ministério Público Federal, a única informação disponível é o histórico de abandono do regime, fato que, por si só, não pode configurar óbice à concessão do benefício, justamente pela inexistência de apuração formal.
+Dessa forma, tendo sido reconhecido judicialmente o cumprimento da fração exigida e não havendo óbice legal objetivo, impõe-se o restabelecimento da decisão proferida pelo Juízo da execução penal, que deferiu a concessão do indulto com base no art. 2º, inciso XIV, do Decreto n. 11.846/2023.
+II. Dispositivo
+À vista do exposto, concedo a ordem para restabelecer a decisão proferida pelo Juízo da Vara de Execuções Criminais, que deferiu o indulto ao paciente, com fulcro no art. 2º, inciso XIV, do Decreto n. 11.846/2023.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
