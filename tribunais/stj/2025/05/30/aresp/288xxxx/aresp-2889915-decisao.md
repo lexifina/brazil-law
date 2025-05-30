@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ e ausência de similitude fática no dissídio jurisprudencial (fls. 490-493).
+O acórdão recorrido encontra-se assim ementado (fls. 417-419):
+DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE COBRANÇA DE JUROS. EMPRÉSTIMO PESSOAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DE MERCADO. RESTITUIÇÃO EM DOBRO. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de apelação cível interposta contra sentença que julgou improcedentes os pedidos de declaração de nulidade de cobrança de juros remuneratórios em contrato de empréstimo pessoal, além da restituição em dobro dos valores indevidamente cobrados, alegando a apelante a abusividade das taxas de juros pactuadas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a taxa de juros remuneratórios pactuada no contrato de empréstimo pessoal, superior ao quádruplo da média mensal e a undécuplo da média anual de mercado, configuram abusividade, ensejando a redução dos juros para a taxa média de mercado divulgada pelo Banco Central e a restituição em dobro dos valores indevidamente cobrados.
+III. RAZÕES DE DECIDIR
+3. É pacífico na jurisprudência do Superior Tribunal de Justiça que os contratos de natureza bancária são passíveis de revisão, nos termos do Código de Defesa do Consumidor, se configurada a abusividade de encargos estipulados.
+4. Para a configuração da abusividade dos juros remuneratórios em contratos bancários, considera-se o entendimento do STJ de que a taxa de juros contratada deve ser analisada em relação à taxa média de mercado para operações similares, sendo considerada abusiva se superior a uma vez e meia, ao dobro ou ao triplo da taxa média de mercado.
+5. No caso em análise, a taxa de juros contratada foi de 22% ao mês e 987,22% ao ano, superiores ao quádruplo e a undécuplo das taxas médias de mercado para empréstimos pessoais divulgada pelo Banco Central do Brasil no mês da celebração do contrato (5,32% ao mês e 86,35% ao ano).
+IV. DISPOSITIVO E TESE
+6. O recurso é provido.
+Teses de julgamento: "1. As taxas de juros remuneratórios contratadas, de 22% ao mês e 987,22% ao ano, foram consideradas abusivas por serem superiores ao quádruplo e a undécuplo das taxas médias de mercado para empréstimos pessoais, sendo devida a redução dos juros para as taxas médias de mercado, de 5,32% ao mês e 86,35% ao ano. 2. A apelada deve restituir em dobro os valores indevidamente cobrados, corrigidos pelo INPC a contar do desembolso, e juros de mora de 1% a. m. a contar da citação." Dispositivos relevantes citados: CDC, art. 42, p. u.; Súmula nº 297, STJ.
+Jurisprudências relevantes citadas: STJ, REsp nº 271.214/RS, Rel. Min. Sálvio de Figueiredo Teixeira, 3ª Turma, j. 16/11/2004; REsp nº 1.036.818/RS, Rel. Min. Nancy Andrighi, 3ª Turma, j. 09/03/2010; REsp nº 971.853/RS, Rel. Min. Nancy Andrighi, 3ª Turma, j. 17/03/2010; REsp nº 1.061.530/RS, Rel. Min. Luis Felipe Salomão, 3ª Turma, j. 04/05/2011.
+Os embargos de declaração não foram providos (fls. 440-442).
+Nas razões do recurso especial (fls. 461-474), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 421 do CC e 927 do CPC, pois (fl. 468):
+ ..  no julgamento do Recurso Especial Repetitivo nº. 1.061.530/RS, onde o Superior Tribunal de Justiça fixou orientação vinculante no sentido de que, a instituição de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, bem como que é admitida a revisão das taxas em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+Foram apresentadas contrarrazões (fls. 478-484).
+No agravo (fls. 496-514), afirma a presença dos requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 515-517).
+É o relatório.
+Decido.
+O Tribunal a quo não se pronunciou sobre o conteúdo normativo dos arts. 421 do CC e 927 do CPC sob o enfoque dado pela parte, circunstância que impede o conhecimento da insurgência por falta de prequestionamento, conforme a Súmula n. 282 do STF, aplicada por analogia.
+Ainda que superado o enunciado do STF, observo que, ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios (fl. 425):
+Na hipótese, nota-se que a taxa de juros remuneratórios, com redutor, pactuada foi de 22% (vinte e dois por cento) ao mês e 987,22% (novecentos e oitenta e sete inteiros e vinte e dois centésimos por cento) ao ano (mov. 01, arquivo 07), enquanto a taxa média de juros das operações de empréstimo de crédito pessoal não consignado divulgada pelo Banco Central do Brasil em novembro/2022 (mês da celebração do contrato ora em análise) eram de 5,32% (cinco inteiros e trinta e dois centésimos por cento) ao mês e 86,35% (oitenta e seis inteiros e trinta e cinco centésimos por cento) ao ano (informação disponível no Sistema Gerenciador de Séries Temporais - https://www3. bcb. gov. br/sgspub). Caracterizando-se o percentual contratualmente estipulado, portanto, praticamente ao quádruplo da referida taxa média mensal e undécuplo maior que a taxa média anual.
+Também assim, inobstante não se olvide este Relator acerca das condições de oferta de crédito diferenciadas praticadas pela parte ré/apelada e o suposto risco aumentado de inadimplência delas decorrentes, tem-se como abusiva a prática de juros remuneratórios tão destoantes daquelas adotadas para operações da mesma natureza no aludido período.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..
+3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Incide a Súmula n. 83 do STJ, aplicável aos recursos interpostos com base tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+Ademais, rever a conclusão do acórdão, quanto às peculiaridades que envolvem a contratação e que evidenciam a abusividade das taxas de juros contratadas, demandaria reavaliação do contrato e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Nesse sentido, em casos análogos: AgInt no AREsp n. 2.311.111/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023; e AgInt no AgInt no AREsp n. 2.027.066/RS, de minha relatoria, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
