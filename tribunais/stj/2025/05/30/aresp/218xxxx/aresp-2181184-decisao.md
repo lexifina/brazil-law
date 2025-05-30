@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por CENTRAL NACIONAL UNIMED -COOPERATIVA CENTRAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl.246):
+PLANO DE SAÚDE. Ação de obrigação de fazer. Preliminar. Suposta inovação recursal. A apelação fez referência aos fatos e argumentos discutidos na contestação. Inovação não caracterizada. Apelação que deve ser integralmente conhecida. Preliminar afastada. Mérito. Autora portadora de membrana neovascular subrretiniana, com indicação de injeção intravítrea de quimioterápicos. Negativa de cobertura dos procedimentos médicos na Clínica Oftalmológica São Paulo. Descredenciamento. Sentença de procedência. Irresignação da ré. Ausência de demonstração da comunicação aos consumidores do descredenciamento do prestador, tampouco da existência de outros estabelecimentos aptos a realizar o mesmo tratamento prescrito à autora. Descumprimento da norma do art. 17, § 1º, da Lei nº 9.656/98, bem como do art. 373, II, do CPC. Precedentes desta C. Câmara. Sentença mantida. RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 289-292).
+No recurso especial, a parte recorrente alega que o acórdão estadual violou os arts. 17, § 2º, e 24, § 5º, da Lei n. 9.656/1998 e 265 do CC.
+Sustenta, em síntese, que "o Centro Oftalmológico de São Paulo foi descredenciado pela UNIMED PAULISTANA, operadora de plano de saúde que foi contratada pela Recorrida, motivo pelo qual não há que se falar na obrigatoriedade desta Recorrente em comunicar o referido descredenciamento" (fl. 266).
+Foram oferecidas contrarrazões ao recurso especial (fl. 296).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 297-298), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 324-326).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida.
+O Tribunal estadual compeliu a CENTRAL NACIONAL UNIMED a custear o tratamento da autora na Centro Oftalmológico São Paulo nos seguintes termos (fls. 248-249):
+A autora foi diagnosticada como portadora de "membrana neovascular subrretiniana". Foi prescrito tratamento que indicava injeção intravítrea de quimioterápicos, tratamento este que sempre se deu na Clínica Oftalmológica São Paulo, instituição credenciada pela Unimed Paulistana.
+Sucede que em virtude da liquidação de Unimed Paulistana, houve portabilidade da carteira de clientes para a ré Central Unimed -, que realizou o descredenciamento da unidade médica Clínica Oftalmológica São Paulo onde a autora realizava o tratamento.
+A insurgência da ré se limita ao argumento de que não está obrigada a custear as despesas incorridas pela autora fora da rede credenciada de seu contrato, circunstância que retiraria qualquer traço de ilegalidade de sua negativa.
+Entretanto, a empresa requerida não nega o relato inicial de que a autora estava em tratamento na Clínica Oftalmológica São Paulo, desde 2013, confirmando, dessa forma, que aquele estabelecimento já foi parte integrante de sua rede de hospitais credenciados. Nesse cenário, era imprescindível que a ré demonstrasse ter comunicado aos consumidores (a autora, em especial) acerca do descredenciamento da Clínica, na forma e no prazo estabelecido pelo § 1º do artigo 17 da Lei nº 9.656/98, o que não aconteceu.
+Vale anotar que a ré se deu por satisfeita com os documentos apresentados com a contestação e requereu o julgamento antecipado (fls. 180/184), renunciando à instrução processual. Não há prova nos autos de que a instituição credenciada pela ré (fl. 176), em substituição à Clínica onde a autora realizava o tratamento, teria condições de observar as prescrições médicas, considerando-se que realizava a autora tratamento com quimioterápicos. Desrespeitado o ônus processual do artigo 373, II, do Código de Processo Civil, não há outra solução senão confirmar a sentença condenatória (sem destaques no original).
+Observa-se, portanto, que a pretensão de modificar o acórdão impugnado, no que tange à falha no dever de informar à segurada sobre o descredenciamento da clínica onde realizava seu tratamento, bem como à ausência de prova nos autos de que a instituição credenciada pela ré, em substituição à clínica anteriormente utilizada pela autora, teria condições de atender às prescrições médicas, esbarra na vedação ao reexame de fatos e provas, conforme estabelecido pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DESCREDENCIAMENTO DE CLÍNICA MÉDICA. AUSÊNCIA DE COMUNICAÇÃO. NEGATIVA DE COBERTURA ABUSIVA. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais sobre a irregularidade na comunicação do descredenciamento da clínica médica demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+2. A revisão da indenização por dano moral apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas situações, inviável reexaminar o valor fixado, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.362.567/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 15% os honorários fixados em desfavor da parte recorrente, totalizando R$4.600,0 0.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DESCREDENCIAMENTO DE CLÍNICA. FALHA NO DEVER DE INFORMAÇÃO. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
