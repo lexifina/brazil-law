@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE GOIÂNIA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO. PREJUDICIALIDADE. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. DECISÃO SANEADORA. RETRATAÇÃO DO PEDIDO DE DESISTÊNCIA AINDA NÃO HOMOLOGADO. POSSIBILIDADE. AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 354, parágrafo único, e 1.015 do CPC, sustentando que a decisão agravada, por não ter homologado a desistência, e sim indeferido o pedido de revogação dessa desistência, já anteriormente homologada, não se enquadra dentre as hipóteses de cabimento do agravo de instrumento, nem há urgência que justifique a mitigação do rol, portanto, incabível o presente agravo. Apresenta a seguinte argumentação:
+Conforme exposto na narrativa fática, o cerne do presente recurso especial recai sobre o fato de que a decisão a decisão agravada, por não ter homologado a desistência, e sim indeferido o pedido de revogação dessa desistência, já anteriormente homologada, não se enquadra dentre as hipóteses de cabimento taxativamente previstas no art. 1.015 e no art. 354, parágrafo único, ambos do CPC. Logo, o agravo de instrumento é incabível e deveria, por isso, ter o conhecimento negado.
+Vale rememorar o caso, com a ressalva de que este recurso não objetiva o reexame, mas a simples revaloração, das provas produzidas.
+Conforme se verifica dos autos de origem, a agravante formulou, expressamente em sua "impugnação à contestação" (ev. 3, arq. 19), o pedido de desistência do aproveitamento no cargo de Procurador Jurídico do Município. Confira-se:
+ ..
+Em manifestação posterior (ev. 3, arq. 31), pediu a suspensão do processo e ratificou todos os pedidos formulados na supracitada impugnação, o que, por razões óbvias, significa que foi reiterado o pleito de desistência. Veja-se:
+ ..
+Finalmente, em decisão lavrada pelo juízo de primeira instância (ev. 3, arq. 37), foram deferidos os pedidos (de suspensão do feito e de desistência) formulados pela agravante na réplica à contestação:
+Não há dúvidas, portanto, que a supracitada decisão, que deferiu tais pedidos, homologou a desistência pleiteada.
+Portanto, somente em momento posterior, através da decisão agravada, é que o juízo processante, analisando o pedido de revogação da desistência formulado pela autora (ora recorrida), indeferiu o pleito.
+Ou seja, a decisão agravada se limitou a (i) indeferir o requerimento de revogação do pedido da agravante de desistência do pleito inicial de aproveitamento ao cargo de Procurador Jurídico, e (ii) determinar a intimação das partes para manifestarem interesse na produção de provas além das contantes dos autos.
+Resta claro, pois, que o referido decisum não configura julgamento parcial de mérito porque não homologou a desistência - caso em que se enquadraria na hipótese prevista no art. 354, parágrafo único do CPC -, e sim indeferiu o requerimento para revogação desse pedido de desistência.
+Exsurge, assim, a conclusão de que o caso concreto não se insere nas hipóteses de cabimento taxativamente previstas no art. 1.015 do CPC, com a interpretação dada pelo STJ no julgamento do Tema Repetitivo 988. Confira-se:
+ ..
+Dito isso, considerando a decisão agravada, por não ter homologado a desistência, e sim indeferido o pedido de revogação dessa desistência, já anteriormente homologada, não se enquadra dentre as hipóteses de cabimento taxativamente previstas no art. 1.015 e no art. 354, parágrafo único, ambos do CPC, e que não há urgência que justifique a mitigação do rol, medida que se impõe é o provimento do presente recurso especial (fls. 250-253).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O fato do julgador, na origem, indeferir o pedido de revogação de desistência, equivale a dizer que houve a prévia homologação do requerimento de desistência; dessa forma, sendo este o momento que a parte toma ciência do entendimento do magistrado de 1º grau, tem-se por cabível do Agravo de Instrumento na forma do art. 485, inciso VIII, do CPC/15.
+ ..
+Assim, considerando que o indeferimento do pedido de revogação de desistência supõe que houve sua prévia homologação (inclusive é este o fundamento dispensado quanto a ocorrência de erro material no julgado), inexiste dúvida sobre a natureza urgente da medida e, por consequência, do cabimento do Agravo de Instrumento.
+No que diz respeito a alegação de que, anteriormente, o julgador já havia deferido o pedido de desistência de um dos requerimentos da inicial, cumpre esclarecer que, revendo as peças do processo não observo qualquer deliberação sobre o pedido de desistência.
+Inclusive, o decisum de 1º grau mencionado pelo recorrente como corroborador da homologação, qual seja mov. 03, arq. 37, do processo n. 0321328-74. nada menciona sobre o pedido de desistência. (fls. 237-238).
+Assim, inci de a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
