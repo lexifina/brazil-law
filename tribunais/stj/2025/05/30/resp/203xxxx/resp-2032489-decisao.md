@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por PATRICK DOS SANTOS, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Em suas razões recursais (fls. 241-254), o recorrente aponta violação dos artigos 351 e 357 do Código de Processo Penal, além dos artigos 59; 44, § 3º, e 77, todos do Código Penal, aduzindo, em síntese, nulidade da citação realizada por telefone e, de forma subsidiária, violação ao princípio da vedação ao bis in idem, pelo sopesamento concomitante dos maus antecedentes e da reincidência, além da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos ou de suspensão condicional da pena.
+Apresentadas contrarrazões (fls. 258-267), o recurso especial foi admitido e encaminhado a esta Corte Superior de Justiça (fl. 270).
+O Ministério Público Federal opina pelo desprovimento do apelo nobre (fls. 282-288).
+É o relatório. DECIDO.
+A declaração da extinção da punibilidade pelo implemento da prescrição da pretensão punitiva nesse momento é imperativa.
+Compulsando os autos, observo que o recorrente foi condenado à pena de 1 (um) mês e 12 (doze) dias de detenção (fls. 130-136), cujo prazo prescricional é de 3 (três) anos, consoante art. 109, inciso VI, do Código Penal.
+Por oportuno, verifico que a denúncia foi recebida no dia 01/03/2021 (fl. 39), a sentença condenatória foi publicada em 06/08/2021 (flS. 130-136) e o acórdão confirmatório em 01/04/2022 (fl. 199).
+E, considerando que esta Corte Superior tem observado o Tema n. 788, da Sistemática da Repercussão Geral, que dispõe que o "prazo para a prescrição da execução da pena concretamente aplicada somente começa a correr do dia em que a sentença condenatória transita em julgado para ambas as partes, momento em que nasce para o Estado a pretensão executória da pena, conforme interpretação dada pelo Supremo Tribunal Federal ao princípio da presunção de inocência (art. 5º, inciso LVII, da Constituição Federal), inclusive quanto à modulação dos efeitos, que aplica o tema para os processos, cujo trânsito em julgado para a acusação, tenha ocorrido após 12/11/2020 (data do julgamento das ADC n. 43, 44 e 53)".
+Ainda, nos termos do entendimento da Terceira Seção desta Corte Superior firmado no Tema n. 1100, que dispõe que: "O acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (REsp n. 1.920.091/RJ, Terceira Seção, Rel. Min. João Otávio de Noronha, DJe de 22/8/2022).
+Nesse aspecto, do último marco interruptivo (publicação do acórdão confirmatório em 01/04/2022) aos dias atuais, decorreu tempo hábil ao implemento da prescrição da pretensão punitiva, uma vez que ultrapassado o lapso temporal de 3 (três) anos.
+Desse modo, não havendo outra causa interruptiva até o presente exame desse recurso especial, é de rigor a declaração da extinção da punibilidade.
+Ante o exposto, nos termos do art. 61 do Código de Processo Penal, declaro, de ofício, a extinção da punibilidade, conforme os fundamentos supra e, em consequência, julgo prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. FALSA IDENTIDADE. DESACATO. IMPLEMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXTINÇÃO DA PUNIBILIDADE. PREJUDICIALIDADE SUPERVENIENTE DO RECURSO.
