@@ -1,0 +1,16 @@
+DECISÃO
+LUIZ PAULO SOSSIO alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A Defesa informa que o paciente foi progredido ao regime semiaberto. O Ministério Público interpôs agravo de execução, e o Tribunal determinou o retorno do sentenciado ao regime mais severo para realização do exame criminológico.
+A impetrante busca o restabelecimento da decisão de primeiro grau. Argumenta que foram cumpridos os requisitos do art. 112 da Lei de Execução Penal, e a exigência do exame criminológico é indevida. Afirma que a nova redação do art. 112 da LEP é inconstitucional e a exigência legal causa atrasos na análise dos pedidos e piora a superlotação carcerária, além de ser um contrassenso.
+Decido.
+O Tribunal de origem determinou a submissão do apenado ao exame criminológico diante de histórico carcerário conturbado, conforme permite a Súmula n. 439 do STJ. Confira-se:
+ ..  Luiz Paulo responde a alta pena (17 anos, 10 meses e 1 dia; TCP: 17.01.2033 - fls. 28) em virtude da prática de lesão corporal de natureza grave e dois roubos majorados, ostentando nove faltas disciplinares de natureza grave (três delas consistentes em abandono da regência intermediária, aos 03.01.2011, 23.10.2017 e 03.01.2022) - fls. 19/20. Demais disso, o recorrido praticou uma das rapinas na data de 01.07.2019, quando em gozo de livramento condicional, deferido dias antes, em 04.06.2019 (fls. 18/20).
+Nesse contexto, o órgão recorrido registrou que "deveria mesmo o agravante ser melhor observado antes de eventualmente galgar regime mais brando - tantas vezes já desdenhado. E nada melhor para observá-lo, inclusive com anamnese e prognósticos clínicos, do que estudo por equipe interdisciplinar" (fl. 100).
+O acórdão do Tribunal de origem observou a legislação vigente à época do crime e está conforme o entendimento deste Superior Tribunal, que admite a determinação de exame criminológico não obrigatório em decisão fundamentada do Juiz, o que foi feito no caso concreto diante de histórico carcerário problemático do apenado.
+Com efeito, o paciente praticou 9 faltas disciplinares de natureza grave durante a execução, 3 delas consistentes em fuga após a progressão ao regime semiaberto. Além disso, o preso praticou novo crime durante o livramento condicional, deferido dias antes.
+Nesse contexto, está justificado o receio sobre a capacidade de readaptação social sem reincidência.
+Aplica-se ao caso a compreensão de que o "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime  .. , pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 814.112/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2023).
+Ademais, "a demonstração de que o apenado possui histórico conturbado no decorrer da execução penal" (AgRg no HC n. 834.497/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023), constitui fundamento para determinar o exame criminológico. Um passado de mau comportamento carcerário com registro de reiteradas faltas graves e de reincidência é circunstância concreta, relacionada à execução penal, que explica a dúvida quanto ao mérito para a progressão de regime.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
