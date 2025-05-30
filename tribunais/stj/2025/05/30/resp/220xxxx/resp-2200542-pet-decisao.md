@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Fls. 2.179/2.184e: Trata-se de pedido de distinção formulado por NERCI TEREZINHA MIRANDA contra decisão na qual determinei a devolução dos autos, com a devida baixa nesta Corte Superior, em razão da afetação da matéria aos Temas 1.039 e 1.301 da sistemática dos recursos repetitivos nesta Corte Superior, nos termos dos arts. 1.039 a 1.041 do Código de Processo Civil (fls. 2.136/2.144e).
+Alega ser necessário o distinguishing e a impossibilidade de sobrestamento do recurso especial, porquanto o pleito do Recorrente é o reconhecimento do interesse de agir e a desnecessidade de comunicação de sinistro, não sendo imprescindível a notificação prévia do sinistro.
+Ao final, requer o reconhecimento da distinção para que prossiga no julgamento do feito.
+É o relatório. Decido.
+Nas razões do recurso especial, a Recorrente alega que (fls. 1.999/2.010e):
+A decisão proferida, ao deixar de reconhecer o interesse de agir e a desnecessidade de comunicação de sinistro, bem como ao deixar de aplicar o Código de Defesa do Consumidor e inverter o ônus da prova, violou e negou vigência aos artigos 6º, inciso VIII, bem como artigos 47 e 51, todos do Código de Defesa do Consumidor.
+Neste sentido, a Recorrente juntou à exordial o requerimento administrativo/comunicação de sinistro enviada à Cohapar. Sendo assim, a Recorrente não pode ser responsabilizada pela desídia por parte da Embargada em responder as comunicações de sinistro que recebe.
+Nada obstante ao ocorrido, ainda que assim não fosse, data máxima vênia, deve-se ressaltar que a posição do STJ é no sentido de não ser imprescindível a notificação prévia do sinistro para caracterizar-se o interesse de agir:
+Sustenta, ainda, ser inviável o sobrestamento do recurso especial, uma vez que o pleito recursal refere-se ao reconhecimento do interesse de agir e à desnecessidade de comunicação prévia do sinistro, não sendo exigida, portanto, a notificação do sinistro como condição indispensável ao exercício do direito.
+A controvérsia dos autos trata da alegada inércia da Recorrente em comunicar administrativamente o sinistro à seguradora, o que, segundo a parte adversa, retiraria o seu interesse processual  condição necessária ao exercício do direito de ação. Essa matéria está abarcada pelo Tema 1.301, afetado à Primeira Seção desta Corte Superior, para julgamento sob o rito dos recursos repetitivos:
+Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS.
+(Recursos Especiais 2.178.751/PR e 2.179.119/PR, relator Ministro Sérgio Kukina).
+Eventual reconhecimento do interesse de agir permitirá o prosseguimento da ação e poderá resultar no acolhimento do pedido de condenação ao pagamento do valor apurado em perícia, correspondente à recuperação dos imóveis atingidos, bem como à reparação pelos danos cujos consertos foram providenciados por iniciativa dos Autores, conforme descrito à fl. 55e.
+Nessa linha, decisão terminativa em idêntica controvérsia: AgInt no AREsp n. 2.538.641, Ministro Paulo Sérgio Domingues, DJEN de 18.12.2024.
+Além disso, verifico que a questão discutida no recurso especial também está, de fato, correlacionada com a tese afetada no Tema 1.039 desta Corte Superior, acerca do debate sobre a fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação.
+Dessa forma, considerando que a discussão dos autos está relacionada com os Temas 1.039/STJ e 1.301/STJ, revela-se adequada a determinação de devolução dos autos à origem, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil , após a publicação do acórdão dos recursos repetitivos, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC .
+Por fim, vale acrescentar, em remate que, nos termos da jurisprudência deste Tribunal Superior, "o ato judicial que determina o sobrestamento e o retorno dos autos ao Tribunal a quo, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória e não acarreta prejuízo às partes, por isso, se trata de provimento irrecorrível" (AgInt no REsp 1.615.887/PR, relator Ministro Sérgio Kukina, 1ª T, j. 7.2.2019, DJe de 12.2.2019).
+Posto isso, indefiro o pedido de distinção.
+Publique-se. Intimem-se.
+ EMENTA
