@@ -1,0 +1,12 @@
+DECISÃO
+FELLIPE HALLEN FONSECA PIMENTA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça Militar de Minas Gerais no Habeas Corpus n. 2000093-05.2023.9.13.0000.
+Consta dos autos que o paciente foi denunciado como incurso nas sanções dos arts. 288 do Código Penal, dos arts. 33, caput, e 35, ambos c/c o art. 40, II, da Lei n. 11.343/2006, e dos arts. 242, caput, e 243, "a" (3 vezes), 312 e 319 (5 vezes), todos do Código Penal Militar, na forma do art. 69 do Código Penal.
+A defesa aduz, em síntese, a) violação ao Juiz das Garantias; b) ilegalidade no cumprimento do mandado de prisão; c) contradição entre os depoimentos prestados; d) quebra da cadeia de cadeia de custódia; e) ingresso em domicílio de forma ilegal; f) indevido acesso a celulares de pessoas não envolvidas nos fatos; g) violação à teoria dos motivos determinantes; h) atuação estranha de agentes públicos; i) necessidade de realização de perícia nos celulares; e j) necessidade de contraditório da prova emprestada. Requer a nulidade ab initio e o trancamento do processo, ou, alternativamente, a suspensão processual até que sejam periciados equipamentos eletrônicos.
+Indeferida a liminar, o Ministério Público manifestou-se pelo desprovimento do recurso (fls. 139-147).
+Decido.
+Em consulta ao Tribunal de origem, verifica-se que sobreveio a prolação de sentença nos autos do processo objeto deste habeas corpus, de modo que o pedido de trancamento em razão da aventada ilegalidade das buscas está prejudicado.
+Isso porque, na sentença - cujo teor pode ser acessado na página eletrônica do portal de serviços do Poder Judiciário -, foram considerados diversos elementos, inclusive trazidos na instrução criminal, para fundamentar sobre as teses aqui alegadas.
+Assim, neste caso, as questões relativas à competência do juízo, ao cerceamento de defesa, à quebra da cadeia de custódia, à contradição entre depoimentos, à violação de domicílio, à (des)necessidade de perícia e todas as demais aqui alegadas - com os contornos fáticos que lhe foram dados ao longo da instrução criminal e analisados em cognição exauriente na sentença - deve ser primeiro submetida à instância de origem em apelação - a qual já foi interposta -, para que, depois, se necessário, seja novamente trazida a este Superior Tribunal.
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
