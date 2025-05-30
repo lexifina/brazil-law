@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de medida cautelar inominada apresentada por MOEMA FERRARI NORMANHA com o objetivo de conferir efeitos suspensivos ao agravo regimental por ela interposto nos autos do Recurso Especial nº 2.093.513.
+A peticionária é investigada pela suposta prática dos crimes de invasão de dispositivo informático, disposto no art. 154-A do Código Penal, de associação criminosa, disposto no art. 288 do CP e do art. 10 da Lei n. 9.296/96, nos autos do inquérito policial nº 1503000-72.2019.8.26.0161, que corria no Juízo da 3ª Vara Criminal de Diadema/SP. O Magistrado de primeira instância acabou acolhendo manifestação do Ministério Público e homologou o arquivamento do inquérito.
+Ocorre que, mencionada decisão foi objeto de impugnação pela vítima dos fatos, que impetrou mandado de segurança questionando a competência do Juízo estadual, uma vez que os fatos ali investigados seriam conexos com os fatos investigados no inquérito policial nº 1000093-57.2023.4.01.3400 (IPL 2022.0075318), que corre no Juízo da 15ª Vara Federal Criminal da Subseção Judiciária do Distrito Federal.
+O Desembargador relator do mandado de segurança não conheceu da impetração em decisão monocrática. Contra essa decisão foi interposto agravo interno, ao qual não se deu provimento e, em face deste acórdão, foi interposto o mencionado Recurso Especial, admitido no Tribunal.
+Após tornarem conclusos os autos, proferi decisão monocrática dando provimento ao recurso especial para (i) reconhecer a conexão teleológica e probatória entre os fatos investigados no inquérito policial nº 1000093-57.2023.4.01.3400 (IPL 2022.0075318) e os fatos investigados no inquérito policial nº 1503000-72.2019.8.26.0161 e (ii) diante da pacífica e sumulada jurisprudência desta Corte (súmula nº 122), reconhecer a Justiça Federal como a competente para analisá-los. Assim, anulei a decisão de homologação de arquivamento por ele proferida e determinei a remessa dos autos ao Juízo da 15ª Vara Federal Criminal da Subseção Judiciária do Distrito Federal (competente para analisar o feito).
+A Peticionária, discordando da decisão e considerando-se interessada no feito, interpôs agravo regimental. No entanto, para além disso, apresentou a presente petição com o intuito de conferir efeitos suspensivos ao recurso, sob a argumentação de que, de um lado, a decisão monocrática de minha lavra teria sido equivocada (fumus boni iuris) e, de outro, que existiria perigo de, com a demora no julgamento do agravo - principalmente pelo período de recesso forense -, a Peticionária poderia ser "alvo de novas medidas/investidas no âmbito criminal" (periculum in mora) (e-STJ fl. 08).
+Requer, liminar e definitivamente, a concessão de efeito suspensivo ao agravo regimental interposto contra decisão que julgou o Recurso Especial nº 2.093.513.
+Durante o plantão judiciário, a Ministra Presidente desta Corte examinou o feito e proferiu a seguinte decisão:,
+ .. . Não vislumbro a indispensável urgência que justificasse o processamento do pedido em sede de plantão judiciário desta Corte de Justiça. A alegada urgência funda-se na alegação de que o período de férias dos Ministros poderia atrasar o exame do mérito do recurso que desafiou a decisão monocrática proferida pela eminente Ministra Relatora.
+Observo, contudo, que o período de recesso envolve todas as instâncias judiciárias, o que, por si só, fragiliza a alegação da suposta urgência da medida pleiteada a justificar a atuação excepcional desta Presidência.
+Assim, remeta-se à eminente Ministra Relatora para apreciação  ..  (e-STJ fl. 795).
+Após, em novo exame da liminar, a então Ministra Relatora do feito indeferiu o pleito (fls. 802-805).
+Instado a se manifestar, o Ministério Público Federal ofertou parecer assim ementado (fl. 812):
+PET. INVASÃO DE DISPOSITIVO INFORMÁTICO. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AUSÊNCIA DE PREVISÃO LEGAL. INDEFERIMENTO. - O pedido de concessão do efeito suspensivo ao agravo regimental não pode ser acolhido por ausência de previsão legal. -Parecer pelo indeferimento da Petição.
+Em 5/3/2025 o feito me foi atribuído.
+É o relatório. Decido.
+Observa-se a perda do objeto, uma vez que a parte recorrente do RESP 2.093.513/SP apresentou pedido de desistência do recurso, tendo sido o mesmo homologado em decisão publicada em 22/5/2025, com o trânsito em julgado certificado na data de hoje, 28/5/2025.
+Portanto, tendo havido a desistência da pretensão recursal, inclusive com o trânsito em julgado daquele feito, o julgamento do agravo regimental interposto perdeu sua razão de ser.
+Ante o exposto, julgo prejudicado o pedido.
+Publique-se.
+Intimem-se.
+EMENTA
