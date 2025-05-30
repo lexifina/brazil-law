@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HV COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA - em Recuperação Judicial, em face de decisão monocrática da lavra de ste signatário, acostada às fls. 470-474 (e-STJ), que negou provimento ao reclamo em razão da ausência de negativa de prestação jurisdicional e incidência da Súmula 211/STJ.
+Irresignado, o ora embargante sustenta, em síntese, omissão quanto às violações apontadas no recurso especial.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão a ser sanada.
+A decisão embargada foi suficientemente clara nas suas razões ao negar provimento ao recurso.
+Assim constou da decisão ora embargada:
+1. Inicialmente, a apontada violação aos arts. 489 e 926 do CPC/15 não se configura, haja vista o Tribunal estadual ter afirmado claramente que a matéria relativa ao benefício da gratuidade de justiça está preclusa, não havendo omissão, portanto. Assim constou do acórdão (fl. 378, e-STJ):
+No caso dos autos, busca a Agravante a concessão dos benefícios da justiça gratuita. No entanto, a matéria aqui tratada, encontra-se preclusa. É que, da decisão que indeferiu a gratuidade à pessoa jurídica agravante, a ora recorrente quedou-se inerte, e dela não tirara recurso no prazo legal. Em arremate, não há o que se cogitar acerca do pedido de parcelamento, uma vez que a pessoa jurídica agravante descumpriu a anterior decisão que determinou a exibição de documentos, de sorte a restar provado nos autos a impossibilidade aventada; sendo oportuno registrar que o recurso de apelação é datado de maio de 2023, ou seja, já decorrido prazo superior o parcelamento aventado.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável no presente caso -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 489 do CPC/15.
+(..)
+2. Constata-se da leitura do acórdão recorrido que o Tribunal de origem - apesar de opostos os embargos declaratórios pela parte agravante - não decidiu acerca do art. 98 do CPC/15, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Com efeito, o Tribunal de origem considerou preclusa a questão relativa ao benefício da gratuidade de justiça, considerando que a parte quedou-se inerte após a decisão que indeferiu o pedido. Logo, não houve debate sobre o conteúdo normativo do referido artigo.
+Confira-se, a seguir, o que constou do acórdão recorrido (fl. 378, e-STJ):
+No caso dos autos, busca a Agravante a concessão dos benefícios da justiça gratuita. No entanto, a matéria aqui tratada, encontra-se preclusa.
+É que, da decisão que indeferiu a gratuidade à pessoa jurídica agravante, a ora recorrente quedou-se inerte, e dela não tirara recurso no prazo legal.
+Em arremate, não há o que se cogitar acerca do pedido de parcelamento, uma vez que a pessoa jurídica agravante descumpriu a anterior decisão que determinou a exibição de documentos, de sorte a restar provado nos autos a impossibilidade aventada; sendo oportuno registrar que o recurso de apelação é datado de maio de 2023, ou seja, já decorrido prazo superior o parcelamento aventado.
+Cabe ressaltar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, não sendo suficiente para a sua configuração a mera indicação pela parte do dispositivo legal que entende afrontado, constitui exigência inafastável contida na própria previsão constitucional ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não examinada pela instância ordinária a matéria objeto do especial, ausente o prequestionamento. Incide, portanto, o enunciado 211 de Súmula do Superior Tribunal de Justiça.
+Cumpre esclarecer que esta Corte Superior já firmou entendimento no sentido de que não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta aos arts. 489 e 1.022 do Código de Processo Civil de 2015, "uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (AgRg no AREsp 524.768/SP, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. ARTS. 586 E 618, I, DO CPC/2015. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONCLUSÃO DO ACÓRDÃO PELA INEXISTÊNCIA DE COMPROVAÇÃO DE QUE A CÉDULA BANCÁRIA DEU-SE EM RENEGOCIAÇÃO DE CONTRATOS PRETÉRITOS. REVER O JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação aos arts. 11, 489, § 1º e IV, e 1.022, II, do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão dos recorrentes.
+2. O conteúdo normativo referente aos arts. 586 e 618, I, do CPC/2015, tidos por violados, não foi objeto de análise pelo acórdão impugnado e, apesar da oposição dos embargos de declaração, não serviram como fundamento à conclusão adotada pela Corte local.
+Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+3. Na linha da jurisprudência dominante desta Corte, "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do Código de Processo Civil de 2015, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter sido decidida a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (REsp 1.721.231/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 1º/3/2018, DJe 2/8/2018).
+(..)
+6. Agravo interno improvido.
+(AgInt no AREsp 1457923/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/08/2019, DJe 22/08/2019)
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
