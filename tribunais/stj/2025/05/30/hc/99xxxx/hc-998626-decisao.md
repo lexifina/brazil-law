@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DOUGLAS VAILANTE MARIANO e JÉSSICA NAYARA DOS SANTOS GAZANI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, em razão do julgamento da apelação criminal n. 7004395-12.2023.8.22.0004.
+Consta dos autos que os pacientes foram condenados pelo Juízo da 1ª Vara Criminal da Comarca de Ouro Preto do Oeste por infração aos artigos 33, caput, da Lei n. 11.343/2006 e art. 12, caput, da Lei n. 10.826/2003. Douglas foi condenado a 9 (nove) anos e 4 (quatro) meses de reclusão, 1 (um) ano e 9 (nove) meses de detenção e ao pagamento de 956 (novecentos e cinquenta e seis) dias-multa, enquanto Jéssica foi condenada a 7 (sete) anos de reclusão, 1 (um) ano e 3 (três) meses de detenção e ao pagamento de 715 (setecentos e quinze) dias-multa, ambos em regime inicial fechado (fls. 49-71).
+Ambas as partes interpuseram apelação criminal ao Tribunal de Justiça, que deu provimento aos recursos, redimensionando as penas dos pacientes. A pena de Douglas Vailante foi fixada em 8 (oito) anos, 4 (quatro) meses e 10 (dez) dias de reclusão, 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de detenção, além de 708 (setecentos e oito) dias-multa. A de Jéssica Nayara em 6 (seis) anos e 2 (dois) meses de reclusão, 1 (um) ano e 2 (dois) meses de detenção e ao pagamento de 522 (quinhentos e vinte e dois) dias-multa (fls. 17-42).
+Interposto recurso especial, foi inadmitido na origem. Os pacientes também interpuseram agravo em recurso especial, atualmente aguardando distribuição neste Órgão Superior (AREsp n. 2938491 / RO).
+Na presente impetração, busca-se a concessão da ordem de modo a: (i) absolver os pacientes por ausência de provas de autoria e materialidade do crime de tráfico de drogas; (ii) reconhecer a nulidade das provas por quebra da cadeia de custódia; e (iii) subsidiariamente, desclassificar o delito para o art. 28, caput, da Lei n. 11.343/2006.
+As informações foram prestadas (fls. 147-152 e 153-187).
+O Ministério Público Federal opinou pelo não conhecimento (fls. 189-193).
+É o relatório. DECIDO.
+Compulsando as informações prestadas (fls. 153-187), verifico que a presente impetração é concomitante com a interposição de recurso especial, ainda pendente de julgamento por esta Corte Superior.
+Na hipótese, a defesa alega inexistirem provas suficientes de autoria e materialidade aptas a condenar os pacientes pela prática do crime de tráfico de drogas. Requer, ainda, o reconhecimento da nulidade das provas por quebra da cadeia de custódia. Se insurge, por fim, contra o regime inicial de cumprimento de pena fixado na sentença condenatória (fechado), destacando haver coação ilegal passível de ser conhecida de ofício.
+Contudo, o Superior Tribunal de Justiça firmou entendimento de que não é possível o conhecimento de habeas corpus, quando impetrado de forma concomitante com o recurso próprio, sob pena de subversão do sistema recursal. A esse respeito:
+ ..
+1. Não se mostra adequada a possibilidade de análise do pedido de absolvição e redimensionamento da pena para eventual concessão da ordem de ofício, haja vista a interposição concomitante de recurso especial pela defesa do réu, ainda pendente de admissibilidade. Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 806.646/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Observo que as teses vertidas na presente impetração são as mesmas do objeto do recurso especial interposto pela defesa, as quais se confundem com o próprio mérito da causa e exigem dilação probatória para o seu enfrentamento, o que não é possível na via estreita do habeas corpus.
+Portanto, não verifico a ocorrência de flagrante constrangimento ilegal ou teratologia que demande a superação do entendimento consolidado desta Corte a fim de se conceder, de ofício, a ordem pleiteada.
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
