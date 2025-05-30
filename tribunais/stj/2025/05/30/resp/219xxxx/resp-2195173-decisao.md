@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERIVALDO LUIZ DOS SANTOS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+A questão debatida nos autos, qual seja, "definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.350), dos REsp"s 2.194.708/SC, 2.194.734/SC e 2.194.706/SC, de relatoria do Ministro GURGEL DE FARIA .
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
