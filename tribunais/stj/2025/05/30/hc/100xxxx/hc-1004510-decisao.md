@@ -1,0 +1,35 @@
+DECISÃO
+LEOMAR REIS MOREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2058027-68.2025.8.26.0000.
+A defesa pretende, em liminar e no mérito, a revogação da prisão preventiva decretada em desfavor do paciente.
+Deferida a liminar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Depreende-se dos autos que, em 23/2/2025, o paciente foi preso em flagrante pela suposta prática do crime descrito no art. 33 da Lei n. 11.343/2006. O juízo da custódia decretou a prisão preventiva com base na seguinte fundamentação:
+Analisando o pedido, entendo ser caso de indeferimento, porquanto presentes os elementos necessários à segregação cautelar, considerando que trata-se de apuração de crime de equiparado a hediondo, e apenado com reclusão superior a 04 anos, uma vez que foi preso em flagrante delito supostamente porque guardava e tinha em depósito grande quantidade de entorpecentes (70 porções de cocaína) destinada à comercialização.
+Inconformada, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem. Transcrevo a ementa:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. Conversão da prisão em flagrante em preventiva bem fundamentada, nada infirmando a segregação. Inteligência dos artigos 312 e 313, inciso I, ambos do CPP. Materialidade e indícios de autoria evidenciados. Necessidade de manutenção da ordem pública, a par de imprescindível a custódia também para assegurar a instrução criminal e eventual aplicação da lei penal, situação colidente com singelas medidas cautelares previstas no artigo 319 do Estatuto Processual. Constrangimento ilegal não verificado de plano. Ordem indeferida liminarmente, dispensados parecer da Procuradoria de Justiça e informações da autoridade impetrada (artigo 663 do CPP).
+Os requisitos da prisão preventiva (prova da existência do crime e indícios suficientes de autoria) estão presentes nos elementos de convicção realizados em solo policial, haja vista a forma como a prisão se deu. O simples fato de ser tecnicamente primário, possuir residência no distrito da culpa e ocupação lícita, não afasta a possibilidade da prisão cautelar. Dentre os fundamentos, o fato revelou expressiva gravidade e traduz a periculosidade concreta do requerente, tornando a prisão cautelar necessária por garantia da ordem pública (art. 312 do CPP). Com efeito a quantidade de droga não é desprezível a ponto de permitir prontamente afirmar que se destinava apenas ao consumo pessoal. Some-se a isso, o fato de que o autuado ostenta outro processo em andamento, pela prática do crime previsto no art. 155, §4º, I e IV (fls. 24/25), demonstrando tratar-se de criminoso habitual, cujo estado de liberdade traz risco à ordem pública. Ademais, não há fato novo que justifique mudança na decisão anteriormente tomada pelo Juízo plantonista, não havendo que se falar em concessão de liberdade provisória, uma vez que está presente ao menos um dos requisitos que autorizam a conversão da prisão em flagrante em prisão preventiva, qual seja, a garantia da ordem pública. Diante do exposto, INDEFIRO o pedido de liberdade provisória de Leomar Reis Moreira.
+Em seguida, impetrou-se habeas corpus perante o Tribunal estadual, que denegou a ordem. Transcrevo:
+EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. Caso em Exame
+Habeas Corpus impetrado pela Defensoria Pública em favor de Leomar Reis Moreira, preso em flagrante por tráfico de drogas, com prisão convertida em preventiva. A defesa alega ausência de requisitos para a custódia cautelar e solicita liberdade provisória.
+II. Questão em Discussão
+2. A questão em discussão consiste em (i) verificar a legalidade da prisão preventiva diante da alegada ausência de requisitos autorizadores e (ii) avaliar a possibilidade de substituição por medidas cautelares alternativas.
+III. Razões de Decidir
+3. A prisão preventiva foi fundamentada na necessidade de garantir a ordem pública, com base em indícios de autoria e materialidade, conforme art. 312 do CPP.
+4. O histórico criminal do paciente, incluindo envolvimento em roubo, justifica a manutenção da prisão para evitar reiteração delitiva e assegurar a aplicação da lei penal.
+IV. Dispositivo e Tese
+5. Ordem de Habeas Corpus denegada.
+Tese de julgamento:
+1. A prisão preventiva é mantida para garantir a ordem pública e evitar riscos à instrução processual.
+2. As condições pessoais favoráveis do paciente não são suficientes para substituir a prisão por medidas cautelares.
+Legislação Citada: Lei nº 11.343/06, art. 33; Código de Processo Penal, arts. 312, 313, I, 319.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu.
+Apoiado nessa premissa, constato que não se mostram suficientes as razões invocadas nas instâncias ordinárias para embasar a ordem de prisão do ora paciente.
+Infere-se dos autos que os policiais abordaram um veículo que empreendeu fuga ao avistar a viatura policial. "Após breve perseguição, os agentes lograram êxito em abordar o veículo. O corréu Leomar conduzia o automóvel, enquanto Scheila ocupava o banco do passageiro. No interior do veículo nada de ilícito foi localizado. Contudo, no pacote arremessado, encontraram os 70 (setenta)", pinos com cocaína totalizando 43,67 g.
+Observo que o paciente é primário e portador de bons antecedentes o delito a ele imputado . não envolve violência ou grave ameaça Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, especialmente em virtude da existência de processo penal em curso para apurar a suposta prática do crime de furto e da natureza da substância apreendida, considero ser e adequada, por ora, asuficiente substituição da prisão preventiva por outras medidas cautelares a ela alternativas, notadamente em razão da primariedade do paciente, da quantidade de entorpecentes apreendida (43,67g) e da ausência de gravidade concreta da conduta.
+À vista do exposto, confirmo a liminar para substituir a prisão preventiva do paciente pelas seguintes medidas cautelares, sem prejuízo de imposição de outras providências que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas:
+a) comparecimento periódico em juízo, sempre que for intimada para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades (art. 319, I, do CPP);
+b) proibição de ausentar-se da comarca sem autorização judicial (art. 319, IV, do CPP).
+Publique-se e intimem-se.
+EMENTA
