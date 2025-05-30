@@ -1,0 +1,77 @@
+DECISÃO
+ALINE STEINER WENSING e VÂNIO MARCELO NAZARIO agravam de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0001096-64.20138.24.0159.
+Os réus Aline e Vânio foram condenados pela prática do crime previsto no art. 273, §§ 1º e 1º-B, do Código Penal, sendo fixadas, respectivamente, as penas de 6 anos e 8 meses de reclusão e de 5 anos e 10 meses de reclusão, no regime semiaberto, mais multa.
+Nas razões do recurso especial, a defesa alega violação dos arts. 59 e 62, I, ambos do Código Penal.
+Requer a redução da pena-base para o mínimo legal ante a inexistência de fundamentação idônea para a valoração negativa da culpabilidade e o afastamento da agravante descrita no art. 62, I, do CP, "porque não restou evidenciado que a possível liderança exercida pela recorrente ALINE se sobrepunha sobre a autonomia criminosa de seu companheiro VÂNIO" (fl. 3.027).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Após consulta realizada pelo Min. Sebastião Reis Júnior, houve a aceitação da prevenção por ter proferido voto vencedor no REsp n. 1.573.773/SC.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal, e todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+O Tribunal de origem manteve a valoração negativa da culpabilidade pelos seguintes fundamentos (fls. 2.996-2.998, destaquei):
+Assim procedeu o Magistrado a quo ao aplicar a reprimenda dos recorrentes no decisum:
+ ..
+Acusada Afine Steiner Wensing
+Promovo, de inicio, a análise das circunstâncias judiciais previstas no artigo 59 do Código Penal. No que tango à culpabilidade, como grau de reprovação da conduta, há de se considerar que Aline era farmacêutica e reponsável pelo estabelecimento comercial denominado Farmaline, tendo o dever de resguardar a saúde pública. Valeu-se, porém de seus conhecimentos técnicos e da farmácia da qual era proprietária para agir em prejuízo à saúde dos moradores de Armazém e dos Municípios da região. Não possui antecedentes criminais, conforme certidões de fls. 2206/2207 e 2210. Nada há de concreto sobre sua conduta social. Nada foi discutido acerca da sua personalidade. Os motivos são próprios do crime. As circunstâncias e consequências, conquanto reprováveis, são inerentes à espécie. Não há comportamento da vitima a ser considerado.
+Assim, em razão da existência de uma circunstância judicial desfavorável, aumento a pena em 1/6 e fixo-a em 5 anos e ID meses de reclusão e em 583 dias-multa.
+Na segunda etapa da dosimetria, presente a agravante prevista no artigo 62, inciso I, do Código Penal, haja vista que a empreitada criminosa foi comandada pela acusada.
+Desse modo, aumento a reprimenda em 1/6 e fixo-a, nesta fase, em 6 anos e 8 meses de reclusão. Não há atenuantes a serem aplicadas. Intacta a pena de multa.
+Na terceira fase, inexistem causas gerais ou especiais de aumento ou de diminuição de pena.
+Fixo, portanto, definitivamente, a pena em 6 anos e 8 meses de reclusão e em 583 dias-multa.
+O regime inicial de cumprimento de pena é o semiaberto, nos termos do artigo 33, § 2º, "b", do Código Penal.
+Não obstante a disposição do artigo 387, § 2º, do Código de Processo Penal, o regime inicial para cumprimento de pena deve permanecer o semiaberto, haja vista que o tempo de segregação provisória cumprido até o momento não atinge o necessário para a progressão.
+Com efeito, para que ocorra a detração e a aplicação de regime menos rigoroso é preciso, in casu, o cumprimento do lapso correspondente a 2/5 da pena imposta na sentença, nos termos do artigo 2º, § 2º, da Lei n. 8.072/90.
+Sendo assim, tendo a condenação alcançado o montante de 6 anos e 8 meses, deve a progressão ocorrer apenas após o cumprimento de 2 anos e 8 meses (requisito objetivo). Entretanto, a acusada permaneceu presa de 22/03/2013 a 30/09/2014, ou seja, há, aproximadamente, 1 ano e 6 meses, razão pela qual não preenche o requisito objetivo da progressão.
+Em relação aos dias-multa, cada dia corresponderá ao valor de 1/20 (um vigésimo) do salário mínimo vigente à época dos fatos (artigo 49, § 1 0 , do CP).
+Considerando o quantum da pena aplicada, incabível é a concessão dos benefícios da multa substitutiva (artigo 60, § 2º, CP), da substituição por penas restritivas de direito (artigo 44, I, CP) e da suspensão condicional da pena (artigo 77, caput. CP).
+Acusado Vânio Marcelo Nazârio
+Promovo, de inicio, a análise das circunstâncias judiciais previstas no artigo 59 do Código Penal. No que tange à culpabilidade, como grau de reprovação da conduta, há de se considerar que Vânlo era esposo de Aline, proprietária do estabelecimento comercial denominado Farmaline, e utilizou-se desse fato para agir em prejuízo à saúde dos moradores de Armazém e dos Municípios da região. Não possui antecedentes criminais, conforme certidões de fls. 2208/2209 e 2211. Nada há de concreto sobre sua conduta social. Nada foi discutido acerca da sua personalidade. Os motivos são próprios do crime. As circunstâncias e consequéncias, conquanto reprováveis, são inerentes à espécie. Não há comportamento da vitima a ser considerado.
+Assim, em razão da existência de uma circunstância judicial desfavorável, aumento a pena em 1/6 e fixo-a em 5 anos e 10 meses de reclusão e em 583 dias-multa.
+Na segunda fase da dosimetria, não há agravantes e/ou atenuantes a serem reconhecidas e aplicadas.
+Na terceira etapa da aplicação da pena, inexistem causas especiais ou gerais de aumento de pena ou de diminuição.
+Desse modo, fixo a pena, definitivamente, em 5 anos e 10 meses de reclusão e em 583 dias-multa.
+O regime inicial de cumprimento de pena é o semiaberto, nos termos do artigo 33, § 2º, "b", do Código Penal.
+Não obstante a disposição do artigo 387, § 2º, do Código de Processo Penal, o regime inicial para cumprimento de pena deve permanecer o semiaberto, haja vista que o tempo de segregação provisória cumprido até o momento não atinge o necessário para a progressão.
+Com efeito, para que ocorra a detração e a aplicação de regime menos rigoroso é preciso, in casu, o cumprimento do lapso correspondente a 2/5 da pena imposta na sentença, nos termos do artigo 2º, § 2º, da Lei n. 8.072/90.
+Sendo assim, tendo a condenação alcançado o montante de 5 anos e 10 meses, deve a progressão ocorrer apenas após o cumprimento de 2 anos e 4 meses (requisito objetivo). Entretanto, o acusado permaneceu preso de 06/05/2013 a 3010912014, ou seja, há, aproximadamente, 1 ano e 4 meses, razão pela qual não preenche o requisito objetivo da progressão.
+Em relação aos dias-multa, cada dia corresponderá ao valor de 1/20(um vigésimo) do salário mínimo vigente à época dos fatos (artigo 49, § 1º, do CP).
+Considerando o quantum da pena aplicada, incabível é a concessão dos benefícios da multa substitutiva (artigo 60, § 2º, CP), da substituição por penas restritivas de direito (artigo 44, I, CP) e da suspensão condicional da pena (artigo 77, caput, CP)  ..  (fls. 2.213-2.215 - grifou-se).
+Diante do transcrito acima, observa-se que não deve ser acolhido o pedido dos apelantes que visa a reforma da pena-base a eles impostas, com o afastamento da valoração negativa da culpabilidade na primeira fase do cálculo dosimétrico, tendo em vista a ausência de erro ou injustiça na sua aplicação havendo fiel análise do conjunto probatório angariado aos autos.
+ ..
+Nessa senda, denota-se que o juiz valorou negativamente a referida circunstância, na fração de 1/6 (um sexto - equivalente a 10 meses), para ambos os acusados, por considerar que, como proprietários do estabelecimento comercial denominado Farmaline, valeram-se disso para agir em prejuízo à saúde dos moradores de Armazém e dos municípios da região. Além disso, registrou que a apelante Aline era farmacêutica e responsável pelo estabelecimento, tendo o dever de resguardar a saúde pública.
+Dessa forma, denota-se um maior grau de reprovabilidade, já que para efetuarem o crime previsto no art. 273, § lº e 1º-B, do Código Penal, os recorrentes utilizaram-se de suas posições no estabelecimento farmacêutico, atingindo diversas vitimas, colocando-as em perigo, ou seja, a reprovação social é exacerbada.
+No caso, em relação ao crime previsto no art. 273, §§ 1º e 1º-B, do CP, a defesa refuta a valoração negativa da culpabilidade.
+A instância de origem, no entanto, fundamentou a exasperação em circunstâncias fáticas que ultrapassam o tipo penal em abstrato e que resultam em maior reprovabilidade da conduta, porquanto, segundo constou do julgado, além do fato da ré ser farmacêutica, "os recorrentes utilizaram-se de suas posições no estabelecimento farmacêutico, atingindo diversas vitimas, colocando-as em perigo, ou seja, a reprovação social é exacerbada" (fl. 3.000), em razão do comércio ilegal de remédios com princípios ativos controlados.
+Assim, conforme bem salientou o acórdão recorrido, uma vez que foram apontados argumentos concretos e específicos dos autos para a individualização da pena, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir as reprimendas estabelecidas aos acusados.
+Além disso, não se verifica o alegado bis in idem, pois não houve emprego dos mesmos fundamentos para exasperar a pena-base e para majorar a reprimenda pela agravante prevista no art. 62, I, do CP.
+Conforme entendimento do Supremo Tribunal Federal:
+A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015 ).
+Diante de tais considerações, deve ser mantida inalterada as penas impostas aos réus.
+Nesse sentido:
+ ..
+3. Sedimentou-se, nesta Corte Superior, o entendimento segundo o qual, nos delitos previstos na Lei de Drogas, a fixação do regime prisional deve observar a regra imposta no art. 33, § 2º, do Código Penal - CP em conjunto com o art. 42 da Lei 11.343/2006, que determina a consideração, preponderantemente, da natureza e quantidade da droga.
+No caso dos autos, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstâncias judiciais desfavoráveis, asseverando ainda o Tribunal de origem que o réu era um dos principais fornecedores de medicamentos ao corréu, bem como o alto poder lesivo e a quantidade de drogas fornecidas, e também o fato de o réu ser proprietário de farmácia, o que lhe conferia dever de vigilância sobre os medicamentos. Muito embora a reprimenda total tenha sido estabelecida em patamar superior a 4 e inferior a 8 anos de reclusão, o regime inicial fechado foi fixado a partir de motivação concreta extraída dos autos, exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º do CP, c/c o art. 42 da Lei n. 11.343/06.
+Habeas corpus não conhecido.
+(HC n. 453.889/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2018, DJe de 15/10/2018.)
+ ..
+2. No caso dos autos, o fundamentos apresentados pela Corte de origem concretamente justificam a imposição de regime inicial semiaberto e também o indeferimento da substituição da pena, uma vez que a quantidade excessiva de medicamentos falsificados ("viagra") - 162 caixas, de 50mg cada uma, com 4 comprimidos, o que equivale a 648 comprimidos - encontrada com o recorrente, que é, inclusive, dono de farmácia, o que facilita a distribuição de tais produtos medicinais, releva o risco tangível à saúde pública e o maior desvalor da conduta perpetrada.
+3. Nos termos da jurisprudência deste Tribunal Superior, é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 673.006/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2017, DJe de 1/12/2017.)
+II. Agravante prevista no art. 62, I, do CP
+No tocante à segunda fase da dosimetria, o Tribunal de origem assim fundamentou a manutenção da agravante (fls. 3.000-3.001, grifei):
+Com relação à agravante prevista no art. 62, inc. I, do Código Penal, aplicada pelo Magistrado de Primeiro Grau, para agravar a pena da apelante Aline, na segunda fase dosimétrica, esta também não merece conserto, já que sobejamente comprovado que a empreitada criminosa foi liderada pela mencionada recorrente.
+ ..
+Portanto, porque as provas dos autos demonstraram, estreme de dúvida, que a recorrente Aline comandou a empreitada criminosa, mantém-se a qualificadora elencada no art. 62, inc. I, do Código Penal.
+Segundo o disposto no inciso I do art. 62 do Código Penal, a pena será agravada em relação ao agente que: "I - promove, ou organiza a cooperação no crime ou dirige a atividade dos demais agentes".
+Constatada pela instância ordinária que a acusada exerceu papel de liderança na prática delitiva, incabível o pleito de afastamento da agravante prevista no art. 62, I, do CP.
+Ressalte-se que o fato da recorrente ser companheira do réu não obsta a incidência da aludida agravante, pois não impede que ela possa ter organizado ou dirigido as atividades ilícitas.
+Ilustrativamente: "Evidenciado que o recorrente exerceu papel de liderança na atividade criminosa, organizando e dirigindo a atuação dos demais acusados nas práticas delitivas, mostra-se devida a incidência da agravante prevista no art. 62, I, do Código Penal" (REsp n. 1.302.515/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/5/2016).
+Portanto, uma vez evidenciada que a recorrente exerceu papel de relevância na atividade criminosa, deve ser mantida a referida agravante, sendo certo que, para afastar a conclusão do julgado, seria necessário o revolvimento de matéria fático-probatória, procedimento que esbarra na Súmula n. 7 do STJ.
+III. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
