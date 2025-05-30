@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JEAN CARLOS SOUZA DE OLIVEIRA, GEFERSON GUSTAVO SOUZA DE OLIVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que os pacientes foram condenado à pena de 08 (oito) anos e 10 (dez) meses de reclusão e multa, no regime fechado, pela prática dos crimes previstos nos artigos 33, caput, e 35 da Lei n. 11.343/2006.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal devido à insuficiência probatória para condenação pelo crime de associação para o tráfico, tendo em vista que não restaram comprovados os requisitos necessários relativos à estabilidade e permanência.
+Requer, em suma, a absolvição pelo crime de associação para o tráfico.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação para afastar a tese de absolvição do crime de associação para o tráfico:
+Analisando-se o conjunto probatório dos autos, conclui-se no sentido da presença de fartos elementos de convicção confirmando a existência de vínculo associativo e estável entre os recorrentes, tendo a r. sentença analisado toda a prova oral produzida com acuidade.
+Foram ouvidos os policiais que participaram da operação, que confirmaram terem apurado que a associação estabelecida pelos réus visando à prática do crime de tráfico, tinha, à evidência, caráter permanente.
+A apreensão de embalagens no imóvel agrava a situação dos acusados, contradizendo a alegação de Jean Carlos de desconhecer o local e suas atividades. Entre os itens apreendidos, destaca-se uma embalagem amarela do "site" de compras "Mercado Livre", contendo eppendorffs vazios em nome de Jean Carlos e com o endereço declarado por ele como sua residência (Rua Osvaldo Tavares, 134, Jardim Planalto, Tatuí). A embalagem continha, ainda, material semelhante à maconha, que testou positivo para "THC", consoante o laudo pericial químico toxicológico (fls. 175/191, especificamente fls. 177/180).
+Tem-se, ademais, que, no local, foi apreendido um saco plástico preto, em nome da esposa do sentenciado Jean Carlos, com seu endereço situado na Rua Osvaldo Tavares, 134, Jardim Planalto, em Tatuí (laudo de fls. 175/181).
+A esse respeito, como bem explanado pelo Magistrado sentenciante (fls. 270/271):
+Também ficou demonstrada a incursão dos réus no delito de associação para a prática do tráfico de drogas, pois as provas amealhadas são aptas e suficientes para a prolação de um édito condenatório neste sentido.
+De fato, os elementos coligidos denotam a existência de um ajuste prévio e organização dos acusados na mercancia, notadamente pela divisão de tarefas de forma estável e organizada para melhor realizar o comércio espúrio.
+Isso porque, bem se viu que os réus eram os responsáveis pela venda de drogas nos Bairros Vila Esperança e São Cristóvão e utilizavam do veículo da marca "GM", modelo "Corsa", placas "DDQ5663" de Tatuí para realizar o seu transporte, bem como do imóvel em que realizada a diligência para ter em depósito e guardar grande quantidade de drogas, bem como preparar todas elas para posterior disseminação na comunidade.
+Veja-se até mesmo que na residência foram apreendidos diversos objetos utilizados para o preparo das drogas à venda, local destinado pelos réus para tal fim único.
+E, não bastasse, como destacado pela prova oral, os réus já se utilizavam do imóvel há algum tempo para a prática espúria, local conhecido pelo nome de "casa bomba" (sic).
+À vista disso, não é possível entender tratar-se de simples coautoria ocasional, transitória, esporádica ou eventual, pois os réus mantinham sim um liame subjetivo entre ambos visando a distribuição dos tóxicos, tendo suas tarefas devidamente individualizadas, caracterizando um vínculo associativo prévio, havendo uma conjugação de esforços, unindo suas condutas para o melhor desempenho da atividade mercantil.
+ ..
+No caso em tela, os elementos probatórios existentes nos autos são no sentido de que ambos os recorrentes efetivamente agiram em coautoria, cooperando entre si para a realização de ambos os crimes, com divisão de tarefas e funções. Devem, portanto, responder na medida de sua culpabilidade (fls. 445-447).
+Verifica-se, assim, que o tribunal de origem concluiu, com base nos elementos concretos apurados nos autos, pela comprovação do delito de associação para o tráfico em razão da existência do vínculo associativo estável e permanente dos pacientes com outros indivíduos, e a modificação desse entendimento exigira o reexame da prova, inviável na via estreita do Habeas Corpus. Nesse sentido, vale citar os seguintes julgados: AgRg no AREsp n. 2.219.774/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 13.6.2024; AgRg no HC n. 891.083/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20.6.2024; AgRg nos EDcl no HC n. 862.557/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024; AgRg no HC n. 753.177/RJ, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 24.5.2024; AgRg no HC n. 877.835/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18.4.2024; AgRg no HC n. 801.329/RJ, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 28/4/2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento n o art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
