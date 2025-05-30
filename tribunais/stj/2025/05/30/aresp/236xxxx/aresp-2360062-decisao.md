@@ -1,0 +1,73 @@
+DECISÃO
+ROGÉRIO SILVA DOS SANTOS interpõe recurso especial com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Revisão Criminal n. 0704209-33.2022.8.07.0000.
+Nas razões do especial, a defesa aponta a violação dos arts. 315, § 2º, 381, V, e 619 do CPP; 1º, 61, 92, I, e 107, IV, do CP; 1º, § 5º, da Lei n. 9.455/1997 e 489, § 1º e 1.022 do CPC, ao argumento de que houve negativa de prestação jurisdicional, uma vez que a Corte local "deixou de se manifestar acerca das violações às leis e do entendimento paradigma RESP 1459396/MG" (fl. 2.548).
+Sustentou, também, que, uma vez declarada a prescrição da pretensão executória pela Juíza de primeira instância, deveria ser afastada também a perda do cargo público determinada ao réu na sentença.
+Alegou ser inadmissível a analogia in malam partem em relação às causas extintivas de punibilidades. Asseverou, por fim, que a perda do cargo público não é mero efeito automático da sentença, mas tem natureza de pena acessória, sobretudo no crime de tortura, pelo qual o recorrente foi condenado.
+Suscitou, ainda, a divergência jurisprudencial entre o acórdão recorrido e o prolatado no REsp n. 1.459. 396/MG.
+Requereu a declaração de nulidade da decisão colegiada proferida na revisão criminal e a extinção da punibilidade de todos os efeitos da condenação penal.
+A Corte local não admitiu o recurso, em virtude da Súmula n. 83 do STJ, o que ensejou esta interposição.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 2.674-2.675).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O recurso especial, todavia, não preenche integralmente os requisitos de admissibilidade necessários. Em relação aos arts. 489, § 1º, e 1.022 do CPC - os quais tratam, respectivamente, de vícios de fundamentação e dos embargos de declaração no âmbito do processo civil -, incide a Súmula n. 284 do STF, uma vez que há ato normativo específico no processo penal a respeito dos temas - arts. 315, § 2º, e 619 do CPP, dispositivos não indicados nas razões recursais como infringidos. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, AMBOS DO CPC. FUNDAMENTAÇÃO DEFICIENTE. DISPOSIÇÕES ESPECÍFICAS NO CPP REGULANDO A MATÉRIA, CIRCUNSTÂNCIA QUE AFASTA A INCIDÊNCIA DOS DISPOSITIVOS TIDOS COMO VIOLADOS NA SEARA PENAL NA FORMA DO ART. 3º DO CPP. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 261, 263, 265, § 2º, 352, IV, 357, I E II, 367 e 564, III, C, TODOS DO CPP. INADMISSIBILIDADE. RECURSO ESPECIAL INTERPOSTO EM FACE DE ACÓRDÃO EXARADO NO JULGAMENTO DE REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. PARADIGMAS EM HABEAS CORPUS E AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL NOS MOLDES REGIMENTAIS.
+Agravo regimental improvido.
+(AgRg no AREsp n. 2.379.473/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/9/2023, DJe de 22/9/2023, grifei)
+II. Contextualização
+O ora agravante foi definitivamente condenado pelo crime de tortura a 2 anos e 4 meses de reclusão, além da perda do cargo público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.
+Após o trânsito em julgado, foi reconhecida a prescrição da pretensão executória. A defesa ajuizou revisão criminal, a fim de que se estendesse a prescrição aos efeitos secundários da sentença (perda do cargo público e interdição para seu exercício). A Corte local indeferiu o pleito revisional em acórdão assim motivado (fl.):
+O requerente trouxe à colação trecho da decisão que reconheceu a prescrição, com o seguinte teor:
+" ..  Por fim, tenho que a nulidade na forma requerida, certamente violaria os princípios da segurança jurídica, da lealdade processual, da razoabilidade e da boa-fé objetiva. Posto isso, acolho em parte a promoção do Ministério Público, para (I) indeferir o pleito da defesa relativo à nulidade da publicação; e (II) declarar extinta a punibilidade dos réus, com fundamento na prescrição da execução, nos termos do art. 107, inc. IV, do Código Penal, c/c o art. 61 do Código de Processo Penal.".
+Defende que "o Juiz não destacou qual seria o alcance da prescrição que declarava, o que deve atrair, portanto, a prescrição completa, haja vista entender que o Magistrado tem referida discricionaridade para decidir a matéria acabou por decretar a prescrição total da pena". Aduz que caberia à acusação pedir esclarecimentos acerca da decisão, mas não o fez, transitando em julgado. Sustenta que a perda do cargo público no crime de tortura não é efeito secundário da condenação, mas, sim, a própria pena, pois integra o preceito secundário do delito. Portanto, deve ser alcançada pela prescrição.
+Entendo que não lhe assiste razão.
+As teses sustentadas pela Defesa já foram apreciadas por esta Corte de Justiça, oportunidade em que se firmou o entendimento no sentido de que a perda do cargo é um efeito secundário e automático da condenação pelo crime de tortura. Logo, não deve ser abrangido pela prescrição da pretensão executória. Confira-se trecho do voto do Desembargador Relator Cruz Macedo, quando do julgamento do recurso em sentido estrito interposto pelo revisionando, ao qual peço vênias para transcrever:
+" ..  Em relação à prescrição da pretensão punitiva, perde-se o direito de exercer a pretensão e apagam-se "todos os efeitos, tal como se jamais tivesse sido praticado o crime ou tivesse existido sentença condenatória" (MIRABETE, Julio Fabrini. Manual de Direito Penal. vol 1: parte geral. 24 ed. São Paulo: Atlas, 2007. p. 424). Já, na prescrição da pretensão executória, o título penal perdeu a força executória principal, ou seja, o Estado perde o direito de executar a pena/medida de segurança, mantidos, entretanto, os efeitos secundários, tanto penais, como por exemplo a reincidência, quanto os extrapenais, v.g., a perda do cargo§ 1 .
+Outro equívoco da Defesa está na alegação de que, assim como a pena corporal e a perda do cargo decorrem automaticamente da condenação, a extinção da primeira também importaria na extinção da segunda.
+ ..  De fato, a pena corporal e a perda do cargo, no caso do crime de tortura (art. 1º, § 5º, da Lei 9.455/1997), são efeitos automáticos da sentença, porém não integram o mesmo quadro classificatório principal-secundário.
+Enquanto a pena integra a categoria de efeito principal, a perda do cargo se insere dentro dos efeitos extrapenais.
+Assim, embora esteja correta a premissa de que as duas "penas" decorrem automaticamente da sentença, está incorreta a conclusão de que a extinção da pena - efeito principal - pela prescrição da pretensão executória também levaria a extinção da perda do cargo - efeito secundário.".
+Desse modo, com base em uma intepretação sistêmica amparada em uma análise lógica, mostra-se incabível a tese da Defesa de que o reconhecimento da prescrição da pretensão punitiva, se amplo, abarca a punição de perda do cargo público, porquanto os efeitos secundários provenientes da sentença condenatória permanecem inalterados. E, muito embora, a perda do cargo público conste no § 5º do artigo 1º da Lei 9455/97, como bem asseverou o Desembargador Cruz Macedo, a perda do cargo se insere dentro dos efeitos secundários extrapenais. Assim, sem delongas, tenho que os argumentos aduzidos pelo autor não autorizam o deferimento desta revisional, porquanto incapazes de infirmar o sólido entendimento deste Tribunal.
+III. Arts. 315, § 2º, 381, V, e 619 do CPP não violados
+A defesa afirma que a Corte local não haveria se manifestado expressamente acerca da violação de dispositivos legais e constitucionais, bem como sobre o precedente firmado por este Tribunal Superior no REsp n. 1.459. 396/MG.
+Todavia, o fato de o acórdão recorrido não haver se manifestado sobre todos os pontos de discussão apresentados pela parte não significa prestação jurisdicional insuficiente ou viciada pelos vetores contidos no art. 619 do CPP se o julgado contém fundamentação idônea e suficiente para subsidiar a conclusão do julgado.
+Nesse sentido:
+ ..
+2. Nos termos da jurisprudência deste Corte Superior, "não há falar em ofensa ao art. 619 do Código de Processo Penal se todas as questões necessárias ao deslinde da controvérsia foram analisadas e decididas, ainda que de forma contrária à pretensão do recorrente, não havendo nenhuma omissão ou negativa de prestação jurisdicional." (AgRg no Ag 850.473/DF, Rel. Min. ARNALDO ESTEVES LIMA, QUINTA TURMA, DJ 07/02/2008)
+ ..
+(AgRg no AREsp n. 423.892/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 10/11/2014, destaquei)
+ ..
+1. Inexiste omissão a ser sanada, no caso, uma vez que o acórdão embargado explicitou adequadamente as razões pelas quais negou provimento ao agravo regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo aresto objurgado.
+3. O julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas.
+ ..
+(EDcl no AgRg no AREsp n. 1.277.044/ES, Rel. Ministro Jorge Mussi, 5ª T., DJe 17/10/2018, grifei)
+ ..
+III - Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+ ..
+(AgInt no AREsp n. 1.658.057/SP, Rel. Ministro Francisco Falcão, 2ª T., DJe 22/10/2020, destaquei)
+Na espécie, observo que as teses suscitadas na revisão criminal foram fundamentadamente afastadas pelo TJDFT. Deveras, a parte alegou que a) a prescrição da pretensão executória pode se estender aos efeitos secundários da condenação e b) no crime de tortura, a perda do cargo não seria um efeito secundário, mas sim a própria pena e, por isso, deveria ser abrangida pela causa extintiva da punibilidade.
+Ao analisar o acórdão recorrido, ambas as matérias foram apreciadas, de modo que o órgão julgador concluiu, respectivamente, que a) a prescrição da pretensão executória não se estende aos efeitos secundários da condenação e b) a perda do cargo é um efeito secundário da condenação, inclusive no delito de tortura.
+Ressalto que não se exige da Corte local manifestação expressa sobre os dispositivos indicados como violados (pois essa é incumbência jurisdicional das Cortes Superiores), mas apenas a análise das teses jurídicas deduzidas pelas partes.
+IV. Arts. 1º, 61, 92, I, e 107, IV, do CP e 1º, § 5º, da Lei n. 9.455/1997 não violados
+Tal como afirmou o Tribunal de origem, a perda do cargo não tem natureza de pena, mas configura mera decorrência - automática, no caso dos crimes de tortura - do édito condenatório. Portanto, o acórdão impugnado está em consonância com a jurisprudência desta Corte Superior, segundo a qual o reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos secundários permanecem inalterados.
+Nesse sentido:
+RECURSO ESPECIAL. REABILITAÇÃO. INTERESSE DE AGIR. EXTINÇÃO DA PRETENSÃO EXECUTÓRIA. SUBSISTÊNCIA DE EFEITOS PENAIS SECUNDÁRIOS.
+1. A declaração de extinção da punibilidade pela prescrição da pretensão executória impede a execução da pena mas não afasta os efeitos penais secundários decorrentes da existência de condenação criminal que transitou em julgado, tais como a formação de reincidência e os maus antecedentes.
+2. Remanescendo os efeitos penais secundários da condenação transitada em julgado, resta inequívoco o interesse de agir do condenado em obter reabilitação criminal.
+3. Recurso especial provido.
+(REsp n. 1.580.644/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/6/2016)
+ ..
+4. A extinção da punibilidade pela prescrição da pretensão executória não tem o condão de cessar os efeitos penais secundários da condenação criminal, tais como a reincidência, mas apenas seu efeito penal principal, qual seja, a imposição de pena ou de medida de segurança.
+ ..
+(HC n. 456.891/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 2/10/2018)
+É esta, inclusive, a conclusão do acórdão apontado como paradigma da divergência (REsp n. 1.459.396/MG), o qual tratou da perda do cargo público em um caso de condenação pelos crimes previstos nos arts. 317 e 333 do CP. No voto condutor do acórdão, é expresso que o efeito secundário da condenação referente à perda do cargo público deve ser fundamentado na sentença, exceto nos casos de tortura, em que essa consequência é automática. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO ATIVA E PASSIVA. DOSIMETRIA. ACÓRDÃO DO TRIBUNAL A QUO QUE FAZ REMISSÃO AOS FUNDAMENTOS DA SENTENÇA CONDENATÓRIA QUANTO AO DIMENSIONAMENTO DA PENA-BASE. MATÉRIA PREQUESTIONADA. PERDA DO CARGO PÚBLICO. EFEITO SECUNDÁRIO DA CONDENAÇÃO. NECESSIDADE DE FUNDAMENTAÇÃO EXPRESSA E ESPECÍFICA.
+I - Na hipótese, havendo remissão expressa, no v. acórdão recorrido, aos fundamentos constantes da r. sentença condenatória quanto à dosimetria da pena-base, reputa-se prequestionada a matéria, autorizando o seu debate na via especial.
+II - Conforme entendimento pacificado nesta Corte Superior, a perda de cargo, função pública ou mandato eletivo, prevista no art. 92, I, do Código Penal, não é efeito automático da condenação, de forma que a sua incidência demanda fundamentação expressa e específica, à exceção do crime de tortura, o que não é o caso dos autos.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.459.396/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 11/10/2016, DJe de 21/10/2016, destaquei)
+V. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
