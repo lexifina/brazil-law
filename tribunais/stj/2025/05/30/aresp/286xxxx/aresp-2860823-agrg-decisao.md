@@ -1,0 +1,30 @@
+DECISÃO
+MARCOS ROBERTO BAPTISTELLO agrava da decisão de fls. 515-516, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.
+Neste regimental, a defesa sustenta que os motivos de inadmissão do recurso especial foram devidamente infirmados na petição de fls. 477-497 e postula o conhecimento do pleito.
+O Ministério Público Federal opinou pelo não provimento do regimental (fls. 565-569).
+Decido.
+Na hipótese, observo assistir razão à defesa quanto à efetiva impugnação das razões da negativa de seguimento do recurso especial, motivo pelo qual reconsidero a decisão de fls. 515-516.
+Nas razões do recurso especial, a defesa apontou a violação do art. 299, caput, do Código Penal, ao argumento de ausência de comprovação do dolo específico para sustentar a condenação do recorrente. Requereu o provimento do recurso, com a absolvição do acusado.
+No caso, o insurgente foi condenado à pena de 1 ano de reclusão mais 10 dias-multa, em regime aberto, pela prática do delito previsto no art. 299, caput, do Código Penal.
+O Tribunal de origem, ao manter a condenação, assinalou o seguinte (fls. 427-429, grifei):
+A materialidade está comprovada por meio do auto dos documentos de fls. 125/151, além dos testemunhos colhidos ao longo da fase de instrução processual.
+A autoria é certa.
+Na fase policial, o acusado disse que "(..) é despachante há cerca de 30 anos e em virtude de sua profissão conhece muita gente. Há alguns anos, teve sua CNH suspensa por extrapolar os pontos permitidos. Em decorrência de alguns clientes e amigos estarem em situação de acúmulo de pontos o que poderia gerar, inclusive a perda da CNH, não viu qualquer maldade em admitir que os pontos fossem transpassados para sua CNH, não cobrando qualquer valor para tal fim. Acreditava estar ajudando porque muitos, inclusive caminhoneiros, dependiam da CNH para sustento da família, chegando as raias do desespero. É fato também, que para o motorista de caminhão conseguir empregos junto a Usinas da região, não pode ostentar qualquer pontuação em sua CNH, sob pena de frustração da contratação. Acredita não ter cometido qualquer delito, uma vez, repita- se, não cobrou qualquer valor em razão das atitudes aqui informadas (..)" (fls. 142).
+ ..
+Pois bem.
+Diante do extenso conjunto probatório apresentado, ficou claro que o apelante, no exercício de sua função como despachante, inseriu informações falsas nos documentos públicos constantes dos autos, registrando em sua CNH infrações de trânsito cometidas pelos motoristas mencionados na denúncia, o que caracteriza a alteração de fato juridicamente relevante.
+A alegação de que não percebeu maldade em sua conduta não é suficiente para afastar sua responsabilidade criminal, pois, conforme estabelece o artigo 21, do Código Penal, o desconhecimento da lei não exime o agente de culpa. Ademais, é improvável que alguém com mais de trinta anos de atuação como despachante desconhecesse a responsabilidade individual do condutor pelas multas de trânsito e o objetivo das penalidades impostas.
+O pagamento das multas, por sua vez, não tem relevância, já que o réu enganou as autoridades de trânsito e comprometeu a fé pública. Com isso, os motoristas infratores deixaram de receber as pontuações em suas CNHs, permanecendo impunes.
+Fica evidente, portanto, que o recorrente agiu com dolo e não pode alegar ignorância quanto à ilegalidade de suas ações. Ainda que tenha afirmado não cobrar por esse serviço, vale lembrar que o tipo penal imputado não exige a obtenção de vantagem financeira. Basta a inserção de declaração falsa ou divergente da verdadeira, com o propósito de alterar a realidade de um fato juridicamente relevante, para que o delito se configure.
+Conforme se observa, a Corte estadual asseverou a existência de provas suficientes para justificar a condenação do réu pela conduta do art. 299 do Código Penal, em especial o dolo específico.
+Assim, mostra-se inviável a absolvição do insurgente, sobretudo considerando que, no processo penal, é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Para se entender pela absolvição do acusado seria imprescindível o reexame do acervo fático-probatório, procedimento vedado em recurso especial, consoante a Súmula n. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ARTS. 299 E 304 DO CÓDIGO PENAL. ALEGAÇÕES DE QUE NÃO FOI DEMONSTRADO O DOLO ESPECÍFICO DO DELITO DE FALSIDADE IDEOLÓGICA E DE QUE NÃO HOUVE PREJUÍZO PARA A MUNICIPALIDADE APTO A JUSTIFICAR A NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO CRIME. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. INSUBSISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu que estão configurados todos os elementos necessários à tipificação dos delitos de falsidade ideológica, inclusive o dolo específico; bem como existir fundamento apto para a elevação da pena-base, na medida em que esses crimes causaram prejuízo à Prefeitura. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que "não se aplica a continuidade delitiva quando os crimes, em número expressivo, forem praticados em intervalo de tempo superior a 30 dias, circunstância objetiva que sinaliza a reiteração delitiva, e não a prática de delitos em continuação, a partir de um mesmo propósito originário." (AgRg no HC n. 784.960/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.085/RN, Rel. Ministra Laurita Vaz, 6ª T., DJe de 30/6/2023, destaquei)
+À vista do exposto, reconsidero a decisão de fls. 515-516 e, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
