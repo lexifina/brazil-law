@@ -1,0 +1,27 @@
+DECISÃO
+PAULO HENRIQUE FRANCA DA COSTA agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0732601-48.2020.8.07.0001.
+Nas razões do especial, a defesa apontou a violação do art. 71 do Código Penal. Ao final, pleiteou o reconhecimento da continuidade delitiva em relação aos crimes do art. 155, § 4º, II e IV, do Código Penal.
+O Tribunal de origem não admitiu o recurso em virtude da Súmula n. 7 do STJ, o que ensejou esta interposição.
+O agravante afirma que "a tese sustentada no presente recurso, devidamente prequestionada, encerra discussão de cunho estritamente jurídico, dispensando o reexame de fatos e provas constantes dos autos, sendo necessária tão somente a revaloração jurídica" (fl. 11.627).
+O Ministério Público Federal opinou pelo não provimento do reclamo (fls. 11.861-11.874).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelos seguintes fundamentos (fls. 11.562-11.563):
+O recorrente alega violação ao artigo 71 do Código Penal, requerendo, em síntese, seja reconhecida a continuidade delitiva em relação aos crimes do artigo 155, §4º, incisos II e IV, do CP.
+ ..
+O recurso especial não merece ser admitido no que tange à suposta contrariedade ao artigo 71 do CP.
+Com efeito, para que o Superior Tribunal de Justiça pudesse apreciar a tese recursal, nos moldes propostos pela parte recorrente, necessário seria o reexame de questões fático-probatórias do caso concreto, o que desbordaria dos limites do recurso especial, a teor do enunciado 7 da Súmula do STJ.
+A defesa, contudo, não rebateu o fundamento da inadmissão do especial, pois se limitou a demonstrar que o recurso preenchia os requisitos de adequação, tempestividade e prequestionamento - os quais nem sequer foram motivos indicados para a não admissão do REsp.
+Para impugnar satisfatoriamente o óbice da Súmula n. 7 do STJ - aplicado ao caso -, o agravante deveria demonstrar que, no recurso especial, evidenciou a tese jurídica que pretendia ver examinada, a partir das premissas fático-probatórias do acórdão recorrido. Saliento que são insuficientes assertivas genéricas de que a apreciação do recurso não demanda reexame de provas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+2. "É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas. (AgRg no AREsp n. 2.632.127/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
