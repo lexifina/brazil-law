@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  ALDINEI MUNIZ CARNEIRO,  contra  decisão  que  não  admitiu  recurso  especial  fundamentado  na  alínea "a"  do  permissivo  constitucional,  no  qual  desafia  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO,  assim  ementado  (  fls.  646/647):
+APELAÇÃO CRIMINAL - SENTENÇA CONDENATÓRIA PELO CRIME DO ARTIGO 33 DA LEI N.º 11.343/2006 - IRRESIGNAÇÃO SIMULTÂNEA DA ACUSAÇÃO E DA DEFESA - 1) RECURSO DO MINISTÉRIO PÚBLICO - 1.1) PRETENDIDA A INCIDÊNCIA DA CAUSA DE AUMENTO DE PENA DO TRÁFICO INTERESTADUAL (ART. 40, V, DA LEI ANTIDROGAS) - IMPROCEDÊNCIA - ANEMIA PROBATÓRIA QUANTO À INTENÇÃO DO AGENTE EM TRANSPOR FRONTEIRAS ESTADUAIS - 2) PRETENSÃO DO SENTENCIADO - 2.1. PEDIDO DE READEQUAÇÃO DA PENA-BASE - INVIABILIDADE - SANÇÃO BASILAR FIXADA ACIMA DO MÍNIMO LEGAL EM RAZÃO DA QUANTIDADE E NATUREZA DA DROGA - APREENSÃO DE MAIS DE 49 (QUARENTA E NOVE) QUILOGRAMAS DE COCAÍNA - SENTENÇA EM CONSONÂNCIA COM PRECEDENTES DO STJ - 2.2. PREQUESTIONAMENTO - APELOS DESPROVIDOS.
+1.1.- Inviável, no caso concreto, o reconhecimento da causa de aumento referente à interestadualidade (art. 40, inciso V, da Lei nº. 11.343/06), pois, embora existam indícios da intenção do acusado em transportar a droga para outro Estado da Federação, essa afirmação encontra-se fragilizada diante de toda a prova produzida durante a instrução processual;
+2.1. - À luz do disposto no art. 42 da Lei n.º 11.343/2006 e a teor da jurisprudência do Superior Tribunal de Justiça sobre o tema, mostra-se legítimo o recrudescimento da pena-base acima do mínimo legal em razão da natureza e da vultuosa quantidade de substância estupefaciente envolvida no delito, uma vez que foram apreendidos em poder do apelante 49,216kg de cocaína, peculiaridades que agregam expressiva reprovabilidade à conduta in concreto;
+2.2. - A título de prequestionamento, restam integrados na fundamentação do voto os dispositivos constitucionais e infraconstitucionais relacionados com a matéria debatida nas razões recursais da Defesa;
+Recursos desprovidos.
+O  agravante  foi condenado pela prática do crime previsto no artigo 33 da Lei n. 11.343/2006, à pena de 09 (nove) anos de reclusão, no regime inicial fechado, e ao pagamento de 900 (novecentos) dias-multa.
+O Tribunal de origem negou provimento ao apelo defensivo.
+Nas  razões  do  recurso  especial  , a parte agravante alega violação dos artigos 59 do Código Penal e 42 da Lei n. 11.343/2006.
+O  agravante  pretende, em síntese, a correção no quantum de pena fixado na primeira fase dosimétrica, ao argumento de que a exasperação da pena-base, em fração acima de 2/3 da pena mínima cominada ao delito, tendo por motivo apenas a quantidade e natureza da droga apreendida, ofenderia os princípios da razoabilidade e proporcionalidade.
+Contrarrazões  apresentadas  às  fls.  685/694.
+O  Tribunal  a  quo  inadmitiu  o  apelo  especial  por  incidência  da  Súmula  n.  83  /STJ,  fundamento  contra  o  qual  se  insurge  a  parte  agravante  (  fls.  697/701).
+Parecer  do  Ministério  Público  Federal  pelo  conhecimento do agravo, para não conhecer do recurso especial  (  fls. 742/474).
+É  o  relatório.
+DECIDO.
+Preenchidos  os  requisitos  formais  e  impugnados  o  s  fundamento  s  da  decisão  agravada,  conheço  do  agravo  e  passo  ao  exame  do  recurso  especial.
+O Tribunal de origem assim se manifestou quanto ao pedido de reanálise da pena-base (fl. 627, grifamos):
+Aliás, convém destacar que só seria cabível a retificação do quantum de aumento por parte desta instância revisora acaso verificasse ofensa aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese, uma vez que, como alhures mencionado, a pena-base foi estabelecida em 09 (nove) anos de reclusão, isto é, 04 (quatro) anos acima do patamar mínimo legal, em virtude da depreciação da natureza e a quantidade da droga, visto que foram apreendidos com o ora recorrente 48 (quarenta e oito) tabletes de COCAÍNA, com massa total de 49,246kg (quarenta e nove quilogramas e duzentos e quarenta e seis gramas) -  Laudos periciais, ID 168473927, págs. 27-29 e ID168475153, págs. 1-5 .
+Nesse sentido, é evidente que a futura comercialização de mais de quarenta e nove quilos de cocaína revela potencial de lucro às custas de um dano social desmedido e, conquanto isso tenha sido ponderado pelo legislador ao estabelecer o preceito secundário da norma penal incriminadora, constitui elemento concreto para a negativação da conduta quando se tem em perspectiva que uma pessoa consome, em média, menos de um grama de narcótico em específico para o fim de se entorpecer.
+Ademais, a alta potencialidade lesiva da cocaína, sem dúvidas, autoriza o recrudescimento da pena-base acima do mínimo legal.
+Quanto ao aumento em razão da quantidade da droga apreendida (49,246kg de cocaína), observo que a exasperação se deu de forma adequada, tendo sido observado o que determina o art. 42 da Lei n. 11.343/2006.
+Nesse sentido, destaco:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE AUMENTO DESPROPORCIONAL DA BASILAR. NATUREZA E QUANTIDADE DE DROGA APREENDIDA. AUMENTO JUSTIFICADO. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. ELEMENTOS CONCRETOS APTOS A AFASTAR O PRIVILÉGIO. AUSÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Alegação de aumento desproporcional da basilar. Natureza e quantidade de droga apreendida. Na hipótese, a pena-base do paciente foi exasperada, lastreando-se na expressiva quantidade da droga apreendida (50 kg de cocaína). Nesse compasso, ao contrário do que sustenta a defesa, mostra-se idônea a fundamentação, uma vez que o Juiz deve considerar, com preponderância sobre o previsto no art. 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, consoante o disposto no art. 42 da Lei n. 11.343/2006.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 884.034/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024, grifamos)
+Quantidade de droga apreendida: 50,200 kg de cocaína.
+PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PENA-BASE. QUANTIDADE, DIVERSIDADE E NATUREZA DAS DROGAS. FUNDAMENTO VÁLIDO. AUMENTO PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Não há ilegalidade no aumento da pena-base em cinco anos, diante da análise desfavorável da quantidade, da natureza e da diversidade dos entorpecentes, consoante autoriza o art. 42 da Lei de Drogas.
+3. Agravo não provido.
+(AgRg no HC n. 876.584/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024, grifamos)
+Quantidade de droga apreendida: 50, 92 Kg de maconha; 148,62 g de cocaína e 141,36 g de crack.
+Insta  asseverar que  n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+Incide, portanto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
