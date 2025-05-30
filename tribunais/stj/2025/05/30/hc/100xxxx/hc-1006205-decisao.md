@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABIANO MARINS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em Execução n. 5001898-39.2025.8.19.0500 - relator o Desembargador Claudio Tavares de Oliveira Junior).
+Depreende-se dos autos que o Juízo de primeiro grau deferiu o pedido de comutação formulado pelo paciente com base no Decreto n. 11.846/2023 (e-STJ fl. 16).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao recurso para cassar a decisão recorrida, nos termos do acórdão assim ementado (e-STJ fls. 9/11):
+DIREITO PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL Nº 11.846/2023. PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em Execução interposto contra a decisão que deferiu o pedido de concessão de comutação, com fulcro no Decreto nº 11.846/2023, ao apenado Fabiano Marins, que cumpre pena pela prática de crime de roubo qualificado pelo emprego de arma de fogo, ocorrido anteriormente à Lei nº 13.964/2019.
+II. QUESTÕES EM DISCUSSÃO
+2. (i) Preenchimento dos requisitos legais para a concessão de comutação de penas e (ii) possibilidade de enquadramento do crime de roubo qualificado pelo emprego de arma de fogo fora do rol de crimes hediondos, quando praticados antes da vigência Lei nº 13.964/2019.
+III. RAZÕES DE DECIDIR
+3. No caso ora analisado, verifica-se que o apenado cumpre pena de 7 (sete) anos, 11 (onze) meses e 10 (dez) dias de reclusão, pela prática do crime de roubo majorado pelo emprego de arma de fogo.
+4. Outrossim, em decorrência das alterações pro- movidas pela Lei nº 13.964/2019, os delitos de roubo circunstanciado pelo emprego de arma de fogo e com resultado morte foram inseridos no rol de crimes hediondos, conforme estabelece o artigo 1º, II, b e c, da Lei 8.072/90.
+5. Não se olvida que, na hipótese vertente, o reeducando cometeu o delito patrimonial em data anterior à vigência da Lei nº 13.964/2019, quando este ain- da era tratado como crime comum pelo legislador pátrio. Contudo, a posterior inclusão de tal infração penal no rol de hediondos impede a concessão de indulto ou comutação de pena, no caso concreto.
+6. Isso porque o Decreto Presidencial nº 11.846/2023 vedou, expressamente, a concessão dos citados benefícios às pessoas condenadas por "crime hediondo ou equiparado, nos termos do disposto na Lei nº 8.072, de 25 de julho de 1990" (art. 1º, I, do Decreto), sendo certo que a condição do apenado deve ser examinada no momento da vigência do Decreto que concede a benesse, independente de quando o fato ocorreu.
+7. Ressalte-se que tal entendimento não configura relativização do Princípio da Irretroatividade da Lei Penal mais gravosa, ou a imposição de lei mais pre- judicial ao apenado. Trata-se, na verdade, de se en- tender que o Decreto de indulto, que veda o benefício para pessoas que cometeram crimes hediondos, não deve retroagir à data do cometimento do delito. Ou seja, para a análise da possibilidade de concessão do benefício, que somente surge com a edição do respectivo ato pelo Presidente da República, faz-se necessário analisar a natureza do delito no momento da publicação do invocado Decreto. Prece- dente.
+8. Desse modo, considerando que o Agravado cumpre pena definitiva pela prática de crime de roubo qualificado pelo emprego de arma de fogo, que consta atualmente no rol de crimes hediondos (Lei nº 8.072/1990), o benefício da comutação deve ser afastado no caso concreto, ante a expressa vedação prevista no Decreto Presidencial nº 11.846/2023.
+IV. DISPOSITIVO E TESE
+9. Provimento do Agravo. Tese de julgamento: Impossibilidade de comutação de pena nos casos em que o delito está inserido no rol de crimes hediondos, ainda que sua inserção tenha sido posterior à práti- ca da infração penal.
+Na presente impetração, a defesa alega que "o TJRJ entendeu que hediondez do delito deve ser analisada na data do decreto de indulto/comutação e não na data do fato delituoso, o que viola duas vertentes primordiais em matéria penal: a legalidade e a irretroatividade da lei penal mais gravosa" (e-STJ fl. 5).
+Ao final, requer, liminarmente e no mérito, o restabelecimento da decisão que concedeu a comutação.
+É o relatório.
+Decido.
+Sobre o pedido de comutação com base no Decreto n. 11.846/2023, a Corte estadual assim se manifestou, ao dar provimento ao agravo ministerial para afastar o benefício deferido na primeira instância (e-STJ fls. 13/15):
+É cediço que o indulto e a comutação são atos de clemência, de competência privativa do Presidente da República, no exercício da função legislativa, disciplinado no artigo 84, XII, da Constituição da República. Nesse sentido, de acordo com o entendimento da Corte Suprema, em Ação Direta de Inconstitucionalidade 5874/DF, o Presidente da República tem legitimidade para fixar os requisitos objetivos e subjetivos para a concessão destes benefícios.
+Portanto, tratando-se de prerrogativa do Chefe do Executivo para elaboração de política criminal e em atenção ao princípio da separação dos poderes, não compete ao Legislativo ou ao Judiciário restringir ou ampliar os termos do decreto presidencial (STF. Plenário ADI 5874/DF, rel. orig. Min. Roberto Barroso, red. p/ o ac. Min. Alexandre de Moraes, julgado em 9/5/2019 - Info 939). In casu, verifica-se que o apenado cumpre pena de 7 (sete) anos, 11 (onze) meses e 10 (dez) dias de reclusão, pela prática de crimes de roubo majorado pelo emprego de arma de fogo (e- doc. 2, fls. 18).
+Outrossim, em decorrência das alterações promovidas pela Lei nº 13.964/2019, os delitos de roubo circunstanciado pelo emprego de arma de fogo e com resultado morte foram inseridos no rol de crimes hediondos, conforme estabelece o artigo 1º, II, b e c, da Lei 8.072/90.
+Não se olvida que, na hipótese vertente, o reeducando cometeu o delito patrimonial em data anterior à vigência da Lei nº 13.964/2019, quando este ainda era tratado como crime comum pelo legislador pátrio.
+Contudo, a posterior inclusão de tal infração penal no rol de hediondos impede a concessão de indulto ou comutação de pena, no caso concreto.
+Isso porque o Decreto nº 11.846/2023 vedou, expressamente, a concessão dos citados benefícios às pessoas conde- nadas por "crime hediondo ou equiparado, nos termos do disposto na Lei nº 8.072, de 25 de julho de 1990" (art. 1º, I, do Decreto), sendo certo que a condição do apenado deve ser examinada no momento da vigência do Decreto que concede a benesse, independente de quando o fato ocorreu.
+Ressalte-se que tal entendimento não configura relativização do Princípio da Irretroatividade da Lei Penal mais gravosa, ou a imposição de lei mais prejudicial ao apenado. Trata-se, na verdade, de se entender que o Decreto de indulto, que veda o benefício para pessoas que cometeram crimes hediondos, não deve retroagir à data do cometimento do delito.
+Ou seja, para a análise da possibilidade de concessão do benefício, que somente surge com a edição respectivo ato pelo Presidente da República, faz-se necessário analisar a natureza do de- lito no momento da publicação do invocado Decreto.
+ ..
+Desse modo, verifica-se que o Agravado não faz jus à concessão da comutação, pois cumpre pena definitiva pela prática de crime de roubo qualificado pelo emprego de arma de fogo, que consta atualmente no rol de crimes hediondos, previsto na Lei nº 8.072/1990, sendo certo que o Decreto nº 11.846/2023 veda expres- samente a concessão de comutação e indulto em tal caso (artigo 1º, I).
+Assim, a decisão atacada deve ser cassada, em ra- zão do não preenchimento dos requisitos legais.
+A conclusão alcançada pelo Tribunal de origem não destoa da orientação jurisprudencial desta Corte Superior segundo a qual a natureza hedionda do delito, para fins de indulto e comutação, deve ser aferida com base na data de edição do respectivo d ecreto, e não no momento da prática delituosa.
+Sobre a matéria, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. REQUISITO OBJETIVO NÃO PREENCHIDO. CONDENAÇÃO POR CRIME HEDIONDO. AFERIÇÃO DA HEDIONDEZ QUE SE DÁ NA DATA DA EDIÇÃO DO DECRETO. AUSÊNCIA DE CUMPRIMENTO DE 2/3 DA PENA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A concessão de indulto ou comutação da pena é ato discricionário do Presidente da República, condicionado ao preenchimento dos requisitos fixados no respectivo Decreto Presidencial.
+2. O agravante não demonstrou o cumprimento do requisito objetivo do artigo 9º, parágrafo único, do Decreto n. 11.846/2023, pois não atingiu dois terços da pena ref erente ao crime impeditivo.
+3. A jurisprudência desta Corte consolidou o entendimento de que a aferição da hediondez para fins de indulto ou comutação deve observar a data de edição do decreto presidencial, e não a data da prática do crime.
+4. Agravo regimental não provido.
+(AgRg no HC n. 958.636/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025, grifei.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PEDIDO DE COMUTAÇÃO DE PENAS COM BASE NO DECRETO PRESIDENCIAL 7.046/09. IMPOSSIBILIDADE. PACIENTE CONDENADO POR CRIMES HEDIONDOS COMETIDOS ANTES DA LEI 8.072/90. IRRELEVÂNCIA. PRECEDENTES DO STJ. PARECER DO MPF PELO DESPROVIMENTO DO RECURSO. RECURSO ORDINÁRIO DESPROVIDO.
+1. Na esteira de firme jurisprudência desta Corte Superior, são insuscetíveis de indulto e comutação de penas os crimes hediondos e demais equiparados, ainda que cometidos antes da vigência da Lei 8.072/90, que impede sua concessão, tendo em vista que a natureza do crime deve ser aferida ao tempo da entrada em vigor da norma instituidora do benefício.
+2. Ademais, o art. 8o., I do Decreto 7.046/09 contém vedação expressa à concessão dos referidos benefícios, sendo tal restrição fruto de atribuição discricionária e exclusiva conferida ao Presidente da República, nos termos do art. 84, XII da CF/88, no uso de função política que parte da doutrina considera prerrogativa remanescente da época da concentração unipessoal do poder estatal.
+3. Parecer do MPF pelo desprovimento do recurso.
+4. Recurso Ordinário desprovido.
+(RHC n. 29.660/PR, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 12/4/2011, DJe de 20/5/2011, grifei.)
+No mesmo sentido, a jurisprudência do Supremo Tribunal Federal:
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. NÃO ESGOTAMENTO DA JURISDIÇÃO. HOMICÍDIO QUALIFICADO. CRIME COMETIDO ANTES DA VIGÊNCIA DAS LEIS 8.072/1990 e 8.930/1994. INDULTO. COMUTAÇÃO DE PENA. DECRETO N.º 2.838/1998.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática de Ministro Relator do Superior Tribunal de Justiça, em que dado provimento ao recurso especial do Parquet interposto naquela Corte, cuja jurisdição não se esgotou.
+2. Tratando-se o indulto de ato discricionário do Presidente da República, restrito, portanto, às condições estabelecidas em decreto presidencial, a vedação de sua concessão aos apenados por crimes hediondos, ainda que cometidos antes da vigência das Leis 8.072/1990 e 8.930/1994, não configura violação do princípio da irretroatividade da lei penal mais gravosa. Precedentes.
+3. A aferição da natureza do crime, para concessão do indulto, há de se fazer na data da edição do decreto presidencial respectivo, não na do cometimento do delito. Precedentes.
+4. Habeas corpus extinto sem resolução de mérito.
+(HC 117938, Relator(a): ROSA WEBER, Primeira Turma, julgado em 10-12-2013, processo eletrônico DJe-030 divulgado em 12/2/2014, publicado em 13/2/2014, grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
