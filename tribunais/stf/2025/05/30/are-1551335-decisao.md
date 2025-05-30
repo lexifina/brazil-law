@@ -1,0 +1,51 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    SENTENÇA CONDENATÓRIA PELOS DELITOS DE ASSOCIAÇÃO PARA O TRÁFICO (LEI 11.343/2006, ART. 35, C.C. OS ARTS. 13, CAPUT E § 2º, ALÍNEA 'A', DO CP) E CORRUPÇÃO PASSIVA (ART. 317, § 1º), EM CONCURSO MATERIAL, DECRETANDO-SE A ABSOLVIÇÃO NO TOCANTE À ACUSAÇÃO DA PRÁTICA DO DELITO DE PROMOÇÃO E CONSTITUIÇÃO DE ORGANIZAÇÃO CRIMINOSA (LEI 12.8502013, ART. 2º, §§ 2º E §4º, II E IV).
+
+    APELOS DEFENSIVOS ARGUIÇÃO DE PRELIMINARES DE INCONSTITUCIONALIDADE E ILEGALIDADE DO PROCEDIMENTO INVESTIGATIVO, APONTADAS A NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS E A INÉPCIA DA DENÚNCIA ALEGAÇÕES DE FRAGILIDADE PROBATÓRIA PARA BUSCAR A ABSOLVIÇÃO, POSTULANDO-SE DE RESTO SEJA ALTERADO O FUNDAMENTO LEGAL DOS DECRETOS ABSOLUTÓRIOS PROFERIDOS PEDIDO DE FIXAÇÃO DE REGIME INICIAL MAIS BRANDO, DEFERINDO-SE A BENESSE DA SUBSTITUIÇÃO DA PENA CORPORAL E A FIXAÇÃO DE REGIME INICIAL MAIS BRANDO.
+
+    RECURSO DO MINISTÉRIO PÚBLICO VISANDO A REFORMA PARCIAL DO JULGADO PARA RECONHECER A PRÁTICA DO DELITO DE PROMOÇÃO E CONSTITUIÇÃO DE ORGANIZAÇÃO CRIMINOSA, CONDENANDO-SE OS RÉUS NOS TERMOS DA DENÚNCIA PLEITO SUBSIDIÁRIO DE MAJORAÇÃO DAS PENAS COM A INCIDÊNCIA DAS CAUSAS DE AUMENTO DO ENVOLVIMENTO DE MENORES E EMPREGO DE ARMA, IMPONDO-SE AINDA A FIXAÇÃO DE REGIME INICIAL FECHADO.
+
+    NULIDADES INOCORRIDAS LEGALIDADE E CONSTITUCIONALIDADE DOS PROCEDIMENTOS INVESTIGATÓRIOS DO MINISTÉRIO PÚBLICO DESDE QUE SUJEITOS A CONTROLE JURISDICIONAL, OBSERVADAS AS GARANTIAS PROCESSUAIS E O REGRAMENTO APLICÁVEL PRECEDENTES DA JURISPRUDÊNCIA AUSÊNCIA DE IRREGULARIDADES NO PROCEDIMENTO DE INTERCEPTAÇÕES TELEFÔNICAS, ANOTANDO-SE A TEORIA DA SERENDIPIDADE E HÁ MUITO AUTORIZADO O COMPARTILHAMENTO DA PROVA, JÁ DEFERIDO O INTEGRAL ACESSO À DEFESA PRECEDENTES DENÚNCIA QUE EXPÔS NARRATIVA CONCATENADA DOS FATOS E SUAS CIRCUNSTÂNCIAS, SATISFEITOS OS REQUISITOS LEGAIS (CPP, ART. 41) E NÃO SE CARACTERIZANDO INÉPCIA PRELIMINARES REJEITADAS.
+
+    DESCABIMENTO DAS IRESIGNAÇÕES MATERIALIDADE E AUTORIA DOS DELITOS DE CORRUPÇÃO PASSIVA E ASSOCIAÇÃO PARA O TRÁFICO SUFICIENTEMENTE DEMONSTRADAS INDÍCIOS APURADOS NA FASE INVESTIGATIVA QUE RESTARAM CORROBORADOS EM JUÍZO, ANOTANDOSE A CREDIBILIDADE DAS PALAVRAS DE TESTEMUNHAS AGENTES DA LEI POLICIAIS QUE TINHAM O DEVER DE REPRIMIR ILICITUDES MAS INCORRERAM EM OMISSÃO PENALMENTE RELEVANTE, COMETENDO AINDA A CORRUPÇÃO POLICIAL DELITO DE PROMOÇÃO E CONSTITUIÇÃO DE ORGANIZAÇÃO CRIMINOSA, TODAVIA, NÃO CARACTERIZADO NO CASO, AUSENTE CARÁTER EMPRESARIAL NA CONDUTA DOS ACUSADOS E INEXISTENTES UM VIÉS ASSOCIATIVO ANTERIOR OU A FINALIDADE DE LUCRO COMUM PROCEDÊNCIA PARCIAL DA DENÚNCIA SENTENÇA CONDENATÓRIA MANTIDA, INADMISSÍVEIS OS PLEITOS ABSOLUTÓRIOS E DE MODIFICAÇÃO DO FUNDAMENTO LEGAL DOS CORRÉUS ABSOLVIDOS. DOSAGEM DAS REPRIMENDAS QUE NÃO MERECE REPAROS, BEM FIXADA A PENA BASE DOS DELITOS NO MÍNIMO E SE MOSTRANDO CORRETA A INCIDÊNCIA DE SOMENTE UMA DAS CAUSAS DE AUMENTO DO CRIME ASSOCIATIVO DECRETO DE PERDA DO CARGO PÚBLICO ACERTADO DIANTE DAS CARACTERÍSTICAS DO FATO PRECEDENTES DA JURISPRUDÊNCIA ESTIPULAÇÃO DE REGIME INICIAL PARA CADA UM DOS RÉUS QUE OBSERVOU AS CIRCUNSTÂNCIAS JUDICIAIS ALÉM DO 'QUANTUM' DAS PENAS, DESCABIDA A CONCESSÃO DE BENESSES RECURSOS MINISTERIAL E DEFENSIVOS DESPROVIDOS.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, LIV, LVI e LVII, e 93, IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, LIV, e 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 04/03/2020).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/2018).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 30 de maio de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
