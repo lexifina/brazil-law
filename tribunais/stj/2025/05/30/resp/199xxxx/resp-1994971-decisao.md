@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO às fls. 532/544.
+A parte recorrente alega violação dos arts. 485 e 1.022, II, do Código de Processo Civil (CPC); do art. 1º do Decreto 20.910/1932; e dos arts. 1º, 32, 33 e 46 da Lei 11.494/2007.
+Narra que, apesar dos embargos de declaração, o Tribunal regional foi omisso quanto à "ausência do interesse de agir, especificamente em relação ao exercício financeiro de 2010, pois o Município pleiteia na exordial seja considerado o valor anual mínimo por aluno de R$ 1.473,05, ao passo que o efetivamente praticado no âmbito do FUNDEB foi de R$ 1.529,97, nos termos da Portaria n. 380, de 06.04.2011 e no que se refere à aplicação do art. 60 do ADCT e Lei n.º 11.494/2007" (fl. 650).
+Alega que o termo inicial do prazo prescricional quinquenal para o ajuizamento da ação é o advento do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb) por meio da Lei 11.494/2007, "e não apenas a partir da concretização dos ajustes financeiros da complementação do FUNDEB, em cada exercício financeiro seguinte" (fl. 653).
+Argumenta que "a prescrição não é de trato sucessivo, mas de fundo do direito, pois o deman dante discute a sistemática de cálculo do FUNDEB, autorizado pela Emenda Constitucional n. 53, de 19.12.2006, e instituído pela Medida Provisória n. 339, de 28.12.2006, convertida na Lei n. 11.494/2007" (fl. 653). Afirma também que a prescrição não foi interrompida pelo ajuizamento de ação coletiva.
+Aponta violação ao art. 485, VI, do CPC, sustentando que não há lesão ao direito da parte autora, sendo nítida a ausência de interesse de agir.
+Acrescenta que o acórdão de origem infringiu os arts. 1º, 32, 33 e 46 da Lei 11.494/2007, ao não aplicar corretamente a norma constitucional prevista no art. 60, § 3º, do ADCT, que estipulou piso para o Fundeb.
+Contrarrazões apresentadas às fls. 678/708.
+O recurso foi admitido na origem (fl. 710).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1326), e foi assim delimitada: "Definir se o prazo prescricional da pretensão de cobrança de complementação de recursos relativos ao Valor Mínimo Anual por Aluno (VMAA), repassado ao FUNDEB /FUNDEF, deve ser apurado mês a mês, e não anualmente." (REsp 2.154.735/AM e REsp 2.154.746/PI, relator Ministro Teodoro Silva Santos).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
