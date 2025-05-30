@@ -1,0 +1,39 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 387/390, in verbis:
+Trata-se de recurso especial interposto por FERNANDO ANTONIO contra acórdão proferido pela 8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que negou provimento ao apelo defensivo nº 1500360-17.2024.8.26.0551, onde se requeria a absolvição por falta de provas ou, subsidiariamente, fixação da pena-base no mínimo legal, reconhecimento do tráfico privilegiado, imposição de regime aberto e substituição da pena privativa de liberdade por restritiva de direitos (fls. 277/285).
+Ofertados embargos de declaração, foram rejeitados (fls. 348/352).
+No recurso especial a defesa sustenta que o v. Acórdão recorrido violou os artigos 155 e 386, ambos do Código de Processo Penal; artigo 33, e §4º, da Lei 11.343/06; o artigos 33, e seus parágrafos; 59, e parágrafos; e 44, todos do Código Penal.
+Alega o processo nº 1515758-52.2023.8.26.0320 não pode ser considerado para fins de reincidência em razão da ausência de trânsito em julgado.
+Afirma ser possível a aplicação da redutora do tráfico privilegiado, bem como imposição de regime aberto (fls. 295/308).
+Requer a reforma do "v. acórdão hostilizado, objetivando-se que o processo nº 1515758-52.2023.8.26.0320 seja ignorado e desprezado para fins de mau antecedente, fixando-se, com isso, a) a pena-base no mínimo legal, b) aplicando-se a causa de diminuição de pena do art. 33, §4º, da Lei de Drogas, c) impondo-se o regime aberto e d) concedendo-se, por fim, penas alternativas, eis que presentes os requisitos do art. 44, do Código Penal".
+Contrarrazões pelo Ministério Público do Estado de São Paulo às fls. 367/373.
+Decisão admissibilidade inserta às fls. 376/377.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+Isso, porque, de fato, a minorante não poderia ter sido afastada em decorrência de condenação em outro processo, que ainda não tinha transitado em julgado na data da prolação da sentença condenatória.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4.º, DA LEI N. 11.343/06. AFASTAMENTO PELA JURISDIÇÃO ORDINÁRIA EM RAZÃO DE AÇÃO PENAL EM CURSO. FUNDAMENTAÇÃO INIDÔNEA. ALEGAÇÃO MINISTERIAL DE SUPOSTA REINCIDÊNCIA DO ACUSADO. QUESTÃO SUSCITADA APENAS NESTE MOMENTO PROCESSUAL. PRECLUSÃO. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. No caso, o Juízo sentenciante, referendado pelo Tribunal a quo, concluiu pela dedicação do Réu a atividades criminosas com fundamento exclusivamente na existência de uma outra ação penal em andamento, nada dizendo acerca da suposta reincidência do Acusado.
+Inclusive, na sentença, não houve valoração negativa dos antecedentes criminais, tampouco reconhecimento da agravante da reincidência.
+2. O Ministério Público não apelou requerendo que a reincidência fosse levada em consideração e, no acórdão recorrido, também não se mencionou qualquer condenação definitiva anterior. Nem mesmo no recurso especial acusatório, no qual o único pedido formulado foi o de recrudescimento do regime prisional inicial, a suposta reincidência do Réu foi suscitada.
+3. Na verdade, tão somente após a concessão de habeas corpus (ex officio) por esta Corte Superior, é que veio o Parquet, por meio do presente regimental, argumentar que a negativa de incidência da minorante do tráfico privilegiado estaria justificada em razão da suposta reincidência do Réu.
+4. Conclui-se, portanto, que a alegação trazida neste agravo regimental está coberta pela preclusão, pois suscitada tardiamente pelo Ministério Público estadual, o que impõe o não conhecimento desse aspecto do recurso.
+5. Na única ação penal mencionada na sentença e no acórdão recorrido, a condenação transitou em julgado somente após a prolação de sentença no presente feito, sendo descabida a sua valoração para negar a incidência do redutor especial.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 2.175.453/RN, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/2/2023, DJe de 9/3/2023, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. RÉU PRIMÁRIO À ÉPOCA DA PROLAÇÃO DA SENTENÇA. POSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS TOTALMENTE FAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julga do em 23/5/2017, DJe 30/5/2017).
+3. No caso, verifica-se que, à época da prolação da sentença condenatória, o réu era tecnicamente primário, a pena-base foi estabelecida em seu mínimo legal e ausentes circunstâncias judiciais desfavoráveis. Logo, ainda que noticiada condenação pela prática de outro delito, da mesma natureza, o seu trânsito em julgado ocorreu após ter sido proferida a sentença de 1º grau, razão pela qual não pode servir para afastar o referido redutor.
+4. "Os requisitos legais para o deferimento do tráfico privilegiado devem ser examinados pelo Juízo de primeiro grau no momento da prolatação da sentença penal condenatória." (AgRg no HC n. 715.793/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022, DJe de 8/4/2022) 5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.140.895/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023 , DJe de 13/2/2023, grifei.)
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena do recorrente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida - aproximadamente 21g (vinte e um gramas) de crack e 50g (cinquenta gramas) de cocaína - não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedente.
+Dessa forma, diante do novo quantum da reprimenda, o recorrente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, dou provimento ao recurso especial, para reconhecendo a incidência da minorante do § 4º da Lei n. 11.343/2006, reduzir a pena do recorrente para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
