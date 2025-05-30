@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO ESTADUAL DE FLORESTAS contra decisão que não admitiu seu recurso especial, este, por sua vez, manejado com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 251):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ART. 46, §5º, DO CPC - COMPETÊNCIA TERRITORIAL - RELATIVA - DECLARAÇÃO DE ÓFICIO - IMPOSSIBILIDADE - SÚMULA 33, DO STJ - PROVIMENTO.
+- A regra contida no art. 46,§5º, do CPC, envolve competência territorial, que é relativa - e não absoluta.
+- Se o Estado de Minas Gerais ajuíza ação de execução fiscal em comarca diversa, que não a sede da pessoa jurídica, compete a esta, se assim o desejar, deduzir eventual incompetência do juízo.
+Os embargos de declaração opostos pelo agravado foram acolhidos pelo Tribunal de origem, com efeitos infringentes, nos termos da seguinte ementa (e-STJ, fl. 285).
+Processual Civil - Embargos de Declaração - Execução Fiscal - Competência Territorial - Relativa - Domicílio do Réu - Art. 46, §5º, do CPC - Exceção de Pré-Executividade - Declinação - Competência - Omissão - Verificação - Acolhimento.
+- Ante a presença de vício a eivar o julgado recorrido, o acolhimento dos Embargos Declaratórios é medida que se impõe.
+- Deduzida a incompetência relativa pela parte, inexiste óbice a seu pronunciamento pelo Juízo "a quo", uma vez comprovado que o executado reside na comarca de Brasília/DF.
+- Em se tratando de execução fiscal ajuizada na vigência do novo Código de Processo Civil, reconhecida a competência do Juízo da comarca de Arinos/MG para seu processamento e julgamento, resta desatendida a regra prevista no art. 46, § 5º, do CPC/2015, segundo o qual "a execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado".
+Nas razões do recurso especial (e-STJ, fls. 319-325), a parte recorrente apontou violação aos arts. 46, §5º e 781, V, do Código de Processo Civil.
+Sustentou, em síntese, a possibilidade de propositura da execução fiscal no foro do local da infração, ou no domicílio do réu, desde que respeitados os limites territoriais do estado exequente, o que não ocorreu no presente caso.
+Defendeu que, "em se tratando de competência territorial e, em atenção ao Princípio da Supremacia do Interesse Público sobre o Privado, deve-se privilegiar o foro eleito pela Fazenda Pública, uma vez que pendente o julgamento da ADI 5492/DF onde se discute, entres outros dispositivos legais, a constitucionalidade do artigo 46, § 5º, do CPC" (e-STJ, fl. 323).
+Alegou que a Fazenda Pública de Minas Gerais não possui estrutura para ajuizar ações de execução fiscal em domicílios de executados em outras unidades da federação, o que prejudicaria o exercício do contraditório e da ampla defesa.
+Contrarrazões apresentadas (e-STJ, fls. 329-334).
+O processamento do apelo especial não foi admitido pela Corte de origem ante a constatação da intempestividade do recurso (e-STJ, fls. 346-348), levando a parte insurgente à interposição do presente agravo, em que defende a tempestividade do apelo.
+Contraminuta apresentada (e-STJ, fls. 356-361).
+Brevemente relatado, decido.
+De início, deve ser afastada a intempestividade constatada na Corte de origem. Isso porque, não obstante o posicionamento deste Superior Tribunal sobre a necessidade de comprovação da suspensão dos prazos no ato da interposição do recurso, em recente julgamento da QO no AREsp n. 2.638.376/MG pela Corte Especial, em 05/02/2025, fixou-se o seguinte entendimento:
+A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+Efetivamente, o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei 14.939/2024, aplicar-se-á a todos os processos em curso. Assim, a parte recorrente deverá comprovar, no ato de interposição do recurso, a ocorrência de feriado local. Caso não o faça, o Tribunal determinará, a qualquer momento, enquanto não encerrada a sua competência, a correção do vício formal ou poderá desconsiderá-lo, caso a informação já conste do processo eletrônico.
+No caso sob julgamento, observa-se que a parte agravante apresentou a comprovação de suspensão do expediente forense (e-STJ, fls. 350-351).
+Por tais razões, afasta-se a pecha de intempestividade do recurso interposto.
+Ultrapassada a análise da extemporaneidade, passa-se ao exame do recurso especial.
+Verifica-se dos autos que a aludida controvérsia teve a repercussão geral reconhecida e foi submetida a julgamento pelo rito dos repetitivos, no âmbito do Supremo Tribunal Federal, no dia 07/08/2024, sendo firmada a seguinte tese no Tema 1.204/ STF:
+A aplicação do art. 46, § 5º, do CPC deve ficar restrita aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador.
+Confira-se a ementa do precedente vinculante:
+Recurso extraordinário com agravo. Repercussão geral. Artigo 46, § 5º, do CPC. Interpretação conforme. Aplicação restrita aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador. Precedentes.
+1. Estabelece o § 5º do art. 46 do CPC que " a  execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado".
+2. Na apreciação das ADI nºs 5.492/DF e 5.737/DF, foi dada interpretação conforme à Constituição Federal ao art. 46, § 6º, do CPC "para restringir sua aplicação aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador". Tal orientação incide no julgamento do presente tema de repercussão geral.
+3. Foi fixada a seguinte tese para o Tema nº 1.204: "A aplicação do art. 46, § 5º, do CPC deve ficar restrita aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador".
+4. Recurso extraordinário com agravo não provido.
+(ARE 1.327.576/RS, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 7/8/2024, DJEN de 20/8/24).
+Nesse contexto, julgado o tema pela sistemática da repercussão geral, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ.
+Por conseguinte, somente após o juízo de conformidade e, se for o caso, após o juízo de retratação, deve ser exercido o juízo de admissibilidade do recurso especial em relação a eventuais questões remanescentes.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. GDASS. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. REPERCUSSÃO GERAL RECONHECIDA (TEMA 1.289). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. RECURSO ACOLHIDO.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil (CPC), são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, a jurisprudência do Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. A questão debatida nos autos teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.408.525 (relatora Ministra Cármen Lúcia), e foi assim delimitada: "Possibilidade de extensão de pagamento de gratificação de desempenho para servidor inativo com direito à p aridade, em razão da fixação de valor mínimo da parcela" (Tema 1.289).
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular os julgamentos anteriores e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após o julgamento do Tema 1.289 pelo STF, a Corte de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+(EDcl nos EDcl no AgInt no AREsp n. 1.836.812/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que sejam tomadas as providências previstas nos arts. 1.040 e 1.040 do CPC/2015, conforme o caso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. COMPETÊNCIA. ART. 46, § 5º, DO CPC/2015. 1. PRELIMINAR DE INTEMPESTIVIDADE. AFASTAMENTO. 2. TEMA N. 1.204/STF. REPERCUSSÃO GERAL RECONHECIDA. CONTROVÉRSIA JULGADA SOB O RITO DOS REPETITIVOS. 3. DETERMINADA A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.040 E 1.041 DO CPC).
