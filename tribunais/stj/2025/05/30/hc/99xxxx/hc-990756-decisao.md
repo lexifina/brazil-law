@@ -1,0 +1,26 @@
+DECISÃO
+ALAN JUNIO MEIRA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0001778-68.2025.8.26.0506.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, além do pagamento de multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006. Após o cumprimento de mais de 100 horas de prestação de serviços à comunidade, requereu a concessão de indulto com base no Decreto Presidencial n. 12.338/2024, o que foi indeferido pelo Juízo da 2ª Vara do Júri e das Execuções Criminais da Comarca de Ribeirão Preto/SP. A decisão foi mantida pela 9ª Câmara de Direito Criminal do Tribunal de origem, sob o fundamento de que o delito em questão impede a concessão da benesse, por ser considerado equiparado a hediondo.
+A defesa sustenta, em síntese: a) possibilidade de concessão de indulto com base no Decreto n. 12.338/2024 a pessoa condenada exclusivamente pelo delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, diante da ausência de vedação expressa no art. 1º, inciso XVIII, do referido decreto; b) preenchimento dos demais requisitos objetivos e subjetivos exigidos para o benefício; c) necessidade de extinção também da pena de multa, em razão da hipossuficiência financeira do paciente.
+Requer a concessão da ordem, com o reconhecimento do direito ao indulto e, por consequência, a extinção das penas restritivas de direitos e da pena de multa.
+A medida liminar foi indeferida às fls. 44-45 e as informações prestadas pelo Juízo às fls. 70-87.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício (fls. 90-97).
+Decido.
+I. Concessão de indulto em condenação pelo art. 33, § 4º, da Lei n. 11.343/2006
+O pedido de indulto formulado na origem foi indeferido com base na alegação de que o delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, mesmo com causa de diminuição de pena, manteria o caráter hediondo, o que afastaria a incidência do benefício.
+Contudo, esse entendimento contraria a jurisprudência consolidada desta Corte Superior, segundo a qual o tráfico de entorpecentes cometido nas circunstâncias descritas no § 4º do art. 33 da Lei de Drogas não é considerado crime equiparado a hediondo para fins de execução penal. O próprio Decreto n. 12.338/2024, ao excluir expressamente apenas o caput e o § 1º do art. 33, bem como os arts. 34 a 37 e 39 da Lei n. 11.343/2006 (art. 1º, XVIII), confirma a exclusão da modalidade prevista no § 4º da vedação ao indulto.
+A jurisprudência da 6ª Turma do Superior Tribunal de Justiça, inclusive, reconhece o direito ao benefício para condenados por tal delito, quando preenchidos os demais requisitos legais:
+A jurisprudência desta Corte já reconheceu que o Decreto n. 12.338/2024 não veda a concessão de indulto para o crime previsto no art. 33, § 4º, da Lei n. 11.343/2006, o qual não é considerado hediondo, sendo admissível o benefício se preenchidos os demais requisitos normativos
+(HC n. 986.016/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., julgado em 22/4/2025, DJe 29/4/2025).
+No caso, o paciente foi condenado exclusivamente pelo delito do art. 33, § 4º, da Lei n. 11.343/2006 à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto. A pena foi convertida em 600 horas de prestação de serviços à comunidade, das quais já foram cumpridas mais de 100 horas até o marco temporal de 25/12/2024, conforme certificado nos autos. O paciente é primário e preenche os requisitos objetivos e subjetivos previstos nos incisos VII e VIII do art. 9º do Decreto n. 12.338/2024.
+Diante disso, encontra-se configurado o constrangimento ilegal na negativa do indulto.
+II. Extinção da pena de multa
+A jurisprudência desta Corte tem admitido, em caráter excepcional, a extinção da pena de multa nos casos em que houver prova da hipossuficiência do condenado, especialmente quando se tratar de beneficiário da justiça gratuita e quando o valor da multa for inferior ao mínimo exigido para o ajuizamento de execução fiscal pela Fazenda Pública.
+No caso concreto, o paciente foi beneficiado com a gratuidade da justiça e a multa foi fixada no valor mínimo legal (1/30 do salário-mínimo).
+Esta Corte reconhece que: "A jurisprudência dest e Superior Tribunal de Justiça admite a extinção da pena de multa nos casos de indulto, quando demonstrada a hipossuficiência do apenado e a impossibilidade de execução do crédito" (HC n. 793.279/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 9/6/2023).
+Ainda que o Decreto n. 12.338/2024 não trate expressamente da extinção da pena de multa, o art. 107, II, do Código Penal autoriza a extinção da punibilidade com a concessão do indulto, o que, na hipótese dos autos, deve ser estendido à multa, diante da situação de pobreza do paciente.
+III. Dispositivo
+À vista do exposto, concedo a ordem para reconhecer o direito do paciente ao indulto previsto no Decreto n. 12.338/2024 e, por conseguinte, declarar extintas as penas restritivas de direito e de multa impostas nos autos da Execução Penal n. 0005953-76.2023.8.26.0506.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
