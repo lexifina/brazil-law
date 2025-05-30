@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de WANDERSON MOREIRA SALES SANTOS - condenado como incurso no crime de roubo majorado por 3 ve zes -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1511021-25.2022.8.26.0228), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou n o Juízo de Direito da 31ª Vara Criminal do Foro Central Criminal Barra Funda da comarca de São Paulo/SP, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva. Subsidiariamente, pede a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar condenação transitada em julgado, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal (AgRg no HC n. 793.886/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023; e AgRg no HC n. 921.601/RR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024).
+No caso, as instâncias ordinárias destacaram que a vítima identificou Wanderson pelas vestes, também asseverou que ele foi o responsável por subtrair o seu celular, ou seja, ele era o indivíduo que abordou a vítima pela frente, o ofendido pode visualizar o seu rosto (fl. 237 - grifo nosso).
+Por fim, não há constrangimento ilegal na dosimetria, uma vez que a pena-base foi fixada no mínimo legal e, na terceira fase, houve a exasperação de 1/2 pelo concurso de agentes, eis que o crime foi praticado por cerca de oito indivíduos, que atacaram as vítimas em grupo, o que reduziu em muito a possibilidade de reação (fl. 241), evidenciando fundamentação idônea, conforme ampla jurisprudência do STJ.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO POR 3 VEZES. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIO. AGENTE INDIVIDUALIZADO PELA VÍTIMA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
