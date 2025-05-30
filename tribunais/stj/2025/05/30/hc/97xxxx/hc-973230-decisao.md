@@ -1,0 +1,21 @@
+DECISÃO
+CLEBER MOACIR DA SILVA ADAM impetrou habeas corpus contra acórdão proferido pela 4ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo de Execução Penal n. 8007146-54.2024.8.21.0001/RS.
+Consta dos autos que o Juízo da 2ª Vara de Execuções Criminais de Porto Alegre/RS concedeu ao paciente a progressão ao regime semiaberto com monitoramento eletrônico, dispensando a realização de exame criminológico. O Tribunal de origem, no entanto, deu provimento ao agravo interposto pelo Ministério Público para cassar a decisão e determinar a submissão do apenado à avaliação psicossocial, nos termos da nova redação do art. 112, § 1º, da Lei de Execução Penal, introduzida pela Lei n. 14.843/2024 (fls. 10-15).
+A defesa sustenta, em síntese, que todos os crimes pelos quais foi condenado o paciente foram praticados antes da vigência da Lei n. 14.843/2024, sendo incabível a aplicação retroativa do dispositivo legal mais gravoso. Reforça que o comportamento do paciente é plenamente satisfatório, conforme atestado de conduta carcerária (evento 194), não havendo fundamentação concreta que justifique a submissão ao exame criminológico.
+A medida liminar foi indeferida às fls. 83-84 e as informações prestadas pelo Juízo da execução às fls. 117-120.
+O Ministério Público Federal opinou pela concessão da ordem, às fls. 122-128.
+Decido.
+I. Progressão de regime e irretroatividade da Lei n. 14.843/2024
+A jurisprudência desta Corte é firme no sentido de que a Lei n. 14.843/2024, ao alterar o § 1º do art. 112 da Lei de Execução Penal para prever a obrigatoriedade de realização do exame criminológico em todos os casos de progressão de regime, constitui novatio legis in pejus e não pode ser aplicada retroativamente aos crimes praticados antes de sua entrada em vigor.
+Nesse sentido:
+"A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal" (RHC n. 200.670/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 23/8/2024).
+No caso concreto, as informações prestadas pelo Juízo da 2ª Vara de Execuções Criminais de Porto Alegre/RS (fls. 117-120) confirmam que todos os crimes pelos quais o paciente cumpre pena foram praticados anteriormente à entrada em vigor da Lei n. 14.843/2024, publicada em 11 de janeiro de 2024 e em vigor desde 1º de abril do mesmo ano.
+O histórico de execução indica que a guia unificada envolve condenações por crimes de furto e roubo, cuja data de início da execução remonta a período anterior à vigência da nova lei. Não há nos autos qualquer fato superveniente ou nova condenação posterior que justificasse a aplicação da norma mais gravosa.
+Assim, a imposição do exame criminológico com base no § 1º do art. 112 da LEP, na redação conferida pela Lei n. 14.843/2024, configura aplicação retroativa de norma prejudicial, em violação ao art. 5º, XL, da Constituição da República, e ao art. 2º do Código Penal.
+Ademais, inexiste no acórdão estadual fundamentação concreta e individualizada que demonstre a necessidade de submissão do apenado ao exame. Como reconhecido por esta Corte: "A simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico" (AgRg no REsp n. 2.002.906/DF, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 4/10/2022).
+Assim, ao cassar a decisão do juízo da execução com base exclusivamente na incidência da nova legislação, sem qualquer motivação concreta, o acórdão impugnado incorreu em manifesta ilegalidade, justificando a concessão da ordem para restabelecimento da progressão.
+II. Dispositivo
+Ante o exposto, concedo a ordem para restabelecer a decisão que deferiu a progressão ao regime semiaberto ao paciente, nos termos fixados pelo Juízo das Execuções.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
