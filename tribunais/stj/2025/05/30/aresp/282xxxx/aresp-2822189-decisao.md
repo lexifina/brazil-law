@@ -1,0 +1,49 @@
+DECISÃO
+Em agravo interposto por Leoni David Araújo de Carvalho contra decisão do Tribunal de Justiça do Estado do Pará, examina-se inadmissão de recurso especial, sob o fundamento da aplicação da Súmula 07 do Superior Tribunal de Justiça, que impede o reexame de provas (e-STJ fls. 931-936).
+O agravante foi condenado a 6 anos e 8 meses de reclusão, além de 16 dias-multa, em regime semiaberto, pela prática do delito de roubo majorado pelo concurso de agentes e emprego de arma de fogo, tipificado no artigo 157, §2º, II e §2º-A, I, do Código Penal, em razão de fato praticado em 22 de julho de 2021.
+A condenação foi mantida pelo Tribunal de Justiça do Estado do Pará.
+A defesa interpôs recurso especial, alegando violação ao artigo 29, §1º, do Código Penal, por entender que a participação do agravante foi de menor importância, e ao artigo 33, §2º, alínea "b", do Código Penal, por indevida agravação do regime inicial de cumprimento de pena. Requereu a aplicação da causa de diminuição de pena pela participação de menor importância e a fixação do regime inicial de cumprimento de pena no semiaberto. Afirmou que houve erro na valoração das provas que condenaram o recorrente, e que a decisão violou o princípio da individualização da pena (fls. 839-843).
+O Tribunal de origem não admitiu o recurso especial em razão da aplicação da Súmula 07 do STJ, que impede o reexame de provas (e-STJ fls. 931-936).
+Na petição do agravo em recurso especial (e-STJ fls. 943-948), a parte recorrente sustentou que a questão não demanda reanálise probatória, e sim novo enquadramento jurídico. . Alegou que a incidência da referida Súmula 7 do STJ ao caso deu-se de forma inadequada.
+O Ministério Público Federal (e-STJ fls. 1020-1027) manifestou-se pelo desprovimento do agravo em recurso especial, em parecer assim ementado:
+"ARESP DO RÉU LEONI DAVID ARAUJO DE CARVALHO. ROUBO MAJORADO. APLICAÇÃO DA PENA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. SÚMULA Nº 07/STJ. REITERA DECISÃO AGRAVADA. - Súmula 7/STJ: pretensão de reexame de provas; fundamento suficiente para manter a decisão agravada. - Parecer pelo desprovimento dos agravos em recurso especial."
+É o relatório.
+Decido.
+O agravo é tempestivo e impugna os fundamentos da decisão recorrida. Passa-se ao exame.
+O tribunal de origem assim analisou a presença de provas suficientes a ampararem a condenação:
+A materialidade está devidamente comprovada, sendo clara a ocorrência do delito de roubo, como visto no Auto de Apreensão e Apresentação e no Auto de Entrega, em ID nº 12755033 fls. 20 a 22, bem como pelo depoimento da vítima.
+No que que tange à autoria , embora a vítima só tenha reconhecido ADILSON como autorautoria do delito, em razão de não ter conseguido visua lizar os demais elementos, o conteúdo dos depoimentos prestados pelos policiais civis, que participaram da diligência que prendeu os acusados em flagrante, é suficiente para que a autoria do delito seja atribuída a eles.
+ ..
+Em que pese a negativa de autoria por parte dos denunciados LEONI e ADILSON, constata-se pela versão apresentada pelo denunciado JOELBER, bem como, pelo depoimento da vítima, que toda a dinâmica do crime teve a participação efetiva dos três denunciados, conforme ficou claro em seu interrogatório judicial.
+Nos crimes contra o patrimônio, a palavra da vítima tem especial valor probante e, no caso em questão, a vítima foi categórica em afirmar que o réu Adilson fora um dos autores do roubo.
+ ..
+Esclareço ainda, que o depoimento prestado por policial é revestido de validade e credibilidade, pois além de ostentar fé pública, na medida em que provém de agente público no exercício de sua função, fora prestado mediante compromisso legal. Aliás, é bem sabido que não furta a lei validade ao depoimento do policial, tanto que não o elenca entre os impedidos ou suspeitos, não o dispensa do compromisso de dizer apenas a verdade, nem o poupa dos inconvenientes do crime de falso testemunho, caso venha a sonegar a realidade dos acontecimentos.
+ ..
+Analisando o conteúdo dos depoimentos prestados, nota-se que as provas coligidas aos autos, sob o crivo da garantia constitucional do contraditório e da ampla defesa, são idôneas e convergentes quanto ao envolvimento dos ora recorrentes no crime de roubo, por isso que o acervo probatório se mostra hígido para arrimar o édito condenatório.
+Via de efeito, a alegação de insuficiência de provas se mostra absolutamente inverossímil: os depoimentos colhidos na instrução processual de maneira harmônica, segura e uníssona, confirmam a autoria da conduta criminosa por parte dos apelantes, não deixando, desta forma, margem para questionamentos a esse respeito. Desse modo, andou bem o juízo ao assentara quo no édito condenatório a inexistência de dúvidas quanto à ocorrência do crime tipificado no artigo 157, §2º, I e II, do Código Penal e ao conferir validade aos depoimentos prestados pelos policiais.
+A aplicação do princípio do somente ocorreria, se os fatos, conjuntamenteIn Dubio pro reo com as provas, não fossem capazes de dar certeza sobre o cometimento do crime por parte dos apelantes. Portanto, devidamente comprovada, nos autos, a prática do crime de roubo majorado pelos acusados, não há como acolher o pedido de absolvição por insuficiência de provas.
+No que diz com a participação de menor importância, assim consignou o acórdão:
+No que tange ao pedido de diminuição da pena pela participação de menor importância, prevista no artigo 29, §1º, do Código Penal, entendo mais uma vez que lhes assiste razão,não pelos fatos expostos a seguir.
+A participação de menor importância limita-se ao titular da conduta acessória, que contribuiu para a produção do resultado com menor rigor, e não ao autor ou coautor.
+ ..
+No caso concreto,  os corréus, conjuntamente, dirigiram-se em um carro para efetuar a abordagem da vítima, buscando consumar o roubo. Infere-se, portanto, que houve um acerto prévio entre eles para a consumação do crime, com domínio do fato e do resultado.
+Assim, embora os recorrentes não tenham praticado a violência elementar do crime de roubo, o conjunto probatório, por meio do depoimento da vítima e dos policiais civis, mostrou que os corréus possuíam o domínio comum do fato típico, mediante a divisão de tarefas, caracterizando a . coautoria
+O juiz sentenciante brilhantemente na sentença, esclareceu que a participação de JOELBER e LEONI, como coautores do crime, é inconteste, pois foram os condutores dos veículos utilizados no assalto, tendo como tarefa transportar parte dos assaltantes até o local do roubo e colaborar no transporte da res furtiva, concorrendo assim, de maneira relevante no êxito da ação delituosa, o que normalmente acontece numa empreitada criminosa. Agiram, segundo lições do renomado jurista Luiz Flávio Gomes, "como co-autor funcional: que participam da execução do crime, sem realizar diretamente o verbo núcleo do tipo".
+Diante disso, não merece prosperar a tese de participação mínima como causa de diminuição de pena.
+Tendo as instâncias ordinárias, soberanas na análise da prova, concluído que a participação do recorrente não foi de menor importância, a desconstituição dessa conclusão atrairia necessidade de revolvimento do contexto fático probatório, o que é vedado pela Súmula 7 deste égregio Superior Tribunal de Justiça. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO. AFASTAMENTO DAS CAUSAS DE AUMENTO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. CONSUMAÇÃO. TEMA 916. SÚMULA 582/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado pelo delito do art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, CP.
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova para a condenação, o afastamento das causas de aumento (concurso de agentes, emprego de arma de fogo e restrição de liberdade da vítima), bem como pela participação de menor importância, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+ ..
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.345.206/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO ENTRE DENÚNCIA E SENTENÇA. INOCORRÊNCIA. EMENDATIO LIBELLI. VALIDADE. DESCLASSIFICAÇÃO PARA A FORMA TENTADA. IMPOSSIBILIDADE. INSTÂNCIAS ORDINÁRIAS RECONHECERAM A INVERSÃO DA POSSE DA RES FURTIVAE. SÚMULA 582/STJ. REVOLVIMENTO FÁTICO-PROBATÓRIO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A análise acerca do reconhecimento da participação de menor importância demandaria novo exame das provas e fatos deste feito, o que não se admite no julgamento do recurso especial, a teor do disposto na Súmula 7 deste Superior Tribunal de Justiça.
+5. A jurisprudência desta Corte pacificou orientação no sentido de que o reconhecimento da atenuante não implica a redução da pena aquém do mínimo legal, nos termos da Súmula 231/STJ. A orientação tem sido adotada em precedentes atuais desta Corte.
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.552.794/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/4/2024, DJe de 25/4/2024.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
