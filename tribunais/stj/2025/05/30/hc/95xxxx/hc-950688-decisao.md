@@ -1,0 +1,44 @@
+DECISÃO
+REGINALDO DA SILVA LIMA JUNIOR alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no Recurso em Sentido Estrito n. 8000984-30.2021.8.05.0248, interposto contra decisão que indeferiu pedido de exame pericial no celular da vítima.
+A defesa requer o trancamento do processo, ao argumento de que baseado unicamente em "prova impressa de whatsapp, em detrimento da necessária e indiscutível pericia em aparelho celular", o que "remete a indubitável cerceamento e quebra da cadeia de custódia probatória"(fl. 20).
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou, subsidiariamente, pela denegação da ordem (fls. 243-246).
+Decido.
+I. O caso dos autos
+No acórdão proferido pelo Tribunal de origem, a tese defensiva foi rejeitada nos seguintes termos (fls. 23-24, grifei):
+Na ausência de definição legal, a fim de afastar a chamada "nulidade de algibeira" (ou seja, aquela que surge quando a parte constata alguma nulidade que deveria ser manifestada no primeiro momento oportuno, mas permanece silente, manifestando-se posteriormente, quando entende que as condições lhes são mais favoráveis), o STJ tem entendido pela manifesta intempestividade da instauração do referido incidente quando o documento a ser periciado já constava dos autos há tempo considerável.
+ ..
+É o que se verifica no presente caso, uma vez que os documentos impugnados foram acostados ao inquérito policial em 14/05/2018, só tendo, o acusado, contra eles se insurgido quase três anos depois, dificultando, assim, a produção de provas sobre a pretensa falsidade.
+ ..
+Ademais, a Magistrada a quo concluiu que o aparelho celular da vítima foi apresentado em delegacia, quando do registro da ocorrência, passando pelo crivo do Delegado de Polícia responsável, que solicitou a apresentação do teor das mensagens de forma impressa, de modo que não cabe falar em ineficiência estatal.
+Lado outro, nos termos do art. 156 do CPP, caberia ao acusado fazer prova da falsidade dos documentos por ele alegada, não tendo, contudo, se desincumbido de tal mister.
+Corroborando os termos do Parecer Ministerial, "conforme o caderno processual, não foram verificados indícios de falsidade documental como elencado pela defesa, pois, os vídeos e imagens acostadas se mostraram insuficientes para fundamentar que haveria uma manipulação dos fatos pela vítima."
+ ..
+Quanto ao ponto, é interessante destacar julgado do STJ no sentido de que não se verifica quebra da cadeia de custódia da prova quando não se demonstra qualquer indício de adulteração ou alteração da ordem cronológica de conversa de WhatsApp, obtida a partir de prints de tela do aparelho celular da vítima.
+ ..
+Assim, agiu com acerto a Magistrada de Piso, ao concluir que, na ausência de comprovação, não se pode presumir a produção de conversa falsa por parte da vítima, bem como que, com a negativa de provimento ao incidente, não se tem violação de princípios constitucionais ou mesmo infraconstitucionais que socorrem ao acusado, porquanto a materialidade e a autoria do crime a ele imputado serão objetos de instrução criminal na respectiva ação penal.
+E, na decisão singular, assim constou (fl. 119 ):
+Informa o requerente que o presente incidente de falsidade fora instaurado para suprir omissão por parte da Autoridade Policial e do Ministério Público, que, segundo afirma, teriam se quedado inertes no que diz respeito a constituir lastro probatório mínimo de materialidade, uma vez que a perícia no aparelho celular ou eventual ata notarial seria ato indispensável, exigência legal consubstanciada pela cadeia de custódia probatória e dos atos dispostos nos arts. 6º e seguintes e arts. 158 e seguintes, do Código de Processo Penal, invocando o princípio da presunção de inocência.
+No entanto, em pesem os argumentos da combativa defesa do réu, ora requerente, compulsando os autos da ação penal em apenso, verifica-se da certidão ID . 96387628 - Pág. 3, oriunda do Boletim de Ocorrência n. 180 - 1840, que o servidor responsável pelo registro afirma que: "(..) o DPC Hildebrando analisando a denúncia e verificando que a vítima disse que o fato das ameaças que está gravada no celular e que vai trazer de forma impressa, aconteceu como a vítima falou no dia 05/05/2018, portanto essa data seria antes da audiência, e no caso em tela não caracterizaria crime de descumprimento de medida protetiva (..).".
+Verifica-se, portanto, que a ofendida apresentou na Delegacia o aparelho celular, com o conteúdo das mensagens ameaçadoras e ofensivas, que pôde ser verificado, na ocasião, pelo Delegado de Polícia, sendo as cópias impressas posteriormente.
+Embora não exista prazo definido em lei para que se possa requerer a instauração de incidente de falsidade documental previsto no artigo 145 e seguintes do Código de Processo Penal, conforme ressaltado pelo Ministério Público, o requerente permaneceu inerte por longo período, mesmo tendo amplo acesso às informações necessárias para instruir o incidente de falsidade, (RHC 79.834/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/11/2017, DJe 10/11/2017).
+Ressalte-se que o requerente poderia ter solicitado a realização de solicitar a perícia do próprio aparelho que, supostamente, seria o aparelho de origem das mensagens, o que fez.
+II. Indeferimento do exame pericial
+No caso, as instâncias antecedentes indeferiram, de forma motivada, a perícia pretendida. Segundo exposto no acórdão, o pedido de exame no telefone celular da vítima foi negado porque formulado quase três anos depois da juntada aos autos das imagens das conversas de WhatsApp nele entabuladas e, também, porque o mencionado conteúdo probatório pode ser suprido por outros elementos de prova.
+Segundo a jurisprudência desta Corte, "o indeferimento fundamentado de pedido de produção de prova não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente a realização das diligências que considerar desnecessárias ou protelatórias" (HC n. 198.386/MG, Rel. Ministro Gurgel de Faria, 5ª T., DJe 2/2/2015).
+Assim, não constato o alegado cerceamento de defesa.
+III. Quebra da cadeia de custódia e nulidade das provas
+Segundo a jurisprudência do Superior Tribunal de Justiça, eventuais "irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável" (HC n. 653.515/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1/2/2022).
+Nesse sentido:
+ ..
+4. Revela-se inviável o reconhecimento de imprestabilidade dos prints angariados no processo, pois não há indicativo nesse sentido, devendo ser a questão examinada pelo magistrado de primeiro grau no curso da instrução processual e sopesada, com os outros elementos probatórios, no momento de proferir a sentença.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 182.668/RS, Rel. Ministro Ribeiro Dantas, 5ª T. DJe 30/8/2023)
+ ..
+8. Prevalece nesta Corte a compreensão de que matéria relacionada à quebra da cadeia de custódia " n ão se trata  ..  de nulidade processual, senão de uma questão relacionada à eficácia da prova, a ser vista em cada caso" (STJ, AgRg no HC n. 665.948/MS, relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF/1.ª Região -, Sexta Turma, julgado em 24/08/2021, DJe 30/08/2021). Nesse sentido, para além da incompatibilidade da via eleita, a fim de se aferir a quebra, em si, da cadeia de custódia, ante a necessidade de revolvimento fático-probatório, mostra-se incabível o pedido defensivo de "decretação da nulidade dos prints de whatsapp, em razão da quebra da cadeia de custódia", porque a matéria em questão não está no campo das nulidades, mas de eficácia da prova. É evidente que, se, posteriormente, for constatada a quebra da cadeia de custódia a prova pode ser considerada imprestável ou de pouca eficácia probante. No entanto, sobretudo neste momento processual, em que nem sequer foi iniciada a instrução, não há razão para decretar a nulidade e determinar o seu desentranhamento dos autos.
+(AgRg no HC n. 828.321/TO, Rel. Ministra Laurita Vaz, 6ª T., DJe 28/9/2023)
+Para que uma prova seja tida por imprestável, ilegítima ou ilícita é necessário que haja algum indício de que a fonte de prova tenha sido maculada, adulterada ou substituída, o que não ocorreu no presente caso. Aqui, não foi apontado indício seguro de adulteração nos diálogos juntados aos autos.
+Além disso, a alegação de decretação da nulidade dos prints de conversas de WhatsApp é matéria atinente à eficácia da prova, a ser decidida na instrução criminal e na sentença. Portanto, inviável o trancamento pretendido em análise de decisão proferida em incidente processual, sem que tenha havido a instrução.
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
