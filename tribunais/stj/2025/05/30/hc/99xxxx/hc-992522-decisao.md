@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DANIEL CARDOSO SCHULZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Depreende-se dos autos que o paciente responde à ação penal nº 0009315-06.2021.8.19.0004, pelo rito do Júri, perante o Juízo da 4ª Vara Criminal da Comarca de São Gonçalo do TJ-RJ, pronunciado nos arts. 121, §2º, V c/c 14, II (por 3x) e 329, §§1º e 2º do Código Penal (fls. 4).
+Os fatos da ação penal remontam a 2012, mas ela só teve início em 2021. No dia aprazado para o julgamento pelo Júri, o paciente não compareceu ao ato, orientado por sua defesa técnica, e por motivo de força maior, o advogado subscritor também não pôde se fazer presente na sessão (fls. 4).
+A prisão preventiva foi decretada na assentada da audiência de instrução e julgamento, com fundamentação na regular intimação do paciente, seus antecedentes, ausência de pedido de adiamento e tentativa infrutífera de contato via telefone celular (fls. 4).
+A defesa sustenta que não há motivo para a prisão e que sua fundamentação é teratológica, pois o paciente teria violado o dever do art. 310, §1º do Código de Processo Penal, dispositivo restrito à liberdade provisória, nunca ventilada no caso (fls. 3).
+Afirma que a prisão preventiva não encontra assento no descumprimento de qualquer medida cautelar e que a autoridade coatora inovou ao invocar o art. 310, §1º do Código de Processo Penal, inaplicável à espécie (fls. 9).
+Alega que o paciente é considerado de alta periculosidade, ligado à facção criminosa Comando Vermelho, mas não há processo ou inquisa que decline tal periculosidade ou vinculação à organização criminosa (fls. 6).
+A defesa destaca que o paciente possui condições pessoais favoráveis, como residência fixa e família constituída, o que afastaria o risco à ordem pública, ao andamento do feito ou à aplicação da lei penal (fls. 5).
+Requer a revogação da prisão preventiva do paciente ou sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 1.207/1.208.
+Informações apresentadas às fls. 1.215/1.222 e 1.223/1.229.
+Parecer do Ministério Público Federal pelo não conhecimento do Habeas Corpus, ou acaso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o acusado ostenta cinco condenações anteriores, e seria ligado a facção criminosa "Comando Vermelho", além do não comparecimento injustificado à sessão plenária. Registro que a prisão ocorreu apenas em razão de informações do disque-denúncia, visando dar cumprimento ao mandado de prisão.
+Todas circunstâncias acima descritas ap tas a justificar a segregação cautelar.
+Sobre o tema: "Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Nesse sentido: AgRg no HC n. 880.186/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; AgRg no HC n. 895.229/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 17/6/2024, DJe de 21/6/2024; RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/6/2024 e AgRg no HC n. 908.662/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no RHC n. 190.541/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/12/2023.
+Conforme a orientação jurisprudencial do STJ, o descumprimento de medidas cautelares impostas é considerado fundamento idôneo para a decretação da custódia cautelar. Nesse sentido:(AgRg no HC n. 837.521/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/3/2024);(AgRg no HC n. 803.539/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023); (AgRg no RHC n. 181.048/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
