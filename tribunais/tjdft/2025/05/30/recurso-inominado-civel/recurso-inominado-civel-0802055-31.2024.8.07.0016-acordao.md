@@ -1,0 +1,34 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0802055-31.2024.8.07.0016RECORRENTE(S)JOAQUIM DEMETRIO NETORECORRIDO(S)DEPARTAMENTO DE TRANSITO DO DISTRITO FEDERALRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2006313
+
+EMENTA
+
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. DIREITO ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. INDICAÇÃO DO CONDUTOR INFRATOR. TRANSFERÊNCIA DE PONTUAÇÃO. ART. 257, §7º, DO CTB. PRESUNÇÃO DE LEGITIMIDADE DO ATO ADMINISTRATIVO. AUSÊNCIA DE PROVA ROBUSTA. RECURSO CONHECIDO E DESPROVIDO.I. Caso em exame1. Trata-se de recurso inominado interposto pelo autor em face da sentença proferida pelo Juízo do 4º Juizado Especial da Fazenda Pública do DF que, em ação de obrigação de fazer c/c pedido de tutela de urgência proposta em desfavor do Detran/DF, julgou improcedente o pedido inicial (ID 71182749).2. Recurso próprio e tempestivo (ID 71182753). Sem preparo, pois o recorrente formulou pedido de gratuidade de justiça.3. Em suas razões recursais, o recorrente sustenta que, em relação ao disposto no art. 257, §7º do CTB, a jurisprudência tem evoluído no sentido de mitigar os efeitos da preclusão administrativa decorrente da perda do prazo para indicação do condutor, especialmente em situações em que há elementos probatórios suficientes para demonstrar que o condutor indicado pelo sistema não foi o real infrator. Alega que a previsão do artigo 257 do CTB deve ser interpretada em consonância com princípios constitucionais e processuais, tais como o devido processo legal, a ampla defesa e o contraditório, garantidos pelo artigo 5º, incisos LIV e LV, da Constituição Federal. Afirma que diversos elementos corroboram a veracidade da alegação do recorrente. Menciona ser inaceitável que a decisão impugnada se fundamente na presunção de má-fé do recorrente. Aduz que a presunção de legitimidade dos atos administrativos é relativa e pode ser afastada diante de prova em contrário. Pede a concessão da gratuidade de justiça, a concessão de efeito suspensivo e a reforma da sentença, com a procedência do pedido inicial.4. Em contrarrazões, o recorrido refuta as alegações do recorrente e pugna pelo desprovimento do recurso (ID 71182758).5. Gratuidade de justiça. Os documentos trazidos aos autos (ID 71182754 e 71182755) comprovam a hipossuficiência financeira do recorrente. Defiro o benefício da gratuidade de justiça.II. Questão em discussão6. Saber se a parte ré deve ser condenada a transferir os pontos relativos a infração de trânsito em questão, que alegadamente teria sido cometida pela genitora do autor.III. Razões de decidir7. Pedido de efeito suspensivo. No sistema dos juizados especiais, a concessão de efeito suspensivo ao recurso ocorre excepcionalmente, nos casos em que é demonstrada a presença de dano irreparável ou de difícil reparação, circunstância não verificada no caso concreto. Pedido de concessão de efeito suspensivo ao recurso rejeitado.8. O artigo 257, §7º, do CTB preconiza que, quando não for imediata a identificação do infrator, o principal condutor ou o proprietário do veículo terá o prazo de 30 dias, contados da notificação da autuação, para apresentá-lo, na forma em que dispuser o Contran, sendo que, transcorrido o prazo, se não o fizer, será considerado responsável pela infração o principal condutor ou, em sua ausência, o proprietário do veículo. O prazo legal corresponde ao período disponibilizado na esfera administrativa para a transferência da pontuação, não existindo óbice para que o pedido seja formulado perante o Poder Judiciário após o transcurso daquele prazo, em conformidade com o princípio da inafastabilidade da jurisdição.9. No caso, o recorrente não trouxe aos autos elementos de convicção suficientes que comprovem a alegação de que a genitora do autor era a verdadeira infratora, condutora do veículo. Além disso, a mera concordância da suposta infratora, condutora do veículo, com a transferência da pontuação não é suficiente para o deferimento do pedido, sobretudo em se tratando da genitora do autor, diante da evidente parcialidade. Vale lembrar que o ato administrativo é dotado de presunção de legalidade e veracidade, presunção esta que somente pode ser elidida por meio de prova robusta em sentido contrário, ônus atribuído ao recorrente, nos termos do artigo 373, inciso I, do CPC, o que não ocorreu na hipótese. Assim, não há elementos para desconstituir o ato administrativo em questão.10. Nesse sentido: “Todavia, face a presunção de legitimidade do ato administrativo, a eventual transferência da pontuação na via judicial exige prova robusta das alegações, não sendo suficiente a mera declaração das partes. Neste sentido, destaca-se que o atual entendimento das três Turmas Recursais deste E. TJDFT é no sentido de que somente a prova robusta possibilitaria eventual transferência da pontuação. (...) Quanto à alegada confissão, reitera-se que a transferência de pontuação na via judicial depende de prova robusta, sendo que a mera concordância da parte ré, sem outras provas, é insuficiente para desconstituir a legitimidade do ato administrativo. (...)" (Acórdão 1838760, 07526730620238070016, Relator: FLÁVIO FERNANDO ALMEIDA DA FONSECA, Primeira Turma Recursal, data de julgamento: 26/3/2024, publicado no DJE: 12/4/2024).11. Desse modo, inviável a transferência da pontuação pleiteada nos autos.IV. Dispositivo e tese12. RECURSO CONHECIDO E DESPROVIDO. Condeno o recorrente ao pagamento das custas processuais e dos honorários advocatícios, fixados em 20% (vinte por cento) do valor atualizado da causa, observada a gratuidade de justiça ora deferida.13. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Junho de 2025
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
