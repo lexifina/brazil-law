@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por GEOSVALDO FERREIRA DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0000517-81.2016.8.18.0029 (fls. 258/261).
+No recurso especial, a defesa requereu a reforma da decisão condenatória, sustentando violação do art. 159, § 4º, do Código de Processo Penal, argumentando não ter sido oportunizada a indicação de assistente técnico quando da realização da perícia na arma apreendida, o que configura cerceamento de defesa por violação do contraditório e à ampla defesa (fls. 272/276).
+Inadmitido o recurso na origem, sob os fundamentos de que o agravante não demonstrou de que forma o acórdão teria contrariado os dispositivos legais apontados , bem como a incidência da Súmula 7/STJ (fls. 292/294), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 298/301).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 330/333).
+É o relatório.
+O presente agravo merece ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade. Passo à análise do recurso especial.
+Objetiva o agravante a reforma do acórdão condenatório, sustentando violação do art. 159, § 4º, do Código de Processo Penal, alegando que não foi intimado para indicar assistente técnico após a realização da perícia na arma de fogo apreendida.
+Contudo, conforme jurisprudência pacífica do Superior Tribunal de Justiça, a decretação de nulidade de atos processuais depende da efetiva demonstração de prejuízo da parte interessada, o que não se verifica na espécie. A propósito: AgRg no REsp n. 1.925.422/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025; AgRg no REsp n. 1.943.153/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.
+Somado a isso, é firme o entendimento desta Corte no sentido de que o crime de porte ilegal de arma de fogo, previsto no art. 14 da Lei n. 10.826/2003, configura-se como delito de perigo abstrato, sendo, portanto, dispensável a demonstração da potencialidade lesiva do armamento para a caracterização da infração penal (AgRg no HC n. 961.281/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; AgRg no AREsp n. 2.274.058/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/8/2023, DJe de 18/8/2023).
+Assim, ainda que tenha sido realizada perícia no caso concreto, sua realização não era imprescindível para a configuração do delito, razão pela qual eventual vício procedimental relacionado à não intimação de assistente técnico não tem o efeito de comprometer a regularidade e a validade do processo.
+A defesa, por sua vez, não conseguiu evidenciar prejuízo concreto decorrente da ausência de intimação para a indicação de assistente técnico, especialmente à luz da natureza do delito imputado e do entendimento jurisprudencial consolidado de que se trata de crime de perigo abstrato.
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. PERÍCIA. AUSÊNCIA DE INTIMAÇÃO PARA INDICAÇÃO DE ASSISTENTE TÉCNICO. NECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO EFETIVO. CRIME DE PERIGO ABSTRATO. DISPENSABILIDADE DA PERÍCIA PARA CONFIGURAÇÃO DO DELITO.
+Agravo conhecido para negar provimento ao recurso especial.
