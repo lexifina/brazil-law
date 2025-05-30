@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BLV BAR E RESTAURANTE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ADMINISTRATIVO - MANDADO DE SEGURANÇA - ESTABELECIMENTO COMERCIAL - ALVARÁ DE FUNCIONAMENTO - AUTO DE INFRAÇÃO - DISCUSSÃO ACERCA DA ATIVIDADE DESEMPENHADA PELA IMPETRANTE DESCRITA COMO "BAR COM ENTRETENIMENTO", MAS RECONHECIDA PELA MUNICIPALIDADE COMO "CASA DE SHOWS", NÃO PERMITIDA PARA O LOCAL - NECESSIDADE DE DILAÇÃO PROBATÓRIA - IMPROPRIEDADE DA VIA ELEITA - SEGURANÇA BEM DENEGADA - SENTENÇA MANTIDA - RECURSO DE APELAÇÃO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 489, § 1º, IV, do Código de processo Civil. Sustenta que o acórdão recorrido deixou de enfrentar todos os argumentos deduzidos no processo capazes de, em tese, alterar a conclusão adotada pelo julgador, trazendo a seguinte argumentação:
+A Constituição Federal de 1.988 criou o Superior Tribunal de Justiça, atribuindo-lhe a função de preservar a eficácia e uniformizar a interpretação do direito federal infraconstitucional, conforme Seção III, Capítulo III, da Carta Magna de 1.988.
+Uma das hipóteses reguladas pela nossa Constituição, no tocante à competência do Superior Tribunal de Justiça, é a de julgar, em Recurso Especial, as causas decididas, quando a decisão recorrida contrariar tratado ou lei federal, ou, ainda, negar-lhes vigência.
+No caso em tela, o Egrégio Tribunal a quo deixou de observar o artigo supramencionado, consoante restará demonstrado a seguir.
+E, como é sabido, esta contrariedade à lei federal pode ocorrer tanto por desrespeito frontal ao seu texto, como por se deixar de aplicar a norma federal incidente à espécie litigiosa.
+Ao moldar o Código de Processo Civil, é evidente que todas as obrigações das partes foram muito bem analisadas e definidas pelo legislador, que se atentou a cada detalhe que pudesse interferir (ou não) nos rumos processuais.
+Neste sentido, tem-se a ideia de que o Juiz, ao analisar e decidir sobre o caso, deverá ter conhecimento integral do processo, bem como deverá fundamentar sua decisão de maneira coesa e precisa.
+Nestes moldes, dentre alguns ideais de fundamentação de decisões, o Código de Processo Civil é direto ao apontar em seu art. 489, § 1º, inciso IV:
+"Art. 489. São elementos essenciais da sentença:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;"
+No caso sob exame, a decisão do Egrégio Tribunal a quo, ao julgar o recurso de apelação, como transcrito na síntese processual nesta mesma peça, limitou sua fundamentação ao argumento de que havia "comercialização de ingressos pelas plataformas articket e Sympla, se assemelhando, portanto, ao segmento de Casa de Shows, fato que retira, a meu ver, o direito líquido e certo que afirma possuir" (vide trecho do acórdão recorrido).
+Contudo, consoante também demonstrado em Embargos de Declaração, a parte recorrente não realiza a comercialização de ingressos nas referidas plataformas, juntando, inclusive, capturas de tela que comprovam o alegado:
+ ..
+Inclusive, como suscitado nos Embargos de Declaração, o próprio Tribunal a quo reconheceu que não havia venda de ingressos pelas plataformas, motivo pelo qual concedeu o efeito suspensivo à Apelação interposta, senão vejamos:
+ ..
+Notem, Eminente Turma Julgadora, que aqui não se pretende realizar dilação probatória (seja por não ser cabível na via de Mandado de Segurança, seja por não ser cabível em sede de Recurso Especial).
+Ao contrário, o que se busca é a aplicação do artigo em comento para que o Tribunal a quo considere - a partir da dissipação da contradição existente nas decisões proferidas - as provas existentes nos autos, observando o disposto no dispositivo legal em questão, especificamente para enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+E, ao menos em tese, a contradição detectada nas r. dec isões proferidas dão azo ao provimento do Recurso Especial para que o Tribunal a quo enfrente todos os argumentos deduzidos no processo pelo ora recorrente, fazendo com que, ao menos por ora, o V. Acórdão seja anulado para que outro venha a ser proferido em seu lugar, conforme previsto na lei processual em vigor (fls. 501-505).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
