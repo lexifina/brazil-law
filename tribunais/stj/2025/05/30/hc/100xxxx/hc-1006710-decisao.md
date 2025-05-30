@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HIAGO HENRIQUE RODRIGUES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do HC n. 2107163-34.2025.8.26.0000.
+Depreende-se dos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Piracicaba, no âmbito da ação penal n. 1501302-02.2024.8.26.0599, como incurso nas penas do artigo 33, § 4º, da Lei 11.343/2006, à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 dias-multa (fls. 123-125).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, ainda pendente de julgamento, e, concomitantemente, impetrou perante aquela Corte o HC n. 2107163-34.2025.8.26.0000, cuja ordem foi denegada (fls. 166-174).
+Na presente impetração, alega-se a existência de constrangimento ilegal na decisão que afastou a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, com fundamento em atos infracionais praticados pelo paciente quando adolescente (fls. 3-5). Sustenta-se que a não aplicação do redutor afronta os princípios do sistema acusatório e da separação entre as funções de acusar e julgar, uma vez que o Ministério Público manifestou-se favoravelmente à concessão do benefício (fls. 3-4). Afirma-se, ainda, que a sentença carece de fundamentação concreta e idônea para afastar o privilégio, sendo imperativa sua aplicação, pois o paciente é primário, possui bons antecedentes e não se dedica a atividades criminosas (fls. 5-7).
+Argumenta-se que a prática de atos infracionais não pode gerar reflexos automáticos na ação penal, e que a simples menção à existência de tais atos não é suficiente para caracterizar dedicação a atividades criminosas (fls. 6-7).
+Requer, ao final, a concessão da ordem para que seja reconhecida a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, com a aplicação da fração máxima de redução (fl. 9).
+É o relatório. DECIDO.
+Conforme relatado, o acórdão impugnado (fls. 166-174) denegou a ordem de habeas corpus, ao entender ausente qualquer constrangimento ilegal na sentença condenatória (fls. 123-145), tendo sido ementado nos seguintes termos (fl. 167 ):
+EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM DENEGADA.
+I. Caso em Exame
+Habeas Corpus impetrado em favor de Hiago Henrique Rodrigues Santos, condenado a 5 anos de reclusão por tráfico de drogas, sem aplicação do redutor do tráfico privilegiado, apesar de ser primário e ter bons antecedentes.
+II. Questão em Discussão 2. A questão em discussão consiste em determinar se o habeas corpus é a via adequada para discutir a aplicação do redutor do artigo 33, §4º da Lei de Drogas, considerando que há recurso próprio interposto.
+III. Razões de Decidir 3. O habeas corpus não é substitutivo de recurso próprio, sendo inadequado para reexame fático-probatório.
+4. A manutenção da prisão cautelar é fundamentada pela prova da materialidade delitiva e indícios de autoria, sem violação à presunção de inocência.
+IV. Dispositivo e Tese
+5. Ordem de habeas corpus denegada. Tese de julgamento: 1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio. 2. A prisão cautelar é válida quando há indícios suficientes de autoria e materialidade. Legislação Citada: Lei nº 11.343/06, art. 33, caput e §4º. Código de Processo Penal, art. 593. Jurisprudência Citada: STJ, HC 434.975/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 20.03.2018. STF, HC nº 107.863, Rel. Min. Luiz Fux, j. 17.4.2012.
+O habeas corpus, por ser uma ação constitucional, contempla várias situações em que os direitos fundamentais estejam sendo violados ou ameaçados. O artigo 654, §2º, do Código de Processo Penal, autoriza a concessão da ordem de ofício quando constatada a presença de constrangimento ilegal ou a sua iminência, o que não verifico no caso concreto.
+E a jurisprudência do Superior Tribunal de Justiça é no sentido de que a pendência de julgamento do recurso próprio na instância ordinária esvazia a competência desta Corte Superior para se pronunciar sobre a questão, pois o efeito devolutivo do recurso de apelação permite ao Tribunal de Justiça a revisão ampla do julgado.
+Nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PLEITO DE REVISÃO DA DOSIMETRIA. TEMA NÃO EXAMINADO PELA CORTE A QUO. IMPOSSIBILIDADE DE DEBATE SOBRE A MATÉRIA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO NA ORIGEM E NESTA INTÂNCIA POR VEICULAR IDÊNTICO TEMA POSTO EM APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO DO TRIBUNAL ESTADUAL. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se vislumbra qualquer irregularidade no não conhecimento do mandamus originário, pois, como bem consignado pela instância de origem, a via eleita não é adequada para o julgamento antecipado de matéria que foi objeto do recurso de apelação já interposto pela defesa.
+2. Salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias. Precedentes.
+3. Na hipótese, é prematura a apreciação das matérias ventiladas neste habeas corpus, quando pendente recurso de apelação na origem, via adequada para o exame da alegação, notadamente pelo efeito devolutivo do recurso apelatório, permitindo ao Tribunal a quo a ampla revisão da sentença penal condenatória. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 859.866/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+Assim, em razão da tramitação do recurso próprio para o exame das alegações defensivas, não é possível a apreciação dessas questões diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
