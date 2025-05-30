@@ -1,0 +1,36 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, com fundamento no art. 105, III, "a" e §§ 2º e 3º, I, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais nos autos do Agravo de Execução Penal n. 1.0000.23.208009-3/001.
+Consta dos autos que o recorrido foi condenado à pena de 6 anos e 3 meses de reclusão, atualmente em regime semiaberto, pela prática do crime previsto no art. 121, § 2º, do Código Penal (homicídio qualificado).
+O Ministério Público aduz, em síntese, que: a) a prisão provisória do sentenciado não ocorreu de forma ininterrupta até o trânsito em julgado; b) havendo interrupção do cumprimento da pena, a data-base para benefícios deve ser fixada como a da última prisão; c) considerar a data da primeira prisão implicaria computar como pena cumprida o período em que o reeducando permaneceu em liberdade provisória.
+Aponta, para tanto, a violação dos seguintes dispositivos legais: arts. 42 do Código Penal; 387, § 2º, do Código de Processo Penal; 489, § 1º, VI, e 1.022 do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal.
+Não foram apresentadas contrarrazões (fl. 97) e admitido o recurso pelo Tribunal a quo (fls. 99-102), o Ministério Público Federal opinou pelo provimento do recurso especial (fls. 112-115).
+Decido.
+I. Admissibilidade
+De início, constato a tempestividade do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, e verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento.
+Houve prequestionamento dos temas objeto da impugnação e exposição dos dispositivos de lei presumidamente contrariados, além dos fatos e do direito, de modo a permitir o exame da aventada questão jurídica controversa.
+II. Mérito
+A questão controvertida consiste em definir qual deve ser a data-base para fins de progressão de regime prisional nos casos em que há interrupção da prisão provisória antes do início do cumprimento da pena definitiva.
+No caso concreto, o recorrido foi preso preventivamente em 23/5/2019, obteve liberdade provisória em 18/2/2020 e somente retornou à custódia em 20/1/2023, após o trânsito em julgado da condenação, para iniciar o cumprimento da pena definitiva.
+O Tribunal de origem, ao dar provimento ao agravo em execução interposto pela defesa, determinou a retificação do atestado de pena do reeducando, para constar a data da primeira prisão (23/5/2019) como a data-base para fins de progressão de regime, embora tenha ressalvado que deveria ser "descontado o período em que o reeducando esteve solto, entre a data de concessão da liberdade provisória e o início de cumprimento da pena definitiva".
+Entretanto, tal entendimento contraria frontalmente a jurisprudência consolidada deste Superior Tribunal, segundo a qual, nos casos em que há interrupção da custódia cautelar, com período de liberdade provisória entre a prisão preventiva e o início do cumprimento da pena definitiva, a data-base para a concessão de benefícios da execução penal deve ser a data da última prisão.
+Sobre o tema, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRIMEIRA PRISÃO. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, o paciente foi preso provisoriamente em 18/7/2019 e solto em 25/12/2019, sendo preso novamente apenas em 9/6/2023, para iniciar o cumprimento da pena privativa de liberdade.
+Desse modo, não há ilegalidade na decisão que fixou como data-base, para fins dos benefícios da execução penal, o dia 9/6/2023, data em que o apenado iniciou o cumprimento definitivo da pena.
+2. Acolher o pedido da defesa em considerar a data da primeira prisão como marco temporal para contagem do prazo para os benefícios implicaria em considerar como pena cumprida os mais de 3 anos em que o paciente permaneceu em liberdade provisória.
+3. O cômputo do período de prisão preventiva no cálculo da detração afasta a ocorrência de excesso na execução.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 849.237/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. DIA DA ÚLTIMA PRISÃO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DE REQUISITOS OBJETIVOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, o Tribunal de Justiça manteve o entendimento do Juízo da execução, pois incabível utilizar, como data-base ou termo inicial para o cálculo da progressão de regime, a data em que se iniciou a prisão provisória, tendo em vista que, após esta, sobreveio um período de liberdade, sendo preso novamente em razão da efetiva condenação, na data de 4/6/2022, para cumprimento da pena definitiva, e que o período da prisão provisória será computado para fins de detração para reduzir a base de cálculo da progressão de regime, de forma a minorar a quantidade de pena necessária para obtenção da benesse.
+3. O acórdão impugnado é harmônico com a jurisprudência desta Corte, firmada no sentido de que, ainda que não se trate de unificação de penas, mas de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período no qual ele permaneceu em liberdade.
+4. Agravo regimental improvido.
+(AgRg no HC n. 840.942/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024, destaquei.)
+Com efeito, de acordo com o art. 42 do Código Penal, o tempo de prisão provisória deve ser computado para fins de detração, diminuindo o total da pena a cumprir. Contudo, quando há interrupção da custódia cautelar, esse dispositivo não autoriza que a data da primeira prisão seja considerada como marco inicial para o cálculo do lapso temporal necessário à progressão de regime, sob pena de se considerar como pena cumprida o período em que o sentenciado esteve em liberdade provisória.
+Por sua vez, o art. 387, § 2º, do Código de Processo Penal trata da possibilidade de o juiz, no momento da sentença condenatória, considerar o tempo de prisão provisória para fins de determinação do regime inicial de cumprimento de pena, o que não se confunde com a progressão durante a execução penal.
+Dessa forma, a decisão recorrida contrariou a interpretação dada por este Superior Tribunal aos mencionados dispositivos legais, de modo que se impõe o provimento do recurso especial.
+III. Dispositivo
+À vista do exposto, dou provimento ao recurso especial para reformar o acórdão recorrido e restabelecer a decisão de primeiro grau que fixou como data-base para a progressão de regime a data da última prisão do recorrido (20/1/2023).
+Publique-se e intimem-se.
+ EMENTA
