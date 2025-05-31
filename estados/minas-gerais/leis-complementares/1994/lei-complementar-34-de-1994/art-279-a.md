@@ -1,0 +1,1 @@
+Art. 279-A - Os direitos, os deveres, as garantias e as prerrogativas assegurados ao Ministério Público do Estado serão, quando for o caso, regulamentados por ato do Procurador-Geral de Justiça, nos termos do inciso XVII do caput do art. 18.

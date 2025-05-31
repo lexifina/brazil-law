@@ -1,0 +1,1 @@
+Art. 268-A - Ato do Procurador-Geral de Justiça disciplinará as medidas necessárias para garantir a continuidade dos serviços, o atendimento a medidas urgentes e o melhor aproveitamento dos recursos humanos do Ministério Público, assegurado o direito a compensação ou indenização decorrente de trabalho extraordinário.

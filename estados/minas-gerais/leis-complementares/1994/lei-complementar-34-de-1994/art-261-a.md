@@ -1,0 +1,2 @@
+Art. 261-A - Haverá expediente em todas as unidades do Ministério Público nos dias úteis, de segunda a sexta-feira, nos horários definidos em ato do Procurador-Geral de Justiça.
+Parágrafo único - Nos fins de semana, feriados ou em qualquer outro dia ou horário em que não houver expediente, serão designados membros do Ministério Público para exercício das funções em regime de plantão, com direito a compensação ou indenização.
