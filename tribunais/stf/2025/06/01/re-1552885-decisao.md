@@ -1,0 +1,109 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REPOSIÇÃO DE VENCIMENTOS. ASSOCIAÇÃO. CONTROVÉRSIA SOBRE A LEGITIMIDADE. COISA JULGADA RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. TEMA 660. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Segunda Turma do Tribunal Regional Federal da Primeira Região:
+
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. ANFIP. PERCENTUAL DE 16,19%. URP. LEGITIMIDADE PASSIVA DA UNIÃO. LIMITAÇÃO TERRITORIAL AFASTADA. LEGITIMIDADE ATIVA DA ASSOCIAÇÃO. DESCABIDA ALEGAÇÃO DE INÉPCIA DA INICIAL DA EXECUÇÃO. SUCUMBÉNCIA RECÍPROCA MANTIDA.
+
+    1. Reconhecida a legitimidade da União para compor o polo passivo da demanda, com base na previsão da Lei 11.457/2007, a qual transformou o cargo de Auditor Fiscal da Previdência Social em Auditor Fiscal da Receita Federal do Brasil, passando estes servidores, a partir de julho de 2007, a compor o Quadro de Pessoal da União.
+
+    2. Afastada a alegação de ilegitimidade ativa da associação, uma vez que a ação de conhecimento (AO 92.0004188-4), transitada em julgado, apreciou e afastou a referida preliminar, ficando, pois, superada a rediscussão em sede de embargos à execução.
+
+    3. A limitação territorial determinada no art. 2º-A, caput, da Lei n. 9.494/97, não alcança a presente ação, uma vez que o ajuizamento antecedeu à entrada em vigor do mencionado artigo.
+
+    4. Descabida a alegação de inépcia da petição inicial, uma vez que a previsão do CPC/2015, art. 524, §§ 3° e 4° dispõe haver possibilidade de serem requisitados os documentos necessários, em poder de terceiros ou do executado, a fim de elaborar ou complementar o demonstrativo de cálculos.
+
+    5. A União decaiu de parte mínima do pedido, devendo ser aplicado o art. 21, parágrafo único do CPC/73 no tocante aos honorários de sucumbência.
+
+    4. Apelação parcialmente provida para reconhecer que a União decaiu de parte mínima do pedido” (fl. 7, e-doc. 28).
+
+    Os embargos declaratórios opostos foram assim julgados:
+
+    “EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. UNIFORMIZAÇÃO DA CONDENAÇÃO EM HONORÁRIOS. EMBARGOS DE DECLARAÇÃO DA PARTE EMBARGADA ACOLHIDOS.
+
+    1. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC/2015, art. 1.022).
+
+    2. Contradição apontada pela ANFIP acolhida, uma vez que o valor atribuído à condenação em honorários de sucumbência, para cada embargado, aproxima-se do montante total do proveito econômico, mostrando-se desproporcional.
+
+    3. Embargos de declaração da ANFIP acolhidos, com efeitos modificativos, para, sanando a contradição apontada, dar parcial provimento à apelação da parte embargante para condenar cada embargado em honorários de sucumbência no valor de R$ 200,00 (duzentos reais), conforme disposto no voto” (fl. 5, e-doc. 35).
+
+    2. A recorrente alega ter o Tribunal de origem contrariado os incs. XXI e XXXVI do art. 5º da Constituição da República. Argumenta que “cuida-se de acórdão do Tribunal Regional Federal da 1ª Região que deu parcial provimento ao recurso de apelação interposto pela União, apenas para reconhecer que a embargante decaiu em parte mínima do julgado” e “não acolhendo, porém, as alegações preliminares concernentes à ilegitimidade passiva da UNIÃO, ilegitimidade ativa da associação, limitação territorial e a própria inexigibilidade do título” (fl. 2, e-doc. 38).
+
+    Afirma que “no v. acórdão constou que o mero fato de os servidores terem sido redistribuídos pela Lei n. 11.457/07 (art. 8º) para o quadro de pessoal da União já torna esta parte legitima para efeito desta execução” e que “o título executivo transitado em julgado não traz como devedora a União. Desse modo, o v. acórdão violou a coisa julgada ao incluir indevidamente parte estranha à lide cognitiva na fase de execução” (fl. 8, e-doc. 38).
+
+    Anota que, “como a União não figura no título executivo como devedora, mister se afastar a violação ao art. 5º, XXXVI, da CRFB/88, reconhecendo-se a ilegitimidade passiva da embargante para a execução ou a inexigibilidade do titulo em face da União por inexistência de título, restaurando-se o respeito à coisa julgada formalizada” (fl. 8, e-doc. 38).
+
+    Assevera que “a norma constitucional não admite que o título executivo beneficie associado que não tenha dado autorização expressa para a associação ingressar em juízo. Assim, o v. acórdão merece ser reformado para afastar a violação à Constituição Federal, já que se adotou interpretação do art. 5º, XXI da CRFB/88 tida como incompatível com a Lei Maior” (fl. 10, e-doc. 38).
+
+    Requer o provimento do presente recurso para que seja reformado “o acórdão atacado, extinguindo-se a execução sem resolução de mérito, por inexigibilidade do título em razão de sua inconstitucionalidade, haja vista a violação ao artigo 5º, inciso XXI da CRFB/88, e diante da violação à coisa julgada, em afronta ao art. 5º, inciso XXXVI” (fl. 11, e-doc. 38).
+
+    3. Em juízo de retratação, foi proferida decisão com a seguinte ementa:
+
+    “PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REPOSIÇÃO DOS VENCIMENTOS. URP DE ABRIL E MAIO DE 1988. EXECUÇÃO FUNDADA EM TÍTULO EXECUTIVO FORMADO EM AÇÃO COLETIVA AJUIZADA POR ASSOCIAÇÃO. DESNECESSIDADE DE APRESENTAÇÃO DE AUTORIZAÇÃO INDIVIDUAL PELOS ASSOCIADOS. TEMA 82 DO STF. INAPLICABILIDADE. TÍTULO EXEQUENDO TRANSITADO EM JULGADO EM DATA ANTERIOR À DATA DE JULGAMENTO DO RE 573.232/SC, COM REPERCUSSÃO GERAL. PRECEDENTE DESTE TRF1. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. MANTIDO O ACÓRDÃO PROFERIDO NOS EMBARGOS À EXECUÇÃO.
+
+    1. A questão objeto do juízo de retratação diz respeito à possibilidade de execução de título judicial, decorrente de ação ordinária coletiva ajuizada por entidade associativa, por exequentes que não eram associados à época do ajuizamento da ação de conhecimento e, portanto, não apresentaram autorização individual e tampouco figuraram em relação nominal juntada à inicial do referido processo.
+
+    2. O Supremo Tribunal Federal, no julgamento do RE 573.232/SC, em regime de repercussão geral, firmou as seguintes teses: I - A previsão estatutária genérica não é suficiente para legitimar a atuação, em Juízo, de associações na defesa de direitos dos filiados, sendo indispensável autorização expressa, ainda que deliberada em assembleia, nos termos do artigo 5º, inciso XXI, da Constituição Federal; II - As balizas subjetivas do título judicial, formalizado em ação proposta por associação, são definidas pela representação no processo de conhecimento, limitada a execução aos associados apontados na inicial (Tema 82, Tribunal Pleno, Redator do acórdão Min. Marco Aurélio, DJe 19/09/2014).
+
+    3. No caso concreto, o acórdão proferido na ação de conhecimento, que embasa a presente execução, transitou em julgado em data anterior à data de alteração da jurisprudência, no âmbito do STF, com repercussão geral.
+
+    4. Não está configurada, portanto, a alegada dissonância do acórdão recorrido com o Tema 82 do STF.
+
+    5. A referida compreensão da matéria se harmoniza com precedente deste TRF1 no sentido de que ‘em que pese o posicionamento externado pela Suprema Corte, o precedente não deve ser aplicado ao caso, sob pena de violar a coisa julgada material constituída na fase de conhecimento, que se formou antes do entendimento vinculante’ (AC 0022516-48.2011.4.01.3400, Primeira Turma, Rel. Des. Fed. Marcelo Velasco Nascimento Albernaz, PJe 15/05/2024).
+
+    6. Sob esse enfoque, o acórdão recorrido merece ser mantido por seus próprios fundamentos.
+
+    7. Juízo de retratação não exercido” (fl. 12, e-doc. 52).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    4. Razão jurídica não assiste à recorrente.
+
+    Consta do acórdão recorrido que a controvérsia foi dirimida com fundamento nos elementos de prova juntados aos autos e na legislação infraconstitucional aplicável à espécie.
+
+    No julgamento do Recurso Extraordinário n. 573.232, Tema 82 da repercussão geral, Redator para o acórdão o Ministro Marco Aurélio, este Supremo Tribunal concluiu ser indispensável autorização expressa para legitimar a atuação de associação na defesa de direitos dos filiados, sendo a execução limitada àqueles referidos na inicial (DJe 19.9.2014).
+
+    No caso, embora a União alegue que “não figura no título executivo como devedora, mister se afastar a violação ao art. 5º, XXXVI, da CRFB/88, reconhecendo-se a ilegitimidade passiva da embargante para a execução ou a inexigibilidade do titulo em face da União por inexistência de título, restaurando-se o respeito à coisa julgada formalizada” (fl. 8, e-doc. 38), tem-se pelo acórdão recorrido, sobre a alegada ilegitimidade, que o Tribunal de origem ressaltou a circunstância de que, “no tocante à alegação de ilegitimidade ativa da associação, não assiste razão à União, uma vez que a ação de conhecimento (AO 92.0004188-4), transitada em julgado, apreciou e afastou a referida preliminar, ficando, pois, superada qualquer discussão neste sentido” (fl. 2, e-doc. 28).
+
+    Em juízo de retratação negativo, o Tribunal de origem reconheceu que “o título judicial assegurado à ANFIP conferiu-lhe legitimidade para ajuizar a ação coletiva na defesa dos interesses de seus filiados, independentemente de autorização individual ou de relação de associados” e que, “no TRF1, o acórdão que manteve a sentença proferida na ação de conhecimento transitou em julgado em 18/07/2012”, concluindo que, ”nessa perspectiva, considerando que a data do trânsito em julgado do título executivo que embasa a presente execução é anterior à data de alteração da jurisprudência, no âmbito do STF, com repercussão geral, que reconheceu ser indispensável a autorização expressa do associado para que a associação possa representá-lo em juízo, não há que se falar em dissonância do acórdão recorrido com o Tema 82 do STF” (fl. 8, e-doc. 52).
+
+    Na espécie vertente, para rever o entendimento do acórdão recorrido e, eventualmente, alterar a conclusão do Tribunal de origem, seria necessário reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 deste Supremo Tribunal. Assim, por exemplo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. APLICABILIDADE DO TEMA 82 DA REPERCUSSÃO GERAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. 1. O Plenário do SUPREMO TRIBUNAL FEDERAL, no RE 573.232 (Rel. Min. RICARDO LEWANDOWSKI, Relator para o Acórdão Min. MARCO AURÉLIO, Tema 82), fixou tese no sentido de que: ‘I– A previsão estatutária genérica não é suficiente para legitimar a atuação, em Juízo, de associações na defesa de direitos dos filiados, sendo indispensável autorização expressa, ainda que deliberada em assembleia, nos termos do artigo 5º, inciso XXI, da Constituição Federal; II – As balizas subjetivas do título judicial, formalizado em ação proposta por associação, são definidas pela representação no processo de conhecimento, limitada a execução aos associados apontados na inicial.’ 2. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta CORTE. 3. Agravo Interno a que se nega provimento” (ARE n. 1.280.168-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 14.6.2021).
+
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO DE SENTENÇA CONDENATÓRIA GENÉRICA PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA POR ASSOCIAÇÃO. LEGITIMIDADE ATIVA. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A presente demanda consiste em execução individual de sentença proferida em ação civil pública. O recurso extraordinário suscita a ilegitimidade ativa dos exequentes, ao argumento de que não deram autorização individual e específica à associação autora da demanda coletiva para os representarem no processo de conhecimento, tampouco demonstraram sua condição de associados. Alega-se ofensa ao art. 5º, XXI e XXXVI, da Constituição, bem como ao precedente do Plenário do Supremo Tribunal Federal formado no julgamento do RE 573.232/SC. 2. Ocorre que, conforme atestaram as instâncias ordinárias, no dispositivo da sentença condenatória genérica proferida no processo de conhecimento desta ação civil pública, constou expressamente sua aplicabilidade a todos os poupadores do Estado de Santa Catarina. Assim, o fundamento da legitimidade ativa para a execução, no caso, dispensa exame sobre a necessidade de autorização das associações para a representação de seus associados. Em verdade, o que está em jogo é questão sobre limites da coisa julgada, matéria de natureza infraconstitucional cuja repercussão geral, inclusive, já foi rejeitada por esta Corte em outra oportunidade (ARE 748.371-RG, Rel. Min. GILMAR MENDES, DJe de 1º/8/2013). 3. Outrossim, ao tratar dos limites subjetivos de sentença condenatória genérica proferida nos autos de ação civil pública ajuizada por associação, o Tribunal de origem valeu-se de disposições da Lei 7.347/85 e do Código de Defesa do Consumidor, cujo exame é inviável em recurso extraordinário. 4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 5. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (ARE n. 901.963-RG/SC, Relator o Ministro Teori Zavascki, Plenário, DJe 16.9.2015).
+
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. INEXEQUIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. ARTIGO 741, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE. DECRETO-LEI 2.284/1986. CARÁTER NACIONAL. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. O art. 741, parágrafo único do CPC somente incide em leis ou atos normativos, cuja inconstitucionalidade seja declarada expressamente em controle concreto ou, quando do controle abstrato, sua eficácia for suspensa pelo Senado. 2. Os princípios da ampla defesa, do contraditório, do devido processo legal e dos limites da coisa julgada, quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 748.371, da Relatoria do Min. Gilmar Mendes. 3. In casu, o acórdão recorrido assentou: (...). 4. Agravo regimental DESPROVIDO” (ARE n. 786.166-AgR-segundo, Relator o Ministro Luiz Fux, Primeira Turma, DJe 23.9.2014).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO. LEGITIMIDADE. ASSOCIAÇÃO E ASSOCIADOS. MOMENTO PROCESSUAL ADEQUADO PARA IMPUGNAÇÃO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. DIREITO FINANCEIRO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA. FUNDEF/FUNDEB. DIFERENÇAS. RETENÇÃO PARA PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE DE MAJORAÇÃO DA VERBA SUCUMBENCIAL NESTA SEDE RECURSAL. OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NOS PARÁGRAFOS 2º e 3º DO ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.130.767-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 24.3.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO, DA PRESTAÇÃO JURISDICIONAL E DOS LIMITES DA COISA JULGADA. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). CONTROVÉRSIA SOBRE OS LIMITES SUBJETIVOS DE SENTENÇA CONDENATÓRIA GENÉRICA TRANSITADA EM JULGADO PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA POR ASSOCIAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 848). AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I Não há falar em violação do art. 97 da Constituição Federal quando o Tribunal de origem não declara a inconstitucionalidade de norma nem afasta sua aplicabilidade com apoio em fundamentos extraídos da Constituição. II O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa à Constituição Federal. III Os Ministros desta Corte, no ARE 901.963-RG/RS (Tema 848 da Repercussão Geral), de relatoria do Ministro Teori Zavascki, manifestaram-se pela inexistência de repercussão geral da controvérsia referente aos limites subjetivos de sentença condenatória genérica transitada em julgado proferida em ação civil pública ajuizada por associação, por entenderem que a discussão possui natureza infraconstitucional. IV Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (RE n. 1.216.906-AgR/SC, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 12.3.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO. FUNDEF. LEGITIMIDADE. QUESTÃO RESOLVIDA NO MOMENTO PROCESSUAL OPORTUNO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.407.565-AgR, de minha relatoria, Primeira Turma, DJe 14.3.2023).
+
+    5. Quanto à pretensa afronta ao inc. XXXVI do art. 5º da Constituição da República, não procedem os argumentos da recorrente. Este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, dos limites da coisa julgada, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais, Tema 660:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371-RG, Relator o Ministro Gilmar Mendes, Plenário, DJe 1º.8.2013).
+
+    Este Supremo Tribunal Federal firmou orientação no sentido de que o Tema 660 da repercussão geral aplica-se também quando o recorrente alega afronta à coisa julgada, ao direito adquirido e ao ato jurídico perfeito, mas o Tribunal de origem decide a controvérsia com fundamento na interpretação da legislação infraconstitucional. Assim, por exemplo:
+
+    “O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional” (RE n. 1.263.092-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 8.6.2020).
+
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+    Nada há a prover quanto às alegações da recorrente.
+
+    6. Pelo exposto, nego provimento ao recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios, majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 1º de junho de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
