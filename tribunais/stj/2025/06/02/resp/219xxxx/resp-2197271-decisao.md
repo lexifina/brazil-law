@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 335/336):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO MAIOR. INVALIDEZ PREEXISTENTE AO ÓBITO DOS INSTITUIDORES. CONDIÇÃO DE DEPENDENTE PRESUMIDA. CUMULAÇÃO DE PENSÃO POR MORTE E APOSENTADORIA POR INVALIZ. PROCEDÊNCIA DO PEDIDO. DESPROVIMENTO DO RECURSO.
+1. Apelação interposta pelo INSS, em face da sentença que julgou procedente o pedido, para condenar o INSS a conceder ao autor o benefício de pensão por morte, na condição de filho maior inválido da segurada/genitora e do segurado/genitor, com o recebimento das pensões pretendidas, desde a data do falecimento de seu genitor, em 06/04/2017 e desde a data do requerimento administrativo em 07/06/2017 em relação a mãe, conforme dispõe art. 74, I e 11da Lei nº. 8.213/1991.
+2. A controvérsia cinge-se na verificação de inexistência de invalidez antes da maioridade do autor, bem como ausência de dependência econômica de filho maior inválido em relação aos pais, posto que recebia aposentadoria por invalidez.
+3. O art. 16 da Lei nº 8213/91 indica quem são os dependentes do segurado, relacionando no inciso I, "o cônjuge, a companheira, o companheiro, e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido", sendo que a dependência econômica dessas pessoas é presumida, a teor do § 4º do mencionado artigo (redação anterior à Lei 13.146/2015).
+4. A verificação dos requisitos para aquisição do direito ao benefício de pensão por morte deve ocorrer no momento do óbito do instituidor da pensão. Portanto, não procede a alegação acerca da exigência da comprovação da invalidez antes de atingida a maioridade, sendo irrelevante se surgiu antes ou após a chegada da maioridade, desde que tenha surgido antes do óbito do segurado. Precedente.
+5. Vedações legais para a acumulação de benefícios da Previdência Social estão previstas taxativamente no rol do artigo 124, da Lei nº. 8213/91, e fazer qualquer interpretação extensiva é violar o princípio da legalidade estrita a que está vinculada a recorrente, configurando uma interpretação contra legem.
+6. Sentença a quo deve ser mantida em sua integralidade, tendo em vista que a incapacidade do recorrido restou comprovado nos autos, tendo em vista que o autor já recebia o beneficio de aposentadoria por invalidez, desde 20/01/1988, sendo assim tal fato reconhecido pela própria autarquia ao conceder o mencionado benefício.
+7. Configurada a invalidez do dependente em momento anterior ao óbito dos instituidores e a presunção de dependência econômica, deve ser concedido os benefícios de pensão por morte e a manutenção da aposentadoria por invalidez, diante da ausência de vedação legal para a acumulação prevista do artigo 124, da Lei nº. 8213/91.
+8. Juros e correção monetária a incidir no cálculo das parcelas em atraso devem observar a forma prevista no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, que já contempla as orientações firmadas nos Temas nº 810 do STF e 905 do STJ. Honorários recursais (§11 do art. 85 do CPC), em percentual a ser fixado por ocasião da liquidação do julgado, consoante o § 4º, II do art. 85 do CPC.
+9. Apelação desprovida, e, de ofício, retificada a sentença em relação aos índices aplicáveis ao pagamento dos valores atrasados e aos honorários advocatícios sucumbenciais.
+Os embargos de declaração opostos foram rejeitados nestes termos (fls. 376/377):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. RENDA PRÓPRIA. PRESUNÇÃO DE DEPENDÊNCIA. OMISSÃO NÃO CONFIGURADA. REEXAME DE MATÉRIA. MULTA POR EMBARGOS PROTELATÓRIOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos pelo INSS contra acórdão que reconheceu a dependência econômica do embargado, filho maior inválido, em relação aos seus pais falecidos, e concedeu o benefício de pensão por morte desde a data do óbito do genitor e desde o requerimento administrativo em relação à genitora. O embargante alega omissão no acórdão quanto à impossibilidade de concessão do benefício ao filho inválido que possui renda própria, no caso, aposentadoria por invalidez.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se há omissão no acórdão quanto à alegada incompatibilidade entre a percepção de renda própria, por meio de aposentadoria por invalidez, e a dependência econômica para fins de concessão de pensão por morte ao filho maior inválido.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração têm a finalidade de sanar omissão, contradição, obscuridade ou corrigir erro material, conforme o art. 1.022 do CPC. No caso, não há omissão no acórdão embargado, pois este já abordou expressamente a questão da cumulação da aposentadoria por invalidez com a pensão por morte.
+4. O acórdão reconheceu que a dependência econômica do filho maior inválido é presumida por lei, nos termos do art. 16, §4º, da Lei 8.213/91, e que a percepção de aposentadoria por invalidez não afasta essa dependência. Não há vedação legal para a acumulação dos benefícios de pensão por morte e aposentadoria por invalidez, conforme art. 124 da Lei 8.213/91.
+5. O embargante busca, na verdade, o reexame da matéria, o que não é cabível em sede de embargos de declaração. Dessa forma, não há qualquer vício no acórdão que justifique o acolhimento dos embargos.
+6. A oposição de embargos com o propósito de rediscutir o mérito da decisão configura intuito protelatório, justificando a aplicação de multa prevista no art. 1.026, §2º, do CPC.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC.
+Tese de julgamento:
+1. A percepção de aposentadoria por invalidez não afasta a presunção de dependência econômica do filho maior inválido, para fins de concessão de pensão por morte, nos termos do art. 16, §4º, da Lei 8.213/91.
+2. Embargos de declaração não constituem via adequada para rediscutir o mérito da decisão, sendo cabíveis apenas para sanar omissão, contradição, obscuridade ou erro material. A tentativa de rediscutir matéria já decidida pode ensejar a aplicação de multa por caráter protelatório, conforme o art. 1.026, §2º, do CPC.
+Dispositivos relevantes citados: CPC, arts. 1.022 e 1.026, §2º; Lei 8.213/91, arts. 16, §4º e 124.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no REsp 862581/SP, Rel. Min. Napoleão Nunes Maia Filho, DJe 22/06/2015; STJ, AGA 940040, Rel. Min. Raul Araújo, DJe 20/09/2013.
+Nas razões de seu recurso, a parte recorrente aponta ofensa aos seguintes dispositivos legais:
+(1) art. 1.022, II, do Código de Processo Civil (CPC), ao fundamento de que o acórdão recorrido deixou de abordar todas as questões jurídicas e fático-probatórias indispensáveis à admissão e ao julgamento do recurso especial;
+(2) arts. 16, I e § 4º, 74 e 77, § 2º, II, da Lei 8.213/1991, visto que a concessão de pensão por morte a filho maior inválido que possui renda própria é indevida, pois não há dependência econômica em relação ao falecido;
+(3) art. 1.026, § 2º, do Código de Processo Civil porque os embargos de declaração opostos na origem não possuem caráter protelatório, sendo descabida a multa processual (fls. 386/392).
+A parte adversa não apresentou contrarrazões (fls. 394/396)
+O recurso foi admitido (fl. 402).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.341), e foi assim delimitada:
+"Definir se o filho maior inválido com renda auferida da concessão de benefício previdenciário pode receber o benefício de pensão por morte" (REsps 2.168.455/SP e 2.168.454/SP, relator Ministro Afrânio Vilela).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
