@@ -1,0 +1,5 @@
+Artigo 36-A - Compete aos titulares dos cargos de Secretário Executivo de que trata o artigo 11 da Lei n.° 16.923, de 7 de janeiro de 2019, no âmbito da respectiva Secretaria de Estado: (NR)
+I - responder pelo expediente da Secretaria nos impedimentos legais e temporários, bem como ocasionais, do Titular da Pasta; (NR)
+II - assessorar o Secretário no exercício de suas atribuições institucionais; (NR)
+III - representar o Secretário, quando for o caso, junto a autoridades e órgãos; (NR)
+IV - desempenhar outras atribuições que lhes forem conferidas por lei, decreto ou resolução, desde que compatíveis com a natureza do cargo. (NR)
