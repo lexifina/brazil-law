@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BUNGE ALIMENTOS S.A. contra acórdão proferido pelo Tribunal de origem assim ementado:
+REINTEGRAÇÃO DE POSSE IMÓVEL - ALIENAÇÃO FIDUCIÁRIA INADIMPLEMENTO DO FIDUCIANTE CONSOLIDAÇÃO DA PROPRIEDADE NAS MÃOS DO CREDOR FIDUCIÁRIO PENDÊNCIA DE DEMANDAS QUESTIONANDO A CONSTITUIÇÃO EM MORA E LICITUDE DO PROCEDIMENTO EXTRAJUDICIAL VOLTADO À EXCUSSÃO DA GARANTIA FIDUCIÁRIA ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA REJEITADA ESSENCIALIDADE DO BEM RECONHECIDA NO JUÍZO UNIVERSAL E MANTIDA EM TRIBUNAL SUPERIOR NECESSIDADE DE SUSPENSÃO DOS ATOS DE RETOMADA LIMINAR DA POSSE RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 489, §1º, IV, e 1.022, II, ambos do Código de Processo Civil/2015.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso está prejudicado.
+Consta no sítio eletrônico do Tribunal de origem que a ação foi julgada procedente, tornando-se definitiva a liminar deferida. Confira-se:
+Ante o exposto, JULGO PROCEDENTE a ação, proposta por BUNGE ALIMENTOS S/A em face de CAMPOFERT COMÉRCIO INDÚSTRIA EXPORTAÇÃO E IMPORTAÇÃO LTDA. EM RECUPERAÇÃO JUDICIAL, para: i) reintegrar em caráter permanente os imóveis de matrículas nº 7.630 e 7.631 do CRI de Guaíra-SP de à autora, tornando definitiva a liminar deferida; ii) condenar a requerida à ressarcir à autora os valores devidos à título de encargos legais, tais como tributos, desde que se tornou possuidora de má-fé (data da consolidação da propriedade dos imóveis) até a data da efetiva desocupação, com correção monetária pela Tabela Prática do E. Tribunal de Justiça do Estado de São Paulo, e incidência de juros moratórios de 1% ao mês, ambos a partir dos respectivos vencimentos; iii) condenar a ré ao pagamento, em favor da autora, de taxa de ocupação fixada em 1% do valor atribuído ao imóvel no contrato (fls. 472), nos termos do art. 37-A, da Lei no 9.514/97, pela ocupação indevida, a partir da consolidação da propriedade fiduciária, com correção monetária pela Tabela Prática do E. Tribunal de Justiça do Estado de São Paulo, e incidência de juros moratórios de 1% ao mês, ambos contados da notificação extrajudicial para desocupação. Por conseguinte, extingo o feito com resolução do mérito, com fundamento no art. 487, inciso I, do Código de Processo Civil
+Nos termos da jurisprudência desta Corte, a prolação de sentença de mérito nos autos principais enseja, como regra, a absorção dos efeitos das decisões que a antecederam, prejudicando o exame do recurso especial interposto contra decisões interlocutórias. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE DECISÃO DE MÉRITO. PERDA DE OBJETO DO RECURSO. RECURSO ESPECIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Em recurso especial, insurge-se a Associação dos Amigos de Itatiaia contra acórdão do Tribunal Regional da 2ª Região, que, em análise de agravo de instrumento, manteve a decisão de 1º grau que negou deferimento a tutela de urgência.
+3. Compulsando a movimentação dos autos na origem, verificou-se que, após a publicação da decisão agravada, houve prolação de sentença de mérito.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, a prolação de sentença de mérito nos autos principais, enseja, como regra, a absorção dos efeitos das decisões que a antecederam, prejudicando o exame do recurso especial interposto contra decisões interlocutórias. Precedentes.
+5. Agravo interno e recurso especial prejudicados.
+(AgInt no AREsp n. 2.420.033/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. LIQUIDAÇÃO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. ESBULHO. PROBABILIDADE DO DIREITO NÃO EVIDENCIADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. MEDIDA LIMINAR. REQUISITOS. SÚMULA N. 735 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SUPERVENIÊNCIA DE SENTENÇA NO PROCESSO ORIGINÁRIO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+ ..
+8. A jurisprudência desta Corte Superior firmou entendimento no sentido de que, em regra, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento de decisão que defere ou indefere liminar ou antecipação de tutela, quando se verifica a prolação da sentença de mérito. (AgInt no AREsp n. 1.885.685/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/9/2021, DJe de 27/9/2021).
+III. Dispositivo 9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.670.470/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Com isso, forçoso reconhecer a falta de interesse no julgamento do presente recurso.
+Em face do exposto, nos termos do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
