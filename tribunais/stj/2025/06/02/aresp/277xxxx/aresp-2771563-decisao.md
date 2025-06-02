@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial, com pedido de efeito suspensivo, interposto por DOURADOS EMPREENDIMENTOS IMOBILIARIOS LTDA e SP 30 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/09/2024.
+Concluso ao gabinete em: 20/12/2024.
+Ação: declaratória cumulada com obrigação de fazer e indenização por danos morais, em fase de cumprimento de sentença, movida por MAGDA DA SILVA MEIRELES em face de DOURADOS EMPREENDIMENTOS IMOBILIARIOS LTDA e SP 30 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL.
+Sentença: rejeitou a impugnação à penhora apresentada pelas agravantes e declarou extinta a execução.
+Acórdão: negou provimento à apelação interposta pelas agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA. BLOQUEIO DE VALORES EM CONTA BANCÁRIA. PRINCÍPIO DA EXECUÇÃO MENOS GRAVOSA. ORDEM PREFERENCIAL DE PENHORA. ARTIGOS 805 E 835 DO CPC. FATURAMENTO DA EMPRESA. IMPACTO FINANCEIRO. AUSÊNCIA DE PROVAS. DESPROVIMENTO DO RECURSO. SENTENÇA MANTIDA. AUSÊNCIA DE HONORÁRIOS SUCUMBENCIAIS FIXADOS NA ORIGEM. HONORÁRIOS RECURSAIS DESCABIDOS. PEDIDO DE EFEITO SUSPENSIVO PREJUDICADO. 1. Há óbice ao conhecimento de pedido de atribuição de efeito suspensivo à apelação quando não deduzido adequada e oportunamente, por meio de petição em apartado, com requerimento específico dirigido ao relator da apelação (art. 1.012, §§ 3o e 4o, CPC), além de restar prejudicado pelo julgamento do recurso. 2. É dever da parte que impugna a penhora de valores depositados em conta bancária apresentar provas documentais que demonstrem o impacto financeiro alegado, como declarações fiscais, extratos bancários e folhas de pagamento, dentre outras, o que sequer fora observado no caso concreto. 3. A simples alegação de que a penhora compromete a continuidade das atividades empresariais, sem o devido suporte probatório, não é suficiente para afastar a prioridade da penhora sobre dinheiro, conforme estabelece o artigo 835, inciso I, do Código de Processo Civil. 4. O princípio da menor onerosidade ao devedor deve ser observado, desde que não prejudique o direito do credor à satisfação do crédito e esteja devidamente comprovada a necessidade de medida menos gravosa, o que não ocorreu no presente caso. 5. A majoração dos honorários advocatícios nas instâncias recursais está condicionada à prévia fixação no juízo de primeiro grau, conforme disposto no artigo 85, § 11, do Código de Processo Civil. Face a ausência da condenação, não há falar em majoração em grau recursal. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA. (e-STJ fl. 481)
+Recurso especial: alega violação dos arts. 805, 835 e 865 do CPC. Sustenta que a penhora realizada compromete a continuidade das atividades da empresa e viola o princípio da menor onerosidade. Aduz que a penhora recai sobre valor que faz parte do faturamento da empresa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/GO, ao analisar o recurso interposto pelas agravantes, concluiu o seguinte (e-STJ fl. 486):
+No caso concreto, o valor bloqueado que, supostamente constitui parte do faturamento da empresa, não foi comprovado pela Apelante.
+A Dourados Empreendimentos Imobiliários Ltda. (Executada/Apelante) não anexou provas documentais específicas para comprovar as alegações de que o valor bloqueado comprometería o pagamento de funcionários ou a continuidade das atividades empresariais.
+As provas que seriam esperadas, como declarações de Imposto de Renda de Pessoa Jurídica (IRPJ), folhas salariais ou extratos bancários, entre outras, não foram apresentadas no curso da execução, quando impugnou o cumprimento de sentença (mov. 68), tampouco quando impugnou a penhora e sequer nesta instância recursal com a interposição da apelação, limitando-se suas alegações ao impacto significativo nas operações empresariais.
+A falta dessas provas impede a verificação concreta do prejuízo alegado e compromete a credibilidade das afirmações da apelante.
+Desse modo, alterar o decidido no acórdão impugnado, quanto à ausência de comprovação do prejuízo alegado pela parte recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória cumulada com obrigação de fazer e indenização por danos morais, em fase de cumprimento de sentença.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
