@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 18ª VARA CÍVEL DE SÃO PAULO (SP) e o JUÍZO DA 33ª VARA DO TRABALHO DE SÃO PAULO (SP), para definir a competência para processar e julgar reclamação trabalhista ajuizada por CRISTIANE PINO ALVES DE SOUZA em desfavor de S/A O ESTADO DE SÃO PAULO, objetivando o reconhecimento de vínculo empregatício e a condenação do reclamado ao pagamento das verbas trabalhistas.
+O JUÍZO DA 33ª VARA DO TRABALHO DE SÃO PAULO, no qual a ação foi proposta, com fundamento no Tema n. 725 do STF, declinou da competência e determinou a remessa dos autos à Justiça comum (fls. 491-493).
+O JUÍZO DE DIREITO DA 18ª VARA CÍVEL DE SÃO PAULO, por sua vez, suscitou o presente conflito (fl. 500).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo da 33ª Vara do Trabalho de São Paulo, o suscitado, para processar e julgar a demanda (fls. 510-516).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Segundo a iterativa jurisprudência desta Corte, a definição da competência em razão da matéria está adstrita à natureza jurídica da demanda, definida em função do pedido e da causa de pedir deduzidos em juízo.
+No caso, a pretensão veiculada na inicial (fl. 10-38) - reclamação trabalhista -, por sua natureza, está lastreada em uma discussão a respeito da relação de trabalho, mas fundamentada essencialmente na alegação de reconhecimento do vínculo empregatício e na condenação ao pagamento das verbas trabalhistas.
+Assim, a controvérsia cinge-se a definir o órgão competente para apreciar ação que se baseia na alegação de desvirtuamento do contrato de natureza autônoma mantido com S/A O Estado de São Paulo, objetivando a parte autora o reconhecimento, em seu lugar, de vínculo empregatício. A propósito, o Juízo suscitado destaca o seguinte (fl. 492):
+O c. STF, em reiteradas decisões proferidas em reclamações constitucionais, tem afastado a competência desta Justiça Especializada para apreciar e julgar a matéria, por entender que, a contratação entre pessoas jurídicas, está sob a égide das normas de direito privado, relacionando-se, assim, com a matéria tratada no Tema 725 e na ADC 48/DF e ADI 5.625/DF, ainda que sociedade unipessoal e na prestação de serviços vinculados à atividade fim da empresa.
+Esta Corte já decidiu sobre a matéria, entendendo que, nessa hipótese, o deslinde da questão necessita, no âmbito da Justiça comum, da análise prévia da alegação de fraude no negócio vigente entre as partes para, posteriormente, ensejar a análise pela Justiça especializada.
+N ão há como reconhecer a caracterização de relação de emprego sem antes verificar a validade ou não do contrato de prestação de serviços do qual a parte autora participou como contratada.
+Assim, a causa de pedir está fundada na existência de má-fé da empresa na entabulação do contrato originário, de modo que é inviável decidir o pleito principal de reconhecimento de vínculo empregatício sem adentrar a causa de pedir deduzida na ação.
+Feitas essas considerações, impõe-se o reconhecimento da competência da Justiça comum estadual para processar e julgar a presente demanda, pois, apenas após reconhecido eventual vício de consentimento ou social, com a consequente anulação do negócio jurídico preexistente, é que haverá a possibilidade de se pleitear, na Justiça do Trabalho, o reconhecimento do alegado vínculo empregatício.
+A propósito, confira-se o seguinte precedente: AgInt no CC n. 191.676/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/3/2023, DJe de 13/3/2023.
+No mesmo sentido, as seguintes decisões monocráticas: CC n. 208.944/MG, relatora Ministra Nancy Andrighi, DJe de 12/11/2024; CC n. 205.029/SP, relator Ministro Antonio Carlos Ferreira, DJe de 29/5/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 18ª Vara Cível de São Paulo (SP ) , o suscitante.
+Publique-se. Intimem-se.
+EMENTA
