@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto por SINDICATO DOS OPERADORES PORTUÁRIOS DO ESTADO DO PARANÁ com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 328/329):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SINDICATO DOS OPERADORES PORTUÁRIOS DO ESTADO DO PARANÁ. MULTA. TEMA 473 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+- Não prospera a tese brandida no agravo no sentido de que inexistente título executivo judicial a embasar o cumprimento provisório porque faltaria específica decisão por parte do Juízo Estadual reconhecendo o descumprimento da medida liminar, uma vez que descumprimento é fato, e seu reconhecimento, mesmo na rejeição de impugnação, se presta a caracterizar esse pressuposto de incidência da astreinte, daí advindo a consequência jurídica.
+- Não obstante, certo é que nos autos em que deferida a tutela de urgência e cominada a multa não foi proferida sentença, pelo que descabida a deflagração de cumprimento provisório, na linha da orientação adotada pelo Superior Tribunal de Justiça.
+- O Superior Tribunal de Justiça fixou a tese (Tema 743) de que a multa diária prevista no § 4º do art. 461 do CPC, devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo.
+- Por outro lado, se é que não se pode afirmar no caso concreto não ter havido determinação na decisão proferida em 13.06.2017 (evento 93, PROCJUDIC123, p. 86 e ss dos autos nº 5000750-31.2016.4.04.7008) para depósito do quanto já havia sido cobrado após as alterações promovidas pela APPA (em razão da fixação da nova estrutura tarifária decorrente das Resoluções ANTAQ nº 4093/2015 e nº 5191/2017 - que teria, no seu entendimento, esgotado o objeto da medida liminar concedida anteriormente), a confirmar a alegada voluntariedade do depósito efetuado, não se pode, por outro lado, negar que no mínimo o quadro estabelecido gerou dúvida.
+- Com efeito, não foi clara a concessão de efeitos ex tunc à decisão que determinou o restabelecimento do desmembramento dos valores, muito menos para o fim de restituir valores. No contexto esta conclusão até seria a mais coerente, mas sua dedução dos termos da decisão não parece evidente.
+- Existente alguma dúvida, o fato de a devolução dos valores ter ocorrido em tempo que pode ser considerado razoável -até considerando a complexidade dos procedimentos, bem demonstrada pelas dificuldades que a CEF vem tendo no que toca à prestação de informações sobre os depósitos-, e sem causar qualquer prejuízo efetivo aos substituídos, não infirma a presunção de boa-fé, nem configura intuito deliberado descumprir decisão judicial.
+- Provimento do agravo de instrumento.
+Os embargos de declaração opostos foram acolhidos com efeitos modificativos para afastar a aplicação das astreintes e extinguir o cumprimento provisório de sentença (fls. 372/373).
+A parte recorrente alega violação dos arts. 537, §§ 3º e 4º, 489, § 1º, VI, 1.022, I e II, 1.009, e 85, §§ 2º e 8º, todos do Código de Processo Civil (CPC).
+Sustenta que o Tribunal de origem contrariou o art. 537, §§ 3º e 4º, ao não permitir a execução provisória das astreintes antes da confirmação por sentença de mérito, alegando superação do Tema 743 do Superior Tribunal de Justiça (STJ).
+Aponta a ocorrência de afronta ao art. 489, § 1º, VI, por falta de fundamentação adequada ao aplicar o Tema 743.
+Argumenta que o art. 1.022 foi inobservado, pois no acórdão recorrido há contrariedade e omissão quanto à superação do Tema 743 pelo CPC atual.
+Alega supressão de instância e ofensa ao art. 1.009, ao extinguir o cumprimento provisório de sentença, impedindo recurso de apelação (fls. 406/407).
+Contesta a condenação em honorários de sucumbência, alegando violação ao art. 85, §§ 2º e 8º, por não aplicar critério equitativo.
+Declara, ainda, a existência de divergência jurisprudencial às fls. 409/414.
+Contrarrazões apresentadas às fls. 577/601.
+O recurso foi admitido na origem (fls. 607/609).
+É o relatório.
+Na origem, trata-se de agravo de instrumento interposto por ADMINISTRAÇÃO DOS PORTOS DE PARANAGUÁ E ANTONINA (APPA), de decisão que rejeitou a impugnação oposta ao cumprimento de sentença.
+O Tribunal de origem deu provimento ao agravo de instrumento da APPA, ao fundamento de que "certo é que nos autos em que deferida a tutela de urgência e cominada a multa não foi proferida sentença, pelo que descabida a deflagração de cumprimento provisório, na linha da orientação adotada pelo Superior Tribunal de Justiça" (fl. 338).
+Verifico que o acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça (STJ), fixada no sentido de que o CPC atual não modificou o entendimento de que a multa diária (astreinte) somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo.
+A propósito, confira-se a ementa dos EAREsp 1.883.876/RS:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ASTREINTES. TUTELA DE URGÊNCIA CONFIRMADA EM SENTENÇA POSTERIORMENTE ANULADA. CUMPRIMENTO PROVISÓRIO. NECESSIDADE DE CONFIRMAÇÃO DA MULTA COMINATÓRIA POR SENTENÇA DEFINITIVA DE MÉRITO. TRAMITAÇÃO INADEQUADA DA EXECUÇÃO PROVISÓRIA. INEXISTÊNCIA DE TÍTULO EXECUTIVO.
+1. A Corte Especial, em âmbito de recurso repetitivo - REsp n. 1.200.856/RS, Relator Ministro Sidnei Beneti -, entendeu que a "multa diária prevista no § 4º do art. 461 do CPC  1973 , devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo".
+2. Não houve modificação desse entendimento com o advento do novo Código de Processo Civil.
+3. Com efeito, a eficácia e a exigibilidade da multa não se confundem, sendo imediata a produção de efeitos das astreintes, devidas desde a fixação pelo juízo, porém com a exigibilidade postergada para após o trânsito em julgado da sentença de mérito que confirmar a medida.
+4. Ademais, o novo Código de Processo Civil (Lei n. 13.105, de 16 de março de 2015) não dispensou a confirmação da multa (obrigação condicional) pelo provimento final (art. 515, I).
+5. Assim, no caso, é inviável o cumprimento provisório das astreintes, pois estas não foram ainda confirmadas pela sentença final de mérito.
+6. Embargos de divergência conhecidos e não providos.
+(EAREsp n. 1.883.876/RS, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 23/11/2023, DJe de 7/8/2024.)
+A parte recorrente opôs embargos de declaração na origem com estes argumentos: (1) ao reconhecer a voluntariedade do depósito efetuado, o acórdão recorrido foi contraditório, pois a APPA realizou o depósito tão somente em decorrência da imposição judicial; (2) houve outra contradição no acórdão recorrido, pois os efeitos ex tunc da decisão do Juízo de primeiro grau é uma consequência lógica do próprio teor da decisão, que determinou o desmembramento das faturas já emitidas; (3) por fim, o acórdão recorrido foi omisso, pois não houve pronunciamento sobre a superação do Tema 743/STJ.
+Ao apreciar o recurso integrativo, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO decidiu o seguinte (fls. 366/367):
+No ponto, analisando a decisão que deferiu a tutela antecipada, além das subsequentes manifestações das parte e os demais pronunciamentos do juízo de origem, chegou-se à seguinte conclusão (evento 21 - RELVOTO2):
+(..)pende discussão sobre ter ou não ocorrido o integral cumprimento imediato do decisum liminar.
+Reputou a decisão agravada que o juízo estadual foi claro ao ordenar o depósito das quantias referentes às faturas unificadas.
+Tenho, porém, procede a alegação de que no mínimo existe de dúvida.
+(..)
+Considerando este quadro, se é que não se pode afirmar não ter havido determinação na decisão proferida em 13.06.2017 (evento 93, PROCJUDIC123, p. 86 e ss dos autos nº 5000750-31.2016.4.04.7008) para depósito do quanto já havia sido cobrado após as alterações promovidas pela APPA (em razão da fixação da nova estrutura tarifária decorrente das Resoluções ANTAQ nº 4093/2015 e nº 5191/2017 - que teria, no seu entendimento, esgotado o objeto da medida liminar concedida anteriormente), a confirmar a alegada voluntariedade do depósito efetuado, não se pode, por outro lado, negar que no mínimo o quadro estabelecido gerou dúvida.
+Com efeito, não foi clara a concessão de efeitos ex tunc à decisão que determinou o restabelecimento do desmembramento dos valores, muito menos para o fim de restituir valores. No contexto esta conclusão até seria a mais coerente, mas sua dedução dos termos da decisão não parece evidente.
+Existente alguma dúvida, o fato de a devolução dos valores ter ocorrido em tempo que pode ser considerado razoável -até considerando a complexidade dos procedimentos, bem demonstrada pelas dificuldades que a CEF vem tendo no que toca à prestação de informações sobre os depósitos-, e sem causar qualquer prejuízo efetivo aos substituídos, não infirma a presunção de boa-fé, nem configura intuito deliberado descumprir decisão judicial.
+Note-se que em relação ao desmembramento propriamente tido a inicial do agravo vem acompanhada de documentos que em princípio ratificam o quanto afirmado pela agravante na petição apresentada pela APPA no dia 30.06.2017 (evento 93, PROCJUDIC123 - fls. 141/142 dos autos nº 5000750- 31.2016.4.04.7008).
+Do exposto, voto por dar provimento ao agravo de instrumento.
+Assim, claramente concluiu-se que, a ordem do juízo abriu margem para dúvidas. Dessa conclusão extraem-se os efeitos que a APPA, em seus embargos, requer que constem expressamente no acórdão.
+Ainda quanto aos embargos do SINDOP, no tocante à omissão por ausência de enfrentamento dos precedentes contrários ao adotado no acórdão, repise-se que não há a necessidade do julgador mencionar todos os dispositivos legais e constitucionais em que fundamenta sua decisão nem todas as normas, argumentos e teses citados pelas partes.
+O Tribunal de origem declarou que: (1) não houve a configuração do intuito deliberado de descumprir decisão judicial; (2) não foi clara a concessão de efeitos ex tunc à decisão que determinou o restabelecimento do desmembramento dos valores, muito menos para o fim de restituir valores; (3) "a orientação adotada pelo Superior Tribunal de Justiça é no sentido de que a astreinte cominada em tutela antecipada só será exigível quando houver sua confirmação em sentença".
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+O art. 1.009 do CPC, por sua vez, não foi apreciado pelo Tribunal de origem, nem foi objeto dos embargos de declaração apresentados.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Por fim, quanto à fixação dos honorários, os exatos termos do acórdão recorrido foram os seguintes (fls. 368):
+Assim, provido o agravo de instrumento interposto pela APPA, fica acolhida sua impugnação ao cumprimento provisório de decisão judicial, devendo ser afastada a aplicação das astreintes e extinto o cumprimento provisório de sentença nº 5001874- 44.2019.4.04.7008.
+Ainda, deve ser afastada a sucumbência recíproca, devendo a exequente arcar com os respectivos honorários advocatícios, nos termos do § 2º do art. 85 do CPC, os quais ficam arbitrados em 10% sobre o valor atualizado da execução.
+Verifico que o acórdão recorrido está em conformidade com o seguinte entendimento deste Tribunal fixado no Tema 1.076: "Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Assim, foi aplicado o art. 85, § 2º, do CPC, que estabelece o que segue:
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
