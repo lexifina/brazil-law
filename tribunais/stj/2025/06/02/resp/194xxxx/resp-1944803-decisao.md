@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado (fl. 248):
+DIREITO CONSTITUCIONAL, ADMINISTRATIVO, PENAL E PROCESSUAL CIVIL - AÇÃO CIVIL DE PERDA DE CARGO VITALÍCIO  PREENCHIMENTO DOS REQUISITOS CONSTITUCIONAIS  INEXISTÊNCIA  IMPROCEDÊNCIA:
+- Para que se pretenda a perda de cargo vitalício, mister o preenchimento do requisito constitucional do trânsito em julgado da sentença penal condenatória, o que não ocorre no presente feito, já que ainda tramita perante o Supremo Tribunal Federal o Recurso Extraordinário n. 921449, oriundo da Ação Penal 0005226-86.2009.8.04.0000.
+AÇÃO JULGADA IMPROCEDENTE.
+Os embargos de declaração opostos foram rejeitados (fls. 298/304).
+Nas razões de seu recurso, a parte recorrente alega a ocorrência de violação aos arts. 38, § 1º, inciso I, da Lei Federal 8.625/93 e 1.022 do Código de Processo Civil.
+Para tanto, sustenta que:
+(1) a ocorrência de omissão em relação à matéria discutida;
+(2) "não há a necessidade de aguardar o trânsito em julgado da sentença penal condenatória para promover o ajuizamento de Ação Civil para a perda de cargo" (fl. 323);
+(3) "em razão da independência entre as instâncias cível e penal, a superveniência da prescrição da pretensão punitiva não afasta o reconhecimento da prática da conduta criminal, possibilitando o ajuizamento da ação para a perda do cargo" (fl. 327).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 353/363).
+O recurso foi admitido (fls. 420/421).
+É o relatório.
+Nas razões do recurso especial, relativamente à violação ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou o seguinte (fl. 321):
+Embora tenha defendido que o julgado analisou de maneira clara e inequívoca todas as teses postas para julgamento, a verdade é que o Acórdão deixou de dar a correta interpretação ao disposto no artigo 38, §1º, inciso I, da Lei Federal n.º 8.625/93, que estabelece os requisitos para a propositura de ação para a perda do cargo por membro do Ministério Público.
+A omissão se deu em razão de não ter havido uma interpretação do dispositivo a partir dos princípios jurídicos que devem orientar a conduta do membro ministerial, afastando a literalidade da legislação infraconstitucional.
+Constata-se que foram feitas alegações genéricas, que se deixou de indicar especificamente os pontos sobre os quais o julgador deveria ter se manifestado. O recurso especial é deficiente, o que inviabiliza a compreensão da controvérsia.
+Incide no caso em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+O Tribunal de origem, ao analisar a controvérsia, afirmou que (fls. 250/254):
+Ação Cível de Perda de Cargo Público Vitalício, movida Pelo Ministério Público do Estado do Amazonas em desfavor de Walber Luis Silva do Nascimento, sob argumento de que, devidamente autorizado pelo Colégio de Procuradores do Ministério Público, tendo sido o doravante denominado réu condenado pela prática de crime de corrupção passiva, à pena privativa de liberdade de 2 (dois) anos e 3 (três) meses de reclusão, a ser cumprida em regime aberto e ao pagamento de 100 (cem) dias-multa, em acórdão proferido por este Egrégio Tribunal, com efeito acessório de perda do cargo de Promotor de Justiça.
+ ..
+Primeiramente, importante que se de delimite o debate nos presentes autos. Não é cabível que se revolva novamente os fatos já devidamente analisados por este Tribunal, e que resultaram na condenação do réu. O debate aqui deve se restringir ao preenchimento dos requisitos legais para a pretendida perda de cargo de Promotor de Justiça, sendo unicamente de direito.
+Dito isso, passo à análise de tais requisitos. O primeiro deles, por ordem de importância, é justamente o trânsito em julgado da sentença penal condenatória, como pressuposto indispensável para a pretensão de perda de cargo.
+No caso presente, impossível não concluir pela ausência de preenchimento de tal requisito. O réu conseguiu trazer aos autos, quando juntou decisão da lavra do Ministro Ricardo Lewandowski, do Supremo Tribunal Federal, proferida em 14 de novembro de 2018, extinguindo a punibilidade do réu, na ação penal, em decorrência da prescrição da pretensão punitiva, a seguir:
+ ..
+Demais, em consulta ao sítio eletrônico do Supremo Tribunal Federal, foi possível constatar que tal ação ainda tramita, ou seja, inexiste trânsito em julgado.
+Assim, ao contrário do que pretende o autor, não se mostra possível a determinação de perda de cargo de Promotor de Justiça, ante a ausência de um dos requisitos  de natureza constitucional, qual seja o trânsito em julgado da sentença penal condenatória.
+Demais, não se pode alegar que a perda de pretensão punitiva, por prescrição, autorizaria a propositura de ação para perda de cargo, justamente porque o requisito é diverso, ou seja, inexiste o trânsito em julgado da sentença penal condenatória.
+Assim, alegar que a mera retirada de possibilidade de punição por parte do Estado não impediria o ingresso da presente ação, não se mostra suficiente para afastar a existência do trânsito em julgado da ação penal, o que não ocorre no presente caso.
+Portanto, há de ser julgada improcedente a presente ação.
+Considerando que o art. 38, § 1º , I, da Lei 8.625/1993 prevê a possibilidade de ajuizamento de ação civil para perda de cargo somente após sentença penal condenatória transitada em julgado e que no presente caso consta do acórdão recorrido que a ação penal ainda estava em curso à época do julgamento da apelação pelo Tribunal a quo, a ação civil originária perde o seu sustentáculo.
+Ademais, consta ainda dos autos que foi proferida decisão reconhecendo a prescrição punitiva do servidor, faltando-lhe o requisito legal da sentença penal condenatória, o que também obstaculizaria o processamento da ação civil de perda de cargo.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. MEMBRO DO MINISTÉRIO PÚBLICO ESTADUAL. PERDA DE CARGO PÚBLICO. TRÂNSITO EM JULGADO DE SENTENÇA PENAL CONDENATÓRIA. CONDIÇÃO DE PROCEDIBILIDADE. ENTENDIMENTO DA CORTE LOCAL NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme decidido no acórdão recorrido, a perda do cargo de membro vitalício do Ministério Público está condicionada ao trânsito em julgado da sentença penal condenatória e após transitada em julgado essa decisão abre-se a possibilidade da perda do cargo, por meio de ação civil pública, a fim de se reconhecer que o crime praticado é, de fato, incompatível com as funções de membro do Parquet. A propósito: REsp n. 1.251.621/AM, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 12/11/2014; AgRg no REsp 1.409.692/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2017, DJe 31/5/2017.
+3. No caso dos autos, o superior Tribunal de Justiça reconheceu a extinção da punibilidade do ora recorrido pela prescrição da pretensão punitiva, o que afasta a pretensão punitiva requerida pelo Ministério Público, estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça. Aplica-se, na espécie, o teor da Súmula n. 83 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.065.255/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024, destaquei.)
+HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO DE TRIBUNAL DE JUSTIÇA QUE REJEITOU EXCEÇÃO DE COMPETÊNCIA. COMPETÊNCIA PARA JULGAMENTO DE PROMOTOR DE JUSTIÇA ACUSADO DE CRIME COMUM (HOMICÍDIO) QUE NÃO GUARDA RELAÇÃO COM O EXERCÍCIO DAS FUNÇÕES DO CARGO. FORO POR PRERROGATIVA DE FUNÇÃO (ART. 96, III, CF). APLICAÇÃO, A PROMOTORES, DO ENTENDIMENTO FIXADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DA QO NA AP 937/RJ: IMPOSSIBILIDADE. ENTENDIMENTO DA CORTE SUPREMA QUE SE RESTRINGE A DETENTORES DE CARGOS ELETIVOS. PRECEDENTES DO STJ QUE RECONHECERAM A COMPETÊNCIA DESTA CORTE PARA JULGAR DESEMBARGADOR POR CRIME SEM RELAÇÃO COM O CARGO. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF (TEMA 1147). QUESTÃO PENDENTE DE JULGAMENTO PELA SUPREMA CORTE. NECESSIDADE DE PRESERVAÇÃO DO FORO POR PRERROGATIVA DE FUNÇÃO PARA GARANTIA DA IMPARCIALIDADE DO ÓRGÃO ACUSADOR E OBSERVÂNCIA DO PRINCÍPIO DA ISONOMIA. COLOCAÇÃO DO MEMBRO DO PARQUET EM DISPONIBILIDADE COMPULSÓRIA: MEDIDA QUE NÃO SE EQUIPARA À PERDA DO CARGO. PREVALÊNCIA DO FORO POR PRERROGATIVA DE FUNÇÃO PREVISTO NA CONSTITUIÇÃO FEDERAL, EM RELAÇÃO À COMPETÊNCIA DO TRIBUNAL DO JÚRI, EM RAZÃO DA ESPECIALIDADE. SEGURANÇA DENEGADA.
+ ..
+5. Não corresponde à perda do cargo de promotor a sua colocação em disponibilidade, pois "Para que possa ocorrer a perda do cargo do membro do Ministério Público, são necessárias duas decisões. A primeira, condenando-o pela prática do crime e a segunda, em ação promovida pelo Procurador-Geral de Justiça, reconhecendo que o referido crime é incompatível com o exercício de suas funções, ou seja, deve existir condenação criminal transitada em julgado, para que possa ser promovida a ação civil para a decretação da perda do cargo (art. 38, § 2º, da Lei n. 8.625/1993)." (AgRg no R Esp 1.409.692/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/5/2017, DJe 31/5/2017)
+ ..
+7. Segurança denegada. (HC n. 684.254/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je de 29/11/2021, destaquei.)
+Ante o exposto, conheço parcialmente do recurso especial e, na parte conhecida, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
