@@ -1,0 +1,1 @@
+Artigo 7° - Após o enquadramento, o docente poderá, além da jornada de trabalho, ter atribuída carga suplementar, remunerada proporcionalmente ao valor da hora do subsídio, de acordo com a referência em que estiver enquadrado e a jornada de trabalho a que estiver sujeito.
