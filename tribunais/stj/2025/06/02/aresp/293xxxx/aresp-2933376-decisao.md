@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO (CORSAN) contra a decisão que inadmitiu o recurso especial com fundamento na inexistência de negativa de prestação jurisdicional.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fl. 46):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO. PERÍCIA. PRECLUSÃO. RESPONSABILIDADE PELO PAGAMENTO. CONFORME DISPÕE O ART. 370, DO CÓDIGO DE PROCESSO CIVIL, AO JUIZ CABE AFERIR A NECESSIDADE (OU NÃO) DE PRODUÇÃO DE PROVA. ALÉM DISSO, NOS TERMOS DO ARTIGO 95, DO CPC, A REMUNERAÇÃO DO PERITO DEVE SER PAGA PELA PARTE QUE REQUER O EXAME, OU PELO AUTOR, QUANDO REQUERIDO POR AMBAS AS PARTES OU DETERMINADO DE OFÍCIO PELO JUIZ. NO CASO CONCRETO, NO ENTANTO, CONSIDERANDO-SE QUE A PARTE ORA AGRAVANTE FOI VENCIDA NA FASE PROCESSUAL DE CONHECIMENTO, É DA RECORRENTE O ÔNUS RELACIONADO AO PAGAMENTO DOS HONORÁRIOS PERICIAIS. PRECEDENTES. AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 67):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NA DECISÃO EMBARGADA. JULGADO QUE EXAMINOU E FUNDAMENTOU ADEQUADAMENTE AS QUESTÕES SUSCITADAS. RECURSO INTERPOSTO COM O PROPÓSITO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. UNÂNIME.
+No recurso especial, a parte aponta violação do art. 1.022, II, do Código de Processo Civil.
+Alega que o acórdão recorrido, mesmo diante da oposição de aclaratórios, foi omisso por não explanar a razão pela qual deixou de aplicar a tese do Tema Repetitivo n. 871 do STJ, que estabelece que na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devido ao perito que elabora a memória de cálculos.
+Requer o conhecimento e o provimento do recurso para que se determine o novo julgamento dos embargos de declaração pela Corte estadual, para que sejam devidamente examinadas as questões jurídicas carentes de prestação jurisdicional.
+As contrarrazões foram apresentadas (fls. 91-97).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão de cumprimento de sentença.
+A Corte estadual manteve integralmente a decisão de primeira instância, que determinou a responsabilidade da parte vencida na fase de conhecimento pelo pagamento dos honorários periciais.
+No recurso especial, a parte recorrente alega que o acórdão recorrido não se manifestou sobre a razão da não aplicação de tese fixada no Tema Repetitivo n. 871 do STJ.
+Contudo, no julgamento dos embargos de declaração, a Corte de origem esclareceu que o entendimento adotado no acórdão recorrido revela-se alinhado com o item 1.3 do precedente indicado pela ora embargante (Tema n. 871 - REsp n. 1.274.466/SC).
+Afasta-se, assim, a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+O simples fato de a decisão não coincidir com os interesses da parte não implica negativa de prestação jurisdicional, caracterizando as alegações de omissão, obscuridade, contradição ou erro material, no caso, mero inconformismo da parte.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AOS PRECEITOS DO DIREITO DE VIZINHANÇA. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao percentual de reparação a ser custeado pelo ora recorrido. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Rever a conclusão a que chegou o Tribunal de origem e entender, como quer a parte recorrente, que houve malferimento da legislação que regulamenta o despejo de águas em imóvel inferior, pois os danos em seu imóvel decorreram exclusivamente de conduta do ora recorrido, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.083.838/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Vejam-se ainda estes julgados: AgInt no REsp n. 1.942.363/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022; AgInt no REsp n. 2.000.968/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
