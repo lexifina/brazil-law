@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por GERMANO LUIZ PRATES CEZIMBRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 5002197-84.2022.8.21.0073 (fls. 206/208).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a defesa, alegando violação do art. 59 do Código Penal, sustentou que o acórdão incorreu em reformatio in pejus ao afastar, em recurso exclusivo da defesa, duas circunstâncias judiciais valoradas negativamente pelo magistrado de primeiro grau (conduta social e personalidade), mantendo a exasperação da pena-base, passando a valorar negativamente os antecedentes (fls. 216/225).
+Inadmitido o recurso na origem, por incidência da Súmula 83/STJ (fls. 239/242), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 249/259).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 280/286).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passo ao exame do recurso especial.
+Em confor midade com a jurisprudência do Superior Tribunal de Justiça, o efeito devolutivo pleno do recurso de apelação possibilita à Corte de origem, mesmo que em recursos exclusivos da defesa, a revisar as circunstâncias judiciais do art. 59 do Código Penal, bem como a alterar os fundamentos para justificar a manutenção ou redução das reprimendas ou do regime inicial; não sendo o caso de apontar reformatio in pejus se a situação do agravante não for agravada. Cite-se: AgRg no HC n. 811.250/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/5/2023; AgRg no REsp n. 1.959.903/SC, Ministra Laurita Vaz, Sexta Turma, DJe de 14/3/2022.
+Analisando a fundamentação empregada pelo juízo de primeiro grau na fixação da pena-base, verifica-se que o magistrado utilizou as reiteradas condenações do agravante para fundamentar negativamente as circunstâncias judiciais da conduta social e personalidade, valorando-as em bloco mediante uma única fundamentação. Ressalte-se que o próprio sentenciante esclareceu que os antecedentes seriam valorados na segunda fase da dosimetria, em razão da reincidência.
+O acórdão recorrido, por sua vez, afastou acertadamente a valoração negativa das circunstâncias judiciais da conduta social e personalidade, mantendo, contudo, a exasperação da pena-base, relocando a fundamentação para a vetorial dos antecedentes, afirmando que: ostentando o denunciado quatro condenações anteriores e irrecorríveis, possível parte delas ser utilizada para a avaliação desfavorável aos antecedentes; e o restante para caracterizar a agravante da reincidência, não havendo falar em bis in idem (fls. 207).
+No caso concreto, a relocação da fundamentação das circunstâncias judiciais não agravou a situação do agravante, que teve sua pena reduzida de 8 (oito) para 7 (sete) meses de detenção (fl. 207) .
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. DANO AO PATRIMÔNIO PÚBLICO. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS. RELOCAÇÃO DE FUNDAMENTOS. SUBSTITUIÇÃO DE VETORIAIS NEGATIVAS. AUSÊNCIA DE REFORMATIO IN PEJUS. MERA CORREÇÃO DA CLASSIFICAÇÃO DE FATO JÁ VALORADO NEGATIVAMENTE.
+Agravo conhecido para negar provimento ao recurso especial.
