@@ -1,0 +1,1 @@
+Artigo 6° - Aos atuais ocupantes de cargos de Agente de Controle Interno Contábil-Chefe e de Agente de Controle Interno Contábil-Encarregado, integrados na Tabela I do Subquadro de Cargos Públicos do Quadro da Secretaria da Fazenda, bem como das Autarquias, fica mantida a condição de efetividade que lhes tenha sido assegurada pela legislação vigente.

@@ -1,0 +1,1 @@
+Artigo 4° - Após os processos de avaliação a que se refere o artigo 3° destas Disposições Transitórias, a progressão e a promoção dos servidores por eles beneficiados, relativas aos exercícios subsequentes, passarão a ocorrer em conformidade com o disposto nos artigos 21 a 25 desta lei complementar.
