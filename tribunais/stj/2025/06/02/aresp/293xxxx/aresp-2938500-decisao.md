@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5, 7 e 83 do STJ e negou-lhe seguimento em razão do Tema n. 27 do STJ (juros remuneratórios).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Aduz que a questão, cujo seguimento foi negado em razão da aplicação de entendimento firmado em julgamento de recurso especial repetitivo, foi impugnada devidamente por agravo interno no Tribunal de origem e, por isso, o agravo em recurso especial restringe-se à impugnação da questão que é de competência do Superior Tribunal de Justiça.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe em apelação nos autos de ação revisional de contrato bancário.
+O julgado foi assim ementado (fls. 561-564):
+APELAÇÃO CÍVEL - DIREITO DO CONSUMIDOR - AÇÃO REVISIONAL J U L G A D A PROCEDENTE - CONTRATO DE EMPRÉSTIMO PESSOAL NÃO CONSIGNADO - APLICAÇÃO DO CDC - INSURGÊNCIA RECURSAL DA FINANCEIRA RÉ PRETENDENDO AFASTAR A ABUSIVIDADE DECLARADA PELO JUÍZO DE ORIGEM - PREJUDICIAL DE PRESCRIÇÃO QUE FICA FASTADA - APLICAÇÃO DO PRAZO DECENAL ORDINARIAMENTE ESTABELECIDO PELO ARTIGO 205 DO CÓDIGO CIVIL - CONTRATOS FIRMADOS EM 2017 - MÉRITO RECURSAL - POSSIBILIDADE DE REVISÃO CONTRATUAL - MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA - JUROS REMUNERATÓRIOS - VARIAÇÃO SUPERIOR À 20% DA TAXA MÉDIA DE MERCADO - EXISTÊNCIA DE ABUSIVIDADE - ILEGALIDADE DOS JUROS REMUNERATÓRIOS CONTRATADOS - VARIAÇÃO SUPERIOR À TAXA MÉDIA DE MERCADO - REFORMA DA TAXA DE JUROS CONTRATADA, VEZ QUE LATENTE A ABUSIVIDADE NA CONTRATAÇÃO - LIMITAÇÃO À MÉDIA DE MERCADO - SENTENÇA MANTIDA - RECURSO CONHECIDO E IM PROVIDO.
+I - Com vistas ao desenvolvimento social e à função social do contrato, cabe ao Judiciário apreciar situações que exorbitem o direito de livre contratação para a fastar o desequilíbrio contratual , mormente quando setrata de contratos de adesão, como no caso em questão.
+II - Adota-se o posicionamento de que para que se caracterize a abusividade as taxas de juros devem ultrapassar, pelo menos, 20% (vinte por cento) do que é a taxa média utilizada pelo mercado no mês da o p e r a ç ã o financeira.
+III - Verifica-se que as taxas pactuadas nos contratos (16,50% a. m; 17,00% a. m; 17,00% a. m; 16,50% a. m; 20,50% a. m; 22,00% a. m; 22,00% a. m; 22,00% a. m e 22,00% a. m.) estão além daquelas tidas como médias pelo Banco Central do Brasil, visto que na especificação Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado - referências 20742 e 25464, as taxas médias de juros alcançadas foram d e , respectivamente, 7,29% a. m., 7,27% a. m.; 6,58% a. m.; 7,04% a. m.; 6,94% a. m.; 6,76% a. m.; 5,88% a. m.; 6,05% a. m. e 5,13% a. m., c o n f o r m e disponível no sítio eletrônico do Banco Central;
+IV - Houve uma variação superior a 20% na taxa média mensal e na taxa média anual, sendo i m p e r i o s o o reconhecimento da abusividade, devendo os valores pagos a maior serem restituídos de forma simples.
+V - Recurso conhecido e improvido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 355, I e II, e 356, I e II, do CPC, porque houve cerceamento de defesa ao não se permitir a produção de prova pericial para demonstrar o perfil de risco do cliente, tendo em vista as particularidades da operação de crédito concedido à parte autora; e
+b) 421 do Código Civil e 927 do Código de Processo Civil, visto que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto.
+Sustenta que os contratos são plenamente válidos, tratando-se de atos jurídicos perfeitos, por isso constituem lei entre as partes, razão pela qual é descabida sua invalidação.
+Argumenta que o Tribunal de origem reconheceu a abusividade dos juros remuneratórios mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, ausente análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso e a inversão dos ônus de sucumbência caso a demanda seja provida.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à ação de revisão de contrato bancário em que o valor da causa foi fixado em R$16.604,03.
+A controvérsia está assentada na forma de aferição da abusividade dos juros remuneratórios
+Inicialmente, em relação à parte do recurso que teve seguimento negado (juros remuneratórios), considerando as disposições do art. 1.030, I, b, c/c o § 2º, é importante esclarecer que o conhecimento do apelo extremo por esta Corte fica restrito à análise da matéria inadmitida pelo Tribunal de origem.
+Em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+I - Violação dos arts. 355, I e II, e 356, I e II, do CPC
+A recorrente afirma que houve cerceamento de defesa ao não se permitir a produção de prova pericial para demonstrar o perfil de risco do cliente, tendo em vista as particularidades da operação do crédito concedido à parte autora.
+Contudo, as questões referentes ao pedido de prova pericial contábil, sob a alegação de violação dos arts. 355, I e II, e 356, I e II, do CPC, não foram objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+II - Pedido de concessão de efeito suspensivo
+Conforme entendimento do STJ, "havendo manifestação superveniente do órgão julgador sobre o tema, não subsiste o pedido de tutela provisória que pretendia conceder efeito suspensivo ao recurso já julgado" (AgInt no AREsp n. 2.298.991/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial. Julgo prejudicado o pedido de concessão de efeito suspensivo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
