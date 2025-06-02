@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Alex Sandro Rodrigues de Oliveira e Victor Ramon Amaro, condenados pela prática do crime de roubo majorado, às penas de 7 anos de reclusão, a ser cumprida em regime inicial fechado, e 24 dias-multa na razão unitária mínima (Processo n. 0814465-67.2023.8.19.0002, da 1ª Vara Criminal da comarca de Niterói/RJ).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao recurso de apelação interposto pela defesa.
+Requer-se a concessão da ordem para absolver os pacientes, com a alegação de insuficiência probatória, ante o falho reconhecimento pessoal. Subsidiariamente, pede-se a reforma da dosimetria da pena, com o afastamento do vetor personalidade do cálculo.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo deve ser manifesta, de constatação evidente, o que, na espécie, ocorre apenas em parte.
+No que diz respeito à dita inobservância do art. 226 do Código de Processo Penal, não há evidência de constrangimento ilegal.
+De acordo com as instâncias ordinárias, o reconhecimento pessoal dos réus foi realizado em conformidade com a disposição legal, foi considerado válido apesar das alegações da defesa de irregularidades no procedimento. As testemunhas identificaram os pacientes em diferentes momentos, reforçando a certeza sobre a autoria do crime. Conforme sentença e acórdão, a condenação baseou-se em um conjunto robusto de provas, incluindo aqueles depoimentos, imagens de câmeras de segurança, autos de reconhecimento e registros de ocorrência.
+Sobre o ponto, AgRg no HC n. 923.252/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/9/2024.
+Afora isso, a desconstituição do entendimento fixado pela Juíza e pela Quarta Câmara Criminal implica o necessário revolvimento do acervo fático-probatório da ação penal, providência que não se coaduna com a via eleita.
+Já quanto ao cálculo da pena-base, é nítida a coação ilegal. Afinal, o aumento de 6 meses além do mínimo ocorreu não apenas pela valoração negativa dos maus antecedentes dos réus, mas também da personalidade voltada para práticas criminosas. Para tanto, foram destacadas quatro anotações constantes nas folhas de antecedentes criminais de Alex Sandro e de Victor.
+Ora, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte" (EAREsp n. 1.311.636/MS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 26/4/2019) - AgRg no HC n. 795.563/AC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/4/2023.
+Nesta Casa, tem-se que a análise da modulador a personalidade do agente demanda certa complexidade, de modo que para que possa ser valorada corretamente não prescinde de elementos concretos relacionados ao fato que possam auxiliar o magistrado na aferição. Assim, a ausência desses elementos deve conduzir a valoração neutra de tal circunstância, não sendo suficiente para qualificar como negativa a personalidade do agente expressões como "personalidade voltada para a prática de crimes" (AgRg no HC n. 778.150/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/4/2023).
+Tal a circunstância, concedo parcialmente a ordem para afastar a consideração negativa relacionada à personalidade.
+Comunique-se com urgência.
+Intime-se o Ministério Público do Estado do Rio de Janeiro.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. H ABEAS CORPUS SUBSTITUTIVO. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. REGULARIDADE. FRAGILIDADE PROBATÓRIA. IMPROCEDÊNCIA. ABSOLVIÇÃO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. PENA-BASE. MANIFESTO CONSTRANGIMENTO ILEGAL. VALORAÇÃO NEGATIVA DA PERSONALIDADE. FUNDAMENTO INIDÔNEO. ACÓRDÃO IMPUGNADO EM DISSONÂNCIA COM A FIRME JURISPRUDÊNCIA DO STJ.
+Ordem parcialmente concedida.
