@@ -1,0 +1,1 @@
+Artigo 4.° - Até a aprovação do Regimento Interno da Faculdade, observar-se-á o Regimento da Faculdade de Medicina de Marília mantida pelo Município, no que não contrariar o disposto nesta lei e na legislação aplicável às entidades autárquicas do Sistema Estadual de Ensino.

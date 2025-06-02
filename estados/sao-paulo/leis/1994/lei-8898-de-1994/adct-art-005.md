@@ -1,0 +1,1 @@
+Artigo 5.° - A Faculdade funcionará de acordo com a estrutura administrativa da atual Faculdade de Medicina de Marília, até que se efetivem as providências referidas nos Artigos 1.° e 4.° das Disposições Transitórias desta lei.

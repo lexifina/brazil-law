@@ -1,0 +1,2 @@
+Artigo 3.° - Dentro do prazo de 60 (sessenta) dias contados da publicação desta lei, os atuais servidores e empregados da Fundação Municipal de Ensino Superior de Marília, bem como os servidores do Estado à disposição da Fundação, poderão optar por sua permanência na Faculdade, mediante concurso público.
+Parágrafo único - Ficam garantidos, aos empregados da Fundação Municipal de Ensino Superior de Marília, em exercício na Faculdade de Medicina de que trata esta lei, os direitos e vantagens adquiridos.
