@@ -1,0 +1,1 @@
+Artigo 5° - Ficam cessadas, a partir da vigência desta lei complementar, as designações para responder por cargo vago ou exercer função de serviço público retribuída mediante "pro labore", nos termos do artigo 28 da Lei n° 10.168, de 10 de julho de 1968, de Secretário de Escola, bem como as designações de substitutos.
