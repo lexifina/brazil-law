@@ -1,0 +1,1 @@
+Artigo 4° - Se na data da entrada em vigor desta lei complementar houver processo de promoção em andamento ou com a data de processamento vencida, a promoção será efetivada, obedecida a legislação de regência do seu ano de referência, devendo ser processada a revisão do enquadramento do servidor da carreira da Polícia Penal, nos termos do artigo 1° das disposições transitórias.

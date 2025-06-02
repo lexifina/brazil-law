@@ -1,0 +1,1 @@
+Artigo 5° - Ao policial penal oriundo da carreira de Agente de Segurança Penitenciária somente será concedido o porte de arma de fogo funcional após estar devidamente habilitado ao uso do equipamento por curso específico ministrado pelo órgão de ensino do Sistema Penitenciário.
