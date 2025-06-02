@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO DO CONSUMIDOR, CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. DECISÃO QUE DETERMINOU AO PLANO DE SAÚDE QUE AUTORIZE SERVIÇO DE HOME CARE. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE QUE O SERVIÇO NÃO CONSTA NO ROL DA ANS. IMPOSSIBILIDADE DE RESTRIÇÃO DA COBERTURA AO TRATAMENTO NECESSÁRIA AO RESTABELECIMENTO DA SAÚDE. PRECEDENTES. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. A cláusula contratual que restringe a cobertura ao tratamento necessário ao restabelecimento da saúde do paciente, indicado pela solicitação médica, deve ser taxada de abusiva, na medida em que a estrita observância das cláusulas pactuadas entre as partes não constitui fundamento legítimo à recusa.
+2. Precedentes do STJ (AgInt no AREsp 622.630/PE, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2017, DJe 18/12/2017) e desta Corte (Ag 2017.011548-2, Rel. Desembargador Vivaldo Pinheiro, 3ª Câmara Cível, j. 09/11/2017; AC 2017.008943-1, Rel. Desembargador Ibanez Monteiro, 2ª Câmara Cível, j. 09/11/2017; Ag 2016.018652-9, Rel. Desembargadora Judite Nunes, 2ª Câmara Cível, j. 09/11/2017; ED em AC 2014.021620-4, Rel. Desembargador Cornélio Alvez, 1ª Câmara Cível, j. 26/10/2017).
+3. Agravo de instrumento conhecido e desprovido, restando prejudicado o agravo interno.
+A parte agravante sustenta que a decisão recorrida impõe cobertura não obrigatória e não contratada pelas partes.
+Esta Corte, em sintonia com o disposto na Súmula 735 do STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar", entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+Isso porque "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal" (AgRg no REsp 1.159.745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11.5.2010, DJe 21.5.2010).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. TRIBUNAL DE ORIGEM QUE CONCLUIU PELA AUSÊNCIA DE VEROSIMILHANÇA DAS ALEGAÇÕES INICIAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 735 DO STF. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+3. Diante do princípio da unirrecorribilidade e da ocorrência da preclusão consumativa, não se conhece do segundo agravo interno.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.286.331/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Ademais, para rever as conclusões do acórdão recorrido e considerar violado o artigo 300 do Código de Processo Civil, também seria necessário o reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
