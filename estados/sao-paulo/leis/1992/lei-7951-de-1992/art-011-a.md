@@ -1,0 +1,1 @@
+Artigo 11-A - Os integrantes das classes abrangidas por esta lei farão jus à gratificação especial instituída pela Lei n. 7795, de 8 de abril de 1992, com o percentual fixado pela Lei n. 7.796, de 8 de abril de 1992. (NR)
