@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LTDA. com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação cominatória visando à cobertura de prótese ortopédica, cumulada com pedido de indenização por danos morais.
+O julgado foi assim ementado (fl. 416):
+Ação cominatória visando à cobertura de prótese ortopédica, cumulada com pedido de indenização por danos morais no valor de R$ 8.000,00 - Parcial procedência, com rejeição do pedido de indenização por danos morais - Artroplastia total do joelho esquerdo em decorrência do diagnóstico de gonartrose grau V - Marca da prótese necessária à realização da cirurgia expressamente indicada pelo médico que acompanha a autora, bem como pelo profissional credenciado à ré em razão da idade precoce de instalação  57 anos de idade à época da prescrição  - Dever da ré de impugnar especificamente a justificativa fornecida pelos médicos para a utilização da marca pleiteada - Ônus inobservado, art. 373, II, do Código de Processo Civil - Dever de cobertura caracterizado - Precedente do Superior Tribunal de Justiça - Recusa indevida - Prejuízos extrapatrimoniais configurados - Arbitramento em R$ 5.000,00, quantia suficiente, proporcional e razoável com as circunstâncias e peculiaridades da hipótese fática - Procedência da ação - Recurso da ré não provido; provido, em parte, o recurso adesivo da autora.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte sustenta que não houve negativa de cobertura do procedimento, pois apenas indicou a necessidade de realização de junta médica ante a complexidade da cirurgia prescrita, tendo sido respeitados todos os requisitos estipulados nas resoluções normativas da ANS.
+Defende que não houve abusividade na conduta, pois a negativa de cobertura foi pautada pelas disposições da Lei n. 9.656/1998, devendo ser afastada a condenação por danos morais.
+Argumenta que não violou o art. 14, § 1º, II, do CDC, uma vez que apenas cumpriu o estabelecido no contrato celebrado entre as partes, não ocorrendo defeito na prestação do serviço.
+Pondera que o contrato de adesão possui cláusulas aprovadas pela ANS, conforme estabelecem os arts. 1º e 54 da Lei n. 9.656/1998, o que afasta a abusividade.
+Defende o risco de desequilíbrio contratual caso seja obrigada a custear a cirurgia prescrita.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a violação dos dispositivos legais mencionados.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece ser admitido por ausência dos pressupostos de admissibilidade, violação do princípio da dialeticidade e aplicação das Súmulas n. 7 do STJ e 282 do STF. Requer o desprovimento do recurso (fls. 617-627).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de obrigação de fazer com pedido de tutela antecipada e de indenização por danos morais em que a parte autora pleiteou a cobertura de prótese ortopédica importada e indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente a pretensão deduzida na inicial, condenando a ré a fornecer a prótese nos exatos termos da prescrição médica e confirmando a tutela de urgência deferida, com honorários advocatícios de 10% sobre o valor da causa, fixado em R$ 8.000,00.
+A Corte estadual reformou parcialmente a sentença para condenar a recorrente ao pagamento de danos morais no montante de R$ 5.000,00, mantendo a obrigação de fornecer a prótese prescrita.
+No caso, verifica-se que as questões relativas às teses de risco de desequilíbrio econômico-financeiro do plano e de violação dos arts. 14, § 1º, II, do CDC e 1º e 54 da Lei n. 9.656/1998, não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Ainda que fosse possível superar o referido óbice, o recurso não comportaria conhecimento, pois, para rever a conclusão do Tribunal de origem a respeito da ocorrência de dano moral indenizável, seria necessário o revolvimento fático-probatório dos autos, o que atrai o óbice da Súmula n. 7 do STJ.
+An te o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
