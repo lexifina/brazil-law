@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CONSTRUTORA CAVALER LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16 de outubro de 2024.
+Concluso ao gabinete em: 08 de janeiro de 2025.
+Ação: de resolução contratual, repetição de indébito c/c ressarcimento de perdas e danos ajuizada por LUCAS TEIXEIRA DA SILVA em face da agravante, visando a rescisão do contrato de compra e venda de imóvel, alegando impossibilidade financeira de continuidade do pagamento devido à pandemia da COVID-19.
+Sentença: julgou procedentes os pedidos autorais e improcedente a reconvenção, determinando que a ré devolva 90% dos valores pagos pelo autor, autorizando a retenção de 10%, com correção monetária e juros de mora, além de condenar a ré ao pagamento das custas processuais e honorários advocatícios.
+Acórdão: conheceu em parte do apelo e, nesta extensão, deu-lhe parcial provimento para autorizar a retenção, pela agravante, de 10% do valor atualizado do contrato, nos termos da seguinte ementa (e-STJ, fls. 464):
+"APELAÇÃO CÍVEL. AÇÃO DE RESOLUÇÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ARREPENDIMENTO DO COMPRADOR. SENTENÇA DE PROCEDÊNCIA DO PLEITO AUTORAL E IMPROCEDÊNCIA DA RECONVENÇÃO. SENTENÇA DA RÉ/VENDEDORA. ADMISSIBILIDADE. POSTULADA A AUTORIZAÇÃO PARA RETER OS ENCARGOS MORATÓRIOS REFERENTES A PARCELAS INADIMPLIDAS PELO COMPRADOR. PLEITO NÃO FORMULADO EM RECONVENÇÃO. INOVAÇÃO RECURSAL EVIDENCIADA. NÃO CONHECIMENTO DO APELO, NO PONTO. CLÁUSULA PENAL. CONDENAÇÃO DA DEMANDADA À DEVOLUÇÃO DE 90% DA IMPORTÂNCIA PAGA PELO COMPRADOR. POSTULADA A RESTITUIÇÃO COM O DESCONTO DE 10% DO VALOR ATUALIZADO DO CONTRATO. ACOLHIMENTO. PACTO FIRMADO NA VIGÊNCIA DA LEI N. 13.786/2018. ALTERAÇÕES PROMOVIDAS NA LEI DE PARCELAMENTO DO SOLO. AUTORIZAÇÃO LEGAL E CONTRATUAL DE RETENÇÃO DE 10% DO VALOR DO CONTRATO, A TÍTULO DE CLÁUSULA PENAL, NA HIPÓTESE DE RESCISÃO DA AVENÇA POR OPÇÃO DO COMPRADOR. CLÁUSULA NÃO ABUSIVA. SENTENÇA REFORMADA. TAXA DE FRUIÇÃO. AVENTADA A POSSIBILIDADE DE DESCONTO DA RUBRICA DO MONTANTE A SER DEVOLVIDO. INSUBSISTÊNCIA. BEM QUE CONSISTE EM LOTE NÃO EDIFICADO. IMPOSSIBILIDADE DE COBRANÇA DE TAXA DE FRUIÇÃO. PRECEDENTES. PLEITO DE RETENÇÃO DA COMISSÃO DE CORRETAGEM. NÃO ACOLHIMENTO. RUBRICA QUE NÃO INTEGROU O PREÇO DO LOTE, MAS FOI CALCULADA DE FORMA APARTADA. DESCONTO QUE SERIA POSSÍVEL APENAS CASO A VERBA DO CORRETOR COMPUSESSE O VALOR AJUSTADO PELO BEM. ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO."
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação ao inciso V do art. 32-A da Lei n. 6.766/1979 e divergência jurisprudencial, sustentando que a comissão de corretagem estava incluída no preço do lote e que a decisão recorrida contraria o Tema 938 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+No caso dos autos, o TJ/SC negou o pleito da agravante que pretendia a retenção dos valores pagos a título de comissão de corretagem, nos termos da seguinte fundamentação:
+Também não procede o pleito de retenção dos valores referentes à comissão de corretagem.
+O art. 32-A, V, da Lei n. 6.766/1979, autoriza que, do valor a ser restituído ao comprador, seja descontada a comissão de corretagem, "desde que integrada ao preço do lote".
+Todavia, na hipótese dos autos, esse montante não foi integrado ao preço do lote, mas calculado utilizando-se por base o valor ajustado pelo bem. Colaciono parte do quadro resumo que elucida essa situação:
+ ..
+Possível notar que as 120 parcelas que o autor deveria pagar totalizam o preço do lote (R$ 59.880,00), razão pela qual concluo que a comissão de corretagem foi calculada à parte, e não integrou o valor ajustado pelo bem. Assim, inviável a retenção desse montante. (e-STJ, fls. 462/463)
+Assim, alterar o decidido no acórdão impugnado, quanto à conclusão de que o valor pago a título de comissão de corretagem não compunha o preço total do imóvel, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO PREJUDICADO.
+1. Ação de resolução contratual c/c repetição de indébito.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
