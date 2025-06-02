@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCAS ALBINO TARCISIO FREITAS DE PAULA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG no julgamento do Agravo de Execução Penal n. 0113284-47.2018.8.13.0024.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu o pedido apresentado pelo paciente de concessão de prisão domiciliar excepcional (fls. 13/14).
+O Tribunal de origem não conheceu do agravo de execução penal interposto pelo paciente, nos termos do acórdão que restou assim ementado:
+"EMENTA: HABEAS CORPUS - EXECUÇÃO - PRISÃO DOMICILIAR - MATÉRIA AFETA AO JUÍZO DE EXECUÇÃO - NÃO CONHECIMENTO DA IMPETRAÇÃO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO. O habeas corpus não é a vida adequada para a discussão de matérias afetas à execução penal, pois há instrumento recursal próprio. Inexistindo patente constrangimento ilegal no ato da autoridade apontada como coatora, não há como conceder habeas corpus de ofício" (fl. 37).
+No presente writ, a defesa sustenta que o paciente deveria estar cumprindo pena em regime semiaberto, mas está recolhido na Penitenciária José Maria Alkmin, que não possui estrutura compatível com tal modo carcerário, o que viola o art. 33, § 1º, "b", do Código Penal e a Súmula Vinculante n. 56 do STF.
+Requer, em liminar e no mérito, a colocação do paciente em prisão domiciliar.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra adequada ao presente caso.
+Da atenta leitura dos autos, verifica-se que o Tribunal de origem, apesar de não conhecer do recurso defensivo, afirmou que "não há cumprimento de pena em situação mais gravosa, tendo em vista que a Penitenciária José Maria Alkimin é unidade prisional compatível com o regime semiaberto" (fl. 40).
+Desse modo, d esconstituir tais conclusões demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+Nesse sentido:
+HABEAS CORPUS. PROGRESSÃO DE REGIME PRISIONAL DO FECHADO PARA O SEMIABERTO. AUSÊNCIA DE VAGA ESPECÍFICA. CUMPRIMENTO DA PENA EM LOCAL SEMELHANTE, COM GARANTIA DOS DIREITOS INERENTES. POSSIBILIDADE. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM SOBRE AS CONDIÇÕES DO RECOLHIMENTO. INCURSÃO NO ARCABOUÇO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ESTREITA DO WRIT. ORDEM DENEGADA.
+1. O entendimento adotado pelo Tribunal a quo está em consonância com a jurisprudência desta Corte, fixada no sentido de que, "na ausência de vaga em estabelecimento destinado ao cumprimento da pena em regime semiaberto, o resgate da reprimenda em local similar, garantidos os benefícios próprios do modo intermediário, não configura constrangimento ilegal, pois o apenado não se encontra sujeito a regime mais gravoso" (AgRg no HC 379.324/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017).
+2. Alterar o entendimento adotado pelo Tribunal a quo, no tocante às conclusões firmadas acerca das condições atinentes ao recolhimento, demandaria, necessariamente, a análise de matéria fático-probatória, desiderato esse que desborda da via estreita do habeas corpus.
+3. Ordem denegada.
+(HC n. 459.493/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/11/2018, DJe de 12/12/2018.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. INEXISTÊNCIA DE CASA DE ALBERGADO. COMPATIBILIDADE DO ESTABELECIMENTO PRISIONAL. CUMPRIMENTO EM PRÉDIO ANEXO AO PRESÍDIO. GOZO DOS BENEFÍCIOS INERENTES AO REGIME MENOS GRAVOSO. INADMISSIBILIDADE DA COLOCAÇÃO EM PRISÃO DOMICILIAR. ESTRUTURA DO ESTABELECIMENTO PRISIONAL. ANÁLISE QUE DEMANDARIA A INCURSÃO FÁTICO-PROBATÓRIA. INVIABILIDADE NO MANDAMUS. FLAGRANTE ILEGALIDADE INEXISTENTE. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O Supremo Tribunal Federal, ao julgar o RE 641.320/RS, em sede de repercussão geral, determinou que, diante da falta de vaga no estabelecimento prisional compatível e havendo viabilidade, deve ser observada, para evitar a prisão domiciliar, a seguinte ordem de providências: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direitos e/ou estudo ao sentenciado que progride ao regime aberto.
+Súmula Vinculante n. 56.
+3. Estando o apenado cumprindo sua pena no regime aberto em prédio anexo, situado ao lado do Presídio Estadual de Santa Rosa/RS, separado dos presos dos outros regimes, usufruindo dos benefícios inerentes ao regime menos gravoso, sendo liberado para o trabalho externo diário, dentre outros, não há que se falar em excesso de execução, por estarem atendidos os parâmetros fixados pelo Supremo Tribunal Federal no RE 641.320/RS, no qual foi possibilitado ao Juízo da Execução o exame da adequação da Unidade Prisional aos requisitos dos regimes menos gravosos.
+4. O debate sobre as condições do recolhimento em tela demandaria indevida incursão fático-probatório, incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+Habeas corpus não conhecido.
+(HC n. 380.014/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/2/2017, DJe de 24/2/2017.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
