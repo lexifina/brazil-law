@@ -1,0 +1,3 @@
+Art. 50-B. Para a execução do Plano Estratégico Institucional e seus desdobramentos poderão ser estabelecidos programas e projetos, inclusive de atuação integrada de Procuradorias e Promotorias de Justiça.
+§ 1o Os programas de atuação integrada serão elaborados pelas Procuradorias e Promotorias de Justiça envolvidas e os respectivos Centros de Apoio Operacional, sempre observado o alinhamento com o Plano Estratégico Institucional e seus desdobramentos.
+§ 2o Os projetos especiais, observado o disposto no artigo 50-A, serão estabelecidos por ato do Procurador-Geral de Justiça em vista de alterações legislativas ou de circunstâncias emergenciais.

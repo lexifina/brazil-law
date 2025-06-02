@@ -1,0 +1,1 @@
+Art. 169-H. Fica sem efeito a permuta desde que realizada 1 (um) ano antes de vacância gerada por qualquer dos permutantes em razão de apossentadoria voluntária ou compulsória, demissão, remoção voluntária, exoneração ou posse em outro cargo público inacumulável.

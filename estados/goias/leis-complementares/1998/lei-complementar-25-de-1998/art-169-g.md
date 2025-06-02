@@ -1,0 +1,1 @@
+Art. 169-G. A impugnação da permuta poderá se fundar, além dos casos previstos nesta Lei Complementar, em violação a normas legais ou regulamentares e diante de razões de interesse público, desvio de finalidade ou abuso de direito.

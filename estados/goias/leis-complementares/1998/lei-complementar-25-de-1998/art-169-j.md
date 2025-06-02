@@ -1,0 +1,1 @@
+Art. 169-J. Nas hipótesses dos arts. 169-H e 169-I desta Lei Complementar, caberá ao Conselho Superior do Ministério Público decidir a lotação, na mesma instância e entrância do permutante, se constatada a inviabilidade do seu retorno ao órgão ministerial originário, em razão de provimento por terceiro.

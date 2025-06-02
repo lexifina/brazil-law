@@ -1,0 +1,9 @@
+## SEÇÃO I-A
+## DO CENTRO DE AUTOCOMPOSIÇÃO DE CONFLITOS E SEGURANÇA JURÍDICA
+Art. 61-A. O Centro de Autocomposição de Conflitos e Segurança Jurídica (COMPOR), órgão auxiliar da atividade funcional do Ministério Público, integra a Procuradoria-Geral de Justiça e será regulamentado por Ato do(a) Procurador(a)-Geral de Justiça.
+Parágrafo único. Compete ao Centro de Autocomposição de Conflitos e Segurança Jurídica:
+I - planejar, implementar, manter, aperfeiçoar e propor à Administração Superior, aos Órgãos de Administração e de execução, e aos órgãos auxiliares do Ministério Público, ações concretas voltadas ao cumprimento das Políticas Nacionais de Incentivo à Autocomposição e de Fomento à Atuação Resolutiva;
+II - executar os processos de autocomposição e as práticas restaurativas, dentre outros métodos consensuais de solução de conflitos, litígios, controvérsias e problemas, mediante solicitação direta do(a) membro(a) com atuação no caso concreto, ou das pessoas físicas ou jurídicas interessadas, ou ainda, mediante requerimento do Poder Público, observando, em todas as hipóteses, a necessidade de anuência expressa do Promotor, Promotora, Procurador ou Procuradora de Justiça com atribuição natural para efetiva atuação;
+III - auxiliar a Escola Superior do Ministério Público na capacitação, treinamento e atualização permanente de membras, membros, servidoras e servidores do Ministério Público, nos métodos autocompositivos, práticas restaurativas, convenções processuais, dentre outras soluções negociadas, além dos processos estruturais;
+IV - realizar o planejamento adequado de sua atuação, estabelecendo objetivos, metas e ações, alinhados ao planejamento estratégico institucional; e
+V - manter dados estatísticos atualizados sobre a atuação do Ministério Público na autocomposição e atuação resolutiva.
