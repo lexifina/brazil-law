@@ -1,0 +1,1 @@
+Artigo 5° - Nos casos em que esta lei complementar estabelece denominação genérica para as classes de natureza multiprofissional, a identificação para fins de assentamentos funcionais do servidor será registrada de acordo com a categoria profissional, desde que devidamente regulamentada, estabelecida no edital do concurso público a que se submeteu.

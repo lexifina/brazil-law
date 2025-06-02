@@ -1,0 +1,2 @@
+Artigo 4° - Ficam dispensados das exigências estabelecidas nos incisos I e II do artigo 4° desta lei complementar, os atuais ocupantes de cargos e funções-atividades por eles abrangidos.
+Parágrafo único - O disposto neste artigo aplica-se, também, aos candidatos de concurso público em andamento, ou encerrado e com prazo de validade em vigor, cujas exigências diferem das estabelecidas por esta lei complementar.

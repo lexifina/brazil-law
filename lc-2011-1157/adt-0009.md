@@ -1,0 +1,1 @@
+Artigo 9° - Para os fins previstos nos artigos 27 e 30 desta lei complementar, ficam mantidas a quantificação das funções e a identificação das unidades caracterizadas como atividades específicas das classes de Cirurgião Dentista, Médico, Médico Sanitarista, Enfermeiro e Médico Veterinário, efetuadas por decreto. (NR)
