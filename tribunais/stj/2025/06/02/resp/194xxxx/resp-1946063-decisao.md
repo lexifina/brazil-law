@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLEDISON PEREIRA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4a REGIÃO assim ementado (fl. 154):
+EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO À HONRA. REMESSA DE AUTOS À DELEGACIA DE POLÍCIA. INQUÉRITO POLICIAL. CONTRADITÓRIO.
+Os embargos de declaração opostos foram rejeitados (fls. 200/202 e 247/249).
+Nas razões de seu recurso, a parte recorrente requer que se reconheça o seguinte:
+"(i) negativa de vigência/violação ao art. 489, incisos II e III, e seu parágrafo 1º, incisos III e IV, bem como do artigo 1.022, incisos I e II, ambos do CPC/2015, pois o Tribunal a quo não enfrentou matéria arguida pela parte Recorrente, bem como deixou de suprimir as omissões existentes no acórdão que julgou o agravo de instrumento, e, assim, há de se anular a decisão que julgou o agravo e também a decisão que julgou os embargos declaratórios, determinando ao TRF 4 Região que seja proferida outra decisão em seu lugar, para o fito do Tribunal a quo sanar as irregularidades apontadas e apreciar os argumentos lançados pelo Recorrente e que visam à reforma da decisão de primeiro grau.
+(ii) violação frontal ao art. 10 e art. 233 do CPC/2015, (princípio da não surpresa e princípio da preclusão), porque não foi oportunizado o contraditório prévio ao Recorrente, devendo ser cassada a decisão recorrida por esse e. STJ, especificamente quanto ao ponto que determinou vistas ao Ministério Público Federal para verificação de suposto crime cometido pelo Recorrente, e a sua consequência direta (abertura de inquérito policial, o qual deve ser imediatamente extinto), por corresponder à medida impositiva de lei e
+(iii) negativa de vigência ao artigo 61 do CPP e artigo 83, parágrafos 1º e 2º da Lei 9.430/96, devendo Vossas Excelências determinarem o imediato arquivamento do inquérito, por corresponder a medida de lei e matéria de ordem pública" (fl. 286).
+A parte adversa apresentou contrarrazões (fls. 321/323).
+O recurso foi admitido (fl. 326 ).
+É o relatório.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 116):
+CORRIJA A PREMISSA EQUIVOCADA MATERIALIZADA EM OMISSÃO E CONTRADIÇÃO e DEFIRA O EFEITO SUSPENSIVO À DECISÃO AGRAVADA, para suspender a determinação de abertura de inquérito policial em face do Embargante e/ou mandar arquivar o inquérito aberto (IPL N. 0789/19-4) recentemente comunicado sua abertura ao Embargante (DOC. 01), através de comunicação via em - e-mail/ofício ao Delegado de Polícia de Maringá, PR, diante a prova do perigo na demora (haverá a consolidação do prejuízo em face do Embargante que será indiciado causando abalo irreparável na honra objetiva e subjetiva deste, uma vez que já tem dia e hora marcados para a oitiva do Embargante: 23/04/2020 às 09h30min) e também pela probabilidade do direito demonstrado (prova inequívoca de que não houve a oportunidade do contraditório nos autos, o que nulifica a decisão).
+Ao apreciar o recurso integrativo, o Tribunal de origem decidiu o seguinte (fl. 123):
+A leitura da petição de embargos evidencia que não se postula a correção de obscuridade, contradição, omissão ou erro material, mas sim modificação dos fundamentos da decisão embargada para que prevaleça certa interpretação sobre a matéria em causa, o que não é possível através de embargos de declaração.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Em seu recurso, a parte recorrente apontou como violados os arts. 61 do Código de Processo Penal (CPP) e 83, §§ 1º e 2º, da Lei 9.430/1996.
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação dos dispositivos legais tidos por violados. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+O ponto central da controvérsia é a suposta ausência de contraditório pois a parte recorrente não teria tido oportunidade de contestar a determinação de remessa dos autos ao Ministério Público Federal após a constatação de eventual crime de dano do automóvel do qual era depositária.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 156/159):
+A decisão liminar que indeferiu a medida liminar resolveu suficientemente a matéria recursal:
+ ..  Assim constou na decisão agravada (ev89 na origem):
+1. Cuida-se de executivo fiscal movido pela UNIÃO - FAZENDA NACIONAL em face de GLEDISON PEREIRA SILVA (pessoa física e jurídica) para recebimento de dívida no valor de R$ 57.305,68 (cinquenta e sete mil trezentos e cinco reais e sessenta e oito centavos), atualizada até 08/2019.
+Designadas datas para realização de leilões do bem penhorado (evento 45) e distribuído mandado para reavaliação e remoção do bem, o oficial de justiça encarregado das diligências avaliou o veículo em R$ 63.500,00, mas deixou de removê-lo em razão das avarias que o mesmo sofreu, tendo apresentado fotografias para demonstrar seu estado (eventos 75/78).
+O leiloeiro apresentou fotografias para demonstrar o estado do automóvel quando da penhora e atualmente (evento 79, FOTO2):
+ ..
+A parte exequente, em "face da deterioração do veículo penhorado, que culminou na impossibilidade de atender à sua destinação primordial de locomoção, requer, primeiramente, o cancelamento do leilão agendado, e consequente suspensão do processo por 1 ano, nos termos do art. 40 da Lei nº 6.830/80. Outrossim, requer a abertura de vista dos autos ao Ministério Público Federal, para análise de eventual possibilidade de responsabilização criminal por parte do depositário" (evento 87).
+Consideração que o interesse do credor move o processo executivo, determino o cancelamento da hasta pública designada nos autos (evento 45), recolhendo-se eventuais mandados expedidos concernentes às hastas públicas cujo cancelamento ora se determina.
+2. À Secretaria para que proceda, com urgência, às intimações e comunicações necessárias.
+3. Abra-se vista dos autos ao Ministério Público Federal, conforme requerido pela parte exequente (evento 87).
+Opostos embargos de declaração da decisão pela ora agravante, sobreveio a seguinte decisão (ev111 na origem):
+ ..
+1. Designadas datas para realização de leilões do bem penhorado (evento 45) e distribuído mandado para reavaliação e remoção do bem, o oficial de justiça encarregado das diligências avaliou o veículo em R$ 63.500,00, mas deixou de removê-lo em razão das avarias que o mesmo sofreu, tendo apresentado fotografias para demonstrar seu estado (eventos 75/78).
+A parte exequente, em "face da deterioração do veículo penhorado, que culminou na impossibilidade de atender à sua destinação primordial de locomoção, requer, primeiramente, o cancelamento do leilão agendado, e consequente suspensão do processo por 1 ano, nos termos do art. 40 da Lei nº 6.830/80. Outrossim, requer a abertura de vista dos autos ao Ministério Público Federal, para análise de eventual possibilidade de responsabilização criminal por parte do depositário" (evento 87).
+Nos termos da decisão do evento 89, restou determinado o cancelamento do leilão, assim como a remessa "dos autos ao Ministério Público Federal, conforme requerido pela parte exequente".
+ ..
+Nessas condições, e ausentes novos elementos de fatos ou de direito, impõe-se a manutenção da decisão agravada e a confirmação da decisão liminar (ev2), haja vista que não há argumentos hábeis a descaracterizar a adequação da decisão agravada no agravo de instrumento.
+Com base nas provas carreadas aos autos, o Tribunal de origem reconheceu o dano ocorrido com o veículo, conforme prova pericial, e abriu vista dos autos ao Ministério Público Federal, por ser a apuração de eventual crime de sua competência.
+Não houve violação ao direito ao contraditório, ou ao princípio da não surpresa, pois tal contraditório ocorrerá na esfera penal caso o Ministério Público Federal conclua pela ocorrência de crime. Acrescento que a parte recorrente teve ciência da decis ão tanto que interpôs os devidos recursos.
+Ante o exposto, conheço em parte do recurso especial e, nessa parte, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
