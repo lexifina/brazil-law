@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no julgamento da Apelação Criminal n. 5006532-90.2023.4.04.7002, assim ementado (fl. 284):
+PENAL. APELAÇÃO MINISTERIAL. CONTRABANDO DE FUMÍGENOS. ART. 334-A DO CÓDIGO PENAL. APREENSÃO DE 70 CIGARROS ELETRÔNICOS. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. CONJUNTO PROBATÓRIO QUE SUGERE QUE OS CIGARROS ELETRÔNICOS APREENDIDOS SE DESTINAVAM AO USO PESSOAL DO ACUSADO E DOS SEUS FAMILIARES QUE O ACOMPANHAVAM. DESTINAÇÃO COMERCIAL NÃO EVIDENCIADA. SENTENÇA ABSOLUTÓRIA MANTIDA.
+1. Seguindo a nova orientação da Terceira Seção do Superior Tribunal de Justiça, que firmou a tese jurídica quanto ao Tema Repetitivo nº 1143, no âmbito dos R Esp 1971993/SP e 1977652/SP, o critério agora a ser adotado para o reconhecimento da insignificância no delito de contrabando de cigarros é a apreensão de no máximo 1.000 (mil) maços e desde que não seja constatada a reiteração da conduta. Os efeitos da decisão foram modulados para que a tese seja aplicada apenas aos feitos ainda em curso na data em que encerrado o julgamento, sendo inaplicáveis aos processos com trânsito em julgado.
+2. O referido parâmetro quantitativo, contudo, não se aplica aos cigarros eletrônicos, pois o uso destes não importa destruição imediata e possibilita uma quantidade de tragadas ("puffs") muito superior à dos cigarros convencionais. Além disso, há estudos sugerindo que o uso dos dispositivos eletrônicos é ainda mais nocivo à saúde humana do que o dos cigarros convencionais.
+3. Caso dos autos em que foram apreendidos 70 cigarros eletrônicos, que, segundo apurado na instrução e corroborado pelo teor do boletim de ocorrência, estavam guardados não apenas na mala do acusado, mas também nas dos seus familiares que o acompanhavam na viagem a Foz do Iguaçu, a qual aparentemente foi realizada apenas a passeio, conforme corroborado pelos registros audiovisuais juntados pela defesa, não se tratando de uma empreita ilícita, conclusão reforçada por conta de o réu possuir trabalho lícito e não ostentar apreensões anteriores de mercadorias estrangeiras.
+4. Ausente prova cabal da destinação comercial dos cigarros eletrônicos apreendidos e estando a versão defensiva devidamente amparada no conjunto probatório produzido ao longo da instrução, deve ser mantida a absolvição do acusado com fulcro na aplicação do princípio da insignificância, nos termos do art. 386, III, do Código de Processo Penal.
+5. Recurso ministerial desprovido.
+O juízo de primeiro grau absolveu o acusado da prática do crime descrito no art. 334-A do Código Penal, nos termos do art. 386, inciso III, do Código de Processo Penal (fls. 206-212).
+O Tribunal de origem negou provimento ao apelo do Parquet federal (fl. 272-285).
+Opostos embargos de declaração, foram rejeitados (fls. 326-335).
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, o Ministério Público alega violação do art. 334-A do Código Penal, ao argumento de que a conduta de contrabandear 70 (setenta) cigarros eletrônicos não se amolda às situações que autorizam a absolvição do acusado com arrimo no princípio da insignificância.
+Contrarrazões às fls. 358-391.
+O recurso especial foi admitido (fls. 395-396).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 410-415).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+A pretensão recursal relaciona-se à possibilidade de aplicação do princípio da insignificância à importação ilegal de cigarros eletrônicos, encontrando-se o acórdão apelatório assim fundamentado (fls. 275-):
+Passo a analisar a questão envolvendo a aplicação do princípio da insignificância.
+Nos casos de internalização de cigarros, não é meramente a questão tributária que deve ser considerada, pois são outros os bens jurídicos protegidos pela norma penal, quais sejam, o erário, a saúde pública e a atividade industrial interna (STF, HC nº 100.367/RS, Relator Ministro Luiz Fux j. 09-08-2011, 1ª T., D Je-172 Divulg 06-09-2011; HC 118858, Relator(a): Luiz Fux, Primeira Turma, julgado em 03/12/2013, Processo Eletrônico D Je-250 DIVULG 17-12-2013 Public 18-12-2013; STF, HC 131205, Relatora Min. Cármen Lúcia, Segunda Turma, julgado em 06/09/2016, Processo Eletrônico D Je-202 Divulg 21-09-2016 Public 22-09-2016; STJ, AgRg no AR Esp 1685241/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, D Je em 23.09.2020; STJ, AgRg no R Esp 1870362/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 25.08.2020).
+Nessa linha, os Tribunais Superiores vinham decidindo pela inaplicabilidade do princípio da insignificância no contrabando de cigarros.
+ ..
+Este Regional, por sua vez, excepcionava casos em que a quantidade de cigarros contrabandeados fosse ínfima, tendo como parâmetro a quantia máxima de 500 maços e desde que não houvesse sinais de sua destinação comercial e nem fosse constatada a contumácia na prática delitiva. Nessa linha os julgados da Quarta Seção:
+ ..
+Ocorre que, recentemente, a Terceira Seção do Superior Tribunal de Justiça firmou a tese jurídica quanto ao Tema Repetitivo nº 1143, no âmbito dos R Esp 1971993/SP e 1977652/SP, no sentido de que "o princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação".
+ ..
+Logo, seguindo a nova orientação do STJ, o critério agora a ser adotado para o reconhecimento da insignificância no delito de contrabando é a apreensão de até 1.000 (mil) maços e desde que não seja constatada a reiteração da conduta. Os efeitos da decisão foram modulados para que a tese seja aplicada apenas aos feitos ainda em curso na data em que encerrado o julgamento, sendo inaplicáveis aos processos com trânsito em julgado.
+Todavia, esse parâmetro quantitativo não se aplica aos cigarros eletrônicos, pois o seu uso não importa destruição imediata e possibilita uma quantidade de tragadas ("puffs") muito superior à dos cigarros convencionais, havendo ainda estudos que sugerem que o uso daqueles é ainda mais nocivo que o destes.
+Há, portanto, distinção (distiguishing) entre a orientação firmada pelo STJ e os casos de apreensão de cigarros eletrônicos.
+Diante disso, entendo por seguir aplicando o entendimento já sedimentado nesta Corte, no sentido de que a finalidade comercial, por conferir maior reprovabilidade à conduta do agente, impede a aplicação do princípio da insignificância. Ressalta-se ainda que a reiteração delitiva nos crimes de contrabando e de descaminho é configurada tanto pela multiplicidade de procedimentos administrativos, quanto por ações penais ou inquéritos policiais em curso.
+Vislumbra-se, nesses casos, o alto grau de reprovabilidade da conduta, a indicar que o agente faz do crime de descaminho seu modo de vida.
+ ..
+Acrescento ainda que recentemente o STJ, por ocasião da apreciação do Tema Repetitivo nº 1218, fixou a seguinte tese:
+ ..
+Embora a referida tese tenha sido fixada quanto ao crime de descaminho, evidente que a sua lógica é também plenamente aplicável ao crime de contrabando.
+Pois bem.
+No caso dos autos, de plano já saliento que inexiste qualquer informação dando conta de que o acusado possua outras autuações administrativas pela prática de crimes fronteiriços, de modo que não resta configurada a sua habitualidade delitiva.
+Além disso, perfilho do entendimento exposto pelo sentenciante no sentido de que os elementos produzidos ao longo do feito não são suficientes para corroborar a alegação de que os cigarros apreendidos possuíam destinação comercial.
+A propósito, peço vênia para transcrever a fundamentação exarada em primeiro grau, integrando-a ao presente voto como razões de decidir para o fim de manter a absolvição do acusado pela prática delitiva imputada na exordial (processo 5006532-90.2023.4.04.7002/PR, evento 37, SENT1):
+ ..
+Com efeito, não há prova segura da destinação comercial das mercadorias. Segundo apurado na instrução e corroborado pelo teor do boletim de ocorrência, os cigarros apreendidos estavam guardados não apenas na mala do acusado, mas também nas dos seus familiares que o acopanhavam na viagem a Foz do Iguaçu, a qual aparentemente foi realizada apenas a passeio, conforme corroborado pelos registros audiovisuais juntados pela defesa, não se tratando de uma empreitada ilícita, conclusão reforçada por conta de o réu possuir trabalho lícito e não ostentar apreensões anteriores de mercadorias estrangeiras.
+Nesse cenário, ausente prova cabal da destinação comercial dos cigarros eletrônicos apreendidos e estando a versão defensiva devidamente amparada no conjunto probatório produzido ao longo da instrução, deve ser mantida a absolvição do acusado com fulcro na aplicação do princípio da insignificância, nos termos do art. 386, III, do Código de Processo Penal.
+O Supremo Tribunal Federal, ao julgar o HC n. 84.412/SP, referiu-se aos critérios cumulativos para a aplicação do princípio da insignificância, quais sejam: (I) mínima ofensividade da conduta do agente; (II) ausência de periculosidade social da ação; (III) reduzidíssimo grau de reprovabilidade do comportamento; e (IV) inexpressividade da lesão jurídica provocada.
+Do exame do trecho acima transcrito, nota-se que o Tribunal de origem reconheceu a insignificância da conduta com amparo no fato de que o acusado não registrar outras prática similares e que inexistiria demonstração da destinação comercial dos cigarros eletrônicos ilegalmente importados.
+Ocorre que, diversamente do que ocorre com os cigarros comuns, os eletrônicos são bens duráveis, que não se destroem pelo consumo, e cuja comercialização é absolutamente vedada no Brasil.
+De fato, enquanto a importação de cigarros comuns está sujeita a proibição relativa, a importação de dispositivos eletrônicos para o habito de fumar é absolutamente vedada no país, nos termos da Resolução de Diretoria Colegiada da Anvisa nº 855, de 23 de abril de 2024.
+Destarte, nem mesmo analogicamente podem ser utilizados os parâmetros delineados no Tema Repetitivo n. 1143 do STJ.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. CONTRABANDO DE CIGARROS ELETRÔNICOS. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DA CONDUTA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, no qual se discute a aplicação do princípio da insignificância ao crime de contrabando de cigarros eletrônicos.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o princípio da insignificância é aplicável ao contrabando de cigarros eletrônicos, considerando a quantidade apreendida e a alegada habitualidade delitiva do agravante.
+III. Razões de decidir
+3. Considerando-se as características próprias dos cigarros eletrônicos, que não se consomem com o uso e são de importação proibida, é inaplicável o limite de 1000 maços estabelecido no Tema Repetitivo 1143 para a incidência do princípio da insignificância.
+4. Na excepcional aplicação do princípio da insignificância no delito de contrabando de cigarros, não se questiona o valor dos tributos iludidos, sendo irrelevante o limite de R$ 20.000,00 estipulado para ajuizamento de execução fiscal, parâmetro pertinente ao crime de descaminho.
+5. A reiteração da conduta impede a aplicação do princípio da insignificância.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. O limite de 1000 maços estabelecido no Tema Repetitivo 1143 para a incidência do princípio da insignificância não se aplica aos cigarros eletrônicos. 2. A excepcional aplicação do princípio da insignificância no delito de contrabando de cigarros não leva em consideração o valor dos tributos iludidos, parâmetro pertinente ao crime de descaminho. 3. A reiteração da conduta impede a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: art. 334-A do CP.
+Jurisprudência relevante citada: STJ, REsp 1.971.993/SP, Rel. Min. Joel Ilan Paciornik, Rel. para acórdão Min. Sebastião Reis Júnior, Terceira Seção, j. 13/9/2023; STJ, AgRg no REsp n. 2.070.343/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023; AgRg no AREsp n. 2.246.712/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024 (AgRg no REsp 2184785/PR, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/04/2025, DJEN de 24/04/2025 - grifamos)
+Em arremate, ainda que se possa admitir - em caráter excepcional - a aplicação do princípio da insignificância à internalização de referidos dispositivos eletrônicos para uso estritamente pessoal, é certo que a quantidade apreendida no caso dos autos, qual seja, 70 (setenta) equipament os, não se enquadra em tal possibilidade e, portanto, é penalmente relevante.
+Incide, portanto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, dou provimento ao recurso especial a fim de, cassado o acórdão de fls. 218-224 e afastada a aplicação do princípio da insignificância, determinar que a Corte a quo julgue a apelação ministerial como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
