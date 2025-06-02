@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de reclamação proposta com esteio nos arts. 105, I, f, da CF e 988, II e § 5º, do CPC, por Avine Comercial e Avícola do Nordeste Ltda., em face de "acórdão proferido pela 2ª Turma do Tribunal Regional Federal da 5ª Região em razão da ofensa ao que restou julgado pelo Superior Tribunal de Justiça no REsp nº 1.221.170/PR, leading case dos temas repetitivos nº(s) 779 e 780, a fim que seja cassada a decisão que negou seguimento ao recurso especial interposto pela reclamante, para que este seja admitido e analisado por esta corte por suposta indevida aplicação do julgamento repetitivo (ou aplicação incorreta), a partir do fato inconteste de que toda e qualquer "atividade econômica" faz jus ao creditamento do PIS e da COFINS sobre as despesas "essenciais" ou "relevantes" para o seu desenvolvimento" (fl. 8).
+A parte reclamante aduz, em síntese, que "o julgamento proferido por este Egrégio Tribunal não limitou o creditamento do PIS e da COFINS aos custos, despesas e gastos vinculados à "produção de bens ou a prestação de serviços", mas sim estabeleceu que todos os encargos "essenciais" e "relevantes" ao desenvolvimento da "ATIVIDADE ECONÔMICA", isto é, a manutenção da organização mantida pelo contribuinte, é que permitem a obtenção de créditos das referidas contribuições" (fl. 12).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A presente reclamação não reúne condições de prosperar.
+A jurisprudência do STJ é no sentido de que a reclamação não é instrumento adequado para o controle da aplicação dos entendimentos firmados pelo Superior Tribunal de Justiça em julgamento de recurso especial representativo de controvérsia repetitiva.
+Com efeito, a Corte Especial do STJ, quando do julgamento da Rcl 36.476/SP, DJe 6/3/2020, Rel. Min. Nancy Andrighi, exarou posicionamento no sentido de que "a reclamação constitucional não trata de instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos".
+Nessa mesma linha, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. IMPOSSIBILIDADE. RECLAMAÇÃO INDEFERIDA LIMINARMENTE. DECISÃO MANTIDA.
+1. A parte requerente sustenta, em sua reclamação, que a decisão impugnada teria contrariado o Tema Repetitivo n. 525 desta Corte Superior.
+2. A Corte Especial do STJ decidiu que a reclamação constitucional não é "instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos" (Rcl 36.476/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 47.049/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, DJe de 21/6/2024.)
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. ART. 988, INCISO IV, DO CPC, CUJA REDAÇÃO FOI ALTERADA DURANTE A VACATIO LEGIS, PELA LEI N. 13.256/2016, PARA EXCLUIR O CABIMENTO DE RECLAMAÇÃO PARA AFERIR A CORRETA APLICAÇÃO DE TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO PELOS TRIBUNAIS ESTADUAIS E REGIONAIS FEDERAIS. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. É manifestamente incabível o ajuizamento reclamação perante o Superior Tribunal de Justiça com o objetivo de verificar a adequação da aplicação de tese firmada sob a sistemática dos recursos repetitivos ao caso concreto, conforme estabelece o art. 1.030, inciso I, alínea b, do Código de Processo Civil. O art. 988, inciso IV, do Código de Processo Civil, ainda no período da vacatio legis, foi alterado pela Lei n. 13.256/2016, para excluir a previsão de cabimento de reclamação em tal hipótese. Precedentes.
+2. Agravo interno desprovido.
+(AgInt na Rcl n. 41.103/SP, relator Ministro Teodoro Silva Santos, Primeira Seção, DJe de 28/8/2024.)
+ANTE O EXPOSTO, com amparo no art. 34, XVIII, a, do RISTJ, não conheço da presente reclamação.
+Publique-se .
+EMENTA
