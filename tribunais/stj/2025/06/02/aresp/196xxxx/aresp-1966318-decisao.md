@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual MRV ENGENHARIA E PARTICIPACOES SA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 393):
+APELAÇÃO CÍVEL - ADMINISTRATIVO - MANDADO DE SEGURANÇA - EMPREENDIMENTO IMOBILIÁRIO - NÃO APROVAÇÃO DO PROJETO ARQUITETÔNICO - INOBSERVÂNCIA AOS PRECEITOS LEGAIS DE PROTEÇÃO DA PESSOA COM DEFICIÊNCIA - DIREITO LÍQUIDO E CERTO NÃO VERIFICADO. 1- A concentração de unidades habitacionais acessíveis em um único bloco de edificação multifamiliar viola os artigos 32, III, e 58, §2º, do Estatuto da Pessoa com Deficiência - Lei 13.146/2015. 2- O direito líquido e certo não se materializa na aprovação de projeto arquitetônico que contraria as regras e os princípios protetivos da pessoa com deficiência, vigentes à data de apresentação do projeto à repartição municipal e de aderência obrigatória.
+Os embargos de declaração opostos foram rejeitados (fls. 422/437).
+A parte recorrente alega violação ao art. 1.022, II, do Código de Processo Civil (CPC), ao argumento de que o Tribunal de origem deixou de se manifestar sobre a realidade dos autos e a inexistência de prova sobre cobrança de maior preço pelas unidades do bloco premium.
+Aponta ofensa ao art. 32 da Lei 13.146/2015, afirmando que a opção construtiva atende aos preceitos legais aplicáveis e que não há exigência de disposição das unidades habitacionais adaptáveis no piso térreo.
+Requer o conhecimento e provimento ao recurso especial, com a consequente reforma do acórdão recorrido.
+Contrarrazões apresentadas (fls. 468/474).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 492/503).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de mandado de segurança impetrado por MRV ENGENHARIA E PARTICIPACOES SA contra ato do Secretário Municipal de Planejamento Urbano de Uberlândia, que negou aprovação ao projeto arquitetônico do empreendimento Parque Trilhas do Horizonte, alegando inobservância aos preceitos legais de proteção da pessoa com deficiência.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 414/415):
+11. A opção da embargante em manter um boco inteiro como adaptável (bloco premium), indo além das previsões legais acima referidas, contando com elevador, apartamentos de maior área, localização privilegiada em relação ao acesso do empreendimento, às áreas comuns, vagas de garagem, etc, garantindo às pessoas com deficiência opção de compra de unidade habitacional adaptável e detentora de melhor acessibilidade às comodidades do condomínio.
+12. Indo ao encontro de tais fatos, cabe trazer aos autos o conteúdo do Decreto nº 9.451/18, que foi promulgado a fim de regulamentar o 58 da Lei nº 13.146/15, este definidor sobre a necessidade de o projeto e a construção de edificação de uso privado multifamiliar atender aos preceitos de acessibilidade, na forma regulamentar.
+13. Contudo, referidas regulamentações não se aplicam aos empreendimentos referidos no artigo 32 da Lei nº 13.146/2015. Veja-se:
+Art. 10. Ficam excluídos do disposto neste Decreto os empreendimentos a que se refere o art. 32 da Lei nº 13.146, de 2015 .
+14. A Lei 13.146, que instituiu o Estatuto da Pessoa com Deficiência, prevê expressamente em seu artigo 32 que nos programas habitacionais, públicos ou subsidiados com recursos públicos, a pessoa com deficiência ou o seu responsável goza de prioridade na aquisição de imóvel para moradia própria, com a reserva de, no mínimo, 3% (três por cento) das unidades habitacionais para pessoa com deficiência, como visto.
+15. Contrariamente ao decidido, inexiste qualquer elemento de prova indicando o descumprimento de referidas normas pela embargante, chancelando-se manifesta tentativa de legislar via atos administrativos ou interpretação de questões objetivas mediante o uso de ideais de cunho subjetivo sem qualquer respaldo técnico.
+ ..
+22. Por fim, Excelências, há clara obscuridade sobre o teor da previsão legal constante do artigo 32, inciso III, da Lei 13.146/2015 (Estatuto da Pessoa com deficiência), eis que, ao contrário do fundamentado, em nada exige a disposição das unidades habitacionais adaptáveis no piso térreo.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS decidiu o seguinte (fls. 435/436):
+Ressalte-se que, contrariamente ao alegado, o art. 32, III, do Estatuto da Pessoa com Deficiência, mencionado no acórdão, previu, "em caso de edificação multifamiliar, garantia de acessibilidade nas áreas de uso comum e nas unidades habitacionais no piso térreo e de acessibilidade ou de adaptação razoável nos demais pisos".
+Ou seja, como também se expôs no voto condutor, o aludido dispositivo determina que, em caso de edificação multifamiliar, deve-se garantir a acessibilidade nas unidades habitacionais no piso térreo, independentemente de prévia solicitação ou de requisitos outros.
+Isso porque, rememore-se, a Impetrante sustenta que as unidades situadas no térreo em todos os blocos são adaptáveis, desde que assim se requeira, antes que a obra atinja 25% de conclusão.
+Nesse contexto, a baixa plausibilidade de que esses requerimentos de adaptação sejam feitos a tempo, em todos os blocos do empreendimento, conduz a um cenário de concentração das unidades adaptadas em um bloco específico.
+O resultado final é a segregação em relação aos demais proprietários ou possuidores, tolhendo-se o direito do portador de deficiência à igualdade de oportunidades com os demais, contrariando- se, em essência, o princípio da não discriminação.
+Houve manifestação expressa sobre o contexto fático-probatório dos autos, o que conduziu à conclusão de que a MRV ENGENHARIA E PARTICIPACOES SA descumpriu o disposto no art. 32 do Estatuto da Pessoa com Deficiência.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Nos exatos termos do acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim se manifestou (fl. 399):
+É indene de dúvidas que o projeto, apresentado pela Impetrante, não atende aos preceitos legais de proteção à pessoa deficiente.
+A uma, porque as unidades acessíveis estão confinadas em um único bloco (Premium), o qual, contando com área construída superior e atrativos adicionais, é mais caro, em princípio, que as unidades comercializadas nos demais blocos.
+A duas, porque as unidades localizadas no térreo, relativas aos outros blocos, são passíveis de adaptação, desde que a solicitação ocorra e anteriormente ao momento em que a obra atingisse 25% de conclusão.
+Ora, quanto ao primeiro ponto, houve clara violação do art. 58, §2º, do Estatuto da Pessoa com Deficiência, que veda a cobrança de valores adicionais para a aquisição de unidades internamente acessíveis.
+Esse "arranjo" cria nefasto entrave à fruição do direito à moradia independente e digna da pessoa deficiente, penalizando-a com encargo financeiro superior para a aquisição da unidade adaptada.
+Além disso, a prática de concentrar unidades habitacionais destinadas às pessoas deficientes, criando uma espécie de "gueto", deságua em evidente discriminação, contrariando o espírito da Lei 13.146/15 e seus objetivos precípuos, quais sejam, os de assegurar e de promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência - art. 1º.
+Ainda assim, observa-se que a possibilidade de adaptação de unidades no térreo, nos outros blocos, até que se complete 25% da obra, viola o art. 32, III, do Estatuto da Pessoa com Deficiência.
+O Tribunal de origem reconheceu que o projeto imobiliário em exame não atendia aos preceitos legais de proteção à pessoa com deficiência.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, confiram-se os seguintes julgados deste Tribunal:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. APELAÇÃO. PRINCÍPIO DA DIALETICIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. CUMPRIMENTO DE LIMINAR. PERDA DE OBJETO. NÃO CARCATERIZADA. SÚMULA 568/STJ. EMPREENDIMENTO IMOBILIÁRIO. INOBSERVÂNCIA DOS PRECEITOS LEGAIS DE PROTEÇÃO À PESSOA COM DEFICIÊNCIA. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNIO NÃO PROVIDO.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, ainda que contrariamente à pretensão da parte recorrente, não padecendo o acórdão atacado de qualquer vício.
+2. Esta Corte de Justiça entende que a repetição de peças anteriores nas razões da apelação não ofende o princípio da dialeticidade quando puderem ser extraídas do recurso as razões e a intenção de reforma da sentença.
+3. A Jurisprudência desta Corte está consolidada no sentido de que o cumprimento da medida liminar concedida em mandado de segurança, ainda que tenha natureza satisfativa, não acarreta a perda do objeto do writ, permanecendo o interesse do impetrante no julgamento do mérito.
+4. Acolher a pretensão da recorrente, ora agravante, no sentido de que a sua opção construtiva atende aos preceitos legais aplicáveis, enseja o reexame da matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravio interno não provido.
+(AgInt no AREsp n. 1.903.949/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão do recorrente.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, chancelou a negativa de aprovação do projeto imobiliário com arrimo nas provas trazidas a juízo.
+4. Agravo interno desprovido
+(AgInt no AREsp n. 1.941.871/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
