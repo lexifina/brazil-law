@@ -1,0 +1,30 @@
+DECISÃO
+Em petição de habeas corpus, com pedido liminar, impetrado em favor de ADEMAR MAJOLO, no qual se alega coação ilegal por parte do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, no julgamento do Agravo de Execução Penal n. 8000205-19.2025.8.24.0018, assim ementado (fl. 54):
+AGRAVO EM EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA CONCEDIDA NA ORIGEM. INSURGÊNCIA DO MINISTÉRIO PÚBLICO.
+QUESTÃO EM DEBATE. NECESSIDADE DO EXAME CRIMINOLÓGICO. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO APENADO.
+RAZÕES DE DECIDIR. A PRETENSÃO MINISTERIAL NÃO POSSUI RELAÇÃO COM A DISCUSSÃO SOBRE A RETROATIVIDADE DA LEI 14.843.2024. POSSIBILIDADE DE SUBMISSÃO AO EXAME QUE DEPENDE DE JUSTA FUNDAMENTAÇÃO. SÚMULA 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REPROVÁVEL MODUS OPERANDI QUE EVIDENCIA A GRAVIDADE CONCRETA DA CONDUTA E A EXTREMA PERICULOSIDADE DO APENADO. APENADO QUE CUMPRE PENA POR TER MATADO ALGUÉM MOTIVADO PELA FORMA COMO FOI "OLHADO". UTILIZAÇÃO DE ARMA BRANCA EM CONTEXTO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. NECESSIDADE DA PROVA PARA AFERIÇÃO DO REQUISITO SUBJETIIVO. DECISÃO REFORMADA.
+RECURSO CONHECIDO E PROVIDO.
+Consta dos autos que o Juízo da execução deferiu o pedido de progressão de regime ao paciente. Inconformado, o Ministério Público interpôs agravo em execução, ao qual o Tribunal de origem deu provimento, conforme a ementa acima.
+A petição expõe a existência de constrangimento ilegal decorrente de alegada exigência de exame criminológico com base na gravidade do crime. Sustenta ainda que a jurisprudência é pacífica quanto à irretroatividade da Lei n. 14.483/2024, requerendo, liminarmente e no mérito, o restabelecimento da decisão do Juízo de primeiro grau.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério público manifestou-se nos temos da seguinte ementa (fl. 72):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. EXAME CRIMINOLÓGICO. POSSIBILIDADE. GRAVIDADE CONCRETA. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório. Decido.
+Das informações prestadas pelo Juízo de primeiro grau, em 21/5/2025, extrai-se (fl. 69):
+ ..  Trata-se de processo de execução das penas cominadas ao sentenciado ADEMAR MAJOLO, condenado no processo-crime n. 0000873-32.2017.8.24.0043, à pena de 16 (dezesseis) anos de reclusão, em regime inicial fechado, pela prática do crime tipificado no art. 121, §2º, incisos I e IV do Código Penal. Consoante informações alimentadas no sistema, o reeducando iniciou o resgate da reprimenda em 01/09/ 2017, registra 10 (dez) meses e 29 (vinte e nove) dias de interrupção e conta com 88 (oitenta e oito) dias remição homologados em seu favor. Foi deferida a progressão ao regime semiaberto a partir de 15/02/2025 (mov. 168.1) e direito a saída temporária a partir do ingresso no regime semiaberto (mov. 197.1). Referidas decisões foram proferidas dispensando a realização de exame criminológico. Em razão da informação de evasão do apenado, não tendo retornado da saída temporária prevista de 05/04/2025 a 12/04/2025 (movs. 219 e 220), foi determinada a regressão cautelar do apenado ao regime fechado. Cumprido o mandado de recaptura (movs. 233 e 235). Sobreveio acórdão julgando pela revogação da saída temporária e determinando a realização de exame criminológico (mov. 246.1). O processo aguardar designação da audiência de justificação. ..
+Como visto, diante dos fatos novos acima noticiados - "evasão do apenado  ora paciente , não tendo retornado da saída temporária prevista de 05/04/2025 a 12/04/2025, foi determinada a regressão cautelar do apenado ao regime fechado" -, não se deve conhecer do presente mandamus, porquanto a autorização para saídas temporárias, como visitas periódicas ao lar, não é compatível com o cumprimento de pena no regime fechado. Nesse sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS PARA VISITA PERIÓDICA AO LAR. PACIENTE EM REGIME SEMIABERTO. EVASÃO DURANTE O PERÍODO DE SAÍDA TEMPORÁRIA. REGRESSÃO CAUTELAR PARA O REGIME FECHADO. LIMINAR CASSADA. HABEAS CORPUS DENEGADO.
+I. CASO EM EXAME
+1. Habeas corpus, com pedido de liminar, impetrado em favor de Jefferson Vasconcelos Vieira contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que deu provimento a agravo de execução penal interposto pelo Ministério Público, revogando o benefício de saída temporária concedido ao paciente para visita periódica ao lar no regime semiaberto. O paciente havia sido autorizado a usufruir do benefício pelo juízo da execução, mas, após decisão liminar restabelecendo tal benefício, evadiu-se durante uma das saídas, motivando a decretação de regressão cautelar ao regime fechado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) avaliar se o benefício de saída temporária para visita periódica ao lar é compatível com a situação do paciente no regime semiaberto, considerando seu histórico de comportamento e laços familiares; e (ii) verificar a legalidade da regressão cautelar ao regime fechado em decorrência da evasão do paciente durante o período de saída temporária.
+III. RAZÕES DE DECIDIR
+3. A progressão ao regime semiaberto não assegura automaticamente o direito a saídas temporárias, exigindo o cumprimento dos requisitos previstos no artigo 123 da Lei de Execução Penal (LEP), como bom comportamento e compatibilidade do benefício com os objetivos da pena.
+4. Conforme informações colhidas do site do Tribunal de origem, após o deferimento do pedido de liminar, o paciente evadiu-se, razão pela qual foi determinada pelo juízo da execução a regressão ao regime fechado.
+5. A autorização para saídas temporárias, como visitas periódicas ao lar, não é compatível com o cumprimento das penas em regime fechado. Ausente requisito objetivo, deve ser cassada a liminar antes deferida e denegado o mérito do presente habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+(HC n. 878.425/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Diante do exposto, não conheço da ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
