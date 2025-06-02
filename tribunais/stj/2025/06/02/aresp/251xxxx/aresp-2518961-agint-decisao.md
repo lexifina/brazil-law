@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por ROMILDO APARECIDO ALVES contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que não houve indicação de qual das alíneas do art. 105, III, da Constituição Federal está fundamentado o recurso especial.
+Em face das razões de fls. 442-450, reconsidero a decisão agravada.
+Com efeito, é inequívoco que o recurso especial fundamenta-se em alegação de contrariedade de lei federal. A ausência de indicação da previsão constitucional não prejudica, por si só, a compreensão da controvérsia, de modo que se afasta a Súmula 284/STF aplicada pela decisão ora agravada.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Ação de indenização por danos materiais e morais. Alegação de existência de vícios ocultos em veículo automotor usado. Sentença de improcedência. Apelação manejada pelo autor. Exame: pedido de revogação do benefício da justiça gratuita concedido ao autor afastado. Ausência de vistoria e de avaliação anterior à aquisição do automóvel, a qual era de incumbência do autor e que leva à assunção dos riscos do negócio. Impossibilidade de imputar à ré a responsabilidade pelos problemas no automóvel. Prova técnica que concluiu que os defeitos verificados no carro não eram de natureza oculta e que não impossibilitavam o uso do bem móvel. Venda de veículo usado que pressupõe a existência de defeitos decorrentes de desgaste de uso do bem. Impossibilidade de utilização do automóvel não comprovada. Responsabilidade da ré afastada. Ausente comprovação de conduta dolosa na venda do veículo, tampouco de que houve reclamação sobre os defeitos após a aquisição e que a requerida teria se comprometido a consertá-los. Ônus da prova dos fatos constitutivos do direito que pertencia ao apelante, nos termos do artigo 373, I do Código de Processo Civil. Sentença mantida. Honorários sucumbenciais majorados. RECURSO NÃO PROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 6º e 18 do Código de Defesa do Consumidor.
+Assim posta a questão, observo que o recurso não dispensa o reexame de prova. O agravante procura demonstrar que adquiriu da agravada veículo com vício oculto, razão pela qual faz jus a indenização por danos materiais e morais. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 407):
+(..) não prosperam as alegações do apelante de que a requerida entregou o veículo sem o laudo de vistoria, que, por sua vez, não continha assinatura do responsável técnico e indicação da quilometragem do veículo, já que a avaliação prévia do automóvel cabia ao requerente.
+(..)
+Lado outro, o autor não logrou êxito em comprovar que os vícios apontados na petição inicial e nas razões recursais eram, de fato, ocultos e que impossibilitavam a utilização do veículo, o que era necessário para caracterizar a responsabilidade da requerida pela venda de veículo usado impróprio para utilização. Nesse sentido, foi realizada prova técnica para verificar se "o veículo estava em perfeito funcionamento e os vícios descritos na petição inicial eram de fácil constatação".
+(..)
+Dessa maneira, percebe-se que, embora tenham sido constatados defeitos no automóvel, descritos a fls. 259/261 do laudo pericial, concluiu-se que os defeitos eram possíveis de constatação por um ser humano médio (leigo), não podem ser classificados como de natureza oculta e não tornam o produto impróprio para uso.
+Além disso, o autor não comprovou a realização de reclamação à requerida em relação aos defeitos na pintura e na embreagem do veículo, tampouco acostou aos autos elementos que demonstrem que a ré se comprometeu a consertar os defeitos do automóvel.
+Assim, ausente a comprovação da prática de ato ilícito pela ré.
+Não há como afastar essas conclusões sem reexame de prova, aplicando-se ao caso a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
