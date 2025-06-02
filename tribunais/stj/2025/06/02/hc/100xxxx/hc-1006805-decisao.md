@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALBERTO GARCIA GOMEZ contra suposto ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+É o relatório. DECIDO.
+A presente impetração não possui petição inicial, embora tenha sido impetrada por patrona que não atua em causa própria.
+Assim, a presente ação constitucional não permite atestar qualquer ilegalidade, já que se mostra incompleta.
+Assente nesta Corte que a instrução inadequada da ação mandamental conduz ao não conhecimento imediato da impetração:
+ ..  em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, não sendo atribuição desta Corte Superior a instrução do feito, ainda que por meio de consulta ao site do Tribunal de origem  ..  (AgRg nos EDcl no HC n. 704.066/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/2/2022, grifei).
+Isso porque a jurisprudência entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+ ..  A adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021). Assim, ao não zelar pela devida instrução do habeas corpus, a Defesa impede a apreciação do fundo da controvérsia. Exige-se que as cópias dos documentos essenciais à análise da controvérsia sejam acostadas aos autos pela Parte Impetrante, para que possam ser cotejados com as alegações defensivas - exame imprescindível para o reconhecimento, ou não, de que o direito invocado está constituído. Ademais, não pode ser transferido ao Superior Tribunal de Justiça o ônus de formar adequadamente os autos, como na verdade pretende o Recorrente (EDcl no AgRg no HC n. 797.698/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/6/2023).
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, Rel. Min. Nunes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, Relª. Minª. Carmen Lúcia, DJe de 22/3/2023.
+Logo, diante da deficiência na presente ação constitucional, é inviável se concluir por um constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
