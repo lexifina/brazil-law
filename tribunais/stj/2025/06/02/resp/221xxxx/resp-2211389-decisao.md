@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por Luciana Leite Sarmento, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 186):
+MANDATO EXERCIDA PELO PATRONO DA PARTE. PERDA SUPERVENIENTE DA CAPACIDADE POSTULATÓRIA. COMUNICAÇÃO À IMPETRANTE REALIZADA EM CONFORMIDADE COM O ART. 112 DO CPC. PROVIDÊNCIA SUFICIENTE. A JURISPRUDÊNCIA DO STJ FIRMOU O ENTENDIMENTO DE QUE A RENÚNCIA DE MANDATO REGULARMENTE COMUNICADA PELO PATRONO AO SEU CONSTITUINTE, NA FORMA DO ART. 112 DO NCPC, DISPENSA A DETERMINAÇÃO JUDICIAL PARA INTIMAÇÃO DA PARTE OBJETIVANDO A REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL NOS AUTOS, SENDO SEU ÔNUS A CONSTITUIÇÃO DE NOVO ADVOGADO. EXTINÇÃO DO WRIT SEM RESOLUÇÃO DO MÉRITO. ART. 485, IV, DO CPC. REEXAME NECESSÁRIO PREJUDICADO.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 233/240).
+Sustenta a recorrente que "o v. acórdão recorrido merece reforma, eis que infringiu dispositivo de lei federal, malferindo a dicção do Código de Processo Civil, Lei 13.105/2015, em seus artigos 76, 112, 489, 932 e 1.022, divorciando-se da firme jurisprudência consolidada por esta Corte de Justiça" (fl. 209).
+Contrarrazões às fls. 254/255.
+Recurso admitido na origem (fls. 257/258).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Eitel Santiago de Brito Pereira, opinou pelo não conhecimento do apelo especial (fls. 272/275).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O presente recurso especial não pode ser conhecido, haja vista que a alegação genérica de ofensa a dispositivos de lei federal caracteriza deficiência de fundamentação recursal, a atrair os óbices das Súmulas 283 e 284/STF.
+Nesse sentido, os seguintes julgados:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL AMBIENTAL. MAU CHEIRO EM ESTAÇÃO DE TRATAMENTO DE ESGOTO. DANOS MORAIS. JUSTIÇA GRATUITA. AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO VERIFICADA. FALTA DE ATAQUE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INTIMAÇÃO PESSOAL. PRECLUSÃO. HIPOSSUFICIÊNCIA FINANCEIRA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ALEGADA VIOLAÇÃO GENÉRICA À LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF. TEMA REPETITIVO N. 1.178/STJ. SOBRESTAMENTO. DISTINÇÃO. PEDIDO INDEFERIDO.
+1. Não se verifica a alegada ofensa ao art. 1.022 do CPC, na medida em que o Juízo de origem dirimiu de forma clara e fundamentada as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A parte recorrente não atacou fundamentos basilares aptos, por si sós, a manter o decisum recorrido (não foram apresentados os documentos solicitados, operando-se a preclusão, bem como o fato de que a intimação se deu nos termos do parágrafo único do art. 274 do CPC, além de que é dever da parte manter o seu endereço atualizado), o que permite a aplicação à espécie do enunciado da Súmula n. 283/STF.
+3. No caso, a alteração das premissas adotadas pela Corte de origem quanto à regularidade da intimação bem como à preclusão e à comprovação de hipossuficiência, tal como colocada nas presentes razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+4. É insuficiente para a abertura da via especial a mera indicação de preceitos legais, uma vez que o apelo nobre deve conter, de forma clara e objetiva, as razões pelas quais a recorrente visa a reformar o decisum, demonstrando a maneira como o acórdão recorrido teria malferido a legislação federal. Impedimento da Súmula n. 284/STF. Precedentes.
+5. Não é caso de sobrestamento do presente feito em virtude da afetação do Tema Repetitivo n. 1.178/STJ, por versar questão distinta daquela discutida nos autos do recurso representativo de controvérsia.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.737.090/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 4/4/2025, grifo nosso.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
