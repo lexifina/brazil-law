@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto por PROGENIUS TRATAMENTO E DESTINAÇÃO FINAL DE RESÍDUOS DE NITERÓI EIRELI. contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação da Súmula 7/STJ não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 437-444, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 408, em que o agravante expõe as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS. AÇÃO MONITÓRIA. 1. Para desencadear a ação monitória basta a exibição de documento que permita ao juiz presumir a existência do direito alegado, conforme inteligência do art. 700, inciso I, do CPC. 2. Havendo comprovação de que os serviços foram prestados, de rigor a procedência da ação monitória. Sentença mantida. Recurso desprovido, com majoração da verba honorária.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 85, § 2º; 700, I; e 1022 do Código de Processo Civil. Sustenta que o acórdão recorrido é omisso e afirma não ter sido apresentada prova escrita. Impugna a fixação dos honorários em 20% (vinte por cento) do valor do débito.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1.022 do CPC.
+O recurso não poderia ser acolhido sem reexame de prova. O agravante procura discutir os requisitos para o ajuizamento da ação monitória e, em verdade, se a documentação é suficiente para demonstrar o crédito reclamado. A respeito do tema, porém, confiram-se os seguintes trechos do acórdão recorrido (fl. 322):
+(..) depreende-se da análise atenta dos autos que o título trazido aos autos é líquido e exigível, pois como apontou o juízo de primeira instância há comprovação da prestação dos serviços por parte da embargada.
+Muito embora a apelante alegue que não há prova da realização dos serviços, o conjunto probatório formado nos autos afasta esse argumento, sendo certo que por mais que se tente agasalhar a pretensão da apelante, o que se verifica nos autos é que nenhuma das assertivas invocadas se mostraram aptas a desconstituir o título monitório.
+Assim, devidamente instruída a ação com o título monitório e os respectivos documentos comprobatórios da contratação e valores devidos pela apelante.
+(..) depreende-se da análise do caso sub judice que há plena demonstração, pelas provas constantes dos autos, do inadimplemento das faturas referentes aos serviços prestados pela recorrente.
+Não há como afastar essas conclusões sem reexame de prova, aplicando-se ao caso a Súmula 7 do STJ.
+Da mesma forma, não se procede à revisão dos honorários advocatícios pretendida pela agravante, os quais foram fixados em 15% (quinze por cento) pela sentença e majorados para 20% (vinte por cento) do valor do débito pelo acórdão recorrido. Ou seja, estão dentro dos limites legais.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
