@@ -1,0 +1,5 @@
+## Disposições Transitórias
+Artigo 1° - O pessoal docente, técnico e administrativo que em 27 de setembro de 1994 se encontrava em exercício na Faculdade de Medicina de São José do Rio Preto - FAMERP e, com a concordância da Fundação Regional de Medicina de São José do Rio Preto, passou a prestar serviços à Faculdade, mantido o sistema remuneratório vigente, o regime de trabalho, garantidos seus direitos e vantagens, passam a constituir o Quadro Especial em Extinção da Secretaria do Ensino Superior.
+§ 1° - O pessoal integrante do Quadro Especial em Extinção de que trata este artigo continuará prestando serviços na FAMERP.
+§ 2° - As atuais funções ocupadas pelo pessoal de que trata o "caput" deste artigo ficam extintas nas respectivas vacâncias.
+§ 3° - Dentro de 30 (trinta) dias contados a partir da publicação desta lei complementar, o Diretor Geral da Faculdade de Medicina de São José do Rio Preto - FAMERP encaminhará à Secretaria do Ensino Superior a relação nominal do pessoal a que se refere o "caput" deste artigo, contendo a denominação da respectiva função ocupada, que deverá publicá-la.
