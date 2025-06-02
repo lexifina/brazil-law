@@ -1,0 +1,2 @@
+Artigo 2° - Os atuais servidores docentes e Auxiliares de Docente integrantes das classes constantes dos Anexos I, II e III desta lei complementar terão as respectivas funções regidas pela Consolidação das Leis do Trabalho enquadradas na forma neles prevista.
+Parágrafo único - O disposto neste artigo aplica-se, nas mesmas bases e condições, aos docentes e Auxiliares de Docente contratados por prazo determinado.
