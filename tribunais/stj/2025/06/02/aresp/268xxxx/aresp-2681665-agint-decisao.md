@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto por Michelli Medeiros Braz contra decisão de fls. 736-738 em que neguei provimento ao agravo em recurso especial pelos seguintes fundamentos: a) a presunção relativa de hipossuficiência foi afastada devido à comprovação da capacidade econômica da agravante para arcar com as custas do processo; b) aplicação das Súmulas 7 e 83 do Superior Tribunal de Justiça, que impedem o reexame de fatos e provas e a divergência jurisprudencial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida; e c) não há omissão ou obscuridade na decisão, pois a tese refutada pode ser extraída logicamente do acórdão recorrido.
+Nas razões do presente recurso, a agravante defende, em síntese, que a decisão agravada não considerou a necessidade de suspensão do julgamento até a resolução do Recurso Especial nº 1.988.686, afetado para julgamento como tema repetitivo, que trata de tema idêntico ao do presente recurso.
+Argumenta que aufere renda mensal inferior a três salários mínimos, o que caracteriza presunção de hipossuficiência conforme os artigos 98 e 99, § 2º, do Código de Processo Civil.
+Aduz que os bens da agravante são imobilizados e necessários para sua manutenção e dignidade, não podendo ser considerados como recurso disponível para o cumprimento de obrigações processuais.
+Alega que a decisão incorreu em negativa de prestação jurisdicional ao não considerar adequadamente a hipossuficiência da agravante.
+A parte agravada não apresentou impugnação (fl. 803).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que a questão de direito debatida nestes autos - definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de Justiça formulado por pessoa natural, levando em conta as disposições dos artigos 98 e 99, § 2º, do Código de Processo Civil, - foi afetada pela Segunda Seção desta Corte Superior para julgamento sob o rito dos recursos repetitivos, Tema 1.178.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, reconsidero a decisão agravada de fls. 736-738 e, nos termos do inciso II do art. 1.037 do Código de Processo Civil/2015, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia, e, após, que se proceda em conformidade com os comandos dos arts. 1.040 e 1.041 do Código de Processo Civil/2015.
+Intimem-se.
+EMENTA
