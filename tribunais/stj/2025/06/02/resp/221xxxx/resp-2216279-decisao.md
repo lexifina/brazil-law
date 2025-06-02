@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por CARLOS ALBERTO SEHN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 1147):
+"APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE DO PROPRIETÁRIO REGISTRAL DO BEM MÓVEL (CAMINHÃO ENGATADO A UM SEMI-REBOQUE.). PROPRIETÁRIOS DISTINTOS. 1. PRELIMINAR DE REVOGAÇÃO DA BENESSE JUDICIÁRIA DE UMA DAS AUTORAS DEFERIDA, VEZ QUE A LITIGANTE AUFERE VALORES INCOMPATÍVEIS COM A ALEGADA HIPOSSUFICIÊNCIA ECONÔMICA. 2. NA HIPÓTESE DOS AUTOS, INCONTROVERSO QUE O ACIDENTE DE TRÂNSITO OCORREU POR CULPA EXCLUSIVA DO CONDUTOR - NÃO PROPRIETÁRIO - DO CAMINHÃO DE PLACAS IRD 8659, QUE ESTAVA ENGATADO A UM SEMI-REBOQUE, FATO ESTE QUE ACARRETOU NO ÓBITO DO MARIDO DA AUTORA GEOVANA E PAI DA SEGUNDA DEMANDANTE LILIAN. 3.. O PROPRIETÁRIO DO BEM MÓVEL DEVE RESPONDER PELOS PREJUÍZOS CAUSADOS PELO MOTORISTA EM VIRTUDE DE ACIDENTE DE TRÂNSITO. 4. RESPONSABILIDADE DO PROPRIETÁRIO DO CAMINHÃO E DO PROPRIETÁRIO DO SEMI- REBOQUE CONFIGURADAS. 5. SEMI-REBOQUE APÓS ACOPLADO AO VEÍCULO (CAMINHÃO), É CONSIDERADO UM BEM SÓ, DE MODO QUE PERTENCENDO OS BENS MÓVEIS A PROPRIETÁRIOS DIVERSOS, A RESPONSABILIDADE É OBJETIVA E SOLIDÁRIA POR EVENTUAIS DANOS QUE VENHA A OCASIONAR, POSTO QUE A GUARDA JURÍDICA DO BEM PERTENCE AO DONO. 6. DANOS MORAIS QUE INDEPENDEM DE COMPROVAÇÃO POR DECORREREM DO PRÓPRIO ATO VIOLADO. QUANTUM ARBITRADO NA ORIGEM MANTIDO, POIS DE ACORDO COM A JURISPRUDÊNCIA DESTA CÂMARA CÍVEL. 7. PENSÃO POR MORTE MANTIDA. NÃO OBSTANTE A DEMANDANTE ESTEJA PERCEBENDO PENSIONAMENTO EM RAZÃO DA MORTE DO SEU ESPOSO, TAL FATO POR SI SÓ, NÃO AFASTA A POSSIBILIDADE DE OBTER REPARAÇÃO PELOS DANOS MATERIAIS DECORRENTES DO ATO ILÍCITO, DADO A NATUREZA DIVERSA DAS PARCELAS. RECURSOS PARCIALMENTE PROVIDOS."
+Rejeitados os embargos de declaração opostos (fls. 1203/1206).
+No recurso especial, alega a parte recorrente ofensa ao art. 373, I, do CPC, sustentando o direito à pensão mensal, decorrente da perda de ente familiar, que depende da comprovação da dependência econômica do falecido até o momento do óbito, não sendo esta presumível. I ncabível o pensionamento a título de dano material, na presente hipótese, pois não demonstrada a efetiva dependência econômica do recorrido com o falecido.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1236/1251).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1255/1258), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1290/1303).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e, ante as circunstâncias que envolvem a lide, inclusive o elevado valor da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. PENSIONAMENTO. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
