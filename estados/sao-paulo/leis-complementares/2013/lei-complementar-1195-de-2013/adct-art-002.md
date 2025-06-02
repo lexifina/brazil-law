@@ -1,0 +1,1 @@
+Artigo 2° - Ficam extintas, na data da publicação do Regulamento do DETRAN-SP, as funções de serviço público retribuídas por "pro labore", nos termos do § 2° do artigo 28 da Lei n° 10.168, de 10 de julho de 1968, classificadas na Coordenadoria do Departamento Estadual de Trânsito, da Secretaria de Planejamento e Desenvolvimento Regional.
