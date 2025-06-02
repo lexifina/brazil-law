@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória de urgência, formulado por SC PROPERTIES PARTICIPAÇÕES LTDA e SC EMPREENDIMENTO IMOBILIÁRIO SPE LTDA, por meio do qual se objetiva a atribuição de efeito suspensivo a recurso especial por eles interposto.
+Ação: incidente de desconsideração da personalidade jurídica, apresentado por BANCO SAFRA S/A.
+Decisão: acolheu parcialmente o incidente.
+Acórdão: negou provimento ao agravo de instrumento interposto pelas requerentes.
+Recurso especial: alegam violação dos arts. 50 e 187 do CC e 789 do CPC.
+Decisão da Presidência do TJSP: indeferiu o pedido de atribuição de efeito suspensivo formulado pelas requerentes.
+Pedido de tutela provisória: afirmam estarem presentes os requisitos que autorizam a atribuição de efeito suspensivo ao recurso especial. Alegam que estão "expostas à adoção de atos constritivos e expropriatórios incidentes sobre patrimônio absolutamente estranho à relação obrigacional subjacente à execução" (e-STJ fl. 6). Afirmam que "A plausibilidade jurídica do direito invocado (fumus boni iuris) revela-se de forma inequívoca, pois a decisão que determinou a inclusão das Recorrentes no polo passivo da execução viola frontalmente o artigo 50 do Código Civil, ao admitir a desconsideração da personalidade jurídica sem qualquer demonstração concreta de desvio de finalidade ou confusão patrimonial. Tampouco há qualquer elemento que permita vincular as Recorrentes aos devedores principais, sejam eles de ordem societária, contratual ou econômica." (e-STJ fl. 8). Prosseguem aduzindo que, "Além disso, resta patente a violação à ordem concursal, na medida em que o credor se valeu indevidamente do incidente de desconsideração da personalidade jurídica como meio de fraudar os efeitos da recuperação judicial  .. " (e-STJ fl. 9).
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+O exame do pedido de atribuição de efeito suspensivo exige a verificação da presença de dois requisitos cumulativos: a probabilidade do direito invocado (ou seja, a possibilidade de êxito da pretensão recursal) e o perigo advindo da demora da prestação jurisdicional.
+Na espécie, contudo, ao menos em juízo perfunctório, depreende-se que a pretensão deduzida no recurso especial afigura-se inviável de acolhimento, uma vez que a alteração da conclusão do acórdão recorrido - que reconheceu estarem presentes os requisitos necessários à desconsideração da personalidade jurídica (abuso da personalidade decorrente de desvio de finalidade e confusão patrimonial) - exigiria o reexame de fatos e provas, providência vedada a esta Corte em razão do óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 2.743.051/SP (Terceira Turma, DJEN 8/5/2025) e AgInt no AREsp n. 2.686.888/SP (Quarta Turma, DJEN 8/5/2025).
+Ademais, não há qualquer risco de dano atual e concreto, uma vez que não foram determinadas medidas constritivas sobre o patrimônio das requerentes.
+Assim, não preenchidos os pressupostos cumulativos necessários à concessão da tutela pretendida, inviável seu deferimento.
+Forte nessas razões, INDEFIRO o pedido de atribuição de efeito suspensivo ao recurso especial.
+EMENTA
