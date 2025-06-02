@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ODIVALDO TEODORO BELÉM contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins em apelação nos autos de ação de interdito proibitório.
+O julgado foi assim ementado (fls. 739-740):
+APELAÇÃO CÍVEL. AÇÃO DE INTERDITO PROIBITÓRIO. REQUISITOS DO ARTIGO 567 DO CPC PREENCHIDOS. POSSE CARACTERIZADA. IMPOSSIBILIDADE DE DISCUSSÃO ACERCA DA PROPRIEDADE DO BEM. JUSTIÇA GRATUITA CONCEDIDA. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. No caso, a situação fática examinada autoriza a concessão do benefício pretendido, visto que o recorrente, além de declarar expressamente que não dispõe de recursos pecuniários su cientes para arcar com as despesas judiciais, pois é aposentado e percebe apenas um salário-mínimo, faz jus à concessão do benefício da gratuidade judiciária.
+2. A ação de interdito proibitório se presta à defesa preventiva da posse, diante da ameaça de iminentes atos de turbação ou esbulho, objetivando impedir a consumação do ato de violência temido.
+3. Para a procedência do pedido formulado na ação de interdito proibitório é necessário que a parte comprove cabalmente a sua posse, seja justa ou injusta, e a ameaça de iminentes atos de turbação ou esbulho, conforme os precisos termos do artigo 567 do Código de Processo Civil, pouco importando perquirir acerca do domínio ou propriedade do bem objeto do litígio.
+4. No caso em tela, o recorrente não logrou êxito em demonstrar que os recorridos não possuíam a posse atual do imóvel. Pelo contrário, depreende-se dos documentos que compõem o acervo probatório que os recorridos exercem sua posse sobre a propriedade, vez que vêm promovendo a manutenção do imóvel ao longo do tempo de modo atento e diligente, além do intento de regularização da propriedade junto ao ITERTINS (evento 01, REQ6, dos autos originários).
+5. Em que pese a alegação de suposto justo título do terreno, eis que sustenta a aquisição do imóvel de André Aires da Silva Sobrinho, correspondendo a 100 (cem) alqueires, ressalta-se que não se discute na ação de interdito proibitório a propriedade do bem, e sim, a ameaça iminente à posse.
+6. Recurso conhecido e não provido. Sentença mantida.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 373, II, do CPC, pois a decisão recorrida desconsiderou os elementos probatórios apresentados pelo recorrente, que comprovaram que os autores nunca exerceram a posse sobre o imóvel em questão;
+b) 1.196 do CC, porquanto o agravante demonstrou, por meio de provas documentais e testemunhais, que exerce a posse sobre o imóvel de forma contínua e pacífica há vários anos, e, ao desconsiderar esses elementos, contrariou expressamente o disposto no referido artigo.
+Sustenta que o Tribunal de origem divergiu ao não reconhecer a legitimidade da posse exercida pelo recorrente, conforme demonstrado por provas documentais e testemunhais.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a posse legítima do recorrente sobre o imóvel em questão.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de interdito proibitório em que a parte autora pleiteou a proteção da posse sobre o imóvel denominado Fazenda Barra Azul, localizado no Município de Natividade/TO, diante de alegações de turbação por parte do agravante.
+Na origem, a Corte reconheceu que não foi demonstrado pelo agravante que os agravados estariam desprovidos da posse atual do imóvel. Ao revés, os elementos constantes dos autos evidenciam que os agravados exercem posse legítima sobre o bem, notadamente em razão das medidas adotadas para sua conservação e manutenção ao longo do tempo, de forma contínua e diligente, bem como pela iniciativa voltada à regularização dominial junto ao órgão competente.
+Confira-se trecho do acórdão recorrido (fl. 732):
+Assim, o possuidor é quem, em seu nome próprio, exterioriza alguma das faculdades da propriedade, quais sejam: usar, gozar, dispor de seus bens e revê-los do poder de quem quer que injustamente os possua, seja ele proprietário ou não.
+No caso em tela, o recorrente não logrou êxito em demonstrar que os recorridos não possuíam a posse atual do imóvel. Pelo contrário, depreende- se dos documentos que compõem o acervo probatório que os recorridos exercem sua posse, vez que vêm promovendo a manutenção do imóvel ao longo do tempo de modo atento e diligente, além do intento de regularização da propriedade junto ao ITERTINS (evento 01, REQ6, dos autos originários).
+Os recorridos comprovaram, ainda, a retirada dos marcos que foram postos no imóvel, com a finalidade de demarcação da propriedade para fins de titulação do bem, os quais foram deixados ao lado da casa do recorrente, demonstrando a ameaça iminente à posse da área (evento 01, FOTO11, dos autos de origem).
+No que se refere à alegada violação dos arts. 373, II, do CPC, e 1.196 do CC, sustenta a parte agravante que a decisão recorrida desconsiderou os elementos probatórios constantes dos autos, os quais demonstrariam que os autores jamais exerceram posse sobre o imóvel objeto da lide. Alega ainda que logrou comprovar, por meio de provas documentais e testemunhais, o exercício da posse mansa, pacífica e contínua sobre o bem por período prolongado.
+Dessa forma, alterar o entendimento do Tribunal a quo demandaria reexame do acervo probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ. Por conseguinte, é incabível a pretensão recursal que visa rediscutir matéria eminentemente fática já solucionada pelas instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 12% para 14% sobre o valor atualizado atribuído à causa, os honorários advocatícios em desfavor da parte ora rec orrente, ressalvada eventual concessão de gratuidade de justiça.
+Publiqu e-se. Intimem-se.
+EMENTA
