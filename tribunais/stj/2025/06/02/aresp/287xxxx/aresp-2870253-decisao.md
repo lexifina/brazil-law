@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. contra decisão que inadmitiu recurso especial com fundamento na Súmulas n. 7 e 83 do STJ.
+A agravante alega que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo em apelação nos autos de ação de busca apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária.
+O julgado foi assim ementado (fl. 112):
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - NOTIFICAÇÃO EXTRAJUDICIAL - ENVIADA PARA O ENDEREÇO DO CONTRATO - NÃO ENTREGUE - MOTIVO "NÃO PROCURADO" - PROTESTO POR EDITAL - AUSÊNCIA DE ESGOTAMENTO DAS DILIGÊNCIAS PRÉVIAS - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1. O C. STJ tem firme entendimento no sentido de que, para fins de constituição em mora, não se exige a notificação pessoal do devedor, porém a entrega da correspondência no endereço do contrato é imprescindível para a regularidade da notificação extrajudicial.
+2. O Superior Tribunal de Justiça considera, ainda, válida a notificação por edital quando realizada após o esgotamento da ciência do devedor.
+3. Caso concreto, em que não foi comprovado o esgotamento das diligências prévias ao edital destinadas à localização do consumidor, motivo pelo qual não estaria comprovada a constituição em mora do recorrido.
+4. Notificação devolvida pelo motivo "não procurado" que indica que o devedor reside em área sem entrega domiciliar dos Correios.
+5. Tal fato não faz com que se constate a má-fé do devedor - como o STJ admite nas hipóteses em que a correspondência é devolvida pelo motivo "mudou-se" - a ensejar a validade da notificação, ainda que não entregue.
+6. Recurso conhecido e desprovido.
+Nas razões do recurso especial, a parte recorrente alega negativa de vigência dos arts. 2º, §§ 2º e 3º, do Decreto-Lei n. 911/1969.
+Defende a regular constituição da mora da parte devedora, que decorre do simples vencimento do prazo para pagamento, e a necessidade de observância dos princípios contratuais da lealdade e da boa-fé, uma vez que a notificação extrajudicial foi encaminhada para o endereço fornecido no momento da assinatura do contrato.
+Requer a reforma do acórdão para reconhecer a validade da notificação encaminhada ao endereço do contrato, co m o prosseguimento do feito.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+A controvérsia diz respeito a validade da notificação extrajudicial para fins de constituição em mora. O valor da causa é de R$ 22.955,45.
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsp n. 1.951.662/RS e REsp n. 1.951.888/RS, submetidos ao rito dos repetitivos).
+No caso, o Tribunal local manteve a sentença, que extinguira a ação de busca e apreensão ao fundamento de não ter sido demonstrada a regular constituição da parte devedora em mora, porquanto não entregue a notificação no endereço declinado no contrato. Confira-se (fls. 108-111):
+Destaco não desconhecer as mudanças de entendimento que vêm sendo promovidas pelo Egrégio Superior Tribunal de Justiça em relação à temática em análise. Sucede que, nas recentes oportunidades em que o Tribunal da Cidadania reconheceu como válida a notificação enviada ao endereço do devedor constante no contrato, ainda que não entregue, tratavam-se de casos em que a notificação não fora entregue sob a justificativa de "mudou-se".
+Assim, nessas hipóteses específicas, a Corte Cidadã considerou a ocorrência de má-fé por parte do consumidor, que não informou a alteração de endereço à instituição financeira, a qual não disporia de meios para obter a referida informação.
+Porém, a meu sentir, a situação em análise não se aproxima da apresentada acima, não sendo possível concluir pela má-fé do apelado, o qual apenas não compareceu à agência dos correios, dentro do prazo, para retirada da correspondência.
+ ..
+Com efeito, entendo ainda serem aplicáveis os precedentes deste Sodalício que compreendem que, na hipótese de inviabilidade de entrega de notificação pelo motivo "não procurado", deve o credor promover maiores diligências antes que se proceda à notificação por edital.
+ ..
+Portanto, considero que a sentença vergastada não carece de reparo na medida em que, de fato, o apelante não cumpriu os requisitos necessários para proceder à notificação por edital.
+Observa-se que o Tribunal a quo afirmou que não houve a constituição em mora da devedora por falta de comprovação nos autos de que a notificação fora efetivamente entregue no endereço indicado no contrato, uma vez que devolvida por motivo "não procurado" .
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar -lhe provimento a fim de determinar o prosseguimento do feito na origem, diante da regular constituição em mora do devedor.
+Publique-se. Intimem-se.
+EMENTA
