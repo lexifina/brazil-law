@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de GUILHERME PIMENTA DOS SANTOS SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ no julgamento do Agravo Regimental no Habeas Corpus n. 0015407- 70.2025.8.19.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, no dia 22/2/2025, teve a custódia convertida em prisão preventiva, sendo posteriormente denunciado pela suposta prática da infração penal tipificada no art. 33 da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, mas o pedido foi indeferido liminarmente por decisão monocrática de Desembargador. Interposto recurso, o agravo não foi provido, conforme acórdão assim ementado:
+"AGRAVO REGIMENTAL EM FACE DE DECI- SÃO MONOCRÁTICA DE REJEIÇÃO LIMINAR DE HABEAS CORPUS - INSURGÊNCIA DEFEN- SIVA DIANTE DE DECISÃO MONOCRÁTICA QUE EXTINGUIU O REMÉDIO HEROICO SEM JULGAMENTO DO MÉRITO, POR AUSÊNCIA DE PRÉVIO ESVAZIAMENTO DA INSTÂNCIA E DE FALTA DE ATUALIZAÇÃO DOS AUTOS DA IMPETRAÇÃO, AO ARGUMENTO DE QUE O WRIT SE CARACTERIZA COMO MEIO IMPUG- NATIVO AUTÔNOMO E DESTINADO A ALVE- JAR DECISÃO PROFERIDA PELO JUÍZO DA AUDIÊNCIA DE CUSTÓDIA, SEM PREJUÍZO DE QUE A NÃO APRECIAÇÃO DAQUELE VULNE- RARIA O PRINCÍPIO DA COLEGIALIDADE - IMPROCEDÊNCIA DA PRETENSÃO RECUR- SAL DEFENSIVA - DESMERECE ACOLHIDA A PRETENSÃO RECURSAL DEFENSIVA, POR- QUANTO A MATÉRIA VERSADA, ACERCA DA INADMISSIBILIDADE DA UTILIZAÇÃO DO RE- MÉDIO HEROICO SEM A PRÉVIA ADOÇÃO DAQUELA CAUTELA E DE MODO A PREVENIR A SUPRESSÃO DE INSTÂNCIA E A VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL, ENCON- TRA ENTENDIMENTO PACIFICADO POR ESTE COLEGIADO E SEM QUE VIOLE POSIÇÃO ADOTADA POR TRIBUNAIS SUPERIORES E QUE SEJA DE UTILIZAÇÃO COMPULSÓRIA - DESPROVIMENTO DO RECURSO." (fl. 86)
+Neste writ, a Defensoria Pública alega que a Corte estadual incorreu em negativa de jurisdição ao exigir "esvaziamento de instância".
+Pondera que não foi apresentada fundamentação idônea para a segregação cautelar do paciente, a qual estaria baseada em argumentos genéricos, sem demonstração de elementos objetivos que justificassem a medida extrema, reputando ausentes os requisitos autorizadores da prisão preventiva, elencados no art. 312 do Código de Processo Penal - CPP.
+Ressalta as condições pessoais favoráveis do acusado e a possibilidade de aplicação das medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se viabiliza a análise das alegações para eventual concessão da ordem de ofício.
+Da leitura do feito verifica-se que a irresignação defensiva não foi examinada pela Corte estadual . De se destacar que a apreciação de qualquer questão pelo Superior Tribunal de Justiça, até mesmo matéria de ordem pública, exige prévia deliberação na instância de origem.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em dupla supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGAGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE INDULTO. EXTINÇÃO DA PUNIBILIDADE. PREJUDICIALIDADE DA ORDEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A matéria relativa à alegação de prescrição da pretensão punitiva, na modalidade retroativa, não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+2. Verifica-se que, em 17/4/2023, foi concedido indulto ao ora recorrente, nos termos do art. 5º do Decreto Presidencial n. 11.302/2022, tendo sido julgada extinta a punibilidade em relação à ação penal a que se refere o presente recurso, de modo que o pleito aduzido no presente agravo se encontra prejudicado.
+3. "Tendo em vista a natureza do habeas corpus, vocacionado para a tutela do direito de liberdade, não se justifica a manutenção de sua marcha processual, diante da notícia de concessão de indulto ao paciente e, por conseguinte, extinção da punibilidade" (AgRg no HC n. 247.741/RN, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 11/3/2014, DJe 24/3/2014.)
+4. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 772.665/SC, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
