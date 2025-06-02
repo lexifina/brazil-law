@@ -1,0 +1,1 @@
+Artigo 6° - O processo de progressão de que trata o artigo 10 da Lei Complementar n° 674, de 8 de abril de 1992, relativo ao exercício de 2011, fica substituído pelo processo de progressão de que trata o artigo 7° das Disposições Transitórias desta lei complementar.

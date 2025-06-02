@@ -1,0 +1,6 @@
+Artigo 7° - No primeiro processo de progressão, de que trata o artigo 35 desta lei complementar, a ser realizado no exercício de 2012, poderão ser beneficiados até 40% (quarenta por cento) do total de servidores titulares de cargos ou ocupantes de funções-atividades integrantes de cada classe de nível elementar, nível intermediário e nível universitário.
+§ 1° - No processo de que trata o "caput" deste artigo, o servidor poderá concorrer a qualquer grau superior àquele em que o cargo de que é titular ou função-atividade de que é ocupante foi enquadrado, desde que:
+1 - em 30 de junho de 2011, conte com tempo de efetivo exercício superior a 4 (quatro) anos, no mesmo cargo ou função-atividade;
+2 - na data estabelecida para fins de apuração do interstício conte, na classe a que pertença, com tempo de efetivo exercício igual ou superior a soma dos interstícios previstos para os graus que antecedem aquele ao qual pretenda concorrer;
+3 - tenha obtido resultado final positivo no processo de avaliação de desempenho.
+§ 2° - Para fins do disposto no item 2 do § 1° deste artigo, considerar-se-á o tempo de serviço prestado sem solução de continuidade no cargo ou função-atividade cuja denominação foi alterada pelo artigo 1° das Disposições Transitórias desta lei complementar.

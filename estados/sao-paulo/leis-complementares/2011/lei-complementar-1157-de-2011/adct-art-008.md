@@ -1,0 +1,1 @@
+Artigo 8° - A Gratificação Especial de Suporte à Saúde - GESS, de que trata o artigo 20 desta lei complementar, fica automaticamente atribuída aos servidores integrantes das classes identificadas no Anexo XI, que, em 30 de junho de 2011, faziam jus à Gratificação Especial de Atividade - GEA, nos termos do artigo 34 da Lei Complementar n° 674, de 8 de abril de 1992.
