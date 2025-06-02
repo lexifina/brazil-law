@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por CERES NUNES MARQUES NOGUEIRA contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Piauí assim ementado (fl. 91):
+PROCESSUAL CIVIL - AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO DE INDEFERIU A GRATUIDADE DE JUSTIÇA - SUPERVENIÊNCIA DE SENTENÇA - PERDA DO OBJETO RECURSAL - INADMISSIBILIDADE - DECISÃO MANTIDA.
+1. Configura-se carência superveniente de interesse recursal, devendo ser julgado prejudicado o recurso, pois perdeu sua utilidade, diante da prolação da sentença. Tal circunstância, fazendo sem objeto o referido recurso, basta para a confirmação da deliberação que lhe negou seguimento.
+2. Decisão mantida. Agravo interno não provido à unanimidade.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 5º, incisos LIII, LIV e LV, da Constituição Federal e os arts. 101, §§ 1º e 2º, e 1.019, inciso I, do Código de Processo Civil.
+Alega que, ao determinar a extinção do processo por não recolhimento das custas, o acórdão local representa ilegalidade na condução do feito e violação ao devido processo legal.
+Contrarrazões de COSTA PINHEIRO EDIFICAÇÕES LTDA. às fls. 230-259.
+O recurso especial não foi admitido em virtude da ausência de prequestionamento, aplicando as Súmulas 211 do STJ e 282 do STF por analogia.
+Nas razões do seu agravo, a parte recorrente alega que a decisão de inadmissibilidade não observou que os embargos de declaração interpostos tentaram prequestionar os dispositivos indicados, mas as decisões embargadas se recusaram a apreciar as violações indicadas sob o fundamento de perda do objeto. Alega ainda que o relator deveria ter declarado o efeito em que estava recebendo o recurso para conceder o prazo de 5 dias para recolhimento das custas e comunicar ao juízo de origem para ciência e suspensão do feito.
+Impugnação de COSTA PINHEIRO EDIFICAÇÕES LTDA. às fls. 552-582, com pedido de aplicação de multa por litigância de má-fé.
+Assim delimitada a controvérsia, passo à análise do recurso.
+Inicialmente cumpre destacar a impropriedade da via eleita para fins de análise da tese de violação de dispositivos da Constituição Federal, providência que não poderia ser adotada nesta oportunidade, sob pena de invasão da competência atribuída ao STF.
+Verifica-se, da leitura do que decidido, que não houve análise acerca dos dispositivos de lei alegadamente violados, mesmo com a oposição de embargos de declaração, os quais foram rejeitados. Assim, ausente o requisito do prequestionamento, inviável o conhecimento da pretensão da agravante.
+Ressalta-se que, para que houvesse a possibilidade de reconhecimento do prequestionamento implícito, caso fosse a hipótese, a parte se entendesse indevida a rejeição de seus embargos de declaração na origem deveria arguir violação ao art. 1.022 do CPC, indicando negativa de prestação jurisdicional, providência não realizada pela parte no caso concreto. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NOVA ANÁLISE. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. SÚMULAS N. 282 E 356 DO STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITO INFRINGENTE.
+1. Na hipótese de ser constatada omissão em acórdão embargado, é necessário acolher o recurso integrativo para, afastando-se o não conhecimento do agravo, apreciar, em novo julgamento, a pretensão recursal.
+2. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+3. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+4. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+5. Não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC de 2015 e a falta de prequestionamento, com incidência das Súmulas n. 211 do STJ e 282 do STF em relação às teses invocadas pela parte recorrente que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia outros fundamentos utilizados pelo colegiado.
+6. Embargos de declaração acolhidos, sem efeitos infringentes" (EDcl no AgInt no AREsp n. 1.771.391/SP, relator Ministro João Otávio de Noronha, QUARTA TURMA, DJe de 27/6/2024.)
+"PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. PEDIDO DE RESTITUIÇÃO. FUNDAMENTO CONSTITUCIONAL. FALTA DE IMPUGNAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. MOTIVAÇÃO. FALTA DE COMPLETA IMPUGNAÇÃO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. DECISÃO SURPRESA. NÃO OCORRÊNCIA. DECISÃO EX OFFICIO. NÃO CONFIGURADA. SÚMULAS 283 E 284/STF E 5, 7, 126 E 211/STJ.
+1. "É inadmissivel recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta
+recurso extraordinário" (Enunciado 126 da Súmula do STJ).
+2. Não tendo havido o prequestionamento de parte dos temas ventilados no recurso especial, apesar de opostos embargos de declaração, sem que a parte agravante alegue violação do art. 1.022 do CPC, incide a Súmula 211/STJ.
+3. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória e contratual (Súmulas 5 e 7/STJ).
+5. "O princípio da não surpresa, constante no art. 10 do CPC/2015, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados" (Terceira Turma, REsp 1.957.652/SP, Rel. Ministra Nancy Andrighi, DJe de 18.2.2022).
+6. "O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito apenas ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico-sistemática da peça inicial aquilo que se pretende obter com a demanda, aplicando o princípio da equidade" (Quarta Turma, AgInt no AREsp 1.587.128/MG, Rel. Ministro Luis Felipe Salomão, DJe de 2.4.2020).
+7. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.986.647/SP, minha relatoria, QUARTA TURMA, DJe de 9/6/2023.)
+Assim, ante a ausência do requisito do prequestionamento, incide a Súmula
+211/STJ.
+Por fim, inviável a aplicação da multa pretendida pela parte agravada, pois a mera interposição de recurso legalmente previsto não caracteriza, por si só, intuito manifestamente protelatório.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
