@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA ROSILEIA DA CONCEICAO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 206):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PRELIMINAR DE INTEMPESTIVIDADE. REJEITADA. EMPRÉSTIMO BANCÁRIO. DESCONTOS EM CONTA. REVOGAÇÃO DA AUTORIZAÇÃO. RESOLUÇÃO Nº 4.790/2020 DO BANCO CENTRAL. IMPOSSIBILIDADE. AUTONOMIA DA VONTADE. SENTENÇA REFORMADA. 1. A intimação pelo Portal Eletrônico é considerada como forma especial e, portanto, prevalece sobre a forma genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas. Interposto o recurso dentro do prazo legal, não há falar em intempestividade. Preliminar rejeitada. 2. É contraditória e contrária boa-fé a conduta de contratar empréstimos com autorização de pagamento em conta corrente, e, passado algum tempo, solicitar o cancelamento da autorização. A Resolução n. 4.790/2020 deve ser lida com cautela, pois não permite a alteração de cláusulas contratuais ao alvedrio do devedor. 3. A anulação ou alteração de determinadas cláusulas contratuais depende da demonstração cristalina de vantagens unilaterais ou exageradas para uma das partes, ou, pelo menos, da demonstração de existência de determinações condições incompatíveis com a boa-fé e a equidade esperadas do negócio jurídico, como um todo - art. 421, parágrafo único, CC e art. 51, IV, CDC. Inexistindo provas nesse sentido, deve ser mantido o contrato nos termos em que foi pactuado.
+Rejeitados os embargos de declaração opostos (fl. 251).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, ainda, que o acórdão contrariou o art. 927, III, do CPC, ao não observar a tese fixada no Tema n. 1.085/STJ, segundo a qual a autorização de desconto em conta corrente pode ser revogada a qualquer tempo pelo consumidor.
+Foram oferecidas contrarrazões ao recurso especial (fls. 308 - 313).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 316 - 317), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 329 - 334).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+O Tribunal de origem consignou (fls. 213-215):
+Em que pese a existência de entendimento dissonante no âmbito deste Tribunal de Justiça no que diz respeito à interpretação dada à Resolução nº 4.790/2020 do Banco Central do Brasil, destaco que a maioria dos membros desta 8ª Turma Cível entende que o consumidor só pode requerer o cancelamento dos débitos automáticos nos casos em que não reconheça a existência de autorização prévia para implementação da medida. Como, por exemplo, nas hipóteses em que os contratos bancários sejam omissos quanto à adoção desta forma específica de pagamento - art. 9º, parágrafo único, da Resolução nº 4.790/2020.
+(..)
+Na espécie, a autora/apelada realizou novação de dívidas atreladas a diversos contratos, por meio de cédula de crédito bancário (ID 53841138).
+No ID 53841137 a autora/apelada junta cópia da notificação extrajudicial em que notifica o Banco de Brasília acerca do cancelamento e revogação unilateral das autorizações de débito automático em sua conta corrente junto à instituição.
+No entanto, a cópia do contrato juntado no ID 53841138 - Pág. 4, prevê de forma expressa cláusula de autorização de débito automático, que é reforçada no anexo denominado "formulário de autorização de débitos", pg. 9, de sorte que, como mencionado alhures, diante da previsão contratual expressa sobre a autorização de débito das parcelas diretamente em conta corrente, não há que se cogitar a possibilidade de cancelamento de sua autorização de forma unilateral pela contratante.
+A impossibilidade de revogação da autorização de desconto em conta corrente foi analisada com base no contrato, de forma que alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. CONTRATO DE MÚTUO. DESCONTO EM CONTA-CORRENTE. TEMA N. 1.085 DO STJ. AUTORIZAÇÃO EXPRESSA DOS DESCONTOS PELO CONSUMIDOR. REVOGAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC. AFASTAMENTO. SÚMULA N. 7 DO STJ.
+1. Não há que falar em violação do artigo 1.022 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de forma clara e fundamentada, se manifestou sobre os pontos alegados como omissos.
+2. O Tribunal de origem manifestou-se no mesmo sentido da pacífica jurisprudência desta Corte, incidindo, portanto, a Súmula n. 83/STJ.
+3. O acórdão local não fere o entendimento fixado no julgamento do Tema Repetitivo 1.085, porquanto a conclusão do Tribunal de origem foi alcançada a partir dos elementos informativos do processo fundamentando-se no fato de que, na espécie, há expressa autorização do recorrente para tais descontos.
+4. A modificação do julgado, nos moldes pretendidos pelo agravante, requer o reexame do conjunto fático-probatório dos autos, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+5. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável de análise na via do recurso especial por demandar reexame de matéria fático-probatória.
+Precedentes.
+Agravo interno improvido.
+(AgInt no REsp n. 2.146.642/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, observada eventual concessão da gratuidade de justiça.
+Publique-se. Intime-se.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. CONTRATO DE MÚTUO. DESCONTO EM CONTA-CORRENTE. TEMA N. 1.085 DO STJ. AUTORIZAÇÃO EXPRESSA DOS DESCONTOS PELO CONSUMIDOR. REVOGAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
