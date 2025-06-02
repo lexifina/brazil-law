@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de VITOR HENRIQUE MACHADO - condenado por roubo circunstanciado a 11 anos e 8 meses de reclusão, e 27 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 22/41), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 1534351-17.2023.8.26.0228 (fls. 42/64, da 5ª Vara Central Criminal da comarca de São Paulo), alterada em grau de apelação -, com:
+a) o afastamento da causa de aumento de pena do emprego de arma de fogo, sustentando que não há prova de que o paciente tenha feito uso de arma de fogo para intimidar as vítimas, porquanto não foi encontrada arma de fogo em poder dele (fl. 6); e
+b) o reconhecimento de crime único, afastando a regra dosimétrica do concurso formal, ao argumento de que houve uma única subtração realizada no mesmo contexto fático (fls. 17/18).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) é prescindível a apreensão e a perícia da arma para a aplicação da causa de aumento referente ao emprego de arma de fogo, se comprovada a sua utilização por outros elementos probatórios (AgRg no HC n. 923.252/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/9/2024, DJe 12/9/2024), como no presente caso: a causa de aumento relativa ao uso de arma de fogo comprovada pela prova produzida nos autos. As vítimas foram enfáticas ao afirmarem que um dos acusados estava armado (fl. 33); e
+b) para alterar a conclusão do acórdão hostilizado acerca da incidência do concurso formal de delitos - ao fundamento de que, mediante uma única ação, foram cometidos seis crimes de roubo, com violação de patrimônios de vítimas distintas (fl. 34) -, seria necessário reexame probatório, providência inadmissível na via estreita do writ (AgRg no HC n. 806.161/SP, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe de 5/10/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
