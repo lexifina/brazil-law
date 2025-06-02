@@ -1,0 +1,1 @@
+Artigo 5.° - A integração e o enquadramento de que tratam os artigos 2.° a 4.° destas Disposições Transitórias servirão apenas de base para determinação dos níveis I a VI das respectivas séries de classes, que passarão a ser regidas por esta lei complementar, não se lhes aplicando as disposições da Lei Complementar n° 535, de 29 de fevereiro de 1988.

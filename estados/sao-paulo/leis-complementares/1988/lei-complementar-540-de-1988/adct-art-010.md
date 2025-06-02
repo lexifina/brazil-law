@@ -1,0 +1,1 @@
+Artigo 10 - Os atuais cargos vagos de Assistente Agropecuário II, III, IV, V e VI passam a denominar-se Assistente Agropecuário I, com vencimentos fixados na conformidade do sistema retribuitório de que trata esta lei complementar.

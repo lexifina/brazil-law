@@ -1,0 +1,2 @@
+Artigo 4.° - O disposto nos artigos 2.° e 3.° destas Disposições Transitórias aplica-se aos servidores ocupantes de funções-atividades de natureza permanente de igual denominação, que preencham as condições previstas no mencionado artigo 2.° .
+Parágrafo único - As funções-atividades de que trata este artigo ficam integradas no Subquadro de Funções-Atividades (SQF-II) dos Quadros das Secretarias de Estado.
