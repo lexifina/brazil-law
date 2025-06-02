@@ -1,0 +1,1 @@
+Artigo 16 - O primeiro processo de evolução funcional daqueles que optarem pela nova estrutura remuneratória instituída por esta lei complementar deverá incluir avaliação de desempenho, independentemente de se tratar de evolução por desenvolvimento ou por desempenho.

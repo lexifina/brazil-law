@@ -1,0 +1,1 @@
+Artigo 15 - A remuneração dos professores contratados para atender à necessidade temporária de excepcional interesse público, nos termos da Lei Complementar n° 1.093, de 16 de julho de 2009, será calculada na referência L1 do Subanexo 1 - Licenciatura Plena do Anexo II.

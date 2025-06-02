@@ -1,0 +1,1 @@
+Artigo 13 - Fica mantido o resultado das avaliações especiais de desempenho para fins de estágio probatório do servidor público que, nos termos dos artigos 1° ou 8° das Disposições Transitórias desta lei complementar, optar pela alteração de plano de carreira e remuneração.
