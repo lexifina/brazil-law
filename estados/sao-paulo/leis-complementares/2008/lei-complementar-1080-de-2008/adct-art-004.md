@@ -1,0 +1,1 @@
+Artigo 4° - Fica mantida a condição de efetividade assegurada aos servidores ocupantes de cargos ou de funções-atividades de chefia e encarregatura pelos §§ 2° e 3° do artigo 4° das Disposições Transitórias da Lei Complementar n° 712, de 12 de abril de 1993.
