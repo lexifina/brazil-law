@@ -1,0 +1,1 @@
+Artigo 33-A - Será admitida, aos integrantes da classe de Professor de Ensino Superior, a percepção cumulativa da Gratificação de Representação, da Gratificação de Direção, da Gratificação de Função ou da Gratificação por Regime de Jornada Integral, desde que uma ou mais estejam parcial ou totalmente incorporadas. (NR)
