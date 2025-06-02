@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Pedido de desentranhamento de documentos. Matéria que não consta do rol do artigo 1.015 do CPC/15. Inaplicabilidade do Tema nº 988 do C. STJ. Ausência de prova de urgência. Precedentes desta C. Câmara. Recurso não conhecido.
+A parte agravante alega que o acórdão recorrido violou os arts. 434 e 435 do Código de Processo Civil, além de dissídio jurisprudencial, afirmando que a decisão violou o princípio da preclusão temporal ao permitir a juntada de documentos fora do prazo processual adequado, comprometendo a segurança jurídica e a equidade do processo.
+Incidem, todavia, os enunciados 282 e 356 da Súmula do STF quanto à alegada violação das normas citadas pela parte agravante, pois são estranhas ao julgado recorrido, a elas faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Além disso, o Tribunal de origem, ao apreciar o feito, entendeu à fl. 32 - destaquei:
+Dessarte, se vislumbra que a hipótese em tela (desentranhamento de documentos), não está contemplada no rol taxativo do artigo 1.015 do Código de Processo Civil, o que resulta no não conhecimento do presente agravo.
+É certo, no entanto, que no julgamento dos Recursos Especiais de efeito repetitivo nº. 1.696.396/MT e 1.704.520/MT, para os efeitos do art. 1.036, do Código de Processo Civil, o C. Superior Tribunal de Justiça fixou a seguinte tese jurídica: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema nº988).
+Ocorre que, no caso em testilha, não se constata qualquer situação de urgência que possa justificar o conhecimento do presente agravo de instrumento.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
