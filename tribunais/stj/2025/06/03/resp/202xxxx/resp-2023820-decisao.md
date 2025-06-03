@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 66):
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. READEQUAÇÃO DA RENDA MENSAL DE BENEFÍCIO CONCEDIDO NO CHAMADO "BURACO NEGRO" AOS TETOS DAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. APROVEITAMENTO DO SALÁRIO DE BENEFÍCIO REVISADO PELO ARTIGO 144 DA LEI 8.213/91. OBSERVÂNCIA DA FORMA DEFINIDA NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 5037799-76.2019.4.04.0000.
+Ainda que a revisão prevista no art. 144 da Lei 8.213/91 não tenha gerado uma RMI maior que a originária, não há óbice a que o salário de benefício revisado com base atualização monetária de todos os salários de contribuição do período básico de cálculo (PBC) seja utilizado na readequação do benefício aos tetos das EC"s 20/1998 e 41/2003, não sendo justo nem razoável a reprodução pura e simples da fórmula originária de apuração da RMI, sob pena de inobservância dos parâmetros fixados no IAC nº 5037799-76.2019.4.04.0000.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso, a parte recorrente alega violação aos arts. 103 da Lei 8.213/1991, 3º, § 4º, da Lei 5.890/1973, 21, § 4º, e 23, II, b, e § 1º, do Decreto 89.312/1984.
+Alega que:
+a) "o menor valor-teto, utilizado no cálculo da renda inicial dos benefícios anteriores à Constituição de 1988, jamais foi o "limite máximo para o valor dos benefícios do regime geral de previdência social", razão pela qual não pode ser substituído e nem ter seus reflexos eliminados" (fl. 86);
+b) "a utilização do novo valor do teto, repita-se, do teto, para as rendas futuras dos benefícios, não ofenderia o ato jurídico perfeito" (fl. 90);
+c) "a aplicação dos novos tetos não deveria acarretar uma revisão do ato de concessão, mas tão somente permitir que a renda do benefício se beneficie das elevações extraordinárias do teto proporcionadas pelas EECC 20 e 41" (fl. 92);
+d) "o coeficiente histórico, estabelecido para a renda na data da concessão, não pode ser alterado. Ele deve, isto sim, ser preservado e aplicado sobre o valor do teto na data de cada Emenda, caso o benefício sofra a incidência do novo teto" (fl. 94);
+e) "o acórdão recorrido rejeitou a arguição de decadência, ao argumento de que a discussão referente à aplicação dos novos valores dos tetos trazidos pelas EECC 20/1998 e 41/2003 teria relação exclusivamente com a adequação da renda mensal e jamais com qualquer critério pertinente ao ato de concessão do benefício" (fl. 94).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 241/254).
+O recurso foi admitido (fls. 269/270).
+É o relatório.
+Em caráter preliminar, descabe falar em sobrestamento do feito, requerido na petição de fls. 303/305, fundado no Tema 1.140/STJ (o qual trata de benefícios concedidos antes da Constituição Federal de 1988), pois "o presente caso versa sobre ação previdenciária revisional de período posterior à Constituição de 1988 (DIB em 12/05/1990), e não se amolda, portanto, à temática do mencionado representativo de controvérsia, uma vez que o benefício em revisão foi concedido no período do "buraco negro"" (fl. 289).
+Os arts. 103 da Lei 8.213/1991, 3º, § 4º, da Lei 5.890/1973, 21, § 4º, e 23, II, b, e § 1º, do Decreto 89.312/1984 não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUROS DE MORA. TERMO INICIAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ANÁLISE DE SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONHECIMENTO.
+I - Recurso especial interposto por Raimundo Alves Neto, visando à reforma de acórdão que fixou o termo inicial dos juros de mora a partir da citação, conforme título judicial transitado em julgado.
+II - Em relação à alegada violação do art. 489 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido teria violado o referido dispositivo, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação pelo Tribunal de origem dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+III - Sobre a alegada violação dos arts. 5º, 11, 89, 99 e 296 do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+IV - Não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, por ser competência exclusiva do STF, conforme art. 102, III, da CF.
+V - O conhecimento do recurso pela alínea c do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu. Inafastável a Súmula n. 284 do STF. Aplicação da Súmula n. 284 do STF.
+VI - Recurso especial não conhecido.
+(REsp n. 2.195.614/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025, sem destaque no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
