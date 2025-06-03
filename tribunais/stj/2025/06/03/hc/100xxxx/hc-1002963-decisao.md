@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de PEDRO HENRIQUE SILVANO GONCALVES em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Paciente encontra-se preso preventivamente desde 14/03/2025, em razão de flagrante no qual foram apreendidos cerca de 627 gramas de maconha, balança de precisão e materiais para embalagem.
+No presente writ, a Defesa sustenta que há constrangimento ilegal decorrente da ausência de requisitos concretos para a prisão preventiva, desprezo pelas condições pessoais do Paciente e ilegalidade na busca domiciliar.
+Argumenta que a decisão que decretou a prisão preventiva e o acórdão recorrido basearam-se exclusivamente na gravidade abstrata do delito e na quantidade de droga, em descompasso com a jurisprudência consolidada.
+Afirma que a quantidade apreendida não pode ser considerada expressiva a ponto de justificar a prisão extrema, principalmente porque o Paciente é primário, possui bons antecedentes, residência fixa e vínculos familiares, e não há prova concreta de reiteração delitiva ou risco à instrução criminal.
+Alega que a fundamentação da prisão preventiva foi genérica e baseada em presunções sem respaldo probatório, contrariando o disposto no art. 93, IX, da Constituição Federal e nos arts. 312 e 315, § 2º, do Código de Processo Penal.
+Aponta a nulidade da busca domiciliar, realizada sem autorização judicial e apenas embasada em denúncia anônima, o que torna a prova ilícita e contamina a materialidade do delito.
+Requer a soltura do paciente.
+Liminar indeferida, às fls. 92-94.
+Informações prestadas, às fls. 98-134.
+O Ministério Público Federal em parecer, às fls. 139-142, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente em razão da gravidade concreta da conduta, haja vista a quantidade de droga apreendida no contexto da traficância, 627,33 (seiscentos e vinte e sete gramas e trinta e três centigramas) de maconha, que estava identificado com a "sigla "FK", cuja tática é utilizada pelos traficantes para a identificação do bairro e do possivel fabricante"; além da apreensão de balança de precisão e materiais para o embalo de drogas. (fl. 52).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do Paciente, justificando a segregação cautelar determinada.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.).
+"A prisão preventiva, mantida pela sentença e pelo acórdão recorrido, encontra-se devidamente fundamentada em elementos concretos, como a expressiva quantidade de drogas apreendidas (511g de maconha) e o razoável envolvimento com a criminalidade, evidenciando a periculosidade do agente e o risco de reiteração delitiva" (AgRg no RHC n. 206.998/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.).
+"No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, 1,268kg (um quilo e duzentos e sessenta e oito gramas) de maconha -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta" (AgRg no HC n. 981.590/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.).
+Na hipótese, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial, a gravidade em concreto da conduta delitiva, dada a apreensão de 300 g de maconha, além de balança de precisão, arma de fogo de numeração raspada e munições" (AgRg no RHC n. 211.516/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+No que tange à tese de existência de prova ilícita decorrente de violação de domicílio, verifico que a quaestio não foi objeto de deliberação pelo Tribunal local no acórdão impugnado, e tal fato impossibilita o exame desta Corte, sob pena de indevida supressão de instância:
+"A apontada ilicitude das provas existentes em desfavor do acusado - porque, segundo a defesa, haveriam sido obtidas por meio de violação de domicílio - não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância" (AgRg no HC n. 883.345/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
