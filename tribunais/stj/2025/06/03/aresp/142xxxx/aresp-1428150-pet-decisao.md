@@ -1,0 +1,8 @@
+DECISÃO
+Por meio da petição de fls. 27.500 e seguintes, SIDNEY JOSE FERREIRA DA SILVEIRA pede o reconhecimento da prescrição da pretensão punitiva, ou da executória.
+Nada a prover quanto ao requerimento. A iniciativa apenas torna ainda mais tumultuado o andamento do processo, pois a pretensão já foi afastada nestes autos.
+Conforme especificado à defesa de Sidney, às fls. 27.092 e seguintes, não ocorreu a prescrição da pretensão punitiva. O AResp do postulante deixou de ser conhecido e foi aplicado ao caso o entendimento da Terceira Seção desta Corte, que "a decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, tendo em vista que apenas pronuncia algo que já ocorreu anteriormente - e não naquele momento - motivo pelo qual opera efeitos ex tunc. Assim, o trânsito em julgado retroagirá à data de escoamento do prazo para a interposição de recurso admissível" (EAR Esp n. 386.266/SP, relator Ministro Gurgel de Faria, Terceira Seção, julgado em 12/8/2015, D Je de 3/9/2015, grifei)
+Além da indevida reiteração de pedido, esta Corte não tem atribuição para, inicialmente, analisar a prescrição executória. O pedido deve ser, primeiramente, submetido à autoridade competente para executar a condenação, inclusive para oportunizar a devida manifestação do Ministério Público. Não há decisão da instância de origem sobre a matéria (art. 105 da CF) e este Superior Tribunal não tem conhecimento acerca dos marcos interruptivos ou suspensivos do prazo prescricional, elementos essenciais para a adequada análise da extinção da punibilidade.
+À vista do exposto, não conheço da PETIÇÃO PET 00292476/2025.
+Publique-se e intimem-se.
+EMENTA
