@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão, que inadmitiu recurso especial, fundado no permissivo constitucional, o qual desafia acórdão proferido pelo TRF4 assim ementado (e-STJ fl. 61):
+AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. BENS OPERACIONAIS DA LINHA FÉRREA DA RFFSA. INTERESSE NA DEMANDA. DNIT. INOCORRÊNCIA.
+1. A competência do juízo federal define-se pela presença de uma das entidades elencadas no artigo 109, inciso I, da Constituição Federal.
+2. O DNIT manifestou desinteresse no feito.
+3. Agravo de instrumento improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 119/122).
+No especial, o agravante apontou violação dos arts. 1.022, inc. II e parágrafo único, II, do Código de Processo Civil/2015; 8º, I e IV, da Lei n. 11.483/2007; 20, 24, 25 e 82, § 4º, da Lei n. 10.233/2001; 39, 68 e 79 da Lei Complementar n. 75/1993.
+Alegou, preliminarmente, que houve negativa de prestação jurisdicional, pois o Tribunal de origem não se pronunciou sobre o manifesto interesse do DNIT e da ANTT na demanda.
+No mérito, defendeu a participação das autarquias mencionadas na lide, pois o bem em discussão é de propriedade do DNIT, assim como cabe à ANTT a fiscalização do serviço ferroviário, convênios e contratos com terceiros.
+Sustentou, ainda, que a mera manifestação de ente pertencente à União, como o agravante, é suficiente para justificar a competência da Justiça Federal para julgamento da causa.
+Após contrarrazões (e-STJ fls. 167/181), o recurso especial teve seu seguimento negado, em virtude da incidência das Súmulas 83 e 7 do STJ (e-STJ fls. 184/189).
+Em suas razões, o agravante infirma a decisão agravada e, no mais, reitera os argumentos articulados no recurso especial.
+Contraminuta apresentada (e-STJ fls. 219/225).
+Passo a decidir.
+Inicialmente, quanto à alegada ofensa ao art. 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.  ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.).
+Por outro lado, observa-se que a Corte a quo dirimiu a controvérsia utilizando-se de fundamentos constitucionais (a competência da Justiça Federal, estabelecida no art. 109, I, da Constituição Federal é ratione personae) e infraconstitucionais (inexistência de interesse jurídico das autarquias - arts. 119 a 124 do CPC/2015), suficientes e autônomos à preserv ação do acórdão recorrido.
+Contudo, o ora recorrente não cuidou de interpor o devido recurso extraordinário, atraindo a incidência da Súmula 126 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PASEP. LEGITIMIDADE DO BANCO DO BRASIL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. ARTIGOS INDICADOS COMO VIOLADOS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. SÚMULA 126/STJ. AGRAVO INTERNO DO BANCO DESPROVIDO.
+1. O confronto das razões do Recurso Especial com a fundamentação do acórdão recorrido demonstra que, de fato, a Corte de origem não se manifestou acerca de nenhum dos artigos indicados como violados, carecendo, portanto, a pretensão recursal, do indispensável prequestionamento. Incide, assim, o óbice da Súmula 282/STF.
+2. E, por estarem interligadas as questões da legitimidade de parte com a competência jurisdicional, inafastável a incidência da Súmula 126/STJ, uma vez que o acórdão aplicou dispositivo constitucional (art. 109) para manter o Juízo singular estadual para processar e julgar o processo principal.
+3. Agravo Interno do BANCO DO BRASIL desprovido.
+(AgInt no REsp 1.887.033/DF, relator Ministro Napoleão Nunes Maia Filho,
+Primeira Turma, julgado em 7/12/2020, DJe de 14/12/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO MANEJADO SOB A VIGÊNCIA DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PERDAS E DANOS. REALOCAÇÃO DE LOTES. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. ART. 113 DO CPC/73 NÃO PREQUESTIONADO. INCOMPETÊNCIA ABSOLUTA AFASTADA COM APOIO EM PRECEITO CONSTITUCIONAL NÃO IMPUGNADO. APLICAÇÃO DAS SÚMULAS NºS 282 DO STF E 126 DO STJ. ACÓRDÃO ESTADUAL QUE DECIDIU PELO DIREITO À INDENIZAÇÃO PLEITEADA A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DELINEADAS NA LIDE E DA ANÁLISE DAS CLÁUSULAS DO TAC. IMPOSSIBILIDADE DE REVISÃO NA VIA ESPECIAL EM RAZÃO DA INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se verificam omissões nem contradições no acórdão estadual a caracterizar violação do art. 535 do CPC/73, pois todas as questões atinentes à solução da lide foram examinadas e decididas fundamentadamente.
+3. Quanto à apontada ofensa ao art. 113 do CPC/73, o recurso não merece acolhimento porque o referido preceito legal não foi prequestionado pelo Tribunal local que afastou a tese de incompetência absoluta da Justiça Estadual defendida por MARTINEZ, com fundamento no art. 109, I, da CF. Verifica-se que nada obstante o fundamento exclusivamente constitucional do acórdão impugnado para afastar a alegação de incompetência absoluta, MARTINEZ não interpôs o necessário recurso extraordinário. Inafastável, assim, a incidência das Súmulas nº 282 do STF e 126 do STJ.
+4. Para alterar a conclusão da Corte local acerca do direito à indenização pleiteada seria necessária a análise das circunstâncias fáticas delineadas na lide e da análise das cláusulas do TAC, procedimentos inviáveis, na instância especial em virtude das vedações contidas nas Súmulas nºs 5 e 7, ambas do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 734.733/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/4/2017, DJe de 19/4/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
