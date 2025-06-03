@@ -1,0 +1,31 @@
+DECISÃO
+Trata -se de agravos interpostos por NOEMIA DA CONCEIÇÃO MARCELLOS e pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS, contra decisões do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiram os recursos especiais, os quais desafiam acórdão assim ementado (e-STJ fl. 65):
+EMENTA: PROCESSUAL CIVIL - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO EXECUÇÃO CONTRA A FAZENDA PÚBLICAAPURAÇÃO DO "QUANTUM DEBEATUR"- ALTERAÇÃO DO CRITÉRIO FIXADO NA SENTENÇA OFENSA À COISA JULGADA - OCORRÊNCIA - ATUALIZAÇÃD MONETÁRIA SOBRE O VALOR PAGO - IMPOSSIBILIDADE - PROVIMENTO D  RECURSO.
+- A atualização do crédito contido em título executivo judicial deve obedecer a sistemática estabelecida na sentença, vedada sua modificação, por ocasião da elaboração da memória de cálculo, sob pena de ofensa à coisa julgada.
+Os embargos de declaração opostos por NOEMIA DA CONCEIÇÃO MARCELLOS foram acolhidos em julgado assim resumido (e-STJ fl. 88):
+EMENTA: PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - OBSCURIDADE - ACÓRDÃO REJEITOU OS EMBARGOS DE DEVEDOR-. SUCUMBÊNCIA RECÍPROCA AFASTADA-SUCUMBÊNCIA DA FAZENDA PÚBLICA-ART. 20, §4º, DOCPC -OMISSÃO PARCIAL RECONHECIDA.
+No especial, o INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS alegou violação do art. 884 do Código Civil, e do 1º-F da Lei n. 9.494/1997, questionando os índices de correção monetária e de juros, bem como que o aresto recorrido, ao não determinar a correção do pagamento retroativo realizado pela Administração, o que ensejou o enriquecimento sem causa da parte adversa.
+Por sua vez, NOEMIA DA CONCEIÇÃO MARCELLOS alegou violação do art. 20, § 3º, do CPC/1973, insurgindo-se em relação à verba honorária fixada de forma irrisória.
+Após contrarrazões, ambos os recursos foram inadmitidos pelo Tribunal de origem. Contra essas decisões, o INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS interpôs o agravo com base do art. 544 do CPC/1973, e NOEMIA DA CONCEIÇÃO MARCELLOS interpôs agravo regimental.
+O Tribunal de origem não conheceu do agravo regimental interposto por NOEMIA DA CONCEIÇÃO MARCELLOS que, na sequência, manejou o agravo previsto no art. 544 do CPC/1973.
+Nesta Corte, foi determinado o retorno dos autos à origem para aplicação da sistemática dos recursos repetitivos.
+Realizado o juízo de retratação quanto à matéria repetitiva (juros e correção monetária), o recurso do Instituto teve seguimento negado quanto ao referido tema, sendo determinada a remessa dos autos novamente ao STJ para a análise das matérias remanescentes em ambos os recursos.
+Passo a decidir.
+Primeiramente, cumpre destacar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, registre-se que, quanto ao recurso de NOEMIA DA CONCEIÇÃO MARCELLOS, esta Corte tem o entendimento de que a interposição de recurso manifestamente incabível não interrompe nem suspende o prazo para a interposição do recurso próprio. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA -DECISÃO MONOCRÁTICA NÃO CONHECENDO DO RECURSO EM RAZÃO DE SUAINTEMPESTIVIDADE.
+1. É iterativa a jurisprudência desta Corte Superior de Justiça no sentido de que a interposição de recurso manifestamente incabível, no caso, agravo interno contra decisão colegiada, não interrompe, nem suspende o prazo para a interposição do recurso próprio. Precedentes.
+2. Agravo regimental desprovido. (AgRg no AREsp 471.293/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 03/04/2014).
+Na hipótese dos autos, o agravo regimental interposto contra a decisão que não admitiu o especial não foi conhecido pelo Tribunal de origem, por ser manifestamente incabível (e-STJ fls. 201/202), não tendo, portanto, o condão de suspender o prazo para a interposição do agravo em recurso especial.
+Assim, mostra-se patente a intempestividade do agravo em recurso especial interposto em 26/3/2015 (e-STJ fl. 205), contra decisão publicada em 14/11/2014 (e-STJ fl. 139).
+No tocante ao recurso do INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS, inicialmente pontue-se que, consoante o entendimento desta Corte, "a única interpretação cabível para o enunciado da Súmula 418 do STJ, hoje cancelado, é que a ratificação do recurso interposto na pendência de julgamento de embargos de declaração somente é necessária quando houver alteração na conclusão do julgamento anterior. Nesse sentido, foi aprovada a Súmula 579/STJ, sendo que o novo entendimento é aplicável aos recursos pendentes, ainda que tenham sido interpostos antes da mudança jurisprudencial." (AgInt no AREsp n. 284.318/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No caso dos autos, o julgamento do recurso integrativo não ensejou a alteração da conclusão do julgamento anterior, apenas corrigindo omissão acerca da verba honorária.
+Assim, não subsiste o óbice indicado na decisão que inadmitiu o especial.
+Superado o fundamento do juízo de admissibilidade realizado na origem, em relação à única matéria remanescente no especial devolvida a esta Corte após o juízo de conformação realizado pelo Tribunal a quo, verifica-se que o apelo nobre não pode ser conhecido.
+Com efeito, a parte recorrente limitou-se a a indicar como violado o disposto no art. 884 do Código Civil, sem a necessária demonstração de como teria o acórdão recorrido vulnerado esse dispositivo. Incide, na espécie, o óbice contido na Súmula 284 do STF.
+Ante o exposto:
+a) com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial de NOEMIA DA CONCEIÇÃO MARCELLOS ; e
+b) com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial do INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
+ EMENTA
