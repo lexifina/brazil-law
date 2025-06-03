@@ -1,0 +1,31 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução Penal n. 1.0301.18.000089-7/003.
+Consta dos autos que o Juízo da Vara de Execuções Penais, ao analisar o pedido de progressão ao regime aberto formulado pelo recorrido, entendeu que o inadimplemento de pena de multa não constitui óbice ao benefício e deferiu o pedido ao sentenciado, ao fundamento de estarem preenchidos os requisitos objetivos e subjetivos. O recorrido cumpre pena privativa de liberdade que, somada, perfaz um total de 14 anos, 11 meses e 12 dias de reclusão e estava à época em regime semiaberto.
+Irresignado, o Ministério Público estadual interpôs agravo em execução, no qual sustentou que o pagamento de multa é requisito necessário ao deferimento da progressão de regime.
+O Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, nos termos da seguinte ementa (fl. 41):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - VINCULAÇÃO DA PROGRESSÃO DE REGIME AO PAGAMENTO DA PENA DE MULTA - IMPOSSIBILIDADE - AUSÊNCIA DE PREVISÃO LEGAL - RECURSO DESPROVIDO. - O art. 112 da Lei de Execuções Penais estabelece requisitos de ordem objetiva e subjetiva que devem ser atendidos pelo sentenciado para a concessão da progressão de regime. - Não havendo previsão legal, é incabível a exigência do adimplemento da pena de multa para a concessão da citada benesse.
+No recurso especial, o Ministério Público aponta contrariedade aos art. 50 e 51, do Código Penal, e 112, § 1º, da Lei de Execução Penal. Sustenta, em síntese, três teses: a) o descumprimento deliberado da pena de multa implica ausência do requisito subjetivo (art. 112, § 1º, da LEP) e consequente impedimento da progressão de regime, salvo nos casos de absoluta hipossuficiência financeira comprovada; b) havendo alegação de hipossuficiência, incumbe ao postulante o ônus de comprová-la vedada presunção nesse sentido; c) no caso concreto, a progressão de regime foi deferida sem o pagamento da pena de multa ou comprovação da impossibilidade de fazê-lo; motivo pelo qual requer o condicionamento da progressão ao pagamento desta ou à comprovação da hipossuficiência (fls. 53-64).
+O recorrido apresentou contrarrazões (fls. 70-72).
+O Tribunal de origem admitiu o recurso especial (fls. 76-80).
+O Ministério Público Federal manifestou-se pelo improvimento do recurso especial (fls. 90-94).
+Decido.
+I. Admissibilidade
+Presentes os pressupostos de admissibilidade, conheço do recurso especial.
+II. Pagamento da multa como requisito para progressão
+A controvérsia cinge-se à possibilidade de condicionar a progressão de regime ao pagamento da pena de multa, independentemente de comprovação de hipossuficiência financeira.
+Inicialmente, registro que está pendente de julgamento, pela Terceira Seção desta Corte Superior o Tema n. 1.152, que visa definir "se o adimplemento da pena de multa constitui requisito para o deferimento do pedido de progressão de regime".
+Todavia, na pendência do julgamento definitivo desse tema, é pertinente considerar a recente revisão da tese fixada no Tema n. 931/STJ, realizada no julgamento do REsp n. 2.090.454/SP, que estabeleceu nova orientação sobre o inadimplemento da pena de multa:
+O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.
+Não obstante o Tema n. 931 trate especificamente da extinção da punibilidade, a ratio decidendi ali estabelecida - presunção de hipossuficiência do egresso do sistema prisional - mostra-se plenamente aplicável à análise dos requisitos para progressão de regime, por identidade de razões e em observância aos princípios da isonomia e da proporcionalidade.
+Com efeito, no julgamento do REsp n. 2.090.454/SP, a Terceira Seção estabeleceu importante diretriz interpretativa:
+É dizer, presume-se a pobreza do condenado que sai do sistema penitenciário - porque amparada na realidade visível, crua e escancarada - permitindo-se prova em sentido contrário. E, por se tratar de decisão judicial, poderá o juiz competente, ao analisar o pleito de extinção da punibilidade, indeferi-lo se, mediante concreta motivação, indicar evidências de que o condenado possui recursos que lhe permitam, ao contrário do que declarou, pagar a multa (REsp n. 2.090.454/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 28/2/2024, DJe de 1/3/2024).
+No caso em exame, verifica-se que o recorrido é apenado e que o Ministério Público deixou de produzir prova da capacidade econômica em contrário nas instâncias ordinárias e em âmbito recursal.
+Assim, à luz da nova orientação firmada no REsp n. 2.090.454/SP, não cabe ao apenado o ônus de comprovar sua hipossuficiência, mas sim ao Estado (Ministério Público ou Juízo) demonstrar, mediante elementos concretos, sua capacidade econômica para adimplir a pena de multa.
+Na espécie, não há nos autos nenhum elemento concreto que afaste a presunção de hipossuficiência do recorrido, que alega inclusive ser servente de pedreiro em suas contrarrazões.
+Diversamente do que sustenta o recorrente, não houve violação dos dispositivos legais apontados. O que se verifica é que o Tribunal de origem chegou à conclusão correta ao não condicionar a progressão de regime ao pagamento da pena de multa, diante da condição de hipossuficiência presumida - e não afastada - do apenado.
+Ressalto que, caso o Ministério Público ou o Juízo entendam pela existência de capacidade econômica do sentenciado, deverão produzir prova nesse sentido, por meio da apresentação de elementos concretos que demonstrem a possibilidade de pagamento da multa, ainda que de forma parcelada.
+Portanto, o acórdão recorrido, que está em harmonia com a jurisprudência superior, não merece reforma.
+III. Dispositivo
+Ante o exposto, nego provimento ao recurso especial
+Publique-se e intimem-se.
+ EMENTA
