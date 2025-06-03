@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Reclamação, com pedido de liminar, proposta por CARLOS ALBERTO GREGOL, com fundamento nos arts. 105, I, f, da Constituição da República, e 988 e seguintes do Código de Processo Civil de 2015, contra acórdão prolatado pelo Tribunal Regional Federal da 2ª Região nos autos do Agravo de Instrumento n. 5015446-23.2024.4.02.0000.
+Alega, em síntese, afronta à decisão proferida no julgamento do REsp n. 1.383.821/RJ, por meio da qual foi declarada a nulidade da demarcação administrativa de terreno da marinha realizada sem a notificação pessoal dos interessados.
+Aduz que o ato judicial reclamado "extinguiu a execução, afastando a autoridade do título exequendo sob o argumento de que o imóvel do exequente já estava registrado como foreiro desde 1996" (fl. 02e).
+Requer seja julgada procedente a Reclamação, a fim de cassar o acórdão proferido, de modo a resguardar a autoridade da decisão desta Corte Superior.
+Acompanharam a inicial os documentos de fls. 04/146 e.
+É o relatório. Decido.
+A Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui expediente destinado à preservação de sua competência (inciso I), a garantir a autoridade das decisões do Superior Tribunal de Justiça (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+In casu, o Reclamante busca a reversão dos efeitos de acórdão mediante o qual foi dado provimento ao agravo de instrumento interposto pela União para extinguir o cumprimento individual de sentença coletiva, situação, contudo, que não se enquadra nas hipóteses de cabimento da Reclamação.
+Isso porque a Reclamação (art. 105, I, f, da Constituição da República) se destina a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. OBSERVÂNCIA DE PRECEDENTE QUALIFICADO. NECESSIDADE DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. ART. 988, § 5º, II, DO CPC. DECISÃO MANTIDA.
+1. Nos termos do art. 105, I, f, da Constituição Federal, a reclamação é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+2. A reclamação não tem cabimento como sucedâneo recursal, nem é adequada à preservação da jurisprudência do STJ; presta-se, sim, a preservar a autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual se origina.
+Precedentes.
+3. "Para que ocorra o esgotamento das instâncias ordinárias na forma exigida pelo inciso II do § 5º do art. 988 do CPC/2015, é necessário que o Tribunal de segundo grau tenha se manifestado sobre o tema em sede de juízo de retratação e que o recurso especial interposto naquele feito pelo Reclamante já tenha tido a sua admissibilidade examinada no segundo grau de jurisdição. Antes disso, o manejo da Reclamação é prematuro" (AgRg na Rcl n. 32.945/RS, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 22/2/2017, DJe de 2/3/2017).
+4. Agravo interno não provido.
+(AgInt na Rcl n. 45.565/PR, Rel. Ministro AFRÂNIO VILELA, PRIMEIRA SEÇÃO, julgado em 28/5/2024, DJe de 4/6/2024).
+PROCESSUAL CIVIL. RECLAMAÇÃO. ALEGAÇÃO DE DIVERGÊNCIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 988 DO CPC. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE.
+I - Fundada no artigo 988, II, do CPC/2015, a reclamação não se destina a dirimir divergência jurisprudencial entre o acórdão reclamado e precedentes do STJ. Sua função é garantir a autoridade da decisão proferida pelo STJ, em um caso concreto, que tenha sido desrespeitada na instância de origem, em processo que envolva as mesmas partes. Precedentes: AgRg na Rcl 16.733/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 26/3/2014, DJe de 5/5/2014; AgRg na Rcl 12.088/RJ, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 14/8/2013, DJe de 21/8/2013; AgRg na Rcl 22.505/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 8/4/2015, DJe de 15/4/2015.
+II - Agravo interno improvido.
+(AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+Oportuno ressaltar que, em suas razões, a parte autora sequer aponta qual seria a decisão proferida por esta Corte Superior, em que figuraria como parte, cuja autoridade teria sido supostamente desrespeitada pelo acórdão reclamado, tampouco descreve eventual usurpação de competência.
+Ainda que assim não fosse, em consulta ao sítio eletrônico do Tribunal Regional Federal da 2ª Região, verifico que o acórdão reclamado transitou em julgado em 30.04.2025, ao passo que a presente Reclamação foi ajuizada em 28.05.2025 (fl. 01e), atraindo a aplicação, por analogia, da Súmula n. 734 do Supremo Tribunal Federal, segundo a qual "não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal".
+Nesse sentido, destaco precedentes das três Seções que compõem esta Corte:
+PROCESSUAL CIVIL. RECLAMAÇÃO. DESAPROPRIAÇÃO. INTERESSE SOCIAL. REFORMA AGRÁRIA. TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA. CONVERSÃO. DEFINITIVA. DESOBEDIÊNCIA. ORDEM CRONOLÓGICA. PAGAMENTO. PRECATÓRIOS. VERIFICAÇÃO. AUSÊNCIA. INTERPOSIÇÃO. RECURSO PERTINENTE. ACÓRDÃO RECLAMADO. INCIDÊNCIA. SÚMULA 734/STF. NÃO CONHECIMENTO. AGRAVO REGIMENTAL JULGADO PREJUDICADO.
+1. A teor da Súmula 734 do Supremo Tribunal Federal, não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Superior Tribunal de Justiça.
+2. Hipótese em que a decisão interlocutória prolatada no juízo da execução de ação de desapropriação para fins de reforma agrária foi impugnada por agravo de instrumento não conhecido pelo Tribunal da origem, este último julgamento, contudo, não tendo sido atacado pelo recurso processual pertinente.
+3. Reclamação não conhecida. Agravo regimental julgado prejudicado.
+(Rcl 23.378/RN, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/04/2015, DJe 15/04/2015 - destaques meus).
+RECLAMAÇÃO. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO. CONTRATO FUNDADO EM CÉDULAS DE CRÉDITO COMERCIAL COM RECURSOS DO FUNDO CONSTITUCIONAL DO CENTRO-OESTE (FCO). QUESTÕES PRELIMINARES AFASTADAS. ENCARGOS DE INADIMPLEMENTO. CAPITALIZAÇÃO DE JUROS QUE FOI VEDADA NO JULGAMENTO DO RECURSO ESPECIAL. DECISÃO DO TRIBUNAL ESTADUAL EM AÇÃO RESCISÓRIA QUE CONTRARIA A AUTORIDADE DA DECISÃO PROFERIDA POR ESTA CORTE. PEDIDO JULGADO PROCEDENTE.
+1. A reclamação, nos termos do art. 105, I, f, da Constituição Federal e do art. 187 do RISTJ, é cabível para preservar a competência do Tribunal ou garantir a autoridade de suas decisões.
+2. O terceiro interessado tem legitimidade para o ajuizamento de reclamação perante o STJ, na hipótese em que o resultado do julgamento proferido pela decisão impugnada vier a atingir interesse jurídico do qual é titular.
+(..)
+4. De acordo com precedentes desta Corte e do Supremo Tribunal Federal, a reclamação constitucional é instituto que não tem natureza jurídica de recurso, nem de incidente processual, mas sim de direito constitucional de petição, contemplado no art. 5º, XXXIV, da Carta Magna. Assim, a sua utilização está limitada apenas à não ocorrência do trânsito em julgado da decisão reclamada, nos termos da Súmula 734 do STF, o que não se verifica, na espécie, não havendo que se falar, portanto, em sua intempestividade.
+(..)
+6. Reclamação julgada procedente.
+(Rcl 25.903/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 19/04/2016 - destaques meus).
+CONSTITUCIONAL, PROCESSUAL CIVIL E PROCESSUAL PENAL. RECLAMAÇÃO CONTRA SENTENÇA CONDENATÓRIA PROFERIDA PELO JUÍZO DE DIREITO DA AUDITORIA MILITAR DO ESTADO DO MATO GROSSO DO SUL. SUPOSTO DESCUMPRIMENTO DE HABEAS CORPUS DESTA CORTE QUE RECONHECERA A INCOMPETÊNCIA DE UM DOS MAGISTRADOS COMPONENTES DO CONSELHO ESPECIAL DE JUSTIÇA MILITAR, RESPONSÁVEL PELA PRIMEIRA CONDENAÇÃO, ANULADA POR ESTA CORTE. ALEGAÇÃO DE QUE O NOVO JULGAMENTO TAMBÉM DEVERIA SER EFETUADO PELO ÓRGÃO COLEGIADO MILITAR. RECLAMAÇÃO CONTRA DECISÃO TRANSITADA EM JULGADO HÁ MAIS DE 8 ANOS. INCIDÊNCIA DA SÚMULA 734/STF: NÃO CONHECIMENTO. PROLAÇÃO DE NOVA SENTENÇA POR JUÍZO SINGULAR NÃO IMPEDIDO: OBEDIÊNCIA À MODIFICAÇÃO DE COMPETÊNCIA INTRODUZIDA PELA EMENDA CONSTITUCIONAL 45/2004 - ART. 125, § 5º, CF. INEXISTÊNCIA DE DESCUMPRIMENTO DE ACÓRDÃO DESTA CORTE SUPERIOR. RECLAMAÇÃO NÃO CONHECIDA.
+1. Nos termos da Súmula 734 do STF, não cabe reclamação quando já houver transitado em julgado o ato que se alega tenha desrespeitado a decisão objeto da reclamação. Precedentes desta Corte.
+(..)
+6. Reclamação não conhecida.
+(Rcl 26.500/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/08/2016, DJe 16/08/2016 - destaques meus).
+Na mesma esteira, as seguintes decisões monocráticas: Rcl n. 35.644, Rel. Min. Herman Benjamin, DJe de 04.09.2018; Rcl n. 32.422, Rel. Min. Francisco Falcão, DJe de 23.11.2016; Rcl n. 31.800, Rel. Min. Moura Ribeiro, DJe de 13.09.2016.
+Posto isso, nos termos do art. 34, XVIII, a, do Regimento Interno desta Corte, NÃO CONHEÇO da Reclamação.
+Publique-se e intimem-se.
+EMENTA
