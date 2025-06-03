@@ -1,0 +1,14 @@
+DECISÃO
+ROBERSON MARTILIANO alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa se insurge contra a homologação de falta grave por descumprimento de condições inerentes à prisão domiciliar, ocorrida por mais de três anos. Sustenta que o paciente não estava ciente de sua condição de foragido, pois residia em uma vila onde existem duas casas com o mesmo número, e os agentes penitenciários o procuraram no endereço errado.
+Afirma que o paciente tem profissão lícita e a responsabilidade pelo sustento de dois filhos pequenos.
+Requer a concessão da ordem, para o afastamento da falta grave ou a sua desclassificação.
+Decido.
+O apenado cumpre 11 anos e 8 meses de reclusão, por corrupção de menores, roubo majorado e extorsão. Durante o regime semiaberto, ele foi beneficiado com a prisão domiciliar, mas não se apresentou em juízo a partir de 19/9/2020, sendo recapturado somente no dia 27/5/2024. Uma vez caracterizado o descumprimento das condições impostas, por mais de três anos, o Juiz da VEC reconheceu a prática de falta grave.
+Não foi aceita a justificativa apresentada pela defesa, pois "o fato de alegar que não sabia que estava foragido" não é suficiente para "deixar de cumprir sua pena, tendo conhecimento das regras relacionadas a prisão domiciliar, inclusive porque ficar mais de três anos sem se apresentar  ..  não condiz com conduta de apenado que cumpre pena e regime semiaberto" (fl. 8).
+Constitui "falta grave, passível de regressão ao regime mais gravoso, a inobservância das condições estabelecidas para a prisão domiciliar  ..  (AgRg no HC n. 696.467/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021)" (AgRg no HC n. 911.742/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024).
+Esta Corte entende que, de acordo com art. 50, V, da Lei de Execuções Penais, o descumprimento das condições fixadas  .. , mesmo se em gozo de uma prisão domiciliar  .. , constitui infração disciplinar de natureza grave. Precedentes" (AgRg no HC n. 802.006/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024). E o art. 50, II, da LEP, também prevê expressamente a fuga como sendo falta grave.
+Seja como for, não há falar em desproporcionalidade da medida, pois o apenado deixou de cumprir o regime semiaberto e permaneceu foragido por mais de três anos. Ele não se apresentou em juízo, conduta que, por si só, evidencia comportamento incompatível com o resgate da pena. Ressalte-se que cabia ao próprio condenado cumprir as condições impostas na prisão domiciliar, não sendo ônus do Estado ir até seu endereço para avisá-lo da fuga e conferir efetividade à execução penal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
