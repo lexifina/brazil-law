@@ -1,0 +1,5 @@
+Art. 16-A. O interstício para a progressão funcional e promoção, na forma prevista na alínea a dos incisos I e II do caput do art. 15, será computado em dias, se contado da data de entrada em exercício do servidor no cargo.
+§ 1º No caso de servidores já em exercício, o interstício de que trata o caput observará a data da última progressão funcional ou promoção concedida ao servidor.
+§ 2º A contagem do interstício para progressão funcional e promoção será suspensa nas ausências e nos afastamentos do servidor, ressalvados aqueles considerados pela Lei nº 8.112, de 11 de dezembro de 1990, como de efetivo exercício, sendo retomado o cômputo a partir do retorno à atividade.
+§ 3º Em caso de afastamento considerado como de efetivo exercício, sem prejuízo da remuneração, o servidor receberá a mesma pontuação obtida anteriormente na avaliação de desempenho para fins de progressão funcional e promoção, até que seja processada a sua primeira avaliação após o retorno.
+§ 4º Não haverá progressão funcional ou promoção caso não tenha havido avaliação anterior, ainda que por força de afastamento considerado como de efetivo exercício.

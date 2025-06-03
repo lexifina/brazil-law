@@ -1,0 +1,1 @@
+Art. 13-D. A partir de 1º de janeiro de 2025, a estrutura dos cargos de nível superior e de nível intermediário da Carreira de Especialista em Meio Ambiente passa a ser a constante do Anexo VII, observada a correlação estabelecida na forma do Anexo VIII.

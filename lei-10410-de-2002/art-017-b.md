@@ -1,0 +1,1 @@
+Art. 17-B. O exercício das atribuições típicas dos cargos que integram a Carreira de Especialista em Meio Ambiente, de que trata esta Lei, em localidades situadas na Amazônia Legal, assegurará aos seus titulares prioridade na realização do curso de capacitação específico para fins de promoção e nos concursos de remoção.
