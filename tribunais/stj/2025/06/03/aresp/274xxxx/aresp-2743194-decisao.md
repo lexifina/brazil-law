@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO MARANHÃO, contra decisão do Tribunal de Justiça local, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 47):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. URV. LEI REESTRUTURADORA Nº 8.591/2007. SENTENÇA ILÍQUIDA. COISA JULGADA. ALTERAÇÃO DOS PARÂMETROS ESTABELECIDOS NO TÍTULO JUDICIAL. SOMENTE VIA AÇÃO RESCISÓRIA. AGRAVO DE INSTRUMENTO PROVIDO.
+I. Embora não se desconheça o teor do Julgamento proferido pelo STF quando do RE 561.836, resta vedada a análise da possível restruturação da carreira advinda da Lei nº 8.591/2007 quando tal matéria nunca fora ventilada na ação originária nº 23.042/2004, inclusive em grau de Apelo.
+II. Nos termos do art. 509, §4º, CPC, é vedada, quando do cumprimento de sentença, a rediscussão da lide ou modificação da decisão que a julgou, ante a incidência da coisa julgada.
+III. Agravo de Instrumento provido, em desacordo com o parecer ministerial.
+No especial obstaculizado, a parte recorrente aponta violação dos arts. 1.022, § único, II, c/c 489, § 1º, IV, e 505, I, do CPC, alegando negativa de prestação jurisdicional, bem como que "houve a limitação temporal para a incorporação de URV em decorrência da reestruturação remuneratória realizada na carreira pela lei nº 8.591/07" (e-STJ fl. 59).
+Contrarrazões às e-STJ fls. 69/84.
+Passo a decidir
+O STJ afetou, à sistemática dos recursos repetitivos, os Recursos Especiais REsps n. 2.171.684/MA, 2.172.227/MA, 2.171.766/MA, 2.171.762/MA, 2.174.355/MA e 2.171.764 /MA - Tema 1.344 -, Relator Ministro MARCO AURÉLIO BELLIZZE, Primeira Seção, DJEN 9/5/2025, nos termos delimitados na seguinte ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPRESENTATIVOS DA CONTROVÉRSIA. DISCUSSÃO QUANTO À POSSIBILIDADE DE DETERMINAR A LIMITAÇÃO TEMPORAL DAS DIFERENÇAS DE URV, COM APLICAÇÃO DO TEMA 5/STF, NA FASE DE CUMPRIMENTO DE SENTENÇA, MESMO SEM QUE A MATÉRIA TENHA SIDO DEBATIBA NA FASE DE CONHECIMENTO. REQUISITOS PARA AFETAÇÃO PREENCHIDOS.
+1. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir se é possível determinar a limitação temporal das diferenças de URV, com aplicação do Tema 5 de Repercussão Geral, durante a fase de cumprimento de sentença, mesmo quando a tese de limitação temporal não tenha sido debatida na fase de conhecimento da demanda".
+2. Recurso especial afetado ao rito dos repetitivos, nos termos do art. 1.036 e seguintes do CPC/2015.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento dos paradigmas, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema 1. 344 e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema objeto da sistemática dos recursos repetitivos.
+Publique-se. Intimem-se.
+EMENTA
