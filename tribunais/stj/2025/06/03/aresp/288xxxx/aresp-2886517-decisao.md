@@ -1,0 +1,79 @@
+DECISÃO
+JOSÉ GABRIEL PEREIRA DE ALBUQUERQUE agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará no Recurso em Sentido Estrito n. 0284194-35.2022.8.06.0001.
+O réu foi denunciado pela prática dos crime previsto no art. 33 da Lei n. 11.343/2006. O Juízo de origem rejeitou a denúncia ante a inépcia da inicial, com base no art. 395, I, do Código de Processo Penal.
+O Tribunal de Justiça deu provimento ao recurso em sentido estrito a fim de receber a inicial, em razão da existência de lastro probatório mínimo e a descrição dos fatos imputados ao denunciado.
+Nas razões do recurso especial, a defesa alega violação dos arts. 41 e 395, do Código de Processo Penal.
+Afirma que a denúncia é inepta, pois não houve a descrição adequada da prática do crime de tráfico de drogas.
+Alega a ausência de justa causa, visto que não houve a prática de nenhum ato de mercancia ilícita e houve a apreensão d quantidade não expressiva de drogas.
+Requer o restabelecimento da decisão que rejeitou a denúncia.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+No caso dos autos, a denúncia trouxe a seguinte narrativa (fls. 59-62):
+Conforme restou apurado, no dia 28 de outubro de 2022, os policiais MARCOS AURÉLIO DA SILVA JÚNIOR, DIEGO YURI BARRAL PINHEIRO DA SILVA e FRANCISCO WESLEY RODRIGUES DE OLIVEIRA estavam de serviço quando, por volta das 19h, na Rua Professora Alves Correia, Varjota, avistaram um indivíduo que correu ao ver a polícia. Diante da suspeita, os policiais resolveram persegui-lo e, no percurso, viram o momento em que o mesmo soltou um objeto ao chão.
+Nessa ocasião, os policiais conseguiram alcançar o suspeito, bem como realizaram uma busca no local e recuperaram o objeto que o indivíduo havia se desfeito.
+Ademais, restou apurado que o objeto se tratava de um estojo contendo 14 (catorze) trouxinhas de cocaína e 20 (vinte) pedrinhas de crack) embaladas em papel alumínio.
+Nesse contexto, o fugitivo reagiu à abordagem e, durante a mobilização do mesmo, este bateu com o rosto e lesionou-se.
+Ainda, o infrator foi identificado como JOSÉ GABRIEL PEREIRA DE ALBUQUERQUE, o qual negou que a droga fosse sua e informou que estava respondendo a um processo em liberdade.
+Por fim, após os fatos acima narrados, a mãe do infrator chegou ao local e afirmou que seu filho estava vendendo drogas.
+Após isso, foi levado o infrator para a delegacia, para que fossem adotados os procedimentos cabíveis.
+Perante a autoridade policial, fls. 11, o infrator JOSÉ GABRIEL PEREIRA DE ALBUQUERQUE disse que não estava traficando drogas.
+A prova de materialidade do crime está feita pelo Auto de Apresentação e Apreensão (fls. 13), no qual consta a apreensão de: 20 (vinte) pedrinhas de crack; 14 (catorze) papelotes de cocaína.
+ ..
+Laudos Toxicológicos Provisórios fls. 16/17, Folha de Antecedentes fls. 39, Guia de Exame de Corpo de Delito fls. 14 e Laudo Pericial (Lesão Corporal em Situação de Flagrante) fls. 25/28.
+A materialidade está consubstanciada no auto de apreensão de fls. 13 e nos laudos provisórios de constatação de substância entorpecente de fls. 16/17 que atestou serem as substâncias apreendidas METILBENZOILLECGONINAL (crack) e METILBENZOILLECGONINAL (cocaína).
+Em fls. 39, consta a Consulta de Antecedentes Criminais do denunciado, que o mesmo já responde por outro processo criminal, inclusive por tráfico ilícito de drogas.
+A autoria decorre do depoimento dos Agentes da Lei e das circunstâncias da prisão.
+Por assim agir, o denunciado agiu como incurso nas tenazes do crime tipificado no art. 33, caput da Lei nº 11.343/2006.
+A referida droga é capaz de causar dependência, daí por que está listada na Portaria nº 344/98 da SVS/MV, para efeito do que dispõem os arts. 1º, § único, e art. 66, ambos da Lei nº 11.343/2006.
+Destaque-se ainda que, em razão de ser o crime de tráfico de drogas um crime de ação múltipla, o qual comporta 18 verbos diferentes, dentre os quais guardar e ter em depósito prescinde de atos concretos de venda para que seja consumado. É dizer, basta a configuração de uma dessas ações para que o delito se consume.
+Portanto, uma vez que o denunciado evidenciou transportar, trazer consigo, guardar e ter em depósito drogas destinadas ao consumo de terceiros, resta configurado o crime capitulado no art. 33 da Lei 11.343/06.
+As circunstâncias em que o material foi apreendido explicitam que as drogas não eram destinadas ao consumo próprio, tratando-se de tráfico, o que infringe o artigo 33 da Lei de Entorpecentes.
+Assim procedendo, o denunciado JOSÉ GABRIEL PEREIRA DE ALBUQUERQUE infringiu os mandamentos do Art. 33 da Lei 11.343/06 (tráfico ilícito de drogas), vez que transportava, trazia consigo, guardava e tinha em depósito expressiva quantidade de drogas destinadas ao consumo de terceiros, merecendo receber as sanções respectivas.
+À impossibilidade de propositura de suspensão condicional do processo (art. 89 da Lei nº 9.099/1995) e à ausência de atendimento aos mínimos requisitos ensejadores de Acordo de Não Persecução Penal (art. 28-A, caput, do Código de Processo Penal), em razão da pena mínima ser superior a 4 anos (art. 2º, caput, da Lei nº 8.072/1990) e por não ter confessado a prática do crime, ofereço a V. Exa. a presente peça acusatória em desfavor do denunciado supra qualificado, máxime que são os indícios de autoria e a prova da materialidade dos delitos.
+O Juízo de origem rejeitou a inicial, com base nos seguintes argumentos (fls. 66-67, grifei):
+Conforme o IP, no dia 28 de outubro de 2022, os policiais Marcos Aurélio da Silva Júnior, Diego Yuri Barral Pinheiro da Silva e Francisco Wesley Rodrigues de Oliveira estavam de serviço quando, por volta das 19h00min, na Rua Professora Alves Correia, Varjota, avistaram um indivíduo que correu ao ver a polícia. Diante da suspeita, os policiais resolveram persegui-lo e, no percurso, viram o momento em que ele soltou um objeto ao chão.
+De imediato, os policiais conseguiram alcançar o suspeito, momento esse que foi feita uma revista pessoal, e nada de ilegal foi encontrado em sua posse. Em seguida, realizaram uma busca no local onde ele havia jogado o objeto, e encontram um estojo contendo 14 (catorze) trouxinhas de cocaína e 20 (vinte) pedrinhas de crack embaladas em papel alumínio.
+Ademais, restou apurado, que na abordagem o suspeito reagiu e durante a mobilização, bateu com o rosto e lesionou-se. Ainda, o infrator foi identificado como José Gabriel Pereira de Albuquerque, o qual negou que a droga fosse sua e informou que estava respondendo a um processo em liberdade; que após a abordagem, a mãe do infrator aproximou-se do local e afirmou que seu filho estava vendendo drogas.
+Após isso, foi dada voz de prisão ao infrator, sendo, posteriormente, conduzido à delegacia, para que fossem adotados os procedimentos cabíveis.
+Perante a autoridade policial, p. 11, José Gabriel Pereira de Albuquerque disse que não estava traficando drogas e não tinha mais nada a declarar.
+Presente nos autos o auto de apresentação e apreensão de p. 13, o qual descreve: 20 (vinte) pedrinhas de crack embaladas em papel alumínio e 14 (catorze) trouxinhas de cocaína.
+Os laudos provisórios de constatação de substância entorpecente que repousa nas p. 16/17, informa exames preliminares:
+CRACK na quantidade de 0,01 GRAMA(S)
+COCAÍNA na quantidade de 0,01 GRAMA(S)
+A denúncia menciona tráfico de drogas (art. 33 da LD) sem especificar de onde a composição policial e o órgão acusador extraiu a conclusão de que o réu se encontrava comercializando as substâncias ilícitas ou que tenha praticado qualquer das condutas nucleares dispostas no referido tipo penal.
+O órgão acusador também não especifica quais seriam as condições do crime de tráfico. O auto de apresentação e apreensão e laudo provisório (p. 16/17) indica quantidade irrisória de drogas incapaz de atingir o bem jurídico tutelado pela norma penal. Falta à denúncia dados imprescindíveis para caracterizar a materialidade, que restou comprometida com os elementos de prova até aqui reunidos, acompanhado de depoimentos policias responsáveis pela prisão insuficientes para suprir as deficiências apontadas.
+Prescreve o artigo 41 do CPP que a denúncia ou queixa deverá conter a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas. A ausência de qualquer desses requisitos autoriza sua rejeição, a teor do artigo 395, I do mesmo código.
+O direito de ser informado do conteúdo da imputação visa propiciar ao acusado todos os meios para elaborar uma defesa eficaz. Se a denúncia é incerta, ou passível de alteração, o acusado não tem oportunidade nem mesmo de indicar sobre o que deveriam recair suas provas, de modo a afastar a culpa que lhe é atribuída.
+A acusação do crime de tráfico não guarda correspondência com os elementos informativos trazidos até essa fase processual e não há indicativos do desvalor da conduta. A denúncia toma como verdade os relatos apenas sugestivos, mas não os descreve de forma consistente, nem é capaz de delinear o ônus acusatório. Deve descrever em que consiste a conduta criminosa do réu no que se refere ao tráfico, para que possibilite a apuração do suposto fato delituoso neste juízo. A oportunidade para exaurir as dúvidas sobre as elementares do tipo deve ser exercitada antes de converter o autor do fato em réu e não durante a instrução processual.
+Há incerteza quanto à descrição do crime de tráfico, encargo do órgão ministerial e imprescindível para a análise do tipo penal atribuído ao acusado. Falta à denúncia elemento essencial para identificação da conduta que pretende ver reconhecido como fato criminoso, conforme exige o artigo 41 do CPP. Rejeito a denúncia por inépcia, baseado no artigo 395, I do CPP.
+O Tribunal de Justiça deu provimento ao recurso do Parquet a fim de receber a denúncia pelos seguintes fundamentos (fls. 156-160, grifei):
+De pórtico, atente-se para o fato de que o Juízo Primevo, vide Decisão Interlocutória de fls. 65/67, entendeu que "  a denúncia toma como verdade os relatos apenas sugestivos, mas não os descreve de forma consistente nem é capaz de delinear o ônus acusatório ".
+No entanto, conforme oitiva de fls. 4/5, o Policial Militar Marcos Aurélio da Silva Júnior disse que, durante patrulha de rotina, ele e seus companheiros de farda observaram quando o indivíduo, ao perceber a chegada da composição, livrara-se de objeto e tentara fuga.
+Após a abordagem, descobriu-se que tal objeto se tratava de conjunto, em configuração fracionada, de drogas de notáveis poderes viciantes - vale dizer, conforme Auto de fl. 13, que o crack se apresentava em 20 (vinte) pequenas pedras e a cocaína se apresentava em 14 (catorze) papelotes.
+Os Laudos Preliminares, conforme fls. 16/17, apontam as presenças das substâncias ilícitas mencionadas supra.
+Nesse sentido, a narrativa foi corroborada, sem grandes discrepâncias, pelos demais agentes públicos: Francisco Wesley Rodrigues de Oliveira, às fls. 7/8, e Diego Yure Barral Pinheiro da Silva, às fls. 9/10.
+ ..
+Em nenhum momento do comando processual exige-se uma descrição pormenorizada, diga-se.
+Pela simples leitura da Denúncia, vide fls. 58/63, tem-se a clara e sucinta descrição dos atos (a tentativa de fuga, o arremesso do conjunto de drogas - em estado fracionado, repise-se - e, por fim, a abordagem propriamente dita), a identificação do então autuado, a indicação do cometimento da figura típica do Art. 33 da Lei Antidrogas e o rol de testemunhas (os agentes públicos que realizaram a detenção inicial).
+Forçoso impor, nessa toada, que o direito de defesa resta plenamente possibilitado.
+ ..
+É de bom alvitre salientar que, no momento processual em exame, vige o Princípio do In Dubio Pro Societate. Vale dizer, há a preponderância do interesse público - corporificado na necessidade de instauração do processo para elucidação dos fatos - sobre o interesse meramente particular.
+Some-se ao fato de que, com supedâneo no que foi extraído do IP nº. 102-00727/2022, tem-se materialidade criminosa e indícios de autoria - a "justa causa" da ação penal resta patente, portanto.
+Nesse sentido:
+ ..
+Por todo o exposto, conhece-se o RESE e, ao fim, concede-se provimento, com o recebimento da Denúncia e a instauração da ação penal correspondente, dando-se regular e devido processamento ao feito.
+Conforme reiterada jurisprudência desta Corte, na linha do que dispõe o art. 395 do CPP, o trancamento do processo, por ser medida excepcional, somente é possível quando evidenciadas a absoluta deficiência da peça acusatória ou a ausência incontestável de provas (da materialidade do crime e de indícios de autoria), bem como a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+No caso, conforme visto, a Corte estadual concluiu pela descrição da prática do crime de tráfico de drogas, com fundamento, basicamente, nos seguintes argumentos: a) tentativa de fuga; b) arremesso das drogas.
+No entanto, a quantidade de droga encontrada (0,01 g de crack e 0,01 g de cocaína) foi bastante reduzida e perfeitamente compatível com o mero uso de entorpecentes. Ademais, é possível verificar, pela própria narrativa constante da inicial acusatória, que os policiais não flagraram o denunciado realizando o comércio de drogas; ou seja, ele não foi encontrado, na rua, em situação de traficância.
+De igual forma, não houve a descrição de eventual apreensão de materiais típicos para o preparo e comercialização de entorpecentes, tampouco balança de precisão, caderneta de anotações de venda de drogas ou rádio comunicador.
+Ressalto que a fuga e o arremesso das drogas, embora possam autorizar abordagem policial, em via pública, para a busca pessoal, não configuram, por si sós, indicativo de tráfico de drogas.
+Faço menção ao fato de que as únicas condutas imputadas pelo Ministério Público em sua denúncia - dentre as várias previstas no art. 33, caput, da Lei n. 11.343/2006 (que é de conteúdo múltiplo) - foram a de transportar, ter em depósito, trazer consigo e guardar, as quais também estão previstas no tipo descrito no caput do art. 28 da Lei n. 11.343/2006.
+Entendo que o Ministério Público não se desincumbiu do ônus de demonstrar o tráfico de drogas. O que se tem dos elementos coligidos aos autos é apenas a intuição acerca de eventual traficância praticada pelo recorrente.
+Apenas faço a observação de que nada impede que um portador de 1 g de crack, a depender das peculiaridades do caso concreto, possa ser responsabilizado pelo delito de tráfico de drogas.
+No entanto, no caso ora em análise, a ausência de diligências investigatórias que apontem, de maneira inequívoca, para a narcotraficância por parte do acusado evidencia o equívoco da imputação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, principalmente porque, além da quantidade não expressiva de entorpecentes, não foi o réu surpreendido comercializando droga e, portanto, a conclusão sobre sua conduta decorreu de avaliação subjetiva não amparada em substrato probatório idôneo a corroborar a acusação.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial para restabelecer a decisão de primeiro grau que rejeitou a denúncia oferecida em desfavor do réu.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
