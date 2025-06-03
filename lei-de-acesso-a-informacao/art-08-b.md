@@ -1,0 +1,1 @@
+Art. 8º-B.. Os conselhos de fiscalização profissional devem divulgar, de forma nominal e individualizada, lista das parcelas remuneratórias e indenizatórias, ainda que eventuais, incluídos os auxílios, as ajudas de custo, as gratificações, os jetons e quaisquer outras vantagens pecuniárias, que os empregados possam receber em virtude de condições específicas.
