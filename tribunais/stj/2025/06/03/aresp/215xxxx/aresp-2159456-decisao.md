@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual LOJAS COLOMBO S/A COMÉRCIO DE UTILIDADES DOMÉSTICAS se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 499):
+EXECUÇÃO FISCAL - MULTA - AUSÊNCIA DE FIXAÇÃO DE DATA E TURNO DE ENTREGA DE PRODUTOS AO ADQUIRENTE DE MERCADORIA POR COMÉRCIO ELETRÔNICO - INFRAÇÃO AOS ARTS. 39 "CAPUT" DO CDC E 1º DA LEI ESTADUAL 11.747/09 - IMPOSSIBILIDADE DO JUIZ SUBSTITUIR POR OUTRO O CRITÉRIO DO ADMINISTRADOR NA APLICAÇÃO DA MULTA - RECURSO DA FUNDAÇÃO PROCON PROVIDO PARA JULGAR TOTALMENTE IMPROCEDENTES OS EMBARGOS.
+Os embargos de declaração foram rejeitados (fl. 527).
+Nas razões de seu recurso especial, a parte afirma que houve violação aos arts. 489, § 1º, IV, e 1.022, II e parágrafo único, II, do Código de Processo Civil (CPC) , ao art. 2º da Lei 9.784/1999 e ao art. 5º, LIV, da Constituição Federal.
+Sustenta que o acórdão recorrido carece de fundamentação adequada e suficiente, em violação a dispositivos do CPC.
+Alega ilegalidade e cerceamento de defesa devido à alteração do fundamento legal da autuação após a defesa administrativa, sem oportunidade de defesa sobre o novo fundamento.
+Argumenta que a autuação do Procon foi realizada sem prova material suficiente, com simulação incompleta pelo agente fiscalizador, e que a empresa demonstrou a regularidade de sua conduta ao tempo da defesa.
+Defende a necessidade de aplicação da atenuante prevista em lei para redução do valor da multa, conforme parâmetros de razoabilidade e proporcionalidade.
+A parte adversa apresentou contrarrazões (fls. 706/711).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos termos do que dispõe o art. 1.022 do Código de Processo Civil, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto ou questão sobre a qual o juiz devia se pronunciar de ofício ou a requerimento, bem como para corrigir erro material.
+A parte opôs embargos de declaração na origem com estes argumentos (fls. 510/513):
+Não tendo prosseguido na análise, omitiu-se quanto ao seguinte relevante fundamento trazido na apelação da Lojas Colombo (p. 7): a informação sobre a entrega que ocorreria em um determinado espaço de tempo era prévia à realização do cadastro pelo consumidor, à inserção do login e senha, à informação do endereço para entrega e à escolha da modalidade de pagamento e à opção, pelo próprio consumidor, da data e do turno desejado, no momento efetivo da compra. Portanto, não havia infração.
+ ..
+Nesse ponto, o acórdão ora embargado omitiu-se ainda em relação ao fundamento de que as simulações completas foram apresentadas assim que foi possível à empresa tomar conhecimento da infração que lhe estava imputada e providenciar a documentação disponível naquele momento para evidenciar que não havia infração, embora os próprios elementos superficiais nos quais se baseou o Procon não constituíssem prova da infração.
+ ..
+Por essa razão, a decisão de subsistência do auto de infração não foi com base no art. 1º. Não houve autuação e oportunidade de defesa da empresa em relação aos arts. 2º da Lei da Entrega e 3º do Decreto Estadual 55.015, a fim de que a Lojas Colombo pudesse demonstrar que também esses estavam sendo cumpridos, enquanto detalhamento do art. 1º. Ora, a Administração fica vinculada ao motivo fático-jurídico que determinou a realização do ato administrativo (no caso, a autuação) e não se admite a alteração, no curso do procedimento administrativo, da narração dos fatos e da norma infringida, sob pena de violação ao art. 3º, I, a e b, da Portaria 26/06 do Procon/SP e cerceamento de defesa (art. 5º, LV, da CF e art. 2º da Lei 9.784/99). Entendendo haver outros motivos de fiscalização, caber-lhe-ia proceder com a apuração em respectivos expedientes.
+A análise desses relevantes fundamentos por esta Colenda Câmara é imprescindível, porque denotam a irregularidade formal da autuação e o cerceamento de defesa, gerando nulidade, além da ilegalidade da autuação em face de ausência de prova da infração, merecendo por isso controle judicial. O princípio da legalidade é basilar à Administração Pública (art. 37 da CF e art. 53 da Lei 9.784/99). Não é possível confundir ingerência judicial sobre atos administrativos discricionários com controle de legalidade e legitimidade, esse sempre necessário e resguardado ao Poder Judiciário (art. 5º, XXXVI, da CF), exato caso dos autos.
+Por último quando, quanto à aplicação da atenuante do art. 34, I, "b" da Portaria Procon 45/15 na sentença, uma vez que decorre de reconhecida adequação do comportamento da empresa e está prevista em lei, deve ser aplicada, mais uma vez por questão de legalidade, merendo a revisão judicial por não ter sido observada na via administrativa, maculando a legalidade do ato (arts. 37 e 5º, XXXVI, da CF e art. 53 da Lei 9.784/99). Tanto é assim que sequer houve recurso do Procon a esse respeito, limitando-se a apelação a razões genéricas dissociadas dos fundamentos da sentença, razão pela qual se aventou em contrarrazões a inépcia do recurso, não enfrentada no acórdão ora embargado
+Ao examinar o recurso integrativo, o Tribunal de origem proferiu decisão com esta fundamentação (fl. 527):
+Ao v. acórdão de fls. 498/504 do apenso que, por votação unânime, negou provimento ao recurso da embargante Lojas Colombo S. A. e acolheu o da Fundação PROCON, para julgar totalmente improcedentes os embargos à execução fiscal, são opostos pela vencida os presentes embargos declaratórios, ao argumento de que o aresto apresenta omissões que reclamam suprimento.
+É o relatório.
+Não prospera o inconformismo, uma vez que sob o fundamento invocado, o que a embargante na verdade pretende é infringir o julgado adotado por unanimidade de votos, mediante inclusive o reexame da prova produzida, objetivo a que não se presta a via escolhida.
+Em tais condições, rejeitam-se os embargos.
+Verifico que não foram sanados, no acórdão recorrido, os vícios indicados nos embargos de declaração, os quais dizem respeito a questões relevantes ao deslinde da causa.
+Para o Superior Tribunal de Justiça (STJ), presente algum vício - omissão, contradição ou obscuridade - e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.  ..
+1. Constatada a existência de vício não sanado no acórdão proferido pelo Tribunal a quo, apesar de opostos embargos de declaração, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil , com a determinação de retorno dos autos à origem para que se realize novo julgamento. Após a complementação do provimento jurisdicional pela instância ordinária, a parte contrária terá nova oportunidade de se insurgir contra o acórdão, agora isento de nulidades, podendo questioná-lo em sua integralidade.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.930.025/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO ORDINÁRIA.  ..  OMISSÃO NO ACÓRDÃO RECORRIDO. VERIFICAÇÃO. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II e III, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Agravo interno provido.
+(AgInt no AREsp n. 2.323.973/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/11/2024, DJe de 8/11/2024.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício da omissão, anular o acórdão pelo qual os embargos de declaração opostos na origem foram julgados; determino o retorno dos autos à origem para novo exame do recurso integrativo.
+Publique-se. Intimem-se.
+ EMENTA
