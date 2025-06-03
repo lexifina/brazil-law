@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão do TRIBUNAL DE JUSTIÇA DE GOIÁS (fls. 546/548) que inadmitiu recurso especial, em processo criminal em que consta como acusado DAVID GONÇALVES VIEIRA.
+Nas razões (fls. 556/570), articulou que não há necessidade de revolver matéria fática, mas apenas de tomar como base o narrado no acórdão recorrido. Pediu o provimento do agravo para, afastando a Súmula nº 7, STJ, dar trânsito ao recurso especial, o qual deve ser acolhido para anular o julgamento popular e submeter o recorrido a novo júri ou anular o julgamento dos embargos de declaração, para que os temas suscitados pelo então embargante, ora agravante, sejam analisados integralmente.
+O Ministério Público Federal opinou pelo provimento do agravo e do recurso especial (fls. 595/598).
+É o relatório. DECIDO.
+Apesar da impossibilidade de, em recurso especial, promover discussão quanto a fatos e a provas (Súmula nº 7, STJ), não há empecilho à discussão jurídica a partir da moldura fática tida por incontroversa pelo tribunal de origem.
+É esse o horizonte de que ora se utiliza para enfrentar a alegação posta no recurso especial, em que se aponta violação aos art. 483, inciso III e § 2º, art. 490, caput, e art. 564, parágrafo único, do Código de Processo Penal.
+O art. 483, inciso III e § 2º, do Código de Processo Penal não viabiliza absolvições arbitrárias, assim entendidas aquelas que não encontram lastro algum à vista da prova produzida nos autos. É que a soberania do júri (art. 5º, XXXVIII, "c", da Constituição Federal) não lhe confere poder incontrastável. Além disso, o sistema de avaliação de prova a partir da íntima convicção, a despeito de relativizar o controle acerca do decidido, não impede a aferição quanto à existência de mínima racionalidade, indispensável a legitimar o quanto resolvido pelo conselho de sentença.
+A esse respeito:
+"1. A soberania do Tribunal do Júri não é absoluta e deve estar calcada em elementos de prova.
+2. A anulação de decisão absolutória do Júri é possível quando manifestamente dissociada do contexto probatório".
+(AgRg no AREsp n. 2.657.479/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2024, DJEN de 3/12/2024.)
+Essa discussão já foi solvida, também, em âmbito constitucional, pelo Supremo Tribunal Federal, em julgamento sob o regime de repercussão geral, oportunidade em que se firmou a seguinte tese:
+"1. É cabível recurso de apelação com base no artigo 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos.
+2. O Tribunal de Apelação não determinará novo júri quando tiver ocorrido a apresentação, constante em ata, de tese conducente à clemência ao acusado, e esta for acolhida pelos jurados, desde que seja compatível com a Constituição, com os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas dos autos"
+(ARE 1225185, Relator(a): GILMAR MENDES, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 03-10-2024, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 13-12-2024 PUBLIC 16-12-2024).
+Firmadas essas premissas, consta no acórdão proferido em embargos infringentes (fls. 426/442) que a defesa pediu a absolvição por ausência de prova quanto à autoria. Observa-se, pois, que o único fundamento trazido foi o da citação negativa. Não se individualizou razão que conduzisse à clemência, hipótese em que, de acordo com a tese firmada pelo Supremo, a absolvição no quesito genérico, no caso, seria viável.
+Assim, em conclusão que não se alinha a qualquer elemento factível, o jurado optou por absolver o acusado, a tornar a decisão manifestamente contrária à prova dos autos (art. 593, inciso III, "d", do Código de Processo Penal).
+Em caso similar, já decidiu esta 5ª Turma:
+"Na hipótese, os jurados, embora tenham reconhecido a materialidade e a autoria delitivas, responderam afirmativamente ao quesito genérico da absolvição, não obstante ser a negativa de autoria a única tese defensiva. Nesse cenário, a resposta afirmativa ao terceiro quesito apresentou-se contraditória em relação às duas anteriores e, dessa forma, a absolvição restou manifestamente contrária às provas dos autos, tal como foi reconhecido pelos próprios jurados nas respostas aos dois primeiros quesitos.
+Configurada hipótese de anulação do julgamento prevista no art. 593, III, "d", do CPP".
+(AgRg no REsp n. 1.994.435/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.).
+Além disso, o acórdão mencionou que em julgamento estava acusação de tentativa de homicídio qualificado (art. 121, § 2º, incisos II, IV e V, c/c o art. 14, inciso II, do Código Penal), crime hediondo (art. 1º, inciso I, da Lei nº 8.072/1990) e que não comporta graça (art. 5º, inciso XLIII, da Constituição Federal), motivo a mais para que não se avalize o decidido pelo conselho de sentença.
+Confira-se:
+"Os crimes hediondos, como o feminicídio, são insuscetíveis de graça e anistia e, portanto, não há que se falar em clemência. Muito embora os institutos não se confundam, servem como parâmetro simétrico para evitar que a decisão dos jurados implique concessão de perdão a crimes que violam a integridade de valores constitucionalmente protegidos".
+(RHC 248253 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 03-03-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17-03-2025 PUBLIC 18-03-2025).
+Em complemento, o art. 490, caput, do Código de Processo Penal impõe a repetição da votação em caso de contradição das respostas, sob pena de nulidade (art. 564, parágrafo único, do Código de Processo Penal). É o que ocorre quando a única tese da defesa é a negativa de autoria ou de participação e, depois de respondidos afirmativamente os primeiro e segundo quesitos, o jurado absolve o acusado no quesito genérico.
+Nesse sentido, julgado esta 5ª Turma, de minha relatoria: AgRg no HC n. 782.762/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2024, DJe de 16/8/2024.
+Em igual direção, precedente, também, da 6ª Turma:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. VIOLAÇÃO DO ART. 483, III, § 2º, DO CPP. TESE DEFENSIVA DE NEGATIVA DE AUTORIA. RECONHECIMENTO DA AUTORIA E DA MATERIALIDADE, RESPOSTA AFIRMATIVA DOS JURADOS QUANTO AO QUESITO (ABSOLUTÓRIO GENÉRICO). CONTRADIÇÃO NÃO EQUACIONADA (ART. 490 DO CPP). NULIDADE ABSOLUTA. PRECEDENTES DESTA CORTE. INEXISTÊNCIA DE TESE OU CIRCUNSTÂNCIA FÁTICA JUSTIFICANTE DA OPÇÃO DOS JURADOS, EM CONSONÂNCIA COM O ENTENDIMENTO DO STF.
+Agravo regimental improvido.
+(AgRg no AREsp n. 2.717.586/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2025, DJEN de 28/3/2025.)
+Acolhida a tese principal, prejudicada fica a análise da alegada contrariedade ao art. 619 do Código de Processo Penal.
+Ante o exposto, dou provimento ao agravo, para conhecer e dar provimento ao recurso especial, a fim de anular o julgamento popular, por decisão manifestamente contrária à prova dos autos, e submeter o ora agravado a nova sessão perante o conselho de sentença.
+Publique-se. Intimem -se.
+EMENTA
