@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado por Rápido Sumaré LTDA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 597):
+APELAÇÃO AÇÃO CIVIL PÚBLICA CONTRATO ADMINISTRATIVO TRANSPORTE MUNICIPAL COLETIVO DE PASSAGEIROS MUNICÍPIO DE INDAIATUBA Condenação da empresa apelante à restituição dos valores correspondentes à aquisição antecipada de passagens de ônibus, diante da ausência da prestação do respectivo serviço Insurgência Acolhimento em parte Preliminar de ilegitimidade da referida Municipalidade afastada No mérito, em razão da caducidade da concessão do serviço público, imprescindível a devolução do montante correlato à aquisição antecipada dos créditos Não verificada a violação do princípio da separação dos Poderes Sentença parcialmente reformada apenas no tocante à condenação à verba sucumbencial Art. 17 da Lei nº 7.347/85 Princípio da Simetria Precedentes do C. STJ Recurso provido em parte.
+Opostos embargos declaratórios, foram rejeitados (fls. 653/655).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 17, 330, III, e 485, VI, do CPC. Sustenta, em resumo, que houve manifesta falta de interesse processual do Município de Indaiatuba, que propôs Ação Civil Pública visando tutelar interesse patrimonial de terceiros, os empresários supostamente prejudicados pelo decreto de caducidade do contrato havido entre as partes ora litigantes; não há necessidade de provimento judicial, pois a Recorrente não impôs resistência à solução do imbróglio; e a ação deveria ser extinta, pois não há interesse processual do Município de Indaiatuba, que se utilizou do rito da Ação Civil Pública para resolver impasse de natureza patrimonial das empresas, e não dos usuários, que são os consumidores.
+Foram ofertadas contrarrazões às fls. 713/721.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do agravo (fls. 783/787).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao tratar da legitimidade da parte recorrida, o Tribunal local consignou que (fls. 601/602):
+A princípio, não comporta acolhimento a preliminar de ilegitimidade passiva do Município de Indaiatuba.
+Como é cediço, a legitimidade consubstancia condição da ação correlata à pertinência subjetiva da parte em relação os fatos narrados na petição inicial. Consoante lição de Cassio Scarpinella Bueno, "faz-se suficiente que, em tese, a situação conflituosa pertença (pareça pertencer) a quem se afirma que pertence" (in Curso sistematizado de direito processual civil: teoria geral do direito processual civil, vol. 1. 8ª ed. rev. e atual. São Paulo: Saraiva, 2014, p. 341).
+E, no caso dos autos, da leitura da peça inaugural, extrai-se substrato fático satisfatório para justificar a presença do município apelado na lide, na medida em que a controvérsia toca às consequências da extinção do contrato administrativo celebrado entre este e a empresa apelante.
+Dessa forma, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, para reavaliar a legitimidade ativa da parte recorrida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. Para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de afastar a legitimidade passiva da recorrente, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+2. A Corte local, ao considerar que foram demonstrados os elementos ensejadores do dever de indenizar na hipótese sub judice, relativamente à cobrança indevida por meio de ligações telefônicas e mensagens excessivas, o fez com base na análise aprofundada do acervo probatório dos autos, sendo que a pretensão recursal enseja o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor do óbice da Súmula 7 do STJ.
+3. A intervenção deste Tribunal Superior quanto ao montante arbitrado a título de danos morais pelas instâncias ordinárias limita-se a casos nos quais o valor da indenização seja notadamente irrisório ou exagerado, diante do quadro fático delimitado pelas instâncias de origem, distanciando-se dos padrões de razoabilidade e proporcionalidade, o que não se evidencia no caso em tela.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.689.569/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
