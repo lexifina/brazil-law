@@ -1,0 +1,3 @@
+Art. 5º-A. São prerrogativas funcionais dos integrantes do cargo de Auditor do Banco Central do Brasil, no exercício de suas atribuições:
+I - requisitar às autoridades de segurança auxílio para a sua própria proteção e para a proteção de testemunhas, de patrimônio e de instalações federais, sempre que caracterizada ameaça, na forma estabelecida pela Diretoria Colegiada do Banco Central do Brasil; e
+II - ingressar livremente em qualquer edifício ou recinto em que funcione sede ou dependência de instituição financeira ou instituição autorizada a funcionar pelo Banco Central do Brasil, para praticar ação de fiscalização, colher prova ou informação útil no estrito âmbito do exercício da atividade específica designada pela Autarquia, na forma estabelecida em regulamento.

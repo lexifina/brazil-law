@@ -1,0 +1,7 @@
+Art. 17-A - Além das proibições previstas no art. 17, ao Procurador do Banco Central do Brasil também é proibido:
+I - exercer a advocacia fora das atribuições do respectivo cargo;
+II - contrariar súmula, parecer normativo ou orientação técnica, adotadas pelo Procurador-Geral do Banco Central do Brasil ou pelo Advogado-Geral da União;
+III - manifestar-se, por qualquer meio de divulgação, sobre assuntos conexos às suas atribuições, salvo ordem, ou autorização expressa da Diretoria do Banco Central do Brasil;
+IV - exercer suas atribuições em processo, judicial ou administrativo, em que seja parte ou interessado, ou haja atuado como advogado de qualquer das partes, ou no qual seja interessado parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro, bem assim nas hipóteses da legislação, inclusive processual; e
+V - participar de comissão ou banca de concurso e intervir no seu julgamento, quando concorrer parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro.
+Parágrafo único. Devem os Procuradores do Banco Central do Brasil dar-se por impedidos nas hipóteses em que tenham proferido manifestação favorável à pretensão deduzida em juízo pela parte adversa e naquelas da legislação processual, cumprindo-lhes comunicar, de pronto, o seu impedimento ao respectivo superior hierárquico, visando à designação de substituto.

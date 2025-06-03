@@ -1,0 +1,1 @@
+Art. 9º-D. Os servidores integrantes da Carreira de que trata o art. 9º-A desta Lei não poderão perceber cumulativamente com o subsídio quaisquer valores ou vantagens incorporadas à remuneração por decisão administrativa, judicial ou extensão administrativa de decisão judicial, de natureza geral ou individual, ainda que decorrentes de sentença judicial transitada em julgado.

@@ -1,0 +1,1 @@
+Art. 1º-A. A partir de 1º de janeiro de 2025, o cargo de Analista do Banco Central do Brasil, da Carreira de Especialista do Banco Central do Brasil, passa a denominar-se Auditor do Banco Central do Brasil.
