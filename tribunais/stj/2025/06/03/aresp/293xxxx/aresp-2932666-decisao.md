@@ -1,0 +1,17 @@
+DECISÃO
+NEIVA MARIA BOENO DA SILVA agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso (Apelação Criminal n. 1006198-73.2022.8.11.0037).
+Consta dos autos que a ora agravante foi condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação do art. 33, § 4º, da Lei de Drogas e pretende, em síntese, a aplicação do referido redutor no patamar máximo de 2/3.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de uma pequena traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, fizeram menção ao fato de que "a apelante Neiva foi condenada nos autos nº. 1010358-44.2022.8.11.0037, pela prática do mesmo tipo de delito previsto no artigo 33, caput, da Lei nº. 11.343/2006 e art. 180, caput, do Código Penal" (fl. 703), com o destaque de que, "em 25/03/2024, houve o trânsito em julgado da referida ação penal" (fl. 704).
+Não há falar, portanto, em inobservância ao princípio da presunção de não culpabilidade, tampouco ao que decidido pela Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz, submetido ao rito dos recursos repetitivos), porque, conforme visto, na hipótese dos autos, a recorrente possui condenação em outra ação penal já com trânsito em julgado.
+De mais a mais, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que a acusada não se dedicaria a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
