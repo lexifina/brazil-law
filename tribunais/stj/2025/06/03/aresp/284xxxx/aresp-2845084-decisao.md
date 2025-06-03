@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 550):
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. PRAZO. INÍCIO DO PRAZO A CONTAR DA DATA DO COMPARECIMENTO ESPONTANEO NOS AUTOS. ARTIGO 239, §1º, DO CPC. INTEMPESTIVIDADE RECONHECIDA. RECURSO A QUE SE NEGA PROVIMENTO.
+- Tendo havido o comparecimento da parte executada nos autos, através do seu advogado na forma constante da procuração outorgada, cumpre reconhecer que tal comparecimento supre a citação, a teor do disposto no artigo 239, §1º, do Código de Processo Civil.
+- Propostos os embargos a execução mais de 02 meses após o comparecimento espontâneo do executado nos autos, cumpre reconhecer a intempestividade dos embargos apontados, pelo transcurso do prazo de 15 dias úteis iniciados com a citação (comparecimento espontâneo).
+Nas razões do recurso especial, a parte agravante aponta violação dos artigos 915, 239 e 231 do Código de Processo Civil.
+Sustenta que não há que se falar em intempestividade dos embargos à execução, uma vez que o embargante, ora recorrente foi citado eletronicamente, com prazo marcado para manifestação em 7/8/2023, sendo que os presentes embargos foram distribuídos exatamente no referido dia.
+Afirma que não há nenhum retorno de mandado positivo de citação do embargante nos autos principais até o presente momento e, sendo indispensável a citação do executado, a não ser por comparecimento espontâneo, o prazo dos embargos não começará a fluir.
+Aduz que, "se for considerado que houve a juntada de procuração de advogado, observe que a advogada que protocolou a procuração de ID Num. 9829169583, não tratou de matéria de defesa, o que não configura em hipótese alguma a tese de comparecimento espontâneo" (fl. 565).
+Não houve apresentação de contrarrazões.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 601/ 603.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, ao solucionar a controvérsia, asseverou o Tribunal de origem que (fls. 552/553):
+Vejo que o cerne recursal é unicamente averiguar se houve ou não a tempestividade na ação de embargos do devedor proposta pelo apelante.
+Vejo que o executado apelante, Leonardo Soares dos Santos, compareceu espontaneamente nos autos da ação executiva em 06.06.2023 (terça feira). Os embargos a execução foram opostos em 07.08.2023. Logo, não há dúvida acerca da intempestividade dos embargos a execução, propostos 02 meses após o comparecimento espontâneo nos autos. Saliento que as telas sistêmicas não tem o condão de alterar a contagem dos prazos que tem previsibilidade por lei.
+E cito a jurisprudência:
+"EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - COMPARECIMENTO ESPONTÂNEO DOS EXECUTADOS - CITAÇÃO SUPRIDA - ART. 239, § 1º, DO CPC - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA FORMULADO NA INICIAL - AUSÊNCIA DE SUSPENSÃO DO FEITO - INTEMPESTIVIDADE CONSTATADA. Consoante dispõe o art. 239, § 1º, do CPC, o comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução. Nos termos do art. 134, §3º do CPC, a instauração do incidente de desconsideração da personalidade jurídica suspenderá o processo, salvo na hipótese do §2º, isto é, quando o incidente é requerido na petição inicial. Opostos os embargos fora do prazo, reputa-se intempestivos (TJMG - Apelação Cível 1.0000.23.264265-2/001, Relator(a): Des.(a) Marco Aurelio Ferenzini , 14ª CÂMARA CÍVEL, julgamento em 25/01/2024, publicação da súmula em 26/01/2024)."
+Portanto, vejo acertada a sentença que reconheceu a intempestividade dos embargos a execução, ante a não distribuição dos embargos no prazo de 15 dias contados a partir do comparecimento espontâneo nos autos e que supriu a citação, a teor do disposto no artigo 239, §1º, do Código de Processo Civil.
+Do que se observa da leitura dos trechos do acórdão recorrido acima transcritos, para  afastar  as  conclusões  referentes  à intempestividade dos embargos à execução e ao comparecimento espontâneo nos autos,  na forma das  razões  vertidas  no  presente  recurso,  seria  imprescindível  nova  análise  do  conjunto  fático-probatório  dos  autos,  providência  que  esbarra  no  óbice  da  Súmula  7  desta  Corte.
+Ademais, aduziu o que, "se for considerado que houve a juntada de procuração de advogado, observe que a advogada que protocolou a procuração de ID Num. 9829169583, não tratou de matéria de defesa, o que não configura em hipótese alguma a tese de comparecimento espontâneo" (fl. 565).
+Ocorre que a referida tese foi apresentada somente no presente recurso, motivo pelo qual o Tribunal de origem não se pronunciou sobre a alegação.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre as teses do recurso, o que não ocorreu na hipótese examinada, já que não houve sequer a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento da tese apresentada, não há como ser conhecido o recurso especial, a teor da Súmula 282 do Supremo Tribunal Federal.
+Ocorre que é imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados e as teses a eles vinculadas, o que não ocorreu na hipótese examinada.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+Assim, em virtude da falta de prequestionamento da tese apresentada, não há como se conhecer do recurso especial, a teor da Súmula 282 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
