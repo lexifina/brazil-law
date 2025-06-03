@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WALNEY AGILIO RAIMONDI contra decisão monocrática em que conheci do agravo para não conhecer do recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que negou provimento ao recurso da defesa.
+A parte embarga nte sustenta a existência de contradição na decisão embargada, "quando a decisão respeitosamente embargada aduz que a análise da ilicitude da gravação ambiental clandestina não seria conhecida porque "o acórdão recorrido consignou que a condenação, de todo modo, se baseou em outros elementos de prova, oriundos de fontes independentes, a exemplo da análise dos contratos de licitação fraudados e da oitiva das testemunhas", quando é de clareza solar que o único elemento de prova utilizado, no caso do Embargante, foi justamente a gravação ilícita e o depoimento de uma única e contraditada testemunha." (e-STJ fl. 3.489).
+Requer o acolhimento do recurso para que seja sanado o vício apontado, "para eliminar a contradição, de modo a afastar a afirmação de que a condenação do Embargado se baseou em outros elementos de provas, "oriundos de fontes independentes, a exemplo da análise dos contratos de licitação fraudados e da oitiva das testemunhas", quando resta literalmente dito no Acórdão que não se constatou qualquer fraude na licitação vencida pela empresa do Embargante ou se invocou qualquer outro meio de prova, e que os únicos elementos de "provas" utilizados para a sua indevida condenação foram a gravação ilícita, obtida pelo órgão acusador na fase indiciária (de modo a se aplicar a teoria da nulidade por derivação) e o depoimento de uma única testemunha, admitir e conferir regular processamento ao Recurso Especial interposto, como de direito e JUSTIÇA!" (e-STJ fl. 3.490).
+É o relatório.
+Decido.
+Não vislumbro qualquer vício na decisão embargada.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado.
+Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+Não há qualquer situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal, vez que na decisão embargada está expresso que o acórdão recorrido apresentou fundamentação em fatos e provas diversas para afirmar a suficiência do padrão probatório para a condenação do ora embargante, sendo descabido o revolvimento da matéria no julgamento do apelo extremo.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
