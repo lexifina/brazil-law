@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por CANOPUS ADMINISTRADORA DE CONSORCIOS S. A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl.1.683):
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO DO CONSUMIDOR. DIREITO PROCESSUAL CIVIL. PRELIMINARES. INTEMPESTIVIDADE. DATA DA INTIMAÇÃO ELETRÔNICA. PREVALÊNCIA. ART. 5º, LEI Nº 11.419/2006. REJEITADA. DIALETICIDADE RECURSAL. AUSÊNCIA DE VIOLAÇÃO. REJEITADA. INOVAÇÃO RECURSAL. DEDUÇÕES LEGAIS E CONTRATUAIS. ALEGAÇÃO NOVA. SUPRESSÃO DE INSTÂNCIA. ACOLHIDA. PRECLUSÃO. REDISCUSSÃO. MATÉRIA CUJA PRECLUSÃO JÁ FOI RECONHECIDA. REITERAÇÃO. ACOLHIDA. LITIGÂNCIA DE MÁ-FÉ. MULTA. NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURADA. REJEITADA. MÉRITO. CONTRATO DE CONSÓRCIO. SEGURO DE VIDA. OBJETO. QUITAÇÃO DO SALDO DEVEDOR. MORTE. DOENÇA PREEXISTENTE. SÚMULA Nº 609, STJ. EXAMES MÉDICOS PRÉVIOS. NÃO REALIZADOS. MÁ-FÉ DO SEGURADO. ASSINATURA A ROGO. CONTRATO ACESSÓRIO. NÃO COMPROVADA. EXCLUSÃO DE COBERTURA. IMPOSSIBILIDADE. RESPONSABILIDADE SOLIDÁRIA. ART. 7º, PARÁGRAFO ÚNICO E ART. 25, § 1º, CDC. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. PARCELA PAGA A MAIOR. RESTITUIÇÃO. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO. ART. 405, CC. CRÉDITO. RECEBIMENTO IMEDIATO. CABÍVEL. PRECEDENTES. CONTEMPLAÇÃO. DESNECESSIDADE. RECURSO DA RÉ PARCIALMENTE CONHECIDO E, NA EXTENSÃO CONHECIDA, NÃO PROVIDO. RECURSO DA AUTORA CONHECIDO E PROVIDO. SENTENÇA REFORMADA EM PARTE.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 2º e 10, ambos da Lei n. 11.795/2008, art. 57, § único, do Código Civil, e art. 80, incisos IV, V e VI, e 81, caput, ambos do Código de Processo Civil.
+Sustenta, em síntese, que a administradora de consórcios não deve ser responsabilizada pelo pagamento da indenização do seguro, pois essa obrigação é exclusiva da seguradora. A administradora atua apenas como estipulante e beneficiária do seguro (fls. 1.751-1.752).
+Ainda, defende que são válidas as cláusulas de exclusão de risco no contrato de seguro, pois afirma que a obrigação de declarar doenças preexistentes é do segurado e não pode ser imposta à seguradora ou à administradora de consórcios (fls. 1.752-1.753).
+Por fim, contesta a aplicação de multa por litigância de má-fé, porquanto afirma que suas ações no processo foram pautadas pela boa-fé e que não houve intenção de protelar ou causar embaraço ao andamento processual (fls. 1.761-1.764).
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls.1.884-1.886), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 2º e 10, da Lei 11.795/2008, art. 57, § único, do Código Civil, e art. 80, incisos IV, V e VI, e 81, caput, do Código de Processo Civil, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 5 e 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A proposito, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. MATÉRIA DEVOLVIDA AO TRIBUNAL DE ORIGEM POR MEIO DA APELAÇÃO. IRREGULARIDADE NÃO CONSTATADA. REVISÃO. SÚMULA 7/STJ. ILEGITIMIDADE PASSIVA DAS CORRÉS NÃO CONFIGURADA. AUSÊNCIA DE PREVISÃO CONTRATUAL PARA A SOLIDARIEDADE. REEXAME. SÚMULAS 5 E 7/STJ. DANO MORAL. REDIMENSIONAMENTO DO VALOR DA CONDENAÇÃO. CARÁTER IRRISÓRIO NÃO ATESTADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial que vigora no Superior Tribunal de Justiça é no sentido de que, em virtude do efeito devolutivo da apelação, não há julgamento fora dos limites da demanda quanto às matérias veiculadas no recurso.
+2. As condições da ação (ilegitimidade de parte), por constituírem matéria de ordem pública, podem ser conhecidas de ofício por meio da apelação, sem que isso configure julgamento extra petita.
+3. A jurisprudência desta Corte Superior entende que a responsabilidade solidária entre o consórcio e as empresas consorciadas necessita de previsão contratual.
+4. Concluindo o Tribunal originário acerca da inexistência de solidariedade, descabe a revisão em julgamento de recurso especial, ante a incidência das Súmulas 5 e 7/STJ.
+5. A revisão do valor da indenização por danos morais em julgamento de recurso especial só é possível quando constatada manifesta insignificância ou exorbitância da quantia fixada, apta a afastar a aplicação da Súmula 7/STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.618.967/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à imputação da responsabilidade da administradora do consórcio na contratação do seguro de vida, na qualidade de estipulante e como representante do segurado, porquanto prevista em contrato; e quanto a litigância de má-fé, exigem o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO. RESPONSABILIDADE SOLIDÁRIA RECONHECIDA. INVERSÃO DO JULGADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Conforme orientação jurisprudencial do STJ: "Deve ser atribuída a responsabilidade ao consórcio por obrigação de um de seus participantes apenas na hipótese de assim prever o respectivo ato constitutivo" (AgInt no AREsp n. 2.024.701/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/6/2022).
+2. A disposição inserta no art. 28, § 3º, do Código de Defesa do Consumidor se restringe a estabelecer hipótese de solidariedade entre as sociedades consorciadas, e não entre estas e o próprio consórcio. Assim, deve ser imputada a responsabilidade ao consórcio por obrigação de um de seus participantes apenas quando haja previsão neste sentido no respectivo ato constitutivo, sendo esta a hipótese reconhecida na origem.
+3. Não cabe, em recurso especial, reinterpretação de cláusulas contratuais e reexame de matéria fático-probatória (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.534.192/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. AGRAVO DE INSTRUMENTO. BANCO DO BRASIL. LEGITIMIDADE E COMPETÊNCIA CHAMAMENTO AO PROCESSO. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. MULTA POR LITIGÂNCIA DA MÁ-FÉ. ART. 77 DO CPC. REVISÃO. SÚMULA 7.
+1. Inviável a análise de ofensa a dispositivos constitucionais (art.
+109), porquanto a competência desta Corte Superior restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. A jurisprudência desta Corte é no sentido de que não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Incidência da Súmula 83/STJ.
+3. Não há que se falar em chamamento ao processo da União e do Banco Central no feito, pois, sendo a condenação solidária, e tendo em vista que foi a instituição financeira agravante que celebrou o contrato com a parte, plenamente legítima para figurar no polo passivo da demanda e responder pelos valores recebidos a maior, considerando que o credor pode exigir o pagamento integral de qualquer um dos devedores solidários.
+4. A caracterização da má-fé processual exige a avaliação das circunstâncias concretas do caso, incluindo a conduta das partes ao longo do processo, a eventual intenção de protelar o feito ou de apresentar alegações manifestamente infundadas. Essa análise, por sua natureza, envolve a apreciação de elementos fáticos e probatórios que foram examinados pelas instâncias ordinárias.
+Recurso especial conhecido em parte e improvido.
+(REsp n. 1.857.461/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+Ainda, quanto a tese de que são válidas as cláusulas de exclusão de risco no contrato de seguro, porque a obrigação de declarar doenças preexistentes é do segurado, o T ribunal afirmou que (fl. 1.701):
+Desta forma, ausente a exigência de exames médicos anteriormente à contratação do seguro ou a comprovação da má-fé do segurado, necessário concluir pela impossibilidade da exclusão da cobertura do seguro de vida com base em doença preexistente
+Portanto, uma vez mais, rever tais circunstâncias ora delineadas pelo acórdão recorrido demanda a incursão na seara fática probatória, igualmente incabível nesta instância recursal pelo óbice da Súmula n. 7/STJ.
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Nesse sentido, é o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSÓRCIO. SEGURO DE VIDA. CONTRATO ACESSÓRIO. NÃO COMPROVADA. EXCLUSÃO DE COBERTURA. IMPOSSIBILIDADE. RESPONSABILIDADE SOLIDÁRIA. REVISÃO. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ FÉ. REVISÃO. SÚMULA N 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
