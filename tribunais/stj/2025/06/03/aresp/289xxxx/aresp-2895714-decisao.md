@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo manejado pela OI S/A - Em recuperação judicial contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 265):
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA DERIVADA DE TÍTULO OBTIDO EM AÇÃO CIVIL PÚBLICA - PERÍCIA - INSURGÊNCIA EM RELAÇÃO AOS HONORÁRIOS PROPOSTOS PELO EXPERT - COMPLEXIDADE DEMONSTRADA - SUBJETIVIDADE QUE NÃO AFASTA O APORTE SUGERIDO PELO PERITO - VALOR MANTIDO - REQUERIMENTO DE PARCELAMENTO - NÃO APRECIADO NA ORIGEM - RECURSO EM PARTE CONHECIDO E, NESTA, DESPROVIDO.
+1. Os honorários do expert devem guardar pertinência para com a complexidade da causa, à relevância demanda para as partes, ao zelo e à qualidade do trabalho, atendo-se aos critérios de proporcionalidade e razoabilidade.
+2. Os elementos constantes do feito indicam que o labor não é simplório e merece devida remuneração.
+3. Eventual pedido de parcelamento dos honorários deve ser apreciado, primeiro, pelo juízo de origem, sob pena de supressão de instância.
+4. Recurso em parte conhecido e, nesta, desprovido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, II, § 1º, IV e 1.022, parágrafo único, II, do CPC.
+Sustenta que o acórdão recorrido deve ser anulado em razão de omissão obscuridade, visto que: (I) "ignorou o fato de que o próprio Perito já havia reconhecido que a perícia carece dos subsídios necessários ao seu desenvolvimento e, por isso, precisaria ser concluída de maneira "subjetiva"." (fl. 333); (II) "o valor dos honorários periciais não seria justificável para uma perícia contábil que não contará com um suporte documental mínimo, sendo, portanto, infundada a premissa adotada no v. acórdão de que haveria uma extensa quantidade de documentos a ser examinada pelo Perito." (fl. 334); (III) " a Recorrente veiculou a ocorrência de fatos novos, que deveriam ter sido levados em conta pelo E. TJMS, pois possuem estrita relação com o objeto do recurso e poderiam afetar a conclusão do julgado. Na oportunidade, a Recorrente levou ao conhecimento da E. Corte Estadual, que, entre a interposição e o julgamento do Agravo de Instrumento em epígrafe, foi deferida a sua nova Recuperação Judicial, e aprovado o respectivo Plano Recuperacional, o que concorreria para a minoração dos honorários periciais, mantidos no desarrazoado patamar de R$ 73.980,00 (setenta e três mil, novecentos e oitenta reais), a fim de preservar a continuidade dos serviços essenciais que presta à população. " (fl. 336).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+No caso, o Tribunal local, em sede de embargos de declaração, teceu a seguinte argumentação a fim de afastar os alegados vícios de omissão e obscuridade (fls. 314/326):
+Não verifico os vícios alegados.
+Isso porque, o acórdão embargado analisou suficientemente as razões apresentadas no recurso e discorreu expressamente sobre os pedidos realizados, concluindo que, in casu, o valor dos honorários propostos pelo perito deve ser mantido, pois guarda pertinência para com a complexidade da causa, à relevância da demanda para as partes, ao zelo e à qualidade do trabalho, atendo-se aos critérios de proporcionalidade e razoabilidade.
+Além disso, de fato, o agravante não logrou demonstrar a eventual desproporcionalidade entre o trabalho realizado pelo expert e o valor homologado pelo juízo de origem.
+Vejamos o Acórdão ora atacado (fls. 265/270 dos autos principais):
+"EMENTA - AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA DERIVADA DE TÍTULO OBTIDO EM AÇÃO CIVIL PÚBLICA - PERÍCIA - INSURGÊNCIA EM RELAÇÃO AOS HONORÁRIOS PROPOSTOS PELO EXPERT - COMPLEXIDADE DEMONSTRADA - SUBJETIVIDADE QUE NÃO AFASTA O APORTE SUGERIDO PELO PERITO - VALOR MANTIDO - REQUERIMENTO DE PARCELAMENTO - NÃO APRECIADO NA ORIGEM - RECURSO EM PARTE CONHECIDO E, NESTA, DESPROVIDO.
+1. Os honorários do expert devem guardar pertinência para com a complexidade da causa, à relevância demanda para as partes, ao zelo e à qualidade do trabalho, atendo-se aos critérios de proporcionalidade e razoabilidade.
+2. Os elementos constantes do feito indicam que o labor não é simplório e merece devida remuneração.
+3. Eventual pedido de parcelamento dos honorários deve ser apreciado, primeiro, pelo juízo de origem, sob pena de supressão de instância.
+4. Recurso em parte conhecido e, nesta, desprovido."
+(..)
+A prova pericial consiste em exame, vistoria ou avaliação (art. 464, CPC). É o meio que visa propiciar ao órgão jurisdicional a compreensão de determinado fato no processo mediante a utilização de conhecimento técnico especializado de outrem.
+Esse instituto fica à custa do expert, auxiliar do juízo que cumprirá "escrupulosamente o encargo" (arts. 156-158 e 466, CPC) e cuja remuneração partirá, em prefacial, da apresentação inicial de proposta de honorários, com consequente ciência das partes e homologação.
+A definição do valor como contraprestação aos serviços prestados pelo experto não é, de fato, tarefa das mais simples. Quem conhece, em primeiro plano, a gama dos labores e detém condições de informar o aporte é o próprio perito. A partir de sua valoração inicial que as partes e o juiz tomam conhecimento da extensão quantitativa dos trabalhos e/ou valores envoltos.
+Isso não significa, evidentemente, que os sujeitos processuais atenham-se ao patamar definido pelo auxiliar, até porque existente a fase processual oportuna para a contraposição do preço (prazo de cinco dias previsto no §3º2 do art. 465 do CPC).
+Os pontos nodais da causa de pedir recursal assentam-se, então, em algumas premissas: (i) a desproporcionalidade dos honorários e a subjetividade prejudicial à instrução e (ii) subsidiariamente, na possibilidade de parcelamento da remuneração pericial.
+Quanto ao primeiro item (desproporcionalidade dos honorários), a Agravante vale-se da dicotomia em relação ao valor liquidando, que alega ser, de início, R$ 250.000,00 (duzentos e cinquenta mil reais), ao passo que os honorários almejados pelo perito equivaleriam a R$ 73.980,00 (setenta e três mil, novecentos e oitenta reais).
+O cálculo simplório de proporcionalidade indica, sim, que o valor proposto pelo perito equivale a 29,5% (vinte e nove e meio por cento) do "crédito em liquidação". No entanto, referida indicação de aporte inicial (R$ 250.000,00) não passa - em reforço - de singela suposição, notadamente pela necessidade de realização do procedimento de liquidatório.
+Dessa maneira, conquanto a olhos nus a proporcionalidade aventada pela Agravante sugira descompasso, não é o que se verifica.
+Em segundo plano, a REAL BRASIL CONSULTORIA LTDA expôs, fundamentadamente, a metodologia dos trabalhos, com a solicitação, por exemplo, das demonstrações financeiras mensais da Agravante no período de agosto/1998 a agosto/2003, o que corresponde a um lapso de 60 (sessenta) meses (fl. 1.310).
+Solicitou, também, a base cadastral de clientes distribuídos entre telefonia móvel e telefonia fixa e dados de participação no mercado (marketshare) da companhia no período acima mencionado (fl. 1.310).
+(..)
+Vê-se, dessa maneira, que o labor não é simplório e demanda tempo, análise minuciosa de imensa gama de documentos, elaboração de cálculos, dentre outros.
+No mesmo rumo, como bem pontuado pela d. Procuradoria-Geral de Justiça, tendo em vista as horas necessárias e a remuneração mínima estabelecida pelo CORECON/MS, o quantum não aparenta demasiado (fl. 256): (..)
+Saliento, além do mais, que a própria tramitação da ação principal já completara 20 (vinte) anos, alargado rito, em muito devido às inúmeras interposições de recursos pela ora Agravante.
+Aliás, no agravo em comento, embora sustente a completa inadequação do valor a título de honorários periciais, não sugere a quantia que entende devida.
+Conclui-se, destarte, que os honorários do expert devem guardar pertinência para com a complexidade da causa, à relevância demanda para as partes, ao zelo e à qualidade do trabalho, atendo-se aos critérios de proporcionalidade e razoabilidade.
+O e. TJMS, v.g., já considerou razoável/proporcional (nos idos de 2009) a quantia de R$ 165.000,00 (cento e sessenta e cinco mil reais) para fins de remuneração de perito em ação civil pública, em que pese com objeto ligeiramente diverso, mas envolvendo gama de direitos similares (difusos, coletivos e/ou individuais homogêneos).
+(..)
+Nesses termos, inarredável concluir que todas as questões de mérito foram devidamente abordadas no v. acórdão embargado, não ocorrendo em nenhum dos vícios apontados pela parte Embargante.
+Por fim, a função dos embargos de declaração é aperfeiçoar o julgado, não prestando para o reexame da matéria, como se constata no caso, pois resta patente que a nítida pretensão da parte Embargante é de apenas renovar a discussão das questões já decididas.
+Quanto à alegação de ocorrência de fato superveniente - nova recuperação judicial do grupo OI S/A, que deve ser apreciado como fundamento para reforma da decisão agravada, tenho que se trata de inovação recursal, incabível de ser aventada nesta oportunidade.
+É que, em razão do cabimento dos aclaratórios nas específicas hipóteses listadas pelo artigo 1.022 do novo Código de Processo Civil - obscuridade, contradição, omissão no provimento judicial e erro material, não se pode admitir a arguição de matéria exclusivamente neste instrumento recursal.
+Como se vê, não houve ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
