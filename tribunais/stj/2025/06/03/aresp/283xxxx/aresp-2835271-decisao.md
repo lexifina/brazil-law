@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CASAALTA CONSTRUCOES LTDA EM RECUPERACAO JUDICIAL contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/12/2024.
+Concluso ao gabinete em: 14/02/2025.
+Ação: indenização por danos materiais e morais ajuizada por CAMILA APARECIDA BLAUZIUS e outro, em face da agravante e outra, em razão de atraso na entrega de imóvel.
+Sentença: julgou parcialmente procedentes os pedidos para condenar a agravante e outra a restituição dos juros de obra, indenização pelo atraso da obra em percentual correspondente a 0,5% sobre o valor do imóvel e ao pagamento da importância de R$ 7.500,00 (sete mil e quinhentos reais), a título de danos morais.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, nos termos da ementa a seguir transcrita:
+PROCESSUAL CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. SFH. ATRASO NA ENTREGA DA OBRA. RESPONSABILIDADE SOLIDÁRIA DA CEF E DA CONSTRUTORA. DANOS MORAIS.
+1. A responsabilidade da CEF e da construtora pelos danos (materiais e morais) suportados pela parte autora em razão de atraso na obra é solidária e decorre do fato de ambas terem descumprido o convencionado, já que o banco, além de agente financeiro, atua também como fiscalizador de prazos e da qualidade da obra, gerindo os recursos financeiros e técnicos juntamente com a construtora/incorporadora e interferindo diretamente na execução do projeto.
+2. Configurados os pressupostos, a fixação do dano moral deve observar os princípios de moderação e de razoabilidade, assegurando à parte lesada a justa reparação, sem incorrer em enriquecimento ilícito e não deixando de observar o caráter pedagógico ao agente que cometeu o ato lesivo. (fl. 1.329, e-STJ).
+Recurso especial: sustenta violação do art. 186 do CC, bem como dissídio jurisprudencial. Alega, em síntese, que o mero descumprimento contratual não enseja indenização por danos morais, sendo necessária a comprovação de circunstância grave que cause vexame, constrangimento, humilhação e dor. Afirma que não tem cabimento a condenação fixada na origem a título de danos morais sob o argumento de que, na espécie, ocorreu apenas meros dissabores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do dano moral
+O Tribunal estadual entendeu estar caracterizado o dano extrapatrimonial, diante das peculiaridades da hipótese concreta, ressaltando, ainda, que o atraso se deu em razão "do atraso de mais de três anos que acarretou os transtornos fáticos descritos na inicial."
+Nesse contexto, não merece reforma o acórdão recorrido, pois esta Corte Superior perfilha o entendimento de que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA. LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. PRECEDENTES. LESÃO EXTRAPATRIMONIAL. CARACTERIZAÇÃO COM BASE NA DEMORA NA CONCLUSÃO DA OBRA. ORIENTAÇÃO ATUAL NO SENTIDO DE CONSIDERAR CARACTERIZADO O DANO MORAL QUANDO HÁ ATRASO EXCESSIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n.º 83 do STJ.
+2. O Tribunal estadual consignou que não se trata de mero descumprimento contratual, a hipótese dos autos, pois o atraso na entrega do imóvel teria sido excessivo, estando em sintonia com a orientação assentada nesta Corte, no sentido de que "o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi superior a 1 (um) ano e 7 (sete) meses após o prazo de tolerância" (AgInt no AREsp 1.742.299/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe 1º/8/2021).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp 2.273.419/BA, Terceira Turma, DJe de 20/9/2023.
+No mesmo sentido: AgInt no AREsp 2.018.844/RJ, Quarta Turma, DJe de 22/9/2022, AgInt no REsp 1.917.023/RJ, Quarta Turma, DJe de 7/6/2023, AgInt no AREsp 2.158.472/MG, Terceira Turma, DJe de 14/12/2022, AgInt no AREsp 2.453.064/RJ, Quarta Turma, DJEN de 24/4/2025.
+Pontua-se, ainda, quanto ao dissídio alegado, incidem as Súmulas 83/STJ e 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL CARACTERIZADO.
+1. Ação de indenização por danos materiais e morais.
+2. A jurisprudência desta Corte Superior é firme no sentido de que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial. Precedentes.
+3. Agravo conhecido. Recurso especial não provido.
