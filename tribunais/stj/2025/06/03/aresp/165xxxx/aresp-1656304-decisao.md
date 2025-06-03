@@ -1,0 +1,24 @@
+DECISÃO
+O agravo interposto visa combater a decisão da Corte de origem que não admitiu o recurso especial, alegando inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência das Súmulas 7 do STJ e 280 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 388):
+Apelação. Embargos à execução fiscal. Multa pela prática de ato lesivo aos consumidores. Envio de cartões de crédito sem prévio pedido ou permissão. Existência de TAC que não impede a imposição de multa pelo Procon. Independência entre as instâncias cível, penal e administrativa. Multa elevada, porém razoável e proporcional, notadamente em razão da capacidade econômica da empresa infratora. Sentença mantida. Recurso desprovido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 1.022 do CPC, ao argumento de que a Corte de origem não se manifestou a respeito da violação ao artigo 884 do Código Civil, decorrente da manutenção da multa em valor exorbitante sem que se considerasse a gravidade da infração e a ausência de vantagem auferida.
+Quanto às questões de fundo, sustenta as seguintes ofensas: i) art. 39, III, do CDC, alegando que o TAC autorizava o envio de cartões bloqueados; ii) art. 57 do CDC e art. 884 do CC, argumentando que a multa não respeita os critérios de razoabilidade e proporcionalidade.
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recurso tem origem em embargos à execução fiscal, nos quais o Banco Itaucard S.A. busca a extinção da execução de multa administrativa aplicada pelo Procon, em razão de envio de cartões de crédito sem solicitação, alegando que tal prática estava amparada por TAC firmado com o Ministério Público.
+De pronto, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto à suposta ofensa ao art. 39, III, do CDC, verifica-se que a parte recorrente apresentou argumentos genéricos, que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula n. 284/STF.
+Por fim, no que diz respeito à tese de malversação dos artigos 57 do CDC e 884 do CC, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o valor fixado a título de multa não fere o princípio da proporcionalidade ou razoabilidade, considerada a capacidade econômica da empresa infratora e a finalidade de inibir o comprotamento lesivo verificado.
+A propósito, confira-se:
+A multa é, portanto, cabível. Quanto à quantificação da sanção, ela está de acordo com o art. 57 do CDC e foi calculada na forma da Portaria Normativa Procon n. 06/00. Apesar de elevado, o valor não fere o princípio da proporcionalidade ou razoabilidade, notadamente quando considerada a capacidade econômica da empresa infratora.
+A multa deve ser fixada em valores suficientes para inibir o comportamento lesivo, sendo, nos termos da r. sentença, inócua a aplicação de pena que faça com que a manutenção da conduta abusiva se mostre vantajosa para o infrator.
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a matéria demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PROCON. PRÁTICA ABUSIVA. MULTA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA N. 284/STF.VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
