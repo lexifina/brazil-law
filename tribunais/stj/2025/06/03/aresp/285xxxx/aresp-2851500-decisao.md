@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SIMAS LOGISTICA LTDA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação n. 5041274-90.2023.8.24.0038/SC, assim ementado (fl. 655):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. LICITAÇÃO. PREGÃO ELETRÔNICO N. 032/2023, DO TIPO MENOR PREÇO. DENEGAÇÃO DA ORDEM. INSURGÊNCIA DA IMPETRANTE. NULIDADE DO EDITAL, POR DIRECIONAMENTO DOS CRITÉRIOS TÉCNICOS PREVISTOS. INSUBSISTÊNCIA. DESCLASSIFICAÇÃO DA APELANTE, QUE NÃO SE DEU POR QUESTÕES TÉCNICAS, MAS SIM, POR OFERECER PROPOSTA MENOS VANTAJOSA À ADMINISTRAÇÃO. AFERIÇÃO DOS REQUISITOS TÉCNICOS, OUTROSSIM, QUE SE DEU POSTERIORMENTE À FASE DE LANCES. INEXISTÊNCIA, ADEMAIS, DE IMPUGNAÇÃO AO INSTRUMENTO CONVOCATÓRIO, EM RELAÇÃO AOS REFERIDOS PONTOS. INOBSERVÂNCIA AO ART. 41, § 1º, DA LEI N. 8.666/93. EIVA NÃO VERIFICADA. DECISUM MANTIDO. RECURSO CONHECIDO E DESPROVIDO.
+Foram opostos embargos de declaração pelo agravante (fls. 667-670), os quais foram rejeitados (fls. 679-681).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora agravante aponta violação dos arts. 7º, § 5º, da Lei n. 8.666/1993 e 47, § 1º, inciso III, da Lei n. 14.133/2021, pretendendo a anulação de todas as decisões proferidas no Pregão Eletrônico n. 032/2023, da Secretaria Municipal de Administração e Planejamento do Município de Joinville, incluindo o contrato que se seguiu ao seu encerramento, bem como o próprio edital que o instituiu.
+Contrarrazões às fls. 774-782 e fls. 800-812.
+Inadmitido o Recurso Especial (fls. 818-822), foi interposto o presente Agravo (fls. 841-874).
+Contraminutas às fls. 913-920 e fls. 922-927.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: incidência da Súmula n. 211 do STJ; ausência de violação dos arts. 141, 489, § 1º, inciso IV e 1.013, § 3º, inciso II, do Código de Processo Civil; e aplicação das Súmulas n. 5 e 7 do STJ e Súmula n. 283 do STF.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, os fundamentos da incidência das Súmulas n. 5, 7 e 211 do STJ e Súmula n. 283 do STF .
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4 º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. SUPOSTA NULIDADE DO EDITAL. INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM EM RAZÃO DE INEXISTÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC E DOS ÓBICES DAS SÚMULAS N. 5, 7 E 211 DO STJ. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
