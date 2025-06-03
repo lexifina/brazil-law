@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado por Confecções Cangas Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 197):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. ALÍQUOTA REDUZIDA. IMPORTAÇÃO DE MERCADORIAS DE PAÍSES SIGNATÁRIOS DO GATT. DESCABIMENTO. IMPOSSIBILIDADE DE TRATAMENTO PRIVILEGIADO DE PRODUTO IMPORTADO FRENTE AO PRODUTO NACIONAL. HÁ DE SE DIFERENCIAR OPERAÇÃO INTERNA E SAÍDA INTERNA . PRECEDENTE.
+A redução da base de cálculo nas saídas internas de produtos previsto no art. 10, § 10, da Lei Estadual nº 8.820/89 e art. 23, inciso LXIV, do Livro I do RICMS não pode ser estendida aos similares provenientes de países signatários do GATT, pois o mesmo tratamento não é conferido a mercadorias da mesma espécie oriundas de outra unidade da federação.
+RECURSO PROVIDO.
+Opostos embargos declaratório s, foram rejeitados (fls. 219/221).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV, 1.022, I e II, parágrafo único, II, do CPC; 98 do CTN; item 2, artigo III, parte II, do Acordo Geral sobre Tarifas Aduaneiras e Comércio (Lei 313/1948). Sustenta que: (I) apesar dos aclaratórios, o Tri bunal de origem manteve a omissão e a contradição neles apontadas; (II) tem "direito à importação de produtos têxteis, artigos do vestuário e botões de plásticos não recobertos de matérias têxteis, com redução da base de cálculo de ICMS, diante do benefícios previsto no art. 23, inc. LXIV, Livro I, do RICMS/97, em decorrência da cláusula de tratamento paritário prevista na Lei nº 313/1948 e do art. 98 do CTN" (fl. 240).
+Parecer do Ministério Público Federal às fls. 370/380, pelo não provimento do agravo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, em relação à contenda, reconheceu o Tribunal de origem que "a redução da base de cálculo nas saídas internas de produtos previsto no art. 10, § 10, da Lei Estadual nº 8.820/89 e art. 23, inciso LXIV, do Livro I do RICMS não pode ser estendida aos similares provenientes de países signatários do GATT, pois o mesmo tratamento não é conferido a mercadorias da mesma espécie oriundas de outra unidade da federação" (fl. 197), conforme se lê do seguinte excerto do voto condutor do acórdão objurgado (fls. 194/196 - g.n.):
+CONFECÇÕES GANGAS LTDA. impetra mandado de segurança para que a autoridade coatora se abstenha de exigir o recolhimento integral do ICMS na importação de produtos descritos no art. 23, inc. LXIV, Livro I, do RICMS/97, em face da necessidade de tratamento igualitário entre mercadorias de origem nacional e internacional, prevista no Acordo Geral de Tarifas e Comércio - GATT, vedando-a, ainda, de eventualmente impor qualquer penalidade pela fruição desses mesmos direitos, além da compensação dos valores indevidamente recolhidos a título de ICMS nos cinco anos antecedem o ajuizamento da ação sobre as importações que deveriam ter sido realizadas ao abrigo da redução da base de cálculo e que foram estornados (isto é, não puderam ser utilizados como crédito), mediante lançamento a crédito, na escrita fiscal do ICMS, atualizados pela taxa SELIC
+Após regular processamento do feito, sobreveio sentença que concedeu a segurança.
+Pois bem.
+Nos termos da redação atual do RICM/RS, Decreto Estadual n. 37.699/67, a base de cálculo do imposto nas operações com mercadorias, apurada conforme previsto nas hipóteses de incidência, terá seu valor reduzido para:
+ ..
+No caso, a impetrante informou que se dedica à importação, comercialização e industrialização de artigos do vestuário e acessórios em geral (evento 1, DOC3). Pretende a incidência do mesmo percentual acima destacado quando importar produtos têxteis para países signatários do GATT e o direito aos benefícios de ICMS conferidos às operações internas.
+Impõe-se, para o deslinde da questão, a observância do que determina o GATT (General Agreement on Tariffs and Trade) - Acordo Geral sobre Tarifas e Comércio ou Acordo Geral sobre Aduanas e Comércio, atual Organização Mundial do Comércio, do qual o Brasil se tornou signatário por meio de aprovação do Congresso Nacional - Decreto Legislativo nº 43/1950, o qual garante tratamento tributário igualitário entre o produto importado e o produto similar nacional.
+O Código Tributário Nacional em seus artigos 96 e 98 prevê o seguinte:
+ ..
+Portanto, conclui-se pela aplicação obrigatória em países signatários.
+Tem-se que o benefício deve ser estendido ao tributo recolhido no momento do desembaraço aduaneiro concernente às mercadorias provenientes de países signatários do GATT, não se havendo fazer diferenciação por se tratar de benefício conferido a um ente federativo.
+Denota-se que as importações realizadas junto a países signatários do GATT, hoje denominada OMC (Organização Mundial do Comércio), do qual o Brasil é participante, é assegurado tratamento tributário isonômico, equivalente ao que dispensado ao produto similar nacional. Em tal sentido, disciplinam as Súmulas 575 do Supremo Tribunal Federal e 20 do Superior Tribunal de Justiça, a seguir transcritas:
+ ..
+Não resta dúvida, portanto, que são de aplicação obrigatória o Tratado de Assunção (MERCOSUL) e o GATT, os quais preveem tratamento igualitário para mercadorias importadas de países signatários e as operações internas destes mesmos produtos.
+ ..
+Contudo, de acordo com a redação das normas estaduais, gozam da redução da base de cálculo apenas as operações de saídas internas de mercadorias.
+ ..
+Por conseguinte, o Estado do Rio Grande do Sul não confere redução da base de cálculo às mercadorias que provenientes de outras unidades da federação, condição que beneficia apenas as saídas internas.
+Assim, se o benefício não é extensível ao produto nacional em geral, não pode ser aplicado ao importado, sob pena de ser mais vantajosa a aquisição de mercadorias oriundas de outros países que aquelas produzidas em outras unidades da federação.
+Da leitura do excerto acima transcrito, observa-se que o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (RICMS), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
