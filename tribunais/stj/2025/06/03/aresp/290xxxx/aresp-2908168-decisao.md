@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: a) incidência da Súmula 211/STJ, em razão da ausência de prequestionamento da tese de violação do artigos 55, §2º, e 103, parágrafo único, da Lei nº 8.213/1991; b) impossibilidade de aplicação do art. 1.025 do CPC/2015, em razão da ausência de alegação de violação do art. 1022 do CPC/2015; c) impossibilidade de análise do dissídio jurisprudencial, que ficou prejudicada em razão da não admissão do recurso pela alínea "a" do permissivo constitucional, relativamente à mesma questão.
+Ocorre que o agravante não impugnou, especificamente, nenhum dos fundamentos da decisão.
+Ao contrário, admitiu que a tese de violação dos dispositivos indicados no recurso especial não foi decidida na origem, concordando, assim, com a premissa adotada para aplicação da Súmula 211/STJ. E, a despeito de alegar a ocorrência de prequestionamento ficto, sequer abordou a ausência de indicação, no recurso especial, de violação do 1.022 do CPC/2015, de modo que também não impugnou o fundamento adotado para afastar a aplicação do art. 1.025 do CPC/2015. Confira-se (f. 406, negritei):
+ ..
+O juízo de admissibilidade do Tribunal de origem entendeu pela ausência de prequestionamento, aplicando as Súmulas 211 do STJ e 282 do STF. Contudo, tal entendimento é equivocado, pois a matéria foi devidamente suscitada e objeto de embargos de declaração, sendo o Tribunal local omisso em sua análise.
+Nos termos do artigo 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados". Assim, o prequestionamento ficto permite o conhecimento do recurso especial.
+ ..
+De igual maneira, não houve impugnação ao reconhecimento de que a análise do dissídio ficou prejudicada pela inadmissibilidade do recurso especial pela alínea "a" do permissivo constitucional (relativamente à mesma questão de direito). Em lugar disso, limitou-se a reiterar a alegação de divergência jurisprudencial, novamente sem abordar o fundamento adotado na decisão agravada para reconhecer a inadmissão do recurso pela alínea "c" (f. 407/408).
+Ausente, pois, impugnação específica aos fundamentos adotados na decisão que inadmitiu o recurso especial, o que acarreta o não conhecimento do agravo, nos termos da Súmula 182/STJ.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no AREsp 2.070.066/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2022.
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
