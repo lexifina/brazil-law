@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GAAM INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. contra decisão em que conheci do seu recurso especial e dei-lhe provimento, "a fim de conceder a ordem de modo a assegurar, à recorrente, o direito de excluir o ICMS-DIFAL da base de cálculo da Contribuição para o PIS e para a COFINS, bem como de compensar os valores indevidamente recolhidos, na via administrativa, observado o prazo prescricional de 5 (cinco) anos e a atualização pela Taxa SELIC. Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ" (e-STJ fl. 513).
+A embargante sustenta que, muito embora tenha reconhecido o direito de "compensar os valores indevidamente recolhidos, na via administrativa, a respeitável decisão restou omissa quanto ao pedido expresso para que este direito seja resguardado inclusive na hipótese de o pagamento a maior ter sido realizado com a dedução de créditos das contribuições ao PIS e da COFINS oriundos da não-cumulatividade, em observância ao disposto no art. 165 do CTN" (e-STJ fl. 519).
+Segue afirmando (e-STJ fl. 519):
+A necessidade de se reconhecer expressamente tal direito decorre de posicionamento publicamente externado pela Receita Federal do Brasil, a qual têm reiteradamente indeferido a compensação administrativa com outros tributos, no caso de indébito tributário em que o pagamento a maior tenha ocorrido por meio de créditos oriundos da não-cumulatividade das contribuições ao PIS e a Cofins.
+Sem impugnação (certidão e-STJ fl. 529).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC), vícios inexistentes na espécie.
+Conforme exposto na decisão embargada, a compensação deverá ocorrer na esfera administrava, em conformidade com a legislação de regência, sendo certo que, caso a embargante entenda haver alguma ilegal restrição imposta pela autoridade administrativa, deve se utilizar dos meios de impugnação pertinentes, não havendo como, em caráter preventivo e apenas com base na afirmação de que há um "posicionamento publicamente externado pela Receita Federal do Brasil" (e-STJ fl. 519), afastar desde logo possível conduta imprópria a ser praticada.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que foi desfavorável a ela, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
