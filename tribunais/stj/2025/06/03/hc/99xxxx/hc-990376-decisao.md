@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOAO BATISTA GONCALVES em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Depreende-se dos autos que que o Paciente encontra-se preso preventivamente desde 12/11/2024, por decisão proferida nos autos de origem 0000013-77.1998.8.07.0008, por ocasião do recebimento da denúncia oferecida em 03/08/2000 e recebida em 08/08/2000, ocasião em que foi decretada a prisão preventiva do paciente, sob os fundamentos da gravidade do crime, indícios de autoria, garantia da ordem pública, ante a suposta fuga, aplicação da lei penal e conveniência da instrução criminal (fls. 3-5).
+A Defesa sustenta que a decisão é imotivada e sem fundamentação, haja vista a inexistência concreta dos requisitos autorizadores ou contemporâneos capazes de justificar a aplicação da medida adotada (fl. 3).
+Afirma que o Paciente é idoso, primário, possui bons antecedentes, residência fixa, emprego e advogadas constituídas (fl. 15). Alega que o paciente não estava foragido e que foi surpreendido com a ordem de prisão, aduzindo que não se pode confundir evasão com não localização (fl. 15).
+Discorre sobre a excepcionalidade da prisão, a possibilidade de substituição por medida cautelar diversa e a ausência de perigo gerado pelo estado de liberdade do paciente (fl. 15).
+Assevera a inexistência de fatos contemporâneos que justifiquem a segregação (fl. 15).
+Requer a concessão da liberdade provisória ao paciente, com a imediata expedição do alvará de soltura ou, subsidiariamente, a imposição de medidas cautelares diversas da prisão (fl. 43).
+Liminar indeferida, às fls. 187-188.
+Informações prestadas, às fls. 194-197 e 198-231.
+O Ministério Público Federal em parecer, às fls. 236-243, opinou pelo não conhecimento do writ.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; seja para a garantia da ordem pública tendo em vista a gravidade concreta evidenciada pelo modus operandi da conduta, consistente em homicídio qualificado, haja vista que, em tese, diante de uma discussão entre ele e uma pessoa chamada M. A., a vítima teria interferido na conversa, quando, então, o Paciente sacou o revolver e lhe desferiu disparo de arma de fogo, que foi a causa da sua morte; seja para assegurar a aplicação da lei penal, na medida em q ue teria permanecido foragido por mais de 20 anos.
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar determinada.
+Sobre o tema:
+"6. A gravidade concreta da conduta, evidenciada pelo modus operandi e pelo risco à ordem pública, justifica a manutenção da prisão preventiva. 7. A fuga prolongada do recorrente demonstra a intenção de frustrar a aplicação da lei penal, justificando a necessidade da custódia cautelar" (RHC n. 210.861/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.).
+"O *periculum libertatis* é demonstrado pela gravidade concreta da conduta imputada ao paciente, que efetuou disparos de arma de fogo contra a vítima e permaneceu foragido por 18 anos, inclusive simulando sua morte, o que justifica a necessidade de garantia da ordem pública e da aplicação da lei penal" (HC n. 927.420/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 26/11/2024.).
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a garantia da ordem pública e a aplicação da lei penal, pois a periculosidade social do recorrente está evidenciada no modus operandi do ato criminoso e na fuga do distrito da culpa após o delito" (AgRg no RHC n. 192.103/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a sua custódia cautelar.
+No mais, quanto à aventada ausência de contemporaneidade da medida constritiva de liberdade, tenho que a prisão foi determinada, considerando a necessidade de sua imposição no momento da decretação, não se olvidando que o Paciente permaneceu foragido por longo período de tempo; não havendo que se falar em extemporaneidade da medida.
+Nesse sentido:
+"a contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC n. 716.043/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022.).
+"Contemporaneidade. O decreto é de 2014 mas o recorrente permaneceu foragido. Não há que se falar, nesse contexto, em ausência de contemporaneidade. "A fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória". (AgRg no RHC n. 133.180/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe 24/8/2021)" (AgRg no RHC n. 194.446/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
