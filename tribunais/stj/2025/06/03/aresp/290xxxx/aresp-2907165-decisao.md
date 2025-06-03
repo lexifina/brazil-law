@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por GREBERSON RODRIGUES DOS SANTOS contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que negou provimento ao recurso em sentido estrito, mantendo a decisão que o pronunciou pelo crime de homicídio duplamente qualificado.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 154-167).
+Contraminuta apresentada (e-STJ fls. 174-176).
+O Ministério Público Federal opinou "pelo conhecimento e desprovimento do agravo" (e-STJ fls. 252-258).
+É o relatório.
+Decido.
+Não merece acolhida a irresignação do agravante.
+No tocante ao alegado excesso de linguagem, o entendimento adotado pelo Tribunal de origem harmoniza-se com a jurisprudência desta Corte, consolidada no sentido de que "a decisão de pronúncia consubstancia mero juízo de admissibilidade da acusação, razão pela qual não ocorre excesso de linguagem tão somente pelo fato de o magistrado, ao proferi-la, demonstrar a ocorrência da materialidade e dos indícios suficientes da respectiva autoria, vigendo, nesta fase processual, o princípio do in dubio pro societate. Precedentes" (AgRg no Ag n. 1.153.477/PI, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2014, DJe de 15/5/2014).
+O Supremo Tribunal Federal já decidiu que "a necessidade de a submissão do acusado ao Tribunal do Júri fazer-se mediante decisão interlocutória flexibiliza o instituto do excesso de linguagem. Não existe este último quando a sentença de pronúncia revela premissas capazes de conduzir à submissão do acusado ao Tribunal do Júri, inclusive presente qualificadora" (HC 107935, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 13-12-2011, PROCESSO ELETRÔNICO DJe-032 DIVULG 13-02-2012 PUBLIC 14-02-2012).
+O juízo de origem, ao pronunciar o réu, apenas fez menção aos elementos probatórios que consubstanciam o binômio materialidade e indícios de autoria, não havendo que se falar em excesso de linguagem ou ofensa aos artigos 413 e 414 do Código de Processo Penal, até mesmo porque esses dispositivos legais exigem que o juiz profira a sua decisão "fundamentadamente".
+Sendo assim, é imperioso reconhecer que "no caso, em que pese entendimento diverso da combativa defesa, verifica-se que o magistrado de piso não incorreu em excesso de linguagem que possa induzir os jurados que servirão na sessão plenária do Tribunal do Júri, porquanto se limitou a fundamentar, com base em elementos concretos colhidos no decorrer da instrução criminal, a materialidade e indícios suficientes de autoria, não havendo que se falar em incursão no mérito da ação penal, cuja competência será do tribunal popular" (AgRg no HC n. 697.118/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Ante o exposto, conheço do agravo para negar provimento a o recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
