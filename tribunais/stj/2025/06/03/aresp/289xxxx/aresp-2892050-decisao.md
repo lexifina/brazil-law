@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  não  admitiu  recurso  especial  interposto  contra  acórdão  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO.  Ação  Monitória  -  Fase  de  cumprimento  de  Sentença  -  Contratos  Bancários  -  Mútuo  -  Impugnação  à  penhora  acolhida  -  Excesso  de  penhora  -  Reconhecimento  -  Insurgência  que  não  prospera  -Autorização  de  levantamento  da  penhora  de  um  dos  três  Imóveis  penhorados  -  Valor  de  mercado  dos  bens  estimados  por  profissionais  qualificados  -  Eventual  avaliação  oficial  que  não  será  destoante  em  demasia  das  quantias  apontadas  -  Produto  dos  demais  bens  que,  no  pior  das  hipóteses  de  arrematação,  seria  equivalente  a  mais  do  que  o  sextúplo  do  valor  atualizado  da  dívida  -  Eventuais  débitos  e  garantias  concorrentes  -Agravante  que  não  comprova  suas  alegações,  sendo  tal  mera  conjecutra  do  credor  -  Questões  referentes  a  outros  créditos  que  devem  ser  debatidas  em  Autos  próprios  -  Decisão  mantida.  RECURSO  NÃO  PROVIDO"
+Opostos  embargos  de  declaração,  foram  rejeitados.
+A  parte,  em  seu  recurso  especial,  apontou  violação  aos  arts.  489,  §  1º,  inciso  IV,  874,  inciso  I,  e  1.022  do  Código  de  Processo  Civil,  sustentando,  em  síntese,  além  de  negativa  de  prestação  jurisdicional,  a  impossibilidade  de  redução  da  penhora  sem  avaliação  do  bem  constrito.
+Contrarrazões  às  fls.  69/78  e-STJ.
+Juízo  negativo  de  admissibilidade  às  fls.  79/82  e-STJ.
+Agravo  em  recurso  especial  às  fls.  85/99  e-STJ.
+Contraminuta  às  fls.  102/107  e-STJ.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+No  que  tange  à  alegada  violação  aos  arts.  489,  §  1º,  e  1.022,  inciso  II,  do  Código  de  Processo  Civil,  sob  o  fundamento  de  que  houve  omissão  do  acórdão  recorrido,  vejo  que  não  prospera  o  recurso,  pois  não  constato  deficiência  de  fundamentação  alguma  no  acórdão  recorrido  quanto  às  matérias  postas  pelas  partes  agravantes.
+No  mais,  os  autos  revelam,  assim,  controvérsia  acerca  da  condução  da  execução,  necessitando  de  juízo  de  ponderação  entre  o  princípio  da  menor  onerosidade  do  devedor  e  do  interesse  do  credor.
+Sobre  o  tema,  este  Superior  Tribunal  de  Justiça  possui  entendimento  no  sentido  de  que  a  "gradação  legal  estabelecida  no  art.  835  do  CPC/2015,  estruturado  de  acordo  com  o  grau  de  aptidão  satisfativa  do  bem  penhorável,  embora  seja  a  regra,  não  tem  caráter  absoluto,  podendo  ser  flexibilizada,  em  atenção  às  particularidades  do  caso  concreto,  sopesando-se,  necessariamente,  a  potencialidade  de  satisfação  do  crédito,  na  medida  em  que  a  execução  se  processa  segundo  os  interesses  do  credor  (art.  797),  bem  como  a  forma  menos  gravosa  ao  devedor  (art.  805)"  (AgInt  no  AREsp  n.  1.401.034/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  28/3/2019).
+Nesse  contexto,  de  ponderação  entre  o  processamento  da  execução  segundo  os  interesses  do  credor  e  a  menor  onerosidade  do  devedor,  no  caso  sob  exame,  penso  que  a  manutenção  do  acórdão  recorrido  é  medida  que  se  impõe.
+Explico.
+Noticiam  os  autos  que  o  credor  busca  a  satisfação  de  débito  no  valor  de  R$  116.814,12  e  que  foram  penhorados  três  imóveis  para  a  satisfação  deste  valor,  tendo  o  executado  apresentado  impugnação,  alegando  excesso  de  penhora.
+As  instâncias  de  origem,  ao  apreciarem  a  controvérsia,  fundamentadamente  e  com  espeque  em  pareceres  elaborados  por  profissionais  técnicos,  se  pronunciaram  no  sentido  de  determinar  o  levantamento  da  constrição  averbada  na  matrícula  do  imóvel  de  nº  154.419,  do  4º  CRI/SP,  uma  vez  que  estaria  constatado  o  excesso  na  medida  constritiva.
+Com  efeito,  consignaram  que  as  penhoras  remanescentes,  de  dois  imóveis,  são  aptas  a  garantir  o  débito  exequendo,  tendo  em  vista  que,  ainda  que  fossem  arrematados  pela  metade  de  seu  valor  de  mercado,  o  produto  arrecadado  com  o  leilão  seria  superior  a  R$  2.000.000,00.
+Ademais,  conforme  expressamente  consta  no  acórdão  recorrido,  a  parte  exequente  não  demonstrou  o  prejuízo  que  teria  com  o  levantamento  da  constrição  no  imóvel  penhorado.
+Assim,  não  há  elementos  que  comprovem  que  o  levantamento  da  penhora  sob  o  imóvel  causará  prejuízo  ao  agravante.
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+Intimem-se.
+EMENTA
