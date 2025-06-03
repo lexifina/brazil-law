@@ -1,0 +1,635 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+03/06/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 254.771 MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. FLÁVIO DINO
+: ADERVAN ROSA DE SOUZA
+: RENATO FLÁVIO MARCÃO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+EMENTA
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE
+ASSOCIAÇÃO CRIMINOSA E SONEGAÇÃO FISCAL. WRIT
+SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. ALEGADA
+VIOLAÇÃO À SÚMULA VINCULANTE 24. INOCORRÊNCIA.
+TRANCAMENTO DA AÇÃO PENAL. REQUISITOS LEGAIS
+INDICIARIAMENTE
+AFERIDOS.
+EXCEPCIONALIDADE.
+INVIABILIDADE. REVOLVIMENTO DO ACERVO FÁTICOPROBATÓRIO.
+INADMISSIBILIDADE.
+INEXISTÊNCIA
+DE
+FLAGRANTE ILEGALIDADE OU TERATOLOGIA.
+1. Inadmissível o emprego do habeas corpus como sucedâneo de
+recurso ou revisão criminal. Precedentes.
+2. A jurisprudência desta Corte tem relativizado a incidência do
+enunciado da Súmula Vinculante nº 24 na hipótese de haver
+cumulatividade com a prática de outras condutas criminosas.
+3. O trancamento da ação penal ou de inquérito policial pela via do
+habeas corpus somente é admitido diante de situações excepcionalíssimas,
+quando pressupõe a percepção, de plano, da atipicidade da conduta, da
+incidência da causa de extinção da punibilidade ou a ausência de indícios
+de autoria e materialidade, hipóteses não evidenciadas no caso.
+Precedentes.
+4. A análise minuciosa para concluir em sentido diverso das
+instâncias antecedentes, quanto ao pleito defensivo para o trancamento
+da ação penal, demandaria incursão no acervo fático-probatório, inviável
+em sede de habeas corpus. Precedentes.
+5. Agravo regimental conhecido e não provido.
+ACÓRDÃO:
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1AFE-B35B-0EDE-F4DA e senha 8B37-279D-855A-DEB3
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+HC 254771 AGR / MG
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em sessão virtual da Primeira Turma, por
+unanimidade de votos, em negar provimento ao agravo regimental, nos
+termos do voto do Relator e na conformidade da ata de julgamento.
+Brasília, 23 a 30 de maio de 2025.
+Ministro FLÁVIO DINO
+Relator
+
+Documento assinado digitalmente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1AFE-B35B-0EDE-F4DA e senha 8B37-279D-855A-DEB3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+AG.REG. NO HABEAS CORPUS 254.771 MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. FLÁVIO DINO
+: ADERVAN ROSA DE SOUZA
+: RENATO FLÁVIO MARCÃO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O Senhor Ministro Flávio Dino (Relator): Trata-se de agravo
+regimental da decisão negativa de seguimento ao habeas corpus impetrado
+contra acórdão do Superior Tribunal de Justiça, que negou provimento ao
+agravo regimental no RHC 204.436/MG (evento 13).
+Na presente via, o Agravante sustenta o cabimento do writ, porquanto
+“o ordenamento jurídico não tipifica qualquer recurso para a discussão da matéria,
+tampouco é cabível revisão criminal na hipótese”. Reitera as teses de atipicidade
+da conduta e ausência de provas da materialidade delitiva. Insiste na
+violação à Súmula Vinculante nº 24, tendo em vista que “não ocorreu o
+lançamento definitivo do tributo”. Enfatiza a impossibilidade de mitigação da
+Súmula Vinculante nº 24, pois “a denúncia ofertada pelo Ministério Público –
+já recebida – imputa tão somente a prática de crime de sonegação fiscal e de
+associação para a prática de tais delitos”. Alega desnecessário o revolvimento
+do acervo fático-probatório. Requer o provimento do recurso, para
+concessão da ordem de habeas corpus (evento 17).
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0E36-56BA-1B04-2B32 e senha E98E-DF01-6849-8C4C
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+AG.REG. NO HABEAS CORPUS 254.771 MINAS GERAIS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. FLÁVIO DINO
+: ADERVAN ROSA DE SOUZA
+: RENATO FLÁVIO MARCÃO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O Senhor Ministro Flávio Dino (Relator): O presente recurso
+objetiva rever decisão em que neguei seguimento ao habeas corpus. Trago
+à colação a ementa do ato impugnado:
+“Habeas corpus. Crimes de associação criminosa e
+sonegação fiscal. Alegada violação à Súmula Vinculante 24.
+Inocorrência. Trancamento da ação penal. Inviabilidade.
+Requisitos legais indiciariamente aferidos. Juízo provisório de
+tipicidade da conduta. Reexame de fatos e provas.
+Impossibilidade. Precedentes. Negativa de seguimento.”
+
+Neguei seguimento ao habeas corpus em razão da inviabilidade, como
+regra, de utilização do writ como sucedâneo recursal ou revisão criminal
+(HC 225.089-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.4.2023;
+HC 232.539-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe
+19.10.2023; HC 233.932-AgR, Rel. Min. Edson Fachin, Segunda Turma,
+DJe 02.02.2024).
+De qualquer maneira, quanto à alegada violação ao enunciado da
+Súmula Vinculante nº 24, reafirmo que o ato dito coator não diverge do
+entendimento deste Supremo Tribunal Federal, no sentido de que
+“Mesmo para os casos de investigação de crime fiscal propriamente dito, a
+jurisprudência desta Corte tem relativizado a incidência do enunciado sumular
+quando houver cumulatividade com outras condutas criminosas.”. Extraio a
+ementa do referido julgado:
+“AGRAVO
+
+REGIMENTAL
+
+EM
+
+HABEAS
+
+CORPUS.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+HC 254771 AGR / MG
+TRANCAMENTO
+DE
+INQUÉRITO
+POLICIAL.
+EXCEPCIONALIDADE: INOCORRÊNCIA. VIOLAÇÃO À
+SÚMULA VINCULANTE Nº 24 DO SUPREMO TRIBUNAL
+FEDERAL. NÃO OCORRÊNCIA. SUFICIÊNCIA DOS
+ELEMENTOS QUE JUSTIFICARAM A CONTINUIDADE.
+REVOLVIMENTO DE FATOS E PROVAS: INVIABILIDADE.
+1. O trancamento de inquérito policial pela via do habeas
+corpus é medida excepcional, não cabível no caso, uma vez que
+não comprovadas, de plano, a atipicidade da conduta, a
+extinção da punibilidade ou a ausência de justa causa.
+Precedentes.
+2. Improcede a alegada violação o enunciado nº 24 da
+Súmula Vinculante do STF quando configurada justa causa
+para continuidade das investigações do crime de lavagem de
+dinheiro. Alcançar conclusão em sentido diverso, quanto à
+insuficiência dos elementos à continuidade do procedimento
+investigatório, demandaria o reexame do conjunto fáticoprobatório, incabível na via do habeas corpus. Precedentes.
+3. O Supremo Tribunal Federal pacificou entendimento no
+sentido de que “a ação de ‘habeas corpus’ constitui remédio
+processual inadequado, quando ajuizada com o objetivo (a) de
+promover a análise da prova penal, (b) de efetuar o reexame do
+conjunto probatório regularmente produzido, (c) de provocar a
+reapreciação da matéria de fato e (d) de proceder à revalorização dos
+elementos instrutórios coligidos no processo penal de conhecimento.”
+Precedentes.
+4. Agravo regimental ao qual se nega provimento. (HC
+237.538 AgR/PR, Rel. Min. André Mendonça, Segunda Turma,
+DJe 01.7.2024)
+
+Colho ainda, os seguintes precedentes:
+“AGRAVO INTERNO. RECLAMAÇÃO. ALEGADA
+OFENSA À SÚMULA VINCULANTE 24. INEXISTÊNCIA NO
+CASO CONCRETO. 1. A instauração de inquérito policial para
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+HC 254771 AGR / MG
+apurar outros crimes, além do previsto no art. 1º da Lei
+8.137/1990, não ofende o estabelecido no que enunciado pela
+Súmula Vinculante 24. 2. Reclamação, cuja finalidade tem
+previsão constitucional taxativa, não admite o aprofundamento
+sobre matérias fáticas. 3. A concessão de habeas corpus ex
+officio pelo STF somente é cabível nas hipóteses em que ele
+poderia concedê-lo a pedido (art. 102, I, ‘i’, da Constituição
+Federal), sob pena de supressão de instância. 4. Agravo interno
+a que se nega provimento.” (Rcl 24.768-AgR/SP, Rel. Min.
+Alexandre de Moraes, Primeira Turma, DJe 1.09.2017)
+“AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSUAL PENAL. CAPUT E § 3º DO ART. 171 DO
+CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL.
+ATIPICIDADE E AUSÊNCIA DE JUSTA CAUSA NÃO
+DEMONSTRADAS. INICIAL ACUSATÓRIA COM DESCRIÇÃO
+ADEQUADA DOS FATOS DELITUOSOS. INDICAÇÃO DE
+ILÍCITOS NÃO TRIBUTÁRIOS. FRAUDE EM DESFAVOR DE
+PESSOA JURÍDICA DE DIREITO PRIVADO E DA UNIÃO.
+AUSÊNCIA
+DE
+MANIFESTA
+ILEGALIDADE
+OU
+TERATOLOGIA. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO.” (HC 211.072 AgR/RS, Rel. Min. Cármen Lúcia,
+Primeira Turma, DJe 24.02.2022)
+“AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSO
+PENAL.
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA
+DE
+ARGUMENTAÇÃO
+APTA
+A
+MODIFICÁLA. MANUTENÇÃO DA NEGATIVA DE
+SEGUIMENTO. CRIME MATERIAL CONTRA A ORDEM
+TRIBUTÁRIA. SÚMULA VINCULANTE 24. INVESTIGAÇÃO
+DE
+OUTROS
+DELITOS.
+BUSCA
+E
+APREENSÃO.
+POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1.
+A inexistência de argumentação apta a infirmar o julgamento
+monocrático conduz à manutenção da decisão recorrida. 2. A
+Súmula Vinculante 24, ao condicionar a tipicidade à
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+HC 254771 AGR / MG
+constituição definitiva do crédito tributário em delitos materiais
+contra a ordem tributária, impede, antes desse marco, a
+deflagração da persecução penal. 3. Hipótese em que as
+instâncias próprias apontaram que a investigação também tinha
+como objeto crime de lavagem de dinheiro, delito que não
+pressupõe esgotamento das vias administrativas e, portanto,
+legitimava o deferimento do meio de obtenção de prova
+independentemente da inocorrência de lançamento. 4. Diante
+da presunção de legalidade dos atos administrativos, não é
+possível, na estreita via do habeas corpus, que reclama prova
+pré-constituída, atestar eventual artificialidade da investigação
+do crime de lavagem de dinheiro, supostamente empregada
+como falsa justificativa dirigida a propiciar o alcance de meio
+probatório inadmitido no ordenamento jurídico. Ausência de
+teratologia a motivar a concessão da ordem de ofício. 5. Agravo
+regimental desprovido” (HC 118.985-AgR, Rel. Min. Edson
+Fachin, Primeira Turma, DJe 21.6.2016).
+“HABEAS CORPUS. PROCESSUAL PENAL. BUSCA E
+APREENSÃO DETERMINADA EXCLUSIVAMENTE COM
+BASE EM DENÚNCIA ANÔNIMA. NÃO OCORRÊNCIA.
+PERSECUÇÃO PENAL POR CRIMES TRIBUTÁRIOS E
+CONEXOS ANTES DO LANÇAMENTO TRIBUTÁRIO
+DEFINITIVO.
+VIABILIDADE.
+AUSÊNCIA
+DE
+FUNDAMENTAÇÃO DO DECRETO DE BUSCA E
+APREENSÃO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+(...) 2. Nos termos da Súmula Vinculante 24, a persecução
+criminal nas infrações contra a ordem tributária (art. 1º, incisos I
+a IV, da Lei nº 8.137/90) exige a prévia constituição do crédito
+tributário. Entretanto, não se podendo afastar de plano a
+hipótese de prática de outros delitos não dependentes de
+processo administrativo não há falar em nulidade da medida de
+busca e apreensão. É que, ainda que abstraídos os fatos objeto
+do administrativo fiscal, o inquérito e a medida seriam
+juridicamente possíveis. 3. Não carece de fundamentação
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+HC 254771 AGR / MG
+idônea a decisão que, de forma sucinta, acolhe os fundamentos
+apresentados pelo Órgão ministerial, os quais narram de forma
+pormenorizada as circunstâncias concretas reveladoras da
+necessidade e da adequação da medida de busca e apreensão. 4.
+Ordem denegada.” (HC 107.362/PR, Rel. Min. Teori Zavascki,
+Segunda Turma, DJe 02.3.2015)
+
+Além disso, segundo a orientação jurisprudencial desta Suprema
+Corte, “o trancamento da ação penal ou de inquérito policial pela via do
+habeas corpus somente é admitido diante de situações excepcionalíssimas,
+quando pressupõe a percepção, de plano, da atipicidade da conduta, da incidência
+da causa de extinção punibilidade ou a ausência de indícios de autoria e
+materialidade, hipóteses não evidenciadas no caso“ (HC 233.169 AgR/SP,
+de minha relatoria, 1ª Turma, DJe 21.3.2024). Nesse sentido: HC 234.076AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 01.04.2024; HC
+237.055-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.03.2024).
+Na hipótese, o Tribunal de Justiça estadual, ao analisar a tese
+defensiva de ausência de justa causa para o prosseguimento da ação
+penal, consignou que (evento 11, fls. 49-37):
+“No que tange às alegações acerca da inexistência do
+crime contra a ordem tributária, nos termos da Súmula
+Vinculante n.º 24, cabe aqui apontar que é inegável a
+importância da referida súmula como marco do Direito
+Tributário Brasileiro.
+Contudo, não há um entendimento consolidado acerca de
+sua matéria jurídica.
+(...).
+Nesse sentido, deixo de aplicar a referente súmula no
+presente caso, invocando a legalidade dos atos de investigação
+praticados antes da constituição definitiva do tributo.
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+HC 254771 AGR / MG
+Portanto, a abertura de uma investigação e o andamento
+de um processo criminal não representam, em si mesmos, uma
+forma ilegal de coação como apontado pelo impetrante.
+Ressalta-se, ainda, que existem evidencias substanciais
+de que o paciente A.R.S., apontado até então como líder da
+organização criminosa, supostamente cometeu crimes
+relacionados à sonegação fiscal e outras infrações como
+falsificação de documentos e lavagem de dinheiro, que
+resultou em danos significativos para o Estado de Minas
+Gerais, sendo imprescindível o procedimento investigatório, a
+fim de elidir qualquer imprecisão acerca dos fatos.
+Portanto, não entendo ser apropriado encerrar a
+investigação do eventual processo penal iniciado contra o
+paciente.
+O trancamento da ação penal é medida excepcional,
+somente admitida nas hipóteses em que se mostrar evidente a
+atipicidade da conduta, a existência de motivos que assolem
+com a possibilidade de punição ou a falta de evidências
+mínimas de autoria ou prova de um crime (falta de justa causa).
+Dessa forma, não há que se falar em concessão da ordem de
+habeas corpus, uma vez que as medidas judiciais, encontram-se
+devidamente justificadas.”
+
+A Corte Superior, ao confirmar o prosseguimento da ação penal ora
+questionada no presente writ, reputou que:
+“As alegações da parte agravante não são suficientes para
+
+alterar a decisão agravada, que deve ser mantida por seus
+próprios fundamentos.
+
+Como se consignou quando do julgamento monocrático, o
+entendimento desta Corte é no sentido de que o trancamento de
+ação penal por meio do habeas corpus é medida excepcional. Por
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+HC 254771 AGR / MG
+isso, será cabível somente quando houver inequívoca
+comprovação da atipicidade da conduta, da incidência de causa
+de extinção da punibilidade ou da ausência de indícios de
+autoria ou de prova sobre a materialidade do delito,
+circunstâncias cujo reconhecimento exige profundo exame do
+contexto probatório dos autos, inviável na via estreita do writ.
+Nesse sentido: RHC 51.659/CE, Rel. Ministro Nefi Cordeiro,
+Sexta Turma, julgado em 5/5/2016, DJe 16/5/2016; e RHC
+63.480/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em
+1/3/2016, DJe 9/3/2016.
+Ainda, a jurisprudência do Supremo Tribunal Federal e
+deste Superior Tribunal de Justiça compreendem pela mitigação
+da Súmula Vinculante n. 24 quando o modus operandi utilizado
+na conduta delituosa passa pelo cometimento de outros crimes,
+como forma de burlar a fiscalização tributária, notadamente
+como no caso em análise, no qual supostamente foram
+constituídas empresas de fachada para emitir notas fiscais
+ideologicamente falsas com a finalidade de acobertar a
+entrada de mercadorias na pessoa jurídica Minas Comércio de
+Borracha, gerando falsos créditos de ICMS, em montante
+superior a 50 milhões de reais.
+Além disso, há indicação de possível associação
+criminosa, crime independente e autônomo, a despeito de
+conexo, capaz de autorizar a flexibilização da Súmula
+Vinculante n. 24 e, por conseguinte, permitir a continuidade
+da persecução penal.
+Aliás, o fato de o Ministério Público ter optado por não
+incluir na denúncia todas as possíveis capitulações não impede
+que o conjunto probatório já colhido seja considerado para fins
+de relativização da Súmula Vinculante. Entendimento contrário
+premiaria justamente os casos mais graves, em que os agentes
+se valem de sofisticados mecanismos de fraude para
+impossibilitar a própria constituição do crédito tributário.
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+HC 254771 AGR / MG
+Quanto à alegação de que eventuais falsidades seriam
+absorvidas pelo crime tributário, tal argumento confunde dois
+planos distintos: a consunção para fins de tipificação penal e a
+avaliação do modus operandi para fins de relativização da
+Súmula Vinculante n. 24. É dizer, mesmo que determinada
+conduta seja posteriormente absorvida pelo crime-fim, sua
+prática ainda assim caracteriza o especial modo de execução
+que autoriza o prosseguimento da persecução penal.”
+
+Diante de todo o contexto, tal como ressaltado no ato hostilizado,
+não observo hipótese de atipicidade da conduta, causa extintiva da
+punibilidade ou ausência de indícios de autoria e materialidade,
+circunstâncias essas que poderiam, excepcionalmente, legitimar a
+concessão da ordem de habeas corpus para efeito de trancamento ou
+suspensão da persecução penal, de acordo com a compreensão
+jurisprudencial desta Suprema Corte. Nesse sentido, colho precedentes:
+“AGRAVO REGIMENTAL EM HABEAS CORPUS.
+IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO
+SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO
+DE JURISDIÇÃO. CRIME DE FALSIFICAÇÃO DE
+DOCUMENTO PÚBLICO. TRANCAMENTO DO INQUÉRITO
+POLICIAL.
+EXCEPCIONALIDADE.
+INOCORRÊNCIA.
+SUPERVENIÊNCIA DO JULGAMENTO DE MÉRITO DO
+WRIT IMPETRADO NA CORTE ESTADUAL. PERDA DE
+OBJETO.
+1. Há óbice ao conhecimento de habeas corpus impetrado
+contra decisão monocrática, indeferitória de writ, do Superior
+Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+2. O trancamento de ação penal ou de inquérito policial,
+na via do habeas corpus, só se mostra cabível em casos
+excepcionalíssimos, quando manifesta a atipicidade da
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+HC 254771 AGR / MG
+conduta, a presença de causa extintiva de punibilidade ou a
+ausência de suporte probatório mínimo de autoria e
+materialidade delitivas.
+3. A análise minuciosa dos fatos que ensejaram a
+representação fiscal para fins penais, não prescinde da incursão
+no acervo fático-probatório dos autos, inviável em sede de
+habeas corpus.
+4. A superveniência do julgamento do mérito do habeas
+corpus impetrado no Tribunal de segundo grau prejudica a
+análise da impetração. Precedentes.
+5. Agravo regimental conhecido e não provido.”
+(HC 122.434-AgR, Rel. Min. Rosa Weber, Primeira Turma,
+DJe 17.02.2016)
+“HABEAS
+CORPUS.
+PROCESSUAL
+PENAL.
+TRANCAMENTO DE INQUÉRITO. CRIME ELEITORAL.
+ATIPICIDADE DA CONDUTA. AUSÊNCIA DE ELEMENTOS
+HÁBEIS A AFASTAR, DESDE LOGO, A RESPONSABILIDADE
+PENAL. INVIABILIDADE DE ANÁLISE DE FATOS E
+PROVAS NA VIA DO HABEAS CORPUS. INDEPENDÊNCIA
+DAS ESFERAS ADMINISTRATIVA E PENAL. ORDEM
+DENEGADA.
+1. A jurisprudência desta Corte firmou-se no sentido de
+que a extinção de inquéritos e ações penais de forma
+prematura, via habeas corpus, somente se dá em hipóteses
+excepcionais, quando patentemente demonstrada (a) a
+atipicidade da conduta; (b) a ausência de indícios mínimos de
+autoria e materialidade delitivas; ou (c) a presença de causa
+extintiva da punibilidade. Precedentes. No caso, não se
+constata nenhuma das hipóteses que justificariam o
+trancamento excepcional do procedimento investigativo
+2. Pelo menos na via estreita do habeas corpus, os fatos
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+HC 254771 AGR / MG
+objeto de investigação possuem relevância jurídica para o
+âmbito penal, razão pela qual se torna ilegítimo suprimir, desde
+logo, as funções institucionais dos órgãos competentes pela
+investigação criminal. Ademais, o deslinde das diversas
+questões aqui suscitadas demandaria, necessariamente, o
+revolvimento de fatos e provas, o que é inviável em sede de
+habeas corpus.
+3. A simples notitia criminis não caracteriza, por si só,
+constrangimento ilegal ao direito de locomoção do paciente,
+sanável via habeas corpus, especialmente quando não há
+qualquer informação de que o paciente esteja na iminência de
+ser preso. Precedentes.
+4. Ordem denegada.”
+(HC 119.172/DF, Rel. Min. Teori Zavascki, 2ª Turma, DJe
+05.5.2014).
+
+Ademais, inviável o acolhimento do pleito defensivo para o
+trancamento da ação penal, visto que demandaria o reexame fáticoprobatório. Nesse sentido: “A jurisprudência deste Supremo Tribunal Federal
+é firme no sentido de que “[o] habeas corpus é ação inadequada para a valoração e
+exame minucioso do acervo fático-probatório engendrado nos autos para o fim de
+verificar a atipicidade da conduta ou qualquer fato capaz de gerar a absolvição do
+paciente” (HC 134.985 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe
+29/06/2017)” (HC 231.840-AgR, Rel. Min. Cristiano Zanin, Primeira
+Turma, DJe 01.12.2023); “Apontados elementos aptos a demonstrar a tipicidade
+da conduta praticada, não há que se admitir o prematuro trancamento da ação
+penal. 2. Eventual divergência quanto às premissas adotadas pelas instâncias
+antecedentes implicaria o reexame de fatos e provas, providência inviável em sede
+de habeas corpus” (HC 193.695-AgR, Rel. Min. Edson Fachin, Segunda
+Turma, DJe 11.03.2021); “É inadmissível, na via estreita do habeas corpus, a
+qual não comporta dilação probatória, o reexame, com vistas ao acolhimento das
+teses defensivas – ausência de justa causa, por insuficiência probatória e inépcia
+da denúncia –, do conjunto fático-probatório produzido nas instâncias ordinárias.
+10
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Voto - MIN. FLÁVIO DINO
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+HC 254771 AGR / MG
+4. Ausente, nos autos, demonstração de alguma excepcionalidade, não se justifica
+o trancamento da ação penal” (RHC 203.155-AgR, Rel. Min. Nunes Marques,
+Segunda Turma, DJe 17.12.2021).
+Diante dessas considerações, não detecto no agravo elementos aptos
+a modificar o entendimento exarado na decisão monocrática agravada.
+Nego provimento ao agravo regimental.
+É como voto.
+
+11
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 042F-B3B6-060D-0C96 e senha 0F81-0B04-461B-05EE
+
+Supremo Tribunal Federal
+Extrato de Ata - 03/06/2025
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 254.771 MINAS GERAIS
+PROCED. : MINAS GERAIS/MG
+RELATOR(A): MIN. FLÁVIO DINO
+AGTE.(S): ADERVAN ROSA DE SOUZA
+ADV.(A/S): RENATO FLÁVIO MARCÃO (96754/SP)
+AGDO.(A/S): SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 23.5.2025 a 30.5.2025.
+Composição: Ministros Cristiano Zanin (Presidente),
+Lúcia, Luiz Fux, Alexandre de Moraes e Flávio Dino.
+
+Cármen
+
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7F93-6192-3089-C866 e senha E1BE-B933-551A-7136
