@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo interposto por MAURICIO AMARAL MENEZES, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+Verificado que o Recurso Especial foi protocolado na origem sem o comprovante de pagamento das custas, foi determinada, nos termos do § 4º do art. 1.007 do Código de Processo Civil, a intimação da parte para regularizar o preparo.
+Na petição de fls. 547/551, a parte requereu a retificação do polo ativo do recurso e, ainda, o benefício da gratuidade de justiça ou a devolução do prazo para o cumprimento da certidão de saneamento, sem o recolhimento em dobro devido.
+É o relatório.
+Decido.
+Inicialmente, indefiro o pedido de devolução do prazo recursal, tendo em vista que a parte não comprovou a justa causa que autorize sua concessão.
+No mais, prossigo na análise dos autos.
+Por meio da análise do recurso de MAURICIO AMARAL MENEZES, verifica-se que a petição de Recurso Especial foi protocolada, na origem, sem a comprovação do recolhimento das custas.
+Conforme previsão do §5º do art. 99 do Código de Processo Civil, o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário de gratuidade de justiça estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito ao benefício.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora devidamente intimada para sanar referido vício, não regularizou, limitando-se a requerer, na petição de fls. 547/551, a retificação do polo ativo do recurso, incluindo o nome da causídica e, ainda, sua intimação para comprovar hipossuficiência ou a devolução de prazo para o recolhimento do preparo recursal, de forma simples.
+No que se refere ao pedido de retificação do polo ativo da demanda, cumpre registrar que conforme jurisprudência desta Corte Superior, há legitimidade concorrente da parte e do advogado para recorrer dos honorários sucumbenciais (REsp n. 614.218/PR, Rel. Ministro João Otávio de Noronha, Segunda Turma, DJ de 7/12/2006, p. 289.).
+No caso, a causídica peticionou em nome da parte. Assim, a autuação está correta, não havendo que se falar em retificação do polo da demanda. Outrossim, a advogada subscritora das petições foi devidamente intimada acerca da certidão de saneamento, inclusive, esta alertou que no caso de discussão exclusiva de honorários advocatícios, deveriam ser recolhidas as custas.
+Quanto à gratuidade de justiça, ressalta-se que o referido pedido não tem efeito prático algum. Mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para regularizar o recolhimento das custas do recurso especial. Apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29.5.2012).
+Por sua vez, sobre a devolução do prazo que restou indeferida e o recolhimento de forma simples, destaca-se que não comprovado o recolhimento no ato da interposição do Recurso Especial, posteriormente, as custas são devidas em dobro, nos termos do art. 1.007, § 4º do CPC.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, indefiro o pedido de devolução do prazo e, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
