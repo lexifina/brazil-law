@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARVUS TECNOLOGIA LTDA., com fundamento no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Regional Federal da 4ª Região assim ementado (e-STJ, fl. 315):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO DE SUCUMBÊNCIA. AÇÃO AUTÔNOMA. CUMULAÇÃO. DESCABIMENTO.
+1. Nas situações em que a extinção da execução fiscal é consequência direta do que foi decidido em ação anulatória, a jurisprudência deste Tribunal tem entendido pela impossibilidade de nova condenação da parte exequente ao pagamento dos honorários de advogado no processo de execução ou em embargos à execução fiscal, na medida em que estes já foram fixados na outra ação.
+Nas razões do recurso especial (e-STJ, fls. 323-335), a insurgente aponta, além de dissídio jurisprudencial, violação ao arts. 85, § 10, do CPC.
+Sustenta, em resumo, que a extinção da execução fiscal, em virtude da procedência dos pedidos de ação anulatória conexa, não exonera a parte executada do pagamento honorários advocatícios sucumbenciais no feito executivo, dada a autonomia entre tais ações.
+Contrarrazões às fls. 352-355 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fl. 358), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+No caso em estudo, a Corte de origem entendeu não ser possível haver cumulação da condenação ao pagamento de ho norários advocatícios sucumbenciais na ação anulatória e na execução fiscal conexa, de acordo com as seguintes justificativas (e-STJ, fl. 314):
+A atribuição de honorários de advogado de sucumbência não se pauta apenas pelos qualificativos vencido e vencedor, baseando-se também na ideia de causação e pretensão resistida. O direito a honorários de advogado de sucumbência exige comportamento censurável atribuído ao vencido, causando o processo ou o incidente processual, ou resistindo a seu encerramento, de modo a provocar a defesa por advogado.
+A responsabilidade pelos ônus de sucumbência cabe à parte vencida no processo ou incidente processual, conforme a cabeça do art. 85 do CPC (princípio da sucumbência). O ônus é transferido à parte vencedora quando comprovado que deu causa à lide (princípio da causalidade), na forma do §10 do art. 85 do CPC.
+No caso, a extinção da execução fiscal por sentença se deu como consequência da coisa julgada formada em processo pelo procedimento comum - proc. 5011153-26.2020.4.04.7200/SC, no qual a União foi condenada a pagar honorários de advogado de sucumbência, majorados nos termos do § 11 do art. 85 do CPC (e43d1 a 4 na origem).
+Nas situações em que a extinção da execução fiscal é consequência direta do que foi decidido em ação anulatória, a jurisprudência deste Tribunal tem entendido pela impossibilidade de nova condenação da parte exequente ao pagamento dos honorários de advogado no processo de execução ou em embargos à execução fiscal, na medida em que estes já foram fixados na outra ação. Nesse sentido:
+(..)
+O recurso comporta provimento, para afastar a condenação da apelante ao pagamento de honorários de advogado de sucumbência.
+No entanto, ambas as Turmas que integram a Primeira Seção do Superior Tribunal de Justiça reconhecem que é cabível a cumulação dos honorários advocatícios fixados em execução fiscal com aqueles arbitrados em ações conexas (embargos à execução/ação anulatória), desde que observados os limites percentuais e parâmetros previstos no art. 85 do CPC.
+Efetivamente, a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp n. 1.520.710/SC (Tema 587/STJ), relator Ministro Mauro Campbell Marques, DJe 27/02/2019, submetido à sistemática dos recursos repetitivos, definiu que os embargos do devedor constituem ação de conhecimento incidental, que não se confunde com a ação de execução, razão por que os honorários advocatícios podem ser fixados de forma autônoma e independente em cada uma das referidas ações, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973 (equivalente ao art. 85, § 2º, do CPC/2015).
+Nessa linha de raciocínio:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AÇÕES CONEXAS. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno interposto contra decisão monocrática que deu provimento a recurso especial para, observados os limites legais, reconhecer a possibilidade de arbitramento de honorários advocatícios em execução fiscal, apesar da anterior condenação ao pagamento da verba em ações conexas.
+II. É assente na jurisprudência do STJ o entendimento de que, desde que respeitados os limites percentuais e parâmetros previstos na legislação, é possível a cumulação dos honorários advocatícios fixados em execução fiscal com aqueles arbitrados em ações conexas (embargos à execução/ação anulatória). Precedentes.
+III. Agravo interno não provido.
+(AgInt no AREsp n. 2.206.502/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO FISCAL. EXCLUSÃO DO POLO PASSIVO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. O posicionamento adotado pelo Tribunal de origem destoa da orientação desta Corte Superior de Justiça que está no sentido de que " ..  é possível a cumulação da verba honorária fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), de forma relativamente autônoma, sendo vedada a sua compensação e desde que respeitados os limites percentuais e parâmetros previstos na legislação." (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.971.745/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2024, DJe de 2/7/2024.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL E AÇÕES CONEXAS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE FORMA CUMULADA. CABIMENTO. LIMITAÇÃO DO VALOR GLOBAL. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A Primeira Seção do Superior Tribunal de Justiça reconhece a possibilidade de cumulação da verba honorária devida na execução fiscal e nas ações conexas ao feito executivo, tais como embargos à execução e ação anulatória.
+2. Hipótese em que o Tribunal de origem assentou que era cabível a condenação ao pagamento de honorários sucumbenciais em razão do acolhimento de embargos à execução, o que gerou a extinção da execução fiscal, a despeito de já ter havido essa condenação em ação anulatória que visava ao cancelamento da mesma CDA.
+3. A despeito de provocado pelos aclaratórios, a Corte local não se manifestou sobre a limitação global dos valores dos honorários, o que denota carecer o apelo especial, no ponto, do indispensável do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ.
+4. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.113.384/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+Dessa forma, constatada a divergência entre a conclusão adotada pelo Tribunal Regional e o entendimento do Superior Tribunal de Justiça a respeito da matéria, impositiva a reforma do acórdão recorrido, a fim de restabelecer a sentença que, no âmbito da execução fiscal, condenou a parte executada ao pagamento de honorários advocatícios de sucumbência.
+Ante o exposto, dou provimento ao recurso especial, a fim de restabelecer a sentença proferida pelo magistrado de primeira instância.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. AÇÕES CONEXAS. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
