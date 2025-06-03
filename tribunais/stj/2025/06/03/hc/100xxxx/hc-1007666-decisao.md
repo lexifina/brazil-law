@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de David Rodrigues Cardoso, em que se aponta como autoridade coatora a Quarta Câmara do Tribunal de Justiça de Goiás, que, ao julgar o mérito do Habeas Corpus criminal n. 5271932-60.2025.8.09.0168, cassou a liminar deferida, restaurando a preventiva imposta ao paciente, pela suposta prática do crime de associação para o tráfico de drogas.
+Neste writ, sustenta a defesa a ausência de fundamentos concretos a justificar o imposição da medida constritiva (fl. 6).
+Requer, assim, a concessão liminar da ordem para restabelecer a liminar concedida, com ou sem substituição da prisão preventiva pelas medidas cautelares já impostas (fl. 11).
+É o relatório.
+Consta do acórdão impugnado que a prisão preventiva foi decretada com fundamento na gravidade concreta da conduta imputada ao paciente, evidenciada por sua posição de liderança em organização criminosa voltada ao tráfico de entorpecentes, com atuação estruturada, divisão de tarefas e expressiva movimentação financeira decorrente da atividade ilícita (fls. 23/24).
+Ressaltou-se, ainda, a periculosidade do agente e o risco de reiteração delitiva, circunstâncias que, nos termos do art. 312 do Código de Processo Penal, justificam a adoção da medida extrema como forma de garantir a ordem pública e interromper a continuidade das atividades criminosas (fl. 25).
+Nesse contexto, entendo plenamente justificado o restabelecimento da prisão preventiva, diante da relevante função desempenhada pelo paciente no seio da organização, atuando na coordenação da aquisição, comercialização e distribuição de drogas em larga escala, o que denota elevado grau de inserção na estrutura criminosa e reforça a necessidade da segregação cautelar.
+A reforço, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+Em complemento, a jurisprudência desta Corte é consolidada no sentido de que a prisão preventiva de membros de organização criminosa se justifica como medida imprescindível para impedir a continuidade das práticas delitivas.
+Dessa forma, justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo (AgRg no HC n. 728.450/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/8/2022, DJe 18/8/2022).
+Isso porque a necessidade de se interromper ou diminuir a atuação de integrantes de organização enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (AgRg no HC n. 776.508/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe 15/12/2022).
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. PAPEL DE LIDERANÇA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
