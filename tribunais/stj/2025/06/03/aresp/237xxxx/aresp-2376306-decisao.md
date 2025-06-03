@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 102):
+PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REVISÃO. IRSM/94. DECADÊNCIA. AFASTAMENTO. BENEFÍCIO DE VALOR MÍNIMO. POSSIBILIDADE.
+1. Tratando-se de execução individual de sentença coletiva, não cabe a incidência do prazo decadencial para requerer a revisão do benefício previsto na Lei 8.213/1991.
+2. Os benefícios com data de início após março de 1994 e salários- de-contribuição dentro do período básico de cálculo de até 48 meses previsto na legislação vigente à época podem vir a ser revisados pela incidência do IRSM de fevereiro de 1994, ainda que originariamente tenham sido concedidos com RMI de um salário-mínimo.
+Os embargos de declaração foram rejeitados (fl. 125).
+Nas razões de seu recurso especial, a parte aponta violação dos arts. 509, § 4º, 535, II e IV, 778, 786 e 917, I e III, e § 2º, I e III, e 1.022 do Código de Processo Civil (CPC).
+Alega negativa de prestação jurisdicional, pois teria havido omissão no acórdão por não ter sido esclarecida a inexistência de salários-de-contribuição no período básico de cálculo.
+Argumenta que a parte exequente não possui legitimidade para executar a sentença coletiva, pois o benefício não possui salários-de-contribuição no período básico de cálculo, o que estaria fora dos limites subjetivos da coisa julgada.
+A parte adversa apresentou contrarrazões (fls. 179/183).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 115/116):
+ ..
+O v. acórdão afirmou que  ..  conforme se extrai do processo administrativo, há salários-de- contribuição dentro do período básico de cálculo de até 48 meses estabelecido na legislação. Todavia, da análise do processo administrativo anexado aos autos (evento 6 - PROCADM3), verifica-se que não há qualquer informação quanto aos salários-de-contribuição do período básico de cálculo.
+Com efeito, observe-se que, embora haja informação quanto ao tempo de contribuição do segurado (evento 6, PROCADM3, p. 13), não há qualquer dado quanto ao valor dos salários-de- contribuição do período (evento 6, PROCADM3, p. 20), não sendo possível, assim, a aplicação do IRSM de fevereiro/94, pois não há o que corrigir.
+ ..
+Inexistindo salários-de-contribuição no período básico de cálculo, não há como se a aplicar o comando previsto no título executivo para revisão do cálculo do salário-de-benefício (redação original do art. 29 da Lei 8.213/91), o que obsta a própria execução do julgado, razão pela qual merece aclaramento a decisão quanto ao ponto.
+ ..
+Ao apreciar o recurso integrativo, o TRF da 4ª Região assim decidiu (fl. 130):
+ ..
+O acórdão deixa claro que a revisão deve se dar pela incidência do IRSM sobre os salários-de-contribuição das competências que constam do extrato de CNIS juntado ao processo administrativo e que se encontram dentro do interregno de período básico de cálculo expressamente definido na legislação vigente à época. Vislumbra-se aí a possibilidade de majoração do valor do benefício a partir do comando revisional delineado no título judicial formado na ACP. Faz-se necessária a realização de cálculos que adotem o correto índice de atualização para verificar se no momento da concessão o exequente possuía direito à RMI superior ao salário-mínimo.
+ ..
+Ademais, extraio da decisão integrada (fls.106/107):
+ ..
+No caso, o benefício tem DIB após março de 1994 e, conforme se extrai do processo administrativo, há salários-de-contribuição dentro do período básico de cálculo de até 48 meses estabelecido na legislação. Ocorre apenas que a média extraída da aplicação da sistemática de apuração do salário-de-benefício resultou inferior ao salário-mínimo, levando à concessão direta pela regra do § 2º, sem a discriminação do PBC. Ou seja, houve em um primeiro momento a elaboração de cálculo sobre os salários-de-contribuição, que ao final foi desconsiderado para que o ato concessório se adequasse ao dispositivo que estabelece um piso para os benefícios previdenciários. É este cálculo que pode ser revisto nos termos do título da ACP. Caso a incidência do IRSM de fevereiro de 1994 venha a elevar a média dos salários-de-contribuição para além do salário-mínimo da época, vislumbra-se efetiva majoração da RMI. Com efeito, não há como rejeitar de plano a aplicação da tese revisional em questão aos benefícios de valor mínimo, pois esta condição pode decorrer justamente da inadequação do índice de correção monetária adotado pela Autarquia.
+Assim, o trâmite do cumprimento de sentença deve ser retomado para averiguar o direito à revisão no caso concreto, por meio da elaboração de cálculos que apliquem o IRSM sobre os salários-de-contribuição que constam do processo administrativo. Afasto desde já os cálculos juntados pela parte autora à inicial, pois tratam somente de fazer incidir o índice de 39,67% sobre o salário-mínimo da data da concessão, o que consiste em interpretação equivocada do título judicial em execução.
+ ..
+Da leitura dos excertos transcritos, verifico claramente que o Colegiado a quo considerou ter havido apuração de salário de benefício com base em período básico de cálculo (PBC) do qual constavam salários de contribuição anteriores a março de 1994. O órgão julgador entendeu que, em virtude da apuração de média inferior ao mínimo constitucional, a renda mensal inicial foi fixada no valor do salário mínimo havido na época, sem que o PBC tenha constado da carta de concessão. Nesse contexto, a Corte Regional se remeteu aos dados do Cadastro Nacional de Informações Sociais (CNIS) e deixou claro que a aplicação do índice de reajuste de salário mínimo (IRSM) de fevereiro de 1994 não deveria ser realizada diretamente sobre o salário de benefício ou sobre a renda mensal inicial.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No que diz respeito à ilegitimidade de parte e aos limites subjetivos e objetivos da coisa julgada, não há como alterar o entendimento do Tribunal de origem -sobre a apuração de salário de benefício inferior ao mínimo com base em salários de contribuição anteriores a março de 1994 - sem o regresso aos documentos dos autos.
+Entendimento no sentido da inexistência de PBC, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
