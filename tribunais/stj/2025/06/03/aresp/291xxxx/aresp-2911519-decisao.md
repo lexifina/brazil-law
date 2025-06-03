@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CANASCENTER IMPORTACAO E EXPORTACAO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+EXECUÇÃO FISCAL. PERÍCIA PARA DEFINIÇÃO DA LOCALIZAÇÃO DO IMÓVEL ARREMATADO. HONORÁRIOS.
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC. EMBARGOS DE DECLARAÇÃO PROVIDOS PARA SUPRIR A OMISSÃO APONTADA, SEM A CONCESSÃO DE EFEITOS INFRINGENTES.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 95, caput e § 1º, do CPC, no que concerne ao reconhecimento de que não é ônus integral do arrematante arcar com o adiantamento dos honorários da perícia determinada de ofício pelo juiz, porquanto deveriam ser rateados entre as partes, trazendo a seguinte argumentação:
+Entretanto, a obrigação de pagar os honorários do perito não pode ser imputada ao Arrematante, em virtude do disposto no artigo 95 do Código de Processo Civil (fl. 328).
+Como mencionado anteriormente, o v. acórdão recorrido determinou o ônus pelos honorários do perito seja do interessado (arrematante) apesar da perícia de ofício e o disposto no art. 95/CPC quanto ao rateio das custas dentre as partes envolvidas.
+Basta simples analise do dispositivo mencionado para concluir que, a regral geral - rateio dos honorários do perito quando a perícia for determinada de ofício - está prevista no caput do art. 95/CPC (fl. 330).
+Assim, conforme dispõe o artigo, quando a perícia for determinada de ofício pelo magistrado, os honorários do perito serão rateados entre as partes.
+Não há que se falar em responsabilidade integral pelos honorários do perito em prejuízo do ora Recorrente, quando (1) a perícia foi determinada de ofício pelo juiz e (2) o Recorrente sequer é parte no processo (interessado - arrematante).
+Ao deixar determinar o rateio das custas, é fazer é fazer uso de um subjetivismo/recusa que não é permitido pelo Código de Processo Civil, uma vez que a intenção do legislador foi justamente prever o rateio das custas quando a perícia for determinada de ofício pelo juiz.
+Sendo assim, resta clara a violação do art 95/CPC, motivo pelo qual a r. acórdão recorrido deve ser reformado para que os honorário do perito sejam rateados pelas partes (fl. 331). (fls. 331).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Considerando que o agravo de instrumento versa sobre a responsabilidade pelo adiantamento dos honorários periciais e que, na execução fiscal, já houve a realização da perícia e a transferência do valor dos honorários para o Perito, deve ser reconhecida a perda do objeto do agravo de instrumento, no ponto (fl. 308).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Por fim, a CVM alegou que sofreu prejuízos com a decisão que lhe imputou o adiantamentos dos honorários periciais. No ponto, a decisão agravada assim consignou:
+ ..
+Conforme constatado no laudo pericial, as informações prestadas pelo arrematante estavam equivocadas, sendo considerada correta a localização do imóvel indicada pelo executado (Ev. 574.1).
+Desse modo, resta apenas a possibilidade de obtenção do reembolso do valor pelo arrematante, conforme determinado na decisão agravada, haja vista que a questão do adiantamento dos honorários periciais já perdeu o objeto, conforme acima demonstrado (fl. 308).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
