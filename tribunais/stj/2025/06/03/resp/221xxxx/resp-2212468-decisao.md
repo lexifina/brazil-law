@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  Alpar  do  Brasil  Indústria  e  Comércio  de  Calçados  Ltda.  com  fundamento  no  art.  105,  III,  a  ,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional  Federal  da  4ª  Região,  assim  ementado  (fl.  597):
+TRIBUTÁRIO.  CONTRIBUIÇÕES  "A  TERCEIROS"  OU  "PARAFISCAIS",  BASE  DE  CÁLCULO,  LIMITAÇÃO  A  VINTE  SALÁRIOS  MÍNIMOS.  TESE  1079  STJ.
+Não  há  limitação  a  vinte  salários  mínimos  do  salário-de-contribuição  que  dá  base  de  cálculo  para  apuração  das  contribuições  "a  terceiros".  Inteligência  da  tese  1079  de  recursos  especiais  repetitivos  do  Superior  Tribunal  de  Justiça.
+Opostos  embargos  declaratórios,  foram  estes  rejeitados  (fls.  628/632).
+A  parte  recorrente  aponta,  além  de  dissídio  jurisprudencial,  violação  aos  arts.  4º,  parágrafo  único,  da  Lei  6.950/81;  2º,  caput,  do  Decreto-Lei  n.  4.657/1942.  Sustenta,  em  resumo,  que:  (I)  inaplicabilidade  do  Tema  1.079  nos  INCRA,  o  Salário-Educação  (FNDE)  e  o  SEBRAE;  e  (II)  limitação  da  base  de  cálculo  das  contribuições  destinadas  a  terceiros  (salário-educação,  Sebrae  e  INCRA)  a  20  salários  mínimos.
+Contrarrazões  ofertadas  às  fls.  697/706.
+Parecer  ministerial  às  fls.  725/733.
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+Com  relação  ao s  arts.  4º,  parágrafo  único,  da  Lei  6.950/81  e  2º,  caput,  do  Decreto-Lei  nº  4.657/1942,  nota-se  que  os  referidos  dispositivos  legais  não  contêm  comando  capaz  de  sustentar  a  tese  recursal  e  infirmar  o  juí zo  formulado  pelo  acórdão  recorrido quanto ao entendimento de que "a limitação do salário-de-contribuição a vinte salários mínimos, prevista no parágrafo único do art. 4º da L 6.950/1981, foi revogado pelo art. 3º do DL 2.318/1986 junto com limitação estabelecida na cabeça do mesmo artigo" (fl. 594),  de  maneira  que  se  impõe  ao  caso  concreto  a  incidência  da  Súmula  284/STF  (" É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.") .  Por  oportuno,  destacam-se  os  seguintes  precedentes:  AgInt  no  REsp  n.  2.154.627/PE,  relatora  Ministra  Regina  Helena  Costa,  Primeira  Turma,  julgado  em  30/9/2024,  DJe  de  3/10/2024;  AgInt  no  AREsp  n.  2.288.113/DF,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  julgado  em  23/9/2024,  DJe  de  27/9/2024;  AgInt  no  AREsp  n.  2.524.167/RJ,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  12/8/2024,  DJe  de  15/8/2024.
+ANTE  O  EXPOSTO,  não  conheço  do  recurso  especial.
+Publique-se.
+EMENTA
