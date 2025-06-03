@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Roberto Duarte Alvarez, com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (f. 312):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. BÔNUS DE EFICIÊNCIA E PRODUTIVIDADE. MEDIDA PROVISÓRIA Nº 765/2016. LEI Nº 13.464/2017. CARÁTER GERAL. INEXISTÊNCIA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELAÇÃO IMPROVIDA.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/15), ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta dissídio jurisprudencial e ofensa aos artigos 6º, § 2º, 7º, §§ 1º, 2º e 3º, 11 e 14, da Lei 13.464/2017, sob o argumento de que o "Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira", instituído pela Lei 13.464/2017, possui caráter geral e, por essa razão, deve sofrer incidência das contribuições previdenciárias.
+Com contrarrazões.
+Juízo positivo de admissibilidade (f. 506).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+No caso, o autor busca desde a origem o reconhecimento da natureza remuneratória genérica e impessoal do Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira, e a incidência de contribuição previdenciária sobre a referida verba.
+O acórdão recorrido negou provimento à apelação ao fundamento de que "o Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira não possui caráter geral, uma vez que há previsão legal expressa acerca dos valores devidos caso não definido o índice previsto no § 3º do art. 6º da Lei 13.464/2017, observado exatamente o mesmo escalonamento percentual calculado conforme o tempo na inatividade.".
+De início, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mais, evidencia-se que os artigos 6º, § 2º, 7º, §§ 1º, 2º e 3º, 11 e 14, da Lei 13.464/2017, não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido, pois nenhum deles determina a incidência de contribuições previdenciárias sobre os valores pagos a título de "Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira", tampouco veda a criação de norma especial que exclua tal rubrica da base de cálculo das referidas contribuições.
+Ao contrário, um deles (art. 14 da Lei 13.464/2017) veda expressamente tal incidência e não poderia, por óbvio, ter sua validade afastada com fundamento em suposta antinomia com outros artigos pertencentes à mesma lei ordinária federal (e, portanto, de mesma hierarquia), até em razão de sua especialidade em relação aos demais dispositivos indicados pela parte recorrente. Aplica-se à hipótese a Súmula n. 284/STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. BÔNUS DE EFICIÊNCIA E PRODUTIVIDADE. PARIDADE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Caso em que o acórdão recorrido, dentre outros fundamentos, asseverou que "a regra de extensão aos inativos das melhorias da remuneração dos correspondentes servidores em atividade (CF, art. 40, § 8º, cf. EC 020/98) não implica a permanente e absoluta paridade entre proventos e vencimentos, dado que nos últimos se podem incluir vantagens pecuniárias que, por sua natureza, só podem ser atribuídas ao serviço ativo".
+2. Além de o acórdão recorrido ter julgado a demanda sob o enfoque constitucional, a recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. Incide, na espécie, por analogia, a Sumula 284/STF. No mesmo sentido, em caso idêntico:
+AgInt no AgInt no REsp n. 2.101.763/CE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe: 15/8/2024.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.127.917/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. LEI FEDERAL. OFENSA REFLEXA.
+1. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice das Súmulas 282 e 356 do STF.
+3. A ofensa ao art. 14 da Lei n. 10.559/2002 é meramente reflexa, pois sua análise perpassa necessariamente pelas disposições do art. 8º do Ato das Disposições Constitucionais Transitórias.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.974.626/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025, negritei.)
+Por fim, registre-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA. LIQUIDAÇÃO DE SENTENÇA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. É condição para o conhecimento do recurso especial a impugnação, nas razões recursais, de todos os fundamentos autônomos e suficientes à manutenção do acórdão recorrido. Incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF).
+3. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do STF.
+4. Para o Superior Tribunal de Justiça (STJ), a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso especial, ainda que de ordem pública, impede o acesso à instância especial por faltar o requisito do prequestionamento.
+5. A jurisprudência do STJ está consolidada no sentido de que o recurso cabível contra decisão interlocutória em liquidação de sentença é o agravo de instrumento. A interposição de apelação em tais casos configura erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade recursal.
+6. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.549.851/AP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 31/3/2025, DJEN de 3/4/2025, negritei.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARTIGOS 6º, § 2º, 7º, §§ 1º, 2º e 3º, 11 E 14, DA LEI 13.464/2017. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA N. 284/STF.
