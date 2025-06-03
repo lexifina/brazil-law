@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por LUIS GUSTAVO BATISTA PINTO e OUTROS em face de acórdão assim ementado:
+RECURSO. AGRAVO DE INSTRUMENTO. ACIDENTE DE TRÂNSITO. VEÍCULO AUTOMOTOR E TRANSEUNTE. ATROPELAMENTO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. FASE DE CUMPRIMENTO DE SENTENÇA. Inconformismo contra a respeitável decisão que indeferiu a inclusão de entidade pública no polo passivo da fase de cumprimento de sentença ao fundamento de responsabilidade solidária a arcar com a condenação. Descabimento. Ausência de título condenatório a permitir a inclusão pretendida. Decisão pretérita que excluiu o ente público do polo passivo ao fundamento de ilegitimidade passiva, o que não foi objeto de recurso pelos agravantes. Acolhimento do pedido formulado pela agravada em sede de contraminuta, para aplicação de multa em desfavor dos agravantes, com fulcro no artigo 80, inciso VI, do Código de Processo Civil. Decisão mantida. Recurso de agravo de instrumento não provido.
+A parte agravante alega violação ao art. 337, § 2º, do Código de Processo Civil, além de dissídio jurisprudencial. Sustenta que o acidente de trânsito em discussão envolve transporte público municipal, razão pela qual o município tem responsabilidade pelo evento danoso e deve ser incluído no polo passivo da execução.
+Assim posta a questão, verifico que o tema de que cuida o dispositivo tido por violado - identidade entre ações - não foi objeto de debate pelo acórdão recorrido, embora tenham sido opostos embargos de declaração, os quais, aliás, também não versaram sobre o assunto.
+Não satisfeito o requisito do prequestionamento, é inviável o recurso especial, de acordo com o disposto na Súmula 211/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
