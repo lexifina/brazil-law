@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de DIEGO APARECIDO DE MORAES PEREIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1502738-88.2024.8.26.0536).
+Depreende-se dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime inicialmente fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006, ante a apreensão de 1,159 kg (um quilograma e cento e cinquenta e nove gramas) de cocaína (e-STJ fls. 29/42).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que manteve incólume a sentença condenatória. Eis a ementa do acórdão (e-STJ fl. 297):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - PRELIMINAR - NULIDADE POR VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA - AUTORIA E MATERIALIDADE DELITIVA COMPROVADAS - PENA E REGIME BEM APLICADOS - RECURSO DA DEFESA IMPROVIDO.
+Neste writ, alega a defesa ilicitude das provas obtidas mediante violação de domicílio e de dados pessoais e telefônicos, sem autorização judicial.
+Sustenta que não houve consentimento válido do paciente para o ingresso dos policiais em sua residência, nem para a extração de dados de seu celular. Aduz, outrossim, que a denúncia anônima não constitui justa causa para o ingresso forçado de autoridades policiais, e que a descoberta posterior de drogas não convalida a ilegalidade da invasão domiciliar.
+Insurge-se ainda contra a dosimetria da pena, alegando bis in idem na negativação das circunstâncias judiciais relativas à personalidade e conduta social do paciente. Além disso, pugna pelo reconhecimento da atenuante da confissão espontânea e a sua correspondente compensação com a agravante da reincidência.
+Requer, no mérito, a declaração da nulidade apontada e a sua consequente absolvição ou, subsidiariamente, a readequação da pena imposta.
+Liminar indeferida (e-STJ fls. 316/317) e informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 360/364).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, esse não é o caso dos autos. Isso, porque a leitura do acórdão impugnado revela que " n ão há que se falar em violação de domicílio, pois, conforme prova oral produzida em juízo, o Réu autorizou a entrada da polícia e entregou o aparelho celular desbloqueado" (e-STJ fl. 298).
+Nesse contexto, tem-se que, para infirmar as conclusões da instância ordinária, soberana na análise do acervo fático-probatório dos autos, seria imprescindível o profundo revolvimento do caderno processual existente, desiderato incompatível com os limites de cognição da via eleita, notadamente quando em substituição ao recurso cabível.
+Ademais, cumpre assinalar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017), o que não ocorre na espécie.
+Inclusive , " e m relação ao reconhecimento da atenuante da confissão espontânea, com sua posterior compensaç ão integral com a agravante da reincidência, verifico que apesar de submetida à apreciação, por meio de embargos aclaratórios, essa insurgência não foi apreciada e, tampouco analisada pela Corte estadual, não sendo possível sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes" (AgRg no HC n. 993.063/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
