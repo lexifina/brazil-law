@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARLENE SOCHA ZANETTE, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 58):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. TETO ESTABELECIDO PELAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. APLICABILIDADE AOS BENEFÍCIOS EM MANUTENÇÃO. BENEFÍCIO PROPORCIONAL. MOMENTO DA APLICAÇÃO DO COEFICIENTE DE PROPORCIONALIDADE NO CÁLCULO DO BENEFÍCIO.
+Em se tratando de benefício concedido após a CF/88, para a correta liquidação do julgado, especialmente quanto à evolução da renda mensal a ser revisada, devem ser observadas as seguintes diretrizes: (i) apurar a média atualizada dos salários-de-contribuição que compõem o período básico de cálculo e evoluí-la pelos índices de reajustamento dos benefícios previdenciários até os dias atuais; (ii) confrontar a média pura atualizada dos salários-de-contribuição com o teto de cada competência, especialmente a partir da EC 20/98; (iii) limitar a média pura dos salários-de-contribuição ao teto de cada competência e, sobre o valor então limitado (já com a glosa, portanto), aplicar o coeficiente de cálculo do benefício da época da concessão; (iv) apurar as diferenças devidas e não pagas, atualizá-las segundo os critérios da decisão judicial e observar a prescrição eventualmente reconhecida pelo título.
+O patrimônio jurídico que deve ser preservado por força do precedente constitucional formado a partir do julgamento do RE 564.354 pelo Supremo Tribunal Federal constitui a média contributiva mais o coeficiente (proporção em relação ao tempo de serviço/contribuição) da época da concessão do benefício.
+O coeficiente deve ser aplicado à média dos salários-de-contribuição antes de sua limitação ao teto. Isso porque tal técnica evita a elevação artificial do benefício em direção à integralidade (isto é, como se tratasse de um coeficiente maior daquele com o que o benefício fora concedido, o que deixaria de guardar a devida proporcionalidade).
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso, a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 507, 508 e 511, § 4º, do Código de Processo Civil (CPC), por afronta à coisa julgada; violação aos arts. 29, § 2º, 33, e 53, I e II, da Lei 8.213/1991, quanto ao "momento de aplicação do limite-teto" (fl. 74); e desrespeito a precedente do Supremo Tribunal Federal (STF), o RE 564.354/SE, no qual foi estabelecida a aplicação do teto apenas para fins de pagamento.
+Requer o provimento de seu recurso, "a fim de uniformizar o entendimento no sentido de que a limitação ao teto é elemento externo ao cálculo do benefício, de modo que a aplicação do coeficiente de cálculo do art. 53 da Lei de Benefícios anteceda a limitação ao teto" (fl. 81).
+A parte adversa não apresentou contrarrazões (fl. 93).
+O recurso foi admitido (fls. 115/117).
+É o relatório.
+Verifico que os arts. 329, § 2º, 33, e 53, I e II, da Lei 8.213/1991 e 507, 508 e 511, § 4º, do CPC não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porque não preenchido o requisito constitucional do prequestionamento. Incidência no presente caso, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal apontado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Nesse contexto, do simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram examinadas pela Corte a quo. Sobre o tema, veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.237.978/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+ ..
+3. Agravo interno não provido. (AgInt no AREsp n. 1.951.691/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Quanto ao alegado dissídio jurisprudencial, não é possível conhecer do recurso especial porque não foi demonstrada adequadamente a divergência, nos termos do art. 541 do CPC/1973 e do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Além disso, fica prejudicado o exame da divergência jurisprudencial apontada quando a tese sustentada já foi afastada na análise do recurso especial pela alínea a do permissivo constitucional (AgRg no AREsp 34.860/RJ, relator Ministro Mauro Campbell Marques, DJe de 27/9/2013).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
