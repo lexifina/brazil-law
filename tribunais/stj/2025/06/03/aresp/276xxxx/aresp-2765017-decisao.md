@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por BRÍCIO DA CONCEIÇÃO RODRIGUES contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 839):
+PROCESSUAL CIVIL. ADMINISTRATIVO. MILITAR. ATO DE LICENCIAMENTO. PEDIDO DE REINTEGRAÇÃO. LEI Nº 6.880/80. PERÍCIA JUDICIAL NÃO REALIZADA. ÔNUS DA PARTE AUTORA. CONDENAÇÃO EM DANOS INCABÍVEL. IMPROCEDÊNCIA DO PEDIDO.
+1. A questão em debate versa sobre pretensão de ex-militar de ser reintegrado às fileiras militares, defendendo que possui enfermidade que lhe impossibilita o labor militar, bem assim a condenação da União Federal ao pagamento de indenização por danos alegadamente sofridos.
+2. O ato hostilizado, adveniente da Administração Militar, ostenta presunções de veracidade, de legalidade e de legitimidade em seu favor, que só podem ser elididas por prova contrária inequívoca, inexistente nos autos.
+3. O eventual direito à reintegração ora pleiteada pressupõe a comprovação de matéria fática em relação à qual são necessários conhecimentos da área médica, de modo a verificar a alegada incapacidade.
+4. Conforme dispõe o artigo 373, I, do CPC/2015, compete à parte autora o ônus da prova quanto ao fato constitutivo de seu direito, não sendo suficientes meras alegações, razão por que se vê que a parte apelante não se desincumbiu do seu ônus.
+5. Não havendo nos autos provas suficientes das alegações da parte autora, não há como o juiz, sem outros elementos probatórios, suprir sua inércia para julgar procedentes seus pedidos.
+6. É pressuposto da responsabilização da pessoa jurídica de direito público interno a configuração de um ilícito, sob o ponto de vista da contrariedade ao ordenamento jurídico, que impõe à Administração estrita obediência à legalidade.
+7. Não merece prosperar o pedido em relação ao requerimento de indenização por danos alegadamente sofridos.
+8. Apelação da parte autora improvida.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente apontou violação dos arts. 106, II, 108, III e IV, 109, 111, 50, IV, "a" e "e", 82 e 84 da Lei n. 6.880/1980, do art. 6º, XIV, da Lei n. 7.713/1988, do art. 3º, XI, "b", da MP nº 2.215- 10/2001, e do art. 1.022, I e II, do CPC, sustentando que faz jus à reforma ou a reintegração para tratamento de saúde.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+Inicialmente, constata-se que o recurso especial não merece ser conhecido quanto à suposta negativa de prestação jurisdicional, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, o recorrente limita-se a indicar o dispositivo violado, sem discorrer acerca da suposta violação, não indicando em que aspectos residiriam as omissões. Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2.107.963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2.053.264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1.987.496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 1º/09/2022; EDcl nos EDcl no AgInt no AREsp 1.574.705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1.718.316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+No que se refere às demais alegações, verifica-se que a questão não foi tratada pelo Tribunal de origem que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016).
+O Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento. Em seu bojo, inovou o legislador ao introduzir o art. 1.025 do CPC/2015, que consagrou o chamado "prequestionamento ficto", ao prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017; e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017).
+No caso dos autos, a recorrente não atendeu à exigência de indicar a preliminar fundamentada de negativa de prestação jurisdicional.
+Ademais, para a verificação da alegação da parte recorrente seria necessário o reexame do acervo fático-probatório dos autos, o que é vedado na via do apelo especial, ante o óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial da União.
+Caso exista nos autos prévia f ixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte sucumbente, em 10% (dez por cento) do valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
