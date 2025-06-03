@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por SAMUEL EVANGELISTA DOS SANTOS contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS proferido no julgamento do Habeas Corpus n. 5230452-65.2025.8.09.0051.
+Consta dos autos que o recorrente foi preso em flagrante, no dia 14/2/2025, pela suposta prática do crime de tráfico de drogas, com a conversão do flagrante em prisão preventiva (fls. 180/194). Isso porque trazia consigo e guardava 776,424 g de maconha e 553,306 g de cocaína (fl. 185).
+Impetrado habeas corpus na origem, o Tribunal de Justiça denegou a ordem, mantendo a prisão preventiva (fls. 633/644).
+Neste recurso, a defesa sustenta as seguintes questões: a) ilegalidade da busca pessoal; b) violação de domicílio; e c) carência de fundamentação da prisão preventiva.
+Pleiteia, inclusive liminarmente, o trancamento da ação penal e a revogação da prisão preventiva (fl. 681).
+É o relatório.
+Inicialmente, constata-se que a busca pessoal foi precedida por denúncias específicas, indicando o recorrente e o endereço. Os militares avistaram o réu (cujas características físicas coincidiam com as informações repassadas, especialmente a tatuagem distintiva no rosto) à porta da residência, e este, ao avistar a guarnição, tentou se evadir - ocasião em que foi efetivada a medida (fl. 639). Tais elementos afastam, portanto, o alegado constrangimento ilegal, ao menos nesta fase processual. A propósito: HC n. 877.943/MS, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/4/2024, DJe de 15/5/2024.
+Quanto à suposta violação de domicílio, cumpre salientar que o feito se encontra em fase de instrução processual. Conforme consta dos autos, além da denúncia específica e da tentativa de fuga (justa causa), o recorrente autorizou o ingresso na residência conforme termo de depoimento do condutor (fl. 6 39). A tese de nulidade pela alegada violação domiciliar no momento da prisão em flagrante deverá ser examinada, portanto, no curso da instrução criminal, em juízo de cognição exauriente. A propósito: AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Ademais, constata-se que a manutenção da prisão preventiva encontra fundamento na necessidade de preservação da ordem pública. Essa exigência é demonstrada pelo alegado envolvimento do acusado em tráfico de drogas com participação de adolescente, em concurso de agentes, agravado pelas circunstâncias do flagrante - que registrou a apreensão de 776,424 g de maconha, 553,306 g de cocaína, uma faca e um simulacro de arma de fogo (fl. 185). A esses elementos somam-se os antecedentes do recorrente por posse irregular de arma de fogo (fl. 182).
+Assim, considerada a gravidade dos fatos que recomendam a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA. FEITO EM FASE INSTRUTÓRIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+Recurso improvido.
