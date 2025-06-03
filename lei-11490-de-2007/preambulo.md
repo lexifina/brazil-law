@@ -1,0 +1,2 @@
+Altera as Leis nos 9.657, de 3 de junho de 1998, 10.480, de 2 de julho de 2002, 11.314, de 3 de julho de 2006, 11.344, de 8 de setembro de 2006, 11.355, 11.356, 11.357 e 11.358, de 19 de outubro de 2006, 8.025, de 12 de abril de 1990, e 8.112, de 11 de dezembro de 1990, 11.457, de 16 de março de 2007, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
