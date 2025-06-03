@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela INTERAMERICAN LTDA contra a decisão de minha relatoria de fls. 2.161/2.168.
+A parte embargante alega que a decisão embargada é omissa quanto à análise de dispositivos legais tidos por violados, em especial o art. 808 do CPC/1973, que trata da cessação da eficácia da medida cautelar, sustentando que, por sua natureza acessória, tal medida perde o objeto com o julgamento da ação principal, sendo imprescindível o enfrentamento desse dispositivo legal, cuja ausência configuraria omissão relevante. Afirma, ainda, que a decisão deixou de examinar de forma adequada outros fundamentos do recurso especial, inclusive a alegação de decisão extra petita, requerendo, assim, o acolhimento dos embargos para o devido saneamento das omissões apontadas (fls. 2175/2177).
+Requer que o recurso seja acolhido.
+A parte adversa apresentou impugnação (fls. 2.191/2.202).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionada nestes termos (fls. 2.164/2.165):
+O Tribunal de origem concluiu que a medida cautelar possuía caráter satisfativo, dispensando a ação principal, pois sua finalidade era assegurar a descontaminação do local contaminado por óleo tóxico, obrigação diretamente atribuída à parte ré, empresa recorrente, como responsável pelo risco ambiental, de modo que a cautelar mantinha sua eficácia e atendia plenamente à necessidade de proteção socioambiental sem a necessidade de uma ação principal. Tal entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+ ..
+A conclusão do Tribunal de origem está de acordo com o entendimento firmado pelo Superior Tribunal de Justiça (STJ), segundo o qual não ocorre julgamento extra petita se o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em conformidade com a pretensão ali deduzida como um todo, sendo certo que o acolhimento da pretensão extraída da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita. É o caso destes autos. A propósito, colaciono os seguintes julgados desta Corte Superior:
+A respeito da questão apontada no recurso ora examinado, não há omissão a ser sanada, uma vez que a decisão embargada enfrentou de modo expresso o argumento relativo aos fundamentos legais tidos por violados, destacando que a medida cautelar possuía natureza satisfativa e, portanto, não dependia da propositura de ação principal, especialmente diante da obrigação incontroversa da empresa recorrente de promover a descontaminação do local como forma de assegurar a tutela ambiental. Foram citados precedentes desta Corte Superior.
+Além disso, ao afastar a alegação de julgamento extra petita, a decisão agravada esclareceu que o que fora decidido no Tribunal de origem se manteve dentro dos limites do pedido inicial, interpretado de forma lógico-sistemática, nos termos da jurisprudência do Superior Tribunal de Justiça.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
