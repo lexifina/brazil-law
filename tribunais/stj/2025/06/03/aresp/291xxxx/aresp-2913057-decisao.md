@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TRANSPORTADORA SIMARELLI LTDA E OUTROS contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/2/2025.
+Concluso ao gabinete em: 26/5/2025.
+Ação: Rescisória ajuizada pelas agravantes.
+Acórdão: julgou improcedente a ação rescisória, nos termos da ementa a seguir (fls. 1.434-1.436):
+AÇÃO RESCISÓRIA FUNDADA EM VIOLAÇÃO À NORMA JURÍDICA (ART. 966, V, CPC) - INOCORRÊNCIA A ação rescisória funda-se em manifesta violação à norma jurídica, por não ter reconhecido a prescrição da pretensão (art. 206, § 3º, VII, "b", Código Civil; art. 966, V, CPC) Acórdão rescindendo proferido pela e. 1ª. Câmara Reservada de Direito Empresarial, que manteve sentença que decretou a dissolução parcial de sociedade e reconheceu a responsabilidade solidária dos ora autores - Os autores alegam que houve prescrição trienal da pretensão, nos termos do art. 206, § 3º, VII, "b", Código Civil - Não acolhimento - Improcedência da ação.
+1. Inocorrência da violação à norma jurídica. O fato de o acórdão rescindendo não ter admitido em sede de embargos de declaração a alegação de prescrição não constitui violação manifesta de norma jurídica. A prescrição não foi alegada oportuna e tempestivamente nas instâncias ordinárias, tendo sido arguida tão somente em sede de Embargos de Declaração, que foram rejeitados porque não houve contradição, omissão ou obscuridade. O acórdão rescindendo rejeitou a alegação de prescrição, sob o fundamento de que os embargos de declaração, tendo natureza meramente integrativa, não se destinam à análise de matéria (ainda que cognoscível de ofício) não arguida nem debatida anteriormente.
+2. Ação declaratória. Inocorrência de prescrição. Não se pode falar em prescrição. A ré EDNEIA pediu a dissolução parcial (retirada) da sociedade TRANSPORTADORA SIMARELLI e a "declaração" da responsabilidade solidária dos sócios da empresa LOGÍSTICA SIMARELLI, pretensões que não se sujeitam a prazo prescricional. O direito do sócio de postular a retirada do quadro social encerra direito potestativo; e o pedido de reconhecimento de responsabilidade solidária tem natureza meramente declaratória, pretensão que não se sujeita à prescrição.
+3. Termo inicial. Inocorrência de prescrição. Ainda que se pudesse cogitar de prazo prescricional, como insistem os autores, o termo inicial a prescrição da pretensão contra os sócios é a data do "balanço referente ao exercício em que a violação tenha sido praticada" (art. 206, § 3º, VII, "b", c.c art. 1.020 e 1.065, Código Civil), fato a respeito da qual os ora autores sequer cogitaram.
+4. A ação rescisória tem cabimento em situação excepcional, por envolver a desconstituição de um direito e garantia constitucional, que é a coisa julgada (art. 5º, XXXVI, CF) - AÇÃO RESCISÓRIA IMPROCEDENTE.
+Recurso especial: alega violação dos arts. 726; 966, V, e 1.022, todos do CPC; 189 e 206, § 3º, VIII, "b", ambos do CC. Além de negativa de prestação jurisdicional, sustenta que "(i) se a parte interessada interpôs o recurso de apelação na ação originária tempestivamente, (ii) se o tribunal não conheceu de questão jurídica que podia ser conhecida de ofício por ser de ordem pública (jurisprudência do STJ), (iii) se insistiu em não a conhecer mesmo com a oposição de embargos de declaração apontando -a especificamente, então, se de fato se verificar que houve prescrição (como se demonstrará no capítulo subsequente), trata-se de hipótese de aplicação do CPC, art. 966, V, por ter havido violação manifesta de norma jurídica no julgado rescindendo" (fl. 1.463).
+Afirma, ainda, a ocorrência de prescrição trienal da pretensão da agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de violação manifesta à norma jurídica, como pressuposto para a análise da ação rescisória, bem como a não ocorrência de prescrição (fls. 1.433-1.449), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/SP, ao analisar a ação proposta pelos agravantes, concluiu o seguinte (e-STJ fls. 1.444-1.449):
+Relembrando, a prescrição não foi alegada oportuna e tempestivamente nas instâncias ordinárias, tendo sido arguida tão somente em sede de Embargos de Declaração, após a sua apelação ter sido desprovida.
+Daí a razão de o v. acórdão rescindendo ter rejeitado a alegação de prescrição, ao fundamento de que os embargos de declaração, tendo natureza meramente integrativa, não se destinam à análise de matéria (ainda que cognoscível de ofício) não arguida nem debatida anteriormente.
+Em outras palavras, a rescindibilidade por ofensa manifesta à norma jurídica pressupõe que a interpretação conferida pelo julgador, no ato rescindendo, esteja totalmente fora dos parâmetros fixados pelos princípios e regras de direito, em total descompasso com a doutrina e a jurisprudência, situação que não se revela no presente caso.
+No caso em debate, se no acórdão rescindendo constou não ser possível em sede de Embargos de Declaração acrescentar matéria não debatida anteriormente, à evidência que não houve violação manifesta à norma jurídica.
+ .. .
+2.2. Ação declaratória. Inocorrência de prescrição. Em segundo lugar, que não se pode falar em prescrição. A ora ré EDNEIA pediu a dissolução parcial (retirada) da sociedade TRANSPORTADORA SIMARELLI e a "declaração" da responsabilidade solidária dos sócios da empresa LOGÍSTICA SIMARELLI, pretensões que não se sujeitam a prazo prescricional.
+O direito do sócio de postular a retirada do quadro social encerra direito potestativo; e o pedido de reconhecimento de responsabilidade solidária tem natureza meramente declaratória, pretensões que não se sujeitam à prescrição.
+2.3. Termo inicial. Inocorrência da prescrição. Terceiro, ainda que se pudesse cogitar de prazo prescricional, como insistem os autores, o termo inicial a prescrição da pretensão contra os sócios é a data do "balanço referente ao exercício em que a violação tenha sido praticada" (art. 206, § 3º, VII, "b", c.c art. 1.020 e 1.065, Código Civil), fato a respeito da qual os ora autores sequer cogitaram.
+Noutras palavras, a prescrição da ação de reparação de um sócio contra o outro sócio tem seu termo inicial a data do balanço.
+No caso vertente, EDNEIA era sócia da TRANSPORTADORA SIMARELLI LTDA. - e não da LOGÍSTICA SIMARELLI -, daí porque ter requerido a declaração de responsabilidade solidária dos sócios da SIMARELLI.
+Como se percebe, o art. 206, VII, "b", Código Civil, não tem aplicação na hipótese em apreço, seja porque EDNÉIA não era sócia da LOGÍSTICA SIMARELLI LTDA.
+(e sim da TRANSPORTADORA) para pedir indenização contra os demais sócios, seja porque os demais sócios (ora autores) em momento algum demonstraram a apresentação do balanço, data a partir da qual teria início o prazo prescricional.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação Rescisória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
