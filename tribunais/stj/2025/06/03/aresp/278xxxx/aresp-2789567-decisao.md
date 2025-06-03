@@ -1,0 +1,25 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 668/669, in verbis:
+LEANDRO DE SOUZA MARCOS interpõe Agravo em Recurso Especial da decisão do Vice-Presidente do Tribunal de Justiça de São Paulo que inadmitiu o recurso contra o acórdão proferido pela 11ª Câmara de Direito Criminal, por meio do qual se negou provimento à apelação para manter a condenação, por infração ao art. 33, caput, c.c o art. 40, III, da Lei nº 11.343/06, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 583 dias-multa, de valor unitário mínimo O Agravante aponta violação ao art. 33, § 4º, da Lei 11.343/06, sustentando a aplicação da minorante do tráfico privilegiado e a fixação de regime aberto (fls. 529/541).
+O Tribunal negou seguimento ao REsp com base nas Súmulas 284/STF e 7/STJ, em razão da ausência de impugnação dos fundamentos do acórdão e pela inviabilidade do reexame da matéria fática (fls. 614/616), ensejando a interposição do Agravo, com a finalidade de ver conhecido o Recurso Especial.
+Aduz o Agravante estarem presentes os requisitos de admissibilidade recursal para acesso à via excepcional, sendo inaplicáveis, portanto, os impeditivos recursais invocados (fls. 627/630).
+Contraminuta às fls. 648/651 pelo não conhecimento do Agravo, por incidência da Súmula 182/STJ, e, no mérito, pelo não provimento do recurso.
+Opinou o Parquet pelo não conhecimento do agravo em recurso especial (e-STJ fls. 668/670).
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+No entanto, não há como conhecer da irresignação. Senão vejamos.
+Para que o recurso especial seja considerado admissível, é necessária a indicação dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão recorrido teria afrontado cada um deles, providência da qual não se desincumbiu o ora recorrente.
+Nas razões recursais, acerca da agravante da incidência da minorante, o recorrente afirma que "a R. Sentença de primeiro grau, referendada pelo V. Acordão, deixaram de aplicar o redutor, pura e simplesmente porque "os policiais militares afirmaram que o recorrente é conhecido pela prática do comércio ilícito, o que demonstra a condição de traficante" (MAS NUNCA FOI PROCESSADO- (uma única vez e o Promotor, não denunciou pediu a extinção do processo) (certidão 4149671- às págs. 32/33)" (e-STJ fl. 529).
+No ponto, o acórdão ora atacado assentou que (e-STJ fls. 515/519, grifei):
+Assim, fica mantido o aumento de 1/6 e a pena definitivamente estabelecida em 5 anos e 10 meses de reclusão e 583 dias- multa, de valor unitário mínimo, anotando-se que não era mesmo razoável a aplicação da regra prevista no art. 33, § 4º, da Lei nº 11.343/06, pois, de fato, o acusado vinha se dedicando à atividade ilícita e estava envolvido com o tráfico de drogas.
+Afinal, como se viu pelas conversas transcritas no laudo de fls. 268/289, há pelo menos três meses o acusado vendia entorpecentes, fato que já era de conhecimento policial e justificou a abordagem realizada.
+Vale dizer, não se tratava o acusado de um traficante eventual, de modo que realmente não faz jus ao benefício.
+Pelos mesmos motivos e considerando que a pena é superior a quatro anos, o regime imposto para o cumprimento da reprimenda deve mesmo ser o inicial semiaberto (art. 33, §2º, do Código Penal), nos moldes do que foi determinado na r. sentença recorrida, fato que também impede qualquer tipo de substituição da pena privativa de liberdade.
+Finalmente, considerando que a droga foi apreendida dentro do carro do réu; que o laudo de fls. 268/289 indica seu envolvimento com o tráfico há algum tempo e como os policiais informaram que as denúncias indicavam especificamente que, além de prestar serviço de "Uber", ele realizava a entrega do entorpecente com o automóvel que conduzia, é possível concluir que o utilizava, de fato, para o transporte do entorpecente.
+Da mesma forma e pelos mesmos motivos, é possível concluir que empregava o celular para efetuar as transações ilícitas e, ainda, que o valor apreendido é proveniente do comércio espúrio, de sorte que o perdimento do bem e valores é consequência da condenação, sendo impossível sua restituição na forma pretendida pela Defesa.
+Desse modo, o inconformismo apresenta fundamentação dissociada das razões expostas no acórdão recorrido, pois não atacou especificamente o ponto principal do acórdão, qual seja, as conversas transcritas no laudo pericial do aparelho celular do ora recorrente, as quais demonstraram a traficância há pelo menos três meses, impedindo, assim, a exata compreensão da controvérsia (Súmula n. 284/STF).
+Ademais, mantida a incidência da minorante, fica prejudicado o pedido de fixação de regime de pena mais brando.
+Não vislumbro, portanto, a sustentada ilegalidade na dosimetria da pena do recorrente.
+Assim, conheço do agravo para não conhecer o recurso especial.
+Publi que-se. Intimem-se.
+EMENTA
