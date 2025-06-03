@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de pedido no habeas corpus formulado em favor de JOSÉ IRAN ALVES DOS SANTOS, em que se pretende a extensão da ordem concedida ao paciente, ALSIMAR LUIZ BISCARO.
+O requerente alega, em síntese, que " a  decisão reconheceu a ausência de elementos concretos que justificassem a manutenção da segregação cautelar, concluindo que Alsimar, mesmo sendo apontado como o líder do suposto esquema de fraudes em licitações, não representava risco à ordem pública, econômica ou à instrução criminal." (e-STJ, fl. 157).
+No ponto, afirma que: "A posição de José Iran no suposto esquema era claramente subordinada e subalterna em relação a Alsimar, reconhecido como líder da organização. Assim, se o Superior Tribunal de Justiça considerou desnecessária a prisão preventiva de Alsimar, é ainda mais desproporcional a manutenção da custódia de José Iran, cuja participação foi ínfima e sem qualquer autonomia ou comando." (e-STJ, fl. 159).
+Busca demonstrar o preenchimento dos requisitos objetivos e subjetivos necessários à aplicação do art. 580 do CPP e requer a concessão da ordem liminar para que haja " a  extensão dos efeitos da decisão proferida no Agravo Regimental no HC nº 961070/SC ao requerente José Iran Alves dos Santos, com a revogação de sua prisão preventiva; Subsidiariamente, a aplicação de medidas cautelares diversas da prisão, conforme previsto no art. 319 do CPP, adequando a resposta penal à realidade fática e jurídica do requerente." (e-STJ, fl. 160).
+O Ministério Público Federal se manifesta pelo indeferimento do pedido, conforme a seguinte ementa (e-STJ, fl. 172):
+PEDIDO DE EXTENSÃO NO HABEAS CORPUS. ART. 580 DO CPP. REVOGAÇÃO DE PRISÃO PREVENTIVA. NÃO COMPROVAÇÃO DE IDENTIDADE FÁTICO-JURÍDICA ENTRE OS ACUSADOS. PELO INDEFERIMENTO DO PEDIDO.
+Na Petição n. 00193035/2025, a parte requerente reitera o pedido de extensão dos efeitos e informa que (e-STJ, fls.181/182):
+Em apertada síntese, o requerente é corréu do paciente Alsimar Luiz Biscaro e Marcos José Medeiros soltos por este Superior Tribunal no HC 961070/SC e HC 952876/SC, respectivamente, e foi denunciado pelo MPSC na operação denominada "Fundraising" (ação penal 5002439-30.2024.8.24.0060) em razão da apuração de irregularidades supostamente ocorridas na prefeitura de Ipuaçu/SC, especificamente no que tange a realização de licitações fraudulentas.
+ ..
+Dos onze réus presos, nove deles, a maioria com funções de estado (prefeitos e secretários) e o líder da suposta organização (Alsimar, paciente solto neste HC), já se encontram fora do sistema prisional, restando apenas o requerente e o corréu Ramon Oliveira de Araújo ainda presos.
+Após o despacho solicitando informações e vista ao Ministério Público Federal, as informações foram prestadas às fls. 677/689 (e-STJ) e o Orgão Ministerial se manifesfa pela prejudicialidade do pedido, por perda de objeto (e-STJ, fls. 696/698).
+É o relatório. Decido.
+O pedido está prejudicado.
+Verifica-se a perda superveniente do objeto do pedido de extensão dos efeitos benéficos ao corréu, uma vez que o requerente encontra-se em liberdade, cumprindo medida cautelar alternativa à prisão, conforme registrado nas informações prestadas pelo respeitável Tribunal de origem (e-STJ, fl. 687):
+O réu José Iran Alves dos Santos impetrou Habeas Corpus Criminal, registrado sob o número 5083876-79.2024.8.24.0000, no qual a 4ª Câmara Criminal decidiu "por unanimidade, conhecer e conceder parcialmente o pedido de ordem, a fim de substituir a prisão preventiva por medidas cautelares mais brandas, sem prejuízo de outras que o juízo a quo entender cabíveis e adequadas" (evento 897, DOC2).
+O réu foi colocado em liberdade (evento 915, DOC1).
+De modo a dar fiel e integral cumprimento à decisão extraída do Egrégio Tribunal de Justiça de Santa Catarina, determinou-se a expedição de alvará de soltura do réu Ramon Oliveira de Araujo (evento 1025, DOC1 e evento 1041, DOC1).
+Com efeito: "Encontra-se prejudicado o pedido de extensão dos efeitos da decisão que concedeu liminarmente o habeas corpus para a soltura do paciente, pois, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que o Juiz de primeiro grau concedeu liberdade provisória ao requerente em 21/9/2022." (AgRg no HC n. 767.175/SP, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+No mesmo sentido:
+PEDIDO DE EXTENSÃO EM RECURSO EM HABEAS CORPUS. OPERAÇÃO CALÍGULA. PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA CONCEDIDA AO PETICIONANTE. PEDIDO DE EXTENSÃO PREJUDICADO.
+1. Pedido de extensão aviado em expediente avulso no âmbito da denominada "Operação Calígula", que apura a existência de organização criminosa voltada a prática de diversos delitos, dentre os quais, nestes autos, corrupção ativa e passiva.
+2. O material colhido em sede pré-processual deu origem a quatro ações penais, encontrando-se a conduta do peticionante enquadrada no possível exercício de gestão operacional das atividades ilícitas da organização criminosa, em especial através do gerenciamento de estabelecimentos ilegais dedicados à exploração de jogos de azar do acertamento de acertos corruptivos com agentes estatais para viabilizar a existência e manutenção das atividades ilícitas.
+3. O peticionante encontra-se em liberdade, de modo que, cessada a restrição apontada no pleito extensivo, a pretensão de concessão de ordem de "habeas corpus" se mostra prejudicada, conforme pacífica jurisprudência desta corte 4. Pedido de extensão prejudicado.
+(PExt no RHC n. 173.121/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024.)
+Ante o exposto, julgo prejudicado o pedido de extensão (e-STJ, fls. 156/161 e fls. 181/667), formulado por JOSÉ IRAN ALVES DOS SANTOS.
+Publique-se.
+Intimem-se.
+EMENTA
