@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto por CSU DIGITAL S/A contra a decisão às fls. 593-594, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial diante do óbice da Súmula 182 do STJ.
+O agravante sustenta, em síntese, que não incide a referida súmula, uma vez que impugnou especificamente todos os fundamentos da decisão de admissibilidade do Tribunal de origem.
+Rememora-se que, na origem, a contribuinte ajuizou ação de repetição de indébito, alegando cobrança indevida de honorários advocatícios extrajudiciais em parcelamento de débitos tributários. Deu-se, à causa, o valor de R$ 173.587,70 (cento e setenta e três mil, quinhentos e oitenta e sete reais e setenta centavos).
+Na sentença, julgou-se improcedente a pretensão da autora, considerando legal a cobrança de honorários advocatícios administrativos. A apelação foi improvida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO. O referido acórdão foi assim ementado, in verbis:
+"APELAÇÃO CÍVEL Ação de Repetição de Indébito ISS dos exercícios de 2016 e 2017 Não ocorrência de nulidade da intimação das apelantes sobre a decisão de improcedência do recurso administrativo - Meio eletrônico utilizado por ambas as partes - Ausência de prejuízo ou cerceamento de defesa - Validade da inscrição dos débitos em dívida ativa e dos competentes ajuizamentos dos feitos executivos em data anterior ao parcelamento administrativo dos débitos - Cabimento da cobrança de honorários extrajudiciais, nos termos do art. 286, §4º, do Código Tributário Municipal - Sentença de improcedência mantida - Sucumbência recursal - Recurso não provido."
+Os embargos de declaração opostos foram rejeitados.
+No apelo nobre, a CSU DIGITAL S/A aponta violação dos arts. 489 e 1.022, do CPC/2015, sustentado, em síntese, que o Tribunal de origem foi omisso ao não enfrentar questão jurídica relevante.
+Adiante, aduz inobservância dos arts. 15 e 246, do CPC/2015, argumentando, em suma, que a intimação eletrônica não seria válida, uma vez que não havia previsão no Código Tributário Municipal, o que invalidaria a inscrição dos débitos em dívida ativa e a cobrança de honorários advocatícios.
+Na sequência, afirma ofensa aos arts. 151, II e 201, do CTN, argumentando, em resumo, que a exigibilidade do crédito tributário estava suspensa devido à pendente discussão administrativa, o que impossibilitava a inscrição em dívida ativa e o ajuizamento de Execução Fiscal.
+Contrarrazões apresentadas às fls. 351-361.
+É o relatório. Decido.
+Assiste razão ao recorrente, devendo a decisão agravada ser reconsiderada, tornando-a sem efeito e observada a cognoscibilidade do agravo passasse à análise do recuso especial.
+Quanto à alegada afronta aos arts. 489, II, §1º, IV, e 1.022 do CPC/2015, verifica-se que o acórdão recorrido examinou a controvérsia dos autos, fundamentando suficientemente sua convicção, e não havendo se falar em omissões porque inocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: REsp 1808357/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019 e EDcl no AgInt no AREsp 1422337/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/9/2019, DJe de 12/9/2019 e AgInt no REsp 1780519/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.
+Além disso, verifica-se que o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Complementar Municipal nº 118/2002, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Por fim, quanto aos demais dispositivos apontados como violados, verifica-se que as matérias constantes de tais regramentos não foram ventiladas no acórdão recorrido, o que impede o exame das teses do recorrente, pela falta do devido prequestionamento, incidindo o teor da súmula 282/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Majoro em 1% (um ponto percentual) os honorários advocatícios fixados no acórdão recorrido, nos termos do art. 85, § 11, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
