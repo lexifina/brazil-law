@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual alega violação do art. 189 do Código Civil e dos arts. 135 e 174 do Código Tributário Nacional - CTN e sustenta não ter ocorrido a prescrição da pre tensão de redirecionamento de processo executivo fiscal contra o sócio gerente da pessoa jurídica devedora.
+Embargos de declaração rejeitados.
+Com contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 271-274):
+Verifica-se que já havia transcorrido o prazo prescricional de cinco anos, contados da citação da empresa devedora, quando solicitado pela Fazenda Pública, o redirecionamento da ação contra os sócios da empresa executada.
+Com efeito, a citação da executada ocorreu em 03.06.93 (fls. 40), e o pedido de inclusão dos sócios no polo passivo apresentado apenas em 03.06.08 (fls. 132/144).
+O Colendo Superior Tribunal de Justiça, em reiteradas decisões tem se manifestado no sentido de que o redirecionamento da execução contra o sócio deve se dar no prazo de cinco anos da citação da pessoa jurídica, conforme se verifica dos julgados abaixo elencados:
+ ..
+De fato, observe-se que também já havia transcorrido o prazo prescricional de cinco anos, contados do despacho que ordenou a citação da empresa devedora, quando solicitado pela Fazenda Pública, o redirecionamento da ação contra os sócios da empresa executada.
+O despacho que ordenou a citação da executada ocorreu em 31.05.93 (fls. 19) e o pedido de inclusão dos sócios no polo passivo apresentado apenas em 03.06.08 (fls. 132/144).
+Deste modo, inarredável o reconhecimento da prescrição, de rigor a manutenção da decisão impugnada.
+Interposto recurso especial, com a definição de tese em precedente qualificado, os autos retornaram ao órgão julgador para juízo de conformação, ocasião em que não houve retratação (fls. 339-346):
+AGRAVO DE INSTRUMENTO - DEVOLUÇÃO DOS AUTOS PARA READEQUAÇÃO/MANUTENÇÃO DO JULGADO À LUZ DO TEMA 444/STJ - ICMS - Determinação do Exmo . Presidente da Seção de Direito Público deste Tribunal de Justiça para o exercício do juízo de conformidade Redirecionamento por fundamento diverso da dissolução irregular, de modo que a orientação fixada no Tema 444 não tem aplicabilidade - Falência da devedora - Admissivel o redirecionamento da execução apenas contra o sócio com poder de gerência - Súmula 430 e Tema 962 ambas do STJ Com fundamento acrescido , sem retratação do julgado. RECURSO NÃO PROVIDO
+Pois bem.
+A Primeira Seção deste Tribunal Superior, em 8 de maio de 2019, no julgamento do REsp 1.201.993/SP, repetitivo, definiu tese a respeito do prazo prescricional para o redirecionamento do processo executivo fiscal, segundo o qual o prazo de 5 anos para o redirecionamento da execução fiscal ao sócio-gerente deve ser contado da citação da pessoa jurídica, na hipótese em que o ato ilícito do art. 135, inc. III, do CTN for precedente a esse ato processual; todavia, se o ato ilícito for posterior à citação, o prazo prescricional se inicia a partir da "data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário" (tema 444).
+No caso dos autos, o recurso sequer deveria ter sido admitido, tendo em vista o acórdão recorrido se revelar em conformidade com a tese firmada pela Primeira Seção no precedente qualificado.
+De fato, se a dissolução irregular ou infração à lei praticada pelo dirigente foi posterior à citação e a Fazenda Públ ica não pediu o redirecionamento no prazo de 5 anos, deve-se reconhecer a prescrição da pretensão de redirecionamento ao sócio.
+Ademais, "entendimento diverso sobre a ocorrência da dissolução irregular, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial"(AgInt nos EDcl no REsp n. 1.852.138/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO A SÓCIO-GERENTE APÓS CINCO ANOS DA SUPOSTA DISSOLUÇÃO IRREGULAR OCORRIDA POSTERIORMENTE À CITAÇÃO DA PESSOA JURÍDICA. ACÓRDÃO RECORRIDO PELA PRESCRIÇÃO. CONFORMIDADE COM A TESE FIRMADA EM PRECEDENTE QUALIFICADO. REVISÃO. SÚMULA N. 7/STJ. RECURSO NÃO CONHECIDO.
