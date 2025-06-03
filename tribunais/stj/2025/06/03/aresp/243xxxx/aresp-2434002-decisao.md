@@ -1,0 +1,14 @@
+DECISÃO
+VINICIUS VALENTE SOUZA agrava da decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, no Recurso em Sentido Estrito n. 1.0079.19.018623-3/001.
+O agravante, no recurso especial, aponta a violação dos arts. 395, III, 619, ambos do CPP, 121, § 2º, I e IV, do CP e 1.022, I e II, do CPC, em razão do recebimento da "denúncia pela suposta prática do crime de homicídio qualificado, sem apresentar fundamentação válida" (fl. 754). Entende que o Tribunal estadual deixou de se manifestar acerca de questões suscitadas pela defesa.
+Requer o provimento da insurgência, a fim de que seja restabelecida a decisão que rejeitou a denúncia e, subsidiariamente, para que seja determinado o retorno dos autos à Instância a quo, a fim de que supra a omissão apontada nos embargos de declaração opostos na origem.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal de origem e o Ministério Público Federal opinou pelo não conhecimento ou pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, verifico que não comporta conhecimento, porquanto, de plano, verifico a superveniente perda do interesse-utilidade deste recurso especial, o que prejudica a análise do pedido.
+Em consulta à página eletrônica do Tribunal estadual, colheu-se a informação de que o agravante foi pronunciado, decisão que foi ratificada pelo Tribunal estadual, que negou provimento ao recurso defensivo.
+Quanto ao ponto, ressalto que, se, após toda a análise do conjunto fático-probatório amealhado aos autos ao longo da instrução criminal, já houve um pronunciamento mais abrangente sobre a persecução penal (denotando não só a aptidão da inicial acusatória, mas também, a necessidade de remessa do julgamento ao conselho de sentença), não há mais sentido em se analisar, nesta via, o argumento de ausência de justa causa para o recebimento da denúncia.
+Diante de tal cenário, outra solução não há, senão reconhecer a inexistência do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6. ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
