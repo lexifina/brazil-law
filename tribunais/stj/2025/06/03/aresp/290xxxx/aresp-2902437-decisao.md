@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SUELI MARIA MEDINA PONCIO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA SOBRE INSCRIÇÃO NO SCR. IMPROCEDÊNCIA DOS PEDIDOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta pela autora contra sentença que julgou improcedentes os pedidos de declaração de inexistência de débito e indenização por danos morais, diante da ausência de notificação prévia sobre a inclusão de débitos no Sistema de Informações de Crédito (SCR) pelos bancos réus.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar (i) se houve prescrição ou decadência do direito da autora; (ii) a origem e legitimidade dos débitos; e (iii) se a ausência de notificação prévia sobre a inclusão no SCR gera direito à indenização por danos morais.
+III. RAZÕES DE DECIDIR
+3. Não há prescrição ou decadência, considerando que o prazo de 5 anos para a anotação de prejuízo não foi ultrapassado.
+4. A autora não comprovou a irregularidade dos débitos, sendo que os documentos apresentados pelos réus demonstram a origem do débito.
+5. A ausência de notificação prévia sobre a inclusão no SCR não gera direito à indenização, conforme entendimento consolidado de que cabe ao órgão mantenedor do cadastro, e não às instituições financeiras, a responsabilidade pela notificação prévia ao devedor.
+IV. DISPOSITIVO 6. Recurso conhecido e desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 6º, VIII, 14 e 43, § 2º, do CDC e ao art. 186 do CC, no que concerne ao cabimento de compensação por danos morais morais diante da responsabilidade objetiva da instituição financeira pela inscrição indevida em cadastro de inadimplentes e à inversão do ônus da prova, trazendo a seguinte argumentação:
+Na espécie, observa-se que o recorrido Banco Senfi S.A. não apresentou quaisquer documentos contratuais que fundamentassem a inscrição questionada ou comprovassem a suposta inadimplência da consumidora. Além disso, não demonstrou ter notificado a recorrente acerca da referida inscrição.
+ ..
+Dessa forma, o argumento de que a existência de registro exclusivamente como "vencido" não configuraria ato ilícito encontra-se em dissonância com o artigo 186 do Código Civil, o qual dispõe que comete ato ilícito todo aquele que, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outrem, ainda que de natureza exclusivamente moral.
+Tendo em vista o caráter restritivo do Sistema de Informações de Crédito (SCR), qualquer registro irregular que prejudique a reputação de bom pagador impõe o dever de indenizar, independentemente de estar classificado como "vencido" ou "prejuízo", pois tal distinção se relaciona apenas ao tempo de inadimplência supostamente verificado.
+Analogamente, seria o mesmo que admitir a licitude de um registro indevido no Serasa/SCP sob o argumento de que a inscrição possui menos de 180 dias. A simples inclusão de um registro indevido, por si só, gera o dever de reparação, independentemente do tempo decorrido.
+No que tange à pretensão contra o Banco BMG S.A., cumpre mencionar fato superveniente que comprova a ilicitude da inscrição, uma vez que o registro decorre de contrato de cartão de crédito consignado cuja nulidade e cancelamento dos débitos foram expressamente reconhecidos pela própria instituição em acordo homologado nos autos nº 0300791-80.2019.8.24.0002.
+ ..
+De acordo com os precedentes do Superior Tribunal de Justiça, a responsabilidade pela comunicação e pela veracidade dos dados inseridos no Sistema de Informações de Crédito (SCR) do SISBACEN, de natureza pública e distinta dos cadastros privados como SERASA e SPC, cabe à instituição financeira credora, que deve zelar pela notificação prévia ao consumidor:
+ ..
+Portanto, é inequívoco que a instituição financeira possui responsabilidade objetiva pelos danos causados ao consumidor em decorrência da inscrição indevida em cadastro de inadimplentes, bem como pelo dever de notificação prévia ao consumidor.
+Ademais, reconhecida a responsabilidade objetiva das rés pela ausência de notificação prévia e comprovação da regularidade da inscrição, impõe-se a condenação ao pagamento de indenização por danos morais, amplamente admitida independentemente de prova do dano.
+ ..
+Ante o exposto, requer-se seja admitido e provido o presente recurso especial, reconhecendo-se a violação à inversão do ônus da prova e a responsabilidade objetiva das instituições financeiras pela ausência de notificação prévia da consumidora e pela inscrição indevida em cadastro de inadimplentes, com a consequente condenação das recorridas ao pagamento de indenização por danos morais (fls. 527/530).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+No tocante à anotação de "prejuízo", efetuada pelo réu BANCO BMG S.A, considera-se que a comunicação restou cumprida, quando da menção no contrato (evento 23, OUT4, fl. 3), assinado pela autora, diante do disposto na cláusula 11.6, (v), abaixo colacionada:
+ ..
+É de se frisar, de acordo com o disposto na norma específica, que a exigência da comunicação não é individual, ou seja, para cada anotação realizada no sistema, de modo que, atendida a comunicação com a cláusula expressa no contrato. Dessa forma, não tendo sido comprovada a irregularidade do débito, como bem apontado na sentença, o réu agiu no exercício regular de seu direito, não configurando ato ilícito a ensejar qualquer reparação.
+ ..
+Ante o exposto, inexistindo ato ilícito, prejudicada a discussão sobre os danos morais e a sentença é mantida em sua integralidade (fls. 510/511)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
