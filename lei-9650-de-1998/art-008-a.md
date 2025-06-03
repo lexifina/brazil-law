@@ -1,0 +1,1 @@
+Art. 8º-A. A partir de 1º de janeiro de 2025, a estrutura dos cargos da Carreira de Especialista do Banco Central do Brasil passa a ser a constante do Anexo II-B, observada a correlação estabelecida na forma do Anexo II-C.
