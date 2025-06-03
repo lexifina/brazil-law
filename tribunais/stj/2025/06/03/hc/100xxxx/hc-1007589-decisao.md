@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WELLON PEREIRA LIMA, em que se aponta como autoridade coatora a 9ª Câmara Criminal do Tribunal de Justiça de Minas Gerais (fl. 2).
+Na inicial, a defesa informa que o paciente cumpre pena privativa de liberdade em regime semiaberto na Comarca de Ipatinga/MG (fl. 3). A defesa postulou a remição de 60 dias de pena em virtude da aprovação em três áreas do ENEM, com base nos arts. 126, § 1º, inciso I da LEP e art. 3º, parágrafo único da Resolução 391/2021 do CNJ, mas o pedido foi indeferido pelo magistrado singular (fls. 3-4).
+Alega que o habeas corpus não foi conhecido pelo Tribunal de Justiça de Minas Gerais, sob o fundamento de que não é a via adequada para discutir matérias de execução penal (fl. 3).
+Sustenta que há constrangimento ilegal, pois a remição de pena pelo estudo visa à ressocialização do condenado, e que o Superior Tribunal de Justiça admite a remição de pena pela aprovação parcial no ENEM, mesmo sem conclusão do ensino médio (fls. 5-8).
+Afirma que a concessão da remição anteciparia a progressão de regime para 4 de junho de 2025, ao invés de 3 de agosto de 2025, conforme cálculos apresentados (fl. 5).
+No mérito, requer a concessão liminar da ordem para que sejam concedidos ao paciente 60 dias de remição, ou alternativamente, que o Tribunal de Justiça reanalise o habeas corpus impetrado (fls. 9-10).
+Por fim, pede o recebimento e regular processamento do feito para que seja concedida definitivamente a ordem impetrada (fl. 10).
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, a possibilidade de remição pela aprovação parcial no ENEM, posto que sequer conheceu do habeas corpus de origem.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Vale ressaltar que a ausência de apreciação do tema pelo Tribunal de origem não caracteriza indevida negativa de jurisdição, na medida em que se consignou que "a defesa do paciente interpôs agravo em execução e pugnou pela remição" (fl. 14). Desse modo, a impetração do habeas corpus em concomitância com o agravo em execução constitui afronta ao princípio da unirrecorribilidade, tal como entendeu a Corte local (fl. 14) .
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
