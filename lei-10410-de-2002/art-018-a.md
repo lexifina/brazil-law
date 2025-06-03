@@ -1,0 +1,1 @@
+Art. 18-A. Os atos de progressão funcional e promoção serão publicados, respectivamente, em Boletim Interno do órgão de lotação e no Diário Oficial da União, produzindo efeitos financeiros a partir do primeiro dia subsequente à data em que o servidor completou os requisitos exigidos.

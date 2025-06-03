@@ -1,0 +1,2 @@
+Art. 11-A. É vedada a remoção com mudança de sede do servidor recém nomeado antes de decorrido pelo menos 5 (cinco) anos de efetivo exercício na localidade para a qual tenha sido designado para ter o primeiro exercício.
+Parágrafo único. Excluem-se da vedação a que se refere o caput as hipóteses de remoção de que tratam o inciso I e as alíneas a, b e c do inciso III do art. 36 da Lei nº 8.112, de 11 de dezembro de 1990.

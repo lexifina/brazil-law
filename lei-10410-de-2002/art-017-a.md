@@ -1,0 +1,3 @@
+Art. 17-A. Cabe ao órgão de lotação ao qual o servidor esteja vinculado implementar programa permanente de capacitação, treinamento e desenvolvimento, destinado a assegurar a profissionalização dos titulares dos cargos integrantes da Carreira de Especialista em Meio Ambiente de que trata o art. 1º.
+§ 1º A capacitação e a qualificação observarão o Plano Anual de Capacitação com o objetivo de aprimorar a formação dos servidores do quadro de pessoal efetivo e o desempenho das atividades de cada unidade.
+§ 2º As necessidades de capacitação e qualificação do servidor cujo desempenho tenha sido considerado insuficiente serão priorizadas no planejamento do Plano Anual de Capacitação do órgão de lotação ao qual o servidor esteja vinculado.
