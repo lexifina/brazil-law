@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interno interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão proferida pela Presidência do Superior Tribunal de Justiça, às fls. 164-165 (e-STJ), a qual não conheceu do agravo, nos seguintes termos:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Em suas razões, a parte agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta com a suspensão do feito até o julgamento do Tema 1.033/STJ, isso porque "Em nenhum momento a Autarquia Previdenciária questiona os marcos temporais apontados no acórdão recorrido, que são fatos incontroversos. O que se discute é o reconhecimento indevido de um deles (ajuizamento de protesto), pelo Tribunal de Origem, como marco interruptivo de prescrição, o que contraria o disposto no art. 204 do Código Civil de 2002 e é objeto do Tema 1033/STJ" (e-STJ, fl. 170).
+Impugnação apresentada às fls. 175-185 e 189-197 (e-STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do TRF da 4ª Região que não admitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 164-165 (e-STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC, e passo a novo exame do recurso especial.
+Entretanto, observo que a questão de direito tratada no recurso especial foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsps ns. 1.774.204/RS e 1.801.615/SP, relator Ministro Raul Araújo, julgadas em 15/10/2019, DJe de 30/10/2019, delimitaram o Tema 1.033 da seguinte forma: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas"
+Confira-se a respectiva ementa (grifos no original):
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp n. 1.801.615/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 15/10/2019, DJe de 30/10/2019.)
+Ademais, o Tema n. 1.033/STJ não se restringe ao Ministério Público, conforme se observa do seguinte trecho da Questão de ordem que desafetou a questão da Segunda Seção para afetá-la à Corte Especial:
+O presente recurso especial foi afetado para julgamento sob o rito dos recursos repetitivos pela deliberação colegiada da eg. Segunda Seção na sessão virtual de 09/10/2019 a 15/10/2019, para consolidar o tema referente à:
+"Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas em defesa do consumidor".
+Assim, destaque-se que, não obstante precedentes em sentido contrário (ad ex.: Aglnt no AREsp n. 1.386.943/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 19/9/2019), notável número de precedentes do Superior Tribunal de Justiça consagrou o entendimento de que o prazo de prescrição para a liquidação/execução individual da Sentença Coletiva exarada em sede de Ação Coletiva Substitutiva pode ser interrompido em virtude de protesto especifico ou de pedido de liquidação coletiva, interpostos por legitimado coletivo ou pelo Ministério Público.
+Junto a essa constatação, em melhor exame do precedentes que formaram essa maioria jurisprudencial, conclui-se que eles são provenientes das egs. 1ª, 2ª, 3ª e 4ª Turmas do Superior Tribunal de Justiça o que induz à compreensão de que a definição do tema deva dar-se perante a eg. Corte Especial.
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, mediante juízo de retratação, determino a devolução dos autos à Corte de origem do recurso especial, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.0337/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE AJUIZAMENTO DE AÇÃO DE PROTESTO POR LEGITIMIDADO PARA PROPOR DEMANDAS COLETIVAS. QUESTÃO QUE ABORDA A MATÉRIA CONTIDA NO TEMA 1.033/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM, MEDIANTE JUÍZO DE RETRATAÇÃO.
