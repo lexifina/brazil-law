@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a Concessionária Auto Raposo Tavares S/A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 729):
+DESAPROPRIAÇÃO DIRETA. DUPLICAÇÃO DA RODOVIA ENGENHEIRO JOÃO BAPTISTA CABRAL RENNÓ - SP-225, KM 242 670M AO KM 262-820M INDENIZAÇÃO. Perícia bem fundamentada que atende ao princípio da justa indenização (art. 5º, XXIV, CF). Observância da NBR 14.653-3/2004 da ABNT. Utilização do Método Comparativo. JUROS COMPENSATÓRIOS. Incidência de juros 6% ao ano, a partir da imissão na posse (art. 15-A do Decreto-Lei 3.365/41), nos termos do quanto decidido na ADI 2.332. JUROS MORATÓRIOS. Incidência de 6% ao ano, a partir do trânsito em julgado até a data do efetivo pagamento. JUROS COMPENSATÓRIOS E MORATÓRIOS. BASE DE CÁLCULO. A base de cálculo deve ser a diferença entre 80% do preço ofertado e a indenização. Possibilidade de cumulação dos juros compensatórios e moratórios. Expropriante que é pessoa jurídica de direito privado, e que não se submete ao pagamento pelo regime de precatórios (art. 15-B do Decreto-Lei 3.365/41). Aplicação das Súmulas 12 e 102 do STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. Incidência a partir do laudo pericial. LEVANTAMENTO DE DEPÓSITO. Necessidade de observância do art. 34 do Decreto-lei 3.365/41. HONORÁRIOS ADVOCATÍCIOS. Valor fixado dentro do limite do art. 27, § 1º, do Decreto-lei 3.365/41. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 752/754).
+A parte recorrente alega violação ao art. 39, VIII, da Lei 8.078/1990 e ao art. 473 do Código de Processo Civil (CPC), argumentando que o laudo pericial não seguiu as normas técnicas de avaliação, resultando em um valor de indenização que não reflete o preço de mercado.
+Sustenta ofensa ao art. 12 da Lei 8.629/1993, afirmando que a indenização não foi fixada de acordo com as regras de mercado.
+Aponta afronta aos arts. 15-A e 33 do Decreto-Lei 3.365/1941 sob a alegação de que os juros compensatórios devem incidir sobre a diferença entre o valor total depositado em juízo antes da imissão na posse e o valor da indenização, enquanto os juros moratórios devem incidir somente sobre o valor em atraso.
+Não foram apresentadas contrarrazões (fl. 776).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 781/801).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O recurso especial tem origem em ação de desapropriação promovida pela Concessionária Auto Raposo Tavares S/A, visando a duplicação de rodovia, com discussão sobre o valor da indenização fixado em sentença e os juros aplicáveis.
+O art. 39, VIII, da Lei 8.078/1990 e o art. 473 do Código de Processo Civil não foram apreciados pelo Tribunal de origem, nem foram objeto dos embargos de declaração apresentados.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Quanto à forma como foi fixada a indenização, estes são os exatos termos do acórdão recorrido (fl. 737):
+Restou tecnicamente justificada, pelo perito, a escolha da metodologia e dos imóveis utilizados, todos com características semelhantes às do imóvel avaliado, de modo que, as alegações da recorrente não sé mostram suficientes para infirmar o laudo pericial.
+A prova técnica não padece de qualquer irregularidade. Tem amparo nos demais elementos dos autos, e foi produzida por profissional de confiança equidistante das partes, sob o crivo do contraditório.
+O Tribunal de origem reconheceu a legitimidade das regras utilizadas pelo perito para chegar ao valor estabelecido para a indenização.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, confiram-se os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DESAPROPRIAÇÃO INDIRETA. VALOR INDENIZATÓRIO. LAUDO PERICIAL DO JUIZ. MOMENTO DA AVALIAÇÃO JUDICIAL. IMPOSSIBILIDADE DE REVISAR AS PREMISSAS DO ACÓRDÃO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. O acórdão recorrido, considerando as peculiaridade do caso concreto, arbitrou o valor da indenização baseado no momento da avaliação judicial do perito a fim de evitar evidente desequilíbrio econômico/financeiro entre as partes. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.511.197/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDO DE COMÉRCIO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ART. 932, III, DO CPC/2015. PERDA DO FUNDO DE COMÉRCIO. INDENIZAÇÃO DEVIDA. JURISPRUDÊNCIA PACÍFICA DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+4. A Corte de origem, ao fixar os valores devidos a título de indenização, consignou: "(..) o perito judicial se orientou pelo método de Fluxo de Caixa Descontado, pelo qual o valor do fundo de comércio é obtido através do desconto do fluxo de rendimentos futuros de uma empresa, a uma determinada taxa de juros, que variará em função do risco, isto é, do grau de incerteza futuro desse fluxo, consoante se infere às fls. 484 e 528.Com efeito, para se apurar o valor do fundo do comércio indenizável de ambas empresas aplicando-se a metodologia de fluxo de caixa descontado, baseou-se a expert no lucro líquido apurado a partir dos Demonstrativos de Resultados dos anos de 2004 a 2008 da empresa Magalhães Lanches e da Flash Lotérica. Não infirmado, portanto, o trabalho pericial este prevalece como justa indenização pela perda do fundo de comércio".
+Extrai-se do acórdão recorrido e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.214.147/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023.)
+Quanto aos juros compensatórios, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto de acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral com base no julgamento da ADI 2.332, em que foi estabelecido que a base de cálculo dos juros compensatórios deve ser a diferença entre 80% (oitenta por cento) do valor ofertado e a indenização fixada na sentença.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Já quanto aos juros moratórios, ao decidir que a base de cálculo deveria ser a diferença entre 80% (oitenta por cento) do valor ofertado e a indenização fixada na sentença, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, fixada nesse mesmo sentido, conforme se depreende dos julgados a seguir:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. VALOR DA INDENIZAÇÃO FUNDAMENTADO EM LAUDO PERICIAL. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N 07/STJ. INCIDÊNCIA DE JUROS COMPENSATÓRIOS EM AÇÃO DE DESAPROPRIAÇÃO, POR INTERESSE SOCIAL, PARA FINS DE REFORMA AGRÁRIA, AINDA QUE SOBRE IMÓVEL IMPRODUTIVO. BASE DE CÁLCULO DE JUROS MORATÓRIOS EQUIVALE À DIFERENÇA DOS 80% OFERTADOS E O VALOR DA CONDENAÇÃO. INCIDÊNCIA DA SÚMULA N. 83/STJ. VALOR DOS HONORÁRIOS ADVOCATÍCIOS EM SEDE DE DESAPROPRIAÇÃO. LIMITE DE 5%. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. FAZENDA PÚBLICA. CARÁTER EXCEPCIONAL, E NÃO AUTOMÁTICO. SÚMULA N. 83/STJ.
+ ..
+IV - A base de cálculo dos juros moratórios é a diferença dos 80% ofertados e o valor da condenação, sendo devido no 1º de janeiro do ano seguinte em que deveria ser paga a indenização.
+ ..
+VIII - Agravo Regimental improvido.
+(AgRg no REsp n. 1.411.984/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/10/2015, DJe de 9/11/2015.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INVIABILIDADE DE REEXAME DA PERÍCIA. SÚMULA 07/STJ. CABIMENTO DE JUROS COMPENSATÓRIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE INDENIZAÇÃO E TOTALIDADE DA OFERTA. LEVANTAMENTO INTEGRAL DESTA ÚLTIMA. SEIS POR CENTO AO ANO. ADI 2.332/DF.
+ ..
+4. Quando levantado integralmente o valor da oferta inicial, a base de cálculo dos juros compensatórios e dos juros moratórios é a diferença entre a indenização e totalidade da oferta.
+ ..
+6. Recurso especial conhecido parcialmente e, nessa extensão, parcialmente provido.
+(REsp n. 1.739.750/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/5/2022, DJe de 19/5/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
