@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SANTANA PASSOS EMPREENDIMENTOS E PARTICIPACOES LTDA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 352270-56.2013.8.05.0001. Segue a ementa (fls. 851-852):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. DUPLICIDADE DE REGISTRO EM CARTÓRIO DE REGISTRO DE IMÓVEIS. APELAÇÃO DA 2ª RÉ PROVIDA. APELAÇÃO DO 3º RÉU PARCIALMENTE PROVIDA.
+1. O STF, no julgamento do RE 842.846, aprofundou a análise acerca da responsabilidade civil dos tabeliães e oficiais de registro, ainda que em condição de delegatários, tendo concluído que a responsabilidade deles é de natureza subjetiva, dependendo, portanto, da prova da culpa ou dolo, bem assim que é do Estado a responsabilidade objetiva perante terceiros.
+2. Na sequência, o STF, no julgamento do RE 1027633, fixou tese que complementa o entendimento acima, tendo disposto que: "A teor do disposto no art. 37, § 6º, da Constituição Federal, a ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, sendo parte ilegítima para a ação o autor do ato, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa" (Tema 940 do STF).
+3. Preliminar de ilegitimidade passiva da 2ª Ré acolhida, por aplicação dos precedentes obrigatórios do STF.
+4. Dessa forma, em que pese a clara responsabilidade principal do Alienante (Réu revel), que vendeu imóvel que não mais lhe pertencia, não se pode afastar a responsabilidade subsidiária do Estado da Bahia, já que o negócio não teria se concretizado se não fosse a existência do registro em duplicidade do imóvel no Cartório do 6º Ofício.
+5. O valor da indenização, portanto, no caso presente deve corresponder ao valor do imóvel, na época em que se constatou a fraude (art. 450 d Código Civil), limitada, todavia, à quantia fixada na sentença, a fim de evitar reformatio in pejus.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) incidência da Súmula n. 284/STF; b) aplicação da Súmula n. 126/STJ; e c) não comprovação do dissídio jurisprudencial (fls. 1113-1122).
+Todavia, nas razões do agravo em recurso especial, a parte não impugnou de maneira específica a fundamentação atinente à incidência das Súmulas n . 284/STF e 126/STJ.
+Por conseguinte, aplicam-se à hipótese dos autos o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 987) , respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. DUPLICIDADE DE REGISTRO EM CARTÓRIO DE REGISTRO DE IMÓVEIS. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
