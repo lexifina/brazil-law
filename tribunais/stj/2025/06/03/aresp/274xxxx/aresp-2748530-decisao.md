@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (fls. 1989/1991) que inadmitiu recurso especial, em processo criminal em que consta como acusado KAMUS ALVIN PENGO BAZILIO BATISTA.
+Nas razões de recurso de agravo (fls. 1998/2002), articulou que não há necessidade de revolver matéria fática, mas apenas de tomar como base o narrado no acórdão recorrido. Pediu o provimento do agravo para, afastando a Súmula nº 7, STJ, dar trânsito ao recurso especial, o qual deve ser acolhido para anular o julgamento popular e submeter o agravado a novo júri.
+O Ministério Público Federal opinou pelo provimento do agravo e do recurso especial (fls. 2036/2040).
+É o relatório. DECIDO.
+Apesar da impossibilidade de, em recurso especial, promover discussão quanto a fatos e a provas (Súmula nº 7, STJ), não há empecilho à discussão jurídica a partir da moldura fática tida por incontroversa pelo tribunal de origem.
+É esse o horizonte de que ora se utiliza para enfrentar a alegação posta no recurso especial, em que se aponta violação ao art. 483, inciso III e § 2º, do Código de Processo Penal.
+O art. 483, inciso III e § 2º, do Código de Processo Penal não viabiliza absolvições arbitrárias, assim entendidas aquelas que não encontram lastro algum à vista da prova produzida nos autos. É que a soberania do júri (art. 5º, XXXVIII, "c", da Constituição Federal) não lhe confere poder incontrastável. Além disso, o sistema de avaliação de prova a partir da íntima convicção, a despeito de relativizar o controle acerca do decidido, não impede a aferição quanto à existência de mínima racionalidade, indispensável a legitimar o quanto resolvido pelo conselho de sentença.
+A esse respeito:
+"1. A soberania do Tribunal do Júri não é absoluta e deve estar calcada em elementos de prova.
+2. A anulação de decisão absolutória do Júri é possível quando manifestamente dissociada do contexto probatório".
+(AgRg no AREsp n. 2.657.479/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2024, DJEN de 3/12/2024.)
+Essa discussão já foi solvida, também, em âmbito constitucional, pelo Supremo Tribunal Federal, em julgamento sob o regime de repercussão geral, oportunidade em que se firmou a seguinte tese:
+"1. É cabível recurso de apelação com base no artigo 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos.
+2. O Tribunal de Apelação não determinará novo júri quando tiver ocorrido a apresentação, constante em ata, de tese conducente à clemência ao acusado, e esta for acolhida pelos jurados, desde que seja compatível com a Constituição, com os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas dos autos"
+(ARE 1225185, Relator(a): GILMAR MENDES, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 03-10-2024, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 13-12-2024 PUBLIC 16-12-2024).
+Firmadas essas premissas, consta na ata de julgamento reproduzida no acórdão proferido em embargos de declaração (fls. 1935/1941) que a defesa pediu a absolvição por ausência de prova quanto à participação do acusado, reiterando esse fundamento para o quesito genérico, caso assim entendesse o jurado. Observa-se, pois, que o único fundamento trazido foi o de negativa de participação. Não se individualizou razão que conduzisse à clemência, hipótese em que, de acordo com a tese firmada pelo Supremo, a absolvição no quesito genérico, no caso, seria viável.
+Assim, em conclusão que não se alinha a qualquer elemento factível, o jurado optou por absolver o acusado, a tornar a decisão manifestamente contrária à prova dos autos (art. 593, inciso III, "d", do Código de Processo Penal).
+Em caso similar, já decidiu esta 5ª Turma:
+"Na hipótese, os jurados, embora tenham reconhecido a materialidade e a autoria delitivas, responderam afirmativamente ao quesito genérico da absolvição, não obstante ser a negativa de autoria a única tese defensiva. Nesse cenário, a resposta afirmativa ao terceiro quesito apresentou-se contraditória em relação às duas anteriores e, dessa forma, a absolvição restou manifestamente contrária às provas dos autos, tal como foi reconhecido pelos próprios jurados nas respostas aos dois primeiros quesitos.
+Configurada hipótese de anulação do julgamento prevista no art. 593, III, "d", do CPP".
+(AgRg no REsp n. 1.994.435/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.).
+Além disso, o acórdão mencionou que em julgamento estava acusação de homicídio qualificado (art. 121, § 2º, inciso IV, do Código Penal), crime hediondo (art. 1º, inciso I, da Lei nº 8.072/1990) e que não comporta graça (art. 5º, inciso XLIII, da Constituição Federal), motivo a mais para que não se avalize o decidido pelo conselho de sentença.
+Confira-se:
+"Os crimes hediondos, como o feminicídio, são insuscetíveis de graça e anistia e, portanto, não há que se falar em clemência. Muito embora os institutos não se confundam, servem como parâmetro simétrico para evitar que a decisão dos jurados implique concessão de perdão a crimes que violam a integridade de valores constitucionalmente protegidos".
+(RHC 248253 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 03-03-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17-03-2025 PUBLIC 18-03-2025).
+Ante o exposto, dou provimento ao agravo, para conhecer e dar provimento ao recurso especial, a fim de anular o julgamento popular, por decisão manifestamente contrária à prova dos autos, e submeter o ora agravado a nova sessão perante o conselho de sentença.
+Publique-se. Intimem -se.
+EMENTA
