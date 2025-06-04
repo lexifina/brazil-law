@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de DIEGO RODRIGO RODRIGUES DA SILVA - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0006662-88.2015.8.26.0281), não comporta acolhimento .
+Com efeito, busca a impetração a revisão da condenação imposta pelo Juízo de Direito da Vara Criminal da comarca de Itatiba/SP, aos argumentos de: a) cerceamento de defesa, pois não se teria tido acesso a determinados documentos acessados por um link, quebrando-se a cadeia de custódia (fl. 4); b) absolvição, por ausência de provas (fl. 7); c) revisão da dosimetria, seja porque a mesma circunstância foi utilizada para exasperar a pena base e para majorá-la na terceira fase, seja pela contabilização cumulada de mais de uma majorante (fl. 16); e d) fixação de regime inicial mais benéfico.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois consta do acórdão a quo que:
+a) a nulidade aventada pela defesa não foi trazida à baila durante a resposta à acusação (considerando-se que as mídias já estavam acostadas aos autos do inquérito policial), sequer na audiência de instrução, tampouco em memoriais a defesa (fl. 46), tendo a Corte estadual destacado que inexiste demonstração de prejuízo decorrente da alegada nulidade, de modo que alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita;
+b) a pena-base foi exasperada em 1/4, tendo as instâncias ordinárias logrado demonstrar fundamentação adequada, considerando-se a ousadia empregada na empreitada criminosa, demonstrando planejamento e destemor, o grande prejuízo experimentado pelas vítimas e as consequências deletérias e indeléveis para todas que se viram acuadas, por horas, sob a mira de facínoras armados e violentos (fl. 58). Ao final, a cumulação das majorantes foi justificada pelo uso de arma de fogo, concurso de agentes e restrição de liberdade das vítimas, em conformidade com a jurisprudência do STJ, que permite a cumulação quando há fundamentação idônea; e
+c) correta a fixação do regime inicial fechado, mediante a fundamentação adequada (fl. 59).
+Ademais, o pleito de absolvição por insuficiência de provas é inviável de análise na via eleita.
+Assim, o pleito de revisar, pela segunda vez, a condenação imposta pelo Juízo de primeiro grau, não pode ser acolhido na via eleita.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADES, ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS E DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
