@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA VICTORIA NAIME THOME DE VASCONCELOS, com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a ora recorrente foi condenada, no primeiro grau de jurisdição, como incursa nas penas do artigo 302, § 3º, combinado com o § 1º, inciso I, do Código de Trânsito Brasileiro, por duas vezes, na forma do artigo 70 do Código Penal, a 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, além de suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 7 (sete) meses e indenização no valor de 500 (quinhentos) salários mínimos, a serem divididos entre as famílias das duas vítimas.
+O Tribunal de Justiça deu parcial provimento ao apelo defensivo apenas para reduzir a pena de suspensão ou proibição de se obter a permissão ou habilitação para dirigir veículo automotor e fixá-la em 3 (três) meses e 3 (três) dias (e-STJ fls. 816/856).
+Nas razões do recurso especial, a defesa alega violação ao art. 302, § 3º, do Código de Trânsito Brasileiro (CTB). Afirma que a aplicação da referida qualificadora pelo Tribunal de Justiça de São Paulo se deu indevidamente, pois desconsiderou o critério técnico-objetivo exigido pelo art. 306 do mesmo código. Defende que as expressões "sob a influência de álcool" (art. 302, § 3º) e "com capacidade psicomotora alterada" (art. 306) são sinônimas no plano penal, sendo necessário aplicar o mesmo critério de aferição previsto no art. 306, § 1º, do CTB, inclusive em crimes de resultado como o homicídio culposo.
+Argumenta que não há fundamento jurídico para presumir a influência do álcool sem prova objetiva de sua repercussão psicomotora. Sustenta que a incidência da qualificadora do art. 302, § 3º, do CTB, exige a demonstração de que o condutor estava sob a influência de álcool nos moldes definidos no art. 306 - ou seja, com concentração igual ou superior a 0,3 mg/L de ar alveolar ou sinais clínicos que indiquem alteração da capacidade psicomotora.
+Busca seja afastada a qualificadora e redimensionada a pena.
+Apresentadas contrarrazões, o recurso foi admitido na origem.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 332/339.
+É o relatório. Decido.
+A irresignação não prospera.
+De início, registre-se que "cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ)" (ut, AgRg no REsp 1.716.998/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/5/2018).
+No caso dos autos, a Corte local, ao analisar a irresignação da defesa, ponderou que o art. 302, § 3º, do CTB tem redação própria e autônoma, e por isso não exige os mesmos requisitos do art. 306 do mesmo diploma legal. Ressalta, ademais, que a influência do álcool foi suficientemente demonstrada pelo teste de etilômetro, que apontou 0,30 mg/L de ar alveolar (ainda que, com o desconto legal, o valor final fosse inferior).
+A corroborar o entendimento consignou que "desde o dia anterior, Maria Victoria estava com um grupo de amigos, em eventos nos quais houve consumo de grande quantidade de bebida alcoólica, como se comprovou pela fotografia das bebidas encontradas na caminhonete dela" (e-STJ fl. 847).
+Assim, a revisão do julgado para afastar a aplicação da qualificadora do art. 302, § 3º, do CTB, não prescinde do reexame de fatos e provas, sobremaneira porque a Corte local indicou elementos concretos indicativos de que a recorrente efetivamente estava sob influência do álcool. Incidência da Súmula 7/STJ.
+A respeito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO QUALIFICADO. ART. 302, §3º, DO CTB. AUTORIA E MATERIALIDADE. COMPROVAÇÃO. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. EMBRIAGUEZ AO VOLANTE. OUTROS MEIOS DE PROVAS. ADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias concluíram no sentido da materialidade e autoria do crime do art. 302, § 3º, da Lei n. 9.503/1997, em especial os elementos que apontam para a culpa do recorrente, baseados no arcabouço probatório, composto por prova testemunhal e pericial.
+2. O afastamento de causas de aumento, em casos como o presente, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+3. A jurisprudência consolidada do Superior Tribunal de Justiça reconhece a admissibilidade de qualquer meio probatório para demonstrar o estado de embriaguez.
+24. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.471.799/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/2/2024, DJe de 27/2/2024.)
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
