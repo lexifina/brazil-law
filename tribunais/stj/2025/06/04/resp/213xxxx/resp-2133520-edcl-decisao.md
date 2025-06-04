@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, embargos de declaração opostos por HIGRA INDUSTRIAL LTDA contra decisão que não conheceu do recurso especial, em razão da incidência da Súmula 283 do STF e do caráter constitucional da controvérsia.
+A parte embargante sustenta a inaplicabilidade do mencionado óbice processual, bem como afirma que a questão foi analisada sob o prisma infraconstitucional.
+Como se observa, sob o pretexto de vícios de fundamentação, a parte busca, na verdade, a alteração do resultado do julgado. Desse modo, conheço dos embargos como agravo interno e deixo de determinar a complementação das razões recursais, nos termos do art. 1.024, § 3º, do CPC/2015, por considerá-las suficientes.
+A propósito:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO RECEBIDOS E JULGADOS COMO AGRAVO REGIMENTAL. TESES AFASTADAS EM INICIAL DECISÃO MONOCRÁTICA. NÃO DEVOLUÇÃO DE TODAS. INTIMAÇÃO PARA COMPLEMENTO DAS RAZÕES. NECESSIDADE. ART. 1024, § 3º, DO CPC. APLICAÇÃO AO PROCESSO PENAL. EMBARGOS PROVIDOS.
+1. Na forma do art. 1.024, § 3º, do CPC, aplicável subsidiariamente ao processo penal, o órgão julgador conhecerá de embargos de declaração como agravo se entender ser este o recurso cabível, mas nesse caso haverá necessidade de prévia intimação do recorrente para complementar as razões recursais, o que somente será dispensável se elas já devolverem todas as teses afastadas monocraticamente, diante da falta de prejuízo, decorrente da impossibilidade de inovação recursal futura.
+2. Embargos de declaração providos (EDcl no AgRg no AREsp n. 1.551.087/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022).
+Passo a decidir.
+Diante das informações apresentadas no presente recurso, reconsidero a decisão de fls. 349-352 e passo a novo julgamento do recurso especial interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+CONTRIBUIÇÃO AO PIS. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). EXCLUSÃO DO ICMS-DIFAL DA BASE DE CÁLCULO. DESCABIMENTO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a recorrente sustenta, em apertada síntese, que o ICMS-DIFAL não deve compor a base de cálculo do PIS e da COFINS.
+Contrarrazões apresentadas às fls. 304-313.
+É o relatório.
+Passo a decidir.
+A respeito da controvérsia posta, a Primeira Turma desta Corte, no julgamento do REsp n. 2.128.785/RS, destacou que o ICMS-DIFAL constitui mera sistemática de recolhimento do próprio ICMS, não se tratando, portanto, de nova espécie tributária. Assim, não há razão para tratá-lo de forma distinta do ICMS convencional, uma vez que ambos possuem a mesma natureza jurídica.
+Dessa forma, considerando que o ICMS-DIFAL é apenas uma forma de repartição do ICMS entre os entes federativos, aplica-se a ele o entendimento firmado no Tema 69 do STF, segundo o qual "O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins".
+Eis a ementa do julgamento:
+TRIBUTÁRIO. PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 927 DO CPC/2015. NÃO OCORRÊNCIA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS (ICMS). DIFERENCIAL DE ALÍQUOTAS (DIFAL). INCLUSÃO NAS BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. IMPOSSIBILIDADE. DIREITO À COMPENSAÇÃO. RECURSO ESPECIAL PROVIDO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade ou deficiência de fundamentação.
+II - O ICMS-DIFAL é mera sistemática de cálculo de um único imposto - o ICMS-, com idênticos aspectos material, espacial, temporal e pessoal, diferenciando-se, tão somente, quanto ao aspecto quantitativo, mais precisamente, quanto ao incremento de alíquota a ser considerado para o cálculo do valor devido pelo contribuinte e do ulterior direcionamento do respectivo produto da arrecadação. Assim, aplica-se a ele as mesmas teses fixadas nos Temas n. 69/STF e 1.125/STJ.
+III - O diferencial de alíquotas do ICMS (DIFAL) não integra as bases de cálculo da contribuição para o PIS e da COFINS.
+IV - Tratando-se de mandado de segurança impetrado com vista a declarar o direito à compensação tributária, é suficiente a comprovação de que o impetrante ocupa a posição de credor tributário, porquanto os comprovantes de recolhimento indevido do tribuno serão exigidos posteriormente, na esfera administrativa, quando o procedimento de compensação for submetido à verificação pelo Fisco. Precedente.
+V - Recurso Especial provido (REsp n. 2.128.785/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/11/2024, DJe de 19/11/2024).
+O entendimento acima foi ratificado pela Segunda Turma desta Corte, no julgamento do REsp 2.133.516/PR, de minha relatoria, realizado na sessão do dia 20/5/2025, cujo acórdão ainda se encontra pendente de publicação.
+Corroborando o que foi exposto, é importante registrar que a matéria em debate foi incluída na Lista de Dispensa de Contestar e Recorrer da Procuradoria-Geral da Fazenda Nacional - PGFN, conforme previsto na Portaria PGFN 502/2016 e formalizada por meio do Parecer SEI 71/2025/MF, nos seguintes termos:
+Resumo: A partir de uma interpretação da legislação de regência, onde ficou evidenciado que não há distinção normativa entre o ICMS (operações internas) e o ICMS-DIFAL, dado que ambos integram o valor do produto e seus valores não ingressam no caixa da empresa como receita nova, uma vez que destinados aos cofres públicos, é possível estender ao ICMS-Difal a ratio decidendi da decisão proferida pelo STF no Tema 69, observada a modulação de seus efeitos, autorizando-se que tais valores tenham o mesmo tratamento jurídico destinado ao ICMS (operações internas), na hipótese de operação interestadual para consumidor final não contribuinte do ICMS.
+Observação: Houve modulação dos efeitos do julgado, cuja produção se dá a partir da data de julgamento do mérito do RE 574.706 (em 15/3/2017), ressalvadas as ações judiciais e administrativas protocolizadas até então.
+Referência: Parecer SEI 2937/2024/MF e Parecer SEI 71/2025/MF
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer o direito da impetrante de excluir o ICMS-Difal das bases de cálculo das contribuições ao PIS e COFINS, bem como para declarar o direito à compensação administrativa, observada a modulação de efeitos fixada no Tema 69/STF e a atualiza ção pela taxa Selic, nos termos do art. 39, § 4º, da Lei 9.250/1995 e do art. 73 da Lei 9.532/1997.
+Intimem-se.
+EMENTA
