@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANDREIA SANTOS CUNHA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no HC nº 0801282-05.2025.8.14.0000.
+Depreende-se dos autos que a recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Aduz, ainda, a nulidade da violação de domicílio.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Acórdão denegatório da decisão da autoridade impetrada às fls. 119/133.
+Decisão que indeferiu a liminar requerida às fls. 174/175.
+Informações prestadas pelo juízo de primeiro grau às fls. 180/182.
+Parecer do MPF, às fls. 187/199, onde se manifesta pelo desprovimento do recurso.
+É o relatório. DECIDO.
+O cerne da controvérsia diz respeito à legalidade da medida de busca domiciliar efetuada pelos policiais que efetivaram a prisão em flagrante da recorrente, bem como à verificação da existência ou não das condições aptas a justificarem a manutenção da prisão preventiva.
+Como se sabe, a inviolabilidade domiciliar constitui direito fundamental de estatura constitucional, de modo que a ninguém é permitido entrar em um domicílio sem o consentimento do morador, ressalvadas as estritas hipóteses estampadas na Carta Magna, quais sejam, flagrante delito, desastre, para prestar socorro, ou, durante o dia, por determinação judicial.
+Outrossim, o consentimento do morador para ingresso em sua residência, para que seja considerado válido, deve provir de um contexto que lhe permita expressar sua decisão sem pressões exteriores, de forma consciente e informada.
+No caso dos autos, colhe-se do acórdão impetrado os seguintes esclarecimentos:
+"Passando ao exame das circunstâncias do caso concreto, o que se extrai da leitura dos autos de prisão em flagrante é que, nas duas diligências que resultaram ingressos policiais forçados em domicílio alheio, houve a constatação antecedente de fuga por parte de dois suspeitos para dentro das residências invadidas, os quais, ao avistarem os agentes policiais, correram para dentro dos referidos imóveis. Tais fatos, em que pese não submetidos a um contraditório efetivo, ao menos até o presente o momento, apresentam verossimilhança e pertinência com a narrativa contida nos relatos dos policiais envolvidos na operação que resultou na prisão em flagrante da paciente, sem falar que estes não foram, a princípio desconstituídos pelos demais elementos de informação coletados em fase de investigação. Ao contrário, os flagranteados confirmaram, em seus depoimentos pessoais, os relatos circunstanciados pelos policiais. Antônio Anderson da Silva Oliveira afirmou que a pessoa avistada pelos policiais e que havia empreendido fuga pelos fundos da residência era, de fato, Mateus Lucas da Silva Veras, vulgo Lorinho, o qual é seu irmão. E, de outro lado, a ora paciente confirmou a alegação de que seu companheiro, vulgo PIT, teria empreendido fuga pelo quintal do imóvel. Esclareceu, também, que autorizou a busca domiciliar que resultou na apreensão de drogas em sua residência. Portanto, considerando a atual jurisprudência do STF sobre a questão, especialmente no que tange à legitimidade da busca domiciliar levada a cabo pelos policiais quando há situação de flagrante delito evidenciada pela tentativa de fuga de suspeito para dentro da residência, não há como se cogitar de reconhecimento de ilegalidade ou ilicitude das provas obtidas com referido procedimento policial.
+É claro que, ao longo da instrução processual, essas conclusões e elementos probatórios podem ser revisadas e reavaliados, porém, no cenário atual, não me parece prudente concluir pela existência da nulidade arguida na impetração."
+Verifica-se pelos trechos transcritos que o ingresso domiciliar empregado pelas autoridades policiais decorreu de fundadas suspeitas da ocorrência de crime amparadas pelo fato de que os suspeitos empreenderam fuga para dentro do imóvel ao avistarem os policiais.
+Ademais, há relato nos autos de que o ingresso no imóvel da paciente foi por ela mesma autorizado.
+Como se sabe, o delito de tráfico de drogas na modalidade "ter em depósito" possui natureza permanente, o que caracteriza situação flagrancial apta a mitigar a garantia da inviolabilidade domiciliar. Neste sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. INGRESSO DOMICILIAR. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário, mantendo a condenação do agravante por tráfico de drogas. A defesa busca o reconhecimento da nulidade das provas obtidas em flagrante, alegando ausência de fundadas razões para o ingresso domiciliar sem mandado judicial.
+II. Questão em discussão 2. A questão em discussão consiste em verificar a legalidade do ingresso domiciliar sem mandado judicial e a validade das provas obtidas em decorrência desse ato.
+III. Razões de decidir 3. A decisão agravada analisou de forma fundamentada os elementos informativos, não vislumbrando ilegalidades flagrantes.
+4. O ingresso domiciliar foi justificado por fundadas razões, consistentes no flagrante do acusado ao dispensar drogas em frente à residência.
+5. A jurisprudência do STJ admite o ingresso sem mandado em casos de flagrante delito, especialmente em crimes de natureza permanente.
+6. A defesa técnica foi regularmente intimada e optou por não recorrer, não havendo nulidade processual.
+IV. Dispositivo e tese 7. Agravo regimental desprovido. (AgRg no RHC 193501 / MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, Julgado em 30/10/2024)
+Válido frisar, ainda, que não há qualquer elemento nos autos que infirme a credibilidade dos relatos prestados pelos policiais na qualidade de testemunhas, os quais, por se tratarem de servidores públicos no exercício da função, possuem fé pública, cuja presunção relativa da veracidade dos seus relatos somente cederia diante de prova em sentido contrário.
+Acresça-se que este Tribunal Superior tem compreendido pela legalidade da busca domiciliar amparada pela circunstância na qual o réu, ao avistar a guarnição policial, empreende fuga para dentro de seu imóvel, buscando não ser abordado. Veja-se:
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. FLAGRANTE. CRIME PERMANENTE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso ordinário interposto por denunciado pela prática do delito previsto no art. 16, § 1º, IV, da Lei n. 10.826/2003 contra o acórdão do Tribunal de Justiça do Rio de Janeiro que denegou a ordem em habeas corpus, indeferindo o pedido de trancamento da ação penal.
+2. O recorrente alega nulidade da ação penal, sustentando que a entrada forçada em seu domicílio, sem mandado judicial, foi realizada sem fundadas razões ou situação de flagrante delito.
+II. Questão em discussão
+3. A questão em discussão consiste em determinar se a entrada forçada em domicílio, sem mandado judicial, foi justificada por fundadas razões que configuram situação de flagrante delito, conforme entendimento do STF.
+III. Razões de decidir
+4. O Supremo Tribunal Federal, no julgamento do RE 603.616/RO, estabeleceu que a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem situação de flagrante delito.
+5. No caso, a fuga do recorrente para dentro do imóvel - de onde dispensou uma arma de fogo, acompanhada de munições e um carregador, ao perceber a aproximação dos policiais - configurou a justa causa necessária para a busca domiciliar sem mandado, conforme precedentes do STF e do STJ.
+6. Não se constatou flagrante ilegalidade ou arbitrariedade a justificar a anulação das provas colhidas.
+IV. Dispositivo e tese
+7. Recurso desprovido. (RHC 176978/RJ, Rel. Ministro Sebastião Reis Júnior, Sextar Turma, julgado em 06/05/2025, DJe em 09/05/2025).
+DIREITO PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. JUÍZO DE RETRATAÇÃO. TRÁFICO DE DROGAS.
+BUSCA DOMICILIAR SEM MANDADO. FUGA DO RÉU PARA DENTRO DO IMÓVEL. FUNDADAS RAZÕES. ALTERAÇÃO DE ENTENDIMENTO DA QUINTA TURMA. DECISÕES
+DO STF EM PLENÁRIO SOBRE O TEMA. SEGURANÇA JURÍDICA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. CONDENAÇÃO MANTIDA.
+I. Caso em exame
+1. Recurso extraordinário interposto pelo Ministério Público contra acórdão da Quinta Turma que reconheceu a ilicitude do ingresso policial em domicílio sem mandado, com base em denúncia anônima e a fuga do réu para o interior da residência, resultando na anulação das provas obtidas e absolvição do agente pelo delito de tráfico de drogas.
+2. O Ministro Vice-Presidente desta Corte, no exame da admissibilidade do extraordinário, nos termos do art. 1.030, II, do CPC, devolveu os autos ao colegiado para eventual juízo de retratação da Turma.
+II. Questão em discussão
+3. A questão em discussão consiste em determinar se o acórdão da Quinta Turma está dissonante do entendimento do STF sobre o tema 280, firmado em repercussão geral, cabendo eventual juízo de retratação.
+III. Razões de decidir
+4. O Supremo Tribunal Federal, em recentes julgados, decidiu que a fuga do réu para dentro do imóvel, apontado em denúncia anônima como local de traficância, ao verificar a aproximação dos policiais, é causa suficiente para autorizar a busca domiciliar sem mandado judicial.
+5. A decisão impugnada foi reconsiderada, em atenção ao princípio da segurança jurídica, conferindo à questão análise conforme decisões recentes do STF no tema 280 da repercussão geral, em casos similares.
+IV. Dispositivo e tese
+6. Agravo regimental provido para restabelecer a decisão condenatória nos autos da ação penal. (RE no AgRg no HC 931174/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/03/2025m DJe em 18/03/2025)
+No que tange à decretação da prisão preventiva, assim se manifestou o Tribunal recorrido:
+"Ademais, não há falar em ausência dos requisitos do art. 312 do CPP. A decisão que converteu a prisão em flagrante em preventiva está devidamente fundamentada na necessidade de garantia da ordem pública, dada a gravidade concreta do delito e a quantidade de entorpecentes apreendidos.  ..  No que tange à possibilidade de substituição da prisão por medidas cautelares diversas, devese ressaltar que estas somente são cabíveis quando se revelarem suficientes para atingir os fins da prisão preventiva. No presente caso, dada a gravidade da conduta e a necessidade de preservação da ordem pública, as quais restam evidenciadas pelos elementos probatórios colhidos em fase de investigação, concluo que as medidas previstas no art. 319 do CPP são inadequadas no momento. Por fim, consigno que a existência de condições pessoais favoráveis à soltura - tais como primariedade, residência fixa e ocupação lícita - não é suficiente para afastar a necessidade da custódia preventiva, conforme entendimento sumulado deste Tribunal (Súmula 08 do TJPA).
+Dos trechos em destaque é possível observar que tanto o juízo de primeiro grau quanto o Tribunal impetrado apontaram todos os elementos aptos a justificarem a manutenção da segregação cautelar, em especial, a gravidade concreta do delito diante da expressividade da quantidade de drogas apreendidas - 03 trouxas com grande quantidade de sementes de maconha, 01 mala contendo 13 tabletes de maconha, 01 rolo grande de plástico filme, 01 porção grande de erva seca e 01 triturador de erva -, tudo a revelar a adequação e proporcionalidade da medida como forma de garantia da ordem pública e para assegurar eventual aplicação da lei penal, atendidos, ainda, os demais requisitos objetivos previstos nos artigos 312 e 313 do CPP.
+Ademais este Tribunal Superior tem se inclinado pelo entendimento no sentido de que a grande quantidade de drogas apreendidas constitui fundamento idôneo para a decretação de prisão preventiva para garantia da ordem pública. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE DROGAS. INDICATIVOS DE TRÁFICO EM LARGA ESCALA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, consistente na grande quantidade e natureza da droga apreendidas, além de apetrechos e outros elementos que demonstram a prática de tráfico em larga escala, descaracteriza-se ilegalidade passível da concessão da ordem. Precedentes.
+2. Agravo regimental desprovido. (AgRg no RHC 210705/SP, Rel. Ministro Carlos Cini Marcionatti  Desembargador convocado do TJRS , Quinta Turma, julgado em 21/05/2055, DJe em 26/05/2025)
+Por fim, importa ressaltar que o fato de se constatarem condições subjetivas favoráveis à paciente como ser primária e possuir endereço fixo não obsta a segregação cautelar, desde que presentes os requisitos que autorizam sua decretação.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
