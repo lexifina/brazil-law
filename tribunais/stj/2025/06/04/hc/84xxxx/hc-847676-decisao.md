@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONATHAN HENRIQUE DE CARVALHO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado "à pena de 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de12 (doze) dias-multa, no valor mínimo legal, como incurso no artigo 180,caput, do Código Penal" (e-STJ fl. 84).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido, nos termos do acórdão de e-STJ fls. 83/90.
+Na presente impetração, requer (e-STJ fl. 14):
+deferir a liminar para suspender os efeitos do v. acórdão proferido no Recurso de Apelação nº 0000027-11.2018.8.26.0597, até o julgamento final do presente writ.
+Ao final, requer-se a concessão da presente Ordem de Habeas Corpus em favor do Paciente, para declarar a nulidade da apreensão dos bens nos autos da Ação Penal nº 0000027-11.2018.8.26.0597, em trâmite pela 1ª Vara Criminal da Comarca de Sertãozinho/SP.
+O Ministério Público Federal manifestou-se pelo não conhecimento writ.
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+A questão suscitada no presente habeas corpus já foi submetida à apreciação desse Superior Tribunal de Justiça, por meio do AgRg no AR Esp nº 2086332/SP, transitado em julgado em 31.05.2023.
+Tratando-se, portanto, de reiteração de pedido, com identidade de partes e de causa de pedir, impõe-se o não conhecimento da presente impetração, sob pena de ofensa à coisa julgada à regra da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EM RECURSO ANTERIORMENTE INTERPOSTO, TRANSITADO EM JULGADO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE E DA COISA JULGADA. PRETENDIDA CONCESSÃO DE ORDEM DE HABEAS CORPUS EX OFFICIO. PROVIDÊNCIA QUE NÃO PODE SERVIR PARA ESCAMOTEAR O NÃO CABIMENTO DA VIA DE IMPUGNAÇÃO. DECISÃO EM QUE A PETIÇÃO INICIAL FOI INDEFERIDA LIMINARMENTE MANTIDA. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA JULGAR HABEAS CORPUS IMPETRADOS CONTRA SEUS ATOS. RECURSO DESPROVIDO.
+1. Não podem ser analisados habeas corpus e recurso ordinário em habeas corpus nos quais se constata a coisa julgada - como na hipótese, em que há igualdade de partes, de objeto e de causa petendi, e a controvérsia já fora analisada em recurso anterior, em decisão definitiva (de mérito), transitada em julgado. Ademais, a reiteração de pedidos não é admitida por também violar o princípio da unirrecorribilidade.
+2. A não interposição de agravo regimental contra a decisão monocrática definitiva proferida no feito anterior não justifica a impetração de novo writ, por faltar previsão legal - mormente no caso, em que a Defesa deu causa à circunstância que ora aduz, pois a pretensão deduzida anteriormente deixou de ser analisada por este Colegiado do Superior Tribunal de Justiçaem razão de erro grosseiro do ora Agravante, que naquela oportunidade interpôs, contra o ato singular de Ministro Relator, recurso extraordinário.
+3. Esta Corte não tem competência para analisar habeas corpus contra atos singulares de seus ministros - o que, a rigor, é o que ora se busca neste writ, em razão da pretérita decisão de mérito proferida, em que se desproveu o recurso anteriormente manejado.
+4. A despeito de o Agravante alegar que tem direito à apreciação colegiada da controvérsia, não está configurado requisito de admissibilidade do writ, por faltar pressuposto processual negativo na espécie, qual seja, a inexistência de coisa julgada sobre a matéria ora deduzida.
+5. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa dos Tribunais ao identificarem ilegalidade flagrante em processos nos quais a sua competência foi formalmente inaugurada. Tal providência, todavia, não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade  .. .
+6. Recurso desprovido. (AgRg no HC n. 813.788/CE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, D Je de 29/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
