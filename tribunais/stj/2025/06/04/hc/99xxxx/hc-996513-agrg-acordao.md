@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (530 G DE MACONHA, 550 G DE COCAÍNA E 80 G DE SKUNK). PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Não evidenciada a ilegalidade na busca domiciliar, pois a realização de diligências investigativas preliminares evidencia a existência de justa causa. Precedente.
+3. A pretensão de aplicação da causa de diminuição de pena do tráfico privilegiado não pode ser conhecida, por se tratar de reiteração de pedidos veiculados no HC n. 989.375/SP, impetrado em nom e do ora agravante.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 368.636/2025) interposto por LUCAS GUIMARAES DE OLIVEIRA contra a decisão da lavra deste Relator (fls. 137/139), em que se indeferiu liminarmente o habeas corpus, a seguir ementada:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (530 G DE MACONHA, 550 G DE COCAÍNA E 80 G DE SKUNK). NULIDADE. BUSCA DOMICILIAR. JUSTA CAUSA. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ para revisão da condenação imposta e mantida pelas instâncias ordinárias - argumentando que o habeas corpus não encontra impeditivo legal ou constitucional para o seu manejo após o trânsito em julgado de condenação ainda em cumprimento de pena, e que o evidente constrangimento ilegal decorrente do acórdão do TJ/SP permite a análise e a concessão da ordem de habeas corpus como requerida, mesmo que de ofício (fl. 146) - e, no mérito, ratifica os argumentos da impetração, pretendendo o reconhecimento da nulidade da prova em razão da violação do domicilio do paciente e a revisão da dosimetria, com a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 147/160).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (530 G DE MACONHA, 550 G DE COCAÍNA E 80 G DE SKUNK). PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Não evidenciada a ilegalidade na busca domiciliar, pois a realização de diligências investigativas preliminares evidencia a existência de justa causa. Precedente.
+3. A pretensão de aplicação da causa de diminuição de pena do tráfico privilegiado não pode ser conhecida, por se tratar de reiteração de pedidos veiculados no HC n. 989.375/SP, impetrado em nom e do ora agravante.
+4. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a condenação do agravante por tráfico de drogas (530 g de maconha, 550 g de cocaína e 80 g de skunk - fl. 52) a 5 anos de reclusão e 500 dias-multa, proferida na Ação Penal n. 1503013-71.2023.8.26.0536 (da 1ª Vara Criminal da Comarca de Praia Grande/SP) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois:
+a) não evidenciada a ilegalidade na busca domiciliar, pois a realização de diligências investigativas preliminares, como ocorreu no caso - estavam monitorando a residência localizada na Rua Eng. Antonio Lotufo n. 1118, onde segundo informações recebidas anteriormente, se tratava de um imóvel onde era armazenada grande quantidade de droga que abasteceria a biqueira da "Porvinha" e mais alguns pontos de venda no bairro Tude Bastos (fl. 54) -, evidencia a existência de justa causa, em consonância com o entendimento desta Corte (RHC n. 192.310/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 28/10/2024); e
+b) a pretensão de aplicação da causa de diminuição de pena do tráfico privilegiado não pode ser conhecida, por se tratar de reiteração de pedidos veiculados no HC n. 989.375/SP, impetrado em nome do ora paciente.
+Em razão disso, nego provimento ao agravo regimental.
