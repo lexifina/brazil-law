@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por ITAÚ UNIBANCO S. A., em face da decisão que, em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 420, e-STJ):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - Sentença de parcial procedência - RECURSOS DOS REQUERIDOS - Inadmissibilidade dos pedidos de reforma - Preliminares de ilegitimidade passiva rejeitadas - Aplicabilidade do CDC - Compra de mercadoria, seguida de cobrança em duplicidade indevida - Falha na prestação dos serviços das rés verificada - Solidariedade entre os integrantes da cadeia de consumo - Inteligência dos arts. 7º, parágrafo único e 14, do CDC - Danos materiais comprovados e corretamente reconhecidos pelo Juízo "a quo" - Danos morais - Quantum fixado em observância aos princípios da proporcionalidade e razoabilidade - SENTENÇA CONFIRMADA, com base no art. 252, do RITJSP - Sucumbência recursal - Art. 85, § 11, do CPC - RECURSOS DESPROVIDOS.
+Opostos embargos declaratórios (fls. 545 - 546, e-STJ), estes foram rejeitados (fls. 549 - 552, e-STJ).
+Nas razões do recurso especial (fls. 463 - 467, e-STJ), o insurgente alega violação ao artigo 1.022, II, do CPC. Sustenta, em síntese, a negativa de prestação jurisdicional, pois a Corte local não se manifestou sobre a ausência de má-fé.
+Contrarrazões às fls. 561 - 563 (e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o reclamo (fls. 571 - 573, e-STJ), dando ensejo à interposição do presente agravo (fls. 576 - 581, e-STJ), por meio do qual o agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Contrarrazões às fls. 934 - 944, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão merece acolhimento.
+1. O agravante aponta negativa de prestação jurisdicional, afirmando que o Tribunal de origem foi omisso na análise da alegação de ausência de má-fé.
+Observa-se que o Tribunal local, mesmo provocado a se manifestar pela oposição de embargos de declaração, não analisou suficientemente a referida alegação.
+Portanto, consoante entendimento deste Superior Tribunal de Justiça, deve ser reconhecida a negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar satisfatoriamente sobre questões relevantes para o deslinde da controvérsia, como ocorre na hipótese sub judice.
+Confira-se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. OMISSÃO DO TRIBUNAL DE ORIGEM SOBRE QUESTÃO SURGIDA NO ACÓRDÃO RECORRIDO E SUSCITADA NOS EMBARGOS DE DECLARAÇÃO. 1. É omisso o acórdão - proferido no julgamento dos embargos de declaração - que deixa de pronunciar-se sobre as questões surgidas por ocasião do julgamento da apelação, e suscitadas em tais embargos. Precedentes. 2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 839.708/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/9/2021, DJe de 30/9/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO. NULIDADE. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO MANTIDA. 1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e violação do art. 535, II, do CPC/1973, vigente ao tempo em que praticados os atos processuais. Precedentes. 2. Reconhecida a violação ao art. 535, II, do CPC/1973, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Com efeito, deve ser reconhecida a negativa de prestação jurisdicional, impondo-se a decretação de nulidade do acórdão que julgou os aclaratórios (fls. 549 - 552, e-STJ), determinando-se a baixa dos autos ao Tribunal de origem para novo julgamento dos embargos, a fim de que seja sanado o vício apontado.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568/STJ, conhece-se do agravo para dar provimento ao recurso especial, a fim de anular o julgamento dos embargos de declaração e determinar o retorno dos autos à origem para que seja suprido o vício apontado, consoante fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
