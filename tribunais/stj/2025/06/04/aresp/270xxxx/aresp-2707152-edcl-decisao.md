@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela GKN SINTER METALS LTDA contra decisão em que determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis no art. 1.040 do CPC, em razão da matéria dos autos ter sido julgada no Tema 1.047/STF.
+A embargante sustenta que o objeto do recurso é, na verdade, "inexigibilidade da majoração da alíquota da COFINS Importação durante o prazo nonagesimal para a entrada em vigor das alterações promovidas pela Lei 12.844/13, em razão da ausência de regulamentação" (e-STJ fls. 667/668).
+Alega omissão quanto ao pedido de certificação parcial do trânsito em julgado, formulado na petição de e-STJ fls. 635/642.
+Não houve impugnação (e-STJ fl. 672).
+Passo a decidir.
+Assiste razão em parte à parte embargante, porquanto a decisão embargada se apresenta, de fato, omissa quanto ao tema relativo ao prazo nonagesimal, a ensejar o acolhimento parcial dos embargos declaração com efeitos infringentes.
+Conforme consignado na decisão embargada, o Supremo Tribunal Federal, no julgamento do RE 1.178.310/PR, sob o regime de repercussão geral, firmou a tese de que (Tema 1.047 do STF):
+I - é constitucional o adicional de alíquota da Cofins-Importação previsto no § 21 do artigo 8º da Lei n. 10.865/2004;
+II - A vedação ao aproveitamento do crédito oriundo do adicional de alíquota, prevista no artigo 15, § 1º-A, da Lei n. 10.865/2004, com a redação dada pela Lei n. 13.137/2015, respeita o princípio constitucional da não cumulatividade.
+Confira-se a ementa do referido precedente:
+CONSTITUCIONAL E TRIBUTÁRIO. COFINS-IMPORTAÇÃO. MAJORAÇÃO DA ALÍQUOTA EM UM PONTO PERCENTUAL. APROVEITAMENTO INTEGRAL DOS CRÉDITOS OBTIDOS COM O PAGAMENTO DO TRIBUTO. VEDAÇÃO. CONSTITUCIONALIDADE DO ART. 8º, § 21, DA LEI 10.865/2004, COM A REDAÇÃO DADA PELA LEI 12.715/2012, E DO § 1º-A DO ARTIGO 15 DA LEI 10.865/2004, INCLUÍDO PELA LEI 13.137/2015. Recurso Extraordinário a que se nega provimento. Tema 1.047, fixada a seguinte tese de repercussão geral:
+I - É constitucional o adicional de alíquota da Cofins-Importação previsto no § 21 do artigo 8º da Lei n. 10.865/2004.
+II - A vedação ao aproveitamento do crédito oriundo do adicional de alíquota, prevista no artigo 15, § 1º-A, da Lei n. 10.865/2004, com a redação dada pela Lei n. 13.137/2015, respeita o princípio constitucional da não cumulatividade.
+(RE n. 1.178.310, relator Ministro Marco Aurélio, relator para acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 16/9/2020, D Je de 5/10/2020.)
+No tocante à questão do prazo nonagesimal, o Tribunal a quo consignou (e-STJ fl. 440 e 443):
+A final impende observar que, relativamente ao pedido subsidiário, atinente à não observância ao princípio da anterioridade nonagesimal, com razão a embargante, eis que ao revogar a MP nº 774/2017, a MP nº 794/2017, mesmo que de forma indireta, restabeleceu a cobrança do adicional de 1% da COFINS- importação, desrespeitando o mencionado princípio.
+ ..
+Ante o exposto, acolho, em parte, os presentes embargos de declaração, para dar parcial provimento à apelação e conceder a ordem para reconhecer o direito de a impetrante não se sujeitar ao recolhimento do adicional da COFINS-Importação no período relativo à noventa (90 dias) a contar da entrada em vigor da Medida Provisória nº 794/2017, autorizando a respectiva compensação, nos termos da legislação de regência, mantendo o v. acórdão em seus demais e exatos termos.
+Observa-se que a decisão respeitou a anterioridade nonagesimal ao reconhecer o direito de a impetrante não se sujeitar ao recolhimento do adicional da COFINS-Importação no período relativo à noventa a contar da entrada em vigor da Medida Provisória nº 794/2017, autorizando a respectiva compensação.
+Em suas razões recursais, alega a recorrente a existência de "clara violação à literal disposição de lei, incorrendo em afronta à legalidade (arts. 97 do CTN e arts. 5º, II, 37 e 150, I, da CF)" (e-STJ fl. 477).
+Afirma, em essência, a "inexigibilidade da majoração da alíquota da COFINS Importação durante o prazo nonagesimal para a entrada em vigor das alterações promovidas pela Lei 12.844/13, em razão da ausência de regulamentação" (e-STJ fls. 667/668).
+Cabe lembrar que "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal" (AgInt no REsp n. 2.065.450/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+De fato, o tema relac ionado ao princípio da anterioridade tem assentado constitucional. Nesse sentido: AgInt no REsp 1.458.817/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/06/2019, DJe 27/06/2019.
+No ponto, acrescente-se que este "Sodalício possui o firme entendimento pela impossibilidade, em sede de recurso especial, da apreciação de alegada violação ao princípio da legalidade tributária, invocando-se o art. 97 do CTN, sob pena de usurpação da competência da Suprema Corte, tendo em vista que o referido dispositivo legal se traduz em mera reprodução de artigos da Constituição Federal, versando sobre matéria de cunho eminentemente constitucional" (AgInt no AREsp n. 2.355.991/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/5/2025, DJEN de 9/5/2025.)
+Por fim, não há omissão na decisão embargada quanto a pedido de certificação parcial de trânsito em julgado, devendo tal requerimento ser formulado em petição própria e não no bojo do recurso interposto nesta Corte Superior.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração para sanar a omissão acima referida, mediante atribuição de efeitos infringentes, e CONHECER do agravo para CONHECER em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem fixação de honorários recursais, porquanto se trata de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
