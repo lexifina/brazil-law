@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS BARCELLOS COSTA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Revisão Criminal n. 5047396-05.2024.8.24.0000.
+Infere-se dos autos que o paciente, em primeiro grau de jurisdição, foi condenado a 1 ano, 1 mês e 19 dias de reclusão, em regime semiaberto, bem como a reparação de danos fixada no montante de R$ 8.735,00 (oito mil setecentos e trinta e cinco reais), como incurso nas sanções do artigo 129, § 1º, inciso I, do Código Penal.
+Irresignadas, as partes apelaram, tendo sido provido parcialmente apenas o apelo do assistente de acusação. Com isso, a pena privativa de liberdade foi majorada para 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial semiaberto.
+A defesa ajuizou, então, revisão criminal, mas o Tribunal a quo indeferiu o pedido (e-STJ fls. 7/21), em acórdão assim ementado:
+REVISÃO CRIMINAL. REVISIONANDO CONDENADO PELA PRÁTICA DO CRIME DE LESÃO CORPORAL GRAVE (ART. 129, § 1º, I, DO CÓDIGO PENAL). PRETENSO AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME NA PRIMEIRA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. CONSEQUÊNCIAS QUE EXTRAPOLAM AQUELAS INERENTES AO TIPO PENAL. PLEITO DE ABRANDAMENTO DO REGIME INCIAL. DESCABIMENTO. VALORAÇÃO NEGATIVA DE DUAS CIRCUNSTÂNCIAS JUDICIAIS QUE TORNAM ADEQUADA A FIXAÇAO DO REGIME SEMIABERTO. AÇÃO REVISIONAL CONHECIDA E INDEFERIDA.
+No presente mandamus (e-STJ fls. 2/6), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente ao manter a pena e o regime aplicados.
+Alega que as consequências do crime foram negativadas com base em elementos inerentes ao tipo penal atribuído ao paciente - artigo 129, § 1º, inciso I, do Código Penal, que já possui previsão sancionatória maior do que a redação do caput, exatamente por levar em consideração que o resultado da hipotética agressão gerou incapacidade para as ocupações habituais da suposta vítima (e-STJ fl. 5), motivo pelo qual entende configurada a ocorrência de bis in idem.
+Aduz, ainda, que o regime de cumprimento de pena deveria ser alterado para o aberto, conforme o art. 33, § 2º, c, do Código Penal, já que o paciente é primário e a pena é inferior a 4 anos.
+Ao final, pleiteia a concessão da ordem em habeas corpus para afastar a exasperação alusiva às consequências do crime e fixar o regime aberto para cumprimento inicial da pena.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isto se dá porque o writ não foi instruído com as peças processuais indispensáveis à compreensão da controvérsia, como a sentença condenatória e o acórdão da apelação criminal.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA. DECISÃO IMPUGNADA MANTIDA.
+1. Deve ser mantida a decisão impugnada, mormente porque o requerente não fez a juntada de documento essencial ao deslinde da demanda - decreto da prisão preventiva.
+2. Pedido de reconsideração recebido como agravo regimental, contudo, improvido. (RCD no HC 449.001/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 7/6/2018, DJe 13/6/2018)
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO DECRETO PRISIONAL, ORAL OU TRANSCRITO. PROVA PRÉ-CONSTITUÍDA. IMPOSSIBILIDADE DE EXAME DOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. É pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração.
+2. Não há como ser julgado habeas corpus que discute fundamentos da prisão quando não é o decreto de prisão juntado.
+3. Sendo oralmente decretada a prisão, seu registro é imprescindível, competindo ao impetrante comprovar que não houve juntada do registro ou trazê-lo (seja o registro oral, seja sua degravação).
+4. Agravo regimental improvido. (AgInt no HC 398.388/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 3/8/2017, DJe 14/8/2017)
+Verifico, ainda, que a parte da irresignação manifestada no presente habeas corpus relativa à fixação do regime de cumprimento da pena já foi suscitada no AREsp n. 2.421.452/SC, anteriormente interposto pela defesa do paciente. Naquela oportunidade, esta Corte concluiu pela adequação do regime inicial semiaberto em razão da presença de circunstâncias judiciais negativas na exasperação da pena-base (maus antecedentes e consequências do crime), fundamento apto a justificar a manutenção de regime prisional mais gravoso.
+Assim, trata-se de mera reiteração de insurgência já devidamente apreciada, revelando-se incabível nova impetração para reexame do tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido (AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem. (HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
