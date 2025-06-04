@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, conceder parcialmente a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO TRABALHO. PRISÃO PREVENTIVA DOMICILIAR. PERÍODO TRABALHADO ANTERIOR AO INÍCIO DA EXECUÇÃO, MAS POSTERIOR À PRÁTICA DO DELITO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES.
+1. A remição da pena prevista no art. 126 da Lei de Execução Penal tem como finalidade principal promover a reintegração social do apenado, incentivando práticas educativas e laborais. Por isso, deve ser interpretada de forma ampliativa, em benefício do condenado, ainda que em gozo de prisão domiciliar. Precedentes.
+2. Todo trabalho tem papel ressocializador, não se afigurando legítimo afastar a remição quando, apesar de devidamente demonstrada a atividade laboral, não há comprovação de supervisão da atividade e do cumprimento da jornada mínima de 6 horas diárias. Precedentes (AgRg na Pet n. 13.604/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 12/8/2024, DJe de 20/8/2024).
+3. Esta Corte também já decidiu que nos casos em que o labor tenha sido realizado em data posterior à prática do delito cuja condenação se executa, ainda que anterior ao início da execução, é possível a aplicação do instituto (HC n. 420.257/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19/4/2018, DJe de 11/5/2018).
+4. Ordem concedida, em menor extensão, nos termos do dispositivo.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de SABRINA DA LUZ IZEPON contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que negou provimento ao Agravo em Execução n. 8000130-60.2024.8.24.0035, mantendo a decisão que indeferiu a remição de pena (Execução Penal n. 8000090-78.2024.8.24.0035 - 2ª Vara da comarca de Ituporanga/SC).
+Alega a defesa que a paciente exerceu comprovadamente atividade lícita como costureira durante todo o período em que esteve em prisão domiciliar, não havendo dúvidas de que faz jus à homologação das remições obtidas ao longo desse período (fl. 5).
+Pede que seja concedida a remição de 80 dias (fls. 2/6).
+Liminar indeferida (fls. 48/49).
+Informações prestadas (fls. 54/76), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 80/84).
+É o relatório.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO TRABALHO. PRISÃO PREVENTIVA DOMICILIAR. PERÍODO TRABALHADO ANTERIOR AO INÍCIO DA EXECUÇÃO, MAS POSTERIOR À PRÁTICA DO DELITO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES.
+1. A remição da pena prevista no art. 126 da Lei de Execução Penal tem como finalidade principal promover a reintegração social do apenado, incentivando práticas educativas e laborais. Por isso, deve ser interpretada de forma ampliativa, em benefício do condenado, ainda que em gozo de prisão domiciliar. Precedentes.
+2. Todo trabalho tem papel ressocializador, não se afigurando legítimo afastar a remição quando, apesar de devidamente demonstrada a atividade laboral, não há comprovação de supervisão da atividade e do cumprimento da jornada mínima de 6 horas diárias. Precedentes (AgRg na Pet n. 13.604/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 12/8/2024, DJe de 20/8/2024).
+3. Esta Corte também já decidiu que nos casos em que o labor tenha sido realizado em data posterior à prática do delito cuja condenação se executa, ainda que anterior ao início da execução, é possível a aplicação do instituto (HC n. 420.257/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19/4/2018, DJe de 11/5/2018).
+4. Ordem concedida, em menor extensão, nos termos do dispositivo.
+VOTO
+Busca a impetração a remição dos dias trabalhados no período em que a paciente esteve em prisão preventiva domiciliar.
+O Juízo da execução indeferiu o pedido pela ausência de previsão legal (fl. 32).
+O Tribunal a quo manteve o indeferimento afirmando que os documentos anexos à peça recursal (evento 1, OUT6) não trazem as informações necessárias ao controle das condições do efetivo labor exercido e, além disso, não demonstram o exercício da atividade mediante prévia autorização e controle judicial, a inviabilizar o deferimento da pretensão (fls. 38/39).
+Ocorre que a remição da pena prevista no art. 126 da Lei de Execução Penal tem como finalidade principal promover a reintegração social do apenado, incentivando práticas educativas e laborais. Por isso, deve ser interpretada de forma ampliativa, em benefício do condenado, ainda que em gozo de prisão domiciliar.
+Destaco ainda, que, o Superior Tribunal de Justiça vem flexibilizando o art. 126 da Lei de Execução Penal, de modo a não prejudicar o apenado que, não obstante tenha realizado atividades laborais, não possui registro do trabalho. Todo trabalho tem papel ressocializador, não se afigurando legítimo afastar a remição quando, apesar de devidamente demonstrada a atividade laboral, não há comprovação de supervisão da atividade e do cumprimento da jornada mínima de 6 horas diárias. Precedentes (AgRg na Pet n. 13.604/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 12/8/2024, DJe de 20/8/2024).
+Ademais, esta Corte também já decidiu que, nos casos em que o labor tenha sido realizado em data posterior à prática do delito cuja condenação se executa, ainda que anterior ao início da execução, é possível a aplicação do instituto (HC n. 420.257/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19/4/2018, DJe de 11/5/2018).
+Ainda sobre o tema confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO. REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as turmas que integram a Terceira Seção desta Corte Superior orienta no sentido de que o art. 126 da Lei de Execução Penal assegura o direito à remição pelo trabalho ou pelo estudo a todos os condenados em regime fechado ou semiaberto, independentemente de a execução estar ocorrendo em ambiente carcerário ou em recolhimento domiciliar.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.108.075/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE DE JUSTIÇA. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS OU OBJETO DE DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 284/STF. ILEGALIDADE FLAGRANTE. CUMPRIMENTO DE PENA EM REGIME SEMIABERTO, AINDA QUE EM PRISÃO DOMICILIAR. REMIÇÃO PELO TRABALHO. POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+1. O recurso especial não reúne condições de ser conhecido, pois não houve a indicação dos artigos de lei federal eventualmente violados ou objeto de dissídio jurisprudencial.
+2. Verificada a existência de ilegalidade evidente, apta a ser corrigida por meio da concessão de habeas corpus, de ofício.
+3. Ao negar o pedido de remição de pena, o acórdão impugnado divergiu da orientação jurisprudencial desta Corte Superior no sentido de que o "apenado que se encontrava vinculado ao regime semiaberto para cumprimento de pena tem o direito de remição pelo trabalho prestado extramuros, ainda que em gozo de prisão domiciliar" (AgRg no REsp n. 1.685.033/SC, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 22/5/2018, DJe de 30/5/2018).
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, a fim de determinar ao Juízo das Execuções que reexamine o pedido de remição da reprimenda pelo trabalho, referente ao período em que o Sentenciado esteve em regime semiaberto harmonizado.
+(AgRg no REsp n. 2.080.294/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023).
+Assim, há constrangimento ilegal na decisão do Juízo da execução que não analisou a documentação apresentada pela defesa, por entender que não haveria previsão legal para concessão de remição de pena pelo t rabalho exercido durante o período de prisão preventiva domiciliar.
+Ante o exposto, concedo a ordem, em menor extensão, para determinar que o Juízo da execução avalie a documentação apresentada pela defesa para eventual remição da pena.
