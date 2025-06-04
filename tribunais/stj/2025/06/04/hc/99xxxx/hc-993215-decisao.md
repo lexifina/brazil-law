@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de SANDRO DOS SANTOS OLIMPIO onde aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no agravo de execução penal nº 0001560-77.2025.8.26.0041.
+Consta dos autos que, na execução de penas, o paciente teve negado o seu pedido de retificação de penas.
+Neste writ a defesa sustenta que o cálculo está incorreto, pois deveria considerar o início do cumprimento a partir da prisão em flagrante, em 14/8/2003, conforme o artigo 76 do Código Penal.
+Argumenta que a decisão da autoridade coatora deve ser cassada e o cálculo de penas retificado.
+Explica que o cálculo atual prejudica o paciente, ao projetar o início do cumprimento para 20/12/2004, resultando em cumprimento mais distante dos requisitos para benefícios prisionais.
+Requer, no mérito, a concessão da ordem para que seja realizada a retificação do cálculo das penas, conforme fundamentação.
+Acórdão impetrado às fls. 12/16.
+Decisão que indeferiu a liminar requerida às fls. 80/82.
+Informações prestadas às fls. 88/96.
+Parecer do MPF às fls. 104/107, onde se manifesta pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Cinge-se a controvérsia acerca da correção do cálculo de pena a ser cumprida pelo paciente.
+Acerca da questão, assim se manifestou o Tribunal recorrido:
+"3. Segundo se depreende dos autos (fls. 930/940 dos autos da execução), o sentenciado cumpria pena pelo crime de roubo majorado tentado, praticado em 20/04/2002, quando, em 14/08/2003, foi preso em flagrante pelo cometimento do delito de homicídio qualificado. O primeiro delito teve a sua reprimenda cumprida em 19/12/2004 (fls. 922 dos autos da execução), precedendo a sentença condenatória pelo segundo delito - de homicídio (11/04/2013), com trânsito em julgado 06/10/2015 (fls. 935 dos autos de execução). Pois bem, antes da decisão judicial que condenou o agravante pelo crime de homicídio qualificado, tinha-se apenas um quadro de prisão preventiva (em relação ao citado) e não execução, o que inviabilizava a unificação de penas, a teor do artigo 111, da Lei de Execução Penal. Nesse sentido, quando editada a guia de recolhimento referente ao delito de homicídio (ainda que provisória), o agravante já tinha solvido a pena do primeiro delito de roubo. Assim sendo, mostra-se correto o cálculo: considerou-se um primeiro período de cumprimento da pena do delito de roubo (execução então em curso); na sequência, terminada a pena, deu-se início ao cumprimento da pena do delito homicídio no dia subsequente (quando ainda o agravante estava em prisão preventiva), por força da norma prevista no artigo 42, do Código Penal. Não socorre a pretensão do agravante a norma prevista no artigo 76, do Código Penal, uma vez que, até o cumprimento da pena do delito de roubo, ainda não havia execução de pena pelo crime de homicídio qualificado. Não se poderia simplesmente interromper-se o cumprimento da pena pelo delito, passando-se ao cumprimento da reprimenda pela homicídio, uma vez ainda não havia condenação pelo delito de homicídio (ou seja pena em cumprimento). Inviável, a essa altura, fazer a retroação do cálculo, nos moldes referidos pela defesa."
+Correta a decisão do Tribunal impetrado. A redação do art. 76 do Código Penal preceitua que no concurso de infrações, executar-se-á primeiramente a pena mais grave.
+Com efeito, a norma em questão não postula aplicação ao caso do paciente, pois o termo "executar-se-á" pressupõe condenação a cumprimento de pena e não diz respeito à prisão cautelar, a qual deve ser considerada apenas para fins de detração e não para alteração da data-base.
+Assim, uma vez que a condenação, ainda que provisória, pelo delito de homicídio se deu em momento posterior ao cumprimento da pena pelo delito de roubo, correta a posição do juízo de execução em fixar o cálculo da pena a partir de 20/12/2004.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
