@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KAYRAN ALMEIDA DE BRITO NEVES contra decisão monocrática, por mim proferida, a qual não conheceu do habeas corpus impetrado em seu favor.
+Alega o embargante que "Com o mais absoluto respeito, essa premissa não encontra qualquer respaldo nos autos. Embora a denúncia faça tal afirmação, trata-se, com efeito, de fato inexistente, sem amparo em prova dos autos. Reitere-se, de forma categórica e inequívoca, que não houve, em nenhum momento, qualquer apreensão de substância entorpecente no âmbito da chamada Operação Nirvana, seja com o paciente, seja com o corréu Laion, seja com qualquer terceiro. Tampouco existem: Auto de apreensão de drogas; Laudo de constatação provisória; Ou qualquer outro documento oficial que ateste, sequer de forma indiciária, a efetiva apreensão de qualquer substância entorpecente."
+Afirma haver "contradição lógica frontal na r. decisão, na medida em que:  Por um lado, reconhece o entendimento da Terceira Seção desta Corte no HC nº 686.312/MS e no AgRg no AREsp 2.564.013/MG, segundo os quais a materialidade do crime de tráfico depende, necessariamente, da apreensão da substância entorpecente. Por outro lado, contraditoriamente, conclui que haveria apreensão de drogas com o corréu Laion, quando esse fato jamais ocorreu, nem documental nem materialmente".
+Pondera que "O paciente Kayran encontra-se preso, ininterruptamente, desde dezembro de 2020, razão pela qual sequer poderia ter praticado, em conjunto ou isoladamente, qualquer tráfico de drogas no ano de 2021, como pretende, de forma absolutamente fantasiosa, a acusação".
+Pugna, ao final, pelo acolhimento dos embargos para sanar erro material e contradição ou, subsidiariamente, seja enviado "ofício ao Juízo da 1ª Vara Criminal da Comarca de Linhares/ES, para que preste as informações detalhadas e objetivas, esclarecendo, de forma definitiva, se houve ou não apreensão de drogas nos autos da Ação Penal nº 5002447-44.2024.8.08.0030".
+É o relatório.
+Decido.
+Nos termos do art. 619 do CPP, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+Não diviso erro material ou contradição na decisão embargada.
+Destacado que, pela jurisprudência desta Corte, a ausência de apreensão de drogas impede a configuração do crime de tráfico, a decisão afirma que a denúncia narra duas apreensões anteriores, nos anos de 2020 e 2021, com o embargante e com o corréu, as quais justificariam, em tese, a denúncia pelo crime de tráfico de drogas já que a associação entre eles perdurou por anos. Se procedem ou não, só a instrução processual revelará.
+Não é dever deste Tribunal esmiuçar em que circunstâncias o tráfico ocorreu, bem como avaliar se o embargante, mesmo preso, conduziu o tráfico praticado no ano seguinte à sua prisão, o que é perfeitamente possível, pela teoria do domínio do fato, como se vê diariamente nos noticiários brasileiros, mas sim da instrução processual.
+O argumento só realça a impossibilidade de trancamento da ação penal porque há fatos a serem deslindados na instrução, que se dá na ação penal, não no habeas corpus, via de cognição limitada para tal, devendo o embargante concentrar seus esforços na defesa que pretenda apresentar perante a 1ª instância.
+Ausente qualquer dos motivos autorizadores do trancamento, inviável, pois, se abreviar o andamento da ação penal.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
