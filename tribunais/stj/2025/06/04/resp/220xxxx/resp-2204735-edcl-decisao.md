@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IM2D PARTICIPAÇÕES LTDA E OUTROS (e-STJ fls. 4.646/4.650) contra decisão que indeferiu o pedido de efeito suspensivo ao presente recurso especial, (e-STJ fls. 4.642/4.643).
+As embargantes apontam a existência de omissão, pois a cessão da hipoteca por instrumento particular ocasionaria nulidade absoluta de ato jurídico decorrente do desatendimento de formalidade e solenidade impostas por lei, e isso seria fato incontroverso.
+Defendem que estão presentes no caso o periculum in mora e o fumus boni iuris, já que haveria fato novo em razão de o juízo de primeiro grau ter nomeado leiloeiro para avaliar os imóveis gravados e designar data para hasta pública.
+Argumenta que "a alegada (e incorreta) ilegitimidade dos peticionários não obsta a obrigação do Juízo de enfrentar esta questão jurídica (nulidade da cessão da hipoteca por instrumento particular, a gerar sua extinção)."
+Requer o acolhimento dos declaratórios e seu provimento, para que seja atribuído efeito suspensivo ao recurso especial.
+É o relatório.
+DECIDO.
+Não procede a irresignação.
+É sabido que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide.
+Conforme visto, o acórdão combatido na via do especial concluiu pela subsistência da penhora que recaiu sobre as frações ideais, afastando a alegação de que a cessão de crédito não teria abrangido a garantia real de hipoteca por ter sida realizada mediante instrumento particular, ao passo que deveria se dar na via de forma pública.
+Veja-se:
+O sistema jurídico brasileiro se estrutura de forma a proteger a boa-fé e o sujeito que nela se pauta. Como consequência, a boa- fé, enquanto instituto jurídico, se presta à imprescindível função de corretora do exercício jurídico, de forma a direcioná-lo e ajustá-lo aos padrões da licitude.
+(..)
+No caso, a cessão de crédito cuja ineficácia parcial se alega, data de 2006, com registro perante o Ofício de Título e Documentos em 2011 conforme instrumento particular acostado aos autos. Certa, ademais, sua informação no processo de origem no ano de 2013, oportunidade em que se determinou a substituição dos integrantes do polo ativo da demanda para que passasse a constar os cessionários.
+Trata-se, portanto, de inequívoca ciência da cessão de crédito questionada desde pelo menos o ano de 2013, como reconhecem os agravados em sua contraminuta. Mesmo considerada a anterioridade dos embargos de terceiro em relação à alteração entre cedente e cessionário no polo ativo da demanda, é de se ressaltar que a substituição processual se deu há mais de 10 anos, sem que haja qualquer notícia de efetivo esforço dos agravados para trazer à cognição do Poder Judiciário os suscitados vícios na transmissão das garantias atreladas ao crédito cedido, apesar da magnitude do fato então novo que somente agora procuram impugnar.
+Em suma, sobressai do contexto fático a inércia dos agravados, por mais de 10 anos, de procurar questionar, por qualquer via, as garantias atreladas a cessão de crédito entre a Ithamar e Walter, cuja eficácia integral há muito se estabilizou nas justas expectativas do primeiro cessionário e dos terceiros de boa-fé aos quais foram posteriormente cedidos o mesmo crédito e as garantias a ele atreladas.
+Nesse sentido, inclusive, cumpre deixar em evidência que a posterior cessão de Walter a Paulo Esteves e Salo Kibrit se deu por instrumento público e contou com a da participação da cedente originária, Sra. Ithamar, conforme escritura de cessão de crédito (fls. 2.469/2.472, origem).
+A cessão entre Walter e a Consenso Administração e Participações Ltda., da mesma forma, foi realizada por instrumento público (fls. 2.608/2.613, origem).
+Da mesma forma que a alegação de eficácia parcial da cessão entre Ithamar e Walter, por nulidade na transmissão de garantia real sobre imóvel, constituir-se-ia em matéria de ordem pública, também a tutela da confiança legítima, sob a égide da boa-fé, expressa um interesse público protegido pelo ordenamento jurídico.
+Cuida-se a cessão original ora questionada, por fim, não em documento apócrifo repentinamente trazido a luz dos autos, mas em instrumento de cessão registrado em Ofício de Títulos e Documentos, nos termos do art. 654, §1º, do Código Civil, e que fundamentou não só a substituição processual entre cedente e cessionário, deferida há mais de 10 anos, mas também as duas posteriores cessões do mesmo crédito e de suas garantias, por instrumento público, a terceiros de boa-fé, contando inclusive com a participação da cedente originária.
+Com efeito, revelam-se atualmente hígidas as penhoras ora impugnadas, que derivam de garantia real cuja ciência inequívoca dos terceiros proprietários já foi definitivamente reconhecida nos respectivos embargos de terceiros e cujo crédito por ela garantido teve seus atuais titulares constituídos por instrumento público." (e-STJ fls. 4.331/4.334)
+Portanto, reitera-se que rever as conclusões da origem mostra-se inviável, ante a incidência da Súmula 7/STJ, que veda a incursão em matéria fática e probatória.
+Desse modo, o não acolhimento das teses ventiladas pela parte não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema 339/STF).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de instrumentos protelatórios, será aplicada a multa prevista no art. 1.026 do CPC.
+Publique-se.
+Intime-se.
+EMENTA
