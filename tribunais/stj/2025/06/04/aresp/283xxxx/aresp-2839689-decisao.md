@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por OI S.A. contra decisão que inadmitiu recurso especial sob o fundamento de aplicação das Súmulas n. 283 e 284 do STF, bem como de ausência de violação do art. 1.022 do CPC (fls. 1.351-1.353).
+O Tribunal de origem negou provimento aos recursos, em julgado que recebeu a seguinte ementa (fls. 1.148-1.149):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DAS AÇÕES DA TELEFONIA. PARCIAL PROCEDÊNCIA. INSURGÊNCIAS DE AMBAS AS PARTES.
+RECURSO DA RÉ
+PRELIMINAR DE ILEGITIMIDADE ATIVA. REJEIÇÃO. ALEGAÇÃO DE CESSÃO DOS DIREITOS A TERCEIROS NÃO COMPROVADA.
+ILEGITIMIDADE PASSIVA. APELANTE QUE É SUCESSORA DA TELESC, TENDO LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA DEMANDA. TESE AFASTADA.
+MÉRITO. PCT E PEX: CONTRATOS REGIDOS POR PORTARIAS MINISTERIAIS. ESPÉCIES CONTRATUAIS QUE, A DEPENDER DAS PARTICULARIDADES QUANDO DA PACTUAÇÃO, PODERIAM ENSEJAR RETRIBUIÇÃO EM AÇÕES PELA AQUISIÇÃO DA LINHA TELEFÔNICA. PRETENSÃO GENÉRICA DE DESONERAÇÃO DA RÉ INACOLHIDA.
+PRESCRIÇÃO. ALEGADA PERDA DA PRETENSÃO PARA OS CONTRATOS NS. 21383400 E 1343796. PEDIDO CONTEMPLADO NA SENTENÇA. AUSÊNCIA DE INTERESSE PROCESSUAL. NÃO CONHECIMENTO NO PONTO.
+ALEGAÇÃO DE INAPLICABILIDADE DA INVERSÃO DO ÔNUS DA PROVA EM FAVOR DO CONSUMIDOR. NÃO ACOLHIMENTO. RELAÇÃO EXISTENTE ENTRE AS PARTES QUE É RECONHECIDAMENTE DE CONSUMO, POR ISSO REGIDA PELAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+INSURGÊNCIA QUANTO À CONDENAÇÃO À SUBSCRIÇÃO DAS AÇÕES DA TELEFONIA CELULAR. DOBRA ACIONÁRIA CUJA PRETENSÃO À SUBSCRIÇÃO É DEVIDA.
+RECURSO DA PARTE AUTORA.
+IRRESIGNAÇÃO COM O RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL DO CONTRATO N. 1343796. MATÉRIA QUE SE REGE PELOS ARTS. 177 DO CÓDIGO CIVIL/1916 E ARTS. 205 E 2.028 DO CÓDIGO CIVIL/2002. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO (RESP. 1033241/RS). TELEFONIA FIXA. MARCO INICIAL DO PRAZO PRESCRICIONAL DA SUBSCRIÇÃO A MENOR. DEMANDA AJUIZADA INTEMPESTIVAMENTE. MANUTENÇÃO DA SENTENÇA.
+HONORÁRIOS RECURSAIS. INVIABILIDADE DE ARBITRAMENTO, CONFORME PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA (EDCL NO AGINT NO RESP N. 1.573.573/RJ).
+RECURSO DE APELAÇÃO DA RÉ PARCIALMENTE CONHECIDO E DESPROVIDO; RECURSO DA PARTE AUTORA CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram acolhidos em parte, para sanar omissão, sem efeitos infringentes (fls. 1.238-1.240).
+No recurso especial (fls. 1.263-1.298), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou afronta aos seguintes dispositivos:
+(i) art. 1.022, II, do CPC, no que diz respeito à omissão quanto à ilegitimidade ativa e à ilegalidade de retribuição acionária nos contratos firmados na modalidade de Planta Comunitária de Telefonia (PCT); e
+(ii) art. 170, § 3º, da Lei n. 6.404/1976, além de divergência jurisprudencial, argumentando com a existência de diferenças entre os contratos de PCT e PEX. Nesse contexto, afirmou que "os contratos da modalidade de PCT tiveram as ações emitidas quando da integralização da planta comunitária, ou seja, a integralização se dava em bens e não em capital como nos casos do PEX e por essa razão a emissão das ações não possui qualquer irregularidades e dessa forma o pedido autoral deve ser julgado improcedente" (fl. 1.282).
+Não foram apresentadas contrarrazões (fl. 1.348).
+No agravo (fls. 1.373-1.377), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (fl. 1.398).
+É o relatório.
+Decido.
+Cuida-se, na origem, de ação de adimplemento contratual buscando a complementação de emissão de ações decorrentes de contrato de participação financeira.
+Os pedidos autorais foram julgados parcialmente procedentes para (i) julgar extinto o processo com resolução do mérito, pelo reconhecimento da prescrição em relação aos contratos n. 0021383400, 001343796 e 21979101, (ii) julgar parcialmente procedentes os pedidos, a fim de condenar a ré, ora recorrente, a promover a emissão de ações de telefonia fixa e móvel correspondentes à diferença entre o total a que os autores teriam direito a receber na data da integralização do capital e o que já foi subscrito a seu favor, e (iii) condenar a ré, ora recorrente, ao pagamento de dividendos, bonificações e juros sobre capital próprio, relativos às ações faltantes.
+Não conformadas com a decisão, ambas as partes apelaram.
+A empresa de telefonia, ora recorrente, em suas razões de apelação, sustentou, em síntese: (i) a ilegitimidade ativa; (ii) sua ilegitimidade passiva; (iii) a prescrição da pretensão autoral; (iv) a inaplicabilidade do CDC; e (v) a não obrigatoriedade de subscrição das ações para os contratos PCT.
+O Tribunal de origem negou provimento ao apelo da ré, mantendo a condenação imposta na sentença (fls. 1.141-1.149).
+OI S.A. opôs embargos de declaração (fls. 1.166-1.187), os quais foram acolhidos em parte, para sanar omissão, sem efeitos infringentes (fls. 1.238-1.240).
+Assim, não concordando com a decisão, a empresa ré apresenta o presente recurso especial, alegando: (i) violação aos arts. 1.022 do CPC e 170, § 3º, da Lei n. 6.404/1976; e (ii) existência de diferenças entre os contratos de PCT e PEX.
+Inicialmente, em relação à afronta ao art. 1.022 do CPC, importa esclarecer que os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+No mérito, a Corte de origem assim se pronunciou (fls. 1.142-1.143):
+Alega a apelante não haver descumprido acordos, tanto nos contratos PEX (Plano de Expansão) quanto nos PCT (Planta Comunitária de Telefonia), já que foram respeitados os preceitos constantes das portarias ns. 1.361/76, 881/90 e 86/91, dos Ministérios das Comunicações e de Infraestrutura.
+Independentemente da nítida diferença existente entre os referidos contratos, estabelecidos nas supracitadas portarias ministeriais da época da assinatura, os negócios jurídicos poderiam envolver a retribuição de parte ou do total do pagamento pela linha telefônica em ações, questão probatória que caberia à ré, com a individualização dos contratos dos quais detém posse.
+Nos contratos PEX, ressalto, os promitentes-assinantes (consumidores) firmavam o pacto de participação com a concessionária de telefonia, tornando-se também acionistas, negócio que se dava por meio de diretrizes estabelecidas por portarias, que por sua vez definiam as regras de participação financeira e distribuição acionária (Portaria n. 1361 do Ministério de Estado das Comunicações, de 15 de dezembro de 1976 - DOU 25.12.1976, pág. 16662; Portaria n. 281 do Ministério de Estado das Comunicações, de 21 de novembro de 1986, - DOU 24.11.1986, pág. 17634; Portaria n. 86 da Secretaria Nacional de Comunicações do Ministério da Infra-Estrutura, de 17 de julho de 1991 - DOU 18.07.1991, págs. 14272/14273; Portaria n. 881/90 do Ministério da Infra-Estrutura - DOU 9.11.1990, págs. 21419/21422; Portaria n. 86/91, do Ministério da Infra-Estrutura - DOU 18.7.1991, págs. 14272/14273).
+Assim, os valores e definições constantemente variaram ao longo dos anos, dependendo da forma de pagamento (se a vista ou parcelado, e da quantidade de parcelas), e, também, da inclusão ou não dos juros, chegando-se em 1995 ao preestabelecido limite de R$1.117,63, como valor máximo a ser observado na aplicação pelas concessionárias, definido pelo Departamento Nacional de Serviços Públicos, conforme Portaria n. 307, de 7.12.1995 - DOU 8.12.1995, pág. 20288.
+No presente caso, não há nas radiografias o tipo contratual, a fim de que se possa evidenciar tratar-se de PEX ou PCT, porquanto as radiografias foram apresentadas com esse conteúdo suprimido (Evento 147, Inf 368; Evento 147, Inf 370; Evento 147, Inf f371; Evento 147, Inf 372; Evento 147, Inf 369; Evento 147, Inf 377) à exceção dos contratos ns. 21383400 e 1343796, que trazem a informação, mas já estão reconhecidamente prescritos.
+Assim, não merece acolhida a tese apresentada no recurso, que visa a desonerar a ré precocemente de seu dever de subscrição acionária por meio de defesa genérica, não atrelada à realidade dos autos.
+A Corte local consignou que, apesar da diferença entre as modalidades de ações PEX e PCT, a parte ora recorrente apresentou pretensão genérica de desoneração do adimplemento contratual (subscrição de ações). Nesse contexto, afirmou que "não há nas radiografias o tipo contratual, a fim de que se possa evidenciar tratar-se de PEX ou PCT, porquanto as radiografias foram apresentadas com esse conteúdo suprimido (Evento 147, Inf 368; Evento 147, Inf 370; Evento 147, Inf f371; Evento 147, Inf 372; Evento 147, Inf 369; Evento 147, Inf 377)" (fl. 1.143).
+Contudo, no recurso especial, apontando contrariedade ao art. 170, §§ 1º e 3º, da Lei n. 6.404/1976, a recorrente sustenta tão somente a ilegalidade da retribuição acionária nos contratos firmados na modalidade de Planta Comunitária de Telefonia - PCT.
+Não houve impugnação de todos fundamentos do acórdão recorrido. Incide a Súmula n. 283 do STF.
+Ressalte-se ainda que seria inev itável o reexame dos contratos para verificar se houve a especificação de qual sistema de retribuição acionária foi contratado.
+Incide também a Súmula n. 5 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique -se. Intimem-se.
+EMENTA
