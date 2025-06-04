@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (145,100 KG DE MACONHA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PLEITO DE RECAMBIAMENTO. EXISTÊNCIA DE PROCESSO DE VERIFICAÇÃO. RESTITUIÇÃO DE VEÍCULO. MATÉRIA NÃO DISCUTIDA NO ACÓRDÃO.
+1. A prisão preventiva pode ser fundamentada na quantidade e diversidade de entorpecentes apreendidos, evidenciando a maior reprovabilidade do fato e a necessidade de garantia da ordem pública.
+2. Na hipótese, a decretação da segregação cautelar está devidamente motivada na necessidade de garantia da ordem pública, decorrente da gravidade concreta da conduta delituosa, periculosidade do réu, quantidade de drogas e risco de reiteração delitiva. O fato de o recorrente ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+3. Em relação ao pedido de recambiamento, já existe processo de verificação perante a comarca de Apucarana/PR.
+4. Recurso em habeas corpus improvido.
+RELATÓRIO
+O presente recurso em habeas corpus, interposto por CLEVERSON LEANDRO PIRES - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1501205-12.2024.8.26.0628) - contra acórdão da QUINTA CÂMARA DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2348954-33.2024.8.26.0000), não comporta provimento.
+Com efeito, alega o recorrente ser ilegal a prisão preventiva decretada pelo Juízo das Audiências de Custódia do Tribunal de Justiça do Estado de São Paulo, pois a decisão que converteu a prisão em flagrante em preventiva baseou-se em fundamentos genéricos, sem qualquer demonstração concreta da necessidade da medida (fl. 368). Sustenta que é primário, possui bons antecedentes e residência fixa, não havendo qualquer fundamento concreto para a manutenção da sua prisão após a sentença condenatória (fl. 369).
+Por fim, requer o recambiamento  ..  para uma unidade prisional no Estado do Paraná, preferencialmente na cidade de Apucarana, garantindo-se o seu direito à ressocialização (fl. 370), bem como a restituição do veículo apreendido à sua proprietária, Maria Aparecida Pires (fl. 370).
+Contrarrazões apresentadas (fls. 378/381).
+Parecer ministerial opinando pelo desprovimento do recurso (fls. 393/394).
+É o relatório.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (145,100 KG DE MACONHA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PLEITO DE RECAMBIAMENTO. EXISTÊNCIA DE PROCESSO DE VERIFICAÇÃO. RESTITUIÇÃO DE VEÍCULO. MATÉRIA NÃO DISCUTIDA NO ACÓRDÃO.
+1. A prisão preventiva pode ser fundamentada na quantidade e diversidade de entorpecentes apreendidos, evidenciando a maior reprovabilidade do fato e a necessidade de garantia da ordem pública.
+2. Na hipótese, a decretação da segregação cautelar está devidamente motivada na necessidade de garantia da ordem pública, decorrente da gravidade concreta da conduta delituosa, periculosidade do réu, quantidade de drogas e risco de reiteração delitiva. O fato de o recorrente ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+3. Em relação ao pedido de recambiamento, já existe processo de verificação perante a comarca de Apucarana/PR.
+4. Recurso em habeas corpus improvido.
+VOTO
+Não assiste razão ao recorrente.
+Confira-se, no que interessa, a decisão (fls. 53/54 - grifo nosso):
+ ..
+A prova da materialidade do crime de tráfico de drogas desponta do boletim de ocorrência e dos autos de exibição/apreensão e de constatação (fls. 5/9, 10/11 e 13/15), e os indícios suficientes de autoria emanam dos depoimentos dos agentes públicos que procederam à diligência que resultou na prisão em flagrante dos conduzidos (fls. 2/3 e 4), de modo que está configurado o fumus commissi delicti.
+Já no tocante ao periculum libertatis, a jurisprudência do colendo Supremo Tribunal Federal tem reafirmado a compatibilidade com o texto constitucional, em especial com a garantia do estado de inocência, da prisão cautelar para garantia da ordem pública, reconhecendo a idoneidade da fundamentação que demonstre "a periculosidade do agente, a gravidade do delito e o fundado receio de reiteração delitiva" (2a Turma, HC 144.904-AgR, rei. Min. Ricardo Lewandowski, julgado em 20/02/2018, D Je 01/03/2018).
+Os elementos que vertem dos autos apontam para a gravidade do delito, concretamente aferida nas circunstâncias do caso e nitidamente excedente da normalidade ínsita à descrição típica da conduta, uma vez que apreendida em poder dos investigados grande quantidade de droga -, 145,100 quilogramas de maconha fracionada em tijolos -, não permitindo as circunstâncias que se conclua, nesta fase preliminar, pela mercancia esporádica ou meramente varejista.
+Ao contrário, os investigados são suspeitos de transportar as drogas entre Estados da Federação, o que, conjugado com as circunstâncias da prisão, notadamente a grande quantidade de droga apreendida torna evidente o risco à ordem pública.
+A insuficiência das medidas cautelares diversas da prisão, elencadas no art. 319 do Código de Processo Penal, se evidencia pela natureza clandestina da prática, donde se infere que a técnica de progressão aflitiva vislumbrada pelo legislador não serve, no caso concreto, a acautelar a ordem pública.
+ ..
+Como verificado, a prisão preventiva do recorrente foi decretada em conformidade com os requisitos legais, e a decisão baseada na gravidade do delito de tráfico de drogas, evidenciada pela expressiva quantidade de drogas (145,100 kg de maconha), além do risco à ordem pública, a periculosidade do agente e o risco de reiteração delitiva. Ademais, o fato de o réu ser primário e possuir residência fixa não é suficiente, por si só, para afastar a necessidade da prisão preventiva, sobretudo quando há elementos concretos que apontam a periculosidade da conduta e o possível envolvimento em atividade criminosa reiterada (AgRg no HC n. 977.883/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 19/3/2025).
+A respeito do pedido de recambiamento, consta no acórdão recorrido que já houve determinação, por parte da autoridade coatora, para a expedição de ofício à comarca de Apucarana/PR, com o objetivo de verificar a disponibilidade de vaga para a transferência do recorrente (fls. 183/184 e fls. 226/227 dos autos de origem). Assim, não há decisão a ser tomada, por ora, sobre essa questão, que está em processo de verificação.
+Não há discussão no acórdão hostilizado quanto ao pedido de restituição do veículo de propriedade de Maria Aparecida Pires. Além disso, verifica-se no processo que o pedido de restituição do veículo NISSAN/MARCH, placa AXY9203, foi indeferido pelo Juízo de origem sob o argumento de que o veículo foi utilizado para a consumação do crime. Diante disso, não há como esta Corte se manifestar para não incorrer em supressão de instância.
+Em face do exposto, nego pr ovimento ao recurso em habeas corpus.
