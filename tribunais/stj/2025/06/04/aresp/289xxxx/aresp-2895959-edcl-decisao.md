@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CELIO ALVES DE SOUZA à decisão de fl. 11791, que não conheceu do recurso.
+Sustenta a parte embargante:
+O recurso não foi conhecido, em razão, da inexistência de juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. GIVANILDO GOMES, embora, intimado para regularizar o vício.
+ ..
+Em que pese a r. decisão, verifica-se do interrogatório do réu CÉLIO ALVES DE SOUZA a constituição oral do advogado subscritor por ocasião do julgamento do Tribunal do Júri da Comarca de Cuiabá/MT.
+Tais informações já estavam no processo quando da intimação para regularizar a representação do causídico neste c. Tribunal Superior.
+Lado outro, junta-se, neste ato, instrumento procuratório do recorrente.
+Tem-se que, a inércia do advogado em regularizar o vício tempestivamente não pode ser utilizada em prejuízo do réu.
+ ..
+Ademais, na hipótese, o recorrente não foi pessoalmente intimado para querendo constituir novo advogado pela inércia do causídico em regularizar a representação.
+Essa intimação é crucial para garantir o direito de ampla defesa do réu e evitar o cerceamento de defesa. Se o réu não constituir novo advogado após a intimação, poderia ser nomeado um defensor dativo (fls. 11797/11798).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. GIVANILDO GOMES.
+Embora regularmente intimada a parte recorrente para regularizar a representação processual, nos termos do art. 76, c/c art. 932, parágrafo único, do Código de Processo Civil, no prazo improrrogável de 5 (cinco) dias, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+Registre-se que, ao contrário do alegado pela parte, em seu interrogatório, na instância ordinária, encontrava-se constituído o advogado Dr. Walmir Cavalheri de Oliveira, conforme fls. 828/831, e não o Dr. Givanildo Gomes, subscritor dos recursos.
+Ademais, quanto à ausência de intimação pessoal da parte, argüida pelo embargante, cumpre consignar que só é aplicada na instância ordinária, para o réu preso e para ciência da sentença condenatória, não se estendendo nem mesmo para decisões de segunda instância, conforme entendimento jurisprudencial desta Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA ABSOLUTÓRIA E ACÓRDÃO CONDENATÓRIO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO RÉU SOLTO. ATUAÇÃO CONCRETA DE ADVOGADO DATIVO E DA DEFENSORIA PÚBLICA. NÃO DEMONSTRAÇÃO DE EFETIVO PREJUÍZO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. NÃO CONSTATADA NULIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, não há necessidade de intimação pessoal do réu do acórdão condenatório, haja vista ter sido a sentença absolutória, pois,  c onsoante o art. 392 do CPP, a intimação pessoal somente é exigida para o réu preso e para ciência da sentença condenatória e não se estende a decisões de segunda instância. Por conseguinte, nos termos da jurisprudência desta Corte, se considera desnecessária a intimação pessoal do acusado a respeito do acórdão proferido em apelação, mesmo quando ocorre a reforma de sentença absolutória e quando o réu for assistido pela Defensoria Pública ou defensor dativo. (AgRg no HC n. 663.502/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 23/6/2021.) (AgRg no HC n. 883.882/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/06/2024, DJe de 14/06/2024).
+2. Na hipótese, as instâncias de origem demonstraram que foram adotadas todas as possíveis medidas para garantir a ampla defesa e o contraditório, com atuação efetiva de Advogado dativo e da Defensoria Pública.
+3. Consoante entendimento desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe à parte demonstrar a ocorrência de efetivo prejuízo, o que não ocorreu no presente caso. Na hipótese, registre-se que, ainda que o recorrente suscite nulidade por "ausência" de defesa técnica, o caso diz respeito a suposta "deficiência" de defesa técnica, já que, conforme delineado pela instância ordinária, foi apresentada tese defensiva plausível. A propósito, a Súmula 523/STF preleciona que, "no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu", o que não ocorreu na espécie. (AgRg no RHC n. 73.161/MA, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/12/2019.) (RHC n. 192.358/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/02/2024, DJe de 23/02/2024).
+4. Agravo regimental não provido.
+(AgRg no RHC n. 198.204/SP, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 23.10. 2024.)
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
