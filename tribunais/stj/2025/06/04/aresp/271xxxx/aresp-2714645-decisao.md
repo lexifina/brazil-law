@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ZULEIDE NEVES DA CRUZ, contra decisão que inadmitiu o recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 26/06/2024.
+Concluso ao gabinete em: 09/09/2024.
+Ação: obrigação de fazer c/c repetição de indébito e indenização por danos morais, ajuizada por ZULEIDE NEVES DA CRUZ, em face de BANCO DAYCOVAL S.A. (e-STJ fls. 9-49).
+Sentença: julgou improcedente os pedidos formulados pela parte autora, com base no art. 487, inciso I, do CPC/2015. A autora foi condenada ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa, com juros de 1% a partir do trânsito em julgado e correção monetária desde o ajuizamento da ação, conforme a Súmula nº 14 do STJ. Como a autora litiga sob justiça gratuita, a exigibilidade das obrigações decorrentes da sucumbência foi suspensa e só poderá ser executada se, nos cinco anos seguintes ao trânsito em julgado, se o réu demonstrar que a autora não mais possui insuficiência de recursos, extinguindo-se as obrigações após esse prazo, conforme art. 98 do CPC/2015 (e-STJ fls. 937-944).
+Acórdão: negou provimento ao agravo interno interposto por Zuleide Neves da Cruz, mantendo a decisão que havia julgado improcedente os pedidos formulados na inicial. O acórdão reconheceu que a instituição financeira se desincumbiu do ônus de comprovar a regular contratação do débito questionado, conforme a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM APELAÇÃO CÍVEL E EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. AUSÊNCIA DE ARGUMENTOS NOVOS.
+1. A ausência de argumentos novos capazes de infirmarem os fundamentos que alicerçaram a decisão agravada, enseja o desprovimento do agravo interno interposto. (STJ - AgInt no R Esp: 1757715 BA 2018/0193696-7, Relator: Ministro Paulo De Tarso Sanseverino, Data de Julgamento: 19/10/2020, T3 - Terceira Turma, Data de Publicação: D Je 27/10/2020).
+2. No caso dos autos, a parte agravante alega que a decisão guerreada merece reforma, pois, "É que o simples fato de haver contrato juntado aos autos com assinatura da autora aposta, não se subsome ter sido o negócio jurídico pactuado nos estritos ditames legais, haja vista que, o presente caso se trata de vício de consentimento, de modo que, na prática, fatalmente haverá um contrato assinado. Do mesmo modo a narrativa autoral se reflete no comprovante de depósito juntado, posto que, há expressa afirmação da contratação do empréstimo, tornando-se tal fato incontroverso.", o que não merece ser acolhido, uma vez que as matérias deduzidas, já foram devidamente enfrentadas.
+3. Agravo interno desprovido. (e-STJ fls. 1483-1502).
+Embargos de declaração: opostos por ZULEIDE NEVES DA CRUZ, foram rejeitados (e-STJ fls. 1503-1518).
+Recurso Especial: alega violação aos arts. 489, §1º, IV e VI e 1.022, II, do CPC; 6ºm III, IV e V, 39, V, 47, 51, IV e 52 do CDC.
+Aduz violação ao dever de informar, à transparência e à boa-fé, pois acreditava estar contratando um empréstimo consignado comum, mas foi surpreendida com a conversão do contrato para cartão de crédito sem o devido esclarecimento
+Argumenta que não se trata de interpretação de cláusulas contratuais, mas de ausência de probidade e falta de informação/transparência do contrato.
+Alega divergência jurisprudencial entre o acórdão recorrido e outros acórdãos de tribunais regionais, especialmente em relação à interpretação dos artigos do CDC e à prática abusiva das instituições financeiras.
+Requer a reforma da decisão para que o recurso especial seja conhecido e julgado. (e-STJ fls. 1483-1502).
+RELATADO O PROCESSO, DECIDE-SE.
+Da negativa de prestação jurisdicional por violação dos arts. 489 e 1022 do CPC - Súmula 568/STJ
+Verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das informações claras e adequadas sobre o produto contratado e a proteção contra cláusulas abusivas (e-STJ fls. 1553-1555), de maneira que os embargos de declaração opostos pela recorrente, de fato, não comportavam acolhimento.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Nesse sentido, já entendeu esta Corte não haver ofensa à referida norma quando o Tribunal de origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, Terceira Turma, DJe de 09/12/2021). No mesmo sentido: REsp 1.996.298/TO, Terceira Turma, DJe de 01/09/2022; e AgInt no AREsp 1.954.373/RJ, Quarta Turma, DJe de 07/10/2022. Incide, pois, a Súmula 568/STJ no particular.
+Ademais, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1022 do CPC quando o Tribunal de Origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/08/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/03/2020.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+Do reexame de fatos e provas e da interpretação de cláusulas contratuais - Súmulas 5 e 7 do STJ
+Alterar o decidido no acórdão impugnado, no que se refere a suposta contratação de um empréstimo consignado comum sem a conversão do contrato para cartão de crédito, bem como, analisar as cláusulas do contrato quanto à possíveis abusividades, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Da divergência jurisprudencial - ausência de cotejo analítico
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Necessário frisar que a "mera transcrição de ementas sem o devido cotejo analítico impede conhecimento do recurso especial pela alínea "c" do permissivo constitucional" (REsp 2.129.680/RJ, Terceira Turma, DJe de 10/04/2024).
+Nesse sentido: AgInt no REsp 2.165.387/SP, Primeira Turma, DJe de 20/12/2024; AgInt no AREsp 2.630.311/RS, Segunda Turma, DJe de 2/12/2024; AgInt no AREsp 2.503.857/PE, Terceira Turma, DJe de 12/12/2024; AgInt no AREsp 2.702.961/RJ, Quarta Turma, DJe de 09/12/2024; AgRg no AREsp 2.607.121/SP, Quinta Turma, DJe de 09/12/2024; AgRg no AREsp 2.399.599/GO, Sexta Turma, DJe de 29/08/2024.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, em razão da decisão do Tribunal de Origem que suspendeu o dever de pagamento em virtude da gratuidade de justiça concedida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Ação de obrigação de fazer c/c repetição de indébito e indenização por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração. Incidência da Súmula 568/STJ.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis. Incidência das Súmulas 5 e 7 do STJ.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
