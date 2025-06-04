@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, recurso especial interposto por MARILEIDE DOS SANTOS DE OLIVEIRA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. CONSTITUCIONAL. BENEFÍCIO LIMITADO AO TETO PREVISTO NO REGIME GERAL DA PREVIDÊNCIA. READEQUAÇÃO DO SALÁRIO DE BENEFÍCIO. APLICAÇÃO IMEDIATA DO ART. 14 DA EC 20/98 E ART. 5º DA EC 41/2003. IMPOSSIBILIDADE. REPERCUSSÃO GERAL NO RE 564.354. SENTENÇA MANTIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente alega violação aos arts. 489, § 1º, III, IV, V e VI do CPC sustentando, em síntese, que "o Tribunal de origem não enfrentou em sede de cognição exauriente os argumentos trazidos pela Recorrente em sede de apelação. Isso porque, se assim tivesse feito, teria sido o pleito revisional reconhecido e provido".
+Aduz, ainda, que, "restou comprovado que o benefício sofreu limitação ao teto previsto à época, e que a Recorrente faz jus à readequação da renda mensal aos novos limites fixados pelas Emendas Constitucionais de nº 20 e nº 41, pois se o salário-de-benefício não tivesse sofrido limitação, a sua renda mensal seria maior".
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 489, §1º, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 489, § 1º. NÃO OCORRÊNCIA. ACÓRDÃO FUNDADO EM NORMAS CONSTITUCIONAIS E EM LEI LOCAL. RECURSO ESPECIAL. INVIABILIDADE.
+ ..
+3. O art. 489, § 1º, do CPC/2015, não foi violado, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007.
+ ..
+6. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.859.820/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/3/2020, DJe de 25/6/2020).
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação ao art. 489, do CPC.
+Quanto ao mais, o Tribunal de origem entendeu, após a devida análise fático-probatória do autos que "não houve limitação do salário de benefício da parte recorrente ao teto do RGPS então vigente" , veja-se:
+A elevação dos limites máximos para os valores dos benefícios do Regime Geral da Previdência Social - RGPS, estabelecidos pelas Emendas Constitucionais 20/98 e 41/2003 fez surgir, em contrapartida, a discussão a respeito da possibilidade de que os benefícios previdenciários deferidos em data anterior à edição destas emendas constitucionais pudessem auferir, na mesma proporção, a aplicação residual decorrente do acréscimo do valor nominal obtido a partir dos novos tetos limitadores, que sofreram elevação constitucional.
+A questão foi dirimida pelo Supremo Tribunal Federal, que em acórdão proferido em sede de repercussão geral (art. 543-B do CPC) no julgamento do Recurso Extraordinário n. 564.354 (relatora Ministra Carmem Lúcia - Julgado em 08/09/2010 - Dje de 14/02/2011), firmou entendimento no sentido de que não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+Registre-se, por oportuno, que o entendimento firmado pela Corte Suprema no julgamento ora mencionado refere-se tão somente aos benefícios previdenciários cujo valor da renda mensal inicial, na época da concessão, tenha sido alcançado pela limitação do então vigente teto de benefício no Regime Geral da Previdência, uma vez que somente tais benefícios sofreram a incidência do redutor legal, justificando, assim, a readequação da renda mensal do benefício a partir do momento da majoração operada no teto, mediante fixação de um novo limite para os benefícios previdenciários, a partir de cada uma das emendas.
+A propósito desse entendimento, confiram-se os seguintes julgados, um de cada Turma da 1ª Seção deste Tribunal:
+ ..
+Ademais, levando-se em conta que no julgamento do RE 564.354/SE não se verificou a imposição de qualquer restrição temporal acerca do reconhecimento do direito à readequação da renda mensal, em decorrência da majoração efetivada nas Emendas Constitucionais 20/98 e 41/03, é de se concluir, portanto, que não deve prevalecer a tese de que o aludido direito não tem aplicação aos benefícios concedidos até o advento da Lei n. 8.213, de 1991, cf. precedente desta Turma.
+A tal propósito, confira-se o seguinte julgado:
+ ..
+Contudo, no caso em análise, os documentos juntados aos autos demonstram que, à época da concessão do benefício previdenciário, não houve limitação do salário de benefício ao teto do RGPS então vigente, de tal modo que não se deve reconhecer o direito pleiteado pela parte autora, no que concerne à readequação da renda mensal do benefício, nos moldes estabelecidos nas Emendas Constitucionais 20/98 e 41/03.
+Assim restou esclarecida a situação da parte autora na sentença:
+ ..
+Sobre a inaplicabilidade das ECs 20 e 41, no caso de não ficar comprovada limitação do benefício previdenciário ao teto, destaco julgado do STF:
+EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REVISÃO RMI. SÚMULA 279/STF. VIOLAÇÃO 93, IX, DA CONSTITUIÇÃO FEDERAL. O Supremo Tribunal Federal entende ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários de contribuição que foram utilizados para os cálculos iniciais. (RE 564.354, Pleno). O mencionado entendimento, contudo, não aproveita à pretensão, uma vez que o benefício em análise não foi limitado ao teto no momento de sua concessão. A parte recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante nos autos, bem como a alegar erro na aplicação da lei ao caso. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art.
+93, IX, da CF/88. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(ARE 766281 ED, Relator(a): Min. Roberto Barroso, Primeira Turma, julgado em 24/06/2014, acórdão eletrônico DJe-158 DIVULG 15-08-2014 PUBLIC 18-08-2014)
+Deve, pois, ser mantida a sentença de improcedência do pedido.
+A alteração da conclusão do Tribunal a quo, acerca da ausência de limitação do salário de benefício ao teto do RGPS então vigente, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. RMI. LIMITAÇÃO AO TETO NÃO RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE DESCONSTITUIÇÃO DE TAL PREMISSA EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE
+NEGA PROVIMENTO.
+1. É firme a orientação desta Corte e do Supremo Tribunal Federal afirmando que faz jus a parte recorrente à revisão do benefício previdenciário, mediante a readequação da renda mensal aos novos limites de salário de contribuição estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, nas hipóteses em que comprovado que a renda mensal inicial do Segurado sofreu limitação do teto do salário de contribuição vigente ao tempo do seu cálculo.
+2. No caso dos autos, a Corte de origem é categórica ao consignar que, mesmo após a aplicação da revisão do art. 144 da Lei 8.213/1991, a renda mensal da Segurada estava em patamar inferior ao teto previdenciário, o que rechaça o direito à revisão requerida.
+3. Nesse cenário, rever o entendimento do Tribunal de origem, que consignou ter sido o benefício concedido em valor inferior fixado ao teto máximo do salário de contribuição vigente à época, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de Recurso Especial, à luz do óbice contido na Súmula 7/STJ.
+4. Agravo Interno do Particular a que se nega provimento (AgInt nos EDcl no REsp n. 1.572.002/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 9/12/2019, DJe de 12/12/2019).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
