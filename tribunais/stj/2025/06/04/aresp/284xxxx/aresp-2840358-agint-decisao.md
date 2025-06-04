@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANTONIO CORRÊIA contra a decisão da Presidência desta Corte de Justiça, que não conheceu do agravo em recurso especial, sob o fundamento da aplicação da Súmula 182 do STJ (e-STJ fls. 246/247).
+A parte agravante alega, em síntese, que infirmou os fundamentos da decisão de inadmissibilidade do recurso especial. Ao final, reitera os argumentos anteriormente expendidos. Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Impugnação não apresentada (e-STJ fl. 265).
+Passo a decidir.
+Exerço o juízo de retratação, visto que os argumentos suscitados pela parte demonstraram a impugnação dos fundamentos da decisão de inadmissibilidade. Faço nova análise da insurgência.
+Trata-se de agravo interposto pelo segurado contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 160):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA - CUMULAÇÃO DEVIDA ENTRE O AUXÍLIO-ACIDENTE E A APOSENTADORIA POR IDADE - REVISÃO DA APOSENTADORIA PARA A INCLUSÃO DOS VALORES RECIBOS À TÍTULO DE AUXÍLIO-ACIDENTE - DESCABIMENTO - IMPOSSIBILIDADE DE APLICAÇÃO HÍBRIDA DO REGIME DA LEI Nº 8.213/91 SOB PENA DE BIS IN IDEM E ENRIQUECIMENTO SEM CAUSA - POSSIBILIDADE DE CUMULAÇÃO DE BENEFÍCIOS QUE EXCLUI A INCORPORAÇÃO DO AUXÍLIO-ACIDENTE PARA O CÁLCULO DA APOSENTADORIA - DECISÃO REFORMADA. Recurso provido.
+Embargos de declaração rejeitados (e-STJ fls. 173/176).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022, II, do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado por negativa de prestação jurisdicional acerca da possibilidade de o INSS revisar a aposentadoria por idade do recorrente para excluir o auxílio-acidente da aposentadoria recebida.
+No mérito, alegou contrariedade, além de dissídio pretoriano, ao art. 103-A da Lei n. 8.213/1991, sustentando o decurso do prazo decadencial quanto ao direito do INSS de revisar os benefícios recebidos pelo recorrente de forma cumulada.
+Afirma também que o benefício de aposentadoria por idade foi concedido em 31/03/2004, findando o prazo em 2014 para o INSS revisar o referido benefício.
+Sem contrarrazões (e-STJ fl. 229). O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 230/232).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 235/240), é o caso de examinar o recurso especial.
+De início, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SUPERVENIÊNCIA DA LEI 14.230/2021. TEMA 1.199/STF. PRESENÇA DE DOLO E DO DANO. TIPICIDADE MANTIDA. DOSIMETRIA DAS PENAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A superveniência da Lei 14.230/2021 não altera a tipicidade da conduta, porque o Tribunal de origem, no acórdão recorrido, reconheceu a presença de ato ímprobo previsto no art. 10 da Lei 8.429/1992, o dolo dos agentes e a lesão ao erário.
+3. A revisão da dosimetria das penas encontra óbice na Súmula 7 do Superior Tribunal de Justiça (STJ), salvo evidente desproporcionalidade, o que não se verifica neste caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.044.604/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+No caso, o Tribunal de origem assim se manifestou acerca da impossibilidade de integração do auxílio-acidente n a aposentadoria recebida (e-STJ fl. 175):
+Com efeito, o decisum foi claro ao dispor que, "diante da impossibilidade de aplicação híbrida dos dois regimes, resta claro que o auxílio- acidente somente pode integrar o salário de contribuição para fins de cálculo da aposentadoria quando a sua cumulação é indevida de modo a impedir a ocorrência de bis in idem e o consequente enriquecimento sem causa" (fls. 161).
+Prossegue o julgado destacando que, "tendo em vista que a cumulação do auxílio-acidente com os proventos da aposentadoria por idade é devida no presente caso, é de rigor o provimento do recurso da autarquia para excluir o auxílio-acidente do cálculo da renda mensal inicial da aposentadoria" (fls. 161).
+Desse modo, uma vez reconhecida a possibilidade de percebimento simultâneo de benefícios, inexiste fundamento jurídico para a aplicação da pretendida incorporação, por se cuidar de regra instituída pela Lei nº 9.528/97 e voltada para as hipóteses de inacumulabilidade do auxílio-acidente com aposentadoria de cunho previdenciário, não havendo que se cogitar da propalada violação à coisa julgada.
+Ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+De outro lado, da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre o art. 103-A da Lei . 8.213/1991, tido por violado, tampouco foi objeto dos embargos de declaração opostos na origem, carecendo, assim, do devido prequestionamento.
+Incidem no ponto as Súmulas 282 e 356 do STF.
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Em situações como esta, caberia à parte, opor embargos de declaração para corrigir os prováveis vícios que entende existentes e, nas razões do seu especial, "alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito" (AgRg no AREsp 650.702/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 246/247 e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
