@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DELITO DOS ARTIGOS 288, 268, 297 E 298, DO CÓDIGO PENAL. DECISÃO QUE INDEFERIU PEDIDO DE NULIDADE DA CITAÇÃO POR EDITAL. TENTATIVA DE LOCALIZAÇÃO DO ACUSADO. DILIGÊNCIAS. AUSÊNCIA DE ESGOTAMENTO. NÃO OCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A citação por edital no processo penal deve ser precedida de diligências razoáveis para localização do réu, mas não exige o esgotamento absoluto de todos os meios possíveis, cabendo ao juiz avaliar as circunstâncias de cada caso concreto.
+2. No caso, o juízo de primeiro esgotou as tentativas de citação pessoal do paciente, sendo que o mandado não foi cumprido em razão de que o endereço do réu não consta o número de sua residência, o que foi demonstrado na certidão expedida por Oficial de Justiça, com fé pública, informando que não localizou o endereço, bem como que tentou contato por telefone, mas a ligação era direcionada para caixa postal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+DIRLEI MARCELINO MAIA agrava de decisão em que deneguei a ordem em habeas corpus impetrado contra decisão e TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que julgou improcedente a CORREIÇÃO PARCIAL CRIMINAL n. 5043577-60.2024.8.24.0000/SC, em acórdão assim ementado:
+CORREIÇÃO PARCIAL. INSURGÊNCIA DA DEFESA CONTRA DECISÃO QUE INDEFERIU PEDIDO DE NULIDADE DA CITAÇÃO POR EDITAL. ALEGAÇÃO DE QUE O CORRIGENTE SEMPRE RESIDIU NO MESMO LOCAL. NÃO ACOLHIMENTO. CERTIDÃO EMITIDA POR OFICIAL DE JUSTIÇA APONTANDO A NÃO LOCALIZAÇÃO DO IMÓVEL E A TENTATIVA DE CONTATO ATRAVÉS DE NÚMERO DE TELEFONE, TAMBÉM INEXITOSA. ESGOTAMENTO DAS DILIGÊNCIAS. CITAÇÃO POR EDITAL VÁLIDA E, POR CONSEQUÊNCIA, VALIDADE DA SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. INFORMAÇÃO POSTERIOR APRESENTADA PELO MINISTÉRIO PÚBLICO INDICANDO PONTO DE REFERÊNCIA QUE POSSIBILITOU A LOCALIZAÇÃO DA RESIDÊNCIA E A CITAÇÃO PESSOAL DO RÉU. DECISÃO MANTIDA. CORREIÇÃO PARCIAL INDEFERIDA.
+Consta nos autos que o paciente foi denunciado como incurso nos delitos previstos nos artigos 288, caput, 268, caput, 297 e 298, todos do Código Penal. Após o recebimento da denúncia, nos autos da ação criminal n. 5001723-31.2023.8.24.015, em 8 de junho de 2020, foi determinada a citação do paciente. Não obstante, devido à incompletude do endereço, o denunciado não foi localizado, tendo sido determinada a citação por edital e a suspensão do prazo prescricional.
+Em 23 de outubro de 2023 o paciente foi citado pessoalmente e determinada a reabertura do prazo de apresentação para resposta à acusação. O paciente suscitou a nulidade da citação por edital em sua peça defensiva, tese que foi rechaçada pelo magistrado singular e mantida pelo Tribunal a quo.
+Daí o presente writ. Em suas razões sustenta, em síntese, a nulidade da citação por edital e, por consequência, da suspensão do prazo prescricional, uma vez que sempre residiu no mesmo endereço e a citação por edital foi determinada sem que os meios de localização tivessem sido esgotados.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou denegação da ordem. (e-STJ fls. 1605/1611).
+Proferi decisão denegado a ordem (e-STJ fls. 1618/1623).
+Neste regimental, insiste na tese de que foi demonstrado o constrangimento ilegal. (e-STJ fls.1627/1648).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DELITO DOS ARTIGOS 288, 268, 297 E 298, DO CÓDIGO PENAL. DECISÃO QUE INDEFERIU PEDIDO DE NULIDADE DA CITAÇÃO POR EDITAL. TENTATIVA DE LOCALIZAÇÃO DO ACUSADO. DILIGÊNCIAS. AUSÊNCIA DE ESGOTAMENTO. NÃO OCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A citação por edital no processo penal deve ser precedida de diligências razoáveis para localização do réu, mas não exige o esgotamento absoluto de todos os meios possíveis, cabendo ao juiz avaliar as circunstâncias de cada caso concreto.
+2. No caso, o juízo de primeiro esgotou as tentativas de citação pessoal do paciente, sendo que o mandado não foi cumprido em razão de que o endereço do réu não consta o número de sua residência, o que foi demonstrado na certidão expedida por Oficial de Justiça, com fé pública, informando que não localizou o endereço, bem como que tentou contato por telefone, mas a ligação era direcionada para caixa postal.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+No caso, não se verifica a presença de novos argumentos aptos a justificar uma mudança de entendimento deste Relator.
+Inicialmente, reitero as razões de decidir da decisão por mim proferida que denegou a ordem em habeas corpus.
+Destaquei que, no que concerne ao pedido defensivo, o Tribunal de origem afastou a alegação de nulidade da citação edilícia, assim se pronunciando: (e-STJ fls.48/50):
+Ao indeferir o pedido, a Magistrada de origem consignou (Evento 177 do feito de origem):
+ ..  1. Em sede de preliminar, a Defesa aventou a nulidade da citação por edital, ao argumento de que o réu residiu no mesmo imóvel desde o início das investigações.
+Não obstante as razões de evento 169, DEFESA PRÉVIA1 e o cumprimento demandado de busca e apreensão na residência do réu (evento 17, INIC173), tem-se que o logradouro sempre fora identificado como "S/N", o que, por si só, certamente resulta em dificuldades na localização do imóvel. Uma vez estabelecida essa premissa, sobreleve-se que o meirinho compareceu na localidade e, inclusive, indagou populares, os quais narraram que o acusado
+sequer era conhecido (evento 14, CERT1).
+Certifico que, em cumprimento ao mandado extraído dos autos mencionados, compareci no local indicado e, após as formalidades legais, DEIXEI DEPROCEDER A CITAÇÃO de DIRLEI MARCELINO MAIA, em virtude de não o ter localizado no endereço constante no retro mandado.
+Certifico ainda que, o endereço é insuficiente à localização do citando (sem número de casa), sendo o citando pessoa desconhecida por populares e por alguns residentes daquela rua (ao lado da Horta Goulart e casa azul em frente a Horta Goulart).
+Certifico por fim que, tentei várias vezes contatar com o número de telefone informado no mandado (99131-0355), contudo nas tentativas a ligação dava apenas na caixa postal.
+Dou fé.
+Após, determinada a realização de buscas nos sistemas auxiliares da justiça por endereços atualizados (evento 25, DESPADEC1), cujo resultado foi inexitoso (evento 29, CERT1).
+Ocorre que, posteriormente, o Ministério Público logrou êxito em especificar um ponto de referência (evento 122, PROMOÇÃO1), circunstância que possibilitou o cumprimento do mandado de citação pessoal (evento 125,CERT1). Como se vê, portanto, foram adotadas todas as medidas cabíveis ao Juízo a fim de possibilitar o cumprimento do mandado de citação, de modo que não há falar na incidência de nulidades.
+(..)
+Outrossim, é de bom alvitre consignar que a palavra do oficial de justiça goza de fé pública, ao passo que inexistem quaisquer indícios de má-fé. Do contrário, vislumbra-se que o meirinho atuou de forma diligente e realizou buscas na localidade, a ponto de indagar populares.
+Assim, rechaço a prefacial arguida.  ..
+Em que pese os argumentos apontados pelo Corrigente, entendo que a decisão deve ser mantida.
+Isso porque, das informações extraídas dos autos, verifica-se que o Oficial de Justiça compareceu ao local indicado e não localizou Dirlei, embora tenha sido encontrado posteriormente no mesmo endereço, demonstrando que foram realizadas as tentativas de citação pessoal.
+(..)
+Na sequência, foi certificado nos autos que não foi localizado novo endereço do Corrigente (Evento 29 do feito de origem), razão pela qual foi determinada a citação por edital (Evento 25 dos autos originários) e a suspensão do processo e do prazo prescricional, nos termos do art. 366 do Código de Processo Penal (Evento 98).
+Posteriormente, sobreveio informação do Ministério Público indicando o mesmo endereço, mas acrescentando um ponto de referência (Evento 122), o que tornou viável a localização do Corrigente e sua citação pessoal (Evento 125).
+Em que pese a alegação defensiva, no sentido de que o endereço de Dirlei sempre foi o mesmo, não se pode deixar de considerar o teor da certidão expedida por Oficial de Justiça, com fé pública, informando que não localizou o endereço, bem como que tentou contato por telefone, mas a ligação era direcionada para caixa postal.
+A citação pessoal só foi possível quando indicado ponto de referência.
+Logo, foram realizadas as tentativas de citação (no endereço não localizado e por telefone) e esgotados os meios para localização do Corrigente.
+A jurisprudência desse Superior Tribunal orienta-se no sentido de que a citação por edital no processo penal deve ser precedida de diligências razoáveis para localização do réu, mas não exige o esgotamento absoluto de todos os meios possíveis, cabendo ao juiz avaliar as circunstâncias de cada caso concreto (AgRg no RHC n. 186.133/SP, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024).
+No caso dos autos, evidenciado que o juízo de primeiro esgotou as tentativas de citação pessoal do paciente, sendo que o mandado não foi cumprido em razão de que o endereço do réu não consta o número de sua residência, o que foi demonstrado na certidão expedida por Oficial de Justiça, com fé pública, informando que não localizou o endereço, bem como que tentou contato por telefone, mas a ligação era direcionada para caixa postal.
+Neste sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, POSSE OU PORTE ILEGAL DE ARMA DE FOGO E EVASÃO MEDIANTE VIOLÊNCIA CONTRA PESSOA. NULIDADE. CITAÇÃO POR EDITAL. TENTATIVA DE LOCALIZAÇÃO DO ACUSADO. DILIGÊNCIAS. AUSÊNCIA DE ESGOTAMENTO. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, ""a citação por edital só é admitida em casos excepcionais, quando não é possível a citação pessoal. Esgotadas as tentativas de encontrar o acusado, a citação por edital é medida legalmente prevista" (AgRg no HC n. 713.598/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)" - AgRg no REsp 1829769 / MG, minha relatoria, SEXTA TURMA, DJe 04/10/2022.
+2. No caso vertente, na linha do parecer ministerial, "o magistrado singular esgotou as tentativas de citação pessoal do recorrente, porquanto, na tentativa de citação do acusado, o mandado não foi cumprido, em virtude de o endereço do réu não ter sido encontrado em 28/07/2011 e também considerando que o Juízo, em 31/07/2012, com a finalidade de obter informações sobre o paradeiro do réu, determinou a expedição de ofícios para a COSIPE, a qual informou, em 16/08/2012, que o réu estava ausente do estabelecimento prisional, e para a Secretaria de Justiça e Cidadania do Estado do Ceará - SEJUS, a qual informou que o réu deu entrada na unidade prisional em 19/03/2010, mas empreendeu fuga em 05/02/2011, não tendo retornado ao cárcere" (e-STJ fls. 114/115).
+3. Ademais, ""alterar o entendimento da Corte de origem acerca do não exaurimento das diligências de forma a autorizar a citação por edital, demandaria necessariamente o revolvimento do conjunto fático-probatório do processo, o que é vedado em instância especial ante a incidência do enunciado n. 7 da Súmula do STJ". (AgInt no AREsp 886.701/RS, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 27/04/2017)" - AgRg no AREsp n. 1.195.474/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+4. Na dicção do que prevê o enunciado 415 da Súmula desta Corte, ""o período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada", de modo que, uma vez decorrido o prazo prescricional com base na pena máxima em abstrato para o crime durante a suspensão, esta cessa e o processo e a prescrição voltam a fluir" (AgRg no RHC n. 130.964/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2020, DJe de 25/8/2020).
+5. No caso vertente, "o prazo prescricional foi suspenso em 25/07/2013, tendo transcorrido entre o recebimento da denúncia e a suspensão, 02(dois) anos e 02(dois) meses. Somente em 25 de janeiro de 2024 (fl. 316/317 SAJPG), o Juiz de origem determinou o levantamento da suspensão do processo e do curso do prazo prescricional em relação ao réu" (e-STJ fl. 42). Não transcorreu, portanto, lapso temporal suficiente para a declaração de eventual extinção da punibilidade do agravante.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 194.662/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Logo, não há nulidade da citação por edital, não se configurando a nulidade da decisão que determinou a suspensão do processo e do prazo prescricional.
+À vista do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
