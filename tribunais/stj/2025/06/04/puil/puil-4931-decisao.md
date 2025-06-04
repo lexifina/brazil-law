@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial apresentado por CHARLENE DA SILVA MOTTA, com fundamento no art. 18, § 3º, da Lei 12.153/2009, em razão do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 341):
+RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. AÇÃO INDENIZATÓRIA. DANO MORAL . DEMORA PARA JUNTADA DE LAUDO PERICIAL A AÇÃO PREVIDENCIÁRIA. FONTE DO DEVER DE INDENIZAR NÃO COMPROVADO.
+1. A demora de dez meses para juntada de laudo pericial aos autos, isoladamente, não configura fonte do dever de indenizar. 2. Ademais, o prazo estendido para a juntada aos autos ocorreu em cenário pandêmico, após suspensão de realização de perícias, quando havia escalonamento para exercício de atividades presenciais e prevalência do teletrabalho. 3. Considerando a data de ajuizamento da demanda não se pode considerar que a tramitação do processo excedeu prazo razoável ou que desbordados os primados da celeridade. Inexistência de dano moral indenizável. RECURSO DESPROVIDO.
+Nas suas razões, a parte requerente afirma deve prevalecer o entendimento de que "o atraso na entrega de laudo/diagnóstico incorre em violação ao art. 5º da Constituição Federal e configura ato ilícito, conforme previsto no art. 186 do Código Civil" (fl. 454).
+Requer que seja dado provimento ao Pedido de Uniformização de Interpretação de Lei Federal, reformando o acórdão proferido pelo Tribunal estadual.
+O Ministério Público Federal manifestou-se pelo não conhecimento do pedido (fl. 896).
+É o relatório.
+Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça", e especificamente no que se refere a questões de direito material, senão vejamos:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Nos moldes exigidos pelo art. 1.029, § 1º, do Código de Processo Civil e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência deverá ser demonstrada mediante:
+(a) juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade desses documentos;
+(b) citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado;
+(c) cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência;
+(d) além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados.
+Da leitura das razões do pedido de uniformização, observo que as medidas acima descritas não foram devidamente adotadas pela parte requerente, que não se ocupou de estabelecer o elo de identidade entre as hipóteses confrontadas que permitisse afirmar a incoerência do julgado atacado com súmula ou jurisprudência dominante do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. INOBSERVÂNCIA DOS REQUISITOS LEGAIS E REGIMENTAIS. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Na forma da jurisprudência do STJ, o Incidente de Uniformização dirigido a esta Corte Superior é cabível contra decisão colegiada da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ, exigindo-se a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia. Precedentes do STJ.
+III. Segundo o entendimento jurisprudencial desta Corte, decisão monocrática não serve como paradigma, para fins de demonstração da existência do dissídio jurisprudencial, porquanto se trata de manifestação unipessoal do relator, que não compreende o conceito de "jurisprudência dominante". Nesse sentido: STJ, AgInt nos EDcl no PUIL 932/RS, Relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 19/03/2020.
+IV. A Corte Especial desta Corte já decidiu que "a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ" (STJ, AgRg nos EREsp 1.743.945/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 20/11/2019). Em igual sentido: STJ, AgInt no PUIL 760/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 02/04/2020; PUIL 1.395/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 26/02/2020.
+V. Agravo interno improvido.
+(AgInt no PUIL n. 3.460/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 28/3/2023, DJe de 3/4/2023, sem destaque no original.)
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DISSÍDIO NÃO COMPROVADO. CONTRARIEDADE À JURISPRUDÊNCIA DO STJ. DESCABIMENTO.
+1. Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, restringe-se a questões de direito material, quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. Hipótese em que o requerente não demonstrou a identidade entre os arestos confrontados, limitando-se a transcrever algumas ementas de julgados de Turmas Recursais de outros Estados, sem realizar o necessário cotejo analítico, bem como o pedido foi amparado em alegação de contrariedade da jurisprudência deste Tribunal que não está sedimentanda em súmula.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. 2.758/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/6/2022, DJe de 1º/7/2022, sem destaque no original.)
+Ante o exposto, não conheço do pedido de uniformização.
+Publique-se.  Intimem-se.
+ EMENTA
