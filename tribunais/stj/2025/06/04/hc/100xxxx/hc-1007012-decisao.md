@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VALDAIR RODRIGUES DE SOUSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA.
+Consta dos autos que o paciente foi preso em flagrante em 10/3/2025, posteriormente convertida a custódia em preventiva, pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que a segregação processual do paciente não apresenta fundamentação idônea e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Afirma que as drogas apreendidas no interior do caminhão não eram de conhecimento do paciente.
+Entende adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP, realçando os predicados pessoais favoráveis do paciente.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva do paciente pelas medidas cautelares diversas do cárcere.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+A prisão cautelar foi assim fundamentada (fls. 15-16, grifei):
+Conforme narrado acima, o flagranteado foi preso por estar transportando grande quantidade de droga e que, conforme BO, não era a primeira vez e que já estavam investigando, inclusive acompanhando quando o motorista vinha da região fronteiriça e que foi abordado no momento melhor oportuno.
+ ..
+No caso presente, a grande quantidade demonstra uma maior periculosidade, além de, segundo BO, o flagranteado está envolvido com outras pessoas já conhecidas da polícia e envolvidas com tráfico, mais especificamente o ELISEU FRANCISCO, o vulgo "ZEBEDEU", e que não seria a primeira vez em que passou por essa situação de transporte.
+Trecho do BO - "VALDAIR RODRIGUES, veio da região fronteiriça do Estado Acre com a Bolívia e conforme as investigações, este iria novamente fazer um transporte de drogas a serviço do referido grupo criminoso." grifo nosso.
+Portanto, a garantia da ordem pública encontra-se certamente abalada, pois a quantidade de droga era suficiente para alimentar mais de um município, como nas próprias caixas vinham indicando a localidade para onde iriam "Natal e Recife".
+Lado outro, sabe-se que em casos de tráfico de drogas, a liberdade dos agentes que traficam pode dificultar a instrução processual, com a possível dificuldade de localização até do flagranteado para inciar o processo, dado que mora do outro lado do país, Monte Carmelo - MG, e é motorista de caminhão que roda todo o território nacional e ainda pela Bolívia.
+Digo isso, pois foi preso em Rondônia, vinha do Acre, Passou pela Bolívia, mora em Minas Gerais e, segundo o BO, iria para estados do Nordeste.
+ ..
+Em suma, a grande quantidade e a mobilidade do fragenteado e a incerteza do seu paradeiro, se solto for, não havendo outra medida suficiente, nem mesmo o monitoramento eletrônico, para assegurar a ordem pública, conveniência da instrução criminal e a aplicação da lei penal, não há outro caminho senão converter o flagrante em preventiva. Assim, ante as considerações supra, HOMOLOGO O FLAGRANTE E A CONVERTO EM PRISÃO PREVENTIVA do nacional, VALDAIR RODRIGUES DE SOUZA, o que faço com fundamento nos artigos 311 e 312 do Código de Processo Penal.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa , pois, por ocasião da prisão em flagrante, foram apreendidos aproximadamente 227 tabletes de cocaína (com peso bruto aproximado de 241.820,00 g) e 27 de maconha (com peso bruto aproximado de 27.945,00 g) - fl. 17.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifei .)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
