@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pela MASSA FALIDA DA MASTERLINK AUTOMAÇÃO PREDIAL LTDA. contra acórdão da Terceira Turma assim ementado (fl. 3.192):
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DIREITO PROCESSUAL CIVIL. PRINCÍPIO DA INALTERABILIDADE DA SENTENÇA. EXCEÇÕES. ROL EXEMPLIFICATIVO. ART. 139 DO CPC. JUIZ. PODER-DEVER. CONDUÇÃO DO PROCESSO.
+1. Na origem, cuida-se de decisão interlocutória que decretou a nulidade da sentença porque constatada, após a sua publicação, a ausência nos autos da documentação colacionada com a contestação.
+2. As questões controvertidas no presente recurso podem ser assim resumidas: (i) se o acórdão recorrido padece de vício de nulidade por negativa de prestação jurisdicional e (ii) se é válida a decisão de primeiro grau que, após a publicação da sentença, decreta a sua nulidade por vício decorrente da não digitalização de documentos juntados com a peça contestatória.
+3. Segundo a jurisprudência desta Corte, o rol do artigo 494 do Código de Processo Civil, que traça pressupostos em que poderá o juiz alterar o conteúdo do provimento jurisdicional, excepcionando o princípio da inalterabilidade da sentença, é meramente exemplificativo.
+4. O artigo 139 do Código de Processo Civil estabelece que o magistrado, na condução do processo, tem o poder-dever de zelar pela sua regularidade, assegurando às partes igualdade de tratamento (inciso I), velando pela razoável duração do processo (inciso II), prevenindo ou reprimindo qualquer ato contrário à dignidade da justiça (III), determinando o suprimento de pressupostos processuais e o saneamento de outros vícios processuais (inciso IX).
+5. Recurso especial provido.
+Foram opostos e rejeitados embargos de declaração (fls. 3.231-3.236).
+A parte embargante suscita divergência sobre a possibilidade de relativizar o princípio da inalterabilidade da sentença sem observância do contraditório e da ampla defesa, indicando como paradigmas os seguintes acórdãos: AgInt no REsp n. 2.060.146/CE e REsp n. 2.016.601/SP, da Primeira Turma, e AgInt no AREsp n. 1.743.765/SP, da Segunda Turma.
+Argumenta que o acórdão embargado divergiu, de forma escancarada, de outros precedentes do STJ ao permitir a alteração da sentença sem o respeito ao contraditório e à ampla defesa, contrariando a jurisprudência que veda decisões surpresa e assegura às partes o direito de ser ouvidas antecipadamente sobre todas as questões relevantes do processo.
+É o relatório. Decido.
+Os embargos de divergência têm como objetivo uniformizar a jurisprudência interna da Corte, afastando a adoção de teses divergentes pelos órgãos fracionários acerca da mesma controvérsia jurídica. Disso resulta que é pressuposto do cabimento de embargos de divergência que os arestos confrontados emitam teses divergentes sobre determinada questão jurídica.
+No caso, a embargante sustenta que a divergência reside na exegese do art. 10 do CPC, defendendo a impossibilidade de decisão judicial relativizar o princípio da inalterabilidade da sentença sem observância do contraditório e da ampla defesa, sob pena de ofensa ao princípio da não surpresa.
+Todavia, verifica-se que o acórdão embargado não emitiu tese a respeito do referido dispositivo legal. Cingiu-se a examinar a possibilidade de o juiz, após a publicação da sentença (e ainda não encerrada a instância, pois pendentes de julgamento embargos de declaração), decretar sua nulidade por vício decorrente da não digitalização de documentos juntados com a peça contestatória. Nesse contexto, concluiu positivamente por reconhecer o caráter exemplificativo do rol do art. 944 do CPC, amparando-se ainda no art. 139 do mesmo diploma processual.
+Nesse cenário, ausente a emissão de tese jurídica passível de confronto, não há divergência a ser sanada no âmbito dos presentes embargos de divergência.
+Ante o exposto, inadmito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
