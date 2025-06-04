@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE BENEFÍCIO. TETOS. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação ao art. 1.022, II, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 141 e 492 do CPC, sustentando que "ao acolher o agravo para determinar a revisão do benefício nos moldes do IAC 5037799-76.2019.4.04.0000 a C. Turma julgadora acabou por deferir uma tutela diversa daquela pleiteada pela parte autora".
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls.):
+"No caso, não se verifica nem contradição nem omissão, pois a tese que foi assentada no Incidente de Assunção de Competência (IAC) de que trata o processo nº 5037799-76.2019.4.04.0000 veio a corroborar e a afastar quaisquer dúvidas a respeito da abrangência do entendimento do Supremo Tribunal Federal formado no Recurso Extraordinário n.º 564.354/SE (Tema 76), não só aos benefícios que foram concedidos na sua vigência, ou durante o chamado "buraco negro" como também àqueles que foram concedidos antes da Constituição Federal de 1988. Atente-se para o item 3 da ementa do aludido IAC:
+ ..
+Verifica-se, pois, que, para os benefícios que foram concedidos após a Constituição Federal de 1988 mas antes da vigência da Lei n.º 8.213, o julgamento do IAC, embora não tenha inovado, também não dispôs de modo contrário; ao invés, ratificou o que já havia sido decidido pelo Supremo Tribunal Federal no Tema n.º 76 (RE 564.354)".
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Quanto ao mais, da análise do trecho acima consignado, constata-se a ausência de impugnação, nas razões do recurso especial, do fundamento autônomo acima destacado, suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Por fim , quanto à análise dos arts. 141 e 492 do CPC, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração. Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Destaque-se que não há contradição em afastar a alegada violação do art. 1022 do CPC/2015 e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado, como na hipótese dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. PENHORA NO ROSTO DOS AUTOS. VIOLAÇÃO DOS ARTS. 489 E 1.022, DO CPC. OMISSÃO. INEXISTÊNCIA. INEFICÁCIA DO ACORDO E VALIDADE DA SUB-ROGAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, conforme excerto extraído dos embargos de declaração.
+ ..
+6. Esta Corte Superior já firmou entendimento no sentido de que não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do Código de Processo Civil de 2015, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado.
+7. Ressalta-se que, nos termos da jurisprudência pacífica desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/4/2017).
+Agravo interno improvido (AgInt no AREsp n. 2.453.641/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
