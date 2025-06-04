@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CARLA BATISTA DOS SANTOS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Piauí em apelação cível nos autos de ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e indenização por danos patrimoniais e morais.
+O julgado foi assim ementado (fl. 189):
+CIVIL. CONSUMIDOR. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO COM INDENIZAÇÃO POR DANOS PATRIMONIAIS E MORAIS. LIDES TEMERÁRIAS. PODER GERAL DE CAUTELA DO MAGISTRADO. DESPACHO DETERMINANDO A EMENDA DA INICIAL PARA QUE A PARTE AUTORA JUNTE OS EXTRATOS BANCÁRIOS DA SUA CONTA. CONTROLE DO DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. DESPACHO NÃO CUMPRIDO. ALEGAÇÃO DE QUE NÃO É DEVER DA PARTE AUTORA TRAZER TAIS DOCUMENTOS. TESE INACEITÁVEL. INVERSÃO DO ÔNUS DA PROVA QUE NÃO OCORRE OPEN LEGIS, MAS OPEN IUDICIS. FACULDADE DO JUIZ, ANTE A ANÁLISE DO CASO CONCRETO. EXTRATOS NÃO COLACIONADOS. INDEFERIMENTO MANTIDO. RECURSO CONHECIDO E NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Em suas razões, a recorrente alega, além de dissídio jurisprudencial, violação do art. 6º, VIII, do CDC, pois a inversão do ônus da prova deveria ter sido aplicada em favor do consumidor.
+Sustenta que houve contrariedade à Súmula n. 26 do TJPI, porque a inversão do ônus da prova em favor do consumidor em contratos bancários não foi observada.
+Também sustenta ofensa ao Tema n. 411 do STJ, porquanto a decisão divergiu do entendimento desta Corte sobre a inversão do ônus da prova em contratos bancários.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando-se a inversão do ônus da prova em seu favor.
+As contrarrazões foram apresentadas às fls. 269-273.
+Admitido o apelo extremo (fls. 275-281), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+A controvérsia diz respeito a ação de declaração de inexistência de relação jurídica cumulada com repetição de indébito e indenização por danos patrimoniais e morais em que a parte autora pleiteou a declaração de nulidade de contrato de empréstimo consignado no tocante à repetição de indébito em dobro e à indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou extinto o processo sem resolução do mérito, indeferindo a petição inicial com fundamento nos arts. 321, parágrafo único, e 485, I, do CPC, por não ter a parte atendido a determinação de emenda da petição inicial para a apresentação dos extratos bancários que comprovassem o desconto e o não recebimento dos valores.
+A Corte estadual manteve a sentença, negado provimento ao recurso de apelação da parte autora.
+Registre-se que o Superior Tribunal de Justiça já esclareceu a inversão do ônus não é automática, pois depende da constatação pelas instâncias ordinárias da presença ou não da verossimilhança das alegações do consumidor, não estando dispensado de comprovar minimamente o fato constitutivo de seu direito (AgInt no AgInt no AREsp n. 1.931.196/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt no AREsp n. 1.328.873/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/11/2019, DJe de 18/12/2019; AgInt nos EDcl no REsp n. 1.991.361/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+No acórdão recorrido, o Tribunal de origem concluiu que a inversão do ônus da prova não é obrigação do juízo, sendo necessária a comprovação de determinados requisitos, como a verossimilhança das alegações e a hipossuficiência do consumidor, além da comprovação, com a apresentação dos extratos bancários, de que o empréstimo não fora realizado e de que a parte não recebera o crédito oriundo dessa transação, fato constitutivo de seu direito, o que não foi atendido na espécie, ocasionando o indeferimento da petição inicial. Confiram-se trechos do acórdão recorrido (fls. 195-198):
+Todavia, pela literalidade de ambos os dispositivos supramencionados, fica evidente que a inversão do ônus da prova não é automática (ope legis), sendo, na verdade, medida ope iudicis , ou seja, a critério do magistrado quando entender que estão cumpridos os requisitos.
+Na inicial, a parte autora, ora parte apelante, anexa o extrato de consignação informando os empréstimos realizados em seu nome (id.13930235), logo, deduz-se que ela também pode realizar o mesmo procedimento em relação aos seus extratos bancários, conforme determinado pelo Juiz a quo.
+ ..
+Ora, o fato do juízo de primeiro grau exigir ao autor que apresente os extratos da sua conta bancária referentes aos meses em que alega que não realizou o empréstimo, bem como não recebeu o crédito pactuado pela avença, relaciona-se com a atribuição do fato constitutivo do seu direito.
+O Código de Processo Civil estabelece no artigo 373 que "o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito."
+A exigência do Magistrado quanto à juntada dos extratos se subsume à incidência prática da questão processualista do ônus probatório.
+Constato que tal atitude não viola o instituto da inversão do ônus da prova, incorporado na súmula nº 26 deste Tribunal de Justiça, uma vez que, como já exposto anteriormente, atribui ao juiz a faculdade de decretar a inversão desde que comprovada a hipossuficiência do consumidor em relação à instituição financeira.
+ ..
+Além do mais, o descumprimento da juntada dos extratos bancários aos autos, conforme despacho contido no id.13930236, gerou o indeferimento da inicial.
+Ao assim decidir, o acórdão recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça, atraindo a aplicação da Súmula n. 83 do STJ.
+Ademais, o Tribunal a quo fundamentou sua decisão de indeferimento da petição inicial nos poderes e deveres do magistrado previstos no art. 139, III, do CPC, que deve evitar a litigância predatória utilizando seu poder geral de cautela, o que não foi combatido nas razões do recurso especial da recorrente, que se limitou a defender a necessidade de inversão do ônus probatório, a violação da Súmula n. 26 do TJPI e do Tema n. 411 do STJ.
+Assim, considera-se deficiente a argumentação desenvolvida no recurso especial, impondo seu não conhecimento, se aqueles fundamentos não atacados que subsistirem forem suficientes para manter o aresto impugnado (Súmula n. 283 do STF).
+No tocante à alegada ofensa à Súmula n. 26 do TJPI, a jurisprudência do STJ firmou-se no sentido de que o recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+No que diz respeito à interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ademais a alegação de dissídio jurisprudencial baseada em acórdão paradigma do próprio Tribunal de origem atrai a incidência do óbice da Súmula n. 13 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
