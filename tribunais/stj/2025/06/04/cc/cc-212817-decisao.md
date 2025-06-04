@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito envolvendo o r. juízo da 18ª Vara Cível de São Paulo - SP e o r. juízo da 9ª Vara do Trabalho de São Paulo - SP.
+Discutem, ambos os juízos, acerca da competência para o julgamento de reclamação trabalhista (fls. 66 e 68-69, e-STJ).
+O MPF ofertou parecer no sentido da prescindibilidade da sua opinião quanto ao mérito (fls. 77-79, e-STJ).
+É o relatório.
+Decide-se.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. O Supremo Tribunal Federal - STF, no âmbito da ADC nº 48/DF reconheceu a constitucionalidade da Lei nº 11.442/2007 que prevê o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+Os contratos de prestação de serviços regidos pela referida lei afastam a configuração de vínculo laboral quando preenchidos os requisitos legais, devendo esta análise ser feita, inicialmente, na Justiça Comum e, caso não preenchidos tais requisitos, a competência passa a ser da Justiça do Trabalho. A propósito:
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. LEI 11.442/2007. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 48/DF. CONSTITUCIONALIDADE DECLARADA PELO STF. VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. AFASTAMENTO PELO JUÍZO ESTADUAL. PEDIDO DE RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. REMESSA À JUSTIÇA DO TRABALHO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO JUÍZO LABORAL. SUCEDÃNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, a controvérsia cinge-se em determinar o Juízo competente para analisar demanda em que a parte interessada requer o reconhecimento de vínculo trabalhista, em que pese a celebração de contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração, o qual é regido Lei nº 11.442/2007.
+2. O Supremo Tribunal Federal - STF, no âmbito da ADC nº 48/DF reconheceu a constitucionalidade da Lei nº 11.442/2007 que prevê o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+3. O STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho.
+4. No caso sob análise, a demanda foi inicialmente proposta no Juízo laboral que declinou de sua competência, remetendo o feito à Justiça estadual que reconheceu não estarem presentes os requisitos caracterizadores do contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração regido Lei nº 11.442/2007.
+5. Ademais, se a parte agravante não concorda com os fundamentos exarados pelo Juízo estadual, que afastou a incidência da Lei nº 11.442/2007, deveria se valer dos recursos pertinentes para a reforma do julgado, ao passo que o presente conflito de competência não pode ser utilizado como sucedâneo recursal sob pena de supressão de instâncias, conforme o pacífico entendimento desta Corte Superior.
+6. Agravo interno não provido.
+(AgInt no CC n. 186.135/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2023, DJe de 20/4/2023.)
+Citem-se mais as seguintes decisões monocráticas: CC 209.541/PR, relator Ministro Moura Ribeiro, DJen 02/04/2025; CC 211.507/SP, relator Ministro João Otávio de Noronha, DJen 31/03/2025.
+Na hipótese dos autos, o r. juízo suscitante não fez a adequada análise dos requisitos para aplicação da referida lei, conforme se percebe da leitura da decisão de fls. 68-69, e-STJ e, portanto, inexiste pronunciamento judicial a respeito do ponto a fim de oportunizar regular impugnação das partes, por meio de recurso próprio, antes do encaminhamento dos autos para a Justiça Especializada.
+Deste modo , deve ser reconhecida a competência da Justiça Comum tendo em vista a ausência de análise adequada a respeito do preenchimento dos requisitos da Lei nº 11.442/2007 na hipótese.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, conhece-se do presente conflito e, por conseguinte, declara-se a competência do r. juízo da 18ª Vara Cível de São Paulo - SP.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos.
+EMENTA
