@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em raz ão da incidência da Súmula n. 7/STJ e ausência de negativa de prestação jurisdicional (fls. 566-572).
+O acórdão recorrido encontra-se assim ementado (fl. 416):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO POR QUANTIA INCERTA - CONVERSAO EM EXECUÇÃO POR QUANTIA CERTA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ACOLHIMENTO EM PARTE - NULIDADE DO FEITO EXECUTIVO - VICIO DO NEGOCIO JURIDICO (SIMULAÇAO) - NULIDADE DA CLAUSULA 5ª DO CONTRATO - MATÉRIAS DISCUTIDAS EM AUTOS EM APARTADOS - DILAÇÃO PROBATÓRIA - DESBLOQUEIO DE NUMERÁRIO - CABIMENTO - NÃO EXAURIMENTO DO PRAZO PARA PAGAMENTO OU OPOSIÇÃO DE EMBARGOS - RECURSO PARCIALMENTE PROVIDO.
+A exceção de pré-executividade não é a via adequada para discussão de questões que envolvem o excesso de execução, mas de vicio, erro de ordem jurídica ou material que contamina em nulidade o feito executivo.
+A alegação da existência de nulidade da execução tendo como matéria de fundo a simulação contratual não merece acolhimento na estreita via da exceção de pré-executividade, situação que demandaria dilação probatória.
+A manutenção da penhora de numerário como medida cautelar, quando pendente prazo para o devedor quitar voluntariamente o débito ou manejar embargos à execução, se mostra indevido, vez que, é imprescindível o reconhecimento da mora para adoção de medidas constritivas.
+Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 474-486).
+Nas razões do recurso especial (fls. 494-520), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais: arts. 167 do CC/200 2; 18, parágrafo único, do Decreto n. 59.566/1966 e 11, 239, § 1º, e 489, § 1º, do CPC/2015.
+Defendeu que "houve situação de simulação no negócio jurídico celebrado, importando com a nulidade da Cláusula nº 05 do contrato de arrendamento rural" (fl. 506).
+Aduziu que, "se a norma cogente e obrigatória estabelece que é vedado ajustar como preço de arrendamento quantia fixa de frutos ou produtos, ou seu equivalente em dinheiro, a solução da questão é a aplicação da legislação outrora mencionada, eis que se trata de norma de ordem pública e, assim, cognoscível em qualquer grau de jurisdição" (fl. 507).
+Por fim, asseverou que "houve nítida omissão por parte do Egrégio Tribunal de Justiça do Mato Grosso que não apreciou a questão da nulidade da citação manejada nos autos do agravo de instrumento" (fl. 512).
+Requereu a atribuição de efeito suspensivo.
+No agravo (fls. 575-588), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 593-603).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 11, 239, § 1º, e 489, § 1º, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese de que "houve nítida omissão por parte do Egrégio Tribunal de Justiça do Mato Grosso que não apreciou a questão da nulidade da citação manejada nos autos do agravo de instrumento", o Tribunal de origem assim se manifestou (fl. 483):
+Pois bem. O embargante sustenta a ocorrência de contradição no v. acórdão, alegando que o v. condutor ao determinar a reabertura do prazo ao executado não esclarece se a citação realizada, por meio de intimação do advogado, seria considerada válida para fins de contagem do prazo, além de questionar a nulidade da Clausula 5ª do contrato, e a necessidade de suspensão do processo de execução na origem.
+Deveras, o vício da contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, circunstância que não se depreende do julgado embargado.
+Deveras, o voto condutor cingiu-se apenas em determinar o desbloqueio do numerário mantido cautelarmente constrito na origem pelo juiz a quo, fundamentado no fato de que a conversão da modalidade de execução de quantia incerta para quantia certa, torna indevida a manutenção da constrição do valor bloqueado, porque ainda não efetivada a citação do executado após a conversão do rito, e por isso, não inaugurado o prazo para o devedor quitar voluntariamente ou opor embargos à execução, o que é imprescindível ao reconhecimento da mora e adoção de medidas constritivas.
+Agora a citação do executado, cabe ao juiz singular, de acordo com o procedimento da execução por quantia certa, previsto nos artigos 824 a 830 do CPC, havendo previsão expressa no art. 829 do CPC, da necessidade de nova citação da parte executada.
+Nesse contexto, segundo a jurisprudência do STJ, se o acórdão recorrido analisou de forma suficiente a questão suscitada no recurso, o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 11, 239, § 1º, e 489, § 1º, do CPC/2015.
+Relativamente à simulação do negócio jurídico entabulado entre as partes, a Corte de origem concluiu que (fls. 412-413, grifei):
+ ..
+Dito isso, entendo que a decisão agravada merece parcial reforma, apenas no tocante à liberação do numerário e penhora dos bens, vez que quanto as demais matérias arguidas, estas, pois, envolvem excesso de execução, além de demandar dilação probatória, e não de vicio, erro de ordem jurídica ou material que contamina em nulidade o feito executivo a ser discutido pela via estreita da exceção de pré-executividade.
+Demais disso, como bem pontuou a magistrada, as matérias referentes à nulidade do título executivo decorrente do alegado vício social no negocio jurídico (simulação) e em razão da invalidade da Clausula 5ª do instrumento, já estão sendo discutidas nos autos em apenso, a saber: Embargos à Execução sob n. 1006084-73.2021.8.11.0004 e Ação Declaratória de Nulidade de Negocio Jurídico n. 1005739-10.2021.8.11.0004 o que caracteriza repetição desnecessária de matéria debatida.
+Modificar o entendimento do acórdão impugnado de que "as matérias referentes à nulidade do título executivo decorrente do alegado vício social no negocio jurídico (simulação) e em razão da invalidade da Clausula 5ª do instrumento, já estão sendo discutidas nos autos em apenso,  ..  o que caracteriza repetição desnecessária de matéria debatida", nesta hipótes e, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Fica prejudicada a análise do pedido de efeito suspensivo com o julgamento do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
