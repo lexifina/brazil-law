@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de ALEX LOURENÇO SOARES, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução interposto pelo Ministério Público, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. Decisão pela qual foi deferido o pedido de indulto formulado pelo sentenciado. Decreto nº 11.846/2023. Requisito não preenchido. Sentenciado que ostenta condenação por crime hediondo. Impossibilidade. Vedação prevista no artigo 1º do referido Decreto. A natureza dos crimes suscetíveis ao benefício deve ser aferida à época da edição do Decreto Presidencial e não, na data do cometimento do crime.
+AGRAVO PROVIDO." (e-STJ, fl. 32).
+Neste writ, a impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência da cassação da decisão que lhe deferiu o indulto, com base no art. 2º, XIV, do Decreto Presidencial n. 11.846/2023.
+Assevera que o crime de roubo majorado pelo emprego de arma de fogo foi inserido no rol dos crimes hediondos com a edição da Lei n. 13.964/2019. Sustenta que "a inclusão do delito não pode retroagir para prejudicar o sentenciado se, quando da prática do crime, ainda não era considerado hediondo, à luz da irretroatividade da lei penal mais gravosa, de tal sorte que não podem ser considerados hediondos para fins de obtenção de benefícios, como o indulto e a comutação." (e-STJ, fl. 5).
+Requer, ao final, o restabelecimento da decisão que extinguiu a pena do paciente.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cabe ressaltar que, na dicção do Supremo Tribunal Federal, o indulto natalino é um instrumento de política criminal e carcerária adotada pelo Executivo, com amparo em competência constitucional, que encontra restrições apenas na própria Constituição da República, que veda a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e aos classificados como hediondos.
+Ademais, " consoante  a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade" (AgRg no REsp n. 1.902.850/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+No caso dos autos, o Tribunal de origem cassou a decisão que deferiu o indulto ao paciente, tomando como base o teor do art. 1º, I, do Decreto Presidencial n. 11.846/2023:
+"Art. 1º O indulto coletivo e a comutação de penas concedidos às pessoas nacionais e migrantes não alcançam as que tenham sido condenadas:
+I - por crime hediondo ou equiparado, nos termos do disposto na Lei nº 8.072, de 25 de julho de 1990".
+Na ocasião, afirmou que, embora o crime de roubo majorado pelo emprego de arma de fogo tenha sido cometido em 2011 - antes de ser incluído no rol dos delitos hediondos por força da modificação trazida pela Lei n. 13.964/2019 no art. 1º, II, "b", da Lei n. 8.072/1990 -, a aferição da natureza do crime, para fins de indulto, deve ser feita na data de edição do Decreto Presidencial respectivo.
+Tal entendimento está em conformidade com a jurisprudência desta Corte Superior, que se firmou no sentido de que, para a concessão do benefício, a natureza do crime deve ser verificada na data de edição do Decreto de regência, e não naquela de sua prática:
+"DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LATROCÍNIO. CRIME HEDIONDO. COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL N. 11.846/2023. REQUISITOS NÃO PREENCHIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que não conheceu do habeas corpus em razão de pedido de comutação de penas com base no Decreto Presidencial n. 11.846/2023, indeferido por falta de requisito objetivo.
+2. A Defesa sustenta que o delito de latrocínio praticado não ostentaria natureza hedionda, pois cometido antes da vigência da Lei n. 8.930/1994.
+II. Questão em discussão
+3. A discussão consiste em saber se o agravante faz jus à comutação de penas, considerando a vedação do Decreto n. 11.846/2023 em relação a crimes hediondos.
+III. Razões de decidir
+4. O entendimento do Tribunal de origem está correto ao considerar o latrocínio como crime hediondo na data de sua prática, em 10/3/1992, pois previsto na Lei n. 8.072/1990.
+5. A decisão impugnada está em conformidade com a jurisprudência atual, que não permite a concessão do indulto em relação a crimes hediondos.
+IV. Dispositivo e tese
+6. Agravo não provido.
+Tese de julgamento: 1. O indulto e a comutação de penas não se aplicam a crimes hediondos, conforme o Decreto n. 11.846/2023.
+Dispositivos relevantes citados: Decreto n. 11.846/2023, art. 1º; Lei n. 8.072/1990.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365/PB, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020." (AgRg no HC n. 954.385/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/4/2025, DJEN de 7/4/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO. DELITO ELEVADO À CATEGORIA DE HEDIONDO PELA LEI N. 13.964/2019. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. VEDAÇÃO EXPRESSA DO ART. 1º, I, DO DECRETO 11.846/2023. NATUREZA DO DELITO QUE DEVE SER AFERIDA NO MOMENTO DA ENTRADA EM VIGOR DO DIPLOMA PRESIDENCIAL. RECURSO IMPROVIDO.
+1 - O Superior Tribunal de Justiça consolidou entendimento no sentido de que "a natureza do crime deve ser aferida ao tempo da entrada em vigor da norma instituidora do benefício." (RHC n. 29.660/PR, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, julgado em 12/4/2011, DJe de 20/5/2011).
+2 - Na hipótese, o acórdão do Tribunal de Justiça que cassou o deferimento do pedido de concessão do indulto com fundamento no art. 1º, I, do Decreto n. 11.846, de 22 de dezembro de 2023, está em consonância com a disciplina dada pelo referido Decreto e não destoa da jurisprudência desta Corte Superior de Justiça.
+3 - Não foram apontados argumentos suficientes para desconstituir as premissas fixadas na decisão recorrida, razão pela qual inexiste constrangimento ilegal a ser reconhecido e que justifique a reforma da decisão agravada.
+4 - Agravo regimental desprovido." (AgRg no HC n. 955.700/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+"HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência do impetrante contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal. EXECUÇÃO PENAL. ATENTADO VIOLENTO AO PUDOR PRATICADO ANTES DA LEI N.º 12.015/09. NATUREZA HEDIONDA. EXPRESSA VEDAÇÃO À CONCESSÃO DE INDULTO. CONSTRANGIMENTO ILEGAL INEXISTENTE. 1. O atentado violento ao pudor cometido antes da entrada em vigor da Lei n.º 12.015/09, ainda que dele não tenha resultado morte ou lesão corporal, possui natureza hedionda. Entendimento firmado pela Terceira Seção desta Corte Superior de Justiça no julgamento do REsp n.º 1.110.520/SP, representativo da controvérsia, de relatoria da Ministra Maria Thereza de Assis Moura.
+2. Havendo no artigo 8.º, inciso III, do Decreto Presidencial n.º 7.873/2012 expressa vedação à concessão dos benefícios do indulto e da comutação a condenados por crimes hediondos, não há constrangimento ilegal a ser reparado por este Sodalício.
+3. Writ não conhecido." (HC n. 298.588/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/5/2016, DJe de 27/5/2016.)
+Nesse contexto, não se vislumbra constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
