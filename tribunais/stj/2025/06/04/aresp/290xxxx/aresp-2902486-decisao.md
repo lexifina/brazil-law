@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ (fls. 849-851).
+O acórdão recorrido encontra-se assim ementado (fl. 630):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL DE CONTRATO. PRELIMINAR DE CERCEAMENTO DE DEFESA AFASTADA. JUROS REMUNERATÓRIOS. TAXA PREVISTA NO CONTRATO É EXCESSIVAMENTE SUPERIOR À MÉDIA DE MERCADO. NÃO HÁ ELEMENTO PROBATÓRIO NOS AUTOS QUE AMPARE A TESE DEFENSIVA. RECONHECIDA A ABUSIVIDADE. RESTITUIÇÃO DOS VALORES EM FACE DA COBRANÇA DE BOA-FÉ. A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DO INDÉBITO TÊM COMO FUNDAMENTO A EXISTÊNCIA DE PAGAMENTO INDEVIDO E A VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. DESCARACTERIZAÇÃO DA MORA. HONORÁRIOS MAJORADOS NA FORMA DO ART. 85, § 11, DO CPC. SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 655-657).
+Nas razões do recurso especial (fls. 664-695), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação:
+(i) do art. 421 do CC, pois (fl. 675):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, porque (fls. 678-681):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+ ..  ao julgar o feito antecipadamente, sem possibilitar a produção da prova pericial contábil expressamente requerida, o D. Juízo a quo violou o disposto no art. 355, incisos I e II e no art. 356, incisos I e II, ambos do CPC/2015, impossibilitando o exercício do contraditório e da ampla defesa e, por conseguinte, CERCEANDO O DIREITO DE DEFESA DA ORA RECORRENTE.
+No agravo (fls. 860-868), a parte afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 881-886 ).
+É o relatório.
+Decido.
+Quanto ao cerceamento de defesa, a Corte local entendeu que (fl. 626):
+O juiz é o destinatário das provas, a quem cabe analisar a necessidade e viabilidade da dilação probatória, nos termos que prevê o artigo 370 do CPC.
+Nessa ordem de ideias, a prova vertida nos autos se mostrou suficiente para viabilizar o julgamento antecipado da lide, não se verificando a mácula processual alegada.  ..
+Quanto aos alegados vícios processuais, a) em razão da ausência de dilação probatória e b) em razão da omissão acerca das provas constantes nos autos, não merecem acolhimento. Observa-se que sentença está devidamente fundamentada, constando expressamente as razões de fato e de direito que firmaram o julgamento de procedência do pedido do autor, não havendo obrigatoriedade do exame de todas as teses ventiladas.
+Assim, modificar o entendimento do acórdão impugnado e reconhecer a existência de cerceamento de defesa, pelo julgamento antecipado da lide e pela desnecessidade de prova pericial, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando seu caráter abusivo (fl. 628):
+Vale referir, que embora a parte apelante faça referência da necessidade do exame das peculiaridades da contratação, em razão do seu elevado risco, não traz aos autos provas ou elementos concretos que a levaram a incrementar a taxa de juros remuneratórios praticada.
+Ora, considerando que a instituição financeira apelante vinca suas razões no minucioso exame de risco, caberia trazer aos autos comprovação dos vetores que maculam o crédito da parte apelada, sobretudo que justifiquem a estipulação de taxa de juros remuneratórios 274% maior que a indicada pelo BACEN.
+Nessa esteira, a apelante aduz que em relação ao contrato devem ser ponderados: (i) o perfil de risco de cada cliente - aqui entendidor como seu rating no mercado, valor e fontes de renda e histórico de negativações e/ou protestos -; (ii) os montantes pactuados; (iii) os prazos de pagamento; (iv) a existência ou de garantias vinculadas à operação; (v) a existência de relação prévia entre a instituição financeira e o tomador do crédito; e (vi) a natureza dos encargos contratos, se pré ou pós-fixados (evento 34, APELAÇÃO1, fl. 21).
+Contudo, não veio aos autos o referido dossiê ou documentação recebida na hora do empréstimo que permitiu à apelante a flutuação dos juros remuneratórios acima da margem praticada pelo mercado, ônus que lhe incumbia por força do disposto no artigo 373, II, do CPC.
+Registre-se que a parte trouxe débitos da autora no SPC. No entanto, tal documento por si só não justifica tamanha discrepância dos juros remuneratórios pactuados com a média aferida pelo Bacen para a mesma modalidade, uma vez que os empréstimos não consignados, como o próprio nome diz, são realizados por clientes que não possuem possibilidade de realizar consignados - pelos mais diversos motivos.
+Logo, à míngua de elemento probatório nos autos que ampare a tese defensiva acerca da necessidade de pactuação de juros remuneratórios superiores nesse contrato, impõe-se a necessidade de revisão.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Ainda, desconstituir a convicção formada pelas instâncias de origem quanto às peculiaridades do contrato e à ausência de prova por parte da recorrente, para assim acolher os argumentos do recurso especial, é inviável em razão das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
