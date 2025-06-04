@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE JUNIOR ISRAEL DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1503140-46.2022.8.26.0535 (fls. 768/802), com a seguinte ementa:
+Roubo triplamente circunstanciado Apelação Recursos defensivos Nulidade processual não configurada Rejeição da matéria preliminar Conjunto probatório suficiente para o reconhecimento da prática delitiva Absolvição Impossibilidade Penas motivadamente dosadas, necessárias e suficientes para reprovação e prevenção dos crimes Sentença mantida Recurso desprovido.
+No recurso especial (fls. 817/830), a defesa requereu, em síntese, o reconhecimento da quebra de incomunicabilidade das testemunhas, com o desentranhamento dos respectivos depoimentos, bem como o afastamento da majorante da restrição da liberdade das vítimas.
+Inadmitido o recurso na origem (fls. 845/847), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 850/857).
+O Ministério Público Federal opinou pelo não provimento do agravo, em parecer com a seguinte ementa (fls. 878/882):
+Penal e Processual Penal. Agravo em Recurso Especial. Roubo majorado. Alegação de quebra de incomunicabilidade de testemunhas. Vício não comprovado. Pedido de desclassificação. Restrição de liberdade das vítimas por tempo razoável. - Requer-se o não provimento do agravo.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+O recurso especial comporta parcial conhecimento e, nesta extensão, há de ser desprovido.
+Com relação à majorante cuja exclusão se requer, o Tribunal de origem consignou que as vítimas sofreram restrição de liberdade por tempo juridicamente relevante, mais de vinte minutos, excedendo em muito a mera subtração. Neste passo, a reversão do entendimento firmado pelas instâncias originárias demanda revolvimento do acervo fático-probatório dos autos, vedado pela Súmula 7/STJ. Neste sentido: AgRg no REsp n. 2.126.290/CE, Quinta Turma, DJe de 13/6/2024.
+Pretende a defesa o reconhecimento da quebra de incomunicabilidade das testemunhas, com o consequente desentranhamento de seus respectivos depoimentos em razão da nulidade observada.
+O Tribunal de origem, ao constatar a presença das vítimas Edson e Edvan durante a oitiva de Luiz Carlos por videoconferência, assinalou a repetição do ato e ausência de interferência no depoimento, destacando, ainda, a existência de provas independentes a sustentar o decreto condenatório.
+Neste contexto, para que se possa reconhecer a nulidade, seria necessária a demonstração de que a inobservância da regra de incomunicabilidade tenha comprometido o convencimento do julgador, o que não se vislumbra no caso presente. É entendimento deste Tribunal Superior que o reconhecimento de nulidade pela inobservância da incomunicabilidade das testemunhas requer a indicação de efetivo prejuízo à defesa, com a demonstração de que tal circunstância tenha influenciado na opinião do julgador (AgRg no AREsp n. 2.603.174/SP, Quinta Turma, DJE 13/8/2024).
+Pelo exposto, conheço do agravo, para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS. TEMPO SUPERIOR AO NECESSÁRIO PARA A SUBTRAÇÃO. PRETENSÃO DE EXCLUSÃO DA MAJORANTE. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. QUEBRA DA INCOMUNICABILIDADE DAS TESTEMUNHAS. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. PLEITO INDEFERIDO.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
