@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA CÍVEL, CRIMINAL E EXECUÇÃO PENAL DE MANTENA - MG contra o JUÍZO DE DIREITO DA VARA ÚNICA DE MANTENÓPOLIS - ES.
+Cuida-se, na origem, de inquérito policial instaurado para apurar a prática dos crimes previstos nos arts. 155, § 6º (furto de semovente domesticável de produção), e 180, caput (receptação), do Código Penal.
+Consta dos autos que o crime de furto qualificado teria ocorrido na comarca de Mantena - MG (Sítio Renascer, Mantena - MG, conforme Boletim Unificado de fl. 7), e a receptação de animal na comarca de Mantenópolis - ES.
+Inicialmente, o Juízo de Direito da Vara Única de Mantenópolis - ES declinou de sua competência para o Juízo de Mantena - MG, ao fundamento de que (fl. 61):
+ ..  por ter o delito de furto qualificado pena mais grave (02 a 05 anos de reclusão) que o crime de receptação (01 a 04 anos de reclusão, e multa) e, por se tratar de jurisdição da mesma categoria, verifico que a competência para processar e julgar o feito, inclusive também diante da conexão probatória ou processual, é do Juízo de Mantena-MG, conforme estabelecido no artigo 76, inciso III e artigo 78, inciso II, "a", ambos do Código de Processo Penal.
+Por sua vez, o Juízo de Direito da 1ª Vara Cível, Criminal e Execução. Penal de Mantena - MG suscitou o presente conflito, alegando que (fls. 77-78):
+ ..  o juízo da Vara Única de Mantenópolis foi o primeiro a conhecer da questão e decidir nos autos do processo, conforme decisão de fl. 31, devendo ser aplicada a regra da prevenção prevista no art. 83 do Código de Processo Penal.
+O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Maria do Socorro Leite de Paiva, opinou pela competência do Juízo de Direito da 1ª Vara Cível, Criminal e Execução Penal de Mantena -MG, o suscitante (fls. 83-86).
+É o relatório.
+Conheço do conflito, nos termos do art. 105, I, d, da Constituição Federal, por envolver juízos vinculados a tribunais diversos.
+No mérito, a questão controvertida cinge-se a definir qual o critério a ser aplicado para fixação da competência: se a regra da prevenção (art. 83 do CPP), como defende o Juízo suscitante, ou a regra da conexão com prevalência do local do crime mais grave (art. 78, II, a, do CPP), como sustenta o Juízo suscitado.
+Com efeito, ao delimitar as normas de competência por conexão ou continência, o Código de Processo Penal, em seu art. 78, dispõe que, no concurso de jurisdições da mesma categoria, prevalecerá a do lugar da infração a qual for cominada pena mais grave. Somente quando as penas forem igualmente graves é que preponderará a do lugar em que tiverem sido cometidos o maior número de infrações. Nos demais casos, será aplicada a regra da prevenção, prevista no art. 83 do CPP. Confira-se:
+Art. 78. Na determinação da competência por conexão ou continência, serão observadas as seguintes regras:
+I - no concurso entre a competência do júri e a de outro órgão da jurisdição comum, prevalecerá a competência do júri;
+Il - no concurso de jurisdições da mesma categoria:
+a) preponderará a do lugar da infração, à qual for cominada a pena mais grave;
+b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade;
+c) firmar-se-á a competência pela prevenção, nos outros casos;
+III - no concurso de jurisdições de diversas categorias, predominará a de maior graduação;
+IV - no concurso entre a jurisdição comum e a especial, prevalecerá esta.
+No caso em exame, verifica-se que os crimes sob investigação possuem penas distintas em abstrato: o furto de semovente (art. 155, § 6º, do Código Penal) tem pena de 2 a 5 anos de reclusão, enquanto a receptação (art. 180, caput, do Código Penal) prevê pena de 1 a 4 anos de reclusão.
+Portanto, sendo o delito de furto de semovente aquele que possui pena mais grave, e tendo ele sido praticado na Comarca de Mantena - MG, deve ser aplicada a regra prevista no art. 78, II, a, do CPP, que estabelece a prevalência do lugar da infração a qual fo r cominada a pena mais grave.
+Registre-se que a regra da prevenção, prevista no art. 78, II, c, do CPP, somente é aplicável quando não for possível resolver a competência com base nas alíneas anteriores do mesmo dispositivo, ou seja, quando não houver diferença na gravidade das penas ou no número de infrações.
+Nesse sentido, confira-se precedente desta Corte Superior:
+CONFLITO NEGATIVO DE COMPETÊNCIA. FURTO MEDIANTE FRAUDE E ESTELIONATO. SAQUE EM CAIXA ELETRÔNICO COM CARTÃO E SENHA FORNECIDOS PELA VÍTIMA. CONSUMAÇÃO. LOCAL DA OBTENÇÃO DO NUMERÁRIO. PRECEDENTES. REALIZAÇÃO DE EMPRÉSTIMOS FRAUDADOS E ENTREGA VOLUNTÁRIA DE VALORES, CONDUTAS MAIS GRAVES PORQUE COMETIDAS CONTRA IDOSO, CONSUMADAS NA JURISDIÇÃO DO JUÍZO SUSCITANTE. APLICAÇÃO DO ART. 78, INCISO II, ALÍNEA C, DO CÓDIGO DE PROCESSO PENAL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITANTE. (..) 5. O crime de estelionato, no caso, é mais grave do que os delitos de furto, pois tem pena abstrata que vai de 1 (um) a 5 (cinco) anos de reclusão e poderá ser aumentado no dobro pela vulnerabilidade etária da Vítima, nos termos do § 5.º do art. 171 do Estatuto Repressivo, podendo a reprimenda máxima atingir 10 (dez) anos de reclusão. Por isso, atrai a prevenção para os delitos conexos de furto, por força do art. 78, inciso II, alínea a, do Código de Processo Penal. 6. Ante o exposto, conheço do conflito para declarar competente o JUÍZO DA 3.ª VARA CRIMINAL DE ÁGUAS LINDAS DE GOIÁS - GO, ora Suscitante.
+(CC n. 183.754/GO, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2022, DJe de 19/12/2022.)
+Ressalte-se, por oportuno, que o equívoco do Juízo suscitante está em presumir que os crimes de furto de semovente e receptação teriam a mesma pena em abstrato, o que não corresponde à realidade. O art. 155, § 6º, prevê pena de reclusão de 2 a 5 anos, enquanto o art. 180, caput, estabelece pena de reclusão de 1 a 4 anos, havendo clara diferença entre as penas cominadas aos dois delitos.
+Ante o exposto, com fundamento no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Cívil, Criminal e Execução Penal de Mantena - MG , o suscitante.
+Comunique-se aos Juízos suscitante e suscitado, com urgência.
+Publique-se. Intimem-se.
+EMENTA
