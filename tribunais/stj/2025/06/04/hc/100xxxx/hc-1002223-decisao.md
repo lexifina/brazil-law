@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VINICIUS DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.24.536772-7/000).
+Consta dos autos que o Juízo da Vara de Execuções Penais da Comarca de Poços de Caldas - MG, na data de 5/3/2024, diante do integral cumprimento das penas aplicadas nas Ações Penais n. 0007714-94.2006.8.26.0650 e 0003727-62.2013.8.26.0114, julgou extinta a punibilidade (fl. 28) e, posteriormente, mais precisamente em 1/4/2024, indeferiu o pedido para que o paciente continuasse a cumprir pena naquela comarca em razão da condenação sofrida nos autos do Processo n. 0000065-16.2017.8.26.0546 (fls. 29-30).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetração (fls. 12-18).
+No presente writ, o impetrante alega que houve erro material no cálculo da pena, que não considerou a nova condenação, resultando na indevida extinção da punibilidade de parte das sanções.
+Sustenta que a autoridade coatora desconstituiu a coisa julgada ao cancelar a unificação das penas, violando a garantia constitucional prevista no art. 5º, XXXVI, da CF.
+Afirma que o paciente possui domicílio, família e trabalho lícito em Poços de Caldas - MG e que foi surpreendido com a determinação de expedição de mandado de prisão, em regime fechado, para cumprimento integral da pena no Estado de São Paulo, sem considerar os 7 meses já cumpridos.
+Por isso, requer, liminarmente, a suspensão do mandado de prisão até o julgamento definitivo do habeas corpus e, no mérito, a concessão da ordem "para reestabelecer a decisão de unificação das penas (Doc. 02), em respeito à garantia da coisa julgada (art.5º, XXXVI, da CF/88), determinando-se a elaboração de novo cálculo na execução penal do paciente" (fl. 10).
+O pedido liminar foi indeferido (fls. 36-38).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 44-48).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado, consignando, para tanto, que (fls. 14-18):
+Inicialmente, cumpre destacar que o habeas corpus, embora seja um remédio constitucional de ampla aplicação para a tutela da liberdade de locomoção, não pode ser utilizado como substitutivo de recursos previstos na legislação ordinária, salvo em casos de flagrante ilegalidade, conforme sedimentado pelos Tribunais Superiores.
+Portanto, é necessária a racionalização do uso do writ, em respeito à lógica do sistema recursal vigente. Assim, tem-se que o instrumento processual adequado para a apreciação de questões relacionadas à execução penal é o Agravo em Execução, previsto no artigo 197 da Lei de Execuções Penais.
+À vista disso, a jurisprudência é no sentido de que o habeas corpus não deve ser empregado em substituição ao recurso próprio:
+ ..
+Ademais, a utilização do habeas corpus como meio alternativo de impugnação contribui para o sobrecarga do Poder Judiciário, prejudicando a celeridade na apreciação das demandas, sobretudo daquelas de natureza urgente.
+ ..
+Dos documentos acostados aos autos, constata-se que o paciente já havia concluído o cumprimento da pena, referente à soma das penas das Ações Penais nº 0007714-94.2006.8.26.0650 e nº 0003727-62.2013.8.26.0114, no momento da juntada da guia de execução relacionada à nova condenação (Processo nº 0000065-16.2017.8.26.0546). Portanto, não cabe a revogação da decisão anterior (que extinguiu as penas) para fins de unificação de todas as punições.
+Explique-se, ainda, que nas informações prestadas, a autoridade coatora ressaltou que a decisão que determinou a unificação de todas penas foi proferida de forma equivocada, motivo pelo qual foi posteriormente retificada (ordem nº 08). Em decisão acostada ao documento de ordem nº 10, o MM. Juiz a quo explicou detalhadamente o ocorrido, pontuando fundamentadamente a razão pela qual não seria possível proceder com o deferimento do pleito defensivo, não havendo, a meu ver, qualquer reparo a ser realizado por esta instância revisora:
+" ..  Trata-se de pedido a fim de o apenado continuar a cumprir pena nesta comarca em razão de condenação no regime fechado consoante as razões de seq. 132.1.
+O MPMG manifestou-se contrariamente ao pedido (seq. 139.1).
+Decido.
+A princípio, verifica-se que a decisão de seq. 82 "Unificação de penas" foi equivocada, uma vez que a guia de execução não havia sido implantada nesta Juízo.
+Ou seja, o apenado cumpria pena apenas em relação a duas condenações. Com efeito, em decisão proferida no seq. 124.1, as condenações das Ações Penais de nº 0007714-94.2006.8.26.0650 e 0003727- 62.2013.8.26.0114 foram extintas.
+No entanto, conforme informado pela defesa do apenado e certificado pela Secretaria deste Juízo (seq. 136.1), o apenado possui guia de execução de pena em regime fechado (n.º 0000065-16.2017.8.26.0546). Referida guia de execução foi corretamente devolvida ao Juízo de origem (seq. 136.1), uma vez que, se tratando de condenação no regime fechado, necessária a expedição do mandado de prisão e prisão do apenado para início do cumprimento da pena (artigo 674, do CPP e 105, da LEP).
+Por fim, anote-se que caso o apenado venha ser preso nesta cidade, comarca diversa daquela onde ocorreu a condenação definitiva, por mero cumprimento a mandado de prisão, não constitui causa legal de deslocamento da competência originária para a execução da pena.  ..
+Desta forma, já extintas as penas das guias em que o apenado cumpria pena nestes autos (seq. 124.1), INDEFIRO o pedido de seq. 132.1. Remeta-se cópia ao Juízo de ITAPIRA/SP (autos n. 0000065- 16.2017.8.26.0546).  .. " (ordem nº 10)
+Dessa forma, considerando que o objeto do presente habeas corpus não é compatível com a via eleita, tendo em vista, ainda, que não se verifica flagrante ilegalidade a justificar a concessão da ordem de ofício, impõe-se o não conhecimento do writ (grifei).
+Verifica-se que o entendimento a que chegaram as instâncias ordinárias está alinhado com a jurisprudência desta Corte Superior de Justiça, a qual entende que, "caracterizado o lapso entre a extinção da pena anterior e o início do cumprimento da sentença superveniente, não há como se acolher o pedido de unificação ditada no art. 111 da LEP" (AgRg no AREsp n. 1.269.706/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2021, DJe de 2/3/2021).
+Nesse mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. DIA SUBSEQUENTE AO TÉRMINO DA EXECUÇÃO ANTERIOR. POSSIBILIDADE. NOVA SENTENÇA CONDENATÓRIA EXARADA APÓS O RESGATE INTEGRAL DA REPRIMENDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da uníssona jurisprudência desta Corte Superior, "havendo lapso temporal entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há que se falar em unificação de penas; o que, para fins de fixação do início do marco temporal para concessão de futuros benefícios executórios, impõe que a nova data- base seja o primeiro dia subsequente à data da extinção da primeira execução" (AgRg no HC n. 884.167/SP, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+2. No presente caso, a pena anteriormente imposta ao agravante foi extinta pelo integral cumprimento em 3/10/2021 e a nova sentença condenatória foi proferida apenas em 4/8/2022. Dessa forma, embora a prisão cautelar (1º/5/2018) tenha ocorrido antes da extinção da primeira execução, vê-se que o título executório foi exarado depois, inviabilizando, assim, a unificação de penas que manteria como data-base a última prisão para fins de progressão.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.839/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA BENEFÍCIOS FUTUROS. LAPSO ENTRE A EXTINÇÃO DE PENA ANTERIOR E O INÍCIO DO CUMPRIMENTO DE PENA SUPERVENIENTE. DATA-BASE É O PRIMEIRO DIA SUBSEQUENTE À EXTINÇÃO DA PENA ANTERIOR. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. não há ilegalidade nas razões constantes da decisão ora recorrida, porquanto não lastreada em qualquer fundamento que não conste da jurisprudência desta Corte Superior.
+2. É cediço o entendimento deste Egrégio no sentido de que, havendo lapso temporal entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há que se falar em de unificação de penas; o que, para fins de fixação do início do marco temporal para concessão de futuros benefícios executórios, impõe que a nova data-base seja o primeiro dia subsequente à data da extinção da primeira execução.
+3. Na hipótese dos autos, o agravante teve sua pena extinta por integral cumprimento em data anterior ao início do cumprimento da pena referente a novo delito, razão pela qual a data-base para concessão de novos benefícios deve ser o primeiro dia subsequente à extinção da primeira, sob pena de utilizar-se duplamente o período de cumprimento anterior.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 884.167/SP, relator Ministro Otávio de Almeida Toledo - Desembargador c onvocado do TJSP, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. PROGRESSÃO AO REGIME SEMIABERTO. REQUISITO OBJETIVO. TERMO INICIAL É O DIA SUBSEQUENTE AO TÉRMINO DAS EXECUÇÕES ANTERIORES JÁ EXTINTAS. IMPOSSIBILIDADADE DE UNIFICAÇÃO DA PENA COM NOVA CONDENAÇÃO. RECURSO IMPROVIDO.
+1-  ..  À luz do art. 111 da LEP, somar-se-á a nova condenação oriunda de processo distinto ao restante que está sendo cumprido pelo sentenciado. Caso contrário, tem de ser formado outro processo de execução. 4. Caracterizado o lapso entre a extinção da pena anterior e o início do cumprimento da sentença superveniente, não há como se acolher o pedido de unificação ditada no art. 111 da LEP. 5. Agravo regimental não provido. (AgRg no AREsp n. 1.269.706/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2021, DJe de 2/3/2021.)
+2- No caso, a guia de execução provisória da nova condenação somente foi emitida em 31/8/2021, ou seja, após a extinção das PECs anteriores (0024572-69.2020.8.26.0050 e 0015855-66.2018.8.26.0041), em 17/6/2021, restando impossível a soma da nova condenação com penas já extintas. Em consequência, o termo inicial para a contagem de benefícios na nova execução penal será o dia subsequente ao término das penas extintas.
+3- Agravo regimental não provido.
+(AgRg no HC n. 762.322/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022, grifei.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO PROVISÓRIA, COM A UNIFICAÇÃO DAS DUAS CONDENAÇÕES. TRÂNSITO EM JULGADO DA EXECUÇÃO N. 1. REVOGAÇÃO DA CUSTÓDIA CAUTELAR REFERENTE À EXECUÇÃO N. 2. CUMPRIMENTO DA PENA DA EXECUÇÃO N. 1 EM REGIME INTEGRALMENTE FECHADO. DECLARADA A EXTINÇÃO DA PUNIBILIDADE, COM EXPEDIÇÃO DE ALVARÁ DE SOLTURA. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA EXECUÇÃO N. 2. PLEITO DE UNIFICAÇÃO DAS EXECUÇÕES PARA FINS DE PROGRESSÃO DE REGIME. IMPOSSIBILIDADE DE UNIFICAÇÃO DE EXECUÇÃO EM ANDAMENTO COM EXECUÇÃO JÁ FINDA. ART.111 DA LEP. AGRAVO DESPROVIDO.
+1. O Tribunal de origem estabeleceu que o término do cumprimento da primeira pena imposta ao agravante ocorreu em 15/2/2012 e a nova condenação sobreveio apenas em 30/4/2015, quando já extinta, portanto, a execução das penas privativas de liberdade impostas em relação ao processo anterior, não sendo devido a unificação das penas.
+2. Havendo um lapso entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há como se acolher o pedido de unificação ditada no art. 111 da LEP.
+3. À luz do art. 111 da LEP, somar-se-á a nova condenação oriunda de processo distinto ao restante que está sendo cumprido pelo sentenciado. Caso contrário, tem de ser formado outro processo de execução.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 493.163/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+A propósito, alterar o contexto fático delineado pelo Tribunal de origem, para concluir que a juntada da nova guia de execução ocorreu em momento anterior ao cumprimento das penas julgadas extintas, demandaria o revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
