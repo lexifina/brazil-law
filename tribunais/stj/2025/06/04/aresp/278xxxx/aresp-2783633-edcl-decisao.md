@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.018-1.022) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial (fls. 1.005-1.012).
+A parte embargante sustenta que:
+(i) "o fiador nunca declarou ser divorciado, sendo certo tal falsidade documento não foi corroborada por ele. E neste sentido, não há na nobre decisão embargada a análise sobre como a exceção à Súmula 332 se aplica ao caso, uma vez que violando o dever de fundamentação" (fl. 1.019);
+(ii) "a decisão ignorou a tese de que a inclusão de cobrança de IPTU e a prorrogação tácita do contrato configurariam novação, o que extinguiria a fiança (art. 835 do CC)" (fl. 1.019);
+(iii) "o acórdão recorrido corroborou o indeferimento de provas sem justificar como a certidão de casamento seria suficiente para afastar o vício de consentimento, uma vez que alega-se falsidade do documento e por essa razão, questionou-se violação à ampla defesa e ao contraditório, teses que não foram enfrentadas pela decisão agravada" (fl. 1.019);
+(iv) "a decisão afirmou que o acórdão estadual está em consonância com a jurisprudência do STJ, mas ignorou que a Súmula 332 prevê ineficácia total da fiança, que só é excepcionada em casos de comprovada má-fé, o que evidentemente não resta indicada como teria ocorrido, uma vez que não se indica provas da validade das páginas do documento em que o fiador foi qualificado" (fls. 1.019-1.020); e
+(v) "a decisão manteve a "nulidade parcial" da fiança para preservar a meação da esposa, mas não explicou como isso se compatibiliza com a solidariedade do fiador (art. 835 do CC)" (fl. 1.020).
+Impugnação apresentada às fls. 1.028-1.030.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Além disso, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em circunstâncias excepcionais, uma vez comprovada a existência no julgado dos vícios mencionados, o que não se evidencia no caso em exame.
+Segundo constou da decisão ora embargada, não há falar em violação dos arts. 489 e 1.022 do CPC, porquanto o Tribunal de origem decidiu a matéria controvertida nos autos, ainda que contrariamente aos interesses da parte, não incorrendo em nenhum dos vícios previstos nos referidos dispositivos legais.
+No mais, incide a Súmula n. 83/STJ, pois o entendimento adotado pelo Tribunal a quo encontra-se em conformidade com a jurisprudência do STJ de que "a fiança prestada sem autorização de um dos cônjuges implica a ineficácia total da garantia (Sumula 332/STJ), salvo se o fiador emitir declaração falsa, ocultando seu estado civil de casado" (AgInt no REsp n. 1.345.901/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2017, DJe de 12/5/2017).
+De todo modo, para alterar as conclusões do acórdão combatido, acerca da inexistência de vício de consentimento, bem como de que a fiança foi prestada mediante declaração falsa do fiador sobre seu estado civil de casado, seria necessário reinterpretar o contrato e revolver elementos fáticos e probatórios da demanda, o que é vedado pelas Súmulas n. 5 e 7 do STJ, que igualmente obstam a apreciação do dissídio jurisprudencial.
+Cabe destacar que a incidência das Súmulas n. 5 e 7 do STJ não envolve o debate sobre obscuridade, contradição, omissão ou erro material, sendo tal análise, por isso, incabível em sede de embargos de declaração.
+A decisão ora embargada ainda acrescentou que, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Todavia, a parte ora embargante não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Por fim, a decisão embargada assinalou que as teses de exoneração da fiança, novação, cerceamento de defesa, cobrança indevida de IPTU e limitação dos valores da condenação, assim como quanto ao prazo prescricional, não podem ser conhecidas por esta Corte Superior, pois a parte não indicou qual dispositivo legal teria sido violado e os artigos de lei apontados como descumpridos não possuem pertinência com esses assuntos, o que atraiu a Súmula n. 284/STF, por deficiência na fundamentação recursal.
+A contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte. No caso, não se observa qualquer contradição.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+ EMENTA
