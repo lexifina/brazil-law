@@ -1,0 +1,25 @@
+DECISÃO
+Os presentes autos originaram-se de um agravo de instrumento interposto nos autos do processo de falência da Alcopan Alcool do Pantanal Ltda., por Manoel Sotero Afonso Pereira, credor da massa falida, que discordara da contratação do auxiliar jurídico do administrador judicial, entendendo que os valores ajustados a título de honorários eram exorbitantes.
+A contratação foi mantida pelo TJ-MT, que apenas reformou parcialmente a decisão agravada para excluir da remuneração do auxiliar judicial o percentual sobre os valores arrecadados ou economizados.
+O acórdão foi assim ementado:
+AGRAVO DE INSTRUMENTO - FALÊNCIA - SUBSTITUIÇÃO DO AUXILIAR JURÍDICO DO ADMINISTRADOR JUDICIAL - POSSIBILIDADE - REMUNERAÇÃO FIXADA EM RAZOABILIDADE E PROPORCIONALIDADE AO TRABALHO A SER DESENVOLVIDO - CLÁUSULA AD EXITUM - AUSÊNCIA DE ILEGALIDADE - RECURSO NÃO PROVIDO.
+De acordo com o art. 22, I, alínea "h" da Lei 11.101/2005 incumbe ao administrador judicial contratar mediante autorização judicial, profissionais ou empresas especializadas para, quando necessário, auxiliá-lo no exercício de suas funções;
+O pagamento dos auxiliares na falência é tratada no § 1º do art. 22 da Lei 11.101/2005, que não impõe nenhuma restrição à contratação desses profissionais com cláusula ad exitum, apenas pondera que serão fixadas pelo juiz, que considerará a complexidade dos trabalhos a serem executados e os valores praticados no mercado para o desempenho de atividades semelhantes.
+Dois recursos especiais foram interpostos contra o referido acórdão: um pelo administrador judicial à época, VALOR ADMINISTRAÇÃO JUDICIAL LTDA. - EPP, buscando a reforma do acórdão ao entendimento de que não houve descumprimento do art. 24 da Lei 11.101/2005. Tal recurso não foi admitido na origem (fls. 1.115-1.120).
+O segundo recurso foi interposto pelo agravante MANOEL SOTERO AFONSO PEREIRA, sustentando vulneração das disposições dos art. 22, I, h, da Lei n. 11.101/2005. Tal recurso fora admitido, na forma da decisão de fls. 1.112-1.114.
+Contrarrazões apresentadas apenas ao recurso do agravante (fls. 1.064-1.097).
+Posteriormente, a assistente jurídica cujo contrato é o objeto discutido no presente feito, A. GONZAGA ADVOGADOS, veio a este Juízo informar a perda de objeto do recurso, posto que sua contratação fora revogada pelo Juízo falimentar (fls. 1.131-1.139).
+Intimados a se manifestarem, o atual administrador judicial concordou com a perda de objeto do recurso, mas o agravante originário afirmou seu interesse na análise das vulnerações legais (fls. 115-1.152 e 1.154-1.156).
+É o relatório. Decido.
+A análise da perda de objeto do recurso especial envolve o próprio mérito recursal.
+Observa-se que, embora o próprio administrador judicial (fls. 1.146-1.148) ter pugnado pela perda do objeto recursal, tal reconhecimento não é automático, inclusive porque o recurso a ser analisado não é de sua autoria.
+Não há controvérsia a respeito do fato de não existir mais o fundamento que deu causa ao presente feito, qual seja, a contratação do assistente jurídico por meio da sociedade A. GONZAGA ADVOGADOS.
+Contudo, o recorrente sustenta a necessidade de se "esclarecer que o que se discute neste especial é a flagrante violação do inciso I, "H", e § 1º, do art. 22 da Lei n. 11.101/2005, e aos arts. 489, § 1º, IV, e 1.022, I, do CPC" (fls. 1.150-1.152). E, de fato, verifica-se nas razões do referido recurso, a indicação do objeto recursal, nestas palavras:
+"O objeto principal do presente recurso diz respeito a quem tem a legitimidade  se o juiz ou o administrador judicial - para iniciativa da contratação e/ou substituição de auxiliar técnico do administrador judicial nos termos da alínea "h" do inciso I do art. 22 da Lei n. 11.101/05. (fls. 993)."
+Nada obstante, a perda de objeto é visível.
+Nas razões do recurso especial argumenta-se a ilegalidade da contratação do assistente por parte do juízo falimentar, que, por iniciativa própria e sem motivação, contra tou o escritório A. Gonzaga Advogados como auxiliar jurídico da massa falida. Também impugna-se a forma de fixação da remuneração do escritório contratado, à luz das disposições do § 1º do art. 22 da Lei n. 11.101/2005.
+Portanto, não existindo mais a referida contratação e nem seus efeitos jurídicos, ficou esvaziado o objeto discutido no presente feito, pois é absolutamente irrelevante a análise da legalidade da referida contratação, sem a própria contratação - base fática que dava suporte às eventuais conclusões legais dela advindas. Sem isso, não há proveito no julgamento do recurso para o caso concreto.
+Inclusive, um dos pressupostos de admissibilidade recursal reside na utilidade do recurso, ou seja, sua proposição pressupõe um possível proveito, uma vantagem para a parte recorrente: "a utilidade do recurso, traduzida como a posição mais favorável pretendida pelo recorrente" (Araken de Assis. Manual dos Recursos. 10ª ed., p. 192), situação que não mais existe no caso concreto.
+Portanto, verifica-se a perda superveniente de objeto do presente recurso especial, de modo que não há mais o que decidir nestes autos.
+Ante o exposto, julgo prejudicado o recurso.
+EMENTA
