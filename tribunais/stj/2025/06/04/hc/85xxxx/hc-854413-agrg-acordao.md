@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Execução penal. Falta grave. Alteração da data-base. Agravo regimental improvido.
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor do agravante, condenado a 65 anos, 2 meses e 20 dias de reclusão, em regime fechado, por posse de aparelho celular, considerada falta grave, durante o cumprimento da pena.
+2. A jurisprudência do Superior Tribu nal de Justiça estabelece que a prática de falta grave interrompe a contagem do prazo para progressão de regime, reiniciando-se a partir do cometimento da infração, conforme Súmula 534 do STJ.
+3. O prazo prescricional para aplicação de sanção disciplinar em execução penal é de 3 anos, conforme o art. 109 do Código Penal, não havendo prescrição no caso em análise.
+4. A ausência de perícia no celular não configura nulidade do PAD, pois a análise do conjunto fático-probatório é incompatível com a via do habeas corpus.
+5. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DEIVYSSON LENNON FERREIRA DA SILVA contra decisão por mim proferida, no sentido de não conhecer do Habeas Corpus (e-STJ fls. 154-157).
+O habeas corpus, com pedido liminar, impetrado em favor do agravante contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (HC n. 0804436- 35.2023.8.02.0000).
+Depreende-se dos autos que o agravante cumpre pena em regime fechado desde 05/07/2011, condenado a uma pena de 65 (sessenta e cinco) anos, 02 (dois) meses e 20 (vinte) dias de reclusão. Durante o cumprimento da pena, foi instaurado contra ele o Processo Administrativo Disciplinar, pela suposta posse de aparelho celular em 16/07/2021, o que foi considerado falta grave.
+Após a homologação do PAD pelo juízo das execuções, foi determinada a alteração da data-base para fins de concessão de benefícios, considerando como marco inicial a data do cometimento da falta grave (16/07/2021), e não a data da prisão inicial (05/07/2011).
+Contra essa decisão, a defesa impetrou habeas corpus perante o Tribunal de origem, que extinguiu o feito sem julgamento de mérito, por considerar inadequada a via eleita, visto que o recurso cabível contra decisão proferida em sede de execução penal seria o agravo em execução, assim ementado (e-STJ fl. 15):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. DECISÃO PROFERIDA EM EXECUÇÃO. REMÉDIO UTILIZADO COMO SUBSTITUTO DE AGRAVO. VIA INADEQUADA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1 - O presente remédio constitucional é manifestamente inadmissível, pois foi impetrado contra decisão proferida em execução, pretendendo utilizar o writ como substituto de recurso legalmente previsto para a hipótese.
+2 - Inexistência de ilegalidade flagrante a ensejar a concessão da ordem de ofício, pois, na apuração de falta disciplinar de natureza grave, deve ser aplicado o prazo prescricional previsto no inciso VI do art. 109 do Código Penal, ou seja, após a vigência da Lei n. 12.234/2010, o prazo prescricional a ser considerado é de 3 (três) anos.
+3 - Nos termos da Súmula n. 534/STJ, "a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento e pena, o qual se reinicia a partir do cometimento dessa infração".
+4 - Habeas corpus extinto sem resolução de mérito.
+A liminar foi indeferida (fls. 121-122).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 141-144).
+Na sequência, este Relator não conheceu do Habeas Corpus (e-STJ fls. 154-157).
+Daí o presente agravo regimental, em que a defesa afirma a necessidade de concessão da ordem, reconhecendo que a ausência da perícia prejudicou o recorrente, devendo então a data base regressão a 05.07.2011. Ainda, que seja reconsiderada a decisão agravada, com a concessão da ordem, reconhecendo a prescrição do PAD de acordo ao artigo 83 do CP. Por fim, que seja reconsiderada a decisão agravada, com a concessão da ordem, reconhecendo excesso de punição ante a confissão do agravante.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Execução penal. Falta grave. Alteração da data-base. Agravo regimental improvido.
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor do agravante, condenado a 65 anos, 2 meses e 20 dias de reclusão, em regime fechado, por posse de aparelho celular, considerada falta grave, durante o cumprimento da pena.
+2. A jurisprudência do Superior Tribu nal de Justiça estabelece que a prática de falta grave interrompe a contagem do prazo para progressão de regime, reiniciando-se a partir do cometimento da infração, conforme Súmula 534 do STJ.
+3. O prazo prescricional para aplicação de sanção disciplinar em execução penal é de 3 anos, conforme o art. 109 do Código Penal, não havendo prescrição no caso em análise.
+4. A ausência de perícia no celular não configura nulidade do PAD, pois a análise do conjunto fático-probatório é incompatível com a via do habeas corpus.
+5. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Preliminarmente, cabível registrar quanto a decisão monocrática por mim proferida, as reiteradas manifestações desta Corte no sentido de que, "não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no RHC n. 147.556/MT, Ministra LAURITA VAZ, Sexta Turma, DJe 25/6/2021).
+Nesse sentido, confiram-se ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCESSÃO DO WRIT POR DECISÃO MONOCRÁTICA DO RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). PEQUENA APREENSÃO DE MUNIÇÃO (3 MUNIÇÕES DO TIPO OGIVAL CALIBRE 12), DESACOMPANHADA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. INEXISTÊNCIA DE POTENCIALIDADE LESIVA. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante. III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral (AgRg no HC n 654.429/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/6/2021).
+ ..
+4. Agravo regimental improvido
+(AgRg no HC 536.663/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não descurou do princípio da colegialidade, visto que visualizou situação abarcada pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal (aplicável também ao recurso em habeas corpus, por força do art. 246 do RISTJ), que autoriza o Relator a decidir o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+ ..
+4. Agravo regimental não provido
+(AgRg no RHC 147.759/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Avançando, em que pesem aos argumentos constantes do agravo regimental interposto pelo agravante, tenho que inexistem motivos para a reforma da decisão ora agravada.
+Conforme constou da decisão agravada, a jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de não admitir a impetração de habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, determinando o não conhecimento da impetração. Contudo, em situações excepcionais, em que evidenciada flagrante ilegalidade, esta Corte tem admitido a concessão da ordem de ofício.
+No caso em análise, contudo, não se verifica qualquer ilegalidade flagrante que justifique a concessão da ordem de ofício. Explico.
+Relativamente à alegada prescrição do PAD, esta Corte Superior possui entendimento pacífico no sentido de que, diante da inexistência de previsão legal específica sobre prazo prescricional para aplicação de sanção disciplinar na Lei de Execução Penal, deve ser utilizado o menor lapso prescricional previsto no art. 109 do Código Penal, que, após a vigência da Lei n. 12.234/2010, é de 3 (três) anos e não de 90 dias. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PRESCRIÇÃO. PRAZO TRIENAL. FUGA. TERMO INICIAL. DATA DA RECAPTURA. RECURSO DESPROVIDO. 1. Na hipótese, durante o cumprimento da pena no regime aberto, o agravante deixou de comparecer em juízo no dia 5/12/2014, tendo sido recapturado em flagrante na data de 17/10/2015. 2. O marco inicial da prescrição para a apuração da falta grave, no caso de fuga, é o dia da recaptura, por se tratar de infração permanente. 3. Na apuração de falta disciplinar de natureza grave, deve ser aplicado o prazo prescricional previsto no inciso VI do art. 109 do Código Penal, ou seja, após a vigência da Lei n. 12.234/2010, o prazo prescricional a ser considerado é de 3 (três) anos. 4. Não decorreu lapso superior ao mencionado entre a data da falta disciplinar, ocorrida em 17/10/2015, e a data de sua homologação judicial, em 19/7/2018 5. Agravo regimental desprovido. (AgRg no HC n. 779.723/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/3/2023, D Je de 30/3/2023.) (grifei).
+No caso em apreço, entre a data da falta grave (16/07/2021) e a homologação judicial do PAD, não transcorreu o prazo prescricional de 3 (três) anos, não havendo, portanto, prescrição a ser reconhecida.
+Em relação à alegação de nulidade do PAD pela ausência de perícia no celular, observo que o impetrante pretende, na verdade, o reexame aprofundado do conjunto fático-probatório que levou à conclusão pela prática de falta grave, providência incompatível com a via estreita do habeas corpus, máxime diante do princípio do livre convencimento motivado que descarta a prova tarifada pericial. Conforme já decidido por esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. PERÍMETRO DE MONITORAMENTO ELETRÔNICO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO. RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o descumprimento das condições e limites estabelecidos para o deslocamento do agente submetido a monitoramento eletrônico enseja falta grave.
+2. Outrossim, maiores incursões não cabem na via estreita do habeas corpus, pois a análise pormenorizada do enquadramento do fato cometido pela agravante como infração disciplinar de natureza grave ou não, na forma pretendida pela defesa, demandaria indispensável revolvimento do conteúdo fático-probatório dos autos.
+3. Agravo regimental improvido. (AgRg no HC n. 785.238/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.) (grifei).
+Por fim, no que tange à alteração da data-base para fins de concessão de benefícios executórios, este Superior Tribunal de Justiça firmou entendimento consolidado na Súmula 534, segundo a qual "a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração". Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ALTERAÇÃO DA DATA BASE PARA FINS DE PROGRESSÃO DE REGIME EM RAZÃO DA PRÁTICA DE FALTA 1. Nos termos da Súm. n. 534/STJ, "a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento e pena, o qual se reinicia a partir do cometimento dessa infração".  ..  3. Agravo regimental a que se nega provimento. (AgRg no AREsp 1408534/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/03/2019, DJe 25/03/2019) (grifei).
+Cumpre ressaltar que referido entendimento está em consonância com o art. 127 da Lei de Execução Penal, que dispõe que "em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar".
+Portanto, não há qualquer ilegalidade na decisão que determinou a alteração da data-base para fins de concessão de benefícios.
+Assim Sendo, como pontuado pelo Ministério Público Federal, "não se descura, entretanto, que, em situações manifestamente ilegais, o remédio constitucional pode ser concedido de ofício - contexto que não se verifica na espécie" (e-STJ fl. 142).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
