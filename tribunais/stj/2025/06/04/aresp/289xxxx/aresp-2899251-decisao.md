@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  MARLEANE CUNHA DA SILVA,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  nas  alínea  s "a" e "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Maranhão,  assim  ementado  (fl.  1. 198,  e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS. ALEGAÇÃO DE NÃO CONTRATAÇÃO. VALIDADE DO PACTO. CONTRATO DEVIDAMENTE ASSINADO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. MANTER SENTENÇA. APELAÇÃO CONHECIDA E DESPROVIDA.
+Os embargos de declaração foram rejeitados (fls. 1.239/1.248, e-STJ).
+Em  suas  razões  de  recurso  especial (fls. 1249/1287, e-STJ),  a  recorrente  aponta  ofensa  aos  artigos  1.022 do Código de Processo Civil de 2015; e aos arts. 6º, III e IV, 39, V, 47, 51, IV, 52 do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta, em síntese, que houve negativa de prestação jurisdicional, pois não se manifestou a respeito das provas apresentadas, bem como ignorou o entendimento firmado na ACP nº. 0010064-91.2015.8.10.0000.
+Afirma haver falha no dever de informação acerca da natureza do contrato e contrariedade ao entendimento fixado no IRDR 53983/2016.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  1313/1320,  e-STJ).  Contraminuta  às  fls.  1323/1348,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. Consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a apontada violação ao art. 1.022 do CPC/15 não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DOENÇA PREEXISTENTE NÃO INFORMADA PELO SEGURADO. EXAMES PRÉVIOS NÃO EXIGIDOS PELA SEGURADORA. MÁ-FÉ DO SEGURADO AFASTADA PELO ACÓRDÃO. REVISÃO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não procede a arguição de ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de Justiça se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+(..)
+5. Agravo interno desprovido.(AgInt no AREsp 2583215 / MT, QUARTA TURMA, julgado em 16/09/2024, DJe 01/10/2024)
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+(1) PRESTAÇÃO JURISDICIONAL. OMISSÃO. FUNDAMENTAÇÃO SUFICIENTE E COERENTE. HIGIDEZ DO DECISUM IMPUGNADO. (2) CRÉDITO CONDOMINIAL. VALOR DESTINADO À CONSERVAÇÃO DO BEM. NATUREZA EXTRACONCURSAL. PRECEDENTES. COMPETÊNCIA. ATOS EXPROPRIATÓRIOS. ANÁLISE À LUZ DA LEI N. 14.112/2020. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO INDIVIDUAL, EXCETO EM RELAÇÃO A BENS ESSENCIAIS DURANTE O STAY PERIOD. JULGADOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não procede a arguição de ofensa aos arts. 489 e 1.022 do NCPC quando o Tribunal Estadual se pronuncia, de forma motivada.
+suficiente e coerente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+(..)
+4. Agravo interno não provido. (AgInt no REsp 2142790/RJ, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 07/10/2024, Dje 09/10/2024)
+2. No mérito, a Corte local concluiu que não houve fraude e reconheceu a validade do contrato objeto de discussão nos autos, conforme se depreende do trecho do acórdão abaixo transcrito (e-STJ, fls. 1.202/1205):
+A questão controvertida diz respeito a suposta fraude na contratação de empréstimo consignado. Adentrando ao mérito, cumpre destacar que a discussão consiste na alegada fraude no contrato de empréstimo consignado celebrado em nome da parte apelante, com desconto direto em seus proventos de aposentadoria. A Parte Ré instruiu o processo com cópia dos Contratos de Empréstimo Pessoal Consignado em Folha de Pagamento devidamente assinado pela parte autora, juntamente com seus documentos pessoais (ID 35816353 - Pág. 3/6), que validam as cobranças questionadas.
+(..)
+Do exame acurado dos autos, verifico que a parte apelante não impugnou, no Juízo a quo, a autenticidade da assinatura aposta no instrumento de contrato trazido pela instituição financeira. E nas suas razões limitou-se tão somente a negar genericamente que tenha solicitado o contrato de empréstimo, bem como que o Banco não juntou o TED ou outro documento comprobatório válido nos autos.
+Ocorre que, conforme disposto no IRDR nº 53.983/2016, caberia a parte Requerente/Apelante comprovar o não recebimento do empréstimo através da juntada do seu extrato bancário, documento necessário para o reconhecimento de seu direito, ônus do qual não se desincumbiu.
+Nesse contexto, a inversão do ônus da prova em causas dessa espécie é medida que se impõe (art. 6º, VIII, do CDC) e, no meu entender, o Banco apelado conseguiu desconstituir as assertivas da parte autora, ora Apelante, no sentido de que contratou o empréstimo consignado em evidência, conforme se verifica da análise do instrumento contratual.
+Nesse enfoque, forçoso se reconhecer pela necessidade manutenção do decisum combatido, vez que, estejam preenchidos os requisitos mencionados acima.
+Desse modo, o banco apelado apresentou prova capaz de demonstrar, de forma inequívoca, a existência de fato impeditivo, modificativo ou extintivo do direito do autor, conforme dispõe o art. 373, II, do CPC, ao comprovar que houve o efetivo empréstimo discutido nos autos, razão pela qual a relação existente é perfeitamente legal, firmada segundo o princípio da boa-fé, merecendo, pois, a manutenção da sentença de primeiro grau quanto à improcedência da demanda.
+Resta incontroversa, portanto, a legalidade dos descontos no benefício previdenciário da parte Apelante, indubitável a impertinência da condenação pelos danos morais, bem como da restituição das parcelas adimplidas.
+Nesse contexto, verifica-se que modificar a conclusão adotada na origem quanto à regularidade da contratação do empréstimo esbarra no reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). VÍCIO DE CONSENTIMENTO CONSTATADO. SÚMULAS N. 5 E 7/STJ.
+1. O Tribunal de origem, através da análise dos fatos e provas acostados aos autos, especialmente do contrato de cartão de crédito consignado e dos extratos referentes ao serviço, entendeu que houve desvirtuação na contratação do empréstimo por meio de cartão de crédito com reserva de margem consignável.
+2. Rever o entendimento firmado no acórdão recorrido a respeito do vício de consentimento demandaria interpretação de cláusula contratual e reexame de provas, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+Agravo interno improvido. (AgInt no AREsp 2405232 / SC, Rel. Min. HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 11/12/2023, Dje 18/12/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 2. CONTRATAÇÃO DE EMPRÉSTIMO COMPROVADA. CONVERSÃO, SOBRE PENA DE ENRIQUECIMENTO ILÍCITO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS N. 5 E 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento ficto/implícito.
+2. Ademais, a desconstituição do entendimento do acórdão estadual recorrido (acerca comprovação da contratação do empréstimo e da necessidade de conversão do empréstimo a fim de evitar enriquecimento ilícito da parte) é procedimento vedado na via eleita do recurso especial, por exigir o reexame de fatos e provas e termos contratuais, em virtude do óbice contido nas Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 2169902 / RS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2023, Dje 13/03/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPARAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO
+CONSIGNADO. CONTRATAÇÃO LEGÍTIMA. REVISÃO DESSE ENTENDIMENTO.
+SÚMULAS 5 E 7 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação, por analogia, da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. O acórdão recorrido, amparado na análise dos elementos fático-probatórios dos autos, concluiu que o contrato em questão não induz à conclusão de que seu objeto seria de empréstimo consignado, tendo constado de forma clara e transparente a informação de que o crédito se referia a saque no cartão de crédito consignado e a utilização da margem consignável do consumidor seria para a amortização ou liquidação do saldo devedor do cartão, se mostrando legítima a contratação do cartão de crédito em questão, tendo a parte efetivamente utilizado do serviço contratado, não havendo falar em abusividade ou ausência de informação.
+3. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, seria necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial. (AgInt no AREsp 1980044 / SP , Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, Dje 17/12/2021)
+3. Por fim, com relação à apontada divergência jurisprudencial, o entendimento deste Superior Tribunal de Justiça é firme no sentido de que "a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 346.367/SP, relator Ministro Humberto Martins, Segunda Turma, DJe 11/9/13).
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
