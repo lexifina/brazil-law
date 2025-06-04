@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pela SOTRAN S.A. LOGÍSTICA E TRANSPORTE, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 459):
+MANDADO DE SEGURANÇA. BASE DE CÁLCULO DO IRPJ E DA CSLL. CRÉDITOS PRESUMIDOS DE ICMS. SENTENÇA EXTRA PETITA. GLOSA. BENEFÍCIOS FISCAIS DE ICMS (DIFERIMENTO, ISENÇÃO E REDUÇÃO DA BASE DE CÁLCULO). PEDIDO DE EXCLUSÃO NA DETERMINAÇÃO DO LUCRO REAL. NÃO APLICAÇÃO DA ORIENTAÇÃO FIXADA PELO STJ NOS ERESP Nº 1.517.492/PR. TEMA 1.182 DOS RECURSOS REPETITIVOS. NECESSIDADE DE OBSERVÂNCIA DOS REQUISITOS LEGAIS (ART. 30 DA LEI Nº 12.973, DE 2014 E ART. 10 DA LEI COMPLEMENTAR Nº 160, DE 2017).
+Os embargos de declaração foram rejeitados (e-STJ fls. 481/483).
+A agravante alega ofensa aos arts. 489, § 1º, IV e VI, e 1.022 do CPC, do art. 1.026,§ 2º, do CPC, do art. 30 da Lei n. 12.973/2014; dos arts. 9º e 10 da Lei Complementar n. 160/2017; do art. 195-A da Lei n. 6.404/1976; do art. 14 § 1º, da Lei Complementar n. 101/2000; do art. 6º § 1º do Decreto Lei n. 1.598/1977 e dos arts. 43, 165 e 168 do CTN.
+Entende que o acórdão é nulo por falta de fundamentação adequada.
+Alega que a multa imposta com base no art. 1.026 § 2º, do CPC não exige depósito prévio para interposição de recurso, pois não houve reiteração de embargos protelatórios.
+Argui que os benefícios fiscais de ICMS não constituem renda ou lucro, portanto, não devem integrar a base de cálculo do IRPJ e CSLL.
+Requer o afastamento da multa, a exclusão dos benefícios fiscais de ICMS da base de cálculo do IRPJ e CSLL e a restituição dos valores pagos indevidamente
+Contrarrazões às e-STJ fls. 579/582.
+O Tribunal de origem de origem negou seguimento ao recurso especial quanto ao Tema 1.182 do STJ e admitiu quanto à multa.
+Contra a parte da decisão agravada que negou seguimento ao recurso especial foi interposto agravo interno, que foi julgado pelo Tribunal de origem.
+Passo a decidir.
+De início, ressalto estar superada a questão objeto do Tema 1.182 do STJ - "impossível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL, salvo quando atendidos os requisitos previstos em lei (art. 10 da Lei Complementar n. 160/2017 e art. 30 da Lei n. 12.973/2014), não se lhes aplicando o entendimento firmado no EREsp 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL" -, já julgada em agravo interno no Tribunal de origem.
+Passo à análise das matérias remanescentes, quais sejam: negativa de prestação jurisdicional e multa aplicada com fundamento no art. 1.026, § 2º, do CPC.
+Pois bem.
+Quanto à alegada ofensa ao art. 489, § 1º, I, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 10, 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.646.468/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/04/2020, DJe 24/04/2020.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSIONÁRIO DE SERVIÇO PÚBLICO. RODOVIA FEDERAL. FAIXA DE DOMÍNIO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. UTILIZAÇÃO. INSTALAÇÃO DE POSTES E FIOS. REMUNERAÇÃO EXIGIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. COBRANÇA PREVISTA NO CONTRATO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Da alegada violação dos arts. 489, §1º, IV e V, e 1.022, I e II, do CPC/2015, sem razão os recorrentes, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, mormente aquelas indicadas como omitidas (fls. 893-902) não obstante tenha decidido contrariamente às suas pretensões.
+V - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp n. 1.046.644/MS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e AgInt no REsp n. 1.625.513/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017).
+ ..
+XI - Agravo interno desprovido.
+(AgInt no AREsp 1.604.913/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/03/2022, DJe 17/03/2022).
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+O Superior Tribunal de Justiça tem entendido pela manutenção da multa aplicada pelo Tribunal de origem com base no art. 1.026, § 2º, do CPC, quando demonstrado, tal como na presente hipótese, o caráter protelatório dos embargos de declaração, que visavam meramente a rediscussão da causa.
+Nesse sentido, refiro-me aos seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. FIXAÇÃO DE MULTA. NECESSIDADE. SANÇÃO. MANUTENÇÃO.
+1. O Código de Processo Civil assegura que, "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa" (art. 1.026, § 2º).
+2. A previsão do art. 1.026, § 2º, do referido Código não se direciona apenas ao réu/executado/devedor, mas a qualquer parte que oponha os embargos de declaração buscando prolongar, de maneira repreensível, a discussão pela via dos aclaratórios, como no caso. Em outras palavras, a sanção é aplicada como forma de impedir que se reitere o emprego indevido do recurso, pelo que o viés "protelatório" não está apenas relacionado aos embargos (de declaração) aviados com a finalidade de postergar o fim da ação, mas também aos que visam alongar eventual discussão em determinado juízo.
+3. No caso, podendo aviar o recurso cabível (agravo interno) para discutir matéria de mérito, a parte insistiu em prolongar a discussão na via (advertidamente) imprópria, deixando claro que os segundos aclaratórios se mostravam protelatórios, sendo certo que o fato de a recorrente ser credora, aguardando há anos a satisfação da dívida, não impede que a ela seja aplicada a multa ora questionada.
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.015.437/PA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.).
+PROCESSUAL CIVIL. AÇÃO. DECLARAÇÃO DE NULIDADE. INDENIZAÇÃO POR DANOS MORAIS. PEDIDOS IMPROCEDENTES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Quanto à multa aplicada, é correta a aplicação pela oposição de embargos de declaração com o fim exclusivo de modificar decisão isenta de vícios por serem manifestamente protelatórios. Nesse sentido: AgInt nos EDcl no REsp n. 1.697.400/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022; e AgInt nos EDcl nos EDcl no AgInt nos EDcl na Rcl n. 40.170/BA, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/8/2022, DJe de 6/9/2022.
+VI - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.047.278/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENT O.
+Sem fixação de honorários recursais, pois se trata de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
