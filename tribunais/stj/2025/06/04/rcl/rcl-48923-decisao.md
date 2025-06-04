@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Reclamação (art. 105, I, da Constituição Federal) contra a decisão exarada pelo Desembargador Presidente do Tribunal de Justiça do Estado de Rondônia que, nos autos da Suspensão de Segurança 0803400-29.2025.8.22.0000, determinou o sobrestamento dos efeitos da liminar deferida no Mandado de Segurança 803337-04.2025.8.22.0000, a qual, por sua vez, autorizara o impetrante a participar das demais fases do concurso público para o provimento do cargo de Promotor de Justiça Substituto do Estado de Rondônia.
+O Desembargador Presidente do Tribunal rondoniense assim fundamentou a decisão:
+Constata-se dos autos que a celeuma está relacionada aos critérios de correção da prova dissertativa pela Comissão do Concurso, que, num primeiro momento, publicou o resultado das provas sem contabilizar a nota correspondente ao endereçamento das peças processuais, deixando de observar o disposto no item 14.19 do Edital n. 2/2023, por isso republicou o resultado corrigindo a omissão, o que implicou desclassificação dos requeridos para as etapas seguintes.
+O fato é que, a Administração apenas agiu no estrito cumprimento do seu poder de autotutela, sem desatender às regras editalícias em vigor desde a abertura do certame, pois o edital, previamente, incluiu os critérios de correção e consiste na lei do concurso. Vale dizer, entendimento diverso implica inegável afronta ao princípio da isonomia, que deve ser observado entre os candidatos participantes do concurso público.
+Além disso, diversas etapas subsequentes foram concluídas desde a eliminação dos requeridos, as quais também eram de caráter eliminatório, tais como: a) inscrição definitiva e entrega de títulos; b) exames psicotécnico; c) procedimento de heteroidentificação; d) exame de higidez física e mental; e) entrevista da investigação social; f) prazo para eventuais recursos relativos à inscrição definitiva e títulos.
+Logo, a reintegração intempestiva dos requeridos compromete a regularidade do concurso, uma vez que envolveria a repetição de etapas eliminatórias cruciais.
+(..)
+Com efeito, não tendo participado das fases eliminatórias que antecederam a prova oral, não se encontram aptos a realizá-la.
+Ademais, reorganizar toda a estrutura do concurso para acomodar a reintegração dos requeridos se revela desarrazoado e vai de encontro à ordem pública e econômica, assim como afronta os princípios da isonomia, da legalidade e da impessoalidade.
+Em síntese, afirmou o reclamante que o Presidente do TJRO não tem competência para suspender a liminar deferida por outro Desembargador e que houve usurpação da competência da Presidência do Superior Tribunal de Justiça, uma vez que compete a esta Corte o julgamento de Recurso Ordinário em Mandado de Segurança ou mesmo de Recurso Especial, caso a segurança venha a ser concedida.
+O reclamante pediu o deferimento da tutela de urgência e argumenta que "o concurso caminha para suas fases finais e este é o momento oportuno para que as impropriedades/ilegalidades sejam corrigidas" (fl. 6).
+O Ministério Público do Estado de Rondônia apresentou memoriais (fls. 656- 673), nos quais sustenta que não é possível inaugurar a competência do STJ antes do esgotamento da instância ordinária e que o reclamante abusa do direito de ação.
+Os demais candidatos aprovados no concurso público apresentaram manifestação prévia às fls. 674-887, a fim de requerer a intervenção no feito.
+Às fls. 914-917, deferi a liminar para "suspender os efeitos da decisão reclamada até o julgamento definitivo deste feito."
+Por meio do Ofício 2511/2025 - GTAEP/GABPRE/PRESI/TJRO, de 30 de abril de 2025 (fls. 924-926), a Presidência do Tribunal de Justiça do Estado de Rondônia prestou informações e consignou que "o Mandado de Segurança no qual foi concedida a liminar ora suspensa, tramita originariamente neste Tribunal. Assim, a atuação desta Presidência, amparada no art. 4º da Lei nº 8.437/92, insere-se no contexto da gestão da eficácia de decisões proferidas no âmbito desta Corte, sem usurpar a competência do Superior Tribunal de Justiça para, em momento oportuno e via recurso próprio, analisar o mérito da questão."
+Parecer do Ministério Público Federal pela procedência da Reclamação às fls. 956-961, sob o fundamento de que "o Superior Tribunal de Justiça tem reiteradamente afirmado que há usurpação de sua competência quando presidente de tribunal analisa suspensão de liminar contra decisão que já foi apreciada por membro da mesma Corte. Assim, a presidência da mesma Corte que deferiu a cautela cuja eficácia pretende-se sobrestar não detém competência suspensiva horizontal."
+Diante da informação de que houve perda de objeto da Reclamação (fls. 931- 935), determinei a intimação do reclamante, que afirmou que interpôs Agravo Interno contra o decisum denegatório de segurança e que, por isso, subsiste o interesse no julgamento deste feito (fl. 968).
+É o relatório.
+Decido.
+Deve-se acolher a alegação de perda de objeto da Reclamação.
+Conforme assinalado, o Desembargador Relator do Mandado de Segurança 0803400-29.2025.8.22.0000 havia concedido a liminar em favor do reclamante "para garantir aos impetrantes participar regularmente da fase seguinte do concurso público, até o julgamento de mérito deste mandamus" (fl. 41).
+Essa decisão - suspensa pela decisão reclamada - foi revogada com a denegação da segurança. Logo, não mais subsiste interesse na manutenção, via Reclamação Constitucional, de liminar que não mais existe.
+É certo que o impetrante interpôs Agravo Interno contra o decisum denegatório. Mas tal recurso não é dotado de efeito suspensivo automático (art. 995 do CPC), não impedindo a eficácia da decisão recorrida.
+Por todo o exposto, declaro extinta a Reclamação, sem julgamento de mérito.
+Deixo de condenar o Reclamante ao pagamento de honorários advocatícios, considerando que na base tem-se Mandado de Segurança e o Ministério Público é a parte adversa.
+Publique-se.
+Intimem-se.
+EMENTA
