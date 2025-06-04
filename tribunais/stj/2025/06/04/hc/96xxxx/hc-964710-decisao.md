@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Elio Rodrigues, apontando-se como autoridade coatora o Tribunal Regional Federal da 2ª Região, que negou provimento à Apelação Criminal n. 0502151-23.2017.4.02.5001, mantendo a condenação do paciente como incurso no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006, à pena de 9 anos 5 meses e 10 dias de reclusão, em regime inicial fechado, e pagamento de 944 dias-multa (fls. 397/554).
+Alega-se, em síntese, que não há nos autos elementos probatórios mínimos que autorizem a conclusão de que o paciente tenha praticado o crime descrito na peça inaugural, muito pelo contrário, a prova uníssona colhida nos autos é no sentido de que não cometeu a infração penal que lhe foram injustamente irrogadas (fl. 5).
+Postula-se a concessão da ordem para que seja declarada a nulidade absoluta da operação Policial Federal - Inquérito Policial Federal n. 745/2017 e por via consequência do Processo n. 0502151- 23.2017.4.02.5001 da 1º Vara Federal Criminal de Vitoria - ES, ante ILEGALIDADE da Busca e Apreensão e a ILICITUDE de todas as "provas" que foram obtidas no decorrer de tal diligência e, consequentemente, absolvendo-se o paciente (fl. 25).
+Indeferida a liminar (fls. 557/558) e prestadas as informações (fls. 563/564 e 657/568), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 571/582).
+É o relatório.
+No caso, a condenação transitou em julgado, de maneira que a presente impetração é substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/10/2023.
+Ademais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, tendo o Juízo de origem ressaltado que a evolução da movimentação do grupo denunciado apenas ratificou a desconfiança inicial, desenhando a orquestração de uma operação que deveria culminar na remessa da drogas para o exterior. As diversas informações policiais produzidas a partir de então (fls. 340 e seguintes do apenso nº 0001832-78.2018.4.05.5001) descrevem o acompanhamento policial dos réus e a movimentação e planejamento que antecederam o flagrante (fl. 422 - grifo nosso).
+Conforme se extrai dos autos, a fase de investigação foi precedida por diversas diligências preliminares, sendo adotada, apenas em momento posterior e de forma criteriosa, a medida mais gravosa de interceptação telefônica e telemática. A partir dessas interceptações, restou evidenciado o envolvimento do paciente na atividade criminosa, o que culminou em sua prisão em flagrante e na interrupção da prática delituosa.
+Ademais, a busca e apreensão foi devidamente embasada em circunstâncias anteriores que, de forma clara e objetiva, demonstraram a presença de razões suficientes para a adoção das medidas investigativas realizadas.
+Por fim, para se chegar à conclusão pretendida pela defesa seria indispensável a análise aprofundada de fatos e de provas, providência que não tem espaço na via eleita.
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. TRÁFICO INTERNACIONAL DE DROGAS. PRETENSÃO DE ABSOLVIÇÃO. ILICITUDE DAS PROVAS. INEVIDÊNCIA. INVIABILIDADE DE AMPLO REEXAME FÁTICO-PROBATÓRIO.
+Ordem denegada.
