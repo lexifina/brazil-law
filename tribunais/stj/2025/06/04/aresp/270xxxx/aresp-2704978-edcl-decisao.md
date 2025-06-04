@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DARCI VIEIRA DE BARROS contra decisão monocrática em que conheci do agravo para não conhecer do recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado (e-STJ fl. 2066):
+EMENTA - RECURSO EM SENTIDO ESTRITO CRIMES AMBIENTAIS - ARTIGOS 38 E 48 DA LEI N.º 9.605/98 - DENÚNCIA REJEITADA NA ORIGEM POR AUSÊNCIA DE JUSTA CAUSA E PRESSUPOSTOS PROCESSUAIS. DELITO DO ART. 38 - DENÚNCIA QUE NÃO ATRIBUI AO RECORRIDO A PRÁTICA DAS CONDUTAS QUE TIPIFICAM O CRIME - INÉPCIA RECONHECIDA. PRESCRIÇÃO VIRTUAL AFERÍVEL DE PLANO - AUSÊNCIA DO INTERESSE DE AGIR - FALTA DE JUSTA CAUSA - ARTIGO 395, III, DO CPP - HIPÓTESE EXCEPCIONAL - REJEIÇÃO CONFIRMADA. CRIME DO ARTIGO 48 - DENÚNCIA QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP - DELITO DE NATUREZA PERMANENTE - CONSUMAÇÃO QUE SE PROTRAI NO TEMPO - ATIPICIDADE DA CONDUTA - POSSIBILIDADE DE CONFIGURAÇÃO - AUSÊNCIA DE JUSTA CAUSA - INOCORRÊNCIA - DENÚNCIA RECEBIDA. PARCIAL PROVIMENTO.
+I - Confirma-se a decisão que rejeitou a denúncia pela prática do crime do art. 38 da Lei n.º 9.605/98 quando a mesma não atribui ao recorrido a prática das condutas que tipificam o crime, configurando-se a inépcia pela desatenção aos básicos requisitos do artigo 41 do CPP, posto que não descreve o fato criminoso com todas as suas circunstâncias. Além disso, patente a falta do interesse de agir, decorrente da verificação inconteste da ocorrência da prescrição virtual, fato que deságua na ausência de justa causa para a propositura da ação penal, nos termos do inciso III do artigo 395, do CPP.
+II - Impositivo o recebimento da denúncia quanto ao crime do art. 48 da Lei n.º 9.605/98 quando a mesma atende aos requisitos do art. 41 do CPP. Trata-se de delito de natureza permanente, cuja consumação protrai-se no tempo, não se verificando, na hipótese, de plano, atipicidade da conduta nem ausência de justa causa.
+III - Parcial provimento, em parte com o parecer.
+A parte embargante sustenta a existência de omissão na decisão embargada, requerendo o acolhimento do recurso para que seja sanado o vício apontado (e-STJ fls. 2-21).
+É o relatório.
+Decido.
+Os presentes embargos de declaração não comportam conhecimento, pois são intempestivos.
+Com efeito, publicada a decisão recorrida em 15/5/2025, quinta-feira, o prazo de 2 dias, previsto no art. 619 do Código de Processo Penal, somente se iniciou em 16/5/2025 e esgotou-se em 19/5/2025, segunda-feira. Todavia, o recurso foi oposto tão somente em 22/5/2025, fora, portanto, do bíduo legal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. INTEMPESTIVIDADE. ARTS. 263 DO RISTJ E 619 DO CPP. ACLARATÓRIOS. NÃO CONHECIDOS. DETERMINAÇÃO DE BAIXA DOS AUTOS À ORIGEM.
+1. São intempestivos os embargos de declaração opostos após o prazo de 2 dias. Inteligência dos artigos 263 do Regimento Interno desta Corte e 619 do Código de Processo Penal.
+2. Embargos de declaração não conhecidos, com determinação de baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, certificando-se o trânsito em julgado. (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1422904/AC, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 1º/12/2020, DJe 7/12/2020, grifei.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO EXTEMPORÂNEO. PEDIDO DE RECONHECIMENTO DA TEMPESTIVIDADE DO RECURSO. ALEGAÇÃO DE INDISPONIBILIDADE DO SISTEMA ELETRÔNICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. INEXISTÊNCIA DE FALHAS TÉCNICAS. PLEITO DE CONTAGEM DO PRAZO RECURSAL A PARTIR DA CIÊNCIA DA DEFENSORIA PÚBLICA. INVIABILIDADE. PRERROGATIVA NÃO EXTENSÍVEL AOS ADVOGADOS CONSTITUÍDOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. São intempestivos os embargos de declaração opostos após o decurso do prazo de 2 dias previsto no art. 619 do CPP.
+ ..
+4. Agravo regimental improvido. (AgRg nos EDcl no AREsp 911.250/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/9/2016, DJe 13/9/2016, grifei.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. DOIS DIAS. ARTS. 619 DO CPP E 263 DO RISTJ. INTEMPESTIVIDADE. AUSÊNCIA DE INTERFERÊNCIA DO NOVO CPC. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos dos arts. 263 do RISTJ e 619 do Código de Processo Penal, "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão". Assim sendo, os embargos de declaração, em matéria criminal, que não forem opostos no prazo de dois dias serão intempestivos, como ocorreu no caso.
+2. O início da vigência do Novo Código de Processo Civil não interferiu no prazo dos embargos de declaração no processo penal, visto que possui disciplina própria no âmbito penal.
+3. Embargos de declaração não conhecidos. (EDcl no HC 360.123/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/10/2016, DJe 9/11/2016, grifei.)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
