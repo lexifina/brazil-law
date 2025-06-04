@@ -1,1 +1,0 @@
-Art. 4º A nomeação dos candidatos aprovados respeitará os critérios de alternância e proporcionalidade, que consideram a relação entre o número de vagas total e o número de vagas reservadas a candidatos com deficiência e a candidatos negros.
