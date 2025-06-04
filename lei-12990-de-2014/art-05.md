@@ -1,1 +1,0 @@
-Art. 5º O órgão responsável pela política de promoção da igualdade étnica de que trata o § 1º do art. 49 da Lei nº 12.288, de 20 de julho de 2010, será responsável pelo acompanhamento e avaliação anual do disposto nesta Lei, nos moldes previstos no art. 59 da Lei nº 12.288, de 20 de julho de 2010.
