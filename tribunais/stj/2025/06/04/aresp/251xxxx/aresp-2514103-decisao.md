@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL PACHECO DOS SANTOS contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO MAJORADO PELO CONCURSO DE AGENTE E PELO USO DE ARMAS DE FOGO. RECONHECIMENTO. PALAVRA DA VÍTIMA. CAUSA DE AUMENTO. DESNECESSIDADE DE APREENSÃO E PERÍCIA DA ARMA DE FOGO. RECURSO DESPROVIDO. 1. No que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º-A, inciso I, do Código Penal é desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva. 2. Recurso desprovido."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 367-376).
+Contraminuta apresentada (e-STJ fls. 378-381).
+O Ministério Público Federal opinou pelo "desprovimento do agravo em recurso especial" (e-STJ fls. 396-397).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+O Tribunal de origem inadmitiu o recurso especial com fundamento na incidência das Súmulas 7 e 83 do Superior Tribunal de Justiça (e-STJ fls. 363-365).
+No que se refere à alegação de nulidade do reconhecimento pessoal por inobservância do procedimento previsto no art. 226 do Código de Processo Penal, a decisão agravada corretamente aplicou a Súmula 83 desta Corte. O entendimento adotado pelo Tribunal estadual está em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que a inobservância das formalidades do art. 226 do CPP não macula o reconhecimento quando este é corroborado por outras provas válidas e independentes.
+Verifica-se, portanto, que o Tribunal estadual considerou não apenas o reconhecimento da vítima, mas também a apreensão dos objetos subtraídos com o agravante e outros elementos independentes de prova, conforme registrado no próprio acórdão recorrido: "Extraio do auto de apreensão e do auto de restituição que os pertences subtraídos da vítima foram encontrados em posse do apelante. Ao ser ouvida em juízo a vítima reiterou que durante a ação criminosa pode visualizar bem o rosto do réu pois ele se aproximou dela mostrando a arma" (e-STJ fl. 330).
+A jurisprudência desta Corte é firme no sentido de que "a inobservância dos ditames do art. 226 do CPP macula o ato de reconhecimento da autoria delitiva mesmo se confirmado em juízo. No entanto, é possível a manutenção da condenação se houver provas válidas e independentes do ato viciado de reconhecimento" (AgRg no AREsp n. 2.165.323/RJ, relator Ministro Olindo Menezes, Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022).
+O agravante tenta demonstrar divergência jurisprudencial citando precedentes desta Corte, contudo os julgados mencionados não se aplicam ao caso concreto, uma vez que naqueles havia exclusivamente o reconhecimento viciado como prova da autoria, situação que não se verifica nos presentes autos, onde existem outros elementos probatórios independentes.
+Quanto à alegação de necessidade de revaloração jurídica da prova, e não reexame do conjunto fático-probatório, a pretensão não prospera. A análise das conclusões do Tribunal de origem quanto à suficiência das provas para sustentar a condenação demandaria necessariamente o revolvimento do acervo probatório dos autos, providência vedada em sede de recurso especial, conforme dispõe a Súmula 7 desta Corte.
+Nesse sentido:
+"Direito processual penal. Agravo regimental. Recurso especial.
+Inadmissibilidade. Agravo regimental improvido.
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, em razão da incidência das Súmulas 7 e 83 do STJ, em processo que envolve condenação por crime tipificado no artigo 171, § 3º, do Código Penal.
+2. A Súmula 7 do STJ impede o reexame de provas, e a Súmula 83 impede o recurso especial quando o entendimento do tribunal de origem está em harmonia com a jurisprudência do STJ.
+3. A extração de dados com consentimento do investigado não configura prova ilícita, e a mera alegação de violação da cadeia de custódia, sem demonstração de adulteração, não conduz à nulidade da prova.
+4. O reconhecimento fotográfico, mesmo que realizado sem todas as formalidades do art. 226 do CPP, não gera nulidade se corroborado por outras provas.
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.807.248/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+"DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ESTELIONATO MAJORADO. ALEGADA NULIDADE DO RECONHECIMENTO PESSOAL POR INOBSERVÂNCIA DO ART. 226 DO CPP. INOCORRÊNCIA. DECISÃO BASEADA EM CONJUNTO PROBATÓRIO ROBUSTO. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que manteve a condenação do recorrente pelo crime de estelionato qualificado (art. 171, § 4º, c/c art. 61, I, ambos do Código Penal), com pena reduzida na apelação para 2 anos, 9 meses e 10 dias de reclusão em regime inicial semiaberto. O recorrente alega nulidade do reconhecimento pessoal em razão de suposta violação ao art. 226 do Código de Processo Penal (CPP), requerendo a absolvição. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o reconhecimento pessoal realizado em desconformidade com o art. 226 do CPP implica nulidade do processo; e (ii) apurar se o conjunto probatório é suficiente para sustentar a condenação. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça (STJ), consolidada no julgamento do HC 598.886/SC, estabelece que o reconhecimento de pessoa realizado na fase do inquérito policial, ainda que sem observância ao art. 226 do CPP, é válido quando corroborado por outras provas produzidas sob o crivo do contraditório e da ampla defesa.
+4. O Tribunal de origem baseia a condenação em um robusto conjunto probatório que inclui depoimentos consistentes e coerentes da vítima e de testemunhas, além de características físicas específicas do réu, reconhecidas por ambas, reforçando a identificação do autor do crime.
+5. Eventuais irregularidades na fase investigatória não contaminam a ação penal, conforme jurisprudência reiterada do STJ (HC 586.321/AP). O reconhecimento fotográfico e o pessoal foram corroborados por outros elementos probatórios, como a firmeza dos depoimentos e a presença do réu na cena do crime por período prolongado.
+6. A análise do pleito de absolvição demandaria reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+IV. RECURSO ESPECIAL DESPROVIDO."
+(REsp n. 2.085.278/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+A distinção entre reexame e revaloração da prova invocada pelo agravante não se aplica ao caso, pois a pretensão de absolvição por insuficiência probatória exigiria a análise detalhada do conjunto probatório para concluir pela inadequação das provas colhidas, o que caracteriza típico reexame de provas vedado pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
