@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por STB DISTRESSED ASSETS RECUPERAÇÃO DE CRÉDITOS LTDA. contra acórdão assim ementado (fl. 120):
+AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Incidente de concurso de credores. Insurgência do Exequente em face da decisão que fixou a ordem de pagamento.
+ANTERIORIDADE DA PENHORA. Alegação de que a averbação da penhora sobre o imóvel se deu em momento anterior. Não acolhimento. Preferência do credor que primeiro tiver lavrado o auto de penhora em sua execução (art. 838, CPC). Irrelevante a ordem de averbação no registro do imóvel. Precedentes.
+HONORÁRIOS ADVOCATÍCIOS DECORRENTES DA IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO. Posterior cessão do crédito. Honorários advocatícios que possuem natureza autônoma e são devidos aos advogados que patrocinaram a causa. Termo de Cessão de Crédito que previu a ausência de cessão dos honorários advocatícios.
+HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL. Verba que decorre de embargos à execução e ação monitória. Ausência de relação com os presentes autos. Possível a limitação de crédito a 150 salários-mínimos por execução. Analogia ao art. 83, I, da Lei nº 11.101/2005. Precedentes.
+Recurso parcialmente provido.
+Os embargos de declaração foram acolhidos em parte). Confira-se a ementa (fl. 373):
+EMBARGOS DE DECLARAÇÃO. Acórdão que, por unanimidade, deu parcial provimento ao recurso interposto pelo Embargado, para determinar a exclusão da verba honorária em favor da Embargante e limitar os honorários advocatícios em favor da ASABB. Omissão em relação a cessão de crédito. Rejeição. Limitação de crédito a 150 salários-mínimos. Analogia ao art. 83, I, da Lei nº 11.101/2005. Erro material constatado. Limitação por credor, e não por execução. Embargos de declaração parcialmente acolhidos.
+No recurso especial (fls. 392-405), fundamentado no art. 105, III, "a", da CF, a recorrente aponta violação dos seguintes dispositivos:
+(i) art. 908 do CPC, alegando a necessidade de observância da anterioridade da penhora na ordem de pagamento do valor arrecadado com o leilão do imóvel, e
+(ii) arts. 24, § 1º, da Lei n. 8.906/1994 e 7º do CPC, na medida em que a verba honorária detida pela recorrente foi devidamente cedida, tendo a STB demonstrado ser titular do referido crédito. Nesse contexto, sustentou que seu crédito de honorários pertence à mesma classe da ASABB, ao qual deve ser dado tratamento igualitário.
+Foram oferecidas contrarrazões (fls. 489-504).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Inicialmente, cuida-se de de agravo de instrumento interposto somente pelo Banco BMG em face de decisão que definiu a ordem de preferência nos autos do incidente de concurso de credores.
+Em seu agravo de instrumento, o Banco BMG, alegou, em síntese, que foi o primeira credor a averbar a constrição na certidão do imóvel de matrícula n. 192, tendo preferência sobre o produto da arrematação. Aduziu, ainda, a impossibilidade de pagamento de honorários em favor da STB, cessionária dos créditos cedidos pela empresa Dow Agrosciences Industrial Ltda.
+O acórdão proferido pelo TJSP deu parcial provimento ao recurso no seguinte sentido: (i) não acolheu a alegação de que a averbação da penhora do imóvel se deu em momento anterior, (ii) acolheu a tese de impossibilidade de pagamento de honorários em favor da STB, tendo em vista que o termo de cessão de crédito previu a ausência de cessão dos honorários advocatícios, e (iii) determinou a possibilidade de limitação de crédito a 150 (cento e cinquenta) salários mínimos por execução.
+Nos embargos de declaração opostos pela ora recorrente (STB), a embargante apontou omissão quanto aos seguintes pontos: (i) a verba honorária decorrente da execução também foi cedido à embargante, e (ii) não é possível a limitação do crédito da ASABB para cada execução, pois a limitação é realizada especificamente por credor.
+Os embargos declaratórios foram acolhidos em parte para sanar erro material e limitar o crédito à 150 (cento e cinquenta) salários-mínimos por credor, e não por execução.
+No recurso especial, a ora recorrente apontou violação dos arts. 908 e 7º do CPC e 24, § 1º, da Lei n. 8.906/1994, sustentando: (i) a necessidade de observância da anterioridade de sua penhora na ordem de pagamento do valor arrecadado com o leilão do imóvel, e (ii) a verba honorária detida pela recorrente ter sido devidamente cedida, tendo a STB demonstrado ser titular do referido crédito.
+Desse contexto, observa-se que, apesar de opostos embargos de declaração, a tese de que a recorrente (STB) detém preferência no produto da arrematação do imóvel, em observância à anterioridade da penhora, não foi expressamente indicada nas razões do recurso, tampouco enfrentada pelo Tribunal de origem.
+Ressalta-se que a decisão primeva, a qual estabeleceu a ordem de preferência das penhoras, somente foi impugnada pelo Banco BMG, não havendo a ora recorrente sequer apresentado a discussão relativa à anterioridade de sua penhora em agravo de instrumento.
+Portanto, é inafastável a Súmula n. 211 do STJ.
+No mais, quanto à alegação de que a verba honorária detida pela recorrente foi devidamente cedida, a Corte de origem assim se manifestou (fl. 123):
+Com relação aos honorários advocatícios, com todo respeito ao entendimento do Juízo a quo, a decisão merece reparos.
+Não se pode olvidar que os honorários sucumbenciais possuem natureza personalíssima, o que por si só já seria suficiente para impedir a negociação com terceiros.
+Isto posto, da análise dos autos, verifico que a verba honorária decorre da condenação imposta aos Executados por força da improcedência dos embargos à execução, sendo tais honorários de natureza autônoma e de titularidade dos advogados que patrocinaram a causa.
+No mais, conforme disposto no Termo de Cessão de Crédito, a empresa Dow Agrosciences Industrial Ltda cedeu o crédito oriundo da "Execução de Título Extrajudicial nº 1046468-74.2015.8.26.0100, em trâmite perante a 12ª Vara Cível do Foro Central da Comarca da Capital do Estado de São Paulo/SP, promovida por Dow Agrosciences Industrial Ltda Valor atualizado com base em junho de 2021 (sem honorários advocatícios): R$ 1.434.973,77 (um milhão, quatrocentos e trinta e quatro mil, novecentos e setenta e três reais, e setenta e sete centavos)" (fls. 97/102).
+Sendo assim, tal valor deverá ser pleiteado pela empresa Cedente (Dow Agrosciences Industrial Ltda), sendo incabível a cobrança de R$ 418.282,73 (fls. 57) pela cessionária STB Distressed Assets Recuperação de Créditos Ltda.
+Diante de ssa conclusão, é inviável que o Superior Tribunal de Justiça altere o posicionamento adotado na origem - quanto à inexistência de cessão à recorrente da verba honorária, bem como em relação ao crédito pertencente à recorrente possuir a mesma classe do crédito da ASABB -, pois seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula n. 7 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial .
+Publique-se e intimem-se.
+EMENTA
