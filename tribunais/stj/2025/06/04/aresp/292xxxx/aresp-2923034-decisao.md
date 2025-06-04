@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ (fls. 526-529).
+O acórdão recorrido encontra-se assim ementado (fl. 456 - grifos no julgado):
+APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL. CREFISA S/A. PRESCRIÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. CERCEAMENTO DE DEFESA. INÉPCIA DA INICIAL. PRELIMINARES AFASTADAS. JUROS REMUNERATÓRIOS ABUSIVOS.
+O PRAZO PRESCRICIONAL PARA REVISAR CLÁUSULAS CONTRATUAIS COM A EVENTUAL COMPENSAÇÃO OU DEVOLUÇÃO DOS VALORES PAGOS É DIREITO PESSOAL, APLICANDO-SE O PRAZO DECENAL PRECONIZADO NO ARTIGO 205 DO CÓDIGO CIVIL, COM TERMO INICIAL A CONTAR DA ASSINATURA DO CONTRATO.
+REPELIDA A PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO, VISTO QUE RESTARAM DEVIDAMENTE ESTAMPADOS OS MOTIVOS SUFICIENTES PARA AFASTAR A TESE DA PARTE DEMANDADA.
+O JUÍZ É O DESTINATÁRIO DA PROVA, ENTÃO A AUSÊNCIA DE INTIMAÇÃO PARA AS PARTES MANIFESTAREM-SE ACERCA DA PRODUÇÃO DE OUTRAS PROVAS NÃO IMPLICA NECESSARIAMENTE EM CERCEAMENTO DE DEFESA.
+A AUSÊNCIA DE EXAME EXPRESSO NA SENTENÇA DE TODOS OS DOCUMENTOS JUNTADOS PELAS PARTES NÃO CONSTITUI CERCEAMENTO E NULIDADE.
+INÉPCIA DA INICIAL: VERIFICADO O ATENDIMENTO PELA PARTE AUTORA DOS REQUISITOS DOS ARTIGOS 319 E 320 DO CPC, REPILO A PREFACIAL ALUSIVA À INÉPCIA DA INICIAL
+A TAXA DE JUROS REMUNERATÓRIOS QUE DEMONSTRA ACENTUADA DISCREPÂNCIA DA MÉDIA DIVULGADA PELO BANCO CENTRAL PARA A ÉPOCA DA CONTRATAÇÃO REVELA-SE ABUSIVA, POIS COLOCA O(A) CONSUMIDOR(A) EM ACIRRADA DESVANTAGEM.
+NO CASO, RESTOU DEMONSTRADA A ABUSIVIDADE DOS JUROS REMUNERATÓRIOS, COBRADOS EM DISCREPÂNCIA AO NORMAL DO MERCADO, MANTENDO A SENTENÇA QUE RECONHECEU A ABUSIVIDADE E REVISOU O CONTRATO PARA DETERMINAR A APLICAÇÃO DA TAXA NORMAL E MEDIANA DE JUROS ESTABELECIDA PELO BACEN NA DATA DA CONTRATAÇÃO.
+APELAÇÃO IMPROVIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 479-485).
+Nas razões do recurso especial (fls. 492-520), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(I) arts. 355, I e II, e 356, I e II, e 370 do CPC, porque (fl. 502):
+ ..  ao mesmo tempo em que constou que a CREFISA não teria apresentado provas de suas alegações, deixou de reconhecer o cerceamento de defesa em desfavor da CREFISA, ocorrido justamente por não poder (a CREFISA) produzir as provas que pretendia.
+(II) art. 421 do CC e 51, VI, do CDC, porquanto (fl. 504 - grifo no recurso):
+Tanto na sentença de primeiro grau quanto no acórdão que julgou o recurso de apelação, o único e exclusivo fundamento para a revisão do contrato objeto dos autos foi a mera comparação entre a taxa pactuada no contrato e a taxa média divulgada pelo Banco Central do Brasil.
+(III) art. 927 do CDC, pois (fl. 512)
+ ..  estando em desacordo com o entendimento firmado pelo STJ em sede de demandas repetitivas, no qual se entendeu a necessidade de análise da taxa de juros no caso concreto para sua revisão, o acórdão incidiu em manifesta violação ao artigo 927, III, do CPC.
+No agravo (fls. 538-860), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 569-583).
+É o relatório.
+Decido.
+(I) Quanto ao cerceamento de defesa, a Corte local assentou (fl. 609):
+No que diz respeito ao alegado cerceamento de defesa pela ausência de intimação de produção de prova, cabe esclarecer que incumbe ao julgador determinar as provas que entende necessárias à instrução processual, indeferindo as diligências inúteis ou meramente protelatórias e analisar a prova conforme seu convencimento. Cabe ao magistrado da lide encerrar ou não a instrução probatória por compreender suficientes os elementos constantes nos autos. O documento entranhado está datado posteriormente à ocasião do empréstimo revisado, o contrato não prescrito, portanto sua juntada não faz efeitos na pactuação sob análise já que o documento é posterior ao da pactuação. No ponto, colaciono precedente desta Corte:
+ ..
+Assim, ausente cerceamento de defesa e prejuízo defensivo pois juntou prova de mácula posterior ao momento em que firmado o mútuo sob exame revisional, contrato não prescrito dos que foram mencionados na exordial.
+Esse entendimento está de acordo com a jurisprudência desta Corte, segundo a qual "o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015" (AgInt no REsp n. 1.996.527/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+Na mesma linha:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AÇÃO DE PRESTAÇÃO DE CONTAS. SALDO CREDOR RECONHECIDO. APURAÇÃO EM SEDE DE LIQUIDAÇÃO EM RAZÃO DE FATOS ALEGADOS PELO PRÓPRIO COAUTOR. POSSIBILIDADE. INEXISTÊNCIA DE VEDAÇÃO LEGAL. PERÍCIA CONTÁBIL. DESNECESSIDADE. REALIZAÇÃO DE PERÍCIA POR ENGENHEIRO AGRÔNOMO. JULGADOR. DESTINATÁRIO DAS PROVAS.
+REEXAME. SÚMULA N. 7/STJ.
+ ..
+3. Nos termos da jurisprudência desta Corte, o julgador é o destinatário das provas, cabendo a ele decidir de forma soberana a formar seu convencimento. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 859.740/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/10/2019, DJe de 25/10/2019.)
+Assim, modificar o acórdão impugnado para reconhecer a existência de cerceamento de defesa pelo julgamento antecipado da lide demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(II) Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios no caso concreto. Veja-se (fls. 452-455 - grifos no acórdão):
+No caso concreto, como referido inicialmente, a pretensão revisional restou adstrita neste recurso ao contrato nº 032750022791, firmado em setembro/2018. Os encargos são evidentemente abusivos diante da taxa leonina avençada, particularmente quando visualizada a sua anualidade; na captação os Bancos e Financeiras giram com taxas de 12% ao ano para a captação da pecúnia, mesmo somando encargos administrativos, "spread" pelo risco e outros fatores seria possível que o produto fosse oferecido com o dobro do gasto na captação, todavia a obtenção do dinheiro por índice em torno de 12% e seu empréstimo a 791,61% ao ano ( evento 16, CONTR2) demonstra indiscutível abusividade, o que colocou o consumidor em desvantagem exagerada tendo em conta ser ele mero aderente ao pacto ofertado pela apelante.
+Ainda, cabe referir que a inscrição negativa da parte tomadora de empréstimo não existia na ocasião da contratação com a instituição financeira, posto que datadas de 2020/2022/2023 (), enquanto o contrato fora firmado em setembro/2018), quando o mutuário não estava com tal cadastro desabonatório de crédito:
+ ..
+Nesse sentido, apesar da instituição juntar informações sobre o risco de negócio com o financiado, não restou justificada adoção das taxas estratosféricas que cobrou no contrato em questão: Taxa mensal de juros de 20% e Taxa anual de juros 791,61%; não justificado o encargo pactuado em 2018 quando o documento somente revela mácula creditícia em anos posteriores à assinatura do mútuo.
+Note-se que, em que pese a livre pactuação e a ausência de fixação e imposição legal de taxas aplicáveis aos contratos financeiros que compõem o mercado de crédito, isso não autoriza que as instituições bancárias e financeiras possam abusar dos índices e lesar os consumidores de modo que a liberdade de atuação no mercado financeiro não implique em cláusulas abusivas transformando a negociação em pacto leonino.
+ ..
+No contrato em análise (evento 16, CONTR2), foi fixada taxa de juros que ultrapassa o percentual tolerável (30%) da média estabelecida pelo Bacen para a mesma modalidade na data da contratação, de acordo com consulta no site do Banco Central do Brasil série- 25464 - Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado e 20742 - Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado.
+Deste modo, evidenciada a abusividade da taxa de juros remuneratórios aplicada, pactuada acima da taxa média de mercado divulgada pelo Bacen, inclusive, extrapolando o limite da margem de 30% utilizada como parâmetro por esta Câmara, razão pela qual deve a taxa de juros remuneratórios do contrato restar limitada à taxa de juros remuneratórios divulgada pelo Bacen na data da contratação, conforme determinação sentencial.
+No caso, saliento que a obtenção do dinheiro por índice em torno de 700% ao ano, demonstra indiscutível abusividade que colocou o consumidor em desvantagem exagerada, eis que aproximadamente 3 vezes superior à taxa média de juros, a qual inclusive já leva em consideração os riscos do negócio no caso concreto, eis que referente à empréstimo não consignado.
+Cabe destacar que o percentual de trinta por cento constitui um dos parâmetros para aferição da abusividade a embasar a procedência ou não da ação relativamente aos juros remuneratórios pactuados, de tal modo que, demonstrada a abusividade após análise da contratação, os juros a serem aplicados são aqueles divulgados como média para o período pelo Banco Central. Note-se que, se os juros remuneratórios tivessem sido contratados até o limite da média divulgada mais trinta por cento, inexistiria abusividade, em princípio para esse critério.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Incide, portanto, a Súmula n. 83/STJ no caso em apreço .
+Ainda, desconstituir a convicção formada pelas instâncias de origem acerca das peculiaridades do contrato para assim acolher os argumentos do recurso especial, é inviável em razão das Súmulas n. 5 e 7 do STJ.
+(III) O Tribunal a quo não se pronunciou sobre o conteúdo normativo do art. 927 do CPC sob o enfoque dado pela parte, circunstância que impede o conhecimento da insurgência por falta de prequestionamento, conforme a Súmula n. 282 do STF, aplicada por analogia.
+Ante o exposto, NEGO PR OVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 2 0% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
