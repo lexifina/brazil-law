@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 846):
+Adjudicação compulsória. Imóveis quitados. Gravame de alienação fiduciária. Banco credor pleiteou a exclusão da aplicação da Súmula 308 do Superior Tribunal de Justiça, apontando as diferenças entre os institutos da hipoteca, que envolve garantia real sobre coisa alheia, e permite hipotecas sucessivas, ou seja, em primeiro, segundo e seguintes graus, e da alienação fiduciária, que é garantia sobre coisa própria. Irrelevância. Aspecto consumerista presente. Interpretação extensiva da Súmula 308 em condições de sobressair, conforme entendimento do tribunal superior. Sentença que se apresenta adequada. Apelo desprovido.
+Não foram opostos embargos de declaração.
+Em suas razões (fls. 854-875), a parte recorrente aponta violação dos arts. 22, 23 e 25 da Lei n. 9.514/1997, defendendo, em suma, a aplicabilidade da Súmula n. 308 do STJ, por analogia, aos casos que envolvem alienação fiduciária.
+Contrarrazões apresentadas às fls. 880-894.
+É o relatório.
+Decido.
+O Tribunal de origem decidiu a questão controvertida nos seguintes moldes (fls. 847-850, destaquei):
+O caso em exame envolve adjudicação compulsória, com a baixa de gravame, haja vista o polo ativo ter adquirido imóveis e quitado os preços correspondentes.
+O banco apelante deu ênfase sobre a diferença entre os institutos jurídicos da hipoteca e da alienação fiduciária, ressaltando, ainda, um caso que envolve direito real sobre coisa alheia, enquanto que a alienação fiduciária se trata de coisa própria, e não admite gravames sucessivos, o que ocorre com a hipoteca.
+Por outro lado, é notória a relação de consumo existente, sendo que a interpretação extensiva da Súmula 308 aos casos de alienação fiduciária vem ocorrendo no Superior Tribunal de Justiça  ..
+ ..
+Assim, não se vislumbra óbice para a pretensão do polo ativo, mesmo porque, o fato de os compromissos de compra e venda não estarem registrados não ocasiona nenhum impedimento, haja vista que a quitação do preço fora demonstrada de forma nítida, portanto, referido gravame não tem validade e eficácia em relação aos compradores.
+Entretanto, conforme o entendimento mais recente da Quarta Turma deste Tribunal Superior acerca da questão, a Súmula n. 308 do STJ é inaplicável aos casos envolvendo garantia real por alienação fiduciária, tendo em vista tanto a ratio decidendi dos precedentes que deram ensejo ao referido enunciado  ligada intrinsecamente ao fato de o imóvel, dado como garantia hipotecária, ter sido adquirido no âmbito do Sistema Financeiro da Habitação  quanto a distinção dos institutos da hipoteca e da alienação fiduciária e a diversidade do tratamento jurídico conferido aos devedores hipotecário e fiduciante.
+Nesse sentido:
+CIVIL. ALIENAÇÃO FIDUCIÁRIA. SÚMULA N. 308 DO STJ. INAPLICABILIDADE. RATIO DECIDENDI. SIMILARIDADE NORMATIVA. HIPOTECA. INEXISTÊNCIA. VENDA A NON DOMINO. PROMESSA DE COMPRA E VENDA. CESSÃO DE DIREITO. DEVEDOR FIDUCIANTE. TERCEIRO DE BOA-FÉ. INEFICÁCIA. PROPRIETÁRIO FIDUCIÁRIO. RECURSO PROVIDO.
+1. Não deve ser aplicado, por analogia, o entendimento firmado na Súmula n. 308 do STJ aos casos envolvendo garantia real por alienação fiduciária.
+2. A ratio decidendi dos precedentes que deram ensejo à Súmula n. 308 do STJ está intrinsecamente ligada ao fato de o imóvel, dado como garantia hipotecária, ter sido adquirido no âmbito do Sistema Financeiro da Habitação, o qual estabelece normas mais protetivas para as partes vulneráveis. Portanto, o entendimento sintetizado nessa nota sumular não se aplica aos casos em que a transação imobiliária foi realizada pelo Sistema Financeiro Imobiliário.
+3. Em relação aos institutos da hipoteca e da alienação fiduciária, não há similaridade de tratamento jurídico entre o devedor hipotecário e o fiduciante. Enquanto o devedor hipotecário detém a propriedade, o devedor fiduciante possui apenas a posse direta do imóvel, sendo o negócio jurídico celebrado com terceiro de boa-fé, por conseguinte, ineficaz em face do proprietário do bem, o credor fiduciário.
+3.1. Segundo a jurisprudência desta Corte Superior, na venda a non domino, o negócio jurídico realizado por quem não é dono não produz efeito em relação ao proprietário, sendo irrelevante a boa-fé do adquirente.
+4. Não é possível estender uma hipótese de exceção normativa para restringir a aplicação de regra jurídica válida. A Súmula n. 308 do STJ criou uma exceção à regra geral do direito imobiliário sobre a prioridade registral, ao afirmar que a hipoteca celebrada entre a incorporadora e a instituição financeira não teria eficácia perante os adquirentes que conseguiram crédito por intermédio do Sistema Financeiro da Habitação.
+4.1. O art. 29 da Lei n. 9.514/1997 dispõe que apenas com anuência expressa do credor fiduciário o devedor fiduciante pode transmitir os direitos sobre o imóvel objeto da alienação fiduciária em garantia, assumindo o adquirente as respectivas obrigações.
+5. Recurso especial provido para julgar improcedente ação declaratória de ineficácia de garantia cumulada com desconstituição de gravame, afastando-se a determinação de desconstituição da consolidação da propriedade fiduciária.
+(REsp n. 2.130.141/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1/4/2025, DJEN de 27/5/2025.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para afastar a incidência da Súmula n. 308 do STJ no caso concreto, mantendo-se incólume a garantia fiduciária constituída em favor da instituição financeira.
+CONDENO a parte recorrida ao pagamento de 50% (cinquenta por cento) das custas e demais despesas processuais, bem como dos honorários advocatícios devidos aos advogados do BAN CO PAN S.A., os quais fixo em 10% (dez por cento) sobre o valor atualizado da causa, com base no art. 85, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
