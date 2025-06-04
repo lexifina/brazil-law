@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por LUIZ FÁBIO MISCHIATTI, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 316, e-STJ):
+APELAÇÃO. Ação de indenização por danos morais e danos materiais. Consumerista. Insurgência da ré. Televisor comprado há mais de 6 anos que apresentou defeitos. Empresa que não produz mais as peças necessárias para conserto. Tempo de vida útil do produto ultrapassado. Desarrazoado exigir que a empresa produza peças antigas após mais de 5 anos de lançado o produto. Danos morais. Não ocorrência. Mero dissabor cotidiano. Sentença reformada. Recurso provido.
+Em suas razões de recurso especial, o recorrente, ora agravante, apontou, além de dissídio jurisprudencial, ofensa ao artigo 32 do CDC, sustentando a existência de falha na prestação dos serviços da empresa agravada, que deixou de ofertar peças de reposição por período razoável de tempo.
+Contrarrazões às fls. 337-343 e 345-348 (e-STJ).
+O apelo não foi admitido na origem (fls. 349-351, e-STJ), dando ensejo ao agravo (fls. 362-366, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refutou os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 362-366 e 368-372 (e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O agravante sustenta a existência de falha na prestação dos serviços da empresa agravada, que deixou de ofertar peças de reposição por período razoável de tempo, em consonância ao artigo 32, parágrafo único, do Código de Defesa do Consumidor.
+No particular, a Corte de origem assim se manifestou (fls. 317-322 - grifou-se):
+Com efeito, consta da inicial que o autor adquiriu uma televisão da marca do requerido no ano de 2014. No ano de 2020, o aparelho começou a apresentar defeito no led, o que levou o autor a buscar uma autorizada. Após o período de análise, constatou-se que o bem não poderia ser reparado, vez que a empresa não produzia mais a peça necessária para o conserto.
+A r. sentença condenou a empresa a devolver o valor atualizado do televisor adquirido, além de danos morais arbitrados em R$ 5.000,00 (cinco mil reais).
+Em que pese o entendimento do juízo a quo, entendo que o recurso comporta provimento. Isso ocorre, pois, vez que o produto apresentou defeito com mais de 6 anos de uso, período razoável de vida útil de um aparelho similar. Destaca-se, ademais, que os avanços tecnológicos atualmente são muito rápidos, ocasionando a rápida obsolescência de eletrônicos.
+Como informado pela própria empresa, a fábrica se comprometeu a manter a produção das peças necessárias para conserto de determinado produto pelo prazo de 5 anos, que resta razoável e suficiente para reparos, enquanto durável o referido bem. Ultrapassado esse período, depreende-se que o aparelho pode apresentar defeitos, considerando o tempo de uso.
+Destaca-se, ainda, que é desarrazoado exigir que as empresas produzam todas as peças necessárias para o conserto de todos os produtos lançados de forma ad aeternum sob pena de causar uma onerosidade excessiva à empresa, que não utilizaria boa parte desses artefatos, considerando que tornaram-se obsoletos com o avanço tecnológico e, considerando ainda, que muitos consumidores optam por não consertar seus aparelhos e adquirem novos.
+ ..
+Por sua vez, o pedido de danos morais realizado pelo autor também não deve prosperar. Isso ocorre vez que, no caso em testilha, não ocorreu qualquer ato ilícito ou desrespeito por parte da empresa que justifique a indenização ao consumidor.
+Assim, têm-se que o ocorrido trata-se de mero dissabor cotidiano, não havendo que se falar em danos morais, como coaduna o seguinte julgado:
+ ..
+No tocante aos honorários, inverto o ônus sucumbencial, determinando que o autor da demanda arque com o pagamento das custas e despesas processuais, além de honorários advocatícios, os quais fixo em 10% do valor da causa.
+Assim, para afastar a conclusão da Corte local quanto à inexistência de falha na prestação dos serviços oferecidos, bem como de que a situação vivenciada não passou de mero dissabor, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+Ilustrativamente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FORTUITO EXTERNO. REEXAME DE PROVAS. RECURSO DESPROVIDO. I. CASO EM EXAME  ..  5. A Corte de origem concluiu pela inexistência de falha na prestação de serviço, considerando que o evento danoso foi causado por terceiro, caracterizando fortuito externo, o que afasta a responsabilidade da instituição financeira. 6. A revisão das conclusões do Tribunal de origem demandaria reexame de provas, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.  ..  (AgInt no AREsp n. 2.603.867/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 18, § 1º, E 32 DO CDC. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. VEÍCULO ZERO KM. VÍCIOS. TRIBUNAL A QUO CONCLUIU PELA INEXISTÊNCIA DE DANOS MORAIS, PORQUE A SITUAÇÃO NÃO ULTRAPASSARA O MERO DISSABOR. MODIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.  ..  3. O Tribunal de origem, com arrimo no acervo fático-probatório, rejeitou a pretensão de indenização por danos morais, concluindo que a situação vivenciada pelo agravante não ultrapassou o mero dissabor. A pretensão de alterar tal entendimento, quanto à ocorrência de dano moral, demandaria o reexame de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ. 4. Agravo interno desprovido. (AgInt no AREsp n. 1.412.483/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/8/2019, DJe de 27/8/2019.)
+Logo, de rigor a aplicação da Súmula 7 do STJ, restando prejudicada a análise do apontado dissídio jurisprudencial.
+2. Do exposto conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
