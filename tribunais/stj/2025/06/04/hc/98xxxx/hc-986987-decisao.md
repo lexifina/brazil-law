@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de ALESSANDRA CRISTINA PIMENTA MOREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a paciente foi condenada às penas de 49 anos, 5 meses e 18 dias de reclusão em regime fechado e de pagamento de 18 dias-multa, pela prática dos crimes contidos nos arts. 121, § 2º, I e IV, 121, § 2º, I, IV e V, e § 4º, parte final, e 157, § 2º, I e II, por 2 vezes, na forma do 70, todos do Código Penal.
+Tribunal de origem não conheceu da revisão criminal interposta.
+O impetrante alega que há continuidade delitiva nos crimes de homicídio e roubo, conforme o art. 71 do Código Penal.
+Sustenta que houve exasperação indevida da pena-base dos homicídios, majorada em 1/2 devido às circunstâncias do crime e à quantidade de qualificadoras, e dos roubos, majorada em 1/3 na terceira fase.
+Afirma que a confissão da paciente foi ignorada nas instâncias ordinárias, apesar de ter colaborado efetivamente para a elucidação dos crimes, e pleiteia o reconhecimento da confissão para mitigação da pena.
+Requer o provimento do habeas corpus nos termos postulados, ainda que de ofício.
+Foi juntada aos autos manifestação do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 323-325).
+É o relatório.
+Não se pode conhecer do pedido.
+O Tribunal de origem não conheceu da revisão criminal lá manejada, indicando expressamente os motivos para a solução adotada. No ponto (fls. 46-59):
+Deveras, vem a requerente Alessandra Cristina postular a procedência da questionada Revisão Criminal, para desconstituir o Acórdão confirmatório, requerendo, em síntese, o reconhecimento da continuidade delitiva entre todos os crimes, com a consequente majoração da pena em 1/4 (um quarto), bem como o reconhecimento da circunstância atenuante da confissão espontânea.
+Voltando os olhos ao caso concreto, vê-se que o Acórdão foi assim proferido:
+ ..
+Vai daí que se reputa incensurável o acórdão confirmatório da sentença penal condenatória, que merece subsistir pelos seus próprios fundamentos, de fato e de direito, aos quais, para se evitar tautologia, reporto-me, fazendo-o consoante o permissivo do art. 252, do Regimento Interno deste Tribunal de Justiça do Estado de São Paulo. A propósito, trago entendimento, do SUPREMO TRIBUNAL FEDERAL, que dá plena legitimidade jurídico- constitucional em situações, como aqui, em que adotei a técnica da motivação "per relationem":
+ ..
+A propósito, pelo que se depreende do acórdão acima transcrito constata-se, sem maior esforço intelectual, que houve apreciação escorreita do conjunto probatório existente nos autos, tanto assim que, a bem da verdade, na inicial desta Revisão Criminal não se apresentou qualquer tipo de argumento que, de um modo ou de outro, contrastasse com as sobreditas análises, menos ainda se indicando, mesmo que indiciariamente, alguma prova nova. Basta a singela leitura das razões da Revisão Criminal, trazidas com lastro no art. 621, I e III, do Código de Processo Penal, para que se verifique o seu completo descabimento, inclusive sob o ponto de vista legal, haja vista que não há falar-se em Acórdão condenatório contrário ao texto expresso da lei penal ou à evidência dos autos, tampouco demonstrada circunstância que determine ou autorize diminuição especial da pena.
+No duro, pretende-se, única e exclusivamente, uma releitura da dosimetria da pena existente nos autos, em nenhum momento se apontando, ônus atribuído ao interessado, qual o ponto em que o acórdão confirmatório teria sido contrário ao texto expresso da lei penal ou à evidência dos autos. Repito: competia, como compete ao interessado na Revisão Criminal, por ocasião do oferecimento de suas razões, indicar e demonstrar, com precisão, os fundamentos fáticos que, na sua óptica idiossincrática, teriam ensejado o fundamento legal no qual fundado o requerimento revisional criminal. Não o fazendo, antes disso, deixando evidenciado pretender, simplesmente, a redução da pena imposta, de se convir que não é o caso de se conhecer da Revisão Criminal (ainda mais quando houve análise vertical a respeito da autoria e da materialidade criminosas, bem como da dosimetria da pena). Isto porque, como é cediço, toda a matéria questionada nesta Revisão Criminal já foi satisfatoriamente analisada pelas instâncias ordinárias, em especial na 2ª Instância, aqui estando claro que se pretende uma "nova apelação", travestida com o nome de Revisão Criminal, tal como exaustivamente aqui mencionado.
+Ainda que assim não fosse, não se vislumbra qualquer irregularidade patente na dosimetria da pena do requerente, tampouco provas novas que autorizassem a revisão da pena, conforme entendimento do Superior Tribunal de Justiça:
+ ..
+Isto posto, não conheço da Revisão Criminal.
+Com efeito, segundo a jurisprudência do Superior Tribunal de Justiça, não é cabível a revisão criminal quando utilizada a título de nova apelação, visando ao mero reexame de fatos e provas, sem a clara caracterização de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP.
+A esse respeito: HC n. 206.847/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016; e AgRg no AREsp n. 1.807.887/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/10/2021.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
