@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Brint Comércio e Indústria de Equipamentos Industriais Ltda. à decisão que concedeu o exequatur e, diante da manifestação espontânea da parte, considerou consumado o objeto da comissão e determinou a devolução dos autos à Justiça rogante (fls. 196-200).
+A embargante afirma que a decisão impugnada revela-se omissa, com relação ao disposto no art. 21 do CPC, bem como à indispensável manifestação da Justiça rogante quanto à própria competência para conhecimento da referida ação (AgInt na CR n. 153638/EX). Alega, ainda, a existência no caso em julgamento ou a superação do entendimento ali fixado, nos termos do art. 489, § 1º, VI, do CPC.
+É o relatório.
+Decido.
+Como é sabido, os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição e suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide, ou para correção de erro material.
+Anoto que a embargante se limita a repisar os argumentos aventados na impugnação, os quais foram devidamente examinados na decisão embargada.
+Ademais, não há omissão ou contradição a ser sanada, visto que a decisão embargada atende, de forma expressa, à correta instrução do processo em curso, sendo suficientes para a compreensão da controvérsia os documentos encaminhados pela Justiça rogante.
+Quanto à alegada omissão referente à competência da Justiça rogante, a decisão embargada enfrentou, explicitamente, a questão ao observar que o caso versa sobre assunto não previsto no rol dos temas sujeitos exclusivamente à Justiça brasileira (art. 23 do Código de Processo Civil), configurando hipóteses de competência concorrente, pode ser apreciado pela Justiça alienígena" (AgInt na CR 14.548/EX, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 07/04/2020, DJe16/04/2020)
+Cumpre apontar que a decisão utilizada pela embargante como amparo para sua pretensão recursal não se aplica à hipótese vertente. De fato, o acórdão que julgou o Agravo Interno na CR n. 15.638/EX, ao reconhecer a necessidade de manifestação do Juízo rogante sobre sua própria competência, considerou que nenhum dos fatos que integravam a causa de pedir havia ocorrido no país estrangeiro e que o direito invocado poderia se tornar efetivo por meio da instauração do processo em país diverso daquele de origem da carta rogatória (AgInt na CR n. 15.638/EX, relator Ministro Humberto Martins, julgado em 11/5/2021, DJe de 13/5/2021).
+Todavia, o processo no qual o ora recorrente foi notificado envolve circunstâncias fáticas transfronteiriças, sendo imputada à interessada a suposta participação na ação de descumprimento de contrato.
+As circunstâncias assim delineadas evidenciam que os fatos que ampararam a instauração de ação na Justiça rogante não se amoldam ao cenário descrito no Agravo Interno na CR n. 15.638/EX.
+Portanto, inexiste irregularidade sanável por meio destes embargos, já que a matéria submetida a apreciação foi devidamente julgada, não havendo, na decisão embargada, os vícios que autorizariam o manejo do recurso.
+Por fim, ressalto que o pedido de cooperação restringe-se à mera citação da parte interessada, o que se materializou, inclusive, com o seu comparecimento espontâneo aos autos.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
