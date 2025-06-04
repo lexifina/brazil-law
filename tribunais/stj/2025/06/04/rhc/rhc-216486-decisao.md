@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por GEOVANE LEUTZ FURTADO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o recorrente se encontra preso preventivamente no curso da ação penal na qual é acusado da prática prevista no art. 17, da Lei nº 10.826/2003, decorrente do comércio ilegal de arma de fogo.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da ordem, conforme decisão de fls. 39-43 e acórdão de fls. 94.
+Na hipótese, o recorrente aponta a ocorrência de constrangimento ilegal consubstanciado, o que justificaria o conhecimento da impetração na origem.
+Ainda, afirma que a sua segregação é desproporcional e que a existência de maus antecedentes, por si só, não autoriza a decretação da segregação cautelar.
+Também sustenta a ausência de periculum libertatis para a manutenção da sua prisão.
+Requer, ao final, a revogação da prisão preventiva, que devem ser substituídas por medidas cautelares menos gravosas.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o recorrente reiteradamente praticaria condutas criminosas, circunstância apta a justificar a segregação cautelar.
+Sobre a necessidade da prisão do recorrente, mostra-se adequada a fundamentação do Juízo de primeiro grau, que destaca a reiteração delitiva do recorrente, inclusive de crime da mesma natureza, bem como porque não foi encontrado quando procurados em outras ações penais, ocorrendo a prescrição em uma delas:
+Vê-se que as circunstâncias dos fatos e os registros de antecedentes evidenciaram a sua periculosidade e reforçaram os indícios da sua reiteração criminosa, justificando a necessidade da segregação para garantia da ordem pública.
+A prisão ainda faz referências aos antecedentes do paciente e, apesar da insurgência da defesa, os registros indicam a possibilidade concreta de reiteração delituosa.
+Conforme certidões acostadas ao evento 3, o acusado possui condenações por tráfico de entorpecentes (extinção das penas no ano 2018) e por porte de arma com numeração suprimida (condenação transitada em julgado em outubro de 2018, sem data de reabilitação). Além disso, de acordo com o referido registro, o paciente possui processo suspenso na forma do art. 366 do CPP.
+Argumenta a defesa que os fundamentos utilizados anteriormente para manutenção da prisão preventiva não se sustentam, posto que o acusado seria tecnicamente primário.
+Ocorre, de acordo com as informações constantes na certidão do evento 3.4, o acusado não se trata de indivíduo tecnicamente primário, pois a condenação com trânsito em julgado, sem data de reabilitação (autos n. 0008233-14.2018.8.24.0033), é suficiente para caracterizar a reincidência.
+Quanto às ações penais em curso - 0001271-32.2015.8.24.0048 e 0003624-22.2017.8.24.0033, entende-se que não são suficientes, por si sós, para fundamentar o decreto de custódia cautelar, porém, associadas a outros fatores, podem ser utilizadas como fundamentos para decretação e manutenção da medida extrema, como ocorre na hipótese em tela.
+Isso porque o processo n. 0001271-32.2015.8.24.0048 permaneceu suspenso pelo artigo 366 do CPP por mais de cinco anos (de 06/11/2018 até 01/11/2024), em razão da não localização do acusado, tendo seu regular andamento somente após a prisão em flagrante do mesmo pelos fatos que ora se apuram na presente ação penal.
+Tal situação ocasionou a extinção daquele feito em decorrência da prescrição (processo 0001271- 32.201 5.8.24.0048/SC, evento 115, SENTI), demonstrando que o acusado, caso solto, muito provavelmente se furtará à aplicação da lei penal.
+Sobre o tema, o seguinte precedente desta Corte:
+"A prisão preventiva foi adequadamente fundamentada, com base na necessidade de garantir a ordem pública, considerando que o paciente é reincidente esp ecífico em crimes de tráfico de drogas e estava em cumprimento de pena no momento do flagrante. O risco concreto de reiteração delitiva justifica a medida extrema, sendo insuficientes outras cautelares alternativas" (AgRg no HC n. 925.326/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 23/10/2024).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ainda, pelo que foi dito, mostra-se inadequada neste momento a aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
