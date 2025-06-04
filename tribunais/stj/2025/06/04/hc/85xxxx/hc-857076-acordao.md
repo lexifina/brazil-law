@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/05/2025 a 04/06/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRODUÇÃO ANTECIPADA DE PROVAS. LEGALIDADE.
+1. O Magistrado de primeiro grau determinou a produção antecipada de prova oral para aproveitamento na instrução processual do corréu, que foi citado pessoalmente e contra a qual o processo prosseguiu.
+2. A produção antecipada de provas, quando realizada no curso natural da instrução processual e não exclusivamente por decisão cautelar, não requer a demonstração de urgência concreta. Precedente.
+3. O aproveitamento de provas testemunhais colhidas na instrução do corréu, com a presença da Defensoria Pública, não causa prejuízo à defesa do paciente, garantindo-se o contraditório e a ampla defesa.
+4. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALMIR FERNANDES - condenado por roubo circunstanciado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 3005717-39.2023.8.26.0000).
+Consta dos autos que o paciente, ao lado do corréu, foi denunciado pela prática do delito tipificado no art. 157, § 2º, II, e § 2º-A, I, do Código Penal. Diante da não localização do acusado, sua citação foi feita por edital, sendo determinada a suspensão do processo e do prazo prescricional. Todavia, a despeito da suspensão, o Juízo processante determinou a antecipação da prova oral (Ação Penal n. 1500207-29.2023.8.26.0127, da Vara Criminal da comarca de Itapevi/SP).
+Em vista da determinação de antecipação da prova oral, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, nos termos desta ementa (fl. 47):
+HABEAS CORPUS - Roubo - Réu não localizado para citação - Suspensão do processo nos termos do artigo 366 do CPP - Produção antecipada de provas determinada - Fundamentação idônea - Súmula nº 455 do STJ não violada -Ordem denegada.
+Daí o presente writ, no qual a Defensoria Pública alega, em síntese, que restaram maculadas de forma direta e frontal as garantias do contraditório, da ampla defesa e, em consequência, do devido processo legal, todos assegurados constitucionalmente, bem como os artigos de lei federal supracitados e a Súmula 455 desse STJ, infligindo ao paciente indevido constrangimento ilegal, o que deve ser corrigido (fl. 13).
+Requer a concessão de medida liminar para suspender o feito em relação ao paciente, até que o writ seja definitivamente julgado (fl. 14).
+No mérito, pugna pela concessão da ordem para cassar a decisão impugnada no capítulo que determina a produção antecipada de provas em relação ao paciente e, se o caso, determinar a anulação de eventuais provas já produzidas (fl. 14).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRODUÇÃO ANTECIPADA DE PROVAS. LEGALIDADE.
+1. O Magistrado de primeiro grau determinou a produção antecipada de prova oral para aproveitamento na instrução processual do corréu, que foi citado pessoalmente e contra a qual o processo prosseguiu.
+2. A produção antecipada de provas, quando realizada no curso natural da instrução processual e não exclusivamente por decisão cautelar, não requer a demonstração de urgência concreta. Precedente.
+3. O aproveitamento de provas testemunhais colhidas na instrução do corréu, com a presença da Defensoria Pública, não causa prejuízo à defesa do paciente, garantindo-se o contraditório e a ampla defesa.
+4. Ordem denegada.
+VOTO
+O writ não comporta acolhimento.
+Alega a defesa que a decisão judicial na qual foi determinada a produção antecipada de provas em detrimento do paciente, citado por edital, mostra-se ilegal por falta de fundamentação concreta, em afronta ao disposto no art. 366 do Código de Processo Penal e ao Enunciado n. 455 da Súmula da Jurisprudência do STJ.
+Ocorre que é necessário fazer uma distinção entre a produção antecipada de provas propriamente dita e o aproveitamento, como prova antecipada, de atos probatórios que serão efetivamente realizados por outras razões processuais. Nesse sentido, este Superior Tribunal, no julgamento do REsp n. 1.959.984/PE, de relatoria da Ministra Laurita Vaz, firmou haver duas hipóteses a serem consideradas: (i) a produção antecipada de provas, baseada exclusivamente em decisão cautelar específica; e (ii) o aproveitamento, como prova antecipada, de atos probatórios que serão de qualquer forma realizados no curso do processo, por razões processuais diversas.
+No primeiro caso, a prova só é produzida em virtude da medida cautelar, e se esta não for deferida, o ato não será realizado. Nessa hipótese, aplica-se, sim, o requisito da urgência concreta previsto no Enunciado n. 455 da Súmula do STJ. No segundo caso, entretanto, a prova será produzida independentemente da medida antecipatória, pois o ato ocorrerá no curso natural da instrução processual. Confira-se o julgado: REsp n. 1.959.984/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.
+No caso em tela, verifica-se que o paciente, citado por edital, não compareceu nem constituiu advogado, tendo sido suspenso o processo e o prazo prescricional em relação a ele, com fundamento no art. 366 do CPP. Contudo, a ação penal prosseguiu normalmente contra o corréu, que foi citado pessoalmente. Como a instrução probatória seguirá seu curso em relação ao corréu, é razoável e consentâneo com o princípio da economia processual que a prova testemunhal colhida nessa fase seja aproveitada como prova antecipada também em relação ao paciente. Isso porque as testemunhas serão ouvidas de qualquer forma, e o não aproveitamento dessas provas em relação ao réu citado por edital significaria a necessidade de uma nova e repetitiva inquirição das mesmas testemunhas no futuro, caso o acusado seja localizado.
+Vale ressaltar que o aproveitamento da prova não causará prejuízo à defesa do paciente, uma vez que a Defensoria Pública foi intimada para acompanhar a audiência de instrução e julgamento, garantindo-se assim o contraditório e a ampla defesa. Além disso, caso o réu seja posteriormente localizado e a marcha processual retomada em relação a ele, a defesa poderá, caso entenda necessário, postular a repetição da prova para esclarecimento de algum ponto específico, cabendo ao Juiz de primeiro grau avaliar a necessidade de refazimento do ato probatório, conforme destacado na decisão impugnada.
+Não há, pois, constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem.
