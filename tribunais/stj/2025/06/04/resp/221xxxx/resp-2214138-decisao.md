@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (fls. 142):
+"DIREITO CONSTITUCIONAL. PREVIDENCIÁRIO. APELAÇÃO. REATIVAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO DE PENSÃO POR MORTE. PAGAMENTO DE ATRASADOS PELA VIA ADMINISTRATIVA. REGIME DE PRECATÓRIO. ART. 100 DA CONSTITUIÇÃO FEDERAL. RECURSO PROVIDO.
+1. Trata-se de apelação interposta pelo Instituto Nacional do Seguro Social (INSS) contra sentença que julgou procedentes os embargos de terceiro, determinando a reativação do benefício previdenciário de pensão por morte e pagamento de parcelas atrasadas na via administrativa.
+2. A autarquia recorrente insurge-se contra a determinação do pagamento pela via administrativa, sustentando que tal modalidade viola o art. 100 da Constituição Federal, que estabelece o regime de precatórios.
+3. A sentença de primeiro grau ordenou a reativação do benefício previdenciário de Pensão por Morte, NB 1743182497, bem como o pagamento de parcelas atrasadas administrativamente, desconsiderando o regime de precatórios previsto constitucionalmente.
+4. É incontroverso o direito do beneficiário à reativação de seu benefício previdenciário e ao recebimento dos atrasados.
+5. Contudo, o regime de precatórios foi instituído pela Constituição Federal como mecanismo para regularizar o pagamento de débitos judiciais do Poder Público, visando garantir a ordem cronológica de pagamentos e evitar privilégios entre credores. O art. 100 da CF é expresso ao estabelecer essa forma de pagamento, e qualquer alternativa que não siga este preceito é considerada inconstitucional. O entendimento do Supremo Tribunal Federal está consolidado nesse sentido, reforçando a necessidade de observância rigorosa ao regime de precatórios. Precedente: PROCESSO: 08178118920204058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 22/03/2022.
+6. Apelação provida."
+Nas razões do recurso especial (fls. 186/206), com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, o Ministério Público Federal alega negativa de vigência aos dispositivos legais, sustentando que a restituição de valores indevidamente bloqueados em sede de embargos de terceiro criminal não se sujeita ao regime de precatórios. Argumenta que a decisão recorrida aplicou erroneamente o art. 100 da Constituição Federal, ao determinar que a devolução dos valores retidos do benefício de Iolanda Alves Novaes, indevidamente bloqueados, se sujeite ao regime de precatórios, quando a legislação de regência não estabelece condições para a reintegração dos bens e direitos indevidamente constritos.
+O parecer do Ministério Público Federal opina pela redistribuição do recurso especial à Primeira Seção do Superior Tribunal de Justiça, em razão da matéria versada tratar do pagamento de benefícios previdenciários (fls. 375/376).
+É o relatório. DECIDO.
+A controvérsia suscitada neste recurso especial consiste em definir a forma de pagamento pelo INSS dos valores atrasados a título de pensão por morte outrora suspensa por ordem judicial, se pela via administrativa ou por meio de RPV ou de precatório.
+No entanto, ao examinar os autos, verifica-se que, em que pese a ação principal seja de natureza criminal, a controvérsia posta à apreciação do Superior Tribunal de Justiça não se restringe à caracterização típica da conduta penal, mas envolve, de forma central, a forma de pagamento de benefício previdenciário pelo INSS.
+Desse modo, constata-se que a questão jurídica veiculada no presente recurso diz respeito à interpretação e aplicação da legislação previdenciária, cuja competência para apreciação, no âmbito deste Superior Tribunal de Justiça, é das Turmas que integram a Primeira Seção, nos termos do art. 9º, § 1º, inciso XIII, do RISTJ.
+Art. 9º A competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa.
+§ 1º À Primeira Seção cabe processar e julgar os feitos relativos a:
+XIII - benefícios previdenciários, inclusive os decorrentes de acidentes do trabalho;
+A jurisprudência deste Tribunal é consolidada no sentido de que, ainda que se trate de processo criminal, quando a questão em análise envolver o pagamento de benefício previdenciário, compete à Primeira Seção processar e julgar o feito.
+Nesse sentido:
+"(..) 2. A Terceira Seção do Superior Tribunal de Justiça, cuja a competência é meramente residual em matéria previdenciária, tem adotado a orientação consolidada pela Primeira Seção, no julgamento do Recurso Especial Representativo da Controvérsia 1.401.560/MT, de que é legítima a restituição de valores percebidos pelo segurado, em virtude do cumprimento de decisão judicial precária posteriormente revogada, independentemente da natureza alimentar da verba e da boa-fé do beneficiário. Precedentes.
+3. Recurso especial provido."
+(REsp n. 1.057.817/RS, Sexta Turma, Rel Min. Nefi Cordeiro, DJe de 10/12/2015.)
+Ante o exposto, declino da competência para julgamento do presente Recurso Especial, determinando sua redistribuição uma das Turmas que integram a Primeira Seção, nos termos regimentais.
+Publique-se. Intimem-se.
+EMENTA
