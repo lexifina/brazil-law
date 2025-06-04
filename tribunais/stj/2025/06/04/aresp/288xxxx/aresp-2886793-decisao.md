@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  nas  alíneas "a" e  "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Rio Grande do Sul,  assim  ementado  (fl.  66,  e-STJ):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. EXECUÇÃO DE TÍTULO JUDICIAL. APLICABILIDADE DO ARTIGO 354 DO CÓDIGO CIVIL AO CASO. REGRA GERAL, INCIDENTE TAMBÉM ÀS RELAÇÕES PREVIDENCIÁRIAS. PRECEDENTES DESTA CÂMARA CÍVEL. RECONHECIDA OMISSÃO QUANTO À IMPUGNAÇÃO DA AGRAVANTE AO CÁLCULO DO PERITO. DETERMINAÇÃO DE QUE A IMPUGNAÇÃO DA SEJA APRECIADA PELO PERITO, EM EVENTUAL REMESSA DOS AUTOS PARA APRECIAÇÃO DAS IMPUGNAÇÕES DOS CREDORES. AGRAVO DE INSTRUMENTO PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (fls. 114/118, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  aos  artigos  1.022, 502 e 503 do Código de Processo Civil, 354 do Código Civil, 5º, XXXVI da Constituição Federal.
+Sustenta,  em  síntese:
+a) a  nulidade do acórdão em razão de omissão "quanto ao fato que a solicitação do recorrido para que fosse aplicada a previsão do art. 354 do Código Civil, ocorreu após homologação parcial do seu cálculo, que nunca foi realizada na fase de conhecimento e na execução, nunca houve impugnação quanto a forma que era realizada a dedução dos valores depositados, apenas no evento 110, após mais de vários anos, sendo um argumento novo e inovação";
+b) a ausência de coexistência de dois ou mais débitos da mesma natureza, mas sim mera atualização de um único débito;
+c) ofensa à coisa julgada.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  207/219,  e-STJ).  Contraminuta  às  fls.  234/240,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. Inicialmente e no tocante à dita ofensa ao art. 5.º, XXXVI, da CF, ressalta-se que a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da CF.
+2. O insurgente aponta violação ao artigo 1022 do CPC, sustentando que o Tribunal local, não fundamentou devidamente o aresto hostilizado, sendo insuficiente a motivação do acórdão.
+Aduz, em síntese, omissão "quanto ao fato que a solicitação do recorrido para que fosse aplicada a previsão do art. 354 do Código Civil, ocorreu após homologação parcial do seu cálculo, que nunca foi realizada na fase de conhecimento e na execução, nunca houve impugnação quanto a forma que era realizada a dedução dos valores depositados, apenas no evento 110, após mais de vários anos, sendo um argumento novo e inovação".
+Todavia, não se vislumbra o alegado vício, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, sem omissões, consoante se infere dos seguintes trechos (fls. 63, e-STJ):
+Primeiramente, a aplicação do artigo 354 do Código Civil1 ao caso não configura anatocismo ou violação ao princípio do mutualismo.
+Desnecessária expressa disposição acerca da incidência de dispositivo legal no título executivo judicial, pois se trata de regra geral, incidente a todas as relações de trato sucessivo, excetuada estipulação em contrário. Conforme decidido por esta Câmara Cível em casos similares, a citada regra incide às relações previdenciárias. Nesse sentido:
+Da decisão dos embargos de declaração constou (fls. 114, e-STJ):
+O acórdão é claro no sentido da aplicabilidade do dispositivo legal às relações de natureza previdenciária, mesmo não havendo determinação nesse sentido no título executivo, como referido nos precedentes que fundamentaram o voto condutor.
+Depreende-se da leitura dos acórdãos recorridos , sobretudo dos trechos supratranscritos, que o órgão julgador dirimiu a questão que lhe fora posta à apreciação, inclusive sobre as questões apontadas como omissas, embora não tenha acolhido a pretensão da parte recorrente, portanto não ocorre ofensa aos citados dispositivos legais. Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; Resp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Não é demais lembrar, a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. DECADÊNCIA E IRREPETIBILIDADE DE VALORES. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. ACUMULAÇÃO DE AUXÍLIO-ACIDENTE COM APOSENTADORIA CONCEDIDA APÓS 1997. ART. 86, §§ 2º, E 3º DA LEI 8.213/1991, COM REDAÇÃO DADA PELA LEI 9.528/1997. EXIGÊNCIA DE QUE AMBOS OS BENEFÍCIOS TENHAM SIDO CONCEDIDOS ANTES DA EDIÇÃO DA LEI 9.528/1997. NÃO OCORRÊNCIA. RECURSO REPETITIVO. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(..)
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp 2672639/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, SEGUNDA TURMA, julgado em 30/04/2025, DJe 08/05/2025
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO.
+CRÉDITO AO CONSUMIDOR. AÇÃO REVISIONAL. 1. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA APENAS COM BASE NA TAXA MÉDIA DE MERCADO. INADMISSIBILIDADE. VERIFICAÇÃO DOS DEMAIS REQUISITOS DELINEADOS NA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. NECESSIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A taxa média de mercado divulgada pelo Bacen é apenas uma amostra das taxas praticadas no mercado que, entretanto, não deve ser adotado indistintamente, já que existem peculiaridades na concessão do crédito que não permite a fixação de uma taxa única, sem qualquer maleabilidade.
+3. Recurso especial parcialmente provido. (REsp 2185825/MG, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/04/2025, DJe 23/04/2025)
+Nota-se, portanto, que as alegações vertidas pelo insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Inexiste, portanto, violação ao artigo 1022 do CPC, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+3. No mais, cinge-se a pretensão recursal à verificação acerca da possibilidade de aplicação do disposto no art. 35 4 do CC e da ocorrência de violação à coisa julgada no caso dos autos.
+No caso em tela, como visto acima, o Tribunal de origem, com base nos elementos fáticos constantes dos autos, concluiu que "a aplicação do artigo 354 do Código Civil ao caso não configura anatocismo ou violação ao princípio do mutualismo. Desnecessária expressa disposição acerca da incidência de dispositivo legal no título executivo judicial, pois se trata de regra geral, incidente a todas as relações de trato sucessivo, excetuada estipulação em contrário".
+Sobre o tema, a jurisprudência reiterada desta Corte Superior tem entendido que a regra da imputação do pagamento (art. 354 do Código Civil) só deve ser afastada se houver expressa previsão legal ou contratual.
+Ademais, eventual reforma do acórdão recorrido, sobretudo na parte relativa à conclusão de inexistência de ofensa à coisa julgada, bem como, da observância dos procedimentos legais da fase de cumprimento de sentença, demandaria o reexame das provas dos autos, juízo obstado pelo óbice da Súmula 7/STJ.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. CUMPRIMENTO DE SENTENÇA. IMPUTAÇÃO DO PAGAMENTO. REGRA. APLICABILIDADE. COISA JULGADA. CONFISSÃO. INEXISTÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. LAUDO PERICIAL. AFASTAMENTO. FUNDAMENTAÇÃO. DEVER. CUMPRIMENTO.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A regra da imputação do pagamento (art. 354 do Código Civil) só deve ser afastada se houver expressa previsão legal ou contratual.
+3. Na hipótese, acolher a tese referente à coisa julgada e à suposta confissão da instituição financeira, afastadas na origem, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+4. A conclusão do laudo pericial relativa à amortização sobre capital foi afastada pelo magistrado singular de forma fundamentada. Princípio do livre convencimento do juiz.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.966.141/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. IMPUTAÇÃO DO PAGAMENTO. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Quanto ao art. 354 do Código Civil, cumpre reafirmar que incide no caso a Súmula 83/STJ. Com efeito, a jurisprudência do STJ se firmou no sentido de que a regra prevista nesse dispositivo legal (conhecida como ordem preferencial de imputação de pagamento, em caso de débito composto de capital e juros) tem aplicação em relação aos contratos em que o pagamento é diferido em parcelas, salvo disposição contratual em contrário.
+2.1. Modificar o entendimento do Tribunal local, acerca da ocorrência à imputação ao pagamento, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt no REsp n. 1.740.555/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/9/2020, DJe de 21/9/2020.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. DISPOSITIVO CONSTITUCIONAL. ENUNCIADO DE SÚMULA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. NÃO OCORRÊNCIA DE PREQUESTIONAMENTO IMPLÍCITO. PAGAMENTO. REGRA DE IMPUTAÇÃO. ART. 354 DO CC/2002. JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. CAPITALIZAÇÃO DE JUROS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ .. .
+5. "Havendo capital e juros, o pagamento imputar-se-á primeiro nos juros vencidos, e depois no capital, salvo estipulação em contrário, ou se o credor passar a quitação por conta do capital" (art. 354 do CC/2002). Aplicação da Súmula n. 83/STJ.
+6. A alteração da conclusão do Tribunal de origem a respeito de cobrança indevida de juros capitalizados encontra óbice nas Súmulas n. 5 e 7 do STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.421.473/SP, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 30/3/2020, DJe de 1/4/2020.)
+Destarte, encontrando-se o acórdão recorrido em conformidade com a jurisprudência desta Corte Superior, inviável o provimento do recurso especial, ante a incidência dos óbices das Súmulas 83 e 7 do STJ.
+4 . Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
