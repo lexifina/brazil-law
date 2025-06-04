@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito positivo de competência suscitado por PRÓ-SAÚDE ASSOCIAÇÃO BENEFICENTE DE ASSISTÊNCIA SOCIAL E HOSPITALAR contra decisão proferida pelo Juízo da 21ª Vara do Trabalho do Rio de Janeiro (RJ) nos autos da Execução Trabalhista n. 0100432-77.2021.5.01.0021.
+A suscitante alega que se encontra em processo de recuperação judicial (Processo n. 1067393-13.2023.8.26.0100), em trâmite na 3ª Vara de Falências e Recuperações Judiciais de São Paulo (SP), e que o Juízo trabalhista determinou a liberação de valores constritos em execução individual, embora tenha reconhecido expressamente tratar-se de crédito concursal, sujeito ao regime do art. 49 da Lei n. 11.101/2005.
+Afirma que a decisão trabalhista afronta a competência do Juízo da recuperação e compromete a sistemática de preservação do ativo, nos termos da legislação especial.
+Requer a concessão de tutela provisória para suspender os atos de transferência dos valores ao Juízo trabalhista e, ao final, o reconhecimento da competência do Juízo da recuperação judicial para deliberar sobre a destinação dos valores.
+É o relatório. Decido.
+Nos termos do art. 105, I, d, da Constituição Federal, compete ao Superior Tribunal de Justiça dirimir conflitos de competência entre juízos vinculados a tribunais diversos, como no caso presente, envolvendo a Justiça trabalhista e a Justiça estadual.
+A controvérsia consiste em definir o juízo competente para deliberar sobre o destino de valores depositados judicialmente, relacionados a crédito trabalhista reconhecido como concursal, em desfavor de empresa em recuperação judicial.
+A documentação apresentada demonstra que o Juízo trabalhista reconheceu que o crédito foi constituído antes do pedido de recuperação judicial, submetendo-se, pois, ao regime do art. 49 da Lei n. 11.101/2005. Determinou-se, inclusive, a expedição de alvará para transferência dos valores ao processo de recuperação judicial (Autos n. 1067393-13.2023.8.26.0100).
+Assim, dos elementos apresentados evidenciam que não há propriamente conflito de competência a ser dirimido, pois o próprio Juízo trabalhista reconheceu a submissão do crédito ao Juízo da recuperação judicial e determinou a remessa dos valores para que integrem o processo de recuperação, nos exatos termos da legislação especial.
+Não se verifica, po rtanto, sequer resistência ou sobreposição de atos decisórios entre os Juízos envolvidos, de modo que o presente conflito é inexistente.
+Ademais, observa-se que, a despeito das alegações, a parte suscitante não juntou aos autos cópia da decisão proferida pelo Juízo da recuperação judicial, documento essencial à comprovação da controvérsia e à formação do juízo de admissibilidade, conforme exige o art. 320 do CPC, aplicado por analogia à espécie.
+Ante o exposto, indefiro liminarmente o presente conflito de competência por não haver nos autos documento essencial à sua admissibilidade e por não evidenciar a parte sequer a existência de resistência ou oposição do Juízo trabalhista.
+Publique-se. Intimem-se.
+EMENTA
