@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por BORILLE ENGENHARIA E CONSTRUCOES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 1822):
+"APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANOS DECORRENTES DE OBRA VIZINHA. SENTENÇA DE PROCEDÊNCIA EM RELAÇÃO À CONSTRUTORA, E DE IMPROCEDÊNCIA QUANTO AOS CORRÉUS, ANTIGOS PROPRIETÁRIOS DO IMÓVEL NO QUAL A OBRA FOI CONSTRUÍDA. RECURSOS DA CONSTRUTORA E DOS AUTORES. ANÁLISE CONJUNTA. ALEGADA AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS DA RESPONSABILIDADE CIVIL. NÃO OCORRÊNCIA. CONDUTA CULPOSA DA CONSTRUTORA E NEXO DE CAUSALIDADE EVIDENCIADOS POR LAUDO PERICIAL PRODUZIDO EM JUÍZO. INCORPORADORA QUE NÃO ELABOROU OS ESTUDOS TÉCNICOS NECESSÁRIOS QUANTO AO IMPACTO DA OBRA NA VIZINHANÇA, NEM SE ACAUTELOU QUANDO DA CONSTRUÇÃO. AUSÊNCIA, ADEMAIS, DE CULPA CONCORRENTE ATRIBUÍDA AOS AUTORES. EXPERTO QUE, AO RESPONDER QUESITOS COMPLEMENTARES APRESENTADOS PELO JUÍZO, INFORMOU QUE AS CONDIÇÕES DE CONSTRUÇÃO E MANUTENÇÃO DO IMÓVEL DOS AUTORES NÃO CONTRIBUÍRAM DECISIVAMENTE PARA O AGRAVAMENTO DOS DANOS CONSTATADOS EM VIRTUDE DA CONDUTA DA RÉ. PRETENDIDO RECONHECIMENTO DA OBRIGAÇÃO DOS ANTIGOS PROPRIETÁRIOS DO TERRENO EM INDENIZAR OS DANOS SUPORTADOS PELOS AUTORES. DESCABIMENTO. REQUERIDOS QUE CELEBRARAM CONTRATO DE PERMUTA DO TERRENO COM A CONSTRUTORA EM TROCA DE UNIDADES CONSTRUÍDAS. AUSÊNCIA DE INGERÊNCIA NO EMPREENDIMENTO. RESPONSABILIDADE AFASTADA. PRECEDENTES DO STJ. DANOS MORAIS. OCORRÊNCIA. SITUAÇÃO QUE PERDUROU MAIS DE 10 (DEZ) ANOS. IMÓVEL DOS AUTORES COMPROMETIDO EM RAZÃO DAS OBRAS EXECUTADAS PELA INCORPORADORA. SITUAÇÃO QUE DESBORDA O MERO DISSABOR. QUANTUM INDENIZATÓRIO FIXADO NA ORIGEM EM R$ 10.000,00 (DEZ MIL REAIS) PARA CADA AUTOR. REDUÇÃO PARA R$ 7.000,00 (SETE MIL REAIS) PARA CADA AUTOR, CONFORME AS PECULIARIDADES DO CASO CONCRETO. SENTENÇA REFORMADA EM PARTE. RECURSO DA CONSTRUTORA CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DOS AUTORES CONHECIDO E DESPROVIDO."
+Rejeitados os embargos de declaração opostos (fl. 1911).
+No recurso especial, a parte recorrente alega violação do art. 485 do CPC, sustentando sua ilegitimidade para figurar no polo passivo da lide, por ser mera prestadora de serviços.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 2137/2142).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 2149/2150), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 2206/2210).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Em relação à apontada ofensa ao art. 485 do CPC, o recurso especial não merece prosperar, porquanto encontra óbice nas Súmulas 211/STJ, 282 e 356/STF. Tampouco foram opostos os competentes embargos de declaração para ver suprida eventual omissão.
+Assim, o Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ sobre o tema, conforme precedente a seguir transcrito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DANO MORAL DECORRENTE DE ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. PECULIARIDADES DO CASO CONCRETO. POSSIBILIDADE DE INDENIZAÇÃO. COBRANÇA DE TAXA DE CESSÃO DE DIREITOS. ABUSIVIDADE. RESTITUIÇÃO DEVIDA. INCIDÊNCIA DO CDC. QUESTÃO NÃO PREQUESTIONADA. NÃO
+CONHECIMENTO. SÚMULAS 282 E 356 DO STF E 211 DO STJ.
+1. Nos termos da jurisprudência desta Corte, o mero atraso na entrega de obra não caracteriza, por si só, danos morais ao adquirente, sendo cabível, todavia, indenização a esse título em caso de atraso excessivo e injustificado que acarrete dano extrapatrimonial relevante.
+2. Não é cabível a cobrança da taxa de cessão de direitos sobre o valor do contrato prevista nas avenças elencadas na inicial, pois é desproporcional, uma vez que não guarda correspondência com nenhum serviço prestado pela incorporadora, implicando desvantagem exagerada para o consumidor. (REsp n. 1.947.698/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/3/2022, DJe de 7/4/2022.)
+3. A alegada afronta ao art. 406 do Código Civil, no tocante à cumulação de juros e correção monetária, não foi objeto de debate na apelação, sendo inovação no recurso, o que atrai a incidência dos óbices das Súmulas 282 e 356 do STF e 211 do STJ.
+4. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento." (AgInt no REsp 2.185.310/MA, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 16/05/2025)
+Outrossim, com relação à interposição do recurso pela alínea "c", não foi indicada nenhuma jurisprudência para comprovar a divergência jurisprudencial, o que atrai a incidência da Súmula 284/STF, em razão da deficiência na fundamentação do recurso.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. ILEGITIMIDADE PASSIVA.QUESTÃO DE ORDEM PÚBLICA NÃO PREQUESTIONADA. NÃO CONHECIMENTO. SÚMULAS 282 E 356 DO STF E 211 DO STJ. AGRAVO IMPROVIDO. DECISÃO DE ADMISSIBILIDADE MANTIDA.
