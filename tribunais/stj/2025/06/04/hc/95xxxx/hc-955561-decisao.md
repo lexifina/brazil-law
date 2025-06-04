@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANA PAULA VICENTE SENA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a paciente foi condenada às penas de 5 anos e 10 meses de reclusão no regime fechado e de pagamento de 28 dias-multa, como incursa nas sanções dos arts. 171, caput, do Código Penal, por vinte vezes; 155, § 4º, II e IV, por cinco vezes; e 155, § 4º, II, por duas vezes, tudo na forma do art. 71, caput, do Código Penal.
+A impetrante aduz que a paciente é mãe de criança menor de 12 anos de idade e preenche todos os requisitos necessários para a substituição do regime fechado pelo regime domiciliar.
+Destaca a possibilidade de fixação do regime semiaberto, pois, apesar da reincidência da paciente, as circunstâncias do art. 59 do CP lhe são favoráveis.
+Requer a concessão da ordem para obter a substituição da prisão em regime fechado pela prisão domiciliar, ainda que mediante a aplicação de medidas cautelares alternativas, ou a fixação de regime semiaberto.
+A liminar foi indeferida.
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 214-218).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Inicialmente, consoante informado pelo Tribunal de origem, verifica-se que o presente habeas corpus foi impetrado paralelamente a recurso especial contra o mesmo acórdão de apelação aqui apontado como ato coator (fls. 145-146).
+Contudo, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024, grifo próprio.)
+Na mesma direção, citem-se, ainda, os seguintes precedentes: AgRg no HC n. 865.449/SC, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgRg no HC n. 887.255/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024; AgRg no HC n. 831.891/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; e AgRg no HC n. 848.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Ademais, especificamente quanto ao pedido de concessão de prisão domiciliar pelo fato de ser a paciente mãe de criança menor de 12 anos de idade, destaca-se que o Tribunal de origem não o examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Note-se ainda que o AREsp n. 2.842.639/SP transitou em julgado nesta Corte Superior em 25/2/2025, conforme certidão de fl. 779 daqueles autos, o que indica a perda de objeto do pedido defensivo de concessão da prisão domiciliar baseada no HC coletivo n. 143.641/SP, julgado pelo STF, e no art. 318 do CPP.
+Assim, diante do trânsito em julgado, o pedido de prisão domiciliar deve ser dirigido ao juízo da execução criminal, com fundamento no art. 117 da LEP.
+A ausência de apreciação da questão pelas instâncias inferiores inviabiliza o conhecimento do habeas corpus, nos termos da pacífica jurisprudência:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+A propósito do disposto no art. 647-A do CPP, verifico que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício.
+Analisados os fundamentos adotados no ato judicial impugnado, observa-se adequada a aplicação do direito ao caso concreto, nada havendo a ser reparado quanto ao regime prisional, pois a pena imposta supera 4 anos de reclusão e a paciente é reincidente, situação que justifica idoneamente a fixação do regime prisional fechado, nos termos do art. 33, § 2º, b, do CP.
+Por fim, considerando a análise do mérito do presente writ, prejudicado o pedido de reconsideração formulado às fls. 133-143.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
