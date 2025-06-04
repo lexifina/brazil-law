@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por KALYNNE MEDEIROS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que inadmitiu o recurso especial por ela interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 2019.000908-2 (fls. 515/522).
+No recurso especial, a defesa alegou violação do art. 14 da Lei n. 10.826/2003, sustentando que o elemento subjetivo consubstanciado na mera intenção de receber armamento não é suficiente para a tipificação da conduta prevista no mencionado dispositivo, pugnando pela absolvição da agravante (fls. 532/537).
+Inadmitido o recurso na origem pelo óbice da Súmula 7/STJ (fls. 560/562), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 566/571).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 603/609).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passo ao exame do recurso especial.
+A agravante sustenta que o acórdão recorrido violou o art. 14 da Lei n. 10.826/2003 ao manter condenação fundada na mera intenção de portar arma de fogo, argumentando que o próprio acórdão reconheceu não existir certeza sobre qual pessoa teria efetivamente recebido e portado a arma.
+Entretanto, o acórdão recorrido, na realidade, assentou que (fls. 516/518):
+ ..
+Com efeito, no tocante à materialidade e autoria (item i) além de se tratar da hipótese Acusada presa em flagrante, militam contra si o Auto de Exibição de fl. 28 e os depoimentos adiante resumidos pelo Juiz a quo:
+".. DIOCLÉCIO SILVA DE ALMEIDA diz que se recorda da ocorrência vagamente; que Lemoel estava na companhia de familiares e algumas mulheres correram e entraram na casa; que perseguiram e abordaram, verificando que uma delas tinha a arma na bolsa; que Lemoel disse que a arma era dele; que este passou a arma para a mulher: que estavam numa investigação de homicídio e receberam a informação de que Lemoel estaria nesta rua e iria passar uma arma; que não se recorda de Isabel; que não visualizaram o momento em que a arma foi passada para a acusada; que apenas encontraram a arma na bolsa depois; que a acusada saiu com a bolsa de perto de Lemoel e na hora em que foi abordada não estava mais com a bolsa.. Na fase policial, o próprio DIOCLÉCIO presta depoimento mais detalhado, assim como também outras pessoas ali escutadas, a exemplo da própria ISABEL INGRID; pessoa a quem se destinaria a arma que foi entregue e que ali afirma: "LEOMEL levou o revolver para KALINE, na residência da mesma, no bairro do alecrim, juntamente com a importância em espécie de R$ 400,00, e a entregou: Que logo após LEOMEL entregar o revolver e dinheiro para KALINE, os policiais o prenderam..".
+ ..
+A acusada KALYNNE MEDEIROS, no interrogatório policial (fl. 145), afirma ser verdadeira a imputação que lhe é feita, relatando: "Que realmente no dia 12/04/09, salvo engano, a declarante se encontrava em sua residência, na R. Filhas de Santana, 553, Alecrim, juntamente com a pessoa de Isabel Ingrid, quando a pessoa de Lemoel liga, provavelmente para o telefone de Isabel, não lembrando bem, e pede que a mesma vá até a esquina, pois queria lhe entregar uma arma de fogo; que Lemoel havia falado que a arma era para ser vendida para o enterro de Rodrigo (..); que a declarante juntamente com Isabel foram até o meio da rua Filhas de Santana, momento em que encontraram Lemoel; que Lemoel falou com Isabel, para em seguida entregar a arma, um revólver; que incontinenti, a declarante colocou a arma na bolsa, momento em que surgem vários homens armados; que com medo, a declarante soltou a bolsa e correu ..
+ ..
+Como se verifica, a condenação da agravante se baseou no acervo probatório colacionado aos autos da ação penal originária, incluindo depoimento testemunhal em juízo, auto de exibição e apreensão, além da própria confissão da acusada em sede policial.
+Para desconstituir as premissas e conclusões firmadas pelas instâncias ordinárias, seria imprescindível o revolvimento de matéria fático-probatória, inviabilizada pelo óbice da Súmula 7/STJ. A propósito: AgRg no REsp n. 1.990.726/RS, de minha relatoria, Sexta Turma, julgado em 12/3/2025, DJEN de 20/3/2025; AgRg no REsp n. 2.038.876/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE CONDENAÇÃO BASEADA E M MERA INTENÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
