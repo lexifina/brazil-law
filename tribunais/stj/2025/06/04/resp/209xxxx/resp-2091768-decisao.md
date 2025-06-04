@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento no art. 105, inciso III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça local no julgamento do Agravo de Execução Penal n. 0014626-67.2022.8.26.0482, que deu parcial provimento ao recurso ministerial, para determinar a elaboração de cálculo do lapso prescricional à luz do disposto no art. 114, incisos I e II, do Código Penal, sendo aplicáveis as causas interruptivas e suspensivas referentes à dívida ativa da Fazenda Pública.
+No presente recurso especial, alega-se que a Corte paulista contrariou e negou vigência do disposto no art. 619 do Código de Processo Penal, bem como ao disposto nos arts. 51 (com a redação que lhe foi dada pela Lei n. 13.964/2019), 52, 115, 116, 117, inciso V, todos do Código Penal (fl. 117).
+Ao final da peça recursal, requer-se que o recurso seja conhecido e provido para anular-se o v. acórdão por deficiência de fundamentação ou para que seja reconhecida a possibilidade de cumulação das normas do Código Penal com as relativas à dívida ativa da Fazenda Pública, na solução de questões relativas à contagem, suspensão e interrupção de prazos prescricionais da pretensão executória da pena de multa, quando uma completar a outra em sua respectiva esfera de atuação e não conflitarem entre si e na hipótese de conflito de normas a solução, como é tradição do nosso sistema jurídico, deverá ser aquela mais favorável ao condenado (fls. 126/127).
+O recurso especial foi admitido na origem (fl. 138).
+O Ministério Público Federal opina pelo desprovimento da insurgência recursal, em parecer assim ementado (fl. 147):
+RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA DE MULTA. CÁLCULO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PRAZO DO ART. 114, II, DO CP. CAUSAS SUSPENSIVAS. LEI 6.830/80. CAUSAS INTERRUPTIVAS. ART. 174 DO CÓDIGO TRIBUTÁRIO NACIONAL.
+1. Hipótese em que o recorrente pretende que seja reconhecida a possibilidade de cumulação das normas do Código Penal com as relativas à dívida ativa da Fazenda Pública na solução de questões relativas à contagem, suspensão e interrupção de prazos prescricionais da pretensão executória da pena de multa.
+2. O acórdão impugnado, ao concluir que devem ser seguidas as regras do Código Penal para elaboração do cálculo prescricional, enquanto devem ser seguidas as regras referentes à dívida ativa da Fazenda Pública no que diz respeito a causas interruptivas e suspensivas da prescrição, não dissentiu da jurisprudência desta Corte Superior a respeito do tema.
+3. Parecer pelo desprovimento do recurso especial.
+É o relatório.
+O presente recurso está prejudicado.
+Isso porque, em consulta ao SAJ, verificou-se que, na data de 21/6/2024, nos Autos da Execu ção n. 1001164-26.2022.8.26.0482, o Juízo da comarca de Presidente Prudente - 2ª Vara das Execuções Criminais/SP - concedeu o indulto ao sentenciado Gabriel Gibson Rodrigues Beraldo com fundamento no art. 2º, inciso X, do Decreto n. 11.846/2023 e, consequentemente, julgou extinta a pena de multa imposta na Ação Penal n. 0026153-60.2015.8.26.0482, da 2ª Vara Criminal da comarca de Presidente Prudente/SP  ..  com certidão de trânsito em julgado para o Ministério Público no dia 2/7/2024; e para a defesa, no dia 2/7/2024.
+Diante do exposto, julgo prejudicado o recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA DE MULTA. CÁLCULO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PRAZO DO ART. 114, II, DO CP. CAUSAS SUSPENSIVAS. LEI N. 6.830/1980. CAUSAS INTERRUPTIVAS. ART. 174 DO CÓDIGO TRIBUTÁRIO NACIONAL. EXTINÇÃO DA PUNIBILIDADE PELO INDULTO. NOVA SITUAÇÃO FÁTICA. PERDA DO OBJETO.
+Recurso prejudicado.
