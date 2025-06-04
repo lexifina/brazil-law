@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MARCOS VINICIUS DE VASCONCELOS COSTA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do Habeas Corpus n. 1.0000.25.115568-5/000.
+Consta dos autos que o recorrente foi preso em flagrante, no dia 21/3/2025, pela suposta prática do crime de tráfico de drogas, com a conversão do flagrante em prisão preventiva (fls. 111/116). Isso porque guardava 287 g de cocaína (fl. 153).
+Impetrado habeas corpus na origem, o Tribunal de Justiça denegou a ordem, mantendo a prisão preventiva (fls. 151/156).
+Neste recurso, a defesa sustenta as seguintes questões: a) violação de domicílio; e b) carência de fundamentação da prisão preventiva.
+Pleiteia, inclusive liminarmente, o trancamento da ação penal e a revogação da prisão preventiva (fl. 681).
+É o relatório.
+Inicialmente, quanto à alegada violação de domicílio, cumpre salientar que o feito se encontra em fase de instrução processual. Conforme consta dos autos, policiais militares receberam denúncias específicas que individualizavam o acusado e o endereço, referentes ao tráfico de drogas. Em 18/3/2025, compareceram ao local, ocasião em que o acusado, ao avistar os militares, empreendeu fuga, sem ser alcançado.
+Em 22/3/2025, novas denúncias indicavam intensa movimentação de usuários no local, razão pela qual a equipe policial retornou ao endereço. O acusado, novamente, tentou evadir-se, sendo finalmente localizado escondido dentro de um galinheiro na residência vizinha (fl. 114).
+Com efeito, as denúncias específicas e a reiterada tentativa de fuga do investigado justificam o ingresso forçado no domicílio alvo das diligências. A tese de nulidade pela alegada violação domiciliar no momento da prisão em flagrante deverá ser examinada, portanto, no curso da instrução criminal, em juízo de cognição exauriente. A propósito: AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Por outro lado, embora o decreto de prisão preventiva aponte indício concreto de risco de evasão - em razão da tentativa contumaz de fuga (fl. 114) -, certo é que o fato que motivou a segregação cautelar não se reveste de gravidade excepcional, pois o delito não foi cometido com violência ou grave ameaça à pessoa, tratando-se, ainda, de apreensão de 287 g de cocaína.
+Com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, após se constatar a ausência de medidas alternativas adequadas ao caso concreto. Nesse sentido: HC n. 305.905/SP, de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014.
+E mais: AgRg no HC n. 983.564/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025; e AgRg no HC n. 951.403/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Ante o exposto, dou parcial provimento ao recurso em habeas corpus, para substituir a prisão preventiva imposta ao recorrente por medidas cautelares, a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. FEITO EM FASE INSTRUTÓRIA. FUNDADAS RAZÕES. PRISÃO PREVENTIVA. ORDEM PÚBLICA. APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE GRAVIDADE EXCEPCIONAL. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS.
+Recurso parcialmente provido.
