@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão de inadmissibilidade de recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal, em desafio a acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - PRESTAÇÃO DE SERVIÇOS - DESPESAS HOSPITALARES - COBRANÇA - Recusa da operadora de saúde em arcar com os custos da internação com amparo em cláusula que prevê carência - Afastamento - Questão que já foi objeto de anterior ação, transita em julgado - Condenação da litisdenunciada a arcar com as despesas de internação do menor, filho da ré - Alegação de perda do objeto da ação - Não ocorrência, pois que a operadora de saúde não comprovou haver efetuado o pagamento das despesas reclamadas - Procedência mantida - Majoração da verba honorária de 10% para 15% sobre o valor atualizado da condenação, nos termos do art. 85, § 11, do CPC - Recurso desprovido."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, a parte alega em síntese:
+(a) Violação do art. 1022, I, do CPC ao não sanar a contradição existente, pois já há condenação em outro processo sobre a mesma questão, o que impossibilita nova condenação, caracterizando contradição na prestação jurisdicional.
+(b) Ofensa ao art. 505 do CPC, pois o acórdão incorreu em "bis in idem" ao condenar a mesma parte duas vezes pela mesma obrigação, desconsiderando a coisa julgada material de um processo anterior que já havia decidido a questão.
+Contrarrazões não apresentadas (e-STJ, fl. 569).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+No caso dos autos, o Tribunal de origem concluiu que, embora a parte recorrente, AMIL, houvesse sido condenada a arcar com as despesas de internação de seu beneficiário em demanda anterior, não comprovou o efetivo custeio/pagamento, motivo pelo qual considerou permanente o objeto da presente ação para a cobrança, pelo hospital, das despesas com a internação do paciente beneficiário do plano de saúde operado pela recorrente (e-STJ, fls. 452-453 e 509-510):
+"A autora requer a condenação da parte ré ao pagamento da importância de R$ 52.255,43, pela prestação de serviços relativamente ao atendimento prestado ao paciente LUCA ESQUIVEL PICCIRILLO.
+(..)
+A ação foi julgada procedente.
+No caso, restou incontroverso que LUCA ESQUIVEL PICCIRILLO foi internado nas dependências do hospital autor, no dia 03/05/2017 até 11/05/2017, tendo-lhe sido prestados serviços de atendimento médico hospitalar.
+Observa-se que a questão relativa à internação e carência já foi decidida e está acobertada pelo manto da coisa julgada, conforme julgamento proferido no processo nº 10411686320178260100, em trâmite perante a 43ª Vara Cível do Foro Central da Capital, trânsito em julgado em 03/08/2017, quando houve pronunciamento favorável à beneficiária do plano, para que a operadora de saúde arcasse com as despesas que foram necessárias à internação do menor.
+(..)
+Acontece que, não obstante a liminar e o sentenciamento do feito, a AMIL deixou de dar cobertura às despesas decorrentes da internação do referido paciente, razão pela qual a presente ação foi proposta em 14/03/2019.
+Aliás, a apelante sequer comprovou nestes autos haver dado cobertura completa ao atendimento hospitalar do menor LUCA ESQUIVEL PICCIRILLO, na forma exposta em seu recurso, tudo demonstrando que esta ação não perdeu o seu objeto.
+Assim, deve mesmo a operadora de saúde responder pelo débito cobrado nesta demanda, diante de sua obrigação contratual perante o beneficiário do plano de saúde.
+Consequentemente, fica mantida a sentença, com a condenação da operadora de saúde ao pagamento da quantia pleiteada na inicial, na forma exposta em primeiro grau.
+(..)
+"Conforme restou verificado no acórdão embargado, em que pese a alegação da operadora de saúde no sentido de que arcou com os custos dos procedimentos que foram necessários à internação do paciente, esta nada comprovou a esse respeito nos autos.
+Ou seja, ao contrário do alegado, não ocorreu a perda do objeto desta ação, por força da outra ação, que transitou em julgado em 03/08/2017, visto que a operadora de saúde deixou de dar a necessária cobertura, o que levou ao ajuizamento da presente ação pelo Hospital em 14/03/2019. Em verdade, procura a embargante rediscutir a justiça da decisão, o que não se afigura devido na presente via."
+Desse modo, é inviável o conhecimento do recurso especial, porque a revisão do acórdão recorrido não prescindiria do reexame fático-probatório, providência manifestamente proibida nesta instância nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 15% para 16% sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
