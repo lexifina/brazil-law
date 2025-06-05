@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 484-505) interposto por BANCO DO ESTADO DE SERGIPE S/A - BANESE contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 356):
+"APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS C/C PEDIDO DE TUTELA DE URGÊNCIA - VÍTIMA DE GOLPE DE ENGENHARIA SOCIAL - CONSUMIDORA RECEBEU LIGAÇÃO POR SUPOSTO FUNCIONÁRIO DO BANCO, BEM COMO REALIZOU LIGAÇÃO PARA O NÚMERO OFICIAL DO BANCO RÉU - TED E PIXO CORRIDOS EM UM SÓ DIA - RESPONSABILIDADE OBJETIVA DO BANCO- ACERVO PROBATÓRIO APRESENTADO PELO BANCO INCONSISTENTE - A SUMULA 479 DO STJ DETERMINA QUE AS INSTITUIÇÕES FINANCEIRAS RESPONDEM OBJETIVAMENTE PELOS DANOS GERADOS POR FORTUITO INTERNO RELATIVO A FRAUDES E DELITOS PRATICADOS POR TERCEIROS NO ÂMBITO DE OPERAÇÕES BANCÁRIAS - FALHA NA SEGURANÇA - DANO MORAL NÃO CONFIGURADO - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDO O DA AUTORA E IMPROVIDO O DO BANCO- POR UNANIMIDADE."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 364-368).
+Nas razões do apelo nobre (fls. 402-433), BANCO DO ESTADO DE SERGIPE S/A - BANESE aponta, preliminarmente, ofensa aos arts. 489 §1º e 1.022, II do CPC/15, afirmando que o eg. TJ-SE não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica, além de divergência pretoriana, ofensa ao artigo 14, § 3º do Código de Defesa do Consumidor (CDC) e aos artigos 186 e 945 do Código Civil, afirmando, entre outros argumentos, que "(..) restando incontroverso nos autos a concorrência na responsabilidade pelos fatos havidos nos autos, deve o Recorrido ser responsabilizado por metade do prejuízo experimentado, dado que sem a sua ação, a fraude não teria ocorrido" (fls. 407 - destaques no original).
+Aduz, também, que "(..) resta claro que o Recorrido foi negligente ao acessar o link ofertado na mensagem SMS e fornecer, de livre e espontânea vontade, os seus dados pessoais, possibilitando, com isso, a atuação dos golpistas. Somado a isso, impende salientar que as operações não levantariam suspeitas por parte do Recorrente, tendo em vista que, a operação financeira foi realizada mediante uso da senha pessoal do Recorrido. Portanto, não houve qualquer falha na prestação do serviço do Recorrente, mas sim conduta inadequada do recorrido, pois dados e acessos aos dispositivos de transações na conta é de uso exclusivo do cliente, sendo de sua responsabilidade não os informar a terceiros. É caso, portanto, de exclusão da responsabilidade da instituição financeira ante a culpa exclusiva da vítima" (fls. 408 - destaques no original).
+Assevera, ainda, que é "(..) de conhecimento comum que a senha fornecida pelo banco para a realização de operações financeiras é individual, personalíssima e intransferível, não podendo a instituição bancária ser responsabilizada pelo golpe praticado fora das suas dependências, sendo, inclusive, os dados fornecidos pela própria vítima (senha da conta com 4 dígitos, senha da movimentação financeira com 6 dígitos), devendo-se aplicar ao caso as disposições constantes do art. 14, § 3º, II da Lei 8.078/90" (fls. 409 - destaques no original).
+Intimado, SIMÃO DOS SANTOS apresentou contrarrazões (fls. 467-471), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 474-478), motivando o agravo em recurso especial (fls. 484-505) em testilha.
+Não foi oferecida contraminuta (vide certidão à fl. 546).
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação aos arts. 489, § 1º e 1.022, II, do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.508.561/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE SUSPENSÃO DE PROTESTO. CONTRATO DE MÚTUO FENERATÍCIO ENTRE PARTICULARES. JUROS ABUSIVOS. USURA CONFIGURADA. NULIDADE DO PROTESTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+(..)
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.675.001/DF, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025 - g. n.)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. TUTELA ANTECIPADA. PENSIONAMENTO MENSAL. PEDIDO DE REVOGAÇÃO. SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.477.552/MG, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025 - g. n.)
+Avançando, melhor sorte não socorre ao apelo no tocante à ofensa ao art. 14, § 3º do CDC e aos arts 186 e 945 do Código Civil.
+No caso, o eg. TJ-SE, com arrimo no acervo fático-probatório carreado aos autos, deu parcial provimento à apelação do ora Agravado para condenar a Instituição Financeira, ora Agravante, ao pagamento de indenização a título de danos materiais, assentando, entre outros fundamentos, que "(..)  n ão se desincumbiu o banco de comprovar a culpa exclusiva da vítima, como excludente de responsabilidade, bem como não comprovou a infalibilidade de seus sistemas". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"Colhe-se dos autos que a parte requerente  ora agravado  foi surpreendida com transações não autorizadas em sua conta corrente, que afirma que não realizou.
+A questão ora em debate deve ser verificada à luz do Código Consumerista, pois as partes se enquadram nos conceitos de consumidor e fornecedor, constantes nos artigos 2º e 3º do Código da Defesa do Consumidor.
+incontroverso que o consumidor foi vítima de fraude. A questão passa a ser aferir de quem é a responsabilidade: se do banco, em razão de falha na prestação do serviço decorrente de fraude de terceiro, ou se da própria cliente que não adotou as medidas de cuidado.
+Dada as circunstâncias, caberia ao banco, na qualidade de fornecedor de serviços, demonstrar, cabalmente, a ausência de responsabilidade mediante efetiva prova de que a transferência bancária foi realizada pela consumidora, não podendo, ao meu entender, se restringir somente na defesa de que não houve falha na prestação do serviço.
+Nos termos da Súmula 479 do Superior Tribunal de Justiça "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+Não se desincumbiu o banco de comprovar a culpa exclusiva da vítima, como excludente de responsabilidade, bem como não comprovou a infalibilidade de seus sistemas.
+Ocorreram transações não autorizadas na conta corrente do consumidor em um único dia e em valor vultuoso, fora do perfil do correntista. Caberia ao banco comprovar a regularidade dessas transações conforme do art. 373, II, do CPC.
+(..)
+Entretanto, insuficiente a documentação juntada pelo banco em sua contestação, não comprovando de forma robusta os fatos extintivos do direito do autor.
+Nos termos do artigo 434, caput, do novo Código de Processo Civil, "Incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações".
+Não é cabível a aplicação da excludente de responsabilidade da culpa exclusiva de terceiro, em razão da fraude. Isto porque se trata de caso fortuito interno, ou seja, risco integrante da atividade do fornecedor, que não exonera sua responsabilidade. Diferentemente do fortuito externo, que não guarda relação de causalidade com a atividade do fornecedor, o fortuito interno deve ser suportado por este.
+Não comprovou que as movimentações na conta eram típicas da consumidora, razão pela qual estão comprovados os fatos narrados na inicial.
+Deve haver a restituição dos valores indevidamente descontados em sua totalidade.
+Elevado número de ações envolvendo o Banese, em razão das fraudes denominadas "engenharia social", o que vem ocorrendo há algum tempo.
+Certo que não se pode atribuir categoricamente a este fato as inúmeras fraudes das quais o Banese e seus correntistas vêm sendo vítimas, mas não se pode admitir a mera coincidência.
+Numa situação como esta, não basta ao Banese tomar as providências usuais de informação aos clientes, como a de advertir para não fornecer senhas ou dados sigilosos, bem como, que não faz ligações para os clientes, etc.
+Em que pese reconhecer a responsabilidade da instituição financeira pelas transações realizadas na conta da requerente  ora agravado , diante do golpe praticado, bem como entender que já deveria ter tomado providências em relação à dificultação de retiradas em horários anormais e em valores exacerbados diante dos rendimentos dos clientes, é fato notório que seus clientes são constantemente orientados a não repassar dados bancários por telefone, SMS, links, dentre outros, sendo preciso que os clientes sejam mais cuidadosos, pois o fornecimento de senhas, mesmo digitando em sistema eletrônico, deve ser evitado ou certificada a validade das medidas de segurança.
+A parte autora  ora agravado  deva ser ressarcida materialmente pelo que lhe foi indevidamente descontado e retirado da sua conta, porém, entendo que não deve haver a condenação por dano moral.
+Neste sentido esta Corte vem decidindo:
+APELAÇÃO CÍVEL - AÇÃO DE RESSARCIMENTO DE VALORES C/C DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, REPETIÇÃO DO INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - EMPRÉSTIMO POR INTERNET BANKING E TRANSFERÊNCIAS E SAQUES INDEVIDOS DA CONTA CORRENTE DO AUTOR - CONSUMIDOR VÍTIMA DE GOLPE DE ENGENHARIA SOCIAL - INEXISTÊNCIA DE DÉBITO - FALHA NA SEGURANÇA - RESTITUIÇÃO DOS VALORES INDEVIDAMENTE DESCONTADOS - APLICAÇÃO DA TESE FIRMADA NO EDRESP 676.608 - NÃO CABIMENTO DE INDENIZAÇÃO POR DANOS MORAIS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. POR MAIORIA. (Apelação C í v e l N º 2 0 2 2 0 0 7 3 2 3 3 6 N º ú n i c o : 0032168-50.2021.8.25.0001 - 1ª CÂMARA CÍVEL, Tribunal de Justiça de Sergipe - Relator(a): Roberto Eugenio da Fonseca Porto - Julgado em 20/04/2023)
+(..)
+Diante do exposto, CONHEÇO os recursos, para negar provimento ao recurso do réu  ora agravante  e dar PARCIAL PROVIMENTO ao da autora  ora agravado , reformando a sentença somente para que haja a devolução integral do montante transferido indevidamente, no importe de R$ 9.287,86 (nove mil duzentos e oitenta e sete reais e oitenta e seis centavos), devidamente corrigido, mantendo a sentença nos demais termos."
+(fls. 357-359 - g. n.)
+Nesse cenário, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. (..) REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência da Súmula n. 7 do STJ quanto à análise da tese recursal pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.965.844/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
