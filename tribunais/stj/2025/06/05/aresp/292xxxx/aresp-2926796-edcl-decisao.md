@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANDRE ANTUNES COELHO à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  embora esta Defesa Técnica não tenha escrito expressamente o art. 619 do Código de Processo Penal em suas razões de agravo, vislumbra-se, pela simples leitura das razões que, em seu interior teor, foi evidentemente explorado de maneira concreta o fato de que o Tribunal a quo foi omisso ao não enfrentar devidamente os argumentos e precedentes este Superior Tribunal invocados pela tese defensiva ao que tange as matérias atinentes a busca pessoal e a ilegal entrada forçada em domicílio alheio. O que por consequência lógica, implicou na permanência deste vício, até o presente momento.(fl. 1770).
+ ..  ainda que esta Defesa não tenha indicado expressamente o referido artigo, verifica-se que foi demonstrado, de maneira inequívoca em suas razões, o evidente vício quanto a omissão do não enfrentamento dos fundamentos defensivos pelo Tribunal a quo, que demonstram claramente, que se as instâncias ordinárias tivessem, de fato, defrontado não somente os fundamentos, mas também, os precedentes desta E. Corte, sequer teríamos a necessidade de provocar a manifestação deste Colendo Tribunal no caso em concreto.(fl. 1771)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, ausência de afronta ao art. 619 do CPP, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
