@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MACIO FERREIRA DE AQUINO contra acórdão da Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte, no HC n. 0801617-56.2025.8.20.0000, assim ementado:
+HABEAS CORPUS. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA PARA O PROSSEGUIMENTO DA AÇÃO PENAL. PACIENTE ACUSADO DA PRÁTICA DO DELITO DE POSSE OU GUARDA DE MUNIÇÃO DE USO PERMITIDO EM DESACORDO COM DETERMINAÇÃO LEGAL (ART. 12 DA LEI 10826/2003). PRETENDIDA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. MUNIÇÕES APREENDIDAS DURANTE O CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO EM INVESTIGAÇÃO RELACIONADA A CRIMES DE HOMICÍDIO E TENTATIVA DE HOMICÍDIO. CONFIGURADA A JUSTA CAUSA NECESSÁRIA PARA O PROSSEGUIMENTO DA AÇÃO PENAL. ORDEM CONHECIDA E DENEGADA. (e-STJ, fls. 78-79)
+Em seu arrazoado, o recorrente conta que foi denunciado pela suposta prática do crime de posse ilegal de munição (art. 12 da Lei n. 10.826/2003), em razão da apreensão de três munições calibre .38, localizadas no interior de uma maleta de maquiagem, no banheiro de sua residência, durante cumprimento de mandado de busca e apreensão que investigava outros delitos.
+Alega atipicidade material da conduta diante da ausência de lesão relevante ao bem jurídico tutelado, pois a apreensão de apenas três munições de uso permitido, desacompanhadas de arma de fogo, por si só, não representa perigo real ou concreto à coletividade.
+Requer o trancamento da Ação Penal n. 801818-63.2024.8.20.5600.
+Sem contrarrazões, o Ministério Público opinou pelo desprovimento do recurso (e-STJ, fls. 102-105).
+É o relatório.
+Decido.
+Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Vale registrar também que " a  jurisprudência desta Corte é pacífica no sentido de que a aplicação do princípio da insignificância na hipótese de posse de pequena quantidade de munição, desacompanhada de arma de fogo, depende de análise do contexto fático" (AgRg no AREsp n. 2.331.253/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025).
+In casu, o Tribunal de Justiça do Rio Grande do Norte afastou a aplicação do princípio da insignificância, "uma vez que a munição foi apreendida no contexto de investigação da prática de diversos crimes, incluindo homicídio e constituição de milícia privada." (e-STJ, fl. 81).
+Verifica-se que a Corte a quo decidiu em conformidade com o entendimento pacificado neste Superior Tribunal de Justiça "no sentido de não admitir a aplicação do princípio da insignificância quando as munições, apesar de em pequena quantidade, tiverem sido apreendidas em um contexto de outro crime, circunstância que efetivamente demonstra a lesividade da conduta." (AgRg no REsp n. 2.198.115/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ESTATUTO DO DESARMAMENTO. PORTE ILEGAL DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTEXTO DA APREENSÃO REVELADOR DA PERICULOSIDADE SOCIAL DA AÇÃO. LESIVIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, acompanhando a diretriz do Supremo Tribunal Federal, passou a admitir a aplicação do princípio da insignificância na hipótese de apreensão de reduzida quantidade de munição de uso permitido, desacompanhada de arma de fogo apta a deflagrá-la, devendo ser examinadas as peculiaridades do caso concreto para se aferir a ausência de lesividade ao bem jurídico tutelado.
+2. A orientação jurisprudencial deste Superior Tribunal consolidou-se no sentido de não admitir a aplicação do princípio da insignificância quando as munições, apesar de em pequena quantidade, tiverem sido apreendidas em um contexto de outro crime, circunstância que efetivamente demonstra a lesividade da conduta.
+Precedentes.
+3. Na espécie, foram apreendidas 06 (seis) munições calibre .38 no contexto da prática de outro delito, o que inviabiliza a aplicação do princípio da insignificância para afastar a tipicidade material do fato.
+4. Agravo regimental não provido.
+(AgRg no HC n. 931.783/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; grifou-se.)
+Foi como opinou o Ministério Público Federal:
+Como se vê, ao contrário do que afirmado pelo recorrente, encontram-se presentes as razões da continuidade da ação penal para realização de procedimentos investigatórios, tendo em vista que as munições foram apreendidas no cumprimento de mandado de busca e apreensão expedido no contexto de investigação de crimes de homicídio e tentativa de homicídio, não havendo que se falar em aplicação do princípio da insignificância. (e-STJ, fls. 104-105)
+Diante do exposto, nego provimento ao recurso.
+Publique-se. Intime-se.
+EMENTA
