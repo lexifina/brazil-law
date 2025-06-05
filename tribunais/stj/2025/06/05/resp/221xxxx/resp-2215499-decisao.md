@@ -1,0 +1,55 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DO CENTRO NORTE GOIANO contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Estado de Goiás no julgamento de apelação cível, assim ementado (fl. 306e):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. IPVA. ALIENAÇÃO FIDUCIÁRIA. RESPONSABILIDADE SOLIDÁRIA DO CREDOR FIDUCIÁRIO. LEGALIDADE DA COBRANÇA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de Apelação Cível interposta por instituição financeira contra sentença que julgou improcedentes os pedidos da ação declaratória, reconhecendo a legalidade da cobrança do IPVA pelo Estado, em virtude de a instituição financeira ser credora fiduciária de veículos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em analisar se a cobrança do IPVA do credor fiduciário, com base no Código Tributário do Estado, viola o princípio da legalidade tributária e a responsabilidade tributária, em face do disposto no Código Tributário Nacional.
+III. RAZÕES DE DECIDIR
+3. O Código Tributário do Estado de Goiás prevê a responsabilidade solidária do credor fiduciário pelo pagamento do IPVA, enquanto durar o contrato de alienação fiduciária.
+4. A jurisprudência do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado de Goiás consolidou o entendimento de que, nas operações de alienação fiduciária, a instituição financeira, como possuidora indireta do veículo, é responsável solidária pelo pagamento do IPVA.
+5. O argumento da apelante de que o art. 94, II, do Código Tributário Estadual contraria o art. 128 do CTN, ao atribuir a responsabilidade solidária ao credor fiduciário, não encontra amparo legal, pois o CTN não impede a responsabilidade solidária em casos como o presente, onde a legislação estadual prevê expressamente tal responsabilidade.
+IV. DISPOSITIVO E TESE
+5. Recurso desprovido.
+1. A cobrança do IPVA do credor fiduciário, com base no Código Tributário do Estado de Goiás, é legal, não violando o princípio da legalidade tributária e a responsabilidade tributária.
+Opostos embargos de declaração, foram rejeitados (fls. 298/299e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se violação aos arts. 128 do Código Tributário Nacional; 932, V, b, do Código de Processo Civil, alegando-se, em síntese, que:
+- Art. 128 do Código Tributário Nacional - a legislação estadual não pode atribuir responsabilidade solidária ao credor fiduciário, devendo, no máximo, atribuir responsabilidade supletiva, conforme entendimento do Superior Tribunal de Justiça no REsp 931.727/RS (fls. 323/324e);
+- Art. 932, V, b, do Código de Processo Civil - o acórdão recorrido é contrário ao entendimento do Superior Tribunal de Justiça em julgamento de recurso repetitivo, que veda a presunção de responsabilidade solidária sem exigência prévia do crédito ao contribuinte (fls. 333/334e).
+Requer-se o conhecimento e provimento do recurso para reformar o acórdão recorrido, reconhecendo a ilegalidade da responsabilização solidária da recorrente por débitos de IPVA dos veículos alienados fiduciariamente, por ofensa ao art. 128 do Código Tributário Nacional e ao entendimento firmado no REsp 931.727/RS, invertendo-se o ônus da sucumbência.
+Com contrarrazões (fls. 358/363e), o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+- Tema 1153/STF
+A recorrente anota que a matéria foi objeto do RE 1355870, que teve repercussão geral reconhecida, indicando que a questão da responsabilidade tributária do credor fiduciário está pendente de análise pelo STF (fls. 335/336e).
+Com efeito, a controvérsia objeto do presente recurso guarda relação com o Tema com Repercussão Geral reconhecida pelo Supremo Tribunal Federal n. 1153/STF: - "Legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária".
+Nesse caso, encontrando-se o tema afetado a sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse contexto:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. FATO SUPERVENIENTE. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. VALOR EXORBITANTE DA CAUSA, CONDENAÇÃO OU PROVEITO ECONÔMICO. TEMA 1.255/STF. NECESSIDADE DE REMESSA DOS AUTOS À ORIGEM PARA CONCLUSÃO DE JUÍZO DE CONFORMAÇÃO. ANULAÇÃO DAS DECISÕES PROFERIDAS NESTA INSTÂNCIA ESPECIAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Na hipótese, há fato superveniente capaz de influir no julgamento da demanda, a saber, o reconhecimento, nos autos do RE 1.412.069/PR (Tema 1.255), da repercussão geral da questão relativa à "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes".
+3. Nesse panorama, considerando-se a disposição inserta no art. 493 do CPC, de rigor a remessa dos autos à origem, a fim de que promova a conclusão do juízo de conformação previsto nos arts. 1.030 e 1.040 do CPC.
+4. Por conseguinte, tendo em vista a reabertura da competência do Tribunal a quo, tem-se por não exaurida, ainda, a instância ordinária, impondo-se a anulação das decisões já proferidas no recurso especial epigrafado.
+5. Embargos de declaração acolhidos, com efeitos modificativos, para anular as decisões de fls. 333/340 e 358/366 e determinar o retorno dos autos à Corte de origem, a fim de que conclua o juízo de conformação com o Tema 1.255/STF, nos termos dos arts. 1.030 e 1.040 do CPC.
+(EDcl no AgInt no REsp n. 2.042.845/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS TEMA COM REPERCUSSÃO GERAL RECONHECIDA SOBRESTAMENTO.
+1. Visando racionalizar o exercício de sua atribuição constitucional de uniformizar a interpretação e a aplicação da lei federal, esta Corte Superior, em caráter excepcional, vem admitindo o acolhimento de embargos de declaração, com efeitos modificativos, para que seja observado o procedimento próprio para julgamento de questões afetadas à sistemática da repercussão geral e dos recursos repetitivos, com a determinação de devolução dos autos para que oportunamente o Tribunal de origem proceda ao respectivo juízo de conformação.
+2. O Supremo Tribunal Federal, considerando a questão relativa à "possível ofensa à isonomia (art. 5º, caput, da CF), ao devido processo legal (art. 5º, XXXIV, da CF) e aos princípios da proporcionalidade e da razoabilidade", afetou à sistemática da repercussão geral o Tema 1.255, nos seguintes termos: "Possibilidade da fixação dos honorários por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (RE 1.412.069 RG, Relatora MINISTRA PRESIDENTE, Tribunal Pleno, julgado em 09/08/2023).
+3. Embargos acolhidos a fim de tornar sem efeito as decisões anteriores e determinar a devolução dos autos à origem para aguardar o julgamento do Tema 1255 do STF.
+(EDcl no AgInt nos EDcl no REsp n. 2.051.095/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+TRIBUTÁRIO. IMUNIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BOLSAS DE PESQUISA E EXTENSÃO PAGAS A MÉDICOS PROFESSORES E RESIDENTES.
+I. Incabível, em recurso especial, o exame do teor dos convênios firmados pela contribuinte, a fim de cotejar com as exigências determinadas pelo § 4º do art. 6º do Decreto n. 5.205/2004.
+Incidência da Súmula 7 do STJ.
+II. Não é possível examinar, em recurso especial, a violação do art. 111 do CTN, por não ter sido objeto de apreciação pelo Tribunal de origem e por não se constatar omissão, obscuridade, contradição ou erro material a serem sanados ou qualquer violação a normas processuais, nos termos da Súmula 211 do STJ.
+III. O Supremo Tribunal Federal reconheceu a repercussão geral da discussão relacionada à possibilidade da fixação dos honorários por apreciação equitativa quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes (Tema 1255). Por tal motivo, neste ponto, é pertinente devolver o recurso especial ao Tribunal de origem, para que aguarde o julgamento do Tema 1.255.
+IV. Recurso especial não conhecido, com exceção à discussão relacionada à fixação dos honorários advocatícios, a qual retornará à origem para aguardar o julgamento do Tema 1.255 pelo Supremo Tribunal Federal.
+(REsp n. 2.022.764/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023.)
+Após a realização dessa providência, que representa o exaurimento da instância ordinária, o recurso especial poderá, caso persista o interesse recursal, ser encaminhado a esta Corte Superior, para análise das questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do Recurso acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
+EMENTA
