@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  IVANILDO DA SILVA ANSELMO,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL,  na  Apelação  Criminal  n.  0027460-56.2017.8.12.0001/50000.
+Consta  dos  autos  que  o  paciente  foi  condenado  às penas de 9 (nove) anos, 10 (dez) meses e 3 (três) dias de reclusão, em regime fechado, e 983 (novecentos e e oitenta e três) dias-multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, inciso III, ambos da Lei n. 11.343/2006.
+Neste writ, a impetrante sustenta que a causa de aumento prevista no art. 40, inciso III, da Lei de Drogas deve incidir no grau mínimo, pois
+aplicar a causa de aumento de pena em patamar mais prejudicial ao acusado, sob o entendimento de que o "o apelante possui outras condenações criminais por tráfico de drogas e nem mesmo o fato de estar preso o impediu de continuar praticando a traficância", já foi utilizado na pena-base para negativar os "maus antecedentes", bem como pelo reconhecimento da agravante da reincidência (fl. 4).
+Requer a concessão da ordem para que seja aplicada a causa de aumento descrita no artigo 40, inciso III, da Lei 11.343/2006 no patamar mínimo de 1/6, porquanto a manutenção do decisum enseja bis in idem (fl. 7).
+Informações  prestadas  às  fls. 326-328 e 229-333.
+O  Ministério  Público  Federal  opinou  pelo não conhecimento do habeas corpus  (fls.  336-341).
+É  o  relatório.
+DECIDO.
+De acordo com as informações prestadas, verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, já transitado em julgado (20/02/2025). Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021; AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, decisão monocrática, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, decisão monocrática, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, decisão monocrática, DJe de 04/08/2021; HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, decisão monocrática, DJe de 02/08/2021).
+Ademais, a tese trazida pela defesa neste writ - de que houve bis in idem na dosimetria da pena -  não  foi  apreciada  pelo  Tribunal  de  origem,  motivo  pelo  qual  não  pode  esta  Corte  examinar  originariamente  o  tema,  sob  pena  de  indevida  supressão  de  instância.
+Com  efeito,  consoante  pacífica  jurisprudência  desta  Corte,  até  mesmo  matéria  de  ordem  pública  pressupõe  seu  prévio  exame,  na  origem,  para  que  possa  ser  analisada  por  esta  Corte  (AgRg  no  HC  n.  643.018/ES,  Rel.  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  14/06/2022,  DJe  de  21/06/2022).
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
