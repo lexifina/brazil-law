@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGRIFOGLIO VIANNA ADVOGADOS ASSOCIADOS, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 280):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS DE TERCEIRO. RECONHECIMENTO DE FRAUDE À EXECUÇÃO. INEXISTÊNCIA DE ALTERAÇÃO DA DESTINAÇÃO DO IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. DECISÃO REFORMADA. A AUSÊNCIA DE ALTERAÇÃO DA FINALIDADE DO BEM - QUE CONTINUOU A SER USADO COMO MORADIA DA FAMÍLIA APÓS A DOAÇÃO REALIZADA PELOS DEVEDORES A SUA FILHA - IMPEDE QUE SE AFASTE A IMPENHORABILIDADE PREVISTA NO ART. 1º DA LEI 8.009/90 - NÃO OBSTANTE O RECONHECIMENTO ANTERIOR DE FRAUDE À EXECUÇÃO. PRECEDENTES DO STJ. APELAÇÃO CÍVEL PROVIDA. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 304-306).
+Nas razões do recurso especial (e-STJ, fls. 313-323), a parte recorrente alega ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, por negativa de prestação jurisdicional e omissão no julgado acerca da possibilidade de impugnação do valor da causa a qualquer tempo, por se tratar de matéria de ordem pública. A recorrente sustentou que o valor da causa deveria ser corrigido de ofício, conforme o art. 292, § 3º do CPC, e que a decisão do Tribunal estadual negou vigência a esse dispositivo ao declarar a preclusão.
+Foram apresentadas contrarrazões(e-STJ, fls. 330-336).
+É o relatório. Decido.
+A irresignação merece parcial provimento.
+Com efeito, da leitura do acórdão da apelação e dos embargos de declaração, constata-se que a eg. Corte de origem se manteve inerte no exame de matérias significativas para a solução da controvérsia, no que tange à possibilidade de impugnação do valor da causa a qualquer tempo, por se tratar de matéria de ordem pública.
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar, fundamentadamente, sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art.1.022 do Código de Processo Civil/2015, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Confiram-se, por oportuno, os seguintes precedentes:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. OMISSÃO A RESPEITO DA MULTA PROCESSUAL. CONSTATAÇÃO. INAPLICABILIDADE DA MULTA DO ART. 1.021, § 4º, DO CPC. MANIFESTA IMPROCEDÊNCIA OU INADMISSIBILIDADE DO RECURSO. NÃO DEMONSTRAÇÃO. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. A constatação de omissão no julgado impõe o acolhimento dos embargos declaratórios para correção do vício.
+3. Para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, não basta o mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar a aplicação do referido dispositivo.
+4. Embargos de declaração acolhidos para sanar a omissão apontada."
+(EDcl no AgInt no AREsp n. 1.335.043/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - sem grifo no original).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp n. 1.869.445/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2021, DJe de 1/7/2021).
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, ante a omissão da colenda Corte de origem em examinar fundamentadamente as questões suscitadas.
+Outrossim, mister acrescentar que, em razão do reconhecimento da preliminar de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões articuladas nas razões recursais.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a remessa dos autos ao eg. Tribunal de origem para que novamente aprecie as razões recursais, com exame dos pontos alegados em embargos de declaração.
+Publique-se.
+EMENTA
