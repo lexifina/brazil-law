@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PLATAFORMA DE PROTECAO A3 à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+O Recurso Especial tivera seu conhecimento negado, sob o enfoque de que tal pretensão implica em colisão à Súmula 07 desta Corte Superior, em razão de reexame de fatos.
+Todavia, o pleito da Embargante se subsume exatamente nas exceções à Súmula 07 deste Colendo Superior Tribunal de Justiça, isto porque, a VALORAÇÃO DA PROVA DE MANEIRA ADEQUADA PELO TRIBUNAL DE ORIGEM, É APRECÍAVEL EM INSTÂNCIA SUPERIOR, SEM A INCIDÊNCIA DA CITADA SÚMULA.
+Com o advento do Novo Código de Processo Civil a valoração jurídica da prova, emerge como condição objetiva da decisão e se coaduna com o dever do juiz ou tribunal fundamentar as suas decisões, não bastando escolher ao seu livre arbítrio, uma delas e não aceitar outras, sem a devida fundamentação.
+Ora Eminente Ministro, não é a função deste Colendo STJ zelar pela unidade, autoridade e uniformidade da Lei Federal  Exatamente é o que vem a Embargante aqui postular. Na Sentença prolatada, o juízo inaugural proferiu decisão contrária às provas dos Autos. Em sede de Apelo, mesmo sendo provocado pelas teses defensivas e julgados anexados com a firme orientação deste Tribunal ad quem, o Tribunal "a quo" não enfrentou o argumento defensivo de que a tese adotada na Sentença era omissa e contraditória às provas produzidas pela Embargante.
+Novamente provocado via Embargos de Declaração a omissão não foi sanada pelo Tribunal "a quo" permanecendo por violados diversos dispositivos da legislação federal, notadamente ofensa ao Artigo 5º., Incisos LIV e LV da CF/88 c/c o Artigo 373, Incisos I e II do NCPC, além de dissídio jurisprudencial.
+A Embargante aqui pretende uma correta VALORAÇÃO DA PROVA que NÃO OCORREU DE MANEIRA ADEQUADA, razão pela qual o entendimento pode ser ALTERADO sem a violação do teor da Súmula 07, deste Colendo STJ.
+ ..
+Assim, permissa vênia, torna-se omissa a decisão monocrática prolatada em 12/05/2025, uma vez inexistir manifestação expressa por parte de V. Exa., sobre todas as alegações supracitadas, formalizadas pela Embargante em sede de Recurso Especial e Agravo em REsp, apresentados, sobre a pretensão, única e exclusiva de uma correta VALORAÇÃO DA PROVA, o que, em seu modesto entendimento, não ocorrera na presente demanda.
+Destarte, pugna a ora Embargante, seja sanada a omissão e a obscuridade constatadas na decisão monocrática em questão, sendo, pois, reconsiderado dito Decisum e, por conseguinte, conhecido e provido o Agravo em Recurso Especial interposto nos presentes Autos (fls. 436/442).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não omissão a ser suprida na decisão de fls. 417/421.
+A omissão passível de embargos de declaração consiste na ausência de análise e decisão sobre as teses jurídicas constantes do recurso especial e que são capazes de modificar o acordão recorrido.
+No caso presente, todas as argumentações da ora embargante foram analisadas e concluiu-se que a pretensão recursal encontra óbice na jurisprudência consolidada na Súmula nº 7 desta Corte. Aqui, o que se pretende é que as questões de fato e as provas produzidas sejam novamente analisadas e sobre elas sejam proferidas novas conclusões, reexame vedado no recurso especial.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
