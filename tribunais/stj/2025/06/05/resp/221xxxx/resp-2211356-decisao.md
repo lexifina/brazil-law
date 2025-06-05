@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO ESTADUAL DE FLORESTAS, com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 128):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - FAZENDA PÚBLICA - CITAÇÃO PESSOAL - NECESSIDADE.
+1. A Fazenda Pública, por obediência aos arts. 1º da Lei 6.830/80 c/c os arts. 75, 247 e 249, todos do CPC, possui a prerrogativa de citação pessoal.
+2. O desrespeito à prerrogativa de citação pessoal da Fazenda Pública tem o condão de invalidar os atos praticados após o ato nulo.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 151):
+EMBARGOS DECLARATÓRIOS - SUPOSTO VÍCIO - INEXISTÊNCIA.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão, e, ainda para corrigir erro material.
+2. Os embargos de declaração, ainda que opostos com objetivo de prequestionamento, não podem ser acolhidos quando inexistentes as hipóteses no art. 1022 do CPC/15.
+Nas razões recursais, o recorrente aponta ofensa aos arts. 239, § 1º, 283, parágrafo único, e 1.022, II, do CPC/2015.
+Alega omissão no julgado recorrido, afirmando que o Tribunal originário não se manifestou sobre os argumentos que demonstram que o comparecimento espontâneo do executado supre eventuais falhas na citação.
+Destaca que "o ajuizamento tempestivo dos embargos à execução evidencia a ausência de prejuízo a justificar o reconhecimento de qualquer nulidade, nos termos do parágrafo único do art. 283 do Código de Processo Civil" (e-STJ, fl. 168).
+Assevera que "eventual nulidade da citação apenas deveria fundamentar o reconhecimento da tempestividade dos embargos do devedor permitindo o julgamento quanto ao mérito e demais razões da ação" (e-STJ, fl. 169).
+Sendo assim, requer o provimento do presente recurso especial.
+Não foram apresentadas contrarrazões (e-STJ, fls. 173-174).
+Decisão de admissibilidade às fls. 176-177 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Código de Processo Civil de 2015, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do Superior Tribunal de Justiça, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do recurso especial, a primeira tese defendida pelo recorrente refere-se à existência de omissão no acórdão recorrido, passível de justificar afronta ao art. 1.022 do CPC/2015.
+Argumenta que o aresto objurgado deixou de se manifestar sobre os seguintes pontos: "1) o exequente não contribuiu para equívoco na citação; 2) o comparecimento espontâneo do executado supre a citação, conforme dicção do § 1º do art. 239 do Código de Processo Civil; 3) o ajuizamento tempestivo dos embargos à execução evidencia a ausência de prejuízo a justificar o reconhecimento de qualquer nulidade, nos termos do parágrafo único do art. 283 do Código de Processo Civil. 4) eventual nulidade da citação apenas deveria fundamentar o reconhecimento da tempestividade dos embargos do devedor permitindo o julgamento quanto ao mérito e demais razões da ação" (e-STJ, fl. 165).
+Acerca do tema, é preciso enfatizar que os embargos de declaração revestem-se de fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Todavia, constatado qualquer dos vícios acima mencionados, é determinante que a correção seja efetuada, a fim de que a prestação jurisdicional requerida do Estado seja efetiva.
+No caso em análise, verifica-se que, apesar de o Tribunal de origem ter sido instado a pronunciar-se sobre as questões acima citadas, manteve-se inerte.
+A propósito, confira-se trecho do aresto proferido no julgamento dos embargos de declaração (e-STJ, fls. 152-155):
+Nos embargos de declaração, o recorrente afirmou, em resumo, que omisso quanto a) ao fato de o exequente não ter contribuído para o equívoco na citação, b) o comparecimento espontâneo do executado suprir a citação, conforme art. 239, §1º do CPC, c) o ajuizamento tempestivo dos embargos à execução evidenciarem a ausência de prejuízo a justificar o reconhecimento de qualquer nulidade, conforme art. 283, parágrafo único do CPC e, por último, d) a eventual nulidade da citação apenas deveria fundamentar o reconhecimento da tempestividade dos embargos do devedor, permitindo o julgamento quanto ao mérito e demais razões da ação.
+Com essa consideração, requer o conhecimento e provimento para dor prosseguimento ao feito.
+Em síntese, é o relatório.
+ ..
+Sabe-se que os embargos declaratórios constituem instrumento processual com a finalidade de dirimir do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou, ainda, de corrigir manifesto erro material.
+ ..
+O recorrente afirma que o acórdão em questão foi omisso quanto ao aviso 19/CGJ/2018, o comparecimento espontâneo, a ausência de qualquer prejuízo a justificar a decretação da nulidade.
+Conforme demonstrado no acórdão recorrido, cobrança de dívida ativa da União, dos Estados, do Distrito Federal e dos Municípios são regidas por Lei e, subsidiariamente, pelo CPC de 2015, mais especificamente, pelos art. 75, 247 e 249. Ou seja, é válida citação por meio eletrônico ou correios, desde que recebida por pessoa que detenha poderes.
+No caso em questão, trata-se de cobrança de multa ambiental a qual a citação ocorreu por meio de servidor municipal que não detinha de poderes para recebe-la. Portanto, a citação é nula e sentença não carece de reforma.
+Destarte, não há qualquer correção a ser efetuada, restando inequívoco que o propósito do embargante é modificar o julgado, em sua essência ou substância, para adequá-lo aos seus próprios interesses, o que se mostra totalmente inadmissível, dado os estreitos limites dos embargos declaratórios.
+A propósito, o STJ já consignou que "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (E Dcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, D Je 15/06/2016)
+Se não houve aceitação ou a decisão contrariou as suas pretensões, trata-se de questão diversa que desafia outra técnica recursal.
+Dessa forma, não padecendo dos vícios inseridos no art.1.022 do CPC/15, a sua rejeição é de rigor.
+Conclui-se, portanto, que o acórdão combatido, a despeito da oposição de embargos declaratórios, deixou de sanar efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, com vistas a corrigir o vício indicado.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA QUANTO AO TEMPO DE TRABALHO ESPECIAL. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, COM RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo não se manifestou sobre o ponto principal dos embargos de declaração, qual seja, a alusão genérica a presença de agentes nocivos à saúde na atividade laboral, sem considerar os limites de tolerância e a habitualidade, não ser suficiente para o reconhecimento para o tempo de trabalho especial, não foi objeto de específica análise pela Corte de origem, seja no julgamento do recurso de apelação, seja no julgamento do recurso integrativo.
+2. Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrente nos embargos de declaração, ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.094.545/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA DOMINANTE. POSSIBILIDADE. TEMPESTIVIDADE. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DA INSURGÊNCIA. CALENDÁRIO FORENSE DISPONIBILIZADO NO SÍTIO ELETRÔNICO DO TRIBUNAL DE ORIGEM. OFENSA AO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM.
+1. A decisão monocrática proferida pelo Ministro Presidente do Superior Tribunal de Justiça tem como fundamento o art. 21-E, V, do Regimento Interno desta Corte, e constitui-se mera competência delegada dos Ministros que integram as respectivas Seções de julgamento. Assim, redistribuído o agravo interno, nos termos do art. 21-E, § 2º, do RISTJ, cabe ao Ministro designado como relator exercer, em plenitude, as competências previstas no art. 259 do RISTJ.
+2. A existência de jurisprudência dominante desta Corte Superior sobre a matéria autoriza o provimento do recurso especial por meio de decisão singular, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados.
+3. Os calendários judiciais disponibilizados pelos Tribunais nas respectivas páginas eletrônicas possuem presunção de idoneidade para a comprovação de feriado local. Precedente: EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, publicado no DJe de 15/5/2023.
+4. "Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC" (AgRg no REsp n. 1.340.084/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/5/2013, DJe 13/5/2013).
+5. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação aos arts. 489 e 1.022 do CPC/15.
+6. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp n. 1.542.190/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/4/2024, DJe de 22/4/2024.)
+Ante o exposto, dou proviment o ao recurso especial a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte recorrente.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. VÍCIOS NA CITAÇÃO. COMPARECIMENTO ESPONTÂNEO DO EXECUTADO. SANEAMENTO. OMISSÃO CONSTATADA. RECURSO ESPECIAL PROVIDO.
