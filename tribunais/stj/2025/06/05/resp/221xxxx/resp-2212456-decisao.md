@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ANA PALMIRA CORREIA DA SILVA contra decisão da Corte de origem que não admitiu o recurso especial em razão da ausência de demonstração do dissenso jurisprudencial conforme os requisitos do artigo 1.029, § 1º, do Novo CPC.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 62):
+PROCESSO CIVIL. PREVIDENCIÁRIO. DEVOLUÇÃO DE VALORES PAGOS EM TUTELA ANTECIPADA. TEMA 692 STJ.
+1. Na linha do decidido pelo STJ, há a obrigatoriedade de a parte autora devolver os valores do benefício previdenciário que recebeu por força da antecipação da tutela revogada nos autos. O caso enquadra-se no Tema 692 do STJ, que só excepcionou a tutela de urgência cuja revogação se dá em razão de mudança superveniente da jurisprudência então dominante.
+2. Deve ser ressalvado o desconto sobre benefícios atuais quando isso implique a sua redução à quantia inferior ao salário-mínimo, ou que comprovadamente coloquem o devedor em situação de risco alimentar ou da sua dignidade e de sua família. Entendimento firmado pela 3ª Seção deste Tribunal de necessidade de manutenção do mínimo existencial.
+Embargos de Declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente alega divergência jurisprudencial relativamente à irrepetibilidade dos valores recebidos em antecipação de tutela revogada em decorrência de alteração jurisprudencial superveniente
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado o fundamento da decisão agravada, passo ao exame do recurso especial.
+O recurso não comporta conhecimento.
+Note-se que a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo de lei federal nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ademais, constata-se que não houve a comprovação do dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional. Isto porque não houve sua demonstração, nos moldes legais. Além da ausência do cotejo analítico e de não ter apontado de forma clara qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou demonstrada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente.
+Nesse contexto, para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, o que impede o conhecimento do recurso pelo dissídio, incidindo o teor da Súmula 284 do STF, por analogia. Nesse sentido: REsp 1.751.504/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/11/2019; AgInt no REsp 1.451.153/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1/4/2019; AgInt no AREsp 1.559.920/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 22/10/2020.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. DEVOLUÇÃO DOS VALORES. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
