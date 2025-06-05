@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por VP VIAGENS E TURISMO LTDA. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amapá, assim ementado:
+DIREITO CIVIL E CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA (DANOS MATERIAIS E MORAIS). INGRESSOS PARA JOGOS DA NBA. CANCELAMENTO EM RAZÃO DA PANDEMIA COVID-19. OFERECIMENTO DE CARTA DE CRÉDITO. NEGATIVA DE DISPONIBILIZAÇÃO. LEI 14.046/2020. INAPLICABILIDADE. FATOS ANTERIORES À EDIÇÃO DA NORMA. DANOS MATERIAIS DEVIDOS E DANOS MORAIS CONFIGURADOS. SENTENÇA MANTIDA.
+1) As disposições da Lei 14.046/2020 não se aplicam à hipótese dos autos, pois quando referida norma foi editada, em 24/08/2020, a questão envolvendo o cancelamento do jogo já tinha sido resolvida, com a emissão de carta de crédito para ser utilizada no prazo de 5 (cinco) anos.
+2) A negativa de conceder novos ingressos para um jogo da NBA nos EUA antecipadamente comprados, até mesmo a negativa de reembolso - um dever contratual -, frustram os consumidores, a tal ponto de configurar ilícito passível de indenização por dano moral.
+3) Recurso de apelação desprovido.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 2º, caput, inciso II e §6º e o artigo 5º da Lei 14.046/2020. Sustenta, em síntese, que a Lei 14046/20 deve ser aplicada retroativamente ao caso, o que afasta a indenização requerida pelos recorridos.
+É o relatório. Decido.
+A irresignação não comporta provimento.
+Com efeito, o Tribunal de origem, com arrimo no acervo fático-probatório, negou a aplicação da Lei n. 14046/20 ao caso, tendo em vista que, quando da entrada em vigência, a situação de oferta de crédito já havia sido resolvida entre as partes, como se vê do trecho abaixo transcrito:
+"De fato, a Lei 14.046/2020, de 24 de agosto de 2020, com alterações dada pela Lei 14.390/2022, dispõe sobre o adiamento e o cancelamento de serviços de reserva e de eventos dos setores de turismo e de cultura em decorrência da pandemia da COVID-19, facultando ao contratante o reagendamento do evento ou o crédito para uso ou abatimento na compra de outros serviços, em troca da não obrigatoriedade do reembolso dos valores pela prestadora do serviço.
+Vejamos:
+(..)
+Entretanto, entendo que ao caso não se aplicam às disposições da Lei 14.046/2020, porquanto, quando da entrada em vigor da mesma, em 24/08/2020, a questão envolvendo o cancelamento do jogo já tinha sido resolvida, eis que a carta de crédito fora ofertada em 27 de março de 2020, conforme e-mail trocado entre as partes, para ser utilizada no prazo de 5 (cinco) anos.
+(..)
+É importante frisar que pelo princípio da irretroatividade da lei, consagrado no artigo 5º XXXVI, da Constituição Federal, a lei nova atinge somente os fatos pendentes e os futuros, não abrangendo o ato jurídico perfeito e acabado, como na hipótese, em que o distrato ocorreu antes da entrada em vigor da lei emergencial.
+De forma que a regra a ser aplicada ao caso é a do art. 35 do Código de Defesa do Consumidor, que determina, dentre outras medidas, o ressarcimento do que se pagou por determinado serviço ou produto acaso não se fosse cumprida a oferta.
+Os recorridos solicitaram a disponibilização de ingressos, para evento que seria realizado em Nova York, na data de 20/03/2023, sendo que as tratativas perdurarem por quase 2 meses e os ingressos não foram liberados, levando os Recorridos a adquirirem as entradas por outros meios, gerando o pedido de restituição.
+Portanto, houve falha na prestação dos serviços prestados pela Recorrente, eis que mesmo diante da solicitação de novos ingressos e, posteriormente, de pedido reembolso, não foram atendidos, de forma que não há que se falar em desídia dos Recorridos.
+Não honrando a Recorrente a carta de crédito, os Recorridos fazem jus ao reembolso do prejuízo material por eles suportados."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que "ao caso não se aplicam às disposições da Lei 14.046/2020, porquanto, quando da entrada em vigor da mesma, em 24/08/2020, a questão envolvendo o cancelamento do jogo já tinha sido resolvida, eis que a carta de crédito fora ofertada em 27 de março de 2020, conforme e-mail trocado entre as partes, para ser utilizada no prazo de 5 (cinco) anos."
+Outrossim, "É importante frisar que pelo princípio da irretroatividade da lei, consagrado no artigo 5º XXXVI, da Constituição Federal, a lei nova atinge somente os fatos pendentes e os futuros, não abrangendo o ato jurídico perfeito e acabado, como na hipótese, em que o distrato ocorreu antes da entrada em vigor da lei emergencial. De forma que a regra a ser aplicada ao caso é a do art. 35 do Código de Defesa do Consumidor, que determina, dentre outras medidas, o ressarcimento do que se pagou por determinado serviço ou produto acaso não se fosse cumprida a oferta."
+Contudo, da leitura das razões recursais, observa-se que a parte recorrente não impugnou especificamente os referidos fundamentos, consubstanciados nos arts. 5º, XXXVI, da CF/88 e 35 do CDC, que se mostram capazes, por si só, de manter o acórdão estadual, o que faz incidir, no caso, o óbice da Súmula 283/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TRANSPORTE. FRETES REALIZADOS EM 2017. VALE-PEDÁGIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. PRAZO PRESCRICIONAL DECENAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. "Considerando que a multa devida em razão do não adiantamento do vale-pedágio (art. 8º da Lei nº 10.209/2001) decorre da existência de uma relação contratual entre o transportador e o embarcador, esta Corte Superior vinha se manifestando no sentido da incidência do prazo prescricional decenal (art. 205 do CC) à pretensão de cobrança dessa penalidade. No entanto, a Lei nº 14.229/2021 acrescentou o parágrafo único ao art. 8º da Lei nº 10.209/2001, que passou a prever o prazo prescricional de 12 meses" (REsp 2.022.552/RS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/12/2022, DJe de 9/12/2022).
+3. No caso, considerando que os valores cobrados são referentes a período anterior à vigência da Lei 14.229/2021, está correto o entendimento do eg. Tribunal de Justiça que aplicou o prazo prescricional decenal previsto no art. 205 do Código Civil.
+Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.693.562/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025.)
+Ademais, a incidência da Súmula 283/STF pela alínea "a" também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor da condenação.
+Publique-se.
+EMENTA
