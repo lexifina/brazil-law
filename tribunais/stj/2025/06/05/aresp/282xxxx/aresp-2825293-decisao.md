@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (fls. 571-577).
+O acórdão recorrido está assim ementado (fls. 456-457):
+RESPONSABILIDADE CIVIL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAL. CONSERTO DO VEÍCULO NÃO REALIZADO DE MODO SATISFATÓRIO. SENTENÇA DE PROCEDÊNCIA. APELO DA OFICINA RÉ ARGUINDO, PRELIMINARMENTE, CERCEAMENTO DE DEFESA E ILEGITIMIDADE PASSIVA. NO MÉRITO, PUGNA PELA REFORMA DA SENTENÇA E A IMPROCEDÊNCIA DOS PEDIDOS. PRELIMINARES AFASTADAS. PARCIAL PROVIMENTO DO RECURSO. INSTADA A SE MANIFESTAR SOBRE O LAUDO PERICIAL, O APELANTE NÃO REQUER QUAISQUER ESCLARECIMENTOS AO PERITO. NO TOCANTE À PRELIMINAR DE ILEGITIMIDADE PASSIVA, VERIFICA-SE DOS AUTOS QUE O PRÓPRIO APELANTE NÃO NEGA A PRESTAÇÃO DE SERVIÇOS AO AUTOR. DESSE MODO, TEM LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA DEMANDA QUEM TENHA PARTICIPADO DA RELAÇÃO JURÍDICA DISCUTIDA NOS AUTOS E, EM PRINCÍPIO, POSSA VIR A SER RESPONSABILIZADO PELA PRETENSÃO DEDUZIDA EM JUÍZO. NO MÉRITO, A RELAÇÃO TRAVADA ENTRE AS PARTES É TÍPICA DE CONSUMO, CONFORME DICÇÃO DOS ARTIGOS 2º E 3º DA LEI Nº 8.078/90. NESSA ESTEIRA, O PARÁGRAFO ÚNICO, DO ARTIGO 7º DO CÓDIGO DE DEFESA DO CONSUMIDOR ESTABELECE A RESPONSABILIDADE SOLIDÁRIA DOS FORNECEDORES, AINDA QUE NÃO TENHA SIDO O CAUSADOR DIRETO DO DANO. LAUDO PERICIAL, ELABORADO POR PERITO DE CONFIANÇA DO JUÍZO, CONCLUSIVO NO SENTIDO DE QUE OS REPAROS QUE DEVIAM SER REALIZADOS PELA OFICINA RÉ NÃO FORAM SATISFATÓRIOS. COMPROVAÇÃO DA FALHA NA PRESTAÇÃO DOS SERVIÇOS PELA EMPRESA APELANTE. A PARTE AUTORA FICOU IMPOSSIBILITADA DE UTILIZAR SEU VEÍCULO, ALÉM DE RECEBÊ-LO SEM O REPARO INTEGRAL DOS DEFEITOS. DANO MORAL CARACTERIZADO. VALOR FIXADO PELO JUÍZO PROCESSANTE - R$ 20.000,00 (VINTE MIL REAIS) - QUE MERECE REDUÇÃO PARA R$ 10.000,00 (DEZ MIL REAIS), EM ATENÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE E AOS PARÂMETROS ADOTADOS POR ESSA CORTE EM JULGADOS SEMELHANTES. REFORMA PARCIAL DA SENTENÇA. PRECEDENTES. PROVIMENTO PARCIAL AO RECURSO DA PARTE RÉ PARA REFORMAR A SENTEÇA, REDUZINDO O VALOR FIXADO A TÍTULO DE COMPENSAÇÃO PECUNIÁRIA POR DANO MORAL PARA R$ 10.000,00 (DEZ MIL REAIS), MANTENDO A SENTENÇA NOS DEMAIS TERMOS.
+Os embargos de declaração foram rejeitados (fls. 503-509).
+Nas razões do recurso especial (fls. 542-554), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matéria ventiladas nos embargos de declaração,
+(ii) arts. 186 e 927 do CC e 14 do CDC, por entender que não há justa causa para a condenação em danos morais e materiais,
+(iii) arts. 373, II, 470 e 477, § 2º, do CPC, sustentando que houve cerceamento de defesa, pois o laudo pericial foi impugnado e não houve esclarecimentos por parte do perito.
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 564-568).
+O agravo (fls. 603-614) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 620-627).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Houve, o enfrentamento de toda a questão posta em discussão na instância a quo, desenvolvida e analisada fundamentadamente, ainda que em sentido contrário à pretensão da parte recorrente. o TJRJ afirmou que restou comprovada a falha na prestação dos serviços pela empresa recorrente. Confira-se o seguinte excerto ( fls. 459-461):
+Entretanto, em que pese o veículo também ter permanecido em outra oficina para realização dos serviços de blindagem (empresa MF4), a prova pericial elaborada por perito de confiança do Juízo, concluiu que os reparos que deviam ser realizados pela oficina ré não foram satisfatórios (fls. 247/262 - 000247), in verbis:
+"Com base nos elementos dos autos, minuciosa inspeção visual, fotografias produzidas e análise deste profissional ficam provado que: o reparo no veículo do autor não foi satisfatório e apresentará depreciação no mercado de veículos usados".
+Em resposta aos quesitos apresentados, o perito esclareceu que os serviços efetuados pela oficina ré não foram satisfatórios, tendo em vista as notas fiscais apresentadas pelo autor e reparos que ainda precisavam ser feitos e que foram identificados quando da vistoria realizada pelo expert, in verbis:
+"11) Esclareça quais consertos e serviços foram realizados pela 2ª ré, bem como quais foram realizados na empresa MF4. RESP: Na empresa MF4 troca, blindagem dos vidros. Os demais consertos/serviços na 2ª ré com exceção aos identificados neste laudo pericial e Notas Fiscais custeadas pelo autor anexas aos autos.
+ ..
+15) Esclareça quanto tempo o veículo do autor ficou na posse dos réus para que os reparos fossem efetiva e devidamente realizados. RESP: Os reparos não foram devidamente efetivados pelo 2º ré conforme registro no corpo deste laudo pericial e Notas Fiscais custeadas pelo autor.
+ ..
+17) Esclareça se os reparos realizados pelo autor possuem correlação com o acidente sofrido. RESP: Positivo."
+Neste cenário processual, restou comprovada a falha na prestação dos serviços pela empresa apelante.
+Portanto, uma vez configurada a responsabilidade civil da empresa ré, circunstância que gera o dever de indenizar a parte que sofreu o prejuízo, passo à análise do valor compensatório.
+ ..
+Com efeito, in casu, avaliando-se os parâmetros mencionados com relação ao quantum da indenização relativo aos danos morais, constata-se que o valor fixado pelo Juízo processante - R$ 20.000,00 (vinte mil reais) - merece redução para R$ 10.000,00 (dez mil reais) considerando os princípios da razoabilidade e proporcionalidade para a hipótese dos autos e os parâmetros adotados por essa corte
+Apenas o reexame fático-probatório permitiria alterar tal conclusão, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Além disso, a Corte estadual afastou a preliminar de cerceamento de defesa por ausência de manifestação do perito, tendo em vista que "o apelante se manifesta nas fls. 356/357 - 000356 requerendo a improcedência dos pedidos iniciais. Não há qualquer pedido de esclarecimentos direcionado ao perito" (fl. 458).
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
