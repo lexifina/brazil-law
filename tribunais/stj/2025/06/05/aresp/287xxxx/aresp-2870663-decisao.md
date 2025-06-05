@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo de THAEYMER EUSTAQUIO DA SILVA PAES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.24.262166-2/001.
+Consta dos autos que o agravante foi condenado pelo crime previsto no art. 155, caput, c/c o art. 14, inciso II, ambos do Código Penal, à pena de 08 (oito) meses de reclusão, em regime inicial aberto, e pagamento de 06 (seis) dias-multa, sendo a reprimenda corporal substituída por uma pena restritiva de direitos, consistente em prestação de serviços à comunidade (fl. 394).
+Recurso de apelação interposto pela acusação foi provido para condenar o ora agravante pela prática do crime previsto no art. 157, §1º e §2º, inciso VII, do Código Penal, às penas de 05 (cinco) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e pagamento de 13 (treze) dias-multa (fl. 403).
+Em sede de recurso especial (fls. 418/426), a defesa apontou violação aos arts. 1º, 155 e 157, do CP, porque o que se sobressai da mera leitura dos elementos informativos contidos na presente ação penal é que a suposta violência empregada pelo recorrente possuía o propósito exclusivo de repelir agressões por parte de terceiros.
+Requer seja desclassificada a conduta imputada ao recorrente para aquela prevista no art. 155, do Código Penal.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 430/434).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fl. 437).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 447/454).
+Contraminuta do Ministério Público (fls. 458/460).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso (fls. 482/483).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS alterou a sentença condenatória nos seguintes termos do voto do relator:
+"Na fase policial, o réu não foi ouvido, pois foi hospitalizado. Em juízo, contudo, afirmou que a denúncia é parcialmente verdadeira e narrou que, no dia dos fatos, passou perto da vítima, pegou seu celular e saiu correndo, sendo perseguido por ela.
+Durante a fuga, percebendo que não conseguiria escapar, abandonou o celular para tentar cessar a perseguição. No entanto, o ofendido continuou a persegui-lo, pois o aparelho estava danificado. Em determinado momento, pessoas que descarregavam um caminhão tentaram pará-lo, e ele sacou uma faca para se defender. Afirmou que conseguiu fugir, mas, devido ao uso de drogas e à falta de sono, perdeu o equilíbrio, bateu o rosto em um carro e desmaiou. Quando acordou, já estava sob a proteção da polícia, que o estava protegendo da multidão. Ao final, o apelado expressou arrependimento pelo que fez. (P Je Mídias)
+Na fase policial a vítima Gilmar Mendes Ferreira relatou que foi cortar o cabelo no salão do Abraão e estava esperando do lado de fora para ser atendido. Então, o acusado apareceu com uma faca na mão e exigiu que entregasse o celular, dizendo: "passa o celular!". Descreveu que, assim que o acusado fugiu, ele correu atrás gritando: "roubou meu celular, roubou meu telefone!". Relatou que pessoas ao redor cercaram o acusado, que se escondeu debaixo de um caminhão e, em seguida, saiu correndo para a Rua Tamoios, colidiu com o para-lama de um carro e caiu, batendo a cabeça. Informou que não agrediu o acusado, e que as pessoas ao redor o acuaram. Disse, por fim, que o acusado jogou o celular quando estava debaixo do caminhão. (fl. 11 do doc. 02)
+Em juízo, a vítima retificou as declarações anteriormente prestadas e disse que estava na porta do salão do Abraão, lendo mensagens no telefone, quando o acusado passou, pegou seu celular e saiu correndo. Descreveu que atravessou a rua Guarani, correu atrás do réu e que algumas pessoas, que estavam descarregando um caminhão, ajudaram a conter o acusado, que se escondeu debaixo do mesmo caminhão.
+Em seguida, disse que o acusado sacou uma faca enquanto ainda estava debaixo do caminhão, onde continuava acuado pelas pessoas. Ele afirmou que o celular roubado teve a tela quebrada, mas foi recuperado. Reconheceu o acusado como o autor do delito. (P Je Mídias)
+De relevo frisar que, como é cediço, em sede de crimes patrimoniais, cometidos normalmente na clandestinidade, as palavras da vítima são de extrema relevância probatória à demonstração das circunstâncias do delito, principalmente quando em harmonia com outras provas acostadas aos autos, como na espécie. A propósito, trago à colação
+(..)
+Sob o crivo do contraditório, o referido miliciano, além de confirmar seu depoimento extrajudicial, reafirmou a dinâmica dos fatos descrevendo que estavam na Av. Olegário Maciel quando avistaram uma confusão e se dirigiram ao local. Asseverou que havia muitas pessoas intimidando o acusado e que elas o agrediram, mas, com a chegada da Polícia, se dispersaram e os policiais começaram a protege-lo. Esclareceu que o réu estava próximo a um carro estacionado, quase embaixo dele e que as pessoas ao redor diziam "tem que matar ladrão!". Respondeu que o réu estava inconsciente quando o encontraram. Disse que conseguiram falar com a vítima, que informou que o objeto do crime era seu celular e que ela confirmou que o acusado era o autor do crime e mencionou que ele estava com uma faca, sem fazer mais comentários. (P Je Mídias)
+Nesse contexto, restando devidamente comprovado nos autos que o réu, após a subtração das res furtiva, empregou violência através do uso de uma faca, com o fim de assegurar a detenção da coisa, de rigor a sua condenação no delito de roubo impróprio, previsto no art. 157, §1º, do Código Penal.
+(..)
+Na espécie, é inegável que após a subtração (inversão da posse), o acusado empregou grave ameaça com o fim de assegurar a detenção da coisa, já que, conforme dito, o réu subtraiu o celular do ofendido, mantendo-se na posse da res, que foi restituída somente após intervenção a perseguição realizada por ele e por populares.
+(..)
+Da mesma forma, não se tem dúvida quanto à consumação do delito, que segundo doutrina e jurisprudência majoritárias, inclusive sumulado pelo Superior Tribunal de Justiça, de que para a consumação do crime de roubo é necessário, tão somente, o mero apossamento da res, bem como o emprego de violência ou grave ameaça, sendo dispensável a posse mansa e pacífica do bem. Portanto, ainda que o ofendido tenha sido privado do controle e disposição da coisa, por breve intervalo de tempo, restará consumado o crime de roubo.
+(..)
+Destarte, não obstante as ponderações defensivas, observa-se do harmonioso conjunto probatório colhido nos autos a inexistência de dúvidas de que o réu incorreu na figura prevista no art. 157, §1º e §2º, inciso VII, do Código Penal. " (fl. 402).
+Extrai-se dos trechos acima que o recorrente subtraiu, para si ou para outrem, mediante grave ameaça exercida com o emprego de uma faca, um telefone celular marca Samsung, modelo A22, cor preta, de propriedade da vítima. Nos termos do decisório, a grave ameaça ou violência ocorreu logo após a subtração, visando assegurar a posse do bem ou a impunidade do crime.
+Sendo assim, para se concluir de modo diverso seria necessário o revolvimento fático-probatório, vedado co nforme Súmula n. 7 do Superior Tribunal de Justiça. No mesmo sentido, citam-se precedentes :
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DISPARO DE ARMA DE FOGO. GRAVE AMEAÇA. DESCLASSIFICAÇÃO PARA FURTO. ABIGEATO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É incompatível com o furto a subtração de gado seguida de disparos de arma de fogo contra a vítima, de maneira a demovê-la da tentativa de impedir o sucesso da conduta delitiva - o que equivale a grave ameaça.
+2. O fato de ser o agente mentor, um dos executores, proprietário do armamento usado no crime e beneficiário do produto do crime demonstra seu intento de cometer roubo, próprio ou impróprio.
+3. O recurso especial não comporta pleito de revisão de matéria fático-probatória, a teor da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.854.471/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 14/5/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DESCLASSIFICAÇÃO PARA FURTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial, mantendo a condenação por roubo, com pedido de desclassificação para furto privilegiado e aplicação do princípio da insignificância.
+II. Questão em discussão2. A questão em discussão consiste em saber se é possível desclassificar o crime de roubo para furto privilegiado e aplicar o princípio da insignificância, considerando a alegação de ausência de violência.
+III. Razões de decidir3. A jurisprudência do STJ e do STF é pacífica no sentido de que a desclassificação de um delito exige o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+4. Foram colhidas provas judiciais suficientes, incluindo depoimentos testemunhais e imagens de câmeras de segurança, que indicam o emprego de violência, justificando a condenação por roubo.
+5. Pequenas inconsistências nos depoimentos e o laudo pericial não afastam a comprovação de lesão causada pela violência empregada pelo réu.
+6. O princípio da insignificância não se aplica a crimes cometidos com violência ou grave ameaça, como o roubo.
+IV. Dispositivo e tese7. Agravo não provido.
+Tese de julgamento: "1. A desclassificação de roubo para furto exige revolvimento fático-probatório, vedado em recurso especial. 2.
+O princípio da insignificância não se aplica a crimes com violência ou grave ameaça.".
+Dispositivos relevantes citados: CP, art. 157, § 1º; CP, art. 155, § 2º; CPP, art. 156.Jurisprudência relevante citada: STJ, AgRg no AREsp 1.748.266/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 05.03.2021; STJ, AgRg no REsp 1.986.801/PB, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 29.11.2024.
+(AgRg no AREsp n. 2.590.680/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
