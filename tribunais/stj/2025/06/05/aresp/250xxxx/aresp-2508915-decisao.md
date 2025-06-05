@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO DE OLIVEIRA PINTO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0830351-10.2013.8.26.0052.
+O Ministério Público Federal manifesta-se desprovimento do agravo em recurso especial (fls. 772/787).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: inadmissível recurso especial com fundamento em violação da Constituição Federal; Súmulas 283/STF e 7/STJ; deficiência do cotejo analítico e não comprovação da divergência nos termos do RISTJ e do CPC.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, a fundamentação atinente às Súmulas 283/STF e 7/STJ, além da deficiência do cotejo analítico.
+Com efeito, no tocante à Súmula 283/STF, limitou-se a argumentar de maneira genérica que teria atacado os fundamentos do acórdão. Contudo, não demonstrou em suas razões do agravo que o teria feito, deixando de elencar os trechos do recurso especial em que apresentou todos os fundamentos do Tribunal de origem acerca da questão controvertida, e a respectiva argumentação recursal que expressamente se insurgiu quanto aos citados fundamentos (suficientes de mantê-lo).
+Quanto à Súmula 7/STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC, c/c o art. 3º do CPP).
+Ilustrativamente: AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+No tocante ao dissídio, também lançou mão de argumentação genérica, na medida em que não combateu o óbice referente à deficiência de cotejo analítico entre os julgados paradigmas e o acórdão recorrido, notadamente porque ausente similitude fática entre os arestos confrontados, uma vez que o paradigma traz situação em que o reconhecimento pessoal realizado na delegacia foi por fotografia, enquanto no recorrido, foi mediante a colocação do acusado entre outras pessoas para identificação pela vítima (fl. 199).
+Ainda, não impugnou de forma suficiente os óbices referentes a ausência de
+prova da divergência jurisprudencial, limitando-se a argumentar a realização do cotejo analítico, contudo, sem considerar a impossibilidade de se apontar divergência jurisprudencial com acórdãos proferidos em julgamento de habeas corpus, de recurso ordinário e de mandado de segurança.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
