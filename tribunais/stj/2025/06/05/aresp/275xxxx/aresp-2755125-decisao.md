@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA ADENILCE DE OLIVEIRA REIS, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do art. 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 397):
+AÇÃO ACIDENTÁRIA  CONDIÇÕES AGRESSIVAS  LESÕES NOS MEMBROS SUPERIORES  SENTENÇA DE IMPROCEDÊNCIA  APELAÇÃO DA AUTORA  LAUDO MÉDICO PERICIAL CONCLUSIVO  AUSÊNCIA DE INCAPACIDADE LABORATIVA  BENEFÍCIO INDEVIDO  SENTENÇA MANTIDA. Recurso desprovido.
+Em seu recurso especial, às fls. 406-415, a recorrente alega violação ao art. 86 da Lei n. 8.213/1991, sob o argumento de que "restaram-se cabalmente comprovadas as doenças do trabalho a que fora acometida e a redução permanente de sua capacidade para o trabalho que habitualmente exercia" (fl. 415). À vista disso, requer a reforma do acórdão recorrido para que lhe seja concedido o benefício do auxílio-acidente.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 421-422):
+O recurso não merece trânsito.
+Com efeito, o dispositivo legal, tido como violado, não foi apreciado pelo acórdão hostilizado, faltando, assim, o requisito do prequestionamento e nem teve a parte o cuidado de opor os necessários embargos declaratórios.
+Incidem, assim, os verbetes das Súmulas 282 e 356 do Col. Supremo Tribunal Federal, adotada pela Corte Superior. Nesse sentido: AgRg no AREsp 296.176/SP, 4ª Turma, Rel. Min. ANTONIO CARLOS FERREIRA, DJe de 16/09/2013; AgRg no REsp 1.334.315/MT, 4ª Turma, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 10/11/2015; AgRg no AREsp 781.281/SC, 2ª Turma, Rel. Min. HUMBERTO MARTINS, DJe de 16/11/2015 e AgInt no AREsp 1.652.930/SP, Rel. Min. FRANCISCO FALCÃO, 2ª Turma, DJe de 18/11/2020.
+No mais, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Inadmito, pois, o recurso especial (págs. 406-415) com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Em seu agravo, às fls. 428-441, a agravante sustenta, em primeiro lugar, que o Tribunal de origem "manifestara-se acerca das questões jurídicas debatidas pela agravante em suas razões do recurso especial" (fls. 436-437), de modo que estaria preenchido o requisito do prequestionamento implícito; em segunda lugar, que "demonstrara claramente em suas razões de recurso especial (..) a violação direta ao disposto no artigo 86" (fl. 438); e, por último, que "o recurso não foi interposto com o objetivo de revolver ou rediscutir fatos e provas", mas sim conferir "a correta valorização (sic) do conjunto probatório produzido nos autos" (fl. 438), o que afastaria a incidência do enunciado da Súmula n. 7/STJ.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou suficientemente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Com efeito, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em três fundamentos distintos e autônomos: (i) a incidência dos enunciados sumulares n. 282 e 356/STF, em razão da ausência de prequestionamento do dispositivo legal apontado como violado; (ii) a inexistência de argumentos capazes de infirmar as conclusões do Tribunal de origem, bem como de evidenciar a violação legal suscitada; e (iii) a incidência do óbice da Súmula n. 7/STJ, tendo em vista a necessidade de revisão do acervo fático-probatório dos autos para rever a posição do Tribunal de origem.
+Entretanto, em sede de agravo em recurso especial, a agravante deixou de infirmar a contento os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
