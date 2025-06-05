@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por TACIANO CASTOR RODRIGUES contra decisão do Tribunal de Justiça do Estado de Goiás, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL TRIPLA. ROUBO MAJORADO. EMPREGO DE ARMA. CONCURSO DE PESSOAS. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. DESCLASSIFICAÇÃO. RECEPTAÇÃO CULPOSA. REDUÇÃO DAS PENAS. MODIFICAÇÃO DO REGIME PRISIONAL. EXCLUSÃO DA MULTA. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. PREQUESTIONAMENTO 1- Se o conjunto probatório demonstra de forma satisfatória a materialidade e a autoria do delito de roubo circunstanciado, não sobra espaço às pretensões absolutória e desclassificatória. 2- Inobservados os critérios do sistema trifásico, ensejam reparos as penas aplicadas. 3- Deve ser alterado o regime prisional imposto ao 3º apelante, porque não reincidente. 4- Inviável a exclusão da multa pela composição expressa do preceito secundário do tipo, em obediência ao princípio da legalidade. 5- O quantitativo superior a 04 (quatro) anos, aliado à grave ameaça praticada contra pessoa, obstam a substituição por restritivas de direitos. 6- Inexistente vício constitucional ou infraconstitucional, o prequestionamento deve ser admitido tão somente para efeito de assegurar eventual interposição de recurso à instância superior. 7- Recursos conhecidos e providos em parte." (e-STJ, fl. 956).
+O recorrente aponta violação aos artigos 155, caput, e 386, V e VII, ambos do Código de Processo Penal.
+Alega que o Ministério Público do Estado de Goiás ofereceu denúncia em desfavor de Taciano Castor Rodrigues, imputando-lhe inicialmente a prática da conduta descrita no art. 180, caput, do Código Penal, posteriormente aditada para imputar-lhe a prática da conduta descrita no art. 157, § 2º, incisos I e II, do Código Penal, pela qual restou condenado.
+Afirma que, ao julgar a apelação defensiva, o TJGO entendeu que os depoimentos dos corréus, por si sós, seriam elementos suficientes para a condenação do recorrente pelo delito do art. 157, § 2º, I e II, do Código Penal.
+Sustenta, todavia, que a simples palavra dos corréus, sem amparo em elementos de provas aptos a demonstrar ter o delatado participado da empreitada criminosa, não é suficiente para a condenação (e-STJ, fls. 968-980).
+Foram apresentadas contrarrazões (e-STJ, fls. 989-997).
+O recurso foi inadmitido em razão da aplicação do óbice da Súmula 7 do STJ (e-STJ, fls. 1000-1002). Daí este agravo (e-STJ, fls. 1008-1016).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo desprovimento do recurso especial (e-STJ, fls. 1033-1044).
+É o relatório.
+Decido.
+Da leitura dos autos, verifica-se que a tese contida no recurso especial, no sentido de que os depoimentos dos corréus, por si sós, não são suficientes para a condenação do réu, não foi objeto da apelação e tampouco foi objeto de pronunciamento pelo acórdão impugnado.
+Nesse contexto, o tema carece do requisito indispensável do prequestionamento, o que atrai o óbice da Súmula 282 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+A propósito:
+" ..
+2. A despeito de a tese objeto deste recurso especial haver sido deduzida na apelação da defesa, o Tribunal a quo não a analisou, o que impossibilita sua apreciação por esta Corte Superior, a teor da Súmula n. 282 do STF.
+3. Caberia à defesa, quando intimada do julgamento da apelação, opor embargos declaratórios para provocar a manifestação do órgão colegiado sobre o ponto. Entretanto, interpôs, diretamente, o recurso especial.
+4. Agravo regimental não provido."
+(AgInt no REsp 1.598.501/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+" ..
+4. Inexistindo pronunciamento da Corte de origem a respeito da atenuante da confissão espontânea, carece do indispensável prequestionamento a suposta violação do art. 65 do Código Penal, atraindo a incidência da Súmulas n. 282 e 356 do STF.
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 1.172.460/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017).
+Ademais, consoante se verifica da sentença e do acórdão condenatórios, além dos depoimentos de todos os corréus, afirmando a participação do recorrente na prática do crime, há o testemunho do Policial Militar Diogo Alves de Oliveira, em juízo, no sentido de que todos confessaram a prática do roubo.
+A propósito:
+"Em seguida, a testemunha Diogo Alves de Oliveira, policial militar, narrou em juízo que no dia dos fatos estava de serviço e foram acionados pelo COPOM devido a uma caminhonete que teria sido roubada. Que foram até o endereço e encontraram um rapaz na garagem se identificando como proprietário da casa. Que o proprietário disse que um rapaz que havia emprestado um carro para ele tinha acabado de sair do local com a caminhonete e informou que ele voltaria para deixar o gol que havia emprestado. Que voltaram duas pessoas para deixar o gol na garagem. Que eles confessaram terem participado do roubo desse veículo. Que havia outras duas pessoas que participaram do ato e estariam com o carro. Que com o apoio de outra equipe nas diligências encontraram o veículo e uma arma que foi utilizada. Que dentro da residência que mostrava a localização do veículo também havia alguns pertences da vítima. Que o veículo foi recuperado, sendo os objetos roubados apresentados na delegacia. Que todos os indivíduos que estavam dentro do gol confessaram ter participado do crime. Que pegaram o gol emprestado para cometerem o crime. Que foi repassado que foi utilizada uma arma de fogo na hora do roubo. Que o veículo estava sendo negociado por um valor pequeno com outra pessoa. Que não se recorda onde encontraram o veículo." (e-STJ, fls. 757-758, grifou-se).
+Ressalte-se  que,  conforme  entendimento  pacificado  nesta  Corte  Superior,  "não  há  nulidade  na  condenação  baseada  em  provas  colhidas  em  procedimentos  extrajudiciais  investigativos  devidamente  apresentadas  no  processo  e  submetidas  ao  crivo  judicial,  respeitados  o  contraditório  e  a  ampla  defesa"  (AgRg  no  AREsp  n.  1.792.370/SC,  relator  Ministro  João  Otávio  de  Noronha,  Quinta  Turma,  julgado  em  5/10/2021,  DJe  de  8/10/2021).
+Nesse sentido:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ROUBO  QUALIFICADO.  TESE  DE  CONDENAÇÃO  BASEADA  APENAS  EM  PROVAS  PRODUZIDAS  NA  FASE  INQUISITORIAL.  NÃO  OCORRÊNCIA.  ABSOLVIÇÃO.  NÃO  CABIMENTO.  SÚMULA  7/STJ.  PRECEDENTES.  AGRAVO  IMPROVIDO.
+1.  Não  há  falar  em  violação  do  art.  155  do  CPP  quando  o  magistrado  forma  sua  convicção  com  base  nas  provas  produzidas  tanto  na  fase  inquisitorial  quanto  na  judicial,  sob  o  crivo  do  contraditório,  dando  especial  ênfase  à  palavra  da  vítima.
+2.  Cabe  às  instâncias  ordinárias  fazer  o  exame  do  conteúdo  fático-probatório,  a  fim  de  aferir  a  existência  de  fundamentos  aptos  a  embasar  a  condenação,  premissas  fáticas  cuja  reversão  encontra  óbice  na  Súmula  7/STJ.
+3.  Agravo  regimental  improvido."
+(AgRg  no  AREsp  n.  1.523.150/PR,  relator  Ministro  Nefi  Cordeiro,  Sexta  Turma,  julgado  em  26/11/2019,  DJe  de  3/12/2019.)
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL.  TORTURA  COM  RESULTADO  MORTE.  FRAUDE  PROCESSUAL.  ELEMENTOS  DO  INQUÉRITO.  UTILIZAÇÃO.  AUSÊNCIA  DE  ILEGALIDADE.  ABSOLVIÇÃO.  AUSÊNCIA  DE  PROVAS.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  N.º  7/STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Não  há  violação  ao  art.  155  do  Código  de  Processo  Penal  quando  as  instâncias  ordinárias,  para  fundamentar  a  condenação,  utilizam  os  elementos  de  informação  colhidos  no  inquérito  policial  em  conjunto  com  a  prova  judicial  e  com  as  provas  técnicas  de  natureza  irrepetível,  como  ocorreu  no  caso.
+2.  A  revisão  das  conclusões  alcançadas  pelas  instâncias  ordinárias  acerca  da  autoria  e  da  materialidade  delitivas,  com  o  objetivo  de  absolver  o  Agravante,  exigiria  amplo  e  aprofundado  reexame  do  conjunto  fático-probatório,  o  que  não  é  possível  no  recurso  especial,  conforme  se  extrai  da  Súmula  n.º  7  desta  Corte  Superior.
+3.  Agravo  regimental  desprovido."
+(AgRg  no  AREsp  n.  1.366.879/PB,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  23/4/2019,  DJe  de  6/5/2019.)
+Nesse  contexto,  a  alteração  do  julgado,  a  fim  de  absolver  o  réu  por  insuficiência  de  provas,  tal  como  propugnado  pela  defesa,  somente seria possível mediante nova análise do  conjunto  fático-probatório  dos  autos,  providência  inviável  nesta  instância  especial,  nos  termos  da  Súmula  7/STJ.
+A  corroborar  esse  entendimento,  confiram-se  os  seguintes  julgados:
+" ..
+3.  A  revisão  do  entendimento  firmado  pelas  instâncias  ordinárias,  no  sentido  de  absolver  o  agravante  por  insuficiência  de  provas,  demanda,  necessariamente,  o  reexame  de  provas,  providência  vedada  pela  Súmula  n.  7/STJ.
+4.  "Não  há  falar  em  violação  do  art.  155  do  CPP,  pois  a  prova  utilizada  para  a  condenação  não  deriva  exclusivamente  do  inquérito  policial,  mas  das  provas  que  foram  ratificadas  em  juízo  sob  o  crivo  do  contraditório  (AgRg  no  AREsp  n.  917.530/ES,  Ministro  Ribeiro  Dantas,  Quinta  Turma,  DJe  15/12/2017)"  (AgRg  no  REsp  1780991/PR,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  19/3/2019,  DJe  1º/4/2019).
+Omissis.
+7.  Agravo  regimental  desprovido.  "(AgRg  nos  EDcl  no  AREsp  n.  1.667.363/AC,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  1/9/2020,  DJe  de  9/9/2020.)
+" ..
+1.  Rever  o  entendimento  externado  pelas  instâncias  ordinárias  para  concluir  pela  insuficiência  de  provas  para  a  condenação  demandaria,  necessariamente,  o  reexame  do  conjunto  fático-probatório,  inviável  em  sede  de  recurso  especial,  o  que  atrai  a  incidência  do  óbice  da  Súmula  7/STJ.
+2.  Não  é  possível  ao  réu  reincidente,  mesmo  quando  favoráveis  as  circunstâncias  judiciais,  iniciar  o  cumprimento  da  pena  privativa  de  liberdade  no  regime  aberto,  sendo  hipótese  de  aplicação  da  Súmula  269,  in  verbis:  "É  admissível  a  adoção  do  regime  prisional  semiaberto  aos  reincidentes  condenados  a  pena  igual  ou  inferior  a  quatro  anos  se  favoráveis  as  circunstâncias  judiciais".
+Omissis.
+4.  Agravo  regimental  improvido."
+(AgRg  no  REsp  n.  1.499.433/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  3/9/2015,  DJe  de  10/9/2015.)
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
