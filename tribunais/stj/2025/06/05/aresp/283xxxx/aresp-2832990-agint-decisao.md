@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, agravo interno interposto por MAESTRELLI REFRIGERACAO LTDA. contra a decisão vista às fls. 511-512, por meio da qual o agravo em recurso especial interposto pela ora agravante não foi conhecido.
+A agravante sustenta, em síntese, que "deixou bem claro em suas razões recursais, especificamente no item denominado "conclusão", que o objetivo primordial do apelo especial não é o reexame da prova produzida", argumentando a inaplicabilidade do óbice da Súmula 7/STJ. Alega que o recurso não se encontra balizado apenas e tão somente em violação a enunciado de Súmula, mas na manifesta e inequívoca afronta aos arts. 22, § 3º, da Lei n. 13.655/2018; 475 do CC, e das normas do Decreto-Lei n. 4.657/1942, além de afrontar a Súmula n. 393 do STJ.
+Pede a concessão de efeito suspensivo ao agravo interno, o conhecimento e o provimento do recurso.
+Intimado, o agravado deixou de responder ao recurso (fl. 527).
+É o relatório.
+Passo a decidir.
+A agravante se insurge contra a decisão por meio da qual o agravo em recurso especial não foi conhecido, com fundamento no enunciado da Súmula n. 182/STJ, por analogia, uma vez que faltou impugnação específica do enunciado da Súmula 518/STJ nas razões do agravo.
+O Tribunal de origem inadmitiu o recurso especial, em face da incidência das Súmulas n. 7 e 518 deste Superior Tribunal de Justiça.
+Com efeito, revendo os autos, vejo que a agravante logrou impugnar a incidência dos referidos óbices sumulares, mormente o enunciado da Súmula 518/STJ, ao argumentar que houve "negativa de vigência ao disposto nos artigos 22, § 3º, da Lei nº 13.655/2018, no artigo 475, do Código Civil, e, também, afronta e violação à Súmula nº 393 do STJ" (fl. 497).
+Logo, é inaplicável o enunciado da Súmula 182/STJ, por analogia, para obstar o conhecimento do agravo.
+Indo além, vejo ser o caso de não conhecer do recurso especial, uma vez que os arts. 22, § 3º, da Lei nº 13.655/2018; e 475, do CC/2002, não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Em verdade, sobre isso, consta no acórdão recorrido apenas que "não se verifica duplo apenamento pelo mesmo fato, não havendo razão para anular o Auto de Infração n.º 178177-0, relacionado à presente execução" (fl. 453).
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Além disso, é inafastável a conclusão de que a alteração da conclusão do Tribunal a quo, acerca da não ocorrência de duplo apenamento, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, em juízo de reconsideração, anulo a decisão de fls. 511-512, conheço do agravo e não conheço do recurso especial, ficando prejudicada a análise do pedido de concessão de efeito suspensivo a este recurso.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
