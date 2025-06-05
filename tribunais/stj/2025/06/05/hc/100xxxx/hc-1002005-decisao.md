@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAYCON MIRANDA SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no HC n. 2063089- 89.2025.8.26.0000.
+Consta dos autos que o paciente está preso preventivamente supostamente pela prática do delito de roubo circunstanciado (art. 157, § 2º, II e §2º-A, I, do CP).
+Sustenta o impetrante que o paciente foi coagido sob grave ameaça por assaltantes armados, sendo forçado a permitir a entrada dos agentes no condomínio onde residem seus pais, a permanecer nas imediações com seus filhos e, posteriormente, a prestar fuga ao grupo criminoso.
+Argumenta que o decreto de prisão preventiva baseou-se exclusivamente na gravidade abstrata do delito e em presunções extraídas pela autoridade policial, desprovidas de elementos objetivos. Alega a inexistência de fundamentos concretos que evidenciem o periculum libertatis, requisito indispensável à custódia cautelar.
+Aponta que o paciente possui residência fixa, é primário, detém bons antecedentes e colaborou espontaneamente com as investigações, comparecendo às intimações sem resistência.
+Destaca, por fim, que não há qualquer indício de conduta que represente risco à ordem pública, à instrução criminal ou à aplicação da lei penal, sendo a decisão que decretou a prisão genérica e desprovida de fundamentação concreta, em violação aos arts. 312 e 319 do CPP, bem como ao princípio constitucional da presunção de inocência.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva do paciente, com a substituição por medidas cautelares diversas, expedindo-se o consequente alvará de soltura.
+O pedido liminar foi indeferido às fls. 161/171.
+Informações prestadas às fls. 177/180.
+O Ministério Público Federal manifestou-se às fls. 210/215, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, apresentou as seguintes razões (fls. 45/48; grifamos):
+Imprescindível a prisão cautelar como garantia da ordem pública, considerando a gravidade em concreto do crime imputado a(os) acusados(a), perpetrado mediante o concurso de agentes e emprego de grave ameaça exercida com arma de fogo, rendendo uma das vítimas em sua própria residência para a subtração dos bens.
+A medida se faz necessária, ainda, para fins de assegurar a instrução criminal, evitando-se que o denunciado embarace a produção da prova, notadamente quando tentou registrar um B. O. três dias após os fatos para, aparentemente, construir seu álibi, evitando-se, ainda, que influencie no ânimo das vítimas e testemunhas, eis que pessoas conhecidas, tendo acesso ao local em que residem e trabalham.
+Presente, ainda, a contemporaneidade entre os fatos ocorridos no mês de março de 2024 e o presente decreto prisional, posto que o feito não se originou de prisão em flagrante delito, tendo os indícios de autoria surgido tão somente no decorrer das investigações, sendo tão logo representada pela sua prisão preventiva e os fatos levados ao conhecimento deste juízo (artigo 312, caput, e §2º, do CPP).
+O Tribunal de origem, por sua vez, manteve a segregação cautelar do acusado, consignando, in verbis (fls. 25/39; grifamos):
+A primariedade do paciente (folhas 84/85 da origem) não elide a necessidade do cárcere cautelar, considerada a gravidade concreta da conduta imputada, restando bem afastada a aplicação de outras medidas cautelares, previstas no artigo 319 do referido estatuto processual penal.
+A efetiva ausência de fatos novos ensejou a manutenção dos argumentos já empregados na decretação do cárcere cautelar, o que ora se mantém. A imputação que pesa contra o paciente é, sim, grave, o que denota periculosidade por parte do agente, consignando-se que essa infração penal intranquiliza a população ordeira, de modo que é necessária a custódia para garantia da ordem pública.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta.
+3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu.
+(..)
+7. Agravo regimental não provido.
+(AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva.
+3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando-lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade.
+4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente.
+5. Agravo regimental não provido.
+(AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024; grifamos).
+Notório reconhecer que, além da gravidade concreta da conduta descrita na denúncia, a medida extrema foi calcada na necessidade de conveniência da instrução criminal, vez que o paciente, três dias após os fatos, tentou registrar um boletim de ocorrência para dar veracidade à história por ele narrada, podendo ainda, ameaçar as vítimas e testemunhas na busca deste intento porque possui amplo acesso ao local onde elas moram , segundo as informações constantes do caderno processual, tendo em vista que seus pais residem no mesmo condomínio.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
