@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo Juízo Federal da 8ª Vara Criminal de São Paulo/SP, o suscitante, em face do Juízo de Direito da Vara Criminal do Foro Central Barra Funda - DIPO 4 - São Paulo/SP, o suscitado.
+Consta nos autos inquérito policial instaurado para apurar a suposta prática de fraude praticada contra a Agência Bom Retiro do Banco Itaú em São Paulo.
+O Juízo suscitado declinou a competência à Justiça Estadual, sob o fundamento de que as condutas investigadas caracterizariam os crimes previstos na Lei n. 7.492/86 (fl. 210).
+O Juízo suscitante, por sua vez, exarou que os fatos narrados não configuram crime contra o sistema financeiro, e sim supostos crimes estaduais, alegando que "a narrativa apresentada na denúncia não se adequa aos delitos da Lei 7.492/86 que atrairiam a competência da Justiça Federal, e sim a crimes comuns de competência da Justiça Estadual, já que os crimes foram praticados em detrimento do Banco Itaú" (fls. 397/405).
+O Ministério Público Federal, às fls. 512/517, manifestou-se pelo conhecimento do conflito de competência, para que seja declarada a competência do Juízo de Direito da Vara Criminal do Foro Central Barra Funda - SP, o suscitado.
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, I, "d", da Constituição Federal.
+A controvérsia consiste em definir o juízo competente para o processamento da suposta prática de fraude praticada contra a Agência Bom Retiro do Banco Itaú em São Paulo.
+Com razão o Juízo suscitante.
+As causas modificadoras da competência visam evitar decisões judiciais conflitantes e propiciar uma melhor elucidação dos fatos, contribuindo para a formação do livre convencimento motivado do magistrado. Assim, a modificação da competência originária somente se justifica quando concretamente demonstrada a possibilidade de se alcançar os benefícios inerentes a tais institutos.
+No caso em exame, não há qualquer elemento concreto que comprove a prática de crime em desfavor de autarquia federal. A ação relata a ocorrência de fraude praticada por funcionário sem atribuições de gestão que pudessem ser inseridas no contexto da administração da instituição financeira, tendo como vítima a Agência Bom Retiro do Banco Itaú, situada em São Paulo.
+Ao que tudo indica, a conduta não se amolda aos crimes de mão própria, os quais somente podem ser praticados pelo controlador ou pelos administradores da instituição financeira, assim considerados os diretores, gerentes, interventores, liquidantes ou síndicos das referidas entidades.
+Diante da ausência de elementos que apontem para a prática de infração penal de competência da Justiça Federal, o procedimento deve seguir seu curso na esfera estadual.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AGÊNCIA DO BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. ART. 5º e ART. 17 DA LEI N. 7.492/86. CRIMES DE MÃO PRÓPRIA. SUJEITO ATIVO DESCRITO NO ART. 25 DA LEI N. 7.492/86. GERENTE DE SERVIÇO E GERENTE DE RELACIONAMENTO SEM PODERES DE GESTÃO. CONDUTA QUE PODERIA SER PRATICADA POR QUALQUER ESCRITURÁRIO. AUSÊNCIA DE CONFIGURAÇÃO DE DELITO CONTRA O SISTEMA FINANCEIRO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d da Constituição Federal.
+2. Compete à Justiça Federal a apuração dos delitos previstos na Lei n. 7.492/86, que define os crimes contra o Sistema Financeiro, como prevê o art. 26 da aludida lei; ao passo que os crimes contra a adminsitração pública descritos no Código Penal, praticados no âmbito de sociedade de economia mista, são processados perante a Justiça Estadual.
+3. O art. 5º e art. 17 da Lei n. 7.492/86 descrevem crimes de mão própria, podendo ser praticados apenas por pessoas específicas definidas em lei. Da leitura do art. 25 da Lei n. 7.492/86 extrai-se que, pela natureza dos cargos mencionados no dispositivo - controlador, administrador, diretor - os gerentes que podem ser responsabilizados penalmente são aqueles que possuem poderes de gestão. Isto porque, em se tratando de uma norma penal explicativa, que esclarece o conteúdo e alcance de um tipo penal incriminador, sua interpretação deve ser restritiva. Precedentes.
+4. No caso concreto, as denunciadas ocupavam o cargo comissionado de Gerente de Serviços em Unidade de Negócios e de Gerente de Relacionamento em Unidade de Negócios. O Juízo Federal, após se debruçar sobre a prova produzida no curso da instrução processual, ou seja, com boa compreensão do contexto fático dos autos, concluiu que o poder de gestão da agência bancária, onde ocorreram os fatos delituosos, estava a cargo do Gerente Geral, a quem não foi atribuída qualquer prática delitiva. 5. Os crimes descritos na Lei n. 7.492/86 possuem como objeto jurídico a higidez do Sistema Financeiro e não a proteção patrimonial da instituição financeira.
+As condutas das acusadas não foram praticadas em razão da gerência, na medida em que poderiam ser praticadas por qualquer escriturário.
+As denunciadas não tinham poder de deferir financiamentos rurais (PRONAF E PRONAMP), cuja atribuição ficava a cargo do comitê de créditos da agência.
+6. A tomada de crédito descrita no art. 17 Lei n. 7.492/86 diz respeito a empréstimos vedados praticados pelas pessoas descritas no art. 25 da mesma Lei. Portanto, o dispositivo tipifica a prática de empréstimos não vinculados, não se aplicando a financiamentos com destinação específica, como é o caso no PRONAF e PRONAMP.
+Precedentes.
+7. Ausência de situação apta a atrair a competência da Justiça Federal nos termos do art. 26 da Lei n. 7.492/86 e art. 109 da Constituição Federa porque, na espécie, não está caracterizado crime contra o Sistema Financeiro ou qualquer interesse da União.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara Distrital de São Sebastião da Grama - São José do Rio Pardo - SP, o suscitado.
+(CC n. 155.853/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/4/2018, DJe de 11/5/2018.)
+Ante o exposto, conheço do presente conflito, para declarar competente o Juízo de Direito da Vara Criminal do Foro Central Barra Funda - DIPO 4 - São Paulo/SP , o suscitado.
+Publique-se.
+Intimem -se.
+EMENTA
