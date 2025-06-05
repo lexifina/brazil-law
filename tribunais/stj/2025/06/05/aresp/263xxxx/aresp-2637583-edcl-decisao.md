@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso de embargos de declaração oposto por C&C ADMINISTRAÇÃO DE BENS PRÓPRIOS LTDA. contra a decisão de fls. 253-255, da lavra desta relatoria, que conheceu do agravo para dar provimento ao recurso especial oposto por ALESSANDRO GASPARE ANGELUCCI e OUTROS, ora embargados.
+Nas razões dos aclaratórios, a parte insurgente alega, em resumo, a existência de omissão e obscuridade na decisão monocrática, uma vez que não teria enfrentado aspectos relevantes do caso concreto, como a inaplicabilidade do REsp 2.072.206/SP, devido à ausência de litigiosidade efetiva e contraditório substancial. A parte sustenta que o incidente foi processado de forma célere e objetiva, sem produção probatória ou resistência processual robusta, o que não justificaria o arbitramento de honorários advocatícios.
+Impugnação às fls. 264-267.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, os embargos de declaração foram opostos sob a alegação de sanar omissão e obscuridade existentes na decisão. Pretende, entretanto, afastar a observância do entendimento firmado pela Corte Especial, no julgamento do REsp 2.072.206/SP, aduzindo, por outro lado, inexistir pressupostos fáticos para fixação de honorários.
+A decisão embargada, no entanto, deixa claro que caberá ao Tribunal de origem o arbitramento da verba honorária, nos seguintes termos:
+"O eg. Tribunal de Justiça deu provimento ao agravo de instrumento aviado pelos aqui agravantes para, reformando a decisão do i. Juízo de origem, indeferir o pedido de desconsideração da personalidade jurídica da devedora, denegando, com isso, o ingresso dos recorrentes nos autos da execução, deixando, entretanto, de fixar verba honorária sucumbencial.
+Eis os fundamentos esgrimidos pela Corte estadual, in verbis:
+"Com relação aos embargos opostos pelos agravantes, vale ressaltar que, respeitado entendimento contrário, no incidente de desconsideração da personalidade jurídica não há que se falar em condenação em honorários advocatícios, por ausência de previsão legal. Nesse sentido:
+A orientação jurisprudencial deste Superior Tribunal de Justiça é pacífica no sentido de que, em virtude da ausência de previsão legal específica, não é cabível condenação ao pagamento de honorários sucumbenciais em incidente de desconsideração da personalidade jurídica, sendo irrelevante a qual das partes se possa imputar a sucumbência ou a responsabilidade por dar causa à instauração do incidente. (STJ; AgInt no AREsp nº 2.131.090/SP; Rel. Min. Marco Buzzi; 4ª Turma; J. em 27.3.2023)." (fls. 73-74)
+Com efeito, o entendimento em vitrina destoa da atual jurisprudência do STJ, que, em recente julgamento realizado pela eg. Corte Especial, no qual este relator ficou vencido, entendeu cabível a fixação de honorários em hipóteses semelhantes a dos presentes autos, senão vejamos:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NATUREZA JURÍDICA DE DEMANDA INCIDENTAL. LITIGIOSIDADE. EXISTÊNCIA. IMPROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. CABIMENTO. JURISPRUDÊNCIA DOMINANTE. SUPERAÇÃO.
+1. A controvérsia dos autos está em verificar se é possível a fixação de honorários advocatícios na hipótese de rejeição do pedido formulado em incidente de desconsideração da personalidade jurídica.
+2. Apesar da denominação utilizada pelo legislador, o procedimento de desconsideração da personalidade jurídica tem natureza jurídica de demanda incidental, com partes, causa de pedir e pedido.
+3. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+4. Recurso especial não provido.
+(REsp n. 2.072.206/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025)
+Diante do exposto, com ressalva de entendimento pessoal, conheço do agravo para dar provimento ao recurso especial, no sentido de determinar o retorno dos autos ao Tribunal de origem para, em complemento ao julgado recorrido, fixar os honorários advocatícios sucumbenciais, como entender de direito." (fl. 254)
+Percebe-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, desse modo, o acolhimento da pretensão embutida nos aclaratórios.
+Nesse sentido, vale mencionar:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto sobre o qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.683.104/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 9/12/2024, DJe de 19/12/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL.CONTRADIÇÃO,OBSCURIDADE E OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados."
+(EDcl no REsp n. 1.937.887/RJ, relator Ministro PAULO SÉRGIO DOMINGUES, Primeira Seção, julgado em 11/12/2024, DJe de 16/12/2024)
+Por fim, é necessário salientar que o acórdão embargado debruçou-se sobre as questões suscitadas, decidindo, porém, de forma contrária ao interesse da parte ora embargante, o que, deveras, não pode ser confundido com omissão, tampouco ausência de fundamentação, consoante firme jurisprudência desta Corte Superior.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
