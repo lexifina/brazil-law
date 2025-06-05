@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Município de Campos dos Goytacazes contra o acórdão de fls. 210/223 proferido, por maioria, pela Quinta Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. MUNICÍPIO DE CAMPOS DOS GOYTACAZES. AGENTE COMUNITÁRIO DE SAÚDE. IMPETRANTE APROVADA DENTRO DO NÚMERO DE VAGAS. PRETENSÃO DE RECONHECIMENTO DE SEU DIREITO LÍQUIDO E CERTO À NOMEAÇÃO.
+1- Arguição de decadência não acolhida. O concurso em discussão, apesar de homologado em 2010, se encontra com sua validade suspensa em função da tramitação da Ação Civil Pública 0004743-55.2013.8.19.0014, cujo recurso de apelação interposto pelo Município de Campos dos Goytacazes ainda se encontra pendente de julgamento pela 3ª Câmara de Direito Público, de modo que o termo inicial para a contagem do prazo decadencial, a saber, a expiração da validade do certame (AgInt no REsp 1417814/SC, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 11/09/2018, DJe 08/10/2018), sequer se iniciou;
+2- Possibilidade do ajuizamento de ação individual pelo titular do direito, em se tratando de direito individual homogêneo, de natureza divisível e de titularidade determinável, conforme previsão do artigo 104, do CDC. Presença de interesse de agir e desnecessidade de sobrestamento do presente feito;
+3- Legitimidade do Prefeito para figurar como autoridade coatora, uma vez que a ele compete, privativamente, prover os cargos, empregos e funções públicas municipais na forma da lei, conforme previsto no art. 78, XIII, da Lei Orgânica do Município de Campos dos Goytacazes. Precedente desta Corte;
+4- No mérito, temos que o Mandado de Segurança é remédio que visa proteger direito líquido e certo violado ou na iminência de ser violado por autoridade pública ou agente no exercício de função pública, condicionado à comprovação do direito - e da lesão ou ameaça - no momento do ajuizamento da demanda. Inteligência do art. 5º, LXIX, CRFB/88 e 1º, da Lei 12.016/09;
+5- O Concurso Público em tela previa o preenchimento de 6 (seis) vagas no polo pretendido (PSF Lagoa do Vigário), das quais 5 (cinco) seriam de ampla concorrência, tendo a impetrante sido aprovada em 1º (primeiro) lugar;
+6 - A Jurisprudência do STF define que a mera expectativa de direito à nomeação de candidato aprovado em concurso público se converte em direito subjetivo à nomeação quando a referida aprovação ocorre dentro do número de vagas, à luz do disposto na tese que compõe o Tema 161-STF, uma vez que a própria administração, neste caso, reconhece de forma inequívoca a existência da vaga e a necessidade de contratação do candidato;
+7- O ente, em sua impugnação, não comprova qualquer fato que refute a pretensão autoral, notadamente porque não demonstra ter chamado todos os médicos aprovados para que assumissem as vagas disponíveis nas equipes do Programa de Saúde da Família;
+8- A autora demonstra ainda - sem oposição devidamente comprovada da edilidade - residir na área do polo para o qual se candidatou, sendo certo, ainda, que a comprovação do preenchimento dos requisitos para o exercício do cargo pode ser apresentada até a data da posse, conforme aponta o verbete sumular 266- STJ;
+9- Desta feita, considerando que a impetrante foi aprovada dentro do número de vagas, afigura-se presente o direito líquido e certo à nomeação no cargo de Agente Comunitário de Saúde para o polo 07 - PSF Lagoa do Vigário, do Município de Campos dos Goytacazes. Precedentes deste E. Tribunal;
+10- Substancioso parecer elaborado pela d. Procuradoria de Justiça;
+11- Condenação do ente ao pagamento da Taxa Judiciária (verbete sumular 145-TJRJ). Sem honorários (art. 25, Lei 12.016/09)
+12- Concessão da ordem. (fls. 210/211)
+Nas razões recursais, fls. 242/250, o autor alega que: o pedido feito no mandado de segurança decaiu em razão do vencimento do prazo de validade do concurso a que se refere; não há direito líquido e certo amparado por provas; "A decisão judicial não pode se sobrepor à avaliação técnica da Administração quanto à viabilidade da estruturação de equipes de saúde. O Judiciário não deve imiscuir-se no mérito administrativo, salvo ilegalidade manifesta" (fl. 248); é preciso suspender o processo judicial em razão de tratativas extrajudiciais que estão sendo realizadas entre a Defensoria Pública e o Município de Goytacazes; e "o reconhecimento judicial de direito líquido e certo a candidatos aprovados há mais de 14 anos gera insegurança jurídica e ameaça o equilíbrio fiscal do Município" (fl. 249). Requer a concessão de medida liminar para suspender o processo "até trânsito em julgado da Ação Civil Pública nº 0004743-55.2013.8.19.0014" (fl. 249).
+Em contrarrazões, fls. 288/295, a recorrida requer que seja extinto o recurso, ou que o mérito seja julgado totalmente improcedente.
+Recurso tempestivo.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A teor do disposto no art. 105 da Constituição Federal, o recurso ordinário em mandado de segurança dirigido a esta Corte Superior é cabível nas hipóteses em que a segurança é denegada pelo Tribunal estadual no exercício de sua competência originária. Confira-se:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+ ..
+II - julgar, em recurso ordinário:
+ ..
+b) os mandados de segurança decididos em única instância pelos Tribunais
+Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e
+Territórios, quando denegatória a decisão; (destaquei).
+Por sua vez, a lei de regência do mandado de segurança, a Lei n. 12.016/2009, em natural harmonia com o texto constitucional, ao disciplinar o cabimento do recurso ordinário, cuidou de fazê-lo com a clareza do que dispõe seu art. 18:
+Art. 18. Das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.
+Dessarte, o recurso ordinário que abre a competência do Superior Tribunal de Justiça é tão somente aquele interposto contra acórdão proferido pelos Tribunais Regionais Federais ou Tribunais de Justiça dos Estados em única instância, nas hipóteses em que denegada a ordem. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCESSÃO DA ORDEM. ACÓRDÃO PROFERIDO EM ÚNICA INSTÂNCIA POR TRIBUNAL ESTADUAL. RECURSO ORDINÁRIO. DESCABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+1. Contra o acórdão proferido em mandado de segurança e decidido em única instância por Tribunal de Estado, por pretensa violação da lei federal, cabe: a) recurso ordinário, quando denegatória a decisão (art. 105, II, "b", da CF/1988); b) recurso especial, na hipótese restante (art. 105, III, "a", da CF/1988).
+2. Na hipótese, a Corte de origem concedeu a ordem, mostrando-se incabível a interposição de recurso ordinário constitucional.
+3. Ainda que se considere a ocorrência de eventual omissão no julgado proferido pela Corte local, tal vício não se confunde com a denegação da ordem, a ensejar a propositura do recurso ordinário constitucional. Atrairia, se fosse o caso, a interposição de recurso especial.
+4. Segundo a jurisprudência pacífica do Superior Tribunal de Justiça, inaplicável o princípio da fungibilidade para admitir-se o recurso ordinário constitucional, porquanto a interposição deste, fora das hipóteses claramente estabelecidas pela Carta Magna, configura erro grosseiro.
+5. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 56.854/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/5/2020.)
+Nestes autos, porém, o recurso ordinário foi manejado pelo Município de Campos dos Goytacazes contra acórdão que concedeu a ordem "para determinar à autoridade coatora a nomeação da impetrante no cargo de Agente Comunitário de Saúde para o polo 07 do Programa de Saúde da Família - Lagoa do Vigário, no prazo de 15 (quinze) dias a contar do trânsito em julgado do presente" (fl. 223), o que caracteriza o erro grosseiro apontado na jurisprudência e subtrai do presente apelo o requisito intrínseco do cabimento, impossibilitando, na linha dos fundamentos supra, juízo positivo de admissibilidade recursal.
+Por fim, diante do não conhecimento do recurso, fica prejudicada a análise do pleito liminar.
+ANTE O EXPOSTO, porque manifestamente incabível o presente recurso ordinário, dele não conheço, com fundamento no que dispõe os arts. 932, inciso III, do CPC/2015 e 34, XVIII, "a", do RISTJ.
+Publique-se.
+EMENTA
