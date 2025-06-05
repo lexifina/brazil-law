@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por FULLGAS ADMINISTRADORA LTDA., com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 192):
+"EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Decisão agravada que acolheu a exceção de pré-executividade apresentada. Inconformismo do exequente. Impossibilidade. ILEGITIMIDADE PASSIVA Matéria de ordem pública, cognoscível de ofício. Sócio que se retirou da sociedade, com averbação na Junta Comercial, antes da emissão dos cheques que deram azo à propositura da execução. Responsabilidade que somente abrange obrigações constituídas anteriormente à sua retirada HONORÁRIOS ADVOCATÍCIOS - Aplicação do princípio da causalidade Jurisprudência pacífica do C. STJ no sentido do cabimento da fixação de honorários de sucumbência em favor do executado, na hipótese de acolhimento, ainda que parcial, da exceção de pré-executividade. Recurso desprovido."
+A parte recorrente alegou, nas razões do recurso especial (e-STJ, fls. 96-105), a violação dos arts. 1003 e 1032 do Código Civil de 2002; 85 do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o recorrido deveria responder pelas obrigações da empresa por dois anos após sua retirada, e que a condenação em honorários advocatícios foi indevida, considerando a boa-fé do exequente. Argumentou que a desconsideração da personalidade jurídica foi deferida em 2015, e que o recorrido foi citado em 2017, não tendo impugnado sua inclusão na lide, o que configuraria preclusão.
+Foram apresentadas contrarrazões (e-STJ, fls. 231-235).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a incidência da Súmula 7 do STJ (e-STJ, fls. 237-239).
+É o relatório. Decido.
+O Tribunal de origem, ao analisar a avaliação pericial, consignou o seguinte excerto (e-STJ, fls. 196-197):
+Igualmente correta a exclusão do coexecutado do polo passivo da execução, haja vista que se retirou do quadro social da empresa em 28.08.2007 (fls. 422/430 da origem), sendo averbado o ato na Junta Comercial em 25.09.2007 (fls. 419/421 da origem item 2).
+Ou seja, quando da inclusão do agravado no polo passivo da execução, este já não fazia mais parte do quadro social da empresa executada, em razão da cessão de suas quotas.
+Outrossim, não merece prosperar a alegação de que remanesce a responsabilidade do coexecutado, porquanto este somente responde pelo prazo de dois anos após a sua retirada pelas obrigações que tinha à época como sócio, previsão esta vertida da literalidade dos arts. 1.003, parágrafo único, e 1.032, ambos do Código Civil, in verbis:
+"Art. 1.003. A cessão total ou parcial de quota, sem a correspondente modificação do contrato social com o consentimento dos demais sócios, não terá eficácia quanto a estes e à sociedade.
+Parágrafo único. Até dois anos depois de averbada a modificação do contrato, responde o cedente solidariamente com o cessionário, perante a sociedade e terceiros, pelas obrigações que tinha como sócio.
+Art. 1.032. A retirada, exclusão ou morte do sócio, não o exime, ou a seus herdeiros, da responsabilidade pelas obrigações sociais anteriores, até dois anos após averbada a resolução da sociedade; nem nos dois primeiros casos, pelas posteriores e em igual prazo, enquanto não se requerer a averbação."
+Logo, conforme informado pelo próprio exequente, os cheques que deram azo à presente execução (fls. 05) somente foram emitidos em 10.10.2008 e 10.11.2008, ou seja, em data posterior a retirada do coexecutado do quadro societário da executada, que se deu em 28.08.2007, averbado na Junta Comercial em 25.09.2007. (Sem grifo no original).
+O Tribunal de origem considerou que crédito exequendo refere-se à obrigação constituída após a retirada do sócio da empresa executada, restando afastada a sua responsabilidade.
+A orientação jurisprudencial consolidada no âmbito do Superior Tribunal de Justiça estabelece que, na hipótese de cessão de quotas sociais, a responsabilidade do cedente pelo prazo de até dois anos após a averbação da modificação contratual limita-se às obrigações sociais assumidas durante o período em que ele ainda era sócio, ou seja, antes de sua retirada da sociedade. Essa interpretação decorre dos artigos 1.003, parágrafo único, 1.032 e 1.057, parágrafo único, do Código Civil de 2002.
+Dessa  forma,  o acórdão recorrido julgou em conformidade com o entendimento desta Corte, incidindo a Súmula 83/STJ.
+Nesse sentido :
+RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUTADA. SOCIEDADE LIMITADA. RESPONSABILIDADE. EX-SÓCIO. CESSÃO. QUOTAS SOCIAIS. AVERBAÇÃO. REALIZADA. OBRIGAÇÕES COBRADAS. PERÍODO. POSTERIOR À
+CESSÃO. ILEGITIMIDADE PASSIVA DO EX-SÓCIO. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia a ser dirimida reside em verificar se o ex-sócio que se retirou de sociedade limitada, mediante cessão de suas quotas, é responsável por obrigação contraída pela empresa em período posterior à averbação da respectiva alteração contratual. 3.
+Na hipótese de cessão de quotas sociais, a responsabilidade do cedente pelo prazo de até 2 (dois) anos após a averbação da respectiva modificação contratual restringe-se às obrigações sociais contraídas no período em que ele ainda ostentava a qualidade de sócio, ou seja, antes da sua retirada da sociedade. Inteligência dos arts. 1.003, parágrafo único, 1.032 e 1.057, parágrafo único, do Código Civil de 2002.
+3. Recurso especial conhecido e provido.
+(REsp n. 1.537.521/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/2/2019, DJe de 12/2/2019 g.n.)
+Quanto aos honorários advocatícios, o acórdão recorrido onsignou que a condenação em honorários advocatícios foi fundamentada no princípio da causalidade, fixando-os em 10% do valor da execução. Dessa forma, para a modificação dos entendimentos lançados no v. acórdão recorrido a fim de verificar a responsabilidade de quem deu causa à instauração da demanda implicaria no revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE PELO ÔNUS PROCESSUAL. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. POSSIBILIDADE (SÚMULA 83/STJ). REVISÃO SOBRE QUEM DEU CAUSA À PROPOSITURA DA DEMANDA (SÚMULA 7/STJ). AGRAVO NÃO PROVIDO.
+1. Ao atribuir a responsabilidade pelos ônus sucumbenciais, deve o julgador observar não apenas quem foi vencido na demanda, conforme o princípio da sucumbência, mas também a parte que deu causa à instauração da lide, de acordo com o princípio da causalidade.
+Precedentes.
+2. Na hipótese, a eg. Corte de origem, atenta às peculiaridades do caso, concluiu que nenhuma das partes deu causa à instauração da demanda, mas sim um terceiro, instituição financeira que descumprira determinação judicial que impedia a prática de atos de execução extrajudicial do bem discutido na ação reivindicatória.
+3. A pretensão de rever a responsabilidade pela propositura da ação exige o reexame detalhado do conjunto probatório juntado aos autos, providência vedada na via do recurso especial, nos termos do entendimento consolidado na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.826.286/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
