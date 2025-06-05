@@ -1,0 +1,13 @@
+DECISÃO
+Às fls. 2.643-2.654 (e-STJ) a parte recorrida, AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL, impugna a decisão monocrática desta relatoria (e-STJ, fls. 2.638-2.639), que determinou a suspensão e remessa dos autos do processo ao Tribunal de origem para aplicação da sistemática dos recursos repetitivos, em decorrência a identidade do objeto do recurso especial com o Tema 1.295 - sobre a possibilidade de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita a paciente com transtorno global do desenvolvimento.
+Alega a impossibilidade de decisão, uma vez que o processo é oriundo de medida liminar, atraindo o óbice da Súmula 735/STF, além de ter sido julgado por sentença que o extinguiu, com fundamento no abandono processual, conforme documentos anexados, motivo pelo qual requer que o recurso seja julgado prejudicado.
+Determinada intimação da parte recorrente para manifestação, no prazo de 15 (quinze) dias úteis, por seus procuradores e pessoalmente, em vista do noticiado abandono processual, não houve manifestação.
+A intimação pessoal não pode ser realizada, em decorrência da mudança de endereço (e-STJ, fls. 2.666-2.670).
+Determinado ao Juízo de origem o envio de informações complementares sobre o trânsito em julgado, não houve resposta (e-STJ, fls. 2.675-2.676).
+É o relatório. Decido.
+De início, em vista da observância do prazo legal de 15 (quinze) dias úteis e da natureza da impugnação deduzida por AMIL, recebo a petição de fls. 2.643-2.654 (e-STJ) como agravo interno. Anoto que a parte contrária foi intimada para manifestação, no mesmo prazo, sobre o teor da presente petição, mas manteve-se inerte, porque possui procurador cadastrado nos autos, além de possuir o dever de manter atualizado o seu endereço, sob pena de fluência do prazo, nos termos do art. 77, V, e 274, parágrafo único, do CPC/2015.
+Em consulta ao processo principal nesta data, por meio do portal de serviços do poder judiciário, foram confirmadas as alegações da AMIL, notadamente a prolação, em 4/10/2023, de sentença de extinção da ação de obrigação de fazer, sem resolução do mérito, motivada no abandono processual; o trânsito em julgado da ação em 31/10/2023; e o cumprimento de sentença impulsionado desde então pela ré, AMIL.
+Desse modo, em decorrência da evidente prejudicialidade da extinção da ação principal, com trânsito em julgado, é realmente inviável o conhecimento do recurso especial, oriundo de agravo de instrumento contra liminar deferida no âmbito da aludida ação extinta, nos termos do art. 932, III, do CPC/2015.
+Diante do exposto, em reconsideração, não conheço do recurso especial interposto por M R E.
+Publique-se.
+EMENTA
