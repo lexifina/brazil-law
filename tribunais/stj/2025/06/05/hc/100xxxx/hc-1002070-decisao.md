@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de KAIQUE HENRIGUE MARTINS SILVA DE SOUZA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.24.348286-6/001).
+O Tribunal de origem deu provimento ao recurso do Ministério Público para condenar o paciente também pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006), e deu parcial provimento ao recurso da defesa para reduzir a pena-base do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), totalizando uma condenação definitiva de 10 (dez) anos e 02 (dois) meses de reclusão, em regime inicial fechado, e 1.430 (mil quatrocentos e trinta) dias-multa (fls. 14-29).
+O impetrante sustenta que o paciente faz jus à causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, alegando que ele é primário, não integra organização criminosa e não se dedica à prática de crimes. Informa, ainda, que o paciente foi absolvido em sede de apelação em outro processo.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a minorante do tráfico, com o redimensionamento da pena nos termos delineados na impetração.
+Limin ar indeferida (fls. 71-72).
+Foram prestadas informações às fls.80-101 e 102-104.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 106-113).
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas, verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de Minas gerais, já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021; AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, decisão monocrática, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, decisão monocrática, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, decisão monocrática, DJe de 04/08/2021; HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, decisão monocrática, DJe de 02/08/2021).
+Além disso, não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada pelo fato de o paciente não preencher os requisitos previstos em lei, tendo em vista ser reincidente e ter sido condenado pela prática de associação para o tráfico de drogas.
+Com efeito, de acordo com entendimento do Superior Tribunal de Justiça,
+é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico (AgRg no AREsp 2219774 /SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 04/06/2024, DJe de 13/06/2024 - grifamos)
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
