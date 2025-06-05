@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão da relatoria do Ministro Marco Aurélio Bellizze, assim ementada (e-STJ fl. 1590):
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FALECIMENTO DA AUTORA NO CURSO DO PROCESSO. FORNECIMENTO DE MEDICAMENTO. DOENÇA ONCOLÓGICA. DIREITO PERSONALÍSSIMO. EXTINÇÃO DO PROCESSO. DANO MORAL. OCORRÊNCIA. REVISÃO. SÚMULA 7 E 83/STJ. RECURSO ESPECIAL IMPROVIDO.
+Segundo a parte embargante, o julgado padeceria dos vícios apontados no art. 1.022 do Código de Processo Civil, o que autorizaria a oposição de aclaratórios contra decisão judicial obscura, contraditória, omissa ou que contenha erro material.
+Intimada nos termos do art. 1.023, § 2º, do Código de Processo Civil, a parte embargada requereu a rejeição dos presentes embargos (e-STJ fls. 1615/1621)
+É o relatório. Decido.
+Os embargos de declaração são tempestivos nos termos do art. 1.023 do Código de Processo Civil.
+No entanto, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões da decisão (e-STJ fls. 1590/1602):
+A controvérsia do presente recurso refere-se à obrigatoriedade, ou não, de custeio de medicamento indicado pelo médico assistente da parte autora, bem como se é devida indenização por dano moral e se, em virtude do falecimento da parte autora, cabe a extinção do processo quanto à obrigação de fazer.
+Dito isso, a Corte de origem manteve o reconhecimento da ocorrência de recusa injustificada, por parte da operadora do plano de saúde, da cobertura do medicamento para tratamento adequado da doença oncológica que acometia a parte beneficiária.
+De início, quanto à alegada perda de objeto ante o falecimento da parte autora, destaco que a Corte Especial deste Superior Tribunal de Justiça, no julgamento do EAREsp n. 1.595.021/SP, relatora Ministra Nancy Andrighi, DJe de 25/4/2023, consolidou o entendimento de que "nas ações relativas a fornecimento de medicação ou custeio de tratamento médico hospitalar, o óbito da parte autora no curso do processo enseja a sua extinção sem resolução de mérito, diante da natureza intransmissível e personalíssima do direito à saúde".
+ ..
+Verifica-se, portanto, que a jurisprudência desta Corte Superior diferencia a obrigação personalíssima (obrigação de fazer - viabilizar o tratamento médico ou fornecer medicamentos) da obrigação de caráter patrimonial (obrigação de pagar - reembolso de despesas feitas antecipadamente pelo consumidor do Plano de Saúde) para definir a possibilidade ou não de sucessão processual no polo ativo da demanda.
+Assim, por ocasião do julgamento do EAREsp n. 1.595.021/SP, a Corte Especial firmou orientação no sentido de que nas ações de obrigação de fazer em que se pleiteia tratamento médico ou fornecimento de medicamento, sendo ações personalíssimas, a morte da parte demandante acarreta a extinção do feito, sem resolução de mérito, nos termos do art. 485, IX, do Código de Processo Civil.
+Na hipótese sob exame, a parte autora cumulou pedidos de obrigação de fazer (fornecimento do medicamento Yondelis e) e de obrigação de pagar (pedido de de indenização por danos morais) - fls. 2-55 (e-STJ).
+Nesse contexto, no que toca à obrigação de fazer, nos termos do entendimento firmado nos EAREsp n. 1.595.021/SP, Corte Especial, DJe de 25/4/2023, impõe-se a extinção parcial do processo sem resolução de mérito, diante da natureza intransmissível e personalíssima do direito à saúde.
+Quanto à indenização por danos morais, segundo a jurisprudência pacificada no âmbito desta Corte Superior nos termos da Súmula n. 642 do STJ: "O direito à indenização por danos morais transmite-se com o falecimento do titular, possuindo os herdeiros da vítima legitimidade ativa para ajuizar ou prosseguir a ação indenizatória".
+A esse respeito:
+ ..
+Desse modo, necessário a análise da questão relacionada ao direito de indenização por danos morais, devido a negativa de fornecimento/custeio de medicamento à parte autora.
+Com efeito, a jurisprudência desta Corte Superior firmou-se no sentido de que as operadoras de plano de saúde possuem o dever de cobertura de exames, procedimentos ou medicamentos utilizados em tratamento contra o câncer, como no caso dos autos, bem como a natureza taxativa ou exemplificativa do rol da ANS, nessas hipóteses, é desinfluente à análise da obrigatoriedade de custeio.
+ ..
+No caso, o Tribunal estadual, em virtude da negativa de prestação de serviço, manteve a indenização por danos morais, nos seguintes termos (e-STJ, fls. 710-711):
+ ..
+Acerca da pretensão de afastar a condenação ao pagamento de indenização por danos morais, "consoante a jurisprudência do STJ, "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário" (AgInt no REsp n. 1.945.677/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+ ..
+Desse modo, incide, no ponto, também o óbice da Súmula 83/STJ.
+Além disso, a alteração das conclusões adotadas pela Corte estadual (quanto à ocorrência de danos morais indenizáveis) demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 1.000,00 (mil reais).
+No que toca à obrigação de fazer, julgo extinto o processo, sem resolução de mérito, diante da natureza intransmissível e personalíssima do direito à saúde, nos termos do art. 485, IX, do Código de Processo Civil.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+A natureza dos embargos de declaração é integrativa e aclaratória, sendo cabíveis, nos termos do art. 1.022 do Código de Processo Civil, somente quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial, sem, contudo, permitir a rediscussão do mérito da causa ou a modificação do julgado, salvo nas hipóteses legais e apenas para a supressão dos referidos vícios internos da decisão.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO INEXISTENTE. SIMPLES REITERAÇÃO DE ARGUMENTOS EM RECURSOS ANTERIORES. CARÁTER MANIFESTAMENTE PROTELATÓRIO. REJEIÇÃO COM APLICAÇÃO DE MULTA. VALOR DA CAUSA BAIXO. FIXAÇÃO EM VALOR CONDIZENTE COM O ESCOPO SANCIONADOR.
+1. Os embargos de declaração, a teor do art. 1022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A simples reiteração, nos embargos de declaração, dos argumentos contidos em recursos anteriores e que foram devidamente examinados denota manifesto intuito protelatório a ensejar aplicação da multa do art. 1026, § 2º, do CPC. Precedentes.
+3. O percentual de aplicação da multa pela sanção processual na interposição de embargos de declaração manifestamente protelatórios do art. 1026, § 2º, do CPC, pode ser substituído por fixação de valor apto a atingir o escopo sancionador e dissuasório quando constatado valor da causa baixo ou irrisório, segundo permitido pelos arts. 80, VII, e 81, § 2º, do CPC. Precedentes.
+4. Hipótese em que o valor da causa é de R$ 1.000,00 e a multa por embargos de declaração protelatórios é fixada em R$ 2.000,00.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no AREsp n. 2.074.424/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 13/2/2025.)
+Noutro passo, não há contradição quando os fundamentos e a conclusão do julgado guardam coerência lógica entre si. A contradição apta a ensejar embargos de declaração refere-se a uma incompatibilidade interna na decisão, como quando os fundamentos apontam para uma conclusão, mas o dispositivo apresenta outra. As divergências entre o entendimento do órgão julgador e a tese sustentada pela parte ou entre órgãos julgadores distintos não se confundem com contradição, tratando-se, na verdade, de irresignação recursal incabível pela via aclaratória.
+Sobre o tema, "a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão, o que não se verifica no caso concreto" (AgInt no REsp n. 2.152.327/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025).
+O Tema n. 1.059 / STJ: "A majoração dos honorários de sucumbência prevista no art. 85, §11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, §11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+Contudo, o recurso especial foi negado provimento.
+Diante desses conceitos e do trecho acima citado da decisão aqui embargada, observa-se que os presentes aclaratórios refletem mera irresignação da parte com o resultado do julgamento, revelando a necessidade de sua imperiosa rejeição.
+Pelo exposto, manifesto meu voto pela rejeição destes embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
