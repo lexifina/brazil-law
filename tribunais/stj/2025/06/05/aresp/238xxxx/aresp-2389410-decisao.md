@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PRONTIMAGEM SERVIÇOS MÉDICOS LTDA contra decisão exarada pela il. Primeira Vice-Presidência do eg. Tribunal de Justiça do Estado de Pernambuco (TJ-PE), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 253):
+"EMENTA: APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS ESTÉTICOS E MORAIS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. CLÍNICA PRESTADORA DE SERVIÇOS. EXAME DE IMAGEM COM CONTRASTE. TROMBOSE. RESPONSABILIDADE OBJETIVA. CASO FORTUITO INTERNO. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO. R$ 10.000,00 (DEZ MIL REAIS). TRANSMISSIBILIDADE DOS DANOS MORAIS. PRECEDENTES DESTE TRIBUNAL. DANOS ESTÉTICOS NÃO CONFIGURADOS. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PARA 15% DO VALOR DA CONDENAÇÃO. RECURSO PARCIALMENTE PROVIDO. DECISÃO UNÂNIME."
+Nas razões do apelo nobre (fls. 264-308), PRONTIMAGEM SERVIÇOS MÉDICOS LTDA aponta, além de divergência jurisprudencial, ofensa ao art. 373, I, do CPC/15 e aos arts. 186, 187 e 927 do Código Civil, afirmando, entre outros argumentos, que "(..) não há nos autos elementos probatórios suficientes a demonstrar a ocorrência de danos morais" (fls. 277 - destaques no original).
+Aduz, também, que "(..) em de nenhum momento restou que efetivamente culpa quaisquer profissionais atenderam o paciente na Clínica recorrente, sendo certo que a culpa não pode ser presumida, ao contrário, deve ser exaustivamente comprovada por parte daquele que a alega" (fls. 278 - destaques no original).
+Defende que "(..) as provas coligidas aos autos se revelam absolutamente insuficientes para imputar à parte recorrente a prática de qualquer ato ilícito. Ao contrário, o acervo probatório colhido no presente feito é incisivo no sentido de que não houve nenhuma intercorrência no decorrer do referido exame, tampouco ocorreu alegado extravasamento do contraste aplicado." (fls. 283 - destaques no original).
+Assevera, ainda, que o valor da indenização fixada em R$ 10.000,00 (dez mil reais) se mostra exorbitante e deve ser reduzido.
+Intimados, CRISTIANE DA SILVA SOARES e FERNANDO AUGUSTO DA SILVA SOARES apresentaram contrarrazões (fls. 316-321), pelo desprovimento do recurso.
+O apelo nobre foi inadmitido (decisão às fls. 324-326), motivando o agravo em recurso especial (fls. 329-339) em testilha.
+Não foi oferecida contraminuta (vide certidão à fl. 342).
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-PE, reformando sentença, fundamentou-se expressamente no art. 14, §3º, do Código de Defesa do Consumidor para reconhecer a responsabilidade civil da ora Agravante, pelos danos morais causados à ora Agravada, fixando a respectiva indenização em R$ 10.000,00 (dez mil reais), conforme v. acórdão estadual do qual se transcreve o seguinte excerto:
+"Cinge-se a lide em saber se há indenização por danos morais e estéticos decorrentes de exame de imagem com contraste realizado pela autora, ora falecida, devidamente sucedida por seus herdeiros no presente feito.
+Assiste razão, em parte, aos demandantes.
+Analisando atentamente as provas acostadas, bem como os depoimentos prestados em juízo, observa-se que a autora, ora falecida, era portadora de câncer, sendo prescrito pelo seu médico a realização de exame de imagem com contraste.
+Em 16.07.2010 foi realizado o referido exame, sendo-lhe aplicado o contraste. (fls. 09). Em 20.07.2010, quatro dias após a realização do exame de imagem, foi diagnosticada com "trombose venosa profunda e superficial aguda no membro superior esquerdo" (fls. 11 e 16).
+A preposta da Clínica, Sra. Rita de Cássia Silva, disse em juízo que "todos os exames que se realizam na empresa demandada, são feitos mediante assistência médica; que sabe dizer que a paciente retornou a empresa demandada, queixando-se de um inchaço na mão, mas como a recepcionista que no caso faz parte do pessoal administrativo, não tem competência para resolver estes casos, é que encaminhou para o médico; (..) que sabe informar que todo médico ao atender um paciente tem que abrir um prontuário de atendimento médico, mas no caso em questão, a demandante foi apenas fazer uma reclamação, mostrar a mão; que sabe informar que o médico plantonista não abre um prontuário de atendimento médico porque ele apenas, e se for o caso, encaminha paciente para uma unidade de urgência ou para uma clínica para que ele seja atendido". (fls. 139)
+Por sua vez, o médico Rodrigo Gomes do Nascimento, CRM nº 14426 afirmou que "recorda-se de ter atendido a requerente; que foi realizado uma tomografia computadorizada do tórax, para acompanhamento do tratamento médico a que era submetida a requerente na época do exame (..) que para todo exame deste tipo a um risco de reação alérgica, razão da qual são tomados todos os cuidados aqui elencados; que ao se injetar o contraste, observa-se a reação do paciente, e é feito o mesmo procedimento ficando o paciente em observação por cerca de 10 a 15 minutos após o exame; decorrido este prazo, o paciente é liberado (..) que quando se fura uma veia até para se fazer um exame de sangue existem o risco de acontecer uma tromboflebite, que é uma trombose de veia superficial, assim é diferente de uma trombose de veia profunda; que olhando para as fotos de fls. 16 não tem como dizer se houve uma tromboflebite, podendo ter havido um problema vascular ou um outro problema" (fls. 141).
+Como é cediço, em se tratando de relação de consumo, aplica-se o art. 14 do Código de Defesa do Consumidor, respondendo o fornecedor de serviço objetivamente pela reparação dos danos causados aos consumidores. No que tange à exclusão da responsabilidade, o §3º prevê as seguintes hipóteses:
+§ 3º O fornecedor de serviços só não será responsabilizado quando provar:
+I - que, tendo prestado o serviço, o defeito inexiste;
+II - a culpa exclusiva do consumidor ou de terceiro.
+Ademais, para além das exclusões previstas na legislação, é possível excluir a responsabilidade objetiva do fornecedor de serviços nas hipóteses de caso fortuito externo ou força maior. Em relação ao caso fortuito interno, ensina a melhor doutrina:
+"Lembre-se, contudo, da distinção entre o caso fortuito interno e o caso fortuito externo, admitindo-se que apenas quando se trate da segunda hipótese (externo) existiria excludente de responsabilidade. O caso fortuito interno consistiria no fato "inevitável e, normalmente, imprevisível que, entretanto, liga- se à própria atividade do agente. In sere-se, - portanto, entre os riscos com os quais deve arcar aquele, no exercício da autonomia privada, gera situações potencialmente lesivas à sociedade" 1
+Compulsando-se os autos, verifica-se que em nenhum momento a Clínica apelada conseguiu provar a ausência de relação entre o contraste aplicado para realização do exame de imagem e a trombose sofrida pela autora. Em verdade, verifica - se que o dano sofrido pela parte autora é uma hipótese de caso fortuito interno da atividade prestada pela Clínica, não sendo possível a exclusão de sua responsabilidade no presente caso.
+No que concerne aos danos morais, para sua configuração é necessário que se evidencie a existência de relevante ofensa aos direitos da personalidade, tais como o direito à honra, imagem, reputação, dignidade, intimidade.
+(..)
+No caso em análise, os danos morais são evidentes, face ao sofrimento e angústia suportados pela autora, ora falecida, ao realizar um exame a fim de melhorar sua saúde e ser acometida de uma doença grave em decorrência do mesmo.
+Na fixação do valor indenizatório, deve-se atentar para que este seja suficiente para compensar a vítima em razão do dano sofrido, além disso, a indenização deve se prestar, também, como fator pedagógico-inibitório, a fim de evitar que condutas reprováveis como esta voltem a acontecer. Devem ser considerados o grau de intensidade da culpa do ofensor, a condição socioeconômica da vítima e capacidade de o réu suportar o valor indenizatório.
+Nesse diapasão, considerando princípios da razoabilidade e proporcionalidade, e a extensão do dano sofrido pela autora, não vislumbro outra solução senão condenar a clínica em indenização por danos morais no valor de R$ 10.000,00 (dez mil reais).
+(..)
+Com tais considerações, meu voto é no sentido de DAR PARCIAL PROVIMENTO ao presente apelo, para condenar o apelado ao pagamento, a título de indenização por dano moral, a importância de R$ 10.000,00 (dez mil reais), incidindo juros de mora de 1% ao mês, a partir do evento danoso (Súmula 54/ST1), com correção monetária pela tabela do ENCOGE a partir desta." (fls. 254-258 - g. n.)
+Por sua vez, o apelo nobre, ao apontar tão-somente ofensa ao art. 373, I, do CPC/15 e aos arts. 186, 187 e 927 do Código Civil, deixou de impugnar a fundamentação ora destacada referente à exegese do art. 14, §3º, do CDC, a qual é suficiente para a manutenção do v. acórdão estadual. Assim sendo, o apelo nobre encontra óbice na Súmula n. 283/STF. Nessa linha de intelecção, destacam-se:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE MANUTENÇÃO DE POSSE. ADEQUAÇÃO DA VIA ELEITA. COMPOSSE. ESBULHO. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+(..)
+5. A ausência de impugnação específica aos fundamentos do acórdão recorrido justifica a aplicação da Súmula n. 283 do STF.
+(..)"
+(AgInt no AREsp n. 2.481.960/MT, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/2/2025, DJEN de 20/2/2025 - g. n.)
+"AGRAVO INTERNO. RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PERÍCIA. NECESSIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. CÁLCULO DO CREDOR. PRESUNÇÃO RELATIVA DE VERACIDADE. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA. FUNDAMENTO NÃO IMPUGNADO.
+(..)
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.145.154/SC, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 9/12/2024, DJEN de 13/12/2024 -g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. VIOLAÇÃO DOS ARTS. 1.022, II, e 489, § 1º, IV, DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 319, IV, DO CPC. INÉPCIA DA INICIAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. VIOLAÇÃO DO ART. 17 DO CPC. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO POR OUTROS FUNDAMENTOS.
+(..)
+4. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do julgado acarreta a incidência da Súmula n. 283 do STF.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.664.039/MS, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 25/11/2024, DJEN de 29/11/2024.)
+Melhor sorte não socorre ao recurso pela divergência pretoriana.
+Com feito, a iterativa jurisprudência desta eg. Corte é no sentido de que a incidência da Súmula n. 283/STF também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, confiram-se ainda:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+(..)
+2. A incidência da Súmula 283 do STF na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+3. Embargos de declaração acolhidos, sem efeitos infringentes."
+(EDcl no AgInt no AREsp n. 1.733.520/MS, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 12/4/2021, DJe de 13/5/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TELEFONIA MÓVEL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. INVERSÃO DO ÔNUS DA PROVA. VIOLAÇÃO AO ART. 6º, VIII, DO CDC. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+(..)
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Com efeito, se a pretensão do recorrente foi afastada por ausência de impugnação ao fundamento central do acórdão recorrido, suficiente para mantê-lo, o conhecimento do recurso especial fica inviabilizado tanto em relação à alínea a como à alínea c, em razão do óbice da Súmula n. 283 do STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.570.023/RN, relator MINISTRO MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
