@@ -1,0 +1,42 @@
+DECISÃO
+Em análise, recurso especial interposto por MAERSK LOGISTICS & SERVICES BRASIL LTDA em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+AGRAVO INTERNO. ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE NO PROCEDIMENTO ADMINISTRATIVO FISCAL AFASTADA. AINDA QUE INTEMPESTIVO O RECURSO ADMINISTRATIVO SUSPENDE A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. EXCLUSÃO DE MULTA EM EMBARGOS DE DECLARAÇÃO-PRECEDENTES. RECURSO PARCIALMENTE PROVIDO.
+1. Não conheço do reexame necessário, nos termos do art. 496, § 3º, I, do CPC, tendo em vista que o valor do crédito tributário é de R$ 48.582,00 em 26/11/2019 (Id. 280893313).
+2. A r. sentença deve ser reformada, pois contraria o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Recurso Especial 1.113.959/RJ, submetido ao rito do art. 543-C do CPC, segundo o qual "o recurso administrativo suspende a exigibilidade do crédito tributário, enquanto perdurar o contencioso administrativo, nos termos do art. 151, III do CTN, desde o lançamento (efetuado concomitantemente com auto de infração), momento em que não se cogita do prazo decadencial, até seu julgamento ou a revisão ex officio, sendo certo que somente a partir da notificação do resultado do recurso ou da sua revisão, tem início a contagem do prazo prescricional, afastando-se a incidência da prescrição intercorrente em sede de processo administrativo fiscal, pela ausência de previsão normativa específica" (REsp 1.113.959/RJ, Rel. Ministro Luiz Fux, Primeira Turma, DJe de 11/03/2010).
+3. Referido entendimento é aplicável mesmo no caso de impugnação administrativa intempestiva. Precedentes do Superior Tribunal de Justiça e desta Corte Regional Federal.
+4. In casu, a impugnação administrativa foi considerada intempestiva em 21/11/2019, não havendo que se cogitar de prescrição.
+5. Apelação provida, com inversão da sucumbência.
+6. A insurgência no que diz respeito a imposição de multa no julgamento dos Embargos de Declaração, na forma do art. 1.026, § 2º, do CPC, encontra amparo na jurisprudência superior, na medida em que se afasta o caráter protelatório do recurso destinado ao prequestionamento (Súmula 98/STJ), razão pela qual deve ser afastada.
+7. Agravo interno parcialmente provido. (fl. 671)
+Opostos embargos de declaração, foram rejeitados (fls. 712/727).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta ofensa aos arts. 489, 493, 933, caput, e 1.022, I e II, parágrafo único, do CPC; 206-A do Código Civil; e 1º, § 1º, da Lei 9.873/1999.
+Contrarrazões às fls. 751/761.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Inicialmente, observa-se que "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No tocante à análise dos arts. 493, 933, caput, do CPC; 206-A do Código Civil; e 1º, § 1º, da Lei 9.873/1999, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Ademais, observo que a previsão contida nos dispositivos apontados nas razões recursais não possuem comando normativo apto para infirmar a fundamentação exposta no acórdão recorrido acerca da suspensão da exigibilidade do crédito tributário e da respectiva contagem do prazo decadencial/prescricional, bem como da impossibilidade de prescrição inter corrente em sede de procedimento administrativo fiscal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR PREPARATÓRIA. PROCESSO PRINCIPAL EXTINTO, COM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO DA CAUTELAR. SUPOSTA VIOLAÇÃO AO DISPOSITIVO INDICADO. COMANDO NORMATIVO INAPTO DE SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. VERIFICAÇÃO DE INTERESSE PROCESSUAL E AUSÊNCIA DE PERDA DO OBJETO. QUESTÃO ATRELADA AO CONTEXTO FÁTICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial exige que o citado dispositivo legal indicado como violado possua comando normativo apto de sustentar a tese recursal que fundamenta a alegada violação, sob pena de atrair a incidência da Súmula 284 do STF, por analogia.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.241.565/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023 - Grifo nosso).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DEPÓSITO JUDICIAL PARA FINS DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. LEVANTAMENTO. ART. 166. DO CTN. INAPLICABILIDADE. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É deficiente a fundamentação do recurso especial quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VI- Agravo Interno improvido (AgInt no REsp n. 2.057.639/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/6/2023, DJe de 7/6/2023 - Grifo nosso).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
