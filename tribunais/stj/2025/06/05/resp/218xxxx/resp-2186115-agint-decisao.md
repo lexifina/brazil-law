@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por COOPERATIVA REGIONAL DE DESENVOLVIMENTO TEUTONIA - CERTEL contra decisão da il. Presidência deste Tribunal Superior que, por ausência de indicação de artigo de lei federal que poderia estar sendo violado pelo acórdão recorrido, não conheceu de recurso especial.
+A parte agravante pretende a admissão de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual discute a legalidade da inclusão dos valores relacionados ao pagamento da contribuição ao PIS e da COFINS nas bases de cálculo dessas próprias contribuições.
+É o relatório necessário. Decido.
+Observa-se ser necessária a reconsideração da decisão agravada, pois o Supremo Tribunal Federal reconheceu a repercussão geral do tema 1067, no RE 1.233.096/RS, para o fim de definir tese a respeito da constitucionalidade da inclusão dos valores relacionados ao pagamento da contribuição ao PIS e da COFINS nas bases de cálculo dessas próprias contribuições.
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para o sobrestamento do recurso especial até o exercício do juízo de conformação pelo órgão julgador com a tese a ser definida pelo Supremo Tribunal Federal, no precedente qualificado.
+Ante o exposto, reconsiderou a decisão agravada e determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pelo STF; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Ficam prejudicados o recurso especial e o agravo interno.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. TEMA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
