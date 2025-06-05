@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por AUDAX EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundado no art. 105, III, "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 928/930):
+Justiça gratuita. A renovação do pedido de gratuidade é admissível, desde que haja a alteração da situação financeira e patrimonial do postulante, sob pena de tornar o segundo pedido de gratuidade em uma revisão da decisão de indeferimento outrora proferida. Elementos fáticos retratados nos autos revelam a ausência dos requisitos para o deferimento. Pedido de gratuidade indeferido. Fixação de prazo para realização do preparo recursal. Recurso não conhecido, por ora, com determinação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1017/1020).
+Em suas razões recursais, a parte recorrente alegou violação aos arts. 99 e 1.022, II, ambos do Código de Processo Civil, sustentando, em síntese, omissão do acórdão recorrido quanto à análise dos balanços patrimoniais, extratos bancários e bloqueio patrimonial sofridos.
+No mérito, defende a possibilidade de concessão do benefício da justiça gratuita para pessoas jurídicas, desde que demonstrem a impossibilidade de arcar com os encargos processuais.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+Inicialmente, quanto à alegada omissão, esclarece-se que não houve ofensa ao citado dispositivo, uma vez que o acórdão analisou a questão essencial ao deslinde da controvérsia e está fundamentado nas circunstâncias inerentes aos autos.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. CIRURGIA ORTOGNÁTICA. CIRURGIÕES DENTISTAS. RESPONSABILIDADE CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. CULPA DE TERCEIRO. NÃO COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DANOS MORAIS. "QUANTUM" INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE MANDATO. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.195.469/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 29/5/2023, DJe de 3/7/2023.)
+Quanto à controvérsia, manifestou-se o acórdão recorrido no sentido de que a parte recorrente não logrou êxito em comprovar sua situação de incapacidade financeira, resultando em novo indeferimento do pedido de concessão da benesse da gratuidade de justiça, in verbis (e-STJ, fls. 929/930 ):
+"A parte apelante requer, em seu recurso de apelação, os benefícios da gratuidade da justiça. Contudo, o pedido de gratuidade já havia sido indeferido pelo Douto Juiz a quo (fls. 157).
+É cediço que a renovação do pedido de gratuidade é admissível, desde que haja a alteração da situação financeira e patrimonial do postulante, sob pena de tornar o segundo pedido de gratuidade em uma revisão da decisão de indeferimento outrora proferida.
+No caso em tela, a apelante não comprovou essa alteração de sua situação financeira e patrimonial.
+Nesse sentido, apresenta declaração ausência de faturamento no período de fevereiro/2018 a fevereiro/2021 (fls. 848). Todavia, o recurso de apelação foi interposto em fevereiro/2022, inexistindo nos autos comprovação de inatividade ou de faturamento no período posterior a fevereiro/2021.
+Mais ainda, apresenta o capital social de R$ 4.000.000,00 (quatro milhões) (fls. 132), o que é incompatível com a alegação de inexistência de recurso para arcar com o preparo da apelação, ainda que seja alegada crise financeira, bloqueio de bens e existência de ações judiciais.
+Assim, indefere-se o pedido de concessão dos benefícios da gratuidade da justiça, intimando-se a apelante para, no prazo de 5 (cinco) dias, contados da publicação do presente Acórdão, efetuar o preparo do recurso, sob pena de não conhecimento."  g.n
+Nesta senda, consta do comando sumular n. 481/STJ, que o direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com as despesas processuais. Assim, a pretensão da parte recorrente, no sentido de que seja reconhecido seu direito à concessão do benefício, é imprópria ao veio do recurso especial, ante a necessidade de se reexaminar provas, vedada pela Súmula 7/STJ.
+Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+1. "É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício" (AgRg nos EREsp 1.222.355/MG, Relator Ministro RAUL ARAÚJO, Corte Especial, julgado em 4/11/2015, DJe de 25/11/2015).
+2. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+4. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência vedada nesta instância, nos termos da Súmula 7/STJ.
+5. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+6. Agravo interno provido para conhecer do recurso especial e negar-lhe provimento.
+(AgInt no REsp n. 2.149.406/AC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025)  g.n
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA EMBARGOS À EXECUÇÃO. PESSOA JURÍDICA. GRATUIDADE DA JUSTIÇA. PROVA DA HIPOSSUFICIÊNCIA. REEXAME FÁTICO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento monocrático de recurso inadmissível, pela Presidência do STJ, encontra previsão no art. 21-E, V, do RISTJ, que possibilita ao Presidente desta Corte, antes da distribuição, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente os fundamentos da decisão recorrida. Desse modo, inexiste violação do princípio da colegialidade, ainda mais quando subsiste a possibilidade da interposição de agravo interno contra a deliberação unipessoal.
+2. A alteração da conclusão do acórdão recorrido de não ter ficado comprovados os requisitos para a concessão do benefício da justiça gratuita pleiteado exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.709.209/RS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024). g.n
+RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. RESTITUIÇÃO. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO. PROCESSUAL CIVIL. QUESTÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PESSOA JURÍDICA. GRATUIDADE DE JUSTIÇA. PROVA DA CONDIÇÃO QUE LEGITIMA O BENEFÍCIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Nos termos do Tema 938/STJ, incide a "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem .." (artigo 206, § 3º, IV, do CC).
+2. Não tendo havido pronunciamento no acórdão do Tribunal de Justiça sobre o conteúdo normativo dos dispositivos tidos por violados, ressente-se o especial do necessário prequestionamento. Súmula 211/STJ.
+3. Consoante a Súmula 481/STJ, o direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com as despesas processuais. Firmar conclusão em sentido contrário à adotada pelo acórdão recorrido, no sentido de deferir o benefício, no caso concreto, encontra óbice na Súmula 7/STJ.
+4. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 2.063.546/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)  g.n
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
