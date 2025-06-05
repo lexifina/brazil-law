@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Recurso Ordinário em Mandado de Segurança interposto por ALO SERVICOS EMPRESARIAIS LTDA. em desfavor de acórdão prolatado pelo TJMT que denegou o mandado de segurança e restou assim ementado:
+MANDADO DE SEGURANÇA - ATO COATOR IMPUTADO AO OFICIAL DE JUSTIÇA E AO MAGISTRADO - DECISÃO DETERMINOU A IMEDIATA COMPLEMENTAÇÃO DO VALOR DA DILIGÊNCIA DE CITAÇÃO - CITAÇÃO QUE FOI REALIZADA MESMO SEM A COMPLEMENTAÇÃO DAS REFERIDAS CUSTAS - INEXISTENCIA DE OFENSA A DIREITO LIQUIDO E CERTO - EXIGENCIA DE COMPLEMENTAÇÃO DE CUSTAS QUE DESAFIA RECURSO DOTADO DE EFEITO SUSPENSIVO - ORDEM DENEGADA. Não se verifica a existência de ofensa a direito líquido e certo decorrente de ordem judicial de complementação de custas para a realização de citação se o ato citatório já foi realizado mesmo sem a referida complementação de custas. Também descabe a utilização de mandado de segurança contra decisão que desafia recurso dotado de efeito suspensivo.
+Afirma a recorrente, em suma, o cabimento do "mandamus", que "O Oficial de Justiça - a Autoridade Coatora do Mandado de Segurança - ao receber o mandado de citação informou nos autos a necessidade de complementação dos valores pagos pela Impetrante, condicionando o cumprimento do mandado à complementação" e que "Após ser intimada acerca do impulsionamento do processo e se espantando com a arbitrariedade cometida pelo Oficial de Justiça, manifestou-se a Recorrente acerca da contrariedade quanto à exigibilidade do pagamento da complementação ".
+Postula: "seja concedida a segurança para declarar inexigível a complementação do valor de R$ 2.465,69 (dois mil e quatrocentos e sessenta e cinco reais e sessenta e nove centavos) cobrado pela Autoridade Coatora".
+É o relatório. DECIDO.
+Dispõe o art. 105, II, "b" que "Compete ao Superior Tribunal de Justiça: (..) II - julgar, em recurso ordinário: (..) b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+A previsão constitucional é secundada pelo RISTJ, que, em seus arts.
+247 e 248, estabelece:
+Art. 247. Aplicam-se ao recurso ordinário em mandado de segurança, quanto aos requisitos de admissibilidade e ao procedimento no Tribunal recorrido, as regras do art. 1.028 do Código de Processo Civil. (Redação dada pela Emenda Regimental n. 22, de 2016) Art. 248. Distribuído o recurso, a Secretaria fará os autos com vista ao Ministério Público pelo prazo de cinco dias.
+Parágrafo único. Conclusos os autos ao relator, este pedirá dia para julgamento.
+Por remissão à legislação processual civil, a interposição recursal ordinária em sede de julgamento de Mandado de Segurança encontra-se submetida ao prazo de 15 dias da apelação, nos termos dos arts.
+1.028 c/c 1.003, § 5º do CPC.
+Versando a hipótese interposição tempestiva em face de acórdão denegatório da segurança, deve o recurso ordinário ser conhecido.
+No que tange o cabimento de Mandado de Segurança em face de decisão judicial, de há muito se firmou a jurisprudência do STF no sentido de que: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição." (Súmula 267)
+No presente feito, a parte se insurge em face de ato praticado pelo oficial de justiça em cumprimento de mandado que, ao fim, como pontuado pela corte de origem, "foi efetivamente cumprido ou seja, com ou sem a complementação exigida pela origem, a citação foi realizada." (e-STJ Fl.129)
+Assim, observa-se que o próprio interesse processual no recurso encontra-se prejudicado, sendo certo que, mesmo que assim não fosse, a providência tida como coatora, acaso chancelada pelo judiciário e tida por ilícita poderia ser alvo de eventual recurso de apelação ou mediante propositura da ação cabível para reaver a quantia.
+Dessa forma, nego liminarmente provimento ao recurso ordinário em mandado de segurança, com amparo no art. 34, XVIII, "b", do RISTJ.
+EMENTA
