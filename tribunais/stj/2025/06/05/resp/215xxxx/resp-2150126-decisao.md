@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL - ASABB contra acórdão assim ementado (fl. 120):
+AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Incidente de concurso de credores. Insurgência do Exequente em face da decisão que fixou a ordem de pagamento.
+ANTERIORIDADE DA PENHORA. Alegação de que a averbação da penhora sobre o imóvel se deu em momento anterior. Não acolhimento. Preferência do credor que primeiro tiver lavrado o auto de penhora em sua execução (art. 838, CPC). Irrelevante a ordem de averbação no registro do imóvel. Precedentes.
+HONORÁRIOS ADVOCATÍCIOS DECORRENTES DA IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO. Posterior cessão do crédito. Honorários advocatícios que possuem natureza autônoma e são devidos aos advogados que patrocinaram a causa. Termo de Cessão de Crédito que previu a ausência de cessão dos honorários advocatícios.
+HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL. Verba que decorre de embargos à execução e ação monitória. Ausência de relação com os presentes autos. Possível a limitação de crédito a 150 salários-mínimos por execução. Analogia ao art. 83, I, da Lei nº 11.101/2005. Precedentes.
+Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 384-388 ).
+No recurso especial (fls. 245-268), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta violação dos arts. 85, § 14, e 908 do CPC, 83, I, da Lei n. 11.101/2005, e 24, § 1º, da Lei n. 8.909/1994 na medida em que, no concurso particular de credores, não é possível a limitação de 150 salários mínimos para penhora.
+Foram oferecidas contrarrazões (fls. 468-481).
+É o relatório.
+Decido.
+A irresignação merece acolhida.
+Com efeito, extraem-se os seguintes fundamentos do acórdão recorrido (fls. 123-124):
+No tocante aos honorários em favor da Associação dos Advogados do Banco do Brasil, a tese arguida pelo Agravante prospera em parte.
+Em que pese o caráter alimentar e, portanto, preferencial no concurso de credores, a jurisprudência do C. Superior Tribunal de Justiça, por analogia ao art. 83 da Lei nº 11.101/05, vem aplicando a limitação de preferência a 150 salários-mínimos às execuções individuais contra devedor solvente: REsp 1.438.771/AL, de relatoria do Ministro Mauro Campbell Marques, DJe 20/11/2014; AgInt no REsp 1.636.831, de relatoria do Ministro Marco Aurélio Bellizze, DJE 01/08/2017 e, em tal direção, esta E. Corte de Justiça também assim deliberou.  .. .
+Nesse contexto, verifica-se que o entendimento do Tribunal de origem está em dissonância com a jurisprudência desta Corte, no sentido de que se afigura "incabível, no particular, a aplicação do limite de 150 salários-mínimos previsto no art. 83, I, da Lei 11.101/05, haja vista as diferentes características e objetivos da falência (concurso universal) e do concurso particular instaurado entre credores detentores de idêntico privilégio" (REsp n. 1.989.088/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/5/2022). A propósito:
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CRÉDITO TRABALHISTA. EXECUÇÃO. CONCURSO SINGULAR DE CREDORES. LIMITAÇÃO. PAGAMENTO. 150 SALÁRIOS-MÍNIMOS. INAPLICABILIDADE. REGRA ESPECIAL. CONCURSO UNIVERSAL DE CREDORES. ANALOGIA. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. O limite de 150 (cento e cinquenta) salários-mínimos, previsto no art. 83, I, da Lei n. 11.101/2005 para pagamento preferencial de crédito trabalhista em concurso universal de credores, não se aplica por analogia ao concurso singular, em razão da diversidade dos propósitos de cada um dos procedimentos e de suas particularidades.
+2. Recurso provido para afastar a restrição do pagamento do crédito de honorários advocatícios ao limite previsto no art. 83, I, da Lei n.11.101/2005.
+(REsp n. 1.839.608/SP, de minha relatoria, Quarta Turma, julgado em 20/2/2024, DJe de 27/2/2024.)
+No julgamento acima sintetizado, asseverei que o concurso singular ocorre no contexto da execução por quantia certa, de forma individualizada, contra devedor solvente, cujo procedimento está descrito nos arts. 905, 908 e 909 do CPC. Dessa maneira, o Código de Processo Civil permite mais de uma penhora sobre o mesmo bem, decorrentes de execuções. Assim, no caso do concurso singular, o legislador não se preocupou em atender à pretensão de todos os credores, somente participando da disputa pelo bem apreendido e pelo respectivo produto da aliena ção daqueles que ajuizaram a execução.
+Por outro lado, a falência e a recuperação judi cial fazem parte do chamado concurso universal ou coletivo, em que, após declaração judicial de insolvência, é realizado o levantamento e a arrecadação dos bens, com a convocação de todos os credores para participarem do processo. Por conseguinte, no concurso coletivo, o legislador concedeu um tratamento global ao falido ou insolvente, com a liquidação de todo o seu patrimônio e a formação da massa ativa e passiva.
+Em tais circunstâncias, havendo mais diferenças do que semelhanças entre os procedimentos, não é possível, por analogia, utilizar previsão normativa específica do concurso universal, a fim de restringir direito preferencial do credor singular no recebimento integral de seu créd ito de natureza alimentar.
+Ante o exposto, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para afastar a restrição do pagamento do crédito de honorários advocatícios ao limite previsto no art. 83, I, da Lei n. 11.101/2005.
+Publique-se e intimem-se.
+EMENTA
