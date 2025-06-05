@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por GIORDANE ALVES, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fl. 285):
+EMENTA: EMBARGOS INFRINGENTES. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. ÍNFIMA QUANTIDADE (2). AGENTE QUE NÃO PORTAVA ARMA DE FOGO. TIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CONTEXTO FÁTICO NÃO AUTORIZADOR. CONDUTA REPROVÁVEL. CONDENAÇÃO QUE SE IMPÕE. 1. A ínfima quantidade de munição, desacompanhada de arma de fogo não implica, por si só, na atipicidade material da conduta, dada a classificação de perigo abstrato do delito. 2. De forma excepcionalíssima, sem causar o esvaziamento do tipo penal, segundo a jurisprudência do STJ e da 2ª Turma do STF, a ínfima quantidade de munição, desacompanhada de arma de fogo, desde que em contexto de evidente desproporção entre a conduta e a reprovação dela decorrente, pode acarretar a incidência do princípio da insignificância. 3. Ao réu, investigado pelo suposto envolvimento em crimes de homicídio e tráfico ilícito de entorpecentes, que já responde a outro processo pelo também suposto cometimento de crimes dispostos no Estatuto do Desarmamento, não faz jus a aplicação da exceção e sim da regra, não devendo ser reconhecida a atipicidade material.
+V. V. - O simples porte de uma única munição, sem ter ao alcance a respectiva arma, não tem capacidade para submeter a risco o bem jurídico tutelado pela norma incriminadora, pois a conduta reveste-se de mínima lesividade, não se justificando a incidência da norma penal incriminadora.
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 386, VII, do CPP. Sustenta a incidência do princípio da insignificância, tendo em vista a ausência de risco na conduta de portar apenas duas munições, sem a presença de um armamento.
+Apresentadas contrarrazões, o Tribunal a quo admitiu o recurso especial (e-STJ fls. 322/325). O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do recurso (e-STJ fls. 339/344).
+É o relatório. Decido.
+O recurso não merece acolhida.
+De início, é firme a jurisprudência desta Corte Superior no sentido de que o crime de posse ou porte irregular de munição de uso permitido, independentemente da quantidade, e ainda que desacompanhada da respectiva arma de fogo, é delito de perigo abstrato, sendo punido antes mesmo que represente qualquer lesão ou perigo concreto de lesão, não havendo que se falar em atipicidade material da conduta (AgRg no RHC n. 86.862/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 20/2/2018, DJe 28/2/2018).
+Por esses motivos, via de regra, inaplicável o princípio da insignificância aos crimes de posse e de porte de arma de fogo ou munição, sendo irrelevante inquirir a quantidade de munição apreendida.
+Não obstante, vale lembrar, no ponto, que o Supremo Tribunal Federal, analisando as circunstâncias do caso concreto, reconheceu ser possível aplicar o princípio da insignificância na hipótese de apreensão de quantidade pequena de munição de uso permitido, desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública (RHC n. 143.449/MS, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe 9/10/2017; HC n. 154.390, Rel. Ministro DIAS TOFFOLI, Segunda Turma, julgado em 17/4/2018, DJe 7/5/2018).
+Alinhando-se ao entendimento do STF, ambas as Turmas que compõem a Terceira Seção desta Corte Superior passaram a admitir o reconhecimento da atipicidade da conduta perpetrada por agente, pela incidência do princípio da insignificância, nas hipóteses de ausência de afetação do bem jurídico tutelado pela norma penal incriminadora.
+Diante de tais precedentes, a Quinta Turma deste Superior Tribunal de Justiça vem entendendo que para que exista, de fato, a possibilidade de incidência do princípio da insignificância, deve-se examinar o caso concreto, afastando-se o critério meramente matemático (AgRg no HC 554.858/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 12/5/2020, DJe 18/5/2020), de forma que deve ser considerado todo o contexto fático no qual houve a apreensão da munição, a indicar a patente ausência de lesividade jurídica ao bem tutelado.
+Nesse mesmo diapasão, a jurisprudência desta Corte Superior se consolidou no sentido de não admitir a aplicação do princípio da insignificância quando as munições, apesar de em pequena quantidade, tiverem sido apreendidas em um contexto de outro crime, circunstância que efetivamente demonstra a lesividade da conduta.
+Acerca do tema, destaco os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. NÃO APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. APREENSÃO NO CONTEXTO DE OUTRO CRIME. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite a aplicação do princípio da insignificância quando as munições, apesar de apreendidas em pequena quantidade, tiverem sido encontradas no contexto de outro crime, circunstância que efetivamente demonstra a lesividade da conduta.
+2. Caso em que o delito foi praticado no contexto de outros crimes, como tráfico de drogas, receptação e furto, o que evidencia a maior reprovabilidade da conduta, obstando a incidência do princípio da insignificância.
+3. Agravo regimental improvido. (AgRg no REsp n. 2.092.693/MS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/3/2025, DJEN de 27/3/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE MUNIÇÃO. VIOLAÇÃO DE DOMICÍLIO. ABSOLVIÇÃO. INSIGNIFICÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+ ..
+6. Agravo desprovido.
+Tese de julgamento: "1. A entrada em domicílio sem mandado é lícita quando há fundadas razões de flagrante delito. 2. A posse de munição em contexto de tráfico de drogas não permite aplicação do princípio da insignificância. 3. Provas testemunhais e materiais são suficientes para condenação por tráfico e associação para o tráfico".
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; Lei nº 11.343/2006, arts. 33 e 35; Lei nº 10.826/2003, art. 12.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes; STJ, AgRg no HC 765.547/MG, Rel. Min. Jesuíno Rissato; STJ, AgRg no HC 759.737/SC, de minha Relatoria. (AgRg no HC n. 892.835/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. POSSE IRREGULAR DE MUNIÇÃO. CRIME DE PERIGO ABSTRATO. AGRAVO NÃO PROVIDO.
+ ..
+6. O princípio da insignificância não se aplica quando a apreensão de munição ocorre no contexto de atividades criminosas, como o tráfico de drogas.
+7. A mera repetição de argumentos já analisados em decisão monocrática viola o princípio da dialeticidade, incidindo o óbice da Súmula n. 182 do STJ.
+IV. Dispositivo e tese8. Agravo regimental não provido.
+Tese de julgamento: "1. Crimes de posse de munição são de perigo abstrato, dispensando comprovação de lesividade concreta. 2. O princípio da insignificância é inaplicável em contextos de atividades criminosas. 3. A repetição de argumentos já analisados viola o princípio da dialeticidade, conforme Súmula n. 182 do STJ."
+Dispositivos relevantes citados: Lei n. 10.826/2003, art. 12;
+CF/1988, art. 105, III, "a".Jurisprudência relevante citada: STJ, AREsp 2.748.259/GO, Rel. Min. Daniela Teixeira, Quinta Turma, j.
+10.12.2024; STJ, AgRg no AREsp 2.651.202/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 15.10.2024; STJ, AgRg no AREsp 2.259.992/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j.
+30.05.2023. (AgRg no AREsp n. 2.353.042/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. PRISÃO EM FLAGRANTE. ABORDAGEM POLICIAL. ALEGAÇÃO DE NULIDADE. REVISTA PESSOAL. RÉU PARADO EM UMA ESQUINA. SUPOSTA FUGA AO AVISTAR A VIATURA POLICIAL. DESOBEDIÊNCIA À ORDEM DE PARADA. FUNDADA SUSPEITA. PORTE DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. APREENSÃO EM CONTEXTO DE TRÁFICO DE DROGAS. PRECEDENTES. DECISÃO QUE SE IMPÕE.
+1. Não há como abrigar agravo regimental que não logra desconstituir a fundamentação da decisão atacada.
+2. Agravo regimental improvido. (AgRg no AgRg no RHC n. 185.213/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/11/2024, DJEN de 29/11/2024.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A apreensão de munição no contexto de tráfico de drogas impede a aplicação do princípio da insignificância, conforme jurisprudência consolidada.
+4. Agravo regimental não provido. (AgRg no REsp n. 2.163.524/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+No caso, a despeito de terem sido encontradas 2 munições (2 cartuchos de calibre .38 - e-STJ fl. 287), desacompanhadas das armas, as circunstâncias dos autos não permitem o reconhecimento do referido princípio, uma vez que a apreensão ocorreu em em cumprimento de mandado de busca e apreensão expedido em desfavor do ora recorrente por suspeita no envolvimento de homicídios e tráfico ilícito de entorpecentes, fundamento a afastar a mínima ofensividade da conduta.
+Assim, o acórdão recorrido alinha-se à orientação jurisprudencial desta Corte Superior, o que atrai a incidência do óbice da Súmula 83/STJ.
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
