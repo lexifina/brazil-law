@@ -1,0 +1,24 @@
+DECISÃO
+GISGLEYSON HENRIQUE NUNES DE MELO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (Habeas Corpus n. 0623838-07.2025.8.06.000).
+Consta dos autos que o paciente é investigado pela prática, em tese, do delito de homicídio qualificado na modalidade tentada.
+A defesa alega excesso de prazo da investigação policial e requer a liberdade do acusado. Adicionalmente, aponta para medidas cautelares alternativas (art. 319 do CPP).
+Decido.
+Conforme informações prestadas pelo Juízo (fls. 226-230):
+Em cumprimento à decisão interlocutoria proferida nos autos do Habeas Corpus em epígrafe, na qual se solicita informações atualizadas e detalhadas ao Juízo de primeiro grau sobre o andamento da ação penal, encaminho a Vossa Excelência as seguintes informações:
+Em 20 de dezembro de 2024, a Autoridade Policial requereu a decretação da prisão preventiva do paciente, Gisgleyson Henrique Nunes de Melo, e de outro investigado. No mesmo pedido, solicitou a expedição de mandato de busca e apreensão domiciliar, cumulada com a quebra de sigilo telemático, além da extração e compartilhamento de dados.
+A fundamentação de pedido baseou-se na existência de indícios suficientes de autoria e materialidade delitiva. O paciente está sob investigação pela suposta prática do delito do crime tipificado no art. 121, par. 2, inciso IV, combinado com o art. 14, inciso II, do CP, tendo como a vítima Arisson Monteiro Campos. O fato ocorreu no município de Independência, CE.
+A representação foi instruída com diversos elementos probatórios, destacando-se, entre eles, o depoimento da vítima. Em seu relato, a vítima identificou o paciente como um dos autores do delito, conforme registrado às fls. 01/21 dos autos de n. 0208092-95.2024.8.06.0293.
+Em 21 de dezembro de 2024, o juízo plantonista decretou a prisão preventiva do paciente e de outro investigado, sob o fundamento de garantir a ordem pública, assegurar a aplicação da lei penal e preservar a integridade física da vítima sobrevivente. No entanto, os demais pedidos formulados na representação não foram apreciados, conforme consta às fls. 54-61 dos autos.
+A autoridade policial formulou pedido de dilação do prazo para a conclusão do inquérito policial, conforme contra às fls. 69.
+Em 8/1/2025, foi noticiado o cumprimento do mandado de prisão preventiva referente ao paciente, conforme consta nas fls. 70/77.
+Em 14/1/2025, este juízo ratificou a decisão do juízo plantonista, deferindo o pedido de busca e apreensão, determinando o afastamento do sigilo de dados e autorizando o compartilhamento das informações obtidas dos aparelhos apreendidos, conforme registrado às fls. 86/90.
+Ás fls. 99, o Ministério Público manifestou-se favoravelmente ao pedido de dilação do prazo para conclusão do inquérito policial.
+Em 16 de maio de 2025, foi realizada reavaliação da prisão preventiva, oportunidade em que restou mantida a segregação cautelar do acusado. Na mesma decisão determinou-se a intimação da Autoridade Policial para promover a conclusão do Inquérito Policial, no prazo de 10 dias, conforme se extrai das fls. 155/156.
+A autoridade policial foi devidamente intimada em 21/5/2025, nos termos da certidão de fl. 160.
+Atualmente, os autos permanecem sobrestados, aguardando o cumprimento da diligência determinada, notadamente a conclusão do Inquérito Policial.
+Depreende-se dos autos que o delito sob investigação é grave e, além disso, houve recente reavaliação da prisão preventiva (16/5/2025). Nesta mesma data, aliás, a Autoridade Policial foi intimada para concluir a Investigação no prazo de 10 dias.
+Tal como repisado pelo Tribunal estadual, o STJ tem entendido que "o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (STJ, RHC n. 92442/AL, Rel. Min. Felix Fischer, 5ª Turma, julgamento em 06.03.2018, D Je 14.03.2018).
+Some-se a isso a jurisprudência desta Casa de que " a  aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (AgRg no HC n. 952.426/PA, relator Ministro Antonio Saldanha Palheira, DJe 2/12/2024).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Publique-se e intimem-se.
+EMENTA
