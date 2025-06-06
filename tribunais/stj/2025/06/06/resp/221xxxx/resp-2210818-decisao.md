@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. REVISÃO. LIMITES AO DESFAZIMENTO DE ATO CONCESSÓRIO POR PARTE DA ADMINISTRAÇÃO PÚBLICA. DECADÊNCIA. INOCORRÊNCIA. SEGURANÇA JURÍDICA.
+No caso concreto, conquanto não tenha ocorrido a decadência, estando a beneficiária de boa-fé, e decorridos muitos anos entre a data da concessão do benefício e a idade extremamente avançada da parte autora (91 anos), a manutenção do benefício da parte autora nas condições em que vinha sendo pago justifica-se em homenagem ao princípio constitucional da segurança jurídica, já que uma das funções precípuas do Direito, repita-se, é a pacificação social (fl. 231).
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente aduz violação ao art. 535, do CPC/1973, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 53 e 54, da Lei nº 9.784/99; art. 103-A, da Lei nº 8.213/91; art.6 da LICC e art. 126 do CPC, sustentando, em síntese, que "reconhecida a ilegalidade do ato, não poderia ser negado à Administração o direito de anulá-lo/corrigi-lo".
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 535, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+"O Superior Tribunal de Justiça, como sabido, firmou entendimento no sentido de que antes da Lei nº 9.784/99 não havia prazo para a Administração Pública desfazer atos dos quais decorressem efeitos favoráveis para os beneficiários. Há inclusive julgado da 3ª Seção da referida Corte, em recurso especial repetitivo, ratificando este entendimento:
+ ..
+Como visto, segundo o Superior Tribunal de Justiça, para os benefícios deferidos antes do advento da Lei nº 9.784/99, o prazo de decadência deve ser contado a partir da data de início de vigência do referido Diploma, ou seja, 01/02/1999.
+No caso dos autos, a renda mensal vitalícia foi concedida em 28/04/1991, de modo que o prazo decadencial teve início em fevereiro de 1999.
+O procedimento de revisão teve início em 2008, assim, não se consumou a decadência.
+Não obstante afastada tal prejudicial, impõe-se a análise da situação à luz do princípio da segurança jurídica - pois uma das funções precípuas do Direito é a pacificação social.
+Esta ponderação deve ser considerada para todos os casos de concessão de benefício, independentemente da data em que ocorridos, já que o princípio referido tem status constitucional e deve ser sempre observado.
+E nesse particular o Supremo Tribunal Federal já assentou a existência de limites para a ação da Administração no sentido de desfazer atos administrativos, independentemente de previsão legal, como se depreende dos seguintes precedentes:
+ ..
+Oportuna a menção, por relacionado com a matéria, ao artigo publicado por Almiro do Couto e Silva na "Revista de Direito Administrativo" nº 237, (Renovar, p. 271-315, Jul/Set;2004) denominado "O princípio da segurança jurídica (proteção à confiança) no direito público brasileiro e o direito da administração pública de anular seus próprios atos administrativos: o prazo decadencial do art. 54 da Lei do Processo Administrativo da União  Lei nº 9.784/99". Seguem trechos do mencionado artigo:
+ ..
+Assim, considerando o que foi exposto, é de se concluir que em toda situação na qual se analisa ato de cancelamento de benefício previdenciário, há necessidade de análise do caso concreto, considerando-se, por exemplo, o tempo decorrido, as circunstâncias que deram causa à concessão do benefício, as condições sociais do interessado, sua idade, e a inexistência de má-fé, tudo à luz do princípio da segurança jurídica.
+A posição que se defende, com apoio em precedentes do Supremo Tribunal Federal, registre-se, não vai de encontro ao entendimento do Egrégio Superior Tribunal de Justiça. O que se afirma é que, a despeito de não haver prazo decadencial em seu sentido estrito a considerar, e independentemente do prazo fixado em lei, nada i mpede que se reconheça o direito à manutenção da situação, com base em fundamento constitucional, em razão das circunstâncias do caso específico.
+No caso concreto, conquanto não tenha ocorrido a decadência, estando a beneficiária de boa-fé, e decorridos muitos anos entre a data da concessão do benefício e a idade extremamente avançada da parte autora (91 anos), a manutenção do benefício da parte autora nas condições em que vinha sendo pago justifica-se em homenagem ao princípio constitucional da segurança jurídica, já que uma das funções precípuas do Direito, repita-se, é a pacificação social" (fls. 242-248).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Quanto ao mais, da análise do trecho acima destacado, observa-se que, embora o recorrente aponte a existência de violação a normas infraconstitucionais, o acórdão recorrido apreciou a questão sob o enfoque predominantemente constitucional. Desta forma, portanto, não compete o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de usurpação dos poderes conferidos à Suprema Corte.
+Nesse sentido é o entendimento desta Corte Superior:
+PROCESSUAL CIVIL E CONSTITUCIONAL. JUROS DE MORA ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO E A DATA DO DEPÓSITO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. COMPETÊNCIA DO STF.
+1. Em relação à incidência de juros de mora entre a expedição do precatório e o seu efetivo pagamento, verifica-se que o fundamento adotado pelo Corte a quo é eminentemente constitucional, com amparo na jurisprudência do Supremo Tribunal Federal, no art. 100 da Carta Magna e na Súmula Vinculante 17.
+2. Não cabe ao Superior Tribunal de Justiça examinar a questão, porquanto reverter o julgado significaria usurpar competência que, por expressa determinação do art. 102, III, da Constituição Federal, pertence ao Supremo Tribunal Federal.
+3. Recurso Especial não conhecido (REsp n. 1.814.286/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/6/2019, DJe de 1/7/2019).
+ADMINISTRATIVO. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. PRECATÓRIOS. EC 30/2000. COISA JULGADA. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL. INVIABILIDADE.
+1. Inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. O acórdão recorrido entendeu pela inexistência de violação da coisa julgada a partir da interpretação de dispositivos constitucionais (ADCT, art. 78, e EC 30/2000).
+3. A análise da fundamentação constitucional do acórdão recorrido é de competência da Suprema Corte, por reserva expressa da Constituição Federal. Precedentes.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (AREsp 729.156/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018).
+Ademais, importante destacar que "o Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial"(AgInt no AREsp n. 1.851.246/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+ EMENTA
