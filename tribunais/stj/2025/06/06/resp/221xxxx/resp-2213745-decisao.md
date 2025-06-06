@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS  contra  acórdão  do  Tribunal de Justiça daquela Unidade Federativa,  proferido  na  Apelação  Criminal  n.  0009294-40.2019.8.13.0239,  assim  ementado  (fl.  295):
+APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO. OMISSÃO DE FORMALIDADE ESSECIAL. NÃO OFERECIMENTO DA SUSPENSÃO CONDICIONAL DO PROCESSO. NULIDADE ABSOLUTA. DECLARAÇÃO DE OFÍCIO. MÉRITO JULGADO PREJUDICADO. 1. Em crimes de menor potencial ofensivo, quando constato o preenchimento pelo réu dos requisitos necessários à suspensão condicional do processo, o oferecimento da benesse pelo Ministério Público trata-se de medida obrigatória. 2. A inobservância de formalidade essencial disposta no artigo 89 da Lei 9.099/95 configura nulidade absoluta, ante ao patente prejuízo causado ao réu. 3. Nulidade processual declarada de ofício.
+O juízo de primeiro grau condenou o acusado como incurso no art.  12 da Lei n. 10.826/2003  a  01 (um) ano de detenção,  em  regime  inicial  aberto, substituída por prestação pecuniária fixada em 01 (um) salário-mínimo, além de 10 (dez) dias-multa (fls. 190-198).
+A  Corte  de  origem  declarou ex officio a nulidade do feito, desde o recebimento da denúncia, ante a ausência do oferecimento de proposta de suspensão condicional do processo  (fl.  295-300).
+Opostos embargos de declaração, foram rejeitados (fls. 321-324).
+Nas  razões  do  Recurso  Especial,  interposto  com  fundamento  na  alínea  "a"  do  permissivo  constitucional,  a  Defesa  alegava  violação  dos  arts.  89 da Lei n. 9.099/95 e 571, inciso II, do  Código  de  Processo  Penal, ao fundamento de que o não oferecimento de proposta de suspensão condicional do processo constitui nulidade relativa e, portanto, sujeita à preclusão.
+Pondera que as nulidades ocorridas durante a instrução criminal deverão ser arguidas até as alegações finais, ônus do qual não se desincumbiu a defesa constituída.
+Acrescenta que tendo sido o acusado assistido por advogado durante toda a instrução criminal, não se afigura razoável admitir que o processo venha a ser anulado por ausência de oferta da suspensão condicional do processo após a sentença condenatória ter sido proferida (fls. 335-336).
+Sem contrarrazões  (fl. 341).
+O  recurso  especial  foi  admitido  (fl.  342-344).
+A  Procuradoria-Geral  da  República  manifestou-se  pelo  provimento  do  recurso  especial  (fls.  358-360).
+É  o  relatório.
+DECIDO.
+O recurso especial atende os requisitos de admissibilidade, motivo pelo qual dele conheço.
+A pretensão recursal diz respeito à possibilidade da declaração ex officio, em sede de apelação, de nulidade por ausência de oferecimento de proposta de suspensão condicional do processo.
+A questão encontra-se assim tratada no acórdão apelatório (fls. 297-299 - grifamos):
+Nulidade em virtude do não oferecimento da suspensão condicional do processo prevista na Lei 9.099/95.
+Inicialmente, submeto à colenda Turma Julgadora matéria preliminar que ora suscito de ofício, por vislumbrar a ocorrência de nulidade absoluta, ante ao não oferecimento ao acusado do benefício da suspensão condicional do processo, nos termos do artigo 89 da Lei 9.099/95.
+O réu fora denunciado como incurso nas iras do artigo 12 da Lei 10.826/03, delito classificado de menor potencial ofensivo, uma vez que possui pena mínima igual a 01 (um) ano de privação de liberdade.
+Nesses termos, ressai preenchido o requisito objetivo para a concessão da benesse disposta no mencionado artigo 89 da Lei 9.099/95, qual seja, a suspensão condicional do processo.
+Acerca dos elementos subjetivos, a lei penal exige que "o acusado não esteja sendo processado ou não tenha sido condenado por outro crime".
+Pois bem, examinando a CAC juntada aos autos (doc. de ordem n.º 71), constata-se que Antônio Francisco não possui qualquer condenação anterior, assim como não responde por qualquer outro procedimento criminal, havendo tão somente o registro referente a este feito.
+Não por acaso, o Ministério Público, quando do oferecimento da denúncia, chegou a sinalizar acerca do oferecimento do aludido benefício ao réu, conforme se vê da cota acostada aos autos (doc. de ordem n.º 04 - fls. 09).
+Não obstante, o douto Magistrado primevo, inadvertidamente, recebeu a exordial acusatória sem se atentar para o oferecimento do citado benefício, cujo oferecimento não se trata de mera faculdade, pelo contrário, possui aplicação obrigatória. Frise-se que tal omissão restou atestada nos autos pelo próprio Juiz "a quo" (doc. de ordem n.º 88).
+ ..
+Deveria o Magistrado, portanto, designar audiência especial com o fim de formalizar o oferecimento do benefício processual, explicitando ao réu as condições que deveriam ser cumpridas em caso de aceitação para que, ao final do período de prova, fosse declarada extinta a punibilidade do agente, nos termos do artigo 89, § 5º, da Lei 9.099/95.
+Não o fazendo, patente o prejuízo causado ao réu, que se viu processado - e, "in casu", condenado - em processo que poderia ter sido evitado, sem que o réu tivesse suportado todas as mazelas que acompanham um processo penal. Evidente, portanto, a nulidade do feito, nos termos do artigo 563 do Código de Processo Penal.
+ ..
+Nesses termos, ante a inobservância de formalidade essencial, que culminou em evidente prejuízo ao réu, tratando-se, pois, de nulidade absoluta a ser declarada a qualquer tempo, outra alternativa não há se não declarar a nulidade do feito, desde o ato processual viciado, que inclui o recebimento da inicial acusatória, o qual somente poderia ter ocorrido após eventual recusa do réu quanto ao benefício oferecido.
+Opostos embargos de declaração pelo Parquet, a Corte estadual ratificou a natureza da nulidade em testilha (fls. 322 - grifamos):
+Examinado o aresto, constato que a col. Turma Julgadora decidiu de forma fundamentada e embasada nos autos, à unanimidade, pela declaração de nulidade do feito, justificando tal medida justamente por entender que a omissão de formalidade essencial a qual o réu faz jus configura nulidade absoluta e, portanto, suscetível de ser declarada a qualquer tempo, haja vista o evidente prejuízo suportado pelo agente.
+Ocorre que, ao assim decidir, contrariou-se a jurisprudência do Superior Tribunal de Justiça, assente em que a inobservância ao disposto no art. 89 da Lei n. 9.099/95 constitui nulidade relativa e, portanto, sujeita a arguição oportuna e demonstração de prejuízo.
+De fato, a ausência de proposta de suspensão condicional do processo, por se tratar de mera nulidade relativa, não subsiste à prolação de sentença condenatória (HC 469142/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 21/05/2019, DJe de 04/06/2019 - trecho do voto condutor).
+Sob a mesma perspectiva:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ÓBICES APONTADOS. NÃO OCORRÊNCIA. SURSIS PROCESSUAL. AUSÊNCIA DE OFERECIMENTO NO MOMENTO ADEQUADO. NULIDADE RELATIVA ALCANÇADA PELA PRECLUSÃO. RECURSO DESPROVIDO.
+I - Não há falar-se em ausência de prequestionamento, uma vez que as matérias aqui trazidas - oferecimento de sursis e a questão da preclusão - foram debatidas pelo Tribunal local. Ademais, não é o caso de aplicação das Súmulas n. 7/STJ e, por analogia, 284/STF, porquanto bem argumentada a controvérsia no apelo nobre, além de tratar-se, tão somente, de questão eminentemente jurídica, inexistindo a necessidade de revolvimento probatório.
+II - Entende esta Corte que " a  ausência da oferta da suspensão condicional do processo constitui nulidade relativa, subordinada ao instituto da preclusão e à demonstração do efetivo prejuízo impingido ao sentenciado, de modo que, na hipótese, a não provocação do Juízo singular acerca do tema nas alegações finais obstaria a análise da mácula alegada." (AgRg no HC n. 474.501/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2018, DJe de 12/12/2018.)
+III - De igual modo, mesmo tratando-se de nulidade absoluta, " e sta Corte tem entendimento no sentido de que o inconformismo da parte prejudicada deve ser alegado no momento oportuno, sob pena de preclusão, mesmo em se tratando de nulidade absoluta." (AgRg no AREsp n. 2.210.999/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+IV - Agravo regimental desprovido. (AgRg no REsp 2048569/MG, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023 - grifamos)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 89 DA LEI N. 9.099/95. NÃO PROPOSITURA DEVIDO À TRAMITAÇÃO DE OUTRA AÇÃO PENAL. PRECLUSÃO DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. " A  preclusão alcança aqueles casos em que a suspensão condicional do processo não foi ventilada até a sentença" (STJ, AgRg no AREsp 1273432/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTATURMA, julgado em 19.05.2020, DJe 28.05.2020)
+2. A alegação de nulidade pela ausência de proposta de sursis processual somente ocorreu após o desprovimento da apelação defensiva pelo Tribunal local, nos embargos de declaração opostos pela Defesa, evidenciando a preclusão da matéria.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 727.532/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022 - grifamos)
+Ainda no mesmo diapasão: AgRg nos EDcl no REsp n. 1.611.709/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/10/2016, DJe de 26/10/2016; HC n. 139.670/DF, relator Ministro Jorge Mussi, Quinta Turma, julgado em 9/10/2012, DJe de 22/10/2012.
+Destarte, não tendo a parte arguido a tempo e modo a nulidade por ausência de oferecimento de proposta de suspensão condicional do processo, o seu conhecimento de ofício pela Corte de origem encontra óbice na preclusão e, portanto, autoriza o julgamento monocrático do recurso especial, nos termos da Súmula 568 do STJ.
+Ante  o  exposto,  dou provimento ao recurso especial a fim de, cassado o acórdão de fls. 295-300, determinar que o Tribunal a quo prossiga no julgamento do recurso de apelação defensivo como entender de direito.
+Publique-se.  Intimem-se.
+EMENTA
