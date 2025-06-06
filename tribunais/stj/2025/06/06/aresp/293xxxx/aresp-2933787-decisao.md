@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO HENRIQUE DOS SANTOS AMBROSIO contra decisão do Tribunal de Justiça do Estado de Minas Gerais, na qual foi inadmitido o recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 1.0000.24.192275-6/001.
+Consta nos autos que o agravante foi condenado como incurso no art. 155, § 2º, do Código Penal, à pena de 04 (quatro) meses de reclusão, em regime inicial aberto, e ao pagamento de 03 (três) dias-multa.
+O Tribunal de origem, por maioria, deu provimento ao apelo do Parquet para reconhecer a qualificadora do rompimento de obstáculo prevista no art. 155, § 4.º, inciso I, do Código Penal, redimensionado a reprimenda para 08 (oito) meses de reclusão, em regime inicial aberto, além do pagamento de 03 (três) dias-multa. A pena privativa de liberdade foi substituída por restritivas de direitos.
+Os embargos infringentes opostos foram rejeitados (fls. 442-447).
+Nas razões do recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição da República, a Defesa alega violação aos arts. 155, § 4.º, inciso I, do Código Penal e 158 do Código de Processo Penal.
+Sustenta que a qualificadora do rompimento de obstáculos deveria ser desconsiderada, uma vez que ausente laudo pericial apto a comprovar sua incidência.
+Requer, ao final, a exclusão da qualificadora do rompimento de obstáculo.
+Inadmitido o apelo na origem (fls. 481-484), os autos ascenderam a esta Corte por força do presente agravo.
+Contraminuta às fls. 508-512.
+O Ministério Público Federal manifestou-se às fls. 527-530, opinando pelo conhecimento do agravo para desprover o recurso especial.
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+A Corte de origem, ao dar provimento ao recurso Ministerial, manifestou-se nos seguintes termos (fls. 405-408; grifamos):
+O inciso I do § 4º do art. 155 qualifica o furto quando cometido mediante destruição ou rompimento de obstáculo colocado de forma a impedir a subtração da coisa. Verifica-se com a degradação, arrombamento, rompimento, fratura, demolição, destruição total ou parcial de qualquer objeto ou construção que dificulte a subtração objetivada pelo agente.
+Com efeito, para o reconhecimento da referida qualificadora, capaz de deixar vestígios físicos, é imprescindível a realização de exame de corpo de delito direto ou indireto, porém, o referido exame pericial pode ser suprido pela prova oral quando não mais puderem ser colhidos, desde que a prova testemunhal seja convincente e uniforme, pois sua finalidade é comprovar a materialidade do delito perpetrado, conforme interpretação do artigo 167 do Código de Processo Penal.
+O caso em questão, se adequa exatamente a exceção supracitada, pois pelas declarações da vítima e das testemunhas em juízo não restam dúvidas de que o réu quebrou o vidro do veículo para subtrair o aparelho celular da vítima que estava no painel do automóvel.
+Logo, inconteste a qualificadora do rompimento, já que não foi possível realizar o laudo porque tratando-se do vidro do carro da vítima presume-se a urgência do conserto e, neste caso, a prova testemunhal supre a perícia. É nesse mesmo sentido o entendimento do Superior Tribunal de Justiça, vejamos:
+ ..
+Sendo assim, reconheço a qualificadora de rompimento de obstáculo, prevista no artigo 155, § 4º, I, do Código Penal.
+No julgamento dos embargos infringentes, o Tribunal local consignou o seguinte (fls. 443-445; grifamos):
+Com respeitosa vênia do entendimento firmado no douto voto vencido, entendo pela prevalência do posicionamento adotado no voto proferido pelos ilustres Desembargadores Revisor e Vogal. Alega a defesa que a qualificadora do rompimento de obstáculo deve ser decotada, uma vez que não foi realizada nenhuma perícia técnica para a comprovação do arrombamento, sendo imprescindível um laudo técnico para o seu reconhecimento. Tal alegação, data venia, não merece prosperar.
+Embora não tenha sido realizada nenhuma perícia para constatar que houve o rompimento do obstáculo, entendo que as demais provas constantes nos autos são suficientes para suprir a ausência do laudo pericial, notadamente a testemunhal.
+Isso porque, a vítima narrou que "percebeu que o vidro estava quebrado, sendo certo que utilizaram uma pedra para tal feito" (trecho extraído da sentença de ordem 34), possibilitando o acesso ao celular. Tal versão foi corroborada pelo Policial Militar Edson de Souza que narrou ter ido "com o réu até onde estavam os transeuntes, lhe sendo relatado que ele havia arrombado um veículo, momento em que verificou, ainda, que o carro estava com a janela do motorista quebrada e havia uma pedra em seu interior" (trecho extraído da sentença).
+Sendo assim, no caso em tela, embora não realizada a prova técnica, verifico que a prova oral não deixa dúvida quanto à ocorrência da qualificadora. O acusado efetivamente arrombou o estabelecimento para realizar a subtração do celular, restando, assim, comprovada a aludida qualificadora, o que autoriza a sua manutenção.
+Assim, tendo em vista a ausência de hierarquia entre os meios de prova, e em apreço ao princípio da busca da verdade real, entendo que a comprovação da qualificadora do rompimento de obstáculo no crime de furto não se limita à prova técnica, podendo ser demonstrada por outros meios de prova que não o exclusivamente pericial. Portanto, a incidência da qualificadora dispensa a realização de perícia, quando puder ser conhecida de outra maneira, nos termos da orientação do colendo STJ:
+ ..
+Destarte, configura-se demonstrada a anormalidade da via de acesso utilizada pelo recorrido, situação que permite a inclusão da qualificadora em sua condenação.
+Cabe destacar que, embora a incidência da qualificadora prevista no art. 155, § 4º, inciso I, do Código Penal, dependa, em regra, da confecção de laudo pericial, em situações excepcionais é possível reconhecê-la, mesmo sem a produção da prova técnica, desde que devidamente comprovado o rompimento de obstáculo,
+como no caso, por meio de robusto conjunto probatório, no qual foram juntadas fotografias, além dos depoimentos realizados na fase judicial, a dispensar no caso específico a realização de laudo pericial (AgRg no HC n. 663.991/SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/05/2022, DJe 12/05/2022).
+No caso, o Tribunal local justificou a ausência de perícia, pois tratando-se do vidro do carro da vítima presume-se a urgência do conserto. Verifica-se, portanto, que houve justificativa plausível para que não fosse realizada a perícia, de modo que a incidência da qualificadora restou demonstrada por meio da prova testemunhal.
+Diante desse contexto, a qualificadora do rompimento de obstáculo restou devidamente comprovada por outros meios de provas, não havendo qualquer ilegalidade a ser sanada.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. CRIME DE FURTO QUALIFICADO. MANUTENÇÃO DAS QUALIFICADORAS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a condenação do réu por furto qualificado, com base no art. 155, §1º e §4º, I, II e IV, do Código Penal.
+2. A decisão agravada manteve as qualificadoras de rompimento de obstáculo e escalada, apesar da ausência de laudo pericial, justificando a substituição por outros meios de prova devido ao desaparecimento dos vestígios.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de laudo pericial pode ser suprida por outros meios de prova para a comprovação das qualificadoras de rompimento de obstáculo e escalada, nos termos do art. 167 do Código de Processo Penal.
+4. A questão em discussão também envolve o alegado cerceamento de defesa devido ao julgamento monocrático pelo relator, uma vez que, segundo o recorrente, essa conduta impossibilita a realização de sustentação oral.
+III. Razões de decidir
+5. A decisão monocrática não configura cerceamento de defesa quando é proferida em consonância com o entendimento predominante deste Superior Tribunal de Justiça, nos termos da Súmula 568/STJ.
+6. A jurisprudência do STJ permite a substituição do laudo pericial por outros meios de prova quando os vestígios desaparecem, conforme o art. 167 do CPP.
+7. No caso, a ausência de perícia foi justificada pela necessidade de reparos imediatos na residência, sendo as qualificadoras comprovadas por fotografias e provas orais.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de laudo pericial pode ser suprida por outros meios de prova quando os vestígios desaparecem, conforme art. 167 do CPP. 2. A decisão monocrática não configura cerceamento de defesa quando é proferida em consonância com o entendimento predominante deste Superior Tribunal de Justiça, nos termos da Súmula 568/STJ."
+Dispositivos relevantes citados: CP, art. 155, §1º e §4º, I, II e IV; CPP, arts. 158, 167, 171; RIS TJ, art. 255, § 4º, II.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1.281.062/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, j. 17.12.2019; STJ, AgRg no HC 953.553/MG, Rel. Min. Daniela Teixeira, Quinta Turma, j.
+10.12.2024; STJ, AgRg no AREsp 2.480.822/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 05.03.2024. (AgRg no REsp n. 2.179.572/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025; grifamos)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTITVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. POSSIBILIDADE DE SUBSTITUIÇÃO DO LAUDO PERICIAL POR OUTRAS PROVAS. EXCEPCIONALIDADE JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Luan Andrigo Melo Borba e Nicolas Douglas Rodrigues Barreto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em recurso de apelação interposto pelo Ministério Público, reformou a sentença absolutória e os condenou à pena de 2 anos e 11 meses de reclusão em regime semiaberto, além do pagamento de multa, pela prática do crime de furto qualificado (art. 155, § 4º, I e IV, do Código Penal). A defesa alega constrangimento ilegal pela inclusão da qualificadora "rompimento de obstáculo", argumentando ausência de laudo pericial para comprovar o fato, contrariando o disposto no art. 158 do Código de Processo Penal. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se a ausência de prova pericial nos crimes que deixam vestígios pode ser suprida por outros meios de prova; (ii) avaliar se há flagrante ilegalidade na condenação que justifique a concessão do habeas corpus. III. RAZÕES DE DECIDIR
+3. O entendimento do STJ e do STF é pacífico no sentido de que o habeas corpus não deve ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. Nos casos de furto qualificado por rompimento de obstáculo, a perícia técnica é imprescindível, conforme o art. 158 do CPP.
+Contudo, quando os vestígios desapareceram ou a realização da perícia é inviável, é possível suprir essa ausência por outros meios de prova, desde que devidamente justificados.
+5. No caso, a ausência de laudo pericial foi justificada pela necessidade de reparo imediato no veículo para garantir sua segurança, sendo o rompimento de obstáculo comprovado por prova testemunhal, além do depoimento da vítima.
+6. A individualização da pena só pode ser revista em casos de manifesta ilegalidade, o que não foi verificado nos autos.
+IV. ORDEM DE HABEAS CORPUS NÃO CONHECIDA. (HC n. 856.754/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 11/12/2024; grifamos).
+Além disso, os julgados mais recentes desta Corte - de ambas as Turmas que compõem a Terceira Seção, frise-se - são no sentido de que, embora a prova técnica seja necessária, excepcionalmente, se cabalmente demonstrado o rompimento de obstáculo por outros elementos probatórios, o exame pericial pode ser suprido, mantendo-se assim a qualificadora, como no caso em tela.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO PERICIAL. COMPROVAÇÃO INEQUÍVOCA POR OUTROS MEIOS DE PROVA. RECURSO NÃO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que manteve condenação pelo crime de furto qualificado tentado, tipificado no art. 155, §§ 1º e 4º, I e IV, c/c art. 14, II, do Código Penal, afastando a alegação de nulidade por ausência de laudo pericial para comprovar o rompimento de obstáculo. A pena foi fixada em 01 (um) ano, 02 (dois) meses e 14 (quatorze) dias de reclusão, em regime semiaberto, além de 10 (dez) dias-multa. II. QUESTÃO EM DISCUSSÃO
+2. Há uma única questão em discussão: verificar se a qualificadora do rompimento de obstáculo pode ser mantida com base em outros meios de prova, mesmo na ausência de exame pericial. III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça (STJ) possui entendimento consolidado de que, embora o art. 158 do Código de Processo Penal exija exame pericial para crimes que deixam vestígios, a prova técnica pode ser suprida por outros meios de prova quando estes forem suficientes para comprovar, de modo inequívoco, a materialidade da qualificadora.
+4. No caso concreto, a qualificadora foi comprovada pela palavra dos agentes policiais - que se dirigiram ao local após a ação delituosa ter sido "capturada pelo sistema de vigilância "olho vivo"" -, e pelo depoimento da vítima, que teriam atestado, de modo inequívoco, o arrombamento do cadeado, o que possibilitou o acesso ao estabelecimento.
+5. Para alterar as conclusões do acórdão recorrido quanto à materialidade da qualificadora, seria necessária nova análise do conjunto fático-probatório, o que é vedado em recurso especial, conforme Súmula nº 7/STJ.
+IV. RECURSO ESPECIAL NÃO PROVIDO. (REsp n. 2.032.906/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025; grifamos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA TÉCNICA. LAUDO DISPENSÁVEL. CONFISSÃO, FLAGRANTE, GRAVAÇÃO EM VÍDEO E ALARME ESPECÍFICO. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma examinou a fundo a possibilidade de reconhecer a qualificadora do furto a partir de quadro probatório inequívoco, a despeito da ausência de laudo pericial, a qual foi considerada exigível naquela oportunidade.
+2. Para além das hipóteses de inviabilidade, em observância do princípio da persuação racional, foi ponderada, naquele julgamento, a possibilidade de se considerar prescindível a perícia técnica a partir da qualidade do quadro probatório.
+3. A exigência legal de perícia técnica deve ser analisada a partir do contexto histórico e tecnológico da sua inclusão nos arts. 158 e 171 CPP para compreender que existem hoje meios mais fidedignos para atestar o rompimento de obstáculo, como a gravação da conduta em vídeo/áudio e os registros de alarme eletrônico para detectar avarias.
+4. Objetivando garantir maior certeza sobre as qualificadoras do furto, o legislador criou exigência probatória que, com o tempo, se tornou obsoleta e é usada para frustar a sua finalidade - busca da verdade real e a formação da conviccção do julgador a partir de outras provas, tais como a confissão e a gravação em vídeo da conduta.
+5. Hipótese em que constam nos autos a confissão e o depoimento de policiais que flagraram o réu ferido diante de janela, cujo arrombamento disparou alarme automático e foi acompanhado em vídeo por equipe de segurança privada, elementos esses que bastam para configurar o rompimento de obstáculo e, consequentemente, a forma qualificada do furto.
+6. Agravo regimental não provido. (AgRg no REsp n. 2.130.322/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024; grifamos).
+Ante o exposto, conheço do agravo para negar provimento ao recurso
+especial.
+Publique-se e intimem-se.
+EMENTA
