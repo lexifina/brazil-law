@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo interposto por DISTRIBUIDORA NACIONAL DE AUTO PEÇAS LTDA. contra decisão que inadmitiu recurso especial em virtude da alegação de violação a dispositivos da Constituição Federal (impossibilidade de análise por esta Corte Superior).
+A parte agravante afirma que "A decisão recorrida não enfrentou os argumentos centrais da Agravante, violando a obrigação de fundamentação adequada imposta pelo CPC" (fl. 321). Assevera que "A decisão recorrida aplicou indevidamente a Lei nº 14.592/2023, desconsiderando que: O ICMS compõe o custo de aquisição de bens e serviços e, portanto, integra a base de cálculo dos créditos de PIS e Cofins, conforme previsto nas Leis nº 10.637/2002 e nº 10.833/2003; O Fisco reconhecia expressamente esse direito, conforme Instrução Normativa nº 2.121/2022 e Parecer SEI nº 14.483/2021" (fl. 322). Aduz que houve "Aplicação indevida do precedente do STF no RE 574.706/PR" e que há "Vício formal na aprovação da Lei nº 14.592/2023" (fl. 323).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+No caso dos autos, entendo que as razões recursais estão dissociadas dos fundamentos utilizados pelo julgado recorrido, uma vez que a parte recorrente não impugnou os fundamentos da decisão de inadmissibilidade, dedicando-se a discorrer acerca do mérito do recurso especial e das razões pelas quais entende deva ser reformado o acórdão proferido na Corte de origem.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso de agravo, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Ademais, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, sendo este, inclusive, o enunciado da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, a parte sequer menciona a fundamentação referente à incompetência do STJ para a apreciação de alegação de violação a dispositivos da Constituição Federal.
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conhe ço do agravo em recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
