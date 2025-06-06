@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de JACKSON HENRIQUE BURGOS GOMES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Apelação n. 0848778- 41.2017.8.02.0001).
+Depreende-se dos autos que o ora paciente foi condenado às penas de 3 anos e 3 meses de reclusão, e 2 anos e 3 meses de detenção, por haver praticado os crimes previstos nos arts. 90 da Lei 8.666/1993 (fraude à licitação), e 1º, I, do Decreto- Lei 201/1967 (apropriar-se/desviar bens ou rendas públicas) - e-STJ fl. 1.286.
+O Tribunal de origem deu parcial provimento à apelação, em acórdão assim ementado (e-STJ fl. 1.283):
+PENAL E PROCESSO PENAL. APELAÇÃO. ART. 90 DA LEI 8.666/93 (FRAUDE À LICITAÇÃO) E ART. 1º, I, DO DECRETO-LEI 201/67 (APROPRIAR-SE / DESVIAR BENS OU RENDAS PÚBLICAS). PLEITO PELO DESENTRANHAMENTO DE PROVA ILÍCITA. NÃO ACOLHIMENTO. PEDIDOS DE ABSOLVIÇÃO. REJEIÇÃO. EXISTÊNCIA DE LASTRO PROBATÓRIO SUFICIENTE PARA EMBASAR A CONDENAÇÃO. PLEITO DE REVISÃO DA DOSIMETRIA. NÃO ACOLHIMENTO. INEXISTÊNCIA DE EQUÍVOCOS NA DOSAGEM DAS SANÇÕES IMPOSTAS. PEDIDO DE FIXAÇÃO DE HONORÁRIOS EM FAVOR DA DEFENSORIA PÚBLICA (FUNDEPAL). ACOLHIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No presente writ, a defesa alicerça sua tese no fato de que a condenação do paciente deu-se com base em prova ilícita, porquanto tais provas teriam sido obtidas por vídeo ilegal. Como constou do aresto invectivado, a defesa alegou "que, tendo em vista que as gravações que serviram de base para a condenação aconteceram sem autorização judicial, a prova ilícita deve ser desentranhada dos autos, consequentemente, devem, os apelantes, ser absolvidos" (e-STJ fl. 1.291).
+Diante dessas considerações, pede o trancamento da "ação penal na qual se aponta o constrangimento ilegal e, no mérito, aguarda-se i. seja declarada a nulidade da presente ação penal, ou, alternativamente, ii . seja reconhecida a imprestabilidade das provas que instruiram a ação penal na qual se aponta o constrangimento ilegal, como medida de JUSTIÇA. Subsidiariamente, caso não seja conhecido o pedido de habeas corpus, que então seja a ordem concedida de ofício, diante da manifesta ilegalidade (CRFB/88, art. 5º, LXVIII; CPP, art. 654, §2.º)" - e-STJ fl. 31.
+A medida liminar foi indeferida (e-STJ fls. 1301-1303).
+As informações da instância de origem foram prestadas, noticiando que sobreveio a absolvição do ora paciente (e-STJ fls. 1311-1316).
+O Ministério Público Federal pugnou pela denegação da ordem de habeas corpus (e-STJ fls. 1319-1322).
+É o relatório.
+Decido.
+Em face das informações prestadas pela origem, no sentido de que, no julgamento das Apelações Criminais n. 0848778- 41.2017.8.02.0001, sobreveio o acolhimento de embargos de declaração interpostos por co-réu que aproveitaram o ora paciente, anulando a sua condenação, não há mais interesse processual no remédio constitucional impetrado.
+De fato, consoante informado pelo Juiz convocado Alberto Jorge Correia de Barros Lima, "o julgamento e o respectivo acórdão impugnados por meio do habeas corpus em epígrafe, foram anulados, advindo posterior julgamento favorável, com a prolação de acórdão pelo provimento dos apelos e consequente absolvição dos recorrentes, dentre eles o ora impetrante/paciente Jackson Henrique Burgos Gomes" (e-STJ 1314) .
+Ante o exposto, julgo prejudicado o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
