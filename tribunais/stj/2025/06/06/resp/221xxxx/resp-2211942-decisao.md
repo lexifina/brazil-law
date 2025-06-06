@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMBARGOS INFRINGENTES. RECONHECIMENTO DA ATENUANTE DE CONFISSÃO ESPONTÂNEA. INVIABILIDADE. CONFISSÃO QUE NÃO FOI COMPLETA.
+- Só se reconhece a atenuante da confissão espontânea quando a confissão é completa, onde se admite o crime e todas as suas circunstâncias.
+V. V. Tendo o réu confessado a prática do delito, ainda que de forma parcial e/ou qualificada, impositivo o reconhecimento da atenuante da confissão espontânea, consoante jurisprudência consolidada do STJ. (e-STJ fl. 502)
+A defesa aponta a violação do art. 65, III, "d" do CP, alegando, em síntese, que "o recorrente confessou a prática de crime contra a administração pública, ainda que não tenha admitido expressamente o cometimento do delito previsto no art. 333 do Código Penal, na modalidade oferecer, no mínimo reconheceu o delito na forma de prometer." (e-STJ fl. 520). Sustenta que "a confissão do embargante repercutiu na formação do convencimento judicial." (e-STJ fl. 520)
+As contrarrazões foram apresentadas às e-STJ fls. 529/533.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal às e-STJ fls. 555/560.
+É o relatório. Decido.
+O recurso merece prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 8 anos e 2 meses de reclusão, pelo cometimento dos crimes dos arts. 33, caput, da Lei n. 11.343/2006 e art. 333 do Código Penal.
+A defesa alega que deve ser reconhecida a atenuante da confissão, tendo em conta que "o recorrente confessou a prática de crime contra a administração pública, ainda que não tenha admitido expressamente o cometimento do delito previsto no art. 333 do Código Penal, na modalidade oferecer, no mínimo reconheceu o delito na forma de prometer.".
+O TJMG, por maioria, negou o reconhecimento da confissão, pelos seguintes fundamentos:
+A presente divergência refere-se à possibilidade de reconhecimento da circunstância atenuante de Confissão Espontânea (artigo 65, III, "d", do Código Penal) no crime de Corrupção Ativa.
+Ora, compulsando detidamente os elementos que compõe os autos, a meu sentir, em nenhum momento do réu admitiu a autoria dos fatos lhe atribuídos, mas, ao contrário, buscou-se esquivar da aplicação da lei penal, afirmando que somente ofereceu valores aos policiais militares para ser liberado após ter recebido uma proposta deles, tese comprovadamente inverídica.
+Nesses termos, para que se mostre possível o reconhecimento da atenuante de Confissão Espontânea, é indispensável que o agente admita de forma plena a responsabilidade penal pelo ato ilícito perpetuado, aceitando as consequências jurídicas dele advindas.
+Desse modo, o agente que confessa a prática do delito, cooperando com a administração da Justiça e estimulando a verdade processual, merece ser beneficiado com a atenuante em questão.
+Entretanto, conforme mencionei, essa não é a hipótese identificada no caso em vertente, em que o agente não admitiu a autoria do ilícito, mas, ao contrário, apresentou narrativa dos fatos inverídica, sem admitir de forma plena a responsabilidade pelo fato típico, ilícito e culpável por si perpetuado.
+Ademais, entendo que a admissão parcial dos fatos não contribuiu para o deslinde da ação penal, porquanto a autoria do agente restou evidenciada através das relevantes provas orais obtidas dos testemunhos dos agentes públicos, acrescidas a gravação acostada aos autos. (e-STJ fls.435/436)
+O entendimento do TJMG vai de encontro à jurisprudência deste Tribunal Superior, isso porque a Quinta Turma, no julgamento do REsp n. 1.972.098/SC (DJe de 20/6/2022), em conformidade com a Súmula 545/STJ, consignou que o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada.
+Assim, é necessário o ajuste na dosimetria da pena.
+Vale anotar, nesse ponto, a confissão qualificada não deve ter o mesmo valor que a confissão espontânea plena, em respeito aos princípios da proporcionalidade e da individualização da pena, motivo pelo qual devida é a compensação parcial da confissão qualificada com a agravante da reincidência, aplicando-se a fração de 1/12 para agravar a pena (ut, AgRg no HC n. 908.373/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Mantidos os critérios utilizados pelo Tribunal, e reconhecendo a atenuante da confissão, aqui parcialmente compensada com a agravante da reincidência, fica a pena para o crime de corrupção ativa fixada em 2 e 2 meses de reclusão. Nessa linha: AgRg no AREsp n. 2.392.745/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 5/3/2024.). Considerado o concurso material com o crime de trafico de drogas, a pena final fica estabelecida em 8 anos de reclusão.
+Ante o exposto, a teor do art. 932, V, do CPC, c/c o art. 255, § 4º, II, do RISTJ, dou parcial provimento ao recurso especial apenas para reconhecer a atenuante da confissão no crime de corrupção ativa, ficand o a pena final estabelecida em 8 anos de reclusão.
+Intimem-se.
+EMENTA
