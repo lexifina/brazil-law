@@ -1,0 +1,58 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, mantendo a decisão de não conhecimento do agravo em recurso especial, por incidência do óbice da Súmula n. 182/STJ.
+O julgado recorrido recebeu a seguinte ementa (fl. 1.128):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial, aplicando-se a Súmula n. 182 doSTJ.
+2. O agravante foi condenado pela prática do delito tipificado no art. 17, § 1º, da Lei n. 10.826/2003 (comércio ilegal de arma de fogo equiparado), às penas de 6 anos de reclusão, em regime inicial fechado, e 10 dias-multa, à razão mínima.
+3. A defesa, em recurso especial, alegou violação ao art. 21 do Código Penal, sustentando que o agravante desconhecia a ilicitude de sua conduta, acreditando estar habilitado para ministrar cursos de tiro.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a defesa impugnou adequadamente o fundamento da decisão de inadmissibilidade do recurso especial consistente na incidência do óbice da Súmula n. 7 do STJ.
+III. RAZÕES DE DECIDIR
+5. A defesa não demonstrou, de forma específica e pormenorizada, como a alteração do entendimento adotado pelo Tribunal de origem não demandaria a apreciação fático-probatória dos autos, conforme exigido para afastar a aplicação da Súmula n. 7 do STJ.
+6. A impugnação genérica dos fundamentos da decisão de inadmissibilidade do recurso especial não é suficiente para afastar o óbice da Súmula n. 7 do STJ, sendo necessário demonstrar concretamente a possibilidade de revaloração jurídica dos fatos sem reexame de provas.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ofensa ao princípio do dever de motivação da decisão judicial em razão da ausência de enfrentamento de questões relevantes apontadas pela defesa.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 1.161-1.171).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 1.132-1.134):
+Não obstante o empenho da defesa, mantenho a decisão recorrida por seus próprios fundamentos.
+O agravante foi condenado pela prática do delito tipificado no art. 17, § 1º, da Lei n. 10.826/2003 (comércio ilegal de arma de fogo equiparado) às penas de 6 anos de reclusão, em regime inicial fechado, e 10 dias-multa, à razão mínima (fl. 786).
+O acórdão recorrido manteve a sentença condenatória (fl. 935).
+Embargos de declaração opostos pela defesa foram rejeitados, nos termos do acórdão de fls. 966/974.
+Em recurso especial (fls. 978/991), a defesa apontou violação ao art. 21 do Código Penal - CP, porque o Tribunal de Justiça - TJ manteve a condenação do recorrente, a despeito de ter sido devidamente comprovado que ele desconhecia a ilicitude de sua conduta. Argumentou que o recorrente "realizou um curso crendo que o habilitaria para ministrar os cursos de tiros, consoante confirmou a testemunha Thiago " (fl. 985). Sustentou que o recorrente teriaAntunes em seu depoimento:  ..  apresentado todos os documentos necessários para abertura e funcionamento do clube de tiro. Aduziu que "o Recorrente, ao possuir a concessão do Certificado de Registro nº. 658927, expedido pelo Exército Brasileiro, entendia estar apto tanto para ministrar as aulas de tiro quanto em possuir o respectivo estande para a prática, " (fl. 986). Disse que o recorrenteconsoante leciona o art. 54 do Decreto 10.030/19: sempre manteve o mesma versão dos fatos no sentido de que, após a realização do curso, acreditava ter a devida autorização para lecionar. Alegou que o cadastramento na Polícia Federal seria para "instrutores que irão expedir o comprovante de ", o que não seria o caso do recorrente. Articulou que "capacitação técnica é notório que a percepção do Recorrente de uma suposta ilicitude de seus atos estava completamente enebriada, vez que possuía a documentação para a abertura e funcionamento do clube de tiro, bem como havia o respectivo curso de instrutor que o concedia o direito em ministrar as aulas de tiro e manuseio de arma de fogo - sem a " (fl. 988). Asseverou que o recorrente errou a expedição de comprovantes e/ou laudos respeito dos limites da permissão que, decorrente do curso de instrutor realizado, teria para ministrar aulas de tiro e manuseio de arma de fogo Afirmou a ocorrência erro de. proibição em sua modalidade indireta.
+Requereu a absolvição ou a diminuição da pena imposta.
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 1.032/1.034).
+Em agravo em recurso especial, a defesa aduziu, em síntese, que "o Agravante não pretende discutir elementos materiais de prova, mas tão somente a correta aplicação da norma aplicável ao caso, o que certamente conduziu à análise de fatos " (fl. 1.047). materiais, mas como necessária premissa, não como fundamento
+Como explicitado na decisão agravada, a defesa não atacou efetivamente o fundamento da decisão de inadmissibilidade proferida pelo Tribunal de origem, consistente no óbice da Súmula n. 7/STJ. Isso porque a defesa cingiu-se a sustentar de forma genérica a inaplicabilidade do referido óbice.
+Em seus termos:
+ ..
+Entretanto, para impugnação do óbice da Súmula n. 7 do STJ, "são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos AR Esp n. 2.176.543/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Cabia à parte demonstrar de que forma, no caso concreto, não seria necessário rever a situação fática e as provas que embasaram o julgado para avaliar suas alegações e acolher suas pretensões recursais (absolvição ou diminuição de pena), o que não foi feito.
+Nessas condições, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de . atacar especificamente os fundamentos da decisão agravada" Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, os seguintes precedentes (grifos nossos):
+ ..
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
