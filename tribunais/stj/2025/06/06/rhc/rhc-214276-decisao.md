@@ -1,0 +1,47 @@
+DECISÃO
+ISAAC MOREIRA NETO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2397810-28.2024.8.26.0000.
+A defesa pretende a soltura do recorrente - preso preventivamente pela suposta prática do crime de duplo homicídio qualificado (art. 121, §2º, CP) - sob os argumentos de que: a) inexistem indícios suficientes de autoria, baseando-se a acusação apenas em "semelhança física" apurada por meio de imagens de baixa qualidade; b) a segregação cautelar carece de fundamentação idônea, pautando-se exclusivamente na gravidade abstrata do delito; c) há inconsistência pericial grave (ausência de resíduos de disparo nas mãos do acusado); d) o perfil do paciente (primário, 22 anos, empregado) não justifica a prisão preventiva.
+Subsidiariamente, requer a aplicação de medidas cautelares alternativas, especialmente monitoramento eletrônico.
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário (fls. 539-555).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular, ao receber a denúncia, decretou a prisão preventiva com base nos seguintes argumentos (fls. 381-382, destaquei):
+ ..
+A análise dos autos destaca a existência de elementos da autoria e materialidade do crime em estudo.
+Merece enfoque a conduta do investigado, a revelar a necessidade da prisão, pois teria arquitetado e posto em prática a execução do delito.
+Indica ser Isaac, pessoa resistente ao estado de legalidade normal, em que as autoridades exercem suas precípuas atribuições e os cidadãos as respeitam e acatam.
+Consideradas as circunstâncias fáticas do crime descrito, suposta é a periculosidade do agente, ao insistir em desobedecer regras sociais, de forma mais grave, na ação de matar.
+Assim, para a garantia da ordem pública, deve ser afastado do convívio social.
+Ainda, para a conveniência da instrução processual, exige-se o afastamento do investigado, evitando-se eventuais interferências quando da colheita de provas, valendo a pena mencionar, eventual aproximação com envolvidos e/ou testemunhas.
+Porque necessária a aplicação futura da lei, deve ser detido o investigado, uma vez que, desobediente às determinações legais, pode deixar o distrito da culpa, com a intenção de não responder pela conduta em análise.
+Posto isso, com fundamento nos artigos 311, 312 e 313, inciso I, todos do Código de Processo Penal, para garantia da ordem pública, por conveniência da instrução criminal e a para se assegurar a aplicação da lei penal, CONVERTO A PRISÃO TEMPORÁRIA DE ISAAC MOREIRA NETO, em PREVENTIVA.
+O Tribunal de origem, a seu turno, manteve a decisão de primeiro grau nos termos a seguir (fls. 465-466, destaquei):
+ ..
+É certo que a gravidade em abstrato dos delitos, por si só, não serviria para ensejar a decretação da prisão preventiva, mas constitui fator importante a ser considerada, vez que, aliada as demais circunstâncias do caso concreto, autoriza o indeferimento do pleito, aqui cabendo observar que está pautada na gravidade concreta das imputações.
+A Lei 12.403/11, que alterou o Título IX, que cuida da prisão, das medidas cautelares e da liberdade provisória, deu nova redação ao artigo 282, do Código de Processo Penal, assegurando que: "As medidas cautelares previstas neste Título deverão ser aplicadas observando-se a: I - necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais; II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado. § 1º..".
+Dessa forma, está amparado legalmente referido fundamento, respeitado o binômio adequação-necessidade.
+ ..
+Quanto ao suplicante ser primário, de bons antecedentes e com residência fixa, por si só, não têm o condão de elidir a manutenção da medida extrema, consoante preleciona Guilherme de Souza Nucci: - "a primariedade, bons antecedentes e residência fixa não são obstáculos para a decretação da prisão preventiva: as causas enumeradas no artigo 312 são suficientes para a decretação
+da custódia cautelar de indiciado ou réu. O fato de o agente ser primário, não ostentar antecedentes e ter residência fixa não o levam a conseguir um alvará permanente de impunidade, livrando-
+se da prisão cautelar, visto que essa tem outros fundamentos" (in Código de Processo Penal Comentado, 8ª edição, Ed. RT, p. 627, 2008, São Paulo).
+ ..
+Em assim sendo, e diante da própria natureza dos delitos de homicídios, é certo que a situação reclama por maior censurabilidade jurídico-penal, tudo a reforçar a convicção da conveniência da mantença do paciente no cárcere.
+Isto posto, conhece-se em parte da ordem e, na parte conhecida, denega-se a mesma.
+Na hipótese, são idôneos os motivos elencados no decisum combatido, pois evidenciam a gravidade concreta da conduta em tese perpetrada. Os elementos dos autos revelam que o duplo homicídio foi cometido mediante emboscada, com o agente posicionando-se no interior do veículo das vítimas como passageiro para posteriormente executá-las com disparos de arma de fogo.
+A frieza na execução do crime, aliada à circunstância de que as vítimas foram mortas no interior de uma camionete sem possibilidade de defesa, demonstra o especial modus operandi que justifica a manutenção da custódia cautelar.
+Segundo a orientação deste Superior Tribunal, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. A esse respeito, destaco os seguintes precedentes:
+ ..  2. O decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade dos acusados que agiram com peculiar modus operandi, visto que o crime foi cometido mediante o concurso de pessoas, por motivo fútil e com recurso que dificultou a defesa da vítima, contra quem foram desferidos diversos golpes de facão e barra de ferro em direção à sua cabeça. 3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Recurso não provido. (RHC n. 104.138/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019, grifei)
+ ..  2. A prisão preventiva está adequadamente fundamentada na espécie, tendo em vista que as circunstâncias concretas do delito evidenciam a necessidade da constrição cautelar para a garantia da ordem pública, pela periculosidade do Recorrente, considerando-se, sobretudo, o modus operandi dos delitos. Precedentes. 3. No caso, o recorrente é o suposto mandante do homicídio, movido por vingança, por um desentendimento anterior com a vítima, tendo sido efetuados vários disparos sem chance de defesa, por meio de emboscada. 4. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. 5. Recurso ordinário desprovido. (RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018, destaquei).
+A apreciação da tese de ausência de provas de autoria revela-se inviável na via excepcional do habeas corpus, por demandar profunda incursão no conjunto de fatos e provas dos autos.
+A propósito:
+ ..  o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas , em virtude da necessidade de revolvimento do conjunto fáticoprobatório, o que é inviável na via eleita. Precedentes  ..  (AgRg no HC n. 763.135/SP, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 28/4/2023, grifei).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+Nesse sentido:
+ ..  5. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011. 6. Ordem de habeas corpus denegada. (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020)
+Ainda, de acordo com a jurisprudência deste Superior Tribunal, "a presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela" (HC n. 571.208/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJ 28/9/2020).
+II. Dispositivo
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
