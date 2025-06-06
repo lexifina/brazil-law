@@ -1,0 +1,69 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SONIA DARCI SANTOS SILVA e OUTROS à decisão de fls. 951-955 (e-STJ), assim ementada:
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. PARALISAÇÃO DO PROCESSO POR CULPA DO PODER JUDICIÁRIO. QUESTÃO ATRELADA AO REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, os embargantes apontam omissão no julgado recorrido, afirmando que não foram apreciados os argumentos que demonstram a ausência de manifestação do Tribunal de Justiça do Estado de Minas Gerais acerca do pedido de nulidade da execução diante da falta da "necessária habilitação dos herdeiros, e constituição de novo procurador, uma vez que com a morte do sócio responsável cessou o mandato outorgado ao antigo advogado (art. 682, II, CC/02), restando viciados de nulidade os atos posteriormente por ele praticado" (e-STJ, fl. 961).
+Sendo assim, requerem o acolhimento destes aclaratórios.
+Impugnação às fls. 987-992 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o julgado prolatado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - O cabimento de Embargos de Declaração, consoante o disposto no art. 1.022 do Código de Processo Civil, é restrito às hipóteses de obscuridade, contradição ou omissão na decisão embargada, bem como para correção de erro material.
+II - Embargos de declaração acolhidos para corrigir erro material.
+(EDcl nos EDcl no AgInt no AREsp n. 2.496.225/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Na hipótese dos autos, os insurgentes alegam a existência de omissão na decisão embargada quanto à ausência de manifestação acerca dos argumentos que demonstram a necessidade de o Tribunal de origem apreciar pedido de nulidade da execução fiscal, considerando a falta de habilitação dos herdeiros e a inexistência de regularização da representação processual após o falecimento de um dos sócios administradores.
+De fato, do exame dos fundamentos do julgado embargado, constata-se que a questão não foi apreciada.
+Consta dos autos que os recorrentes interpuseram recurso especial, com base na alínea a do permissivo constitucional, objetivando impugnar acórdão de fls. 767-778 (e-STJ), proferido no julgamento de agravo de instrumento manejado para rebater decisão que rejeitou exceção de pré-executividade.
+Opostos embargos declaratórios na origem, o recurso foi rejeitado (e-STJ, fls. 821-828).
+Nas razões do recurso especial, os recorrentes apontaram ofensa aos arts. 489 do CPC/2015; e 206, § 5º, e 682, inciso II, do CC/2002.
+Sustentaram a existência de negativa de prestação jurisdicional no aresto recorrido, afirmando que o Tribunal estadual deixou de se manifestar a respeito do pedido de nulidade de todos os atos processuais diante da falta de habilitação dos herdeiros e da regularização da representação processual após o falecimento do sócio administrador.
+A respeito do tema, é preciso assinalar que os embargos de declaração revestem-se de fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, desse modo, natureza infringente.
+Todavia, constatado qualquer um dos vícios acima mencionados, é determinante que a correção seja efetuada, a fim de que a prestação jurisdicional requerida do Estado seja efetiva.
+No caso em análise, verifica-se que, apesar de o Tribunal de origem ter sido instado a pronunciar-se sobre o ponto acima citado, manteve-se inerte.
+A propósito, confira-se trecho do acórdão prolatado no julgamento dos embargos de declaração (e-STJ, fls. 822-827):
+Os embargantes aduzem que houve omissão quanto ao pedido de nulidade de todos os atos do processo a partir da morte do sócio, responsável tributário da empresa executada, Joacir Rodrigues dos Santos, em 14-8-2003.
+Os embargantes asseveram que houve contradição na má aplicação da súmula 106 do STJ citado no v. acórdão, uma vez que o caso aqui a ela não se subsumi, porque a Fazenda Pública não agiu de forma diligente no sentido de promover a citação dos embargantes, nem sequer postulou ser editalícia, de tal sorte que a demora para a citação, deve a ela ser atribuída.
+Os embargantes requerem sejam acolhidos os embargos declaração para sanar a omissão e contradições apontadas, modificando-se o v. Acórdão, uma vez que evidentemente equivocado, ante o permissivo contido no art. 494, do mesmo diploma legal.
+ ..
+Em virtude disso, "os embargos declaratórios somente são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar possível erro material existente no acórdão" (EDcl no REsp 1365736/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/11/2014, DJe 21/11/2014).
+Na espécie, tem-se que a situação trazida pelo embargante não caracteriza nenhuma das hipóteses previstas nos incisos I, II e III do art. 1.022 do NCPC, inexistindo quaisquer vícios a serem sanados.
+In casu, o que pretende a parte embargante é adequar a decisão aos seus interesses, com o escopo de conferir efeito modificativo ao julgado, o que, repita-se, é inadmissível, dados os estreitos limites dos declaratórios.
+Acerca da prescrição intercorrente dispõe o art. 40 da Lei 6.830/1980:
+Art. 40 - O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição.
+§ 1º Suspenso o curso da execução, será aberta vista dos autos ao representante judicial da Fazenda Pública.
+§ 2º Decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos.
+§ 3º Encontrados que sejam, a qualquer tempo, o devedor ou os bens, serão desarquivados os autos para prosseguimento da execução.
+§ 4º Se da decisão que ordenar o arquivamento tiver decorrido o prazo prescricional, o juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato. (Incluído pela Lei nº 11.051, de 2004)
+§ 5º A manifestação prévia da Fazenda Pública prevista no § 4o deste artigo será dispensada no caso de cobranças judiciais cujo valor seja inferior ao mínimo fixado por ato do Ministro de Estado da Fazenda
+O C. Superior Tribunal de Justiça, no julgamento do REsp 1.340.553-RS, sob o rito dos recursos repetitivos, firmou o seguinte entendimento sobre a prescrição intercorrente:
+ ..
+Extrai-se do julgado pelo Superior Tribunal de Justiça, que no tocante à prescrição intercorrente nas execuções fiscais, não havendo a citação de qualquer devedor por qualquer meio válido e/ou não sendo encontrados bens sobre os quais possa recair a penhora (o que permitiria o fim da inércia processual), fica estabelecido o prazo de um ano de suspensão do processo e do respectivo prazo de prescrição.
+A mora do Judiciário não pode, em nenhuma hipótese, prejudicar o direito da parte.
+ ..
+Logo, constatado que o decurso do tempo deu-se, principalmente, por falhas do Poder Judiciário e não por inércia do exequente, não há falar em prescrição intercorrente.
+Ademais, diante da ausência de prova pré-constituída do direito alegado, a manutenção da decisão que rejeitou a exceção de pré-executividade é medida que se impõe. Inadequada, portanto, a via eleita pelo embargante, nos termos da Súmula 393 do STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Conclui-se, portanto, que o aresto combatido, a despeito da oposição de embargos declaratórios, deixou de sanar efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, com vistas a corrigir o vício indicado.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA QUANTO AO TEMPO DE TRABALHO ESPECIAL. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, COM RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo não se manifestou sobre o ponto principal dos embargos de declaração, qual seja, a alusão genérica a presença de agentes nocivos à saúde na atividade laboral, sem considerar os limites de tolerância e a habitualidade, não ser suficiente para o reconhecimento para o tempo de trabalho especial, não foi objeto de específica análise pela Corte de origem, seja no julgamento do recurso de apelação, seja no julgamento do recurso integrativo.
+2. Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrente nos embargos de declaração, ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.094.545/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA DOMINANTE. POSSIBILIDADE. TEMPESTIVIDADE. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DA INSURGÊNCIA. CALENDÁRIO FORENSE DISPONIBILIZADO NO SÍTIO ELETRÔNICO DO TRIBUNAL DE ORIGEM. OFENSA AO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM.
+1. A decisão monocrática proferida pelo Ministro Presidente do Superior Tribunal de Justiça tem como fundamento o art. 21-E, V, do Regimento Interno desta Corte, e constitui-se mera competência delegada dos Ministros que integram as respectivas Seções de julgamento. Assim, redistribuído o agravo interno, nos termos do art. 21-E, § 2º, do RISTJ, cabe ao Ministro designado como relator exercer, em plenitude, as competências previstas no art. 259 do RISTJ.
+2. A existência de jurisprudência dominante desta Corte Superior sobre a matéria autoriza o provimento do recurso especial por meio de decisão singular, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados.
+3. Os calendários judiciais disponibilizados pelos Tribunais nas respectivas páginas eletrônicas possuem presunção de idoneidade para a comprovação de feriado local. Precedente: EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, publicado no DJe de 15/5/2023.
+4. "Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC" (AgRg no REsp n. 1.340.084/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/5/2013, DJe 13/5/2013).
+5. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação aos arts. 489 e 1.022 do CPC/15.
+6. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp n. 1.542.190/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/4/2024, DJe de 22/4/2024.)
+Ante o exposto, acolho os embargos de declaração para, com efeitos infringentes, conhecer do agravo e dar provimento ao recurso especial a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pelos recorrentes.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. VÍCIO CONSTATADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
