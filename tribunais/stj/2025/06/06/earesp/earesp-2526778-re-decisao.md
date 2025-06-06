@@ -1,0 +1,50 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 498):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+Os embargos de divergência opostos na sequência foram liminarmente indeferidos por decisão do Ministro Presidente do STJ. Manejado agravo interno, a Corte Especial negou-lhe provimento, em aresto assim ementado:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DA CONTROVÉRSIA. SÚMULA 315/STJ. REQUISITOS PARA ADMISSÃO DOS EMBARGOS DE DIVERGÊNCIA. NÃO PREENCHIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A mera transcrição de ementas não supre as exigências técnicas para a oposição dos embargos de divergência.
+2. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+3. Agravo interno a que se nega provimento.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o tribunal de origem deixou de apreciar, de forma fundamentada, questões essenciais suscitadas, configurando negativa de prestação jurisdicional.
+Aduz que a dedução do valor do seguro DPVAT da indenização fixada, com base no art. 7º, § 1º, da Lei n. 6.194/1974 e na Súmula n. 246 do STJ, assinalando que o tribunal não abordou esse ponto, violando o princípio da vedação ao enriquecimento sem causa.
+Afirma que a condenação foi mantida com base na responsabilidade objetiva do transportador, sem considerar a culpa exclusiva da vítima.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 500-501):
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, a recorrente não infirmou de forma clara e específica todos os fundamentos da decisão agravada, abstendo-se de atacar a incidência da Súmula 83 do STJ, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a alegar o seguinte (e-STJ fls. 434/435):
+Ao que se infere, referido enunciado sumular não encontra aplicação nos casos em que é alegado violação à dispositivo de lei infraconstitucional.
+Salienta-se que a aplicação do enunciado n.º 83/STJ, ao recurso especial da alínea "a" do permissivo constitucional, viola diretamente, por si só, o próprio art. 105, III, "a", da Constituição Federal.
+A aplicação do enunciado n.º 83 da Súmula do Superior Tribunal de Justiça, ao recurso especial em que se alega contrariedade a lei federal, tendo como único e exclusivo fundamento a anterior interpretação do Tribunal quanto ao sentido da norma federal questionada, é reflexo da crescente influência da jurisprudência na interpretação e aplicação do direito ao caso concreto, na qual se cria verdadeiros critérios extra legais de admissibilidade de recursos aos Tribunais Superiores.
+Ocorre que, querer alargar a aplicação da Súmula 83 até para os casos em que o enunciado não prevê, qual seja, de violação à lei federal, é realizar um exercício de interpretação extensiva totalmente defeso por lei e em contraste até mesmo com o entendimento deste STJ.
+Portanto, considerando que a Súmula nº 83 não se aplica aos casos de violação, deveria o Tribunal ter analisado a admissibilidade das teses de violação ao art. 186 e 927 do CC, bem como art. 944, parágrafo único do CC e art. 3º, I da lei nº 6.194 de 19/09/1974; (..)
+Todavia, há de ser registrada a insuficiência para efeitos de impugnação a esse fundamento da mera alegação de que o recurso se baseou apenas na alínea "a" do permissivo legal, e, portanto, não seria aplicável a Súmula 83/STJ, que supostamente se referiria apenas à pretensão lastreada na divergência jurisprudencial.
+Isso porque, de há muito, encontra-se pacificado o entendimento de que a Súmula 83 do STJ é aplicável tanto pela alínea "a" quanto pela "c" do permissivo constitucional (vide: AgRg no REsp n. 1.361.608/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 12/05/2016; AgRg no AREsp n. 804.289/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe 24/05/2016).
+Nesse contexto, "se a inadmissão teve amparo no óbice descrito na Súmula 83/STJ, deve a parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles para demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou, na hipótese de distinção dos casos, comprovar a inaplicação ao feito do posicionamento exposto no decisum" (AgInt no AREsp 1723249/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/06/2021, DJe 28/06/2021), o que não ocorreu.
+Sendo assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Do mesmo modo, foi devidamente motivado o aresto que manteve o indeferimento liminar dos embargos de diverg ência (fls. 572-573):
+A argumentação do recorrente não afasta o entendimento desta Corte. O recorrente não preencheu os requisitos necessários para o conhecimento e processamento dos embargos de divergência. Da análise dos autos, observa-se que o recorrente não elencou a certidão de julgamento do acórdão paradigma.
+O entendimento desta Corte é que: "(..) no que diz respeito à cópia do "inteiro teor" dos acórdãos apontados como paradigmas, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp 1.903.273/PR, Corte Especial, DJe 16/5/2022). No mesmo sentido: AgInt nos EAREsp 1.771.001/SP, Segunda Seção, DJe 18/8/2022; AgInt nos EDcl nos EAREsp 503.161/PR, Primeira Seção, DJe 19/11/2021; AgRg nos EAREsp 1.472.525/DF, Terceira Seção, DJe 18/12/2020.
+Ademais, o acórdão embargado nem sequer analisou o mérito recursal. Por ausência de impugnação específica ao óbice da Súmula 83/STJ, o agravo em recurso especial não foi conhecido. Portanto, não houve análise da controvérsia.
+O art. 1043, III, do CPC prevê o cabimento de embargos de divergência, ainda que um dos acórdãos não tenha sido conhecido, mas tenha apreciado a controvérsia. No caso em julgamento, o acórdão embargado não analisou o mérito recursal e, muito menos, a controvérsia alegada nos embargos de divergência. Não há, pois, nessa oportunidade, como se alterarem e reavaliarem os critérios acerca do conhecimento do recurso, para passar a analisar o mérito do recurso:
+ ..
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Registre-se que eventual ofensa ao art. 93, IX, da Constituição Federal em razão da suposta falta de fundamentação da sentença condenatória ou do acórdão proferido no julgamento da apelação deveria ter sido suscitada em recurso extraordinário interposto na origem, uma vez que o reclamo apresentado nesta Corte Superior de Justiça deve impugnar o teor das decisões aqui proferidas.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
