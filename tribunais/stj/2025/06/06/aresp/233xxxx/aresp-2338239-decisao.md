@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FELIPPE DA SILVA LOPES e TATIANA CASTELO BRANCO SILVA LOPES contra a decisão que inadmitiu o recurso especial diante da não demonstração de violação dos arts. 1.275, I, do CC, 825, II, e 879, II, do CPC e da incidência da Súmula n. 7 do STJ (fls. 245-246).
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que não se deve conhecer do recurso especial (fls. 235-240).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de adjudicação compulsória com tutela de urgência antecipada em caráter antecedente.
+O julgado foi assim ementado (fls. 220):
+PROPRIEDADE - Adjudicação compulsória - Autores que pretendem adjudicar imóvel do titular do domínio - Quitação do preço não comprovada - Autores que apenas adquiriram direitos que terceiro tinha sobre o bem, mas que sequer ensejariam a aquisição - Improcedência é medida de rigor - Apelo não provido, com observação
+No recurso especial (fls. 223-230), a parte aponta divergência jurisprudencial e violação dos seguintes artigos:
+a) 1.275, I, do CC, pois a arrematação é uma forma de alienação pública que deveria resultar na perda da propriedade;
+b) 825, II, do CPC, visto que a expropriação deveria ocorrer por meio de alienação em leilão judicial;
+c) 879, II, do CPC, porquanto a arrematação está totalmente vinculada aos termos do edital, tendo a detentora do domínio agido com torpeza ao levantar valores provenientes da importância adimplida pelos recorrentes e, ainda sim, questionar a legitimidade da busca pela regularização da transcrição da propriedade, operando-se, em verdade, preclusão lógica sobre qualquer eventual vício alegado acerca do procedimento de arrematação.
+Sustenta que o Tribunal de origem divergiu de precedentes ao não reconhecer a arrematação como forma de aquisição originária, contrariando o entendimento do STJ.
+Requer o provimento do recurso para que se reconheça a arrematação como forma de aquisição originária e se proceda à adjudicação compulsória do imóvel.
+Nas contrarrazões, a parte recorrida aduz que não se deve conhecer do recurso especial, pois as razões recursais afrontam a Súmula n. 7 do STJ, sendo impossível ao STJ proceder ao reexame da matéria fático-probatória, e que a tese recursal apresentada pelos recorrentes não foi objeto de análise e prequestionamento junto ao Tribunal de Justiça do Estado de São Paulo, conforme a Súmula n. 211 do STJ (fls. 235-240).
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+Na origem, trata-se de apelação cível interposta por Felippe da Silva Lopes e Tatiana Castelo Branco da Silva Lopes contra a sentença que julgou improcedente a ação de adjudicação compulsória movida contra a Construtora e Incorporadora Correia Pinto Ltda.
+Na ocasião, os ora agravantes alegaram ter adquirido, em processo de execução, os direitos que Vicenzo Lo Visco detinha sobre um imóvel localizado em Santos, registrado sob a matrícula n. 41.151. Sustentaram que, após a arrematação desses direitos, não poderiam ser responsabilizados por débitos anteriores de Vicenzo e que a transferência do domínio deveria ocorrer sem impedimentos, uma vez que não haveria quebra na continuidade registral.
+Contudo, o Tribunal a quo entendeu que os ora agravantes não comprovaram a quitação do preço do imóvel originalmente adquirido por Vicenzo da empresa apelada, por meio de contrato que permaneceu inadimplido. O Tribunal de origem destacou que Vicenzo foi alvo de ação de cobrança e, posteriormente, teve seus direitos sobre o imóvel penhorados e leiloados em outra execução, na qual os ora agravantes arremataram apenas os direitos decorrentes da posse, e não a propriedade do bem.
+Assim, decidiu que, como o imóvel ainda está registrado em nome da construtora e o contrato original não foi quitado, não há fundamento jurídico para a adjudicação compulsória pretendida pelos então apelantes, visto que a construtora sequer participou do processo de arrematação dos direitos de Vicenzo, o que reforça a impossibilidade de transferência do domínio.
+Destaco os trechos do acórdão do recurso de apelação recorrido (fl. 221):
+Vicenzo, por estar inadimplente também com as cotas condominiais do edifício onde situado o imóvel, foi objeto da ação de cobrança nº 1031699-62.2017.8.26.0562, ajuizada pelo Condomínio Edifício Maçaranduba, cuja fase de conhecimento transitou em julgado em 22.03.2018, e cuja execução seguiu curso no processo nº 0008269-64.2018.8.26.0562, no âmbito do qual se deu a constrição e, depois, praceamento, dos direitos de Vicenzo sobre o bem, tendo havido a arrematação de tais direitos pelos autores, ora apelantes.
+O imóvel ainda está sob a titularidade da apelada (fl. 18) e o apelante, dotado dos autos de arrematação de fls. 32/33, pretende adjudicar o bem.
+Entretanto, tal como consta dos autos de arrematação, os apelantes apenas adquiriram, na arrematação, os direitos de Vicenzo sobre aquele imóvel, e não o imóvel em si, que ainda está sob a titularidade da parte apelada.
+Ocorre que, da consulta feita aos autos da execução nº 0013947-80.2006.8.26.0562, tem-se que o preço do imóvel sequer chegou perto de ser quitado por Vicenzo, que nunca poderia, ele mesmo, ter condições de adjudicar o bem e, por conseguinte, ao transmitir os direitos que tem sobre o imóvel para os apelantes, que os arrematou, não poderia lhes transferir quaisquer direitos que a eles, apelantes, permitisse adjudicar o bem compulsoriamente.
+A análise dos trechos transcritos demonstra que os agravantes não cumpriram os requisitos legais para a adjudicação compulsória. Ficou estabelecido que o direito de propriedade não estava entre os direitos adquiridos no leilão, e a revisão das conclusões do Tribunal de origem é impedida pela Súmula n. 7 do STJ.
+Nesse sentido, veja-se os seguintes julgados:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. ADJUDICAÇÃO COMPULSÓRIA. REQUISITOS. NÃO CUMPRIMENTO. PRINCÍPIO DA CONTINUIDADE REGISTRAL. OFENSA. CONTRATAÇÃO. COMPLEXIDADE. DISCUSSÃO. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. APRECIAÇÃO PELA ALÍNEA "C". IMPOSSIBILIDADE. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+2. Dissídio descaracterizado, em razão das diferenças de circunstâncias de fato dos casos em cotejo.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 1.132.327/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/5/2021, DJe de 27/5/2021, destaquei .)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 13% para 15% sobre o valor da causa, os honorários advocatícios em desfavor da parte ora recorrente.
+Publique-se. Intimem-se.
+EMENTA
