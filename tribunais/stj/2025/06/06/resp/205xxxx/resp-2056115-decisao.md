@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTÔNIO CARLOS CHAVES, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o Tribunal de origem negou provimento ao recurso em sentido estrito interposto pelo recorrente, em que se objetivava fosse declarada extinta a punibilidade do delito a ele imputado, em virtude de alegada perempção.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 60, inciso I, 565 do Código de Processo Penal e 107, inciso IV, do Código Penal.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+O Tribunal de origem, soberano no exame de fatos e de provas, concluiu pela inexistência de elementos aptos a desaguar no reconhecimento da perempção.
+Colho, no particular, trecho do acórdão impugnado (fls. 260-261):
+"É que, conforme se vislumbra de simples análise dos autos, ad. Defesa da querelante tem atuado de maneira ativa no feito, tomando todas as providências que lhe são cabíveis, sempre no intuito de promover o efetivo deslinde do feito. Ao contrário, o ora recorrente (querelado), embora possua defesa constituída, que a todo momento se mostra ativa no feito, não tem colaborado com a Justiça, uma vez que sequer manteve seu endereço atualizado nos autos, somente vindo afazê-lo já nas razões recursais. Aliás, como bem salientado pelo parquet, fl. 152, o desconhecimento do endereço atual do querelado é justamente o que atrapalha o prosseguimento do feito: "não houve efetivo abandono da causa por parte da querelante, mas tão somente a demora em fornecer o endereço do querelado, o qual ela sequer possuía". Assim sendo, considerando que a querelante tem tomado todas as medidas que lhe são cabíveis, demonstrando interesse no regular prosseguimento do feito, inviável se falar m perempção, sobretudo porque, agora, o querelado atualizou seu endereço, o que permitirá o andamento da ação."
+Na espécie, portanto, para infirmar as conclusões adotadas pelo acórdão recorrido, que reconheceu ter a querelante tomado todas as providências para dar andamento ao feito, certo é que o acolhimento da pretensão defensiva depende da incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4o, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
