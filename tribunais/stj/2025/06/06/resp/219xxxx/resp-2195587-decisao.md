@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NELSON AFIF CURY, com fundamento na alínea "a" do permissivo constitucional.
+Ação: cumprimento de sentença, instaurado por MARCELO ANTÔNIO TURRA em face do recorrente e de USINA SANTA RITA AÇÚCAR E ÁLCOOL LTDA
+Decisão: determinou o prosseguimento da demanda em relação ao recorrente.
+Acórdão recorrido: negou provimento ao agravo de instrumento interposto pelo recorrente.
+Recurso especial: alega violação dos artigos: 6º, II, 35, I, "a", 49, § 2º e 59 da Lei 11.101/05 e 313, V, "a", e 833, IV, do CPC. Defende a impossibilidade de prosseguimento da execução em face do coobrigado, uma vez que o plano de recuperação judicial da devedora contém previsão em sentido contrário. Advoga a favor do reconhecimento da impenhorabilidade dos valores depositados em plano de previdência privada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do entendimento do STJ
+A Segunda Seção do STJ, na sessão de julgamento do dia 12/5/2021 (REsp 1.885.53/MT e REsp 1.794.209/SP), firmou entendimento no sentido de que a anuência do titular de garantia, real ou fidejussória, é indispensável para que o plano de recuperação judicial possa estabelecer sua supressão ou substituição.
+Para o colegiado, a cláusula supressiva apenas gera efeitos aos credores que aprovaram o plano de recuperação sem ressalvas quanto a ela, não sendo eficaz, portanto, em relação àqueles que não participaram da assembleia, que se abstiveram de votar ou que se posicionaram contra tal disposição.
+A jurisprudência desta Corte também é firme no sentido de que a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+- Do entendimento do STJ
+A Corte Especial do STJ firmou entendimento de que a garantia da impenhorabilidade, limitada a 40 (quarenta) salários mínimos, é aplicável automaticamente ao montante depositado exclusivamente em caderneta de poupança, admitindo-se sua extensão a importâncias mantidas em conta-corrente ou quaisquer outras aplicações financeiras, desde que comprovado, pela parte atingida pelo ato constritivo, que os valores constituem reserva de patrimônio destinado à subsistência sua e de sua família (REsp 1.660.671/RS, DJe 23/5/2024).
+Destarte, tendo o acórdão recorrido decidido que, no particular, o cabimento da penhora de valores mantidos em plano de previdência privada deve ser avaliado casuisticamente pelo juízo de primeiro grau, não há reparo a ser feito no pronunciamento judicial.
+Forte nessas razões, NEGO PROVIMENTO ao recurso especial.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. RECUPERAÇÃO JUDICIAL. COOBRIGADO. EXONERAÇÃO. INEFICÁCIA DA CLÁUSULA DO PLANO EM RELAÇÃO AOS CREDORES QUE COM ELA NÃO ANUÍRAM. PENHORA. PREVIDÊNCIA PRIVADA. POSSIBILIDADE. ANÁLISE CASUÍSTICA.
+1. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, da Lei 11.101/05. Precedentes.
+2. A garantia da impenhorabilidade é aplicável automaticamente ao montante depositado exclusivamente em caderneta de poupança, admitindo-se sua extensão a importâncias mantidas em conta-corrente ou quaisquer outras aplicações financeiras, desde que comprovado, pela parte atingida pelo ato constritivo, que os valores constituem reserva de patrimônio destinado à subsistência sua e de sua família. Precdente da Corte Especial.
+3. Recurso especial não provido.
