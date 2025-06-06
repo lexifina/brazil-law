@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por ASSOCIAÇÃO DA RESERVA EXTRAVISTA MARINHA DE ARRAIAL DO CABO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 754-755):
+Apelação. Ação Civil Pública ajuizada pela Associação da Reserva Extrativista Marinha de Arraial do Cabo AREMAC. Dano ambiental. Derramamento de óleo combustível na praia de Arraial do Cabo, em março de 2019. Pedido de condenação da Petrobrás e da Transpetro ao pagamento de verba indenizatória aos pescadores, marisqueiros e maricultores afetados e também com respaldo no dano ao meio ambiente. Sentença de extinção do feito sem resolução do mérito. Apelação autoral. Ilegitimidade passiva da Transpetro para a causa, com base no artigo 485, inciso VI do Código de Processo Civil, porque a petição inicial não menciona que o vazamento de óleo teria sido causado pela referida ré, durante o transporte de petróleo ou derivados. Existência de Termo de Ajustamento de Conduta - TAC firmado entre a Petrobrás e a Defensoria Pública e homologado por Sentença, quanto à indenização devida aos pescadores, marisqueiros e maricultores do município de Arraial do Cabo. Acordo firmado pela Petrobrás com o Ministério Público Federal e homologado por Sentença da Justiça Federal, quanto à destinação de verba reparatória para a área ambiental degradada. Aplicação do artigo 485, inciso V do Código Processual. Reconhecimento de coisa julgada. Manutenção da Sentença terminativa. Desprovimento da Apelação autoral.
+Rejeitados os embargos de declaração opostos (fls. 809-813).
+No recurso especial, alega a agravante, preliminarmente, ofensa aos arts. 489, §1º, IV, e 1.022, I e II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão estadual contrariou as disposições contidas nos arts. 17, 337 §§ 1º, 2º, 3º e 4º, 373, § 1º, e 506 do CPC; 14, § 1º, da Lei n. 6.938/1981; 12, caput, 186, 927, caput, 942 e 944 do Código Civil; 6º, VIII, do CDC; 21 da Lei n. 7.347/1985, sustentando: i) a inexistência de coisa julgada; ii) o interesse de agir da requerente; iii) a legitimidade passiva da Transpetro S.A.; iv) o cerceamento do seu direito de defesa e violação do contraditório, quanto ao ônus da prova; v) a responsabilidade civil das rés pelos danos causados.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.449-1.458 - 1.468-1.476).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.493-1.507), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.711-1.719 - 1.721-1.729).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, e ante as circunstâncias que envolvem a lide, inclusive o elevado valor da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências pertinentes.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. INDENIZATÓRIA. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
