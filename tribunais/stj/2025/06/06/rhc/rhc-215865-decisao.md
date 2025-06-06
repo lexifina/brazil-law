@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MÔNICA PEREIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado de Rio Grande do Norte (Habeas Corpus n. 0803802-67.2025.8.20.0000).
+Consta dos autos que a recorrente foi condenada, em grau de apelação, como incursa no art. 2º, § 2º e 3º, da Lei n. 12.850/2013, à pena de 5 anos, 2 meses e 29 dias de reclusão, em regime semiaberto. Opostos embargos de declaração, estes ainda se encontram pendentes de julgamento.
+A defesa impetrou, então, prévio habeas corpus, o qual não foi conhecido. Irresignada, interpôs agravo regimental, ao qual se negou provimento, nos termos da seguinte ementa (e-STJ fl. 154):
+PENAL. PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. INSURGÊNCIA ENTABULADA EM FACE DO PRONUNCIAMENTO DE NÃO CONHECIMENTO DO WRIT, NO QUAL SE ALMEJAVA A NULIDADE DE ÉDITO CONDENATÓRIO TRANSITADO EM JULGADO E DISCUTIDO POR ESTA CÂMARA EM SEDE DE APELO. MATÉRIA INSUSCETÍVEL DE ANÁLISE POR ESTE ÓRGÃO FRACIONÁRIO , INCLUSIVE FIGURANDO COMO AUTORIDADE COATORA. INTENTO A SER DEMANDADO PELOS TRIBUNAIS SUPERIORES. DECISUM MANTIDO. CONHECIMENTO E DESPROVIMENTO.
+No presente recurso, a defesa aduz, em síntese, que a condenação está embasada em provas ilícitas, uma vez que a decisão que permitiu a extração de dados dos celulares apreendidos é carente de fundamentação. Pugna, assim, pela nulidade das provas com a consequente absolvição do paciente. Subsidiariamente, requer seja determinada a análise da ilegalidade pela Corte local.
+O Ministério Público Federal se manifestou, às e-STJ fls. 187-192, nos seguintes termos:
+RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. INCOMPETÊNCIA DA CORTE LOCAL - WRIT CONTRA PRÓPRIA DECISÃO. AUTORIZAÇÃO JUDICIAL GENÉRICA PARA EXTRAÇÃO DE DADOS TELEMÁTICOS. QUESTÃO NÃO APRECIADA NA SENTENÇA E NO ACÓRDÃO CONDENATÓRIO. COMPETÊNCIA RECURSAL NÃO EXAURIDA - PENDÊNCIA DE JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+De plano, constata-se que as alegações defensivas não foram conhecidas pelo Tribunal de origem no julgamento do prévio mandamus, porquanto se considerou que a matéria já teria sido "veementemente rechaçada em sede de Apelo" (e-STJ fl. 156). Como é de conhecimento:
+O habeas corpus não é admitido quando utilizado como mera reiteração de pedido já analisado em recurso próprio interposto e examinado, conforme jurisprudência consolidada do Superior Tribunal de Justiça. (AgRg no RHC n. 201.933/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Ademais, a defesa nem ao menos juntou o acórdão no qual a matéria foi efetivamente analisada, para que fosse possível examinar eventual constrangimento ilegal. Some-se a isso que, de acordo com o parecer do Ministério Público Federal, encontra-se pendente de julgamento recurso de embargos de declaração, o que revela o não exaurimento da instância ordinária.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE ROUBO. PENDÊNCIA DE JULGAMENTO DE EMBARGOS DE DECLARAÇÃO QUANDO IMPETRADO O WRIT. JULGAMENTO NÃO DEFINITIVO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. WRIT NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Há óbice processual à análise do habeas corpus quando impetrado na pendência de análise de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária.
+2. A possibilidade de concessão de habeas corpus, de ofício, não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 774.400/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.)
+Dessa forma, quer por não ter sido a matéria examinada no acórdão recorrido, quer por não ter sido juntado o acórdão no qual a matéria foi examinada, bem como em razão do não esgotamento das instâncias ordinárias, não é possível conhecer do tema submetido ao conhecimento desta Corte Superior na presente oportunidade. De igual sorte, afirmando o Tribunal de origem que a matéria já foi examinada no recurso própio, também não há como se acolher o pedido subsidiário.
+Pelo exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+EMENTA
