@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e falta do devido cotejo analítico (fls. 392-395).
+O acórdão recorrido encontra-se assim ementado (fl. 271):
+PRODUÇÃO ANTECIPADA DE PROVAS HOMOLOGAÇÃO - APELAÇÃO DA AUTORA - Pretensão de condenação da ré no ônus da sucumbência - Descabimento - A sentença de ação antecipada de provas tem caráter meramente homologatório, não havendo pronunciamento do juiz sobre a ocorrência ou não dos fatos e suas respectivas consequências jurídicas Imposição de sucumbência indevida na hipótese - Sentença mantida. - Pedido de afastamento da condenação por ato atentatório à dignidade da justiça - Acolhimento - O autor opôs embargos de declaração alegando omissão na sentença, em razão da não fixação do ônus sucumbencial - O recurso não foi conhecido, com imposição de multa de 5% sobre o valor da causa, nos termos do art. 77, incisos III e IV, do CPC - O recurso possui amparo legal (art. 1.022, inciso II, do CPC) A oposição dos embargos não configura ato atentatório à dignidade da justiça - Sentença reformada. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 380-383).
+Nas razões do recurso especial (fls. 277-324), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV e V, e 1.022 do CPC/2015, uma vez que o E. Tribunal de origem não se pronunciou sobre as omissões e as contradições apontadas nos embargos de declaração.
+(ii) artigos 318, 381, 382, parágrafo 3º 396, 397, 399, 497 do CPC/15, uma vez que, contrário ao que concluiu o Acórdão, subsiste no ordenamento a figura da exibição de documentos, a qual, não necessariamente será sucedida por outra ação ou pela conversão desta em ação principal.
+(iii) art. 85 do CPC/2015, ante o principio da causalidade o recorrido, que com a comprovada resistência administrativa que impulsionou a autora para esta ação, deveria ter sido condenado ao pagamento das verbas de sucumbência.
+Aduz que "a mera reiteração do Acórdão não atende as disposições dos artigos 489, 1022 do CPC, por outro lado, nítido que a questão não é de prova, mas de reconhecimento ao preenchimento aos pressupostos impostos pelo REsp nº 1.349.453/MS, Relator Ministro LUIS FELIPE SALOMÃO, DJe 02/02/2015, e de que A PROCEDENCIA DA AÇÃO DE EXIBIÇÃO AUTONOMA LEVA A CONSEQUENTE SUCUMBENCIA DO RÉU (ART. 85, CPC), e sem a devida condenação do recorrido em honorários de sucumbência, houve inequívoca afronta aos artigos 382, §3º, 489, inciso III e parágrafo 1º, incisos IV, VI e 1022 do CPC/15 e equivocada aplicação da lei, assim como, afrontou o artigo 85 caput, §§ 1º, 2º e 11, do CPC/2015" (fl. 300).
+No agravo (fls. 398-435), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 450-454).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Segundo o Tribunal de origem, "na espécie não há que se falar em condenação da ré no ônus sucumbencial, pois a sentença proferida em ação de produção antecipada de provas tem caráter homologatório, não se pronunciando o juiz sobre a ocorrência ou não dos fatos e suas respectivas consequências jurídicas, nos termos do disposto no artigo 382, § 2º, do Código de Processo Civil, mostrando-se acertada a sentença proferida ao não impor a qualquer das partes processuais o ônus da sucumbência" (fls. 272-273).
+Contudo, o acórdão recorrido contrariou a jurisprudência dessa Corte Superior, segundo a qual "nas ações cautelares de exibição de documentos e produção antecipada de provas, somente são cabíveis honorários de sucumbência quando houver resistência da parte requerida ao atendimento do pedido" (AgInt no AREsp n. 2.821.991/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025). Confira-se:
+PROCESSUAL CIVIL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. AUSÊNCIA DE RESISTÊNCIA DA PARTE RÉ.
+1. Ação de produção antecipada de provas.
+ ..
+3. Consoante entendimento desta Corte Superior, são devidos honorários advocatícios se demonstrada a indevida recusa administrativa e configurada a resistência à pretensão autoral, o que não ocorre na presente hipótese. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.587.387/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024 - grifei.)
+Como a Corte estadual não se manifestou sobre a existência de resistência da parte ré à exibição administrativa de documentos  questão relevante para a condenação em honorários advocatícios com base no princípio da causalidade  , e considerando que se trata de matéria eminentemente fática, os autos devem retornar à origem para análise da questão.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para novo julgamento do recurso de apelação, com análise do cabimento dos honorários advocatícios em caso de ter ocorrido a resistência da parte ré à exibição de documentos.
+Publique-se e intimem-se.
+ EMENTA
