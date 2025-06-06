@@ -1,0 +1,36 @@
+DECISÃO
+Em exame, recurso especial interposto por RAFAEL DA SILVA PINTO contra acórdão da 8ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, no Agravo em Execução Penal n. 5006847-43.2024.8.19.0500. Os embargos de declaração opostos na sequência foram rejeitados.
+O recorrente, por intermédio da Defensoria Pública, alega ofensa aos arts. 927 e 1.022 do Código de Processo Civil. Afirma que é economicamente hipossuficiente, razão pela qual deveria ter sido extinta a pena. Sustenta, nesse passo, que o acórdão recorrido foi omisso quanto ao Tema 931 do Superior Tribunal de Justiça.
+As contrarrazões foram oferecidas.
+Mantida a decisão em juízo de retratação, o recurso especial foi admitido.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte Superior, não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. APTIDÃO DA INICIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Recebimento da inicial de ação de improbidade administrativa ajuizada pelo Ministério Público contra Vice-Presidente do Tribunal de Justiça por ter alegadamente recebido vantagem financeira para alterar a ordem cronológica de pagamento de precatório.
+2. A petição inicial foi considerada apta, descrevendo adequadamente os fatos e fundamentos jurídicos do pedido, não havendo inépcia ou cerceamento de defesa a ser reconhecido. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+4. Tem-se por corretamente aplicado o prazo prescricional de 16 anos, em conformidade com o art. 142, § 2º, da Lei 8.112/1990, combinado com o art. 109, II, do Código Penal, considerando que a conduta também tipificaria o crime de corrupção passiva. A contagem do lapso prescricional, por outro lado, é feita a partir da ciência do fato ímprobo, fato a corroborar a inexistência de prescrição.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.996.925/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL MINISTERIAL EM RECURSO ESPECIAL. ART. 33 DA LEI N.º 11.343/2006. ABSOLVIÇÃO. DESTINAÇÃO COMERCIAL DA DROGA NÃO COMPROVADA. PRINCÍPIO DO IN DUBIO PRO REO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Hipótese na qual o Tribunal de origem absolveu o acusado com fundamento no art. 386, VII, do Código de Processo Penal, ao considerar insuficiente a prova sobre a destinação comercial da droga apreendida (8,47g de maconha), destacando a inexistência de elementos que indicassem mercancia, como apreensão de dinheiro, balança de precisão, anotações ou invólucros.
+2. Afastar as conclusões das instâncias ordinárias demandaria revolvimento do conjunto fático-probatório o que encontra óbice na Súmula 7 do STJ.
+3. Tendo o Tribunal a quo enfrentado adequadamente todas as questões relevantes para o deslinde da controvérsia, não se verificando omissão, contradição, obscuridade ou ambiguidade a ser sanada, não se constata a ausência de prestação jurisdicional ou ofensa ao art. 619 do Código de Processo Penal.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.181.454/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+No caso, não assiste razão jurídica à parte. Como explicitado no acórdão impugnado, a matéria decidida no recurso da acusação refere-se apenas à intimação do réu para que este comprovasse o pagamento da pena de multa que lhe foi imposta, sendo da competência do Juízo da execução a análise da hipótese de hipossuficiência financeira. Daí por que não se cogita de omissão acerca do Tema 931, que diz respeito à suficiência da autodeclaração de pobreza para fins de extinção da punibilidade, questão de mérito.
+Nesse mesmo sentido, bem retratou o judicioso parecer ministerial (fl. 297):
+Vê-se assim da leitura da ementa do julgamento acima transcrita, que o precedente invocado pelo ora recorrente (Tema 931 do STJ) trata da extinção da punibilidade em razão do inadimplemento da pena de multa em virtude da alegada hipossuficiência do apenado.
+Ocorre que, no caso dos autos, como já dito, o Parquet Estadual interpôs o agravo em execução visando a intimação do apenado para que se manifeste acerca do pagamento da pena de multa que lhe fora imposta na sentença condenatória transitada em julgado. Ora, sem muitas dificuldades, vemos que o recurso do Parquet visa oportunizar ao apenado, ora recorrente, o pagamento voluntário da pena de multa, uma vez que até o momento não houve manifestação de RAFAEL DA SILVA PINTO acerca da (im)possibilidade de fazê-lo.
+O agravo em questão, portanto, não trata do efetivo inadimplemento da pena pecuniária, nem mesmo da hipossuficiência do apenado, mas sim da possibilidade de deflagração do procedimento executório, caso necessário, junto à própria VEP.
+Por tal razão, se mostra equivocada a premissa adotada pelo recorrente de que o Tribunal a quo foi omisso ao não julgar o agravo do Parquet com base no Tema Repetitivo nº 931 do STJ eis que, como já dito e repetido, não houve no referido recurso qualquer pedido no sentido de reconhecimento ou não reconhecimento da ocorrência da extinção da punibilidade em razão do adimplemento ou inadimplemento da pena de multa em razão da hipossuficiência do apenado.
+Além disso, conforme destacado no acórdão recorrido ".. todas as alegações e pedidos, respectivamente, apresentadas e formulados no recurso interposto tempestiva e exclusivamente pelo órgão ministerial, foram enfrentadas e decididos, no Acórdão, inexistindo qualquer omissão quanto a estes, sendo incabível em sede de petição rotulada como "embargos de declaração", proferir-se decisão extra ou ultra petita, de pretensões infringentes/modificativas, sem interposição tempestiva de recurso próprio voluntário/independente, pela Defesa do penitente nomeado." (fls. 124/125 e-STJ).
+Vale acrescer, por fim, que, ao que tudo indica, data venia, o recorrente busca no presente recurso, ainda que de forma transversa e precoce, ver reconhecida a extinção da sua punibilidade o que, por óbvio, não se pode admitir.
+Assim, conclui-se que não há no acordão recorrido qualquer omissão/obscuridade que devesse ter sido sanada na via dos embargos de declaração, razão pela qual não está presente a alegada ofensa aos artigos 927 e 1.022, ambos do CPC.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
