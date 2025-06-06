@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por THAYNA DE LEMOS contra a decisão que inadmitiu o recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, a agravante foi condenada nos seguintes termos:
+"c) Thayná: "03 anos e 06 meses de reclusão, em regime inicial fechado, e 11 dias-multa, esses no mínimo legal, como incurso no artigo 155, §4º, inciso IV, e artigo 288, na forma do artigo 69, todos do Código Penal"
+Em segunda instância, o Tribunal negou provimento à apelação defensiva, sendo mantida a condenação.
+THAYNÁ interpôs recurso especial, embasado no artigo 105, inciso III, alínea a, da Constituição Federal, onde alega violação dos arts. 33, §2º, alínea "c" e 44, caput e §3º do Código Penal pois a decisão careceria de fundamentação para justificar a imposição do regime inicial de cumprimento de pena fechado, além de deixar de aplicar a substituição da pena privativa de liberdade por restritiva de direitos.
+Apresentadas as contrarrazões às fls. 623-640, sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula nº 182, STJ, ao argumento de que não teriam sido atacados todos os fundamentos do aresto recorrido; ii) na ausência de prequestionamento e iii) na incidência da Súmula nº 7, STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório.
+Nas razões do agravo postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à admissão.
+O Ministério Público Federal às fls. 703-710 apresentou parecer pelo não conhecimento do agravo, ou, caso admitido, pela inadmissão do recurso especial ou, caso estes seja admitido, que seja desprovido.
+É o relatório. DECIDO.
+Com efeito, é possível observar que a fixação do regime fechado inicial de cumprimento de pena em desfavor da agravante deu-se exclusivamente em razão de se tratar de pessoa reincidente em delito de receptação.
+O juízo sentenciante não aduziu quaisquer outros fundamentos aptos a embasarem a segregação mais gravosa, a despeito de ter afirmado a inexistência de circunstâncias judiciais desfavoráveis quando da fixação da pena base.
+Neste contexto, levando-se em consideração que a pena final é inferior a 04 anos e a inexistência de circunstâncias judiciais desfavoráveis, deve postular incidência ao caso a Súmula 269 deste Sodalício.
+Ademais, a menção ao cometimento do delito "em comparsaria revelando, igualmente, sua audácia e perigosidade incomum" revelam a visão subjetiva do Tribunal recorrido, sem o apontamento adequado de circunstâncias concretas aptas a justificarem a imposição do regime de cumprimento mais gravoso, a fazer incidir o entendimento consolidado na Súmula 718 do STF. Neste sentido:
+2. É pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ. Na espécie, contudo, o agravante, além de reincidente, possui maus antecedentes, tendo as instâncias ordinárias adotado a referida vetorial desfavorável para afastar a pena-base do seu mínimo legal, o que afasta a incidência da Súmula n. 269/STJ, e constitui fundamentação idônea para a imposição do regime inicial fechado. (AgRg nos EDcl no AgRg no AREsp 2321835/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, jilgado em 23/05/2023).
+Ante o exposto, com fundamento no art. 253, II, "a", do Regimento Interno do STJ, conheço do agravo interposto por THAYNA DE LEMOS para dar parcial provimento ao recurso especial para alterar o regime de cumprimento de pena de fechado para semiaberto, nos termos da fundamentação supra.
+Comunique-se com urgência ao j uízo da execução.
+Publique-se. Intimem-se.
+EMENTA
