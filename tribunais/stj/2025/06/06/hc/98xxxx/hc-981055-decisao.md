@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WESLEY GOMES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que, em decisão monocrática, o Desembargador no Tribunal de origem deu provimento à cautelar inominada para atribuir efeito suspensivo ao recurso em sentido estrito, reestabelecendo-se a prisão do Paciente pela suposta prática do crime previsto no artigo 121, §2º, incisos II e IV, do Código Penal.
+No presente writ, a Defesa alega, em síntese, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório do Paciente, apontando a ilegitimidade do assistente de acusação para recorrer.
+Aduz que houve afronta ao enunciado sumular n. 208 do Supremo Tribunal Federal, o qual dispõe que "O assistente do Ministério Público não pode recorrer, extraordinariamente, de decisão concessiva de habeas corpus". (fl. 5).
+Sustenta a necessidade de superação do enunciado sumular n. 691 do Supremo Tribunal Federal.
+Requer a concessão da ordem para : i) anular a decisão coatora que atribuiu efeito suspensivo ao Recurso em Sentido Estrito do Ministério Público; ii) reconhecer a ilegitimidade ativa do assistente de acusação para ajuizar a referida Medida Cautelar Inominada Criminal para questionar decisão concessiva de liberdade ao réu; iii) restabelecer em definitivo a liberdade do Paciente (retomando-se e restabelecendo-se os efeitos da decisão do juízo de 1º grau que substituiu a prisão preventiva por cautelares diversas da prisão).
+Liminar deferida às fls. 170-172.
+Informações prestadas às fls. 174-324, 411-453 e 477-480.
+O Ministério Público Federal em parecer, às fls. 468-474, opinou pelo "NÃO CONHECIMENTO do Habeas Corpus, acaso conhecido, que seja considerado PREJUDICADO o objeto do presente feito; ou, se assim não entender V. Exa., que seja DENEGADA a ordem, uma vez que a ilegitimidade do Assistente de Acusação restou sem efeito diante da determinação de que fossem apreciadas suas razões recursais" (fl. 474).
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Primeiro, porque, consoante se depreende dos autos, o Desembargador do Tribunal de Justiça teria acolhido pedido de ação cautelar própria do Ministério Público no recurso em sentido estrito interposto pelo parquet estadual:
+Ante o exposto, considerando que a concessão em parte, da liminar, pelo Tribunal Superior é fundamentada na suposta ilegalidade do ato, realizado monocraticamente por este Relator, que suspendeu os efeitos da decisão do juízo de primeiro grau, em sede de cautelar inominada, ajuizada pela assistente de acusação, tenho que o Ministério Público Estadual, ao formular pedido em Ação Cautelar própria, advinda de seu Recurso em Sentido Estrito, afasta o suposto constrangimento ilegal, apontado pelo Superior Tribunal de Justiça na prisão de Wesley.
+Desta feita, entendo por prudente, em razão do histórico de processos do suposto autor do crime e, pautado na necessidade da garantia da ordem pública, determinar o retorno de WESLEY GOMES DA SILVA à unidade prisional.
+Assim, diante de tais elementos, concedo efeito suspensivo ativo ao Recurso em Sentido Estrito, interposto pelo Ministério Público Estadual, devendo ser expedido o competente mandado de prisão, contendo, como data máxima para cumprimento 28/07/2044 e incursão penal nos termos do art. 121, §2º, incisos II e IV, do Código Penal. (fl. 427).
+Ou seja, o Ministério Público teria apresentado ação cautelar visando o efeito suspensivo no recurso por ele próprio interposto, a fim de reformar a decisão que revogou a prisão preventiva; a superar a alegada ilegitimidade do assistente para recorrer.
+Depois, conforme consta nas informações prestadas pelo Tribunal local, fls. 477-480, houve julgamento do recurso em sentido estrito de n.º 5005213-54.2025.8.08.0024, em 20/5/2025, ocasião na qual, por unanimidade, foi dado provimento ao recurso interposto pelo Ministério Público Estadual, para reformar a decisão que revogou prisão preventiva do Paciente.
+Nesse sentido, consta nas informações prestadas pela Corte de origem:
+Fora interposta Cautelar Inominada, pugnando pela atribuição de efeito suspensivo ao Recurso em Sentido Estrito, interposto contra a decisão que revogou a prisão preventiva do paciente, alegando, em síntese, que a soltura do acusado colocaria em perigo a garantia da ordem pública e a conveniência da instrução criminal.
+No dia 26/02/2025, entendi por dar provimento ao pedido liminar, para conceder efeito suspensivo ao RESE de n.º 5005213-54.2025.8.08.0024 e suspender, também, a decisão de revogação da prisão preventiva do paciente.
+Informo, por fim, que o Recurso em Sentido Estrito de n.º 5005213-54.2025.8.08.0024 foi julgado por esta 1ª Câmara Criminal nesta data, que, à unanimidade de votos, entendeu por dar provimento ao recurso do Ministério Público Estadual, para reformar a decisão que revogou a prisão preventiva. (fl. 478).
+Nesse caso, houve a perda do objeto, pois não se trata mais de discutir a prisão em face de cautelar inominada para atribuir efeito suspensivo a recurso, mas do julgamento de recurso em sentido estrito, que reformou a decisão que revogou a prisão preventiva.
+Ante o exposto, casso a liminar anteriormente concedida (e-STJ fls. 170-172) e não conheço do habeas corpus.
+Comunique-se, com urgência, ao Juízo da 1ª Vara Criminal da Comarca de Vitória.
+Publique-se. Intimem-se.
+EMENTA
