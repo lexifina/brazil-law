@@ -1,0 +1,16 @@
+DECISÃO
+CLÁUDIO DE CARVALHO AZEREDO, WELLINGTON BARBOSA DO COUTO, JUAREZ DE OLIVEIRA DOS SANTOS FILHO e LUIZ FERNANDO BASTOS CORDEIRO apontam constrangimento ilegal decorrente de acórdão proferido pelo Tribunal a quo.
+Nas razões desta impetração, a defesa requer:
+considerando a OFENSA ao Princípio da Conexão, em que o ACÓRDÃO objurgado não enfrenta a matéria de fundo posta em Juízo dada a teratologia jurídica arguida, bem como o TUMULTO PROCESSUAL existente nas ações penais conexas, havendo, desnecessariamente inúmeras ações penais que versam sobre os mesmos fatos em tramitação, bem como a atipicidade no andamento processual, cujo fundamento contido no acórdão, limita-se, tudo à revelia do artigo 93 IV da Carta Maior, sem contudo, enfrentar a matéria principal de fundo, decisum que não guarda qualquer relação com a causa posta em análise, REQUER a V. Exa a concessão de ordem Liminar para determinar a união de todas as ações penais conexas, quando estará sendo restabelecida a costumeria justiça (fl. 139, grifei).
+Decido.
+De plano, verifico que o recurso em habeas corpus não há como ser conhecido.
+A Corte local assim denegou a ordem:
+HABEAS CORPUS. ALEGAÇÃO DEFENSIVA DE CONSTRANGIMENTO ILEGAL POR INDEFERIMENTO DA REUNIÃO DE DIVERSAS AÇÕES POR CONEXÃO, QUE NÃO MERECE PROSPERAR. JUÍZO NATURAL DA CAUSA QUE APRESENTOU FUNDAMENTAÇÃO CONCRETA E IDÔNEA PARA AFASTAR O PLEITO VOLTADO À REUNIÃO DOS REFERIDOS FEITOS. A MODIFICAÇÃO DO ENTENDIMENTO ENSEJARIA O REVOLVIMENTO FÁTICO-PROBATÓRIO.
+IMPOSSIBILIDADE. AÇÃO DE SUMÁRIA COGNIÇÃO E RESTRITA DILAÇÃO PROBATÓRIA.
+NO CASO, VERIFICA-SE TRATAR DE MÚLTIPLOS PROCESSOS DECORRENTES DA OPERAÇÃO "LUCRO CERTO", COM GRANDE QUANTIDADE DE VÍTIMAS E PLURALIDADE DE RÉUS, COM OCORRÊNCIA DE VÁRIOS DESMEMBRAMENTOS. ALÉM DISSO, OS PROCESSOS SE ENCONTRAM EM FASES DISTINTAS. ALGUNS COM INSTRUÇÃO ENCERRADA E OUTROS JÁ COM SENTENÇAS PROFERIDAS. INCIDÊNCIA DA SÚMULA N. 235 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+OUTROSSIM, AS AÇÕES PENAIS TRAMITAM PERANTE O MESMO JUÍZO, O QUE MINIMIZA O RISCO DE DECISÕES CONFLITANTES.
+EVENTUAL TENTATIVA DE REUNIÃO DOS PROCESSOS SOMENTE OCASIONARIA O PROLONGAMENTO DOS FEITOS E TUMULTO, O QUE EVIDENTEMENTE NÃO SE COMPATIBILIZA COM O INSTITUTO DA CONEXÃO. É IMPORTANTE CONSIGNAR QUE, AINDA QUE EXISTA CONEXÃO OU CONTINÊNCIA ENTRE OS FEITOS, O ARTIGO 80 DO CÓDIGO DE PROCESSO PENAL ADMITE A SEPARAÇÃO DOS PROCESSOS CONEXOS. DESSE MODO, A EVENTUAL REUNIÃO DOS PROCESSOS REPRESENTA MERA CONVENIÊNCIA DO JULGADOR, EIS QUE NÃO HÁ PREJUÍZO PARA OS RÉUS. NESSE ASPECTO, EVENTUAL CONDENAÇÃO MÚLTIPLA IMPÕE QUE O JUÍZO DA EXECUÇÃO SERÁ O COMPETENTE PARA UNIFICAÇÃO DAS PENAS DOS PACIENTES, A TEOR DA NORMA DO ARTIGO 111 DA LEI DE EXECUÇÕES PENAIS. ORDEM DENEGADA (fls. 88-89, grifei).
+Assim, tendo em vista a natureza do habeas corpus, vocacionado para a tutela do direito de liberdade, não se justifica o seu processamento, quando verificado que, embora se possa questionar a legitimidade da reunião das ações penais em curso na origem, não há coação à liberdade de locomoção, haja vista que os pacientes não estão presos em decorrência da investigação objeto deste writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
