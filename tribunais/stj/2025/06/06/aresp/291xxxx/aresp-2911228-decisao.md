@@ -1,0 +1,47 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE agrava da decisão que inadmitiu recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no Agravo de Execução Penal n. 202400366587.
+Consta que o agravado cumpre execução penal decorrente de condenação pelos crimes previstos nos arts. 14 da Lei n. 10.826/2003 e 33, § 4º, da Lei n. 11.343/2006, tendo sido beneficiado com indulto natalino com base no Decreto n. 11.302/2022. Durante o cumprimento da pena, sobreveio nova condenação pela prática do crime de roubo majorado (art. 157, § 2º, II e § 2º-A, I, do Código Penal).
+O agravante aduz, em síntese, violação ao art. 11, parágrafo único, do Decreto n. 11.302/2022, ao sustentar que o agravado não havia cumprido integralmente a pena do crime impeditivo até dezembro de 2022, o que obstaria a concessão do indulto.
+Apresentadas as contrarrazões (fls. 115-121) e inadmitido o recurso pelo Tribunal a quo (fls. 124-136), o Ministério Público Federal opinou pelo conhecimento do agravo, para não se conhecer do recurso especial (fls. 184-188).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+II. Não cabimento do indulto
+O Tribunal de origem inadmitiu o recurso especial com base na Súmula n. 7 do STJ, entendendo que a pretensão recursal demandaria reexame de matéria fático-probatória.
+Contudo, a questão jurídica controvertida não demanda revolvimento do conjunto fático-probatório, mas sim a correta interpretação dos requisitos estabelecidos no Decreto Presidencial n. 11.302/2022 para a concessão do indulto natalino.
+O acórdão recorrido fundamentou a concessão do indulto no seguinte entendimento (fl. 78):
+A respeito do crime impeditivo, noto que a ação penal correlata, de n. 0002445-30.2019.8.25.0009, somente transitou em julgado para as partes no ano de 2023, de modo que não deve ser levada em conta na análise do indulto deferido no seq. 51, o qual se deu com base no Decreto n. 11.302/2022  .. . Nesse contexto, para fins de análise dos requisitos para a concessão do indulto com base no Decreto nº 11.302/22, devem ser consideradas somente as penas aplicadas, definitivamente, até o dia 25/12/2022.
+Ocorre que tal fundamentação não encontra respaldo no Decreto Presidencial n. 11.302/2022, que não estabelece como requisito o trânsito em julgado da condenação por crime impeditivo até a data de sua publicação. Como estabelece a jurisprudência desta Corte:
+AGRAVO REGIMENTAL EM RECURSO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.302/2022. PRETENSÃO DE CONCESSÃO DO BENEFÍCIO QUANTO AO DELITO DE TRÁFICO PRIVILEGIADO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO DECRETO PRESIDENCIAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Para a concessão de indulto devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao magistrado criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma, sob pena de ofensa ao princípio da legalidade, pois é da competência privativa do Presidente da República a tarefa de estabelecer os limites para a concessão da benesse.
+2. E como foi consignado no acórdão impetrado, o Decreto Presidencial n. 11.302/2022 elencou os requisitos para a concessão do indulto e entre eles não consta a necessidade de trânsito em julgado da condenação para ambas das partes em relação ao crime impeditivo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 870.877/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO N. 7.873/2012. NOVA CONDENAÇÃO. TRÁFICO DE DROGAS. VEDAÇÃO EXPRESSA. ART. 7º, PARÁGRAFO ÚNICO, C/C ART. 8º, DO DECRETO PRESIDENCIAL. NÃO EXIGÊNCIA DO TRÂNSITO EM JULGADO DA SENTENÇA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Nos termos da jurisprudência deste Tribunal Superior, para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República.
+III - Por absoluta disposição literal do art. 7º, parágrafo único, c/c art. 8º, do Decreto n. 7.873/2012, não é possível a concessão de indulto em relação ao crime comum, enquanto não cumpridos 2/3 (dois terços) da pena do crime impeditivo (tráfico de drogas), não exigindo o decreto, o trânsito em julgado da sentença condenatória.
+IV - No caso, o paciente foi condenado por sentença proferida em 26/11/2012, pelo delito de tráfico de drogas, sendo indeferido o direito de recorrer em liberdade, ou seja, já havia condenação quando publicado o decreto, o que obsta a concessão do indulto em relação ao delito comum, sem o cumprimento de 2/3 (dois terços) da pena do crime de tráfico.
+Habeas Corpus não conhecido.
+(HC n. 380.061/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 21/9/2017, DJe de 11/10/2017, destaquei.)
+No caso, é incontroverso que o agravado possui condenação por crime impeditivo (roubo majorado), independentemente da data do trânsito em julgado. O art. 11, parágrafo único, do Decreto n. 11.302/2022 é claro ao estabelecer que "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício".
+A jurisprudência superior, alinhando-se ao entendimento do Supremo Tribunal Federal, consolidou que não se aplica o indulto em situações nas quais remanesce o cumprimento da pena de crime impeditivo, ainda que processado separadamente:
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL Nº 11.302/2022. CRIME IMPEDITIVO. UNIFICAÇÃO DE PENAS. NECESSIDADE DE CUMPRIMENTO INTEGRAL DA PENA DO CRIME IMPEDITIVO. JURISPRUDÊNCIA DO STF. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto por Ana Carolina Lima Mendes contra decisão que não conheceu do habeas corpus, negando-lhe indulto em razão da existência de crime impeditivo previsto no Decreto Presidencial nº 11.302/2022. A defesa alega que as condenações ocorreram em processos distintos, afastando o concurso de crimes, e que o indulto não deveria ser condicionado ao cumprimento da pena do crime impeditivo.
+II. Questão em discussão
+2. Há duas questões principais: (i) se o indulto pode ser concedido quando há crime impeditivo, mesmo em condenações distintas e processadas separadamente, e (ii) se a unificação das penas impede a concessão do indulto enquanto não cumprida a pena do crime impeditivo.
+III. Razões de decidir
+3. O Decreto Presidencial nº 11.302/2022 estabelece que o indulto natalino não será concedido enquanto o condenado não cumprir integralmente a pena relativa a crime impeditivo, conforme o art. 7º. O art. 11, parágrafo único, reforça que o benefício do indulto está condicionado ao cumprimento da pena do crime impeditivo, ainda que em casos de unificação de penas por condenações distintas.
+4. O Supremo Tribunal Federal, em recente decisão, consolidou o entendimento de que o crime impeditivo deve ser considerado tanto nos casos de concurso de crimes quanto em unificação de penas por condenações diversas, o que impede a concessão do indulto antes do cumprimento da pena do crime impeditivo.
+5. A jurisprudência desta Corte foi alinhada à decisão do STF, e, portanto, não se aplica o indulto em situações onde remanesce o cumprimento da pena de crime impeditivo, ainda que processado separadamente ou em contextos diferentes.
+6. A decisão do juízo de execução penal, que indeferiu o indulto com base no não cumprimento da pena pelo crime impeditivo, está correta e em consonância com a legislação e o entendimento mais recente do STF.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no HC n. 869.800/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024, grifei.)
+Portanto, ainda que sem trânsito em julgado, não é cabível a concessão de indulto, enquanto pendente o cumprimento de pena do crime impeditivo, independente de concurso desse, razão pela qual o acórdão recorrido merece reforma.
+III. Dispositivo
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reformar o acórdão recorrido e indeferir o pedido de indulto, por não preenchidos os requisitos do Decreto n. 11.302/2022.
+Publique-se e intimem-se.
+ EMENTA
