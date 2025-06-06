@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ONASSIS TELLES DE MENEZES e IWRY IORRANY PEREIRA DA SILVA contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0026580-91.2017.4.01.3400.
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo (fls. 863/868).
+É o relatório.
+O agravo não comporta conhecimento.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial: EAREsp n. 701.404/SC, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso, o recurso especial foi obstado com base na ausência de contrariedade ou negativa da legislação federal, óbice na Súmula 7/STJ e sob o argumento de que a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese (fl. 823).
+O agravante, no entanto, somente impugnou um dos fundamentos da decisão (inexistência de óbice relativo à Súmula 7/STJ), sendo certo que, com relação aos remanescentes, não houve impugnação.
+Logo, considerando o caráter incindível da decisão de inadmissão e que as razões do agravo não atacaram a íntegra da fundamentação expendida no decisum, é certo que o agravo é inadmissível.
+Ademais, verifica-se que o acórdão recorrido está de acordo com a jurisprudência desta Corte.
+Com relação à causa de aumento da transnacionalidade, o aumento acima do patamar mínimo foi fundamentado no acórdão de origem (fl. 771):
+Em virtude da transnacionalidade do crime, o juízo aumentou a pena na fração de 1/4, para ambos os réus, por entender que:
+Em relação ao quantum estabelecido para a causa de aumento aplicada, resta evidenciado nos autos que o réu partiria de Natal para Lisboa, de lá pegaria outro vôo para a cidade do Porto e, por fim voaria até Genebra na Suíça (fls. 30/31). Como se vê, trata-se de hipótese tráfico global que extrapola a transnacionalidade ordinária e, portanto, admite exasperação em 1/4 (um quarto).
+Id. 249637535, grifo suprimido
+Ratifico a fundamentação acima citada para manter o critério adotado pelo juízo e, consequentemente, aumento as penas na fração de 1/4 pela transnacionalidade do crime de tráfico de drogas, fixando-as para ambos os réus em 6 anos e 3 meses de reclusão e 515 dias-multa.
+O aumento, em fração intermediária entre o mínimo e o máximo, diante das circunstâncias concretas, está de acordo com a jurisprudência do Superior Tribunal de Justiça, o qual consolidou o entendimento de que o aumento de pena decorrente da majorante relativa à transnacionalidade do delito (art. 40, I, da Lei n. 11.343/2006) deve levar em consideração elementos acidentais como a distância percorrida pelo agente, a complexidade da operação de transporte e/ou o número de fronteiras por ele ultrapassadas, na medida em que não se pode equiparar o acusado que transporta substância entorpecente entre pequenas distâncias, em empreitadas rápidas, àquele grande difusor que se expõe a longas e demoradas viagens (REsp n. 1710252/PE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/8/2018).
+E, igualmente de acordo com a jurisprudência deste Tribunal, é possível aplicar a minorante do tráfico privilegiado em patamar distinto do máximo, a depender da vinculação do réu com a organização criminosa (AgRg no HC n. 609.738/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2020). Neste contexto, mostra-se idônea a fundamentação da Corte de origem que fixou a minorante em 1/3 em razão do ajuste entre os réus e o registro de movimentos migratórios anteriores.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO INSUFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA. DISCRICIONARIEDADE DO JULGADOR.
+Agravo em recurso especial não conhecido.
