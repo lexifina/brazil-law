@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOAO PEDRO MACIULEVICIUS BERNARDO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 08 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 22 dias-multa, pela prática do crime previsto no artigo 157, § 2º, II, por seis vezes, em continuidade delitiva.
+Interposta apelação, foi dado provimento ao recurso ministerial para fixar a reprimenda em 14 anos, 09 meses e 23 dias de reclusão, em regime inicial fechado, e ao pagamento de 35 dias-multa, por incurso nas sanções do artigo 157, §2º, II, e § 2º-A, I (por seis vezes), na forma do artigo 71, ambos do Código Penal.
+No presente mandamus, pretende-se, em suma, seja o paciente absolvido em relação às vítimas que não o reconheceram. Alternativamente, busca a redução da fração de aumento de pena diante do reconhecimento do crime continuado. No mais, requer-se, ainda, seja afastada a qualificadora do emprego de arma de fogo.
+O Ministério Público Federal manifestou-se pela parcial concessão da ordem.
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+De início, o pedido de absolvição pressupõe a análise do contexto fático probatório, tarefa para a qual não se presta a via eleita, em razão do teor da Súmula 7 desta Corte Superior.
+Por outro lado, em relação à fração decorrente da continuidade delitiva melhor sorte socorre o paciente. É que comprovado a prática de seis roubos mostra-se cabível a fração de 1/2 (metade) em vez de 2/3 (dois terços) adotados pela instância ordinária, em observância ao critério do número de infrações praticadas estabelecido pela jurisprudência desse STJ.
+A propósito:
+ 2 . Quanto ao aumento pela continuidade delitiva, a jurisprudência desta Corte Superior é firme no sentido de que se aplica a fração de 1/6 pela prática de duas infrações; 1/5 para três infrações; 1/4 para quatro infrações; 1/3 para cinco infrações; 1/2 para seis infrações e 2/3 para sete ou mais infrações. Assim, na espécie, não se mostra excessiva ou desarrazoada a adoção do patamar de 2/3 em virtude da prática de dez ilícitos. 3. Uma vez fixada a pena pecuniária de acordo com a situação econômica da ré, é inviável sua modificação pela via do recurso especial, em razão da incidência da Súmula n. 7 do STJ. (AgRg no R Esp n. 2.025.605/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, D Je de 9/3/2023 - sem destaque no original)
+Com efeito, redimensiono as penas ao patamar final de 13 anos e 04 meses de reclusão, em regime inicial fechado, mantidos os demais termos do acórdão impugnado.
+Ante o exposto, concedo parcialmente a ordem para, reconhecida a fração de 1/2 proveniente da continuidade delitiva, fixar a pena definitiva em 13 anos e 04 meses de reclusão, em regime inicial fechado, mantidos os demais termos do acórdão impugnado.
+Publique-se. Intimem-se.
+ EMENTA
