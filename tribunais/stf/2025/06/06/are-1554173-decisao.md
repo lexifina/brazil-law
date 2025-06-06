@@ -1,0 +1,71 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    RECURSO INTEMPESTIVO. Apelação. Intempestividade alegada em contrarrazões. Comprovação de que a apelação foi ofertada fora do prazo. Observância dos arts. 183, 219, 224, § 1º e 1003, § 5º, do CPC. Intempestividade configurada. Recurso da Fazenda não conhecido.
+
+    MANDADO DE SEGURANÇA COLETIVO. ICMS-ST. Regime de substituição tributária. Insurgência contra a aplicação do Art.2, III, da Portaria SER 51/2022, sob alegação de criação de umcritério híbrido de tributação. Não cabimento. Mecanismos que evitam distorções e impedem o pagamento a menor do ICMS-ST. Critérios objetivos. Base de cálculo do ICMS recolhido sob a sistemática da substituição tributária 'para frente' na venda de cervejas e refrigerantes. Ausência de ofensa ao princípio da legalidade. Ausência de ilegalidade ou majoração de tributo. Sentença reformada. Reexame necessário provido e recurso da Fazenda não conhecido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5, II, 150, I, §7º e 155, §2º, XII, “b”, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    [...]
+
+    Pretende a impetrante que o ICMS/ST das associadas seja calculado com base exclusivamente nos valores de Preço Médio a Consumidor Final (PMPF) divulgados na Portaria SRE nº 51/2022, excluindo-se a possibilidade da aplicação da regra existente em seu art. 2º, inciso III. [...]
+
+    4. A Secretaria da Fazenda do Estado de São Paulo, por meio da Portaria SER nº51/2022 utilizou para apuração do ICMS-ST do setor de bebidas o Preço Médio a Consumidor Final - PMPF, conforme o seu Anexo IV.
+
+    Contudo, no art. 2º, III, possibilitou que quando o valor da venda atingir 90% do valor da pauta (PMPF) seria possível a utilização de MVAna base de cálculo: [...]
+
+    Diante do quadro acima, o Fisco poderia se utilizar na apuração do ICMS-ST do setor de bebidas o Preço Médio a Consumidor Final - PMPF, mas, a partir de determinado valor, a apuração do ICMS-ST seria feita por meio de margem de valor agregado - MVA.
+
+    5. Com efeito, a venda de bebidas se sujeita à incidência do ICMS por meio do regime da substituição tributária “para frente”, em que a lei atribui ao substituto tributário a responsabilidade pelo recolhimento antecipado do tributo que seria devido em operação futura praticada pelo contribuinte “substituído”, sendo o ICMS apurado com base em valor estimado da operação futura.
+
+    A base de cálculo nas operações referidas está definida na Lei Complementar nº 87/96, que assim dispõe: [...]
+
+    Por seu turno, a Lei nº 6.374/89 assim prevê: [...]
+
+    Como se verifica pelos dispositivos acima transcritos, a legislação prevê que a base de cálculo do ICMS nas operações sujeitas à substituição tributária será composta, dentre outros elementos, pela margem de valor agregado (MVA) relativa às operações subsequentes, que se trata de valor obviamente variável.
+
+    Nesse passo, ainda que o aumento de determinados percentuais por portarias, a fim de ajustá-los à atual realidade do mercado, possa implicar o aumento da carga tributária, não se trata de majoração da base de cálculo do tributo, pois a própria lei incluiu valor variável ao definir a base de cálculo do ICMS nesses casos.
+
+    Assim, não se cogita propriamente de aumento da carga tributária, mas aumento do próprio preço do produto praticado nas operações finais ICMS e do recolhimento antecipado.
+
+    6. Em que pese o entendimento do magistrado a quo pela existência de combinação de critérios, não é caso dos autos.
+
+    O Fisco Paulista ao estabelecer os termos da cobrança do ICMS-ST na venda de refrigerantes e cervejas, não estabeleceu uma base de cálculo híbrida, mas apenas e tão somente fez constar em sua legislação mecanismos que evitem distorções e impeçam o pagamento a menor do ICMS-ST. [...]
+
+    Assim é possível a adoção da base de cálculo que reflita melhor a realidade de mercado, permitindo a cobrança correta do ICMS. [...]
+
+    Note-se que não houve ofensa ao princípio da legalidade tributária, pois tal previsão (aplicação do MVA) encontra base na Lei Kandir (art.8º) e na Lei Estadual n. 6.374/89 (art.28 e seguintes).
+
+    Note-se que a hipótese não trata de majoração ou instituição de tributo, mas sim de adequação ao efetivo valor de mercado dos produtos, para o adequado recolhimento do ICMS-ST, diante da realidade de mercado. [...]
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 280/STF. Sobre o tema, a propósito:
+
+    “Segundo agravo regimental no recurso extraordinário com agravo. Tributário. ICMS/ST. Base de cálculo. Critério de apuração. Natureza infraconstitucional da controvérsia. Legislação local. Súmula 280/STF. 1. O Tribunal de origem solucionou a lide com fundamento na legislação infraconstitucional (Lei nº 6.763/75; RICMS/02 (Decreto nº 43.080/02; art. 8º da LC nº 87/96 e art. 161 do CTN). A violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. 2. Agravo regimental não provido, com imposição de multa de 2% (dois por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do novo CPC” (ARE nº 869.158/MG – AgR-segundo, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 26/10/2017).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. COMPOSIÇÃO DA BASE DE CÁLCULO. LEI COMPLEMENTAR 87/96. 1. Compulsando-se os autos, verifica-se que o Tribunal de origem assentou a legalidade da base de cálculo do ICMS cobrado pelo Estado de Minas Gerais, com base em fundamento de índole infraconstitucional. Súmulas 279 e 280 do STF. 2. A hipótese de cabimento inscrita no permissivo do art. 102, III, “d”, da Constituição da República, exige a demonstração, pela parte Recorrente, de que o Tribunal de origem ofendeu o sistema de repartição de competências legislativas no condomínio federativo brasileiro, ao julgar válida lei local contestada em face de lei federal. Precedentes. 3. No particular, a parte Agravante pretende questionar a validade de ato infralegal (Decreto 43.080) de Estado-membro em face da Lei Kandir (LC 87/96). Nesses termos, não se mostra cabível a abertura da via do recurso extraordinário. 4. Considerada reflexa a ofensa à Constituição da República, por pressupor a revisão da interpretação de lei federal, remete-se a matéria ao STJ para julgamento como recurso especial. Art. 1.033 do CPC. 5. Agravo regimental a que se nega provimento” (RE nº 927.274/MG – AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 28/06/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 6 de junho de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
