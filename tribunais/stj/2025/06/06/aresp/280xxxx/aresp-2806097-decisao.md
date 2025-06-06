@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por SITIO JATIUCA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS cuja ementa guarda os seguintes termos (fl. 226):
+EMENTA: DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO CÍVEL. PEDIDO PARA REFORMAR SENTENÇA. ATRASO NA ENTREGA DAS CHAVES. INADIMPLÊNCIA DA APELANTE. COMPRA E VENDA DE IMÓVEL. COBRANÇA DE COTAS CONDOMINIAIS E IPTU ANTES DA ENTREGA DAS CHAVES. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CLÁUSULA ABUSIVA. LUCROS CESSANTES. PRESUMIDO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Rejeitados os embargos de declaração opostos (fls. 262-266).
+No recurso especial, a parte recorrente alega violação dos arts. 389, 402, 403, 1.333 e 1.345, todos do Código Civil e arts. 9º e 12, ambos da Lei n. 4.591/1964, ao passo que aponta divergência jurisprudencial.
+Sustenta, em síntese, que não houve prática de ato ilícito e que os lucros cessantes são baseados em dano hipotético, sem indícios de que o imóvel seria locado (fls. 364-371).
+Defende que a responsabilidade pelo pagamento das despesas condominiais e IPTU está expressamente desvinculada do recebimento das chaves, conforme cláusula contratual, e que a recorrida tinha ciência de sua obrigação desde a assinatura do contrato (fls. 371-373).
+Por fim, aponta divergência jurisprudencial quanto ao percentual de 0,5% sobre o valor do imóvel atribuído aos lucros cessantes, argumentando que o valor fixado no acórdão recorrido não está amparado em jurisprudência ou estudo (fls. 373-376).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 430-434), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 449-452).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 389, 402, 403, 1.333 e 1.345 do Código Civil, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C RECONHECIMENTO DE LUCROS CESSANTES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LUCROS CESSANTES. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N º 7/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A Segunda Seção desta Corte entende que, no caso de inadimplemento contratual por atraso na entrega do imóvel, os lucros cessantes são presumidos e devem ser calculados com base no valor dos alugueres que o comprador deixaria de pagar ou no valor médio dos alugueres que o imóvel poderia ter rendido, se tivesse sido entregue na data contratada.
+2. A revisão do entendimento firmado pelas instâncias ordinárias, acerca da base de cálculo dos lucros cessantes, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Resta consignar que a incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.770.198/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025, DJEN de 9/5/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. BASE DE CÁLCULO. VALOR LOCATÍCIO DE IMÓVEL ASSEMELHADO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. REVISÃO DO MONTANTE. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "para efeito de responsabilização por atraso no cumprimento do prazo de entrega do imóvel, é irrelevante se o contrato é regido pelas normas gerais do SFH ou pelas regras próprias do PMCMV, porquanto o descumprimento contratual em discussão, a ensejar o pagamento das perdas e danos, envolve apenas a relação de consumo estabelecida entre a promitente vendedora e o adquirente da unidade autônoma. Destarte, diferentemente do que querem fazer crer as agravantes, não há que se falar que o entendimento de que os lucros cessantes devem ser calculados com base no valor locatício de imóvel assemelhado seja aplicável tão somente nas específicas hipóteses em que o imóvel pertence ao Programa Minha Casa Minha Vida" (AgInt no REsp n. 2.003.066/PA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+2. No caso, o acolhimento da tese recursal de que o aluguel fixado em 0,5% sobre o valor do imóvel seria desarrazoado, encontra óbice na Súmula n.º 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.156.266/PA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. LOTE URBANO NÃO EDIFICADO. ATRASO NA ENTREGA DO EMPREENDIMENTO E EXISTÊNCIA DE VÍCIOS E DEFEITOS NAS OBRAS DE INFRAESTRUTURA. COBRANÇA DE TAXAS CONDOMINIAIS. DESCABIMENTO. SÚMULA N. 568 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de ação de rescisão de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com indenização por danos materiais e morais, sob a alegação de descumprimento do contrato no tocante ao prazo de entrega do empreendimento, bem como pela existência de vícios e defeitos nas obras de infraestrutura.
+2. É assente nesta Corte Superior o entendimento de que a responsabilidade pelo pagamento do IPTU e das taxas condominiais são de responsabilidade da construtora até a efetiva posse do imóvel, sob pena de o adquirente ter que arcar com tais ônus enquanto está impossibilitado de usufruir do imóvel.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, nos termos do que dispõe a Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.776.476/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à responsabilidade pelo atraso na entrega do bem, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+3. Para infirmar as conclusões a que chegou o acórdão recorrido, no sentido da existência de exclusiva responsabilidade da recorrente pelo atraso na entrega dos imóveis, seria imprescindível o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusulas contratuais, o que é vedado nesta instância especial, conforme dispõem as Súmulas 5 e 7 do STJ.
+(REsp n. 1.883.864/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o v alor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. COBRANÇA DE COTAS CONDOMINIAIS E IPTU. IMPOSSIBILIDADE. LUCROS CESSANTES PRESUMIDOS. SÚMULA 83/STJ. RESPONSABILIDADE ATRASO. REVISÃO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
