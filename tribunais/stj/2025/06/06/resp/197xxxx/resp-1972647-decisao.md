@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por FELIPE RODRIGUES PEREIRA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+FURTO QUALIFICADO. Recursos defensivo. Autoria e materialidade incontestes. DOSIMETRIA. Afastamento da qualificadora de rompimento de obstáculo. Readequação do aumento nas bases. Reconhecimento da confissão, com amortização do quantum pela reincidência. Regime semiaberto preservado. PROVIMENTO PARCIAL, COM EXTENSÃO AO CORRÉU JANDIR, NÃO APELANTE (CPP, ART. 580).
+Neste recurso especial, o recorrente requer, preliminarmente, a declaração de nulidade do feito por cerceamento de defesa, em razão do indeferimento de provas. No mérito, busca a absolvição diante da ausência de provas concretas para a condenação, ou, subsidiariamente, a redução da pena-base. Aduz ainda ser devida a compensação integral da reincidência com a atenuante da confissão espontânea.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso especial.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que o juiz pode indeferir, em decisão devidamente motivada, as diligências que considere protelatórias ou desnecessárias, no âmbito de seu juízo de conveniência, inerente ao regular exercício da presidência da instrução processual. Porque as instâncias ordinárias, soberanas no que toca à análise dos fatos e das provas, concluíram pela inoportunidade da diligência requerida pelos réus para a formação da convicção judicial, torna-se insindicável a questão em análise, sob pena de indevido reexame fático-probatório na via especial.
+A propósito:
+ ..  1. O Juiz pode indeferir, em decisão devidamente fundamentada, as diligências que entenda ser protelatórias ou desnecessárias, dentro de um juízo de conveniência, que é próprio do seu regular poder discricionário.
+2. A oitiva de testemunhas do Juízo é faculdade do magistrado que, fundamentadamente, decide sobre sua necessidade. Nesse contexto, o reexame da questão demandaria revolvimento do quadro fático-probatório, tarefa sabidamente insuscetível de ser realizada na estreita via do habeas corpus.  ..  (HC 79.813/SP, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 14/10/2008, D Je 03/11/2008.)
+2. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+3. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência do dever de indenizar. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria o reexame do conjunto fático- probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AR Esp 1600225/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, D Je 26/11/2021)
+Por outro lado, a apreciação das teses defensivas - absolvição ou, subsidiariamente, redução da pena-base - demandaria inequivocamente o revolvimento do conjunto fático-probatório, o que não autoriza o manejo do apelo extremo.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ACÓRDÃO RECORRIDO BEM FUNDAMENTADO. VIOLAÇÃO DO ART. 619 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. PLEITO DE INEXISTÊNCIA DE DOLO. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+1. Desconstituir o julgado por suposta contrariedade à lei federal, no intuito de abrigar o pedido defensivo de absolvição ou desclassificação da conduta, não encontra amparo na via eleita, por se tratar de procedimento exclusivo das instâncias ordinárias, a teor do óbice da Súmula 7/STJ.
+2. Agravo regimental improvido. (AgRg no AR Esp 831.122/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/03/2016, D Je 31/03/2016)
+Por fim, é de se operar a referida compensação integral, conforme solução sedimentada em sede de recurso especial representativo de controvérsia: "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". (REsp 1341370/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 10/04/2013, D Je 17/04/2013).
+Com efeito, compensando-se a agravante da reincidência com a atenuante da confissão, alcança-se a sanção final de 2 anos, 4 meses e 24 dias de reclusão, mantidos os demais termos do acórdão impugnado.
+Ante o exposto, dou parcial provimento ao recurso especial para, compensando-se a agravante da reincidência com a atenuante da confissão espontânea, redimensionar as penas ao patamar de 2 anos, 4 meses e 24 dias de reclusão, mantidos os demais termos do acórdão impugnado.
+Publique-se. Intimem-se.
+ EMENTA
