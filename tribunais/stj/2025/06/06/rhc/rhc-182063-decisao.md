@@ -1,0 +1,22 @@
+DECISÃO
+ELTON LEONEL RUMICH DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem em habeas corpus impetrado contra decisão do Juízo da Vara de Execuções Penais que prorrogou, por mais três anos, a permanência do ora recorrente no Sistema Penitenciário Federal.
+Consta dos autos que, em 30/12/2022, o Ministério Público do Estado do Rio de Janeiro requereu a renovação da permanência do recorrente em presídio federal, consubstanciado em relatório técnico elaborado pela Subsecretaria de Inteligência do Sistema Penitenciário da Secretaria de Estado de Administração Penitenciária, que apontou a liderança do réu em organização criminosa de alta periculosidade e atuação transnacional.
+O pleito foi deferido pelo Juízo de origem em 16/1/2023, sob o fundamento de que permanecem válidos os motivos que ensejaram a transferência inicial, conforme autorizado pelo art. 10, § 1º, da Lei n. 11.671/2008 (fls. 44-45).
+A defesa interpôs habeas corpus, alegando nulidade por ausência de contraditório e ampla defesa, especialmente em razão do indeferimento de diligência voltada à requisição de documentos à autoridade penitenciária. O acórdão recorrido afastou a alegação e registrou que houve regular manifestação da defesa antes da prolação da decisão e que os elementos constantes dos autos justificavam a medida excepcional, conforme o art. 86, § 1º, da Lei de Execuções Penais e jurisprudência do Superior Tribunal de Justiça (fls. 92-110).
+A liminar foi indeferida às fls. 203-204 e as informações foram prestadas pelo Juízo de primeiro grau às fls. 211-235.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 237-247).
+Decido.
+I. Manutenção da custódia em estabelecimento penitenciário federal
+A jurisprudência do Superior Tribunal de Justiça admite a prorrogação da permanência de custodiado em unidade do sistema penitenciário federal sem a necessidade de fato novo, desde que demonstrada a persistência dos fundamentos anteriores.
+Assim dispõe a Súmula n. 662 do STJ: "Para a prorrogação do prazo de permanência no sistema penitenciário federal, é prescindível a ocorrência de fato novo; basta constar, em decisão fundamentada, a persistência dos motivos que ensejaram a transferência inicial do preso."
+Igualmente, conforme a Súmula n. 639 do STJ: "Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal."
+Na hipótese, o Relatório Técnico n. 139/22-2514/D16, da Subsecretaria de Inteligência do Sistema Penitenciário do Estado do Rio de Janeiro, aponta que o recorrente é de altíssima periculosidade e ocupa posição de liderança em organização criminosa com atuação transnacional, inclusive por meio de lavagem de dinheiro e relações com outras facções criminosas (fls. 31-36).
+A decisão judicial que deferiu a renovação da permanência do recorrente em presídio federal assentou expressamente que houve contraditório e que os fundamentos da medida permanecem válidos, sobretudo em razão do papel de destaque do recorrente na cúpula do PCC e da persistência do risco à ordem pública (fls. 44-45).
+Nesse sentido: "A jurisprudência desta Corte entende que é possível a manutenção de custodiado em sistema penitenciário federal sem a prévia oitiva da defesa e dispensável a ocorrência de fato novo para tal procedimento, bastando a exposição de que os motivos para tanto permanecem." (AgRg no HC n. 848.602/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., julgado em 9/4/2025, DJe 14/4/2025).
+Também não prospera a alegação de cerceamento de defesa. O acórdão recorrido consignou expressamente que foi oportunizada a manifestação da defesa em 13/1/2023, antes da decisão proferida em 16/1/2023.
+O pleito defensivo de expedição de ofício foi analisado e indeferido pelo juízo da execução, sob a justificativa de que os autos já continham elementos suficientes para a decisão.
+Como reconhecido em recente julgado da Sexta Turma, "não configura nulidade do procedimento a ausência de produção de prova requerida pela defesa, quando o magistrado justifica o indeferimento por reputar as diligências irrelevantes, impertinentes ou protelatórias" (AgRg no AREsp n. 2.138.529/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., julgado em 18/3/2025, DJe 25/3/2025).
+II. Dispositivo
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
+EMENTA
