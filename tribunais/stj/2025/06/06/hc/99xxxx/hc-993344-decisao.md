@@ -1,0 +1,17 @@
+DECISÃO
+FIDEL DIAS DE MELO GOMES alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas na Apelação n. 0700803-79.2015.8.02.0067.
+A defesa pleiteia a incidência do princípio da consunção entre os crimes de porte ilegal de arma de fogo e latrocínio.
+Decido.
+Verifico que este habeas corpus foi impetrado em 1º/4/2025 e contra acórdão de revisão criminal publicado em 11/3/2025 (fls. 15-21), razão pela qual conheço do writ.
+A Corte estadual, ao indeferir o pleito revisional, assinalou o que se segue (fls. 18-20, grifei):
+ ..  observa-se que o objeto da ação revisional é a incidência do princípio da consunção entre os crimes de latrocínio e porte ilegal de arma de fogo. Inicialmente consigne-se que o princípio da consunção é aplicado quando um dos crimes é realizado apenas como fase de preparação ou meio necessário para a execução de outro delito mais grave, devendo estar intimamente interligados, havendo um nexo de dependência entre as condutas, respondendo o sujeito ativo pelo ilícito mais grave. A análise da consunção dos crimes de porte ilegal de arma de fogo e latrocínio demanda exame do caso concreto, momento em que aferirá se a conduta perpetrada deu-se no mesmo contexto fático ou não. No caso em tela, verifica-se que os crimes de latrocínio e porte de arma não ocorreram no mesmo contexto fático.
+ ..  extrai-se dos autos que, no dia 25.07.2015, o requerente praticou o crime de latrocínio; posteriormente, no dia 26.07.2015, o requerente foi abordado pela Polícia e preso em flagrante de delito portando arma de fogo, sem autorização legal. Ato contínuo, no decorrer das investigações constatou-se que o flagranteado teria sido também o autor do crime contra o patrimônio.
+ ..  Trata-se, portanto, de condutas perpetradas em contextos fáticos diversos. Não há que se falar em consunção quando os crimes são praticados em circunstâncias de tempo, lugar e modo de execução diversos, não restando configurado o liame dependência entre as condutas  ..  desse modo, impossível falar em absorção entre os delitos de latrocínio e porte ilegal de arma de fogo  .. .
+A respeito da matéria trazida pela defesa, este Tribunal Superior compreende que o princípio da consunção ao crime de porte ilegal de arma de fogo no tocante aos delitos contra o patrimônio é aplicável quando: ocorridos no mesmo contexto fático, vale dizer, presente o nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do roubo e do latrocínio tentado.
+Contudo, alterar a conclusão das instâncias ordinárias, que afirmam que os delitos se consumaram autonomamente, implicaria o revolvimento de fatos e provas dos autos, providência inviável na via estrita do habeas corpus.
+Nessa perspectiva, confira-se:
+ ..  3. Consta do acórdão recorrido que o próprio réu declarou que adquiriu a arma em momento anterior ao fato delituoso com a finalidade de defender-se de uma suposta ameaça de policiais e não para cometer o crime em comento. Assim o porte ilegal de arma de fogo decorreu de desígnio autônomo e, para se chegar a qualquer conclusão em sentido contrário, seria necessária uma minuciosa análise do conteúdo fático-probatório dos autos, providência inadmissível na via do recurso especial. Incidência do enunciado n. 7 da Súmula do STJ.
+4. Agravo regimental não provido (AgRg no AREsp n. 1.328.102/RN, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/11/2018).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
