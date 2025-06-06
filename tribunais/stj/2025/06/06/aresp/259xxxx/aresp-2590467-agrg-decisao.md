@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão de e-STJ fls. 355/359, por meio da qual conheci do agravo e dei provimento ao recurso especial para anular as provas decorrentes da busca pessoal realizada.
+Depreende-se dos autos que o ora agravado foi condenado, como incurso no art. 180, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, por ter adquirido um celular que sabia ser produto de crime.
+Irresignada, a Defensoria Pública interpôs apelação perante o Tribunal de origem, que manteve incólume a sentença condenatória (e-STJ fls. 259/271).
+Foi, então, interposto recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação aos arts. 157, 240, § 2º, e 244, todos do Código de Processo Penal, sob o argumento de nulidade das provas obtidas por meio de busca pessoal desprovida de fundada suspeita, e requerendo a declaração da ilicitude apontada, com a consequente absolvição do réu (e-STJ fls. 280/296).
+O recurso especial foi inadmitido, pela incidência da Súmula n. 7/STJ (e-STJ fls. 312/313), o que ensejou a interposição do agravo em recurso especial, às e-STJ fls. 319/325, no qual alega não incidir tal óbice.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 345/352).
+Nas razões do agravo, alega a parte que havia fundada suspeita para a realização da busca pessoal, porquanto "os Policiais atuavam em sua função de segurança. A presença do réu em local de maior incidência de furtos e roubos de aparelhos celulares e sua injustificada e desproporcional reação de nervosismo diante da mera presença de policiais, e subsequente abordagem, localização de celular produto de crime e atuação para prisão em flagrante, com a devida vênia, não traz dúvidas acerca da legitimidade da atuação dos agentes públicos" (e-STJ fl. 376).
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado (e-STJ fl. 377).
+É o relatório.
+Decido.
+Com razão o agravante.
+De fato, em análise mais detida dos eleme ntos acostados aos autos, não se verifica violação do art. 244 do Código de Processo Penal.
+No caso, o Tribunal de origem refutou a alegação de nulidade das provas com os seguintes fundamentos (e-STJ fls. 261/262, grifei):
+Com efeito, a sequência dos fatos exposta nos autos não deixa dúvida de que o apelante foi abordado e preso em situação de flagrância e, por isso, a atuação dos agentes públicos não se mostrou ilegal.
+De fato, a dinâmica evidenciada nos autos demonstrou que a ação policial não se efetivou de maneira aleatória, mas em razão de fundada suspeita, na medida em que os policiais civis realizavam diligências em local de maior incidência de furtos e roubos de aparelhos de telefonia celular, ocasião em que observaram a movimentação do apelante, que, conduzindo uma bicicleta, "demonstrou nervosismo" (sic) ao notar a aproximação policial, o que motivou a abordagem, que culminou na apreensão da res.
+Portanto, é irrefutável que os policiais civis agiram dentro dos limites de atuação legal, nos moldes dos artigos 240, § 2º, e 244, ambos do Código de Processo Penal, procedendo à busca pessoal por conta da fundada suspeita de que o apelante estaria levando com ele objetos ilícitos ou relacionados com práticas criminosas, o que, de fato, foi constatado com a apreensão da res.
+Logo, ao contrário do que pretende fazer crer a douta defesa, a busca pessoal não se efetivou de forma aleatória, mas, sim, por conta do comportamento do apelante.
+Eis o excerto pertinente da sentença (e-STJ fls. 172/173, grifei):
+Com efeito, os policiais civis Paulo  ..  e Bruno  ..  relataram ao magistrado que se encontravam em diligências pelo centro da cidade, quando se depararam com o réu conduzindo uma bicicleta e na posse de um aparelho celular em região em que há muitos roubos e furtos de celulares. Por tal motivo, abordaram-no e verificaram que tal celular era produto de crime. Ouvirma (sic) dele a versão que havia comprado de um tal de "Paulo", sem maiores informações. Colocaram-no na viatura, quando o réu então correu a pé em fuga, sendo detido cerca de 600 a 800 metros mais adiante pelo policial Bruno.
+ ..
+A tese de ilegalidade da abordagem realizada não pode ser acolhida, pois ocorreu em local de alto índice de furtos e roubos de celulares, o que efetivamente justificava a busca pessoal do denunciado, inclusive porque se confirmou que ele trazia consigo o tal objeto ilícito.
+Conclui-se, portanto, que a abordagem foi realizada com base em critérios objetivos e devidamente justificada pelos indícios e circunstâncias do caso concreto, porquanto os policiais civis realizavam diligências em local de alto índice de furtos e roubos de aparelhos celulares e, diante do comportamento do agravado, que conduzia uma bicicleta e demonstrou nervosismo ao notar a aproximação policial, procederam à busca pessoal, resultando na apreensão do celular produto de roubo.
+Com efeito, tais circunstâncias constituem motivo suficiente para a atuação dos policiais, legitimando a realização da diligência, não havendo falar em nulidade da busca pessoal levada a efeito.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 355/359, tornando-a sem efeito, e dou provimento ao recurso ministerial para conhecer do agravo e desprover o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
