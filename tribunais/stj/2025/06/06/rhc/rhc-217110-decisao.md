@@ -1,0 +1,22 @@
+DECISÃO
+ROZELIA VALVERDE DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.25.117803-4/000.
+A defesa requer, em liminar e no mérito, seja garantido à acusada o direito de apelar em liberdade, diante da incompatibilidade, em seu entender, entre a prisão preventiva e a condenação em primeiro grau ao cumprimento de pena no regime semiaberto.
+Decido.
+O caso comporta julgamento antecipado, visto que a solução da controvérsia se encontra pacificada no âmbito desta Corte.
+Depreende-se dos autos que a insurgente foi condenada, em primeiro grau, à pena de 5 anos de reclusão, em regime inicialmente semiaberto, pela suposta prática do crime de tráfico de drogas.
+Naquela ocasião, a prisão preventiva foi mantida com base na seguinte fundamentação (fl. 34, grifei):
+Nega-se a ré o direito de recorrer em liberdade, eis que os motivos que ensejaram na decretação de sua prisão restaram demonstrados em sede de juizo exauriente, por isso, nega-se a ré o direito de recorrer em liberdade.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal a quo que denegou a ordem nos seguintes termos (fls. 103-109, grifei):
+Nota-se que a autoridade apontada como coatora destacou que no caso dos autos houve a apreensão de 01 (um) papelote de cocaína, com massa de 0,24 g (vinte e quatro centigramas), 07 (sete) tabletes de maconha, com peso de 19,28g (dezenove gramas e vinte e oito centigramas), 01 (uma) barra de maconha prensada, com massa de 57,62g (cinquenta e sete gramas e sessenta e dois centigramas), 02 (duas) pedras maiores de crack pesando 9g (nove gramas), 04 (quatro) pedras menores de crack, com massa de 1,24g (uma grama e vinte e quatro centigramas), 01 (uma) bucha de maconha, com peso de 0,28g (vinte e oito centigramas), R$ 55,00 (cinquenta e cinco reais) em notas diversas e 01 (uma) balança de precisão, bem como o fato de que a paciente, em tese, "investiu contra a guarnição, passando a agredir os policiais e foi imobilizada". Cumpre registrar, ainda, que foi proferida sentença condenatória em desfavor da acusado.
+Diante dos argumentos expostos alhures, não resta dúvida quanto à existência de fundamentação idônea na decisão em apreço, ainda que contrária à pretensão da parte impetrante. Ao que se percebe, a decisão prolatada pelo Juiz de primeiro grau encontra-se amplamente fundamentada, de modo que os pressupostos autorizadores da prisão preventiva foram devidamente ponderados e aliados às circunstâncias do caso concreto, tendo sido aplicada esta medida cautelar mediante análise do princípio da proporcionalidade.
+ ..
+No tocante à alegada incompatibilidade da manutenção da prisão preventiva no caso de réu condenado a pena a ser cumprida em regime diverso do fechado, verifico que razão não assiste à parte impetrante, uma vez que inexiste a incompatibilidade alegada, devendo ser observada pelo magistrado, tão somente, a adequação da segregação provisória ao regime fixado na sentença condenatória. Nesse sentido é o entendimento deste eg. Tribunal de Justiça de Minas Gerais:
+ ..
+Ante o exposto, DENEGO A ORDEM, RECOMENDANDO AO MM. JUIZ DE PRIMEIRO GRAU QUE PROCEDA À ADEQUAÇÃO DA SEGREGAÇÃO PROVISÓRIA AO REGIME FIXADO NA SENTENÇA CONDENATÓRIA.
+Como se vê, não há falar em coação ilegal, pois a expedição da guia de execução provisória implica a adequação da prisão do réu ao regime imposto na sentença condenatória.
+No caso, a defesa, em nenhum momento, comprovou que eventualmente haja sido expedida guia de execução provisória da pena em regime fechado, tampouco que a paciente, embora submetida à constrição cautelar, esteja impedida de usufruir do regime semiaberto.
+Com efeito, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/2/2023).
+À vista do exposto, nego provimento ao recurso ordinário , in limine.
+Publique-se e intimem-se.
+EMENTA
