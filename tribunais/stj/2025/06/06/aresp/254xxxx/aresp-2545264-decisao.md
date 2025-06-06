@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO HUMBERTO NEVES MENDONCA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu recurso especial dirigido contra os acórdãos prolatados na Ação Penal Originária n. 8001576-71.2023.8.05.0000 e nos Embargos de Declaração n. 8001576-71.2023.8.05.0000.1 (fls. 950/969 e 1.071/1.079).
+No recurso especial, a defesa alegou, em síntese, a violação dos arts. 926 do Código de Processo Civil; 6º da Lei n. 8.038/1990; e 1º, XIII, do Decreto-Lei n. 201/1967 (fls. 1.093/1.104).
+Inadmitido o recurso na origem (fls. 1.117/1.126), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 1.130/1.135).
+O Ministério Público Federal opina pelo conhecimento do presente agravo e, quanto ao mérito, pelo seu desprovimento, para que não se conheça do recurso especial (fls. 1.163/1.165).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada. Contudo, o recurso especial não deve ser conhecido.
+Quanto à incidência da Súmula 280/STF. Em que pesem as alegações da defesa, entendo que o óbice não foi superado, na medida em que, para resolver sobre a legalidade a contratação de servidores, esta Corte Superior teria de examinar a aplicação da Lei Municipal n. 55/2013. Nesse sentido: REsp n. 798.679/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/5/2017, DJe de 20/6/2017.
+Relativamente à alegada violação do art. 926 do Código de Processo Civil, a questão encontra duplo óbice. Primeiro, o das Súmulas 211/STJ, 282/STF e 356/STF, pois o mérito da tese veiculada nas razões do especial não foi analisado pelo Tribunal a quo. Também não é cabível a adoção do prequestionamento ficto, porquanto a parte agravante não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada. Confira-se: AgRg no REsp n. 2.170.487/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.
+Em segundo lugar, porque, para saber se o Tribunal de origem teria proferido decisões contraditórias em processos semelhantes, seria necessário o exame do contexto probatório de cada um desses processos, vedado pela Súmula 7/STJ.
+Do mesmo modo, não é possível ex aminar se houve violação do art. 6º da Lei n. 8.038/1990 e do art. 1º, XIII, do Decreto-Lei 201/1967 sem a profunda verificação do acervo probatório. Com efeito, na denúncia do Ministério Público, consta que as contratações, afora o fato de destinadas a atender a atividades ordinárias e permanentes da Administração, se deram sem qualquer espécie de seleção pública, objetiva e impessoal, ficando a escolha dos trabalhadores ao talante das conveniências do alcaide, que atuou de modo voluntário, tornando-se pessoalmente responsável pela escolha dos obreiros (fl. 9).
+Esse quadro fático apresentado pelo Parquet aponta no sentido de que a contratação dos servidores teria desatendido à legislação municipal que a parte agravante afirma ter cumprido.
+Desse modo, chegar a uma conclusão diversa daquela a que chegou o Tribunal de origem demandaria exame aprofundado das circunstâncias fáticas da causa e das provas carreadas aos autos. Análise obstada pelo óbice da Súmula 7/STJ.
+Ilustrativamente: AgInt no AREsp n. 1.850.949/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/5/2025, DJEN de 9/5/2025; e AgRg no AREsp n. 608.639/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 18/8/2015, DJe de 8/9/2015.
+Em razão do exposto, conhe ço do agravo para não conhecer do recurso especial (arts. 932, III, do CPC, e 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. CRIME PREVISTO NO ART. 1º, XIII, DO DECRETO-LEI N. 201/1967. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIREITO LOCAL. SÚMULA 280/STF.
+Agravo conhecido para não conhecer do recurso especial.
