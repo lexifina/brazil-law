@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por ESTADO DE MINAS GERAIS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+JUIZO DE RETRATAÇÃO. ART. 543, § 70, 11, DO CPC, E ART. 441-A DO RITTJMG. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. OBSERVÂNCIA AO ATUAL ENTENDIMENTO DO STJ. APLICAÇÃO DO ART. 1º-F, DA LEI 11.960109.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 467, 468 e 543-C, § 7º, II, do CPC, alegando que o segundo acórdão deve ser considerado nulo, pois agravou a condenação do Estado em flagrante ocorrência de reformatio in pejus.
+Contrarrazões apresentadas.
+O Ministério Público Federal opinou pelo provimento do recurso. Eis a ementa ministerial (fl. 331):
+Processual Civil. Administrativo. Responsabilidade civil do Estado. Indenização por dano moral. Recurso Especial. Juros moratórios. Fixação, na sentença, da taxa de 0,5% ao mês, desde a citação. Reforma, sem a respectiva apelação, para 1% ao mês, desde a data do evento danoso. Reformatio in pejus. Súmula 45/STJ. Precedentes do STJ. Parecer pelo conhecimento do recurso e, no mérito, pelo seu provimento.
+É o relatório.
+Passo a decidir.
+Ao decidir a lide, a sentença determinou (fl. 182, grifo nosso) :
+Posto isso, julgo PROCEDENTES em partes os pedidos da inicial e CONDENO o Requerido a pagar ao Autor a quantia de R$ 20.000,00 (vinte mil reais) a título de danos morais, acrescidos de juros de 0,5% ao mês, desde a citação e correção monetária pelos índices da Corregedoria Geral de Justiça, desde o ajuizamento da ação.
+O Tribunal a quo agravou a situação do Estado ao "ordenar que sobre a quantia fixada para reparação do dano moral incidam juros de mora, à taxa de 1% (um por canto) ao mês desde a data do evento danoso" (fl. 285), afastando o termo fixado na sentença, sem existir pedido do autor da ação indenizatória nesse sentido.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO POR DANOS MORAIS. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. REFORMA EM SEDE DE REEXAME NECESSÁRIO. REFORMATIO IN PEJUS CONFIGURADA. SÚMULA 45/STJ. CORREÇÃO MONETÁRIA. INCIDÊNCIA A PARTIR DA DATA DO ARBITRAMENTO DO VALOR INDENIZATÓRIO. SÚMULA 362/STJ. RECURSO PROVIDO.
+1. Se apenas uma das partes interpõe recurso, é vedado ao Tribunal agravar a situação do recorrente, sob pena de ensejar reformatio in pejus, vedada pelo ordenamento jurídico.
+2. Na hipótese dos autos, o Tribunal de Justiça estadual promoveu reformatio in pejus contra o Estado do Paraná, ao determinar a incidência dos juros moratórios a partir do evento danoso, afastando como termo a quo a data da citação, conforme fixado na r. sentença, sem que, para isso, houvesse o autor da ação indenizatória interposto recurso de apelação pugnando por essa reforma. Nesse contexto, incide a Súmula 45/STJ, segundo a qual  no reexame necessário, é defeso, ao tribunal, agravar a condenação imposta a Fazenda Pública .
+3. Nas ações de reparação de danos morais, o termo inicial de incidência da correção monetária é a data do arbitramento do valor da indenização. A respeito do tema, a Corte Especial editou recentemente a Súmula 362/STJ: "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento."
+4. Recurso especial provido (REsp 813.067/PR, relatora Ministra Denise Arruda, Primeira Turma, julgado em 25/11/2008, DJe de 16/2/2009).
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. TERMO FINAL. MORA. DANO MATERIAL. INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. EXCEÇÃO CONTRATO NÃO CUMPRIDO. RETENÇÃO DAS CHAVES.
+1. Ação revisional de contrato ajuizada em 09/12/2011, da qual foi extraído o presente recurso especial, interposto em 22/02/2023 e concluso ao gabinete em 07/07/2023.
+2. O propósito recursal é decidir (a) qual o termo final da indenização a ser paga pelo construtor que atrasou a entrega do imóvel se o adquirente for inadimplente na data em que o bem estiver pronto e (b) se há "reformatio in pejus" na decisão que, ao dar provimento ao recurso de uma das partes para alterar a base de cálculo dos honorários de sucumbência recíproca, beneficia também a parte que não recorreu.
+3. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste violação do art. 1.022, II, do CPC.
+4. É entendimento desta Corte Superior, nos termos do Tema Repetitivo 996/STJ, que na hipótese de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+5. O art. 52 da Lei n. 4.591/1964 dispõe que cada contratante da construção só será imitido na posse de sua unidade se estiver em dia com as obrigações assumidas, inclusive as relativas à construção, exercendo o construtor e o condomínio o direito de retenção sobre a respectiva unidade.
+6. Quando o construtor entrega o imóvel em condições de ser usufruído pelo adquirente, tem-se o termo final da sua mora. Por conseguinte, cessa o fato gerador do dever de reparação que compete ao construtor pelo atraso no imóvel.
+7. Se o adquirente estiver inadimplente com suas obrigações, a construtora pode negar-se a efetivamente entregar as chaves até que as obrigações sejam cumpridas. Nessas situações, o termo final da indenização pelo atraso na entrega do imóvel é a data em que as chaves foram colocadas à disposição do consumidor, ainda que a imissão na posse tenha ocorrido posteriormente .
+8. Mesmo em se tratando de sucumbência recíproca, as obrigações devem ser analisadas de forma individual.
+9. Se apenas uma das partes interpõe recurso objetivando a reforma da base cálculo dos honorários de sucumbência recíproca, a parte que não interpôs recurso quanto a este aspecto não pode se beneficiar do eventual provimento, sob pena de "reformatio in pejus".
+10. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido (REsp 2.078.995/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 12/3/2024, grifo nosso).
+Assim sendo, merece reforma o acórdão recorrido, uma vez que o entendimento da Corte de origem está em dissonância da pacífica orientação jurisprudencial deste Tribunal Superior.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para estabelecer o termo inicial a partir da prolação da sentença.
+Intimem-se.
+EMENTA
