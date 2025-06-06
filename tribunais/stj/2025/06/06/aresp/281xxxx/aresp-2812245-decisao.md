@@ -1,0 +1,32 @@
+DECISÃO
+FRANCISCO BATISTA CABRAL agrava da decisão que inadmitiu recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0001218-90.2024.8.26.0400.
+Consta dos autos que o recorrente foi condenado à pena de 4 anos de reclusão, em regime inicial aberto, pela prática do crime de homicídio simples tentado, tipificado no art. 121, c/c o art. 14, II, ambos do Código Penal.
+A defesa aduz, em síntese, a nulidade da regressão de regime determinada sem a prévia oitiva do apenado e sustenta violação do art. 118, I e §2º, c/c o art. 50, V, ambos da Lei n. 7.210/84. Aponta ainda a necessidade de expedição de alvará de soltura e posterior oitiva do executado.
+Apresentadas as contrarrazões (fls. 161-167) e inadmitido o recurso pelo Tribunal a quo (fls. 170-171), o Ministério Público Federal opinou pelo provimento do agravo para o conhecimento e provimento do recurso especial (fls. 220-223).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivo pelos quais passo à análise do recurso especial.
+II. Regressão de regime sem oitiva prévia do apenado
+A controvérsia cinge-se à validade da regressão de regime prisional determinada sem a prévia oitiva do executado em audiência de justificação.
+Conforme se observa do acórdão recorrido, após o reconhecimento de falta grave consistente no descumprimento das condições fixadas para o regime aberto, procedeu-se à homologação da falta grave com a determinação da regressão de regime, sem que fosse realizada a oitiva prévia do apenado:
+Saliente-se, nesse passo, que não há se falar em nulidade por ausência de oitiva do sentenciado, tendo em vista que ele fora devidamente advertido acerca das condições do regime aberto e das consequências de seu descumprimento, mas deixou de cumpri-las e tampouco compareceu à audiência de justificação designada justamente para que pudesse ser ouvido. Deste modo, o próprio Agravante impossibilitou a sua oitiva, tendo em vista que mudou de endereço sem prévia comunicação ao juízo (fls. 134-135).
+Contudo, por se tratar de regressão definitiva de regime em razão do cometimento de falta grave, o dispositivo legal de regência, previsto no art. 118, I, §2º, da Lei de Execuções Penais, determina a realização de oitiva prévia do condenado, diferentemente da possibilidade de dispensa no caso de regressão cautelar.
+O entendimento consolidado no âmbito desta Corte Superior é de que é imprescindível a realização de audiência de justificação perante o juízo competente quando houver regressão definitiva de regime prisional. Nesse sentido, cito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. REGRESSÃO DE REGIME. AUDIÊNCIA DE JUSTIFICAÇÃO. NECESSIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em caso de prática de fato definido como crime doloso ou falta grave, consoante exegese do art. 118, § 2º, da lei de Execução Penal, é necessária a prévia oitiva judicial do apenado antes que se proceda à regressão de regime.
+2. Agravo regimental não provido.
+(AgRg no HC n. 726.758/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022, grifei.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. REGRESSÃO DEFINITIVA DE REGIME PRISIONAL. FALTA DE PRÉVIA OITIVA JUDICIAL DO CONDENADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer. 2. Esta Corte Superior de Justiça consolidou entendimento no sentido de que, nos termos do art. 118, § 2º, da Lei n. 7.210/84 (LEP), o condenado deve ser ouvido pessoalmente pelo magistrado antes da regressão definitiva de regime, sendo insuficiente a apresentação de justificação por escrito pelo advogado ou pelo próprio condenado.
+3. Na espécie, o Juízo da instância primeira e o Tribunal de origem determinaram a regressão definitiva ao regime prisional anterior, sem a oitiva do sentenciado, o que caracteriza flagrante ilegalidade.
+4. Habeas Corpus não conhecido. Contudo, ordem concedida de ofício para anular a decisão proferida pelo Juízo da instância primeira, no que concerne à determinação da regressão definitiva de regime, a fim de que, quanto a esse aspecto, outra seja proferida com a observância da prévia oitiva judicial do condenado.
+(HC n. 478.958/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2018, DJe de 19/12/2018, destaquei.)
+Dessa forma, uma vez que o sentenciado foi penalizado com regressão de regime em decorrência de falta grave, mas sem a sua oitiva prévia, necessário se faz o reconhecimento da nulidade apontada.
+Nem mesmo o descumprimento das condições do regime aberto ou a ausência do acusado na audiência de justificação para a qual não foi intimado constituem motivos hábeis para afastar a necessidade de oitiva prévia, pois não demonstram que o apenado tomou ciência dos termos da audiência de justificação.
+Portanto, como pontuado pelo Ministério Público Federal, o entendimento firmado no âmbito do Superior Tribunal de Justiça é no sentido de ser imprescindível a realização de audiência de justificação perante o juízo competente no procedimento administrativo disciplinar para apuração de falta grave quando houver regressão definitiva de regime prisional.
+III. Dispositivo
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reformar a decisão que determinou a regressão definitiva de regime sem a prévia oitiva do apenado.
+Determino ao juízo de origem que: a) proceda à oitiva do executado em audiência de justificação; b) depois d a oitiva, decida novamente sobre a regressão de regime.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+ EMENTA
