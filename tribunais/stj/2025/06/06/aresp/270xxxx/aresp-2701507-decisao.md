@@ -1,0 +1,36 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava da decisão que inadmitiu recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução Penal n. 1.0000.23.194053-7/001.
+Consta dos autos que o agravado foi absolvido impropriamente pela prática do crime previsto no art. 121, § 2º, IV, do Código Penal (tentativa de homicídio qualificado), sendo-lhe aplicada medida de segurança de internação em hospital de custódia e tratamento psiquiátrico pelo prazo mínimo de 3 anos.
+O Ministério Público aduz, em síntese, violação dos arts. 97, §§ 1º e 2º, do Código Penal, e 175, II, da Lei de Execução Penal e sustenta que a modulação da medida de segurança de internação para tratamento ambulatorial não pode fundamentar-se exclusivamente em relatório elaborado por equipe multidisciplinar não médica da Cemes, sendo imprescindível a realização de perícia médica oficial para aferição da cessação ou da redução da periculosidade.
+Apresentadas as contrarrazões (fls. 108-111) e inadmitido o recurso pelo Tribunal a quo por aplicação da Súmula n. 7 do STJ (fls. 127-132), o Ministério Público Federal opinou pelo conhecimento e pelo provimento do recurso especial (fls. 159-163).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+II. Necessidade de perícia médica
+A controvérsia jurídica cinge-se à necessidade de perícia médica oficial para modulação de medida de segurança de internação em tratamento ambulatorial.
+O acórdão recorrido assentou que a modulação da medida de segurança poderia fundamentar-se exclusivamente em relatório interdisciplinar elaborado pela equipe multidisciplinar da Cemes com a dispensa da a perícia médica exigida pela legislação penal. Transcrevo trecho relevante (fl. 82):
+Verifica-se, portanto, que foi atestado por profissional qualificado que o agravado se encontra estável e tem o suporte assistencial necessário para dar início ao tratamento ambulatorial. Desse modo, em que pesem os argumentos apresentados pelo "Parquet", verifica-se que a decisão agravada deve ser mantida, na medida em que não há nos autos elementos capazes de afastar a idoneidade do parecer elaborado pelo núcleo psicossocial da CEMES.
+Contudo, essa interpretação contraria frontalmente a legislação federal vigente.
+O art. 97, § 1º, do Código Penal estabelece que "a internação, ou tratamento ambulatorial, será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação de periculosidade".
+De igual modo, o art. 175, II, da Lei de Execução Penal determina que "o relatório será instruído com o laudo psiquiátrico".
+A jurisprudência desta Corte é uníssona no sentido da obrigatoriedade da perícia médica para aferição da cessação ou da redução da periculosidade em medidas de segurança:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. MEDIDA DE SEGURANÇA. EXTINÇÃO. EXAME DE CESSAÇÃO DE PERICULOSIDADE. NECESSIDADE. PRECEDENTES DO STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, pela previsão contida nos arts. 97, § 1º, do Código Penal e 175, II, da Lei de Execução Penal, somente com base em parecer médico ( exame de cessação da periculosidade) poderá o magistrado decidir sobre a extinção da medida de segurança.
+2. In casu, o Tribunal a quo, após analisar o conjunto fático-probatório dos autos, concluiu, de maneira fundamentada, ser imprescindível a realização do exame de cessação de periculosidade definitiva, ao final do tratamento ambulatorial, para embasar a eventual sentença extintiva da punibilidade .(HC 217.903/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/06/2016, DJe 03/08/2016).
+3. Esta Corte Superior firmou entendimento de que a medida de segurança é aplicável ao inimputável e tem prazo indeterminado, perdurando enquanto não for averiguada a cessação da periculosidade (Precedentes STJ). 4. Não se verificando tal condição, não há falar-se em extinção da medida de segurança (HC 112.227/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/06/2010, DJe 09/08/2010).
+4. In casu, tal exame já se encontra marcado para o dia 1º/12/2021 (e-STJ, fl. 516), devendo-se aguardar a elaboração da referida prova técnica para eventual declaração de extinção da medida.
+5. Ressalte-se que o atual estado de pandemia de COVID-19, tem afetado os trâmites processuais. No ponto, tenho que não há qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito, uma vez que o magistrado condutor vem empreendendo esforços para a realização da perícia, já determinada e com data marcada.
+6. Agravo regimental não provido.
+(AgRg no HC n. 455.452/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/6/2021, DJe de 21/6/2021, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. MEDIDA DE SEGURANÇA. EXTINÇÃO. EXAME DE CESSAÇÃO DE PERICULOSIDADE. NECESSIDADE. PRECEDENTES DO STJ. AGRAVO PARCIALMENTE PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, pela previsão contida nos arts. 97, § 1º, do Código Penal e 175, II, da Lei de Execução Penal, somente com base em parecer médico poderá o magistrado decidir acerca da liberação do internado. 2. Perdurando a omissão por tempo não razoável, deve ser provido o recurso especial, em menor extensão, apenas para determinar a imediata realização do exame pericial para aferir a cessação da periculosidade do recorrente.
+3. Agravo regimental parcialmente provido.
+(AgRg no REsp n. 1.555.227/MG, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/4/2018, DJe de 23/4/2018, destaquei.)
+No caso concreto, a modulação da medida de segurança fundamentou-se exclusivamente em relatório elaborado por estagiárias pós-graduandas em Psicologia e Serviço Social, além de Assistente de Apoio aos Gestores de Unidades Judiciárias, sem nenhuma participação de profissional médico.
+Embora reconheça a importância do trabalho multidisciplinar na execução de medidas de segurança, a exigência legal de perícia médica é incontornável, constituindo garantia tanto para o paciente judiciário quanto para a sociedade.
+A dispensabilidade da perícia médica, como decidido pelo Tribunal a quo, representa interpretação contra legem dos dispositivos penais e processuais penais aplicáveis, o que viola as normas federais invocadas pelo recorrente.
+Destaco que a gravidade concreta do delito praticado pelo agravado (tentativa de homicídio qualificado mediante recurso que dificultou a defesa da vítima) reforça a necessidade de cautela na aferição da redução da periculosidade, medida que não pode prescindir da avaliação médica especializada.
+III. Dispositivo
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de determinar a realização de perícia médica oficial para aferição da cessação ou da redução da periculosidade do agravado antes de eventual modulação da medida de segurança, restabelecendo-se, por ora, a medida de internação até a conclusão do referido exame pericial.
+Publique-se e intimem-se.
+ EMENTA
