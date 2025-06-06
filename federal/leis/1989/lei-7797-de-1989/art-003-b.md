@@ -1,0 +1,3 @@
+Art. 3º-B. Os recursos financeiros do Fundo Nacional de Meio Ambiente poderão ser transferidos aos entes subnacionais, para conta específica, dispensada a celebração de convênio ou instrumento congênere, com a finalidade de financiar projetos de proteção e manejo populacional ético de cães e gatos.
+§ 1º A transferência de recursos prevista no caput deste artigo ficará condicionada à adesão do ente subnacional interessado ao Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos, sem prejuízo de outras exigências previstas em regulamento.
+§ 2º Aos recursos financeiros destinados à finalidade prevista neste artigo, aplicar-se-á, no que couber, o disposto nos §§ 1º, 2º, 4º e 5º do art. 3º-A desta Lei.
