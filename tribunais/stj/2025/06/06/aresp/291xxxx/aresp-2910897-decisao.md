@@ -1,0 +1,57 @@
+DECISÃO
+LUIS FABIANO LIMA LIRA agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Roraima na Apelação Criminal n. 0811842-58.2024.8.23.0010.
+O agravante foi condenado a 1 ano e 8 meses de reclusão mais multa, no regime inicial aberto, pelo crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação dos arts. 28, 45 e 46, da Lei de Drogas.
+Requer seja reconhecida a inimputabilidade do réu ante a dependência química ou desclassificada a conduta para o tipo penal previsto no art. 28 da Lei n. 11.343/2006.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Inimputabilidade
+O Tribunal de origem afastou o pleito da defesa pelos seguintes fundamentos (fls. 56-58, destaquei):
+Adotou-se o sistema biopsicológico. Os requisitos, portanto, são: a causa, ou seja, a dependência ou o consumo involuntário de droga; o efeito, a saber, a supressão das capacidades de entendimento ou de autodeterminação; o momento, pois a supressão das aptidões mentais deve ter ocorrido ao tempo da ação ou omissão (qualquer que seja a infração penal cometida).
+No entanto, eventual dependência toxicológica não afasta, por si só, a imputabilidade do apelante, sendo imprescindível a comprovação, por perícia técnica, de que, no momento da ação, ele era inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento, o que não ocorreu no caso dos autos, não havendo falar em absolvição própria ou imprópria.
+Assim sendo, na hipótese, não há se cogitar em aplicação do artigo 45 da Lei 11.343/06, quando inexistente laudo pericial que comprove que o agente era, ao tempo da ação ou da omissão, qualquer que tenha sido a infração penal praticada, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.
+Nesse sentido:
+ ..
+Portanto, inexistente laudo pericial que comprove a inimputabilidade do agente, não há cogitar a aplicação do art. 45 da Lei 11.343/06.
+A Corte de origem consignou não haver nos autos comprovação da ausência de capacidade plena de discernimento do agravante sobre a ilicitude do fato praticado.
+Com efeito, a circunstância de o agente ser dependente químico não implica presunção absoluta da sua não capacidade de orientação conforme as regras penais.
+Ressalte-se que, segundo consta do julgado, "inexiste laudo pericial que comprove a inimputabilidade do agente" (fl. 58). Desse modo, a incapacidade não está comprovada nos autos, consoante os termos do acórdão impugnado, o que implicaria, para se acolher a tese defensiva, a necessidade dilação probatória, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+II. Desclassificação
+O cerne da controvérsia cinge-se a saber se a conduta perpetrada pelo recorrente se amolda ao tipo previsto no art. 28, caput, da Lei n. 11.343/2006 ou ao delito de tráfico de drogas (art. 33, caput, da mesma lei).
+Não se desconhece o entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível nesta via recursal, a teor do que estabelecido na Súmula n. 7 do STJ.
+Decerto que, no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+Na espécie, contudo, entendo que as instâncias ordinárias não apontaram elementos suficientes para concluir pela prática do delito de tráfico de drogas, senão vejamos.
+A Corte local manteve a condenação do réu pelo delito de tráfico de drogas, com base nos seguintes argumentos (fls. 58-60, grifei):
+O art. 28, §2º da Lei nº 11.343/2006 estabelece que para se determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.
+ ..
+No caso, a materialidade restou comprovada pelo auto de Auto de Prisão em Flagrante, Boletim de Ocorrência; Relatório de Ocorrência Policial, Auto de Exibição e Apreensão, (todos no EP 1.1); Laudos de Exame Químico Preliminar e Exame Definitivo em Substância, (EP 1.1 e 37), bem como pelas provas orais produzidas em Juízo, em especial dos policiais (EP 39).
+ ..
+Embora a defesa técnica postule a desclassificação para o delito de consumo pessoal, nota-se que há elementos suficientes para comprovar a autoria e materialidade do crime de tráfico.
+Isso porque, as circunstâncias do caso, consistente na apreensão de 51,3 g de cocaína, acondicionadas em 03 (três) invólucros plásticos, em posse do acusado, somado ao relato dos agentes policiais, afirmando que o local patrulhado era conhecido ponto de venda de entorpecentes e o réu, ao avistar a guarnição, se desfez de objeto que portava, o que motivou a abordagem, descoberta dos estupefacientes e sua confissão reconhecendo "serem deles a as pedras de crack (..) e que iria vender", indicam, estreme de dúvidas, a intenção de traficância.
+ ..
+Dessa forma, impossível a desclassificação pretendida.
+É imperioso o registro de que a Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (n. 6.368/1976) - e que continua na legislação atual.
+Não por outro motivo, a prática nos tem evidenciado que a concepção expansiva da figura de quem é traficante acaba levando à inclusão, nesse conceito, de cessões altruístas, de consumo compartilhado, de aquisição de drogas em conjunto para consumo próprio e, por vezes, até de administração de substâncias entorpecentes para fins medicinais.
+No caso, conforme visto, as instâncias ordinárias concluíram pela condenação do réu em relação à prática do crime de tráfico de drogas, com fundamento, basicamente, nos seguintes argumentos: a) no local da prisão, há ocorrências de tráfico de drogas; b) foram encontradas as drogas com o réu.
+No entanto, embora houvesse ocorrências de tráfico de drogas no local da abordagem, não se tratava, especificamente nesse caso, de averiguação de denúncia robusta e atual acerca da prática de tráfico de drogas pelo réu.
+Verifico, ainda, que a quantidade de drogas encontrada (51,3 g de cocaína) foi bastante reduzida e perfeitamente compatível com o mero uso de entorpecentes. Ademais, em nenhum momento, o acusado foi pego vendendo, expondo à venda ou oferecendo drogas a terceiros; ou seja, ele não foi encontrado, na rua, em situação de traficância.
+De igual forma, não foram apreendidos materiais típicos para o preparo e comercialização de entorpecentes, tampouco balança de precisão, caderneta de anotações de venda de drogas ou rádio comunicador.
+Além disso, a confissão informal, isoladamente, não pode servir de arrimo à condenação, sendo certo que este Superior Tribunal inclusive assim já se manifestou: "A eventual confissão extrajudicial obtida por meio de depoimento informal, sem a observância do disposto no inciso LXIII, do artigo 5º, da Constituição Federal, constitui prova obtida por meio ilícito, cuja produção é inadmissível nos termos do inciso LVI, do mencionado preceito" (HC n. 22.371/RJ, Rel. Ministro Paulo Gallotti, 6ª T., DJe 31/3/2003).
+Faço menção ao fato de que as únicas condutas imputadas pelo Ministério Público em sua denúncia - dentre as várias previstas no art. 33, caput, da Lei n. 11.343/2006 (que é de conteúdo múltiplo) - foram a de transportar e trazer consigo, as quais também estão previstas no tipo descrito no caput do art. 28 da Lei n. 11.343/2006.
+Diante de tais considerações, entendo que o Ministério Público não se desincumbiu do ônus de provar o tráfico de drogas. O que se tem dos elementos coligidos aos autos é apenas a intuição acerca de eventual traficância praticada pelo recorrente.
+Ao funcionar como regra que disciplina a atividade probatória, a presunção de não culpabilidade preserva a liberdade e a inocência do acusado contra juízos baseados em mera probabilidade, determinando que somente a certeza pode lastrear uma condenação.
+A presunção de inocência, sob tal perspectiva, impõe ao titular da ação penal todo o ônus de provar a acusação, quer a parte objecti, quer a parte subjecti. Não basta, portanto, atribuir a alguém conduta cuja compreensão e subsunção jurídico-normativa, em sua dinâmica subjetiva - o ânimo a mover a conduta - decorre de avaliação pessoal de agentes do Estado, e não dos fatos e das circunstâncias objetivamente demonstradas.
+Apenas faço a observação de que nada impede que um portador de 1 g de crack, a depender das peculiaridades do caso concreto, possa ser responsabilizado pelo delito de tráfico de drogas. Pode, evidentemente, estar travestido de usuário, até o ponto em que, contrastado pelas provas efetivamente produzidas ao longo da instrução criminal, venha a ser condenado pelo comércio espúrio.
+No entanto, no caso ora em análise, a ausência de diligências investigatórias que apontem, de maneira inequívoca, para a narcotraficância por parte do acusado - e não apenas a acenada existência de ponto de comércio de drogas no local em que ele se encontrava - evidencia o equívoco da condenação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, porque não foi o réu surpreendido comercializando droga e, portanto, a conclusão sobre sua conduta decorreu de avaliação subjetiva não amparada em substrato probatório idôneo a corroborar a acusação.
+Logo, impõe-se a desclassificação da conduta imputada ao recorrente para o delito descrito no art. 28, caput, da Lei de Drogas.
+Releva, por necessário, enfatizar que, especificamente no caso dos autos, a conclusão pela desclassificação da conduta imputada ao réu para o delito descrito no art. 28 da Lei n. 11.343/2006 não demanda o revolvimento de matéria fático-probatória, procedimento vedado nesta via recursal.
+O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos - já referidos linhas atrás, os quais estão delineados nos autos - e das provas que foram devidamente colhidas ao longo de toda a instrução probatória.
+III. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento parcial ao recurso especial a fim de desclassificar a conduta para o tipo penal previsto no art. 28 da Lei n. 11.343/2006.
+Deve o Juízo da execução penal competente promover a adequação na respectiva dosimetria.
+Determino a imediata expedição de alvará de soltura em favor do acusado se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
