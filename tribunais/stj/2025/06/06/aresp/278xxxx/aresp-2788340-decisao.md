@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO PAULO ARRUDA SAES contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal (Apelação n. 2126-42.2024.8.16.0137).
+A controvérsia encontra-se bem delimitada no parecer do Ministério Público Federal (e-STJ fl. 438):
+"O agravante foi condenado pela prática de delito previsto no art. 14 da Lei 10.826/03, à pena de dois anos de reclusão e 10 dias-multa, em regime inicial semiaberto.
+Da sentença, a Defesa interpôs apelação, tendo o TJ/PR negado provimento ao recurso, nos termos da seguinte ementa:
+APELAÇÃO CRIME. CRIME PREVISTO NO ART. 14, DA LEI Nº 10.826/03. SENTENÇA QUE JULGOU PROCEDENTE A PRETENSÃO PUNITIVA. INSURGÊNCIA DA DEFESA. 1. ALEGADA NULIDADE DA BUSCA PESSOAL E VEICULAR. INOCORRÊNCIA. DENÚNCIA ANÔNIMA SEGUIDA DE DILIGÊNCIAS POLICIAIS COM A FINALIDADE DE CONFIRMAR SUA VERACIDADE. EXISTÊNCIA DE FUNDADA SUSPEITA PARA A ABORDAGEM POLICIAL. NULIDADE AFASTADA. 2. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE TIPICIDADE DA CONDUTA. PORTE DE ARMA DESMUNICIADA. IMPOSSIBILIDADE. CRIME FORMAL E DE PERIGO ABSTRATO. LAUDO PERICIAL DE EFICIÊNCIA E PRESTABILIDADE JUNTADO NOS AUTOS ORIGINÁRIOS. 3. PLEITO DE ABSOLVIÇÃO POR FALTA DE PROVAS. IMPOSSIBILIDADE. AUTORIA E OCORRÊNCIA DELITIVAS COMPROVADAS. CONFISSÃO EXTRAJUDICIAL E JUDICIAL DO RÉU ASSOCIADA À VERSÃO ÍNTEGRA E COERENTE APRESENTADA PELOS POLICIAIS MILITARES. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO (f. 668).
+Em seguida, interpôs recurso especial, com fundamento na alínea "a" do permissivo constitucional, alegando violação aos arts. 157 e 244, do CPP. Alegou ilicitude da busca pessoal, realizada sem justa causa. Requereu a absolvição do réu (f. 364-372).
+Na origem, o recurso não foi admitido, por incidência da Súmula 83/STJ (f. 390-392).
+No presente agravo, afirma o agravante que " não há julgados prolatados por este E. STJ que autorizam a busca exploratória"; que " não houve qualquer registro da suposta denúncia anônima em canais oficiais e, obviamente, após a prática de fishing expedition se torna muito simples para a validação da violação ao art. 244 do CPP indicar as características que deram ensejo ao ato". Requer a reconsideração do juízo de admissibilidade do recurso especial para que seja conhecido e provido (f. 401-403)".
+O Parquet Federal apresentou parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+Nas razões do agravo em recurso especial, o ora agravante deixou de impugnar de maneira adequada e suficiente o óbice da Súmula n. 83/STJ, utilizado pela Corte de origem para obstar a admissão do apelo nobre, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência do referido enunciado sumular.
+No caso, in admitido o apelo extremo com base no referido verbete sumular n. 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outro é o entendimento jurisprudencial do Superior Tribunal de Justiça.
+Anota-se que o entendimento do Superior Tribunal de Justiça é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional. (AgRg no AREsp n. 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014.)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento das qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido. (AgRg no AREsp n. 623.381/MA, relator Ministro ERICSON MARANHO, Desembargador C onvocado do TJSP, SEXTA TURMA, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Como é cediço, nos termos dos arts. 932, III, do Código de Processo Civil de 2015, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), bem como da Súmula n. 182 do STJ, aplicável por analogia, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. DECISÃO MANTIDA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. REGIME PRISIONAL MAIS GRAVOSO APLICADO NA AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO. ORDEM EM HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA APLICAR O REGIME SEMIABERTO.
+1. A ausência de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+ ..
+5. Agravo regimental improvido. Habeas corpus concedido de ofício para alterar o regime fixado para o semiaberto. (AgRg no AREsp 1.748.266/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/3/2021, DJe 5/3/2021, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO. INOVAÇÃO DE ARGUMENTOS. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente a impugnação concreta e pormenorizada aos fundamentos da decisão de inadmissão do recurso especial, pelo Tribunal de origem, é inadmissível o agravo em recurso especial, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, bem assim pela incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental desprovido (AgRg no AREsp 1.751.057/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021, grifei.)
+Ademais, da leitura dos autos, não verifico, in casu, nenhuma flagrante ilegalidade apta a atrair a concessão da ordem de ofício.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
