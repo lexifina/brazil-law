@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WILLIAM PEDRO CORBELLI em face da decisão de 146/147, que rejeitou os embargos de declaração de fls. 134/135, que por sua vez rejeitou os embargos de declaração opostos contra a decisão de fls. 118/122, através da qual não foi conhecido o habeas corpus e não se constatou a presença de teratologia ou flagrante ilegalidade a dar ensejo à concessão da ordem de ofício, nos termos do art. 647-A, do CPP.
+Alega que persiste a omissão quanto à especificação das provas complementares, para além da interceptação telefônica, que dão suporte à condenação.
+Aduz que
+A decisão embargada reitera a afirmação genérica de que a condenação teria "apoio em outros elementos da prova" (fl. 147), mas persiste em não identificar quais seriam esses elementos ou como vinculam o paciente aos crimes.
+A omissão viola o art. 489, § 1º, IV, do CPC (utilizado por analogia) que exige motivação concreta. A defesa já demonstrou, em embargos anteriores, que não há provas materiais (como drogas apreendidas com o paciente); não há testemunhas que o associem diretamente ao tráfico; não há registros financeiros ligando-o à suposta organização criminosa.
+A referência à fl. 120 da decisão original é insuficiente, pois o trecho citado apenas descreve a dinâmica genérica da suposta associação, sem mencionar o paciente especificamente, e sem mencionar nada sobre o tráfico de drogas.
+A jurisprudência dominante (conforme HC 262.971/SP, Min. Néfi Cordeiro) estabelece que "é desnecessária a realização de perícia para a identificação das vozes captadas nas interceptações telefônicas  ..  quando puder ser aferida por outros meios de provas" (destaque nosso). No entanto, no caso em tela, inexistem outros meios de prova que possam confirmar a autoria delitiva, tratando-se a interceptação telefônica da única prova utilizada para condenar o paciente. A decisão citada (fl. 120) nada diz sobre outros elementos de prova.
+Pede o acolhimento dos embargos para que seja sanada a omissão, ordenando a especificação dos "outros elementos da prova" mencionados na pág, 120 e que supostamente embasariam a dispensa da perícia na voz da interceptação telefônica.
+É o relatório.
+DECIDO.
+A alegação de ilegalidade diante falta de realização de perícia para a identificação das vozes captadas nas interceptações telefônicas, feita no item 2 da petição inicial (fls. 3/6), foi afastada às fls. 120/121 por dois fundamentos.
+O primeiro porque a condenação do paciente
+foi fundamentada pela Corte de origem e para rever o posicionamento das Instâncias Ordinárias faz-se necessário acurado revolvimento de matéria probatória, expressamente impróprio em sede de habeas corpus.
+E o segundo porque a Corte local apontou que
+(..) sendo desenvolvida a interceptação telefônica mediante observância às determinações contidas no art. 5º da Lei 9.296/06, resta absolutamente despicienda a realização da perícia de vozes, conforme entendimento já sedimentado neste Sodalício.
+Tendo-se por pressuposto o quanto aduzido na inicial da impetração e revolvido em sucessivos embargos, não é teratológico o acórdão proferido em revisão criminal porque imprópria é a via eleita a se debater o mérito da condenação e porque a referida perícia é dispensável.
+Sob esse prisma, a primeira rejeição dos embargos se apoiou na conclusão de que (fl. 135):
+Acerca da suscitada imprescindibilidade da realização da perícia sobre a voz das interceptações telefônicas o julgado fundamentou que a Corte local invocou ser dispensável a perícia, em conformidade com a jurisprudência firmadas pelos Tribunais Superiores, bem como transcreveu as razões fáticas e jurídicas, expostas pelo julgado impetrado, que dão sustentação à conclusão condenatória, como se vê a folha 120.
+E, por fim, os subsequentes embargos foram rejeitados porque
+Restou consignado na decisão embargada que a perícia nas vozes gravadas através de interceptação telefônica é desnecessária porque a condenação tem apoio em outros elementos da prova, com menção a fl. 120 da decisão pela qual não se conheceu do habeas corpus e não se verificou a presença de teratologia que impusesse a concessão da ordem de ofício, o que se corrobora com os fundamentos expostos pelo Tribunal a quo ao refutar a matéria no item 1.3 do julgado, aqui à fl. 51/53. (fl. 147).
+Neste panorama, não há omissão a ser suprida porque a decisão embargada indicou que a perícia é desnecessária e que a condenação tem apoio em outros elementos da prova, não sendo a via eleita adequada ao revolvimento do acervo probatório, com a valoração e confronto pormenorizado entre os elementos da prova.
+Por este motivo, firmada a condenação em elementos da prova para além da interceptação, não se admite em sede de habeas corpus a especificação e o confronto entre o quanto narrado por cada uma das pessoas ouvidas no curso da instrução processual, o constante de eventuais registros financeiros que vinculassem o paciente à organização criminosa, quais espécies e quantidades de narcóticos teriam sido apreendidos e as minúcias acerca dos motivos que apontassem que tais drogas estariam ligadas às condutas criminosas narradas na acusação ajuizada.
+Em conclusão, superada restou a impugnação acerca das especificidades dos elementos da prova que levaram à conclusão condenatória, tanto pela interposição dos recursos ordinários, inclusive o apelo com amplo efeito devolutivo, quanto pelos embargos passíveis de serem opostos antes mesmo do trânsito em julgado da condenação e também ao acórdão proferido em sede de revisão criminal.
+Logo, diante da ausência de omissão a ser suprida, os embargos devem ser rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
