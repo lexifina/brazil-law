@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WELLINGTHON DOS SANTOS CORDEIRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta nos autos que o paciente foi preso em flagrante no dia 17/03/2025 pela prática dos delitos de furto qualificado e associação criminosa. A prisão preventiva foi decretada com fundamento na reiteração criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 14-20.
+No presente writ, a Defesa sustenta que a prisão preventiva é ilegal, pois está fundamentada em conjecturas e fatos extemporâneos, sem elementos concretos que demonstrem a necessidade da medida extrema.
+Afirma que o paciente foi gravemente ferido durante ação policial, com dois tiros na cabeça, e que está sendo submetido a tratamento desumano, sem acompanhamento médico adequado, fazendo jus a prisão domiciliar.
+Alega que o paciente possui condições pessoais favoráveis, como endereço fixo e ocupação lícita.
+Requer a revogação da prisão preventiva, ainda que com a fixação das medidas alternativas diversas à prisão, previstas no art. 319 do Código de Processo Penal.
+Pedido de liminar indeferido às fls. 47-48.
+Informações prestadas às fls. 52-56 e 57-72. O Ministério Público Federal manifestou às fls. 74-78 pela "denegação da ordem".
+É o relatório. DECIDO.
+Quanto a segregação cautelar, no caso em tela, tenho que a decisão que decretou a prisão preventiva do paciente, bem como o acórdão impugnado estão suficientemente fundamentados, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pelo risco de reiteração delitiva, uma vez que o paciente "já foi condenado em primeira instância por dois outros crimes"- fl. 17.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Quanto ao pleito de substituição pela prisão domiciliar em razão da saúde debilitada, o Tribunal de origem assim se pronunciou:
+"consigna-se que os impetrantes não lograram comprovar, a qualquer título, que ele se encontre extremamente debilitado, em decorrência de doença grave, a ponto de não apresentar condições de continuar encarcerado, tampouco que o sistema prisional não disponha dos meios para fornecer-lhe o tratamento médico adequado à sua condição atual de saúde - frise-se, desconhecida, haja vista a ausência de documentação nos autos a respeito" - fl. 19.
+In casu, as instâncias ordinárias concluíram não haver comprovação satisfatória dos requisitos necessários para o deferimento da prisão domiciliar. Não foi juntada documentação que indique a necessidade do paciente ser atendido de forma especial em sua residência.
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que a réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos.
+Ilustrativamente:
+"O Tribunal de origem destacou que não há nos autos documentos que atestem a gravidade da doença do paciente alegada pela defesa ou mesmo que comprovem omissão de tratamento da unidade penitenciária. Dessa forma, não há se falar em substituição da custódia cautelar pela prisão domiciliar, haja vista que o entendimento desta Quinta Turma é no sentido de que, à luz do disposto no art. 318, inciso II, do CPP, o acusado tem que comprovar o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e a segregação cautelar, que não é o caso dos autos"(AgRg no HC n. 823.342/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/10/2 023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
