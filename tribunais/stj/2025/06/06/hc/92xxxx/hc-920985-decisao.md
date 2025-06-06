@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RENAN BUSTO, contra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente foi condenado às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa pela prática do crime de tráfico de entorpecentes.
+A impetrante requer a absolvição do paciente, alegando a insuficiência de provas da autoria delitiva.
+Subsidiariamente, requer a desclassificação do delito para aquele tipificado no art. 28 da Lei de Drogas ou, ainda, a fixação da pena-base no mínimo legal, a aplicação da redução prevista no art. 33, § 4º, do mesmo diploma, fixação do regime inicial aberto e a substituição da pena por restritivas de direitos.
+As informações foram prestadas (fls.78/86,92/132 ).
+O Ministério Público Federal ofereceu parecer (fls.136/148 ).
+Petição Defensoria Pública requerendo aplicação do tema 506 do STF (fls.151/154).
+RELATADO. DECIDO.
+O paciente foi condenado em segunda instância à pena de 5 anos de reclusão em regime inicial fechado e ao pagamento de 500 dias-multa, por portar aproximadamente 24,72 gramas de maconha.
+O acórdão proferido pelo Tribunal de origem reformou a absolvição dada em primeira instância, sob o fundamento de que a quantidade de droga apreendida e os depoimentos de policiais configuravam indícios de tráfico.
+Inicialmente, o habeas corpus não pode ser examinado, eis que as questões nele articuladas não foram objeto de exame pelo Tribunal de Justiça de São Paulo, que, ao desprover o agravo interno, manteve a decisão monocrática do relator de não conhecimento da revisão criminal por ausência dos requisitos do art. 621 do CPP.
+Cumpre analisar eventual hipótese de teratologia ou constrangimento ilegal flagrante, a autorizar a concessão da ordem de ofício.
+Consignou o Ministério Público Federal, em seu parecer que, a "análise dos pleitos de absolvição por insuficiência probatória e de desclassificação para o crime tipificado no art. 28 da Lei 11.343/2006 demanda a reapreciação dos elementos de convicção existentes nos autos do processo principal, providência incabível na estreita via do habeas corpus" (fl.139).
+Portanto, não é possível a aplicação do tema 506 do STF, pois demandaria a análise de provas e fatos, incabível na via estreita do habeas corpus.
+Com relação aos critério de fixação de pena , o Tribunal de origem estabeleceu pena-base acima do mínimo legal em razão da existência de maus antecedentes, já que na folha de antecedentes do paciente consta informação de que foi condenado nos autos da Ação Penal 1500577-66.2018.8.26.0326 pela prática do delito tipificado no art. 28 da Lei de Drogas.
+Contudo, a jurisprudência do STJ já se firmou no sentido de que " a condenação anterior pelo crime do art. 28 da Lei n. 11.343/2006 (posse de drogas para consumo pessoal) não se presta para configurar reincidência, tampouco antecedente criminal desfavorável e, dessa forma, não pode afastar a causa de diminuição de pena prevista no § 4 do art. 33 da Lei de Drogas" ((AgRg no AR Esp n. 2.275.150/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/4/2023, D Je de 26/4/2023 ). A pena base deve ser fixada no mínimo legal.
+O Tribunal de origem não aplicou a redução prevista no art. 33, § 4º,da Lei 11343/2006 sob o fundamento de que paciente se dedica a atividades criminosas, em razão da existência de outra ação penal por crime de tráfico de entorpecentes, ainda sem trânsito em julgado.
+Quanto ao ponto, ressaltou o Ministério Público Federal (fl.143), por " ocasião do julgamento do Tema Repetitivo 1139 (REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe de 18/8/2022), fixou-se a tese de que "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06".
+No caso em tela, com a fixação da pena no mínimo legal ( 05 cinco anos) e aplicação da redução no patamar de 2/3 ( §4º, artigo 33 da Lei 11343/06), a pena deve ser redimensionada para 1 ( um) ano e 08 (oito) meses de reclusão, em regime inicial aberto para início de cumprimento de pena, devendo ser substituída por restritivas de direito determinadas pelo juiz competente.
+Ante o exposto, não conheço o habeas corpus, mas concedendo parcialmente de ofício a ordem para fixar a pena-base no mínimo legal, aplicar a redução de 2/3 do art. 33, § 4º, da Lei 11.343/2006, redimensionando a pena para 01 (um) ano e 08 (oito meses) de reclusão em regime inicial aberto e 167 dias-multa, no patamar mínimo, devendo ser substituída por restritivas de direito ( artigos 43 e 44 do CP) fixadas pelo juiz competente.
+Publique-se. Intimem-se.
+EMENTA
