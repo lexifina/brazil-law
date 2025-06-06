@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por SCHERER ASSESSORIA EMPRESARIAL LTDA. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em agravo de instrumento nos autos de ação de recuperação judicial. O julgado foi assim ementado (fl. 75):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. GESTOR JUDICIAL. NOMEAÇÃO ENCERRADA. PRETENSÃO DE PERCEPÇÃO DOS HONORÁRIOS REMANESCENTES. PRAZO PRESCRICIONAL ANUAL. ARTIGO 206, § 1º, INC. III, CÓDIGO CIVIL. TERMO INICIAL A PARTIR DO ENCERRAMENTO DA GESTÃO. NOTIFICAÇÃO EXTRAJUDICIAL RECEBIDA PELAS RECUPERANDAS APÓS O TRANSCURSO DO PRAZO. RECONHECIMENTO DA PRESCRIÇÃO QUE SE IMPÕE. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 164):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. ACÓRDÃO QUE DEU PROVIMENTO AO RECURSO PARA RECONHECER PRESCRITO O DIREITO À PERCEPÇÃO DE HONORÁRIOS REMANESCENTES PELO GESTOR JUDICIAL, CUJA NOMEAÇÃO FOI ENCERRADA. ALEGAÇÃO DE OMISSÃO E DE SUPRESSÃO DE INSTÂNCIA. INOCORRÊNCIA. TESE SUSCITADA QUE DEMONSTRA CLARAMENTE A INTENÇÃO DO EMBARGANTE DE REFORMA DA DECISÃO ANTE O SEU INCONFORMISMO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DOS VÍCIOS DO ARTIGO 1.022, DO CPC.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 206, § 1º, III, do Código Civil, pois o prazo prescricional de 1 ano para cobrança dos honorários somente se inicia com o trânsito em julgado da sentença.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando-se a prescrição declarada e determinando-se que o prazo prescricional para fins dos honorários do perito se inicie com o trânsito em julgado do processo principal.
+Nas contrarrazões, a parte recorrida aduz que a remuneração do gestor judicial já estava prescrita, pois deveria ser paga após a demonstração do balancete mensal, e que o nome da gestora não foi aprovado pela assembleia geral de credores. Alega que a remuneração era excessiva (fls. 233-236).
+O recurso especial foi admitido (fls. 250-251).
+É o relatório. Decido.
+Não origem, Scherer Assessoria Empresarial Ltda. foi nomeada gestora judicial em processo de recuperação judicial. A gestão iniciou-se em 24/2/2015 e encerrou-se em 19/6/2017. Em razão da inadimplência das empresas recuperandas quanto à remuneração devida, Scherer ingressou com pedido de cumprimento de sentença em 1º/7/2019, visando receber honorários de R$ 50.000,00 mensais mais 7% do lucro líquido das empresas.
+As recuperandas, por sua vez, alegaram prescrição com base no art. 206, § 1º, III, do CC, afirmando que o prazo de 1 ano começou a correr a partir da cessação da gestão.
+A primeira instância rejeitou a alegação de prescrição. Em agravo de instrumento, a 17ª Câmara Cível reformou a decisão e reconheceu a prescrição, decisão que foi reiterada em embargos de declaração. Sobreveio o recurso especial.
+Quanto à data inicial do prazo prescricional, a parte recorrente alega violação do art. 206, § 1º, III, do CPC.
+Tal alegação não constitui imperativo legal apto a desconstituir os fundamentos do acórdão acerca do termo inicial, uma vez que referido dispositivo legal apenas estabelece o prazo e não dispõe sobre o marco inicial da fluência do lapso temporal.
+Dessa forma, incide, no ponto, a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+II - Divergência jurisprudencial
+O recurso especial, fundamentado na alínea c do permissivo constitucional, apenas traz jurisprudência que a recorrente entende divergir do acórdão recorrido, sem, contudo, demonstrar a existência de similitude fática e realizar o necessário cotejo analítico.
+Registre-se que a falta de similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do STJ.
+Ademais, é entendimento desta Corte que a inadmissão do recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na espécie. Nesse sentido: AgInt no REsp n. 1.590.388/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/3/2017, DJe de 24/3/2017; e AgInt no REsp n. 1.343.351/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/2/2017, DJe de 23/3/2017.
+III - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
