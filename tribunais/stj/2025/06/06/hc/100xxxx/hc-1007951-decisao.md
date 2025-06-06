@@ -1,0 +1,13 @@
+DECISÃO
+ALVARO ROBERTO DE ARAGAO SOUZA e RAIMUNDO RUBENS FERREIRA DOS SANTOS alegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Pará nos Embargos de Declaração na Apelação Criminal n. 0001727-29.2011.8.14.0006.
+Extrai-se dos autos que os pacientes foram condenados à pena de 5 anos e de reclusão, em regime inicial semiaberto, mais multa, como incursos no art. 316 do Código Penal.
+Nesta Corte, a defesa postula: a) "concessão de ordem liminar, ante a evidente ilegalidade, para suspender os mandados de prisões contra os pacientes, para que aguardem em liberdade o julgamento de mérito"; b) "no mérito, seja o acórdão reformado tão somente para corrigir a reprimenda aplicada, pois com a neutralização de um vetor do art. 59, do CP, deveria ter havia a diminuição proporcional da reprimenda, o que não ocorreu. Sendo estabelecida proporcionalmente a reprimenda definitiva em 04 (quatro) anos de reclusão" (ambos à fl. 12).
+Decido.
+Este habeas corpus se insurge contra acórdão proferido em 5/12/2017. Em consulta ao sistema informatizado desta Corte Superior, noto que o feito transitou em julgado em 12/3/2019 (fl. 1.130 do AREsp n. 1.397.490/PA).
+Como este habeas corpus foi veiculado em 30/5/2025, mais de 6 anos após o trânsito em julgado da condenação, vejo que se trata de writ substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
