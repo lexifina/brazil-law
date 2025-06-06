@@ -1,0 +1,14 @@
+DECISÃO
+IGOR MEDEIROS DE MACEDO interpõe agravo regimental contra decisão proferida pela Presidência desta Corte de Justiça (fls. 111-112), que indeferiu liminarmente o habeas corpus, por ser substitutivo de revisão criminal.
+Constatada a premissa equivocada, é o caso de reconsiderar a decisão em comento.
+Passo à análise do pedido.
+Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas (Apelação Criminal n. 1513589-48.2021.8.26.0228).
+Em consulta processual realizada na página eletrônica do TJSP e nos assentamentos eletrônicos desta Corte, verifico que, contra o acórdão da apelação, a defesa também interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 2.355.148/SP), não conhecido pela Presidência desta Corte Superior. Apresentado agravo regimental, a 6ª Turma não conheceu do agravo, mas concedeu habeas corpus de ofício, para decotar a agravante da calamidade pública e, consequentemente, readequar a reprimenda para 5 anos de reclusão, em regime fechado.
+A defesa pretende, por meio deste writ, seja fixado o regime inicial semiaberto.
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, ao redimensionar a reprimenda do acusado para 5 anos de reclusão, este Tribunal Superior manteve o regime inicial fechado sem, no entanto, fundamentar o estabelecimento do regime mais gravoso.
+Assim, a manutenção do regime fechado se mostra, especificamente no caso ora analisado, manifestamente ilegal, haja vista que o réu era tecnicamente primário ao tempo do delito e a quantidade de drogas apreendida não foi tão expressiva (19,1g de skunk, 568 g de maconha e 177,3 g de cocaína).
+Desse modo, entendo que deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+À vista do exposto, reconsidero a decisão de fls. 111-112 e concedo a ordem, para estabelecer o regime inicial semiaberto de cumprimento de pena.
+Publique-se e intimem-se.
+EMENTA
