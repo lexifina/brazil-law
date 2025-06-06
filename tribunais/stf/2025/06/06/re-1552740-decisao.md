@@ -1,0 +1,71 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa segue transcrita:
+
+    APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. OPERAÇÕES QUE DESTINAM MERCADORIAS OU SERVIÇOS AO EXTERIOR. UTILIZAÇÃO DOS CRÉDITOS DAS OPERAÇÕES ANTERIORES. A EXPRESSÃO “OPERAÇÕES E PRESTAÇÕES ANTERIORES” (CF, ART. 155, § 2º, X, ALÍNEA A, REDAÇÃO DA EC 42/03), NÃO SE REFERE A TODA E QUALQUER OPERAÇÃO ANTERIOR NEM A TODA E QUALQUER PRESTAÇÃO ANTERIOR. AINDA, IMPÕE-SE CONECTÁ-LA À PARTE INICIAL DO ART. 91 DO ADCT, NA REDAÇÃO DA MESMA EC 42. POR MAIORIA, NA FORMA DO ART. 942 DO CPC, APELAÇÃO DESPROVIDA (doc. 17, p. 1).
+
+    Os embargos de declaração que se seguiram foram rejeitados (doc. 36).
+
+    Neste recurso extraordinário, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, ofensa aos arts. 5°, XXXV, LIV e LV; e 155, § 2°, I, II, X, a, e XII, da mesma Constituição (doc. 45). Para tanto, alega-se a legitimidade do creditamento “[...] do ICMS relativo às aquisições de combustíveis e serviços de comunicação utilizados nas prestações de serviços de transporte destinados ao exterior [...]” (doc. 45, p. 4).
+
+    É o relatório necessário. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+    Preliminarmente, ressalto que o Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do Recurso Extraordinário com Agravo 748.371 RG/MT (Tema 660 da Repercussão Geral), da relatoria do Ministro Gilmar Mendes, DJe 1º/8/2013, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+
+    Ademais, o Tribunal de origem dirimiu a controvérsia em exame com base nos seguintes fundamentos:
+
+    Resumindo, a expressão “operações e prestações anteriores” (CF, art. 155, § 2º, X, alínea a, redação da EC 42/03), não se refere a toda e qualquer operação anterior nem a toda e qualquer prestação anterior. Ainda, impõe-se conectá-la à parte inicial do art. 91 do ADCT, na redação da mesma EC 42.
+
+    Peço vênia para transcrever, no quanto interessa, a ementa resultante da Ap 70 069 639 862, aplicável ao caso, julgada sem divergência, na sessão de 28-6-2017, com a mesma composição de hoje (Desembargadores Sérgio e Fabrício):
+
+    3. PRODUTOS DE EXPORTAÇÃO
+
+    3.1 – Em relação às empresas exportadoras, o princípio da não cumulatividade não passou a ser absoluto com a redação do art. 155, § 2º, X, alínea a, da CF, dada pela EC 42/03. A garantia de manutenção e de aproveitamento é do “montante do imposto cobrado nas operações e prestações anteriores”. A expressão “operações e prestações anteriores”, não se refere a toda e qualquer, mas tão só àquelas envolvendo bens que se integram diretamente às operações de saída, haja vista que o teor coincide com o do inciso I, é dizer, com o que garante o creditamento apenas dos bens que se agregam diretamente às operações de saída. Não há como estender a toda e qualquer operação, nem mesmo com base na tese da imunidade, pois aí não ocorre interpretação extensiva, mas criação de norma nova por meio da interpretação.
+
+    3.2 – Em relação ao caput do art. 91 do ADCT, na redação da mesma EC 42, na parte final refere “créditos decorrentes de aquisições destinadas ao ativo permanente”, mas deve ser conectada à parte inicial, onde consta que a União entregará aos Estados e ao Distrito Federal o montante “definido em lei complementar, de acordo com critérios, prazos e condições nela determinados, podendo considerar as exportações para o exterior de produtos primários e semielaborados, a relação entre as exportações e as importações, os créditos decorrentes de aquisições destinadas ao ativo permanente ...” Quer dizer, o dispositivo não garante o creditamento, e sim remete, como faculdade, à lei complementar que menciona.
+
+    No caso sub judice, a autora foi autuada por se creditar de ICMS de produtos que não se agregam às operações de saída (combustíveis e serviços de comunicação), em relação aos quais o creditamento depende de previsão legal (doc. 17, pp. 8-9).
+
+    Nesse contexto, verifico que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência do Supremo Tribunal Federal firmada no julgamento do Recurso Extraordinário 704.815 RG/SC (Tema 633 da Repercussão Geral), Redator para o acórdão o Ministro Gilmar Mendes, DJe 12/12/2023, ocasião em que foi fixada a seguinte tese:
+
+    A imunidade a que se refere o art. 155, § 2º, X, 'a', CF/88 não alcança, nas operações de exportação, o aproveitamento de créditos de ICMS decorrentes de aquisições de bens destinados ao uso e consumo da empresa, que depende de lei complementar para sua efetivação.
+
+    Por oportuno, colaciono a ementa do citado processo paradigma:
+
+    TRIBUTÁRIO. ICMS. CRÉDITO. BENS DE USO E CONSUMO. MERCADORIAS DESTINADAS À EXPORTAÇÃO. EMENDA CONSTITUCIONAL N. 42/2003. MANUTENÇÃO DA SISTEMÁTICA DO CRÉDITO FÍSICO. TEMA 633 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. A EC 42/2003 manteve a fórmula do crédito físico para fins de apropriação do ICMS. Possibilidade de a legislação complementar ampliar as possibilidades de compensação e de creditamento do ICMS, de maneira a adotar o crédito misto ou o crédito financeiro integralmente. Tese de repercussão geral fixada no sentindo de que “A imunidade a que se refere o art. 155, § 2º, X, a, CF/88, não alcança, nas operações de exportação, o aproveitamento de créditos de ICMS decorrentes de aquisições de bens destinados ao uso e consumo da empresa, que depende de lei complementar para sua efetivação.” Recurso extraordinário provido (grifei).
+
+    Além disso, saliento que o Plenário do Supremo Tribunal Federal, ao julgar o Recurso Extraordinário 754.917 RG/RS (Tema 475 da Repercussão Geral), da relatoria do Ministro Dias Toffoli, DJe 6/10/2020, consolidou entendimento no sentido de que a imunidade tributária prevista no art. 155, § 2°, X, a, da Constituição Federal não alcança operações ou prestações no mercado interno anteriores à exportação. Confira-se, a propósito, a ementa do referido precedente:
+
+    Recurso extraordinário. Repercussão geral. Direito Tributário. Imunidade. Operações de exportação. Artigo 155, § 2º, X, a, CF. ICMS. Operações e prestações no mercado interno. Não abrangência. Possibilidade de cobrança do ICMS. Manutenção e aproveitamento dos créditos. 1. A Corte, sempre que se manifestou sobre as imunidades constitucionais, se ateve às finalidades constitucionais às quais estão vinculadas as mencionadas regras. Nas operações de exportação, é clara a orientação quanto à impossibilidade de, a pretexto de se extrair da regra imunitória o máximo de efetividade, se adotar uma interpretação ampliativa, de modo a se abarcarem fatos, situações ou objetos a priori não abrangidos pela expressão literal do enunciado normativo. 2. Ao estabelecer a imunidade das operações de exportação ao ICMS, o art. 155, § 2º, X, da Constituição se ocupa, a contrario sensu, das operações internas, pressupondo a incidência e estabelecendo o modo pelo qual o ônus tributário é compensado: mediante a manutenção e o aproveitamento dos créditos respectivos. 3. Caso houvesse imunidade para as operações internas, de modo que não fosse cobrado o ICMS em nenhuma das etapas anteriores à exportação, seria inútil e despropositada a regra de manutenção e aproveitamento de créditos. 4. Diante do exposto, nega-se provimento ao recurso extraordinário. 5. Tese do Tema nº 475 da Gestão por Temas da Repercussão Geral: “A imunidade a que se refere o art. 155, § 2º, X, a, da CF não alcança operações ou prestações anteriores à operação de exportação.” (grifei).
+
+    Assim, considerando que a imunidade do art. 155, § 2°, X, a, da Constituição da República não abrange operações ou prestações no mercado interno anteriores à exportação, verifico que o serviço de transporte interestadual de mercadorias destinadas ao exterior não está abrangido pela mencionada regra imunizante. Nessa linha, destaco julgados do Supremo Tribunal Federal, cujas ementas transcrevo a seguir:
+
+    AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. INCIDÊNCIA. SERVIÇOS DE TRANSPORTE DE MERCADORIAS PARA FINS DE EXPORTAÇÃO. TRANSAÇÕES ANTERIORES À EXPORTAÇÃO NÃO ABARCADAS PELA REGRA IMUNIZANTE. ART. 155, § 2º, X, “A”, DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA FIRMADA PELO SUPREMO. TEMA N. 475 DA REPERCUSSÃO GERAL. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. A imunidade a que se refere o art. 155, § 2º, X, “a”, da Constituição Federal não alcança transações internas, antecedentes à exportação. Tema n. 475/RG. 2. Garantido o aproveitamento do tributo cobrado nas operações anteriores à exportação, o serviço de transporte interestadual de produtos destinados ao exterior não está abrangido pela regra imunizante. 3. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites disciplinados no art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 4. Agravo interno desprovido (RE 1.458.360 AgR/SC, Rel. Min. Nunes Marques, DJe 4/4/2024 – grifei).
+
+    AGRAVO REGIMENTAL N O RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. TRANSPORTE INTERESTADUAL DE CARGAS DESTINADAS AO EXTERIOR. OPERAÇÃO ANTERIOR À EXPORTAÇÃO. TEMA RG N º 475. IMPOSSIBILIDADE DE EXTENSÃO DA IMUNIDADE. ISENÇÃO COM FUNDAMENTO SIMILAR. DESCABIMENTO. I. CASO EM EXAME Agravo regimental interposto contra decisão pela qual dado provimento ao recurso extraordinário com agravo interposto pelo ora agravado, por ter a Corte de origem contrariado o entendimento firmado no julgamento do Tema RG nº 475. II. QUESTÃO EM DISCUSSÃO 2. A agravante sustenta que o caso dos autos difere do tratado no julgamento do Tema RG nº 475, por não englobar operações de circulação interna de produção de mercadoria ao final comercializada para o exterior. Alega que tributar o transporte no território nacional equivale a tributar a própria operação de exportação, o que contraria o espírito da Constituição da República. Afirma que a operação de transporte realizada está acobertada pela imunidade contida no art. 155, inc. II, § 2º, inc. X, al. "a", da Constituição da República e pela isenção prevista no art. 3°, inc. II, da Lei Complementar nº 87, de 1996. III. RAZÕES DE DECIDIR 3. Conforme tese definida no julgamento do Tema RG 475, “a imunidade a que se refere o art. 155, § 2º, X, "a", da CF não alcança operações ou prestações anteriores à operação de exportação”. 4. O serviço de transporte interestadual de mercadorias destinadas à exportação não é abrangido pela regra imunizante prevista no art. 155, § 2º, inc. X, al. “a”, da Constituição da República. IV. DISPOSITIVO E TESE 5. Agravo regimental ao qual se nega provimento. __________ Atos normativos citados: Constituição da República, art. 155, § 2º, inc. X, al. “a”. Jurisprudência citada: RE nº 754.917/RS (2020), Rel. Min. Dias Toffoli; ARE nº 1.391.418-AgR-terceiro/RS (2024), Rel. Min. Nunes Marques; RE nº 340.855-AgR/MG (2002), Rel. Min. Ellen Gracie (ARE 1.231.940 AgR/RJ, Rel. Min. André Mendonça, DJe 23/9/2024 – grifei).
+
+    Por fim, observo que o Tribunal a quo, amparado no acervo probatório dos autos, concluiu que a recorrente não comprovou a origem dos créditos aproveitados, conforme se verifica no seguinte trecho do acórdão recorrido:
+
+    A presente ação anulatória busca a nulidade do Auto de Lançamento nº 0033605211, sob o argumento de que o creditamento realizado pela empresa, que atua no ramo de transporte de mercadorias destinadas ao exterior, observou todos os requisitos legais.
+
+    Conforme bem pontuado no voto divergente, a redação dada ao art. 155, §2º, X, alínea a, da CF a partir da Emenda Constitucional nº 42/03, não considera absoluto o princípio da não-cumulatividade, uma vez que condiciona sua aplicabilidade apenas aos bens que integram diretamente as operações de saída ou que se destinam a compor o ativo permanente da empresa.
+
+    In casu, a empresa foi autuada por se creditar indevidamente de ICMS incidente sobre produtos e mercadorias que não se agregaram às operações de saída (combustíveis e serviços de comunicação). Cabe asseverar que, o Fisco Estadual, antes de efetuar a autuação, levou a efeito diversas intimações à empresa, solicitando que comprovasse a origem dos créditos aproveitados, no entanto, a empresa não apresentou justificativa.
+
+    Ademais, a constituição do crédito tributário ora controvertido, observou todos os requisitos legais, uma vez que antes mesmo da autuação foi oportunizada a apresentação de defesa pela empresa autora, bem como o lançamento foi precedido do devido processo administrativo (fls. 546/571@ e 573/579@).
+
+    A empresa autora não se desincumbiu do ônus de demonstrar a origem dos créditos, tanto em sede administrativa como agora, em sede judicial e, portanto, não merecem guarida seus argumentos (doc. 17, p. 12).
+
+    Desse modo, para dissentir da conclusão adotada pelo Juízo de origem e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Incabível, portanto, o recurso extraordinário.
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC). Honorários advocatícios majorados em 1% (um por cento) sobre o total da verba fixada a esse título, observados os limites legais, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 6 de junho de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
