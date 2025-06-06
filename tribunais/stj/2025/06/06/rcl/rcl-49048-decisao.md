@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de reclamação ajuizada por EDUARDO EIJI BLASBERG NAKAHARA com base nos arts. 105, I, f, da Constituição Federal e 988 e seguintes do Código de Processo Civil, contra decisão da 1ª Turma Recursal Permanente dos Juizados Especiais do Estado do Pará.
+O reclamante ajuizou uma ação de obrigação de fazer cumulada com indenização por danos morais e materiais devido ao inadimplemento contratual da empresa L. Silva Negócios Imobiliários Ltda., que não entregou os lotes com infraestrutura básica conforme prometido.
+Embora a sentença tenha sido favorável ao reclamante, a 1ª Turma Recursal reformou tal decisão, julgando a ação improcedente, em ofensa à jurisprudência pacífica do STJ.
+Sustenta o reclamante que o acórdão da 1ª Turma Recursal diverge da jurisprudência consolidada do STJ quanto à eficácia vinculante da publicidade nas relações de consumo e à responsabilidade objetiva do fornecedor pelo inadimplemento contratual, bem como que afrontou os direitos do consumidor assegurados nos arts. 6º, III e VIII, e 30 do CDC.
+Afirma que o princípio da boa-fé objetiva exige que as partes observem condutas pautadas pela lealdade e confiança recíproca e que a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a publicidade suficientemente precisa integra o contrato e gera obrigações para o fornecedor (REsp n. 1.113.804/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/4/2010, DJe de 24/6/2010), contra o qual divergiu a Turma Recursal em questão.
+Destaca que a responsabilidade do loteador pela entrega das obras de infraestrutura está prevista na Lei n. 6.766/1979, não observada pela Turma recursal.
+Aduz que a Turma Recursal presumiu a validade do contrato particular de compra e venda de lotes, sem exigir prova da regularidade fundiária ou do registro do loteamento, em clara afronta à tese firmada no Tema n. 971.
+Requer o recebimento e processamento da presente reclamação, a concessão de medida liminar para suspender os efeitos do acórdão proferido pela 1ª Turma Recursal do TJPA e, ao final, a procedência da presente reclamação com a consequente cassação do acórdão reclamado, determinando-se novo julgamento do recurso inominado para que se observe a jurisprudência consolidada do STJ.
+É o relatório. Decido.
+O processamento da reclamação pressupõe a existência de um comando positivo do STJ cuja eficácia deva ser assegurada, protegida e conservada (Rcl n. 2.784/SP, de minha relatoria, Segunda Seção, julgado em 13/5/2009, DJe de 22/5/2009).
+Assim, nos termos dos arts. 105, I, f, da Constituição Federal, 988, II, do CPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou quando as decisões do STJ não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação deve ser rejeitada, já que inexiste tal comando no caso presente.
+Não fosse por tal motivo, verifica-se que a Resolução STJ n. 12 de 14 de dezembro de 2009, que disciplinava o instituto da reclamação - instrumento processual vocacionado para dirimir divergência entre acórdão prolatado por turma recursal estadual e a orientação jurisprudencial consolidada por Corte - , foi tacitamente revogada pela Resolução n. 3 de 7 de abril de 2016, a qual, disciplinando a mesma matéria, atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para a execução de tal mister.
+Assim, inexiste na espécie, hipótese legal de cabimento da presente reclamação, sendo de rigor seu indeferimento liminar.
+Ante o exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
