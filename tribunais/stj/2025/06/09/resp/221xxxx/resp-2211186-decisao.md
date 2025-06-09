@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DE RORAIMA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA (fls. 543-547), assim ementado:
+APELAÇÃO CÍVEL -AÇÃO ANULATÓRIA DE DÉBITO FISCAL - RECONHECIMENTO, PELO JUÍZO DE ORIGEM, DA PRESCRIÇÃO PARA O AJUIZAMENTO DA DEMANDA - DÉBITO FISCAL NULO - AÇÃO IMPRESCRITÍVEL - PRECEDENTES STJ- SENTENÇA CASSADA - RECURSO PROVIDO.
+A parte recorrente interpôs o presente recurso especial, admitido na origem com fundamento no art.105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado o art. 1º do Decreto n. 20.910/1932.
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre destacar que o Superior Tribunal de Justiça não está subordinado ao juízo prévio de admissibilidade proferido pelo Tribunal de origem, haja vista a verificação dos pressupostos do recurso estar sujeita a duplo controle.
+Com efeito, o argumento de que a jurisprudência entenderia que o ato administrativo nulo seria imprescritível, motivo pelo qual não seria aplicável , no caso concreto, a disposição do art. 1º do Decreto n. 20.910/1932, não foi impugnado pela parte recorrente, nas razões do recurso especial.
+É pacífica a jurisprudência desta Corte no sentido de que a Súmula n. 283/STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, ao recurso especial e ao recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido. Nesse sentido: AgInt no RMS 49.015/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/11/2021, DJe 17/12/2021; e AgInt no RMS n. 68.676/AC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2023, DJe de 17/11/2023.
+A ausência de impugnação específica, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, os óbices das Súmulas n. 283 e n. 284/STF.
+A recorrente não impugnou o fundamento utilizado pelo Tribunal de origem que é suficiente à manutenção do acórdão, razão pela qual deve ser mantido o acórdão recorrido. Aplica- se, no presente caso, a Súmula n. 283/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULAS 283 E 284 DO STF, POR ANALOGIA.  ..
+1. Na origem, o Tribunal a quo reformou a sentença que concedeu a segurança, concluindo, em síntese, que a situação do impetrante não se enquadra na hipótese prevista no art. 12, § 4º, II, b, da Constituição Federal, já que consistiu em opção voluntária pela nova nacionalidade.
+2. Quanto à alegada violação ao princípio da não surpresa, a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice das Súmulas 283 e 284 do STF.
+ ..  4. Agravo interno não provido (AgInt no AREsp n. 2.236.440/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 14/3/2024, DJe de 21/3/2024, grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. ISS. SOCIEDADES UNIPROFISSIONAIS. TRIBUTAÇÃO FIXA. CONFIGURADA ATIVIDADE EMPRESARIAL. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. LIMITE DA ANÁLISE PROBATÓRIA EM MANDADO DE SEGURANÇA. SÚMULAS 283 E 284/STF.
+ ..  5. A irresignação não merece prosperar, porquanto a recorrente, nas razões de seu apelo, não combate os fundamentos do acórdão conforme acima destacado. O não preenchimento dos requisitos constitucionais exigidos para a interposição do Recurso dirigido ao STJ caracteriza deficiência na fundamentação. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+6. Agravo Interno não provido (AgInt no AREsp n. 2.362.890/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/10/2023, DJe de 18/12/2023, grifo nosso).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. MILITAR. LICENÇA. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO.  ..  FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS N. 283 E 284, AMBAS DO STF. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF.
+ ..  IX - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+ .. XII - Agravo interno improvido (AgInt no AREsp n. 2.319.994/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023, grifo nosso).
+Isso posto, com fundamento no art. 932, III, do CPC e art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
