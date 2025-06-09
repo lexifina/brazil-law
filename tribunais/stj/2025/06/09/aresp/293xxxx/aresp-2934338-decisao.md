@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, "a", da Constituição da República, em oposição ao acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"AGRAVO EM EXECUÇÃO - PROGRESSÃO DE REGIME - EXIGÊNCIA DE EXAME CRIMINOLÓGICO - ALTERAÇÃO LEGISLATIVA - PRINCÍPIO DE APLICAÇÃO DA NORMA VIGENTE AO TEMPO DA PRÁTICA DO ATO - IRRETROATIVIDADE DA LEI EM PREJUÍZO AO CONDENADO - EXECUÇÃO PENAL INICIADA ANTES DA VIGÊNCIA DA LEI N. 14.843/2024 - NEGADO PROVIMENTO AO RECURSO
+- 1. A Lei n.º 14.843/2024 promoveu alteração na redação do artigo 112, § 2º, da Lei de Execução Penal (LEP), é novatio legis in pejus e, portanto, não pode retroagir para prejudicar o apenado que praticou o delito antes do dia 11.04.2024.
+- 2. Aplicação da Lei vigente à época do início da execução penal por ser esta mais benéfica ao réu.
+- 3. Inexigibilidade do exame criminológico para a autorização da progressão de regime." (e-STJ, fl. 49).
+Nas razões do recurso especial, o recorrente aponta violação do art. 112, caput e §1º, da LEP, c/c o art. 2º, do CPP.
+Sustenta que a redação dada pela Lei n. 14.843/2024 ao art. 112, § 1º, da LEP - que impôs a realização do exame criminológico como condição para a progressão de regime - constitui norma de natureza processual, pois tem aplicação no bojo de um processo de execução.
+Argumenta que "alterações promovidas pela Lei n.º 14.843/2024, além de não cuidarem do crime ou das penas, versam sobre o processo de execução penal e a forma pela qual a pena virá a ser executada, com vistas a promover a escorreita harmonização dos direitos fundamentais em aparente colisão, privilegiando o princípio da segurança pública, diante da percepção de que os benefícios agora restritos causavam uma enorme sensação de impunidade, bem como o princípio da vedação à proteção deficiente, promovendo o equilíbrio do mencionado tripé entre retribuição, prevenção e ressocialização."(e-STJ, fl. 73).
+Requer, ao final, o provimento do recurso para submeter o sentenciado ao exame criminológico, para fins de aferição do requisito subjetivo para a progressão de regime.
+Houve a apresentação de contrarrazões ao recurso especial, o qual, em seguida, foi inadmitido na origem, pela incidência da Súmula n. 83/STJ.
+Daí a interposição do presente agravo em recurso especial, assim como a apresentação da respectiva contraminuta.
+Em seguida, os  autos foram encaminhados  a  este  Superior  Tribunal  de  Justiça e o Ministério Público Federal, instado a se manifestar, opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão agravada, razão pela qual deve ser conhecido.
+Passo, portanto, ao exame do recurso especial.
+Consta dos autos que foi concedida ao reeducando a progressão ao regime semiaberto, sem a realização prévia do exame criminológico, e o Ministério Público Estadual ingressou com agravo em execução, requerendo a aplicação da Lei n. 14.843/2024 quanto à exigência da perícia. O recurso foi desprovido.
+Inicialmente, quanto à exigência do exame criminológico com base na alteração trazida pela Lei n. 14.843/2024 no art. 112, § 1º, da LEP, esta Corte Superior adota posicionamento em consonância com o do Supremo Tribunal Federal (HC n. 240.770/MG, julgado em 28/5/2024 e publicado em 29/5/2024), no sentido de que a retroatividade da nova norma, ante o art. 5º, XL, da CR/1988, demonstra ser inconstitucional, e, de acordo com o art. 2º do CP, ilegal.
+Dessa forma, " a  exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade." (RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.).
+Trago, ainda, as seguintes ementas de julgados recentes da Quinta e da Sexta Turma do STJ:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. NOVA EXIGÊNCIA PELA LEI N. 14.843/2024. NORMA DE NATUREZA PENAL. NOVATIO LEGIS IN PEJUS. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A obrigatoriedade do exame criminológico, como novo requisito para todas as concessões de progressão de regime prisional, representa típico caso de novatio legis in pejus, uma vez que adiciona um requisito à concessão do benefício.
+2. A nova redação conferida ao § 1º do art. 112 da LEP constitui implemento de norma de natureza penal, e não processual, de modo que a sua aplicação retroativa se mostra inconstitucional, haja vista o art. 5º, XL, da Constituição Federal, bem como, ilegal, nos termos do art. 2º do Código Penal.
+3. Entendimento consignado pela Sexta Turma, no sentido da impossibilidade de aplicação da referida alteração aos casos anteriores.
+4. Na espécie, tem-se que o caso do agravado, por ser anterior ao advento da Lei n. 14.843/2024, não está sob sua incidência.
+5. Agravo regimental não provido." (AgRg no HC n. 888.628/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), exta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS . EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 43 9/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido." (AgRg no HC n. 929.034/SP, de minha relatoria, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Desse modo, não merece reparos o acórdão estadual que entendeu pela não retroatividade da alteração trazida pela Lei n. 14.843/2024 no art. 112, § 1º, da LEP, porquanto se encontra alinhado com o posicionamento deste Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
