@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA, DE TEMA REPETITIVO OU ATO NORMATIVA DIVERSO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. AUMENTO DE SINISTRALIDADE NÃO DEMONSTRADO. ABUSIVIDADE CONFIGURADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação revisional de cláusula contratual c/c repetição de indébito.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reajuste por aumento de sinistralidade só pode ser aplicado pela operadora, de forma complementar ao reajuste por variação de custo, se e quando demonstrado, a partir de extrato pormenorizado, o incremento na proporção entre as despesas assistenciais e as receitas diretas do plano, apuradas no período de doze meses consecutivos, anteriores à data-base de aniversário considerada como mês de assinatura do contrato.
+6. Se a operadora, em juízo, é instada a apresentar o extrato pormenorizado que demonstra o aumento da sinistralidade - o mesmo, aliás, que deveria ter sido apresentado à estipulante - e permanece inerte, conclui-se que é indevido o reajuste exigido, por ausência do seu fato gerador, impondo-se, pois, o seu afastamento; do contrário, estar-se-ia autorizando o reajuste sem causa correspondente, a ensejar o enriquecimento ilícito da operadora.
+7. Alterar o decidido no acórdão impugnado, no que se refere ao entendimento de ausência de demonstração numérica da majoração da sinistralidade e dos custos médicos no período base que justificassem o reajuste das mensalidades pagas pelos segurados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+8. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nessa extensão, negou provimento.
+Ação: revisional de cláusula contratual c/c repetição de indébito, ajuizada por STELLA MARIS TEMPERANI SAEZ, em face da agravante, na qual se insurge contra percentual de reajuste por sinistralidade aplicado em seu contrato de plano de saúde, por reputá-lo abusivo (e-STJ, fls. 01/21).
+Sentença: julgou procedente o pedido, para limitar o reajuste ao percentual fixado pela ANS e condenar a agravante na restituição dos valores pagos (e-STJ, fls. 262/266).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO - Ação Cominatória c/c Reparação de Danos Materiais - Plano de Saúde - Alegação de abusividade dos reajustes anuais por variação de custos médicos, promovidos pela ré - Sentença de parcial procedência - Inconformismo da ré alegando que inexiste qualquer ilegalidade nos reajustes, pois além da expressa previsão no contrato celebrado entre as partes, eles são necessários para manter o equilíbrio contratual - Descabimento - Caso em que a ré não se desincumbiu do ônus de comprovar que a variação de custos médicos ou dos índices de sinistralidade tenham se avolumado, ou existência de outro fato novo que desse ensejo ao reajuste no patamar aplicado - Recurso desprovido. (e-STJ, fl. 421)
+Embargos de declaração: opostos pela agravante, foram rejeitados (e-STJ, fls. 466/474).
+Embargos de declaração: opostos pela agravante, foram rejeitados (e-STJ, fls. 630/636).
+Recurso especial: alega violação do Tema 1.016/STJ dos arts. 927, III, 1022 e 1.039, todos do CPC; 421 e 421-A, ambos do CC/02. Além da negativa de prestação jurisdicional, sustenta:
+i) o acórdão atacado vinculou os novos índices de reajuste ao índice da ANS para contratos individuais e familiares, o que representa uma intervenção desproporcional do Poder Público no contrato firmado entre as partes, violando o princípio da liberdade contratual; e
+ii) a ausência de respeito os precedentes do STJ, especialmente o Tema 1016, que pacificou o entendimento sobre reajustes de sinistralidade em contratos coletivos. Alega que deveria ser apurado um novo percentual por perícia atuarial na fase de liquidação de sentença, conforme entendimento consolidado no STJ.
+Decisão unipessoal: conheceu parcialmente do recurso especial interposto pela agravante e, nessa extensão, negou-lhe provimento, com fundamento no art. 932, III, IV, "a", do CPC, bem como na Súmula 568/STJ (e-STJ, fls. 663/670).
+Agravo interno: alega, em síntese:
+i) a existência de negativa de prestação jurisdicional em relação à alegação de necessidade de apuração em liquidação de sentença de percentual adequado a título de reajuste anual/sinistralidade ante a impossibilidade de limitação do percentual ao índice utilizado pela ANS;
+ii) a ausência de alegação de violação a tema repetitivo;
+iii) o devido prequestionamentos da matérias elencadas nas razões do recurso especial;
+iv) a não incidência da Súmula 568/STJ, no que concerne ao tema reajuste por sinistralidade, pois "(..) tratando-se de reajuste de planos coletivos, a teor da legislação apontada e entendimento desta Corte Superior, deve ser determinada apuração de percentual adequado em cumprimento de sentença para não causar desequilíbrio contratual, diante ad (sic) impossibilidade de utilização do percentual fixado pela ANS para planos individuais e familiares." (e-STJ, fls. 683/684); e
+v) a não incidência da Súmula 7/STJ, na situação dos autos, tendo em vista que "(..) o que se vê é que quando se trata de reajuste de planos coletivos não há necessidade de prévia aprovação da ANS, sendo totalmente cabível reajuste baseado na sinistralidade. Desta forma, data venia, percebe-se claramente que o índice de reajuste determinado pela Agência Nacional de Saúde Suplementar - ANS é valido somente para os contratos individuais assinados após a vigência da Lei 9656/98." (e-STJ, fls. 685/686).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA, DE TEMA REPETITIVO OU ATO NORMATIVA DIVERSO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. AUMENTO DE SINISTRALIDADE NÃO DEMONSTRADO. ABUSIVIDADE CONFIGURADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação revisional de cláusula contratual c/c repetição de indébito.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reajuste por aumento de sinistralidade só pode ser aplicado pela operadora, de forma complementar ao reajuste por variação de custo, se e quando demonstrado, a partir de extrato pormenorizado, o incremento na proporção entre as despesas assistenciais e as receitas diretas do plano, apuradas no período de doze meses consecutivos, anteriores à data-base de aniversário considerada como mês de assinatura do contrato.
+6. Se a operadora, em juízo, é instada a apresentar o extrato pormenorizado que demonstra o aumento da sinistralidade - o mesmo, aliás, que deveria ter sido apresentado à estipulante - e permanece inerte, conclui-se que é indevido o reajuste exigido, por ausência do seu fato gerador, impondo-se, pois, o seu afastamento; do contrário, estar-se-ia autorizando o reajuste sem causa correspondente, a ensejar o enriquecimento ilícito da operadora.
+7. Alterar o decidido no acórdão impugnado, no que se refere ao entendimento de ausência de demonstração numérica da majoração da sinistralidade e dos custos médicos no período base que justificassem o reajuste das mensalidades pagas pelos segurados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+8. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu parcialmente do recurso especial interposto pela agravante e, nessa extensão, negou-lhe provimento, em razão da:
+i) não demonstração de violação do art. 1.022 do CPC;
+ii) não cabimento de recurso especial com fundamento em alegação de violação de qualquer ato normativo que não se enquadre no conceito de lei federal (tema repetitivo);
+iii) ausência de prequestionamento (Súmula 211/STJ);
+iv) incidência da Súmula 568/STJ, reajuste por sinistralidade; e
+v) incidência da Súmula 7/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da violação do art. 1.022 do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição, obscuridade ou erro material. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à legalidade, em tese, do reajuste por sinistralidade, e a abusividade do percentual aplicado, bem como sobre aplicação dos índices estipulados pela ANS na hipótese, sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+Por fim, observa-se que a parte agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC.
+2. Da violação de dispositivo constitucional, de súmula/tema repetitivo ou de resoluções normativas
+De acordo com a legislação vigente, a interposição de recurso especial só é cabível quando a decisão recorrida se baseia em violação de lei federal.
+Assim, não é possível a interposição de recurso especial quando a decisão se fundamenta em violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal.
+Portanto, o presente apelo não pode ser conhecido relativamente à apontada ofensa ao Tema repetitivo 1.016 (e-STJ, fl. 544).
+3. Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 927, III, e 1.039, ambos do CPC, 421 e 421-A, ambos do CC/02, apesar da oposição de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 211 do STJ.
+4. Da súmula 568/STJ
+Nas razões do agravo interno, a parte agravante defende a não incidência da Súmula 568/STJ, no que concerne ao tema reajuste por sinistralidade, pois "(..) tratando-se de reajuste de planos coletivos, a teor da legislação apontada e entendimento desta Corte Superior, deve ser determinada apuração de percentual adequado em cumprimento de sentença para não causar desequilíbrio contratual, diante ad (sic) impossibilidade de utilização do percentual fixado pela ANS para planos individuais e familiares." (e-STJ, fls. 683/684)
+No entanto, a decisão agravada consignou que a Terceira Turma, recentemente, conclui que, em plano de saúde coletivo, o reajuste por aumento de sinistralidade só poderia ser aplicado pela operadora, de forma complementar ao reajuste por variação de custo, se e quando demonstrado o efetivo incremento da sinistralidade (REsp 2.108.270/SP, julgado em 23/04/2024, DJe de 26/04/2024; REsp 2.065.976/SP, julgado em 23/04/2024, DJe de 26/04/2024).
+A decisão agravada, por seu turno, colacionou trecho do acórdão prolatado pela Corte de origem que frisou de forma expressa que "(..) independente da natureza dos reajustes do prêmio, se por variação dos índices de sinistralidade ou de custos médico-hospitalares, o fato concreto e irretorquível é que não restou demonstrada a necessidade de majoração nos percentuais aplicados pela ré." (e-STJ, fl. 423).
+Ademais, a fim de evitar a reformatio in pejus, encontra-se adequada a fundamentação da decisão agravada, a qual dispôs que deve ser mantido, quanto a este ponto, o acórdão prolatada pela Corte de origem, em que se fixou como parâmetro para o reajuste anual do plano de saúde do recorrido, à míngua da prova do aumento de sinistralidade, o índice estabelecido pela ANS para o reajuste anual dos planos de saúde individuais e familiares.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+5. Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca do entendimento de ausência de demonstração numérica da majoração da sinistralidade no período base que justificassem o reajuste das mensalidades pagas pelos segurados, não demandaria o reexame de fatos e provas.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
