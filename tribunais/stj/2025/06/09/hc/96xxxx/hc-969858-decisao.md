@@ -1,0 +1,128 @@
+DECISÃO
+CLEITON DOS SANTOS e KELLY RODRIGUES GOULART alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5007464-12.2022.8.24.0022.
+Consta dos autos que os pacientes foram condenados à pena de 8 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+A defesa sustenta a ilicitude da interceptação telefônica deferida com base apenas em denúncias anônimas. Por isso, requer a declaração de nulidade e a consequente absolvição dos pacientes.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 638-640).
+Decido.
+No caso dos autos, o Tribunal a quo entendeu preenchidos os requisitos para o deferimento da interceptação telefônica e afastou a preliminar de nulidade pelos seguintes fundamentos (fls. 21-50, grifei):
+Em síntese, sustentou o apelante a reforma da sentença, a fim de que seja reconhecida a preclusão pro judicato, no tocante à possibilidade de decretação da nulidade reconhecida na sentença (interceptações telefônicas decreta s exclusivamente com base em denúncias anônimas), e por ter sido devidamente fundamentada a decisão que decretou a interceptação telefônica, isto é, inexistente qualquer mácula processual.
+A tese merece guarida, no tocante ao segundo fundamento.
+De início, relevante colacionar os fundamentos elencados na sentença ora impugnada, especificamente no tocante à nulidade reconhecida (doc. 111, da ação penal):
+Da preliminar de nulidade em razão da interceptação telefônica baseada apenas em denúncias anônimas:
+A defesa do acusado postula pela reconhecimento da nulidade das provas obtidas a partir das medidas constritivas decretadas nos autos de n. 5002991-80.2022.8.24.0022, bem como de todas as provas delas derivadas. Refere que antes do monitoramento realizado pelos policiais, havia tão somente denúncias anônimas de traficância, sendo que, tão logo em conhecimento dessas denúncias não identificadas, houve imediatamente a realização do monitoramento pelos agentes policiais, o qual utilizado expressamente como fundamento ao deferimento da interceptação telefônica (evento 10, autos nº 5002991- 80.2022.8.24.0022).
+Compulsando os autos, entendo que não há prova lícita no que se refere à materialidade e autoria dos delitos em apreço.
+Da análise do relatório de investigação policial nº 0006/2019 (Inquérito 4 - Evento 1 - Autos nº 5007399-17.2022.8.24.0022), extrai-se que durante o monitoramento da rotina dos réus  K.  e  C. , os policiais perceberam suspeita movimentação dos acusados, constantando que estes realizavam a venda e entrega de droga a domicílio através de seu veículo.
+Nos monitoramentos realizados nos dias 14/03/2022 e 17/03/2022 (Autos nº 5007399-17.2022.8.24.0022) os policiais verificaram que os acusados passaram a tarde em casa e só saíram para buscar sua filha na escola. Já no monitoramento realizado no dia 23/03/2022, constataram um movimento suspeito por parte dos réus durante o dia.
+Em determinado momento da tarde, vislumbraram que  C.  colocou um objeto no bolso de sua calça, saiu de sua casa com sua companheira  K. , e juntos foram ao encontro de um terceiro, com quem  C.  ficou conversando. Ao longo do dia, após novas movimentações dos acusados, os quais constantemente entravam e saíam de sua casa, os policiais viram o réu colocando "um objeto em uma caixa pequena", constatando, posteriormente que o acusado havia novamente ido ao encontro do mesmo sujeito que havia conversado anteriormente.
+Em que pese a informação de que nesse dia os acusados possivelmente teriam realizado duas vendas de drogas, fato é que não houve o registro da suposta comercialização dos entorpecentes, sendo constado pelos policiais, apenas, que  C.  e  K.  estavam sempre ao telefone e ficavam circulando pela cidade.
+Ato contínuo, no decorrer do mesmo dia, ainda durante o monitoramento feito em 23/03/2022, a investigação apontou ter logrado êxito em identificar três vendas de drogas que teriam sido feitas pelos réus. De acordo com as informações,  C.  foi até um mercado da Cidade, lá estacionou seu veículo e realizou três vendas, sendo que todas ocorriam do mesmo modo: os clientes se apoximavam, entregavam certo objeto à  C.  e este entregava outro objeto para os consumidores.
+Ocorre que, embora conste nos autos as imagens de segurança do estabelecimento, que identificam o veículo de  C.  e os terceiros que chegam até o réu, não há qualquer identificação dos supostos usuários, tampouco alguma indicativo no sentido de que os objetos entregues seriam substâncias ilícitas.
+Do relatório, não vislumbro nenhum indício em idôneo para fundamentar a quebra de sigilo telefônico do acusado. Isso porque os monitoramentos realizados, oriundos de denúncia anônima, não identificaram de froma concreta a venda dos entorpecentes, sendo que todos os relatos apontados pelos policiam são no sentido de que  C.  era visto entregando "objetos" para terceiros não identificados, sendo que em nenhum momento a investigação dá conta de que tais objetos tratavam-se de substâncias ilícitas.
+Na realidade, ao justificar o pleito de interceptação telefônica, a autoridade policial argumentou no sentido de que os acusados realizavam a entrega de drogas em seu veículo, indo ao encontro dos supostos clientes, e que circulavam muito pela cidade.
+Não se desconhece das diligências empregadas pelos policiais no sentido de comprovar o tráfico de drogas eventualmente exercido pelos acusados. Todavia, durante a investigação, não houve a identificação ou abordagem de nenhum dos supostos usuários, bem como nenhuma droga foi apreendida ou mesmo vista pelos policiais.
+Nesse contexto, destaco não desconhecer a possibilidade de os policiais, provocados por denúncias anônimas, adotarem medidas informais destinadas a apurar, previamente, em averiguação sumária, a possível ocorrência de eventual situação de ilicitude penal. Porém, no caso dos autos, o órgão investigatório postulou pela interceptação telefônica sem nenhum elemento de convicção que apontasse para a ocorrência de ilícito penal, baseando-se apenas em juízo de valor prévio.
+Sobre a matéria, a Lei nº 9.296/96 (Lei de Interceptação Telefônica) estabelece, em seu art. 2º, não ser "admitida a interceptação de comunicações telefônicas quando ocorrer qualquer das seguintes hipóteses: (..) II - a prova puder ser feita por outros meios disponíveis". Logo, a interceptação telefônica deverá ser considerada a ultima ratio, ou seja, trata-se de prova subsidiária. Porém, no presente caso, a quebra de sigilo foi deferida única e exclusivamente com base em denúncias anônimas, o que é expressamente vedado pela jurisprudência dos Tribunais Superiores.  .. .
+À vista disso, a despeito da perspectiva adotada na origem, tem-se que a premissa que fundou o raciocínio do magistrado se revela equivocada, uma vez que a decisão que autorizou as interceptações telefônicas não fora fundada exclusivamente em denúncia anônima, a tornar incogitável a nulidade processual elencada.
+Nesse aspecto, anota-se que embora não seja plausível a tese ministerial relativa à preclusão pro judicato, notadamente porque a ilicitude das provas não seria passível de preclusão, razão lhe assiste no tocante ao argumento de que a decisão que autorizou as interceptações telefônicas fora devidamente fundamentada, o que basta a afastar a nulidade decretada na origem.
+De forma a ilustrar a situação que legitimou a autorização judicial naquele momento processual, observa-se que o pedido formulado, de fato, originou-se de denúncia anônima formalizada (doc. 3, pgs. 2-3 do IP n. 5002991-80.2022.8.24.0022):
+DENUNCIA DE TRÁFICO DE DROGAS (COCAINA).
+11/03/2022.  15:41, 11/03/2022  Denunciante: Quero fazer uma denúncia
+ 15:41, 11/03/2022  Denunciante: De tráfico de cocaína
+ 15:47, 11/03/2022  Denunciante: N aguento
+ 15:47, 11/03/2022  Denunciante: Mais ver meu filho
+ 15:47, 11/03/2022  Denunciante: Se acabar
+ 15:47, 11/03/2022  Denunciante: Consegui
+ 15:48, 11/03/2022  Denunciante: Tirar do celular dele
+ 15:48, 11/03/2022  Denunciante: Os números
+ 15:48, 11/03/2022  Denunciante: Se o senhor
+ 15:48, 11/03/2022  Denunciante: Poder ajudar
+ 15:48, 11/03/2022  Denunciante: Agradeço
+ 15:48, 11/03/2022  Policial Civil: Boa tarde! estamos aqui para ajudar!
+ 15:49, 11/03/2022  Denunciante: Eles moram aqui perto do super mercado são luiz
+ 15:49, 11/03/2022  Denunciante: Corsa verde 4 portás
+ 15:49, 11/03/2022  Denunciante: Eles levam o filho no marechal a tarde
+ 15:49, 11/03/2022  Policial Civil: Necessitamos de Nomes, apelidos, local do trafico, telefones usados,
+identificar veículos dos traficantes seria bom!
+ 15:50, 11/03/2022  Denunciante: Vou pasar o número
+ 15:50, 11/03/2022  Denunciante: Que conseguiu
+ 15:50, 11/03/2022  Denunciante: Deles do celular do meu filhio
+ 15:50, 11/03/2022  Denunciante: Kelim
+ 15:50, 11/03/2022  Denunciante: Claudio
+ 15:50, 11/03/2022  Denunciante: É a mulher
+ 15:50, 11/03/2022  Denunciante: É ele
+ 15:51, 11/03/2022  Policial Civil: os dois vendem
+ 15:51, 11/03/2022  Policial Civil: entregam só na casa ou saem para entregar a droga
+ 15:51, 11/03/2022  Denunciante: Eu peguei mensagens no celular do meu filhio pedindo a droga
+ 15:51, 11/03/2022  Denunciante: É vi eles entregando
+ 15:52, 11/03/2022  Denunciante: Briguei cm meu filhio
+ 15:52, 11/03/2022  Denunciante: É consegui ver
+ 15:53, 11/03/2022  Denunciante: Ele fala 150 e até na grama
+ 15:53, 11/03/2022  Denunciante: N entendo bem
+ 15:54, 11/03/2022  Policial Civil: qual a rua que eles moram
+ 15:54, 11/03/2022  Denunciante: N sei  15:54, 11/03/2022 Policial Civil: Eles tem quantos filhos
+ 15:54, 11/03/2022  Denunciante: Só reconheci
+ 15:54, 11/03/2022  Denunciante: Porque tenho 2 pequenos
+ 15:54, 11/03/2022  Denunciante: Que levo no marechal
+ 15:54, 11/03/2022  Denunciante: É vejo eles leva a filhia
+ 15:55, 11/03/2022  Policial Civil: eles moram perto de sua casa
+ 15:55, 11/03/2022  Denunciante: N sei
+ 15:55, 11/03/2022  Denunciante: Acho que perto do mercado são luiz
+ 16:10, 11/03/2022  Denunciante: Me desculpe ele é só um viciado
+ 16:10, 11/03/2022  Denunciante: Que tentei ajuda
+ 16:10, 11/03/2022  Denunciante: Com médico
+ 16:10, 11/03/2022  Denunciante: Ele só tem 17
+ 16:10, 11/03/2022  Denunciante: Estou vendo meu filhio morrendo aos poucos
+ 16:11, 11/03/2022  Policial Civil: Vamos fazer o possível para localizar e identificar o local onde estão
+efetuando o tráfico de drogas.
+ 16:11, 11/03/2022  Policial Civil: Muito obrigado!
+ 16:12, 11/03/2022  Denunciante: Obrigado vcs Deus abençoe
+ ..
+Não obstante, após o recebimento da notícia apócrifa, os policiais civis, de forma preliminar, passaram a monitorar a residência dos réus, a fim de confirmar a possível traficância perpetrada por C. dos S. e K. R. G., o que resultou a obtenção de outros elementos informativos, constantes do relatório de investigação criminal, inclusive com captura de imagens (doc. 3, pgs. 5-19 do IP n. 5002991-80.2022.8.24.0022) (sic)
+Em razão do suposto modus operandi adotado pelos réus, isto é, traficância velada e cautelosa, por meio de entregas a usuários, os agentes públicos concluíram que seria necessária a interceptação telefônica dos números de celular utilizados por C. dos S. e K. R. G., a fim de reunir elementos mais concretos, a propósito (doc. 3, pg. 22 do IP n. 5002991-80.2022.8.24.0022):
+Nesta primeira etapa de investigação buscamos entender de que forma agem os denunciados na venda de entorpecentes, começamos monitorá-los no dia 14 de março de 2022 até apresente data e constatamos que a venda não é feita em casa, os envolvidos esperam o contato dos usuários e marcam um local para entregar, ou simplesmente ficam em local público, para não levantar suspeitas e fazem a venda no mesmo local, de forma bem discreta.
+Durante este primeiro período, não obtivemos sucesso com o tipo de investigação habitual no caso de tráfico de drogas, visto que as denúncias dão conta que  C. do S.  de alcunha " B. ", e  K. R. G. , agem de maneira extremamente cautelosa se utilizando de seu veículo particular, placas MBB-1979, para a venda de drogas e nunca recebem usuários em sua residência, prejudicando as investigações.
+Neste caso, constatamos que só existe uma maneira eficaz de monitoramento capaz de conseguir reunir elementos que auxiliem na investigação policial, sendo ela a interceptação telefônica dos números de telefone celular utilizado por  C.  e  K. , os quais foram repassados pela denunciante e que devido aos fortes indícios de possível autoria e materialidade, podemos conseguir mais provas em relação aos fatos  ..
+À luz de tal cenário investigativo incipiente, porém dada a existência de indícios razoáveis da possível traficância por parte dos réus C. dos S. e K. R. G., o Juízo da Vara Criminal da Comarca de C. em S. C., de forma fundamentada, deferiu a interceptação telefônica, senão vejamos (transcrição parcial da decisão de doc. 8 dos autos n. 5002991-80.2022.8.24.0022):
+ ..
+1. Do pedido de interceptação telefônica
+As comunicações correspondem ao conteúdo de diálogos entre interlocutores, sob os formatos de texto, áudio, vídeo ou imagem, veiculados pelos interlocutores em ambiente presencial, via correspondência ou através de contatos telefônico e telemático (também chamado de informático ou digital), que podem ser objeto de gravação (armazenamento efetuado por um dos participantes da conversa) ou interceptação (obtenção por um terceiro sem prévio conhecimento dos interlocutores).
+A gravação das comunicações pode ser efetuada por um dos sujeitos envolvidos independentemente de prévia autorização judicial, pois isto reflete o exercício do direito de defesa e de acautelamento. Neste sentido, o Supremo Tribunal Federal fixou o tema 237 de sua jurisprudência, em sede de repercussão geral, no sentido de que "é lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem conhecimento do outro".
+De outro lado, a interceptação das comunicações, de forma sigilosa e não previamente consentida, somente é admissível quando convergentes os requisitos consistentes em existência de processo de investigação criminal, infração penal punível com reclusão, indícios razoáveis de autoria, autorização judicial por prazo determinado (de até 15 dias, renovável por igual período) e imprescindibilidade do meio de prova, conforme arts. 5º, XII, da CRFB e 1º, 2º e 3º da Lei 9.296/1996.
+Aplicando tal entendimento ao caso concreto, verifico que se trata de pedido de interceptação em que todos os pressupostos normativos se encontram satisfeitos, haja vista que a ruptura do sigilo telefônico é providência imprescindível para investigação de possível crime de tráfico de drogas, punível com reclusão.
+Conforme se extrai da representação formulada pela Autoridade Policial, assim como do Relatório de Investigação Policial n. 0006/2022, anexados ao feito, a Polícia Civil recebeu denúncia anônima, informando acerca da possível ocorrência de tráfico de cocaína no bairro São Luiz, praticado, em tese, por um casal proprietário de um veículo Corsa.
+O(A) denunciante informou que seu filho de 17 anos estaria adquirindo entorpecentes do referido casal, tendo obtido o contato telefônico de ambos em busca às conversas no celular do adolescente. A informação inicial dava conta que os supostos fornecedores chamavam-se "C." e "K.". No entanto, posteriormente a equipe da DIC verificou que o nome constante nas configurações de contato do masculino no aplicativo WhatsApp era  C. . Outrossim, em consulta ao sistema da Polícia Civil, os investigadores obtiveram o nome dos titulares das linhas telefônicas, como sendo  K. R. G.  e  C. dos S. , os quais são casados/conviventes e residem na Rua Dr.  H. P. K. , 56.
+Na sequência, mais precisamente em 14/03/2022, a DIC deu início a monitoramentos na residência dos investigados, colhendo informações acerca da rotina do casal. Primeiramente, observou-se que ambos permanecem em casa durante grande parte do dia, apenas saindo para buscar uma das filhas no colégio, ou seja, aparentemente não possuem atividade remunerada.
+No monitoramento realizado em 23/03/2022, foi possível visualizar que os investigados saem de casa por volta das 15h e, pouco depois,  C.  conversa com o condutor de um veículo C4, placas KKN7B08, próximo ao Posto  T. , no bairro  S. L. . Em seguida, o casal retorna à sua residência, momento em que  C.  entra rapidamente na casa e volta ao veículo, supostamente colocando um objeto em seu bolso.
+Minutos depois,  C.  é visualizado novamente conversando com o proprietário do veículo C4, na casa dele, localizada no bairro Nossa Senhora Aparecida.
+No mesmo dia, a equipe de investigação constatou que  C.  e  K.  dirigem-se a um mercado estabelecido no bairro  S. A.  (Mercado do B.) e lá permanecem aproximadamente das 18h às 22h, período em que, em tese, efetuam três vendas de drogas. Diante da dificuldade em registrar as imagens, a DIC obteve as imagens das câmeras de monitoramento do estabelecimento.
+Da análise atenta das imagens em questão, pode-se perceber que, efetivamente, o investigado  C.  estabelece rápidos contatos com terceiros que se aproximam dele, enquanto  K.  permanece no interior do veículo. Em todos estes contatos, verifica-se que os indivíduos entregam algo a  C.  e ele, por sua vez, entrega outro objeto a eles.
+Os contatos são visualizados com clareza nos seguintes horários e circunstâncias:
+a) Às 18h28min - um indivíduo vestindo moletom cinza aproxima-se de  C. , cumprimenta-o rapidamente, aparentemente coloca algo em seu bolso e sai do local;
+b) Às 18h31min - uma caminhonete branca aproxima-se do local e  C.  imediatamente vai até ela. Após rápida conversa,  C.  retorna a seu veículo e entrega algo a  K. . Na sequência, a caminhonete retira-se.
+c) Às 18h34min - um indivíduo vestindo camiseta branca entra no mercado, e poucos mais de um minutos depois, aproxima-se de  C. , trocando rapidamente com ele algum objeto. Logo após,  C.  entrega algo para  K. .
+Feito este breve resumo dos elementos angariados até o momento pela equipe da DIC, deve-se admitir a presença, com nitidez, de indícios razoáveis da autoria ou participação de  K. R. G.  e  C. dos S.  na infração penal investigada (art. 2º, inc. I da Lei 9.296/96), justificando, de forma irrefutável, o deferimento da interceptação telefônica.
+Saliento que a norma não exige prova plena da autoria ou participação, mas apenas um juízo de probabilidade sob o influxo do princípio in dubio pro societate, com indicação provável, pela prova carreada, de que aqueles contra quem é requerida a medida têm envolvimento com o crime investigado.
+Além disso, no caso concreto é presente e clara a extrema dificuldade da autoridade policial produzir a prova da autoria e materialidade sem a interceptação, até porque o suposto delito, como visto, é praticado em via pública, em vários lugares diferentes, e provavelmente pactuado com supostos usuários através de contato telefônico e/ou aplicativo de conversas.
+Assim, a prova da autoria do crime depende de maiores informações que não podem ser obtidas por outro meio senão a interceptação telefônica e telemática. Outra medida, então, não se revelaria suficiente (art. 2º, inc. II da Lei 9.296/96).
+Enfim, tenho que no caso está demonstrada a necessidade da medida, a teor do art. 4º da Lei 9.296/96, o qual ensina que "o pedido de interceptação da comunicação telefônica conterá a demonstração de que sua realização é necessária à apuração de infração penal, com indicação dos meios a serem empregados".
+Embora as informações registradas habitualmente pela operadora de telefonia no âmbito da relação de consumo entre esta e seus usuários constituam parte integrante da intimidade dos cidadãos, constitucionalmente garantida, tais informações não contam com sigilo absoluto, sendo aplicável a acessibilidade em casos de extrema gravidade.
+A Constituição Federal assegura a inviolabilidade do sigilo particular, mas isso não pode servir para fomentar, através do sigilo, ações criminosas, de sorte que, com base nos elementos trazidos, a medida requerida deve ser deferida.
+Assim, considerando que a interceptação do terminal mencionado, com o fornecimento das informações requeridas, possibilitará esclarecer a efetiva ocorrência da prática criminosa noticiada, o deferimento do pleito é medida que se impõe.  ..
+À vista disso, não se ignora que "consolidou-se na jurisprudência pátria não ser possível autorizar interceptação telefônica com base exclusivamente em denúncia anônima." (HC n. 371.394/SC, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 22-11-2016; grifei).
+De toda sorte, é notório que a decisão não se alicerçou, tão somente, em denúncia anônima, de modo que a hipótese concreta é diversa, máxime porque foram adotadas prévias diligências, tais como a monitoração da residência e deslocamento dos réus, a fim de confirmar a informação obtida e, portanto, robustecer os indicativos da prática delitiva, necessários à decretação excepcional da medida.
+É correto afirmar, portanto, que, no momento de autorização da medida, estavam presentes indícios razoáveis de autoria/participação em infração penal punida com reclusão (tráfico/associação para o tráfico), além da imprescindibilidade (modus operandi e dificuldade de obtenção de provas por meios tradicionais de investigação), o que torna inadequado o reconhecimento da ilicitude das provas.
+De mais a mais, embora não tenha sido o fundamento elencado na sentença absolutória, não prospera a argumentação contida nas contrarrazões de que haveria nulidade das interceptações telefônicas em razão da ausência de prévia autorização judicial para promover a "ação controlada", nos termos do art. 53 da Lei 11.343/2006.
+Afinal, não há se falar em ação controlada, pois "a hipótese em apreciação reflete mera observação e monitoramento da movimentação do suspeito, para permitir a constatação, com a devida segurança, da efetiva prática do crime de tráfico de drogas" (AgRg no AREsp n. 2.269.780/DF, rel. Min. Ribeiro Dantas, Quinta Turma, j. 18-4-2023, DJe de 24-4-2023; grifei).
+Portanto, é forçoso afastar a mácula reconhecida na sentença, uma vez que não há qualquer nulidade na decisão que autorizou as interceptações telefônicas, de modo que as provas obtidas se mostram plenamente válidas para fins de aferição dos crimes imputados, o que será feito nos tópicos pertinentes.
+Consoante imposição do art. 93, IX, primeira parte, da Constituição da República de 1988, "todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade", exigência que funciona como garantia da atuação imparcial e secundum legis (sentido lato) do órgão julgador. Presta-se a motivação das decisões jurisdicionais a servir de controle, da sociedade e das partes, sobre a atividade intelectual do julgador, para que verifiquem se este, ao decidir, considerou todos os argumentos e as provas produzidas pelas partes e se bem aplicou o direito ao caso concreto.
+A Lei n. 9.296/1996, a qual rege a matéria atinente à interceptação de comunicações telefônicas, dispõe que a medida, para fins de prova em investigação criminal e em instrução processual penal, dependerá de ordem do juiz competente para a ação principal e somente poderá ser decretada se houver indícios razoáveis de autoria ou de participação em infração penal, se a prova não puder ser feita por outros meios e se o fato investigado for punível com reclusão. Mais adiante, em seu art. 5º, a lei estabelece que a decisão será fundamentada, sob pena de nulidade.
+Pela leitura dos autos, noto que a instância de origem entendeu pela ausência de nulidade da decisão que deferiu a medida, pois o relatório de investigação policial trouxe informações de que, após a denúncia anônima, passaram a acompanhar os pacientes e a maneira de execução do tráfico.
+Foram diversas as diligências empreendidas antes do pedido de interceptação telefônica e a autoridade policial descreveu que necessitava da medida para dar continuidade às investigações.
+Portanto, devidamente fundamentada a necessidade da interceptação para prosseguimento das investigações, tudo após comprovada a indispensabilidade do meio de prova, inclusive na maneira concreta como o tráfico estava sendo supostamente realizado, a saber, sendo executado com entrega aos usuários por meio de veículo próprio, de forma velada, na via pública, com aparência de ajuste telefônico prévio.
+Rememoro que, a teor da orientação desta Corte, a decisão que ordena a interceptação telefônica não exige fundamentação exaustiva e exauriente, desde que atendidos os comandos da Lei n. 9.296/1996, como no caso.
+Assim, de acordo com o Tribunal de origem, ficou demonstrada a indispensabilidade da medida, a partir de elementos idôneos e não apenas a denúncia anônima.
+Aliás, ""são válidas a abertura de inquérito e a interceptação telefônica deferida após denúncia anônima, quando realizadas pela autoridade policial diligências investigativas prévias para apurar a veracidade das informações recebidas. As decisões que deferiram e prorrogaram a interceptação telefônica e a captação ambiental encontram-se devidamente fundamentadas" (AgRg nos EDcl no REsp n. 1.957.639/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022)" (AgRg no AREsp n. 2.403.267/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024, grifei).
+Logo, não há nulidade a ser declarada.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
