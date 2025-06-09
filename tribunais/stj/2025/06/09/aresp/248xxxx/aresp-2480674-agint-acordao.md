@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A violação do art. 1.022 do Código de Processo Civil (CPC) foi suscitada apenas no agravo interno, caracterizando evidente inovação recursal, o que impossibilita o exame da questão neste Tribunal Superior.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo  interno  a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL da decisão da Presidência do Superior Tribunal de Justiça (fls. 392/394) que concluiu pela incidência da Súmula 284 do Supremo Tribunal Federal (STF), por estarem as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, e d a Súmula 7 do STJ, "uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos" (fl. 394).
+A  parte  agravante, nas  razões  do  agravo  interno  , refuta  os  fundamentos  da decisão  agravada,  alegando o seguinte:
+(1) " ..  a decisão ora embargada se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que não enfrenta a apontada violação ao art. 1022, II do CPC pelo acórdão regional, capaz de infirmar a conclusão da necessidade da comprovação de prévio ato formal de fiscalização para evitar elisão fiscal abusiva, cujo tema foi submetido à apreciação do Tribunal de origem  .. " (fl. 431);
+(2) não incidência da Súmula 284/STF, "uma vez que a questão controvertida objeto do recurso especial interposto pela Fazenda Nacional é a prática de planejamento fiscal indevido, quando incontroverso o exercício concomitante de atividade rural idêntica - cultivo de cereais e comercialização dos mesmos - na condição de pessoa física e como sócio de pessoa jurídica, como no caso dos autos" (fl. 432); e
+(3) não incidência da Súmula 7/STJ, porque " ..  o TRF4 reconhece que o Impetrante exerce atividade rural concomitantemente na condição de pessoa física e sócio de pessoa jurídica  ..  e omite a extensão da atividade de plantio de milho, trigo, e criação de gado de corte  .. " (fls. 432/433).
+Requer, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+A parte adversa apresentou impugnação às fls. 439/452.
+ É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A violação do art. 1.022 do Código de Processo Civil (CPC) foi suscitada apenas no agravo interno, caracterizando evidente inovação recursal, o que impossibilita o exame da questão neste Tribunal Superior.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+Inicialmente, a parte recorrente alega que a decisão agravada afronta os arts. 489, IV, e 1.022, II, do Código de Processo Civil. Entretanto, observo que a questão não foi suscitada nas razões do recurso especial interposto, sendo vedado à parte inovar as razões recursais em agravo interno.
+É o caso de afastar a incidência da Súmula 284 do Supremo Tribunal Federal (STF), porque as razões do recurso especial demonstraram claramente a pretensão recursal, sem estarem dissociadas dos fundamentos do acórdão recorrido.
+Quanto ao mais, nos exatos termos do acórdão recorrido, o Tribunal a quo assim se manifestou sobre o cerne da controvérsia (fl. 188):
+Por fim, quanto à possibilidade de o autor exercer a atividade rural na condição de pessoa física e ao mesmo tempo ser sócio de outra pessoa jurídica que desempenha atividade rural, saliento que cabe à própria Administração Fiscal atuar para evitar elisão fiscal abusiva, fraude ou simulação. Não havendo comprovação de prévio ato formal de fiscalização neste sentido, deve prevalecer a presunção de boa-fé do demandante.
+Com efeito, não há elementos aptos a demonstrar confusão patrimonial ou de vínculo empregatício que possam indicar a ocorrência de simulação ou ficção de negócios jurídicos que visem a elidir a tributação, devendo ser reconhecido o direito do autor ao não recolhimento desta contribuição.
+Observo que o Tribunal de origem concluiu que não tinha sido comprovado o planejamento fiscal abusivo com a finalidade de burlar a tributação relativa ao salário-educação, devendo ser reconhecido o direito da parte ao não recolhimento da contribuição em questão .
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. INEXISTÊNCIA DE OMISSÃO. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. NÃO ENQUADRAMENTO NO CONCEITO DE EMPRESA. JURISPRUDÊNCIA DO STJ. PLANEJAMENTO FISCAL ABUSIVO E CONFUSÃO ENTRE PESSOA FÍSICA E PESSOAS JURÍDICAS. ALEGAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM, COM BASE NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. "Esta Corte já se manifestou no sentido de que o produtor rural pessoa física, desprovido de registro no Cadastro Nacional de Pessoa Jurídica (CNPJ), não se enquadra no conceito de empresa (firma individual ou sociedade), para fins de incidência da contribuição para o salário educação" (AgInt no AREsp n. 1.896.903/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/11/2021, DJe de 24/11/2021).
+4. No entanto, a Fazenda Nacional sustenta que, "no caso concreto, o autor é sócio de empresas no CNPJ e desenvolve atividades relacionadas à produção rural, de modo que é contribuinte do salário-educação". O Tribunal de origem expressamente afirmou que não foi verificada "a confusão empresarial citada pela União" e que "não há nos autos indicação pela apelante que justifique qualquer aparência de gestão empresarial fraudulenta ou simulada, tão pouco possuem outro indício a ser considerado".
+5. Nesse contexto, a alteração da conclusão do Tribunal a quo, no sentido da tese defendida pela recorrente de que a atividade desempenhada pelo produtor rural pessoa física se confunde com a das pessoas jurídicas, configurando planejamento fiscal abusivo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência do óbice da Súmula 7 do STJ.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.648.642/MT, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/2/2025, DJEN de 24/2/2025, sem grifos no original.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. PESSOA FÍSICA. NÃO ENQUADRAMENTO NO CONCEITO DE EMPRESA. PLANEJAMENTO FISCAL ABUSIVO. NÃO COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. MULTA PREVISTA NO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a contribuição do salário-educação somente é devida pela empresa, assim entendida a firma individual ou sociedade que assume o risco de atividade econômica urbana ou rural, com fins lucrativos ou não. O produtor rural, pessoa física, não se enquadra no conceito de empresa.
+III - Rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal para aferir se a Recorrida adotou planejamento fiscal abusivo, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+ ..
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.134.811/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024, sem grifos no original.)
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. SÚMULA N. 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra Delegado da Receita Federal do Brasil em Santo Ângelo, por meio do qual produtor rural pessoa física objetiva provimento jurisdicional que reconheça a inexigibilidade da contribuição social para o salário-educação, no percentual de 2,5% sobre a remuneração paga ou creditada aos empregados, bem como o direito de compensar os valores pagos indevidamente nos últimos cinco anos, corrigidos pela SELIC. Na sentença a segurança foi concedida. No Tribunal a quo, a sentença foi mantida. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - Não foi constatada a utilização indevida e concomitante pelo autor da forma de organização como pessoa física e da forma de organização como pessoa jurídica, e tal discussão não poderia ser inaugurada em recurso especial. A insurgência da Fazenda Nacional, ao tentar afastar o entendimento de que a contribuição para o salário-educação tem como sujeito passivo as empresas, indicando abusividade no planejamento tributário por parte do contribuinte, empregador rural que tem empregados ligados ao seu CPF, conquanto também tenha registro no CNPJ, esbarra no óbice da Súmula n. 7 desse Tribunal.
+ ..
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.381.913/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/3/2024, DJe de 20/3/2024, sem grifos no original.)
+Ante  o  exposto, nego  provimento  ao  agravo  interno .
+É  o  voto.
