@@ -1,0 +1,44 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOSIANNE WENDY LOPES PEREIRA, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. RITUXIMABE. LÚPUS ERITOMATOSO SISTÊMICO. INEFICÁCIA DA POLÍTICA PÚBLICA. EFICÁCIA E ADEQUAÇÃO DO MEDICAMENTO. NÃO COMPROVADA. CONCESSÃO JUDICIAL DO FÁRMACO POSTULADO. IMPOSSIBILIDADE. Tratando-se de adoção de uma política pública de saúde, caberá aos profissionais de saúde, dentro de suas melhores convicções profissionais, tomarem as decisões que espelhem os interesses de toda a Sociedade. Não há razoabilidade em se admitir a opinião isolada de um único médico, sem que se aponte erro na política pública, com suficiente e racional fundamentação e com enfrentamento das informações que subsidiaram a decisões públicas. Não havendo evidências suficientes que demonstrem erro do Poder Público na não inclusão do medicamento postulado entre aqueles de fornecimento geral e universal à população, indevida sua dispensação pela via judicial.
+Os embargos de declaração opostos foram rejeitados (fls. 565-566).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 489, § 1º, e 1.022, II, do CPC, sustentando que o acórdão recorrido foi omisso em relação a três pontos: (a) nulidade da sentença pela ausência de análise do pedido de produção de provas; (b) nulidade da sentença pela ausência de anúncio do encerramento da instrução processual; e (c) diferença entre uso off label e tratamento experimental do medicamento Rituximabe (fls. 585-586).
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem (fls. 601-603), daí a interposição do presente agravo em recurso especial (fls. 577-590).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+De início, quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 534-537):
+Cerceamento de defesa
+A preliminar de nulidade por cerceamento à produção de prova, arguida, confunde-se com o mérito e como tal será analisada.
+ ..
+Anoto que foi elaborada perícia, que apresenta fundamentação clara e objetiva, capaz de esclarecer o juiz e as partes, fornecedendo dados científicos que possam gerar o convencimento razoável e crítico de quem o lê. Anoto-se que a perícia ou o parecer não pode se traduzir em mera opinião pessoal, ou ser vago ao ponto de sua aceitação depender da notoriedade de quem o formula, e não das premissas expostas.
+No caso dos autos, a perícia aponta as evidências científicas que o fármaco ostenta, sendo suficiente para alicerçar o andamento do processo.
+Portanto, afasto a preliminar quanto à alegação de cerceamento de defesa.
+A perícia opinou favoravelmente ao fornecimento da medicação, embora descrevendo se tratar de uso off label e com estudos limitados que apontam apenas uma tendência. Assim descreveu as evidências científicas (evento 13, LAUDOPERIC1):
+ ..
+Em consulta à página da CONITEC, vê-se que o PDCT da LES foi atualizado em 11/2022 e não preconiza o uso do RITUXIMABE:
+O rituximabe, anticorpo monoclonal quimérico que desencadeia depleção de linfócitos B, apesar de não ser aprovado pela Anvisa para tratamento do LES, apresenta relatos e séries de casos sobre seu uso em pacientes com doença grave e refratária. A experiência clínica com o uso do rituximabe no LES mostra um papel importante no tratamento de pacientes com doença grave e refratária ao tratamento convencional, especialmente nos casos de acometimento renal, mas também musculoesquelético, hematológico, cutâneo e neurológico75-77 . Entretanto, estudos que avaliaram o rituximabe em pacientes com doença moderada à grave com acometimento renal e extra renal não apresentaram superioridade de eficácia em relação ao placebo, apesar de um perfil de segurança adequado. Há grande discussão a respeito das limitações destes estudos, o que talvez não tenha permitido mostrar os benefícios do seu uso78 . Este Protocolo não preconiza o uso de rituximabe para o tratamento do LES.
+(https://www. gov. br/conitec/pt-br/midias/protocolos/20221109_pcdt_lupus. pdf - p. 11)
+Portanto, no caso, diante da fragilidade da motivação da perícia e das evidências científicas até então apontadas pela CONITEC, não vejo a verossimilhança do direito alegado.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 565):
+No caso vertente, examinando a fundamentação invocada no voto condutor do acórdão embargado, não se verifica a existência de quaisquer das hipóteses ensejadoras do presente recurso. Com efeito, anotou-se que a preliminar de nulidade por cerceamento à produção de prova, arguida, confunde-se com o mérito e como tal foi analisada no mérito do voto, não tendo-se sido constatada qualquer nulidade.
+Destacou-se, ainda, que a perícia apontou as evidências científicas que o fármaco ostenta, sendo suficiente para alicerçar o andamento do processo.
+De outro lado, o início do tratamento com recursos por doação e a apontada melhora no quadro clínico da autora não afsatam as conclusões consignadas nos votos acerca de ausência de evidências científicas suficientes a ensejar o fornecimento da medicação pelo SUS.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Ademais, é importante pontuar que a Primeira Sessão desta Corte, no julgamento do Tema 106/STJ, firmou a tese no sentido de que: "a concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do medicamento na ANVISA, observados os usos autorizados pela agência".
+Nesse sentido:
+ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. FORNECIMENTO DE MEDICAMENTOS PELO PODER PÚBLICO. VEDAÇÃO DE FORNECIMENTO DE MEDICAMENTO PARA USO OFF LABEL. PRECEDENTE DA PRIMEIRA SEÇÃO.
+1. Cuida-se na origem de ação ordinária na qual a parte autora, ora requerida, pleiteia em juízo a condenação do Município de Belo Horizonte e do Estado de Minas Gerais ao fornecimento do fármaco RITUXIMABE 500mg, para o tratamento de Lúpus Eritematoso Sistêmico, CID M32.8.
+2. A primeira Seção deste Superior Tribunal, no julgamento dos EDcl no REsp 1.657.156/RJ, submetido ao rito dos recursos representativos de controvérsia repetitiva, firmou tese no sentido de que "a concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do me dicamento na ANVISA, observados os usos autorizados pela agência".
+3. Caso concreto em que Turma Recursal recorrida, ao admitir a utilização off label do medicamento em tela, a um só tempo divergiu do entendimento firmado no acórdão apontado como paradigma, oriundo da 4ª Turma Recursal da Comarca de Curitiba, como também da tese estabelecida pela Primeira Seção desta Corte no julgamento do aludido recurso repetitivo.
+4. Pedido de uniformização de interpretação de lei conhecido e provido.
+(PUIL n. 2.101/MG, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/11/2021, DJe de 18/11/2021).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC.
+Intimem-se.
+EMENTA
