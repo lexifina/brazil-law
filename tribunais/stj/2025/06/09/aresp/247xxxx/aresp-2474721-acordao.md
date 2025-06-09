@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. IMPUGNAÇÃO ACOLHIDA SEM EXTINÇÃO DA EXECUÇÃO. NATUREZA JURÍDICA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. FUNGIBILIDADE NÃO APLICÁVEL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. TESE RECURSAL. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2. A jurisprudência desta Corte é no sentido de que a decisão que acolhe impugnação do cumprimento de sentença sem extinguir a execução tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso cabível contra a mesma. Ademais, a inobservância desta sistemática caracteriza erro grosseiro, sendo vedada a aplicação do princípio da fungibilidade recursal.
+3. O acolhimento da tese recursal, de que a decisão que acolheu a impugnação extinguiu a execução, é inviável pelo óbice da Súmula nº 7/STJ porque demandaria o revolvimento de fatos e de provas por esta Corte.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por ALINE WEISS SILVEIRA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"PROCESSUAL CIVIL - ACOLHIMENTO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA PARA MINORAR AS ASTREINTES - APELAÇÃO INTERPOSTA - NÃO CONHECIMENTO DO RECURSO - IRRESIGNAÇÃO DA IMPUGNADA/EXEQUENTE - PRINCÍPIO DA FUNGIBILIDADE RECURSAL - INAPLICAÇÃO - ERRO CRASSO - VIA ELEITA INADEQUADA - DECISÃO MANTIDA - RECURSO IMPROVIDO." (e-STJ fl. 88/89).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 116/117).
+No recurso especial, a parte recorrente alega violação dos seguintes dispositivos com as respectivas teses:
+(1) art. 203, §§1º e 2º, do Código de Processo Civil, defendendo que o pronunciamento judicial extinguiu a execução, pois determinou o levantamento dos valores após o trânsito em julgado, o que caracteriza sentença e não decisão interlocutória;
+(2) art. 1.009 do CPC, sustentando que da sentença cabe apelação, e que o recurso adequado para atacar a decisão que extingue a execução é a apelação e
+(3) art. 85 do CPC, aduzindo que a condenação em honorários advocatícios só pode ocorrer em sentença, o que reforça a natureza de sentença do pronunciamento judicial.
+Após as contrarrazões (e-STJ fl. 156/157), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. IMPUGNAÇÃO ACOLHIDA SEM EXTINÇÃO DA EXECUÇÃO. NATUREZA JURÍDICA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. FUNGIBILIDADE NÃO APLICÁVEL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. TESE RECURSAL. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2. A jurisprudência desta Corte é no sentido de que a decisão que acolhe impugnação do cumprimento de sentença sem extinguir a execução tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso cabível contra a mesma. Ademais, a inobservância desta sistemática caracteriza erro grosseiro, sendo vedada a aplicação do princípio da fungibilidade recursal.
+3. O acolhimento da tese recursal, de que a decisão que acolheu a impugnação extinguiu a execução, é inviável pelo óbice da Súmula nº 7/STJ porque demandaria o revolvimento de fatos e de provas por esta Corte.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa ao art. 85 do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No que tange aos arts. 203, §§1º e 2º, e 1.009 do CPC, o acórdão recorrido está de acordo com a jurisprudência desta Corte firmada no sentido de que a decisão que acolhe impugnação do cumprimento de sentença sem extinguir a execução tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso cabível contra a mesma. Ademais, a inobservância desta sistemática caracteriza erro grosseiro, sendo vedada a aplicação do princípio da fungibilidade recursal.
+No mesmo sentido:
+"PROCESSUAL CIVI. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO PROCEDIMENTO. RECURSO CABÍVEL. APELAÇÃO. FUNGIBILIDADE. IMPOSSIBILIDADE. AGRAVO DE INSTRUMENTO. ERRO INESCUSÁVEL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. O agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.717.759/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. CONFIGURAÇÃO. ACOLHIMENTO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. PROSSEGUIMENTO PELO VALOR DEVIDO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. FUNGIBILIDADE RECURSAL. APLICAÇÃO RESTRITA. DÚVIDA OBJETIVA. CONFIGURAÇÃO. IMPRECISÃO DO ATO JUDICIAL. FORMA E CONTEÚDO. NOMEAÇÃO DA DECISÃO COMO SENTENÇA. DETERMINAÇÃO DE EXTINÇÃO DO FEITO NO DISPOSITIVO. INDUÇÃO DA PARTE AO ERRO. CONHECIMENTO DO RECURSO. POSSIBILIDADE.
+1. Ação de resolução contratual, em fase de cumprimento de sentença, da qual foi extraído o presente recurso especial, interposto em 15/12/2021 e concluso ao gabinete em 1/8/2022.
+2. O propósito recursal é decidir (I) qual é o recurso cabível contra a decisão que acolhe integralmente a impugnação ao cumprimento de sentença apenas por excesso de execução, prosseguindo-se no valor devido; e (II) se é aplicável o princípio da fungibilidade em razão de equívoco do Juízo quanto à nomenclatura e ao conteúdo do ato judicial.
+3. Os embargos de declaração somente não interrompem o prazo para outros recursos quando intempestivos, manifestamente incabíveis ou nos casos em que oferecidos, com pedido de aplicação de efeitos infringentes, sem a indicação, na peça de interposição, de vício próprio de embargabilidade (omissão, contradição, obscuridade ou erro material). Precedentes.
+4. Segundo a jurisprudência desta Corte, no sistema regido pelo CPC/2015, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento.
+5. Não obstante, a decisão que acolhe, ainda que integralmente, a impugnação ao cumprimento de sentença para reconhecer o excesso de execução tem natureza de decisão interlocutória recorrível por agravo de instrumento, quando não impedir o prosseguimento da execução pelo valor devido.
+6. A aplicação da fungibilidade recursal pressupõe dúvida objetiva a respeito do cabimento do recurso e que a escolha pela parte recorrente não configure erro grosseiro.
+7. A dúvida objetiva causada em razão de equívoco do Juízo quanto à nomenclatura e ao conteúdo do ato judicial autoriza a aplicação do princípio da fungibilidade recursal.
+8. Hipótese em que (I) a dúvida objetiva decorreu da imprecisão do ato judicial, porquanto o Juízo de primeiro grau, por erro material, consignou no dispositivo que o acolhimento da impugnação acarretaria a extinção do processo e, ainda, foi expresso ao nomear tal decisão como sentença; e (II) o Tribunal de origem não conheceu da apelação interposta pelo recorrente, sob o argumento de que houve erro grosseiro.
+9. Recurso especial conhecido e provido para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que, superado o não conhecimento do recurso, prossiga no seu julgamento, como bem entender de direito."
+(REsp n. 2.092.982/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/10/2023, DJe de 30/10/2023.)
+De toda sorte, o acolhimento da tese recursal, de que a decisão que acolheu a impugnação extinguiu a execução, é inviável pelo óbice da Súmula nº 7/STJ porque demandaria o revolvimento de fatos e de provas por esta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
