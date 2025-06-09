@@ -1,0 +1,18 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por JOHN HERBERT FELIX DO NASCIMENTO à decisão unipessoal que negou provimento ao recurso especial por ele interposto.
+Alega o embargante, em síntese, que há omissões, contradições e obscuridades na decisão. Sustenta fazer jus à concessão do benefício da assistência judiciária gratuita. Assinala ser parte ilegítima para figurar no polo passivo do cumprimento de sentença. Refere ser admissível a revaloração de provas no âmbito do recurso especial. Aduz inexistir responsabilidade do arrematante pelas dívidas condominiais pretéritas, posto que ausente tal previsão no edital de leilão, circunstância que, em nome da segurança jurídica, não pode prejudicá-lo. Pede o acolhimento, para: "a) que seja acolhido o pedido de justiça gratuita, deferindo no final ao embargante; b) Acolhendo o pedido preliminar de ilegitimidade para configurar como parte passiva, haja vista não ter participado do processo de origem; c) seja admitido os embargos, dando-lhe o efeito infringente, a fim de reformar a decisão embargada para ao final, reconhecer que o embargante não é responsável pela dívida pretérita das taxas condominiais." (fl. 391/392, e-STJ).
+É O RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na espécie, não ocorreu nenhum dos vícios mencionados.
+Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+No que tange às questões suscitadas pelo embargante, deve ser observado que (I) há fundamentação expressa na decisão acerca do fato de que o pedido de AJG formulado pelo recorrente encontra-se prejudicado diante do recolhimento do preparo; (II) alterar as conclusões a que chegou o Tribunal de origem demandaria o reexame do conjunto fático-probatório, não a simples valoração das provas; (III) é inafastável, no caso, a responsabilidade do arrematante pelas dívidas condominiais anteriores à arrematação do imóvel, o que implica, no plano processual, a sua permanência no polo passivo do cumprimento de sentença.
+A rigor, as questões apontadas pela parte embargante não constituem pontos omissos, contraditórios ou obscuros do julgado como quer fazer crer, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Da renovada análise dos autos, verifica-se que a decisão recorrida foi devidamente fundamentada, não havendo, portanto, que se falar em qualquer omissão, erro material, contradição ou obscuridade.
+Dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Advirto as partes de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+Forte nessas razões, REJEITO os embargos de declaração.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO CONFIGURAÇÃO.
+1. Cumprimento de sentença.
+2. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+3. Embargos de declaração no recurso especial rejeitados.
