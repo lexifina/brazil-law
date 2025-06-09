@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO. VÍCIOS CONSTRUTIVOS LEGITIMIDADE. RESPONSABILIDADE PELO ATRASO NA OBRA. COMPROVAÇÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, com base na prova dos autos e no contrato celebrado entre as partes, concluiu pela responsabilidade da recorrente pela devolução dos valores pagos no financiamento imobiliário, sob o argumento de culpa pelo atraso na conclusão da obra.
+2. A modificação do entendimento lançado no v. acórdão recorrido, neste aspecto, demandaria a interpretação de cláusulas contratuais e o revolvimento do suporte fático-probatório dos autos, inviável em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S/A contra decisão monocrática proferida por esta Relatoria (fls. 1375/1379), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões recursais (fls. 1383/1387), a parte agravante sustenta, em síntese, que "não há falar mesmo em necessidade de interpretação de cláusulas contratuais ou reexame de fatos e provas  a atrair a incidência das Súm. 5 e 7/STJ  , dado que basta a realização do cotejo entre as premissas contidas expressamente no acórdão local e a interpretação a ser dada ao dispositivo legal vilipendiado" (fl. 1387).
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Apresentada impugnação às fls. 1391/1394.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO. VÍCIOS CONSTRUTIVOS LEGITIMIDADE. RESPONSABILIDADE PELO ATRASO NA OBRA. COMPROVAÇÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, com base na prova dos autos e no contrato celebrado entre as partes, concluiu pela responsabilidade da recorrente pela devolução dos valores pagos no financiamento imobiliário, sob o argumento de culpa pelo atraso na conclusão da obra.
+2. A modificação do entendimento lançado no v. acórdão recorrido, neste aspecto, demandaria a interpretação de cláusulas contratuais e o revolvimento do suporte fático-probatório dos autos, inviável em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A decisão não merece reparos, devendo ser mantida por seus próprios fundamentos.
+O Tribunal de origem, com base na prova dos autos e no contrato celebrado entre as partes, conclui pela responsabilidade da recorrente para responder pela devolução dos valores pagos pelo financiamento imobiliário, sob o argumento de responsabilidade pelo atraso na conclusão da obra. É o que se observa no trecho do v. acórdão recorrido:
+"Mais adiante, à fl. 761, o perito declara que "a paralisação das obras por cerca de dois anos sem que seus sistemas construtivos estivessem devidamente concluídos e preparados para resistir às intempéries e à agressividade do ambiente marinho a que a edificação está submetida certamente concorreu para acelerar a manifestação das patologias construtivas observadas durante a vistoria realizada por este perito".
+Conclui-se, desse modo, que os defeitos na estrutura do edifício podem ser atribuídos tanto a falhas na execução das obras quanto ao atraso na conclusão destas. Pelas aludidas falhas, devem responder a Construtora Andrade Macedo e a Caixa Seguradora S/A, que escolheu a empresa responsável pela execução do restante do empreendimento.
+Por outro lado, não pode a CEF se furtar da responsabilidade pelo atraso na conclusão das obras. Isso porque, conforme Cláusula 20a do contrato firmado com os mutuários, competia à instituição financeira notificar a Caixa Seguradora S/A em caso de atraso no andamento da obra, desde que igual ou superior a 30 (trinta) dias.
+Nos termos do Relatório de Acompanhamento de Empreendimento (ERA) colacionado à fl. 238, foi constatado, em 25/10/2000, um atraso de 59 dias, tendo a seguradora sido notificada após esse período. Ademais, conforme alegado pela Caixa Seguradora S/A e confirmado pelo contrato de fls. 331/342:
+Cláusula 11 8  CONFIGURAÇÃO, CARACTERIZAÇÃO E AVISO DO SINISTRO
+Constatado o atraso da obra em 30 (trinta) dias, devidamente atestado pela unidade de Engenharia da Caixa Econômica Federal ou por outra empresa qualificada e especializada designada pela Seguradora, o Segurado terá 10 (dez) dias, contados a partir da data do laudo que comprova o atraso da obra para acionar a Seguradora, encaminhando a carta de aviso de sinistro complementada pelas seguintes informações e documentos:
+a) Número da apólice de seguro.
+b) Relatório da unidade de Engenharia da Caixa Econômica Federal ou de outra empresa qualificada e especializada indicada pela Seguradora, configurando o sinistro.
+c) Cópia da notificação extrajudicial do Segurado ao Tomador sobre o descumprimento do cronograma da obra.
+d) Relatório da unidade de engenharia da CEF com a estimativa de custo para o término da obra.
+e) Outros documentos solicitados pela Seguradora ou pelo IRB Brasil Resseguros S. A.
+Assim, ao atrasar o encaminhamento da documentação exigida pela seguradora, a CEF retardou até meados de 2001 o início do procedimento de contratação de nova construtora para concluir a obra. Apenas em março de 2002 foi assinado contrato com a TECON - Tecnologia em Construções Ltda, atraso este imputável à seguradora, responsável pela contratação. Ao todo, foram quase dois anos de paralisação, atribuíveis tanto à CEF quanto à Caixa Seguradora S/A." (fls. 1037/1038)
+Dessa forma, a modificação do entendimento lançado no v. acórdão recorrido, neste aspecto, demandaria a interpretação de cláusulas contratuais e o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos do disposto nas Súmulas 5 e 7 deste Pretório. Ness e sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIOS DE CONSTRUÇÃO. DEVER DE INDENIZAR. AUSÊNCIA DE INDICAÇÃO DE QUAL OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE PADECE O ACÓRDÃO RECORRIDO. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA N. 284 DO STF. PRETENSÃO DE RECONHECIMENTO DA ILEGITIMIDADE PASSIVA DA CAIXA SEGURADORA S/A. ALEGAÇÃO DE AUSÊNCIA DE COBERTURA CONTRATUAL PARA VÍCIOS DE CONSTRUÇÃO. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO PUBLICADO ANTES DA VIGÊNCIA DO CPC/2015. MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL AFASTADA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A ausência de indicação específica de omissões no acórdão recorrido justifica a aplicação da Súmula n. 284 do STF, conforme precedentes citados.
+2. A partir da análise dos elementos fático-probatórios, e do contrato firmado entre as partes, o Tribunal de origem chegou às seguintes conclusões: a) legitimidade passiva da Caixa Seguradora S/A; b) cobertura securitária e responsabilidade da seguradora pelos danos causados; c) ausência de socorro diante do sinistro. Para rever tais entendimentos, seria necessário o reexame de fatos e provas e a interpretação de cláusulas contratuais, providências descabidas no âmbito do recurso especial. Incidência das Súmulas n. 5 e 7 do STJ.
+3. A majoração dos honorários advocatícios em sede recursal não é cabível, pois o acórdão recorrido foi publicado antes da vigência do CPC/2015.
+4. Agravo interno parcialmente provido."
+(AgInt no REsp n. 1.352.764/PB, relator Ministro TEODORO SILVA SANTOS, SEGUNDA TURMA, julgado em 27/11/2024, DJEN de 4/12/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. INDENIZAÇÃO SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. SEGURADORA. RESPONSABILIDADE. LEGITIMIDADE PASSIVA. SÚMULA Nº 568/STJ.
+1. O prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+4. O recurso especial é inviável quando a modificação do acórdão recorrido demandar o reexame do conjunto fático-probatório dos autos ou a interpretação de cláusulas contratuais, conforme dispõem as Súmulas nºs 7 e 5/STJ.
+5. Nos termos da jurisprudência do Superior Tribunal de Justiça, os vícios estruturais de construção estão acobertados pelo seguro habitacional. Precedentes.
+6. Esta Corte Superior possui o entendimento pacífico de que a seguradora tem legitimidade para figurar no polo passivo de ação relativa a contrato de seguro habitacional regido pelas regras do Sistema Financeiro de Habitação. Precedentes.
+7. Agravo interno não provido."
+(AgInt no AREsp n. 508.646/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/10/2023, DJe de 3/11/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE VÍCIOS CONSTRUTIVOS CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SFH. PROGRAMA MINHA CASA MINHA VIDA. ILEGITIMIDADE DA CEF. ATUAÇÃO COMO AGENTE FINANCEIRO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. SÚMULAS 5/STJ E 7/STJ. DISSÍDIO NÃO CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência desta Corte, a Caixa Econômica Federal "somente tem legitimidade passiva para responder por vícios, atraso ou outras questões relativas à construção de imóveis objeto do Programa Habitacional Minha Casa Minha Vida se, à luz da legislação, do contrato e da atividade por ela desenvolvida, atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, sendo parte ilegítima se atuar somente como agente financeiro (..)" (AgInt no REsp 1.646.130/PE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018).
+2. O eg. Tribunal de origem consignou que a CEF participou do contrato apenas na qualidade de agente financeiro, tomando o imóvel como garantia fiduciária do valor mutuado, de modo que as responsabilidades contratuais assumidas dizem respeito apenas à atividade financeira, sem nenhuma vinculação com outras responsabilidades referentes à concepção do empreendimento ou à negociação do imóvel.
+3. A modificação do entendimento lançado no v. acórdão recorrido, neste aspecto, demandaria interpretação de cláusulas contratuais e revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as súmulas 5 e 7 deste Pretório.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.708.217/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/5/2022, DJe de 17/6/2022, g.n.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
