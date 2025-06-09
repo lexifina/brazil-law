@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CASA DE SAÚDE SANTA MARCELINA à decisão de fls. 3284/3285, que não conheceu do recurso.
+Sustenta a parte embargante:
+3. Conforme documentação acostada na peça que sanou os óbices apontados, verifica-se que houve a juntada de substabelecimento sem reserva de poderes, transferindo os poderes do escritório Inakake ao escritório Orizzo Marques Gabrilli Coltro advogados.
+4. E, tanto no momento do protocolo dos recursos no Tribunal de Origem, quanto na petição retro, foi acostada a cadeia integral dos substabelecimentos com reserva de iguais poderes às advogadas que integram a banca do referido escritório.
+5. E, conforme é possível observar, o subscritor dos referidos substabelecimentos consta expressamente no substabelecimento sem reserva de poderes assinado pelos antigos patronos do escritório Inakake que atuaram desde a Contestação, de modo que inexiste qualquer óbice quanto a representação processual.
+6. Não obstante, caso assim não se considere, tal vício configura mera irregularidade sanável, podendo ser regularizado até o trânsito em julgado da decisão que indefere o recurso, sob pena de ofensa aos princípios do contraditório e da ampla defesa (arts. 5º, LIV e LV, da CF/88 e art. 76, §2º, do CPC/2015).
+7. Para tanto, apresenta procuração outorgada diretamente pelo Embargante aos advogados, conforme documento 01.
+8. A jurisprudência é clara no sentido de que a ausência de peça essencial pode ser suprida se verificada a existência de mandato válido posterior ou anterior, de modo que o formalismo excessivo não pode se sobrepor ao direito de acesso à jurisdição e à efetividade da tutela judicial (fls. 3289/3290).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes às subscritoras do Agravo, Dra. NAYARA LUIZA PIVA e do Recurso Especial, Dr. SARAH GIULIA MAROTTA LOPES.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto os instrumentos de mandatos, juntados à petição de fls. 3276/3281 não foram suficientes para completar a cadeia de representação outorgando poderes à subscritora dos recursos.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+O processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade processual era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
