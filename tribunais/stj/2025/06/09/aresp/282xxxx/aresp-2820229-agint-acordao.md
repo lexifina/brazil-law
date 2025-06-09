@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. INÉPCIA. ART. 1.021, §1º, DO CPC. MULTA DO ART. 1.021, §4º, DO CPC.
+1. Ação de obrigação de fazer c/c indenização, ajuizada em razão de atraso na entrega de imóvel.
+2. É inadmissível o agravo que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interposto por GAFISA S/A, contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer c/c indenização, ajuizada por BRUNA LOPES CORREA, em face da agravante, em razão de atraso na entrega de imóvel.
+Acórdão (e-STJ, fls. 706/722): deu parcial provimento às apelações interpostas pela agravante e pela agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. ATRASO NA ENTREGA DAS CHAVES POR PRAZO SUPERIOR A 9 MESES (JÁ INCLUÍDO O PRAZO CONTRATUAL DE TOLERÂNCIA DE 180 DIAS). FALHA NA PRESTAÇÃO DO SERVIÇO. INADIMPLEMENTO CONTRATUAL CARACTERIZADO. INDENIZAÇÃO POR LUCROS CESSANTES QUE DEVE OBSERVAR A PROVA PERICIAL PRODUZIDA EM JUÍZO, CONSIDERADO O VALOR LOCATÍCIO DO BEM, INCIDINDO DESDE O DIA SEGUINTE AO PRAZO DE TOLERÂNCIA ATÉ A EFETIVA ENTREGA DO IMÓVEL. DANO MORAL CONFIGURADO, JÁ QUE SE PRETENDE A AQUISIÇÃO DA MORADIA, NÃO ALCANÇADA PELA DESÍDIA DA CONTRATANTE. PRECEDENTES DO STJ. MORA NA ENTREGA DA OBRA, DECORRENTE DE FORTUITO INTERNO, QUE FRUSTROU A EXPECTATIVA DE USO DO IMÓVEL, TRANSBORDANDO OS LIMITES DO MERO ABORRECIMENTO. INDENIZAÇÃO POR DANOS MORAIS FIXADA EM R$ 250.000,00 (DUZENTOS E CINQUENTA MIL REAIS). REDUÇÃO PARA R$ 10.000,00 (DEZ MIL REAIS), MONTANTE QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE, LEVANDO-SE EM CONSIDERAÇÃO A REPROVABILIDADE DA CONDUTA DA RÉ E A EXTENSÃO DO DANO SOFRIDO PELA AUTORA, SENDO CONSENTÂNEO COM VALORES FIXADOS POR ESTA CORTE EM CASOS ANÁLOGOS. VALIDADE DA CLÁUSULA CONTRATUAL QUE TRANSFERE AO PROMITENTE- COMPRADOR A OBRIGAÇÃO DE PAGAR A COMISSÃO DE CORRETAGEM. ENTENDIMENTO FIRMADO NO RESP 1.599.511/SP SUBMETIDO À SISTEMÁTICA DE RECURSOS REPETITIVOS. DEMONSTRAÇÃO DE PRÉVIA INFORMAÇÃO ACERCA DO PREÇO TOTAL DA AQUISIÇÃO DA UNIDADE AUTÔNOMA, COM O DESTAQUE DO VALOR DA COMISSÃO DE CORRETAGEM. É DEVIDO PELA RÉ O VALOR DAS COTAS CONDOMINIAIS REFERENTES AO PERÍODO EM QUE OS AUTORES NÃO GOZAVAM DA POSSE DO IMÓVEL. RECURSOS AOS QUAIS SE DÁ PARCIAL PROVIMENTO.
+Decisão da Presidência do STJ (e-STJ, fls. 855/856): não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, relativos à ausência/erro de indicação do permissivo constitucional autorizador do recurso (Súmula 284/STF) e razões recursais dissociadas do pedido (Súmula 284/STF).
+Razões do agravo (e-STJ, fls.859/863): Nas razões do presente recurso, a agravante argumenta o seguinte:
+a) que não incidiram as Súmulas 5 e 7/STJ, pois a questão eminentemente de direito e não haveria a necessidade de reapreciação de fatos e provas, além de que o recurso estaria fundado na violação de dispositivos de Lei Federal e em divergência jurisprudencial, e houve o efetivo prequestionamento da matéria discutida; E
+b) que as Súmulas 83 e 182/STJ seriam inaplicáveis, visto que houve ofensa aos precedentes indicados no recurso e a discussão estaria baseada apenas em questão de direito, sobre aplicação direta das cláusulas contratuais pactuada.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. INÉPCIA. ART. 1.021, §1º, DO CPC. MULTA DO ART. 1.021, §4º, DO CPC.
+1. Ação de obrigação de fazer c/c indenização, ajuizada em razão de atraso na entrega de imóvel.
+2. É inadmissível o agravo que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, relativos à ausência/erro de indicação do permissivo constitucional autorizador do recurso (Súmula 284/STF) e razões recursais dissociadas do pedido (Súmula 284/STF).
+Veja-se o que constou na decisão (e-STJ fls. 855/856):
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ, ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF, razões recursais dissociadas do pedido - Súmula 284/STF e Súmula 518/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF e razões recursais dissociadas do pedido - Súmula 284/STF.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Contudo, da análise das razões deduzidas neste agravo interno, verifica-se que a agravante, após defender que não incidiram as Súmulas 5 e 7/STJ, que o recurso estaria fundado na violação de dispositivos de Lei Federal e em divergência jurisprudencial, e que houve o efetivo prequestionamento da matéria discutida, se limita a aduzir que as Súmulas 83 e 182/STJ seriam inaplicáveis, sob o fundamento de que houve ofensa aos precedentes indicados no recurso e a discussão estaria baseada apenas em questão de direito, sobre aplicação direta das cláusulas contratuais pactuadas (e-STJ, fls. 861/862).
+Desta forma, deixou de refutar, de forma específica e consistente, as razões da decisão que não conheceu do seu agravo em recurso especial, referentes à incidência da Súmula 182/STJ, aplicada em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, relativos à ausência/erro de indicação do permissivo constitucional autorizador do recurso (Súmula 284/STF) e razões recursais dissociadas do pedido (Súmula 284/STF).
+Saliente-se que cabia à agravante, na hipótese, demonstrar que, nas razões do agravo em recurso especial, rebateu adequadamente todos os óbices invocados pelo Tribunal de origem para obstar o seguimento do recurso especial, de modo a afastar a aplicação da Súmula 182/STJ e viabilizar o conhecimento daquele agravo.
+Assim, não procedendo a agravante à impugnação específica da decisão agravada, como o exige o princípio da dialeticidade, o presente agravo interno também não comporta conhecimento, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial.
+Ainda, tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC.
