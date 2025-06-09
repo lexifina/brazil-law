@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de YGOR EDUARDO CAMPOS RISSI contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 1507456-81.2024.8.26.0196.
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, e pagamento de 11 dias-multa, como incurso no art. 157, caput, do Código Penal (roubo).
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal a quo, o qual deu parcial provimento ao recurso, nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL. ROUBO SIMPLES. Recurso defensivo. Pleito de desclassificação da conduta para o crime de furto, afastamento da aplicação do concurso formal de crimes e fixação do regime inicial aberto. Impossibilidade. Grave ameaça configurada por simulação de arma de fogo. Relato firme e coerente da vítima, corroborado por prova pericial e testemunhal. Patrimônio lesado pertencente exclusivamente ao estabelecimento comercial. Afastado o concurso formal de crimes. Pena redimensionada. Regime inicial semiaberto mantido diante da gravidade concreta do delito. Recurso parcialmente provido." (fl. 11)
+No presente writ, a impetrante busca, em liminar e no mérito, a fixação do regime aberto para o início do cumprimento da reprimenda do paciente. Alega que não cabe a fixação de regime mais gravoso unicamente com base na gravidade abstrata do delito. Invoca as Súmulas n. 718 e 719/STF e 440/STJ.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Conforme relatado, busca-se, na presente impetração, a fixação do regime prisional aberto para início de cumprimento de pena.
+O Tribunal de origem, no julgamento do apelo defensivo, reduziu a pena do ora paciente para 4 anos de reclusão, contudo manteve o regime intermediário de pena, sob os seguintes fundamentos, no que interessa:
+"De fato, o relato prestado pela vítima Beatriz Lima Oliveira, funcionária do estabelecimento comercial denominado Minibox Contini, indica que, diante da abordagem, experimentou fundado receio de agressão iminente. Isso porque o réu, além de anunciar assalto, simulou estar armado ao colocar a mão por dentro da calça (ou na altura da cintura), o que, de forma inequívoca, transmitiu ameaça suficiente para inibir a resistência da ofendida e garantir a subtração do numerário.
+Ademais, o laudo pericial5 corrobora a dinâmica do crime, destacando-se, em especial, a conduta do réu ao adentrar o estabelecimento comercial com o rosto parcialmente coberto por uma máscara, aproximar-se da vítima e realizar gesto com a mão à altura da cintura, conforme evidenciado à fl. 74, o que induziu na vítima a acreditar que ele portava uma arma de fogo.
+É irrelevante, para a configuração do roubo simples, a ausência de arma de fogo real, uma vez que a simulação, acompanhada do anúncio do assalto, foi apta a gerar medo concreto na vítima, caracterizando a grave ameaça exigida pelo tipo penal.
+ ..
+Imperiosa, por fim, a manutenção do regime inicial semiaberto, diante da gravidade concreta do delito roubo a estabelecimento comercial, ocorrido no período noturno , circunstância que revela a ousadia e periculosidade do réu, bem como sua inaptidão para o cumprimento da pena em regime menos severo." (fls. 13/15).
+Na hipótese, no que se refere ao regime inicial de cumprimento de pena, firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do CP ou em outra situação que demonstre efetivamente um plus na gravidade do delito. Nesse sentido, foi elaborado o Enunciado n. 440 da Súmula desta Corte, e os Enunciados n. 718 e 719 da Súmula do Colendo Supremo Tribunal Federal - STF, in verbis:
+"Súmula 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+Súmula 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Na hipótese dos autos, em que pese a primariedade do paciente, a neutralidade das circunstâncias judiciais, com a pena-base fixada na mínimo legal e a reprimenda corporal estabelecida em 4 anos de reclusão, foi imposto o regime prisional semiaberto, destacando, a partir de elementos concretos, a maior gravidade do delito, tendo em vista tratar-se crime de roubo praticado em estabelecimento comercial, em período noturno, causando maior temor à vítima (funcionária do estabelecimento), exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º do CP, não havendo falar em constrangimento ilegal.
+No mesmo sentido, colaciono os seguintes julgados desta Corte Superior de Justiça:
+DIREITO PENAL. AGRAVO REGIMENTAL. ROUBO TENTADO. REGIME PRISIONAL. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se busca a fixação de regime prisional mais brando para cumprimento de pena de 1 ano e 4 meses de reclusão pela prática do delito de roubo tentado (art. 157, caput, c/c art. 14, II, do CP).
+2. Fato relevante. O agravante abordou a vítima em via pública, anunciou o assalto e, após a vítima fugir, quebrou o vidro do veículo e a perseguiu dentro de uma secretaria, onde foi preso em flagrante.
+3. As decisões anteriores. A sentença de primeiro grau fixou o regime fechado para início do cumprimento da pena, considerando a gravidade do ilícito. O acórdão reformou para regime semiaberto, considerando a ausência de consumação e a primariedade técnica do agravante.
+II. Questão em discussão4. A questão em discussão consiste em saber se o regime prisional semiaberto, fixado para o cumprimento da pena, está devidamente fundamentado na gravidade concreta do delito e no modus operandi do agravante, ou se deveria ser fixado o regime aberto, considerando a primariedade e a ausência de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir5. A fixação do regime semiaberto está justificada pela ousadia e periculosidade do agravante, evidenciadas pelo modus operandi do delito, que demonstram a gravidade concreta do crime.
+6. A jurisprudência admite a fixação de regime mais gravoso, mesmo com pena-base no mínimo legal, quando a gravidade concreta do delito e o modus operandi justificam tal medida.
+7. A primariedade técnica do agravante e a ausência de circunstâncias judiciais desfavoráveis não são suficientes para afastar a fixação do regime semiaberto, diante da gravidade concreta do delito.
+IV. Dispositivo e tese8. Agravo desprovido.
+Tese de julgamento: "1. A fixação de regime semiaberto para cumprimento de pena é justificada pela gravidade concreta do delito e pelo modus operandi do agravante. 2. A primariedade técnica e a ausência de circunstâncias judiciais desfavoráveis não afastam a possibilidade de fixação de regime mais gravoso quando a gravidade concreta do crime assim o exigir."
+Dispositivos relevantes citados: CP, art. 157, caput; CP, art. 14, II; CP, art. 33, § 3º.Jurisprudência relevante citada: STJ, AgRg no AREsp 2.610.994/RN, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024; STJ, HC 354.403/SP, Rel. Min. Ribeiro Dantas, Rel. p/ Acórdão Min. Joel Ilan Paciornik, Quinta Turma, julgado em 2/6/2016.
+(AgRg no HC n. 958.287/SP, de minha relatoria, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+DIREITO PENAL. HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTOS CONCRETOS. GRAVIDADE CONCRETA DA CONDUTA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de condenado à pena de 6 anos e 8 meses de reclusão em regime fechado, pela prática de roubo circunstanciado, com pedido de readequação do regime prisional para o semiaberto.
+2. A defesa alega ilegalidade na fixação de regime prisional mais gravoso do que o permitido, com base na gravidade abstrata do crime, em afronta às Súmulas 440 do STJ, 718 e 719 do STF.
+3. A apelação interposta pela defesa foi desprovida pelo Tribunal de Justiça do Estado de São Paulo. II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a fixação de regime inicial fechado, com base na gravidade concreta do delito, é válida, mesmo quando a pena-base foi fixada no mínimo legal. III. RAZÕES DE DECIDIR
+5. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+6. A fixação de regime prisional mais gravoso exige fundamentação específica baseada em elementos concretos, conforme jurisprudência do STJ e STF.
+7. No caso, o regime inicial fechado foi justificado pela gravidade concreta da conduta, com uso ostensivo de arma de fogo, o que está em conformidade com a jurisprudência.
+8. Alterar o quadro formado no Tribunal de origem demandaria dilação probatória, inviável em habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 865.897/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+Nesse contexto, não se verifica a presença de constrangimento ilegal capaz de justificar a concessão de ofício da ordem de habeas corpus.
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
