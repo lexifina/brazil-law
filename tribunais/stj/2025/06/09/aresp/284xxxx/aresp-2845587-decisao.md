@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por MACIEL SIQUEIRA MELO JUNIOR em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo , cuja ementa é a seguinte (e-STJ fl. 154):
+REVISÃO CRIMINAL - Tráfico de entorpecentes e associação para o tráfico - Inocorrência das hipóteses previstas no artigo 621 do CPP - Manutenção do decisum - Indeferimento da revisão criminal.
+Nas razões do recurso especial (e-STJ fls. 189/237), fundado nas alíneas a e c do permissivo constitucional, alega a parte recorrente violação dos artigos 240, §2º, e 157, §1º, do Código de Processo Penal; art. 33, §4º, e art. 28 da Lei n. 11.343/2006; e do art. 69 do Código Penal.
+Pede (i) a absolvição do acusado, pois a condenação está baseada em busca pessoal/domiciliar realizada ilegalmente, o que compromete todo o conjunto probatório e não há comprovação da materialidade do crime de tráfico, tampouco de associação para o tráfico. Subsidiariamente, requer a (ii) desclassificação da conduta para a figura típica do art. 28 da Lei de Drogas, ao argumento de que a quantidade de drogas apreendida (87,26 g de maconha) é compatível com o porte para consumo pessoal. Vencido nesses pontos, pede a (iii) aplicação do redutor do tráfico privilegiado e (iv) revogação da pena de perdimento dos bens (veículo e dinheiro), pois não ficou demonstrada a existência de vínculo com a suposta prática criminosa. Em último hipótese, pleiteia a concessão da ordem, de ofício, para sanar as ilegalidades supra mencionadas.
+Apresentadas contrarrazões (e-STJ fls. 248/252), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 258/261), tendo sido interposto o presente agravo (e-STJ fls. 264/276).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 308/316).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo.
+O recurso especial, entretanto, não merece conhecimento, por ausência de impugnação específica aos fundamentos do acórdão recorrido.
+Explico.
+O Tribunal de Justiça local indeferiu a revisão criminal por ausência de provas novas hábeis a alterar a conclusão da sentença condenatória transitada em julgado. Reiterou a legitimidade da busca e apreensão realizada pelos agentes policiais, em razão de denúncias acerca da prática delitiva e de existência de fundadas suspeitas, no momento da abordagem. Copiando excertos do acórdão que manteve a condenação do agente, ratificou estarem presentes os requisitos comprobatórios da materialidade delitiva, bem com a associação criminosa, destacando a quantidade de substâncias entorpecente apreendida. Afastou, por fim, a possibilidade de aplicação da minorante do tráfico privilegiado, ante a reincidência do recorrente. Confira-se, por oportuno, alguns excertos do acórdão recorrido (e-STJ fls. 158 e ss. - grifei):
+ ..
+Na ocasião, havia motivos suficientes para que os policiais abordassem o revisionando e procedessem às buscas, tanto pessoal, como no veículo e posteriormente no Moto Clube, sendo certo que havia diversas denúncias, na época, de que praticavam o crime de tráfico e associação, bem como apontando que no imóvel também era praticado o delito.
+Soma-se a isso relatório de filmagens acostados às fls. 504/510 de que o peticionário e os demais indivíduos que com ele estavam, frequentavam o local, justamente onde foram encontrados os entorpecentes e anotações do tráfico, o que corrobora as denúncias ora levantadas.
+Além disso, tem-se o fato de que, ao abordarem Maciel, encontraram em seu poder certa quantidade de drogas, tudo a corroborar as suspeitas da ocorrência da mercancia nefanda.
+ ..
+Consoante se depreende dos autos principais, o peticionário foi condenado como incurso nos artigos 33, caput, e 35, caput, da Lei nº 11.343/06, pois, nas circunstâncias narradas na denúncia, no dia 28 de julho de 2016, por volta das 18h20min, no cruzamento da Avenida Rio Branco com a Rua Fausto Oliveira, na Rua João Pachione, nº616, Jd. Adamantina, na Avenida Rio Branco, nº 2946, e na Rua Ovídio Albanex, nº 65, Jd. Eldorado, todos os endereços nesta cidade e comarca de Adamantina/SP, o peticionário, juntamente com outros três indivíduos, tinham em depósito, transportavam e traziam consigo, com a finalidade de entregar ao consumo de terceiros, sem autorização e em desacordo com determinação legal, 82,260 gramas de maconha; 268,210 gramas de maconha; 9,01 gramas de cocaína acondicionados em 11 eppendorf, 20,250 gramas de cocaína, em uma porção, dentro de um saco plástico, 6.770,00 gramas de maconha em 13 tabletes, dos quais 4 eram de tamanho grande e 9 eram de tamanhos diversos, e 722,380 gramas de maconha em 4 porções de tamanhos diferentes, além de mais 439,720 gramas de maconha.
+ ..
+Incabível a aplicação do redutor inserto no artigo 33, § 4º, da Lei nº 11.343/06, tendo em vista que a condição de reincidente do peticionário impede, por expressa previsão legal, tal benesse.
+Em relação ao regime de cumprimento de pena, mantém-se o inicial fechado, conforme já fixado pela r. sentença e mantido pelo v. acórdão, por seus próprios e jurídicos fundamentos, considerando-se aqui, a reincidência do réu, a gravidade e nocividade concreta de sua conduta, também evidenciada pela quantidade da droga apreendida, o que recomenda que o desconto da pena privativa de liberdade seja iniciado em regime mais severo.
+Ocorre que, no particular, a parte recorrente não impugnou especificamente, no seu recurso especial, os fundamentos específicos e claros do acórdão recorrido, se limitando a reiterar, de forma genérica, o mérito dos seus pedidos revisionais. Neste aspecto, incidem os enunciados das súmulas n. 283/STJ e n. 284/STF, aplicáveis por analogia, segundo o quais:
+Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No sentido alhures delineado, trago à balha os seguintes julgados:
+ ..
+1. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+2. No caso dos autos, a decisão impugnada determinou apenas a intimação do devedor para o cumprimento voluntário da sentença que homologou o acordo.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que é cabível o agravo de instrumento contra as decisões de natureza interlocutória, porquanto não acarretam a extinção do processo.
+4. Não é possível a aplicação do princípio da fungibilidade em casos de interposição de apelação contra decisão de natureza interlocutória, por configurar recurso manifestamente incabível, caracterizando erro grosseiro.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.189.455/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025, g.n.)
+ ..
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.636.573/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025, g.n.).
+ .. . A ausência de impugnação específica a todos os fundamentos da decisão recorrida também impede o conhecimento do recurso, conforme a jurisprudência consolidada sobre a necessidade de combate adequado aos óbices legais (arts. 932, III, do CPC e Súmulas 283 e 284 do STF).  ..
+(AREsp n. 2.807.858/RJ, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
