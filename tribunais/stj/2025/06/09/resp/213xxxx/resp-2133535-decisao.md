@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, recurso especial interposto por NETDRINKS COMERCIO E IMPORTACAO LTDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 38-43), assim ementado:
+AGRAVO DE INSTRUMENTO interposto contra decisão, em execução fiscal, de acolhimento parcial de exceção de pré-executividade. Inobservância pelo juízo "a quo" de que se tratava de outra exceção de pré-executividade ofertada nos autos da execução fiscal. Preclusão consumativa. Agravante que, quando da oferta da primeira exceção de pré-executividade, deveria ter deduzido toda a matéria naquela oportunidade, sendo inadmissível a fragmentação da defesa. Extinção da segunda exceção, de ofício, sem resolução do mérito. AGRAVO PREJUDICADO.
+A parte recorrente interpôs o presente recurso especial, com fundamento no art.105, III, a e c, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 10, 141 e 492 do CPC, bem como divergência jurisprudencial.
+O recurso especial não foi admitido porque "não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior", pela aplicação da Súmula n. 7/STJ e porque, em relação ao suposto dissídio, "deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ" e não foi comprovada a similitude fática entre os acórdãos (fls. 106-109).
+A parte recorrente interpôs agravo interno, com fundamento no art. 1.030, §2º, do CPC, o que levou à retratação e admissão do recurso especial.
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre destacar que o Superior Tribunal de Justiça não está subordinado ao juízo prévio de admissibilidade proferido pelo Tribunal de origem, haja vista a verificação dos pressupostos do recurso estar sujeita a duplo controle.
+Dos arts. 10, 141 e 492 do CPC
+Com relação às supostas violações aos arts. 10, 141 e 492 do CPC, o acórdão recorrido não decidiu acerca dos referidos dispositivos legais, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Falta, portanto, prequestionamento, condição de acesso às instâncias excepcionais.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu no caso destes autos.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, assim, a Súmula n. 282/STF e n. 356/STF.
+Ademais, os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os dispositivos apontados, o que importa na inviabilidade do recurso especial ante a incidência da Súmula n. 284/STF.
+Deste modo, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal indicados, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+De certo que a apresentação de razões recursais claras, organizadas e compreensíveis constitui ônus processual do recorrente, essencial à validade do ato recursal. No presente caso a parte recorrente não cumpriu adequadamente esse ônus ao formular suas razões recursais.
+Da divergência jurisprudencial
+Quanto ao dissídio, as mesmas razões que inviabilizaram o conhecimento do recurso especial, pela alínea "a", servem de justificativa também à alínea "c" do permissivo constitucional. Nesse mesmo sentido: AgInt nos EDcl no AREsp n. 2.152.218/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023; AgInt no AREsp n. 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023; e AgInt no AREsp n. 2.079.504/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Ainda que assim não fosse, observa-se que a divergência jurisprudencial não restou comprovada e demonstrada, nos moldes legais e regimentais.
+Isso posto, com fundamento no art. 932, III, do CPC e art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem honorários advocatícios recursais, pois "a jurisprudência do STJ consolidou o entendimento de que descabe fixar honorários recursais em decisão interlocutória em julgamento de Agravo de Instrumento (AgInt no AREsp 2.277.234/RJ, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
