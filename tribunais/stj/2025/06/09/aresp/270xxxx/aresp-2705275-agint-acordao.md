@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTOS. IMPUGNAÇÃO. NÃO OCORRÊNCIA. VERBA HONORÁRIA. MAJORAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada no tocante ao cômputo das atividades como especiais.
+3. O STJ possui remansosa jurisprudência no sentido de que "a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontra óbice na Súmula n.7/STJ, por revolver matéria eminentemente fática" (AgInt no REsp n. 2.116.534/SC, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+4. Agravo parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMARA SEVERINA DA SILVA contra decisão de minha relatoria, que conheceu do agravo para não conhecer do recurso especial, ante os óbices da Súmulas 7 do STJ, 283 e 284 do STF (e-STJ fls. 1.020/1.024).
+Em suas razões, a parte agravante sustenta que impugnou, em específico, os fundamentos do acórdão recorrido, não incidindo os óbices das Súmulas 182 do STJ, 283 e 284 do STF, bem como não é o caso de se aplicar a Súmula 7 do STJ.
+Quanto ao permissivo constitucional da alínea "a", aduz que expôs expressamente, em seus fundamentos, os dispositivos de lei tidos por violados, notadamente, relativos ao Código de Processo Civil. E, quanto ao art. 105, "c", III, do CPC/2015, afirma que não se pode aplicar o óbice das Súmulas 283 e 284 do STF, "pois tal dispositivo exige apenas que haja divergência entre precedentes de tribunais diferentes, incumbindo o STJ de uniformizar esta jurisprudência e replicar o seu entendimento para todo o ordenamento jurídico" (e-STJ fls. 1.034/1.035).
+Ressalta, ainda, que o excesso de formalismo não pode ser um entrave ao acesso à justiça, citando autores processualistas e julgados desta Corte.
+No mais, afirma que não pretende o reexame de provas, mas a demonstração de que a sua insurgência encaixa-se na exceção contida na jurisprudência do STJ, no tocante à fixação de honorários advocatícios em montante irrisório e na sucumbência recíproca, nos termos do art. 85, §§ 2º e 3º, e 86 do CPC/2015, pleiteando a sua majoração.
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTOS. IMPUGNAÇÃO. NÃO OCORRÊNCIA. VERBA HONORÁRIA. MAJORAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada no tocante ao cômputo das atividades como especiais.
+3. O STJ possui remansosa jurisprudência no sentido de que "a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontra óbice na Súmula n.7/STJ, por revolver matéria eminentemente fática" (AgInt no REsp n. 2.116.534/SC, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+4. Agravo parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+Na hipótese dos autos, o recurso não deve ser provido.
+Com efeito, na decisão ora recorrida, o recurso especial não foi conhecido, dentre outros fundamentos, porque não foram impugnados todos os fundamentos do aresto recorrido, tendo sido aplicado à espécie os óbices sumulares 283 e 284 do STF, conforme depreende-se do seguinte trecho (e-STJ, fls. 1.022/1.023):
+A pretensão recursal não pode ser conhecida no mérito, pois não foram impugnados todos os fundamentos do acórdão recorrido, os quais destaco (e-STJ fls. 689):
+Restou consignada na decisão agravada a impossibilidade de contagem dos períodos de 09/1997 a 10/1997, 01/1998 a 09/1999, 03/2000 a 05/2000, 07/2000 a 03/2003, sem a comprovação do recolhimento das respectivas contribuições, haja vista que a autora, na condição de autônoma, era obrigada ao recolhimento de contribuições previdenciárias, por iniciativa própria, a teor do disposto no artigo 142, Inc. II, do Decreto nº 77.077/76 e do artigo 139, inciso TI, do Decreto n. 89.312/84.
+Por sua vez, o recurso especial limitou-se a defender a impossibilidade de se condicionar o cômputo do tempo de serviço do trabalhador autônomo à contribuição, citando os arts. 11, V, "h", 14, h, e 55, caput, da Lei n. 8.213/1991, 60, I, do Decreto n. 3.048/1999, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.:
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+ ..
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar, especificamente, esses fundamentos, discorrendo, de forma genérica, acerca da incidência de tais óbices sumulares.
+Assim, forçosa se apresenta a observância, em relação a esses capítulos, do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ, razão pela qual não conheço do agravo interno nesse ponto.
+Deixo, ainda, de conhecer d o recurso no tópico em que consta "DO PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS - NÃO INCIDÊNCIA DA SÚMULA 7/STJ", uma vez que trata de matéria divorciada da realidade da decisão monocrática impugnada.
+Esta (a decisão recorrida) em momento algum aplicou a Súmula 7 do STJ como impeditivo para majoração de honorários, e, sim, aplicou o Enunciado Administrativo n. 7 para tratar de honorários recursais.
+Finalmente, quanto à sucumbência recíproca, registro que o Tribunal de origem a reconheceu nos seguintes termos (e- STJ fl. 656):
+Ante a sucumbência recíproca cada uma das partes arcará com as despesas que efetuou, inclusive verba honorária de seus respectivos patronos, nos termos do art. 21 do Código de Processo Civil.
+Ocorre que a alteração do julgado, a fim de aferir o real proveito econômico de cada parte na demanda original e na reconvenção, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. NOVA ANÁLISE DO AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA MÍNIMA. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVISÃO DO VALOR FIXADO. AUSÊNCIA DE IRRISORIEDADE. SÚMULA 7/STJ. RECURSO ACOLHIDO.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, a jurisprudência do Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. Havendo julgamento de matéria diversa da discutida nos autos, deve ser reconhecida a nulidade do acórdão embargado. É o caso deste processo.
+3. O acórdão recorrido reconheceu a existência de sucumbência recíproca, bem como que a controvérsia referia-se a valores ínfimos.
+4. Os honorários advocatícios foram fixados segundo as circunstâncias fáticas da causa. Assim, não sendo manifesta a irrisoriedade e reconhecendo a Corte de origem não ser o caso de sucumbência mínima, a jurisprudência desta Corte tem aplicado o disposto na Súmula 7 do STJ como óbice para a pretensão de revisão do valor fixado a título de verba honorária sucumbencial bem como o grau de decaimento de cada uma das partes.
+5. Embargos de declaração acolhidos, com efeitos modificativos, para, reconhecendo-se a nulidade do acórdão embargado, negar provimento ao agravo interno. (EDcl no AgInt nos EDcl no REsp n. 2.020.208/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
