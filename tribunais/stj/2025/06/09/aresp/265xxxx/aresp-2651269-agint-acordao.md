@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARREFOUR COMERCIO E INDUSTRIA LTDA da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso especial por incidência da Súmula 284 do Supremo Tribunal Federal (fls. 443/446).
+A parte agravante afirma que (fl. 456):
+Todos esses fundamentos foram devidamente delineados pelo Recurso Especial, não havendo o que se falar em incidência da Súmula nº 284/STF em face da clara delimitação da controvérsia no que tange ao cabimento da condenação da Fazenda Nacional ao pagamento de honorários de sucumbência em sede de Execução Fiscal extinta cujo débito objeto foi quase integralmente cancelado.
+Requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 465).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não há razão para dar provimento à pretensão recursal.
+O TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, no acórdão integrativo , decidiu o seguinte quanto aos honorários e ao princípio da causalidade (fl. 361):
+Neste contexto, conforme disposto no voto condutor (evento 24, RELVOTO1 - TRF2), nos Embargos à Execução Fiscal nº 0508479-53.2000.4.02.5101, a parte executada, ora embargante, conseguiu demonstrar a inexigibilidade de grande parte da dívida, restando a União Federal sucumbente quanto a este valor, tendo sido condenada em honorários advocatícios.
+Quanto ao restante, a executada efetuou o pagamento integral e a Execução Fiscal foi extinta pelo pagamento. E, em relação a este montante, não deve incidir o princípio da causalidade em desfavor da União Federal, já que os créditos eram exigíveis e não foi mantida indevidamente a execução, e a exequente, ora embargada, não foi sucumbente.
+Uma vez que a União Federal já foi condenada em honorários advocatícios nos Embargos à Execução Fiscal e na Execução Fiscal não houve causalidade e nem foi sucumbente, é incabível a sua condenação em honorários advocatícios na Execução Fiscal.
+Em seu recurso especial, a parte recorrente manifestou-se nestes termos (fls. 381/382):
+27. Ocorre que o crédito tributário aqui cobrado foi reduzido em 99,3% -- o débito principal histórico de R$ 225.516,64 foi reduzido para R$ 1.573,23 --, ou seja, a Recorrente sucumbiu em parte mínima do pedido, devendo a Recorrida responder pelas despesas e pelos honorários nestes autos, incidindo o princípio da causalidade e da sucumbência em desfavor da Recorrida.
+28. Como se vê, o v. acórdão recorrido insiste em não respeitar a posição pacífica deste STJ ao afirmar que o trabalho dos patronos da Recorrente nesta Execução Fiscal já teria sido remunerado pelos honorários advocatícios pagos pela Recorrida nos Embargos à Execução Fiscal. 29. Com todas as vênias, o racional exposto no v. acórdão de Evento 50 vai de encontro com a posição firmada no julgamento do RESP Repetitivo nº 1.520.710/SC, que reconhece a autonomia ainda que relativa da execução fiscal e dos correspondentes embargos, determinando a fixação dos honorários de sucumbência em ambas as ações, sem qualquer compensação entre eles:
+ ..
+30. Em última análise, enquanto o v. acórdão recorrido se utilizou da relação de conexão existente entre a execução fiscal e os embargos à execução para esvaziar por completo a fixação de honorários de sucumbência nestes autos, como se os honorários de um processo pudessem compensar os do outro, a posição histórica dessa Corte Superior, consolidada no RESP Repetitivo nº 1.520.710/SC, tem sido pela possibilidade de cumulação dos honorários em ambas as ações, desde que se observe o teto de 20% do benefício econômico/valor do débito na soma das verbas honorárias.
+Em nova análise dos autos, constato que a parte recorrente, em seu recurso, apresentou razões dissociadas do que fora decidido no acórdão recorrido, pois, ao contrário do que ela aduziu, o Tribunal de origem decidiu que não cabia condenação ao pagamento de honorários na execução fiscal porque:
+(1) já tinha havido condenação da União ao pagamento de honorários nos embargos à execução; e,
+(2) quanto ao valor remanescente pago na execução fiscal, não tinha havido causalidade nem sucumbência da União, pois os créditos eram exigíveis.
+Contudo, a parte recorrente fundamenta seu recurso na tese de que deveria haver cumulação de honorários em ambas as ações (execução fiscal e embargos à execução), o que faz com base no Recurso Especial Repetitivo 1.520.710/SC, razão pela qual estão as razões dissociadas do fundamento do princípio da causalidade adotado pelo acórdão recorrido.
+Incide, portanto, no presente caso, por analogia, a Súmula 284/STF.
+No que concerne à alegada violação do art. 86, parágrafo único, do Código de Processo Civil (CPC), o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO estabeleceu (fl. 318):
+Além disso, não cabe a alegação da apelante que deve ser usado o art. 86, parágrafo único do CPC. Isto porque o dispositivo se refere a um mesmo processo em que ambas as partes tenham sucumbido. Neste caso, a União Federal sucumbiu nos Embargos à Execução Fiscal e a apelante sucumbiu na Execução Fiscal, portanto, não cabe a aplicação do referido artigo.
+Em seu recurso especial, a parte recorrente argumentou (fls. 383/384):
+34. Além da violação apontada acima, o v. acórdão recorrido, data maxima venia, decidiu o feito como se ele tratasse de simples hipótese de pagamento do débito exequendo, em que pese a dívida originalmente executada tenha sido significativamente reduzida por força dos embargos à execução opostos pela Recorrente, tendo a mesma pago apenas o saldo remanescente, praticamente irrisório se comparado com o montante inicialmente cobrado.
+35. Inicialmente, a Recorrente ressalta que o presente recurso não tem por objetivo a análise da extensão da sucumbência de cada uma das partes, de forma a ensejar análise de fatos e provas, uma vez que se trata de fato incontroverso e jamais questionado pelas partes.
+36. Isso porque, a redução do crédito tributário cobrado nestes autos, em 99,3%, é fato incontroverso. A Recorrente pretende apenas questionar o entendimento adotado pelo Tribunal a quo para que este STJ indique a correta aplicação do dispositivo.
+37. Nesse sentido, a Recorrente colaciona parte do v. acórdão recorrido que entendeu que o artigo 86 do CPC não seria aplicável ao caso em tela na medida em que, por conta do pagamento de menos de 1% do débito, a Recorrente teria sucumbido na Execução Fiscal, mesmo após a redução de mais de 99% do débito exigido:
+ ..
+38. Por meio do v. acórdão recorrido, o Tribunal a quo entendeu que o cancelamento de mais de 99% do débito cobrado por meio da presente execução fiscal representaria, ainda assim, vitória exclusiva da Fazenda Pública.
+39. Ora, ao condenar a Recorrente ao pagamento das custas processuais e da taxa judiciária, e ao deixar de condenar a Recorrida ao pagamento de honorários sucumbenciais, o v. acórdão não observou que, na verdade, foi a Recorrida que sucumbiu em sua pretensão de cobrar da Recorrente o valor total objeto desta execução fiscal.
+40. Isso porque, como informado acima, do valor total cobrado por meio da presente execução fiscal (R$ 225.516,64, em valor histórico) apenas uma pequena e irrisória fração (R$ 1.573,23, em valor histórico) foi declarada válida. Assim, considerando que 99,3% do valor executado era indevido, não resta dúvida que se faz necessária a aplicação do parágrafo único do artigo 86 do CPC nesta ação de cobrança.
+41. Ora Excelência, não é razoável que a Recorrente, após sagrar-se vitoriosa de 99,3% da cobrança contra si indevidamente ajuizada, seja condenada ao pagamento das custas processuais e, pior ainda, que seus patronos deixem de receber os honorários de sucumbência aos quais fazem jus.
+Quanto ao ponto, a parte recorrente, igualmente, apresentou razões dissociadas do que consta do acórdão recorrido. Isso porque o Tribunal de origem decidiu que o art. 86, parágrafo único, do CPC não seria aplicável por se tratar de processos distintos (execução fiscal e embargos à execução), e não porque teria havido vitória exclusiva da Fazenda Pública. A parte recorrente, por sua vez, argumentou que o cancelamento de 99,3% do débito original representaria sucumbência mínima de sua parte, configurando, assim, vitória quase total em seu favor, sem, contudo, impugnar especificamente o fundamento adotado pelo Tribunal a quo de que o dispositivo invocado (art. 86, parágrafo único, do CPC) aplicava-se apenas quando a sucumbência ocorresse dentro do mesmo processo.
+Concluo que também está correta a decisão que não conheceu do recurso da parte ora agravante por aplicação da Súmula 284 do Supremo Tribunal Federal, por analogia.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
