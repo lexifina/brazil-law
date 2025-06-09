@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PETRÓLEO BRASILEIRO S/A - PETROBRAS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim resumido (fl. 1159):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. APELAÇÃO. IRRF. REPETIÇÃO DE INDÉBITO. PARTE ILEGÍTIMA. FONTE PAGADORA RESPONSÁVEL APENAS PELA RETENÇÃO E REPASSE, SEM SUPORTAR O ÔNUS FINANCEIRO DO TRIBUTO. APELAÇÃO DESPROVIDA.
+1. Trata-se de apelação interposta pela parte PETRÓLEO BRASILEIRO S. A. - PETROBRAS na ação ordinária, em face de sentença (Evento 14) que extinguiu o processo sem resolução do mérito, entendendo que a parte autora não era parte legítima para os pleitos apresentados.
+2. Sentença de ilegitimidade ativa da parte, por não ser o sujeito passivo do tributo e nem ter suportado o seu ônus financeiro, já que era simplesmente a fonte pagadora.
+3. Sustenta a PETROBRÁS que é parte legítima para pleitear a repetição de indébito, pois suportou o ônus financeiro do tributo, sendo necessária a aplicação do art. 20, II, a da IN 2055/21. Alega ainda que há outras fontes pagadoras que estão obtendo êxito na seara administrativa em seus pleitos de repetição de indébito.
+4. O valor reclamado decorre de retenção de IRRF da empresa fretadora, com a qual a PETROBRAS firmou contratos. Ocorre que a empresa fretadora, diante do desequilíbrio contratual ajuizou demanda em face da PETROBRÁS (nº 0182227-57.2017.8.19.0001), em que esta foi condenada a restituir os valores que não foram repassados.
+5. Apesar do pagamento feito pela PETROBRÁS à empresa fretadora, não se pode concluir que passou, então, a suportar o ônus financeiro do tributo, pois a ação ordinária não tinha cunho tributário, tendo sido determinada indenização à empresa fretadora e não a restituição do tributo.
+6. Logo, descabe a aplicação do art. 20, II, a da IN 2055/21, diante da ausência de comprovação da assunção do ônus financeiro do tributo pela PETROBRÁS.
+7. A alegação de que outras fontes pagadoras conseguiram êxito em suas repetições de indébito não se sustenta, uma vez que a apelante não apresentou qualquer detalhe de tais processos administrativos, não sendo possível verificar a similaridade das circunstâncias fáticas em cada situação.
+8. Portanto, deverá ser mantida a sentença por seus próprios fundamentos.
+9. Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 1203-1208).
+Em suas razões, a recorrente aponta como violados o art. 103 do Decreto-Lei 5.844/43 e os arts. 43, 45, parágrafo único, e 121, todos do Código Tributário Nacional. Defende que "pouco importa para aferir a legitimidade ativa, no caso dos autos, a assunção ou não do ônus financeiro do tributo" (fl. 1222).
+No que se refere à responsabilidade pela retenção e recolhimento do imposto, afirma que "No caso do IRRF sobre as remessas ao exterior, diferente do imposto sobre o produto do capital ou do trabalho, o imposto não pode ser cobrado diretamente do beneficiário dos rendimentos, seja pela dificuldade de tributação de pessoa física ou jurídica residente no exterior, seja pela impossibilidade jurídica de tal cobrança. Nesse caso, a fonte pagadora torna-se o sujeito passivo por substituição" (fl. 1223).
+Requer seja declarada a legitimidade ativa da Petrobrás para pleitear a restituição do IRPF recolhido em remessas ao exterior.
+As contrarrazões foram apresentadas às fls. 1242-1247.
+O recurso foi admitido à fl. 1253.
+Apresentando petição incidental, a recorrente suscitou a possibilidade de sobrestamento do feito até o exame do Tema 1287/STJ, o qual estaria diretamente relacionado com a matéria em debate (fls. 1258-1260).
+Instada a se manifestar, a Fazenda Nacional concordou com o pedido (fl. 1278).
+É o relatório.
+A Primeira Seção do STJ, ao apreciar os Recursos Especiais n. 2060432/RS, 2133370/SP e 2133454/SP, decidiu afetar à sistemática dos recursos repetitivos questão jurídica relacionada a "Discutir a legalidade da incidência do IRRF sobre os recursos remetidos ao exterior para pagamento de serviços prestados, sem transferência de tecnologia, por empresas domiciliadas em países com os quais o Brasil tenha celebrado tratado internacional para evitar a bitributação"
+O julgado produzido na ProAfR no REsp 2060432 (Tema 1287), sob a relatoria do Ministro Gurgel de Faria, foi assim resumido:
+TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038, TODOS DO CPC/2015 C/C ART. 256- I DO RISTJ. IMPOSTO DE RENDA RETIDO NA FONTE. REMESSA DE VALORES AO EXTERIOR. PAGAMENTO DE SERVIÇO SEM TRANSFERÊNCIA DE TECNOLOGIA. EMPRESA SEDIADA NO EXTERIOR. TRATADO INTERNACIONAL CELEBRADO PELO BRASIL PARA EVITAR A BITRIBUTAÇÃO .
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Discutir a legalidade da incidência do IRRF sobre os recursos remetidos ao exterior para pagamento de serviços prestados, sem transferência de tecnologia, por empresas domiciliadas em países com os quais o Brasil tenha celebrado tratado internacional para evitar a bitributação".
+II. II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016)
+Por considerar que a hipótese pode afetar o resultado da demanda, sendo prejudicial à análise do recurso especial, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: EDcl no AgRg no REsp n. 1.429.700/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1287), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+TRIBUTÁRIO. IRPF. REMESSA DE VALORES AO EXTERIOR. SERVIÇO SEM TRANSFERÊNCIA DE TECNOLOGIA. TEMA 1287. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
