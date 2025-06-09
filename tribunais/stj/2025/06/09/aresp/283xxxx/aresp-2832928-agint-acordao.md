@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. INÉRCIA DA PARTE. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. A Corte Especial do STJ, na sessão do dia 5/2/2025, no julgamento da QO no AREsp 2.638.376/MG, firmou entendimento segundo o qual o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei 14.939/2024, tem aplicação imediata.
+4. Na hipótese, a parte agravante não apresentou, no ato de interposição do agravo em recurso especial, documento válido que comprovasse a ocorrência de feriado local ou a suspensão de expediente forense. Oportunizada a regularização posterior, a agravante se manteve inerte, sendo de rigor a manutenção da decisão que não conheceu do recurso por intempestividade.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SELMA PERPÉTUA CARVALHAES contra decisão monocrática proferida pela Presidência desta Corte (e-STJ, fls. 198-199), que não conheceu do agravo em recurso especial, com fundamento na intempestividade do recurso especial, embora previamente concedida oportunidade para comprovação da suspensão, interrupção ou prorrogação do prazo recursal.
+Em suas razões recursais, a parte agravante afirma a tempestividade do recurso especial interposto em 1º/11/2024, sob o argumento de que, "na respeitável decisão, o ilustre magistrado não se utilizou da contagem do ponto facultativo de 24/10 e do feriado no dia 28/10 em comemoração ao Dia do Servidor Público".
+Assevera que, em 9/10/2024, data posterior à publicação do acórdão recorrido, em 8/10/2024, é que foi publicado o Decreto Judiciário TJGO n. 4.407/2024, que alterou o feriado do dia 28/10/20 24 para 1º/11/2024, reduzindo indevidamente o prazo recursal e prejudicando o direito adquirido à contagem.
+Por fim, aponta a comprovação da alteração do feriado no agravo em recurso especial, além do fato de o calendário e o decreto judiciário do Tribunal de origem serem documentos públicos.
+Não houve abertura de prazo para impugnação, pela ausência de representação da parte nos autos (e-STJ, fl. 228).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. INÉRCIA DA PARTE. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. A Corte Especial do STJ, na sessão do dia 5/2/2025, no julgamento da QO no AREsp 2.638.376/MG, firmou entendimento segundo o qual o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei 14.939/2024, tem aplicação imediata.
+4. Na hipótese, a parte agravante não apresentou, no ato de interposição do agravo em recurso especial, documento válido que comprovasse a ocorrência de feriado local ou a suspensão de expediente forense. Oportunizada a regularização posterior, a agravante se manteve inerte, sendo de rigor a manutenção da decisão que não conheceu do recurso por intempestividade.
+5. Agravo interno a que se nega provimento.
+VOTO
+O presente recurso não merece prosperar.
+O prazo para a interposição do recurso especial é de 15 (quinze) dias úteis, nos termos do art. 1.003, § 5º, c/c o art. 219, caput, do CPC/2015.
+No caso dos autos, conforme certidão de fl. 151 (e-STJ), o acórdão recorrido foi publicado em 8/10/2024 - terça-feira.
+Desse modo, nos termos do art. 231, V, do CPC/2015, c/c o art. 5º, §§ 1º, 2º e 3º, da Lei 11.419/2006, o prazo recursal teve por termo inicial 9/10/2024 (quarta-feira) e por termo final 30/10/2024 (quarta-feira), considerando-se o feriado local de 24/10/2024, por ter sido declarado na decisão de inadmissibilidade, data anterior à interposição do recurso especial em 1º/11/2024.
+Cumpre destacar a inviabilidade de considerar as alegações sobre a ocorrência de feriado local do dia do servidor (28/10/2024) e sua alteração para 1º/11/2024, porque não houve comprovação documental, mas apenas citação e colagem, na peça do agravo em recurso especial, de parte de tabela atribuída ao calendário do Tribunal local. Todavia, ainda que fosse possível considerar o aludido feriado, o prazo recursal teria expirado em 31/10/2024 (quinta-feira).
+Por fim, conforme já relatado, previamente ao proferimento da decisão monocrática ora agravada, a Secretaria Judiciária do STJ concedeu oportunidade de a parte comprovar suspensão, interrupção ou prorrogação do prazo recursal (e-STJ, fls. 192-194), providência que atendeu à diretriz posteriormente traçada na Questão de Ordem julgada pela Corte Especial do Superior Tribunal de Justiça no AREsp 2.638.376/MG. Entretanto, a parte permaneceu inerte (e-STJ, fl. 196).
+Somente agora, por ocasião da interposição do agravo interno, é que foram juntados documentos a fim de comprovar as alegações, circunstância imprestável, diante da preclusão temporal da oportunidade concedida.
+Assim, em decorrência da preclusão consumativa operada pela inércia da parte recorrente, é inviável o saneamento posterior para a comprovação da tempestividade recursal.
+Assim, considerando que a parte agravante não apresentou documento válido que comprovasse, no ato de interposição do agravo em recurso especial, a suspensão do prazo processual em razão dos feriados locais e, posteriormente intimada, também não regularizou a tempestividade recursal, é de rigor a manutenção da decisão da Presidência desta Corte, que não conheceu do recurso por intempestividade.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
