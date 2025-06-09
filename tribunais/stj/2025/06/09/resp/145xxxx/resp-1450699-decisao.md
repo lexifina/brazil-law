@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 85):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO AOS SÓCIOS. CONTRIBUIÇÕES AO FGTS. SÚMULA 353 DO STJ. SOCIEDADE POR COTAS DE RESPONSABILIDADE LIMITADA. ART. 10 DO DECRETO Nº 3.708/19. INADIMPLEMENTO. NOME NA CDI.
+- Inaplicáveis ao caso as normas do Código Tributário Nacional. Súmula 353 do E. STJ.
+- Tratando-se a executada de sociedade por cotas de responsabilidade limitada, o redirecionamento da execução aos sócios viabiliza-se somente na hipótese de "excesso de mandato e pelos atos praticados com violação do contrato ou da lei", consoante disposto no art. 10 do Decreto nº3.708/19.
+- O simples inadimplemento não configura infração à lei.
+- O fato do nome dos sócios constar da CDI também não enseja o redirecionamento aos mesmos. Precedente da Turma.
+- Agravo desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 117/123).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos seguintes dispositivos legais:
+(I) 535 do CPC/73; 5º, XXXV e LIV, da CF, na medida em que o acórdão supracitado apresentou omissões não supridas;
+(II) 568, I, 592 do CPC; 50 do CC; 10 do Decreto n. 3.708/19; 4º, V, e § 2º, da Lei n. 6.830/80; 23, § 1º, I e V, da Lei n. 8.036/90; e 47 do Decreto n. 99.684/90; sustentando a possibilidade de redirecionamento da execução fiscal contra os sócios gerentes, bastando para tanto o não pagamento das contribuições devidas, no caso, o FGTS.
+Em sede de juízo de retratação frente ao que restou decidido pelo STJ no julgamento do Tema Repetitivo n. 630, foi proferido novo acórdão, nos seguintes termos (fl. 374):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONTRIBUIÇÃO AO FGTS. EXCLUSÃO DE SÓCIO. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. TEMA REPETITIVO 630 DO STJ.
+I - Agravo de Instrumento da União interposto em face de decisão de primeiro grau que determinou a exclusão de sócios da pessoa jurídica executada do polo passivo de execução fiscal (proposta para cobrança de débitos relativos às contribuições ao FGTS) em razão o advento da Súmula 353 do STJ.
+II - Feito que retorna a julgamento em razão de decisão proferida pelo E. STJ para que se efetue o juízo de conformidade entre o acórdão proferido por esta Corte e atese firmada no "leading case" (REsp 1.371.128/RS). Tese Jurídica fixada pelo STJ no Tema Repetitivo 630: "Em execução fiscal de dívida ativa tributária ou não-tributária, dissolvida irregularmente a empresa, está legitimado o redirecionamento ao sócio-gerente".
+III - Dissolução irregular não comprovada.
+IV - No caso dos autos, a inclusão do sócio no polo passivo é inadmissível em razão de não ter restado demonstrada a dissolução irregular da empresa devedora ou qualquer outro ilícito.
+V - Mantida a decisão colegiada anteriormente proferida vez que em consonância com o precedente vinculante da Corte Superior.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica (fls. 139/140), sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+No mais, o acórdão impugnado assim está fundamentado (fl. 84):
+Com efeito, uma vez inaplicáveis as disposições do CTN às contribuições para o FGTS e tratando-se a executada de sociedade por cotas de responsabilidade limitada, o redirecionamento da execução aos sócios viabiliza-se somente na hipótese de "excesso de mandato e pelos atos praticados com violação do contrato ou da lei"; consoante disposto no art. 10 do Decreto n 0 3.708/19, o que não restou configurado no caso, também em razão da inaplicabilidade das regras do CTN ao caso dos autos o fato do nome dos sócios constar da CDI não ensejando o redirecionamento.
+Por estes fundamentos, nego provimento ao agravo de instrumento.
+É o voto.
+Como se observa, a Corte Regional, depois de considerar inaplicáveis os dispositivos do CTN (dada a natureza não tributária do FGTS), concluiu que o caso era de simples inadimplemento da pessoa jurídica, devendo a execução prosseguir apenas contra aquela entidade, e não contra a pessoa física de seus sócios, na medida em que não vislumbrada situação de dissolução irregular, hipótese em que o Superior Tribunal de Justiça passou a admitir a possibilidade de redirecionamento do processo executivo.
+De outra parte, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de se cotejar a higidez da CDA quanto ao atendimento dos requisitos legais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Assim, o acórdão hostilizado guarda sintonia com a orientação jurisprudencial desta Corte Superior.
+Nesse viés:
+EXECUÇÃO FISCAL. FGTS. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA EMPRESA. PRAZO PRESCRICIONAL. ARE 709.212/DF. RESSALVA. PROCESSOS EM TRAMITAÇÃO. NULIDADE DA CDA NÃO CONFIGURADA. SÚMULA 7 DO STJ.
+1. Esta Corte permite o redirecionamento da execução fiscal contra o sócio-gerente, desde que ele tenha agido com excesso de poderes, infração à lei ou estatuto, contrato social, ou na hipótese de dissolução irregular da empresa (art. 135 do CTN). Aplicação ao caso da Súmula 435 do STJ.
+2. A Primeira Seção do STJ, ao julgar o REsp 1.353.826/SP  Tema Repetitivo n. 630/STJ , de relatoria do Ministro Mauro Campbell Marques, submetido ao regime do art. 543-C do CPC, decidiu que também é possível a responsabilização do sócio e o redirecionamento para ele da Execução Fiscal de dívida ativa não tributária nos casos de dissolução irregular da empresa.
+3. O enunciado da Súmula 435/STJ não deixa dúvida quanto ao entendimento de que "se presume dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente". Portanto, cabe ao devedor provar que a dissolução da empresa ocorreu de maneira regular.
+4. Não há como aferir eventual concordância da CDA com os requisitos legais exigidos sem que se analise o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice na sua Súmula 7, cuja incidência é induvidosa no caso.
+5. Seguindo recente entendimento firmado pelo STF, no julgamento com repercussão geral do ARE nº 709212/DF, Rel. Ministro Gilmar Mendes, a prescrição da Ação para cobrança do FGTS é de cinco anos. Contudo, houve modulação dos efeitos da decisão proferida no ARE nº 709212/DF, para que nas ações em curso seja aplicado o que acontecer primeiro, o prazo prescricional de trinta anos, contados do termo inicial, ou de cinco anos, a partir da referida decisão. Portanto, a prescrição intercorrente para execução do FGTS, na hipótese sub judice, finda-se em trinta anos.
+6. Recurso Especial não provido.
+(REsp n. 1.594.948/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2016, DJe de 2/9/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO FISCAL. FGTS. NOME DO SÓCIO NA CDA. INOVAÇÃO EM SEDE RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. NATUREZA NÃO TRIBUTÁRIA. NÃO APLICAÇÃO DAS NORMAS CONSTANTES DO ART. 135 DO CTN. PRECEDENTES.
+1. A tese referente à possibilidade de inclusão no pólo passivo da execução fiscal do sócio cujo nome consta da CDA, além de não ter sido debatida pela Corte a quo, carecendo, portanto, de prequestionamento, configura verdadeira inovação, inviável em sede de agravo regimental em face da ocorrência da preclusão consumativa, tendo em vista que esse argumento não foi levantado nas razões do recurso especial.
+2. O acórdão recorrido se orientou no mesmo sentido da jurisprudência desta Corte quanto à inaplicabilidade das disposições do CTN (art. 135) no caso de cobrança de contribuições devidas ao FGTS em face da natureza não-tributária das mesmas.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.094.667/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2009, DJe de 1/6/2009.)
+ANTE O EXPOSTO, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
