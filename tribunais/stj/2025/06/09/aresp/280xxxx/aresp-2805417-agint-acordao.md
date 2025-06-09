@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, o fundamento por ela utilizado, não deve ser conhecido.
+2. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por FILGUEIRA FACTORING FOMENTO MERCANTIL LTDA. contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial.
+Ação: execução de título extrajudicial ajuizada pela agravante em face de DIVINO CEZAR RIBEIRO E CIA LTDA. ME.
+Decisão: indeferiu o pedido de sucessão processual.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PESSOA JURÍDICA NO POLO PASSIVO DA EXECUÇÃO. SOCIEDADE LIMITADA. ALEGADA DISSOLUÇÃO IRREGULAR PELA FALTA DE RECOMPOSIÇÃO DA PLURALIDADE DE SÓCIOS. INEXISTÊNCIA DE PERDA AUTOMÁTICA DA PERSONALIDADE JURÍDICA E DA AUTONOMIA PATRIMONIAL. IMPOSSIBLIDADE DE SUCESSÃO PROCESSUAL E REDIRECIONAMENTO DA EXECUÇÃO AO SÓCIO REMANSCENTE. DECISÃO MANTIDA. 1. Segundo entendimento do Superior Tribunal de Justiça, a sucessão processual da pessoa jurídica pelos sócios em virtude da sua extinção, por aplicação analógica do artigo 110 do Código de Processo Civil, deve ocorrer com os temperamentos próprios do tipo societário e da gradação da responsabilidade pessoal dos sócios (STJ, 3ª Turma, Recurso Especial n. 1.784.032/SP, Relator Ministro Marco Aurélio Bellizze, DJ de 4/4/2019). 2. Tratando-se de sociedade limitada, condiciona-se o deferimento da sucessão à demonstração da existência de patrimônio líquido positivo e de sua efetiva distribuição entre os sócios em procedimento de liquidação, já que, a teor do artigo 1.052 do Código Civil, eles não respondem pelos prejuízos da sociedade após a integralização do capital social, salvo eventual superação episódica da personalidade jurídica (desconsideração da personalidade jurídica), mediante incidente processual próprio, o que não é a discussão vertente, mesmo porque a unipessoalidade não importa, por si só, em confusão patrimonial. 3. Além disso, no caso, houve a morte do sócio e a continuidade das atividades empresárias sem a regularização do registro empresarial, permanecendo a sociedade com uma sócia, cuja circunstância não implica necessariamente a extinção da pessoa jurídica e, de plano, responsabilidade ilimitada do sócio remanescente. 4. À luz do ordenamento jurídico então vigente (redação do Código Civil anterior às Leis n. 13.874/2019 e 14.195/2021), inexistia previsão de que a ausência de regularização do quadro societário acarretaria a imediata perda da autonomia patrimonial, com a responsabilização do sócio remanescente de forma pessoal e ilimitada. 5. De outro lado, ainda que ventilada a dissolução irregular da sociedade, a ausência de distrato não perite verificar se houve assunção de responsabilidade pelo passivo por sócio determinado, o que, igualmente, impede o deferimento do requerimento ante a ausência de informações suficientes. Precedentes deste Tribunal de Justiça. 6. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. (e-STJ, fl. 64)
+Decisão agravada proferida pela Presidência desta Corte: não conheceu do agravo em recurso especial interposto pela agravante, em razão da ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: alega que rebateu todos os óbices apresentados e requer a reconsideração do decisum.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, o fundamento por ela utilizado, não deve ser conhecido.
+2. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ, porque a agravante deixou de impugnar especificamente o óbice invocado pelo Tribunal de origem para inadmitir o apelo extremo, qual seja, a Súmula 83 do STJ.
+Da análise das razões do agravo em recurso especial, verifica-se que, de fato, não houve a adequada impugnação ao óbice acima mencionado.
+Cumpre registrar que, para afastar o óbice da Súmula 83/STJ, deve a parte demonstrar que as razões de decidir do acórdão recorrido estariam em discordância com o entendimento desta Corte, colacionando em suas razões recursais julgados recentes deste Tribunal acerca da matéria, o que não foi realizado pela agravante. Assim, correta a aplicação da Súmula 182/STJ, pela decisão agravada, que fica mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo.
