@@ -1,0 +1,113 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. OFENSA AO ARTIGO 421 DO CÓDIGO CIVIL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. SÚMULA Nº 7/STJ. INCIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA Nº 284/STF. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DE MULTA. ARTIGOS 80 E 1.026, § 2º, DO CPC. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+2. O revolvimento da questão acerca da produção de prova pericial demandaria o reexame da prova dos autos, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+3. Quanto ao dissídio jurisprudencial, nota-se a ausência de indicação do dispositivo legal interpretado de forma divergente, o que atrai a incidência do óbice da Súmula nº 284/STF.
+4. É inviável rever o entendimento firmado pelas instâncias ordinárias, acerca da configuração de litigância de má-fé, sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por CREFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. PRELIMINARES AFASTADAS. TAXA DE JUROS REMUNERATÓRIOS QUE SE REVELA ABUSIVA. POSSIBILIDADE DE COMPENSAÇÃO/REPETIÇÃO DOS VALORES PAGOS A MAIOR. MORA DESCARACTERIZADA. MANUTENÇÃO DA SENTENÇA.
+RECURSO DE APELAÇÃO DESPROVIDO." (e-STJ fl. 663).
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 687/689).
+Nas razões do recurso especial, a recorrente aponta violação do artigo 421 do Código Civil, sustentando, em síntese, que no mútuo bancário, os juros remuneratórios não podem ser considerados abusivos apenas se comparadas as taxas contratadas com a média de mercado.
+Indica contrariedade dos artigos 355, I e II, e 356, I e II, do Código de Processo Civil, defendendo o acolhimento do pedido de realização de prova pericial, que argumenta ser imprescindível para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual.
+Aponta divergência jurisprudencial entre o acórdão recorrido e o Recurso Especial nº 1.821.182/RS, acerca da abusividade dos juros remuneratórios.
+Por fim, alega, ainda, afronta aos artigos 80, VII, e 1.026, § 2º, do Código de Processo Civil, insurgindo-se contra a fixação da multa nos embargos de declaração, que defende não serem protelatórios e nem caracterizarem litigância de má-fé, pois opostos com a finalidade de provocar o prequestionamento da matéria em discussão nos autos, nos termos da Súmula nº 98/STJ.
+A parte contrária não apresentou contrarrazões (e-STJ fl. 884).
+O recurso especial foi inadmitido na origem, daí o presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. OFENSA AO ARTIGO 421 DO CÓDIGO CIVIL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. SÚMULA Nº 7/STJ. INCIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA Nº 284/STF. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DE MULTA. ARTIGOS 80 E 1.026, § 2º, DO CPC. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+2. O revolvimento da questão acerca da produção de prova pericial demandaria o reexame da prova dos autos, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+3. Quanto ao dissídio jurisprudencial, nota-se a ausência de indicação do dispositivo legal interpretado de forma divergente, o que atrai a incidência do óbice da Súmula nº 284/STF.
+4. É inviável rever o entendimento firmado pelas instâncias ordinárias, acerca da configuração de litigância de má-fé, sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Insurge-se a recorrente contra o acórdão do Tribunal de origem que reconheceu a abusividade dos juros remuneratórios em contratos bancários firmados entre as partes ora litigantes.
+Aponta, para tanto, contrariedade ao artigo 421 do Código Civil, que dispõe o seguinte:
+"Art. 421. A liberdade contratual será exercida nos limites da função social do contrato.
+Parágrafo único. Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual."
+Verifica-se que o dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela parte recorrente, situação em que a jurisprudência desta Corte Superior considera deficiente a fundamentação recursal, incidindo, por analogia, o óbice contido na Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ERRO GROSSEIRO NA INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. OMISSÃO. NÃO CONFIGURADA. ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO DESTA CORTE. ARGUMENTAÇÃO DEFICIENTE. AGRAVO NÃO PROVIDO.
+(..)
+3. É deficiente a argumentação do recurso especial quando o dispositivo de lei apontado como violado não possui comando normativo para sustentar a tese defendida pela parte recorrente. Incidência da Súmula n. 284 do STF.
+4. Agravo interno a que se nega provimento" (AgInt nos EDcl no AREsp 2.212.697/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DO IMÓVEL. DANO M ORAL CONFIGURADO. REVISÃO DO JULGAMENTO IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 944 DO CC. AUSÊNCIA DE COMANDO NORMATIVO PARA AMPARAR A TESE DA APLICAÇÃO DE JUROS DE MORA DESPROPROCIONAL. APLICAÇÃO DA SÚMULA 284/STF.
+(..)
+4. O apontado art. 944 do CC não têm comando normativo para amparar a tese de juros, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+(..)
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO" (AgInt no AREsp 2.059.944/MG, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022).
+Relativamente à apontada violação dos artigos 355, I e II, e 356, I e II, do Código de Processo Civil, o acórdão recorrido assim decidiu acerca da produção de prova pericial:
+"(..)
+Observa-se, no caso concreto, as partes sempre foram intimadas para se manifestar sobre as questões debatidas nos autos, inexistindo qualquer surpresa decisória. Ademais o objeto da lide é referente à matéria eminentemente de direito, não havendo necessidade de extensiva dilação probatória." (e-STJ fl. 659 - grifou-se).
+O revolvimento da questão demandaria o reexame da prova dos autos, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. OMISSÃO. AUSÊNCIA. INCONFORMISMO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO DA DÍVIDA. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que era desnecessária a dilação probatória. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 2.219.123/SC, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CERCEAMENTO DE DEFESA. NEGATIVA DE OITIVA DE TESTEMUNHAS. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.951.846/MT, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO COLETIVA. CONSÓRCIO. DESISTÊNCIA E EXCLUSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. ASSOCIAÇÃO. LEGITIMIDADE ATIVA. ESTATUTO SOCIAL. DIREITOS INDIVIDUAIS HOMOGÊNEOS. CARACTERIZAÇÃO. NOTIFICAÇÃO DOS DESISTENTES. NÃO COMPROVAÇÃO. SÚMULA Nº 283/STF. CLÁUSULA PENAL. SÚMULA Nº 5/STJ. PERÍCIA COMPLEMENTAR. SUFICIÊNCIA DE PROVAS. LIVRE CONVENCIMENTO. SÚMULA Nº 7/STJ. PEDIDO. RESTITUIÇÃO INTEGRAL. REDUTORES. FUNDAMENTO NÃO ATACADO. VALORES. DEVOLUÇÃO. CORREÇÃO MONETÁRIA. SÚMULA Nº 35/STJ. PRESCRIÇÃO QUINQUENAL. INADMISSIBILIDADE. DIVULGAÇÃO. REDE MUNDIAL DE COMPUTADORES. PÁGINAS OFICIAIS E DO FORNECEDOR. SUFICIÊNCIA. HONORÁRIOS. ART. 18 DA LEI Nº 7.347/1985. AFASTAMENTO. SIMETRIA. EFEITOS ERGA OMNES. LIMITAÇÃO TERRITORIAL. ÓRGÃO JUDICANTE. CONCLUSÃO DO RE Nº 1.101. 937/SP. OBSERVÂNCIA.
+(..)
+11. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento, sendo inviável rever as provas dos autos (Súmula nº 7/STJ).
+(..)
+20. Recurso especial parcialmente conhecido, e nessa parte, parcialmente provido" (REsp 1.304.939/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/2/2019, DJe de 6/3/2019).
+Quanto ao dissídio jurisprudencial, nota-se a ausência de indicação do dispositivo legal interpretado de forma divergente, o que atrai a incidência do óbice da Súmula nº 284/STF.
+A simples menção da norma federal no corpo do recurso não é suficiente para suprir a exigência constitucional. É indispensável a demonstração específica de qual artigo de lei federal foi interpretado de forma dissonante pelos arestos confrontados.
+Confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MATERIAL E MORAL. PROMESSA DE COMPRA E VENDA DE UNIDADE DE APARTAMENTO RESIDENCIAL POR MEIO DO SUBSIDIO DO PROGRAMA MINHA CASA, MINHA VIDA. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. ALEGAÇÃO DE AUSÊNCIA DE DANO MORAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. INTERPRETAÇÃO DIVERGENTE. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. ATRASO NA ENTREGA DO IMÓVEL QUE ULTRAPASSOU A ESFERA DO MERO ABORRECIMENTO. CIRCUNSTÂNCIAS EXCEPCIONAIS. REVISÃO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. CLÁUSULA DE TOLERÂNCIA DE 180 DIAS. AUSÊNCIA DE DISCUSSÃO PELO TRIBUNAL A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.ºs 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n.º 284 do STF.
+3. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula n.º 284 do STF.
+(..)
+6. Agravo interno não provido" (AgInt no AREsp 1.834.881/RJ, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Quanto às multas dos artigos 80 e 1.026, § 2º, do Código de Processo Civil, o Tribunal estadual assim fundamentou a sua aplicação:
+"(..)
+Os embargos de declaração constituem remédio processual que objetiva esclarecer obscuridade ou eliminar contradição, assim como suprir omissão de ponto ou questão sobre o qual deveria o Julgador se manifestar, além de corrigir eventual erro material, consoante se verifica das expressas hipóteses trazidas nos incisos do art. 1.022 do CPC.
+A par disto, resta evidente que tal via não tem por finalidade nova apreciação sobre questões já exaustivamente analisadas quando do julgamento do recurso, mormente quando a decisão embargada foi devidamente fundamentada, com a estrita observância da legislação pátria.
+(..)
+No caso em exame, devem ser desacolhidos os presentes embargos de declaração, porque efetivamente não configuradas quaisquer das hipóteses elencadas pelo referido dispositivo legal, evidenciando-se a oposição destes aclaratórios verdadeira tentativa de rediscussão da matéria.
+(..)
+Por fim, mesmo que pretenda prequestionar a matéria para fins de recurso especial ou extraordinário, os embargos de declaração devem estar fundados nas hipóteses do art. 1.022 do CPC, o que não se verifica no caso, considerando que o presente expediente tem o manifesto propósito de alcançar efeitos infringentes a temas conhecidos, analisados e apreciados por esta instância, em inócua tentativa de redirecionamento de posição já adotada quanto às questões judiciais discutidas.
+De toda sorte, por força do art. 1.025 do CPC, a matéria ventilada nas razões de apelo encontra-se automaticamente prequestionada para fins de interposição de recurso junto às instâncias superiores.
+Por fim, considerando os embargos manifestamente protelatórios, com reiteração de teses debatidas no acórdão, cabível a aplicação de multa de 2% sobre o valor atualizado da causa a ser pago pela parte embargante, nos termos do art. 1.026, § 2º, do CPC." (e-STJ fls. 687/688).
+O revolvimento da questão, a fim de afastar o caráter protelatório dos embargos de declaração opostos na origem, bem como o reconhecimento da litigância de má-fé da ora agravante, demandaria reapreciação das circunstâncias fático-probatórias, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO.
+RESPONSABILIDADE CIVIL. USURPAÇÃO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA. SÚMULA N. 123 DO STJ. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. PENSÃO. PROVA. VÍNCULO LABORAL. SALÁRIO. EXISTÊNCIA. REVER. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. VIOLAÇÃO DOS ARTS. 9º, 10 E 373 DO CPC. TESE. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. MULTA PROCESSUAL IMPOSTA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO DE ARGUMENTOS. PERTINÊNCIA DA MULTA. SITUAÇÃO ANALISADA PELO TRIBUNAL DE ORIGEM. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+(..)
+8. Agravo interno desprovido" (AgInt no AREsp 2.124.347/PE, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. OFENSA A ENUNCIADO DE SÚMULA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA. ARTS. 489, § 1º, IV, e 1.022, I e II, DO CPC. OMISSÃO. INEXISTÊNCIA. SIMULAÇÃO E USUCAPIÃO CONFIGURADAS E APLICAÇÃO DE MULTA NOS EMBARGOS DE DECLARAÇÃO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, no sentido de que estão evidenciadas a simulação no contrato de compra e venda e a usucapião, bem como é cabível a aplicação da multa nos embargos declaratórios, foi baseada no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame dos fatos e provas, o que é vedado nesta fase recursal. Incidência das Súmulas n. 5 e 7/STJ.
+(..)
+Agravo interno improvido" (AgInt nos EDcl no AREsp 2.331.331/MS, Relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGÊNCIA E DISTRIBUIÇÃO. CONCESSIONÁRIOS DE VEÍCULOS FORD. AÇÃO DE COBRANÇA DE CRÉDITOS DE IPI DECORRENTES DE DECISÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REFORMATIO IN PEJUS. NÃO CARACTERIZAÇÃO. APELAÇÃO. EFEITO DEVOLUTIVO. INVIABILIDADE DA APLICAÇÃO DA TAXA SELIC. CONCLUSÕES PAUTADAS EM FATOS E PROVAS, BEM COMO INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO INVIÁVEL. SÚMULAS 5 E 7/STJ. CONDIÇÃO SUSPENSIVA. AFASTAMENTO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. JUNTADA DE DOCUMENTOS NOVOS. PEDIDO IMPROCEDENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA PROCESSUAL POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA E LITIGÂNCIA DE MÁ-FÉ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. CABIMENTO DA MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO IMPROVIDO.
+(..)
+4. 1. Além disso, reverter a conclusão da Corte local para acolher a demanda recursal, quanto à inexistência de ato atentatório à dignidade da justiça e litigância de má-fé, demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno improvido" (AgInt no AREsp 2.312.367/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDANTE.
+(..)
+4. Rever a conclusão adotada pela Corte estadual sobre a caracterização de litigância de má-fé demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, em razão do teor da Súmula 7 do STJ. Precedentes.
+5. Agravo interno desprovido" (AgInt no AREsp 2.103.734/RS, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 1.500,00 (mil e quinhentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
