@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO. REGIME PRISIONAL. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão do egrégio Superior Tribunal de Justiça que desproveu Recurso Especial interposto pelo embargante, mantendo a dosimetria da pena, o afastamento da causa de diminuição do tráfico privilegiado e a fixação do regime inicial fechado. O embargante aponta omissões na decisão embargada quanto à (i) fixação da pena-base acima do mínimo legal, (ii) análise da minorante prevista no § 4º do art. 33 da Lei nº 11.343/06, e (iii) definição do regime inicial de cumprimento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se houve omissão quanto à fundamentação da exasperação da pena-base acima do mínimo legal; (ii) aferir se a decisão foi omissa ao negar a aplicação da causa de diminuição do tráfico privilegiado; (iii) examinar eventual omissão na fixação do regime inicial fechado.
+III. RAZÕES DE DECIDIR
+3. A decisão embargada explicita que a exasperação da pena-base em cinco anos foi devidamente fundamentada na culpabilidade, no modus operandi com premeditação e na expressiva quantidade de droga apreendida (282,9 kg de cocaína), conforme o art. 42 da Lei nº 11.343/06, que atribui preponderância a esses critérios.
+4. O acórdão recorrido também trata, de forma expressa, da inaplicabilidade da causa de diminuição do tráfico privilegiado, diante da reincidência do embargante, nos termos do § 4º do art. 33 da Lei nº 11.343/06, que exige primariedade e bons antecedentes.
+5. A manutenção do regime inicial fechado encontra fundamento na pena definitiva superior a 8 anos e na reincidência do réu, com respaldo no art. 33, § 2º, "a", do Código Penal, afastando a alegação de fundamentação genérica ou baseada na gravidade abstrata do delito.
+6. Os embargos de declaração não se prestam à rediscussão da matéria já decidida, sendo cabíveis apenas para sanar vícios formais como omissão, obscuridade ou contradição, inexistentes no caso.
+IV. EMBARGOS DE DECLARAÇÃO REJEITADOS .
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FABIO JUNIOR CORREIA DE SOUZA contra acórdão proferido pelo Superior Tribunal de Justiça que desproveu o Recurso Especial nº 2040506 - MT, interposto pelo embargante.
+O embargante alega, em síntese, três omissões na decisão embargada:
+(i) Quanto à fixação da pena-base acima do mínimo legal: Sustenta que o acórdão recorrido manteve a pena-base fixada em 10 (dez) anos pelo juízo sentenciante, fundamentando-se apenas na quantidade e natureza da droga apreendida, o que revelaria manifesta inadequação na dosimetria da pena, afrontando os critérios estabelecidos pelo artigo 59 do Código Penal.
+(ii) Quanto à análise do §4º do artigo 33 da Lei 11.343/06: Argumenta que o magistrado sentenciante negou a aplicação da causa de diminuição de pena com base em processos criminais em andamento, na gravidade abstrata do delito e na natureza da droga apreendida. Cita jurisprudência do STJ no sentido de que processos em andamento não podem fundamentar o afastamento da minorante. Ademais, aduz que a utilização cumulativa da quantidade e natureza da droga para majorar a pena-base e para afastar o redutor caracterizaria bis in idem, conforme entendimento firmado pelo STF no ARE nº 666.334/AM.
+(iii) Quanto ao regime prisional inicial: Defende que a decisão recorrida manteve o regime inicial fechado com base apenas na gravidade abstrata do delito e na suposição de integração do recorrente em organização criminosa, sem fundamentação concreta. Invoca a Súmula 440 do STJ, afirmando que, com a aplicação da minorante do §4º do artigo 33 da Lei 11.343/06, a pena resultaria inferior a 8 anos, justificando o regime semiaberto.
+Ao cabo da exposição, requer: a) o reconhecimento da omissão quanto à fixação da pena-base acima do mínimo legal, aplicando-se o patamar mínimo previsto em lei; b) o reconhecimento da omissão na análise do redutor do §4º do artigo 33 da Lei 11.343/06, aplicando-se a minorante em seu grau máximo de 2/3; c) o reconhecimento da omissão quanto ao regime prisional inicial, determinando-se a fixação do regime semiaberto; d) o provimento dos embargos de declaração para sanar as omissões apontadas, garantindo-se ao recorrente uma pena justa e proporcional (e-STJ fls. 1196-1204).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO. REGIME PRISIONAL. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão do egrégio Superior Tribunal de Justiça que desproveu Recurso Especial interposto pelo embargante, mantendo a dosimetria da pena, o afastamento da causa de diminuição do tráfico privilegiado e a fixação do regime inicial fechado. O embargante aponta omissões na decisão embargada quanto à (i) fixação da pena-base acima do mínimo legal, (ii) análise da minorante prevista no § 4º do art. 33 da Lei nº 11.343/06, e (iii) definição do regime inicial de cumprimento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se houve omissão quanto à fundamentação da exasperação da pena-base acima do mínimo legal; (ii) aferir se a decisão foi omissa ao negar a aplicação da causa de diminuição do tráfico privilegiado; (iii) examinar eventual omissão na fixação do regime inicial fechado.
+III. RAZÕES DE DECIDIR
+3. A decisão embargada explicita que a exasperação da pena-base em cinco anos foi devidamente fundamentada na culpabilidade, no modus operandi com premeditação e na expressiva quantidade de droga apreendida (282,9 kg de cocaína), conforme o art. 42 da Lei nº 11.343/06, que atribui preponderância a esses critérios.
+4. O acórdão recorrido também trata, de forma expressa, da inaplicabilidade da causa de diminuição do tráfico privilegiado, diante da reincidência do embargante, nos termos do § 4º do art. 33 da Lei nº 11.343/06, que exige primariedade e bons antecedentes.
+5. A manutenção do regime inicial fechado encontra fundamento na pena definitiva superior a 8 anos e na reincidência do réu, com respaldo no art. 33, § 2º, "a", do Código Penal, afastando a alegação de fundamentação genérica ou baseada na gravidade abstrata do delito.
+6. Os embargos de declaração não se prestam à rediscussão da matéria já decidida, sendo cabíveis apenas para sanar vícios formais como omissão, obscuridade ou contradição, inexistentes no caso.
+IV. EMBARGOS DE DECLARAÇÃO REJEITADOS .
+VOTO
+Os Embargos de Declaração são tempestivos.
+Contudo, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões que motivaram a solução dada ao caso concreto.
+O acórdão embargado expressamente julgou válida a exasperação da pena-base, com os seguintes argumentos:
+"Como se vê, a pena-base foi exasperada em 5 anos, fundamentadamente, tendo em vista a culpabilidade -, diante do especial modus operandi empregado na prática delitiva e da premeditação - e a expressiva quantidade de droga apreendida - consistente em 282,9kg de cocaína - circunstância apta, por si só, a justificar a elevação da pena-base nesse patamar, uma vez que o juiz deve considerar, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga, nos termos do art. 42 da Lei n. 11.343/2006." (e-STJ fls. 1189)
+O acórdão embargado também sublinhou que o balizamento da pena-base não é orientado por rígidos critérios matemáticos, ponderando que a "ração de aumento da pena-base, que, nos termos da jurisprudência desta Corte, inexiste obrigatoriedade na utilização das rações de 1/6 sobre a pena-base ou de 1/8 do intervalo entre as penas mínima e máxima. Tais parâmetros, embora admitidos pela jurisprudência desta Corte, não são obrigatórios, sendo necessária, contudo, motivação adequada nos casos de maior exasperação, tal como observado na espécie." (e-STJ fls. 1189-1190).
+O acórdão embargado, também expressamente, rejeitou a possibilidade de concessão do tráfico privilegiado em razão da reincidência do embargante, senão vejamos:
+"Quanto à causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006, constatada pelas instâncias ordinárias a existência de maus antecedentes e/ou de reincidência, como no caso, não há falar em aplicação da minorante do tráfico privilegiado, que veda o benefício ao réus reincidentes, exigindo que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa." (e-STJ fls. 1190)
+Por fim, o regime fechado foi mantido em razão da pena final ter sido dosada acima de 8 anos:
+"Do mesmo modo, mantido inalterado o quantum de pena aplicado, em patamar superior a 8 anos, não há falar em abrandamento do regime prisional, inclusive por se tratar de réu reincidente, cuja pena-base foi fixada acima do mínimo legal." (e-STJ fls. 1191)
+Ao contrário do que alega o embargante, o acórdão não justificou o regime fechado na gravidade abstrata do delito ou na suposição de que o embargante integrasse organização criminosa, mas sim na quantidade de pena dosada e na reincidência , nos termos do art. 33, § 2º, "a", do Código Penal.
+Isso quer dizer que os presentes embargos refletem mera irresignação da parte com o resultado do julgamento e que não há omissão a corrigir, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Por esses fundamentos, rejeito os embargos de declaração.
+É como voto.
