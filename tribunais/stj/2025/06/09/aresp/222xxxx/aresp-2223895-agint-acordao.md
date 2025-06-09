@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE SERVIÇOS FORA DA REDE CREDENCIADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. DEVER DE INFORMAÇÃO E ONEROSIDADE EXCESSIVA. ILICITUDE CONFIGURADA. ACÓRDÃO RECORRIDO COM FUNDAMENTAÇÃO SUFICIENTE. FUNDAMENTO NÃO IMPUGADO. SÚMULA 283/STF.
+1. Não se observa violação do art. 1.022 do CPC, porque o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+2. A questão foi dirimida pelo Tribunal de origem, de maneira adequada e suficiente, não havendo negativa de jurisdição quando o tribunal decide fundamentadamente contra os interesses da parte (AgInt no REsp n. 2.083.801/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+3. O Tribunal a quo assentou que, embora a limitação de reembolso de despesas com prestadores não credenciados seja possível, no caso dos autos, o reembolso deve ser integral já que a operadora do plano de saúde deixou de observar seu dever de informação, tendo ocorrido obscuridade e arbitrariedade na definição do valor do reembolso.
+4. Incide, na hipótese em comento, por analogia, a Súmula 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão monocrática de relatoria do saudoso Min. Paulo de Tarso Sanseverino que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento (fls. 1.106-1.112).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 986):
+PLANO DE SAÚDE. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. Nulidade de cláusula, reembolso de sessões de psicoterapia e danos morais. Sentença de parcial procedência, afastando-se os danos morais. Recurso de ambas as partes. Inconformismo da requerida. Não acolhimento. Limites de reembolso estabelecidos em cláusula genérica e de fatores complexos, que não permitem ao consumidor compreender com clareza o método adotado para o cálculo do reembolso devido. Violação aos deveres de transparência e informação. Abusividade reconhecida. Reembolso integral devido. Precedentes. Inconformismo do autor/menor. Danos morais. Não ocorrência. Descumprimento contratual que causa mero aborrecimento, insuscetível de provocar sofrimento suficiente a justificar a condenação pretendida. Sentença mantida. RECURSOS DESPROVIDOS.
+Rejeitados os embargos de declaração opostos (fls. 1.013-1.018).
+A decisão agravada tem a seguinte ementa (fl. 1.106):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1022 DO CPC. INEXISTÊNCIA. IMPOSSIBILIDADE DE RESSARCIMENTO INTEGRAL DE VALORES DISPENDIDOS COM PROFISSIONAIS NÃO CREDENCIADOS. SUBSISTÊNCIA DE ÓBICE CAPAZ DE, POR SI SÓ, MANTER INCÓLUME A DECISÃO RECORRIDA. SÚMULA 283/STF.
+1. Verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto à manutenção do ressarcimento de profissional não credenciado.
+2. A recorrente argumentou, tão somente, o malferimento ao art. 12, VI, da Lei n. 9656/98, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, que seja: ausência do dever de informação. Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENÇÃO, NEGAR-LHE PROVIMENTO.
+No agravo interno, a agravante insiste que houve violação do art. 1.022 do CPC, sob o argumento de que era imprescindível o pronunciamento sobre questão que considera decisiva para o deslinde do feito e que delimitou como sendo "acerca da inexistência do direito ao reembolso integral por despesas com tratamento realizado fora da rede credenciada" (fl. 1.117).
+Aduz, ainda, que não se aplica ao caso o óbice da Súmula 283/STF, pois o recurso especial teria atacado de forma eficaz todos os argumentos tratados no acórdão recorrido.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+O agravado apresentou contrarrazões (fls. 1.133-1.139).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE SERVIÇOS FORA DA REDE CREDENCIADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. DEVER DE INFORMAÇÃO E ONEROSIDADE EXCESSIVA. ILICITUDE CONFIGURADA. ACÓRDÃO RECORRIDO COM FUNDAMENTAÇÃO SUFICIENTE. FUNDAMENTO NÃO IMPUGADO. SÚMULA 283/STF.
+1. Não se observa violação do art. 1.022 do CPC, porque o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+2. A questão foi dirimida pelo Tribunal de origem, de maneira adequada e suficiente, não havendo negativa de jurisdição quando o tribunal decide fundamentadamente contra os interesses da parte (AgInt no REsp n. 2.083.801/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+3. O Tribunal a quo assentou que, embora a limitação de reembolso de despesas com prestadores não credenciados seja possível, no caso dos autos, o reembolso deve ser integral já que a operadora do plano de saúde deixou de observar seu dever de informação, tendo ocorrido obscuridade e arbitrariedade na definição do valor do reembolso.
+4. Incide, na hipótese em comento, por analogia, a Súmula 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que a agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação do art. 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos (fls. 988-990):
+Na hipótese, trata-se de pretensão de reembolso cumulada com danos morais cuja controvérsia reside na obrigação da ré de reembolsar a integralidade dos valores relativos aos tratamentos médicos do menor (sessões de psicoterapia), ante a alegada abusividade da cláusula de limitação de reembolso e falta de clareza do cálculo dos valores a serem reembolsados.
+Restou incontroverso que houve a negativa de reembolso integral das sessões de psicoterapia, com a justificativa de que no contrato entabulado há expressa previsão contratual de limitação de reembolso.
+Embora a limitação de reembolso de despesas com prestadores não credenciados seja possível, os critérios que definem o montante do reembolso devem ser claros e preestabelecidos, todavia o contrato entabulado entre as partes, não é claro em relação aos valores do reembolso.
+A cláusula do contrato, que prevê a base de cálculo do reembolso em MÚLTIPLOS DE REEMBOLSO DE U. S. MS. (FLS. 41/42), deixa dúvidas sobre qual o critério adotado para a exata determinação dos valores, tratando-se de unidade de medida lacônica e imprecisa, o que não pode ser aceito nas relações de consumo.
+Os próprios cálculos apresentados pela requerida, em contestação, demonstram a obscuridade, pois as sessões de psicologia (todas de procedimento 62504037) ora são reembolsadas pela URA 03; ora pela URA 0,329; e também pela URA 0,3736 (fls. 195), tratando-se do mesmo serviço, sessões de psicologia (fls. 332/339), não tendo sido demonstrada, nem mesmo em sede de contestação, como se chegou ao valor da URA Unidade de Reembolso Amil.
+ ..
+Assim, o contrato se vale de índice unilateral, descrito de forma genérica no contrato, cuja apuração não pode ser feita pelo consumidor, sendo obrigação do fornecedor prestar informações claras e precisas a respeito do conteúdo. As eventuais dúvidas ou obscuridades devem ser resolvidas em favor do consumidor.
+ ..
+Não atendido o dever legal de informação e evidenciada a onerosidade excessiva do contrato em desfavor do consumidor, está configurado o ilícito praticado pela ré, nos termos dos artigos 6º, III, 14 e 51, IV, X, XV e § 1º do Código de Defesa do Consumidor.
+Assim, observa-se a obscuridade e a arbitrariedade na definição do valor do reembolso, que deve se dar, no presente caso, de forma integral. O método de cálculo implica em limitação do direito do consumidor, portanto, deve a cláusula limitativa ser clara, destacada e de fácil compreensão, o que não ocorre neste caso, sendo nula a tabela que também não integra o contrato. (n.g.)
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar que, nos termos da Lei n. 9.656/98, o reembolso se dará nos lites das obrigações contratuais e nos casos de urgência/emergência, quando não for possível a utilização dos serviços credenciados. Todavia, deixa de impugnar o fundamento do acordão recorrido no sentido de o reembolso deve ser integral quando a operadora do plano de saúde fere o dever de informação, tendo ocorrido, no caso, obscuridade e arbitrariedade na definição do valor do reembolso, o que atrai a incidência da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE
+REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
