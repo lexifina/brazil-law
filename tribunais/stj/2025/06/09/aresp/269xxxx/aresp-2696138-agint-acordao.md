@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual c/c indenizatória.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional.
+3. Consoante entendimento pacífico dest a Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por GLOBAL MD EVOLUTION BEACH PARK EMPREENDIMENTO LTDA contra decisão que não conheceu do agravo em recurso especial.
+Ação: de rescisão contratual c/c indenizatória, ajuizada por CARLOS HUMBERTO ANNIBAL CAVALCANTI em face da agravante.
+Acórdão: deu parcial provimento às apelações interpostas pelas partes, nos termos da seguinte ementa (e-STJ, fls. 574/575):
+EMENTA. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA E RESCISÃO UNILATERAL DE CONTRATO C/C PEDIDO DE RESSARCIMENTO DE VALORES PAGOS E CONDENAÇÃO EM DANOS MORAIS E MATERIAIS. APELAÇÕES RECÍPROCAS. IMPOSSIBILIDADE DE INSURGÊNCIA QUANTO À FIXAÇÃO DAS ASTREINTES. MULTA FIXADA EM DECISÃO INTERLOCUTÓRIA, QUE DEVERIA TER SIDO IMPUGNADA POR AGRAVO DE INSTRUMENTO, HAJA VISTA TRATAR-SE DE DECISÃO RELACIONADA À TUTELA PROVISÓRIA. PRECLUSÃO. RECURSO NÃO CONHECIDO NESSE PONTO. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO. INEXISTÊNCIA DE CONEXÃO. COMPETÊNCIA RELATIVA. IRRESIGNAÇÃO QUE DEVERIA TER SIDO DEMONSTRADA NA PRIMEIRA MANIFESTAÇÃO DA PARTE RÉ NOS AUTOS. PRECLUSÃO. ENTENDIMENTO DO STJ. PRESCRIÇÃO DA PRETENSÃO DE RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM NÃO CONFIGURADA. PEDIDO DE RESTITUIÇÃO FUNDAMENTADO NA RESOLUÇÃO DO CONTRATO EM RAZÃO DO INADIMPLEMENTO DA CONSTRUTORA. PRAZO PRESCRICIONAL QUE SÓ COMEÇA A FLUIR COM O RECONHECIMENTO DA RESOLUÇÃO PLEITEADA. MÉRITO. ATRASO INJUSTIFICADO. CRISE ECONÔMICO-FINANCEIRA QUE DEVE SER LEVADA EM CONSIDERAÇÃO QUANDO DA FIXAÇÃO DO PRAZO DE CONCLUSÃO DA OBRA. FORTUITO INTERNO. INAPLICABILIDADE DA TEORIA DA IMPREVISÃO. ATRASO DESARRAZOADO. RESOLUÇÃO CONTRATUAL PROVOCADA PELA CONSTRUTORA. IMPOSSIBILIDADE DE RETENÇÃO DE 25% DOS VALORES PAGOS PELO CONSUMIDOR. RESTITUIÇÃO INTEGRAL DEVIDA. CABÍVEL A DEVOLUÇÃO DO VALOR PAGO A TÍTULO DE COMISSÃO DE CORRETAGEM. RESTITUIÇÃO QUE DEVE OCORRER DE FORMA SIMPLES, UMA VEZ QUE FUNDAMENTADA NA RESOLUÇÃO DO CONTRATO E NÃO NA ABUSIVIDADE DA COBRANÇA. LUCROS CESSANTES DEVIDOS ANTE À VIOLAÇÃO DO DIREITO DE FRUIÇÃO DO BEM. POSSIBILIDADE DE CUMULAÇÃO COM A CLÁUSULA PENAL PREVISTA CONTRATUALMENTE, DESDE QUE NÃO ULTRAPASSE O VALOR LOCATIVO DO IMÓVEL. CUMULAÇÃO CUJA ANÁLISE DEVERÁ SER FEITA NO MOMENTO DA LIQUIDAÇÃO DA SENTENÇA, HAJA VISTA QUE AS PARTES NÃO DEMONSTRARAM QUE O VALOR DA MULTA CONTRATUAL FICOU ACIMA OU ABAIXO DO VALOR CORRESPONDENTE AO ALUGUEL DO IMÓVEL. DANO MORAL CONFIGURADO. ATRASO NA CONCLUSÃO DA OBRA POR LONGO PERÍODO E SEM JUSTIFICATIVA PLAUSÍVEL. QUANTUM INDENIZATÓRIO ARBITRADO NA SENTENÇA MANTIDO. CONSECTÁRIOS LEGAIS FIXADOS. HONORÁRIOS ADVOCATÍCIOS MAJORADOS PARA 11% DO VALOR DA CONDENAÇÃO. RECURSO DO RÉU PARCIALMENTE CONHECIDO E RECURSO DO AUTOR CONHECIDO. APELOS PARCIALMENTE PROVIDOS.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega ter abordado todos os pontos da decisão agravada, incluindo a violação de dispositivos constitucionais e infraconstitucionais, como os artigos 55, 285, 286 e 1.022 do CPC, e os artigos 186, 722, 725 e 927 do Código Civil. Alega que a distribuição por dependência violou o princípio do juiz natural, conforme o artigo 5º, XXXVII da Constituição Federal, ao não respeitar a regra de sorteio. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual c/c indenizatória.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional.
+3. Consoante entendimento pacífico dest a Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TJ/AL:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional.
+1) Da violação de dispositivo constitucional
+A parte agravante, em seu agravo em recurso especial, não refutou o fundamento de que, de acordo com a legislação vigente, a interposição de recurso especial só é cabível quando a decisão recorrida se baseia em ofensa à legislação federal. Com efeito, não é possível a interposição de recurso especial quando a decisão se baseia em violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal.
+Nesse sentido: AgInt no AREsp 2.053.156/RS, Terceira Turma, DJe de 17/8/2022; e AgInt no REsp 1.897.074/SP, Quarta Turma, DJe de 18/3/2022.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
