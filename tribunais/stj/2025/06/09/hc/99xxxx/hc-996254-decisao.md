@@ -1,0 +1,17 @@
+DECISÃO
+Em petição de habeas corpus impetrado em favor de WESLEY CASSIRAN VARALLO, alega-se coação ilegal em relação a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL que decidiu: "Remidos dias da pena em razão da aprovação no Encceja - ensino médio, não se admite nova remição pela aprovação no Enem, que avalia as mesmas áreas de conhecimento e nada acrescenta ao aprimoramento intelectual" (fl. 15).
+A petição expõe a existência de constrangimento ilegal, ao argumento de que a jurisprudência admite a possibilidade de remição da pena aos condenados aprovados no Enem, ainda que o sentenciado já tenha concluído o ensino médio anteriormente.
+Requer seja reconhecida a remição de pena.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do pedido, mas pela concessão da ordem de ofício, nestes termos (fl. 357):
+HABEAS CORPUS SUBSTITUTIVO. EXECUÇÃO PENAL. REMIÇÃO DE PENA. APROVAÇÃO EM ENCCEJA E ENEM. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+- A remição de pena por estudo tem por escopo estimular a educação e a reintegração social, de modo a reconhecer o esforço educacional durante o cumprimento da pena.
+- A aprovação no ENEM permite remição de pena, mesmo após a conclusão do ensino médio pelo ENCCEJA, sem configurar bis in idem. Precedente.
+Pelo não conhecimento do habeas corpus, mas pela concessão de ofício da ordem, para determinar que o Juízo de execução proceda a remição, referente às horas de estudo em razão da aprovação no ENEM do ano de 2019, nos moldes em que o paciente obteve êxito.
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+Na análise de ofício, a ordem deve ser concedida, porquanto, ao contrário do decidido na origem, na jurisprudência do STJ a compreensão é de que "o Exame Nacional do Ensino Médio (ENEM) e o Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) possuem finalidades distintas, sendo que, desde 2017, o ENEM deixou de servir à certificação de conclusão do ensino médio, voltando-se ao ingresso no ensino superior" (AgRg no AREsp n. 2.666.739/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+Em outras palavras, "a aprovação no ENEM permite remição de pena, mesmo após a conclusão do ensino médio pelo ENCCEJA, sem configurar bis in idem" (AgRg no HC n. 948.107/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/4/2025, DJEN de 28/4/2025).
+Ante o exposto, não conheço do habeas corpus e concedo a ordem de ofício para reconhecer o direito à remição pela aprovação no Exame Nacional do Ensino Médio - Enem, a ser computado no Juízo da execução.
+Comunique-se. Publique-se. Intimem-se.
+EMENTA
