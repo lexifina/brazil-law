@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EMBARGOS  À  EXECUÇÃO.  GRATUIDADE  DA  JUSTIÇA.  INCAPACIDADE  FINANCEIRA.  DEMONSTRAÇÃO.  PRESUNÇÃO  RELATIVA.  SÚMULA  Nº  568/STJ.  PRECEDENTES.
+1.  A  declaração  de  hipossuficiência  deduzida  por  pessoa  natural  tem  presunção  relativa,  permitindo  o  indeferimento  do  pedido  de  gratuidade  da  justiça  quando  não  demonstrados  os  requisitos  necessários.
+2.  Agravo  conhecido  para  conhecer  do  recurso  especial  e  negar-lhe  provimento.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  ERICK  LIMA  MACHADO  MENDONÇA  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Sergipe  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO  -  EMBARGOS  À  EXECUÇÃO  -  INDEFERIMENTO  DO  BENEFÍCIO  DA  JUSTIÇA  GRATUITA  NO  1º  GRAU  -  IRRESIGNAÇÃO  -  AUSÊNCIA  DE  COMPROVAÇÃO  DA  ALEGADA  HIPOSSUFICIÊNCIA  FINANCEIRA  -  RATIFICAÇÃO  DA  LIMINAR  INDEFERIDA  -  RECURSO  CONHECIDO  E  IMPROVIDO"  (e-STJ  fl.  162).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fls.  440/444).
+No  recurso  especial,  o  recorrente  alega,  além  de  divergência  jurisprudencial,  violação  dos  artigos  3º,  98  e  99,  §  3º,  do  Código  de  Processo  Civil,  haja  vista  a  exigência  de  comprovação  da  hipossuficiência,  contrariando  a  presunção  legal.
+Sustenta  que  o  Tribunal  estadual  deixou  de  considerar  adequadamente  os  elementos  apresentados  nos  autos,  suficientes  para  demonstrar  a  sua  incapacidade  de  arcar  com  os  custos  processuais.
+Defende  que
+"(..)  é  manifesto,  neste  caso:  a)  o  Recorrente  comprovou  a  sua  hipossuficiência  de  recursos;  b)  não  há  qualquer  elemento  nos  autos  que  evidencie  a  falta  dos  pressupostos  legais  para  a  concessão  de  gratuidade;  c)  não  é  exigida  condição  de  miserabilidade  para  a  concessão  do  benefício;  d)  a  não  concessão  da  benesse  caracterizará  obstrução  à  garantia  de  acesso  à  Justiça"  (e-STJ  fl.  211).
+Sem  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EMBARGOS  À  EXECUÇÃO.  GRATUIDADE  DA  JUSTIÇA.  INCAPACIDADE  FINANCEIRA.  DEMONSTRAÇÃO.  PRESUNÇÃO  RELATIVA.  SÚMULA  Nº  568/STJ.  PRECEDENTES.
+1.  A  declaração  de  hipossuficiência  deduzida  por  pessoa  natural  tem  presunção  relativa,  permitindo  o  indeferimento  do  pedido  de  gratuidade  da  justiça  quando  não  demonstrados  os  requisitos  necessários.
+2.  Agravo  conhecido  para  conhecer  do  recurso  especial  e  negar-lhe  provimento.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  está  consolidada  no  sentido  de  que  a  declaração  de  hipossuficiência  deduzida  por  pessoa  natural  tem  presunção  relativa,  permitindo  o  indeferimento  do  pedido  de  gratuidade  da  justiça  quando  não  demonstrados  os  requisitos  necessários.
+A  propósito:
+"PROCESSUAL  CIVIL.  AÇÃO  RESCISÓRIA  DE  AÇÃO  RESCISÓRIA.  LEGISLAÇÃO  APLICÁVEL.  DATA.  TRÂNSITO  EM  JULGADO.  VIGÊNCIA.  CPC/15.  PRELIMINAR.  GRATUIDADE  DE  JUSTIÇA.  ARTS.  98  E  SS.  DO  CPC/15.  PESSOA  NATURAL.  PRESUNÇÃO  RELATIVA.  IMPUGNAÇÃO.  PRESSUPOSTOS  LEGAIS.  ILISÃO.  INSUFICIÊNCIA.  ALEGAÇÃO.  NORMA  JURÍDICA.  MANIFESTA  VIOLAÇÃO.  ART.  966,  V,  DO  CPC/15.  INTERPRETAÇÃO  RESTRITIVA.  SÚMULA.  OFENSA.  HIPÓTESE.  ESPECIFICIDADE.  REQUISITOS.  ART.  966,  §§  5º  E  6º,  DO  CPC/15.  PADRÃO  DECISÓRIO.  DISTINÇÃO.  HIPÓTESE  CONCRETA.  DEMONSTRAÇÃO.  AUSÊNCIA.  ACÓRDÃO  RESCINDENDO.  STJ.  COMPETÊNCIA.  ART.  105,  I,  "E",  DA  CF/88.  JURISPRUDÊNCIA.  ENTENDIMENTO.  SUPERAÇÃO.  PEDIDO  RESCINDENTE.  IMPROCEDÊNCIA.  LITIGÂNCIA  DE  MÁ-FÉ.  ART.  80  DO  CPC/15.  HIPÓTESES.  COMPROVAÇÃO.  INEXISTÊNCIA.
+1.  Cuida-se  de  ação  rescisória  ajuizada  fundamento  no  inciso  V  do  art.  966  do  CPC/15,  com  o  objetivo  de  rescisão  de  acórdão  proferido  por  esta  Corte  nos  autos  de  anterior  ação  rescisória  julgada  parcialmente  procedente  para  excluir,  da  condenação  à  repetição  do  indébito,  a  incidência  dos  mesmos  encargos  contratuais  pactuados  na  cédula  de  crédito  rural.
+2.  Trânsito  em  julgado  em:  23/11/2016;  Ação  rescisória  ajuizada  em:
+24/11/2017;  Conclusos  ao  gabinete  em:  10/07/2020;  Aplicação  do  CPC/15.
+3.  O  propósito  da  presente  ação  é  determinar  se:  a)  é  possível  a  revogação  do  benefício  da  gratuidade  de  justiça  concedido  ao  autor;  b)  é  cabível,  em  ação  rescisória,  a  alegação  de  manifesta  violação  ao  enunciado  de  súmula  e  quais  os  requisitos  para  tanto;  e  c)  a  decisão  rescindenda  violou  manifestamente  a  norma  do  art.  105,  I,  e,  da  CF/88.
+4.  A  alegação  de  hipossuficiência  econômica  para  fins  de  gratuidade  de  justiça  deduzida  por  pessoa  natural  conta  com  presunção  relativa  de  veracidade  que,  para  ser  elidida,  demanda  a  demonstração,  por  meio  de  elementos  concretos,  que  a  parte  é  capaz  de  arcar  com  os  custos  do  processo.  Precedentes.  (..)
+12.  Ação  rescisória  improcedente"  (AR  6.166/GO,  Relatora  Ministra  NANCY  ANDRIGHI,  Segunda  Seção,  julgado  em  28/9/2022,  DJe  de  11/10/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  C/C  REINTEGRAÇÃO  DE  POSSE  E  PERDAS  E  DANOS.  VIOLAÇÃO  AOS  ARTS.  489  E  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.  ACÓRDÃO  FUNDAMENTADO.  OFENSA  AO  PRINCÍPIO  DA  VEDAÇÃO  À  DECISÃO  SURPRESA.  REJEIÇÃO.  GRATUIDADE  DE  JUSTIÇA  INDEFERIDA  PELO  TRIBUNAL  ESTADUAL.  REVISÃO.  IMPOSSIBILIDADE.  REVOLVIMENTO  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  SÚMULA  7/STJ.  AGRAVO  DESPROVIDO.
+1.  Inexistência  de  violação  aos  arts.  489  e  1.022  do  CPC/2015,  na  medida  em  que  o  Tribunal  a  quo  analisou  os  pontos  essenciais  ao  deslinde  da  controvérsia  dando-lhes  robusta  e  devida  fundamentação.
+2.  Em  se  tratando  de  pessoa  natural,  há  presunção  juris  tantum  de  que  quem  pleiteia  o  benefício  não  possui  condições  de  arcar  com  as  despesas  do  processo  sem  comprometer  seu  próprio  sustento  ou  de  sua  família.  Tal  presunção,  contudo,  é  relativa,  podendo  o  magistrado  indeferir  o  pedido  de  justiça  gratuita  se  encontrar  elementos  que  infirmem  a  hipossuficiência  do  requerente.  Precedentes.
+3.  No  caso,  o  Tribunal  de  Justiça,  examinando  a  situação  patrimonial  e  financeira  da  requerente,  concluiu  haver  elementos  suficientes  para  afastar  a  declaração  de  hipossuficiência,  indeferindo,  por  isso,  o  benefício  da  justiça  gratuita.  Nesse  contexto,  a  alteração  das  premissas  fáticas  adotadas  no  acórdão  recorrido  demandaria  o  reexame  do  contexto  fático-probatório  dos  autos,  o  que  é  defeso  na  via  estreita  do  recurso  especial  (Súmula  7/STJ).
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  2.035.518/MT,  Relator  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  26/6/2023,  DJe  de  28/6/2023  -  grifou-se)
+No  caso  dos  autos,  consta  do  acórdão  recorrido  que,
+"(..)
+Tendo  em  vista  a  revogação  expressa  do  art.  4º,  da  Lei  nº  1.060/50,  com  a  entrada  em  vigor  do  CPC,  que  dispunha  bastar  a  mera  alegação  para  fazer  jus  aos  benefícios  da  gratuidade  de  justiça,  entendo  insuficiente  para  a  sua  concessão,  a  mera  alegação  de  insuficiência  financeira.
+Nesse  sentido  o  contido  no  art.  99,  §2º,  do  Código  de  Processo  Civil:  (..)
+Tem-se  que  o  direito  à  gratuidade  da  justiça,  apesar  de  não  ser  absoluto,  está  lastreado  em  inarredáveis  garantias  constitucionais,  podendo  ser  afastado  tão-somente  pela  comprovação  -  emanada  do  acervo  probatório  já  existente  nos  autos  e  declarada  de  ofício,  ou  suscitada  e  provada  pela  parte  contrária  -  de  que  a  declaração  de  pobreza  firmada  quando  da  formulação  do  pleito  era  insubsistente.
+A  propósito,  cediço  entendimento  pretoriano,  acolhido  no  âmbito  do  Superior  Tribunal  de  Justiça,  preconiza:  "o  benefício  de  assistência  judiciária  gratuita  pode  ser  concedido  mediante  declaração  da  parte  de  que  não  pode  arcar  com  as  custas  e  despesas  do  processo,  salientando-se  que  é  possível  ao  magistrado,  com  base  nos  elementos  dos  autos,  analisar  se  o  requerente  preenche,  ou  não,  os  requisitos  legais  para  a  concessão  do  benefício""  (RMS  15.508/RJ,  Rel.  Ministro  HÉLIO  QUAGLIA  BARBOSA,  QUARTA  TURMA,  julgado  em  27.02.2007,  DJ  19.03.2007  p.  352)  (e-STJ  fl.  164).
+Logo,  não  mer  ece  reparos  o  aresto  atacado  no  ponto,  incidindo  a  Súmula  nº  568/STJ.
+Além  disso,  no  que  concerne  à  alegada  suficiência  dos  elementos  colacionados  aos  autos  a  fim  de  demonstrar  a  sua  incapacidade  financeira,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  do  recurso  especial  e  negar-lhe  provimento.
+Na  hipótese,  não  cabe  a  majoração  dos  honorários  sucumbenciais  prevista  no  art.  85,  §  11,  do  Código  de  Processo  Civil,  pois  o  recurso  tem  origem  em  decisão  interlocutória,  sem  a  prévia  fixação  de  honorários.
+É  o  voto.
