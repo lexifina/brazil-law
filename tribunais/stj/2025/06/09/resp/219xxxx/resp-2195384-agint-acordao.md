@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. OFENSA AO PRINCIPIO DA MENOR ONEROSIDADE. REVISÃO DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - O fundamento do acórdão recorrido para indeferir a penhora de todos os bens da ora Agravada não foi impugnado nas razões do recurso especial, acarretando a incidência da Súmula n. 283/STF.
+II - In casu, afastar a conclusão da Corte de origem acerca da ofensa ao princípio da menor onerosidade demanda minucioso exame do acervo fático probatório dos autos, revelando-se inviável a sua revisão, em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte,
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão, mediante a qual o recurso especial não foi conhecido.
+Sustenta o Agravante, em síntese: ter demonstrado a ofensa à norma federal, não se aplicando os óbices processuais.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 471/477e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. OFENSA AO PRINCIPIO DA MENOR ONEROSIDADE. REVISÃO DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - O fundamento do acórdão recorrido para indeferir a penhora de todos os bens da ora Agravada não foi impugnado nas razões do recurso especial, acarretando a incidência da Súmula n. 283/STF.
+II - In casu, afastar a conclusão da Corte de origem acerca da ofensa ao princípio da menor onerosidade demanda minucioso exame do acervo fático probatório dos autos, revelando-se inviável a sua revisão, em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte,
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Acerca da constrição de todos os bens da Recorrida, ora Agravada, o acórdão recorrido está embasado na seguinte fundamentação (fls. 237/239e):
+Com efeito, diferentemente do posicionamento adotado na decisão agravada, tem-se que esta Egrégia Corte e o Superior Tribunal de Justiça possuem entendimento no sentido de que não se demonstra cabível a penhora via SISBAJUD da integralidade dos valores constantes nas contas bancárias vinculadas à Pessoa Jurídica.
+ ..
+Ademais, a medida foi realizada como primeiro ato da execução fiscal, sem que tenha se buscado outras formas de sanar o crédito fiscal, devendo-se ponderar que havia alternativas menos onerosas ao devedor e que a penhora, nos termos que foi deferida, não equivale à penhora de dinheiro, prevista no art. 11, I, da Lei nº 6.830/1980, e sim ao faturamento da empresa, a qual deve ocorrer de forma excepcional.
+ ..
+Por fim, importante registrar que há determinação do Superior Tribunal de Justiça, datada de 05 de fevereiro de 2020, nos autos do Tema nº 764, no sentido de suspender todos os feitos que se encontrem pendentes que versem sobre questão semelhante à ora em apreço, sendo mais um argumento para reforçar o acolhimento da pretensão recursal.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Ressalte-se, o Tribunal a quo compreendeu que a penhora integral de valores encontrados na conta corrente da empresa executada via SISBAJUD configura medida extremada e coloca em risco o regular desenvolvimento da atividade empresarial, uma vez que a existência daquele montante, por si só, não significa que se trata do lucro da empresa, devendo-se levar em consideração a necessidade do estabelecimento de arcar com todos os custos inerentes à iniciativa privada (empregados, tributos e outras despesas fixas). Precedentes STJ e TJAP;
+Diante da onerosidade excessiva da medida e o seu descompasso com a jurisprudência desta Corte, imperiosa a reforma da decisão a fim de que seja indeferido o pedido de bloqueio via SISBAJUD nos autos da ação de execução fiscal em trâmite na origem:(fl. 236/240e):
+Com efeito, diferentemente do posicionamento adotado na decisão agravada, tem-se que esta Egrégia Corte e o Superior Tribunal de Justiça possuem entendimento no sentido de que não se demonstra cabível a penhora via SISBAJUD da integralidade dos valores constantes nas contas bancárias vinculadas à Pessoa Jurídica
+ ..
+Não ignoro que a questão é controvertida no âmbito da Corte Superior, tanto que houve a admissão do Tema nº 769, porém, diante da ausência de posicionamento vinculante do STJ, mantenho o entendimento que externei no julgamento do agravo de instrumento nº 0003726- 89.2021.8.03.0000, por entender que a penhora atinge o faturamento bruto da empresa agravante, cujo montante ainda seria utilizado para saldar outras despesas típicas da atividade mercantil - pagamento de fornecedores, empregados e outras despesas fixas -, demonstrando-se, então, altamente gravosa para a manutenção da atividade empresarial.
+ ..
+Ademais, a medida foi realizada como primeiro ato da execução fiscal, sem que tenha se buscado outras formas de sanar o crédito fiscal, devendo-se ponderar que havia alternativas menos onerosas ao devedor e que a penhora, nos termos que foi deferida, não equivale à penhora de dinheiro, prevista no art. 11, I, da Lei nº 6.830/1980, e sim ao faturamento da empresa, a qual deve ocorrer de forma excepcional.
+Rever tal entendimento, com o objetivo de afastar a conclusão da Corte de origem acerca da ofensa ao princípio da menor onerosidade demanda minucioso exame do acervo fático probatório dos autos, revelando-se inviável a sua revisão, em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
