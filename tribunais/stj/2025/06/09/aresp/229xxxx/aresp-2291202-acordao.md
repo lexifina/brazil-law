@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, conhecer do recurso e lhe dar parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. PREVIDENCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ. JUROS DE MORA. TERMO INICIAL. RECOMPOSIÇÃO. RESERVA MATEMÁTICA.
+1. A revisão da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, conforme as peculiaridades de cada caso concreto, providência incabível em recurso especial, nos termos da Súmula nº 7/STJ.
+2. No concernente ao termo inicial dos juros moratórios, conforme precedentes, a entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PREVIDÊNCIA PRIVADA - VERBAS DEFERIDAS EM JUSTIÇA DO TRABALHO - INCORPORAÇÃO À APOSENTADORIA - IMPOSSIBILIDADE - AUSÊNCIA DE CUSTEIO PRÉVIO - DESEQUILÍBRIO ATUARIAL.
+- Consoante ao entendimento do STJ no REsp 1312736/RS, o reflexo das vantagens no beneficio previdenciário se mostra inexequível quando não há contribuições prévias, sob pena de comprometer o equilíbrio atuarial do sistema." (fl. 981 e-STJ).
+Os embargos de declaração opostos foram parcialmente acolhidos (fl. 1.239 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 394, 396, 397 e 398 do Código Civil e 85, § 10, do Código de Processo Civil. Alega que não é sucumbente na demanda e que não pode ser considerada em mora até que haja a recomposição da reserva matemática.
+Ao final, requer o provimento do recurso.
+O recurso não foi admitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. PREVIDENCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ. JUROS DE MORA. TERMO INICIAL. RECOMPOSIÇÃO. RESERVA MATEMÁTICA.
+1. A revisão da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, conforme as peculiaridades de cada caso concreto, providência incabível em recurso especial, nos termos da Súmula nº 7/STJ.
+2. No concernente ao termo inicial dos juros moratórios, conforme precedentes, a entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar parcialmente.
+No que diz respeito à revisão da distribuição da sucumbência e do valor arbitrado, a matéria é eminentemente fática e exige o reexame do conjunto fático-probatório dos autos, inviável na estreita via do recurso especial pelo óbice da Súmula nº 7/STJ.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DA SUCUMBÊNCIA, PRINCÍPIO DA CAUSALIDADE E HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..) 2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido" (AgInt no AgInt no AR Esp 1.628.525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/6/2020, DJe 3/8/2020).
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. 1. INCIDÊNCIA DO CDI E BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. 2. TARIFA DE EMISSÃO DE CONTRATO. ILEGALIDADE DA COBRANÇA APÓS 30/4/2008 (FIM DA VIGÊNCIA DA RESOLUÇÃO CMN 2.303/96). RECONHECIMENTO. 3. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO DE FATOS E PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à incidência do CDI e dos honorários advocatícios, o mero inconformismo sem apontar o dispositivo do ordenamento considerado afrontado e sem especificar de que modo teria concretamente ocorrido a vulneração de normativo federal não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula n.º 284 do STF.
+2. É ilegal a cobrança das Tarifas de Abertura de Crédito (TAC) e de Tarifas de Emissão de Carnê (TEC) nos contratos celebrados após 30/4/2008 (fim da vigência da Resolução CMN 2.303/96).
+3. A apreciação do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula n.º 7 do STJ.
+4. Agravo interno não provido" (AgInt no REsp n. 2.062.096/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INSCRIÇÃO INDEVIDA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. VIOLAÇÃO DO ART. 940 DO CÓDIGO CIVIL. NÃO OCORRÊNCIA. MÁ-FÉ DO AUTOR AFASTADA PELO TRIBUNAL A QUO. SÚMULA 7/STJ. DANO MORAL. QUANTUM RAZOÁVEL E PROPORCIONAL. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É necessária a comprovação da má-fé do demandante para a aplicação da penalidade prevista no art. 940 do Código Civil. No caso, o Tribunal a quo afastou a má-fé. Incidência das Súmulas 7 e 83 do STJ.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 15.000,00 (quinze mil reais) não se mostra exorbitante nem desproporcional aos danos causados à vítima, que teve seu nome inscrito em órgão de proteção ao crédito em razão de cobrança indevida.
+4. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.467.051/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. HONORÁRIOS SUCUMBENCIAIS. REDISTRIBUIÇÃO E BASE DE CÁLCULO. REEXAME DE PROVAS. MULTA. EMBARGOS DE DECLARAÇÃO. INTUITO PROTELATÓRIO. SÚMULAS NºS 7 E 83/STJ.
+1. Na hipótese, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+2. A revisão da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, conforme as peculiaridades de cada caso concreto, providência incabível em recurso especial, nos termos da Súmula nº 7/STJ.
+3. No caso, rever a conclusão do tribunal de origem, que entendeu que a base de cálculo dos honorários era distinta porque houve satisfação da obrigação por uma das partes com extinção da execução em relação a ela, demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável ante a natureza excepcional da via eleita.
+3. A análise do art. 1.026, § 2º, do CPC, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, a atrair a incidência da Súmula nº 7/STJ.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, § 2º, do CPC (Súmula nº 83/STJ). Precedentes.
+5. Agravo interno não provido" (AgInt no AREsp n. 2.193.591/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023)
+No entanto, quanto aos juros moratórios, "a entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário" (AgInt nos EDcl no REsp nº 1.942.770/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23/3/2023).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. JUROS DE MORA. TERMO INICIAL DOS JUROS MORATÓRIOS INCIDENTES SOBRE A OBRIGAÇÃO DE REVISÃO DE BENEFÍCIO COMPLEMENTAR DECORRENTE DO RECONHECIMENTO SUPERVENIENTE DE VERBAS REMUNERATÓRIAS PELA JUSTIÇA DO TRABALHO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA CORRESPONDENTE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, "por ocasião do julgamento do Recurso Especial nº 1.312.736/RS, sob o rito dos repetitivos, foi reconhecida uma obrigação de fazer devida pela Entidade de Previdência Privada, condicionada à recomposição prévia integral pelo participante/assistido, não havendo que se falar em condenação ao pagamento de juros de mora desde a citação" (AgInt nos EDcl no REsp 1.886.703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe de 11/03/2021).
+2. Agravo interno desprovido." (AgInt no REsp nº 2.012.830/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 13/11/2023, DJe de 21/11/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. O patrocinador não possui legitimidade passiva para litígios que envolvam a revisão de benefício previdenciário complementar (Repetitivo/Tema 936/STJ).
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. "Por ocasião do julgamento do Recurso Especial nº 1.312.736/RS, sob o rito dos repetitivos, foi reconhecida uma obrigação de fazer devida pela Entidade de Previdência Privada, condicionada à recomposição prévia integral pelo participante/assistido, não havendo que se falar em condenação ao pagamento de juros de mora desde a citação" (AgInt nos EDcl no Resp 1886703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe 11/03/2021).
+4. Agravo interno desprovido" (AgInt no REsp n. 1.962.373/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022).
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de determinar a incidência dos juros de mora após a recomposição da re serva matemática.
+Mantenho a sucumbência fixada na origem.
+É o voto.
