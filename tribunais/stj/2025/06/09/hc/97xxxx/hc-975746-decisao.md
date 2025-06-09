@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO DE ALMEIDA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 9 anos e 8 meses de reclusão no regime inicial fechado e ao pagamento de 522 dias-multa, como incurso nas sanções dos arts. 33, caput, da Lei n. 11.343/2006, 180, caput, e 311, § 2º, III, ambos do Código Penal.
+A impetrante sustenta a insuficiência probatória para a condenação do paciente, a ausência de dolo, a necessidade de prevalência do princípio da presunção de inocência e a nulidade da prisão em flagrante em razão da ocorrência de violência policial.
+Requer, liminarmente e no mérito, que seja reconhecida a nulidade das provas decorrentes da prisão em flagrante, a incidência do princípio da consunção e a fixação de regime inicial menos gravoso para o cumprimento da pena.
+O pedido de liminar foi indeferido (fls. 75-76).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 120-121).
+É o relatório.
+No caso em análise, observa-se que o pronunciamento das instâncias ordinárias ainda não se exauriu, porquanto foram opostos embargos infringentes, os quais ainda se encontram pendentes de julgamento pelo Tribunal de origem. Dessa forma, o Superior Tribunal de Justiça não deve conhecer das questões suscitadas, pois o resultado do julgamento dessas matérias pela Corte estadual poderá influir no que será decidido por esta Corte Superior.
+Assim, o enfrentamento da controvérsia neste momento processual é prematuro.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PECULATO - ART. 312, § 1º, DO CÓDIGO PENAL. DOSIMETRIA. CONTINUIDADE DELITIVA. PEDIDO DE DIMINUIÇÃO DO GRAU DE EXASPERAÇÃO. NÚMERO DE INFRAÇÕES COMETIDAS. TESE DEFENSIVA A DEMANDAR REEXAME DE PROVAS. IMPOSSIBILIDADE DE ACOLHIMENTO. PRETENSÃO DEFENSIVA AINDA PENDENTE DE APRECIAÇÃO PELA CORTE ORIGINÁRIA. INCABÍVEL O CONHECIMENTO DO WRIT . AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Continuidade delitiva. Pedido de diminuição do grau de exasperação. Número de infrações cometidas. Na hipótese em foco, o Tribunal de origem considerou como proporcional o incremento de 2/3 (dois terços), tendo em vista, segundo disposto na sentença, a prática de 33 (trinta e três) repetições da conduta referente à emissão de notas frias. Desta feita, o entendimento firmado pela Corte originária está de acordo com a jurisprudência pacífica do STJ de que a fração de aumento de pena pela continuidade delitiva deve corresponder ao número de infrações penais cometidas. Nesse sentido, fixou-se a tese de que se deve "aplicar 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações; 1/2, para 6 infrações; e 2/3, para 7 ou mais infrações" (REsp n. 1.732.778/GO, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/8/2018).
+III - De mais a mais, o acolhimento da pretensão defensiva, ou seja, o reconhecimento de que o paciente seria responsável apenas pela prática de 04 (quatro) condutas delitivas, demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+IV - Por fim, ainda que assim não fosse, após consulta ao sítio eletrônico do Tribunal de origem e às informações aportadas aos autos às fls. 175-179, observa-se que o pedido vertido na exordial está, ainda, em discussão perante a Corte originária, no âmbito de embargos infringentes e de nulidade. Assim, "pendente de julgamento o recurso de embargos infringentes e de nulidade no Tribunal de origem, o que evidencia que o pronunciamento das instâncias ordinárias ainda não é definitivo, inviável a apreciação, em sede mandamental, de tema cujo resultado do julgamento poderá influir no que será decidido por esta Corte Superior" (AgRg no HC n. 772.940/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/10/2022).
+Agravo regimental desprovido.
+(AgRg no HC n. 651.386/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023, grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. MANUTENÇÃO DA CUSTÓDIA NO JULGAMENTO DA APELAÇÃO. PENDÊNCIA DE JULGAMENTO DE EMBARGOS INFRINGENTES E DE NULIDADE. MANDAMUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pendente de julgamento o recurso de embargos infringentes e de nulidade no Tribunal de origem, o que evidencia que o pronunciamento das instâncias ordinárias ainda não é definitivo, inviável a apreciação, em sede mandamental, de tema cujo resultado do julgamento poderá influir no que será decidido por esta Corte Superior.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 772.940/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022, grifo próprio.)
+Ante o exposto, nos termos do art. 210 do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
