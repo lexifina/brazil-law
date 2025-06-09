@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. COMPROVAÇÃO DO DOLO E DO DANO EFETIVO AO ERÁRIO. REVI SÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO
+1. O Tribunal de origem, com fundamento no acervo fático-probatório carreado aos autos, concluiu estar presente o dolo e o dano efetivo ao erário. Desconstituir essa premissa implicaria, necessariamente, incursão nos fatos e nas provas dos autos, providência inviável na via especial ante o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Evaldo José da Silva da decisão de minha relatoria de fls. 1671/1675, em que conheci do agravo para não conhecer do recurso especial com base nos seguintes fundamentos: (a) a condenação está calcada no dolo do réu, conforme exigência da nova redação do art. 10 da Lei de Improbidade Administrativa (Lei 8.429/1992), alterada pela Lei 14.230/2021; (b) entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+A parte agravante alega que não busca a reanálise de fatos e provas, não havendo que se falar na incidência da Súmula 7 do STJ.
+Sustenta que a condenação pautou-se na possibilidade de configuração de ato de improbidade por mera culpa, o que não é permitido pela legislação vigente.
+Afirma que a Lei 8.429/1992, alterada pela Lei 14.230/2021, exige a presença do elemento subjetivo doloso para caracterização do ato ímprobo, e que não há demonstração de dolo na sua conduta.
+Impugnação apresentada às fls. 1697/1700.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. COMPROVAÇÃO DO DOLO E DO DANO EFETIVO AO ERÁRIO. REVI SÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO
+1. O Tribunal de origem, com fundamento no acervo fático-probatório carreado aos autos, concluiu estar presente o dolo e o dano efetivo ao erário. Desconstituir essa premissa implicaria, necessariamente, incursão nos fatos e nas provas dos autos, providência inviável na via especial ante o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece acolhimento.
+Rememoro que, na origem, o MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS ajuizou ação civil pública por atos de improbidade administrativa contra EVALDO JOSE DA SILVA, ex-Prefeito do Município de Rialma, em razão de irregularidades no procedimento de licitação, na modalidade tomada de preço (menor preço), que deu origem aos contratos 166/08, 167/08, 168/08, 169/08 e ao aditivo 185/08, firmados pelo Município e pela empresa Gonçalves e Peixoto LTDA. para fornecimento de materiais de construção, o que tipificaria os arts. 10, V, e 11 da Lei 8.429/1992.
+O Juízo de primeiro grau julgou procedente o pedido para condenar o réu como incurso no art. 10, V, da LIA, aplicando-lhe as seguintes sanções, além da reparação do dano ao erário: suspensão de direitos políticos por cinco anos; proibição de contratar com o Poder Público pelo prazo de cinco anos; pagamento de multa civil no importe correspondente a trinta por cento do valor do dano (fls. 1.224/1.235).
+Interposta apelação, o Tribunal de origem manteve a condenação em razão da comprovação do elemento subjetivo doloso, já considerando as alterações trazidas pela Lei 14.230/2021 à Lei de Improbidade Administrativa. Eis o pertinente trecho do voto condutor do aresto (fls. 1.387/1.391):
+Infere-se que em virtude do procedimento licitatório foram realizadas os contratos nº 166/08, 169/08 e 185/08, os quais foram julgados ilegais pelo Tribunal de Contas dos Municípios, sob fundamento de haver superfaturamento nos preços, ocasionando, em tese, prejuízos ao erário municipal.
+Nesse toar, não prosperara a alegação de inocorrência do ato de improbidade administrativa, sob o argumento de que o Acórdão-IM nº 565/11 proferido pelo Tribunal de Contas do Município, que julgou pela ilegalidade dos contratos administrativos nºs 166/2008 e 169/2009, foi reformado pelo Acórdão-ID nº 11.111/2013, que entendeu que as despesas decorrentes dos contratos em comento não ultrapassaram os limites legais.
+Isso porque, o mencionado Acórdão AC-ID nº 11111/2013, não desconstituiu as ilegalidades apuradas no Acórdão AC-IM nº 565/11. Aliás, conforme alinhavado pelo Magistrado, na sentença:
+ ..
+Nesse aspecto, a conduta do Apelante causou prejuízo ao Município de Rialma, no importe de R$ 31.079,96 (trinta e um mil, setenta e nove reais e noventa e seis centavos), haja vista que as contratações realizadas apresentou majoração de quantitativos e preços unitários, fazendo com que os materiais de construção fossem adquiridos por preços superiores ao referencial, amoldando-se à conduta descrita no inciso V do art. 10 da Lei de Improbidade Administrativa.
+ ..
+Ao contrário do que alega o Apelante, o fato de ter sido realizada de forma livre e consciente a contratação de materiais por preços superiores ao referencial, caracteriza a prática de conduta dolosa, que enseja prejuízo ao erário, não necessário perquirir se houve ou não enriquecimento ilícito da parte.
+Além de ter causado prejuízo ao erário, merece destaque que não foram observados pelo Apelante os princípios constitucionais da legalidade, da moralidade e da eficiência. Portanto, caracterizada a sua responsabilidade, mister a manutenção da condenação imposta no primeiro grau.
+Verificada a tipificação da conduta perpetrada pelo Réu no art. 10, caput, inciso V, da Lei 8.429/1992, alterada pela Lei 14.230/2021, mister proceder a gradação das penalidades, nos termos do art. 12, caput, da mencionada legislação.
+A fixação das penas deve atender aos princípios constitucionais implícitos da razoabilidade e proporcionalidade, de modo a permitir a punição que se coadune com o ato ímprobo praticado e, observada, por óbvio, as peculiaridades do caso concreto e as condições pessoais do agente, bem ainda se revestir de caráter pedagógico.
+Ao cotejar as circunstâncias da causa com os limites delineados no art. 12 da LIA, verifica-se que a dosimetria da pena não merece redimensionamento, visto que observou o limite legal e caracteriza montante suficiente para reprovação da conduta e prevenção do ilícito.
+Já sob a égide das alterações introduzidas pela Lei 14.230/2021, o Tribunal local expressamente consignou que o réu agiu com vontade livre e consciente de contratar a empresa por preços superiores aos de mercado, o que causou efetivo prejuízo ao erário, tendo por evidenciado o elemento subjetivo doloso.
+Entendimento diverso, conforme pretendido - para o fim de prevalecer a tese de ausência de dolo, em razão de posterior reconhecimento da legalidade dos contratos pelo TCE -, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial". Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. NEPOTISMO. TEMA 1199 DO STF. RETROATIVIDADE RELATIVA. CONTINUIDADE TÍPICO-NORMATIVA. REENQUADRAMENTO DA CONDUTA. FUNDAMENTAÇÃO SUFICIENTE NA ORIGEM. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IX - Ademais, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ. Aliás, conforme pacífico entendimento desta Corte, o enfrentamento das questões atinentes à efetiva caracterização ou não de atos de improbidade administrativa descritos nos arts. 9º, 10 e 11 da LIA, sob as perspectivas objetiva - de caracterização ou não de enriquecimento ilícito, existência ou não de lesão ao erário e de violação ou não de princípios da administração pública - e subjetiva - consubstanciada pela existência ou não de elemento anímico -, demandam inconteste revolvimento fático-probatório. Neste sentido: AgInt no AREsp n. 2.117.559/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023.
+X - Agravo interno improvido.
+(AgInt no AREsp n. 2.129.455/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
