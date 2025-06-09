@@ -1,0 +1,123 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. CARÁTER MANIFESTAMENTE PROTELATÓRIO. MULTA DO ART. 1.026, § 2º, DO CPC. CABIMENTO.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados com aplicação de multa no importe de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Alessandra Carvalho da Costa contra acórdão proferido pela Primeira Turma, assim ementado (fl. 808):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+Em suas razões, a parte embargante sustenta haver omissão quanto à ofensa ao devido processo legal e à ampla defesa, como decorrência do indeferimento da produção de prova oral. Em suas próprias palavras (fl. 826):
+A decisão embargada sustenta que o julgamento antecipado da lide estaria amparado na suficiência da prova documental. No entanto, ignora completamente o fato de que a ação versa sobre assédio moral e perseguição institucional  matéria eminentemente fática e subjetiva  cuja elucidação exige necessariamente prova testemunhal.
+Ao indeferir a produção de provas requeridas expressamente pela parte autora, sem decisão fundamentada nos termos do artigo 370, parágrafo único, do CPC, a instância de origem incorreu em manifesta nulidade processual. Tal nulidade é objeto de recorribilidade e constitui cerceamento de defesa, em afronta direta ao artigo 5º, inciso LV, da Constituição Federal.
+O cerne do vício não é a simples inexistência de prova, mas a recusa judicial em permitir sua produção, obstando a formação regular do contraditório.
+De igual modo, aponta omissão no que tange à tese de contrariedade ao art. 73, V, da Lei n. 9.507/1997 e, ainda, em relação ao fundamento constitucional de seu recurso, asseverando, para tanto, o seguinte (fl. 827):
+3. Da omissão quanto à afronta ao art. 73, V, da Lei 9.504/97
+A decisão embargada não enfrentou a tese segundo a qual a remoção da servidora pública ocorreu dentro do período vedado pela legislação eleitoral (art. 73, V, da Lei 9.504/1997), constituindo nulidade absoluta do ato, independentemente de prova de prejuízo.
+A omissão em reconhecer essa tese importa em negativa de vigência à norma infraconstitucional e também em violação ao princípio da legalidade administrativa.
+4. Da omissão quanto ao fundamento constitucional do recurso
+Embora a decisão embargada tenha rejeitado o Recurso Especial com base em óbices formais (Súmulas 7 e 282/STF), não reconheceu que parte substancial da controvérsia é de índole constitucional. O recurso contém impugnação específica à violação de preceitos fundamentais do devido processo legal, ampla defesa, legalidade e moralidade administrativa, além do regime jurídico do servidor público.
+Tal omissão impede o regular encaminhamento da matéria ao Supremo Tribunal Federal, frustrando o direito da parte de ver apreciada a tese constitucional, em violação ao princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da CF).
+Lado outro, diz haver contradição acerca da inaplicabilidade do art. 1.025 do CPC, haja vista que "os embargos declaratórios opostos ao acórdão que julga a apelação têm por efeito a devolução da matéria ao tribunal, inclusive para fins de prequestionamento. A afirmação de que não houve provocação adequada do tribunal local é manifestamente contraditória com a realidade processual e impõe correção" (fl. 827).
+Requer, assim, o acolhimento dos embargos de declaração.
+Impugnação às fls. 832/833.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. CARÁTER MANIFESTAMENTE PROTELATÓRIO. MULTA DO ART. 1.026, § 2º, DO CPC. CABIMENTO.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados com aplicação de multa no importe de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Por sua vez, " n os termos da consolidada jurisprudência desta Corte Superior, os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, não podendo alcançar questões não alegadas oportunamente, sobre as quais se operou a preclusão consumativa" (AgInt no AREsp n. 2.312.653/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 28/4/2025).
+No caso, restou expressamente consignado no aresto que rejeitou os primeiros embargos de declaração que as questões de mérito deduzidas no apelo especial, e reprisadas no agravo interno, deixaram de ser apreciadas em virtude de óbices de natureza processual. Senão vejamos (fls. 812/817):
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado a aplicabilidade do óbice da Súmula 182/STJ, tendo em vista que os fundamentos que ensejaram o não conhecimento do apelo nobre não foram especificamente impugnados nas razões do agravo interno. Senão vejamos (fls. 778/780):
+Na espécie, conforme destacado no relatório acima, o decisum agravado deixou de conhecer do recurso especial pelos seguintes fundamentos: (a) a tese nulidade da sentença não foi acompanhada da indicação do dispositivo de lei federal, o que atrai a incidência da Súmula 284/STF; (b) a tese de cerceamento de defesa em virtude do julgamento antecipado da lide, bem como de ofensa ao art. 85, §§ 1º e 2º, do CPC, esbarram no óbice do Enunciado 7/STJ; ademais, não compete a esta Corte examinar eventual afronta a dispositivo constitucional; (c) ausência de prequestionamento da tese de intempestividade da contestação e, via de consequência, da necessidade de aplicação dos efeitos da revelia, incidindo, assim, a Súmula 282/STF; e (d) deficiência de fundamentação recursal, nos termos do já citado Verbete 284/STF, no que concerne à tese de ofensa ao art. 73, V, da Lei 9.504/1997.
+A propósito, confiram-se os seguintes trechos do decisório atacado (fls. 718/723):
+ ..
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, "não obstante a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, o deferimento somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgInt no AREsp n. 2.336.266/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 30/8/2024).
+Assim, defiro o pedido de gratuidade da justiça formulada pela parte recorrente, contudo, sem efeitos retroativos.
+Dito isto, presentes os pressupostos de admissibilidade do agravo, examino o próprio apelo especial.
+Inicialmente, consigne-se que o recurso especial não se presta a examinar eventual ofensa a dispositivo constitucional, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Por sua vez, na forma da jurisprudência desta Corte, "o Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp n. 1.846.621/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 11/12/2020).
+In casu, o recurso especial não pode ser conhecido no que tange à tese de nulidade da sentença - em razão de que, segundo a parte recorrente, não lhe foi dada a oportunidade de se manifestar acerca do despacho que determinou a conclusão dos autos para julgamento antecipado da lide -, uma vez não foi indicado, de forma clara, precisa e congruente, qual o dispositivo legal supostamente contrariado.
+Tal conclusão é corroborada pelo fato de que os dispositivos legais apontados nas razões recursais não possuem comando normativo capaz de sustentar a tese da parte recorrente.
+Logo, nesse ponto, incide o óbice da Súmula 284/STF.
+Também não prospera a tese de cerceamento de defesa.
+É firme o entendimento deste Superior Tribunal no sentido de que "não configurar cerceamento de defesa o julgamento antecipado da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, dispensando, na hipótese, a produção da prova testemunhal requerida, em observância aos princípios da livre admissibilidade da prova e da persuasão racional, nos termos do art. 370 do CPC/2015 (correspondente ao art. 130 do CPC/1973)" (AgInt no AgInt no AREsp n. 1.844.364/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 11/4/2024).
+Na espécie, a Corte local conclui que o julgamento antecipado da lide não importou em cerceamento de defesa, na medida em que as provas documentais contidas nos autos seria suficientes para se compreender os fatos narrados, motivo pelo qual seria despicienda a produção de prova testemunha ou a realização de depoimento pessoa da parte autora, ora recorrente. Veja-se (fl. 388):
+Assim, a despeito da afirmação da autora, há fundamento legal que autoriza o julgamento antecipado da lide, uma vez que os fatos suscitados para a comprovação do direito alegado estão satisfatoriamente documentados nos autos, havendo procedimento administrativo, ocorrências policiais, sanções aplicadas, depoimentos, áudios, processos criminais, os quais permitem compreender a dinâmica dos fatos.
+Dessa forma, não está demonstrada a imperiosa necessidade de outras provas, além das já documentadas nos autos.
+Nessa toada, para se modificar a premissa adotada no acórdão recorrido concernente à suficiência das provas contidas no caderno processual, seria necessário o revolvimento de matéria fática, o que esbarra no óbice da Súmula 7/STJ.
+A propósito, os seguintes julgados:
+ ..
+Lado outro, para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+Desse modo, considerando-se que o Tribunal de origem não se pronunciou acerca da alegada intempestividade da contestação e, por consequência, de uma possível aplicação dos efeitos da revelia ao caso, sequer tendo sido instado a fazê-lo por meio de embargos declaratórios, incide na espécie a Súmula 282/STF.
+ ..
+No que concerne à verba honorária, o Sodalício local manteve a condenação imposta pelo Juízo de primeiro grau à recorrente a partir da compreensão de que "não há que se falar em valor inestimável ou irrisório, sendo incabível a fixação equitativa, estando correta a fixação do juízo a quo com base no valor da causa, estipulado em R$ 80.000,00 (oitenta mil reais), no percentual mínimo de 10% (dez por cento)" (fl. 416).
+ ..
+Impende acrescentar que a alegação de que deve ser aplicada à espécie o art. 1.025 do CPC não merece acolhida, haja vista que nem sequer foram opostos embargos de declaração na espécie.
+Já nas razões do agravo interno agora examinado, a parte insurgente cinge-se a aduzir de forma genérica a inaplicabilidade dos aludidos óbices sumulares, deixando, como lhe incumbia (art. 1.021, § 1º, do CPC), de empreender efetivo combate aos fundamentos da decisão atacada.
+Nesse contexto, incide o referido enunciado sumular 182/STJ.
+A propósito:
+ ..
+De igual modo, a aplicabilidade da Súmula 284/STF também foi expressamente demonstrada. Confira-se (fls. 780/781):
+Especificamente em relação à tese de ofensa ao art. 73, V, da Lei 9.507/1997, melhor sorte não socorre à agravante.
+Referido dispositivo legal tem a seguinte redação:
+Art. 73. São proibidas aos agentes públicos, servidores ou não, as seguintes condutas tendentes a afetar a igualdade de oportunidades entre candidatos nos pleitos eleitorais:
+ ..
+V - nomear, contratar ou de qualquer forma admitir, demitir sem justa causa, suprimir ou readaptar vantagens ou por outros meios dificultar ou impedir o exercício funcional e, ainda, ex officio, remover, transferir ou exonerar servidor público, na circunscrição do pleito, nos três meses que o antecedem e até a posse dos eleitos, sob pena de nulidade de pleno direito, ressalvados:
+a) a nomeação ou exoneração de cargos em comissão e designação ou dispensa de funções de confiança;
+b) a nomeação para cargos do Poder Judiciário, do Ministério Público, dos Tribunais ou Conselhos de Contas e dos órgãos da Presidência da República;
+c) a nomeação dos aprovados em concursos públicos homologados até o início daquele prazo;
+d) a nomeação ou contratação necessária à instalação ou ao funcionamento inadiável de serviços públicos essenciais, com prévia e expressa autorização do Chefe do Poder Executivo;
+e) a transferência ou remoção ex officio de militares, policiais civis e de agentes penitenciários;
+Ocorre que referida tese foi alegada de forma genérica, eis que a parte ora agravante se limitou a aduzir que, "no caso em tela ocorreu a mudança de lotação/remoção da servidora no transcurso do período eleitoral" (fl. 444), sem que fosse efetivamente demonstrada de que forma tal remoção poderia "afetar a igualdade de oportunidades entre candidatos nos pleitos eleitorais" (art. 73, caput, parte final, da Lei n. 9.507/1997), mormente considerando-se que referida remoção, em 2022, se deu da cidade de Santa Maria/DF para a cidade do Gama/DF (mais próxima da residência da servidora, consoante descrito no acórdão recorrido - fl. 390).
+Destarte, correta a aplicação da Súmula 284/STF.
+De outro lado, constata-se a contradição quando, no contexto do acórdão, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão. Assim, a contradição que rende ensejo à oposição de Embargos de Declaração é aquela interna ao julgado, cumprindo trazer à luz o entendimento de Pontes de Miranda acerca do tema, in verbis:
+A contradição há de ser entre enunciados do acórdão, mesmo se o enunciado é de fundamento e outro é de conclusão, ou entre a ementa e o acórdão, ou entre o que vitoriosamente se decidira na votação e o teor do acórdão, discordância cuja existência se pode provar com os votos vencedores, ou a ata, ou outros dados (in Comentários ao Código de Processo Civil, Tomo VII, 3ª edição, Forense, 1999, p. 322).
+Por sua vez, verifica-se a obscuridade quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando na ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, existe obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível. É o que leciona Vicente Greco Filho:
+A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida (in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+In casu, inexistem as contradições e omissões indicadas pela parte embargante, considerando-se que: (a) não houve pronunciamento acerca das teses de cerceamento defesa e exorbitância dos honorários advocatícios de sucumbência, em virtude aplicação da Súmula 7/STJ; (b) foi expressamente consignado a inviabilidade de se aplicar a regra contida no art. 1.025 do CPC, considerando-se que nem sequer foram opostos embargos de declaração na origem.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+ ..
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Já nos segundos aclaratórios limita-se a parte embargante a reiterar os argumentos expendidos nos embargos de declaração anteriores, sem, todavia, indicar, de forma clara, precisa e congruente, os vícios alegadamente existentes no acórdão ora embargado.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de apontada omissão no julgado, traduzem, na verdade, o inconformismo da parte com o decisum tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no aresto embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Nesse diapasão, diante do manifesto propósito dos presentes embargos de declaração, aplica-se à parte recorrente a multa inserta no art. 1.026, § 2º, do CPC. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. REITERAÇÃO DE ARGUMENTOS. MERO INCONFORMISMO. RECURSO REJEITADO COM IMPOSIÇÃO DE MULTA.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC). Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Manifesto propósito procrastinatório da parte embargante, uma vez que insiste na utilização do recurso integrativo para manifestar seu inconformismo para com a solução conferida à causa.
+3. Embargos de declaração rejeitados com aplicação de multa no importe de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+(EDcl nos EDcl nos EDcl no AgInt no AREsp n. 1.506.127/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 20/12/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração. Condeno a parte embargante ao pagamento de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+É como voto.
