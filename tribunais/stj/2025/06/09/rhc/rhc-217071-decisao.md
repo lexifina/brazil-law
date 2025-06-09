@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ITHALO SAMUEL MENDES PEREIRA contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem de habeas corpus, assim ementado (fls. 563):
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO E MUNIÇÕES DE USO PERMITIDO E RESTRITO. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. INDÍCIOS DE AUTORIA E MATERIALIDADE. GRAVIDADE EM CONCRETO DOS FATOS APTA A DEMONSTRA A NECESSIDADE DE SEGREGAÇÃO CAUTELAR. PREENCHIDOS PRESSUPOSTOS E REQUISITOS DA PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE. ELEMENTOS CONCRETOS. ORDEM DENEGADA.
+Consta dos autos que o recorrente foi preso em flagrante, e a prisão foi convertida em preventiva, pela suposta prática dos delitos previstos no art. 33 da Lei 11.343/2006 e no art. 16 da Lei 10.826/2003.
+No presente recurso, sustenta a defesa que não estão presentes os requisitos do art. 312 do Código de Processo Penal e que o decreto prisional carece de fundamentação idônea. Ressalta que o acusado ostenta condições pessoais favoráveis. Alega possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura, ainda que com a imposição de medidas cautelares alternativas à prisão.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto de prisão preventiva tem a seguinte fundamentação (fls. 488-490):
+No que tange aos pressupostos, verifica-se do acervo probatório que há provas da materialidade das condutas, bem como fortes indicios de autoria, considerando o histórico de ocorrência policial de ID 10426207353, o auto de apreensão de ID 10426207363; os laudos toxicológicos preliminares de IDs 10426207387, 10426207391, 10426207394 e 10426210196; os exames de eficiência de IDs 10426207388, 10426207389, 10426207390, 10426207392, 10426207393, 10426207395 e 10426210197; e os depoimentos prestados na Depol, constantes do ID 10426207352.
+Extrai-se de tal documentação, em suma, que policiais militares receberam informações de que estava ocorrendo intenso tráfico de drogas em determinada residência local, inclusive na modalidade delivery, onde os moradores (os autuados e outros) também estavam impondo medo e terror na população, mediante ostentação de armas de fogo em via pública, com disparos frequentes. Ainda, que, realizado monitoramento prévio nas imediações, os conduzidos foram vistos saindo do interior da casa, sendo que João segurava algo nas mãos. Ao notar a presença polícial, ele dispensou o objeto, que se tratava de uma porção de haxixe, uma bucha de maconha e quantia em dinheiro. Realizadas buscas na residência, os policiais encontraram sobre a cama de um dos quartos, dentro de uma bolsa preta, doze tabletes de maconha, doladas e prontas para o comércio, vinco papelotes de cocaína, doladas e prontas para o comércio, três revólveres municiados, duas balanças de precisão, munições e material plástico tipo zip-lock, comumente utilizados para o fracionamento de drogas. João e Ithalo, que estavam em estado de agressividade, quebraram os celulares que portavai. Segundo informações adquiridas, por fim, a residência era alugada por Ithalo.
+Dando prosseguimento, a situação que se amolda perfeitamente à hipótese do art. 313, inciso I, do Código Processual Penal, pela pena máxima cominada na legislação.
+Já no que diz respeito aos fundamentos, acorde ao que entende o Ministério Público, a manutenção da prisão traz conveniência à garantia da ordem pública, nos termos do art. 312 do CPP.
+Com efeito, as circunstâncias da apreensão, natureza e forma de acondicionamento da droga, na casa que estaria alugada para Ithalo, revelam a periculosidade dos supostos agentes e o risco que eventual soltura traria a sociedade.
+É sabido que o tráfico de drogas é fomentador de diversas atividades criminosas, a exemplo dos crimes patrimoniais e contra a vida, notadamente em se considerando que, segundo as denúncias prestadas pela sociedade, os petrechos bélicos arrecadados estavam a ser utilizados para a intimidação de terceiros. E, são incontestes os transtornos graves à saúde pública que a comercialização de toda a droga encontrada causaria.
+Nesse espeque, não podem ser desconsideradas as informações de que as atividades espúrias estavam a ser desempenhadas nas proximidades de um parque de recreação, frequentado por crianças e adolescentes, circunstância que milita em desfavor dos autuados.
+Além do mais, foram apreendidas armas de fogo, o que demonstra a gravidade concreta da conduta.
+Ademais, como salientou o MP, o conduzido João já está sendo processado pela prática de crime desta mesma natureza, fato que, aliado ás demais circunstâncias da prisão, denota o risco de reiteração delitiva.
+A situação que exige uma postura enérgica dos órgãos estatais, proporcional à gravidade da conduta, sob pena até mesmo de descrédito que pode desaguar em recidiva.
+Nesse sentido, o entendimento jurisprudencial:  ..
+Como se vê, a prisão preventiva foi decretada mediante fundamentação idônea, para a garantia da ordem pública e para assegurar a aplicação da lei penal, considerando a gravidade concreta dos delitos em tese praticados - tráfico de drogas e posse de arma de fogo -, destacando a decisão que "intenso tráfico de drogas em determinada residência local, inclusive na modalidade delivery, onde os moradores (os autuados e outros) também estavam impondo medo e terror na população, mediante ostentação de armas de fogo em via pública, com disparos frequentes".
+Ressaltou-se, ainda, que, além da droga apreendida na busca pessoal (6,89 g de haxixe), na residência do paciente, "os policiais encontraram sobre a cama de um dos quartos, dentro de uma bolsa preta, doze tabletes de maconha, doladas e prontas para o comércio, vinco papelotes de cocaína, doladas e prontas para o comércio, três revólveres municiados, duas balanças de precisão, munições e material plástico tipo zip-lock, comumente utilizados para o fracionamento de drogas".
+Tais argumentos são suficientes para rechaçar o alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+De acordo com isso, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade" (AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Além disso, entende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E PORTE DE ARMAS. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus, mantendo a prisão preventiva dos agravantes por tráfico de drogas e porte de armas.
+2. Os agravantes foram presos em flagrante com 698,33g de maconha, 258,65g de cocaína, armas de fogo e munições, além de materiais para acondicionamento e pesagem de entorpecentes.
+3. O juízo de primeiro grau decretou a prisão preventiva com base na garantia da ordem pública, considerando a gravidade concreta das condutas e a insuficiência de medidas cautelares alternativas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, considerando a gravidade concreta das condutas delitivas e a apreensão de drogas e armas.
+III. Razões de decidir
+5. A prisão preventiva está fundamentada na necessidade de garantir a ordem pública, em razão da gravidade concreta das condutas, evidenciada pela quantidade e natureza das drogas e armas apreendidas.
+6. A jurisprudência desta Corte entende que a apreensão de armas e drogas em contexto de tráfico justifica a prisão preventiva, devido à periculosidade do acusado e à necessidade de acautelar a ordem pública.
+7. As condições pessoais favoráveis dos agravantes não são suficientes para afastar a prisão preventiva quando há fundamentação concreta para sua manutenção.
+8. Medidas cautelares alternativas são insuficientes para garantir a ordem pública, dada a gravidade das condutas e o risco de reiteração delitiva.
+IV. Dispositivo e tese
+9. Recurso improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada na garantia da ordem pública, evidenciada pela gravidade concreta das condutas delitivas e pela apreensão de drogas e armas. 2. As condições pessoais favoráveis não afastam a prisão preventiva quando há fundamentação concreta para sua manutenção. 3.
+Medidas cautelares alternativas são insuficientes quando a gravidade das condutas e o risco de reiteração delitiva justificam a prisão preventiva".
+Dispositivos relevantes citados: CPP, arts. 282, § 6º; 310, inc.
+II; 312; 313.Jurisprudência relevante citada: STJ, AgRg no HC 921.106/SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 13.11.2024; STJ, AgRg no HC 711.616/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 22.02.2022; STJ, AgRg no HC 862.104/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27.11.2023.
+(AgRg no RHC n. 211.842/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
