@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MORAIS E MATERIAIS. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGOU-LHE PROVIMENTO.
+1. Ação de obrigação de fazer c/c reparação de danos morais e materiais.
+2. Agravo interno interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento em virtude de não se verificar a negativa de prestação jurisdicional apontada, bem como pela incidência das Súmulas 7/STJ, 211/STJ, 284/STF e 283/STF.
+3. É inepta a petição de agravo interno que não impugna todos os fundamentos da decisão agravada.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por UNIMED SAO GONCALO NITEROI SOC COOP SERV MED HOSP LTDA, contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Ação: de obrigação de fazer c/c reparação de danos morais e materiais ajuizada por VALTERNITA MARTINS DE ARAÚJO em face da agravante e de UNIMED RIO COOPERTIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO visando a resilição do primeiro contrato de plano de saúde firmado e o cumprimento do segundo contrato sem a exigência de carência.
+Sentença: julgou improcedente a demanda.
+Acórdão: deu provimento ao recurso da parte agravada, nos termos da seguinte ementa:
+Apelação Cível. Ação Declaratória c/c Obrigação de Fazer c/c Indenizatória. Relação de Consumo. Plano de Saúde. Pedido de migração de plano com coparticipação para sem participação. Realização de contrato novo, com carência. Sentença de Improcedência. Reforma. Direito do Consumidor. Princípio da Vulnerabilidade. Violação ao princípio da boa-fé objetiva e seus deveres anexos de informação, transparência, cooperação e lealdade. Parte autora que comprovou ser portadora de neoplasia e a sua vontade de migrar para um plano sem coparticipação, em razão dos reiterados exames de que necessita. Vontade manifestada perante a administradora do plano. Falha na prestação do serviço. Danos morais configurados. Incidência da Teoria do Desvio Produtivo do Consumidor. Angústia da autora, durante o tratamento de neoplasia. Hipervulnerabilidade. Verba fixada em R$15.000,00(quinze mil reais), em observância dos Princípios da Razoabilidade e da Proporcionalidade. Juros de mora a contar da citação. Correção monetária nos termos da Súmula n.362 do E. STJ. Inversão dos honorários advocatícios sucumbenciais, nos termos do art. 85, §2º, do CPC. Jurisprudência e precedentes citados: 0235583-59.2020.8.19.0001 - APELAÇÃO. Des(a). ANTONIO ILOIZIO BARROS BASTOS - Julgamento: 14/06/2023 - DECIMA SEXTA CAMARA DE DIREITO PRIVADO. PROVIMENTO DO RECURSO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373 e 1025 do CPC, 186, 927 e 944 do CC e 13, parágrafo único, II, da lei 9656/98, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, aduz a inexistência de caracterização da responsabilidade civil, uma vez que a nova contratação se deu com a UNIMED RIO, pessoa jurídica distinta. Defende a legalidade do cancelamento do primeiro contrato de plano de saúde ante a inadimplência da parte. Consequentemente, sustenta a inexistência de qualquer ato ilícito a justificar a condenação em danos morais. Insurge-se, ademais, contra o valor fixado a título de compensação, reputando-o exorbitante.
+Decisão unipessoal: conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento em virtude de não se verificar a negativa de prestação jurisdicional apontada, bem como pela incidência da Súmula 284/STF na apontada ofensa aos arts. 1025 e 373 do CPC, 211/STJ na alegada violação do art. 13, parágrafo único, da Lei 9656/98, incidência da Súmula 7/STJ no tema da ocorrência de danos morais e o valor estipulado para sua compensação e da Súmula 283/STF a respeito da configuração da responsabilidade civil.
+Agravo interno: o agravante alega que notificou a parte agravada sobre sua inadimplência, restando claro que foi dela a responsabilidade pelo cancelamento do plano de saúde. Sustenta, ademais, a operadora teria agido em seu exercício regular do direito a respeito do cancelamento de plano de saúde de beneficiário inadimplente. Aduz, ainda, que a pretensão recursal não demanda o reexame de provas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MORAIS E MATERIAIS. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGOU-LHE PROVIMENTO.
+1. Ação de obrigação de fazer c/c reparação de danos morais e materiais.
+2. Agravo interno interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento em virtude de não se verificar a negativa de prestação jurisdicional apontada, bem como pela incidência das Súmulas 7/STJ, 211/STJ, 284/STF e 283/STF.
+3. É inepta a petição de agravo interno que não impugna todos os fundamentos da decisão agravada.
+4. Agravo interno não conhecido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, nos seguintes termos (e-STJ fls. 1094/1099):
+"RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade civil da parte agravante, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 373 e 1025 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 13, parágrafo único, II, da Lei 9656/98, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Dos danos morais
+Alterar o decidido no acórdão impugnado, no que se refere à efetiva configuração dos danos morais causados pela conduta das partes rés, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Quanto ao pleito de redução dos danos morais, esta Corte Superior de Justiça possui firme entendimento que a alteração do valor fixado a título de compensação por danos morais na estreita via do recurso especial somente pode ocorrer nas hipóteses em que se tratar de valor exorbitante ou irrisório, o que não se verifica nos autos, em que foi fixado o valor de R$ 15.000,00 (quinze mil reais), considerando a gravidade da doença e a extensão do dano experimentado pelo paciente. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 6/9/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/9/2016.
+Salvo essas hipóteses, incide a Súmula 7 do STJ, impedindo o conhecimento do recurso.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/RJ, de que embora a intenção da contratante estivesse clara no sentido de migração entre planos, a Unimed deixou de cumprir com o dever de informação, prejudicando a contratante por falta de transparência, embora tenha sustentado dentro da lide a impossibilidade da portabilidade pretendida, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a caracterização dos danos morais no caso dos autos, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO."
+Contudo, da análise das razões deduzidas neste agravo interno, verifica-se que a parte agravante limitou-se a sustentar de forma genérica e superficial a prescindibilidade de reexame de provas, não tendo impugnado nenhum dos fundamentos da decisão agravada.
+Na hipótese dos autos, não trouxe argumentos a respeito da ocorrência de negativa de prestação jurisdicional, prequestionamento da matéria apontada como violada, demonstração das violações perpetradas de forma a tornar suficiente a fundamentação do recurso, necessidade de reexame de matéria probatória relacionada à aferição da ocorrência de danos morais, bem como nada disse a respeito da incidência da Súmula 283/STF.
+Saliente-se que cabia à parte agravante, em atenção ao princípio da dialeticidade, impugnar todos os fundamentos aplicados na decisão agravada, ônus do qual não se desincumbiu.
+Não o fazendo, ou seja, não demonstrando a agravante o desacerto da decisão agravada, o conhecimento do presente agravo interno também se mostra inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
