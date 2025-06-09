@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigê ncia do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1439):
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. COMPENSAÇÃO INDEFERIDA NA ESFERA ADMINISTRATIVA. ALEGAÇÃO EM EMBARGOS À EXECUÇÃO FISCAL. IMPOSSIBILIDADE. SÚMULA 568/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte agravante, em síntese, sustenta: da leitura dos Embargos de Declaração, opostos em 25 de julho de 2024 perante a 3ª Turma Especializada do TRF2, observa-se, diversamente do apontado no Acórdão recorrido, que a Agravante indicou desde o princípio a violação aos arts. 357, II, IV e 369 da Lei nº 13.105/2015 (CPC) e art. 156, II da Lei nº 5.172 (Código Tributário Nacional) no intuito de prequestionar a matéria, o E. Tribunal Regional Federal da 2ª Região não se pronunciou sobre estes pontos, alegando a inexistência de erro material no v. acórdão embargado; toda a argumentação até agora exposta levou a crer que a falta de precisão na interpretação dos termos de acórdão representativo de repercussão geral, especialmente quanto à expressão "compensação realizada/efetivada", situa-se na origem das aplicações dissidentes do julgamento e a imposição de requisitos contrários à sua real intenção; é inequívoca a conclusão de que foi equivocada a aplicação do entendimento do STJ nº 07, uma vez que não pretende o contribuinte realizar a compensação diretamente nos Embargos à Execução, o que afasta a suposta violação à Súmula 7, mas comprovar tão somente comprovar a ausência dos requisitos de liquidez e certeza do débito cobrado, fator de total inviabilização do prosseguimento do curso executivo, por tal razão deve ser admitido e provido o Recurso Especial; o direito à prova constitui faculdade processual que emana dos direitos fundamentais ao contraditório e à ampla defesa (artigo 5º, inciso LV, da CF88), integrando o plexo de prerrogativas jurídicas asseguradas pelo devido processo legal (artigo 5º, inciso LIV, CF88) e pelo direito fundamental de acesso à justiça (artigo 5º, inciso XXXV, da CF88); conclui-se que a Recorrente faz jus ao crédito pleiteado, razão pela qual a referida compensação deveria ter sido homologada pela autoridade fiscal, de modo que o crédito tributário pretendido no processo de cobrança deve ser extinto em razão da compensação, nos termos do art. 156, II do CTN.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigê ncia do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+A decisão agravada não conheceu do recurso especial, quanto aos artigos 357, II e IV, e 369 do CPC, porquanto não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento, o que importou na incidência da Súmula 211 do STJ.
+Verifica-se que a parte agravante, nas presentes razões, limitou-se na afirma, genericamente, a ocorrência do prequestionamento.
+Com efeito, para que seja considerada infirmada a incidência da referida súmula, é necessário que a parte indique, transcrevendo-os, os trechos do julgado recorrido em que o colegiado de origem tratou do tema, decidindo sobre ele, de modo a demonstrar a efetiva ocorrência do prequestionamento da matéria. Isso porque o prequestionamento ficto não é aceito nesta Corte Superior onde é cediço ser condição imprescindível ao conhecimento do recurso especial que tenham sido ventilados, ainda que implicitamente, no contexto do acórdão combatido, os dispositivos legais indicados como malferidos, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão, de modo que se possa reconhecer qual norma direcionou o decisum objurgado.
+De igual modo, não houve impugnação específica quanto aos fundamentos remanescentes, porquanto nada apresentou quanto à incidência da Súmula n. 83 do STJ, que, por si só, manteria o não conhecimento da questão.
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+ ..
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.527.635/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte recorrente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido. (AgInt no REsp n. 1.934.426/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
