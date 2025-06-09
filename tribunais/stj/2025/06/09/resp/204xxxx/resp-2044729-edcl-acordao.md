@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CARACTERIZADAS. REDISCUSSÃO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de recurso de embargos de declaração oposto por MAURICIO DAL AGNOL contra o acórdão de fls. 1078-1083, proferido pela Quarta Turma do STJ, que não conheceu do agravo interno, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃODE MULTA. 1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º). 2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.3. Agravo interno não conhecido, com aplicação de multa." (fl. 1078)
+Nas razões dos aclaratórios, a parte insurgente alega omissão e obscuridade na decisão que não conheceu de seu recurso especial. Argumenta que a decisão recorrida não considerou adequadamente suas razões recursais, que impugnam o único fundamento da decisão do Tribunal de Justiça do Rio Grande do Sul (TJ/RS), o qual determinou que o termo inicial da prescrição seria a data da inabilitação profissional. Sustenta que, devido à existência de um contrato de prestação de serviços com cláusula de vencimento, o termo inicial da prescrição deveria ser a data da implementação da condição de vencimento, conforme o art. 25, I, da Lei 8.906/94. Aponta que o TJ/RS não se manifestou sobre os dispositivos legais suscitados, limitando-se a afirmar que a via processual utilizada era inadequada. Além disso, destaca a divergência jurisprudencial, citando casos em que o STJ decidiu que a suspensão da OAB não altera o termo inicial da prescrição, que deve respeitar a condição suspensiva estipulada em contrato. Requer sejam os embargos de declaração acolhidos para esclarecer a alegada ausência de impugnação dos fundamentos da decisão recorrida e a divergência jurisprudencial, visando ao julgamento do recurso especial.
+Sem contrarrazões (fl. 1103).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CARACTERIZADAS. REDISCUSSÃO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, a parte embargante afirma, conforme anteriormente relatado, que o acórdão embargado estaria eivado de vícios. Entretanto, conforme se infere do acórdão embargado, o agravo interno não foi conhecido, porquanto a parte ora embargante, nas razões do referido recurso, não impugnou o fundamento central da decisão monocrática agravada, senão vejamos:
+"O recurso não deve ser conhecido.
+Com efeito, a parte agravante não impugnou o fundamento adotado na r. decisão agravada, que não conheceu do recurso especial em virtude da incidência do óbice da Súmula 283/STF, limitando-se a agravante a reiterar os argumentos expostos no apelo nobre.
+Dessa forma, verifica-se que o inconformismo sob análise não observa a regra expressa prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015, que estabelece:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Ressalte-se, por oportuno, que o respeito à regra contida no dispositivo em questão não se trata de mero formalismo processual, mas decorre do princípio processual da dialeticidade, visto que, sem o específico ataque aos fundamentos da decisão agravada, estes permanecem incólumes, tornando inviável a reforma pleiteada nas razões do recurso." (fl. 1082)
+Logo, não há que se falar em omissão no julgado, haja vista que o agravo interno nem sequer ultrapassou o juízo de conhecimento, não merecendo análise as matérias nele veiculadas.
+Os presentes embargos declaratórios revelam, portanto, o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nestes aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
