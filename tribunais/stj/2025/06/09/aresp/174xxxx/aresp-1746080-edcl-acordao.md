@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  VÍCIO  EMBARGÁVEL.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  MULTA.  ART.  1.026,  §  2º,  DO  CPC.  INAPLICABILIDADE.  INTUITO  PROTELATÓRIO.  AUSÊNCIA.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  somente  é  aplicável  nas  hipóteses  em  que  constatada  a  intenção  manifestamente  protelatória  na  oposição  dos  embargos  de  declaração  o  que,  contudo,  não  ocorreu  na  hipótese.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  CENTRO  EMPRESARIAL  VARIG  (CEVARIG)  ao  acórdão  da  Terceira  Turma  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  CORREÇÃO  MONETÁRIA.  JUROS  DE  MORA.  TAXA  SELIC.  MATÉRIA  DE  ORDEM  PÚBLICA.  PRECLUSÃO.  COISA  JULGADA.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  DISCUSSÃO  ANTERIOR.  MULTA.  ART.  1.021,  §  4º,  DO  CPC.  INAPLICABILIDADE.
+1.  A  jurisprudência  desta  Corte  Superior  é  no  sentido  de  que,  enquanto  não  decididas,  as  questões  de  ordem  pública,  como  a  aplicação  de  correção  monetária  e  de  juros  moratórios,  "podem  ser  conhecidas,  inclusive  de  ofício,  em  qualquer  grau  de  jurisdição  ordinária,  pois  não  sujeitas  à  preclusão  temporal,  mas  à  coisa  julgada  e  sua  eficácia  preclusiva"  (AgInt  no  R  Esp  nº  1.910.903/SC,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  17/05/2021,  D  Je  18/06/2021).
+2.  Os  critérios  de  correção  do  débito  não  foram  analisados  na  origem  e,  assim,  sua  modificação,  nesse  momento  processual,  não  configura  ofensa  à  coisa  julgada  nem  preclusão  consumativa.
+3.  O  Superior  Tribunal  de  Justiça  firmou  entendimento  no  sentido  de  que  a  aplicação  da  penalidade  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.  Precedente  da  2ª  Seção.
+4.  Indispensável  que  o  agravo  interno  se  mostre  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  ocorreu  na  hipótese.
+5.  Agravo  interno  não  provido"  (e-STJ  fls.  4.649/4.653).
+Nas  presentes  razões  (e-STJ  fls.  4.658/4.662),  a  embargante  sustenta  omissão  e  contradição  no  julgado  quanto  à  circunstância  de  que  os  índices  de  juros  e  de  correção  monetária  foram  devidamente  homologados  por  decisão  transitada  em  julgado.
+Impugnação  apresentada  às  e-STJ  fls.  4.667/4.672,  com  pedido  de  condenação  da  embargante  na  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  VÍCIO  EMBARGÁVEL.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  MULTA.  ART.  1.026,  §  2º,  DO  CPC.  INAPLICABILIDADE.  INTUITO  PROTELATÓRIO.  AUSÊNCIA.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  somente  é  aplicável  nas  hipóteses  em  que  constatada  a  intenção  manifestamente  protelatória  na  oposição  dos  embargos  de  declaração  o  que,  contudo,  não  ocorreu  na  hipótese.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Os  embargos  de  declaração  são  admissíveis  nas  hipóteses  elencadas  no  art.  1.022  do  Código  de  Processo  Civil,  o  qual  prevê  o  seu  cabimento  para  esclarecer  obscuridade  ou  eliminar  contradição,  para  suprir  omissão  de  ponto  ou  questão  sobre  o  qual  devia  se  pronunciar  o  juiz  de  ofício  ou  a  requerimento  e  para  corrigir  erro  material.
+Ressalta-se  que  a  contradição  que  autoriza  o  acolhimento  dos  embargos  de  declaração  somente  se  revela  quando,  no  contexto  do  acórdão  embargado,  há  proposições  inconciliáveis  entre  si,  dificultando-lhe  a  compreensão.
+Na  espécie,  a  embargante  argui  omissão  e  contradição  do  julgado
+"ao  afirmar  não  ter  havido  decisão  quanto  aos  índices  de  juros  e  de  correção  monetária  quando,  em  verdade,  a  decisão  homologa  os  cálculos  do  CEVARIG  que  se  valeram  dos  índices  de  juros  de  1%  ao  mês  e  da  correção  monetária  divulgados  pelo  INPC"  (e-STJ  fl.  4.660)
+Sustenta  que
+"igualmente  contraditório  o  acórdão  ora  embargado  porque  reconheceu  que  o  GRUPO  OK  não  fez  referência  aos  índices  de  juros  e  correção  monetária  (havendo  a  homologação  dos  cálculos  do  CEVARIG)  e  deixou  de  aplicar  os  efeitos  da  preclusão  para  o  GRUPO  OK  decorrentes  da  decisão  homologatória"  (e-STJ  fl.  4.660)
+A  respeito  do  aludido  ponto,  o  aresto  embargado  foi  cristalino  ao  assentar  que:
+"A  irresignação  não  merece  prosperar.
+Da  leitura  atenta  dos  autos,  verifica-se  que  o  Tribunal  de  origem  negou  provimento  ao  agravo  interno  interposto  pela  parte  ora  agravada  contra  decisão  de  rejeição  à  impugnação  do  cumprimento  de  sentença,  sem  fazer  qualquer  referência  aos  índices  de  juros  e  de  correção  monetária  (e-STJ  fls.  3.291/3.302),  tal  como  reconhecido  pela  própria  agravante.
+Nesse  diapasão,  como  bem  pontuado  na  decisão  agravada,  na  hipótese,  os  critérios  de  correção  do  débito  não  foram  analisados  na  origem  e,  assim,  sua  modificação,  nesse  momento  processual,  não  configura  ofensa  à  coisa  julgada  nem  preclusão  consumativa.
+Tais  conclusões  estão  em  consonância  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  firmada  no  sentido  de  que,  enquanto  não  decididas,  as  questões  de  ordem  pública,  como  a  aplicação  de  correção  monetária  e  de  juros  moratórios,  podem  ser  conhecidas"  (e-STJ  fl.  4.651).
+Não  se  vislumbra,  portanto,  contradição  e  omissão  na  fundamentação  do  acórdão  impugnado,  que  solucionou  fundamentadamente  a  causa,  ainda  que  sob  ângulo  diverso  do  pretendido  pela  recorrente.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada,  situação  a  afastar  a  possibilidade  de  manejo  dos  aclaratórios.
+Desse  modo,  o  cotejo  das  razões  de  decidir  com  o  quanto  alegado  na  petição  dos  embargos  de  declaração  evidencia  a  inexistência  da  omissão  e  contradição  aventadas,  a  afastar  possibilidade  de  manejo  dos  aclaratórios.
+Anota-se,  ainda,  ser  incabível  a  aplicação  da  multa  requerida  em  contraminuta,  pois  não  se  verifica,  ao  menos  no  presente  momento,  o  caráter  protelatório  do  recurso  nem  a  prática  de  ato  atentatório  à  dignidade  da  justiça,  sendo  desnecessária,  portanto,  sua  aplicação.
+Confiram-se:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFEITOS  NA  FUNDAMENTAÇÃO  DO  ACÓRDÃO.  OMISSÃO.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INTUITO  PROTELATÓRIO  NÃO  EVIDENCIADO.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Nos  termos  do  art.  1.022,  I,  II  e  III,  do  CPC/2015,  os  embargos  de  declaração  se  destinam  a  eliminar  no  julgado  eventual  omissão,  obscuridade  ou  contradição,  ou  ainda  corrigir  erro  material,  não  se  caracterizando  via  própria  ao  rejulgamento  da  causa.
+2.  O  acórdão  é  suficiente  ao  fundamentar  que  a  tese  de  violação  à  coisa  julgada  não  foi  analisada  pelo  Tribunal  de  origem,  a  despeito  da  oposição  dos  embargos  de  declaração.  Prequestionamento  ausente.
+3.  O  prequestionamento  ficto  só  pode  ocorrer  quando,  na  interposição  do  recurso  especial,  a  parte  recorrente  tiver  sustentado  violação  ao  art.  1.022  do  CPC/2015  e  esta  Corte  Superior  constatar  o  vício  apontado,  requisitos  ausentes  na  hipótese.  Precedentes.
+4.  Incabível  a  multa  do  art.  1.026,  §  2º,  do  CPC/2015,  por  não  se  constatar  a  intenção  manifestamente  protelatória  na  oposição  dos  embargos  de  declaração.
+5.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  2.457.152/DF,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  14/10/2024,  DJe  de  16/10/2024).
+"EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  MULTAS  DOS  ARTS.  80  E  1.026,  §  2º,  DO  CPC/2015.  NÃO  INCIDÊNCIA.  OMISSÃO  NÃO  CARACTERIZADA.  REJEIÇÃO.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão.
+2.  O  mero  inconformismo  da  parte  embargada  com  a  oposição  de  embargos  de  declaração  não  autoriza  a  imposição  da  multa  prevista  no  §  2º  do  art.  1.026  do  CPC/2015,  uma  vez  que,  no  caso,  não  se  encontra  configurado  o  caráter  manifestamente  protelatório,  requisito  indispensável  à  imposição  da  sanção  (EDcl  no  AgInt  no  AREsp  2.197.043/MG,  Relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  3/4/2023,  DJe  de  10/4/2023).
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  2.196.207/SP,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  12/3/2024,  DJe  de  18/3/2024).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  com  a  advertência  de  que,  havendo  reiteração  de  embargos  protelatórios,  a  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil  será  aplicada.
+É  o  vot o
