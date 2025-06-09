@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC.
+1. De acordo com a norma prevista no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp n. 1.559.725/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe de 30/8/2017).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Aço-Fer Comércio de Produtos Siderúrgicos Ltda. desafiando acórdão prolatado pela eg. Primeira Turma, assim ementado (fl. 841):
+TRIBUTÁRIO. PROCESSO CIVIL. ILEGITIMIDADE PASSIVA. MANDADO DE SEGURANÇA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280/STF.
+1. O exame da controvérsia tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (o ), pretensão Decreto Estadual n. 47.794/2019 e a Lei n. 6.763/1975 insuscetível de ser apreciada em recurso especial, conforme a Súmula n. 280/STF (" Por ofensa a direito local não cabe recurso ").
+extraordinário
+2. Agravo interno não provido.
+A parte embargante, em suas razões, sustenta omissão no aresto embargado, sustentando, em síntese, que "a controvérsia relativa à ilegitimidade passiva da Autoridade Coatora tem solução no artigo 6º, § 3º, da Lei nº 12.016/2009, portanto, Lei Federal, o qual dispõe que "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".  negrito nosso . Assim, a expressa imposição legal acerca da legitimidade passiva e da figura da Autoridade Coatora como sendo a Embargada dispensa análise de dispositivos de lei local, pois não culmina em sua ofensa. Não obstante, mesmo que assim não se entenda, o Estado de Minas Gerais compõe o polo passivo da ação desde a fase de conhecimento (v.g. fls. e-STJ 437/467; 622/658), de modo que, se ocorreu, fora suprida a suposta irregularidade reconhecida de ofício" (fls. 798/799).
+Intimada a parte embargada, foi apresentada impugnação às fls. 807/811.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC.
+1. De acordo com a norma prevista no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp n. 1.559.725/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe de 30/8/2017).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Da simples leitura do relatório antes realizado, extrai-se o nítido intento da parte de infringir o julgado, o que não se coaduna com a via integrativa.
+Realmente, conforme dispõe o artigo 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. No caso, não se verifica a existência de quaisquer das referidas deficiências.
+No que tange à alegada omissão quanto à questão trazida na insurgência recursal, em que se alega a legitimidade passiva da autoridade indicada como coatora no mandamus, a saber, o Superintendente de Tributação do Estado de Minas Gerais, o aresto embargado consignou expressamente a impossibilidade de conhecimento do apelo raro no caso concreto, tendo em vista que o Sodalício a quo fundou suas razões de decidir na interpretação de dispositivos da legislação local que versam sobre as atribuições da Superintendência de Tributação local a fim de compreender pela ilegitimidade passiva, a saber, Decreto estadual n. 47.794/2019. Confiram-se, por oportuno, os trechos pertinentes (fls. 845/846 ):
+ ..  o mandado de segurança foi impetrado contra ato do Superintendente de Tributação do Estado de Minas Gerais. Ocorre que, na espécie, a Corte local reconheceu a ilegitimidade passiva no caso dos autos, com base nos seguintes fundamentos (fls. 708/712, g.n.):
+Nos termos do art. 37 do Decreto Estadual nº 47.794/2019, que dispõe sobre a organização da Secretaria de Estado da Fazenda, as delegacias fiscais têm competência para executar o controle fiscal, conforme orientação da Superintendência Regional da Fazenda a que estiverem subordinadas.
+Ainda, no universo de suas atribuições, estão as de formalizar o crédito tributário, aplicar penalidades e arrecadar tributos.
+ ..
+Cumpre à Diretoria do Contencioso Fiscal aprimorar a qualidade do lançamento por meio de disseminação das decisões reiteradas do Poder Judiciário junto ao Auditor Fiscal da Receita Estadual.
+Por sua vez, conforme preconiza o art. 201, §1º, da Lei nº 6.763/1975 (Consolidação da Legislação Tributária do Estado de Minas Gerais), "compete exclusivamente aos Auditores Fiscais da Receita Estadual, aos Agentes Fiscais de Tributos Estaduais e aos Fiscais de Tributos Estaduais o exercício das atividades de fiscalização e de lançamento do crédito tributário".
+Ou seja, não existem dúvidas quanto à legitimidade dos Auditores e Delegados Fiscais para que figurem no polo passivo de ações como esta. No entanto, no que concerne ao Superintendente de Tributação, a ilegitimidade é patente. É que, de fato, não estão entre as suas atribuições a formalização e a arrecadação do crédito tributário. No ponto, o art. 27 do Decreto Estadual nº 47.794/2019 estabelece as atribuições da Superintendência de Tributação:
+No apelo raro susta a ora agravante que a legitimidade da autoridade indicada como coatora é incontroversa, tendo em vista que possui competência para determinar o ato que consiste na "exação de diferenças de alíquotas de ICMS em operações interestaduais" (fl. 727).
+Como se vê, em verdade, o exame da controvérsia tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (o Decreto Estadual n. 47.794/2019 e a Lei n. 6.763/1975), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula n. 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Logo, não há falar em omissão, pelo que o acórdão embargado encontra-se hígido em sua fundamentação no tocante ao ponto suscitado.
+Além disso, afasta-se qualquer alegação de omissão no que concerne à alegação de que " a  Embargante suscitou questão essencial em relação à ilegitimidade passiva da Autoridade Coatora indicada e pelo fato de que houve a participação do Ente Público nos autos desde a ação de conhecimento" (fl. 854), tendo em vista que a Corte de origem não se manifestou acerca da referida tese, tampouco cuidou a parte ora embargante de manejar os pertinentes aclaratórios perante a Corte a quo a fim de suscitar eventual omissão, ressaindo, nítida, a falta de prequestionamento da questão que ora pretende suscitar como omitida.
+Como se vê, a col. Primeira Turma adotou fundamentação mais que suficiente para solucionar a balda, não havendo qualquer erro material ou de premissa, omissão, contradição ou obscuridade a suprir; mas tão somente o intuito da recorrente de infringir o que restou decidido, o que não é compatível com a via estreita integrativa, como cediço.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/3/2021.)
+Por fim e a latere, acrescente-se que, " s  e o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp n. 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
