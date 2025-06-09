@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/06/2025 a 09/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO APONTADO COMO VIOLADO. SÚMULA 284/STF. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. É inviável o conhecimento do recurso quando não há comando normativo no dispositivo apontado como violado capaz de sustentar a tese deduzida pela parte recorrente bem como de infirmar a validade dos fundamentos do acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal, por analogia.
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RONILDE SOUSA da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso especial por incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal e por ausência de comprovação do dissídio jurisprudencial conforme as disposições legais e regimentais (fls. 475/480).
+A parte agravante afirma que o dispositivo legal tido por violado contém comando normativo eficaz, que os argumentos constantes de seu recurso não estão dissociados do que foi abordado no acórdão recorrido e que foi realizado o cotejo analítico, devendo, ainda, ser mitigados os requisitos para comprovação da divergência jurisprudencial suscitada.
+Requer a reforma da decisão agravada.
+A parte adversa não apresentou impugnação (fl. 498).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO APONTADO COMO VIOLADO. SÚMULA 284/STF. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. É inviável o conhecimento do recurso quando não há comando normativo no dispositivo apontado como violado capaz de sustentar a tese deduzida pela parte recorrente bem como de infirmar a validade dos fundamentos do acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal, por analogia.
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não há razão para dar provimento à pretensão recursal.
+A parte recorrente alegou violação ao art. 1.014 do Código de Processo Civil (CPC), uma vez que seria incabível a declaração de ilegitimidade ativa para o cumprimento individual da sentença proferida em ação coletiva, porque essa questão estaria acobertada pela preclusão.
+Não é mesmo possível conhecer do recurso quanto ao ponto porque o dispositivo em questão não contém comando normativo capaz de infirmar as seguintes conclusões do Tribunal de origem:
+" ..  não há como reconhecer a legitimidade do apelante para figurar no polo ativo da demanda, uma vez que o SINTSEP possui abrangência mais ampla, alcançando os servidores públicos que não possuem sindicato específico representativo de sua categoria, o que não ocorre no vertente caso" (fl. 295).
+"Ademais, não procede a tese de que ocorreu preclusão da matéria, sob o argumento de que o Estado do Maranhão não arguiu a ilegitimidade na fase de liquidação do julgado, em virtude de que somente nesta fase de cumprimento individual de sentença é que foi possível aferir o não enquadramento do apelante como substituído pela referida entidade sindical" (fl. 302).
+Está correta, portanto, a incidência no presente caso, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+Ademais, o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, no acórdão recorrido, decidiu nos seguintes termos (fl. 302):
+Ressalte-se que por se tratar de ação coletiva que beneficiou mais de dez mil servidores era inviável na fase de liquidação a aferição da situação de cada um dos requerentes individualmente, sob pena de tornar o processo infindável. Por oportuno, insta esclarecer que a liquidação da sentença foi delimitada a três mil substituídos, sendo que aos demais restou facultada a utilização dos mesmos parâmetros (de liquidação) empregados aos servidores que constavam da referida lista para o ajuizamento das ações de cumprimento individual do julgado.
+Assim, conclui-se que o juízo sentenciante reconheceu oportunamente a ilegitimidade da apelante em razão das circunstâncias do caso, razão pela qual não há como acolher a tese de preclusão da matéria.
+Em seu recurso especial, a parte recorrente argumentou que (fl. 309):
+ ..  as partes constam dos autos desde 2009, figurando como requerentes da fase de liquidação por arbitramento, sem qualquer impedimento, fazendo-se constar o seu nome na relação apresentada pela Contadoria Judicial, com posterior decisão de homologação dessa lista.
+Com isso, não há o que se falar em ilegitimidade a essa altura, por restar caracterizada a preclusão, conforme entendimento firmado pelo STJ no sentido de que as matérias de ordem pública - embora possam ser tratadas a qualquer tempo - também estão sujeitas a preclusão.
+Em nova análise do recurso, constato que a parte recorrente apresentou razões dissociadas do que havia sido decidido no acórdão recorrido, pois, ao contrário do que ela aduziu, o Tribunal de origem decidiu que a questão relativa à legitimidade ativa não estava preclusa, porque era inviável na fase de liquidação a aferição da situação de cada um dos requerentes individualmente (sob pena de tornar o processo infindável) , tendo o Juízo sentenciante reconhecido oportunamente a ilegitimidade em razão das circunstâncias do presente caso.
+Concluo que está correta a decisão que não conheceu do recurso da parte ora agravante por aplicação, novamente, da Súmula 284 do Supremo Tribunal Federal, por analogia.
+Por fim, para o Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os julgados comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+ ..
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.893.155/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021, sem destaque no original.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO PERMANÊNCIA. PRESCRIÇÃO. ALEGAÇÃO DE RELAÇÃO DE TRATO SUCESSIVO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+VII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.656.796/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaque no original.)
+No caso dos autos, a parte ora agravante não procedeu ao devido cotejo analítico dos julgados confrontados, apenas transcreveu suas ementas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
