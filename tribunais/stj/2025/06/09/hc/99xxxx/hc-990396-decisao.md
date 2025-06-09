@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBERTO LUIZ SOARES DE ARAUJO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO proferido na Apelação Criminal n. 0809310-74.2019.4.05.8400.
+Consta dos autos que o paciente foi absolvido da imputação do crime previsto no art. 1º, incisos I e II, c/c o art. 12, inciso I, da Lei n. 8.137/1990, (crime contra a ordem tributária).
+Todavia, a apelação manejada pelo Parquet foi provida com a condenação do paciente à pena de 3 anos, 1 mês e 9 dias de reclusão, na forma continuada.
+Eis a ementa do julgado atacado:
+"PENAL. PROCESSO PENAL. ART. 1º, I, I E II, C/C ART. 12, I, DA LEI Nº 8.137/90, CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 70 DO CÓDIGO PENAL. SENTENÇA INADEQUADA, APELAÇÃO DO MINISTÉRIO PÚBLICO PROVIDA.
+1. Apelação criminal interposta contra Sentença que absolveu RL SdA do art. 1º, I e II, c/c art. 12, I, da Lei nº 8.137, de 27 de dezembro de 1990.
+2. O Ministério Público Federal recorreu, pleiteando a reforma da sentença de primeiro grau, para fins de condenar o apelado pela prática de crimes previstos no art. 1.º, incisos I e II, c/c art. 12, inciso I, ambos da Lei n.º 8.137/90, na forma do art. 70 do Código Penal (duas vezes).
+3. A parte apresentou contrarrazões, na qual rogou pelo improvimento do recurso apresentado pelo MPF, mantendo-se incólume a sentença.
+4. A Sentença atacada merece reforma.
+5. Da análise dos autos apresentados, é certo que a autoria delitiva resta plenamente comprovada no caso em comento, tendo em vista que, à época dos fatos, RL SdA era o sócio-administrador da empresa SOARES & ARAÚJO LTDA. - EPP, sendo, portanto, o responsável pelas informações contábeis e fiscais, além de representar a referida empresa não somente durante o procedimento de fiscalização, mas também em todos os seus atos.
+6. Restou devidamente demonstrado que, em suma, o acusado, de maneira consciente e voluntária, fraudou a fiscalização tributária, por meio da inserção de elementos inexatos em documento exigido pela lei fiscal, suprimindo, assim, tributos federais ao omitir, diante das autoridades fazendárias, informações relacionadas aos ganhos de capital auferidos pela empresa SOARES & ARAÚJO LTDA, com a venda do imóvel "Enseada Praia Hotel" ao SESC AR/RN, em 2009.
+7. Neste sentido o acusado RL SdA deve ser condenado como incurso no crime previsto no art. 1º, incisos I e II, c/c art. 12, inciso I, ambos da Lei n.º 8.137/90, na forma do art. 70 do Código Penal (duas vezes), à pena definitiva de 03 (três) anos 1 (um) mês e 9 (nove) dias de reclusão, mais 90 (noventa) dias-multa, sendo o valor do dia-multa fixado em 1/3 (um terço) do salário mínimo vigente.
+8. Deve, entretanto, ser substituída tal pena privativa de liberdade imposta a ROBERTO por duas restritivas de direitos, quais sejam: prestação de serviços à entidade pública (art. 43, IV, do CP), devendo ser cumprida à razão de uma hora por dia de condenação (art. 46, § 3º, do CP), consoante vier a ser fixado pelo Juízo da Execução; e prestação pecuniária, a ser indicada pelo Juízo da Execução, podendo o mesmo, caso a situação fática a recomende, operar a substituição dessa segunda pena restritiva por outra mais conveniente (art. 45, §2º do CP).
+9. Apelação criminal do MPF provida." (fls. 57/58).
+Daí o presente writ, no qual a defesa busca a redução da pena, ao argumento de que a conduta do paciente deveria ser considerada crime único, com o afastamento do concurso formal.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. SONEGAÇÃO FISCAL. CONDENAÇÃO. RECONHECIMENTO DE CONCURSO FORMAL. ILEGALIDADE.
+1. Paciente condenado por fraudar "a fiscalização tributária, por meio da inserção de elementos inexatos em documento ou livro exigido pela lei fiscal, suprimindo, assim, tributos federais ao omitir, diante das autoridades fazendárias, informações relacionadas aos ganhos de capital auferidos pela empresa SOARES & ARAÚJO LTDA, com a venda do imóvel "Enseada Praia Hotel" ao SESC AR/RN, em 2009" (e-STJ fl. 54).
+2. Caracteriza crime único a conduta de declarar imposto de renda de forma inexata, provocando a redução ou supressão de tributo, pouco importando se de um ou mais impostos ou contribuição social. Precedentes do STJ.
+3. Constrangimento ilegal evidenciado.
+Parecer pela concessão do writ, a fim de afastar o concurso formal de crimes reconhecido em desfavor do paciente." (fl. 1.415).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Todavia, passo a analisar os autos a fim de verificar a ocorrência de eventual flagrante ilegalidade.
+Consta da judiciosa peça opinativa:
+"Com razão o writ.
+Segundo o acórdão de apelação, restou "devidamente demonstrado que, em suma, o acusado, de maneira consciente e voluntária, fraudou a fiscalização tributária, por meio da inserção de elementos inexatos em documento ou livro exigido pela lei fiscal, suprimindo, assim, tributos federais ao omitir, diante das autoridades fazendárias, informações relacionadas aos ganhos de capital auferidos pela empresa SOARES & ARAÚJO LTDA, com a venda do imóvel "Enseada Praia Hotel" ao SESC AR/RN, em 2009" (e-STJ Fl. 54).
+Por esse fato, o Tribunal a quo reconheceu a ocorrência de concurso formal de crimes contra a ordem tributária, nos seguintes termos:
+ Como  causa de aumento de pena, identifico àquela prevista no artigo 70 do CP (duas vezes, em concurso formal), uma vez que houve a redução de tributos federais de natureza diversa (IRPJ e CSLL) e utilizo para aumentar a pena em 1/6 (um sexto). (e-STJ Fl. 56)
+Ocorre que a jurisprudência pacífica desse STJ é no sentido de que caracteriza crime único a conduta de declarar imposto de renda de forma inexata, provocando a redução ou supressão de tributo, pouco importando se de um ou mais impostos ou contribuição social, como ilustram os precedentes abaixo:
+ I  - In casu, o réu apresentou em 2003 declaração com informações falsas, referentes ao ano calendário de 2002, sobre a receita da sociedade empresária da qual era contador, o que ocasionou a supressão ou redução de 4 (quatro) tributos federais (IRPJ, CSLL, COFINS e PIS).
+II - "Não há concurso formal, mas crime único, na hipótese em que o contribuinte, numa única conduta, declara Imposto de Renda de Pessoa Jurídica com a inserção de dados falsos, ainda que tal conduta tenha obstado o lançamento de mais de um tributo ou contribuição. (REsp 1294687/PE, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, D Je 24/10/2013, grifei). (AgRg no REsp n. 1.552.955/PE, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/2/2018, DJe de 21/2/2018.)
+ 1.  No crime de sonegação fiscal o bem jurídico tutelado não é o patrimônio ou erário de cada pessoa jurídica de direito público titular de competência para instituir e arrecadar tributos - fiscais (entes federativos) ou parafiscais (entidades autárquicas) - mas, sim, a ordem jurídica tributária como um todo.
+2. A conduta consistente em praticar qualquer uma ou todas as modalidades descritas nos incisos I a V do art. 1 da Lei nº 8.137/90 (crime misto alternativo) conduz à consumação de crime de sonegação fiscal quando houver supressão ou redução de tributo, pouco importando se atingidos um ou mais impostos ou contribuições sociais.
+3. Não há concurso formal, mas crime único, na hipótese em que o contribuinte, numa única conduta, declara Imposto de Renda de Pessoa Jurídica com a inserção de dados falsos, ainda que tal conduta tenha obstado o lançamento de mais de um tributo ou contribuição. (REsp n. 1.294.687/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/10/2013, DJe de 24/10/2013.)
+Destarte, o parecer é pela concessão do writ, a fim de afastar o concurso formal de crimes reconhecido em desfavor do paciente." (fls. 1.416/1.417).
+Como visto das bem lançadas razões do parecer ministerial, as quais adoto como fundamentos para decidir, a conduta do paciente - de realizar declaração errônea do imposto de renda, ainda que haja a diminuição do valor de mais de um tributo - caracteriza crime único.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Todavia, concedo a ordem, de ofício, com a redução da pena do paciente para 2 anos e 8 meses de reclusão.
+Publique-se.
+Intimem-se.
+EMENTA
