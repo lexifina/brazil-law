@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PLEITO DE NULIDADE AFASTADO. EXAME DE SANIDADE INDEFERIDO NA ORIGEM. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se as instâncias ordinárias concluíram pela desnecessidade de realização de exame de sanidade mental, ante a motivação apresentada em consonância com todos os elementos probatórios já contidos nos autos, desconstituir tal conclusão importaria o exame do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial, o que atrai o óbice da súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MAURICIO RICARDO REGINATO contra decisão monocrática de minha relatoria, em que não conheci do agravo no recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 780):
+Tráfico ilícito de entorpecentes Apelação Nulidade processual não evidenciada Conjunto probatório suficiente para o reconhecimento da prática delitiva Desclassificação Descabimento Pena motivadamente dosada, necessária e suficiente à reprovabilidade da conduta Sentença mantida Recurso desprovido.
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls.889-902).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PLEITO DE NULIDADE AFASTADO. EXAME DE SANIDADE INDEFERIDO NA ORIGEM. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se as instâncias ordinárias concluíram pela desnecessidade de realização de exame de sanidade mental, ante a motivação apresentada em consonância com todos os elementos probatórios já contidos nos autos, desconstituir tal conclusão importaria o exame do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial, o que atrai o óbice da súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos (e-STJ fls. 880-884).
+O Tribunal de origem não admitiu o recurso, tendo em vista que a ausência de utilidade, posto que a pena majorada na primeira fase foi reduzida pela confissão espontânea, aplicando, neste argumento a súmula n. 283/STF. No tocante ao o pedido de nulidade da decisão, por não ter oportunizado o recorrente realizar exame de sanidade mental, aplicou o óbice da Súmula n. 7/STJ (e-STJ fls. 833-835).
+No entanto, o recorrente deixou de infirmar esses fundamentos, limitando-se a reproduzir as razões do recurso especial.
+Verifica-se que a defesa não argumentou especificamente de que forma não demandaria incursão no acervo fático-probatório dos autos a revisão das premissas fixadas pelo Tribunal de origem.
+No caso, deveria ele demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão de origem, o que não aconteceu.
+Conforme bem salientado pelo Ministério Público Federal em seu parecer, cujos fundamentos adoto como razões de decidir (e-STJ fl. 875):
+Preliminarmente, o agravo não merece ser conhecido em face da ausência de interesse recursal.
+Caberia ao agravante impugnar especificamente cada um dos fundamentos da decisão agravada, a teor do art. 932, inciso II, do Código de Processo Civil, segundo o qual incumbe ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Todavia, no presente agravo, o recorrente não esclareceu, com robustez e objetividade, os motivos pelos quais o entendimento firmado pelo Tribunal "a quo" estaria equivocado, tendo apresentado impugnações insuficientes, alegações genéricas, não pormenorizadas, ou se limitado a reiterar as razões apresentadas por ocasião da interposição do recurso especial.
+Logo, a não impugnação específica dos fundamentos para negar trânsito ao recurso especial desrespeita ainda o princípio da dialeticidade, o que leva ao não conhecimento do agravo.
+Tal hipótese caracteriza inequívoca deficiência de fundamentação, nos termos das súmulas 284/STF, 283/STF e 182/STJ, aplicáveis ao caso, por analogia, conforme entendimento desse eg. STJ.
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 do Superior Tribunal de Justiça
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. PLEITO PARA INTIMAÇÃO QUANTO À DATA DE JULGAMENTO, COM O FIM DE APRESENTAR SUSTENTAÇÃO ORAL. INCABÍVEL MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.os 7 e 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. PEDIDO PARA CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 258 do Regimento Interno deste Superior Tribunal de Justiça, o agravo regimental relativo à matéria penal em geral será apresentado em mesa, para que o órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a. Além disso, o art. 159, inciso IV, do RISTJ também afasta a realização de sustentação oral no julgamento do agravo regimental, salvo expressa disposição legal em contrário, o que não constitui a hipótese dos autos. Precedente da Terceira Seção.
+2. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à aplicação da Súmula 284 do Supremo Tribunal Federal, e à incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, atraindo, à espécie, a aplicação da Súmula n. 182/STJ.
+3. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+5. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1777813/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/3/2021, DJe 25/3/2021.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. PLEITO DE NULIDADE. JULGAMENTO MONOCRÁTICO. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. 2. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. 3. PEDIDO DE REVOGAÇÃO DA PRISÃO CAUTELAR. IMPROPRIEDADE DA VIA ELEITA. RECURSO DE FUNDAMENTAÇÃO VINCULADA. 4. AGRAVO NÃO CONHECIDO.
+1. O cabimento do agravo autoriza o exame do recurso especial, para que se possa aferir se a matéria trazida ultrapassa os óbices sumulares, situação que não se verificou na hipótese dos autos. Assim, embora se tenha conhecido em parte do recurso especial, este foi improvido, em virtude da incidência dos verbetes ns. 7 e 83 da Súmula do Superior Tribunal de Justiça. Ademais, diversamente da alegação do agravante, não há óbice ao julgamento monocrático do recurso especial, conforme autoriza o RISTJ, bem como o art. 932 do CPC. Relevante registrar, outrossim, que os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. Com pequenas alterações, o agravante se limitou a repetir as razões do recurso especial. Assim, a petição recursal do agravante não impugna os fundamentos da decisão agravada, esbarrando, dessa forma, no óbice do enunciado n. 182 da Súmula desta Corte. Nesse contexto, não havendo impugnação específica e pormenorizada à fundamentação declinada para conhecer do agravo e conhecer em parte do recurso especial, para negar-lhe provimento, fica inviável o conhecimento do presente agravo regimental, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+3. No que concerne ao pedido de revogação da prisão preventiva, esclareço que o especial é recurso com fundamentação vinculada, no qual se discute a fiel aplicação dos textos legais, e não a justiça da avaliação dos fatos realizada pela Corte local. Assim, inviável analisar, na via eleita, a possibilidade de aplicação das medidas cautelares diversas da prisão.
+4. Agravo regimental não conhecido.
+(AgRg nos EDcl no AREsp 1219543/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/8/2018, DJe 10/8/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RAZÕES RECURSAIS QUE NÃO IMPUGNAM O FUNDAMENTO PRINCIPAL DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182 do STJ).
+2. No caso sub examinem, infere-se que a agravante limitou-se a aduzir a existência de similitude fática entre o caso dos autos e os paradigmas apontados, furtando-se a elidir o fundamento da decisão agravada subjacente à ausência de juntada das cópias integrais autenticadas dos arestos apontados como paradigmas, bem como da falta de indicação do repositório oficial em que tais decisões tenham sido publicadas. Assim, a ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência do Enunciado Sumular n. 182 desta Corte.
+3. Agravo regimental não conhecido.
+(AgRg nos EREsp 1184505/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 23/2/2011, DJe 2/3/2011, grifei.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Da leitura da decisão transcrita verifica-se que persistem os fundamentos nela descritos, posto que existentes os óbices nela apontados o que impede o conhecimento do agravo em recurso especial, conforme delineado.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
