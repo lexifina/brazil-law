@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por RODRIGO SIMONINI GONZALEZ e SALVADOR ISSA GONZALEZ contra decisão que obstou a subida de recurso especial.
+O recurso especial foi interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 29):
+CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ADMISSIBILIDADE. REITERADA FRUSTRAÇÃO DO ADIMPLEMENTO DA CONDENAÇÃO ESTABELECIDA EM SENTENÇA PELA EXECUTADA, ALIADA À CONFISSÃO, PELOS AGRAVANTES, QUANTO AO ENCERRAMENTO DE FATO DAS ATIVIDADES COMBINADO COM CONSTATAÇÃO, POR OFICIAL DE JUSTIÇA, DA INATIVIDADE DA EMPRESA. ABUSO DE DIREITO BEM CARACTERIZADO. INTELIGÊNCIA DO ART. 50 DO CC/02. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+Sem embargos de declaração.
+No recurso especial, as partes recorrentes alegam que o acórdão recorrido violou o disposto nos arts. 50 e 1.024 do Código Civil, ao deferir a desconsideração da personalidade jurídica com base na mera ausência de ativos e no encerramento das atividades da devedora, sem observar os pressupostos legais necessários para tal medida.
+Foram apresentadas contrarrazões ao recurso especial (fls. 53-56).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 57-58), o que ensejou a interposição de agravo.
+Apresentada contraminuta ao agravo (fls. 69-76).
+É, no essencial, o relatório.
+Ultrapassados os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Assiste razão às partes recorrentes, porquanto o acórdão recorrido está em dissonância com a jurisprudência mais recente desta Corte.
+Da análise do acórdão recorrido, observa-se que o Tribunal de origem manteve a decisão de desconsideração da personalidade jurídica amparado unicamente na frustração da execução e no encerramento irregular das atividades empresariais da executada. Vejamos (fls. 30-32):
+Cuida-se de recurso de agravo de instrumento tirado contra decisão interlocutória que, em ação monitória, ora em fase de cumprimento de sentença, determinou a desconsideração da personalidade jurídica da executada e a inclusão, no polo passivo, de seus sócios.
+Desmerece acolhida o recurso.
+Isso porque, presente, de um lado, a reiterada frustração da satisfação do crédito por parte da executada (execução, note-se, foi iniciada há, aproximadamente, quatro anos, sem resultado algum até o momento); de outro, é confesso o efetivo encerramento irregular das atividades da devedora, restando caracterizado o pressuposto do abuso de direito estabelecido, no artigo 50 do Código Civil, como condição para a adoção do procedimento da disregard of legal entity.
+Note-se que os agravantes se limitam a admitir a ausência de satisfação do crédito até o momento presente e a discorrer sobre o encerramento das atividades da empresa sem qualquer justificativa (fl. 5), o que, singelamente, corrobora a alegação da ocorrência de abuso de direito advindo da situação de encerramento de fato, e irregular, da empresa.
+Como, aliás, vem se decidindo:
+"Agravo de Instrumento. Execução de sentença. Desconsideração da personalidade jurídica. Possibilidade. Ausência de notícia da existência de bens da executada capazes de garantir o crédito executado. Indícios de encerramento das atividades que foram confirmadas posteriormente. Redirecionamento da execução contra os sócios. Nega-se provimento ao recurso." (TJSP Agravo de Instrumento nº. 0174288-44.2011.8.26.0000 Suzano 5ª Câmara de Direito Privado Rel. Des. Christine Santini j. 29.02.2012)
+Ademais, foram expedidos mandados de constatação, por oficial de justiça, que comprovaram o encerramento da empresa. Foi constatado, por oficial de justiça, na ação monitório o seguinte: "atualmente funciona a empresa FERGARO no local, onde CONSTATEI que a empresa SIMONINI IND E COM DEPRODS ALIMENTÍCIOS LTDA., encontra-se inativa temporariamente por conta da Inscrição Estadual, segundo informou a Sra. Danieli,  , que cuida da contabilidade da empresa." certidão de fls. 385, expedida na data de 17 de agosto de 2020.
+No incidente de desconsideração da personalidade jurídica foi contatado que a empresa "não possui quadro de funcionários e não possui faturamento, possuindo, apenas, veículos e equipamentos, penhorados em diversos processos judiciais, armazenados em um barracão e em uma garagem" certidão de fls. 95 do incidente, expedida na data de 14 de dezembro de 2021.
+Destarte, em suma, presentes os pressupostos para a desconsideração da personalidade jurídica ante a frustração reiterada da execução, aliada ao irregular encerramento das atividades empresariais da executada não merece acolhida o recurso de agravo, mantida a decisão que determinou a impugnada medida ampliativa da responsabilidade civil.
+Ocorre que, nos termos da jurisprudência desta Corte, a Teoria Maior da desconsideração da personalidade jurídica, adotada pelo art. 50 do Código Civil, exige a comprovação de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, de forma que a mera inexistência de bens penhoráveis ou o eventual encerramento irregular das atividades da empresa não justificam o deferimento de tal medida, que possui caráter excepcional.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA DESTA CORTE E, DE PLANO, CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica a partir da Teoria Maior (art. 50 do Código Civil) exige a comprovação de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pelo que a mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não justifica o deferimento de tal medida excepcional.
+Precedentes. Incidência da Súmula 83 do STJ.
+ ..
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.771.793/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. ACÓRDÃO RECORRIDO E JURISPRUDÊNCIA ASSENTE DESTE TRIBUNAL. CONSONÂNCIA. SÚMULA 568/STJ. DESCONSTITUIÇÃO DOS FUNDAMENTOS DO ARESTO ESTADUAL. IMPOSSIBILIDADE. SÚMULA N. 7 DESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO.
+1.O encerramento irregular da pessoa juridica e a sua insuficiência patrimonial não constituem hipóteses de desconsideração da personalidade jurídica à luz do rol do art. 50 do Código Civil.
+2. Estando os fundamentos adotados pelo acórdão recorrido em consonância com o entendimento firmado nesta Corte, incide, no caso, o teor da Súmula n. 568 do STJ.
+ ..
+4. Recurso especial não conhecido.
+(REsp n. 2.200.561/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DESERÇÃO. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA SOCIEDADE EMPRESÁRIA E AUSÊNCIA DE BENS. REQUISITOS INSUFICIENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão de deserção. Reconsideração.
+2. Consoante entendimento desta Corte Superior, "a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial" (AgInt no AREsp 1.712.305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/4/2021, DJe de 14/4/2021).
+3. Na hipótese, o pedido de desconsideração da personalidade jurídica foi acolhido com fundamento na ausência de patrimônio da empresa executada e no encerramento irregular de suas atividades, presumindo-se que tal situação advém de má administração ou desvio de bens, devendo os sócios responder pela inexistência de patrimônio da sociedade. Tal entendimento não se coaduna com a jurisprudência do STJ, merecendo reforma.
+4. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.451.651/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Assim, merece reforma o acórdão recorrido, uma vez que deu interpretação divergente ao art. 50 do Código Civil e à jurisprudência firmada no STJ.
+Ante o exposto, com fundamento na Súmula n. 568/STJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, para reformar o acórdão recorrido e afastar a desconsideração da personalidade jurídica da sociedade empresária executada.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
