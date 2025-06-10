@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por FACCIN LOGÍSTICA LTDA., com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 171):
+REMESSA NECESSÁRIA. TRIBUTÁRIO. PROCESSO CIVIL. MANDADO DE SEGURANÇA. EXCLUSÃO DE BENEFÍCIOS FISCAIS DE ICMS. NATUREZA PREVENTIVA. LEI EM TESE.
+É incabível a ação de mandado de segurança para discutir a incidência de tributos federais sobre benefícios fiscais de ICMS, em quaisquer de suas modalidades, quando não provada a existência de lei estadual que os tenha outorgado.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação dos arts. 1.022, II, parágrafo único, II, e 489, § 1º, IV, ambos do Código de Processo Civil (CPC), ao argumento de que o acórdão não enfrentou todas as teses deduzidas no processo capazes de infirmar a conclusão adotada pelo julgador.
+Sustenta ofensa ao art. 30, caput e §§ 4º e 5º, da Lei 12.973/2014 e ao art. 1º, caput e parágrafo único, I e IV, da Lei Complementar 24/1975, afirmando que os benefícios fiscais de ICMS são subvenções para investimento e devem ser deduzidos da base de cálculo do IRPJ e CSLL.
+Contrarrazões apresentadas às fls. 212/226.
+O recurso foi admitido na origem (fl. 229).
+É o relatório.
+O recurso especial tem origem em mandado de segurança visando à exclusão de benefícios fiscais de Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) da base de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL), conforme previsto no Convênio CONFAZ 190/2017 e na Lei Complementar 160/2017.
+A sentença de primeira instância havia acolhido a pretensão da impetrante, mas o Tribunal Regional Federal da 4ª Região reformou a decisão, extinguindo o processo sem resolução de mérito com base nos seguintes fundamentos:
+No mandado de segurança em matéria tributária, ainda que tenha natureza preventiva, nos termos do art. 1º, "caput", da Lei nº 12.016/09, como é a hipótese dos autos, o impetrante deve provar com a petição inicial a ocorrência dos fatos ou da existência de hipóteses normativas de outros entes da federação que constituem o pressuposto da incidência do IRPJ/CSL.
+No caso, como a pretensão é para que todos os benefícios fiscais de ICMS previstos no Convênio nº 190/17 sejam excluídos da base de cálculo do IRPJ/CSL, a impetrante deveria ter comprovado não apenas a existência de leis estaduais que concedem benefícios fiscais de ICMS, mas a especificação de cada benefício.
+Como isto não ocorreu, há mera suposição de incidência de tributos federais sobre benefícios fiscais estaduais. Não existe uma ameaça objetiva e concreta do ato de lançamento. O tratamento tributário do IRPJ/CSL necessariamente passa pela análise da legislação estadual que concede o benefício fiscal e seria temerário conceder um salvo conduto, de forma genérica e imprecisa.
+Sem a prova da existência de previsão normativa que tenha outorgado os benefícios fiscais de ICMS, mediante a especificação da natureza e forma de apuração de cada benefício, é afastada a ameaça concreta de violação do direito do contribuinte de não se submeter à incidência tributária, deslocando o mandado de segurança contra a lei em tese, vedado pela Súmula 266 do STF.
+Neste sentido, o STF tem reiterados precedentes de que "a lei em tese, como norma abstrata de conduta, não lesa qualquer direito individual, razão pela qual, na forma da Súmula 266 do Supremo Tribunal Federal, não é passível de impugnação por mandado de segurança" (RMS 34432 AgRg).
+Quanto à apontada violação dos arts. 489 e 1.022 do Código de Processo Civil, considerando que não houve a necessária oposição de embargos de declaração para provocar o Tribunal de origem a esclarecer obscuridade, eliminar contradição ou suprir omissão, o exame da alegada nulidade do julgado se encontra inviabilizado em razão do óbice contido na Súmula 284 do Supremo Tribunal Federal (STF), aplicado por analogia.
+Nesse mesmo sentido: AgInt nos EDcl nos EDcl no AREsp 1.794.204/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021; e AgInt no REsp 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2016, DJe de 6/10/2016.
+No acórdão recorrido, o Tribunal de origem decidiu que é incabível mandado de segurança contra a lei em tese.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que há direito à dedução dos benefícios fiscais de ICMS sobre a base de incidência do IRPJ e da CSLL, incluindo todos os incentivos fiscais previstos no Convênio CONFAZ 190/2017.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, os arts. 30 da Lei 12.973/2014, e 1º da Lei Complementar 24/1975 não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
