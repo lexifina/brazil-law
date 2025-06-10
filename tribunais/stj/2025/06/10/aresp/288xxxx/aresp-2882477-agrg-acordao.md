@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Busca domiciliar. Inexistência de nulidade. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial, mantendo a validade de busca domiciliar realizada com autorização devidamente assinada pela moradora do imóvel.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca domiciliar realizada com autorização do morador, devidamente documentada, configura violação ao princípio da inviolabilidade do domicílio.
+3. A defesa alega que a autorização para a busca domiciliar não foi prestada de forma livre e esclarecida, questionando a sua validade.
+III. Razões de decidir
+4. A autorização para a busca domiciliar foi assinada pela moradora e por testemunhas, não havendo evidências de coação ou constrangimento.
+5. A jurisprudência do STF e do STJ admite a entrada em domicílio sem mandado judicial em casos de flagrante delito, desde que existam fundadas razões justificadas a posteriori, assim como ocorrido na espécie.
+6. No caso, a modificação do entendimento externado no acórdão recorrido, a fim de reconhecer que a assinatura do termo de autorização para a entrada dos policiais na residência, se deu mediante coação, demandaria reexame do conteúdo fático-probatório, o que é inviável em sede de recurso especial, conforme o enunciado da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A entrada em domicílio sem mandado judicial é lícita em casos de flagrante delito, desde que existam fundadas razões justificadas a posteriori". 2. A autorização para busca domiciliar, quando documentada e assinada pelo morador e testemunhas, é válida e não configura violação ao princípio da inviolabilidade do domicílio.".
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, art. 157.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, julgado em 05.11.2015; STJ, AgRg no HC 632.502/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 02.03.2021; AgRg no HC n. 850.604/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 30/10/2024; AgRg no HC n. 805.973/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO DALISSON DOS SANTOS MENDES contra decisão deste Relator que, fundamentada no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento (e-STJ, fls. 513-517).
+A defesa alega que a discussão não demanda reexame do conjunto fático-probatório, mas sim a valoração jurídica da atuação policial à luz do art. 157 do CPP, e dos princípios constitucionais da inviolabilidade do domicílio (art. 5º, XI, da CR) e do devido processo legal.
+No mais, reitera os argumentos expendidos no recurso especial, no sentido de que a busca domiciliar na residência do recorrente reveste-se de ilegalidade manifesta, destacando que o termo de autorização não pode ser considerado válido e suficiente para afastar a proteção constitucional da inviolabilidade do domicílio, haja vista que não há provas de que essa anuência foi prestada de forma livre e esclarecida.
+Requer, assim, o conhecimento e o provimento do presente agravo regimental para reformar a decisão agravada (e-STJ, fls. 528-534).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Busca domiciliar. Inexistência de nulidade. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial, mantendo a validade de busca domiciliar realizada com autorização devidamente assinada pela moradora do imóvel.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca domiciliar realizada com autorização do morador, devidamente documentada, configura violação ao princípio da inviolabilidade do domicílio.
+3. A defesa alega que a autorização para a busca domiciliar não foi prestada de forma livre e esclarecida, questionando a sua validade.
+III. Razões de decidir
+4. A autorização para a busca domiciliar foi assinada pela moradora e por testemunhas, não havendo evidências de coação ou constrangimento.
+5. A jurisprudência do STF e do STJ admite a entrada em domicílio sem mandado judicial em casos de flagrante delito, desde que existam fundadas razões justificadas a posteriori, assim como ocorrido na espécie.
+6. No caso, a modificação do entendimento externado no acórdão recorrido, a fim de reconhecer que a assinatura do termo de autorização para a entrada dos policiais na residência, se deu mediante coação, demandaria reexame do conteúdo fático-probatório, o que é inviável em sede de recurso especial, conforme o enunciado da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A entrada em domicílio sem mandado judicial é lícita em casos de flagrante delito, desde que existam fundadas razões justificadas a posteriori". 2. A autorização para busca domiciliar, quando documentada e assinada pelo morador e testemunhas, é válida e não configura violação ao princípio da inviolabilidade do domicílio.".
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, art. 157.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, julgado em 05.11.2015; STJ, AgRg no HC 632.502/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 02.03.2021; AgRg no HC n. 850.604/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 30/10/2024; AgRg no HC n. 805.973/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023.
+VOTO
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Conforme consignado na decisão agravada, no que tange à alegada nulidade decorrente da busca domiciliar não autorizada, vale lembrar que a Constituição da República, no art. 5º, inciso XI, estabelece que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial." Como se verifica, as hipóteses de inviolabilidade do domicílio serão excepcionadas quando: (i) houver autorização judicial; (ii) flagrante delito ou (iii) haja consentimento do morador.
+Ao interpretar parte da referida norma, o Plenário do Supremo Tribunal Federal, no julgamento do RE 603.616/RO, esclareceu que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro GILMAR MENDES, julgado em 05/11/2015). Ou seja, as buscas domiciliares sem autorização judicial dependem, para sua validade e regularidade, da existência de fundadas razões de que naquela localidade esteja ocorrendo um delito.
+A seguir, confiram-se julgados que respaldam esse entendimento:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE RECONHECIMENTO DE NULIDADE ANTERIOR À AÇÃO PENAL, APÓS A SENTENÇA CONDENATÓRIA. UTILIZAÇÃO DO WRIT COMO UMA SEGUNDA APELAÇÃO. INVIABILIDADE. INGRESSO EM DOMICÍLIO SEM AUTORIZAÇÃO. POSSIBILIDADE DESDE QUE EXISTAM FUNDADAS RAZÕES. SITUAÇÃO DE FLAGRÂNCIA.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente a impetração quando evidenciado que, além de o impetrante ter se utilizado do writ de forma indevida, a insurgência, relativa à fase procedimental de investigação, foi formulada após a sentença condenatória, na qual foi rechaçada a hipótese de nulidade decorrente da entrada dos policiais no imóvel em que ocorria a prática do crime de tráfico de drogas.
+2. Este Superior Tribunal possui entendimento no sentido de que inexiste nulidade no ingresso em domicílio, quando existem fundadas razões para a relativização da garantia da inviolabilidade, evidenciada pelo contexto fático anterior, a denotar a efetiva prática de crime no interior do imóvel. Precedente.
+3. Agravo regimental improvido." (AgRg no HC 632.502/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/03/2021, DJe 09/03/2021).
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO DE MENORES. INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. INOCÊNCIA. VIA INADEQUADA. PRISÃO PREVENTIVA. GRANDE QUANTIDADE DE ENTORPECENTE. GRAVIDADE CONCRETA DA CONDUTA. QUALIDADES PESSOAIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO.
+1. A tese de insuficiência das provas de autoria e materialidade quanto ao tipo penal imputado consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+2. A garantia constitucional de inviolabilidade ao domicílio é excepcionada nos casos de flagrante delito, não se exigindo, em tais hipóteses, mandado judicial para ingressar na residência do agente. Todavia, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio. No caso, como bem destacado no acórdão recorrido, "a Polícia Militar diligenciou no sentido de apurar fundada suspeita da prática de crime de tráfico de entorpecentes em sua residência".
+3. A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX da CF). Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+4. As circunstâncias fáticas do crime, como a grande quantidade apreendida, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade. No caso, foram apreendidos com o paciente 508,10g de crack, além de 4 pinos de cocaína.
+5. As condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado.
+6. Recurso conhecido em parte e, nessa extensão, desprovido. (RHC 140.916/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021).
+Na hipótese, o Tribunal de origem refutou a nulidade pela violação de domicílio com base nos seguintes fundamentos:
+"No caso dos autos, compreendo que a abordagem foi pautada em critérios subjetivos e objetivos, ao meu sentir suficientes para legitimar e autorizar a busca domiciliar.
+Explico.
+A rigor, dispõe o artigo 5º inciso XI da Constituição Federal que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem o consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+É consabido que o Superior Tribunal de Justiça fixou balizas jurisprudenciais para controle do ingresso policial em domicílio no caso de crime permanente. No HC 616.584, a 3ª Seção da Corte Superior unificou as seguintes orientações sobre prova de autorização do morador para a entrada da Polícia:
+(1) Na hipótese de suspeita de crime em flagrante, exige-se, em termos de "standard" probatório para ingresso no domicílio do suspeito sem mandado judicial, a existência de fundadas razões (justa causa), aferidas de modo objetivo e devidamente justificadas, de maneira a indicar que dentro da casa ocorre situação de flagrante delito.
+(2) O tráfico ilícito de entorpecentes, em que pese ser classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicílio onde supostamente se encontra a droga.
+Apenas será permitido o ingresso em situações de urgência, quando se concluir que do atraso decorrente da obtenção de mandado judicial se possa, objetiva e concretamente, inferir que a prova do crime (ou a própria droga) será destruída ou ocultada.
+(3) O consentimento do morador, para validar o ingresso de agentes estatais em sua casa e a busca e apreensão de objetos relacionados ao crime, precisa ser voluntário e livre de qualquer tipo de constrangimento ou coação.
+(4) A prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser feita com declaração assinada pela pessoa que autorizou o ingresso domiciliar, indicando-se, sempre que possível, testemunhas do ato.
+(5) A violação a essas regras e condições legais e constitucionais para o ingresso no domicílio alheio resulta na ilicitude das provas obtidas em decorrência da medida, bem como das demais provas que dela decorrerem em relação de causalidade, sem prejuízo de eventual responsabilização penal dos agentes públicos que tenham realizado a diligência. (HC 616.584 - 3ª Seção - Turmas penais unificam orientação sobre prova de autorização do morador para a entrada da polícia).
+Com base nesses critérios, nota-se, à fl. 92, cópia do termo de autorização para busca domiciliar assinado pela moradora, companheira do acusado, ora réu, bem como por testemunhas. Assim, vê-se que a Equipe Policial colheu autorização expressa dos habitantes da casa para ingresso ao ambiente.
+A alegação de que houve coação para assinatura do termo de autorização não encontra amparo nas providas coligidas aos autos, inclusive aquelas produzidas em Juízo, havendo efetiva formalização da autorização de busca domiciliar.
+Destarte, não havendo que se falar em apreensão ilícita por invasão de domicílio, considero válidas as provas apresentadas pela acusação, sobretudo diante da inexistência de violação ao artigo 5º inciso XI da Constituição Federal." (e-STJ, fls. 424-426).
+Da leitura do trecho transcrito, verifica-se que, no caso em apreço, houve autorização escrita da esposa do recorrente, devidamente assinada por ela e por testemunhas, para a entrada dos policiais na residência, de modo que não se observa a apontada ilegalidade.
+Corrobora:
+" ..
+II - No caso concreto, conforme consignou a Corte a quo, a atuação policial foi escorreita e restou fundada em fortes razões, consubstanciadas nas informações e diligência prévias, aptas ao embasamento das abordagens pessoal e domiciliar. Note- se, inclusive, que, de fato, não há que se falar em suposta invasão de domicílio, porquanto a irmã do agravante, que é proprietária do imóvel, concedeu autorização assinada por ela e por uma testemunha para o ingresso dos policiais na residência.
+III - O trânsito em julgado da condenação prejudicou os pedidos de trancamento da ação penal e da revogação da prisão preventiva, agora convertida em prisão para cumprimento de pena definitiva.
+Agravo regimental desprovido." (AgRg no HC n. 850.604/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+" ..
+4. Além disso, consta do acórdão impugnado que há filmagens da operação comprovando que a entrada no local foi consentida pelo morador, além de ter sido Com efeito, documentada e assinada a autorização nos autos do inquérito policial.
+para rever essa conclusão, seria necessário o revolvimento do conjunto fático- probatório dos autos, providência inviável na estreita via do habeas corpus.
+5. A natureza e a quantidade da droga justificam a exasperação da pena-base acima no mínimo legal, nos termos do art. 42 da Lei n. 11.343/2006.
+No caso, a Corte estadual manteve a aplicação da fração de 2/5 sobre o mínimo legal (2 anos) em exasperação da pena-base, dada a quantidade/natureza das drogas apreendidas: 245g de cocaína e 19, 150kg de maconha. Consoante precedentes, não há desproporcionalidade.
+6. Agravo regimental desprovido." (AgRg no HC n. 805.973/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Anote-se por fim, que, no caso em apreço, a modificação desse entendimento, para o fim de acolher a tese defensiva, no sentido de que a permissão teria sido dada sob coação, demandaria o reexame do conteúdo fático-probatório, providência inadmissível nesta via especial, em razão do óbice da Súmula 7/STJ (AgRg no AREsp n. 2.594.448/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 23/5/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
