@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo interno interposto por CARLA REGINA DOS SANTOS ARAÚJO VIEIRA contra a decisão vista às fls. 363-364, por meio da qual o agravo em recurso especial não foi conhecido.
+A agravante sustenta, em síntese, que a decisão agravada está equivocada, pois alegou-se em tópico específico a não incidência do óbice da Súmula 284 do STF. Pede a reconsideração da decisão e o provimento do recurso.
+Contraminuta às fls. 379-384.
+É o relatório.
+Passo a decidir.
+A agravante se insurge contra a decisão por meio da qual o agravo em recurso especial não foi conhecido. Referida decisão indica que não houve impugnação à aplicabilidade do óbice da Súmula 284/STF, aplicada por analogia.
+Com razão da recorrente.
+Volvendo os autos recursais, verifico que há nas razões do agravo impugnação efetiva à incidência do referido óbice. Logo, deve ser afastada a incidência da Súmula 182/STJ, aplicada por analogia, e, por conseguinte, deve ser conhecido o agravo.
+Nas razões do recurso especial a ora recorrente alega violação ao art. 1.022, II, do CPC, considerando omissão sobre a ausência de trânsito em julgado do Incidente de Resolução de Demandas Repetitivas n. 0008456.27.2016.8.10.0000.
+Consta no acórdão formado no julgamento dos embargos de declaração as razões pelas quais o recurso de apelação foi desprovido. Vejamos (fl. 305):
+In casu, aponta a parte embargante omissão na decisão embargada quando deixou de manifestar-se acerca da ausência de trânsito em julgado do Incidente de Resolução de Demandas Repetitivas n.º 0008456-27.2016.8.10.0000 (48.732/2016), o qual discutia acerca da necessidade ou não da comprovação da existência de cargo vago para o reconhecimento do direito de candidatos excedentes, em concurso público para professor do Estado, à nomeação em razão da contratação de professores temporários, dentro do prazo de validade do certame, para o mesmo local e disciplina de aprovação dos excedentes.
+Como resultado do julgamento do respectivo IRDR, fixou-se a seguinte tese: "Os candidatos excedentes, em concurso público para professor do Estado, não têm direito à nomeação em razão da contratação de professores temporários dentro do prazo de validade do certame, para o mesmo local e disciplina de aprovação dos excedentes, ante a inexistência de cargo efetivo a ser provido, assegurada, todavia, a manutenção das nomeações realizadas até a fixação desta tese".
+Contudo, a alegação de omissão sucumbe perante a detida análise do Acórdão embargado. Afinal, o entendimento contido no Acórdão embargado expressa que as alegadas nomeações de contratados não conferem aos excedentes de concurso público o direito subjetivo à nomeação. A decisão se ancora no referido IRDR, notadamente em razão de decisão proferida no aludido incidente em 13/12/2019 e publicada em 16/12/2019 que cessou o efeito de suspensão dos processos que versassem sobre o tema.
+Assim, na espécie, o que de fato pretende o embargante é a rediscussão de matéria de mérito por meio de Embargos de declaração. Conclui-se, por conseguinte, que o embargante não pretende o esclarecimento ou a correção de vícios da decisão embargada, a qual fora prolatada em seu desfavor, mas o reexame da matéria, objetivando, de forma transversa, o rejulgamento da causa, providência incompatível com o presente recurso integrativo.
+A recorrente não demonstra, de forma clara, a importância do enfrentamento da tese apontada como omissa para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, por analogia, no âmbito desta Corte.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, em juízo de reconsideração, anulo a decisão de fls. 363-364, conheço do agravo e não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
