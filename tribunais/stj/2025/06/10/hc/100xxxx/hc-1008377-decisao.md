@@ -1,0 +1,20 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOAO GABRIEL DE LIMA ALVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0803872-61.2024.8.19.0028), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente dos crimes de tráfico e associação para o tráfico de drogas, atribuídos na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Macaé/RJ, ao argumento de ausência de fundada suspeita na busca pessoal, ausência de demonstração de estabilidade e permanência em relação ao delito de associação ao tráfico de drogas, e incidência da minorante do tráfico privilegiado.
+Ocorre que a via eleita foi indevidamente utilizada para revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Da atenta análise do acórdão a quo, observa-se que o Tribunal de origem destacou a fundada suspeita, pois os policiais militares que estavam em patrulhamento de rotina foram informados do teor de denúncia anônima, dando conta da prática do crime de tráfico de drogas na localidade denominada "W-55 marrom, projetada", localizada no bairro Lagomar (fl. 120). Ato seguinte, o réu, ao avistar a viatura descaracterizada da polícia militar, sabia que se tratava de viatura policial, tendo então se mostrado nervoso e se voltado para direção contrária à dos policiais, tentando esconder algo (fls. 120/121).
+A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 877.943/MS (Rel. Ministro Rogerio Schietti), decidiu que a conduta de fugir correndo repentinamente ao avistar uma guarnição policial preenche o requisito de fundada suspeita de corpo de delito para uma busca pessoal em via pública, nos termos do art. 244 do CPP (AgRg no HC 798.072/RS, Ministro Rogerio Schietti, Sexta Turma, DJe 9/10/2024).
+Acerca do pleito absolutório do delito de associação, a Corte estadual logrou demonstrar a estabilidade da associação, assim como a permanência, ao sustentar que foram apreendidos 166,5g de cocaína, acondicionados em 295 embalagens individuais, contendo as inscrições "GESTÃO INTELIGENTE PÓ DE R$5 C. V" e "GESTÃO INTELIGENTE PÓ DE R$10 C. V", além de 0,30 g de crack (fl. 126), indispensáveis à tipicidade do crime de associação para o tráfico.
+A propósito:
+ ..
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas.
+IV - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local.
+ ..
+(AgRg no HC n. 929.583/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 17/9/2024).
+Assim, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Por fim, em relação à negativa da minorante do tráfico privilegiado, mais uma vez com acerto o acórdão atacado, pois a jurisprudência da Corte é firme no sentido de que a condenação por associação ao tráfico impede a aplicação do redutor do tráfico privilegiado (AgRg no HC n. 895.316/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 23/10/2024).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. DENÚNCIA E FUGA. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INVIABILIDADE. CONDENAÇÃO CONSUBSTANCIADA EM PROVAS QUE DENOTAM A ESTABILIDADE E DIVISÃO DE TAREFAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. MINORANTE. IMPOSSIBILIDADE LEGAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
