@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de roubo. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. Em relação ao regime de cumprimento de pena, verifica-se que o regime mais gravoso foi fixado com base no fato do delito ter sido praticado em concurso de três agentes e com emprego ostensivo de armas de fogo, destacando-se ainda que as vítimas permaneceram em poder dos agentes criminosos por mais de trinta minutos, sendo constantemente ameaçadas, o que configura motivação concreta a justificar regime fechado, mesmo sendo o acusado primário e a pena-base ter sido fixada no mínimo legal.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RUBENS SANCHES (e-STJ fls. 1062/1072), contra decisão monocrática de e-STJ fls. 1057/1059, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+A parte agravante alega: (i) a não incidência da Súmula 7/STJ; (ii) a ausência de prova concreta para a condenação; (iii) a fixação do regime semiaberto para o cumprimento da pena.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de roubo. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. Em relação ao regime de cumprimento de pena, verifica-se que o regime mais gravoso foi fixado com base no fato do delito ter sido praticado em concurso de três agentes e com emprego ostensivo de armas de fogo, destacando-se ainda que as vítimas permaneceram em poder dos agentes criminosos por mais de trinta minutos, sendo constantemente ameaçadas, o que configura motivação concreta a justificar regime fechado, mesmo sendo o acusado primário e a pena-base ter sido fixada no mínimo legal.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+De início, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de roubo (e-STJ fls. 946/958).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Em relação ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No caso dos autos, verifica-se que o regime mais gravoso foi fixado com base no fato do delito ter sido praticado em concurso de três agentes e com emprego ostensivo de armas de fogo, destacando-se ainda que as vítimas permaneceram em poder dos agentes criminosos por mais de trinta minutos, sendo constantemente ameaçadas, o que configura motivação concreta a justificar regime fechado, mesmo sendo o acusado primário e a pena-base ter sido fixada no mínimo legal. Precedentes: AgRg no HC n. 942.526/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2024, DJe de 6/11/2024; AgRg no RHC n. 189.892/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no REsp n. 2.163.540/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/10/2024, DJe de 14/10/2024; AgRg no HC n. 857.705/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 19/4/2024.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
