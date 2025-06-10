@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de LEANDRO TIRADO ALCANTARA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Revisão Criminal n. 0011828-56.2024.8.26.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração o reconhecimento da atenuante da confissão espontânea, ao argumento de que a confissão extrajudicial chegou a ser mencionada diversas vezes na sentença, sendo assim utilizada expressamente como um dos fundamentos para fundar o édito condenatório e que a própria juíza sentenciante infirmou o teor do interrogatório do réu pelo fato de que ele teria confessado a traficância, circunstância provada por meio das imagens fornecidas pela câmera corporal da guarnição policial (fl. 7).
+De fato, da sentença e do acórdão hostilizados, observa-se que a atenuante foi afastada com fundamento, apenas, no fato de ter sido extrajudicial por ocasião da prisão em flagrante. No entanto, de acordo com o entendimento consolidado no Superior Tribunal de Justiça, deve ser reconhecida a atenuante prevista no art. 65, inciso III, alínea d, do Código Penal mesmo nas hipóteses de confissão informal, extrajudicial, parcial ou qualificada.
+Consta da sentença que das imagens supracitadas é possível verificar todo o momento em que os policiais fazem buscas no local, o momento em que encontram as drogas narradas na denúncia e a confissão do réu quanto à propriedade da droga e do dinheiro. Tanto é que antes de saírem do local, os policiais questionam novamente o réu sobre a propriedade da droga e ele novamente confirma que é tudo seu, motivo pelo qual os outros dois homens que estão no ambiente não são levados até a Delegacia. O réu foi preso em flagrante delito, no momento em que guardava as drogas no estabelecimento em que trabalhava, conforme ele mesmo disse, há cerca de um ano, o que reforça todo o conjunto probatório (fl. 28 - grifo nosso).
+Com efeito, a atenuante de confissão espontânea deve ser aplicada, uma vez que colhe-se da sentença que o recorrente reconheceu a traficância perante a autoridade policial responsável pela prisão em flagrante (REsp n. 2.102.379/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025 - grifo nosso).
+Redimensionando-se a reprimenda imposta, temos.
+Mantida a fixação da pena-base em seu mínimo legal (5 anos de reclusão, e pagamento de 500 dias-multa).
+Na segunda etapa, compenso a agravante da reincidência específica com a atenuante da confissão espontânea (informal e extrajudicial), mantendo então a mesma pena já fixada.
+Na terceira etapa, diante da reincidência específica do condenado, este não faz jus à causa de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, razão pela qual, considerando ess a mesma circunstância e o montante da pena, fixo o regime fechado para início do cumprimento da pena, resultando a reprimenda em 5 anos de reclusão, e 500 dias-multa.
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer a atenuante da confissão espontânea, resultando a reprimenda em 5 anos de reclusão, e 500 dias-multa, no regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CONFISSÃO EXTRAJUDICIAL POR OCASIÃO DA PRISÃO EM FLAGRANTE. VALIDADE. COMPENSAÇÃO INTEGRAL DA ATENUANTE DE CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. CABIMENTO. ILEGALIDADE FLAGRANTE.
+Ordem concedida liminarmente nos termos do dispositivo.
