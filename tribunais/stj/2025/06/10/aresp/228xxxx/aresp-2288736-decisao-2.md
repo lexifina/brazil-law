@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por ALCIDES NAVARRO SOAVE e outros contra decisão que inadmitiu o recurso especial por incidência da Súmula 7/STJ e por não atendimento aos requisitos previstos no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+O agravante sustenta que o Tribunal de origem, ao não prover o recurso de apelação, deixou de verificar que o prazo prescricional quinquenal, a que alude o art. 1º do Decreto 20.910/1932, deveria ser aplicado à pretensão da Fazenda Pública, por isonomia, e que tal prazo já se teria consumado. Alega que a decisão agravada, ao inadmitir o recurso especial, incorreu em equívoco, porquanto a análise da questão não demandaria reexame de provas, mas sim a sua valoração, o que seria cabível em recurso especial, e que o recurso especial demonstrou o devido cotejo analítico.
+Contraminuta apresentada nas fls. 837-851.
+Parecer do MPF às fls. 867-871.
+E o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A pretensão da parte recorrente, relativa à violação do art. 1º do Decreto 20.910/1932, encontra óbice na Súmula 7/STJ.
+O Tribunal de origem, ao apreciar a questão da prescrição, fundamentou-se na análise do conjunto fático-probatório dos autos para determinar o termo inicial do prazo prescricional e a inexistência de inércia do município.
+Conforme excerto do acórdão recorrido (fl. 644 ):
+Em relação à prescrição, extrai-se dos autos que a sentença que extinguiu a execução e reconheceu a existência de créditos em favor da Municipalidade foi publicada em 05/09/2012 (fls. 146); já a decisão que determinou que a devolução das quantias levantadas a maior ocorresse em demanda própria, foi publicada em 29/01/2015 (fls. 149/150).
+Ora, conta-se o termo inicial do prazo prescricional para o exercício da pretensão de reaver o pagamento realizado nos autos da ação de desapropriação da data da intimação da decisão que indeferiu a devolução dos valores depositados a maior nos próprios autos, ou seja, a partir de 29/01/2015 (fls. 150).
+No caso dos autos, verifica-se que o Município não se quedou inerte, mas ao contrário, mediante os meios processuais que se mostravam à sua disposição, buscou o ressarcimento do valor pago a maior nos mesmos autos da expropriatória, não obstante tal pedido tenha sido rejeitado na instância de origem.
+O interesse de agir para o ajuizamento da presente ação só surgiu após o exaurimento da discussão acerca da via cabível para a cobrança dos valores levantados a maior. Até a decisão de fls. 149/150, tem-se, portanto, que não era necessário que o município ajuizasse ação autônoma para pleitear o quê de direito.
+Dessa forma, considerando a data de publicação da decisão que determinou o ajuizamento de nova ação para o ressarcimento dos valores pagos a maior (29/01/2015) e a data do ajuizamento desta demanda (03/05/2017), o prazo quinquenal previsto no Decreto nº 20.910/32 não foi ultrapassado, não se verificando, na espécie, a prescrição.
+Para que esta Corte Superior pudesse acolher a tese do agravante e reconhecer a ocorrência da prescrição, seria imprescindível reexaminar o arcabouço fático-probatório delineado na instância ordinária, notadamente quanto à data de início do prazo prescricional e a alegada inércia do município. Tal providência é vedada em recurso especial, nos termos da Súmula 7/STJ, segundo a qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Por sua vez, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada com fundamento na alínea a, que foi obstaculizada pelo enunciado da Súmula 7/STJ. Dessa forma, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos c onfrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c. Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido" (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
