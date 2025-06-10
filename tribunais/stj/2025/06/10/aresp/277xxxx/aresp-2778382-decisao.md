@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LANDERVAN LIMA FRAGA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: declaratória de nulidade "querela nullitatis insanabillis" ajuizada por Fernando Alves Fernandes, visando declarar a nulidade da sentença prolatada nos autos do processo de usucapião nº 0002310-90.2018.8.08.0020, e, consequentemente, anular a matrícula 10.559, Ficha 1, lavrada em 22/03/2022 junto ao Cartório do 1º Ofício Registro Geral de Imóveis da Comarca de Guaçuí.
+Acórdão: negou provimento à apelação interposta pela parte agravante, mantendo a sentença que declarou a nulidade da ação de usucapião por ausência de citação do proprietário registral, nos termos da seguinte ementa (e-STJ fl. 399):
+"EMENTA: APELAÇÃO - QUERELA NULLITATIS INSANABILIS - NULIDADE DA AÇÃO DE USUCAPIÃO - AUSÊNCIA DE CITAÇÃO DO PROPRIETÁRIO REGISTRAL - NULIDADE INSANÁVEL - RECURSO CONHECIDO E DESPROVIDO. 1. O c. Superior Tribunal de Justiça já decidiu que "Com relação ao proprietário e seu cônjuge, constantes no registro de imóveis, é indispensável, na ação de usucapião, a citação deles (e demais compossuídores e condôminos) como litisconsortes necessários, sob pena de a sentença ser absolutamente ineficaz, inutiliter data, tratando-se de nulidade insanável". (REsp n. 1.432.579/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/10/2017, DJe de 23/11/2017.) 2. A ação anulatória (querela nullitatis) é o meio adequado para buscar a anulação de sentença proferida em outro processo no qual se constate a existência de vício insanável na citação. 3. Na ação de usucapião, é obrigatória a citação do proprietário registral do imóvel usucapiendo, restando configurada a nulidade processual insanável caso não seja realizada, comportando acolhimento da presente querela nullitatis. 4. Recurso conhecido e desprovido."
+Decisão de admissibilidade do TJ/ES: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de prequestionamento da matéria tratada no recurso especial;
+ii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que houve prequestionamento e que a decisão recorrida ofendeu a legislação federal, requerendo a reforma da decisão para que o recurso especial seja admitido e provido.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fl. 412) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
