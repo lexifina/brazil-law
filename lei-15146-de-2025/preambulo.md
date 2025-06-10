@@ -1,0 +1,2 @@
+Reconhece como manifestação da cultura nacional o espetáculo Paixão de Cristo de Nova Jerusalém, que se realiza na cidade-teatro de Nova Jerusalém, localizada no distrito de Fazenda Nova, no Município do Brejo da Madre de Deus, no Estado de Pernambuco.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
