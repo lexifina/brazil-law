@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão monocrática em que não conheci do recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que deu parcial provimento ao apelo defensivo "a fim de afastar da pronúncia a qualificadora do perigo comum (art. 121, § 2º, III, do Código Penal)".
+Aduz o agravante que "resta claro que a tese submetida à análise do STJ é eminentemente jurídica, pois apenas se postula o reconhecimento da possibilidade de aplicação de qualificadoras objetivas ao crime de homicídio com dolo eventual, sem qualquer necessidade de análise das provas e dos fatos do processo. Assim, pelas razões expostas, não se aplica ao caso concreto o óbice da Súmula n. 7 do STJ" (e-STJ fls. 490-501).
+É o relatório.
+Decido.
+Assiste razão ao agravante.
+De fato, "não obstante a existência de julgados desta Corte Superior a respeito da incompatibilidade entre o dolo eventual e a qualificadora objetiva referente ao recurso que dificultou a defesa da vítima e do perigo comum, tem-se a recente orientação no sentido de que elege-se o posicionamento pela compatibilidade, em tese, do dolo eventual também com as qualificadoras objetivas (art. 121, § 2º, III e IV, do CP). Em resumo, as referidas qualificadoras serão devidas quando constatado que o autor delas se utilizou dolosamente como meio ou como modo específico mais reprovável para agir e alcançar outro resultado, mesmo sendo previsível e tendo admitido o resultado morte (AgRg no AgRg no REsp 1.836.556/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/6/2021, DJe de 22/6/2021). Precedentes" (AgRg no REsp n. 2.095.975/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+Assim, a jurisprudência mais recente desta Corte reconhece que "as qualificadoras do perigo comum e do meio que dificultou a defesa da vítima são compatíveis com o dolo eventual" (AgRg no REsp n. 2.095.975/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023). A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SENTENÇA DE PRONÚNCIA. COMPATIBILIDADE ENTRE DOLO EVENTUAL E A QUALIFICADORA RELATIVA AO MEIO CRUEL. AGRAVO DESPROVIDO.
+1. A pronúncia traz mero juízo de admissibilidade da acusação, as qualificadoras somente podem ser excluídas quando manifestamente improcedentes ou descabidas, sob pena de invasão à competência do Conselho de Sentença.
+2. Esta Corte possui entendimento firmado no sentido de que não há incompatibilidade entre o reconhecimento do dolo eventual com as qualificadoras do homicídio.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.001.595/SP, de minha relatoria, Sexta Turma, julgado em 19/3/2025, DJEN de 25/3/2025)
+Igualmente, a jurisprudência do Supremo Tribunal Federal já reafirmou que "Dolo eventual. Tentativa e qualificadoras do perigo comum e do meio que dificultou a defesa da vítima. Compatibilidade com o elemento subjetivo. Decisão agravada em harmonia com entendimento consolidado pela Suprema Corte" (HC 221481 AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 2-12-2022).
+Ante o exposto, dou provimento ao agravo regimental para reformar o acórdão recorrido e reconhecer, na decisão de pronúncia, a incidência das qualificadoras previstas nos incisos III e IV do art. 121, § 2º, do Código Penal .
+Publique-se. Intimem-se.
+EMENTA
