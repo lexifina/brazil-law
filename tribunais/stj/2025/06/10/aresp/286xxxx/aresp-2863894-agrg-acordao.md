@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. Tráfico de drogas. pedido de desclassificação. reexame fático-probatório. inviabilidade. súmula 7/stj. alegação genérica. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu recurso especial.
+2. A parte agravante pleiteia o conhecimento do recurso, com a consequente desclassificaçã oda conduta imputada ao réu e alega que tal pleito demandaria apenas revaloração da prova, não incidindo a Súmula 7 do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a desclassificação da conduta do réu pode ser realizada sem reexame de provas, apenas com a revaloração jurídica dos fatos.
+III. Razões de decidir
+4. As instâncias ordinárias concluíram que a prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que o réu praticava o tráfico ilícito de entorpecentes, não sendo cabível o acolhimento do pleito defensivo.
+5. A revisão do entendimento implicaria em revolvimento fático-probatório, o que é vedado pela Súmula 7 do STJ.
+6. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo im provido.
+Tese de julgamento: "1. Estando a conclusão das instâncias ordinárias embasada em provas idôneas, é inviável superá-la em sede de recurso especial. 2. A desclassificação da conduta do réu demanda reexame de provas, vedado pela Súmula 7 do STJ. 3. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ".
+Dispositivos relevantes citados: Lei n. 11.343/2006, Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, REsp 1.361.484/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2014; STJ, AgRg no AREsp 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; STJ, AgRg no AREsp 2.491.346/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por OSVALDO VICENTE DOS SANTOS contra decisão monocrática, de minha relatoria, que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 179-184).
+A parte agravante aduz, em síntese, que o acolhimento de seu pedido de desclassificação demandaria apenas revaloração da prova e não o seu reexame propriamente dito, razão pela qual deveria ser afastada a incidência da Súmula 7 do STJ.
+Ressalta que "o decreto condenatório teve como fundamento no frágil depoimento de dois policiais, um dos quais mal se recordou dos fatos, sendo que estes somente confirmaram a apreensão dos entorpecentes e não viram o agravante comercializando qualquer uma das drogas apreendidas" (e-STJ, fl. 196).
+Pede, ao final, o provimento deste agravo regimental, para que seja conhecido o recurso especial, com o consequente acolhimento do pleito defensivo.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. Tráfico de drogas. pedido de desclassificação. reexame fático-probatório. inviabilidade. súmula 7/stj. alegação genérica. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu recurso especial.
+2. A parte agravante pleiteia o conhecimento do recurso, com a consequente desclassificaçã oda conduta imputada ao réu e alega que tal pleito demandaria apenas revaloração da prova, não incidindo a Súmula 7 do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a desclassificação da conduta do réu pode ser realizada sem reexame de provas, apenas com a revaloração jurídica dos fatos.
+III. Razões de decidir
+4. As instâncias ordinárias concluíram que a prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que o réu praticava o tráfico ilícito de entorpecentes, não sendo cabível o acolhimento do pleito defensivo.
+5. A revisão do entendimento implicaria em revolvimento fático-probatório, o que é vedado pela Súmula 7 do STJ.
+6. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ.
+IV. Dispositivo e tese
+7. Agravo im provido.
+Tese de julgamento: "1. Estando a conclusão das instâncias ordinárias embasada em provas idôneas, é inviável superá-la em sede de recurso especial. 2. A desclassificação da conduta do réu demanda reexame de provas, vedado pela Súmula 7 do STJ. 3. A simples alegação de revaloração da prova no lugar do reexame fático probatório não é suficiente para afastar a incidência da Súmula 7/STJ".
+Dispositivos relevantes citados: Lei n. 11.343/2006, Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, REsp 1.361.484/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2014; STJ, AgRg no AREsp 2.441.372/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024; STJ, AgRg no AREsp 2.491.346/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida.
+Quanto à condenação do réu, a Corte de origem assim se manifestou:
+"Quanto aos fatos, narra a denúncia, que, no dia 26 de agosto, de 2021, por volta das 10h17min., na rua Mimoso do Sul, bairro Vista da Serra I, Serra/ES, trazia consigo para fins de traficância, drogas ilícitas sem autorização e em desacordo com a Lei.
+Descreve a peça acusatória que os policiais realizavam patrulhamento ostensivo, naquela região, quando receberam a informação, via CIODES, de que havia indivíduos realizando tráfico de entorpecentes, em um sofá, disposto em rua pública.
+Registra, ainda, que, ao chegarem no local, visualizaram os denunciados, WEBERSON SANTOS DE ATALAIA e OSVALDO VICENTE DOS SANTOS, em atividade de tráfico de entorpecentes, revezando-se, entre si, para buscarem as drogas, armazenadas próximas ao sofá, no interior de uma sacola amarela.
+Esclarece que o OSVALDO foi visto com a referida sacola e que, ao perceber a presença policial, tentou dispensá-la na vegetação local, sem que lograsse êxito. Ao ser abordado, apreenderam com o mesmo: 23 (vinte e três) buchas de maconha; 30 (trinta pedras) de crack; e 06 (seis) pinos de cocaína, além da importância de R$ 14,00 (quatorze reais),
+Consigna, por fim, que WEBERSON conseguiu se evadir do local e que, durante a abordagem, de OSVALDO, este assumiu que estava vendendo os entorpecentes apreendidos e alegou que teriam sido fornecidos por WEBERSON.
+Após analisar os autos, passo a apreciação dos pedidos formulados.
+De fato, a meu ver, há provas suficientes a atribuir ao acusado a prática do delito de tráfico de drogas, previsto no artigo 33 da Lei 11.343/06.
+A materialidade restou demonstrada no Auto de Prisão em Flagrante Delito (fls. 02/04 - IP), no Boletim Unificado (fls. 05/08 -IP), no Auto de Apreensão (fls. 23/24 - IP), no Auto de Constatação Provisório de Natureza e Quantidade de Drogas (fls. 25/26 - IP), no Relatório Final de Inquérito Policial (fls. 47/53 - IP), no Laudo de Química Forense (fls. 19/19v.), bem como nas demais provas produzidas durante a instrução criminal.
+Por sua vez, a autoria foi, devidamente, comprovada pelos depoimentos, prestados, em juízo, pelos policiais militares, que realizaram a prisão em flagrante do acusado, quais sejam, RONNEY MATOS LOOZA (fls. 25-26) e VINICIUS FOREQUE PEREIRA DA SILVA (fl. 26).
+Em seu depoimento, VINICIUS, foi incisivo em afirmar que avistou o acusado com uma sacola, em mãos, em local de intenso tráfico de drogas, bem como que este, ao avistar a guarnição, tentou dispensá-la. Ademais, afirmou que, procedida a abordagem, encontraram, dentro da sacola, a quantidade de entorpecentes apreendida, ocasião em que o réu, inclusive, relatou que estava traficando no local, tendo, ainda, apontado o corréu como o fornecedor de drogas.
+Friso que, em delitos dessa natureza, as palavras dos agentes de segurança pública, que participaram da abordagem do réu e que, geralmente, são as únicas testemunhas, na cena do crime, adquire especial relevância probatória, além e consistirem em prova idônea para embasar a condenação, sendo certo que a simples negativa de autoria, por parte da acusada, não é suficiente para desmerecer os convincentes e harmônicos depoimentos, colhidos sob o crivo do contraditório e da ampla defesa, consoante já decidiu o STJ:  ..
+Dessa forma, compreendo que o acervo probatório demonstra que os fatos apresentam sensíveis características de tráfico de drogas, até pela região, em que ocorreu a prisão em flagrante do acusado, notoriamente, conhecida por essa prática ilícita" (e-STJ, fls. 105-106, grifou-se.)
+Dos trechos acima colacionados, verifica-se que a prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que o recorrente praticava o tráfico ilícito de entorpecentes.
+Destaca-se que o Superior Tribunal de Justiça já se manifestou que, "para a ocorrência do elemento subjetivo do tipo descrito no art. 33, caput, da Lei n. 11.343/2006, é suficiente a existência do dolo, assim compreendido como a vontade consciente de realizar o ilícito penal, o qual apresenta 18 (dezoito) condutas que podem ser praticadas, isoladas ou conjuntamente" (REsp 1.361.484/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/6/2014, DJe 13/6/2014).
+Vale anotar, ainda, que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+A Corte de origem ressaltou que os policiais realizavam patrulhamento de rotina, quando receberam denúncia anônima informando que indivíduos estavam traficando drogas em um sofá disposto na via pública. Lá chegando, visualizaram o réu em movimentação típica do comércio ilícito. Feita a abordagem pessoal, lograram identificar drogas diversas e de natureza mais deletérias com o réu: 30 (trinta) pedras de crack, 6 (seis) pinos de cocaína e 23 (vinte e três) buchas de maconha. Ademais, o próprio réu confessou informalmente o comércio ilícito.
+Ainda, convém frisar que, conforme pacífica jurisprudência desta Corte Superior, "é possível a utilização das provas colhidas durante a fase inquisitiva para lastrear o édito condenatório, desde que corroboradas por outras provas produzidas em juízo, sob crivo do contraditório e da ampla defesa." (AgRg no AREsp n. 2.279.196/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela desclassificação da conduta imputada ao réu, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+Cito, a propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. INEXISTÊNCIA. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS DA AUTORIA DELITIVA. DESCLASSIFICAÇÃO. CERCEAMENTO DE DEFESA. NECESSIDADE DE REEXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA DA PENA. REFORMATIO IN PEJUS E BIS IN IDEM . NÃO OCORRÊNCIA. CAUSA ESPECIAL DE REDUÇÃO DA PENA. REVISÃO DO PATAMAR. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se constatou ofensa ao art. 619 do CPP, pois o aresto recorrido examinou todas as questões trazidas pelo recorrente, não havendo que se falar em omissão ou contradição no julgado.
+Ressalta-se que "omissão no julgado e entendimento contrário ao interesse da parte são conceitos que não se confundem" (EDcl nos EDcl no AgRg no REsp 1.129.183/DF, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28/8/2012).
+2. O TJ entendeu pela manutenção da condenação do recorrente pelo crime de tráfico de drogas, baseando-se nas provas orais e documentais produzidas na instrução processual. O acolhimento da pretensão recursal, no sentido de absolvê-lo por falta de provas ou de desclassificar a conduta para aquela prevista no art. 28 da Lei 11.343/2006, demandaria necessariamente o reexame do conjunto fático-probatório dos autos, tarefa que encontra óbice na Súmula n.
+7 do Superior Tribunal de Justiça - STJ.
+ ..  7. Agravo regimental desprovido." (AgRg no AREsp n. 1.990.569/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INDEFERIMENTO DE PROVA PERICIAL. FUNDAMENTAÇÃO VÁLIDA. NULIDADE NÃO CONFIGURADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte, "o indeferimento fundamentado de pedido de produção de prova não caracteriza constrangimento ilegal, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente a realização das diligências que considerar desnecessárias ou protelatórias" (HC n. 198.386/MG, Rel. Ministro Gurgel de Faria, 5ª T., DJe 2/2/2015).
+2. No caso, as instâncias antecedentes indeferiram, de forma motivada, as provas pretendidas pelo recorrente porque não ficou demonstrada a indispensabilidade da prova pretendida na ação penal, pois as testemunhas confirmaram ser o réu o motorista do veículo que evadiu da presença policial, especialmente porque houve a apreensão da sua CNH no interior do veículo.
+3. As instâncias ordinárias concluíram pela existência de elementos concretos a ensejar a condenação do acusado pelo crime de tráfico de drogas. Assim, para entender-se pela absolvição do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível em recurso especial, a teor da Súmula n. 7 do STJ.
+4. A dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade.
+5. Além de serem concretos os fundamentos mencionados e atinentes às peculiaridades do caso (fuga do local mediante condução de veículo em alta velocidade por longa distância e com risco a terceiros, transporte intermunicipal e a expressiva quantidade droga apreendida), não houve nenhuma desproporcionalidade no aumento da pena-base.
+6. Agravo regimental não provido."
+(AgRg no AREsp n. 2.464.490/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024; grifou-se.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. ATENUANTE DA CONFISSÃO. NÃO RECONHECIMENTO. PLEITO DE APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE EVIDENCIAM ENVOLVIMENTO DA AGRAVANTE COM ORGANIZAÇÃO CRIMINOSA. REEXAME DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, as instâncias ordinárias consideraram que o acervo probatório é firme para subsidiar a condenação da agravante pelo delito de tráfico de drogas, especialmente a partir da prova oral produzida.
+2. A mudança da conclusão alcançada no acórdão impugnado, de sorte a absolver a ré pelo delito de tráfico de entorpecentes, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, conforme o disposto na Súmula n. 7/STJ. Precedentes.
+3. O reconhecimento da atenuante genérica prevista no art. 65, III, "d", do Código Penal exige que o réu confesse os fatos pelos quais está sendo devidamente processado. No caso dos autos, a agravante, em seu depoimento, negou que tinha ciência de que transportava entorpecente em sua bagagem.
+4. A aplicação do tráfico privilegiado na fração de 1/6 foi correta, pois a complexidade da operação de transporte do entorpecente, envolvendo viagens internacionais incompatíveis com a condição financeira da ré, dentro do contexto circunstancial analisado pelo Tribunal de origem, mostrou-se apta a demonstrar a dedicação da ora agravante ao crime, condição que poderia até impedir a concessão da causa redutora legal pleiteada. Assim, considerando que as instâncias ordinári as concederam a minorante em seu patamar mínimo, não há ilegalidade a ser sanada no ponto.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.431.325/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024; destacou-se.)
+Em que pese a argumentação do agravante no sentido da difer enciação entre o reexame de fatos e provas e a sua revaloração, "A jurisprudência do STJ é clara ao afirmar que a simples alegação de não incidência da Súmula 7 não é suficiente para afastá-la, sendo necessária a demonstração objetiva de que a revisão dos fatos não requer reexame probatório" (AgRg no AREsp n. 2.697.703/TO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.), o que não não ocorreu na espécie, em que o recorrente se limita a afirmar que o acolhimento de sua tese se limita à interpretação de matéria de direito.
+Ante o exposto, nego provim ento ao agravo regimental.
+É o voto.
