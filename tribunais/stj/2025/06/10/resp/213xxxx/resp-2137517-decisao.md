@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANA MARIA BATISTA DA SILVA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO em julgamento da Apelação Criminal n. 0000483-64.2015.4.05.8201.
+Consta dos autos que os recorrentes foram condenados: ANA MARIA BATISTA DA SILVA e DOUGLAS DE FARIAS RAMOS, pelos delitos previstos nos arts. 171, §3º, c/c o art. 14, inciso II, e 313-A, todos do CP (estelionato majorado na forma tentada e inserção de dados falsos em sistema de informação), às penas privativas de liberdade de 3 anos e 7 meses de reclusão, mais 85 dias-multa, e 5 anos e 3 meses de reclusão, mais 139 dias-multa, respectivamente, e JOSÉ MOURA DA COSTA, pelo cometimento do delito inserto no art. 313-A do CP (inserção de dados falsos em sistema de informação), à pena privativa de liberdade de 3 anos de reclusão, mais 45 dias-multa. A pena privativa de liberdade de ANA MARIA BATISTA DA SILVA e JOSÉ MOURA DA COSTA foi substituída por duas penas restritivas de direitos, de prestação de serviços à comunidade e prestação pecuniária, no valor equivalente à pena de multa aplicada (fl. 1548).
+Recursos de apelação interpostos pela defesa e acusação foram desprovidos, mas extinta a punibilidade de Douglas e Ana Maria em relação ao delito do art. 171, § 3º, c/c o art. 14 do CP, pela prescrição retroativa, fazendo repercutir na substituição da pena restritiva fixada a Douglas para duas penas restritivas (fl. 1556).
+Embargos de declaração opostos pela defesa de José Moura e Ana Maria, o primeiro rejeitado e o segundo acolhido para concessão de novo prazo para ratificar ou complementar os embargos de declaração opostos (fl. 1685).
+Embargos de declaração opostos pela defesa de Ana Maria, foram rejeitados (fl. 1781).
+Em sede de recurso especial (fls. 1836/1861), a defesa apontou violação ao art. 619 do CPP, porque o TJ não se pronunciou a respeito de: a) ofensa à norma prevista no art. 383 do Código de Processo Penal, entendendo que os dois benefícios, mesmo aquele que foi pago com a atuação de servidor do órgão, enquadra-se no delito de estelionato, e não no previsto no art. 313-A do CP, ponto em que também seria contraditório por tipificar a mesma conduta em dois crimes diferentes; b) participação de menor importância da acusada; e c) indevida valoração negativa da culpabilidade e das consequências do crime, pois os fundamentos utilizados seriam elementares do crime de inserção de dados falsos em sistema de informações.
+Em seguida, apontou violação aos arts. 171, § 3º, e 313-A, ambos do CP, pois, embora a sentença mencione dois tipos penais, o que se depreende dos autos é a prática de condutas absolutamente semelhantes, e a adequação da conduta em um único tipo penal, o previsto no art. 171 do Código Penal. Afirma que a atuação da recorrente em nada se enquadra no crime do art. 313-A do Código Penal, afinal, ela desconhecia os detalhes técnicos do procedimento interno do sistema da autarquia que ensejasse na concessão do benefício, tampouco poderia saber das minúcias necessárias para inserir os dados falsos no sistema da Previdência Social.
+Alega violação ao art. 29, § 1º, do CP, porquanto a participação de Ana Maria fora tão somente como partícipe, pois a sua contribuição foi apenas na assinatura de dois requerimentos distintos para concessão de benefícios.
+Pondera violação ao art. 59 do CP, pois não é possível aumento da pena-base pela criação de dados fictícios e sua inserção no sistema, sendo a forma mais comum da prática delitiva. Também não são graves as consequências apenas por causar prejuízo aos cofres públicos.
+Requer a anulação do acórdão recorrido ou o provimento do apelo sob os outros aspectos.
+Contrarrazões do MINISTÉRIO PÚBLICO FEDERAL (fls. 1888/1906).
+Admitido o recurso no TJ (fls. 1908/1909), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento ou desprovimento dos recursos (fls. 1956/1964).
+É o relatório.
+Decido.
+Preliminarmente, no que concerne à alegada negativa de prestação jurisdicional, a recorrente pretendeu ver solvidas as seguintes questões: a) contradição ao tipificar a mesma conduta em dois crimes diferentes; b) participação de menor importância; e c) indevida valoração negativa da culpabilidade e das consequências do crime.
+O TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO rejeitou os aclaratórios da recorrente nos seguintes termos do voto do relator:
+"Primeiramente, não há que se falar em omissão ou contradição no que diz respeito ao exame quanto ao acerto na aplicação do instituto da emendatio libelli, art. 383 do CPP.
+A DPU diz que foi equivocada a readequação típica das condutas descritas na denúncia, o que não teria sido apreciado pela decisão combativa. Veja-se que a decisão ora vergastada acolhe entendimento do decreto condenatório que terminou por enquadrar a conduta da ré no crime do art. 313-A do CPB, em razão do princípio da especialidade, quando comparado com o delito de estelionato, não havendo qualquer omissão no que tange ao ponto.
+Inclusive, restou destacado no decisum que a análise procedida do recurso de apelação do Parquet abrangeria também os recursos apresentados pelas defesas dos réus ANA MARIA BATISTA DA SILVA e DOUGLAS DE FARIAS RAMOS.
+(..)
+5. Igualmente, no aspecto referente à dosagem de pena, o voto de julgamento mencionou o acerto na dosimetria realizada pelo Magistrado a quo e pontuou especificamente as circunstâncias da culpabilidade e consequências do crime; confira-se:
+(..)
+Tendo sido analisadas todas as questões postas em acórdão devidamente embasado, não existindo, portanto, omissão, contradição, obscuridade ou erro material no julgado, entendo não assistir razão à parte embargante, pelo que nego provimento aos embargos." (fls. 1795/1797)
+Da leitura dos excertos, verifica-se que o Tribunal a quo deixou de emitir juízo de valor expresso acerca da apontada participação de menor importância.
+Nesse contexto, apesar de provocado a se manifestar sobre a questão, a Corte de origem deixou de apreciá-la, incorrendo em negativa de prestação jurisdicional que enseja a nulidade do acórdão embargado e o retorno dos autos, para que o vício seja sanado. Com igual orientação:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que cassou o acórdão recorrido, determinando a prolação de novo julgamento. A parte agravante alega que a confissão do acusado foi primordial para a condenação e que o Ministério Público se valeu dela durante os debates orais, pleiteando a redução da pena nos termos do art. 65, inciso III, alínea "d", do Código Penal.
+II. Questão em discussão
+2. A discussão consiste em saber se houve omissão relevante no acórdão recorrido, que justificaria a declaração de nulidade e a necessidade de novo julgamento dos embargos de declaração.
+3. A questão também envolve a análise da possibilidade de reconhecimento ex officio de agravantes e atenuantes pelo Juiz-Presidente do Tribunal do Júri, sem prévio debate em Plenário.
+III. Razões de decidir
+4. O Tribunal a quo não se manifestou explicitamente acerca da questão veiculada nos embargos, configurando omissão relevante à solução da controvérsia e violação do art. 619 do Código de Processo Penal.
+5. A jurisprudência do Superior Tribunal de Justiça entende que a omissão relevante constitui negativa de prestação jurisdicional, sendo necessário o retorno dos autos ao Tribunal de origem para manifestação quanto às matérias aventadas.
+6. A parte recorrente não apresentou fundamentos que justifiquem a adoção de solução diversa daquela implementada na decisão monocrática, sendo adequada a sua manutenção.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal. 2. É necessário o retorno dos autos ao Tribunal de origem para manifestação sobre as matérias aventadas em sede de embargos de declaração.
+(AgRg no REsp n. 2.178.995/TO, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+Prejudicada, assim, a análise das questões de mérito.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568/STJ, dou-lhe provimento para anular o acórdão integrativo e determinar o retorno dos autos ao Tribunal de origem, a fim de que perfaça novo julgamento dos embargos declaratórios, com manifestação sobre a tese suscitada pela defesa.
+Publique-se. Intimem-se.
+EMENTA
