@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Reclamação ajuizada por SUPERMERCADO COMETA LTDA apontando como reclamada a 6ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Ceará.
+Afirma, em suma, que a decisão colegiada proferida pela Turma afronta a jurisprudência desta corte.
+Postula a suspensão de seus efeitos e, no mérito, a cassação do acórdão.
+É o relatório.
+DECIDO.
+Observa-se, no presente feito, que a parte reclama em face de decisão proferida por Turma Recursal.
+Contudo, certo é que "A Resolução n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas do respectivo Tribunal de Justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações que visam a dirimir divergência entre acórdão prolatado por turma recursal estadual e jurisprudência do STJ" (AgInt na Rcl n. 40.778/RJ, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 10.2.2021, DJe de 17.2.2021).
+No mesmo sentido:
+AGRAVO INTERNO. RECLAMAÇÃO. DIVERGÊNCIA ENTRE ACÓRDÃO DE TURMA RECURSAL ESTADUAL E A JURISPRUDÊNCIA DO STJ. COMPETÊNCIA. CORTE LOCAL. RESOLUÇÃO DO STJ N. 3/2016.
+1. "A Resolução n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas do respectivo Tribunal de Justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações que visam a dirimir divergência entre acórdão prolatado por turma recursal estadual e jurisprudência do STJ" (AgInt na Rcl n. 40.778/RJ, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 10.2.2021, DJe de 17.2.2021).
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 46.363/BA, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 15/10/2024, DJe de 18/10/2024.)
+Mostra-se, portanto, manifestamente incabível o expediente manejado.
+Ante o exposto, n ão conheço da reclamação.
+Publique-se. Intimem-se.
+EMENTA
