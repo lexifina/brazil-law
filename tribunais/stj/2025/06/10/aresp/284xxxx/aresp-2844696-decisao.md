@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo de ALEXANDRE MANOEL RODRIGUES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.24.012236-6/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 3º, segunda parte (antes da Lei n. 13.654/18), na forma do artigo 14, II, todos do CP, à pena de 16 (quinze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, além de 8 (oito) dias-multa (fl. 304).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 395). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO DO DELITO DE LATROCÍNIO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. FIRME PALAVRA DA VÍTIMA E DAS TESTEMUNHAS. CONJUNTO PROBATÓRIO HARMÔNICO E COERENTE. DOLO CONFIGURADO. ANIMUS FURANDI E NECANDI EVIDENCIADOS. CONDENAÇÃO MANTIDA. DOSIMETRIA. REDUÇÃO DA PENA. INVIABILIDADE. REDUÇÃO DA PENA-BASE. INVIABILIDADE. CULPABILIDADE DESFAVORÁVEL. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. POSSIBILIDADE DE AUMENTO. PATAMAR MÉDIO. GRANDE PARTE DO ITER CRIMINIS QUE FORA PERCORRIDO. PENA MANTIDA. RECURSO NÃO PROVIDO. Se as provas produzidas formam um conjunto probatório harmônico e desfavorável ao apelante, autorizando um juízo de certeza para o decreto condenatório pelo crime de latrocínio tentado, não há como acolher os pedidos de absolvição/desclassificação. No crime de latrocínio tentado, descabida a desclassificação para o crime de lesão corporal se restou comprovada a intenção do réu de ceifar a vida da vítima para subtrair seus pertences. - Deve ser mantida como desfavorável a baliza judicial referente à culpabilidade, se esta ultrapassa o aquela ínsita ao tipo penal. - O patamar de redução pela ocorrência de tentativa deve ser fixado de acordo com a proximidade da consumação do delito. Assim, maior será a diminuição se o agente ficar distante da consumação do delito e menor se ele se aproximar dela. No caso em tela, considerando o iter criminis percorrido, mostra-se razoável a redução da pena em 1/3 (um terço)." (fl. 379)
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 418). O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. LATROCÍNIO TENTADO. BUSCA EFEITO MODIFICATIVO. REDISCUSSÃO. IMPOSSIBILIDADE. MATÉRIA JÁ DISCUTIDA. REAPRECIAÇÃO. DESCABIMENTO. PREQUESTIONAMENTO. EMBARGOS REJEITADOS - Os embargos de declaração não se prestam a rediscutir matéria já devidamente apreciada, e nem a modificação essencial do acórdão embargado - O acolhimento dos Embargos de Declaração exige a demonstração de ambiguidade, obscuridade, contradição ou omissão no acórdão (art. 619 do CPP), ainda que o objetivo do recurso seja apenas o prequestionamento para fins de interposição de recurso aos Tribunais Superiores." (fl. 409)
+Em sede de recurso especial (fls. 425/429), a defesa apontou violação ao art. 155 do CPP, porque o TJ manteve a exasperação da pena com base na valoração negativa da culpabilidade por fato não comprovado em juízo.
+Requer a exclusão da valoração negativa da culpabilidade para o fim de reduzir a pena.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 433/437).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 425/429).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 448/456).
+Contraminuta do Ministério Público (fls. 460/462).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não provimento do agravo (fls. 481/482).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a alegada violação ao art. 155 do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS manteve a pena do recorrente, com as seguintes ponderações em sede do julgamento dos embargos de declaração (grifos nossos):
+"Quanto ao ponto embargado, restou bem claro no r. acordão os motivos e fundamento da manutenção da culpabilidade como vetor desfavorável À fixação da pena-base, em razão da primeira facada ser desferida nas costa do vítima (doc. de ordem 109 - seq. 001), ficando bem claro que os elementos produzidos na delegacia foram confirmados em Juízo, perante o crivo do contraditório e ampla defesa. Ou seja, a prova de inquérito foi judicializada, sendo, irrelevante no caso, a não oitiva da vítima em juízo.
+Ademais, o contexto dos fatos narrados pela vítima na fase de inquérito, inclusive que a primeira facada foi pelas costas, restou amplamente confirmado em Juízo pelas demais provas produzias." (fl. 412).
+Extrai-se dos trechos acima destacados que o Tribunal de origem firmou sua convicção pela manutenção da pena do recorrente com base no conjunto probatório produzido nos autos, inclusive em juízo.
+Sendo assim, para se concluir de modo diverso e acolher a tese defensiva acerca da exasperação indevida da pena com fundamento na negativação da culpabilidade, seria necessário o revolvimento do conjunto probatório produzido nos autos, o que é vedado no recurso especial conforme Súmula n. 7 do Superior Tribunal de Justiça, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse exato sentido, cita-se precedente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 90 DA LEI N. 8.666/1993. DISSÍDIO JURISPRUDENCIAL. CRIME FORMAL. CONDENAÇÃO. DOSIMETRIA DA PENA. REVISÃO. SÚMULAS N. 7/STJ E 284/STF.
+ ..
+4. Ademais, no ponto em que aponta a defesa violação ao art. 155 do CPP e à redução da pena, vê-se, também, que a análise do recurso esbarra no óbice imposto pela Súmula n. 7 desta Corte Superior, pois reclamaria a incursão no acervo probatório.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.768.279/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
