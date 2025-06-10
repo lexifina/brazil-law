@@ -1,0 +1,597 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+10/06/2025
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.550.517 BAHIA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRO PRESIDENTE
+: ADRIANO MACIEL MOREIRA
+: VIVALDO DO AMARAL ADÃES
+: BIANCA BEATRIZ BARBOSA DA CRUZ
+: DOMINIQUE VIANA SILVA
+: ENZO LUIZ PARAISO LOPES
+: ANA CAROLINA BISPO FERREIRA
+: MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DA
+BAHIA
+
+Ementa: DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ROUBO MAJORADO PELO USO DE
+ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DA
+VÍTIMA, EM CONCURSO MATERIAL COM O CRIME DE EXTORSÃO MAJORADO POR
+USO DE ARMA DE FOGO. AUTORIA E MATERIALIDADE DELITIVA.
+FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. INEXISTÊNCIA DE REPERCUSSÃO
+GERAL. SÚMULA 279/STF.
+I. CASO EM EXAME
+1.
+Agravo regimental contra decisão que negou seguimento a
+recurso extraordinário com agravo interposto para impugnar acórdão que
+deu parcial provimento ao recurso de apelação.
+II. QUESTÃO EM DISCUSSÃO
+2.
+Preenchimento dos pressupostos de admissibilidade do
+recurso extraordinário com agravo.
+III. RAZÃO DE DECIDIR
+3.
+A petição de agravo não trouxe novos argumentos aptos a
+desconstituir a decisão agravada, a qual deve ser mantida pelos seus
+próprios fundamentos.
+4.
+O STF já decidiu que as decisões judiciais não precisam ser
+necessariamente analíticas, bastando que contenham fundamentos
+suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min.
+Gilmar Mendes).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4C31-7171-60BB-7CCF e senha E60F-D4ED-98A0-922A
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+ARE 1550517 AGR / BA
+5.
+O Plenário desta Corte afastou a existência de repercussão
+geral da controvérsia relativa à suposta violação ao art. 5º, II, XXXV,
+XXXVI, LIV E LV, da CF, quando o julgamento da causa depender de
+prévia análise da adequada aplicação das normas infraconstitucionais
+(ARE 748.371-RG - Tema 660).
+6.
+Para dissentir do entendimento firmado pelo Tribunal de
+origem, seria necessário analisar a legislação infraconstitucional aplicada
+ao caso, assim como reexaminar fatos e provas constantes dos autos,
+procedimentos vedados neste momento processual. Incidência da Súmula
+279/STF.
+IV. DISPOSITIVO
+7.
+Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, em conformidade com a
+ata de julgamento, em Sessão Virtual, acordam os Ministros do Supremo
+Tribunal Federal, por unanimidade de votos, em negar provimento ao
+agravo, nos termos do voto do Relator.
+Brasília, 30 de maio a 6 de junho de 2025.
+Ministro LUÍS ROBERTO BARROSO
+Presidente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4C31-7171-60BB-7CCF e senha E60F-D4ED-98A0-922A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.550.517 BAHIA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRO PRESIDENTE
+: ADRIANO MACIEL MOREIRA
+: VIVALDO DO AMARAL ADÃES
+: BIANCA BEATRIZ BARBOSA DA CRUZ
+: DOMINIQUE VIANA SILVA
+: ENZO LUIZ PARAISO LOPES
+: ANA CAROLINA BISPO FERREIRA
+: MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DA
+BAHIA
+
+RELATÓRIO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+Trata-se de agravo regimental interposto contra decisão
+monocrática que negou seguimento a recurso extraordinário com agravo,
+com fundamento no art. 13, V, do Regimento Interno do Supremo
+Tribunal Federal.
+2.
+A parte agravante, além de reiterar os argumentos do
+recurso extraordinário, alega que a “falta de análise de todas as
+circunstâncias apontadas gera graves prejuízos à defesa, isto porque, o
+arcabouço de provas que não conduzem para a confirmação da autoria
+delitiva não foram devidamente apreciadas”. Sustenta que “[h]ouve clara
+ofensa à legislação determinante acerca da fundamentação das decisões,
+na medida em que o Egrégio Tribunal de Justiça da Bahia não reconheceu
+que a sentença recorrida o violou, e consequentemente, a manteve por
+seus próprios fundamentos”. Ademais, afirma que o “que se busca com a
+interposição não é meramente a reanálise probatória, mas sim a sua
+REVALORAÇÃO”.
+3.
+
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B28A-2D68-1608-CE7F e senha 5345-643F-71FF-E68F
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.550.517 BAHIA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRO PRESIDENTE
+: ADRIANO MACIEL MOREIRA
+: VIVALDO DO AMARAL ADÃES
+: BIANCA BEATRIZ BARBOSA DA CRUZ
+: DOMINIQUE VIANA SILVA
+: ENZO LUIZ PARAISO LOPES
+: ANA CAROLINA BISPO FERREIRA
+: MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DA
+BAHIA
+
+VOTO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+
+O agravo regimental não deve ser provido.
+
+2.
+A petição de agravo não trouxe novos argumentos aptos a
+desconstituir a decisão agravada, razão pela qual deve ser mantida pelos
+seus próprios fundamentos:
+Trata-se de recurso extraordinário com agravo contra
+decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea a do
+permissivo constitucional.
+O acórdão recorrido ficou assim ementado:
+APELAÇÃO CRIMINAL – ROUBO MAJORADO
+PELO USO DE ARMA DE FOGO, CONCURSO DE
+AGENTES E RESTRIÇÃO DA LIBERDADE DA VÍTIMA,
+EM CONCURSO MATERIAL COM O CRIME DE
+EXTORSÃO MAJORADO POR USO DE ARMA DE
+FOGO – PRELIMINARES DE NULIDADE AFASTADAS –
+ABSOLVIÇÃO
+INAPLICÁVEL
+–
+CONJUNTO
+PROBATÓRIO APTO A JUSTIFICAR A CONDENAÇÃO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+ARE 1550517 AGR / BA
+– DOSIMETRIA DA PENA - REFORMA REALIZADA APELO
+CONHECIDO,
+COM
+PRELIMINARES
+REJEITADAS E PARCIALMENTE PROVIDO.
+I – O Apelante foi condenado às sanções dos artigos
+157, § 2º, I, II e V, e 158, § 1º, c/c art. 69, todos do Código
+Penal, a pena de 16 (dezesseis) anos de reclusão e ao
+pagamento de 486 (quatrocentos e oitenta e seis) dias
+multa no valor de um trigésimo do salário mínimo vigente
+à data do fato, sendo condenado ainda ao pagamento de
+custas processuais e à perda do cargo de Policial Militar
+do Estado da Bahia, nos termos do art. 92, I, b, do Código
+Penal. Consta dos autos que “o denunciado,
+acompanhado de mais dois indivíduos ainda não
+identificados, no dia 12 de junho de 2010, por volta das
+01:00 h, na Av. Dorival Caymi, nesta cidade, próximo à
+Churrascaria do Galego, de armas em punho, abordaram a
+vítima Diego Reis dos Santos, e dizendo-se policiais,
+passaram a perguntar pelo carro da vítima. Apontando
+onde se encontrava o veículo, o Denunciado e seus
+comparsas a este se dirigiram, passando a efetuar revista
+no interior do mesmo, quando encontraram comprovantes
+de depósitos bancários e a carteira de cédulas da vítima,
+com R$ 1.200,00 (um mil e duzentos reais) em espécie.
+Após se apossar do dinheiro encontrado, o Denunciado e
+seus comparsas passaram a circular com a vítima nas
+imediações da Faculdade Jorge Amado, na Av. Paralela,
+sempre impondo mediante promessa de matá-lo, que
+fosse providenciado dinheiro, sendo naquele momento
+exigido o pagamento de R$ 5.000,00 (cinco mil reais) e ante
+a afirmação da vítima de que somente possuía disponível
+em conta-corrente, que foi verificada pelo Denunciado, o
+saldo de R$ 1.400,00 (um mil e quatrocentos reais) e mais o
+som do veículo orçado em R$ 4.000,00 (quatro mil reais).
+Nesse momento, o Acusado disse à vítima que o som do
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+ARE 1550517 AGR / BA
+veículo já pertencia ao Denunciado e, após negociação,
+ficou acordado que os dois cartões bancários da vítima
+ficariam com o Denunciado, que iria sacar R$ 5.000,00
+(cinco mil reais) no dia posterior, ficando como garantia
+do cumprimento do acerto, e que o veículo marca FIAT,
+modelo Palio, Placa Policial nº JPP 5651, registrado em
+nome de Maria Reis dos Santos, genitora da vítima,
+somente seria devolvido após o pagamento. De posse do
+veículo, da importância em dinheiro acima citada e de
+dois aparelhos celulares pertencentes à vítima e sua
+namorada, o Denunciado deixou Diego em frente ao
+Supermercado EXTRA, loja da Avenida Paralela, nesta
+cidade entregando a ele R$ 25,00 (vinte e cinco reais) para
+pagamento do táxi. Tendo a vítima bloqueado os cartões
+bancários, o Denunciado, ao ver frustrada a possibilidade
+de saque, ligou para esta, ameaçando-o e a sua família,
+impondo que o mesmo providenciasse o dinheiro
+acertado, tendo combinado encontro no Hipermercado do
+Cabula para pagamento e consequente devolução do
+veículo. Lá chegando, a vítima recebeu orientação por
+telefone dado pelo Acusado, de como proceder para a
+entrega do dinheiro, e, quando este se dirigia para realizar
+o pagamento, aconteceu abordagem policial, pressentida
+pelo Denunciado, que, esboçando resistência, sacou de
+arma de fogo e efetuando disparos, fugiu em desabalada
+carreira, homiziando-se no interior de uma residência nas
+imediações, onde veio a ser preso. Consigo, foram
+encontrados os dois cartões bancários da vítima.
+Restituído o veículo, como se pode aferir no Auto de fls.
+32, restou comprovado que o Denunciado havia retirado
+um aparelho de som DVD retrátil, dois alto-falantes de 12
+polegadas, dois alto-falantes de dez polegadas, quatro
+cornetas, dois twiter, dois módulos e crossover, que
+equipavam este”.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+ARE 1550517 AGR / BA
+II – Inexiste qualquer nulidade no Auto de Prisão em
+Flagrante, uma vez que a Polícia Militar não empreendeu
+investigação acerca de um crime realizado no passado e,
+sim, tomou conhecimento acerca da ocorrência de um
+crime e se dirigiu até o local com a finalidade de evitar o
+seu exaurimento e realizar a prisão em flagrante do
+agente, não tendo ultrapassado os deveres inerentes a sua
+competência funcional, tratando-se da hipótese legal de
+flagrante esperado. Ademais, a presença e a participação
+do policial militar que se apresentou como condutor do
+Réu à Delegacia foi exaustivamente demonstrada nos
+autos, sendo desnecessário que a mesma fosse atestada
+mediante rastreamento através do sistema GPS, como
+requerido pelo Apelante. Veja-se que tal diligência foi
+realizada, sendo que a Diretoria de Engenharia da
+Secretaria de Segurança Pública deste Estado informou
+inexistirem informações, em sistema próprio, referentes à
+localização, em 13/07/2010, da viatura RONDESP
+CENTRAL 2.3307, fato este que não impede a sua
+demonstração por outros meios.
+III – Afasta-se a preliminar de cerceamento de
+defesa, uma vez que todas as diligências requeridas pelo
+Réu foram deferidas pelo Juízo e diligenciadas. Ademais,
+verifica-se que a Defesa não requereu nenhuma outra
+diligência ao fim da última audiência de instrução, tendo
+se limitado a pedir a juntada de documentos, o que foi
+deferido pelo Juízo, restando preclusa a arguição da
+nulidade pretendida, nos termos do art. 571, II, do CPP.
+Neste sentido: “ Requerimento alcançado pela preclusão
+consumativa, pois foi protocolado em momento
+inoportuno, após a fase do art. 402 do Código de Processo
+Penal, sendo que, ao final da audiência de instrução, a
+defesa teve oportunidade e não se manifestou acerca da
+realização de qualquer diligência”.(STJ. AgRg no HC n.
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+ARE 1550517 AGR / BA
+690.493/AM, relator Ministro Ribeiro Dantas, Quinta
+Turma, julgado em 9/11/2021, DJe de 16/11/2021.)
+IV – Improsperável o pleito de absolvição, porquanto
+os depoimentos da vítima e das testemunhas colhidos na
+fase de inquérito e em juízo, bem como as circunstâncias
+da apreensão dos produtos do crime na ocasião do
+flagrante e ainda, ante a incoerência da versão
+apresentada pelo réu, conduzem à forte convicção acerca
+da autoria delitiva. A respeito da descrição dos agentes
+que praticaram o crime de roubo, observa-se que constou
+um erro na ocasição do registro da primeira ocorrência
+policial, uma vez que a testemunha de acusação, que
+acompanhou toda a evolução dos fatos, inclusive antes do
+referido registro, alegou que “a vítima disse para o
+depoente que os supostos policiais eram dois negros e um
+claro”. Do segundo depoimento prestado pela vítima em
+Delegacia, constata-se que ela não apenas reconheceu o
+flagranteado como sendo o autor do roubo praticado,
+como também já discorreu a sua narrativa inserindo a
+pessoa do Réu no contexto dos fatos desde o primeiro
+momento. Verifica-se que os depoimentos prestados em
+juízo pelas testemunhas de acusação, que flagrantearam o
+Réu no momento do exaurimento do crime de extorsão
+praticado no dia 13/07/2020, corroboraram o depoimento
+prestado pela vítima em Delegacia, que narrou todos os
+fatos ora mencionados e identificou o Réu como sendo
+uma das três pessoas que praticou o crime de roubo contra
+ela, no dia 12/07/2020 e com sendo a pessoa que praticou o
+crime de extorsão, cujo exaurimento se deu no dia
+13/07/2020. Ademais, a vítima não declarou, em momento
+algum, que teria efetuado saques de valores no caixa
+eletrônico, apenas tendo dito que realizou - diante do Réu
+e dos seus dois comparsas -, uma ligação telefônica junto
+ao atendimento automático do banco, no qual foi obtido o
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+ARE 1550517 AGR / BA
+valor do saldo da conta para conhecimento dos agentes
+criminosos e também com o fito de demonstrar que a
+senha que ela forneceu a eles estaria correta. A própria
+vítima declarou que, após a subtração dos seus cartões de
+crédito pelos mesmos, ela bloqueou os referidos cartões,
+versão está que está de acordo com o ofício do Banco do
+Brasil constante nos autos. Afasta-se, portanto, a tese de
+absolvição por falta de provas.
+V – Em relação à dosimetria das penas, em relação ao
+crime previsto no art. 157, § 2º, I, II e V, do Código Penal,
+para fixação da pena-base, restam mantidas desfavoráveis
+as circunstâncias do crime - em razão do concurso de
+agentes e da restrição à liberdade da vítima - e a
+culpabilidade do agente - por ser o réu Policial Militar,
+fato que merece ser censurado com maior intensidade -,
+bem como fixada à causa de aumento de pena em ½
+(metade) - uma vez que todos os três indivíduos se
+apresentaram armados, em local público, se fazendo
+passar por policias, tendo realizado abordagem policial
+ilícita no local, causando perigo às vidas, não apenas da
+vítima, como também da sua namorada à época, e ainda
+das pessoas que transitavam naquele local -, resultando na
+pena de 8 (oito) anos de reclusão e pagamento de 145
+(cento e quarenta e cinco) dias-multa, individualmente
+fixados no patamar mínimo previsto em lei. Em relação ao
+crime previsto no art. 158, § 1º, do Código Penal, para a
+fixação da pena-base, considera-se neutra a circunstância
+do crime - uma vez que não foi demonstrado o concurso
+de agentes - e mantém-se desfavorável a culpabilidade do
+réu. Em relação ao crime de extorsão, restou demonstrado
+que, embora o réu estivesse portando arma de fogo no
+momento do crime, não disparou tiros no local dos fatos.
+Contudo, não se pode considerar que o réu apenas
+estivesse portando a arma de fogo por sua condição de
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+ARE 1550517 AGR / BA
+policial militar, uma vez que encontrava-se em contexto
+dissociado do exercício regular de sua função e,
+efetivamente, teria sacado a sua arma, conforme
+depoimentos prestados pelas Testemunhas de Acusação e
+pela vítima, sendo reconhecida, portanto, a causa de
+aumento decorrente do emprego de arma de fogo e fixada
+no patamar mínimo de 1/3 (um terço), resultando na pena
+de 6 (seis) anos e 4 (quatro) meses de reclusão e
+pagamento de 70 (setenta) dias-multa, individualmente
+fixados no patamar mínimo previsto em lei. Diante do
+concurso material entre os crimes de roubo
+circunstanciado e de extorsão majorada, resta a pena
+definitiva fixada em 14 (quatorze) anos e 4 (quatro) meses
+de reclusão e pagamento de 215 (duzentos e quinze) dias
+multa, cada um no valor equivalente a 1/30 (um trigésimo)
+do salário-mínimo vigente a época dos fatos. Resta
+estabelecido o regime inicial fechado, nos termos do art.
+33, §2º, alínea ‘a’, do Código Penal. Conforme consta na
+sentença, restou ainda o Apelante condenado ao
+pagamento das custas processuais e à perda do cargo de
+Policial Militar do Estado da Bahia, nos termos do art. 92,
+I, b, do Código Penal, que resta mantido, assim como os
+demais termos da decisão recorrida, como se deste
+fizessem parte integrante. RECURSO CONHECIDO, COM
+PRELIMINARES REJEITADAS, E PARCIALMENTE
+PROVIDO.
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s)
+5º, incisos LIV, LV e LVII, e 93, inciso IX, da Constituição
+Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte,
+em sede de repercussão geral, reafirmou a orientação de que o
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+ARE 1550517 AGR / BA
+art. 93, inciso IX, da Constituição não exige que o órgão
+judicante se manifeste sobre todos os argumentos apresentados
+pela defesa, mas sim que ele fundamente, ainda que
+sucintamente, as razões que entendeu suficientes à formação de
+seu convencimento, como ocorreu no caso em tela (AI nº
+791.292/PE-RG-QO, Rel. Min. Gilmar Mendes, DJe de
+13/08/2010).
+Além disso, nos autos do ARE nº 748.371/MT, Relator o
+Ministro Gilmar Mendes (Tema 660), o Plenário da Corte
+ratificou o entendimento de que a afronta aos princípios da
+legalidade, do devido processo legal, da ampla defesa, do
+contraditório, dos limites da coisa julgada ou da prestação
+jurisdicional que dependa, para ser reconhecida como tal, da
+análise de normas infraconstitucionais configura apenas ofensa
+indireta ou reflexa à Constituição Federal, o que não enseja
+reexame da questão em recurso extraordinário. Nesse sentido:
+[...]
+Ademais, verifica-se que, para ultrapassar o entendimento
+do Tribunal de origem, seria necessário analisar a causa à luz da
+interpretação dada à legislação infraconstitucional pertinente e
+reexaminar os fatos e as provas dos autos, o que não é cabível
+em sede de recurso extraordinário, nos termos da Súmula
+279/STF. Sobre o tema, a propósito:
+[...]
+Ante o exposto, nego seguimento ao recurso (alínea c do
+inciso V do art. 13 do Regimento Interno do Supremo Tribunal
+Federal).
+
+3.
+Quanto à alegada ofensa ao art. 93, IX, da Constituição, tal
+como assentado na decisão agravada, lembro que o Plenário deste
+Tribunal já assentou o entendimento de que as decisões judiciais não
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+ARE 1550517 AGR / BA
+precisam ser necessariamente analíticas, bastando que contenham
+fundamentos suficientes para justificar suas conclusões. Nessa linha,
+reconhecendo a repercussão geral da matéria, veja-se o AI 791.292-QORG, julgado sob a relatoria do Ministro Gilmar Mendes.
+4.
+O Plenário do Supremo Tribunal Federal já afastou a
+existência de repercussão geral da controvérsia relativa à suposta
+violação aos princípios do contraditório, da ampla defesa, dos limites da
+coisa julgada, do direito adquirido, do ato jurídico perfeito, da coisa
+julgada e do devido processo legal, quando o julgamento da causa
+depender de prévia análise da adequada aplicação das normas
+infraconstitucionais (ARE 748.371-RG, julgado sob a relatoria do Ministro
+Gilmar Mendes - Tema 660).
+5.
+Reitero que, para dissentir do entendimento do Tribunal
+de origem, seria imprescindível a análise da legislação infraconstitucional
+aplicada ao caso, assim como uma nova apreciação dos fatos e do
+material probatório constantes dos autos, procedimentos inviáveis neste
+momento processual. A hipótese atrai a incidência da Súmula 279/STF.
+6.
+
+Diante do exposto, nego provimento ao agravo regimental.
+
+7.
+
+É como voto.
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39E6-6991-A856-754D e senha C870-ADD2-1FCD-CF65
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/06/2025
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+PLENÁRIO
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.550.517 BAHIA
+PROCED. : BAHIA/BA
+RELATOR(A): MINISTRO PRESIDENTE
+AGTE.(S): ADRIANO MACIEL MOREIRA
+ADV.(A/S): VIVALDO DO AMARAL ADÃES (13540/BA)
+ADV.(A/S): BIANCA BEATRIZ BARBOSA DA CRUZ (68312/BA)
+ADV.(A/S): DOMINIQUE VIANA SILVA (36217/BA)
+ADV.(A/S): ENZO LUIZ PARAISO LOPES (77073/BA)
+ADV.(A/S): ANA CAROLINA BISPO FERREIRA (75521/BA)
+AGDO.(A/S): MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA
+PROC.(A/S)(ES): PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DA BAHIA
+Decisão:
+O Tribunal, por unanimidade, negou provimento ao
+agravo, nos termos do voto do Relator, Ministro Luís Roberto Barroso
+(Presidente). Plenário, Sessão Virtual de 30.5.2025 a 6.6.2025.
+Composição: Ministros Luís Roberto Barroso (Presidente), Gilmar
+Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Edson Fachin, Alexandre
+de Moraes, Nunes Marques, André Mendonça, Cristiano Zanin e Flávio
+Dino.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4C4B-92ED-B2DA-C538 e senha 2708-5C25-ACFA-DB7D
