@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 281):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONTRATO TEMPORÁRIO. PROFESSOR SUBSTITUTO. PRAZO DE 24 MESES. NOVA CONTRATAÇÃO. INSTITUIÇÕES DE ENSINO DISTINTAS. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante alega que a matéria abordada no presente feito guarda relação com a controvérsia afetada ao rito dos recursos repetitivos, no âmbito do Tema 1.308/STJ (RESP 2.136.644/AL e RESP 2.141.105/RN.
+Requer, assim, a reconsideração da decisão agravada, devolvendo-se o feito à origem para aguardar o julgamento dos recursos repetitivos.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Diante dos argumentos apresentados na presente irresignação, exerço o juízo de retratação facultado pelo art. 259 do Regimento Interno desta Corte, e torno sem efeito a decisão de fls. 281-284.
+A questão alusiva a "definir se a vedação de nova admissão de Professor Substituto temporário anteriormente contratado, antes de decorridos 24 meses do encerramento do contrato anterior, contida no artigo 9º, III, da Lei 8.745/1993, se aplica aos contratos realizados por instituições públicas distintas" foi submetida ao rito do julgamento dos recursos repetitivos, nos termos do art. 1.036 do CPC/2015, nos autos dos REsp"s 2.141.105/RN e 2.136.644/AL de relatoria do Ministro Afrânio Vilela, havendo sido determinada a suspensão do processamento de todos os processos que cuidem de idêntica controvérsia.
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e 1.040 do CPC/2015. Nesse sentido: EDcl no AgInt no AREsp n. 1.445.132/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; EDcl no AgInt no REsp n. 1.478.016/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 6/4/2018.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
