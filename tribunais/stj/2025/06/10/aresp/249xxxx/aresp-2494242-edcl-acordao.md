@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 04/06/2025 a 10/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão assim ementado (fls. 994-995):
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. TEMA N. 181 DO STF.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, sob a justificativa de que a matéria discutida envolvia pressupostos de admissibilidade de recurso de competência do STJ.
+1.2. A parte agravante argumentou que o recurso extraordinário apontava violação a dispositivos da Constituição Federal, afirmando a inaplicabilidade do Tema n. 181 do STF ao caso concreto.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+A parte embargante sustenta, em síntese, que haveria obscuridade no acórdão embargado, pois o Recurso Extraordinário se voltava, de forma clarividente, contra decisão que, genericamente, rejeitou os embargos de declaração opostos anteriormente pelos ora Embargantes. Ou seja, se discute a ausência de fundamentação de decisão proferida pela c. Terceira Turma de Direito Privado - e não, neste momento, o preenchimento dos pressupostos de admissibilidade do Recurso Especial em si.
+E continua (fl. 1.016):
+ ..  ao julgar de maneira genérica os aclaratórios de e-STJ fls. 882/887, esse e. STJ violou, data máxima vênia, o princípio do devido processo legal, do contraditório e da ampla defesa, estampados no art. 5º, LIV e LV, da Carta Magna, além do que prevê o art. 93, IX do mesmo Diploma Maior.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+VOTO
+2. Inicialmente, no que tange à suscitada violação ao artigo 93, IX, da Constituição Federal, esse ponto não foi oportunamente trazido nas razões do recurso extraordinário, tratando-se de inovação contida no agravo interno.
+Nesse contexto, a matéria está acobertada pela preclusão consumativa, não sendo possível conhecer da irresignação nesse particular.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. ADMINISTRATIVO. POLICIAL MILITAR. GRATIFICAÇÃO DE ATIVIDADE. CARÁTER PROPTER LABOREM. EXTENSÃO AOS INATIVOS. TEMA 462/STF. PARCIAL CONHECIMENTO E DESPROVIMENTO DO RECLAMO.
+1. No AI n. 846.912 RG/BA, julgado na sistemática da repercussão geral, o Supremo Tribunal Federal definiu que: "a questão da extensão aos aposentados e pensionistas da vantagem pecuniária "Gratificação de Atividade Policial Militar - GAPM", paga aos policiais militares em atividade, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009" (Tema 462/STF).
+2. Não se pode conhecer da alegada violação do art. 93, IX, da Constituição Federal, pois se trata de indevida inovação recursal.
+3. Agravo interno parcialmente conhecido e, na extensão, não provido.
+(AgInt no RE no AgInt nos EDcl no RMS n. 43.059/BA, relator Ministro Jorge Mussi, Corte Especial, julgado em 7/6/2022, DJe de 9/6/2022.)
+3. O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, pois, conforme registrado no acórdão embargado, nos termos da tese fixada pela Suprema Corte para o Tema n. 181 do STF (RE n. 598.365-RG/MG), quando as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, pois a matéria não é dotada de repercussão geral, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil.
+Da mesma forma, foi registrado que tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu.
+Igualmente, foi consignado que, também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Inexistindo vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+4. Por fim, registro que não é possível o conhecimento da petição sucessivamente apresentada, às fls. 1.011-1.018, contra a mesma decisão, em razão do princípio da unirrecorribilidade e da já consolidada preclusão consumativa, porquanto a parte recorrente exauriu sua faculdade recursal com a interposição do primeiro recurso, ora apreciado, o que torna inviável a análise da insurgência posteriormente manejada.
+5 . Ante o exposto, rejeito os embargos de declaração.
+Advirto, desde logo, que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
