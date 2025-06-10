@@ -1,0 +1,49 @@
+DECISÃO
+Em análise, recurso especial interposto por RAIMUNDO NONATO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ assim ementado (fls. 506-507):
+PROCESSO CIVIL. APELAÇÃO. AÇÃO DE NDENIZAÇÃO POR DANOS MATERIAIS (COBRANÇA) E MORAIS. SERVIDOR MILITAR APOSENTADO. PRESCRIÇÃO QÜINQÜENAL. TERMO INICIAL NA DATA DA APOSENTADORIA. NÃO CARACTERIZAÇÃO. CONVERSÃO DE FÉRIAS E LICENÇA- PRÊMIO EM PECÚNIA. NÃO PAGAMNTO. LOCUPLETAMENTO ILÍCITO DA ADMINISTRAÇÃO. SUCUMBENCIA RECÍPROCA. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS PROPORCIONAL. POSSIBILIDADE.
+1. A jurisprudência pátria já está pacificada no sentido de que a contagem da prescrição quinquenal relativa ã conversão em pecúnia de férias e licença-prêmio não gozadas e nem utilizada como lapso temporal para a aposentadoria, tem como termo a quo a data em que ocorreu a aposentadoria do servidor público
+2. É pacífico a possibilidade de indenização por férias não gozadas ao servidor aposentado, independentemente da motivação do não usufruto, sob pena de restar configurado o locupletamento ilícito da Administração pública.
+3. De acordo com o art. 86, do CPC/2015, bem como do entendimento da jurisprudência pátria, havendo sucumbência recíproca devem os honorários serem distribuídos na proporção do valor em que cada parte sucumbiu.
+4. In casu ambas as partes foram sucumbentes no litígio, portanto, os honorários advocatícios devem ser distribuídos entre ambos.
+5. Recursos conhecidos e improvidos. Decisão unânime.
+Os embargos de declaração não foram conhecidos.
+Nas razões do recurso especial, fundado nas alíneas a e c do permissivo constitucional, o recorrente aponta que o acórdão recorrido violou o art. 86 do CPC ao manter a sentença de primeiro grau, a qual rateou honorários sucumbenciais no percentual de 10% entre autor e réu.
+Sustenta que "não existe previsão para ratear honorários entre vencido e vencedor", justificando que a verba pode ser rateada "entres os vencidos ou vencedores quando a causa possui mais de uma parte no polo da ação" (fl. 611). Argumenta que a decisão recorrida, ao determinar o rateio dos honorários entre autor e réu, realiza compensação indireta de honorários, sem que haja previsão legal. Assim, defende que cada parte deve ser condenada em honorários de acordo com sua sucumbência.
+Requer o provimento do recurso especial, para reforma do acórdão recorrido, condenando cada parte em 10% da sucumbência que lhe é inerente, sem rateio.
+Contrarrazões apresentadas (fls. 618-624).
+É o relatório.
+Passo a decidir.
+Primeiramente, vale registrar que, embora tenha fundado o recurso especial também na alínea c do permissivo constitucional, o recorrente nada demonstra acerca de divergência jurisprudencial, conforme previsto no art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ. Desta forma, inviável a admissão do apelo com base na alínea c, por incidência do verbete Sumular 284 do STF.
+No tocante à apontada violação ao art. 86 do CPC, o Tribunal de origem assim se manifestou sobre a controvérsia (fls. 516-517):
+d) Da condenação recíproca em honorários advocatícios
+Havendo, portanto, sucumbência recíproca devem os honorários serem redistribuídos na proporção do valor em que cada parte sucumbiu, inteligência do art. 86, do CPC/2015, a seguir transcrito:
+Art. 86. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
+Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários.
+É esse entendimento levantado pelo TJPI, veja:
+APELAÇÃO CÍVEL EM AÇÃO DE INDENIZAÇÃO DE SEGURO DPVAT POR INVALIDEZ ADVINDOS DE ACIDENTE DE TRÂNSITO COMPEDIDO LIMINAR. SENTENÇA REFORMADA.1. A pretensão da parte apelante ê a reforma da sentença que a condenou ao pagamento indenizatório, a título de complementação da indenização decorrente do seguro obrigatório DPVAT. 2. A redução da funcionalidade apontada deve ser calculada sobre o valor estipulado na tabela para Perda anatômica e/ou funcional completa de um dos membros inferiores, que prevê indenização de 70% (setenta por cento) do teto de R$ 13.500,00 (treze mil e quinhentos reais) valor referido no artigo 3º, inciso II, o qual equivale ao montante de R$ 9.450,00 (nove mil quatrocentos e cinquenta reais) dos quais o percentual de 40% (quarenta por cento), conforme apontado na perícia, é devido ao beneficiário, que resulta no valor de R$ 3.780,00 (três mil e setecentos e oitenta reais). 3. Subtrai-se, ainda, desse valor, a quantia já paga pela seguradora apelante na via administrativa, equivalente ao montante de R$ 945,00 (novecentos e quarenta e cinco reais), o que perfaz o valor de R$ 2.835,00 (dois mil oitocentos e trinta e cinco reais) a serem complementados. 4. Correção monetária pelo IGP-M, a contar do sinistro, nos termos da Súmula 580 do STJ, e juros de 1% ao mês, a partir da citação, a teor da Súmula 426. 5. Quanto ao pedido de redistribuição da sucumbência, razão assiste a apelante, assim, arcará a seguradora com 80% das custas e honorários advocatícios fixados em sentença, outrossim, condeno a parte apelada ao pagamento dos 20% restantes, diante da sucumbência recíproca, nos termos do art. 86, do CPC, suspensa a exigibilidade em razão da concessão da gratuidade de justiça. 6. RECURSO PARCIALMENTE PROVIDO. (TJPI | Apelação Cível Nº 2018.0001.000103-3 |
+Relator: Des. José Ribamar Oliveira | 2ª Câmara Especializada Cível | Data de Julgamento: 12/03/2019). (Sem grifo no original).
+ ..
+Desse modo, considerando que a requerente também foi parte sucumbente no litígio, o pedido da apelante para consignar a condenação do Estado do Piauí no total dos honorários advocatícios não merece ser acolhida.
+Do exposto, é possível verificar que o Tribunal estadual adotou entendimento em consonância com a jurisprudência desta Corte Superior, segundo a qual, caracterizada a sucumbência recíproca prevista no art. 86 do CPC, cabe a cada parte arcar com os honorários, as despesas e as custas do processo a que tenham dado causa.
+A propósito:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO À HABILITAÇÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. MATÉRIA FÁTICA. IMPOSSIBILIDADE DE REVISÃO. DISSÍDIO JURISPRUDENCIAL. FALTA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. O art. 86, caput, do CPC/2015 estabelece que, verificada a sucumbência recíproca, as custas e o valor total dos honorários advocatícios deverão ser suportados na proporção do decaimento das partes.
+2.O acórdão recorrido constatou que, neste caso, houve sucumbência recíproca, pois ambos os lados sucumbiram parcialmente em suas reivindicações.
+3. Conforme estabelece a orientação jurisprudencial do Superior Tribunal de Justiça, "avaliar em que monta os litigantes sagraram-se vencedores ou vencidos na demanda, com o propósito de reformular a distribuição dos ônus de sucumbência, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática. Incidência da Súmula n. 7/STJ" (AgInt no AREsp n. 2.099.311/RJ, Relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.786.316/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RENOVAÇÃO DE LOCAÇÃO COMERCIAL. VALOR DO ALUGUEL. SUCUMBÊNCIA RECÍPRORCA. AFERIÇÃO DA PROPORÇÃO. NECESSIDADE DE REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O art. 86, caput, do CPC/2015 estabelece que, verificada a sucumbência recíproca, as custas e o valor total dos honorários advocatícios deverão ser suportados na proporção do decaimento das partes.
+2. O acórdão recorrido constatou que, neste caso, a sucumbência está relacionada ao resultado final do único pedido da demanda sobre o qual havia controvérsia, bem como que ambos os lados sucumbiram parcialmente em suas reivindicações, justificando a divisão igualitária das despesas processuais.
+3. Conforme estabelece a orientação jurisprudencial do Superior Tribunal de Justiça, "avaliar em que monta os litigantes sagraram-se vencedores ou vencidos na demanda, com o propósito de reformular a distribuição dos ônus de sucumbência, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática. Incidência da Súmula n. 7/STJ" (AgInt no AREsp n. 2.099.311/RJ, Relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.560.352/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO PROPORCIONAL. RECONVENÇÃO SEM FIXAÇÃO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. ACOLHIMENTO PARCIAL.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Configurada a sucumbência recíproca (art. 86 do CPC/2015), as custas e o valor total dos honorários advocatícios deverão ser suportados na proporção do decaimento das partes.
+3. Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes.
+4. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgInt nos EDcl no AREsp n. 2.335.639/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+ EMENTA
