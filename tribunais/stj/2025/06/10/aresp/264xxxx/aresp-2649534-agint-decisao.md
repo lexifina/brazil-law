@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por José Police Neto da decisão de fls. 246/251, em que conheci do seu agravo para negar provimento ao recurso especial com base nos seguintes fundamentos: (a) a atual redação do art. 17, § 7º, da Lei 8.429/1992 não mais prevê a defesa preliminar, postergando as alegações defensórias para a contestação; (b) a decisão que recebe a inicial prescinde da exposição dos motivos autorizadores, subjazendo a presença dos requisitos exigidos pelo art. 17, § 6º, da Lei de Improbidade Administrativa; e (c) não há violação ao art. 17, §§ 6º, 6º-B e 7º, da LIA, assim como não há ausência de fundamentação, pois os elementos trazidos na petição inicial dão ensejo ao seu recebimento.
+A parte agravante alega que a decisão que recebeu a petição inicial por ato de improbidade administrativa não contém fundamentação, violando as previsões constantes nos arts. 17, §§ 6º, 6º-B e 7º da Lei 8.429/1992 e 489, § 1º, do Código de Processo Civil.
+Afirma ter sido prolatada decisão recebendo a inicial sem pontuar qualquer requisito de admissibilidade, limitando-se a um "cite-se", sem mencionar se os termos da inicial cumpriram os requisitos de admissibilidade.
+Impugnação apresentada às fls. 161/166.
+É o relatório.
+O presente agravo em recurso especial encontra-se prejudicado.
+Relembro que o MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO ajuizou ação civil pública por atos de improbidade administrativa contra JOSÉ POLICE NETO, tendo em vista possíveis ilegalidades no processo de requerimento de licença à Câmara Municipal de São Paulo, em 7/11/2017, para desempenhar missão temporária, na qual inseriu a expressão "com ônus à municipalidade", em desacordo ao requerimento originalmente apresentado, o que teria caracterizado enriquecimento ilícito e afronta aos princípios da administração.
+O juízo de primeiro grau recebeu a inicial e determinou o prosseguimento da ação, nos seguintes termos (fl. 50):
+"Vistos.
+Abra-se vista ao Ministério Público para que tome ciência da manifestação do requerido.
+Recebo a petição inicial. Cite-se o autor para apresentação de contestação no prazo legal.
+Intime-se".
+Interposto agravo de instrumento pelo réu, o Tribunal de origem negou a ele provimento ainda em junho de 2023, sob a alegação de que a Lei 14.230/2021 suprimiu a fase do contraditório prévio, antes prevista no artigo 17, § 7º, da Lei 8.429/1992, de modo que a decisão que dá seguimento à ação, determinando a citação dos réus e a contestação, sem aprofundada fundamentação, não é nula.
+Eis o pertinente trecho do voto condutor do aresto (fls. 51/54):
+A decisão ora impugnada foi proferida já na vigência das alterações promovidas na LIA pela Lei 14.230/2021, que, conforme disposto acima, suprimiu a fase de contraditório prévio antes prevista no artigo 17, § 7º, do diploma. Trata-se de alteração que "se mostra em linha com a duração razoável do processo, pois a fase suprimida, de pouca valia para o próprio réu, acabava por retardar o recebimento da inicial por meio de controvérsias que, em regra, seriam reiteradas na fase de contestação. Ademais, era pacífico o entendimento jurisprudencial no sentido de que a ausência da defesa preliminar não ensejava a nulidade absoluta, mas relativa, dependendo da efetiva e concreta demonstração de prejuízo". (MARTINS JUNIOR, Wallce Paiva; MAGALHÃES JUNIOR, Alexandre Alberto de Azevedo; OLIVEIRA, Beatriz Lopes de. Lei de Improbidade Administrativa Comentada. São Paulo: Editora Juspodvm, 2023. p. 213)
+ ..
+Caso não é, portanto, de uma vez mais nulificar a decisão que recebeu a inicial da ação proposta, e a renovação daquela fase processual traduziria mera superfetação tendente a desnecessariamente protelar o andamento do feito.
+De todo modo, em tema de nulidade vigora entre nós o princípio "pas de nullité sans grief", segundo o qual não há nulidade, mesmo em relação aos vícios mais graves, se do ato impugnado não resultar prejuízo efetivo e concreto ao interessado (RMS 24.798/PE, 5ª Turma, Rel. Min. Felix Fischer, DJe de 16/03/2009; AgRg no RMS nº 20.254/SP, Rel. Min. Alderita Ramos de Oliveira, j. 15/08/2013, RMS nº 22.978/BA, Rel. Min. Laurita Vaz, j. 25/11/2010, MS nº 9.649/DF, Rel. Min. Og Fernandes, DJe de 18/12/2008, MS 8.030/DF, Rel. Min. Laurita Vaz, DJ de 06/08/2007, MS 10.874/DF, Rel. Min. Paulo Gallotti, DJ de 02/10/2006).
+Ainda a se entender que as alterações promovidas na Lei 8.427/92, e especificamente a nova redação do § 7º do artigo 17 do diploma  .. , não afastam a possibilidade de vir o órgão julgador a, se for o caso, deixar de receber a inicial da ação, tal alternativa é reservada às hipóteses claramente temerárias e despidas de todo e qualquer supedâneo indiciário. Não é isto o que ocorre na espécie.
+Ao que se vê dos autos originários, a petição inicial assinala a conduta do réu e aponta elementos probatórios mínimos, inclusive por meio de trechos de depoimentos coletados pelos vereadores, tendentes a demonstrar a ocorrência dos ilícitos político-administrativos atribuídos na exordial e a respectiva autoria.
+ ..
+Tem-se que a exordial foi instruída com vasto conjunto de indícios documentais (fls. 16 a 555 dos autos originários), e é forçoso convir em que há supedâneo indiciário suficiente quando menos para o recebimento da petição inicial (que já não demandava prévio contraditório ao tempo da decisão aqui impugnada) e para o prosseguimento do processo.
+Deve ser considerado, ainda, que a petição inicial já indica a tipificação das infrações em relação ao agravante, tanto que proporcionou a apresentação de manifestação substanciosa do agravado (fls. 572/605 e documentos), não se ferindo de eventual vício de natureza formal.
+A rejeição de petição instauradora de ação de improbidade há de ser reservada àquelas hipóteses de insuperável eiva formal ou de ausência de indícios mínimos que sequer autorizem cogitar a tipificação dos atos imputados. Há neste caso indícios bastantes a justificar o recebimento da inicial, descabendo falar em cerceamento de defesa, e reiterando-se que, nada obstante o decidido no anterior Aresto proferido no A.I. 2143143-18.2020.8.26.0000, a decisão aqui devolvida ao conhecimento da Corte foi prolatada de novo regime que não mais reclama a fase preambular prevista no regime anterior.
+ ..
+Nesta linha, considerando que o juízo de primeiro grau não estava diante de manifesta inexistência de ato de improbidade administrativa, tampouco de claro e indubitável convencimento pela inexistência da conduta ímproba, não havia motivos para maiores digressões no despacho de recebimento da inicial, que se encontra em linha com a nova sistemática legal que regem ações de improbidade.
+Ocorre que, em consulta ao sítio eletrônico do Tribunal local, identifiquei que o autor da ação, tendo em vista uma anterior desconstituição do despacho de recebimento da petição inicial por ausência de fundamentação, de forma a prevenir eventual nova desconstituição do ato, já que, novamente, teria havido o mero recebimento e determinação de citação, postulou ao Juízo de primeiro grau que analisasse fundamentadamente a viabilidade do pedido condenatório.
+O pedido foi atendido, tendo a juíza, em 15/5/2024, realizado nova análise dos requisitos da inicial, substituindo, portanto, a decisão agravada que deu azo à interposição do presente recurso especial.
+A propósito, afirmou a julgadora (fls. 1.170/1.171 dos autos da ação por improbidade):
+"Vistos.
+Acolho a manifestação do Ministério Público, para fins de cumprimento do v. acórdão de fls. 1.077/1.080, reiterando o recebimento da petição inicial desta ação, em substituição àquela de fl. 1.137, com base na verossimilhança dos fatos e alegação apresentadas pelo Ministério Público.
+Na petição inicial, o Ministério Público apresenta fatos e provas envolvendo durante investigação administrativa, com trechos de depoimentos dados à Promotoria da Justiça e memorando da Câmara Municipal de São Paulo, que indicam a razoabilidade das alegações.
+Em sua manifestação prévia, o requerido não logrou êxito em rebater as provas apresentadas pelo Ministério Público.
+Pelo exposto, recebo a petição inicial.
+Defiro o prazo de 45 dias requerido pelo Ministério Público, para eventual tentativa de acordo.
+Abra-se vista ao MP para que se manifeste.
+Após, conclusos. Intimem-se."
+Diante deste fato relevante e superveniente, exarada nova decisão recebendo a inicial da ação por improbidade, esvaziou-se o interesse no julgamento do presente agravo interno.
+Ante o exposto, julgo prejudicados os recursos.
+Publique-se. Intimem-se.
+EMENTA
