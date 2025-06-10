@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Recurso especial. Decisão interlocutória. Irrecorribilidade. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial. A parte agravante sustenta que a apelação interposta contra decisão interlocutória deveria ter sido recebida como agravo de instrumento, com base no princípio da fungibilidade, pleiteando a concessão de habeas corpus de ofício para revogar a determinação de instalação de tornozeleira eletrônica.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a apelação interposta contra decisão interlocutória deve ser recebida como agravo de instrumento, à luz do princípio da fungibilidade.
+III. Razões de decidir
+3. O entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior, que considera irrecorríveis as decisões interlocutórias simples, salvo previsão expressa de recurso específico.
+4. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando verificada flagrante ilegalidade devidamente prequestionada, não sendo cabível para contornar a inadmissão do recurso interposto.
+5. O Tribunal de origem não se manifestou sobre a possibilidade de recebimento da apelação como agravo de instrumento, nem sobre a revogação da medida cautelar, impossibilitando a apreciação dessas matérias por esta Corte, sob pena de supressão de instância.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. As decisões interlocutórias simples são irrecorríveis, salvo previsão expressa de recurso específico. 2. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando verificada flagrante ilegalidade devidamente prequestionada. 3. A ausência de manifestação do Tribunal de origem sobre determinadas matérias impossibilita sua apreciação por instância superior, sob pena de supressão de ins tância."
+Dispositivos relevantes citados: CPP, art. 593, II.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.189.067/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 25.04.2023; STJ, AgRg no REsp 1.947.677/PR, Rel. Min. Jesuíno Rissato, Quinta Turma, j. 28.09.2021; STJ, AgRg no REsp 1.830.499/PR, Rel. Min. Leopoldo de Arruda Raposo, Quinta Turma, j. 26.11.2019; STJ, AgRg no REsp 1.718.330/RS, Rel. Min. Felix Fischer, Quinta Turma, j. 12.06.2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFFERSON ESTEVAM DE MIRANDA contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial (fls. 5.751-5.754).
+A parte agravante aduz, em síntese, com base no princípio da fungibilidade, que a apelação interposta contra a decisão interlocutória deveria ter sido recebida como agravo de instrumento previsto no art. 495 do RITJMG,
+Sustenta, também, a possibilidade de concessão de habeas corpus, de ofício, "para revogar a determinação de instalação de tornozeleira eletrônica considerando o ônus excessivo imposto ao agravante por ineficiência do Estado" (fl. 5.775).
+Pede, ao final, o provimento deste agravo regimental, para que seja provido também o recurso especial.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Recurso especial. Decisão interlocutória. Irrecorribilidade. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial. A parte agravante sustenta que a apelação interposta contra decisão interlocutória deveria ter sido recebida como agravo de instrumento, com base no princípio da fungibilidade, pleiteando a concessão de habeas corpus de ofício para revogar a determinação de instalação de tornozeleira eletrônica.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a apelação interposta contra decisão interlocutória deve ser recebida como agravo de instrumento, à luz do princípio da fungibilidade.
+III. Razões de decidir
+3. O entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior, que considera irrecorríveis as decisões interlocutórias simples, salvo previsão expressa de recurso específico.
+4. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando verificada flagrante ilegalidade devidamente prequestionada, não sendo cabível para contornar a inadmissão do recurso interposto.
+5. O Tribunal de origem não se manifestou sobre a possibilidade de recebimento da apelação como agravo de instrumento, nem sobre a revogação da medida cautelar, impossibilitando a apreciação dessas matérias por esta Corte, sob pena de supressão de instância.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. As decisões interlocutórias simples são irrecorríveis, salvo previsão expressa de recurso específico. 2. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando verificada flagrante ilegalidade devidamente prequestionada. 3. A ausência de manifestação do Tribunal de origem sobre determinadas matérias impossibilita sua apreciação por instância superior, sob pena de supressão de ins tância."
+Dispositivos relevantes citados: CPP, art. 593, II.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.189.067/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 25.04.2023; STJ, AgRg no REsp 1.947.677/PR, Rel. Min. Jesuíno Rissato, Quinta Turma, j. 28.09.2021; STJ, AgRg no REsp 1.830.499/PR, Rel. Min. Leopoldo de Arruda Raposo, Quinta Turma, j. 26.11.2019; STJ, AgRg no REsp 1.718.330/RS, Rel. Min. Felix Fischer, Quinta Turma, j. 12.06.2018.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, o entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior sobre o tema, no sentido de que "não se tratando de decisão que põe fim ao processo penal, tampouco sendo possível atribuir-lhe qualquer atributo de definitividade, não se afigura cabível a sua impugnação por meio do recurso de apelação criminal" (AgRg no AREsp n. 2.189.067/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/4/2023, DJe de 2/5/2023.). A corroborar:
+"PENAL. PROCESSO PENAL. OPERAÇÃO LAVA JATO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO CRIMINAL EM SENTIDO ESTRITO. APELAÇÃO CONTRA DECISÃO INTERLOCTÓRIA. PRINCÍPIO DA IRRECORRIBIDADE. ART. 593, INCISO II, DO CPP. NÃO CABIMENTO. DECISÃO MANTIDA.
+I - O Agravo Regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O processo penal brasileiro se pauta pela regra da irrecorribilidade das decisões interlocutórias. Vale dizer, salvo os casos em que o Legislador expressamente prevê um recurso específico, são irrecorríveis as decisões não terminativas proferidas no curso do processo.
+III - No caso em tela, tem-se que a decisão então impugnada mediante recurso de Apelação, de fato, não encerra nenhum juízo meritório, com caráter definitivo, nem põe fim à relação processual ou a qualquer etapa do procedimento. Logo, sua natureza é de interlocutória simples, espécie que não se subsume à hipótese de interposição de Apelação prevista no art. 593, inciso II, do Código de Processo Penal.
+Agravo Regimental desprovido." (AgRg no REsp n. 1.947.677/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 28/9/2021, DJe de 6/10/2021.)
+"PROCESSO PENAL. CRIME DE CORRUPÇÃO PASSIVA E LAVAGEM DE DINHEIRO. AGRAVO REGIMENTAL DA DECISÃO QUE CONHECEU E NEGOU PROVIMENTO A RECURSO ESPECIAL. DECISÃO QUE NEGA PEDIDO DE DESAPENSAMENTO AUTOS DE BUSCA E APREENSÃO CAUTELAR. NATUREZA JURÍDICA. DECISÃO INTERLOCUTÓRIA SIMPLES.
+PRINCÍPIO DA IRRECORRIBIDADE. APELAÇÃO SUBSIDIÁRIA. ART. 593, II, DO CPP. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Diversamente do que ocorre com o processo de conhecimento, o qual, ressalvadas as ações de cognição sumária, não possui elementos de mérito previamente estabelecidos, o provimento cautelar, por força de sua própria natureza, tem como res in iudicium deducta a cautelaridade da medida jurisdicional pretendida,
+exprimidas no periculum in mora e no fumus boni iuris.
+III - No caso vertente, o exercício da jurisdição cautelar já havia se esvaído com a efetivação das buscas e apreensões, ultimadas por determinação do e. Supremo Tribunal Federal, à época em que o ora agravante detinha foro por prerrogativa de função perante a c. Excelsa Corte, nos termos do art. 102, inciso I, alínea "b", da Constituição Federal.
+IV - Malgrado tenha sido autuado como "Pedido de Busca e Apreensão Criminal", nada de cautelar existe no apensamento de documentação ao processo de conhecimento. Com efeito, a partir de sua vinculação aos autos principais, ainda que em apartado, o que se discute e, de fato, pretende o agravante, é valorar a pertinência dos documentos ao thema probandum, debate que toca ao mérito da própria imputação.
+V - O processo penal brasileiro se pauta pela regra da irrecorribilidade das decisões interlocutórias. Vale dizer, salvo os casos em que o Legislador expressamente prevê um recurso específico, são irrecorríveis as decisões não terminativas proferidas no curso do processo.
+VI - O decisum de primeiro grau, que negou seguimento ao Recurso de Apelação, esclareceu ser futuramente possível à parte interessada questionar a relevância da documentação acostada aos autos apartados ou a realização de prova técnica, o que poderá ser levado a cabo, ilustrativamente, em sede alegações finais ou mesmo como preliminar, em razões ou contrarrazões, de eventual apelo a ser interposto contra a sentença de mérito.
+VII - Portanto, tem-se que a decisão então impugnada mediante Recurso de Apelação, de fato, não encerra nenhum juízo meritório definitivo sobre a significância da documentação acostada, nem põe fim à relação processual ou a qualquer etapa do procedimento. Logo, sua natureza é de interlocutória simples, espécie que não se subsume às hipóteses de cabimento previstas no art. 593, inciso II, do Código de Processo Penal.
+Agravo regimental desprovido." (AgRg no REsp n. 1.830.499/PR, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 26/11/2019, DJe de 10/12/2019).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO. ART. 593, II DO CÓDIGO DE PROCESSO PENAL. APELAÇÃO CONTRA DECISÃO QUE DECRETOU A QUEBRA DE SIGILO DE DADOS. INADMISSIBILIDADE. NATUREZA INTERLOCUTÓRIA SIMPLES. OFENSA. ARTIGO 93, XI DA CONSTITUIÇÃO DA REPÚBLICA NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O ato judicial que autoriza a quebra de sigilo telemático, bancário ou fiscal, proferida no curso de investigação, equivale a decisão interlocutória simples, razão pela qual não pode ser impugnada por meio de apelação, sobretudo quando ainda não apreciado o mérito da ação penal.
+II - A autorização judicial de quebra de sigilo, em acolhimento à representação da autoridade policial, não extingue processo, não resolve um procedimento de forma definitiva e pode ser reexaminada no mesmo grau, desde que demonstrada a alteração das circunstâncias que autorizaram a medida. Por esta razão, não ostentam a característica de decisões com força de definitiva, para os fins do disposto no art. 593, II do Código de Processo Penal.
+III - Trata-se de medida de investigação determinada de forma específica e temporária, o que, inclusive justificou o Legislador Ordinário a estabelecer na Lei 9296/96, que regulamenta o inciso XII, parte final, do art. 5º da CF/88, que a decisão que autoriza interceptação telefônica, "não poderá exceder o prazo de quinze dias, renovável por igual tempo uma vez comprovada a indispensabilidade do meio de prova" (art. 5º).
+IV - In casu, a decisão que negou provimento ao recurso especial foi proferida de acordo com a orientação firmada no art. 93, IX da Constituição da República e com as normas processuais incidentes à espécie.
+Agravo regimental desprovido. (AgRg no REsp n. 1.718.330/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/6/2018, DJe de 15/6/2018).
+Importante ressaltar que o Tribunal de origem nada disse sobre as teses da defesa de recebimento da apelação como agravo de instrumento e revogação da medida cautelar de monitoramento eletrônico, impossibilitando essa Corte de apreciar as matérias, sob pena de indevida supressão de instância.
+Ademais, a concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando verificada a presença de flagrante ilegalidade devidamente prequestionada, não sendo cabível a sua invocação para contornar a inadmissão do recurso interposto. Nesse sentido: AgRg nos EDcl no AREsp n. 2.664.781/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024; AgRg no AREsp n. 2.599.296/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/3/2025, DJEN de 25/3/2025; AgRg no AREsp n. 2.657.640/SP, relator Ministro Otávio de Almeida Toledo (D esembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
