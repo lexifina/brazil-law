@@ -1,0 +1,9 @@
+DECISÃO
+Estando conclusos os autos para apreciação do agravo em recurso especial de fls. 686-698 (e-STJ), a parte agravante, Makro Atacadista S.A., protocolizou as Petições n. 1.003.205/2024 e 467.782/2025 (e-STJ, fls. 748-749 e 796), por intermédio das quais manifestou, expressa e inequivocamente, a renúncia à pretensão por ela deduzida nos embargos à execução fiscal que deram origem a este feito, requerendo, em vista disso, não só a extinção do processo, como também a exclusão de sua condenação ao pagamento de honorários de sucumbência, ou, ao menos, que o arbitramento dessa verba seja feito tomando-se em conta o valor do débito fiscal efetivamente pago na via administrativa.
+Instado a se manifestar, o Estado de Mato Grosso do Sul sustentou que, "nos termos do artigo 12, incisos I e II da Lei nº 6.288/2024, o pagamento dos honorários advocatícios é condição essencial para que a parte consiga a quitação do débito tributário" (e-STJ, fl. 805).
+Brevemente relatado, decido.
+Conforme a vontade expressamente manifestada pela parte embargante, homologo a renúncia à pretensão por ela deduzida nos embargos à execução fiscal de que tratam estes autos e, em consequência, julgo extinto o processo com resolução do mérito, nos termos do art. 487, III, "c", do CPC/2015.
+Na linha de sedimentada jurisprudência desta Corte Superior, ao receber este processo em devolução, caberá ao magistrado de primeiro grau solucionar, como entender de direito, a questão referente aos encargos de sucumbência relativos aos embargos à execução fiscal, especialmente se são devidos honorários advocatícios e custas e, em sendo esse o caso, qual a sua base de cálculo e quem deve arcar com essas verbas.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
+EMENTA
