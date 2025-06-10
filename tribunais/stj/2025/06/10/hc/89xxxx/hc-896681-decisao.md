@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAFAEL MICHEL BIBIANO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que negou provimento ao agravo em execução interposto, assim ementado:
+AGRAVO EM EXECUÇÃO  COMUTAÇÃO  DECRETO N.9.246/2017  PENA UNIFICADA  CRIME IMPEDITIVO  AUSÊNCIA DO REQUISITO OBJETIVO - RETIFICAÇÃO DO ATESTADO DE PENA - REINCIDÊNCIA ESPECIFICA - CRIMES EQUIPARADOS AOS HEDIONDOS - OCORRÊNCIA  1. A comutação expressa uma manifestação de clemência, veiculada por ato discricionário expedido pelo chefe do Poder Executivo da órbita Federal (artigo 84, inciso XII, da Constituição da República), com requisitos e extensão definidos no decreto expedido para esse fim.  2. As penas correspondentes a infrações diversas devem somar-se, para efeito do indulto e da comutação de penas, até 25 de dezembro do ano da expedição do decreto.  3. O Decreto n.º 9.246/2017 estabelece que, havendo concurso de crimes, a pena só será computada quando forem cumpridos 2/3 (dois terços) da pena referente ao delito impeditivo.  4.0 não atendimento aos requisitos objetivo e subjetivo estipulados no decreto torna inviável a comutação.  5. Após a entrada em vigor da Lei n.º 13.964/19, a adoção de fração mais severa, para fins de progressão de regime, passou a exigir expressamente a reincidência especifica em crime hediondo ou equiparado, nos termos do artigo 112 da Lei de Execução Penal (LEP).  6. Em se tratando de agente reincidente especifico na prática de crimes equiparados aos hediondos, é cabível a adoção do percentual de 60% (sessenta) por cento para fins de progressão de regime, consoante a previsão do artigo 112, inciso VII, da LEP.
+Em suas razões, sustenta a parte impetrante a ocorrência de constrangimento ilegal, uma vez que estão preenchidos os requisitos de indulto em relação às guias de execução sob os n. 0166541-79.2017.8.13.0231, 08504585920128130024 e 6820584-29.2009.8.13.0024, com fundamento no Decreto n.º 9.246/2017.
+Alega que o pedido foi indeferido pelo Juízo da Execução, tendo ingressado com agravo em execução, do qual foi negado provimento, sob o argumento de que até a publicação do Decreto, o paciente não teria cumprido 2/3 da pena referente ao crime impeditivo, requisito objetivo.
+Salienta que o total das penas referentes aos crimes não impeditivos (comuns) somam 11 (onze) anos e 4 (quatro) meses, pelo que teria que cumprir 1 (um) ano, 10 (dez) meses e 20 (vinte) dias (1/6).
+Aduz que até a publicação do decreto, o paciente havia cumprido 5 (cinco) anos e 2 (dois) dias e remido 106 (cento e seis) dias, totalizando 5 (cinco) anos, 3 (três) meses e 18 (dezoito) dias de pena cumprida, sendo 3 (três) anos e 4 (quatro) meses referente ao crime impeditivo e 1 (um) ano, 11 (onze) meses e 18 (dezoito) dias em relação aos crimes comuns.
+Sustenta que, na época do decreto, possuía apenas uma pena referente a crime impeditivo previsto no art. 33, da Lei 11.343/06, e não ostentava falta grave.
+Requer, em suma, a concessão do benefício de indulto. Ainda, postula em favor do impetrante a remição de 100 (cem) dias de pena, pelo trabalho prestado em favor da justiça.
+Foram requisitadas informações (e-STJ fl. 58).
+As informações foram prestadas (e-STJ fls. 61-136, 141-154 e 155-172).
+O Ministério Público Federal opinou pelo "pelo não conhecimento do writ" (e-STJ fls. 101-105).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.) Grifo próprio.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+Conforme consta da decisão do Tribunal de origem (e-STJ fls. 143-147):
+A comutação é uma manifestação de clemência, por ato discricionário do chefe do Poder Executivo da órbita Federal (artigo 84, inciso XII, da Constituição da República), com requisitos e extensão definidos no Decreto expedido para esse fim.
+Considere-se que, para o deferimento do beneficio, é necessário que o reeducando tenha cumprido, no caso do requisito objetivo, certo lapso temporal de pena, até a data estipulada pelo decreto. Em regra, o alcance da condição deve se dar até o dia 25 de dezembro do ano de expedição do decreto.
+Além disso, necessário para o preenchimento do requisito subjetivo, que o reeducando, segundo Renato Mareão, tenha "comportamento no ambiente prisional, primariedade, ausência de reincidência específica, personalidade não estruturada para o crime e etc." (M A RC A O, Renato. Curso de Execução Penal. 17 ed. São Paulo Saraiva. 2019, p. 413).
+No que se refere ao exame do pedido de indulto ou de comutação, o Juiz da execução deve se ater à análise objetiva do preenchimento dos requisitos previstos no decreto presidencial.
+Os decretos presidenciais devem ser interpretados de forma literal, não havendo margem de discricionariedade para o magistrado inovar (restritiva ou extensivamente) em relação às hipóteses legais previstas no decreto presidencial.
+No caso em exame, o agravante anseia a concessão do benefício em relação a 03 (três) de suas guias de execução, quais sejam guia n.º 0166541 - 79.2017.8.13.0231, guia n.º 6820584-29.2009.8.13.0024 e guia n.º 0850458-59.2012.8 13.0024.
+Razão não assiste ao agravante, contudo.
+Com efeito, em 25 de dezembro de 2017, o reeducando não havia cumprido o requisito objetivo exigido para a obtenção da comutação, ou seja, 2/3 (dois terços) da pena referente ao crime impeditivo, nos termos do artigo 3º, inciso II, e artigo 12, parágrafo único, do Decreto n.º 9.246/17.
+Efetivamente, o reeducando também cumpre pena pela prática do crime previsto no artigo 33 "caput", da Lei n.º 11.343/06.
+Portanto, o reeducando ostenta em seu atestado de pena crime impeditivo, nos termos do artigo 3º, inciso II, do Decreto n.º 9.246/17. Confira-se, nesse sentido, o enunciado normativo em referência:
+Art. 3º O indulto natalino ou a comutação de pena não será concedido às pessoas condenadas por crime:
+(..)
+II - tipificado nos art. 33, caput, e § 1º, art. 34, art. 36 e art. 37 da Lei nº 11.343, de 2006, exceto na hipótese prevista no art. 1º, caput, inciso IV, deste Decreto;
+Em se tratando de agente condenado por infrações diversas, as penas devem somar-se, para efeito do indulto ou da comutação, nos moldes do artigo 111 da Lei de Execução Penal. E havendo concurso com delitos considerados impeditivos, não á comutada a pena enquanto a pessoa condenada não cumpre 2/3 (dois terços) da pena correspondente ao crime impeditivo.
+É o que estabelece o artigo 12, parágrafo único, do Decreto que rege a matéria:
+Art. 12. As penas correspondentes a infrações diversas serão unificadas ou somadas para efeito da declaração do indulto natalino ou da comutação, na forma do art. 111 da Lei nº 7.210, de 1984.
+Parágrafo único. Na hipótese de haver concurso com infração descrita no art. 3º, não será concedido o indulto natalino ou comutada a pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+Considere-se, a propósito, que a aplicação da regra contida no artigo 12, parágrafo único, do Decreto n.º 9.246/17 não exige que o concurso entre o crime impeditivo e os demais crimes tenha sido reconhecido na mesma ação penal.
+Com efeito, não há distinção entre o concurso de crime reconhecido em um a única guia e aquele que decorre da unificação das penas, nos moldes do artigo 111 da Lei de Execução Penal. Ao proceder à unificação das penas, caberá ao Juizo da execução efetuar a soma ou a exasperação das reprimendas impostas ao reeducando, a depender da espécie de concurso de crimes.
+Importa destacar que a aplicação da regra contida no artigo 69 do Código Penal (concurso material) não exige que os delitos guardem alguma relação entre si. Basta que o agente tenha, mediante mais de uma ação ou omissão, praticado dois ou mais delitos.
+Assim, ao se somar a pena imposta pela prática do crime impeditivo com as penas relativas aos demais delitos, tem-se a aplicação exatamente da regra própria do concurso material.
+A disposição trazida pelo parágrafo único do artigo 12 do Decreto n.º 9.246/17 deve ser analisada em conjunto com o "caput" do referido dispositivo, o qual dispõe que "as penas correspondentes a infrações diversas serão unificadas ou somadas para efeito da declaração do indulto natalino ou da comutação, na forma do art. 111 da Lei n.º 7.210, de 1984".
+Fica evidenciado, desse modo, que a expressão "na hipótese de haver concurso com infração descrita no art. 3º" compreende, também, a unificação das penas impostas ao reeducando em processos distintos. A sua incidência, portanto, não se limita apenas aos casos em que o agente suportar mais de uma condenação em um mesmo processo.
+No caso em exame, a pena aplicada ao crime impeditivo corresponde a 05 (cinco) anos. Considere-se que os 2/3 (dois) terços exigidos pelo artigo 12, parágrafo único, do Decreto, correspondem a 03 (três) anos e 04 (quatro) meses, que deveriam ter sido cumpridos até 25 de dezembro de 2017.
+À vista da aba "Linha do Tempo Detalhada", constante do Sistema Eletrônico de Execução Unificado (SEEU), infere-se que até a referida data o reeducando não havia cumprido mais de 2/3 (dois terços) relativamente ao crime equiparado a hediondo.
+ ..
+Nesse quadro, portanto, o reeducando não atende aos requisitos previstos no Decreto n.º 9.246/17, de modo que não faz jus à comutação das penas postulada."
+Com efeito, deve ser ressaltado que "a concessão de indulto ou comutação da pena é ato de indulgência do Presidente da República, condicionado ao cumprimento, pelo apenado, das exigências taxativas previstas no decreto de regência" (AgRg no HC n. 714.744/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+Portanto, o entendimento do Tribunal de origem está em conformidade com o entendimento desta Corte Superior, que não permite a concessão de indulto ao condenado por crime impeditivo enquanto não cumprida a fração mínima correspondente, como no caso.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. DECRETO N. 8.615/2015 . COMUTAÇÃO DA PENA. CONCURSO DE CRIMES COMUM E HEDIONDO. POSSIBILIDADE, DESDE QUE CUMPRIDOS 2/3 DA PENA RELATIVA AO CRIME IMPEDITIVO, MAIS 1/4 DA PENA RELATIVA AO CRIME COMUM. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e este Superior Tribunal de Justiça, por sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, aos condenados por crimes comuns praticados em concurso com crime hediondo, é possível a concessão do indulto ou comutação quanto à pena relativa ao crime não hediondo, desde que o apenado tenha cumprido 2/3 da pena referente ao delito hediondo e ainda a fração da reprimenda relativa ao crime comum exigida pelo respectivo Decreto Presidencial.
+3. Portanto, no cálculo da pena para fins da concessão da comutação, considera-se distintamente a contagem dos 2/3 da pena pelo crime hediondo e a contagem do quarto da pena pelo crime comum, sem a soma das penas cumpridas, como pretendia - in casu - a defesa, não havendo, desta forma, constrangimento ilegal a justificar a concessão da ordem de ofício.
+4. Habeas corpus não conhecido. (HC n. 400.739/SP, DE MINHA RELATORIA, Quinta Turma, julgado em 7/12/2017, DJe de 13/12/2017.)
+Eventual alteração do entendimento das instâncias ordinárias exigiria o revolvimento fático-probatório dos autos, o que é vedado nesta via estreita de habeas corpus .
+Por fim, destaca-se que o pedido de remição de 100 (cem) dias de pena ao impetrante, pelo trabalho prestado em favor da justiça, deve ser direcionado ao Juízo da Execução.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
