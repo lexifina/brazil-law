@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo em recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+3. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça daquele Estado, cuja ementa é a seguinte (e-STJ fl. 98):
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO EM FACE DA DECISÃO QUE REVOGOU PRISÃO PREVENTIVA. ALEGATIVA DE QUE PERMANECEM PRESENTES OS REQUISITOS DA PRISÃO PREVENTIVA INSCULPIDOS NOS ARTIGOS 312 E 313,III, DO CPP, E QUE A COMPLEXIDADE DO CASO E A PLURALIDADE DOS RÉUS JUSTIFICAM O LAPSO TEMPORAL DO TRÂMITE PROCESSUAL. 1) Muito embora seja um processo complexo, com 16 (dezesseis) réus, onde havia réu foragido e que houve a necessidade de expedição de carta precatória e de citação editalícia, o que faz flexibilizar a configuração de excesso de prazo, não se pode olvidar que apenas em outubro será realizada audiência de continuação, não se sabendo se será finalizada nesta data ou se terá a necessidade de mais uma de continuação, esta não possuindo, ainda, qualquer garantia de realização, não podendo o Recorrido ficar ao arbítrio do Estado- juiz, apenas na mera expectativa de ver sua ação penal receber um andamento razoável, enquanto sofria total privação de sua liberdade desde 4 de agosto de 2022. 2) Por esse motivo, ressalta-se a necessidade de manutenção da decisão objeto deste recurso, posto que patente a ocorrência do excesso de prazo injustificado, situação que imprime constrangimento ilegal ao Réu, por conferir violação ao princípio da razoável duração do processo, disposto no art. 5º, inciso LXXVIII, da Constituição Federal de 1988, uma vez que a dilação daqueles prazos processuais não ocorreu por culpa da defesa ou do Denunciado. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 115/125), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 312 do CPP, ao argumento de que "o recorrido tinha papel de destaque em um grupo que praticou uma infinidade de fraudes bancárias, mas teve a prisão relaxada em virtude de uma mora que decorre diretamente da dificuldade de localizar os seus comparsas, tendo a Relatora relaxado a prisão, em razão de inexistir certeza sobre a finalização da instrução em outubro de 2024. Tais fatos demonstram que o recorrido será beneficiado pela recalcitrância dos seus comparsas, que lograram êxito no intento de evitar a citação" (e-STJ, fls. 122/123).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+3. Agravo não conhecido.
+VOTO
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula 7 (e-STJ, fls. 132/135)
+Não obstante, nas razões do agravo (e-STJ, fls. 143/150), a parte agravante não apresentou impugnação específica ao referido fundamento, limitando-se a tecer considerações genéricas sobre a não incidência do referido enunciado e a reiterar as razões do recurso especial.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "a mera alusão no agravo em recurso especial acerca da impertinência dos pressupostos de aplicação de verbete sumular constante na decisão agravada não satisfaz o requisito da dialeticidade, pois nesse caso há mera reprodução da conclusão defendida, com o uso de argumentação evidentemente circular, redundando em tautologia" (AgInt no AREsp n. 2.185.448/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Assim, "Em obediência ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demanda reexame de provas e corrobora a orientação jurisprudencial desta Corte, não bastando para tanto a insurgência genérica à incidência das Súmula 7 e 83 do STJ" (AgRg no AREsp n. 2.022.553/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+É o voto.
