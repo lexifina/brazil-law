@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Fundação Estadual do Meio Ambiente contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 515):
+REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - MULTA POR INFRAÇÃO AMBIENTAL - DECURSO DO LUSTRO DECADENCIAL - CONFIGURAÇÃO - DESCUMPRIMENTO DE CONDICIONANTE EM PERÍODO POSTERIOR AO ENCERRAMENTO DAS ATIVIDADES - IMPOSSIBILIDADE DE APLICAÇÃO DAS SANÇÕES - MANUTENÇÃO DA SENTENÇA.
+- Nos termos do art. 917 do CPC, nos embargos à execução, o executado poderá alegar I - inexequibilidade do título ou inexigibilidade da obrigação; VI - qualquer matéria que lhe seria lícito deduzir como defesa em processo de conhecimento. - Por força do princípio da inafastabilidade da jurisdição, cabe ao Poder Judiciário a análise de legalidade da cominação de multas administrativas por descumprimento da legislação ambiental.
+- Conforme dicção dos arts. 59 e 83, I, Código 105 do Decreto Estadual nº 44.844/08, aplica-se multa simples diante da prática da infração grave consistente no descumprimento de condicionantes aprovadas na Licença de Operação ou cumpri-las fora do prazo fixado como infração. - Os atos administrativos contam com presunção relativa de veracidade, cabendo ao jurisdicionado fazer prova negativa dos fatos narrados em autuação administrativa, a teor do inciso I do art. 373 do CPC.
+- A considerar a demonstração do decurso do lustro decadencial para a cominação da multa ambiental, bem como da impossibilidade de sanção por descumprimento em período posterior ao encerramento das atividades da empresa, de rigor a manutenção da sentença que acolheu os embargos à execução.
+Opostos embargos declaratórios, foram rejeitados (fls. 544/549).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, II e § 1º, IV e 1.022, II, do CPC, ao argumento de que o acórdão integrativo deixou de apreciar os argumentos expostos nos embargos declaratórios, especialmente no tocante ao fato de que são devidos os relatórios relacionados a período anterior ao da data de paralisação informada pela autuada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que (fls. 530/531):
+Eventualmente, ainda que se reconheça que a paralisação das atividades informada por pessoa desvinculada ao empreendimento, é de ver-se que a paralisação informada se daria a partir de 30/11/2011, ou seja, restariam relatórios da condicionante 04 a serem apresentados até a referida data e que não foram apresentados.
+A sentença recorrida não levou em consideração tal nuance, de que, mesmo se considerada a comunicação de encerramento de forma não formal, até a data da comunicação informal, permaneceria a obrigação de apresentar os relatórios.
+Nessa hipótese, em relação aos efluentes líquidos ainda restariam a ser apresentados os relatórios referentes aos trimestres (04/04/2011 a 04/06/2011, 04/07/2011 a 04/09/2011 e 04/10/2011 a 30/11/2011 (data informada do encerramento).
+Em relação aos resíduos sólidos restaria a ser apresentado o relatório referente aos meses remanescentes de setembro, outubro e novembro de 2011, já que o último relatório foi apresentado em 11/08/2011.
+Por fim, em relação ao efluente atmosférico restaria a ser apresentado o relatório remanescente de 11/01/2011 a 30/11/2011.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
