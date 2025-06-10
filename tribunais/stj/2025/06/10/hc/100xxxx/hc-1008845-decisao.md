@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IASMIM TEREZA GIEQUELIN em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que a paciente foi presa em flagrante em 10/5/2025, custódia convertida em preventiva, pela suposta prática da conduta descrita no art. 33 da Lei n. 11.343/2006.
+O impetrante sustenta que a decisão de primeiro grau fundamentou a prisão preventiva na quantidade e variedade de drogas apreendidas, bem como na logística do tráfico interestadual, sem demonstrar risco concreto à ordem pública ou à instrução processual.
+Afirma que a paciente é primária, possui bons antecedentes, tem apenas 18 anos de idade, além de ter confessado a prática delituosa, sendo suficiente a imposição de medidas cautelares diversas.
+Destaca que a concessão de medida liminar é necessária e urgente, considerando a jurisprudência do Superior Tribunal de Justiça, que entende ser inválida a prisão preventiva fundada exclusivamente na gravidade abstrata do delito e na quantidade de droga apreendida, sem a indicação de elementos concretos que demonstrem a necessidade da custódia cautelar.
+Pondera que a manutenção da custódia da paciente, sem base concreta, afronta os princípios da presunção de inocência e da excepcionalidade da prisão preventiva.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a substituição por medidas cautelares alternativas.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar foi assim fundamentada (fls. 21-23, grifei):
+A prisão em flagrante merece ser convertida em preventiva quando, presentes a prova de materialidade e indícios suficientes de autoria, for necessária para a garantia da ordem pública, da ordem econômica, a aplicação da lei penal ou conveniência da instrução criminal (art. 312 do Código de Processo Penal).
+Aqui se trata de crime doloso punido com pena privativa de liberdade maior que quatro anos (art. 33, Lei n. 11.343/06 c/c art. 313, I, do CPP).
+No tocante à materialidade do delito, está comprovada pelo Boletim de Ocorrência e auto de exibição e apreensão e laudo de constatação provisório (ev. 1.1)
+Por sua vez, presentes indícios suficientes de autoria.
+ ..
+Ora, a conduzida foi abordada possuindo consigo 4,100g de maconha, 1,350g de haxixe e um celular. A autoria, por sua vez, decorre do depoimento do policial militar Leandro Bazzo, que com o auxílio de cão farejador, foram encontrados 1.350g de haxixe e 4.100g de maconha do tipo skank em uma bagagem identificada com ticket de poltrona pertencente a IASMIM TEREZA GIEQUELIN, que também portava o respectivo bilhete de passagem.
+Ao ser indagada, IASMIM confessou a posse da droga, relatando que saiu de Joaçaba/SC, foi até Foz do Iguaçu/PR, onde encontrou um indivíduo identificado como Felipe  que conheceu por redes sociais  e aceitou transportar a droga até Chapecó/SC mediante pagamento de R$ 4.000,00 dos quais R$ 1.200,00 teriam sido pagos antecipadamente. Admitiu, ainda, que deixaria o entorpecente em local previamente combinado e retornaria via aplicativo de transporte.
+ ..
+Veja-se, dos elementos constantes no APF, infere-se que a conduzida apanhou a droga em Foz do Iguaçu/PR e levaria até Chapecó/SC, sendo que receberia R$ 4.000,00 pelo transporte.
+Sabe-se que as drogas apreendidas (skank e haxixe), cujo fracionamento atingiria incontáveis usuários, são mais fortes que a maconha.
+ ..
+Sendo assim, fica inviabilizada a substituição da prisão preventiva pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, conforme requerido pela defesa, pois entendo que, por ora, nenhuma delas seria suficiente para resguardar a incolumidade pública.
+Do exposto, em acolhimento à representação ministerial, converto a prisão em flagrante em preventiva, devendo a conduzida permanecer segregada no estabelecimento prisional adequado, consoante art. 310, II, do CPP. Comunique-se o local de segregação a este juízo, ao Ministério Público e à família do preso ou quem ele indicar, consoante art. 306 do CPP.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade da conduta delituosa, evidenciada pela apreensão, por ocasião da prisão em flagrante, de 4,1 kg de skunk (variação mais potente da maconha) e 1,35 kg de haxixe (derivado concentrado da mesma substância).
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifei.)
+Ademais, infere-se dos autos a indicação de que o tráfico possuía caráter interestadual, o que agrava sobremaneira a reprovabilidade da conduta e justifica a segregação cautelar.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERESTADUAL DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente e concreta para determinar a prisão preventiva do réu, ao salientar a expressiva quantidade de droga apreendida (20,250kg de maconha), que estava sendo transportada para outro estado da Federação.
+3. A jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.
+(AgRg no HC n. 824.773/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023, grifei.)
+Além disso , ressalto que eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
