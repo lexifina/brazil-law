@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por ANTÔNIO BRUNETTA, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, que confirmou a sentença de parcial procedência dos pedidos da ação de indenização por perdas e danos e pensionamento mensal decorrente de acidente de trânsito que resultou na morte da genitora dos ora agravados.
+Nas razões do recurso especial, aponta violação dos arts. 105 e 106 do CPC/73 e divergência jurisprudencial. Alega nulidade da sentença, ao argumento de que o acórdão não acolheu a preliminar de prevenção por conexão, pugnando pela remessa dos autos ao Juízo prevento. Alternativamente, requer a redução do valor fixado a título de danos morais, além de exorbitância do montante arbitrado.
+Foram apresentadas contrarrazões às fls. 1120-1129.
+O referido recurso não foi admitido na origem. Daí porque foi interposto o presente agravo. Os autos ascenderam a esta Corte Superior.
+Ao analisar o recurso, esta Relatoria não conheceu do recurso especial, ante a incidência das Súmulas 283 e 284 do STF, fls. 1164-1169.
+Esta decisão fora publicada em 03 de abril de 2023, conforme certidão fl. 1170.
+Após o decurso do prazo recursal, em 28/04/2023, sob o protocolo 00385648/2023, FÁBIO ROTTER MEDA informa o falecimento do agravante Antonio Brunetta e junta a certidão do óbito ocorrido em 25/10/2018 (quase cinco anos antes da comunicação nos autos).
+A COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PRIVADO certifica "que não foi localizado nos presentes autos procuração ou substabelecimento outorgando poderes ao advogado FABIO ROTTER MEDA, OAB/PR 25630, signatário da petição nº 385648/2023, cujo nome foi incluído na autuação somente para fins de intimação", fl. 1176.
+À fl. 1178, esta Relatoria determinou a suspensão do feito, nos termos do art. 313, I, §2º, I, do CPC, e a intimação da parte autora da demanda, ora agravada, para promover a regularização processual. A parte autora - ora agravada - informou os nomes e os endereços para intimação dos herdeiros do recorrente, fls. 1182-1185.
+Novamente, esta Relatoria determinou a suspensão do processo, pelo prazo de 60 (sessenta) dias, nos termos dos arts. 313, I, §1º e §2º, do CPC/2015, bem como a intimação do espólio, na pessoa de seu representante legal, ou de seus sucessores para que tomem as providências necessárias à substituição processual e à habilitação, conforme estabelecido no art. 110 do Código de Processo Civil, fl. 1188. Revelando-se infrutíferas as intimações.
+Mais uma vez, fora determinada a a suspensão do processo, pelo prazo de 70 dias, e, ainda, a intimação da parte autora para que, no prazo de suspensão, providencie a sucessão da parte pelo seu espólio ou pelos seus sucessores. A parte se manifestou às fls. 1293-1294, indicando a viúva do agravante - a senhora Aparecida Perri Brunetta - como inventariante.
+Feitas as comunicações, a SECRETARIA DE PROCESSAMENTO DE FEITOS do STJ, às fls. 1212, 1252 e 1296, certifica que foram devolvidos pelos CORREIOS os Ofícios ns. 011195/2023-CPPR, 0136552023CPPR e 0053872024CPPR, remetidos à viúva inventariante "pelo seguinte motivo: Cliente Recusou-se a Receber".
+A COORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PRIVADO certifica o recebimento da intimação pelo sucessor Egmar Ivo Francisco Perri Brunetta, fls. 1312-1314.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório.
+Neste contexto, revela-se de rigor reconhecer o trânsito em julgado da decisão de não conhecimento do recurso especial, às fls. 1164-1169, considerando o julgamento monocrático do recurso, a completa fluição do prazo recursal e a ausência de qualquer interposição de insurgência recursal, antes da informação do óbito do recorrente, nos autos.
+Quanto ao petitório às fls. 1173-1175, não há nada a deferir, posto que apresentado após o trânsito em julgado do decisum e o exaurimento da prestação jurisdicional deste Superior Tribunal de Justiça, na hipótese, além de ter sido protocolado por pessoa não participante do cenário deste processo, não figurando como parte ou advogado constituído por qualquer uma das partes, conforme certificado pela Coordenadoria de Direito Privado do STJ. Assim, não se conhece da petição.
+No tocante à regularização do polo recorrente, determino à Coordenadoria competente a modificação da identificação da parte agravante como ANTÔNIO BRUNETTA - ESPÓLIO, para fins de publicação.
+Ante o exposto, nada a deferir, ainda, determino a certificação do trânsito em julgado da decisão de fls. 1164-1169.
+Após as anotações de praxe, remetam-se os autos ao d. Juízo de origem.
+Publique-se.
+EMENTA
