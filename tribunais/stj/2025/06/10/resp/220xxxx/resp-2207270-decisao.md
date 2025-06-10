@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto por CRISTINE CALTABIANO NEVES e OUTROS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO INCORPORAÇÃO DE QUINTOS OU DÉCIMOS ENTRE 02/04/1998 E 04/09/2001. EXERCÍCIO DE FUNÇÕES GRATIFICADAS OU COMISSIONADAS. LEI 9.624/1998. MP 2.225-45/2001. IMPOSSIBILIDADE. RE 638.115/CE. REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. VALORES RECEBIDOS DE BOA FÉ SÃO IRREPETÍVEIS.
+1. Não é devida a incorporação de "quintos" decorrente dos exercícios de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 (02/04/1998) e a MP 2.225-48/2001 (04/09/2001) (RE 638.511/CE, Repercussão Geral, Relator o Ministro GILMAR MENDES, j. em 20/03/2015). Precedentes desta Corte.
+2. O STF modulou os efeitos da decisão para obstar a repetição de indébito dos servidores que receberam de boa-fé os quintos pagos até 20/03/2015 e declarou a cessação da ultra-atividade das incorporações em qualquer hipótese.
+3. Tendo a Suprema Corte decidido que a concessão de quintos viola o princípio da legalidade, há de se reconhecer que eventual reconhecimento administrativo do direito da parte autora é nulo.
+4. Apelação da ré e remessa oficial providas para reformar a sentença e julgar improcedente o pedido da parte autora, sendo, porém, irrepetíveis as parcelas recebidas a título de "quintos" até 20/03/2015, prejudicado o recurso da parte autora (fl. 287).
+Os embargos de declaração foram rejeitados (fls. 295-299).
+Nas razões recursais, os recorrentes sustentam, em síntese, violação aos arts. 1.022, 141 e 492, do Código de Processo Civil, porquanto o acórdão não examinou o pedido relativo à fórmula de pagamento e a base de cálculo da incorporação de quintos, pelo exercício de função comissionada anterior a 1997.
+Contrarrazões apresentadas (fls. 315-323).
+É o relatório.
+Passo a decidir.
+Assiste razão aos recorrentes quanto à alegada violação ao art. 1.022 do CPC/2015.
+Um dos pedidos formulados, na petição inicial, pelos autores, foi " ..  o pagamento dos quintos já incorporados, anteriores a edição da Lei nº 9.624/98  .. " (fl. 14 - grifo nosso). A sentença examinou e deferiu esse pedido expressamente (fls. 217-218), porém, o Tribunal de origem analisou apenas a incorporação dos quintos " ..  entre 02/04/1998 (edição da Lei 9.624/1998) e 04/09/2001 (edição da MP 2.225-45/2001)" (fl. 282).
+A análise desse pedido foi requerida nos embargos de declaração de fls. 291-293, porém, esse recurso foi rejeitado sem menção específica à argumentação dos recorrentes, consignando o acórdão, tão somente, que:
+Na hipótese dos autos, verifico que as alegações da parte autora, ora embargante, apontam tão somente para a insatisfação com o deslinde da causa e que o seu acolhimento importaria em ultrapassar o limite de cognição dos embargos de declaração. A pretensão de reexame e alteração substancial do mérito do julgado, veiculada nestes embargos, deve ser manifestada em recurso próprio (fl. 296).
+Nesse contexto, diante de clara omissão, tenho por violado o art. 1.022 do CPC, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA QUANTO AO TEMPO DE TRABALHO ESPECIAL. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, COM RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo não se manifestou sobre o ponto principal dos embargos de declaração, qual seja, a alusão genérica a presença de agentes nocivos à saúde na atividade laboral, sem considerar os limites de tolerância e a habitualidade, não ser suficiente para o reconhecimento para o tempo de trabalho especial, não foi objeto de específica análise pela Corte de origem, seja no julgamento do recurso de apelação, seja no julgamento do recurso integrativo.
+2. Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrente nos embargos de declaração, ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC/2015.
+3. Agravo interno desprovido (AgInt no REsp n. 2.094.545/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. CONFIGURAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA REAPRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE. RECURSO ACOLHIDO COM EFEITOS MODIFICATIVOS PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Conforme entendimento do Superior Tribunal de Justiça, presente vício de omissão, contradição ou obscuridade, e apontada a violação do art. 1.022 do Código de Processo Civil (CPC) no recurso especial, deve ser anulado o acórdão proferido em embargos de declaração, retornando-se os autos à origem para nova apreciação do recurso.
+2. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento ao recurso especial (EDcl no AgInt no AREsp n. 2.452.079/AM, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre a questão articulada nos declaratórios.
+Intimem-se.
+EMENTA
