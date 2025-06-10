@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por Rita de Cássia de Almeida, com fundamento na ausência de prequestionamento (Súmula 211/STJ) e na aplicação da Súmula 283/STF.
+Sustenta a agravante, em síntese, violação aos arts. 489, § 1º, VI, 1.022, II, e parágrafo único, II, do CPC e 406 do Código Civil, alegando omissão na apreciação da aplicação exclusiva da Taxa SELIC como índice para juros moratórios e correção monetária.
+Contraminuta apresentada nas fls. 362-364.
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre esclarecer que o Tribunal de origem aplicou como óbice ao recurso especial a Súmula 211/STJ, sustentando ausência de prequestionamento do art. 406 do Código Civil. Todavia, verifica-se do exame dos autos, especialmente dos embargos de declaração opostos pela agravante, que houve efetiva provocação ao Tribunal de origem para enfrentar especificamente a tese relacionada à aplicação da Taxa SELIC prevista no art. 406 do CC. Contudo, a decisão local limitou-se a rejeitar os embargos declaratórios afirmando ausência de vícios, sem analisar concretamente a questão invocada.
+Com efeito, esta Corte Superior já assentou o entendimento de que constitui violação ao art. 1.022 do CPC a decisão que, mesmo após provocação por embargos declaratórios, permanece silente sobre ponto central à resolução da controvérsia, ensejando negativa de prestação jurisdicional:
+Constatada a violação do disposto no art. 1.022 do CPC/2015, diante da ausência de manifestação do Tribunal estadual sobre tema indispensável ao deslinde da controvérsia, deve-se anular o acórdão recorrido para que sejam novamente julgados os embargos de declaração opostos. (STJ, EDcl no AgInt no AREsp n. 1.530.928/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/06/2020, DJe 01/07/2020).
+Na espécie, é inequívoco que a Corte local não examinou adequadamente a questão jurídica central relacionada à incidência da Taxa SELIC, em consonância com o art. 406 do CC, limitando-se a confirmar genericamente a sentença que fixou juros de mora em 1% ao mês cumulados com correção monetária pelo INPC. Tal omissão impossibilita o exame completo da controvérsia posta nos autos.
+Portanto, constatada a violação ao art. 1.022 do CPC, fica prejudicada a análise dos demais fundamentos da decisão de inadmissibilidade, uma vez que o suprimento da omissão eventualmente permitirá o prequestionamento necessário da tese jurídica.
+Isso posto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, anulando o acórdão recorrido proferido em embargos declaratórios e determinando o retorno dos autos ao Tribunal de origem para que seja proferida nova decisão com análise expressa e fundamentada sobre a aplicação ou não do art. 406 do Código Civil, nos termos fundamentação.
+Intimem-se.
+EMENTA
