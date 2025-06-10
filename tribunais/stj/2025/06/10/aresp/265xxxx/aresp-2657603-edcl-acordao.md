@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ALEGADA NULIDADE DA BUSCA PESSOAL/VEICULAR. TESE ENFRENTADA NA CORTE DE ORIGEM. LEGALIDADE DA MEDIDA. INVESTIGAÇÃO ANTERIOR REALIZADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Examinado o tema objeto do recurso especial pela Corte de origem, preenchido está o requisito do prequestionamento da matéria, devendo, pois, ser acolhido o recurso de embargos de declaração oposto pela defesa.
+2. No mérito, a circunstância retratada nos autos (investigação preliminar dos agentes policiais) autoriza a busca pessoal/veicular, porquanto presentes elementos que revelam a devida justa causa, motivo pelo qual a prova deve ser considerada legal.
+3. Embargos de declaração acolhidos , sem efeitos modificativos, para suprir a omissão e declarar a legalidade da busca pessol/veicular realizada pela polícia.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JAQUES MASCARENHAS ALMEIDA contra acórdão da 5ª Turma deste Superior Tribunal de Justiça assim ementado (e-STJ fls. 471):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO NO RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ALEGADANULIDADE DA BUSCA PESSOAL/VEICULAR. TESES NÃO PREQUESTIONADA NA CORTE DE ORIGEM. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verifica-se que a violação aos artigos 240 e 244 do CPP (nulidade da busca pessoa/veicular), da forma como apresentada pela defesa, não foi objeto de debate pela Corte de origem no julgamento da apelaçãocriminal, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 282/STF e 211/STJ.
+2. Por outro lado, o exame da matéria, objeto do recurso especial, pelo Juízo de primeiro grau não inaugura a competência deste SuperiorTribunal de Justiça para a apreciação da questão, devendo o tema ser, primeiramente, apreciado pela Corte de origem, sob pena de indevidasupressão de instância.
+3. Agravo regimental a que se nega provimento.
+Nos aclaratórios, sustenta a defesa que a tese de ilegalidade da busca pessoal/veicular foi examinada pela Corte de origem (e-STJ fl. 342).
+Requer, assim, sejam acolhidos os embargos a fim de se examinar o tema, reconhecendo-se a ilicitude da busca realizada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ALEGADA NULIDADE DA BUSCA PESSOAL/VEICULAR. TESE ENFRENTADA NA CORTE DE ORIGEM. LEGALIDADE DA MEDIDA. INVESTIGAÇÃO ANTERIOR REALIZADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Examinado o tema objeto do recurso especial pela Corte de origem, preenchido está o requisito do prequestionamento da matéria, devendo, pois, ser acolhido o recurso de embargos de declaração oposto pela defesa.
+2. No mérito, a circunstância retratada nos autos (investigação preliminar dos agentes policiais) autoriza a busca pessoal/veicular, porquanto presentes elementos que revelam a devida justa causa, motivo pelo qual a prova deve ser considerada legal.
+3. Embargos de declaração acolhidos , sem efeitos modificativos, para suprir a omissão e declarar a legalidade da busca pessol/veicular realizada pela polícia.
+VOTO
+De fato, o tema apresentado no presente recurso - ilegalidade da busca pessoal/veicular - foi examinado na Corte de origem no julgamento da apelação.
+Acolho, portanto, os presentes embargos e passo ao exame da controvérsia.
+Quanto ao mérito recursal, ao contrário do sustentado pela parte agravante, deve ser mantida a legalidade da prova do delito de descaminho, uma vez que o mandado de busca e apreensão é desnecessário quando se há fundadas razões de flagrante delito por crime permanente, como no presente caso.
+Como é de conhecimento, a busca pessoal é regida pelo art. 244 do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+Nessa linha de intelecção, esta Corte Superior firmou recente jurisprudência no sentido de que "Não satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+Na hipótese dos autos, consta do acórdão que "Tais inconsistências, potencializam a versão dos policiais, os quais, diga-se, realizaram campanas/acompanhamentos por dias, visando elucidar o modus operandi do agente. E havia, por conta disso, a fundada suspeita que autorizava a abordagem e a busca." (e-STJ fl. 342).
+Nesse panorama, a circunstância retratada (investigação preliminar dos agentes policiais) autoriza a busca pessoal/veicular, porquanto presentes elementos que revelam a devida justa causa, motivo pelo qual a prova deve ser considerada legal.
+Tem-se manifesta, dessa forma, a existência de fundadas razões para a abordagem do ora embargante, uma vez que os policiais estavam realizando prévias diligências, verificando as informações obtidas por meio de informações especificadas acerca da prática delitiva, contexto que revela dados concretos, objetivos e idôneos aptos a legitimar as diligências. Desse modo, a busca pessoal/veicular traduziu exercício regular da atividade investigativa promovida pela autoridade policial.
+Não se vislumbra, portanto, qualquer ilegalidade na atuação dos policiais, "amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso". (AgRg no HC n. 832.832/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+De fato, nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+Portanto, diante da regularidade da busca pessoal/veicular realizada, não há falar em nulidade.
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos, para suprir a omissão e declarar a legalidade da busca pessoal/veicular realizada pela polícia.
+É como voto.
