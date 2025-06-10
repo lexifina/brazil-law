@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por NORMATEL ENGENHARIA LTDA. contra decisão monocrática de minha relatoria, que não conheceu do agravo em recurso especial (fls. 1021-1025).
+Nas razões do agravo interno, a parte recorrente sustenta que houve efetiva e específica impugnação à aplicação da Súmula n. 7 do STJ, tanto no recurso especial quanto no agravo interposto, o que afastaria o referido óbice. Alega, ainda, que o recurso especial não demanda reexame do conjunto fático-probatório, mas se limita a apontar omissão não suprida pelo acórdão estadual, relativa à análise de documentos essenciais ao deslinde da controvérsia, especialmente a cláusula contratual que determinava a presença de estrutura administrativa no local da prestação dos serviços e a declaração emitida pela contratante (Petrobrás), que confirmaria a existência de unidade profissional no Município do Rio de Janeiro. Tais elementos, segundo a recorrente, foram expressamente indicados nos embargos de declaração e, mesmo assim, não receberam qualquer manifestação por parte do Tribunal de origem, configurando, assim, erro de premissa fática e violação ao dever constitucional de prestação jurisdicional adequada e integral, nos termos do art. 1.022 do CPC/2015 (fls. 1033-1037).
+Contraminuta ao agravo interno apresentada (fls. 1044-1055).
+É o relatório.
+Decido.
+Após atenta análise das razões deduzidas no agravo interno, verifico ser o caso de exercer o juízo de retratação previsto no art. arts. 1.021, § 2º, do Código de Processo Civil e 259 do Regimento Interno do Superior Tribunal de Justiça.
+Feita uma atenta leitura dos auto s, especialmente do acórdão recorrido e do recurso especial, entendo que o tema merece análise mais aprofundada. Com efeito, diante das peculiaridades do caso concreto, verifica-se que o tema merece melhor análise.
+Ante o exposto, com fulcro nos arts. 1.021, § 2º, do CPC, c/c 259 e 253, parágrafo único, II, "d", do RISTJ, conheço do agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fls. 1021 - 1025, por conseguinte, conheço do Agravo em Recurso Especial para determinar a sua atuação como Recurso Especial.
+Proceda-se à devida reautuação e, após, voltem os autos conclusos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ARTS. 1.021, § 2º, DO CPC/2015 E 259 DO RISTJ. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA. AGRAVO INTERNO PREJUDICADO.
