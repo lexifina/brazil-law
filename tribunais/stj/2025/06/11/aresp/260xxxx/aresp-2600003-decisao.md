@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MÁRIO CARNEIRO NETO contra a decisão que inadmitiu o recurso especial com base nos seguintes fundamentos: a) ausência de violação dos incisos do § 1º do art. 489 do CPC; b) ausência de violação dos arts. 27 do CDC, 206 § 3º, V, 927 e 935 do CC e incidência da Súmula n. 7 do STJ; c) por não ter sido demonstrada a similitude fática entre o acórdão recorrido e o acórdão paradigma (fls. 1.551-1.554).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravante busca a reapreciação de provas, o que esbarra na Súmula n. 7 do STJ, e que não ocorreu a prescrição, pois o prazo ficou suspenso até a solução na esfera criminal (fls. 1.637-1.644).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação indenizatória. O julgado foi assim ementado (fl. 1.445):
+ILEGITIMIDADE "AD CAUSAM" Legitimidade passiva Configuração Preliminar acolhida. RESPONSABILIDADE CIVIL Configuração Paciente que recebe alta hospitalar de forma prematura - Necessidade de segunda internação e intervenção cirúrgica que leva ao óbito Condenação na esfera criminal Correta aplicação do art. 935, CC - Indenização Redução Cabimento Montante que deve atender à dupla finalidade do instituto indenizatório, sem causar enriquecimento indevido Recurso dos autores provido e parcialmente provido os recursos dos corréus Espólio de Jorge José Ozi e Mário Carneiro Neto.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 206 § 3º, V, do CC, pois a prescrição deveria ter sido reconhecida, visto que o prazo de cinco anos já havia transcorrido entre o evento danoso e o ajuizamento da ação;
+b) 27 do CDC, porquanto o prazo prescricional de cinco anos previsto na legislação consumerista também foi ultrapassado;
+c) 927 do CC, porque não há nexo de causalidade entre a conduta do recorrente e o óbito da paciente, conforme laudo pericial;
+d) 935 do CC, visto que a responsabilidade civil é independente da criminal, e a condenação ocorreu mesmo sem nexo causal entre a conduta e o dano.
+Sustenta que o Tribunal de origem divergiu ao decidir que não houve prescrição, enquanto o acórdão paradigma do Tribunal de Justiça de Minas Gerais reconheceu a prescrição em situação semelhante.
+Requer o provimento do recurso para que se reconheça a prescrição e se reforme o acórdão recorrido, afastando a condenação por danos morais.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não reúne condições de admissibilidade, pois busca a reapreciação de provas, o que esbarra na Súmula n. 7 do STJ, e que não ocorreu a prescrição, pois o prazo ficou suspenso até a solução na esfera criminal (fls. 1.545-1.550).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenização por danos morais em que a parte autora pleiteou reparação pela morte de sua irmã, alegadamente causada por erro médico.
+Na sentença, o Juízo de primeiro grau condenou os médicos ao pagamento de indenização por danos morais, fixando honorários advocatícios em 15% do valor da condenação.
+A Corte estadual reformou parcialmente a sentença, reduzindo o valor da indenização para R$ 50.000,00 para cada autor.
+I - Arts. 206 § 3º, V, e 27 do CDC
+No recurso especial, o recorrente afirma que a prescrição deveria ter sido reconhecida, pois o prazo de cinco anos já havia transcorrido entre o evento danoso e o ajuizamento da ação.
+A Corte estadual concluiu que a prescrição não ocorreu, pois estava pendente de julgamento o recurso da decisão criminal que condenou os médicos.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fls. 1.447-1.448):
+A alegação de prescrição não prospera. Como bem esclarecido pelo Magistrado: "A prescrição deve ser afastada mesmo porque estava pendente de julgamento o recurso da decisão que em processo criminal condenou os médicos pela responsabilidade do óbito de Elisabeth."
+Sobre o tema, convém mencionar que o Superior Tribunal de Justiça é assente no sentido de que a existência de processo criminal, no qual se discute a autoria do ilícito, é causa de suspensão do prazo prescricional estabelecido para se apurar a responsabilidade civil decorrente do mesmo evento, nos termos do art. 200 do CC/2002. Nesse sentido: AgInt no AREsp n. 2.514.360/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.
+Por sua vez, o STJ também já decidiu que a aplicação do disposto no art. 200 do CC/2002 deve ser afastada somente quando, nas instâncias ordinárias, estiver consignada a inexistência de relação de prejudicialidade entre as esferas cível e criminal ou quando não houver a instauração de inquérito policial ou de ação penal.
+Veja-se: AgInt no AREsp n. 1.994.197/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.
+Observe-se também:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PRESCRIÇÃO. AÇÃO PENAL. INCIDÊNCIA DA CAUSA SUSPENSIVA DO ART. 200 DO CC/02. MULTAS. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL E EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. NULIDADE. AUSÊNCIA.
+1. Ação indenizatória proposta em 07/03/2017, da qual foi extraído o presente recurso especial interposto em 03/03/2020 e concluso ao gabinete em 28/12/2021.
+2. O propósito recursal é definir se a) houve negativa de prestação jurisdicional, b) houve a suspensão do prazo prescricional para a propositura da ação compensatória, nos termos do art. 200 do CC/2002 e c) as multas aplicadas por recursos protelatórios são válidas.
+3. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. "A aplicação do art. 200 do CC/02 tem valia quando houver relação de prejudicialidade entre as esferas cível e penal - isto é, quando a conduta originar-se de fato também a ser apurado no juízo criminal -, sendo fundamental a existência de ação penal em curso (ou ao menos inquérito policial em trâmite)" (REsp 1.135.988/SP). A finalidade, pois, dessa norma, é evitar a possibilidade de soluções contraditórias entre as duas searas, especialmente quando a solução do processo penal seja determinante do resultado do processo cível.
+5. O art. 200 do CC/02 incidirá independentemente do resultado alcançado na esfera criminal. Tal entendimento prestigia a boa-fé objetiva, impedindo que o prazo prescricional para deduzir a pretensão reparatória se inicie previamente à apuração definitiva do fato no juízo criminal, criando uma espécie legal de actio nata.
+6. Na espécie, houve a propositura de ação penal, na qual foi declarada a ilegitimidade ativa do Ministério Público em relação a um dos delitos e o réu foi absolvido do outro. Tais circunstâncias, todavia, não afastam a incidência do art. 200 do CC/02, remanescendo hígida a pretensão.
+7. Não há que se falar em nulidade quando as previstas nos arts.
+1.021, § 4º e 1.026, § 2º, do CPC/2015 são aplicadas em decisão devidamente fundamentada.
+8. Recurso especial conhecido e não provido. (REsp n. 1.987.108/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/3/2022, DJe de 1/4/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRAZOS PRESCRICIONAIS. SUSPENSÃO E INTERRUPÇÃO. LEGISLAÇÃO APLICÁVEL. UNIDADE. EMPREGADOR. RESPONSABILIDADE CIVIL. CULPA DO PREPOSTO. DEMONSTRAÇÃO. NECESSIDADE. CAUSA DE SUSPENSÃO. ART. 200 DO CC/2002. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+1. "A incidência do prazo prescricional previsto no CC/2002, por força da interpretação sistemática do seu art. 2.028, significa a aplicação do regime do diploma corrente, o que inclui a quantificação numérica do lapso prescricional em dias, meses ou anos, bem como sua forma de contagem, seu termo inicial ou suas causas suspensivas e interruptivas" (REsp 1631870/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/10/2017, DJe 24/10/2017) 2. " E m sendo necessário - para o reconhecimento da responsabilidade civil do patrão pelos atos do empregado - a demonstração da culpa anterior por parte do causador direto do dano, deverá, também, incidir a causa obstativa da prescrição (CC, art. 200) no tocante à referida ação civil ex delicto, caso essa conduta do preposto esteja também sendo apurada em processo criminal" (REsp 1135988/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/10/2013, DJe 17/10/2013).
+3. Não incide o óbice da Súmula n. 7/STJ quando o exame da controvérsia jurídica objeto do recurso especial dá-se exclusivamente a partir dos fatos e fundamentos jurídicos expostos na petição inicial.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.417.599/PB, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/9/2019, DJe de 10/9/2019.)
+Assim, como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na suspensão do prazo prescricional até a solução na esfera criminal.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Arts. 927 e 935 do CC
+No recurso especial, o recorrente alega que não há nexo de causalidade entre a conduta do médico e o óbito da paciente, conforme laudo pericial.
+O Tribunal de origem analisando o acervo probatório dos autos concluiu que houve falha no serviço prestado, levando ao óbito da paciente, e aplicou o art. 935 do CC, reconhecendo o dever de indenizar.
+Reportando-se à sentença, decidiu nos seguintes termos (fls. 1.448-1.449):
+ ..
+Há, ainda, a informação de que foram condenados nos autos do processo penal n. 0007095-31.2015.8.26.0269.
+Pois bem. Consigna-se que, corretamente, a r. sentença assentou existir dano indenizável, pelo reconhecimento da aplicação do art. 935, do CC, ao caso concreto.
+Transcreva-se, por oportuno: "O art.935 do CC adotou o sistema da independência entre as esferas criminal e cível, mas o reconhecimento da existência de um crime e do seu autor na esfera penal ensejam o dever de indenizar na esfera cível. Desse modo, em caso de sentença penal condenatória com trânsito em julgado, como é o caso presente, surge incontornável o dever de indenizar: "A responsabilidade civil é independente da criminal, não se podendo questionar mais sobre a existência do fato, ou sobre quem seja o seu autor, quando estas questões se acharem decididas no juízo criminal" (Código Civil de 2002, art. 935). Incontroverso o nexo de causalidade entre os danos sofridos e o serviço médico prestado."
+ ..
+Sendo assim, não há margem para discussão quanto à prática de ato ilícito praticado pelos corréus.
+Com efeito, nos termos do art. 935 do Código Civil, vigora o sistema da independência entre as esferas cível e criminal, sendo possível a propositura de suas ações de forma separada.
+Assim, mostra-se desnecessária a condenação na esfera criminal para configurar o dever de indenizar no juízo cível, em razão da independência das responsabilidades cível e criminal, via de regra, à luz do artigo 935 do Código Civil.
+Contudo, convém mencionar que tal independência é relativa, já que uma vez reconhecida a existência do fato e da autoria no juízo criminal, estas questões não poderão mais ser analisadas pelo juízo cível.
+A propósito:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS. AÇÃO CIVIL EX DELICTO. CONDENAÇÃO NA ESFERA PENAL. HOMICÍDIO. FILHO DA AUTORA. AUTORIA. INCONTROVERSA. REPARAÇÃO. EXAME DAS CIRCUNSTÂNCIAS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir se o reconhecimento da existência de um crime e do seu autor na esfera penal ensejam o dever de indenizar na esfera cível.
+3. O artigo 935 do Código Civil adotou o sistema da independência entre as esferas cível e criminal, sendo possível a propositura de suas ações de forma separada. Tal independência é relativa, pois uma vez reconhecida a existência do fato e da autoria no juízo criminal, estas questões não poderão mais ser analisadas pelo juízo cível.
+4. A partir da doutrina e da jurisprudência do Superior Tribunal de Justiça acerca do tema, é possível concluir que a) em caso de sentença condenatória com trânsito em julgado, há incontornável dever de indenizar, e b) em caso de sentença absolutória em virtude do reconhecimento de inexistência do fato, da negativa de autoria, não haverá dever de indenizar.
+5. Não havendo sentença condenatória com trânsito em julgado, deve-se avaliar os elementos de prova para aferir a responsabilidade do réu pela reparação do dano.
+6. No caso, ainda que ausente a condenação criminal definitiva, não se pode negar a existência incontroversa do dano sofrido pela autora com a morte de seu filho e a autoria do crime que gerou esse dano.
+A acentuada reprovabilidade da conduta do réu, ainda que a vítima apresentasse comportamento agressivo e que tenha havido "luta corporal" entre vítima e o réu, não afasta o dever do causador do dano de indenizar.
+7. Considerando as circunstâncias fáticas do caso, arbitra-se o valor de R$ 50.000,00 (cinquenta mil reais) a título de indenização por danos morais.
+8. Recurso especial conhecido e provido. (REsp n. 1.829.682/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/6/2020, DJe de 9/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MATÉRIA JORNALÍSTICA. CONTEÚDO LESIVO À HONRA DE PESSOA FALECIDA. EXPOSIÇÃO DISTORCIDA DOS FATOS. BENEFÍCIO A PARTÍCIPE DO HOMICÍDIO. INDENIZAÇÃO. FILHAS DA VÍTIMA. INDEPENDÊNCIA ENTRE ESFERA CÍVEL E PENAL. DANO MORAL CONFIGURADO. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. VALOR INDENIZATÓRIO MANTIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência deste STJ, mostra-se desnecessária a condenação na esfera criminal para configurar o dever de indenizar no juízo cível, em razão da independência das responsabilidades cível e criminal, via de regra, à luz do artigo 935 do Código Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.094.835/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/6/2020, DJe de 5/6/2020.)
+Nesse contexto, diante da informação de que a parte foi condenada na esfera criminal, reconhecendo-se a existência do fato e da autoria, não há como afastar a responsabilidade na esfera cível pelos mesmos fatos reconhecidos como ilícitos.
+Logo, rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+IV- Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5 % sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
