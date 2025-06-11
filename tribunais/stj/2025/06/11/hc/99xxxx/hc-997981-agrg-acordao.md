@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO. NÃO CABIMENTO. NULIDADES DIVERSAS. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE A JUSTIFICAR A CONCESSÃO DA ORDEM, AINDA QUE DE OFÍCIO. WRIT INDEFERIDO LIMINARMENTE. DIALETICIDADE. NÃO OBERVÂNCIA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recorren te não atacou os fundamentos do provimento jurisdicional que indeferiu liminarmente o habeas corpus, o que atrai o óbice da Súmula n. 182/STJ.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RODRIGO GOMES REIS contra a decisão de e-STJ fls. 1269/1273, por meio da qual indeferi liminarmente o habeas corpus.
+Na hipótese, o ora agravante foi condenado, como incurso nas sanções do art. 121, § 2º, I e IV, c/c o art. 14, II, ambos do Código Penal, à pena de 11 anos de reclusão, em regime fechado (e-STJ fls. 1.142/1.151).
+Interposta apelação, foi o recurso provido parcialmente para reduzir a pena-base imposta, consolidando-se a reprimenda em 10 anos e 4 meses de reclusão. Eis a ementa (e-STJ fl. 38):
+APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO TENTADO E POSSE DE ARMA DE FOGO DE NUMERAÇÃO SUPRIMIDA E MUNIÇÕES - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - DECOTE DAS QUALIFICADORAS - IMPOSSIBILIDADE - TESE ACUSATÓRIA AMPARADA EM SÓLIDOS ELEMENTOS DE CONVICÇÃO - PRINCÍPIO DA SOBERANIA DOS VEREDICTOS - SÚMULA Nº 28 DO TJMG - AUMENTO DA PENA-BASE PELA EM RAZÃO DE CRIME PRATICADO DURANTE O CUMPRIMENTO DE PENA POR DELITO ANTERIOR - POSSIBILIDADE - CONDUTA COM MAIOR GRAU DE REPROVABILIDADE - CULPABILIDADE NEGATIVA - TEMA REPETITIVO Nº 1214 DO STJ - REDUÇÃO DO "QUANTUM" DE AUMENTO EM RELAÇÃO A UM DOS ACUSADOS - NECESSIDADE - PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA - DISCRICIONARIEDADE MOTIVADA DO JULGADOR - AUSÊNCIA DE CRITÉRIO MATEMÁTICO PRÉ-ESTABELECIDO. - Havendo elementos suficientes a demonstrar que o Conselho de Sentença adotou uma das versões existentes nos autos, inclusive no que tange ao crime conexo e às qualificadoras, não há falar em decisão manifestamente contrária à prova dos autos, em respeito ao princípio da soberania dos veredictos. - A prática de novo crime durante o cumprimento de pena por delito anterior evidencia maior grau de reprovabilidade da conduta, vez que o acusado age com dolo intenso, demonstrando desprezo pelas normas penais vigentes e resistência à sua ressocialização. - O Tribunal "ad quem" não está vinculado à fundamentação utilizada na sentença no que concerne à dosimetria, possuindo discricionariedade para realizar o exame das circunstâncias da pena, ressalvando que, nos termos da decisão da Terceira Seção do Superior Tribunal de Justiça, proferida no julgamento do Tema Repetitivo nº 1214, "não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença". - O aumento da pena-base em razão da existência de circunstância judicial negativa é definido através da discricionariedade motivada do Julgador, em cada caso concreto, respeitando os princípios da proporcionalidade e individualização da pena, não sendo obrigatória a utilização de critério matemático pré-estabelecido. - Se o aumento da pena-base imposta a um dos acusados encontra-se desproporcional, mister se faz a redução para "quantum" justo e razoável ao caso concreto, definido através da discricionariedade motivada do Julgador, considerando os princípios da proporcionalidade e individualização da pena, não sendo obrigatória a utilização de critério matemático pré-estabelecido.
+Neste writ, alegou a defesa, em suma, a nulidade por violação de domicílio, sem justa causa, o que tornou as provas obtidas ilícitas, conforme o disposto nos arts. 5º, LVI, da Constituição Federal, e 157 do Código de Processo Penal. Afirmou, outrossim, a nulidade do reconhecimento fotográfico, por alegada inobservância ao art. 226 do CPP. Sustentou, ainda, a violação ao disposto no art. 155 do CPP. A sseriu, ademais, a ilegalidade na dosimetria da pena, argumentando que houve aumento exacerbado da pena-base e diminuição errônea da tentativa.
+Requereu, ao final (e-STJ fls. 36/37):
+1. Liminarmente, diante o preenchimento do fumus boni iuris e periculum in mora, a concessão da readequação da pena do paciente, conforme estabelece o artigo 59 do Código Penal.
+2. No mérito, o reconhecimento da violação ao domicílio, devendo as provas obtidas serem desentranhadas dos autos, bem como as delas decorrentes em homenagem ao artigo 5º, LVI, da Constituição da República Federativa do Brasil de 1988 e o mandamento do artigo 157, do Código de Processo Penal e a Teoria dos frutos da árvore envenenada, com a consequente submissão do paciente a novo júri.
+3. A nulidade do reconhecimento fotográfico, em inobservância ao artigo 226 do CPP, todo e qualquer elemento indiciário ou de prova deve ser considerado nulo e, por conseguinte, desentranhado dos autos, o que acarretará em nova submissão do paciente ao Tribunal do Júri.
+4. Diante da existência da dúvida no presente caso, sobre a autoria ou não do recorrente sobre o delito, bem como a existência de materialidade, a defesa pugna que seja dada validade ao artigo 155 do Código de Processo Penal, no intuito de submeter o recorrente a novo júri, nos termos do artigo 593, inciso III, alínea "d" do Código de Processo Penal.
+5. A adequação da pena-base sendo desconsiderada a valoração negativa da conduta social, bem como a aplicação da fração máxima da causa de diminuição de pena da tentativa, tendo em vista o inter criminis percorrido e ausência de perigo à vida da vítima decorrente da lesão ocasionada.
+Às e-STJ fls. 1269/1273, indeferi liminarmente o habeas corpus.
+Nesta oportunidade, a defesa reitera os argumentos e pedidos contidos na inicial do writ, requerendo, ao final, a "reconsideração da r. decisão agravada em Juízo de retratação, a fim de que seja revogada a prisão preventiva do agravante mesmo que com aplicação de medidas cautelares diversas da prisão" (e-STJ fl. 1302).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO. NÃO CABIMENTO. NULIDADES DIVERSAS. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE A JUSTIFICAR A CONCESSÃO DA ORDEM, AINDA QUE DE OFÍCIO. WRIT INDEFERIDO LIMINARMENTE. DIALETICIDADE. NÃO OBERVÂNCIA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recorren te não atacou os fundamentos do provimento jurisdicional que indeferiu liminarmente o habeas corpus, o que atrai o óbice da Súmula n. 182/STJ.
+2. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental nem sequer supera o conhecimento.
+Pelo princípio da dialeticidade, o agravante tem o ônus de impugnar especificamente os fundamentos da decisão agravada, a fim de desconstituir o impedimento à cognição do recurso interposto.
+No caso, o habeas corpus foi indeferido liminarmente mediante os seguintes fundamentos:
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+ ..
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Com efeito, a leitura do acórdão impugnado revela que as nulidades aqui deduzidas, bem como a controvérsia relativa à suposta ofensa ao art. 155 do Código de Processo Penal, não foram sequer apreciadas no ato apontado como coator, obstando a análise da controvérsia por esta Corte sob pena de indevida supressão de instância.
+No mais, não há qualquer ilegalidade em relação à fixação da pena-base do paciente pela negativação das vetoriais dos maus antecedentes e culpabilidade (e-STJ fls. 53/59), haja vista a presença de registro anterior do paciente e do fato de ele ter praticado o delito quando em cumprimento de pena, o que consoa com a jurisprudência desta Corte sobre o tema.
+Por fim, deve-se ressaltar que " a  revisão do patamar de redução da pena por tentativa, fixado pelas instâncias ordinárias, é inadmissível em sede de habeas corpus devido à necessidade de revolvimento fático-probatório" (AgRg no HC n. 943.129/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+No entanto, nas razões deste agravo regimental, o ora recorrente apenas reitera os termos contidos na inicial do writ, olvidando-se de atacar especificamente os fundamentos contidos na decisão agravada, o que atrai a incidência da Súmula n. 182/STJ, segundo a qual " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Verificada essa hipótese, o recurso não merece conhecimento, conforme remansosa jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. REGIME MAIS GRAVOSO. QUANTIDADE DE DROGA. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE E DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não tendo a agravante, nas razões deste recurso, infirmado especificamente fundamento da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+(AgRg no HC n. 908.884/SP, de minha relatoria, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. INDEFERIMENTO LIMINAR. FUNDAMENTOS NÃO INFIRMADOS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto das razões lançadas no decisum atacado, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso.
+ ..
+5. Agravo regimental não conhecido.
+(AgRg no HC n. 755.089/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022, grifei.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
