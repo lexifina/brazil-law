@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANO FERREIRA DA SILVA contra decisão que inadmitiu recurso especial contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1506682-43.2020.8.26.0050.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa, no valor mínimo unitário, como incursos no art. 158, § 1º, do Código Penal.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fls. 714/724):
+Opostos embargos de declaração pela defesa, estes foram rejeitados (e-STJ fls. 783/785).
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou que a conduta deveria ser desclassificada para o art. 345 do Código Penal, tendo em vista que a vantagem exigida seria devida e, além disso, não teria ficado caracterizada a violência ou a grave ameaça necessária para a configuração do crime de extorsão (e-STJ fls. 734/741).
+O recurso especial foi inadmitido sob o argumento de que não foram infirmados todos os fundamentos do acórdão recorrido, incidindo a Súmula n. 283/STF, e que, para afastar as conclusões das instâncias ordinárias, seria necessário o reexame de fatos e provas, vedado pela Súmula n. 7/STJ (e-STJ fls. 816/819).
+Daí o presente agravo em recurso especial, no qual se alega que o recurso especial não foi interposto com fundamento na existência de dissídio jurisprudencial, sendo que a menção à alínea c, do art. 105, III, da CF foi mero equívoco.
+Assevera, ainda, que todas as violações a artigos de lei foram objeto de capítulo específico e detalhadamente expostas.
+Afirma que a simples análise da denúncia, da sentença e do acórdão é suficiente para compreender a controvérsia acerca da aplicação dos dispositivos legais mencionados, bem como de toda a matéria submetida ao recurso especial.
+O pleito defensivo não se enquadra na vedação da Súmula n. 7, pois não envolve matéria fática, mas sim uma questão exclusivamente jurídica, relacionada à correta aplicação e interpretação dos arts. 158 e 345 do Código Penal.
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não provimento dos agravos em recurso especial (e-STJ fls. 884/896).
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O Tribunal de origem, ao analisar o recurso de apelação e manter a condenação do agravante, consignou que (e-STJ fls. 715/722):
+De acordo com a denúncia, entre novembro de 2019 e março de 2020, através das redes sociais com o perfil "Bataglyoty", nesta Capital, ADRIANO FERREIRA DA SILVA constrangeu as vítimas X e Y (protegidas pelo Provimento 32/2000), mediante grave ameaça consistente na divulgação de fotos e vídeos íntimos da vítima X, com o intuito de obter para si indevida vantagem econômica no valor de R$ 160.000,00 (cento e sessenta mil reais).
+Consta, ainda, que MARINA PACHECO FALCÃO TAVARES concorreu para a execução do crime de extorsão acima descrito.
+Segundo o apurado, as vítimas X e Y trabalham em empresa de televisão, sendo certo que ADRIANO fora empregado e, após ser desligado, ingressou com ação trabalhista, a qual na época dos fatos ainda estava em andamento.
+Indignado e com raiva das vítimas, ADRIANO passou a lhes ofender na rede social "Instagram", oportunidade em que fora procurado por mensagem de "direct" pela comparsa MARINA, a qual informou que também tinha interesse em prejudicar as vítimas, pois teria tido um caso extraconjugal com a vítima X e pretendia acabar com o casamento das vítimas.
+Desta forma, MARINA forneceu a ADRIANO fotos que entendia serem comprometedoras e que poderiam ser usadas como forma de extorquir e exigir das vítimas o dinheiro que queria. Ato contínuo, de posse do material, a partir de 23 de novembro de 2019, ADRIANO, utilizando-se de seu perfil "Bataglyoty" passou a enviar mensagem por "Direct" para a vítima X, criticando a vítima Y e solicitando que interviesse para que ADRIANO fosse pago. Diante da ausência de resposta da vítima X, ADRIANO passou a enviar mensagem dizendo que possuía informações e fotos comprometedoras da vítima X e que seriam "jogadas na mídia" caso não fossem cumpridas as suas exigências.
+Em 10 de fevereiro de 2020, desta vez através do "WhatsApp" nº 11 99699-0456 (em nome do réu) ADRIANO mais uma vez mandou mensagem ameaçadora, dizendo das informações desabonadoras que possuía da vítima X e exigiu contato com a assessora de imprensa Cristina Moreira.
+No mesmo dia, ADRIANO enviou para a vítima Y mensagem pelo "Instagram", dizendo que possuía vídeos da sua esposa e ameaçando colocá-los nas mídias, ficando a vítima Y, assustada.
+Temerosas, as vítimas e a testemunha Cristina informaram os fatos à polícia, oportunidade em que passaram a ser orientadas por uma equipe especializada. Desta forma foi agendado um encontro entre ADRIANO e a assessora de imprensa Cristina nas dependências da praça de alimentação do Shopping Center Eldorado.
+Devidamente equipada com um gravador no formato de um pendrive, Cristina se encontrou com ADRIANO no local acordado, oportunidade em que ele disse trabalhar no setor técnico da televisão e exigindo que Cristina intermediasse junto às vítimas o pagamento de R$ 160.000,00 sob pena de expor imagens da vítima X na mídia. Durante tal negociação, Cristina exigiu provas das imagens, tendo ADRIANO se comprometido a entregá-las no dia seguinte.
+Com base no número de telefone, logrou- se descobrir que se tratava do réu, sendo deferida sua prisão temporária. Desta forma, Cristina marcou novo encontro com ADRIANO para o dia 18 de março de 2020, na lanchonete "Ofner" situada na Alameda Campinas, 1160, oportunidade em que ele foi preso em flagrante.
+Esses são os fatos.
+Cumpre consignar, de início, que não há qualquer vício na r. sentença ora hostilizada, notadamente porque está suficientemente fundamentada, tendo a proficiente Magistrada analisado a materialidade e a autoria delitivas, rechaçando, de modo implícito, o pedido de desclassificação.
+Oportuno ressaltar, ainda, que não há necessidade de rebater cada tese defensiva, mesmo porque na medida em que se acata uma tese, se rejeita automaticamente a outra, excludente daquela, tal como ocorreu no presente caso.
+Vencida a preliminar, passa-se, agora, à análise do mérito.
+A materialidade delitiva restou demonstrada pelos boletins de ocorrência (fls. 10/11 e 38/39), relatório de pesquisa (fls. 13), auto de reconhecimento fotográfico (fls. 17), auto de exibição e apreensão (fls. 19 e 40), representação da prisão temporária (fls. 26/37), auto de reconhecimento de pessoa (fls. 48), bem como pelos laudos periciais (fls. 79/134 e 232/247).
+A autoria também é inconteste.
+MARINA, sob o crivo do contraditório, negou qualquer envolvimento no crime que lhe foi atribuído, dando a entender que mantinha relacionamento extraconjugal com a vítima X e, por motivo de ciúmes, entregou o material comprometedor ao corréu (fls. 509 gravação audiovisual).
+Contudo, quando interrogado judicialmente, ADRIANO alegou ter sido procurado via rede social pela corré, a qual lhe enviou fotos dela com a vítima X e disse "vamos se juntar e acabar com este velho". Assumiu ter tentado se comunicar com as vítimas para falar do seu direito trabalhista a receber, mas nunca pediu valor algum (fls. 509 gravação audiovisual).
+Não é, porém, o que diz a prova.
+A testemunha Cristina Moreira, assessora de imprensa das vítimas, afirmou em audiência ter sido informada de que seus clientes estavam sendo "chantageados". Disse que o criminoso se apresentava como "Bataglyoty" e, por vezes, como ADRIANO.
+Com o auxílio da polícia, a depoente conversou pelo "WhatsApp" com o réu e marcou um encontro, oportunidade em que ele se apresentou como ADRIANO, um antigo empregado da empresa do marido da vítima X, e exigiu a quantia de R$ 160.000,00 para não divulgar imagens e vídeos comprometedores. Posteriormente, em novo encontro marcado, por orientação, a depoente não compareceu e ADRIANO foi detido (fls. 509 gravação audiovisual).
+As vítimas confirmaram ter recebido mensagens ameaçadoras, ressaltando o abalo emocional sofrido, principalmente, com a possibilidade de prejudicar a convivência familiar e profissional (fls. 471 gravação audiovisual).
+Evidente, pois, que a ré MARINA concorreu para o crime de extorsão, aderindo à conduta do réu ADRIANO, na medida em que forneceu as imagens comprometedoras para serem usadas com a finalidade de extorquir as vítimas.
+Não obstante a ré tenha alegado que não pediu dinheiro para si, sabia da intenção do corréu de obter indevida vantagem econômica.
+E nem se diga que a vantagem era devida.
+Isso porque o suposto débito sequer estou comprovado, uma vez que a ação trabalhista pende de julgamento.
+Ainda que assim não fosse, eventual dívida da pessoa jurídica da qual o réu foi empregado em nada se relaciona com as pessoas físicas das vítimas.
+Sob outro vértice, os apelantes argumentam que a conduta em apreço seria atípica por ausência de violência e grave ameaça. Não lhes assiste razão, contudo.
+ ..
+Logo, era mesmo impossível a pretendida absolvição ou desclassificação para o crime de exercício arbitrário das próprias razões.
+Vale rememorar, ainda, que o delito de extorsão é formal, consumando-se no momento em que a vítima é constrangida, mediante violência ou grave ameaça a fazer ou deixar de fazer alguma coisa. O proveito econômico é mero exaurimento.
+Conforme relatado, a defesa alega que a vantagem exigida seria devida e que não teria ficado configurada a violência ou a grave ameaça.
+Não é possível entender que a vantagem seria devida, tal como alegado pela defesa, uma vez que "o suposto débito sequer estou comprovado, uma vez que a ação trabalhista pende de julgamento", além disso "eventual dívida da pessoa jurídica da qual o réu foi empregado em nada se relaciona com as pessoas físicas das vítimas".
+Apesar de as vítimas serem proprietárias da empresa, tal como sustenta a defesa, a suposta dívida trabalhista deve ser cobrada da empresa e não das vítimas, o que corrobora o fato de a vantagem ser indevida.
+Além disso, o Tribunal de origem afirmou que a ação trabalhista ainda pende de julgamento, de modo que a alteração de tal conclusão das instâncias de origem demandaria incursão em elementos de fatos e provas.
+Por fim, com relação à alegação de ausência de violência ou grave ameaça, destaco que "a ameaça, também chamada de violência moral, é considerada grave quando tiver potencial de causar mal relevante à vítima ou a outrem, ou seja, que lhe impõe temor a ponto de afetar sua liberdade de agir", constando, ainda, no mesmo julgado que "Configura grave ameaça o ato de exigir dinheiro da vítima para que esta não tenha revelado suposto caso extraconjugal, pois além de causar dano à sua honra, também leva à desagregação do lar conjugal com uma possível ruptura do casamento, o que ensejaria dano de cunho emocional e patrimonial" (REsp n. 1.313.150/RS, relator Ministro Moura Ribeiro, Quinta Turma, julgado em 22/10/2013, DJe de 28/10/2013).
+Assim, não verifico as violações aos dispositivos legais mencionados pela defesa.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
