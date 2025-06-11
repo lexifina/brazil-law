@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Gabriel Ribeiro da Silva Oliveira, em que se aponta como autoridade coatora a Quinta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 1500425-30.2024.8.26.0545, mantendo a condenação do paciente, imposta pelo Juízo da 1ª Vara Criminal da Infância e Juventude da Comarca de Atibaia/SP, pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa impugna o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, argumentando que o tráfico privilegiado foi indevidamente desconsiderado com base unicamente na quantidade de entorpecentes apreendida. Sustenta que tal fundamento, por si só, não é suficiente para afastar a benesse, sobretudo diante da primariedade do paciente, de seus bons antecedentes, da inexistência de dedicação à atividade criminosa e de vínculo com organização criminosa (fls. 4 e 21).
+Requer, assim, a concessão liminar da ordem para reconhecer o tráfico privilegiado, em sua fração máxima, readequando o regime prisional.
+É o relatório.
+Infere-se dos autos que o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 decorreu da presença de elementos concretos que evidenciam a dedicação do paciente à atividade criminosa. Tal conclusão não se limitou à quantidade e variedade de drogas apreendidas  devidamente fracionadas e acondicionadas para a comercialização  , mas também considerou as circunstâncias que envolveram o flagrante, as quais, em seu conjunto, demonstram de forma clara e objetiva o envolvimento habitual do paciente com o tráfico de entorpecentes, tornando incompatível a concessão da benesse legal.
+De mais a mais, a modificação do acórdão impugnado demandaria o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus (AgRg no HC n. 808.995/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 26/6/2024; e AgRg no HC n. 900.210/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 19/6/2024).
+Mantida a condenação imposta e devidamente fundamentado o regime prisional fixado, entendo por bem preservar integralmente os fundamentos anteriormente expostos.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. MODIFICAÇÃO DO JULGADO. INADEQUAÇÃO DA VIA ELEITA. REGIME PRISIONAL DEVIDAMENTE FUNDAMENTADO.
+Inicial indeferida liminarmente.
