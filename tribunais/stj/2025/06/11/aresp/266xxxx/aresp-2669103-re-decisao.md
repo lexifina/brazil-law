@@ -1,0 +1,53 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão de não conhecimento do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.
+O julgado recorrido recebeu a seguinte ementa (fls. 1.192-1.193):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.228-1.237).
+As partes recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIII e LIV, e 93, IX, da Constituição Federal.
+Nesse sentido, apontam ofensa ao dever de fundamentação das decisões judiciais, pois, segundo afirmam, a decisão monocrática, proferida pela Presidência desta Corte Superior, estaria motivada em elementos padronizados, desconectados do conteúdo do processo e em contrariedade a precedentes da Turma julgadora.
+Afirmam que teriam impugnado a aplicação da Súmula n. 83 do STJ em capítulo específico, fazendo referência a julgados deste Tribunal.
+Destacam que o colegiado manteve a decisão monocrática sem a análise efetiva das teses suscitadas pela defesa, especificamente a alegada violação do art. 71 do RISTJ que trata de prevenção, de maneira também genérica.
+Requerem , assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 1.195-1.196):
+Ora, é dever da parte agravante combater especificamente a totalidade dos fundamentos da decisão agravada, demonstrando o desacerto da deliberação que obstou a subida do recurso especial, sob pena de aplicação do art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+ ..
+A decisão da Presidência desta Corte não conheceu do agravo interposto sob o argumento de que os fundamentos da decisão de inadmissibilidade do apelo especial não foram todos rebatidos naquele recurso, conforme se vê do seguinte trecho (e-STJ, fl. 1.090):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ (desconsideração da personalidade jurídica), Súmula 7/STJ (prescrição), Súmula 83/STJ e Súmula 282/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+E a análise das razões do agravo em recurso especial revela que a parte agravante efetivamente não rebateu o fundamento relacionado ao óbice da Súmula 83/STJ.
+Considerando, pois, que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado na decisão da Presidência do STJ, deve ser ratificada a decisão de não conhecimento do agravo em recurso especial.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração, nos seguintes termos (fls. 1.234-1.235):
+A natureza dos embargos de declaração é integrativa e aclaratória, sendo cabíveis, nos termos do art. 1.022 do Código de Processo Civil, somente quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial, sem, contudo, permitir a rediscussão do mérito da causa ou a modificação do julgado, salvo nas hipóteses legais e apenas para a supressão dos referidos vícios internos da decisão.
+No mesmo sentido:
+ ..
+Sendo assim, não há omissão quando a decisão embargada examina todas as questões suscitadas pelas partes, de forma fundamentada, ainda que de modo sucinto e em sentido contrário ao seu interesse. A mera discordância com o entendimento adotado pelo órgão julgador não caracteriza omissão, pois a exigência de fundamentação não impõe o dever de enfrentar individualmente todos os argumentos apresentados, bastando que a decisão demonstre claramente as razões de seu convencimento, em respeito ao art. 93, inc. IX, da Constituição Federal.
+Com efeito, "a jurisprudência desta eg. Corte Superior tem orientação no sentido de que não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia posta, como ocorreu na espécie" (AgInt no AREsp n. 2.263.229/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024).
+Em outras palavras, "não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas" (AgInt no REsp n. 2.076.914/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+Diante desse conceito e do trecho acima citado da decisão aqui embargada, observa-se que os presentes aclaratórios refletem mera irresignação da parte com o resultado do julgamento, revelando a necessidade de sua imperiosa rejeição.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
