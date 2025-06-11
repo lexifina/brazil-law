@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por JOSUE MOREIRA TOSTA contra a decisão do Tribunal de Justiça de Rondônia que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0000401-50.2018.8.22.0011.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo e, caso conhecido, pelo seu não provimento (fl. 319/328).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: ausência de prequestionamento e Súmulas, 83/STJ e 7/STJ. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, a fundamentação atinente ao óbice da Súmula 7/STJ. E, quanto à Súmula 83/STJ, nem sequer se manifestou.
+De outra parte, salientou o agravante, em preliminar, a ocorrência da prescrição da pretensão punitiva, aduzindo que se trata de matéria de ordem pública, podendo ser conhecida em qualquer fase do processo, inclusive de ofício. Requereu, nesse sentido, o reconhecimento da prescrição, com a consequente extinção da punibilidade.
+Com efeito, embora o recurso padeça de impugnação deficiente, diante da ausência de impugnação suficiente dos fundamentos da decisão agravada, a insurgência relativa à prescrição deve ser examinada, pois o tema consubstancia matéria de ordem pública.
+Verifica-se que a condenação do agravante deu-se em sede de recurso de apelação, oportunidade em que a pena privativa de liberdade foi fixada em 3 meses e 15 dias de detenção (fl. 233). O prazo prescricional, na hipótese, é de 3 anos (art. 109, IV, do CP).
+A denúncia foi recebida em 23/8/2018 (fls. 63/64). No período de 4/12/2018 a 29/5/2019 o prazo prescricional ficou suspenso, nos termos do art. 366 do CPP. A sentença de primeiro grau foi absolutória. O julgamento da apelação - acórdão condenatório recorrível ocorreu no dia 26/5/2023 (fl. 230).
+Verifica-se, portanto, o transcurso do prazo prescricional entre a data de recebimento da denúncia (observado o período da suspensão do prazo - art. 366 CPP e o tempo), até a data em que ocorreu o julgamento da apelação - acórdão condenatório recorrível - 26/5/2023 (fl. 230 ).
+Assim, nos termos do art. 109, IV, c/c o art. 110, § 1º, ambos do Código Penal, impõe-se a declaração da extinção da punibilidade do agravante, haja vista o transcurso do lapso superior a 3 anos entre os marcos interruptivos da prescrição acima referidos (art. 117, I e IV, do Código Penal).
+Ante o exposto, não conheço do agravo em recurso especial. Declaro extinta a punibilidade do agravante pela prescrição da pretensão punitiva, com fundamento no art. 109, I V, c/c o art. 110, § 1º, ambos do Código Penal.
+Publiq ue-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. PLEITO DE EXTINÇÃO DA PUNIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. PRAZO PRESCRICIONAL TRANSCORRIDO ENTRE O RECEBIMENTO DA DENÚNCIA E O ACÓRDÃO CONDENATÓRIO.
+1. Embora o recurso padeça de impugnação deficiente, a insurgência relativa à prescrição deve ser examinada, pois o tema consubstancia matéria de ordem pública.
+2. Agravo em recurso especial não conhecido. Declarada extinta a punibilidade do agravante, nos termos do dispositivo.
