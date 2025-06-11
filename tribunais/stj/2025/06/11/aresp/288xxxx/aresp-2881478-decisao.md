@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCELA CRISTINA ESCARSO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de violação dos arts. 98 e 99 do CPC e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em agravo de instrumento nos autos de ação revisional de contrato bancário com tutela de urgência cujo valor da causa foi fixados em R$ 2.632,90.
+O julgado foi assim ementado (fl. 144):
+AGRAVO DE INSTRUMENTO - Ação Revisional c/c tutela de urgência - Assistência Judiciária Gratuita - Negativa pelo Magistrado - Insurgência - A gratuidade de justiça deve ser concedida àqueles que são comprovadamente necessitados, conforme inteligência do artigo 5º, inciso LXXIV, da Constituição da República, sendo relativa a presunção de veracidade da declaração de hipossuficiência da parte - Diante da apresentação de documentos que evidenciam a percepção renda e movimentação bancária incompatíveis com a alegação de hipossuficiência financeira, a manutenção da decisão que indeferiu os auspícios da justiça gratuita é medida que se impõe - Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a parte recorrente, além de dissídio jurisprudencial, violação dos arts. 98 e 99 do CPC e 5º, LXXIV, da Constituição Federal.
+Defende a necessidade de concessão da gratuidade da justiça, ao argumento de que foi documentalmente comprovada sua incapacidade de arcar com os custos processuais.
+Sustenta que o indeferimento do benefício da assistência judiciária gratuita viola o direito constitucional de acesso à Justiça e que a mera declaração de hipossuficiência, acompanhada de documentos comprobatórios da situação financeira, é suficiente para o deferimento.
+Requer seja provido o recurso para reforma do acórdão recorrido e concessão do benefício da justiça gratuita.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à possibilidade ou não da concessão da assistência judiciária gratuita.
+No tocante à violação ao art. 5º, LXXIV, da CF, vale destacar que é incabível a pretensão de que o Superior Tribunal de Justiça delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+Quanto à gratuidade de justiça, esta Corte já fixou entendimento no sentido de que a declaração de pobreza objeto do pedido de assistência judiciária implica presunção relativa de veracidade, que pode ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt no AREsp n. 1.983.350/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022; AgInt no AREsp n. 1.837.835/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/9/2021, DJe de 30/9/2021; e AgInt no AREsp n. 1.372.130/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018.
+Observa-se que o acórdão recorrido não divergiu desse entendimento.
+No caso, o Tribunal de origem, analisando todo o acervo fático-probatório dos autos, concluiu pela inexistência de comprovação da hipossuficiência da recorrente nestes termos (fls. 146-14, destaquei):
+O cerne da questão cinge-se em analisar se a agravante faz jus ou não à concessão do benefício da gratuidade da justiça.
+Consoante se depreende do art. 99, § 3º, do CPC/2015, a mera alegação, deduzida por pessoa natural, de insuficiência de recursos para pagamento das custas, despesas processuais e honorários advocatícios é presumidamente verdadeira.
+Salienta-se, por oportuno, que o novo diploma processual brasileiro não se divorcia, nesse ponto, da interpretação dada ao art. 4º, caput, da Lei Federal nº 1.060/50, cuja revogação está atrelada ao fim do período de vacatio legis do referido Código (arts. 1045 e 1.072, III, do CPC/2015).
+No entanto, tal presunção é apenas relativa, vez que a Constituição da República Federativa do Brasil, em seu art. 5º, inciso LXXIV, reconhece a necessidade de comprovação da insuficiência, ao dispor que "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos".
+ ..
+A finalidade da norma supramencionada é desonerar aqueles que realmente não possuem condições de arcar com os custos de um processo judicial, garantindo- lhes o amplo acesso à justiça.
+É de notar-se que, para a concessão do benefício da justiça gratuita, não se exige que a parte seja miserável, mas deve restar comprovado nos autos a sua incapacidade financeira para o pagamento das custas e despesas processuais.
+Observa-se ainda que competindo ao julgador velar pela melhor resolução do processo, a fim de se chegar à verdade real, poderá ele intervir ativamente na instrução ao analisar o caso concreto, determinando que a pessoa física comprove a sua insuficiência de recursos para fazer jus ao benefício.
+Constata-se dos documentos colacionado a este instrumento que a agravante visando a concessão do almejado benefício colacionou junto a sua prefacial apenas a declaração de hipossuficiência (fls. 33) e, entendendo insuficiente o documento, o magistrado "a quo" determinou a juntada da CTPS e de eventual cônjuge, extratos bancários dos últimos três meses e declaração de imposto de renda (fls. 56), tendo a autora colacionado os documentos de fls. 59/132.
+Analisando referidos documentos é possível apurar que autora possui um padrão de vida incompatível com a alegada hipossuficiência econômica, denota-se tanto de sua CTPS, como declaração de imposto de renda que a renda mensal auferida pela agravante é superior a R$ 10.000,00 e, ainda a análise dos extratos bancários, verifica-se uma movimentação bancária que também é incompatível com a alegada hipossuficiência, já que os extratos atuais da Banco Itaú constam no mês de março o recebimento de mais de R$ 7.000,00 e em fevereiro mais de R$ 10.000,00 - (fls. 113/116).
+Não se ignora a alegação do agravante no sentido de que possui dificuldades financeiras, contudo, os documentos colacionados aos autos não se mostram suficientes para comprovar a alegada hipossuficiência.
+Cabe lembrar que o benefício da assistência judiciária deve ser concedido somente aos comprovadamente necessitados, pois, caso contrário, não tem o Estado como custear as despesas dos efetivamente carentes que precisam recorrer ao Poder Judiciário.
+Neste caso, não se trata de obstar o acesso ao judiciário, mas sim de prudência deste colegiado em não conceder a benesse a pessoa que não comprove ser necessitada.
+No mais, observa-se que a agravante não colacionou nenhum documento comprovando a existência de despesas que a impossibilitasse de arcar com o pagamento das custas, que no caso não são elevadas, não bastando como salientado a mera alegação de hipossuficiência.
+Desse modo, diante dos elementos fáticos considerados, conclui-se que a capacidade econômica do recorrente se revela incompatível com a gratuidade judiciária pleiteada, de modo que a manutenção da decisão objurgada é medida que se impõe.
+Concluir de forma contrária ao decidido e aferir se a parte não possui condições de arcar com as custas processuais, conforme alega nas razões do recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
