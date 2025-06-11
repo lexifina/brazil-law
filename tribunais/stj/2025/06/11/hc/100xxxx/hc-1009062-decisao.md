@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBSON ALEXANDRE DOS SANTOS contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do Agravo em Execução n. 0017164-60.2024.8.26.0996, deu provimento ao recurso para reconhecer a prática de falta grave pelo paciente, consistente em posse de drogas no estabelecimento prisional (PEC n. 0008299-48.2024.8.26.0996, da Vara de Execuções Criminais da comarca de Presidente Prudente/SP).
+Sustenta a impetrante constrangimento ilegal na imposição da infração disciplinar ao paciente, ao argumento de que a visitante Jéssica deixou claro que não houve conhecimento, nem consentimento do sentenciado Robson acerca de sua conduta. Por outro lado, igualmente não restou suficientemente comprovado que o sentenciado Robson concorreu eficazmente para a prática criminosa (fl. 6).
+Postula, então, a concessão da ordem para que seja decretada a absolvição do apenado.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Juízo da Execução Penal entendeu que o apenado deveria ser absolvido da infração disciplinar de posse de drogas no interior do estabelecimento prisional, uma vez que não foi produzido material probatório suficiente para demonstrar a participação do sentenciado no evento, uma vez que ele não chegou a estar na posse da droga (fl. 17).
+O Tribunal de origem, por outro lado, ao presumir que a droga apreendida com a visitante se destinasse ao paciente, firmou a convicção de que a versão do agravante não se sustenta, visto que isolada das demais provas colhidas. Ademais, não é razoável a constatação de que, no dia seguinte à visita de Jéssica ao sentenciado, essa retornasse ao local com entorpecentes para apresentação de terceiro. Além disso, o nome de Jéssica consta, exclusivamente, anotado na ficha do sentenciado, irrazoável que pessoa diversa do agravado fosse seu destinatário (fl. 12).
+Como se vê, o Tribunal de origem decidiu em desalinho com a jurisprudência desta Corte, firmada no sentido de que, em decorrência do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, por meio de elementos concretos.
+O mencionado princípio é explicado como a vedação de se pretender a aplicação da sanção penal a quem não seja o autor do fato, corolário impositivo do princípio constitucional da personalidade da pena, insculpido no art. 5º, inciso XLV, da Carta Magna (HC n. 651.712/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/3/2021).
+No mesmo sentido: AgRg no HC n. 911.551/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJe 6/9/2024; e HC n. 942.091/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 9/12/2024.
+No caso, embora a companheira do paciente que possuía a droga constasse como visitante cadastrada, tal ato não teve demonstrada a participação do apenado, não podendo prosperar a imposição da falta grave.
+Ante o exposto, concedo liminarmente a ordem a fim de absolver o paciente do cometimento da falta grave que lhe fora imputada (PEC n. 0008299-48.2024.8.26.0996, da Vara de Execuções Criminais da comarca de Presidente Prudente/SP), cassando suas respectivas consequências na execução da pena.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. FALTA GRAVE. PRETENSÃO DE AFASTAMENTO. POSSE DE DROGAS NO INTERIOR DO ESTABELECIMENTO PELA COMPANHEIRA DO PACIENTE (VISITANTE CADASTRADA). ATO DE TERCEIRO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS DA PARTICIPAÇÃO OU COLABORAÇÃO DO APENADO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
