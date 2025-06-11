@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SUSPENSÃO DO DIREITO DE DIRIGIR. PRAZO DECADENCIAL. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA.
+1. "Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito do Superior Tribunal de Justiça quando as turmas recursais de diferentes estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula deste Tribunal, e especificamente no que se refere a questões de direito material" (AgInt no PUIL n. 3.688/PA, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 23/8/2024), o que não ocorreu na espécie.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Sandra Gonçalves da Silva contra decisão de fls. 316/319, que não conheceu de seu pedido de uniformização de interpretação de lei, sob o fundamento de que não restou evidenciada nos acórdãos recorrido e paradigma a existência de dissenso pretoriano acerca do art. 282, § 6º, II, do CTB.
+Sustenta a parte agravante que (fl. 327):
+O presente PUIL foi ingressado porque o entendimento exarado pelo acórdão de origem é oposto ao entendimento da Terceira Turma Recursal de Minas Gerais, em relação ao prazo legal para instauração e envio das notificações da penalidade do procedimento administrativo de suspensão/cassação do direito de dirigir, conforme prevê o Código de Trânsito Brasileiro.
+Desse modo, analisando-se o inteiro teor do v. acórdão de origem e o entendimento adotado pela Terceira Turma Recursal de Minas Gerais, chega-se à conclusão de que há sim divergência de interpretação sobre o mesmo tema.
+E complementa (fl. 329):
+Os dois casos foram analisados a decadência do processo de suspensão/cassação, e o que se pleiteia neste Pedido de Uniformização e que cada Estado possuiu um entendimento divergente, enquanto um aplicou corretamente a lei que estabeleceu novos prazos para decadência, o outro, mesmo analisando a decadência, aplicou o prazo prescricional de 5 anos, sem respeitar a lei nova.
+Como explicado nas razões do PUIL, o acórdão paradigma teve a correta interpretação do texto literal da lei federal (Lei 14.229/2021), cuja previsão é diretamente violada pelo r. acórdão paragonado ao proferir entendimento sobre qual seria o prazo inicial da decadência do processo de suspensão.
+A Terceira Turma Recursal de Minas Gerais tem o entendimento consolidado referente a declaração da decadência de instauração do procedimento de suspensão/cassação do direito de dirigir após o transcurso de mais de 180 ou 360 dias da conclusão do processo administrativo da multa de trânsito.
+Desta forma, como o entendimento do r. acórdão paragonado foi no sentido de que não decorreu o prazo prescricional, aplicando resolução do Contran que não se aplica ao caso, violou o texto literal da lei de decadência (14.229/2021) e também o entendimento proferido pelas demais Turmas do Colégio Recursal.
+O entendimento proferido pelo acórdão paragonado viola também, em decorrência lógica, o termo final do prazo decadencial do processo de suspensão, que é a notificação da penalidade do processo administrativo da multa, divergindo do entendimento proferido pelo acórdão paradigma.
+Assim, como se pode verificar, é evidente a similitude fática entre os acórdãos citados, bem como a divergência entre as decisões proferidas pela Terceira Turma Recursal de Minas Gerais, devendo a r. decisão ser reformada com o prosseguimento deste PUIL, acolhendo a tese pleiteada.
+Requer, assim, a reconsideração ou a reforma do decisório atacado.
+Impugnação às fls. 335/338.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SUSPENSÃO DO DIREITO DE DIRIGIR. PRAZO DECADENCIAL. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA.
+1. "Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito do Superior Tribunal de Justiça quando as turmas recursais de diferentes estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula deste Tribunal, e especificamente no que se refere a questões de direito material" (AgInt no PUIL n. 3.688/PA, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 23/8/2024), o que não ocorreu na espécie.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Como cediço, " n os termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito do Superior Tribunal de Justiça quando as turmas recursais de diferentes estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula deste Tribunal, e especificamente no que se refere a questões de direito material" (AgInt no PUIL n. 3.688/PA, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 23/8/2024), o que não se verifica na espécie.
+De fato, o acórdão recorrido decidiu a controvérsia a partir da compreensão de que o prazo aplicável ao caso - para abertura do processo administrativo de suspensão do direito de dirigir - seria o quinquenal, previsto no art. 1º da Lei n. 9.873/1999, cujo termo inicial iniciou-se com a finalização do processo administrativo destinado à imposição da multa. Senão vejamos (fl. 274):
+O requerido dispunha do prazo quinquenal, contado da data da finalização do processo administrativo de imposição da multa para a instauração do processo de suspensão, como já decidiu esta Turma Julgadora:
+Recurso inominado. Processo administrativo de suspensão do direito de dirigir. Cerceamento de defesa. Inocorrência. Prazo decadencial do art. 282, § 6o, II, Código de Trânsito que se refere à aplicação da pena, e não à abertura do processo administrativo, que tem o prazo quinquenal, conforme art. 1o da Lei Federal 9.873/1999. Sentença de improcedência mantida. Recurso a que se nega provimento. (TJSP; Recurso Inominado Cível 1043890-07.2023.8.26.0053; Relator (a): Alexandre Batista Alves - Colégio Recursal; Órgão Julgador: 8a Turma Recursal de Fazenda Pública; Foro Central - Fazenda Pública/Acidentes - 1º Núcleo Especializado de Justiça 4.0; Data do Julgamento: 29/02/2024; Data de Registro: 29/02/2024).
+Não houve aplicação de pena, mas simples instauração do processo.
+Entre a data do encerramento do processo administrativo em julho de 2020 e a data da instauração do processo de suspensão em julho de 2023, não transcorreu cinco anos, não tendo havido prescrição ou decadência.
+Por sua vez, o aresto paradigma limitou-se a examinar a controvérsia concernente à eventual decadência administrativa na aplicação da sanção ao condutor infrator, concluindo, a esse respeito, que tal prazo decadencial tem como termo inicial a conclusão do processo administrativo sancionador, conforme estabelecido no art. 282, § 6º, do CTB (fls. 22/25).
+Nesse contexto, tal como asseverado no decisum atacado, os acórdãos confrontados carecem da necessária similitude fático-jurídica, motivo pelo qual foi correto o não conhecimento da reclamação.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
