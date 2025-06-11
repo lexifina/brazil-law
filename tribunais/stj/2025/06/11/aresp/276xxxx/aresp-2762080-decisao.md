@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (e-STJ fls. 423-425):
+"RECURSO EM SENTIDO ESTRITO. DELITOS DE CERTIDÃO OU ATESTADO IDEOLOGICAMENTE FALSO, FALSA IDENTIDADE E USAR DOCUMENTO DE IDENTIDADE ALHEIO COMO PRÓPRIO (ARTIGOS 301, § 1º, 307 E 308, TODOS DO CP). REPRESENTAÇÃO PELA PRISÃO PREVENTIVA. DECISÃO DENEGATÓRIA. ENTRE A DATA DA DECISÃO RECORRIDA E A PRESENTE DATA, DECURSO DE SETE MESES, INEXISTE NOS AUTOS ELEMENTOS CONCRETOS ATUAIS A INDICAR A NECESSIDADE DA SEGREGAÇÃO CAUTELAR DOS RÉUS. AÇÃO PENAL AJUIZADA POSTERIORMENTE E EM TRÂMITE NO JUÍZO A QUO. INEXISTÊNCIA DE FATO NOVO APTO A A C O L H E R A R E P R E S E N T A Ç Ã O . DESNECESSIDADE DA PRISÃO PREVENTIVA. NECESSIDADE DA CONTEMPORANEIDADE, NOS MOLDES DO ARTIGO 316, CAPUT, CPP. PRECEDENTES DO STF. ADVINDO FATOS NOVOS SOBRE OS RÉUS A INDICAR O PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA, NADA OBSTA A RENOVAÇÃO DO PLEITO JUNTO AO JUÍZO A QUO. MANUTENÇÃO DA DECISÃO. RECURSO CONHECIDO E DESPROVIDO".
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 504-519).
+Contraminuta apresentada (e-STJ fls. 524-533 e 535-549).
+O Ministério Público Federal opinou pelo "não conhecimento do agravo" (e-STJ fls. 571-581).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Em sede de Recurso Especial (e-STJ fls. 441-462) aduz o recorrente violação ao art. 312 do Código de Processo Penal, em face da não decretação da prisão preventiva dos agravados.
+A questão foi bem analisada no parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fls. 573-):
+O juízo indeferiu representação da autoridade policial pela prisão preventiva dos agravados, supostos autores de crimes do art. 301, §1º, art. 307 e art. 308 do CP. Eis a fundamentação da decisão (e-STJ fl. 238/239):
+No caso em apreço, observo, em sede de cognição sumária, que a materialidade delitiva e a autoria delitiva revelam-se parcialmente presentes delitiva revelam-se parcialmente presentes diante dos elementos informativos até então colhidos.
+Nesse ponto, nota-se que existem nos autos diversos cheques, documentos e depoimentos que denotam, ao menos em tese, a veracidade das informações ao menos em relação ao representado MAURICIO SANTOS MELO NETO.
+Ou seja, vislumbra-se na espécie o fumus comissi delicti atinente à custódia pretendida.
+A despeito da presença, em tese, do fumus comissi delicti, ou seja, prova da existência do crime e indício suficiente de autoria, entendo que a Autoridade Policial não trouxe elementos suficientes acerca do periculum libertatis, ou seja, perigo gerada pelo estado de liberdade do imputado.
+Nesse sentido, destaco que o acusado foi regularmente intimado e compareceu à delegacia para esclarecimentos, circunstância que denota que não pretende atrapalhar as investigações/instrução criminal.
+Em relação às ações penais no qual o réu figura, noto que este responde em liberdade, não vindo a praticar nova conduta após ser posto em liberdade, já que os elementos informativos colacionados aos autos referem-se a fatos anteriores a libertação do réu nos processos em que figura. Em outras palavras, não há necessidade de acautelar o meio social, uma vez que cessada, em tese, a prática delitiva.
+Desse modo, entendo que não se encontra presente o pressuposto do periculum libertatis atinente a custódia cautelar em relação ao representado MAURICIO SANTOS MELO NETO.
+No concernente aos indícios de autoria em relação aos representados EVERALDO SANTOS e AILTON PASSOS, entendo que os elementos informativos até então colhidos são circunstâncias ainda frágeis, uma vez que baseadas principalmente nas palavras do investigado Maurício.
+Em relação aos boletins de ocorrência colacionados, penso que não são suficientes para firmar o envolvimento dos representados no delito em apuração.
+Destaco, por fim, que os elementos indicativos de associação também mostraram-se circunstâncias frágeis, demandando maiores diligências a fim de ensejar um decreto preventivo.
+Ou seja, não vislumbro, no momento, o fumus comissi delicti atinente à custódia pretendida em relação a Everaldo e Ailton.
+O órgão ministerial interpôs recurso em sentido estrito, o qual foi desprovido pelo TJSE nos seguintes termos (e-STJ fl. 432/438):
+Pelo que se denota dos autos, os elementos de informação apontam indícios suficientes de autoria e prova da materialidade (fumus comissi delicti). Entretanto, não se mostram patentes os requisitos ensejadores da prisão sem pena, isto é, o periculum libertatis, autorizador da medida segregatória.
+Com efeito, não se verifica dos autos nenhuma informação indicando que os recorridos venham interferindo na instrução do processo ou que tenham a intenção de se furtar à aplicação da lei penal.
+ ..
+Insta registrar que a decisão foi proferida em 20/10/2023, ou seja, há 7 meses, nos autos do processo de "Pedido de Prisão Preventiva".
+No presente, já existe Ação Penal em trâmite no Juízo de origem, processo tombado sob o nº 202420400049, cuja denúncia fora recebida em 24/2/2024.
+Entre a data da decisão recorrida e a presente data, os recorridos permanecem em liberdade, não havendo notícia nos autos de fato superveniente que justifique a decretação da sua segregação neste momento.
+Ao menos por ora, pelo simples cometimento do delito, não vejo o abalo à ordem pública necessário à decretação da medida extrema, não configurando a gravidade abstrata do delito, por si só, razão suficiente para autorizar a custódia cautelar.
+O STF tem entendido como ilegais as prisões preventivas decretadas com base na gravidade abstrata do delito ou mesmo na periculosidade presumida do agente, ou, ainda, na afirmação genérica de que a prisão é necessária para acautelar o meio social, defendendo, outrossim, o requisito da contemporaneidade a justificar o encarceramento do réu.
+ ..
+No mesmo sentido é que a decretação também exige seja baseada em fundamentos concretos e atuais quanto ao preenchimento dos requisitos para a prisão preventiva.
+Por derradeiro, ressalvo que, advindo fatos novos a indicar que o recorrido esteja planejando delinquir e/ou evadir-se do distrito da culpa, nada obsta a renovação do pleito de prisão cautelar ao Juízo a quo.
+Em síntese, consoante sobredito, entendo que, na hipótese em tela, não se verifica a presença dos elementos autorizadores da excepcionalidade e por isso não vislumbro colisão entre o princípio da liberdade dos agentes com os da ordem pública e paz social, inexistindo, pois, razão para a prisão cautelar, haja vista a inocorrência, ao menos até agora, de quaisquer das situações previstas no art. 312 do CPP.
+Como se vê das transcrições, as decisões estão devidamente fundamentadas, visto que apontaram a materialidade e os indícios de autoria delitiva (fumus commissi delicti).
+Por sua vez, nas instâncias ordinárias considerou-se que não estão presentes os vetores contidos no art. 312 do CPP, para que se justifique a necessidade de imposição de medida cautelar (periculum libertatis) para a garantia da ordem pública. É que a Corte estadual e o juízo ponderaram que não há notícia de que os agravados tenham tentado interferir nas investigações ou de que visem a frustrar a aplicação da lei penal.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial, para concluir pela presença do requisitos para decretação da prisão cautelar, dependeria de análise aprofundada da prova e não apenas nova interpretação.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639 /MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5 /2024, DJe de 3/6/2024).
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator " não conhecer do recurso especial inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
