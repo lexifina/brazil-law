@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ABSOLVIÇÃO. INVIABILIDADE. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. CRIME CONTINUADO. FRAÇÃO AUMENTO. SÚMULA N. 659 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+2. Ademais, o acórdão da revisão criminal foi claro ao afirmar que as circunstâncias da aquisição eram suficientes para que o agravante suspeitasse da ilicitude dos produtos, o que afasta a tese de erro de tipo.
+3. A tipificação da conduta pela receptação praticada no exercício da atividade comercial, conforme previsão do § 1º do art. 180 do Código Penal, não impede a valoração negativa das circunstâncias judiciais, desde que por fundamento diverso, como ocorrido no caso.
+4. A pena-base foi fixada acima do mínimo legal com fundamento na reprovabilidade da conduta, evidenciada pela comercialização irregular de produtos controlados pelo Exército Brasileiro, o que implicaria potencial ameaça à segurança pública. Inexistente, portanto, o alegado bis in idem.
+5. A fração de 1/5 aplicada em razão da continuidade delitiva (art. 71 do Código Penal) encontra-se dentro dos parâmetros da Súmula n. 659 do STJ e foi devidamente fundamentada em razão da prática de, ao menos, 3 condutas delituosas.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO RODRIGUES SANTOS contra a decisão de fls. 2.841-2.843, em que não se conheceu do habeas corpus.
+Nas razões deste recurso, a defesa aduz que o caso é excepcional a ponto de justificar o conhecimento da impetração, tendo em vista as ilegalidades sofridas pelo agravante.
+Relata que o Juízo de primeiro grau fixou a pena do agravante acima do mínimo legal, sem fundamentação idônea.
+Requer a reconsideração da decisão ou a submissão do recurso ao colegiado para que, ainda que de ofício, seja concedida a ordem a fim de absolver o agravante, ou que seja reduzida a pena para o mínimo legal, fixando-se o regime aberto.
+Pleiteia, ainda, que seja intimado da sessão de julgamento, para a realização de sustentação oral.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ABSOLVIÇÃO. INVIABILIDADE. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. CRIME CONTINUADO. FRAÇÃO AUMENTO. SÚMULA N. 659 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+2. Ademais, o acórdão da revisão criminal foi claro ao afirmar que as circunstâncias da aquisição eram suficientes para que o agravante suspeitasse da ilicitude dos produtos, o que afasta a tese de erro de tipo.
+3. A tipificação da conduta pela receptação praticada no exercício da atividade comercial, conforme previsão do § 1º do art. 180 do Código Penal, não impede a valoração negativa das circunstâncias judiciais, desde que por fundamento diverso, como ocorrido no caso.
+4. A pena-base foi fixada acima do mínimo legal com fundamento na reprovabilidade da conduta, evidenciada pela comercialização irregular de produtos controlados pelo Exército Brasileiro, o que implicaria potencial ameaça à segurança pública. Inexistente, portanto, o alegado bis in idem.
+5. A fração de 1/5 aplicada em razão da continuidade delitiva (art. 71 do Código Penal) encontra-se dentro dos parâmetros da Súmula n. 659 do STJ e foi devidamente fundamentada em razão da prática de, ao menos, 3 condutas delituosas.
+6. Agravo regimental improvido.
+VOTO
+Inicialmente, em atenção ao requerimento de intimação para realização de sustentação oral (fl. 2.848), esclareço que, quando cabível, a sustentação oral pode ser realizada independentemente de a modalidade de julgamentos ser virtual ou telepresencial, devendo o advogado interessado acessar o link https://sustentacaooral.web.stj.jus.br/login e adotar as providências necessárias.
+No mais, a pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam haver equívoco na decisão recorrida.
+Conforme consta da decisão agravada, a via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E RESPECTIVA ASSOCIAÇÃO. REVISÃO CRIMINAL NÃO CONHECIDA. HIPÓTESES DE CABIMENTO. NÃO VERIFICAÇÃO. PLEITO DESCLASSIFICATÓRIO. INVIABILIDADE. ORDEM DENEGADA.
+1. A revisão criminal caracteriza-se como ação autônoma de impugnação voltada à desconstituição da coisa julgada sempre que o decisum objurgado esteja imbuído de erro judiciário. As hipóteses de cabimento são previstas no artigo 621 do Código de Processo Penal - CPP, as quais devem ser interpretadas de maneira restritiva, sob pena de se vulnerar o princípio mor da segurança jurídica, base sobre a qual se assenta o ordenamento pátrio.
+2. Com relação à pretensão desclassificatória, já amplamente enfrentada pelo Tribunal de origem no julgamento da apelação, agiu com acerto aquela Corte no julgamento da revisão criminal. Isso, porque não houve indicação de novas provas e se demonstrou a ausência dos requisitos do art. 621 do Código de Processo Penal.
+Ademais, tal questão é inviável de ser decidida em sede de habeas corpus, por demandar o exame aprofundado das provas.
+3. Ordem denegada.
+(HC n. 428.643/MS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/3/2018, DJe de 26/3/2018.)
+Ademais, o acórdão da revisão criminal foi claro ao afirmar que as circunstâncias da aquisição eram suficientes para que o agravante suspeitasse da ilicitude dos produtos, o que afasta a tese de erro de tipo (art. 20 do Código Penal - CP). No ponto, confiram-se os motivos para a solução adotada pelo Tribunal de origem (fls. 52 e 53):
+As provas colhidas conferem suporte aos termos da denúncia. A dinâmica delituosa foi detalhada, de forma coerente, pelos corréus RONILDO e RAFAEL, bem como pelas testemunhas Fábio, Claudinei e Diego, demonstrando que os vidros foram comercializados de forma clandestina e recebidos pelo requerente e por JOSÉ GLEIDSON, A negativa do requerente restou ilhada em relação às demais provas coligidas nos autos.
+O crime de receptação restou devidamente demonstrado. Conforme esclarecimentos prestados por Fábio, tanto o requerente quanto JOSÉ GLEIDSON disseram que possuíam qualquer vidro ele precisasse, situação que não seria condizente com a condição dos vidros que comercializavam, vendidos apenas em circunstância sabidamente excepcional.
+Ademais, ainda que a empresa vítima produzisse vidros em larga escala, não é plausível que possuísse em estoque os mais variados tipos de vidro para os mais variados tipos de carro. Por fim, o próprio Fábio disse que não foi informado sobre as pequenas avarias no produto, que permitiriam a sua classificação como "refugo". Nesse sentido, observa-se que um dos vidros destinados ao veículo VW/Tiguan foi quebrado e imediatamente outro foi produzido em seu lugar, permitindo concluir que o requerente e JOSÉ GLEIDSON estavam em conluio com RONILDO e RAFAEL para a fabricação e venda de vidros blindados de forma clandestina. O alegado desconhecimento relatado pelo requerente quanto à exigência do Exército Brasileiro sobre a existência de veículos blindados não convence. Afinal, detinha experiência no ramo, de modo que possuía conhecimento de todas as especificidades e exigências que gravitavam em torno da fabricação e comercialização daquela mercadoria.
+Some-se a tal circunstância a ausência de QR-CODE nos vidros, de nota fiscal da mercadoria e da ausência de emissão de nota fiscal pelo próprio requerente. As irregularidades, manifestas que eram, não permitiriam qualquer alegação de ignorância quanto à origem ilícita dos bens. Ao contrário, o requerente estava plenamente ciente quanto à origem espúria dos bens.
+Nessa perspectiva, a afirmação da procedência da ação penal supôs análise detida dos elementos de prova que foram colhidos ao longo de toda a persecução. Ao final, obteve-se a certeza positiva em relação aos termos da imputação e, portanto, do envolvimento do alinhamento objetivo e subjetivo do requerente no crime de receptação tal como imputado na peça acusatória.
+A bem da verdade, a presente ação revisional busca, uma vez mais, provocar o reexame das provas colhidas e valoradas pelos diferentes graus de jurisdição. Enfim, nada de novo trouxe que indicasse a remota possibilidade de alteração do juízo condenatório.
+Quanto à dosimetria, assim fundamentou o acórdão impugnado (fl. 56):
+Não há ilegalidade no aumento operado na basilar. A d. defesa alega que o aumento da pena-base se deu em razão do fato de haver comercialização do objeto, sendo que a mesma circunstância foi considerada como qualificadora, o que ensejaria a ocorrência de bis in idem.
+Razão não lhe assiste.
+A finalidade mercantil serviu de base para a afirmação da forma qualificada da receptação. Por outro lado, a maior reprovabilidade, justificadora do aumento da pena base, deu-se em razão da natureza dos produtos e do controle exercido pelo Exército Brasileiro. Reconheceu-se, assim, o prejuízo não só da empresa-vítima, mas também da própria coletividade. As razões invocadas, que guardam independência lógica, mostraram-se legítimas para a afirmação de uma maior reprovabilidade e, portanto, para o aumento da basilar.
+Nesse ponto, nunca é por demais rememorar a discricionariedade regrada que cerca o processo de dosimetria penal. No caso, não há ilegalidade nos critérios adotados. O aumento, note-se, deu-se na razão de 1/8 da pena-base, o que levou à pena de 3 anos, 4 meses e 15 dias de reclusão, além de 11 dias multa.
+Não foram vislumbradas agravantes ou atenuantes.
+Na terceira etapa, afirmada a continuidade delitiva e o reconhecimento de três receptações, aplicou-se o aumento de 1/5, perfazendo o total de 04 (quatro) anos e 18 (dezoito) dias de reclusão, e o pagamento de 13 dias-multa.
+Constata-se que a pena-base foi fixada acima do mínimo legal com fundamento na reprovabilidade da conduta, evidenciada pela comercialização irregular de produtos controlados pelo Exército Brasileiro, o que implicaria potencial ameaça à segurança pública.
+A tipificação da conduta pela receptação praticada no exercício da atividade comercial, conforme previsão do § 1º do art. 180 do Código Penal, não impede a valoração negativa das circunstâncias judiciais, desde que por fundamento diverso, como ocorrido no caso. Inexistente, portanto, o alegado bis in idem.
+Por fim, a fração de 1/5 aplicada em razão da continuidade delitiva (art. 71 do CP) encontra-se dentro dos parâmetros da Súmula n. 659 do STJ e foi devidamente fundamentada em razão da prática de, ao menos, três condutas delituosas.
+Não se constata, pois, flagrante ilegalidade a justificar a intervenção desta Corte Superior.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
