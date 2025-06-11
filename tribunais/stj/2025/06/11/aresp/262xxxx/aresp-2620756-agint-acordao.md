@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Para se alterar a conclusão da Corte local, no sentido do cabimento da cobrança da indenização securitária, seria necessário promover o reexame do acervo fático e probatório dos autos, providência vedada na via eleita, a teor dos óbices das Súmulas 5 e 7 do STJ.
+2.  Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS S.A. contra decisão monocrática de fls. 666-670 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 446 e-STJ):
+EMENTA  Seguro agrícola. Plantio de milho. Ação de cobrança com pedido cumulado de indenização por danos morais. Proposta de seguro que anunciava deter a seguradora o prazo de 45 dias para analisar os riscos e aceitar a contratação. Circular nº 642/21 da SUSEP. Seguradora que alegou ter o segurado antes de findar aquele prazo solicitado o cancelamento do seguro, fato que foi por ele negado. Documentos que acabaram por contradizer aquela afirmação. Inocorrência de óbice criado pelo segurado para a análise de riscos. Local que não correspondia à área de pós-pastagem, como já havia sido informado pelo segurado em resposta a questionário de risco, o que foi confirmado por perícia. Ação parcialmente procedente. Recurso improvido.
+Opostos embargos de declaração (fls. 454-456 e-STJ), esses foram rejeitados (fls. 457-459 e-STJ).
+Nas razões do recurso especial (fls. 462-504 e-STJ), a parte insurgente apontou violação aos artigos 421, 422, 757, 760 do Código Civil; 373, I e II, e 1.025 do Código de Processo Civil, além de dissídio jurisprudencial, sustentando, em suma, "a licitude da recusa do risco proposto e cancelamento da proposta de seguros dentro do prazo legal (inclusive, por solicitação do próprio segurado), tendo agido dentro das disposições legais aplicáveis".
+Contrarrazões às fls. 587-597 e-STJ.
+Em juízo de admissibilidade (fls. 598-600 e-STJ), negou-se o processamento do recurso especial, sob o fundamento da aplicação do óbice da Súmula 07 do STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 666-670 e-STJ), este signatário conheceu do agravo para não conhecer do recurso especial, sob o fundamento da aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Inconformada, no presente agravo interno (fls. 674-702 e-STJ), a parte recorrente insurge-se contra a negativa de provimento ao recurso especial, combatendo a aplicação dos óbices das Súmulas 5 e 7 do STJ e reiterando a matéria de mérito exposta na petição do recurso especial. Requer, ao final, a reforma da decisão agravada.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Para se alterar a conclusão da Corte local, no sentido do cabimento da cobrança da indenização securitária, seria necessário promover o reexame do acervo fático e probatório dos autos, providência vedada na via eleita, a teor dos óbices das Súmulas 5 e 7 do STJ.
+2.  Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Com relação à incidência dos óbices das Súmulas 5 e 7 do STJ, deve ser mantida a decisão que negou provimento ao recurso especial.
+Conforme afirmado pela decisão agravada, cinge-se a pretensão recursal à verificação acerca do cabimento do pagamento da indenização contratada na apólice de seguro.
+O Tribunal de origem, ao analisar a controvérsia, com base nos elementos fáticos e probatórios dos autos, eminentemente, no contrato de seguro firmado entre as partes, manteve o julgamento de procedência da ação de cobrança, sob a seguinte fundamentação (fls. 447-451 e-STJ):
+Segundo anuncia o artigo 4 da Circular nº 642/21 da SUSEP que "dispõe sobre a aceitação e a vigência do seguro e sobre a emissão e os elementos mínimos dos documentos contratuais": (..).
+Pois como se via a fls. 21 constou da proposta de seguro que o "proponente declara a ter ciência que a Seguradora dispõe de 45 (quarenta e cinco) dias, contados a partir do protocolo da Proposta na Seguradora, para análise e aceitação do risco" (item G).
+O Magistrado considerou, é verdade, que a mencionada "disposição contratual, constante em letras diminutas, típicas de contrato de adesão, é dotada de inegável abusividade, colocando o consumidor em situação de desequilíbrio evidente", eis que "observe-se que a proposta é datada de 28/09/2021, para vigência a partir de 1º/10/2021, data de início do plantio. Neste quadro fático, o consumidor é obrigado a iniciar o evento segurado, o plantio da lavoura de milho, pagando a primeira parcela do prêmio, sujeitando-se à cláusula marcadamente potestativa, que permite á seguradora cancelar o seguro em até 45 dias", de modo que "a cláusula é nula e deve ser desconsiderada, devendo o contrato de seguro ser reconhecido como existente e eficaz a partir de sua firmação".
+O fato objetivo, contudo, é que ainda que considerasse válida aquela cláusula a seguradora deixou de observar a necessidade de comunicação formal ao proponente ou ao corretor de seguros, isso com a devida justificativa, conforme previa o § 4 do artigo 4da Circular nº 642/21 da SUSEP anteriormente colacionado.
+Isso porque os documentos juntados aos autos acabaram por contradizer a alegação da seguradora de que antes da aceitação da proposta houve o pedido de cancelamento do seguro pelo autor, o que tinha relevo na medida em que ele negou que tenha solicitado o cancelamento da proposta, mas sim que procurou o corretor de seguros para emitir o boleto da segunda parcela do prêmio quando então foi informado sobre o cancelamento da proposta pela seguradora.
+A questão, aliás, foi bem enfrentada na seguinte passagem da sentença:
+"No que diz respeito à alegação da ré de que o autor teria solicitado o cancelamento da apólice por meio de seu corretor e de que não houve recusa na aceitação, observo que o documento de fls. 201, de emissão da própria ré, faz prova contra seu interesse, uma vez que
+nele consta que a proposta foi cancelada pela constatação de área de pós-pastagem - risco sem aceitação.
+A força probatória deste documento deve prevalecer sobre a do documento de fls. 203. que veicula informação prestada pelo corretor que intermediou a contratação, no sentido de que o segurado pedira o cancelamento. Primeiro porque o corretor não deve ser tido como mero representante do segurado. Na verdade age sempre em conformidade com as regras impostas pelas companhias seguradoras. Depois porque, feita por escrito a proposta e assinada pelo segurado, deveria a ré ter se escudado na mesma forma para o cancelamento. Finalmente porque não é verossímil que o autor, já tendo feito o plantio e pago a primeira parcela do seguro, em cenário de seca e com indicativo de iminente sinistro, tenha tomado tal conduta."
+Assim, o fato é que não restou comprovada a alegação de que o cancelamento foi solicitado pelo próprio segurado, o que como anteriormente afirmado ele negou, de modo que a ré havia de tê-lo notificado formalmente sobre a recusa e sua justificativa.
+No entanto, a ré nem chegou a realizar qualquer vistoria no local, isso de modo a averiguar se a área cultivada era apta a ser segurada conforme os riscos cobertos pelo contrato.
+A seguradora afirmou, é verdade, que tentou por diversas vezes obter "complementação das informações e documentos necessários para a análise do risco", em especial no tocante ao tipo de cultivo realizado no ano de 2019, isso para averiguar se cuidava-se de área de pós pastagem, mas sem sucesso, de modo que o próprio autor inviabilizou a análise de risco.
+Contudo, o autor já havia respondido negativamente à seguinte pergunta do questionário da proposta de seguro: "2. É o 1º ou 2º ano de plantio pós-pastagem / cerrado / mata nativa/ cana de açúcar  Caso positivo, não temos aceitação", não podendo a ré então alegar que aquela informação lhe era desconhecida.
+Cabe apontar que a prova pericial atestou que a área plantada não se cuidava de pós pastagem, já que antes do plantio de milho - objeto da proposta de seguro - havia sido plantada mandioca e abóbora no local (itens 7, 8 e 9 - fls. 358). (..).
+Em suma, a apelante não convence do desacerto da sentença.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame do cabimento da indenização securitária - demandaria o reexame das provas dos autos, juízo obstado pelas Súmulas 5 e 7 do STJ.
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULA N. 5 DO STJ. VALOR DE MERCADO REFERENCIADO. LEGALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem a interpretação de cláusula contratual, a teor do que dispõe a Súmula n. 5/STJ.
+3. No caso concreto, o acolhimento da pretensão recursal, no sentido de ser devido o pagamento do prêmio com base no valor máximo previsto na apólice, demandaria a interpretação de cláusula contratual, o que é inviável em recurso especial.
+4. O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência desta Corte Superior, que entende não ser abusiva, por si só, a cláusula dos contratos de seguro que preveja que a seguradora, nos casos de furto ou perda total do bem, indenize o segurado pelo valor de mercado na data do sinistro. Precedente.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1764109/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/05/2021, DJe 17/05/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VEÍCULO. INDENIZAÇÃO. PREVISÃO NA APÓLICE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido sobre o dever da seguradora de pagar a indenização contratada, nos limites da apólice, do veículo segurado, decorreu da análise dos elementos fático - probatório dos autos, e interpretação de cláusulas contratuais, não sendo possível, em sede de recurso especial alterar o entendimento da Corte Estadual, em razão do óbice das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1126997/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/04/2018, DJe 30/04/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VEÍCULO. 1. INDENIZAÇÃO POR DANOS MATERIAIS. REVISÃO DAS CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. 2. DANOS MORAIS. MERO DESCUMPRIMENTO CONTRATUAL. SÚMULA 83/STJ. 3. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DOS CRITÉRIOS PARA SUA FIXAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 4. AGRAVO REGIMENTAL IMPROVIDO.
+1. No tocante ao pedido de indenização dos danos materiais relativo aos serviços de adaptação do veículo sinistrado, o Tribunal de origem negou provimento ao pedido, pois "já abrangidos pela indenização securitária, respeitados os limites da apólice". A revisão do julgado a quo exigiria o revolvimento das cláusulas pactuadas entre as partes e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+2. O mero descumprimento contratual não configura, por si só, prejuízo de natureza extrapatrimonial.
+3. A revisão do critério adotado pelo Colegiado a quo, para a fixação dos honorários, demandaria nova incursão no acervo fático-probatório da causa, o que é vedado em âmbito de especial, atraindo a incidência da Súmula 7 deste Tribunal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 687.034/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/08/2015, DJe 24/08/2015)
+1.1. Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
