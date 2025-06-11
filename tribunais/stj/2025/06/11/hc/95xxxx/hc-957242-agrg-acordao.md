@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto por Wellys Lopes Ribeiro contra decisão monocrática que não conheceu do habeas corpus impetrado em seu favor, em razão de seu ajuizamento como substitutivo de revisão criminal. O paciente foi condenado, com trânsito em julgado em 22/08/2022, à pena de 8 anos e 9 meses de reclusão e 875 dias-multa pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa alegou nulidades relacionadas à cadeia de custódia e requereu a absolvição com base no art. 386, II, do CPP ou, subsidiariamente, a produção de nova prova testemunhal.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se é cabível habeas corpus para revisão de sentença penal condenatória com trânsito em julgado, especialmente diante de alegações de nulidades; e (ii) verificar se houve flagrante ilegalidade apta a justificar a concessão da ordem, notadamente por suposta quebra da cadeia de custódia das provas.
+III. RAZÕES DE DECIDIR
+A impetração de habeas corpus como substitutivo de revisão criminal é incabível, conforme jurisprudência consolidada do STJ, salvo em hipóteses excepcionais de flagrante ilegalidade, o que não se verifica no caso concreto.
+A condenação penal já transitou em julgado, e a revisão criminal ajuizada anteriormente foi indeferida pelo Tribunal de origem, o que afasta a possibilidade de rediscussão da matéria por meio de habeas corpus.
+O Tribunal estadual afastou a alegação de quebra da cadeia de custódia das provas, registrando que não houve demonstração concreta de violação ou adulteração do material apreendido.
+A alegação de divergência entre laudos periciais e de ausência de contato do paciente com o veículo utilizado no transporte das drogas configura reexame de prova, o que é vedado em habeas corpus.
+A jurisprudência do STJ veda a utilização do habeas corpus como substitutivo de recurso próprio ou da revisão criminal, mesmo diante de suposta nulidade absoluta, em respeito à coisa julgada e à segurança jurídica.
+IV. DISPOSITIVO E TESE
+Agravo regimental não provido.
+Tese de julgamento:
+O habeas corpus não pode ser utilizado como substitutivo de revisão criminal para rediscutir fundamentos de mérito de condenação com trânsito em julgado, salvo em casos de flagrante ilegalidade.
+A alegação genérica de quebra da cadeia de custódia sem demonstração concreta de violação não configura ilegalidade apta a ensejar a concessão de habeas corpus.
+A revisão de provas produzidas na ação penal é incabível na via estreita do habeas corpus.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, arts. 157, § 1º, 158-A a 158-F, 212, 315, 386, II.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 1846669/SP, rel. Min. Felix Fischer, Quinta Turma, j. 01.06.2021, DJe 07.06.2021; STJ, AgRg no RHC n. 152.430/MA, rel. Min. Ribeiro Dantas, Quinta Turma, j. 29.03.2022, DJe 01.04.2022; STJ, AgRg no HC n. 779.982/RS, rel. Min. Jesuíno Rissato, Sexta Turma, j. 11.03.2024, DJe 14.03.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLYS LOPES RIBEIRO contra decisão monocrática que não conheceu do habeas corpus impetrado em seu favor.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006, às penas de 08 (oito) anos e 09 (nove) meses de reclusão, no regime fechado, e 875 (oitocentos e setenta e cinco) dias-multa, por decisão transitada em julgado em 22 de agosto de 2022 (fl. 326).
+Inconformada, a defesa ajuizou Revisão Criminal perante o Tribunal de origem, que indeferiu o pedido.
+Subsequentemente, foi impetrado habeas corpus perante esta Corte, no qual a parte impetrante sustentou ausência de fundamentos e pressupostos adequados à manutenção da condenação do paciente, alegando quebra da cadeia de custódia e violação aos artigos 157, § 1º, 158-B, 158-C, 158-D, 158-E, 212 e 315, todos do CPP (fl. 326).
+Em decisão monocrática, não conheci do habeas corpus por entender que o writ estava sendo utilizado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+No presente agravo regimental (fls. 335-353), a defesa alega, em síntese, que: (i) é cabível habeas corpus mesmo após o trânsito em julgado, conforme Informativo 892 da Segunda Turma do STF; (ii) houve quebra da cadeia de custódia na hipótese, pois a testemunha (Policial Civil) responsável pelo traslado das drogas não soube informar em qual veículo elas foram transportadas; (iii) há divergência entre laudos (positivo para as drogas transportadas ao plantão policial e negativo para as drogas extraídas do próprio veículo VAN); e (iv) uma das testemunhas (Cosmo) afirmou que o paciente não teve contato algum com o veículo VAN que transportava as drogas. Requer, ao final, a reforma da decisão agravada, para que seja reconhecida a violação aos arts. 158-A, 158-B, 158-C, 158-D, 158-E, 158-F e 157, § 1º, do CPP, com a consequente absolvição do paciente à luz do artigo 386, II, do mesmo codex. Alternativamente, pleiteia a determinação para que o juiz de primeiro grau aceite a testemunha indicada na ação de Justificação Criminal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto por Wellys Lopes Ribeiro contra decisão monocrática que não conheceu do habeas corpus impetrado em seu favor, em razão de seu ajuizamento como substitutivo de revisão criminal. O paciente foi condenado, com trânsito em julgado em 22/08/2022, à pena de 8 anos e 9 meses de reclusão e 875 dias-multa pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa alegou nulidades relacionadas à cadeia de custódia e requereu a absolvição com base no art. 386, II, do CPP ou, subsidiariamente, a produção de nova prova testemunhal.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se é cabível habeas corpus para revisão de sentença penal condenatória com trânsito em julgado, especialmente diante de alegações de nulidades; e (ii) verificar se houve flagrante ilegalidade apta a justificar a concessão da ordem, notadamente por suposta quebra da cadeia de custódia das provas.
+III. RAZÕES DE DECIDIR
+A impetração de habeas corpus como substitutivo de revisão criminal é incabível, conforme jurisprudência consolidada do STJ, salvo em hipóteses excepcionais de flagrante ilegalidade, o que não se verifica no caso concreto.
+A condenação penal já transitou em julgado, e a revisão criminal ajuizada anteriormente foi indeferida pelo Tribunal de origem, o que afasta a possibilidade de rediscussão da matéria por meio de habeas corpus.
+O Tribunal estadual afastou a alegação de quebra da cadeia de custódia das provas, registrando que não houve demonstração concreta de violação ou adulteração do material apreendido.
+A alegação de divergência entre laudos periciais e de ausência de contato do paciente com o veículo utilizado no transporte das drogas configura reexame de prova, o que é vedado em habeas corpus.
+A jurisprudência do STJ veda a utilização do habeas corpus como substitutivo de recurso próprio ou da revisão criminal, mesmo diante de suposta nulidade absoluta, em respeito à coisa julgada e à segurança jurídica.
+IV. DISPOSITIVO E TESE
+Agravo regimental não provido.
+Tese de julgamento:
+O habeas corpus não pode ser utilizado como substitutivo de revisão criminal para rediscutir fundamentos de mérito de condenação com trânsito em julgado, salvo em casos de flagrante ilegalidade.
+A alegação genérica de quebra da cadeia de custódia sem demonstração concreta de violação não configura ilegalidade apta a ensejar a concessão de habeas corpus.
+A revisão de provas produzidas na ação penal é incabível na via estreita do habeas corpus.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, arts. 157, § 1º, 158-A a 158-F, 212, 315, 386, II.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 1846669/SP, rel. Min. Felix Fischer, Quinta Turma, j. 01.06.2021, DJe 07.06.2021; STJ, AgRg no RHC n. 152.430/MA, rel. Min. Ribeiro Dantas, Quinta Turma, j. 29.03.2022, DJe 01.04.2022; STJ, AgRg no HC n. 779.982/RS, rel. Min. Jesuíno Rissato, Sexta Turma, j. 11.03.2024, DJe 14.03.2024.
+VOTO
+O agravo regimental não merece provimento.
+Conforme consignado na decisão agravada, o writ foi impetrado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Com efeito, a condenação do paciente já transitou em julgado em 22 de agosto de 2022 (fl. 326).
+Os argumentos trazidos pelo agravante não são suficientes para modificar o entendimento externado na decisão impugnada.
+Inicialmente, cumpre destacar que, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Assim, descabe o conhecimento de habeas corpus impetrado contra sentença condenatória já transitada em julgado, exceto em casos excepcionais, quando claramente demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A jurisprudência desta Corte é pacífica no sentido de não conhecer habeas corpus que pretenda rediscutir os fundamentos de mérito de condenação com trânsito em julgado, por constituir inequívoca tentativa de utilização do writ como sucedâneo de revisão criminal.
+Quanto à alegação de que é cabível habeas corpus mesmo após o trânsito em julgado, com base no Informativo 892 da Segunda Turma do STF, cumpre salientar que, embora o Supremo Tribunal Federal tenha, em alguns julgados, admitido a impetração de habeas corpus mesmo após o trânsito em julgado, trata-se de situações excepcionais, nas quais foi identificada flagrante ilegalidade, o que não se verifica na hipótese dos autos.
+Com efeito, o que se pretende, na espécie, é a rediscussão de questões relacionadas à cadeia de custódia das provas, que já foram devidamente analisadas pelo Tribunal de origem na Revisão Criminal.
+Sobre o ponto, o Tribunal de Justiça do Estado de São Paulo destacou que a:
+"quebra da cadeia de custódia também não verificada. Alegação genérica, não apontando a defesa em que ponto houve a violação processual. Ausência de indícios de adulteração das provas, não vislumbrada manipulação ou violação do material desde a apreensão dos entorpecentes até a realização dos exames periciais. Formalidades atendidas. Preliminar rejeitada" (fl. 327).
+Registre-se, ademais, que esta Corte Superior entende, sob o prisma do princípio da lealdade processual e do respeito à coisa julgada (segurança jurídica), que mesmo em se tratando de uma suposta alegada nulidade absoluta, o habeas corpus não pode ser utilizado como uma segunda apelação criminal. Como destacado na decisão agravada:
+Conquanto diversos os acórdãos impugnados mas referentes à mesma ação penal, com idêntica solução jurídica - no sentido de que a revisão criminal não pode ser utilizada como segunda apelação (..), não se admitindo reexame da prova produzida nos autos -, não tem o condão de ensejar nova apreciação da questão por esta Corte, tampouco a simples existência de voto vencido acolhendo a tese recursal, já que o voto vencido não integra o acórdão. Precedentes. Outrossim, o acórdão recorrido está em conformidade com o entendimento desta Corte, firmado no sentido de que "o cabimento da revisão criminal ocorre em situações excepcionais, não se prestando a servir como uma segunda apelação, sob pena de relativizar sobremaneira a garantia da coisa julgada e da segurança jurídica" (AgRg no AREsp n. 1846669/SP, rel. Ministro Felix Fischer, Quinta Turma, julgado em 1º/6/2021, DJe 7/6/2021). Sequer nos casos de eventuais nulidades, absolutas ou relativas, "devem ser aduzidas em momento oportuno, além de demonstrado o prejuízo suportado pela parte" (AgRg no RHC n. 152.430/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/3/2022, DJe de 1º/4/2022)" (AgRg no HC n. 779.982/RS, Sexta Turma, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, julgado em 11/03/2024, DJe de 14/03/2024).
+Em suma, o agravante não apresentou argumentos suficientes para desconstituir os fundamentos da decisão impugnada, limitando-se a repisar as teses já refutadas, o que não é suficiente para modificar o entendimento externado na decisão agravada.
+Não se vislumbra, portanto, a excepcionalidade necessária para afastar o entendimento consolidado deste Superior Tribunal de Justiça acerca da impossibilidade de utilização do habeas corpus como sucedâneo de revisão criminal após o trânsito em julgado da condenação, nem tampouco flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
