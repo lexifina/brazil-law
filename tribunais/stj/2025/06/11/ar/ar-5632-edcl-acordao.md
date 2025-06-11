@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PENSÃO POR MORTE. PEDIDO RESCISÓRIO JULGADO IMPROCEDENTE. AGRAVO INTERNO NÃO CONHECIDO. INCIDÊNCIA DA SÚMULA N. 182/STJ. ALEGADAS CONTRADIÇÃO E OBSCURIDADE. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por VANDERLÉIA DOS SANTOS contra acórdão da Primeira Seção, relatado pela eminente Ministra Assusete Magalhães e assim ementado (fl. 206):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara Ação Rescisória ajuizada na vigência do CPC/73.
+II. A decisão ora agravada, reconhecendo a decadência do direito ao ajuizamento da Ação Rescisória, julgou improcedente o pedido, com resolução de mérito, nos termos do art. 354, c/c 487, II, do CPC/2015.
+III. O Agravo interno, porém, não impugna, específica e motivadamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+Alega a embargante que (fls. 223-224):
+ I nobstante a certidão juntada aos autos, que não restou aceita por esta Corte, um dos fundamentos da ação, são as novas provas e neste caso deve ser observado o prazo da descoberta da prova nova (testemunhal) devidamente informada e inclusive pleiteada na especificação de provas, portanto, a decisão foi obscura e contraditória nesse sentido e o agravo interno não poderia ter sido denegado, sem os devidos esclarecimentos.
+ ..
+A decisão prolatada efetivamente não esclarece que tipo de impugnação especifica ainda deseja e considera necessária para que seja reconhecido o marco inicial da decadência, a data da efetiva descoberta da prova testemunhal que seria comprovada nos autos e a qual foi devidamente especificada nos autos , inobstante a data do transito em jugado.
+Sem contrarrazões (fl. 232).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PENSÃO POR MORTE. PEDIDO RESCISÓRIO JULGADO IMPROCEDENTE. AGRAVO INTERNO NÃO CONHECIDO. INCIDÊNCIA DA SÚMULA N. 182/STJ. ALEGADAS CONTRADIÇÃO E OBSCURIDADE. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+O acórdão embargado não possui os vícios suscitados pela parte embargante, mas apresentou, com clareza e coerência, os fundamentos que justificaram a sua conclusão no sentido de não ter havido a impugnação concreta da motivação lançada na decisão que julgou improcedente a ação rescisória. Lê-se no acórdão embargado o seguinte (fls. 211-212):
+No presente Agravo interno, todavia, a parte recorrente não impugna, especificamente, os seguintes fundamentos da decisão agravada, suficientes para a manutenção do decisum: a) a certidão que se limita a atestar o fato de haver escoado o prazo para a interposição de recurso, sem, contudo, indicar a data em que efetivamente ocorreu o trânsito em julgado, não é suficie nte, por si só, para comprovar que a rescisória foi proposta dentro do prazo legal; b) os pressupostos processuais da Ação Rescisória, assim como as respectivas hipóteses de cabimento, devem ser examinados à luz da lei processual vigente ao tempo do trânsito em julgado da decisão rescindenda, em respeito ao instituto da coisa julgada.
+Com efeito, no Agravo interno, a parte agravante limita-se a sustentar que "restou juntada aos autos certidão do transito em julgado ocorrida em 05/06/2013, tendo sido a ação ajuizada efetivamente dentro dos dois anos contados do transito em julgado conforme disposto no artigo 975 do CPC". Quanto ao segundo fundamento, apenas afirma que "o artigo 966, VII, do CPC prevê que a decisão de mérito, transitada em julgado, pode ser rescindida quando "obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável"" e que, "nesse caso, portanto, ao contrário do decidido, o termo inicial do prazo será a data de DESCOBERTA da prova nova, observando o prazo máximo de 5 (cinco) anos, contado do trânsito em julgado, da última decisão proferida no processo".
+Com efeito, a parte agravante tem o ônus da impugnação específica dos fundamentos da decisão agravada. Não basta repetir as razões já expendidas, no recurso anterior, ou limitar-se a infirmar, genericamente, o decisum. É preciso que o Agravo interno impugne, dialogue, combata, enfim, demonstre o desacerto do que restou decidido.
+No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022 do CPC/2015. Nesse sentido:
+EMBARGOS DE DE CLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela entre proposições do próprio decisum. O descontentamento com a conclusão do julgado não dá ensejo à contradição prevista no art. 1.022, I, do CPC/2015.
+3. O recurso aclaratório não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.469.545/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. AUSÊNCIA. MULTA POR MANIFESTA INADMISSIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o vício de contradição alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Apesar de o agravo interno questionar decisão fundada em julgamento repetitivo, não está presente o caráter manifestamente improcedente do recurso a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015, pois o decidido no Tema 1.076/STJ foi objeto de recurso extraordinário já admitido como representativo da controvérsia pelo STF.
+4. Embargos de declaração parcialmente acolhidos para retirar a multa imposta, sem conferir efeitos modificativos ao julgado. (EDcl no AgInt no AREsp n. 2.027.989/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
