@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE AMARO CARVALHO, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 104):
+AGRAVO DE INSTRUMENTO. TEMA 810. ÍNDICES APLICADOS NO JULGADO. COISA JULGADA.
+1. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação de índices, que se aplicam conforme a pertinente incidência ao período compreendido na condenação.
+2. A pretensão esbarra na preclusão temporal: perda do poder processual em razão do seu não exercício no momento oportuno (a perda do prazo é inércia que implica preclusão).
+Os embargos de declaração opostos foram rejeitados (fls. 130-132).
+Em juízo de retratação, os acórdãos foram mantidos (fls. 193-198).
+Em seu recurso especial, alega o recorrente violação aos artigos 189 do Código Civil e 223; 525, § 15; 927, inciso III; e 982, todos do Código de Processo Civil.
+Sustenta que o direito às diferenças buscadas pela parte autora só surgiram com o julgamento do Tema nº 810 pelo STF, não podendo a parte ser prejudicada pela demora no julgamento de um recurso no Tribunal Superior.
+Defende que "é incontroverso que o acórdão da apelação, transitado em julgado, postergou para a fase de cumprimento de sentença, sem nenhum tipo de limitação temporal, a apuração de eventuais diferenças porventura apuradas, após a decisão definitiva do Supremo Tribunal Federal em relação ao Tema 810. O recorrente só poderia requerer sua apuração, como de fato fez, após o trânsito em julgado da decisão exarada no RE 870.947. Logo, mostra-se absolutamente infundada e indevida a negativa oposta pelo TRF-4, fundamentada na extinção do cumprimento de sentença, sem que a parte tivesse se insurgido oportunamente" (fl. 171).
+Requer o provimento do recurso para que seja determinado o prosseguimento da execução pretendida junto ao juízo de primeiro grau, com a consequente condenação do INSS ao pagamento de honorários de sucumbência na fase da execução.
+É o relatório.
+O recurso especial não deve ser conhecido.
+Em relação à alegada violação aos artigos 189 do Código Civil e 223; 525, § 15; 927, inciso III; e 982, todos do Código de Processo Civil, denota-se que referidas normas não foram expressamente interpretadas pela Corte de origem, padecendo, portanto, do indispensável prequestionamento.
+Assim, tem-se que perquirir nessa via estreita sobre a violação das aludidas normas, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+No caso, a despeito da oposição de embargos de declaração, a Corte local não analisou a questão, ainda que implicitamente, sob o enfoque dos mencionados artigos, carecendo o recurso especial do requisito do prequestionamento, nos termos do enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De fato, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, situação essa inocorrente in casu.
+Confiram-se, nesse sentido, os precedentes da Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECUCRSO ESPECIAL. MANDADO DE SEGURANÇA. CONTROLE DE COMPETÊNCIA DO JUÍZADOS ESPECIAIS. DECADÊNCIA AFASTADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.533.370/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MUNICÍPIO DE CAPINZAL CONDENADO EM DEMANDA INDENIZATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA APONTADA COMO PARADIGMA. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. No caso, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284/STF.
+2. A tese do recurso especial não foi objeto de análise, a despeito da oposição de embargos de declaração, sob o viés pretendido pela agravante, pelo Tribunal de origem. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211/STJ.
+3. A jurisprudência desta Corte firmou-se no sentido de que que as decisões monocráticas não servem como paradigmas à comprovação de dissídio jurisprudencial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.930.521/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Ademais, a jurisprudência desta Corte Superior firmou-se no sentido de que "a admissão do prequestionamento ficto, previsto no art. 1.025 do Código de Processo Civil (CPC), exige não apenas a oposição dos embargos de declaração na Corte de origem, como também a indicação, no recurso especial, da ofensa ao art. 1.022 do CPC, especificamente quanto à questão
+que se pretende ver analisada, o que não ocorreu no presente caso" (AgInt no AREsp n. 1.944.716/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025).
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem não apreciou a tese suscitada pelo recorrente sob o enfoque trazido no recurso especial, o que atrai a incidência da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+2. O recurso especial não suscitou a violação do art. 1.022 do Código de Processo Civil, inviabilizando o reconhecimento de eventual omissão por parte da Corte de origem. Tal alegação seria essencial para a configuração do prequestionamento ficto em matéria estritamente de direito, nos termos do art. 1.025 do CPC.
+3. O Superior Tribunal de Justiça possui o entendimento de que mesmo nos casos em que a suposta ofensa à lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que a Corte de origem se manifeste sobre o tema a ser veiculado no recurso especial, ainda que se cuide matéria de ordem pública. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.767.947/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+De mais a mais, os artigos indicados como violados nas razões do apelo especial não possuem comando normativo suficiente para amparar a pretensão recursal e infirmar a fundamentação do acórdão recorrido, o que faz incidir na espécie, por analogia, o enunciado n. 284 da Súmula do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EMBARGOS NÃO CONHECIDOS. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO NÃO EXAMINADA SOB O ENFOQUE PRETENDIDO. SÚMULAS 282/STF E 211/STJ. IMPOSSIBILIDADE DE DISPENSA DO PREQUESTIONAMENTO. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. No que se refere à violação do art. 1.022 do CPC/2015, verifica-se não estar configurada a omissão no julgado proferido na origem. Isso porque a alegação de omissões no julgamento do recurso de apelação não foi analisada, pois os embargos de declaração nem sequer foram conhecidos, uma vez que o Tribunal de origem concluiu não estarem presentes os requisitos necessários para a oposição dos aclaratórios, nos termos do art. 1.023 do CPC/2015.
+2. No tocante à aventada violação aos arts. 508 do CPC e 884 do CC, verifica-se que os conteúdos normativos dos citados dispositivos não foram objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência das Súmulas 282 do STF e 211 do STJ, não sendo caso de prequestionamento ficto ou implícito.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, constata-se deficiência na argumentação quando o dispositivo legal citado não possui comando normativo suficiente para embasar a tese defendida no recurso especial.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.818.674/AL, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+Nessa mesma linha, em casos análogos: REsp n. 2.175.822, Ministro Paulo Sérgio Domingues, DJEN de 23/04/2025; REsp n. 2.189.346, Ministra Regina Helena Costa, DJEN de 05/02/2025; REsp n. 2.181.656, Ministro Afrânio Vilela, DJEN de 05/02/2025; REsp n. 2.180.303, Ministro Teodoro Silva Santos, DJEN de 03/12/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ÍNDICES APLICADOS NO JULGADO. COISA JULGADA. ALEGADA VIOLAÇÃO AOS ARTS. 189 DO CC E 223; 525, § 15; 927, III; E 982, TODOS DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ . DISPOSITIVOS QUE NÃO POSSUEM COMANDO NORMATIVO SUFICIENTE PARA AMPARAR A PRETENSÃO RECURSAL E INFIRMAR A FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO .
