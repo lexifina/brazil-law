@@ -1,0 +1,45 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/04/2025.
+Concluso ao gabinete em: 28/05/2025.
+Ação: revisional de contrato bancário, ajuizada pela agravada em face da agravante, na qual alega ter celebrado contrato de empréstimo pessoal junto à agravante e que, no decorrer da avença, houve excesso na cobrança de juros remuneratórios. Pleiteia a revisão do contrato descrito na inicial.
+Sentença: julgou parcialmente procedentes os pedidos, para o fim de limitar os juros remuneratórios dos contratos de empréstimos pessoais à taxa média de mercado à época da contratação, condenando a parte ré à devolução dos valores cobrados em excesso, subtraindo-os, se for o caso, das parcelas vincendas, com a repetição simples do indébito caso exista crédito em favor da parte autora após a compensação dos valores. (e-STJ fls. 662-670).
+Acórdão: deu provimento à apelação interposta pela agravada e, negou provimento à apelação da parte agravante, nos termos da seguinte ementa (e-STJ fl. 808):
+APELAÇÃO. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE: LIMITOU OS JUROS REMUNERATÓRIOS MENSAIS ÀS MÉDIAS DE MERCADO DIVULGADAS PELO BACEN; E DETERMINOU A COMPENSAÇÃO/REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES.
+RECURSO DO POLO AUTOR.
+REQUERIDA COMPLEMENTAÇÃO DA SENTENÇA NO TOCANTE AO PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS ANUAIS NOS PACTOS NS. 32380030803, 32380032172, 95010478150, 95010398243 E 32380029415. DEERIMENTO. SENTENÇA OMISSA NO PONTO. APRECIAÇÃO QUE SE FAZ POSSÍVEL COM AMPARO NO ART. 1.013, § 3º, DO CPC.
+PRETENDIDA LIMITAÇÃO DOS JUROS REMUNERATÓRIOS ANUAIS. ACOLHIMENTO. TAXAS PACTUADAS QUE, NA HIPÓTESE, SE REVELAM EXCESSIVAMENTE SUPERIORES ÀS MÉDIAS DE MERCADO.
+ALMEJADA DESCARACTERIZAÇÃO DA MORA. POSSIBILIDADE. EXISTÊNCIA DE ABUSIVIDADE EM ENCARGO DO PERÍODO DA NORMALIDADE (JUROS REMUNERATÓRIOS). REQUISITO PARA DESCONFIGURAR A MORA PREENCHIDO.
+POSTULADA INCIDÊNCIA DA CORREÇÃO MONETÁRIA A PARTIR DE CADA DESEMBOLSO E DE JUROS DE MORA A CONTAR DA CITAÇÃO. DEFERIMENTO DO PLEITO QUE SE OPERA, DE MODO A SEGUIR O ENTENDIMENTO PERFILHADO NESTA CASA, ESTIPULANDO, DE OFÍCIO, PORQUANTO NÃO DEFINIDOS PELA SENTENÇA, OS ÍNDICES E JUROS INCIDENTES.
+APELO CONHECIDO E PROVIDO.
+Embargos de Declaração: opostos pela parte agravada foram acolhidos, e quanto aos opostos pela parte agravante foram rejeitados , nos termos da seguinte ementa (e-STJ fl. 857):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. AÇÃO REVISIONAL. ACÓRDÃO QUE, DENTRE OUTROS ASPECTOS: MANTEVE A LIMITAÇÃO DE JUROS REMUNERATÓRIOS MENSAIS EFETIVADA NA ORIGEM; COMPLEMENTOU A DECISÃO NO TOCANTE AO PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS ANUAIS NOS PACTOS NS. 32380030803, 32380032172, 95010478150, 95010398243 E 32380029415; E ACOLHEU PLEITO DA AUTORA DE LIMITAÇÃO DOS ENCARGOS ANUAIS.
+ACLARATÓRIOS DA CASA BANCÁRIA.
+ALEGADA EXISTÊNCIA DE EQUÍVOCO NO JULGADO QUANTO À CONCLUSÃO DE ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. SUSTENTADA IMPOSSIBILIDADE DE EMPREGO DAS MÉDIAS DE MERCADO REFERENTES ÀS "OPERAÇÕES DE CRÉDITO COM RECURSOS LIVRES - PESSOAS FÍSICAS - CRÉDITO PESSOAL NÃO CONSIGNADO VINCULADO À COMPOSIÇÃO DE DÍVIDAS", UMA VEZ QUE, NOS AJUSTES QUE RENEGOCIARAM DÍVIDAS, HOUVE DISPONIBILIZAÇÃO DE QUANTIA RESIDUAL AO POLO AUTOR. EIVA NÃO OCORRENTE. JULGAMENTO DEVIDAMENTE FUNDAMENTADO, VALENDO DESTACAR QUE: A COMPLEMENTAÇÃO DE ANÁLISE EFETUADA EM RELAÇÃO AOS PACTOS QUE NÃO TIVERAM O EXAME DO PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS ANUAIS PELA SENTENÇA, ADEMAIS, NÃO ADOTOU O SERIAMENTO REFERENTE A COMPOSIÇÃO DE DÍVIDAS; E QUE FORAM CONSERVADAS IRRETOCADAS AS APRECIAÇÕES REALIZADAS PELA ORIGEM NO TOCANTE AOS TIPOS DE SÉRIES TEMPORIAIS UTILIZADOS PARA AS MÉDIAS MENSAIS, O QUE ERA MEDIDA A SE IMPOR, ANTE A NÃO INTERPOSIÇÃO DE RECURSO DE APELAÇÃO PELA PARTE ORA EMBARGANTE. MANIFESTO PROPÓSITO DE REDISCUSSÃO DO DECIDIDO. DESCABIMENTO. INADEQUAÇÃO DA VIA ELEITA PARA O DESIDERATO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Recurso especial: alega violação do artigo 421 do CC, bem como dissídio jurisprudencial. Sustenta inexistir abusividade nos juros remuneratórios previstos no contrato celebrado entre as partes. Afirma que o provimento do pedido de revisão contratual apenas com base na taxa média de mercado, invalida ato jurídico perfeito. Argumenta que o Tribunal de origem reconheceu a abusividade dos juros remuneratórios mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, estando ausente análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS, bem como no REsp nº 1.821.182/RS. Aduz que o Poder Judiciário precisa, ao menos, utilizar-se de parâmetros adequados para aferir ou não a configuração de abusividade da taxa de juros remuneratórios praticada em contrato, circunstância essa que incontroversamente não restou configurada nos presentes autos. Pugna ainda pela concessão de efeito suspensivo ao recurso especial, nos termos do art. 1.029, § 5º, do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 421 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 421 do CC, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à existência de abusividade na taxa de juros remuneratórios prevista no contrato celebrado entre as partes, exige o reexame de fatos e provas, assim como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Julgo prejudicado o pedido de concessão de efeito suspensivo ao presente recurso.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284 /STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE. SÚMULA 7 DO STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. SEM MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo conhecido. Recurso especial não conhecido, sem majoração de honorários.
