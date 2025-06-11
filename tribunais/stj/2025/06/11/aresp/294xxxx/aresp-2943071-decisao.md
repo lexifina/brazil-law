@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ e negou-lhe seguimento em razão do Tema n. 27 do STJ (juros remuneratórios).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Aduz que a questão, cujo seguimento foi negado em razão da aplicação de entendimento firmado em julgamento de recurso especial repetitivo, foi impugnada devidamente por agravo interno no Tribunal de origem e que, por isso, o agravo em recurso especial restringe-se à impugnação da questão que é de competência do Superior Tribunal de Justiça.
+O recurso especial com fundamento no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação revisional de contrato bancário.
+O julgado foi assim ementado (fls. 497-498):
+AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO BANCÁRIO. 1. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA PERICIAL PRESCINDÍVEL AO DESLINDE DA CAUSA. 2. ALEGADA NULIDADE DA SENTENÇA. INOCORRÊNCIA. SENTENÇA QUE CONTÉM FUNDAMENTAÇÃO SUFICIENTE PARA SUSTENTAR SUA CONCLUSÃO, NÃO SE AFASTANDO DO PEDIDO, DA CAUSA DE PEDIR E DO QUE FOI DEBATIDO NO PROCESSO. 3. INTIMAÇÃO PESSOAL DA PARTE AUTORA. DESNECESSIDADE. 4. JUROS REMUNERATÓRIOS. LIMITAÇÃO NOS CONTRATOS EM QUE DEMONSTRADA COBRANÇA SUPERIOR AO TRIPLO DA TAXA MÉDIA DE MERCADO. POSSIBILIDADE. ABUSIVIDADE COMPROVADA NO CASO CONCRETO. 5. REPETIÇÃO/COMPENSAÇÃO DO INDÉBITO DE FORMA SIMPLES. CABIMENTO. COBRANÇA INDEVIDA. 6. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PRETENSÃO DE FIXAÇÃO DA VERBA DE ACORDO COM O DISPOSTO NO ART. 85, § 8º, DO CPC. INAPLICABILIDADE. 7. MULTA POR ATO PROTELATÓRIO. NÃO CONFIGURAÇÃO. AFASTAMENTO. REFORMA PARCIAL DA SENTENÇA NESTA PARTE, MAS SEM ALTERAÇÃO DO ÔNUS DE SUCUMBÊNCIA. 8. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. O julgamento antecipado da lide não caracteriza cerceamento de defesa na hipótese em que as provas requeridas são irrelevantes para a solução das controvérsias contidas na ação.
+2. Conquanto a falta de fundamentação acarrete na nulidade absoluta da sentença, o fato é que aquela proferida nos autos está suficientemente fundamentada, pois, além de conter motivação suficiente para a sua conclusão, não se afasta do pedido, da causa de pedir e, tampouco, das questões debatidas no processo.
+3. Descabida a pretensão de intimação pessoal da parte pra manifestar ciência da ação e interesse na causa, considerando a existência de procuração devidamente assinada que instruiu a inicial.
+4. Aplica-se a taxa média de mercado somente quando demonstrada a abusividade daquela adotada pelo banco. Havendo prova nesse sentido, deve ser limitada à média de mercado, nos contratos em que demonstrada a cobrança superior ao triplo da taxa média de mercado, consoante jurisprudência proferida em sede de recurso repetitivo.
+5. A repetição do indébito é possível se verificada a cobrança de encargos ilegais, tendo em vista o princípio que veda o enriquecimento sem causa do credor, cabendo compensação com eventual saldo devedor.
+6. A fixação equitativa (art. 85, § 8º, do CPC) apenas se justifica nas causas em que for inestimável ou irrisório o proveito econômico obtido, o que não ocorre no caso em tela.
+7. Independentemente do grau de certeza acerca das teses jurídicas em discussão, a conduta da recorrente está respaldada pelo legítimo exercício do direito de recorrer por força do princípio do duplo grau de jurisdição, sem que se possa caracterizar o inconformismo da parte como conduta protelatória.
+8. Incabível a majoração da verba honorária em grau recursal prevista no art. 85, § 11, do CPC, se um dos requisitos necessários fixados pelo STJ não foi preenchido: o não conhecimento integral ou o desprovimento do recurso.
+Apelação civil provida em parte.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 355, I e II, e 356, I e II, do CPC, porque houve cerceamento de defesa ao não se permitir a produção de prova pericial para demonstrar o perfil de risco do cliente, tendo em vista as particularidades da operação de crédito concedido à parte autora; e
+b) 421 do Código Civil, visto que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto.
+Sustenta que os contratos são plenamente válidos, tratando-se de atos jurídicos perfeitos, por isso constituem lei entre as partes, razão pela qual é descabida sua invalidação.
+Argumenta que o Tribunal de origem reconheceu a abusividade dos juros remuneratórios mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, ausente análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso e a inversão dos ônus de sucumbência caso a demanda seja provida.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a ação de revisão de contrato bancário em que o valor da causa foi fixado em R$ 598,60.
+A controvérsia está assentada na forma de aferição da abusividade dos juros remuneratórios.
+Inicialmente, em relação à parte do recurso que teve seguimento negado (juros remuneratórios), considerando as disposições do art. 1.030, I, b, c/c o § 2º, é importante esclarecer que o conhecimento do apelo extremo por esta Corte fica restrito à análise da matéria inadmitida pelo Tribunal de origem.
+Em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+I - Violação dos arts. 355, I e II, e 356, I e II, do CPC
+A agravante afirma que houve cerceamento de defesa ao não se permitir a produção de prova pericial, tendo em vista as particularidades da operação de crédito concedido à parte autora.
+A Corte estadual entendeu que o feito está devidamente instruído e refuta a produção de provas adicionais, que considera desnecessárias, por se tratar de matérias de fato ou de direito já comprovadas documentalmente. Observe-se (fl. 499):
+Sustenta o requerido neste tópico a nulidade da sentença por cerceamento de defesa, diante do óbice à produção de provas imposto pelo julgamento antecipado da lide.
+No entanto, razão não lhe assiste.
+Conforme o artigo 335, I, do Código de Processo Civil, o julgamento antecipado da lide é cabível quando a questão de mérito abranger matéria de direito e de fato, desde que a prova já produzida seja apta a esclarecer os pontos controvertidos da causa.
+No caso, em que pesem as alegações deduzidas pelo requerido, constata-se que a demanda versa sobre questões essencialmente de direito. E ainda que não se entendesse dessa forma, não haveria necessidade de dilação probatória, na medida em que os contratos de empréstimo pessoal firmados (mov. 15.6 e 15.7) possuem a descrição pormenorizada dos encargos questionados.
+Assim, cabível o julgamento antecipado da lide diante da desnecessidade de produção de prova pericial para a comprovação das alegações da petição inicial.
+Assim, para alterar o entendimento do aresto impugnado sobre a suficiência dos documentos juntados aos autos para esclarecimento das questões fáticas, seria imprescindível a incursão no acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ. A propósito: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+II - Pe dido de concessão de efeito suspensivo
+Conforme entendimento do STJ, "havendo manifestação superveniente do órgão julgador sobre o tema, não subsiste o pedido de tutela provisória que pretendia conceder efeito suspensivo ao recurso já julgado" (AgInt no AREsp n. 2.298.991/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial. Julgo prejudicado o pedido de concessão de efeito suspensivo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
