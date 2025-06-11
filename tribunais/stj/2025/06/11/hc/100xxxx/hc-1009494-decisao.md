@@ -1,0 +1,9 @@
+DECISÃO
+Pelo exame dos autos, o presente writ não merece ser conhecido.
+Isso porque a impetrante não se desincumbiu do ônus de instruir adequadamente o habeas corpus com a cópia da decisão que converteu a prisão temporária em preventiva - visto que o indeferimento da revogação da custódia cautelar faz menção à higidez dos argumentos lançados no respectivo decisum -, bem como a folha de antecedentes criminais da ora paciente e a documentação comprobatória de suas condições pessoais favoráveis (tais como comprovantes de residência fixa e ocupação lícita), peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução à impetrante, em especial, quando se tratar de advogado. Nesse sentido: AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019; EDcl no HC n. 504.490/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/8/2019; AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 512.017/SP, da minha relatoria, Sexta Turma, DJe 2/8/2019.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 157, CAPUT, § 3º, II, C/C O ART. 61, II, ALÍNEA D, AMBOS DO CP, C/C O ART. 1º, II, ALÍNEA C, DA LEI N. 8.072/1990. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À IMPETRANTE.
+Writ não conhecido.
