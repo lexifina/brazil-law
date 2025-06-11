@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. É inadmissível o especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, nos termos da Súmula n. 83 desta Corte, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+III. Dispositivo
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 856-869) interposto contra decisão desta relatoria (fls. 849-852) que negou provimento ao agravo em recurso especial.
+Em suas razões, a parte argumenta com a inaplicabilidade da Súmula n. 83 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (fls. 873-876).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. É inadmissível o especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, nos termos da Súmula n. 83 desta Corte, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+III. Dispositivo
+3. Agravo interno desprovido.
+VOTO
+A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 849-852):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 83 do STJ e 284 do STF (e-STJ fls. 772/778).
+O Tribunal de origem deu provimento à apelação do recorrido, em julgado que recebeu a seguinte ementa (e-STJ fls. 600/601):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - RECUPERANDA E COOBRIGADOS - EXTINÇÃO - AUSÊNCIA DE INTERESSE PROCESSUAL - CRÉDITO QUIROGRAFÁRIO - HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL - CLÁUSULA DE EXTENSÃO DA NOVAÇÃO AOS COOBRIGADOS - VÁLIDA E OPONÍVEL SOMENTE AOS CREDORES ANUENTES - ART. 49, § 1º, LEI 11.101/2005 - AFASTAMENTO - IMPOSSIBILIDADE - EXTINÇÃO DA AÇÃO EM RELAÇÃO A DEVEDORA PRINCIPAL QUE TEVE O PLANO DE RECUPERAÇÃO APROVADO E HOMOLOGADO - PROSSEGUIMENTO DA DEMANDA EM RELAÇÃO AOS DEVEDORES SOLIDÁRIOS/COOBRIGADOS NÃO ANUENTES - SENTENÇA PARCIALMENTE REFORMADA - RECURSO PROVIDO.
+A cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias e que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que se abstiveram de votar ou se posicionaram contra tal disposição, como manifestado pelo autor.
+Os embargos de declaração foram rejeitados (e-STJ fls. 840/844).
+No recurso especial (e-STJ fls. 674/704), com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes apontaram ofensa aos arts. 45, 47, 49, § 2º, e 59 da Lei n. 11.101/2005, defendendo que, "sendo aprovada pela maioria dos credores exigida em Assembleia,  .. , as cláusulas do plano que preveem a supressão das garantias fidejussórias prestadas pelos sócios são absolutamente válidas, independentemente se determinados credores votaram ou não foram presentes no conclave" (e-STJ fl. 684).
+Foram oferecidas contrarrazões (e-STJ fls. 763/771).
+No agravo (e-STJ fls. 781/788), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 795/806).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Cuida-se de ação de cobrança de cobrança ajuizada pelo Banco do Brasil S.A. contra Comércio de Combustível Ipanema Ltda., na qualidade de devedora principal e na de avalistas Antonio Carlos Felito, Neide Monfernatti Felito e Carla Adriana Felito.
+Em contestação, os requeridos, ora recorrentes, alegaram a inexigibilidade do débito em razão de se encontrar sujeito aos efeitos da recuperação judicial promovida pela devedora principal.
+Na impugnação à contestação, o banco credor, ora recorrido, alegou que a recuperação judicial da devedora principal não impede o prosseguimento das execuções ou ações ajuizadas contra coobrigados em geral.
+O Magistrado de piso entendeu que com a aprovação do plano de recuperação judicial da devedora principal, houve concordância com seus termos, de sorte a renunciar ao direito de continuação das ações não só em relação a devedora principal, mas, também, em relação aos garantidores da dívida, em particular, em razão de cláusula do plano que prevê a exclusão das garantias e extinção das ações e execuções em face da devedora e dos coobrigados.
+O TJMT deu provimento à apelação do banco ora recorrido consignando que a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias e que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva. Concluiu assim que referida cláusula não é eficaz em relação aos credores que se posicionaram contra tal disposição, como manifestado pelo autor, ora recorrido.
+Tal posicionamento está em consonância com o entendimento desta Corte, que entende que "a cláusula que estende a novação aos coobrigados seria apenas legítima e oponível aos credores que aprovarem o plano de recuperação sem nenhuma ressalva, não sendo eficaz, portanto, no tocante aos credores que não se fizeram presentes quando da assembleia geral de credores, abstiveram-se de votar ou se posicionaram contra tal disposição" (REsp n. 1.794.209/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/5/2021, DJe de 29/6/2021).
+Confiram-se ainda as seguintes ementas:
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA GARANTIA SEM ANUÊNCIA DO CREDOR. MANUTENÇÃO DA EXECUÇÃO PROMOVIDA EM FACE DO AVALISTA. POSSIBILIDADE. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.333.349/SP, submetido ao rito dos recursos repetitivos, consolidou o entendimento de que a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005.
+2. Outrossim, a jurisprudência desta Corte se firmou no sentido de que a "cláusula que amplia os efeitos da novação aos coobrigados é válida e oponível somente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não tendo efeito sobre os credores ausentes na Assembleia Geral, tampouco em relação aos que se abstiveram de votar ou se opuseram a essa disposição" (REsp 1.830.550/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 23/4/2024, DJe de 30/4/2024).
+3. Sob pena de esvaziamento da conservação, pelo credor, de direitos e privilégios em relação aos coobrigados, a anuência do titular da garantia é indispensável também na hipótese em que o plano de recuperação judicial prevê a suspensão ou substituição (REsp 2.059.464/RS, Relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, j. em 17/10/2023, DJe de 14/11/2023).
+ ..
+5. Agravo interno provido. Recurso especial provido.
+(AgInt no REsp n. 1.940.442/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/11/2024, DJEN de 29/11/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NOVAÇÃO. EXTENSÃO AOS COOBRIGADOS. CLÁUSULA QUE ESTABELECE SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. PRECEDENTES. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme definido pela Segunda Seção do Superior Tribunal de Justiça, "a anuência do titular de garantia, real ou fidejussória, é indispensável para que o plano de recuperação judicial possa estabelecer sua supressão ou substituição (REsp 1.794.209/SP, DJe 29/6/2021). Para o colegiado, a cláusula supressiva apenas gera efeitos aos credores que aprovaram o plano de recuperação sem ressalvas quanto a ela, não sendo eficaz, portanto, em relação àqueles que não participaram da assembleia, que se abstiveram de votar ou que se posicionaram contra tal disposição" (AgInt no CC n. 194.221/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/6/2023, DJe de 22/6/2023).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.088.277/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Incide a Súmula n. 83 do STJ no caso em apreço.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+No que respeita à tese de que é válida a cláusula do plano de recuperação judicial que estende a novação aos coobrigados, consoante entendimento firmado pela Segunda Seção do Superior Tribunal de Justiça, e de ambas as turmas que a compõe, "a anuência do titular de garantia, real ou fidejussória, é indispensável para que o plano de recuperação judicial possa estabelecer sua supressão ou substituição (REsp 1.794.209/SP, DJe 29/6/2021). Para o colegiado, a cláusula supressiva apenas gera efeitos aos credores que aprovaram o plano de recuperação sem ressalvas quanto a ela, não sendo eficaz, portanto, em relação àqueles que não participaram da assembleia, que se abstiveram de votar ou que se posicionaram contra tal disposição" (AgInt no CC n. 194.221/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/6/2023, DJe de 22/6/2023).
+Confiram-se ainda as seguintes ementas:
+CIVIL. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADITIVO SUPERVENIENTE NO PRJ. IRRELEVÂNCIA AO DESLINDE DA CAUSA. MATÉRIA QUE, ADEMAIS, CONSTITUI INOVAÇÃO RECURSAL BASEADA EM FATO NOVO. NÃO CABIMENTO. SÚMULA 7/STJ. INCIDÊNCIA APENAS QUANTO A AFERIÇÃO DA POSSIBILIDADE DE CUMPRIMENTO DO PLANO SEM A ESPECÍFICA EFICÁCIA DA CLÁUSULA EM RELAÇÃO À CREDORA. SUSPENSÃO DA EXIGIBILIDADE DE CRÉDITOS CONTRA COOBRIGADOS, GARANTIDORES, AVALISTAS E FIADORES. ANUÊNCIA EXPRESSA DA CREDORA. AUSÊNCIA. VIOLAÇÃO AOS ARTS. 49, §1º, 50, §§ 1º E 2º, E 59 DA LEI N. 11.101/2005. PRECEDENTES. RECURSO ESPECIAL PROVIDO EM PARTE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A suspensão das garantias fidejussórias e créditos contra coobrigados exige anuência expressa do credor, conforme o disposto nos arts. 49, § 1º, 50, §§ 1º e 2º, e 59 da Lei n. 11.101/2005, sendo ineficaz a cláusula imposta unilateralmente contra credores dissidentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.859.659/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO EM FAVOR DE TERCEIROS COOBRIGADOS. CLÁUSULA DO PLANO DE RECUPERAÇÃO. NECESSIDADE DE NOVO JULGAMENTO DA CONTROVÉRSIA, EM SEGUNDO GRAU. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. "A cláusula que amplia os efeitos da novação aos coobrigados é válida e oponível somente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não tendo efeito sobre os credores ausentes na Assembleia Geral, tampouco em relação aos que se abstiveram de votar ou se opuseram a essa disposição" (REsp 1.830.550/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+ ..
+3. Agravo interno provido para, em novo julgamento, dar parcial provimento ao recurso especial.
+(AgInt no REsp n. 2.146.215/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024.)
+Incide no caso a Súmula n. 83 do STJ, aplicável aos recursos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar a conclusão da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
