@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DO SEU DIREITO. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, é cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp 2.088.955/BA, Relator Ministro RICARDO VILAS BÔAS CUEVA, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+3. Modificar as conclusões do acórdão recorrido quanto à comprovação da condição de pescador e à existência de nexo causal requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ LUIZ DE ALBUQUERQUE SOARES contra decisão monocrática proferida por esta Relatoria (e-STJ, fls. 838/840), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões recursais, a parte agravante sustenta, em síntese, que: a) é necessária a inversão dos ônus da prova; b) devem ser levados em consideração os documentos apresentados como meios de prova da condição de pescador; c) são inaplicáveis as Súmulas 7/STJ e 282 e 356/STF.
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls. 854/895).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DO SEU DIREITO. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, é cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp 2.088.955/BA, Relator Ministro RICARDO VILAS BÔAS CUEVA, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+3. Modificar as conclusões do acórdão recorrido quanto à comprovação da condição de pescador e à existência de nexo causal requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Cabe examinar, no presente agravo interno, tão somente a parte impugnada da decisão hostilizada, permanecendo incólumes os fundamentos não refutados pela parte agravante.
+As razões recursais não são suficientes para infirmar a decisão ora agravada, que deve, por conseguinte, ser mantida por seus próprios fundamentos.
+Conforme mencionado na decisão agravada, no que tange à alegada violação dos arts. 3º, 4º e 14 da Lei 6.938/81, tem-se, no ponto, inviável o debate. Isso, porque não se vislumbra o efetivo prequestionamento do teor dos dispositivos legais citados, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Súmulas 282 e 356 do STF). Por oportuno, cita-se o seguinte julgado:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe de 1º/08/2014)
+Avançando, impende consignar que, nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, é cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp 2.088.955/BA, Relator Ministro RICARDO VILAS BÔAS CUEVA, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+No caso, as conclusões do Colegiado local - acerca da inversão do ônus da prova, da ausência de comprovação da condição de pescador e do nexo causal - decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado:
+"Mesmo sob ótica das normas do Código do Consumidor, a inversão do ônus da prova em ação coletiva de direito ambiental não é automática.
+Necessária a prova de legitimidade e do prejuízo de forma particularizada, do exercício da atividade produtiva, do dano e do nexo de causalidade.
+Portanto, a simples possibilidade de inversão do ônus da prova não desincumbe a parte autora de fazer prova mínima dos fatos constitutivos do seu direito, segundo a regra geral estabelecida pelo artigo 373, I do CPC.
+No caso dos autos, o Agravante não é hipossuficiente para fazer prova de sua própria atividade profissional, de sua condição de pescador, sendo certo que é quem está mais próximo de seus registros profissionais, detendo a maior capacidade e as melhores condições de obter a documentação necessária para comprovar sua atividade de pescador." (e-STJ, fls. 413/414, g.n)
+Nesse contexto, para se entender de forma diferente e acolher a pretensão recursal, seria necessário o revolvimento dos elementos fático-probatórios dos autos, o que atrai o óbice da Súmula 7 desta Corte. A propósito:
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SÚMULA 618/STJ. INVERSÃO DO ÔNUS DA PROVA. ANÁLISE DOS REQUISITOS .REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A aplicação da inversão do ônus da prova nas ações de degradação ambiental, nos termos do enunciado sumular n. 618 do STJ, não é automática e impositiva, devendo as instâncias ordinárias analisar os requisitos da redistribuição dos encargos probatórios.
+3. No caso, o Tribunal de origem concluiu pela ausência de elementos autorizadores da inversão do ônus probatório com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.638.879/MT, relator Ministro GURGEL DE FARIA, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DE SEU DIREITO. NEXO CAUSAL. PROVA MÍNIMA. SÚMULA N. 83/STJ. CONDIÇÃO DE PESCADOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos. (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+2. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ.
+Incidência da Súmula n. 83 do STJ.
+3. Modificar as conclusões do acórdão recorrido quanto à comprovação da condição de pescadora e a existência de nexo causal requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.816.896/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Com essas considerações, o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
