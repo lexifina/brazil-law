@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL CONTRA DECISÃO QUE CONCEDEU A ORDEM. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CASO CONCRETO. DELITO NÃO ULTRAPASSA A NORMALIDADE DO TIPO PENAL. RÉ PRIMÁRIA E SEM ANTECEDENTES CRIMINAIS. PACIENTE MÃE. CONDUTA ILÍCITA SUPOSTAMENTE COMETIDA SEM VIOLÊNCIA OU GRAVE AMEAÇA. DESPROPORCIONALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS. SUFICIÊNCIA. PRECEDENTES. COAÇÃO ILEGAL DEMONSTRADA.
+Agravo regimental improvido
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão, por mim proferida, na qual concedi a ordem de habeas corpus, conforme os fundamentos a seguir (fl. 58):
+De fato, verifico a existência do alegado constrangimento. Ora, conforme disposto no art. 312 do Código de Processo Penal, além da prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão deve ser justificada em um dos seus requisitos (como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal).
+A custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seu decisium a fatores reais de cautelaridade, o que não ocorreu na espécie, com relação à paciente, conforme se verifica da decisão que converteu a prisão em flagrante em preventiva (fls. 19/25) e do acórdão impugnado (fls. 34/41).
+Como razões do agravo regimental, alega-se, em síntese, que a prisão preventiva se mostra necessária no caso em concreto, diante do risco de reiteração, possível exposição dos filhos ao tráfico de drogas e envolvimento da paciente com organização criminosa (fls. 66/78).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL CONTRA DECISÃO QUE CONCEDEU A ORDEM. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CASO CONCRETO. DELITO NÃO ULTRAPASSA A NORMALIDADE DO TIPO PENAL. RÉ PRIMÁRIA E SEM ANTECEDENTES CRIMINAIS. PACIENTE MÃE. CONDUTA ILÍCITA SUPOSTAMENTE COMETIDA SEM VIOLÊNCIA OU GRAVE AMEAÇA. DESPROPORCIONALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS. SUFICIÊNCIA. PRECEDENTES. COAÇÃO ILEGAL DEMONSTRADA.
+Agravo regimental improvido
+VOTO
+Os argumentos trazidos no agravo regimental não são suficientes para infirmar a decisão agravada, a qual mantenho por seus próprios fundamentos.
+Como já dito por ocasião da análise do pleito liminar, as particularidades descritas nos autos revelam que existem medidas outras suficientes e adequadas para garantir a higidez da persecução penal, pois o crime não foi cometido com violência ou grave ameaça à pessoa, trata-se, em princípio, de ré primária e sem antecedentes criminais, mãe, e a quantidade de entorpecente apreendida não se revela expressiva.
+Nestes casos, há precedentes no sentido da desnecessidade da prisão cautelar: AgRg no HC n. 810.097/SP, Ministra Laurita Vaz, Sexta Turma, DJe 23/5/2023; HC n. 800.865/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/5/2023; AgRg no RHC n. 176.743/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/5/2023.
+Ademais, o art. 318-A do CPP prevê que a prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída, desde que não tenha cometido crime com violência ou grave ameaça a pessoa ou não tenha cometido o crime contra seu filho ou dependente.
+Registre-se, ainda, que o magistrado de primeiro grau poderá, nos termos da decisão agravada, estabelecer medidas cautelares alternativas diante da situação concreta, as quais se mostram suficientes para se evitar os riscos apontados pelo Ministério Público.
+Deste modo, seguindo a jurisprudência desta Corte Superior, reafirmo que, consideradas as circunstâncias do caso concreto, restou demonstrada a inadequação e a desproporcionalidade no encarceramento da agravada, consoante os vários precedentes supracitados e ainda estes de minha Relatoria: AgRg no HC n. 797.689/MG, Sexta Turma, DJe 16/5/2023; AgRg no HC n. 763.116/RJ, Sexta Turma, DJe 31/3/2023 e AgRg no HC n. 771.281/SP, Sexta Turma, DJe 10/3/2023.
+Sob esta moldura, nego provimento ao agravo regimental.
