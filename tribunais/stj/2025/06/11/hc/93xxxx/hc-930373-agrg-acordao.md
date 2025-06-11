@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO REVISIONAL JULGADO IMPROCEDENTE. PRETENSÃO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DO HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, não é cabível a revisão criminal quando utilizada a título de nova apelação, visando ao mero reexame de fatos e provas, sem clara caracterização de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do Código de Processo Penal.
+2. O Tribunal de origem ressaltou que a retratação da vítima não tem o efeito de afastar outros elementos do conjunto de provas que levaram à condenação do agravante.
+3. A via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DAIANO MARCOS SIQUEIRA DE LIMA contra a decisão de fls. 134-136, que não conheceu do habeas corpus.
+Nas razões deste recurso, a defesa aduz que é possível a concessão da ordem de ofício diante de manifesta ilegalidade em razão da retratação da vítima em novo depoimento em que afasta a responsabilidade criminal do agravante sobre o crime pelo qual foi condenado.
+Requer o provimento do recurso para que seja concedida a ordem e absolvido o agravante do crime de homicídio tentado ou submetido a novo julgamento pelo Tribunal do Júri.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO REVISIONAL JULGADO IMPROCEDENTE. PRETENSÃO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DO HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, não é cabível a revisão criminal quando utilizada a título de nova apelação, visando ao mero reexame de fatos e provas, sem clara caracterização de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do Código de Processo Penal.
+2. O Tribunal de origem ressaltou que a retratação da vítima não tem o efeito de afastar outros elementos do conjunto de provas que levaram à condenação do agravante.
+3. A via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, o paciente foi condenado pelo Tribunal do Júri e interpôs recurso de apelação, que foi improvido e transitou em julgado em 28/3/2023.
+Segundo as informações prestadas pela origem (fl. 120), foi apresentada a Revisão Criminal n. 0815469-21.2023.8.20.0000, julgada improcedente pelo Tribunal de origem, que indicou expressamente os motivos para a solução adotada. No ponto (fls. 14-15, grifo próprio):
+A esse respeito a jurisprudência do Superior Tribunal de Justiça é recorrente no sentido de ser possível o manejo de revisão criminal baseado em consistente retratação da vítima, desde que tal prova nova, em conjunto com a totalidade do acervo probatório, possa conduzir à absolvição do réu. É dizer que a retratação da vítima, embora possa, em tese, conduzir à absolvição do réu, não torna automática e obrigatória essa consequência, sendo imperiosa a sua análise em cotejo com as demais provas.
+(AgRg no AREsp n. 2.222.222/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+Em se tratando de delito julgado no procedimento do Tribunal do Júri, a desconstituição da decisão dos jurados deve ser baseada não na fragilidade das provas dos autos, mas na eventual e completa inexistência de outros elementos de prova que possam fundamentar a conclusão do conselho de sentença, até mesmo em respeito à regra máxima da soberania do Júri Popular. Nesse sentido, veja-se julgado do STJ:
+ ..
+Trazendo tal discussão ao caso concreto, entendo que a retratação levada a efeito pelo ofendido não tem o condão de, quando confrontada com os demais elementos de prova, conduzir à absolvição do requerente, tendo em vista que não há como afirmar que inexistem outros elementos de prova que possam conduzir ao juízo condenatório.
+Compulsando os autos da ação de justificação criminal nº 0848874-80.2023.8.20.5001, em especial a mídia do depoimento da vítima em Juízo (Id. 22622446), observa-se que o ofendido afirmou que os depoimentos dados na ação penal foram induzidos por comentários de terceiros, que ligaram o ora requerente ao delito em questão. Aduziu, também, que não havia visibilidade suficiente para reconhecê-lo inequivocamente e que, na verdade, teriam sido "Flávio" e "Rodrigo do bolo" os responsáveis pela tentativa de homicídio, segundo informações de pessoas próximas ao depoente.
+Da análise rigorosa da fala do ofendido, depreende-se que o seu teor não tem o condão de conduzir à conclusão pela certeza manifesta de sua inocência, de modo a retirar inteiramente o respaldo probatório da conclusão tomada pelos jurados, senão apenas que os seus depoimentos na ação penal foram baseados em comentários realizados por terceiros, o que, a rigor, não os invalida ou os torna falsos.
+Não há, por exemplo, uma confissão da vítima de que teria prestado falso testemunho ou que teria falsamente incriminado o demandante de modo deliberado, conforme se observa em casos excepcionais nos quais a retratação da vítima conduz à absolvição do acusado em sede de revisão criminal.
+Nesse particular, ainda que se alegue a fragilidade do depoimento da vítima após o advento da retratação, tem-se que "a fundamentação baseada apenas na fragilidade das provas produzidas não autoriza o Tribunal a proferir juízo absolutório, em sede de revisão criminal", conforme entendimento do STJ transcrito anteriormente.
+Observa-se, em verdade, que os jurados, com base em sua íntima convicção, valoraram o conjunto probatório e decidiram pelo acolhimento de uma das teses viáveis, qual seja a da acusação, a partir do reconhecimento da autoria delitiva em relação ao demandante, o que somente poderia ser infirmado, em sede de pedido revisional, por prova inequívoca da inocência do requerente, não que tão somente tenha a capacidade de trazer dúvida a esse respeito.
+Não bastasse tudo isso, a Procuradoria de Justiça (Id. 23612753) chamou atenção para a existência de denúncia anônima (Id. 22622444 - p. 39) na qual se relata que a vítima Lindemberg Ramos da Rocha estaria sendo pressionado pelo corréu Luann Diogo Batista Souza para não reconhecê-lo como autor da tentativa de homicídio, circunstância que, no mínimo, reduz a , sobretudo confrontando-a com as três oportunidades em que, confiabilidade da retratação do ofendido na ação penal originária, este afirmou, de forma coesa e repleta de detalhes, sem demonstrar sombra de dúvidas, que o demandante foi coautor do delito em questão.
+Com efeito, segundo a jurisprudência do Superior Tribunal de Justiça, não é cabível a revisão criminal quando utilizada a título de nova apelação, visando ao mero reexame de fatos e provas, sem clara caracterização de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do Código de Processo Penal.
+A esse respeito: HC n. 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016; e AgRg no AREsp n. 1.807.887/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/10/2021.
+Ademais, como transcrito , o Tribunal de origem ressaltou que a retratação da vítima não tem o efeito de afastar outros elementos do conjunto de provas que levaram à condenação do agravante.
+Nesse contexto, a via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE DROGAS PARA USO PESSOAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. RISCO EFETIVO DE REITERAÇÃO DELITIVA. RÉU REINCIDENTE ESPECÍFICO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifo próprio.)
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
