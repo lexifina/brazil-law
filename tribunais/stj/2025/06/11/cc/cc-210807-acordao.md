@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Seção, por unanimidade, conhecer do conflito e declarar competente o suscitado, Juízo de Direito da 8ª Vara Cível de Guarulhos - SP, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS DEPRECANTE E DEPRECADO. CARTA PRECATÓRIA EXPEDIDA PARA REALIZAÇÃO DE LEILÃO JUDICIAL PRESENCIAL DE BEM PENHORADO. RECUSA AO CUMPRIMENTO PELO DEPRECADO. CABIMENTO. PREVALÊNCIA DO LEILÃO ELETRÔNICO. ART. 882 DO CPC/15 E RESOLUÇÃO 236/2016 DO CNJ. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Nos termos do art. 267 do CPC é cabível a recusa de cumprimento da carta precatória quando (i) desprovida de requisitos legais; (ii) ocorrer incompetência material ou hierárquica para tanto; e (iii) houver dúvidas quanto a sua autenticidade.
+2. A jurisprudência desta Corte Superior tem entendido que o referido rol é taxativo, na medida em que o Juízo deprecado é mero executor da ordem emanada pelo deprecante, não lhe cabendo análise quanto ao mérito da demanda de onde extraída a precatória, tampouco alteração no seu cumprimento. Precedentes.
+3. Por outro lado, o artigo 882 do CPC/15, em inovação legislativa, determina a prevalência do leilão eletrônico ao presencial, o que vem regulamentado pela Resolução nº 236/2016 do CNJ.
+4. Referida Resolução, complementando o CPC, indica que o Juízo da execução é o competente para realizar os atos referentes ao leilão por meio eletrônico (artigos 2º e 16).
+5. Medida que confere maior agilidade e menor onerosidade ao processo executivo, em observância ao equilíbrio da execução, na medida em que, havendo mais de uma forma de executar os bens do devedor, deve-se optar pela menos gravosa (art. 805 do CPC).
+6. O processo executivo deve caminhar rumo a evolução legislativa, em observância aos avanços tecnológicos que possibilitam maior eficiência na satisfação dos créditos, em respeito a dignidade das partes que terão maiores oportunidades de acompanhar o feito com mais transparência e menos entraves burocráticos.
+7. Recusa justificada ao cumprimento da carta precatória.
+8. Conflito conhecido. Competência do Juízo suscitado.
+RELATÓRIO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE SÃO JOSÉ DOS PINHAIS - PR (JUÍZO DEPRECADO) e o JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE GUARULHOS - SP (JUÍZO DEPRECANTE), envolvendo execução de título extrajudicial ajuizada por REMO INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA. (REMO) contra GMA INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS E METAIS LTDA. (GMA).
+A demanda foi distribuída perante o Juízo bandeirante que determinou expedição de carta precatória para alienação judicial do bem penhorado e situado no foro da Comarca de São José dos Pinhais - PR (e-STJ, fl. 10).
+Distribuída a precatória, o Juízo paranaense suscitou conflito competência por entender que o leilão do bem penhorado deveria ocorrer preferencialmente por meio eletrônico, sendo desnecessário o aludido expediente para sua realização na modalidade presencial (e-STJ, fls. 49/51).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. MAURICIO VIEIRA BRACKS, manifestou-se pela declaração de competência do Juízo da 8ª Vara Cível de Guarulhos - SP (e-STJ, fls. 68/70).
+É o relatório.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS DEPRECANTE E DEPRECADO. CARTA PRECATÓRIA EXPEDIDA PARA REALIZAÇÃO DE LEILÃO JUDICIAL PRESENCIAL DE BEM PENHORADO. RECUSA AO CUMPRIMENTO PELO DEPRECADO. CABIMENTO. PREVALÊNCIA DO LEILÃO ELETRÔNICO. ART. 882 DO CPC/15 E RESOLUÇÃO 236/2016 DO CNJ. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Nos termos do art. 267 do CPC é cabível a recusa de cumprimento da carta precatória quando (i) desprovida de requisitos legais; (ii) ocorrer incompetência material ou hierárquica para tanto; e (iii) houver dúvidas quanto a sua autenticidade.
+2. A jurisprudência desta Corte Superior tem entendido que o referido rol é taxativo, na medida em que o Juízo deprecado é mero executor da ordem emanada pelo deprecante, não lhe cabendo análise quanto ao mérito da demanda de onde extraída a precatória, tampouco alteração no seu cumprimento. Precedentes.
+3. Por outro lado, o artigo 882 do CPC/15, em inovação legislativa, determina a prevalência do leilão eletrônico ao presencial, o que vem regulamentado pela Resolução nº 236/2016 do CNJ.
+4. Referida Resolução, complementando o CPC, indica que o Juízo da execução é o competente para realizar os atos referentes ao leilão por meio eletrônico (artigos 2º e 16).
+5. Medida que confere maior agilidade e menor onerosidade ao processo executivo, em observância ao equilíbrio da execução, na medida em que, havendo mais de uma forma de executar os bens do devedor, deve-se optar pela menos gravosa (art. 805 do CPC).
+6. O processo executivo deve caminhar rumo a evolução legislativa, em observância aos avanços tecnológicos que possibilitam maior eficiência na satisfação dos créditos, em respeito a dignidade das partes que terão maiores oportunidades de acompanhar o feito com mais transparência e menos entraves burocráticos.
+7. Recusa justificada ao cumprimento da carta precatória.
+8. Conflito conhecido. Competência do Juízo suscitado.
+VOTO
+Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia se instaurou diante do cumprimento da carta precatória destinada ao Juízo paranaense, visando a realização de leilão presencial do bem penhorado nos autos da execução em trâmite perante o Juízo paulista.
+O JUÍZO DEPRECADO suscitou o presente conflito por entender pela necessidade de se dar preferência ao leilão eletrônico, nos termos do art. 882, do CPC, sendo prescindível, a princípio, a expedição da deprecata.
+Nos termos do art. 267 do CPC é cabível a recusa de cumprimento da carta precatória quando (i) desprovida de requisitos legais; (ii) ocorrer incompetência material ou hierárquica para tanto; e (iii) houver dúvidas quanto a sua autenticidade.
+A jurisprudência desta Corte Superior tem entendido que o referido rol é taxativo, na medida em que o Juízo deprecado é mero executor da ordem emanada pelo deprecante, não lhe cabendo análise quanto a mérito da demanda de onde extraída a precatória, tampouco alteração no seu cumprimento.
+A propósito, confira-se:
+CONFLITO DE COMPETÊNCIA. DIREITO PREVIDENCIÁRIO. OITIVA DE TESTEMUNHA. CARTA PRECATÓRIA. VIDEOCONFERÊ NCIA. NÃO OBRIGATORIEDADE. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO.
+I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.
+III - Conflito de competência conhecido para declarar competente para cumprimento da carta precatória o Juízo de Direito da Vara Única de Apiaí-SP.
+(CC n. 196.661/SP, relator Ministro FRANCISCO FALCÃO, Primeira Seção, julgado em 8/11/2023, DJe de 13/11/2023 - sem destaque no original)
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. INQUIRIÇÃO DE TESTEMUNHA QUE RESIDE FORA DA JURISDIÇÃO DO MAGISTRADO COMPETENTE. CARTA PRECATÓRIA. RECUSA NÃO FUNDADA NAS HIPÓTESES DO ATUAL ART. 267 DO CPC. CONFLITO DE COMPETÊNCIA CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. As hipóteses de recusa de cumprimento de carta precatória constituem rol taxativo e tinham previsão no então art. 209 do Código de Processo Civil, correspondente ao atual art. 267 do novo diploma legal, isto é, ao juízo deprecado somente é permitido devolver carta precatória quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou, ainda, quando tiver dúvida acerca de sua autenticidade, não estando, no caso em exame, a recusa do Juízo suscitado respaldada por nenhuma das hipóteses legais.
+2. "Conquanto recomendável seja realizada por videoconferência, não compete ao Juízo deprecado determinar forma de audiência diversa daquela delegada, recusando-se assim ao cumprimento da deprecata" (CC 135.834/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 31/10/2014).
+3. Conflito conhecido, para declarar a competência do Juízo Federal da 4ª Vara da Seção Judiciária do Amazonas, o suscitado.
+(CC 148.747/PE, Rel. Ministro RIBEIRO DANTAS, Terceira Seção, j.
+23/11/2016, DJe 30/11/2016 - sem destaque no original)
+Como se vê, na inobservância aos requisitos legais da precatória ou nas hipóteses de incompetência material ou hierárquica, é autorizada a recusa ao seu cumprimento por parte do Juízo deprecado.
+Por outro lado, o artigo 882 do CPC/15, em inovação legislativa, determina a prevalência do leilão eletrônico ao presencial, nos seguintes termos:
+Art. 882. Não sendo possível a sua realização por meio eletrônico, o leilão será presencial.
+§ 1º A alienação judicial por meio eletrônico será realizada, observando-se as garantias processuais das partes, de acordo com regulamentação específica do Conselho Nacional de Justiça.
+§ 2º A alienação judicial por meio eletrônico deverá atender aos requisitos de ampla publicidade, autenticidade e segurança, com observância das regras estabelecidas na legislação sobre certificação digital.
+§ 3º O leilão presencial será realizado no local designado pelo juiz. - sem destaque no original
+A lei adjetiva ainda estabeleceu que a regulamentação específica da alienação judicial por meio eletrônico cabe ao Conselho Nacional de Justiça, que, por sua vez, emanou a Resolução nº 236/2016.
+Referida norma, complementando o próprio CPC, indica que o Juízo da execução é o competente para realizar os atos referentes ao leilão por meio eletrônico, como podemos extrair de seus artigos 2º e 16, in verbis:
+Art. 2º Caberá ao juiz a designação (art. 883), constituindo requisito mínimo para o credenciamento de leiloeiros públicos e corretores o exercício profissional por não menos que 3 (três) anos, sem prejuizo de disposições complementares editadas pelos tribunais (art. 880, § 3º).
+Art. 16. Os bens penhorados serão oferecidos em site designado pelo juizo da execução (art. 887, § 2º), com descrição detalhada e preferencialmente por meio de recursos multimídia, para melhor aferição de suas características e de seu estado de conservação - sem destaque no original.
+Nessa linha de entendimento, esta Corte Superior já se pronunciou reconhecendo a competência do Juízo da execução para a realização do leilão eletrônico.
+Veja-se:
+TRIBUTÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO FISCAL.
+ALIENAÇÃO JUDICIAL ELETRÔNICA. DESNECESSIDADE DE QUE A REALIZAÇÃO DOS ATOS SEJA PRATICADA NO FORO EM QUE SITUADO O BEM. RECUSA JUSTIFICADA DO CUMPRIMENTO DA CARTA PRECATÓRIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 4a. VARA DE FEITOS TRIBUTÁRIOS DE BELO HORIZONTE/MG, ORA SUSCITADO.
+1. Trata-se de Conflito Negativo de Competência suscitado nos autos da Carta Precatória expedida com a finalidade de que os atos processuais relacionados à alienação judicial eletrônica fossem realizados na Comarca em que se situa o imóvel penhorado.
+2. Os procedimentos relativos à alienação judicial por meio eletrônico, na forma preconizada pelo art. 882, § 1º. do Código Fux (CPC/2015), têm por finalidade facilitar a participação dos licitantes, reduzir custos e agilizar processos de execução, primando pelo atendimento dos princípios da publicidade, da celeridade e da segurança.
+3. Tal modelo de leilão revela maior eficácia diante da inexistência de fronteiras no ambiente virtual, permitindo que o leilão judicial alcance um número incontável de participantes em qualquer lugar do País, além de propiciar maior divulgação, baratear o processo licitatório e ser infinitamente mais célere em relação ao leilão presencial, rompendo trâmites burocráticos e agilizando o processo de venda do bem objeto de execução.
+4. Logo, cabe ao Magistrado atentar para essa relevante alteração trazida pelo Novel Estatuto Processual, utilizando-se desse poderoso instrumento de alienação judicial do bem penhorado em processo executivo, que tornou inútil e obsoleto deprecar os atos de alienação dos bens para satisfação do crédito, já que a alienação pela rede mundial dispensa o comparecimento dos interessados no local da hasta pública.
+5. Portanto, considerando que a alienação eletrônica permite ao interessado participar do procedimento mediante um acesso simples à internet, sem necessidade de sua presença ao local da hasta, tem-se por justificada a recusa do cumprimento da Carta Precatória pelo Juízo deprecado, ora suscitante, visto que não há motivos para que a realização do ato de alienação judicial eletrônica seja praticada em Comarca diversa do Juízo da Execução.
+6. Conflito de Competência conhecido para declarar competente o JUÍZO DE DIREITO DA 4A. VARA DE FEITOS TRIBUTÁRIOS DE BELO HORIZONTE/MG, ora suscitado.
+(CC n. 147.746/SP, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, julgado em 27/5/2020, DJe de 4/6/2020 - sem destaque no original)
+Também nesse sentido: REsp n. 2.157.418, Ministro RICARDO VILLAS BÔAS CUEVA, DJEN de 06/03/2025; CC n. 212.861, Ministro AFRÂNIO VILELA, DJEN de 07/05/2025; CC n. 190.762, Ministro FRANCISCO FALCÃO, DJe de 22/06/2023; CC n. 192.581, CC n. 188.561, Ministra REGINA HELENA COSTA, DJe de 27/06/2022; e CC n. 178.983, Ministro MANOEL ERHARDT (Desembargador Convocado do TRF5), DJe de 30/11/2021.
+Tal medida visa conferir maior agilidade e menor onerosidade ao processo executivo, facilitando e, inclusive, ampliando a possibilidade de venda judicial dos bens penhorados, em observância ao equilíbrio da execução, porque, havendo mais de uma forma de executar os bens do devedor, deve-se optar pela menos gravosa (art. 805 do CPC).
+Nessa toada, FERNANDO DA FONSECA GAJARDONI, ANDRÉ VASCONCELOS ROQUE e ZULMAR DUARTE DE OLIVEIRA JUNIOR lecionam que:
+Não sendo possível a realização do leilão eletrônico - seja porque ainda não implantados os equipamentos necessários, seja por ser inviável o atendimento aos requisitos legais ou aos previstos na Resolução 236/2016 do CNJ -, deve o leilão se efetivar na modalidade presencial. Nesse caso, o leilão deverá ser realizado no local designado pelo juiz. Nada impede, ainda, que o leilão seja simultaneamente eletrônico e presencial (leilão híbrido), e este se realizará no último dia do período designado para o leilão eletrônico (art. 11, parágrafo único, da Resolução 236/2016 do CNJ).
+(Manual de Processo Civil, volúme único, Rio de Janeiro: 2025, ed. GEN Forense, p. 1.053 - sem destaque no original)
+No caso, o JUÍZO DEPRECANTE determinou a realização de leilão judicial presencial do bem penhorado no foro do JUÍZO DEPRECADO, onde ele está situado.
+Entretanto, como a lei determina a prevalência do leilão judicial eletrônico, somente diante da impossibilidade de sua realização é que seria autorizada a modalidade presencial ou após o período designado para a sua realização, caso se optasse pela forma híbrida de leilão (eletrônico e presencial).
+Desse modo, não havendo demonstração de que fora infrutífero o leilão eletrônico, escolha prioritária pela legislação processual, mostra-se justificada a recusa do JUÍZO DEPRECADO ao cumprimento da precatória.
+O processo executivo deve caminhar rumo a evolução legislativa, em observância aos avanços tecnológicos que possibilitam maior eficiência na satisfação dos créditos, em respeito a dignidade das partes que terão maiores oportunidades de acompanhar o feito com mais transparência e menos entraves burocráticos.
+Assim sendo, a competência é do Juízo da execução para realização do leilão eletrônico, que deverá promover os meios necessários, nos termos da Resolução nº 236/2016 do CNJ e legislação processual pertinente.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE GUARULHOS - SP, suscitado .
+É o voto.
