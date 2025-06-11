@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. VÍCIO. INEXISTÊNCIA. REJEIÇÃO DOS EMBARGOS.
+1. Embargos de declaração opostos pelo Ministério Público Federal contra acórdão da Sexta Turma do Superior Tribunal de Justiça que proveu recurso ordinário e concedeu ordem para revogar a prisão preventiva do recorrente e dos corréus, sem prejuízo de nova decretação de medida, desde que concretamente fundamentada.
+2. O Ministério Público Federal alega omissão no acórdão por não considerar que o Tribunal de origem, ao denegar a ordem, reconheceu que a prisão preventiva mantida na sentença condenatória já havia sido validamente fundamentada e que o inteiro teor da sentença fundamenta a manutenção da prisão cautelar.
+3. A questão em discussão consiste em saber se o acórdão embargado foi omisso ao não considerar a fundamentação da sentença condenatória como suficiente para a manutenção da prisão preventiva.
+4. O acórdão embargado não apresenta as omissões apontadas e foi fundamentado de modo suficiente, tendo destacado que o magistrado singular manteve a custódia cautelar na sentença condenatória limitando-se a mencionar a pena aplicada, sem indicar que persistiriam os motivos autorizadores da prisão preventiva, circunstância que evidencia constrangimento ilegal e justifica a revogação do cárcere.
+5. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal contra acórdão da Sexta Turma do Superior Tribunal de Justiça que proveu o recurso ordinário e concedeu a ordem para revogar a prisão preventiva do recorrente e dos corréus, sem prejuízo de nova decretação de medida, desde que concretamente fundamentada (fls. 97-102).
+Nas razões deste recurso, o Ministério Público Federal alega que o acórdão teria sido omisso por não ter considerado que o Tribunal de origem, ao denegar a ordem, reconheceu que a prisão preventiva mantida na sentença condenatória já havia sido validamente fundamentada.
+Aduz que o inteiro teor da sentença condenatória fundamenta a manutenção da prisão cautelar e salienta que, julgada procedente a denúncia, os elementos que fundamentavam a prisão ganharam reforço.
+A parte embargada apresentou contrarrazões (fls. 119-121).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. VÍCIO. INEXISTÊNCIA. REJEIÇÃO DOS EMBARGOS.
+1. Embargos de declaração opostos pelo Ministério Público Federal contra acórdão da Sexta Turma do Superior Tribunal de Justiça que proveu recurso ordinário e concedeu ordem para revogar a prisão preventiva do recorrente e dos corréus, sem prejuízo de nova decretação de medida, desde que concretamente fundamentada.
+2. O Ministério Público Federal alega omissão no acórdão por não considerar que o Tribunal de origem, ao denegar a ordem, reconheceu que a prisão preventiva mantida na sentença condenatória já havia sido validamente fundamentada e que o inteiro teor da sentença fundamenta a manutenção da prisão cautelar.
+3. A questão em discussão consiste em saber se o acórdão embargado foi omisso ao não considerar a fundamentação da sentença condenatória como suficiente para a manutenção da prisão preventiva.
+4. O acórdão embargado não apresenta as omissões apontadas e foi fundamentado de modo suficiente, tendo destacado que o magistrado singular manteve a custódia cautelar na sentença condenatória limitando-se a mencionar a pena aplicada, sem indicar que persistiriam os motivos autorizadores da prisão preventiva, circunstância que evidencia constrangimento ilegal e justifica a revogação do cárcere.
+5. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, o magistrado singular manteve a custódia cautelar na sentença condenatória limitando-se a mencionar a pena aplicada, sem indicar que persistiriam os motivos autorizadores da prisão preventiva (fl. 90), circunstância que evidencia constrangimento ilegal e justifica a revogação do cárcere.
+Cumpre ressaltar que, apesar de não ser necessária fundamentação exaustiva sobre a manutenção da prisão na sentença condenatória, trata-se de caso em que o magistrado singular nem sequer fez menção à persistência dos fundamentos que haviam justificado a custódia, tratando-se de novo título judicial desprovido de fundamentação idônea.
+Ademais, constatou-se que o Tribunal de origem, no acórdão denegatório do writ, acresceu indevidamente fundamentos à sentença para a manutenção da prisão preventiva, em clara usurpação da competência do Juízo de primeiro grau.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
