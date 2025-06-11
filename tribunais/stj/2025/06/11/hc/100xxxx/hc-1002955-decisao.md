@@ -1,0 +1,109 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de WALDECI PIRES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do HC n. 0040501-04.2025.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante no dia 17/12/2024, e teve convertida a custódia em prisão preventiva, pela suposta prática do crime tipificado no art. 33 da Lei n. 11.343/06.
+Irresignada, a defesa ajuizou mandamus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"DIREITO PROCESSUAL PENAL E DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA POR TRÁFICO DE DROGAS. HABEAS CORPUS Nº 0040501-04.2025.8.16.0000 DECISÃO: ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão do Juízo da Vara Criminal de Jacarezinho/PR que converteu a prisão em flagrante do paciente em prisão preventiva, acusado de tráfico de drogas. O impetrante alega ilegalidade na abordagem policial, sustentando que não havia justa causa para a prisão, e requer o reconhecimento da nulidade da prisão, com consequente relaxamento da custódia cautelar e trancamento da ação penal, por ausência de materialidade por aventada obtenção de prova de forma ilícita. Alegação de que a abordagem veicular se equipara a busca pessoal e exige fundada suspeita para ser efetuada sob pena de configuração do fenômeno "fishing expedition" (pescaria probatória) e ofensa às garantias constitucionais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se há ilegalidade na prisão em flagrante convertida em prisão preventiva, em razão de suposta abordagem e busca pessoal e veicular sem justa causa, e se são cabíveis medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. Não há ilegalidade a ser sanada pela via do habeas corpus, pois a prisão preventiva foi devidamente fundamentada na garantia da ordem pública.
+4. A materialidade e autoria do crime de tráfico de drogas estão comprovadas, com apreensão de substâncias ilícitas em poder do paciente.
+5. A abordagem policial foi realizada com base em fundada suspeita, após informações do setor de análise de risco da Polícia Rodoviária Federal.
+6. A gravidade concreta do delito e a reincidência do paciente justificam a manutenção da prisão preventiva, sendo insuficientes as medidas cautelares alternativas.
+7. Dentre as atividades da Polícia Federal, o patrulhamento ostensivo das rodovias está incluído e é previsto pelo artigo 144, § 2º da Constituição Federal.
+8. Conformo artigo 20 da Lei nº 9.503/1997, "compete à Polícia Rodoviária Federal, no âmbito das rodovias e estradas federais: I - cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições; II - realizar o patrulhamento ostensivo, executando operações relacionadas com a segurança pública, com o objetivo de preservar a ordem, incolumidade das pessoas, o patrimônio da União e o de terceiros."
+9. A prisão preventiva é necessária para garantir a aplicação da lei penal e evitar a reiteração delitiva. Paciente reincidente específico no tráfico de drogas.
+IV. DISPOSITIVO
+10. Habeas corpus conhecido e denegado.
+Dispositivos relevantes citados: CPP, arts. 310, II, 312, 313, I e II, e 244; Lei nº 11.343/2006, art. 33, caput. Jurisprudência relevante citada: STJ, AgRg no HC 917.817, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 19.08.2024; STJ, AgRg no HC 210312, Rel. Min. Roberto Barroso, Primeira Turma, j. 28.03.2022; STJ, AgRg no HC 919.765, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 19.08.2024; Súmula nº 607/STJ." (fls. 94/95)
+No writ, o impetrante alega que não foi apresentada fundamentação idônea para a segregação cautelar do paciente, a qual estaria baseada em argumentos genéricos, sem demonstração de elementos objetivos que justificassem a medida extrema, nos termos exigidos pelo art. 312 do Código de Processo Penal - CPP.
+Aduz ilegalidade na abordagem policial, realizada em razão de o paciente trafegar em área supostamente usada para evitar fiscalizações, o que não configura justa causa para busca pessoal ou veicular.
+Pondera que as substâncias apreendidas foram manipuladas por múltiplos agentes sem registro adequado, sem lacres ou acondicionamento correto, violando os arts. 158-A a 158-F do CPP.
+Requer, assim, o reconhecimento das nulidades apontadas, determinando-se o trancamento da ação penal na origem.
+A liminar foi indeferida por decisão de fls. 179/181.
+As informações foram prestadas às fls. 188/216.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA VEICULAR ALEGAÇÃO DE AUSÊNCIA DE FUNDADA SUSPEITA. INOCORRÊNCIA. FISCALIZAÇÃO DE ROTINA DA POLÍCIA RODOVIÁRIA FEDERAL. FUNDADAS SUSPEI- TAS. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. REVOLVIMENTO DO CON- JUNTO PROBATÓRIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. "A busca pessoal é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto" (AgRg no HC n. 723793/SP, JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, j. 15/3/2022, DJe de 18/3/2022)
+3. A pretensão de trancamento ou suspensão de ação penal, a pretexto de nulidade da prova obtida, demanda, na espécie, especial e aprofundado reexame do conjunto probatório, providência inviável em sede de habeas corpus. Precedentes.
+4. Constitui fundamentação idônea para a decretação da prisão preventiva as circunstâncias bem como a quantidade do entorpecente apreendido em poder do paciente, a revelar a gravidade concreta do crime.
+5. "A preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus ante- cedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 113422/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, j. 15/10/2019, D Je 23/10/2019).
+6. Parecer pelo não conhecimento do habeas corpus. Caso conhecido, pela denegação da ordem."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se verifica a existência de constrangimento ilegal a justificar a concessão da ordem de ofício.
+Por oportuno, confiram-se os fundamentos do julgado atacado utilizados para afastar a nulidade do flagrante:
+"De acordo com as informações dos autos, ao contrário do que alega o impetrante, é admissível a busca tanto em veículos, quanto no domicílio em hipótese de estado de flagrância e de existência de justa causa para a abordagem.
+No caso concreto, segundo os depoimentos que instruem o auto de prisão em flagrante, os quais deverão ser corroborados em juízo durante a instrução, a abordagem decorreu de uma fiscalização realizada por agentes federais em rodovia, após terem recebido informação do setor de análise de risco da polícia, sobre um veículo que trafegava por estrada utilizada em geral para fuga de fiscalização.
+Na ocasião, os policiais realizaram a abordagem como meio de fiscalização de combate ao crime, notadamente diante da informação do setor policial de análise de risco e estranheza da situação. Ao realizar a conferência dos documentos, os agentes constataram a existência de mandado de prisão em aberto contra o suspeito.
+Desse modo, diante da existência de fundada suspeita, notadamente pelo cumprimento de mandado de prisão e histórico criminal pelo mesmo crime de tráfico de drogas, sendo que a substância ilícita já estava acondicionada no interior do automóvel, a equipe logrou apreender trinta e duas "pedras de Crack", sem que se configurasse qualquer ilegalidade na conduta dos agentes, em razão do estado de flagrância.
+De início, infere-se que a diligência da busca pessoal prevista pelo CPP artigo 244, que prescinde de prévia expedição de mandado judicial "quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito."
+Da análise da norma conclui-se que, nos casos de flagrante delito, justificada a abordagem policial é permitido que a autoridade policial efetue a busca pessoal ou mesmo no automóvel.
+Como bem consignou a d. Procuradora Geral de Justiça, "as informações que constam nos autos demonstram que a abordagem do veículo conduzido por Waldeci Pires decorreu de comunicação prévia do setor de análise de risco da Polícia Rodoviária Federal, que indicava a circulação de um automóvel suspeito, em rota comumente utilizada para burlar a fiscalização da unidade da PRF de Ourinhos/SP, em rota utilizada para fins ilícitos, circunstâncias que configuram fundada suspeita nos termos do art. 244 do Código de Processo Penal, legitimando a intervenção policial, inclusive com a realização da busca veicular, a fim de prevenir ou reprimir a prática de crimes."" (fls. 101/102)
+De início, registra-se que, nos termos do Código de Processo Penal, para a realização de busca pessoal, veicular e domiciliar é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+De acordo com o que consta dos autos, a abordagem veicular/pessoal feita pelos policiais somente ocorreu em razão de comunicação prévia do setor de análise de risco da Polícia Rodoviária Federal, sendo que ao parar o veículo constataram a existência de mandado de prisão em aberto contra o paciente, o que justificou a busca realizada no carro.
+Nesse contexto, verifica-se que foi constatada a existência de indícios da prática de crime pelo paciente, principalmente o de tráfico de drogas, o que foi confirmado pelos agentes policiais.
+Assim, restou demonstrada a justa causa a amparar a realização da busca veicular/pessoal, não se cogitando de nulidade do flagrante.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. FUGA. NULIDADE INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 240, §2º, e art. 244, ambos do CPP, a busca pessoal ou veicular será válida quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, como ocorreu na hipótese dos autos.
+2. "O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional. 4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública" (RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023).
+3. Não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da medida, o que não se verificou no caso.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.132.481/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME APROFUNDADO DE PROVAS. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ILEGALIDADE DA BUSCA PESSOAL E VEICULAR. NÃO OCORRÊNCIA. EXISTÊNCIA DE FUNDADAS SUSPEITAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem entendeu que o conjunto fático-probatório dos autos se mostrou robusto o suficiente para dar suporte à condenação do agravante pelo crime de tráfico de drogas. A revisão desse entendimento encontra óbice na Súmula n. 7 deste Superior Tribunal de Justiça.
+2. Sobre a alegada nulidade da busca pessoal e veicular, constou do aresto de origem que os policiais militares realizavam patrulhamento de rotina quando avistaram o carro do agravante, em que o vidro possuía insulfilm muito escuro. Ao avistá-los, o acusado empreendeu fuga, não obedecendo a ordem de parada. No momento em que desceu do veículo, o agravante deixou cair no chão porções de drogas e dinheiro. Após a detenção do acusado, os agentes retornaram ao veículo, onde localizaram 62 porções de maconha, embaladas individualmente, prontas para a imediata comercialização.
+3. Desse modo, restou justificada a busca pessoal e veicular, nos termos da jurisprudência desta Corte, não se vislumbrando qualquer ilegalidade na atuação dos policiais militares, pois amparada pelas circunstâncias do caso concreto.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.436.257/SP, de minha relatoria, Quinta Turma, julgado em 4/6/2024, DJe de 6/6/2024.)
+No mesmo sentido, é o seguinte precedente do STF:
+Agravo regimental no recurso ordinário em habeas corpus.
+2. Agravante, reincidente, preso com drogas, arma e balança.
+3. A Constituição que assegura o direito à intimidade, à ampla defesa, ao contraditório e à inviolabilidade do domicílio é a mesma que determina punição a criminosos e o dever do Estado de zelar pela segurança pública. O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional.
+4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública.
+5. Alegação de violação a domicílio. Caso concreto. Inocorrência.
+6. Agravo improvido.
+(RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023.)
+De outra parte, quanto à prisão cautelar, verifica-se que o acordão impugnado está em consonância com a jurisprudência desta Corte, a qual admite a prisão preventiva para evitar a reiteração delitiva, pois o paciente é reincidente específico e estava, inclusive, em cumprimento da pena referente a esse delito quando foi preso em flagrante (fl. 99).
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. REINCIDÊNCIA E RISCO DE REITERAÇÃO CRIMINOSA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, em que o agravante foi preso em flagrante por suposta prática do delito de tráfico de drogas, descrito no art. 33 da Lei n. 11.343/2006, com posterior conversão em prisão preventiva.
+2. O agravante alega que a quantidade de droga apreendida é ínfima, destinada para consumo próprio, e que a prisão preventiva foi decretada com base na gravidade em abstrato do delito e na reincidência, sem relação com o delito imputado. Sustenta possuir residência fixa e fonte de renda lícita, afastando o risco à ordem pública e à aplicação da lei penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada em elementos concretos que justifiquem a necessidade de encarceramento provisório, considerando a reincidência e o risco de reiteração criminosa.
+III. Razões de decidir
+4. A prisão preventiva do agravante encontra-se fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, especialmente o fundado receio de reiteração criminosa, dado o histórico de reincidência e condenação recente por tráfico de drogas.
+5. A jurisprudência desta Corte Superior sustenta que maus antecedentes, reincidência e outras ações penais em curso justificam a imposição de segregação cautelar para evitar a reiteração delitiva e garantir a ordem pública.
+6. Não há elementos novos no agravo regimental que justifiquem a alteração da decisão anterior, que está em conformidade com os precedentes do STF e STJ.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciem a necessidade de encarceramento provisório, especialmente em casos de reincidência e risco de reiteração criminosa. 2. A ausência de novos argumentos no agravo regimental justifica a manutenção da decisão anterior por seus próprios fundamentos".
+(AgRg no HC n. 992.789/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+Por fim, registra-se que da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a quebra da cadeia de custódia e nem poderia fazê-lo, pois essa questão não foi alegada nas razões do remédio constitucional ajuizado na origem.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento dessa matéria, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, confiram-se os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
