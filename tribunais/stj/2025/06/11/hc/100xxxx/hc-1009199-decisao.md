@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de PEDRO AUGUSTO DE ANDRADE MAGALHAES - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0900784-51.2024.8.12.0017), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da Vara Criminal da comarca de Nova Andradina/MS, ao argumento de insuficiência de fundamentação para o afastamento da minorante, exasperação da pena-base e imposição do regime inicial fechado.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, se afastar da conclusão que alcançou o Magistrado singular acerca do afastamento da minorante em razão da dedicação do condenado à atividade criminosa, importa em profunda incursão probatória, providência inviável na via estreita do habeas corpus.
+No caso, a sentença destacou que as circunstâncias que envolveram a conduta criminosa evidenciam claramente que os réus aderiram a vontade de uma organização criminosa (fl. 519).
+Igual sorte recai sobre o pleito dosimétrico, uma vez que a pena-base foi exasperada em razão da quantidade de entorpecente (fl. 524 - 9.300kg de skunk), bem como as circunstâncias do crime foram negativadas, já que as drogas apreendidas eram transportadas em veículo especialmente preparado, dentro de um botijão de gás, dificultando a fiscalização policial (fl. 524), o que não configura constrangimento ilegal.
+Casos em que a pena-base foi fixada acima do mínimo legal, por si só está justificada a imposição de regime inicial mais severo, nos termos do art. 33, § 3º, c/c o art. 59, ambos do Código Penal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. PENA-BASE. EXASPERAÇÃO. QUANTIDADE DE DROGA APREENDIDA (9.300 KG DE SKUNK) E NEGATIVAÇÃO DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. REGIME FECHADO IMPOSTO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
