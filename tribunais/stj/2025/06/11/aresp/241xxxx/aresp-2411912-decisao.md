@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ CLAUDIO SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500074-71.2020.8.26.0618 (fls. 209/225).
+No recurso especial, o agravante requer o conhecimento e provimento do presente recurso por este Colendo Superior Tribunal de Justiça, para reconhecer a nulidade do v. acórdão por ausência de fundamentação idônea, nos termos do art. 564, inciso V do Código de Processo Penal, tendo em vista a violação ao disposto no art. 156 do Código de Processo Penal e art. 28, § 2º da Lei de Drogas, reestabelecendo-se a r. sentença proferida em primeira instância.  ..  Subsidiariamente, requer-se o provimento do recurso especial para afastar os maus antecedentes, fixando-se a pena base no mínimo legal em atenção ao disposto no art. 59 do Código Penal (fls. 235/251).
+Apresentadas as contrarrazões (fls. 255/259), o Tribunal de origem não admitiu o recurso com suporte nos óbices da Súmula 7/STJ e das Súmulas 282 e 356/STF (fls. 262/263).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 295/298).
+É o relatório.
+O agravo preenche as condições de admissibilidade.
+A instância ordinária justificou a tipificação do delito previsto no art. 33, caput, da Lei n. 11.343/2006, destacando, sobretudo, que os entorpecentes apreendidos pertenciam ao acusado e se destinavam ao tráfico ilícito de entorpecentes. A quantidade de droga, bem como a forma que estava acondicionada, apontavam a destinação para o comércio clandestino.  ..  Assim, em que pese a sentença desclassificatória e os argumentos da combativa defesa, constata-se que a prova oral, somada à apreensão de expressiva quantidade de droga (maconha e crack), durante a diligência, da forma de acondicionamento dos entorpecentes, prontos para a venda, do local dos fatos, da conduta do apelado quando da abordagem, bem como as circunstâncias da apreensão, são mais que suficientes para embasar um decreto condenatório pelo delito de tráfico de drogas, inviabilizando, portanto, a absolvição ou a desclassificação para o delito previsto no artigo 28 da Lei Federal 11343/06 (fl. 215 - grifo nosso).
+Nos termos da jurisprudência do Superior Tribunal de Justiça, para revisar o aferido pela Corte de origem, seria necessária a incursão em aspectos de índole fático- probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante da Súmula 7/STJ.
+Melhor sorte socorre ao agravante quanto ao pleito de exclusão da valoração negativa dos maus antecedentes, utilizada pela Corte de origem para a exasperação da pena base.
+Extrai-se do acórdão atacado o seguinte trecho - fl. 218 - grifo nosso:
+ ..
+Inicialmente, sopesadas as diretrizes do artigo 59, do Código Penal, e do artigo 42, da Lei de Tóxicos, considerando os maus antecedentes ostentados pelo réu (conforme certidão de fl. 88 - Processo Criminal 0006920-36.2015.8.26.0625) por condenação distinta da utilizada na segunda fase da dosimetria para configuração da reincidência, fixo a pena-base em 1/6 (um sexto) acima do mínimo legal, isto é, em 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, no mínimo legal.
+ ..
+Segundo entendimento do Superior Tribunal de Justiça, o crime de posse de drogas para consumo próprio, por não ter pena privativa de liberdade, não configura reincidência, nem gera maus antecedentes.
+Cito: AgRg no HC n. 382.880/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/12/2019); AgRg no HC n. 801.995/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/5/2023, DJe 25/5/2023; AgRg no REsp n. 2.101.730/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/5/2024.
+Diante do quanto provido, preservado os demais termos da dosimetria da pena, redimensiono as reprimendas do agravante a 5 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa.
+Ficam mantidas as demais determinações do combatido aresto.
+Ante o exposto conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, dar-lhe provimento para excluir a valoração negativa dos maus antecedentes, redimensionando as penas privativa de liberdade e pecuniária do agravante nos termos da presente decisão.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (5,24 G DE MACONHA E 98,63 G DE CRACK). TESE DE DESCLASSIFICAÇÃO DELITUOSA PARA USO PRÓPRIO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PLEITO DE REDIMENSIONAMENTO DE PENA BASE. EXCLUSÃO DA NEGATIVAÇÃO DOS MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÃO POR USO DE DROGAS PARA CONSUMO PRÓPRIO. JURI SPRUDÊNCIA CONTRÁRIA DO STJ. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento.
