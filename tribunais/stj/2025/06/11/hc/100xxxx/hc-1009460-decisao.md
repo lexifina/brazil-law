@@ -1,0 +1,16 @@
+DECISÃO
+Neste writ, impugna-se o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o Desaforamento de Julgamento n. 2088662-32.2025.8.26.0000, relativo à sessão plenária de julgamento de GUILHERME AUGUSTO DOS REIS JORDAO, marcada para 28/8/2025, no âmbito da Ação Penal n. 1502923-49.2022.8.26.0358, 2ª Vara da comarca de Mirassol/SP.
+Aduz-se que o paciente tem sido alvo de ameaças diretas e veladas, provenientes de familiares da vítima e de simpatizantes da causa, circunstância que compromete tanto a regularidade do processo quanto a sua segurança pessoal. Destaca-se, também, o temor quanto à influência da família da vítima Naitiele, pessoa muito conhecida e respeitada na pequena cidade de Bálsamo, pertencente à comarca de Mirassol. Por fim, sustenta-se que a imparcialidade do Júri está comprometida diante da pressão social, considerando que a vítima era figura pública e que o caso ganhou expressiva repercussão na mídia.
+Busca-se, em liminar, a suspensão da sessão plenária. No mérito, requer-se a concessão da ordem para determinar o desaforamento para outra comarca.
+É o relatório.
+A pretensão da defesa neste feito refere-se ao desaforamento do julgamento
+pelo Tribunal do Júri, não se destina, portanto, à tutela imediata da liberdade de locomoção do paciente .
+No caso, o Tribunal paulista indeferiu a pretensão defensiva por ausência de provas concretas de parcialidade, destacando que o julgamento ocorrerá em Mirassol, cidade de maior porte que Bálsamo, o que afastaria risco à isenção do Júri. Acrescentou que a mera divulgação dos fatos pela imprensa não compromete a imparcialidade dos jurados, tratando-se de circunstância comum em crimes de maior gravidade. Ressaltou, ainda, a ausência de animosidade social concreta que justificasse o desaforamento.
+Com efeito, a eventual repercussão do crime na localidade, a costumeira movimentação dos parentes das vítimas e a divulgação dos fatos pela mídia são atitudes corriqueiras em hipóteses de delitos de maior gravidade, de modo que não justificam, per se, o desaforamento da sessão em Plenário (AgRg no HC n. 627.631/PB, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/8/2021).
+Em outras palavras, a mera presunção de parcialidade dos jurados em razão da divulgação dos fatos e da opinião da mídia é insuficiente para o deferimento da medida excepcional do desaforamento da competência (HC n. 492.964/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/3/2020).
+Dessa forma, entendendo a instância antecedente que não há elementos concretos aptos a evidenciar dúvida sobre a imparcialidade do júri e a falta de segurança pessoal do acusado, afastar tal conclusão implicaria necessariamente o reexame do material fático-probatório dos autos, providência inadmissível na via eleita (HC n. 445.864/RJ, de minha relatoria, Sexta Turma, DJe 13/6/2018).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. IMPUGNAÇÃO DE ACÓRDÃO PROFERIDO EM PEDIDO DE DESAFORAMENTO. TEMA ALHEIO À TUTELA DIRETA DA LIBERDADE DE LOCOMOÇÃO. DÚVIDA QUANTO À PARCIALIDADE DOS JURADOS. FALTA DE COMPROVAÇÃO. JURISPRUDÊNCIA CONSOLIDADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
