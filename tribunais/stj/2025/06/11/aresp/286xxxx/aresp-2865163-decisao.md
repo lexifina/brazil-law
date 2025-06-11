@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WLADMIR ROMERO contra a decisão que inadmitiu o recurso especial diante da ausência de demonstração de ofensa aos arts. 203, § 2º, 494, I, e 502 do CPC, do fato de não ter sido demonstrada a alegada vulneração dos dispositivos arrolados e da incidência da Súmula n. 284 do STF (fls. 84-85).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 95.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de exigir contas.
+O julgado foi assim ementado (fl. 50):
+AÇÃO DE EXIGIR CONTAS - Sentença proferida na segunda fase que extinguiu o processo com satisfação da dívida, tendo como base laudo pericial juntado equivocadamente nos autos - Embargos de declaração acolhidos apenas para indicar o laudo pericial correto sem, entretanto, alterar o dispositivo da r. sentença - Alegação do autor de erro material, sob a alegação de que o laudo pericial corretamente homologado reconheceu saldo em seu favor - Necessidade de enfrentamento dessa questão pelo D. Juízo "a quo", por decisão devidamente fundamentada, tendo em vista que o erro material, se existente, pode ser corrigido a qualquer tempo, independente do trânsito em julgado - Agravo de instrumento conhecido e provido em parte para esse fim.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 60):
+EMBARGOS DE DECLARAÇÃO Omissão Não reconhecimento Rejeição.
+No recurso especial, a parte aponta violação dos seguintes artigos: (a) 203, § 2º, do CPC, porque as decisões objeto do agravo de instrumento não possuem carga decisória; (b) 502 do CPC, pois o acórdão recorrido permitiu reexame de matéria já decidida definitivamente; e (c) 494, I, do CPC, pois o acórdão determinou nova pronúncia sobre questão já decidida e transitada em julgado.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a nulidade do acórdão por admitir agravo de instrumento contra decisões que não possuem carga decisória e por violação da coisa julgada.
+Nas contrarrazões, o agravado alega que não houve violação da legislação federal, pois o erro material na decisão não transita em julgado, conforme jurisprudência e doutrina. Invoca a aplicação da Súmula n. 83 do STJ, que impede o conhecimento do recurso especial pela divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida. Além disso, destaca a aplicação da Súmula n. 7 do STJ, que veda o reexame de provas, e a ausência de demonstração de dissídio jurisprudencial nos moldes exigidos. Por fim, requer que não se conheça do recurso ou, caso dele se conheça, que seja desprovido, mantendo-se o acórdão recorrido (fls. 78-82).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de exigir contas em que a parte autora pleiteou a correção de erro material na decisão que homologou laudo pericial incorreto. Na sentença, o Juízo de primeiro grau reconheceu o erro material e homologou o laudo correto, mas não consolidou o crédito em favor do autor.
+A Corte estadual reformou parcialmente a decisão, determinando que o Juízo de origem se pronunciasse sobre o erro material.
+No recurso especial, o recorrente afirma que as decisões objeto do agravo de instrumento não possuem carga decisória, pois apenas reafirmaram o encerramento do ofício jurisdicional.
+O Tribunal de origem concluiu que as decisões possuíam carga decisória suficiente para justificar a interposição de agravo de instrumento.
+Não se verifica a alegada ofensa aos artigos, pois a questão referente à carga decisória das decisões foi devidamente analisada pela Corte estadual que concluiu que as decisões atacadas têm natureza de decisão interlocutória.
+Concluiu, ainda que (fls. 52-53):
+Com efeito, ao se pronunciar sobre o pedido do agravante, de complementação da decisão de fl. 923 do cumprimento da sentença em questão, para o fim de reconhecer como devido pelo agravado o débito encontrado pela perita, o D. Juízo "a quo" se limitou a afirmar que já proferiu sentença e encerrou seu ofício jurisdicional.
+Ocorre que a alegação do agravante é no sentido de que a mencionada decisão de fl. 923 contém erro material, posto que, ao corrigir a decisão anterior, que havia homologado laudo pericial estranho à lide, reconhecendo nada ser devido pelo agravado (fl. 920, do mesmo cumprimento de sentença), deixou de esclarecer que o laudo efetivamente homologado reconheceu crédito em seu favor (do agravante).
+Dessa forma, é necessário que o D. Juízo "a quo" se pronuncie sobre o alegado erro material, reconhecendo-o ou afastando-o, por decisão devidamente fundamentada, considerando que "o erro material é corrigível a qualquer momento, de ofício ou a requerimento da parte, sem que daí resulte ofensa à coisa julgada (RSTJ 34/378)" (CPC e legislação processual em vigor, Theotônio Negrão e colaboradores, 49ª edição, nota 11 ao artigo 494, p. 527).
+Rever tal entendimento demandaria reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
