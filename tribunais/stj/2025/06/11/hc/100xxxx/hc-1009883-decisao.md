@@ -1,0 +1,21 @@
+DECISÃO
+EDILSON RIBEIRO LEITE alega sofrer constrangimento ilegal em decorrência de decisão monocrática proferida por Juiz Respondente em 2º Grau do Tribunal de Justiça do Estado de Goiás, que indeferiu a liminar no HC n. 5436297-94.2025.8.09.0051.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para converter a prisão em flagrante do acusado, pela suposta prática do crime previsto no art. 306, caput, do Código de Trânsito Brasileiro, em custódia preventiva.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+O indeferimento da liminar, no writ originário, foi assim justificado (fls. 11-12, grifei):
+Feito esse breve relato, passo à decisão, ponderando, de pronto, a inviabilidade de deferimento da tutela de urgência.
+A uma, porque a sustentada ausência dos fundamentos de cautelaridade autorizadores da prisão provisória de Edílson Ribeiro Leite, bem como a defendida aplicabilidade das medidas restritivas alternativas consistem, genuinamente, no próprio mérito da impetração, motivo pelo qual sua análise compete ao Órgão colegiado, ao depois do desenvolvimento completo da causa, conforme orientação do Superior Tribunal de Justiça:
+ ..
+A duas, porque, em juízo de avaliação superficial e provisória, verifica-se que o ato jurisdicional impugnado neste habeas corpus atende, no mínimo, aos aspectos extrínsecos de legalidade (artigos 310 a 315 do CPP) de que se devem revestir toda e qualquer deliberação ordenatória e mantenedora de uma prisão cautelar, porquanto foi editado por autoridade judiciária competente, atendendo a pedido do Ministério Público; apesar de o ilícito tipificado no artigo 306 do CTB não ser punido com sanção privativa de liberdade máxima superior a 4 anos, o paciente é reincidente específico; e a magistrada prolatora da decisão explicitou os motivos de seu convencimento quanto à necessidade da decretação da segregação carcerária preventiva de Edílson Ribeiro Leite.
+Forte em tais considerações, indefiro o pedido de concessão liminar do habeas corpus e determino a requisição de informes ao 1º Juízo das garantias desta Capital, a serem prestadas no prazo de 48 horas, colhendo-se, na sequência, o parecer da ilustrada Procuradoria-Geral de Justiça, na condição de fiscal do ordenamento jurídico.
+Na hipótese, vê-se que o pedido de urgência foi indeferido por não se identificar, naquele momento processual, ilegalidade no decreto preventivo, que ressaltou a reincidência específica do acusado e, por conseguinte, o risco de reiteração delitiva.
+Além disso, o decisum consignou que as ponderações defensivas, relacionadas à fundamentação do decreto preventivo e à suficiência das medidas cautelares menos gravosas, devem ser analisadas de modo detalhado no momento oportuno, com a vinda de esclarecimentos da autoridade apontada como coatora.
+Diante desse cenário, não constato flagrante ilegalidade na espécie.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
