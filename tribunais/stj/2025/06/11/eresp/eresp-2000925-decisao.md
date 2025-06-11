@@ -1,0 +1,7 @@
+DECISÃO
+1. Levando-se em consideração que nos embargos de divergência de fls. 22.830-23.035 e 23.036-23.126 foram indicados arestos paradigmas proferidos por Turmas de Seções diversas, declino da competência, em favor da Corte Especial, para a análise destes dois recursos, nos termos do art. 11, XIII, do RISTJ.
+2. No que tange aos embargos de fls. 22.768-22.829, opostos por GENIVALDO MARQUES DOS SANTOS, não observo a necessária similitude fática entre os casos confrontados (acórdão recorrido e o paradigma apresentado) que permitam o regular processamento do recurso.
+Deveras, no paradigma, houve a intimação equivocada de advogado dativo para o oferecimento de alegações finais. No caso dos autos, contudo, "o recorrente ficou sem defensor no período compreendido entre as defesas prévias e as audiências de inquirição das testemunhas, mas que voltou ao processo com novos patronos a uma daquelas audiências e no interrogatório, não acarretando prejuízo à defesa a revelia decretada, notadamente porque já havia sido nomeado defensor dativo naquele interregno" (fl. 21.2318).
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência de GENIVALDO MARQUES DOS SANTOS. Em relação aos outros dois embargos de divergência apresentados, determino que os autos sejam distribuídos a um dos Ministros integrantes da Corte Especial.
+Publique-se, intime-se e cumpra-se.
+EMENTA
