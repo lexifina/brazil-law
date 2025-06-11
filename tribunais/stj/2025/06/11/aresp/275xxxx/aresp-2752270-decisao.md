@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por DANIEL JUNIO ALVES DE MEIRA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 50):
+EMENTA: AGRAVO EM EXECUÇÃO - FALTA GRAVE - POSSE DE CARREGADOR DE APARELHO CELULAR - COMPONENTE ESSENCIAL - SUFICIÊNCIA DE PROVAS - PALAVRA DOS AGENTES PENITENCIÁRIOS - RECONHECIMENTO DA INFRAÇÃO DISCIPLINAR - CABIMENTO - 1. Em conformidade com a inteligência do artigo 50, inciso VII, da Lei de Execução Penal, comete falta grave o reeducando que tem em sua posse ou faz uso de aparelho celular no interior do estabelecimento prisional. - 2. Consoante entendimento do Superior Tribunal de Justiça, a posse de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, ainda que isoladamente, constitui falta grave. - 3. A palavra do agente público, quando vinculada ao exercício da sua função, goza de presunção de veracidade, sendo de especial relevância para a apuração da falta grave, sobretudo quando alinhada às outras provas colhidas. - 4. Havendo provas de que o reeducando tinha em sua posse componente essencial para o funcionamento de aparelho de telefone celular, é necessário o reconhecimento da falta grave, com a aplicação das suas consequências legais.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 133-138).
+Contraminuta apresentada (e-STJ fls. 142-144).
+O Ministério Público Federal opinou pelo "desprovimento do agravo" (e-STJ fls. 165-167).
+É o relatório.
+Decido.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial defensivo(e-STJ fls. 97-110) aponta violação ao artigo 50, inciso I, da Lei de Execução Penal, bem como aos princípios da presunção de inocência e do in dubio pro reo. Assevera o recorrente, em síntese, que houve uma injustiça epistêmica, pois se concedeu excessiva credibilidade ao testemunho dos policiais penais, desconsiderando a negativa do acusado. Pretende a reforma do acórdão.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de análise aprofundada da prova e não apenas nova interpretação.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639 /MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5 /2024, DJe de 3/6/2024).
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
