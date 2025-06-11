@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIO CÉSAR DOS SANTOS à decisão assim resumida (fl. 711):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. Agravo em recurso especial não conhecido.
+O embargante alega a ocorrência dos vícios previstos no art. 619 do Código de Processo Penal, pugnando pelo saneamento, inclusive com a atribuição de efeitos infringentes ao julgado.
+Diz que teria ocorrido omissão na decisão, pois deixou de analisar (vide omissão) a existência, de ofício, das ilegalid ades trazidas no bojo do recurso especial, conforme permite o art. 647-A e p. ú. do Código de Processo Penal (fl. 715).
+É o relatório.
+Não merece acolhida a pretensão do embargante.
+Por oportuno, trago à colação os seguintes excertos da decisão embargada (fls. 711/712 - grifo nosso):
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) ausência de prequestionamento (Súmula 211 do STJ); b) Súmula 283 do STF; c) Súmula 284 do STF; d) Súmula 7 do STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, nenhum dos fundamentos constantes da decisão agravada.
+No tocante à Súmula 283/STF, limitou-se a argumentar, de maneira genérica, que não é obrigado a atacar o v. acórdão como um todo, mas tão somente as partes (argumentos) que considera ilegais e que, por si só, importaram na fundamentação do provimento jurisdicional negativo, sob pena de se exigir, a depender do caso, um esforço argumentativo ilegal (fl. 605).
+Nessa medida, não demonstrou em suas razões do agravo que o teria feito, deixando de elencar os trechos do recurso especial em que apresentou os fundamentos do Tribunal de origem acerca da questão controvertida, e a respectiva argumentação recursal que expressamente se insurgiu quanto aos citados fundamentos.
+Ainda, não impugnou de maneira suficiente às Sumulas 211 do STJ e 284 do STF, uma vez que não demonstrou a inadequação dos óbices elencados, deixando de transcrever os trechos do acórdão que abordaram a matéria, e do apelo nobre em que indicou a forma como o acórdão atacado violou os dispositivos legais considerados ofendidos.
+Já no tocante a Súmula 7 do STJ, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe ; e AgRg no AREsp n. 2.143.166/SP, Ministro16/6/2023 Antonio Saldanha Palheiro, Sexta Turma, DJe .14/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. quo Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, D Je .
+Ao que se observa, os presentes embargos de declaração buscam, na verdade, rediscutir, com intuito infringente, questões já decididas pela decisão recorrida, providência incompatível com a via eleita, inexistindo vício - ambiguidade, obscuridade, contradição ou mesmo omissão - sobre o qual se devesse pronunciar em sede de embargos declaratórios, não se podendo atribuir-lhe o defeito de omissa, ambígua, obscura ou a existência de erro, só porque dispôs contrariamente às pretensões do embargante.
+Ademais, cumpre ressaltar que o Magistrado não está obrigado a se pronunciar acerca de toda e qualquer alegação levantada pelas partes, mas apenas sobre aquela considerada suficiente para alterar a decisão, o que foi feito.
+Não obstante isso, a despeito do esforço argumentativo do impetrante, é descabido postular a concessão de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção (AgRg no REsp n. 2.037.768/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023 - grifo nosso).
+Na mesma linha, entre outros, AgRg no AREsp n. 431.186/ES, Ministra Laurita Vaz, Quinta Turma, DJe 27/5/2014.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA.
+Embargos de declaração rejeitados.
