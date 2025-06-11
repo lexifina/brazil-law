@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LYRA RANIERI ADVOGADOS ASSOCIADOS, LUIZ CARLOS LYRA RANIERI, CAROLINA STOCCO LYRA RANIERI e ADALBERTO LOUREIRO DE FREITAS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de comprovação de violação dos artigos 1.022 e 489, § 1º, do Código de Processo Civil, na incidência da Súmula n. 7 e na ausência de comprovação de violação dos artigos 550, § 3º, e 551, § 2º, do Código de Processo Civil (fls. 171-173).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial não pode ser conhecido por faltarem os pré-requisitos necessários, ou seja, ausência de dissídio jurisprudencial para fins da Súmula n. 83 do STF, e que não houve ofensa aos dispositivos constitucionais arguidos pelo recorrente, ou mesmo violação dos ditames da lei, devendo o acórdão ser mantido em todo o seu teor (fls. 202-209).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de exigir contas. O julgado foi assim ementado (fls. 94-100):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. VALOR DA CAUSA. FIXAÇÃO POR ESTIMATIVA. ADMISSIBILIDADE. PROVEITO ECONÔMICO NÃO AFERÍVEL DE IMEDIATO. DISCUSSÃO SOBRE OS VALORES DEVIDOS. PLANILHA. IMPUGNAÇÃO. PRODUÇÃO DE PROVA PERICIAL. REQUISIÇÃO DE AMBAS AS PARTES. RATEIO DOS HONORÁRIOS PERICIAIS. INTELIGÊNCIA DO ART. 95 DO CÓDIGO DE PROCESSO CIVIL (CPC). RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 118-121):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ACÓRDÃO. CARÁTER INFRINGENTE. DESCABIMENTO. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. INTELIGÊNCIA DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL (CPC). REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EFEITO MODIFICATIVO INDEVIDO. MULTA POR LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO, NO CASO. EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta violação dos seguintes artigos: a) 1.022, II, c/c 489, § 1º, IV, do Código de Processo Civil, porque o acórdão recorrido não se manifestou sobre a ausência de impugnação específica das contas apresentadas; b) 550, § 3º, c/c 551, § 2º, do Código de Processo Civil, porque a impugnação das contas apresentadas pelo réu deve ser fundamentada e específica, o que não ocorreu; e c) 95 do Código de Processo Civil, porque a responsabilidade pelo depósito dos honorários periciais deve ser exclusiva da parte autora, que pleiteou a produção de prova (fls. 126-145).
+Requer seja dado total provimento ao recurso especial de modo a reformar-se integralmente o acórdão recorrido para o fim de homologar as contas prestadas pelos recorrentes, ou, salvo melhor Juízo, caso esta Corte não se sinta habilitada a julgar desde logo a lide, determinar-se o retorno dos autos à instância inferior para que analise a questão mediante o entendimento firmado por esta Corte acerca da correta aplicação dos artigos 550, § 3º, e 551, § 2º, do Código de Processo Civil (fls. 145-146).
+Nas contrarrazões, a parte recorrida aduz que não houve ofensa aos dispositivos constitucionais arguidos pelos recorrentes, ou mesmo violação dos ditames da lei, devendo o acórdão ser mantido em todo o seu teor (fls. 163-170).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de exigir contas em que a parte autora pleiteou a prestação de contas dos valores recebidos pelos requeridos, na qualidade de procuradores do requerente no Processo n. 0019683-58.2016.8.26.0100, em trâmite na 34ª Vara Cível da Comarca da Capital, alegando retenção indevida de valores (fls. 9-10).
+Na sentença, o Juízo de primeiro grau rejeitou a impugnação ao valor da causa, determinou a produção de prova pericial contábil e fixou os honorários provisórios em R$ 2.000,00 (fl. 10).
+A Corte estadual negou provimento ao agravo de instrumento, mantendo a decisão de primeiro grau por seus fundamentos (fls. 94-100).
+I - Arts. 1.022, II, c/c 489, § 1º, IV, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que o acórdão recorrido não se manifestou sobre a ausência de impugnação específica das contas apresentadas.
+A Corte estadual concluiu que a questão referente à impugnação das contas foi devidamente analisada, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 99):
+De outra parte, os agravantes afirmam que deve prevalecer a planilha de cálculos por eles apresentada (fls. 151/160). Tal planilha foi impugnada (fls. 274/289 e 318/329), sobejando controvérsia considerável aferível apenas por prova pericial, como assinalada na decisão recorrida, observado que ambas as partes pugnaram pela realização da prova pericial, razão pela qual incide o teor do art. 95 do Código de Processo Civil (CPC).
+II - Arts. 95, 550, § 3º, c/c 551, § 2º, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que a impugnação das contas apresentadas pelo réu deve ser fundamentada e específica, o que não ocorreu.
+A Corte estadual concluiu que a questão referente à impugnação das contas foi devidamente analisada, não havendo vício que possa nulificar o acórdão recorrido. Confira-se trecho do acórdão recorrido (fl. 99):
+De outra parte, os agravantes afirmam que deve prevalecer a planilha de cálculos por eles apresentada (fls. 151/160). Tal planilha foi impugnada (fls. 274/289 e 318/329), sobejando controvérsia considerável aferível apenas por prova pericial, como assinalada na decisão recorrida, observado que ambas as partes pugnaram pela realização da prova pericial, razão pela qual incide o teor do art. 95 do Código de Processo Civil (CPC).
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
