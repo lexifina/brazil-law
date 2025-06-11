@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandando de segurança interposto por ISSAM CHAMMAL TANNOUS, com fulcro no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais.
+O recurso ordinário foi interposto contra acórdão que julgou agravo interno em mandado de segurança, que recebeu a seguinte (fl. 415):
+MANDADO DE SEGURANÇA. DECISÃO ATACÁVEL POR RECURSO DOTADO DE EFEITO SUSPENSIVO. NÃO CONHECIMENTO DO WRIT. Se a decisão atacada pode ser vergastada por recurso dotado de efeito suspensivo, incabível Mandado de Segurança por expressa previsão normativa. No caso, a decisão atacada pode ser discutida no bojo de apelação ou de contrarrazões a tal recurso, ensejando a inadmissibilidade do Mandado de Segurança.
+Não houve interposição de embargos de declaração.
+Alega o recorrente que (fl. 425):
+Espólio de Issam Chammal Tannous, representado ppor  sic  seu inventariante, ora recorrente, ajuizou ação de indenização (nº 5000898-35.2023.8.13.0534) contra Felipe Carvalho Tannous, por uso indevido de imóvel rural pertencente ao espólio. No curso da ação, o Juízo da Vara Única da Comarca de Presidente Olegário proferiu de- cisão (id. 10238146819, integrada por id. 10306919551) que determinou:
+a) a exclusão do espólio do polo ativo da demanda, substituindo-o pelo recorrente em nome próprio;
+b) a aplicação de multa de 1% sobre o valor da causa, imputada diretamente ao recorrente, por ausência em audiência de conciliação.
+Contra tal decisão, o espólio interpôs agravo de instrumento (nº 1.0000.24.439806-1/001), não conhecido por não se enquadrar nas hipóteses do artigo 1.015 do CPC. Em seguida, o recorrente impetrou mandado de segurança (nº 1.0000.24.518248-0/000), buscando a anu- lação do ato judicial.
+O Tribunal de Justiça de Minas Gerais, por decisão monocrática, indeferiu a inicial, sob o fundamento de que a decisão impugnada seria atacável por apelação, com efeito suspensivo, nos termos do artigo 5º, inciso II, da Lei nº 12.016/2009, e do artigo 1.009 do CPC. Contra essa decisão, foi interposto agravo interno (nº 1.0000.24.518248-0/001), ao qual foi negado provimento, mantendo-se o indeferimento.
+Pugna, por fim, pela concessão de tutela de urgência com base no art. 1.027, § 2º, do CPC para suspender os efeitos do ato impugnado, inclusive a designação de audiência de instrução e julgamento.
+No mérito, requer a anulação do ato impugnado para manter o espólio de Issam Chammal Tannous como autor dos autos n. 5000898-35.2023.8.13.0534, anular a multa aplicada ao recorrente na decisão de primeiro grau, por violação do art. 334, § 8º, do CPC e pela ausência de intimação regular do espólio, e anular a multa aplicada pelo Tribunal de Justiça de Minas Gerais no acórdão do agravo interno, por violação do art. 1.021, § 4º, do CPC.
+O pedido de tutela de urgência foi reiterado à fl. 460.
+É, no essencial, o relatório.
+Cuida-se, na origem, de mandado de segurança impetrado contra ato do Juízo da Vara Única da Comarca de Presidente Olegário, nos autos da ação indenizatória n. 5000898-35.2023.8.13.0534, que determinou a substituição do espólio pelo inventariante como autor.
+Nesse cenário, revela-se irretocável o entendimento adotado pelo acórdão recorrido, pois o teor do ato judicial em questão deve ser combatido pela via recursal adequada.
+Contra a decisão de primeira instância que se busca anular a parte interpôs inicialmente o agravo de instrumento ao qual o TJMG negou seguimento (fls. 31-48), por considerar que o caso não se enquadrava em uma das hipóteses do art. 1.015 do CPC. A discordância dos recorrentes contra esse acórdão poderia ter sido expressa por meio de recurso especial dirigido ao STJ, e, uma vez admitido, os recorrentes poderiam pleitear a concessão de efeito suspensivo ao recurso especial. Dessa forma, não se sustenta o argumento de que o mandado de segurança foi interposto contra decisão que não desafiava outro recurso.
+Inafastável, portanto, o óbice da Súmula 267 do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Importante observar, ainda, que a Lei n. 12.016/2009 - que disciplina o mandado de segurança individual e coletivo - dispõe, em seu art. 5º, incisos II e III, que não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo ou quando se tratar de decisão judicial transitada em julgado. O writ não pode ser utilizado como sucedâneo recursal ou como ação autônoma de impugnação tendente à desconstituição da autoridade da coisa julgada. Incide, pois, na espécie, como anteriormente enfatizado, insuperável obstáculo jurídico representado pela Súmula 268/STF e pela Súmula 267/STF.
+Sobre o tema, esta Corte já decidiu:
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. SÚMULA 267 DO STF. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA DE ILEGALIDADE, TERATOLOGIA OU CARÁTER ABUSIVO NA DECISÃO COMBATIDA. SÚMULA 267/STF.
+1. É incabível o mandado de segurança quando impetrado contra decisão judicial sujeita a recurso específico ou transitada em julgado, mormente porque tal remédio constitucional não representa panaceia para toda e qualquer situação, nem é sucedâneo do recurso específico ou da ação rescisória. Inteligência da Súmula 267/STF.
+2. O mandado de segurança somente pode ser impetrado contra ato judicial, quando cristalizado o caráter abusivo, a ilegalidade ou a teratologia na decisão combatida, situação que não ocorreu nos autos.3. Agravo interno não provido.
+(AgInt no RMS n. 51.888/RS, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/5/2017, DJe de 26/5/2017.)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JURISDICIONAL PASSÍVEL DE RECURSO. NÃO CABIMENTO DO MANDAMUS. INCIDÊNCIA DAS SÚMULAS N.º 267/STF E N.º 268/STF. ABUSIVIDADE E TERATOLOGIA NÃO EVIDENCIADAS. DECISÃO ATACADA TRANSITADA EM JULGADO. NÃO CABIMENTO DO MANDADO DE SEGURANÇA.
+1. Não cabimento de mandado de segurança contra ato judicial passível de recurso ou correição, nem contra decisão judicial transitada em julgado.
+2. Incabível o mandado de segurança quando não evidenciado o caráter abusivo ou teratológico do ato judicial impugnado.
+3. Aplicação das regras do art. 5º, incisos II e III, da Lei n.º 12.016/2009, à luz das súmulas 267 e 268/STF.
+4. RECURSO ORDINÁRIO DESPROVIDO.
+(RMS n. 53.418/GO, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/4/2017, DJe de 2/5/2017.)
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança e julgo prejudicado o pedido de tutela de urgência.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ÓRDINÁRIO EM MANDADO DE SE GURANÇA. CUMPRIMENTO DE SENTENÇA. ATO JUDICIAL PASSÍVEL DE RECURSO. DESCABIMENTO DO USO DO WRIT COMO SUCEDÂNEO RECURSAL. SÚMULA 267/STF. RECURSO ORDINÁRIO IMPROVIDO. PREJUDICADA A ANÁLISE DA TUTELA DE URGÊNCIA.
