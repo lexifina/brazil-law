@@ -1,0 +1,30 @@
+DECISÃO
+RICARDO ALEXANDRE CASTANGUE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502296-76.2024.8.26.0228.
+Consta dos autos que o paciente foi condenado, pela prática do crime roubo de duplamente majorado (concurso de pessoas e restrição da liberdade da vítima), à pena de 6 anos e 5 meses de reclusão, mais multa - art. 157, § 2º, II e V, do Código Penal.
+A defesa pleiteia, por meio deste writ, a redução do quantum fixado na derradeira etapa da individualização da pena porque, em virtude da "ausência de fundamentação idônea,  a fim de que ela  seja elevada à pena a fração de um terço em razão das causas de aumento de pena" (fls. 3-8).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+Este habeas corpus foi impetrado em 29/8/2024 e se insurge contra acórdão de apelação criminal julgado no dia 2/8/2024 (fl. 24). Na oportunidade, a Corte estadual negou provimento ao pedido defensivo.
+Diante desse cenário, uma vez que a impetração se deu no prazo para a interposição de recurso especial, conheço da ação constitucional.
+I. Dosimetria - terceira etapa
+A via da ação constitucional somente se mostra adequada para a análise do cômputo da sanção quando não for necessária o aprofundamento do conjunto probatório e houver flagrante ilegalidade.
+A defesa alega a existência de cúmulo material das causas de aumento, dada a ausência de fundamentação. Requer a diminuição da fração incidente por ser mais vantajosa para o réu.
+A sentença condenatória assim afirmou ao proceder ao cálculo da reprimenda (fls. 14-23, grifei):
+ ..  Com fulcro nos critérios norteadores do artigo 59 do Código Penal, fixo a pena-base 1/6 acima do seu mínimo, ou seja, em 04 anos e 08 meses de reclusão e pagamento de 11 dias-multa. Isto porque o réu ostenta quatro condenações geradoras de reincidência (pelos crimes de tráfico e roubo, conforme certidão de fls. 30/36). Uma delas, no entanto, será considerada como maus antecedentes, para fins de majorar a pena base, enquanto as outras serão consideradas como agravante a ser aplicada na segunda fase de dosagem da pena. Na segunda fase de dosagem da pena, presentes a agravante da tripla reincidência específica (conforme certidão de fls. 30/36), que é compensada pela atenuante da confissão, mantendo-se a pena acima.
+Na terceira fase da fixação da reprimenda, cabível o acréscimo decorrente das causas de aumento reconhecidas na sentença e previstas no §2º do artigo 157, do Código Penal, em razão do concurso de agentes e restrição de liberdade da vítima. Nesse particular, a pena deve receber aumento de 3/8, resultando em uma reprimenda de 6 anos e 5 meses de reclusão e pagamento de 15 dias-multa. Neste sentido: "No crime de roubo, sendo cinco as qualificadoras previstas no §2º do artigo 157 do Código Penal, a majoração da pena deve obedecer ao seguinte critério: 1/3, se presente uma causa; 3/8, se presentes duas causas; 5/12, se presentes três; 7/16, se quatro e de 1/2 se presentes as cinco causas especiais de aumento" (RJDTA Crim 63/64)  .. .
+E o acórdão assinalou o que se segue (fls. 24-31, destaquei):
+ ..  Na terceira etapa, houve a elevação das penas em 3/8, devido à incidência das causas de aumento quanto ao concurso de agentes e à restrição à liberdade da vítima, alcançando 06 anos e 05 meses de reclusão e 15 dias-multa em seu valor mínimo unitário. Não há qualquer ilegalidade na cumulação de causas de aumento previstas na parte especial do Código Penal, pois a regra prevista no artigo 68, parágrafo único, do mesmo diploma legal é faculdade conferida ao julgador, não constituindo direito subjetivo do acusado  .. .
+No caso dos autos, noto não haver fundamentação apta a justificar, concretamente, a necessidade de elevar-se a pena e cumular as duas majorantes.
+A jurisprudência desta Corte afirma:
+ ..  é possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes" (AgRg no HC n. 615.932/SP, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 27/10/2020).3. Ademais, de acordo com o enunciado da Súmula n. 443 do STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes  ..  (AgRg no HC n. 806.159/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 18/4/2024, grifei).
+Nos termos da Súmula n. 443 desta Corte, a fração da causa de aumento do crime de roubo, na terceira etapa, obriga o julgador a argumentar, concretamente, a elevação da pena das causas de aumento incidentes. Isso porque é insuficiente a simples menção à quantidade de majorantes, como é a hipótese dos autos.
+Dessa forma, na derradeira etapa da individualização da pena, faço incidir, tão somente, o aumento à razão de 1/3, fração mínima correspondente à, tão somente, uma majorante, visto que o crime foi consumado em período anterior à alteração legislativa elaborada na Lei n. 13.654/2009). Assim, estabilizo a reprimenda em 6 anos, 2 meses e 20 dias de reclusão.
+Nessa perspectiva:
+ ..  1. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Súmula n. 443 do STJ.
+2. As instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido  ..  (HC n. 297.350/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/9/2015).
+II. Dispositivo
+À vista do exposto, concedo a ordem de habeas corpus e determino a redução da pena para 6 anos, 2 meses e 20 dias de reclusão.
+Comunique-se o teor desta decisão às instâncias ordinárias, com urgência, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
