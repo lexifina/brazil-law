@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA CÍVEL, INFÂNCIA E DA JUVENTUDE DE VALPARAÍSO DE GOIÁS - GO em face do JUÍZO DE DIREITO DA 1ª VARA CÍVEL, DE FAMÍLIA E DE ÓRFÃOS E SUCESSÕES DE SANTA MARIA - DF.
+Ação: revisional de contrato de empréstimo ajuizada por WILLIAM DA SILVA QUEIROZ em face de BANCO TOYOTA DO BRASIL S/A.
+Manifestação do Juízo de Santa Maria - DF: afirmou que a distribuição da ação na Comarca de Santa Maria caracteriza escolha aleatória de foro, nos termos do art. 63, §§ 1º e 5º, do CPC, porque não guarda correspondência com o domicílio das partes ou com o local de cumprimento da obrigação, declinando da competência, "seja para facilitar a defesa da parte hipossuficiente (consumidor), seja para evitar a seleção (aleatória) do foro" (e-STJ fl. 78).
+Manifestação do Juízo de Valparaíso de Goiás - GO: suscitou o presente conflito de competência, tendo em vista a prejudicialidade da demanda revisional com a ação de busca e apreensão nº 0711415-34.2023.8.07.0010, em trâmite no Juízo de Santa Maria - DF, e a necessidade de reunião dos processos para evitar a prolação de decisões contraditórias. Acentuou que o autor requereu, expressamente, que a revisional fosse apensada à busca e apreensão, bem como a sua suspensão, mas esses pedidos não foram analisados pelo juízo suscitado.
+Parecer do MPF: deixou de opinar.
+É O RELATÓRIO. DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Registre-se, inicialmente, que o art. 63 do CPC diz respeito aos limites para a modificação da competência relativa mediante eleição de foro e, assim, não guarda pertinência como a hipótese dos autos, pelo o que se depreende dos documentos acostados ao incidente, de modo que se mostra inviável a utilização, pelo juízo suscitado, de tal norma para justificar o declínio da competência.
+Ademais, consoante a Segunda Seção desta Corte, em se tratando de relações de consumo, a competência é absoluta em favor do consumidor quando este ocupa o polo passivo da ação, prevalecendo o foro de seu domicilio, em razão do princípio da facilitação da defesa.
+De outro lado, naquelas hipóteses em que a demanda foi proposta pelo consumidor, a lei autoriza que ele possa optar entre o foro do seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, no juízo que melhor atenda a seus interesses, pois, nestas situações a competência é relativa, aplicando-se o teor da Súmula 33 do STJ. Nesse sentido: AgRg no CC 130.813/DF, DJe 3/8/2016; AgRg no CC 129.294/DF, DJe 1º/10/2014; AgRg no CC 124.351/DF, Segunda Seção, DJe 17/5/2013.
+Na espécie, a ação foi proposta pelo consumidor na Comarca de Santa Maria - DF, indicada por ele como sendo o foro de seu domicílio, que inclusive coincide com o endereço indicado na cédula de crédito bancário objeto de revisão.
+Assim, enquanto não houver oposição de exceção pela parte demandada, é vedado ao órgão julgador declarar-se incompetente de ofício, ficando prorrogada a competência do Juízo a quem foi inicialmente distribuído o feito.
+Forte nessas razões, CONHEÇO do conflito de competência para determinar a competência do JUÍZO DE DIREITO DA 1ª VARA CÍVEL, DE FAMÍLIA E DE ÓRFÃOS E SUCESSÕES DE SANTA MARIA - DF.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DE REVISÃO DE CONTRATO. ESCOLHA DE FORO PELO CONSUMIDOR. COMPETÊNCIA TERRITORIAL. DECLINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ.
+1. O consumidor tem a possibilidade de escolher onde ajuizará sua ação, pois é uma faculdade pertencente somente àquela pessoa física ou jurídica destinatária final do bem ou serviço na relação de consumo.
+2. A competência relativa é incompatível com a declinação de ofício, segundo enuncia a Súmula 33/STJ.
+3. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 1ª VARA CÍVEL, DE FAMÍLIA E DE ÓRFÃOS E SUCESSÕES DE SANTA MARIA - DF.
