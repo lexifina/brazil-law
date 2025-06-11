@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Não se admite, em sede de recurso especial, a análise de pretensões que demandem a interpretação de cláusulas contratuais ou o reexame de provas dos autos. Conclusão do acórdão recorrido, quanto à ilegitimidade passiva da financeira, insuscetível de reforma, ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por CAIXA SEGURADORA, contra decisão monocrática de fls. 2646/2650 (e-STJ), a qual negou provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal Regional Federal da 5.ª Região,  assim  ementado  (fl.  2.153,  e-STJ):
+PROCESSUAL CIVIL. ILEGITIMIDADE DA CAIXA ECONÔMICA FEDERAL. AUSÊNCIA DE LEGITIMIDADE DA SEGURADORA PARA RECORRER. NÃO CONHECIMENTO. 1. Agravo de instrumento, com pedido de tutela provisória recursal indeferido, interposto pela CAIXA SEGURADORA S/A, contra decisão interlocutória em procedimento comum cível, que reconheceu preliminarmente a ilegitimidade da CAIXA ECONÔMICA FEDERAL para figurar no polo passivo da ação, a qual visa a obtenção de indenização por danos morais e materiais supostamente experimentados em decorrência de vícios construtivos no imóvel adquirido através do Programa Minha Casa Minha Vida com financiamento concedido pela CEF. 2. Em razões recursais, a agravante defende a legitimidade passiva da CEF, por entender que inexiste contrato de seguro no financiamento do programa e sim um fundo garantidor gerido diretamente pela CEF (FG Hab criado pela Lei n. 11.977/2009), acarretando a ausência de responsabilidade da CAIXA SEGURADORA. 3. No processo originário, promovido contra a Caixa Econômica Federal (CEF), a CAIXA SEGURADORA S/A, a JB Andrade Incorporações e Construções LTDA e o Município de Camaragibe, e a parte autora aduz ter realizado contrato de compra e venda para aquisição de imóvel, por meio do Programa Minha Casa Minha Vida, contudo, intenta demonstrar que o bem está eivado de vícios construtivos, que geram transtornos e insegurança, por tais razões, pleiteia a disponibilização de outro imóvel para a segurança dos requerentes e o pagamento de indenização por danos morais. 4. Promovida a ação pela parte autora contra uma pluralidade de litigantes em regime de litisconsórcio passivo facultativo, a exclusão de um destes, em razão de ilegitimidade reconhecida pelo juízo, somente pode ser impugnada na via recursal pela própria parte autora, pois cada litisconsorte é distintamente considerado na relação com a parte adversa (art. 117 do CPC). Além disso, na hipótese, a CAIXA SEGURADORA S/A não está em posição de parte vencida ou terceiro prejudicado e poderá oportunamente aduzir sua ilegitimidade passiva durante o processamento perante a Justiça Estadual. 5. A jurisprudência do Regional corrobora com esse entendimento: TRF-5 - AGRAVO DE INSTRUMENTO: 0807734-21.2022.4.05.0000, Relator: FERNANDO BRAGA DAMASCENO, Data de Julgamento: 20/10/2022, 3ª TURMA; TRF5 - AI 0812168-19.2023.4.05.0000, Relator: DESEMBARGADOR FEDERAL LEONARDO RESENDE MARTINS, 6ª TURMA, Data de Julgamento: 20/02/2024. 6. Agravo de instrumento não conhecido.
+Os embargos de declaração foram rejeitados (fls. 1243/2344, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  aos  artigos  996 do CPC e 28 da Lei n. 11.977/2.009.
+Sustenta,  em  síntese, que:
+a) sua legitimidade para recorrer é evidente, uma vez que "decorre do simples fato de risco ao seu patrimônio, caso os pedidos autorais sejam julgados procedentes.";
+b) "inexiste contrato de seguro no financiamento do Programa Minha Casa Minha Vida".
+c) cabe apenas à Caixa Econômica Federal figurar em razão da sua condição de administradora do Fundo Garantidor de Habitação Popular.
+Sem contrarrazões.
+Após decisão de admissão do recurso especial (fls. 2.544/2.545, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 2646/2650, e-STJ), este signatário negou provimento ao recurso especial ante a consonância da decisão com o entendimento existente nesta Corte Superior e com amparo nos enunciados contidos nas Súmulas 5 e 7/STJ.
+Em suas razões de agravo interno (fls. 2653/2662, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Impugnação às fls. 2667/2679, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Não se admite, em sede de recurso especial, a análise de pretensões que demandem a interpretação de cláusulas contratuais ou o reexame de provas dos autos. Conclusão do acórdão recorrido, quanto à ilegitimidade passiva da financeira, insuscetível de reforma, ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido.
+1. Quanto ao interesse em recorrer e a manutenção da Caixa Econômica Federal no feito, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim consignou (e-STJ fls. 2157/2158):
+No processo originário, promovido contra a Caixa Econômica Federal (CEF), a CAIXA SEGURADORA S/A, a JB Andrade Incorporações e Construções LTDA e o Município de Camaragibe, e a parte autora aduz ter realizado contrato de compra e venda para aquisição de imóvel, por meio do Programa Minha Casa Minha Vida, contudo, intenta demonstrar que o bem está eivado de vícios construtivos, que geram transtornos e insegurança, por tais razões, pleiteia a disponibilização de outro imóvel para a segurança dos requerentes e o pagamento de indenização por danos morais.
+Inicialmente, quando ao cabimento do agravo, observo que o Código de Processo Civil, em seu art. 1.015, inciso VII, estabelece que cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre exclusão de litisconsorte.
+No entanto, embora o agravo seja cabível (dimensão objetiva), carece o agravante de legitimidade recursal (dimensão subjetiva).Isso porque, promovida a ação pela parte autora contra uma pluralidade de litigantes em regime de litisconsórcio passivo facultativo, a exclusão de um destes, em razão de ilegitimidade reconhecida pelo juízo, somente pode ser impugnada na via recursal pela própria parte autora.
+Para tanto, falece legitimidade recursal ao litisconsorte remanescente, que poderá oportunamente aduzir sua ilegitimidade passiva durante o processamento perante a Justiça Estadual. Em verdade, ressalvada a hipótese de litisconsórcio unitário, que não é o caso, "os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos" (art. 117 do CPC, primeira parte), ou seja, cada litigante será julgado no limite de sua responsabilidade.
+No caso dos autos, há que se entender que a CAIXA SEGURADORA S/A não tem legitimidade recursal para recorrer da decisão que exclui a Caixa Econômica Federal por ilegitimidade, pois aquela não está em posição de parte vencida ou terceiro prejudicado.
+De tal sorte, apenas a parte autora teria interesse recursal para insurgir contra tal decisão.
+Diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos auto s, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS CUMULADA COM OBRIGAÇÃO DE FAZER. MORADIA POPULAR. VÍCIOS DE CONSTRUÇÃO DE IMÓVEL. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL QUANDO AGIR COMO MERO AGENTE FINANCEIRO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de reconhecer a ilegitimidade passiva da empresa pública ora agravante para responder à ação por vício de construção de imóvel quando atuar como mero agente financeiro. Precedentes.
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, pelas alíneas a e c do permissivo constitucional.
+3. Agravo interno desprovido" (AgInt no AREsp 1.516.085/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. IMÓVEL. ENTREGA. ATRASO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ILEGITIMIDADE DA CEF. AGENTE FINANCEIRO. ATUAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do tribunal de origem, que, com base em detida análise do contrato firmado entre as partes, entendeu que a CEF atuou exclusivamente na qualidade de agente operador do financiamento, atrai os óbices das Súmulas nºs 5 e 7/STJ.
+4. Consoante o entendimento firmado pelo Superior Tribunal de Justiça, a CEF, nas hipóteses em que atua na condição de agente financeiro em sentido estrito, não possui legitimidade para responder por danos na obra financiada.
+5. Agravo interno não provido. (AgInt no REsp 1.663.524/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/10/2020, DJe 29/10/2020).
+De rigor, portanto, a manutenção da decisão ora impugnada.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
