@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de impetração de habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal.
+2. Revela-se inviável, notadamente diante da incompetência deste Superior Tribunal, analisar habeas corpus substitutivo de revisão criminal. Sem descurar de sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do apelo especial, o que enfraquece a delimitação de teses para a uniformidade e a previsibilidade do sistema jurídico.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GEBER BARBOSA interpõe agravo regimental contra a decisão de fls. 1.919-1.922, por meio da qual não conheci do habeas corpus.
+A defesa pondera que, não obstante a impetração seja substitutiva de revisão criminal, "a excepcionalidade da situação tratada neste caso permite superar o atual momento jurisprudencial e, dessa forma, examinar o mérito desta ação e, ao término, julgar procedente a pretensão deduzida em juízo" (fl. 1.930).
+Assevera que, embora o pedido de reconhecimento da atenuante da confissão espontânea nunca haja sido formulado expressamente ao Tribunal a quo, a Corte estadual indicou, por mais de uma vez, que tinha consciência acerca da admissão do delito feita pelo agravante, tudo a demonstrar que o réu faz jus à referida atenuante.
+Requer a reconsideração da decisão impugnada ou a submissão do feito a julgamento pelo órgão colegiado, a fim de que o regimental seja provido.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de impetração de habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal.
+2. Revela-se inviável, notadamente diante da incompetência deste Superior Tribunal, analisar habeas corpus substitutivo de revisão criminal. Sem descurar de sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do apelo especial, o que enfraquece a delimitação de teses para a uniformidade e a previsibilidade do sistema jurídico.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pela defesa, o julgado deve ser mantido por seus próprios fundamentos.
+Conforme destacado na decisão monocrática, este habeas corpus foi impetrado em 3/3/2025 e se insurge contra acórdão de apelação proferido em 3/5/2018, transitado em julgado em 22/5/2020 (fl. 1.806), a denotar que este writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Apesar da ampliação do uso do habeas corpus, e sem descurar de sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+Em diversas ocasiões, esta Corte Superior reafirmou a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+No caso em apreço, não obstante haja sido ajuizada anterior revisão criminal, o assunto aqui tratado não foi objeto de insurgência no pedido revisional.
+Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+A propósito:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Ademais, conforme destaquei na decisão monocrática, o pleito de reconhecimento da atenuante da confissão espontânea não foi apresentado às instâncias ordinárias em nenhum momento, de modo que, também por este motivo, é defeso ao STJ conhecer diretamente do assunto.
+Mais uma vez, entendo oportuno citar o parecer emitido pela Procuradora Regional da República no exercício da função de Subprocurador-Geral da República Silvana Batini Cesar Goes (fls. 1.910-1.911):
+Preliminarmente, impende destacar a impropriedade da via eleita.
+A jurisprudência desse Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma o Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Contudo, na hipótese dos autos, não se verifica a ocorrência de constrangimento ilegal a amparar a concessão da ordem de ofício.
+De plano, percebe-se da leitura do acórdão que negou provimento à apelação criminal (fls. 12/24), o ato processual atacado pela via mandamental, que a controvérsia não foi apreciada pela Corte originária nesse julgamento, razão pela qual esse Tribunal Superior se encontra impedido de examinar a matéria sob pena de indevida supressão de instância.
+Também importa destacar que o acórdão mencionado na petição que a defesa posteriormente atravessou aos autos tratou de revisão criminal cujo pedido se restringia ao decote de circunstância judicial negativada na sentença penal transitada em julgado.
+Confira-se (fl. 1.805): "Pretende o requerente, em suas razões (000002), o afastamento do aumento da pena-base, por entender ter seu fundamento na utilização, pelo réu, de uma faca na qual sua digital não estaria presente." Assim sendo, tem-se que o objeto da ação revisional estava circunscrito à verificação do emprego de uma faca de cozinha, elemento usado como fundamento para a exasperação da pena-base. Vale dizer, o aresto que apreciou a revisão criminal, mencionado a posteriori pela impetrante, compreende matéria afeita à primeira fase da dosimetria penal e, pois, alheia às questões concernentes à aplicação das circunstâncias legais, entre as quais, a confissão espontânea do réu, até porque nem sequer foram suscitadas perante o Tribunal local.
+Diante de tais considerações, entendo ser irretocável a conclusão da decisão ora recorrida, que não conheceu do habeas corpus.
+À vista do exposto, nego provimento ao agravo regimental.
