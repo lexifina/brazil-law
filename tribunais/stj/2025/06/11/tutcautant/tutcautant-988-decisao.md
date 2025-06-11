@@ -1,0 +1,10 @@
+DECISÃO
+Às fls. 2-8, JOSÉ HENRIQUE SAGAIS pede a atribuição de efeito suspensivo ao agravo do art. 1.042 do CPC (fls. 149-165), interposto contra a decisão do TJ/SC (fls. 145-148) que inadmitiu na origem o recurso especial (fls. 122-144).
+O requerente alega que persistem omissões no acórdão recorrido e que houve perda de parte das imagens das cenas do crime, o que tornaria provável o provimento do recurso especial. Alega que o perigo de dano reside no prosseguimento do feito em primeira instância, com o início da segunda fase do processo, agora perante o tribunal do júri. Pede, liminarmente, a atribuição de efeito suspensivo ao agravo, "determinando o sobrestamento do feito na origem em relação ao solicitante" (fl. 8), e a remessa imediata dos autos a este STJ.
+É o relatório.
+Consoante o art. 995, parágrafo único, do CPC, a concessão de efeito suspensivo ao recurso exige a demonstração da probabilidade de provimento da insurgência e o perigo de dano.
+Neste caso, sem nenhuma antecipação quanto ao mérito do recurso especial, vislumbro que há plausibilidade nas alegações defensivas, confrontando o que se decidiu nos autos do AREsp 2.724-.819/SC com os acórdãos de fls. 101-105 e 114-118. O perigo de dano, por sua vez, foi demonstrado com o despacho do juízo da Vara Criminal de Concórdia, proferido em 29/5/2025 (fls. 180-182), que determinou a retomada do curso da ação penal, com o início da fase do art. 422 do CPP. Considero prudente, nesse contexto, que a tramitação do feito em primeira instância aguarde a definição deste STJ sobre a pronúncia, a fim de evitar a realização eventualmente desnecessária de atos processuais pelo tribunal do júri.
+Ante o exposto, julgo procedente o pedido e determino que seja suspensa a tramitação da ação penal em primeira instância em face de JOSÉ HENRIQUE SAGAIS, até o julgamento definitivo do agravo em recurso especial.
+Comunique-se o juízo de origem. Oficie-se também a 2ª Vice-Presidência do Tribunal local, para que remeta os autos do agravo em recurso especial a este STJ, como ela própria determinou em 21/5/2025, ou justifique a impossibilidade de fazê-lo.
+Publique-se. Intimem-se.
+EMENTA
