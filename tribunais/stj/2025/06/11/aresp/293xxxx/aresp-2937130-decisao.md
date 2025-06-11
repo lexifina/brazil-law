@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. NECESSIDADE DE INTERNAÇÃO EM REGIME DE URGÊNCIA. DANO MORAL CONFIGURADO. 1) A PARTE AUTORA, COM 03 ANOS DE IDADE, PORTADORA DE INSUFICIÊNCIA RENAL CRÔNICA POR "VUP", SUBMETIDA À TRANSPLANTE RENAL HÁ 02 ANOS, APRESENTANDO FEBRE E DOR ABDOMINAL DIFUSA INTENSA, TEVE O PEDIDO DE INTERNAÇÃO EM CARÁTER DE URGÊNCIA, ANTE O RISCO DE MORTE, NEGADO PELA DEMANDADA AO ARGUMENTO DE QUE O SERVIÇO SOLICITADO NÃO ESTARIA COBERTO PELO PLANO DE SAÚDE, EM RAZÃO DE CARÊNCIA A SER CUMPRIDA. 2) ACERVO PROBATÓRIO QUE DEMONSTRA A CONFIGURAÇÃO DE FALHA NA PRESTAÇÃO DO SERVIÇO, PORQUANTO A SITUAÇÃO DE URGÊNCIA É CAPAZ DE JUSTIFICAR A DISPENSA DO CUMPRIMENTO DO PRAZO DE CARÊNCIA CONTRATUALMENTE PREVISTO, NÃO HAVENDO QUE SE FALAR NA MENCIONADA LIMITAÇÃO TEMPORAL PARA O ATENDIMENTO PLEITEADO. 3) DANO MORAL QUE RESTOU CARACTERIZADO DIANTE DO PREMENTE RISCO DE LESÃO IRREPARÁVEL. 4) O VALOR ESTABELECIDO NA SENTENÇA A TÍTULO DE DANO IMATERIAL (R$ 20.000,00) SE MOSTRA EXCESSIVO, CONSIDERANDO AS PARTICULARIDADES DO CASO CONCRETO E OS CRITÉRIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, RAZÃO PELA QUAL DEVE SER REDUZIDO PARA O PATAMAR DE R$ 10.000,00. JULGADOS DA QUARTA CÂMARA DE DIREITO PRIVADO. 5) RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 186, 187 e 927, parágrafo único, todos do Código de Processo Civil. Sustenta que não cometeu nenhum um ato ilícito a justificar a sua condenação em danos morais, trazendo a seguinte argumentação:
+Assim sendo, como bem pontuou o v. Acórdão, a Ré afirma que a clínica indicada fica no mesmo município que a residência da parte autora. Assim sendo a Conduta da Ré jamais foi ilícita, já que agiu nos estritos termos da Lei de regência.
+Apesar disto, fixou-se como valor indenizatório a quantia de R$10.000,00(dez mil reais).
+A indenização deve observar a extensão do dano sofrido.
+Não é o que se observa no r. Acórdão proferido.
+Ao contrário, estipulou-se a indenização de R$10.000,00(dez mil reais) com base em dano que se admite em grau mínimo.
+O r. Acórdão, de forma muito clara, é incongruente em sua fundamentação e seu dispositivo. A fundamentação aponta que a discussão dos autos é meramente financeira, não havendo falha no atendimento, não envolvendo qualquer razão para abalos psicológicos.
+Tal incongruência tem como consequência lógica a ofensa aos dispositivos legais acima apontados que apontam justamente pela correspondência entre dano e verba indenizatória.
+Assim sendo, resta evidente a ofensa aos arts. 186, 187 e 927 e § único do CC/02 do Código Civil, pelo que se requer a reforma do r. Acórdão para julgar improcedentes os pedidos formulados pela parte autora (fls. 659-660).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+De acordo com o laudo médico acostado à fl. 11, cuja imagem abaixo se reproduz, efetivamente havia indicação da necessidade da realização de procedimento médico em regime de urgência, considerando o risco de morte da parte autora.
+ ..
+Assim, tem-se por indevida a negativa do plano de saúde quanto à cobertura do procedimento indicado, pois, no caso dos autos, repise-se, restou comprovada a situação de urgência capaz de justificar a dispensa de cumprimento de prazo de carência contratualmente previsto.
+No que se refere à caracterização do dano moral, a conduta da parte ré frustrou as expectativas do recorrido quanto ao cumprimento do que fora contratado, quando mais necessitava da prestação do serviço, o que causa abalo psicológico hábil a ensejar a condenação da parte ré ao pagamento de indenização por dano moral.
+Todavia, o valor estabelecido na sentença a título de dano imaterial (R$ 20.000,00) se mostra excessivo, considerando as particularidades do caso concreto e os critérios da proporcionalidade e da razoabilidade, razão pela qual deve ser reduzido para o patamar de R$ 10.000,00.
+Neste sentido, confiram-se os seguintes julgados:
+ ..
+Diante dessas circunstâncias, a sentença deve ser reformada parcialmente para se reduzir o valor da indenização por dano moral para R$ 10.000,00.
+Ante o exposto, voto no sentido de se dar parcial provimento ao recurso para reduzir o valor estabelecido a título de dano moral de R$ 20.000,00 para R$ 10.000,00 (fls. 641-645).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
