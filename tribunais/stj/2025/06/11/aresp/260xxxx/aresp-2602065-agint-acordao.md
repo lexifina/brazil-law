@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Rever a conclusão das instâncias ordinárias, no sentido da irregularidade do cancelamento unilateral do contrato de plano de saúde, vez que não cumprido o requisito legal da notificação prévia do usuário, demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante dos autos, circunstância que atrai o óbice das Súmulas 5 e 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão monocrática de fls. 598-601 e-STJ, da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 511 e-STJ):
+PLANO DE SAÚDE - Rescisão unilateral do contrato por parte da ré, que alega ter ocorrido atraso no pagamento de mensalidade por período superior a sessenta dias, bem como que a autora foi previamente notificada acerca do inadimplemento  Cancelamento unilateral do contrato que deve observar os requisitos do Artigo 13, parágrafo único, II, da Lei n. 9.656/1998  Mera inadimplência que não é apta a ensejar o cancelamento do contrato, devendo a operadora notificar o beneficiário acerca desta e conceder prazo para purgar a mora  Inteligência da Súmula n. 94 deste E. TJSP - Ausência de demonstração inequívoca da ocorrência de notificação prévia da apelada - Abusividade no cancelamento unilateral do contrato reconhecida  Danos morais in re ipsa  Indenização devida - Sentença reformada, tão somente para conceder os danos morais pleiteados pela autora no valor de RS 10.000,00 (dez mil reais) - Recurso da autora provido em parte, e desprovido o recurso da ré.
+Nas razões do recurso especial (fls. 517-525 e-STJ), a parte recorrente apontou violação ao art. 13, parágrafo único, II, da Lei n. 9.656/98, sustentando, em suma, que o disposto no referido dispositivo legal se aplica, somente, aos planos de saúde na modalidade individual e familiares, não se aplicando ao caso dos autos.
+Contrarrazões às fls. 570-573 e-STJ.
+Em juízo de admissibilidade (fls. 574-575 e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: a) não ter sido demonstrada a vulneração aos dispositivos legais apontados como violados; e b) incidência do óbice da Súmula 7/STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 598-601 e-STJ), este signatário conheceu do agravo para não conhecer do recurso especial, sob o fundamento da aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Inconformada, no presente agravo interno (fls. 605-612 e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, combatendo a aplicação dos óbices das Súmulas 5 e 7 do STJ, sob o argumento de que a pretensão recursal prescinde do reexame de provas, eis que "a questão central da discussão está na inaplicabilidade do art. 13, parágrafo único, II da Lei 9.656/98 aos planos de saúde coletivos". Requer, ao final, a reforma da decisão agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Rever a conclusão das instâncias ordinárias, no sentido da irregularidade do cancelamento unilateral do contrato de plano de saúde, vez que não cumprido o requisito legal da notificação prévia do usuário, demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante dos autos, circunstância que atrai o óbice das Súmulas 5 e 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Com relação à aplicação dos óbices das Súmulas 5 e 7 do STJ, deve ser mantida a decisão que negou provimento ao recurso especial.
+Conforme consignado pela decisão agravada, cinge-se a pretensão recursal à verificação acerca da legalidade do cancelamento unilateral do plano de saúde.
+A jurisprudência reiterada desta Cor te Superior tem entendido que "o plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009)" (AgInt no AREsp n. 1.261.245/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+No caso em tela, o Tribunal de origem, ao analisar os elementos fáticos e probatórios dos autos, manteve o reestabelecimento do plano de saúde da parte recorrida, sob a conclusão de que a operadora não cumpriu os requisitos exigidos para a rescisão unilateral do contrato, especificamente, a notificação prévia do usuário, sob a seguinte fundamentação (fls. 512-513 e-STJ):
+Com efeito, é possível a suspensão ou rescisão do contrato de plano ou de seguro saúde em razão do atraso no pagamento das prestações pecuniárias por mais de 60 (sessenta) dias, consecutivos ou não, desde que o consumidor seja comprovadamente notificado até o quinquagésimo dia de inadimplência, conforme o disposto no artigo 13, parágrafo único, II, da Lei nº 9.656/98.
+Ocorre que, in casu, não foram observadas as formalidades legais exigidas para a rescisão do contrato celebrado pelas partes. Segundo se nota, a autora não foi devidamente notificada acerca do cancelamento da prestação dos serviços. (..).
+Nesse sentido, como bem destacado no decisum apelado (fls. 390/395), "Conforme se extrai do contrato assinado entre as partes, deixaram as rés de comprovar que o cancelamento do contrato foi precedido de notificação da autora. Destarte, não se desincumbiram as rés do ônus de comprovar a efetiva notificação da devedora no prazo mínimo de dez dias para a purgação da mora, limitando-se a juntada de carta na qual consta que a autora se encontra em atraso, porém sem o código de barras para pagamento e sem deixar claro todas as possíveis consequências, como deveria constar em notificação, não se prestando, portanto, o documento enviado a esse fim. (..) Nesse cenário, restou evidente que houve falha na prestação de serviços pelas rés, seja pelo não encaminhamento do boleto, seja pela falta de esclarecimentos prestados à consumidora, deixando de cumprir com o seu dever de informação e ainda pela falta da notificação prévia ao cancelamento do contrato " (grifos nossos).
+Assim, não havendo demonstração de ciência da autora acerca do iminente cancelamento do plano de saúde, tendo em vista a inexistência de aviso de recebimento formal entregue à autora e assinado por esta, não se provou a efetiva notificação da beneficiária, considerando que a autora nega ter recebido referida notificação, e a ré não produziu qualquer outra prova a fim de comprovar sua alegação, restando evidente, assim, a abusividade da conduta perpetrada pela ré.  grifou-se
+Como visto acima, a controvérsia foi decidida a partir das particularidades do caso concreto, a partir das quais a Corte local concluiu, essencialmente, que, "não havendo demonstração de ciência da autora acerca do iminente cancelamento do plano de saúde, tendo em vista a inexistência de aviso de recebimento formal entregue à autora e assinado por esta, não se provou a efetiva notificação da beneficiária, considerando que a autora nega ter recebido referida notificação, e a ré não produziu qualquer outra prova a fim de comprovar sua alegação, restando evidente, assim, a abusividade da conduta perpetrada pela ré".
+Assim, o acolhimento da pretensão recursal, a fim de se reconhecer a regularidade do cancelamento unilateral do contrato, demandaria, necessariamente, o revolvimento do conjunto fático-probatório constante dos autos, circunstância que atrai o óbice das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL. NOTIFICAÇÃO DO SEGURADO. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu não ter sido comprovado o fato de que o segurado foi notificado sobre a rescisão unilateral do contrato de plano de saúde. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 382.489/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/09/2014, DJe 18/09/2014)
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. INADIMPLÊNCIA DO SEGURADO. RESCISÃO UNILATERAL NOTIFICAÇÃO PRÉVIA. NECESSIDADE. SÚMULA STJ/7.
+1.- Nos termos do art. 13, parágrafo único, II, da Lei n. 9.656/1998 é obrigatória a notificação prévia ao cancelamento do contrato, por inadimplemento, sendo ônus da seguradora notificar o segurado.
+2.- Para infirmar a conclusão a que chegou o Tribunal de origem acerca da inexistência da notificação prévia do segurado seria necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula 7 do STJ.
+3.- Agravo Regimental improvido.
+(AgRg nos EDcl nos EDcl no REsp 1256869/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/09/2012, DJe 04/10/2012)
+Inviável, portanto, no ponto, o provimento do recurso especial, ante a incidência dos óbices das Súmulas 5 e 7 do STJ.
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
