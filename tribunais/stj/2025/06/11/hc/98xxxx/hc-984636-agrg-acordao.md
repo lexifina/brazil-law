@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 05/06/2025 a 11/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de condenado por crime com sentença transitada em julgado, no qual se pleiteava a absolvição sob o fundamento de ausência de provas e aplicação do princípio in dubio pro reo. A defesa alegou flagrante ilegalidade, apta a justificar a concessão da ordem de ofício.
+II. Questão em discussão
+2. Há três questões em discussão: (i) verificar se o habeas corpus é via adequada para revisão de condenação transitada em julgado com base em alegada insuficiência probatória; (ii) apurar se há flagrante ilegalidade capaz de justificar a concessão da ordem de ofício; e (iii) definir se é possível utilizar o habeas corpus como substitutivo de revisão criminal sem que haja julgamento anterior pelo STJ.
+III. Razões de decidir
+3. O habeas corpus não se destina à análise de pedido de absolvição fundado na alegada ausência de provas, uma vez que tal exame exige revolvimento do conjunto fático-probatório, providência incabível na via estreita do writ, conforme reiterada jurisprudência do Superior Tribunal de Justiça.
+4. A condenação do agravante está amparada em sentença penal transitada em julgado, cujos fundamentos não podem ser desconstituídos sem a via adequada, que seria a revisão criminal, nos moldes do art. 621 do CPP.
+5. A utilização do habeas corpus como substitutivo de revisão criminal é inadmissível quando inexistente qualquer decisão proferida anteriormente por esta Corte, nos termos do art. 105, I, e, da CF/1988.
+6. A jurisprudência do STJ é pacífica no sentido de que não se verifica flagrante ilegalidade quando a condenação se baseia em conjunto probatório regularmente formado no curso da ação penal, inclusive com o contraditório e a ampla defesa assegurados.
+7. A alegação genérica de dúvida quanto à autoria ou materialidade não configura, por si só, constrangimento ilegal apto a autorizar o conhecimento do habeas corpus ou a concessão da ordem de ofício.
+IV. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da eminente Ministra Daniela Teixeira que não conheceu do habeas corpus.
+O agravante aduz, em suma, que há flagrante ilegalidade apta para justificar a concessão da ordem, visto que é manifesta a ausência de elementos para a condenação.
+Salienta que "a aplicação do princípio do in dubio pro reo é medida necessária nos casos em que haja dúvida acerca da autoria, materialidade ou mesmo tipicidade de determinado fato" (fl. 795).
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do presente agravo regimental ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de condenado por crime com sentença transitada em julgado, no qual se pleiteava a absolvição sob o fundamento de ausência de provas e aplicação do princípio in dubio pro reo. A defesa alegou flagrante ilegalidade, apta a justificar a concessão da ordem de ofício.
+II. Questão em discussão
+2. Há três questões em discussão: (i) verificar se o habeas corpus é via adequada para revisão de condenação transitada em julgado com base em alegada insuficiência probatória; (ii) apurar se há flagrante ilegalidade capaz de justificar a concessão da ordem de ofício; e (iii) definir se é possível utilizar o habeas corpus como substitutivo de revisão criminal sem que haja julgamento anterior pelo STJ.
+III. Razões de decidir
+3. O habeas corpus não se destina à análise de pedido de absolvição fundado na alegada ausência de provas, uma vez que tal exame exige revolvimento do conjunto fático-probatório, providência incabível na via estreita do writ, conforme reiterada jurisprudência do Superior Tribunal de Justiça.
+4. A condenação do agravante está amparada em sentença penal transitada em julgado, cujos fundamentos não podem ser desconstituídos sem a via adequada, que seria a revisão criminal, nos moldes do art. 621 do CPP.
+5. A utilização do habeas corpus como substitutivo de revisão criminal é inadmissível quando inexistente qualquer decisão proferida anteriormente por esta Corte, nos termos do art. 105, I, e, da CF/1988.
+6. A jurisprudência do STJ é pacífica no sentido de que não se verifica flagrante ilegalidade quando a condenação se baseia em conjunto probatório regularmente formado no curso da ação penal, inclusive com o contraditório e a ampla defesa assegurados.
+7. A alegação genérica de dúvida quanto à autoria ou materialidade não configura, por si só, constrangimento ilegal apto a autorizar o conhecimento do habeas corpus ou a concessão da ordem de ofício.
+IV. Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, não possuem o condão de infirmar os fundamentos insertos na decisão agravada.
+Consoante anteriormente decidido, a impetração não merece prosseguir, pois "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3.7.2024).
+Nesse sentido, confiram-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. ACÓRDÃO COM TRÂNSITO EM JULGADO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Na hipótese, o agravante foi condenado como incurso no artigo 121, § 2º, incisos III e IV, do Código Penal, a 14 (quatorze) anos de reclusão, regime inicial fechado, tendo a decisão transitado em julgado em 27/08/2015.
+3. No tocante ao pedido de absolvição registra-se que não comporta análise mais detalhada nesta via de cognição sumária, por demandar profundo revolvimento do conjunto fático-probatório. Ademais,  n o caso concreto, a existência na origem de sentença condenatória transitada em julgado, que agora é dotada da constitucional coisa julgada, torna ineficaz qualquer manifestação desta Corte Superior, até mesmo pela inadequação da via eleita e pela impossibilidade de se promover a (nova) revisão criminal com amparo na simples mudança de patrono ou de entendimento jurisprudencial posterior (AgRg no HC n. 877.408/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/08/2024, DJe de 16/08/2024).
+4 Agravo regimental não provido.
+(AgRg no HC n. 876.302/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO CONHECIDO COMO AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. HOMICÍDIO. REGRESSÃO DE REGIME PRISIONAL. CONTRAMANDADO DE PRISÃO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. O FATO PELO QUAL O AGRAVANTE FOI ABSOLVIDO É ANTERIOR AOS FATOS CONSIDERADOS PARA REGRESSÃO DE REGIME. AGRAVO REGIMENTAL IMPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto em face de decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão que negou seguimento à impetração. O recorrente, condenado por homicídio qualificado e cumprindo pena em regime domiciliar, teve seu regime regredido após envolvimento em ocorrências policiais que indicaram descumprimento das condições impostas. A defesa alega constrangimento ilegal, em razão de posterior absolvição em uma das ocorrências, e requer a expedição de contramandado de prisão e o retorno ao regime domiciliar. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se a decisão de regressão de regime é afetada pela posterior absolvição do recorrente em um dos eventos investigados; (ii) se cabe ao Superior Tribunal de Justiça (STJ) conhecer da matéria relativa à expedição de contramandado de prisão, que não foi apreciada no acórdão impugnado. III. RAZÕES DE DECIDIR
+3. A questão relativa à expedição de contramandado de prisão não foi apreciada pelo Tribunal de origem, configurando supressão de instância caso o STJ a analisasse diretamente.
+4. A absolvição do recorrente em um evento anterior (porte ilegal de arma de fogo em 2019) não afeta a decisão de regressão de regime baseada em fatos posteriores (ocorrências de novembro de 2021) que motivaram o descumprimento das condições da prisão domiciliar.
+5. A concessão de habeas corpus de ofício exige a constatação de flagrante ilegalidade, o que não se verifica no caso em análise.
+6. A decisão monocrática que negou seguimento ao habeas corpus está de acordo com a jurisprudência consolidada da 5ª Turma do STJ, que veda a análise de questões não apreciadas nas instâncias inferiores e exige flagrante ilegalidade para a concessão de habeas corpus de ofício. IV. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E,
+NESSA EXTENSÃO, IMPROVIDO.
+(RCD no RHC n. 203.958/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Habeas corpus impetrado visando à absolvição do paciente pelos crimes de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) e associação para o tráfico (art. 35 da mesma lei).
+O paciente foi condenado com base em provas materiais e testemunhais, consistindo em apreensão de 101,7g de cocaína, rádio comunicador e relatos de policiais sobre a fuga e envolvimento do réu com facção criminosa.
+II. Questão em discussão2. Há duas questões em discussão: (i) verificar se o pleito de absolvição pode ser analisado em sede de habeas corpus; e (ii) determinar se há elementos suficientes para revisar a condenação imposta pelas instâncias ordinárias.
+III. Razões de decidir3. A análise do pedido de absolvição ou desclassificação do crime depende de revolvimento fático-probatório, o que não é permitido na via estreita do habeas corpus.
+4. A condenação pelo crime de tráfico de drogas está devidamente fundamentada na materialidade delitiva, comprovada pela apreensão de entorpecentes e laudos periciais.
+5. A autoria delitiva está demonstrada pelos depoimentos consistentes e harmônicos dos policiais que participaram da operação, os quais confirmaram a posse dos materiais apreendidos pelo agravante e sua participação no tráfico.
+6. A associação para o tráfico também restou comprovada pela conduta do agravante, vinculado de forma permanente a uma facção criminosa que opera na região, conforme as circunstâncias da diligência e os depoimentos dos policiais.
+7. O acórdão recorrido está alinhado com a jurisprudência da Quinta Turma do STJ, que reconhece a inviabilidade de reanálise de fatos e provas por meio de habeas corpus.
+IV. Dispositivo e tese8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é a via adequada para reexame de matéria fático-probatória. 2. A condenação por tráfico de drogas e associação para o tráfico, quando fundamentada em provas materiais e testemunhais, não pode ser revista em habeas corpus, salvo flagrante ilegalidade".
+Dispositivos relevantes citados: Lei nº 11.343/2006, arts. 33 e 35;
+CPP, art. 386, incisos VII e II. Jurisprudência relevante citada:
+STJ, AgRg no HC 949.146/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/11/2024; STJ, HC 841.224/RJ, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 15/10/2024.
+(AgRg no HC n. 960.263/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJe de 20/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. PACIENTE RECONHECIDOS PELAS VÍTIMAS EM JUÍZO. AUTORIA DELITIVA. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE INCURSÃO DO MATERIAL PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova eventual reconhecimento fotográfico realizado em sede inquisitorial, mas também a prova oral colhida durante a instrução criminal (depoimentos seguros das vítimas Silvana e Valmir). Assim, diante do livre convencimento motivado do juiz, a prova da autoria deve estar lastreada, não apenas no reconhecimento do réu, em sede policial, mas fundamentada, de forma robusta, nas demais provas produzidas, durante a instrução criminal, sob o crivo do contraditório, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, o HC n. 598.886/SC, da relatoria do E. Ministro ROGÉRIO SCHIETTI CRUZ.
+2. Ademais, esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023).
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 868.208/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023 .)
+Mesmo que assim não fosse, o Habeas Corpus foi impetrado contra condenação proferida na origem já transitada em julgado e não há, neste Tribunal, julgamento de mérito em relação à ela passível de revisão.
+Segundo a jurisprudência do STJ, não deve ser conhecido o writ manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte.
+Isso porque, consoante o artigo 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, somente as revisões criminais e as ações rescisórias de seus próprios julgados.
+Nesse sentido, vale citar os seguintes julgados colegiados desta Corte: AgRg no HC n. 903.400/RS, Rel. Ministro Messod Azulay Neto, Quinta Turma; DJe de 17.6.2024; AgRg no HC n. 885.889/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024; AgRg no HC n. 852.988/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12.6.2024; AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28.5.2024; AgRg no HC n. 883.647/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15.5.2024; AgRg no HC n. 887.735/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 25.4.2024; HC n. 790.768/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 10.4.2024; AgRg no HC n. 757.635/SC, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 15.3.2024; AgRg no HC n. 825.424/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 820.174/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15.8.2024; AgRg no HC n. 913.826/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024.
+Dessa forma, não assiste razão ao agravante, motivo pelo qual a decisão impugnada merece ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
