@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, mandado de segurança impetrado por JOSE CINELI contra suposto ato omissivo atribuído ao MINISTRO DA SAÚDE, ao SECRETÁRIO ESTADUAL DE SAÚDE DO RIO DE JANEIRO e ao SECRETÁRIO MUNICIPAL DE SAÚDE DO RIO DE JANEIRO.
+Em sua inicial, alega o impetrante que:
+ ..  foi acometido de doença NEOPLASIA MALIGNA DA PRÓSTATA - CID C61, conforme documentos 02 e 03, razão pela qual, após exames, foi diagnosticada um tumor na próstata e na base da coluna vertebral.
+Diante de tal fato os médicos recomendaram uma biopsia e exames complementares que conformaram a doença maligna.
+Com os resultados dos exames, alguns deles custeados por amigos e familiares visto que sua situação financeira é precária, o Requerente foi cadastrado no SER sob o n.º 5872527 (DOC 05) em 04 de setembro de 2024, conforme abaixo.
+Uma consulta preliminar foi agendada para 10 de outubro de 2024 para o Hospital Mario Kroeff, na rua Mage n. 326, Penha Circular, Rio de Janeiro - RJ (DOC 06).
+Ocorre que o Requerente é acometido de fortes dores diariamente. E tem batido à porta do citado hospital, além do INCA e do Hospital da Federal Lagoa, carregado e amparado por parentes e amigos em busca de atendimento emergencial sem êxito!!
+O Impetrante necessita de mediação extremamente forte para suportar tamanha dor, mas não as consegue sem receita medica. Receita esta que somente dia 10 do próximo mês poderá solicitar.
+O Impetrante necessita de atendimento URGENTE!!
+ ..
+Antes de adentrar ao mérito, convém ressalvar que a Impetrante teve violado seu direito líquido e certo de ter um tratamento digno, uma vez que o exame deveria ter sido realizado em até 30 dias (já que havia indicação de neoplasia maligna) e a indicação medica se deu em 30/07/2024 em contrariedade ao prescrito no artigo 2.º § 3.º da lei 12.732/2012.
+Por fim, requer:
+a) seja deferida a medida liminar pleiteada, e ao final, seja concedida a segurança confirmando a medida liminar, assegurando, assim, uma consulta preliminar de urgência em no máximo 48 (quarenta e oito) horas da intimação e o imediato início do tratamento do Impetrante, no Hospital Mario Kroeff, na rua Mage n. 326, Penha Circular, Rio de Janeiro - RJ ou no INCA I ou No Hospital Federal Da Lagoa ou algum outro hospital com atendimento de alta complexidade oncológica para fazer o mapeamento de tratamento, no prazo máximo de 10 dias da intimação da liminar, sob pena de multa pessoal do Ministro, secretários e subsecretários, de R$ 1.000,00 (hum mil reais) por dia, sem prejuízo da caracterização de crime de desobediência, ou alternativamente, que seja Autorizado a realização do tratamento em rede particular as custas do erário que ter previsão legal de orçamento para o aludido tratamento.
+b) a concessão do benefício da justiça gratuita, nos termos da Lei 1060/50, por se tratar o impetrante de pessoa pobre na acepção legal do termo, conforme declaração anexa;
+c) a notificação dos impetrados por meio de oficial de justiça em razão da urgência, no endereço declinado no preâmbulo desta peça para prestar as devidas informações, no prazo legal, facultando-se ao Sr. Oficial de Justiça os benefícios do art. 172, parágrafo 2º, do Código de Processo Civil;
+d) a prioridade da tramitação do processo, procedimentos e na execução dos atos e diligências judiciais, com fulcro ns Leis Nº 10.173/2001 e Nº 10.741/2003 c/c arts. 4º e 5º, da Lei de Introdução ao Código Civil.
+d) a concessão da ordem para assegurar o imediato início do tratamento do Impetrante, no Hospital Mario Kroeff, na rua Mage n. 326, Penha Circular, Rio de Janeiro - RJ ou no INCA I ou No Hospital Federal Da Lagoa ou algum outro hospital com atendimento de alta complexidade oncológica para fazer o mapeamento de tratamento, no prazo máximo de 48 (quarenta e oito) horas da concessão da segurança, sob pena de multa pessoal do Ministro, secretários e subsecretários, de R$ 10.000,00 (dez mil reais) por dia, sem prejuízo da caracterização de crime de desobediência, ou alternativamente, que seja Autorizado a realização do tratamento em rede particular as custas do erário que ter previsão legal de orçamento para o aludido tratamento.
+O pedido de gratuidade de justiça foi deferido (fl. 28).
+Liminar deferida em 04/10/2024, determinando que os impetrados, através da Secretaria de Estado de Saúde do Rio de Janeiro, assegurassem ao impetrante uma consulta preliminar em hospital especializado, localizado no Município do Rio de Janeiro- RJ, em no máximo 48 (quarenta e oito) horas (fls. 35-37).
+Informações prestadas pela autoridade coatora, afirmando que, antes mesmo do deferimento da liminar, o impetrante já estava com consulta marcada no Hospital Mario Kroeff, no dia 10 de outubro de 2024, às 14h00min. Afirma que, em que pesa não tenha sido possível a antecipação pretendida, foi assegurada ao impetrante a consulta com um médico especializado em oncologia (fls. 102-106).
+É o relatório.
+Passo a decidir.
+De acordo com as informações apresentadas pela autoridade coatora, verifica-se que o impetrante já iniciou o tratamento médico pleiteado, tendo-lhe sido assegurada a consulta com um médico especializado em oncologia.
+Considerando que se trata de mandado de segurança impetrado contra ato omissivo da autoridade apontada como coatora, com o objetivo de assegurar o imediato início do tratamento do impetrante, e diante das informações posteriormente prestadas, constata-se a perda superveniente do objeto da presente ação mandamental, inexistindo utilidade na concessão da segurança pleiteada.
+Ante o exposto, julgo extinto o presente mandado de segurança, sem resolução do mérito.
+Intimem-se.
+EMENTA
