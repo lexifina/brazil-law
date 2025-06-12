@@ -1,0 +1,17 @@
+DECISÃO
+ALAN HENRIQUE VICENTE postula a extensão dos efeitos da decisão de fls. 287-291, em que substituí a prisão preventiva do corréu ERICH RAFAEL DA SILVA DE OLIVEIRA por medidas cautelares alternativas.
+A defesa afirma que o requerente está na mesma situação fático-processual que o paciente deste habeas corpus, visto que ambos são acusados dos mesmos fatos e reincidentes na prática de tráfico de drogas.
+Decido.
+Consoante o art. 580 do Código de Processo Penal, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+A prisão preventiva dos acusados foi decretada pelo Juiz de primeiro grau com amparo na seguinte fundamentação (fl. 88, grifei):
+ ..  É o caso de conversão da prisão em flagrante em preventiva. Em cognição sumária da análise dos elementos informativos reunidos nos autos, verifica-se que há prova da materialidade delitiva e indícios suficientes de autoria. Consta dos autos que os policiais estavam em operação, visando apurar infrações de trânsito e ilícitos criminais, quando avistaram uma motocicleta com os presos. Foi dado ordem de parada, sendo que quando os ocupantes da moto desceram, o passageiro dispensou um invólucro plástico, no qual havia grande porção bruta de cocaína. Necessidade concreta: Com efeito, a materialidade é inconteste, defluindo do auto de constatação preliminar acerca da natureza da substância apreendida de fl. 15 (01 porção bruta de cocaína, pesando 15,32 gramas), juntamente com o depoimento das testemunhas, constituem importantes indícios de que as drogas pertenciam aos presos e se destinavam ao tráfico. De igual sorte, constata-se que os presos são reincidentes específicos (fls. 49/54). Assim, nota-se a dedicação a atividades criminosas, constatando-se a inconveniência da substituição da prisão por outras medidas cautelares  ..
+Na hipótese, verifico que os fundamentos exarados no decreto prisional (risco de reiteração delitiva - reincidência específica), em relação ao postulante e ao paciente deste writ, são idênticos.
+Além disso, a partir da documentação juntada aos autos, verifico que o requerente é acusado da posse, junto com o paciente deste habeas corpus, de 15,32 g de cocaína e a inicial acusatória ofertada pelo Ministério Público (fls. 24-27) imputou aos denunciados as mesmas condutas.
+Assim, identifico a similitude entre a situação aqui retratada e a que ensejou a substituição da prisão preventiva do corréu ERICH RAFAEL DA SILVA DE OLIVEIRA por medidas cautelares alternativas.
+À vista do exposto, defiro o pedido de extensão para substituir a prisão preventiva do requerente ALAN HENRIQUE VICENTE pelas seguintes medidas cautelares, sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades; e
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Alerte-se ao paciente que a violação das medidas cautelares poderá importar o restabelecimento da prisão provisória, a qual também poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
