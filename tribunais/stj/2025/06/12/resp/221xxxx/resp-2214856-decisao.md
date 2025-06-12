@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por T FARMA COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA, com fulcro no art. 105, III, "a" e "c", da CFRB, contra acórdão, assim ementado (fl. 2.939):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA. ICMS-ST. Recurso interposto contra decisão monocrática que não conheceu do recurso de agravo de instrumento interposto contra decisão que, em despacho saneador, afastou a inconstitucionalidade do ICMS-ST devido em razão do art. 426-A do RICMS, baseada em precedente do STF, com repercussão geral (Tema 456). Matéria que não consta no rol taxativo do art. 1.015 do CPC, nem na hipótese de mitigação, nos termos da orientação firmada pelo STJ em sede de julgamento representativo de controvérsia (R Esp 1704520/MT, Tema 988). Questão que pode ser apreciada em eventual apelação. Ausência de argumentos novos a serem ponderados, acolhidos ou rejeitados por esta Relatoria. Agravo de instrumento inadmissível. Decisão monocrática mantida. Recurso de agravo interno desprovido.
+Embargos de declaração opostos e rejeitados.
+A recorrente aponta violação dos arts. 1.015, II, e 356, § 5º, do CPC/2015, alegando o cabimento do agravo de instrumento quando a decisão recorrida resolve parcialmente do mérito.
+Afirma (fl. 2.992/2.993/2.996):
+24. Pois bem. Embora a r. decisão proferida em primeira instância tenha determinado a realização de prova pericial nos autos da Ação Anulatória, para averiguação da procedência de argumento subsidiário, tal decisão de plano afastou o principal argumento de mérito exposto na inicial, referente à inconstitucionalidade do ICMS ST exigido com base no artigo 426-A do RICMS/ST. Trata-se, portanto, de decisão parcial de mérito, impugnável por meio de Agravo de Instrumento conforme expressamente previsto no artigo 1.015, inciso II, bem como no artigo 356 do CPC, transcritos acima.
+ ..
+28. Diante disso, o objeto do Agravo de Instrumento interposto foi justamente atacar a parte da decisão que decidiu o mérito parcial da demanda, e não o saneamento do processo, referente à realização de prova pericial. Frise-se que a ora Recorrente em nenhuma ocasião impugnou a perícia, mas sim requereu a reforma da decisão no tocante ao mérito parcial que decidiu, pedindo que fosse suspensa a perícia até que se decidisse o recurso.
+Aponta dissídio jurisprudencial.
+Contrarrazões a fls. 3.012-3.021.
+Juízo positivo de admissibilidade à fl. 3.024.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O Tribunal a quo, para entender pela inadequação da via do agravo de instrumento, firmou os seguintes fundamentos nos acórdãos prolatados (fls. 2.941-2.944 e 2.979/2.980): (i) no despacho saneador, o juiz determinou a realização de prova pericial, ao tempo em que afastou a alegação de inconstitucionalidade da exigência de ICMS-ST antecipado, devido em razão do art. 426-A do RICMS, afirmada pela parte com base em precedente do STF, RE n. 598.677, Tema de Repercussão Geral 456, "considerando que o leading case julgado pelo STF não seria aplicável à legislação paulista, tendo tratado de norma do Estado do Rio Grande do Sul" (fl. 2.941); (ii) não é cabível recurso de agravo de instrumento contra decisão saneadora; (iii) não verificada hipótese de urgência decorrente da inutilidade do julgamento da questão em eventual apelação, inexistindo prejuízo à parte agravante em questão; (iii) a questão poderá ser apreciada efetivamente em sede de recurso de apelação, quando da análise do mérito da demanda; (iv) a questão de declaração de inconstitucionalidade do art. 426-A do RICMS não é possível de análise neste momento processual, ou seja, em agravo de instrumento interposto contra um despacho saneador, sob pena de haver um provimento de mérito sobre uma questão constitucional, não definida em sentença, o que poderia acarretar nulidade processual, decorrente de supressão de instância no tocante ao mérito da questão constitucional.
+Pois bem.
+O recurso não preenche os requisitos para sua admissibilidade.
+No caso, as razões recursais não impugnam especificamente a referida fundamentação do acórdão, a qual é capaz por si só de manter o resultado do julgado. Incidência da Súmula 283/STF.
+Para além do óbice da Súmula 283/STF, outro óbice inviabiliza o conhecimento do recurso. Alterar a conclusão firmada no acórdão demandaria reexame fático, porquanto vedada a modificação das premissas fixadas. Incidência do óbice da Súmula 7/STJ.
+Isso considerado, prejudicado o exame do dissídio, em razão dos óbices de conhecimento já aplicados ao conhecimento do recurso.
+Ante todo o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
