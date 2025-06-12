@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental em recurso especial interposto por ANTÔNIO JOSÉ MIOTTO, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal.
+Consta dos autos que o recorrente foi condenado, pela prática do crime previsto no art. 1º, inciso IV, da Lei n. 8.137/1990, por 78 vezes em continuidade delitiva e depois por 69 vezes também em continuidade delitiva, ambos na forma do art. 69, caput, do Código Penal, à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, e pagamento de 32 (trinta e dois) dias-multa, no mínimo legal.
+A defesa interpôs agravo regimental e, na sequência, peticionou postulando o reconhecimento da extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva do Estado, na modalidade intercorrente (e-STJ fls. 1431/1433).
+O Ministério Público Federal, em seu parecer, manifestou-se extinção da punibilidade do ora agravante (e-STJ fls. 1437/1439).
+É o relatório.
+Decido.
+Sobre a pretensão formulada pela defesa, a questão central está em saber se ocorreu a prescrição da pretensão punitiva do Estado na modalidade intercorrente.
+O agravante afirma que decorreu prazo superior a 4 anos entre o último marco interruptivo da prescrição (publicação do acórdão confirmatório da condenação em 21/5/2021) e a presente data, impondo-se o reconhecimento da prescrição.
+Para a correta análise da questão prescricional, é necessário verificar: (i) a pena aplicável para fins de cálculo do prazo prescricional; (ii) o prazo prescricional correspondente; (iii) o último marco interruptivo; e (iv) o transcurso do tempo.
+Quanto à pena aplicável para fins prescricionais, a sentença condenatória aplicou ao réu a pena de 6 anos e 8 meses de reclusão. Contudo, esta pena decorreu da aplicação dos institutos do concurso material (art. 69 do CP) e da continuidade delitiva (art. 71 do CP), tendo sido fixada a pena-base em 2 anos para cada bloco de crimes, posteriormente aumentada pela continuidade em 2/3 e multiplicada por dois em razão do concurso material.
+Nos termos do art. 119 do Código Penal e da Súmula n. 497 do Supremo Tribunal Federal, para efeito de prescrição, desconsidera-se o aumento decorrente do crime continuado e do concurso material, incidindo a prescrição sobre cada pena isoladamente. Assim, a pena a ser considerada para fins prescricionais é de 2 (dois) anos de reclusão.
+Quanto ao prazo prescricional, considerando a pena de 2 anos de reclusão, aplica-se o prazo prescricional de 4 (quatro) anos, previsto no art. 109, V, do Código Penal.
+Quanto ao último marco interruptivo, conforme decidido pela Terceira Seção deste Superior Tribunal de Justiça no tema repetitivo 1100, o acórdão condenatório interrompe a prescrição, inclusive quando confirmatório de sentença condenatória. No caso, o último marco interruptivo foi a publicação do acórdão que confirmou a condenação, ocorrida em 21/5/2021 (e-STJ fl. 1235).
+Assim, entre a data da publicação do acórdão confirmatório (21/5/2021) e a presente data (junho de 2025), decorreu prazo superior a 4 anos, caracterizando-se a prescrição da pretensão punitiva estatal na modalidade intercorrente.
+A matéria relativa à extinção da punibilidade pela prescrição é de ordem pública, cognoscível a qualquer tempo e grau de jurisdição, inclusive de ofício, conforme preceitua o art. 61 do Código de Processo Penal. Assim sendo, impõe-se o reconhecimento da prescrição da pretensão punitiva estatal na modalidade intercorrente.
+Ante o exposto, declaro extinta a punibilidade de ANTÔNIO JOSÉ MIOTTO pela ocorrênc ia da prescrição da pretensão punitiva estatal, ficando prejudicado o julgamento do agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
