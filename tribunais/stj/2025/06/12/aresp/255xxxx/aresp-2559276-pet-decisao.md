@@ -1,0 +1,26 @@
+DECISÃO
+Diante das razões contidas na petição de fls. 395-396, e, melhor analisando o caso, entendo que merecem ser reconsideradas as decisões de fls. 390-391 e fls. 328-331.
+Trata-se, na origem, de ação de obrigação de fazer c/c indenização por danos morais ajuizada por C D A da S, na qual a sentença foi parcialmente procedente, confirmando a tutela de urgência para autorizar o tratamento médico do autor, bem como para condenar a parte ré, Hapvida Assistência Médica Ltda., a pagar indenização por danos morais no valor de R$ 10.000,00 (dez mil reais), tendo em vista a recusa indevida de cobertura médica.
+O acórdão do Tribunal de Justiça de Pernambuco negou provimento à apelação da operadora do plano de saúde, mantendo na íntegra a sentença de primeira instância.
+Em nova insurgência, o recurso especial da Hapvida Assistência Médica Ltda. não foi conhecido pelo Tribunal de origem, o qual entendeu que não houve o prequestionamento do artigo 12, inciso V, alínea "b", da Lei 9.656/98.
+Inconformada, a Hapvida Assistência Médica Ltda. interpôs o agravo em recurso especial alegando o seguinte (fls. 311-312):
+No processo de origem, cuida-se de Cumprimento de Sentença, através do qual deteve-se a ordem de bloqueio ora agravada, donde o juízo a quo determinou a constrição do montante de R$ 69.301,61. Deste montante, a parte exequente pretende, segundo seus cálculos atualizados, receber o valor de R$ 37.959,68, a título de astreintes liminar.
+Esta Operadora apresentou Exceção de Pré-Executividade na origem E tal objeção, no momento de interposição do presente instrumento, ainda está pendente de deliberação pelo Pretório de origem. Nesse contexto, foi oposto o presente Agravo de Instrumento, mas ao recepciona-lo o Relator deste tribunal exarou Decisão Monocrática INACOLHENDO o Duplo Efeito:
+(..) não militando em favor da Agravante os requisitos ensejadores da cautela preventiva, ao menos nesta etapa de percepção sumária, DENEGO O EFEITO SUSPENSIVO pleiteado, mantendo a decisão agravada até ulterior deliberação, ou julgamento do mérito do presente recurso pela C. Câmara
+Chegou a ser interposto Agravo Interno, mas este foi julgado junto do recurso principal em Acórdão que inacolheu o pleito da Operadora, conforme ementa:
+EMENTA: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO OU PAGAMENTODO DÉBITO NO PRAZO LEGAL. ALEGAÇÕES DE INEXIGIBILIDADE DA OBRIGAÇÃO E EXCESSO DE EXECUÇÃO. PRECLUSÃO TEMPORAL. BLOQUEIO DE ATIVOS FINANCEIROS. RECURSO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+A Operadora, então, interpôs o competente Recurso Especial por nítida afronta à normativa federal, contudo, por Decisão Monocrática, o recurso teve seguimento negado, sob o argumento de aplicação das SÚMULAS 7 do STJ e 282 e 356 do STF.
+Ocorre que referida decisão não pode prosperar, pois deixou de observar a clara ofensa às normas federais indicadas e, ainda, que o recurso observa todos os requisitos legais, não havendo incidência das súmulas indicadas, conforme se passa a expor.
+Da leitura das razões do agravo em recurso especial, verifica-se que estão dissociadas da decisão recorrida, fazendo incidir, no caso, o óbice da Súmula 284 do STF.
+De fato, enquanto o recurso especial não foi admitido, por ter o Vice-Presidente do TJPE entendido não ter sido prequestionado o artigo 12, inciso V, alínea "b", da Lei 9.656/98, que cuida dos períodos de carência para as coberturas de planos e seguros privados de assistência à saúde, a Hapvida, nas razões do agravo, tratou de matéria totalmente estranha ao presente feito, ao discorrer que se cuida "de cumprimento de sentença", onde houve "a constrição do montante de R$ 69.301,61" (fl. 311).
+Note-se que , ao não impugnar especificamente os fundamentos da decisão recorrida, a operadora do plano de saúde violou o princípio da dialeticidade, de modo que não merece conhecimento o agravo por ela interposto.
+Nesse sentido:
+DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. LEGITIMIDADE CONCORRENTE ENTRE CREDOR TRABALHISTA E ADVOGADO. PRINCÍPIO DA DIALETICIDADE. RECURSO DESPROVIDO
+1. A jurisprudência do STJ reconhece a legitimidade concorrente do credor e do advogado para a habilitação de honorários advocatícios contratuais em recuperação judicial, desde que tais honorários tenham sido estabelecidos em acordo judicial, dispensando-se incidente autônomo. Incidência da Súmula n. 83 do STJ.
+2. Os honorários advocatícios contratuais possuem natureza alimentar, equiparando-se aos créditos trabalhistas para fins de habilitação (REsp n. 1.152.218/RS e AgInt no REsp n. 1.582.186/RS).
+3. A recorrente não observou o princípio da dialeticidade, pois limitou-se a reiterar argumentos anteriormente apresentados, sem impugnar especificamente os fundamentos da decisão agravada, incidindo na espécie, por analogia, a Súmula n. 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.922.993/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025)
+Em face do exposto, reconsidero as decisões de fls. 390-391 e fls. 328-331 para não conhecer do agravo interposto.
+Intimem-se.
+EMENTA
