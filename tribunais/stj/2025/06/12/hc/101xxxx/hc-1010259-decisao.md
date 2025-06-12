@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PRISCILA DA SILVA BRAZ contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1514004-02.2019.8.26.0228.
+Consta dos autos que a paciente foi condenada pelo Juízo de primeiro grau às penas dos artigos 155, § 4º, inciso IV, e 180, caput, ambos do Código Penal, na forma do artigo 69, sendo-lhe imposta a reprimenda de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, além do pagamento de 22 dias-multa (e-STJ fls. 23/30).
+Interposta apelação criminal pela defesa, o Tribunal estadual negou provimento ao recurso (e-STJ fls. 8/22).
+No presente mandamus, alega a defesa que, embora a paciente seja mãe de três filhos menores de idade  sendo um deles, à época da condenação, com apenas 3 anos  o juízo sentenciante negou o pedido de substituição da pena por prisão domiciliar, com base na reincidência específica, bem como na suposta ineficácia da fiscalização da prisão domiciliar. Sustenta que a decisão deixou de analisar o preenchimento dos requisitos legais e jurisprudenciais exigidos para a concessão do benefício.
+Afirma que o acórdão impugnado manteve a sentença, "por absoluta falta de amparo legal", afastando a alegação de ilegalidade no indeferimento do regime domiciliar. Ressalta que o Recurso Especial interposto perante esta Corte Superior sequer foi conhecido, restando esgotadas as vias ordinárias e extraordinárias.
+Argumenta que, mesmo na fase de execução da pena, é cabível a concessão de prisão domiciliar à mulher responsável por filho menor de 12 anos, especialmente com fundamento nos artigos 318, inciso V, do Código de Processo Penal, e 117, inciso III, da Lei de Execução Penal, à luz da Lei nº 13.257/2016 e do princípio do constitucionalismo fraterno.
+Reforça que a paciente é a única responsável pelo sustento dos filhos e que figura como responsável familiar nos cadastros da assistência social, sendo indispensável à sobrevivência e ao desenvolvimento saudável das crianças. Aponta que o crime imputado não envolveu violência ou grave ameaça, não foi cometido contra os próprios filhos e que não há situação excepcional que contraindique a concessão do benefício.
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem para que seja determinada a substituição da pena privativa de liberdade por prisão domiciliar.
+É  o  relatório. Decido.
+A presente irresignação não pode prosperar.
+Isso porque o Tribunal coator deixou de julgar o mérito do pedido de prisão domiciliar, sob o fundamento, dentre outros, de "absoluta falta de amparo legal, vez que, a par de, por sua própria natureza, tais terem sido invocadas em sede de Juízo impróprio, observa-se que as acusadas responderam soltas ao processo, devendo o pleito ser formulado ao Juízo das Execuções Criminais quando do início do cumprimento das penas." (e-STJ fl. 22).
+Essa circunstância impede esta Corte de julgar diretamente a questão, sob pena de supressão de instância.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância. Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE.
+1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva.
+3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido.
+4. Habeas corpus do qual não se conhece.
+(HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
