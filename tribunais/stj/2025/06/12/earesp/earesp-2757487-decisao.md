@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de divergência, interpostos por JOSENILDO SANTOS DE PAULA, contra acórdão da Sexta Turma que negou provimento ao agravo regimental.
+O embargante sustenta a existência de divergência entre o acórdão embargado e o aresto proferido pela Quinta Turma do Superior Tribunal de Justiça no AgRg no AREsp n. 2.207.369/SP e no AgRg no HC nº 446.283/DF, uma vez que as conclusões dos colegiados teriam sido diferentes, embora idênticos os casos (fls. 682-729).
+É o relatório. DECIDO.
+Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento proferido por outro órgão desta Corte. Sua finalidade consiste em eliminar o dissenso interno quanto à intepretação da lei federal e, por consequência, uniformizar a jurisprudência.
+No caso dos autos, o agravo em recurso especial não foi conhecido, com amparo na Súmula n. 182, STJ, na medida em que o embargante não impugnou os fundamentos da decisão de admissibilidade proferida pelo Tribunal de origem (fls. 611-612).
+Tal compreensão foi mantida em sede de agravo regimental, com base nos mesmos fundamentos (fls. 653-656 ). Assim, observo que não houve o enfrentamento do mérito do recurso especial, pressuposto de admissão dos embargos de divergência, conforme jurisprudência deste Tribunal Superior. Veja-se:
+"São inadmissíveis os embargos de divergência para discussão de questão não abordada no acórdão embargado em razão da falta de apreciação de mérito do recurso especial, situação que impede a configuração de divergência jurisprudencial. Incidência, por analogia, da Súmula n. 315 do STJ." (AgRg nos EAREsp n. 1.873.643/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 15/3/2024)
+"Inarredável o óbice da Súmula n. 315 do STJ, na medida em que o acórdão embargado não examinou o mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita -, que não se prestam à revisão do acerto ou desacerto do acórdão embargado. Não há, portanto, divergência de teses jurídicas, nos termos do art. 266, § 1.º, do Regimento Interno do Superior Tribunal de Justiça. Precedentes." (AgRg nos EAREsp n. 2.423.019/SC, Terceira Seção, Rel. Min. Teodoro Silva Santos, DJe de 7/3/2024)
+Ante o exposto, indefiro liminarmente os embargos de divergência, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
