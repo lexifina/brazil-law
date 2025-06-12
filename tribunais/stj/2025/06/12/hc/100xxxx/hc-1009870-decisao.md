@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCIO DE SOUZA LIMA, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao apelo defensivo e manteve a condenação do paciente à pena de 17 anos, 4 meses e 6 dias de reclusão, em regime fechado, mais 1.500 dias-multa, como incurso nos arts. 33, caput, e 35, ambos c.c o 40, III, todos da Lei n. 11.343/2006.
+Nesta Corte, a defesa afirma ser inidônea a motivação apresentada para manter a prisão cautelar do paciente - reincidência do acusado - notadamente quando houve a apreensão de ínfima quantidade de drogas (24,82g de crack e cocaína), com dezessete corréus.
+Destaca o excesso na prisão cautelar que dura há mais de 3 anos e 9 meses.
+Requer a colocação do paciente em liberdade.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Cumpre, então, avaliar a possibilidade de concessão da ordem de ofício, se presente ilegalidade flagrante.
+No acórdão impugnado, a custódia cautelar foi mantida nos seguintes termos:
+Os requisitos ensejadores da prisão preventiva permanecem hígidos, ora confirmados pela manutenção da sentença condenatória, não havendo fatos novos que justifiquem a soltura do acusado neste processo, principalmente porque o encerramento da fase instrutória e, agora, da revisão da prova, inviabiliza a alegação de excesso de prazo.
+Inicialmente, vale anotar que esta Corte tem entendimento de que "a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 387, § 1.º, do Código de Processo Penal o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento" (AgRg no RHC n. 173.056/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, D Je de 19/12/2022).
+No caso, observa-se que persistem os fundamentos que justificaram a decretação da prisão cautelar para assegurar a ordem pública, dado o envolvimento habitual do paciente na traficância. Portanto, noticiada a existência de condenação anterior pelo delito de tráfico de droga, acrescido do fato de que o réu foi novamente surpreendido na traficância e coordenando a atuação criminosa dos demais agentes do grupo criminoso, correta a decisão que negou o apelo em liberdade.
+Nesse contexto , é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: (AgRg no RHC n. 204.865/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; AgRg no HC n. 964.753/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
