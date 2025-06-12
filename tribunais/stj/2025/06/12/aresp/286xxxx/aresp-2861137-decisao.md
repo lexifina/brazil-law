@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KRYSLANY SUENNA DA SILVA, contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que não admitiu o recurso especial.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/06, às penas de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa.
+O Tribunal de origem, em decisão unânime, deu parcial provimento ao apelo defensivo, para aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/06, redimensionando a reprimenda para 4 (quatro) anos e 2 (dois) meses de reclusão, além de 417 (quatrocentos e dezessete) dias-multa.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, o insurgente alega violação ao art. 33, § 4º, da Lei n. 11.343/06. Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas n. 282 e 356, ambas do STF.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo não conhecimento do agravo.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A presente controvérsia cinge-se à fração adequada de redução da pena ante a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/06.
+O Tribunal local aplicou a minorante no mínimo legal, adotando os seguintes fundamentos:
+"Portanto, deve ser reconhecido o tráfico privilegiado para fins de redução da pena, porém atenuo a pena em 1/6, tendo como base as circunstâncias em que ocorreu o fato, tendo o apelante em sua posse entorpecente com alta nocividade, motivo pelo qual realizo a referida minoração no patamar mínimo." (e-STJ, fl. 324)
+Como se depreende, para fixar o patamar de redução da pena, o órgão colegiado estadual considerou a nocividade da droga apreendida, considerando a apreensão de 90 "pedrinhas" de crack, além de 55g de cannabis sativa lineu.
+No entanto, apesar do esforço argumentativo da parte agravante, a decisão guerreada está em consonância com precedentes desta Corte, no sentido de que "a quantidade e a natureza das drogas apreendidas podem modular a causa de diminuição do tráfico privilegiado, desde que não valoradas na primeira fase da dosimetria" (AgRg no HC n. 968.237/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.).
+Ademais:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DA CONDUTA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. CONFISSÃO. SÚMULA 231 DO STJ. ART. 33, § 4º DA LEI N. 11.343/2006. FRAÇÃO. DISCRICIONARIEDADE DO JULGADOR. NATUREZA DA DROGA (COCAÍNA). FUNDAMENTO IDÔNEO. SÚMULA N. 7 DO STJ. REGIME PRISIONAL SEMIABERTO CORRETAMETNE FIXADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n. 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, , DJe de 24/5/2018).
+2. A aplicação de atenuantes não pode conduzir à fixação da pena em patamar inferior ao mínimo legal, conforme a Súmula n. 231 do STJ.
+3. O julgador, ao reconhecer a presença dos requisitos necessários ao reconhecimento do privilégio, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso, em que foi considerada a natureza da droga.
+4. Fixada a pena definitiva em 4 anos, 4 meses e 15 dias de reclusão, sendo primária a agravante e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado e suficiente para o cumprimento da pena privativa de liberdade, a teor do contido no art. 33, § 2º, "b", do Código Penal.
+5. Agravo Regimental não provido."
+(AgRg no AREsp n. 2.780.619/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025.)
+No caso, o Tribunal local devidamente expôs as razões de decidir, fundamentando a modulação da causa de diminuição em consonância com entendimento desta Corte de Cidadania. Assim, "a reanálise das circunstâncias que levaram à fixação da pena e à aplicação da minorante demandaria o revolvimento do acervo fático-probatório, o que é vedado nesta instância especial, conforme a Súmula n. 7 do STJ" (AgRg no AREsp n. 2.800.271/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/4/2025, DJEN de 8/4/2025.).
+Portanto, não cabe a esta Corte interferir na análise do contexto fático-probatório ou no juízo de proporcionalidade feito pelas instâncias de origem. Incide, nesse contexto, as Súmulas n. 7 e 83, ambas do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
