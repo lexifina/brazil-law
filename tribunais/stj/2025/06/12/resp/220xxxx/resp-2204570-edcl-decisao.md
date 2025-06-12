@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DOS SERVIDORES DO MUNICÍPIO DE PORTO VELHO - IPAM contra decisão monocrática, de minha Relatoria, assim ementada (fl.200):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO
+ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS.IMPOSSIBILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO ASÚMULA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. FILHO DE SERVIDOR PÚBLICO MUNICIPALFALECIDO. PENSÃO POR MORTE. PREVALÊNCIA DA LEI 9.717/1998 SOBRE A LEI LOCAL. RECURSO ESPECIALPARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+O embargante alega que a decisão está maculada por omissão quanto ao argumento lançado no acórdão do TJRO acerca da EC 103/2019 e obscuridade no tocante à fundamentação adotada para afastar a incidência da Lei Complementar Municipal n.º 404/2010, conferindo prevalência às disposições das Leis Federais n.º 9.717/1998 e n.º 8.213/1991, sem, contudo, explicitar de forma suficiente os fundamentos jurídicos que justificariam tal hierarquização normativa (fls. 209-210).
+Impugnação às fls. 219-232.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No presente caso, não há que se falar em omissão, obscuridade ou contradição. A decisão embargada é de clareza solar em afirmar que o entendimento desta Corte Superior é no sentido de que "a Lei nº 9.717/1998 prevalece sobre a norma que regulamenta o regime próprio dos servidores públicos estaduais, devendo ser reconhecido o direito de pensão por morte até os 21 anos, conforme previsto na Lei n. 8.213/1991" (AgInt nos EDcl no AREsp n. 1.220.599/AM, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2018, DJe de 2/8/2018).
+Consoante explicitado na decisão agravada, a orientação do STJ é no sentido de que a Lei federal n. 9.717/1998, que fixa normas gerais para organização e funcionamento dos regimes próprios dos servidores públicos da União, Estados, Distrito Federal e Municípios, ao vedar a concessão de benefícios distintos daqueles previstos no Regime Geral de Previdência Social, deve prevalecersobre as disposições de lei local em sentido diverso (AgInt no RMS 56188/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 16/09/2019, Dje 20/09/2019- grifo nosso).
+Logo, não há na decisão nenhuma situação que dê amparo ao recurso integrativo, estando evidente que a alegação de omissão se caracteriza, em verdade, como mero inconformismo e intuito de rediscutir a controvérsia, propósitos estes para os quais não se prestam os aclaratórios.
+A propósito: EDcl no AREsp n. 2.736.393, Ministro Sérgio Kukina, DJEN de DJEN 11/02/2025; EDcl no AREsp n. 2.426.971, Ministro Benedito Gonçalves, DJEN de DJEN 11/02/2025; EDcl no AREsp n. 2.721.823, Ministro Teodoro Silva Santos, DJEN de DJEN 07/02/2025.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiênciade fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
