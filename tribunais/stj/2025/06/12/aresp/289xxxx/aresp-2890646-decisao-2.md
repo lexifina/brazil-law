@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSANE NINOFF em face de decisão proferida no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no ju lgamento da Apelação Criminal n. 5002731-03.2018.4.04.7016.
+A agravante foi condenada como incursa no art. 273, §§ 1 e 1º-B, I, do Código Penal, c/c o preceito secundário do art. 33 da Lei n. 11.343/2006, à pena de 3 anos e 6 meses de reclusão e 350 dias-multa, no regime inicial aberto.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso e desclassificou, de ofício, a conduta para o delito inscrito no art. 33, caput, da Lei n. 11.343/2006. O acórdão ficou assim ementado:
+"PENAL. FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. DESCLASSIFICAÇÃO PARA O TIPO PENAL INSCRITO NO ART. 33 DA LEI 11.343/06. CRIME ÚNICO. INÉPCIA DA DENUNCIA. INOCORRÊNCIA. AUSÊNCIA DE PROVAS. DE AUTORIA. NÃO RECONHECIDA. PRINCÍPIO DO IN DUBIO PRO REO. INAPLICÁVEL DESCLASSIFICAÇÃO PARA O ARTIGO 334 DO CÓDIGO PENAL. INVIÁVEL. DOSIMETRIA. MANTIDA.
+1. No âmbito desta Corte, em casos como o presente em que apreendidos, na mesma oportunidade e condições, significativa quantidade de medicamentos falsos, medicamentos sem registro na ANVISA e outros cujos princípios ativos figuram nas listas a que se referem os artigos 1º, parágrafo único, e 66 da Lei 11.343/06, as condutas devem ser enquadradas no tipo penal descrito no art. 33 desta lei, reputando-se absorvido aqueles inscritos no art. 273, §§ 1º e 1º-B, do Código Penal, tendo em vista a identidade do bem jurídico protegido. Desclassificação da conduta para o delito inscrito no art. 33, caput, da Lei 11.343/06.
+2. Não é inepta a denúncia quando todos os requisitos insculpidos no art. 41 do Código de Processo Penal forem observados pelo órgão acusatório. Resta superada a tese de ausência de justa causa quando a denúncia permite o exercício do contraditório e da ampla defesa durante a instrução processual.
+3. Havendo suporte em provas lícitas e validamente produzidas no processo criminal, não se vislumbra insuficiência probatória a autorizar a aplicação do princípio do in dubio pro reo.
+4. Materialidade, autoria e dolo devidamente comprovados pelo conjunto probatório colhido nos autos.
+5. Considerando-se a discricionariedade judicial que vigora no âmbito da dosimetria da pena e a situação fática, verifica-se que a sentença abordou as vetoriais previstas no art. 59 do CP, sopesando-as com adequação aos fatos e circunstâncias.
+6. Desprovimento dos recursos." (fl. 21727)
+Em sede de recurso especial, a defesa apontou violação ao art. 617 do CPP, ao argumento de que "a "desclassificação" promovida é evidentemente maléfica à ré, ao passo que lhe atribuiu conduta considerada hedionda, natureza que já foi afastada do tipo do artigo 273, § 1 e § 1º-B, inciso I, do Código Penal em razão do Tema nº 1003 do STF" (fl. 21812).
+Requereu, ao final, o restabelecimento da condenação criminal pelo crime do art. 273, §§ 1º e 1º-B, inciso I, do Código Penal (fl. 21817).
+Apresentadas as contrarrazões (fls. 21842/21847), o recurso foi inadmitido por incidência da Súmula n. 7/STJ (fls. 21856/21860).
+No agravo em recurso especial, a defesa alegou que não haveria necessidade do reexame fático-probatório, visto que, "o recurso especial se fundamenta em violação ao artigo 617 do Código de Processo Penal, a proibição do reformatio in pejus, justamente diante do fato admitido na decisão, de que teria ocorrido o reenquadramento da conduta pelo TRF4" (fl. 21904).
+O Ministério Público Federal, à fl. 21960, opinou pelo pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+A decisão agravada inadmitiu o recurso especial, considerando o enunciado da Súmula n. 7/STJ. Entretanto, a agravante não impugnou adequadamente o óbice da referida súmula.
+Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa, não bastando a assertiva genérica de que o recurso visa a revaloração das provas.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES DAS SÚMULAS N. 284 DO STF E N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos pelos quais o Tribunal de origem inadmitiu o recurso especial, incidindo as Súmulas n. 284 do STF e n. 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+5. A mera alegação de que a fundamentação foi clara e bem fundamentada não é suficiente para afastar a incidência da Súmula n. 284 do STF diante do constatado vício da peça recursal que apontou artigo de lei federal violado sem o motivo correspondente, sendo defeso inovar no agravo regimental para sanar a deficiência em razão da preclusão consumativa.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação dos fundamentos da decisão de inadmissibilidade deve ocorrer no agravo em recurso especial, sob pena de preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo, conforme a Súmula 182 do STJ. 3. A mera alegação genérica de inaplicabilidade da Súmula 7 do STJ não é suficiente para afastar o óbice, sendo necessária a demonstração concreta de que a tese recursal está adstrita a fatos incontroversos."
+Dispositivos relevantes citados: CPP, art. 580; CPC/2015, art. 932, III. Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.392.824/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023; STJ, AgRg no AREsp 1965463/GO, Rel. Min. Laurita Vaz, Sexta Turma, DJe 4/11/2021; STJ, AgRg no AREsp 1827996/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 16/8/2021.
+(AgRg no AREsp n. 2.632.127/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+No caso em tela, a análise das alegações da defesa demandaria, necessariamente, a reavaliação do acervo fático-probatório. Tal constatação é reforçada pela fundamentação adotada pelo Tribunal de origem, nos seguintes termos:
+"Os laudos periciais atestaram que todos os medicamentos eram desprovidos de registros na Agência Nacional de Vigilância Sanitária - ANVISA e que parte deles era falsificada. Confira-se:
+ ..
+De início, destaco que, tendo a denúncia narrado a existência de medicamentos falsos e de substâncias controladas em parte dos medicamentos, inviabilizada a aplicação do Tema 1003, por não se tratar apenas de itens sem registro ou de procedência ignorada.
+A propósito, anoto que, no âmbito desta Corte, em casos como esse, em que apreendidos, na mesma oportunidade e condições, significativa quantidade de medicamentos falsos, medicamentos sem registro na ANVISA e outros cujos princípios ativos figuram nas listas a que se referem os artigos 1º, parágrafo único, e 66 da Lei 11.343/06, tem-se enquadrado a conduta no tipo penal descrito no art. 33 desta lei, reputando-se absorvido aqueles inscritos no art. 273, §§ 1º e 1º-B, do Código Penal, tendo em vista a identidade do bem jurídico protegido.
+Assim, considerada a identidade do bem jurídico protegido e a internalização no mesmo contexto de fato, de rigor, reputa-se haver crime único, com desclassificação da conduta para o delito inscrito no art. 33, caput, da Lei 11.343/06.
+Não há prejuízo à defesa, uma vez que a sentença adotou o preceito secundário deste crime." (fls. 21697/21698)
+Assim, no presente caso, a desclassificação do delito, conforme requer a defesa, exigiria o reexame dos fatos e das provas produzidas nos autos, e não questões de direito ou de má aplicação da lei federal.
+A menção a dispositivos de lei federal, bem como a exposição da interpretação jurídica que o recorrente reputa correta, como se estivesse a elaborar um recurso de apelação, não é suficiente para a transposição dos óbices, pois o Superior Tribunal de Justiça não atua como instância recursal ordinária ou corte revisora de fatos.
+O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao novo julgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
