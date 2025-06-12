@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELAINE ROSA DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (HC 0028101-55.2025.8.16.0000).
+Consta dos autos que a paciente foi presa em flagrante no dia 16/03/2025 pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, sendo a prisão convertida em preventiva.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem, em acórdão assim ementado (e-STJ fls. 41/42):
+DIREITO PROCESSUAL PENAL E DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. PEDIDO DE LIBERDADE PROVISÓRIA OU SUBSIDIARIAMENTE PELA PRISÃO DOMICILIAR. HABEAS CORPUS CONHECIDO E DENEGADO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente acusada de tráfico de drogas, cuja prisão em flagrante foi homologada e, posteriormente, convertida em prisão preventiva pelo Juízo da 1ª Vara Criminal da Comarca de Arapongas/PR, com fundamento na garantia da ordem pública. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a prisão preventiva da paciente é legal e se é cabível a concessão de prisão domiciliar em razão de sua condição de gestante e das circunstâncias do caso concreto. III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi fundamentada na garantia da ordem pública, considerando a gravidade do crime de tráfico de drogas e o risco de reiteração delitiva.
+4. A paciente, embora tecnicamente primária, foi presa em flagrante por tráfico de drogas apenas 15 dias após ter sido beneficiada com liberdade provisória em outro processo por crime de mesma natureza.
+5. As condições pessoais favoráveis da paciente, como estar grávida e ter filhos menores, não são suficientes para revogar a prisão preventiva, dado o contexto da prática delitiva, em que os entorpecentes foram apreendidos no interior da residência da paciente.
+6. A decisão que manteve a prisão preventiva está devidamente fundamentada e não apresenta constrangimento ilegal.
+IV. DISPOSITIVO E TESE
+7. Habeas corpus conhecido e denegado.
+Alega que a paciente é gestante de aproximadamente seis meses, mãe de quatro crianças menores, sendo elas de seis, três, nove e dez anos de idade, todas sob os cuidados do avô materno, de 68 anos, o qual não teria condições de prover a atenção necessária. Sustenta que a custodiada é tecnicamente primária, conforme certidão de antecedentes, ainda que tenha sido presa em flagrante em duas ocasiões distintas, com intervalo de quinze dias, sendo beneficiária de liberdade provisória no primeiro processo.
+Argumenta que a prisão domiciliar é medida legalmente cabível nos moldes do art. 318-A do Código de Processo Penal, tendo em vista que a paciente é gestante e mãe de crianças menores de 12 anos, não havendo nos autos indicativos de gravidez de risco, de prática de crime com violência ou grave ameaça, ou de qualquer situação excepcional que justifique o indeferimento da substituição.
+Aduz que a reiteração delitiva, embora mencionada na decisão que manteve a custódia, não é causa legal para afastar a substituição da prisão preventiva pela domiciliar nas hipóteses expressamente previstas na legislação e reconhecidas pela jurisprudência, inclusive do Supremo Tribunal Federal no julgamento do Habeas Corpus coletivo n. 143.641/SP. Transcreve trecho do HC 190.523/PE, relatado pelo Ministro Ricardo Lewandowski, em que se afirma que a reincidência não impede, por si só, a concessão da domiciliar, argumento que, segundo a defesa, se aplica ainda mais à situação da paciente, que não possui condenações transitadas em julgado.
+Diante disso, requer, em liminar, a substituição da prisão preventiva pela prisão domiciliar, com aplicação concomitante de medidas cautelares diversas, até o julgamento do mérito. Ao final, pleiteia a concessão definitiva da ordem.
+Juntada de petição com documentos (e-STJ fls. 68/109).
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Novamente, a defesa não trouxe aos autos cópia da decisão que decretou a prisão preventiva da paciente, negando o benefício da prisão domiciliar. Verifica-se que aos autos foi juntado cópia do pedido de prisão preventiva, feito pelo Ministério Público aos acusados André Victoriano Cajui, João Vitor de Jesus de Lima, Henrique de Carvalho Jordão Ferreira, Alany Fernanda Messias da Silva Ribeiro e Luciano Viana Gomes.
+Assim, o writ não foi corretamente instruído com as peças processuais indispensáveis à compreensão da controvérsia.
+Ora, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
