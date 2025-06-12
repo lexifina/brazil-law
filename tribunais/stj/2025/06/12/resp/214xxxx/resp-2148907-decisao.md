@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. TRIBUTÁRIO. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. TEMA 69 DE REPERCUSSÃO GERAL. VIOLAÇÃO DE NORMA JURÍDICA CONFIGURADA. EXCLUSÃO DO ISS DA BASE DE CÁLCULO DO PIS E DA COFINS. INEXISTÊNCIA DE JULGAMENTO EM DESCONFORMIDADE COM TESE FIRMADA EM SEDE DE REPERCUSSÃO GERAL. ACÓRDÃO FUNDADO EM INTERPRETAÇÃO DE LEI ACEITA À ÉPOCA DO ACÓRDÃO RESCTNDENDO. INEXISTÊNCIA DE VIOLAÇÃO À NORMA JURÍDICA. AÇÃO RESCISÓRIA PARCIALMENTE PROCEDENTE.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, visto que "a ação rescisória foi julgada parcialmente procedente, sem o v. acórdão indicar o erro de fato incorrido pela decisão rescindenda, aplicando de ofício hipótese rescisória estranha ao feito" (fl. 1.316), bem como não se pronunciou sobre as formas de aproveitamento dos créditos decorrentes da exclusão do ICMS da base de cálculo do PIS/COFINS".
+Afirma que existe afronta aos arts. 329 e 966, VIII, do CPC, sustentando que "o fundamento rescisório invocado pelo autor na petição inicial não pode ser modificado após a citação" (fl. 1.324).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, porquanto, em julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 1.288):
+Nessa linha, não há que se falar em omissão, na medida em que o acórdão foi explícito ao pontuar que na inicial da rescisória não haviam ficado bem claros os fundamentos para a rescisão do julgado em questão, sendo possível extrair os fundamentos da rescisão pleiteada, uma vez que alguns trechos da inicial demonstram a real intenção do autor em ver a decisão de mérito rescindida, como na própria qualificação das partes em que se direciona a ação rescisória ao acórdão da Quarta Turma.
+Noutro aspecto, o acórdão se manifestou quanto ao pedido de exclusão do ISS, no sentido de que os precedentes no âmbito das Turmas Julgadoras desta Corte à época do julgamento do acórdão rescindendo eram todos no sentido da legalidade de sua inclusão da base de cálculo do PIS e da COFINS, não havendo como se vislumbrar a existência de requisitos autorizadores da rescisão de um julgado que não violou disposição legal, uma vez que aplicou entendimento aceito pela jurisprudência da época do julgamento, não se configurando, portanto, a omissão.
+Como se vê, a negativa de prestação jurisdicional não resultou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto à análise dos arts. 329 e 966, VIII, do CPC, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, r elator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
