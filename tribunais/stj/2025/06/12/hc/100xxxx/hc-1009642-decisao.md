@@ -1,0 +1,34 @@
+DECISÃO
+O presente writ, impetrado em benefício de RODRIGO OLIVEIRA DE MOURA - condenado como incurso no crime de extorsão qualificada (Ação Penal n. 0086996-55.2017.8.26.0050) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, comporta acolhimento em parte.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 9ª Vara Criminal da comarca de São Paulo/SP, ao argumento de ilegalidade na exasperação da pena-base uma vez que foi considerado processo criminal em andamento para fins de maus antecedentes, o que é vedado pela Súmula 444/STJ.
+Aduz que a existência de inquéritos ou processos em andamento além de não servir como indicativo de maus antecedentes, não pode ser considerada como indicativo de possuir o paciente péssima conduta social, ou personalidade voltada para o crime, na medida em que, consagrado na nossa Constituição o princípio da presunção de inocência, somente processos nos quais haja condenação transitada em julgado podem ser considerados em desfavor de alguém (fl. 6).
+Por fim, alega ilegalidade no que tange à causa de aumento de pena prevista no § 1º do art. 158 do Código Penal, uma vez que o aumento se deu na fração de  (metade) sem a devida fundamentação.
+De fato, em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+O acórdão impugnado ao confirmar a sentença afirmou que (fls. 34/35):
+Sopesadas as diretrizes estabelecidas no art. 59, do Código Penal, a pena foi fixada acima do piso, de forma justificada, porquanto, presente circunstâncias judiciais desfavoráveis, aduziu o sentenciante: .. considerando a culpabilidade do réu, as circunstâncias e consequências do delito, deve a pena base do delito capitulado pelo artigo 158 do Código Penal ser fixada em patamar acimado mínimo. O réu e seu comparsa foram extremamente violentos com as vítimas, segundo o depoimento delas e da testemunha presencial. Em razão da violência e da grave ameaça empregadas, as vítimas foram obrigadas a abandonar suas residências, seus empregos, a alterar totalmente suas rotinas, a fim de se esconderem do réu. O réu é portador de maus antecedentes, tendo sido condenado pelo juízo da 3ª Vara Criminal da comarca do Guarujá, por fato praticado em 03 de janeiro de 2014, segundo comprovado por certidão judicial juntada aos autos a fls. 1042/1044.
+O que resultou na pena de cinco anos e quatro meses de reclusão e pagamento de treze dias-multa.
+Na segunda fase, ausentes atenuantes e/ou agravantes a reprimenda permaneceu no quantum anterior.
+Na terceira fase de fixação da pena, correto se mostra o aumento de metade, porquanto, reconhecida duas majorantes: número de agentes e número de armas por eles empregadas, a demonstrar maior reprovabilidade da conduta criminosa, o que resultou em oito anos e dezenove dias-multa.
+Pois bem. Após conferência em nosso sistema interno de informações e da análise dos antecedentes criminais juntados às fls. 13/17, verifiquei que o paciente foi realmente condenado pela 3ª Vara Criminal da comarca do Guarujá por fato praticado em 3/1/2014, porém o trânsito em julgado da ação penal apenas ocorreu em 29/5/2019, de forma que, quando a sentença foi proferida (10/8/2018), o paciente ainda era primário.
+Assim, diante do que foi verificado, necessário decotar o aumento da pena-base quanto à circunstância judicial de maus antecedentes.
+Já quanto à aplicação da fração de 1/2 pela incidência da causa de aumento prevista no § 1º do art. 158 do Código Penal, não há ilegalidade a ser sanada.
+No caso, a aplicação da fração de 1/2 (metade) em razão da presença das majorantes previstas legalmente apresenta fundamentação idônea pelas instâncias de origem evidenciada pela prática do delito em concurso de pessoas e com emprego de arma de fogo.
+A propósito:
+ ..
+7. Ficando claramente comprovada a utilização da arma pelos acusados para o cometimento do crime, bem como que ambos agiram em comunhão de vontades, praticando os crimes ora em análise, não há como se afastar o fato dos delitos terem sido praticados em concurso de pessoas e com o emprego de arma de fogo, devendo incidir a causa de aumento prevista no § 1º do art. 158 do CP. (REsp n. 1.353.693/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2016, DJe de 21/9/2016.).
+8. Consoante o disposto no enunciado n. 443 da Súmula/STJ, segundo o qual "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes". No caso, a aplicação da fração da majorante em 1/2 (metade) apresenta fundamentação idônea considerando as circunstâncias do caso concreto, uma vez que evidenciada fundamentação concreta pelas instâncias ordinárias no sentido de que eram 3 agentes que praticaram a conduta delitiva, utilizando-se de 2 armas de fogo e uma faca.
+ ..
+(HC n. 763.371/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 4/12/2024).
+No mesmo sentido: HC n. 387.171/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/6/2017, DJe de 28/6/2017.
+Redimensionando-se a reprimenda imposta, temos:
+Reduzindo proporcionalmente a pena-base, em razão do afastamento de uma das quatro circunstâncias consideradas negativas, fixo-a em 5 anos de reclusão e 10 dias-multa.
+Na segunda etapa, ausentes agravantes e atenuantes, segue a pena fixada em 5 anos e 10 dias-multa.
+Na terceira fase, incidem as majorantes de concurso de agentes e uso de arma de fogo na fração de 1/2, resultando a pena em 7 anos e 6 meses de reclusão, e 15 dias-multa.
+Ainda na terceira fase, diante do reconhecimento da continuidade delitiva, considero adequado o aumento de 1/6 e torno a pena definitiva em 8 anos e 9 meses de reclusão, e 17 dias-multa. Mantido o regime inicial fechado.
+Em face do exposto, concedo em parte e liminarmente a ordem impetrada para redimensionar a pena imposta ao paciente em 8 anos e 9 meses de reclusão, e 17 dias-multa, no regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. EXTORSÃO QUALIFICADA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. SUPERAÇÃO DO ÓBICE QUE SE IMPÕE. DOSIMETRIA DA PENA. REPRIMENDA-BASE. MAUS ANTECEDENTES. SÚMULA 444 DO STJ. INCIDÊNCIA. CONDENAÇÃO ANTERIOR NÃO TRANSITADA EM JULGADO QUANDO DA SENTENÇA CONDENATÓRIA. REDIMENSIONAMENTO QUE SE IMPÕE. CAUSAS DE AUMENTO DE PENA. MAJORANTES DE EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. FRAÇÃO 1/2. CABIMENTO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
