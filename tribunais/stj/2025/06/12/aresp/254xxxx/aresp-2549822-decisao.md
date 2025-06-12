@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MEDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fl. 504):
+"RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - IMPROCEDÊNCIA - MÉRITO - CIRURGIA RETOSSIGNOIDECTOMIA ROBÓTICA E TRATAMENTOS - HOSPITAL DE ALTO CUSTO NÃO CONTEMPLADO NO CONTRATO - CLÁUSULA EXPRESSA - LEGALIDADE - OPÇÃO DO USUÁRIO - DANOS MATERIAIS - COBERTURA DO TRATAMENTO NO LIMITE DA TABELA DO PLANO DE SAÚDE - DANOS MORAIS - LIBERALIDADE DO PACIENTE QUE OPTOU POR HOSPITAL DE ALTO CUSTO - NÃO CONFIGURAÇÃO - HONORÁRIOS ADVOCATÍCIOS - SUCUMBÊNCIA RECÍPROCA - SENTENÇA REFORMADA - PARCIAL PROCEDENCIA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 586-590).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou a disposição contida no art. 12, inciso VI, da Lei n. 9.656/98, porquanto o reembolso das despesas médico-hospitalares realizadas fora da rede credenciada só é obrigatório em casos de urgência ou emergência, o que não foi comprovado no caso em questão.
+Foram oferecidas contrarrazões ao recurso especial (fls. 624-626).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 643-648), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 664-674).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Assiste razão à parte agravante quanto à alegada ofensa ao art. 1.022 do CPC.
+Com efeito, a tese reputada como omissa - alegação de inexistência de situação de urgência ou emergência a justificar o reembolso de despesas médicas fora da rede credenciada - foi objeto de embargos de declaração, ocasião em que se requereu sua apreciação pelo Tribunal a quo (fl. 528):
+"A r. decisão monocrática foi omissa com relação as alegações apresentadas pela Embargante nas contrarrazões do recurso de apelação de id. nº 164843789, qual seja, a disposição legal estabelecida pelo artigo 12, inciso VI, da Lei nº 9.656/98, o qual em suma, estabelece que somente quando não for possível a utilização dos serviços próprios, em decorrência do atendimento ser imediato (emergência ou urgência), e que o reembolso observará os limites da tabela praticada."
+Da análise minuciosa dos autos, verifica-se que, de fato, mesmo após a oposição de embargos, a questão supramencionada não foi apreciada pelo Tribunal a quo, que se limitou a reproduzir as razões de decidir anteriores, in verbis (fls. 588-589):
+"Bem por isso, fica absolutamente clara a intenção de pura e simplesmente conferir efeitos infringentes a este recurso, não para complementar, mas para rediscutir o entendimento sobre a matéria decida pelo colegiado de forma unanime. A decisão embargada, em que pesem os argutos argumentos da UNIMED traduz o perfeito entendimento desta Câmara a respeito desta questão e, em face disto, deságua a pretensão da mesma em alegar um inexistente vício.
+Certo ou errado, o acórdão embargado cumpriu todas as exigências legais e, neste viés, está perfeitamente fundamentado o motivo pelo qual determinou o pagamento integral das despesas feitas pelo embargado. Como se sabe, a norma prevista do CPC não comporta flexibilidade para novo julgamento e, muito menos para corrigir eventuais injustiças e, neste mister, tem a agravante o expediente recursal próprio para levar a questão aos Tribunais Superiores.
+Na verdade, o embargante/requerido, ora embargante, tenta a todo custo emplacar sua posição sobre o tema, entretanto, este foi bem sopesado por esta Câmara; o fato de que: em que pese o embargado ter procurado internação em hospital não credenciado e de alto custo, ainda que tenha julgado necessário dada à gravidade de sua situação não pode a seguradora responder acima dos limites dos valores praticados pela tabela do plano contratado em respeito aos princípios da razoabilidade, da boa fé objetiva e da função social do contrato. Sendo assim suficiente a fundamentação para espancar o art. 12, inciso VI, da Lei 9656/98, alegado como omisso no julgamento da apelação."
+Desse modo, para que a Corte de origem se manifeste acerca dos pontos reputados como omissos, impõe-se o reconhecimento da alegada violação do art. 1.022 do CPC, bem como a anulação do acórdão proferido em embargos de declaração para que seja realizado novo julgamento, que supra as omissões apontadas.
+A propósito, cito precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Constatado vício no acórdão embargado é devida a integralização da decisão impugnada.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar à Corte local para que os temas sejam analisados e solvidos.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.246.113/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/5/2024. Destaquei)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. NECESSIDADE DE RETORNO DOS AUTOS AO TJRJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal estadual não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a flagrante contrariedade ao disposto no art. 1.022 do CPC.
+2. A adoção da teoria de uma chance não afasta a necessidade de se tecer os contornos fáticos, com elementos aptos à valoração da indenização dali decorrente.
+3. Tratando-se, outrossim, de um desdobramento dos danos materiais, imperiosa a manifestação da Corte estadual também sobre a incidência ou comprovação dos danos emergentes e dos lucros cessantes, por também integrarem os danos materiais pretendidos.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.913.183/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/8/2023. Grifei)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre os pontos omissos apontados nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
