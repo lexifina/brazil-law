@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto pela Defensoria Pública em favor de VÍTOR ROBERTO MOURA DA SILVA contra acórdão proferido pela Câmara Criminal do Tribunal de Justiça do Estado de Alagoas (HC 811663-42.2024.8.02.0000).
+Consta dos autos que o recorrente foi preso em flagrante no dia 29/10/2024 pela suposta prática do crime previsto no art. 16, § 1º, IV, da Lei nº 10.826/2003 (porte ilegal de arma de fogo com numeração suprimida), sendo a prisão convertida em preventiva, com fundamento na necessidade de garantia da ordem pública e da aplicação da lei penal.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem (e-STJ fls. 97/101).
+Sustenta a defesa, em síntese, que a prisão preventiva carece de fundamentação idônea, não demonstrando a imprescindibilidade da medida para o regular andamento do processo. Argumenta que os fundamentos utilizados pelas instâncias ordinárias baseiam-se na gravidade abstrata do delito e em presunções genéricas de periculosidade, contrariando o entendimento consolidado dos tribunais superiores sobre a excepcionalidade da prisão preventiva.
+Alega ainda que a custódia cautelar está dissociada do princípio da homogeneidade, na medida em que a pena máxima abstratamente cominada ao delito não justifica, por si, a imposição de regime mais gravoso do que aquele cabível em eventual condenação. Afirma que, em caso de sentença condenatória, o regime mais provável seria o semiaberto, tornando desproporcional a manutenção da prisão cautelar.
+Defende, ademais, a possibilidade de substituição da prisão por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal, ressaltando que o paciente é primário e que a prisão preventiva somente se justificaria como ultima ratio, nos termos da Lei nº 12.403/2011 e do art. 282, §§ 4º e 6º, do CPP.
+Aduz que o histórico processual do paciente não pode ser considerado fundamento válido para justificar a prisão preventiva, pois não há sentença condenatória transitada em julgado, devendo prevalecer a presunção de inocência prevista no art. 5º, inciso LVII, da Constituição Federal.
+Por fim, transcreve precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal que reconhecem a nulidade de decretos prisionais fundamentados em meras suposições de periculosidade ou em alegações genéricas de gravidade do delito, e requer a concessão da ordem, com a expedição de alvará de soltura em favor do paciente.
+Diante disso, requer o provimento do recurso ordinário, com a concessão da ordem de habeas corpus para revogar a prisão preventiva decretada contra VÍTOR ROBERTO MOURA DA SILVA.
+Não houve pedido liminar. As informações foram prestadas (e-STJ fls. 141/1424). O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 129/132).
+É o relatório. Decido.
+Segundo informações prestadas pelo juízo de primeiro grau (e-STJ fl. 141) , na data de 11/3/2025, foi prolatada sentença condenando o recorrente a uma pena de 03 anos de reclusão, cumprida inicialmente em regime aberto, expedido o alvará de soltura com a consequente liberdade do recorrente desde 12/3/2025.
+Assim, fica sem objeto o pedido contido no presente Recurso em habeas corpus.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Intimem-se.
+EMENTA
