@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de PAULO CESAR MENDES DA SILVA JUNIOR contra ato supostamente praticado pelo Ministério da Justiça e Segurança Pública que teria incluído indevidamente o paciente no banco de dados de mandados de prisão.
+Neste habeas corpus, a defesa sustenta que o paciente está submetido a constrangimento ilegal alegando que "acosta aos autos provas de que não responde a nenhum processo criminal e que não há nenhum mandado de prisão decretado em seu desfavor. O paciente encontra-se dentro de casa sem sair com medo de ter a sua liberdade cerceada, por um erro material no sistema, pois os próprios policiais mesmo informaram que era melhor ele ficar em casa até solucionar a questão" (fl. 3).
+Requer, liminarmente e no mérito, a concessão da ordem, para que "a autoridade coatora retire do sistema a informação de que há mandados de prisão contra o paciente e ao final a concessão da ordem" (fl. 4)
+É o relatório.
+Decido.
+A competência deste Tribunal Superior, para julgamento de habeas corpus, está definida no art. 105, inc. I, alínea c, da Carta Política, pela qual somente é possível a impetração tiver como paciente os dignitários previstos na alínea a do mesmo inciso ou quando o coator for Tribunal sujeito à sua jurisdição, vale dizer, os Tribunais de Justiça dos Estados e Distrito Federal, assim como os Tribunais Regionais Federais, o que não se verifica no presente caso, no qual o impetrante colaciona como ato coator imagem de aplicativo que supostamente demonstra a existência de mandado de prisão em face do paciente sem, contudo, demonstrar que a controvérsia foi previamente submetida à análise das inst âncias ordinárias, inviabilizando o conhecimento por este Tribunal, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. TEMAS NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TESES REMANESCENTES. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Percebe-se, sob pena de indevida supressão de instância, a incompetência desta Corte Superior para o processamento e julgamento do writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c, da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno do Superior Tribunal de Justiça.
+2. Consigne-se, outrossim, na linha dos precedentes desta Corte Superior, que "a parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias transversas, alcançar a análise de suas teses. O "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante.(EDcl nos EDcl no AgRg no AREsp n. 1777820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021)" (AgRg no AREsp n. 1.450.671/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe 14/5/2021).
+3. Quanto a uma das teses remanescentes, "em termos de competência em razão do lugar e, portanto, de competência relativa, cabe à defesa a oposição da respectiva exceção de incompetência, no prazo legal, sob pena de preclusão. Não alegada oportuno tempore, ocorre a preclusão, levando à prorrogação da competência. Precedente (CC n. 34.879/MG, Ministro Gilson Dipp, Terceira Seção, DJ 25/8/2003)" (AgRg no RHC n. 165.058/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/6/2022, DJe de 23/6/2022).
+4. Em relação à prescrição, consignou-se que "as instâncias administrativo-tributária, cível e penal são independentes, o que reflete no reconhecimento da prescrição da pretensão punitiva estatal. Desse modo, a extinção do crédito tributário pela prescrição não implica, necessariamente, a extinção da punibilidade do agente" (AgRg no AREsp n. 202.617/DF, relator Ministro Campos Marques - Desembargador Convocado do TJPR -, Quinta Turma, DJe de 16/4/2013).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 943.351/MA, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025, grifei)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO POSTERIOR AO TRÂNSITO EM JULGADO. WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. PRECLUSÃO TEMPORAL. AGRAVO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado após o trânsito em julgado da condenação penal, ocorrido em 20/06/2017. O habeas corpus foi manejado com a finalidade de discutir nulidades já acobertadas pela coisa julgada, motivo pelo qual foi considerado sucedâneo de revisão criminal. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade do habeas corpus impetrado após o trânsito em julgado da condenação, tendo em vista sua utilização como substituto da revisão criminal. III. RAZÕES DE DECIDIR
+3. A impetração de habeas corpus após o trânsito em julgado da condenação configura indevida tentativa de reabertura da discussão sobre a validade da condenação, sendo sucedâneo da revisão criminal, o que é vedado pela jurisprudência do Superior Tribunal de Justiça.
+4. A jurisprudência consolidada desta Corte estabelece que, uma vez exauridas as instâncias ordinárias e operado o trânsito em julgado, não é cabível habeas corpus com o objetivo de revisar a decisão condenatória, salvo hipótese de flagrante ilegalidade, o que não se verifica no caso concreto.
+5. A preclusão temporal impede a rediscussão de matérias não arguidas em momento oportuno, ainda que envolvam nulidades absolutas, em respeito aos princípios da segurança jurídica e da estabilidade das decisões judiciais.
+6. Não cabe ao Superior Tribunal de Justiça julgar revisão criminal de decisão que não tenha sido proferida por esta Corte, conforme o disposto no art. 105, I, "e", da Constituição Federal, o que reforça a incompetência para apreciação do pedido.
+7. A tese defensiva não foi submetida às instâncias ordinárias, configurando tentativa de supressão de instância, o que também obsta seu conhecimento nesta Corte Superior.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal após o trânsito em julgado da condenação penal.
+2. A preclusão temporal impede a rediscussão de nulidades e vícios não alegados no momento oportuno.
+3. O Superior Tribunal de Justiça é incompetente para julgar revisão criminal de decisões não proferidas por esta Corte.
+(AgRg no HC n. 987.751/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025, grifei)
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fundamento no art, 210 do RISTJ.
+Publique-se
+Intimem-se.
+EMENTA
