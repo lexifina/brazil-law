@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de Fabio Otaviano da Silva, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios, em virtude da apelação criminal n. 20170110487087.
+Narram os autos que o paciente foi condenado pelo Tribunal do Júri como incurso nas sanções do art. 121, § 2º, incisos I e V, na forma do art. 29 c/c art. 73, segunda parte, do Código Penal, à pena de 22 anos de reclusão, em regime fechado, após ser absolvido pelo Conselho de Sentença no primeiro julgamento.
+No presente writ, a impetrante alega, em síntese, a existência de provas para embasamento da tese defensiva, de maneira que a Corte de origem não poderia ter anulado o julgamento.
+Sustenta que o órgão acusador não poderia manejar o recurso de apelação com base no art. 593, III, "d" do Código de Processo Penal, eis que se trataria de espécie recursal para uso exclusivo da defesa.
+Requer, em sede liminar, a suspensão do curso do processo nº AREsp nº 1778029 / DF (2020/0275694-4), bem como a revogação da prisão preventiva do paciente e, no mérito, seja concedida a ordem para cassar o acórdão combatido com o restabelecimento da absolvição do paciente.
+Inteiro teor do acórdão impetrado, às fls. 1143/1154.
+Decisão que indeferiu a liminar requerida, às fls. 3188/3190.
+Informações prestadas pelo Tribunal de origem, às fls. 3224/3226.
+Parecer do MPF, às fls. 3229/3223, onde se manifesta pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório. DECIDO.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º, do artigo 654, do Código de Processo Penal.
+Isto porque o Tribunal impetrado fundamentou o acórdão anulatório de maneira adequada, clara e coerente, subsidiado pelos elementos de prova que guarneceram os autos, em especial a confissão parcial do paciente em plenário e os relatos colhidos a partir da produção da prova testemunhal, os quais se mostraram suficientes, de acordo com o seu entendimento, para caracterizar a sentença como manifestamente contrária à prova dos autos nos termos do art. 593, III, "d", do Código de Processo Penal.
+Válido frisar que a Terceira Seção desta Corte Superior, ao apreciar o HC n. 323.409/RJ, em julgamento realizado em 28/2/2018, acolhendo, por maioria, voto do Ministro FELIX FISCHER, firmou entendimento no sentido de que a anulação da decisão absolutória do Conselho de Sentença - ainda que por clemência - manifestamente contrária à prova dos autos, segundo o Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, inciso III, alínea "d", do Código de Processo Penal), não viola a soberania dos veredictos, ou seja, a decisão de clemência será passível de revisão pelo Tribunal de origem quando não houver respaldo fático mínimo nos autos que dê suporte à benesse.
+Assim é de se ressaltar a impossibilidade de se valorar profundamente a existência dos elementos que respaldaram o acórdão anulatório, eis que implicaria o indevido revolvimento fático-probatório, medida incabível na via estreita do habeas corpus.
+Quanto ao pleito pela revogação da prisão do paciente, assiste razão ao membro do MPF ao apontar a impossibilidade de avaliar o pedido diante da não juntada aos autos do acórdão que manteve a condenação proferida no segundo Tribunal do Júri, eis que inviabilizada a análise dos motivos que fundamentaram a decisão pela segregação cautelar.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
