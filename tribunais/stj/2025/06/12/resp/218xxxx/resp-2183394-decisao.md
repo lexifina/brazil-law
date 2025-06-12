@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto por UNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR TEMPORÁRIO. ACIDENTE EM SERVIÇO. INCAPACIDADE TOTAL, INCURÁVEL E DEFINITIVA PARA AS ATIVIDADES MILITARES. INCAPACIDADE PARCIAL PARA AS ATIVIDADES CIVIS. RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO MILITAR. LICENCIAMENTO INDEVIDO. REFORMA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LAUDO PERICIAL. COMPROVAÇÃO DA INCAPACIDADE. PROVENTOS CORRESPONDENTES AO MESMO GRAU HIERÁRQUICO. CONSONÂNCIA COM O ART. 110, §1º, DA LEI Nº 6.880/80. INDENIZAÇÃO POR DANOS MORAIS. DESCABIMENTO. JUROS E CORREÇÃO MONETÁRIA. EC 113/2021. APLICAÇÃO. PARCIAL PROVIMENTO DA APELAÇÃO DA UNIÃO. APELAÇÃO DO PARTICULAR DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, visto que houve omissão quanto "à questão sobre a relação de causa e efeito da doença com o serviço militar", bem como afronta aos arts. 50, IV, a, 94, V, 106, II, 108, I a V e VI, 109, 110, § 1º, 111, §§ 1º e 2º, e 121 da Lei 6.880/1980, sustentando que, "assim, não há falar em reforma no caso concreto, dada a ausência de amparo fático e jurídico para referido pleito".
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fl. 456):
+Deste modo, comprovado que o autor se encontra impossibilitado para o exercício da sua função atual de servente (não tendo a perícia constatado que a incapacidade se daria para todos os atos da vida civil) e definitivamente incapacitado para as atividades militares, não merece reforma a sentença que determinou que a União procedesse à reforma do autor.
+E ainda, em julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 548):
+Conforme restou consignado, a perícia judicial atestou o seguinte, em resposta aos quesitos formulados (doc. 4058300.21733130, fls. 340-345): existir relação de causa e efeito entre a doença (espondilite1) anquilosante - M 47.9  M 19.9  M 54.8  M 45) e o serviço militar, em razão do acidente ocorrido em treinamento militar.
+De se dizer que a despeito do diagnóstico, em 19.03.2020, com doença crônica, incurável e progressiva, a perícia judicial foi categórica ao afirmar que a moléstia guarda relação de causa e efeito com o acidente ocorrido em 2012, em um treinamento de missão de paz.
+Como se vê, a negativa de prestação jurisdicional não resultou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto à análise do art. 485 do CPC e dos arts. 50 e 106 da Lei 6.880/1980, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, r elatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria" (AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da relação de causa e efeito da doença, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial  e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 9% (nove por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
