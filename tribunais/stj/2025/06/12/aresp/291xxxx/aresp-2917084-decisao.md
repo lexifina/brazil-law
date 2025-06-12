@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIDA VIVIANE VAZ HENDLER, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 476):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. TERCEIRO INTERESSADO. RECURSO NÃO CONHECIDO.
+Inviável o conhecimento de agravo de instrumento interposto por terceiro interessado contra decisão exarada em execução fiscal na qual não é parte.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 502):
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC.
+Embargos de declaração rejeitados, porque ausentes quaisquer das hipóteses do art. 1.022 do CPC.
+Em seu recurso especial, às fls. 512-536, a recorrente sustenta que, "ao se recusar a analisar a legitimidade recursal da terceira interessada (art. 996, caput do CPC), o Tribunal a quo deixou de amoldar a decisão prolatada ao caso concreto, além de "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", incorrendo em negativa de prestação jurisdicional por violação ao art. 1.022, II e parágrafo único, II c/c art. 489, §1º, II e IV do CPC e art. 93, IX da CF" (fl. 522).
+Aduz, ainda, que (fl. 525):
+(..) o Tribunal a quo, ao limitar a possibilidade do terceiro interessado se insurgir contra decisão que lhe atinge por meio de embargos de terceiro, negou vigência ao texto expresso de lei federal violando o art. 996, caput do CPC, posto que o referido artigo faculta ao terceiro interessado desafiar por meio de recurso decisão que lhe prejudique, ainda que proferida em ação na qual não é parte, desde que o faça tempestivamente.
+Por arrastamento, aliás, a negativa de vigência ao art. 996, caput, do CPC pelo Tribunal a quo que não permitiu ao terceiro interessado recorrer de decisão que lhe prejudicou violou ao mesmo tempo os arts. 17, 674, §2º, II e 996, caput do CPC, haja vista que o direito não pode "ser lido em tiras", e a melhor interpretação ao conjunto dos mencionados dispositivos é aquela que faculta ao terceiro prejudicado eleger por qual via pretende se insurgir contra a decisão desfavorável.
+(..)
+Ademais, quando o Tribunal a quo, a despeito da legislação não impor qualquer limitação ao mecanismo de insurgência do terceiro interessado contra a decisão que lhe é desfavorável (se por embargos de terceiro ou recurso próprio), cria por decisão judicial limitação, incorre em violação a princípio da legalidade (art. 5º, II e 37, caput da CF c/c art. 8º do CPC), ao devido processo legal (art. 5º, LIV da CF), e a ampla defesa e ao contraditório (art. 5º, LV da CF c/c art. 7º do CPC). (sic)
+Por fim, afirma que o entendimento perfilhado pelo Tribunal a quo vai de encontro ao adotado pelo Superior Tribunal de Justiça.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 579-580):
+Embora tenha a parte alegado negativa de vigência aos artigos 1.022 e 489 do Código de Processo Civil, cumpre registrar que, no caso, não se configurou violação aos apontados dispositivos, uma vez que julgada integralmente a lide e solucionada a controvérsia, tal como foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Importante salientar, consoante já decidiu o Superior Tribunal de Justiça, "não viola o artigo 535 do Código de Processo Civil (art. 1.022, CPC/2015), nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta."(AgRg no AREsp 103.169/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 05/06/2013).
+O recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+(..)
+Por fim, em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do STJ, o óbice imposto à admissão do recurso pela alínea "a" do permissivo constitucional impede a análise recursal pela alínea "c".
+Em seu agravo, às fls. 594-606, a agravante sustenta que "a decisão de inadmissão se limitou a dizer que inexistiu negativa de prestação jurisdicional porque supostamente teria sido resolvida a lide e não precisaria enfrentar todos os argumentos deduzidos no processo" (fl. 602), no entanto, "o acórdão não enfrentou todos os argumentos capazes de infirmar a decisão recorrida e tampouco explicou os motivos da sua decisão ao caso concreto" (fl. 602).
+No mais, aduz que, no caso em tela, "é desnecessário o reexame de matéria de fatos e provas, pois já consta do acórdão todo o material necessário para que seja conferido novo enquadramento jurídico aos fatos e, logo, impõe-se a admissão do recurso especial interposto" (fl. 605).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - inexistência da alegada ofensa aos arts. 489 e 1.022, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida e (ii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
