@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial em face de acórdão assim ementado (fl. 782):
+DIREITO CONSTITUCIONAL E DO CONSUMIDOR. AGRAVO DE INSTRUMENTO. PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DO RECURSO SUSCITADO PELO PARQUET POR VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA QUESTÃO ATINENTE AO PRAZO DE CUMPRIMENTO DA DECISÃO JÁ APRECIADO EM OUTRO AGRAVO DE INSTRUMENTO. ACOLHIMENTO. MÉRITO. DISPONIBILIZAÇÃO DO VALOR OBJETO DE BLOQUEIO JUDICIAL. AUSÊNCIA DE PREJUÍZO AO RECORRENTE, POSTO QUE A DECISÃO DE PRIMEIRO GRAU CONSIGNOU A LIBERAÇÃO PROPORCIONAL DOS VALORES COM O AVANÇAR DO TRATAMENTO. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte agravante aponta violação dos artigos 1.022, II, e 139, IV, do Código de Processo Civil.
+Sustenta a ocorrência de negativa de prestação jurisdicional, uma vez que o acórdão recorrido teria sido omisso sobre a tese do recurso de violação do artigo 139, IV, do CPC, uma vez que, tendo sido demonstrado o cumprimento da obrigação, inviável a realização de qualquer medida constritiva.
+Argumenta que "a parte recorrida não comprova nos autos que houve a negativa de cumprimento da ordem judicial". "Assim, cumpre asseverar que a recorrente sempre teve a intenção de cumprir a liminar, não tendo, em nenhum momento, se escusado da obrigação, razão pela qual é inaplicável ao caso o art. 139, IV do CPC, uma vez que resta patente o cumprimento da liminar nos exatos termos da decisão, restando ilegais, portanto, o bloqueio/penhora de valores mantido pelo acórdão recorrido" (fls. 833/834).
+Contrarrazões  foram apresentadas (fls. 838/848).
+O  recurso  não  foi  admitido  na  origem,  nos  termos  da  decisão  de  fls.  849/854.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal de origem assim se manifestou acerca da controvérsia (fls. 784/785, destaques acrescidos):
+PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DOS PEDIDOS FORMULADOS PELA RECORRENTE SUSCITADO PELA PROCURADORIA DE JUSTIÇA
+Entende o Parquet que o pedido de inexistência de descumprimento da decisão judicial por exiguidade do prazo estabelecido para cumprimento da tutela de urgência diante de sua necessidade de solicitar a importação da medicação a prestadores terceirizados, já foi objeto do Agravo de Instrumento sob o n.º 0810050-20.2023.8.20.0000, gerando, por consequência, violação ao princípio da unirrecorribilidade em tal questão.
+De fato, referido pedido foi requerido e apreciado no agravo de instrumento mencionado, conforme partes que destaco:
+"RELATÓRIO
+Agravo de instrumento com pedido de efeito suspensivo (Id. 20884719) interposto pela AMIL ASSISTÊNCIA MEDICA INTERNACIONAL S/A contra decisão interlocutória (Id. 20885370) proferida pelo Juízo da 14ª Vara Cível da Comarca de Natal/RN que, nos autos da Ação de Obrigação de Fazer com Pedido de Tutela de Urgência em Caráter Liminar c/c Reparação de Danos Extrapatrimoniais nº 0841044-63.2023.8.20.5001 movida por M. M. S. representada por sua genitora, deferiu o pedido de urgência para que o plano viesse a custear medicamente, nos seguintes termos:
+(..) Assim, com estes argumentos, solicitou a concessão do efeito suspensivo para obstar os efeitos da decisão vergastada até o julgamento final do recurso, bem como a reforma do decisum proferido pelo Juízo de primeiro grau. E, de forma subsidiária, que seja dilatado o prazo para cumprimento da obrigação e a redução do valor da multa outrora fixada.
+(..) É o que importa relatar.
+(..) Quanto ao prazo para o fornecimento da medicação, 3 (três) dias, tenho que este não é desarrazoado, pois não o recorrente não cumpriu em comprovar que este fármaco é importado e não pode ser encontrado no Brasil, havendo indícios, pelo registro na ANVISA, que pode ser encontrado em território nacional.
+Quanto ao pedido de dilação de referido lapso, caso demonstrada a sua necessidade, não pode ser conhecido nesta Seara, sob pena de supressão de instância, eis não requerido no juízo singular, e mesmo que fosse, como este se condiciona ao argumento de ser medicamento importado, com a ausência de provas neste sentido, entendo ser incabível esta concessão."
+Assim, em harmonia com o parecer ministerial, deixo de conhecer de parte do pedido formulado na inicial recursal, por violação ao princípio da unirrecorribilidade.
+MÉRITO
+Vencida a preliminar, conheço dos demais pedidos do recurso.
+Inicialmente, destaco que os contratos de plano de saúde se submetem ao Código de Defesa do Consumidor (art. 3º, § 2º ), conforme disposição do Enunciado nº 608 da Súmula do STJ , e, em razão disso, as cláusulas devem respeitar as formas de elaboração e interpretação previstas na lei consumerista.
+Em adição, a agravada é criança de 3 (três) anos de idade, portadora de Fibrose Cística (CID 10:E84).
+Reside o mérito do recurso, quanto a possibilidade de constituição de penhora de valores em conta corrente titularizada pela recorrente.
+Ora, vejo que a agravante não cumpriu em demonstrar a lesão grave, tampouco a probabilidade do direito vindicado.
+Com efeito, tenho que a conclusão do Juízo não merece qualquer retoque, exatamente porque se faz necessário o bloqueio dos valores como garantia de cumprimento da decisão e manutenção do tratamento da criança.
+E mais, o juízo deixou claro que o quantum constrito será liberado progressivamente: " O restante do valor ficará à disposição do juízo para ser progressivamente liberado à medida em que o tratamento se desenrolar.". Assim, não é demais registrar que o direito à vida e à saúde, amplamente presente no caso em apreço, é uma consequência imediata do fundamento da dignidade da pessoa humana, sobretudo porque o medicamento buscado pelo paciente é destinado ao restabelecimento de sua saúde.
+Portanto, o bem jurídico que se pretende tutelar é da maior importância, concernente à própria saúde do usuário, cuja proteção decorre de imperativo constitucional, que consagra no art. 1º, III, da CF. a dignidade da pessoa humana, e, óbvio, prepondera sobre o direito pecuniário.
+Destaco, ainda, que a AMIL é uma instituição de saúde de grande porte, com capital social de R$ 1.156.593.345,14 (um bilhão, cento e cinquenta e seis milhões, quinhentos e noventa e três mil, trezentos e quarenta e cinco reais e quatorze centavos), conforme registra as informações da B O V E S P A (http://siteempresas.bovespa.com.br/DWL/FormDetalheDownload.aspsite=C&prot=357845), o que faz com que o valor bloqueado não seja exorbitante ao ponto de gerar graves prejuízos a empresa.
+No caso, a instância ordinária apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes à solução da controvérsia. Se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Verifica-se, portanto, que não estão configurados os vícios de omissão, contradição ou obscuridade, razão pela qual não há que falar em violação do art. 1.022 do CPC.
+Quanto à alegada violação do artigo 139, IV, do CPC, observo que, para derruir as conclusões contidas no julgado, na forma como pretende a recorrente, seria imprescindível o reexame dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
