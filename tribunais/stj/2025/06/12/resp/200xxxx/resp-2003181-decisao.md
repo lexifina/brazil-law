@@ -1,0 +1,20 @@
+DECISÃO
+JOCELITO DE OLIVEIRA BENTO e ATHAYDE MAHATMA FERNANDES DANTAS interpõem recursos especiais contra o acórdão de fls. 1.729-1.794), proferido pelo Tribunal Regional Federal da 5ª Região, que desprovera apelações defensivas.
+Informam os autos que os recorrentes foram denunciados como incursos nos arts. 1º, I, do DL n. 201/1967; 1º, V, da Lei n. 9.613/1998 e 288 do CP.
+Após regular instrução processual, sobreveio sentença condenatória objeto de apelação desprovida pela Corte de origem.
+O Parquet Federal oficiou pelo não conhecimento dos recursos especiais.
+Decido.
+I. Recurso especial de JOCELITO DE OLIVEIRA BENTO
+O recurso especial foi interposto com fundamento apenas na alínea "c" do art. 105 da Constituição Federal. Conforme disposição dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em dissídio pretoriano, a parte deve colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico. Todavia, a defesa deixou de realizar o cotejo analítico.
+Vale dizer, não demonstrou, de forma clara e objetiva, a similitude fática entre as demandas, deixando de evidenciar, assim, que as peculiaridades de cada caso revelariam a identidade fática, porém com soluções distintas, em inobservância ao entendimento consolidado neste Superior Tribunal.
+A propósito, confiram-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTS. 203 E 344, AMBOS DO CP. ABSOLVIÇÃO. IMPOSSIBILIDADE NECESSIDADE DE REVOLVIMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO REGIMENTAL IMPROVIDO. 1. Não comprovado o dissídio jurisprudencial, com o cotejo analítico entre os arestos paradigma e recorrido, a fim de demonstrar a similitude fática entre os casos confrontados e a interpretação divergente, não se conhece do recurso especial interposto com base na alínea c do inciso III do art. 105 da CF/88.  ..  3. Agravo regimental improvido. (AgRg no AREsp n. 1.058.337/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 2/4/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE PRONÚNCIA. HOMICÍDIO QUALIFICADO. DESTRUIÇÃO DE CADÁVER. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. I - O recurso especial, interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal, exige a demonstração do dissídio jurisprudencial através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ), o que não ocorreu na espécie, conforme ressaltado no decisum monocrático reprochado.  ..  Agravo regimental desprovido. (AgRg no AREsp 1.854.075/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 24/8/2021)
+Dessa forma, evidencia-se a impossibilidade de conhecimento do recurso especial, por ausência de cumprimento dos requisitos previstos nos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+II. Recurso especial de ATHAYDE MAHATMA FERNANDES DANTAS
+Quanto à tese de que "os fundamentos negativos sopesados se mostram frágeis e destoantes,  pois  a condição de prefeito (exercido pelo Agravante a época dos fatos) é inerente aos crimes praticados no Decreto Lei 201/67, esbarra na jurisprudência desta Corte Superior segundo a qual "mostra-se idônea a valoração negativa do vetor da culpabilidade pelo fato de o agente exercer o cargo de Chefe do Poder Executivo Municipal, ocupação que demanda exercício com efetivas lisura e ética " (AgRg no REsp 1795894/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/3/2019, DJe 8/4/2019). No mesmo sentido: AgRg no REsp n. 2.101.149/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.
+Incide, portanto, a Súmula n. 83 do STJ.
+III. Dispositivo
+À vista do exposto, não conheço do recurso especial de Jocelito de Oliveira Bento e nego provimento ao recurso especial de Athayde Mahatma Fernandes Dantas.
+Publique-se. Intimem-se.
+EMENTA
