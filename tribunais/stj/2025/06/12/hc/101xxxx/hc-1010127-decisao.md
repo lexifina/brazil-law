@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de OBERDAN DA SILVEIRA BARBOSA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 0008923-69.2014.8.26.0084.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 6ª Vara Criminal da Comarca de Campinas, na ação penal n. 0008923-69.2014.8.26.0084, como incurso no artigo 140, § 3º, c/c o artigo 141, inciso III, ambos do Código Penal, por sete vezes e em continuidade delitiva, à pena de 2 anos, 7 meses e 3 dias de reclusão, fixado o regime inicial semiaberto (fls. 29-32).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 9-21), com trânsito em julgado certificado.
+Posteriormente, foi impetrado habeas corpus perante o Superior Tribunal de Justiça (HC 982379-SP), no qual se pleiteava a fixação do regime inicial aberto. O habeas corpus foi indeferido liminarmente (fls. 111-112), com trânsito em julgado certificado em 7 de março de 2025 (fl. 118, HC 982379-SP).
+Na presente impetração, alega-se que o paciente não é reincidente, conforme certidão de antecedentes criminais, e que a continuidade delitiva, por si só, não justifica a imposição de regime mais severo (fls. 5). Sustenta-se que a decisão não individualizou as circunstâncias judiciais para justificar o regime aplicado, baseando-se apenas na gravidade do crime e na continuidade delitiva, sem análise detalhada dos critérios previstos no art. 59 do Código Penal (fls. 6).
+Afirma-se a existência de constrangimento ilegal, diante da ausência de fundamentação concreta quanto à personalidade do paciente  primariedade, bons antecedentes, ausência de violência física e colaboração com a justiça  , tendo a decisão se baseado em pressupostos abstratos, sem contextualização probatória (fls. 6).
+Requer-se, ao final, a concessão da ordem para que seja fixado o regime inicial aberto, nos termos do art. 33 do Código Penal (fls. 7), bem como a concessão de liminar para que o paciente inicie o cumprimento da pena em regime aberto, com imediata suspensão dos efeitos da decisão impugnada (fls. 8).
+É o relatório. DECIDO.
+A pretensão deduzida pela defesa caracteriza reiteração previamente submetida ao Superior Tribunal de Justiça por ocasião do julgamento do HC 982379-SP, que foi indeferido liminarmente, com trânsito em julgado certificado em 7 de março de 2025 (fl. 118, HC 982379-SP).
+A presente impetração evidencia o propósito de dupla apreciação, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do RISTJ autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro, com os mesmos fundamentos, hipótese verificada nos presentes autos.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
