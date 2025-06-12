@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por IX. INCORPORADORA, CONSTRUTORA, URBANIZADORA E CORRETORA LTDA., GOLDFARB INCORPORACOES E CONSTRUCOES LTDA., GOLD CANADA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. e PDG REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES, no qual apontam como suscitados o JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP e o JUÍZO DA 6A VARA DO TRABALHO DE RIBEIRÃO PRETO - SP.
+Alegam as suscitantes a existência de conflito de competência em razão dos seguintes fundamentos (fls. 3-12):
+Trata-se de Conflito de Competência suscitado em razão da determinação do prosseguimento da execução na Justiça do Trabalho.
+O D. Juízo da 6ª Vara do Trabalho de Ribeirão Preto, nos autos da Reclamação Trabalhista n. 0010696-60.2015.5.15.0153, proposta por Diego Dias Silva, determinou o prosseguimento da Execução.
+Inicialmente, cumpre esclarecer que ainda que as empresas Suscitantes estejam em iminente encerramento da Recuperação Judicial, a r. decisão proferida pela 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS, pendente de análise recursal e trânsito em julgado, traz expressamente critérios sobre forma e modo de pagamento do crédito concursal, fatos estes impeditivos, o que faz com que não possam dispor livremente de seu patrimônio, pois toda destinação é determinada pelo Juízo Universal responsável pelo processo Recuperação Judicial, tendo em vista que o crédito trabalhista foi decorrente de relação de trabalho reconhecida pelo período de 16/11/2011 a 06/04/2015.
+ ..
+Vale lembrar, que o crédito decorrente da relação trabalhista em questão é de natureza concursal, pré-existente a decretação da Recuperação Judicial.
+ ..
+Diante do exposto, os atos coatores praticados além de contrários a determinações impostas pela Lei n. 11.101/05 ferem as determinações impostas pelo juízo competente da 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS.
+Assim sendo, a liberação dos valores bloqueados no processo trabalhista é medida que se impõe, diante da clara violação das normas de competência uma vez que as Suscitantes ainda se encontram em processo de Recuperação Judicial, que está na fase de cumprimento do plano aprovado em dezembro de 2017, conforme documentos anexos, o que acarreta indubitável competência do Juízo Cível discorrer sobre o patrimônio e data de limitação da atualização de cálculos, não cabendo à Justiça Especializada determinar uma nova atualização de valores ou atos constritivos em favor do Reclamante, ora Terceiro Interessado, contrários ao Juízo Universal.
+ ..
+Assim sendo, considerando que a decisão de encerramento não transitou em julgado, não há o que se falar em prosseguimento da Execução na Justiça do Trabalho, ou até mesmo, bloqueio de valores.
+Em suma, enquanto houver plano de recuperação aprovado, em curso regular, todos os créditos e depósitos devem se submeter ao Juízo Universal da 1ª Vara de Falências e Recuperações Judiciais e Conflitos Relacionados à Arbitragem do Foro Central da Comarca da Capital do Estado de São Paulo, inclusive os trabalhistas.
+ ..
+Destarte, requer que o presente conflito de competência seja julgado procedente, para que seja reconhecida as determinações e a competência exclusiva do Juízo da Recuperação Judicial pelos atos de execução e constrição contra o patrimônio das Suscitantes, determinando-se a notificação do Juízo da 6ª Vara do Trabalho de Ribeirão Preto, determinando a imediata suspensão da execução trabalhista e qualquer ordem de bloqueio/medida constritiva.
+Por meio da decisão de fls. 675-678, indeferi o pedido de liminar.
+Embargos de declaração opostos pelas suscitantes às fls. 683-686.
+Informações prestadas pelo JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP às fls. 687-692.
+Parecer do MPF, às fls. 701-713, opinando pela competência do JUÍZO DA 6A VARA DO TRABALHO DE RIBEIRÃO PRETO - SP no que diz respeito ao Incidente de Desconsideração da Personalidade Jurídica e do JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP quanto aos atos constritivos deferidos pelo Juízo Trabalhista.
+É, no essencial, o relatório.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, sob a égide tanto do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Na espécie, em nova análise dos autos, verifica-se que o JUÍZO DA 6A VARA DO TRABALHO DE RIBEIRÃO PRETO - SP determinou o prosseguimento de atos executórios contra as empresas suscitantes (fls. 508-531), violando, assim, a competência do Juízo recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos, exclusivamente, das empresas suscitantes e constrição dos seus patrimônios, bem como julgo prejudicado os embargos declaratórios opostos.
+Os valores pertencentes às empresas suscitantes eventualmente constritos pelo JUÍZO DA 6A VARA DO TRABALHO DE RIBEIRÃO PRETO - SP deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
