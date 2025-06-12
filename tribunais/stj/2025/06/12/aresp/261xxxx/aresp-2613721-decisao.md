@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por 3-B TRANSPORTES RODOVIÁRIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 81):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE ACOLHE A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA DO EXEQUENTE. ALEGAÇÃO DE QUE PODERIA SER ALTERADO O TERMO INICIAL DA CORREÇÃO MONETÁRIA EM SEDE DE CUMPRIMENTO DE SENTENÇA. NÃO ACOLHIMENTO. COISA JULGADA. IMUTABILIDADE E INDISCUTIBILIDADE. SITUAÇÃO DIVERSA DA SENTENÇA OMISSA SOBRE OS ENCARGOS, QUE PERMITE A DISCUSSÃO DA QUESTÃO, DE ORDEM PÚBLICA, EM CUMPRIMENTO DE SENTENÇA. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+Rejeitados os embargos de declaração opostos (fls. 165-167).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação do art. 1º da Lei 6.899/1981, dos arts. 240, 322, § 1º, e 494, I, do Código de Processo Civil e art. 884 do Código Civil.
+Sustenta, em síntese, que houve erro material nos cálculos apresentados pelo perito, que não foram atualizados, e que tal erro não transita em julgado nem se sujeita à preclusão, podendo ser corrigido a qualquer tempo (fls. 191-192).
+Defende que a decisão do Tribunal de origem permite o enriquecimento ilícito do recorrido, ao não atualizar o débito e não aplicar os juros de mora corretamente (fls. 192-193).
+Ainda, argumenta que o acórdão decidiu de forma contrária a artigos de lei federal, especialmente no que tange à correção monetária e aos juros de mora, que deveriam incidir sobre o débito desde a data do efetivo desembolso e a partir da citação, respectivamente (fls. 184-186).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 227-244).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls.258-260), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 295).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+O Tribunal de origem efetivamente enfrentou a questão posta, cabendo relembrar que não é necessário abordar todos os temas suscitados pela parte, pois "a função teleológica da decisão judicial é a de compor, precipuamente, litígios. Não é peça acadêmica ou doutrinária, tampouco destina-se a responder a argumentos, à guisa de quesitos, como se laudo pericial fora. Contenta-se o sistema com a solução da controvérsia observada a res in iudicium deducta" (REsp n. 209.048/RJ, relator Ministro Franciulli Netto, Segunda Turma, DJ de 19/12/2003, p. 380).
+A título de reforço, cito:
+2. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+(EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2023.)
+1. O julgado recorrido não padece de qualquer omissão ou nulidade na sua fundamentação, porquanto apreciou as teses relevantes para o deslinde da controvérsia, tendo concluído, após minucioso exame dos elementos fáticos e probatórios produzidos nos autos, que o decreto condenatório está em conformidade com a evidência dos autos. Nesse ponto, cumpre ressaltar que, conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre aqueles necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado.
+(AgRg no REsp n. 2.041.751/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023.)
+Verifica-se, portanto, que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição, pois o tribunal entendeu que, uma vez fixado o termo inicial da correção monetária na sentença, não é possível alterá-lo em sede de cumprimento de sentença, mesmo que se trate de matéria de ordem pública (fls. 83-84).
+Ainda, cuidou o Tribunal recorrido de consignar que (fl.84):
+Não se desconhece o entendimento de que, em não havendo fixação de correção monetária e juros na sentença, ou não tendo esta fixado o índice e termo inicial, a matéria, por ser de ordem pública, pode ser discutida em cumprimento de sentença. Nessa hipótese, ao contrário do caso concreto, não há coisa julgada sobre a questão, como há no caso concreto.
+Ademais, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a abordar que se operou a coisa julgada acerca da fixação da correção monetária e dos juros, sem abordar a questão de erro de cálculo, enriquecimento ilícito e termo inicial dos juros de mora, o qual informa que seria a partir da citação.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+(AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+(AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Oportuno consignar que esta Corte não considera suficiente, para efeito de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Por fim, cumpre esclarecer que o reconhecimento de eventual omissão que pudesse justificar o retorno dos autos à origem ou considerar o prequestionamento ficto (art. 1.025 do CPC) somente seria possível se houvesse fundamentação adequada e suficiente quanto à ofensa ao art. 1.022 do CPC (antigo art. 535 do CPC/1973), o que não aconteceu na espécie, tendo em vista a deficiência na fundamentação apontada acima e que atraiu a incidência da Súmula 284 do STF.
+Nesse sentido, cito alguns julgados:
+V. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 86 e 292, V, do CPC/2015, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ. No caso, apesar de indicar, nas razões de seu Recurso Especial, ofensa ao art. 1.022 do CPC/2015, a aludida tese não foi conhecida, nos termos da Súmula 284/STF - fundamento não impugnado, especificamente, no presente Agravo interno -, o que impede a aplicação do disposto no art. 1.025 do CPC/2015, no ponto.
+(AgInt no AREsp n. 1.939.526/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 16/2/2022.)
+1. É deficiente a alegação genérica de violação dos arts. 489 e 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal de origem, tampouco comprova ter questionado as suscitadas falhas momento oportuno, além de sua relevância para a solução da controvérsia. Incidência da Súmula 284/STF.
+2. Para a configuração do prequestionamento na forma do art. 1.025 do CPC/2015, é necessária não apenas a indicação de contrariedade ao art. 1.022 do mesmo código, mas também o conhecimento da respectiva tese e a configuração de um dos vícios descritos na norma. Precedentes.
+(AgInt nos EDcl no AREsp n. 1.507.172/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 2/9/2020.)
+1. Não se conhece do recurso especial pela alegada violação do art. 535 do CPC nos casos em que a arguição é genérica, por incidir a Súmula 284/STF.
+2. A ausência de prequestionamento no que tange à suposta contrariedade aos arts. 649, IV, do Código de Processo Civil; 184 do Código Tributário Nacional; 10 e 11, § 1º, da Lei 6.830/80; 3º, 4º, 7º, VII, 21, IV, 44, II e 89, da Lei 5.764/71 impõe a incidência da Súmula 211/STJ.
+3. O reconhecimento de eventual omissão que pudesse justificar o retorno dos autos à origem somente seria possível se houvesse fundamentação suficiente quanto à ofensa ao art. 535 do CPC, hipótese inexistente no caso dos autos.
+(REsp 1.172.685/SP, relator para acórdão Min. Castro Meira, Segunda Turma, DJe de 2/3/2011.)
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO VERIFICADAS. TERMO INICIAL JUROS. ENRIQUECIMENTO ILÍCITO E ERRO DE CÁLCULO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
