@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de RODRIGO DOS SANTOS CHAGAS - condenado como incurso no crime de furto qualificado (Ação Penal n. 0000140-61.2023.8.12.0020) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da Vara Criminal da comarca de Brilhante/MS, ao argumento de que o TJMS não realizou a compensação parcial de forma proporcional, como determina a jurisprudência do STJ, mas sim neutralizou a atenuante da confissão espontânea, compensando-a integralmente com uma condenação, para depois utilizar a outra, indevidamente, para fazer incidir, novamente, a reincidência e majorar a pena em 1/6 (um sexto) como se, na prática, houvesse uma "nova agravante", isto em flagrante bis in idem (fl. 6).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a lei confere ao julgador certo grau de discricionariedade na escolha do percentual de exasperação e redução em razão de atenuantes e agravantes, circunstância que reforça a impossibilidade de intervenção dest e Superior Tribunal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. INSURGÊNCIA CONTRA O PERCENTUAL DECORRENTE DA COMPENSAÇÃO PARCIAL (CONFISSÃO ESPONTÂNEA X MULTIRREINCIDÊNCIA). DISCRICIONARIEDADE REGRADA DO JULGADOR. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
