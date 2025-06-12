@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por CLEDSON MONTEIRO DO NASCIMENTO contra decisão do Tribunal de Justiça do Estado de Alagoas, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"PENAL. PROCESSO PENAL. APELAÇÃO. FURTO QUALIFICADO. PLEITO DE AFASTAMENTO DA QUALIFICADORA DO CONCURSO DE PESSOAS. IMPOSSIBILIDADE. CRIME COMETIDO EM COMUNHÃO DE DESÍGNIOS COM TERCEIRO. QUALIFICADORA MANTIDA, TORNANDO INVIÁVEL A DESCLASSIFICAÇÃO DO CRIME DE FURTO QUALIFICADO PARA FURTO SIMPLES. PLEITO PARA AFASTAR A VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO ADEQUADA. IMPOSSIBILIDADE DE AFASTAMENTO. PLEITO PARA COMPENSAÇÃO ENTRE AS CIRCUNSTÂNCIAS DO CRIME E A ATENUANTE GENÉRICA DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. APENAS SE COMPENSAM AS CIRCUNSTÂNCIAS DA MESMA FASE. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+I- No tocante ao afastamento do concurso de pessoas, constata-se que o apelante contou com a ajuda de um terceiro indivíduo para subtrair bens. Destarte, torna-se impossível a desclassificação do crime de furto qualificado para furto simples.
+II- Quanto às circunstâncias do crime, em sua fundamentação, agiu corretamente o juiz sentenciante, ao descrever como se dera a prática da ação criminosa, as condições e a atitude empregada pelo ora recorrente durante a realização da conduta, dando ênfase ao modus operandi e local onde o delito foi praticado pelo recorrente.
+III- Quanto ao pleito para compensação entre as circunstâncias do crime e a confissão espontânea, esse se mostra inadmissível. O Código Penal, no art. 67, prevê a possibilidade de compensação entre circunstâncias atenuantes e agravantes e não entre circunstâncias de fases diversas.
+IV- Recurso conhecido e não provido. Decisão unânime." (e-STJ, fl. 388).
+A defesa aponta violação ao disposto no art. 59 do CP, tendo em vista que o Tribunal a quo, ao reavaliar a dosimetria da pena, na primeira etapa dos cálculos, manteve a valoração negativa das "circunstâncias do crime", sem apresentar fundamentação idônea.
+Sustenta que a exasperação da pena-base em razão da presença de circunstâncias judiciais negativas exige a indicação de fatos concretos que não se confundam com elementos inerentes ao tipo.
+Requer seja afastada a valoração negativa das "circunstâncias do crime", com a consequente redução da pena-base e, por conseguinte, da pena definitiva (e-STJ, fls. 399-404).
+Foram apresentadas as contrarrazões (e-STJ, fls. 411-415).
+O recurso foi inadmitido (e-STJ, fls. 417-418). Daí este agravo (e-STJ, fls. 422-426).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial e, caso conhecido, pelo desprovimento do recurso especial (e-STJ, fls. 458-461).
+É o relatório.
+Decido.
+Inicialmente, cumpre destacar que a  individualização  da  pena  é  uma  atividade  vinculada  a  parâmetros  abstratamente  cominados  na  lei,  sendo,  contudo,  permitido  ao  julgador  atuar  discricionariamente  na  escolha  da  sanção  penal  aplicável  ao  caso  concreto,  após  o  exame  percuciente  dos  elementos  do  delito,  e  em  decisão  motivada.  Dessarte,  às  Cortes  Superiores  é  possível,  apenas,  o  controle  da  legalidade  e  da  constitucionalidade  na  dosimetria  da  pena.
+Corrobora:
+" ..
+3.  A  fixação  da  pena  insere-se  dentro  de  um  juízo  de  discricionariedade  do  julgador,  atrelada  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade.  Elementos  próprios  do  tipo  penal,  alusões  à  potencial  consciência  da  ilicitude,  à  gravidade  do  delito  e  às  consequências  próprias  do  ilícito,  não  podem  ser  utilizados  para  aumentar  a  pena-base.
+(..)
+6.  Embargos  de  declaração  acolhidos,  com  efeitos  modificativos,  para  conhecer  do  agravo  regimental  e  negar-lhe  provimento.
+(EDcl  no  AgRg  no  REsp  n.  1.988.103/PB,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  13/6/2023,  DJe  de  16/6/2023.)
+No caso, consoante se verifica dos autos, o recorrente foi condenado pela prática do crime tipificado no art. 155, § 4º, inciso IV, do Código Penal, à pena de 02 anos e 04 meses de reclusão, a ser cumprida em regime inicial aberto, além de 24 dias-multa. A pena privativa de liberdade foi substituída por 02 restritivas de direitos consistentes na prestação de serviço à comunidade e pagamento de 01 salário- mínimo (e-STJ, fls. 388-394).
+Irresignada a defesa apelou, pugnando pelo afastamento da valoração negativa das circunstâncias do crime, o que foi negado pela Câmara Criminal do Tribunal de Justiça do Estado de Alagoas, à unanimidade.
+A propósito, confira-se o seguinte trecho extraído do aresto impugnado:
+"Outrossim, a Defesa requereu o afastamento da valoração negativa das circunstâncias do crime.
+É certo que o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar a reprimenda de forma justa, fundamentada e proporcional. Quando considerar desfavorável alguma circunstância judicial, deve o magistrado fundamentar as razões de seu entendimento, visto que a inobservância dessa regra implica em ofensa ao preceito contido no art. 93, IX, da Constituição da República.
+É necessário ressaltar que, o magistrado, dentro dos limites mínimo e máximo da pena prevista em abstrato deve fixar a pena-base, movido pelo seu livre convencimento, observando primordialmente os critérios da proporcionalidade e razoabilidade, inclusive, a fixação de um critério matemático rechaçado pela jurisprudência majoritária.
+Baseado nos critérios da proporcionalidade e razoabilidade, quando da análise dos limites previstos pelo legislador no tipo penal, deve ser levado em consideração não só o número das circunstâncias judiciais valoradas de forma negativa na primeira fase, como também as peculiaridades do caso concreto, como exposto na apreciação das circunstâncias do crime.
+A fundamentação utilizada na sentença é capaz de justificar uma censurabilidade que ultrapasse aquela já prevista no tipo penal, haja vista que o fato do réu ter agido de forma fria e premeditada.
+Quanto às circunstâncias do crime, em sua fundamentação, agiu corretamente o juiz sentenciante, ao descrever como se deu a prática da ação criminosa, as condições e a atitude empregada pelo ora recorrente durante a realização da conduta, dando ênfase ao modus operandi praticado pelo recorrente.
+Fundamentou que o delito foi praticado, o tempo, o lugar e modo de prática da conduta delitiva, ao observar que o crime foi perpetrado em agência bancária, valendo-se de aglomeração de pessoas, sendo este, inclusive, o local de trabalho da vítima, o que justifica a exasperação da pena base.
+Assim, entendo que a justificativa utilizada pelo magistrado para considerar negativamente a circunstância judicial supramencionada, restou-se devidamente fundamentada, não havendo que se falar em desconsideração da mesma." (e-STJ, fls. 392-393).
+Como se vê, a Corte Estadual entendeu como correta a negativação da vetorial "circunstâncias do crime", levando em consideração o modus operandi empregado pelo acusado, que agiu de modo premeditado no cometimento do crime, no interior de uma agência bancária, local de trabalho da vítima, durante o dia, valendo-se da grande aglomeração de pessoas.
+Nesse contexto, verifica-se que a análise desfavorável da mencionada circunstância judicial se deu justificadamente, com base em elementos concretos extraídos dos autos e mediante fundamentação idônea.
+Nesse sentido:
+" ..
+- A premeditação ressalta a maior gravidade do modus operandi, sendo razão ordinariamente aceita para elevação da reprimenda.
+- Consta dos títulos judiciais das instâncias ordinárias a anotação dos valores subtraídos nas diversas operações fraudulentas praticadas pelo grupo criminoso, com a participação do agravante. O montante global desviado representa considerável prejuízo aos clientes e às instituições financeiras lesadas, inclusive, prejuízo à confiabilidade destas últimas, justificando o incremento punitivo.
+- Não é possível alterar o juízo formulado na origem (no sentido de que a participação do agravante nos delitos foi relevante e imprescindível), pois a medida demandaria aprofundado reexame fático-probatório a que a via estreita, de cognição sumária, do writ não se presta.
+- Não há que se falar em substituição da prisão imposta ao agravante por penas restritivas de direitos, pois não foi atendido o requisito subjetivo da medida, previsto no art. 44, inciso III, do Código Penal, considerando a presença de circunstâncias judiciais negativadas.
+- Agravo regimental desprovido."
+(AgRg no HC n. 697.666/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022, grifou-se)
+" ..
+7. As circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de roubo, pois a conduta se deu em horário de funcionamento de um posto de serviço do Banco do Brasil S.A., localizado nas dependências da Superintendência da Polícia Rodoviária Federal, o que demonstra maior ousadia do réu e a maior gravidade da conduta.
+(..)
+12. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do réu a 14 anos, 7 meses e 15 dias de reclusão. (HC n. 544.080/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2020, DJe de 14/2/2020, grifou-se)
+Ante o exposto, com fundamento no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
