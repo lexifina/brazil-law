@@ -1,0 +1,2 @@
+Artigo 96-D - O Procurador-Geral de Justiça, a pedido da Comissão Processante Permanente, poderá, fundamentadamente e diante da necessidade do serviço, ampliar, por Ato, o número de integrantes da Comissão Processante Permanente, cuja escolha competirá ao Colégio de Procuradores de Justiça. (NR)
+Parágrafo único - Se o Procurador-Geral de Justiça não acolher o pedido da Comissão Processante Permanente, esta poderá, no prazo de 5 (cinco) dias, interpor recurso ao Órgão Especial, que deliberará a respeito. (NR)
