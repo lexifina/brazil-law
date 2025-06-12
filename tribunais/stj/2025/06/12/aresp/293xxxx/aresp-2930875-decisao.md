@@ -1,0 +1,20 @@
+DECISÃO
+Em agravo em recurso especial interposto por JORGLEIDSON PINHO MOTA e ADRIANO DA SILVA GALIZA contra decisão da Vice-Presidência do Tribunal de Justiça do Estado da Bahia, examina-se a inadmissão do recurso especial.
+Os agravantes foram condenados pelo crime de receptação qualificada. Na segunda instância, o Tribunal de Justiça negou provimento aos apelos interpostos.
+O recurso especial alega nulidade da abordagem policial, violação de domicílio, ausência de provas suficientes à condenação, possibilidade de desclassificação para a modalidade culposa e necessidade de redução da pena.
+O recurso não foi admitido na origem pelo óbice da Súmula n. 284 do STF.
+Na petição de agravo em recurso especial, o agravante busca impugnar a decisão de inadmissão. Alega, em síntese, que as questões são de direito e que foram prequestionadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Formalmente impugnado o fundamento, conheço do agravo e passo a examinar a admissibilidade do recurso especial.
+Consoante entendimento consolidado no Superior Tribunal de Justiça, a admissibilidade do recurso especial reclama demonstração analítica e suficiente da violação normativa imputada ao acórdão recorrido. Por analogia ao enunciado da Súmula n. 284 do STF, impõe-se ao recorrente explicitar, de maneira clara e completa, a correlação lógica entre as premissas fático-jurídicas fixadas pelas instâncias ordinárias e o conteúdo do dispositivo legal tido por ofendido. Não se mostra suficiente a simples invocação genérica de artigos de lei, tampouco o enunciado abstrato de teses doutrinárias ou de entendimento que o recorrente tenha como correto; cumpre-lhe identificar o trecho do julgado que reputa desconforme ao direito federal e, em cotejo direto, demonstrar como e por que razão tal conclusão afronta a norma indicada.
+Essa necessidade de correlação minuciosa estende-se às hipóteses em que se alega dissídio jurisprudencial. A mera transcrição de ementas - desacompanhada da confrontação ponto a ponto entre a moldura fática dos precedentes paradigmas e a situação dos autos - não satisfaz o ônus do recorrente. Exige-se prova analítica de divergência: demonstração objetiva de que casos substancialmente idênticos receberam soluções jurídicas distintas, com indicação do ponto de dissenso e da atualidade do entendimento colacionado.
+Ausentes tais exigências, as razões recursais revelam-se deficientes, impedindo a exata compreensão da controvérsia e inviabilizando o controle de legalidade próprio do recurso especial. Não compete a este Tribunal suprir lacunas argumentativas, sob pena de inversão do ônus dialético e violação ao princípio dispositivo. Nessas condições, a deficiência de fundamentação atrai, de maneira automática, o óbice da Súmula n. 284 do STF, aplicada por analogia, e conduz à negativa de seguimento do recurso.
+O enunciado não traduz mero rigor formal, mas constitui garantia de racionalidade decisória e de delimitação objetiva do debate. Quando o recorrente deixa de demonstrar, de forma específica, o ponto de colisão entre o acórdão recorrido e a legislação federal invocada ou, no caso de dissídio, entre julgados de situação idêntica, configura-se a deficiência de fundamentação que justifica, de plano, o não conhecimento do recurso especial.
+No caso concreto, a parte recorrente não obteve sucesso em apresentar adequadamente a controvérsia que busca discutir na petição de recurso especial, na medida em que deixou de indicar com precisão os dispositivos legais tidos por violados.
+Esse vício foi constatado pela decisão de inadmissibilidade do recurso especial na origem e pelo Ministério Público Federal: "constata-se manifesta deficiência na fundamentação do recurso, pois inexiste apontamento claro de qual norma federal teria sido violada, o que obsta o conhecimento do apelo por essa Corte Superior" (fl. 645).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
