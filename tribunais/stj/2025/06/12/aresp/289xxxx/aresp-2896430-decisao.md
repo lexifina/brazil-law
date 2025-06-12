@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ERIVALDO CURCI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+MULTA "Astreinte" Redução Cabimento Cumprimento imperfeito da ordem judicial - Pena de natureza inibitória Sanção pecuniária que busca impelir o demandado a adimplir a obrigação imposta Cumprimento incompleto que admite a minoração do valor imposto - Decisão mantida Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 537, § 1º, I e II, do CPC, no que concerne ao não cabimento da redução da astreintes, tendo em vista que a decisão não foi cumprida em sua integralidade nos termos em que determinada, trazendo a seguinte argumentação:
+No presente caso, o v. acórdão ofendeu ao previsto no art. 537, §1º, incisos I e II do Código de Processo Civil, pois, conquanto o valor da multa pelo descumprimento de obrigação de fazer possa ser revista, de ofício, pelo D. Magistrado, o valor fixado se tornou inexpressivo, de modo a não cumprir o caráter punitivo, coercitivo e sancionador que se presta.
+ ..
+No entanto, como a tutela jurisdicional deferida determinou a instauração de home care ao ora Recorrente de acordo com prescrições médicas distintas e a UNIMED instalou o tratamento de home care pautada em suas prescrições médicas, sendo estas distintas daquelas deferidas pelo D. Juízo de Primeira Instância, merece ser reformada a r. decisão para que se entenda que a forma que a UNIMED agiu não cumpriu à determinação judicial e, por conseguinte, as astreintes se mantenham fixadas em seu patamar máximo.
+ ..
+Ou seja, não há que se falar em cumprimento da r. decisão em sua integralidade, já que a PRONEP (empresa fornecida pela UNIMED) prestou seus serviços de forma deficiente, uma vez que não foram realizados os exames em domicílio, não foram encaminhados os materiais necessários para tratamento das escaras, não houve o fornecimento de sonda, não houve fornecimento do aparelho de aspiração e estefrante indicado pela fonoaudióloga, os medicamentes foram fornecidos a menor, sendo por vezes entregues após à meia-noite tanto estes quanto os aparelhos que estavam em falta em sua casa.
+ ..
+Diante de todo exposto, não se pode admitir que seja mantida a r. decisão recorrida, já que a modulação das astreintes apenas servirá como incentivo para novos descumprimentos por parte da Recorrida, que colocará em risco a vida de outros pacientes, apenas por economia ou descuido.
+ ..
+No caso em apreço, embora todo o descumprimento da UNIMED quanto à r. decisão judicial, o D. Magistrado reduziu as astreintes para um valor insignificativo, que destoa do objetivo de sanção disciplinadora da referida multa e nem é condizente a todos os riscos que causou à vida do Recorrente.
+ ..
+No caso em apreço estamos diante do descumprimento de uma tutela jurisdicional, em desfavor de um idoso, por uma das maiores empresas de plano de saúde do Brasil. Aceitar que tal r. decisão se mantenha é uma forma de criar um pressuposto para a UNIMED agir da mesma forma em outros casos e, assim, prejudicar a sociedade.
+ ..
+O Recorrente ficou mais tempo no hospital, porque a sonda, alimentação e a suplementação não foram imediatamente fornecidas pela UNIMED.
+Assim, a morosidade da UNIMED em entregar os itens a contendo, fez com o Sr. Erivaldo permanecesse mais tempo no hospital e colocou em risco a sua vida.
+Ao invés de cumprir a decisão, a agravada custeou o home care da maneira que lhe foi mais conveniente, ou seja, com base nos seus próprios relatórios juntados aos autos principais.
+Ou seja, não há que se falar em cumprimento da r. decisão em sua integralidade, já que a PRONEP (empresa fornecida pela UNIMED) prestou seus serviços de forma deficiente, uma vez que não foram realizados os exames em domicílio, não foram encaminhados os materiais necessários para tratamento das escaras, não houve o fornecimento de sonda, não houve fornecimento do aparelho de aspiração e estefrante indicado pela fonoaudióloga, os medicamentes foram fornecidos a menor, sendo por vezes entregues após à meia-noite tanto estes quanto os aparelhos que estavam em falta em sua casa.
+Ainda, a suplementação não foi fornecida (a UNIMED confundia suplementação com alimentação), um dos enfermeiros não tinha trato com idosos e ainda não observava as prescrições médicas pré-estabelecidas ou estes profissionais eram fornecidos de forma errônea (não sabiam pulsionar, por exemplo):
+ ..
+Os enfermeiros eram constantemente alterados e o técnico de enfermagem somente dava banho no paciente (não auferia a pressão, por exemplo). Ademais, não foi fornecida equipe de enfermagem durante as 24h por dia, conforme determinação judicial.
+A Agravada ainda demorou para fornecimento do nutricionista e ficou um tempo sem fornecer fonoaudiólogos. Após, a fonoaudióloga atendia uma vez por semana, enquanto a nutricionista atendia somente uma vez por mês, em total dissonância ao determinado pelo Juiz.
+O laboratório PRONEP foi substituído pela DASA, que não forneceu o aparelho de monitoração constante (saturação e oxímetro). Ainda, não houve atraso na entrega de medicamentos.
+ ..
+Diante de todo exposto, não se pode admitir que seja mantida a r. decisão recorrida, já que a modulação das astreintes apenas servirá como incentivo para novos descumprimentos por parte da agravada, que colocará em risco a vida de outros pacientes, apenas por economia ou descuido (fls. 34/49).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O recurso não prospera.
+A aplicação de sanção pecuniária busca impelir o demandado a adimplir a obrigação imposta.
+A insurgência dos agravantes quanto à redução do valor da multa, inicialmente, não merece prosperar.
+Como bem esclareceu o Magistrado: "A implantação do home care segundo prescrição desatualizada não pode ser penalizada como se houvesse completo desrespeito à liminar, como bem exposto pelo Ministério Público no parecer de fls. 291/293, que adoto como razão de decidir. Nesse contexto, modulo as astreintes decorrentes do cumprimento imperfeito da ordem judicial, e fixo a penalidade em R$ 10.000,00. Fica acolhida parcialmente a impugnação." Destarte, temos que o cumprimento incompleto da obrigação admite a redução da multa imposta.
+Sendo assim, a r. decisão hostilizada não merece reparos, ficando mantida por seus próprios e jurídicos fundamentos (fls. 29).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao redimensionamento das astreintes (multa prevista no art. 537, § 1ª, I, do CPC) exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "No caso, a alteração do entendimento adotado pela Corte de origem no que concerne ao cabimento e à proporcionalidade da multa diária imposta pelo descumprimento da determinação judicial demandaria, necessariamente, o reexame de fatos e provas constantes dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, a teor da Súmula 7/STJ". (AgInt no AREsp n. 2.574.206/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024).
+Na mesma linha: "A aferição da suficiência de elementos que motivaram a conclusão no sentido da razoabilidade e da proporcionalidade na fixação das astreintes, por implicar o reexame do conjunto fático-probatório dos autos, é inviável em recurso especial, em face do óbice da Súmula n. 7 do STJ." (EDcl no AgInt no REsp n. 1.759.430/MA, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 16/8/2023.)
+Ainda: "Consoante destacado na decisão combatida, a Corte local apreciou a insurgência recursal concernente à indicada violação do art. 537, §1º, II, do CPC, envolvendo o valor das astreintes, levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". (AgInt no REsp n. 1.829.008/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 15/8/2024.)
+Confiram-se os seguintes julgados: AgInt no AREsp n. 1.784.618/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/3/2022; AgInt no AREsp n. 1.923.776/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/12/2021; AgInt no REsp n. 1.882.502/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/9/2021; e AgInt no AREsp n. 1.886.215/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 18/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
