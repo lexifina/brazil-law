@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CONCESSIONÁRIA DE RODOVIAS DO INTERIOR PAULISTA S/A, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Assevera que "há sim violação à legislação invocada e tal se dá no campo da erudição e não no campo fático, o que impede, de fato, a aplicação da Súmula 07 do C. Superior Tribunal de Justiça" (fl. 157).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Nas razões do recurso especial, a parte agravante afirma que houve violação aos arts. 10 do Decreto-lei 3.365/1941 e 725, VIII, do Código de Processo Civil, sustentando que a homologação judicial de acordo de desapropriação amigável é necessária para garantir a segurança jurídica e permitir o registro da área desapropriada em favor do Departamento de Estradas de Rodagem do Estado de São Paulo (DER/SP), conforme determinado pelo Decreto de Utilidade Pública.
+Argumenta que a decisão do Tribunal de Justiça de São Paulo, ao negar a homologação, ignora a previsão legal de autocomposição extrajudicial e o interesse processual da concessionária, além de divergir de entendimentos jurisprudenciais que reconhecem a viabilidade da homologação judicial em casos semelhantes.
+De acordo com a jurisprudência deste STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os artigos tidos por violados não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. AFASTAMENTO DO ÓBICE PROCESSUAL. AÇÃO REGRESSIVA ACIDENTÁRIA. PRESCRIÇÃO QUINQUENAL. CONDUTA CULPOSA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF, APLICADA POR ANALOGIA.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do STJ, que não conheceu do Recurso Especial ante o impedimento da Súmula 182/STJ. 2. Afastado o óbice processual, passa-se ao exame do Recurso.
+ ..
+6. No que tange aos juros, o debate proposto no Recurso Especial não ocorreu no Tribunal de origem. Assim, perquirir nesta via estreita ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+7. Agravo Interno provido para, reconsiderando-se a decisão das fls. 978-980, e-STJ, conhecer do Agravo para conhecer parcialmente do Recurso Especial e negar-lhe provimento (AgInt no AREsp n. 2.170.174/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Deixo de estipular honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
