@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE BATAGUASSU à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C COBRANÇA - SERVIDORA PÚBLICA MUNICIPAL - REQUERIMENTO DE ADICIONAL DE INSALUBRIDADE - PRELIMINAR DE NULIDADE DA SENTENÇA - CERCEAMENTO DE DEFESA - AFASTADA - MÉRITO - ADICIONAL DE INSALUBRIDADE - CONDIÇÕES DE INSALUBRIDADE DEMONSTRADAS - INDENIZAÇÃO DEVIDA - SENTENÇA MANTIDA - RECURSO VOLUNTÁRIO E REMESSA NECESSÁRIA CONHECIDOS E DESPROVIDOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 369, e 373, II, do CPC, no que concerne à ocorrência do cerceamento de defesa em razão da negativa de produção de provas , consistente no depoimento pessoal da parte, bem como na oitiva de testemunhas, trazendo a seguinte argumentação:
+No caso em apreço, os Doutos Desembargadores ao proferirem a R. Decisão recorrida, assim o fizeram em total ofensa ao Código de Processo Civil.
+Isto porque, não foi oportunizado à parte recorrente a produção de prova oral, necessária para elucidação dos fatos, havendo assim, cerceamento de defesa.
+ ..
+Com isso, é direito e ônus do recorrente de produzir as provas que entende serem necessárias, e que na verdade, são imprescindíveis para a demonstração da verdade real dos fatos, o que não poderia ser dispensado no caso em apreço, para comprovação de que as atividades desenvolvidas pela recorrida não acarretam no adicional pleiteado, bem como para demonstrar a ausência dos riscos que levariam ao percebimento do adicional.
+ ..
+Houve o indeferimento do pedido da produção de prova oral, apenas sob o argumento de que a perícia seria suficiente para esclarecer os fatos levantados, no entanto, a conclusão pericial não é, e não foi suficiente, e depende dos esclarecimentos dos fatos, mediante depoimento pessoal da recorrida, e, oitiva de testemunhas, para comprovação da verdade real.
+Necessária a produção de prova oral, para que a recorrida, assim como as testemunhas, esclareçam sobre o fornecimento dos equipamentos de segurança, e também de forma minuciosa, sobre as atividades desenvolvidas diariamente pela parte.
+Houve cerceamento de defesa em virtude da não oportunidade do recorrente Apelante em produzir as provas que entende pertinentes, que são imprescindíveis para o deslinde do processo, o que acarreta, com toda certeza, na nulidade da R. Sentença prolatada (fls. 454-458).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O Apelante alegou preliminar de cerceamento de defesa, ante o indeferimento implícito do pedido de produção de prova oral.
+Contudo, o alegado cerceamento de defesa deve ser rejeitado, porquanto a marcha processual prosseguiu corretamente, com os debates devidamente oportunizados às partes, cujas provas e argumentos apresentados se mostraram suficientes a formar o livre convencimento motivado do julgador, sendo desnecessária a produção de demais provas.
+Ademais, diante do caso concreto, deve o julgador sopesar as provas indispensáveis para a solução da lide, deferindo aquelas que se mostrarem pertinentes e indeferindo as desnecessárias e protelatórias.
+In casu, não houve indeferimento do direito de defesa da Apelante, na medida em que os demais elementos probatórios colacionados aos autos são suficientes para dirimir a controvérsia (fl. 435).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à necessidade ou não de dilação probatória demandaria o reexame do acervo fático-probatório juntado aos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ". (AgInt no AREsp n. 2.541.210/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Na mesma linha: "XI - Para acolhimento da pretensão recursal, seria necessário o revolvimento de fatos e provas, a fim de compreender pela necessidade da produção probatória sobre os específicos fatos alegados como essenciais à demonstração da tese sustentada pela parte recorrente, mas que foram descartados para o deslinde da controvérsia pelo julgador a quo. XII - Não cabe, assim, o conhecimento da pretensão recursal, porque exigiria a revisão de juízo de fato exarado pelas instâncias ordinárias sobre o alegado cerceamento da produção probatória, o que é inviável em recurso especial. Incidência do Enunciado Sumular n. 7/STJ". (AgInt no REsp n. 2.031.543/PA, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.714.570/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.542.388/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.683.088/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 29/11/2024; e AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
