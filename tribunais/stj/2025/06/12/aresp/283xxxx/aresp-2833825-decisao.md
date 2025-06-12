@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pela FUNCEF - Fundação dos Economiários Federais, contra decisão que não admitiu o recurso especial manejado, com fulcro nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado (fl. 1176):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE ACORDO JUDICIAL - NÃO CABIMENTO - SENTENÇA HOMOLOGATÓRIA DE ACORDO JUDICIAL TRANSITADA EM JULGADO - OBSERVÂNCIA DO ART. 966, § 4º DO NCPC - CABIMENTO DE AÇÃO RESCISÓRIA - INADEQUAÇÃO DA VIA ELEITA - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME. - O Art. 966, § 4º se refere à invalidação dos atos jurídicos processuais realizados pelas partes ou por outros sujeitos do processo e homologados pelo juiz, os quais, no entanto, devem ter como pressuposto a inexistência de coisa julgada.
+Os embargos de declaração opostos em duplicidade pela FUNCEF foram rejeitados (fls. 1.439-1.441 e 1.511 - 1.512).
+Nas razões do recurso especial, a recorrente alega que o acórdão recorrido violou os arts. 966, § 4º, do CPC, 138 e 849 do Código Civil.
+Sustenta que o acórdão recorrido violou o art. 966, § 4º, do CPC, ao entender pelo não cabimento da ação anulatória proposta, sustentando que a sentença homologatória de acordo não adentrou à questão da legitimidade dos requeridos, sendo cabível ação anulatória e não rescisória.
+Aduz que houve violação aos arts. 138 e 849 do Código Civil, afirmando que houve erro essencial sobre a pessoa, o que ensejaria a anulação do acordo.
+Além disso, aponta divergência jurisprudencial, alegando que o entendimento do TJSE diverge de outros tribunais quanto ao cabimento da ação anulatória em casos de sentença homologatória de acordo judicial.
+Contrarrazões apresentadas às fls. 1303-1325.
+O recurso especial não foi admitido em virtude da ausência de violação ao art. 1.022, inciso II, do CPC, e da incidência da Súmula 83/STJ em relação à discussão sobre o cabimento da ação anulatória.
+Nas razões do seu agravo, a parte recorrente alega a ação anulatória é cabível para anular negócios jurídicos homologados por sentença, conforme previsão legal, e que a decisão agravada aplicou indevidamente a Súmula 83/STJ.
+Foi apresentada impugnação às fls. 1.348 - 1.357.
+Na origem, cuida-se de ação anulatória de negócio jurídico c/c pedido de restituição, onde a FUNCEF busca a anulação dos negócios jurídicos/transações celebrados entre a Fundação e os requeridos, homologados por sentença nos autos do Cumprimento de Sentença nº 201811501047. Alega erro essencial quanto à legitimidade dos requeridos como beneficiários do título executivo judicial, e requer a restituição dos valores pagos, além da concessão de gratuidade de justiça. A sentença proferida extinguiu o feito sem resolução de mérito, por inadequação da via eleita (ação anulatória), considerando que a sentença homologatória já havia transitado em julgado, sendo cabível ação rescisória. Condenou a FUNCEF ao pagamento das custas processuais e honorários advocatícios.
+Em análise prévia das razões do agravo em recurso especial, verificou-se a intempestividade do recurso especial, em razão do que, o despacho de fl. 1.533 concedeu à parte agravante a oportunidade de comprovar eventual suspensão de prazo para recorrer, decorrente de feriado local (no ponto, o prazo teve início aos 2/8/2024 - vide certidão de fls. 1.438 - 1.441 -, com a publicação do acórdão do primeiro recurso de embargos de declaração, e o termo inicial de sua contagem aos 5/8/2024 com término aos 23/8/2024, todavia, o recurso especial foi interposto aos 26/8/2024).
+Sobreveio a petição de fls. 1.536 - 4.547, onde a parte informa que não houve suspensão de prazos na origem, destacando a tempestividade do recurso especial, ao argumento de que o prazo de contagem teria início apenas após o julgamento do segundo recurso de embargos de declaração (fls. 1.447 - 1.453).
+Assim delimitada a controvérsia, passo à análise do recurso.
+Não assiste razão à parte agravante.
+Na hipótese verifica-se que a parte opôs simultaneamente dois recursos de embargos de declaração, contra o acórdão em apelação da Corte local, sendo que o segundo recurso (com idêntico teor do primeiro) foi objeto da decisão de fl. 1.511, em que consta:
+Analisando os autos, observo que este Recurso foi distribuído em duplicidade ao de nº 202400734748. Assim sendo, não conheço destes Embargos por ser inadmissível, nos termos do art. 932 do Novo Código de Processo Civil. Dê-se baixa na distribuição. Cumpra-se.
+Assim, verifica-se que o segundo recurso de embargos de declaração, acima referido, é manifestamente inadmissível, e nesse contexto, conforme entendimento assentado na jurisprudência desta Corte Superior, não tem o condão de interromper o prazo para interposição de outro recurso, sendo de rigor o reconhecimento da intempestividade do recurso especial. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COMPRA E VENDA. VIOLAÇÃO DO ART. 489 DO CPC. PRECEDENTES NÃO VINCULANTES. VÍCIO DE FUNDAMENTAÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO. NÃO CONHECIDOS. INDICAÇÃO DE VÍCIO NA SENTENÇA. INTERRUPÇÃO DO PRAZO RECURSAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. A previsão do art. 489, §1º, VI, do NCPC aplica-se unicamente a precedentes de caráter vinculante.
+2. Não interrompem o prazo para interposição de outros recursos os embargos de declaração intempestivos, manifestamente incabíveis ou quando oferecidos com requerimento de efeitos infringentes, sem que se aponte vício de omissão, contradição, obscuridade ou erro material.
+(..)
+5. Recurso especial não provido.
+(REsp n. 2.194.596/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. SEGUNDOS EMBARGOS DE DECLARAÇÃO. EFEITO INTERRUPTIVO. AUSÊNCIA. NÃO PROVIDO.
+1. "Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa" (EDcl nos EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2017, DJe 20/02/2018).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.326.271/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/5/2024, DJe de 4/6/2024.)
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
