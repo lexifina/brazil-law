@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JANILCE APARECIDA GONÇALVES BAHIA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ.
+Consta nos autos que a paciente está presa desde 15/2/2025 pela prática, em tese, dos delitos de desobediência, desacato e resistência, tendo sua prisão em flagrante sido convertida em preventiva.
+A defesa alega que a prisão preventiva da paciente foi decretada de ofício pelo Juízo de 1º grau, em audiência de custódia, mesmo após o Ministério Público ter se manifestado pela concessão da liberdade provisória com medidas cautelares alternativas, tendo a Corte de origem mantido a prisão, contrariando entendimento dominante e atual do Superior Tribunal de Justiça.
+Sustenta que a paciente está sofrendo constrangimento ilegal em virtude da manutenção da prisão preventiva, pois "o Tribunal de Justiça foi incapaz de sanar tal ilegalidade para que se evite, portanto, uma atuação de ofício do Magistrado no âmbito das medidas cautelares pessoais" (fl. 7).
+Destaca que "a paciente permanece presa preventivamente no aguardo de exame de insanidade mental agendado para 09.12.2025" (fl. 7), prolongando sua prisão cautelar por quase um ano.
+Requer "a concessão definitiva da ordem de habeas corpus para reformar o v. acórdão do Tribunal de Justiça do Estado do Paraná, conforme fundamentos apresentados. Subsidiariamente, pugna-se pela substituição por medidas cautelares diversas da prisão" (fl. 8).
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+No entanto, a concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+Sobre a tese aqui trazida, assim se manifestou o Tribunal local (fl. 19):
+ ..  os Impetrantes argumentam que a prisão preventiva foi decretada de ofício pelo Magistrado a quo, sem que tenha sido requerida pelo Ministério Público ou pela Autoridade Policial.
+Contudo, esclareça-se que, embora o MINISTÉRIO PÚBLICO de Primeiro Grau tenha se manifestado pela liberdade provisória cumulada com medidas cautelares diversas da prisão, tal fato não torna a atuação do Magistrado ex officio.
+Isto porque, é entendimento pacificado do Superior Tribunal de Justiça que, a manifestação do Parquet pela aplicação de medidas cautelares diversas da prisão já é suficiente para que o juiz avalie a pertinência de tais cautelares e, com isso, decida a respeito de qual é a mais adequada ao caso concreto, mesmo que seja mais gravosa. ..
+O entendimento acima encontra-se em consonância com a jurisprudência desta Corte, não havendo falar-se em ilegalidade.
+""É firme o entendimento firmado neste Superior Tribunal de Justiça no sentido de que havendo manifestação do Ministério Público pela imposição de medidas cautelares, pode o magistrado decretar medida diversa, seja ela mais branda ou mais gravosa sem que isso configure atuação de ofício." (AgRg no HC n. 783.929/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/9/2023, DJe de 25/9/2023.)" (AgRg no RHC n. 211.396/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025).
+"Esta Corte tem entendimento de que a manifestação do parquet pela aplicação de medidas alternativas diversas ao cárcere, permite ao juiz avaliar a pertinência das referidas cautelares e, nessa condição, impor a mais adequada e suficiente ao caso, inclusive a mais grave, qual seja, a prisão preventiva, sem se falar em prisão cautelar de ofício." (AgRg no HC n. 900.602/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+Por fim, " ..  as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no RHC n. 214.337/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025).
+Assim, inexistindo divergência da matéria no órgão colegiado deste Tribunal, admissível o exame deste writ in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
