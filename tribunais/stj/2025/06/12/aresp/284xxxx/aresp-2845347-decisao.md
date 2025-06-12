@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ contra decisão que inadmitiu recurso especial contra acórdão proferido pelo TRIBUNAL D E JUSTIÇA DO ESTADO DO CEARÁ no julgamento da Apelação Criminal n. 0147750-05.2016.8.06.0001.
+Consta dos autos que o agravante foi absolvido, em primeiro grau, com base no princípio da insignificância, pela prática do delito previsto no art. 1º, inciso II, da Lei n. 8.137/1990, c/c o art. 71 do Código Penal.
+O Tribunal de origem negou provimento ao recurso do Ministério Público, em acórdão assim ementado (e-STJ fl. 569):
+EMENTA: PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, INCISO II DA LEI N. 8.137/1990 C/C ART. 71 DO CÓDIGO PENAL). SONEGAÇÃO FISCAL. ICMS. ABSOLVIÇÃO SUMÁRIA. PRINCÍPIOS DA INSIGNIFICÂNCIA, DA FRAGMENTARIEDADE E DA INTERVENÇÃO MÍNIMA DO DIREITO PENAL. INSURGÊNCIA MINISTERIAL. PLEITO DE REFORMA DO DECISUM DE PRIMEIRO GRAU. CONTINUIDADE DA INSTRUÇÃO PROCESSUAL. IMPOSSIBILIDADE. VALOR DO CRÉDITO TRIBUTÁRIO ORIGINÁRIO QUE NÃO EXTRAPOLA O PISO DE TRINTA MIL REAIS ESTABELECIDO PELA INSTRUÇÃO NORMATIVA Nº 01/2019 DA PROCURADORIA-GERAL DO ESTADO DO CEARÁ, FUNDAMENTADA NO ART. 2º, § 4º., DA LEI ESTADUAL Nº 16.381, DE 2017. INEXPRESSIVIDADE DA OFENSA AO OBJETO JURÍDICO TUTELADO PELA NORMA PENAL. ATIPICIDADE MATERIAL CONFIGURADA. APLICAÇÃO DA JURISPRUDÊNCIA DO STF E STJ. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1. No que concerne aos crimes contra a ordem tributária, doutrina e jurisprudência são enfáticas ao estatuírem as distinções entre "valor originário" e "débito consolidado". O primeiro compreende o débito inicialmente apurado pela administração fazendária como a importância que, efetivamente, deixou de ser recolhida aos cofres públicos. Já o segundo diz respeito à soma do valor originário, com os acréscimos aplicáveis mediante autorização legal, a exemplo da correção monetária, dos juros, das multas e dos demais encargos previstos em lei.
+2. "O valor do crédito tributário objeto do crime tributário material é aquele apurado originalmente no procedimento de lançamento, para verificar a insignificância da conduta (..). Em outras palavras, a fluência de juros moratórios, correção monetária ou eventuais multas, que integram o crédito tributário inserido em dívida ativa, não possui o condão de acrescer valor para a aferição do parâmetro de aplicação do princípio da insignificância Precedentes.
+3. Consoante entendimento consolidado pelo STJ, em se tratando de crimes contra a ordem tributária, a irrisória lesão ao fisco conduz à própria atipicidade material da conduta. 4. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, o Ministério Público alegou que o acórdão contrariou o art. 1º, II, da Lei n. 8.137/1990, ao aplicar indevidamente o princípio da insignificância, considerando que o valor do tributo sonegado mais a multa aplicada totalizou R$ 49.136,64, superior ao limite de R$ 30.000,00 estabelecido pela Instrução Normativa 01/2019 do Estado do Ceará (e-STJ fls. 591/603).
+O órgão acusatório destaca especificamente que "a Instrução Normativa 01/2019, em vigor, fixou em R$30.000,00 (trinta mil reais) o valor dos débitos inscritos relativos a ICMS, e em R$10.000,00 (dez mil reais) o valor dos débitos referentes a IPVA e ITCD, sendo estes os patamares em que o Estado do Ceará entende ser dispensável a cobrança judicial dos débitos, lembrando-se que a mencionada Instrução Normativa considera o valor de R$30.000,00 (trinta mil reais) para os DÉBITOS INSCRITOS DE ICMS. Portanto, para fins de aferição do princípio da insignificância, a Instrução Normativa faz uma delimitação que abrange TRIBUTO E MULTA aplicada pelo fisco" (e-STJ fl. 600).
+O recurso especial foi inadmitido pela incidência das Súmulas 7 e 83 do Superior Tribunal de Justiça, conforme decisão de admissibilidade (e-STJ fls. 622/624).
+Daí o presente agravo em recurso especial, no qual se alega que o recurso especial atende a todos os requisitos para ter seu trânsito, pois não se postulou o reexame de provas, mas sim a valoração jurídica dos fatos incontroversos, afastando a incidência das Súmulas 7/STJ.
+Aponta, ainda, que "não se pode falar em adoção in casu da Súmula 83 do STJ como um dos fundamentos da inadmissão do recurso especial, posto que a divergência que ora se aponta é de cunho interpretativo do Tribunal de Justiça do Ceará, que insiste em valorar equivocadamente a legislação estadual tributária" (e-STJ fl. 643).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O recurso não comporta conhecimento, porque, ainda que o Ministério Público tenha apontado violação ao art. 1º, II, da Lei n. 8.137/1990, verifica-se que a discussão se pauta na interpretação de atos normativos estaduais, quais sejam, a Lei n. 16.381/2017 do Estado do Ceará e a Instrução Normativa 01/2019, esta inclusive de caráter infralegal.
+A defesa inclusive alega expressamente que "a Instrução Normativa 01/2019, em vigor, fixou em R$30.000,00 (trinta mil reais) o valor dos débitos inscritos relativos a ICMS, e em R$10.000,00 (dez mil reais) o valor dos débitos referentes a IPVA e ITCD, sendo estes os patamares em que o Estado do Ceará entende ser dispensável a cobrança judicial dos débitos, lembrando-se que a mencionada Instrução Normativa considera o valor de R$30.000,00 (trinta mil reais) para os DÉBITOS INSCRITOS DE ICMS. Portanto, para fins de aferição do princípio da insignificância, a Instrução Normativa faz uma delimitação que abrange TRIBUTO E MULTA aplicada pelo fisco" (e-STJ fl. 600).
+Assim, inviável o conhecimento do presente recurso e a análise das teses levantadas pelo órgão acusatório, tendo em vista a incidência da Súmula n. 208/STF.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que não conheceu do recurso especial, com fundamento na Súmula 280 do STF.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a Súmula 280 do STF impede o conhecimento do recurso especial, quando a tese acusatória se baseia na interpretação de legislação estadual e infralegal.
+3. A parte agravante alega que a tipicidade material da conduta prevista no artigo 1º, II e IV, da Lei nº 8.137/90 foi afastada sem amparo em qualquer dispositivo legal, sendo desnecessário o exame da legislação local.
+III. Razões de decidir
+4. O Tribunal local aplicou ao caso o princípio da insignificância a partir da análise dos quantitativos estabelecidos na legislação local. O acolhimento da pretensão recursal exigiria nova interpretação dos textos normativos estaduais, o que não é cabível em sede de recurso especial, conforme a Súmula 280 do STF.
+5. A argumentação do recurso especial se pauta na interpretação de atos normativos estaduais, incluindo a Instrução Normativa 1/2019 da PGE, que é infralegal.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. O recurso e special não é cabível para reinterpretação de legislação estadual e infralegal, conforme a Súmula 280 do STF".
+Dispositivos relevantes citados: não há.
+Jurisprudência relevante citada: STF, Súmula 280; STJ, AgRg no REsp 2.093.397/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 15.04.2024. (AgRg no REsp n. 2.179.425/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/3/2025, DJEN de 12/3/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
