@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo interposto por SAO BENTO INCORPORADORA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 204):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL - CLÁUSULA PENAL FIXADA EM 10% SOBRE O VALOR TOTAL DO CONTRATO - NÃO CABIMENTO - DESACORDO COM O ART. 67- A, II, DA LEI N. 13.786/2019 - PEDIDO DE APLICAÇÃO DO PADRÃO-BASE DO STJ DE 25% A TÍTULO DE RETENÇÃO - PRINCÍPIO DA AUTONOMIA DE VONTADE DAS PARTES - PRECEDENTES DO STJ - RESTITUIÇÃO QUE DEVE SER IMEDIATA E NÃO PARCELADA - SÚMULA 543 DO STJ - TAXA DE FRUIÇÃO - LOTE NÃO EDIFICADO - INCABÍVEL -- PREQUESTIONAMENTO EXPRESSO DESNECESSÁRIO - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 239-244).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial acerca da aplicação equivocada do art. 67-A da Lei n. 13.786/18, quando o artigo correto a ser aplicado seria o art. 32-A da Lei dos Distratos, bem como não considerou o princípio da legalidade e a sobreposição da norma específica (Lei n. 13.786/18) sobre a norma geral (CDC) (fls. 248-249).
+Aduz, no mérito, violação dos arts. 8º e 926 do CPC e 32-A, I, da Lei n. 13.786/2018.
+Sustenta, em síntese, que o acórdão recorrido alterou indevidamente a base de cálculo das retenções de "valor do contrato" para "valor pago", excluindo o prazo de carência e possibilidade de parcelamento instituídos pela lei, o que afronta diretamente o dispositivo legal (fls. 247-249).
+Aponta, ainda, divergência entre o entendimento do Tribunal de origem e o de outros tribunais, especialmente em relação à aplicação do art. 32-A da Lei n. 13.786/18.
+Nesse sentido, defende que o imóvel objeto da lide é um lote de terreno vago, bem como que a recorrente é uma LOTEADORA, não sendo, portanto, aplicáveis as disposições da incorporação imobiliária, e sim a legislação correlata ao parcelamento do solo urbano, do qual trata o art. 32-A da Lei n. 13.786/18 (fl. 249).
+Sem contrarrazões ao recurso especial (fl. 284).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 286-299), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 313).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, solucionou a lide em conformidade ao que foi apresentado em juízo, na medida em que entendeu que a multa percentual deveria incidir sobre o valor efetivamente pago, conforme o art. 67-A, II, da Lei n. 13.786/18, que trata de contratos de incorporação imobiliária, e não o art. 32-A, pois o contrato em questão é de compra e venda de lote sob alienação fiduciária (fls. 239-240). Além disso, constatou que incide o CDC ao caso.
+Verifica-se, portanto, que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+Em relação à apontada ofensa ao art. 32-A, I, da Lei n. 13.786/2018 e à divergência jurisprudencial suscitada, observa-se que o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A proposito, cito os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. PERCENTUAL DE RETENÇÃO DOS VALORES PAGOS. CONSONÂNCIA COM O ENTENDIMENTO CONSOLIDADO NO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da Súmula n. 543 do STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+2. Segundo a orientação da Segunda Seção, nos contratos firmados antes da Lei n. 13.786/2018, o percentual de retenção pela extinção do vínculo contratual de compra e venda de imóveis por culpa do consumidor é de 25% das parcelas pagas, adequado e suficiente para indenizar o construtor pelas despesas gerais e pelo rompimento unilateral ou pelo inadimplemento do consumidor, independentemente das circunstâncias de cada hipótese concreta.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.062.057/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL POR INTERESSE DO COMPRADOR. RETENÇÃO DE PARTE DAS PARCELAS PAGAS. PERCENTUAL ENTRE 10% A 25%. SÚMULA N. 83 DO STJ PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência consolidada nesta Corte é no sentido de permitir a retenção no percentual de 10% a 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do promitente-comprador, bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar em reexame fático- probatório. Caso concreto no qual a multa contratualmente estabelecida para a supracitada hipótese foi fixada pelo Tribunal e estadual em 20% dos valores pagos. Aplicação da Súmula n. 83 do STJ.
+Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.579.263/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS C/C REPETIÇÃO DE INDÉBITO, INDENIZAÇÃO POR DANOS MORAIS E PERDAS E DANOS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CULPA EXCLUSIVA DO PROMITENTE-VENDEDOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO DOS VALORES PAGOS. RETENÇÃO DE ATÉ 25% POR PARTE DA VENDEDORA. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A Segunda Seção do STJ, ao apreciar o REsp 1.723.519/SP, da Relatoria da Ministra Isabel Gallotti, estabeleceu, no tocante à cláusula penal fixada no contrato, nas hipóteses de rescisão de promessa de compra e venda de imóvel por inadimplemento do comprador, que o percentual de retenção pelo vendedor pode ser de até 25% do total da quantia paga. Precedente: EAg 1.138.183/PE, Rel. Ministro Sidnei Beneti, Segunda Seção, julgado em 27/06/2012, DJe de 04/10/2012" (AgInt no AREsp 1.568.920/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe de 25/03/2020).
+2. A análise da extensão da sucumbência de cada uma das partes, para fins de aplicação do art. 86 do CPC/2015, pressupõe reexame de material fático, inviável na instância especial por óbice da Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.597.051/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL. CLÁUSULA PENAL. VARIAÇÃO ENTRE 10% (DEZ POR CENTO) E 20% (VINTE POR CENTO). TRIBUTOS INCIDENTES SOBRE A PROPRIEDADE DO IMÓVEL. AUSÊNCIA DE IMISSÃO NA POSSE. RESPONSABILIDADE DO PROMITENTE-VENDEDOR.
+1. É admitida a flutuação do percentual da retenção pelo vendedor entre 10% (dez por cento) a 25% (vinte e cinco por cento) do total da quantia paga nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador. Precedentes.
+2. Somente a partir da efetiva posse do imóvel, com a entrega das chaves, passa o adquirente a ter a obrigação de pagar as despesas condominiais e IPTU, sendo responsabilidade da vendedora até a imissão na posse.
+3. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.829.230/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025.)
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão do tribunal de que não se aplica ao caso o art. 32-A da Lei dos Distratos, pois o contrato em questão é de compra e venda de lote sob alienação fiduciária, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Nesse sentido, é o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 3.500,00.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL DE COMPRA E VENDA DE IMÓVEL. APLICAÇÃO DA SÚMULA N. 543/STJ EM CONFORMIDADE COM A JURISPRUDÊNCIA. PERCENTUAL DE RETENÇÃO. FLUTUAÇÃO ENTRE 10% E 25% DO VALOR PAGO. REVISÃO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
