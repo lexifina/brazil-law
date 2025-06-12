@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial interposto por ESTADO DO RIO DE JANEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS - AUTOR QUE EXERCIA SUA ATIVIDADE COMERCIAL NO ANTIGO MERCADO DA COBAL POR LONGO PERÍODO - DESOCUPAÇÃO DO IMÓVEL EM DECORRÊNCIA DE NOTIFICAÇAO JUDICIAL - PREJUÍZOS OCASIONADOS AO COMERCIANTE QUE DEVEM SER INDENIZADOS - INTERVENÇÕES PROMOVIDAS PELA ADMINISTRAÇÃO PÚBLICA NO LOCAL QUE ACARRETARAM O ESVAZIAMENTO DA CLIENTELA E PRATICAMENTE O ENCERRAMENTO DA ATIVIDADE COMERCIAL DO AUTOR - AUTOR QUE É PARTE LEGÍTIMA NA MEDIDA EM QUE É O TITULAR DA RELAÇÃO JURÍDICA DE DIREITO MATERIAL - COMERCIANTE QUE EXERCIA HÁ VÁRIOS ANOS O SEU OFÍCIO NO LOCAL E SOFREU O DESALIJO FORÇADO PROMOVIDO PELA ADMINISTRAÇÃO PÚBLICA SEM RECEBER A DEVIDA INDENIZAÇÃO PECUNIÁRIA - RESPONSABILIDADE CIVIL DA PESSOA JURÍDICA DE DIREITO PÚBLICO POR ATO LÍCITO - SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM NEGA - SE PROVIMENTO AOS RECURSOS
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, que o acórdão recorrido: i) diverge da jurisprudência do STJ; e ii), nega vigência aos arts. 102, 927, 1.219 e 1.255 do Código Civil/2002, na medida que o mero detentor irregular de bem público não deve fazer jus à indenização.
+Contrarrazões apresentadas (fls. 405-426).
+É o relatório.
+Passo a decidir.
+O acórdão recorrido estabeleceu que o bem objeto dos autos é público, pertencendo ao Estado do Rio de Janeiro, conforme se vê (grifei):
+Em sua peça de defesa, o Estado arguiu que a titularidade do imóvel objeto da lide lhe pertence, tratando-se na verdade de detenção irregular exercida por Antônio, motivo pelo qual deveria ser reconhecida a ilegitimidade ativa, por não ostentar o autor a qualidade de proprietário.
+Nesse trilho, importa dizer que o imóvel, localizado na Rua Francisco Eugênio, número 20, São Cristóvão/Rio de Janeiro, é público, segundo declaração da Secretaria de Estado de Fazenda (doc 00078 - processo nº 0108931-41.2013.8.19.0001), firmada em 18/03/2013, que serviu de embasamento para se obter a notificação judicial de desocupação do imóvel.
+Além disso, foi anexado ao processo nº 0307394-26.2013.8.19.0001 termo de entrega e recebimento do imóvel situado na Rua Francisco Eugenio nº 20 para fins de utilização no serviço público estadual (doc 0009).
+Desta feita, importante dizer que o imóvel objeto da lide está descrito no doc 00015/00017 do processo nº 0307394-26.2013.8.19.0001, sendo que Antônio Andrade de Lima ocupando o box 01, onde funcionava um bar e restaurante, enquanto que Manuel José Trigo Carrilho ocupa os boxes 13,14, 15 e 16 com sua mercearia.
+ ..  Conquanto o autor qualifique o ato administrativo perpetrado como sendo "desapropriação indireta", na realidade, a teor do que os autos estampam, sobreveio uma retomada do imóvel pela administração pública, concretizada através da notificação judicial em alusão anteriormente.
+ ..  Ou seja, de forma repentina, o comerciante viu-se impedido de continuar com seu labor, máxime quando o acesso dos clientes ao bar e restaurante foi obstaculizado e, em decorrência, o público externo não pode adentrar ao local.
+Nessa ordem de ideias, impende destacar que não se olvida ser lícita a notificação promovida para desocupação do local, eis que determinada judicialmente, como já dito antes, haja vista o imóvel pertencer ao Estado.
+Porém, mesmo os atos lícitos da administração pública podem ser passíveis de indenização ao particular, se lhe acarretarem prejuízos, conforme o caso.
+ ..  Assim sendo, Antônio faz jus à reparação civil do Estado, em decorrência do encerramento tácito de suas atividades comerciais.
+Ademais, ao contrário do que afirmou o ERJ, o autor não é intruso, funcionando legalmente durante anos com o bar e restaurante, fato que por si só, ao ver desse Relator, faz ressoar desproporcional e injusta a sua retirada compulsória sem a devida indenização.
+Portanto, não se trata de desapropriação indireta, mas de retomada de bem público ocupado por particular há anos:
+Em situação fática-jurídica idêntica à situação em exame, a Segunda Turma decidiu que a hipótese não se confunde com a indenização pelo fundo de comércio decorrente de desapropriação do bem de possuidor ou proprietário legítimos, mas retomada de bem público ocupado por particular. Nesse sentido:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. BEM PÚBLICO. DETENTOR. INDENIZAÇÃO. IMPOSSIBILIDADE.
+1. A mera passagem do tempo não autoriza a concessão de indenização em favor de detentor de imóvel público, assim considerado o particular sem qualquer título justo de posse e que ocupa o bem ilegitimamente. Precedentes.
+2. Agravo conhecido para dar provimento ao recurso especial (AREsp n. 1.113.238/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/3/2018, DJe de 13/3/2018).
+A propósito, a jurisprudência pacífica desta Corte é no sentido que a mera detenção de bem público não evidencia posse e consequentemente não dá direito a indenização, como é o caso dos autos. Vejamos:
+ADMINISTRATIVO. PROCESSUAL CIVIL. BEM PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA. PREQUESTIONAMENTO. SÚMULA 356/STF. POSSE DE BOA-FÉ SOBRE BEM PÚBLICO. SÚMULA 7/STJ. AFASTAMENTO. INDENIZAÇÃO. DESCABIMENTO. DETENÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO. AGRAVO INTERNO PROVIDO EM PARTE.
+ ..
+3. A "posse" de bem público não é posse, mas detenção. A indenização nesse contexto é vedada, independentemente da condição em que se dá a detenção. Recurso especial que deve ser desprovido.
+4. Agravo interno provido em parte (AgInt no AREsp n. 1.485.651/SP, de minha relatoria, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE REINTEGRAÇÃO DE POSSE. FAIXA DE SEGURANÇA DO RESERVATÓRIO DE USINA HIDRELÉTRICA. ÁREA DE PRESERVAÇÃO PERMANENTE. POSSE PRIVADA. IMPOSSIBILIDADE. BEM PÚBLICO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.
+1. "Pacífica a jurisprudência do STJ no sentido de que ocupação privada de bem público não evidencia posse, mas, sim, mera detenção, descabendo, por isso, falar em posse nova, velha ou de boa-fé. Por outro lado, se ilícita a detenção, incumbe ao Poder Público, na forma de inafastável dever e sob pena de cometer improbidade administrativa, mandar que, de imediato, se restitua o imóvel ao integral benefício da coletividade, irrelevante o tempo da ocupação, se recente ou antiga, ou a presença de alvará urbanístico e licença do órgão ambiental. Tudo porque domínio público não se submete a usucapião, rejeita privatização a ferro e fogo e, consequência de sua indisponibilidade, não se transfere a terceiros, implicitamente, por simples licenciamento ou contribuição tributária" (REsp n. 1.457.851/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/5/2015, DJe de 19/12/2016).
+ ..
+3. Agravo interno não provido (AgInt nos EDcl no AREsp n. 2.236.896/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024).
+Isso posto, dou provimento ao recurso especial para afastar a indenização reconhecida em favor do detentor de bem público a título de perda de fundo do comércio.
+Inverto os ônus sucumbenciais fixados nas instâncias ordinárias, condenando o recorrido ao ressarcimento das custas processuais, observada eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
