@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por COOPERATIVA MISTA SAPEZALENSE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 314-315):
+RECURSO DE AGRAVO INTERNO - RECURSO DE AGRAVO DE INSTRUMENTO - DECISÃO QUE INDEFERIU PEDIDO DE RECONHECIMENTO DE CONEXÃO ENTRE PROCESSOS E DE DENUNCIAÇÃO DA LIDE - DESNECESSIDADE DE REUNIÃO DOS PROCESSOS - QUESTÃO JÁ APRECIADA NOS DEMAIS PROCESSOS INDICADOS PELA AGRAVANTE - DENUNCIAÇÃO DA LIDE - INDEFERIMENTO - RECURSO DESPROVIDO. 1. "Embora seja possível, até mesmo por questão de melhor desenvolvimento processual, que as ações de passageiros decorrentes do mesmo acidente de trânsito propostas na mesma comarca sejam reunidas em um só Juízo, não se verifica obrigatoriedade de que assim ocorra quando tratar de ações com considerável número de eventuais vítimas e propostas em Comarcas distintas, muitas vezes com grande distância uma da outra". (TJMT - Quarta Câmara de Direito Privado - RAI n. 1017850-38.2021.8.11.0000, Relator GUIOMAR TEODORO BORGES, Julgado em 09/12/2021, Publicado no DJE 10/12/2021). 2. Não é cabível a denunciação da lide, no caso concreto em que a lei resguarda à parte o direito de regresso, e a medida não contribuiria para a duração razoável do processo, economia e celeridade processual.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente aduz violação dos arts. 7º e 125, II, do CPC.
+Insurge-se contra a decisão que não permitiu a denunciação da lide por ela formulada. Alega ter havido afronta ao princípio da paridade entre as partes.
+Foram oferecidas contrarrazões ao recurso especial (fls. 375-382).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 385-388), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 391-399).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+No mérito, observa-se que o acórdão recorrido também abriga fundamentos de índole constitucional relativos aos princípios da razoável duração do processo, da economia e da celeridade processual, como se depreende de trecho da decisão (fls. 319 -320):
+Em que pese as razões recursais, nota-se que a interposição do presente agravo tem intuito único de rediscutir os fatos e os fundamentos. Nada de novo foi trazido pela parte agravante em suas razões recursais, merecendo registro o fato de que a decisão recorrida analisou as peculiaridades do caso concreto, concluindo pelo desprovimento do recurso interposto pela agravante, e, embora a agravante questione o fato de, em outro momento, ter sido deferido nos autos um outro pedido de denunciação da lide formulado pela Verde Transportes e pela corré Orion Turismo, a decisão combatida pelo presente recurso concluiu que, agora, a medida não é cabível, porque não contribuiria para a duração razoável do processo, economia e celeridade processual, ressalvando que a agravante não corre o risco de ser prejudicada, já que a lei resguarda o seu direito de regresso.
+Ocorre, contudo, que a recorrente não cuidou de interpor o devido recurso extraordinário ao STF, de modo a incidir a jurisprudência sedimentada por meio da Súmula 126 deste Tribunal, que assim dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+O entendimento insculpido no referido enunciado traduz a hipótese de que, não interposto o extraordinário, torna-se inadmissível a apreciação do especial por haver transitado em julgado a matéria constitucional discutida e decidida no acórdão vergastado.
+A propósito, cito:
+2.1. No caso, o Tribunal de Justiça de origem, ao reconhecer a inexistência de danos morais, apresentou fundamentação de natureza constitucional referente à liberdade de expressão, invocando a aplicação dos incisos IV e IX do art. 5º da Carta Magna. No entanto, considerando que não foi interposto recurso extraordinário para infirmar tal fundamentação, suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula nº 126/STJ.
+(AgInt no AREsp n. 2.007.011/PB, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 31/8/2022.)
+2. É inadmissível recurso especial quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+(AgInt no REsp n. 1.935.413/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º/9/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONSTITUCIONAL. DECISÃO QUE INDEFERIU PEDIDO DE DENUNCIAÇÃO DA LIDE. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ. AGRAVO IMPROVIDO.
