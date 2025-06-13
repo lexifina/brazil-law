@@ -1,0 +1,34 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0714335-62.2024.8.07.0004RECORRENTE(S)ANTONIO VIEIRA NUNESRECORRIDO(S)ASSOCIACAO UZZE DE BENEFICIOS MUTUO DOS PROPRIETARIOS DE VEICULOS DO BRASILRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2011008
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. CONSUMIDOR. ACIDENTE DE TRÂNSITO. PRETENSÃO DO SEGURADO CONTRA O SEGURADOR. PRESCRIÇÃO. FALHA NA PRESTAÇÃO DOS SERVIÇOS. DECADÊNCIA. DANO MORAL. NÃO CARACTERIZADO. RECURSO CONHECIDO E DESPROVIDO.I. Caso em exame1. Trata-se de recurso inominado interposto pelo autor em face da sentença proferida pelo Juízo do 2º Juizado Especial Cível e Criminal do Gama que, no tocante ao pedido de reparação por danos materiais e morais decorrentes do acidente automobilístico ocorrido em 17.09.2022, acolheu a questão prejudicial de mérito e decretou a prescrição da pretensão (indenização securitária), com fundamento no artigo 206, §1º, inciso II, alínea “b”, do Código Civil e, quanto ao pedido de reparação por danos materiais e morais resultantes do acidente automobilístico ocorrido em 07.04.2024, acolheu a questão prejudicial de mérito e, nos termos do artigo 26, inciso II, do Código de Defesa do Consumidor, decretou a decadência do direito potestativo do autor em reclamar por vício do serviço da parte requerida.2. Recurso próprio e tempestivo (ID 71887270). Custas e preparo recolhidos.3. Em suas razões recursais, o recorrente alega que não ocorreu a prescrição, pois apenas teve a efetiva ciência da negativa de cobertura da seguradora após a juntada da contestação. Sustenta que, após o primeiro acidente, o recorrente entrou diversas vezes em contado com a recorrida, não tendo em nenhum momento a demandada informado ao recorrente acerca da negativa da cobertura, tampouco exposto os motivos que a levaram a negar o pagamento da indenização devida ao recorrente. Aduz que o mero ajuizamento de ação judicial não equivale à ciência inequívoca dos fundamentos da negativa. Acrescenta que o processo 0712355-51.2022.8.07.0004 foi extinto sem resolução do mérito. Afirma que, por se tratar de uma relação de consumo, deve ser aplicado ao caso o prazo prescricional de 5 (cinco) anos previsto no CDC. Menciona que, em relação ao segundo acidente, embora tenha retirado o veículo da oficina em 03/07/2024, não deixou de buscar a solução do problema, tendo entrado em contato diversas vezes com a recorrida para que o serviço fosse concluído adequadamente, o que interrompeu a fluência do prazo decadencial. Aponta que a nota fiscal apresentada pela recorrida não especifica os serviços executados, trazendo apenas a descrição genérica de “funilaria e pintura”. Pede a reforma da sentença, com o afastamento do reconhecimento da prescrição e da procedência e a procedência dos pedidos iniciais.4. Contrarrazões pelo desprovimento do recurso (ID 71887274).II. Questão em discussão5. Ocorrência ou não da prescrição, da decadência e de dano moral.III. Razões de decidir6. As razões do recorrente não merecem acolhimento.7. Prescrição. Ainda que a relação entabulada entre as partes se trate de uma relação de consumo, a controvérsia relacionada ao primeiro acidente, ocorrido em setembro de 2022, diz respeito a pretensão de segurado contra segurador, que prescreve em 1 (um) ano, nos termos do art. 206, §1º do Código Civil. Por outro lado, contrariamente ao que sustenta o recorrente, o autor teve a ciência da negativa de cobertura por parte da seguradora dias após o acidente, tanto que mencionou expressamente na petição inicial que "(...) após ter sido negada a cobertura securitária, como precisava utilizar o veículo, uma vez que o Requerente utiliza o automóvel para se deslocar para o trabalho e também para as tarefas do dia a dia, o Requerente resolveu por conta própria consertar o veículo (...)" (ID 71886518 - Pág. 3). Vale lembrar que o conserto por conta própria foi realizado no início de outubro de 2022 (ID 71886525). Ademais, a negativa de cobertura foi igualmente mencionada pelo autor na petição inicial da ação proposta em outubro de 2022 (Processo 0712355-51.2022.8.07.0004 - ID 71887262). Assim, uma vez que a presente demanda foi proposta somente em 31/10/2024, a pretensão do autor contra a seguradora ré já se encontrava prescrita, de modo que correto o acolhimento da prejudicial de prescrição.8. Decadência. Nos termos do art. 26, inciso II, do CDC, o direito de reclamar pelos vícios aparentes ou de fácil constatação caduca em 90 (noventa) dias, tratando-se de fornecimento de serviço e de produto duráveis. No caso do segundo acidente, ocorrido em 07/04/2024, o consumidor retirou o veículo da oficina em 03/07/2024, de modo que seu direito de reclamar por suposta falha na prestação dos serviços caducou em 03/10/2024. Ademais, embora alegue a realização de reiterados contatos com a parte requerida para realização dos demais reparos, o recorrente não fez quaisquer provas da referida alegação.9. Dano moral. A falha na prestação dos serviços não restou comprovada nos autos. Mas ainda que estivesse, vale lembrar que, em regra, o simples inadimplemento contratual não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico, o que não se verificou no caso (AgInt no REsp n. 2.042.388/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023).10. Assim, a sentença não merece qualquer reparo.IV. Dispositivo e tese11. RECURSO CONHECIDO E DESPROVIDO. Condeno o recorrente ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% do valor atualizado da causa, nos termos do artigo 55, caput, da Lei 9.099/95.12. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Junho de 2025
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
