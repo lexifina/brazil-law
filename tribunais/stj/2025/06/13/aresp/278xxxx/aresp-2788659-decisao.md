@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ANTÔNIO MONTEIRO COSTA DA SILVA contra decisão do Tribunal de Justiça do Estado de Pernambuco que inadmitiu o recurso especial.
+O recorrente foi pronunciado como incurso no art. 121, § 2º, II e IV, do Código Penal. Interposto recurso em sentido estrito pela defesa, este restou desprovido.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, sustenta-se violação do art. 25 do Código Penal, e dos arts. 203, 204, 315, § 2º, 415, IV, e 564, IV e V, todos do Código de Processo Penal, bem como do art. 7º, XXI, da Lei n. 8.906/1994, sob o argumento de ausência de indícios de materialidade e autoria, além de nulidades processuais e dissídio jurisprudencial. Requer-se o provimento do recurso, a fim de que o recorrente seja absolvido sumariamente em razão da alegada inexistência de prova direta. Subsidiariamente, pugna-se pelo reconhecimento das nulidades apontadas, ou pelo decote das qualificadoras.
+As contrarrazões foram apresentadas (fls. 597-610) e o recurso especial foi inadmitido pelo Tribunal de origem em razão da incidência dos óbices das Súmulas n. 7 e 83 do STJ e 284 do STF, além de não comprovação da divergência jurisprudencial (fls. 611-616).
+No agravo em recurso especial, a parte sustenta que a decisão que inadmitiu o recurso especial foi genérica e dissociada do caderno processual, e que o acórdão recorrido permite a revaloração dos critérios jurídicos, reiterando, ademais, os fundamentos de mérito do recurso especial (fls. 617-637).
+Foi apresentada contraminuta (fls. 640-647).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo desprovimento do agravo, conforme a ementa a seguir (fls. 666-671):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" E "C" DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. INEXISTÊNCIA DE VIOLAÇÃO À LEI FEDERAL. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, os óbices apontados pelo Tribunal a quo para inadmitir o recurso especial, quais sejam, Súmulas n. 7 e 83 do STJ e 284 do STF, bem como não demonstração do alegado dissídio jurisprudencial, limitando-se a parte a apontar o recurso especial atacou todos os fundamentos do aresto combatido, não havendo a pretensão de reexame do conjunto probatório, além de repisar os fundamentos do recurso especial não admitido.
+Com efeito, o agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência dos óbices apontados.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INICIATIVA DO ÓRGÃO JULGADOR. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp n. 1.962.587/SP, relator Ministro Olindo Menezes (desembargador Convocado do Trf 1ª Região), Sexta Turma, DJe de 6/5/2022).
+2. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que, no recurso de agravo previsto no art. 1.042 do CPC, o recorrente tem o dever de impugnar, de modo específico, todos os fundamentos que levaram à inadmissão do recurso especial, não se podendo falar, no caso, em decisão cindível em capítulos autônomos e independentes.
+3. "Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP" (EDcl no AgRg no AREsp n. 2.462.348/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.), o que não é o caso dos autos.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.646.426/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade em razão de decisão monocrática que não conhece do agravo em recurso especial, proferida em conformidade com os arts. 932, III, do CPC e 34, XVIII, "a", do Regimento interno desta Corte.
+2. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, adequadamente, os fundamentos utilizados na decisão impugnada, o que atrai a incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.960.295/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022).
+Portanto, a falta de impugnação específica a todos os motivos da decisão agravada atrai o disposto no art. 932, III, do CPC, tendo em vista a inobservância ao princípio da dialeticidade exigido na esfera recursal, incidindo, na espécie, a Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
