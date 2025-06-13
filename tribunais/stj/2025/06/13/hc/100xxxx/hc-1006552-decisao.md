@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS ALBERTO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do São Paulo (Apelação n. 1500240-41.2024.8.26.0561).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 31/37).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 20/26), em acórdão assim ementado:
+Apelação. Tráfico de drogas. Recurso defensivo requerendo, tão somente, a aplicação do redutor previsto no artigo 33, § 4º, da Lei de Drogas na fração máxima, substituição da pena privativa de liberdade por restritiva de direito e a fixação de regime prisional menos gravoso. Impossibilidade. Pena, vedação de substituição da pena privativa de liberdade por restritiva de direito e regime inicial fechado que não comportam alteração. Evidências de dedicação do acusado à atividade criminosa. Recurso defensivo não provido.
+No presente mandamus (e-STJ fls. 2/19), a impetrante sustenta que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois não aplicou o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, embora os requisitos legais para a incidência do benefício estivessem presentes. Aduz que a quantidade das drogas apreendidas e conversas extraídas de seu celular sobre venda de drogas há menos de um mês não são critérios idôneos e suficientes para impedir a aplicação da referida causa de diminuição.
+Além disso, impugna o estabelecimento do regime inicial fechado, pois o paciente é primário e a sua condenação não excede 8 anos de reclusão.
+Em consequência da aplicação do redutor, entende ser possível o estabelecimento do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Ao final, liminarmente e no mérito, pede a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, o abrandamento do regime inicial e a substituição da pena privativa de liberdade por restritivas de direitos.
+O pedido liminar foi indeferido (e-STJ fls. 43/44).
+As informações foram prestadas às e-STJ fls. 51/54 e 55/72.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 76/77, opinou pelo indeferimento da petição inicial.
+É o relatório. Decido.
+De início, constato que o inconformismo manifestado contra o acórdão proferido em sede de apelação também foi objeto de irresignação na via recursal própria - recurso especial em processamento na origem -, conforme ressai das informações prestadas às e-STJ fls. 55/72, como bem destacou o Ministério Público Federal em seu parecer (e-STJ fls. 76/77).
+Entretanto, o ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha (AgRg no HC n. 589.923/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 1º/4/2022).
+Nesse sentido, dentre outros:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCUSSÃO E CORRUPÇÃO PASSIVA. CONSTRANGIMENTO ILEGAL CALCADO NO ADVENTO DE FATO NOVO EM FEITO CONEXO. INADMISSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. TESE QUE NÃO SE COADUNA COM O RITO DO HABEAS CORPUS (COGNIÇÃO SUMÁRIA). INAPLICABILIDADE DA PREVISÃO CONTIDA NO ART. 231 DO CPP. VIOLAÇÃO DE DIVERSOS DISPOSITIVOS DE LEI FEDERAL. MERA REITERAÇÃO DE RECURSO ESPECIAL AINDA PENDENTE DE PROCESSAMENTO NESTA CORTE. INADMISSIBILIDADE. HC N. 482.549/SP.
+Agravo regimental improvido. (AgRg no HC n. 792.545/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A MATÉRIA DE OFÍCIO, AINDA QUE SE TRATE DE QUESTÃO DE ORDEM PÚBLICA. RECURSO DESPROVIDO.
+1. O manejo do habeas corpus anteriormente ao termo para a interposição da via de impugnação própria na causa principal consubstancia inadequada substituição ao recurso especial, motivo pelo qual não compete ao Superior Tribunal de Justiça examinar, ante tempus, impetração formalizada nesses termos. Nessa conjuntura, "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (STJ, AgRg no HC n. 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/5/2022, DJe 16/5/2022).
+ ..
+4. Agravo desprovido. (AgRg no HC n. 774.540/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AJUIZAMENTO DO WRIT SIMULTÂNEO À INTERPOSIÇÃO DE RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA UNIRRECORRIBILIDADE. ESTRATÉGIA PROCESSUAL. OMISSÃO NÃO DEMONSTRADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1/4/2022).
+ ..
+5. Agravo regimental não provido. (AgRg no HC n. 720.421/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 3/11/2022 )
+Nesse contexto, o presente habeas corpus revela-se inadmissível.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
