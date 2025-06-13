@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por JAIRO DE OLIVEIRA JUNIOR contra acórdão assim ementado:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FURTO. INSIGNIFICÂNCIA. REINCIDÊNCIA ESPECÍFICA. INCOMPATIBILIDADE. FAMÉLICO. PREMENTE NECESSIDADE NÃO COMPROVADA. PEÇA DE CARNE NÃO CONSUMÍVEL DE FORMA IMEDIATA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e subsidiariedade.
+2. As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência de uma pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com estrutura tripartite (formal).
+3. Por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado - compreendido a partir da apreciação dos contornos fáticos e dos condicionamentos sociais em que se inserem o agente e a vítima.
+4. O diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela é também informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+5. A reiteração em desfalques patrimoniais é elemento histórico objetivo que deve instruir o espectro valorativo que permitirá ao julgador reconhecer, se for o caso, a relevância penal da conduta. 6. Na espécie, o réu reincidente específico subtraiu de estabelecimento vítima peça de carne avaliada em R$ 118,15, equivalente a 8,9% do salário mínimo vigente na época dos fatos.
+7. Em que pese o valor relativamente reduzido do bem furtado, a reincidência específica justifica o prosseguimento da atividade punitiva estatal.
+8. Furto famélico é hipótese específica de estado de necessidade, excludente de ilicitude prevista no art. 24 do CP, caracterizado pela subtração de alimento em benefício de pessoa que se encontra em situação urgente de sobrevivência.
+9. Independentemente do valor bem, para ser considerado famélico, a subtração deve recair sobre alimento consumível imediatamente em situação em que o agente não tenha alternativas para garantir a sua subsistência naquele momento - ponto de contato com a inexigibilidade de conduta adversa.
+10. Neste processo, as instâncias ordinárias constataram que o agente trabalhava de carteira assinada e que a carne furtada não poderia ser consumida imediatamente, circunstâncias incompatíveis com o furto famélico.
+11. Agravo regimental não provido. (e-STJ, fls. 530-531)
+Em seu arrazoado, o embargante aponta como paradigma o acórdão da Quinta Turma desta Corte proferido no AgRg no AREsp n. 2.216.975-RN, deste Relator. Aponta semelhança fática entre os julgados que trataram sobre a aplicação do princípio da insignificância, com soluções divergentes, entretanto.
+Requer o provimento dos embargos a fim de que o embargante seja absolvido.
+É o relatório.
+Decido.
+Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência objetivam uniformizar os julgados, em recurso especial, entre os seus órgãos fracionários. Como cediço, para a comprovação da divergência, devem os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotar posicionamento dissonante quanto ao direito federal aplicável.
+Os embargos de divergência em recurso especial, ao tempo em que solucionam a lide, têm por finalidade possibilitarem ao Superior Tribunal de Justiça que resolva a discordância existente entre seus órgãos fracionários na interpretação de lei federal, com objetivo de uniformização da jurisprudência interna corporis.
+A presente hipótese trata de caso de aplicação ou não do princípio da insignificância em situações de furto de bem de pequeno valor. Em ambos os julgados houve referência à configuração ou não de furto famélico. No acórdão embargado, a questão foi devidamente rebatida para afastar a excludente do art. 24 do Código Penal, enquanto que no acórdão paradigma a menção se deu apenas como acréscimo de fundamentação para a aplicação do princípio da bagatela.
+De todo modo, o objeto da divergência cinge-se à aplicação do princípio da insignificância em casos aparentemente semelhantes.
+No acórdão embargado, não obstante o valor da coisa furtada - peça de carne, avaliada em R$ 118,15 (cento e dezoito reais e quinze centavos), equivalente a 8,9% do salário mínimo vigente na época dos fatos - foi considerada a reincidência específica do réu para justificar o prosseguimento da persecução criminal.
+No acórdão paradigma, no entanto, em não se tratando de réu reincidente, entendeu-se pela incidência do princípio da bagatela, considerando o pequeno valor da res furtiva - peças de carne avaliadas em R$ 60,00 (sessenta reais), com valor bem inferior a 10% do salário mínimo.
+Dentro desse contexto, não há similitude fática entre os julgado, não havendo divergência jurisprudencial a ser reconhecida.
+Diante do exposto, não admito os embargos.
+Publique-se. Intime-se.
+EMENTA
