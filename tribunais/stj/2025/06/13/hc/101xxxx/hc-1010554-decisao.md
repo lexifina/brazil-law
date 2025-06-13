@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARLON DA COSTA SILVA (denunciado pelo delito de tráfico de drogas, com apreensão de 211,61 g de cocaína), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Habeas Corpus n. 5072641-17.2025.8.21.7000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na gravidade abstrata do crime.
+Sustenta-se a existência de condições pessoais favoráveis, inclusive com a comprovação de registro formal de trabalho.
+Requer-se, no âmbito liminar e no mérito, a concessão da liberdade provisória, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que a conduta praticada pelo agente, concretamente considerada, revela expressiva periculosidade. Estava transportando considerável quantia de entorpecentes de elevado potencial de dependência, entre Municípios da região, na companhia de um adolescente, e, dado sinal de abordagem pela Brigada Militar, o indiciado desobedeceu. Conforme narrado pelo condutor, o inculpado "acelerou a motocicleta fugindo da abordagem, entrando na contramão da Rua Azul Cinta.". Ainda, disse que a "motocicleta em fuga adentrou uma rua, onde por diversas vezes jogou o veículo por cima de pedestres e carros a fim de dificultar a abordagem" (fls. 33/34).
+Nesse toar, entendo justificada a prisão, pela conjunção de fatores a revelar a maior periculosidade do acusado, quais sejam: 1) apreensão de 211,61 g de cocaína, 2) tráfico intermunicipal; 3) o envolvimento de adolescente na conduta ilícita; 4) desobediência ao comando da polícia para parar; e, 5) fuga na motocicleta na contramão, colocando em risco várias pessoas.
+Ora, o Superior Tribunal de Justiça possui jurisprudência consolidada dispondo que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Ademais, A periculosidade e os riscos sociais justificam a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga  ..  e o envolvimento de adolescente. (AgRg no HC 891.136/SP, de minha relatoria, Sexta Turma, julgado em 15/4/2024, DJe 18/4/2024) -(AgRg no HC n. 873.658/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ainda, o seguinte precedente: AgRg no RHC n. 213.238/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publiq ue-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
