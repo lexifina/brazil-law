@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se embargos de declaração opostos por R P PESSOA contra decisão unipessoal que conheceu do agravo para conhecer parcialmente e, nessa extensão, negou provimento ao recurso especial.
+Em suas razões recursais, a parte embargante sustenta que a decisão embargada não considerou que a sentença transitada em julgado reconheceu a tempestividade dos embargos de declaração, afastando a preclusão. Além disso, alega que não houve intimação dos advogados acerca da sentença. Alega, ainda, contradição na fundamentação da decisão que, afastou a violação ao art. 1.022 do CPC e entendeu "pela inadmissão do Recurso Especial quando a alegada violação dos Artigos 10, 218, §4º, e 507 do CPC, eis que o Acórdão recorrido não teria se manifestado quanto aos mesmos"  sic  (e-STJ fls. 270).
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na hipótese, a parte embargante alega, em síntese, a existência de violação ao art. 1.022 do CPC e que a decisão teria reconhecido a ausência de prequestionamento, embora tenha deixado de reconhecer omissão no acórdão recorrido, o que revelaria contradição. Sustenta, ainda, omissão e controvérsia relacionada à preclusão e à tempestividade.
+Tais alegações, no entanto, não configuram omissão, contradição ou obscuridade a justificar a oposição dos embargos de declaração. A decisão ora embargada examina de forma expressa a alegação de nulidade do acórdão por suposta violação ao art. 1.022 do CPC e conclui pela inexistência de vício. Não há, ainda, qualquer contradição entre incidência do óbice recursal de ausência de prequestionamento dos artigos apontados, visto que o TJMA enfrenta integralmente a controvérsia relativa à preclusão e à validade da intimação, aplicando o direito que entende cabível.
+No tocante à alegação de que "não houve qualquer manifestação do tribunal quando ao fato da sentença do juízo de piso ter reconhecido a tempestividade dos embargos de declaração", razão não assiste à embargante, conforme observa-se da fundamentação do acórdão (e-STJ fls. 73-75).
+No caso em apreço, o executado interpôs recurso intempestivo, o que impossibilita o seu processamento. Nesse contexto, a decisão que havia deferido esse pleito deve ser anulada, pois está eivada de vício insanável.
+Na leitura da decisão agravada, verifica-se que o juiz a quo, após verificar nulidade insanável de decisão anteriormente proferida, que conheceu dos embargos de declaração manejados de forma intempestiva, chamou o feito à ordem para torná-la sem efeito, assim como todos os atos dela subsequentes.
+Nas razões do presente recurso, o agravante defende a tempestividade na oposição dos referidos aclaratórios, uma vez que na publicação da sentença não constou o nome dos advogados habilitados na procuração de ID 28398925.
+Desse modo, entende o agravante que sendo nula a intimação da sentença, por inexistência do nome do advogado constituído, os embargos de declaração opostos não poderiam ser considerados intempestivos.
+(..)
+No caso em tela, observo que de fato na publicação da sentença embargada não constou o nome dos advogados constituídos, o que é causa de nulidade. Ocorre que, sendo relativa, operou o instituto da preclusão, pois o agravante não se manifestou na primeira oportunidade que falou nos autos, mas tão somente em sede deste agravo de instrumento.
+O acórdão proferido em agravo de instrumento, replica entendimento já que reverte o decidido na sentença quanto à tempestividade dos embargos, reconhecendo a ocorrência da preclusão com base nos elementos processuais constantes dos autos. Desse modo, embora a parte embargante sustente que a sentença reconhece a tempestividade, é evidente que tal decisão pode ser reapreciada em grau recursal, como ocorreu na espécie.
+Nesse Contexto, a pretensão da parte embargante consiste em rediscutir matéria já decidida de forma fundamentada, sem qualquer vício lógico ou de omissão, o que se mostra incabível nos estreitos limites do art. 1.022 do CPC.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
