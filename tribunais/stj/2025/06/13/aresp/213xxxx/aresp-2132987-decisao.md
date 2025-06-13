@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HELBOR EMPREENDIMENTOS S.A. contra a decisão que inadmitiu o recurso especial diante da ausência de violação dos arts. 485, VI, do Código de Processo Civil, 186, 187, 205, caput, 927, 944, 421 e 422 do Código Civil e da incidência da Súmula n. 7 do STJ (fls. 889-890).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Foram apresentadas contraminutas.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de responsabilidade civil de dano infecto cumulada com dano material e dano moral.
+O julgado foi assim ementado (fl. 735):
+Processual civil - ilegitimidade passiva "ad causam" - inconsistência - responsabilidade solidária das denunciadas, construtora e incorporadora, pelos prejuízos oriundos dos vícios estruturais do edifício exegese dos artigos 7º, parágrafo único, e 25, §1º, ambos do Código de Defesa do Consumidor.
+Processual civil - falta de interesse de agir - quitação ampla e geral outorgada ao ensejo da entrega das chaves a não alcançar vícios ocultos no imóvel - preliminar desabrigada.
+Apelação cível - direito de vizinhança - ação de dano infecto cumulada com reparatória por danos materiais e morais - inconformismo apresentado por ambas as litisdenunciadas, incorporadora e construtora - laudo técnico extrajudicial a informar a origem das infiltrações causa do desabamento do teto da cozinha - vício no sistema hidráulico acomodado na unidade dos acionados - deslize construtivo - responsabilidade solidária e objetiva das denunciadas - expiração do prazo da garantia contratual - irrelevância incidência do lapso prescricional decenal Súmula n. 194 do c. STJ - indenizatória material atrelada ao item "materiais perdidos" indevida - prejuízo moral evidenciado reparatória mantida em R$ 8.000,00 - sentença reformada recursos das denunciadas parcialmente providos.
+Os embargos de declaração opostos foram rejeitados (fls. 753-757 e 762-766).
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 485, VI, do Código de Processo Civil, pois a recorrente atua apenas como incorporadora do empreendimento, sendo que a empresa Serlam Incorporação e Construção Ltda. comprometeu-se a promover todos os reparos necessários após a entrega e durante o período de garantia das obras;
+b) 186, 187 e 927 do Código Civil, porquanto não foi comprovado que os danos alegados pelos agravados são oriundos do empreendimento, razão pela qual não há que se falar na manutenção das condenações a título de dano material e moral;
+c) 944 do Código Civil, visto que a indenização é medida segundo a extensão do dano, e inexistente esse, não há que se falar em condenação indenizatória.
+Requer o provimento do recurso para que se reforme o acórdão recorrido.
+Foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+Na origem, trata-se de apelação cível interposta por Helbor Empreendimentos S.A. e SN Engenharia de Eletricidade Eireli, contra sentença proferida em favor de Marco Antônio Pires Melo, Adriane Chagas Melo, Leandro Panarielo Paiva e Juliene Alves, como apelados, na ação de dano infecto cumulada com reparatória por danos materiais e morais, decorrente de infiltrações no teto da cozinha de seu imóvel, que culminaram no desabamento do teto.
+No caso, a perícia extrajudicial indicou que o vazamento na tubulação hidráulica da unidade 74, de propriedade dos acionados, foi a causa das infiltrações.
+As apelantes contestaram a sentença que havia julgado procedente a ação e a lide secundária, alegando ilegitimidade passiva e falta de interesse de agir.
+A Helbor Empreendimentos S.A. argumentou que os vícios eram de responsabilidade exclusiva da construtora, conforme contrato de empreitada global, e que os autores haviam dado quitação plena e geral ao receberem as chaves.
+A SN Engenharia de Eletricidade Eireli sustentou que o vazamento foi causado por culpa exclusiva dos acionados e que o prazo de garantia contratual já havia expirado.
+Ao julgar o recurso de apelação, o Tribunal de Justiça do Estado de São Paulo rejeitou as preliminares de ilegitimidade passiva e falta de interesse de agir, afirmando que as denunciadas são solidariamente responsáveis pelos prejuízos causados aos consumidores, conforme o Código de Defesa do Consumidor.
+Assim, o tribunal reconheceu o nexo de causalidade entre o vazamento e os danos reclamados e manteve a condenação por danos materiais e morais, com amparo na responsabilidade objetiva das empresas envolvidas na cadeia de consumo e na aplicação do prazo prescricional decenal para vícios ocultos, ajustando apenas a indenização referente aos "materiais perdidos".
+Nesse contexto, a revisão das premissas adotadas pelo órgão de origem a respeito da alegada ilegitimidade passiva da parte recorrente, da ausência de provas dos danos e da extensão do dano é obstada pela incidência da Súmula n. 7 do STJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EXISTÊNCIA DE DÉBITOS FISCAIS DO IMÓVEL, DE ANOS ANTERIORES À AQUISIÇÃO DO BEM. ILEGITIMIDADE PASSIVA DA CORRETORA IMOBILIÁRIA. QUESTÃO SOLUCIONADA A PARTIR DAS PROVAS DOS
+AUTOS. SÚMULAS N. 05 e 7 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N. 7 DO STJ. QUANTUM FIXADO COM RAZOABILIDADE. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCILMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais, alegando a autora que após a formalização do contrato de compra e venda entre as partes, veio a descobrir a existência de débitos fiscais do imóvel, relativos a períodos anteriores à data da negociação.
+2. No caso, a conclusão do Tribunal estadual, no sentido de que as corretoras falharam quanto ao dever de informação, daí se justificar a sua responsabilidade solidária com o promitente vendedor pelos danos causados à compradora, decorreu da análise das circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade da promitente-compradora, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, nos termos do que dispõe a Súmula n. 7 do STJ.
+4. O valor fixado a título de dano extrapatrimonial, porque arbitrado com fundamento no arcabouço fático-probatório carreado aos autos, só pode ser alterado em hipóteses específicas, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorreu no caso.
+5. Agravo conhecido para conhecer, em parte, do recurso especial, negando-lhe provimento. (AREsp n. 2.829.404/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios, em favor da parte ora recorrida, de 10% para 13% sobre o valor da condenação.
+EMENTA
