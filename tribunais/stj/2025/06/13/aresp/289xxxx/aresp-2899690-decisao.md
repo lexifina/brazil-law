@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE VIÇOSA contra decisão do Tribunal de Justiça do Estado de Alagoas, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 124):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DISPENSA DO RECOLHIMENTO DO PREPARO RECURSAL. RESOLUÇÃO TJAL Nº 19/2007 E DO §1º DO ART. 1.007 DO CPC. PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL REJEITADA. RECURSO DE APELAÇÃO QUE DIALOGA COM A SENTENÇA. INTELIGÊNCIA DOS INCISOS II E III DO ART. 1.010 DO CPC. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA REJEITADA. PARTE APELANTE QUE INTERPÔS O RECURSO CABÍVEL PARA A OPOSIÇÃO A DECISÃO JUDICIAL IMPUGNADA. INTELIGÊNCIA DO §1º DO ART. 203 C/C ART. 1.009, AMBOS DO CPC. CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE PARA FINS DE AFERIÇÃO DA LEGITIMIDADE ATIVA AD CAUSAM. PRECEDENTE DO STJ. AUSÊNCIA DE CAPACIDADE DE SER PARTE DA PARTE APELADA MANTIDA. AUSÊNCIA DE PERSONALIDADE JURÍDICA E JUDICIÁRIA. PRECEDENTE DO STJ. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CDA QUANDO IMPLICAR EM MODIFICAÇÃO DO SUJEITO PASSIVO DA EXECUÇÃO. INTELIGÊNCIA DA SÚMULA STJ Nº 392. MANUTENÇÃO DA SENTENÇA RECORRIDA. INTELIGÊNCIA DO ART. 17 C/C INCISO VI DO ART. 485, AMBOS DO CPC. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS CONFORME OS PARÂMETROS PREVISTOS NO §3º DO ART. 85 DO CPC C/C TEMA DE RECURSO REPETITIVO Nº 1.076 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM RAZÃO DESTE RECURSO. INTELIGÊNCIA DO §11 DO ART. 85 DO CPC. INCIDÊNCIA DA CORREÇÃO MONETÁRIA A PARTIR DO AJUIZAMENTO. INTELIGÊNCIA DA SÚMULA STJ Nº 14. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 163/167).
+No recurso especial (e-STJ fls. 176/185), a parte recorrente aponta violação do art. 489, § 1º, IV, do CPC, alegando que "resta cristalino que a matéria arguida demanda a dilação probatória, a fim de verificar a veracidade das alegações, o que seria incompatível pela via eleita, com base na Súmula 393 do STJ" (e-STJ fl. 182).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o recurso especial por entender incidente o óbice da Súmula 83 do STJ (e-STJ fls. 213/216), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 228/234).
+A contraminuta foi apresentada.
+Passo a decidir.
+Sobre o tema recursal, verifica-se que esta Corte, em julgamento de recurso repetitivo, firmou a tese segundo a qual "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Tema 104 do STJ).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
