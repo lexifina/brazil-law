@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por RAIZZA SOUSA MATOS (assistente de acusação) contra decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso, que revogou a prisão preventiva de MAHAKARI KARAJA.
+Consta dos autos que o indiciado MAHAKARI KARAJÁ foi preso em flagrante no dia 18 de maio de 2025, pela suposta prática de crime ainda em apuração, relacionado ao desaparecimento de Pedro Messias Sousa Matos. A prisão em flagrante foi homologada e, posteriormente, convertida em preventiva.
+A defesa impetrou habeas corpus perante a Corte estadual, que deferiu o pedido liminar para conceder a liberdade provisória ao indiciado.
+Alega a recorrente, na qualidade de assistente de acusação, que a concessão de liberdade provisória ao paciente não observou os requisitos legais do art. 312 do Código de Processo Penal. Sustenta que há elementos concretos nos autos que evidenciam o risco à instrução criminal e à ordem pública, destacando-se: (i) coação de testemunhas, inclusive sua esposa, mediante mensagens com orientações para omissão de fatos relevantes; (ii) existência de vídeos encontrados no aparelho celular do investigado que tratariam de instruções sobre "como matar uma pessoa"; (iii) declarações de terceiros (piragueiros) apontando que o paciente teria ocultado a identidade de comparsas, apresentando-os como "amigos"; (iv) destruição de mensagens compromissoras recuperadas pela autoridade policial; (v) contradições reiteradas nos depoimentos prestados, que dificultariam a localização da vítima desaparecida; (vi) periculosidade concreta, evidenciada pelo comportamento intimidatório e a possibilidade de evasão para local de difícil acesso (região de mata).
+Argumenta que a decisão impugnada baseou-se em análise abstrata da situação, sem considerar os indícios específicos de obstrução da justiça e da tentativa de prejudicar a colheita de provas. Ressalta, ainda, que a gravidade dos fatos, a conduta do indiciado durante as investigações e o risco de reiteração criminosa justificam a custódia cautelar.
+Defende que as medidas cautelares impostas  como proibição de ausência da comarca e comparecimento aos atos do processo  são insuficientes diante da realidade do caso concreto, pois o indiciado não possui residência fixa adequada e não colabora com as investigações.
+Diante disso, requer o conhecimento e provimento do recurso ordinário em habeas corpus, a fim de cassar integralmente a decisão que concedeu liberdade provisória ao indiciado MAHAKARI KARAJÁ e, liminarmente, determinar a decretação de sua prisão preventiva, com fundamento nos arts. 312, caput, I e II, e 313, § 1º, do Código de Processo Penal. Requer, subsidiariamente, a decretação ex officio da prisão preventiva.
+É o relatório. Decido.
+O recurso não merece ser conhecido.
+Isso porque o habeas corpus constitui instrumento destinado à proteção da liberdade de locomoção, sendo vocacionado ao enfrentamento de situações de ilegalidade ou abuso de poder que configurem constrangimento ilegal ao direito de ir e vir.
+Com efeito, revela-se inadequado o manejo do habeas corpus para a postulação de decretação de prisão preventiva, pois tal medida representa providência de restrição à liberdade, não sendo compatível com o objeto da ação constitucional, que é eminentemente protetivo.
+O pleito de decretação da prisão preventiva no bojo de habeas corpus, ainda que sob a forma de recurso ordinário, subverte a lógica do instrumento, cujo escopo é a restauração ou a preservação da liberdade frente a coações ilegais. Não se cogita, portanto, o uso do habeas corpus para impor nova coação  qual seja, a prisão do indiciado  sob pena de violação da sua finalidade e da sistemática processual penal.
+Assim, diante da manifesta inadequação da via eleita para o pedido formulado, impõe-se o não conhecimento do recurso ordinário em habeas corpus.
+A propósito, cita-se :
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ARQUIVAMENTO JUDICIAL DO INQUÉRITO POLICIAL. VÍTIMA DE SUPOSTO ESTELIONATO. DESTRANCAMENTO. PRETENSÃO INCABÍVEL NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus somente é cabível para afastar ilegalidade ou constrangimento ilegal que exponha a risco a liberdade de locomoção do indivíduo.
+2. No caso, a vítima de suposto crime de estelionato pretende destrancar o inquérito policial arquivado via ação mandamental de habeas corpus. Inadequação da via.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 654.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021.)
+Ante o exposto, nego seguimento ao recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
