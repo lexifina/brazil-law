@@ -1,0 +1,69 @@
+DECISÃO
+Cuida-se de agravo interno interposto por HAMILTON ROLEMBERG NASCIMENTO NETO contra decisão da Presidência desta Corte Superior que não conheceu do recurso especial (fls. 462-466).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim resumido (fls. 357-358):
+Processo Civil - Cumprimento de sentença - Extinção sem mérito - Falta de interesse processual - Apelação Cível - Alegada necessidade de suspensão e não extinção - Inocorrência - Crédito que deve ser habilitado nos autos da Recuperação Judicial da executada/Recorrida - Sentença mantida. I - O Superior Tribunal de Justiça "(..) possui jurisprudência solidificada no sentido de que o crédito oriundo de responsabilidade civil por fato preexistente ao momento do deferimento da recuperação judicial deve ser habilitado no quadro geral de credores da sociedade em recuperação judicial, ainda que a obrigação seja ilíquida no momento do ajuizamento da ação judicial" (REsp 1659032/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/03/2019, DJe 26/03/2019); II - O fato de haver pedido de adjudicação de bem imóvel, objeto da lide, não impede a extinção do processo sem resolução do mérito; III - Recurso conhecido e desprovido.
+Em suas razões recursais, a parte agravante defende que (fls. 474-476):
+Conforme antecipado no tópico anterior, a Exma. Relatora manteve trancado o recurso especial interposto pela agravante, por entender além de não ter havido impugnação específica, quanto aos dois primeiros tópicos, o terceiro não trouxe divergência jurisprudencial.
+Contudo, a agravante entende, data vênia, que o respeitável julgador quedou em pequeno erro, ao analisar os pressupostos de admissibilidade do citado recurso.
+ ..
+Ao que se pode observar, é que a peça apresentada pela agravante debateu, de forma minuciosa, todas as razões que levam a reforma da decisão, inclusive fazendo da reprodução de um trecho da decisão.
+Além disso, é certo que a matéria veiculada na presente demanda não se encontra superada por iterativa, notória e atual jurisprudência deste C. Turma Superior, motivo pelo qual há que ser conhecido o recurso especial, eis que ausente qualquer óbice ao seu processamento.
+É, no essencial, o relatório.
+Com razão a parte agravante quanto à não incidência da Súmula 284/STF, motivo pelo qual, exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno do STJ, torno sem efeito a decisão de fls. 462-466.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação recursal não merece prosperar.
+No recurso especial, a parte recorrente alega violação do art. 6º, II, da Lei n. 11.101/2005 sustentando que (fls. 376-378):
+É cristalina a violação do Acórdão combatido ao art. 6º, II, da Lei nº 11.101/05, isto porque o referido artigo dispõe que o deferimento do processamento da recuperação judicial implica na suspensão da execução, sendo mera faculdade do exequente habilitar seu crédito ou não, in verbis.
+ ..
+O que não ocorreu no Cumprimento de Sentença em tela, haja vista que a Nobre Magistrada de piso proferiu sentença extintiva, sendo sua decisão ratificada pelo Tribunal, conforme Acórdão acima colacionado.
+ ..
+Ante tais argumentos, impõe-se reconhecer a violação ao art. 6º, II, da Lei nº 11.101/05, haja vista que este dispositivo dispõe acerca da suspensão do cumprimento de sentença, e não a sua extinção. (grifei)
+No mais, alega violação do art. 6º, § 4º, da Lei n. 11.101/2005, argumentando que (fls. 378-379):
+O Acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado de Sergipe também viola o art. 6º, § 4º, da Lei nº 11.101/05, isto porque o referido dispositivo dispõe que deferido o processamento da recuperação judicial deve haver a suspensão de todas as ações executivas pelo prazo de 180 (cento e oitenta) dias, contados a partir do deferimento do processamento da recuperação judicial, e após o referido prazo, os credores terão o direito de dar prosseguimento à execução individual, independente de decisão judicial, vejamos:
+ ..
+Desta feita, ultrapassado o prazo de 180 dias previsto no artigo 6º, §4º, da Lei nº 11.101/2005, sem a aprovação do plano de recuperação judicial, deve ser restabelecido o direito dos credores de continuar suas execuções contra o devedor.
+Cabe esclarecer que no caso dos autos, o deferimento do processamento da recuperação judicial da empresa Recorrida se deu a mais de 180 dias. Além do mais, de análise dos autos do processo de recuperação (processo nº 202011402061) não há decisão de aprovação do plano de recuperação, tão pouco decisão deferindo a prorrogação do stay period.
+Mesmo assim, a Nobre magistrada de primeiro grau proferiu sentença extinguindo o cumprimento de sentença sem resolução do mérito sob o fundamento interesse processual, decisão esta que foi mantida através do Acórdão ora combatido.
+Assim resta manifestamente evidente à violação ao art. 6º, § 4º, da Lei nº 11.101/05, já que decorrido o prazo de 180 dias previsto no dispositivo supra, a execução deve ter seu regular prosseguimento. (grifei)
+Por fim, defende a existência de divergência jurisprudencial.
+No que concerne à alegada violação do art. 6º, II, da Lei n. 11.101/2005, destaca-se que a jurisprudência desta Corte Superior firmou-se no seguinte sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. CONVOLAÇÃO EM FALÊNCIA. EXTINÇÃO DO PROCESSO EXECUTIVO. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. DESCABIMENTO.
+1. O entendimento desta Corte Superior aponta na direção de que, após a concessão da recuperação judicial da devedora, as execuções individuais contra ela ajuizadas devem ser extintas, e não apenas suspensas. Isso porque "não há possibilidade de a execução individual de crédito constante no plano de recuperação - antes suspensa - prosseguir no juízo comum, mesmo que haja inadimplemento posterior, porquanto, nessa hipótese, se executa a obrigação específica constante no novo título judicial ou a falência é decretada, caso em que o credor, igualmente, deverá habilitar seu crédito no juízo universal" (REsp 1.272.697/DF, Quarta Turma, DJe 18/6/2015).
+2. Inviável a majoração dos honorários advocatícios, uma vez que não foram arbitrados em desfavor da agravante pelo Tribunal de origem.
+3. Agravo interno parcialmente provido.
+(AgInt no REsp n. 2.087.833/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/12/2023, DJe de 15/12/2023, grifei.)
+DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO. NOVAÇÃO. EXECUÇÕES INDIVIDUAIS AJUIZADAS CONTRA A RECUPERANDA. EXTINÇÃO.
+1. A novação resultante da concessão da recuperação judicial após aprovado o plano em assembleia é sui generis, e as execuções individuais ajuizadas contra a própria devedora devem ser extintas, e não apenas suspensas.
+2. Isso porque, caso haja inadimplemento da obrigação assumida por ocasião da aprovação do plano, abrem-se três possibilidades: (a) se o inadimplemento ocorrer durante os 2 (dois) anos a que se refere o caput do art. 61 da Lei n. 11.101/2005, o juiz deve convolar a recuperação em falência; (b) se o descumprimento ocorrer depois de escoado o prazo de 2 (dois) anos, qualquer credor poderá pedir a execução específica assumida no plano de recuperação; ou (c) requerer a falência com base no art. 94 da Lei.
+3. Com efeito, não há possibilidade de a execução individual de crédito constante no plano de recuperação - antes suspensa - prosseguir no juízo comum, mesmo que haja inadimplemento posterior, porquanto, nessa hipótese, se executa a obrigação específica constante no novo título judicial ou a falência é decretada, caso em que o credor, igualmente, deverá habilitar seu crédito no juízo universal.
+4. Recurso especial provido.
+(REsp n. 1.272.697/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 2/6/2015, DJe de 18/6/2015, grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. NOVAÇÃO DO CRÉDITO EXEQUENDO EM RAZÃO DA APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA DEVEDORA. EXTINÇÃO DA EXECUÇÃO. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IRRELEVÂNCIA. EXTINÇÃO DO INCIDENTE. SITUAÇÃO DE RESPONSÁVEL QUE NÃO SE CONFUNDE COM COOBRIGADO OU DEVEDOR SOLIDÁRIO.
+1. A novação resultante da concessão da recuperação judicial, após aprovado o plano em assembleia, é sui generis, devendo as execuções individuais ajuizadas contra a própria devedora serem extintas, e não apenas suspensas. Precedentes específicos do STJ.
+2. A decisão que acolhe o pedido de desconsideração da personalidade jurídica tem natureza constitutiva e atribui aos sócios a responsabilidade patrimonial pelas dívidas da sociedade.
+3. AGRAVO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 1.867.278/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022, grifei.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No que concerne à alegada violação do art. 6º, § 4º, da Lei n. 11.101/2005, observa-se que o Tribunal de origem não abordou, sequer implicitamente, a tese levantada e não foram opostos embargos declaratórios visando obter pronunciamento judicial acerca do tema.
+Diante disso, verifica-se que não restou cumprido o necessário e indispensável prequestionamento da matéria, motivo pelo qual incide, no caso, o enunciado das Súmulas n. 282/STF e 356/STF.
+Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS QUE SE INSEREM, NECESSARIAMENTE, NO ÂMBITO DE COBERTURA DA APÓLICE. PRECEDENTE DA SEGUNDA SEÇÃO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. COBRANÇA DE MULTA DECENDIAL. TEMA NÃO PREQUESTIONADO. SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Conforme orientação firmada no âmbito da Segunda Seção, no contrato de seguro habitacional obrigatório vinculado ao SFH, a exclusão da responsabilidade da seguradora deve ficar limitada aos vícios decorrentes de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, uma vez que a expectativa do mutuário é receber o bem imóvel próprio e adequado ao uso a que se destina, não sendo compatível com a garantia de segurança esperada pelo segurado a exclusão de cobertura dos vícios de construção (REsp n. 1.804.965/SP, relatora Ministra NANCY ANDRIGHI, Segunda Seção, julgado aos 27/5/2020, DJe de 1º/6/2020). Incide, à hipótese, a Súmula n. 568 do STJ.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento. Incidência dos óbices das Súmulas nºs 282 e 356 do STF, por analogia.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(AREsp n. 2.788.186/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Quanto alegada divergência jurisprudencial, destaca-se que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, motivo pelo qual não se deve conhecer do recurso, no ponto.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEQUENA PROPRIEDADE RURAL. ARRENDAMENTO. SUSTENTO DO DEVEDOR E SUA FAMÍLIA. IMPENHORABILIDADE. AFASTADA. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. O tribunal de origem decidiu pela penhorabilidade do imóvel rural, sob o fundamento de que não restou demonstrado nos autos que o valor auferido com o arrendamento da terra é revertido em proveito da subsistência do devedor e sua família. A inversão do julgado esbarra no óbice da Súmula nº 7/STJ.
+2. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, é inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+3. Quando o recurso especial interposto pela alínea "a" do permissivo constitucional é obstado em razão da incidência da Súmula nº 7/STJ, impõem-se o reconhecimento da ausência de similitude fática quanto ao dissídio jurisprudencial.
+4. A multa do art. 1.021, § 4º, do CPC não é consequência automática do não conhecimento ou do não provimento unânime do agravo interno quando em virtude do regular direito de recorrer e não verificada hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.701.662/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de condenar em honorários recursais em razão da ausência de fixação
+da verba na origem
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568/STJ. ALEGAÇÃO DE TESE NÃO ANALISADA PELA CORTE DE ORIGEM. SÚMULAS 282/STF E 356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
