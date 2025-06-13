@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por GINALDA AYA MIZUNO à decisão de fls. 205/206, que não conheceu do recurso.
+Sustenta a parte embargante:
+Primeiramente informa que a procuração foi juntada as fls. 197 (fl. 209).
+Aduz ainda que:
+Outrossim, o recurso é tempestivo, tendo em vista que em São Paulo, houve feriado em 9 de julho de 2024 e ponte no dia 8, conforme o PROVIMENTO CSM Nº 2.728/2023, que segue em anexo. Então formalmente o recurso foi interposto tempestivamente.
+Outrossim, diante do exposto requer a reconsideração do despacho de fls. com base nos seguintes princípios e dispositivos:
+ ..
+Ainda informa, que a matéria recursal é matéria de ordem publica em que, prazo expresso em lei (a lei estabelece 15 dias e foi dado 10 dias de prazo sem qualquer justificativa) não foi respeitado pelo Juízo de primeiro grau, inviabilizando defesa plena de laudo avaliativo, prejudicando a recorrente uma vez que viola direitos básicos como ampla defesa e devido processo legal (fls. 209/210).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. DANIEL RUDRA FERNANDES SILVA.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 197/198, trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, tendo em vista que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Quanto à tempestividade do Recurso Especial, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942 /SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que o feriado nacional não precisa ser comprovado. Porém, os dias 08.07.2024 e 09.07.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados.
+Por essa razão, em observância à nova redação do art. 1.003, §6º do CPC, alterada pela Lei n. 14.939/2024, a parte foi regularmente intimada para regularizar a tempestividade, conforme certidão de fl. 190. Contudo, não o fez, porquanto deixou o prazo transcorrer in albis.
+Além disso, "O dia 9 de julho - data da Revolução Constitucionalista de 1932 - é um feriado estadual, portanto, não dispensa comprovação de que o expediente do tribunal foi suspenso. Precedentes." (AgInt na TutPrv no AREsp 2185045/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 15.9.2023).
+Somente agora, em sede destes aclaratórios, a parte trouxe o provimento do Tribunal de Justiça do Estado de São Paulo referente a suspensão de prazo, com o fim de comprovar a tempestividade, no entanto, não pode ser aceito, em razão da preclusão.
+Note-se ainda que nessas condições, de desídia da parte, não há como aplicar o princípio da primazia do mérito, conforme entendimento desta Corte Superior:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO ENTRE JULGADO QUE NÃO ULTRAPASSOU O MÉRITO E PARADIGMA CUJO CERNE DA CONTROVÉRSIA RESTOU SOLUCIONADO. NECESSIDADE DE CONFRONTO ENTRE ARESTOS COM O MESMO GRAU DE COGNIÇÃO. INCIDÊNCIA DA SÚMULA N.315 /STJ, POR ANALOGIA. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DO MÉRITO. INAPLICABILIDADE NA ESPÉCIE, QUANDO NÃO OBSERVADOS PELO RECORRENTE OS REQUISITOS DE ADMISSIBILIDADE DO RECURSO UNIFORMIZADOR. AGRAVO IMPROVIDO.
+1.  ..
+3. Não se tem dúvida de que o princípio da primazia do julgamento do mérito, consagrado no novel Código de Processo Civil, deve ser prestigiado e almejado em todo processo ajuizado perante o Poder Judiciário.
+4. Contudo, não pode ser olvidado que cabe à parte, ao litigar, observar as regras instrumentais traçadas por esse mesmo diploma legal, que impõe responsabilidades a todos os envolvidos na resolução da controvérsia, não podendo ser utilizado o princípio da primazia do julgamento do mérito para se desestabilizar a relação processual em favor do ora recorrente que, ao interpor os embargos de divergência, não observou um dos requisitos de admissibilidade deste recurso de índole extremamente técnica. Precedente da Primeira Seção.
+5. Agravo interno improvido. (AgInt nos EAREsp 754.434/RS, Rel. Ministro Jorge Mussi, Corte Especial, DJe de 6.2.2018)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
