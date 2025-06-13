@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por GIANPIETRO SECCI à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  em nenhum momento se pretendeu que fosse feita a reanálise de qualquer prova colacionada aos autos, uma vez que as ilegalidades aqui tratadas são evidentes e podem ser constatadas de plano, bem como ter ficado demonstrado já no próprio recurso que a interpretação dada pelo Tribunal a quo NÃO estava de acordo com a posição consolidade deste Superior Tribunal de Justiça, foi interposto o consequente Agravo em Recurso Especial, no intuito de que a matéria aventada em sede recursal fosse apreciada por esta Corte Superior (fls. 1445/1555).(fl. 1782).
+ ..  muito embora a decisão embargada reconheça que todos os fundamentos utilizados pelo Tribunal a quo para não admitir o Recurso Especial foram atacados pelos argumentos apresentados, optou-se pelo seu não conhecimento meramente em função de que a contradita não teria ocorrido de forma "efetiva".
+ ..
+Note-se que partir do texto da decisão ora guerreada não é possível inferir qual seria esse suposto grau de "efetividade" ou "concretude" não alcançado pelo recurso que justificaria de plano o seu não conhecimento, uma vez que, na verdade, todos os fundamentos da decisão de não admissibilidade foram devidamente atacados pelo correspondente Agravo, não sendo justificável que se impeça a análise de seu mérito com base em parâmetros evidentemente obscuros e carentes de qualquer definição concreta.
+Não suficiente a evidente obscuridade anteriormente narrada, note-se que foi a decisão igualmente OMISSA, uma vez que deixou de tratar sobre petitório de fls. 1769/1772 em que se solicitou o retorno dos autos ao Juízo de piso para a propositura de Acordo de Não Persecução Penal em favor do EMBARGANTE, ante o cumprimento integral dos requisitos do artigo 28-A do Código de Processo Penal. (fl. 1783)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, Súmula 7/STJ e Súmula 83/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, co nsubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
