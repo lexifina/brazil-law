@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARKA VEÍCULOS LTDA contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/3/2025.
+Concluso ao gabinete em: 5/5/2025
+Ação: de reparação de danos materiais e morais, ajuizada por TRANSFRANCHINI TRANSPORTES LTDA - ME em face de CERBADIESEL PEÇAS E SERVIÇOS LTDA; MARKA VEÍCULOS LTDA. e VOLKSWAGEN DO BRASIL.
+Sentença: Julgou parcialmente procedentes os pedidos para condenar as rés CERBADIESEL PEÇAS E SERVIÇOS LTDA. e MARKA VEÍCULOS LTDA., de forma solidária, ao pagamento de indenização pelos danos materiais sofridos pela parte autora.
+Acórdão: não conheceu o recurso da autora e negou provimento aos recursos das corrés, nos termos da seguinte ementa:
+BEM MÓVEL VÍCIO EM VEÍCULO AUTOMOTOR INCÊNDIO NO VEÍCULO, ENQUANTO ESTAVA SENDO CONDUZIDO EM ESTRADA AÇÃO INDENIZATÓRIA A TÍTULO DE DANOS MORAIS E MATERIAIS SENTENÇA DE PARCIAL PROCEDÊNCIA Apelo da empresa autora e de duas das rés Recurso da autora deserto Pedido de concessão da gratuidade de justiça indeferido Determinação de complementação do preparo Autora quedou-se inerte, limitando-se a formular mero pedido de parcelamento das custas processuais devidas Descabimento Pedido de parcelamento que não suspende ou interrompe o prazo Deserção caracterizada Apelos da corré Marka e da corré Cerbadiesel Descabimento Alegações formuladas que se mostram incapazes de alterar o conteúdo decisório da sentença de primeiro grau Adequada a solução emprestada à lide, impassível de reparos Sentença mantida nos termos do art. 252 do RITJ Majoração da verba honorária Recurso da autora não conhecido, e não providos os recursos das corrés. (e-STJ Fl. 963)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º IV, do CPC, 252 do Regimento Interno do TJ/SP. Sustenta que "ratificação dos fundamentos da sentença, sem a devida apreciação de todos os pontos suscitados pela recorrente, viola o dever de fundamentação adequado e suficiente" (e-STJ Fl. 993). Contesta a aplicação da teoria finalista mitigada para estender a proteção do CDC à recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+De início, é assente na jurisprudência do STJ que o reconhecimento da negativa de prestação jurisdicional exige a prévia oposição dos embargos de declaração, de forma a compelir a Corte estadual a sanar os vícios, esgotando a instância ordinária, o que não ocorreu no caso. Nesse sentido: AgInt nos EDcl no REsp 1880012/SP, 4ª Turma, DJe 23/11/2020; EDcl no AgInt no REsp 1659455/RS, 2ª Turma, DJe 14/08/2018; e EDcl no REsp 1593380/CE, 3ª Turma, DJe 24/11/2016.
+No caso dos autos, a parte agravante não opôs embargos de declaração para sanar eventual negativa de prestação jurisdicional quanto à ratificação os fundamentos da sentença pelo TJ/SP, o que atrai a incidência da Súmula 284/STF.
+- Da violação ao art. 252 do Regimento Interno do TJ/SP
+A parte recorrente aponta suposta violação ao art. 252 do Regimento Interno do TJ/SP. Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88. Nesse sentido: EDcl no REsp 1.726.563/SP, Segunda Seção, DJe 27/9/2019; REsp 1.979.120/SP, 3ª Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, 4ª Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, 4ª Turma, DJe 8/4/2022.
+Logo, quanto ao ponto, o recurso não merece ser admitido.
+- Da fundamentação deficiente
+É imprescindível que no recurso especial sejam apontadas com precisão as violações aos dispositivos legais indicados como infringidos. A parte interessada deve evidenciar de forma clara e objetiva os dispositivos supostamente violados, além de apresentar as razões que justifiquem a alegada violação.
+No que se refere à controvérsia sobre a aplicação do Código de Defesa do Consumidor, à alegada ausência de terceirização dos serviços e à responsabilidade exclusiva da CERBADIESEL PEÇAS E SERVIÇOS LTDA, a fundamentação recursal mostra-se deficiente, uma vez que a recorrente deixou de indicar os dispositivos da legislação infraconstitucional que sustentariam sua tese, o que autoriza, por analogia, a aplicação do óbice previsto na Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro o percentual dos honorários a que condenada anteriormente em 2% (dois por cento), observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PRÉVIA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA 284/STF. VIOLAÇÃO AO REGIMENTO INTERNO DO TRIBUNAL ESTADUAL. INCABÍVEL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Ação de reparação de danos materiais e morais.
+2. O reconhecimento da negativa de prestação jurisdicional exige a prévia oposição dos embargos de declaração, de forma a compelir a Corte de origem a sanar os vícios, esgotando a instância ordinária. Incidência da Súmula 284/STF.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+5. Agravo conhecido. Recurso especial não conhecido.
