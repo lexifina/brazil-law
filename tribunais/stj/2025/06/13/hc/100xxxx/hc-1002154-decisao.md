@@ -1,0 +1,90 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MATHEUS KAINAN GOMES DO SACRAMENTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da APELAÇÃO CRIMINAL n. 1502901-81.2024.8.26.0564.
+Extrai-se dos autos q ue o paciente foi condenado à pena de 1 ano e 3 meses de reclusão, no regime inicial fechado, além do pagamento de 12 dias-multa, pela prática do crime tipificado no art. 180, caput, do Código Penal - CP (fls. 17/31).
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, nos termos do acórdão que restou assim ementado (fl. 8):
+"APELAÇÃO. Receptação dolosa. Pleito de absolvição por insuficiência de provas. Agente confessou ter adquirido a motocicleta mesmo sabendo de sua origem ilícita. Confissão encontra respaldo com o restante da prova produzida. Condenação mantida. Apelo improvido".
+No presente writ, a defesa sustenta que a pena-base do paciente foi indevidamente aumentada em 1/4 acima do mínimo legal devido a uma única circunstância judicial desfavorável, os maus antecedentes, contrariando o entendimento do Superior Tribunal de Ju stiça que estabelece a fração de aumento de 1/6 para cada vetorial negativa.
+Argumenta que o regime inicial de cumprimento de pena é desproporcional, considerando que o paciente foi condenado à pena 1 ano e 3 meses de reclusão por crime sem violência ou grave ameaça, e que o Superior Tribunal de Justiça já aplicou o regime semiaberto para réus reincidentes com pena inferior a 4 anos.
+Requer, em liminar e no mérito, a concessão da ordem para que seja redimensionada a pena-base e fixado o regime inicial semiaberto.
+Indeferido o pedido liminar (fls. 43/44), o Ministério Público Federal manifestou-se pela concessão parcial da ordem apenas para modificar o regime inicial de cumprimento de pena para o regime semiaberto (fls. 51/55).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A pena-base do paciente foi fixada na sentença condenatória nos seguintes termos - o que foi mantido pelo Tribunal de origem (grifos nossos):
+"As circunstâncias do artigo 59 não são totalmente favoráveis ao acusado.
+MATHEUS apresenta má conduta social.
+Ao confessar o crime de receptação dolosa simples em Juízo, MATHEUS admitiu que se dedicava à prática de crimes como meio de vida.
+Tanto assim que havia praticado crime de roubo em data anterior (10/09/23), pelo qual foi condenado irrecorrivelmente, quando perpetrou o delito de receptação dolosa apurado nestes autos (autos nº 1520194-98.23, que tramitou na 2ª Vara Criminal de São Bernardo do Campo. Trânsito em julgado em 18/07/24, cf. certidão criminal de págs.362/368).
+Também tinha praticado o crime de latrocínio consumado em 03 de dezembro de 2023 (autos nº 1528673-80.23, em trâmite nesta 5ª Vara Criminal de São Bernardo do Campo. Foi condenado à pena de 27 anos, 02 meses e 20 dias de reclusão em Primeira Instância).
+Ainda foi condenado por crime de receptação dolosa simples perpetrado em data anterior (29/11/23) ao delito em apreço (autos nº 1528676-35.23 - 4ª Vara Criminal de São Bernardo do Campo), bem como por crime de roubo majorado praticado em 12/11/23 (autos nº 1528932-75.23 - 3ª Vara Criminal de São Bernardo do Campo), ambos em Primeira Instância.
+O crime em apreço não tratou de mero desvio na vida do acusado, que se sustentava com a "vida do crime", segundo confessou no interrogatório judicial.
+E não é só. Maior a censurabilidade da conduta do agente em razão do bem receptado. Motocicletas são objetos de considerável valor, cuja subtração gera enormes prejuízos para as vítimas, atingindo-as profundamente, significando muitas vezes a perda de anos de economia.
+Ademais, são alarmantes os índices de subtração de motocicletas, que causa elevação de seguros, estimula desmanches e mercado paralelo de compra e venda de peças retiradas de carros e motos subtraídos, além do aumento de frete e seguro..
+Exige-se séria e enérgica repressão estatal, sob pena de se chegar a uma situação de absoluta desestruturação do convívio em sociedade. Pena mais severa é necessária para desestimular tal prática, tão lucrativa para os criminosos.
+Além de ser um delito que pelo valor do objeto produto de crime gera maiores vantagens ao criminoso, em contrapartida a consequências mais danosas à vítima, é inegável ser maior a determinação criminosa, pois a motocicleta está sujeita a diversos controles públicos de propriedade e circulação, o que não ocorre com um objeto pequeno, de baixo valor e de fácil ocultação e comercialização.
+Por tal razão, fere o princípio da individualização da pena apenar igualmente a subtração de uma motocicleta a de um aparelho celular ou relógio. As gravidades das condutas são díspares, denotando no caso do crime relativo a veículos culpabilidade redobrada e personalidade mais seriamente comprometida e voltada para a criminalidade.
+Outrossim, no caso em tela a moto roubada era usada para a prática de outros crimes, inclusive por terceiros, o que era de seu conhecimento, conforme admitido pelo próprio acusado.
+Diante das ponderações acima, elevo a pena-base do acusado em 1/4, fixando-a em 01 ano e 03 meses de reclusão e pagamento de 12 dias-multa" (fls. 26/27).
+Salienta-se que, "Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador" (AgRg no AgRg nos EDcl no AREsp n. 1.617.439/PR, de minha relatoria, Quinta Turma, DJe 28/9/2020).
+Desse modo, "a exasperação superior às referidas frações, para cada circunstância, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial" (AgRg no AREsp n. 2.272.851/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023).
+No caso dos autos, a exasperação da pena-base em 1/4 foi adequadamente fundamentada com base nos inúmeros antecedentes do réu - "Matheus ostenta condenações por diversos crimes patrimoniais, dentre eles roubo e receptação dolosa, praticados anteriormente aos fatos aqui ora tratados. Demais, foi ele condenado à pena de 27 anos, 2 meses e 20 dias de reclusão, em regime fechado, por crime de latrocínio consumado (autos nº 1528676-35.2023), como bem anotado pela r. sentença (fls. 379/380)" (fl. 15). Tais circunstâncias são aptas a justificar o aumento da pena-base em patamar superior ao usualmente utilizado pela jurisprudência desta Corte Superior.
+Nesse sentido (grifos nossos):
+DIREITO PENAL. AGRAVO REGIMENTAL. REVISÃO CRIMINAL DESPROVIDA NA ORIGEM. DOSIMETRIA DA PENA. CRITÉRIOS DE AUMENTO. AGRAVO NÃO PROVIDO.
+ ..
+4. A questão em discussão consiste em saber se houve ilegalidade na dosimetria da pena, especificamente: (i) na majoração da pena-base em 1/4 na primeira fase, considerando a conduta social e os antecedentes; (ii) na aplicação da fração de 1/5 na segunda fase, referente à agravante do motivo torpe; e (iii) na fixação da causa de diminuição pela tentativa na fração de 1/3 na terceira fase.
+III. Razões de decidir
+5. A dosimetria da pena é um juízo de discricionariedade do magistrado, vinculado às particularidades do caso concreto, e só pode ser revista em caso de ilegalidade flagrante ou desproporcionalidade evidente.
+6. As instâncias ordinárias justificaram concretamente a majoração da pena-base em 1/4, considerando as circunstâncias do crime e os antecedentes dos réus, o que está em conformidade com a jurisprudência do STJ.
+7. A aplicação da fração de 1/5 na segunda fase, referente à agravante do motivo torpe, foi fundamentada nas particularidades do fato, não sendo possível revisá-la sem reexame fático-probatório, inadmissível em habeas corpus.
+8. A fração de 1/3 para a causa de diminuição pela tentativa foi adequada, considerando a razoável aproximação entre as condutas e o resultado pretendido, conforme entendimento do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+(AgRg no HC n. 943.486/SP, de minha relatoria , Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE FRAUDE . ART. 155, § 4º, II, DO CÓDIGO PENAL - CP. PRINCÍPIO DA INSIGNIFICÂNCIA. REQUISITOS. NÃO PREENCHIMENTO. REINCIDÊNCIA ESPECÍFICA. EXCLUDENTE DE ILICITUD E. ESTADO DE NECESSIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. EXASPERAÇÃO DA PENA-BASE. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO OBRIGATÓRIO PARA USO NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. MULTIPLICIDADE DE CONDENAÇÕES PRETÉRITAS DO RÉU. REGIME DE CUMPRIMENTO DE PENA. SEMIABERTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Em relação agravante, sua pena-base foi agravada na fração de 1/4 da pena mínima, em razão dos maus antecedentes do réu, tendo, para tanto, sido utilizadas outras quatro condenações transitadas em julgado. O alto número de condenações penais pretéritas ostentado pelo réu é fundamento idôneo para justificar o aumento da pena-base em patamar superior ao comumente utilizado pela jurisprudência de 1/6 da pena mínima em abstrato.
+5. O fato de o agravante ser reincidente e portar maus antecedentes inviabiliza a escolha do regime inicialmente aberto para cumprimento de pena, apesar de a reprimenda ter totalizado quantum abaixo de 4 anos de reclusão.
+6 . Agravo regimental desprovido.
+(AgRg no AREsp 2513070/DF, de minha relatoria, Quinta Turma, julgado em 1º/10/2024, DJe de 3/10/2024.)
+No mais, o regime inicial fechado foi fixado pelo Magistrado sentenciante nos seguintes termos (grifos nossos):
+"Para início de cumprimento da pena privativa de liberdade, fixo o regime inicial fechado. É o que se mostra adequado à consecução das finalidades da sanção penal, considerada as desfavoráveis condições subjetivas do acusado, circunstâncias e consequências do delito, que bem demonstram a ousadia e periculosidade dos agentes, reclamando reação severa, proporcional e seguramente eficaz.
+MATHEUS admitiu, em Juízo, que se dedicava à prática de delitos na época dos fatos, sustentando-se com a "vida no crime".
+Realmente, ostenta condenações (com trânsito em julgado e em Primeira Instância) pela prática de crimes patrimoniais, dentre roubo e receptação dolosa, praticados em datas anteriores ao crime de receptação dolosa pelo qual condenado nestes autos (autos nº 1520194-98.23, que tramitou na 2ª Vara Criminal de São Bernardo do Campo. Trânsito em julgado em 18/07/24; autos nº 1528673-80.23, em trâmite nesta 5ª Vara Criminal de São Bernardo do Campo. Foi condenado à pena de 27 anos, 02 meses e 20 dias de reclusão; autos nº 1528676-35.23 - 4ª Vara Criminal de São Bernardo do Campo e autos nº 1528932-75.23 - 3ª Vara Criminal de São Bernardo do Campo).
+Cumpre salientar a inexistência da relação automática entre a quantidade de pena reclusiva e o regime prisional, que deve ser determinado com observância dos critérios previstos no art. 59 do Código Penal.
+Nesse passo, a conduta do réu, de maior reprovabilidade, denotou periculosidade acentuada e diferenciada, além de conduta social mais seriamente comprometida e voltada para a criminalidade, avessas aos preceitos que presidem a convivência em comunidade, sujeitando os agentes à modalidade fechada.
+Outrossim, o acusado é reincidente específico (autos nº 0009491-22.2022 - 5ª Vara Criminal de São Bernardo do Campo. Trânsito em julgado em 01/11/2022. Pena extinta por indulto em 08/03/2023), reiterando a conduta em breve espaço de tempo.
+Esse cenário recomenda a imposição do regime mais rigoroso, à luz do que preconizam os artigos 33, § 3º, e 59, III, do Código Penal, satisfazendo, portanto, o binômio necessidade/suficiência.
+A fixação do regime semiaberto ou de qualquer outra benesse, a par de ausentes requisitos objetivos e subjetivos, descaracterizaria a eficácia intimidante da pena, incentivando a reiteração da conduta.
+ ..
+No caso em tela, conforme demonstrado, há circunstâncias a influenciarem no regime e que justificam a modalidade mais gravosa" (fls. 26/29).
+Por sua vez, o Tribunal de origem manteve o regime inicial fechado nos seguintes termos (grifos nossos):
+"A base restou fixada 1/4 acima do mínimo legal, ou seja, 1 ano e 3 meses de reclusão e 12 diárias, no piso, diante dos comprovados maus antecedentes (certidões de fls. 362/368).
+Em seguida, presentes a reincidência, aliás, específica, com as atenuantes da confissão e da menoridade relativa, tais circunstâncias restaram devidamente compensadas entre si e a pena restou definitiva no patamar anterior.
+De se observar, Matheus ostenta condenações por diversos crimes patrimoniais, dentre eles roubo e receptação dolosa, praticados anteriormente aos fatos aqui ora tratados. Demais, foi ele condenado à pena de 27 anos, 2 meses e 20 dias de reclusão, em regime fechado, por crime de latrocínio consumado (autos nº 1528676-35.2023), como bem anotado pela r. sentença (fls. 379/380).
+Diante das circunstâncias judiciais negativas, inviável a substituição da pena privativa de liberdade por restritivas de direitos e a concessão do "sursis".
+Pelo mesmo motivo, bem justificada a fixação do regime prisional mais gravoso" (fls. 14/15).
+Como se vê, a despeito da pena ter sido fixada em patamar inferior a 4 anos de reclusão, o regime inicial fechado foi determinado em razão da existência de circunstância judicial negativa e da condição de reincidente específico do paciente. Esse entendimento encontra amparo na jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido (grifos nossos):
+DIREITO PENAL. AGRAVO REGIMENTAL. REGIME PRISIONAL. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve o regime inicial fechado estipulado pelas instâncias ordinárias, apesar da pena definitiva ser inferior a 4 anos, em razão dos maus antecedentes e da reincidência do agravante.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a reincidência e os maus antecedentes impõem a fixação de regime prisional mais gravoso.
+III. Razões de decidir
+3. A jurisprudência permite a fixação de regime mais gravoso com base na reincidência e em circunstâncias judiciais desfavoráveis, mesmo que a pena seja inferior a 4 anos.
+4. O acusado possui em seu desfavor 2 condenações transitadas em julgado pela prática dos crimes de apropriação indébita e roubo qualificado, sendo reincidente específico e portador de maus antecedentes, sendo descabido falar em bis in idem na dosimetria da pena.
+5. A fixação do regime inicial fechado é justificada pela presença de circunstâncias judiciais desfavoráveis, como maus antecedentes, além da reincidência, mesmo tendo a pena sido estabelecida patamar inferior a quatro anos.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+(AgRg no HC n. 986.858/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA. PRECEDENTES DO STJ. REGIME INICIAL. MODO FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES. FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A reincidência e a circunstância judicial negativa (antecedentes) justificam a fixação do modo fechado para o início do cumprimento da pena, ainda que tenha sido fixada em patamar inferior a 04 (quatro) anos. Súmula n. 269/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 2.136.766/SP, Relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Nesse contexto, não verifico a existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
