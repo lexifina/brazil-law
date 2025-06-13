@@ -1,0 +1,26 @@
+DECISÃO
+ Trata-se  de  habeas  corpus,  com  pedido de  liminar,  impetrado  em  favor  de  MARCUS ALEJANDRO DE SOUZA SANTOS,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (Apelação Criminal  n.  1502931-09.2024.8.26.0535).
+Consta nos autos que o paciente foi condenado à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 13 (treze) dias-multa, pela prática do delito previsto no art. 157, caput, do Código Penal.
+A impetrante sustenta a ocorrência de constrangimento ilegal, aduzindo que a decisão do Tribunal de origem manteve a aplicação das penas em patamares completamente distantes da proporcionalidade, sem qualquer justificativa idônea, agindo de forma contrária ao que estabelecem a legislação pátria e a jurisprudência dos Tribunais Superiores.
+Assevera que a pena-base foi fixada e mantida em 1/3 (um terço) acima do mínimo legal, sem que existam circunstâncias judiciais desfavoráveis, e que a gravidade e as circunstâncias são próprias do tipo penal, não justificando a majoração da pena-base.
+Alega que o fato de o réu ter cometido novo delito enquanto estava em liberdade provisória não justifica, por si só, aumento da pena-base, sob pena de bis in idem.
+Aduz que o Juízo de primeiro grau deixou de apontar a certidão ou processo utilizado para exasperar a sanção na primeira fase da dosimetria, o que implica afronta ao dever de fundamentar insculpido no art. 93, IX, da CF/88.
+Afirma que não se mostram idôneas para a valoração negativa da conduta social, da personalidade, da culpabilidade, e nem para a configuração de maus antecedentes, certidões que versem sobre processos em que o agente celebrou acordo de não persecução penal ou cumpriu suspensão condicional do processo.
+Requer, liminarmente e no mérito, a concessão da ordem para expedir alvará de soltura e reduzir as penas aplicadas.
+Liminar indeferida (fls. 271-272).
+Informações  prestadas  às  fls.  276-374 e 375-398.
+O  Ministério  Público  Federal  opinou  pela denegação da ordem  (fls.  401-406).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,
+a  dosimetria  da  pena  insere-se  dentro  de  um  Juízo  de  discricionariedade  do  julgador,  atrelado  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade  (AgRg  no  HC  n.  710.060/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021).
+Insta  asseverar que
+ n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+Ademais, a negativação dos antecedentes e, posteriormente, o aumento pela reincidência se deram com base em condenações distintas, conforme destacado no acórdão impugnado (fl. 265):
+Revela notar que a magistrada a quo utilizou condenações diversas para considerar os maus antecedentes e a reincidência, eis que o réu ostenta duas condenações anteriores (Processo nº 1500981- 96.2023.8.26.0525 por receptação e Processo 1501073-16.2019.8.26.0535, por tráfico de drogas conforme certidões de fls. 35/39).
+Convém registrar que a jurisprudência desta Corte entende que
+A utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como ocorreu no caso em apreço (AgRg no HC n. 878.068/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
