@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de pedido dirigido a esta Corte Superior por Sanny de Souza Corrales, mediante o qual requer a concessão de efeito suspensivo a recurso especial anunciadamente interposto contra acórdão proferido pela 2.ª Câmara Cível do Tribunal de Justiça do Estado da Paraíba nos autos da Apelação Cível 08433846-85.2022.8.15.2001.
+A requerente justifica seu pedido aos argumentos de que se fazem presentes "tanto a probabilidade de provimento do recurso, com a demonstração de que a fundamentação é relevante, como também o risco de dano grave ou de difícil reparação a que a autora será submetida com a suspensão da concessão da tutela de urgência recursal e sentença" (fl. 7).
+Gratuidade deferida pela Corte estadual (fl.119).
+Representação regular (fl. 130).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Ainda que, em tese, seja possível a concessão antecipada de efeito suspensivo a recurso especial como a que requer a peticionante, esta Corte superior tem reiteradamente afirmado que "somente em situações excepcionalíssimas tem-se admitido a concessão de tutela provisória para atribuir efeito suspensivo a Recurso Especial, notadamente quando presentes os seguintes requisitos, cumulativamente: fumus boni juris, consubstanciado na probabilidade de êxito do Recurso Especial; periculum in mora, associado à comprovação de existência de risco de dano grave e de difícil reparação. Neste sentido, a Corte Especial do STJ entende que "a concessão de eficácia suspensiva ao Recurso Especial, para legitimar-se, pressupõe: a) existência de juízo positivo de admissibilidade, proferida pelo Presidente do Tribunal de origem; b) viabilidade processual do Recurso Especial; c) plausibilidade jurídica do direito invocado e d) periculum in mora." (STJ, AgInt no TP 2.112/MS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 20/11/2019)" (AgInt no TP n. 2.682/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 2/5/2023).
+A estes, soma-se a necessidade de demonstração de existência de decisão teratológica ou manifestamente contrária à jurisprudência do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. SITUAÇÃO EXCEPCIONAL NÃO VERIFICADA. MANUTENÇÃO DO INDEFERIMENTO.
+1. A atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora, o que não restou demonstrado nos autos.
+2. Agravo interno não provido.
+(AgInt na TutCautAnt n. 816/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 15/5/2025.)
+Na presente hipótese, os poucos elementos apresentados nos autos indiciam a ausência dos mencionados requisitos.
+Com efeito, não se tem notícia de que o tribunal tenha se pronunciado quanto à admissibilidade do apelo raro e não há elementos para aferir a viabilidade processual do recurso especial. Daí a ausência dos dois primeiros requisitos. De outra parte, a plausibilidade jurídica do direito invocado é atenuada, pelo menos em linha de princípio, pelo pronunciamen to desfavorável nos termos do acórdão recorrido.
+Por fim, não demonstra a requerente a existência de decisão teratológica ou manifestamente contrária à jurisprudência deste STJ.
+Por tudo isso, deve ser prestigiado o preceito geral de que, enquanto não encerrada a tramitação do feito na Corte Estadual, não se abre a instância recursal superior.
+ANTE O EXPOSTO, e com fundamento no disposto no art. 34, XVIII,"A", do RISTJ, não conheço do pedido.
+Publique-se.
+EMENTA
