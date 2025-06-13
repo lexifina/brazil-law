@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, com pedido de efeito suspensivo, interposto por Tatiane de Jesus Andrade e pelo Ministério Público do Estado da Bahia contra acórdão proferido pela Seção de Direito Público do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 198-209):
+MANDADO DE SEGURANÇA. PROFESSOR DA REDE PÚBLICA ESTADUAL. INDEFERIDO PELA ADMINISTRAÇÃO, FUNDAMENTADAMENTE, O PEDIDO DE CONCESSÃO DE LICENÇA REMUNERADA PARA FREQUENTAR AS AULAS DO CURSO DE PÓS-GRADUAÇÃO. AUSÊNCIA DE COMPROVAÇÃO, IN CASU, DA INEXISTÊNCIA DE PREJUÍZO PARA A ADMINISTRAÇÃO PÚBLICA E PARA O SERVIÇO PRESTADO. LIMINAR REVOGADA. SEGURANÇA DENEGADA.
+O Ministério Público Federal, às fls. 245-266, argumenta, em síntese, que haveria ofensa à legalidade e a desproporcionalidade do ato invocado, visto que:
+ ..  restou demonstrado nos autos que a Impetrante, servidora pública, preenche os requisitos legais para a concessão de licença remunerada para cursar o Mestrado, com ônus para a Administração Pública, na forma das regras e princípios constantes na Constituição Federal, Lei Federal n. 9.394/1996 (Diretrizes e bases da educação) e Lei Estadual nº 8.261/2002 (Estatuto do Magistério Público).
+A parte autora, por sua vez, argumenta que "o motivo apresentado pela Administração para substanciar o indeferimento, conforme reconhecido na decisão denegatória, não fora demonstrado nestes autos.", e que "ainda que inexistisse professor substituto na escola, isto não caracteriza a inexistência de professor substituto nos quadros da Secretaria de Educação, não tendo a Administração demonstrado que o ato de substituição acarretaria, necessariamente, a contratação de professor externo ao quadro de pessoal da SEC.". Assim, requer:
+"liminarmente, seja atribuído o efeito suspensivo ativo ao presente recurso ordinário, a fim de que a liminar revogada seja mantida até final decisão;
+b) ao final, que seja conhecido e provido o presente Recurso para reformar a decisão que denegou a segurança, permitindo à Recorrente o gozo de licença remunerada pelo período de 02 (dois) anos para cursar o Mestrado que está matriculada, nos termos da Lei 8261/02, art. 62, caput e inciso I."
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+No caso, a impetrante, ora recorrente, professora da rede pública estadual, buscava afastamento remunerado para cursar mestrado, o que foi indeferido pela Secretaria da Educação sob o argumento de falta de substituto.
+O acordão recorrido denegou a segurança pleiteada, sob os seguintes fundamentos:
+Segundo a decisão do Secretário da Educação em Exercício localizada no ID 51255240 destes autos, indeferiu-se o requerimento administrativo protocolado pelo impetrante ao fundamento de que não há professor substituto, o que certamente acarretará prejuízos para a administração pública. Como se observa, a inexistência de substituto se coaduna com o quanto determina no citado decreto.
+Assim, é de se admitir que o ato administrativo ora vergastado atende aos princípios do Direito Administrativo, especialmente por expor elementos que basearam a prática do ato, com a indicação dos pressupostos fáticos aplicáveis à espécie.
+A lei estadual sinaliza que a licença remunerada se submete a um juízo de conveniência e oportunidade da Administração Pública, consagrando, inequivocamente, que o direito à licença remunerada não é um direito potestativo a se efetivar normativamente sem qualquer margem para um juízo de conveniência e oportunidade do ente público.
+É cediço que o Poder Judiciário não pode, a priori, adentrar no mérito administrativo, quando se tratar de ato discricionário, exceto em casos de flagrante ilegalidade ou desproporcionalidade, isto é, quando se vislumbrar malferimento dos princípios basilares que regem a Administração Pública. O que, como visto, não se observa no caso em tela.
+Nesse cenário, faz-se mister ressaltar que, apenas no caso de ausência de indicação das diretrizes legais e fáticas aptas a justificar a negativa do pleito formulado, como forma de assegurar a legalidade ampla, em casos tais, permite-se o controle judicial, situação esta distinta da ora apresentada.
+Como se vê, tem-se que o acórdão recorrido não merece reparos, visto que, consoante jurisprudência desta Corte, "o indeferimento do pedido de licença remunerada formulado por servidor público, valendo-se a autoridade, dentro de sua esfera de atribuições, de seu juízo de conveniência e oportunidade, e observando o interesse do serviço público, não se considera ilegal" (AgRg no RMS 25.072/RN, Rel. Ministro Felix Fischer, Quinta Turma, DJe 16.3.2009). Confiram-se também:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AFASTAMENTO REMUNERADO PARA ESTUDOS. INDEFERIMENTO. DISCRICIONARIEDADE ADMINISTRATIVA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+ ..
+2. A concessão de licença para capacitação de servidores públicos constitui-se em ato discricionário, sujeito a juízo do Administrador Público, acerca da conveniência e oportunidade, de acordo com o interesse público, não sendo obrigatório o seu acolhimento mesmo que preenchidos os demais requisitos legais à concessão. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDcl no RMS n. 60.754/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 17/8/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. LICENÇA REMUNERADA PARA MESTRADO. INDEFERIMENTO. POSSIBILIDADE. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual é lícito à Administração examinar o pedido de licença para capacitação profissional de acordo com o interesse público, podendo ser negado mesmo que preenchido os demais requisitos legais, porquanto se trata de ato discricionário.
+ ..
+V - Agravo Interno improvido.
+(AgInt no RMS n. 61.469/TO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/3/2020.)
+Assim, deixando a impetrante, no caso concreto, de comprovar, efetivamente, o alegado, com demonstração cabal de atuação arbitrária e imotivada da Administração Pública, não há falar em direito líquido e certo.
+Ante o exposto, nego provimento a ambos os recursos. Pedido de efeito suspensivo prejudicado.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AFASTAMENTO REMUNERADO PARA ESTUDOS. INDEFERIMENTO. DISCRICIONARIEDADE ADMINISTRATIVA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
