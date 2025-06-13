@@ -1,0 +1,31 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.APELAÇÃO CRIMINAL 0816445-06.2024.8.07.0016APELANTE(S)IVONEL KREBS MONTENEGROAPELADO(S)VICENTE NOGUEIRA FILHORelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2010996
+
+EMENTA
+
+JUIZADO ESPECIAL CRIMINAL. APELAÇÃO. PENAL E PROCESSUAL PENAL. CRIME CONTRA A HONRA. CALÚNIA. QUEIXA-CRIME. REJEIÇÃO. PETIÇÃO INICIAL EM AÇÃO CÍVEL NÃO SUBSCRITA PELO QUERELADO. ILEGITIMIDADE PASSIVA. DOLO ESPECÍFICO NÃO CARACTERIZADO. ANIMUS NARRANDI. ATIPICIDADE DA CONDUTA. APELAÇÃO CONHECIDA E NÃO PROVIDA.I. Caso em exame1. Trata-se de apelação criminal interposta pelo querelante em face da sentença proferida pelo Juízo do 3º Juizado Especial Criminal de Brasília que rejeitou a queixa-crime oferecida pela suposta prática do crime previsto no art. 138 do Código Penal e determinou o arquivamento do feito, ante a ilegitimidade passiva e atipicidade da conduta, com fundamento no artigo 395, incisos I e III, do Código de Processo Penal (ID 70895506).2. Recurso próprio e tempestivo (ID 70896411). Custas e preparo recolhidos.3. Em suas razões recursais, o apelante sustenta que o advogado atua sempre no atendimento aos interesses de seu cliente e que o instrumento de mandato serve justamente para que o constituído fale em nome do constituinte. Alega que os advogados do querelado, ao se manifestarem no Juízo Cível, reproduziram as informações prestadas por seu cliente, não havendo falar em ilegitimidade passiva do querelado. Aduz que as alegações feitas pelo querelado no bojo da ação cível tiveram o nítido intuito de macular publicamente a imagem e a honra da parte querelante, eis que ninguém acusa o outro de fraudador e falsificador de documentos sem uma vontade específica de ofender. Defende que a análise mais aprofundada sobre o dolo específico demandará incursão nas provas, ou seja, fase probatória. Pede a reforma da sentença, com o recebimento da queixa-crime.4. Contrarrazões do apelado pelo desprovimento do recurso (ID 70896417).II. Questão em discussão5. Saber se o querelado tem legitimidade passiva para o feito.III. Razões de decidir6. Conforme narrado na inicial acusatória, o querelado, na qualidade de parte autora, no bojo da petição inicial do processo cível nº 0726839-12.2024.8.07.0001, utilizou de alegações que imputariam fatos definidos como crimes que atingiram a honra do querelante.7. Pois bem, a petição inicial acima mencionada, na qual estavam contidas as supostas afirmações ofensivas à honra objetiva do recorrente, não foi subscrita pelo querelado, o qual apenas outorgou procuração em favor de seus patronos. Não há nos autos elementos mínimos a corroborar a tese do querelante da anuência do querelado ao conteúdo exposto na referida peça processual. Nesse quadro, não pode o querelado ser responsabilizado por eventual excesso de linguagem por parte de seus advogados, sob pena de verificar-se a responsabilização penal objetiva, vedada pelo ordenamento jurídico. Nesse sentido: TJDFT: Acórdão 1703906, 0763269-83.2022.8.07.0016, Relator(a): JANSEN FIALHO DE ALMEIDA, 3ª TURMA CRIMINAL, data de julgamento: 18/05/2023, publicado no DJe: 26/05/2023 e STJ: AgRg no AREsp: 1882418 SP 2021/0137254-5, Relator.: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 19/09/2023, T6 SEXTA TURMA, Data de Publicação: DJe 22/09/2023.8. Ademais, ainda que os patronos do querelado também figurassem no polo passivo desta ação penal privada e em que pese a imunidade profissional não abranger o crime de calúnia, segundo disposto no artigo 142, inciso I, do Código Penal, verifica-se, no caso concreto, a falta de justa causa para o prosseguimento da presente ação penal. Com efeito, no contexto em que foram inseridas as alegações consideradas ofensivas pelo querelante (ação declaratória de nulidade da Assembleia Geral Extraordinária que excluiu o querelado da condição de associado da Instituição de Ensino), aquelas apresentavam o propósito de demonstrar o direito do querelado e estavam vinculadas a controvérsia discutida na ação anulatória. Assim, na conduta analisada, não há intenção manifesta de ofender e desonrar a imagem do querelante, senão o de relatar situações entendidas existentes (“animus narrandi”) para comprovar as alegações lançadas na peça processual, especialmente pelo fato de ter ocorrido no bojo de autos de ação judicial e não publicamente.9. Portanto, necessária a manutenção da rejeição da queixa-crime, ante a ilegitimidade passiva e atipicidade da conduta por ausência do dolo específico exigido para configuração da conduta delituosa atribuída ao querelado. Eventuais reflexos à esfera íntima do ofendido, se o caso, serão melhor analisados na seara cível, observando que o direito penal é a “ultima ratio”.10. Nesse sentido: Acórdão 1988128, 0816313-46.2024.8.07.0016, Relator(a): SILVANA DA SILVA CHAVES, SEGUNDA TURMA RECURSAL, data de julgamento: 07/04/2025, publicado no DJe: Invalid date.IV. Dispositivo e tese11. APELAÇÃO CONHECIDA E NÃO PROVIDA. Condeno o apelante ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em R$ 400,00.12. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Junho de 2025
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 2º e 82, § 5º da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - RelatorDispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 82 § 5º da Lei n. 9.099/95.
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
