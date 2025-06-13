@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (fl. 291):
+PREVIDENCIÁRIO. PROCESSO CIVIL. INCAPACIDADE TEMPORÁRIA. PERÍCIA MÉDICA. CONSTATADA. NEOPLASIA MALIGNA.
+1. A parte autora, com 38 anos, afirma ser portadora de doença grave, pois sofre de câncer de mama, o que exigiu o afastamento de suas atividades habituais como cabelereira.
+2. Requereu a concessão de benefício de incapacidade temporária, a qual foi indeferida pelo INSS sob a alegação de que não comprovou a qualidade de segurada.
+3. Na perícia médica judicial, constatou-se que a segurada é portadora de neoplasia maligna de mama, define data de início da doença e da incapacidade bem como sugere período de afastamento. A conclusão contida no laudo médico pericial foi acolhida pelo juízo sentenciante.
+4. Quando constatada a incapacidade devido ao agravamento da doença que levou a cirurgia oncológica, a segurada era filiada do RGPS, conforma consulta ao extrato do CNIS.
+5. É sabido que a neoplasia maligna é doença grave que não se exige carência, nos termos do art. 151 da A Lei n. 8.213/91 e do artigo 1º da Portaria Interministerial MPAS/MS n. 2.998, de 23/8/2001.
+6. Parte do recurso não conhecido. Apelação a que se nega provimento. De ofício, aplicar o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+Opostos embargos declaratórios, estes foram rejeitados (fls. 333-334).
+Em seu recurso especial de fls. 336-344, sustenta o recorrente violação dos arts. 1.022, II, do CPC, e 15, 59, 42 e 102, da Lei nº 8.213/91, ao argumento de que o acórdão recorrido não apreciou a questão jurídica levantada sobre a perda da qualidade de segurado, em que pese a oposição de embargos de declaração.
+O Tribunal de origem, às fls. 358-360, não admitiu o recurso especial pelos seguintes fundamentos:
+(..)
+Inicialmente, não cabe o recurso por eventual violação ao artigo 1.022 do Código de Processo Civil, porquanto o acórdão recorrido enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes. O acórdão que julgou os embargos de declaração, por sua vez, reconheceu que as teses e fundamentos necessários à solução jurídica foram apreciados pelo acordão. Desta forma, trata-se de mera tentativa de rediscussão de matéria exaustivamente apreciada. Não se confunde omissão ou contradição com simples julgamento desfavorável à parte, hipótese em que não existe a alegada ofensa ao art. 1.022 do Código de Processo Civil. Neste sentido:
+(..)
+A pretensão da parte recorrente implica revolver questão afeta à qualidade de segurada, não sendo adequada a via estreita do recurso excepcional para modificação do entendimento firmado no acórdão, à luz do exame das provas amealhadas ao processo.
+Também não cabe o especial para assegurar reanálise da preexistência ou não de patologia ao tempo da filiação do segurado ao regime previdenciário, assim como para nova discussão acerca das provas da progressão ou agravamento da doença havida como incapacitante.
+Nesse passo, a questão versada nas razões recursais não pode ser reapreciada pelas instâncias superiores, por constituir-se em matéria de fato e não de direito, o que não se coaduna com a via estreita da súplica excepcional, porque nela não há campo para revisar entendimento de segundo grau de jurisdição assentado em prova. A função do recurso especial é, apenas, a de unificar a aplicação do direito federal.
+Portanto, não merece prosperar a pretensão recursal por restar evidente o anseio da recorrente pelo reexame dos fatos e provas dos autos, o que não se compadece com a natureza do recurso especial, consoante o enunciado da Súmula nº 7, do colendo Superior Tribunal de Justiça, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial."
+Em seu agravo, às fls. 362-368, o agravante sustenta negativa de prestação jurisdicional, uma vez que o Tribunal de origem rejeitou os embargos de declaração sem emitir juízo sobre os fatos e dispositivos violados, especialmente sobre a perda da qualidade de segurado devido a contribuições extemporâneas.
+Assevera que a questão jurídica exposta no recurso especial não demanda o reexame do conjunto fático-probatório dos autos, mas de valoração do conjunto probatório (fls. 365-368).
+É o relatório.
+Decido.
+A insurgência não pode ser conhecida.
+De início, verifica-se que a parte agravante não infirmou de modo suficiente a fundamentação utilizada para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - não ocorrência de violação ao art. 1022, II, do CPC, porquanto o acórdão recorrido enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes; e (ii) - incidência da Súmula 7/STJ.
+Todavia, no seu agravo, a parte não impugnou os referidos óbices, os quais, à míngua de impugnação suficiente, específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a integralidade do fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. DESCANSO SEMANAL REMUNERADO. SOBREAVISO. PRÊMIOS. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA À DECISÃO DE ADMISSIBILIDADE PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 83/STJ. JURISPRUDÊNCIA DOMINANTE. SÚMULA 182/STJ. PRECEDENTE DA CORTE ESPECIAL DO STJ.
+ ..
+5. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, bem como ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+6. Ademais, a Corte Especial do Superior Tribunal de Justiça assentou, no julgamento dos EAREsp 746.775/PR, ser necessária a impugnação específica de todos os fundamentos da decisão denegatória do Recurso Especial, sob pena de não conhecimento.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.428.209/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
