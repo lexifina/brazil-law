@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EDUARDO ROBERTO DE PAIVA RAMOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO proferido no julgamento da Apelação Criminal n. 0001119-54.2020.8.17.0710.
+Consta dos autos que o paciente foi condenado pelo delito previsto no art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal, à pena de 16 anos e 4 meses de reclusão, em regime inicial fechado.
+A apelação do Ministério Público foi provida, com a anulação do veredicto do Tribunal do Júri e a determinação de novo julgamento, em acórdão assim ementado:
+"Direito penal. Apelação Criminal. Homicídio qualificado. Crime consumado. Reconhecimento da tentativa. Decisão manifestamente contrária à prova dos autos. Recurso ministerial provido. Recurso da defesa prejudicado.
+I. Caso em exame
+1. Apelação Criminal interposta pelo Ministério Público contra decisão do Tribunal do Júri que condenou o réu por homicídio tentado, alegando que a decisão dos jurados foi manifestamente contrária à prova dos autos, que indica a consumação do delito. O réu também interpôs recurso, buscando a redução da pena.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a decisão do conselho de sentença, que reconheceu a modalidade tentada do crime, foi manifestamente contrária à prova dos autos; (ii) definir a pena a ser aplicada ao réu.
+III. Razões de decidir
+3. O réu confessou ter efetuado o primeiro disparo contra a vítima. Testemunhas presenciais confirmaram a dinâmica dos fatos, afirmando que o réu, acompanhado de um adolescente, efetuou disparos contra a vítima após uma discussão.
+4. A prova dos autos demonstra que o réu e o adolescente agiram em concurso de agentes, com unidade de desígnios, efetuando disparos contra a vítima.
+5. A decisão dos jurados, ao reconhecer a tentativa, desconsiderou as provas testemunhais e a confissão do réu, mostrando-se manifestamente contrária à prova dos autos.
+6. Diante da comprovação da consumação do delito e da coautoria, a tese de homicídio tentado sustentada pela defesa não encontra respaldo nas provas produzidas.
+IV. Dispositivo e tese
+7. Recurso ministerial provido. Recurso defensivo prejudicado." (fls. 21/22).
+Na presente impetração, a defesa afirma que o julgamento não foi manifestamente contrário às provas dos autos.
+Assevera que a condenação pela prática de tentativa de homicídio está amparada no conjunto fático probatório.
+Busca, em liminar, a suspensão da ação penal até o julgamento do presente writ. No mérito, requer o restabelecimento da decisão do Conselho de Sentença e a continuidade do julgamento da apelação, com análise da insurgência no tocante à dosimetria da pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus, substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O Tribunal a quo cassou a decisão do Conselho de Sentença, pelas seguintes razões:
+"Como se vê, as provas já mencionadas são harmônicas no sentido de que o apelante e o menor, agindo em concurso de agentes, com unidade de desígnios e comunhão de vontades, mataram a vítima, resultando inadmissível o reconhecimento da modalidade tentada do delito.
+Depois de ameaçar a vítima, o réu retornou cerca de 10 a 20 minutos depois, acompanhado do adolescente Paulo, e ambos se dirigiram à residência da vítima portando arma de fogo, demonstrando o prévio ajuste e a intenção comum de ceifar a vida de Fábio Vicente.
+Ora, o réu, conforme já se disse, confessa que efetuou o primeiro disparo de arma contra a vítima, acertando-a.
+Informam os autos que uma terceira pessoa, no caso um menor, também teria atirado na vítima.
+No caso, é importante registrar que o simples fato de uma terceira pessoa (no caso um menor) ter também participado do crime, não desconstitui, tampouco diminui a responsabilidade penal do réu com o resultado morte da vítima, uma vez que ambos estavam claramente unidos no mesmo propósito criminoso e contribuíram efetivamente para a consumação do homicídio.
+Resta evidenciado, portanto, que a decisão dos jurados está em conflito manifesto com a prova dos autos." (fls. 18/19).
+Sobre o tema, a quebra da soberania dos veredictos é apenas admitida em hipóteses excepcionais, em que a decisão do Júri for manifestamente dissociada do contexto probatório, hipótese em que o Tribunal de Justiça está autorizado a determinar novo julgamento. É manifestamente contrária à prova dos autos a decisão que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório.
+No caso, quanto à alegação de violação ao art. 593, inciso III, alínea "d", do CPP, o Tribunal de origem concluiu que a decisão dos jurados foi manifestamente contrária à prova dos autos, elencando a confissão do paciente, que admitiu ter atirado na vítima, bem como o depoimento do enteado da vítima, que afirmou com toda a certeza ter presenciado o crime no momento em que o réu efetuou disparos de arma de fogo contra o ofendido.
+Assim, a constatação da inexistência de erro na valoração das provas pelo Conselho de Sentença do Tribunal do Júri demanda o exame aprofundado de provas, procedimento vedado na via estreita do mandamus. Nessa esteira:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPARO DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS. REGIME SEMIABERTO. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. TENTATIVA DE HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ABSOLVIÇÃO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do agravo em recurso especial, mas não conheceu do recurso especial.
+Sustenta-se, no agravo regimental, a reconsideração da decisão monocrática ou sua submissão ao colegiado, com o consequente provimento recursal. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se houve desproporcionalidade na fixação da pena-base aplicada a A J M; (ii) verificar se o regime inicial semiaberto é inadequado à luz da pena aplicada; e (iii) estabelecer se a anulação do julgamento do Tribunal do Júri em relação a L N M viola a soberania dos veredictos, diante da suposta contrariedade da decisão à prova dos autos.
+III. RAZÕES DE DECIDIR
+3. A elevação da pena-base de A J M encontra-se devidamente motivada, com base na culpabilidade exacerbada decorrente da conduta de disparo de arma de fogo em local público e festivo, com grande aglomeração de pessoas, em observância aos princípios da individualização e da proporcionalidade da pena.
+4. A jurisprudência do STJ reconhece que a análise das circunstâncias judiciais previstas no art. 59 do CP é discricionária e não está sujeita a critério aritmético rígido, desde que haja fundamentação concreta, como no presente caso.
+5. A fixação do regime semiaberto, embora a pena permita regime mais brando, é justificada pela gravidade concreta da conduta e pelas circunstâncias judiciais desfavoráveis, nos termos do art. 33, §3º, do Código Penal.
+6. Em relação à agravante L N M, o Tribunal de origem reconheceu que a decisão dos jurados foi manifestamente contrária à prova dos autos, diante da contradição entre a votação dos quesitos 1º e 2º (materialidade e autoria) e a resposta ao quesito absolutório genérico (3º), sem que houvesse tese defensiva que a sustentasse. A anulação do julgamento do Júri, nesse contexto, não viola a soberania dos veredictos, consoante pacífica jurisprudência do STJ e do STF, segundo a qual a garantia constitucional não alcança decisões arbitrárias ou divorciadas do conjunto probatório.
+7. A alegação de violação aos artigos 74, §1º; 482; 483, §4º; 489; e 492, §1º, do CPP foi feita de forma genérica e sem cotejo analítico com os fatos da causa, o que inviabiliza o conhecimento do recurso especial por deficiência de fundamentação. O Superior Tribunal de Justiça não atua como instância revisora de fatos ou como terceira instância recursal, sendo incabível recurso especial que se assemelhe a apelação ordinária, com pretensão de rejulgamento da causa.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A elevação da pena-base é legítima quando fundamentada em circunstâncias concretas desfavoráveis, em conformidade com o art. 59 do CP. 2. A fixação do regime inicial mais gravoso pode ser admitida diante da gravidade concreta da conduta, ainda que a pena permita regime mais brando. 3. A revisão da dosimetria da pena e do regime prisional é vedada em recurso especial, quando depende do reexame de provas, nos termos da Súmula 7/STJ. 4. A anulação do julgamento do Tribunal do Júri não viola a soberania dos veredictos quando a decisão se mostra manifestamente contrária à prova dos autos e não há tese defensiva que justifique a absolvição. 5. Alegações genéricas de violação à lei federal, desacompanhadas de demonstração analítica, não autorizam o conhecimento do recurso especial."
+Dispositivos relevantes citados: CF/1988, art. 5º, XXXVIII, "c"; CP, arts. 59 e 33, §3º; CPP, arts. 74, §1º; 482; 483, §4º; 489; 492, §1º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.240.104/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 27.02.2023.
+STJ, AgRg no AREsp n. 2.714.849/RO, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 25.02.2025.STJ, AgRg no AgRg no AREsp n. 2.452.912/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 23.12.2024.STJ, AgRg no REsp n. 2.113.879/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 21.06.2024.STJ, Súmula 7.
+(AgRg no AREsp n. 2.753.164/SP, de minha relatoria, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE FEMINICÍDIO. DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. ACÓRDÃO QUE ANULOU O JULGAMENTO PELO JÚRI. PLEITO DA DEFESA PARA RESTABELECER A DECISÃO ABSOLUTÓRIA SOB ALEGAÇÃO DE VIOLAÇÃO DA SOBERANIA DOS VEREDICTOS. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULAS N. 7 E 83/STJ .
+1. De acordo com a jurisprudência da Terceira Seção do STJ, "a anulação da decisão absolutória do Conselho de Sentença, manifestamente contrária à prova dos autos, pelo Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, III, "d", do Código de Processo Penal), não viola a soberania dos veredictos" (HC n. 323.409/RJ, relator Ministro Reynaldo Soares da Fonseca, relator para acórdão Ministro Felix Fischer, Terceira Seção, DJe de 8/3/2018).
+2. Quando o Tribunal ad quem verificar a existência de decisão manifestamente contrária às provas dos autos, proferida pelo Conselho de Sentença, pode cassar a absolvição do réus proferida pelos jurados, uma única vez, determinando a realização de novo julgamento, não havendo falar em ofensa à soberania dos veredictos.
+3. No caso, concluiu a Corte de origem que a decisão dos jurados (baseada unicamente nas palavras do ora agravante, que não foram comprovadas) encontra-se totalmente divorciada do conjunto probatório, destacando que, das provas colhidas, mormente o laudo médico e o depoimento da vítima, emergem evidências da prática dolosa de tentativa de feminicídio.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.269.502/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Por tais razões, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
