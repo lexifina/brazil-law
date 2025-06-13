@@ -1,0 +1,79 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município de Guarapuava, em face do acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+
+    “DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. OUTORGA DE CONCESSÃO ONEROSA DE DIREITO REAL DE USO DE BEM IMÓVEL ESPECÍFICO A DETERMINADA PESSOA JURÍDICA SEM LICITAÇÃO PRÉVIA. POSSIBILIDADE DE CONTROLE PELA VIA DE AÇÃO. INCONSTITUCIONALIDADE. PEDIDO PROCEDENTE. MODULAÇÃO DOS EFEITOS DA DECISÃO.
+
+    I. CASO EM EXAME
+
+    1. Ação direta de inconstitucionalidade contra a Lei n. 2.466/2015 do Município de Guarapuava, que autoriza o Poder Executivo local a outorgar concessão onerosa de direito real de uso de bem imóvel de propriedade daquele ente, com a dispensa de prévio procedimento licitatório.
+
+    II. QUESTÃO EM DISCUSSÃO
+
+    2. As questões em discussão consistem em verificar se a lei impugnada: (i) se sujeita ao controle concentrado de constitucionalidade, visto que tem efeitos concretos; (ii) guarda conformidade com a competência privativa da União para legislar sobre normas gerais de licitação; e (iii) observa os princípios constitucionais da isonomia, impessoalidade e moralidade.
+
+    III. RAZÕES DE DECIDIR
+
+    3. A jurisprudência do Órgão Especial, com base em precedente do Supremo Tribunal Federal, admite o controle concentrado de leis de efeitos concretos, bastando que o ato seja editado sob a forma de lei, dispensando-se considerações sobre generalidade e abstração
+
+    4. A lei impugnada, ao estabelecer, na prática, hipótese inovadora de dispensa de licitação, usurpa a competência privativa da União para legislar sobre normas gerais de licitação, conforme disposto no art. 22, XXVII, da Constituição da República, e extrapola a competência suplementar municipal, posta no art. 17, inciso II, da Constituição Estadual. Considerações de ordem fática ou “boas intenções” do legislador desinteressam. Necessidade de interpretação restritiva das hipóteses de dispensa.
+
+    5. Inobservância da regra da obrigatoriedade de licitação que também implica ofensa aos princípios da isonomia, da impessoalidade e da moralidade.
+
+    6. Possibilidade de modulação dos efeitos da decisão de ofício. Lei em vigor desde 2015, prevendo vigência de dez anos para a concessão, com termo firmado no mesmo ano. Presentes razões de segurança jurídica. Modulação dos efeitos da decisão para a partir de 20 de outubro de 2025, quando a publicação do ato legislativo impugnado completa dez anos.
+
+    IV. DISPOSITIVO E TESE
+
+    7. Pedido procedente. Modulação dos efeitos da decisão para a partir de 20 de outubro de 2025.
+
+    Tese de julgamento: “É inconstitucional lei municipal que cria hipótese de dispensa de licitação não prevista na legislação federal, por ofensa à competência privativa da União para legislar sobre normas gerais de licitação. O diploma normativo que assim procede, além de inobservar a regra de obrigatoriedade de licitação, implica também violação à isonomia, à impessoalidade e à moralidade”.” (Ação Direta de Inconstitucionalidade n° 0010953-65.2024.8.16.0000, Órgão Especial do Tribunal de Justiça do Estado do Paraná, Rel. Des. Roberto Portugal Bacellar, j. 25.10.2024)
+
+    Na minuta, sustenta-se violação dos arts. 102, I, “a”, 22, XXV, 30, I, 37, caput e XX, da Constituição da República. Alega-se o “não cabimento do controle de constitucionalidade em face de lei de efeitos concretos”, que seria o caso da Lei n.º 2.466/2015, do Município de Guarapuava. Afirma-se, nesse contexto, que “a atuação do Município ocorreu nos estritos limites do que a legislação existente (normas gerais estabelecidas pela União) já estabelece” e defende-se a “inexistência de violação aos princípios norteadores da Administração Pública.”
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, verifica-se que o Tribunal de origem admitiu o controle concentrado em relação a norma de efeitos concretos, considerando suficiente a edição do ato sob a forma de lei, independentemente da presença dos atributos de generalidade e abstração, conforme se extrai do seguinte excerto do acórdão:
+
+    “2.1.1. Nota-se que o principal julgado a embasar a petição inicial – e que teria representado a inauguração do posicionamento jurisprudencial hoje entendido como predominante – é a ADI n. 4.048 MC, julgada pelo Supremo Tribunal Federal, em cuja ementa constou o seguinte: “II. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE DE NORMAS ORÇAMENTÁRIAS. REVISÃO DE JURISPRUDÊNCIA. O Supremo Tribunal Federal deve exercer sua função precípua de fiscalização da constitucionalidade das leis e dos atos normativos quando houver um tema ou uma controvérsia constitucional suscitada em abstrato, independente do caráter geral ou específico, concreto ou abstrato de seu objeto. Possibilidade” (ADI 4048 MC,de submissão das normas orçamentárias ao controle abstrato de constitucionalidade Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 14-05- 2008).
+
+    2.1.2. A jurisprudência recente do Órgão Especial sobre a temática encontra sua base no sobredito precedente.
+
+    A petição inicial destaca o seguinte trecho de ementa de julgado deste Colegiado: “1. QUESTÃO PRELIMINAR. AUSÊNCIA DE INTERESSE. LEI DE EFEITOS CONCRETOS. POSSIBILIDADE DE CONTROLE DE CONSTITUCIONALIDADE NA VIA DIRETA. ATO NORMATIVO MATERIALIZADO POR MEIO DE LEI EM SENTIDO FORMAL. PRESCINDIBILIDADE DE ABSTRAÇÃO E GENERALIDADE NO CASO DE LEI FORMAL. PRECEDENTE DESTE COLEGIADO. CABIMENTO DO CONTROLE ABSTRATO.” (ADI 0011154-33.2019.8.16.0000, PRELIMINAR REJEITADA Órgão Especial, Rel. Lauro Laertes de Oliveira, j. 21/08/2019).
+
+    Faz-se referência também aos seguintes julgados, em sentido similar: ADIs 1748210-5 e 1748209-2, Rel. Fernando Paulino da Silva Wolff Filho, j. 19/08/2019; ADI 1747061-8, Relª Ana Lúcia Lourenço, j. 03/09/2018.
+
+    O tema foi recentemente revisitado no julgamento da ADI n. 0028891-78.2021.8.16.0000, em cuja ementa constou: “Preliminar de não conhecimento da ação – Lei de efeitos concretos – Suposta ausência de interesse pela inadequação da via eleita – Preliminar afastada – Objeto de controle editado sob a forma de lei – Dispensabilidade de generalidade e abstração – Cabimento do exame concentrado de” (Rel.:constitucionalidade – Precedentes do Supremo Tribunal Federal e deste Órgão Especial DESEMBARGADOR ROBSON MARQUES CURY - Rel. Desig. p/ o Acórdão: DESEMBARGADOR ROGÉRIO ETZEL - J. 14.11.2023).
+
+    Desse modo, em consonância com os reiterados precedentes deste Colegiado, deve ser admitido o controle concentrado de constitucionalidade da lei ora impugnada.”
+
+    Nesse sentido, segue trecho de precedente desta Corte:
+
+    “MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N° 405, DE 18.12.2007. ABERTURA DE CRÉDITO EXTRAORDINÁRIO. LIMITES CONSTITUCIONAIS À ATIVIDADE LEGISLATIVA EXCEPCIONAL DO PODER EXECUTIVO NA EDIÇÃO DE MEDIDAS PROVISÓRIAS. I. MEDIDA PROVISÓRIA E SUA CONVERSÃO EM LEI. Conversão da medida provisória na Lei n° 11.658/2008, sem alteração substancial. Aditamento ao pedido inicial. Inexistência de obstáculo processual ao prosseguimento do julgamento. A lei de conversão não convalida os vícios existentes na medida provisória. Precedentes. II. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE DE NORMAS ORÇAMENTÁRIAS. REVISÃO DE JURISPRUDÊNCIA. O Supremo Tribunal Federal deve exercer sua função precípua de fiscalização da constitucionalidade das leis e dos atos normativos quando houver um tema ou uma controvérsia constitucional suscitada em abstrato, independente do caráter geral ou específico, concreto ou abstrato de seu objeto. Possibilidade de submissão das normas orçamentárias ao controle abstrato de constitucionalidade.” (ADI 4048, Tribunal Pleno, Rel. Min. Gilmar Mendes, J. 14.5.2008)
+
+    Importa destacar, igualmente, outros precedentes nos quais normas com destinatários determináveis não foram consideradas desprovidas de “abstração” e “generalidade” e tampouco foram tidas como leis de efeitos concretos, o que corrobora o entendimento disposto no acórdão recorrido.
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO TRIBUTÁRIO. GUERRA FISCAL. REQUISITO DE FRUIÇÃO DE REGIME FAVORECIDO TRIBUTÁRIO E ECONÔMICO. CONTRATAÇÃO DE SERVIÇOS DE TRANSPORTE. INDÚSTRIA AUTOMOBILÍSTICA. SUBSÍDIOS FISCAIS E ECONÔMICOS. DISCRIMINAÇÃO TRIBUTÁRIA EM RAZÃO DA ORIGEM. DESIGUALDADES REGIONAIS. DESENVOLVIMENTO NACIONAL. FEDERALISMO FISCAL COOPERATIVO E DE EQUILÍBRIO. DESESTABILIZAÇÃO CONCORRENCIAL. LIVRE INICIATIVA E LIBERDADE DE CONTRATAR. 1. Os conceitos de determinabilidade e individualização não se confundem, de modo que a lei possuir destinatário determináveis não retira o caráter abstrato e geral de seus mandamentos normativos, nem acarreta em sua definição como lei de efeitos concretos. Precedentes: ADI-MC 2.137, de relatoria do Ministro Sepúlveda Pertence, DJ 12.05.2000; e ADI 1.655, de relatoria do Ministro Maurício Corrêa, DJ 02.04.2004. 2. Não há inconstitucionalidade formal, porquanto a lei impugnada não veicula temática trabalhista ou de transporte. O objeto hostilizado representa legítima manifestação da competência legislativa concorrente sobre direito financeiro, tributário e econômico, nos termos do art. 24, I, do Texto Constitucional. 3. Ofende a vedação à discriminação tributária de natureza espacial a fixação de reserva de mercado a prestadores domiciliados em determinado Estado-membro como requisito para a fruição de regime tributário favorecido e de acesso a investimentos públicos. 4. Não é justificável a discriminação em razão da origem ou do destino com base na redução das desigualdades regionais, porquanto arrosta o mercado único e indiferenciado do ponto de vista tributário, reflexo da própria soberania nacional e da unidade política e econômica da República. 5. A cotização do percentual mínimo de prestadores de serviço de transporte e a atribuição de encargos incompatíveis à iniciativa privada representam ofensa direta às liberdades fundamentais da empresa, pois não guarda correção jurídica a atribuição de deveres instrumentais que praticamente equiparam o agente econômico privado à Administração Pública, com mera finalidade de persecução de política financeira estadual em contexto de guerra fiscal. 6. Há desequilíbrio concorrencial no mercado interno, quando ato legislativo incentiva a concentração de mercados e eventual cartelização das cadeias produtivas. No caso, atentam contra a livre concorrência os requisitos para fruição dos subsídios financeiros e econômicos criados por ente federativo às sociedades empresárias do ramo automobilístico sediadas em seu território. 7. Ação direta de inconstitucionalidade a que se dá procedência.” (ADI 5472, Tribunal Pleno, Rel. Min. Edson Fachin, j. 01.8.2018)
+
+    “DIREITO PROCESSUAL CIVIL E AMBIENTAL. CONTROLE DE CONSTITUCIONALIDADE DE LEI ESTADUAL. PARÂMETRO. CONSTITUIÇÃO ESTADUAL. REPRODUÇÃO DE REGRA PREVISTA NA LEI MAIOR. ABSTRAÇÃO E GENERALIDADE SUFICIENTES PARA AUTORIZAR O CONTROLE DE CONSTITUCIONALIDADE ABSTRATO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COMPREENSÃO DIVERSA. ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA Nº 280/STF. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que ‘os conceitos de determinabilidade e individualização não se confundem, de modo que a lei possuir destinatário determináveis não retira o caráter abstrato e geral de seus mandamentos normativos, nem acarreta em sua definição como lei de efeitos concretos’ (ADI 5.472, Rel. Edson Fachin). 2. O Tribunal a quo consignou que a legislação impugnada se reveste de generalidade e abstração suficientes para autorizar o controle abstrato de constitucionalidade. Compreensão diversa demandaria a análise da legislação local encampada na decisão da Corte de origem, procedimento vedado na sede extraordinária. Aplicação da Súmula nº 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário’. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido” (ARE 1.365.805 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 12.04.2022).
+
+    Outrossim, o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido da competência privativa da União para editar lei versando normas gerais de licitação e contratação públicas (CF, art. 21, XXVII), cabendo ao direito municipal, no exercício da atribuição normativa suplementar (CF, arts. 30, I e II), fixar normas atinentes ao interesse local, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DOAÇÃO E PERMUTA DE BENS IMÓVEIS. LEI MUNICIPAL QUE PREVÊ NOVA HIPÓTESE DE DISPENSA DE LICITAÇÃO. INCONSTITUCIONALIDADE RECONHECIDA. MODULAÇÃO DE EFEITOS. NÃO CABIMENTO. 1. Agravo interno contra decisão monocrática que deu parcial provimento ao recurso extraordinário interposto pela Procuradoria-Geral de Justiça do Estado de São Paulo, para declarar a inconstitucionalidade do comando normativo previsto no inciso I do art. 107 da Lei Orgânica do Município de Araras/SP, no ponto em que previa hipótese de dispensa de licitação nos casos de doação e permuta de bens imóveis. 2. O Supremo Tribunal Federal já manifestou, de forma reiterada, ser vedada aos demais entes federados a criação de hipóteses de dispensa de licitação diversas das previstas na legislação federal, julgando inconstitucionais leis municipais nesse sentido. Precedentes. 3. Incabível a modulação dos efeitos da declaração de inconstitucionalidade por ausência de preenchimento dos requisitos legais (art. 27 da Lei nº 9.868/1999). 4. Agravo interno a que se nega provimento.” (RE 1419333 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, DJe 19-07-2023)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE NO TRIBUNAL DE JUSTIÇA. LEIMUNICIPAL. DISCIPLINA USO DE BENS PÚBLICOS. HIPÓTESES DE DISPENSADELICITAÇÃO. USURPAÇÃO COMPETÊNCIA DA UNIÃO. ART. 22, XXVII, CRFB. DESPROVIMENTO DO AGRAVO REGIMENTAL. 1. É inconstitucional lei municipal que disciplina hipóteses de dispensa de licitação, por usurpação da competência legislativa da União para editar normas gerais de licitação, à luz do art. 22, inciso XXVII, da Constituição Federal. 2. Conforme a repartição constitucional de competências, cabe aos Municípios legislar sobre assuntos de interesse local, bem como suplementar a legislação federal e a estadual no que couber (art. 30, I e II), desde que não contrarie a norma geral federal. A lei federal 8.666/93 trata das hipóteses de dispensa de licitação. 3. Agravo regimental a que se nega provimento.” (ARE 1340483 AgR, Relator(a): EDSON FACHIN, Segunda Turma, DJe 23-02-2022)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 13 de junho de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
