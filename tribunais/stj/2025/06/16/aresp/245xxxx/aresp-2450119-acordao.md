@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. A análise do conjunto fático-probatório realizada pelas instâncias ordinárias não demonstrou a existência de vícios de construção passíveis de indenização, o que impede o reexame das provas em recurso especial, conforme a Súmula nº 7 do STJ.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+RELATÓRIO
+MARIA APARECIDA DOLMEN e outros (MARIA APARECIDA e outros) ajuizaram ação de cobrança contra COMPANHIA EXCELSIOR DE SEGUROS (COMPANHIA), fundamentada na suposta existência de vícios construtivos em seus imóveis, adquiridos pelo Sistema Financeiro da Habitação.
+A sentença de improcedência foi mantida pelo Tribunal de Justiça de São Paulo, nos termos do voto da relatoria do Des. JOSÉ JOAQUIM DOS SANTOS, assim ementado:
+Apelação Cível - Indenização - Seguro habitacional - Tema 1011/STF - Apólice de natureza pública (Ramo 66) - Previsão de garantia pelo FCVS - Ação distribuída em 27/01/2010 - Inaplicabilidade da Tese nº 2 fixada no RE 827.966/PR - Manutenção do feito na Justiça Estadual.
+Indenização  Vícios de construção  Inocorrência  Laudo pericial que constatou a inexistência de vícios de construção passíveis de indenização em oito dos nove imóveis periciados - Risco à solidez das edificações não verificado - Impugnações apresentadas pela parte apelante que se mostraram extremamente genéricas e superficiais  Apresentação de orçamentos que não especificaram a necessidade de obras e a relação delas com eventuais vícios, que sequer restaram descritos  Razões recursais ofertadas que igualmente não impugnaram os fundamentos da sentença com o devido rigor - Ônus da prova (art. 373, I, do CP C) - Apelantes que não demonstraram de maneira cabal a existência de vícios capazes de justificar a indenização pleiteada - Sentença mantida - Recurso improvido.
+Sucumbência Recursal - Honorários advocatícios - Majoração em relação aos autores sucumbentes - Observância do disposto no art. 85, §§ 8º e 11, do CPC (e-STJ, fl. 1.260).
+Opostos novos embargos, foram estes também rejeitados (e-STJ, fls. 1.279/1.283).
+Inconformados, MARIA APARECIDA e outros manejaram o presente recurso especial, com fundamento no art. 105, alíneas a e c, da CF, apontando divergência jurisprudencial e violação dos arts. (1) 489, § 1º, IV e VI, e 1.022, II, do CPC, por ausência de fundamentação e negativa de prestação jurisdicional; e (2) 1.434 e 1.460 do CC/16; 423 e 760 do CC/02 e 47, 48, 51, IV, e 54 do CDC, ao argumento de que o seguro habitacional vigente entre as partes não contém restrição à cobertura por vícios construtivos, mas, ao contrário, assenta a responsabilidade do construtor da obra. Indicaram, em abono de sua tese, precedentes desta Corte Superior.
+Inadmitido o recurso especial, sobreveio o agravo de fls. 1.539/1.551.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. A análise do conjunto fático-probatório realizada pelas instâncias ordinárias não demonstrou a existência de vícios de construção passíveis de indenização, o que impede o reexame das provas em recurso especial, conforme a Súmula nº 7 do STJ.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC
+Não prospera a alegada ofensa aos dispositivos processuais arrolados na peça recursal, tendo em vista que o acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação clara e suficiente, dirimindo integralmente a questão controvertida suscitada, tendo afastado a cobertura contratual pelos vícios construtivos, com base nas seguintes razões:
+Busca a parte autora a condenação da seguradora ré ao pagamento de reparo de danos em oito de nove imóveis descritos na inicial, em decorrência de supostos vícios de construção, pelo qual invocou a responsabilidade obrigacional securitária.
+Todavia, em que pese o inconformismo dos apelantes, nenhum reparo merece a solução empregada pelo MM. Juízo "a quo" que, adotando a conclusão da perícia técnica realizada a fls. 887/945, julgou improcedente o pedido indenizatório em relação a oito dos nove imóveis pertencentes à parte autora, ora apelante.
+A este respeito, pontuou o douto magistrado sentenciante que "a prova pericial está formalmente perfeita e considerou todos os dados técnicos necessários ao julgamento da causa; de tal modo que as impugnações apresentadas e os pareceres dos assistentes técnicos das partes poderão ser considerados pelo Judiciário, caso haja impugnação relevante ao laudo (independentemente da realização de inspeção judicial e independentemente da realização da nova perícia que se revela de todo desnecessária na espécie)" (fl. 1032).
+Ademais, não se pode olvidar que o direito processual adotou o sistema da livre apreciação da prova ou da persuasão racional, por meio do qual resta conferida ampla liberdade ao juiz para avaliar o contexto probatório, desde que indicados os motivos que lhe formaram o convencimento, conforme preceitua o artigo 371 do aludido diploma legal.
+No caso em exame, em que pese a irresignação da parte apelante, não foram verificados vícios de construção passíveis de a indenização nos referidos imóveis, não havendo que se falar em risco à solidez das edificações (e-STJ, fls. 1.263/1.264).
+Desse modo, não há falar em deficiência da fundamentação, tampouco na existência de omissão, obscuridade ou contradição no julgado apenas porque a conclusão se deu em desconformidade com os interesses da parte.
+(2) Da cobertura securitária
+O TJSP, analisando o conjunto fático-probatório, concluiu que a prova técnica dos autos não verificou vícios de construção passíveis de indenização nos referidos imóveis, não havendo que se falar em risco à solidez das edificações (e-STJ, fl. 1.264).
+Em sendo assim, a reversão do julgado, na forma intentada, esbarra no óbice da Súmula nº 7 desta STJ, dada a inviabilidade de reexame das provas dos autos em recurso especial.
+Uma vez declarada a ausência de vícios construtivos indenizáveis pelas instâncias ordinárias, às quais compete a apreciação e configuração do delineamento fático do processo, descabe a este STJ a reanálise desse aspecto fático.
+Nesse sentido, respeitadas as bases fáticas de cada caso, citem-se precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. PRESCRIÇÃO. PRAZO DECENAL. SÚMULA N. 83 DO STJ. COMPROVAÇÃO DOS DANOS ALEGADOS E OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. QUESTÕES ANALISADAS A PARTIR DAS PROVAS DOS AUTOS. SÚMULA N. 7 DO STJ AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais ajuizada pelos promitentes compradores, em razão da existência de vícios construtivos no imóvel.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, nas demandas envolvendo responsabilidade civil por descumprimento contratual, a prescrição obedece ao prazo decenal do art. 205 do Código Civil.
+3. No caso, o reconhecimento da comprovação dos vícios construtivos no imóvel, bem como da ocorrência de situação excepcional que autoriza a fixação de indenização por danos morais em favor dos adquirentes, por extrapolar a esfera do mero inadimplemento contratual, decorreu da análise das circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(AREsp n. 2.810.031/SP, de minha relatoria, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. VÍCIOS CONSTRUTIVOS. INFILTRAÇÕES. DANOS MORAIS. ALTERAÇÃO DO VALOR DA COMPENSAÇÃO. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.971.557/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 26/2/2024, DJe de 29/2/2024)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, ness a parte, a ele NEGAR PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de COMPANHIA , limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+É o voto.
