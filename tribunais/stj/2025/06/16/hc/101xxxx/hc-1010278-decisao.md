@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANTÔNIO DE SOUZA GALINDO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Agravo de Execução Penal n. 0010834-43.2024.8.17.9000).
+Consta dos autos que o Juízo da execução penal indeferiu o pedido de revogação da decisão que decretou a perda de 1/3 dos dias remidos (fl. 40).
+A defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso (fls. 9-13).
+No presente writ, a Defensoria Pública do Estado de Pernambuco alega que, "em razão de evasão ocorrida em 11/1/2012, a administração penitenciária instaurou Procedimento Administrativo Disciplinar (PAD) que resultou na aplicação de falta grave, posteriormente homologada pelo Juízo da 2ª Vara Regional de Execução Penal, determinando a perda de 1/3 (um terço) dos dias remidos" (fl. 2).
+Sustenta que "a decisão judicial homologatória baseou-se exclusivamente em "portaria de encerramento" (fl. 187, seq. 1.1), sem a juntada do respectivo procedimento administrativo disciplinar completo, impossibilitando qualquer controle jurisdicional da legalidade do procedimento" (fl. 2).
+Afirma que "a manutenção da sanção disciplinar baseada em procedimento administrativo sem documentação adequada configura coação ilegal ao direito de liberdade do paciente" (fl. 3).
+Assevera que "a homologação baseada exclusivamente em "portaria de encerramento" transforma o controle jurisdicional em mera chancela administrativa, esvaziando completamente o conteúdo da função jurisdicional prevista no artigo 127 da LEP" (fl. 3).
+Ressalta que "a jurisprudência do STJ reconhece que a homologação judicial de sanções disciplinares não pode ser mera chancela administrativa, devendo o magistrado exercer efetivo controle de legalidade sobre o procedimento que precedeu a aplicação da sanção" (fl. 4).
+Por isso, requer, liminarmente, a suspensão imediata dos efeitos da sanção disciplinar aplicada pela evasão de 11/1/2012 e, no mérito, a concessão da ordem para: a) "anular a sanção disciplinar aplicada pela evasão de 11/1/2012, reconhecendo a flagrante ilegalidade da homologação baseada exclusivamente em "portaria de encerramento"; b) O restabelecimento integral dos 122 (cento e vinte e dois) dias de remição do paciente; c) A determinação para que tais dias sejam computados integralmente para fins de progressão de regime, livramento condicional e extinção da punibilidade; d) Subsidiariamente, a determinação de retorno dos autos ao Juízo da execução para exigir da administração penitenciária a juntada integral do PAD, possibilitando adequado controle jurisdicional" (fl. 5).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (fls. 11-12):
+O instituto da falta grave encontra amparo na Lei Federal nº 7.210/1984 (Lei de Execução Penal), mais especificamente em seu artigo 127 que assim dispõe: "Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar", sendo relevante destacar que o poder disciplinar será exercido pela autoridade administrativa a que estiver sujeito o condenado (artigo 48 da referida lei).
+Saliente-se que para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+É dizer, a Lei de Execução Penal não determina a obrigatoriedade de juntada integral dos autos correspondentes ao Procedimento Administrativo Disciplinar (PAD).
+Dos autos, constata-se que o procedimento administrativo disciplinar foi devidamente realizado e instruído à luz dos ditames legais, oportunizando ao apenado o direito constitucional da ampla defesa e do contraditório, honrando o princípio do devido processo legal.
+Pelo Seq. 1.1 - fl. 176, verifica-se a decisão do procedimento administrativo disciplinar proferida pela autoridade administrativa decidindo pela punição do apenado em decorrência do cometimento da falta grave consistente na evasão do sentenciado em 11/01/2012, tendo havido, inclusive, a realização de audiência de instrução e julgamento em 28/06/2016 na qual o sentenciado foi devidamente ouvido.
+Destaque-se a matéria ventilada no presente recurso já foi devidamente questionada pela defesa técnica do apenado perante o Juízo da Execução, a qual foi julgada improcedente, sendo certo que contra esse decisum a Defensoria quedou-se inerte.
+Soma-se a isso o entendimento já reiterado de que a nulidade do procedimento administrativo disciplinar depende de demonstração de prejuízo, nos termos do princípio pas de nullité sans grief, o que não ocorreu no presente caso.
+Nesse contexto, a decisão do Juízo singular deve ser mantida em sua inteireza, visto que, mesmo inexistindo a integralidade do caderno administrativo do PAD, constata-se que os documentos acostados aos autos da execução foram suficientes para garantir ao apenado o exercício do contraditório e da ampla defesa, assim como o fez.
+Nessa mesma linha é o entendimento da Procuradoria de Justiça (Id 35075166):
+"Da detida análise dos autos, verifica-se não assistir razão ao agravante.
+Isto porque, além de patente a fuga e sua recaptura, reconhecida inclusive na peça recursal, e evidenciada nos assentamentos carcerários, o agravante atualmente cumpre uma segunda condenação por delito perpetrado em 2019.
+Conforme mencionado acima, em suas razões, o agravante informou ter sido condenado nos autos do processo nº 0019003-26.2019.8.17.0001, à pena de 6 anos e 8 meses de reclusão, por infração ao art. 157, §2º, II, do CPB, cometida em 29/10/2019. Considerando que os dias de remição em comento são anteriores a 2012, este novo delito praticado enseja o cometimento de falta grave, nos termos da LEP.
+Desta feita, como bem pontuado nas contrarrazões, "ainda que a decisão vergastada neste recurso de Agravo fosse anulada - num raciocínio por absurdo - o cometimento de outro delito posterior a 2016 ensejaria NECESSARIAMENTE a perda dos dias remidos anteriores a 2016, trazendo a mesma consequência jurídica".
+Ante o exposto, opina esta Procuradoria de Justiça pelo IMPROVIMENTO do recurso interposto, nos termos acima delineados" (Grifos do original).
+Ante o exposto, acompanhando o parecer ministerial, voto no sentido de negar provimento ao presente Agravo de Execução Penal, mantendo-se incólume a decisão agravada (grifei).
+Nesse contexto, verifica-se que o Tribunal de origem afastou a existência de qualquer nulidade na decisão de primeiro grau, tendo ressaltado que "o procedimento administrativo disciplinar foi devidamente realizado e instruído à luz dos ditames legais, oportunizando ao apenado o direito constitucional da ampla defesa e do contraditório, honrando o princípio do devido processo legal" (fl. 11).
+A propósito, foi destacado ainda que "a matéria ventilada no presente recurso já foi devidamente questionada pela defesa técnica do apenado perante o Juízo da Execução, a qual foi julgada improcedente, sendo certo que contra esse decisum a Defensoria quedou-se inerte" (fl. 11, grifei).
+Por fim, asseverou que "a nulidade do procedimento administrativo disciplinar depende de demonstração de prejuízo, nos termos do princípio pas de nullité sans grief, o que não ocorreu no presente caso" (fl. 11).
+Dessa forma, não há falar em flagrante ilegalidade, uma vez que, afastar a conclusão acerca da regularidade do procedimento administrativo, além de demandar a reanálise de matéria já decidida, portanto, preclusa, também demandaria o reexame do conjunto fático-probatório, providência inadmissível no âmbito do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ART. 50, I E VI, DA LEP. ATIPICIDADE OU DESCLASSIFICAÇÃO PARA FALTA DE NATUREZA MÉDIA. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS NA VIA ELEITA. DECISÃO DENEGATÓRIA MANTIDA. AGRAVO IMPROVIDO.
+1. Tendo as conclusões do acórdão regional sido lastreadas nas provas extraídas de procedimento administrativo regular, o acolhimento das alegações da defesa - atipicidade da conduta imputada a título de falta grave (art. 50, I e VI, da LEP), ou a desclassificação para falta de natureza média (art. 45, I, do RIP dos Estabelecimentos Prisionais de São Paulo) - demandaria revolvimento de provas, incabível na via estreita do habeas corpus.
+2. Agravo regimental improvido.
+(AgRg no HC n. 766.258/SP, relator Ministro Jesuíno Rissato -Desembargador convocado do TJDFT, Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023, grifei.)
+Ademais, o Superior Tribunal de Justiça, na mesma linha do que decidiu o Tribunal de origem, vem se posicionando no sentido de que o postulado "pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo" (RHC n. 71.626/CE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/12/2017). O que, segundo o Tribunal de origem não foi demonstrado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
