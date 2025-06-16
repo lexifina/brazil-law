@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO. IMPOSSIBILIDADE. ILEGITIMIDADE ATIVA. RECONHECIMENTO. IRRESIGNAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+1. A insurgência alegada somente no recurso especial caracteriza indevida inovação recursal.
+2. Considera-se deficiente de fundamentação o recurso especial que não indica com clareza e precisão os dispositivos legais que teriam sido supostamente violados pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da Súmula nº 284/STF.
+3. Ademais, a legislação apontada de forma dispersa nas razões recursais, além de não estarem prequestionadas, não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que também faz incidir o óbice da Súmula nº 284/STF.
+4. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por DJULIANA PIRES SANTOS contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CHEQUE NOMINAL - AUSÊNCIA DE PROVA DO ENDOSSO - MERO PORTADOR - ILEGITIMIDADE ATIVA RECONHECIDA. A questão relativa à legitimidade "ad causam" é matéria de ordem pública, que pode ser reconhecida a qualquer tempo e até mesmo de ofício pelo julgador. Nos termos do art. 17, da Lei do Cheque (Lei 7.357/85), o cheque pagável a pessoa nomeada, com ou sem cláusula expressa "à ordem", é transmissível por via de endosso. Ausente prova do endosso pelo beneficiário constante no cheque e figurando a parte autora como mera portadora do título, patente o reconhecimento da sua ilegitimidade ativa" (e-STJ fl. 490).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 526/533).
+No recurso especial (e-STJ fls. 541/578), a recorrente alega, além de divergência jurisprudencial, violação do artigo 1.022 do Código de Processo Civil.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de sanar as omissões e contradições apontadas nos declaratórios, visto que foi ignorada a constituição de um novo título executivo judicial amparado pela coisa julgada da decisão de saneamento, violando o respectivo instituto a determinação de extinção do processo sem resolução do mérito. Além disso, a alegação de ilegitimidade já se encontrava preclusa pela não impugnação da decisão de saneamento em momento oportuno.
+Sustenta que o aresto recorrido violou o instituto da coisa julgada ao desconsiderar o título executivo judicial constituído pela decisão saneadora, que já havia transitado em julgado, tornando impossível a desconstituição do título sob alegações de ilegitimidade ativa em sede de recurso de apelação.
+Afirma que a argumentação da Câmara local sobre a ausência de endosso é infundada, pois a dívida foi judicialmente reconhecida e transformada em um título executivo judicial, que não se submete mais às formalidades de um título de crédito extrajudicial, como um cheque.
+Menciona que a parte recorrida não apresentou prova suficiente para desconstituir o valor total do título executivo judicial, limitando-se a questionar o excesso na cobrança sem comprovar o fato impeditivo, modificativo ou extintivo do direito ora perseguido.
+Ao final, requer a concessão de efeito suspensivo e o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 687/697), o recurso foi inadmitido na origem, sobrevindo daí a interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO. IMPOSSIBILIDADE. ILEGITIMIDADE ATIVA. RECONHECIMENTO. IRRESIGNAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+1. A insurgência alegada somente no recurso especial caracteriza indevida inovação recursal.
+2. Considera-se deficiente de fundamentação o recurso especial que não indica com clareza e precisão os dispositivos legais que teriam sido supostamente violados pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da Súmula nº 284/STF.
+3. Ademais, a legislação apontada de forma dispersa nas razões recursais, além de não estarem prequestionadas, não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que também faz incidir o óbice da Súmula nº 284/STF.
+4. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Trata-se, na origem, de ação monitória ajuizada por Djuliana Pires Santos, fundamentada em cheques emitidos nominalmente, que não foram endossados para a autora, objetivando a constituição de título executivo judicial referente à parte controvertida da dívida.
+O magistrado de primeiro grau de jurisdição julgou procedente o pedido, com resolução do mérito, nos termos do art. 487, I, do CPC, constituindo de pleno direito o título executivo referente à parte controvertida, no valor de R$ 43.853,57 (quarenta e três mil reais, oitocentos e cinquenta e três reais e cinquenta e sete centavos), a ser corrigido monetariamente pelos índices da Tabela da Corregedoria Geral de Justiça a partir da data de emissão estampada nas cártulas, e os juros de mora de 1% ao mês a contar da primeira apresentação à instituição financeira sacada ou câmara de compensação. Além disso, a sentença determinou que fosse oficiado o juízo da Comarca de São João Evangelista/MG, informando ter restado prejudicada a reserva de bens determinada nos autos.
+O Tribunal de origem, por sua vez, decidiu acolher a preliminar de ilegitimidade ativa e julgou extinto o processo sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+A decisão foi fundamentada na ausência de prova de endosso dos cheques emitidos nominalmente ao beneficiário Geraldo José de Pinho Filho, o que configurou a autora, Djuliana Pires Santos, como mera portadora dos títulos, sem legitimidade para cobrança.
+Irresignada, busca a recorrente a reforma do julgado.
+De início, no tocante à negativa de prestação jurisdicional, verifica-se que a agravante alega que o Tribunal de origem, embora instado, deixou de se manifestar a respeito de que houve a constituição de um novo título executivo judicial decorrente da coisa julgada da decisão de saneamento, de modo que a preliminar de ilegitimidade ativa já se encontrava preclusa pela não impugnação da decisão saneadora em momento oportuno.
+Contudo, verifica-se que tal alegação se trata de inovação recursal, o que não se admite em recurso especial, visto que nos declaratórios opostos na origem a recorrente buscou sanar os supostos vícios de omissão e contradição em relação ao fato de que os títulos foram emitidos ao portador, sendo a assinatura no verso de Geraldo José de Pinho filho na condição de simples avalista, de modo que não há falar em ilegitimidade ativa.
+Logo, não se conhece da alegada negativa de prestação jurisdicional por veicular matéria não suscitada na origem.
+Por fim, quanto à alegação de que ocorreu coisa julgada com o trânsito em julgado da decisão saneadora, a deficiência da fundamentação recursal restou evidenciada, pois a recorrente deixou de indicar, com clareza e objetividade, os dispositivos de lei federal que teriam sido ofendidos pelo acórdão atacado, limitando-se a expressar o inconformismo com o julgado, redigindo o especial como se apelação fosse.
+Assim, a mera indicação de artigos nas razões recursais evidencia a ausência de fundamentação do recurso especial e atrai a incidência, por analogia, da Súmula nº 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RESCISÃO. TAXA DE OCUPAÇÃO DE LOTE NÃO EDIFICADO. COBRANÇA DOS COMPRADORES. IMPOSSIBILIDADE. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.971.258/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 8/4/2022)
+Mesmo que referido óbice fosse superável para entender que os artigos 523, 701, § 2º, e 702, § 7º, do CPC foram apontados como violados no apelo nobre, ainda assim não assistiria razão à recorrente.
+Isso porque, além de não estarem prequestionados, referidos preceitos legais não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que, por outro motivo, também configura deficiência de fundamentação do recurso especial, atraindo o óbice da Súmula nº 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
