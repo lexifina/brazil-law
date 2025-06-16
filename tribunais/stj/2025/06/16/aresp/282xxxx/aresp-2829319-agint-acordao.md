@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA RÉ.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver cons equências fáticas capazes de ensejar o sofrimento psicológico.
+1.1 No caso sub judice, o Tribunal de origem consignou expressamente estar com provada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+1.2 Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BRDU URBANISMO S/A e PROJETO RIO VERMELHO EMPREENDIMENTOS IMOBILIÁRIOS LTDA, em face de decisão monocrática, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial.
+O apelo extremo, a seu turno, fundamentado no art. 105, III, "a", da Constituição Federal, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL, RESTITUIÇÃO DOS VALORES ADIMPLIDOS, INDENIZAÇÃO POR DANO MORAL C/C TUTELA DE URGÊNCIA - COMPRA E VENDA DE LOTE (LOTEAMENTO PARQUE ALTA VISTA) - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - CULPA DA VENDEDORA PELO ATRASO NA OBRA - PRETENSÃO DE RETENÇÃO DE PARTE DOS VALORES PAGOS - INVIABILIDADE - DANO MORAL CONFIGURADO - DETERMINAÇÃO DE DEVOLUÇÃO DE VALORES COM INCIDÊNCIA DE JUROS A PARTIR DO TRÂNSITO EM JULGADO - INVIABILIDADE EIS QUE A CULPA FOI EXCLUSIVA DA VENDEDORA DO LOTE - INCIDÊNCIA DE JUROS DE MORA DESDE A CITAÇÃO. - SENTENÇA MANTIDA - RECURSO DESPROVIDO. 1. Nos termos do art. 373, II, do CPC c/c art. 6º, VIII, do CDC, é ônus das . empreendedoras a comprovação do cumprimento das suas obrigações contratuais 2. Constatando-se a culpa exclusiva do vendedor em relação ao atraso injustificado, tendo-se em vista a data de encerramento do empreendimento e o contrato firmado, é viável a devolução dos valores pagos, sem qualquer retenção. 3. É cabível a fixação de dano moral em situação de atraso injustificado da empresa de empreendimentos imobiliários, de modo que a situação ultrapassa o mero aborrecimento e acarreta abalo emocional importante à parte consumidora/apelada. 4. Impõe-se a manutenção da sentença que fixou os valores atinentes a danos morais, dentro dos parâmetros da razoabilidade e proporcionalidade, observando-se o critério pedagógico da condenação. 5. Os juros de mora em contrato rescindido por culpa exclusiva do vendedor devem incidir desde a citação, eis que o julgado do colendo Superior, no R Esp 1740911/DF, pelo rito de repetitivo (Tema 1002), diz respeito a rescisão do contrato de compra e venda imotivada pelo comprador 6. Sentença mantida. 7. Recurso desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, o recorrente apontou violação aos arts. 186, 927 e 420 do CC ante a não configuração de danos morais e a vedação à indenização suplementar na hipótese de incidência da cláusula penal convencionada.
+Inadmitido o apelo na origem, foi manejado o agravo de fls. 595/602, e-STJ.
+Em decisão monocrática, este signatário conheceu do agravo para negar provimento ao recurso especial ante a incidência das Súmulas 7 do STJ e 283 e 284 do STF.
+Irresignada, a parte manejou o presente agravo interno, no qual busca combater os retrocitados óbices.
+Impugnação às fls. 660/669, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA RÉ.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver cons equências fáticas capazes de ensejar o sofrimento psicológico.
+1.1 No caso sub judice, o Tribunal de origem consignou expressamente estar com provada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+1.2 Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar, devendo ser mantida na íntegra a decisão agravada por seus próprios fundamentos.
+1. Relativamente aos danos morais, fundamentou a Corte local:
+Inobstante, fato narrado sem dúvida ultrapassa aquilo que se costuma chamar de mero aborrecimento, ou contingências da vida moderna, configurando o abalo moral e fazendo jus o recorrido a ser indenizado como forma de compensar o prejuízo imaterial sofrido.
+Com efeito, a jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+No caso sub judice, o Tribunal de origem consignou expressamente estar com provada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+Assim, para acolhimento do apelo extremo no ponto, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RETENÇÃO DA UNIDADE. SÚMULAS N. 5 E 7 DO STJ. CULPA CONCORRENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+ ..
+7. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta teria ultrapassado o mero dissabor. Alterar esse entendimento demanda o reexame de provas, inviável em recurso especial.
+8. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1118025/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020) - grifou-se.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. COMPROMISSO DE COMPRA E VENDA. ATRASO PARA ENTREGA DE UNIDADE IMOBILIÁRIA. CASO FORTUITO OU FORÇA MAIOR. NÃO OCORRÊNCIA. REVISÃO DO JULGADO.IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANO MORAL. OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA.
+ ..
+4. Existência de julgados no âmbito do Superior Tribunal de Justiça no sentido de que o atraso da promitente vendedora em entregar o imóvel no prazo contratual, injustificadamente, não acarreta, por si só, danos morais.
+5. Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+6. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral em razão de o atraso na entrega do imóvel ter perdurado por mais de dois anos.
+7. Conforme a jurisprudência do Superior Tribunal de Justiça, se a controvérsia é decidida dentro dos limites delineados na petição inicial, não há falar em julgamento extra, citra ou ultra petita.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1764598/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020) - grifou-se
+2. Quanto ao artigo 402 do Código Civil, restou consignado no acórdão recorrido:
+No caso em apreço, a parte embargante assevera que há omissão quanto a sua tese de que a multa contratual que lhe fora aplicada é incompatível com a devolução de arras/sinal, se tratando de bis in idem e violação do art. 420 do Código Civil.
+Sobre esse tema, convém esclarecer que a parte embargante faz uma leitura equivocada do dispositivo legal, haja vista que o arras/sinal está relacionado com o direito de arrependimento do contrato, o que não é o caso dos autos, posto que o contrato sob análise teve sua rescisão determinada em decorrência do inadimplemento contratual por parte da embargante.
+E ainda que o referido dispositivo fosse aplicável ao presente caso, o art. 420 do Código Civil estabelece que, no caso de arrependimento pela parte que recebeu o arrás, esta deverá devolvê-lo acrescido de quantia equivalente, ou seja, "pagará o dobro do que recebeu", sendo certo que não há qualquer previsão nesse sentido no Acórdão.
+Contudo, apesar da extensão de suas razões recursais, a ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, como manda o princípio da dialeticidade, apenas cingindo-se em insistir em argumentos dissociados dos fundamentos do acórdão recorrido, incidindo, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamentos do acórdão recorrido - suficientes para sua manutenção -; incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação dos dispositivos apontados, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
