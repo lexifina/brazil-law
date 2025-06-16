@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO BRADESCO S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/2/2025.
+Concluso ao gabinete em: 6/3/2025.
+Ação: de arbitramento de honorários, ajuizada por GALERA MARI E ADVOGADOS ASSOCIADOS, em face do agravante.
+Sentença: julgou procedentes os pedidos para condenar o agravante pagamento de R$ 25.000,00 (vinte e cinco mil reais) (e-STJ fls. 1447-1458).
+Acórdão: negou provimento à apelação interposta pelo agravante e deu provimento à apelação do agravado, para majorar os honorários para R$ 40.000,00 (quarenta mil reais), nos termos da seguinte ementa (e-STJ fls. 1599-1615):
+RECURSOS DE APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - PROCEDÊNCIA - PRELIMINAR - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - MÉRITO - PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - RESCISÃO UNILATERAL DO MANDATO - ARBITRAMENTO DE HONORÁRIOS - OBSERVÂNCIA À EXTENSÃO DA ATUAÇÃO PROFISSIONAL - ADEQUAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE - ART. 22, § 2º DA LEI N. 8.906/94 E § 2º DO ART. 85 DO CPC/15 - RECURSOS DO BANCO CONHECIDO E DESPROVIDO - RECURSO DE GALERA MARI E ADVOGADOS ASSOCIADOS PROVIDO EM PARTE.
+Cabe ao juiz, destinatário da prova colhida no curso da instrução, deliberar sobre a necessidade ou não da produção de determinada prova, para formação de seu convencimento.
+Logo, entendendo o magistrado, a quem a prova é dirigida, que os elementos constantes dos autos bastam à formação do seu convencimento, não há óbice ao julgamento antecipado da lide, evitando-se, assim, onerar as partes e retardar a prestação jurisdicional.
+O fato de haver previsão contratual de pagamento de honorários ad exitum por etapas processuais concluídas, não acarreta impedimento para que o advogado contratado busque judicialmente o arbitramento de honorários pelos serviços efetivamente prestados até a rescisão do contrato.
+Para a fixação de honorários em casos como esse não se aplica a regra de percentual sobre o valor da causa ou condenação disposta no §2º, do art. 85, do CPC/15, devendo o magistrado se ater à dedicação do advogado, à competência com que concluiu os interesses de seu cliente, à complexidade da causa e ao tempo despendido, além do valor da causa.
+Embargos de declaração: opostos pelo agravante, foram rejeitados (e-STJ fls. 1661-1677) .
+Recurso especial: alega violação dos arts. 141, 489, §1º, IV, 492 e 1.022, I e II, parágrafo único, II, do CPC e dos arts. 187, 421 e 422, do CC e do art. 22, §2º, da Lei 8.906/94.
+Afirma haver obscuridade quanto ao objeto do recurso, além de contradição ao reconhecer a existência de contrato e manter a condenação, bem como ao majorar os honorários de forma desproporcional, ensejando o enriquecimento sem causa.
+Sustenta que o acórdão é extra petita, pois o objeto da ação é o arbitramento de honorários em razão da rescisão contratual, e não em razão da ausência de pagamento dos valores constantes no contrato, os quais foram efetuados. Aduz que o contrato celebrado previa o recebimento de honorários por etapa trabalhada, não se tratando de contrato ad exitum, de modo que deve ser respeitada a força obrigatória dos contratos. Assim, defende a impossibilidade de arbitramento de honorários, de modo que deve ser julgado improcedente o pedido inicial.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do objeto do recurso, (e-STJ fls. 1607-1609), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+O agravante alega ainda a existência de contradição no acórdão recorrido, ao reconhecer a existência de contrato e manter a condenação, bem como ao majorar os honorários de forma desproporcional, ensejando o enriquecimento sem causa.
+O TJ/MT foi claro ao destacar que a controvérsia consistiria em saber se a existência de contrato de honorários impediria o arbitramento para a remuneração dos serviços advocatícios efetivamente prestados até a rescisão unilateral. Salientou que os honorários contratuais por etapas se assemelham aos honorários pelo êxito e seriam distintos dos honorários decorrentes dos serviços advocatícios prestados, os quais deveriam ser remunerados, sob pena de enriquecimento ilícito por parte do contratante, além de que haveria justa expectativa de recebimento de honorários processuais ao final do processo, a serem fixados pelo Judiciário. Após consignar os termos do contrato e dos documentos juntados, entendeu ser razoável e proporcional a sua fixação em R$ 40.000,00 (quarenta mil reais), observada a extensão da atuação, a complexidade da causa, a dedicação do advogado e o tempo de patrocínio (e-STJ fls. 1608-1615). Assim, não se verifica a alegada contradição.
+Ressalte-se que a contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 141 e 492, do CPC e dos arts. 187, 421 e 422, do CC, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da possibilidade de arbitramento da verba honorária, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 1458) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de arbitramento de honorários.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
