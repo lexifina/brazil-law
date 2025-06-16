@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 250):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A agravante sustenta que "(..), a r. decisão agravada merece ser reformada, haja vista que, com todas as vênias, partiu de premissa equivocada, como se demonstrará no decorrer do presente Agravo Interno, já que a Agravante impugnou especificamente todos os fundamentos da r. decisão que inadmitiu o Apelo Especial." (fl. 257). Defende que "(..) demonstrou - desde o início - no apelo especial inadmitido, que a violação aos artigos 924, inciso V, do CPC e 156, inciso V, do CTN se deu quando o Tribunal a quo entendeu pela ocorrência da prescrição intercorrente, justamente a quaestio vexata sobre a qual se pronunciou expressamente o v. acórdão recorrido por meio de efetivo debate em sede de recurso de apelação. (..) O que se verifica no caso sob análise é a ocorrência da prequestionamento implícito, o que em muito difere, com todas as vênias, da ausência de prequestionamento que levaria à inadmissão do apelo especial." (fls. 258-259).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, o fundamento da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, a recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada na incidência das Súmulas 282/STF e 356/STF.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Veja-se que para o atendimento da exigência recursal de devida impugnação à aplicação das Súmulas 282/STF e 356/STF, é necessário que a parte indique, transcrevendo-os, os trechos do julgado recorrido em que o colegiado de origem tratou do tema discutido, decidindo sobre ele, de modo a demonstrar a efetiva ocorrência do prequestionamento - ainda que implícito - da matéria.
+Não obstante, no caso, a parte agravante disse tão somente que "(..), a ocorrência da prescrição intercorrente é justamente a quaestio vexata sobre a qual se pronunciou expressamente o v. acórdão recorrido por meio de efetivo debate em sede de recurso de apelação. Nesse contexto, portanto, ao contrário do asseverado na r. decisão ora recorrida, o Tribunal de origem rechaçou a tese ventilada nas razões recursais da ora Agravante, entendendo por acolher as razões de Apelação da Municipalidade, para afastar a ocorrência da prescrição intercorrente, dando, portanto, total provimento ao apelo. O que se verifica no caso sob análise é a ocorrência da prequestionamento implícito, o que em muito difere, com todas as vênias, da ausência de prequestionamento que levaria à inadmissão do apelo especial, como se extrai de parte do v. acórdão recorrido: (..)." (fls. 218-219).
+Ora, os dispositivos indicados pela parte no seu recurso especial como violados (arts. 924, inc. V, do CPC/2015 e 156, inc. V, do CTN) dizem tão somente que se extingue a execução/o crédito tributário pela prescrição, sendo que o trecho do acórdão recorrido colacionado no agravo em recurso especial, a título de demonstrar o suposto prequestionamento implícito dos referidos artigos não cumpre o objetivo, pois dele apenas se retira que o colegiado rechaçou a ocorrência de prescrição intercorrente em vista da aplicação da Súmula 106/STJ, ou seja, do trecho colacionado não se retira discussão sobre se o reconhecimento da prescrição é ou não capaz de extinguir a execução/o crédito tributário.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
