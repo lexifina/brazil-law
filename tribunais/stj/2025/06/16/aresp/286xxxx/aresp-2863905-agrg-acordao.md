@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não tendo a defesa, nas razões do agravo regimental, infirmado especificamente os fundamentos da decisão agravada para não conhecer do recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+Cuida-se  de  agravo  regimental  interposto  por  LEANDRO SOARES LIMA contra  a decisão  monocrática  na qual  conheci do agravo para não conhecer do recurso especial interposto pelo ora agravante, em virtude da incidência, por analogia, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+Por oportuno, transcrevo o relatório da decisão ora agravada:
+Trata-se de agravo em recurso especial interposto por LEANDRO SOARES LIMA contra decisão proferida no âmbito do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal (Agravo em Execução n. 0017198-60.2024.8.26.0050).
+Depreende-se dos autos que o Juízo da execução indeferiu o pedido de extinção da punibilidade da pena de multa imposta ao ora recorrente (e-STJ fl. 119).
+Interposto agravo em execução, o Tribunal de origem negou-lhe provimento, nos termos do acórdão assim ementado (e-STJ fl. 175):
+AGRAVO EM EXECUÇÃO PENAL. PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE SEM O RESPECTIVO PAGAMENTO. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal, ao julgar a ADI 3.150/DF, declarou que a multa é espécie de pena aplicável em retribuição e prevenção à prática de infrações penais, não perdendo sua natureza de sanção penal, conquanto seja considerada dívida de valor. 2. O adimplemento da pena de multa conjuntamente cominada com a pena privativa de liberdade é condição para o reconhecimento da extinção da punibilidade, salvo na situação de comprovada impossibilidade pelo apenado, ainda que de forma parcelada. (STF. Plenário. ADI 7032/DF, Rel. Min. Flávio Dino, julgado em 22/03/2024 Info 1129). 3. Por se tratar de pena, incide sobre a sanção pecuniária desta natureza o princípio da inevitabilidade, segundo o qual a pena não pode deixar de ser aplicada e cumprida integralmente, a menos que o agravante demonstre a impossibilidade de adimplemento da pena pecuniária, ônus do qual não se desincumbiu. 4. Ademais, pendente de cumprimento a pena privativa de liberdade imposta cumulativamente, o que obsta, por si só, a pretensão de extinção da punibilidade no caso.
+Agravo defensivo desprovido.
+Nas razões do recurso especial, a defesa alega que "os dados presentes nos autos demonstram que o sentenciado é hipossuficiente econômico", o que "leva à extinção da punibilidade independentemente do pagamento da multa" (e-STJ fl. 199).
+Acrescenta que "o sentenciado é assistido pela DPESP", o que "gera a presunção de pobreza, fazendo incidir as premissas estabelecidas pelo tema 931" (e-STJ fl. 199). Sustenta, ainda, que "o Judiciário obrigatoriamente avaliou seu estado financeiro, como exige a norma em apreço, e fixou o valor dos dias-multa no mínimo previsto em lei", de forma que "concluiu por sua miserabilidade", além de que "não foram encontrados bens que demonstrem ter o sentenciado condições e pagar a multa sem prejudicar o seu sustento e o de seus familiares" (e-STJ fl. 200).
+Diante dessas considerações, requer "que o recurso seja conhecido e provido para julgar extinta a punibilidade do recorrente" (e-STJ fl. 203).
+O recurso especial foi inadmitido em virtude da incidência da Súmula n. 283/STF (e-STJ fls. 223/224).
+Daí a interposição do presente agravo em recurso especial.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 266/269).
+Nas razões do agravo regimental,  a defesa alega que "não há como se falar em ofensa à Súmula 283 do STF, uma vez que as razões foram expostas de forma suficiente e pormenorizada" (e-STJ fl. 280).
+Ao final, requer "seja reconsiderada a r. decisão monocrática de fls. 272/275, ou provido o presente Agravo Regimental e, consequentemente, conhecido e provido o Recurso Especial interposto, para os fins postulados" (e-STJ fl. 281).
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não tendo a defesa, nas razões do agravo regimental, infirmado especificamente os fundamentos da decisão agravada para não conhecer do recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+VOTO
+  O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+O agravo regimental não ultrapassa o juízo de conhecimento.
+O recurso especial não foi conhecido em virtude da incidência, por analogia, da Súmula n. 283 do Supremo Tribunal Federal, conforme se depreende dos seguintes trechos da decisão ora agravada:
+Inicialmente, transcrevo os fundamentos expostos pelo Tribunal de origem para manter a decisão que indeferiu o pedido de extinção da punibilidade da pena de multa imposta ao ora recorrente (e-STJ fls. 181/183, grifei):
+ ..  por se tratar de pena, incide sobre a sanção pecuniária desta natureza o princípio da inevitabilidade, segundo o qual a pena não pode deixar de ser aplicada e cumprida integralmente, a menos que o agravante demonstrasse a impossibilidade de adimplemento da pena pecuniária, ônus do qual não se desincumbiu.
+Primeiro, porque a fruição do direito fundamental da assistência jurídica integral e gratuita (CF, art. 5º, LXXIV) não atesta, por si só, sua hipossuficiência financeira, mesmo porque esse serviço público pode ser prestado simplesmente em razão de a pessoa reclusa não constituir defensor para a defesa de seus direitos durante a execução criminal. Aliás, com a superveniência da Lei nº 12.313/10, a Defensoria Pública foi incluída como órgão da execução penal (LEP, art. 61, VIII), com dever legal de velar pela regular execução da pena e da medida de segurança, assim como oficiar para a defesa dos necessitados (LEP, art. 81-A), assinalando, uma vez mais, sua função constitucional de custos vulnerabilis. Segundo, porque irrelevante o valor do dia-multa fixado na condenação para aferição da hipossuficiência do condenado na fase executória. Terceiro, porque não se juntaram aos autos documentos ou provas que atestassem a impossibilidade de o agravante adimplir a pena de multa que lhe fora aplicada, ainda que de forma parcelada não bastando, para tanto, declaração de hipossuficiência ou de estar isento de apresentação de declaração de renda, eventual recebimento de valores de programas de transferência de renda ou ausência de bens/ativos localizados em seu nome. Quarto, porque ainda pendente de cumprimento a pena privativa de liberdade imposta cumulativamente (PEC nº 7000482-72.2020.8.26.0050), o que obsta, por si só, a pretensão de extinção da punibilidade da pena de multa.
+A prevalecer entendimento em sentido diverso, criar-se-ia uma forma de extinção de punibilidade não prevista em lei, com desvirtuamento da lógica e das finalidades retributiva e preventiva das sanções penais, em afronta aos princípios da isonomia, do devido processo legal e da proporcionalidade, sob o viés da proibição à proteção deficiente de bens jurídicos.
+Por tais razões, não há como acolher o pedido defensivo de extinção da punibilidade da pena de multa sem o seu pagamento, devendo prosseguir na forma disciplinada no artigo 40, § 2º e seguintes, da Lei nº 6.830/1980, ou seja, findo o prazo de suspensão, oportunamente, arquivando-se os autos, até a eventual localização de ativos ou o decurso do prazo prescricional.
+Verifica-se que, além de destacar a ausência demonstração da hipossuficiência econômica do sentenciado, a Corte local negou provimento ao agravo com base em outro fundamento autônomo, qual seja, o fato de que ainda está pendente de cumprimento a pena privativa de liberdade cumulativamente imposta.
+Nas razões do recurso especial, a defesa, por sua vez, limitou-se a expor os motivos pelos quais o apenado deveria ser considerado hipossuficiente para que fosse extinta a punibilidade da pena de multa, deixando de impugnar especificamente o fundamento relativo à pendência da pena privativa de liberdade.
+Nesse contexto, conforme ressaltado na decisão de inadmissão do recurso, diante da deficiência na fundamentação do recurso especial, vislumbra-se a incidência, por analogia, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+Contudo, no presente agravo regimental, a defesa limitou-se a expor alegações genéricas acerca da inaplicabilidade do referido óbice, sem indicar em que ponto das razões do recurso especial teria sido impugnado especificamente o fundamento do acórdão recorrido individualizado na decisão ora agravada, relativo à pendência de cumprimento da pena privativa de liberdade cumulativamente imposta ao sentenciado com a pena de multa.
+Desse modo, não tendo a defesa demonstrado o cumprimento do princípio da dialeticidade recursal, deve ser aplicado, por analogia, o teor da Súmula n. 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.310.040/SC, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+1. "Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamento s utilizados na decisão agravada" (AgRg no AREsp 471.237/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+2. Na hipótese, a decisão agravada não conheceu do habeas corpus, sob o entendimento de que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, porquanto foram apreendidos com o agravante 100 (cem) porções de cocaína, com peso de 187,7 g. Todavia, o agravante não impugnou tal fundamento, o que faz incidir a Súmula 182 do STJ.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 847.632/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ante o exposto, não conheço do agravo regimental.
+É  o  voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
