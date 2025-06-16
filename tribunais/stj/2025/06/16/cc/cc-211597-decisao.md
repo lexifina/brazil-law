@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DE DIREITO DA 2ª VARA DE BARRA VELHA/SC, suscitante, e o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, o suscitado.
+Consta dos autos que, de forma consciente e voluntária, os denunciados teriam, em tese, constituído, promovido, financiado e integrado, pessoalmente, organização criminosa que atuava no município de Barra Velha/SC, associando-se, de maneira estruturada e com divisão de tarefas, com o objetivo de obter vantagens pecuniárias mediante fraudes em licitações e contratos administrativos e peculatos, infrações penais cujas penas máximas são superiores a quatro anos.
+A denúncia foi originariamente oferecida perante o Tribunal de Justiça do Estado de Santa Catarina, em razão de o denunciado D.E.C. ocupar, à época dos fatos, o cargo de Prefeito Municipal.
+Em razão do término do mandato do denunciado D.E.C., o Tribunal de Justiça declinou de sua competência para a 2ª Vara da Comarca de Barra Velha/SC e determinou a remessa dos autos para julgamento em primeira instância, com fundamento na orientação jurisprudencial do Supremo Tribunal Federal firmada na Questão de Ordem na Ação Penal n. 937, em que se concluiu pela restrição do foro por prerrogativa de função aos delitos praticados durante o exercício do cargo e relacionados à sua função (fl. 8-10).
+Recebidos os autos pelo Juízo da 2ª Vara da Comarca de Barra Velha/SC, este se manifestou pela competência do TJSC para processar e julgar o feito e suscitou o conflito de competência. Sustentou que a prerrogativa de foro é norma de competência absoluta e objetiva, e não privilégio de cunho pessoal, estabelecida para garantir a adequada persecução penal dos agentes públicos e vinculada à natureza do cargo ocupado no momento da prática delituosa, e não à permanência ou não do agente na função pública ao longo da tramitação processual (fl. 5-7).
+O Ministério Público Federal opinou pelo não conhecimento do conflito, por envolver o Tribunal de Justiça do Estado de Santa Catarina e juiz a ele vinculado.
+É o relatório. DECIDO.
+O conflito de competência não deve ser conhecido.
+O art. 105, inciso I, alínea "d", da Constituição Federal, dispõe que compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os conflitos de competência entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos.
+No caso dos autos, trata-se de divergência entre o Tribunal de Justiça do Estado de Santa Catarina e juiz a ele vinculado, sendo o primeiro juízo hierarquicamente superior a este. Nesse contexto, não há conflito a ser dirimido pelo Superior Tribunal de Justiça.
+No mesmo sentido, citam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A ORDEM ECONÔMICA E TRIBUTÁRIA E LAVAGEM DE DINHEIRO. FRAUDES NO MERCADO DE COMBUSTÍVEIS. DECISÃO MONOCRÁTICA. OFENSA À COLEGIALIDADE. NÃO OCORRÊNCIA. CRIME DE DUPLICATA SIMULADA DE COMPETÊNCIA FEDERAL ARQUIVADO. COMPETÊNCIA ESTADUAL DOS DELITOS REMANESCENTES. NOVA DENÚNCIA. CONEXÃO. MATÉRIA ALHEIA AO FEITO. AGRAVO IMPROVIDO.
+1. A alegação de ofensa ao princípio da colegialidade fica superada pela submissão da matéria ao colegiado por meio do agravo regimental. Precedentes.
+2. Segundo o entendimento desta Corte, "arquivado o inquérito policial em relação ao delito de competência da Justiça Federal, não se justifica a manutenção da investigação na seara federal dos demais delitos conexos se os crimes remanescentes são de competência da Justiça Estadual" (CC 149.111/PR, relator Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 8/2/2017, DJe 13/2/2017).
+3. A propositura de nova ação penal que teria, em tese, em razão da conexão, o condão de deslocar a competência do feito a que se referem este autos para a Justiça Federal é matéria alheia ao presente conflito, não podendo ser, aqui, apreciada.
+4. Esta Corte não é competente para o julgamento de conflitos de competência entre juízos submetidos ao mesmo tribunal, nos termos do art. 105, I, d, da Constituição Federal, devendo qualquer controvérsia nesse sentido ser apresentada à Corte local.
+5. Agravo regimental improvido." (AgRg no CC n. 160.281/MG, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 13/3/2019, DJe de 25/3/2019.)
+"AGRAVO INTERNO. CONFLITO POSITIVO. EXECUÇÃO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. JUÍZOS VINCULADOS AO MESMO TRIBUNAL. INCOMPETÊNCIA DO STJ. BAIXA NA DISTRIBUIÇÃO. REMESSA AO TJDFT.
+1. Nos termos do art. 105, inciso I, alínea "d", da Constituição Federal, não compete ao STJ dirimir conflito de competência entre Juízos vinculados ao mesmo tribunal.
+2. Baixa na distribuição e remessa do conflito positivo ao Tribunal de Justiça do Distrito Federal e dos Territórios.
+3. Agravo interno a que se nega provimento." (AgInt no CC n. 191.918/DF, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 8/3/2023, DJe de 15/3/2023.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. INOVAÇÃO RECURSAL. EXAME. IMPOSSIBILIDADE. CONFLITO DE COMPETÊNCIA. JUÍZOS FEDERAL COMUM E DE EXECUÇÕES FISCAIS. VINCULAÇÃO AO MESMO TRIBUNAL. ANÁLISE. INVIABILIDADE.
+1. A discussão sobre se a competência para julgar execução proposta pela OAB seria da vara federal de execuções fiscais ou da vara federal comum escapa ao debate trazido a esta Corte Superior por meio da instauração de conflito de competência, constituindo matéria inovatória e, por isso, insuscetível de exame neste momento processual.
+2. Não cabe ao Superior Tribunal de Justiça dirimir conflito de competência entre Juízos vinculados ao mesmo tribunal. Precedentes.
+3. Agravo interno não conhecido." (AgInt no CC n. 194.933/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 16/5/2023, DJe de 19/5/2023.)
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
