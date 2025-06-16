@@ -1,0 +1,116 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o recurso especial merece conhecimento.
+III. Razões de decidir
+3. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento:
+1. A discordância com a decisão não configura ofensa aos arts. 489 e 1.022 do CPC/2015. 2. Não é possível a análise de elementos fáticos em recurso especial.
+Dispositivos relevantes citados: CPC/2015, arts. 489 e 1.022; CF, art. 105, III, "a".
+RELATÓRIO
+Trata-se de agravo interno (fls. 819-850) interposto contra decisão desta relatoria, que negou provimento a agravo em recurso especial.
+Em suas razões, a parte agravante insiste na ocorrência de violação do art. 1.022 do CPC/2015, reiterando as omissões anteriormente arguidas e sustentando que a análise de tais questões poderia modificar o resultado do julgamento.
+Refuta a aplicação das Súmulas n. 5 e 7 do STJ, argumentando que (fls. 835-836):
+A própria incidência dos óbices das súmulas demonstra a negativa de prestação jurisdicional do eg. TJMS (conforme elucidado no tópico anterior), uma vez que o Tribunal a quo se negou a apreciar as questões ao rejeitar os embargos de declaração sem esclarecimentos.
+É certo que a manifestação do TJMS sobre os pontos omissos que poderiam infirmar o resultado da causa afastaria também o óbice das súmulas indicadas, uma vez que delinearia o cenário sobre o qual deve debruçar este STJ.
+Entretanto, quando o eg. Tribunal a quo se nega a enfrentar o ponto omisso após a oposição dos embargos de declaração, este c. STJ entende ser possível o enfrentamento da matéria, considerando como prequestionadas as provas e fatos que foram sustentados nos aclaratórios, nos termos do art. 1.025 do CPC/15. Confira-se: (..)
+Sustenta ser possível a revaloração da prova.
+Reitera argumentos do especial e defende que, caso se entenda que a matéria não foi prequestionada, deve ser acolhida a alegada ofensa ao art. 1.022 do CPC/2015.
+Ao final, pede o provimento do recurso.
+Foi apresentada impugnação (fls. 853-860).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o recurso especial merece conhecimento.
+III. Razões de decidir
+3. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento:
+1. A discordância com a decisão não configura ofensa aos arts. 489 e 1.022 do CPC/2015. 2. Não é possível a análise de elementos fáticos em recurso especial.
+Dispositivos relevantes citados: CPC/2015, arts. 489 e 1.022; CF, art. 105, III, "a".
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 810-815):
+Trata-se de agravo nos próprios autos interposto por AIRTON ROSENDO contra decisão que inadmitiu o recurso especial porque não demonstrada a ofensa aos arts. 489 e 1.022 do CPC/2015 e por incidência das Súmulas 7 e 83 do STJ (fls. 715-730).
+O acórdão recorrido encontra-se assim ementado (fl. 598):
+APELAÇÃO CÍVEL DOS RÉUS - AÇÃO DE ANULAÇÃO DE ESCRITURA PÚBLICA DE VENDA E COMPRA DE IMÓVEL - OUTORGA DE PROCURAÇÃO - VENDA DE PROPRIEDADE RURAL - TRANSFERÊNCIA DO IMÓVEL PARA SUA COMPANHEIRA - AUSÊNCIA DE ESCRITURAÇÃO E REGISTRO DO IMÓVEL - DESVIRTUAÇÃO DOS PODERES CONFERIDOS - NULIDADE DO REGISTRO DA MATRÍCULA DO IMÓVEL - NULIDADE DA ESCRITURA PÚBLICA DE COMPRA E VENDA - SENTENÇA MANTIDA - RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO - RECURSO ADESIVO DOS AUTORES - CONDENAÇÃO CONSISTENTE EM PERDAS E DANOS - LUCROS CESSANTES - FRUIÇÃO - AUSÊNCIA DE ELEMENTOS PROBATÓRIOS - ÔNUS DA PROVA - RECURSO CONHECIDO E NÃO PROVIDO.
+01. Se verificado que o primeiro instrumento de procuração outorgado se limitava à venda da propriedade e o segundo instrumento de procuração para que este efetuasse a escritura da propriedade em favor dos autores, uma vez que os proprietários afirmaram em juízo que houve o pagamento da importância devida, de modo que descabe ao apelante criar embaraços acerca do pagamento, visto que tal importância pertence unicamente aos proprietários do imóvel rural e não ao seu representante.
+02. O Superior Tribunal de Justiça, no julgamento do Resp nº 1.814.643/SP, propôs-se a definir se a procuração que estabelece poderes para alienar "quaisquer imóveis localizados em todo território nacional" atende aos requisitos do art. 661, §1º, do Código Civil, que exige poderes especiais e expressos para tal finalidade.
+03. É relevante destacar que o ônus da prova consiste na atribuição de determinada incumbência a uma parte do processo no interesse desse próprio sujeito. Em outros dizeres, espera-se uma conduta a adotar, pela qual ele poderá obter uma vantagem ou impedir uma situação que lhe seja desfavorável. O instituto do ônus da prova é de fundamental relevância quando não há prova de determinado fato no processo, pois acaso a prova venha aos autos, independentemente de quem a produziu, compete ao juiz reconhecer os efeitos que ela produz.
+04. Por outro lado, se há prova nos autos (ou seja, se ela foi produzida), as regras do ônus da prova são totalmente desnecessárias, de forma que uma vez provados os fatos, o Julgador tão somente os adequará à norma jurídica pertinente. Nessa perspectiva, é mediante distribuição do ônus da prova que são estabelecidas as normas destinadas a nortear a atividade do julgador e sistematizar o rito probatório, a fim de se evitar diligencias que se mostram desnecessárias. Assim, as regras acerca do ônus probatório representam normas de extrema relevância dirigidas ao Julgador, visto que fornecem parâmetros para as partes previamente estabelecerem sua estratégia probatória, devendo as partes previamente estabelecerem sua estratégia probatória, devendo as partes provarem as circunstancias fáticas sobre as quais recaem as duas alegações.
+05. Recurso de Apelação conhecido e não provido. Recurso Adesivo conhecido e não provido.
+APELAÇÃO CÍVEL DO AUTOR - CONEXÃO - AÇÃO DE CONHECIMENTO COM PEDIDO DE TUTELA - INADIMPLÊNCIA DOS APELADOS - AQUISIÇÃO DA PROPRIEDADE - INCONTESTÁVEL PROPRIEDADE DO IMÓVEL RURAL - LEGALIDADE DE TRANSFERÊNCIA DO IMÓVEL - AUSÊNCIA DE DEMONSTRAÇÃO DE TAIS FATOS NOS AUTOS - INSTRUMENTO DE PROCURAÇÃO PARA VENDA DA PROPRIEDADE RURAL - RECURSO CONHECIDO E NÃO PROVIDO.
+1. Conforme foi exaustivamente salientado ao longo da seara processual, os fatos alegados pelo recorrente não foram comprovados sob o crivo do contraditório, inclusive fora oportunizado ao apelante a livre produção de prova, a fim de que infirmasse seu direito e comprovasse sua pretensão.
+2. Uma vez reconhecida a nulidade do registro, os pedidos pleiteados, não há como aceitar a tese de que o réu teria adquirido para si a propriedade Fazenda se o fato não restou demonstrado nos autos. Embora tenha apresentado declarações afirmando que seria dele o imóvel, os fatos não foram comprovados sob o crivo do contraditório. O pedido de rescisão contratual de igual modo não comporta cabimento. Os compradores efetuaram o pagamento integral do valor avençado, conforme demonstrado pela antiga proprietária Sandra Regina".
+3. Recurso de apelação conhecido e não provido.
+Os embargos de declaração foram rejeitados (fls. 660-665).
+Nas razões do recurso especial (fls. 669-694),
+interposto com fundamento no art. 105, III, alínea "a", da CF, a parte recorrente aponta ofensa ao art. 1.022, I e II, ante a "omissão do tribunal a quo em relação: (i) as provas que atestavam que o recorrente era o real proprietário do imóvel; (ii) o inadimplemento do recorrido e da consequente exceção do contrato não cumprido; (iii) o argumento de que o recorrido não fez prova de seu direito" (fl. 676).
+Sustenta que "fez provas de suas alegações, tanto na ação de nulidade quanto na ação de rescisão contratual, mas o c. Tribunal a quo negou-se a enfrentar tais pontos, mesmo após a interposição de embargos de declaração" (fl. 677).
+Afirma que ficou comprovado nos autos que "a outorga da procuração ao ora recorrente foi feita de maneira onerosa, representando uma efetiva venda da propriedade litigiosa. Ou seja, no plano fático, a procuração expedida em favor deste equivale a um título de propriedade, tendo em vista seu efetivo pagamento por esta" (fls. 679-680).
+Indica violação dos arts. 373, I, do CPC/2015 e 476 e 477 do CC/2002, alegando que "(i) o recorrido não adimpliu com parcela substancial de sua obrigação, o que atrai a tese da exceção do contrato não cumprido; e que (ii) não há nos autos nenhuma prova apta a comprovar a adimplência integral do recorrido - salvo o depoimento da antiga proprietária do imóvel" (fl. 688).
+Suscita contrariedade aos arts. 685 e 661, § 1º, do CC/2002, defendendo que os antigos proprietários lhe outorgaram procuração em causa própria, que lhe permitia vender o imóvel a terceiros, com a observância de todos os requisitos legais.
+No agravo (fls. 732-765), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 708-713).
+É o relatório.
+Decido.
+Na origem, o recorrente ajuizou ação de rescisão contratual cumulada, julgada em conjunto com a ação de anulação de escritura pública de venda e compra proposta pelos recorridos, ante a existência de conexão.
+Em primeiro grau o pedido anulatório foi julgado procedente e o pedido de rescisão do contrato improcedente, decisões confirmadas em segundo grau.
+Interposta apelação, a Corte estadual analisou o conjunto fático-probatório dos autos para confirmar as sentenças, apresentando, de forma clara e suficiente, os fundamentos pelos quais concluiu que os recorridos comprovaram o pagamento do preço enquanto que o recorrente não logrou demonstrar suas alegações.
+Confira-se o seguinte excerto (fls. 604-608):
+Pois bem. Depreende-se dos autos que Airton Rosendo, dotado com instrumento particular de procuração outorgado por Sandra Regina Echeveria e Luiz Manoel Ribeiro Placha (falecido), ficou imbuído da venda de imóvel rural de propriedade destes, com área de cerca de 480 hectares, situado no município Rio Negro/MS, constante da matrícula nº 1.374, no valor de R$ 515.000,00 (quinhentos e quinze mil reais).
+Conforme descrito pelos autores, foi assinado instrumento de compromisso de compra e venda, onde os requerentes figuraram como compradores e como vendedores os senhores Luiz Manoel Ribeiro Placha e Sandra Regina Echeverria, cujo preço foi pago da forma abaixo:
+ ..
+Os requerentes tomaram posse do imóvel rural, restando acordado que a escritura seria outorgada quando o vendedor (Airton Rosendo) liquidasse um débito da proprietária do imóvel (Sandra Regina) junto ao Banco do Brasil.
+Todavia, nesse ínterim, foram revogadas as procurações, ficando o vendedor sem poderes para adimplir a obrigação assumida.
+Em primeiro grau, o d. Magistrado sentenciante julgou procedente os pedidos insertos na exordial, para decretar a anulação da escritura pública lavrada nas Notas do Tabelionato de Rio Negro/MS, as fls. 225/226 v do livro 020, bem como expedição de mandado para averbação da anulação na matrícula nº 1.374 do registro de imóveis da Comarca.
+Assim, em que pese as insurgências manifestadas no recurso de apelação cível interposto por Airton Rosendo e Nilza Francisca Chaves, a sentença proferida em primeiro grau não merece alterações, devendo manter-se incólume, consoante as fundamentações que serão delineadas neste voto.
+Isso porque, restou incontroverso que os requeridos Sandra Regina Echeveria e Luiz Manoel Ribeiro Placha outorgaram poderes ao apelante Airton Rosendo para que efetuasse a venda da propriedade denominada fazenda Santo Expedito, localizada no município de Rio Negro/MS.
+Ademais, também é induvidoso que os requeridos Sandra Regina Echeveria e Luiz Manoel Ribeiro Placha (falecido), representados pelo procurador, ora apelante, Airton Rosendo, procederam com a venda da propriedade rural aos autores/apelados (Guerino Felipe e Aurora Florentina Martines Felipe), conforme se depreende do instrumento contratual acostado às fls. 10/14.
+Nesse contexto, é curial destacar que não se vislumbra qualquer verossimilhança nas alegações dos apelantes de que a propriedade rural fora alienada à Nilza Francisca Chaves, companheira de Airton Rosendo, uma vez que inexistem elementos probatórios nos autos que levem a tal conclusão fática.
+Ao contrário, cônsono foi destacado no decisum a quo, o apelante Airton Rosendo ao ser demandado pelos autores nos autos nº 0010199-54.2012.8.12.0001 afirmou ter agido apenas na condição de procuradores dos requeridos Sandra Regina Echeveria e Luiz Manoel Ribeiro Placha e que o instrumento de procuração foi revogado em julho de 2010.
+Ainda, ressaltou em contestação nos autos sobreditos que não era responsável pela escrituração e registro do imóvel ou por qualquer dano que pudesse ter sofrido o autor Guerino Felipe, pois não já não era mais procurador dos proprietários do imóvel rural, enquanto nestes autos o apelante afirma que o imóvel lhe pertence e teria sido adquirido como parte de pagamento de uma dívida que a requerida Sandra possuía.
+Portanto, vislumbra-se que os proprietários do imóvel rural outorgaram poderes ao apelante para que este atuasse como procurador na alienação da Fazenda, ou seja, para que em nome deles atuasse o recorrente na negociação do imóvel, de modo que, ao alienar o imóvel rural para sua companheira (Nilza Francisca Chaves), o apelante desvirtuou a finalidade do instrumento de procuração e exacerbou os poderes que lhes fora conferido.
+Destarte, compulsando os autos é possível inferir pela inexistência de provas que levem a conclusão de que o apelante tenha adquirido a propriedade da Fazenda Santo Expedito, haja vista que o recorrente recebeu poderes para tão somente proceder com a venda do imóvel rural, atuando em nome dos proprietários.
+Além disso, a proprietária do imóvel rural, Sandra Regina Echeveria, declarou à f. 208 que os autores fizeram a quitação integral da compra e venda, nada mais devendo aos vendedores, de modo que reconheceu a quitação plena, total, irrestrita e irrevogável, reconhecendo o domínio do imóvel e sua transferência aos autores.
+Dessa feita, resta indene de dúvidas de que o primeiro instrumento de procuração outorgado ao apelante se limitava à venda da propriedade e o segundo instrumento de procuração para que este efetuasse a escritura da propriedade em favor dos autores, uma vez que os proprietários afirmaram em juízo que houve o pagamento da importância devida, de modo que descabe ao apelante criar embaraços acerca do pagamento, visto que tal importância pertence unicamente aos proprietários do imóvel rural e não ao seu representante.
+(..)
+Não obstante a irresignação do recorrente nos autos indigitados, os quais serão julgados em decorrência da conexão verificada, pontuo que se revela imperioso o desprovimento de tais pedidos, visto que não foram comprovadas as alegações do apelante, quais sejam, de que teria adquirido a propriedade da Fazenda Santo Expedito.
+Conforme foi exaustivamente salientado ao longo da seara processual, os fatos alegados pelo recorrente não foram comprovados sob o crivo do contraditório, inclusive fora oportunizado ao apelante a livre produção de prova, a fim de que infirmasse seu direito e comprovasse sua pretensão.
+(..)
+Ademais, a requerida Sandra Regina, proprietária do imóvel asseverou em juízo que outorgaram procuração para que o Airton efetuasse a venda da propriedade para quitar uma dívida que tinham com ele, e que o restante seria restituído, ou seja, não há como reconhecer a suposta compra da propriedade celebrada entre Airton Rosendo e Sandra Regina Echeverria.
+O fato de a parte entender que, do exame da prova dos autos, outra deveria ter sido a conclusão das instâncias de origem, não configura a alegada ofensa ao art. 1.022 do CPC/2015.
+No mais, para alterar as conclusões do Tribunal de origem - de que ficou demonstrado nos autos que o recorrente, munido de procuração dos proprietários do bem, alienou o imóvel rural para os recorridos, que pagaram o preço e de que o recorrente não comprovou ter adquirido a propriedade do bem, tampouco a alienação do bem para sua companheira NILZA - seria necessário o exame de elementos fáticos, o que é vedado em recurso especial pelo óbice da Súmula n. 7 do STJ.
+Em relação à procuração, que o recorrente afirma ter sido um mandato in rem suam, entendeu o Tribunal de origem que (fls. 607-608):
+In casu, a procuração outorgada ao mandatário conferia poderes para vender, ceder, transferir ou por qualquer forma e título alienar o imóvel descrito na vestibular.
+ ..
+Com efeito, a finalidade da norma civilista não é outra, senão a de proteger o outorgante contra eventuais prejuízos causados por ato praticado em seu nome, mas sem o seu consentimento, pelo mandatário que extrapola o limite dos poderes que lhe foram concedidos por mandato.
+Noutros dizeres, refere-se que ninguém pode ser obrigado por ato praticado por mandatário que não tenha poderes suficientes ou que exceda os poderes que lhe foram outorgados.
+Isto posto, verifica-se que as alegações dos apelantes são ambíguas ou, como fora destacado pelo Juízo sentenciante (f. 739), são contraditórias, visto que, caso de fato tivesse adquirido o imóvel para si, a procuração deveria ter sido clara em seu conteúdo, contendo, obrigatoriamente, a qualificação completa do outorgante e outorgado, descrição do objeto, condições de seu exercício e a declaração de que o valor fixado foi recebido pelo outorgante, conferindo quitação ao outorgado.
+Por fim, analisando os elementos probatórios insertos aos autos, vê- se que os documentos trazidos pelos apelantes, ora réus, na fase instrutória (fls. 79/94), quando da contestação da presente ação, não corroboram suas alegações, razão pela qual a mantença da sentença proferida na origem é medida que se impõe.
+Alterar tal conclusão demandaria a análise e interpretação de documentos, o que é vedado em recurso especial pela incidência das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
+Apesar de alegar ofensa ao art. 1.022 do CPC/2015, a parte não demonstra a efetiva existência de omissão.
+Argumenta que não foram examinadas as provas que demonstrariam que era proprietário do imóvel e a falta de pagamento do preço pelo recorrido, possibilitando a aplicação da exceção de contrato não cumprido.
+Ocorre que não se verificam as omissões apontadas. A Corte estadual analisou o conjunto proba tório dos autos para concluir que não ficou comprovado que o recorrente tenha adquirido a propriedade do imóvel em litígio e que ele apenas recebeu poderes (posteriormente revogados) para proceder à venda do bem, atuando em nome dos proprietários.
+O fato de parte entender que haveria elementos nos autos aptos a comprovar suas alegações não configura o vício alegado.
+No mais, inafastável a Súmula n. 7 do STJ.
+O acolhimento das alegações recursais demandaria exame da prova dos autos, o que é vedado em recurso especial.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
