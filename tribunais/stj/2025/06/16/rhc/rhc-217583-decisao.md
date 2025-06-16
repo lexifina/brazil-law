@@ -1,0 +1,27 @@
+DECISÃO
+JOILSON MACIEL alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa se insurge contra a inclusão do paciente no Sistema Penitenciário Federal, no período de 201/2/2023 a 20/12/2025. Afirma que não estão preenchidos os requisitos para a determinação dessa medida.
+Argumenta que, embora a decisão de primeiro grau mencione episódios que indicariam a participação do interno no planejamento de ações ilícitas, essa conclusão está baseada, exclusivamente, em informações de inteligência e sobre a posição de liderança do paciente em facção criminosa.
+Aduz que o "TRF da 5ª Região indeferiu liminarmente o habeas corpus e negou provimento ao agravo interno interposto, insistindo no não cabimento do mesmo  ..  sem prévia manifestação da defesa técnica, sendo, portanto, necessária a interposição desse Recurso Ordinário Constitucional" (fl. 553).
+Decido.
+No caso, o Tribunal de origem manteve o não conhecimento de habeas corpus, "ao fundamento de que indevidamente utilizado como substitutivo de agravo em execução penal e por não ter sido juntada aos autos a decisão judicial impugnada" (fl. 530).
+Apesar das alegações do agravante, não há falar em falta de manifestação da defesa, que se manifestou tanto na petição inicial do writ, quando por meio do agravo interno.
+Segundo o acórdão recorrido, "a ação constitucional de habeas corpus foi impetrada com o objetivo de ver reconhecida a ilegalidade da inclusão definitiva do ora agravante no Sistema Penitenciário Federal  .. , decisão que deveria ser impugnada através da interposição de agravo em execução penal" (fl. 532). Ademais, o impetrante deixou de juntar o ato apontado como coator e "é inviável a emenda do writ, ainda que para suprir deficiência instrumental (STF, HC 182998 AgR, Relator: Edson Fachin, Segunda Turma, D Je 25/2/2021)".
+O Tribunal Regional afirmou que não havia flagrante ilegalidade na decisão do Juiz Federal, a ele vinculado, pois:
+Segundo informações colhidas no Estado do Mato Grosso do Sul, o paciente exerceu diversas funções de liderança na organização criminosa e estaria envolvido em plano de fuga da penitenciária na qual se encontrava custodiado.
+Nesse ponto, impende recordar que a compreensão dominante na jurisprudência é de que não cabe ao juízo federal a revisão dos critérios de necessidade expendidos pelo magistrado estadual que solicita a transferência ou manutenção do apenado em estabelecimento prisional de segurança máxima, mas, nos termos do art. 4º da Lei 11.671/2008, tão somente o exame da legalidade e regularidade formal da solicitação.
+Nesse sentido: STJ, CC 127.981/RJ, Rel. Min. Laurita Vaz, Terceira Seção, D Je 9/12/2013; STJ, CC 139.087/RJ, Rel. Min. N efi C ordeiro , T erceira Seção , DJe de 02/10/2015; STJ, AgRg no CC 169.493/AM, Rel. Min. Reynaldo S oares da F onseca , T erceira Seção , D Je 30/06/2020 .
+Assim, não compete ao Juízo Corregedor da Penitenciária Federal em Mossoró/RN o exame aprofundado do material probatório que embasou a decisão da autoridade judiciária solicitante, mas tão somente a análise da adequação dos fatos às hipóteses autorizadoras do ingresso ou manutenção do preso no sistema penitenciário federal.
+No meu sentir, considerados os documentos juntados aos autos, a inclusão definitiva do apenado no Sistema Penitenciário Federal encontra-se devidamente justificada.
+No recurso ordinário, era necessário que a defesa indicasse o erro dos fundamentos do acórdão recorrido, o que não foi feito. É insuficiente, para tanto, apenas reiterar a tese de ilegalidade da decisão do Juiz Estadual que determinou a transferência do preso para o sistema prisional federal.
+Incabível, ainda, a concessão da ordem, de ofício, pois o acórdão recorrido está conforme a jurisprudência desta Corte. Confira-se:
+ ..  a Terceira Seção desta Corte firmou a orientação de que "não cabe ao juízo federal a revisão dos critérios de necessidade expendidos pelo magistrado estadual que solicita transferência ou prorrogação do apenado a estabelecimento prisional de segurança máxima" (CC n. 139.087, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 23/9/2015, DJe de 2/10/2015).
+2. O agravante deixou de impugnar esse fundamento da decisão agravada, tendo se limitado a alegar a nulidade da decisão que determinou a sua transferência para o sistema prisional federal.
+Incidência do óbice previsto na Súmula n. 182 desta Corte.
+3. A pretensão do ora agravante deve ser apreciada na instância ordinária e deve se dar pelos meios próprios de impugnação, não sendo este incidente o meio adequado para se discutir o acerto ou desacerto da decisão do Juízo suscitante que determinou a transferência do segregado para o sistema prisional federal.
+4. Agravo regimental não conhecido.
+(AgRg no CC n. 169.744/PE, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 22/9/2021, DJe de 27/9/2021).
+Ressalto que: a) antes da decisão proferida pelo Juízo Estadual da Comarca de Campo Grande, houve oportunidade para que a defesa se manifestasse sobre o pedido de inclusão definitiva no sistema penitenciário federal e b) informações de inteligência são dados que podem ser aproveitados em processos para avaliar ameaças reais ou potenciais na esfera de segurança pública.
+À vista do exposto, não conheço do recurso ordinário, por inobservância à dialeticidade recursal. Ademais, não verifico flagrante ilegalidade a justificar eventual concessão da ordem, de ofício.
+Publique-se e intimem-se.
+EMENTA
