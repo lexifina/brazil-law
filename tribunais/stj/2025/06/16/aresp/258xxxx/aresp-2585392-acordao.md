@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  BANCÁRIO.  ÔNUS  DA  PROVA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.
+1.  A  matéria  em  discussão  não  está  prequestionada,  não  tendo  sido  nem  sequer  suscitada  em  declaratórios,  atraindo  a  incidência  da  Súmula  nº  282/STF.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  ALOISIO  FREIBERGER  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Santa  Catarina  assim  ementado:
+"APELAÇÃO  CÍVEL.  AÇÃO  ANULATÓRIA  DE  DÉBITOS  C/C  INDENIZAÇÃO  POR  DANOS  MORAIS.  SENTENÇA  DE  PROCEDÊNCIA.  RECURSO  DA  PARTE  RÉ.  CONTRATO  DE  EMPRÉSTIMO  CONSIGNADO  EM  BENEFÍCIO  PREVIDENCIÁRIO.  PROVA  NOS  AUTOS  DA  REALIDADE  DA  CONTRATAÇÃO  POR  MEIO  ELETRÔNICO.  BIOMETRIA  FACIAL  POR  "SELFIE".  DADOS  BANCÁRIOS  E  ENDEREÇO.  DOCUMENTOS  ANEXADOS  NÃO  IMPUGNADOS.  SEQUÊNCIA  DE  ATOS  REALIZADOS  NO  AMBIENTE  ELETRÔNICO  DISPONIBILIZADO  PELA  INSTITUIÇÃO  BANCÁRIA  NÃO  IMPUGNADOS  E  REFERENCIADOS  POR  HORA,  DATA,  IP  DE  ACESSO.  DADOS  NÃO  ENJEITADOS.  COMPROVANTE  DE  VALORES  DEPOSITADOS  EM  CONTA  BANCÁRIA.  ILEGALIDADE  NÃO  DEMONSTRADA.  SENTENÇA  CASSADA.  MANIFESTA  ALTERAÇÃO  DA  VERDADE  DOS  FATOS.  MÁ-FÉ  PROCESSUAL.  ARTIGOS  80  E  81  DO  CÓDIGO  DE  PROCESSO  CIVIL.  RECURSO  CONHECIDO  E  PROVIDO.  MULTA  APLICADA"  (e-STJ  fl.  308).
+No  recurso  especial,  o  recorrente  alega  violação  do  art.  429,  II,  do  Código  de  Processo  Civil  por  defender  que  o  ônus  da  prova  da  autenticidade  do  contrato  bancário  impugnado  incumbe  à  parte  que  o  produziu.
+Após  as  contrarrazões  (e-STJ  fls.  332/335),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  BANCÁRIO.  ÔNUS  DA  PROVA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.
+1.  A  matéria  em  discussão  não  está  prequestionada,  não  tendo  sido  nem  sequer  suscitada  em  declaratórios,  atraindo  a  incidência  da  Súmula  nº  282/STF.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+No  que  se  refere  ao  ônus  da  prova,  quanto  à  autenticidade  do  contrato  bancário,  verifica-se  que  tal  tema  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  nem  sequer  de  modo  implícito,  e  não  foram  opostos  embargos  de declaração  com  a  finalidade  de  sanar  omissão  porventura  existente.  Por  esse  motivo,  ausente  o  requisito  do  prequestionamento,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  não  ventilada,  na  decisão  recorrida,  a  questão  federal  suscitada."
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  CONHECIDO  COMO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  ALEGADA  VIOLAÇÃO  AOS  ARTS.  26  E  29  DA  LEI  10.931  E  789  DO  CPC.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  NÃO  OPOSIÇÃO  DE  EMBARGOS  DE  DECLARAÇÃO.  ATRAÇÃO  DO  ENUNCIADO  282/STF.  EMBARGOS  DE  DECLARAÇÃO  CONHECIDOS  COMO  AGRAVO  INTERNO  AO  QUAL  SE  NEGA  PROVIMENTO"  (EDcl  no  REsp  1.789.134/RS,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  30/11/2020,  DJe  de  3/12/2020  -  grifou-se).
+
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  COMPLEMENTAÇÃO  DE  BENEFÍCIO  PREVIDENCIÁRIO.  PREQUESTIONAMENTO.  NÃO  OCORRÊNCIA.  SÚMULA  282/STF.  PRESCRIÇÃO  QUINQUENAL.  ALCANCE  DAS  PARCELAS  VENCIDAS  ANTERIORMENTE  AO  QUINQUÊNIO  QUE  PRECEDE  O  AJUIZAMENTO  DA  AÇÃO.
+1.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados  impede  o  conhecimento  do  recurso  especial.
+2.  O  acórdão  recorrido  que  adota  a  orientação  firmada  pela  jurisprudência  do  STJ  não  merece  reforma.
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.097.857/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  10/11/2017  -  grifou-se).
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  10%  (dez  por  cento)  sobre  o  valor  da  causa,  os  quais  devem  ser  majorados  para  o  patamar  de  12%  (doze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+É  o  voto.
