@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ CLAUDEVAN DOS SANTOS contra acórdão proferido pela Câmara Criminal do Tribunal de Justiça do Estado de Alagoas (HC n. 804779-60.2025.8.02.0000).
+Consta dos autos que o paciente foi preso em 28 de abril de 2025, em razão de prisão preventiva decretada com base no artigo 366 do Código de Processo Penal, após citação por edital, por não ter sido localizado para responder à acusação pela suposta prática do crime previsto no artigo 2º, caput, da Lei n. 12.850/2013, em razão de sua alegada participação em organização criminosa de atuação interestadual.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem (e-STJ fls. 12/20).
+Alega a defesa que a prisão preventiva é ilegal por ausência de fundamentação concreta, tendo sido decretada exclusivamente com base na citação por edital, sem que houvesse elementos indicativos de risco à ordem pública, à instrução criminal ou à aplicação da lei penal. Sustenta que o paciente não estava foragido, pois cumpria pena por fatos pretéritos sob monitoramento estatal e mantinha endereço atualizado junto ao juízo da execução, o que afastaria a presunção de fuga.
+Argumenta que a manutenção da prisão preventiva é desproporcional frente ao desfecho da ação penal em relação aos corréus, tendo um sido absolvido e o outro condenado a três anos de reclusão em regime inicial aberto. Defende que essa disparidade afronta o princípio da homogeneidade.
+Menciona, ainda, que não há contemporaneidade entre os fatos imputados, ocorridos em 2018, e a prisão preventiva decretada apenas em dezembro de 2024 e cumprida em abril de 2025. Afirma que não houve risco atual que justificasse a medida extrema, tratando-se de constrangimento ilegal.
+Aduz que o paciente possui vínculo laboral desde dezembro de 2023 e que a prisão foi fundada em presunções genéricas, sem base em elementos concretos, contrariando precedentes do Superior Tribunal de Justiça.
+Diante disso, requer a concessão de liminar para revogação da prisão preventiva e, no mérito, a concessão definitiva da ordem, com o reconhecimento da ilegalidade do decreto de prisão.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+No caso, a defesa deixou de apresentar o conteúdo da decisão de primeiro grau que decretou a prisão preventiva. Foi trazido aos autos, somete, a sentença que condenou um dos corréus e absolveu outro e, na ocasião, desmembrou o processo em relação ao paciente, por se encontrar naquela ocasião, em local incerto e não sabido (e-STJ fl. 33).
+Ora, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "  e m sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado " (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Assim, o writ não foi corretamente instruído com as peças processuais indispensáveis à compreensão da controvérsia.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
