@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo interno contra decisão da Presidência do STJ, de fls. 578/579 que não conheceu do recurso que interpusera, em razão da incidência da Súmula 187 do STJ.
+Em face das razões de fls. 583/856 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo interposto por UP BRASIL ADMINISTRACAO E SERVICOS LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/10/2024.
+Concluso ao gabinete em: 4/4/2025
+Ação: ação declaratória de inexistência de cláusula e revisão contratual c/c pedido de exibição de documentos proposta por ALEXANDRE MAGNO TEOTONIO DE FREITAS contra UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA.
+Sentença: julgou parcialmente procedente os pedidos da inicial. (e-STJ Fls. 320-321)
+Acórdão: deu provimento parcial às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. REVISÃO DE CONTRATO. INSTRUMENTO CONTRATUAL NÃO COLACIONADO AOS AUTOS. ÔNUS DO BANCO (ART. 6º, VIII, DO CDC). CAPITALIZAÇÃO MENSAL DE JUROS QUE EXIGE EXPRESSA PACTUAÇÃO (TEMAS 246 E 247 DO STJ). JULGAMENTO PAUTADO NA AUSÊNCIA DA PROVA. CÁLCULO COM MÉTODO DE GAUSS QUE CAUSA RETORNO MENOR QUE O FEITO A JUROS SIMPLES. CÁLCULO DE JUROS SIMPLES QUE TEM QUE ELIMINAR A CAPITALIZAÇÃO DE JUROS SEM, NO ENTANTO, ONERAR UMA DAS PARTES EM DEMASIA. JUROS REMUNERATÓRIOS. IMPOSSIBILIDADE DE VERIFICAÇÃO DA TAXA EFETIVAMENTE CONTRATADA PELA FALTA DE JUNTADA DO CONTRATO. APLICAÇÃO DA TAXA MÉDIA DE MERCADO, SEM MARGEM DE TOLERÂNCIA DE MAIS 50% (CINQUENTA POR CENTO). TEMAS 233 E 234 DO STJ. ABUSIVIDADE EVIDENCIADA. REPETIÇÃO DE INDÉBITO. DOBRO. ART. 42 DO CDC. HONORÁRIOS SUCUMBENCIAIS FIXADOS SOBRE O VALOR DA CONDENAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. REJEIÇÃO. INEXISTÊNCIA DE OFENSA A DIREITOS DA PERSONALIDADE. REFORMA PARCIAL DA SENTENÇA. PROVIMENTO PARCIAL DOS RECURSOS. (e-STJ Fls. 472-473)
+Embargos de Declaração: opostos pela parte agravada, foram acolhidos sem efeitos modificativos. (e-STJ Fls. 320-321)
+Recurso especial: alega violação dos arts. 42 e 51, §1º do Código de Defesa do Consumidor, bem como dissídio jurisprudencial. A parte agravante sustenta em seu recurso especial que não houve abusividade nas taxas de juros aplicadas e que a repetição em dobro do indébito não se justifica sem prova de má-fé. (e-STJ Fls. 485-487)
+Decisão de admissibilidade do TJ/RN: negou seguimento ao recurso em razão da incidência dos Temas 246 e 247 do STJ e inadmitiu a parte remanescente com base na Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do descabimento de agravo em recurso especial contra decisão fundamentada no art. 1.030, I, "b", do CPC
+Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+Nesse sentido: AgInt no TP 529/PE, 3ª Turma, DJe de 23/10/2017; AgInt nos EDcl no AREsp 1.093.907/MT, 3ª Turma, DJe de 24/10/2017; AgInt no AREsp 973.427/MG, 4ª Turma, DJe 13/10/2017.
+A propósito, a Terceira Turma deste Superior Tribunal, quando do julgamento do AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/8/2016, firmou o entendimento de que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constitui erro grosseiro.
+Assim, na hipótese dos autos, considerando que a decisão de admissibilidade proferida pelo TJ/RN negou seguimento ao recurso especial, no que concerne aos juros remuneratórios, com base na aplicação dos Temas 246 e 247 do STJ dos recursos especiais repetitivos, não conheço do tema referente à suposta violação do art. 51, § 1º do CDC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à presença da má-fé na conduta da parte agravante (e-STJ fl. 479), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (má-fé do fornecedor), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República, por ausência de similitude fática. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, RECONSIDERO a decisão da Presidência do STJ, para CONHECER PARCIALMENTE do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em mais 2% os honorários fixados anteriormente em desfavor da parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CLÁUSULA E REVISÃO CONTRATUAL C/C PEDIDO DE EXIBIÇÃO DE DOCUMENTOS. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE EM TESE REPETITIVA. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de inexistência de cláusula e revisão contratual c/c pedido de exibição de documentos.
+2. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+3. Modificar a conclusão do Tribunal de origem no sentido existência de má-fé na hipótese dos autos implica reexame de fatos e provas.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Torno sem efeito a decisão de fls. 578/579 (e-STJ). Agravo em recurso especial parcialmente conhecido. Recurso especial não conhecido.
