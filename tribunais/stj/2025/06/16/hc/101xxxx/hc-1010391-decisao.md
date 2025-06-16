@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por ANDRÉ RICARDO DOS REIS RAMOS contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no Recurso em Sentido Estrito n. 5008657-77.2025.8.21.0010.
+Consta dos autos que o acusado foi pronunciado como incurso nas sanções do art. 121, § 2º, incisos V e VII, por 3 vezes; art. 157, §2º, inciso II e §2º-A, inciso I; art. 180, caput; art. 311, caput, e §2º, inciso III, todos do Código Penal, bem como no art. 16, §1º, inciso IV, da Lei n 10.826/06, conforme sentença proferida em 19/02/2025 (fls. 34 -42).
+Houve a interposição de recurso em sentido estrito defensivo, o qual foi julgado pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, que declarou a nulidade da decisão de pronúncia, de ofício, em razão da ofensa ao mandamento inserto no art. 93, inciso IX, da Constituição Federal, desconstituindo a decisão para que outra seja prolatada, mantendo-se, contudo, a prisão preventiva do acusado. Ficando assim ementado (fls. 31-32):
+DIREITO PENAL. RECURSO EM SENTIDO ESTRITO. TENTATIVA DE HOMICÍDIO QUALIFICADO. AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO DE PRONÚNCIA. NULIDADE DA DECISÃO DE PRONÚNCIA. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. DECISÃO DE PRONÚNCIA DESCONSTITUÍDA, DE OFÍCIO. RECURSO DEFENSIVO PREJUDICADO. PRISÃO PREVENTIVA MANTIDA.
+No presente writ, sustenta a defesa a existência de constrangimento ilegal em razão do excesso de prazo na formação da culpa, alegando que o paciente está preso preventivamente há quase um ano, sem previsão de nova decisão. Aduz, ainda, a ilegalidade da manutenção da prisão preventiva, afirmando que, apesar de "os delitos praticados se revestirem de certa gravidade, é cediço que tal circunstância, por si só, não pode justificar a medida extrema" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da liberdade ao paciente até o julgamento do mérito do presente writ, ou substituição da prisão provisória por outras medidas cautelares.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+De início, o habeas corpus não deve ser conhecido quanto à tese referente ao excesso de prazo para formação de culpa, na medida em que não apreciadas pelo Tribunal de origem, não podendo, assim, ser examinada diretamente por esta Corte, sob pena de indevida supressão de instância.
+O acórdão impugnado que desconstituiu, de ofício, a sentença de pronúncia, mas manteve a prisão preventiva, está calcada nas seguintes razões de decidir (fl. 17):
+No entanto, para não passar in albis, analiso o pleito defensivo de revogação da prisão preventiva do recorrente.
+Por fim, saliento que o réu encontra-se preso provisoriamente em razão deste processo e, assim, deverá permanecer até o trânsito em julgado da presente decisão, pois os fundamentos da decretação da medida permanecem hígidos, razão pela qual mantenho a prisão preventiva.
+Com efeito, "O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação ou da sentença de pronúncia, fosse-lhe deferida a liberdade" (AgRg no HC n. 810.488/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/5/2023, DJe de 10/5/2023), não se verificando, nesse juízo inicial, manifesta ilegalidade.
+Não há falar em nulidade do acórdão, que ratificou as razões da decisão que indeferiu a liminar, porquanto, conforme destacou o relator, permaneceram hígidos os seus fundamentos. Com efeito, "É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios  .. " (RHC n. 94.488/PA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2018).
+De qualquer sorte, uma vez não colacionado o decreto prisional, não há como sequer cogitar de falta de fundamentaçã o para a prisão cautelar.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
