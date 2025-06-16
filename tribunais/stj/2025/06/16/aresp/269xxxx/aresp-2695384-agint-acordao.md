@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BANCO BRADESCO S/A, em face de decisão monocrática de fls. 1408-1416, e-STJ, que conheceu do agravo para negar provimento ao recurso especial do ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c", do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 934, e-STJ):
+APELAÇÃO CÍVEL - ARBITRAMENTO DE HONORÁRIOS - PRELIMINARES DE AUSÊNCIA DE INTERESSE RECURSAL, SENTENÇA , FALTA DE INTERESSE DE AGIR EEXTRA PETITA INÉPCIA DA PETIÇÃO INICIAL - REJEITADAS - RESCISÃO UNILATERAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - IMPOSSIBILIDADE DE CUMPRIMENTO DAS CLÁUSULAS PARA RECEBIMENTO DE HONORÁRIOS - ARBITRAMENTO DE HONORÁRIOS PELO JUDICIÁRIO - POSSIBILIDADE - VIA ADEQUADA - ANÁLISE DO TRABALHO DESEMPENHADO PELO ADVOGADO NO CURSO DO PROCESSO - HONORÁRIOS DEVIDOS. ARBITRAMENTO DE FORMA EQUITATIVA - HONORÁRIOS REDUZIDOS - SENTENÇA REFORMADA EM PARTE - PROVIDO EM PARTE O RECURSO INTERPOSTO POR E DESPROVIDO O APELOBANCO BRADESCO S. A. INTERPOSTO POR . GALERA MARI E ADVOGADOS ASSOCIADOS
+Reside interesse recursal na pretensão de majoração do arbitramento dos honorários advocatícios, fixados aquém da quantia pretendida pelo autor.
+Não há falar em sentença extra petita se seus fundamentos não são divorciados do pedido da inicial, visto que o autor/apelado pleiteia o arbitramento de honorários em razão de rescisão antecipada do contrato de prestação de serviços jurídicos com remuneração estabelecida pelo êxito.
+Se o pedido é certo e determinado no sentido de arbitramento de honorários referente aos trabalhos desempenhados em ação de execução e ajuizado é a adequada para postular os honorários pelos serviços prestados, não há falar em falta de interesse de agir e inadequação da via eleita.
+Quando a fundamentação e o pedido são deduzidos na petição inicial de forma clara e coerente, possibilitando a compreensão e defesa da parte adversa, fica afastada a alegação de inépcia da inicial.
+Nos casos em que há rescisão unilateral do contrato, faz-se imperioso deferir o pleito de arbitramento dos honorários com base no trabalho desempenhado até a revogação do mandado, independentemente da implementação das condições contratuais então vigentes, que se tornou impossível cumprimento, pois a negativa do direito viola o art. 22, §2º, do Estatuto da OAB, sob pena de autorizar o contratante a se locupletar ilicitamente com o trabalho de seu advogado, mesmo que minimamente exercido. Os honorários devem ser arbitrados de acordo com o "trabalho exercido pelo advogado até o momento da rescisão contratual" (AgInt no AR Esp 1.560.257/PB, AgInt no R Esp n. 1.554.329/MS).
+Os embargos declaratórios opostos foram rejeitados (fls. 990-997, e-STJ).
+Nas razões do recurso especial (fls. 1088-1107, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos seguintes artigos: a) 1.022, II, do CPC, ao argumento da existência de omissões não sanadas em sede de embargos declaratórios; b) 22, § 2º, da Lei n. 8.906/94, sustentando não ser possível o ajuizamento da presente ação de arbitramento de honorários, por se tratar de caso em que houve prévia estipulação contratual e acordo entre as partes.
+Contrarrazões às fls. 1202-1212, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1249-1271, e-STJ), dando ensejo na interposição do competente agravo (fls. 1303-1324, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 1339-1348, e-STJ.
+Em decisão monocrática, conheceu-se do agravo para conhecer em parte do recurso especial e negar-lhe provimento ante: a) ausência de negativa de prestação jurisdicional; b) incidência do óbice da Súmula 83 do STJ à alegada violação ao artigo 22, § 2º, da Lei n. 8.906/94.
+Daí o presente agravo interno (fls. 1430-1442, e-STJ), no qual a parte agravante reitera as razões do apelo extremo, refuta os supramencionados óbices, bem como pugna pela observância da Taxa SELIC.
+Impugnação às fls. 1445-1481, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte insurgente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+De início, quanto à alegada aplicação da Taxa Selic, observa-se que a matéria não foi objeto de análise pela Corte de origem, razão pela qual mostra-se inviável a análise desta questão, por se tratar de indevida inovação recursal.
+1. Deve ser mantida a decisão singular no ponto em que afastou a tese de negativa de prestação jurisdicional.
+Consoante asseverado no decisum agravado, a parte insurgente alega violação ao artigo 1.022, II, do CPC, ao argumento da existência de omissões não sanadas em sede de embargos declaratórios.
+Os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016
+No caso em tela, a parte recorrente manifesta mera inconformidade com o teor da decisão, não havendo falar em omissão no decisum recorrido, que apreciou todos os pontos indicados como omissos, inclusive afastando a tese de julgamento extra petita, porquanto a parte autora ajuizou a presente ação com o objetivo de receber honorários referentes à sua atuação em processos diante da rescisão unilateral do contrato pela parte contrária.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 918-922, e-STJ):
+VOTO - PRELIMINAR DE SENTENÇA EXTRA PETITA.
+ ..
+O Apelante sustenta que "a inicial não questiona os pagamentos decorrentes dos serviços prestados ao longo das ações, mas tão-somente aqueles que, eventualmente, adviriam do êxito em recuperar o crédito objeto das ações executivas (..) a decisão se afasta do pretendido na inicial, entendendo que a pretensão autoral seria pela remuneração de todo o período trabalhado nos processos, quando em verdade se trata de pedido intrinsecamente relacionado à rescisão e à perda da possibilidade de litigar no Feito em busca da recuperação final, que lhe concederia uma das remunerações previstas contratualmente em cláusula com condição suspensiva"
+Em verdade, o pedido do autor é claro no sentido de condenar o banco réu ao pagamento dos honorários advocatícios devidos, referente ao trabalho realizado no Processo nº 0629223-94.2019.804.0001, arbitrando-os nos valor sugestivo de 18% (dezoito por cento) sobre o valor atualizado da causa, valor este compatível com o trabalho realizado, ou, "por equidade, observando-se critérios de razoabilidade e proporcionalidade, aliado à importância econômica das ações, grau de zelo e tempo de acompanhamento do processo, sendo que o valor da condenação deverá ser atualizado monetariamente a partir do arbitramento e acrescido de juros de mora a partir da data da citação."
+A pretensão do autor é a remuneração de todo o período trabalhado no mencionado processo.
+ ..
+VOTO - PRELIMINAR DE FALTA DE INTERESSE DE AGIR.
+ ..
+A instituição financeira ajuizou ação monitória em desfavor de Reinaldo Dias Albuquerque Dourado em 10.06.2019, pugnando pelo pagamento do valor de R$ 1.110.367,27; requereu a transmudação da ação monitória em cumprimento de sentença, bem como a intimação do réu para pagamento do débito em 15 dias. Em razão da inércia do réu, o autor apresentou a planilha de atualização do crédito, bem como o comprovante de recolhimento das custas pertinentes, a fim de realizar a consulta pelo Sistema BACENJUD, posteriormente, pelo Sistema RENAJUD.
+Em prosseguimento com a demanda, o autor requereu, também, que fossem bloqueados todos os cartões de crédito localizados em nome do executado, bem como a suspensão da carteira nacional de habilitação e do passaporte do executado. E, após todo este diligente trabalho, em 19.11.2020 o escritório autor foi notificado da rescisão contratual e destituído dos autos, restando impossibilitado de trabalhar para auferir a almejada remuneração que adviria do êxito da demanda executiva.
+O pedido é certo e determinado consistente na pretensão de arbitramento de honorários Processo nº 0629223-94.2019.804.0001. referente aos trabalhos realizados no Portanto, a propositura da ação de arbitramento é o meio adequado para postular pelos honorários advocatícios referentes aos serviços prestados na citada execução.
+ ..
+VOTO - PRELIMINAR DE INÉPCIA DA PETIÇÃO INICIAL.
+ ..
+Com efeito, postulou pela procedência do pedido para condenar o banco réu ao pagamento dos 0629223-94.2019.804.0001 no valor honorários advocatícios referente ao trabalho realizado no Processo de nº. , arbitrando-os sugestivo de 18% (dezoito por cento) sobre o valor atualizado da causa, ou, condenar o banco réu ao pagamento dos honorários advocatícios, arbitrando-os por equidade.
+Desta feita, a fundamentação e o pedido deduzidos na petição inicial são claros e coerentes, inclusive permitiram à instituição financeira a sua compreensão, tanto que os rebateu um a um.
+ ..
+VOTO - MÉRITO
+ ..
+Ainda que a instituição financeira sustente que havia prévio contrato entre as partes que trazia condições de recebimento de honorários, condições estas não implementadas, impossibilitando o arbitramento dos honorários e ajuizamento de ação desta natureza, o entendimento jurisprudencial tem se guiado no sentido de que, com a rescisão unilateral do contrato antes mesmo de findo o processo, em que o autor prestava serviços advocatícios, inviabilizou-se o percebimento pelas vias previstas no contrato, quais sejam pela sucumbência, pela declaração de irrecuperabilidade, pela recuperação de eventual crédito, enfim, obstou-se a implementação de quaisquer das condições contratuais possíveis, o que evidencia o interesse em ajuizar a demanda e a correta via eleita.
+Não se vislumbram as alegadas omissões, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbram omissões, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Deve ser mantida, portanto, a decisão singular que afastou a alegação de ofensa ao artigo 1.022 do CPC/15.
+2. No que toca à pretensão de afastamento do óbice da Súmula 83/STJ, não assiste razão à parte agravante.
+Consoante assente na decisão agravada, a parte agravante alega vulneração ao artigo 22, § 2º, da Lei n. 8.906/94, sustentando não ser possível o ajuizamento da presente ação de arbitramento de honorários, por se tratar de caso em que houve prévia estipulação contratual e acordo entre as partes.
+Sobre o tema, a Corte de origem assim consignou (fl. 923, e-STJ):
+No caso dos autos, houve rescisão unilateral do contrato, e, nessas circunstâncias, faz-se imperioso deferir o pleito de arbitramento dos honorários com base no , trabalho desempenhado até a revogação do mandado , independentemente da implementação das condições contratuais então vigentes, que se tornou de impossível cumprimento pois a negativa do direito viola o art. 22, §2º, do Estatuto da OAB, sob pena de autorizar o contratante a se locupletar ilicitamente com o trabalho de seu advogado, mesmo que minimamente exercido:
+ ..
+Logo, incontroverso nos autos o direito do autor de perceber a verba honorária, haja vista que prestou seus serviços na forma pactuada até a rescisão do contrato e, com o fim da relação de forma unilateral, cabe ao Poder sentença partiu da premissa de que o contrato havido entre as partes era não Judiciário, arbitrá-los. Com efeito, não há falar que a só de êxito, mas também com remuneração exclusiva pela sucumbência.
+Com efeito, a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, no sentido do cabimento da ação de arbitramento de honorários caso o contrato tenha sido rescindido por iniciativa do mandante, antes do término da prestação de serviço.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. REVOGAÇÃO OU RENÚNCIA. CLÁUSULA PENAL. INCABÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 568/STJ.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+5. A jurisprudência do STJ é no sentido de que não é possível a estipulação de multa no contrato de honorários para as hipóteses de renúncia ou revogação unilateral do mandato do advogado, independentemente de motivação, respeitado o direito de recebimento dos honorários proporcionais ao serviço prestado, como é a hipótese dos autos. Precedentes do STJ.
+6. Tendo sido rescindido o contrato por iniciativa do mandante antes do término da prestação de serviço, ao advogado assiste o direito de ajuizar ação de arbitramento para postular honorários proporcionais à sua atuação. Precedentes.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.348.277/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF. 1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. 1.2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia. Precedentes.
+2. Segundo a orientação jurisprudencial desta Corte, a pretensão de arbitramento e de cobrança de honorários estão subordinadas ao prazo prescricional de 5 (cinco) anos de que trata o artigo 25, III, da Lei 9.806/94. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+4. Em princípio, o advogado e o contratante estão livres para estabelecer o valor que considerarem adequado e justo como remuneração pelos serviços prestados, não havendo óbice legal à contratação dos honorários convencionais com base no valor do causa. Todavia, admite-se, excepcionalmente, o controle pelo Judiciário do quantum avençado entre os contratantes, nas hipóteses em que se verificar algum vício de vontade ou forem inobservados os princípios da razoabilidade e da boa-fé contratual, como ocorre na hipótese sub judice.
+5. Agravo interno parcialmente provido para, de plano, conhecer do agravo e prover parcialmente o recurso especial, cassando as deliberações recorridas e determinar o retorno dos autos ao juízo de primeiro grau, a fim de que os honorários devidos sejam arbitrados com base no trabalho efetivamente desempenhado pelo advogado ora agravado.
+(AgInt no AREsp n. 1.147.232/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2022, DJe de 6/3/2023.)
+Deve ser mantida, no ponto, a incidência da Súmula 83 do STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
