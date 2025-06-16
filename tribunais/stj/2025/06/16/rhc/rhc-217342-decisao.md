@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por GABRIEL XAVILINA SARAIVA - preso preventivamente pela prática, em tese, do delito de tráfico de drogas - contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no Habeas Corpus n. 5290374-92.2025.8.09.0162.
+Busca-se, no presente recurso, inclusive em caráter liminar, a revogação do decreto de prisão preventiva nos Autos n. 5279639-97.2025.8.09.0162, da 2ª Vara Criminal da comarca de Valparaíso/GO, ainda que mediante a imposição de outras medidas cautelares alternativas, apontando-se a ausência de fundamentação concreta e idônea a amparar a custódia. Destaca-se que o recorrente conta com condições pessoais favoráveis e que o delito imputado é destituído de violência ou grave ameaça à pessoa.
+Foram apreendidos no total 1,9 kg de skunk e 256,017 g de cocaína (fl. 271).
+Contrarrazões às fls. 317/318.
+É  o  relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na garantia da ordem pública, afirmando o Magistrado de primeiro grau que apesar da primariedade dos autuados, a quantidade de drogas apreendida era expressiva, se tratando de um grupo organizado que supostamente realizava a entrega das drogas em diversos municípios em troca de determinados pagamentos, podendo após a conclusão das investigações ser constatada eventual associação para o tráfico de entorpecentes, além da apreensão de arma de fogo, fatos os quais colocam em risco a ordem (fl. 46 - grifo nosso).
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, a jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 985.567/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 27/5/2025; AgRg no HC n. 811.070/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 24/8/2023; e AgRg no RHC n. 199.058/RR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/9/2024.
+Nesse  contexto,  não  verifico,  portanto,  a  existência  de  flagrante  ilegalidade  no  acórdão  recorrido.
+Ante  o  exposto,  nego  provimento  ao  recurso  em  habeas  corpus.
+Publique-se.
+EMENTA
+PROCESSUAL  PENAL.  RECURSO  EM  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA APREENDIDA (256,017 G DE COCAÍNA E 1,9 KG DE SKUNK) E CIRCUNSTÂNCIAS DO DELITO.  CONSTRANGIMENTO  ILEGAL . AUSÊNCIA.
+Recurso  improvido.
