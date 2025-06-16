@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração em face da decisão de fls. 1915/1925 pela qual, com fundamento nos arts. 61 do CPP e 34, XVIII, "c", do RISTJ, foi julgada extinta a punibilidade de FRANCISCO DE ASSIS LUCIANO reconhecendo a prescrição apenas em relação aos crimes cometidos contra às vítimas MARCOS LUIZ SATYRO e EDY CERQUEIRA e, em consequência, redimensionada a pena definitiva para 2 anos e 11 meses de reclusão e 29 dias-multa.
+A decisão embargada reconheceu a prescrição em relação às vítimas MARCOS LUIZ SATYRO e EDY CERQUEIRA porque entre a data dos fatos (anteriores a 2005) e o recebimento da denúncia (ocorrido em 25/6/2013) decorreu prazo superior a 8 anos.
+De outro lado, o decisum deixou de reconhecer a prescrição em relação aos estelionatos em tese praticados contra as vítimas PEDRO LIBÓRIO MACHADO, ABEL VICENTE FIALHO, SEBASTIÃO DAS GRAÇAS ESTEVAM e MARIA CÉLIA BALBINO DA COSTA porque, conforme denúncia, tais delitos teriam sido praticados em data posterior ao ano de 2005 de forma que, entre a data da conduta delitiva e o recebimento da denúncia, não transcorreu o interregno de 8 anos.
+Nos presentes embargos declaratórios, a defesa alega o decurso de prazo superior a 8 anos entre o recebimento da denúncia e o presente. Também sustenta a possibilidade de reconhecimento da "prescrição antecipada" conforme enunciado n. 4 da Assessoria Criminal do Ministério Público do Estado do Rio de Janeiro.
+Requer, assim, a extinção da punibilidade, na modalidade retroativa, de todos os supostos crimes de estelionato, com fulcro no art. 109 do Código Penal - CP, tendo em vista que a pena ficou abaixo de 4 anos.
+É o relatório.
+Decido.
+De pronto, quanto à tese da prescrição antecipada, consigno que esta Corte Superior de Justiça não admite a modalidade da prescrição virtual ou em perspectiva, o que culminou, inclusive, na edição da Súmula 438/STJ segundo a qual "é inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal." Ademais, na espécie, a alegação de prescrição antecipada também carece de lógica porque a pena já foi fixada, de modo que é incoerente falar em projeção da pena, posto que já existente.
+Sobre o pedido de reconhecimento de prescrição entre o recebimento da denúncia (ocorrido em 25/6/2013) e o presente, impende registrar a ocorrência de causa suspensiva da prescrição, consistente na suspensão do feito, na forma do art. 366 do Código de Processo Penal - CPP, em 31/8/2015 (fl. 426). Identifica-se, outrossim, causas interruptivas da prescrição, conforme art. 117, IV, do CP, quais sejam: a publicação da sentença prolatada em 2/5/2023, e acórdão confirmatório da condenação, publicado em 7/3/2024 (fl. 749 e 921).
+Destarte, considerando-se o marco suspensivo, bem como os marcos interruptivos do lapso prescricional acima apontados, não há se falar em ambiguidade, obscuridade, contradição ou omissão na decisão embargada.
+Com efeito, à míngua dos vícios descritos no art. 619 do CPP, os aclaratórios não devem ser acolhidos.
+Assim, no contexto dos autos, em que o lapso prescricional foi suspenso porque o ora embargante ficou foragido e considerando-se a superveniência da sentença penal condenatória e do acórdão confirmatório da condenação, não há se falar em perda do jus puniendi estatal em razão da prescrição.
+Ante o exposto, com fulcro no art. 264, § 1º, do RISTJ, rejeito os embargos declaratórios.
+Publique-se.
+Intime-se.
+EMENTA
