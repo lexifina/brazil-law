@@ -1,0 +1,11 @@
+DECISÃO
+MAURICIO HENRIQUE FRANÇA DIAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo de Execução Penal n. 0002916-03.2025.8.26.0496, em que foi mantida decisão "que indeferiu o pedido de remição em virtude de aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos" (fl. 14).
+Ao negar provimento ao recurso defensivo, salientou a Corte de origem que "o texto legal é bem claro ao exigir "frequência escolar", ou seja, há que se comprovar o tempo despendido pelo sentenciado para a realização do mencionado. No caso em comento, o cerne da questão consiste na impossibilidade de se comprovar efetivamente que o cativo realizou algum curso ou que houve período de estudo, visto que a defesa não formulou qualquer pedido de intervenção ou acompanhamento por parte da Direção da Unidade Prisional a fim de efetuar um controle mínimo para o seu reconhecimento" (fl. 16).
+Entretanto, consoante compreende o Superior Tribunal de Justiça, " é  possível a concessão da remição pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) ao apenado que, embora não vinculado a atividades regulares de ensino, realiza estudos por conta própria e obtém aprovação nos exames nacionais.  ..  O fato de o apenado ter concluído o ensino médio antes do início da execução da pena não impede a concessão da remição pelo estudo por conta própria" (AgRg no HC n. 938.575/SP, relator Ministro Og Fernandes, Sexta Turma, DJEN de 27/5/2025, sublinhei.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. APROVAÇAO NO ENCCEJA. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. REMIÇÃO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O fato de o apenado ter concluído o ensino médio antes do início da execução da pena não impossibilita a concessão da remição pelo estudo por conta própria (AgRg no HC n. 762.985/SP, desta Relatoria, DJe de 13/9/2022.).
+2. Agravo regimental a que se nega provimento (AgRg no REsp n. 2.069.823/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/8/2023.)
+À vista do exposto, concedo, in limine, o habeas corpus para assegurar ao paciente o benefício da remição da pena com fulcro na aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA).
+Publique-se e intimem-se.
+EMENTA
