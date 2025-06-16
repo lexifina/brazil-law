@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por BANCO DO BRASIL SA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/RN.
+Recurso especial interposto em: 8/12/2015.
+Concluso ao Gabinete em: 10/6/2025.
+Ação: de obrigação de fazer c/c compensação de danos morais e repetição de indébito, ajuizada por FERNANDO BEZERRA CABRAL, em desfavor do recorrente, em virtude de suposta inclusão indevida do nome daquele em cadastros de órgãos de proteção ao crédito.
+Sentença: julgou parcialmente procedentes os pedidos, para: (i) determinar que o recorrente providencie a baixa definitiva do nome do autor de todo e qualquer órgão de restrição cadastral e cartório de protesto, por anotação referente ao cheque nº 0851210, bem como regularize a conta de titularidade do autor, sob pena de multa diária; (ii) condenar o recorrente ao pagamento de R$ 24.000,00 (vinte e quatro mil reais) a título de repetição de indébito, referente ao valor descontado indevidamente por cheque compensado diretamente em sua conta corrente; e (iii) condenar o recorrente ao pagamento de R$ 5.000,00 (cinco mil reais) a título de compensação de danos morais.
+Acórdão: negou provimento à apelação interposta pelo recorrente; e deu parcial provimento à apelação adesiva interposta pelo recorrido, reformando a sentença apenas para fixar a incidência dos juros de mora a partir da citação. O acórdão foi assim ementado:
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO INTERPOSTA PELA PARTE DEMANDADA: AÇÃO DE INDENIZAÇÃO. CHEQUE COMPENSADO PELO BANCO APÓS SOLICITAÇÃO DE SUSTAÇÃO PELO CLIENTE. COMPENSAÇÃO INDEVIDA. SITUAÇÃO EQUIPARADA A COBRANÇA IRREGULAR. RESTITUIÇÃO EM DOBRO QUE SE IMPÕE. EXEGESE DO ART. 42, PARÁGRAFO ÚNICO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INSCRIÇÃO DO AUTOR NO CADASTRO DE EMITENTE DE CHEQUES SEM FUNDOS. ANOTAÇÃO INDEVIDA QUE SE RECONHECE. DANOS MORAIS CARACTERIZADOS. NEXO CAUSAL DEMONSTRADO. DEVER DE INDENIZAR PATENTE. PEDIDO DE REDUÇÃO DO QUANTUM PELA PARTE REQUERIDA. MONTANTE ARBITRADO EM ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO DA SENTENÇA. APELO CONHECIDO E DESPROVIDO. RECURSO ADESIVO DA PARTE AUTORA: PLEITO DE MAJORAÇÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. MATÉRIA JÁ EXAMINADA POR OCASIÃO DO JULGAMENTO DO RECURSO INTERPOSTO PELA EMPRESA REQUERIDA. DESNECESSIDADE DE NOVA FUNDAMENTAÇÃO. JUROS DE MORA. TERMO INICIAL QUE DEVE SER FIXADO NA DATA DA CITAÇÃO. ART. 406 DO CÓDIGO CIVIL NAS INDENIZAÇÃO DECORRENTES DE RESPONSABILIDADE CONTRATUAL. MODIFICAÇÃO NO CONTEÚDO DECISÓRIO DE PRIMEIRO GRAU NESTE SENTIDO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. REFORMA PARCIAL DA SENTENÇA. APELO ADESIVO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ fls. 182-183).
+Recurso especial: aponta a violação do art. 884 do CC, bem como dissídio jurisprudencial. Insurge-se contra a condenação a título de repetição de indébito de forma dobrada, pois não comprovada a má-fé na cobrança de valores. No mais, pugna pela redução do quantum compensatório arbitrado, por considerá-lo exorbitante, além de representar enriquecimento ilícito do recorrido.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/73.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do dispositivo legal indicado como violado. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 282/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO DE DANOS MORAIS E REPETIÇÃO DE INDÉBITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer c/c compensação de danos morais e repetição de indébito, em virtude de suposta inclusão indevida do nome do autor em cadastros de órgãos de proteção ao crédito.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
