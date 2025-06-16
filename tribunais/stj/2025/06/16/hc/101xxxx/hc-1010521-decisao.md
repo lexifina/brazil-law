@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HUIL JEFERSON GRASEL - condenado às penas de 6 anos, 9 meses e 20 dias de reclusão em regime inicial fechado e ao pagamento de 674 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, inciso I, do Código Penal (fls. 14/29) -, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5016159-66.2023.8.21.0033/RS).
+Alega-se, na impetração, que houve erro material no cálculo da pena-base, pois a fração de 1/6 foi aplicada em cascata e não sobre a pena mínima cominada, o que resultou em pena superior ao que seria proporcional (fls. 10/12).
+Sustenta-se que a dosimetria da pena foi desproporcional e que o quantum de aumento não foi fundamentado de forma idônea, contrariando a jurisprudência do Superior Tribunal de Justiça (fls. 11/12).
+Afirma-se que o acórdão atacado inflige constrangimento ilegal ao paciente, consistente em excesso de pena, em razão de interpretação divergente do art. 59 do Código Penal (fl. 6).
+No mérito, requer-se a concessão do habeas corpus para cassar o acórdão a quo, readequando-se a pena aplicada (fls. 12/13).
+É o relatório.
+A presente ordem merece concessão, inclusive liminarmente.
+No caso, o acórdão reconheceu o equívoco na valoração da circunstância judicial "consequências do crime" e procedeu à readequação da pena-base, adotando a fração de 1/6 para o acréscimo proporcional referente a cada circunstância judicial desfavorável (maus antecedentes e circunstâncias do crime), estabilizando a sanção penal em 6 anos, 9 meses e 20 dias de reclusão (fls. 33/34).
+Entretanto, ocorre que há evidente equívoco material no cálculo da pena-base, uma vez que, considerando-se que a pena mínima cominada ao delito é de 5 anos de reclusão, o acréscimo de 1/6 por cada circunstância judicial desfavorável - maus antecedentes e circunstâncias do crime - equivaleria a 10 meses, de modo que o total da reprimenda, nessa fase, deveria ser de 6 anos e 8 meses de reclusão (fls. 14/29).
+Em contrapartida, na espécie, o acórdão impugnado fixou a pena definitiva em 6 anos, 9 meses e 20 dias de reclusão, evidenciando que a fração de 1/6 foi aplicada de forma cumulativa ou "em cascata" e não diretamente sobre a pena mínima legal. Tal equívoco compromete a correção técnica do cálculo e deve ser sanado por este Superior Tribunal.
+Nesse sentido, a fração de exasperação da pena-base correspondente a cada vetor desfavorecido aplicada na origem foi a recomendada pela jurisprudência do Superior Tribunal de Justiça, de 1/6 sobre o mínimo legal. Porém, os aumentos de 1/6 relativos às circunstâncias judiciais negativadas não são "subsequentes" (fl. 427), vale dizer, em cascata, mas deve incidir um único aumento na fração  ..  (AgRg no HC n. 790.586/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023).
+No que tange à espécie inicial de sanção penal, malgrado o arrefecimento da pena imposta, o quantum ainda exige a manutenção do regime inicial fechado, tendo em vista a condição de reincidente do paciente (fl. 27), assente no art. 33, § 2º, b, do Código Penal.
+Igualmente: AgRg no HC n. 665.373/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/8/2021; e HC n. 692.807/GO, Ministro Olindo Menezes (Desembargador Convocado do TRF/1ª Região), Sexta Turma, DJe 11/3/2022.
+Em face do exposto, concedo liminarmente a ordem para fixar a pena definitiva, imposta ao ora paciente porque incurso no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, I, do Código Penal, em 6 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 660 dias-multa, à razão mínima unitária, mantidas inalteradas as demais disposições fixadas pela instância a quo, nos termos deste decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. DOSIMETRIA. INDESEJÁVEL EFEITO CASCATA NA MAJORAÇÃO DA SANÇÃO PENAL. FUNDAMENTAÇÃO INADEQUADA. EQUÍVOCO MATERIAL NO CÁLCULO DA PENA-BASE. REGIME INICIAL DE CUMPRIMENTO DE PENA MAIS RIGOROSO EM RAZÃO DA REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
