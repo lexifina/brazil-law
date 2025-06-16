@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ELIAS RODRIGUES BEZERRA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que deu provimento em parte à apelação interposta pelo agravante para afastar a negativação da circunstância judicial relativa à personalidade do agente e redimensionar a pena para o patamar de 09 meses e 22 dias.
+A parte agravante, às fls. 297/311, sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto.
+Contraminuta apresentada às fls. 317/319.
+O Ministério Público Federal às fls. 342-347 manifestou-se pelo desprovimento do recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nada obstante entendo ser impossível conhecer do recurso com fulcro nas Súmulas n. 7 e 83 deste Superior Tribunal de Justiça.
+Defende o agravante que sua condenação seria ilegal, eis que ausente a realização de exame pericial para comprovar a materialidade do delito de dano.
+Sobre o ponto, assim se manifestou o Tribunal recorrido:
+"(..) 8. Pois bem, como relatado em oportuno, o apelante pugna a reforma da sentença ao argumento de que nos crimes de danos exige-se a realização de perícia para demonstrar a materialidade do delito, pois se trata de crime material, em que se deixa vestígios. 9. O referido pedido se fundamenta no art. 158 do CPP, que preconiza o seguinte: Art. 158. Quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado. 10. Ocorre que, indo mais adiante, temos o art. 167 do referido diploma legal que estabelece que "Não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta". 11. No caso em apreço, compreendo que a materialidade do delito está devidamente comprovada pelos depoimentos prestados não somente pela vítima, mas pelos policiais militares que atenderam a ocorrência, destacando-se que eles são uníssonos e coerentes entre si, o que satisfaz a comprovação da materialidade ora impugnada."
+Verifica-se que na hipótese dos autos, a despeito da não realização do exame pericial, entendeu o Tribunal recorrido que as demais provas existentes, em especial, os depoimentos da vítima e dos policiais, seriam elementos suficientes para demonstrarem a materialidade do crime e a autoria.
+Neste contexto, para infirmar o que restou decidido pelo Tribunal de origem, com o objetivo de reconhecer a insuficiência de elementos para embasarem a condenação, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+Outrossim, o posicionamento do Tribunal recorrido encontra ressonância nesta Corte Superior, a qual tem adotado o posicionamento no sentido de que, em situações excepcionais, onde não seja possível efetivar o exame pericial de forma imediata, é possível a caracterização da materialidade do delito por outros meios de prova, sempre garantidos o contraditório e a ampla defesa, circunstância que atrai o óbice da Súmula 83 deste Sodalício. Neste sentido, transcrevo os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO POR ROMPIMENTO DE OBSTÁCULO. EXAME DE CORPO DE DELITO. AUSÊNCIA DEVIDAMENTE JUSTIFICADA. PROVA PRODUZIDA POR OUTROS ELEMENTOS. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - O Superior Tribunal de Justiça não admite a impetração de habeas corpus substitutivo de recurso próprio. Precedentes.
+II - Havendo coação ilegal ou teratologia, concede-se a ordem de ofício.
+III - Quando a infração deixar vestígios, é indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado.
+IV - Na hipótese, o Tribunal de Apelação fundamentou a manutenção da qualificadora, destacando que o arrombamento da porta ocorreu em Aparecida do Taboado, município que não conta com unidade regional de perícia. Acrescentou, também, que o furto mediante arrombamento foi praticado em estabelecimento comercial durante a madrugada, sendo inviável que se aguardasse a perícia com o estabelecimento exposto.
+V - O arrombamento da porta de vidro foi confirmado pela vítima, testemunha e pelo paciente, de sorte que deve ser mantida a qualificadora do artigo 155, § 2º, inciso I, do Código Penal.
+Precedentes.
+Agravo regimental desprovido." (AgRg no HC 918926 / MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 06/08/2024)
+"DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTITVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. POSSIBILIDADE DE SUBSTITUIÇÃO DO LAUDO PERICIAL POR OUTRAS PROVAS. EXCEPCIONALIDADE JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Luan Andrigo Melo Borba e Nicolas Douglas Rodrigues Barreto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em recurso de apelação interposto pelo Ministério Público, reformou a sentença absolutória e os condenou à pena de 2 anos e 11 meses de reclusão em regime semiaberto, além do pagamento de multa, pela prática do crime de furto qualificado (art. 155, § 4º, I e IV, do Código Penal). A defesa alega constrangimento ilegal pela inclusão da qualificadora "rompimento de obstáculo", argumentando ausência de laudo pericial para comprovar o fato, contrariando o disposto no art. 158 do Código de Processo Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se a ausência de prova pericial nos crimes que deixam vestígios pode ser suprida por outros meios de prova; (ii) avaliar se há flagrante ilegalidade na condenação que justifique a concessão do habeas corpus.
+III. RAZÕES DE DECIDIR
+3. O entendimento do STJ e do STF é pacífico no sentido de que o habeas corpus não deve ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. Nos casos de furto qualificado por rompimento de obstáculo, a perícia técnica é imprescindível, conforme o art. 158 do CPP. Contudo, quando os vestígios desapareceram ou a realização da perícia é inviável, é possível suprir essa ausência por outros meios de prova, desde que devidamente justificados.
+5. No caso, a ausência de laudo pericial foi justificada pela necessidade de reparo imediato no veículo para garantir sua segurança, sendo o rompimento de obstáculo comprovado por prova testemunhal, além do depoimento da vítima.
+6. A individualização da pena só pode ser revista em casos de manifesta ilegalidade, o que não foi verificado nos autos.
+IV. ORDEM DE HABEAS CORPUS NÃO CONHECIDA." (HC 856754/RS, Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024)
+Logo, impossível aceder com a recorrente.
+Ante o exposto, com fundamento no art. 253, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
