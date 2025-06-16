@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO HABILITAÇÃO EM CUMPRIMENTO DE SENTENÇA. TEMA 677/STJ. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação habilitação em cumprimento de sentença.
+2. Consoante a jurisprudência consolidada nesta Corte Superior, "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial". Tema 677/STJ.
+3. O entendimento firmado quanto ao momento de aplicação do precedente em recurso repetitivo ou em repercussão geral, "é desnecessário o trânsito em julgado da tese sufragada por esta Corte Superior de Justiça como condição para que se possa invocá-la como precedente a fundamentar decisões em casos semelhantes." (AgInt no REsp n. 2.048.238/SP, Terceira Turma, DJe de 3/11/2023.)
+4. Agravo conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por JULIA BERLOFA BATOCHI, contra decisão que inadmitiu recurso especial fundamentado exclusivamente na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/06/2024.
+Concluso ao gabinete em: 05/11/2024.
+Ação: habilitação em cumprimento de sentença, ajuizada por JULIA BERLOFA BATOCHI em face de BANCO DO BRASIL SA, por meio do qual sustenta a aplicação da revisão do Tema 677 do STJ, que sustenta que o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo.
+Acórdão: deu parcial provimento aos pedidos, estabelecendo que os juros moratórios deveriam incidir desde a citação na ação civil pública, e que os juros remuneratórios deveriam ser calculados até o encerramento da conta-poupança. Por fim, o Tribunal afastou a condenação em honorários advocatícios, considerando que o depósito foi realizado dentro do prazo legal (e-STJ. fls. 83-98).
+Acórdão: deu parcial provimento ao agravo de instrumento, nos termos da seguinte ementa (e-STJ fl. 113):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - PLANO VERÃO - Atualização do débito até efetivo pagamento e disponibilização - Aplicação imediata do Tema nº 677 do STJ - Não cabimento - Caso em que o acórdão referente à tese firmada no Tema nº 677, do STJ foi contrastado por embargos declaratórios, ensejando-se manifestação do embargado, de acordo com a regra de processamento prevista no § 2º, do art. 1.023, do CPC, para eventual possibilidade infringente, estando ainda aludidos embargos pendentes de análise - Aplicação do acórdão paradigma relativo ao Tema 677 que demanda a conclusão do julgamento dos embargos declaratórios interpostos contra a decisão proferida no R Esp nº 1820963/SP, não se afigurando possível ao caso concreto - Suspensão do curso processual também descabida. Recurso desprovido.
+Embargos de declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega dissídio jurisprudencial por violação dos arts. 926, 927, III, 1039 e 1040 do CPC. Sustenta que a aplicação da tese firmada em recurso repetitivo independe do trânsito em julgado do julgamento qualificado e que os juízes e tribunais devem observar acórdão oriundo de julgamento de recurso especial repetitivo (e-STJ fls. 152-173).
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO HABILITAÇÃO EM CUMPRIMENTO DE SENTENÇA. TEMA 677/STJ. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação habilitação em cumprimento de sentença.
+2. Consoante a jurisprudência consolidada nesta Corte Superior, "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial". Tema 677/STJ.
+3. O entendimento firmado quanto ao momento de aplicação do precedente em recurso repetitivo ou em repercussão geral, "é desnecessário o trânsito em julgado da tese sufragada por esta Corte Superior de Justiça como condição para que se possa invocá-la como precedente a fundamentar decisões em casos semelhantes." (AgInt no REsp n. 2.048.238/SP, Terceira Turma, DJe de 3/11/2023.)
+4. Agravo conhecido. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da aplicação do Tema n. 677/STJ
+Na hipótese, o Tribunal de origem ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 149):
+Em julgado publicado em 16/12/2022, o Superior Tribunal de Justiça reviu seu entendimento anterior e fixou a seguinte tese: "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+Pois bem, considerando (i) o princípio da segurança jurídica esculpido no art. 5º, XXXVI da Constituição Federal ("a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada"), (ii) e o fato de o depósito realizado pelo executado no caso concreto ter ocorrido em data anterior à alteração do entendimento jurisprudencial supramencionado, é o caso de proceder com a modulação do novo entendimento, aplicando- o tão somente para fatos ocorridos após a fixação do Tema 677, em respeito ao princípio tempus regit actum.
+Aplica-se, na espécie, o entendimento firmado no julgamento do REsp n. 1.820.963/SP, que conferiu nova redação ao Tema 677/STJ, passando a dispor expressamente que: "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial" (REsp n. 1.820.963/SP, Corte Especial, DJe de 16/12/2022).
+Nesse sentido: AgInt nos EDcl no REsp 1.807.981/SP, Quart Turma, DJe de 24/4/2024; EDcl nos EDcl no AgInt nos EDcl no REsp 1.886.705/SP, Quarta Turma, DJe de 18/4/2024.
+Quanto ao momento de aplicação do precedente firmado em recurso repetitivo ou em repercussão geral, a jurisprudência desta Corte Superior dirimiu a controvérsia firmando entendimento que "é desnecessário o trânsito em julgado da tese sufragada por esta Corte Superior de Justiça como condição para que se possa invocá-la como precedente a fundamentar decisões em casos semelhantes." (AgInt no REsp n. 2.048.238/SP, Terceira Turma, DJe de 3/11/2023.)
+Confiram-se, ainda: AgInt no REsp 1751637/SP, Quarta Turma, DJe de 09/10/2023; EDcl nos EDcl no AgInt nos EDcl no REsp 1886705/SP, Quarta Turma, DJe de 18/4/2024.
+Desse modo, considerando que a Corte Especial não determinou modulação dos efeitos do tema, conclui-se que o depósito efetuado a título de garantia do juízo não afasta os efeitos da mora, razão pela qual o devedor permanece sujeito à cobrança dos juros moratórios e correção monetária, nos termos previstos no título executivo, aplicando-se tal entendimento aos depósitos efetuados independentemente do trânsito em julgado da decisão.
+Assim, na hipótese, a decisão recorrida merece reparo quanto ao ponto, por contrariar a orientação consolidada nesta Corte Superior.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a incidência dos juros moratórios previstos no título judicial até a data da efetiva liberação do crédito em favor da recorrente.
