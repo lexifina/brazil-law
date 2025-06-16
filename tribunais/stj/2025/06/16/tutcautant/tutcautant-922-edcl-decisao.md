@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULO MARCIO PIERONI em face da decisão acostada às fls. 99-101, e-STJ, da lavra deste signatário, em que se não conheceu do pedido de tutela cautelar antecedente.
+Nas razões dos aclaratórios (fls. 105-112, e-STJ), o embargante aponta omissão em relação à tese de que o pleito deveria ser conhecido em virtude do acórdão recorrido ser teratológico e, portanto, ser hipótese excepcional de concessão da medida cautelar.
+Sem impugnação.
+É o relatório.
+Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgInt no AREsp 1488352/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020; EDcl no AgInt no AREsp 1649618/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; EDcl no AgInt no AREsp 895.807/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020; EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020; EDcl no AgInt no REsp n. 2.025.972/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023; EDcl no AgInt no REsp n. 2.023.427/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023.
+No caso em tela, o embargante não aponta nenhum vício capaz de ser aclarado pelo presente recurso, limitando-se apenas a se insurgir contra o mérito da deliberação unipessoal.
+A decisão foi clara ao fundamentar o não conhecimento da tutela cautelar antecedente em virtude de ainda estar pendente o juízo de admissibilidade na origem, bem como registrou que, em análise preliminar, o recurso especial esbarraria no óbice da Súmula 735/STF, conforme se depreende do seguinte trecho (fls. 100-101, e-STJ):
+Depreende-se, portanto, nos termos do art. 1029, § 5º, III, do CPC/2015, ser da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir ou revogar efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo, exatamente o presente caso, no qual, conforme afirmado pelo próprio requerente, já foi interposto o reclamo especial, porém não foi realizado o juízo de admissibilidade. Nesse sentido:
+ ..
+Ademais, constata-se que o acórdão do Tribunal local atacado pelo recurso especial diz respeito ao deferimento ou não de tutela cautelar, atraindo, em análise inicial, o óbice da Súmula 735/STF por analogia.
+Tais fundamentos levam a conclusão da impossibilidade de se reconhecer o acórdão do Tribunal a quo como teratológico, porque, a princípio, não será possível conhecer do apelo extremo em virtude do óbice da Súmula 735/STF. Nesse sentido: "É inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão pela instância de origem a qualquer momento. Incidência, por analogia, da Súmula n. 735 do STF." (AgInt no AREsp n. 2.736.178/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025).
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
