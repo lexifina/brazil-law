@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO RURAL. BNDES. ACÓRDÃO COM FUNDAMENTO EM NORMA INFRALEGAL. IMPOSSIBILIDADE DE APRECIAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Não se conhece de recurso especial cuja análise demande, primordialmente, o exame de ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF, porquanto incabível a interposição de recurso especial para análise de violação meramente reflexa à lei federal.
+2. A desconstituição das premissas estabelecidas pela instância ordinária acerca da data dos atos praticados pela parte recorrida exigiria o reexame de matéria fática, providência que, no âmbito do recurso especial, encontra obstáculo na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por União desafiando decisão de fls. 405/411, que negou provimento ao recurso especial, com base nos seguintes fundamentos: (I) não pode ser aferida por meio da via eleita norma de caráter infralegal e (II) incidência da Súmula n. 7/STJ.
+Inconformada, sustenta a parte agravante, em resumo, que é desnecessária a análise dos atos normativos infralegais, pois "não utilizou a Resolução 3576/2008 como marco prescricional" (fl. 425). Alega, ainda, que o Banco Nacional de Desenvolvimento Econômico e Social "concorda com o entendimento da União e não questiona a decisão administrativa" (fl. 427).
+A parte agravada apresentou impugnação às fls. 436/444.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO RURAL. BNDES. ACÓRDÃO COM FUNDAMENTO EM NORMA INFRALEGAL. IMPOSSIBILIDADE DE APRECIAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Não se conhece de recurso especial cuja análise demande, primordialmente, o exame de ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF, porquanto incabível a interposição de recurso especial para análise de violação meramente reflexa à lei federal.
+2. A desconstituição das premissas estabelecidas pela instância ordinária acerca da data dos atos praticados pela parte recorrida exigiria o reexame de matéria fática, providência que, no âmbito do recurso especial, encontra obstáculo na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não comporta conhecimento.
+Conforme atestado pelo decisório agravado, o Tribunal de origem, ao dirimir a controvérsia, destacou (fl. 338):
+Dessa maneira, o art. 199 do CC disciplina que não ocorre a prescrição pendendo condição suspensiva. No caso, o ressarcimento ficou subordinado à implementação de uma condição suspensiva (evento futuro e incerto), nos termos do art. 125 do CC. Veja:
+Art. 125 Subordinando-se a eficácia do negócio jurídico à condição suspensiva, enquanto está se não verificar, não se terá adquirido o direito, a que ele visa.  ..
+Art. 199. Não corre igualmente a prescrição:
+I - Pendendo condição suspensiva;
+Somente com a publicação da Portaria do Ministério da Fazenda nº 482, de 10.12.2018 que ficou implementado o evento futuro e incerto, tendo em vista que tal norma estabeleceu as condições de ressarcimento e autorizou o pagamento da subvenção. Logo, durante o período de dez anos, o BNDES não poderia exercer sua pretensão de exigir da Secretaria do Tesouro Nacional - STN o pagamento dos valores referentes aos bônus de adimplência concedidos no âmbito do Programa FAT Giro Rural - PROINSA, haja vista que tal possibilidade somente se tornou possível com a edição da Portaria do Ministério da Fazenda nº 482, de 10.12.2018.
+Tal conclusão é reforçada em razão da tentativa de cobrança feita pelo BNDES no ano de 2015, a qual foi rejeitada pela mesma secretaria sob o argumento de que inexistia ação orçamentária e Portaria do Ministério da Fazenda que possibilitassem o pagamento requerido.
+Portanto, não prospera a tese da STN, que entendeu que a concessão dos bônus de adimplência, bem como a apresentação do pedido de seu ressarcimento são fatos anteriores à edição da Portaria 482/2018, evidenciando que a situação em discussão não decorreu de causas que impediam a pretensão de cobrança pelo BNDES, sobretudo considerando que a Resolução 3.576 apresentou duas observações: a primeira seria a necessidade de definição de condições para o ressarcimento aos agentes financeiros dos custos decorrentes da concessão do bônus de adimplência, por ato normativo do Ministério da Fazenda; e a segunda a observância de prazo para que as instituições financeiras informassem à Secretaria do Tesouro Nacional do Ministério da Fazenda, o número de operações e os montantes contemplados com a concessão do referido bônus de adimplência. No caso, a regulamentação supracitada somente entrou em vigor no dia 6.12.2018, com a edição da Portaria 482 do Ministério da Fazenda.
+Nota-se, ainda, que a Portaria acima não só regulamentou a atualização do valor do bônus, como também dispôs como o BNDES deveria prestar as informações, exigindo apresentação de declaração de responsabilidade, assim como tratou dos documentos necessários para operacionalização do pagamento.
+Logo, o prazo prescricional somente poderia fluir sem que houvesse qualquer condição que impedisse o pleno exercício da pretensão, de modo que a pendência de norma que implementaria as condições para o ressarcimento aos agentes financeiros constituiu empecilho ao início da fluência do prazo prescricional no caso concreto.
+Ademais, o ente federal não poderia considerar como termo inicial o ofício de cobrança do BNDES para pagamento da atualização dos valores já pagos (para o período entre 11.9.2010 e 15.10.2014), visto que a ausência expressa acerca da atualização monetária, nos normativos, não afasta a incidência da referida atualização desde a data da concessão dos benefícios aos mutuários, pois referida incidência desde tal data é decorre do nascimento do direito ao ressarcimento pelos bônus concedidos.
+Diante do exposto, verifica-se que, embora a parte recorrente tenha alegado a transgressão de normas infraconstitucionais, eventual afronta à legislação federal se revela de forma reflexa, uma vez que a solução da controvérsia exige a interpretação da Resolução CMN n. 3576/2008 e da Portaria do Ministério da Fazenda n. 482/2018, as quais não se enquadram no conceito de legislação federal.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. REMANEJAMENTO DE POSTES E LINHAS DE TRANSMISSÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ENFOQUE CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. ACÓRDÃO COM FUNDAMENTO EM NORMA INFRALEGAL. IMPOSSIBILIDADE DE APRECIAÇÃO VIA RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO AJUIZADA PELA FAZENDA PÚBLICA. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO DESPROVIDO.
+1.O acórdão recorrido não possui as omissões suscitadas pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Inexiste, portanto, ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. Ao STJ não cabe apreciar, por meio de recurso especial, mesmo que indiretamente, normas infralegais, tais como: resoluções, portarias, regimentos internos, regulamentos, por não se enquadrarem no conceito de tratado ou lei federal constante no art. 105, III, a, da Constituição Federal.
+3. A controvérsia foi decidida sob enfoque eminentemente constitucional, cabendo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência.
+4. Em razão do princípio da isonomia, firmou-se perante esta Corte o entendimento de que deve ser aplicado o prazo quinquenal, previsto no art. 1º do Decreto n. 20.910/32, à pretensão de ressarcimento apresentada pela Fazenda Pública.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.830.528/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025 - g.n.)
+Outrossim, constata-se que a desconstituição das premissas estabelecidas pela instância ordinária acerca da data dos atos praticados pela parte recorrida exigiria o reexame de matéria fática, providência que, no âmbito do recurso especial, encontra obstáculo na Súmula n. 7 do Superior Tribunal de Justiça.
+É a jurisprudência:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.510.771/PI, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 20/3/2025 - g.n.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
