@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE IN ADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos os fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula 182 do STJ. Nesse sentido: EAREsp 701.404/SC, Corte Especial, relator para acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Pactual Construções Ltda. desafiando a decisão de fls. 148/149, que não conheceu do agravo em recurso especial, em razão de a parte recorrente não ter rebatido, de forma específica, todos os fundamentos adotados pelo juízo negativo de admissibilidade, atraindo a incidência da Súmula 182 desta Corte Superior.
+Inconformada, a parte agravante sustenta que "afirmou  nas razões do recuso especial  com todas as letras que o STJ já decidira, em casos semelhantes ao presente, que, em homenagem ao princípio da causalidade e pelo critério da sucumbência, a condenação nos honorários deveria ser fixada contra quem dera causa ao ajuizamento de uma ação - e não impugnação" (fl. 154).
+Destaca que "a recorrente não poderia ser condenada a arcar com as verbas da sucumbência, nos termos da jurisprudência do Superior Tribunal de Justiça, amplamente analisada nas razões recursais" (fl. 155).
+Aberta vista à parte embargada, decorreu in albis o prazo para apresentação de impugnação (fl. 160).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE IN ADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos os fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula 182 do STJ. Nesse sentido: EAREsp 701.404/SC, Corte Especial, relator para acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida.
+Como antes assentado na decisão, observa-se que o agravo em recurso especial não ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, de modo específico e individualizado, todos os fundamentos adotados pela decisão que inadmitiu o apelo especial, quais sejam, "Súmula 83/STJ e ausência de similitude fática" (fl. 148).
+Observa-se que a Vice-Presidência do Tribunal de Justiça do Estado de Mato Grosso do Sul assentou no referido decisum que (fl. 104):
+Ademais, o órgão julgador não está obrigado a rebater, pormenorizadamente, os argumentos levantado por qualquer das pelas partes em defesa da tese que apresentam. Deve, sim, observar as questões relevantes e imprescindíveis à sua resolução.
+Em assim sendo, o recurso é inadmissível, por óbice imposto pela Súmula 83 do Superior Tribunal de Justiça.
+Já nas razões do agravo em recurso especial (fls. 114/118), a parte recorrente nem sequer faz menção ao Verbete 83/STJ.
+Com efeito, caberia à parte ora insurgente demonstrar, nas razões do agravo em recurso especial, que o entendimento jurisprudencial não está pacificado no mesmo sentido do aresto recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos no decisório impugnado ou, ainda, que os precedentes citados pela decisão objurgada não se aplicariam ao caso dos autos, providência da qual não se desincumbiu. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO CONTRA INADMISSÃO DO RECURSO ESPECIAL E DO AGRAVO INTERNO. IMPUGNAÇÃO DEFICIENTE. AUSÊNCIA DE PRECEDENTES SOBRE A QUESTÃO DEBATIDA. APLICAÇÃO DA SÚMULA 182/STJ. REPETIÇÃO DOS ARGUMENTOS LANÇADOS NO RECURSO ESPECIAL. JURISPRUDÊNCIA DOMINANTE. SÚMULA 83 DO STJ.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Tribunal de origem, que não admitiu o Recurso Especial, não foram atacados adequadamente pelo recurso de Agravo em Recurso Especial, permanecendo incólume em face da impugnação apresentada.
+2. De fato, as razões do Recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar a decisão de admissibilidade proferida pelo Presidente do Tribunal de origem, o que não foi feito no Agravo em Recurso Especial, visto que não atacou a Súmula 83 do STJ.
+3. Verifica-se que as agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação exposta pela Corte regional, o que é imprescindível quando se deseja impugnar a aplicação da referida súmula. Cumpre destacar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do art. 105, III da Constituição Federal de
+1988.
+4. A jurisprudência do STJ aplica a Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+5. É pacífica a compreensão no STJ que, para a aplicação do entendimento previsto na Súmula 83/STJ, basta que o acórdão recorrido esteja de acordo com a orientação jurisprudencial firmada pelo STJ, sendo prescindível a consolidação da questão em enunciado sumular ou a sujeição da matéria à sistemática dos Recursos Repetitivos, nos termos do art. 543-C, do Código de Processo Civil, com trânsito em julgado.
+6. Agravo Interno não provido.
+(AgInt no AREsp 2.479.224/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A controvérsia dos autos versa acerca da legitimidade ou não do exequente para a propositura do cumprimento de sentença amparado na Ação Coletiva n. 2008.71.00.024897-9.
+3. A decisão agravada afastou as preliminares suscitadas em contrarrazões, e, no mérito, deu provimento ao recurso especial da parte autora com base em precedentes recentes desta Corte no sentido de que não tendo a sentença coletiva limitado expressamente os seus efeitos ao rol de substituídos, não há falar em violação à coisa julgada, de modo que seus benefícios devem atingir a todos os Servidores da respectiva categoria profissional.
+4. Consoante jurisprudência desta Corte, não é suficiente, para afastar o óbice da Súmula n. 83/STJ, a alegação genérica de que o acórdão recorrido não diverge da jurisprudência do STJ. Deve o agravante, sob pena de não conhecimento do recurso, demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou colacionar precedentes contemporâneos ou supervenientes aos indicados no decisum, de forma a demonstrar que outra é a orientação jurisprudencial, o que não ocorreu na espécie.
+5. À luz do artigo 1.021, § 1º, do CPC/2015 e conforme entendimento sedimentado na Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+6. Agravo interno não conhecido.
+(AgInt no REsp 1.967.538/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ora, segundo compreensão desta Corte, " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Não é possível considerar as razões trazidas no agravo interno vertente, para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.585.836/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO AO ART. 1.021, § 1º, DO CPC/2015 E À SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O STJ perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ.
+2. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+3. Verifica-se no caso em apreço que não foi impugnado no Agravo em Recurso Especial o seguinte argumento: "Súmula 83 do STJ" (fl. 177, e-STJ).
+4. Tendo sido utilizada tal súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no Agravo em Recurso Especial. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe 11/3/2019.
+5. Ressalte-se que a impugnação tardia (somente por ocasião da interposição de Agravo Interno) dos fundamentos da decisão que não admitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo Interno não provido.
+(AgInt no AREsp 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
