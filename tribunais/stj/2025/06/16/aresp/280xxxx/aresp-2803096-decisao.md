@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO VALDIVINO DE ARAUJO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0002420-66.2012.8.14.0074 (fls. 182/193).
+No recurso especial, o agravante alega violação dos arts. 386, VII, do Código de Processo Penal, e 180, caput, do Código Penal, sustentando a insuficiência de provas quanto à presença do dolo. Requer, por conseguinte, a absolvição quanto à receptação qualificada ou, de forma subsidiária, a desclassificação da conduta para a modalidade simples ou culposa (fls. 208/216).
+Inadmitido o recurso na origem pelo óbice da Súmula 7/STJ (fls. 230/237), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 239/246).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 280/285).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+O agravante foi condenado, pela prática do crime previsto no art. 180, § 1º, do Código Penal, à pena de 3 anos de reclusão e 10 dias-multa, por ter adquirido, no exercício de atividade comercial, um relógio da marca Armani por valor manifestamente desproporcional ao preço real do bem.
+O Tribunal de origem, ao manter a condenação pela prática do delito de receptação na modalidade qualificada, assim estabeleceu (fl. 192 - grifo nosso):
+Analisando as provas constante nos autos, observa-se que o acusado trabalhava como relojoeiro, tendo este inclusive dito que possuía conhecimento de que o relógio adquirido custava caro, o que demonstra que o acusado, ao menos, deveria ter desconfiado da procedência ilícita do objeto.
+De acordo com as declarações do apelante em juízo, a compra do relógio foi feita no valor de R$ 50,00 (cinquenta reais), o qual foi oferecido por um menor de idade, sem apresentação de nota fiscal, sendo certo que, pela lógica, era de supor que o objeto teve origem em ato ilícito, ou ainda, estranhar não haver, pelo menos, vício no bem adquirido.
+Sendo assim, considerando que o objeto ilícito foi adquirido pelo apelante no exercício de atividade comercial, o elemento do tipo "deveria saber" restou demonstrado de acordo com as circunstâncias fáticas e, dessa forma, não há que se falar em desclassificação do tipo penal em tela.
+O acórdão concluiu pela presença do elemento subjetivo do tipo penal, levando em conta as circunstâncias que envolveram a aquisição do objeto, tais como a compra de um relógio de marca conhecida por valor irrisório, a negociação realizada com um menor de idade, o conhecimento técnico do agravante (que atua como relojoeiro) sobre o valor real do objeto, bem como a ausência de comprovação quanto à origem lícita do produto.
+Essa conclusão, inclusive, reflete o entendimento desta Corte Superior, no sentido de que, no crime de receptação, incumbe à defesa comprovar que o acusado desconhecia a origem ilícita dos bens para fim de declarar a sua absolvição ou a desclassificação do delito para a modalidade culposa (AgRg no AREsp n. 2.847.400/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/4/2025, DJEN de 10/4/2025).
+Nesse contexto, a reversão do entendimento a que chegou a instância ordinária demandaria necessário revolvimento do acervo fático-probatório, vedado pela Súmula 7/STJ. Confiram-se: AgRg no REsp n. 2.097.041 /PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; e AgRg no HC n. 742.304/SC, de minha relatoria, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. ABSOLVIÇÃO POR AUSÊNCIA DE DOLO. DESCLASSIFICAÇÃO PARA MODALIDADE SIMPLES OU CULPOSA. PRETENSÃO QUE DEMANDA REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
