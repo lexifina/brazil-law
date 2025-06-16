@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por LOTEUM INCORPORACOES SA, em face de decisão monocrática proferida por este signatário, que deu parcial provimento ao recurso especial, a fim de excluir a indenização por dano moral.
+Em suas razões, o embargante sustenta apenas que a decisão padece dos seguintes vícios: (a) omissão quanto às violações apontadas a respeito dos arts. 489, §1º, VI e 1.022, II e III, do CPC; e (b) à redistribuição dos ônus sucumbenciais, nos termos dos arts. 85 e 86 do CPC, especialmente considerando o parcial provimento do Recurso Especial de e-STJ fls.1.162/1.189; c) erro material ao partir da equivocada premissa de que incidiria a Súmula nº211 desse e. STJ em relação à violação demonstrada ao art. 406,do Código Civil.
+Impugnação oferecida às fls. 1.546/1.559 (e-STJ).
+É o breve relatório do necessário.
+Decido.
+Os embargos de declaração merecem parcial acolhimento,.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO REVISIONAL. SUPLEMENTAÇÃO DE APOSENTADORIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INOVAÇÃO RECURSAL. EXTENSÃO DE VANTAGENS PECUNIÁRIAS OU REAJUSTES SALARIAIS. INCOMPATIBILIDADE. PRINCÍPIO DO MUTUALISMO. SÚMULA 83/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A ausência de demonstração, nas razões do recurso especial, de como os dispositivos de lei federal foram ofendidos caracteriza deficiência na fundamentação, a ensejar o não conhecimento do recurso. Incidência da Súmula 284 do STF.
+4. A alegação de ofensa aos arts. 9º, 444, 468 da CLT; e 4º, III, 39, XIII, 51, IV, do Código de Defesa do Consumidor não foi deduzida previamente nas razões da apelação interposta, constituindo, portanto, inovação recursal, sendo inviável sua análise, ante o instituto da preclusão consumativa.
+5. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido. (AgInt no REsp 1787260/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/05/2019, DJe 31/05/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. REITERAÇÃO DE ARGUMENTOS DEVIDAMENTE EXAMINADOS. MERO INCONFORMISMO. CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM ELEVAÇÃO DE MULTA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas pela decisão embargada, o que é incabível no âmbito dos embargos declaratórios.
+3. A nova reiteração, pela parte embargante, de argumentos expressa e suficientemente examinados no acórdão embargado sobreleva o intuito manifestamente protelatório, ensejando a majoração da multa na forma prevista pelo art. 1.026, § 3º, do CPC/2015.
+4. Embargos de declaração rejeitados, com elevação da multa para o equivalente a 10% (dez por cento) sobre o valor da causa atualizado.
+Condicionada a interposição de qualquer outro recurso ao depósito prévio da pena. (EDcl nos EDcl nos EDcl no AgInt no AgInt no AREsp 1286419/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/05/2019, DJe 23/05/2019)
+2. Na hipótese, verifico que a decisão embargada padece de omissão, pois, embora tenha dado parcial provimento ao recurso especial para afastar a condenação da parte recorrente ao pagamento de indenização por danos morais, não houve análise acerca da redistribuição dos ônus da sucumbência.
+Desse modo, constatada omissão no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, inciso II, do CPC/2015.
+Da análise dos autos, verifico que, de fato, a parte autora saiu vencedora apenas em um de seus dois pedidos, uma vez que negado o pleito de indenização por danos morais e acolhido o de indenização por danos materiais
+Assim, há que se reconhecer que, com o provimento parcial do recurso especial interposto pela parte ora embargante, houve sucumbência recíproca entre as partes, devendo essa sucumbência refletir na redistribuição dos ônus de sucumbência, nos termos do art. 86 do CPC/2015.
+Destaca-se que: "A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de apenas um dos pedidos dentre dois realizados implica sucumbência recíproca" (REsp 1.646.192/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 24.3.2017).
+Nesse contexto, a parte dispositiva da decisão embargada (e-STJ fl. 1. 514) ficará com a seguinte redação: "Em face do exposto, dou parcial provimento ao recurso especial para afastar a condenação ao pagamento de danos morais. Nos termos do art. 86 do CPC/2015, redistribuo os ônus de sucumbência na proporção de 50% (cinquenta por cento) para cada parte, vedada a compensação e observada eventual concessão de gratuidade da Justiça".
+3. Em face do exposto, acolho os embargos de declaração, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
