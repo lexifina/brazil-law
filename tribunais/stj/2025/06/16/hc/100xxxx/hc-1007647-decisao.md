@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JANAINA RODRIGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo de Execução Penal nº 8000484-87.2025.8.24.0023).
+Consta dos autos que o juízo da execução penal indeferiu pedido de indulto formulado com base no Decreto Presidencial nº 12.338/2024.
+Na inicial, a defesa informa que a paciente cumpre pena restritiva de direitos em decorrência de condenação por crime patrimonial cometido sem violência ou grave ameaça à pessoa, nos autos n. 8001475-34.2023.8.24.0023, no qual foi fixada pena privativa de liberdade de 1 ano, por infração ao disposto no art. 171, § 2º, inciso VI do Código Penal (fls. 4-5).
+A defesa sustenta que o acórdão é manifestamente ilegal, pois não concedeu à paciente o direito ao indulto consagrado no Decreto n. 12.338/2024 (fl. 3). Afirma que a paciente preenche todos os requisitos para a concessão do indulto, conforme o art. 9º, inciso XV, c/c art. 12, § 2º, inciso I, do Decreto n. 12.338/24, que concede o indulto às pessoas condenadas por crime contra o patrimônio, cometido sem violência ou grave ameaça, e que tenham reparado o dano ou, na hipótese de pobreza presumida, estejam representadas pela Defensoria Pública (fls. 5-6).
+Alega que a incapacidade econômica da paciente está claramente presumida por sua representação institucional e que não há qualquer notícia de falta grave cometida nos doze meses anteriores ao Natal de 2024 (fl. 6).
+No mérito, a defesa requer o reconhecimento da ilegalidade do acórdão impugnado, deferindo-se o pedido de indulto em relação à condenação por crime patrimonial cometido sem violência ou grave ameaça à pessoa (fl. 7).
+As informações foram prestadas às fls. 66-69 e fls. 70-87.
+O Ministério Público Federal manifestou-se, às fls. 94-97, em parecer assim ementado:
+PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de REsp. Inadmissão. Execução penal. Indulto. Decreto nº 12.338/24. Pena restritiva de direito. Inadimplemento do requisito objetivo previsto no artigo 9º, VII, do Decreto Presidencial. Apenada que não iniciou o cumprimento da pena. Não admissão do writ, descabida a concessão de uma ordem ex officio.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que a paciente não preencheu os requisitos objetivos para a concessão do indulto, pois havendo a substituição da pena privativa de liberdade por restritiva de direitos, deve ser exigida a satisfação do requisito previsto no artigo 9º, VII, do Decreto nº 12.338/24.
+Confira-se a percuciente fundamentação do julgado impugnado, que adoto como razões complementares de decidir (fl. 53):
+Ao prever a possibilidade de concessão do indulto aos crimes patrimoniais cometidos sem violência ou grave ameaça, o Presidente restringiu o benefício apenas aos condenados à pena privativa de liberdade, nada falando sobre aqueles que tiveram a pena substituída por restritiva de direitos.
+Veja, não se está negando a possibilidade de concessão do indulto nos casos de substituição da pena privativa de liberdade por restritiva de direitos, afinal há expressa previsão nesse sentido, conforme se observa no art. 3º, I, in verbis:
+Art. 3º Aplicam-se o indulto e a comutação de pena ainda que:
+I - a pena privativa de liberdade tenha sido substituída por pena restritiva de direitos;
+Contudo, por força do art. 9º, VII do referido Decreto, para concessão do indulto aos apenados que tiveram a pena substituída, exige-se o cumprimento de 1/6 da pena se primário ou 1/5 se reincidente, inclusive quando se tratar de crime patrimonial.
+Isso porque, conforme sumariado, ao tratar dos crimes patrimoniais no inciso XV do art. 9º, o Presidente indultou somente os condenados à pena privativa de liberdade e se omitiu quanto às penas substitutivas. Logo, inviável conferir efeito extensivo, uma vez que tal omissão deve ser compreendida, em verdade, como silêncio eloquente, notadamente porque, quando quer indultar as penas restritivas de direito, o Decreto é expresso.
+No caso dos autos, a apenada sequer havia iniciado o cumprimento da pena até o dia 25/12/2024, motivo pelo qual não faz jus ao benefício, devendo a decisão ser mantida integralmente. (grifei)
+Bem se observa que o benefício foi negado à apenada em razão do inadimplemento do requisito objetivo previsto no artigo 9º, VII, do Decreto nº 12.338/24 e não por ausência de reparação do dano.
+Ante o exposto, inevidente flagrante ilegalidade, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
