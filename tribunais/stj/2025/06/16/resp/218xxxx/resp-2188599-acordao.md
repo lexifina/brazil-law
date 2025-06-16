@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE RESPONSABILIDADE AJUIZADA CONTRA EX-SÓCIOS. DÍVIDAS DA SOCIEDADE EMPRESÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO . SÚMULA Nº 283/STF.
+1. Ausente o prequestionamento dos artigos apontados como violados no recurso especial, não tendo sido sequer suscitado em embargos de declaração, incide, por analogia, o disposto na Súmula 282/STF.
+2. A teor da Súmula nº 283/STF, também aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ANDRÉ LUIS MATHEUS E OUTROS, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado:
+"Ação declaratória de responsabilidade ajuizada por cessionários de quotas de limitadas contra cedentes, relativamente a dívidas sociais. Pedido subsidiário de rescisão do contrato de cessão. Ação julgada procedente, acolhido o primeiro pedido. Decisão, anterior à sentença, por esta confirmada, de condenação de corré por litigância de má-fé. Apelação dos réus.
+Dívidas da sociedade, salvo expressa disposição contratual diversa, não podem ser imputadas aos cedentes, sob pena de violação da separação de personalidades jurídicas. Inteligência do art. 49-A do Código Civil. Ausência de cláusula contratual, ou fundamento legal, que permita imputar à autora responsabilidade pelas dívidas em tela.
+Hipótese que não se subsume aos arts. 1.003, parágrafo único, 1.016 e 1.032 do Código Civil, que tutelam a própria sociedade e terceiros contra ilícitos danosos de sócio, ora atual, ora retirante, ou de administrador. Doutrina de EGBERTO LACERDA TEIXEIRA e de ALFREDO DE ASSIS GONÇALVES NETO, cits. em precedente desta Câmara: Ap. 0036718- 87.2010.8.26.0602, FRANCISCO LOUREIRO. Precedente da 2ª Câmara Empresarial do Tribunal: Ap. 0017250-73.2010.8.26.0009, FÁBIO TABOSA.
+De todo o modo, prova dos autos a demonstrar que os autores sabiam, ou deveriam saber, consoante o que normalmente acontece (CPC, art. 375), das dívidas de que se cuida.
+Reforma da sentença recorrida. Recurso de apelação parcialmente provido para julgar improcedentes os pedidos formulados na inicial principal declaratório e subsidiário de rescisão , mantida, todavia, a condenação da corré por litigância de má-fé."
+No recurso especial (e-STJ fls. 775/804), os recorrentes alegam violação dos arts. 114, 147, 421 e 422 do Código Civil.
+Aduzem que, ao adquirirem dos recorridos as empresas Agro Aérea Triângulo Ltda. e Decaero de Carli Aeroagrícola Ltda., não teriam assumido a responsabilidade pelo pagamento das dívidas administrativas e judiciais , cujos valores ultrapassariam a capacidade de operação dos empreendimentos, inviabilizariam o negócio e a própria sobrevivência das empresas.
+Argumentam que aceitaram os termos e condições ajustados em contrato, mas que os recorridos não teriam apresentado todas as pendências financeiras, e que tal omissão viciaria a vontade dos contratante, quebrando a comutatividade e o equilíbrio contratual entre as partes.
+Sustentam que "os valores dos débitos omitidos no negócio jurídico contraídos antes da venda, tanto da esfera administrativa, alusivas as 88 (oitenta e oito) autos de infração lavrados pela agência nacional de aviação civil (ANAC) (..), quanto da esfera judicial cível, alusivas as 03 (três) ações judiciais em que as foram responsabilizadas pelos ônus da sucumbência (..), e da esfera trabalhista, referente reclamação trabalhista promovida pelo ex-empregado Anderson de Souza Lacerda (..), por si só, revelam a desproporcionalidade e o desequilíbrio do pacto avençado, já que o passivo das empresas ficariam em total descompasso com o ativo dos empreendimentos, como já certificado desde o primeiro grau de jurisdição, quando houve a correta aplicação dos textos legais".
+Apresentadas as contrarrazões às e-STJ fls. 832/864, o recurso não foi admitido na origem, ascendendo a esta Corte por força de provimento dado a agravo em recurso especial (e-STJ fls. 964/965).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE RESPONSABILIDADE AJUIZADA CONTRA EX-SÓCIOS. DÍVIDAS DA SOCIEDADE EMPRESÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO . SÚMULA Nº 283/STF.
+1. Ausente o prequestionamento dos artigos apontados como violados no recurso especial, não tendo sido sequer suscitado em embargos de declaração, incide, por analogia, o disposto na Súmula 282/STF.
+2. A teor da Súmula nº 283/STF, também aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Recurso especial não conhecido.
+VOTO
+A insurgência não merece prosperar.
+Verifica-se que os arts. 114, 147, 421 e 422 do Código Civil, apontados como violados, não se encontram prequestionados no acórdão combatido, nem mesmo de modo implícito.
+Além disso, nem sequer foram opostos embargos de declaração para suprir a deficiência. As razões recursais também não alegam negativa de prestação jurisdicional por parte do TJSP, o que poderia suprir a falta de prequestionamento acaso acolhida tal tese. Logo, ante a deficiência técnica do recurso, incide, por analogia, a Súmula 282/STF.
+Neste sentido: AgInt nos EAREsp 1.495.714/MT, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/11/2020, DJe de 23/11/2020; AgRg no RE no AgRg no AREsp 174.088/GO, relatora Ministra Eliana Calmon, Corte Especial, julgado em 20/02/2013, DJe de 28/02/2013; AgInt no REsp 2.024.146/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/05/2024, DJe de 15/05/2024; AgInt nos EDcl no AREsp 2.399.029/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/04/2024, DJe de 13/05/2024).
+Não bastasse isso, o aresto impugnado fundamenta suas conclusões em disposições normativas que não foram impugnados na via do especial, e que, por si só, são suficientes para manter a conclusão adotada. Desde modo, incide, na espécie, também por analogia, a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelos recorrentes, devem ser majorados para R$ 3.000,00, acrescidos de juros de mora desde o trânsito em julgado, observado o benefício da gratuidade da justiça, se for o caso.
