@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de tutela antecipada antecedente, visando a concessão de efeito suspensivo a recurso especial que dizem os requerentes, JULIA SHIMOMOTO KAMBARA, LUIZ SHIMOMOTO e HELIO SHIMOMOTO, terem interposto, contra acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em embargos de declaração, de cuja ementa se colhe o seguinte (fl. 19):
+APELAÇÃO. Ação de cobrança. Prestação de serviços. Comissão de corretagem imobiliária. Sentença de improcedência. Inconformismo da parte autora. A prova dos autos convence de que em decorrência do serviço desempenhado pelos autores houve aproximação dos réus, vendedores, com terceiros compradores com resultado útil aos alienantes. Comissão devida. Regra do artigo 725 do Código Civil, sob pena de enriquecimento indevido. Sentença reformada. Recurso provido.
+Narram os requerentes figurarem como réus em ação de cobrança de comissão de corretagem, em virtude de ter sido firmado, com terceiro (promitente comprador), contrato de promessa de compra e venda de imóvel de sua propriedade.
+Os autores alegaram que teriam intermediado a venda e aproximado os requerentes de uma promitente compradora, dois anos antes; o negócio não se concretizou por desistência da compradora. Agora, foi firmado um outro contrato de promessa de compra e venda, do mesmo imóvel e pelo mesmo valor, R$ 30.0000.000,00 (trinta milhões de reais), com uma empresa do mesmo grupo econômico daquela que inicialmente havia desistido da compra, daí porque os corretores teriam direito à comissão respectiva, aproximadamente três milhões de reais.
+A ação de cobrança foi julgada improcedente, em primeiro grau de jurisdição, mas a sentença foi reformada em grau de apelação, consoante a ementa transcrita, com condenação dos ora requerentes que, inconformados, teriam manejado recurso especial, ao qual pretendem seja emprestado efeito suspensivo, porque, segundo asserem, teria sido iniciado cumprimento provisório de sentença, com possibilidade de penhora de vultosa quantia, o que representaria a sua ruína.
+Assim, entendem que há urgência no presente pedido, sendo certo que a plausibilidade se mostra pela grande probabilidade de êxito no recurso especial.
+É o relatório. Decido.
+A súplica não merece conhecimento.
+Com efeito, conforme afirmam os próprios requerentes, o recurso especial ainda não passou pelo prévio juízo de admissibilidade, na origem.
+Em tal contexto, forçoso é reconhecer o descabimento do presente pedido de tutela de urgência, pois, nos termos do art. 1.029, §5º, III, do CPC, é da competência do Presidente ou Vice-Presidente do Tribunal de origem atribuir ou revogar efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade. Incidem as Súmulas 634 e 635 do STF.
+Assim é a jurisprudência desta Corte:
+AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE - PEDIDO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL - JUÍZO DE ADMISSIBILIDADE PENDENTE NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O PEDIDO. INSURGÊNCIA RECURSAL DA PARTE REQUERENTE.
+1. Nos termos do art. 1029, § 5º, III, do CPC/2015, é da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir ou revogar efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo. Incide, nesses casos e por analogia, o enunciado das Súmulas 634 e 635 do STF.
+2. Agravo interno desprovido.
+(AgInt na TutCautAnt n. 64/RJ, relator MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 4/9/2023, DJe de 8/9/2023)
+AGRAVO INTERNO NA PETIÇÃO - PEDIDO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL - JUÍZO DE ADMISSIBILIDADE PENDENTE NA ORIGEM - DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE TUTELA PROVISÓRIA. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. Esta Corte Superior admite, excepcionalmente, o abrandamento da incidência dos enunciados 634 e 635 da Súmula do STF e conhece de medidas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem somente em casos excepcionalíssimos, para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pelo STJ, o que não se verifica na hipótese. Precedentes.
+2. A concessão de efeito suspensivo a recurso especial está condicionada à configuração dos requisitos próprios da tutela de urgência, quais sejam, o fumus boni iuris e o periculum in mora, de forma cumulativa. Precedentes.
+3. Agravo interno desprovido.
+(AgInt na Pet n. 14.862/SP, relator MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 29/5/2023, DJe de 1/6/2023.)
+Ante o exposto, nos termos do art. 34, XVIII, a, do RISTJ, não conheço do pedido de tutela antecipada antecedente.
+Publique-se.
+EMENTA
