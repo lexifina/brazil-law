@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTONIO LUCIEL MENESES DE SOUSA contra decisão monocrática de Desembargador integrante do Tribunal de Justiça do Estado do Piauí, no Habeas Corpus n. 0812554-50.2025.8.18.0140.
+Consta nos autos que o paciente teve sua prisão preventiva decretada por Juízo de Direito de primeiro grau, haja vista a prática do delito descrito no art. 157, § 2º-A, inciso I, do Código Penal.
+Na presente impetração, a defesa alega constrangimento ilegal, pois a fundamentação da prisão preventiva é genérica. Declara a inexistência de elementos concretos a justificar a custódia provisória. Afirma que o paciente, embora tenha confessado o fato, não o praticou por meio de arma de fogo. Declara que o paciente é primário, possui bons antecedentes e tem residência fixa. Subsidiariamente, pugna pela fixação de medidas cautelares diversas da prisão. Argumenta, ainda, pela necessidade de afastamento da Súmula 691 do STF, diante da flagrante ilegalidade cometida contra o paciente.
+Requer-se, liminarmente, a concessão da ordem para que seja concedida a liberdade provisória do paciente e, no mérito, o trancamento da ação penal e a confirmação da liminar.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691 do STF).
+O enunciado aplica-se também à hipótese em que se impugna decisão singular do Relator, a qual deveria ter sido impugnada por agravo interno, que devolveria a questão ao colegiado competente, nos termos do art. 105, inciso I, alíneas a e c, da Constituição da República.
+Com efeito, "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão s ingular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2018, DJe 5/4/2018).
+No caso dos autos, em juízo perfunctório, próprio da cognição das presentes circunstâncias processuais do feito, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte. Restou consignado na decisão monocrática que há indícios de materialidade e autoria - imagens de CFTV em aparece o paciente; a confissão do paciente do fato delitivo; o uso do cartão de crédito da vítima pelo paciente - e a necessidade de se acautelar a ordem pública, devido o modus operandi empregado, a revelar a gravidade concreta da conduta.
+Diante do exposto, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
