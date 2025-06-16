@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de ANDERSON VALDIR FURTADO GOMES JUNIOR no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA MILITAR DO RIO GRANDE DO SUL (Apelação n. 0070468-11.2021.9.21.0001).
+Depreende-se dos autos que o ora paciente foi condenado a 1 ano e 6 meses de reclusão, por haver praticado o crime de falsidade ideológica prevista no art. 312 do Código Penal Militar (e-STJ fls. 49/55).
+O Tribunal de origem negou provimento à apelação (e-STJ fls. 39/44).
+Daí o presente writ, no qual sustenta a defesa que "a ilegalidade em questão se consubstancia a partir do momento em que os policiais da corregedoria de polícia responsáveis pelo cumprimento do mandado de busca e apreensão extrapolaram os limites legais deste mandado. Deixando clara a situação, temos que o referido mandado de busca e apreensão previa que o seu cumprimento deveria se dar no endereço da residência do acusado, localizado no município de Gravataí, tendo como objeto unicamente a arma de fogo supostamente utilizada de forma indevida pelo ora paciente" (e-STJ fl. 8).
+Diante dessas considerações, pede (e-STJ fls. 37/38):
+a) Seja concedida a liminar para fins de suspender os efeitos do acórdão até o julgamento do mérito do presente habeas corpus, considerando que a manutenção dos efeitos do acórdão poderá causar prejuízos irreparáveis aos Autores, em face da ilicitude das provas derivadas de um mandado de busca e apreensão executado em local diverso daquele autorizado judicialmente.
+b) Seja notificada a autoridade coatora para que preste as devidas informações no prazo de 10 dias, conforme previsto no ordenamento jurídico, a fim de que se esclareçam os motivos que levaram à execução do mandado de busca e apreensão em local diverso do determinado, bem como as circunstâncias que envolveram a produção das provas questionadas.
+c) Seja dado vista à Procuradoria Geral da República para emissão de parecer sobre o presente habeas corpus, considerando a relevância das questões jurídicas suscitadas e a necessidade de manifestação do órgão ministerial sobre a legalidade das provas produzidas e sua consequente influência no trancamento da ação penal.
+d) Seja concedida a ordem de Habeas Corpus para trancar a ação penal ab initio, tendo em vista a ilicitude por derivação das provas produzidas dentro do contexto de ilegalidade no cumprimento do mandado de busca e apreensão. Tal medida se faz necessária para garantir o respeito aos direitos fundamentais dos Autores e assegurar que o processo penal não se baseie em provas obtidas por meios ilícitos, conforme entendimento consolidado na jurisprudência pátria.
+Liminar indeferida e informações prestadas.
+O MPF manifestou-se pelo não conhecimento da impetração (e-STJ fls. 139/141 ).
+É o relatório.
+Decido.
+Inicialmente, consoante informações prestadas pelo Tribunal de origem, verifica-se o trânsito em julgado da Ação Penal em 25/10/2024 (e-STJ fl. 135).
+Não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência do Superior Tribunal de Justiça acerca das controvérsias, ficando esta Corte, ainda, impossibilitada de analisar o tema, sob pena de indevida supressão de instância.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
