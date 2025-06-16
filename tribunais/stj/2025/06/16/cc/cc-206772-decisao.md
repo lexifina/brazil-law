@@ -1,0 +1,10 @@
+DECISÃO
+Na origem do presente conflito está o mandado de segurança impetrado por Vac-All Brasil Serviços Industriais Ltda, em que apontou como autoridade coatora o Gerente Geral de Suprimentos, Relacionamento com Mercado Fornecedor, Gestão de Riscos e Soluções Digitais de Suprimentos da Petróleo Brasileiro S.A. - Petrobrás.
+Do que se colhe dos autos, a ação mandamental foi inicialmente impetrada na Justiça Federal no Estado da Bahia, tendo sido distribuída ao Juízo da 11ª Vara Federal Cível daquela Seção Judiciária, que declinou da competência para a Seção Judiciária do Rio de Janeiro sob o entendimento de que "a autoridade apontada como coatora tem sede funcional no Rio de Janeiro".
+Coube ao Juízo da 11ª Vara Federal do Rio de Janeiro, que recebeu o mandado de segurança em redistribuição, suscitar o presente conflito negativo, sob o entendimento de que o juízo originário, ao considerar que a sede funcional da autoridade indicada como coatora constitui o único critério válido de fixação da competência, contrariou o "atual entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, bem como o acesso ao Poder Judiciário e a prevalência da faculdade concedida pela Constituição Federal no § 2º do seu art. 109" (e-STJ, fl. 33).
+Estando conclusos os autos para resolução do conflito, sobreveio a informação de que a impetrante manifestou a desistência do mandado de segurança, já homologada por sentença proferida pelo juízo suscitante, que extinguiu o processo sem resolução do mérito (e-STJ, fls. 72-75).
+Brevemente relatado, decido.
+Considerando que a desistência manifestada pela parte impetrante, devidamente homologada, resultou na extinção do mandado de segurança sem resolução do mérito, impõe-se reconhecer que o presente conflito negativo de competência teve integralmente esvaziado o seu objeto, razão pela qual, com fundamento no art. 34, XI, do RISTJ, julgo-o prejudicado.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar o arquivamento dos autos.
+Publique-se.
+EMENTA
