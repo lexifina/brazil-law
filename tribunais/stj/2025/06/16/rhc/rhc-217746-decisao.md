@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por VITOR VINICIUS ANASTÁCIO, contra decisão da 6ª Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou a ordem de habeas corpus (1.0000.25.124487-7/000).
+Segundo consta dos autos, o recorrente foi preso em flagrante por suposta prática de tráfico de drogas e posse ilegal de arma de fogo.
+No writ originário, a defesa alegou "trancamento da ação penal em decorrência da ilicitude das provas obtidas mediante violação de domicílio" e, consequentemente, a "expedição de alvará de soltura em favor do paciente, cessando o constrangimento ilegal" (e-STJ fl. 28). O Tribunal, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 27):
+EMENTA: < HABEAS CORPUS - TRÁFICO DE DROGAS E ART. 16, DA LEI 10826/03 - PEDIDO DE TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - ALEGAÇÃO DE VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA - PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA - INVIABILIDADE O trancamento da ação penal por meio de habeas corpus somente é possível em casos excepcionalíssimos, quando latente atipicidade da conduta, inépcia da denúncia ou ausência de justa causa para ação penal. Afasta-se alegação de prova ilícita por violação de domicílio quando há indícios de justa causa para atuação policial, considerando a existência do estado de flagrância do paciente.>
+Nas razões do presente recurso, a defesa alega que a prisão ocorreu após violação da inviolabilidade domiciliar, sem os requisitos do artigo 302 do CPP (fls. 4-5). Sustenta que a prisão foi realizada sem mandado judicial e sem consentimento válido, violando o artigo 5º, XI, da Constituição Federal (fls. 11-12).
+Afirma, também, que as provas obtidas na residência do paciente são consideradas ilícitas devido à violação de domicílio, devendo ser aplicadas a teoria dos frutos da árvore envenenada (fls. 16-17).
+Argumenta que a quantidade de drogas apreendida é pequena e não caracteriza tráfico, podendo ser para uso pessoal, conforme precedentes do STJ (fls. 18-19).
+Diante disso, pede, em liminar e no mérito, a concessão de liberdade provisória ao paciente, mediante medidas cautelares diversas da prisão, devido ao fumus boni iuris e periculum in mora (fls. 25).
+É o relatório, Decido.
+No caso, observa-se que o recurso está deficitariamente instruído, pois a defesa sequer juntou aos auto o decreto de prisão preventiva e o auto de prisão em flagrante, o que inviabiliza o exame das alegações.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão d o habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Relatora Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
