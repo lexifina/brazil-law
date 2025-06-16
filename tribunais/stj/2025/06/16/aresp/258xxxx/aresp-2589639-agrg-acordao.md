@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. ART. 41 DA LEI N. 11.343/2006. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Na espécie, o agravante deixou de infirmar, nas razões do recurso especial, os fundamentos pelos quais o Tribunal de origem entendeu que o agravante não fazia jus à causa de diminuição prevista no art. 41 da Lei n. 11.343/2006. E, segundo reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Outrossim, "consoante entendimento assente neste Tribunal Superior, "a análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção corporal por restritivas de direitos, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal" (AgRg no AREsp 1.473.857/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original.) 3. Agravo regimental desprovido" (AgRg no HC 564.428/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/6/2020, DJe 29/6/2020, grifei).
+3. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FLAVIO LUIS DOS SANTOS contra decisão que conheceu do agravo para conhecer em parte do recurso especial e nessa parte negar-lhe provimento, em virtude da incidência da Súmula n. 283/STF quanto ao indeferimento da benesse prevista n o art. 41 da Lei n. 11.343/2006 e por não ser possível fixação de regime mais brando de cumprimento de pena (e-STJ fls. 678/681).
+Nas razões do presente recurso, a defesa refuta a aplicação do óbice sumular referenciado e insiste nas teses recursais de aplicação da causa de diminuição do art. 41 da Lei de Drogas e fixação de regime mais brando.
+Assim, pleiteia a reconsideração da decisão ou o julgamento do recurso pela Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. ART. 41 DA LEI N. 11.343/2006. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Na espécie, o agravante deixou de infirmar, nas razões do recurso especial, os fundamentos pelos quais o Tribunal de origem entendeu que o agravante não fazia jus à causa de diminuição prevista no art. 41 da Lei n. 11.343/2006. E, segundo reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Outrossim, "consoante entendimento assente neste Tribunal Superior, "a análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção corporal por restritivas de direitos, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal" (AgRg no AREsp 1.473.857/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original.) 3. Agravo regimental desprovido" (AgRg no HC 564.428/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/6/2020, DJe 29/6/2020, grifei).
+3. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida por seus próprios fundamentos, in verbis (e-STJ fls. 678/380, grifei):
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No entanto, ao fazê-lo, verifico que o apelo nobre não merece conhecimento.
+Neste agravo, a defesa se volta contra o indeferimento pela Corte de origem do pedido de aplicação do art. 41 da Lei n. 11.343/2006, nos seguintes termos (e-STJ fls. 510/511, grifei):
+Não há que se falar em aplicação da causa de diminuição prevista no art. 41, da Lei 11.343/06, como bem fundamentou a r. sentença: "Não é o caso de reconhecimento da referida causa de diminuição da pena, posto que o dispositivo do art. 41 da Lei 11.343/2006 prevê que, para ser beneficiado, deve o acusado "colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais coautores ou partícipes do crime e na recuperação total ou parcial do produto do crime, no caso de condenação", não se confundido, portanto, com a confissão do réu, que indicou onde estavam tanto a arma de fogo como os entorpecentes A confissão do réu consistiu no reconhecimento da autoria do delito, após o flagrante, quando admitiu, contra si, voluntária, expressa e pessoalmente, a prática dos crimes imputados a ele.
+O art. 41 da Lei 11.343/2006, por sua vez, refere- se a uma hipótese de "delação premiada", situação em que o acusado delata eventuais comparsas ou fornecedores da droga que comercializava, o que não ocorreu nos presentes autos. O réu confessou os fatos após a sua prisão em flagrante, reconhecendo a autoria dos delitos, contudo, não forneceu informações capazes de contribuir na identificação de comparsas no crime."
+Deve ser fixado o regime inicial fechado, uma vez que apesar de a pena imposta ser inferior a oito anos, o Réu é reincidente (art. 33, § 2º, "b" do C Penal), e inviável substituir a pena privativa de liberdade por restritivas de direitos, pois, sequer o requisito objetivo está presente.
+Verifico, do exame do excerto referenciado, que os fundamentos destacados - "delação premiada", situação em que o acusado delata eventuais comparsas ou fornecedores da droga que comercializava -, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados pela defesa nas razões especificamente recursais. Desse modo, incide na espécie a Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.597.699 /SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em , DJe .) 01/09/2016 12/09/2016
+Ademais, quanto ao regime de cumprimento de pena, verifico que não assiste à defesa.
+É que, embora a pena imposta ao recorrente seja inferior a 4 anos de reclusão, sua reincidência, somada à análise desfavorável da circunstância judicial relativa aos antecedentes, justifica o regime inicial fechado.
+Nesse sentido:
+PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. CONSIDERAÇÃO NEGATIVA DOS MAUS ANTECEDENTES E AGRAVAMENTO DA PENA PELA REINCIDÊNCIA. CONDENAÇÕES DISTINTAS. POSSIBILIDADE. MULTIRREINCIDÊNCIA. AGRAVAMENTO DA PENA. COMPENSAÇÃO PARCIAL DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E REINCIDÊNCIA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de ser possível levar em consideração condenações transitadas em julgado para efeito de maus antecedentes e reincidência quando distintos os respectivos fatos geradores. (HC 350.163/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 1º.8.2016).
+2. Na hipótese dos autos, a Corte estadual reconheceu a multirreincidência do recorrente e aumentou a sua pena com fundamento na compensação parcial da agravante da reincidência com a atenuante da confissão, em perfeita consonância com a jurisprudência desta Corte. Precedentes.
+3. Embora o quantum de pena permita, em tese, a fixação do regime aberto, a existência de circunstância judicial desfavorável, especialmente os maus antecedentes, utilizados para majorar a pena-base acima do mínimo legal (art. 59 do CP), bem como o fato do recorrente ser reincidente, justificam a imposição de regime prisional fechado (art. 33, §§ 2º e 3º, do CP).
+Agravo interno desprovido.
+(AgInt no AREsp 1077361/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/4/2018, DJe 2/5/2018, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. ARREPENDIMENTO POSTERIOR. RECONHECIMENTO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE REVOLVIMENTO DE PROVAS. REGIME INICIAL FECHADO. LEGALIDADE. SÚMULA N. 269 DO STJ. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  3. É válida a imposição do regime inicial fechado ao réu reincidente que teve a circunstância judicial considerada desfavorável, mesmo quando condenado a pena inferior a 4 anos. Súmula n. 269 do STJ.
+4. Agravo regimental não provido.
+(AgInt no HC 323.418/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2016, DJe 21/6/2016, grifei.)
+Desse modo, não vislumbro o alegado constrangimento ilegal.
+Ante o exposto, conheço do agravo para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento nos termos acima delineados.
+De fato, a defesa, nas razões do apelo nobre, deixou de traçar argumentos contra as alegações do Tribunal, limitando-se a afirmar, genericamente, que o agravante "assumiu a traficância, autorizou a entrada dos policiais em sua residência, indicou onde estava tanto a arma de fogo como os entorpecentes e que, por esse motivo, faria jus à causa de diminuição pleiteada" (e-STJ fl. 530).
+É dizer, a defesa não atacou especificamente o fundamento utilizado pelas instâncias ordinárias relativo à "delação premiada", situação em que o acusado delata eventuais comparsas ou fornecedores da droga que comercializava" (e-STJ fl. 510) .
+Inclusive, neste agravo regimental, a defesa, novamente, olvida-se de infirmar, de forma mais específica, cada um desses fundamentos que sustentam, per se, a manutenção da não incidência da mencionada causa de diminuição, limitando-se a afirmar, genericamente, que o réu confessou e indicou onde estavam os entorpecentes e a arma de fogo.
+Por fim, quanto ao regime, consoante entendimento jurisprudencial, afirmei que, embora a pena imposta ao recorrente seja inferior a 4 anos de reclusão, sua reincidência, somada à análise desfavorável da circunstância judicial relativa aos antecedentes, justifica o regime inicial fechado.
+Desse modo, não vislumbrei o alegado constrangimento ilegal.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
