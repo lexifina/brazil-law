@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. TRATAMENTO REALIZADO FORA DO PAÍS. CONTRATO DE ABRANGÊNCIA NACIONAL. TRATAMENTO NÃO REGISTRADO PELA ANVISA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de indenização por danos materiais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por T K C, contra decisão que não conheceu do recurso especial.
+Ação: de indenização por danos materiais ajuizada pelo recorrente em face de CARE PLUS MEDICINA ASSISTENCIAL S/S LTDA visando a cobertura de radioterapia adjuvante com Proton Beam Therapy em hospital localizado no exterior.
+Sentença: julgou improcedente a demanda.
+Acórdão: deu parcial provimento à apelação do recorrente, nos termos da seguinte ementa:
+PLANO DE SAÚDE. Negativa de cobertura ao autor do tratamento de radioterapia de prótons, complementar à cirurgia realizada para retirada de tumor cerebral, realizado no exterior. Tratamento não reconhecido pela ANVISA. Contrato que prevê cobertura nacional. Acolhimento da fundamentação da sentença. Art. 252, RITJSP. Honorários advocatícios excessivos. Redução. Sentença parcialmente reformada. Recurso parcialmente provido.
+Embargos de Declaração: opostos por ambas as partes, foram rejeitados. Segundos embargos opostos pela recorrida, após juízo de retratação provocado pelo julgamento do tema 1076, foram acolhidos, nos termos da seguinte ementa:
+Embargos de declaração. Acórdão proferido em juízo de retratação. Honorários fixados de acordo com o decidido pelo C. STJ, em julgamento do Tema 1076, em 10% sobre o valor da causa. Embargante que aponta erro material e omissão no aresto. Acolhimento. Acórdão que constou de forma equivocada que houve provimento ao recurso, sendo que, na verdade, a apelação foi improvida. Omissão quanto à não majoração dos honorários recursais reconhecida. Artigo 85, §11, do CPC. De rigor a majoração dos honorários, que ficam fixados em 11% sobre o valor atualizado da causa. Embargos acolhidos, com efeitos modificativos.
+O primeiro recurso especial interposto por T K C apontou, dentre outras matérias, a ocorrência de omissão acerca da existência de cláusula contratual explícita que autorizaria a cobertura de tratamento realizado fora do país. O recurso foi provido para reconhecer a omissão apontada e determinar novo julgamento dos embargos de declaração.
+Em seguida, em novo julgamento dos embargos opostos pelo recorrente, a Corte de origem assim se manifestou:
+Embargos de declaração. Plano de Saúde. Negativa de reembolso de despesas médicas decorrentes de tratamento realizado no exterior. Terapia não reconhecida pela ANVISA. Recurso parcialmente provido tão somente para redução dos honorários advocatícios. Determinação do Superior Tribunal de Justiça de novo julgamento dos embargos de declaração opostos pela parte autora. Existência de cláusula contratual permitindo o reembolso de despesas médicas ocorridas no exterior que, por si só, não tem o condão de permitir ao beneficiário que escolha tratamento fora do Brasil. Situação vivenciada pelo autor que não autoriza o reembolso, pois não se trata de intercorrência médica surgida em viagem internacional. Embargos acolhidos para sanar a omissão invocada, sem efeitos modificativos.
+Contra este acórdão foi interposto novo recurso especial, no qual se alega violação dos arts. 35-F, 10, caput, e 12, "d", da Lei nº 9.656/98, 6º, 14, 31, 39, 46, 47, 51 e 54 do CDC, e artigos 422 e 424 do CC , bem como dissídio jurisprudencial.
+Sustenta a recusa de cobertura do tratamento de radioterapia adjuvante com Pronton Beam Therapy é abusiva, considerando tratar-se de tratamento para doença coberta.
+Aduz a previsão contratual de reembolso de despesas realizadas no exterior, independentemente da forma como se deu o diagnóstico, tendo em vista que não há tal limitação na cláusula.
+Defende, assim, que ainda que o tratamento não constasse do rol da ANS à época em que foi prescrito, considerando a natureza exemplificativa do rol e o fato de se tratar de único método hábil para o tratamento da doença do menor, e ainda, a necessidade da interpretação do contrato em atenção aos princípios da boa-fé objetiva e da proteção ao consumidor, é ilegal a recusa de cobertura do tratamento.
+Decisão unipessoal: não conheceu do recurso especial ante a incidência da Súmula 283/STF.
+Agravo interno: o agravante sustenta a inaplicabilidade da Súmula 283/STF, pois além de ter demonstrado as violações legais perpetradas pelo acórdão recorrido, apontou que "a discussão não se refere à cobertura do plano de saúde em território internacional, mas sim à existência da cláusula de reembolso para despesas havidas no exterior" e que "o fundamento para a negativa do tratamento com protonterapia, perpetrado pela operadora, sempre foi a ausência do rol da ANS e não a ausência de registro" (fl. 1301, e-STJ), fundamento este relevante, dado que logo após o início do tratamento da radioterapia, a ANVISA teria aprovado o tratamento no Brasil. Assim, era imprescindível a análise a respeito da possibilidade da cobertura excepcional do tratamento, mesmo não previsto no rol da ANS.
+Defende a existência de cláusula contratual que autoriza cobertura de tratamento eventualmente realizado no exterior, sem qualquer exigência a respeito da natureza do tratamento ser de urgência ou emergência e, ainda, a possibilidade de cobertura de tratamento não previsto no rol da ANS, nos termos do art. 10, §13, da Lei 9656/98, que instituiu requisitos para cobertura excepcional de tratamentos fora do rol.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. TRATAMENTO REALIZADO FORA DO PAÍS. CONTRATO DE ABRANGÊNCIA NACIONAL. TRATAMENTO NÃO REGISTRADO PELA ANVISA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de indenização por danos materiais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, embora a parte agravante reitere nas razões do presente agravo interno, a defesa a respeito da possibilidade da cobertura do tratamento prescrito com base em cláusula contratual que autoriza o reembolso, e considerando a possibilidade de cobertura de tratamento fora do rol da ANS, em situação excepcional, a Corte de origem decidiu a questão sob dois prismas:
+a) a existência de cláusula que estipula a forma de reembolso de despesa havida no exterior não autoriza a escolha de qualquer tratamento realizado no exterior, mormente se não praticado no país e sem autorização da ANVISA, considerando tratar-se de plano de saúde de abrangência nacional; e
+b) o tratamento de PROTON BEAM THERAPY não era reconhecido pela ANVISA, o que traduz caráter experimental do procedimento, sem a comprovação de segurança e eficácia e, nos termos do tema 990/STJ, não obriga as operadoras à sua cobertura.
+Nas razões de seu recurso especial, a parte ora agravante defende a obrigatoriedade de cobertura do tratamento, considerando a taxatividade mitigada do rol da ANS e o cumprimento dos requisitos para a cobertura excepcional de tratamento não previsto no referido rol, mormente em se tratando de último recurso médico disponível, além de apontar a possibilidade contratual de reembolso de despesa havida no exterior.
+Não se demonstrou, portanto, a invalidade do fundamento a respeito de eventual previsão de reembolso de despesa médica realizada no exterior não autorizava a escolha de qualquer tratamento no exterior, além de deixar incólume a fundamentação da impossibilidade de cobertura de tratamento que não atendia aos requisitos de segurança e eficácia ante a sua não aprovação prévia pela ANVISA.
+Permanece, portanto, a incidência da Súmula 283/STF.
+É importante ressaltar que a aplicação da Súmula 283/STF está condicionada ao conteúdo tanto do acórdão recorrido quanto da impugnação apresentada pela parte agravante. Ademais, não é cabível recurso especial quando a questão discutida no acórdão não foi devidamente confrontada.
+Portanto, se a parte agravante não contestou o fundamento adotado pelo Tribunal, fica impedida de interpor recurso especial, uma vez que não preenche os requisitos estabelecidos pelo artigo 105, III, "a" da Constituição Federal, o que resulta na aplicação e manutenção da Súmula 283/STF.
+Nesse sentido: AgInt nos EDcl no AREsp 2.379.396/SP, 4ª Turma, DJe de 18/4/2024; e, AgInt nos EDcl no AREsp 2.438.568/SP, 3ª Turma, DJe de 11/4/2024.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
