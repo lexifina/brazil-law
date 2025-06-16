@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, recurso especial interposto por AMÁLIA FIGUEIREDO SENISE e OUTROS contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO Desapropriação Polo passivo Decisão que deferiu a habilitação dos herdeiros e substituição processual Pretensão de reforma para figurar no polo passivo o espólio e não os herdeiros Possibilidade Inexistência de individualização das cotas partes pertencentes a cada um dos herdeiros Espólio que é parte legítima para figurar no polo passivo da demanda até a atribuição dos quinhões Provimento do recurso (fl. 234).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 287-291.
+Os recorrentes sustentam ofensa aos arts. 688, II, do CPC e 16 do Decreto-lei 3.365/1941. Para tanto, alegam que:
+a) "o artigo 16 manda citar o cônjuge e o herdeiro, já admitindo a legitimidade processual dos mesmos, não havendo nesse caso sequer cogitar-se em habilitação" (fl. 244);
+b) "se algum deles vier a falecer no curso do processo, que não é o caso  ..  aí sim ocorre a habilitação prevista ao artigo 21, mas nem mesmo nessa hipótese o processo se interrompe como pretende a parte contrária" (fl. 244);
+c) "A questão de como os herdeiros e sucessores, todos maiores e capazes, e representados por um mesmo advogado, irão dividir entre si é posterior e meramente subjetiva, e não interessa ao processo, o que importa é que seja feito o pagamento, a justa reparação pela perda do direito de propriedade, direito este que foi transmitido com a morte" (fl. 245).
+O MUNICÍPIO DE SÃO PAULO apresentou contrarrazões ao recurso especial (fls. 294-301).
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 302-303), decisão impugnada pelo agravo de fls. 305-309.
+O MINISTÉRIO PÚBLICO FEDERAL apresentou parecer sintetizado na seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO. AGRAVO EM RECURSO ESPECIAL. HERDEIROS. LEGITIMIDADE PASSIVA CONFIGURADA. ARTIGO 16 DO DECRETO-LEI 3.365/41. PROVIMENTO. 1 - Os herdeiros, não havendo inventariante, devem ser citados na ação de desapropriação, nos termos do artigo 16 do Decreto-Lei 3.365/41, independente de inventário, pois, diferente do que entendeu o Tribunal "a quo", não importa como será dividido o valor da indenização, mas sim que seja realizada a justa reparação pela perda da propriedade, direito este que foi transmitido com a morte de seu titular. 2 - Parecer pelo provimento do agravo para que seja provido o recurso especial (fl. 366).
+Na decisão de fls. 370-371, o agravo foi provido, para determinar sua autuação como recurso especial.
+É o relatório. Decido.
+A pretensão merece acolhida.
+Na origem, o MUNICÍPIO DE SÃO PAULO interpôs agravo de instrumento contra decisão que, nos autos de ação de desapropriação, "deferiu a habilitação pleiteada por herdeiros de titulares de domínio do imóvel expropriado, a fim de incluí-los no polo passivo da ação expropriatória" (fl. 4).
+O Tribunal de origem deu provimento ao agravo de instrumento, em acórdão assim fundamentado:
+Os herdeiros dos proprietários já falecidos requereram a habilitação nos autos da ação de Desapropriação, o que lhes foi deferido.
+Mas tem razão o Município ao afirmar a necessidade de que o polo passivo seja composto pelos respectivos inventariantes.
+Isto porque, no presente caso verifica-se, em primeiro lugar, a existência de pelo menos um bem a ser partilhado e, em segundo lugar, não há a individualização da quota pertencente a cada herdeiro.
+Note-se que, dentre os herdeiros réus que requereram habilitação, alguns fazem jus somente à cota parte referente à meação da parte ideal do imóvel, deixada pelo cônjuge do co-proprietário falecido, enquanto outros são herdeiros netos e herdeiros filhos, concomitantemente.
+Somente através do competente inventário será possível a individualização das cotas partes pertencentes a cada um deles, sem a qual não é possível ao Município proceder a correta indenização aos réus (fls. 235-236).
+Porém, os arts. 16 e 42 do Decreto-lei 3.365/1941, assim determinam:
+Art. 16. A citação far-se-á por mandado na pessoa do proprietário dos bens; a do marido dispensa a dá mulher; a de um sócio, ou administrador, a dos demais, quando o bem pertencer a sociedade; a do administrador da coisa no caso de condomínio, exceto o de edificio de apartamento constituindo cada um propriedade autonôma, a dos demais condôminos e a do inventariante, e, se não houver, a do cônjuge, herdeiro, ou legatário, detentor da herança, a dos demais interessados, quando o bem pertencer a espólio.
+ ..
+Art. 42. No que esta lei for omissa aplica-se o Código de Processo Civil.
+Assim, "o Código de Processo Civil somente incidirá no que for omissa a Lei das Desapropriações. Portanto, havendo previsão expressa quanto à matéria, não se aplica a norma geral" (REsp n. 1.404.085/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/8/2014, DJe de 18/8/2014). Nesse sentido:
+ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. PROCESSUAL CIVIL. CITAÇÃO. CÔNJUGE DO PROPRIETÁRIO EXPROPRIADO. CONFLITO DE NORMAS. ESPECIALIDADE DO ART. 16 DO DECRETO-LEI 3.365/1941 ANTE O ART. 10, § 1º, I, DO CPC/1973. NULIDADE. OMISSÃO. INEXISTÊNCIA.
+1. Não há vício de omissão quando o aresto recorrido, apesar de não mencionar expressamente os normativos indicados pela parte, confere solução fundamentada à controvérsia a partir da legislação que entende aplicável.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, o art. 16 do Decreto-Lei 3.365/1941 é especial em relação ao art. 10, § 1º, I, inexistindo nulidade na citação feita sem a participação do cônjuge do proprietário expropriado.
+3. Recurso especial a que se dá provimento para afastar a nulidade processual reconhecida pela instância ordinária e determinar que a Corte de origem prossiga com o julgamento da remessa necessária e apelação do recorrente como entender de direito (REsp n. 1.409.439/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/8/2018, DJe de 27/8/2018).
+Desta forma,
+Os arts. 16 e 17 da Lei de Desapropriac a o estabelecem normas especi"ficas para a citac a o, que devera" ser feita por mandado na pessoa do proprieta"rio dos bens; a do marido dispensa a da mulher, qualquer que seja a natureza dos bens; a de so"cio, ou administrador, a dos demais, quando o bem pertencer a" sociedade; a do administrador da coisa, no caso de condomi"nio, exceto o de edifi"cio de apartamento constituindo cada um propriedade auto noma, a dos demais condo minos e a do inventariante, a dos demais interessados, quando o bem pertencer a espo"lio; em na o havendo inventariante nomeado, basta a citac a o do co njuge, herdeiro, legata"rio ou detentor da heranc a (HARADA, Kiyoshi. Desapropriação - 11ª Edição 2015. Rio de Janeiro: Atlas, 2015. E-book. p.135. ISBN 9788522499663. Disponível em: https://stj.minhabiblioteca.com.br/reader/books/9788522499663/. Acesso em: 11 jun. 2025).
+No mesmo sentido é o parecer do MINISTÉRIO PÚBLICO FEDERAL, que assim opinou:
+ ..  os herdeiros, não havendo inventariante, devem ser citados na ação de desapropriação, nos termos do artigo 16 do Decreto-Lei 3.365/41, independente de inventário, pois, diferente do que entendeu o Tribunal "a quo", não importa como será dividido o valor da indenização, mas sim que seja realizada a justa reparação pela perda da propriedade, direito este que foi transmitido com a morte de seu titular (fl. 368).
+Isso posto, com fundamento no art. 255, § 4º, III, dou provimento ao recurso especial para, reformando o acórdão recorrido, restabelecer a decisão que deferiu a habilitação dos recorrentes na ação de desapropriação (fl. 216).
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
