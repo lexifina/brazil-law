@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO ONCOLÓGICO. FORNECIMENTO DE MEDICAMENTO T-DM1 (TRASTUZUMABE ENTANSINA). INDICAÇÃO MÉDICA. USO OFF-LABEL. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. NÃO CONHECIMENTO DO RECURSO.
+I. CASO EM EXAME
+1. Recurso especial interposto por operadora de plano de saúde contra acórdão que negou provimento ao seu recurso de apelação, mantendo a condenação ao custeio do medicamento T-DM1 (Trastuzumabe Entansina), indicado para tratamento de câncer de mama metastático, bem como ao pagamento de indenização por danos morais. Sustenta a recorrente ausência de cobertura contratual, por se tratar de medicamento off-label e não previsto no rol da ANS.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é abusiva a recusa da operadora de plano de saúde em custear medicamento oncológico prescrito pelo médico assistente, sob o argumento de ausência de previsão contratual e uso off-label; (ii) estabelecer se a análise da obrigação de custeio demandaria reexame de cláusulas contratuais e provas do caso concreto, atraindo a incidência das Súmulas 5 e 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido afirma que o julgamento antecipado da lide foi legítimo, por tratar-se de matéria eminentemente de direito, sem necessidade de dilação probatória, nos termos dos arts. 355, 370 e 371 do CPC/2015.
+4. A cobertura contratual não pode excluir tratamento essencial à vida do paciente quando há expressa recomendação médica, ainda que o medicamento não conste do rol da ANS ou tenha uso off-label. Precedentes.
+5. A Corte local reconhece a ocorrência de danos morais pela indevida negativa de cobertura, em razão da gravidade da doença e da omissão da operadora em situação de especial vulnerabilidade da paciente.
+6. A pretensão recursal exige reexame de cláusulas contratuais e elementos fático-probatórios, o que é vedado nas instâncias excepcionais, conforme Súmulas 5 e 7 do STJ.
+7. O acórdão recorrido encontra-se em consonância com a jurisprudência pacífica do STJ, o que atrai também a incidência da Súmula 83/STJ.
+IV. DISPOSITIVO
+8. Recurso não conhecido.
+RELATÓRIO
+Trata-se de Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MATERIAIS. Sentença de parcial procedência para condenar a ré a custear o tratamento oncológico necessitado pela autora, com uso do medicamento T-DM1 (Trastuzumabe Entansina), bem como a pagar indenização por danos morais no importe de R$ 3.000,00. Apela a autora pleiteando a majoração do valor arbitrado aos danos morais para R$ 10.000,00. Apela a ré alegando cerceamento de defesa por ausência de prova pericial; medicamento pleiteado possui caráter experimental e uso off-label; inexiste obrigatoriedade de fornecimento de tratamento não previsto no rol da ANS; seria imperioso o parecer NAT-Jus; inocorrência de dano moral; Cabimento do recurso da autora e Descabimento do da ré. Preliminar. Cerceamento de defesa. Insubsistência. Aplicável a Teoria da Causa Madura. Negativa de cobertura. Interpretação contratual mais benéfica ao consumidor hipossuficiente. Possíveis limitações impostas no contrato devem ser ponderadas com a aplicação do CDC. A ré se comprometeu contratualmente a prestar serviços que visavam preservar a saúde da autora, logo, qualquer tentativa de excluir o tratamento e o medicamento indicados mostra-se abusiva. A recusa ao fornecimento do medicamento prescrito pode ser entendida, em última análise, como a negativa à cobertura ao próprio tratamento. Inteligência do art. 51, IV, XV, e § 1º, II, da Lei nº 8078/90 e Súmulas 95 (por extensão) e 102 desta Corte. Danos morais. A conduta da ré excedeu o mero aborrecimento. Hipótese de descumprimento contratual em situação na qual a vítima se encontra especialmente fragilizada. Abalo psicológico ampliado. Danos morais majorados para R$ 10.000,00. Recurso da autora provido e improvido o da ré.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO ONCOLÓGICO. FORNECIMENTO DE MEDICAMENTO T-DM1 (TRASTUZUMABE ENTANSINA). INDICAÇÃO MÉDICA. USO OFF-LABEL. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. NÃO CONHECIMENTO DO RECURSO.
+I. CASO EM EXAME
+1. Recurso especial interposto por operadora de plano de saúde contra acórdão que negou provimento ao seu recurso de apelação, mantendo a condenação ao custeio do medicamento T-DM1 (Trastuzumabe Entansina), indicado para tratamento de câncer de mama metastático, bem como ao pagamento de indenização por danos morais. Sustenta a recorrente ausência de cobertura contratual, por se tratar de medicamento off-label e não previsto no rol da ANS.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é abusiva a recusa da operadora de plano de saúde em custear medicamento oncológico prescrito pelo médico assistente, sob o argumento de ausência de previsão contratual e uso off-label; (ii) estabelecer se a análise da obrigação de custeio demandaria reexame de cláusulas contratuais e provas do caso concreto, atraindo a incidência das Súmulas 5 e 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido afirma que o julgamento antecipado da lide foi legítimo, por tratar-se de matéria eminentemente de direito, sem necessidade de dilação probatória, nos termos dos arts. 355, 370 e 371 do CPC/2015.
+4. A cobertura contratual não pode excluir tratamento essencial à vida do paciente quando há expressa recomendação médica, ainda que o medicamento não conste do rol da ANS ou tenha uso off-label. Precedentes.
+5. A Corte local reconhece a ocorrência de danos morais pela indevida negativa de cobertura, em razão da gravidade da doença e da omissão da operadora em situação de especial vulnerabilidade da paciente.
+6. A pretensão recursal exige reexame de cláusulas contratuais e elementos fático-probatórios, o que é vedado nas instâncias excepcionais, conforme Súmulas 5 e 7 do STJ.
+7. O acórdão recorrido encontra-se em consonância com a jurisprudência pacífica do STJ, o que atrai também a incidência da Súmula 83/STJ.
+IV. DISPOSITIVO
+8. Recurso não conhecido.
+VOTO
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, a e c, da Constituição Federal).
+Entretanto, o recurso não merece ser conhecido.
+O acórdão recorrido decidiu a controvérsia com análise das provas e interpretação contratual adequadas ao caso concreto. Cito trechos relevantes da referida decisão:
+"Inexiste o alvitrado cerceamento por ausência de fase instrutória, porquanto a temática declinada na inicial prescinde de produção de provas, além dos documentos que foram acostados aos autos, mormente pela natureza eminentemente de direito da tese suscitada.
+O instituto jurídico do julgamento antecipado da lide encontra esteio no art. 355 do CPC/2015, sendo aplicável às hipóteses de revelia e naquelas em que a questão de mérito seja unicamente de direito ou, sendo de direito e de fato, não haja necessidade de se produzir provas em audiência, que é o caso dos autos.
+Neste caso, o julgamento antecipado da lide, ao contrário de caracterizar cerceamento, homenageia o princípio da economia processual, permitindo rápida prestação da tutela jurisdicional às partes e à comunidade.
+Ao juiz, como destinatário das provas, cabe a decisão sobre a conveniência e necessidade de sua realização. Havendo provas suficientes para formar o convencimento, deve o julgamento ser proferido, aplicando-se a Teoria da Causa Madura.
+Incidentes à hipótese os preceitos estampados nos art. 370 e 371 do CPC/2015. Nesse sentido, precedente do STJ, sob a égide do previgente CPC:
+(..)
+A lide versa sobre a obrigação da operadora de plano de saúde de fornecer o tratamento medicamentoso com T-DM1 (Trastuzumabe Entansina) para tratamento de carcinoma de mama, em estágio metastático. Houve recusa da operadora de saúde, sob o fundamento de o tratamento estar excluído da cobertura contratualmente pactuada, tratando-se de uso experimental, off label.
+O fato de o medicamento prescrito não estar previsto no contrato, por si só, não é suficiente para afastar a obrigação da recorrida de custeá-lo, tendo em vista a expressa indicação médica.
+A escolha do procedimento não foi feita pela autora, mas sim pelo médico que a assiste, donde se presume que o tratamento era necessário.
+Cumpre assim mitigar o princípio do pacta sunt servanda, uma vez que a proteção do consumidor não se trata de direito previsto apenas no âmbito legal (Lei nº 8.078/90), mas também da ordem constitucional em nível de garantia fundamental, estampada no rol das cláusulas pétreas (art. 5º, inc. XXII, da CF).
+Aliás, a interpretação mais favorável ao aderente hipossuficiente objetiva preservar o equilíbrio das partes e assim resguardar o princípio da isonomia entre os contratantes.
+Salienta-se, a limitação ao necessário tratamento é uma medida ilegal, porque contraria a própria natureza do contrato do plano de saúde, que possui a finalidade de garantir a saúde em sua integralidade, não apenas parte dela. Presente a violação ao art. 51, IV, XV, e § 1º, II, da Lei nº 8078/901 (CDC).
+Confiram-se precedentes desta Corte e do STJ:
+(..)
+Aplicável, por extensão, a Súmula 95 desta Corte: "Havendo expressa indicação médica, não prevalece a negativa de cobertura do custeio ou fornecimento de medicamentos associados a tratamento quimioterápico". Incidente no caso também a Súmula 102, segundo a qual "havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+Dos danos morais
+Em que pese as ponderações da operadora de saúde, acerca da legitimidade da recusa, tal restrição não deve prosperar, se mostrando flagrantemente abusiva, nos termos do art. 51, IV, CDC, diante da possibilidade de inviabilizar o tratamento de doença abarcada pela cobertura contratual.
+Conforme dito alhures, compete ao profissional qualificado a indicação do tratamento e exames mais adequados ao paciente, e não à operadora de saúde.
+A recusa injustificável à obrigação de natureza médica impõe a condenação por danos morais, tendo em vista que não se trata de simples aborrecimento corriqueiro, mas de descumprimento contratual em situação na qual a vítima se encontra especialmente fragilizada, mormente, quando configurada, como na espécie, circunstância de manifesta gravidade.
+O abalo psicológico decorre da própria condição aflitiva vivenciada pela vítima e indevidamente majorada pela omissão ilícita da operadora.
+Deixou a recorrente de cumprir o contrato, desrespeitando direito do consumidor, notadamente, ao não oferecer a opção de atendimento que poderia ser a mais benéfica para a condição do autor. Nesse sentido, orientação do STJ:
+(..)
+Em relação à quantificação, sabe-se que no direito pátrio não se aplica com exclusividade a Teoria do Desestímulo, como estabelecido no sistema norte-americano, mas sim o sistema misto, entre o desestímulo e a compensação, objetivando-se a imposição de uma sanção ao causador do evento danoso, de sorte que não fique impune pela vulneração causada a interesses extrapatrimoniais de outrem e, ao mesmo tempo, uma compensação ao lesado com o intuito de suavizar a ofensa sofrida.
+O valor da indenização como sabido, deve ser fixado com equidade e moderação, não podendo ser tão baixo a ponto de fazer com que o ofensor deixe de perceber a reação do ordenamento jurídico à lesão praticada, nem tão elevado a ponto de servir como fonte de enriquecimento sem causa por parte do lesado.
+Diante das circunstâncias específicas, almejando-se atender ao escopo satisfatório e punitivo da reparação por dano moral, afigura-se adequado majorar o valor arbitrado em sentença de R$ 3.000,00 para R$ 10.000,00.
+Ante o exposto, dá-se provimento ao recurso da autora e nega- se provimento ao recurso da ré.
+Majoração da verba honorária a 15% sobre o valor da condenação, nos termos do § 11 do art. 85 do CPC/2015, observada eventual gratuidade de justiça."
+A pretensão do recurso especial da operadora do plano de saúde é de ver afastada a sua responsabilidade de custear o medicamento indicado pelo médico assistente (T-DM1-Trastuzumabe Entansina para tratamento oncológico).
+Ocorre que, neste ponto, a Corte Estadual, competente para análise do material probatório dos autos, bem como das cláusulas contratuais do plano de saúde, após a devida instrução processual, entendeu que o medicamento indicado à paciente é de cobertura obrigatória (fls. 368/377).
+Com efeito, a reforma do Acórdão implicaria em reanálise do conjunto fático-probatório, principalmente as cláusulas do contrato de plano de saúde, tendo em vista que haveria necessidade de verificação das circunstâncias do caso concreto para reconhecimento das garantias de tratamentos aos quais a recorrida teria direito, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+Além disso, a postura do Tribunal de origem amolda-se às orientações jurisprudenciais desta Corte sobre a obrigatoriedade do custeio do medicamento T-DM1-Trastuzumabe Entansina, de acordo com as quais "é abusiva a recusa de cobertura de medicamentos antineoplásicos prescritos, independente de previsão no rol da ANS e mesmo que em uso off-label, imprescindíveis à saúde do beneficiário" (AgInt no AREsp n. 2.747.620/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+.No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO ONCOLÓGICO. ABUSIVIDADE. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1.O fato de não ser aplicável o CDC aos contratos de plano de saúde sob a modalidade de autogestão não atinge o princípio da força obrigatória do contrato, sendo necessária a observância das regras do CC/2002 em matéria contratual, notadamente acerca da boa-fé objetiva e dos desdobramentos dela decorrentes (AgInt no REsp n. 1.747.519/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/5/2020, DJe de 18/5/2020).
+2. "Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica" (AgInt no REsp n. 1.765.668/DF, Terceira Turma, julgado em 29/4/2019, DJe de 6/5/2019).
+3. No âmbito do REsp n. 1.733.013/PR, a Quarta Turma firmou o entendimento (posteriormente ratificado pela Segunda Seção no julgamento dos EREsp n. 1886929 e EREsp n. 1889704) de que o rol de procedimento da ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+4. É abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off-label), porquanto não compete à operadora a definição do diagnóstico ou do tratamento para a moléstia coberta pelo plano contratado.
+Agravo interno improvido.
+(AgInt no REsp n. 2.131.303/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+Acrescento, ainda, que "as operadoras de planos de saúde podem limitar as doenças a serem cobertas pelo contrato, mas não podem limitar os tipos de procedimentos a serem prescritos para o tratamento da enfermidade" (AgInt no REsp n. 2.140.939/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Manifesto meu voto, portanto, pelo não conhecimento do presente recurso especial.
+Majoro o percentual de honorários sucumbenciais em 2% (dois por cento), nos termos do art. 85, § 11, do CPC.
+É como voto.
