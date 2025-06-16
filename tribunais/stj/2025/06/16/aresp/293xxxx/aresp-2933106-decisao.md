@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por MARLOS LISBOA DA SILVA e TICIANO RODRIGUES BORGES contra decisão proferida pelo Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu o recurso especial manejado com apoio no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação dos artigos 158, caput, e §§1º e 3º, do Código Penal e do artigo 386, III, do Código de Processo Penal.
+Alega que o acórdão recorrido não apontou todas as elementares para tipificar o crime de extorsão com restrição de liberdade em relação à vítima Pedro Henrique, sendo necessária apenas a revaloração jurídica dos elementos citados na moldura fática do acórdão, o que não é obstaculizado pelo enunciado sumular n. 7 do Superior Tribunal de Justiça.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, a fim de absolver os recorrentes do delito de extorsão com restrição de liberdade contra o ofendido Pedro Henrique Gomes da Silva.
+Contrarrazões às fls. 741-743 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 749-751). Daí este agravo (e-STJ, fls. 766-783).
+A Presidência desta Corte não conheceu do agravo em recurso especial (e-STJ, fls. 815-816), mas, após a interposição de agravo regimental, reconsiderou a decisão, tornando sem efeito a decisão agravada (e-STJ, fl. 848).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 862-868).
+É o relatório.
+Decido.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls. 688-692):
+"Conforme relatado, ambos os apelantes requerem que a condenação seja limitada a apenas um crime de extorsão, somente contra a vítima Yorrane. Aduzem não ter se configurado o delito em desfavor de Pedro Henrique, pois somente a primeira conhecia a senha do cofre visado pelos apelantes. Ticiano ainda requer a absolvição/desclassificação dos delitos de receptação e adulteração de sinal por ausência de dolo.
+As irresignações não prosperam.
+A materialidade delitiva está demonstrada pelas seguintes provas: i) auto de prisão em flagrante (ID "s 65411276 e 65411277); ii) auto de apresentação e apreensão (ID 65411296); iii) foto de lesão corporal da vítima Pedro Henrique logo após a consumação do crime (ID 65411302); iv) ocorrências policiais (ID 65411305 e 65411304); v) termo de restituição (ID 65411532); vi) exame de corpo de delito realizado sobre a vítima Pedro Henrique (ID 65411452); vii); exame de eficiência de arma de fogo e munições (ID 65411457); viii) laudos periciais de exame de veículo (ID"s 65411531 e 65411533); e ix) relatório final da autoridade policial (ID 65411307); todas corroboradas pelas provas orais colhidas em Juízo.
+A despeito de as defesas alegarem ausência de consumação da extorsão contra a vítima Pedro Henrique, razão não lhes assiste.
+Em depoimento judicial (ID "s 65411504 e 65411498), as vítimas descreveram a dinâmica delitiva. O ofendido Pedro Henrique narrou ser noivo da vítima Yorrane na época dos fatos e ambos foram coagidos mediante ameaças exercidas com armas de fogo a entrar em veículo conduzido pelos apelantes. Relatou ter um dos acusados esclarecido não ser um assalto, mas o ofendido levou duas coronhadas na cabeça, que provocaram lesões corporais. Os assaltantes conheciam a rotina das vítimas e queriam subtrair o dinheiro de uma loja na qual a ofendida trabalhava. A vítima Yorrane acrescentou terem os acusados exigido a senha do cofre da loja na qual ela trabalhava. Os acusados ameaçaram levar as vítimas para um cativeiro na hipótese de não fornecimento da senha correta, mas ela conseguiu avisar a um familiar, tendo a polícia interceptado os acusados em seguida.
+Confiram-se depoimentos reproduzidos em sentença (ID 65411514, págs. 5/6):
+ ..
+O tipo penal previsto no artigo 158, §3º, do CP, define o crime de extorsão qualificada pela restrição de liberdade nos seguintes termos:
+Art. 158 - Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa:
+Pena - reclusão, de quatro a dez anos, e multa.
+§ 1º - Se o crime é cometido por duas ou mais pessoas, ou com emprego de arma, aumenta-se a pena de um terço até metade.
+§ 2º - Aplica-se à extorsão praticada mediante violência o disposto no § 3º do artigo anterior. Vide Lei nº 8.072, de 25.7.90
+§ 3º - Se o crime é cometido mediante a restrição da liberdade da vítima, e essa condição é necessária para a obtenção da vantagem econômica, a pena é de reclusão, de 6 (seis) a 12 (doze) anos, além da multa; se resulta lesão corporal grave ou morte, aplicam-se as penas previstas no art. 159, §§ 2º e 3º, respectivamente.
+Colhe-se dos autos que o ofendido Pedro Henrique era noivo da vítima Yorrane na época dos fatos, e teve sua liberdade restringida por coação exercida mediante arma de fogo, inclusive recebendo coronhadas que lhe causaram lesão corporal. Apesar de os acusados terem exigido da ofendida Yorrane a senha do cofre da empresa na qual ela trabalhava, também restou caracterizada a coação contra o ofendido Pedro Henrique, e o objetivo do constrangimento foi garantir a vantagem econômica a ser obtida por intermédio da vítima Yorrane. Na qualidade de noivo da vítima, era evidente o potencial do ofendido de frustrar a empreitada criminosa, seja no posterior reconhecimento facial dos assaltantes, ou mesmo em contato com eventual testemunha. Tanto é que o ofendido levou duas coronhadas de um dos acusados ao tentar contato visual com uma vizinha (conforme depoimento judicial do ofendido, acima transcrito). Assim, restou caracterizado o constrangimento mediante violência e grave ameaça contra as duas vítimas, assim como o dolo de garantir proveito econômico em ambas as condutas, não havendo falar em crime único. Mantenho, portanto, as condenações pelo crime do art. 158, caput, c/c seus §§1º e 3º, do Código Penal, por duas vezes."
+Como se vê, a condenação pelo segundo crime de extorsão, contra a vítima Pedro Henrique, encontra-se amparada tanto em provas colhidas na fase inquisitorial quanto em juízo. Segundo a instância ordinária, Pedro Henrique foi coagido com arma de fogo, teve sua liberdade restringida e sofreu violência física (duas coronhadas na cabeça), o que restou comprovado por exame de corpo de delito e demais provas dos autos. Ainda que a senha exigida fosse conhecida apenas por Yorrane, a violência contra Pedro Henrique integrou a dinâmica do crime, contribuindo para a obtenção do proveito econômico pretendido (o acesso ao cofre). A conduta dos réus dirigiu-se à obtenção de vantagem econômica mediante constrangimento de ambas as vítimas.
+O tribunal destacou, ainda, que Pedro Henrique, na qualidade de noivo de Yorrane, poderia frustrar o plano criminoso, seja reconhecendo os assaltantes posteriormente, seja buscando ajuda. Tanto é que, ao tentar contato visual com uma vizinha, foi agredido por um dos assaltantes com uma coronhada - fato que demonstra que sua submissão era parte essencial da execução da extorsão.
+Desse modo, a alteração do julgado, a fim de absolver os recorrentes, como pretendido pela defesa, demandaria nova incursão no arcabouço probatório dos autos, o que não é possível nesta via especial, tendo em vista o óbice da Súmula 7/STJ.
+Corroboram:
+"DIREITO PENAL. AGRAVO REGIMENTAL. EXTORSÃO. PLEITO ABSOLUTÓRIO OU DESCLASSIFICATÓRIO. RELEVÂNCIA DA PALAVRA DA VÍTIMA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. OPINIÃO MINISTERAL NÃO VINCULATIVA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por extorsão, com base na relevância da palavra da vítima e na existência de provas suficientes.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve omissão no acórdão recorrido ao examinar as provas dos autos e se a palavra da vítima, corroborada por outras provas, é suficiente para a condenação em crimes patrimoniais.
+3. A questão subsidiária em discussão é a possibilidade de desclassificação da conduta criminosa, conforme parecer ministerial.
+III. Razões de decidir
+4. O Tribunal de origem enfrentou de forma fundamentada as questões suscitadas, não havendo omissão ou negativa de prestação jurisdicional.
+5. A palavra da vítima possui especial relevância em crimes patrimoniais, especialmente quando corroborada por outras provas, conforme jurisprudência consolidada.
+6. A revisão do entendimento das instâncias ordinárias para fins absolutório ou desclassificatório demandaria reexame de provas, o que é vedado em recurso especial, conforme Súmula n. 7 do STJ.
+7. A manifestação do Ministério Público é opinativa e não vinculativa, não havendo obrigatoriedade de acolhimento do parecer ministerial.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A palavra da vítima, corroborada por outras provas, é suficiente para a condenação em crimes patrimoniais. 2. A revisão de provas é vedada em recurso especial, conforme Súmula 7 do STJ. 3. A manifestação do Ministério Público não é vinculativa para o julgamento."
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 158.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1.990.569/GO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2024;
+STJ, AgRg no AREsp n. 2.465.687/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 4/6/2024; STJ, AgRg no AREsp 1.681.479/RN, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023."
+(AgRg no AREsp n. 2.598.492/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. EXTORSÃO QUALIFICADA. TESE DE QUE, PARA A INCIDÊNCIA DA QUALIFICADORA, DEVERIA TER SIDO PRODUZIDO EXAME DE CORPO DE DELITO OU APRESENTADOS PRONTUÁRIOS MÉDICOS APTOS A COMPROVAR A ACELERAÇÃO DO PARTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÕES DE QUE: NÃO ESTARIA PRESENTE ELEMENTO SUBJETIVO DO TIPO (PRETENSÃO DE OBTER VANTAGEM INDEVIDA); NÃO FOI COMPROVADO QUE, DA VIOLÊNCIA PRATICADA PELO RÉU, DECORREU LESÃO CORPORAL GRAVE À VÍTIMA (ACELERAÇÃO DO PARTO); É NECESSÁRIO DESCLASSIFICAR A CONDUTA PARA LESÃO CORPORAL LEVE. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese de afronta ao § 2.º do art. 158 do Estatuto Repressor não foi apreciada pelo Tribunal de origem, a despeito da oposição de embargos declaratórios, o que atrai a incidência da Súmula n. 211/STJ.
+2. O crime de extorsão se configura quando o agente constrange a vítima, por meio de violência ou grave ameaça, com o intuito de obter vantagem indevida, sendo o recebimento dessa pretensão mero exaurimento do delito (Súmula n. 96/STJ).
+3. O Tribunal de origem concluiu pela tipificação da conduta no § 2.º do art. 158 do Código Penal, pois as provas existentes nos autos são idôneas a lastrear a autoria e materialidade dos delitos imputados ao Acusado. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+4. A Corte a quo entendeu que, da violência praticada pelo Acusado, resultou lesão corporal grave à Vítima, qual seja, a aceleração do parto. Adoção de entendimento em sentido diverso não é possível de ser realizada nos termos da Súmula n. 7/STJ.
+5. Agravo regimental desprovido."
+(AgRg no REsp n. 1.907.765/AC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
