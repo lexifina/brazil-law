@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Azelino Carara, com fulcro no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 1.638):
+PREVIDENCIÁRIO. FILHO MAIOR INVÁLIDO. PENSÃO POR MORTE DO GENITOR. DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA. CASO EM QUE ESSA PRESUNÇÃO NÃO FOI ELIDIDA. MARCO INICIAL DO BENEFÍCIO. FIXAÇÃO NA DATA DO ÓBITO. EFEITOS FINANCEIROS A PARTIR DA CESSAÇÃO DA COTA DE SUA GENITORA. CONFIRMAÇÃO PARCIAL DA SENTENÇA.
+1. A dependência econômica de filho(a) inválido(a) em relação à sua genitora, ou ao seu genitor, é presumida, podendo ser posterior à data em que o beneficiário completou 21 anos, desde que seja anterior ao óbito do segurado(a) instituidor(a).
+2. Sendo relativa a presunção de dependência econômica do filho maior inválida em relação a seus pais e não tendo sido essa presunção elidida em relação ao genitor, mas somente em relação à genitora, confirma-se a sentença em parte que reconheceu o direito da autora à pensão por morte de seu pai, que era segurado da Previdência Social.
+3. A formalização tardia da inscrição de dependente absolutamente incapaz, ausentes outros dependentes previamente habilitados, não impede que o marco inicial do benefício seja assentado na data do óbito, não obstante os termos do inciso II do artigo 74 da Lei nº 8.213/91, instituído pela Lei nº 9.528/97, pois ele não pode ser prejudicado pela inércia de seu representante legal, até porque contra ele não corre prescrição, a teor do artigo 198, inciso I, do Código Civil c/c os artigos 79 e 103, parágrafo único da Lei nº 8213/91.
+4. Havendo beneficiários previamente habilitados na seara extrajudicial, os efeitos financeiros da concessão da pensão por morte surtirão somente a partir da entrada do requerimento administrativo, ou da cessação da cota-parte do dependente previdenciário já habilitado, o que ocorrer primeiro, mesmo sendo o novel habilitado absolutamente incapaz e independentemente de ele pertencer ou não ao mesmo grupo familiar dos dependentes habilitados anteriormente.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente aponta divergência jurisprudencial e violação ao art. 16, I, § 4º, da Lei 8.213/1991, sob o argumento de que o fato de receber, como filho maior inválido, pensão por morte, tendo como instituidor seu pai, não afasta o direito de perceber outro benefício de pensão por morte em decorrência do óbito de sua mãe.
+Contrarrazões não apresentadas (e-STJ, fl. 1.700).
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial foi afetada pela Primeira Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação proferida nos REsps 2.168.455/SP e 2.168.454/SP, de relatoria do Ministro Afrânio Vilela, Primeira Seção, julgado em 29/4/2025, DJEN de 7/5/2025, delimitou o Tema 1.341/STJ, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015, C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/9/2016.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC: "Definir se o filho maior inválido com renda auferida da concessão de benefício previdenciário pode receber o benefício de pensão por morte".
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016).
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.341/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. DISCUSSÃO ACERCA DA POSSIBILIDADE DO FILHO MAIOR INVÁLIDO, COM RENDA AUFERIDA DA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO, RECEBER PENSÃO POR MORTE. TEMA 1.341/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
