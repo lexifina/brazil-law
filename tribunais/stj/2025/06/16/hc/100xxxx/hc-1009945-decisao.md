@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de BRUNO CAMPOS DA SILVA -condenado como incurso no crime de furto majorado e qualificado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1501449-40.2025.8.26.0228), não comporta processamento.
+Com efeito, busca a impetração a revisão da sentença exarada pelo Juízo de Direito da 25ª Vara Criminal do Foro Central Criminal Barra Funda da comarca de São Paulo/SP, ao argumento de cabível a fração máxima em relação à tentativa, pois o iter criminis ficou muito distante da consumação (fl. 5). Ainda postula a fixação de regime inicial mais benéfico e a substituição da pena privativa de liberdade, por pena restritiva de direitos.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal de origem, ao analisar a apelação em seu amplo efeito, destacou que o acusado subtraiu os aparelhos, ocultou-os em sua mochila e escondeu-se no banheiro do estabelecimento, aguardando apenas a abertura da loja para consumar a fuga, entendo que o crime estava próximo à consumação, sendo adequada a redução da pena em apenas 1/3 (um terço) (fl. 208), o que não configura constrangimento ilegal.
+Por fim, a reincidência autoriza a imposição de regime mais gravoso do que a pena imposta, de acordo com a jurisprudência do Superior Tribunal de Justiça, bem como afasta a possibilidade de substituição da pena, de acordo com o art. 44, § 3º, do Código Penal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO MAJORADO E QUALIFICADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA, REGIME INICIAL E SUBSTITUIÇÃO DA PENA. ITER CRIMINIS TOTALMENTE PERCORRIDO E PACIENTE REINCIDENTE. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
