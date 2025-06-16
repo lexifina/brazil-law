@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE EMPRÉSTIMO CONSIGNADO. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE PROCEDÊNCIA REFORMADA PELO ACÓRDÃO. VIOLAÇÃO AO ART. 1022 DO CPC. OCORRÊNCIA. AUSÊNCIA DE ENFRENTAMENTO DA ALEGAÇÃO DE FRAUDE NA CONTRATAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL DE JUSTIÇA DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. No caso, o Tribunal estadual reformou a sentença de procedência, por entender que a contratação do empréstimo consignado restou devidamente comprovada nos autos.
+2. Restou configurada a violação ao art. 1.022 do CPC, diante da omissão do acórdão recorrido quanto à análise da alegação de fraude na contratação, especialmente diante de indícios relevantes quanto à falsidade dos documentos apresentados pelo recorrido.
+3. Impõe-se, portanto, o retorno dos autos à instância de origem, a fim de que seja proferido novo julgamento dos embargos de declaração, com o devido enfrentamento da matéria omitida.
+4. Recurso especial parcialmente acolhido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ANTONIA IVANILDE DE OLIVEIRA CARDOSO (ANTONIA) contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+DIREITO DO CONSUMIDOR - APELAÇÃO CÍVEL - CONTRATO BANCÁRIO - EMPRÉSTIMO - REGULAR PACTUAÇÃO - SENTENÇA REFORMADA - RECURSO PROVIDO. - Em detida análise às fl. 221/234, tem-se a fotografia da parte recorrida pactuando a avença, bem como extrato bancário, às fls. 235/236, com a disponibilização do valor em conta de sua própria titularidade; - Assim, não há de se falar em ausência de comprovação da anuência do pacto ou vícios em sua formação; RECURSO CONHECIDO E PROVIDO (e-STJ, fls. 324).
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ANTONIA alegou a violação dos arts. 1.022, 489, § 1º, IV, e 373, II, do CPC e art. 6º, VIII, do Código de Defesa do Consumidor, ao sustentar que (1) o Tribunal estadual deixou de se manifestar sobre pontos essenciais ao deslinde da controvérsia, configurando negativa de prestação jurisdicional; e (2) houve inversão indevida do ônus probatório, ao se exigir que ela comprovasse a inexistência do contrato de empréstimo consignado, quando competia ao banco recorrido demonstrar a autenticidade da contratação e a legitimidade do depósito dos valores.
+Não foi apresentada contrarrazões .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE EMPRÉSTIMO CONSIGNADO. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE PROCEDÊNCIA REFORMADA PELO ACÓRDÃO. VIOLAÇÃO AO ART. 1022 DO CPC. OCORRÊNCIA. AUSÊNCIA DE ENFRENTAMENTO DA ALEGAÇÃO DE FRAUDE NA CONTRATAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL DE JUSTIÇA DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. No caso, o Tribunal estadual reformou a sentença de procedência, por entender que a contratação do empréstimo consignado restou devidamente comprovada nos autos.
+2. Restou configurada a violação ao art. 1.022 do CPC, diante da omissão do acórdão recorrido quanto à análise da alegação de fraude na contratação, especialmente diante de indícios relevantes quanto à falsidade dos documentos apresentados pelo recorrido.
+3. Impõe-se, portanto, o retorno dos autos à instância de origem, a fim de que seja proferido novo julgamento dos embargos de declaração, com o devido enfrentamento da matéria omitida.
+4. Recurso especial parcialmente acolhido.
+VOTO
+O recurso merece parcial acolhida.
+Inicialmente, ressalte-se que, muito embora a recorrente tenha mencionado as alíneas a e c do artigo 105, III, da Constituição Federal, o presente recurso baseia-se, tão somente, na alínea a, haja vista que não há menção à divergência interpretativa.
+(1) Negativa de prestação jurisdicional
+No que se refere à alegada violação do art. 1.022 do CPC, constata-se que o acórdão recorrido deixou de se manifestar sobre argumentos relevantes apresentados nos embargos de declaração, os quais, se acolhidos, poderiam influenciar no desfecho da controvérsia. Senão vejamos.
+Na origem, ANTONIA ajuizou ação declaratória de inexistência de débito contra o BANCO PAN S.A. (BANCO), a qual foi julgada procedente, para declarar a nulidade do empréstimo consignado e determinar a restituição em dobro dos valores descontados do benefício previdenciário, além do pagamento de danos morais no montante de R$ 2.000,00 (dois mil reais).
+O Tribunal de Justiça do Estado do Amazonas deu provimento ao recurso de apelação interposto pelo BANCO, por entender que a contratação do empréstimo restou devidamente comprovada. Confira-se:
+O cerne do presente feito gira em torno da contratação, ou não, de empréstimo bancário pela parte recorrida.
+Em detida análise às fl. 221/234, tem-se a fotografia da parte recorrida pactuando a avença, bem como extrato bancário, às fls. 235/236, com a disponibilização do valor em conta de sua própria titularidade.
+Assim, não há de se falar em ausência de comprovação da anuência do pacto ou vícios em sua formação.
+Isto posto, e por tudo o mais que consta dos autos, conheço do recurso para, no mérito, dar-lhe provimento, reformando a r. Sentença para julgar improcedentes os pleitos iniciais. Como corolário da inversão da sucumbência, condeno a parte recorrida em custas e honorários advocatícios de 10% sobre a causa, consoante art. 85, §2º do CPC, suspensa exigibilidade. (e-STJ, fl. 326).
+Em sede de embargos de declaração, ANTONIA apontou a existência de vícios omissivos no acórdão, sustentando que o documento apresentado pelo BANCO como prova da contratação seria fraudulento (e-STJ, fl. 234). Para tanto, destacou que a cópia da carteira de identidade apresentada pelo BANCO foi emitida no Estado do Pará em 31/01/2022  ou seja, apenas dois dias antes da contratação discutida nos autos  ao passo que o documento oficial de identidade de ANTONIA foi expedido no Estado do Amazonas, em 13/12/2019 (e-STJ, fl. 18).
+Ademais, ANTONIA alegou que a conta bancária indicada pelo BANCO (banco 623, agência 0001, conta corrente nº 021738896-7), para a qual teria sido transferido o valor do empréstimo, não lhe pertence. Para corroborar suas alegações, juntou extratos bancários do Banco Bradesco, instituição na qual é correntista, nos quais não consta qualquer crédito referente ao valor do empréstimo discutido.
+Aliás, tais elementos foram determinantes para a procedência do pedido em primeira instância, como reconhecido expressamente na r. sentença: "a autora logra êxito em comprovar a ausência de depósito do valor mutuado em seu favor, conforme extratos anexos à réplica" (e-STJ, fl. 273).
+Apesar da relevância dos pontos suscitados nos embargos, o Tribunal local quedou-se silente quanto às alegações de fraude documental e de titularidade da conta bancária, limitando-se a reafirmar a conclusão de que o contrato havia sido validamente firmado.
+Assim, é imprescindível que o Tribunal estadual se manifeste de forma clara e específica sobre a alegação de fraude nos documentos apresentados pelo BANCO, especialmente diante da existência de dois documentos de identidade distintos, emitidos por Estados diferentes, em datas incompatíveis, e com fotografias visivelmente divergentes, além da indicação de conta bancária que ANTONIA afirma não lhe pertencer. Tais elementos, longe de serem meras formalidades, levantam sérias dúvidas sobre a autenticidade da contratação e apresentam fortes indícios de fraude, que precisam ser enfrentados.
+Nessa toada, imperioso o acolhimento, em caráter prejudicial, da tese de violação dos arts. 489 e 1.022 do CPC suscitada no apelo nobre, com o retorno dos autos à origem para um novo julgamento dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. OMISSÃO CONFIGURADA. REJULGAMENTO DOS EMBARGOS DECLARATÓRIOS PELO TRIBUNAL DE ORIGEM. NECESSIDADE.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A falta de manifestação ou sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+3. Agravo interno não provido.
+(AgInt no REsp 2116.214 / CE, Rel Ministro BENEDITO GONÇALVES, Primeira Turma, j. 21/10/2024 - sem destaque no original).
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, apenas quanto à violação dos arts. 489 e 1.022 do CPC, a fim de determinar o envio dos autos à origem, para novo julgamento dos embargos de declaração.
+É o voto.
