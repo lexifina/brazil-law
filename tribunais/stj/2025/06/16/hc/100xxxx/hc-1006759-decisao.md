@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDIMILSON OLIVEIRA DA SILVA contra suposto ato coator praticado pelo Tribunal de Justiça do Estado de São Paulo.
+Dessume-se dos autos que o paciente foi condenado pela prática de conduta prevista no art. 33, caput, c.c. art. 40, inciso V, ambos da Lei n. 11.343/06 à pena de 8 anos e 9 meses de reclusão, em regime inicial fechado, mais o pagamento de 875 dias-multa.
+Nesse writ, sustenta o impetrante que "em que pese tenha sido juntado com antecedência o substabelecimento sem reservas de poderes, com o devido acato e respeito, o tribunal ad quem (sic), por pura inobservância legal deixara de intimar oficialmente o único patrono, Dr. ANTÔNIO CARLOS PEREIRA NEVES, a tomar conhecimento inequívoco quanto a pauta de julgamento do sobredito recurso de apelação, fato que, colidira frontalmente para com os princípios norteadores do Direito Constitucional e Processual Penal, restando a defesa cerceada, impedido o mesmo de sustentar oralmente".
+Pugna, ao final, por que "seja declarado nulo o Acórdão ante a nulidade absoluta levantada e por consequência disso, tendo em vista o lapso temporal em que o paciente se encontra preso de forma preventiva, de rigor seja concedido a ele o direito de recorrer em liberdade, tendo em vista que os requisitos autorizadores da prisão preventiva já foram superados. No mérito, requer-se a confirmação da medida liminar e seja concedida a ordem a fim seja aplicado a causa especial de diminuição de pena, especificamente quanto ao reconhecimento do tráfico privilegiado, a considerar que o paciente preenche todos os requisitos legais, nos exatos termos do art. 33, §4, da Lei de Drogas".
+Informações prestadas (e-STJ, fls. 63-90).
+É o relatório.
+Decido.
+Alega, inicialmente, a defesa causa de nulidade absoluta do julgamento do writ originário, na medida em que não houve sua intimação para efetuar sustentação oral expressamente requerida, tampouco intimação da publicação do acórdão.
+Das informações prestadas pelo Tribunal de origem consta o seguinte:
+" ..  Recebidos os autos neste Tribunal em 13 de março de 2025, intimaram-se, consoante a disponibilização no Diário da Justiça Eletrônico (DJE) aos 25 de março seguinte, os referidos advogados Ademir e Paulo para se manifestarem acerca de eventual oposição ao julgamento virtual, nos termos do artigo 1º da Resolução nº 549/2011, do Órgão Especial desta Casa, observando-se o teor do Comunicado nº 87/2024, não constando dos autos a apresentação de qualquer manifestação.
+Anoto ainda que, aos 27 de março de 2025, foi acostado aos autos substabelecimento sem reservas de poderes ao advogado Antônio Carlos Pereira Neves, OAB/RO nº 9.716.
+Em julgamento virtual finalizado aos 05 de maio de 2025, a Décima Segunda Câmara de Direito Criminal, sem discrepância de votos, rejeitou as preliminares arguidas e, no mérito, deu parcial provimento ao reclamo a fim de readequar as sanções para 08 (oito) anos e 09 (nove) meses de reclusão, no regime inicial fechado, e 875 (oitocentos e setenta e cinco) dias-multa, por incurso no artigo 33, caput, c. c. o artigo 40, inciso V, ambos da Lei nº 11.343/06.
+Aos 07 de maio seguinte, no DJE, foi disponibilizada a intimação dos mencionados advogados Ademir e Paulo do teor do acórdão, certificando-se o trânsito em julgado  .. " (e-STJ, fls. 64-65).
+O Tribunal a quo confirma em suas informações que intimou defensores que não tinham mais poder para atuar na ação penal, de forma que tal proceder trouxe prejuízo ao paciente, na medida em que não houve a possibilidade de anexar sua sustentação oral no julgamento virtual, tampouco de recorrer, porque não foi intimado da publicação do acórdão.
+Evidente, pois, o cerceamento de defesa.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, concedo a ordem para cassar o acórdão proferido nos autos da Apelação n. 1503625-36.2024.8.26.0548, determinando seja renovado o julgamento, a fim de que dele possa participar o advogado regularmente constituído. Prejudicados os demais pedidos formulados.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo.
+Publique-se. Intimem-se.
+EMENTA
