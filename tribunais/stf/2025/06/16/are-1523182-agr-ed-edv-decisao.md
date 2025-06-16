@@ -1,0 +1,39 @@
+Decisão
+
+    Trata-se de Embargos de Divergência opostos contra acórdão da Primeira Turma desta CORTE que, por unanimidade, não conheceu do Agravo Regimental interposto em face de decisão monocrática por meio da qual neguei seguimento ao Recurso Extraordinário com Agravo. O acórdão recebeu a seguinte ementa (Doc. 158, fls. 1-3):
+
+    PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INSUFICIÊNCIA DE FUNDAMENTAÇÃO QUANTO À ALEGAÇÃO DE EXISTÊNCIA DE REPERCUSSÃO GERAL. VIOLAÇÃO AO ART. 5º, XLVI e LV, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. APLICABILIDADE DO TEMA 660 DA REPERCUSSÃO GERAL. OFENSAS INDIRETAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I. CASO EM EXAME 1. Agravo Regimental interposto contra decisão pela qual neguei seguimento ao Recurso Extraordinário com Agravo aos fundamentos de que: de que: ( a) não houve a demonstração fundamentada da presença de repercussão geral da questão veiculada no recurso extremo; ( b) a matéria impugnada não foi devidamente prequestionada pelas instâncias ordinárias, a atrair a incidência das Súmulas 282 e 356 do STF; ( c) aplicase ao caso dos autos as teses firmadas no julgamento dos Temas 182 e 660 da repercussão geral; ( d) o exame da pretensão veiculada neste apelo situa-se no contexto normativo infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO FEDERAL são meramente indiretas (ou mediatas); e ( e) a reforma do julgado passa, necessariamente, pelo reexame do conjunto fático-probatório dos autos, providência vedada em sede de Recurso Extraordinário, conforme Súmula 279/STF II. QUESTÃO EM DISCUSSÃO 2. Inaplicabilidade dos óbices processuais invocados na decisão recorrida. III. RAZÕES DE DECIDIR 3. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 4. No julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), esta CORTE rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 5. A matéria está situada no contexto normativo infraconstitucional, na medida em que o enfrentamento dos argumentos invocados pelo recorrente demanda a análise de dispositivos insertos, em especial, no Código de Penal, de forma que as ofensas à Constituição são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do apelo extremo. 6. Acolher a pretensão recursal demandaria a reapreciação de todo o conjunto fático-probatório, providência incompatível com esta estreita via processual, conforme Súmula 279 desta SUPREMA CORTE (“Para simples reexame de prova não cabe recurso extraordinário”). Precedentes. IV. DISPOSITIVO 9. Agravo Regimental a que se nega provimento. Atos normativos citados: Súmulas 279, 282 e 356 do STF. Jurisprudência citada: ARE 748.371-RG/MT, Rel. Min. GILMAR MENDES, Dje 01/08/2013.
+
+    Opostos embargos de declaração contra o referido acórdão, foram eles rejeitados (Doc. 164).
+
+    Nos presentes Embargos de Divergência, faz um breve histórico do trâmite processual e alega que, após a oposição de embargos de declaração, “outra vez não prosperou a irresignação, logo, sendo o manejo do presente Embargos de Divergência o meio adequado frente o caso em concreto, pois, manifesto dissídio jurisprudencial estarrecido perante esta c. Corte” (Doc. 165, fl. 3).
+
+    Aduz a existência de “indiscutível divergência intramuros, isto é, um entendimento diverso das decisões pretéritas, que negaram seguimento ao recurso em questão, surgindo insegurança jurídica sobre o assunto” (Doc. 165, fl. 4).
+
+    Não apresenta nenhum julgado desta SUPREMA CORTE como paradigma para respaldar seu inconformismo. Colaciona unicamente julgados do Superior Tribunal de Justiça (Doc. 165, fls. 4-8).
+
+    É o relatório. Decido.
+
+    Nos termos do art. 330 do RISTF “cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal”.
+
+    Ocorre que o embargante não citou expressamente qualquer acórdão deste SUPREMO TRIBUNAL FEDERAL que pudesse ser analisado como “paradigma”, fato que inviabiliza o prosseguimento do presente recurso, pois ausente seu pressuposto básico: demonstração da existência de divergência jurisprudencial nesta CORTE sobre o tema em análise nos autos através da indicação de paradigma(s) que comprovem eventual dissenso interpretativo com o acórdão impugnado.
+
+    Nesse sentido, colaciono julgado do Plenário desta CORTE:
+
+    AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DO PARADIGMA DISSIDENTE. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO A QUE SE NEGA PROVIMENTO. I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – A utilização adequada dos embargos de divergência impõe ao recorrente o dever de demonstrar, de maneira objetiva e analítica, o dissídio interpretativo alegado, sob pena de inadmissão do recurso. III – Cabem embargos de divergência contra acórdão de Turma que, em recurso extraordinário ou agravo de instrumento, divergir de julgado de outra Turma ou do Plenário do STF, desde que os acórdãos confrontados tratem do mesmo thema decidendum. IV - Os embargos de divergência destinam-se a promover a uniformização da jurisprudência desta Corte. Não se prestam, pois, à mera revisão do acerto ou desacerto do acórdão embargado. V - Agravo regimental a que se nega provimento. (ARE .177.200 AgR-ED-EDv-AgR, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 11/5/2020)
+
+    Ora, os embargos de divergência não são instrumento de mero reexame da decisão anterior, sendo irrecusável o cotejo analítico e a total correspondência entre os julgados colocados em confronto. Nesse sentido: AI 720.117 AgR-ED-EDv-AgR-segundo, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 5/4/2016; ARE 746.729 AgREDEDv-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 28/10/2015; RE 350.120 AgR-EDv-AgR, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 27/10/2015; e ARE 859.893 AgR-EDv-AgR, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 26/10/2015, este último assim ementado:
+
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. INSUFICIÊNCIA DA ARGUMENTAÇÃO RECURSAL PARA ELIDIR FUNDAMENTO APTO, POR SI SÓ, A MANTER O JULGADO EMBARGADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    Diante do exposto, com base nos arts. 21, § 1º, e 335, § 1º, do Regimento Interno do STF, NÃO ADMITO OS EMBARGOS DE DIVERGÊNCIA.
+
+    Publique-se.
+
+    Brasília, 16 de junho de 2025.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
