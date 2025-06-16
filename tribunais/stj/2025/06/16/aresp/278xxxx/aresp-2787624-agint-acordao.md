@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO S  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA.  ADJUDICAÇÃO  DO  BEM.  DESPESAS  CONDOMINIAIS.  RESPONSABILIDADE.  AD  QUIRENTE.  OMISSÃO.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO.  NECESSIDADE.  REEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  quanto  à  ocorrência  de  erro  médico  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ULYSSES  PINTO  NOGUEIRA  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento  em  virtude  da  impossibilidade  de  apreciação  de  dispositivo  constitucional  nesta  instância,  da  ausência  de  vício  na  prestação  jurisdicional,  da  incidência  da  Súmula  nº  7/  STJ  e  da  prejudicialidade  da  análise  do  dissídio  jurisprudencial  em  razão  da  aplicação  de  óbice  sumular  (e-STJ  fls.  813/816).
+Em  suas  razões,  o  agravante  alega  que  o  tribunal  estadual  não  analisou  o  acordo  extrajudicial  de  fls.  459/466,  que  exonera  o  recorrente  da  obrigação  em  relação  à  dívida,  violando  o  artigo  1.022  do  Código  de  Processo  Civil.
+Sustenta  " (..)  não  ser  lícito  nem  moral  que  o  Condomínio  recorrido  cobre  extrajudicialmente  o  recorrente  por  dívida  inexigível  porque,  além  de  prescrita,  restou  quitada  pelo  espólio  acima  citado,  o  que  não  pode  ser  desconsiderado,  a  teor  do  art.  493  do  CPC"  (e-STJ  fl.  846).
+Impugnação  às  e-STJ  fls.  866/874.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO S  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA.  ADJUDICAÇÃO  DO  BEM.  DESPESAS  CONDOMINIAIS.  RESPONSABILIDADE.  AD  QUIRENTE.  OMISSÃO.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO.  NECESSIDADE.  REEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  quanto  à  ocorrência  de  erro  médico  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Não  trouxe  o  recorrente  argumentos  suficientes  a  infirmar  a  decisão  agravada.
+No  tocante  à  omissão  apontada  no  acórdão  estadual,  o  tribunal  de  origem,  ao  decidir  o  recurso  de  apelação,  concluiu  pela  responsabilidade  do  agravante  pelas  despesas  condominiais.
+É  o  que  se  extrai  da  seguinte  passagem:
+"(..)
+A  controvérsia  instaurada  no  recurso  interposto  diz  respeito  à  responsabilidade  do  Apelado,  na  qualidade  de  adjudicante  do  imóvel  sobre  o  qual  recaem  os  débitos  condominiais,  para  responder  pelos  referidos  débitos  constituídos  no  período  de  1992,  antes  da  adjudicação  do  bem,  por  meio  de  decisão  transitada  em  julgado  nos  autos  de  nº  0008856-75.2002.8.26.0068.
+Como  é  cediço,  na  qualidade  de  adjudicante  do  imóvel,  o  Apelado  deve  responder  pelas  despesas  condominiais  incidentes  sobre  o  bem,  nos  exatos  termos  do  artigo  1.345  do  Código  Civil,  in  verbis:
+(..)
+Cumpre  observar  que  da  análise  dos  autos  não  se  verifica  qualquer  notícia  de  intimação  ou  notificação  feita  em  favor  do  condomínio  credor  nos  autos  da  ação  de  nº  0221392-28.2003.8.26.0577,  em  que  ocorreu  a  adjudicação  do  bem,  conforme  se  verifica  às  fls.  9/10  dos  autos,  restando  a  adjudicação  firmada  sem  a  ciência  de  eventuais  credores.
+Com  respeito  ao  entendimento  do  magistrado  de  primeiro  grau,  a  adjudicação  judicial  implica  necessariamente  a  notificação  de  eventuais  credores  sobre  eventuais  débitos  que  recaiam  sobre  o  imóvel,  o  que  não  ocorreu  no  presente  caso,  negando  aplicabilidade  ao  disposto  no  art.  908,  §1º  do  CPC:
+(..)
+Conforme  se  observa  da  carta  de  adjudicação  acostada  às  fls.  8/9,  não  se  verifica  qualquer  ciência  de  eventuais  credores  de  débitos  de  natureza  propter  rem,  não  havendo  que  se  falar  de  em  negligência  por  parte  do  condomínio.
+Se  não  bastasse,  a  alegação  formulada  pelo  Apelado  no  sentido  de  que  não  deve  responder  pelos  débitos  condominiais,  uma  vez  que  não  figurou  como  parte  da  ação  de  nº  0008856-75.2002.8.26.0068  que  trata  da  cobrança  de  referidos  débitos,  em  fase  de  cumprimento  de  sentença,  promovida  face  dos  antigos  proprietários,  não  merece  prosperar.
+Isto,  porque,  o  adquirente  do  imóvel  responde  por  todos  os  débitos  de  natureza  propter  rem,  anteriores  à  aquisição  do  bem,  observando-se  in  casu  que  a  ação  de  nº  0221392-28.2003.8.26.0577,  em  que  restou  adjudicado  o  bem,  em  maio  de  2018,  é  preveniente  justamente  de  um  contrato  de  gaveta  firmado  pelo  Autor  com  os  primeiros  proprietários  do  imóvel  em  15/06/1993,  conforme  fls.  118/120.
+Em  outras  palavras,  a  responsabilidade  pelas  despesas  condominiais  é  oriunda  da  relação  jurídica  material  com  o  imóvel.
+(..)
+No  mais,  não  prospera  a  tese  de  prescrição,  haja  vista  que  o  imóvel  foi  adjudicado  em  maio  de  2018,  conforme  fls.  9/10,  restando  claro  que,  no  caso  vertente,  não  houve  o  decurso  do  prazo  prescricional  de  5  (cinco)  anos  previsto  no  inciso  art.  206,  §  5º,  I,  do  Código  Civil,  ressaltando-se  que  a  citação  válida  às  fls.  69  interrompeu  a  prescrição,  retroagindo  à  data  da  propositura  da  ação  promovida  em  05/08/2021.
+Repita-se  que  o  crédito  exequendo  já  estava  consolidado  à  época  da  adjudicação  por  força  da  prolação  de  sentença  transitada  em  julgado  nos  autos  de  nº  0008856-  75.2002.8.26.0068,  em  fase  de  cumprimento  de  sentença.
+(..)
+Em  resumo,  inequívoco  que,  após  a  adjudicação  do  bem,  o  Autor  deve  responder  pelos  débitos  condominiais  no  período  de  1992  a  2002,  limitado  ao  teto  atribuído  à  causa  no  importe  de  149.598,32  (cento  e  quarenta  e  nove  mil,  quinhentos  e  noventa  e  oito  reais  e  trinta  e  dois  centavos)"  (e-STJ  fls. 614/617  -  grifou-se).
+Nesse  contexto,  no  que  diz  respeito  à  alegada  negativa  de  prestação  jurisdicional  -  violação  do  artigo  1.022  do  CPC  -,  verifica-se  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  recorrido.
+Registra-se  que  o  julgador  não  está  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  capazes  de,  em  tese,  de  algum  modo,  infirmar  a  conclusão  adotada  pelo  órgão  julgador.  A  motivação  contrária  ao  interesse  da  parte,  ou  mesmo  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  julgador,  não  caracteriza  vício  na  prestação  jurisdicional.
+Consigna-se,  ainda,  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+Confira-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COTA  CONDOMINIAL.  OBRIGAÇÃO  PROPTER  REM.  PENHORA  DO  BEM.  CABIMENTO.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  REEXAME  DE  FATOS  E  PROVAS.  IMPOSSIBILIDADE.  INCIDÊNCIA  DA  SÚMULA  N.  7/STJ.
+1.  Conforme  consignado  na  decisão  agravada,  a  jurisprudência  dominante  desta  Corte  Superior  firmou-se  no  sentido  de  que  o  adquirente  de  imóvel  em  condomínio  responde  pelas  cotas  condominiais  em  atraso,  ainda  que  anteriores  à  aquisição,  ressalvado  o  seu  direito  de  regresso  contra  o  antigo  proprietário.
+2.  Do  mesmo  modo,  firmou-se  entendimento  jurisprudencial  no  sentido  de  que  a  obrigação  de  pagamento  dos  débitos  condominiais  alcança  eventuais  titulares  do  imóvel  que  não  participaram  da  fase  de  conhecimento  da  ação  de  cobrança,  em  razão  da  natureza  propter  rem  da  dívida,  o  que  refuta  pontualmente  a  reiterada  alegação  da  agravante  de  que  não  teria  legitimidade  para  compor  o  polo  passivo  da  ação  executiva  de  título  judicial  firmado  entre  o  condomínio  e  o  promitente  comprador.
+3.  "Em  se  tratando  a  dívida  de  condomínio  de  obrigação  propter  rem  e  partindo-se  da  premissa  de  que  o  próprio  imóvel  gerador  das  despesas  constitui  garantia  ao  pagamento  da  dívida,  o  proprietário  do  imóvel  pode  ter  seu  bem  penhorado  no  bojo  de  ação  de  cobrança,  já  em  fase  de  cumprimento  de  sentença,  da  qual  não  figurou  no  polo  passivo.  Súmula  568/STJ"  (AgInt  no  REsp  n.  2.006.920/PR,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  DJe  de  29/3/2023).
+4.  Alterar  as  conclusões  do  acórdão  recorrido  de  que  a  Companhia  de  Habitação  Popular  de  Curitiba  jamais  deixou  de  ser  proprietária  do  imóvel  demandaria  necessário  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  vedado  ante  a  incidência  da  Súmula  n.  7/STJ.
+Agravo  interno  improvido"  (AgInt  no  AREsp  2.360.792/PR,  Relator  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  18/12/2023,  DJe  de  20/12/2023).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
