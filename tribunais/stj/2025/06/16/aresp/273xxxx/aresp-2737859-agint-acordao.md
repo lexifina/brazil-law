@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. A arguição genérica de violação do art. 1.022 do CPC, sem explicitar qual a ausência de pronunciamento e sua relevância para a solução da controvérsia, atrai a incidência da Súmula 284 do STF.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos de lei federal suscitados na peça recursal não são examinados na origem.
+3. A alteração das conclusão das instâncias ordinárias de que não foi devidamente fundamentada a aplicação de sanção em caráter cautelar, demandaria revisão dos elementos de convicção presentes nos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA para desafiar decisão proferida às e-STJ fls. 511/514, em que conheci do agravo para não conhecer do recurso especial, em face da incidência das Súmulas 284 do STF, ausência de prequestionamento (Súmula 282 do STF) e Súmula 7 do STJ.
+Sustenta a parte agravante, inicialmente, que a Súmula 284 do STF não deve ser aplicada ao caso, pois, em sede de agravo em recurso especial, afirmou que houve equívoco na indicação de ofensa ao art. 1.022 do Código de Processo Civil, além de o referido óbice ter aplicação apenas quando se deixa de indicar os motivos pelos quais se impugna a decisão recorrida ou não se aponta contrariedade à legislação.
+Afirma que ocorreu o devido prequestionamento, visto que houve menção expressa aos dispositivos apontados como contrariados e que se busca mera revoaloração jurídica dos fatos delineados no acórdão, notadamente quanto à possibilidade de o Procon aplicar medida cautelar de suspensão temporária da atividade.
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o present e agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls.534/542.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. A arguição genérica de violação do art. 1.022 do CPC, sem explicitar qual a ausência de pronunciamento e sua relevância para a solução da controvérsia, atrai a incidência da Súmula 284 do STF.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos de lei federal suscitados na peça recursal não são examinados na origem.
+3. A alteração das conclusão das instâncias ordinárias de que não foi devidamente fundamentada a aplicação de sanção em caráter cautelar, demandaria revisão dos elementos de convicção presentes nos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Inicialmente, cumpre observar que não há como se afastar o óbice da Súmula 284/STF em relação ao art. 1.022 do CPC.
+Isso porque, em vários momentos das razões do apelo nobre, a parte insurgente alega que o acórdão proferido pelo Tribunal de origem teria contrariado o referido dispositivo (e-STJ fl. 403, 405), argumentando que (e-STJ fl. 406):
+De fato, apenas o inciso II do art. 1.022 do CPC integra a fundamentação deste Recurso Especial, ante a indevida recusa do Juízo em apreciar pontos essenciais que foram suscitados em sede de Embargos de Declaração, conforme será delineado nos tópicos seguintes. (Grifos acrescidos).
+Como destacado na decisão agravada (e-STJ fl. 512), a jurisprudência deste Tribunal Superior entende que a alegação de ofensa ao art. 1.022 do CPC deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisas dos vícios de que padeceria o acórdão impugnado, sob pena de incidência do referido óbice sumular.
+No caso, a recorrente não trouxe nenhum outro argumento além do trecho já transcrito, ou seja, se restringiu a afirmar que o Corte de origem não teria apreciado as questões apresentadas nos aclaratórios, sem especificar em que residiriam as omissões e a relevância delas para o deslinde da controvérsia.
+Nesse sentido: AgInt no REsp n. 2.113.942/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/3/2025, DJEN de 26/3/2025; e REsp n. 2.171.803/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2025, DJEN de 17/3/2025.
+Quanto à alegação de que houve prequestionamento explícito, registre-se que a mera citação dos dispositivos pelo Tribunal não é suficiente para o seu reconhecimento, sendo imperioso o debate da tese suscitada com base nos comandos normativos apontados.
+A propósito: AgInt no REsp n. 2.158.444/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024; e AgInt no AREsp n. 944.639/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/3/2021, DJe de 12/3/2021.
+Na hipótese, as teses de cabimento de contraditório diferido e de que eventual análise quanto à desproporcionalidade ou à ilegalidade da medida administrativa demandariam dilação probatória não foram efetivamente apreciadas pela segunda instância nem implicitamente.
+Com efeito, como destacado na decisão agravada, a concessão da segurança respaldou-se nos seguintes fundamentos (e-STJ fls. 512/513):
+ ..  conforme relata o próprio recorrente, "Jóia Posto Ltda. impetrou Mandado de Segurança contra ato do Diretor do Procon Municipal de Florianópolis, que proferiu decisão administrativa determinando a suspensão das atividades do posto de gasolina pelo período de 48 horas, em virtude do aumento de preços dos combustíveis antes da reoneração dos impostos, com estoque já existente" (e- STJ fls. 40/404).
+O Tribunal de origem manteve a sentença que concedeu a ordem, por seus próprios fundamentos, destacando que, apesar da possibilidade de aplicação de medidas cautelares pelo Procon, a decisão administrativa proferida não se sustenta, uma vez que "não está demonstrado  ..  em que medida a suspensão das atividades da empresa pelo prazo de 48h ressoaria no suposto reajuste injustificado e resguardaria os direitos dos consumidores" (e-STJ fl. 355).
+Asseverou, ainda, que, na decisão administrativa não há descrição do risco a que estariam expostos os consumidores em caso de continuidade da empresa, tampouco notícia de que o preço praticado pelo impetrante seja superior ao praticado por outros fornecedores da região, além de a conclusão sobre a elevação do preço sem justa causa ser bastante simplificada, com base apenas na diferença entre o preço de compra e venda dos combustíveis, desconsiderando os custos na prestação de serviços, a capacidade de armazenamento de combustível no local, a quantidade média de venda diária e a finalidade lucrativa da atividade (e-STJ fls. 355/356).
+Pelo trecho transcrito, observa-se que o Tribunal de origem reconhece a possibilidade de aplicação, pelo órgão consumerista, das medidas previstas no art. 56 do Código de Defesa do Consumidor, inclusive cautelarmente, porém, na situação concreta, concluiu que a decisão administrativa não foi devidamente fundamentada a justificar a suspensão cautelar das atividades do fornecedor por 48h.
+Nesse passo, para se concluir de forma diversa, notadamente de que ficou demonstrada a necessidade da medida de suspensão das atividades de modo cautelar, seria imprescindível o reexame dos elementos de convicção postos no processo, o que é inviável em sede de recurso especial, não havendo como se afastar o óbice da Súmula 7 do STJ.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
