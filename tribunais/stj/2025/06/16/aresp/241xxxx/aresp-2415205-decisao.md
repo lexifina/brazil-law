@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO PIAUÍ contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0003126-58.2017.8.18.0140 (fls. 1.667/1.675).
+No recurso especial, a parte agravante aponta a violação dos arts. 33 e 35, ambos da Lei 11.343/2006 e se insurge contra os fundamentos do acórdão que manteve a absolvição os acusados VYRNA MELO BRAYNER, ISALENE SAMPAIO DA SILVA, ALBERONE DO NASCIMENTO OLIVEIRA, JEIEL TELLES VELOSO DE MACEDO, pela prática do crime de tráfico e VYRNA MELO BRAYNER, ARRHENIOS OLIVEIRA VERAS e ALBERONE DO NASCIMENTO OLIVEIRA também pelo crime de associação para o tráfico de drogas, rogando pela reforma da decisão (fls. 1.680/1.700).
+O Tribunal de origem não admitiu o recurso com suporte no óbices das Súmulas 7/STJ e 284/STF (fl. 1.707-1710).
+O Ministério Público Federal apresentou parecer opinando pela não provimento do presente agravo (fls. 1.765-1768).
+É o relatório.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula 7 do Superior Tribunal de Justiça.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial, cabendo ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica do fundamento do decisum combatido.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. VIOLAÇÃO DO ART. 33 E 35 DA LEI N. 11.343/2006. PLEITO PARA CONDENAÇÃO. TESE DE SUFICIÊNCIA DE PROVAS PARA O CRIME DE TRÁFICO E ASSOCIAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULAS 7 E 182/STJ E SÚMULA 284/STF.
+Agravo em recurso especial não conhecido.
