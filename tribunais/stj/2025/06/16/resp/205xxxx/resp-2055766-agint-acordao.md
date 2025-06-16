@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao recurso especial.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. Não se conhece do especial quando a conclusão do acórdão recorrido é no mesmo sentido da orientação do Superior Tribunal de Justiça. A Súmula n. 83 do STJ é aplicável aos recursos interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.062-1.073) interposto contra decisão desta relatoria (fls. 1.052-1.056) que negou provimento ao recurso especial.
+Em suas razões, a agravante reitera a tese de violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, sustentando que, "Ao contrário do decidido, o acórdão recorrido deixou de enfrentar os argumentos deduzidos no processo  ..  e permaneceu omisso quanto ao enfrentamento dos argumentos deduzidos no processo" (fl. 1.064).
+Afirma que a Súmula n. 83 do STJ deve ser afastada.
+Impugnação apresentada (fls. 1.079-1.092).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao recurso especial.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. Não se conhece do especial quando a conclusão do acórdão recorrido é no mesmo sentido da orientação do Superior Tribunal de Justiça. A Súmula n. 83 do STJ é aplicável aos recursos interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 1.052-1.056):
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 591):
+APELAÇÃO CÍVEL - DECLARATÓRIA DE REDEFINIÇÃO DA MARGEM CONSIGNÁVEL - LIMITAÇÃO DO DESCONTO DAS PARCELAS REFERENTE A CONTRATOS PACTUADOS A 30% DOS PROVENTOS - EMPRESTIMO CONSIGNADO - EMPRESTIMO EM CONTA CORRENTE - DISTINÇÃO - IMPOSSIBILIDADE DE SOMATÓRIO.
+- No caso de empréstimo consignado há legislação específica regulando a matéria, sendo que a Lei nº 10.820/2003, que especifica sobre os descontos em folha de pagamento, art. 2, § 2º, I.
+- Em se tratando de empréstimo em conta corrente, o correntista realiza empréstimos de forma automática, utilizando-se de créditos aprovados antecipadamente, o que não se confunde com empréstimo consignado.
+- Em nenhuma das situações, quer seja de empréstimo consignado ou empréstimo com debito em conta corrente os valores podem ultrapassar o percentual de 30% (trinta por cento) do valor do salário pago, no primeiro caso, e depositado, no segundo caso, de acordo com procedentes dos Tribunais Superiores.
+- Não há que se confundir as formas de empréstimo, sendo que elas não se somam a titulo de limitação, uma vez que uma não tem noção da negociação com a outra, uma vez que o empréstimo consignado utiliza-se como base a margem consignada, enquanto o Banco onde percebe os salários somente tem conhecimento dos empréstimos com ele efetivados e o valor do salário que a parte percebe.
+Os embargos de declaração, em sede de reapreciação, foram rejeitados (e-STJ fls. 960/965).
+No recurso especial (e-STJ fls. 981/1.000), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega violação dos seguintes dispositivos:
+(I) arts. 489, § 1º, IV, e 1.022, II, do CPC, suscitando negativa de prestação jurisdicional, e
+(II) arts. 313, 314, 421 e 422 do CC, discorrendo acerca da relação com a recorrida e da normatização quanto à forma de pagamento e valores das prestações do empréstimo realizado. Nesse contexto, afirma que o credor não está obrigado a receber prestação diversa do que lhe é devida, tampouco pode ser obrigado a receber por partes, se assim não se ajustou, como ocorre in casu.
+Foram apresentadas contrarrazões (e-STJ fls. 1.005/1.020).
+É o relatório.
+Decido.
+A recorrente afirma existir omissão no acórdão recorrido porque não foi analisada as teses de que (i) o empréstimo firmado pela recorrida junto à PREVI foi o primeiro consignado, sendo certo que tinha margem consignável e os demais réus deveriam ter respeitado o empréstimo já existente e só efetuar um novo dentro do saldo consignável e (ii) os descontos praticados pela PREVI não ultrapassam o valor de 30% (trinta por cento) dos rendimentos.
+Contudo, não há omissão, pois o acórdão recorrido considerou que ficou incontroverso nos autos que a soma das parcelas relativas aos empréstimos contraídos pela recorrida chegaram a quase 70% (setenta por cento) de sua aposentadoria. Nesse contexto, consignou que a jurisprudência já afirmou que os descontos em proventos dos consumidores deve ser limitado ao percentual máximo de 35% (trinta e cinco por cento) dos proventos creditados em favor do correntista.
+Nessa linha, ressaltou que (e-STJ fls. 962/963):
+Ademais, não se pode olvidar o caráter alimentar do salário, não prevalecendo as teses da embargante de que teria aderido ao Termo de Adesão para aquisição do Empréstimo Simples e de que os demais réus deveriam ter respeitado o empréstimo já existente e só efetuar um novo dentro do saldo consignável.
+Ao contrário do que alega a embargante, embora entenda pelo seu direito de preferência uma vez que, ao realizar o empréstimo havia margem consignável, tal direito não se sobrepõe ao princípio constitucional da dignidade da pessoa humana, conforme constou acórdão, não podendo o judiciário corroborar com a sua tese que teria como consequência o comprometimento da subsistência da autora/embargada.
+Inexistindo, portanto, controvérsia acerca do comprometimento da aposentadoria da autora/embargada, ainda que os descontos praticados pela embargante não ultrapassam o valor de 30% de seus rendimentos, deve ser considerado o todo, ou seja, a totalidade das parcelas descontadas na folha de pagamento da autora, e não apenas aquela devida à embargante.
+Portanto, quanto às omissões suscitadas, ao contrário do que alega a recorrente, a Câmara julgadora conheceu dos pontos.
+A respeito da tese relacionada à forma de pagamento e valores das prestações do empréstimo realizado, o Tribunal de origem assim se manifestou (e-STJ fls. 598/599):
+ ..  considerando que os valores consignados em folha de pagamento não devem ser somados aos debitados em conta corrente, para fins de apuração se houve desrespeito ao limite legal, cumpre elencar os empréstimos pactuados pela autora e suas respectivas modalidades.
+Na exordial, a autora cita os seguintes empréstimos:
+- Empréstimo consignado em folha junto à Previ - Caixa de Previdência dos Funcionários do Banco do Brasil, em parcelas mensais de R$1.941,90 (ordem 49 -TJ)
+- Empréstimo consignado em folha junto à Cooperforte - Cooperativa de Economia e Crédito Mútuo dos Funcionários de Instituições Financeiras Públicas Federais Ltda., em parcelas mensais de R$1.147,76 (ordem 32 -TJ)
+- Empréstimo consignado em folha junto à Financeira Alfa S/A (Satélite Empréstimos), em parcelas mensais de R$1.207,11 (ordens 05 e 55/56 -TJ).
+Além desses empréstimos consignados, a autora contratou dois Créditos Diretos ao Consumidor junto ao Banco do Brasil S/A:
+- CDC no valor de R$70.379,00, a ser pago em 96 parcelas mensais de R$1.646,66. (ordem 37 -TJ)
+- CDC no valor de R$728,00, a ser pago em 58 parcelas mensais de R$37,74. (ordem 37 -TJ)
+Analisando os demonstrativos de ordens 55 e 56 -TJ, verifico que os pactos firmados diretamente com o Banco do Brasil não foram consignados na folha de pagamento da autora, cediço que as respectivas parcelas são debitadas, mês a mês, em sua conta corrente, logo, devem ser extirpados do calculo da margem consignável.
+No esteio, considerando que a soma dos empréstimos restantes equivale a R$ 4.296,77 (quatro mil duzentos e noventa e seis reais e setenta e sete centavos), ou seja, 44,90% de seus proventos totais, que somam R$ 9.568,81 (nove mil quinhentos e sessenta e oito reais e oitenta e um centavos) (ordem 55 -TJ), impondo-se a sua limitação.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu que, não obstante seja possível o desconto para pagamento de empréstimo pessoal, deve haver a limitação ao percentual de 30% (trinta por cento) dos rendimentos líquidos do correntista.
+De fato, segundo a jurisprudência do Superior Tribunal de Justiça, não há, em regra, limitação para os descontos em conta-corrente para pagamento de parcelas decorrentes de mútuo bancário, exceto quando se tratar de empréstimo consignado com desconto em folha de pagamento.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÚTUO. DESCONTO EM FOLHA. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA SEGUNDA SEÇÃO. SÚMULA N. 168/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Os embargos de divergência são um recurso voltado para a uniformização de entendimento entre órgãos fracionários distintos do STJ. Tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, tornam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+2. A matéria consolidou-se no Superior Tribunal de Justiça tal como no acórdão recorrido. Com efeito, em julgado da Segunda Seção que procedeu ao cancelamento da Súmula n. 603/STJ, entendeu-se que não haveria, em regra, limitação aos descontos em conta corrente para fins de pagamento de mútuo, excetuando-se os casos de empréstimo consignado garantido por descontos em folha de pagamento (REsp 1.555.722/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 25/9/2018).
+3. No acórdão embargado, entendeu a Terceira Turma que haveria um contrato de empréstimo com desconto em folha de pagamento e, dessa forma, seria válida a limitação dos descontos a 30% (trinta por cento) da remuneração da devedora. Evidencia-se, nesse ponto, que o decidido no julgado embargado corresponde à jurisprudência atual do STJ.
+4. Além disso, o conhecimento dos embargos de divergência exige similitude fático-processual entre o aresto embargado e os paradigmas.
+5. No caso dos autos, a Terceira Turma analisou hipótese envolvendo mútuo garantido por desconto em folha de pagamento.
+6. O paradigma da Quarta Turma, contudo, analisou hipótese diversa, na qual o contrato envolvia mútuo a ser quitado mediante descontos em conta-corrente, sendo que o relator, expressamente, destacou que se tratava de hipótese distinta dos empréstimos pagos com desconto em folha. Portanto, o suposto paradigma não apresenta similitude fático-processual com o acórdão ora embargado, a fim de permitir o conhecimento dos embargos de divergência.
+7. Cabe destacar que, nos embargos de divergência, não se admite a alteração do contexto fático-processual objeto de exame pela Turma, pois é recurso que "tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum  .. " (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+8. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1.305.797/SC, de minha relatoria, SEGUNDA SEÇÃO, julgado em 11/11/2020, DJe 16/11/2020.)
+No caso em exame, consta dos autos que a recorrida celebrou vários contratos de empréstimos consignado, com desconto em sua folha de pagamento, situação que impede que a dedução dos valores extrapole o limite de 30 (trinta por cento).
+Dessa forma, encontrando-se o acórdão recorrido em harmonia com a jurisprudência desta Corte, inarredável a aplicação da Súmula n. 83 do STJ a obstar a análise do recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+Inicialmente, de acordo com a jurisprudência do STJ, não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível, soluciona integralmente a controvérsia, ainda que de forma diversa daquela pretendida pela parte.
+O acórdão recorrido decidiu, fundamentada e expressamente, acerca da limitação do desconto das parcelas referente aos contratos pactuados a 30% (trinta por cento) dos proventos.
+Assim, não há falar em violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC.
+Ainda, nas razões do presente recurso, a recorrente defende que não é possível a limitação ao percentual de 30% (trinta por cento) dos rendimentos da recorrida.
+Sem razão, contudo.
+O Tribunal do estado consignou que, não obstante seja possível o desconto para pagamento de empréstimo pessoal, deve haver a limitação ao percentual de 30% (trinta por cento) dos rendimentos líquidos da correntista. Nesse contexto, concluiu que, conforme consta dos autos, a agravada celebrou vários contratos de empréstimo consignado, com desconto em sua folha de pagamento, situação que impede que a dedução dos valores extrapole o limite de 30% (trinta por cento).
+Ao contrário do sustentado pela agravante, a jurisprudência desta Corte consolidou-se no sentido de que "não haveria, em regra, limitação aos descontos em conta corrente para fins de pagamento de mútuo, excetuando-se os casos de empréstimo consignado garantido por descontos em folha de pagamento"" (AgInt no EAREsp n. 1.305.797/SC, de minha relatoria, Segunda Seção, julgado em 11/11/2020, DJe 16/11/2020).
+Confira-se a emente do referido julg ado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÚTUO. DESCONTO EM FOLHA. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA SEGUNDA SEÇÃO. SÚMULA N. 168/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Os embargos de divergência são um recurso voltado para a uniformização de entendimento entre órgãos fracionários distintos do STJ. Tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, tornam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+2. A matéria consolidou-se no Superior Tribunal de Justiça tal como no acórdão recorrido. Com efeito, em julgado da Segunda Seção que procedeu ao cancelamento da Súmula n. 603/STJ, entendeu-se que não haveria, em regra, limitação aos descontos em conta corrente para fins de pagamento de mútuo, excetuando-se os casos de empréstimo consignado garantido por descontos em folha de pagamento (REsp 1.555.722/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 25/9/2018).
+3. No acórdão embargado, entendeu a Terceira Turma que haveria um contrato de empréstimo com desconto em folha de pagamento e, dessa forma, seria válida a limitação dos descontos a 30% (trinta por cento) da remuneração da devedora. Evidencia-se, nesse ponto, que o decidido no julgado embargado corresponde à jurisprudência atual do STJ.
+4. Além disso, o conhecimento dos embargos de divergência exige similitude fático-processual entre o aresto embargado e os paradigmas.
+5. No caso dos autos, a Terceira Turma analisou hipótese envolvendo mútuo garantido por desconto em folha de pagamento.
+6. O paradigma da Quarta Turma, contudo, analisou hipótese diversa, na qual o contrato envolvia mútuo a ser quitado mediante descontos em conta-corrente, sendo que o relator, expressamente, destacou que se tratava de hipótese distinta dos empréstimos pagos com desconto em folha. Portanto, o suposto paradigma não apresenta similitude fático-processual com o acórdão ora embargado, a fim de permitir o conhecimento dos embargos de divergência.
+7. Cabe destacar que, nos embargos de divergência, não se admite a alteração do contexto fático-processual objeto de exame pela Turma, pois é recurso que "tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum  .. " (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+8. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1.305.797/SC, de minha relatoria, SEGUNDA SEÇÃO, julgado em 11/11/2020, DJe 16/11/2020.)
+Desse modo, é de se manter a limitação do desconto das parcelas referentes aos contratos pactuados a 30% (trinta por cento) dos proventos, tendo em vista a incidência da Súmula n. 83 do STJ no caso em análise .
+Não prosperam, portanto, as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
