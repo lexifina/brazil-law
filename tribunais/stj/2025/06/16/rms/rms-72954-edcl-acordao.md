@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. OMISSÃO. CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Trata-se de embargos de declaração opostos por Fábio Ney Maia Nara contra acórdão que, por unanimidade, não conheceu do agravo interno, por ausência de impugnação específica aos fundamentos da decisão agravada, nos termos do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil de 2015 (CPC/15).
+O embargante, em suas razões, alega que sua aprovação nas etapas subsequentes do concurso, incluindo provas discursivas, orais e de tribuna, constitui um fato superveniente que deve ser considerado pelo tribunal, conforme o artigo 462 do CPC/15. Sustenta que o acórdão não enfrentou todos os argumentos deduzidos, especialmente sobre a nota de corte ser um evento futuro e incerto, que só pode ser analisado na fase final do concurso (fls. 1106, 1116). Visa prequestionar matérias não decididas, para viabilizar a interposição de recursos excepcionais. Destaca a necessidade de análise dos fatos novos e da documentação apresentada. Invoca o princípio da igualdade, afirmando que deve ser tratado de forma igual aos outros candidatos que foram aprovados e classificados (fls. 1100). Requer que se reconheça essas omissões e contradições, concedendo a segurança pleiteada e mantendo a aprovação do embargante no concurso.
+Impugnação às fls. 1.163-1.171.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. OMISSÃO. CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 - CPC/15, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o recorrente, ora embargante, impetrou mandado de segurança, com pedido de liminar, contra ato consubstanciado na omissão do Presidente da Comissão do XIII Concurso Público de Promotor de Justiça - Edital n. 01/2022 e da Diretora Geral do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos - CEBRASPE, que não incluíram o impetrante no edital de convocação para provas discursivas do referido certame.
+O Tribunal de origem concluiu pela inexistência de direito líquido e certo a ensejar a concessão da segurança para manutenção do impetrante no certame, "uma vez que não figurou dentre as 30 (trinta) vagas disponibilizadas para pessoas com deficiência".
+O acórdão embargado, por unanimidade, não conheceu do agravo interno, por ausência de impugnação específica aos fundamentos da decisão agravada, nos termos do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil de 2015 (CPC/15).
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada ao assentar que a ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do CPC/15.
+Acerca da alegação de "fato novo", diga-se que, nos termos da jurisprudência desta Corte, "o exame de fato superveniente somente é cabível nas hipóteses em que, ultrapassada a barreira do conhecimento do apelo nobre, houver julgamento do mérito da causa em litígio, o que não se verificou no caso presente.(AgInt no REsp n. 2.110.239/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)
+Mesmo que assim não fosse, esclarece-se que o fato de o impetrante, ora embargante, ter sido aprovado nas provas discursivas não gera direito líquido e certo, visto que realizou as etapas seguintes ao concurso em razão do comando de decisão liminar, isto é, em caráter precário.
+No tocante à pretensão de prequestionamento de matéria constitucional para eventual interposição de recurso extraordinário, diga-se que o Superior Tribunal de Justiça tem reiteradamente decidido no sentido de que "não compete a esta Corte o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal." (EDcl nos EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.772.759/PR, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 26/3/2025, DJEN de 1/4/2025.)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
