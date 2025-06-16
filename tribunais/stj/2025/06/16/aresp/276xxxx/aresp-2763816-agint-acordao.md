@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA N. 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 1324):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA N. 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante sustenta que: (a) a decisão não dirimiu a controvérsia de forma suficiente e sem omissões, especialmente quanto à impossibilidade de cumulação do adicional de insalubridade com a Gratificação de Compensação Orgânica (GCO); (b) os dispositivos legais são capazes de sustentar a tese deduzida, especialmente em relação à paridade de tratamento entre as parte; e (c) sua pretensão está adstrita aos limites da lide e que a inconstitucionalidade formal deve ser analisada na sua devida extensão.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA N. 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que os argumentos apresentados no agravo interno não apresentam razões para reformar a decisão agravada.
+Com efeito, não há falar em violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Como dito, no caso dos autos, observa-se que o Tribunal analisou as razões de acolhimento do incidente de arguição de inconstitucionalidade do MPDFT e de rejeição do incidente da ora agravante (fl. 1063).
+Da mesma forma, afasta-se a alegada afronta ao artigo 489 do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Repise-se, ainda nessa esteira, que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+O agravante sustenta que a aplicação das Súmulas 283 e 284 do STF é indevida.
+Contudo, conforme consignado na decisão agravada, em relação à alegada violação aos artigos 7º e 139, I do CPC/15, observa-se que esses dispositivos não possuem comando normativo suficiente para sustentar a tese apresentada ou para invalidar os fundamentos do acórdão recorrido. Conforme a jurisprudência desta Corte, é deficiente a argumentação recursal quando o dispositivo legal indicado como violado não possui comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela parte recorrente.
+Assim, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284 do STF.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE. LIMITAÇÃO DE PERCENTUAL. INCIDÊNCIA DAS SÚMULAS 284/STF E 5 e 7/STJ.
+ ..
+2. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, ante o óbice contido na Súmula 284 do STF.
+ ..
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido (AgInt no REsp n. 1.909.855/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 2/8/2021).
+Conforme delineado na decisão monocrática do confronto entre os fundamentos do voto condutor do acórdão recorrido e os termos da irresignação da parte recorrente, verifica-se que esta não impugna, de forma específica, a fundamentação adotada pela Corte de origem.
+A propósito, vejamos, desde logo e no que interessa, como o Tribunal a quo analisou a questão , (fls. 1063-1064):
+"O incidente de arguição de inconstitucionalidade do DETRAN/DF deve ser rejeitado: a pretensão ultrapassa os limites da lide. O incidente de arguição de inconstitucionalidade é meio de impugnação de normas no âmbito do controle difuso de constitucionalidade. Compete ao órgão especial do tribunal exercer, previamente, o controle de constitucionalidade concreto ou por via de exceção, antes do julgamento de definitivo do recurso pelo seu órgão fracionário.
+(..)
+Porém, o objeto da presente ação coletiva se restringe à ilegalidade/antijuridicidade da GCO, nos termos da petição inicial
+(..)
+Na hipótese, não é possível discutir a inconstitucionalidade de toda a Lei Distrital 7.100/2022, porque eventual declaração nesse sentido acarreta consequências que exorbitam - e muito - o objeto da demanda. A ação foi proposta com o objetivo de discutir a possibilidade de cumulação da GCO com adicional de insalubridade, quando for devido. Tal questão está restrita à validade da proibição contida no art. 3º da referida norma. Se o inteiro teor da lei for eventualmente declarado inconstitucional, isso implica a extinção da própria gratificação, com efeitos financeiros negativos para toda a categoria de servidores públicos responsáveis pelo policiamento e fiscalização de trânsito. O incidente deve se ater aos fatos, fundamentos e pedidos trazidos nos autos, sob pena de transposição indevida do incidente in concreto em ação direta de inconstitucionalidade, o que significa usurpação da competência originária do Conselho Especial deste Tribunal para processar e julgar ações relativas ao controle abstrato de constitucionalidade.
+Como dito, o agravante não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou.
+Além disso, na medida em que não impugnada a fundamentação do acórdão, as razões recursais não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento nas Súmulas 283 e 284/STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. INEXISTÊNCIA. FUNDAMENTO CONSTITUCIONAL. VIA INADEQUADA.
+1. Não se conhece de recurso especial cuja controvérsia não foi objeto de prequestionamento, circunstância que atrai a incidência dos enunciados das Súmulas 282 e 356 do STF.
+2. Hipótese em que o Tribunal de origem não emitiu juízo de valor sobre os arts. 8º, I e IV, da Lei n. 11.483/2007, 24, VIII, 25, IV, e 82, XII e XVII, e § 4º, da Lei n. 10.233/2001, indicados como contrariados, tampouco foram opostos embargos de declaração para fins de prequestionamento.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. A alteração do julgado, nos moldes pretendidos, perpassa necessariamente pela interpretação do art. 109, I, da Constituição Federal, cuja competência é exclusiva da Suprema Corte, nos termos do art. 102 da CF/1988.
+5. Agravo interno desprovido (AgInt no REsp n. 2.057.664/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/6/2024, DJe de 14/6/2024) (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto.
+Incidem na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF.
+2. Os dispositivos legais indicados como malferidos nas razões do recurso especial não foram apreciados pela Corte de origem, nem foram objeto dos embargos de declaração apresentados. Falta, portanto, prequestionamento, requisito exigido para o acesso às instâncias excepcionais, até mesmo para questões de ordem pública.
+Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+3. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o tribunal, é preciso que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto, o que não ocorreu na espécie.
+4. O STJ possui o entendimento de que, para a admissão do prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem como também a indicação e o reconhecimento por Tribunal de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+5. A ausência de prequestionamento impede a análise recursal com base no permissivo constitucional da alínea c do inciso III do art. 105 da Constituição Federal (AgInt no AREsp 956.793/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 15/12/2016).
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.949.666/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023) (Grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
