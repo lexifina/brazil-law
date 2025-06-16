@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+2. Não há nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por FRANCINE MARIA QUEIROZ PONTES contra acórdão oriundo da Sexta Turma desta Corte, de minha relatoria, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. INTERCEPTAÇÃO TELEFÔNICA. CONVERSAS VIA WHATSAPP. TRANSCRIÇÃO PARCIAL. ALEGAÇÃO DE PROVA ILÍCITA E CERCEAMENTO DE DEFESA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. SÚMULA 7/STJ. DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada, atraindo a incidência da Súmula 182/STJ
+2. Para afastar a aplicação da Súmula 7/STJ, não basta a mera alegação de que não se busca o reexame de provas, sendo necessário demonstrar que a pretensão recursal envolve exclusivamente questão de direito, a partir da moldura fática já estabelecida no acórdão recorrido.
+3. O acórdão recorrido está em conformidade com o entendimento deste Superior Tribunal de Justiça, no sentido de que não é necessária a transcrição do conteúdo integral de conversas telefônicas interceptadas com autorização judicial, cabendo à defesa, se assim desejar, o acesso ao , o que atrai a incidência da Súmula 83/STJ. restante das gravações
+4. A alegação de manifestações contraditórias do Ministério Público Federal em casos similares não tem o condão de afastar os óbices processuais ao conhecimento do recurso, considerando que a independência funcional dos membros do Parquet permite manifestações distintas em processos diferentes.
+5. Agravo regimental desprovido.
+A parte embargante sustenta a existência de contradição e obscuridade no acórdão embargado, requerendo o acolhimento do recurso para que seja sanado o vício apontado (e-STJ fls.3620 - 3635).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+2. Não há nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não vislumbro qualquer vício no acórdão embargado.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+No tocante à alegada violação aos princípios da unidade e indivisibilidade do Ministério Público, a decisão embargada expressamente se manifestou sobre a questão, consignando que "a independência funcional dos membros do Ministério Público permite que sejam emitidas manifestações distintas em processos diferentes, sem que isso implique, necessariamente, violação aos princípios da unidade e da indivisibilidade, previstos no artigo 127, § 1º, da Constituição Federal". A fundamentação adotada encontra-se em perfeita sintonia com a jurisprudência desta Corte, que reconhece ser a independência funcional princípio basilar da instituição ministerial, não configurando contradição institucional o fato de diferentes membros do Parquet emitirem pareceres diversos em processos distintos.
+Relativamente à suposta viol ação ao devido processo legal, à ampla defesa e ao contraditório em face da alegada ilicitude das provas oriundas de conversas via WhatsApp, a decisão embargada também se pronunciou de forma clara e fundamentada. Consignou-se que a pretensão da embargante de ver reconhecida a ilicitude das provas demandaria necessariamente o reexame do contexto fático-probatório dos autos, esbarrando no óbice da Súmula 7 desta Corte. A decisão destacou que o Tribunal de origem, após detida análise do material probatório, concluiu pela legalidade da prova, sendo que para se chegar a conclusão diversa seria imprescindível o revolvimento do conjunto fático-probatório, providência vedada pela referida súmula.
+Quanto à alegada vulnerabilidade das conversas de WhatsApp como prova em razão da ausência de código hash e metadados, a decisão embargada igualmente enfrentou a questão ao abordar a licitude das provas digitais e ao reconhecer que o Tribunal de origem havia analisado adequadamente a questão. A fundamentação adotada está em conformidade com a jurisprudência pacífica deste Superior Tribunal de Justiça, que entende não ser necessária a transcrição integral de conversas interceptadas com autorização judicial, cabendo à defesa o acesso ao restante das gravações caso assim deseje.
+A decisão embargada ainda esclareceu que o acórdão emanado do Tribunal de origem apontou minuciosamente que "a transcrição parcial das conversas telefônicas não é causa de nulidade do processo, mormente porque as degravações estiveram à disposição da Defesa antes mesmo de solicitar a restituição dos aparelhos celulares", demonstrando que a defesa teve amplo acesso ao material probatório e poderia ter requerido a transcrição integral em momento apropriado.
+Verifica-se, portanto, que a decisão embargada analisou todas as questões levantadas pela embargante de forma exaustiva e fundamentada, não se vislumbrando qualquer omissão, obscuridade ou contradição que justifique o acolhimento dos presentes embargos. As alegações da embargante, na verdade, traduzem mero inconformismo com o entendimento adotado, não configurando os vícios previstos no artigo 619 do Código de Processo Penal.
+Ademais, a jurisprudência desta Corte é firme no sentido de que os embargos de declaração não se prestam a rediscutir o mérito da decisão embargada, mas apenas a sanar eventuais vícios de omissão, obscuridade ou contradição, os quais, como demonstrado, não se fazem presentes na espécie.
+Portanto, não há nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
