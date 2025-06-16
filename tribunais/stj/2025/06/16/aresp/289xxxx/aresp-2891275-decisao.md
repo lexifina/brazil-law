@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE RIO PRETO DA EVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE DESAPROPRIAÇÃO. LIMINAR. IMISSÃO NA POSSE. URGÊNCIA. NÃO OCORRÊNCIA. AVALIAÇÃO PRÉVIA DO IMÓVEL. NÃO OCORRÊNCIA. DECISÃO REVOGADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 15 do Decreto-Lei nº 3.365/1941, no que concerne ao cabimento da imissão provisória na posse do imóvel objeto da lide, pois comprovado o preenchimento dos seus requisitos legais de urgência e depósito prévio, trazendo a seguinte argumentação:
+O artigo 15 do Decreto-Lei nº 3.365/1941 estabelece que, em caso de alegação de urgência e depósito da quantia arbitrada de acordo com o Código de Processo Civil, o juiz deve conceder a imissão provisória na posse do imóvel:
+ ..
+No caso em tela, o Recorrente alegou urgência e efetuou o depósito da quantia arbitrada pelo Magistrado a quo, conforme exigido pelo dispositivo supracitado, preenchendo todos os requisitos legais para a concessão da imissão provisória na posse. Entretanto, o acórdão recorrido desconsiderou tais elementos, contrariando o que prevê a norma legal.
+Ademais, o §1º do referido artigo expressamente autoriza a imissão provisória independentemente da citação do réu, mediante depósito, ainda que não tenha havido a atualização a que se refere o inciso "d":
+ ..
+Portanto, ao decidir pela impossibilidade de imissão provisória com base em fundamentos alheios ao texto legal, o acórdão recorrido incorreu em manifesta violação ao artigo 15 do Decreto-Lei nº 3.365/1941.
+A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à possibilidade de imissão provisória na posse nas ações de desapropriação, desde que respeitados os requisitos legais previstos no art. 15 do Decreto-Lei nº 3.365/1941. Nesse sentido, o STJ assim decidiu:
+ ..
+O valor depositado foi devidamente fixado pelo Magistrado de primeiro grau. Ainda que assim não fosse, estariam preenchidos os requisitos para a imissão provisória, considerando que o valor da avaliação leva em conta o valor venal do imóvel, conforme a cobrança do IPTU.
+A decisão do Tribunal de origem também diverge da jurisprudência consolidada no âmbito do Tribunal Regional Federal da 4 a Região, que em situações análogas assim se manifestou:
+ ..
+No caso em questão, o Município recorrente justificou também a urgência da desapropriação com base na necessidade de construção de infraestrutura voltada para saúde e segurança da população, incluindo canteiro central, estacionamento para carros e ônibus, redutor de velocidade, lombadas, posto de fiscalização e identificação, calçadão para caminhada e ciclovia. Tais finalidades claramente demonstram a utilidade pública e a urgência da medida.
+Ademais, o acórdão do Tribunal de origem contraria entendimento firmado em casos similares, como no julgamento do TJ-MG:
+ ..
+O Acórdão recorrido diverge da interpretação consolidada nos tribunais superiores e em outros tribunais estaduais, que têm reiteradamente decidido que a mera alegação de urgência, acompanhada do depósito prévio, é suficiente para a concessão da imissão provisória na posse do imóvel expropriado, especialmente quando se trata de obra de interesse público que visa proteger a saúde e a segurança da população.
+Diante do exposto, requer-se o conhecimento e provimento do presente recurso especial, para que seja reformado o acórdão recorrido, a fim de manter a liminar deferida em favor da Recorrente, reconhecendo o preenchimento dos requisitos legais para a imissão provisória na posse, nos termos da jurisprudência dominante.
+(fls. 213-216).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Analisando os elementos dos autos, notadamente, o conteúdo da decisão impugnada e as nuances do caso, verifica-se que assiste razão a agravante.
+Isso porque, o Município de Rio Preto da Eva não demonstrou a ocorrência de urgência na desapropriação. Vale dizer, a causa do ato expropriatório foi delimitada pela modernização e desenvolvimento do Município no que tange à mobilidade urbana, como alargamento de vias, revitalização da entrada da cidade, construção de canteiro central, estacionamento para carros de passeio, calçadão e pista de ciclovia.
+Por esse enfoque, não se despreza a relevância do ajuste nas disposições urbanas do Município ante o desenvolvimento e modernização necessários para melhor qualidade de vida dos munícipes, contudo a medida abreviada de imissão na posse requer prova substancial da urgência, tida como a que satisfaz a cognição sumária do julgador, a fim de que conclua pela ocorrência de iminente prejuízo à população.
+Destaco ainda que o procedimento administrativo acostado aos autos está apoiado na afirmação de que a urgência se dá pela necessidade de melhorar a mobilidade urbana, com indicação das obras a serem realizadas, cuja afirmação não avança sobre quais aspectos a situação inicial da área e a necessidade da obra está implicando em grave e irreparável prejuízos à coletividade.
+Quanto ao valor do depósito, alerto que o valor depositado advêm de laudo confeccionado por profissionais técnicos de nível médio, os quais sem prescindir de suas habilidades, não se mostra razoável pautar o avanço prévio na posse de bem do particular com base em avaliação que deveria ter sido feita por perito judicial qualificado a contento do ponto de vista de sua formação.
+ ..
+Assim, não se despreza que exista necessidade de se oferecer melhorias à população com o implemento de mobilidade urbana e áreas de lazer coletivo que atendam, em primeiro plano, à qualidade de vida das pessoas, todavia, não se está diante de urgência que justifique a suplantação do escorreito procedimento legal na justa e correta avaliação do bem para fins de depósito prévio. (fls. 227-228, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
