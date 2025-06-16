@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/06/2025 a 16/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  CARTÃO  DE  CRÉDITO.  DEVER  DE  INFORMAÇÃO.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  revisão  da  matéria  referente  ao  cumprimento  do  dever  de  informação  demanda  a  análise  da  interpretação  de  cláusulas  contratuais  e  do  conjunto  fático-probatório,  atraindo  a  incidência  dos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  ALCINO  FRANCO  DE  MOURA  JÚNIOR  contra  a  decisão  que  inadmitiu  o  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  assim  ementado:
+"APELAÇÃO.  CONTRATO  DE  CARTÃO  DE  CRÉDITO  CONSIGNADO.  REENQUADRAMENTO.  CRÉDITO  CONSIGNADO.  PRINCÍPIO  DA  BOA-FÉ.  PRINCÍPIO  DA  TRANSPARÊNCIA/INFORMAÇÃO.  DISPOSIÇÕES  CONTRATUAIS  CLARAS  E  OBJETIVAS.  DESTAQUE  EXISTENTE.  FÁCIL  COMPREENSÃO.  CIÊNCIA  DO  AUTOR  QUANTO  AO  TIPO  DE  CONTRATO.  IMPROCEDENCIA  DO  PEDIDO.  Toda  contratação  deve  observar  a  boa-fé,  tanto  nas  tratativas  preliminares,  quanto  na  celebração  e  em  seu  cumprimento.  O  princípio  da  informação,  que  informa  toda  relação  consumerista,  trata-se  de  corolário  da  boa-fé  e  impõe  que  os  contratos  sejam  celebrados  de  maneira  clara  e  objetiva,  permitindo  ao  consumidor  a  exata  compreensão  do  que  se  está  a  contratar.  Se  o  contrato  é  redigido  em  observância  a  tal  princípio  não  se  pode  intervir  no  que  restou  livremente  pactuado  pelas  partes,  exceto  se  caracterizada  alguma  nulidade  ou  abusividade.  No  caso,  houve  devido  destaque  das  cláusulas  mais  relevantes,  as  quais  foram  redigidas  de  maneira  clara  e  objetiva,  permitindo  que  a  pessoa  tivesse  plena  ciência  do  que  estava  a  contratar.  Além  disso,  não  foi  constatado  qualquer  tipo  de  nulidade  ou  abusividade.  Assim,  não  se  pode  reenquadrar  contrato  de  cartão  de  crédito  consignado  como  crédito  consignado"  (e-STJ  fl.  239).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fl.  284).
+No  recurso  especial,  o  recorrente  alega  violação  do  art.  14  do  Código  de  Defesa  do  Consumidor  (Lei  nº  8.078/1990)  por  defender  como  ato  ilícito  a  falha  no  dever  de  informar  do  recorrido,  que  firmou  contrato  para  a  prestação  de  um  serviço,  porém  executou  outro,  sem  alertar  das  implicações  do  serviço  efetivamente  contratado,  configurando  uma  obrigação  excessivamente  onerosa.
+Após  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  CARTÃO  DE  CRÉDITO.  DEVER  DE  INFORMAÇÃO.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  revisão  da  matéria  referente  ao  cumprimento  do  dever  de  informação  demanda  a  análise  da  interpretação  de  cláusulas  contratuais  e  do  conjunto  fático-probatório,  atraindo  a  incidência  dos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+Com  efeito,  no  que  diz  respeito  à  obrigação  de  devida  informação  do  contrato,  as  conclusões  do  Tribunal  de  origem  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  da  leitura  dos  fundamentos  do  julgado  atacado,  ora  colacionados  na  parte  que  interessa:
+"(..)
+No  caso  em  estudo,  como  se  pode  extrair  da  leitura  do  contato  firmado  entre  as  partes,  houve  inegável  observância  aos  princípios  acima  elencados,  pelo  que  não  se  pode  acolher  a  tese  apresentada  pela  parte  autora  de  que  fora  induzida  a  erro,  encontrando-se  sua  emanação  de  vontade  viciada,  o  que  ensejaria  a  possibilidade  de  se  adequar  o  contrato  a  verdadeira  intenção  da  pactuação.
+Desse  modo  me  posiciono,  pois  a  própria  parte  autora  confirma  ter  recebido  o  cartão  de  crédito  e  o  valor  ter  sido  creditado  em  sua  conta,  e  a  documentação  juntada,  doc.  15,  ratifica  a  contratação  do  cartão  de  crédito  consignado  e  do  conhecimento  da  margem  em  sua  folha  de  pagamento.  Ademais,  a  tratativa  é  clara  quanto  ao  seu  objeto  e  modo  de  execução,  não  podendo  a  parte,  ante  tão  evidentes  disposições,  quer  afastá-las,  sob  a  alegação  de  que  as  entendera  de  maneira  diversa"  (e-STJ  fls.  243/244  ).
+Nesse  contexto,  não  há  como  afastar  a  incidência  das  Súmulas  nºs  5  e  7/STJ,  visto  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos  e  a  interpretação  de  cláusula  contratual,  procedimentos  inviáveis  ante  a  natureza  excepcional  da  via  eleita.
+A  propósito:
+"RECURSO  ESPECIAL.  CIVIL  E  CONSUMIDOR.  AÇÃO  DECLARATÓRIA.  NULIDADE  DE  CONTRATO.  EMPRÉSTIMO  PESSOAL.  CARTÃO  DE  CRÉDITO.  DEVER  DE  INFORMAÇÃO.  ABALO  MORAL.  REVISÃO.  INVIABILIDADE.  CLAÚSULAS  CONTRATUAIS.  INTERPRETAÇÃO.  FATOS  E  PROVAS.  REEXAME.  SÚMULAS  Nº  5  E  7  DO  STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  RESTITUIÇÃO  EM  DOBRO.  ART.  42  DO  CDC.  MÁ-FÉ.  DISPENSA.  BOA-FÉ  OBJETIVA.  ENTENDIMENTO.  CORTE  ESPECIAL.  EFEITOS.  MODULAÇÃO.
+1.  O  acolhimento  da  pretensão  recursal  para  reconhecer  o  efetivo  cumprimento  do  dever  de  informação  e  para  rever  a  presença  dos  elementos  configuradores  do  dano  moral  demandaria  a  interpretação  de  cláusulas  contratuais  e  o  revolvimento  do  acerco  fático-probatório  dos  autos,  vedados  pelas  Súmulas  nºs  5  e  7  do  STJ.
+2.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+3.  Conforme  o  entendimento  da  Corte  Especial,  "a  repetição  em  dobro,  prevista  no  parágrafo  único  do  art.  42  do  CDC,  é  cabível  quando  a  cobrança  indevida  consubstanciar  conduta  contrária  à  boa-fé  objetiva,  ou  seja,  deve  ocorrer  independentemente  da  natureza  do  elemento  volitivo".
+4.  A  aplicabilidade  da  referida  orientação  foi,  contudo,  modulada  para  que  incida  apenas  nas  cobranças  indevidas  realizadas  após  30/3/2021.
+5.  Recurso  especial  parcialmente  conhecido  e,  nessa  extensão,  provido"  (REsp  2.196.064/BA,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  31/3/2025,  DJEN  de  4/4/2025  -  grifou-se).
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  os  honorários  sucumbenciais  fixados  pelas  instâncias  ordinárias,  devidos  pelo  ora  recorrente,  devem  ser  majorados  para  R$  1.500,00  (mil  e  quinhentos  reais),  atualizados  desde  o  arbitramento  na  origem,  observado  o  benefício  da  gratuidade  da  justiça.
+  É  o  voto.
