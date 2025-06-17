@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Dosimetria da pena. Desproporcionalidade. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ. Os agravantes foram condenados pela prática dos delitos descritos no artigo 121, §2º, incisos I, III e IV, e art. 211, ambos do Código Penal, com penas fixadas em 19 anos e 6 meses e 17 anos e 6 meses de reclusão, respectivamente, após reavaliação em segunda instância.
+2. No recurso especial, os agravantes alegam violação ao artigo 59 do Código Penal, argumentando que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, configurando desproporcionalidade na dosimetria da pena. O recurso especial foi inadmitido com base na Súmula n. 7 do STJ, por demandar revolvimento fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a dosimetria da pena, ao considerar elementos inerentes ao tipo penal para negativação dos vetores, configura desproporcionalidade que justifique a revisão da pena em sede de recurso especial.
+III. Razões de decidir
+4. A dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, devendo ser realizada de acordo com os parâmetros preestabelecidos pelo legislador. A revisão excepcional da dosimetria só cabe quando evidenciada flagrante ilegalidade ou desproporcionalidade, o que não se identifica no caso.
+5. A desconstituição da conclusão das instâncias de origem sobre a legalidade e proporcionalidade da exasperação da pena-base demandaria revolvimento de matéria fático-probatória, vedado em recurso especial pela Súmula 7 do STJ.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar a insatisfação com a decisão questionada.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A dosimetria da pena realizada pelas instâncias ordinárias só pode ser revista em sede de recurso especial quando evidenciada flagrante ilegalidade ou desproporcionalidade. 2. A pretensão de reexame de prova não enseja recurso especial, conforme Súmula 7 do STJ".
+Dispositivos relevantes citados: Código Penal, art. 59; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2483375 MT, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 03.09.2024; STJ, AgRg no REsp 2.100.067/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 06.08.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WESLLEY MATEUS PEREIRA DOS SANTOS e LUCAS WELLINGTON PEREIRA DOS SANTOS contra decisão que não conheceu do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Consoante se extrai dos autos, os agravantes foram condenados pela prática do delito descrito no artigo 121, §2º, incisos I, III e IV, e art. 211, ambos do Código Penal. Na individualização das penas, WESLLEY MATEUS PEREIRA DOS SANTOS, ficou fixada à pena de, 17 (dezessete) anos de reclusão e de LUCAS WELLINGTON PEREIRA DOS SANTOS, 15 (quinze) anos e 03 (três) meses de reclusão em regime inicial fechado (fls. 419-436).
+Em segunda instância, o Tribunal de origem, por unanimidade, deu parcial provimento à apelação interposta pelo MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS, para adequar a dosimetria das reprimendas após a valoração negativa das circunstâncias do crime, nos seguintes termos: ao Apelado WESLLEY MATEUS PEREIRA DOS SANTOS, fixar pena definitiva de 19 (dezenove) anos e 6 (seis) meses de reclusão; ao Apelado LUCAS WELLINGTON PEREIRA DOS SANTOS, fixar pena definitiva de 17 (dezessete) anos e 6 (seis) meses de reclusão, ambos em regime inicial fechado, pela prática do delitos descritos nos artigos 121, § 2º, incisos I, III e IV, e 211, do Código Penal, mantendo inalterados os demais termos da sentença condenatória (fls. 569-570).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alega violação ao artigo 59 do Código Penal, alegando, em suma, que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, o que configuraria desproporcionalidade na dosimetria da pena.
+Apresentadas as contrarrazões (fls. 601-606), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 7 do STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fls. 612-615).
+Nas razões do agravo em recurso especial se postula o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 625-639).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial (fls. 662-666).
+Decisão que não conheceu do agravo em recurso especial (fls. 669-672).
+No agravo regimental (fls. 683-691), o Defesa reitera os argumentos expostos no recurso especial, aduzindo que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, o que configuraria desproporcionalidade na dosimetria da pena.
+Por manter a decisão, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Dosimetria da pena. Desproporcionalidade. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ. Os agravantes foram condenados pela prática dos delitos descritos no artigo 121, §2º, incisos I, III e IV, e art. 211, ambos do Código Penal, com penas fixadas em 19 anos e 6 meses e 17 anos e 6 meses de reclusão, respectivamente, após reavaliação em segunda instância.
+2. No recurso especial, os agravantes alegam violação ao artigo 59 do Código Penal, argumentando que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, configurando desproporcionalidade na dosimetria da pena. O recurso especial foi inadmitido com base na Súmula n. 7 do STJ, por demandar revolvimento fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a dosimetria da pena, ao considerar elementos inerentes ao tipo penal para negativação dos vetores, configura desproporcionalidade que justifique a revisão da pena em sede de recurso especial.
+III. Razões de decidir
+4. A dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, devendo ser realizada de acordo com os parâmetros preestabelecidos pelo legislador. A revisão excepcional da dosimetria só cabe quando evidenciada flagrante ilegalidade ou desproporcionalidade, o que não se identifica no caso.
+5. A desconstituição da conclusão das instâncias de origem sobre a legalidade e proporcionalidade da exasperação da pena-base demandaria revolvimento de matéria fático-probatória, vedado em recurso especial pela Súmula 7 do STJ.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar a insatisfação com a decisão questionada.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A dosimetria da pena realizada pelas instâncias ordinárias só pode ser revista em sede de recurso especial quando evidenciada flagrante ilegalidade ou desproporcionalidade. 2. A pretensão de reexame de prova não enseja recurso especial, conforme Súmula 7 do STJ".
+Dispositivos relevantes citados: Código Penal, art. 59; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2483375 MT, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 03.09.2024; STJ, AgRg no REsp 2.100.067/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 06.08.2024.
+VOTO
+O agravo não reúne condições de prosperar.
+Tal como relatado, o agravante requer, em suma, a reconsideração da decisão agravada, para reformá-la, ao argumento de que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, o que configuraria desproporcionalidade na dosimetria da pena.
+Contudo, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas neste recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 669-672. Ao contrário, os argumentos ali externados merecem ser ratificados.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com a decisão ora questionado, na tentativa de rediscutir a matéria.
+A propósito, confira-se o seguinte trecho da decisão impugnada:
+"(..) Conforme relatado, o recurso especial foi inadmitido pelo Tribunal a quo em razão da ausência de fundamentação, nos termos do artigo 1.029 do Código de Processo Civil, bem como em virtude da aplicação da Súmula n. 7 do STJ.
+No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+De fato, a Defesa, nas razões de fls. 625/639, em uma breve explanação, em síntese, quanto a incidência da Súmula n. 7 do STJ, alegou que "Destarte, no caso vertente não há que se aplicar a súmula 07 do STJ como lastro jurídico para inadmitir o Recurso Especial, tudo conforme esposados no bojo do recurso excepcional. Ademais, a CONTRARIEDADE À LEI FEDERAL encontra-se evidentemente demonstrada já que o TJTO ao promover a reanálise da sentença, majorou a pena dos Agravantes, considerando desfavoráveis as circunstâncias judiciais relativas às circunstâncias do crime. Sabe-se que a rediscussão da dosimetria da pena, em qualquer de suas fases, não implica reexame de prova, sendo, portanto, matéria de direito, podendo ser reconhecida de ofício por esta Corte Superior de Justiça." (fl. 631), além de repisar os argumentos apresentados no recurso especial.
+No entanto, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu."
+A dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, devendo ser realizada de acordo com os parâmetros preestabelecidos pelo legislador. Assim, eventual revisão excepcional da dosimetria da pena só cabe a esta Corte Superior quando evidenciada flagrante ilegalidade na fundamentação ou desproporcionalidade no seu cálculo, o que não se identifica no caso em tela.
+Além disso, a desconstituição da conclusão a que chegaram as instâncias de origem - soberanas na análise de fatos e provas - da legalidade e proporcionalidade da exasperação da pena-base dos agravantes, demandaria, necessariamente, aprofundado revolvimento de matéria fático probatória, providência vedada em sede de recurso especial
+Assim, reafirmo que a pretensão defensiva esbarra no óbice da Súmula 7, do STJ.
+ Além dos precedentes anteriormente citados, trago mais este:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE HOMICÍDIO CULPOSO NO TRÂNSITO. OFENSA À NORMA CONSTITUCIONAL. INVIABILIDADE. AUSÊNCIA DE VIOLAÇÃO DO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. EXISTÊNCIA DE PROVAS JUDICIAIS E EXTRAJUDICIAIS. CONTRADITÓRIO DIFERIDO. POSSIBILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à ofensa ao art . 5º, LV, do CF/88, referente ao alegado cerceamento de defesa, " ..  tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais" (AgRg no AREsp 1072867/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/4/2018).
+2. Não há falar em violação do art . 155 do CPP, pois a prova utilizada para a condenação do agravante não deriva exclusivamente dos elementos colhidos na fase extrajudicial, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório.
+3. Esta Corte entende que documentos produzidos na fase inquisitorial, por se sujeitarem ao contraditório diferido, podem ser utilizados como fundamento para a prolação de sentença condenatória, sem que tal procedimento implique ofensa ao disposto no art. 155 do CPP.
+4. Foram arrolados elementos concretos e não inerentes ao tipo penal para exasperação da pena-base, cuja avaliação está situada no campo da discricionariedade do julgador, não havendo falar em erro ou ilegalidade da dosimetria. Com efeito, a circunstância referente à embriaguez do agente não corresponde a elementar do delito tipificado no art. 302 da Lei n . 9503/93 (homicídio culposo no trânsito), não havendo falar em inidoneidade da fundamentação para elevação da pena-base.
+5. Ademais, "Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial"(AgRg no AREsp n. 1.598.714/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020).
+6. Agravo regimental desprovido."
+(STJ - AgRg no AREsp: 2483375 MT 2023/0383759-6, Relator.: Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 03/09/2024, T5 - QUINTA TURMA, Data de Publicação: DJe 06/09/2024)
+Em sendo assim, não comporta reparo a decisão agravada que manteve o acórdão impugnado, entendendo  devidamente  fundamentada  pelo  Tribunal  de  origem,  de vez que tal entendimento está em conformidade com a posição sedimentada nesta Corte Superior.
+Desse modo, dado que não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, mantenho-a por seus próprios fundamentos.
+Ilustrativamente:
+"DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. MODULAÇÃO DA FRAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA INSERTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA. POSSIBILIDADE. FUNDAMENTO IDÔNEO. NÃO UTILIZAÇÃO NA PRIMEIRA FASE DA DOSIMETRIA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão recorrida por seus próprios fundamentos.
+II - No caso, o agravante não impugnou de forma adequada e suficiente os fundamentos da decisão recorrida, pois ser limitou a reiterar a tese jurídica apresentada nas razões do recurso especial no sentido de que a aplicação da causa especial de diminuição de pena relativa ao tráfico privilegiado não teria sido idônea, vez que quantidade que extrapola a gravidade ínsita ao tipo penal a justificar a aplicação do redutor legal não patamar mínimo de um sexto apenas".
+III - Não comporta reparo a decisão agravada que manteve o acórdão impugnado, entendendo devidamente modulada a aplicação da minorante pelo Tribunal de origem, tendo em vista a utilização da quantidade de droga, circunstâncias do caso concreto, para amparar a conclusão a que se chegou na origem sobre a modulação do redutor.
+Agravo regimental desprovido" (STJ - AgRg no REsp 2.100.067/SP, de minha relatoria, Data de Julgamento: 06/08/2024, Quinta Turma, DJe 13/08/2024, grifei).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
