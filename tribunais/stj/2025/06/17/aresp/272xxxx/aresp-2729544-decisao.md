@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da inexistência de ofensa ao art. 1.022 do CPC/2015, inviabilidade de debate de questão constitucional e incidência da Súmula 211 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 69):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REQUISIÇÃO DE PEQUENO VALOR (RPV). ALTERAÇÃO DO PARÂMETRO QUANTITATIVO (TETO). APLICAÇÃO DA LEI NO TEMPO. LEI DISTRITAL N.º 6.618/2020. IRRETROATIVIDADE. TEMA N.º 792 DO STF. INCONSTITUCIONALIDADE FORMAL. VÍCIO INICIATIVA. ART. 949, PARÁGRAFO ÚNICO, CPC. DECISÃO MANTIDA.
+1. Agravo de instrumento interposto contra decisão que declarou incidentalmente a inconstitucionalidade formal (vício de iniciativa) da Lei Distrital n.º 6.618/2020 e, como consequência, indeferiu o pedido de expedição de RPV no patamar de 20 salários mínimos (limitando o pagamento ao teto de 10 salários mínimos previsto na Lei Distrital n.º 3.624/2005).
+2. O Supremo Tribunal Federal, debruçando-se sobre a eficácia temporal de normas que versam sobre alterações dos critérios de submissão de crédito ao sistema de precatórios, firmou a inaplicabilidade da lei nova às situações já constituídas (conforme RE n.º 729.107/DF - Tema n.º 792).
+3. Não incide a Lei Distrital n.º 6.618/2020, que aumentou o parâmetro quantitativo para pagamento das Requisições de Pequeno Valor (RPV), quando o crédito foi constituído em momento anterior à sua vigência.
+4. Ademais, padece a Lei Distrital n.º 6.618/2020 de inconstitucionalidade formal por vício de iniciativa, visto tratar de matéria envolvendo orçamento público, de competência privativa do Governador do Distrito Federal, nos termos do art. 71, §1º, V, e art. 100, XVI, da LODF. Em situação comparável: ADI n.º 2015.00.2.014329-8 e n.º 2015.00.2.015077-2 julgadas procedente pelo Conselho Especial do TJDFT, declarando a inconstitucionalidade formal da Lei n.º 5.475/2015 por vício de iniciativa (incidência do artigo 949, parágrafo único, do CPC).
+5. Recurso conhecido e desprovido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa aos artigos 6º da LINDB e 14 do CPC/2015, ao fundamento de que o Tribunal de origem não deu aplicabilidade imediata à Lei Distrital nº 6.618/2020, que teria caráter processual, e, portanto, deveria ser aplicada, de forma imediata, para fins de expedição de requisição de pequeno valor referente ao crédito do recorrente.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 1.022, II, do CPC/2015 e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A controvérsia relativa à alegada violação dos artigos artigo 14 do CPC/2015 e 6º da LINDB foi dirimida com fundamento constitucional, especificamente com base no Tema 792 do STF (fls. 69-84), de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido, com destaques apostos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. ART. 207 DO CÓDIGO CIVIL. ARGUMENTAÇÃO DEFICIÊNTE. SÚMULA 284/STF. ART. 6º DA LINDB. CONTEÚDO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. VIOLAÇÃO DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECADÊNCIA PARA IMPETRAÇÃO DO MANDADO DE SEGURANÇA. REVISÃO. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois a parte recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Evidencia-se a deficiência na fundamentação recursal quando a parte recorrente indica os artigos de lei federal que teriam sido violados, mas não desenvolve argumentação suficiente a fim de demonstrar como a Corte de origem teria malferido tais dispositivos.
+Essa situação caracteriza deficiência na argumentação recursal e atrai, por analogia, o óbice da Súmula 284/STF.
+4. A jurisprudência do STJ tem firme posicionamento no sentido de que é inviável o conhecimento do recurso especial por violação do artigo 6º da LINDB, porque os princípios contidos no dispositivo mencionado (direito adquirido, ato jurídico perfeito e coisa julgada), apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes.
+5. Rever a conclusão a que chegou o Tribunal de origem quanto à não ocorrência de violação da coisa julgada demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+6. A alteração da conclusão adotada na instância ordinária quanto ao transcurso do prazo decadencial para impetrar o mandado de segurança, com o objetivo de acolher a pretensão recursal, demandaria, necessariamente, o revolvimento do conjunto fático probatório dos autos, o que é vedado por força da Súmula 7/STJ.
+7. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.461.191/AM, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ARTIGO 1.022, II, DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. OFENSA AOS ARTIGOS 6º DA LINDB E 14 DO CPC/2015. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
