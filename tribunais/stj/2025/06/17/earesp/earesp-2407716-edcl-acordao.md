@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 11/06/2025 a 17/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS EM AGRAVO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com o que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos Pronto Clínica Centro Médico contra acórdão, assim ementado (fl. 872):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO DA QUESTÃO EM QUE SE ALEGA DIVERGÊNCIA. DESCABIMENTO DO RECURSO. SÚMULA 315/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. São incabíveis embargos de divergência quando o acórdão embargado não analisa o mérito do recurso especial, em razão da incidência das Súmulas 5 e 7/STJ e 283/STF, o que atrai o enunciado da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Precedentes.
+3. Agravo interno não provido.
+A parte embargante alega, em resumo, que a decisão embargada é omissa quanto à efetiva apreciação do mérito do recurso especial, uma vez que a Segunda Turma do STJ teria analisado o mérito ao concluir que não houve violação ao art. 72 da Lei nº 8.666/93. Defende não ser caso de aplicação da Súmula 315/STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS EM AGRAVO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com o que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Destaca-se que o acórdão embargado resolveu a controvérsia de forma clara e fundamentada, no sentido de que os embargos de divergência são incabíveis, na medida em que, diferentemente do alegado pelo agravante, o acórdão atacado não analisou o mérito do recurso especial, tendo claramente aplicado as Súmulas 5 e 7/STJ e 283/STF, sendo, portanto, inafastável ao caso a incidência da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Para tanto, adotou-se a seguinte fundamentação (fl. 876/877):
+Como relatado, o agravante se insurge contra decisão da Presidência desta Corte que indeferiu liminarmente os embargos de divergência, a teor da Súmula 315/STJ.
+Nos termos do artigo 1.043 do CPC/2015, os embargos de divergência têm por objetivo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários nas seguintes hipóteses: sendo os acórdãos, embargado e paradigma, de mérito (inciso I); ou sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia (inciso II).
+Ocorre que, no caso dos autos, o mérito do recurso especial não foi julgado no acórdão embargado, que aplicou as Súmulas 5 e 7/STJ e 283/STF, conforme se pode inferir do seguinte excerto de sua fundamentação (fls. 797/798):
+Registra-se que a controvérsia tratada nos autos foi decidida pelo Tribunal de origem soberanamente com análise das cláusulas pactuadas no instrumento contratual e demais provas dos autos, constatando que havia previsão em cláusula contratual de que a recorrente não poderia transferir o presente contrato a terceiros, no todo ou em parte, sem prévia anuência expressa da Contratante, sob pena de rescisão contratual, concluindo que se tratava de infração de gravidade extrema, que viola a própria licitação, e não se convalida por suposta inércia da Administração.
+Assim, observa-se que o julgado atrela-se ao contexto fático- probatório da causa e, para admitir entendimento contrário conforme a pretensão recursal, necessário que se adote o mesmo procedimento, de modo que se conclui que a agravante busca na verdade o reexame de fatos e provas e não sua revaloração, com o fim de, então, prevalecer, para efeito de rejulgamento da causa em seu benefício, matéria que a mim parece escapar do âmbito do recurso especial diante do teor das Súmulas 5 e 7 do STJ.
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+Não obstante as razões recursais, observa-se que a fundamentação do acórdão no sentido de que se tratou de infração de gravidade extrema que viola a própria licitação, e que não há convalidação por suposta inércia da Administração -, não foi impugnada de modo adequado no presente recurso. Aplica-se, por analogia, o disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Dessa forma, como bem observado pela Presidência do Superior Tribunal de Justiça - STJ, o não cabimento dos embargos de divergência parece cristalino, porquanto o acórdão embargado não analisou o mérito do recurso especial, atraindo, assim, o enunciado da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
