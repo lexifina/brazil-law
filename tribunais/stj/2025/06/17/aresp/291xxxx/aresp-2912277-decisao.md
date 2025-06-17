@@ -1,0 +1,63 @@
+DECISÃO
+LAÉCIO LUIZ GOMES DE OLIVEIRA agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará na Apelação Criminal n. 0009879-47.2014.8.06.0115.
+O agravante foi condenado a 5 anos de reclusão mais multa, no regime inicial semiaberto, pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação do art. 33, § 4º, da Lei de Drogas.
+Requer a desclassificação da conduta ante a ausência de comprovação da mercancia ilícita ou a incidência da minorante do tráfico privilegiado.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal, no parecer da Subprocuradora-Geral da República Samantha Chantal Dobrowolski, manifestou-se pela concessão de habeas corpus de ofício para que o acusado seja absolvido ou desclassificada a conduta para porte de drogas para uso pessoal. Caso não acolhido o pleito, postula pelo provimento do recurso a fim de aplicar a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Desclassificação - possibilidade
+O Ministério Público Federal, no parecer da Subprocuradora-Geral da República Samantha Chantal Dobrowolski, postulou pela concessão de habeas corpus de ofício para que seja desclassificada a conduta.
+Analisando os argumentos da manifestação ministerial, assiste razão ao Ministério Público.
+O cerne da controvérsia cinge-se a saber se a conduta perpetrada pelo recorrente se amolda ao tipo previsto no art. 28, caput, da Lei n. 11.343/2006 ou ao delito de tráfico de drogas (art. 33, caput, da mesma lei).
+Não se desconhece o entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível nesta via recursal, a teor do que estabelecido na Súmula n. 7 do STJ.
+Decerto que, no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+Na espécie, contudo, entendo que as instâncias ordinárias não apontaram elementos suficientes para concluir pela prática do delito de tráfico de drogas, senão vejamos.
+O Tribunal de origem manteve a condenação do réu pelo delito de tráfico de drogas, com base nos seguintes fundamentos (fls. 393-395, grifei):
+De acordo com a preambular acusatória (fls. 2-5), o recorrente, Laércio Luiz Gomes de Oliveira, no dia 29 de janeiro de 2014, em cumprimento de mandado de busca e apreensão, foi preso em flagrante em razão de ter sido encontrado por policiais militares na posse de 8 (oito) gramas de crack, fracionados em 12 (doze) pedras pequenas e 2 (duas) grandes, 6,2 (seis vírgula dois) gramas de cocaína, divididos em 9 (nove) pequenas porções e 2 (duas) porções maiores, uma balança de precisão e diversos saquinhos de "dindim", além de R$ 412,75 (quatrocentos e doze reais e setenta e cinco centavos), relógios, telefones celulares, notebook, câmeras digitais, televisão e uma motocicleta.
+Adamex Ferreira e Silva, policial militar, relatou que, no dia dos fatos, cumpriram mandados de busca e apreensão e que encontraram no local crack e cocaína.
+Relatou ainda que já tinha conhecimento de denúncias contra o apelante e que foram apreendidos saquinhos plásticos e outros objetos.
+Outro policial militar, Enemias Barros da Silva, disse que, em posse de mandado de busca, foram à residência do apelante, onde encontraram papelotes de cocaína e crack, além de embalagens, tipo saquinhos de "dindim".
+Linardo Melo Lima, também policial militar, afirmou que foram dar apoio para cumprir mandado de busca na casa do apelante e que encontraram drogas. Afirmou ainda que as drogas já estavam fracionadas.
+Silvelena da Silva Costa, esposa do apelante e também denunciada, disse que as drogas encontradas eram para uso do recorrente e que chegou a encontrar os entorpecentes em determinadas ocasiões.
+Em seu interrogatório, o réu, Laércio Luiz Gomes de Oliveira, disse que era usuário de drogas e que os entorpecentes encontrados foram por ele adquiridos e eram para o seu uso pessoal nos finais de semana.
+Diante do acervo probatório, em especial dos depoimentos dos policiais ouvidos, tanto perante a autoridade policial, quanto em Juízo, não restam dúvidas acerca da autoria do crime.
+Entendo que resta devidamente demonstrada a materialidade delitiva com o auto de apreensão de fls. 19-20, bem como com os laudos periciais de fls. 24, 25, 215-216 e 219-220.
+Vale ressaltar que já existiam investigações em desfavor do apelante e que foi expedido mandado de busca e apreensão para ser cumprido em sua residência.
+Por mais que a defesa afirme que não há provas suficientes de que o acusado praticava o crime pelo qual foi denunciado, o conjunto probatório mostra-se uníssono e demasiadamente forte, apto a ensejar o decreto condenatório, tal qual fez o magistrado sentenciante.
+O material encontrado em poder do acusado, três tabletes de maconha, pesando 8 (oito) gramas de crack, fracionados em 12 (doze) pedras pequenas e 2 (duas) grandes, 6,2 (seis vírgula dois) gramas de cocaína, divididos em 9 (nove) pequenas porções e 2 (duas) porções maiores, uma balança de precisão e diversos saquinhos de "dindim", além de R$ 412,75 (quatrocentos e doze reais e setenta e cinco centavos), relógios, telefones celulares, notebook, câmeras digitais, televisão e uma motocicleta, indica que os entorpecentes seriam destinados para a comercialização. Mesmo que o apelante só guardasse as drogas, ficaria devidamente configurada a prática do crime previsto no art. 33, caput, da Lei 11.343/2006, assim descrita:
+ ..
+A versão dos fatos apresentada pelo apelante em Juízo é pouco crível, não restando dúvidas de que ele praticava crime de tráfico de drogas.
+Pleiteou a defesa pela desclassificação do crime para o previsto no art. 28 da Lei 11.343/2006.
+ ..
+Ocorre que, conforme já dito anteriormente, não restam dúvidas de que o apelante estava praticando o tráfico de drogas, tendo em vista o acervo probatório que consta nos autos.
+Não há como acolher a tese defensiva no sentido de desclassificar o crime para o previsto no art. 28 da Lei 11.343/2006.
+O material encontrado em poder do acusado, como já exposto, indica que os entorpecentes seriam destinados para a comercialização.
+As provas colhidas nos autos não indicam que as drogas apreendidas seriam para o uso pessoal do recorrente, haja vista a quantidade e variedades das drogas, já fracionadas, que não é compatível com o uso pessoal, e também não existirem provas de que ela seria somente para uso próprio do apelante.
+Entendo que o apelante se enquadra como usuário-traficante.
+É imperioso o registro de que a Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (n. 6.368/1976) - e que continua na legislação atual.
+Não por outro motivo, a prática nos tem evidenciado que a concepção expansiva da figura de quem é traficante acaba levando à inclusão, nesse conceito, de cessões altruístas, de consumo compartilhado, de aquisição de drogas em conjunto para consumo próprio e, por vezes, até de administração de substâncias entorpecentes para fins medicinais.
+No caso, conforme visto, as instâncias ordinárias concluíram pela condenação do réu em relação à prática do crime de tráfico de drogas, com fundamento, basicamente, nos seguintes argumentos: a) no local da prisão, há ocorrências de tráfico de drogas; b) foram encontradas as drogas com o réu.
+No entanto, embora houvesse ocorrências de tráfico de drogas no local da abordagem, não se tratava, especificamente nesse caso, de averiguação de denúncia robusta e atual acerca da prática de tráfico de drogas pelo réu.
+Verifico, ainda, que a quantidade de drogas encontrada (8 g de crack e 6,2 g de cocaína) foi bastante reduzida e perfeitamente compatível com o mero uso de entorpecentes. Ademais, em nenhum momento, o acusado foi pego vendendo, expondo à venda ou oferecendo drogas a terceiros; ou seja, ele não foi encontrado, na rua, em situação de traficância.
+Diante de tais considerações, entendo que o Ministério Público não se desincumbiu do ônus de provar o tráfico de drogas. O que se tem dos elementos coligidos aos autos é apenas a intuição acerca de eventual traficância praticada pelo recorrente.
+Ao funcionar como regra que disciplina a atividade probatória, a presunção de não culpabilidade preserva a liberdade e a inocência do acusado contra juízos baseados em mera probabilidade, determinando que somente a certeza pode lastrear uma condenação.
+A presunção de inocência, sob tal perspectiva, impõe ao titular da ação penal todo o ônus de provar a acusação, quer a parte objecti, quer a parte subjecti. Não basta, portanto, atribuir a alguém conduta cuja compreensão e subsunção jurídico-normativa, em sua dinâmica subjetiva - o ânimo a mover a conduta - decorre de avaliação pessoal de agentes do Estado, e não dos fatos e das circunstâncias objetivamente demonstradas.
+Apenas faço a observação de que nada impede que um portador de 1 g de crack, a depender das peculiaridades do caso concreto, possa ser responsabilizado pelo delito de tráfico de drogas. Pode, evidentemente, estar travestido de usuário, até o ponto em que, contrastado pelas provas efetivamente produzidas ao longo da instrução criminal, venha a ser condenado pelo comércio espúrio.
+No entanto, no caso ora em análise, a ausência de diligências investigatórias que apontem, de maneira inequívoca, para a narcotraficância por parte do acusado evidencia o equívoco da condenação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, porque não foi o réu surpreendido comercializando droga e, portanto, a conclusão sobre sua conduta decorreu de avaliação subjetiva não amparada em substrato probatório idôneo a corroborar a acusação.
+Logo, impõe-se a desclassificação da conduta imputada ao recorrente para o delito descrito no art. 28, caput, da Lei de Drogas, conforme manifestação do Ministério Público Federal.
+Releva, por necessário, enfatizar que, especificamente no caso dos autos, a conclusão pela desclassificação da conduta imputada ao réu para o delito descrito no art. 28 da Lei n. 11.343/2006 não demanda o revolvimento de matéria fático-probatória, procedimento vedado nesta via recursal.
+O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos - já referidos linhas atrás, os quais estão delineados nos autos - e das provas que foram devidamente colhidas ao longo de toda a instrução probatória.
+Depende, ademais, da definição, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para condenar o réu pela prática do crime de tráfico de drogas.
+II. Prescrição configurada
+A desclassificação reconhecida nesta Corte enseja o reconhecimento de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva da infração prevista no art. 28 da Lei de Drogas.
+Consoante o disposto no art. 30 da Lei n. 11.343/2006, o prazo prescricional é de 2 anos.
+Logo, decorrido o aludido lapso entre o recebimento da denúncia (10/3/2014 - fl. 289) e a publicação da sentença condenatória (19/10/2023 - fl. 296), verifica-se a ocorrência da extinção da punibilidade.
+Considerando o reconhecimento da prescrição da pretensão punitiva, fica prejudicado o pleito de incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. Dispositivo
+À vista do exposto, concedo habeas corpus de ofício a fim de desclassificar a conduta imputada ao recorrente para o delito descrito no art. 28, caput, da Lei n. 11.343/2006 e, por conseguinte, decreto a extinção da punibilidade pela prescrição da pretensão punitiva.
+Determino a imediata expedição de alvará de soltura em favor do acusado se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
