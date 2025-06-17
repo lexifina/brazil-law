@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por WEMERSON RODRIGUES MACEDO contra decisão do Tribunal de Justiça de Minas Gerais de fls. 698-700, que inadmitiu o recurso especial com fundamento na Súmula n. 7 do Superior Tribunal de Justiça.
+O acórdão recorrido tratou da condenação de Wemerson Rodrigues Macedo por crimes de roubo, furto qualificado e porte ilegal de arma, com restrição de liberdade da vítima.
+A decisão rejeitou as preliminares de nulidade das provas e ausência de incidente de restituição, considerando que a apreensão de parte da res furtiva em poder dos réus e os indícios de flagrância justificavam o ingresso nas residências sem mandado judicial.
+No mérito, o tribunal manteve a condenação, destacando a suficiência das provas, incluindo o depoimento da vítima e dos policiais, para confirmar a autoria dos crimes.
+O agravante interpôs recurso especial, alegando nulidade das provas obtidas por violação de domicílio e ausência de procedimento para restituição de bens apreendidos, além de pleitear a desclassificação para receptação culposa e redução da pena. O recurso foi inadmitido, com fundamento na Súmula 7 do STJ, que veda o reexame de matéria fático-probatória.
+Diante da inadmissão do recurso especial, foi interposto agravo em recurso especial, reiterando as alegações de nulidade das provas e ausência de procedimento para restituição, além de pleitear a desclassificação para receptação culposa e aplicação do princípio da insignificância.
+O agravo busca a reforma da decisão que inadmitiu o recurso especial, visando seu processamento pelo Superior Tribunal de Justiça.
+Contraminuta apresentada (fls. 821-824).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 842-843):
+AGRAVO EM RECURSO ESPECIAL. ROUBO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. SÚMULA Nº 7 DO STJ. DOSIMETRIA DA PENA.
+1. A revisão das provas para absolver o agravante demandaria reexame fático-probatório, o que é inviável em recurso especial, conforme a Súmula 7 do STJ.
+2. Em seu recurso especial WEMERSON RODRIGUES MACEDO aduz violação alegando violação ao art. 5º, inc. XI, da CR/88, aos artigos 157 e 240, ambos do Código de Processo Penal.
+3. Sodalício Tribunal de Justiça, no que se refere à restituição das coisas apreendidas que, mesmo posteriormente ao trânsito em julgado da ação correspondente, condiciona-se à ausência de dúvida de que o requerente seja seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, conforme as exigências postas nos arts. 120, 121 e 124 do Código de Processo Penal, c/c o art. 91, II, do Código Penal.
+4. Entendimento que se coaduna com a jurisprudência do e. Tribunal da Cidadania, no sentido de que tendo a pena sido concretizada em 11 (onze) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 01 (um) ano de detenção, e 44 (quarenta e quatro) dias-multa, além de o quantum autorizar a fixação de regime mais severo, também a reincidência impossibilita o estabelecimento do regime inicial mais brando. Desse modo, inexiste ilegalidade na aplicação da reprimenda do paciente no regime inicial semiaberto. Parecer pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Decido.
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice apontado pelo Tribunal a quo para inadmitir o recurso especial, limitando-se a apontar que o presente recurso não demanda reexame de provas.
+Anoto a impugnação feita pelo agravante (fls. 801/803):
+Observe-se que a r. decisão agravada deixou de admitir o Recurso Especial interposto, em virtude da suposta incidência do impeditivo recursal inserto na Súmula 7 deste Superior Tribunal de Justiça.
+No entanto, o presente Recurso Especial submete à análise desta Corte Superior erros judiciais de natureza estritamente jurídica, os quais, pelo simples confronto entre o r. acórdão recorrido e as razões recursais, tornam-se prontamente perceptiveis ao julgador.
+Veja que, no fundamento do Recurso Especial do Agravante, constou-se, contextualmente, o panorama fático relatado nos autos - sem, de longe, esbarrar na Súmula 7 deste STJ -, com o rigor da aplicação do direito - negativa de vigência aos comandos legais: artigos 132; 157, §1 0 ; 240, §1 0 , alínea "b"; 386, inciso III, todos do CPP; artigos 33, §2 0 , alínea "b" e 59, ambos do Código Penal, em síntese, de nulidades decorrentes do procedimento de restituição de bens apreendidos, da violação de domicílio, da ausência de provas aptas à condenação, da desclassificação da conduta para o delito de receptação culposa e, por fim, da redução da pena-base, com abrandamento do regime prisional.
+Assim, o debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, importa unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada no enunciado da Súmula 07, desta Egrégia Corte.
+Acontece que esse juízo não se confunde com aquele que diz respeito à valoração dos critérios jurídicos respeitantes à utilização da prova e à formação da convicção. É preciso distinguir reexame de prova de aferição:
+1) da licitude da prova; II) da qualidade da prova necessária para a validade do ato jurídico ou III) para o uso de certo procedimento, IV) do objeto da convicção, V) da convicção suficiente diante da lei processual e VI) do direito material; VII) do ônus da prova; VIII) da idoneidade das regras de experiência e das presunções, IX) além de outras questões que antecedem a imediata relação entre o conjunto das provas e os fatos, por dizerem respeito ao valor abstrato de cada uma das provas e dos critérios que guiaram os raciocínios presuntivo, probatório e decisório. (MARINONI, Luiz Guilherme. "Reexame de prova diante dos recursos especial e extraordinário ", publicado na Revista Genesis - de Direito Processual Civil, Curitiba-número 35, págs. 1281145) (grifei).
+Nesse passo, a jurisprudência do Superior Tribunal de Justiça, constatando a complexidade na diferenciação entre matéria de fato e questão de direito, cria, então, distinção entre reexame do conjunto probatório e mera revaloração da prova, asseverando que:
+A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento. (R Esp 878.334/DF, ReI. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05.12.2006, DJ 26.02.2007 p. 639)
+Com efeito, a análise do Recurso Especial não provoca o reexame do conjunto probatório, porquanto para a conclusão da negativa de vigência à Lei Federal basta se constatar que houve violação das regras definidoras da antijuricidade da conduta no sistema penal, afastando-se a vedação contida no enunciado da Súmula nº 07 do STJ. como é o caso em análise.
+Nesse sentido, não se busca o reexame do conjunto probatório, ou nova discussão sobre as provas trazidas aos autos, uma vez que resta claro que, no presente caso, a discussão é apenas iurídica e não fática.
+Assim, a fundamentação da r. decisão recorrida não pode prosperar como manifestação última do Poder Judiciário, eis que resta nítida a presença de todos os requisitos necessários para a admissibilidade do Recurso Especial, o qual se encontra respaldado em leis, jurisprudência e princípios básicos do direito.
+Assim sendo, o Recurso Especial deve ser conhecido.
+Registra-se as razões do acórdão que inadmitiu o Recurso Especial (fls. 788-792):
+As razões recursais apontam negativa de vigência aos artigos 132, 157, §1 0 ; 240, §1 1 , alínea "b"; 386, inciso III, do Código de Processo Penal; 33, §2 1 , alínea "b", e 59, do Código Penal, discorrendo acerca de nulidades decorrentes do procedimento de restituição de bens apreendidos e da violação de domicílio; da ausência de provas aptas à condenação; da desclassificação da conduta para o delito de receptação culposa e, por fim, da redução da pena-base, com abrandamento do regime prisional.
+A parte recorrida apresentou as contrarrazões recursais.
+Inviável o seguimento do apelo.  ..
+A leitura do acórdão deixa patente que a Turma Julgadora resolveu a controvérsia considerando aspectos que são específicos da presente demanda e de seu processado.
+Dessa maneira, a pretensão esbarra na finalidade constitucional do recurso manejado que, como cediço, afasta-se das especificidades de cada caso para manter-se focado exclusivamente em questões federais - vale dizer, não é sua função rever das particularidades de cada litígio e seus fatos processuais. Para hipóteses como esta, editou-se a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+E, mais, o acórdão está amparado pela jurisprudência da Corte de destino, conforme ilustram os seguintes precedentes:  ..
+Acrescenta-se que somente seria possível infirmar a decisão condenatória se o Tribunal ad quem procedesse á reapreciação dos fatos e provas dos autos e chegasse a conclusões diversas da Turma Julgadora. Contudo, consabido que a instância ordinária é soberana na análise das provas dos autos, é vedado seu reexame em sede dos apelos excepcionais ante os termos da Súmula 7/STJ, acima transcrita.
+Por fim, ressalta-se que a individualização da pena é feita através da conjugação dos parâmetros abstratamente cominados pela lei com os elementos do caso concreto. Nesse contexto, não é possível a análise das matérias suscitadas pela parte recorrente sem incursão no acervo fático-probatório dos autos. Incide, pois, a Súmula 7/STJ.
+Destarte, diante da situação fática e do direito aplicável à espécie, a egrégia Câmara Julgadora deu às questões interpretação não apenas razoável, mas própria e fundamentada, que não pode ser apontada como ofensiva pelo recurso extremo.
+Diante do exposto, inadmito o recurso especial, com fundamento no artigo 1.030, inciso V, do Código de Processo Civil.
+Nos termos da jurisprudência deste Superior Tribunal, "para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal" (AgRg no AREsp n. 1.823.881/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão agravada, notadamente a incidência das Súmulas 7 e 518 do STJ e a não comprovação de dissídio jurisprudencial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante apresentou impugnação específica e suficiente para afastar os fundamentos da decisão agravada, especialmente no que tange à incidência das Súmulas 7 e 518 do STJ.
+3. Outra questão em discussão é a alegação de violação à Súmula Vinculante 11 do STF, em razão do uso de algemas sem justificativa, e a nulidade da busca veicular por ausência de justa causa e fundada suspeita.
+III. Razões de decidir
+4. O agravante não apresentou argumentos novos ou específicos capazes de infirmar a decisão agravada, mantendo-se incólumes os fundamentos relativos à incidência das Súmulas 7 e 518 do STJ.
+5. A impugnação genérica apresentada pelo agravante não atende ao requisito de dialeticidade recursal, conforme exigido pelo art. 932 do CPC/2015 e pela Súmula 182 do STJ.
+6. A ausência de cotejo analítico para demonstrar a similitude fática entre os julgados confrontados inviabiliza a análise do dissídio jurisprudencial alegado.
+7. O recurso especial não é via adequada para análise de eventual ofensa a enunciado sumular, conforme a Súmula 518 do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A impugnação genérica não atende ao requisito de dialeticidade recursal exigido pelo art. 932 do CPC/2015. 2. O recurso especial não é via adequada para análise de eventual ofensa a enunciado sumular, conforme a Súmula 518 do STJ."
+Dispositivos relevantes citados: CPC/2015, art. 932; CR/1988, art. 105, III, a.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1789363/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 02/02/2021; STJ, AgRg no AREsp n. 1.900.135/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022; STJ, AgRg nos EDcl no AREsp n. 1.996.126/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 8/3/2022.
+(AgRg no AREsp n. 2.814.725/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+Com efeito, o agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência do óbice da Súmula n. 7 do STJ.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Assim, incide, por analogia, a Súmula 182 do STJ, segundo a qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
