@@ -1,0 +1,39 @@
+DECISÃO
+RAFAEL LIMA DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas na Apelação Criminal n. 0701115-15.2023.8.02.0022.
+Consta dos autos que o paciente foi condenado pelo crime previsto no art. 121, § 2º, I e IV, do Código Penal, à pena de 21 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado.
+A defesa pretende, em síntese, seja reconhecida a nulidade do acórdão de apelação, em razão de omissão, ou, alternativamente, a nulidade da decisão de pronúncia.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do writ ou pela denegação da ordem (fls. 685-690).
+Decido.
+Sustenta a defesa que o acordão de apelação foi omisso na análise dos argumentos acerca da inadmissibilidade de utilização de elementos inquisitoriais como fontes únicas da prova da autoria. Argumenta, ainda, que a pronúncia e a condenação do paciente se deram apenas com base em provas extrajudiciais.
+Sobre as questões aduzidas, a Corte de origem assim se pronunciou (fls. 18-26):
+ ..
+09. A defesa, em suas razões recursais, pugnou pela cassação do decisum impugnado, sustentando que o veredicto do Conselho de Sentença seria manifestamente contrário às provas produzidas nos autos, sendo baseado somente na confissão do acusado em sede de inquérito policial.
+10. Inicialmente, é importante destacar que o Tribunal do Júri encontra previsão constitucional no art. 5º, XXXVIII, e é destinado ao julgamento dos crimes dolosos contra a vida, sendo assegurados a plenitude de defesa, o sigilo das votações e a soberania dos veredictos. Nesse sentido, o Código de Processo Penal deliberou acerca do assunto a partir do art. 406, estabelecendo todo o rito e as particularidades do procedimento.
+11. Sendo assim, considerando o princípio da soberania dos veredictos, resta a esta instância, tão somente, analisar a legalidade das decisões, nos termos do art. 593, III, do CPP, abstendo-se de emitir qualquer juízo de valor acerca do caso, in verbis:
+Art. 593. Caberá apelação no prazo de 5 (cinco) dias:
+ ..
+III - das decisões do Tribunal do Júri, quando:
+a) ocorrer nulidade posterior à pronúncia;
+b) for a sentença do juiz-presidente contrária à lei expressa ou à decisão dos jurados;
+c) houver erro ou injustiça no tocante à aplicação da pena ou da medida de segurança;
+d) for a decisão dos jurados manifestamente contrária à prova dos autos.
+12. Portanto, não cabe a esta Corte ad quem proclamar resultado diverso daquele prolatado pelo Conselho de Sentença, na medida em que os Jurados possuem ampla margem para acolher, dentre as teses que lhe foram apresentadas, a que lhes parecer mais pertinente. Assim sendo, o exame deste Órgão Colegiado deve ficar adstrito à compatibilidade do conjunto probatório com o veredicto, sob pena de usurpar competência do Tribunal do Júri.
+13. No caso dos autos, segundo a denúncia, o órgão Ministerial imputou ao apelante a prática do crime de homicídio qualificado por motivo torpe e pela utilização de recurso que impossibilitou a defesa da vítima (art. 121, §2º, I e IV do Código Penal). Nesse sentido, houve o reconhecimento, pelo Tribunal do Júri, da materialidade e autoria de ambos os delitos imputados.
+14. Nesse sentido, após detida análise dos autos, não vislumbra-se manifesta incompatibilidade entre a decisão dos jurados e os elementos probatórios produzidos ao longo da instrução, tendo sido estes devidamente apresentados aos jurados durante a sessão plenária, conforme ata de audiência de fls. 507/512, suficientemente capazes de formar seu convencimento, segundo a íntima convicção, inexistindo qualquer vício neste aspecto.
+15. A respeito disso, o sistema da íntima convicção é adotado na decisão dos jurados no Tribunal do Juri, permitindo que estes avaliem as provas livremente e, por sua vez, julguem a causa com base em sua certeza moral. Com isso, visto que o Conselho de Sentença, sem conflitar manifestamente com as provas dos autos, reconheceu o réu como autor dos crimes imputados, não é permitido a este Tribunal interferir na decisão dos jurados, os quais possuem livre convencimento.
+16. Vale repetir que a este Órgão Colegiado não cabe a interpretação de provas ou sequer a sua valoração, mas sim a verificação, diante do conjunto probatório existente, da existência de provas, ainda que mínimas, para amparar a decisão proferida pelo tribunal popular, cujo veredito, constitucionalmente albergado, deverá prevalecer. A questão já fora, inclusive, alvo de precedentes desta Corte:
+ ..
+17. Portanto, a tese de julgamento contrário à prova dos autos não encontra respaldo no caso em epígrafe, na medida em que deve prevalecer a soberania dos veredictos e, no caso em comento, os jurados se filiaram a uma das versões apresentadas em plenário para o crime.
+ ..
+A decisão tomada pelos jurados, ainda que eventualmente possa não ser a mais justa ou a mais harmônica com a jurisprudência dominante, é soberana, de acordo com o disposto no art. 5º, XXXVIII, "c", da CF/88.
+Tal princípio é mitigado quando os jurados proferem decisão de forma teratológica, em manifesta contrariedade às provas colacionadas nos autos, caso em que a sentença deve ser anulada pela instância revisora, de modo a submeter o réu a novo julgamento perante seus pares.
+Conclui-se, por conseguinte, que, nessa hipótese de insurgência - decisão manifestamente contrária à prova dos autos -, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pela Corte popular. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo.
+Ademais, uma vez que não são exteriorizadas as razões que levam os jurados a decidir por eventual condenação, a submissão do acusado a julgamento pelos seus pares deve estar condicionada à produção de prova mínima e, diga-se, judicializada, na qual haja sido garantido o devido processo legal, com o contraditório e a ampla defesa que lhe são inerentes.
+Em um Estado Democrático de Direito, a ausência de qualidade probatória no contraditório é insuficiente para sustentação de qualquer convencimento contra o réu, seja para condená-lo, seja para - nos crimes dolosos contra a vida - pronunciá-lo e submetê-lo a julgamento pelo Tribunal do Júri, no qual, enfatize-se, o veredito é alcançado sem explicitação de motivos pelos juízes populares, o que incrementa o risco de condenações sem o necessário lastro em provas colhidas sob o contraditório judicial.
+No caso, em que pesem os argumentos do Tribunal de origem, observo que a matéria referente à condenação com base exclusiva em elementos de informação colhidos na fase de inquérito policial, sem a necessária ratificação em juízo, não foi exaustivamente analisada pela instância revisora.
+Com efeito, a despeito da oposição de embargos de declaração, constam da decisão tão somente argumentos genéricos para se afastar a tese defensiva da condenação exclusiva em prova inquisitorial, razão pela qual é necessário o retorno dos autos à instância de origem para que a pretensão recursal defensiva seja efetivamente analisada.
+Em tempo, registro que, como o Tribunal local não se debruçou sobre a matéria aventada, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento de imediato da tese defensiva.
+À vista do exposto, concedo parcialmente a ordem de habeas corpus para determinar ao Tribunal de origem que analise adequadamente a tese defensiva referente à suposta condenação exclusiva em elementos inquisitoriais não ratificados em juízo.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
