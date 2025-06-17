@@ -1,0 +1,2 @@
+Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que "dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente", para proibir a realização de tatuagens e a colocação de piercings em cães e gatos, com fins estéticos.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
