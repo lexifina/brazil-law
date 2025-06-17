@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Habeas corpus substitutivo de recurso próprio. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, em substituição a recurso próprio.
+2. A sentença de primeiro grau condenou o agravante pelos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, 180, caput, e 330, caput, do Código Penal, às penas de 7 anos e 8 meses de reclusão, 15 dias de detenção e 686 dias-multa, o que foi confirmado pelo Tribunal de origem.
+3. Em habeas corpus, a Defensoria Pública alegou constrangimento ilegal, sustentando que o Tribunal de Justiça do Estado de Mato Grosso do Sul, ao negar provimento ao recurso de apelação, deixou de aplicar a causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas, e manteve o regime inicial fechado, mesmo diante da primariedade e dos bons antecedentes do paciente.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio e se há ilegalidade flagrante que justifique a concessão da ordem de ofício.
+5. A questão também envolve a análise da aplicação da causa de diminuição de pena do tráfico privilegiado, considerando a primariedade e os bons antecedentes do agravante.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, conforme jurisprudência pacificada do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+7. Não se constatou ilegalidade flagrante que justifique a concessão da ordem de ofício, uma vez que o Tribunal de origem fundamentou adequadamente a negativa da aplicação do redutor do tráfico privilegiado.
+8. A desconstituição do julgado impugnado demandaria reexame fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio. 2. A negativa da aplicação do redutor do tráfico privilegiado deve ser fundamentada e não pode ser revista em habeas corpus, salvo flagrante ilegalidade".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 857.913/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 1/12/2023; STJ, AgRg no HC 863.233/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/11/2023; STJ, AgRg no HC 868.786/MS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 6/3/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS LUCAS NUNES contra decisão monocrática de minha relatoria que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+A sentença de primeiro grau condenou o agravante com o incurso nos arts. 33, caput, da Lei n. 11.343/2006, 180, caput, e 330, caput, do Código Penal, às penas de 7 (sete) anos e 8 (oito) meses de reclusão, de 15 (quinze) dias de detenção e de 686 (seiscentos e oitenta e seis dias-multa) (fls. 299-310), o que foi confirmado pelo Tribunal de origem (fls. 450-467).
+Em habeas corpus impetrado perante esta Corte Superior, a Defensoria Pública alegou constrangimento ilegal, sustentando que o Tribunal de Justiça do Estado de Mato Grosso do Sul, ao negar provimento ao recurso de apelação, deixou de aplicar a causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas, e manteve o regime inicial fechado, mesmo diante da primariedade e dos bons antecedentes do paciente. Argumentou que a quantidade de droga, por si só, não justifica o afastamento da minorante. Requereu a concessão da ordem, para que se aplicasse a causa de diminuição, fixando-se, consequentemente, o regime inicial aberto de cumprimento de pena e substituindo-se a reprimenda privativa de liberdade por restritivas de direitos (fls. 3-16).
+As informações foram prestadas (fls. 476-486).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 491-493).
+Por meio de decisão monocrática, não se conheceu do writ, pois foi impetrado como substitutivo de recurso próprio. Não se constatou, ainda, ilegalidade flagrante a ser reparada (fls. 496-499).
+A defesa interpôs o presente agravo regimental, reiterando os argumentos apresentados no habeas corpus e pugnando pela reforma da decisão agravada (fls. 508-516).
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. Habeas corpus substitutivo de recurso próprio. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, em substituição a recurso próprio.
+2. A sentença de primeiro grau condenou o agravante pelos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, 180, caput, e 330, caput, do Código Penal, às penas de 7 anos e 8 meses de reclusão, 15 dias de detenção e 686 dias-multa, o que foi confirmado pelo Tribunal de origem.
+3. Em habeas corpus, a Defensoria Pública alegou constrangimento ilegal, sustentando que o Tribunal de Justiça do Estado de Mato Grosso do Sul, ao negar provimento ao recurso de apelação, deixou de aplicar a causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas, e manteve o regime inicial fechado, mesmo diante da primariedade e dos bons antecedentes do paciente.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio e se há ilegalidade flagrante que justifique a concessão da ordem de ofício.
+5. A questão também envolve a análise da aplicação da causa de diminuição de pena do tráfico privilegiado, considerando a primariedade e os bons antecedentes do agravante.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, conforme jurisprudência pacificada do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+7. Não se constatou ilegalidade flagrante que justifique a concessão da ordem de ofício, uma vez que o Tribunal de origem fundamentou adequadamente a negativa da aplicação do redutor do tráfico privilegiado.
+8. A desconstituição do julgado impugnado demandaria reexame fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio. 2. A negativa da aplicação do redutor do tráfico privilegiado deve ser fundamentada e não pode ser revista em habeas corpus, salvo flagrante ilegalidade".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 857.913/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 1/12/2023; STJ, AgRg no HC 863.233/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/11/2023; STJ, AgRg no HC 868.786/MS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 6/3/2024.
+VOTO
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+O  habeas corpus  foi  impetrado  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Mato Grosso do Sul,  em  substituição  a  recurso  próprio.  Diante  disso, não se poderia mesmo conhecer da ação,  nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça:
+"PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  REDUTOR  DO  ART.  33,  §  4º,  DA  LEI  N.  11.343/2006.  QUANTIDADE  E  NATUREZA  DAS  DROGAS  ISOLADAMENTE.  ELEMENTOS  INSUFICIENTES  PARA  DENOTAR  A  HABITUALIDADE  DELITIVA  DA  AGENTE.  INCIDÊNCIA  NA  FRAÇÃO  MÁXIMA  (2/3).  REGIME  ABERTO.  ADEQUADO.  CONSTRANGIMENTO  ILEGAL  NÃO  CARACTERIZADO.  AGRAVO  NÃO  PROVIDO.
+1.  Esta  Corte  -  HC  535.063/SP,  Terceira  Seção,  Rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/6/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  180.365,  Primeira  Turma,  Rel.  Min.  Rosa  Weber,  julgado  em  27/3/2020;  AgR  no  HC  147.210,  Segunda  Turma,  Rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018  -,  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+ ..
+6.  Agravo  regimental  não  provido"  (AgRg  no  HC  n.  857.913/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  DJe  de  1/12/2023).
+De toda sorte, não vislumbro nenhuma ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+O acórdão impugnado manteve a absolvição do acusado no que toca à imputação da prática do delito de associação para o tráfico e, quanto à condenação por tráfico de drogas, negou a aplicação do privilégio, entendendo que o paciente se dedicava a atividades criminosas.
+Transcrevo excerto do aresto impugnado (fl. 461):
+"No caso, embora o apelante seja primário e de bons antecedentes, o modo de execução do delito narrado na denúncia, que indicou que o réu contou com o auxílio de outros indivíduos, que funcionaram como batedores, bem como a utilização de veículo de procedência ilícita, com sinais identificadores alterados para o transporte do entorpecente, aliada a vultosa quantidade de droga apreendida, mais de uma tonelada de maconha, demonstram que o réu dedica-se a atividades criminosas e isso impede o reconhecimento da redutora."
+Na hipótese, a Corte Estadual, soberana na análise dos fatos, concluiu que o paciente não era principiante no narcotráfico, devido à complexidade da empreitada delitiva, que contou com batedores e contatos frequentes com fornecedores de drogas.
+Assim, não há ilegalidade na aplicação da pena, pois, entendendo que o paciente não satisfez as exigências do privilégio do § 4º do art. 33 da Lei n. 11.343/2006, o Tribunal de origem rechaçou fundamentadamente a sua incidência.
+Nesse sentido, a jurisprudência desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE NÃO SE TRATA DE TRAFICANTE EVENTUAL. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. A incidência da minorante do tráfico privilegiado foi rechaçada porque a Corte mineira reconheceu expressamente que o paciente não se tratava de traficante eventual, haja vista não apenas a quantidade e natureza dos entorpecentes apreendidos - 47,3g de crack e 1 bucha de maconha (e-STJ, fls. 37 e 39) -, mas principalmente devido ao fato de ele haver confessado que há cerca de 01 (um) mês), mantinha em depósito as 85 (oitenta e cinco) pedras de crack para revender, alegando que estava passando dificuldades financeiras e como precisava cuidar do seu filho, começou a traficar para complementar a renda (e-STJ, fl. 39), e de a Polícia militar haver recebido denúncias anônimas indicando o paciente como traficante de drogas; tudo isso a denotar que ele não se tratava de traficante esporádico.
+3. Desconstituir tal assertiva demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental não provido"" (AgRg no HC n. 863.233/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023).
+Ademais, a desconstituição do julgado impugnado demandaria o reexame fático-probatório dos elementos constantes dos autos, providência inadmissível nesta via estreita, mormente por ter sido observado, no caso em apreço, o princípio do livre convencimento motivado, consoante acima delineado.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa. No caso, o fundamento utilizado pelas instâncias ordinárias para afastar a aplicação da referida causa de diminuição de pena foi o de dedicação do apenado a atividades criminosas, ressaltando, dentre outros elementos, a forma como o entorpecente foi apreendido, a quantidade e natureza da droga (1kg de cocaína), além da identificação de divisão de tarefas e de estrutura hierarquizada e a confissão do ora agravante. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Precedentes.
+2. Agravo regimental desprovido" (AgRg no HC n. 868.786/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024 ).
+Dessa forma, não se verifica constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
