@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de reclamação, com pedido de liminar, ajuizada por IVETE APARECIDA DA SILVA, "com fundamento no art. 1.035 do Código de Processo Civil e demais dispositivos aplicáveis, apresentar (sic) (..) "tendo em vista o descumprimento do Tema 970 do Superior Tribunal de Justiça" (na fl. 2).
+O tema mencionado pelo reclamante possui a seguinte redação: "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes".
+O acórdão alegadamente exorbitante do entendimento hierarquicamente vinculante desta Corte está ementado da seguinte forma:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E OBRIGAÇÃO DE FAZER. PROCEDÊNCIA PARCIAL NA ORIGEM. IRRESIGNAÇÃO DE AMBAS AS PARTES. APELAÇÃO DA EMPRESA PROMOVIDA RECEBIDA. APELO DA AUTORA. INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. OPÇÃO DE PARCELAMENTO. INSUFICIÊNCIA DE RECURSOS. JUÍZO DE RETRATAÇÃO EXERCIDO (ART. 1.021, § 2º, DO CPC). APOSENTADA. HIPOSSUFICIÊNCIA COMPROVADA. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. AUSÊNCIA DE CULPA EXCLUSIVA DO COMPRADOR. NÃO CUMPRIMENTO DAS OBRIGAÇÕES PREVISTAS NO CONTRATO. FORÇA MAIOR. NÃO CONFIGURAÇÃO. PRAZO DE TOLERÂNCIA FIXADOS EM DIAS ÚTEIS. VALIDADE. LIMITE DE 180 DIAS CORRIDOS. CABIMENTO DE MULTA MORATÓRIA. TEMA 971. REFORMA DA SENTENÇA.
+PROVIMENTO DO APELO DA AUTORA E DESPROVIMENTO DA EMPRESA PROMOVIDA.
+1. No caso concreto, extrai-se que a autora/2ª recorrente, é desempregada, bem como verifico que o valor das custas recursais é de R$346,81 (trezentos e quarenta e seis reais e oitenta e um centavos), a qual foi dada a opção de parcelamento em 02 (duas) vezes.
+2. A autora encontra-se desempregada há mais de 01 (um) ano,In casu sem condições de arcar com as custas do processo sem prejudicar o próprio sustento. Pessoa que pode ser enquadrada na condição de "necessitada" a que alude a lei nº 1.060/50.
+3. A construtora é a responsável contratual pelo prazo de entrega do empreendimento, ficando somente isenta da responsabilidade na hipótese de força maior, caso fortuito ou outros fatos extraordinários.
+4. "Validade da estipulação de prazo de tolerância em dias úteis em promessa de compra e venda de unidade autônoma em incorporação imobiliária.
+5. Limitação, contudo, do prazo ao equivalente a 180 dias corridos, por analogia ao prazo de validade do registro da incorporação e da carência para desistir do empreendimento (arts. 33 e 34, § 2º, da Lei 4.591/1964 e 12 da Lei 4.864/1965)." (STJ, R Esp 1727939 / DF, T3 - Terceira Turma, Relator Ministro Paulo de Tarso Sanseverino, julgado em 11/09/2018)
+6. No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor (Tema 971)" (nas fls. 9/10).
+Defende a parte reclamante que "a jurisprudência consolidada reconhece que o atraso na entrega da obra gera dano presumido, dispensando a necessidade de prova específica de prejuízo ou cláusula contratual para a configuração do dever de indenizar. Entretanto, o Tribunal de origem, ao julgar condenando a demandada com base em percentual sobre o valor pago pela autora e não com base no valor equivalente ao aluguel desrespeitou a tese firmada no Tema 970, violando o princípio da segurança jurídica e o regime dos precedentes obrigatórios instituído pelo Novo Código de Processo Civil" (na fl. 4).
+Requer, em sede de liminar, a suspensão do acórdão reclamado e, no mérito, o conhecimento e provimento da reclamação.
+É o relatório.
+Passo a decidir.
+A reclamação deve ser indeferida liminarmente.
+Alega a parte reclamante que "o Tribunal de origem, ao julgar condenando a demandada com base em percentual sobre o valor pago pela autora e não com base no valor equivalente ao aluguel desrespeitou a tese firmada no Tema 970".
+Todavia, o assinalado Tema Repetitivo afirma que "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes".
+Desse modo, não é obrigatória a fixação da indenização pelo adimplemento tardio da obrigação, em valor equivalente ao locativo, podendo ser estabelecida com base em outro parâmetro, como no caso, em que resultou da inversão da multa moratória estabelecida na cláusula contratual OITAVA em desfavor somente da parte compradora, conforme previsto no Tema Repetitivo nº 971/STJ, assim redigido:
+"Possibilidade de inversão, em desfavor do vendedor, de cláusula penal estipulada exclusivamente para o comprador, nos casos de inadimplemento da construtora/incorporadora em virtude de atraso na entrega de imóvel em construção objeto de contrato de compra e venda".
+Logo, não se vislumbra negativa de autoridade ao alegado Tema Repetitivo.
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, não conheço da Reclamação.
+Publique-se.
+EMENTA
