@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCONI TAVARES DOS SANTOS contra a decisão que conheceu do agravo para não conhecer do recurso especial.
+A parte embargante alega omissão acerca da violação dos arts. 619 e 315, § 2º, do CPP, por vício de fundamentação do acórdão recorrido nos seguintes pontos: i) ausência de correlação entre a denúncia e a condenação; ii) relevância da produção da prova pericial para comprovar ausência de omissão em livro fiscal.
+Impugnação apresentada.
+É o relatório.
+Decido.
+É cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão.
+A decisão embargada confirmou que o acórdão recorrido decidiu que não houve cerceamento de defesa ou mutatio libelli, expressamente aduzindo: "já a decisão recorrida pelo recurso especial assentou que não houve modificação dos fatos descritos na denúncia, mas apenas adequação da tipificação jurídica da conduta, caracterizando emendatio libelli. O Tribunal de origem concluiu que as provas documentais e testemunhais já demonstravam a conduta típica do agravante, ao promover irregularidades nas operações de suas empresas, omitindo ou inserindo elementos inexatos nas notas fiscais emitidas" (fl. 770).
+Com efeito, verifica-se da decisão proferida na origem, manifesto enfrentamento da tese recursal, oportunidade em que a Corte local concluiu que "não havendo modificação dos fatos descritos na denúncia, mas mera adequação da tipificação jurídica da conduta na forma permitida pelo artigo 383 do CPP, não merece acolhida a alegação de cerceamento de defesa e, em consequência, do pedido de reabertura da instrução, bem como a alegação de violação ao princípio da correlação entre a denúncia e a sentença" (fl. 562).
+Nos embargos de declaração opostos, o Tribunal de Justiça sergipano ainda acrescentou (fls. 604/605):
+A mera leitura do acórdão embargado autoriza a conclusão de que foi apresentada motivação suficiente para manter a condenação.
+Neste sentido, foi rejeitada a alegação de cerceamento de defesa e violação ao princípio da correlação entre a denúncia e sentença e, quanto à perícia contábil, esta foi acertadamente indeferida pelo juízo a quo, inclusive diante da farta prova documental avistável "no Auto de Infração nº 201836860 de fls. 08/27, relatório do auto de infração de fls. 28/31, certidão de dívida ativa de fls. 56/57, Auto de Infração nº 21836862 de fls. 58/75, relatório do auto de infração de fls. 75/79, certidão de dívida ativa de fls. 111/112, relatório do IP às fls. 149/151 e prova produzida em juízo", tal como consignado no acórdão.
+De mais a mais, eventual realização de perícia contábil não teria relevância probatória a fim de ocasionar a absolvição pretendida, considerando que as provas "demonstram que o recorrente realizou conduta típica ao promover irregularidades nas operações relativas a atividade das suas empresas, ao omitir/inserir elementos inexatos nas notas fiscais por ele emitidas, deixando de destacar o imposto devido da operação anterior quando adquiriu material a pessoa não cadastrada no Cadastro de Contribuintes do Estado de Sergipe, e a pessoas jurídicas que não fizeram o recolhimento quando da venda do material, acarretando fraude à fiscalização tributária".
+De tanto, não houve negativa de prestação jurisdicional na origem.
+Ajustando o que realmente ficou aqui decidido com o dispositivo da decisão, os embargos de declaração merecem parcial acolhimento apenas para constar: "Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.". A parte não conhecida refere-se ao óbice da Súmula 7 do STJ, que incidiu à pretensão recursal no ponto que visava afastar a condenação propriamente (alegação de ofensa ao art. 1º, II, da Lei n. 8.137/1990).
+Por tal razão, acolho parcialmente os embargos de declaração, sem, contudo, atribuir-lhes efeitos infringentes.
+Publique-se.
+Intimem-se.
+EMENTA
