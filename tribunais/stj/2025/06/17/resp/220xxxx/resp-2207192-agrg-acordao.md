@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE RESISTÊNCIA. PENA-BASE. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. No presente caso, conquanto o uso de simulacro de arma de fogo não justifique o incremento da pena-base, pois tal circunstância já estaria sendo valorada para a tipificação da conduta do crime de resistência (Art. 327 - Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio), caracterizando a ameaça, a utilização de arma de fogo aumenta a reprovabilidade da conduta.
+3. O crime de resistência foi praticado em coautoria, em um mesmo contexto, uma vez que estavam sendo perseguidos de carro pela polícia, após não obedecerem a ordem de parada, tendo apontado a arma. Assim, ainda que a arma de fogo estivesse diretamente em posse do corréu Ricardo, trata-se de uma circunstância objetiva vinculada à forma de execução do crime, que se estende aos demais autores, conforme dispõe o art. 30 do CP. Dessa forma, não há qualquer ilegalidade na negativação da pena-base, uma vez que no crime em questão houve a utilização de arma de fogo.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO HENRIQUE GONÇALVES DA SILVA (e-STJ fls. 635/640), contra decisão monocrática de e-STJ fls. 626/629, que negou provimento ao seu recurso especial.
+A parte agravante alega a redução da pena-base, tendo em vista a ausência de fundamentação idônea, no tocante à culpabilidade. Aduz que o fato do corréu utilizar uma arma de fogo e do acusado estar com um simulacro de arma de fogo não justificam a exasperação da reprimenda.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE RESISTÊNCIA. PENA-BASE. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. No presente caso, conquanto o uso de simulacro de arma de fogo não justifique o incremento da pena-base, pois tal circunstância já estaria sendo valorada para a tipificação da conduta do crime de resistência (Art. 327 - Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio), caracterizando a ameaça, a utilização de arma de fogo aumenta a reprovabilidade da conduta.
+3. O crime de resistência foi praticado em coautoria, em um mesmo contexto, uma vez que estavam sendo perseguidos de carro pela polícia, após não obedecerem a ordem de parada, tendo apontado a arma. Assim, ainda que a arma de fogo estivesse diretamente em posse do corréu Ricardo, trata-se de uma circunstância objetiva vinculada à forma de execução do crime, que se estende aos demais autores, conforme dispõe o art. 30 do CP. Dessa forma, não há qualquer ilegalidade na negativação da pena-base, uma vez que no crime em questão houve a utilização de arma de fogo.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Busca-se a redução da pena-base, tendo em vista a ausência de fundamentação idônea no tocante à negativação da culpabilidade no crime de resistência em razão do uso de arma e simulacro de arma de fogo.
+O Tribunal de origem, ao analisar a pena-base do envolvido, considerou (e-STJ fls. 577/578):
+Compulsando os autos, observa-se que o magistrado considerou a utilização de arma para valorar negativamente a culpabilidade.
+Todavia, para fundamentar o pedido, a Defesa aduz que a arma estava com o corréu Ricardo.
+De logo, é necessário mencionar que, apesar de apenas um dos agentes estar portando a arma de fogo, não restam dúvidas de que o apelante concorreu para a prática delituosa, motivo pelo qual deve responder na medida da sua culpabilidade.
+Para além disso, o Ministério Público destacou, em sede de contrarrazões:
+" ..  Todavia, é do entender desta Promotoria de Justiça que a valoração negativa encontra respaldo em todo arcabouço probatório produzido, uma vez que, embora o corréu Ricardo Lopes efetivamente portasse um revólver, o apelante DIEGO HENRIQUE, igualmente trazia consigo um simulacro de pistola, qual foi apreendido dentro do veículo que por ele era conduzido. Logo, no que diz respeito à dosimetria para o cálculo da pena do acusado, o Juízo a quo fez adoção de um procedimento inteiramente instruído pelos princípios da razoabilidade e proporcionalidade, pautando-se fielmente pelos dispositivos dos arts. 59 e 68 do CPB. Não obstante, ponderou devidamente não só a análise das circunstâncias judiciais como as circunstâncias do crime, tendo, dessa forma, cumprido rigorosamente o procedimento trifásico da fixação da reprimenda penal. Logo, por meio da sentença atacada, foi dado à sociedade o conforto da justiça.  .. " grifamos
+No mesmo sentido, verifica-se o depoimento do policial Gelson da Silva Santos, que cita a utilização de armamento (simulacro de arma) pelo apelante.
+Assim, havendo provas da utilização de simulacro de arma pelo acusado, não há como acolher o pleito defensivo, devendo ser mantida a negativação da culpabilidade e da pena definitiva
+No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; e HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Na hipótese, foram apontados elementos concretos para elevação da pena-base, exasperada em razão da culpabilidade. Vejamos.
+Quanto ao crime de resistência, o juízo sentenciante consignou (e-STJ fls. 446/447):
+Pois bem. Em seu depoimento, o policial militar Gelson da Silva Santos afirmou que deu voz de parada aos acusados, com inúmeros pedidos de para pararem. No entanto, por não obedecerem, houve perseguição, com a viatura policial colidindo no veículo Corsa que os acusados estavam dirigindo.
+Ademais, a testemunha asseverou que uma arma foi apontada para a viatura, que, posteriormente, em seu depoimento, o acusado Ricardo Lopes assumiu a propriedade do artefato.
+Ora, os depoimentos dos agentes da força pública quando coerentes, firmes e consoantes com os demais elementos carreados aos autos são suficientes a comprovar a materialidade do delito, não havendo nos autos contradição ou outro elemento que pudesse afastar tal presunção.
+No caso em tela, as provas produzidas na instrução processual geraram o convencimento, neste julgador, de que os acusados cometeram os delitos em questão, uma vez que resistiu a uma ordem legal e válida emanada de policiais militares, bem como se opuseram ao ato legal, com o apontamento da arma para a viatura policial.
+ ..
+No caso em tela, consta que ao receber ordem de parada e voz de prisão, os acusados apontaram a arma para a viatura policial, vindo a ser contido logo após uma perseguição.
+Portanto, eles desobedeceram a ordem de parada e, imediatamente, resistiram às prisões ativamente.
+No presente caso, conquanto o uso de simulacro de arma de fogo não justifique o incremento da pena-base, pois tal circunstância já estaria sendo valorada para a tipificação da conduta do crime de resistência (Art. 327 - Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio), caracterizando a ameaça, a utilização de arma de fogo aumenta a reprovabilidade da conduta.
+Pela leitura do trecho acima, verifica-se que o crime de resistência foi praticado em coautoria, em um mesmo contexto, uma vez que estavam sendo perseguidos de carro pela polícia, após não obedecerem a ordem de parada, tendo apontado a arma. Assim, ainda que a arma de fogo estivesse diretamente em posse do corréu Ricardo, trata-se de uma circunstância objetiva vinculada à forma de execução do crime, que se estende aos demais autores, conforme dispõe o art. 30 do CP.
+Dessa forma, não há qualquer ilegalidade na negativação da pena-base, uma vez que no crime em questão houve a utilização de arma de fogo.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
