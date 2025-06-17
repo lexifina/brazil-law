@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Habeas corpus. Prisão preventiva. Tráfico de drogas. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do recorrente, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão preventiva decorrente de flagrante por suposta prática de tráfico de drogas.
+2. O recorrente alega nulidade na prisão, devido a ingresso policial em sua residência sem autorização judicial e falta de fundamentação concreta na decisão que decretou a prisão preventiva, baseada apenas na gravidade abstrata do delito.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do recorrente é válida, considerando a alegação de nulidade por invasão de domicílio sem autorização judicial e a suposta falta de fundamentação concreta para a manutenção da custódia.
+III. Razões de decidir
+4. A decisão monocrática não conheceu do habeas corpus por entender que a impetração funcionava como substitutivo de recurso próprio, o que não é permitido.
+5. A alegada nulidade por invasão de domicílio não foi analisada pelo Tribunal de origem, impossibilitando o exame da matéria sob pena de supressão de instância, conforme a Súmula nº 691 do STF.
+6. A prisão preventiva foi fundamentada na gravidade concreta da conduta, evidenciada pela quantidade e variedade de entorpecentes apreendidos, além de petrechos e dinheiro, justificando a necessidade de garantir a ordem pública.
+7. As condições pessoais favoráveis do recorrente não impedem a manutenção da prisão cautelar quando devidamente fundamentada, sendo insuficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A impetração de habeas corpus como substitutivo de recurso próprio não deve ser conhecida. 2. A prisão preventiva é válida quando fundamentada na gravidade concreta da conduta e na necessidade de garantir a ordem pública. 3. A alegação de nulidade por invasão de domicílio sem autorização judicial deve ser analisada pelo Tribunal de origem para evitar supressão de instância".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; CPP, art. 312.
+Jurisprudência relevante citada: STF, Súmula nº 691; STJ, AgRg no HC 936880/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 19/09/2024; STJ, RHC n. 201.915/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; STJ, AgRg no RHC n. 202.561/PA, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANILO PEREIRA SILVA contra decisão monocrática que não conheceu do habeas corpus impetrado em seu favor (fls. 139-142), contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que houve a prisão em flagrante do paciente, ora recorrente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 33, da Lei nº 11.343/2006.
+No presente agravo o recorrente insiste que, não obstante os fundamentos da decisão ora recorrida, há nulidade no ato da prisão do paciente, tendo em vista que houve ingresso na sua residência pelos policiais sem autorização judicial.
+Ainda, afirma que o acórdão do Tribunal de origem carece de fundamento concreto quanto à necessidade da prisão do paciente, porquanto está fundado apenas na gravidade abstrata do delito.
+Assim, requer que o presente recurso seja provido para que a ordem seja concedida a fim de se revogar a prisão preventiva do recorrente, ainda que sejam impostar medidas cautelares diversas.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Habeas corpus. Prisão preventiva. Tráfico de drogas. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do recorrente, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão preventiva decorrente de flagrante por suposta prática de tráfico de drogas.
+2. O recorrente alega nulidade na prisão, devido a ingresso policial em sua residência sem autorização judicial e falta de fundamentação concreta na decisão que decretou a prisão preventiva, baseada apenas na gravidade abstrata do delito.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do recorrente é válida, considerando a alegação de nulidade por invasão de domicílio sem autorização judicial e a suposta falta de fundamentação concreta para a manutenção da custódia.
+III. Razões de decidir
+4. A decisão monocrática não conheceu do habeas corpus por entender que a impetração funcionava como substitutivo de recurso próprio, o que não é permitido.
+5. A alegada nulidade por invasão de domicílio não foi analisada pelo Tribunal de origem, impossibilitando o exame da matéria sob pena de supressão de instância, conforme a Súmula nº 691 do STF.
+6. A prisão preventiva foi fundamentada na gravidade concreta da conduta, evidenciada pela quantidade e variedade de entorpecentes apreendidos, além de petrechos e dinheiro, justificando a necessidade de garantir a ordem pública.
+7. As condições pessoais favoráveis do recorrente não impedem a manutenção da prisão cautelar quando devidamente fundamentada, sendo insuficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A impetração de habeas corpus como substitutivo de recurso próprio não deve ser conhecida. 2. A prisão preventiva é válida quando fundamentada na gravidade concreta da conduta e na necessidade de garantir a ordem pública. 3. A alegação de nulidade por invasão de domicílio sem autorização judicial deve ser analisada pelo Tribunal de origem para evitar supressão de instância".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; CPP, art. 312.
+Jurisprudência relevante citada: STF, Súmula nº 691; STJ, AgRg no HC 936880/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 19/09/2024; STJ, RHC n. 201.915/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; STJ, AgRg no RHC n. 202.561/PA, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025.
+VOTO
+O agravante busca a reforma da decisão monocrática, de modo que o habeas corpus seja conhecido e concedida a ordem nos termos requeridos na petição inicial.
+A controvérsia consiste na ocorrência de um possível constrangimento ilegal, caracterizado pelo ingresso indevido na residência do recorrente. Ainda, diz que o acórdão do Tribunal de origem não fundamentou adequadamente a necessidade da sua prisão preventiva.
+Contudo, como dito na decisão ora recorrida, observa-se que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Adiante, a decisão recorrida também foi muito clara ao reconhecer que a alegada nulidade por invasão de domicílio não foi analisada por aquela Corte, o que impossibilita o exame da matéria, neste momento, sob pena de supressão de instância, consoante ideia da Súmula nº 691, do Supremo Tribunal Federal.
+Ainda, no que diz respeito à alegada falta de fundamentação julgado que entendeu necessária a prisão do recorrente, o principal fundamento para decretação da prisão preventiva foi a gravidade da conduta, em face da necessidade de garantir a ordem pública:
+"Com efeito, a custódia é recomendável para a garantia da ordem pública. Os fatos denotam a apreensão de considerável quantidade de entorpecentes e dinheiro, além de petrechos para pesagem e porcionamento, circunstâncias essas que corroboram com a destinação ilícita das substâncias" (fl. 54).
+Sobre o caso em questão:
+"PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI. VARIEDADE E QUANTIDADE DOS ENTORPECENTES APREENDIDOS. 236,54 G DE MACONHA, 34,50 G DE ECSTASY E 2 FRAGMENTOS DE LSD. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO. RISCO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. Recurso improvido" (RHC n. 201.915/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025).
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE, VARIEDADE E NATUREZA DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. ALEGAÇÃO DE INOVAÇÃO DE FUNDAMENTOS PELO TRIBUNAL. INOCORRÊNCIA. RECURSO DESPROVIDO. 1. Presentes elementos concretos para justificar a manutenção da prisão preventiva, para garantia da ordem pública. As instâncias ordinárias afirmaram que, em liberdade, o agravante representava risco à ordem pública em razão de sua periculosidade e da gravidade concreta da conduta, evidenciadas pela elevada quantidade, variedade e natureza das drogas localizadas - 61kg de cloridrato de cocaína e 6kg de skunk -, o que, somado ao fato de os entorpecentes terem sido apreendidos no interior de um ônibus de transporte coletivo interestadual, oriundo da cidade de Belém/PA com destino a Recife/PE, demonstra maior envolvimento com o narcotráfico e risco ao meio social. Ademais, a prisão também se justifica para evitar a reiteração na prática delitiva, uma vez que o recorrente é reincidente. 2. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada. 3. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública. 4. A prisão preventiva do agravante foi decretada especialmente para garantia da ordem pública, o que restou preservado pelo órgão colegiado, tendo, portanto, a custódia sido mantida pelos mesmos motivos apresentados pelo Magistrado de primeiro grau, não havendo falar em novos fundamentos. Além disso, somente se verifica a existência de reformatio in pejus quando, em recurso exclusivo da defesa, o Tribunal promove o agravamento da situação do acusado, o que não se verificou na hipótese dos autos 5. Agravo regimental desprovido " (AgRg no RHC n. 202.561/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+Dessa forma, considerando as peculiaridades do caso, entendo possível a manutenção da prisão preventiva, não havendo falar, portanto, em se aplicar quaisquer medidas alternativas (RHC n. 201.915/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025 e AgRg no RHC n. 202.561/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+Assim, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É o voto.
