@@ -1,0 +1,37 @@
+DECISÃO
+Em agravo em recurso especial interposto por Leandro Reis Ramos contra decisão do Tribunal de Justiça do Estado do Espírito Santo (e-STJ fls. 1377-1384), examina-se a inadmissão do recurso especial, fundada nas Súmulas n. 7 do e 83 do Superior Tribunal de Justiça
+O agravante foi pronunciado pelo delito do art. 121, §2º, incisos II, III e IV, c/c art. 14, inciso II, ambos do Código Penal", praticado, em tese, em 26/03/2018.
+O Tribunal de Justiça do Estado do Espírito Santo (e-STJ fls. 1288-1297) manteve a pronúncia. O acórdão fundamentou-se na materialidade do crime comprovada e nos indícios de autoria presentes, sustentando que a decisão de pronúncia não fora pautada exclusivamente em elementos produzidos durante o inquérito policial, havendo prova judicializada indicando possível autoria dos recorrentes, atendendo-se, assim, aos parâmetros estabelecidos no art. 155, do Código de Processo Penal.
+O recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, alegou violação dos artigos 226 e 414 do Código de Processo Penal e requereu a impronúncia dos acusados (e-STJ fls. 1304-1326).
+O recurso não foi admitido pelo Tribunal de origem porque (e-STJ fls. 1377-1384) a análise do pleito demandaria revolvimento fático-probatório, vedado pela Súmula n. 7 do STJ, e o acórdão recorrido encontra-se em consonância com o entendimento do STJ, aplicando-se ao caso a Súmula n. 83 do Tribunal.
+Na petição de agravo em recurso especial (e-STJ fls. 1385-1401), o agravante busca impugnar a decisão de inadmissão. Alega, em síntese, que a análise do pleito não importa em reexame fático-probatório dos autos, mas em simples análise do juízo de subsunção dos fatos narrados à norma penal e processual penal. Ademais, sustenta que o acórdão recorrido não está em conformidade com a jurisprudência do STJ, devendo ser afastado o óbice da Súmula n. 7 do STJ. Por fim, argumenta que houve prequestionamento da matéria, não havendo que se falar em ausência de prequestionamento, conforme as Súmulas n. 282 e n. 356 do STF.
+O Ministério Público manifestou-se pelo conhecimento e não provimento do agravo em recurso especial (e-STJ fls. 1462-1464), em parecer assim ementado:
+"PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. IMPRONÚNCIA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SUMULA 7/STJ. PARECER PELO NÃO PROVIMENTO DO AGRAVO."
+É o relatório.
+Decido.
+O agravo é tempestivo e impugna os fundamentos da decisão recorrida. Passa-se ao exame.
+O tribunal de origem assim se manifestou sobre a presença de elementos probatórios que autorizam a pronúncia:
+Nesta perspectiva, a materialidade dos crimes encontra-se comprovada pelo Exame de Leões Corporais (vol. 01, pp. 189/193).
+Com relação aos indícios de autoria, observo que os depoimentos testemunhais sustentam a verossimilhança da tese ministerial.
+ ..
+Deste modo, verifica-se que a situação dos autos não é de impronúncia, porquanto há provas judicializadas conferindo credibilidade à tese ministerial de que os recorrentes tentaram executar as vítimas Philipe Berto dos Santos e Letícia Almeida Silva.
+Embora a vítima Philipe Berto dos Santos tenha demonstrado certa reticência a respeito da participação dos recorrentes Ramon e Leandro, ratificou que estes pertenciam a grupo rival e que todos eram seus inimigos e, assim, também poderiam ser os autores do delito, em comunhão de desígnios com Evandro.
+Assim, observa-se que a decisão de pronúncia não fora pautada exclusivamente em elementos produzidos durante o inquérito policial, havendo prova judicializada indicando possível autoria dos recorrentes, atendendo-se, assim, aos parâmetros estabelecidos no art. 155, do Código de Processo Penal.
+Nesse contexto, "havendo indícios da prática de crime doloso contra a vida, faz-se necessária a pronúncia, para que o juiz natural da causa aprecie o mérito da imputação. " (AgRg no AR Esp n. 2.211.016/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/4/2023, D Je de 24/4/2023.)
+Portanto, provada a materialidade e presentes os indícios de autoria, a decisão que se impõe é a de pronúncia, nos termos formulados na denúncia. Eventuais teses defensivas de mérito, levantadas pelo recorrente nas razões recursais, poderão ser suscitadas em plenário de julgamento.
+Veja-se, pois, que o acórdão assentou, expressamente, a presença de provas judicializadas que amparam a pronúncia. Diante de tal cenário, a desconstituição da conclusão da instância ordinária, soberana na análise da prova, demandaria revolvimento do contexto fático-probatório, providência vedada em sede de recurso especial pela Súmula 7 deste egrégio Superior Tribunal de Justiça. Acerca do ponto:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. PEDIDO DE DESCLASSIFICAÇÃO DO DELITO. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Se as instâncias ordinárias, com base na análise do acervo probatório e de modo fundamentado, concluíram pela presença dos elementos que justificam a pronúncia, quaisquer das teses suscitadas nas razões do recurso especial, a saber, necessidade de desclassificação, absolvição ou impronúncia do agravante, demanda reexame das circunstâncias fático-probatórias consideradas pelo acórdão recorrido para a resolução da controvérsia, procedimento defeso nesta via, nos termos da Súmula n. 7 do STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.847.618/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022, DJe de 20/12/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA COM BASE EM ELEMENTOS COLHIDOS NA FASE EXTRAJUDICIAL. 1) VIOLAÇÃO AO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. 2) INOVAÇÃO RECURSAL CONFIGURADA. ALTERAÇÃO DAS RAZÕES. 3) IMPRONÚNCIA. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, VEDADO CONFORME SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1) Nos termos da jurisprudência desta Corte, encerrando, a sentença de pronúncia, conteúdo meramente declaratório e não juízo de certeza, esta pode ser fundamentada em elementos produzidos na fase inquisitorial. Precedentes (AgRg no AREsp 1342408/MT, de minha relatoria, QUINTA TURMA, DJe 15/2/2019).
+2) Descabe, em sede de agravo regimental, ainda que mantido o artigo de lei federal violado, alterar o fundamento do pedido constante do recurso especial, por acarretar inovação recursal. Após interposto o recurso especial, novas teses de ilegalidades constantes do acórdão ficam obstadas pela preclusão consumativa. Precedentes.
+3) Para se afastar a conclusão do Tribunal de origem a respeito da pronúncia, seria necessário o reexame fático-probatório, providência vedada pela Súmula n. 7/STJ, ante os indícios de autoria apontados no acórdão recorrido.
+4) Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp n. 1.269.695/PI, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/4/2019, DJe de 29/4/2019.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
