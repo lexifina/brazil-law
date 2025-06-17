@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 11/06/2025 a 17/06/2025, por unanimidade, conhecer do conflito, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA RELATIVA. AÇÃO AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. DECLINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 6ª Vara Cível de Vitória/ES, tendo por suscitado o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG, em ação de rescisão contratual ajuizada no domicílio do autor.
+2. O Juízo suscitado declinou da competência de ofício para a Comarca do domicílio da demandada, alegando que a escolha do foro seria aleatória, sem associação com o endereço das partes ou o foro de eleição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a escolha do foro se deu de forma aleatório e se a c ompetência relativa pode ser declinada de ofício pelo juízo.
+III. Razões de decidir
+4. A competência relativa não pode ser declinada de ofício, conforme Súmula 33 do STJ, no caso de demandas ajuizadas antes da alteração do Código de Processo Civil, sendo necessário que o réu apresente exceção de incompetência.
+5. A nova redação do art. 63, §§ 1º e 5º, do CPC, introduzida pela Lei nº 14.879/2024, não se aplica a processos cuja petição inicial tenha sido ajuizada antes de sua vigência, conforme interpretação conjunta dos artigos 14 e 43 do CPC.
+IV. Dispositivo
+6. Conflito de competência conhecido para declarar competente o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG.
+RELATÓRIO
+Cuida-se de conflito negativo de competência, suscitado pelo Juízo de Direito da 6ª Vara Cível de Vitória/ES, tendo por suscitado o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG.
+Narra o suscitante que a parte autora, enquanto consumidora, ajuizou uma ação de rescisão contratual perante o Juízo de Direito da 8ª Vara Cível da Comarca de Uberlândia/MG, que, de ofício, declinou da competência, sob o fundamento de que a autora da ação não residia naquele foro e que teria sido escolhido um foro aleatório.
+Acresceu que não se trataria de foro aleatório, porque Uberlândia seria o foro do domicílio do autor que, embora mantenha residência no exterior, "se faz representar, no Brasil, por procurador que aqui constituíra (de nome ROBERTO MAGNO ALVES BORGES) e que, como facilmente se extrai do documento de outorga de poderes nesta carreado (Id nº 8814867), possuiria domicílio na Comarca de Uberlândia/MG."
+Isto porque "não se pode afastar dele (outorgado) características atribuídas à parte representada quando da defesa dos interesses que lhe foram confiados, o que nos levaria a inferir que, em defendendo o representado enquanto consumidor, como consumidor deverá o mandatário também ser tratado porque, de fato, é deste a pretensão que defende ou veicula." "Lado outro, ao se afastar a possibilidade do mandatário ser caracterizado ou ser qualificado, por comparação, como consumidor em razão de assim o ser a mandante, ter-se-ia, em caso tal como o presente, uma verdadeira subversão das normas constantes do diploma protetivo, (..)" (e-STJ fls. 32-33).
+Informou, ainda, que o endereço da autora/consumidora, lançado na procuração do mandatário, também está localizado no município de Uberlândia, o que evidencia a ausência de aleatoriedade, apresentada pelo suscitado. (e-STJ fls. 29-34)
+O suscitado, a seu turno, sustenta que a propositura da ação na Comarca de Uberlândia se deu de forma aleatória, o que viola o princípio do juiz natural, e que, sendo a incompetência absoluta "na medida em que a prorrogação da competência territorial pressupõe cláusula de eleição ou que uma das partes tenha domicilio no foro da ação proposta", imperiosa a declinação de ofício. (e-STJ fls. 10-11)
+Ressalte-se que em momento posterior, ao saber da declinação de ofício, a autora manifestou-se pela necessidade do processamento da demanda em Uberlândia, não apenas por ser o endereço do seu representante legal, como também em razão da prevenção, já que anteriormente havia ajuizado a mesma demanda na Comarca de Uberlândia, mas que que veio a ser extinta sem julgamento de mérito por irregularidade no pagamento das custas. (e-STJ fls. 19-23)
+O Ministério Público Federal, intimado, promoveu pela competência do Juízo de Direito da 8ª Vara Cível da Comarca de Uberlândia/MG, ora Suscitado. (e-STJ fls. 39-44)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA RELATIVA. AÇÃO AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. DECLINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 6ª Vara Cível de Vitória/ES, tendo por suscitado o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG, em ação de rescisão contratual ajuizada no domicílio do autor.
+2. O Juízo suscitado declinou da competência de ofício para a Comarca do domicílio da demandada, alegando que a escolha do foro seria aleatória, sem associação com o endereço das partes ou o foro de eleição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a escolha do foro se deu de forma aleatório e se a c ompetência relativa pode ser declinada de ofício pelo juízo.
+III. Razões de decidir
+4. A competência relativa não pode ser declinada de ofício, conforme Súmula 33 do STJ, no caso de demandas ajuizadas antes da alteração do Código de Processo Civil, sendo necessário que o réu apresente exceção de incompetência.
+5. A nova redação do art. 63, §§ 1º e 5º, do CPC, introduzida pela Lei nº 14.879/2024, não se aplica a processos cuja petição inicial tenha sido ajuizada antes de sua vigência, conforme interpretação conjunta dos artigos 14 e 43 do CPC.
+IV. Dispositivo
+6. Conflito de competência conhecido para declarar competente o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG.
+VOTO
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento da ação de rescisão contratual, em relação de consumo, ajuizada no domicílio do autor.
+Entendeu o Juízo suscitado, ao declinar da competência de ofício para a Comarca de endereço d a demandada, que a escolha do foro seria aleatória, já que sem qualquer associação com o endereço das partes ou o foro de eleição.
+Sendo de consumo a relação entre as partes litigantes, importante esclarecer que o consumidor, quando integrar o polo ativo da demanda, possui a faculdade de ajuizar a demanda em seu domicílio e não uma obrigação, podendo escolher o que considerar mais favorável, sendo esta uma competência relativa. Vejamos:
+CDC. Art. 101. Na ação de responsabilidade civil do fornecedor de produtos e serviços, sem prejuízo do disposto nos Capítulos I e II deste título, serão observadas as seguintes normas:
+I - a ação pode ser proposta no domicílio do autor;
+No o CC n. 202.186, Ministro Raul Araújo, DJEN de 31/03/2025, esta Corte definiu que "quando integrar o polo ativo da demanda, faculta-se a ele a escolha do foro diverso de seu domicílio, tendo em vista que a norma protetiva prevista no CDC, estabelecida em seu benefício, não o obriga, sendo vedada a declinação de competência, de ofício, salvo quando não obedecer qualquer regra processual, prejudicando a defesa do réu ou obtendo vantagem com a jurisprudência favorável de determinado Tribunal estadual."
+Afastada, portanto, na hipótese, a fundamentação de hipótese de incompetência absoluta, levantada pela decisão declinante do Juízo suscitado.
+Sobre a competência relativa, o art. 63 do Código de Processo Civil, alterado pela Lei n. 14.879 de 2024, assim passou a dispor:
+Art. 63. As partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta ação oriunda de direitos e obrigações.
+§ 1º A eleição de foro somente produz efeito quando constar de instrumento escrito, aludir expressamente a determinado negócio jurídico e guardar pertinência com o domicílio ou a residência de uma das partes ou com o local da obrigação, ressalvada a pactuação consumerista, quando favorável ao consumidor. (Incluído pela Lei nº 14.879, de 4 de junho de 2024) (grifos acrescidos)
+§ 2º O foro contratual obriga os herdeiros e sucessores das partes.
+§ 3º Antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de ofício pelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu.
+§ 4º Citado, incumbe ao réu alegar a abusividade da cláusula de eleição de foro na contestação, sob pena de preclusão.
+§ 5º O ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício. (Incluído pela Lei nº 14.879, de 4 de junho de 2024) (grifos acrescidos)
+É possível, nos termos do §5º do artigo citado, que a escolha do foro, fora das premissas estabelecidas, autorize o juízo a declinar da competência relativa de ofício.
+Não se pode dizer, entretanto, que a ação foi ajuizada em foro aleatório, uma vez que o Município de Uberlândia é o endereço de residência do representante da parte autora, atualmente residente no exterior.
+Ademais, como houve uma ação anterior extinta sem resolução de mérito, estaria o Juízo de Uberlândia prevento, conforme disposição no art. 286, II, do Código de Processo Civil.
+Lado outro, ainda que se tratasse de foro aleatório, não seria possível, sendo competência relativa, a sua declinação de ofício, tendo em vista que a demanda, na origem, foi protocolada em 2021 (e-STJ fls. 22), ou seja, em momento anterior a vigência da alteração legislativa destacada, incidindo, na hipótese, a Súmula 33 do STJ. Vejamos:
+A incompetência relativa não pode ser declarada de ofício.
+Sobre o tema, com fundamento na interpretação conjunta dos artigos 14 e 43 do Código de Processo Civil, esta corte já afirmou que "Aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º)." (CC n. 206.933/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/2/2025, DJEN de 13/2/2025.)
+Conclui-se, assim, que o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG, ora suscitado, é o competente para processar e julgar a demanda na origem, nos termos do art. 101, inciso 1, do Código de Defesa do Consumidor e Súmula 33 do Superior Tribunal de Justiça .
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 63, §§ 1º E 5º, DO CPC. ALTERAÇÃO DADA PELA LEI 14.879/2024. CLÁUSULA DE ELEIÇÃO DE FORO. AUSÊNCIA DE PERTINÊNCIA COM O DOMICÍLIO OU RESIDÊNCIA DAS PARTES OU COM O NEGÓCIO JURÍDICO. JUÍZO ALEATÓRIO. PRÁTICA ABUSIVA. DECLINAÇÃO DE OFÍCIO. AÇÃO AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. IMPOSSIBILIDADE.
+1. Conflito negativo de competência suscitado em 25/7/2024 e concluso ao gabinete em 1/8/2024.
+2. O propósito do conflito de competência consiste em estabelecer o Juízo competente para o processamento da demanda quando a ação for ajuizada no foro de eleição e este for considerado abusivo.
+3. A Lei n. 14.879/2024 alterou o art. 63 do CPC no que diz respeito aos limites para a modificação da competência relativa mediante eleição de foro. A nova redação do § 1º do dispositivo dispõe que "a eleição de foro somente produz efeito quando constar de instrumento escrito, aludir expressamente a determinado negócio jurídico e guardar pertinência com o domicílio ou a residência de uma das partes ou com o local da obrigação, ressalvada a pactuação consumerista, quando favorável ao consumidor".
+4. Como consequência da não observância dos novos parâmetros legais, será considerada prática abusiva o ajuizamento de demanda em foro aleatório, sem qualquer vinculação com o domicílio ou residência das partes ou com o negócio jurídico, podendo o Juízo declinar de ofício da competência, nos termos do § 5º do art. 63 do CPC.
+5. Com a vigência da nova legislação, tem-se a superação parcial da Súmula 33/STJ, segundo a qual "a incompetência relativa não pode ser declarada de ofício".
+6. Aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º). O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial.
+7. Por outro lado, a nova legislação não será aplicada às demandas ajuizadas em momento anterior à sua vigência, sobrevindo a prorrogação da competência relativa - pelo foro de eleição - em razão da inércia da contraparte e da incidência da Súmula 33/STJ.
+8. No conflito sob julgamento, a ação foi ajuizada em 27/1/2023, antes vigência da nova lei, sendo descabida a declinação de ofício da competência em razão da prorrogação da competência relativa.
+9. Conflito de competência conhecido para declarar competente o Juízo da 38ª Vara Cível do Foro Central da Comarca de São Paulo/SP, ora suscitante.
+(CC n. 206.933/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/2/2025, DJEN de 13/2/2025.)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE.
+1. Nos casos em que o consumidor, autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ.
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente ao consumidor, a quem o legislador conferiu especial proteção.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC n. 130.813/DF, relator Ministro Raul Araújo, Segunda Seção, julgado em 22/6/2016, DJe de 3/8/2016.)
+"(..) naquelas hipóteses em que a demanda foi proposta pelo consumidor, a lei autoriza que ele possa optar entre o foro do seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, no juízo que melhor atenda a seus interesses, pois, nestes casos a competência é relativa, aplicando-se o teor da Súmula 33 do STJ. Nesse sentido: AgRg no CC 130.813/DF, DJe 3.8.2016; AgRg no CC 129.294/DF, DJe 1º/10/2014; AgRg no CC 124.351/DF, Segunda Seção, DJe 17/5/2013" (CC n. 211.605, Ministra Nancy Andrighi, DJEN de 27/03/2025)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 8ª Vara Cível de Uberlândia/MG, para processar e julgar a demanda na origem.
+É como voto.
