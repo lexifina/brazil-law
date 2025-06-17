@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VIRGINIA MARIA RAMOS PINHO MARTINS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 03/09/2024.
+Concluso ao gabinete em: 10/02/2025.
+Agravo de instrumento: interposto pela recorrente contra decisão, proferida nos autos de cumprimento de sentença, que não lhe reconheceu o direito à integralidade dos honorários arbitrados em sentença.
+Acórdão: negou provimento ao recurso interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE VERBA HONORÁRIA CONSTITUÍDA EM SENTENÇA ILÍQUIDA. MANDATO EXTINTO NO CURSO DA FASE DE LIQUIDAÇÃO. DISTRIBUIÇÃO DOS HONORÁRIOS ENTRE PATRONOS ANTIGOS E ATUAIS. INCONFORMISMO DA ANTIGA PATRONA.
+1. Insurge-se a ora agravante, ex-advogada da parte autora, ora agravada, contra os termos de decisão proferida no curso de cumprimento de sentença que não lhe reconheceu o direito à integralidade dos honorários arbitrados quando do julgamento da fase cognitiva.
+2. Preliminar de contrarrazões. Ilegitimidade recursal e de necessidade de remeter a discussão para a via própria. Rejeição. Discussão que se limita à execução das verbas sucumbenciais. Direito autônomo constituído na sentença, razão pela qual se afigura lícito ao titular desse crédito, na qualidade de exequente, perseguir fielmente o alcance do dispositivo que lhe serve como título.
+3. Cuida-se, na origem, de ação visando a cobrança de taxa de ocupação por utilização de imóveis, em que os demandantes, ora agravados (hoje falecidos e sucedidos processualmente pelos respectivos espólios), constituíram como advogada a ora agravante. A fase de conhecimento foi encerrada com a prolação de sentença de procedência ilíquida.
+4. Liquidação do julgado que dependeria de instauração de nova fase processual para fixação dos termos inicial e final para a incidência da taxa de ocupação em cada imóvel, bem como o valor de aluguel de cada um deles - para essa finalidade, foi realizada perícia.
+5. Assim, o direito reconhecido na sentença aos honorários consistia de uma condenação acessória à uma condenação principal ilíquida. Ainda que o percentual estivesse definido, a base de cálculo não estava. E a definição da base de cálculo dependeria de uma nova fase processual, também de natureza cognitiva (ainda que de objeto diverso) e que, no caso, restou marcado pela ocorrência de incidentes processuais como a elaboração de perícia e recurso. Ou seja, os advogados que sucederam a ora agravante tiveram de enfrentar questões complexas de fato e de direito, razão pela qual também fazem jus parte da verba sucumbencial constituída na sentença.
+6. Objeções da agravante quanto à preclusão do dispositivo da sentença na fase de conhecimento que não alcançam uma eventual disputa entre ela e os advogados que a sucederam na representação dos agravados.
+7. Razões do inconformismo recursal se limitam à natureza preclusiva da parte dispositiva da sentença, sem adentrar a justeza da distribuição determinada na decisão agravada. De toda forma, considerando-se as observações lançadas anteriormente, verifica-se que a decisão agravada é indene de censura também sob esse prisma. (e-STJ fl. 115)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: sustenta violação dos arts. 20, §§ 3º e 4º, do CPC/73, 14 e 1022 do CPC/15, e 6º da LIDB. Alega em síntese: i) houve negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem deixou de se manifestar sobre matérias essenciais ao deslinde da controvérsia, em que pese ter oposto o devido recurso integrativo; ii) "Há equívoco no Aresto recorrido, ao repartir a verba de sucumbência entre a ex patrona e a atual, na fase de cumprimento de sentença, aplicando o disposto no artigo 80, parágrafo 2º do CPC/2015 ao caso"; iii) "não observou o Marco Temporal para a aplicação da verba sucumbencial, no sentido de que se o capítulo acessório da sentença, referente, à verba de sucumbência, foi prolatado, em consonância com o CPC/73, serão aplicadas essas regras, até o trânsito em julgado."
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente sobre a inaplicação do precedente invocado, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1022 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido teria violado os arts. 20, §§ 3º e 4º, do CPC/73, 6º da LIDB e art. 14 do CPC/15. A deficiência na fundamentação impede a perfeita compreensão da controvérsia, o que enseja o não conhecimento do recurso, nos termos da Súmula 284, do STF.
+Note-se, ainda, que a agravante faz referência ("aplicando o disposto no artigo 80, parágrafo 2º do CPC/2015") a dispositivo sequer aplicado no acórdão recorrido, tampouco trata de honorários advocatícios.
+- Da existência de fundamento não impugnado
+O TJ/RJ assim se manifestou para o deslinde da controvérsia:
+"Cumpre ressaltar que o direito reconhecido na sentença aos honorários consistia de uma condenação acessória à uma condenação principal ilíquida. Assim, ainda que o percentual estivesse definido, a base de cálculo não estava. E a definição da base de cálculo dependeria de uma nova fase processual, também de natureza cognitiva (ainda que de objeto diverso) e que, no caso, restou marcado pela ocorrência de incidentes processuais como a elaboração de perícia e recurso." (e-STJ 119) - g.n.
+Restou elucidado no acórdão recorrido que a sentença (com efeito prolatada na vigência do CPC/73) apenas definiu o percentual relativo aos honorários advocatícios; sua base de cálculo, contudo, ainda estaria sujeita a definição. Não há, assim, questão de direito intertemporal a ser aplicada no caso em tela, argumentação que se mostra absolutamente desinfluente para o equacionamento da controvérsia recursal. (e-STJ 177) - g.n.
+Como tais fundamentos não foram impugnados, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 1022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
