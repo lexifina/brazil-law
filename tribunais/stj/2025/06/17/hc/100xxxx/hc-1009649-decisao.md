@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de MIKE GUIMARAES RIBEIRO em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2149519-44.2025.8.26.0000.
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006 e no art. 29 do Código Penal.
+A impetrante sustenta que a prisão preventiva foi decretada com base em denúncia anônima, sem comprovação objetiva de que ele seja o indivíduo conhecido como "Dentinho", mencionado pela corré DANIELA APARECIDA DE ALENCAR SILVA, que confessou estar guardando drogas a pedido de "Dentinho".
+Assevera que não há provas concretas que vinculem o paciente aos entorpecentes apreendidos, sendo a única evidência a declaração unilateral da corré, sem testemunhas, gravações ou interceptações que corroborem a acusação.
+Afirma que a prisão preventiva foi decretada sem fundamentação idônea, baseada em presunções genéricas sobre a gravidade abstrata do crime e no histórico criminal do paciente, sem apontar risco concreto à ordem pública.
+Alega que a decisão judicial violou o princípio da isonomia, pois a corré, que confessou a guarda direta da substância ilícita, responde em liberdade, enquanto o paciente permanece encarcerado.
+Informa que o paciente possui condições pessoais favoráveis, como residência fixa, atividade laborativa como autônomo e não representa risco ao andamento do processo.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente seja imediatamente colocado em liberdade, determinando o relaxamento da prisão em flagrante por manifesta ilegalidade, nos termos do art. 5º, inciso LXV, da Constituição Federal. Subsidiariamente, requer a revogação da prisão preventiva, com a concessão de liberdade provisória, com ou sem imposição de medidas cautelares diversas da prisão, conforme art. 319 do CPP.
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que (fl. 18):
+Malgrado a quantidade de drogas localizadas não seja exorbitante (2,83g de cocaína - massa líquida - fls. 109/111 da origem), trata-se de paciente reincidente específico (fls. 38/39, idem), circunstância que não recomenda sua soltura neste estágio liminar, sob pena de se colocar em risco a ordem pública, a conveniência da instrução criminal e a própria aplicação da lei penal. A propósito, o C. Superior Tribunal de Justiça: "1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria. 2. No caso, em que pese a pequena quantidade de drogas - 5g de crack - o decreto constritivo tem como fundamento a garantia da ordem pública, haja vista a reiterada conduta delitiva do paciente" (STJ, AgRg no HC nº 741.621/SC, rel. Min. Ribeiro Dantas, Quinta Turma, j. em 23/08/2022). Demais disso, a decisão antagonizada não se mostra teratológica ou totalmente desprovida de fundamentação para que seja, neste momento, revogada.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
