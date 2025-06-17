@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AFERE MOTORES ELÉTRICOS LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/11/2024.
+Concluso ao gabinete em: 13/2/2025.
+Ação: de cobrança movida por MAURILIO COSTA SIMAO em face de AFERE MOTORES ELÉTRICOS LTDA.
+Sentença: julgou procedente para condenar a parte ré/ agravante ao pagamento de 117 parcelas do contrato discutido nesta lide, no valor de R$ 3.750,00, acrescido de correção monetária e juros de mora.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - COMISSÃO DE CORRETAGEM - COMPROMISSO DE COMPRA E VENDA DE BENS MÓVEIS E IMÓVEIS - RESCISÃO DO CONTRATO - TAXA DE CORRETAGEM PELO COMPRADOR. - A corretagem se caracteriza por ser uma obrigação de resultado, exigindo-se que o intermediário atue de modo efetivo e eficaz na conclusão do negócio para ter direito à remuneração. - Aquele que, no exercício de sua atividade profissional de corretor, comprovadamente aproxima as partes, tem direito à respectiva comissão, ainda que posteriormente o contrato de compra e venda seja rescindido pelas partes. Inteligência do art. 728 do Código Civil. - É possível o vendedor transferir para os compradores a responsabilidade do pagamento de comissão de corretagem pela venda dos bens por ele comercializado, deixando especificado em contrato a responsabilidade pelo pagamento. (e-STJ fl. 215)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 369, 371 e 373, do CPC; e 722, 724 725 e 726, do CC. Sustenta inexistência de liame contratual entre as partes. Aduz que não há contrato de corretagem entre as partes envolvidas, o que inviabiliza a cobrança da comissão de corretagem. Assevera que "a falta de assinatura do Recorrido no compromisso de compra e venda levanta sérias dúvidas sobre sua participação e comprometimento no acordo." Afirma que " não há documentação escrita que comprove que a Recorrente/compradora tenha contratado o Recorrido para intermediar o negócio ou tenha aceitado pagar a comissão de corretagem." (e-STJ fl. 256) Aponta que a responsabilidade pelo pagamento da comissão de corretagem deve recair sobre a vendedora, não havendo fundamento jurídico para imputar essa obrigação ao comprador. Alega que inexistência de comprovação da efetiva atuação do recorrido/ agravado no processo negocial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que: a) restou demonstrado o serviço de corretagem prestado pelo recorrido, bem como o dever de pagar a taxa do serviço pelo recorrente; b) pelos fatos narrados nas peças processuais e documentos acostados depreende-se que o autor intermediou o negócio de compra e venda e que a ré se comprometeu a pagar por tal serviço; c) a existência do negócio jurídico pode ser aferida, mesmo sem o instrumento contratual de corretagem; d) a ré não é a contratante do serviço de intermediação prestado pelo autor e que é possível a transferência do dever de pagar a taxa de corretagem ao comprador; f) o autor, mesmo não sendo corretor, prestou o serviço; e g) é evidente a discriminação feita ao corretor; exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
