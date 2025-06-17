@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 11/06/2025 a 17/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRIBUIÇÕES AO PIS E À COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE. DESCARACTERIZAÇÃO COMO CUSTO DE AQUISIÇÃO PREVISTO NO ART. 13 DO DECRETO-LEI N. 1.598/77. CONTROVÉRSIA DECIDIDA NO TEMA N. 1231/STJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO, TAMPOUCO DE SOBRESTAR O FEITO. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada deu provimento aos embargos de divergência para aplicar a tese firmada pela Primeira Seção, sob o rito dos repetitivos (Tema n. 1231), por ocasião do julgamento do REsp n. 2.072.621/SC; REsp n. 2.075.758/ES; e EREsp n. 1.959.571/RS; julgados em 20/6/2024, publicados no DJe de 25/6/2024, relatados pelo Ministro Mauro Campbell Marques.
+2. O entendimento assente tanto no Superior Tribunal de Justiça quanto no Supremo Tribunal Federal é no sentido da desnecessidade de se aguardar o trânsito em julgado para a aplicação de paradigma firmado em recurso repetitivo ou em repercussão geral, ainda que pendente de apreciação embargos de declaração. Por conseguinte, tampouco há falar em sobrestamento do feito.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LOJAS COLOMBO S/A COMÉRCIO DE UTILIDADES DOMÉSTICAS contra decisão de minha lavra (fls. 4955-499) que deu provimento aos embargos de divergência para, cassando o acórdão embargado, dar provimento ao agravo interno da FAZENDA NACIONAL, de modo a adequar o julgado ao Tema 1231 do STJ.
+Aduz a parte agravante a Primeira Seção do STJ ainda não determinou os termos da modulação dos efeitos do Tema n. 1231, o que torna incerto se seria aplicável ao caso concreto.
+Requer, pois, a reforma da decisão agravada, em razão da pendência de julgamento de embargos de declaração no referido Tema e da possibilidade de efeitos infringentes e modulação de efeitos. Alternativamente, o sobrestamento do caso até o julgamento dos embargos de declaração.
+Sem contrarrazões (fl. 524).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRIBUIÇÕES AO PIS E À COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE. DESCARACTERIZAÇÃO COMO CUSTO DE AQUISIÇÃO PREVISTO NO ART. 13 DO DECRETO-LEI N. 1.598/77. CONTROVÉRSIA DECIDIDA NO TEMA N. 1231/STJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO, TAMPOUCO DE SOBRESTAR O FEITO. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada deu provimento aos embargos de divergência para aplicar a tese firmada pela Primeira Seção, sob o rito dos repetitivos (Tema n. 1231), por ocasião do julgamento do REsp n. 2.072.621/SC; REsp n. 2.075.758/ES; e EREsp n. 1.959.571/RS; julgados em 20/6/2024, publicados no DJe de 25/6/2024, relatados pelo Ministro Mauro Campbell Marques.
+2. O entendimento assente tanto no Superior Tribunal de Justiça quanto no Supremo Tribunal Federal é no sentido da desnecessidade de se aguardar o trânsito em julgado para a aplicação de paradigma firmado em recurso repetitivo ou em repercussão geral, ainda que pendente de apreciação embargos de declaração. Por conseguinte, tampouco há falar em sobrestamento do feito.
+3. Agravo interno desprovido.
+VOTO
+A insurgência não merece guarida.
+A decisão agravada deu provimento aos embargos de divergência da FAZENDA NACIONAL, negando provimento ao recurso especial do contribuinte, com base no precedente vinculante da Primeira Seção, que decidiu, sob o rito dos repetitivos (Tema 1231), no mesmo sentido do acórdão paradigma, por ocasião do julgamento do REsp n. 2.072.621/SC; REsp n. 2.075.758/ES; e EREsp n. 1.959.571/RS; julgados em 20/6/2024, publicados no DJe de 25/6/2024, relatados pelo Ministro Mauro Campbell Marques, cuja tese foi fixada nestes termos:
+10.1. Os tributos recolhidos em substituição tributária não integram o conceito de custo de aquisição previsto no art. 13, do Decreto-Lei n. 1.598/77; e
+10.2. Os valores pagos pelo contribuinte substituto a título de ICMS-ST não geram, no regime não cumulativo, créditos para fins de incidência das contribuições ao PIS/PASEP e COFINS devidas pelo contribuinte substituído.
+Julgada a questão controvertida sob o rito dos repetitivos, eventual interposição de recurso não obsta a imediata aplicação do entendimento firmado no precedente qualificado. Por conseguinte, tampouco há falar em sobrestamento do feito.
+A propósito, a jurisprudência firmada por esta Corte é no sentido de que:
+"As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais aclaratórios. Precedentes do STJ e do STF." (AgInt nos EmbExeMS n. 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018).
+(EDcl no AgInt no AREsp n. 2.033.339/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022; sem grifos no original.)
+A Corte Especial orienta que "tanto os julgados do STJ quanto os do STF já firmaram entendimento no sentido de ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou em repercussão geral" (EDcl nos EREsp n. 1.150.549/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2018, DJe de 23/3/2018).
+(AgInt nos EREsp n. 1.842.390/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 30/5/2023, DJe de 2/6/2023.)
+No mesmo diapasão:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRIBUIÇÕES AO PIS E À COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE. DESCARACTERIZAÇÃO COMO CUSTO DE AQUISIÇÃO PREVISTO NO ART. 13 DO DECRETO-LEI N. 1.598/77. CONTROVÉRSIA DECIDIDA NO TEMA N. 1231. EMBARGOS DE DIVERGÊNCIA PROVIDOS. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO, TAMPOUCO DE SOBRESTAR O FEITO. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada deu provimento aos embargos de divergência para aplicar a tese firmada pela Primeira Seção, sob o rito dos repetitivos (Tema n. 1231), por ocasião do julgamento do REsp n. 2.072.621/SC; REsp n. 2.075.758/ES; e EREsp n. 1.959.571/RS;
+julgados em 20/6/2024, publicados no DJe de 25/6/2024, relatados pelo Ministro Mauro Campbell Marques.
+2. O entendimento assente tanto no Superior Tribunal de Justiça quanto no Supremo Tribunal Federal é no sentido da desnecessidade de se aguardar o trânsito em julgado para a aplicação de paradigma firmado em recurso repetitivo ou em repercussão geral, ainda que pendente de apreciação embargos de declaração. Por conseguinte, tampouco há falar em sobrestamento do feito.
+3. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.428.247/RS, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 12/2/2025, DJEN de 18/2/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE. TEMA 1231. RECURSOS REPRESENTATIVOS JÁ JULGADOS. APLICAÇÃO IMEDIATA. AGRAVO IMPROVIDO.
+1. A Primeira Seção do Superior Tribunal de Justiça, sob relatoria do Ministro Mauro Campbell Marques, no EREsp 1.959.571/RS, REsp 2.075.758/ES e REsp 2.072.621/SC, submetidos à sistemática dos recursos repetitivos, decidiu que os valores pagos pelo contribuinte substituto a título de ICMS-ST não geram, no regime não cumulativo, créditos para fins de incidência das contribuições ao PIS/PASEP e COFINS devidas pelo contribuinte substituído. (Tema 1231).
+2. É entendimento pacífico no âmbito desta Corte Superior de Justiça que não é necessário aguardar o trânsito em julgado de processo que julgou matéria repetitiva ou com repercussão geral para aplicação imediata do entendimento.
+3. Embora o EREsp 1.959.571/RS ainda esteja pendente de embargos de declaração, os acórdãos proferidos no REsp 2.075.758/ES e no REsp 2.072.621/SC já transitaram em julgado em 16/08/2024, não havendo qualquer situação que altere a tese definida nos referidos recursos representativos de controvérsia.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 2.012.465/RS, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 17/12/2024, DJEN de 24/12/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
