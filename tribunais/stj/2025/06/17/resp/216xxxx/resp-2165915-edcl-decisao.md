@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se embargos de declaração opostos por ASSOCIACAO BENEFICENTE PORTUGUESA DE BAURU contra decisão unipessoal de e-STJ fls. 1571-1574 que conheceu parcialmente do recurso especial interposto por DENISE LOURENCO TIMPANO e, nessa extensão, deu-lhe provimento "para reformar o acórdão recorrido e a sentença e determinar o retorno dos autos ao Juízo de primeiro grau, a fim de que, superada a questão da prescrição, prossiga à instrução do processo, com posterior julgamento, observando o devido processo legal".
+Nas razões do presente recurso, a parte embargante alega a ocorrência de omissão na decisão embargada, por não demonstrar qual o fato que deveria ser apurado por meio de inquérito policial.
+É O RELATÓRIO. DECIDE-SE.
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do julgador.
+Na espécie, contudo, verifica-se que as questões apontadas pelos embargantes não constituem algum desses vícios, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Ressalta-se que "a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia" (EDcl no REsp 1.993.772/PR, Terceira Turma, DJe 12/8/2022; EDcl no AgInt nos EAREsp 1.772.275/SC, Corte Especial, DJe 29/6/2023).
+A decisão embargada consignou expressamente que "no particular, o Tribunal de origem reconheceu que houve a instauração de inquérito policial para apurar o fato apontado como causa do dano moral objeto desta ação, consistente na morte do genitor da recorrente (autora) por suposto erro médico, mas afastou a incidência do art. 200 do CC" (e-STJ fl. 1573).
+Assim, a decisão reformou o acórdão recorrido, concluindo que, "uma vez reconhecida a instauração de inquérito policial para apurar o fato discutido na ação reparatória cível, incide a causa impeditiva da prescrição prevista no art. 200 do CC/2002, afastando-se a ocorrência da prescrição na espécie, tendo em vista que não ultrapassou o prazo de cinco anos (art. 27 do CDC) entre o arquivamento do inquérito (20/3/2021) e o ajuizamento da ação (24/6/2022)" (e-STJ fl. 1573).
+Portanto, não havendo omissão, contradição, obscuridade ou erro material na decisão embargada, impõe-se a rejeição dos presentes embargos de declaração.
+Forte nessas razões, REJEITO os embargos de declaração.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do julgador.
+2. Não havendo omissão, contradição, obscuridade ou erro material na decisão embargada, impõe-se a rejeição dos embargos de declaração.
+3. Embargos de declaração rejeitados.
