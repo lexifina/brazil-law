@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL AFONSO AZEVEDO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (fl. 2).
+Na inicial, a defesa informa que o paciente foi condenado à pena de 12 anos e 6 meses de reclusão em regime inicial fechado pela prática de homicídio privilegiado, conforme o art. 121, §1º, combinado com o §2º, IV, do Código Penal (fls. 03-04).
+Alega que o Tribunal, ao dar provimento ao recurso do Ministério Público, afastou o privilégio reconhecido pelos jurados e determinou a submissão do réu a novo julgamento, sob o fundamento de que a decisão foi manifestamente contrária à prova dos autos (fl. 04).
+Sustenta que a decisão dos jurados, que reconheceu que o réu agiu por motivo de relevante valor moral, está amparada no conjunto probatório, que revela uma relação histórica de conflitos, brigas, ofensas e ameaças mútuas entre réu e vítima, culminando em agressões físicas anteriores ao fato (fls. 04-05).
+Afirma que não há motivos jurídicos para a cassação da sentença que acolheu soberanamente o veredicto do Conselho de Sentença, reconhecendo o homicídio privilegiado e afastando a qualificadora do motivo torpe (fls. 05-06).
+No mérito, a defesa requer que seja mantida a sentença de primeiro grau, em homenagem ao respeito devido à soberania dos veredictos e à segurança jurídica dos atos processuais regularmente proferidos (fls. 06-07).
+Além disso, solicita o redimensionamento da pena do paciente (fl. 06).
+A liminar foi indeferida (fls. 57-58).
+Informações da autoridade coatora (fls 66-67 e 68-100).
+Parecer do Ministério Público Federal pela extinção do writ sem apreciação do mérito ou pela denegação da ordem (fls. 105-110).
+É o relatório. DECIDO.
+Cinge-se a controvérsia sobre possível ilegalidade na decisão do tribunal local que deu provimento a recurso do Ministério Público para " ..  cassar a decisão proferida pelo conselho de sentença, e determinar a submissão do réu Gabriel a novo julgamento, nos termos do artigo 593, § 3º, do Código de Processo Penal  .. ".
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+A decisão do tribunal de origem foi devidamente fundamentada ao dar provimento ao recurso do Ministério Público, como se vê (fls. 17-18):
+" ..  Conforme se extrai dos depoimentos acima transcritos, tem-se que o crime foi cometido por vingança, fruto de ânimo refletido e planejado, posto que a prova que se tem nos autos é de que ele, dias antes, teria tido uma contenda com a vítima ao ponto de se agredirem fisicamente, e o réu teria jurado vingança. No dia do crime, o réu, armado, foi ao encontro da vítima e, após uma discussão, efetuou diversos disparos de arma de fogo, causando-lhe a morte. Por todos esses elementos, resta manifestamente contrária à prova dos autos a decisão dos jurados que reconheceu que o réu agiu por motivo de relevante valor moral, vez que totalmente desprovida de suporte probatório, sendo, portanto, de rigor impor a sua cassação, nos termos do artigo 593, inciso III, alínea "d", do Código de Processo Penal, com a submissão do réu a novo julgamento, restando prejudicado, portanto, o recurso da defesa  .. ".
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
