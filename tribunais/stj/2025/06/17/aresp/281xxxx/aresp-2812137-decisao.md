@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por ELISANGELA DA SILVA SANTOS contra decisão que ob stou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 181):
+APELAÇÃO CÍVEL. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. REVISÃO DO VALOR DA CAUSA. ART. 292 DO CPC. CORRESPONDÊNCIA COM O CONTEÚDO PATRIMONIAL EM DISCUSSÃO. VALOR DA CAUSA. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. IMPOSSIBILIDADE DE COBRANÇA. SENTENÇA REFORMADA. 1. A apreciação do valor da causa é regida pelos artigos 292 e 292, § 3º, do Código de Processo Civil, que estabelecem que o valor atribuído à causa deve corresponder à estimação econômica do direito em disputa, facultando ao juiz a correção de ofício quando o valor não refletir o conteúdo patrimonial envolvido, assegurando que o valor atribuído à causa reflita adequadamente o conteúdo patrimonial em disputa e a realidade econômica do direito questionado. 2. O reconhecimento da prescrição da pretensão impede tanto a cobrança judicial quanto a cobrança extrajudicial do débito, conforme jurisprudência recente do STJ (R Esp n. 2.088.100/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, D Je de 23/10/2023). A prescrição, um fenômeno do direito material, torna ineficaz a pretensão de cobrança da dívida, independentemente do meio utilizado para a sua execução, impondo-se a exclusão do nome do apelante/autor da plataforma de cobrança/acordo. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Rejeitados os embargos de declaração opostos (fl. 208).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022, I, II e III, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 264, 322, 491, 524, 534, 798 e 916 do CPC, 389, 395, 404, 418, 772 e 884 do CC.
+Sustenta, ainda, violação dos arts. 292, I e II, § 3º, e 293 do CPC, art. 6º, §4º, da Lei n. 6.830/1980. Defende que o valor da causa deve incluir o montante atualizado da dívida e que a alteração feita pelo Juízo de origem foi indevida porque a questão estaria preclusa.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 312-314), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, verifica-se que, quanto à alegada ofensa aos arts. 489 e 1.022, I, II, e III, do CPC, a parte não especificou a suposta omissão do acórdão, mas apenas alegou desrespeito a dispositivos legais. Assim, é inviável o conhecimento do recurso especial nesse ponto, ante o óbice da Súmula 284/STF.
+Quanto à alegação de afronta aos arts. 264, 322, 491, 524, 534, 798 e 916 do CPC, 389, 395, 404, 418, 772 e 884 do CC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, em relação à apontada ofensa aos arts. 292, I e II, §3º, e 293 do CPC, art. 6º, § 4º, da Lei n. 6.830/1980, à possibilidade de alteração do valor da causa de ofício, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Alterar o decidido no acórdão impugnado, no que se refere à desproporcionalidade do valor atribuído à causa, bem como à possibilidade de alteração de ofício, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. VALOR DA CAUSA. ANULAÇÃO DE ATO JURÍDICO. VALOR CONTIDO NA ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA QUE SE PEDE ANULAÇÃO. ALTERAÇÃO DO VALOR DA CAUSA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça orienta que a "previsão legal tanto do CPC/73 (art. 259, V) como do CPC/2015 (art.
+292, II), de que o valor da causa será "na ação que tiver por objeto a existência, a validade, o cumprimento, a modificação, a resolução, a resilição ou a rescisão de ato jurídico, o valor do ato ou o de sua parte controvertida"" (RMS 56.678/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/04/2018, DJe 11/05/2018).
+2. A discussão, neste momento processual, se o valor da causa, por ocasião do ajuizamento da ação, correspondia ao valor atualizado do ato jurídico objeto do litígio, além de se mostrar preclusa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em face da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.053.940/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. SÚMULA 284/STF. MERA ENUMERAÇÃO DE ARTIGOS DE LEI. SÚMULA 284/STF. REVISÃO DO VALOR DA CAUSA. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
