@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO DE ALMEIDA NOBREGA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DA PARAÍBA (HC n. 0800053- 80.2025.8.15.0000). Consta dos autos que o paciente foi preso em flagrante no dia 2 de janeiro de 2025, sob a acusação de tráfico de drogas, previsto no artigo 33, caput, da Lei n. 11.343/2006. A prisão decorreu de denúncia anônima sobre comercialização de entorpecentes. Durante diligência policial, foram encontradas porções de substância semelhante à cocaína, sementes de maconha, uma balança de precisão e R$ 64,00 (sessenta e quatro reais) em espécie na residência do paciente. O impetrante sustenta a ausência de fundamentação concreta para a prisão preventiva e a desnecessidade da medida extrema. Aduz que o paciente é primário, possui residência fixa e ocupação lícita, não havendo indicativo de que integre organização criminosa ou que sua liberdade represente ameaça efetiva à sociedade. Acrescenta que o delito imputado não envolveu violência ou grave ameaça. Destaca que a prisão preventiva é desproporcional e que há possibilidade de aplicação de medidas cautelares diversas da prisão, conforme o art. 319 do Código de Processo Penal.
+Requer, liminarmente, a revogação da prisão preventiva com expedição de alvará de soltura em favor do paciente. No mérito, a concessão da ordem para revogar a prisão preventiva, garantindo ao paciente o direito de responder ao processo em liberdade, com eventual adoção de medidas cautelares diversas da prisão.
+Pedido liminar indeferido às fls. 359-361.
+Informações prestadas às fls. 364-391.
+Parecer do Ministério Público Federal, às fls. 393-396, pela concessão da ordem.
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem assim manteve a segregação cautelar, consoante ementa abaixo (fl.17):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. IRRESIGNAÇÃO. AUSÊNCIA DE ILEGALIDADE. ART. 312 DO CPP. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. MEDIDAS DIVERSAS DA PRISÃO. NÃO CABIMENTO. PERICULUM LIBERTATIS. SEGREGAÇÃO CAUTELAR NECESSÁRIA ORDEM DENEGADA. A prisão preventiva encontra-se devidamente fundamentada na gravidade concreta dos delitos e, considerando o modus operandi do agente, é descabida a substituição por outras medidas cautelares, sendo a segregação cautelar meio necessário para a preservação da ordem pública.
+Verifico que a medida cautelar extrema foi, em princípio, suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial gravidade dos fatos. No entanto, esta Corte Superior de Justiça possui o entendimento de que determinadas quantidades de entorpecentes, ainda que não possam ser consideradas irrelevantes, não permitem concluir, por si sós, pela necessidade da segregação provisória.
+Assim, considerando, na espécie, a apreensão de pequenas porções de cocaína, condicionadas em pinos e em envelopes , bem como a primariedade do acusado, mostra-se possível, segundo a orientação da Sexta Turma deste Tribunal, a substituição da custódia por medidas cautelares diversas.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. CAUTELAR EXTREMA DESPROPORCIONAL.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, embora não se possa falar que o decreto prisional é desprovido de motivação, pois invoca a quantidade e a forma de acondicionamento das drogas, a primariedade do acusado e a quantidade não exacerbada de entorpecentes apreendidos não se mostra excessiva, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 879.961/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. POSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO IMPROVIDO.
+1. Tratando-se de réu tecnicamente primário, não sendo relevante a quantidade de entorpecente apreendido, em se considerando que o crime de tráfico de drogas não envolve violência ou grave ameaça à pessoa, tem-se por suficiente a substituição da custódia por medidas cautelares diversas.
+(..)
+3. Agravo regimental improvido.
+(AgRg no HC n. 821.552/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+Ante o exposto, concedo a ordem de habeas corpus para substituir a prisão preventiva do paciente, se por algum outro motivo não estiver preso, pelas medidas cautelares descritas nos incisos I (comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades) e IX (monitoração eletrônica) do art. 319 do Código de Processo Penal.
+Ficará a cargo do Juízo de primeira instância especificar as condições e fiscalizar o cumprimento das medidas impostas, o qual poderá, também, acrescer outras cautelares necessárias, desde que devidamente justificadas.
+Alerte-se ao paciente que a prisão preventiva poderá novamente ser decretada em caso de descumprimento das referidas medidas (art. 282, § 4.º, c.c. o art. 316 do Código de Processo Penal) ou de superveniência de fatos novos.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+ EMENTA
