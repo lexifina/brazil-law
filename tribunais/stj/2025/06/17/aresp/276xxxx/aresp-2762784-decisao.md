@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDO DE INVESTIMENTO IMOBILIARIO - FII BRISA RENDA IMOBILIARIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 121):
+Agravo de instrumento. Ação de despejo por falta de pagamento cumulada com cobrança. Fase de cumprimento de sentença. Decisão que rejeitou o novo pedido formulado pelo exequente, voltado ao reconhecimento da penhorabilidade dos direitos aquisitivos sobre o imóvel pertencente à fiadora de contrato de locação comercial. Insurgência do exequente alegando que o anterior reconhecimento da natureza de bem de família do imóvel em questão, se pauta em jurisprudência pretérita, que foi alterada pelo E. STF, conforme se verifica no Tema de Repercussão Geral nº 1.127. Descabimento. Requerimento de penhora já analisado por este E. Tribunal, em agravo de instrumento pretérito, onde foi reconhecida e declarada a impenhorabilidade do bem de família objeto da lide, nos exatos termos do quanto determinado pelo C. STF no Recurso Extraordinário nº 1.294.055/SP. Questão que não pode ser modificada, sob pena de afronta à coisa julgada. Art. 5º, XXXVI da CF e art. 507 do CPC. Decisão mantida. Recurso não provido.
+Rejeitados os embargos de declaração opostos (fls. 138/143).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação do art. 927, III, do CPC.
+A recorrente insurge-se contra a decisão que declarou a impenhorabilidade do objeto da lide. Sustenta, em síntese, que, no caso, não há que se falar em preclusão ou coisa julgada, uma vez que não se está tratando de sentença de mérito, mas, sim, de mera decisão interlocutória relativa a ato executório proferida durante o regular trâmite de um cumprimento definitivo de sentença. Aduz que deve haver a imediata aplicação no novo posicionamento jurisprudencial, no sentido de que é constitucional a penhora de bem de família pertencente a fiador de contrato de locação, seja residencial ou comercial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 198/202).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 2015/217), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 259/262).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento ao agravo de instrumento deixou claro que (fls. 124):
+Diante disso, sendo reconhecida a impenhorabilidade do bem imóvel de propriedade da executada, não se pode agora reabrir a discussão, sob pena de violação à coisa julgada, assegurada pelo artigo 5º, inciso XXXVI, da Constituição Federal, e também pelo que dispõe o artigo 507 Código de Processo Civil, que veda à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+O Tribunal de origem concluiu no sentido de que, tendo sido reconhecida a a impenhorabilidade do bem imóvel de propriedade da executada em decisão transitada em julgado, não se pode agora reabrir a discussão, sob pena de violação à coisa julgada, assegurada pelo artigo 5º, inciso XXXVI, da Constituição Federal, e também pelo que dispõe o artigo 507 Código de Processo Civil, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 123/127):
+Em que pese a insistência do exequente, a r. decisão não comporta reforma.
+Ao que consta dos autos de origem, foi determinada a penhora do bem imóvel de propriedade da executada na condição de fiadora. Contudo, a executada, ora agravada, interpôs o agravo de instrumento, arguindo a impenhorabilidade do bem imóvel em questão, restando o recurso provido para que fosse reconhecida e declarada a impenhorabilidade do bem de família objeto da lide, nos exatos termos do quanto determinado pelo C. Supremo Tribunal Federal no Recurso Extraordinário nº 1.294.055/SP (trecho do voto do agravo de instrumento de nº 2261230-64.2019.8.26.0000 realces não originais).
+Para melhor compreensão, transcreve-se a ementa do v. acórdão:
+Agravo de instrumento. Ação de despejo por falta de pagamento cumulada com cobrança. Fase de cumprimento de sentença. Impugnação à penhora. Penhora de bem imóvel pertencente à fiadora de contrato de locação comercial. Alegação de impenhorabilidade, por se tratar de bem de família. Decisão que rejeitou a impugnação à penhora. Venerando acórdão que negou provimento ao agravo de instrumento. Recurso Extraordinário interposto. Matéria concernente à impossibilidade de penhora do bem de família em contratos de locação comercial devolvida à apreciação da Colenda Câmara por força de decisão proferida em Recurso Extraordinário. Determinação de observação da jurisprudência do Egrégio Supremo Tribunal Federal acerca da referida temática. Decisão reformada. Recurso provido. (TJ/SP, Agravo de Instrumento nº 2261230-64.2019.8.26.0000, Desta Relatoria, 33ª Câmara de Direito Privado. Julgado em 12/4/2021) (realces não originais)
+A consulta ao sistema informatizado deste E. Tribunal mostra que v. acórdão transitou em julgado no dia 3/8/2021.
+Diante disso, sendo reconhecida a impenhorabilidade do bem imóvel de propriedade da executada, não se pode agora reabrir a discussão, sob pena de violação à coisa julgada, assegurada pelo artigo 5º, inciso XXXVI, da Constituição Federal, e também pelo que dispõe o artigo 507 Código de Processo Civil, que veda à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+Em casos similares, assim já se decidiu:
+(..)
+Por tudo isso, não há como acolher a pretensão do agravante, devendo-se manter a r. decisão por seus próprios e bem lançados fundamentos.
+Ante o exposto, nega-se provimento ao agravo de instrumento.
+Afastar o referido entendimento para concluir no sentido de que a decisão pode ser reformada sem ofensa à coisa julgada, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE BEM. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
