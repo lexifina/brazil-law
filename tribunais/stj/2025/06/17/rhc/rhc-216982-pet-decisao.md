@@ -1,0 +1,9 @@
+DECISÃO
+A defesa de PATRÍCIA SILVA NUNES - beneficiada com a concessão da ordem para substituir a prisão preventiva pela custódia domiciliar, "mediante monitoramento eletrônico, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar adequadas e suficientes" - comunica que, embora o Juízo da Vara Criminal da Comarca de Bocaiuva/MG tenha expedido alvará de soltura em 5/6/2025, "a paciente permanece indevidamente presa, sob a justificativa informal da ausência de tornozeleiras eletrônicas disponíveis".
+Pleiteia "sejam adotadas as providências cabíveis para o cumprimento efetivo da decisão proferida, com eventual comunicação aos órgãos competentes", bem como "se determine à autoridade coatora o cumprimento da decisão, ainda que sem monitoramento eletrônico, ou com substituição da medida por alternativa compatível".
+Todavia, observo que esta petição foi deficientemente instruída, pois a requerente não juntou aos autos nenhum documento que ateste a situação jurídica da paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, não conheço do pedido.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as peças faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
+EMENTA
