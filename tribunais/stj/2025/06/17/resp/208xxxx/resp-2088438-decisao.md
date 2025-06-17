@@ -1,0 +1,82 @@
+DECISÃO
+Em agravo em recurso especial interposto por Jair Rogério Mereb Farias contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul (e-STJ fls. 645-653), examina-se a inadmissão do recurso especial, fundada na aplicação das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, além da Súmula n. 284 do Supremo Tribunal Federaç , por deficiência de fundamentação e falta de demonstração de dissídio jurisprudencial.
+O agravante foi pronunciado, em primeiro grau, pelo delito previsto no art. 121, §2º, IV, do Código Penal, fato praticado, em tese, em 01/01/2021.
+Em análise de recurso em sentido estrito, o Tribunal de Justiça do Estado do Rio Grande do Sul (e-STJ fls. 572-573) reformou parcialmente a sentença, decotando a qualificadora do recurso que dificultou a defesa da vítima, mas mantendo a pronúncia quanto ao restante. O acórdão fundamentou-se na existência de indícios suficientes de autoria e participação, mas considerou que a qualificadora não estava caracterizada, pois o ataque ocorreu após uma discussão entre as partes, e a vítima teria agredido o recorrente inicialmente com uma barra de ferro.
+O recurso especial, com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, alegou violação aos artigos 121, §2º, IV, do Código Penal, e 74, §1º, e 413, caput e §1º, do Código de Processo Penal, e requereu o reconhecimento da legítima defesa e a consequente absolvição sumária do recorrente, além do afastamento da qualificadora (e-STJ fls. 590-595).
+O recurso não foi admitido pelo Tribunal de origem porque (e-STJ fls. 645-653) a pretensão de simples reexame de prova não enseja recurso especial, conforme a Súmula n. 7 do STJ, e a orientação do tribunal se firmou no mesmo sentido da decisão recorrida, aplicando-se a Súmula n. 83 do STJ. Além disso, a deficiência na fundamentação não permitiu a exata compreensão da controvérsia, conforme a Súmula n. 284 do STF.
+Na petição de agravo em recurso especial (e-STJ fls. 672-681), o agravante busca impugnar a decisão de inadmissão. Alega, em síntese, que a matéria trazida em sede de recurso especial não esbarra na referida Súmula do Superior Tribunal de Justiça, uma vez que a orientação do tribunal a quo não está firmada pelo tribunal ad quem, devendo assim ser o recurso devidamente admitido. Ademais, sustenta que a discussão não é fática, mas jurídica, sobre a valoração do fato, e que a legítima defesa restou evidentemente demonstrada, fato este reforçado pelo próprio juízo de 1º grau. Por fim, argumenta que a divergência apresentada pela defesa foi devidamente demonstrada, nos termos do que rege o art. 105, inciso III, alínea c, da Constituição Federal, tendo em vista o posicionamento do Tribunal de Justiça de Minas Gerais ao julgar de forma divergente do tribunal gaúcho, uma situação similar ao presente caso.
+O Ministério Público Federal manifestou-se pelo desprovimento dos agravos em recurso especial da defesa e provimento do recurso especial ministerial (e-STJ fls. 717-727), em parecer assim ementado:
+"AGRAVOS EM RECURSOS ESPECIAIS. SENTENÇA DE PRONÚNCIA. INVIABILIDADE DE ANÁLISE DA PRETENSÃO ABSOLUTÓRIA. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. NÃO PROVIMENTO DOS AGRAVOS. RECURSO ESPECIAL MINISTERIAL. PROVIMENTO. SENTENÇA QUE VIOLA O PRINCÍPIO DO IN DUBIO PRO SOCIETATE, POSTO QUE INDICA A EXISTÊNCIA DE INDÍCIOS MÍNIMOS DE QUE HOUVE SITUAÇÃO QUE JUSTIFICA A QUALIFICADORA, MAS, FUNDAMENTADA NA INEXISTÊNCIA DE CERTEZA, A DECOTOU DA PRONÚNCIA."
+É o relatório.
+Decido.
+O agravo é tempestivo e impugna os fundamentos da decisão recorrida. Passa-se ao exame.
+Acerca dos pleitos de impronúncia e absolvição sumária, assim consignou o tribunal de origem:
+"Como se vê, apesar da negativa dos réus Jair e William, há suficientes indícios da autoria e da participação que lhes são respectivamente atribuídas na denúncia, consoante deflui da conjugação dos relatos das testemunhas Ana, Diocelane, Kamile e Luiz (este último apenas quanto a Jair).
+"É bem verdade que a negativa de autoria - em verdade, a alegação de que o disparo teria ocorrido de forma acidental em razão de ação física no seu braço pela companheira da vítima - sustentada pelo réu Jair e a ausência de participação aduzida pelo réu William tiveram reforço nas declarações das testemunhas Alex, Filipe e Luiz (este último apenas em relação a William).
+"Ocorre que, havendo elementos de prova contrapostos, parcela dos quais colhida em Juízo e no sentido da versão acusatória, resulta inviável a impronúncia pretendida pela Defesa Técnica, incumbindo ao Conselho de Sentença, ao revés, porquanto constitucionalmente competente para tanto (artigo 5º, inciso XXXVIII, alínea "d", da Lei Fundamental), dirimir a esse respeito, reconhecendo ou não a autoria e a participação imputadas aos réus.
+"Nesse sentido, verbis gratia: ".."
+"E, em específico quanto à situação do acusado William, não obstante o teor da documentação anexada aos memoriais defensivos e os relatos colhidos acerca da sua condição de saúde, releva observar que a participação a ele atribuída na denúncia é essencialmente moral, consistente em prestar solidariedade com a sua presença incentivadora ao atirador e na instigação à execução dos disparos, de sorte que não se constata, para fins de mero juízo de admissibilidade da acusação, inviabilidade fática entre a aludida condição e tais formas de atuação.
+"Já no que se refere à alegação de atuação em legítima defesa, o seu reconhecimento na atual fase procedimental, com a consequente absolvição sumária dos réus, exigiria prova escorreita da ocorrência da causa justificante.
+"Nesse sentido, verbis gratia: ".."
+"No caso concreto, cumpre notar, a alegação justificante tem amparo nas narrativas das testemunhas Alex e Filipe, assim como no teor de relatório policial o qual contém fotografias as quais supostamente retratam lesões impostas ao réu Jair e danos impostos ao seu veículo em tese em decorrência do evento ora em apreço, cabendo ainda pontuar a existência de laudo pericial de acordo com o qual o acusado em tela apresentava lesões por instrumento não determinado cerca de 20 (vinte) dias após a ocorrência em questão.
+"Ocorre que, por outro lado, parcela da prova oral, notadamente os relatos das testemunhas Ana e Diocelane acerca da dinâmica do ocorrido, vai na contramão da narrativa defensiva em questão. Além disso, presente controvérsia, a partir da prova oral colhida, sobre a efetiva utilização de instrumento contundente pela vítima durante a contenda física, tampouco se pode descartar de plano o excesso em eventual ação defensiva, tendo em vista a natureza do instrumento empregado contra o ofendido (arma de fogo) e a localização do disparo, que o atingiu na região da cabeça.
+"Assim, existentes elementos de prova contrastantes também nesse aspecto, torna-se vedado, no atual momento processual, o acolhimento da tese em questão, com a consequente absolvição sumária prevista no artigo 415 do Código de Processo Penal. Ao contrário, na linha do acima exposto, tal exame deverá ser empreendido pelo órgão popular.
+"Por todos esses motivos, a análise do fato, incluindo as teses defensivas, incumbirá ao colendo Conselho de Sentença, que soberanamente decidirá a esse respeito." (fls. 570/571)
+A decisão recorrida alinha-se à jurisprudência deste egrégio Superior Tribunal de Justiça, pois, havendo duas vertentes narrativas nos autos, cabe ao tribunal do júri, juiz natural dos crimes dolosos contra a vida, dirimir a controvérsia. Cito:
+DIREITO PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIO TENTADO. ALEGADA AUSÊNCIA DE ANIMUS NECANDI. PEDIDO DE DESCLASSIFICAÇÃO. COMPETÊNCIA DO JURI. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme de que compete ao Tribunal do Júri, juiz natural da causa, dirimir eventual dúvida acerca da dinâmica dos fatos e decidir se a desclassificação para lesão corporal é cabível, diante da alegação de ausência de animus necandi.
+2. O Tribunal a quo, ao manter a decisão de pronúncia pela prática do crime de homicídio tentado, destacou não ser possível descartar a vontade livre e consciente do recorrente de ter intentado contra a vida da vítima, sendo inviável, portanto, a desclassificação requerida pela defesa nesta fase processual, considerando a competência exclusiva do Tribunal do Júri.
+3. Para alterar a conclusão a que chegaram as instâncias ordinárias, como requer a parte recorrente, seria imprescindível o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice da Súmula n. 7/STJ.
+4. Agravo em recurso especial a que se nega provimento.
+(AREsp n. 2.900.809/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. CRIME DE TRÂNSITO. DOLO EVENTUAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que deu provimento ao recurso especial do Ministério Público, restabelecendo a sentença de pronúncia do réu por crime de trânsito.
+2. O réu, ao dirigir embriagado e participar de um racha em alta velocidade, causou a morte de duas pessoas e lesão corporal gravíssima em outra. A decisão agravada considerou que a configuração do dolo eventual ou culpa consciente deve ser examinada pelo Tribunal do Júri.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a conduta do réu, ao dirigir embriagado e participar de um racha, configura dolo eventual ou culpa consciente, e se a decisão de pronúncia deve ser mantida para apreciação pelo Tribunal do Júri.
+4. Há também a discussão sobre a incidência da Súmula n. 7 do STJ, quanto à análise da presença de dolo eventual ou culpa consciente, e a alegada incerteza sobre o uso de álcool e excesso de velocidade.
+III. Razões de decidir
+5. A decisão agravada está fundamentada nos fatos concretos expostos no acórdão de origem, que reconhece a embriaguez do réu e a prática de racha em alta velocidade, afastando a incidência da Súmula n. 7 do STJ.
+6. A configuração do dolo eventual ou culpa consciente deve ser apreciada pelo Tribunal do Júri, órgão competente para julgar crimes dolosos contra a vida, devido à presença de elementos indiciários que geram dúvida sobre a atuação culposa.
+7. A relação afetiva do réu com as vítimas não afasta a gravidade da conduta de dirigir embriagado e realizar um racha, sendo irrelevante para a configuração do dolo eventual.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A configuração do dolo eventual ou culpa consciente em crimes de trânsito deve ser apreciada pelo Tribunal do Júri. 2. A relação pessoal do réu com as vítimas não afasta a gravidade da conduta de dirigir embriagado e realizar um racha. 3. A decisão de pronúncia deve ser mantida quando há elementos indiciários que geram dúvida sobre a atuação culposa".
+Dispositivos relevantes citados: Código Penal, art. 121; Código de Processo Penal, art. 413.Jurisprudência relevante citada: STJ, AgRg no REsp n. 2.069.872/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025; STJ, AgRg no AREsp n. 2.795.012/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2025.
+(AgRg no REsp n. 2.035.205/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Além da incidência do óbice trazido pela Súmula 83, tem-se que, tendo o Tribunal de Justiça do Estado do Rio Grande do Sul firmado a presença de provas suficientes da existência do fato e da autoria, aptas a submeter os réus a julgamento popular, a revisão de tal conclusão demandaria incursão fático-probatória, o que é vedado pela Súmula 7 desta Corte. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRONÚNCIA. DOLO EVENTUAL. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, mantendo a decisão de pronúncia do Tribunal de origem, que indicou a presença de indícios suficientes de autoria e materialidade para submeter o acusado ao Tribunal do Júri.
+2. O Tribunal de origem constatou que o acusado mantinha uma fábrica de fogos de artifício em condições precárias, sem autorização para funcionamento, sem exigir o uso de EPIs pelos empregados e com contratação indevida de adolescentes, o que configuraria possível dolo eventual.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão de pronúncia, que indicou a probabilidade de dolo eventual, deve ser mantida, ou se há elementos suficientes para desclassificar o crime para culposo, afastando a competência do Tribunal do Júri.
+III. Razões de decidir
+4. A análise do elemento subjetivo do tipo penal, se dolo eventual ou culpa consciente, deve ser realizada pelo Tribunal do Júri, juiz natural da causa, conforme entendimento consolidado desta Corte Superior.
+5. O revolvimento do acervo fático-probatório para infirmar as conclusões das instâncias antecedentes é inviável na instância especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "A análise do elemento subjetivo do tipo penal, se dolo eventual ou culpa consciente, deve ser realizada pelo Tribunal do Júri, juiz natural da causa, quando presentes indícios suficientes na fase de pronúncia".
+Dispositivos relevantes citados: CPP, art. 413; CP, art. 13, § 2º;
+CP, art. 18, I. Jurisprudência relevante citada: STJ, AgRg no AREsp 2.795.012/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2025; STJ, AgRg no AREsp 1.558.781/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2020.
+(AgRg no REsp n. 2.193.561/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. PRONÚNCIA. INDÍCIOS MÍNIMOS DE AUTORIA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. O recorrente foi pronunciado pela prática do crime previsto no art. 121, §2º, incisos I e IV, do Código Penal. A defesa alegou excesso de linguagem, inidoneidade da qualificadora de utilização de recurso que dificultou a defesa da vítima e ausência de indícios mínimos de autoria.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a pronúncia do agravante foi baseada exclusivamente em confissão extrajudicial e testemunhos indiretos, sem indícios mínimos de autoria, o que violaria o princípio in dubio pro societate.
+III. Razões de decidir
+3. A decisão de pronúncia encerra um juízo de prelibação, verificando a viabilidade da condenação sem avançar sobre o mérito, conforme art. 413 do Código de Processo Penal.
+4. A pronúncia não pode ser baseada exclusivamente em elementos informativos colhidos na fase inquisitorial, conforme jurisprudência do STJ.
+5. No caso concreto, a pronúncia foi fundamentada em confissão extrajudicial, prova oral colhida judicialmente e provas documentais, não se tratando de pronúncia lastreada apenas em elementos informativos da fase de inquérito.
+6. A incursão no acervo fático-probatório para acolher a tese recursal quanto à fragilidade das provas é vedada pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A pronúncia deve ser fundamentada em indícios suficientes de autoria, não podendo se basear exclusivamente em elementos informativos da fase inquisitorial. 2. A incursão no acervo fático-probatório para discutir a fragilidade das provas é vedada pela Súmula n. 7 do STJ".
+Dispositivos relevantes citados: Código Penal, art. 121, §2º, incisos I e IV; Código de Processo Penal, art. 413.Jurisprudência relevante citada: STJ, AgRg no HC 861.428/ES, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023; STJ, AgRg no HC 882.325/MG, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024; STJ, AgRg no AREsp 2.698.775/MT, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024.
+(AgRg no REsp n. 1.990.360/SE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/4/2025, DJEN de 30/4/2025.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
