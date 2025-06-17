@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VALMIR DINIZ NOBRE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500064-67.2024.8.26.0430.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Única da Comarca de Paulo de Faria à pena de 10 (dez) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além de 1.020 (mil e vinte) dias-multa, por infração ao artigo 33, caput combinado com o artigo 40 da Lei n. 11.343/2006 combinado com o artigo 61, I do Código Penal (fls. 355-377).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 29-41).
+Na presente impetração, busca-se a concessão da ordem para absolver o paciente do crime previsto no artigo 33, caput da Lei n. 11.343/2006 e, subsidiariamente, que seja revista a dosimetria da pena aplicada.
+As informações foram prestadas (fls. 480-532).
+O Ministério Público Federal opinou pela concessão da ordem, de ofício (fls. 538-541).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada na condenação do paciente pelo crime previsto no artigo 33, caput combinado com o artigo 40 da Lei n. 11.343/2006. Sustenta haver, no caso concreto, crime impossível e sem comprovação idônea (fls. 2-28).
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 29-41):
+ ..
+Os réus Vanessa Diniz Nobre e Valmir Diniz Nobre foram condenados porque, segundo a peça inicial acusatória, em 04 de fevereiro de 2024, por volta das 10:00 horas, na Penitenciária de Riolândia, na Cidade de Riolândia, na Comarca de Paulo de Faria, agindo em concurso, previamente ajustados e em unidade de desígnios, no interior da unidade prisional citada, o segundo réu induziu e instigou (auxílio moral) a primeira, que trazia consigo e ocultava, para fins de tráfico, uma porção grande de maconha, com peso de 42,63 gramas, sem autorização e em desacordo com determinação legal e regulamentar.
+Conforme apurado, Valmir, que estava preso no Estabelecimento Penal de Riolândia, pediu para a sua irmã Vanessa levar droga (maconha) para ele.
+No dia dos fatos, Vanessa foi ao estabelecimento prisional para visitá-lo e trazia consigo e ocultava, na região da vagina, na calcinha, uma porção de maconha, com peso de 42,63 gramas, a qual seria entregue, após entrar no presídio e realizar a visita, ao seu irmão Valmir.
+Ocorreu que, ao ser revistada e passar pelo scanner corporal, Vanessa foi surpreendida com a substância ilícita, momento em que ela confessou que se destinava ao seu irmão, Valmir, o qual havia lhe pedido para levar o entorpecente.
+A materialidade resultou evidenciada pelo auto de prisão em flagrante (fl. 01), boletim de ocorrência (fls. 07/09), auto de exibição e apreensão (fls. 10/11), laudo de exame químico toxicológico definitivo (fls. 139/141), que revelou resultado positivo para maconha, além da prova oral coligida nos autos.
+A autoria, do mesmo modo, resultou incontroversa.
+ ..
+Com efeito, em resumo, tem-se que a acusada Vanessa recebeu, transportou (inclusive para outro município) e trouxe consigo a porção de maconha, além de tentar ingressar na Penitenciária de Riolândia para visitar o seu irmão Valmir, tudo para fins de tráfico, enquanto o corréu concorreu diretamente para essa prática, induzindo-a receber o entorpecente, por intermédio de terceira pessoa, sem qualquer custo, e transportá-lo até o estabelecimento prisional, onde deveria ingressar e lhe entregar o papelote.
+ ..
+Da leitura do acórdão, verifico a presença de ilegalidade flagrante, que autoriza a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+A moldura fática do acórdão impugnado indica que o paciente teria encomendado drogas de sua irmã e corré Vanessa, que seriam inseridas no sistema prisional em que se encontrava custodiado.
+Com a corré Vanessa, ao ser submetida a revista pessoal, antes do ingresso no presídio, foram apreendidos 42,63 (quarenta e dois vírgula sessenta e três) gramas de maconha, cujo destinatário era o paciente.
+Para a ocorrência do elemento subjetivo do tipo previsto no artigo 33, caput, da Lei 11.343/2006, é suficiente a existência do dolo, caracterizado pela vontade consciente de realizar o ilícito penal, em qualquer das 18 (dezoito) condutas descritas, que podem ser praticadas isoladas ou conjuntamente .
+No entanto, diante do relatório dos fatos, entendo que o paciente não praticou qualquer conduta que pudesse caracterizar o início do iter criminis do delito de tráfico de entorpecentes.
+Nesse contexto, a interceptação da droga pelos policiais penais, antes de ser entregue ao destinatário, impede a ocorrência das condutas típicas do artigo 33, caput, da Lei 11.343/2006 que viriam, em tese, a ser praticada pelo paciente no âmbito do sistema prisional.
+Ainda que o paciente tivesse solicitado à corré que ingressasse no sistema prisional com a droga, a jurisprudência do Superior Tribunal de Justiça entende que tal solicitação pode configurar, no máximo, ato preparatório impunível, porquanto não realizada a prática de ato executório do núcleo do tipo penal do artigo 33 da Lei 11.343/2006. Corroborando tal entendimento:
+ ..
+1. A interceptação da droga pelos agentes penitenciários antes de ser entregue ao destinatário, recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada. Precedentes.
+ ..
+3. No caso, a única ação imputada ao ora agravado foi ter solicitado à sua companheira (corré na ação principal) a entrega de 38,54g de maconha durante visita ao estabelecimento prisional que se encontrava recolhido. Ademais, não há nos autos notícia de que o réu a tivesse ameaçado.
+4. É assente a jurisprudência desta Corte Superior no sentido de que ainda que se admita que o agente, supostamente, houvesse solicitado a sua companheira a entrega do entorpecente no interior do presídio em que estava detido, tal conduta somente se configuraria em ato preparatório, sem efetivo início do iter criminis e, portanto, impunível diante da atipicidade formal da conduta, consoante posicionamento consolidado na jurisprudência desta Corte Superior (AgRg no HC n. 830.262/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+5. Agravo regimental não provido
+(AgRg no AREsp 2436576-MG, Relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 30/11/2023, QUINTA TURMA, DJ-e de 05/12/2023)
+Com estas considerações, não conheço do writ, mas concedo a ordem, de ofício, em favor de VALMIR DINIZ NOBRE para absolvê-lo da prática do delito tipificado no artigo 33, caput, c/c o artigo 40, inciso III, da Lei n. 11.343/2006, nos autos da ação penal n. 1500064-67.2 024.8.26.0430, com fundamento no artigo 386, inciso III, do Código de Processo Penal.
+Comunique-se com urgência à autoridade coatora e ao juízo de primeiro grau, para adoção das providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
