@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL RAMOS DOS SANTOS contra acórdão que deu parcial provimento ao recurso de apelação assim ementado (fls. 15-16):
+DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. INGRESSO DOMICILIAR. FUNDADAS RAZÕES. TORTURA NÃO COMPROVADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA REVISADA. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame Apelação criminal interposta pela defesa contra sentença que condenou o apelante pela prática dos crimes de tráfico de drogas (art. 33 da Lei nº 11.343/2006) e associação para o tráfico (art. 35 da Lei nº 11.343/2006), fixando pena de 9 (nove) anos de reclusão, em regime inicial fechado. O recorrente sustenta nulidade da busca domiciliar, ilicitude das provas obtidas por tortura, ausência de provas suficientes para a condenação e requer revisão da dosimetria.
+II. Questão em discussão Há quatro questões em discussão: (i) saber se o ingresso domiciliar sem mandado judicial foi lícito, considerando as fundadas razões; (ii) verificar a alegação de tortura para obtenção de provas; (iii) analisar a suficiência probatória para os crimes de tráfico e associação; (iv) revisar a dosimetria da pena imposta.
+III. Razões de decidir O ingresso domiciliar foi considerado lícito, à luz do Tema 280 do STF, que admite entrada sem mandado judicial em caso de flagrante delito comprovado por fundadas razões.
+A alegação de tortura não foi corroborada por provas periciais ou testemunhais. O laudo pericial não identificou sinais ou vestígios de violência, mantendo-se a presunção de legitimidade dos atos policiais.
+A condenação encontra-se amparada em robusto conjunto probatório, incluindo laudos periciais, depoimentos de policiais e apreensão de drogas em condições que indicam tráfico, não havendo dúvidas quanto à autoria e materialidade.
+Revisão da dosimetria da pena: a valoração negativa das consequências do crime foi afastada por falta de fundamentação adequada. Pena do tráfico reduzida para 5 (cinco) anos e 5 (cinco) meses de reclusão, totalizando 8 (oito) anos e 6 (seis) meses em regime fechado, com base no concurso material de crimes em razão da manutenção da condenação à pena de 3 (três) anos pela infração penal de associação para o tráfico.
+IV. Dispositivo e tese Recurso conhecido e parcialmente provido.
+O paciente foi condenado como incurso no art. 33, caput, e art. 35 ambos da Lei 11.343/2006. Interposta apelação, foi parcialmente provida para reduzir as penas.
+A defesa alega nulidade das provas por ofensa à inviolabilidade de domicílio e ausência de demonstração dos vínculos de estabilidade e permanência necessários para a condenação pelo delito de associação para o tráfico, bem como falta de fundamentação para a exasperação da pena-base.
+Requer seja "declarada a nulidade de todas as provas produzidas nos autos, em virtude de sua latente ilegalidade, absolvendo, consequentemente, o paciente. Subsidiariamente, requer a absolvição do paciente no que tange ao crime de associação para o tráfico, como incurso na sanção penal do art. 35 do Sisnad, bem como seja afastada a exasperação da pena base aplicada, a fim de que seja mantida em seu patamar mínimo" (fl. 14).
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ e não concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+Examin ando as informações prestadas às fls. 125-128, verifica-se que, após proferida a sentença condenatória e julgado o recurso de apelação, sobreveio o trânsito em julgado da condenação em 9/4/2025, tendo, somente então, sido impetrado o presente writ, substitutivo, pois, de revisão crimi nal.
+Nos termos da jurisprudência desta Corte, "" n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Nesse contexto, ainda que relevantes os argumentos deduzidos na inicial, o egrégio Superio r Tribunal de Justiça - STJ não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do writ.
+Publique-se.
+Intimem-se.
+EMENTA
