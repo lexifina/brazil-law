@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por Márcio José de Souza contra acórdão às fls. 81/89, proferido à unanimidade pelo Grupo de Câmaras de Direito Público do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA REJEITADA À UNANIMIDADE. REMOÇÃO DE AGENTE DA POLÍCIA CIVIL. NECESSIDADE DO SERVIÇO. INTERESSE . PÚBLICO. ATO MOTIVADO. POSSIBILIDADE. SEGURANÇA DENEGADA. DECISÃO UNÂNIME.
+1. Prefaciai de inadequação da via eleita por ausência de prova pré-constituída rejeitada à unanimidade, porquanto o impetrante instruiu o presente mandamus com o ato de remoção dito ilegal por ausência de motivação.
+2. Mérito. O impetrante, Agente da Polícia Civil, fora removido da Delegacia de Polícia da 40.ª Circunscrição - Cabo de Santo Agostinho para a Delegacia de Polícia da 43.ª Circunscrição - Porto de Galinhas, mediante Portaria exarada por autoridade competente, a fim de suprir as necessidades do serviço.
+3. O ato administrativo em questão foi lavrado em estrita observância ao Decreto n. 36.849/2011, alterado pelo Decreto n. 41.458/2015, que estabelece medidas de controle de lotação, transferência, remoção, movimentação e permuta de policiais civis e militares, tendo a administração pública, desta forma, respeitado os ditames legais.
+4. Pacífico na doutrina e jurisprudência o entendimento de que ao Poder Judiciário é vedado adentrar na análise do mérito administrativo, sob pena de usurpar a função precipuamente destinada ao Poder Executivo.
+5. Os servidores da Polícia Civil não gozam de garantia de inamovibilidade, a qual, por determinação constitucional, é conferida tão somente aos magistrados e membros do Ministério Público, nos termos dos arts. 95, II, e 128, § 5o, I, "b", da CF/88.
+6. Segurança denegada à unanimidade, não se considerando violados os arts. 40 a 42 da Lei Estadual nº 6.123/68; 37, caput, e 5o, LV, da CF/88; Súmula n. 95 do TJPE. (fl. 85).
+Nas razões recursais, fls. 97/106, o autor insiste na tese veiculada na petição exordial, reafirmando que "inexiste motivo de fato ou de direito que autorize a remoção do servidor para outra localidade, não havendo a demonstração da conveniência do serviço, ocorrendo na realidade uma remoção por questões pessoais, estando ausentes a devida motivação, prevista no artigo 37 da Constituição Federal". (fl. 103 ).
+Em contrarrazões, às fls. 421/431, o Estado de Pernambuco requer a manutenção do acórdão recorrido. Argumenta que "o ato administrativo em questão foi lavrado em estrita observância ao Decreto n.º 36.849, de 22 de julho de 2011, que estabelece medidas de controle de lotação, transferência, remoção, movimentação e permuta de policiais civis e militares". (fl. 115). Aduz, ainda, que "a remoção do impetrante encontra-se amparada pela Lei Estadual nº. 6.425/72, e posteriores modificações, o chamado Estatuto Policial, que disciplina o regime jurídico dos policiais civis da antiga Secretaria de Segurança Pública do Estado de Pernambuco, hoje chamada de Secretaria de Defesa Social". (fl. 115). Assim, defende que o ato foi devidamente motivado, não havendo direito líquido e certo a ser amparado.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Brasilino Pereira dos Santos manifestou-se pelo não conhecimento do recurso, pelos fundamentos do parecer às fls. 135/138, assim ementado:
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. POLICIAL CIVIL. REMOÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO (ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL, SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL).
+PARECER NO SENTIDO DO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO. (fl. 135).
+Benefício de gratuidade de justiça deferido na origem. (fl. 26).
+Representação regular (fl. 14).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Assim, o presente apelo não merece avançar para além da barreira do juízo de admissibilidade recursal. Com efeito, na hipótese que ora se apresenta ao exame desta Corte Superior, o Tribunal estadual denegou a ordem, à unanimidade, por entender que não houve violação aos arts. 40 e 42 da Lei Estadual n. 6.123/68; 37, caput, e 5º, LV da CF/88, Súmula nº 95 do TJPE. (fl. 89).
+Segundo a Corte pernambucana:
+No caso específico dos autos, verifico que o ato administrativo em questão foi lavrado em estrita observância ao Decreto nº 36.849/2011, alterado pelo Decreto nº 41.458/2015, que estabelece medidas de controle de lotação, transferência, remoção, movimentação e permuta de policiais civis e militares, tendo a administração pública, desta forma, respeitado os ditames legais.
+ ..
+Nesse diapasão, é pacífico na doutrina e jurisprudência o entendimento de que ao Poder Judiciário é vedado adentrar na análise do mérito administrativo, sob pena de usurpar a função precipuamente destinada ao Poder Executivo. (fl. 88).
+Todavia, nas razões recursais, o recorrente, passando ao largo dos reais fundamentos da decisão que intenta desconstituir, reitera a argumentação veiculada pela peça vestibular, insistindo na alegação de que a sua remoção para outra localidade foi feita pela autoridade coatora por motivos pessoais. (fl. 103). Mas, com isso, negligencia o recorrente a necessária observância do princípio da dialeticidade recursal, não cumprido o ônus (que lhe cabia) da impugnação específica e integral aos fundamentos do aresto combatido.
+Essa irregularidade, porque violadora do princípio da dialeticidade, como dito, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021).
+Eis porque o presente recurso ordinário não reúne condições de avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
