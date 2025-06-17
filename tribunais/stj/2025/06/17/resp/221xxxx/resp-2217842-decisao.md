@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se recurso especial interposto por NEYDE MIKAHIL e outras, fundamentado, exclusivamente, nas alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 11/7/2022.
+Concluso ao gabinete em: 11/6/2025.
+Ação: declaratória de resolução de contrato, ajuizada por NEYDE MIKAHIL, LECY MULLER DE CAMPOS MIKAHIL, MARA PATRÍCIA TRAINA CHACON MIKAHIL, BIANCA CHACON MIKAHIL e BRUNA CHACON MIKAHIL em face de CNC SOLUTIONS TECNOLOGIA DA INFORMAÇÃO LTDA.
+Sentença: procedente o pedido, para declarar resolvido o contrato de promessa de compra e venda. Além disso, julgou procedente o pedido, em reconvenção, para condenar a parte reconvinda ao pagamento de R$ 1.000.000,00 (um milhão de reais). Em ambos os provimentos, foram arbitrados honorários sucumbenciais no percentual de 10% do valor da causa.
+Acórdão: deu parcial provimento à apelação interposta por CNC SOLUTIONS TECNOLOGIA DA INFORMAÇÃO LTDA, para julgar procedente a reconvenção, reformando-se a sentença, a fim de julgar improcedente a demanda principal. Os honorários sucumbenciais foram recalculados: 10% sobre o valor da condenação, em reconvenção, acrescido de 11% sobre o valor do sinal pago, nos termos da seguinte ementa:
+AÇÃO DE RESCISÃO CONTRATUAL - Compromisso de Compra e Venda e Aditivo Sentença que efetivamente ao julgar procedente a reconvenção, com a restituição do sinal pago, reconheceu a culpa das autoras pela resolução, improcedendo a ação - Restituição do sinal com correção pelo IGP-M expressamente previsto no contrato - Redistribuição dos ônus sucumbenciais - Recurso provido em parte. (e-STJ fl. 1109)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados (e-STJ fls. 1139/1145). Reiterada sua oposição por CNC SOLUTIONS TECNOLOGIA DA INFORMAÇÃO LTDA, foram igualmente rejeitados (e-STJ fls. 1240/1244).
+Recurso especial: alega violação dos arts. 3º, 11, 141, 329, parágrafo único, 336, 342, 487, III, a, 489, § 1º, III e IV, 492, 496, 502, 503, 505, 507, 932, III, 996, 1007, 1013, § 1º, e 1022 do CPC.
+Argumenta, em síntese, a ocorrência de contradição no acórdão recorrido, que decidiu pelo reconhecimento da rescisão contratual, conforme requerido pela autora, na ação principal, e julgou improcedente o pedido.
+Ressalta que remanesce omissão no acórdão recorrido acerca da culpa da parte recorrida para a extinção anormal do contrato. Pondera que a promitente compradora, ao tempo da constituição do negócio principal, quando combinaram de proceder ao registro da escritura pública, preferiu impugnar a exigência do registrador, o que evidenciaria a falta de condição financeira para o adimplemento.
+Insurge-se contra o provimento da apelação interposta contra a sentença que decidiu a reconvenção, a despeito da deserção reconhecida pelo 2º Grau de Jurisdição, o que caracteriza nulidade, tratando-se de julgamento "extra petita".
+Pondera que a parte recorrida reconheceu o direito alegado pela autora de rescindir o contrato, o que obsta altear a posição processual, posteriormente, notadamente após o oferecimento da contestação, sem a anuência da parte adversa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+Na hipótese, o 2º Grau de Jurisdição decidiu pela improcedência do pedido formulado no inicial, que pretendia a rescisão contratual, por considerar que a causa de pedir narrada na inicial alude à culpa da demanda pela desconstituição do vínculo. Desse modo, não comprovada a culpa, decidiu pela improcedência da demanda (e-STJ fls. 1113/1114).
+Dessa forma, pressuposto o decaimento, o juízo de improcedência decorre logicamente do juízo de improcedência, o que afasta a contradição alegada.
+A culpa da recorrente decorre do juízo de procedência da reconvenção, conforme se extrai do acórdão recorrido (e-STJ fl. 1114), em que se pressupõe a culpa da recorrente para a extinção normal do contrato, tratando-se de questão preclusa.
+Portanto, como a análise do mérito da culpa da parte recorrente ficou prejudicada, diante da preclusão, fica afastada a omissão.
+Com efeito, segundo a jurisprudência desta Corte: "A possibilidade de extrair logicamente a tese refutada a partir do que decidido, por meio da análise mesma do próprio julgado, afasta qualquer obscuridade na decisão." (AgInt no REsp n. 1.920.219/DF, Quarta Turma, DJe de 3/11/2021).
+- Da existência de fundamento não impugnado
+No que se refere à estabilização objetiva da demanda, a obstar a alteração substancial do pedido após a contestação, sem a anuência da parte contrária, verifica-se que o 2º Grau de Jurisdição pressupõe que a culpa da parte recorrente decorre do provimento adotado em reconvenção, além de inexistir o reconhecimento do pedido quanto ao ponto:
+Saliente-se que na contestação apresentada a requerida não se opôs à resilição unilateral do contrato pelas requerentes, mas não concordou com a pretensão das autoras de que fosse "responsabilizada pela rescisão do instrumento contratual e deixar de receber o valor pago a título de sinal/entrada" (fls.173), e consignou expressamente ser "imperioso o restabelecimento do status quo, mediante a restituição dos valores pagos a título de sinal, devidamente corrigidos pelo índice contratualmente estabelecido e acrescido de juros moratórios de 1% (um por cento) ao mês, desde seu pagamento" (g. n. - fls.177/178).
+Conforme constou do Acórdão, a sentença ao julgar procedente a reconvenção, reconhecendo o direito da compradora de rescisão contratual, acabou declarando culpadas as autoras pelo desfazimento do negócio. (grifo acrescido e-STJ, fl. 1142).
+Conforme se verifica do trecho acima reproduzido, o reconhecimento da culpa da recorrente decorre logicamente do provimento adotado da reconvenção, julgando-se procedente o pedido. O fundamento é, por si só, suficiente para afastar a nulidade por suposta violação ao princípio da estabilidade da demanda.
+Além disso, afasta-se o suposto julgamento "extra petita", causado pelo julgamento da apelação proveniente da reconvenção, deserta, pois o provimento adotado no acórdão recorrido preserva o que decidido na respectiva sentença.
+A parte recorrente, porém, não infirmou o fundamento de que a culpa da recorrente advém do que decidido na reconvenção, além de inexistir reconhecimento do pedido a respeito, limitando-se a concluir pela ocorrência simultânea de decisão "extra petita" de violação ao princípio da estabilização da demanda.
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à culpa da recorrente para a resolução da promessa de compra e venda ou mesmo de que o reconhecimento provém do que decidido em sentença reconvencional, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários em 2% sobre o montante já fixado, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. PROMESA DE COMPRA E VENDA. AÇÃO DECLARATÓRIA. RESOLUÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1022 DOCPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA. CULPA DA PROMITENTE ADQUIRENTE. COISA JULGADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação declaratória de resolução de contrato.
+2. Não há ofensa aos arts. 489 e 1022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível .
+5. Recurso especial conhecido em parte e, nessa extensão, não provido.
