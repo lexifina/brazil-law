@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. PRISÃO PREVENTIVA. NOVO TÍTULO PRISIONAL SUPERVENIENTE. DECISÃO DO JUÍZO DE ORIGEM COM FUNDAMENTAÇÃO AUTÔNOMA. PREJUÍZO DO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES.
+1. É pacífico o entendimento de que a superveniência de decisão que apresenta novos fundamentos para a prisão preventiva configura novo título judicial, o que prejudica o habeas corpus anteriormente impetrado contra título pretérito.
+2. A análise da legalidade de decisão recente, não submetida ao crivo das instâncias ordinárias, caracteriza indevida supressão de instância, sendo inviável sua apreciação originária no âmbito do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de Agravo regimental interposto por RODOLFO VIEIRA SIMÕES, em face da decisão que julgou prejudicado o agravo anteriormente oposto, mantendo a custódia preventiva decretada pelas instâncias ordinárias, no bojo do Habeas Corpus n. 994.600/SP.
+Em suas razões recursais, a defesa aponta como indevida a decisão monocrática, porquanto teria utilizado como fundamento exclusivo a gravidade abstrata do crime e as elementares típicas do delito de roubo simples - ameaça e violência -, sem demonstrar a presença de elementos concretos que justifiquem a medida extrema, conforme exigido pelo art. 312 do Código de Processo Penal.
+Alega, ainda, que a decisão de primeiro grau, tomada em 19 de maio de 2025, não possui conteúdo novo ou autônomo em relação ao decisum anterior, servindo tão somente à reavaliação periódica prevista no art. 316, parágrafo único, do Código de Processo Penal, o que, segundo sustenta, não caracterizaria título judicial novo apto a prejudicar o agravo regimental.
+Ressalta a existência de condições pessoais favoráveis do paciente, como trabalho lícito, renda mensal de aproximadamente R$ 6.000,00 e ausência de histórico de reiteração delitiva. A defesa argumenta que tais elementos afastariam qualquer risco à ordem pública ou à instrução criminal e autorizariam, inclusive, a aplicação de medidas cautelares diversas da prisão, conforme os arts. 319 e 282, § 6º, do Código de Processo Penal.
+Aduz que o decreto de prisão preventiva não demonstrou a contemporaneidade dos fatos e que a prisão, diante da pena mínima cominada ao roubo simples, é desproporcional e inadequada, podendo ensejar, em caso de condenação, o cumprimento da pena em regime inicial aberto ou semiaberto, nos termos do art. 33, §2º, "b" e "c", do Código Penal.
+A defesa também destaca a jurisprudência do Superior Tribunal de Justiça segundo a qual a gravidade genérica do delito não pode justificar a prisão preventiva sem fundamentos individualizados e concretos, trazendo decisões precedentes que enfatizam a excepcionalidade da medida constritiva e a preferência por medidas cautelares menos gravosas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. PRISÃO PREVENTIVA. NOVO TÍTULO PRISIONAL SUPERVENIENTE. DECISÃO DO JUÍZO DE ORIGEM COM FUNDAMENTAÇÃO AUTÔNOMA. PREJUÍZO DO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES.
+1. É pacífico o entendimento de que a superveniência de decisão que apresenta novos fundamentos para a prisão preventiva configura novo título judicial, o que prejudica o habeas corpus anteriormente impetrado contra título pretérito.
+2. A análise da legalidade de decisão recente, não submetida ao crivo das instâncias ordinárias, caracteriza indevida supressão de instância, sendo inviável sua apreciação originária no âmbito do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+VOTO
+O recurso não merece provimento.
+Como destacado na decisão agravada, o seguimento do presente está prejudicado pela perda de habeas corpus superveniente do objeto.
+Isso porque a defesa sustentava a ilegalidade da decisão que decretou a prisão preventiva do paciente (ato coator impugnado no habeas corpus originário). Todavia, em consulta ao andamento processual do Tribunal de origem, verifico que houve prolação de nova decisão em 19/5/2025, em que o Magistrado apresenta novos fundamentos para a manutenção da custódia, o que configura a existência de novo título a respaldar segregação cautelar da paciente.
+No caso, observa-se que a prisão cautelar do paciente foi decretada em razão da gravidade concreta da conduta.
+Ao reexaminar a necessidade da custódia cautelar, o Juízo de primeiro grau, mante a medida nos seguintes termos (grifo não original):
+Vistos. Nesta data chamei os autos à conclusão. Em observância ao disposto no artigo 316, § único, do Código de Processo Penal, passo a rever a necessidade de manutenção da custódia cautelar anteriormente decretada. Neste particular verifico que, desde que decretada a prisão preventiva do acusado Rodolfo Vieira Simões, não houve qualquer alteração fática que pudesse ensejar a revisão do quanto já decidido a fls. 131/133 e 206/208. O acusado foi denunciado por roubo, com emprego de violência física e uso de simulacro de arma de fogo, tendo sido preso em flagrante delito grave, na pode de elevada quantidade e variedade de drogas, crime este que causa repulsa no meio social e que revela personalidade distorcida. Ademais, não se trata de fato isolado na vida do acusado, pessoa que possui outros envolvimentos na Justiça e, inclusive, é reincidente específico (fls. 193/197). Aliás, considerar a gravidade da infração concretamente identificada para a identificação de circunstancia autorizadora da custódia processual, encontra apoio no STJ: Pacífico o entendimento no Superior Tribunal de Justiça de que nem sempre as circunstâncias da primariedade, bons antecedentes e residência fixa são motivos a obstar a decretação da excepcional medida, se presentes os pressupostos para tanto. O clamor publico, no caso, comprova-se pela repulsa profunda gerada no meio social (RHC 2660-8, relator Anselmo Santiago). Outrossim, ressalto que a tramitação processual é regular, uma vez que a instrução criminal já foi encerrada e o feito apenas aguarda o cumprimento de diligências faltantes, solicitadas pela Defesa. Verificado, pois, no caso, periculum libertatis, além de demonstrado o fumus comissi delicti, há que se manter a custódia cautelar, tal qual decretada anteriormente. No mais, cumpra-se a decisão de fls. 307/309, para o atendimento dos ofícios expedidos às fls. 311/312 (empresas de telefonia), cobrando-se, caso seja necessário. Providencie-se com urgência. Intime-se.
+Destarte, como os novos fundamentos não foram submetidos à apreciação do Tribunal de Justiça local, esta Corte fica impedida de aferir a sua legalidade, sob pena de indevida supressão de instâncias.
+É consabido que "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Nesse sentido:
+ ..
+V - A superveniência de decisão que agrega novos fundamentos para a prisão preventiva constitui novo título judicial para a medida e, por conseguinte, torna prejudicada a impetração dirigida contra o título anterior.
+ ..
+(AgRg na PET no HC 553.674/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2020, DJe 04/09/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
