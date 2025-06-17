@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de ANDREY RINALDI DE BRITO - que cumpre pena pela condenação em crime doloso -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0022686-23.2024.8.26.0041), não comporta processamento.
+Com efeito, insurge-se a impetrante contra o acórdão do Tribunal estadual que manteve a decisão monocrática na qual o Juízo de Direito da Vara de Execução Criminal da comarca de São Paulo/SP reconheceu falta grave contra o apenado, em razão da apreensão de um carregador de celular em posse da sua companheira durante a visita.
+Aqui, alega a defesa do paciente, constrangimento ilegal consistente em nulidade do acórdão a quo, ao argumento de ausência de provas para escorar a falta grave reconhecida em face do acusado (fl. 15), por fim, postula a absolvição da esposa do réu ou a aplicação da penalidade em seu patamar mínimo (fl. 29).
+Ocorre que não se evidencia ilegalidade no acórdão hostilizado, pois a questão ora trazida nem sequer foi devidamente ventilada pela instância ordinária, o que atrai indevida supressão de instância. Na oportunidade, a Corte estadual consignou que a falta grave praticada pelo agravante em 27/04/2024 foi objeto de análise nos autos do Agravo de Execução Penal n. 0016012-29.2024.8.26, julgado por esta colenda 5ª Câmara Criminal em 13/11/2024, que rejeitou a preliminar e negou provimento ao recurso defensivo (fl. 145).
+Ainda que assim não fosse, entende o STJ que o direito de visitação não é absoluto e irrestrito, podendo ser limitado em situações excepcionais, tal como na hipótese vertente, em que a companheira do paciente teve suspensa temporariamente a autorização de visitação, pelo prazo de 2 anos, nos termos do art. 135 da Resolução SAP n. 144/2010 (fl. 157), em decisão devidamente fundamentada.
+Assim, para se alcançar conclusão diversa da que alcançou o Tribunal estadual, ensejaria profundo revolvimento de fatos e provas, indesejável na via estreita do habeas corpus.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA GRAVE. SUSPENSÃO TEMPORÁRIA DO DIREITO DE VISITA. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
