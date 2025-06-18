@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. contra a decisão de fls. 1038-1041 da minha lavra, que não conheceu do recurso especial.
+No presente recurso integrativo, a parte embargante alega omissão na decisão acerca da autonomia universitária prevista na Constituição Federal.
+Pretende o aperfeiçoamento do julgado.
+Impugnação às fls. 1059-1066.
+Os autos vieram conclusos.
+É o relatório. Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do CPC/2015, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no decisum ora embargado.
+No decisum, consignou-se o seguinte (fls. 1038-1041 ):
+A negativa (ou não) da devida prestação jurisdicional e a (i)legitimidade passiva do FNDE constituem o cerne do recurso especial. Não obstante o recurso especial alegue violação do art. 1.022, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil, não especifica em quais os pontos do acórdão recorrido haveria omissão, contradição, obscuridade ou erro material, tampouco a relevância da análise dessas questões para o caso concreto. Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF. Nesse sentido, v.g.: AgInt nos EDcl no AREsp n. 1.311.559/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023; REsp n. 2.089.769/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023. Lado outro, o recurso especial não comporta conhecimento quanto à tese de violação da Portaria MEC n. 535/2020, pois Resoluções, Portarias e Instruções Normativas não se enquadram no conceito de lei federal constante do art. 105, inciso III, da Constituição da República. Nesse sentido: EDcl no AgInt nos EDcl no REsp n. 1.932.247/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2023, DJe de 24/1/2024; AgInt no REsp n. 2.046.250/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/11/2023, DJe de 23/11/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Como se vê, a decisão embargada deixou assentado, de forma expressa, a incidência da Súmula n. 284 do STF pela deficiência de fundamentação das razões recursais e o não enquadramento de portaria no conceito de lei federal, de modo que a insurgência sequer ultrapassou a barreira do conhecimento, a ensejar a apreciação do mérito. Nesse aspecto, verifico que o julgado não possui as eivas suscitadas pela parte recorrente, tendo a presentado, concretamente, os fundamentos que justificaram a sua conclusão quanto ao não conhecimento do recurso.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, eivas passíveis de correção.
+Nesse norte: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FIES. TRANSFERÊNCIA DE CURSO. PORTARIA N. 535/2020. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
