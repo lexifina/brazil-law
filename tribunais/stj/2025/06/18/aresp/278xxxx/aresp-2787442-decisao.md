@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por FABRÍCIO OLIVEIRA SOUZA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que não admitiu o recurso especial.
+O agravante foi condenado pela prática do crime tipificado no art. 157, §3º, inciso II, c/c art. 14, inciso II, ambos do Código Penal, à pena de 11 (onze) anos e 04 (quatro) meses de reclusão e 24 (vinte e quatro) dias-multa, em regime inicial fechado (fls. 438-451).
+O agravante interpôs apelação alegando cerceamento de defesa pela ausência de exame de corpo de delito direto e pela não aplicação da fração de 1/6 (um sexto) para cada atenuante na dosimetria da pena, além de pleitear a diminuição da pena em 2/3 (dois terços) pela tentativa (fls. 502-515).
+O Tribunal local negou provimento ao recurso, afirmando que o exame de corpo de delito era desnecessário e que a dosimetria da pena estava correta (fls. 556-566).
+Os embargos de declaração da defesa foram rejeitados (fls. 598-605).
+O agravante interpôs recurso especial alegando violação aos arts. 14, inciso II, 59, 65, incisos I e III, todos do Código Penal, e arts. 158 e 619 do Código de Processo Penal, sustentando a necessidade de exame de corpo de delito e a correta aplicação das atenuantes (fls. 610-627).
+O recurso foi inadmitido na origem por incidência da Súmula n. 7, STJ (fls. 682-684).
+No presente agravo, a defesa sustenta que o recurso especial deveria ter sido admitido, alegando que não há necessidade de reexame de provas, mas sim de revaloração jurídica dos fatos (fls. 694-703).
+O Ministério Público Federal se manifestou pelo desprovimento do agravo, afirmando que a decisão recorrida está em sintonia com a jurisprudência do STJ (fls. 787-793).
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido.
+No que tange à alegada negativa de vigência ao art. 619 do Código de Processo Penal, verifico que o Tribunal de origem analisou de modo fundamentado todas as questões suscitadas pela defesa e registrou, de modo correto, que o agravante pretendia o reexame da matéria julgada.
+Neste contexto, recordo que, para a jurisprudência desta Corte, a tentativa de reversão do julgado diante da insatisfação com o resultado do julgamento é circunstância que não enseja o reconhecimento de violação ao disposto nos arts. 619 e 620 do Código de Processo Penal (AgRg no REsp n. 2.162.886/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.).
+A respeito da violação ao art. 158 do Código de Processo Penal, a defesa argumentou que a ausência do corpo de delito direto e a ausência de respostas aos quesitos elaborados comprometeram o exercício da ampla defesa e que seria necessário o exame de corpo de delito para correta aplicação da causa de diminuição da pena pela tentativa.
+A Corte local, por sua vez, a partir do contexto fático-probatório do processo, concluiu que o exame de corpo de delito era completamente desnecessário para o deslinde da causa.
+Colaciono trechos do acórdão recorrido (fl. 561):
+" ..  É que a tentativa do crime de latrocínio encontra-se mais do que comprovada nos autos devido ao modo com os fatos se deram, isto é, subtração de coisa alheia móvel mediante violência que, por circunstâncias alheias à vontade do agente, não causou a morte da vítima, pois o Apelante valeu-se de disparo de arma de fogo que alvejou a cabeça do ofendido.
+Inclusive, consta nos autos a imagem  raio-X  da bala que restou incrustada na face da vítima  .. ".
+Desta forma, constato que a orientação do Tribunal estadual está de acordo com o entendimento do Superior Tribunal de Justiça, que já teve oportunidade de decidir que a falta do exame de corpo de delito direto não é suficiente para invalidar a condenação, sobretudo quando é possível a verificação da materialidade por outros meios probatórios idôneos (AgRg no HC n. 763.428/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL E PENAL. FURTO QUALIFICADO. ESCALADA. AUSÊNCIA DE PERÍCIA DIRETA. EXISTÊNCIA DE OUTRAS PROVAS ROBUSTAS E APTAS A COMPROVAR A QUALIFICADORA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com arrimo na interpretação sistemática dos arts. 158, 167 e 171, todos do CPP, é cediço por esta Corte Uniformizadora que nos crimes materiais não transeuntes será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo eventual confissão do acusado.
+2. Entrementes, nas hipóteses excepcionais em que não houver ou quando tenham desaparecido os vestígios ou, ainda, quando as circunstâncias do caso concreto não mais permitirem sua análise direta por expert, tem reputado esta Corte, sob a égide do subjacente sistema da persuasão racional das provas, plasmado no art. 155, caput, do CPP, que outros elementos de convicção, a exemplo da prova testemunhal, podem suprir-lhe indiretamente a justificada falta.
+3. Em acréscimo, ao endossar a possibilidade de arrefecimento do sistema tarifário probatório, incidente nos crimes que deixam vestígios, esta Corte Superior já pontou que, excepcionalmente, afigura-se possível a comprovação indireta da qualificadora prevista no art. 155, § 4º, II, do CP quanto esta estiver evidenciada por suficientes elementos de convicção angariados aos autos.
+4. Na espécie, a Corte estadual reputou ser inconteste a prova da escalada, consubstanciada nas declarações dos guardas municipais, que presenciaram o réu escalar a saída da residência; na declaração da vítima de existir tapumes até o telhado, que foram danificados, e na própria confissão do réu, na fase inquisitiva e em juízo, ao declarar que escalou os tapumes da residência em reforma para adentrar no recinto e tentar cometer o crime de furto.
+ .. "
+(AgRg no REsp n. 2.064.313/SE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Observo, por relevante, que o agravante não comprovou qualquer prejuízo em razão da dispensa da realização do exame de corpo de delito que, para o Tribunal de origem, foi dispensável para configurar se houve ou não perigo de vida à vítima.
+Incide, portanto, o óbice da Súmula n. 83, STJ.
+Já no que tange à apontada ofensa ao art. 65, incisos I e III, do Código Penal, a defesa sustenta que, pelo reconhecimento das atenuantes da menoridade relativa e da confissão espontânea, o magistrado adotou fração única de 1/5 (um quinto) para ambas e que o correto seria fazer incidir a fração de 1/6 (um sexto) para cada uma das minorantes.
+Ocorre que, de acordo com o que consta no acórdão recorrido, a pena do agravante já ficou abaixo do mínimo legal na segunda fase, inclusive em desrespeito ao enunciado da Súmula n. 231, STJ. A instância de origem, todavia, manteve a pena fixada em razão de o recurso contra a sentença condenatória ter sido exclusivo da defesa.
+Portanto, neste contexto, não há como reconhecer a violação ao art. 65, incisos I e III, do Código Penal.
+Por fim, a respeito da suscitada ofensa ao art. 14, inciso II, do Código Penal, o agravante se insurge quanto à incidência da diminuição de 1/3 (um terço).
+A sentença condenatória justificou a redução por esta fração pela tentativa do crime com base nestes fundamentos (fl. 450):
+" ..  Na 3ª fase do processo dosimétrico, tendo em vista que o delito permaneceu na esfera da tentativa, mas levando em conta o longo iter criminis percorrido e considerando que a subtração do celular restou plenamente consumada e que a vítima não veio a óbito por circunstâncias alheias a vontade do agente, bem como a gravidade do ferimento sofrido, vez que o disparo da arma de fogo entrou pela região localizada atrás da orelha da vítima, reduzo a pena imposta em 1/3 (um terço), o equivalente à 05 (cinco) anos e 8 (oito) meses de reclusão e 12 dias-multa  .. ".
+O Tribunal de origem, por sua vez, assim decidiu (fl. 565):
+" ..  Do mesmo modo, a irresignação não prospera. É que se encontra sedimentado na doutrina e na jurisprudência pátrias que o critério de diminuição do crime tentado ocorre de forma inversamente proporcional à aproximação do resultado representado.
+Em resumo, quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição (AgRg no AgRg no AREsp n. 2.349.525/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023.)
+Sendo assim, em que pese os argumentos da combativa defesa, fato é que o Apelante se aproximou, e muito, da consumação do crime de latrocínio.
+Como afirmou nas próprias razões recursais, a subtração foi consumada, porém, a morte também quase o foi.
+Ora, se o ofendido encontra-se com uma bala incrustada em seu rosto, devido ao disparo de arma de fogo realizado pelo Apelante, sua morte somente não se deu por questões totalmente alheias ao seu intento, e até mesmo ao "natural", "ao esperado", "ao previsível" neste caso, sendo irrelevante que, hoje, a vítima esteja em bom estado de saúde.
+Cumpre mencionar que, como já firmado em linhas pretéritas, a jurisprudência o E. STJ já teve a oportunidade de consolidar que para a caracterização do delito de latrocínio tentado é irrelevante que a vítima tenha sequer sofrido lesões.
+Logo, do exposto, a pena deve ser mantida, não merecendo reparos ..  ."
+O agravante defende que, sem qualquer prova técnica robusta, não se pode, por achismo, baseado na gravidade abstrata do crime, afirmar a gravidade do ferimento sofrido e com isso concluir que foi percorrido longo iter criminis.
+Entretanto, a partir da análise dos excertos acima transcritos, considero que, à luz dos fatos comprovados na origem, está devidamente fundamentada a utilização da fração de 1/3 (um terço) na terceira fase da aplicação da pena, motivo pelo qual não há como reconhecer a negativa de vigência ao art. 14, inciso II, do Código Penal.
+A propósito, cito precedentes desta Corte no mesmo sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. APRECIAÇÃO DA TESE DE DESISTÊNCIA VOLUNTÁRIA. INDEVIDA SUPRESSÃO DE INSTÂNCIA. QUANTUM DE DIMINUIÇÃO DA TENTATIVA. ITER CRIMINIS PERCORRIDO. PROPORCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No crime de latrocínio em questão o realizou diversos disparos de arma de fogo que alvejaram a vítima, atingindo-a na região cervical, não se concretizando somente por circunstâncias alheias à vontade dos agentes. De rigor, pois, a manutenção da incidência do redutor de 1/3 (um meio), sob o título de causa de diminuição de crime tentado (CP, art. 14, II).
+ ..
+(AgRg no HC n. 833.469/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/9/2023, DJe de 2/10/2023.);
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE LATROCÍNIO. QUANTUM DA REDUÇÃO DA TENTATIVA. ADEQUADO. REGIME INICIAL FECHADO. PENA SUPERIOR A 8 ANOS. AGRAVO DESPROVIDO.
+1. Como regra, o Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+2. In casu, foram efetuados diversos disparos de arma de fogo que alvejaram o veículo da vítima e, portanto, o delito não foi concretizado por circunstâncias alheias à vontade dos agentes, já que o vidro da frente do veículo estilhaçado, tendo a vítima de se esconder para não ser atingida. De rigor, pois, a manutenção da incidência do redutor de 1/3 (um meio), sob o título de causa de diminuição de crime tentado (CP, art. 14, II).
+ .. "
+(AgRg no HC n. 670.952/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+Concluo, assim, que o Tribunal local decidiu a questão em sintonia com o entendimento do Superior Tribunal de Justiça, circunstância que impede o conhecimento do recurso especial, nos termos da Súmula n. 83, STJ.
+Consigno que eventual alteração das circunstâncias apuradas pelas instâncias de origem a respeito do iter criminis percorrido pelo agravante ou que o ferimento sofrido pela vítima não foi grave esbarra no óbice da Súmula n. 7, STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
