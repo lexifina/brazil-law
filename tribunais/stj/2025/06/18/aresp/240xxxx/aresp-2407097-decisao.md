@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALDENICE DA SILVA CRUZ contra a decisão que inadmitiu o recurso especial com fundamento na consonância entre o acórdão recorrido e o Tema 1.068 do STJ e na incidência das Súmulas n. 5 e 7 do STJ (fls. 886-890).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso especial não deve ser conhecido, haja vista a ausência de demonstração de violação a dispositivo de lei federal e a impossibilidade de reexame de fatos e provas (fls. 893-899).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em apelação nos autos de ação indenizatória. O julgado foi assim ementado (fls. 663-668):
+APELAÇÃO. AÇÃO INDENIZATÓRIA. SEGURO DE VIDA EM GRUPO. APÓLICE 7.900. VIGÊNCIA. EXTINÇÃO. SUBSTITUIÇÃO PELA APÓLICE DE NÚMERO 850.688. INVALIDEZ FUNCIONAL TOTAL POR DOENÇA. PREVISÃO. AUSÊNCIA. INCAPACIDADE PARCIAL. EXISTÊNCIA AUTÔNOMA BENEFICIÁRIO. TEMA 1068. STJ. SENTENÇA NESTE SENTIDO PROLATADA. JULGADO. CONFIRMAÇÃO. RECURSO. DESPROVIMENTO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 704-708):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DA OCORRÊNCIA DE "CONTRADIÇÃO" E "OMISSÃO" NO JULGADO. APELAÇÃO. AÇÃO INDENIZATÓRIA. SEGURO DE VIDA EM GRUPO. FIM DA VIGÊNCIA DA APÓLICE 7.900. CONTRATAÇÃO DE NOVA APÓLICE. INEXISTÊNCIA. ALTERAÇÃO. UNILATERAL. CONTRATO. AUTORA ACOMETIDA DE INVALIDADE PARCIAL. AUSÊNCIA. COBERTURA. APÓLICE VIGENTE. OFENSA AO PRINCÍPIO DA INFORMAÇÃO. MATÉRIA NÃO SUSCITADA NO APELO. VÍCIOS INEXISTENTES. MATÉRIA ENFRENTADA COERENTEMENTE NO ACÓRDÃO CENSURADO. INTENÇÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE NESTA VIA. EMBARGOS DECLARATÓRIOS. DESACOLHIMENTO.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos arts. 765 e 801, § 2º, do Código Civil e 6º, III, 46 e 51, XIII, do Código de Defesa do Consumidor, argumentando que a modificação unilateral da apólice sem anuência dos segurados afronta a boa-fé e o dever de informação ao consumidor.
+Sustenta que, ao decidir que a substituição da apólice foi válida sem a anuência da segurada, o Tribunal de origem divergiu do entendimento do Tribunal de Justiça do Estado do Paraná, que reconheceu a necessidade de anuência para alteração de apólice (Apelação Cível n. 708862-6).
+Requer o provimento do recurso especial para que se determine a aplicação da apólice 7.900, que cobre o evento Invalidez Permanente por Doença, à qual a Segurada/Recorrente teve ciência e anuiu com os seus termos.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido, pois não há demonstração de violação a dispositivo de lei federal e a pretensão de reexame de provas é vedada pela Súmula n. 7 do STJ (fls. 873-879).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenizatória em que a parte autora pleiteou o pagamento de indenização por invalidez permanente por doença, alegando que a apólice de seguro foi alterada unilateralmente sem sua ciência.
+A Corte estadual manteve integralmente a sentença que indeferiu o pedido, afirmando que a apólice n. 7.900 deixou de vigorar em decorrência do fim do prazo contratual, sendo celebrado novo contrato com a apólice n. 850.688.
+Entretanto, a questão referente à ciência ou não da segurada acerca da nova apólice não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração, mesmo porque o tema sequer foi objeto de insurgência na apelação. Confira-se trecho do acórdão que julgou os embargos de declaração (fl. 708):
+Ademais, o recurso apelatório não dedicou uma única linha a suposta ofensa ao princípio da informação, não podendo a questão ser suscitada em embargos de declaração, seara apropriada apenas para corrigir omissões, obscuridades ou contradições no julgado.
+Caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
