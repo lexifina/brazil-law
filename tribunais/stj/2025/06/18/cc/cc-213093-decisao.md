@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 9ª Vara de Execuções Fiscais de São Paulo - SJ/SP e o Juízo de Direito de Santana de Parnaíba - SP nos autos de execução fiscal proposta pela Comissão de Valores Mobiliários.
+O Juízo de Direito de Santana de Parnaíba - SP declarou-se incompetente para processar e julgar o feito, considerando que (fl. 174):
+De acordo com o Provimento nº 430, de 28/11/2014, do art. 2º, disponibilizado no Diário Eletrônico da Justiça Federal da Terceira Região, edição 221/2014, que instalou as 1ª e 2ª Varas Federais e Juizado Especial Federal da 44ª Subseção Judiciária de Barueri, com jurisdição sobre os municípios de Pirapora do Bom Jesus e Santana de Pamaíba, incumbe parte interessada encaminhar a presente Carta Precatória diretamente à Subseção de Barueri.
+ ..
+Destarte, encaminho a presente ao distribuidor para imediata devolução da Carta Precatória à Comarca de Origem (via e-mail ou malote digital), para que seja endereçada diretamente à Subseção Judiciária Federal de Barueri.
+O Juízo Federal da 9ª Vara de Execuções Fiscais de São Paulo - SJ/SP, por sua vez, suscitou o presente conflito de competência, sob os seguintes fundamentos (fl. 194):
+A expedição da carta precatória ao Juízo Estadual de Santana de Parnaíba/SP está amparada na ORDEM DE SERVIÇO Nº 1/2024 - BARU - DSUJ/BARU-SUMA, artigo 2º, que dispõe: "As diligências de comunicação (citação, intimação e notificação), as diligências de avaliação de bens, as diligências probatórias e as diligências executórias, quando relacionadas a processos cíveis, que exijam cumprimento nos municípios de Araçariguama, Itapevi, Jandira, Pirapora do Bom Jesus, Santana de Parnaíba, São Roque e Vargem Grande Paulista, dar-se-ão por meio de carta precatória que deverá ser encaminhada à Justiça Estadual, conforme artigo 237, parágrafo único, do CPC. ID - 336274666 - fl. 20.
+Diante da negativa do Juízo Estadual de Santana de Parnaíba em dar cumprimento ao pedido de cooperação judiciária, materializado pela devolução da carta precatória expedida nestes autos (a remessa para redistribuição ao Juízo Federal de Barueri), suscito conflito negativo de competência a ser dirimido pelo Egrégio Superior Tribunal de Justiça.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o conflito foi instaurado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A jurisprudência desta Corte já reconheceu que as cartas precatórias expedidas pela Justiça Federal deverão ser cumpridas pela Justiça Estadual sempre que a comarca não for sede de vara federal, somente admitindo-se a recusa por parte do Juízo deprecado quando evidenciada uma das hipóteses do art. 267 do Código de 2015, o que não é a hipótese dos autos.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO FEDERAL. OITIVA DE TESTEMUNHAS. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO. SÚMULA 3/STJ. INAPLICABILIDADE.
+1. A competência conferida aos juízos estaduais pelo art. 237, parágrafo único, do CPC/2015 para o cumprimento ou efetivação de cartas precatórias expedidas por juízos federais, constitui, em verdade, ato de cooperação limitado a uma finalidade específica, não se confundindo com a delegação para o julgamento da causa na forma do art. 109, §3º, da Carta Magna. Inaplicabilidade da Súmula 3/STJ.
+2. Nos termos do art. 267 do CPC/2015 a carta precatória pode ser recusada pelo Juízo deprecado, por decisão motivada, caso: (i) não esteja revestida dos requisitos legais; (ii) falte ao juiz competência em razão da matéria ou da hierarquia; ou, ainda, (iii) o juiz tenha dúvida acerca de sua autenticidade. Na hipótese dos autos, nenhum desses óbices foi apontado pelo Juízo Suscitado.
+3. Agravo interno não provido.
+(AgInt no CC n. 196.646/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 17/10/2023, DJe de 20/10/2023.)
+CONFLITO DE COMPETÊNCIA. DIREITO PREVIDENCIÁRIO. OITIVA DE TESTEMUNHA. CARTA PRECATÓRIA. VIDEOCONFERÊNCIA. NÃO OBRIGATORIEDADE. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO.
+I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.
+III - Conflito de competência conhecido para declarar competente para a causa o Juízo Federal da 2ª Vara do Juizado Especial Cível e Criminal de Pouso Alegre/MG. (CC n. 165.381/MG, rel. Min. Francisco Falcão, Primeira Seção, DJe de 14/6/2019.)
+No mesmo sentido, confiram-se: CC 205251/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe 03/06/2024; CC 179739/SP, Relator Ministro GURGEL DE FARIA, DJe de 16/06/2021; CC 179754/SP, Relator Ministro MAURO CAMPBELL MARQUES, DJe 01/06/2021.
+Ressalte-se, por oportuno, que a Comarca de Santana de Parnaíba/SP, local em que deve ser cumprida a diligência, não é sede de Vara Federal.
+Ante o exposto, conheço do conflito e declaro competente para proceder ao cumprimento da carta precatória o Juízo de Direito de Santana de Parnaíba - SP, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO DE CARTA PRECATÓRIA EXPEDIDA PELA JUSTIÇA FEDERAL. COMARCA QUE NÃO É SEDE DE VARA FEDERAL. RECUSA DE CUMPRIMENTO. HIPÓTESES ELENCADAS NO ARTIGO 267 DO CPC/2015. PRECEDENTES. NÃO OCORRÊNCIA DE QUALQUER DELES NO CASO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
