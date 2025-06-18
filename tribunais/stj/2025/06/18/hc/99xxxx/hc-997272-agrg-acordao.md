@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO EM RAZÃO DA QUANTIDADE E DA NATUREZA DO ENTORPECENTE APREENDIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+2. No caso, mostra-se configurado o constrangimento ilegal, tendo em vista que a suscitada minorante foi afastada com fundamento apenas na quantidade e na natureza da droga apreendida.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão de e-STJ fls. 78/82, por meio da qual concedi, de ofício, a ordem de habeas corpus impetrado em favor da paciente (ora agravada), para restabelecer a sentença condenatória, aplicando a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Depreende-se dos autos que a paciente foi condenada em primeira instância, como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 4 anos de reclusão, em regime inicial aberto, com aplicação do redutor do art. 33, § 4º, e substituição da pena privativa de liberdade por duas restritivas de direitos.
+A apelação ministerial foi parcialmente provida pelo Tribunal de origem, que manteve a absolvição pelo crime de associação para o tráfico, mas afastou a aplicação do redutor do tráfico privilegiado, estabelecendo a pena em 6 anos de reclusão, em regime inicial fechado.
+Daí o writ impetrado no STJ, no qual alegou a defesa que a quantidade e a natureza dos entorpecentes não são critérios para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Requereu, desse modo, a reaplicação do redutor, com a expedição de alvará de soltura para que a paciente aguarde o julgamento da presente ação em liberdade.
+Neste agravo regimental, o agravante alegou que as instâncias de origem teriam deduzido fundamentação idônea para o afastamento da suscitada minorante.
+Requereu, ao final, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO EM RAZÃO DA QUANTIDADE E DA NATUREZA DO ENTORPECENTE APREENDIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+2. No caso, mostra-se configurado o constrangimento ilegal, tendo em vista que a suscitada minorante foi afastada com fundamento apenas na quantidade e na natureza da droga apreendida.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 78/82):
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Essa é a situação dos autos, na qual vislumbro flagrante ilegalidade apta a atrair a concessão da ordem de ofício. Senão vejamos.
+No julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006. Com efeito, a quantidade e a natureza do material tóxico somente poderão justificar o afastamento do benefício de forma supletiva e quando o contexto em que se deu a sua apreensão evidenciar a dedicação à atividade criminosa.
+Recebeu o julgado esta ementa:
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. DOSIMETRIA DE PENA. PECULIARIDADES DO TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIA PREPONDERANTE A SER OBSERVADA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CARACTERIZAÇÃO DE BIS IN IDEM. NÃO TOLERÂNCIA NA ORDEM CONSTITUCIONAL. RECURSO PROVIDO PARA RESTAURAÇÃO DA SENTENÇA DE PRIMEIRA INSTÂNCIA.
+1. A dosimetria da reprimenda penal, atividade jurisdicional caracterizada pelo exercício de discricionariedade vinculada, realiza-se dentro das balizas fixadas pelo legislador.
+2. Em regra, abre-se espaço, em sua primeira fase, à atuação da discricionariedade ampla do julgador para identificação dos mais variados aspectos que cercam a prática delituosa; os elementos negativos devem ser identificados e calibrados, provocando a elevação da pena mínima dentro do intervalo legal, com motivação a ser necessariamente guiada pelos princípios da razoabilidade e da proporcionalidade.
+3. Na estrutura delineada pelo legislador, somente são utilizados para a fixação da pena-base elementos pertencentes a seus vetores genéricos que não tenham sido previstos, de maneira específica, para utilização nas etapas posteriores. Trata-se da aplicação do princípio da especialidade, que impede a ocorrência de bis in idem, intolerável na ordem constitucional brasileira.
+4. O tratamento legal conferido ao tráfico de drogas traz, no entanto, peculiaridades a serem observadas nas condenações respectivas; a natureza desse crime de perigo abstrato, que tutela o bem jurídico saúde pública, fez com que o legislador elegesse dois elementos específicos necessariamente presentes no quadro jurídico-probatório que cerca aquela prática delituosa, a saber, a natureza e a quantidade das drogas para utilização obrigatória na primeira fase da dosimetria.
+5. Não há margem, na redação do art. 42 da Lei n. 11.343/2006, para utilização de suposta discricionariedade judicial que redunde na transferência da análise desses elementos para etapas posteriores, já que erigidos ao status de circunstâncias judiciais preponderantes, sem natureza residual.
+6. O tráfico privilegiado é instituto criado par a beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual.
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+9. Na modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, podem ser utilizadas circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas de maneira expressa na fixação da pena-base.
+10. Recurso provido para restabelecimento da sentença.
+(REsp n. 1.887.511/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, julgado em 9/6/2021, DJe 1º/7/2021.)
+No caso dos autos, a dedicação à atividade criminosa foi assentada praticamente na quantidade e natureza do material tóxico apreendido.
+Flagrante, portanto, a ilegalidade aventada.
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, para restabelecer a sentença condenatória.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
