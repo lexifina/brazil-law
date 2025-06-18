@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial, interposto por CARLOS AUGUSTO SILVA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que trata de fixação de data de cessação e de pedido de prorrogação de auxílio doença-acidentário, dentre outras matérias.
+É o relatório. Passo a decidir.
+A suspensão do feito é medida necessária.
+O Supremo Tribunal Federal reconheceu a existência de Repercussão Geral do Tema n. 1.196 - RE n. 1.347.526/SE - "Constitucionalidade da Medida Provisória 739/2016, substituída pela Medida Provisória 767/2017 e convertida na Lei 13.457/2017, as quais alteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado para a duração do benefício", cuja ementa é a seguinte:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. DATA DE CESSAÇÃO DO BENEFÍCIO (DCB). MEDIDAS PROVISÓRIAS 739/2016 E 767/2017. LEI 13.457/2017. CONTROVÉRSIA SOBRE A CONSTITUCIONALIDADE FORMAL. ALEGADA VIOLAÇÃO DOS ARTIGOS 62, CAPUT E § 1º, INCISO I, ALÍNEA B, E 246 DA CONSTITUIÇÃO FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.
+Assim, em razão de economia processual, para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido pela Corte Suprema, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento da repercussão geral.
+Ante o exposto, prejudicada a análise do recurso, determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que decidido pela Excelsa Corte nos autos do RE n. 1.347.526/SE-RG (Tema n. 1.196).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXÍLIO DOENÇA. ALTA PROGRAMADA. TEMA DE REPERCUSSÃO GERAL N. 1.196/STF. SOBRESTAMENTO DOS AUTOS NA ORIGEM. RECURSO ESPECIAL PREJUDICADO.
