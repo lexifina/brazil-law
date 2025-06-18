@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. REMIÇÃO FICTA DE PENA. IMPOSSIBILIDADE. TRABALHO NÃO INTERROMPIDO PELA ADMINISTRAÇÃO CARCERÁRIA. DESCREDENCIAMENTO DA EMPRESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Habeas corpus em que se busca o reconhecimento da remição ficta de pena.
+2. A remição ficta de pena se aplica somente aos presos que já estavam trabalhando e, em razão da crise sanitária, viram-se impossibilitados de continuar com suas atividades devido à pandemia de Covid-19. No caso, está correto o indeferimento do benefício, pois as instâncias ordinárias registraram que o reeducando deixou de realizar a atividade por outro fator, porque houve descredenciamento da empresa que prestava serviços à unidade prisional.
+3. A análise de provas para determinar a causa do desligamento da empregadora é incabível em habeas corpus, que se destina a questões de natureza jurídica.
+4. Agravo regimental não provido.
+RELATÓRIO
+JOÃO RAMOS DA CRUZ agrava da decisão de fls. 67-71, que indeferiu o pedido de remição ficta de suas penas.
+A parte reconhece que houve descredenciamento da empresa que prestava serviços à unidade prisional, mas argumenta a esta Corte que "há uma clara relação entre a pandemia e o encerramento das atividades da empresa Pack Bag na unidade prisional. A empresa ficou impossibilitada de contar com seus funcionários encarcerados" e "em razão dessa paralisação forçada, a empresa optou por se desligar da unidade em definitivo" (fl. 99).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. REMIÇÃO FICTA DE PENA. IMPOSSIBILIDADE. TRABALHO NÃO INTERROMPIDO PELA ADMINISTRAÇÃO CARCERÁRIA. DESCREDENCIAMENTO DA EMPRESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Habeas corpus em que se busca o reconhecimento da remição ficta de pena.
+2. A remição ficta de pena se aplica somente aos presos que já estavam trabalhando e, em razão da crise sanitária, viram-se impossibilitados de continuar com suas atividades devido à pandemia de Covid-19. No caso, está correto o indeferimento do benefício, pois as instâncias ordinárias registraram que o reeducando deixou de realizar a atividade por outro fator, porque houve descredenciamento da empresa que prestava serviços à unidade prisional.
+3. A análise de provas para determinar a causa do desligamento da empregadora é incabível em habeas corpus, que se destina a questões de natureza jurídica.
+4. Agravo regimental não provido.
+VOTO
+Na petição inicial do habeas corpus, o impetrante explicou que o preso "desenvolveu atividades laborterápicas durante todo o ano de 2019 e início do ano de 2020  .. , quando em março de 2020, em razão das restrições sanitárias causadas pelo estado pandêmico, ficou impedido de continuar desempenhando suas funções" (fl. 6, grifei).
+Todavia, a autoridade administrativa afirma que outra foi a situação fática da execução. O reeducando não foi impedido de prosseguir o trabalho por questões sanitárias, mas "foi desligado da empresa em que laborava  .. , quando a empresa em questão deixou de prestar serviços" (fl. 6, grifei).
+A defesa argumenta que "o período entre 25 de março de 2020 (início das restrições sanitárias) e 27 de agosto de 2021 (data da transferência ao regime semiaberto) deve ser computado como de efetivo trabalho, nos termos da Tese Firmada no Tema Repetitivo nº 1.120 - STJ" (fl. 7).
+Entretanto, conforme o acórdão recorrido, não houve interrupção do trabalho do preso pela direção administrativa. Confira-se:
+ ..  in casu, conforme salientado pelo Juízo a quo, não restou demonstrado que o agravante tenha cessado suas atividades laborativas unicamente em razão do estado pandêmico. Com efeito, segundo o ofício de fls. 698 dos autos nº 7000102-50.2013.8.26.0129, consta que o sentenciado foi desligado do trabalho em 01.05.2020, quando a empresa Pack Bag deixou de prestar serviços junto à unidade prisional, não sendo possível presumir que o encerramento da prestação de serviços e a consequente ruptura de seu contrato de trabalho tenham ocorrido, unicamente, em razão da pandemia de Covid 19, inclusive porque o apelante prestou normalmente atividades laborativas no início de sua eclosão, nos meses de março e abril de 2020.
+Nesse cenário, não se configura a situação prevista pela tese jurídica fixada pela Terceira Seção no Tema Repetitivo n. 1.120, uma vez que, conforme a premissa fática estabelecida pelo Tribunal de origem, o preso não foi impedido de dar continuidade ao trabalho exclusivamente em razão da restrições impostas pelo governo durante a pandemia da Covid-19, mas sim em decorrência do descredenciamento da empresa Pack Bag, que deixou de prestar serviços à unidade prisional.
+Para se presumir que a situação foi diversa, seria necessário produzir e examinar provas, o que é incabível em habeas corpus, uma vez que a controvérsia deduzida pela defesa é de natureza fática e não jurídica.
+É incabível a concessão da ordem. Deveras , "tratando-se de trabalho de natureza eventual, incabível a aplicação da remição ficta, porquanto não se pode presumir que o trabalho deixou de ser oferecido e exercido em razão do estado pandêmico" (HC n. 684.875/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/3/2023, DJe de 23/3/2023).
+À vista do exposto, nego provimento ao agravo regimental.
