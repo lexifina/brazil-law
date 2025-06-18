@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por BELINE ALVES DE OLIVEIRA FILHO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2095587-44.2025.8.26.0000).
+Consta dos autos que o recorrente foi condenado definitivamente como incurso no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, à pena de 3 anos de reclusão, em virtude da apreensão de quase 200 cartuchos de munição, algumas de uso restrito, além de três armas de fogo, estando uma delas com a numeração suprimida.
+A defesa requereu então a produção de prova em justificação criminal, o que foi indeferido, "sob a alegação de rediscussão de prova ou ausência de prova nova". Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 68-69):
+DIREITO PENAL. HABEAS CORPUS. JUSTIFICAÇÃO CRIMINAL. PERÍCIA. IMPROPRIEDADE DA VIA ELEITA E AUSÊNCIA DE CIRCUNSTÂNCIAS QUE JUSTIFIQUEM O ATENDIMENTO DA PRETENSÃO. ORDEM DENEGADA.
+I. Caso em Exame Habeas Corpus impetrado em favor de Beline Alves de Oliveira Filho contra decisão do Juízo da 3ª Vara da Comarca de Ubatuba, que indeferiu pedido de produção de prova em justificação criminal. O Paciente foi condenado a três anos de reclusão pelo crime de posse ilegal de arma de fogo, conforme artigo 16, parágrafo único, da Lei n. 10.826/03. A defesa alega que a espingarda apreendida não era de uso restrito e questiona a aptidão da arma para disparos, além de apontar parcialidade do juízo.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar (i) a viabilidade do atendimento da pretensão na via do "writ" e (ii) se é caso de atender a pretensão.
+III. Razões de Decidir
+3. A decisão atacada desafia Apelação e não se relaciona diretamente à liberdade ambulatorial do Paciente, o que autorizaria o não conhecimento da impetração.
+4. O Paciente foi condenado por posse de munições de uso restrito e outras armas, além da espingarda com numeração suprimida, o que mantém a capitulação jurídica. Laudos periciais comprovaram que a espingarda estava apta a disparos e a defesa teve oportunidade de contestar o laudo à época dos fatos.
+IV. Dispositivo e Tese
+5. Ordem denegada. Tese de julgamento: 1. A posse de munições de uso restrito e armas com numeração suprimida autoriza a condenação pelo crime do artigo 16, parágrafo único (atual §1º), inciso IV, da Lei de Armas. A aptidão da espingarda para disparos foi comprovada por laudos periciais. Legislação Citada: Lei n. 10.826/03, art. 16, parágrafo único (atual §1º), inciso IV.
+No presente recurso, a defesa aduz, em síntese, que "a perícia tem o potencial de trazer elementos técnicos e objetivos que podem lançar nova luz sobre a questão central da condenação: a aptidão da arma para disparo e, por conseguinte, a caracterização do crime de posse ilegal".
+Pugna, liminarmente e no mérito, pelo deferimento da prova.
+É o relatório. Decido.
+Conforme relatado, a defesa busca, em síntese, a realização de perícia, em justificação criminal, para ingressar com revisão criminal, na qual possa comprovar a inaptidão da arma apreendida. Contudo, o Magistrado de origem indeferiu o pedido, uma vez que a defesa não apresentou "qualquer comprovação documental ou justificativa plausível para o não questionamento desses aspectos durante a instrução". Concluiu, assim, se tratar de mera rediscussão de "prova já produzida (o laudo pericial), o que é vedado pelo sistema processual penal" (e-STJ fl. 45).
+A Corte local, por seu turno, destacou igualmente que, durante a instrução processual, "os laudos periciais acostados aos autos constataram que o artefato estava apto para a realização de disparo (laudos de fls. 75/79, 191/197 e 231/243)". (e-STJ fl. 70). Dessa forma, a realização de nova perícia nesse momento não se trata de prova nova, uma vez que a defesa teve oportunidade de questionar os laudos à época e não o fez. Ademais, destacou-se que a condenação do recorrente não diz respeito apenas à apreensão da mencionada arma, mas também de munições e outras duas armas, o que torna irrelevante a perícia pretendida para eventual alteração do édito condenatório.
+Constata-se, portanto, que o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, que é no sentido de que "a justificação criminal tem como finalidade a obtenção de prova nova para embasar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução processual, arrolar novas testemunhas ou reinquirir aquelas já ouvidas, salvo quando houver prova inédita que justifique a revisão do julgado". (AgRg no HC n. 982.258/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. JUSTIFICAÇÃO CRIMINAL INDEFERIDA NA ORIGEM. FUNDAMENTAÇÃO ADEQUADA.
+1. A fundamentação utilizada pela Corte de origem para indeferir o pedido de justificação criminal revela-se adequada, tendo em vista que, além de o paciente já ter se utilizado previamente de revisão criminal, a prova que se buscava a produção não poderia ser qualificada como nova, uma vez que existia desde a tramitação da ação penal.
+2. Ademais, a referida prova pericial não teria o condão de afastar a avaliação negativa contida na sentença de que as consequências do crime foram desfavoráveis. Isso, porque as sequelas emocionais deixadas na vítima não precisam necessariamente ser comprovadas por meio de documento expedido por órgão técnico, porquanto tal constatação pode ser obtida por meio de outros elementos de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 952.654/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Não se verifica, portanto, constrangimento ilegal.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
