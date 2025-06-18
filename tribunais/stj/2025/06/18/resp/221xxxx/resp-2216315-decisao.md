@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 248):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+3. O salário-educação é regido por legislação específica, em razão do que também a ele não se aplica o teto de 20 salários mínimos.
+A recorrente sustenta, além de dissídio jurisprudencial, a contrariedade ao art 4º, parágrafo único, da Lei n. 6.950/81, pois "a definição do Tema 1.079 pelo STJ e a respectiva não limitação do salário de contribuição em 20 salários mínimos ficou restrito apenas às contribuições do chamado "Sistema S" (SESI, SENAI, SESC e SENAC) e, portanto, não atingiu as contribuições parafiscais do FNDE (Salário Educação), SEBRAE e do INCRA, entre outras, que permanecem limitadas ao teto de 20 salários mínimos." (fl. 265)
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 283.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A recorrente, ao deduzir a tese no sentido da necessidade de observância do valor-limite de 20 salários-mínimos, para fins de apuração de folha de salários e recolhimento das contribuições destinadas ao salário-educação, deixou de impugnar o fundamento do acórdão recorrido segundo o qual (fl. 246):
+"Ademais, no que tange ao salário-educação, essa contribuição possui regras próprias de incidência (art. 15 da Lei nº 9.424/1996), ou seja, alíquota de 2,5% sobre o total de remunerações pagas ou creditadas, a qualquer título, aos segurados empregados. Com efeito, regulada por lei especial (específica) e posterior a limitação disciplinada pela Lei nº 6.950/81, inaplicável à base de cálculo o teto de 20 salários-mínimos."
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Além disso, não é possível conhecer do recurso especial que apresenta suposta violação do 4º, parágrafo único, da Lei n. 6.950/81, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SALÁRIO EDUCAÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
