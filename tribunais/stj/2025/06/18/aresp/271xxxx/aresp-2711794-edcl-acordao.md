@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE PALMEIRINA contra acórdão da Segunda Turma desta Corte, assim ementado (e-STJ, fl. 182):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. TESES RECURSAIS DISSOCIADAS DO TEOR DE DISPOSITIVOS ARROLADOS NO RECURSO E AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL. SÚMULA 284/STF. LIQUIDEZ DO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO. 1. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido, trazendo alegações dissociadas do que foi decidido pelo Tribunal de origem. Incidência da Súmula 284 do Supremo Tribunal Federal. 2. O entendimento no sentido de que a sentença é líquida, por depender apenas de cálculos aritméticos, e a ausência de indicação de excesso de execução pelo município recorrente, atrai a aplicação da Súmula 7/STJ. 3. A ausência de comprovação do dissídio jurisprudencial inviabiliza o conhecimento do recurso especial por essa via, conforme exigido pelos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do STJ. 4. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 193-198), o embargante sustenta que o acórdão incorreu em omissão.
+Aduz, em síntese, que não seriam aplicáveis os óbices previstos nas Súmulas n. 284/STF e n. 7/STJ, uma vez que o Recurso Especial interposto tratou, de forma direta e fundamentada, da violação ao art. 373, I, do CPC, e não exigiria revolvimento fático-probatório, por se tratar de fato incontroverso nos autos  qual seja, a ausência de prova, por parte da autora, quanto à constituição do seu direito.
+Defende, ainda, que houve impugnação específica dos fundamentos adotados pelo acórdão recorrido, com indicação precisa dos dispositivos legais violados e trechos da decisão que teriam afrontado a legislação federal, de modo que o Recurso Especial atenderia aos requisitos de admissibilidade.
+Requer, ao final, o acolhimento dos embargos de declaração, a fim de que seja sanada a omissão e afastada a aplicação das Súmulas n. 7 do STJ e nº 284 do STF, para que o Recurso Especial interposto seja conhecido e julgado.
+Ausente a impugnação, conforme certidão de fl. 201 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem prosperar.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, conforme devidamente esclarecido no acórdão embargado, as razões recursais conforme apresentadas pelo insurgente acerca do reconhecimento da inexequibilidade do título executivo pela iliquidez, por exigir prévia liquidação judicial estão dissociadas dos fundamentos utilizados no acórdão impugnado, que considerou a sentença líquida, pois o conteúdo econômico dependia apenas de cálculos aritméticos, o que enseja a aplicação da Súmula 284 do STF, pois a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia.
+Também foi asseverado que, o Município não apontou qualquer excesso de execução de forma pormenorizada, violando o disposto no art. 534, IV, e §2º, do CPC, que exige que o executado declare de imediato o valor que entende correto, sob pena de não conhecimento da arguição (e-STJ, fl. 149). Essa omissão reforça a inadequação do recurso especial, uma vez que a parte recorrente não impugnou, de forma específica, os fundamentos do acórdão recorrido.
+Em reforço foi indicado que, a jurisprudência do STJ é pacífica no sentido de que sentenças que necessitam apenas de cálculo aritmético são consideradas líquidas, devendo incidir a correção e os juros desde o inadimplemento.
+Sendo assim, na hipótese, a pretensão recursal implica o revolvimento da matéria fática apreciada nos autos, uma vez que o acórdão recorrido firmou que a sentença é líquida, pois depende apenas de cálculos aritméticos, e a recorrida apresentou os cálculos observando os termos do art. 534 do CPC.
+Em face disso, a revisão das conclusões do Tribunal em sede de recurso especial não ultrapassa a barreira imposta pela Súmula 7 do STJ, que veda o reexame do conjunto fático-probatório.
+Desse modo, ao analisar a questão aduzida no agravo em recurso especial, decidiu-se por aplicar, os óbice de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
