@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR. SÚMULAS N. 282, 283, 284 E 356 DO STF. SÚMULAS N. 7 E 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança com pedido de liminar. Na sentença o pedido foi julgado improcedente ,e a segurança foi denegada. No Tribunal a quo, negou-se provimento à apelação. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+II - Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial. Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no recurso, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+V - Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas n. 211/STJ e 282 e 356 do STF.
+VI - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança com pedido de liminar. Na sentença o pedido foi julgado improcedente, e a segurança foi denegada. No Tribunal a quo, a sentença negou provimento à apelação. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+DA NÃO APLICAÇÃO DA SÚMULA Nº 282 DO SUPREMO TRIBUNAL FEDERAL
+ ..
+DA NÃO APLICAÇÃO DAS SÚMULAS Nº 356 DO SUPREMO TRIBUNAL FEDERAL E Nº 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA
+A decisão agravada também baseou-se na incidência da súmula 356/STF e 211/STJ para não conhecer do recurso.
+ ..
+DA NÃO APLICAÇÃO DAS SÚMULAS Nº 283 e Nº 284 DO SUPREMO TRIBUNAL FEDERAL
+A decisão ora agravada também entendeu por haver a incidência das súmulas 283/STF e 284/STF, que dispõem o seguinte:
+ ..
+DA NÃO APLICAÇÃO DA SÚMULA Nº 7/STJ
+Por fim, a decisão ora agravada também proferiu incidir a súmula 7/STJ ao caso concreto, não conhecendo do recurso.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR. SÚMULAS N. 282, 283, 284 E 356 DO STF. SÚMULAS N. 7 E 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança com pedido de liminar. Na sentença o pedido foi julgado improcedente ,e a segurança foi denegada. No Tribunal a quo, negou-se provimento à apelação. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+II - Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial. Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no recurso, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+V - Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas n. 211/STJ e 282 e 356 do STF.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, relator Ministro Francisco Falcão, DJe 10/3/2017.)
+O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no recurso, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF. In verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas n. 211/STJ e 282 e 356 do STF. Confira-se:
+Súmula 282/STF. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356/STF. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
