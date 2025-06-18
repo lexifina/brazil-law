@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 900/905) opostos em face do despacho de fls. 897/898 em que registrei que descabe a este Sodalício manifestar-se acerca de pedido de concessão de efeito suspensivo a agravo em recurso extraordinário, cuja competência de julgamento é do Supremo Tribunal Federal, ao passo que eventual agravo em recurso extraordinário interposto pela parte na origem será remetido ao Supremo Tribunal Federal quando do esgotamento do prazo para a interposição de recursos nesta instância.
+A parte alega a existência de omissão, afirmando que não houve manifestação sobre o seguinte tópico: "Que o envio do agravo em recurso extraordinário deve ocorrer sem o trânsito em julgado da ação penal, pois a jurisprudência do STF tem entendimento consolidado (citado), no caso de existir recurso pendente, não se inicia o cumprimento da pena, somente após o trânsito em julgado de todos os recursos" (fl. 900).
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso, inexiste omissão a ser sanada. Conforme o que constou do despacho de fl. 897, eventual agravo em recurso extraordinário interposto pela parte na origem será remetido ao Supremo Tribunal Federal quando do esgotamento do prazo para a interposição de recursos nesta instância, ao passo que este Tribunal não controla quando haverá o trânsito em julgado da demanda, o que depende unicamente da parte não mais apresentar recursos.
+Ademais, verifico que o julgamento dos embargos de declaração opostos em face do acórdão (fls. 878/883) foi publicado em 07/05/2025, com termo inicial em 08/05/2025 e, inexistindo qualquer causa interruptiva ou suspensiva do prazo recursal, termo final em 29/05/2025, ocasião que deve ser certificado o trânsito em julgado do feito neste Tribunal Superior.
+Ante o exposto, com fulcro no art. 264, § 1º, do RISTJ, não conheço dos embargos de declaração. Certifique-se o trânsito em julgado, conforme determinado no parágrafo anterior.
+Publique-se. Intimem-se.
+EMENTA
