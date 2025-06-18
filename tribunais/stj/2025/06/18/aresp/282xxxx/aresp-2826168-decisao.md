@@ -1,0 +1,26 @@
+DECISÃO
+Em agravo em recurso especial interposto por Waldir Ribeiro da Silva Junior contra decisão do Tribunal de Justiça do Estado do Espírito Santo (e-STJ fls. 321-326), examina-se a inadmissão do recurso especial, fundada na ausência de prequestionamento, necessidade de reexame de provas e deficiência de fundamentação, conforme as Súmulas n. 7 do Superior Tribunal de Justiça, 282 e 356 do Supremo Tribunal Federal.
+O agravante foi condenado, em primeiro grau, pelo delito previsto no artigo 157, §2º, inciso II, do Código Penal, praticado em 11/06/2019, à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, além do pagamento de 13 dias-multa (e-STJ fls. 177-195).
+O Tribunal de Justiça do Estado do Espírito Santo (e-STJ fls. 290-298) manteve a condenação. O acórdão fundamentou-se na robustez das provas, especialmente na palavra da vítima, que reconheceu o acusado como autor do delito, e na materialidade delitiva evidenciada pelo auto de entrega dos bens subtraídos.
+O recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, alegou violação aos artigos 157, §2º, inciso II, do Código Penal, e aos artigos 157, 226, 386, inciso VII, e 564, inciso IV, do Código de Processo Penal, requerendo a nulidade do procedimento de reconhecimento de pessoa e a absolvição do agravante por falta de provas de autoria (e-STJ fls. 301-311).
+O recurso não foi admitido pelo Tribunal de origem porque (e-STJ fls. 321-326) não houve prequestionamento das teses jurídicas, sendo necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, além da deficiência de fundamentação das razões recursais.
+Na petição de agravo em recurso especial (e-STJ fls. 328-338), o agravante busca impugnara decisão de inadmissão. Alega, em síntese, que o acórdão impugnado ventilou as questões federais suscitadas ao negar provimento ao recurso, ainda que não tenha mencionado expressamente os dispositivos legais indicados como violados, o que inviabiliza a invocação das referidas súmulas para obstaculizar o conhecimento do recurso especial. Ademais, sustenta que a condenação baseada apenas na memória da vítima e em um reconhecimento pessoal é insuficiente e deve ser anulada, pois não se busca o reexame probatório, mas sim a revaloração jurídica da prova, uma vez que os parâmetros utilizados são inaptos a fundamentar a condenação.
+O Ministério Público manifestou-se pelo conhecimento e improvimento (e-STJ fls. 368-374), em parecer assim ementado:
+"PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. NULIDADE. RECONHECIMENTO PESSOAL. PROVA DE REALIZAÇÃO DO PROCEDIMENTO LEGAL. INFORMAÇÕES DA VÍTIMA. PREQUESTIONAMENTO. AUSÊNCIA. NÃO CONHECIMENTO. INOBSERVÂNCIA DO ART. 226 DO CPP. PEDIDO DE ABSOLVIÇÃO. LEGALIDADE DOS ELEMENTOS PROBATÓRIOS QUANTO À AUTORIA DELITIVA. SÚMULA 7/STJ. NÃO PROVIMENTO."
+É o relatório.
+Decido.
+O agravo é tempestivo e impugna os fundamentos da decisão. Passa-se ao exame.
+A tese de nulidade do reconhecimento fotográfico não foi devidamentre prequestionada. Embora tenha constado, de forma breve, nas razões de apelação, o acórdão a ela fez menção somente en passant, quando citava trecho da sentença de primeiro grau.
+Não houve efetivo enfrentamento da tese, pois, e a defesa sequer manejou embargos de declaração para o efeito de instar o tribunal de origem a fazê-lo.
+Presentes, pois, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal, na esteira do consignado na decisão de inadmissibilidade.
+Não se pode cogitar, de igual forma, de prequestionamento implícito, pois, além de não terem sido expressamente citados os dispositivos, também não houve efetivo debate da tese.
+No que diz com o pleito de absolvição por insuficiência probatória, consigno o que firmou o tribunal de origem:
+Em juízo, às fls. 69, a vítima Andréa da Silva Laranja narrou como se deu toda a dinâmica da ação criminosa, e ainda, reconheceu o acusado como autor do delito.
+Ademais, como bem destacou o probo magistrado sem sua sentença, "quanto ao reconhecimento do acusado Waldir, verifico que o procedimento adotado pela autoridade policial se revestiu das formalidades legais, na medida em que, na delegacia, foram apresentadas à vítima fotos de 06 (seis) a 08 (oito) indivíduos no mesmo instante, ao ser solicitado que não houvesse contato entre as partes. Além disso, a vítima também afirmou em audiência de instrução e julgamento (documento audiovisual - fls. 69) que realizou um segundo reconhecimento no Fórum Criminal, de maneira presencial, identificado Waldir como um dos assaltantes, sem dúvida".
+No auto de entrega de fls. 10, tem-se também demonstrada a materialidade delitiva, onde ali constam os bens subtraídos pelo réu.
+Portanto, sendo robusta e coesa a prova carreada no decorrer da instrução criminal, demonstrando ser o réu autor do crime narrado na exordial acusatória, sendo descabida a tese absolutória formulada pela defesa.
+A conclusão da corte de origem está fundamentada em elementos concretos, de modo que a sua desconstituição demandaria revolvimento do contexto fático-probatório, providência vedada pela Súmula 7.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
