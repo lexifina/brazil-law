@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a custódia cautelar do agravante.
+2. A decisão de primeiro grau homologou a prisão em flagrante e converteu em prisão preventiva, fundamentando-se na necessidade de assegurar a ordem pública, em razão de processos em andamento contra o custodiado e atos infracionais pretéritos.
+3. O Ministério Público manifestou-se pela homologação da prisão em flagrante e pela aplicação de medidas cautelares diversas da prisão.
+II. Questão em discussão
+4. A discussão consiste em saber se a prisão preventiva pode ser mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, mesmo diante de manifestação do Ministério Público por medidas cautelares diversas.
+5. Outra questão é verificar se a utilização de atos infracionais ocorridos na adolescência do agravante para fundamentar a prisão preventiva é válida.
+III. Razões de decidir
+6. A prisão preventiva foi mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, justificando a necessidade de garantir a ordem pública.
+7. A jurisprudência do Superior Tribunal de Justiça permite ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, sem que isso configure atuação de ofício.
+8. A utilização de atos infracionais pretéritos para fundamentar a prisão preventiva é aceita, desde que demonstrem a contumácia delitiva e a periculosidade do agente.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: 1. A prisão preventiva pode ser mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, mesmo diante de manifestação do Ministério Público por medidas cautelares diversas. 2. A utilização de atos infracionais pretéritos para fundamentar a prisão preventiva é válida quando demonstram a contumácia delitiva e a periculosidade do agente.
+Dispositivos relevantes citados: CPP, arts. 282, 312, 313 e 319.
+Jurisprudência relevante citada: STJ, AgRg no RHC 176.879/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 19.06.2023; STJ, AgRg no HC 927.737/SC, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 30.09.2024.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  TIAGO  DE  JESUS  PEREIRA  contra  a  decisão  monocrática,  fls.  200-204,  que  negou  provimento  ao  recurso  ordinário  em  habeas  corpus,  mantendo-se  a  custódia  cautelar  do  agravante.
+Por economia processual, adoto  o  respectivo  relatório.
+Sustenta  o  agravante  que  a  decisão  proferida  pelo  Juízo  de  primeiro  grau se  utiliza  de  atos  infracionais  ocorridos  quando  era  adolescente,  ao  passo  que  tais  registros  não  apresentam  indícios  de  persecução  penal.
+Afirma  que  um  dos  processos  citados ,
+ (nº  8001054-65.2022.8.05.0069) ,  diz  respeito  a  uma  ação  cautelar  de  busca  e  apreensão  ocorrida  quando  o  Recorrente  também  ainda  era  adolescente.  A  ação  foi  motivada  por  sua  suposta  evasão  da  clínica  onde  recebia  tratamento,  devido  ao  diagnóstico  de  retardo  mental  leve  (CID-10  F.70)  e  síndrome  de  dependência  (CID-10  F.192)  (fl.  215).
+Argumenta  que  o  caso  dos  autos  se  distingue  do  precedente  que  foi  utilizado  para  justificar  a  conversão  ex  officio  do  flagrante  em  prisão  preventiva.
+Requer,  por  último,
+a  reconsideração  da  r.  decisão  ora  agravada  para  que  seja  concedida  a  ordem  de  Habeas  Corpus  para  revogar  a  prisão  preventiva  do  paciente,  impondo-se,  caso  se  entenda  necessário,  as  medidas  cautelares  alternativas  previstas  no  art.  319  do  CPP,  por  ser  esta  uma  medida  de  justiça  (fl.  221).
+É  o  relatório.
+EMENTA
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a custódia cautelar do agravante.
+2. A decisão de primeiro grau homologou a prisão em flagrante e converteu em prisão preventiva, fundamentando-se na necessidade de assegurar a ordem pública, em razão de processos em andamento contra o custodiado e atos infracionais pretéritos.
+3. O Ministério Público manifestou-se pela homologação da prisão em flagrante e pela aplicação de medidas cautelares diversas da prisão.
+II. Questão em discussão
+4. A discussão consiste em saber se a prisão preventiva pode ser mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, mesmo diante de manifestação do Ministério Público por medidas cautelares diversas.
+5. Outra questão é verificar se a utilização de atos infracionais ocorridos na adolescência do agravante para fundamentar a prisão preventiva é válida.
+III. Razões de decidir
+6. A prisão preventiva foi mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, justificando a necessidade de garantir a ordem pública.
+7. A jurisprudência do Superior Tribunal de Justiça permite ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, sem que isso configure atuação de ofício.
+8. A utilização de atos infracionais pretéritos para fundamentar a prisão preventiva é aceita, desde que demonstrem a contumácia delitiva e a periculosidade do agente.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: 1. A prisão preventiva pode ser mantida com base na gravidade concreta da conduta e no risco de reiteração delitiva, mesmo diante de manifestação do Ministério Público por medidas cautelares diversas. 2. A utilização de atos infracionais pretéritos para fundamentar a prisão preventiva é válida quando demonstram a contumácia delitiva e a periculosidade do agente.
+Dispositivos relevantes citados: CPP, arts. 282, 312, 313 e 319.
+Jurisprudência relevante citada: STJ, AgRg no RHC 176.879/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 19.06.2023; STJ, AgRg no HC 927.737/SC, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 30.09.2024.
+VOTO
+Em  que  pese  o  esforço  argumentativo  recursal,  a  decisão  monocrática  merece  ser mantida por  seus  próprios  fundamentos:
+O  recurso  não  merece  provimento.
+Ao  decidir  a  respeito  da  homologação  da  prisão  em  flagrante  e  conversão  da  prisão  em  preventiva,  a  Juíza  da  Comarca  de  Correntina/BA  assim  consignou  (fls.  79-80):
+Com  efeito,  a  prisão  preventiva  é,  sobretudo  agora,  uma  medida  excepcionalíssima  que  será  somente  decretada  pelo  magistrado  após  requerimento  e  imperiosa  comprovação  de  sua  necessidade  pelo  Ministério  Público,  querelante  ou  assistente,  ou  por  representação  da  autoridade  policial,  atendidos  os  requisitos  legais  para  tanto.
+Para  a  decretação  desta  espécie  de  prisão,  é  fundamental  a  demonstração  de  prova  da  existência  do  crime,  revelando  a  veemência  da  materialidade,  e  indícios  suficientes  de  autoria  ou  de  participação  na  infração  (art.  312,  caput,  in  fine,  CPP),  além  da  caracterização  de  umas  situações  descritas  no  artigo  312  do  Código  de  Processo  Penal,  sem  desconsiderar,  ainda,  as  hipóteses  de  admissibilidade  elencadas  no  artigo  313  do  referido  diploma  legal.
+Além  do  que  já  dispõe  o  caput  e  o  §  1º  do  art.  312  do  CPP,  a  Lei  nº  13.946/2019  incluiu  em  sua  redação  o  §  2º,  o  qual  dispõe  que  "a  decisão  que  decretar  a  prisão  preventiva  deve  ser  motivada  e  fundamentada  em  receio  de  perigo  e  existência  concreta  de  fatos  novos  ou  contemporâneos  que  justifiquem  a  aplicação  da  medida  adotada".
+Por  sua  vez,  a  referida  lei  incluiu  também  no  art.  313  do  CPP  um  §  2º,  de  modo  que,  além  dos  requisitos  para  admissão  da  decretação  da  prisão  preventiva  dispostos  nos  seus  incisos  e  no  §  1º,  vem  estabelecer  que  "não  será  admitida  a  decretação  da  prisão  preventiva  com  a  finalidade  de  antecipação  de  cumprimento  de  pena  ou  como  decorrência  imediata  de  investigação  criminal  ou  da  apresentação  ou  recebimento  de  denúncia".
+Evidencia-se  que,  no  dia  09/01/2025,  o  flagranteado  foi  encontrado,  em  posse  do  valor  de  R$  67,25  (sessenta  e  sete  reais  e  vinte  e  cinco  centavos),  no  interior  do  estabelecimento  Pousada,  Bar  e  Lanchonete  Trevo,  situado  nas  proximidades  da  Loja  Reflexos,  no  Bairro  do  Ouro,  nesta  cidade,  pela  Polícia  Militar,  a  qual  foi  acionada  pela  proprietária.
+In  casu,  observa-se  que  os  elementos  informativos  colhidos  até  então  permitem  o  exercício  do  juízo  positivo  quanto  à  materialidade  do  fato  e  aos  indícios  da  autoria,  sobretudo  diante  dos  depoimentos  colhidos  pela  autoridade  policial  e  das  gravações  de  câmera  de  segurança,  que  filmaram  o  momento  dos  fatos  (ID.  481191032,  481191033,  481191035  e  481191036).
+O  fumus  comissi  delicti  se  encontra  nos  autos,  na  medida  dos  depoimentos  e  interrogatório,  que  indicam,  em  cognição  sumária,  ter  o  representado  praticado  o  delito  previsto  no  155,  §1º  e  4º,  I  e  163,  ambos  do  CP,  pelo  que  restam  atendidos  os  requisitos  exigidos  pela  lei  processual.
+O  periculum  libertatis,  por  sua  vez,  é  verificado  pela  necessidade  de  assegurar  a  ordem  pública,  pois,  em  face  do  custodiado,  existem  os  seguintes  processos  em  andamento:  BOC  nº  8000528-98.2022.8.05.0069,  BOC  nº  8000498-  63.2022.8.05.0069,  BOC  nº  8000920-  38.2022.8.05.0069,  bem  como  os  autos  de  BUSCA  E  APREENSÃO  INFÂNCIA  E  JUVENTUDE  nº  8001054-  65.2022.8.05.0069,  conforme  registro  no  referido  sistema  PJE.
+Desse  modo,  os  atos  infracionais  pretéritos,  conforme  entendimento  do  Superior  Tribunal  de  Justiça  justificam  a  prisão  preventiva,  com  objetivo  de  evitar  a  reiteração  delitiva.
+A  decisão  proferida  pelo  Juízo  de  primeiro  grau  foi  mantida  por  ocasião  do  julgamento  do  habeas  corpus  recorrido,  assentando-se,  ainda,  que  esta  Corte  entende
+que  a  decretação  da  prisão  de  ofício  configura  constrangimento  ilegal.  Todavia,  a  decisão  em  sentido  diverso  do  requerido  pelo  Ministério  Público,  pela  autoridade  policial  ou  pelo  ofendido  -  eis  que  no  caso  em  tela  o  Parquet  pleiteou  pela  concessão  da  liberdade  provisória  -  não  pode  ser  considerada  como  atuação  ex  officio,  posto  que  atua  em  conformidade  com  as  disposições  legais,  desde  que  previamente  provocado  (fl.  143).
+Segundo  o  entendimento  majoritário  desta  Corte  Superior  de  Justiça,  é  possível  ao  magistrado  decretar  medida  cautelar  diversa  daquela  requerida  pelo  Ministério  Público,  o  que  não  representa  atuação  ex  officio  (AgRg  no  RHC  n.  176.879/MG,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  19/06/2023,  DJe  de  22/06/2023).
+Na  hipótese,  o  Ministério  Público  estadual  se  manifestou  pela  homologação  da  prisão  em  flagrante  e  pugnou  pela  aplicação  de  medidas  cautelares  diversas  da  prisão  (fl.  79).
+Assim,  diante  da  manifestação  ministerial,  pode  o  Juiz  avaliar  a  suficiência  e  adequação  das  medidas  cautelares,  decidindo  pela  imposição  de  medida  mais  branda  ou  mais  gravosa,  como  no  caso.
+Exemplificativamente:
+AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  HOMICÍDIO  QUALIFICADO  EM  EMBRIAGUEZ  AO  VOLANTE.  PRISÃO  PREVENTIVA  DE  OFÍCIO.  NÃO  OCORRÊNCIA.
+1.  O  Supremo  Tribunal  Federal,  ao  analisar  a  matéria,  no  Habeas  Corpus  n.  188.888,  entendeu  que  "a  Lei  nº  13.964/2019,  ao  suprimir  a  expressão  "de  ofício"  que  constava  do  art.  282,  §§  2º  e  4º,  e  do  art.  311,  todos  do  Código  de  Processo  Penal,  vedou,  de  forma  absoluta,  a  decretação  da  prisão  preventiva  sem  o  prévio  "requerimento  das  partes  ou,  quando  no  curso  da  investigação  criminal,  por  representação  da  autoridade  policial  ou  mediante  requerimento  do  Ministério  Público",  não  mais  sendo  lícita,  portanto,  com  base  no  ordenamento  jurídico  vigente,  a  atuação  "ex  officio"  do  Juízo  processante  em  tema  de  privação  cautelar  da  liberdade".
+2.  No  caso  dos  autos,  contudo,  a  prisão  preventiva  do  recorrente  foi  decretada  no  início  da  Ação  Penal  n.  0800037-19.2023.8.14.0035,  a  pedido  da  autoridade  policial,  não  havendo  que  se  falar  em  violação  ao  sistema  acusatório.
+3.  Ademais,  havendo  manifestação  do  Ministério  Público  pela  imposição  de  medidas  cautelares,  pode  o  magistrado  decretar  medida  diversa,  seja  ela  mais  branda  ou  mais  gravosa,  sem  que  isso  configure  atuação  de  ofício.
+4.  Agravo  regimental  a  que  se  nega  provimento  (AgRg  no  RHC  n.  195.540/PA,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  10/06/2024,  DJE  de  14/06/2024).
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  PRISÃO  PREVENTVIA  DECRETADA  DE  OFÍCIO.  NÃO  OCORRÊNCIA.  GARANTIA  DA  ORDEM  PÚBLICA.  QUANTIDADE  DE  ENTORPECENTES.  RECURSO  NÃO  PROVIDO.
+1.  Esta  Corte  tem  entendimento  de  que  a  manifestação  do  parquet  pela  aplicação  de  medidas  alternativas  diversas  ao  cárcere,  permite  ao  juiz  avaliar  a  pertinência  das  referidas  cautelares  e,  nessa  condição,  impor  a  mais  adequada  e  suficiente  ao  caso,  inclusive  a  mais  grave,  qual  seja,  a  prisão  preventiva,  sem  se  falar  em  prisão  cautelar  de  ofício.
+2.  Hipótese  em  que  a  custódia  preventiva  está  motivada  na  garantia  da  ordem  pública,  dada  a  gravidade  dos  fatos  apurados,  uma  vez  que  os  réus  transportavam  46  tijolos  de  cocaína  (14,8kg),  para  fins  de  tráfico.
+3.  Agravo  não  provido
+(AgRg  no  HC  n.  900.602/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  20/05/2024,  DJE  de  23/05/2024)
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  PRISÃO  PREVENTIVA.  CONVERSÃO  DE  OFÍCIO.  INOCORRÊNCIA.  REQUERIMENTO  DO  MINISTÉRIO  PÚBLICO  PELA  IMPOSIÇÃO  DE  MEDIDAS  CAUTELARES.  AUSÊNCIA  DE  VINCULAÇÃO.  LIVRE  EXERCÍDIO  DO  PODER  DE  JURISDIÇÃO.  AGRAVO  DESPROVIDO.
+I  -  A  parte  que  se  considerar  agravada  por  decisão  de  relator,  à  exceção  do  indeferimento  de  liminar  em  procedimento  de  habeas  corpus  e  recurso  ordinário  em  habeas  corpus,  poderá  requerer,  dentro  de  cinco  dias,  a  apresentação  do  feito  em  mesa  relativo  à  matéria  penal  em  geral,  para  que  a  Corte  Especial,  a  Seção  ou  a  Turma  sobre  ela  se  pronuncie,  confirmando-a  ou  reformando-a.
+II  -  O  Ministério  Público  requereu  a  imposição  de  medidas  cautelares  ao  agravante  e  o  Juízo  de  primeiro  grau  determinou  sua  prisão  preventiva  por  julgar  insuficientes  as  medidas  cautelares  diversas  ante  o  histórico  criminal  do  paciente,  ressaltando  o  perigo  gerado  pelo  estado  de  liberdade  do  agravante,  que  ostenta  condenações  transitadas  em  julgado  pelos  crimes  de  tráfico  de  drogas  e  roubo.
+III  -  E  firme  o  entendimento  firmado  neste  Superior  Tribunal  de  Justiça  no  sentido  de  que  havendo  manifestação  do  Ministério  Público  pela  imposição  de  medidas  cautelares,  pode  o  magistrado  decretar  medida  diversa,  seja  ela  mais  branda  ou  mais  gravosa  sem  que  isso  configure  atuação  de  ofício.  Precedentes.  Agravo  regimental  desprovido  (AgRg  no  HC  n.  783.929/PR,  relator  Ministro  Messod  Azulay  Neto,  Quinta  Turma,  julgado  em  19/09/2023,  DJE  de  25/09/2023).
+Ante  o  exposto,  nego  provimento  ao  recurso  ordinário  em  habeas  corpus.
+Os  argumentos  apresentados  não  são  capazes  de  alterar  a  decisão  proferida  anteriormente.  Aliás,  é  importante  destacar que,
+  conforme  pacífica  jurisprudência  desta  Corte,  a  preservação  da  ordem  pública  justifica  a  imposição  da  prisão  preventiva  quando  o  agente  possuir  maus  antecedentes,  reincidência,  atos  infracionais  pretéritos,  inquéritos  ou  mesmo  ações  penais  em  curso,  porquanto  tais  circunstâncias  denotam  sua  contumácia  delitiva  e,  por  via  de  consequência,  sua  periculosidade  (HC  n.  682.732/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  23/11/2021,  DJe  de  26/11/2021).
+No mesmo sentido:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROCESSUAL  PENAL.  TRÁFICO  E  ASSOCIAÇÃO  PARA  O  TRÁFICO  DE  DROGAS.  PRISÃO  PREVENTIVA.  GRAVIDADE  CONCRETA  DA  CONDUTA.  FUNDADO  RISCO  DE  REITERAÇÃO  DELITIVA.  GARANTIA  DA  ORDEM  PÚBLICA.  FUNDAMENTAÇÃO  IDÔNEA.  MEDIDAS  CAUTELARES  ALTERNATIVAS.  INSUFICIÊNCIA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Hipótese  em  que  a  decretação  da  prisão  preventiva  está  suficientemente  fundamentada  para  a  garantia  da  ordem  pública,  destacando-se  a  gravidade  concreta  da  conduta  do  agravante,  que  foi  indicado  como  um  dos  responsáveis  pela  coordenação  da  associação  criminosa,  bem  como  o  fundado  risco  de  reiteração  delitiva  do  acusado .
+2.  A  jurisprudência  desta  Corte  é  no  sentido  de  que  a  preservação  da  ordem  pública  justifica  a  imposição  da  prisão  preventiva  quando  o  agente  possuir  maus  antecedentes,  reincidência,  atos  infracionais  pretéritos,  inquéritos  ou  mesmo  ações  penais  em  curso,  porquanto  tais  circunstâncias  denotam  sua  contumácia  delitiva  e,  por  via  de  consequência,  sua  periculosidade  (HC  n.  682.732/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  23/11/2021,  DJe  de  26/11/2021).
+3.  Tendo  sido  concretamente  demonstrada  a  necessidade  da  segregação  preventiva  do  acusado,  não  se  mostra  suficiente  a  aplicação  de  medidas  cautelares  mais  brandas,  nos  termos  do  art.  282,  inciso  II,  do  Código  de  Processo  Penal.
+4.  Agravo  regimental  não  provido. (AgRg  no  HC  n.  927.737/SC,  relator  Ministro  Otávio  de  Almeida  Toledo  (Desembargador  Convocado  do  TJSP),  Sexta  Turma,  julgado  em  30/9/2024,  DJe  de  4/10/2024)
+Dessa  forma,  na  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  por  seus  próprios  termos .
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  como  voto.
