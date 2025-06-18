@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos artigos 489, § 1º e 1022 do CPC/2015 e incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 149):
+AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IPERGS. DÉBITO A SER SATISFEITO POR PRECATÓRIO.
+OPOSIÇÃO DE EMBARGOS À EXECUÇÃO. HONORÁRIOS. FASE DE CUMPRIMENTO DE SENTENÇA. INTELIGÊNCIA DO ART. 85, § 7º, DO CPC. BASE DE CÁLCULO. PARCELA CONTROVERTIDA.
+1. Caso em que a pretensão da parte agravante diz com a fixação de honorários para fase de cumprimento de sentença, argumentando sobre a incidência do disposto pelo artigo 85, §7º, do CPC, com destaque à oposição de embargos à execução pelo IPERGS nos autos de origem.
+2. Entendimento do Superior Tribunal de Justiça que se firmou no sentido de que são devidos honorários advocatícios, nos cumprimentos de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor.
+Análise do caso concreto e de exame de questão análoga em juízo de retratação realizado por este Órgão Fracionário. Precedentes daquela Corte Superior e deste Tribunal de Justiça.
+3. Na linha do entendimento preconizado pelo STJ, é caso de se dar provimento ao agravo de instrumento, fixando-se honorários de sucumbência para a fase de cumprimento de sentença, que deverá incidir com base apenas no valor controvertido da execução.
+AGRAVO DE INSTRUMENTO PROVIDO, UNÂNIME.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 1.022, II, do Código de Processo Civil, argumentando que o acórdão do Tribunal de origem foi omisso ao não considerar a tese de que a base de cálculo dos honorários deve incidir sobre o valor total executado, e não apenas sobre o valor controvertido.
+No mérito, o recorrente alega, além de divergência jurisprudencial, violação do art. 85, § 7º, do Código de Processo Civil/2015, ao argumento de que: a) "para a fixação dos honorários executivos postulados (Art. 85, §7º, do CPC/2015), independe o resultado da Impugnação/Embargos à Execução, consequentemente não há que falar em exclusão de eventual parcela incontroversa da base de cálculo, não se tratando de honorários decorrentes do êxito da impugnação e sim honorários executivos" (fl. 238) e b) "a base de cálculo da verba pleiteada é o valor total executado mediante precatório, tratando-se de honorários de execução" (fl. 248).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No tocante à tese de vulneração ao artigo 85, 7º do CPC/2015, ao argumento de que a base de cálculo do percentual dos honorários advocatícios deveria ser definida seguindo-se o valor total da condenação ou proveito econômico, haja vista a oposição dos embargos à execução/impugnação, a Corte de Origem assim se posicionou (fls. 134-147, grifei):
+Os recorrentes postulam, como visto, a fixação de honorários advocatícios executivos, na forma do art. 85, §7º, do CPC, haja vista o IPERGS ter oposto embargos à execução.
+Todavia, nos limites da pretensão vertida no presente agravo de instrumento, tal providência afigura-se irrelevante, uma vez que incontroversa a notícia de sua propositura, tanto que deu azo à determinação do desentranhamento de sua inicial e correspondente distribuição (evento 3, PROCJUDIC5 -  . 199), havendo, igualmente, referência ao seu trânsito em julgado (13.02.2012 -  . 408 dos autos de origem - evento 3, PROCJUDIC10)
+Posto isso, consigno encaminhar voto no sentido de dar provimento ao agravo de instrumento.
+O título executivo foi constituído por ocasião do ajuizamento de ação dita declaratória cumulada com cobrança de valores (evento 3, PROCJUDIC1). Os pedidos foram julgados procedentes, havendo a confirmação da sentença por esta Corte, com o trânsito em julgado em 28.07.2002 (evento 3, PROCJUDIC2, e evento 3, PROCJUDIC3, fls. 58-65 e 122 dos autos físicos)
+Em sequência, foi apresentada a inicial executiva (evento 3, PROCJUDIC4), ao que, citada, apresentou embargos à execução, recebidos como impugnação ao cálculo, havendo determinação de desentranhamento (evento 3, PROCJUDIC5 -  . 199). Opostas novas impugnações (evento 3, PROCJUDIC8,  s. 323/324, e evento 3, PROCJUDIC9, 351-356), foram desacolhidas ( s. 357/358), o que restou mantido em sede de embargos de declaração ( . 368), e, posteriormente, por ocasião do desprovimento de agravo de instrumento ( s. 387-389), o que deu azo à expedição do precatório, de modo que, posteriormente, houve o indeferimento do pedido de fixação de honorários para a fase de cumprimento de sentença (evento 32, DESPADEC1)
+ ..
+Assim, considerando que o ente estadual apresentou impugnação ao cumprimento de sentença, consoante o entendimento do e. STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC quando a execução não tiver sido impugnada e seu pagamento ocorrer por precatório, oferecida resistência à execução da sentença, são devidos os honorários advocatícios, conforme art. 85, §7º, do CPC e artigo 1º, alínea "d", da Lei n. 9.494/97, alterado pela Medida Provisória nº 2.180-35.
+Tratando-se a hipótese dos autos de cumprimento de sentença impugnado pelo devedor, devem ser fixados honorários advocatícios, a serem arbitrados pelo juízo da execução, pois tem, a parte recorrente, direito à fixação da verba honorária, em sede de cumprimento de sentença, em favor do seu patrono, merecendo reforma a decisão recorrida.
+Não obstante, tenho por esclarecer que base de cálculo sobre a qual incidirá deve corresponder ao valor controvertido (alegado e discutido excesso), excluída a porção incontroversa.
+Tal posicionamento visa a coibir que credores criem excessos de execução de forma intencional para fazer com que a Fazenda Pública se obrigue à apresentação de impugnação, fins de ensejar honorários sobre todo o valor executado.
+Por oportuno, colaciono precedentes:
+ ..
+Ante o exposto, voto por DAR PROVIMENTO AO AGRAVO DE INSTRUMENTO fim de determinar que o juízo a quo fixe a verba honorária com relação ao próprio cumprimento de sentença, que deverão incidir apenas sobre o valor controvertido.
+Assim, o acórdão recorrido encontra-se em consonância com o entendimento firmado no âmbito desta Corte em relação à necessidade de condenação em honorários advocatícios em razão da impugnação havida, em aplicação ao art. 85, § 7º, do CPC/2015.
+É entendimento desta Corte Superior que, sendo cabível a fixação de honorários advocatícios em cumprimento de sentença contra a Fazenda Pública, a base de cálculos deve ser a parcela controversa do crédito.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do Código de Processo Civil (CPC), é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.978.491/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/12/2023, DJe de 23/1/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO APRESENTADA PELA FAZENDA. HONORÁRIOS ADVOCATÍCIOS. § 7º DO ART. 85 DO CPC/2015. BASE DE CÁLCULO: PARCELA CONTROVERTIDA.
+1. O recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que os exequentes, ora agravantes, insurgem-se contra a base de cálculo dos honorários, pugnando pela adoção do valor total do cumprimento de sentença, e não sobre o valor do excesso apresentado na impugnação.
+3. Esta Corte tem reiteradamente decidido no sentido de que, nos termos do § 7º do art. 85 do CPC/2015, oferecida resistência à Execução da Sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade, devendo ser observados, contudo, não com base no valor total da execução, mas apenas sobre eventual parcela incontroversa do crédito. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.031.110/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES.
+1. Segundo a jurisprudência do STJ, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de cumprimento de sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.071.016/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Por tudo, a decisão de origem está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. IPERG. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. FIXAÇÃO SOBRE A PARCELA CONTROVERTIDA. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
