@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ALEGAÇÃO DE INAPLICABILIDADE DO ART. 1º DO DECRETO N. 20.910/1932. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+1. Não comporta revisão, em recurso especial, as conclusões fáticas firmadas pelo tribunal de origem à luz do acervo fático-probatório dos autos, em razão do óbice da Súmula 7 do STJ.
+2. A reversão das conclusões do Tribunal de origem ensejaria a necessária interpretação da legislação local considerada na origem, o que é inviável na estreita via do recurso especial, nos termos da Súmula 280 do STF, por analogia.
+3. Não atende à exigência contida nos arts. 1.029, § 1º, do CPC; e 255, § 1º, do RISTJ a alegação de divergência jurisprudencial desprovida do efetivo cotejo analítico e da demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+4. Agravo interno improvido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por RICARTE DOS REIS ARAUJO SOUSA contra  a  decisão  que  conheceu do agravo para não conhecer do recurso especial, em razão da aplicação das Súmulas 7 do STJ; e 280 do STF, por analogia, e por prejudicado o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Argumenta  a  parte agravante,  em  síntese,  que "a ausência de óbice à apreciação do Recurso Especial restou devidamente demonstrada" (fl. 413). Alega que a "controvérsia é eminentemente jurídica e versa sobre a correta interpretação do art. 1º do Decreto nº 20.910/1932, no tocante à prescrição de fundo de direito" (fl. 415), sendo desnecessária a interpretação de lei estadual. Justifica que "não há qualquer impedimento para a admissibilidade do recurso com base na alínea "c" "(fl. 417).
+Esclarece que visa à "concessão da promoção em ressarcimento por preterição em decorrência de omissão administrativa, levando em consideração a ausência de negativa expressa da Administração Pública Estadual" (fl. 417). Aponta que as teses do IRDR n. 0801095- 52.2018.8.10.0000 não se aplicam ao caso, mas sim o entendimento sedimentado no julgado paradigma (AgInt AREsp n. 2119054/AL). Defende a "fixação da data da ciência inequívoca do ato danoso como marco inicial do prazo prescricional (teoria da actio nata)" (fl. 424). Assim, sustenta a inaplicabilidade do art. 1º do Decreto n. 20.910/1932, justificando que a relação existente é de trato sucessivo.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso (fls. 436-442).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ALEGAÇÃO DE INAPLICABILIDADE DO ART. 1º DO DECRETO N. 20.910/1932. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+1. Não comporta revisão, em recurso especial, as conclusões fáticas firmadas pelo tribunal de origem à luz do acervo fático-probatório dos autos, em razão do óbice da Súmula 7 do STJ.
+2. A reversão das conclusões do Tribunal de origem ensejaria a necessária interpretação da legislação local considerada na origem, o que é inviável na estreita via do recurso especial, nos termos da Súmula 280 do STF, por analogia.
+3. Não atende à exigência contida nos arts. 1.029, § 1º, do CPC; e 255, § 1º, do RISTJ a alegação de divergência jurisprudencial desprovida do efetivo cotejo analítico e da demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+4. Agravo interno improvido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+O acórdão combatido restou assim ementado (fls. 276-277):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PROMOÇÃO EM RESSARCIMENTO POR PRETERIÇÃO. INCIDÊNCIA DA TESE DO IRDR nº 0801095-52.2018.8.10.0000. PRESCRIÇÃO CONFIGURADA.
+I - Deve ser reconhecida a prescrição de fundo de direito, pois ultrapassado o prazo de 05 (cinco) anos do ato impugnado.
+II - A pretensão de se revisar ato de promoção, no curso da carreira militar, prescreve em cinco anos, nos termos do que dispõe o art. 1º do Decreto n. 20.910/32, ocorrendo assim a chamada prescrição do fundo de direito". Precedentes: STJ, AgRg nos EDcl no AREsp 250265/PR, Rel. Min. Humberto Martins, DJe 19/2/2013; STJ, REsp 1758206/MA, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 06/09/2018, DJe 27/11/2018.
+III - A irresignação não merece acolhimento, tendo em vista que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados.
+E ainda, a Corte de origem assim se manifestou (fls. 278-279):
+De início, ressalto que é defeso ao Magistrado limitar-se à reprodução dos fundamentos da decisão agravada para negar provimento ao agravo interno, cabendo ao agravante impugnar especificadamente os fundamentos do julgado, de acordo com o artigo 1.021, §§ 3º e 1º, do CPC.
+Contudo, constato que a parte agravante não conseguiu lançar mão de argumentos capazes de alterar as conclusões da decisão recorrida na maioria de seus termos, razão pela qual a mantenho.
+ ..
+Assim, tem-se que o agravante descumpriu a regra do § 1º do artigo 1.021 do CPC, autorizando a manutenção da decisão agravada pelos seus próprios fundamentos, pois a motivação nela contida é suficiente para contrapor as teses suscitadas no recurso em testilha, o que não viola § 3º do artigo 1.021 do CPC, conforme se repisa adiante:
+Diante desse cenário, para reverter as conclusões adotadas pela Corte de origem, inarredável a incidência da Súmula 7 deste STJ, uma vez que para se chegar a conclusão outra da que chegou o acórdão recorrido, como requer o agravante, seria necessário o revolvimento do acervo fático-probatório dos autos, o que é vedado na estreita via do recurso especial
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO A SÓCIO-GERENTE APÓS CINCO ANOS DA CITAÇÃO DA PESSOA JURÍDICA. DISSOLUÇÃO IRREGULAR POSTERIOR. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA DE PRESCRIÇÃO. CONFORMIDADE COM TESE FIRMADA EM PRECEDENTE QUALIFICADO. REVISÃO. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Primeira Seção deste Tribunal Superior, no REsp 1.201.993/SP, repetitivo, definiu tese segundo a qual o prazo de 5 anos para o redirecionamento da execução fiscal ao sócio-gerente deve ser contado da citação da pessoa jurídica devedora, na hipótese em que o ato ilícito do art. 135, inc. III, do CTN for precedente a esse ato processual; todavia, se o ato ilícito for posterior à citação, o prazo prescricional se inicia a partir da "data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário" (tema 444).
+3. No caso dos autos, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois o delineamento fático descrito pelo órgão julgador não permite aferir a ocorrência da prescrição para o redirecionamento e, por isso, seria necessário o reexame fáticoprobatório para eventual alteração do acórdão recorrido.
+4. Agravo interno não provido (AgInt no AREsp n. 2.693.649/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/2/2025, DJEN de 21/2/2025, grifo nosso).
+Além disso, inviável a apreciação da pretensão recursal por esta Corte Superior, pois, mesmo que sustentada com base em suposta violação à legislação federal, demandaria, necessariamente, a interpretação da legislação local considerada, o que é vedado na estreita via do recurso especial, nos termos da Súmula 280 do STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO DE CRÉDITO. POSSIBILIDADE. DECISÃO FUNDAMENTADA EM LEI LOCAL. SÚMULA 280.
+ ..
+2. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Estadual 10.298/1994, Decreto Estadual 54.454/2018 e Resolução 151/2019). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF.
+3. A decisão impugnada encontra-se em conformidade com a jurisprudência do STJ de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público do ente público, de modo a permitir, nessa hipótese, a compensação da verba honorária devida ao ente público com o montante a que o credor tem direito de receber do Estado, via precatório.
+4. Agravo Interno não provido (AgInt no AREsp n. 2.330.769/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/10/2023, DJe de 18/12/2023, grifo nosso).
+Com efeito, os óbices que impedem a análise do recurso pela alínea a prejudicam o exame do alegado dissídio jurisprudencial. Vale registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 1.029, § 1º, do CPC; e do art. 255, § 1º, do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Nessa linha de compreensão:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. EFEITOS EX NUNC. HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu de recurso especial.
+II. Questão em discussão
+2. Consiste em analisar se a concessão de justiça gratuita em sede de apelação possui efeitos retroativos, alcançando honorários advocatícios fixados em sentença anterior.
+III. Razões de decidir
+3. Segundo a jurisprudência desta Corte, ""o pleito de gratuidade de justiça pode ser requerido a qualquer tempo, desde que a ação esteja em curso. Contudo, sua concessão não possui efeito retroativo para o fim de suspender a exigibilidade de eventuais honorários arbitrados anteriormente ao requerimento do benefício" (AgInt na ExeMS 12.614/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/11/2020, DJe 27/11/2020)" (AgInt nos EDcl nos EDcl na Rcl n. 24.115/MA, de minha relatoria, Segunda Seção, julgado em 20/4/2021, DJe de 26/4/2021). Incidência da Súmula n. 83/STJ.
+4. A ausência de prequestionamento das alegações impede o conhecimento das insurgências, conforme as Súmulas n. 282 e 356 do STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A concessão de justiça gratuita não possui efeitos retroativos, não alcançando honorários advocatícios fixados antes do deferimento do benefício."
+Dispositivos relevantes citados: CPC/2015, art. 98.
+Jurisprudência relevante citada: STJ, AgRg nos EREsp n. 1.502.212/SC, Rel. Min. Raul Araújo, Corte Especial, julgado em 11/6/2019; STJ, AgInt nos EDcl nos EDcl na Rcl n. 24.115/MA, de minha relatoria, Segunda Seção, julgado em 20/4/2021; STJ, AgInt no AgInt no AREsp n. 2.422.521/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024 (AgInt no REsp n. 2.161.303/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025, grifo nosso).
+Isso posto, nego provimento ao agravo interno.
