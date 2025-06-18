@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARC MINERAÇÃO INDÚSTRIA E COMÉRCIO LTDA contra decisão que não conheceu de recurso especial em que discute a espécie recursal adequada à impugnação de decisão que, em razão da ausência de trânsito em julgado final da sentença proferida em mandado de segurança coletivo, julga improcedente o pedido veiculado na ação de repetição de indébito.
+A parte embargante alega, em síntese (fls. 243/258):
+As razões de decidir adotadas pelo Juízo a quo não seguem o previsto nos artigos 485 e 487 do Código de Processo Civil, muito menos põe fim à fase de cognição do procedimento comum ou da execução (artigo 203, § 1º do Código de Processo Civil), revelando a natureza de decisão interlocutória, incapaz de colocar fim ao processo. Logo, ante a relevância dos Recursos Especiais nºs. 1.778.237/RS e 2.092.982/RS, resta evidente a omissão contida no acórdão ora embargado e que carece de saneamento  ..  outra omissão contida na decisão ora embargada que incorre em inegável mácula à lide, repousa no fato de que não teria ocorrido o devido prequestionamento por parte da Embargante, o que não guarda relação com a realidade processual  ..  além das questões preliminares que foram omitidas na decisão embargada, há que se ressaltar que também não houve a devida apreciação acerca da possibilidade de trânsito parcial da sentença.
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, com atenção ao histórico processual e aos teores do acórdão embargado e das razões do especial, foi consignado na decisão embargada:
+Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado. No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+De outro lado, o teor do acórdão recorrido revela as súmulas 211 do STJ e 282 do STF como óbices ao conhecimento do especial, pois o órgão julgador se limitou à apreciação da questão relacionada ao cabimento do recurso de agravo de instrumento e, por isso, não houve o prequestionamento dos arts. 7º, 356, 371, 926, 927, 932, 1.002, 1.025 e 1.054 do Código de Processo Civil - CPC/2015 nem o art. 165 do Código Tributário Nacional - CTN.
+Com relação à espécie recursal adequada à impugnação da sentença de improcedência do pedido de repetição de indébito, em razão de dar fim ao processo, o recurso cabível é a apelação; portanto, o acórdão recorrido está em conformidade com a lei processual civil (arts. 203, 485, 487 e 1.009 do CPC/2015), como tem afirmado este Tribunal Superior.
+No contexto, portanto, não há vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
