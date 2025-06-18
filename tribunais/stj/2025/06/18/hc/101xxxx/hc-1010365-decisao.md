@@ -1,0 +1,16 @@
+DECISÃO
+FABIANO QUERINO DE LIMA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Na peça, a defesa informa que o paciente preenche os requisitos legais para a concessão do benefício do livramento condicional. Aduz que, atualmente, ele tem bom comportamento carcerário, conforme atestado, e que as faltas disciplinares graves e médias praticadas durante a execução penal já foram reabilitadas.
+Sustenta que o reeducando exerce atividade laborativa e demonstra aptidão para trabalho honesto e produtivo, o que comprova sua capacidade de prover a própria subsistência.
+Requer o deferimento do livramento condicional ao paciente, ou subsidiariamente, a realização de exame criminológico para reapreciação do pedido.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com base na jurisprudência sobre o tema e em precedente vinculante.
+A prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional, impede a concessão do benefício por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exigia o art. 83, inciso III, do Código Penal.
+Mesmo antes das inovações da legislação, prevalecia nesta Corte o entendimento de que o bom comportamento estava relacionado a todo o período de resgate da pena. Confira-se: "o citado dispositivo legal não determina um período específico de aferição do requisito subjetivo, de modo que o bom comportamento carcerário deve ser analisado em todo o tempo de execução da pena" (REsp n. 1.744.684/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/8/2018, DJe de 24/8/2018).
+Mesmo após a vigência da Lei n. 13.964/2019, prevalece a mesma compreensão, conforme a tese jurídica fixada no Tema Repetitivo n. 1.161, uma vez que "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+No caso em exame, o Juiz da VEC, de forma fundamentada, indeferiu a passagem direta do apenado do regime fechado ao livramento condicional, por falta de requisito subjetivo, em razão de histórico carcerário conturbado. Não há ilegalidade ou abuso de poder no ato judicial, pois o requisito subjetivo do benefício não foi implementado.
+Dessa forma, apesar das alegações defensiva, a exigência de "comportamento satisfatório" durante a execução da pena, conforme a redação anterior do art. 83 do CP, é proporcional à extensão do benefício, que não demanda que o apenado haja cumprido pena nos regimes semiaberto ou aberto.
+Seria inconsistente permitir que um reeducando do regime fechado, com histórico de mau comportamento, obtenha a antecipação de liberdade quando nem sequer preenche os requisitos para ser transferido aos regimes semiaberto e aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
