@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido liminar, impetrado em favor de JOSÉ CARLOS DUARTE, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 8-9):
+Apelação. Crimes de furto qualificado, e de fraude para recebimento de indenização ou valor de seguro. Recurso de JOSÉ CARLOS. Absolvição por fragilidade probatória. Não cabimento. Autoria e materialidade demonstradas. Atenuação das penas. Não cabimento. Fixação de regime mais brando. Não cabimento. Substituição da pena privativa de liberdade por penas restritivas de direitos. Não cabimento. Recurso de TIAGO. Absolvição por fragilidade probatória. Não cabimento. Autoria e materialidade demonstradas. Desclassificação para o crime de favorecimento real. Não cabimento. Atenuação das penas. Não cabimento. Fixação de regime mais brando. Não cabimento. Substituição da pena privativa de liberdade por penas restritivas de direitos. Não cabimento. Não provimento aos recursos.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 155, § 4º, IV, e 171, § 2º, V, ambos do Código Penal, em concurso material, às pena de 3 anos e 4 meses de reclusão em regime inicial semiaberto, e 11 dias-multa. O Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa do paciente, mantendo a condenação e o regime inicial semiaberto (fls. 7-22).
+No presente writ, o impetrante sustenta que o paciente é primário e possui bons antecedentes, o que justificaria a fixação do regime inicial aberto, conforme entendimento jurisprudencial prevalente.
+Argumenta que a fundamentação utilizada para a fixação do regime semiaberto, baseada na gravidade abstrata do delito e no valor da mercadoria furtada, é insuficiente e não atende aos requisitos do artigo 33, § 2º, do Código Penal e que não foram consideradas as circunstâncias pessoais favoráveis do paciente, conforme a Súmula 440/STJ.
+Requer, inclusive liminarmente, a concessão da ordem de para que seja fixado o regime inicial aberto para o cumprimento da pena.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não conhecimento ou denegação da ordem.
+É o relatório.
+DECIDO.
+Compulsando os presentes autos, verifica-se que, após proferida a sentença condenatória e julgado o recurso de apelação, sobreveio o trânsito em julgado da condenação em 8/2/2024 (fl. 103), tendo o presente writ sido impetrado posteriormente, em 26/5/2025 (fl. 1), sendo, pois, substitutivo de revisão criminal.
+Nos termos da jurisprudência desta Corte, "" n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Nesse contexto, o egrégio Superio r Tribunal de Justiça - STJ não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do writ.
+Publique-se.
+Intimem-se.
+EMENTA
