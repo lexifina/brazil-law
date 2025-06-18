@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SAMAMBAIA (DF) e o JUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÕES DE CONSUMO, CÍVEIS E COMERCIAIS DE BARREIRAS (BA), para definir o órgão competente para processar e julgar a ação de regresso ajuizada por APROVAUTO - ASSOCIAÇÃO BRASILEIRA DE BENEFÍCIOS em desfavor de JUAREZ FERNANDO LOPES DA SILVA, objetivando a reparação de danos materiais no valor de R$ 80.096,00, decorrentes de acidente de trânsito.
+O JUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÕES DE CONSUMO, CÍVEIS E COMERCIAIS DE BARREIRAS (BA), no qual a ação foi proposta, declinou da competência, determinando a remessa dos autos à Comarca de Samambaia (DF), por entender que, por ser ação fundada em direito real sobre bens móveis, deveria ser proposta no foro de domicílio do réu (fls. 73-74), onde foram redistribuídos ao JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SAMAMBAIA (DF), que, por sua vez, suscitou o presente conflito ao fundamento de que a presente ação não é vinculada à relação de consumo, mas ao direito de regresso por dano sofrido pela autora, havendo fundamento para a adoção de seu domicílio, nos termos do art. 53, V, do CPC (fls. 80-82).
+O Ministério Público Federal absteve-se de apreciar o conflito por entender desnecessária sua intervenção (fls. 93-95).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+É cediço que a competência territorial é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juízo onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ já está pacificada no sentido de reconhecer que, tratando-se de hipótese de competência relativa, o art. 43 do mesmo diploma legal institui, com a finalidade de proteger as partes, regra da estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificaçõ es de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Nesse sentido, entre tantas, vejam-se as seguintes decisões: CC n. 150.490/SP, relator Ministro Marco Aurélio Bellizze, DJe de 20/11/2017; CC n. 152.573/PR, relatora Ministra Maria Isabel Gallotti, DJe de 21/11/2017.
+No caso, verifica-se, conforme qualificação na petição inicial (fl. 6), que o foro escolhido (Barreiras) pela autora é o local onde possui domicílio.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÕES DE CONSUMO, CÍVEIS E COMERCIAIS DE BARREIRAS (BA), o suscitado.
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
