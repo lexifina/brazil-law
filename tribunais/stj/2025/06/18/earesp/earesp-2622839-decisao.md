@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de divergência oposto por DUMANGUE CAMISARIA LTDA contra acórdão da Primeira Turma, relatado pelo Ministro Sérgio Kukina, e ementado nestes termos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERRUPÇÃO DO EXPEDIENTE NA CORTE DE ORIGEM. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE.
+1. De acordo com a redação original do art. 1.003, § 6º, do CPC, vigente à época em que foi praticado o ato processual em testilha, o recorrente deveria comprovar "a ocorrência de feriado local no ato de interposição do recurso", razão pela qual, em regra, não era possível essa demonstração em momento posterior à interposição do recurso, em virtude da preclusão consumativa.
+2. Conquanto a Corte Especial do Superior Tribunal de Justiça, ao apreciar os EAREsp n. 1.927.268/RJ, tenha admitido como documento idôneo à comprovação de tempestividade recursal de cópia de calendário oficial, em que detalhados os feriados locais observados pelo Poder Judiciário estadual, disponibilizado pelo Tribunal de origem na internet, tal comprovação deveria ser feita no momento da interposição do recurso.
+3. Caso em que a parte agravante não colacionou aos autos, por ocasião da interposição do recurso especial, documento comprobatório da inexistência de expediente na Corte estadual.
+4. Agravo interno não provido.
+Os embargos de declaração foram rejeitados (fls. 469-477).
+Alega a parte embargante dissídio jurisprudencial, apontando como paradigmas os julgados no AgInt nos EDcl no REsp n. 1.848.855/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023; e EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.
+Os embargos de divergência foram, inicialmente, distribuídos no âmbito da Corte Especial, para o eminente Ministro Antonio Carlos Ferreira, que prolatou a decisão de fls. 531-534 para indeferir liminarmente o recurso, integrada pela a que rejeitou os embargos de declaração (fls. 557-558).
+Ato contínuo, foram os autos a mim redistribuídos no âmbito da Primeira Seção (fl. 569), para análise da alegada divergência em relação ao paradigma remanescente (AgInt nos EDcl no REsp n. 1.848.855/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023).
+É o que importa relatar.
+Decido.
+Não há como conhecer da insurgência, na medida em que a parte embargante indicou acórdão paradigma da Primeira Turma, a mesma que prolatou o acórdão embargado, o que só seria admissível, consoante o § 3º do art. 1.043 do Código de Processo Civil, caso houvesse alteração na sua composição em mais da metade de seus membros, hipótese inocorrente no caso.
+Nesse sentido, ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃOS EMBARGADO E PARADIGMA ORIUNDOS DA MESMA TURMA JULGADORA. INVIABILIDADE. AUSÊNCIA DE ALTERAÇÃO DA COMPOSIÇÃO DO ÓRGÃO JULGADOR DO ACÓRDÃO PARADIGMA EM MAIS DA METADE DOS SEUS MEMBROS. ART. 1.043, § 3º, DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que indeferira liminarmente Embargos de Divergência opostos contra acórdão publicado na vigência do CPC/2015.
+II. Nos termos do art. 1.043, § 3º, do CPC/2015, "cabem embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros".
+III. No caso, tanto o acórdão indicado como paradigma, como o aresto embargado, são oriundos da Primeira Turma do STJ. No entanto, não houve alteração da composição do órgão julgador (Primeira Turma) em mais da metade de seus membros, pois quatro dos cinco Ministros da Primeira Turma proferiram votos, nos acórdãos embargado e paradigma, de modo que incabíveis os presentes Embargos de Divergência. Nesse sentido: STJ, AgInt nos EREsp 1.300.030/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe de 30/10/2019; AgRg nos EAREsp 1.437.412/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe de 02/09/2019; AgInt nos EDcl nos EREsp 1.631.121/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 17/12/2018; AgInt nos EAREsp 804.657/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 15/12/2017.
+IV. Agravo interno improvido.
+(AgInt nos EAREsp n. 2.087.248/PA, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 15/8/2023, DJe de 21/8/2023.)
+Ante o exposto, INDEFIRO LIMINARMENTE os embargos de divergência, também em relação ao paradigma que ensejaria a competência da Primeira Seção.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃOS EMBARGADO E PARADIGMA ORIUNDOS DA MESMA TURMA JULGADORA. INVIABILIDADE. AUSÊNCIA DE ALTERAÇÃO DA COMPOSIÇÃO DO ÓRGÃO JULGADOR DO ACÓRDÃO PARADIGMA EM MAIS DA METADE DOS SEUS MEMBROS. ART. 1.043, § 3º, DO CPC/2015. PRECEDENTES. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS.
