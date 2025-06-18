@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJDFT, assim ementado (fls. 354):
+APELAÇÃO E AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. QUERELA . CUMPRIMENTO DE SENTENÇA. IMPROBIDADENULLITATIS INSANABILIS ADMINISTRATIVA. ÓBITO DA PARTE RÉ. NULIDADE RELATIVA. EXISTÊNCIA DE DEFESA TÉCNICA CONSTITUÍDA NOS AUTOS. AUSÊNCIA DE PREJUÍZO EFETIVO. TRANSMISSIBILIDADE DA OBRIGAÇÃO. 1. Consoante o entendimento firme do colendo Superior Tribunal de Justiça, a ausência de suspensão do processo para a habilitação dos herdeiros da parte falecida configura nulidade relativa, cuja declaração pressupõe demonstração do prejuízo efetivo.
+2. Se os interesses da parte falecida continuaram sendo defendidos pela banca advocatícia que contratara em vida, a qual inclusive patrocinava outro dos réus, não se verifica efetivo prejuízo à defesa. Não se pode equiparar a pouca quantidade de atos processuais praticados com o abandono da defesa técnica, até porque a interposição de recurso se submete ao princípio da voluntariedade.
+3. Existindo defesa técnica constituída nos autos, a só demora na comunicação nos autos quanto ao óbito da parte, por omissão imputável à própria herdeira, não resulta no reconhecimento de nulidade processual a seu favor, sendo indiferente que supostamente não tenha tomado conhecimento da ação de improbidade administrativa até recentemente
+4. Adjudicada a integralidade da herança deixada pelo réu falecido em favor da viúva, o seu patrimônio atual responde pelo débito, nos limites das forças da herança, consoante o art. 8º, da Lei de Improbidade Administrativa.
+5. Julgado o apelo, resta prejudicado o agravo interno, pelo qual se pretendia a antecipação da tutela recursal
+6. Apelo não provido. Agravo interno prejudicado.
+Embargos de declaração rejeitados.
+O recorrente sustenta violação dos artigos 313, I, 314 e 689 do CPC/2015, ao argumento de que teria havido cerceamento de defesa, com efetivo prejuízo, uma vez que, com o falecimento da parte, deveria ter havido a comunicação dos herdeiros para que o sucedessem, o que não teria ocorrido. Além disso, alega que a defesa anterior não teria apresentado recursos da condenação sofrida pelo falecido, que restou sem uma defesa efetiva.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 512-513.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão não merece prosperar.
+No que diz respeito à alegação de ofensa aos artigos 313, I, 314 e 689 do CPC/2015, o acórdão recorrido consignou o seguinte (fls. 356-358):
+ ..  No caso, é certo que, a despeito da morte de Arino Oton, seus interesses continuaram sob a defesa da banca de advogados constituída por ele em vida, que, inclusive, também representava outro dos réus (ID nº 85193587, págs. 61-63). Em que pese o esforço argumentativo da apelante, não se pode equiparar o reduzido número de atos processuais praticados pelos causídicos com ausência de defesa efetiva, haja vista que houve regular intimação quanto aos atos do processo, como se vê, por exemplo, da certidão de publicação do acórdão que, reformando a sentença de improcedência, impôs a condenação sob exame (ID nº 85193592), dentre outras publicações oficiais.
+ ..
+Portanto, existindo defesa técnica constituída nos autos, como de fato havia, a só demora na comunicação nos autos quanto ao óbito da parte, por omissão imputável à própria herdeira, não resulta no reconhecimento de nulidade processual a seu favor, sendo indiferente que supostamente não tenha tomado conhecimento da ação de improbidade administrativa até recentemente.
+No mais, é certo que a obrigação de reparar o dano causado ao erário se transmite aos herdeiros, de sorte que, adjudicada a integralidade da herança em favor da apelante, o seu patrimônio atual responde pelo débito, nos limites das forças da herança, consoante o art. 8º, da Lei de Improbidade Administrativa.
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. QUERELA NULLITATIS INSANABILIS. CUMPRIMENTO DE SENTENÇA. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
