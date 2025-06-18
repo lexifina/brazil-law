@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1º DA LEI Nº 12.016/09. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. PRESENÇA. INFIRMAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A jurisprudência desta Corte firmou-se no sentido de que a análise da alegação de contrariedade ao art. 1º da Lei 12.016/2009 (..), a fim de aferir a existência de direito líquido e certo, necessário à concessão da segurança, demanda exceder os fundamentos colacionados no acórdão guerreado, com a incursão no conteúdo fático-probatório dos autos, o que implica, necessariamente, o reexame de fatos e provas, insuscetível de ser realizado em sede de Recurso Especial, ante o óbice da Súmula 7/STJ". (REsp n. 1.911.950/SP, rel. Min. Assusete Magalhães, Segunda Turma, DJe de 15/3/2022)
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO AMAPÁ, contra decisão monocrática, de minha lavra, que conheceu do agravo para não conhecer do recurso especial. Eis a ementa do julgado (fl. 476):
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1º DA LEI 12.016/2009. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INFIRMAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Sustenta o recorrente, em seu agravo interno às fls. 484-488, a não aplicabilidade do enunciado 7 da Súmula do STJ à espécie, na medida em que, a seu ver, "a matéria discutida é exclusivamente de direito e versa sobre interpretação de lei".
+As contrarrazões não foram apresentadas (fl. 493).
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1º DA LEI Nº 12.016/09. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. PRESENÇA. INFIRMAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A jurisprudência desta Corte firmou-se no sentido de que a análise da alegação de contrariedade ao art. 1º da Lei 12.016/2009 (..), a fim de aferir a existência de direito líquido e certo, necessário à concessão da segurança, demanda exceder os fundamentos colacionados no acórdão guerreado, com a incursão no conteúdo fático-probatório dos autos, o que implica, necessariamente, o reexame de fatos e provas, insuscetível de ser realizado em sede de Recurso Especial, ante o óbice da Súmula 7/STJ". (REsp n. 1.911.950/SP, rel. Min. Assusete Magalhães, Segunda Turma, DJe de 15/3/2022)
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, nos termos do constante na decisão monocrática, no que se refere à apontada violação ao artigo 1º da Lei nº 12.016/2009, ao argumento de que a segurança não poderia ter sido concedida, por ausência de direito líquido e certo da parte, tem-se que a Corte de origem, soberana na análise dos fatos e provas dos autos, concluiu que o mandado de segurança era a via adequada, não havendo se cogitar em ausência de direito líquido e certo, e nem em necessidade de dilação probatória. Pleitear seja adotado eventual entendimento em sentido contrário, implica em reexame de fatos e provas, o que é vedado pelo enunciado 7 da Súmula do STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial". De fato, "a jurisprudência desta Corte firmou-se no sentido de que a análise da alegação de contrariedade ao art. 1º da Lei 12.016/2009 (..), a fim de aferir a existência de direito líquido e certo, necessário à concessão da segurança, demanda exceder os fundamentos colacionados no acórdão guerreado, com a incursão no conteúdo fático-probatório dos autos, o que implica, necessariamente, o reexame de fatos e provas, insuscetível de ser realizado em sede de Recurso Especial, ante o óbice da Súmula 7/STJ". (REsp n. 1.911.950/SP, rel. Min. Assusete Magalhães, Segunda Turma, DJe de 15/3/2022) A título de exemplo:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INFIRMAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Segundo a orientação do STJ, "examinar a presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte" (AgInt no REsp 1.810.370/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2019, DJe 23/10/2019).
+2. Na espécie, alterar a conclusão do acórdão recorrido, no sentido de que "a impetrante não fez qualquer prova de que as mercadorias cujo valor pretende deduzir da base de cálculo do ISS foram produzidas por ela própria, fora do local da prestação dos serviços e submetidas ao recolhimento do ICMS", demandaria, necessariamente, reexame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, diante do obstáculo da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.800.752/SP, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 24/8/2023)
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. MANDADO DE SEGURANÇA. INTERESSE DE AGIR. AUSÊNCIA. PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+(..)
+3. A desconstituição do entendimento a que chegou o acórdão recorrido (que concluiu pela falta de interesse de agir em razão da ausência de comprovação do direito líquido e certo da parte impetrante) demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice contido na Súmula 7 do STJ (a pretensão de simples reexame de prova não enseja recurso especial).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.858.099/GO, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 1/7/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
