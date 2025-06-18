@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARAUJO E BRILHANTE INDUSTRIA E COMERCIO DE ROUPAS LTDA - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5 ª REGIÃO assim ementado (fls. 173/174):
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROGRAMA QUITAPGFN. PORTARIA PGFN Nº 8.798/2022. PAGAMENTO DE DÉBITOS DE SALDOS DE TRANSAÇÕES OU INSCRITOS EM DÍVIDA ATIVA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE CRÉDITOS DE PIS E DE COFINS. EXPRESSA PREVISÃO NORMATIVA DE PAGAMENTO DO MÍNIMO DE 30% VIA EMISSÃO DE DARF.
+1. A questão jurídica ora submetida à apreciação consiste em averiguar se é possível a quitação de percentual de débitos fiscais, através do programa QuitaPGFN, com créditos de PIS/COFINS.
+2. O programa em referência fora instituído pela Portaria PGFN n. 8.798/2022 com vistas a facilitar a regularização fiscal, em cenário transitório de crise econômico-financeira e da momentânea dificuldade de geração de recursos por parte do contribuinte.
+3. Com efeito, consta expressamente no art. 3º do referido diploma normativo que o pagamento dos saldos de acordos de transação ativos e em situação regular firmados até 31/10/2022, bem como as inscrições em dívida ativa da União até a data da publicação da portaria, deverão ocorrer mediante pagamento em de, no mínimo, 30% do saldo devedor e liquidação do restante com uso de créditos decorrentes deespécie prejuízo fiscal e base de cálculo negativa da CSLL apurados até 31 de dezembro de 2021.
+4. No caso da apelante, por se tratar de empresa em recuperação judicial, atribuem-se condições ainda mais vantajosas para o pagamento do percentual de 30%, com a possibilidade de parcelamento do montante em até 12 prestações mensais (art. 3º, §1º, "b").
+5. O ato normativo criador do QuitaPGFN, contudo, não dá margens para dúvidas de que o adimplemento da porcentagem prevista no art. 3º, I, dar-se-á mediante pagamento com emissão de Documento de Arrecadação de Receitas Federais (DARF), consoante preconiza o art. 7º, §1º c/c art. 12, §1º, ambos da Portaria PGFN n. 8.798/2022.
+6. A propósito, ao preencher o formulário de adesão ao QuitaPGFN, a impetrante expressamente confirmou ciência de que as prestações decorrentes do requerimento deverão ser pagas exclusivamente por DARF, ao anuir com o que consta no anexo I da Portaria PGFN n. 8798/2022.
+7. Infere-se, portanto, inexistir direito líquido e certo da ora recorrente ao aproveitamento de créditos de PIS/COFINS para o pagamento das parcelas do programa de regularização fiscal em destaque.
+8. Em verdade, se acaso fosse atendida a pretensão em apreço, restaria por violado o princípio da isonomia, eis que se beneficiaria individualmente a impetrante de medida não estendida aos demais contribuintes, em mesma situação, optantes do QuitaPGFN.
+9. Ademais, não é dado ao Poder Judiciário fazer as vezes de legislador positivo para modificar parâmetros normativos previamente definidos por órgão do Poder Executivo, sob pena de violação ao princípio da separação dos poderes.
+10. Determina-se a suspensão da exigibilidade do crédito tributário unicamente em relação ao pagamento da parcela de fevereiro/2023, com vencimento em 31/03/2023, cujo valor fora depositado judicialmente.
+11. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados (fl. 255):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. PRESSUPOSTOS. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO.
+1. Embargos de declaração opostos por Araújo e Brilhante Indústria e Comércio de Roupas Ltda. - em Recuperação Judicial contra acórdão desta Quinta Turma que negou provimento à apelação.
+2. O acórdão embargado tratou da questão ora reiterada no recurso, qual seja, os efeitos do depósito judicial correspondente à parcela de março/2023. Esta Quinta Turma se manifestou expressamente sobre o cerne da questão trazida à baila por ocasião da apreciação da Apelação guerreada, fundamentando que a suspensão da exigibilidade do crédito tributário seria devida unicamente ao pagamento da parcela de fevereiro/2023, com vencimento em 31.03.2023, cujo valor fora depositado judicialmente.
+3. Evidenciada com o recurso a tentativa de rediscussão de aspectos fático-jurídicos anteriormente debatidos, o que não é possível pela via dos aclaratórios, até porque estes não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual entendimento em sentido contrário ao pretendido pelo recorrente.
+4. Embargos de declaração desprovidos.
+A parte recorrente alega violação ao art. 1.022, II, do Código de Processo Civil (CPC), ao argumento de que o Tribunal de origem não se manifestou sobre os depósitos judiciais realizados (fls. 309/312).
+Requer o conhecimento e o provimento de seu recurso a fim de que seja decretada a nulidade do acórdão recorrido e determinado o retorno dos autos à Corte de origem para novo julgamento, ou, alternativamente, que seja autorizado o levantamento dos valores depositados em juízo.
+A parte adversa apresentou contrarrazões (fls. 321/325).
+O recurso foi admitido (fl. 328).
+É o relatório.
+O recurso especial não merece provimento.
+O recurso especial tem origem no mandado de segurança impetrado por ARAUJO E BRILHANTE INDUSTRIA E COMERCIO DE ROUPAS LTDA - EM RECUPERAÇÃO JUDICIAL objetivando a quitação do percentual dos débitos fiscais com créditos do Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS).
+O Tribunal de origem, ao julgar o recurso de apelação, destacou o seguinte quanto ao aproveitamento de créditos tributários para o pagamento das parcelas do programa de regularização fiscal QuitaPGFN (fls. 171/172, sem destaques no original):
+A propósito, ao preencher o formulário de adesão ao QuitaPGFN, a impetrante expressamente confirmou ciência de que as prestações decorrentes do requerimento deverão ser pagas exclusivamente por DARF, ao anuir com o que consta no anexo I da Portaria PGFN n. 8798/2022. Confira-se:
+ ..
+Infere-se, portanto, inexistir direito líquido e certo da ora recorrente ao aproveitamento de créditos de PIS/COFINS para o pagamento das parcelas do programa de regularização fiscal em destaque.
+Em verdade, se acaso fosse atendida a pretensão em apreço, restaria por violado o princípio da isonomia, eis que se beneficiaria individualmente a impetrante de medida não estendida aos demais contribuintes, em mesma situação, optantes do QuitaPGFN.
+Ademais, não é dado ao Poder Judiciário fazer as vezes de legislador positivo para modificar parâmetros normativos previamente definidos por órgão do Poder Executivo, sob pena de violação ao princípio da separação dos poderes. Ante a manutenção da sentença pelos próprios fundamentos, reputo prejudicado o pedido de atribuição do efeito ativo ao apelo.
+Para além disso, em atenção ao pedido constante na petição de ID. 4050000.37161429, determino a suspensão da exigibilidade do crédito tributário unicamente em relação ao pagamento da parcela de fevereiro/2023, com vencimento em 31/03/2023, cujo valor fora depositado judicialmente (vide ID. 4050000.37161431).
+Em suas razões de embargos de declaração, a parte recorrente asseverou que o Tribunal de origem não se manifestou quanto aos efeitos do depósito judicial correspondente à parcela de março/2023, conforme os documentos comprobatórios juntados aos autos.
+O Tribunal de origem rejeitou os embargos de declaração sob os seguintes fundamentos (fl. 253, sem destaques no original):
+Da análise dos autos, verifica-se que o acórdão embargado tratou da questão ora reiterada no recurso, qual seja, os efeitos do depósito judicial correspondente à parcela de março/2023. Esta Quinta Turma se manifestou expressamente sobre o cerne da questão trazida à baila por ocasião da apreciação da Apelação guerreada, fundamentando que a suspensão da exigibilidade do crédito tributário seria devida unicamente ao pagamento da parcela de fevereiro/2023, com vencimento em 31.03.2023, cujo valor fora depositado judicialmente.
+Com efeito, a alegação de omissão, além de não ter o condão de afastar a conclusão do acórdão, constitui mera tentativa de rediscussão de aspectos fático-jurídicos anteriormente debatidos, o que não é possível pela via dos aclaratórios, até porque estes não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual entendimento em sentido contrário ao pretendido pelo recorrente.
+Destarte, não se deve confundir acórdão omisso, obscuro ou contraditório com prestação jurisdicional contrária à tese de interesse do embargante, sendo evidente a pretensão de rediscussão da causa com tal intuito, finalidade para qual não se prestam os embargos de declaração.
+O Tribunal de origem enfrentou as questões que lhe foram postas à apreciação, tendo decidido acerca dos efeitos do depósito judicial correspondente à parcela de março/2023, não padecendo, portanto, o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AÇÃO ANULATÓRIA E EMBARGOS À EXECUÇÃO FISCAL. CONTINÊNCIA ENTRE AÇÕES. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+ ..
+5. Recurso especial a que se nega provimento.
+(REsp n. 1.885.140/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2025, DJEN de 28/4/2025.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
