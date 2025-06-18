@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por ADALBERTO JOSE LUIZ E OUTROS contra decisão de fls. 658-660 que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Os agravantes alegam que "o Tribunal de origem deixou de apreciar questões imprescindíveis para a solução da lide, as quais foram devidamente apontadas nos embargos de declaração" (fl. 671) arguindo que "a Corte de origem simplesmente desconsiderou que os créditos exigidos no presente cumprimento de sentença foram constituídos em anterior ação de conhecimento coletiva" (fl. 671).
+Argumentam que "o Tribunal de origem confundiu os institutos da prescrição intercorrente com a prescrição da pretensão executória" (fl. 671) e que "o acórdão recorrido foi proferido em sentido contrário ao entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Tema 877" (fl. 672).
+Sustentam que, "nas razões recursais, há inequívoca demonstração de violação ao entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Tema 877, cujo precedente é vinculante" (fl. 673).
+Em juízo de retratação, na forma dos artigos 1.021, § 2º, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada (fls. 658-660), tornando-a sem efeito.
+Analisa-se novamente as razões do recurso especial.
+Trata-se de recurso especial interposto por ADALBERTO JOSE LUIZ E OUTROS com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO (TRF2) assim ementado (fl. 570):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. PRESCRIÇÃO. OCORRÊNCIA. CONTAGEM. AJUIZAMENTO DA AÇÃO INDIVIDUAL. RECURSO DESPROVIDO.
+1. A individualização da demanda é o marco interruptivo para a execução das parcelas decorrentes do título coletivo, de modo que somente é assegurada a percepção das parcelas relativas aos 5 (cinco) anos anteriores ao ajuizamento da presente demanda. O objeto da execução é o passivo referente ao período de 01/2005 a 06/2011. Uma vez que o presente feito executivo teve início em 13/12/2019, resta caracterizada a prescrição das parcelas decorrentes do título.
+2. Recurso desprovido.
+Embargos de declaração rejeitados (fls. 614-615).
+No recurso especial (fls. 629-636), a parte recorrente alega violação dos artigos abaixo relacionados, sob os seguintes argumentos:
+(a) art. 1.022, II, do Código de Processo Civil de 2015 (CPC/2015): "o acórdão recorrido incorreu em vício de omissão e de contradição ao desconsiderar o entendimento firmado no Tema 877 pelo STJ, segundo o qual o prazo prescricional para a execução individual deve ser contado do trânsito em julgado da sentença coletiva" (fl. 633);
+(b) Tema 877 do Superior Tribunal de Justiça (STJ): "como se vê, o Tribunal confundiu a prescrição intercorrente com a prescrição da pretensão executória. (..) A prescrição discutida nos autos é a da pretensão executória, que não se confunde com a intercorrente e que é contada do trânsito em julgado da sentença coletiva, nos termos do Tema 877 do STJ" (fl. 632). "Nesse contexto, observa-se que o Tribunal de origem considerou de forma equivocada a prescrição intercorrente, a qual foi interrompida pela citação na ação de conhecimento coletiva" (fl. 636).
+Com contrarrazões (fls. 646-647).
+Juízo positivo de admissibilidade (fl. 653).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Os recorrentes pretendem a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito do "entendimento firmado no Tema 877 pelo STJ, segundo o qual o prazo prescricional para a execução individual deve ser contado do trânsito em julgado da sentença coletiva" (fl. 633).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação ou a manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autorizam o acolhimento de ofensa ao artigo 1.022 do CPC/2015, ensejam a anulação do acórdão proferido em sede de embargos de declaração e tornam indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO ANTERIOR. JUÍZO DE RETRATAÇÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015 CONFIGURADA. QUESTÕES ALEGADAS E NÃO ABORDADAS PELA CORTE DE ORIGEM. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
