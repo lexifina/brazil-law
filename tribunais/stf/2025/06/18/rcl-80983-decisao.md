@@ -1,0 +1,75 @@
+DECISÃO
+
+RECLAMAÇÃO. TRABALHISTA. ALEGADO DESCUMPRIMENTO DO DECIDIDO NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL N. 324 E NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 48 E DO TEMA 725 DA REPERCUSSÃO GERAL: DESCUMPRIMENTO CONFIGURADO. PRECEDENTES. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada pelo Banco Bradesco S/A e outros, em 16.6.2025, contra o seguinte acórdão proferido pela Segunda Turma do Tribunal Regional do Trabalho da Terceira Região no Processo n. 0011641-84.2017.5.03.0129, pelo qual teria sido desrespeitado o decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324, na Ação Declaratória de Constitucionalidade n. 48 e no Recurso Extraordinário n. 958.252, paradigma do Tema 725 da repercussão geral:
+
+    “VÍNCULO DE EMPREGO. REQUISITOS. Nos termos do art. 3º da CLT, configura-se a relação de emprego quando comprovada a prestação de serviços por pessoa física, de forma não eventual, mediante pessoalidade, onerosidade e subordinação jurídica. Comprovada a presença de tais requisitos, impõe-se manter a r. sentença que reconheceu o vínculo de emprego entre o reclamante e o primeiro reclamado” (fl. 2, doc. 12).
+
+    Os embargos de declaração opostos contra esse acórdão foram rejeitados pela Segunda Turma do Tribunal Regional do Trabalho da Terceira Região (fls. 133-137, doc. 11).
+
+    2. Os reclamantes alegam que “a presente reclamação constitucional é ajuizada contra o acórdão proferido pelo Tribunal Regional do Trabalho da 3ª Região, no julgamento de recurso ordinário, que, ao manter a sentença de primeiro grau, desconsiderou o acordo operacional de intermediação securitária firmado entre o corretor GOLBOPREV Administradora e Corretora de Seguros de Vida LTDA e a Bradesco Vida e Previdência S.A. (segunda reclamada na ação trabalhista), e reconheceu vínculo empregatício entre o Sr. Edson José Camilo (sócio da corretora, juntamente com sua esposa, e autor da reclamação trabalhista) e o Banco Bradesco S.A. (primeiro reclamado na ação trabalhista), no período de 09/12/2005 a 14/12/2017, sob o fundamento de que teria havido ‘desvirtuamento’ da prestação de serviços autônomos de corretagem” (fl. 2, doc. 1).
+
+    Sustentam que “o Tribunal Regional do Trabalho da 3ª Região violou a autoridade de decisões proferidas por esse E. STF e a eficácia do que decidido na ADPF n. 324, no RE n. 958.252 (Tema 725 da RG) e na ADC n. 48 quando, afastando os efeitos jurídicos do acordo operacional para prestação de serviços de corretagem havido entre as partes, reconheceu a configuração da relação de emprego, com fundamento nos arts. 2º e 3º da CLT, por entender que estariam presentes subordinação jurídica, pessoalidade, não eventualidade na prestação laboral e onerosidade” (fl. 2, doc. 1).
+
+    Asseveram que “o ato judicial impugnado nesta reclamação ignora e desconsidera decisões anteriores do STF em controle concentrado de constitucionalidade (ADPF 324 e ADC 48) e em recurso extraordinário com repercussão geral (RE 658.252, Tema 725), afrontando assim a autoridade desse Supremo Tribunal Federal” (fl. 13, doc. 1).
+
+    Requerem seja “concedida liminar, inaudita altera pars, para que sejam suspensos os efeitos do acórdão reclamado proferido nos autos da reclamação trabalhista nº 0011641-84.2017.5.03.0129 do TRT da 3ª Região, até o fim da presente reclamação” (fl. 26, doc. 1).
+
+    Pedem, no mérito, seja “julgada procedente a presente reclamação para confirmando a autoridade da decisão dessa Corte, cassar o acórdão reclamado, que está em desconformidade com o quanto posto nas decisões proferidas nos autos da ADPF 324, do RE 658.252 (Tema 725 de Repercussão Geral) e ADC 48, e para: i. desde logo julgar improcedente os pedidos feitos na reclamação trabalhista n. 0011641-84.2017.5.03.0129; e ii. alternativamente, seja reconhecida a competência da justiça comum para analisar e julgar a causa envolvendo relação jurídica comercial” (fls. 26-27, doc. 1).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    4. Põe-se em foco nesta ação se, ao reconhecer o vínculo empregatício entre os reclamantes e o beneficiário, a autoridade reclamada teria desrespeitado o decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324, na Ação Declaratória de Constitucionalidade n. 48 e no Recurso Extraordinário n. 958.252, paradigma do Tema 725 da repercussão geral.
+
+    5. Em 30.8.2018, este Supremo Tribunal julgou procedente a Arguição de Descumprimento de Preceito Fundamental n. 324, Relator o Ministro Luís Roberto Barroso, com estes fundamentos:
+
+    “DIREITO DO TRABALHO. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. TERCEIRIZAÇÃO DE ATIVIDADE-FIM E DE ATIVIDADE-
+-MEIO. CONSTITUCIONALIDADE. 1. A Constituição não impõe a adoção de um modelo de produção específico, não impede o desenvolvimento de estratégias empresariais flexíveis, tampouco veda a terceirização. Todavia, a jurisprudência trabalhista sobre o tema tem sido oscilante e não estabelece critérios e condições claras e objetivas, que permitam sua adoção com segurança. O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993). 5. A responsabilização subsidiária da tomadora dos serviços pressupõe a sua participação no processo judicial, bem como a sua inclusão no título executivo judicial. 6. Mesmo com a superveniência da Lei 13.467/2017, persiste o objeto da ação, entre outras razões porque, a despeito dela, não foi revogada ou alterada a Súmula 331 do TST, que consolidava o conjunto de decisões da Justiça do Trabalho sobre a matéria, a indicar que o tema continua a demandar a manifestação do Supremo Tribunal Federal a respeito dos aspectos constitucionais da terceirização. Além disso, a aprovação da lei ocorreu após o pedido de inclusão do feito em pauta. 7. Firmo a seguinte tese: 1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993. 8. ADPF julgada procedente para assentar a licitude da terceirização de atividade-fim ou meio. Restou explicitado pela maioria que a decisão não afeta automaticamente decisões transitadas em julgado” (DJe 6.9.2019).
+
+    Em 30.8.2018, ao julgar o Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, este Supremo Tribunal firmou a seguinte tese jurídica:
+
+    “É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante” (DJe 13.9.2019).
+
+    6. Na espécie vertente, a autoridade reclamada reconheceu o vínculo de emprego direto entre o beneficiário e os reclamantes, tomadores do serviço, por fraude na constituição da pessoa jurídica:
+
+    “O ponto nodal da controvérsia diz respeito ao enquadramento do reclamante como corretor de seguros via pessoa jurídica ou como vendedor empregado, o que sem dúvida, é matéria complexa, pois tênue a diferenciação entre o contrato civil e o contrato de emprego.
+
+    Tanto no caso do corretor de seguros regido pela Lei 4.594/64, como na hipótese do vendedor empregado existem elementos comuns, como a pessoalidade, a não eventualidade na prestação laboral e a onerosidade. Portanto, o reconhecimento da condição do trabalhador como empregado dependerá da constatação do elemento subjetivo, subordinação jurídica.
+
+    No caso dos autos, como salientado retro, verifica-se que a empresa da qual é sócio o reclamante formalizou um contrato de prestação de serviços com a segunda ré, Bradesco Vida e Previdência S/A, denominado de ‘ACORDO OPERACIONAL’, cujo objeto é ‘a angariação, e intermediação de contratos de seguro de vida em qualquer de suas modalidades e de planos de previdência privada, operados ou instituídos pela SEGURADORA’ (ID. d0117d7 - Pág. 2).
+
+    Coaduno com o entendimento originário no sentido de que as provas produzidas corroboram a tese sustentada na inicial, no sentido de que a contratação formal da empresa do autor serviu apenas de artifício para mascarar a realidade de um autêntico contrato de emprego executado na prática. (...)
+
+    No caso em apreço, não se trata de simples terceirização, como abordada no julgamento da ADPF 324/DF e do RE 958.252/MG, mas de fraude na contratação de empregado bancário, que deveria ser realizada pelo banco réu, tendo em conta que o reclamante realizava os mesmos serviços dos empregados diretos do primeiro reclamado, dentro de sua agência, e sob sua subordinação, como evidencia a prova oral retro transcrita (...)
+
+    A fraude no caso em análise é inegável e deve ser reconhecida, pois a subordinação jurídica do reclamante se dava em relação ao banco réu. Portanto, o caso dos autos encerra situação fática que autoriza a aplicação do distinguishing em relação à tese fixada no julgamento proferido pelo STF, no Leading Case RE nº 958.252 (Tema 725 da repercussão geral), considerando que a ilicitude da terceirização decorre da demonstração de que o autor se subordinava diretamente ao gerente geral do primeiro réu.
+
+    Configurados, portanto, os requisitos do art. 3º da CLT, e com fulcro no art. 9º do mesmo diploma legal, correta a decisão que declarou a nulidade do contrato formalizado sob o nome ‘acordo operacional’ (firmado entre a reclamante o segundo réu) e reconheceu a relação de emprego havida com o Banco Bradesco S/A” (fls. 9-13, doc. 12).
+
+    Essa decisão destoa do entendimento adotado pelo Supremo Tribunal Federal no julgamento da Arguição de Descumprimento de Preceito Fundamental n. 324. Em 24.3.2023, no julgamento do Agravo Regimental na Reclamação n. 56.285, processo análogo ao presente, a Primeira Turma deste Supremo Tribunal decidiu:
+
+    “DIREITO DO TRABALHO. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA ÀS DECISÕES PROFERIDAS NA ADPF 324, NO RE 958.252, NA ADC 48, NA ADI 3.961 E NA ADI 5.625. LICITUDE DE OUTRAS FORMAS DE ORGANIZAÇÃO DA PRODUÇÃO E DE PACTUAÇÃO DA FORÇA DE TRABALHO. 1. Agravo interno interposto contra decisão monocrática pela qual se julgou procedente o pedido formulado na reclamação, para cassar decisão de Tribunal Regional do Trabalho que afastou contrato de sociedade, reconhecendo a existência de relação de emprego entre as partes. 2. Ofensa ao decidido nos paradigmas invocados (ADPF 324, no RE 958.252 (Tema 725 RG), na ADC 48 e na ADIs 3.961 e 5.625), nos quais se reconheceu a licitude de outras formas de organização da produção e de pactuação da força de trabalho. 3. O contrato de emprego não é a única forma de se estabelecerem relações de trabalho, pois um mesmo mercado pode comportar alguns profissionais que sejam contratados pelo regime da Consolidação das Leis do Trabalho e outros profissionais cuja atuação tenha um caráter de eventualidade ou maior autonomia. 4. São lícitos, ainda que para a execução da atividade-fim da empresa, os contratos de terceirização de mão de obra, parceria, sociedade e de prestação de serviços por pessoa jurídica (pejotização), desde que o contrato seja real; isto é, de que não haja relação de emprego com a empresa tomadora do serviço, com subordinação, horário para cumprir e outras obrigações típicas do contrato trabalhista, hipótese em que se estaria fraudando a contratação. 5. Caso em que o reclamante não se trata de trabalhador hipossuficiente, sendo capaz, portanto, de fazer uma escolha esclarecida sobre sua contratação. Inexistente, na decisão reclamada, qualquer elemento concreto de que tenha havido coação na contratação celebrada. 6. Agravo interno a que se nega provimento” (Rcl n. 56.285-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 29.3.2023).
+
+    No mesmo sentido são as seguintes decisões monocráticas: Rcl
+n. 59.015, de minha relatoria, DJe 17.4.2023; Rcl n. 58.587, Relator o Ministro Alexandre de Moraes, DJe 27.3.2023; Rcl n. 58.177, Relator
+o Ministro Alexandre de Moraes, DJe 20.3.2023; Rcl n. 58.301, Relator o Ministro Alexandre de Moraes, DJe 15.3.2023; Rcl n. 57.793, Relator
+o Ministro Dias Toffoli, DJe 2.3.2023; e Rcl n. 57.761, Relator o Ministro Dias Toffoli, DJe 23.2.2023.
+
+    7. Em 12.4.2025, o Supremo Tribunal Federal reconheceu a repercussão geral da matéria versada no Recurso Extraordinário com Agravo n. 1.532.603, Relator o Ministro Gilmar Mendes, tomando-o como representativo do Tema 1.389: “Competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade” (DJe 24.4.2025).
+
+    Em 14.4.2025, o Ministro Relator determinou “a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas nos presentes autos, relacionadas ao Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário” ( (DJe 24.4.2025).
+
+    8. Pelo exposto, julgo procedente a presente reclamação, para cassar o acórdão proferido pela Segunda Turma do Tribunal Regional do Trabalho da Terceira Região no Processo n. 0011641-84.2017.5.03.0129, por inobservância do decidido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental n. 324, e determinar o sobrestamento do processo na origem até a conclusão do julgamento de mérito do Recurso Extraordinário com Agravo n. 1.532.603, representativo do Tema 1.389 da repercussão geral.
+
+    Publique-se.
+
+    Brasília, 18 de junho de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
