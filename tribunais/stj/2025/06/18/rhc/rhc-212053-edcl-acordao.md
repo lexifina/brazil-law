@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. STATUS DE FORAGIDO. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. CONTEMPORANEIDADE. QUESTÕES DEVIDAMENTE ENFRENTADAS.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Jeova Jose de Castro Martins ao acórdão desta Sexta Turma que negou provimento ao recurso em habeas corpus e manteve sua prisão preventiva por crime de homicídio qualificado e tentativa de homicídio (fls. 247/253).
+Aqui, o embargante alega que o acórdão incorreu em omissões relevantes, sustentando: (i) ausência de análise sobre a inexistência do status de foragido; (ii) falta de enfrentamento da alegada inexistência de elementos que o vinculem a organização criminosa; e (iii) imposição indireta de prova diabólica.
+Requer o conhecimento e o acolhimento dos embargos para integração do acórdão, suprindo-se as omissões apontadas. Subsidiariamente, pede sejam atribuídos efeitos infringentes aos embargos com a consequente revogação da prisão preventiva.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. STATUS DE FORAGIDO. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. CONTEMPORANEIDADE. QUESTÕES DEVIDAMENTE ENFRENTADAS.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos não comportam acolhimento.
+Alega-se que o acórdão embargado incorreu em omissões relevantes ao não analisar provas constantes dos autos.
+O acórdão não padece dos vícios apontados. Foram examinadas todas as questões suscitadas no recurso, demonstrando-se a existência de fundamentos concretos para a manutenção da prisão preventiva.
+Quanto à alegada inexistência do status de foragido, o acórdão expressamente analisou tal questão, consignando que o recorrente permaneceu foragido por quatro anos após o decreto da prisão (5/8/2020 a 7/8/2024), o que robustece a necessidade da segregação cautelar, cujo único fundamento não é a necessidade de assegurar a aplicação da lei penal, mas também a garantia da ordem pública, dada a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Em outras palavras, ainda que não se considerasse o recorrente foragido  como insiste a defesa, essa circunstância seria irrelevante para a manutenção da prisão preventiva, pois a medida extrema já havia sido anteriormente decretada em 3/8/2020 para a garantia da ordem pública, diante do grave risco demonstrado pelo modus operandi do crime, a gravidade concreta da conduta e os indícios de que o réu integrava organização criminosa. A questão da fuga, portanto, apenas reforça a necessidade da custódia cautelar, sem constituir pressuposto único ou indispensável para sua manutenção.
+Relativamente à alegação de ausência de elementos sobre integração em organização criminosa, o acórdão explicitamente mencionou que a prisão preventiva está fundamentada na inserção do réu em organização criminosa, considerando o grave risco à ordem pública evidenciado pelo modus operandi do crime. A decisão de primeiro grau, transcrita no acórdão, demonstrou que há fortes indícios de que o acusado integra organização criminosa.
+Sobre a suposta imposição de prova diabólica, inexiste tal vício. O acórdão baseou-se nos elementos já existentes nos autos para fundamentar a prisão, estabelecidos pelas instâncias ordinárias, tais como os depoimentos de testemunhas oculares do crime. Também foi enfrentada adequadamente a questão da disparidade de tratamento entre os réus, esclarecendo-se que os demais acusados foram postos em liberdade diante do excesso de prazo para o oferecimento da denúncia, situação distinta do recorrente, que permaneceu foragido.
+As decisões das instâncias ordinárias alinham-se à jurisprudência consolidada deste Superior Tribunal, de que a gravidade concreta da conduta é fundamento idôneo a lastrear a prisão preventiva para preservar a ordem pública (AgRg no HC n. 687.840/MS, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Os embargos de declaração, na forma do art. 619 do Código de Processo Penal, prestam-se apenas a esclarecer obscuridade, eliminar contradição ou suprir omissão do julgado. No caso em análise, a decisão embargada enfrentou todas as questões suscitadas no recurso, não se vislumbrando qualquer dos vícios alegados.
+Ante o exposto, rejeito os embargos de declaração.
