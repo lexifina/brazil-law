@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 3ª VARA CRIMINAL ESPECIALIZADA EM CRIMES FINANCEIROS, LAVAGEM DE CAPITAIS E ORGANIZAÇÕES CRIMINOSAS DE PORTO VELHO - SJ/RO, suscitante, e o JUÍZO FEDERAL DA 3ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, suscitado, nos autos de inquérito policial instaurado pela Polícia Federal de São Paulo/SP, em 25.10.2017, a partir de requisição do Ministério Público Federal de São Paulo, conforme notícia de fato 1.34.001.005208/2017-28, para apurar a prática do crime previsto no art. 4º, caput, da Lei n. 7.492/86.
+O IPL foi distribuído ao Juízo Federal da 3ª Vara Criminal de São Paulo, que acolhendo manifestação ministerial, declinou da competência, pois o objeto da investigação, supostamente, coincide, em grande parte, com os fatos apurados na "Operação Fundo Fake" (IPL 191/2014 - DPF/VLA/RO - Ação Penal 1002890-42.2020.4.01.4100), em trâmite no Juízo Federal da 3ª Vara Criminal especializada em Crimes Financeiros, Lavagem de Capitais e Organizações Criminosas da Seção Judiciária de Rondônia.
+O referido Juízo , por sua vez, suscitou o presente conflito, ao fundamento de que (fls. 26-27):
+Como se pode observar, a competência será fixada, em regra, pelo critério ordinário previsto no art. 69, I do CPP, isto é, o lugar da infração, por sua vez, nos termos do art. 6º do Código Penal "considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado".
+Com efeito, apenas excepcionalmente poderiam os delitos apurados no IPL 262/2017-11 SR/PF/SP ser de competência deste Juízo Federal e tal excepcionalidade somente se justificaria em razão da conexão e/ou continência (cuja ocorrência sequer mencionada pelo MPF/SP ou pelo Juízo da 3ª Vara Federal da Subseção Judiciária de São Paulo).
+Porém, o cotejo das informações apresentadas no relatório do IPL 262/2017-11 (SR/PF/SP) e dos argumentos de fato apresentados pelo MPF/SP com o relatório final do IPL 191/2014 (Operação Fundo Fake) e denúncia formulada pelo MPF/RO, nos autos 1002890-42.2020.4.01.4101, denota que entre os supostos fatos delituosos praticados em São Paulo e os praticados em Rondônia inexiste conexão ou continência:
+i) não são os mesmos fatos: os eventos investigados no IPL 262/2017-11 SR/PF/SP referem-se a um fato ou um coletivo de fatos atrelados à suposta fraude/má gestão perpetrada por meio da DIAMOND PARTICIPAÇÕES S. A que se originou de assembleia realizada com intuito de promover o aumento de capital do CONQUEST FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES, observe-se (ID 1760291092, p. 746/747) (..)
+ii) em relação ao tempo do delito, há, tão somente, sobreposição parcial: segundo a autoridade policial que relatou o IPL 262/2017-11 SR/PF/SP (ID 1760291092, p. 746) (..)
+iii) lugar da infração: indiscutivelmente os supostos delitos não foram praticados nesta Unidade da Federação afinal, o CONQUEST FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES tem sede em São Paulo (na época, tinha sede no Rio de Janeiro/RO); por sua vez, a ata da assembleia geral extraordinária que, segundo apontou a PF/SP é a origem do delito (promoção do aumento de capital do FIP CONQUEST), em tese, ocorreu no Rio de Janeiro/RJ, no dia 29.12.2014 (ID 1760291092, p. 722).
+A DIAMOND PARTICIPAÕES S. A., envolvida nos fatos, também possuía sede no Rio de Janeiro/RO.
+ADRIANO MARCET DE OLIVEIRA indiciado pela Polícia Federal de São Paulo em razão da prática do delito previsto no art. 4º, Lei 7.492/1986, igualmente, possui/possuía domicílio no Rio de Janeiro/RO.
+Todas essas constatações não fossem suficientes, nota-se que não há qualquer indicativo de que os delitos investigados no IPL 262/2017-11 SR/PF/SP foram praticados para facilitar ou ocultar os delitos denunciados na ação penal 1002890-42.2020.4.01.4101, ou para conseguir impunidade ou vantagem em relação a qualquer delas; tampouco, há indícios de que as provas das infrações ou suas circunstâncias elementares influam umas nas outras.
+Igualmente, não há como reconhecer que os delitos relativos ao IPL 262/2017-11 SR/PF/SP estão contidos (objetiva ou subjetivamente) nos delitos relativos à Operação Fundo Fake (RO) - ou o contrário - ora, tratando-se de instituições financeiras distintas, isto é, FIP CONQUEST (IPL 262/2017-11 SR/PF/SP) e FOCO DTVM/AQUILLA ASSET MANAGEMENT (IPL 191/2014 SR/PF/RO), há autonomia das imputações (..)
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitado (fls. 7670-7683) .
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Em regra, a competência para a persecução penal é definida pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução, nos termos do art. 70, do Código de Processo Penal.
+A conexão, prevista no art. 76 do Código de Processo Penal, não é critério absoluto de fixação de competência, mas sim motivo que enseja eventual modificação quando há fatores que indicam que os processos devem ser julgados por um único juízo, para evitar julgamentos colidentes e para atender ao princípio da celeridade e economia processual.
+O art. 76 do Código de Processo Penal prevê:
+Art. 76. A competência será determinada pela conexão:
+I - se, ocorrendo duas ou mais infrações, houverem sido praticadas, ao
+mesmo tempo, por várias pessoas reunidas, ou por várias pessoas em
+concurso, embora diverso o tempo e o lugar, ou por várias pessoas, umas contra as outras;
+II - se, no mesmo caso, houverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas;
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+Ao que se afigura, não existe liame instrumental, relação de causa e efeito, entre os delitos. Isto é, não há conexão teleológica e probatória, conforme previsto nos incisos II e III do art. 76 do Código de Processo Penal.
+Acerca da questão, sabe-se que
+ a  prorrogação de competência, por força de conexão probatória, é aceita quando houver dependência ou vínculo existente entre os fatos, desde que formem uma espécie de unidade, para que o julgador tenha visão uniforme do quadro probatório, evitando-se decisões díspares. (RHC 93.295/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 16/08/2018, DJe 28/08/2018)
+No caso concreto, como bem ponderou o parecer do Ministério Público Federal (fls. 7679-7680, grifamos):
+(..) conforme ressaltado pelo juízo suscitante, os delitos investigados no IPL 262/2017 não se confundem com os delitos investigados no IPL 191/2014 relativo à Operação Fundo Fake, uma vez que, como visto, não são os mesmos fatos, quanto ao tempo dos delitos há apenas sobreposição parcial, o lugar da infração não é mesmo e as pessoas citadas - físicas e/ou jurídicas - não têm domicílio naquela unidade da federação.
+(..)
+Ademais, o Juízo Suscitante não pode ser declarado o destinatário universal para julgar todo e qualquer eventual delito perpetrado pelos responsáveis pela FOCO DTVM/ÍNDICO DTVM, AQUILLA ASSET MANAGEMENT, CONQUEST FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES e BRL TRUST/BVA.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 3ª Vara Criminal de São Paulo, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
