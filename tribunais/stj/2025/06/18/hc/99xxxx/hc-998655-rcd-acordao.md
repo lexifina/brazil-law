@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. TRÁFICO. PENA-BASE. AFASTADA NATUREZA DA DROGA COMO CIRCUNSTÂNCIA NEGATIVA. FALTA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Petição de reconsideração recebida como agravo regimental.
+2. A impetração esbarra na falta de interesse de agir, tendo em vista que o Tribunal de origem, quando do julgamento da revisão criminal, reduziu a pena-base do réu de 6 anos e 3 meses de reclusão para 5 anos e 10 meses de reclusão, considerando apenas os maus antecedentes do acusado, afastando, assim, a valoração negativa da natureza da droga.
+3. Agravo regimental não provido.
+RELATÓRIO
+RODRIGO DE JESUS DE SOUZA SILVA apresenta petição em face de decisão em que indeferi liminarmente o habeas corpus impetrado, por falta de interesse de agir.
+Na petição, alega a defesa que "O PACIENTE NÃO TEVE A PENA REDUZIDA PARA 5 ANOS E 10 MESES, mas sim para 6 anos e 3 meses, e é justamente aí que a defesa pleiteia para que a mesma seja fixada nos moldes de 5 anos e 10 meses" (fl. 343).
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. TRÁFICO. PENA-BASE. AFASTADA NATUREZA DA DROGA COMO CIRCUNSTÂNCIA NEGATIVA. FALTA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Petição de reconsideração recebida como agravo regimental.
+2. A impetração esbarra na falta de interesse de agir, tendo em vista que o Tribunal de origem, quando do julgamento da revisão criminal, reduziu a pena-base do réu de 6 anos e 3 meses de reclusão para 5 anos e 10 meses de reclusão, considerando apenas os maus antecedentes do acusado, afastando, assim, a valoração negativa da natureza da droga.
+3. Agravo regimental não provido.
+VOTO
+Preliminarmente, saliento que, tendo em vista a identidade do prazo recursal e a inexistência de erro grosseiro, recebo este pedido de reconsideração como agravo regimental.
+Em que pesem os argumentos expendidos pelo agravante, não identifico suficientes razões para alterar a conclusão da decisão impugnada, cujo teor transcrevo:
+No que tange à pretendida redução da pena-base, verifico que a impetração esbarra na falta de interesse de agir, tendo em vista que o Tribunal de origem, quando do julgamento da revisão criminal, reduziu a pena-base do réu de 6 anos e 3 meses de reclusão para 5 anos e 10 meses de reclusão, considerando apenas os maus antecedentes do acusado, afastando, assim, a valoração negativa da natureza da droga.
+Veja trecho do acórdão, no que interessa (fls. 321-325, grifei):
+E lhe assiste alguma razão, o que se pondera na mais exata leitura dos parâmetros estabelecidos seja na órbita do caput do artigo 59 do Código Penal, seja naquela do artigo 42 da Lei 11.343/2006, tal como mais comumente a praticam nossos tribunais superiores, ainda que caiba, é claro, preservar o maior respeito e a devida consideração ao entender diverso.
+Como se observa, a pena legal mínima foi concretamente majorada em um quarto (1/4) sob dois argumentos: condenações anteriores que, deslocadas da categoria técnica da reincidência, anteriores desabonaram os antecedentes de Rodrigo de Jesus e, de outro lado, a circunstância de tratar-se de traficância simultânea de cocaína, em pó e pedra, e de maconha.
+Quanto ao primeiro desses argumentos, tem-se que, havendo nos autos de origem a documentação de duas condenações definitivas devidamente transitadas em julgado em desfavor de Rodrigo de Jesus, realmente uma delas cabia servir de título para desabono de seus antecedentes na primeira etapa de quantificação trifásica da pena.
+ ..
+No caso, e como muito bem demonstrou a Exma. Procuradora de Justiça, a sempre judiciosa Dra. Silvia Reiko Kawamoto, em seu parecer aqui acostado, tem-se por oportuno invocar a condenação referente ao Processo 0001424-02.2013, mencionando a traficância de drogas dita privilegiada que Rodrigo de Jesus praticou em abril de 2013, pela qual foi definitivamente condenado com trânsito em julgado em julho de 2017, cumprida afinal a pena em fevereiro de 2019 (fls. 152-153).
+Tal realmente implica fator constituinte dos maus antecedentes do requerente.
+Porém, data venia não se pode dizer que a traficância, simplesmente por ser de cocaína e maconha, ainda que aquela em pó e pedra, se mostre particularmente pecaminosa a ponto de autorizar acréscimos extraordinários sobre a pena-base para além daquela mínima legal que, convenhamos, já não é rasa à vista do catálogo legal praticado pelo sistema normativo brasileiro. Afinal, sabidamente foi à vista da maconha e da cocaína, em pó ou em pedra, que se reformatou e se majorou as penas em nosso modelo legal em 2006. Já então essas substâncias eram aquelas que, como hoje, mais frequentavam o cotidiano do mercado de drogas que tristemente nos deparamos em nosso país. Isso implica dizer que, diante da maconha ou da cocaína, seja em pó ou em pedra, não estamos diante de um cenário de estupenda ou anômala excepcionalidade, senão aquela tristemente mais comezinha que ocorre na conjuntura a mais comum dos casos judiciários. Afinal, e segundo o laudo de fls. 88-90, estamos diante de um total de 117,9 gramas líquidos dessas três substâncias, o que realmente não compõe um valor particularmente admirável.
+Uma vez positivado que o agente não registra, no cenário do caput do artigo 59 do Código Penal, senão uma condenação criminal definitiva que lhe desabona os antecedentes (outras notícias não têm indicação de seu trânsito em julgado), tem-se como mais adequado e proporcional ao que comumente se pratica em casos tais a majoração da pena-base legal mínima em tão somente um sexto (1/6). Deve ela ser estimada, portanto, em cinco (5) anos e dez (10) meses de reclusão e pagamento de quinhentos e oitenta e três (583) dias-multa, arbitrados sim no patamar legal mínimo porque não comprovada melhor renda do requerente.
+Assim, no que tange à pretensão ora deduzida, constata-se que o presente remédio heroico esbarra na falta de interesse de agir.
+Dessa forma, como a pretensão da defesa é afastar a valoração negativa da natureza da droga na primeira fase da dosimetria, e esse pedido já foi atendido pelo Tribunal de origem quando do julgamento da revisão criminal, o writ esbarra na falta de interesse de agir.
+Diante do exposto, nego provimento ao agravo regimental.
