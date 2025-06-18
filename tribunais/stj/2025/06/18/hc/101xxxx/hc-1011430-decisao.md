@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL VASQUES FERRELI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500298-12.2022.8.26.0077.
+Consta dos autos que o paciente foi inicialmente condenado pelo juízo da 1ª Vara Criminal da Comarca de Birigui, na ação penal n. 1500298-12.2022.8.26.0077, pela prática do delito capitulado no artigo 33 da Lei 11.343/2006, à pena de 7 anos e 6 meses de reclusão, a ser inicialmente cumprida no regime prisional fechado, acrescida do pagamento de 750 dias-multa (fl. 13).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, para reduzir a pena para 6 anos de reclusão, a ser inicialmente cumprida no regime prisional fechado, acrescida do pagamento de 600 dias-multa (fls. 12-16), com trânsito em julgado certificado.
+Em seguida, impetrou perante o Superior Tribunal de Justiça o HC n. 996050-SP, buscando a concessão da ordem para revisar os critérios adotados para o estabelecimento do regime inicial prisional. O habeas corpus foi indeferido liminarmente (fls. 29-31, HC n. 996050-SP), com trânsito em julgado certificado.
+Na presente impetração, alega-se que, embora a pena aplicada seja inferior a 8 anos, o regime inicial fixado foi o fechado, exclusivamente sob o fundamento da reincidência, sem que tenha havido qualquer análise das circunstâncias judiciais do artigo 59 do Código Penal. Defende-se que há manifesta ilegalidade na imposição do regime fechado, devendo ser garantido o regime semiaberto. Argumenta-se que a manutenção do regime fechado  com base exclusivamente na reincidência  configura constrangimento ilegal.
+Requer, ao final, a concessão da ordem para que seja concedida liminar para suspender os efeitos da decisão que determinou o início do cumprimento da pena em regime fechado, autorizando que o paciente aguarde em regime menos gravoso (semiaberto) até o julgamento do mérito, assim como, ao final, seja estabelecido regime inicial prisional menos gravoso.
+É o relatório. DECIDO.
+A pretensão deduzida pela defesa caracteriza reiteração previamente submetida ao Superior Tribunal de Justiça por ocasião do julgamento do HC n. 996050-SP, que foi indeferido liminarmente, com trânsito em julgado certificado em 29 de abril de 2025 (fl. 36, HC n. 996050-SP).
+A presente impetração evidencia o propósito de dup la apreciação, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do RISTJ autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro, com os mesmos fundamentos, hipótese verificada nos presentes autos.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
