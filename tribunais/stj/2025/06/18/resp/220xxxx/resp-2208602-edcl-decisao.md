@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela BRF S/A contra decisão que conheceu em parte do recurso especial e negou-lhe provimento.
+A parte recorrente embargante alega, em síntese (fls. 269/275):
+A Decisão Embargada incorreu em omissão e, consequentemente, em obscuridade, já que deixou de especificar em que medida a discussão a respeito da aplicação da regra da anterioridade nonagesimal (já transitada em julgado no Mandado de Segurança nº 5013189-12.2018.4.04.7200) poderia ser afetada pela discussão a respeito da aplicação da regra da anterioridade anual aos Decretos regulamentadores do REINTEGRA  ..  A Decisão Embargada incorreu também em vício de contradição por considerar, de forma equivocada, que a Embargante poderia apresentar cumprimento provisório de sentença para executar a parte incontroversa da discussão do Mandado de Segurança nº 5013189-12.2018.4.04.7200:
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, com atenção aos teores dos acórdãos recorridos e das razões do recurso especial, foi consignado na decisão embargada:
+Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado. No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+Com relação ao pedido de certificação do trânsito em julgado parcial, o recurso não pode ser conhecido porque o acórdão está em conformidade com entendimento jurisprudencial deste Tribunal Superior.
+Com efeito, a parte ora recorrente, no mandado de segurança, pediu a observância do princípio da anterioridade e, subsidiariamente, a observância da anterioridade nonagesimal; e, como delineado no acórdão recorrido, não houve o trânsito em julgado da decisão de procedência do pedido porque, em razão de recurso extraordinário da própria parte impetrante, está pendente o exercício de conformação com tese a ser firmada pelo Supremo Tribunal Federal, no ARE 1.285.177/ES (tema 1108: "aplicabilidade do princípio da anterioridade geral (anual ou de exercício) em face das reduções de benefícios fiscais previstos no Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (Reintegra)".
+Nesse contexto, estando o processo suspenso em razão da repercussão geral e porque a tese a ser definida pelo Supremo Tribunal Federal tem potencial para influir no juízo de procedência da pretensão mandamental, não há como se determinar o trânsito em julgado parcial da decisão de acolhimento do pedido subsidiário, na medida em que este não é autônomo com relação ao pedido principal e só será mantido, na hipótese em que o pedido principal não for acolhido.
+A propósito, no caso específico de não haver autonomia entre os pedidos, deve-se reconhecer a impossibilidade de fracionamento da sentença; nessa linha, confiram-se:  ..
+Não obstante, consoante destacado no acórdão recorrido, à luz dos arts. 356, §§ 2º e 3º, 516, inc. II, do Código de Processo Civil - CPC/2015, a parte pode efetuar o cumprimento provisório da sentença, quanto à parte incontroversa, e, quando houver o respectivo trânsito em julgado, a execução passará a ser definitiva.
+No contexto, não há vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
