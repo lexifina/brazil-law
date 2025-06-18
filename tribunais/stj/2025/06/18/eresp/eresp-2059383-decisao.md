@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ASSOCIAÇÃO DOS PROPRIETÁRIOS DO LOT RECREIO HUMAITA contra o acórdão da Terceira Turma assim ementado (fls. 508-509):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. ASSOCIAÇÃO DE MORADORES. TAXA ASSOCIATIVA. PRECEDENTES DO STJ E DO STF. APLICAÇÃO DA MULTA PREVISTA NOS ARTS. 1.021, § 4º, DO NCPC E 259, § 4º, DO RISTJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando a novo julgamento da causa.
+2. Em loteamentos administrados por associações de moradores, apenas a lei ou a anuência do morador pode obrigá-lo ao pagamento da contribuição associativa, seja por meio da celebração de contrato, seja por meio da adesão à entidade (Precedentes do STJ e do STF).
+3. A aplicação da multa prevista nos arts. 1.021, § 4º, do NCPC, e 259, § 4º, do RISTJ não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, D Je 8/9/2020).
+4. Agravo interno não conhecido.
+Aduz a embargante que há divergência com acórdão paradigma da Quarta Turma (AgInt no REsp n.1.853.266/SP) relativamente à tese de que foi comprovada nos autos a existência de restrições imobiliárias indicadas na matrícula do imóvel, a imputar a responsabilidade do ora embargado de contribuir com as taxas de manutenção criadas pela associação de moradores.
+Pondera que "é válida a estipulação, na escritura de compra e venda, espelhada no contrato-padrão depositado no registro imobiliário, de cláusula que preveja a cobrança, pela administradora do loteamento, das despesas realizadas com obras e serviços de manutenção e/ou infraestrutura, porque dela foram devidamente cientificados os compradores, que a ela anuíram inequivocamente" (fl. 524).
+É o relatório. Decido.
+Os embargos não podem ter trânsito, porquanto não há similitude entre os arestos confrontados.
+Note-se que o acórdão embargado concluiu pela inexistência de cláusula convencional quando da instituição do loteamento, constante em escritura pública e averbada na matrícula do imóvel no cartório imobiliário, que pudesse permitir a cobrança de taxa associativa.
+Já o acórdão paradigma versa sobre hipótese em que houve previsão expressa no contrato-padrão de compra e venda, com o devido registro em cartório, de cobrança de taxa de manutenção criada por associação de moradores.
+Verifica-se que os arestos confrontados analisaram contextos fáticos totalmente distintos e cercados de peculiaridades próprias.
+Para que se viabilizem os embargos de divergência, é necessária a demonstração da similitude das circunstâncias fáticas em face das quais se deu o julgamento e de soluções jurídicas diversas.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
