@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em benefício de HILARIO ANTONIO FIOROT FRASSON, impugnando acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, em julgamento do HC n. 5003848-37.2025.8.08.0000.
+Consta dos autos que o Juiz das Execuções Criminais indeferiu o pedido de remição da pena por aprovação no Enem/2019, sob o fundamento de que o executado já possui curso superior (e-STJ, fls. 26/30).
+Contra a decisão, a defesa impetrou habeas corpus, perante a Corte de origem, o qual não conheceu da ordem (e-STJ, fl. 16).
+Nesta  impetração,  a  defesa  informa que o E. TJ/ES, após determinação deste E. Tribunal da Cidadania, reanalisou o mérito do Habeas Corpus, e por meio de sua C. 1ª Câmara Criminal, manteve na integralidade a r. Decisão de primeiro grau, ou seja, negou ao paciente, o direito à remição de pena pela aprovação no ENEM, exclusivamente pelo fato do mesmo já possuir curso superior à época.
+Frisa que segundo pacífica jurisprudência deste E. Superior Tribunal de Justiça, é garantida aos reeducandos/apenados a plena fruição de direito previsto na correspondente legislação federal, o da remição de pena, advinda de aprovação no ENEM, independentemente de há época já possuir diploma superior.
+Diante  disso,  requer seja garantido ao paciente/apenado o DIREITO à REMIÇÃO DE PENA, em razão da APROVAÇÃO no ENEM/2019.
+É  o  relatório. Decido.
+A presente irresignação não pode prosseguir.
+A defesa deixou de juntar aos autos o inteiro teor do acórdão coator, no qual consta a reanálise do mérito pelo Tribunal de Justiça, após a determinação deste E. Tribunal da Cidadania, limitando-se a descrever a ementa no corpo da inicial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO DE DOCUMENTO FALSO. HABEAS CORPUS SUBSTITUTIVO. AUSÊNCIA DE INSTRUÇÃO ADEQUADA. NÃO COMPROVAÇÃO DE FLAGRANTE ILEGALIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame 1. Agravo regimental interposto por Daniel Pereira da Silva contra decisão que não conheceu de habeas corpus substitutivo, em razão da ausência de elementos que comprovassem a alegada ilegalidade. O agravante pleiteia a reconsideração da decisão ou seu provimento pelo colegiado.
+II. Questão em discussão 2. Há duas questões em discussão: (i) se o habeas corpus substitutivo de recurso próprio pode ser admitido diante da ausência de flagrante ilegalidade; (ii) se a ausência de instrução adequada da inicial, com a falta de documentos essenciais, inviabiliza o conhecimento do pedido.
+III. Razões de decidir 3. A admissibilidade do habeas corpus substitutivo é restrita e depende da demonstração de flagrante ilegalidade, o que não se verifica no caso concreto.
+4. A inicial do habeas corpus não foi instruída com cópia do acórdão do Tribunal de origem, documento essencial para análise do alegado constrangimento ilegal, inviabilizando a concessão de ordem de ofício.
+5. A jurisprudência desta Corte estabelece que o habeas corpus exige prova pré-constituída das alegações, não sendo possível dilação probatória em sede de ação mandamental, especialmente quando ausentes documentos fundamentais para o exame do caso.
+IV. Dispositivo e tese 6. Agravo regimental não provido.
+(AgRg no HC n. 873.342/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO (DUAS VEZES EM CONCURSO MATERIAL). ALEGAÇÕES DE ILEGALIDADE EM RAZÃO DA EXTRAPOLAÇÃO DO LAPSO DE REAVALIAÇÃO NONAGESIMAL, DE AUSÊNCIA DE FUNDAMENTAÇÃO E DE EXCESSO DE PRAZO PARA O JULGAMENTO PELO TRIBUNAL DO JÚRI. AUSÊNCIA DE INSTRUÇÃO DO WRIT COM O ACÓRDÃO QUE EFETIVAMENTE TERIA ANALISADO TAIS TEMAS. CONHECIMENTO. IMPOSSIBILIDADE. DECISÃO AGRAVADA QUE, SUPERANDO O ÓBICE DA INSTRUÇÃO DEFICIENTE, ANALISOU A ALEGAÇÃO DE CONSTRANGIMENTO. SEGREGAÇÃO REAVALIADA E FUNDAMENTADA. PERICULOSIDADE CONCRETA (MODUS OPERANDI), REITERAÇÃO DELITIVA E AMEAÇA AO IRMÃO DE UMA DAS VÍTIMAS. EXCESSO DE PRAZO. PRISÃO EFETIVADA EM 20/2/2021. PRONÚNCIA EM DEZEMBRO DE 2021. JÚRI DESIGNADO PARA DATA PRÓXIMA (4/12/2023). FEITO RELATIVAMENTE COMPLEXO. DOIS ACUSADOS E DOIS FATOS DELITUOSOS A APURAR. RAZOABILIDADE. OBSERVÂNCIA.
+1. Deve ser mantida a decisão monocrática quando evidenciado que, além de o pedido não ter sido suficientemente instruído com documentos que comprovem o debate dos temas levantados pelo Tribunal, não se verifica constrangimento ilegal por ausência de fundamentação da custódia.
+2. É entendimento deste Superior Tribunal que a extrapolação do lapso de reavaliação nonagesimal não redunda na revogação automática da segregação provisória.
+3. Hipótese em que a reavaliação foi realizada e elencada devida fundamentação, consistente no fato de que se encontram presentes os fundamentos e requisitos que embasaram a decisão judicial que decretou a prisão preventiva do acusado, pois ainda subsiste a necessidade de garantir a ordem pública, tendo em vista a gravidade concreta dos fatos noticiados e da reiteração delitiva do pronunciado, bem como de garantir a aplicação da lei penal, tendo em vista o fato de o investigado teria ameaçado o irmão da vítima.
+4. Não há que se falar em constrangimento ilegal por excesso de prazo, pois além de se tratar de feito inicialmente com relativa complexidade, haja vista a existência de dois acusados e dois fatos delituosos a apurar, o ora agravante foi pronunciado em 16/12/2021, e a sessão de julgamento do Tribunal do Júri, ao que consta da página eletrônica do Tribunal de Justiça do Paraná, foi designada para data próxima (4/12/2023). Precedente.
+5. Agravo regimental improvido.
+(AgRg no HC n. 855.575/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
