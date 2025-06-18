@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de São Paulo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrido foi condenado, em primeira instância, à pena de 2 anos de reclusão, em regime inicial aberto, substituída por restritivas de direitos, por infração ao art. 342, caput, do Código Penal (falso testemunho).
+O Tribunal de Justiça, em sede de apelação, deu provimento ao recurso defensivo para absolver o recorrido com fundamento no art. 386, III, do Código de Processo Penal, sob o entendimento de que haveria atipicidade da conduta, considerando que o apelante teria feito afirmação falsa relativa a fatos que, de alguma forma, o incriminavam (fl. 272).
+Opostos embargos de declaração pelo Ministério Público (fls. 292-295), foram rejeitados (fls. 297-301).
+No presente recurso especial, o Ministério Público do Estado de São Paulo aponta como violados os artigos 203 e 386, III, do Código de Processo Penal, bem como o artigo 342 do Código Penal. Sustenta, em síntese, que o recorrido, em todas as oportunidades em que foi ouvido, declarou que adquiriu droga para consumo pessoal. Ao prestar depoimento como testemunha no processo contra o suposto traficante, mudou sua versão apenas quanto ao fornecedor da droga, continuando a admitir que a havia adquirido para consumo próprio. Sustenta que a alteração quanto ao fornecedor da droga caracteriza o crime de falso testemunho, pois não havia qualquer risco de autoincriminação, uma vez que o recorrido sempre admitiu a posse de droga para consumo pessoal e por esse delito já estava sendo processado.
+Contrarrazões às fls. 312-329.
+A Procuradoria-Geral da República manifestou-se pelo conhecimento e provimento do recurso especial (fls. 339-341).
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e atende aos demais requisitos de admissibilidade, não havendo óbices ao seu conhecimento.
+No mérito, o recurso merece provimento.
+A controvérsia cinge-se a definir se a conduta do recorrido, ao prestar depoimento falso em juízo sobre quem lhe teria fornecido a droga, configura o crime de falso testemunho previsto no art. 342 do Código Penal, ou se estaria amparada pelo princípio da não autoincriminação.
+O art. 342 do Código Penal tipifica como crime fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, ou administrativo, inquérito policial, ou em juízo arbitral.
+No caso concreto, verifica-se que o recorrido foi flagrado portando entorpecentes, tendo declarado na fase policial que adquiriu a droga de Júlio César Braz, vulgo "Borrão", pelo valor de R$ 50,00 (fl. 269). Por conta dessa declaração, o recorrido foi autuado pelo crime previsto no art. 28 da Lei n. 11.343/2006 (posse de drogas para consumo pessoal), enquanto Júlio César foi denunciado pelo crime de tráfico ilícito de entorpecentes.
+Posteriormente, ao ser ouvido como testemunha no processo contra Júlio César, o recorrido alterou sua versão apenas quanto ao fornecedor da droga, negando que a tivesse adquirido de Júlio César e afirmando que a comprou em Ribeirão Preto, de pessoa desconhecida. No entanto, continuou confirmando que adquiriu a droga para consumo próprio (fls. 269-270).
+O Tribunal de Justiça absolveu o recorrido por entender que sua conduta seria atípica, com base no princípio da não autoincriminação (nemo tenetur se detegere), previsto no art. 5º, LXIII, da Constituição Federal.
+Ocorre que, como bem destacado nas razões recursais, o recorrido, desde o início, admitiu a posse de droga para consumo pessoal, tendo sido processado por esse delito. A alteração em seu depoimento referia-se exclusivamente à identificação de quem lhe forneceu a droga, e não a fatos que pudessem incriminá-lo.
+O princípio da não autoincriminação visa proteger o indivíduo contra a obrigação de produzir prova contra si mesmo. No entanto, esse princípio não autoriza a prática do crime de falso testemunho quando o depoente pretende beneficiar terceiro, sem qualquer risco de autoincriminação.
+No presente caso, a manutenção da versão original de que adquiriu a droga de Júlio César Braz não acarretaria qualquer risco adicional de autoincriminação para o recorrido, uma vez que ele já havia confessado a posse da droga para consumo pessoal e por esse delito já estava respondendo. A alteração em seu depoimento visava exclusivamente beneficiar o acusado do crime de tráfico, sem qualquer relação com sua própria situação jurídica.
+Nesse sentido, é a jurisprudência deste Superior Tribunal de Justiça, como se verifica no precedente a seguir:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSO TESTEMUNHO. ATIPICIDADE DA CONDUTA. INOCORRÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em que pese aos argumentos apresentados pelo agravante, o presente agravo regimental não merece provimento, devendo a decisão ser mantida por seus próprios fundamentos.
+Como bem demonstrado na decisão agravada, é cediço que a jurisprudência desta Corte tem se direcionado no sentido de reconhecer a atipicidade da conduta, em casos semelhantes ao dos autos, por considerar manifesta a ilegalidade quando o réu é acusado de falso testemunho por modificar o depoimento prestado na fase policial, com o intuito de se eximir do crime previsto no art. 28 da Lei n. 11.343/06, qual seja, posse de drogas para consumo pessoal.
+Todavia, como já explicitado na decisão monocrática, não foi esse o intuito do paciente ao prestar depoimento contraditório (se esquivar da autoincriminação), afinal, não negou a compra do entorpecente, apenas modificou seu depoimento em relação à pessoa que lhe vendeu a droga.
+Sendo assim, não há como reconhecer a atipicidade da conduta para o presente caso.
+Agravo Regimental desprovido.
+(AgRg no HC n. 351.788/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/10/2017, DJe de 17/10/2017.)
+Diante disso, não há que se falar em atipicidade da conduta por suposta autoincriminação, pois o recorrido alterou seu depoimento apenas quanto ao fornecedor da droga, mantendo a versão de que a adquiriu para consumo próprio. A conduta, portanto, se amolda perfeitamente ao tipo penal previsto no art. 342 do Código Penal.
+Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido e restabelecer a sentença condenatória de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
