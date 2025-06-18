@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CATAGUASES (MG) e o JUÍZO FEDERAL DO JUIZADO ESPECIAL ADJUNTO DE MURIAÉ (SJMG), para definir a competência para processamento do cumprimento de sentença ajuizada por Gerci de Freitas Pacheco Ferreira em desfavor de Banco Itaú Consignado S.A.
+O JUÍZO FEDERAL DO JUIZADO ESPECIAL ADJUNTO DE MURIAÉ (SJMG) entendeu que, como, em julgamento de recurso inominado, a autarquia previdenciária fora declarada parte ilegítima, não se mostrava presente para o cumprimento de sentença hipótese de competência da Justiça Federal, na forma do art. 109, I, da CF, razão pela qual declinou da competência e determinou a remessa dos autos à Justiça estadual (fls. 217-218).
+O JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CATAGUASES (MG), por sua vez, suscitou o presente conflito sob o fundamento de que o declínio de competência de processo em fase de cumprimento de sentença não é cabível por violar a regra da perpetuação da competência prevista no art. 43, c/c o art. 516, II, do CPC (fls. 231-234).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito de competência e, no mérito, pela competência do Juízo de Direito da 1ª Vara Cível de Cataguases (MG), o suscitante, para processar e julgar a demanda (fls. 239-245).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Cinge-se a controvérsia a definir o juízo competente para o processamento do cumprimento de sentença ajuizada por Gerci de Freitas Pacheco Ferreira em desfavor do Banco Itaú Consignado S.A.
+Colhe-se dos autos que Gerci de Freitas Pacheco Ferreira ajuizou, na Justiça Federal, ação de repetição de indébito c/c indenização por danos morais e obrigação de fazer em desfavor do Instituto Nacional do Seguro Social (INSS) e do Banco Itaú Consignado S.A.
+A sentença acolheu os pedidos de reconhecimento de inexistência da dívida e de condenação solidária para reparação de danos morais. Entretanto, no julgamento de recurso inominado, a autarquia previdenciária foi declarada parte ilegítima, ou seja, foi excluída do polo passivo da demanda, mantendo-se, no mais, a sentença.
+Na fase de cumprimento de sentença, o Juízo federal entendeu que não se mostrava mais presente hipótese de competência da Justiça Federal, na forma do art. 109, I, da Constituição Federal, razão pela qual declinou da competência e determinou a remessa dos autos ao Juízo estadual (fls. 217-218).
+O STJ já decidiu sobre a matéria e concluiu que a interpretação do art. 516, II, do CPC indica que a competência para executar o título executivo judicial pertence ao j uízo que proferiu a decisão em primeira instância, que, no caso dos autos, é o Juízo federal.
+Nesse sentido: CC n. 175.883/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2022, DJe de 26/8/2022. Também a seguinte decisão monocrática: CC n. 207.814/PR, Ministro Marco Buzzi, julgado em 28/3/2025, DJEN de 1º/4/2025.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO FEDERAL DO JUIZADO ESPECIAL ADJUNTO DE MURIAÉ (SJMG), o suscitado.
+Publique-se. Intimem-se.
+EMENTA
