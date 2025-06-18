@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  ALEX CRISTIANO DE SOUZA  apontando  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS  (Apelação  n.  1.0079.18.009325-8/001).
+Depreende-se  dos  autos  que  o  Tribunal  de  origem  condenou o paciente, como incurso nas sanções sanções do art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, c/c o art. 61, inciso I, do Código Penal, à pena de 8 anos, 6 meses e 2 dias de reclusão, no regime inicial fechado, e a 767 dias-multa; e a corré Janaína, como incursa nas sanções do art. 33, caput, c/c o § 4º, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, c/c o art. 65, inciso III, d, do CP, à pena de 1 ano, 11 meses e 10 dias de reclusão, no regime inicial aberto, e a 194 dias-multa (e-STJ fls. 13/28).
+A defesa interpôs apelação. O  Tribunal  de  origem  negou provimento ao recurso ,  nos  termos  do  acórdão  assim  ementado  (e-STJ  fl. 6):
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE DROGAS MAJORADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - DEPOIMENTO DE AGENTES PENITENCIÁRIOS PRESTADOS SOB O CRIVO DO CONTRADITÓRIO - VALOR PROBANTE - REDUÇÃO DA PENA-BASE - IMPOSSIBILIDADE - ACUSADO COM MAUS ANTECEDENTES - "QUANTUM" JUSTO E RAZOÁVEL - ISENÇÃO DO PAGAMENTO DAS CUSTAS - IMPOSSIBILIDADE - DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI ESTADUAL Nº 14.939/03 PELO ÓRGÃO ESPECIAL DO TJMG - MANUTENÇÃO DA SUSPENSÃO DO PAGAMENTO NA FORMA DO ART. 98 DO NOVO CÓDIGO DE PROCESSO CIVIL. - Não há que se falar em absolvição se o material incriminatório constante dos autos é robusto, apresentando-se apto a ensejar a certeza autorizativa para o juízo condenatório pela prática do delito de tráfico de drogas. - A palavra firme e coerente de agentes penitenciários é reconhecidamente dotada de valor probante, prestando-se à comprovação dos fatos narrados na denúncia sempre que isenta de qualquer suspeita e em harmonia com o conjunto probatório apresentado. - Tratando-se de acusado com maus antecedentes e restando a pena-base fixada em "quantum" justo e razoável, não há falar em redução. - A Lei Estadual nº 14.939/03 foi declarada inconstitucional pelo Órgão Especial deste egrégio Tribunal de Justiça, na Arguição de Inconstitucionalidade nº 1.0647.08.088304-2/002, publicada em 23/10/2015, restando a matéria, atualmente, regulada pelo art. 98 do Novo Código de Processo Civil, que, de forma supletiva (art. 3º do Código de Processo Penal), passou regulá-la, diante da revogação expressa da Lei 1.060/50 pelo art. 1.072 do Novo Código de Processo Civil.
+Daí  o  presente  writ,  no  qual  a  defesa  postula a absolvição do paciente,  aduzindo que  "a mera solicitação ou tentativa frustrada, sem o recebimento efetivo da substância pelo destinatário, não configura o tipo penal do tráfico de drogas, por se tratar, no máximo, de ato preparatório impunível"  (e-STJ  fl.  3).
+Dessa  forma,  requer,  liminarmente e no mérito, a  concessão  da  ordem  "para cassar o acórdão condenatório do TJMG e reconhecer a atipicidade da conduta imputada ao paciente, com base no art. 33 da Lei 11.343/06 e no TEMA 506 do STF"  (e-STJ  fl.  5 6).
+Foi indeferida a liminar e requisitadas informações (e-STJ fls. 43-44).
+Apresentadas informações (e-STJ fls. 52-64 e 70-130).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 133-140).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. ROUBO EM CONCURSO FORMAL. NÃO CONFIGURAÇÃO DE CRIME ÚNICO. PLURALIDADE DE VÍTIMAS. DISTINÇÃO PATRIMONIAL. CONSUMAÇÃO. SÚMULA N. 582/STJ. DOSIMETRIA DA PENA. PENA-BASE. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substituto de recurso próprio, conforme prevê a sistemática recursal, sendo cabível o recurso ordinário constitucional contra acórdão que denega a ordem no habeas corpus, nos termos do artigo 105, II, "a", da Constituição Federal.
+2. Incabível o acolhimento da tese defensiva de crime único, já que foram atingidos patrimônios distintos pertencentes a vítimas diversas, independentemente de serem membros da mesma família.
+3. O crime de roubo se consuma com a inversão da posse do bem mediante violência ou grave ameaça, ainda que por breve tempo, sendo prescindível a posse mansa e pacífica ou desvigiada, conforme inteligência da Súmula 582 do STJ.
+4. A dosimetria da pena foi fixada dentro dos parâmetros legais, observando-se as circunstâncias concretas e os critérios de individualização da reprimenda penal, não havendo ilegalidade flagrante ou desproporcionalidade que justifique a intervenção desta Corte.
+5. Agravo regimental não provido.
+(AgRg no HC n. 944.798/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PEQUENA QUANTIDADE DE DROGAS (18 PORÇÕES DE MACONHA, 4 DE CRACK E 13 DE COCAÍNA IMPETRAÇÃO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO OU REVISÃO CRIMINAL. CONCESSÃO DE ORDEM DE OFÍCIO. REVOGAÇÃO DA PRISÃO PREVENTIVA. FIXAÇÃO DE MEDIDAS CAUTELARES. I. CASO EM EXAME
+1. Habeas corpus impetrado em substituição a recurso próprio ou revisão criminal, questionando a prisão preventiva decretada contra o paciente. Pedido subsidiário de concessão de ordem de ofício em razão de flagrante ilegalidade. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus é cabível como substituto de recurso próprio ou revisão criminal; (ii) analisar se há flagrante ilegalidade que justifique a concessão da ordem de ofício. III. RAZÕES DE DECIDIR
+3. Conforme entendimento consolidado no Superior Tribunal de Justiça e no Supremo Tribunal Federal, o habeas corpus não pode ser utilizado como substituto de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade que gerem constrangimento ilegal.
+4. A prisão preventiva só deve ser mantida quando houver elementos concretos que justifiquem sua necessidade, nos termos dos arts. 282, § 6º, e 312 do CPP. A simples gravidade do crime ou a garantia abstrata da ordem pública não bastam.
+5. A superlotação carcerária e a banalização da prisão preventiva foram reconhecidas como problemas estruturais pelo STF na ADPF 347, devendo ser priorizada a aplicação de medidas cautelares diversas da prisão sempre que possível.
+6. No caso concreto, pela pequena quantidade de drogas encontrada com o paciente, a manutenção da prisão preventiva se revela desproporcional e não justificada por elementos individualizados que demonstrem a necessidade da custódia cautelar.
+IV - HABEAS CORPUS NÃO CONHECIDO. ORDEM CONDEDIDA DE OFÍCIO.
+(HC n. 856.233/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.)
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, como no caso.
+Senão, vejamos.
+Extrai-se dos autos que durante procedimento de revista na corré, cadastrada como visitante do paciente no presídio em que este se encontrava, com o equipamento body scan, foi apreendida certa quantidade de entorpecentes (maconha e cocaína), drogas trazidas na região pélvica de Janaína, que foram reconhecidas como destinadas ao detento ALEX, em troca do pagamento de R$1.000,00 (mil reais).
+O Tribunal a quo, ao analisar a questão, assim consignou (e-STJ fls. 7-8):
+A materialidade delitiva encontra-se comprovada nos autos pelo boletim de ocorrência de f. 08/09, auto de apreensão de f. 10, laudos de constatação preliminar de drogas de f. 16/17 e laudos toxicológico definitivo de f. 27/28 e 30/31.
+A autoria do apelante, igualmente, mostra-se induvidosa, notadamente pela oral produzida. Vejamos.
+O acusado, na DEPOL (f. 45/46), fez uso do direito de permanecer em silêncio. Em juízo (mídia de f. 133) afirmou que a corré Janaina era sua amiga e estava cadastrada como visitante na penitenciária e ofereceu para que ela levasse itens de uso pessoal para um colega de cela, que estava há muito tempo sem receber visitas. Relatou que antes de Janaína ser presa ela foi à penitenciária levar bens para esse colega de cela, contudo não sabe o que era e não tem mais contato com a corré e nem com seu colega de cela. Asseverou que teme por represálias e não quis identificar o colega de cela.
+Janaína, ouvida apenas na DEPOL (f. 05), também fez uso do direito de permanecer em silêncio.
+Ocorre que a versão apresentada pelo acusado encontra-se frágil e isolada no contexto probatório dos autos.
+A agente penitenciária Jucirleide Valdina Silva Lopes afirmou que na data dos fatos estava operando o chamado "body scan" nos visitantes da penitenciária, sendo que com a corré Janaína foi constatada a presença de invólucros, ocasião em que a corré mostrou o material, que continha cocaína e maconha, sendo que ela estava cadastrada para visitar o acusado Alex Cristiano. Relatou que Janaína informou que receberia a quantia de mil reais para entregar a droga pro acusado (f. 02 e mídia de f. 133).
+No mesmo sentido encontram-se os depoimentos da agente penitenciária Elisangela de Souza Evangelista Gomes (f. 03 e mídia de f. 133).
+Com efeito, é assente na jurisprudência que a palavra firme e coerente de agentes penitenciários é dotada de valor probante, prestando-se à comprovação dos fatos narrados na denúncia sempre que isenta de qualquer suspeita e em harmonia com conjunto probatório apresentado, conforme ocorreu in casu.
+Vale ressaltar que os depoimentos transcritos alhures possuem presunção juris tantum no sentido de que os agentes penitenciários atuam idoneamente, não estando impedidos de depor sobre atos de ofício de que tenham participado, máxime quando suas palavras foram ouvidas em juízo, sob o crivo do contraditório, e tenham ressonância na prova coligida nos autos.
+Sobre o tema, é a jurisprudência deste e. Tribunal de Justiça:
+ ..
+No caso dos autos, nada há a desabonar os fidedignos depoimentos prestados pelas agentes penitenciárias, sob o crivo do contraditório, não tendo a defesa do acusado apresentado provas concretas que os desmereçam, ônus esse que lhe incumbia.
+Ressalte-se que para configuração do delito de tráfico de drogas, não é condition sine qua non seja o agente flagrado efetuando a comercialização da droga, a saber:
+"Para a caracterização do tráfico de entorpecente, irrelevante se torna o fato de que o infrator não foi colhido no próprio ato da venda da mercadoria proibida. Ademais, esse delito é de caráter permanente, consumando-se com a detenção do tóxico pelo agente para comercialização" (RT- 714/357).
+Ademais, a considerável quantidade e variedade de drogas apreendidas, quais sejam, 21g de maconha e 33g de cocaína, somada às demais circunstâncias do caso concreto, demonstra a finalidade mercantil da substância apreendida.
+Nesse contexto, tenho que, no caso em tela, o Ministério Público trouxe aos autos elementos suficientes para comprovar os fatos narrados na denúncia, enquanto o apelante não se desincumbiu de seu ônus, qual seja, comprovar as circunstâncias capazes de excluir a tipicidade, ilicitude ou culpabilidade do delito.
+Certo é que da análise conjugada dos elementos probatórios colhidos durante a persecução penal não há a dúvidas de que o apelante praticou efetivamente o crime previsto no art. 33, da Lei 11.343/06, não havendo, portanto, que se falar em absolvição ou em desclassificação para o delito previsto no art. 28, do mesmo diploma legal, conforme requerido pela defesa.
+Ressalte-se que o apelante não faz jus à causa especial de diminuição de pena, prevista no art. 33, §4º, da Lei 11.343/06, vez que ele é reincidente, nos termos da CAC de f. 169/171.
+Quanto à majorante prevista no art. 40, III, da Lei 11.343/06, tenho que restou devidamente comprovada, não havendo dúvidas de que o delito de tráfico foi praticado nas dependências da Penitenciária Nelson Hungria. Importante ressaltar que, para a aplicação da causa de aumento de pena em questão, não se faz necessário que o delito tenha por objetivo atingir especificamente os detentos do estabelecimento prisional, sendo suficiente que a sua prática se dê nas imediações ou dependências dos locais descritos no dispositivo legal e, desde que o agente tenha ciência disso, como ocorreu in casu.
+Com efeito, o delito descrito no art. 33, caput, da Lei n. 11.343/2006 é de ação múltipla (multinuclear) ou de conteúdo variado, bastando, para a sua consumação, a prática de qualquer uma das condutas descritas no preceito primário da norma (importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar).
+De acordo com o vaticínio da doutrina, consuma-se o crime com a prática de qualquer um dos núcleos trazidos pelo tipo, não se exigindo efetivo ato de tráfico (Luiz Flávio Gomes, em "Lei de Drogas Comentada", 2. ed., São Paulo: Revista dos Tribunais, 2007, p. 184).
+No caso ora em julgamento, não há como imputar ao paciente qualquer conduta que possa configurar o início do iter criminis do delito de tráfico de drogas, não obstante possa ter solicitado à sua amiga a entrega da droga no interior do presídio em que se encontrava recolhido.
+A jurisprudência desta Corte Superior firmou-se no sentido de que a mera solicitação de drogas, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura ato preparatório, sendo, portanto, impunível em razão da atipicidade de sua conduta, dada a inexistência de comprovação da consumação da posse ou propriedade sobre a droga.
+A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que absolveu o recorrente da prática do crime de tráfico de drogas, com base no art. 386, VII, do Código de Processo Penal.
+2. O Tribunal de Justiça do Estado de São Paulo manteve a condenação do recorrente por tráfico de drogas com fundamento nos depoimentos dos agentes penitenciários e no auto de apreensão, apesar da negativa de autoria pelo acusado.
+3. As decisões anteriores. Recurso de apelação interposto pela defesa foi improvido. Em sede de recurso especial, a defesa alegou insuficiência das provas acusatórias e pleiteou a desclassificação para porte de drogas para consumo pessoal, além de outras medidas. O recurso especial foi inadmitido pelo TJ-SP com base na Súmula n. 7 do STJ.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação por tráfico de drogas pode ser mantida com base em provas insuficientes, sem comprovação da efetiva posse ou propriedade sobre a droga.
+III. Razões de decidir
+5. A condenação por tráfico de drogas requer provas seguras da efetiva aquisição e posse do entorpecente, não bastando indícios de solicitação de remessa postal de drogas ao presídio.
+6. A mera solicitação de drogas configura ato preparatório e, por conseguinte, é impunível, não havendo comprovação da consumação da posse ou propriedade sobre a droga.
+7. A responsabilização penal objetiva é inadmissível no ordenamento jurídico pátrio, sendo imperativa a absolvição do recorrente pela atipicidade de sua conduta.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A condenação por tráfico de drogas requer provas seguras da efetiva posse ou propriedade sobre o entorpecente.
+2. A mera solicitação de remessa postal de drogas configura ato preparatório e é impunível. 3. A responsabilização penal objetiva é inadmissível no ordenamento jurídico pátrio".
+Dispositivos relevantes citados: CPP, art. 386, VII; Lei nº 11.343/2006, art. 33.Jurisprudência relevante citada: STJ, AgRg no HC 745890/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j.
+21.06.2022; STJ, AgRg no HC 782812/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 17.04.2023.
+(AgRg no AREsp n. 2.791.847/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.) Grifo próprio.
+DIREITO PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO. HABEAS CORPUS SUBSTITUTIVO. CONCESSÃO DA ORDEM DE O FÍCIO. ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus substitutivo, mas concedeu a ordem de ofício para absolver o agravado da prática do crime previsto no art. 33 da Lei nº 11.343/2006.
+2. O Ministério Público Federal, como agravante, alega que a decisão que concedeu habeas corpus ao paciente, absolvendo-o do crime de tráfico de entorpecentes, é equivocada, pois desconsidera as provas constantes nos autos que demonstram a prática do crime.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a mera solicitação de entorpecente, sem a efetiva entrega ao destinatário no estabelecimento prisional, configura ato preparatório impunível, caracterizando a atipicidade da conduta.
+III. Razões de decidir
+4. A jurisprudência desta Corte Superior firmou-se no sentido de que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura mero ato preparatório, sendo, portanto, impunível em razão da atipicidade da conduta.
+5. Interceptada a droga antes da entrega ao paciente, não há como imputar-lhe qualquer ato descrito no art. 33, caput, da Lei de Drogas.
+IV. Dispositivo 6. Agravo regimental não provido.
+(AgRg no HC n. 957.919/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.) Grifo próprio.
+Desse modo, interceptada a droga antes da entrega ao paciente, não há como imputar-lhe qualquer ato descrito no art. 33 da Lei de drogas.
+Ante o exposto, não conheço da ordem, mas concedo o habeas corpus de ofício para absolver o paciente da prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Comunique-se às instâncias ordinárias, com prioridade.
+EMENTA
