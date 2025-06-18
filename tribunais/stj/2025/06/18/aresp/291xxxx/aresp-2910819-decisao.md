@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KIRTON BANK S.A. - BANCO MÚLTIPLO contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do Código de Processo Civil.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO em agravo de instrumento interposto nos autos de Ação Civil Pública movida pelo IDEC/SP em face do Banco Bamerindus do Brasil S/A (ACP n. 583.00.1993.808239-4), em fase de Cumprimento de Sentença.
+O julgado foi assim ementado (fl. 153):
+RECURSO DE AGRAVO DE INSTRUMENTO - PRELIMINAR - NULIDADE - FALTA DE FUNDAMENTAÇÃO - REJEITADA - CUMPRIMENTO DE SENTENÇA - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - PERCENTUAL DO PLANO INFLACIONÁRIO - APURAÇÃO - DIFERENÇA DE SALDO DE POUPANÇA - PLANO VERÃO - IMPUGNAÇÃO ACOLHIDA EM PARTE - LIQUIDAÇÃO DE SENTENÇA - PROCEDÊNCIA - HOMOLOGAÇÃO - CÁLCULO APURADO PELO PERITO CONTÁBIL NOMEADO - EMBARGOS DE DECLARAÇÃO - REJEITADOS - AUSÊNCIA DE OMISSÃO - INCONFORMISMO - IRREGULARIDADE DE REPRESENTAÇÃO - NÃO VERIFICADA - NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA - NÃO EVIDENCIADA - FLUÊNCIA DE JUROS E CORREÇÃO MONETÁRIA - MATÉRIA NÃO RELACIONADA COM DECRETAÇÃO DE LIQUIDAÇÃO DO ANTIGO BANCO DEVEDOR - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+1. No que concerne à necessidade de apresentação de comprovante de residência, importa ressaltar que o § 2º do art. 319 do CPC assevera que "a petição inicial não será indeferida, a despeito da falta de informações a que se refere o inciso II, for possível a citação do réu".
+2. Por se tratar de processo que já tramita pelo rito da liquidação de sentença, ao caso não se aplica o Tema 1.169 do Superior Tribunal de Justiça, inclusive porque já conta com a realização de perícia contábil, cujo cálculo foi homologado, não existindo, de fato, razões para aguardar o julgamento que define a necessidade ou não de prévia liquidação de sentença.
+3. Acerca da incidência de correção monetária sabe-se que não se traduz em acréscimo material ao débito principal, mas mera recomposição do valor real em face da corrosão inflacionária de determinado período, é cabível, na fase de execução individual, a inclusão dos expurgos posteriores, embora não contemplados pela sentença, a título de correção monetária plena. Ressalte-se que o Superior Tribunal de Justiça bem esclareceu a questão ao julgar o REsp repetitivo nº 1.392.245-DF, e no REsp repetitivo 1314478- RS.
+Os embargos de declaração opostos foram parcialmente acolhidos nos termos da seguinte ementa (fl. 247):
+RECURSOS DE EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - ERRO MATERIAL - CONSTATADO - RETIFICAÇÃO NECESSÁRIA - ALEGAÇÃO DE OBSCURIDADE, OMISSÃO E CONTRADIÇÃO - VÍCIOS - NÃO VERIFICADOS - MATÉRIA CLARAMENTE APRECIADA NO ACÓRDÃO RECORRIDO - REDISCUSSÃO - INCABÍVEL PELA ESTREITA VIA DOS ACLARATÓRIOS - ACOLHIDOS EM PARTE OS DECLARATÓRIOS DO BANCO - REJEITADOS OS EMBARGOS DE DECLARAÇÃO DA AUTORA.
+Os embargos declaratórios são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria ter se pronunciado o Juiz ou Tribunal de ofício ou a requerimento ou ainda para corrigir erro material (artigo 1.022 do Código de Processo Civil).
+Constatado o erro material arguido, merece acolhimento os declaratórios a fim de sanar o vício.
+Para efeito de prequestionamento, cumpre ao julgador apenas a fundamentação adequada à decisão, não sendo, pois, indispensável a apreciação de todos os argumentos ou dispositivos legais invocados pela parte.
+Não havendo qualquer omissão, obscuridade ou contradição, a ser sanado na decisão recorrida, impõe-se o não provimento do recurso de embargos de declaração.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil. Alega, em suma, que houve omissão na análise da coisa julgada que se formou no tocante a não incidência de juros remuneratórios, e que os acórdãos recorridos padecem de fundamentação deficiente, pois não abordaram de forma completa e específica pontos essenciais, especialmente a alegação de ausência de documentos pessoais e certidões de óbito dos poupadores falecidos, o que impede a comprovação de legitimidade dos representantes dos espólios.
+Requer o provimento do recurso para o fim de ser decretada a nulidade dos acórdãos recorridos e, por consequência, a determinação de suprimento dos vícios apontados.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Da violação dos arts. 489, § 1º, IV, e 1.022, I e II, do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal de origem expôs, de forma explícita, que o cálculo homologado na origem foi realizado nos moldes determinados na sentença proferida na ação civil pública, com base nos parâmetros determinados nos próprios autos.
+Confiram-se trechos do acórdão dos aclaratórios (fls. 241-242, destaquei):
+Quanto à suposta obscuridade, omissão e contradição, sem razão o embargante.
+Nesse sentido, diz que o agravo foi interposto contra a decisão que homologou os cálculos do Contador Judicial, que no seu entendimento foram realizados em desconformidade com o decidido nos autos, tendo supostamente incluído indevidamente juros remuneratórios. (..)
+Quanto à homologação do cálculo, que insiste o embargante deve ser revista, tenho que não deve prevalecer.
+Com efeito, o cálculo foi realizado exatamente nos moldes determinados na sentença proferida na ação civil pública, inexistindo qualquer irregularidade na apuração realizada.
+Nesse contexto, descabida a rejeição dos cálculos quando realizados nos exatos parâmetros determinados nos autos.
+Diante disso, no que tange à homologação do cálculo, não merece reparo a decisão agravada.
+Outrossim, o Tribunal a quo expôs, explicitamente, que a apresentação de comprovante de residência dos credores/apelados não é pressuposto jurídico, bastando a mera menção na peça de ingresso. Ademais, o Tribunal de origem asseverou, expressamente, que não se apurou a existência de vício na representação processual das partes, indicando, ainda, a regularidade da sucessão processual quanto aos espólios.
+A propósito, confiram-se os seguintes trechos do acórdão do agravo de instrumento e dos aclaratórios, respectivamente (fls. 136 e 241, destaquei):
+No tocante à alegação de irregularidade de representação processual dos requerentes, entendeu o Juízo singular não ser pressuposto jurídico a apresentação de comprovante de residência dos credores/apelados, bastando apenas a menção deles na peça de ingresso.
+Apesar dos argumentos do agravante, importa ressaltar que o § 2º do art. 319 do CPC assevera que "a petição inicial não será indeferida, a despeito da falta de informações a que se refere o inciso II, for possível a citação do réu".
+ ..
+Defende que evidente a irregularidade na representação processual das partes, sob o argumento de ausência de documentos pessoais de todos os agravados e irregularidade na representação dos Espólios (Genez Correa, Adilson Coutinho Bow, Ascendina Paulo de Lima, Luiz Roberto Vasconcelos, Sadi Sh mitz e Simplicio Goulart de Figueiredo).
+No tocante à alegação de irregularidade na representação processual das partes, não merece prosperar, tendo em vista que a decisão recorrida analisou a questão e rejeitou os argumentos do agravante, ora embargante.
+Portanto, não se apura a existência de qualquer vício, mas somente o inconformismo do banco embargante.
+Justifica-se que, da detida análise dos autos originários, apura-se que as partes se encontram devidamente representadas, estando regular a sucessão processual no caso dos espólios.
+E, da mesma forma, como entendido pelo Juízo singular, não se nota requisito ou pressuposto jurídico a apresentação de comprovante de residência dos credores/apelados, bastando apenas a menção deles na peça de ingresso.
+Assim, "não se reconhecem a omissão e negativa de prestaçãojurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
