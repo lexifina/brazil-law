@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ LENALDO contra acórdão proferido por órgão colegiado do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado a 13 anos e 4 meses de reclusão, em regime inicial fechado, como incurso no art. 121, §2º, incisos I, IV e VI, §2º-A, inciso I, na forma do art. 14, inciso II, ambos do Código Penal contra a sua ex-companheira (e-STJ fl. 7).
+No presente writ, a defesa alega que o paciente é pessoa idônea, de bons antecedentes, trabalhador, com residência fixa e comportamento adequado. Sustenta que, durante a instrução processual, ficou demonstrado que o paciente não agiu com intenção de matar. Argumenta que a agressão foi iniciada pela vítima, de quem retirou uma faca, vindo a atingi-la de forma acidental ao tentar se defender.
+Defende que, embora haja condenação com trânsito em julgado, o cumprimento da pena em regime fechado é desnecessário, podendo ser substituído por medidas cautelares diversas da prisão, nos moldes do art. 319 do Código de Processo Penal, especialmente os incisos I a V. Ressalta que, em situações anteriores, o paciente cumpriu integralmente e com rigor todas as obrigações que lhe foram impostas, o que evidencia a desnecessidade da prisão.
+Cita ainda jurisprudência do Supremo Tribunal Federal (HC 180230/PI, Rel. Min. Rosa Weber), no sentido de que a prisão preventiva apenas se justifica quando as medidas cautelares não forem suficientes para atender ao fim a que se destinam, devendo estar fundamentada em dados concretos e contemporâneos. Destaca que a restauração da prisão só se legitima quando houver novas razões que a sustentem, conforme preceitua o art. 316 do Código de Processo Penal.
+Diante disso, requer o conhecimento do presente habeas corpus, com a concessão da ordem, a fim de substituir a prisão por medidas cautelares diversas, previstas no art. 319, incisos I a V, do Código de Processo Penal.
+É o relatório. Decido.
+De início, constata-se que não foi juntada aos autos cópia do decreto preventivo nem do acórdão impugnado , inviabilizando o exame completo dos fundamentos da custódia.
+É de se ressaltar que o rito do habeas corpus, assim como do respectivo recurso ordinário, pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+A propópsito, confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência dessa Corte, "a prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental." (AgRg no REsp 1.322.181/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. In casu, não foi juntado, aos autos, o inteiro teor do acórdão proferido em sede de apelação, o qual é imprescindível para a análise da impetração, não foram juntadas aos presentes autos.
+4 . Agravo regimental não provido.
+(AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE CÓPIA DO ARESTO PROFERIDO PELA CORTE ESTADUAL QUE ENFRENTOU A QUESTÃO. INSTRUÇÃO DEFICIENTE. ACÓRDÃO ACOSTADO NÃO CONHECEU DA IMPETRAÇÃO ORIGINÁRIA, NESTE PONTO, POR SE TRATAR DE REITERAÇÃO DE PEDIDO. ACÓRDÃO ANTERIOR NÃO ACOSTADO AOS AUTOS. RECURSO DESPROVIDO.
+1. Embora impetrado por advogado legalmente constituído, o mandamus está deficientemente instruído, tendo em vista que não há nos autos cópia do acórdão referente ao HC n. 5618921-46.2020.809.0000 no qual o Tribunal estadual avaliou a fundamentação do decreto prisional.
+2. A manutenção da custódia, em observância ao disposto no art. 316, parágrafo único, do Código de Processo Penal, apenas sinalizou persistirem os motivos ensejadores da medida, providência que encontra respaldo na jurisprudência desta Corte Superior, não havendo necessidade de apresentação de nova linha de fundamentação exaustiva. Precedentes.
+3. Agravo desprovido.
+(AgRg no HC n. 702.560/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/2/2022, DJe de 18/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADES. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente o inteiro teor do acórdão hostilizado - a saber, relatório, ementa e voto(s) -, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 770.978/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO RECORRENTE. PRECEDENTES.
+1. Consideradas as circunstâncias de que os embargos opostos têm mero propósito infringente - o que não é admitido pela Jurisprudência - e de que se mostra possível a aplicação do princípio da fungibilidade na espécie, o recurso deve ser recebido como agravo regimental.
+2. O regimental não merece ser provido, pois, a despeito dos argumentos lançados pelo agravante, não houve a juntada da decisão faltante, qual seja, a decisão que decretou, originariamente, a prisão preventiva.
+3. Como se sabe, o rito do habeas corpus - e do recurso ordinário em habeas corpus - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente (precedentes), o que não ocorreu no caso vertente (HC n. 541.104/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020).
+4. Embargos de declaração recebidos como agravo regimental. Agravo regimental improvido.
+(EDcl no RHC n. 169.907/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+Ante o exposto, com base no art. 34, XX, do RISJT, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
