@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO, AÇÃO COMINATÓRIA. SÚMULA N. 284 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação cominatória. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença negou provimento ao apelo. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso.
+II - Por meio da análise do recurso, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+IV - Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+V - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação cominatória. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença negou provimento ao apelo. No Superior Tribunal de Justiça, Trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso ."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Da Lei Federal ignorada pela Justiça Estadual
+Meritíssimo, a doutrina é mansa e pacífica no sentido de que radiação ionizante é aquela que tem energia suficiente para remover elétrons dos átomos, criando então os íons, ou seja, é o caso do césio-137 ou radio césio que é formado como um produto de fissão nuclear de urânio-235 e outros isótopos.
+ ..
+Do acórdão do STJ do ano de 2010 e ignorado pelo Estado de Goiás
+Também é sabido que o Estado de Goiás e a CNEN já foram condenados no âmbito do STJ, no ano de 2010, pela omissão na ocasião do acidente radioativo com o césio 137 em Goiânia/GO, vejamos:
+ ..
+Do caso idêntico e decidido favorável a outro trabalhador pelo Estado (Goiasprev) e pela Justiça Estadual
+Pela documentação acostada nos autos do RE é notório que o Estado de Goiás (Poderes executivo e judiciário, estadual e federal) tem decidido de forma controversa e insegura, os casos trazidos em comenta (pretensão do autor e caso piloto do radio acidentado Silvio Vasconcelos Nunes) as questões que evidenciam o acidente radioativo de Goiânia/GO, ocorrido no ano de 1987, e os servidores afetados pela radiação ionizante.
+ ..
+Da competência absoluta da 1ª Seção do STJ para julgar
+Senhores, considerando que o presente processo fora autuado como matéria de Direito Administrativo e outras matérias de Direito Público Militar, e conforme rege o Regimento Internos do STJ, em seu artigo 9º, § 1º, incisos II e XI, que diz:
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO, AÇÃO COMINATÓRIA. SÚMULA N. 284 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação cominatória. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença negou provimento ao apelo. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso.
+II - Por meio da análise do recurso, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+IV - Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Por meio da análise do recurso de Willian Silva Nogueira, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
