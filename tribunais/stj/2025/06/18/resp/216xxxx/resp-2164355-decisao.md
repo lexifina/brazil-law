@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA PAULA FRANCISCA PEDROSO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 100):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESPESAS CONDOMINIAIS. DECISÃO QUE REVOGOU A PENHORA DO IMÓVEL QUE ORIGINOU A DÍVIDA CONDOMINIAL EXECUTADA.
+RECURSO DO CONDOMÍNIO EXEQUENTE.
+DEFENDIDA A POSSIBILIDADE DE PENHORA DO IMÓVEL ALIENADO FIDUCIARIAMENTE, POR SE TRATAR A DÍVIDA CONDOMINIAL DE OBRIGAÇÃO DE NATUREZA PROPTER REM. ACOLHIMENTO. TESE FIRMADA PELO STJ NO JULGAMENTO DO RESP N. 2.059.278/SC. "A NATUREZA PROPTER REM SE VINCULA DIRETAMENTE AO DIREITO DE PROPRIEDADE SOBRE A COISA. POR ISSO, SE SOBRELEVA AO DIREITO DE QUALQUER PROPRIETÁRIO, INCLUSIVE DO CREDOR FIDUCIÁRIO, POIS ESTE, NA CONDIÇÃO DE PROPRIETÁRIO SUJEITO À UMA CONDIÇÃO RESOLUTIVA, NÃO PODE SER DETENTOR DE MAIORES DIREITOS QUE O PROPRIETÁRIO PLENO. EM EXECUÇÃO POR DÍVIDA CONDOMINIAL MOVIDA PELO CONDOMÍNIO EDILÍCIO É POSSÍVEL A PENHORA DO PRÓPRIO IMÓVEL QUE DÁ ORIGEM AO DÉBITO, AINDA QUE ESTEJA ALIENADO FIDUCIARIAMENTE, TENDO EM VISTA A NATUREZA DA DÍVIDA CONDOMINIAL, NOS TERMOS DO ART. 1.345 DO CÓDIGO CIVIL DE 2002" (MINISTRO RAUL ARAÚJO, QUARTA TURMA, J. 23/5/2023, DJE 12/9/2023).
+RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, alega a parte recorrente violação dos arts. 1.368-B, parágrafo único, do CC e 27, § 8º, da Lei n. 9.514/1997.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ, pois a penhora do imóvel alienado fiduciariamente é inviável, devendo recair apenas sobre os direitos aquisitivos do devedor fiduciante, conforme precedentes desta Corte.
+Requer o provimento do recurso para que seja reconhecida a ofensa aos artigos mencionados e ao dissídio jurisprudencial.
+Foram apresentadas contrarrazões às fls. 155-166.
+É o relatório. Decido
+A controvérsia diz respeito a ação de execução de título extrajudicial em que a parte autora pleiteou a penhora sobre a integralidade do imóvel gerador da dívida condominial, ainda que objeto de alienação fiduciária.
+A Corte estadual reformou a decisão monocrática, permitindo a penhora sobre a integralidade do imóvel, considerando a natureza propter rem da obrigação condominial.
+I - Da possibilidade de penhora sobre o imóvel alienado fiduciariamente
+A Segunda Seção do STJ, no Recurso Especial n. 1.929.926/SP, consolidou o entendimento de que, em execução por dívida condominial movida pelo condomínio edilício em que situado o imóvel alienado fiduciariamente, é possível a penhora do próprio imóvel que dá origem ao crédito condominial, tendo em vista a natureza propter rem da dívida, nos termos do art. 1.345 do Código Civil de 2002.
+Nesse contexto, quem responde pela dívida de condomínio é o imóvel. Não importa quem seja o dono, não importa quem seja o proprietário, o bem está vinculado ao pagamento, à satisfação da obrigação.
+A propósito, reproduzo a ementa do referido julgado:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE CONTRIBUIÇÕES CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. NATUREZA PROPTER REM DO CRÉDITO. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. PENHORA DO IMÓVEL. POSSIBILIDADE. RECURSO ESPECIAL IMPROVIDO.
+1. Em execução por dívida condominial movida pelo condomínio edilício em que situado o imóvel alienado fiduciariamente, é possível a penhora do próprio imóvel que dá origem ao crédito condominial, tendo em vista a natureza propter rem da dívida, nos termos do art. 1.345 do Código Civil de 2002.
+2. A natureza propter rem se vincula diretamente ao direito de propriedade sobre a coisa. Por isso, sobreleva-se ao direito de qualquer proprietário, inclusive do credor fiduciário, pois este, na condição de proprietário sujeito a uma condição resolutiva, não pode ser detentor de mais direitos que um proprietário pleno.
+3. Assim, o condomínio exequente deve promover também a citação do credor fiduciário, além do devedor fiduciante, a fim de vir aquele integrar a execução para que se possa encontrar a adequada solução para o resgate dos créditos condominiais, por ser, afinal, sempre do proprietário o dever de quitar o débito para com o condomínio, sob pena de ter o imóvel penhorado e levado a praceamento. Ao optar pela quitação da dívida, o credor fiduciário sub-roga-se nos direitos do exequente e tem regresso contra o condômino executado, o devedor fiduciante.
+4. As normas dos arts. 27, § 8º, da Lei 9.514/1997 e 1.368-B, parágrafo único, do Código Civil de 2002, reguladoras do contrato de alienação fiduciária de coisa imóvel, apenas disciplinam as relações jurídicas entre os respectivos contratantes, sem alcançar relações jurídicas diversas daquelas, nem se sobrepor a direitos de terceiros não contratantes, como é o caso da relação jurídica entre condomínio edilício e condôminos e do direito do condomínio credor de dívida condominial, a qual mantém sua natureza jurídica propter rem.
+5. Descabe isentar-se de suas inerentes obrigações o condômino credor fiduciário para, na prática, colocar sobre os ombros de terceiros, os demais condôminos alheios à contratação fiduciária, o ônus de suportar as despesas condominiais tocantes ao imóvel alienado fiduciariamente, quando o devedor fiduciante descumpre essa obrigação legal e contratual assumida perante o credor fiduciário. O acertamento, em tal contexto, como é mais justo e lógico, deve-se dar entre os contratantes: devedor fiduciante e credor fiduciário.
+6. Recurso especial improvido. (REsp n. 1.929.926/SP, relator Ministro Antonio Carlos Ferreira, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 12/3/2025, DJEN de 27/5/2025.)
+No mesmo sentido, confiram-se os seguintes precedentes: REsp n. 2.059.278/SC, relator Ministro Marco Buzzi, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2023, DJe de 12/9/2023; REsp n. 1.873.261, Ministro Raul Araújo, DJe de 4/6/2024; REsp n. 2.137.690, Ministro Raul Araújo, DJe de 2/5/2024; REsp n. 2.110.356, Ministra Maria Isabel Gallotti, DJe de 21/12/2023; e REsp n. 1.993.509, Ministro Antonio Carlos Ferreira, DJe de 6/11/2023.
+Por oportuno, ressalte-se que o Tema n. 1.266 do STJ, embora possua semelhante controvérsia na presente hipótese e não tenha sido julgado ao ser submetid o ao rito dos recursos repetitivos, não determinou a suspensão da tramitação de processos que tratem a questão.
+No caso, a Corte a quo entendeu que o imóvel, ainda que objeto de alienação fiduciária, poderia ser penhorado em sua integralidade. Confira-se trecho do voto condutor do acórdão do agravo de instrumento (fls. 95-96, destaquei):
+Impõe-se atentar, contudo, que em face desse novo entendimento do Superior Tribunal de Justiça, esta Câmara igualmente revisou o seu posicionamento, passando a entender possível a penhora do próprio imóvel gerador do débito, ainda que alienado fiduciariamente, dada a natureza propter rem da dívida condominial.
+ ..
+Desta forma, revejo meu posicionamento anterior para, adotando a nova orientação do STJ, permitir a penhora do imóvel, dada a natureza da dívida condominial em execução.
+Dessa forma, verifica-se que o acórdão recorrido está de acordo com o atual entendimento jurisprudencial do STJ, no sentido da possibilidade da penhora do próprio imóvel que dá origem ao débito condominial, ainda que alienado fiduciariamente.
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+II - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
