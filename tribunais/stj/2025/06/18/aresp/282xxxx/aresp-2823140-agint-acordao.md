@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS. PRETERIÇÃO RECONHECIDA. VIOLAÇÃO AO ART. 1.022, I, DO CPC/2015 NÃO CARACTERIZADA. AUSÊNCIA DE CONTRADIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado" (EDcl no AgInt nos EDcl na Rcl 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DE PARANAÍBA contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 581):
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS. PRETERIÇÃO RECONHECIDA. OFENSA AO ART. 1.022, I, DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE CONTRADIÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 587-594), o agravante reitera os argumentos acerca da violação ao art. 1.022, I, do CPC/2015.
+Sustenta que "há uma contradição interna no Acórdão Embargado, já que colaciona a jurisprudência de observância obrigatória do STF, porém deixa de realizar tal observância ao decidir pela transfiguração da expectativa de direito em um caso que não se enquadra na hipótese prevista no Tema 784, já que não houve criação de novas vagas puras durante a vigência do concurso público" (e-STJ, fl. 592).
+Pleiteia, ao final, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 599).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS. PRETERIÇÃO RECONHECIDA. VIOLAÇÃO AO ART. 1.022, I, DO CPC/2015 NÃO CARACTERIZADA. AUSÊNCIA DE CONTRADIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado" (EDcl no AgInt nos EDcl na Rcl 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão recorrida .
+Conforme consignado na decisão agravada, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte, não havendo falar em contradição.
+Veja-se (e-STJ, fl. 524 - sem grifo no original):
+De ver-se claramente que o embargante não se conforma com o resultado alcançado através do julgamento do recurso, travestindo a situação com roupagem de vício, sem, entretanto, nada trazer de modo a evidenciar a presença de mácula no acórdão recorrido. Digo isso porque a matéria trazida nestes embargos de declaração foi devidamente debatida e decidida de forma fundamentada nos seguintes termos:
+"(..) Conforme se infere do edital de chamamento público n. 001/2021, constante de f. 241-243, o ente público réu convocou aprovados no certame em questão para contratação temporária, disponibilizando 10 (dez) vagas para exercer as atribuições pertinentes ao cargo de professor de educação infantil, dentre os quais a autora. Ora, se foram nomeados, até o momento, os candidatos aprovados até a 48ª posição, existindo 10 (dez) vagas puras para o cargo para o qual a autora foi aprovada em 57ª colocação, obviamente a recorrente, mesmo aprovada fora do número de vagas previsto no edital, faz jus à nomeação, ante a manifesta preterição. Não havendo notícia de que tais contratações tenham sido realizadas em vagas de titulares em licença e/ou de férias, conclui-se que as contratações ocorreram de forma irregular."
+Se o recorrente pretende travar nova discussão sobre a matéria julgada, é necessário que se utilize da via adequada, que não é a dos embargos de declaração, recurso horizontal destinado exclusivamente para atender aos comandos do art. 1.022, CPC.
+Ressalte-se que, nos termos da jurisprudência do Superior Tribunal de Justiça, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado" (EDcl no AgInt nos EDcl na Rcl 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+Desse modo, ainda que a solução tenha sido contrária à pretensão da parte insurgente, não se pode negar que houve, por parte do Tribunal de origem, efetivo enfrentamento e resposta aos pontos controvertidos, ausente qualquer contradição no julgado combatido, configurando, em verdade, mero inconformismo da parte com a decisão recorrida.
+A propósito:
+IMPROBIDADE ADMINISTRATIVA. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Caso no qual a recorrente se limita a tecer críticas ao julgado, cujos fundamentos e conclusão, a seu ver, se mostram equivocados, e a apontar contradição entre o acórdão impugnado e a jurisprudência da Corte.
+3. Os embargos de declaração constituem recurso de fundamentação vinculada, em cujos limites não cabe a pretensão de reformar o julgado vergastado, em razão da presença de eventual erro de julgamento.
+4. Nos termos da jurisprudência desta Corte, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado" (EDcl no AgInt nos EDcl na Rcl 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+5. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e contradição no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.457.106/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/2/2025, DJEN de 17/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CONTRATO DE FORNECIMENTO DE ENERGIA ELÉTRICA. LIQUIDAÇÃO DE SENTENÇA. PRAZO PRESCRICIONAL DECENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui a omissão suscitada pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1022 do CPC/2015.
+2. O Tribunal de origem apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais, existindo mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do CPC/2015.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.601.514/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+Assim , tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
