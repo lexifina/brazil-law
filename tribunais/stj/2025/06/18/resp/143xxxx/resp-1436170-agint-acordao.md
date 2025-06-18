@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  O art. 84, I, da Lei 8.981/1995, com redação dada pelo art. 13 da Lei 9.065/1995, não foi objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. Quanto à alegada divergência jurisprudencial, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido objeto de dissídio, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284 do STF.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por CRISTINA NUNES DE SOUZA contra  a  decisão  que  não conheceu  do recurso especial, pela incidência das Súmulas 282, 284 e 356 do STF.
+Alega  a  parte agravante,  preliminarmente, violação ao princípio da colegialidade, sustentando, em síntese, que "o julgado adentrou na discussão do mérito com o fim de negar seguimento ao Recurso Especial já admitido pelo Tribunal Regional Federal da 4ª Região" (fl. 322).
+Sustenta, ainda, que "o art. 84, I, da Lei n. 8.981/95, in verbis, foi objeto ao longo de todo o processo, tendo sido analisado em todas as decisões, uma vez que é a cerne do presente caso" (fl. 323).
+Conclui, portanto, aduzindo que:
+Ora, a questão da não incidência de juros de mora nas parcelas de imposto de renda é o tema principal do recurso especial interposto, e admitido na origem (Evento 24 na origem / e-STJ Fl.292), tendo a agravante apresentado sólidas razões recursais.
+Assim, é cristalina a necessidade de o mérito do Recurso Especial ser apreciado pela Colenda Turma Julgadora, garantindo-se à recorrente o julgamento colegiado que lhe é de direito, permitindo que todos os Ministros possam, efetivamente, conhecer a matéria questionada (fl. 326).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  O art. 84, I, da Lei 8.981/1995, com redação dada pelo art. 13 da Lei 9.065/1995, não foi objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. Quanto à alegada divergência jurisprudencial, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido objeto de dissídio, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284 do STF.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+Inicialmente, cumpre analisar a preliminar levantada no recurso.
+Alega a recorrente nulidade da decisão sob o fundamento de violação ao princípio da colegialidade. Segundo a recorrente, "o julgado adentrou na discussão do mérito com o fim de negar seguimento ao Recurso Especial já admitido pelo Tribunal Regional Federal da 4ª Região" (fl. 322).
+Sem razão.
+O art. 255, § 4º, I, do RISTJ, estabelece que compete ao relator "não conhecer do recurso especial inadmissível, prejudicado ou que não tiver impugnado especificamente os fundamentos da decisão recorrida". Dessa forma, não há violação ao princípio da colegialidade pelo fato de o relator, ao examinar o apelo extremo, não conhecer do recurso especial quando este não ultrapassa a barreira de sua admissibilidade. No presente caso, a admissibilidade do recurso foi obstada em razão da ausência de prequestionamento da matéria recursal.
+Além disso, cumpre ressaltar que o juízo de admissibilidade exercido pelo Tribunal de origem não vincula o Superior Tribunal de Justiça. Com efeito, "o exame de admissibilidade realizado pela Corte local não vincula o STJ, que possui competência para verificar novamente a existência dos pressupostos dos recurso dirigidos à Corte Superior (AgInt no AREsp n. 1.973.028/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+Superadas essas questões, o agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Na jurisprudência desta Corte, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispos itivos legais apontados como contrariados, interpretando-se a sua aplicação ou não ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, o art. 84, I, da Lei 8.981/1995, com redação dada pelo art. 13 da Lei 9.065/1995, não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+No mais, cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, de fato, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido objeto de dissídio jurisprudencial, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido, "o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo supostamente objeto de interpretação divergente. Incidência da Súmula 284 do STF, aplicável por analogia" (AgInt no REsp 2.038.687/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024).
+Isso posto, nego provimento ao recurso.
