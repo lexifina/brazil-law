@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO GENÉRICA. GRAVIDADE ABSTRATA DO DELITO. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+2. Além da mera narração da conduta praticada, o Magistrado de origem se reportou a fatores que se adaptariam a qualquer crime de tráfico de drogas, sem nomear elementos específicos à hipótese em comento, capazes de justificar a segregação provisória.
+3. É inidônea a fundamentação do decreto prisional lastreado tão somente no caráter deletério da ação supostamente praticada, sem, contudo, indicar concretamente o risco à ordem pública.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 295-297, em que estendi aos corréus João Gabriel de Paula Santos, Jonathan William Mariano e Rodolfo Fabricio dos Santos os efeitos da ordem concedida ao paciente Luiz Carlos Roberto Gomes para revogar a prisão preventiva.
+Em suas razões, o Parquet reitera as alegações do recurso interposto contra a decisão que concedera a ordem ao corréu Luiz Carlos e afirma que as particularidades do caso em apreço, como a quantidade de droga apreendida e os antecedentes dos acusados, justificam a segregação cautelar.
+Sustenta que: "Conquanto possa até existir similitude fática entre as situações dos ora agravados e a que ensejou a revogação da prisão preventiva do corréu Luiz Carlos Roberto Gomes, não caberia o deferimento, em decisão monocrática, dos pedidos de extensão requeridos pelos ora agravados antes do julgamento da matéria de forma definitiva pelo órgão colegiado deste STJ" (fl. 355).
+Requer seja reconsiderada a decisão ou submetido o feito ao órgão colegiado, a fim de que seja restabelecida a prisão cautelar dos acusados.
+EMENTA
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO GENÉRICA. GRAVIDADE ABSTRATA DO DELITO. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+2. Além da mera narração da conduta praticada, o Magistrado de origem se reportou a fatores que se adaptariam a qualquer crime de tráfico de drogas, sem nomear elementos específicos à hipótese em comento, capazes de justificar a segregação provisória.
+3. É inidônea a fundamentação do decreto prisional lastreado tão somente no caráter deletério da ação supostamente praticada, sem, contudo, indicar concretamente o risco à ordem pública.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+A prisão preventiva dos acusados foi decretada pelo Juiz de primeiro grau com amparo na seguinte fundamentação (fls. 35-36):
+ ..  Há provas da existência do crime (inclusive de sua materialidade, evidenciada pelo laudo de constatação provisória de substância entorpecente), e indícios suficientes de autoria. Considerações acerca da capitulação do delito se mostram impertinentes nesta fase procedimental. Com efeito, verifica-se que os indiciados foram abordados em razão de denúncia anônima relacionada à prática de tráfico de drogas, o que ensejou expedição de mandado de busca e apreensão, cuja diligência foi frutífera, constatando-se que em poder dos envolvidos havia quantidade significativa de entorpecentes, de qualidades diversas, embalados caracteristicamente a evidenciar destinação ao tráfico ilícito; o depoimento dos policiais envolvidos na ocorrência são coesos e determinantes a evidenciar a conduta ilícita que ensejou o ato flagrancial; além disso, tratam-se de vários agentes, todos confessos, sendo a maioria deles egressos do sistema, sem comprovação de ocupação lícita. A pena máxima prevista em abstrato para o crime em tese praticado torna admissível a decretação da prisão preventiva. Em que pesem as alegações defensivas, todas essas circunstâncias demonstram a inviabilidade de se conceder liberdade provisória, e mesmo de impor as medidas cautelares preconizadas no art. 319 do Código de Processo Penal, as quais se mostram insuficientes e inadequadas à hipótese, fazendo-se necessária a manutenção da custódia cautelar, cujos requisitos se fazem presentes. Nesse contexto, atendido o disposto no art. 312 e art. 313 do Código de Processo Penal, converto a prisão em flagrante em prisão preventiva, na forma do art. 310, inc. II do Código de Processo Penal.  ..
+Conforme afirmei na decisão monocrática, os autuados são acusados dos mesmos fatos e os fundamentos exarados no decreto prisional, em relação aos postulantes e ao paciente deste writ, são idênticos.
+Quanto à validade da prisão, a jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à segregação cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Com efeito, registrei na decisão agravada que os requerentes também tiveram a prisão preventiva decretada em razão da gravidade em abstrato do delito de tráfico de drogas. O decreto cautelar deixou de mencionar elemento individualizado que indicasse a necessidade de tutela da ordem pública ou a garantia da aplicação penal ou da instrução criminal e não fez alusão à quantidade de droga apreendida.
+A decisão fez uma descrição genérica do delito imputado, mas não apresentou nenhuma circunstância concreta dos autos que pudesse indicar o periculum libertatis dos agentes.
+A despeito da reprovabilidade social da conduta atribuída aos acusados - para os quais, demonstrada a imputação, será imposta correspondente e proporcional sanção penal -, reitero ser inidônea a fundamentação do decreto prisional lastreado tão somente no caráter deletério da ação supostamente praticada, sem, contudo, indicar concretamente o risco à ordem pública.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
