@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL FECHADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na exasperação da pena-base em 1/6, considerando a existência de condenações anteriores, cujo cumprimento ou extinção da pena não superou a 10 anos da data da infração posterior. Precedente.
+3. Impossibilidade de revisão da conclusão do acórdão hostilizado quanto à ausência de confissão, para incidir a atenuante da confissão, porque demandaria reexame probatório, inviável na via eleita.
+4. Ausência de ilegalidade na fixação do regime inicial fechado, dada a reincidência específica e a negativação dos antecedentes.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 407.599/2025) interposto por ORLANDO RODRIGUES CIDES contra a decisão da lavra deste Relator (fls. 92/94), em que indeferi liminarmente a impetração, a seguir ementada:
+PENAL. HABEAS CORPUS. USO DE DOCUMENTO FALSO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ para revisão da condenação imposta e mantida pelas instâncias ordinárias - alegando que o acórdão apresenta ilegalidades manifestas e desconformidade com o entendimento deste Egrégio Tribunal (fls. 101) - e, no mérito, ratifica os argumentos da impetração, pretendendo a revisão da dosimetria da pena, com o:
+a) afastamento da negativação dos antecedentes, pois os fatos ensejadores dessas anotações datam de 1987, 2003 e 2005, revelando, por si sós, a extrema antiguidade dos fatos ensejadores e a ausência de repercussão atual que justifique a exasperação (fl. 101); e
+b) reconhecimento da atenuante da confissão espontânea e sua compensação com a agravante da reincidência, além do abrandamento do regime prisional e substituição da pena privativa de liberdade por restritiva de direitos (fls. 102/104).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL FECHADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na exasperação da pena-base em 1/6, considerando a existência de condenações anteriores, cujo cumprimento ou extinção da pena não superou a 10 anos da data da infração posterior. Precedente.
+3. Impossibilidade de revisão da conclusão do acórdão hostilizado quanto à ausência de confissão, para incidir a atenuante da confissão, porque demandaria reexame probatório, inviável na via eleita.
+4. Ausência de ilegalidade na fixação do regime inicial fechado, dada a reincidência específica e a negativação dos antecedentes.
+5. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a condenação do agravante por uso de documento falso a 3 anos, 1 mês e 10 dias de reclusão, em regime fechado, e 14 dias-multa, proferida na Ação Penal n. 1500055-39.2022.8.26.0604 (da 2ª Vara Criminal da comarca de Sumaré/SP) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois:
+a) correta a exasperação da pena-base em 1/6 (fl. 18), considerando a existência de condenações anteriores - Autos n. 0048083-26.2005.8.26.0114, com extinção da punibilidade em 15/2/2013 (fl. 68), Autos n. 0068737-34.2005.8.26.0114, com extinção da punibilidade em 29/7/2015 (fls. 68/69), e Autos n. 0013179-46.2005.8.26.0286, com extinção da punibilidade em 5/6/2014 (fl. 71) -, sendo que não ocorreu o lapso superior a 10 anos da data do cumprimento ou extinção da pena e a infração posterior (9/1/2022 - fl. 36). Nesse sentido: AgRg no HC n. 962.735/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025;
+b) rever a conclusão das instâncias ordinárias quanto à ausência de confissão, seja no acórdão da apelação - pois o réu negou o uso do documento falso (fl. 48) - ou na sentença - não houve confissão alguma a justificar a correlata atenuante (fl. 18) -, demandaria reexame probatório, inviável na via eleita (AgRg no HC n. 960.246/MG, de minha relatoria, Sexta Turma, julgado em 12/2/2025, DJEN de 20/2/2025); e
+c) considerando a pena corporal (3 anos, 1 mês e 10 dias de reclusão), a negativação do vetor antecedentes e a reincidência específica (fls. 49/50), não há ilegalidade na fixação do regime inicial fechado (AgRg no AREsp n. 2.860.464/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025).
+Em razão disso, nego provimento ao agravo regimental.
