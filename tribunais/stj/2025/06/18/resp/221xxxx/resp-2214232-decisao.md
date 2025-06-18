@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se  de  recurso  especial  de  HENRIQUE DA SILVA SOUSA,  com  fundamento  no  art.  105,  inciso  III,  alínea  s  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,  proferido  na  Apelação  Criminal  n.  1501307-70.2024.8.26.0228,  assim  ementado  (fl.  235):
+APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES E FALSA IDENTIDADE. Condenação mantida. Palavras dos policiais e prova da apreensão da droga. Penas mantidas. Aumento da base justificado. Artigo 42 da Lei 11.343/06. Fração de aumento pela agravante da reincidência justo, por ser específica em crime de natureza hedionda. APELO DESPROVIDO.
+Consta  dos  autos  que  o  recorrente  foi  condenado  à  pena  de  07 anos e 09 meses de reclusão, em regime inicial fechado e ao pagamento de 777 dias-multa, por ter praticado a conduta descrita no artigo 33, caput, da Lei n. 11.343/2006 e 03 meses e 15 dias de detenção, em regime inicial semiaberto, pela prática do crime previsto no art. 307 do Código Penal.
+O  Tribunal  de  origem  negou  provimento  ao  apelo  da  Defesa  (fls.  234/243).
+Nas  razões  do  recurso  especial,  a  parte  alega  violação  do  art. 61, I,  do  Código  Penal,  pois  a Corte a quo manteve o aumento da pena intermediária em 1/3 (um terço) meramente em razão da reincidência específica, sem nenhuma outra fundamentação a embasar o aumento exacerbado  (fl.  254).
+Contrarrazões  às  fls.  264/268.
+Decisão  de  admissibilidade  do  recurso  (fls.  271/273).
+Parecer  do  Ministério  Público  Federal  pelo  provimento  do  recurso  especial  para alterar para 1/6 (um sexto) a fração de exasperação da pena pela agravante da reincidência e pela concessão de habeas corpus, de ofício, para afastar da pena-base do delito de tráfico ilícito de entorpecentes a valoração negativa da quantidade e natureza dos entorpecentes apreendidos  (fls.  284/290).
+É  o  relatório.
+DECIDO.
+No  tocante  à  dosimetria penal,  a  Corte  local  assim  consignou  (fls.  241/242;  grifamos):
+
+As penas não comportam reparos.
+Na primeira fase da dosimetria da pena, cotejadas as vetoriais descritas no artigo 59 do Código Penal e no artigo 42 da Lei de Drogas, o MM. Juiz fixou a pena inicial em 5 anos e 10 meses de reclusão e 583 dias-multa, fixado o valor unitário do dia-multa em um trigésimo do valor do salário-mínimo.
+A natureza e quantidade da droga, com a devida vênia, importa em maior reprovabilidade da conduta e, em respeito à individualização das penas e ao art. 42 da Lei nº 11.343/06, que preceitua "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não se perca de vista, ainda que a cocaína é substância é das mais nocivas ao organismo humano, dadas as consequências decorrentes de seu consumo prolongado e a sua reconhecida capacidade de causar dependência, a demonstrar a maior gravidade do crime praticado pela apelante.
+Oportuno destacar a necessidade de observação de tais elementos nesta fase da dosimetria da pena, tendo em vista que entendimento diverso violaria em absoluto os princípios constitucionais da igualdade e da individualização da pena.
+Na segunda etapa, em razão da reincidência ESPECÍFICA, exasperou-se a pena em 1/3, o que resulta em 7 anos, 9 meses de reclusão e 777 dias-multa. Por ser reincidência específica em crime equiparado a hediondo, a fração maior se justifica, não havendo nada a ser alterado.
+Para o crime de falsa identidade, a pena base sofreu acréscimo de 1/6, em razão dos maus antecedentes, tornando-se definitiva em 3 meses e 15 dias de detenção.
+Pelo exposto, nega-se provimento ao apelo, mantendo- se a sentença tal como lançada.
+Quanto à primeira fase de aplicação da pena, observa-se que as instâncias ordinárias sopesaram negativamente a quantidade e a variedade das drogas apreendidas para exasperar a pena-base do paciente.
+No entanto, a despeito da natureza das drogas, a quantidade de entorpecentes apreendidos -  44g  de  cocaína , 10,1g de crack e 86g de maconha - não é apta a justificar o acréscimo da pena-base, pois não demonstra, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006. A pena-base, desse modo, deve ser reduzida ao mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO. FLAGRANTE ILEGALIDADE. REVISÃO DA DOSIMETRIA DA PENA DE OFÍCIO. CONSEQUÊNCIAS DO DELITO. QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTAÇÃO INIDÔNEA. CIRCUNSTÂNCIAS AFASTADAS. READEQUAÇÃO DA REPRIMENDA FIXADA. AGRAVO NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+3. Esta Corte Superior não admite a elevação da pena-base com fulcro em argumentos genéricos, veja-se: A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes (AgRg no AREsp n. 2.213.143/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 14/12/2022).
+4. A quantidade de entorpecentes apreendida em poder do réu (50 g de cocaína, 4 g de crack e 250 g de maconha) não é tão elevada para justificar a exasperação da pena-base.
+5. Agravo regimental não conhecido. Habeas corpus concedido de ofício, para afastar a valoração negativa das consequências do delito e da quantidade de drogas encontradas, e, consequentemente, reduzir a pena privativa de liberdade imposta ao réu para 7 anos e 6 meses de reclusão, em regime fechado, e 750 dias-multa. (AgRg no AREsp n. 2.239.123/CE, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 11/04/2023, DJe de 19/04/2023;grifamos)
+No mais, o fundamento empregado pelas instâncias de origem para aplicar incremento mais severo na segunda fase da dosimetria destoa da jurisprudência desta Corte Superior. Atualmente, ambas as Turmas da Terceira Seção compartilham a compreensão de que a mera circunstância de ser específica a reincidência não autoriza, por si só, o incremento da reprimenda em fração superior a 1/6 (um sexto).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL E PENAL. TRÁFICO DE DROGAS. DECISÃO DA PRESIDÊNCIA DO STJ. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. APELO NOBRE. NÃO CONHECIMENTO. SÚMULA N. 284 DO STF. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. ILEGALIDADE MANIFESTA. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6 (UM SEXTO). REINCIDÊNCIA ESPECÍFICA. FUNDAMENTO INIDÔNEO. PRECEDENTES. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+ ..
+3. Constata-se a existência de ilegalidade manifesta na segunda fase da dosimetria da pena do Agravante, pois a Jurisdição ordinária aplicou incremento superior a 1/6 (um sexto), apenas por se tratar de reincidência específica, o que destoa da jurisprudência desta Corte Superior.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido. Concedido habeas corpus, de ofício, a fim de reduzir a fração de aumento decorrente da agravante da reincidência para 1/6 (um sexto) e redimensionar a pena imposta. (AgRg no AREsp n. 2.419.987/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023; grifamos)
+Fixadas  essas  premissas,  passo  a  redimensionar  a  pena  do  acusado no que diz respeito ao delito do art. 33, caput, da Lei n. 11.343/2006.
+Na  primeira  fase,  fixo  a  pena-base  do  paciente  no  mínimo  legal:  05  (cinco)  anos  de  reclusão  e  500  (quinhentos)  dias-multa.
+Na segunda etapa, presente a agravante da reincidência, deve-se adotar o patamar de aumento de 1/6 (um sexto). Dessa forma, a sanção intermediária resta fixada em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na terceira fase, não incidem causas de aumento ou de diminuição, de forma que ficam definitivamente fixadas as reprimendas do réu em 05 (cinco) anos e 10 (dez) meses de reclusão, além de 583 (quinhentos e oitenta e três) dias-multa.
+Considerando o quantum da reprimenda reclusiva, bem como diante do reconhecimento da agravante da reincidência, não há alteração do regime inicial fixado pelas instâncias ordinárias, que permanece o fechado.
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  redimensionar  as  penas  do  réu  no tocante ao delito de tráfico de drogas, nos  termos  desta  decisão.
+Oficie-se  ao  Tribunal  de  origem  e  ao  Juízo  de  primeiro  grau,  comunicando-lhes  o  inteiro  teor  da  presente  decisão.
+Publique-se  e  intimem-se.
+ EMENTA
