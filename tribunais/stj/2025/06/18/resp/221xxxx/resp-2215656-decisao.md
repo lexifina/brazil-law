@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado:
+APELAÇÕES CÍVEIS. DIREITO DO CONSUMIDOR E ADMINISTRATIVO. AÇÃO INDENIZATÓRIA.
+INTERRUPÇÃO PROLONGADA NO FORNECIMENTO DE ENERGIA ELÉTRICA EM ÁREA RURAL DO MUNICÍPIO DE SÃO LOURENÇO DO SUL. CICLONE EXTRATROPICAL OCORRIDO EM JULHO DE 2023. FORÇA MAIOR. RESPONSABILIDADE CIVIL OBJETIVA. DANOS MORAIS AFASTADOS. RESSARCIMENTO DE DANOS MATERIAIS. RECURSOS PARCIALMENTE PROVIDOS.
+I. CASO EM EXAME
+1. Ação indenizatória ajuizada por consumidor residente em área rural contra concessionária de energia elétrica, em razão de interrupção de oito dias no fornecimento de energia em julho de 2023. A autora alega falha na prestação do serviço pela precária manutenção da rede elétrica, causando transtornos e despesas com combustível para operar gerador. Pleiteia indenização por danos morais e ressarcimento de danos materiais. A sentença foi de parcial procedência para condenar a ré exclusivamente ao pagamento de indenização por danos morais no valor de R$ 5.000,00, ensejando recurso de ambas as partes.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a interrupção no fornecimento de energia elétrica, em razão de ciclone extratropical, configura excludente de responsabilidade civil por força maior; e (ii) apurar se estão configurados os danos morais e materiais.
+III. RAZÕES DE DECIDIR
+3. A responsabilidade da concessionária de energia elétrica é objetiva, nos termos do art. 37, § 6º, da CF/88 e do art. 14 do CDC, sendo necessário o nexo causal entre o dano e a conduta do fornecedor, salvo nos casos de força maior, que rompem tal nexo.
+4. Não obstante o temporal de grandíssima magnitude que assolou o local em que situada a unidade consumidora, o prazo de restabelecimento da energia elétrica ultrapassou o limite adotado como parâmetro de razoabilidade por esse colegiado. Afinal, restou incontroverso que a parte autora permaneceu por 7 (sete) dias consecutivos sem energia elétrica, situação que caracteriza defeito na prestação do serviço.
+5. No entanto, a utilização de gerador durante o período de interrupção garantiu o atendimento das necessidades básicas do autor, descaracterizando o abalo moral significativo e os transtornos excepcionais que justificariam a indenização por danos morais.
+6. Contudo, a interrupção do fornecimento de energia elétrica por período superior ao razoável enseja o dever de ressarcir as despesas materiais comprovadas, no valor de R$ 667,80, relativas ao consumo de combustível do gerador.
+7. Sentença parcialmente reformada. Afastada a condenação ao pagamento de indenização por danos morais e condenada a Concessionária ré ao ressarcimento dos danos materiais (gastos com óleo diesel).
+IV. DISPOSITIVO
+APELAÇÕES PARCIALMENTE PROVIDAS.
+No recurso especial, o recorrente alega divergência jurisprudencial quanto à aplicação dos arts. 186 e 927 do Código Civil e dos arts. 14 e 22 do Código de Defesa do Consumidor, sob o argumento de que a falha na prestação de serviço público essencial pela concessionária de energia elétrica ocasionou danos morais in re ipsa, presumidos pela própria ilicitude do fato. Além disso, sustenta que a responsabilidade objetiva da concessionária não foi devidamente aplicada, uma vez que o serviço não foi restabelecido dentro do prazo regulamentar, em prejuízo do consumidor.
+Com contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No presente caso, a Corte de origem, ao apreciar as apelações interpostas pelas partes, concluiu que, apesar da interrupção no fornecimento de energia elétrica, em razão de ciclone extratropical, a utilização de gerador pela recorrente durante o período de interrupção assegurou o atendimento de suas necessidades básicas, descaracterizando o abalo moral significativo apto a justificar a indenização por danos morais.
+Com efeito, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente só poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. No ponto, incide, ainda, a Súmula 13/STJ uma vez que "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois não serve para a sua demonstração a colação de julgados proferidos pelo próprio Tribunal recorrido, conforme estabelece a Súmula 13 desta Corte" (AgInt no AREsp 1384502/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2019, DJe de 2/4/2019).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIÇO PÚBLICO. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA 13 DO STJ. RECURSO NÃO CONHECIDO.
