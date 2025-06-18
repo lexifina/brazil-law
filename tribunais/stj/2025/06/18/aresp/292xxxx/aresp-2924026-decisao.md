@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDUARDO DE CARVALHO SOUZA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Ação Rescisória n. 2103826-08.2023.8.26.0000. Confira-se a ementa (fl. 766):
+AÇÃO RESCISÓRIA  Violação à norma jurídica (art. 966, V do Código de Processo Civil  Ocorrência  À época da sentença, o segurado não era beneficiário de aposentadoria  Evento futuro e incerto a ensejar o reconhecimento da nulidade de tal disposição no comando judicial  Ação procedente.
+Rejeitaram-se os embargos de declaração opostos (fls. 785-788).
+Irresignado, o recorrente interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas a e c, da CF, no qual alega que houve, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, inciso IV, 502, 503, 507, 508, 509, § 4, e 1.022, inciso II, do CPC. Afirma que o Tribunal de origem foi omisso, pois não analisou matéria relevante ao correto deslinde da controvérsia. Sustenta que "o INSS usa a presente ação rescisória como sucedâneo recursal  .. " (fl. 818). Aduz a ocorrência de violação da coisa julgada (fl. 819):
+ ..
+O v. Acórdão recorrido, está inovando ao tratar da questão da possibilidade de cumulatividade, vez que não foi debate no processo de conhecimento, desrespeitando decisão transitada em julgado, que determinou apenas a concessão do auxilio acidente, independente de ter outro benefício concedido.
+Ora, a decisão recorrida nada mais fez do que decidir novamente sobre questão enfrentada em decisão transitada em julgado, em flagrante afronta à coisa julgada e aos artigos 502, 504, 505, 506, 509, § 4º do Código de Processo Civil.
+ ..
+Sem contrarrazões, consoante a certidão de fl. 842.
+O recurso foi inadmitido na origem (fls. 845-848), o que ensejou a interposição do presente agravo (fls. 857-865).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma adequada, os óbices elencados na decisão de inadmissibilidade, passo ao exame do recurso especial.
+De início, ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação que é concreta e satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+Na hipótese dos autos, a Corte a quo concluiu pela viabilidade da ação rescisória (fls. 768-769, sem grifos no original):
+ ..
+Ou seja: - constou da r. sentença, prolatada aos 26.08.2003, algo (cumulação de benefícios) que não estava sendo discutido no feito, que não constava da inicial ou da contestação (a propósito: - a inicial e a contestação são peças processuais de suma importância, pois são elas que delimitam a lide e estabelecem o poder de cognição do Magistrado) e tampouco surgiu tal discussão na fase de conhecimento. Tanto é que a aposentadoria foi concedida ao ora réu anos depois de proferida a sentença (15.08.2008). E mais: - foi concedida aposentadoria por tempo de contribuição e não por "aposentadoria especial" como constou no julgado.
+Vale dizer: - essa disposição da sentença se encontra totalmente fora do contexto dos autos. E por isso, não pode produzir qualquer efeito entre as partes de molde a autorizar uma execução de R$ 1.562.528,20 (principal) para abril de 2022. Ainda mais quando se verifica que o auxílio-acidente concedido no feito subjacente não tem o caráter vitalício, visto que seu termo inicial também é posterior à vigência da Lei 9.528/97.
+Portanto, forçoso concluir que o comando judicial aludido, ao dispor sobre a cumulação do auxílio-acidente com a aposentadoria, tratou de questão futura e incerta, o que é inadmissível.
+ ..
+Ao assim decidir, o acórdão recorrido se alinhou ao entendimento do STJ de que "a sentença que sujeita a procedência ou improcedência do pedido a acontecimento futuro e incerto é nula" (AgRg no AREsp n. 131.343/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 23/2/2016, DJe de 3/3/2016.)
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDANTES.
+1. Nos termos da jurisprudência do STJ, a sentença deve ser certa, ainda quando decida relação jurídica condicional, e é nula quando submete a procedência do pedido à ocorrência de fato futuro e incerto, conforme dispõe o art. 460 do CPC/1973. Incidência da Súmula 83 do STJ.
+2. Inexiste ofensa ao princípio da congruência nas hipóteses em que o julgador não afronta os limites objetivos da pretensão. Os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática, conforme os brocardos da mihi factum dabo tibi ius e iura novit curia . Incidência da Súmula 83 do STJ 3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.380.644/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. EVENTO FUTURO E INCERTO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 460 DO CPC/1973.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. É inadmissível Recurso Especial quanto à questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+ ..  Por outro lado, o pedido ora pretendido teria natureza condicional na hipótese da improcedência dos pleitos deduzidos nos dois mandados de segurança e a futura sentença nestes autos proferida não poderia ser condicional dada a vedação do parágrafo único, do artigo 460, do Código de Processo Civil. Nesse sentido, o Egrégio Superior Tribunal de Justiça firmou entendimento segundo o qual a sentença que sujeita a procedência ou improcedência do pedido a acontecimento futuro e incerto é nula, consoante arestos abaixo transcritos". 5. A sentença deve ser certa, ainda quando decida relação jurídica condicional, e é nula quando submete a procedência do pedido à ocorrência de fato futuro e incerto, conforme dispõe o art. 460 do CPC/1973.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.755.006/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/5/2019, DJe de 1/7/2019.)
+Incide, portanto, o verbete sumular n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre anotar que o referido enunciado aplica-se também aos recursos interpostos com base na alínea a do permissivo constitucional (v.g.: AgRg no AREsp n. 354.886/PI, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/4/2016, DJe de 11/5/2016; AgInt no AREsp n. 2.453.438/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/ 2024, DJe de 7/5/2024; AgInt no AREsp n. 2.354.829/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024).
+Por outro lado, consoante a jurisprudência do STJ, "o exame quanto à existência da coisa julgada exige o reexame de fatos e provas, o que, contudo, é vedado em recurso especial pela Súmula 7/STJ" (REsp n. 1.941.413/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.).
+Nessa esteira:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COISA JULGADA RECONHECIDA. TEMA 629/STJ. INAPLICABILIDADE ÀS DEMANDAS QUE JÁ TIVERAM DECISÃO TRANSITADA EM JULGADO. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+4. Ademais, rever as conclusões da instância ordinária quanto à ofensa à coisa julgada encontra óbice na Súmula 7/STJ. Isso porque seria necessária a formação de novo juízo acerca dos fatos e das provas, e não a valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, como argumenta a parte.
+5. Agravo interno do particular a que se nega provimento.
+(AgInt no REsp n. 1.884.789/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. INCORPORAÇÃO DE ÍNDICES DE INFLAÇÃO. COISA JULGADA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. É possível aferir que, apesar de indicada violação de lei federal, o acórdão proferido assenta-se em fundamento eminentemente constitucional, qual seja, o art. 58 do Ato das Disposições Constitucionais Transitórias - ADCT, o que implica óbice à apreciação do Recurso Especial.
+2. Ainda que se superasse o referido obstáculo, dos excertos apresentados pela parte recorrente, é possível extrair que se almeja o reconhecimento de ofensa à coisa julgada material, cuja apreciação, entretanto, é inviável mediante manejo do apelo nobre.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.970.378/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022.)
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO .
+Sem honorários recursais, pois ausente condenação em verba de sucumbência em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. AÇÃO RESCISÓRIA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. ANÁLISE QUANTO À OCORRÊNCIA DE VIOLAÇÃO DA COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. NÃO CABIMENTO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
