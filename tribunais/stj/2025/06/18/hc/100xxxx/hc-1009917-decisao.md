@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS LEONARDO PEREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0011679-79.2024.8.26.0026).
+Depreende-se dos autos que o paciente encontrava-se em cumprimento de pena no regime fechado. Pleiteado livramento condicional, o Juízo das execuções deferiu o pedido (e-STJ fls. 17/19).
+Interposto agravo em execução na origem, o Tribunal a quo deu provimento ao recurso para cassar o benefício, nos termos do aresto acostado às e-STJ fl. 8/16, sem ementa.
+Daí o presente writ, no qual alega a defesa fazer jus o acusado ao livramento condicional, por haver preenchido os requisitos objetivo e subjetivo para tanto.
+Assere que " a  Corte estadual criou requisito inexistente na lei, ao condicionar o livramento condicional ao prévio cumprimento de pena no regime semiaberto, o que já foi rechaçado pelo STJ" (e-STJ fl. 4).
+Requer, liminarmente e no mérito, a concessão da ordem para restabelecer a decisão do Juízo da Execução Penal que concedeu o livramento condicional ao paciente.
+É o relatório.
+Decido.
+No caso, o pedido de livramento condicional foi deferido com a seguinte fundamentação (e-STJ fls. 17/19):
+O pedido de livramento é procedente.
+Em que pese entendimento em sentido diverso, a jurisprudência do C. Superior Tribunal de Justiça, tem se firmado no sentido de que não é possível exigir ao livramento condicional a progressão de regime, já que ele é instituto próprio de liberdade antecipada, não havendo, como requisito, o cumprimento de pena em regime menos gravoso para concessão.
+Assim, verifico no caso em apreço e a partir do estudo dos autos, que o requisito subjetivo se encontra devidamente preenchido, inclusive em razão da boa conduta carcerária atual e da inexistência de falta disciplinar, contudo, o requisito temporal somente será alcançado nos próximos dias (24/12/2024), durante recesso judiciário.
+Ressalta-se que os requisitos previstos no artigo 131, da LEP c. c. o artigo 83 do Código Penal foram preenchidos.
+Não há notícias de prisão cautelar por outro processo.
+Não vejo argumentos para o indeferimento do pleito.
+O Tribunal de origem deu provimento ao agravo ministerial, com espeque na seguinte argumentação (e-STJ fls. 10/15):
+Consta dos autos do processo de execução nº 0011023-25.2024.8.26.0996, que o agravado foi condenado como incurso no artigo 33, caput, da Lei nº 11.343/06, ao cumprimento de 05 (cinco) anos de reclusão, em regime fechado, e ao pagamento de 500 (quinhentos) dias- multa, no piso, da qual cumpriu 02 (dois) anos, 10 (dez) meses e 03 (três) dias, bem como obteve remição de 05 (cinco) meses e 16 (dezesseis) dias. O término de cumprimento está previsto para 23/08/2026 (fls. 345/347).
+A defesa técnica pleiteou a concessão do livramento condicional (fls. 330/335). O Ministério Público opinou pelo indeferimento do pedido, mas "considerando que o lapso temporal foi cumprido, opino pelo deferimento da progressão ao regime semiaberto" (sic, fls. 352/354).
+Em 18/12/2024, o MM. Juízo das Execuções deferiu o pedido de concessão do livramento condicional, in verbis:
+ ..
+Respeitado o entendimento contrário, o agravo merece ser provido.
+No caso em comento, o bom comportamento carcerário do agravado é insuficiente para atestar, por si só, as exigências do artigo 83, III, do Código Penal, e, especialmente, o cumprimento do requisito subjetivo, devendo o juiz considerar eventuais faltas disciplinares, prática de novos delitos no curso de benefícios concedidos e, até mesmo, a forma de cometimento do crime pelo qual o sentenciado cumpre pena. Enfim, tudo o que possa demonstrar a personalidade do reeducando, para não se colocar em risco a sociedade, principalmente, porque em livramento condicional o apenado estará solto.
+ ..
+Cumpre consignar que, apesar de parte da doutrina e da jurisprudência considerar que o livramento condicional não integra o sistema progressivo, não há como negar que se trata de benefício mais vantajoso que o regime semiaberto, motivo pelo qual requisitos subjetivos devem ser considerados na avaliação do apenado, a fim de ter a garantia de que não voltará a cometer novos delitos.
+Ressalte-se, ainda, que o sistema pátrio tem como regra a impossibilidade da progressão em saltos, isto é, "per saltum" (Súmula nº 491, do C. STF), devendo o sentenciado passar do regime mais rigoroso para o regime subsequente, menos rigoroso. No caso, a concessão de liberdade vigiada para quem encontra-se no regime fechado é uma quebra inadequada à terapia pena, até porque não se sabe se o agravado reúne condições favoráveis para obter tal benesse, sem se ter uma noção efetiva de que não retornará a delinquir, se solto.
+Desta forma, forçosa a conclusão de que, ao menos por ora, o agravado não deve ser beneficiado com o livramento condicional.
+Portanto, como visto acima, o Tribunal de origem utilizou a fundamentação da vedação de progressão per saltum para indeferir livramento condicional , apesar de se tratar de benesses com regramentos diversos.
+Vê-se que o Superior Tribunal de Justiça entende ser ilegal a exigência de passagem ou permanência por determinado tempo em regime intermediário para efeitos de concessão de livramento condicional.
+No mesmo sentido, os seguintes julgados desta Corte:
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n. 13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar.
+(HC n. 592.587/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020.)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. LONGA PENA A CUMPRIR. GRAVIDADE DOS DELITOS PRATICADOS. FALTA GRAVE ANTIGA E JÁ REABILITADA. DESNECESSIDADE DE ADAPTAÇÃO A UM REGIME MAIS LIBERAL PARA A CONCESSÃO DO LIVRAMENTO CONDICIONAL. FUNDAMENTAÇÃO INIDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.  ..
+2. Para a concessão do benefício do livramento condicional, nos termos do art. 83 do CP e arts. 112 e 131 da LEP, deve o reeducando preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover o próprio sustento de maneira lícita).
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/8/2019, DJe 22/8/2019, grifei.)
+EXECUÇÃO PENAL. HABEAS CORPUS. COMUTAÇÃO. DECRETO PRESIDENCIAL Nº 9.246/2017. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS NO LIVRAMENTO CONDICIONAL. FALTA OCORRIDA HÁ MAIS DE 12 MESES. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA. ART. 4º, I E IV DO CITADO DECRETO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA DE RESTRIÇÕES NO DECRETO CONCESSIVO DE COMUTAÇÃO/INDULTO. PRECEDENTES. HABEAS CORPUS CONCEDIDO.
+ ..
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de descumprimento das condições impostas ao livramento condicional, tal lapso temporal não seja igualmente observado.
+ ..
+(HC n. 529.025/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 3/2/2020.)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n. 13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar.
+Ademais, nos termos da jurisprudência desta Corte Superior, a progressão per saltum de regime prisional não constitui fundamento idôneo para o indeferimento do benefício do livramento condicional. Vejam-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. HISTÓRICO PRISIONAL DESFAVORÁVEL. EXISTÊNCIA DE FALTAS GRAVE E MÉDIAS RECENTES. AUSÊNCIA DO REQUISITO SUBJETIVO. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+ ..
+(AgRg no HC n. 719.265/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/5/2022, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA N. 7/STJ.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo.
+2. Por outro lado, importa ressaltar que " ..  a gravidade do delito, as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional" (HC n. 384.838/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 4/4/2017, DJe 7/4/2017, Grifei ).
+ ..
+(AgRg no REsp n. 1.952.241/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 12/11/2021, grifei.)
+Ante o exposto, concedo a ordem para cassar o acórdão proferido no Agravo em Execução n. 0011679-79.2024.8.26.0026 e restabelecer a decisão de primeiro grau que concedeu livramento condicional ao paciente .
+Publique-se. Intimem-se.
+EMENTA
