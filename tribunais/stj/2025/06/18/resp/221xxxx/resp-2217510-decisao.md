@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/Estado/TJDFT/ TRF da 4ª Região, assim ementado (fl. 338):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ENSINO. TRANSFERÊNCIA DE INSTITUIÇÃO DE ENSINO SUPERIOR PRIVADA PARA PÚBLICA. LEI N. 9.394/96. SERVIDOR PÚBLICO MILITAR. TRANSFERIDO EX OFFICIO. IMPOSSIBILIDADE.
+1. Firmou-se o entendimento jurisprudencial no sentido de que a transferência ex officio é admissível quando as instituições de ensino forem congêneres (origem e destino privadas ou origem e destino públicas), encerrando a possibilidade de transferência ex officio de uma instituição privada para uma instituição de ensino pública.
+2. Negado provimento à apelação.
+Em suas razões de recurso especial, sustenta ofensa aos artigos 1º, caput, da Lei n. 9.536/1997; 15, 16, 17 e 19 da Lei n. 9.394/1996, sob o seguinte argumento (fl. 351):
+a decisão não encontra-se em consonância com as jurisprudência desta Corte, no qual está firmada em que: " o servidor municipal, estadual ou federal, aluno de instituição de ensino superior, tem assegurado o direito à matrícula, seja em universidade pública, federal ou estadual, ou privada". (v.g. REsp 1314926/PB, 1ª T, Rel. Napoleão Nunes Maia Filho, Dje de 15.10.2014)
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 371.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No caso dos autos, a recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 1º, caput, da Lei n. 9.536/1997; 15, 16, 17 e 19 da Lei n. 9.394/1996, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 975 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. ARTIGOS 927 E 966 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO E ALEGAÇÃO GENÉRICA. SÚMULAS 282/STF E 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O termo a quo para a contagem de prazo para o ajuizamento da Ação Rescisória se inicia da última decisão transitada em julgado no processo, mesmo que seja proferida quanto à inadmissibilidade ou à intempestividade do recurso, salvo comprovada má-fé ou erro grosseiro (REsp 1.186.694/DF, Rel. Ministro Luix Fux, Primeira Turma, DJe 17/8/2010; AgRg no Ag 1.147.332/BA, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 25/6/2012, e AgRg no Ag 1.166.142/RS, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe 8/8/2011).
+3. O artigo 975 do CPC/2015 não contém comando normativo apto a infirmar o fundamento do acórdão recorrido segundo o qual "o erro grosseiro na interposição de um recurso não se presume, mas deve ser objeto de decisão do Tribunal". Incidência da Súmula 284/STF.
+4. Mantém-se a incidência das Súmulas 282 e 284 do STF no que tange às alegadas violações dos artigos 927 e 966 do CPC/15, porquanto a argumentação da agravante é genérica, não especificando em que ponto do acórdão recorrido tais questões foram abordadas e como tal abordagem teria violado os referidos dispositivos legais.
+5. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015.
+6. Agravo interno não provido. (AgInt no REsp n. 1.876.034/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023.) (grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. RAZÕES RECURSAIS DISSOCIADAS DO ARESTO DO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. POSSIBILIDADE. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. DESPROPORCIONALIDADE CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, ou quando as razões recursais encontram-se dissociadas dos fundamentos utilizados pela Corte de origem, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Este Tribunal Superior aplica, em regra, a Súmula n. 7/STJ aos recursos que objetivam a revisão da verba honorária. Excetuadas, contudo, as hipóteses em que o quantum arbitrado revela-se irrisório ou exorbitante. Desproporcionalidade caracterizada.
+VI - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VII - Agravo Interno improvido. (AgInt no REsp n. 1.358.523/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe de 3/6/2016.) (grifo nosso)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
