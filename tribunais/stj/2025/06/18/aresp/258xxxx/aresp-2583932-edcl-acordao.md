@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. INEXISTÊNCIA. IRPJ. LANÇAMENTO POR HOMOLOGAÇÃO. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por WESTROCK, CELULOSE, PAPEL E EMBALAGENS LTDA. ao acórdão de fls. 1.673-1.675 (e-STJ), assim ementado:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. IRPJ. LANÇAMENTO POR HOMOLOGAÇÃO. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+1. Com efeito, a preliminar de ofensa ao artigo 1.022, inciso II, do CPC/2015, não merece prosperar. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os Embargos de Declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual deveria se pronunciar o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+2. Na hipótese dos autos, contudo, não se verifica a existência de omissão ou contradição no julgado. A pretexto de omissão, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada no acórdão recorrido, embora em adversidade aos interesses da parte. O órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão.
+3. No mérito, a contribuinte sustenta ser cabível a denúncia espontânea nos lançamentos por homologação realizados na apuração e adimplemento do IRPJ apurado nos meses de janeiro, fevereiro, abril e junho do ano de 2000. A recorrente argumenta que antes de quaisquer medidas administrativas ou procedimentos de fiscalização, realizou denúncia espontânea, apresentando DCTF e recolhendo o tributo em atraso, sem o acréscimo de multa de mora. 4. A irresignação não merece guarida. Isto porque, este Superior Tribunal de Justiça consolidou o entendimento de que a denúncia espontânea não é aplicável aos tributos sujeitos a lançamento por homologação, quando estes são declarados pelo contribuinte e pagos fora do prazo de vencimento - como no caso destes autos. Esse entendimento foi formalizado na Súmula 360, que transcrevo a seguir: "O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo."
+5. Agravo conhecido para se conhecer parcialmente do recurso especial, e nessa extensão nego-lhe provimento.
+Nas razões recursais, a embargante aponta omissão no julgado recorrido, afirmando que não foram apreciados os argumentos acerca da aplicação, ao caso debatido nos autos, do Tema 385/STJ, o qual reconhece a possibilidade de incidir os efeitos da denúncia espontânea aos "tributos sujeitos a lançamento por homologação, quando há o pagamento antecipado antes da constituição dos créditos tributários, através das DCTFs" (e-STJ, fl. 1.690).
+Sendo assim, requer o acolhimento destes aclaratórios.
+Não foi apresentada impugnação (e-STJ, fl. 1.699).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. INEXISTÊNCIA. IRPJ. LANÇAMENTO POR HOMOLOGAÇÃO. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o julgado prolatado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - O cabimento de Embargos de Declaração, consoante o disposto no art. 1.022 do Código de Processo Civil, é restrito às hipóteses de obscuridade, contradição ou omissão na decisão embargada, bem como para correção de erro material.
+II - Embargos de declaração acolhidos para corrigir erro material.
+(EDcl nos EDcl no AgInt no AREsp n. 2.496.225/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Na hipótese dos autos, a insurgente alega a existência de omissão no aresto proferido por esta Segunda Turma.
+Todavia, examinando o julgado recorrido, verifica-se não haver vício passível de ser sanado por meio do julgamento dos embargos de declaração em análise, visto que ficou devidamente fundamentada a conclusão acerca da impossibilidade de aplicação dos efeitos da denúncia espontânea aos tributos sujeitos à homologação.
+Ademais, não seria o caso de aplicar o entendimento inserido no julgamento do REsp 1.149.022/SP, pois, nos termos do fundamento do acórdão prolatado na origem, inexistiu a comprovação pela parte da regularização dos tributos vencidos.
+Confira-se trecho do aresto impugnado (e-STJ, fl. 1.465):
+Além disso, conforme constou na petição inicial, a embargante não apresentou uma única DCTF e recolhimento para cada competência do IRPJ vencido. Assim, para o IRPJ apurado em janeiro de 2000, apresentou em 15/05/2000 DCTF com o valor original de R$ 180.106,86, cuja extinção foi por meio de compensação, depois em 13/09/2000 apresentou DCTF complementar, declarando mais R$ 87.299,87, que foi quitada através de pagamento. Para a competência de fevereiro de 2000, declarou, em 15/05/2000, por meio de DCTF ter apurado o valor de R$ 494.828,41, cuja extinção foi por meio de compensação, posteriormente apresentou DCTF complementar, tendo apurado mais R$ 2.219,25. Por outro lado, em relação a competência de abril de 2000, apurou e informou o valor de R$ 66.925,55, sendo extinta a obrigação pelo pagamento em 30/05/2000, posteriormente pagou, em 30/06/2000, mais R$ 804.787,73. Por fim, no que tange a competência de junho de 2000, inicialmente não apurou qualquer débito de IRPJ, posteriormente, em 9/08/2000, apurou o valor de R$ 326.975,69, cuja quitação se deu meio de pagamento.
+Desse modo, constata-se que a irresignação nada mais é do que mero inconformismo da recorrente com o deslinde da controvérsia, não servindo os embargos de declaração como instrumento de reforma do julgado combatido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
