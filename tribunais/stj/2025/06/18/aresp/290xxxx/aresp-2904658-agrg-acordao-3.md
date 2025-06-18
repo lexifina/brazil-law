@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. VIOLAÇÃO DO ART. 65, III, D, DO CP. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. IMPROCEDÊNCIA. MOLDURA FÁTICA DELINEADA NO ACÓRDÃO ATACADO INAPTA A INDICAR CONFISSÃO DO RÉU, NEM MESMO PARCIAL, QUANTO AOS ELEMENTOS DO TIPO PENAL. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VANDERSON TRIPODI contra decisão monocrática, de minha lavra, assim ementada (fl. 4.455):
+AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. VIOLAÇÃO DO ART. 65, III, D, DO CP. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. IMPROCEDÊNCIA. MOLDURA FÁTICA DELINEADA NO ACÓRDÃO ATACADO INAPTA A INDICAR CONFISSÃO DO RÉU, NEM MESMO PARCIAL, QUANTO AOS ELEMENTOS DO TIPO PENAL. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
+Nas razões, a defesa sustentou que o agravante faz jus à incidência da atenuante da confissão. pois afirmou, expressamente, que aceitou fazer parte de um "esquema" para fechar o gado, o que, por óbvio, tem relação direta com o tipo penal pelo qual foi condenado (fl. 4.485).
+Asseverou, ainda, que o agravante confessou os fatos do qual participou e narrou sua participação neles, não sendo crível que seja exigido que confesse ou narre fatos do qual não fez parte para que seja reconhecida a atenuante da confissão espontânea (fls. 4.485/4.486).
+Pugnou, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. VIOLAÇÃO DO ART. 65, III, D, DO CP. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. IMPROCEDÊNCIA. MOLDURA FÁTICA DELINEADA NO ACÓRDÃO ATACADO INAPTA A INDICAR CONFISSÃO DO RÉU, NEM MESMO PARCIAL, QUANTO AOS ELEMENTOS DO TIPO PENAL. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Eis que constou do acórdão atacado acerca do pleito defensivo de reconhecimento da atenuante da confissão (fl. 3.753 - grifo nosso):
+ ..
+Quanto aos pedidos de reconhecimento da atenuante da **confissão**, vale destacar que os réus que admitiram a subtração do gado não o fizeram para contribuir com a apuração dos fatos, mas para tentar dar contornos mais brandos à sua atuação e negar grande parte do esquema criminoso. O objetivo era o de amenizar a resposta penal, logo, não merecem ser beneficiados com a redução de pena.
+Aqui, vale mencionar, em atenção aos esforços argumentativos da defesa do réu Vanderson que, embora ele tenha admitido que "aceitou de um esquema para fechar o gado", tal não implica tenha ele confessado a participação na organização criminosa, esta a imputação feita.
+Com efeito, o réu admitiu apenas uma subtração e o fez alegando que passava por necessidades financeiras, dizendo-se, em seguida, arrependido. No entanto, ele se negou a falar a respeito de outros roubos e se recusou a dar quaisquer informações sobre o evento ocorrido na fazenda de Dirceu ou sobre o grupo criminoso.
+ ..
+Com efeito, adotando a moldura fática delineada no acórdão atacado, não diviso a possibilidade de reconhecer a atenuante em referência, pois a expressão utilizada pelo agravante foi demasiadamente vaga para consubstanciar admissão, ainda que parcial, da prática delitiva prevista no art. 2º da Lei n. 12.850/2013, inclusive porque não guarda correspondência com os elementos do tipo penal em referência.
+Reforço essa convicção no fato de que o próprio Juízo processante, na sentença, consignou que o agravante não confessou a prática delitiva que lhe fora imputada, sendo certo que sua condenação encontra respaldo em outros elementos probatórios e não em seu interrogatório (fls. 2.815 e 2.823 - grifo nosso):
+ ..
+O réu VANDERSON TRIPODI não confessou os fatos nem em Juízo nem perante a Autoridade Policial.
+ ..
+Cumpre consignar que, todo o esquema também restou comprovado nos áudios interceptados junto aos autos 1500319-14.2021.8.26.0306, pois **Vanderson** Tripodi, integrante da organização criminosa, conforme resenha 01 do alvo (67) 99626-5196 pertencente a ele, indica a estabilização da estrutura criminosa, pois **Vanderson**, conversando com um indivíduo denominado Dedê, afirma que está à procura de uma propriedade rural para praticar roubo/furto de gado, referindo-se aos bovinos como "pé rachado", pedindo para que Dedê faça esse apontamento, esclarecendo a ele, inclusive, que possui duas carretas (caminhões), nota fiscal (falsa) e lugar para matar (possivelmente algum frigorífico), ou seja, comprova-se a divisão das tarefas e organização do grupo criminoso, bem como, toda a logística de atuação ilícita.
+Outros diálogos que indicam a estabilização do grupo, correspondem às resenhas 07, 20, 22 e 24 a 29 do alvo IMEI 355515115199740 pertencente à Marcelo Nascimento Silva; resenhas 01/02, 05/09 e 11 do IMEI 356721694956920 pertencente à Evandro Biscaino de Souza, e resenhas 05 a 07 do alvo (67) 99626-5196 pertencente a **Vanderson** Tripodi. Nesses diálogos, resta demonstrado que o grupo, a todo momento, procura propriedades rurais para roubarem, visando dar seguimento ao esquema criminoso, sendo que em dois crimes que tentaram realizar, foram frustrados por policiais civis desta Delegacia Especializada, conforme Boletim de Ocorrência 223/2021 da 1ªDIG/DEIC e Boletim de Ocorrência nº 564/2021 -DelPol Promissão, enquanto que no Boletim de Ocorrência nº 596/2021 - Plantão Penápolis, ocorreu a prisão de membros não conhecidos dessa investigação (Jeferson Luiz Gonçalves de Souza).
+ ..
+Em suma, inviável reconhecer a atenuante prevista no art. 65, III, d, do CP, pois o caso dos autos não se amolda ao entendimento que foi objeto da Súmula 545/STJ:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE LESÃO CORPORAL NO ÂMBITO DOMÉSTICO. ATENUANTE DA CONFISSÃO. AFASTADA A SÚMULA N. 545 DO STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+2. Consignou não ter havido confissão quanto a qualquer ato de lesão corporal, ainda que parcial ou qualificada, o que afasta a incidência da Súmula n. 545/STJ.
+3. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+4. "No tocante ao pleito de habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese" (EDcl no AgRg no AREsp n. 2.572.783/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024).
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.662.183/SC, Ministro Og Fernandes, Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE REDUÇÃO À CONDIÇÃO ANÁLOGA À DE ESCRAVO. ART. 149 DO CP. VIOLAÇÃO DE IDENTIDADE FÍSICA DO JUIZ. NÃO CORRÊNCIA. PRINCÍPIOS DA FRAGMENTARIEDADE E SUBSIDIARIEDADE DO DIREITO PENAL. DESCABIMENTO. OFENSA AO PRINCÍPIO DA CORRELAÇÃO/CONGRUÊNCIA. INEXISTÊNCIA. ATENUANTE DA COMISSÃO ESPONTÂNEA. AUSÊNCIA DE CONFISSÃO. INCIDÊNCIA DA SÚMULA N. 568/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Súmula n. 568/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento da decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se faz mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada, providência não adotada na hipótese.
+2. Ausente a alegada ofensa ao art. 399, § 2º, do Código de Processo Penal - Princípio da identidade física do Juiz, pois o agravante não logrou infirmar o fundamento da decisão agravada no sentido de que, apesar de o referido princípio admitir exceções, a sua não observância só ocasiona o vício processual em caso de demonstração de prejuízo concreto, o qual não ficou demonstrado com o simples argumento de que o processo da ação penal é por demais complexo, e o prolator sentença sequer entendeu a dinâmica dos fatos 3. Quanto ao princípio da correlação entre a denúncia e a sentença, conforme assentado no acórdão, a sentença não alterou a descrição dos fatos contidos na denúncia e decidiu a controvérsia nos limites da lide.
+4. Não se desconhece a jurisprudência consolidada do STJ de que a atenuante da confissão espontânea deve ser aplicada, mesmo em casos de confissão parcial ou qualificada, desde que a confissão seja utilizada como fundamento para a condenação, conforme o enunciado da Súmula n. 545/STJ.
+5. No caso, a instância originária afastou a aplicação da atenuante ao fundamento de que o agravante não confessou a prática delitiva, sendo inviável seu reconhecimento.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.472.104/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
