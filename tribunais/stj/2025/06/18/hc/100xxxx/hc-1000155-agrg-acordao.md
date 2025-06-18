@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas E ASSOCIAÇÃO AO TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante e corréus, acusados de tráfico de drogas e associação.
+2. Durante cumprimento de mandados de busca e apreensão, foram encontrados entorpecentes, balança de precisão e dinheiro em duas residências, resultando na prisão dos investigados.
+3. A prisão preventiva foi decretada com base na gravidade concreta da conduta delitiva e na garantia da ordem pública, conforme art. 312 do CPP. A defesa alega que a prisão foi decretada de forma conjunta, sem distinção do grau de envolvimento de cada corréu.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante, decretada com base na quantidade e diversidade dos entorpecentes apreendidos, é justificada, considerando a alegação de que o agravante não era alvo da investigação e se encontrava no local como eventual adquirente.
+III. Razões de decidir
+5. A quantidade e diversidade dos entorpecentes apreendidos justificam a prisão preventiva para garantia da ordem pública.
+6. A presença de condições pessoais favoráveis, como primariedade e bons antecedentes, não autoriza a revogação da prisão preventiva se presentes os pressupostos do art. 312 do CPP.
+7. A substituição da prisão por medidas cautelares do art. 319 do CPP não é suficiente, dada a gravidade dos fatos.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. A quantidade e diversidade dos entorpecentes apreendidos podem justificar a prisão preventiva para garantia da ordem pública. 2. Condições pessoais favoráveis não autorizam a revogação da prisão preventiva se presentes os pressupostos do art. 312 do CPP. 3. A substituição da prisão por medidas cautelares não é suficiente quando a gravidade dos fatos indica risco à ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 967.318/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 05.03.2025; STJ, AgRg no HC 959.647/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 12.02.2025; STJ, AgRg no RHC 204.865/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 19.02.2025; STJ, AgRg no HC 964.753/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 26.02.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIO CELSO ALVES ARANTES contra decisão na qual não conheci do habeas corpus (e-STJ, fls. 32-36).
+Em seu arrazoado, a defesa reitera a tese de que "A prisão foi decretada de forma conjunta em relação a cinco corréus, sem qualquer distinção quanto ao grau de envolvimento de cada um nos fatos apurados." Pontua que o agravante "não era alvo da investigação e se encontrava no local apenas na condição de eventual adquirente de entorpecente, o que o aproxima mais da figura do usuário do que da de traficante." Afirma que "A quantidade de droga, isoladamente, não autoriza a decretação da prisão preventiva".
+Requer a reconsideração da decisão agravada ou o julgamento do recurso pelo Colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas E ASSOCIAÇÃO AO TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante e corréus, acusados de tráfico de drogas e associação.
+2. Durante cumprimento de mandados de busca e apreensão, foram encontrados entorpecentes, balança de precisão e dinheiro em duas residências, resultando na prisão dos investigados.
+3. A prisão preventiva foi decretada com base na gravidade concreta da conduta delitiva e na garantia da ordem pública, conforme art. 312 do CPP. A defesa alega que a prisão foi decretada de forma conjunta, sem distinção do grau de envolvimento de cada corréu.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante, decretada com base na quantidade e diversidade dos entorpecentes apreendidos, é justificada, considerando a alegação de que o agravante não era alvo da investigação e se encontrava no local como eventual adquirente.
+III. Razões de decidir
+5. A quantidade e diversidade dos entorpecentes apreendidos justificam a prisão preventiva para garantia da ordem pública.
+6. A presença de condições pessoais favoráveis, como primariedade e bons antecedentes, não autoriza a revogação da prisão preventiva se presentes os pressupostos do art. 312 do CPP.
+7. A substituição da prisão por medidas cautelares do art. 319 do CPP não é suficiente, dada a gravidade dos fatos.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. A quantidade e diversidade dos entorpecentes apreendidos podem justificar a prisão preventiva para garantia da ordem pública. 2. Condições pessoais favoráveis não autorizam a revogação da prisão preventiva se presentes os pressupostos do art. 312 do CPP. 3. A substituição da prisão por medidas cautelares não é suficiente quando a gravidade dos fatos indica risco à ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 967.318/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 05.03.2025; STJ, AgRg no HC 959.647/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 12.02.2025; STJ, AgRg no RHC 204.865/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 19.02.2025; STJ, AgRg no HC 964.753/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 26.02.2025.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+A prisão preventiva foi assim decretada:
+Segundo consta, após investigações preliminares que indicavam a prática de tráfico de drogas em duas residências localizadas na Vila Arruda, em Itapetininga/SP, foram cumpridos mandados de busca e apreensão que resultaram na prisão dos investigados. Na Rua José Messias Corrêa, nº 64, foram encontrados 520 microtubos de cocaína, uma pedra grande de crack, diversas porções menores da mesma . Osubstância, balança de precisão e anotações relativas ao comércio de drogas investigado GIOVANE, ao perceber a chegada dos policiais, tentou fugir, sendo capturado após perseguição e resistindo à prisão. Com ele foi apreendido o valor de R$ 64,00. Já na Rua Luiz Teixeira Ribas, nº 10, foram localizados 43 microtubos de cocaína com SARA e JOSÉ CARLOS, sendo que SARA tentou ocultar os entorpecentes dos policiais. Na sala do mesmo imóvel estavam GABRIEL e MARIO, tendo sido encontradas 36 pedras de crack, 86 microtubos de cocaína e R$ 120,00 no É o relatório. Decido.  ..  A investigação préviasofá onde ambos se encontravam. indicava que o imóvel da Rua Luiz Teixeira Ribas nº 10 funcionava como local de Aarmazenamento das drogas, que depois eram transportadas até os pontos de venda. presença de todos os autuados nos locais de busca, junto às drogas e dinheiro, indica a existência de prévio liame associativo. As escusas de JOSÉ CARLOS não convencem, especialmente porque os entorpecentes foram encontrados no mesmo cômodo onde ele estava, tendo SARA inclusive tentado ocultá-los. Da mesma forma, GABRIEL e MARIO foram flagrados no sofá onde estavam dezenas de porções de drogas e dinheiro, sendo que suas alegações de mera presença casual não se sustentam. GIOVANE, por sua vez, foi flagrado previamente pelos policiais em diversas campanas promovendo o tráfico de entorpecentes na mesma localidade, junto a PABLO e "BANG", fatos que ensejaram a expedição do mandado de busca e apreensão. A quantidade e natureza das drogas apreendidas (mais de 600 porções entre crack e cocaína), somadas à apreensão de balança de precisão, anotações do tráfico e dinheiro, indicam envolvimento significativo com o comércio de Todas as drogas apresentavam o mesmo padrão de embalagementorpecentes. ("bandeirinha do dólar e da Colômbia"), evidenciando origem comum e associação entre os investigados. A tentativa de fuga de GIOVANE e de ocultação das drogas por SARA demonstram consciência da ilicitude e tentativa de evitar a prisão, reforçando a necessidade da custódia preventiva. Soma-se a isso o fato de que GIOVANE, SARA e MARIO são reincidentes, conforme apontado nos autos.
+No caso, observa-se que a custódia cautelar atendeu ao disposto no art. 312 do CPP e está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o agravante e os corréus, previamente ajustados e com unidade de desígnios, tinham em depósito razoável quantidade de entorpecentes - 43 microtubos contendo cocaína (3,8g), 36 pedras de crack (8,3g) e 82 pinos contendo cocaína (172,79g), para o comércio ilícito de entorpecentes.
+Esta Corte possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito: (AgRg no HC n. 967.318/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025; AgRg no HC n. 959.647/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025).
+Anote-se, ademais, que o pedido de substituição da prisão por outras cautelares do art. 319 do CPP não se mostra suficiente ao caso, porquanto a gravidade do fato indica que a ordem pública não estaria acautelada com a sua soltura do ora agravante.
+Do mesmo modo, registre-se que a presença de condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa, não autoriza a revogação da prisão preventiva ou a liberdade ao réu, se presentes os pressupostos do art. 312 do CPP (AgRg no RHC n. 204.865/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; AgRg no HC n. 964.753/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Ante o exposto, nego provimento ao agravo.
+É o voto.
