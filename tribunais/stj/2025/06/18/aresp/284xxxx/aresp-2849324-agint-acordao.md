@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Não tendo a agravante refutado todos os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Camille Friedrich Oliveira contra decisão desta relatoria, assim ementada (e-STJ, fl. 337):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA COMBINADA COM OBRIGAÇÃO DE FAZER. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+Em suas razões, a agravante assevera que refutou devidamente os fundamentos da decisão de inadmissibilidade do recurso especial.
+Sustenta que a ofensa ao art. 1.022 do CPC/2015 não foi objeto de alegação no recurso interposto, nem fundamento da decisão agravada, motivos pelos quais seria incabível impugná-la.
+Assegura que a prejudicialidade da divergência jurisprudencial, ante o óbice imposto pela alínea a do permissivo constitucional, "não foi objeto de combate pela ora agravante e de fato nem poderia, afinal naturalmente não teria como ser combatido na medida em que a divergência jurisprudencial sequer foi analisada ou avaliada pelo Tribunal a quo, sob argumento de que o óbice imposto à admissão do recurso (fundamento ii acima) impediria adentrar na análise da divergência jurisprudencial" (fl. 346, e-STJ).
+Impugnação às fls. 352-354 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Não tendo a agravante refutado todos os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+É assente o entendimento desta Corte Superior no sentido de que "o agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa, consoante expressa previsão contida no art. 932, III, do CPC de 2015 e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ" (AgInt no AREsp 1.490.629/SP, Rel. o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2021, DJe 25/8/2021).
+No caso, verifica-se que a agravante não refutou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, que apontava, além da impossibilidade de análise de portarias, pela via do recurso especial, por não se enquadrar no conceito de lei federa; a inexistência de ofenda ao art. 1.022 do CPC/2015 e a prejudicialidade da divergência jurisprudencial.
+Com efeito, à luz do princípio da dialeticidade, a agravante deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do apelo especial, sob pena de seu não conhecimento. Assim, como não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA N. 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I - Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, ante o óbice da Súmula n. 182 do STJ.
+II - Nos termos da jurisprudência atual e consolidada desta Corte, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o recurso especial, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do recurso, sob pena de não ser conhecido o agravo em recurso especial (art. 932, III, do CPC vigente). Nesse sentido: STJ, EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018; AgInt nos EAREsp n. 1.074.493/RS, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 20/8/2019; AgInt no AREsp n. 1.505.281/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2019; AgInt no AREsp n. 1.579.338/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1º/7/2020; AgRg nos EAREsp n. 1.642.060/SC, relator Ministro Raul Araújo, Corte Especial, DJe de 16/9/2020; AgInt nos EDcl no AREsp n. 1.693.577/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/11/2020.
+III - No caso, por simples cotejo entre o decidido e as razões do agravo em recurso especial, verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o recurso especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015, bem como do teor da Súmula n. 182 do Superior Tribunal de Justiça, por analogia.
+IV - A mera "alegação de suposta usurpação de competência desta Corte, por si só, não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do Recurso Especial" (STJ, AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (Desembargador Federal convocado do Trf5), Primeira Turma, DJe de 17/8/2022), já que é firme o entendimento na Corte Superior, no sentido de que incumbe à Presidência do Tribunal de origem realizar o juízo de admissibilidade do recurso, inclusive, em relação aos pressupostos constitucionais e específicos concernentes ao mérito recursal, sem que isso implique usurpação da competência do STJ. Precedentes.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.492.020/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.527.635/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Esclareça-se que, não tendo a agravante refutado os argumentos apresentados na decisão estadual no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM MOMENTO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça (STJ) possui entendimento no sentido de que "sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio, em observância ao princípio da unirrecorribilidade das decisões judiciais" (AgInt no REsp 2.014.742/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/5/2023, DJe de 10/5/2023).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.077.812/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182 DO STJ. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. INAPLICABILIDADE.
+1. A jurisprudência do STJ aplica, por analogia, a Súmula 182/STJ ao Agravo que não refuta, de maneira específica, os fundamentos do decisum de inadmissão do Recurso Especial.
+2. O agravante não infirmou, de forma incisiva e específica, a motivação da decisão de inadmissão do Recurso Especial.
+3. As razões do Agravo em Recurso Especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa reformar a decisão. Ressalte-se que a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial (somente por ocasião do manejo de Agravo Interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência d e preclusão consumativa.
+4. Não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC/2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários.
+5. Agravo Interno parcialmente provido, tão somente para excluir a majoração de honorários advocatícios (art. 85, § 11, do CPC/2015).
+(AgInt no AREsp 1315244/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/02/2019, DJe 11/03/2019)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
