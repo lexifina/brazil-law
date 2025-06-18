@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INVESTIGAÇÃO CRIMINAL. POSSÍVEIS CRIMES CONTRA O SISTEMA FINANCEIRO. PRETENSÃO DE TRANCAMENTO DO INQUÉRITO. EXCESSO DE PRAZO NÃO CONFIGURADO. AUSÊNCIA DE JUSTA CAUSA. EXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada com recomendação de celeridade.
+RELATÓRIO
+Estes autos foram a mim distribuídos por prevenção (HC n. 954.052/PR).
+Trata-se de habeas corpus ajuizado em nome de FERNANDO HENRIQUE MARCELINO CASTILHO, no qual se busca o imediato trancamento do Inquérito Policial n. 5011932-22.2022.4.04.7002 (2022.0040307), conduzido pela Polícia Federal de Foz do Iguaçu/PR.
+Aponta-se como autoridade coatora o Tribunal Regional Federal da 4ª Região, que denegou a ordem no HC n. 5013837-48.2024.4.04.0000/PR.
+Alega-se que o inquérito em questão foi instaurado há cerca de 2 anos e 4 meses e, até a presente data, não foi finalizado, tampouco houve o indiciamento do paciente nem qualquer outro fato relevante que justificasse o eventual sobrestamento de seu andamento.
+Argumenta-se que não há elementos suficientes para prosseguir com as investigações, pois não foram apurados delitos conforme a portaria de instauração, e eventuais provas já se diluíram ou inexistem.
+Indeferi o pedido liminar (fls. 89/90).
+O Juízo de Direito e o Delegado de Polícia Federal prestaram informações (fls. 95/96 e 116/124).
+Ouvido, o Ministério Público Federal opinou de acordo com este resumo (fl. 129):
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PARECER PELO NÃO CONHECIMENTO, INEXISTINDO RAZÃO PARA A CONCESSÃO DA ORDEM DE OFÍCIO.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INVESTIGAÇÃO CRIMINAL. POSSÍVEIS CRIMES CONTRA O SISTEMA FINANCEIRO. PRETENSÃO DE TRANCAMENTO DO INQUÉRITO. EXCESSO DE PRAZO NÃO CONFIGURADO. AUSÊNCIA DE JUSTA CAUSA. EXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada com recomendação de celeridade.
+VOTO
+Entendo que não está configurado o alegado constrangimento ilegal.
+Destaco, de início, que o trancamento de inquérito policial por meio de habeas corpus é medida excepcional, sendo cabível, tão somente, quando inequívoca a ausência de justa causa, a atipicidade do fato ou a inexistência de autoria por parte do indiciado, não sendo esse o caso dos autos (AgRg no HC n. 950.643/RS, Ministro Og Fernandes, Sexta Turma, DJEN 23/12/2024). Na mesma linha, por exemplo, o AgRg no RHC n. 208.493/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 0/3/2025.
+Ademais, a verificação da justa causa para o prosseguimento do inquérito demanda incursão no conteúdo fático-probatório dos autos, providência incompatível com os estreitos limites da via eleita.
+Ainda, da leitura das informações transmitidas pelo Juízo de Direito e pelo Delegado de Polícia Federal e do acórdão, não se constata, ao menos neste momento, demora injustificada na conclusão do procedimento investigatório.
+Segundo noticiado pelo delegado de polícia, às fls. 116/124, a investigação, conduzida pela Polícia Federal, teve início em 18/6/2022, após abordagem realizada pela Polícia Rodoviária Federal no município de Céu Azul/PR, ocasião em que foram apreendidos R$ 410.592,00 (quatrocentos e dez mil, quinhentos e noventa e dois reais) em espécie, ocultos na caçamba do veículo conduzido pelo investigado. Informou, ainda, que o paciente apresentou versões contraditórias sobre a origem dos valores, sem fornecer documentação comprobatória, o que levantou dúvidas quanto à veracidade das alegações. Também indicou que o veículo estava registrado em nome de terceiro, sem formalização da transferência ao paciente. Por fim, mencionou que a investigação permanece em curso, diante da complexidade dos fatos e de indícios de crime de natureza financeira.
+Com efeito, conforme consignado pela instância de origem, trata-se de investigação de natureza complexa, envolvendo valores expressivos em dinheiro e suposto crime antecedente, além de haver demandado a instauração de incidente específico para a quebra de sigilo de dados, medida que, por si só, implica diligência adicional, submetida ao controle jurisdicional (fls. 95/96).
+O conjunto dessas circunstâncias confere ao procedimento investigativo contornos que naturalmente extrapolam a média de duração de inquéritos mais simples. Aliás, de acordo com o que foi reportado pelo magistrado, o feito já contabiliza 118 eventos e 319 páginas, o que evidencia o grau de detalhamento e o volume da apuração em curso.
+A propósito, ponderou o parecerista que não se vislumbra flagrante ilegalidade a ser reparada neste momento, considerando-se adequada a fundamentação do acórdão recorrido, especialmente ao lembrar que a ".. jurisprudência é uníssona no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critério de razoabilidade no exame da marcha procedimental" (fl. 131).
+Realmente, é pacífico o entendimento do Superior Tribunal de Justiça de que a constatação de eventual excesso de prazo para a conclusão de inquérito e, até mesmo de processo, não é resultado de operação aritmética de soma de prazos. É imprescindível sopesar a complexidade dos fatos e dos crimes sob investigação, o número de pessoas envolvidas e as demais circunstâncias que tornam razoável a dilação do prazo para o encerramento do procedimento de investigação. Nesse sentido, o AgRg no HC n. 502.748/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019; e o AgRg no HC n. 614.321/PE, Ministro Felix Fischer, Quinta Turma, DJe 18/12/2020.
+Diante desse contexto, por ora, afigura-se razoável o tempo de tramitação das investigações até aqui registrado, sobretudo porque não há indicativo de inércia ou desídia por parte dos órgãos encarregados da apuração dos fatos.
+De qualquer forma, diante da menção de que o relatório final do inquérito policial ainda não foi apresentado devido às diligências investigativas que permanecem pendentes (fl. 96), recomenda-se às autoridades competentes maior celeridade para a conclusão das investigações, uma vez que não pode o paciente permanecer em estado de insegurança jurídica acerca dos fatos em apuração.
+Ante o exposto, denego a ordem com recomendação para que as investigações sejam concluídas com brevidade.
