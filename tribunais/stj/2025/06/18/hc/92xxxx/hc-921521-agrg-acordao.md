@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR. REVISÃO CRIMINAL. REITERAÇÃO DE PEDIDO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Agravo regimental interposto contra decisão monocrática de Desembargador, sem a interposição de agravo regimental para oportunizar o debate da matéria pelo órgão colegiado.
+2. Incabível a concessão da ordem, de ofício, uma vez que a reiteração de pedido justifica o não conhecimento da segunda revisão criminal. Ademais, a incidência da causa de aumento na terceira fase da dosimetria da pena em fração diversa do mínimo legal foi motivada de forma concreta pelo julgador, conforme os contornos do caso.
+3. Agravo regimental não provido.
+RELATÓRIO
+PETERSON FRANCISCO DA CRUZ agrava da decisão de fls. 127-130, denegatória do habeas corpus.
+Para a parte, existe flagrante ilegalidade na terceira fase da dosimetria, uma vez que a fundamentação utilizada para aplicar fração diversa do mínimo legal é genérica e abstrata.
+Pede a concessão da ordem pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR. REVISÃO CRIMINAL. REITERAÇÃO DE PEDIDO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Agravo regimental interposto contra decisão monocrática de Desembargador, sem a interposição de agravo regimental para oportunizar o debate da matéria pelo órgão colegiado.
+2. Incabível a concessão da ordem, de ofício, uma vez que a reiteração de pedido justifica o não conhecimento da segunda revisão criminal. Ademais, a incidência da causa de aumento na terceira fase da dosimetria da pena em fração diversa do mínimo legal foi motivada de forma concreta pelo julgador, conforme os contornos do caso.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+PETERSON FRANCISCO DA CRUZ alegou, neste habeas corpus, coação ilegal em decorrência de decisão monocrática de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, que não conheceu da Revisão n. 0038450-70.2024.8.19.0000.
+Anteriormente, no âmbito desta Corte, a defesa havia impetrado o HC n. 896.162/RJ contra acórdão estadual proferido na primeira Revisão n. 0038450-70.2024.8.19.0000. Todavia, a ordem foi denegada. Para a parte, como esta Corte não examinou o "pleito relacionado à causa de aumento da pena" (fl. 5), haja vista a supressão de instância, era cabível o ajuizamento de nova ação revisional. Assim, a Desembargadora do Tribunal de origem não podia extinguir o processo sem "entregar a jurisdição ao Paciente no ponto específico da terceira fase da dosimetria da pena" (fl. 7).
+O impetrante pediu a concessão da ordem, para que o Tribunal de origem prossiga o julgamento da Revisão n. 0038450-70.2024.8.19.000.
+Na decisão agravada, ressaltei que era incabível a impetração de habeas corpus contra decisão monocrática de Desembargador. Antes, a parte deveria "interpor o recurso de agravo regimental, para oportunizar o debate da matéria pelo respectivo órgão colegiado" (AgRg no HC n. 856.917/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 23/4/2024, DJe de 26/4/2024).
+Expliquei que, contra a decisão proferida no HC n. 896.162/RJ, a defesa não opôs embargos de declaração nem interpôs recurso. Assim, está preclusa a decisão.
+A segunda ação revisional deixou de ser conhecida pela Desembargadora relatora, de forma justificada, por indevida reiteração de pedido, pois, no julgamento da Revisão Criminal n. 0092106-73.2023.8.19.0000, o órgão de segundo grau havia se manifestado sobre a majorante do art. 40, IV, da Lei n. 11.343/2006 (fls. 101-109):
+ ..  fica mantido o aumento maior na terceira fase em razão da majorante do artigo 40, IV, da Lei 11343/06, eis que observada a natureza do crime".
+Como se vê, os severos aumentos levados a efeito na primeira e na terceira fases da dosimetria da pena estão detalhadamente fundamentados pelo Juiz a quo e da mesma forma foram mantidos pela c. Primeira Câmara Criminal, por unanimidade.
+O critério utilizado situa-se no âmbito da discricionariedade do Julgador e não pode ser reavaliado na presente ação autônoma de impugnação, porquanto, repita-se, este Colegiado não é instância recursal. Em relação à dosimetria da pena, a Revisão Criminal também tem cabimento restrito, conforme entendimento consolidado do Superior Tribunal de Justiça.
+Como bem destacou o Ministério Público Federal, em seu parecer, "a Corte de origem entendeu que a dosimetria relativa à majorante do art. 40, IV, da Lei n. 11.343/06 fora examinada  .. , situando-se o critério utilizado para a fração de aumento ( ) no âmbito da discricionariedade do julgador" (fl. 120).
+Incabível a concessão da ordem, de ofício. A decisão da Desembargadora não é flagrantemente ilegal, pois entendeu que "a questão e argumentos aqui deduzidos já foram deduzidos pelo Requerente e apreciados pelo QUARTO GRUPO DE CÂMARAS CRIMINAIS na Revisão Criminal anteriormente proposta e julgada improcedente, tratando-se, então, de coisa julgada" (fl. 14), razão pela qual não poderia ser objeto de nova apreciação.
+Não há falar, ainda, em ilegalidade na terceira fase da dosimetria . Conforme registrado nos autos:
+Vale registrar que, através das interceptações telefônicas os integrantes da referida organização criminosa foram identificados e de acordo com o teor dos diálogos mantidos entre eles foi possível evidenciar o vínculo subjetivo e a função de cada um dos acusados, ou seja, FABRÍCIO, vulgo "BICINHO", era apontado como responsável por diversos homicídios na localidade e como chefe do tráfico local. Já PETERSON, vulgo "NEGO", era apontado como importante traficante do bairro Santa Cruz e parceiro estável e permanente de Fabrício nas empreitadas criminosas.
+Acrescente-se que vários trechos das transcrições telefônicas demonstram o envolvimento dos acusados FABRÍCIO e PETERSON com a associação para o tráfico, intimidação da população e aquisição e uso de armas de fogo  ..
+ ..  FABRÍCIO e PETERSON integravam organização criminosa hierarquizada e armada que comandava o tráfico no bairro Dom Bosco, realizando tráfico de drogas e reprimindo com grande violência qualquer indivíduo que contrariasse os interesses da quadrilha.
+Somado a tudo isso, os acusados são inegavelmente possuidores de péssima conduta social, de personalidade desajustada e de vasto e assombroso histórico criminal  ..  (fls. 73-74).
+Foi delimitado que os réus "integravam organização criminosa hierarquizada e armada que comandava o tráfico no bairro Dom Bosco,  ..  reprimindo com grande violência qualquer indivíduo que contrariasse os interesses da quadrilha" (fls. 73-74). Nesse contexto, o Juiz aplicou o art. 40, IV, da Lei n. 11.343/2006, na fração de 1/2, "diante do modo de atuação do apenado e o temor que impunha sobre a população" (fl. 54, destaquei). A fundamentação não é genérica nem abstrata; está relacionada aos contornos do caso.
+O acórdão está alinhado ao entendimento desta Corte, de que "a incidência das causas de aumento previstas no art. 40 da Lei n. 11.343/06 em patamar acima do mínimo legal exige motivação concreta, devendo o magistrado indicar as circunstâncias fáticas do delito que justifiquem a aplicação de fração superior" (HC n. 379.926/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 8/5/2017, grifei).
+Em resumo: a reiteração de pedido justifica o não conhecimento da segunda revisão criminal e inexiste flagrante ilegalidade na terceira fase da dosimetria a atrair a concessão da ordem, de ofício.
+À vista do exposto, nego provimento ao agravo regimental.
