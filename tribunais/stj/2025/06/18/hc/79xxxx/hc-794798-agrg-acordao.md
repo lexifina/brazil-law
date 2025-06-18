@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO AGRAVADA QUE NÃO CONHECEU DO RECURSO EM RAZÃO DA INTEMPESTIVIDADE. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ALEGADA NECESSIDADE DE INTIMAÇÃO PESSOAL DO ADVOGADO IMPETRANTE DO WRIT. DEFENSOR DATIVO. NOMEAÇÃO RESTRITA À AÇÃO PENAL E SEUS RESPECTIVOS RECURSOS. INAPLICABILIDADE DA PROVIDÊNCIA EM AÇÃO AUTÔNOMA DE IMPUGNAÇÃO.
+1. A decisão monocrática proferida pelo relator não viola o princípio da colegialidade, não configura cerceamento de defesa, diante da possibilidade de submissão da matéria ao controle do colegiado mediante a interposição de agravo regimental.
+2. A nomeação do defensor dativo restringe-se à ação penal e seus respectivos recursos, não se estendendo automaticamente a ações autônomas de impugnação, ainda que derivadas da mesma matéria. No habeas corpus, o advogado atua como impetrante voluntário, não por designação judicial específica, motivo pelo qual não lhe são asseguradas as prerrogativas próprias do defensor dativo, como a intimação pessoal obrigatória. Precedente.
+3. Publicada a decisão que denegou a ordem de habeas corpus, o prazo recursal teve início de forma regular, mostrando-se extemporâneo o agravo regimental interposto após o decurso do interstício legal. Recurso intempestivo não autoriza a abertura de debate nem admite apreciação do mérito da matéria nele suscitada.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VIVIANE APARECIDA CANAVEZ DOS SANTOS contra a decisão, às fls. 655/666, resumida conforme esta ementa:
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. MANIFESTA INTEMPESTIVIDADE. INTERPOSIÇÃO MUITO ALÉM DO PRAZO DE 5 DIAS. ALEGADA NECESSIDADE DE INTIMAÇÃO PESSOAL DO ADVOGADO IMPETRANTE DO WRIT. DEFENSOR DATIVO. NOMEAÇÃO RESTRITA À AÇÃO PENAL E SEUS RESPECTIVOS RECURSOS. INAPLICABILIDADE DA PROVIDÊNCIA EM AÇÃO AUTÔNOMA DE IMPUGNAÇÃO. PRECEDENTE.
+Agravo regimental não conhecido.
+Alega a agravante que a questão examinada na decisão monocrática que não conheceu o agravo regimental deveria ter sido submetida ao colegiado da Sexta Turma desta Corte, em observância ao princípio da colegialidade e para viabilizar eventual recurso ao Supremo Tribunal Federal.
+Aduz que a intimação pessoal do defensor dativo é obrigatória, nos termos do art. 370, § 4º, do Código de Processo Penal e da jurisprudência dos Tribunais Superiores, de modo que sua ausência é causa de nulidade absoluta por ofensa à ampla defesa.
+Reitera os argumentos expostos na impetração e nas razões do primeiro agravo, destacando que, no curso da ação penal, o defensor não teve acesso aos documentos que embasaram a denúncia antes da audiência de instrução, o que comprometeu o exercício pleno da defesa. Ressalta, ainda, que não houve violação do princípio da unirrecorribilidade, uma vez que o HC n. 794.798/SP e o AREsp n. 2.493.806/SP versam sobre matérias e pedidos distintos.
+Dessa forma, requer a reconsideração da decisão agravada ou, caso assim não se entenda, que seja submetido o presente agravo regimental ao julgamento pela Sexta Turma desta Corte.
+Por meio da petição de fl. 671, a defesa pediu preferência na apreciação deste recurso.
+Não abri prazo para as contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO AGRAVADA QUE NÃO CONHECEU DO RECURSO EM RAZÃO DA INTEMPESTIVIDADE. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ALEGADA NECESSIDADE DE INTIMAÇÃO PESSOAL DO ADVOGADO IMPETRANTE DO WRIT. DEFENSOR DATIVO. NOMEAÇÃO RESTRITA À AÇÃO PENAL E SEUS RESPECTIVOS RECURSOS. INAPLICABILIDADE DA PROVIDÊNCIA EM AÇÃO AUTÔNOMA DE IMPUGNAÇÃO.
+1. A decisão monocrática proferida pelo relator não viola o princípio da colegialidade, não configura cerceamento de defesa, diante da possibilidade de submissão da matéria ao controle do colegiado mediante a interposição de agravo regimental.
+2. A nomeação do defensor dativo restringe-se à ação penal e seus respectivos recursos, não se estendendo automaticamente a ações autônomas de impugnação, ainda que derivadas da mesma matéria. No habeas corpus, o advogado atua como impetrante voluntário, não por designação judicial específica, motivo pelo qual não lhe são asseguradas as prerrogativas próprias do defensor dativo, como a intimação pessoal obrigatória. Precedente.
+3. Publicada a decisão que denegou a ordem de habeas corpus, o prazo recursal teve início de forma regular, mostrando-se extemporâneo o agravo regimental interposto após o decurso do interstício legal. Recurso intempestivo não autoriza a abertura de debate nem admite apreciação do mérito da matéria nele suscitada.
+4. Agravo regimental improvido.
+VOTO
+A irresignação não merece acolhimento.
+Destaco, de início, que a prolação de decisão monocrática pelo Ministro relator está autorizada não apenas pelo Regimento Interno do Superior Tribunal de Justiça, mas também pelo art. 932 do Código de Processo Civil de 2015. De mais a mais, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental (AgRg no HC n. 732.350/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2022).
+Quanto ao mais, mantenho a decisão agravada por seus próprios fundamentos, uma vez que a recorrente não logrou infirmar a motivação adotada para o não conhecimento do agravo regimental interposto contra a decisão que denegou o habeas corpus.
+Conforme consignado na decisão ora impugnada, a prerrogativa de intimação pessoal do defensor dativo decorre de nomeação judicial expressa, restrita à ação penal para a qual foi conferida.
+Tratando-se o habeas corpus de ação autônoma de impugnação, a atuação do advogado não configura defesa dativa, mas sim impetração voluntária. Por essa razão, não há nulidade a ser reconhecida por ausência de intimação pessoal, pois inexiste vínculo processual ou prerrogativa decorrente da nomeação originária aplicável ao presente feito. A propósito, o AgRg no HC n. 557.096/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/6/2020).
+Nesse contexto, a decisão de fls. 627/630 foi considerada publicada em 8/11/2024, iniciando-se o prazo recursal em 11/11/2024 e encerrando-se em 16/11/2024. O primeiro agravo regimental, contudo, somente foi apresentado em 15/12/2024, quando já se encontrava esgotado o respectivo prazo. Ressalte-se que a certidão de fl. 636 informa o trânsito em julgado da decisão denegatória do habeas corpus em 19/11/2024.
+Dessa forma, inexistindo vício na intimação, o prazo recursal transcorreu regularmente, razão pela qual o agravo regimental se mostrou manifestamente intempestivo.
+Se o recurso é extemporâneo, não há nada a debater, muito menos a decidir, a respeito da temática nele suscitada.
+Ante o exposto, nego provimento ao agravo regimental.
