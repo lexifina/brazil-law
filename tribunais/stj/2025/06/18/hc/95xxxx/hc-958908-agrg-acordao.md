@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. PEDIDO DE DESCLASSIFICAÇÃO PARA USO PRÓPRIO. VIA INADEQUADA. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática do egrégio Superior Tribunal de Justiça que não conheceu de habeas corpus impetrado em substituição a recurso próprio, em que se buscava a desclassificação da condenação por tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) para porte de droga para consumo próprio (art. 28 da mesma Lei). O agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, já com trânsito em julgado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível habeas corpus substitutivo de recurso próprio para desclassificar condenação por tráfico de drogas para porte para consumo próprio, diante da alegada insuficiência probatória e suposto constrangimento ilegal.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF firmou entendimento n o sentido de que o habeas corpus não se presta como sucedâneo de recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade.
+4. A pretensão defensiva de desclassificação da conduta exige reexame do conjunto fático-probatório dos autos, providência incompatível com os estreitos limites do habeas corpus.
+5. O acórdão condenatório reconheceu a prática de tráfico de drogas com base em elementos concretos, como a apreensão de 55 eppendorfs de cocaína, a quantia em dinheiro de origem não justificada e os depoimentos de policiais em juízo, afastando a hipótese de consumo pessoal.
+6. Não se vislumbra flagrante ilegalidade ou ausência de fundamentação que justifique a concessão da ordem de ofício nem a modificação da decisão agravada.
+IV. TESE E DISPOSITIVO
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade.
+2. A desclassificação da condenação por tráfico para porte para uso pessoal exige análise aprofundada do conjunto probatório, o que é vedado na via estreita do habeas corpus.
+3. A existência de condenação baseada em elementos concretos, como apreensão de droga fracionada e depoimentos testemunhais, afasta a alegação de constrangimento ilegal.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO DE PAULA RODRIGUES contra decisão que não conheceu do habeas corpus.
+O ora agravante foi condenado como incurso nas sanções d o art. 33, caput, da Lei 11.343/20 06, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+Sustenta a defesa que a condenação por tráfico de drogas não se sustenta diante das evidências apresentadas e que a conduta do agravante deve ser desclassificada para porte para consumo próprio, conforme o art. 28 da Lei de Drogas.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, a fim de que a conduta do agravante seja desclassificada para porte de droga para uso próprio.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. PEDIDO DE DESCLASSIFICAÇÃO PARA USO PRÓPRIO. VIA INADEQUADA. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática do egrégio Superior Tribunal de Justiça que não conheceu de habeas corpus impetrado em substituição a recurso próprio, em que se buscava a desclassificação da condenação por tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006) para porte de droga para consumo próprio (art. 28 da mesma Lei). O agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, já com trânsito em julgado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível habeas corpus substitutivo de recurso próprio para desclassificar condenação por tráfico de drogas para porte para consumo próprio, diante da alegada insuficiência probatória e suposto constrangimento ilegal.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF firmou entendimento n o sentido de que o habeas corpus não se presta como sucedâneo de recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade.
+4. A pretensão defensiva de desclassificação da conduta exige reexame do conjunto fático-probatório dos autos, providência incompatível com os estreitos limites do habeas corpus.
+5. O acórdão condenatório reconheceu a prática de tráfico de drogas com base em elementos concretos, como a apreensão de 55 eppendorfs de cocaína, a quantia em dinheiro de origem não justificada e os depoimentos de policiais em juízo, afastando a hipótese de consumo pessoal.
+6. Não se vislumbra flagrante ilegalidade ou ausência de fundamentação que justifique a concessão da ordem de ofício nem a modificação da decisão agravada.
+IV. TESE E DISPOSITIVO
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em caso de flagrante ilegalidade.
+2. A desclassificação da condenação por tráfico para porte para uso pessoal exige análise aprofundada do conjunto probatório, o que é vedado na via estreita do habeas corpus.
+3. A existência de condenação baseada em elementos concretos, como apreensão de droga fracionada e depoimentos testemunhais, afasta a alegação de constrangimento ilegal.
+VOTO
+A decisão agravada, que merece ser mantida por seus próprios fundamentos, foi assim proferida (fls. 55-57):
+Trata-se de habeas corpus, substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de BRUNO DE PAULA RODRIGUES, contra acórdão assim ementado (e-STJ fl. 20):
+Apelação criminal defensiva. Tráfico ilícito de entorpecentes. Recurso não provido. Materialidade delitiva e autoria comprovadas. Incabível a desclassificação para a rubrica do artigo 28 da Lei de Drogas. Dosimetria mantida. Na primeira fase, a pena-base foi fixada no mínimo legal, ausentes circunstâncias judiciais desfavoráveis. Na segunda fase, em razão da reincidência, houve acréscimo de 1/6. Na terceira fase, a recidiva afasta a aplicação da minorante prevista no § 4º, do art. 33, da Lei de Drogas, nos termos do próprio dispositivo. Total: cinco (5) anos e dez (10) meses de reclusão e quinhentos e oitenta e três (583) dias-multa. Regime que não se modifica, inicial fechado, em razão da reincidência, gravidade concreta do delito e personalidade despida dos princípios ético-jurídicos vigentes em sociedade. Não se substitui a pena corporal, pois ausentes os seus pressupostos. Apelo preso. Manutenção da prisão do apelante.
+O paciente foi condenado, com trânsito em julgado, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e o pagamento de 583 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fl. 20).
+A defesa alega, em síntese, a ocorrência de constrangimento ilegal, tendo em vista a ausência de indícios suficientes de autoria para condenação da paciente, sendo que não há qualquer prova que evidencie que o paciente praticou as atividades de traficância. Os policiais ouvidos em juízo, afirmaram que o paciente estava agachado, e que teria se levantado e adentrado a um bar, em um local conhecido como ponto de venda de drogas. Aduz que somente o fato de o paciente estar no local, agachado, e ter se levantado, não é por si só, fundamento para atribuir a ele a propriedade dos entorpecentes, sendo assim verifica-se a necessidade de desclassificação do crime do art. 33 da Lei 11.343/2006, para o art. 28 da referida Lei. Acrescenta que havia outros usuários no local, de modo que a droga estava escondida em uma meia no meio do mato. Portanto, poderia ter sido guardada no local por qualquer individuo, uma vez que é um local conhecido como ponto de venda de drogas, e é de praxe que sejam escondidas drogas em praças pelos traficantes.
+Ao final, requer a concessão da ordem para que seja desclassificada a conduta prevista no art. 33, caput , para a conduta prevista no art. 28, da referida Lei.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux).
+(..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Ressalte-se que, com relação às teses da falta de provas, "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - grifos acrescidos).
+Assim, alterar o quadro formado no Tribunal de origem demandaria inviável exame aprofundado das provas produzidas nos autos de origem, o que não se mostra possível no habeas corpus substitutivo de recurso próprio.
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Com relação ao pleito de desclassificação para a conduta prevista no art. 28 da Lei n. 11.343/2006, esta Corte já decidiu que, "Consoante o disposto no art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente" (RHC 94.980/RN, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/3/2021).
+No caso, as circunstâncias da prisão da agravante efetivamente conduzem à conclusão de que os entorpecentes apreendidos destinavam-se à mercancia, destacando-se o acórdão recorrido que "As drogas estavam embaladas individualmente, prontas para a entrega ao consumo de terceiros e a quantidade não era desprezível (55 eppendorfs de cocaína). Havia, ainda quantia de dinheiro (R$ 55,00), cuja origem lícita não foi minimamente demonstrada. Os insuspeitos depoimentos dos policiais militares e as circunstâncias da prisão - realizada após atitude suspeita do apelante ante a presença policial - não deixam dúvida quanto à real dinâmica dos fatos e a destinação mercantil do material ilícito apreendido (..) Em consequência, não há se falar em desclassificação da imputação para a rubrica do art. 28 da Lei de Drogas. O apelante poderia até mesmo ser usuário de drogas, todavia, isso não se deu de maneira exclusiva" (fls. 25-26).
+Nesse contexto, rever a conclusão firmada nas instâncias ordinárias, acerca da configuração do crime previsto no art. 33 da Lei n. 11.343/2006, implicaria o revolvimento do conjunto fático-probatório constante nos autos, o que é incabível em habeas corpus. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. PRETENDIDA ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE DROGAS PARA USO PRÓPRIO. INVIABILIDADE. CONTUNDENTE ACERVO PROBATÓRIO PARA LASTREAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. DEPOIMENTO DOS POLICIAIS EM JUÍZO. MEIO DE PROVA IDÔNEO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 904.513/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO DA PRÁTICA DO DELITO DESCRITO NO ART. 35 DA LEI DE DROGAS. ELEMENTOS CONCRETOS A DEMOSTRAR A ESTABILIDADE E A PERMANÊNCIA DO CRIME. PRETENSÃO DEFENSIVA A DEMANDAR REEXAME DE PROVAS. PLEITO DE APLICAÇÃO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. MANUTENÇÃO DA CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Cumpre ressaltar que o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas reconhecidas pelas instâncias ordinárias, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 897.035/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Considerando que o agravante não apresentou nenhum elemento capaz de alterar a conclusão do julgado, permanece o posicionamento firmado na decisão agravada, contexto em que nego provimento ao agravo regimental.
+É o voto.
