@@ -1,0 +1,24 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 414/417, in verbis:
+1. Trata-se de agravo em recurso especial interposto por R DAS D S contra decisão proferida pela Presidência do Tribunal de Justiça do Estado do Rio Grande do Norte que inadmitiu o processamento do recurso especial manejado em face do acórdão que negou provimento ao apelo defensivo para manter sua condenação pela prática das condutas previstas no art. 33, caput, da Lei n. 11.343/06, à pena de 05 (cinco) anos de reclusão, em regime semiaberto, e 500 (quinhentos) dias-multa.
+2. Em sede de recurso especial manejado com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, a Defesa alega violação aos arts. 33, §4º, da Lei 11. 343/2006. Postula, em síntese, o reconhecimento da causa de diminuição de pena do tráfico privilegiado (art. 33, §4º, da Lei nº 11.343/2006).
+3. Contudo, o Tribunal a quo (fls. 373/376) negou seguimento ao recurso com amparo no veto da Súmula 7 do Superior Tribunal Justiça.
+4. Adveio, então, o presente agravo, em cujas razões o agravante refuta o óbice precitado.
+5. Contrarrazões às fls. 388/393, os autos foram encaminhados ao Superior Tribunal de Justiça e, após, vieram com vista ao Ministério Público Federal.
+Cumpre acrescentar que a condenação do agravante se deu em decorrência da apreensão de aproximadamente 15g (quinze gramas) de maconha.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente writ encontra amparo na jurisprudência firmada nesta Corte Superior, razão pela qual vislumbro ser o caso de concessão liminar da ordem.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+No caso dos autos, constata-se que a dedicação à atividade criminosa foi assentada basicamente na quantidade e na natureza da droga apreendida e em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que o recorrente "é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena do agravante deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o agravante faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecendo a incidência da minorante do § 4º da Lei n. 11.343/2006, reduzir a pena do agravante para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
