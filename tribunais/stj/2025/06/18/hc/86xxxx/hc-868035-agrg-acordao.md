@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO ATIVA E USO DE DOCUMENTO FALSO. ILEGALIDADE DA CADEIA DE CUSTÓDIA PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPUGNAÇÃO DEFICIENTE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto." (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022.)
+2. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MATUZA TEIXEIRA SHIOZAKI contra decisão monocrática de minha relatoria que não conheceu do habeas corpus impetrado em seu favor (e-STJ fls. 1457/1462), assim relatada:
+"Trata-se de habeas corpus impetrado em benefício de MATUZA TEIXEIRA SHIOZAKI apontando como autoridade coatora o Tribunal de Justiça do Estado do Amapá (Embargos Infringentes n. 0017656-45.2019.8.03.0001).
+Depreende-se dos autos que foi o paciente condenado, pelos crimes de corrupção ativa e uso de documento falso, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, a ser cumprida inicialmente no regime fechado, mais pagamento de 159 (cento e cinquenta e nove) dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+O Tribunal de Justiça do Estado do Amapá, por maioria de votos, deu parcial provimento ao recurso para redimensionar a sanção do réu a 4 (quatro) anos e 9 (nove) meses de reclusão, mais pagamento de 26 (vinte e seis) dias-multa.
+Opostos embargos infringentes, foram rejeitados. Eis a ementa (e-STJ fl. 39):
+PENAL. PROCESSO PENAL. EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL. CORRUPÇÃO ATIVA. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. NÃO PROVIMENTO. 1) Havendo nos autos prova suficiente da autoria e materialidade do crime de corrupção ativa narrado na denúncia. 2) O delito de corrupção ativa, por se tratar de crime formal, ocorre com o simples ato de oferecer vantagem indevida a agente público. 3) Embargos Infringentes conhecidos e rejeitados.
+No Superior Tribunal de Justiça, sustenta a defesa que os "documentos juntados aos autos como elementos de convicção no Inquérito Policial n. 0132/2019 - e que firmaram o convencimento do d. Juízo de piso - em que o Paciente figurou como investigado, nada mais são que pedaços "emprestados" de Inquérito Policial n. 037/2018, sem qualquer comprovação fática do que foi alegado" (e-STJ fl. 5).
+Ressalta "que, no v. acórdão, presumiu -se  um suposto oferecimento ou pagamento de valor indevido a servidor para emissão de certificado falso, tomando por base outro processo que nunca foi trazido ao contraditório, uma clara violação ao art. 158-A do CPP, bem como à amplitude de defesa" (e-STJ fl. 10).
+Acrescenta divergir o acórdão "do entendimento consolidado pelo c. STJ, que é no sentido de não admitir a condenação embasada apenas em provas colhidas no inquérito policial, que não tenham sido submetidas ao devido processo legal, com observância dos princípios do contraditório e da ampla defesa" (e-STJ fl. 12).
+Reitera que o paciente "foi condenado por "meras suposições" de elementos coletados em inquérito nunca juntados pela d. acusação, tendo violado não apenas o princípio disparidade das armas, violado o devido processo legal e o direito digno a defesa, quando somente a acusação teve acesso amplo aos elementos de provas e os selecionou, levando o que lhe importasse ao contraditório" (e-STJ fl. 15).
+A liminar foi indeferida (e-STJ fls. 1426/1428).
+As informações foram prestadas (e-STJ fls. 1434/1440, 1443/1446).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, acaso conhecido, pela denegação da ordem (e-STJ fls. 1448/1454)."
+Na decisão agravada, não conheci do habeas corpus com base em dois fundamentos: (i) a questão relativa à suposta ilegalidade da quebra da cadeia de custódia probatória e do cerceamento de defesa não foi enfrentada pelo Tribunal de Justiça do Amapá, o que configuraria supressão de instância; e (ii) para se alcançar conclusão diversa da que chegou o Tribunal de origem quanto às provas para condenação, seria necessário o revolvimento aprofundado dos elementos fático-probatórios constantes dos autos, procedimento incompatível com a via eleita.
+No presente agravo regimental (e-STJ fls. 1467/1473), o agravante alega que não há supressão de instância, "porquanto, o v. acórdão expressamente aduziu pela condenação com fundamento na ação penal que não foi juntada, e, consequentemente, no inquérito que a embasou, motivo que possibilita a reanálise da r. decisão monocrática". Sustenta, ainda, que é possível a "revaloração jurídica da narrativa, sem jamais realizar revolvimento fático da matéria".
+Ao final, pede o provimento do agravo regimental para que seja dado seguimento ao writ com seu julgamento de mérito.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO ATIVA E USO DE DOCUMENTO FALSO. ILEGALIDADE DA CADEIA DE CUSTÓDIA PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPUGNAÇÃO DEFICIENTE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto." (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022.)
+2. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental não merece ser conhecido.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, não pode ser conhecido o agravo regimental que não impugna os fundamentos da decisão agravada de forma adequada.
+Com efeito, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, nos termos da Súmula n. 182/STJ (AgRg no AREsp n. 2.604.692/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025). Além disso, quando a decisão repousa em mais de um fundamento, cada um deles suficiente para mantê-la, é dever da parte agravante impugnar todos eles.
+Este dever de impugnação específica consubstancia-se na necessidade de que o recorren te confronte analiticamente todos os fundamentos da decisão recorrida que sejam suficientes, por si sós, para sustentá-la. Não se trata de exigência formal despropositada, mas de garantia da efetividade do contraditório e da própria dialética processual, permitindo que o órgão julgador compreenda precisamente as razões pelas quais o recorrente entende que a decisão deve ser reformada.
+No caso dos autos, a decisão agravada se fundamentou em dois aspectos para não conhecer do habeas corpus: (i) a tese da defesa quanto à ilegalidade da cadeia de custódia probatória e do cerceamento de defesa não foi enfrentada pelo Tribunal de Justiça do Amapá, o que configuraria supressão de instância; e (ii) o exame da alegação defensiva demandaria inevitável revisão do conjunto fático-probatório dos autos, procedimento incompatível com a natureza do habeas corpus.
+O agravante, contudo, não impugnou adequadamente o primeiro fundamento (supressão de instância). Em sua manifestação, limitou-se a afirmar genericamente: "Não há supressão de instância, porquanto, o v. acórdão expressamente aduziu pela condenação com fundamento na ação penal que não foi juntada, e, consequentemente, no inquérito que a embasou" (e-STJ fl. 1471).
+Com efeito, o agravante não demonstrou como a questão da ilegalidade da cadeia de custódia probatória e do cerceamento de defesa foi efetivamente enfrentada pelo Tribunal de Justiça do Amapá, tampouco trouxe elementos do acórdão impugnado que comprovassem que a matéria foi analisada pela Corte de origem.
+Quando a decisão monocrática repousa em mais de um fundamento, cada um deles suficiente para mantê-la, é dever da parte agravante impugnar todos eles, atendendo ao dever de dialeticidade imposto pelo art. 1.021, § 1º, do CPC e pela Súmula n. 182/STJ.
+Nesse sentido é a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não havendo a impugnação específica acerca dos fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto." (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022.)
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Habeas corpus concedido de ofício para afastar da pena-base a valoração negativa referente à quantidade e à natureza das drogas apreendidas.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.407.533/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica dos fundamentos da decisão agravada, com base na Súmula n. 115 do STJ.
+2. O agravante foi denunciado por infração ao art. 129, § 13, do Código Penal, com a inicial acusatória rejeitada pelo juízo de primeiro grau, mas o Tribunal de origem deu provimento ao recurso em sentido estrito do Ministério Público estadual, determinando o prosseguimento da ação penal.
+3. O recurso especial interposto pelo agravante foi inadmitido, levando à interposição de agravo em recurso especial, que também não foi conhecido por ausência de impugnação específica dos fundamentos da decisão agravada.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada, em violação ao princípio da dialeticidade, inviabiliza o conhecimento do agravo regimental.
+III. Razões de decidir
+5. O princípio da dialeticidade exige que o recurso impugne concreta e especificamente os fundamentos da decisão impugnada, demonstrando os motivos do eventual desacerto do julgado contestado.
+6. A defesa não comprovou que a representação processual do recorrente estava devidamente estabelecida, não afastando a incidência da Súmula n. 115 do STJ.
+7. A fundamentação deficiente do agravo em recurso especial atrai a incidência da Súmula n. 182 do STJ, que inviabiliza o conhecimento do recurso por falta de impugnação específica.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, em razão da violação ao princípio da dialeticidade. 2. A incidência da Súmula n. 182 do STJ impede o conhecimento do recurso por falta de impugnação específica dos fundamentos da decisão agravada".
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I; CPP, art. 395, inciso III. Jurisprudência relevante citada: STJ, AgRg no AREsp 2.215.484/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 12.06.2023; STJ, AgRg no AREsp 2.225.453/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 13.03.2023; STJ, AgRg no AREsp 2.295.338/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 27.06.2023.
+(AgRg no AREsp n. 2.778.445/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 28/4/2025.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
