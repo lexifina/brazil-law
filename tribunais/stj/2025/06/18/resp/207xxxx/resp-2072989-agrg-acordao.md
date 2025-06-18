@@ -1,0 +1,123 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, nos termos da Súmula n. 528/STF, e conheceu em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+2. No caso concreto, as rés transportaram 40 (quarenta) tijolos de maconha (mais de 27 quilos), sendo localizada anotações de contabilidade do tráfico. As instâncias ordinárias em análise ao conjunto das provas produzidas reconheceram dedicação da agravante à atividade criminosa.
+3. A agravante alega ausência de provas suficientes para condenação e impugna os depoimentos dos policiais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a Súmula n. 7/STJ incide sobre o pedido de absolvição.
+III. Razões de decidir
+5. O pedido de absolvição enseja reexame de provas, providencia inviável nos termos da Súmula n. 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: O pedido de absolvição enseja reexame de provas, providencia inviável nos termos da Súmula n. 7/STJ.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33; CPP, art. 386.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.775.047/PR, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/04/2025.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  FABIANA  EVANGELISTA  MORAES  DOS  SANTOS  contra  a  decisão  (fls.  777/783)  que  não  conheceu  do  agravo  em  recurso  especial,  nos  termos  da  Súmula  n.  528/STF  e  conheceu  em  parte  do  recurso  especial  para,  nessa  extensão,  negar-lhe  provimento.
+Em  síntese,  alega  a  agravante  que  o  caso  trataria  de  flagrante  ilegalidade  apta  à  concessão  da  ordem  de  ofício.  Aduz  que  não  há  prova  suficiente  para  condenação.  Impugna  os  depoimentos  dos  policiais.
+É  o  relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, nos termos da Súmula n. 528/STF, e conheceu em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+2. No caso concreto, as rés transportaram 40 (quarenta) tijolos de maconha (mais de 27 quilos), sendo localizada anotações de contabilidade do tráfico. As instâncias ordinárias em análise ao conjunto das provas produzidas reconheceram dedicação da agravante à atividade criminosa.
+3. A agravante alega ausência de provas suficientes para condenação e impugna os depoimentos dos policiais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a Súmula n. 7/STJ incide sobre o pedido de absolvição.
+III. Razões de decidir
+5. O pedido de absolvição enseja reexame de provas, providencia inviável nos termos da Súmula n. 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: O pedido de absolvição enseja reexame de provas, providencia inviável nos termos da Súmula n. 7/STJ.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33; CPP, art. 386.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.775.047/PR, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/04/2025.
+VOTO
+Analisando  os  requisitos  de  admissibilidade  do  agravo  regimental,  verifico  que  a  irresignação  não  prospera.
+A  decisão  proferida  está  assim  fundamentada  :
+Trata-se  de  recurso  especial  interposto  por  FABIANA  EVANGELISTA  MORAES  DOS  SANTOS  contra  acórdão  proferido  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  na  Apelação  Criminal  n.  1524749-07.2020.8.26.0228.
+FABIANA  EVANGELISTA  MORAES  DOS  SANTOS  opôs  embargos  de  declaração  que  foram  rejeitados  (fls.  691/694).
+Nas  razões  do  recurso  especial,  a  defesa  alega  violação  ao  art.  386  do  CPP  e  art.  33,  §4º,  da  Lei  n.  11.343/2006.  Aduz,  em  síntese,  que  não  há  prova  suficiente  para  condenação.  Pleiteia  a  aplicação  da  minorante  em  2/3.
+Contrarrazões  a  fls.  703/712.
+O  recurso  foi  parcialmente  admitido  (fls.  725).
+Interposto  agravo  em  recurso  especial  (fls.  731/736).
+O  Ministério  Público  Federal  manifestou-se  pelo  não  conhecimento  do  agravo  em  recurso  especial  e  pelo  conhecimento  parcial  e,  nessa  extensão,  pelo  não  provimento  do  recurso  especial  (fls.  767/770).
+É  o  relatório.
+DECIDO.
+Não  conheço  do  agravo,  nos  termos  da  Súmula  n.  528/STF,  aplicada  por  analogia,  tendo  em  vista  que  a  decisão  de  origem  admitiu  parcialmente  o  recurso.
+No  mais,  o  recurso  especial  comporta  parcial  conhecimento.
+Isso  porque  o  pleito  de  absolvição  enseja  reexame  de  provas,  o  que  é  vedado  pela  Súmula  n.  7  desta  Corte  Superior.
+Nesse  sentido:
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  TRÁFICO.  NULIDADE  DO  ACESSO  A  DADOS  DE  CELULAR.  PROVAS  SUFICIENTES.  ABSOLVIÇÃO.  IMPOSSIBILIDADE.  PENA-BASE  E  REGIME  PRISIONAL.  FUNDAMENTOS  CONCRETOS.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  O  consentimento  para  o  acesso  ao  celular  foi  dado  voluntariamente  pelo  corréu,  afastando  a  ilicitude  das  provas  obtidas.
+2.  As  provas  testemunhais,  os  dados  extraídos  do  celular  e  a  confissão  da  recorrente  são  suficientes  para  a  condenação  por  tráfico  de  drogas.
+3.  No  caso,  o  animus  associativo  e  a  estabilidade  do  vínculo  foram  demonstrados  pelas  instâncias  ordinárias,  sobretudo  pela  divisão  de  tarefas,  período  em  que  se  iniciou  a  associação  e  a  logística  do  transporte  e  da  distribuição  do  entorpecente.
+4.  A  revisão  dos  fundamentos  do  julgado  a  fim  de  absolver  a  acusada  exigiria  reexame  de  fatos  e  provas,  o  que  é  vedado  em  recurso  especial,  conforme  a  Súmula  n.  7  do  STJ.
+5.  A  pena-base  foi  corretamente  exasperada  devido  à  intermunicipalidade  do  tráfico,  demonstrando  maior  reprovabilidade  da  conduta.
+6.  Não  há  ilegalidade  na  fixação  de  regime  inicial  fechado  à  ré  condenada  a  pena  de  8  anos  de  reclusão,  se  houve  registro  de  circunstância  judicial  desfavorável  (art.  59  do  CP),  nos  termos  do  art.  33,  §  3º,  do  CP.
+7.  Agravo  regimental  não  provido.
+(AgRg  no  AREsp  n.  2.775.047/PR,  relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  1/4/2025,  DJEN  de  7/4/2025.)
+No  mais,  consta  do  acórdão:
+ ..  Os  investigadores  Cleber  Rodrigues  Gimenez  e  Gustavo  Cardoso  de  Souza,  no  entanto,  contaram  outra  história:  disseram  que,  no  dia  do  episódio,  receberam  informação  anônima,  dando  conta  de  que,  no  lugar  referido  na  denúncia,  havia  pessoas  transportando  drogas  no  interior  de  um  Chevrolet  Zafira,  razão  pela  qual  decidiram  averiguar.  Então,  diligenciando,  os  policiais  toparam  com  o  referido  veículo,  ocupado  por  duas  mulheres,  sendo  certo  que  ao  perceberem  a  aproximação  da  viatura,  a  motorista  tentou  fugir,  acelerando  o  carro,  mas  o  veículo  foi  interceptado  e  as  suas  ocupantes  detidas  e  identificadas  como  ERIKA  (a  piloto)  e  FABIANA  (a  passageira).
+Em  revista  pessoal,  nada  de  ilícito  foi  com  elas  encontrado.  Todavia,  em  inspeção  que  realizaram  no  veículo  de  ERIKA,  os  guardas  acharam  40  tijolos  de  erva  esverdeada  semelhante  à  maconha.
+ ..
+Por  outro  lado,  não  há  se  falar  na  concessão  do  benefício  previsto  no  artigo  33,  parágrafo  4º,  da  Lei  nº  11.343/06,  como  pedem  os  defensores  de  ERIKA  e  de  FABIANA.
+Nos  termos  do  referido  dispositivo  legal,  o  julgador  poderá  reduzir  a  pena  fixada  ao  agente  -  de  um  sexto  a  dois  terços  -  desde  que  este  seja  primário,  não  possua  antecedentes  criminais,  não  se  dedique  a  atividades  criminosas,  nem  integre  organização  criminosa.
+Cuida-se,  pois,  de  faculdade  que  o  julgador  usará  ou  não,  tendo  em  vista  as  circunstâncias  do  caso  concreto,  e  não  direito  subjetivo  do  acusado.  E,  na  hipótese  vertente,  tendo  em  vista  as  circunstâncias  que  envolveram  a  prisão  das  rés,  em  especial  a  natureza  e  a  grande  quantidade  do  narcótico  apreendido  (mais  de  27  quilos  de  maconha  -  fls.  15/17  e  349/351),  não  há  dúvida  que  ERIKA  e  FABIANA  possuíam  sério  envolvimento  com  a  máquina  criminosa  que  movimenta  o  comércio  ilícito  de  entorpecentes.  Em  tais  condições,  as  recorrentes  não  fazem  jus  ao  privilégio.
+Sobre  o  tema,  a  sentença  exarou:
+ ..  Frise-se  que  na  terceira  fase  de  aplicação  da  pena,  reputo  ausentes  os  pressupostos  previstos  no  artigo  33,  §  4º,  da  Lei  n.  11.343/06,  na  medida  em  que  as  circunstâncias  da  prisão  das  rés  indicam  que  elas  participavam  de  organização  criminosa,  na  medida  em  que  presas  transportando  mais  de  vinte  e  sete  quilos  de  maconha  (vide  fotografia  de  fls.  17),  além  de  terem  sido  encontradas  anotações  de  contabilidade  do  tráfico  (auto  de  exibição  e  apreensão  de  fls.  12/13).
+Ora,  considerando  a  quantidade  de  maconha  apreendida  e  respectivo  valor  de  mercado  não  é  crível  que  a  organização  criminosa  fosse  confiar  expressiva  quantidade  de  droga  a  alguém  que  não  tivesse  confiança  do  grupo;  a  indicar  vínculo  das  rés  com  organização  criminosa.
+Salienta-se  que  a  causa  de  diminuição  prevista  na  Lei  de  Drogas  é  utilizada  com  frequência  por  este  Juízo,  mas  entendo  que,  no  presente  caso,  há  evidências  claras  que  as  rés  faziam  parte  de  uma  estrutura  criminosa,  destinada  à  comercialização  de  maconha.  .. .
+Conforme  se  extrai,  o  Tribunal  local  considerou  em  análise  das  provas  dos  autos  elementos  de  dedicação  ao  tráfico  de  drogas.  Rever  esse  entendimento  é  inviável,  nos  termos  da  Súmula  n.  7  desta  Corte  Superior.
+Nesse  sentido:
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  PLEITO  DE  APLICAÇÃO  DA  CAUSA  DE  DIMINUIÇÃO  DO  TRÁFICO  PRIVILEGIADO.  NECESSIDADE  DE  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  INVIABILIDADE.  SÚMULA  7/STJ.  DECISÃO  DA  CORTE  A  QUO  QUE  É  CONSOANTE  À  JURISPRUDÊNCIA  DESTE  TRIBUNAL.  SÚMULA  83/STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  No  caso  dos  autos,  o  Tribunal  local  entendeu  estarem  presentes  elementos  probatórios  que  evidenciam  a  prática  de  crime,  pelo  agravante,  de  modo  reiterado,  em  razão  da  apreensão  de  vultuosa  quantidade  de  entorpecentes,  de  natureza  variada,  além  de  balanças  de  precisão  e  anotações  relativas  ao  comércio  de  material  estupefaciente.
+2.  Assim,  incide  o  óbice  descrito  no  enunciado  de  Súmula  n.  7  desta  Corte  em  relação  à  aplicação  do  redutor,  visto  que  o  Tribunal  Estadual  se  valeu  de  premissas  fáticas  do  caso  concreto  que  evidenciavam  que  o  acusado  se  dedicava  à  prática  de  crimes,  de  modo  que  a  reversão  de  tal  conclusão  demanda  ampla  imersão  no  arcabouço  probatório,  o  que  é  inviável  na  via  do  recurso  especial.
+3.  Ademais,  a  pretensão  recursal  encontra  óbice  nos  termos  do  verbete  sumular  n.  83  desta  Corte,  porquanto  a  jurisprudência  deste  Tribunal  vai  no  sentido  de  serem  suficientes  ao  afastamento  do  tráfico  privilegiado  os  motivos  esposados  no  acórdão  combatido,  porquanto  denotam  a  dedicação  do  agente  à  prática  de  atividades  criminosas,  conforme  ressaltado  pelos  julgados  transcritos.
+4.  Agravo  regimental  desprovido.
+(AgRg  no  AREsp  n.  2.525.894/MG,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  11/3/2025,  DJEN  de  18/3/2025.  -  g.n).
+
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  TRÁFICO  DE  ENTORPECENTES.  DOSIMETRIA.  MINORANTE  DO  TRÁFICO  PRIVILEGIADO.  AUSÊNCIA  DE  CONSTRANGIMENTO  ILEGAL.  REGIME  PRISIONAL  MAIS  SEVERO.  FUNDAMENTAÇÃO  CONCRETA.  QUANTIDADE  DE  DROGAS  APREENDIDAS.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  A  parte  que  se  considerar  agravada  por  decisão  de  relator  poderá  requerer  a  apresentação  do  feito  em  mesa  relativo  à  matéria  penal  em  geral,  para  que  a  Corte  Especial,  a  Seção  ou  a  Turma  sobre  ela  se  pronuncie,  confirmando-a  ou  reformando-a.
+2.  O  parágrafo  4º  do  art.  33  da  Lei  n.  11.343/2006  dispõe  que  as  penas  do  crime  de  tráfico  de  drogas  poderão  ser  reduzidas  de  1/6  a  2/3,  vedada  a  conversão  em  penas  restritivas  de  direitos,  desde  que  o  agente  seja  primário,  de  bons  antecedentes,  não  se  dedique  às  atividades  criminosas  nem  integre  organização  criminosa.  Na  ausência  de  indicação  pelo  legislador  das  balizas  para  o  percentual  de  redução  previsto  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006,  as  circunstâncias  da  apreensão  das  drogas  ou  da  prisão  em  flagrante  podem  ser  utilizadas  na  definição  de  tal  índice  ou,  até  mesmo,  no  impedimento  da  incidência  da  minorante,  quando  evidenciarem  a  dedicação  do  agente  ao  tráfico  de  entorpecentes.
+3.  No  caso,  houve  fundamentação  concreta  e  idônea  para  o  afastamento  do  tráfico  privilegiado,  lastreada  no  modus  operandi  empregado  na  execução  do  crime,  em  concurso  de  agentes,  para  o  transporte  de  19,  56  quilos  de  maconha,  elementos  aptos  a  justificar  o  afastamento  da  redutora  do  art.  33,  §4º,  da  Lei  n.  11.343/2006,  pois  demostram  envolvimento,  naquela  oportunidade,  com  organização  criminosa.  Rever  esse  entendimento  demandaria  revolvimento  da  matéria  fático-probatória,  procedimento  que,  a  toda  evidência,  é  incompatível  com  a  estreita  via  do  mandamus.
+4.  Acerca  do  regime  prisional,  houve  fundamentação  idônea  para  o  recrudescimento  do  regime  inicial,  qual  seja,  a  grande  quantidade  de  drogas  apreendidas.
+5.  Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  907.903/SP,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  1/7/2024,  DJe  de  6/8/2024).
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  VIOLAÇÃO  DO  ARTIGO  619  DO  CPP.  NÃO  OCORRÊNCIA.  ILEGALIDADE  DA  BUSCA  PESSOAL.  FALTA  DE  PREQUESTIONAMENTO.  INOVAÇÃO  RECURSAL.  MINORANTE  DO  ART.  33,  §4º,  DA  LEI  N.  11.343/2006.  SÚMULA  7  DO  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Não  há  violação  do  art.  619  do  CPP,  pois  o  Tribunal  de  origem  se  pronunciou  sobre  todos  os  aspectos  relevantes  para  a  definição  da  causa.
+2.  Não  merece  ser  conhecido  o  pleito  de  nulidade  pela  busca  pessoal  sem  fundadas  razões,  por  ausência  de  prequestionamento,  na  medida  em  que,  embora  opostos  embargos  declaratórios  na  origem,  a  questão  sequer  havia  sido  suscitada  nas  razões  de  apelação,  consistindo,  portanto,  em  inovação  recursal.
+3.  A  teor  do  disposto  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006,  os  condenados  pelo  crime  de  tráfico  de  drogas  terão  a  pena  reduzida,  de  um  sexto  a  dois  terços,  quando  forem  reconhecidamente  primários,  possuírem  bons  antecedentes  e  não  se  dedicarem  a  atividades  criminosas  ou  integrarem  organizações  criminosas.
+4.  No  caso,  a  Corte  de  origem  não  aplicou  o  referido  redutor,  por  entender  demonstrada  a  dedicação  do  recorrente  à  atividade  criminosa,  evidenciada  sobretudo  nas  circunstâncias  do  cometimento  do  delito  -  apreensão  em  compartimento  falso  de  veículo  de  quase  50  quilos  de  cocaína,  cujo  flagrante  se  deu  em  local  onde  outros  automóveis  eram  previamente  preparados  para  o  mesmo  fim  -  tudo  a  indicar  que  não  se  trataria  de  traficante  eventual.
+5.  Para  modificar  o  entendimento  adotado  nas  instâncias  inferiores  de  que  a  prática  do  tráfico  de  drogas  e  a  dedicação  em  atividade  criminosa  estão  configuradas  e  aplicar  a  minorante  prevista  na  Lei  de  Drogas,  seria  necessário  reexaminar  o  conteúdo  probatório  dos  autos,  o  que  é  inadmissível,  a  teor  da  Súmula  7  do  STJ.
+6.  Agravo  regimental  desprovido.
+(AgRg  no  REsp  n.  2.112.803/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  13/5/2024,  DJe  de  15/5/2024.)
+DIREITO  PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  VIOLAÇÃO  DE  DOMICÍLIO.  QUARTO  DE  MOTEL.  BUSCA  DOMICILIAR  SEM  MANDADO  JUDICIAL.  FUNDADAS  SUSPEITAS.  DENÚNCIA  ANÔNIMA  ESPECIFICADA.  CAMPANA.  ABORDAGEM.  INVESTIGAÕES.  LICITUDE  DAS  PROVAS.  DESCLASSIFICAÇÃO  PARA  USO  PESSOAL  E  TRÁFICO  PRIVILEGIADO.  SÚMULA  N.  7  DO  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+I.  Caso  em  exame
+1.  Agravo  regimental  interposto  contra  decisão  monocrática  que  conheceu  do  agravo  para,  com  fundamento  na  Súmula  568  do  STJ,  negar  provimento  ao  recurso  especial.  A  parte  agravante  sustenta  a  ilicitude  da  prova  obtida  em  busca  domiciliar  realizada  sem  mandado  judicial,  requerendo  sua  anulação.  Alega,  ainda,  que  a  conduta  não  configura  tráfico  de  drogas,  mas  sim  posse  para  uso  pessoal,  pleiteando  a  desclassificação  para  o  art.  28  da  Lei  n.  11.343/2006.  Requer,  por  fim,  a  aplicação  da  causa  de  diminuição  de  pena  prevista  no  art.  33,  §  4º,  da  referida  Lei.
+II.  Questão  em  discussão
+2.  Há  três  questões  em  discussão:  (i)  definir  se  a  busca  domiciliar  realizada  sem  mandado  judicial  configura  violação  de  domicílio  e  acarreta  nulidade  das  provas  obtidas;  (ii)  determinar  se  a  conduta  do  agravante  deve  ser  desclassificada  para  uso  pessoal,  nos  termos  do  art.  28  da  Lei  n.  11.343/2006;  (iii)  analisar  a  possibilidade  de  aplicação  da  causa  de  diminuição  de  pena  prevista  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006.
+III.  Razões  de  decidir
+3.  A  busca  domiciliar  realizada  sem  mandado  judicial  é  legítima  quando  há  fundadas  razões  para  suspeitar  da  prática  de  crime  permanente,  como  o  tráfico  de  drogas.  No  caso,  a  diligência  decorreu  de  denúncia  anônima  corroborada  por  campana  policial  e  informações  obtidas  com  o  gerente  do  motel,  que  indicavam  conduta  suspeita  dos  ocupantes  do  quarto.
+4.  A  jurisprudência  do  Supremo  Tribunal  Federal  estabelece  que  a  inviolabilidade  domiciliar  pode  ser  mitigada  diante  de  fundadas  razões  que  indiquem  a  ocorrência  de  crime  permanente,  como  o  tráfico  de  drogas,  conforme  decidido  no  RE  n.  603.616/RO  (Tema  280  da  repercussão  geral).
+5.  A  alegação  de  que  a  droga  apreendida  se  destinava  ao  consumo  pessoal  não  se  sustenta  diante  das  circunstâncias  do  caso  concreto.
+A  quantidade  de  12,5g  de  metanfetamina,  a  apreensão  de  balança  de  precisão,  cadernos  de  anotações  do  tráfico,  simulacros  de  arma  de  fogo  e  outros  objetos  típicos  da  traficância  indicam  a  destinação  mercantil  do  entorpecente.  A  revisão  desse  entendimento  demandaria  reexame  de  provas,  o  que  é  vedado  pelo  enunciado  da  Súmula  n.  7  do  STJ.
+6.  A  aplicação  da  causa  de  diminuição  de  pena  do  tráfico  privilegiado  exige  o  preenchimento  cumulativo  dos  requisitos  legais,  dentre  eles  a  não  dedicação  a  atividades  criminosas.  No  caso,  a  Corte  de  origem  afastou  a  benesse  com  base  na  apreensão  de  petrechos  do  tráfico,  anotações  contábeis  e  outros  indícios  concretos  de  habitualidade  delitiva.  A  revisão  desse  juízo  exigiria  reexame  do  conjunto  fático-probatório,  vedado  em  recurso  especial.
+7.  A  dosimetria  da  pena  não  pode  ser  revista,  pois  a  parte  recorrente  não  indicou,  no  recurso  especial,  o  dispositivo  legal  supostamente  violado,  incidindo  o  óbice  da  Súmula  n.  284  do  STF.
+IV.  Dispositivo  e  tese
+8.  Agravo  desprovido.
+Tese  de  julgamento:  "1.  A  busca  domiciliar  sem  mandado  judicial  é  legítima  quando  há  fundadas  razões  indicativas  da  prática  de  crime  permanente,  nos  termos  da  jurisprudência  do  STF  (Tema  280  da  repercussão  geral).  2.  A  desclassificação  do  crime  de  tráfico  de  drogas  para  uso  pessoal  exige  reexame  de  provas,  vedado  pelo  enunciado  da  Súmula  nº  7  do  STJ.  3.  A  incidência  da  causa  de  diminuição  de  pena  do  tráfico  privilegiado  depende  da  ausência  de  dedicação  a  atividades  criminosas,  sendo  legítima  sua  não  aplicação  quando  há  elementos  concretos  que  indiquem  habitualidade  na  traficância.
+"Dispositivos  relevantes  citados:  CF/1988,  art.  5º,  XI;  Lei  n.  11.343/2006,  arts.  28,  33,  §  4º,  e  42;  CPP,  art.  157.
+Jurisprudência  relevante  citada:  STF,  RE  nº  603.616/RO,  rel.  Min.  Gilmar  Mendes,  Plenário,  j.  06.10.2010  (Tema  280  da  repercussão  geral);  STJ,  AgRg  no  AREsp  nº  2.324.214/SP,  rel.  Min.  Daniela  Teixeira,  Quinta  Turma,  j.  03.12.2024;  STJ,  AgRg  no  AREsp  nº  2.293.359/MG,  rel.  Min.  Rogerio  Schietti  Cruz,  Sexta  Turma,  j.
+22.10.2024;  STJ,  AgRg  no  AREsp  nº  2.112.742/MG,  rel.  Min.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  j.  02.08.2022.
+(AgRg  no  AREsp  n.  2.684.159/SP,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  20/3/2025,  DJEN  de  26/3/2025.  -  g.n.)
+Ante  o  exposto,  não  conheço  do  agravo  em  recurso  especial,  nos  termos  da  Súmula  n.  528/STF  e  conheço  em  parte  do  recurso  especial  para,  nessa  extensão,  negar-lhe  provimento.
+Observa-se  que  a  decisão  que  conheceu  em  parte  do  recurso  especial  assentou  o  óbice  da  Súmula  n.  7/STJ.  Todavia,  neste  agravo,  a  Defesa  limitou-se  a  aduzir,  genericamente,  a  inaplicabilidade  do  referido  verbete  sumular.
+O  princípio  da  dialeticidade  recursal  impõe  que  a  parte  recorrente  impugne  todos  os  fundamentos  da  decisão  recorrida  e  demonstre,  concreta  e  especificamente,  o  seu  desacerto,  o  que  não  ocorreu  no  caso.
+Dessa  forma,  na  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado,  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  impugnada.
+Ante  o  exposto,  nego  prov imento  ao  agravo  regimental.
+É  o  voto.
