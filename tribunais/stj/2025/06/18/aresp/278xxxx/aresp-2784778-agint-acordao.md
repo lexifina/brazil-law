@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL NÃO  CONHECIDO .  CONFORMIDADE  COM  A  JURISPRUDÊNCIA.  SÚMULA  83 DO STJ.  IMPOSSIBILIDADE  DE  REEXAME  FÁTICO-PROBATÓRIO.  DESPROVIMENTO  DO  AGRAVO  INTERNO.  MANUTENÇÃO  DA  DECISÃO  RECORRIDA.
+I  -  Na  origem  pessoa  natural  ajuizou  ação  em  face  do  Instituto  Nacional  do  Seguro  Social  (INSS),  objetiva-se  declaração  de  tempo  de  serviço  especial  e  concessão  de  aposentadoria  por  tempo  de  serviço.  Na  sentença  o  pedido  foi  julgado  parcialmente  procedente.  No  Tribunal  de  origem,  a  sentença  foi  mantida.  No  Superior  Tribunal  de  Justiça,  trata-se  de  agravo  interno  interposto  contra  decisão  que  conheceu  do  agravo  em  recurso  especial  relativamente  à  matéria  que  não  se  enquadrava  em  tema  repetitivo,  e  não  conheceu  do  recurso  especial.
+II  -  Aplica-se,  à  espécie,  o  enunciado  da  Súmula  n.  83/STJ:  "Não  se  conhece  do  recurso  especial  pela  divergência,  quando  a  orientação  do  Tribunal  se  firmou  no  mesmo  sentido  da  decisão  recorrida."  Ressalte-se  que  o  teor  do  referido  enunciado  aplica-se,  inclusive,  aos  recursos  especiais  interpostos  com  fundamento  na  alínea  a  do  permissivo  constitucional.
+III  -  A  Corte  de  origem  analisou  a  controvérsia  dos  autos  levando  em  consideração  os  fatos  e  provas  relacionados  à  matéria.  Assim,  para  se  chegar  à  conclusão  diversa,  seria  necessário  o  reexame  fático-probatório,  o  que  é  vedado  pelo  enunciado  n.  7  da  Súmula  do  STJ.
+IV  -  Agravo  interno  improvido.
+RELATÓRIO
+Na  origem  pessoa  natural  ajuizou  ação  em  face  do  Instituto  Nacional  do  Seguro  Social  (INSS),  objetiva-se  declaração  de  tempo  de  serviço  especial  e  concessão  de  aposentadoria  por  tempo  de  serviço.  Na  sentença  o  pedido  foi  julgado  parcialmente  procedente.  No  Tribunal  de  origem,  a  sentença  foi  mantida.
+No  Superior  Tribunal  de  Justiça,  trata-se  de  agravo  interno  interposto  contra  decisão  que  conheceu  do  agravo  em  recurso  especial  relativamente  à  matéria  que  não  se  enquadrava  em  tema  repetitivo,  e  não  conheceu  do  recurso  especial.
+A  decisão  recorrida  tem  o  seguinte  dispositivo:  "Ante  o  exposto,  nos  termos  do  art.  253,  parágrafo  único,  II,  a,  do  Regimento  Interno  do  STJ,  conheço  do  agravo  relativamente  à  matéria  que  não  se  enquadra  em  tema  repetitivo,  e  não  conheço  do  recurso  especial."
+No  agravo  interno,  a  parte  recorrente  traz,  resumidamente,  os  seguintes  argumentos:
+DESSA  FORMA,  NÃO  SE  PRETENDE  A  REVISÃO  DE  PARÂMETROS  UTILIZADOS  PELO  E.  TRIBUNAL,  MAS  SIM  O  RECONHECIMENTO  DO  DIREITO  DO  AGRAVANTE,  EM  CONFORMIDADE  COM  A  LEGISLAÇÃO  VIGENTE.
+Para  analisar  a  existência  de  um  direito  decorrente  de  previsão  expressa  em  lei  federal  não  é  necessária  a  análise  de  fatos  e  provas,  mas  sim,  unicamente,  da  lei!!
+Ficou  devidamente  demonstrado,  dessa  forma,  que  houve  efetiva  violação  de  todos  os  dispositivos  legais  invocados,  bem  como  regular  argumentação  e  fundamentação  que  justifique  a  interposição  de  recurso  especial.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL NÃO  CONHECIDO .  CONFORMIDADE  COM  A  JURISPRUDÊNCIA.  SÚMULA  83 DO STJ.  IMPOSSIBILIDADE  DE  REEXAME  FÁTICO-PROBATÓRIO.  DESPROVIMENTO  DO  AGRAVO  INTERNO.  MANUTENÇÃO  DA  DECISÃO  RECORRIDA.
+I  -  Na  origem  pessoa  natural  ajuizou  ação  em  face  do  Instituto  Nacional  do  Seguro  Social  (INSS),  objetiva-se  declaração  de  tempo  de  serviço  especial  e  concessão  de  aposentadoria  por  tempo  de  serviço.  Na  sentença  o  pedido  foi  julgado  parcialmente  procedente.  No  Tribunal  de  origem,  a  sentença  foi  mantida.  No  Superior  Tribunal  de  Justiça,  trata-se  de  agravo  interno  interposto  contra  decisão  que  conheceu  do  agravo  em  recurso  especial  relativamente  à  matéria  que  não  se  enquadrava  em  tema  repetitivo,  e  não  conheceu  do  recurso  especial.
+II  -  Aplica-se,  à  espécie,  o  enunciado  da  Súmula  n.  83/STJ:  "Não  se  conhece  do  recurso  especial  pela  divergência,  quando  a  orientação  do  Tribunal  se  firmou  no  mesmo  sentido  da  decisão  recorrida."  Ressalte-se  que  o  teor  do  referido  enunciado  aplica-se,  inclusive,  aos  recursos  especiais  interpostos  com  fundamento  na  alínea  a  do  permissivo  constitucional.
+III  -  A  Corte  de  origem  analisou  a  controvérsia  dos  autos  levando  em  consideração  os  fatos  e  provas  relacionados  à  matéria.  Assim,  para  se  chegar  à  conclusão  diversa,  seria  necessário  o  reexame  fático-probatório,  o  que  é  vedado  pelo  enunciado  n.  7  da  Súmula  do  STJ.
+IV  -  Agravo  interno  improvido.
+VOTO
+O  agravo  interno  não  merece  provimento.
+A  parte  agravante  repisa  os  mesmos  argumentos  já  analisados  na  decisão  recorrida.
+No  Tribunal  de  origem  analisou  as  alegações  da  parte  com  os  seguintes  fundamentos:
+PROCESSO  CIVIL.  JUÍZO  DE  RETRATAÇÃO  AÇÃO  PREVIDENCIÁRIA.  IMPLANTAÇÃO  ADMINISTRATIVA  DE  BENEFÍCIO  NO  CURSO  DA  AÇÃO  JUDICIAL.  OPÇÃO  PELO  BENEFÍCIO  MAIS  VANTAJOSO.  EXECUÇÃO  DE  ATRASADOS.  VIABILIDADE.  ORIENTAÇÃO  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  EM  RECURSO  REPETITIVO.
+1.  Em  recente  julgamento  em  regime  de  repetitividade,  o  Superior  Tribunal  de  Justiça  assentou  a  viabilidade  da  execução  do  benefício  judicial  até  a  data  da  implantação  do  benefício  administrativo  mais  vantajoso  (Tema  nº.  1.018).
+2.  Mantida  a  r.  decisão,  com  o  termo  inicial  do  benefício  em  28/02/2000,  por  ser  a  data  onde  a  autora  atingiu  a  idade  mínima  para  concessão  do  benefício,  ou  seja,  a  data  em  que  preenchidos  todos  os  requisitos  necessários.
+2.  Exercício  do  juízo  de  retratação  não  exercido.
+Dessa  forma,  aplica-se,  à  espécie,  o  enunciado  da  Súmula  n.  83/STJ:  "Não  se  conhece  do  recurso  especial  pela  divergência,  quando  a  orientação  do  Tribunal  se  firmou  no  mesmo  sentido  da  decisão  recorrida."  Ressalte-se  que  o  teor  do  referido  enunciado  aplica-se,  inclusive,  aos  recursos  especiais  interpostos  com  fundamento  na  alínea  a  do  permissivo  constitucional.
+Verifica-se  que  a  Corte  de  origem  analisou  a  controvérsia  dos  autos  levando  em  consideração  os  fatos  e  provas  relacionados  à  matéria.  Assim,  para  se  chegar  à  conclusão  diversa,  seria  necessário  o  reexame  fático-probatório,  o  que  é  vedado  pelo  enunciado  n.  7  da  Súmula  do  STJ,  segundo  o  qual  "A  pretensão  de  simples  reexame  de  provas  não  enseja  recurso  especial".
+Ante  o  exposto,  não  havendo  razões  para  modificar  a  decisão  recorrida,  nego  provimento  ao  agravo  interno.
+É  o  voto.
