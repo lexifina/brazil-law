@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo de JORGE BRITO DE JESUS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n.0541625-75.2019.8.05.0001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 129, §º, IV do Código Penal e art. 129 caput do Código Penal (lesão corporal grave e lesão corporal leve), à pena de 7 anos de reclusão, em regime inicial semiaberto (fl. 214/215).
+Recurso de apelação interposto pela defesa foi provido em parte para reduzir a pena para 6 anos de reclusão pelo primeiro delito e 6 meses de detenção para o segundo, em regime inicial semiaberto (fl. 343). O acórdão ficou assim ementado:
+"A P E L A Ç Ã O C R I M I N A L . L E S Ã O CORPORAL SIMPLES E GRAVÍSSIMA N O C O N T E X T O D E V I O L Ê N C I A D O M É S T I C A . A U T O R I A E M A T E R I A L I D A D E D E L I T I V A S D E M O N S T R A D A S P E L O A C E R V O P R O B A T Ó R I O . A B S O L V I Ç Ã O . I N C A B Í V E L . D E S C L A S S I F I C A Ç Ã O PARA O CRIME DE LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR, PREVISTO NO ART. 303, DO CTB. INVIABILIDADE. CONDUTA DOLOSA EVIDENCIADA PELA PROVA D O S A U T O S . D O S I M E T R I A . MANUTENÇÃO. CONCURSO FORMAL. MODIFICAÇÃO, DE OFÍCIO, PARA O CONCURSO MATERIAL, EM BENEFÍCIO AO RÉU. RECURSO CONHECIDO E NÃO PROVIDO." (fl. 319/320)
+Em sede de recurso especial (fls. 379/386), a defesa apontou violação ao artigo 386, VII, do Código de Processo Penal e art. 59, do Código Penal, porque o TJ manteve a condenação.
+Requer a absolvição e, subsidiariamente, a desclassificação e a diminuição da pena para o mínimo legal.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA (fls. 391/407).
+O recurso especial foi inadmitido no TJ em razão de óbice da Súmula 284 do STF vez não ser possível a exata compreensão do dispositivo federal violado (fls. 408/413).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 419/427).
+Contraminuta do Ministério Público (fls. 431/439).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo conhecimento e não provimento do agravo (fls. 465/472).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao artigo 386, VII, do Código de Processo Penal e art. 59, do Código Penal, o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA manteve a condenação/pena nos seguintes termos do voto do relator:
+"Ao contrário do quanto sustentado nas Razões Recursais, emergem dos autos provas suficientes que conferem a certeza processual necessária à condenação do Apelante pela prática do delito que lhe foi imputado." (fl. 325) Em suas declarações, a primeira vítima E. S. dos S., perante a autoridade policial, e a segunda vítima D. A. dos S., em ambas as fases, foram firmes ao relatar as lesões corporais provocadas com dolo pelo Acusado, utilizando um veículo como instrumento para atingi-los, que só não os atropelou em razão de terem caído na calçada, com proteção de um torniquete existente no passeio. (fl. 334).
+Extrai-se do trecho acima que o acórdão fundamentou a manutenção da condenação com base nas provas existentes nos autos, deixando claro a existência do dolo e a perfeita tipicidade aos delitos imputados. O pedido em recurso especial para absolvição por fragilidade probatória, por óbvio, impõe uma nova análise das provas produzidas quanto aos fatos em discussão, o que não é possível nesta fase recursal. Igualmente, além do pedido de absolvição, os demais pedidos da Defesa importam em nova análise das provas.
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois , de fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça. No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL. PROCESSO PENAL AGRAVOREGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. VIOLAÇÃO AOS ARTIGOS 156 E 386, VII, DO CÓDIGO DE PROCESSO PENAL - CPP. PLEITO DE DESCLASSIFICAÇÃO PARA ACONDUTADO ART. 28 DA LEI N. 11.343/06. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL -STF. AGRAVO REGIMENTAL DESPROVIDO. (AgRg noAREsp 2316455 /SP Ministro JOEL ILAN PACIORNIK QUINTA TURMA DJe 29/11/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
