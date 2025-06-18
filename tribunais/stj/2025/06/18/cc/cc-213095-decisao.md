@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO CRIMINAL DE PASSO FUNDO - RS, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA MISTA DE PATOS - PB, suscitado, nos autos da execução penal de JOSÉ ANDSON DE AMORIM VIEIRA, condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/06, à pena privativa de liberdade de 3 (três) anos, 11 (onze) meses e 3 (três) dias de reclusão, em regime inicial semiaberto, além de 389 (trezentos e oitenta e nove) dias-multa.
+Consta dos autos que a execução da pena foi iniciada no Juízo da 2ª Vara Mista de Patos - PB, em 29/05/2023, em regime semiaberto, sujeito a recolhimento domiciliar e monitoramento eletrônico. Houve regressão cautelar ao regime fechado e expedição de mandado de prisão, após um período de descumprimento das condições. Após justificativa da Defesa e manifestação favorável do Ministério Público do Estado da Paraíba, o Juízo de Patos - PB reconsiderou a decisão, restabelecendo o regime semiaberto, com desconto do período de descumprimento e advertência, determinando a reinserção do apenado no monitoramento eletrônico.
+Em seguida, a Defesa solicitou a remessa da guia de execução penal para a Comarca de Frederico Westphalen/RS, ao argumento de dificuldades de emprego em Patos/PB e o desejo de cumprir a pena próximo à sua família e local de trabalho.
+O Juízo de Direito da 2ª Vara Mista de Patos - PB declinou da competência ao fundamento de que a ausência de estabelecimento prisional adequado para o regime semiaberto em Patos/PB, exige cumprimento da pena em prisão domiciliar, tornando necessária a fiscalização pelo Juízo do local de residência do apenado (fls. 258).
+O Juízo de Direito da Vara de Execução Criminal de Passo Fundo - RS, por sua vez, suscitou conflito de competência por entender que nos termos do artigo 65 da Lei 7.210/84, a execução da pena compete ao juiz indicado na lei local de organização judiciária ou ao da sentença (fl. 269).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitante (fls. 279-286).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Cinge-se a controvérsia a estabelecer qual Juízo é competente para processar a execução do apenado na hipótese de mudança de domicílio.
+O artigo 65 da Lei de Execução Penal dispõe que a execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+A Terceira Seção desta Corte Superior pacificou o entendimento no sentido de que a competência para atos decisórios da execução penal continua sendo do juízo que proferiu a condenação, ainda que o apenado transfira seu domicílio.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL.
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. EXECUTADO COM DOMICÍLIO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO. REGIME SEMIABERTO HARMONIZADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. POSSIBILIDADE DE EXPEDIÇÃO DE CARTA PRECATÓRIA PARA O ACOMPANHAMENTO DO CUMPRIMENTO DA PENA SEM DESLOCAMENTO DA COMPETÊNCIA. PRECEDENTES.
+1. A mudança de domicílio do executado não constitui causa legal de deslocamento de competência para execução da pena, sendo indispensável a consulta prévia ao juízo destinatário. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que "a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (CC n. 113.112/SC, relator Ministro Gilson Dipp, Terceira Seção, julgado em 9/11/2011, DJe de 17/11/2011.)
+3. Hipótese em que o Juízo da execução, considerando que o apenado foi beneficiado com regime semiaberto harmonizado e verificada a mudança de endereço, declinou da competência e determinou a remessa dos autos da própria execução ao Juízo do domicílio do executado, sem consulta prévia.
+4. O fato de o apenado ter sido beneficiado com a prisão domiciliar - regime semiaberto harmonizado - e indicado endereço diverso da comarca em que verificada a condenação não modifica a competência ante a ausência de previsão legal (CC n. 209.437/PR, relator Ministro Sebastião Reis Júnior, DJEN de 5/5/2025)
+5. Conflito conhecido para declarar competente o Juízo da Vara de Direito de Cambará - PR, podendo ser deprecado o acompanhamento e fiscalização das penalidades impostas, sem deslocamento da competência.
+(CC n. 209.986/SC, relator Ministro Og Fernandes, Terceira Seção, julgado em 15/4/2025, DJEN de 5/5/2025, grifamos)
+Ademais, ressalto que
+A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local (AgRg no CC n. 189.921/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 14/9/2022, DJe de 21/9/2022 - grifamos).
+E, ainda, que
+o cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado (CC n. 167.064/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 28/8/2019, DJe 6/9/2019).
+Ante o exposto, conheço do conflito para declarar competente o Juízo da 2ª Vara Mista de Patos - PB , ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
