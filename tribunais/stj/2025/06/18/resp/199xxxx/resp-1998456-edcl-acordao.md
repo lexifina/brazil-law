@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/06/2025 a 18/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. 12,434 KG DE MACONHA. ALEGAÇÃO DE BIS IN IDEM NO RECONHECIMENTO DO CÚMULO MATERIAL. TRIBUNAL DE ORIGEM QUE NÃO SE MANIFESTOU ACERCA DO REFERIDO TEMA, SOB O ENFOQUE APRESENTADO PELO RECORRENTE. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TESE DE OMISSÃO. NÃO OCORRÊNCIA. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Igor Moliterno da Silva ao acórdão da Sexta Turma que conheceu parcialmente do recurso especial por ele manejado e, nessa extensão, deu-lhe provimento (fls. 2.070/2.077).
+Na presente insurgência, a defesa indica que a decisão embargada não enfrentou de maneira explícita a questão do bis in idem, apesar de haver elementos no acórdão que indicam a conexão entre os fatos. Assevera que a ausência de uma análise detalhada sobre a duplicidade de condenações configura uma lacuna que precisa ser sanada, comprometendo o direito do embargante a uma prestação jurisdicional completa e adequada.
+Destaca que o acórdão incorre em erro ao aplicar o concurso material de crimes, quando deveria ter sido aplicado o concurso formal.
+Ao final da peça recursal, requer seja conhecido e provido o presente recurso, para reformar o venerando acórdão para reconhecer a omissão e/ou erro evidente de direito, ou, se entender fundamentação diversa para que reconsidere a r. decisão já proclamada (fl. 2.088).
+Foi dispensada a oitiva da parte embargada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. 12,434 KG DE MACONHA. ALEGAÇÃO DE BIS IN IDEM NO RECONHECIMENTO DO CÚMULO MATERIAL. TRIBUNAL DE ORIGEM QUE NÃO SE MANIFESTOU ACERCA DO REFERIDO TEMA, SOB O ENFOQUE APRESENTADO PELO RECORRENTE. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TESE DE OMISSÃO. NÃO OCORRÊNCIA. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+Embora o embargante tenha alegado a ocorrência de omissão no fundamento do acórdão, verifica-se que se trata de mero inconformismo da parte.
+Constou do recorrido acórdão, fl. 2.074, que, quanto à tese de bis in idem na condenação, ante a alegação de que as drogas foram encontradas no mesmo contexto e fazem parte do mesmo fato, tem-se que, notadamente pela leitura dos fundamentos apresentados pela Corte paranaense, às fls. 1.866/1.873, a referida matéria não foi debatida pela Corte de origem, sob o enfoque apresentado pelo recorrente, bem como não foi instada a suprir tal omissão por meio da oposição de embargos de declaração, fazendo incidir, no ponto, o óbice da Súmula 211/STJ diante da evidente carência de prequestionamento.
+O art. 619 do Código de Processo Penal estabelece que os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão judicial. No entanto, é importante ressaltar que os embargos de declaração não se prestam à revisão do mérito da decisão, mas, sim, à correção de eventuais vícios que possam comprometer a clareza ou a completude do julgado.
+Com efeito, os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+Conforme destacado no precedente EDcl no AgRg no AREsp n. 2.201.983/SP, relatado pelo Ministro Messod Azulay Neto, da Quinta Turma, publicado no DJe de 4/7/2023, os embargos de declaração não são meio adequado para rediscutir o mérito da decisão, mas sim para esclarecer ou corrigir eventuais falhas formais.
+Objetivam os declaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade imprópria na via recursal. A tentativa de utilizar os embargos de declaração para reanalisar o mérito da decisão embargada revela um desvio de finalidade, uma vez que tal recurso não se destina à revisão do conteúdo da decisão, mas, sim, à correção de vícios formais que possam comprometer sua clareza ou completude.
+A jurisprudência do Superior Tribunal de Justiça tem sido firme no sentido de que a oposição de embargos de declaração manifestamente improcedentes pode acarretar consequências processuais, como a certificação do trânsito em julgado e a baixa dos autos, visando evitar a utilização abusiva desse recurso e garantir a celeridade e a efetividade da prestação jurisdicional.
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado.
+Ante o exposto, rejeito os embargos de declaração.
