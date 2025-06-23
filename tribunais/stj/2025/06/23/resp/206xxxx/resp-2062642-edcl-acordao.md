@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A contradição que enseja o acolhimentos dos declaratórios é aquela entre premissas e conclusões do próprio ato decisório, o que não se vislumbra na espécie.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Examinam-se embargos de declaração opostos por RODOMAIOR TRANSPORTES LTDA em face de acórdão que negou provimento a acórdão ementado nos seguintes termos:
+"RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. FASE DE CUMPRIMENTO DE SENTENÇA. DESPESAS E HONORÁRIOS. DIVISÃO PROPORCIONAL ENTRE OS LITISCONSORTES. NECESSIDADE DE CONDENAÇÃO EXPRESSA. RESPONSABILIDADE SOLIDÁRIA. 1. Ação de consignação em pagamento, em fase de cumprimento de sentença, ajuizada em 22/11/21, da qual foi extraído o presente recurso especial, interposto em 27/04/2022 e concluso ao gabinete em 10/01/2024. 2. O propósito recursal é decidir se é obrigatória a divisão do pagamento das despesas e dos honorários de forma proporcional à obrigação de cada um dos litisconsortes vencidos. 3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em omissão. 4. Nos termos da Súmula 98 do STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". 5. O caput e o §1º do art. 87 do CPC estipulam o dever do órgão jurisdicional de responsabilizar os litisconsortes sucumbentes pelas custas e pelos honorários advocatícios de forma proporcional, considerando o grau de participação ou interesse de cada litisconsorte na relação jurídica que foi julgada favoravelmente à parte contrária. 6. O texto do art. 87, §2º do CPC indica que a divisão proporcional das verbas sucumbenciais aos litisconsortes vencidos não é uma obrigação, mas uma mera faculdade conferida ao julgador. 7. Ausente a indicação expressa sobre responsabilidade proporcional, os vencidos responderão de forma solidária pelas respectivas verbas sucumbenciais. 8. A responsabilização solidária prevista no art. 87, §2º do CPC não se limita às situações em que os litisconsortes foram condenados de forma solidária, mas para qualquer hipótese de condenação. 9. Recurso especial conhecido e parcialmente provido."
+Em suas razões, aduz que o acórdão foi contraditório ao não dividir o pagamento de forma proporcional a cada um dos litigantes. Defende que a solidariedade só poderia ser aplicada no caso de inadimplência de uma das partes.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A contradição que enseja o acolhimentos dos declaratórios é aquela entre premissas e conclusões do próprio ato decisório, o que não se vislumbra na espécie.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na espécie, contudo, verifica-se que as questões apontadas pela embargante não constituem algum desses vícios, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Isso pois, a contradição que enseja o acolhimentos dos declaratórios é aquela entre premissas e conclusões do próprio ato decisório, o que não se vislumbra na espécie.
+No voto, logrou-se explicar minuciosamente a razão de não poder se falar em proporcionalidade, mas sim solidariedade do pagamento, nos termos do art. 87, §2º do CPC.
+Ademais, apesar de suscitar haver contradição, o embargante ao menos indicou, de forma objetiva, qual proposição do acórdão apresentaria contradição entre si.
+Portanto, considerando que a embargante não logrou demonstrar como a teria havido contradição ou obscuridade no acórdão embargado, impõe-se a rejeição dos presentes embargos declaratórios.
+Forte nessas razões, REJEITO os embargos de declaração.
