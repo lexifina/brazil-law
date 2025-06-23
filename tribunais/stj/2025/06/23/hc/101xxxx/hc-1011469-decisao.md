@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO SIMAO DE OLIVEIRA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500273-95.2023.8.26.0551.
+Consta dos autos que o paciente foi condenado às penas 2 anos e 6 meses de reclusão, no regime aberto, e 250 dias-multa, pela prática do delito de tráfico de drogas (fl. 28). Foram apreendidos 1 kg de maconha e 27,34 g de crack (fl. 19).
+Em apelo ministerial, o Tribunal local deu parcial provimento para afastar a causa de diminuição de pena (tráfico privilegiado), aumentando a reprimenda para 5 anos de reclusão e 500 dias-multa, além de fixar o regime inicial fechado (fls. 29/57).
+Neste writ, a defesa requer, inclusive liminarmente, a aplicação da causa especial de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, com a fixação do regime aberto e substituição por pena restritiva de direitos (fls. 15/16). Subsidiariamente, pleiteia a fixação do regime inicial semiaberto (fl. 16).
+É o relatório.
+Em consulta ao site do Tribunal de Justiça de São Paulo, constata-se que a condenação transitou em julgado, de maneira que a presente impetração é substitutiva de pedido revisional e, portanto, incabível (ver, nesse sentido, o AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, notadamente diante do consignado no acórdão impugnado para: a) afastar a causa de diminuição de pena; e b) fixar o regime inicial fechado (fls. 52/56 - grifo nosso):
+Ora, o acusado foi detido em posse de 28 porções individualmente embaladas e quantia em dinheiro trocado, bem como guardava em sua casa 26 tubos plásticos com maconha, um "tijolo prensado" da mesma droga, e mais 3 kits contendo, cada um, 28 pedras de crack, iguais àquele apreendido com o réu. Isso evidencia sua ligação e dedicação com as atividades criminosas, vez que o acusado além de individualizar as porções de narcótico para a venda, entrega os "kits" nos pontos de venda e recolhe o dinheiro angariado pelo comercio espúrio.
+ ..
+Ora, no caso em tela, o acusado não apresenta circunstâncias judiciais favoráveis, pois demonstra elevada periculosidade, sendo detido em posse de considerável quantidade de crack, droga que alto poder viciante, que cada vez ceifa mais vidas jovens, demonstrando total descaso com a vida alheia na busca pelo lucro pessoal. Destaca-se, ainda, que, apesar do fato de não ter sido fixada a pena-base acima do mínimo, as circunstâncias judiciais do apelante são negativas  1kg de maconha e 27,34g de crack , conforme acima explicitado, de modo que o regime menos gravoso não é suficiente.
+Ademais, uma vez que o Tribunal de Justiça concluiu pela dedicação do paciente a atividades criminosas, mostra-se inviável o amplo reexame de fatos e provas nos autos de habeas corpus, por tratar-se de remédio constitucional de cognição sumária.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. REGIME PRISIONAL. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+Petição inicial indeferida liminarmente.
