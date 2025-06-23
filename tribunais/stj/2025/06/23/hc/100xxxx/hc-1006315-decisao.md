@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS EDUARDO DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Sustenta a defesa que o acórdão que julgou a apelação impôs constrangimento ilegal ao paciente, na medida em que não aplicou a minorante prevista no art. 33, §4º, da Lei n. 11.343/2006 em sua fração máxima. Assim, requereu a cassação do acórdão impugnado para que seja aplicada a fração máxima do tráfico privilegiado (fls. 2-7).
+O exame do pedido liminar foi postergado para o momento posterior à juntada do parecer ministerial (fl. 413).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 419-422).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, em substituição a recurso próprio. Diante disso, não se deve conhecer do habeas corpus, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+2. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o aumento da pena-base considerou a quantidade e lesividade da droga apreendida - 216,6 gramas de crack - e o afastamento da causa de diminuição de pena da forma privilegiada do tráfico ocorreu em razão das circunstâncias em que houve a prisão em flagrante, que indicaram a habitualidade da atividade criminosa.
+3. Agravo regimental improvido."
+(AgRg no HC n. 966.792/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+De toda sorte, não vislumbro nenhuma ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+O acórdão impugnado manteve a absolvição do acusado no que toca à imputação da prática do delito de associação para o tráfico e, quanto à condenação por tráfico de drogas, negou a aplicação do privilégio, entendendo que o paciente se dedicava a atividades criminosas.
+Transcrevo excerto do aresto impugnado (fl. 370):
+"Apesar da primariedade de Carlos, as circunstâncias do caso concreto indicam que o apelante dedica-se à atividade criminosa2. O recorrente portava expressiva quantidade de entorpecentes, balança de precisão, cadernos com anotações referentes ao tráfico e embalagens plásticas. Ademais, o policial Elias Canali Bastos relatou que o recorrente admitiu, informalmente, que trabalhava para uma facção, sendo que sua tarefa era receber, fracionar e depois distribuir os entorpecentes."
+Na hipótese, a Corte Estadual, soberana na análise dos fatos, concluiu que não se tratava de episódio isolado por desvio pontual de conduta do agente, na medida em que foram encontrados balanças de precisão, caderno de anotações e embalagens plásticas, fatores que configuram dedicação à atividade criminosa, não obstante a primariedade ostentada.
+Assim, não há ilegalidade na aplicação da pena, pois, entendendo que o paciente não satisfez as exigências do privilégio do § 4º do art. 33 da Lei n. 11.343/2006, o Tribunal de origem rechaçou fundamentadamente a sua incidência.
+Nesse sentido, a jurisprudência desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME ÚNICO. CONTINUIDADE DELITIVA. DELITOS AUTÔNOMOS. IMERSÃO. FATOS E PROVAS. QUANTIDADE E DIVERSIDADE DE ENTORPECENTES. APETRECHO DE PESAGEM. VALORES EM ESPÉCIE. ANOTAÇÕES TRAFICÂNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. TRÁFICO PRIVILEGIADO. AFASTADO. AUSÊNCIA DE ARGUMENTO RELEVANTE. DECISÃO MANTIDA POR SEUS PRÓPRIOS TERMOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão impugnado constatou que as condenações suportadas pelo paciente decorrem de delitos autônomos, perpetrados em datas diversas, com apreensões distintas. Desconstituir o julgado para constatar a existência de crime único, em continuidade delitiva, demandaria imersão nos fatos e provas.
+2. O tráfico privilegiado foi afastado por ter a Corte local concluído pela dedicação do paciente a atividades criminosas há algum tempo, não se tratando de caso isolado, sendo apreendida considerável quantidade e diversidade de entorpecentes, apetrecho de pesagem, valores em espécie e caderno com anotações de traficância.
+3. A jurisprudência desta Corte Superior é unânime em asseverar que é idônea, para o afastamento da benesse do tráfico privilegiado, a fundamentação pela quantidade e variedade de entorpecentes, somada a presença de elementos como balança de precisão, anotações típicas de tráfico, forma de acondicionamento da droga, pois indicam a dedicação a atividades ilícitas.
+4. Na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+5. Agravo regimental não provido."
+(AgRg no HC n. 948.499/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/6/2025, DJEN de 11/6/2025.)
+Ademais, a desconstituição do julgado impugnado demandaria o reexame fático-probatório dos elementos constantes dos autos, providência inadmissível nesta via estreita, mormente por ter sido observado, no caso em apreço, o princípio do livre convencimento motivado, consoante acima delineado.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa. No caso, o fundamento utilizado pelas instâncias ordinárias para afastar a aplicação da referida causa de diminuição de pena foi o de dedicação do apenado a atividades criminosas, ressaltando, dentre outros elementos, a forma como o entorpecente foi apreendido, a quantidade e natureza da droga (1kg de cocaína), além da identificação de divisão de tarefas e de estrutura hierarquizada e a confissão do ora agravante. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Precedentes.
+2. Agravo regimental desprovido." (AgRg no HC n. 868.786/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Dessa forma, não se verifica constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus impetrado.
+Publique-se. Intimem-se.
+EMENTA
