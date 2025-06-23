@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONEL MARTINS FERREIRA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo (Processo n. 0001774-68.2025.8.26.0041), nos termos do acórdão assim ementado:
+"Agravo em execução. Progressão ao regime semiaberto. Ausência de mérito. Não provimento ao recurso." (e-STJ, fl. 55).
+Neste writ, a impetrante alega, em síntese, que o apenado satisfaz o requisito subjetivo para o benefício da progressão de regime.
+Defende que a reincidência, a gravidade abstrata e a hediondez dos delitos praticados pelo paciente ou, ainda, a longa pena a cumprir não constituem fundamentos idôneos para negar a ele o benefício da progressão de regime.
+Assevera que "não é fundamentação idônea para indeferimento da benesse o argumento de que o reeducando tem extensa movimentação carcerária em diversas Unidades Prisionais do Estado de São Paulo, uma vez que a legislação pátria não desaprova a conduta de transferência de unidades prisionais" (e-STJ, fl. 39).
+Sustenta que, nos relatórios de avaliações psicológica e social, não consta nenhuma "referência a algum aspecto da personalidade do Paciente que recomende a manutenção dele no regime mais gravoso" (e-STJ, fl. 10).
+Afirma que o parecer desfavorável do Diretor do presídio levou "em consideração procedimentos internos disciplinares reabilitados há mais de 13 anos, e o apontamento falso constante no Boletim Informativo de que o Paciente integraria organização criminosa" (e-STJ, fl. 10).
+Requer, ao final, seja concedido ao paciente a progressão para o regime semiaberto. Subsidiariamente, requer que se determine ao Juízo das Execuções Criminais o reexame do pedido de progressão "afastada a fundamentação inidônea" (e-STJ, fl. 53).
+O pedido de medida liminar foi i ndeferido.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, caso venha a ser conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC n. 725.534/SP, da minha relatoria, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Nos termos do art. 112 da Lei de Execuções Penais, para a concessão do benefício da progressão de regime prisional, o apenado deve, em linhas gerais, preencher os requisitos de natureza objetiva (percentual ou fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena).
+Sobre o requisito de cunho subjetivo, esta Corte Superior entende que constituem fundamentos idôneos ao indeferimento do benefício a existência de histórico prisional conturbado, bem como indicação de envolvimento do apenado com organização criminosa.
+Sobre o tema:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. LIDERANÇA DE ORGANIZAÇÃO CRIMINOSA (SINDICATO DO CRIME). NECESSIDADE DE ASSIMILAR A TERAPÊUTICA PENAL E ROMPER SEUS LAÇOS COM O CRIME ORGANIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus que pretendia obter a progressão de regime prisional do fechado para o semiaberto, apesar do bom comportamento carcerário e do exame criminológico favorável.
+2. O Tribunal de origem indeferiu a progressão de regime, destacando o envolvimento do agravante com facção criminosa (Sindicato do Crime) e histórico de crimes violentos, justificando a negativa da progressão de regime.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a progressão de regime pode ser negada com base na ausência do requisito subjetivo, mesmo diante de atestado de bom comportamento carcerário e exame criminológico favorável.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça entende que o juiz das execuções pode indeferir a progressão de regime com base em análise desfavorável do mérito do condenado, considerando peculiaridades do caso concreto e fatos ocorridos durante a execução penal.
+5. O envolvimento do agravante com facção criminosa e a prática de crimes graves e violentos justificam a negativa da progressão de regime, mesmo com exame criminológico favorável. O magistrado não está vinculado ao atestado emitido pela direção carcerária, "sob pena de transformar o juiz em mero homologador de documentos administrativos" (AgRg no HC n. 660.197/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/8/2021), tampouco ao exame criminológico favorável, desde que evidencie, de maneira concreta e particularizada, a ausência de mérito do reeducando.
+6. A decisão agravada deve ser mantida, porque o envolvimento do agravante com o crime organizado e com a prática de crimes graves e violentos, não recomenda a progressão de regime, devendo ele permanecer no regime fechado por mais tempo até assimilar a terapêutica penal e romper seus laços com o crime organizado.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido."
+(AgRg no HC n. 960.383/RN, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. ENVOLVIMENTO EM ORGANIZAÇÃO CRIMINOSA. FUNDAMENTOS IDÔNEOS. REVISÃO DO ENTENDIMENTO ADOTADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+II - A jurisprudência desta Corte Superior se firmou no sentido de que o afastamento do requisito subjetivo das benesses executórias deve ser embasado nos elementos concretos extraídos da execução.
+III - No caso, o acórdão considerou que não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos extraídos da execução penal, tendo em vista que o sentenciado possui forte influência em organização criminosa, sendo qualificado como de altíssima periculosidade no SIPEN.
+Destacou-se que o apenado "exerce/exercia cargo de liderança na comunidade do Chapadão, ainda possuindo, conforme se verifica, laços de influência com a criminalidade diante da sua periculosidade já indicada".
+IV - Alterar o entendimento adotado pela instância de origem e acolher a pretensão da defesa demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível via eleita.
+Agravo regimental desprovido."
+(AgRg no HC n. 906.318/RJ, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 19/8/2024).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL. FALTAS GRAVES. FUNDAMENTAÇÃO CONCRETA. REANÁLISE FÁTICO-PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Para a progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da LEP.
+III - Verifica-se que o v. acórdão considerou que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos extraídos da execução penal, tendo em vista o histórico prisional do apenado, que ostenta nada menos do que 6 (seis) infrações disciplinares de natureza grave no curso da execução.
+IV - Ademais, é firme o posicionamento desta eg. Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, providência que implicaria o reexame do conjunto fático-probatório dos autos da execução, incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido."
+(HC n. 693.424/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021).
+No caso dos autos, embora o Tribunal de origem tenha asseverado que o apenado, ao longo da execução das suas penas, cometeu "dez faltas disciplinares, sendo nove delas de natureza grave, inclusive por tentativa de fuga" (e-STJ, fl. 59), é verdade que se trata de faltas antigas, praticadas há mais de 12 anos (e- STJ, fls. 85-86).
+Porém, vale destacar que esta Corte Superior entende que " a  prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, relator Ministro Felix Fischer, julgado em 28/6/2016).
+Ademais, de acordo com as instâncias ordinárias, o parecer da diretoria do Estabelecimento Prisional "manifestou-se desfavoravelmente" à progressão de regime, tendo em vista não só o histórico de "diversos procedimentos internos disciplinares em seu desfavor" e a "extensa movimentação carcerária em diversas Unidades Prisionais do Estado de São Paulo", como, em especial, o registro, em seu Boletim Informativo, de "envolvimento com organização criminosa" (e-STJ, fls. 59-60).
+Noutro giro, o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Nesse contexto, não observo flagrante ilegalidade apta a ensejar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
