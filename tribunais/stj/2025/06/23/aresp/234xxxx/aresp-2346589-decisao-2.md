@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por GUILHERME VIGANO BARETTA (fls. 4.064/4.071) contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5000290-38.2020.8.24.0016 (fls. 3.499/3.502).
+No recurso especial, o agravante requer o recebimento e admissão do presente recurso para declarar a existência de divergência jurisprudencial, reformando o v. Acórdão de origem para: a) absolver o recorrente referentemente ao crime da associação ao tráfico no qual verifica-se claramente a divergência existente no sentido de que não se pode reconhecer associação ao tráfico de um simples "mula do tráfico", fato este que ficou comprovado nos autos. b) aplicar o § 4º do artigo 33 da Lei 11.343/2006, ou seja, a causa de diminuição de pena em seu grau ao máximo. (fls. 3.543/3.571).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo (fls. 4.176/4.190).
+É o relatório.
+O agravo não comporta conhecimento .
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando as Súmulas 7 e 83/STJ e Súmulas 283 e 284 /STF, porquanto a parte agravante deixou de impugnar especificamente todos os fundamentos da decisão recorrida, o que impede o seu conhecimento, por ausência de requisito de admissibilidade.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Destarte, há de se reconhecer o óbice da Súmula 7/STJ, porquanto o agravante se restringiu a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório e em razão do 283/STF, no sentido de que é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. Caberia, então, ao agravante, nas razões do agravo em recurso especial, de forma específica, demonstrar a inaplicabilidade dos apontados óbices. No caso concreto , não houve impugnação específica, incidindo, portanto, o óbice da Súmula 182/STJ.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. TESE DE INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PLEITO PARA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, §4º DA LEI 11.343/2006. IMPEDIMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA PELA CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. SÚMULAS 7 E 83/STJ. SUMULAS 283 E 284/STF.
+Agravo em recurso especial não conhecido.
