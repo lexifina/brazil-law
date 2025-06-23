@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FRANCISCO RHANDERSON NASCIMENTO DA SILVA apontando como autoridade coatora Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que indeferiu pedido liminar no HC n. 0814192-75.2025.8.10.0000.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, de tráfico de drogas por haver sido flagrado em posse de 65 porções de maconha.
+O pedido liminar foi indeferido na origem (e-STJ fls. 18/20).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Argumenta que o fundamento de reiteração é inválido, pois o agente é primário, sem qualquer registro em sua folha de antecedentes.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+É o relatório.
+Decido.
+É bem verdade que o presente writ investe contra decisão que indeferiu medida liminar em idêntico remédio impetrado perante o Tribunal de origem, o que, nos termos do disposto na Súmula n. 691 do Pretório Excelso, não se admite.
+Ocorre que, no caso em exame, a flagrante ilegalidade está demonstrada, situação que autoriza a excepcional superação do referido entendimento sumular.
+No presente caso, a segregação cautelar foi imposta nos seguintes termos (e-STJ fls. 14/15):
+Verifica- se que o acusado tinha consigo: 1 - 01 (um) celular XIAOMI REDMI NOTE cor azul; 2 - 65 (sessenta e cinco) trouxas de maconha; 3 - 01 (um) cigarro de maconha. Demonstrou ser pessoa perigosa, agindo com dolo intenso, sendo necessária sua segregação para evitar a continuidade deste delito que contribui significativamente para o incremento da violência nesta Comarca. Nota-se que já foram fixadas medidas cautelares e protetivas, contudo não surtiram o efeito desejado, afigurando-se necessário o acautelamento preventivo do flagranteado. Desta forma, a liberdade deste conduzido, neste momento processual, representa perigo concreto para a sociedade local, em especial para a vítima e seus familiares.  ..  Em sendo assim, verifico que se encontram presentes os pressupostos e fundamentos para a decretação de sua custódia preventiva. Face ao exposto, e como medida necessária para garantia da ordem pública, DECRETO a custódia preventiva de FRANCISCO RHANDERSON NASCIMENTO DA SILVA, com fundamento no artigo 312 do Código de Processo Penal".
+Depreende-se dos autos que, apesar da referência à reiteração delitiva, a defesa comprova que o agente é primário, sem qualquer registro criminal anterior (e-STJ fl. 21), de modo que não se mostra válido o fundamento de que "já foram fixadas medidas cautelares e protetivas, contudo não surtiram o efeito desejado".
+Nesse contexto, vê-se que o decreto prisional carece de fundamentação concreta, pois não indicada a presença dos requisitos insertos no art. 312 do Código de Processo Penal. Insta consignar que, consoante a jurisprudência firmada no âmbito desta Corte, a menção à gravidade abstrata do delito de tráfico de drogas, como na situação, não justifica a imposição da prisão provisória.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA. GRAVIDADE ABSTRATA DO CRIME. MOTIVAÇÃO INSUFICIENTE PARA A DECRETAÇÃO DA PRISÃO. PRESENÇA DE CONSTRANGIMENTO ILEGAL.
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+3. Habeas corpus concedido para revogar a prisão preventiva do paciente, garantindo-lhe o direito de aguardar em liberdade o julgamento da ação penal objeto destes autos, se por outro motivo não estiver preso, e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto. (HC n. 362.072/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/2/2017, DJe 16/2/2017.)
+A quantidade de droga apreendida, por sua vez, não denota, por si só, a periculosidade do paciente, porquanto não pode ser qualificada como significativa.
+Dessarte, era necessário que fossem apontados dados concretos, extraídos de elementos obtidos nos autos, que demonstrassem a necessidade de imposição da prisão provisória.
+Ante o exposto, concedo a ordem, superando o óbice da Súmula n. 691, para determinar que o paciente responda solto ao processo, salvo se por outro motivo estiver preso, sem prejuízo de que seja decretada nova custódia, com base em fundamentação concreta, bem como de que sejam impostas outras medidas cautelares constantes do art. 319 do Código de Processo Penal pelo Juízo local, caso demonstrada sua necessidade.
+Publique-se. Intimem-se.
+ EMENTA
