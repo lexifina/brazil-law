@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ENTREGA DE VEÍCULO COMO PARTE DE PAGAMENTO PELA AQUISIÇÃO DE IMÓVEL. CONSTRUTORA/VENDEDORA QUE REPASSOU O AUTOMÓVEL PARA LOJA DE REVENDA DE VEÍCULOS. ALIENAÇÃO DO AUTOMÓVEL PARA FALSÁRIO. REGISTRO DA VENDA ANULADO PELO DETRAN. ANTIGO PROPRIETÁRIO QUE, EM DECORRÊNCIA, ARCOU COM O PAGAMENTO DE MULTAS E TEVE A CARTEIRA DE HABILITAÇÃO SUSPENSA POR EXCESSO DE PONTOS. RESPONSABILIDADE CIVIL DA CONSTRUTORA, QUE REPASSOU O BEM PARA REVENDA, AINDA EM NOME DO ANTIGO PROPRIETÁRIO, ASSUMINDO OS RISCOS DA ALIENAÇÃO. REVENDEDORA DE VEÍCULOS QUE TAMBÉM CONTRIBUIU PARA O ILÍCITO, AO EFETUAR A VENDA DO BEM PARA FALSÁRIO. RISCO DA ATIVIDADE. PRECEDENTES. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 139 do Código de Processo Civil de 2015 e 5º da Constituição Federal, além de divergência pretoriana.
+Assim posta a questão, verifico inicialmente que a alegação de contrariedade a dispositivo da Constituição Federal não enseja recurso especial, devendo ser aduzida em recurso apropriado para tanto.
+No que se refere ao art. 139 do CPC, observo que o tema de que cuida - regras que norteiam a direção do processo pelo juiz - não foi objeto de consideração e debate pelo acórdão recorrido. Ausente o necessário prequestionamento, é inviável o recurso especial, de acordo com a Súmula 282 do STF, aplicável à espécie.
+Quanto ao dissídio jurisprudencial, tem-se que não foi demonstrado nos moldes legais e regimentais. O acórdão citado como paradigma (fl. 989) não foi cotejado com o acórdão recorrido, de modo que não ficaram evidenciadas as circunstâncias que os assemelhassem.
+Ademais, consta do acórdão recorrido que as agravantes providenciaram a venda de automóvel do agravado sem autorização, assumindo os riscos do negócio, peculiaridade que não foi considerada no julgado citado como paradigma. Ressalte-se que rever o entendimento do acórdão recorrido segundo o qual a alienação do carro foi feita com base em documentação fraudulenta não dispensa o reexame de prova. Aplica-se ao caso também a Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
