@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CLEOMAR APARECIDA FERNANDES DA SILVA HAHN, fundamentado exclusivamente na alínea "c" do permissivo constitucional.
+Recurso especial interposto em: 24/4/2024.
+Concluso ao gabinete em: 24/1/2025.
+Ação: revisional de contrato bancário, ajuizada pela recorrente, em face de FACTA FINANCEIRA S.A. CREDITO, FINANCIAMENTO E INVESTIMENTO, fundada na abusividade de cláusulas contratuais.
+Sentença: julgou procedentes os pedidos, a fim de: (i) revisar os contratos n. 5535989, 3297590000, 2432450005, 952170000 e 7139580007 ao efeito de limitar os juros remuneratórios a uma vez e meia a taxa média do BACEN ((2,23% mês, 2,44 % mês, 2,58 % mês, 2,92 % mês, 1,82% mês, respectivamente); e (ii) determinar a restituição de valores pagos a maior de forma simples, por meio de compensação com valores devidos pela parte autora e, em havendo saldo devedor em favor do consumidor, determinar a correção monetária pelo IGP-M a contar do desembolso mais juros moratórios de 1% (um por cento) ao mês a contar da citação.
+Acórdão: deu provimento à apelação interposta pela recorrida para reformar a sentença e julgar improcedentes os pedidos iniciais; e julgou prejudicada a apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. ABUSIVIDADE DA TAXA DE JUROS NÃO CONFIGURADA.
+O SIMPLES FATO DA TAXA DE JUROS SER ELEVADA NÃO DENOTA ABUSIVIDADE, MORMENTE PORQUE VIGE O PRINCÍPIO DA LIBERDADE DE CONTRATAR, NÃO ESTANDO O MUTUÁRIO ADSTRITO A UMA INSTITUIÇÃO FINANCEIRA.
+A ADOÇÃO DA TAXA MÉDIA DE JUROS DIVULGADA PELO BANCO CENTRAL APENAS SE JUSTIFICA NA HIPÓTESE DE NÃO TEREM SIDO FIXADOS JUROS NO CONTRATO, CIRCUNSTÂNCIA QUE NÃO SE VERIFICA.
+A FIXAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO, POR SI SÓ, NÃO INDICA ABUSIVIDADE. INTELIGÊNCIA DA SÚMULA Nº 382 DO STJ.
+SENTENÇA REFORMADA. AÇÃO IMPROCEDENTE.
+APELAÇÃO INTERPOSTA PELA PARTE RÉ PROVIDA. APELAÇÃO INTERPOSTA PELA AUTORA PREJUDICADA (e-STJ fl. 208).
+Recurso especial: com base em dissídio jurisprudencial, sustenta que a taxa de juros remuneratórios deve ser limitada à taxa média de mercado, dada a sua abusividade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros remuneratórios (Súmula 568/STJ)
+A Segunda Seção do STJ, no REsp 1.061.530/RS, DJe de 10/03/2009, julgado sob o rito dos recursos repetitivos, entendeu que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC), fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+Cumpre ressaltar que no referido julgamento, quanto à análise da abusividade dos juros remuneratórios e da taxa média divulgada pelo Banco Central, a Segunda Seção consignou o seguinte:
+Necessário tecer, ainda, algumas considerações sobre parâmetros que podem ser utilizados pelo julgador para, diante do caso concreto, perquirir a existência ou não de flagrante abusividade.
+(..) As informações divulgadas por aquela autarquia, acessíveis a qualquer pessoa através da rede mundial de computadores (conforme http://www.bcb.gov.br/ ecoimpom - no quadro XLVIII da nota anexa; ou http://www.bcb.gov.br/ TXCREDMES, acesso em 06.10.2008), são segregadas de acordo com o tipo de encargo (prefixado, pós-fixado, taxas flutuantes e índices de preços), com a categoria do tomador (pessoas físicas e jurídicas) e com a modalidade de empréstimo realizada ("hot money", desconto de duplicatas, desconto de notas promissórias, capital de giro, conta garantida, financiamento imobiliário, aquisição de bens, "vendor", cheque especial, crédito pessoal, entre outros).
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros. A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (REsp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos.
+Ressalte-se, ainda, que as duas Turmas de Direito Privado do STJ entendem que "a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras" (AgInt no AREsp 1.308.486/RS, Quarta Turma, DJe de 21/10/2019).
+Ainda nesse sentido: AgInt no AREsp 1.165.422/MS, Terceira Turma, DJe de 15/12/2017.
+Na hipótese sob julgamento, o TJ/RS deixou expressamente consignado que:
+No que se refere ao pleito de limitação dos juros à taxa média publicada pelo Banco Central observo que o simples fato dos juros contratados superarem a taxa média não indica abusividade, pois para que se possa calcular a taxa média há evidente necessidade de que existam taxas diferentes, mínimas e máximas, de modo a se aferir a média.
+A pretensão de desconsideração das taxas máximas acarreta a impossibilidade de se obter qualquer média, pois, ao  m, todas as taxas que superam a mínima serão desconsideradas e substituídas por uma taxa média que nada mais é do que a taxa mínima.
+Nesse passo, a desconsideração da taxa de juros livremente pactuada nada mais é do que tabelamento de juros, uma vez que o afastamento das taxas máximas acarreta a impossibilidade de se estabelecer o juro médio.
+Assim, a adoção da taxa média de juros divulgada pelo Banco Central apenas se justifica na hipótese de não terem sido fixados juros no empréstimo tomado, como reiteradamente afirmado pelo STJ, conforme julgados a seguir transcritos.
+(..)
+Por outro lado, não basta apenas o fato dos juros estarem acima de 12% ao ano para que sejam declarados abusivos, em razão do disposto na Súmula nº 382 do Superior Tribunal de Justiça, in verbis:
+"A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade."
+Na hipótese em análise, foi concedido crédito de alto risco, considerando as condições peculiares da parte autora, que não oferece garantia suficiente de pagamento, justificando a prática de taxas de juros menos vantajosas.
+Ao analisar os documentos juntados aos autos, é possível constatar o alto comprometimento financeiro da parte autora, denotando a sua contumácia na contratação de empréstimos pessoais (evento 1, CHEQ12, evento 1, CHEQ13 e ):
+(..)
+Saliento ainda, que a taxa pactuada consta expressamente referida no contrato, que foi devidamente assinado pela parte autora:
+(..)
+Da análise das particularidades do cenário, não verifico abusividade na taxa de juros pactuada, tampouco discrepância em relação às taxas praticadas pelo mercado financeiro em operações com garantia reduzida (e-STJ fls. 204-207).
+Assim, diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à efetiva configuração de abusividade no caso concreto, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARICALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor atualizado da causa (e-STJ fl. 207) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional de contrato bancário.
+2. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras. Precedentes.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
