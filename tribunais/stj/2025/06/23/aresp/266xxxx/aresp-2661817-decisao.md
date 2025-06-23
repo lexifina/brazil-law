@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado (fl. 966):
+AGRAVO DE INSTRUMENTO. Obrigação de fazer. Plano de saúde. Cumprimento de sentença. Decisão que rechaçou impugnação apresentada a laudo pericial. Inconformismo do exequente. Possibilidade. Perícia que não observou determinação do título executivo constituído no bojo da ação principal, que determinou à operadora de saúde o reembolso de todo tratamento realizado pelo agravante em rede não referenciada, no limite do valor que desembolsaria em clínica credenciada, em quantia não inferior ao constante na Tabela da AMB. Fato que fora alcançado por inércia da própria executada. Impossibilidade de revolvimento quanto ao tratamento efetivado pelo agravante, sob pena de violação da coisa julgada. Necessidade de nova perícia, com observação. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 1.022, II, do Código de Processo Civil.
+Sustenta que o laudo pericial está em conformidade com o determinado na sentença transitada em julgado, não havendo violação dos artigos 505, 507 e 508 do CPC.
+Alega que os procedimentos a serem ressarcidos devem estar limitados ao contrato, não havendo obrigação de cobrir tratamentos odontológicos, custos de remoção, telefonemas, e outros serviços não previstos na apólice.
+Contrarrazões apresentadas às fls. 1.003-1.027.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Na origem, o beneficiário do plano de saúde ingressou com agravo de instrumento contra a decisão que, nos autos de cumprimento de sentença de ação de obrigação de fazer, rejeitou a impugnação ao laudo pericial.
+A Corte local deu provimento ao referido recurso e determinou a realização de nova perícia contábil, nos seguintes termos (fls. 968-972):
+No caso em apreço, pugna o agravante a reforma da decisão do Magistrado a quo, ao argumento de que a perícia realizada na origem desconsiderou diversos custos de tratamento realizado pelo agravante quando de sua internação na Clínica Greenwood, para tratamento de dependência alcóolica e química.
+Razão assiste ao agravante. Explico.
+Da análise dos autos principais, verifica-se que o agravante ajuizou ação de obrigação de fazer c/ pedido de tutela antecipada em face da agravada, em razão de negativa de cobertura de tratamento em clínica especializada em rede não referenciada, visto a negativa da operadora de saúde (autos nº 1091601-13.2013.8.26.0100).
+A ação de obrigação de fazer foi julgada parcialmente procedente para determinar à agravada o dever de indenizar a agravante, pelo tratamento realizado, no limite da apólice, ou seja, em valor equivalente ao que seria pago a clínica referenciada, observado o valor mínimo constante na tabela da AMB, conforme se verifica do dispositivo da sentença constante à fls. 282 dos autos nº 1091601-13.2013.8.26.0100, a saber:
+ ..
+Note-se que esta C. Câmara manteve a decisão supracitada, ao julgar, em 20 de outubro de 2016, o apelo interposto por Arthur Oscar Buzzo Neubern, sem qualquer restrição ao tratamento efetivado pelo agravante (fls. 317/324 dos autos nº 1091601-13.2013.8.26.0100).
+Assim, reputo que não é cabível, neste momento processual, a realização de nova apuração aprofundada do serviço prestado à época ao então paciente, ora agravante, visto que não houve qualquer ressalva por parte do Magistrado a quo ou deste Colegiado quanto ao tratamento efetivado.
+Isso porque tal apreciação ensejaria maior dilação probatória que deveria ser efetivada junto à origem, quando do processo de obrigação de fazer, o que não ocorreu por desídia da própria agravada.
+A ser assim, tendo a operadora de saúde ficado inerte no curso de toda a demanda principal, quanto ao tratamento efetivado pelo agravante junto à clínica, sem contar que não apelou da decisão, não é possível, em sede de cumprimento de sentença, revolver toda matéria fática constante nos autos, sob pena de violação da coisa julgada.
+Desta feita, reputo que em sede de liquidação de sentença deve ser observada a determinação constante no título executivo supra, ou seja, o reembolso do tratamento de forma integral, no limite do valor que a operadora de saúde, ora agravada, desembolsaria em uma clínica que lhe é credenciada, em quantia não inferior a constante na Tabela da AMB, não cabendo, neste momento, fazer ilações sobre a veracidade ou não do tratamento despendido, especialmente porque foi acostado junto aos autos do cumprimento de sentença nº 0021533-16.2017.8.26.0100 ampla documentação com todas as notas fiscais do serviço prestado e recibo dos valores pagos, bem como toda a listagem do tratamento dispendido (fls. 550/1057 dos autos de origem).
+Portanto, nova perícia contábil deverá ser realizada, atentando-se o expert ao que fora decidido no título executivo, em especial às notas fiscais do serviço prestado e recibo dos valores pagos, conforme já determinado por esta Corte de Justiça, a saber:
+ ..
+Posto isso, conheço e dou provimento ao recurso, nos termos da fundamentação supra.
+Verifica-se que o acórdão recorrido entendeu que não é cabível nova apuração dos serviços prestados à época, que o momento oportu no teria sido durante o processo de obrigação de fazer, "não cabendo, neste momento, fazer ilações sobre a veracidade ou não do tratamento despendido".
+Com efeito, observo que alterar ou interpretar de outra forma a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de fatos e provas, o que é inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
