@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.152.930/SP, Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2018, DJe de 16/10/2018.
+RELATÓRIO
+Trata-se de agravo interno (fls. 699-704) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (fls. 690-694).
+Em suas razões, a parte agravante defende a inaplicabilidade da Súmula n. 7/STJ, o prequestionamento ficto da matéria, assim como a demonstração do dissídio jurisprudencial.
+No mérito, sustenta que, na hipótese de rescisão do compromisso de compra e venda com cláusula de alienação fiduciária, a restituição de eventual saldo em favor da parte agravada deveria observar as disposições da Lei de Alienação Fiduciária, em detrimento do CDC (Tema n. 1.095/STJ), o que também implicaria a ilegitimidade passiva ad causam da agravante para restituir os valores pagos, considerando que o imóvel pertenceria ao Banco do Brasil S.A., ante a vigência da garantia fiduciária.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.152.930/SP, Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2018, DJe de 16/10/2018.
+VOTO
+A insurgência não merece conhecimento.
+O agravo em recurso especial foi decidido nos seguintes termos (fls. 690-694):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) aplicação da Súmula n. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de cotejo analítico (fls. 656-662).
+O acórdão do TJAL traz a seguinte ementa (fls. 419-420):
+DIREITO CIVIL E DIREITO DO CONSUMIDOR. RECURSOS DE APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO DE CONTRATO C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE APARTAMENTO. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS. RECURSO INTERPOSTO PELO BANCO DO BRASIL S/A SOB OS SEGUINTES FUNDAMENTOS: I) AUSÊNCIA DE ATO ILÍCITO PERPETRADO PELA INSTITUIÇÃO FINANCEIRA, QUE AGIU NO EXERCÍCIO REGULAR DO SEU DIREITO, O QUE AFASTA O DEVER DE INDENIZAR; II) AUSÊNCIA DE COMPROVAÇÃO DO DANO MORAL PELA PARTE APELADA; E III) VALOR EXCESSIVO ARBITRADO PELO JUÍZO DE DIREITO DE PRIMEIRO GRAU. RECURSO INTERPOSTO PELA MRV ENGENHARIA E PARTICIPAÇÕES S/A SOB AS ALEGAÇÕES DE QUE: I) OS DOCUMENTOS COLACIONADOS AOS AUTOS COMPROVAM O CONHECIMENTO DA PARTE APELADA SOBRE OS VALORES LANÇADOS NA CONTA VINCULADA AO FINANCIAMENTO, O QUE JUSTIFICA A COBRANÇA DAS PARCELAS DE JUROS DE OBRA DURANTE A FASE DE CONSTRUÇÃO DO IMÓVEL; II) A NEGATIVAÇÃO FOI REALIZADA PELA INSTITUIÇÃO FINANCEIRA, DE MODO QUE A CONSTRUTORA NÃO PODE SER RESPONSABILIZADA PELOS DANOS DELA DECORRENTES; III) NÃO É POSSÍVEL RESCINDIR O CONTRATO DE PROMESSA DE COMPRA E VENDA SEM ANALISAR O CONTRATO DE FINANCIAMENTO IMOBILIÁRIO, UMA VEZ QUE SE TRATAM DE CONTRATOS COLIGADOS; IV) A COBRANÇA DA MULTA RESCISÓRIA É LEGAL E LEGÍTIMA; V) NÃO É CABÍVEL O PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS, DADA A INEXISTÊNCIA DE PRÁTICA DE ATO ILÍCITO E A NÃO OCORRÊNCIA DE VIOLAÇÃO A QUALQUER DIREITO DA PERSONALIDADE; E VI) O VALOR ARBITRADO PELO JUÍZO DE DIREITO DE PRIMEIRO GRAU É EXORBITANTE, RAZÃO PELA QUAL DEVE SER MINORADO. APRESENTAÇÃO DE PEDIDO PELA MRV ENGENHARIA E PARTICIPAÇÕES S/A NO SENTIDO DE SUSPENDER O PROCESSO ATÉ ULTERIOR DELIBERAÇÃO, COM BASE NA ORDEM DE SOBRESTAMENTO DETERMINADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NOS JULGAMENTOS DAS PROPOSTAS DE AFETAÇÃO NOS RECURSOS ESPECIAIS Nº 1.891.498 - SP (2020/0215694-6) E Nº 1.894.504 - SP (2020/0231720-4). AUSÊNCIA DE IDENTIDADE DA QUESTÃO POSTA EM JULGAMENTO COM AS HIPÓTESES RETRATADAS NOS JULGADOS ELEITOS COMO PARADIGMA. NO CASO DOS AUTOS, NÃO SE DISCUTE O DESFAZIMENTO DO NEGÓCIO JURÍDICO E A DEVOLUÇÃO DOS VALORES PAGOS POR DIFICULDADES FINANCEIRAS ENFRENTADAS PELO DEVEDOR, MAS SIM POR SUPOSTA VIOLAÇÃO CONTRATUAL PERPETRADA PELO CREDOR, COM BASE NAS DISPOSIÇÕES DO CÓDIGO CIVIL. INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DO PRESENTE RECURSO. DO ATENTO EXAME DAS PROVAS COLACIONADAS AOS AUTOS, CONSTATA-SE QUE AS PARTES APELANTES NÃO AGIRAM DE ACORDO COM O PACTUADO NAS CLÁUSULAS CONTRATUAIS, PROMOVERAM NEGATIVAÇÃO INDEVIDA E VIOLARAM O PRINCÍPIO DA BOA-FÉ CONTRATUAL. RESCISÃO CONTRATUAL DEVIDA, POR QUEBRA DE CONFIANÇA. RESPONSABILIDADE SOLIDÁRIA ENTRE A CONSTRUTORA E A INSTITUIÇÃO FINANCEIRA. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS, CONSOANTE O PRECONIZADO NO ENUNCIADO DA SÚMULA Nº 543 DO SUPERIOR TRIBUNAL DE JUSTIÇA. VALOR DE R$ 4.000,00 (QUATRO MIL REAIS) ARBITRADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS QUE SE REVELA PROPORCIONAL E RAZOÁVEL, NÃO HAVENDO QUE SE FALAR EM ENRIQUECIMENTO ILÍCITO. APELAÇÕES CÍVEIS CONHECIDAS E NÃO PROVIDAS. MANUTENÇÃO DA SENTENÇA PROFERIDA PELO JUÍZO DE DIREITO DE PRIMEIRO GRAU. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DEVIDOS À PARTE APELADA. ACÓRDÃO JULGADO À UNANIMIDADE.
+Os embargos de declaração foram rejeitados (fls. 494-509).
+No recurso especial (fls. 437-457), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e violação:
+(i) dos arts. 17, IV, 22, 26, 26-A e 27 da Lei n. 9.514/1997 e 926 e 927, III, do CPC/2015, afirmando que, na hipótese de rescisão do compromisso de compra e venda com cláusula de alienação fiduciária, a restituição de eventual saldo em favor da parte recorrida deveria observar as disposições da Lei de Alienação Fiduciária, em detrimento do CDC, e
+(ii) dos arts. 927 e 944 do CC/2002, porque "o recorrido sequer se incumbiu do ônus necessário de comprovar a existência negativação indevida por parte desta recorrente. Portanto, a condenação da construtora em indenização por danos morais se mostra injusta, ante a completa ausência de arcabouço probatório capaz de demonstrar a ausência do dever de informação" (fl. 452). Subsidiariamente, requereu a revisão do valor da mencionada indenização - por considerar excessiva a quantia de R$ 4.000,00 (quatro mil reais).
+Acrescentou que:
+(a) "não se pode falar em mero desfazimento do negócio e consequente devolução dos valores. Isto posto, não se pode falar em mero desfazimento do negócio e consequente devolução dos valores pagos como determinado em acórdão a quo, haja vista que a discussão paira sob a esfera do direito real do imóvel, ao qual, atualmente, pertence ao banco corréu" (fl. 444), e
+(b) "a pretensão de rescisão contratual se mostra completamente imotivada e não se deu por culpa da construtora de maneira alguma" (fl. 451).
+Ao final, requereu a concessão de efeito suspensivo à insurgência.
+Foram ofertadas contrarrazões (fls. 595-599).
+No agravo (fls. 664-668), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A parte recorrente deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada sobre a tese de culpa exclusiva da contraparte pela rescisão do compromisso de compra e venda imobiliário.
+Ausente tal requisito, a fundamentação mostra-se deficiente e torna inviável o conhecimento do recurso, ante a Súmula n. 284/STF, aplicada por analogia.
+A Corte local não se manifestou quanto aos arts. 926 e 927, III, do CPC/2015 sob o ponto de vista da recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo do arts. 17, IV, 22, 26, 26-A e 27 da Lei n. 9.514/1997 sob o enfoque pretendido pela recorrente, a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+A Corte a quo assentou que não examinaria a incidência do Tema n. 1.095/STJ, porque o conteúdo normativo dos arts. 53 do CDC e 26 e 27 da Lei n. 9.514/1997 sequer foi mencionado na petição inicial (fl. 427).
+A respeito de tal razão de decidir, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O Tribunal de origem assentou que a empresa era parte passiva legítima na demanda em exame, por integrar a cadeia de fornecimento, nos termos dos arts. 7º, parágrafo único, e 25, § 1º, do CDC (fls. 429-431).
+Dissentir de tal entendimento, a fim de acolher a tese de que a empresa recorrente seria parte ilegítima no feito, exigiria nova interpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, medidas vedadas pelas Súmulas n. 5 e 7 do STJ.
+E ainda, não tendo sido rechaçado especificamente o fundamento relativo à existência de cadeia de fornecimento entre a construtora e a instituição financeira, aplicável, mais uma vez, a Súmula n. 283/STF.
+O pedido de indenização por danos morais com fundamento na negativação indevida do nome do comprador foi deferido pela Corte local nos seguintes termos (fl. 431):
+No mais, o segundo ponto a ser esclarecido é que a inscrição do nome da parte apelada nos Órgãos de Proteção ao Crédito se deu em razão de débitos acumulados em seu Cheque Especial que sequer tinha conhecimento, conforme consignado em Sentença e não impugnado por nenhuma das apelantes.
+A parte apelada vinha pagando regularmente as parcelas acordadas com a apelante MRV Engenharia e Participações S/A, conforme comprovantes acostados às págs. 66/91.
+A respeito da dívida, a apelante MRV Engenharia e Participações S/A se limitou a aduzir que os valores impugnados pela parte apelada possuem expressa previsão no contrato firmado com a Instituição Financeira, na medida em que correspondem às parcelas de juros de obra, a serem pagas durante a fase de construção do imóvel (pág. 348).
+Nesse ponto, a apelante MRV Engenharia e Participações S/A menciona a Cláusula Décima do "Instrumento Particular, com efeito de Escritura Pública, de Venda e Compra de Imóvel na Planta, mediante Financiamento garantido por Alienação Fiduciária, no âmbito do Programa Minha Casa, Minha Vida", que dispõe que "sobre os valores lançados na conta vinculada ao presente financiamento, bem como sobre o saldo devedor daí decorrente, incidirão encargos básicos, calculados com base no índice de Atualização das contas vinculadas do Fundo de Garantia do Tempo de Serviço (FGTS), "pro rata temporis", na forma prevista na legislação e regulamentada pelo Conselho Curador do FGTS (CCFGTS) e Banco Central do Brasil. Sobre os referidos valores, devidamente atualizados pelos respectivos encargos básicos, incidirão encargos adicionais à taxa efetiva de 5,116% ao ano (cinco inteiros e cento e dezesseis milésimos), equivalente à taxa efetiva mensal de 0,417% (quatrocentos e dezessete milésimos por cento), calculados pelo método exponencial, com base na taxa equivalente diária (ano comercial, 360 dias) (págs. 35/36).
+Contudo, o fundamento indicado pela apelante MRV Engenharia e Participações S/A não é capaz de justificar os valores cobrados, nem de comprovar a ciência da parte apelada a respeito da sua imputação, muito menos a previsão do desconto na modalidade de Cheque Especial, cujo débito gerou a negativação do nome da parte apelada nos Órgãos de Proteção ao Crédito.
+Diante desse cenário, fica caracterizado o descumprimento dos princípios da
+probidade e da boa-fé contratual, conforme previsto pelo Código Civil, em seu artigo 422:
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conteúdo normativo do art. 422 do CC/2002 não foi rebatido especificamente, o que enseja a aplicação da Súmula n. 283/STF.
+Conforme entendimento pacífico do STJ, a modificação do valor da indenização por danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A quantia estabelecida pelas instâncias de origem - R$ 4.000,00 (quatro mil reais) - não enseja a intervenção do STJ (fl. 434).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Desprovido o recurso, descabe cogitar de efeito suspensivo à insurgência.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+ ..
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+O entendimento da Corte local, referente à inaplicabilidade do Tema Repetitivo n. 1.095/STJ e sobre o reconhecimento da legitimidade passiva ad causam da agravante para devolver os valores pagos pela contraparte, à luz da Súmula n. 543/STJ (cf. fl. 432), foi mantido com base, simultaneamente, nas Súmulas n. 5, 7 e 211 do STJ e 282, 283 e 356 do STF e com fundamento na inaptidão da divergência interpretativa (Súmula n. 284/STF), por ausência de cotejo analítico e de indicação das normas objeto de intepretação divergente.
+A respeito das Súmulas n. 5 do STJ e 283 do STF, a parte agravante não se manifestou especificamente. Por isso, é inafastável a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
