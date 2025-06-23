@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRIGIDA CRISTINA ALVES DOS ANJOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000422-07.2018.8.26.0628).
+Consta dos autos que a paciente foi condenada, em primeiro grau de jurisdição, às penas de 5 anos de reclusão, em regime prisional inicialmente fechado, e multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 26/30).
+Irresignadas, as partes apelaram, tendo sido os recursos desprovidos (e-STJ fls. 9/19), por acórdão assim ementado:
+TRÁFICO ILÍCITO DE ENTORPECENTES. Recursos bilaterais. DEFENSIVOS: absolvição. Impossibilidade. Autoria e materialidade bem delineadas. Pretendida a aplicação da minorante do §4º e das benesses do CP, art. 44. Inviabilidade. Penas e regime preservados. Detração penal prejudicada pelo não cumprimento do lapso necessário (requisito objetivo). Mesmo que assim não fosse, dependeria também de bom comportamento carcerário (subjetivo), inaferível em âmbito de apelação criminal, sob pena de supressão da instância, ofensa ao duplo grau de jurisdição e ao princípio do juiz natural. BRÍGIDA: cassação da prisão domiciliar concedida em audiência de custódia, porquanto não mais substitutiva de preventiva e sim decorrente de sentença condenatória confirmada em 2º Grau, não se aplicando o CPP, art. 318 e o quanto decidido no HC n. 143.641/SP, do E. STF, expedindo-se, esgotados os recursos ordinários, mandado de prisão. MINISTERIAL: Lei n. 11.343/06, art. 35, caput. Desejada reversão da improcedência. Inviabilidade. Absolvição corretamente decretada, porque inexistentes elementos a comprovar o vínculo associativo. IMPROVIMENTO GERAL.
+No presente mandamus (e-STJ fls. 2/8), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal à paciente, já que houve o emprego de fórmulas genéricas e a convicção do julgador a determinar o regime inicial fechado com base nos elementos inerentes ao tipo (e-STJ fl. 3).
+Ao final, liminarmente e no mérito, requer a fixação do regime inicial semiaberto, para o cumprimento da reprimenda.
+É o relatório. Decido.
+Verifico que a irresignação manifestada no presente habeas corpus tem por objeto o mesmo tema suscitado no HC 813.462/SP, anteriormente impetrado pela defesa do paciente. Naquela oportunidade, esta Corte concluiu pela inexistência de constrangimento ilegal no regime inicial aplicado, em razão da existência de circunstância judicial negativa.
+Assim, trata-se de mera reiteração de insurgência já devidamente apreciada, revelando-se incabível nova impetração para reexame do tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido. (AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem. (HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
