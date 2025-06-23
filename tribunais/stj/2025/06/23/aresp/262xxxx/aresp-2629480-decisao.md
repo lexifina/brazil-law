@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+RESCISÓRIA - ALEGAÇÃO DE ERRO DE FATO - AUSENTE - MATÉRIA DISCUTIDA. Acórdão da então 8ª Câmara Cível, hoje 1ª Câmara de Direito Privado. Alegação de erro de fato. Inocorrência. Pretende o autor rediscutir a questão da condenação, ao argumento de ter havido integral reparação dos danos de forma extrajudicial. Irresignação com a conclusão do acórdão. Erro de fato que não se verifica quando a matéria foi debatida. Improcedência da rescisória.
+Nas razões de recurso especial, a parte agravante alega violação dos art. 1022 do Código de Processo Civil de 2015.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, consoante se verifica da transcrição de trechos do acórdão recorrido feita linhas abaixo. Afasto, pois, a alegada violação do art. 1022 do CPC.
+Ademais, verifica-se que o acórdão recorrido está em consonância com a orientação firmada na jurisprudência desta Corte, para a qual o erro de fato que enseja a ação rescisória não pode se referir a matéria sobre a qual tenha havido controvérsia e pronunciamento judicial. Consultem-se, por exemplos, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/15. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO RESCISÓRIA. ERRO DE FATO. PRONUNCIAMENTO JUDICIAL SOBRE A CONTROVÉRSIA NO ACÓRDÃO RESCINDENDO. INVIABILIDADE. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. MESMA INSTÂNCIA. INVIABILIDADE. SÚMULA 83/STJ. NÃO PROVIDO.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele. Precedentes.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.566.258/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. ERRO DE FATO. REQUISITOS AUTORIZADORES. REEXAME. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a viabilidade da ação rescisória amparada em erro de fato depende (i) da essencialidade do erro para a alteração do resultado do julgamento; (ii) da inexistência de controvérsia entre as partes sobre o ponto em debate e (iii) da ausência de pronunciamento judicial acerca do fato. Precedentes.
+3. A revisão das conclusões da Corte de origem quanto à essencialidade do erro de fato a fim de modificar os fundamentos adotados pelo acórdão rescindendo demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo em recurso especial conhecido. Recurso especial conhecido parcialmente e, nessa extensão, não provido.
+(AREsp n. 1.949.336/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Na hipótese em exame, consta do acórdão recorrido o seguinte (fl. 224):
+(..) a rescindibilidade advinda do erro de fato deve decorrer da má percepção da situação fática resultante de atos ou documentos já existentes na causa originária e dos quais não se valeu o magistrado para o julgamento, certo de que, havendo pronunciamento judicial, a hipótese é de erro de julgamento e não de erro de fato.
+Trazendo esses requisitos para este caso concreto, vê-se que nem mesmo em tese seria a hipótese de erro de fato, para o caso em análise.
+(..)
+Não há, porém, erro de fato se a questão foi discutida, bastando para que se verifique a simples leitura do acórdão, index 19:
+A r. sentença proferida merece parcial reforma. A leitura dos autos revela incontroverso o nexo causal entre os danos causados aos Autores e a conduta do preposto da Ré que, ao executar uma curva, perdeu o controle do caminhão que dirigia, vindo a tombar e atingir várias casas localizadas à margem da rodovia, incendiando-se após, destruindo, completamente, a residência dos Autores. Dentro deste quadro, mostra-se correto o reconhecimento do dano moral sofrido pelos Autores, consubstanciado pela injusta alteração de sua rotina, suscetível de gerar sentimento de angústia, depressão e dor capazes de afetar o bem-estar pois, conforme salientado na r. sentença, a casa dos Autores, e tudo que havia em seu interior, foi completamente destruído pelas chamas, perdendo tudo o que possuíam, obrigando-os a se abrigar em uma Igreja, merecendo, todavia, redução o montante arbitrado, para quarenta e três salários mínimos, correspondente a R$ 40.850,00 (quarenta mil, oitocentos e cinquenta reais), para cada Autor, conforme manifestação da douta Procuradoria de Justiça, às fls. 444/447, posto que hábil a compensar as agruras vividas e em consonância com os princípios da razoabilidade e proporcionalidade.
+Sublinhe-se que o acórdão referencia o Parecer da Procuradoria de Justiça, que opinou pela redução da verba.
+(..)
+Desta maneira, foi considerada a questão de aquisição pelo autor de imóvel para destinar aos réus, assim como o suporte de assistência prestado.
+Também foram considerados os elementos em relação ao reconhecimento de responsabilidade.
+Verifica-se, portanto, que houve no acórdão rescindendo debate e pronunciamento judicial sobre a matéria a respeito da qual agora se alega erro de fato. Mostra-se acertada a conclusão do acórdão recorrido, segundo o qual não há erro de fato, mas discordância com o que decidido no acórdão impugnado pela ação rescisória.
+Aplica-se ao caso a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
