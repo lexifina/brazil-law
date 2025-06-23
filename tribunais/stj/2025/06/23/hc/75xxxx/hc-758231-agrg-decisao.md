@@ -1,0 +1,14 @@
+DECISÃO
+O agravo regimental interposto por Nilceia Antunes da Rosa Dias, Tiago da Rosa Alves, Delsomar Braga Martins não deve ser conhecido.
+Conforme se extrai dos autos, por ocasião do julgamento do mérito do presente habeas corpus, este Relator apreciou e refutou as teses defensivas, inclusive quanto à alegada nulidade das provas obtidas a partir do acesso aos dados armazenados nos aparelhos celulares, conforme se verifica às fls. 231/234.
+Na sequência, a defesa interpôs agravo regimental (fls. 237/269), pleiteando a reconsideração da decisão, com a renovação da tese de nulidade das provas que embasaram a prisão dos pacientes, sob o argumento de que seriam decorrentes de acesso ilegal aos aparelhos celulares, além de requerer a revogação da custódia cautelar. O referido recurso, no entanto, foi julgado prejudicado em razão da superveniência de sentença penal condenatória (fls. 275/277), restringindo-se a análise à manutenção da prisão preventiva, sem adentrar na alegação de nulidade das provas.
+Diante disso, a defesa opôs embargos de declaração (fls. 280/286), alegando omissão quanto à análise da tese relacionada ao acesso ilegal aos dados dos celulares. Os aclaratórios foram acolhidos, exclusivamente para sanar a omissão na decisão anterior, com o reconhecimento de que a referida matéria já havia sido examinada por ocasião do julgamento do habeas corpus originário, sem, contudo, conferir efeitos modificativos ao julgado (fl. 291).
+Agora, por meio de novo agravo regimental (fls. 317/324), a parte insiste na alegada nulidade das provas obtidas mediante extração de dados dos aparelhos celulares dos agravantes, realizada, segundo afirma, sem prévia autorização judicial, reiterando fundamentos constitucionais já anteriormente apresentados.
+É o relatório.
+No caso, verifica-se que a tese relativa à suposta ilegalidade do acesso aos dados armazenados nos celulares já foi enfrentada por esta Corte no julgamento do habeas corpus originário. Posteriormente, embora a decisão proferida no agravo regimental tenha deixado de reanalisar essa matéria, restringindo-se à questão da prisão cautelar, a omissão foi devidamente sanada nos embargos de declaração, que foram acolhidos sem efeitos modificativos, apenas para reconhecer que a alegação de nulidade já havia sido objeto de deliberação anterior.
+A reiteração da insurgência por meio de novo agravo regimental, sem a apresentação de fato novo ou vício processual relevante não anteriormente arguido, configura hipótese de preclusão consumativa, tornando inviável o reexame da matéria já decidida.
+Ante o exposto, não conheço do agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. NULIDADE DE PROVAS. ACESSO SEM AUTORIZAÇÃO JUDICIAL AOS APARELHOS CELULARES. TESE JÁ ANALISADA E REFUTADA POR ESTE RELATOR. PRECLUSÃO CONSUMATIVA.
+Agravo regimental não conhecido.
