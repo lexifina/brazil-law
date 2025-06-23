@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por Instituto Nacional do Seguro Social contra decisão que inadmitiu recurso especial, este, por sua vez, manejado com fundamento no art. 105, III, a, da Constituição Federal, desafiando o acórdão prolatado pelo Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fls. 278-279):
+PREVIDENCIÁRIO. PROCESSO CIVIL. CONCESSÃO. APOSENTADORIA ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO DE SERVIÇO ESPECIAL. AGENTES QUÍMICOS. ENQUADRAMENTO PARCIAL. REQUISITO TEMPORAL PREENCHIDO À APOSENTADORIA ESPECIAL. BENEFÍCIO CONCEDIDO DESDE A DER. CONSECTÁRIOS.
+- Não ocorreu o cerceamento alegado no recurso.
+- Aposentadoria especial é espécie de aposentadoria por tempo de contribuição, com redução do tempo necessário à inativação, concedida em razão do exercício de atividades que afetam o patrimônio corporal do trabalhador. Para o segurado filiado à Previdência Social até 12/11/2019, a EC nº 103/2019, em seu artigo 21, estabelece regra de transição.
+- No trato da aposentadoria por tempo de contribuição, a Emenda Constitucional nº 20/98 estabeleceu regra de transição, traçando os seguintes requisitos: (i) idade mínima de 53 anos (homens) e de 48 anos (mulheres) e (ii) adicional de 20% (vinte por cento) do tempo de contribuição faltante quando da publicação da emenda, no caso de aposentadoria integral, e de 40% (quarenta por cento), em hipótese de aposentadoria proporcional.
+- Regulando a matéria, o Decreto nº 3.048/99, em seu artigo188, estabeleceu que ao o segurado homem bastava completar 35 (trinta e cinco) anos de contribuição e à segurada mulher, 30 (trinta) anos de contribuição, bem como preencher, um e outro, a carência de 180 (cento e oitenta) contribuições mensais, na forma do artigo 25, II, da Lei nº 8.213/1991.
+- A Emenda Constitucional nº 103/2019, em seus artigos 15, 16, 17 e 20 lançou regras de transição, a abranger diferentes situações.
+- Com relação ao reconhecimento da atividade exercida em condições especiais, interessa a lei vigente à época em que prestada.
+- Para o tempo de labor efetuado até 28/04/95, a simples prova, por qualquer meio em Direito admitido, de que a atividade profissional enquadra-se no rol dos Decretos n 53.831/64 ou 83.080/79 (seja por agente nocivo, seja por categoria profissional) é suficiente para a caracterização da atividade como especial, exceto para ruído e calor, sempre exigentes de aferição técnica.
+- Com a vigência da Lei nº 9.032/95, que deu nova redação ao § 3º do artigo 57 da Lei nº 8.213/91, passou a ser necessária a comprovação da real exposição de forma habitual (não ocasional) e permanente (não intermitente) aos agentes nocivos à saúde ou integridade física do segurado, independentemente da profissão exercida. Exige-se, para tanto, a apresentação de formulários para todo e qualquer agente nocivo.
+- Desde 06/03/97, com a entrada em vigor do Decreto nº 2.172/97, que regulamentou as disposições introduzidas no artigo 58 da Lei nº 8.213/91 pela MP nº 1596-14 (convertida na Lei nº 9.528/97), a comprovação da exposição às condições especiais passou a ser realizada mediante a apresentação de laudo técnico.
+- A partir de 01/01/2004, o único documento exigido para comprovação da exposição a agentes nocivos é o PPP (artigo 256, inciso IV, e artigo 272, § 1º, da Instrução Normativa INSS/PRES nº 45/2010).
+- Conjunto probatório apto ao enquadramento parcial dos períodos controvertidos.
+- A parte autora faz jus à concessão do benefício de aposentadoria especial, nos termos do artigo 57 e parágrafos da Lei n. 8.213/1991.
+- Deve ser observada a incompatibilidade do exercício da atividade especial com o gozo do benefício deferido, sob pena de cessação da aposentadoria especial, na forma do artigo 57, § 8º, da Lei n. 8.213/1991 e nos termos do julgamento do Tema 709 do STF.
+- O termo inicial da concessão do benefício deve recair na data do requerimento administrativo, porquanto os elementos apresentados naquele momento já permitiam o cômputo dos períodos reconhecidos nestes autos.
+- Ao autor serão pagas, de uma única vez, as prestações (diferenças) vencidas desde a data de início do benefício fixada neste julgado, descontando-se o período em que tenha comprovadamente recebido benefício inacumulável, acrescidas de correção monetária, calculada na forma da Lei nº 6.899/81 e legislação superveniente, aplicadas as diretrizes do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+- Juros de mora correm da citação, no percentual de 0,5% (meio por cento) ao mês, até a entrada em vigor da Lei nº 10.406/2002 e, a partir de então, à razão de 1% (um por cento) ao mês (artigo 406 do Código Civil). Desde de julho de 2009, incide a taxa de juros aplicável à remuneração da caderneta de poupança (Repercussão Geral no RE nº 870.947), observada, quanto ao termo final de sua incidência, a tese firmada em Repercussão Geral no RE nº 579.431.
+- A contar do mês de promulgação da Emenda Constitucional nº 113, de 8/12/2021, a apuração do débito se dará unicamente pela Taxa SELIC, mensalmente e de forma simples, nos termos do disposto em seu artigo 3º, ficando vedada a incidência da Taxa SELIC cumulada com juros e correção monetária.
+- Indene de custas a autarquia previdenciária, na forma do artigo 4º, I, da Lei nº 9.289/96.
+- Matéria preliminar rejeitada.
+- Apelações das partes providas.
+Nas razões do recurso especial (e-STJ, fls. 289-296), a parte recorrente apontou violação aos arts. 22, II, da Lei 8.212/1991; 11, V, h, 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei 8.213/1991.
+Sustentou, em síntese, a impossibilidade de reconhecimento do cômputo do tempo de serviço especial para segurado contribuinte individual não cooperado após 29/4/1995.
+Contrarrazões às fls. 311-320 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem (e-STJ, fls. 533-541), o que ensejou a interposição do presente agravo (e-STJ, fls. 546-551).
+Brevemente relatado, decido.
+De início, assinale-se que a questão de fundo trazida a debate foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+As decisões de proposta de afetação do Tema 1.291, proferidas nos autos dos REsps 2.163.429/RS e 2.163. 998/RS, submeteram a julgamento a controvérsia nos seguintes termos:
+Definir se há possibilidade de reconhecimento, como especial, da atividade exercida pelo contribuinte individual não cooperado após 29/04/1995, à luz do disposto no art. 22, II, da Lei n. 8.212/1991 e nos arts. 11, V, "h", 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei n. 8.213/1991.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos afetados como representativos da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o expost o, determino a devolução dos autos ao Tribunal Regional Federal da 3ª Região, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.291/STJ, sejam adotadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. TEMPO ESPECIAL. CONTRIBUINTE INDIVIDUAL NÃO COOPERADO. ATIVIDADE EXERCIDA APÓS 29/4/1995. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.291/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
