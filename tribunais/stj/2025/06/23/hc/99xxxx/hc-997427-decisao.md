@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de GELSON DUARTE, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (fl. 2).
+Na peça, a Defesa informa que o paciente foi autuado em flagrante pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, após serem encontradas em seu poder 10 pedras de crack e 33g de maconha (fl. 3).
+A prisão em flagrante foi convertida em preventiva com fundamento na garantia da ordem pública, mas posteriormente revogada de ofício pelo juízo de origem, que considerou a ausência de diligências relevantes e de elementos suficientes de materialidade e autoria (fl. 3).
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, provido pela 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina, que restabeleceu a prisão preventiva (fl. 3).
+A Defesa sustenta que a decisão do Juízo singular, que manteve a prisão preventiva e indeferiu o pedido de substituição por prisão domiciliar, foi autônoma e não vinculada ao acórdão anterior (fl. 4).
+Afirma que o Tribunal de Justiça de Santa Catarina incorreu em erro ao não conhecer do habeas corpus, sob o fundamento de que a impetração reproduziria argumentos já enfrentados no recurso em sentido estrito (fl. 4).
+No mérito, a Defesa requer que o Tribunal de Justiça de Santa Catarina conheça e julgue o mérito do habeas corpus n. 5018873-46.2025.8. 24.0000, ajuizado pelo paciente Gelson Duarte (fl. 10).
+Informações processuais às fls. 66-174.
+O Ministério Público Federal opinou pela denegação da ordem às fls. 177-181.
+É o relatório.
+DECIDO.
+Assiste parcial razão à parte impetrante.
+Explico.
+Em 11/10/2024, o Magistrado de primeiro grau homologou a prisão em flagrante e a converteu em preventiva (fls. 33-35).
+Em 04/11/2024, nos termos do art. 316 do Código de Processo Penal, Juízo singular revisou a necessidade da custódia processual e a revogou (fls. 47-48).
+Contra esse decisum, o Ministério Público estadual interpôs recurso em sentido estrito (RESE) representando por nova decretação da prisão cautelar do ora paciente.
+Em 14/02/2025, o Tribunal estadual apreciou o RESE ministerial, dando-lhe provimento pois entendeu ser caso legítimo de se decretar a custódia preventiva de GELSON, delegando ao Juízo de primeiro grau a execução da ordem de prisão e a avaliação sobre a possibilidade de concessão da prisão domiciliar mediante monitoramento eletrônico para tratamento de saúde, nos seguintes termos (fls. 26-31; grifamos):
+ ..  A necessidade da segregação cautelar do recorrido havia sido bem delineada na conversão do flagrante em preventiva, na audiência de custódia, nos seguintes termos:
+ ..  Os fatos narrados retratam a prática de crime contra a saúde pública onde o custodiado, em tese, era previamente investigado nos autos n.5003140-26.2024.8.24.0016 por prática de crime de tráfico de drogas e a localização de significativa quantidade de drogas de diversas naturezas, balança de precisão e material para embalagem da droga indica, ao menos nesta fase, dedicação às atividades criminosas. Além disso, do ev. 06, verifica-se que o custodiado se apresenta multirreincidente, inclusive por crime de mesma espécie e estava - ou deveria estar - cumprindo pena nos autos n. 00007647020158240016-, restando demonstrada a gravidade concreta da situação e indiciariamente que o conduzido representa neste momento perigo social, demonstrando o risco à ordem pública com seu anterior estado de liberdade e lícita a presunção de potencial reiteração das condutas criminosas.
+ ..  (processo 5000143-37.2024.8.24.0512/SC, evento 26, TERMOAUD1)
+As condutas supostamente perpetradas pelo recorrido são extremamente graves, e à época da revogação da prisão cautelar não havia qualquer excesso de prazo a ser reconhecido.
+Assim, manter a liberdade do recorrido, estando presentes a gravidade concreta da conduta em tese praticada, tráfico de drogas e possível associação para esse fim, em se tratando de reincidente específico, mostra-se em desacordo com a necessidade processual, pois estão comprovados os requisitos do artigo 312 do Código de Processo Penal.
+ ..
+Diante disso, a decretação da prisão preventiva do recorrido é medida que se impõe.
+Destaca-se que nem mesmo a amputação de membro inferior sofrida pelo recorrido menos de um mês antes do flagrante o afastou da suposta narcotraficância.
+Aliás, tal situação não é desconhecida desta Corte, de modo que o Juízo de origem, ao dar cumprimento ao comando de prisão, deverá avaliar as condições de saúde do recorrido Gelson Duarte e, se necessário, colocá-lo em prisão domiciliar mediante monitoramento eletrônico para tratamento de saúde.
+É de se recomendar, também, ao parquet celeridade no andamento da investigação pois ainda não concluída.
+Por todo o exposto, voto no sentido de conhecer e dar provimento ao recurso para reformar a decisão recorrida e decretar a prisão preventiva de Gelson Duarte, delegando- se ao Magistrado a quo os atos necessários à execução desta ordem, com a expedição do respectivo mandado na origem, bem como a verificação da necessidade de eventual prisão domiciliar mediante monitoramento eletrônico para tratamento de saúde e recomendando-se ao parquet celeridade na conclusão das investigações.
+Pois bem.
+Em 25/02/2025, o Magistrado da causa ao avaliar pedido defensivo de revogação da custódia cautelar assim consignou (fl. 40; grifamos):
+II. DO PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA
+Em que pese os argumentos apresentados pela defesa em evento 133, DOC1 e no presente ato, MANTENHO a prisão preventiva do custodiado pelos fundamentos apresentados pela Egrégia 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina quando do julgamento do Recurso em Sentido Estrito n. 5000367-72.2024.8.24.0512/SC, inclusive porque inexiste alteração fático-probatória desde o seu julgamento em 14-2-2025.
+Vê-se, portanto, que a motivação adotada pela Autoridade Judiciária para preservar a prisão cautelar de GELSON foi a deduzida, à unanimidade, 11 (onze) dias antes, pelo Colegiado da 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina no acórdão do RESE.
+Ainda na decisão de primeiro grau do dia 25/02/2025, o Juízo avaliou a possibilidade de concessão do benefício da prisão domiciliar e a refutou com base na seguinte fundamentação (fl. 40; grifamos):
+III. DO PEDIDO DE PRISÃO DOMICILIAR
+Inviável, entretanto, a substituição da prisão preventiva pela prisão domiciliar do custodiado GELSON DUARTE .
+O artigo 318, II, do CPP, prevê a possibilidade do juiz substituir a prisão preventiva pela domiciliar quando o agente estiver extremamente debilitado por motivo de doença grave.
+No caso em apreço, contudo, do que se colhe da documentação trazida aos autos, não há qualquer indicativo de que as doenças que acometem o investigado o tenham deixado extremamente debilitado e sequer, que se tratem de doenças graves que impossibilitariam a continuidade de seu tratamento intramuros. Isso porque, embora juntados documentos comprovando as doenças que acometem o investigado, não há provas acerca da impossibilidade de tratamento dentro do ergástulo público.
+Há que se ressaltar que a simples alegação de que a unidade prisional não conta com unidade de tratamento intensivo para urgências em seu interior não é suficiente para substituição da prisão preventiva por prisão domicilia r, já que, dificilmente o investigado contaria com tal unidade no interior de sua residência, sendo que o atendimento médico de urgência, caso necessário, poderá ser realizado da mesma forma no interior da unidade prisional. Nesse sentido, o e. TJSC: "AUSÊNCIA DE DEMONSTRAÇÃO INEQUÍVOCA DE QUE ESTEJA EXTREMAMENTE DEBILITADO POR MOTIVO DE DOENÇA GRAVE, CONSOANTE EXIGE O INCISO II DO ART. 318 DO CPP, TAMPOUCO DA IMPOSSIBILIDADE DE TRATAMENTO NO INTERIOR DO ESTABELECIMENTO PRISIONAL  .. " (Habeas Corpus Criminal n. 5064838- 18.2023.8.24.0000, rel. Luiz Cesar Schweitzer, Quinta Câmara Criminal, j. 30-11-2023).
+Portanto, INDEFIRO o requerimento visando a substituição da prisão preventiva por prisão domiciliar; sem embargos de nova apreciação quando da juntada de novos documentos e informações nos autos.
+Contra esse decisum a Defesa impetrou o HC n. 5018873-46.2025.8. 24.0000/SC, se insurgindo contra a legitimidade da custódia preventiva e contra a não concessão da prisão domiciliar.
+O Tribunal estadual, no acórdão ora impugnado, tem razão no que diz respeito à impossibilidade de conhecimento da tese que questiona a legitimidade da prisão preventiva, uma vez que foi essa própria Corte quem fundamentou a necessidade do cárcere cautelar no aresto do RESE - motivação reproduzida pelo Juízo de primeiro grau, como já se demonstrou.
+No entanto, a Corte a quo não se manifestou sobre a negativa do Magistrado de primeiro grau para descartar a concessão da prisão domiciliar a GELSON e é somente nesse ponto que assiste razão à parte impetrante.
+Por fim, apenas para fins de registro, entendo relevante anotar que a Defesa impetrou neste Tribunal o HC 985.403/SC, do qual fui relator, e, em 15/04/2025, conheci parcialmente do writ para, na parte conhecida, denegar-lhe a ordem de habeas corpus, considerando, ao final, legítima a prisão cautelar de GELSON decretada pelo Tribunal estadual no RESE - tal decisão transitou em julgado em 29/04/2025.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus para determinar que o Tribunal de Justiça do Estado de Santa Catarina reaprecie a impetração originária, tão somente para conhecer da tese que se insurge contra a não-concessão do benefício da prisão domiciliar ao ora paciente, julgando-a, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
