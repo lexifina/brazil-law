@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANO FELIX RODRIGUES contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos Embargos Infringentes e de Nulidade n. 1.0105.10.032714-4/002, com a seguinte ementa:
+EMENTA: EMBARGOS INFRINGENTES - ROUBO - RESGATE DO VOTO MINORITÁRIO PELA ABSOLVIÇÃO - INVIABILIDADE - EMBARGOS INFRINGENTES REJEITADOS. Havendo nos autos elementos suficientes para se imputar ao acusado a autoria do crime de roubo, como devidamente fundamentado nos votos majoritários da apelação, não se cogita do resgate daquele minoritário pela absolvição.
+No recurso especial (fls. 299/309), a defesa requereu, em síntese, a absolvição, pela insuficiência de provas.
+Inadmitido o recurso na origem (fls. 321/325), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 331/343).
+O Ministério Público Federal opinou pelo desprovimento do agravo, em parecer com a seguinte ementa (fls. 367/381):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME DE ROUBO. (ART. 157, CAPUT, DO CÓDIGO PENAL). CONDENAÇÃO À PENA DE 05 ANOS EM REGIME INICIAL SEMIABERTO. PRETENSÃO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVA VÁLIDA DE AUTORIA. ALEGAÇÃO DE RECONHECIMENTO PESSOAL REALIZADO EM DESCONFORMIDADE COM O ART. 226 DO CPP. DISTINÇÃO FÁTICA RELEVANTE COM O JULGAMENTO DO HC 598.886/SC. RECONHECIMENTO PESSOAL CORROBORADO POR OUTRAS PROVAS IDÔNEAS, JUSTIFICANDO A C O N D E N A Ç Ã O . PARECER PELO NÃO PROVIMENTO DO PRESENTE AGRAVO.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+O presente recurso não se presta ao revolvimento de prova, mas à valoração dos elementos firmados pelas instâncias ordinárias, não incidindo a Súmula 7/STJ ao caso presente.
+Pretende a defesa a absolvição do acusado, ao argumento da insuficiência de provas relativamente à autoria, e uma vez que o reconhecimento realizado na delegacia não observou as formalidades do artigo 226 do CPP.
+Este Tribunal Superior tem entendido, nos casos em que há reconhecimento pessoal sem atendimento às formalidades do artigo 226 do CPP, pela validade da condenação quando esta venha lastreada em outros elementos probatórios (AgRg no HC n. 965.403/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025; AgRg no AREsp n. 2.789.926/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+No caso dos autos, toda a prova veio baseada no depoimento da vítima e dele derivada, posto que teria reconhecido o acusado com base nas vestimentas que utilizava e na bicicleta que conduzia.
+Por seu turno, os policiais militares que realizaram a prisão repetiram as declarações da vítima acerca das características do roubador. O acusado foi detido cerca de meia hora após o roubo e reconhecido com base unicamente nessas características. Há que se consignar que o celular roubado não foi localizado em poder do acusado nem apreendido.
+Acresça-se a tanto que a vítima não foi localizada para prestar depoimento em juízo, o que enfraquece consideravelmente suas declarações prestadas em sede inquisitorial, estendendo-se ao suposto reconhecimento ali operado por ocasião da lavratura do flagrante. Desta forma, verifica-se que, com base nas premissas firmadas pelas instâncias ordinárias, não se vislumbra prova suficiente para a condenação do acusado, vislumbrando-se, aqui, a ofensa ao disposto no artigo 386, VII do CPP.
+Sendo assim, conheço do agravo, para dar provimento ao recurso especial, dando prevalência ao voto minoritário e absolvendo o acusado, com fundamento no artigo 386, VII do CPP.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES. CONDENAÇÃO. INSUFICIÊNCIA DE PROVAS. RECONHECIMENTO REALIZADO NA DELEGACIA. PROVA DERIVADA DAS DECLARAÇÕES DA VÍTIMA PERANTE A AUTORIDADE POLICIAL. VÍTIMA NÃO LOCALIZADA PARA PRESTAR DEPOIMENTO EM JUÍZO. AUSÊNCIA DE CONFIRMAÇÃO DOS ELEMENTOS INDICIÁRIOS EM JUÍZO. ABSOLVIÇÃO.
+Agravo conhecido para dar provimento ao recurso especial, nos termos do dispositivo.
