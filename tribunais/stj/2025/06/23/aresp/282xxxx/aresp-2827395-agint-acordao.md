@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.755-1.764) interposto contra decisão desta relatoria, que negou provimento ao recurso (fls. 1.747-1.750).
+Em suas razões, a parte alega violação do art. 1.022, II, do CPC, afirmando que não houve pronunciamento quanto às omissões apontadas e não incidiria a Súmula n. 7 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fls. 1.769-1.784).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 1.747-1.750):
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 1.022, I e II, do CPC/2015 e (b) aplicação da Súmula n. 7 do STJ (fls. 1.682-1685).
+O acórdão recorrido está assim ementado (fls. 1.537-1.538):
+APELAÇÃO CÍVEL. PROCESSO CIVIL E DIREITO DO CONSUMIDOR. PRELIMINAR DE NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO. REJEIÇÃO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. ACIDENTE COM VEÍCULO. RESPONSABILIDADE OBJETIVA DO FORNECEDOR. FALHA NO ACIONAMENTO DE AIRBAG. NÃO COMPROVAÇÃO. LAUDO PERICIAL CONCLUSIVO. AUSÊNCIA DE DEFEITO NO PRODUTO. EXCLUDENTE DE RESPONSABILIDADE. ART. 12, §3º, II, DO CDC. IMPUGNAÇÃO INFUNDADA. MERO INCONFORMISMO DA PARTE. INDENIZAÇÃO NÃO DEVIDA.
+1. Rejeita-se a preliminar de ausência de fundamentação, quando a simples leitura da sentença é eficiente a evidenciar que o magistrado fundamentou, satisfatoriamente, a decisão recorrida, com a precisa indicação dos argumentos fáticos e jurídicos que ensejaram seu convencimento.
+2. Nos termos do caput do art. 12 do Código de Defesa do Consumidor - CDC, o fabricante, independentemente da existência de culpa, responde pelos danos materiais ou morais causados ao consumidor, decorrentes de produto defeituoso colocado no mercado de consumo, a não ser que comprove uma das hipóteses excludentes da responsabilidade objetiva, previstas no §3º do dispositivo legal em referência.
+3. Constatada, mediante perícia técnica, a inexistência de defeito no sistema de do veículo objeto da lide, fabricado pela ré/apelada e com o qual se acidentou airbag a autora/apelante, resta afastada a alegada falha na fabricação do produto, devendo incidir, na espécie, a excludente de responsabilidade prevista no art. 12, §3º, II, do CDC, que afasta o dever de indenizar em virtude do rompimento do nexo de causal que se exige entre o dano alegado e a conduta do fornecedor, não havendo margem, assim, para acolher o pedido reparação por danos morais.
+4. O mero inconformismo da autora/apelante com o resultado da perícia, desamparado de qualquer substrato fático, técnico ou jurídico que desabone o trabalho realizado, não é suficiente para afastar a conclusão de que não houve falha no acionamento dos airbags na ocasião do acidente narrado nos autos, mas sim a inexistência das condições necessárias à deflagração do sistema de segurança.
+5. Negou-se provimento ao apelo.
+Os embargos de declaração foram rejeitados (fls. 1.608-1.615).
+Nas razões do recurso especial (fls. 1.637-1.647), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC, alegando que "o referido Acórdão (..) ao apreciar o recurso de apelação ignorou a falha reconhecida pela recorrida, para se manifestar no sentido de que o recall teria outro motivo determinante, de modo a afastar a pretensão da recorrente, sendo, assim, omisso quanto à incidência do art. 12, Código do Consumidor" (fl. 1.641);
+(ii) art. 12, § 1º, II, do CDC, "uma vez que em que pese reconhecer a ausência de informações técnicas necessárias à devida utilização do produto pelo consumidor, afastou a responsabilização da recorrida no caso em comento, violando, assim, o referido dispositivo" (fl. 1.643).
+Foram oferecidas contrarrazões (fls. 1.658-1.677).
+O agravo (fls. 1.690-1.699) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.706-1.727).
+É o relatório.
+Decido.
+Quanto à apontada violação ao art. 1.022 do Código de Processo Civil, cumpre dizer que, além de o Tribunal ter enfrentado toda a matéria pertinente à controvérsia, a pretensão deduzida nos embargos de declaração opostos pela parte recorrente, longe de demonstrar qualquer omissão, contradição ou obscuridade, objetiva, na verdade, rediscutir causa devidamente solucionada.
+Houve o enfrentamento de toda a questão posta em discussão na instância a quo, desenvolvida e analisada fundamentadamente, ainda que em sentido contrário à pretensão da parte recorrente. Confira-se o seguinte excerto (fls. 1.543-1.546):
+Sabe-se que o magistrado não está adstrito às conclusões declaradas pela perícia técnica, visto que é livre para formar seu convencimento mediante apreciação do conjunto de elementos e fatos apresentados nos autos.
+Todavia, no caso em tela, nota-se o insucesso da autora/apelante na apresentação de razões para infirmar a qualidade do laudo pericial e, muito menos, as conclusões ali declaradas.
+A despeito dos sucessivos questionamentos acerca da conduta do perito e de suas conclusões, observa-se que o profissional, amparado por fotos e documentação detalhada do estudo feito foi contundente na afirmação de não ter havido falha no sistema de acionamento do airbag, visto que, a partir do exame das condições em que ocorreu acidente, o dispositivo de segurança não deveria mesmo ter sido acionado.
+Destaca-se que, embora o veículo tenha sido objeto de recall, o defeito que implicou a convocação dos consumidores não se referia a problemas ligados ao acionamento do dispositivo de segurança, mas sim ao rompimento inadequado do deflagrador do airbag, dada a suspeita de que a explosão exagerada poderia machucar o passageiro, não havendo, assim, nexo causal entre a convocação do recall e o acidente narrado nos autos.
+E, malgrado as alegações da recorrente, a questão foi bem explicitada pelo perito na complementação do laudo pericial, conforme se verifica do ID 145152386, pág. 25.
+Quanto à alegação de falta de informação por parte da ré/apelada sobre a impossibilidade de acionamento do sistema de airbags em caso de colisão lateral, verifica-se, também, que essa circunstância não foi a causa determinante do acidente.
+(..)
+Desse modo, em que pese a argumentação em sentido contrário, considerando todo o conjunto probatório dos autos, notadamente a perícia técnica realizada, é de se constatar a inexistência de defeito no sistema airbag de do veículo objeto da lide, já que a deflagração do dispositivo de segurança demanda, conforme as informações colhidas dos autos, impacto frontal severo, dentro de determinado ângulo de colisão, acima de determinada velocidade e contra barreiras fixas e indeformáveis, circunstâncias não verificadas no caso em tela.
+Logo, deve incidir, na espécie, a excludente de responsabilidade prevista no art. 12, §3º, II, do CDC, que afasta o dever de indenizar em virtude do rompimento do nexo de causal que se exige entre o dano alegado e a conduta do fornecedor, não havendo margem, assim, para acolher o pedido de reparação por danos materiais e morais.
+No caso concreto, o TJDFT consignou que ficou constatada a inexistência de defeito no sistema de airbag do veículo objeto da lide, incidindo assim a excludente de responsabilidade. Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+A Corte estadual entendeu que "o  perito , amparado por fotos e documentação detalhada do estudo feito foi contundente na afirmação de não ter havido falha no sistema de acionamento do airbag, visto que, a partir do exame das condições em que ocorreu acidente, o dispositivo de segurança não deveria mesmo ter sido acionado  ..  embora o veículo tenha sido objeto de recall, o defeito que implicou a convocação dos consumidores não se referia a problemas ligados ao acionamento do dispositivo de segurança, mas sim ao rompimento inadequado do deflagrador do airbag, dada a suspeita de que a explosão exagerada poderia machucar o passageiro, não havendo, assim, nexo causal entre a convocação do recall e o acidente narrado nos autos " (fl. 1.543).
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
