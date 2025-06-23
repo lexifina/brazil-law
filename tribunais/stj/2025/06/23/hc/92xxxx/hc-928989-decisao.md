@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MATHEUS LAURINDO DA SILVA apontando como autoridade coatora o Tribunal Regional Federal da 2ª Região (Revisão Criminal nº 5015893-45.2023.4.02.0000/RJ).
+Depreende-se dos autos que o Juízo de primeira instância condenou o paciente às penas de 8 anos, 4 meses e 20 dias de reclusão e de 152 dias-multa, pela prática dos delitos de roubo e associação criminosa, tendo em vista que, nos dias 01/11/2016, 7/11/2016, 17/11/2016, 22/11/2016, 24/11/2016, 30/11/2016, 5/12/2016 e 23/3/2017, em comunhão de desígnios com outros indivíduos, praticou roubos de carga contra a Empresa Brasileira de Correios e Telégrafos.
+Contra a decisão foi interposto recurso de apelação da defesa, o qual foi desprovido, conforme acórdão assim ementado (e-STJ fls. 1560/1561):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ROUBO. ASSOCIAÇÃO CRIMINOSA. SENTENÇA CONDENATÓRIA. CONCURSO DE PESSOAS. RESTRIÇÃO DA LIBERDADE. TRANSPORTE DE VALORES. CRIME CONTINUADO. NULIDADE DA SENTENÇA NA PARTE QUE CONDENOU O RÉU A REPARAÇÃO DO DANO. AUSÊNCIA DE PEDIDO EXPRESSO NA DENÚNCIA. EXTENSÃO DOS EFEITOS AOS DEMAIS CORRÉUS. INTELIGÊNCIA DO ART. 580, DO CPP. PROVIMENTO PARCIAL DO RECURSO MINISTERIAL E DO RECURSO INTERPOSTO POR GEAN CARLOS BOUZON DOS SANTOS. DESPROVIMENTO DOS DEMAIS RECURSO DEFENSIVOS.
+I - O único elemento informativo com aptidão para ligar o réu MATHEUS LAURINDO DA SILVA ao crime ocorrido no dia 01.11.2016 foi produzido em sede policial, razão pela qual a ausência de provas ou indícios produzidos sob a égide do contraditório capazes de corroborar ou complementar o apurado, conduz para a sua absolvição por ausência de provas.
+II - No crime ocorrido no dia 23.03.17, mediante uma única ação, foram atingidos dois patrimônios distintos, o patrimônio da Empresa Brasileira de Correios e Telégrafos - EBCT e o patrimônio da vítima Paulo Robson de Moraes, motorista terceirizado, que teve sua kombi roubada no evento, pelo que é impositivo o reconhecimento do concurso formal.
+III - Na esteira da jurisprudência dos tribunais superiores, mediante a simultaneidade do reconhecimento do concurso formal e da continuidade delitiva, aplica-se somente a causa de aumento de pena relacionada ao crime continuado, que, na espécie, deve ser no patamar de 2/3 (dois terços), tendo em vista que o réu BRUNO IZAÍAS DA SILVA cometeu 7 (sete) crimes.
+IV - Não merece prosperar a debilidade das provas suscitada pelos réus, sendo certo que a magistrada de primeiro grau apontou de forma pormenorizada os elementos de convicção que embasaram seu convencimento, consistentes em reconhecimento fotográfico, reconhecimento pessoal realizado em juízo e prova testemunhal.
+V - As alegações de contaminação do inquérito policial e da existência de interesse pessoal do delegado responsável pela investigação são despidas de embasamento, não sendo possível concluir pelas suas existências tão somente pelo fato desse ter demonstrado contentamento pelo sucesso da operação que originou a presente ação penal.
+VI - O reconhecimento fotográfico é amplamente aceito pela literatura especializada e pela jurisprudência tendo como norte os princípios da busca da verdade real e da liberdade de produção de provas.
+VII - A condenação dos réus não ocorreu, como tentam fazer crer, unicamente com base nos reconhecimentos fotográficos realizados no inquérito policial, mas nos reconhecimentos que foram confirmados em juízo e outras provas e indícios.
+VIII - A estabilidade e permanência necessárias para configuração da associação criminosa ficaram evidenciadas pela atuação articulada e pela utilização do mesmo modus operandi.
+IX - É irrelevante o fato dos réus MATHEUS LAURINDO DA SILVA e THIAGO ALESSANDRO DE SOUSA terem sido condenados somente por um crime de roubo, tendo em vista que o crime de associação criminosa é autônomo e formal.
+X - O fato de o crime de roubo ter atingido serviço da União de relevante repercussão social é característica a ser sopesada nas circunstâncias do crime, uma vez que extrapola o tipo penal.
+XI - Em relação ao crime associativo, correto é o incremento em razão da consumação do crime de roubo, sendo certo que esse é exaurimento em relação aquele, que é crime autônomo e formal.
+XII - O julgador não está adstrito a critérios matemáticos preestabelecidos ao proceder a primeira fase de dosimetria da pena.
+XIII - Especificamente quanto aos réus BRUNO IZAÍAS DA SILVA, GEAN CARLOS BOUZON DOS SANTOS e DANIEL RIBEIRO CORDONIZ, considerou a juíza a quo as ações penais em curso para valorar negativamente a sua personalidade, em descompasso com o entendimento sumulado no Enunciado 444 do STJ mas que não impede a sua consideração para negativar a conduta social.
+XIV - Em relação ao réu THIAGO ALESSANDRO DE SOUSA descabida é a desclassificação para o crime de receptação pretendida, tendo em vista que esse aderiu a empreitada criminosa antes da sua consumação.
+XV - Não assiste razão ao recorrente THIAGO ALESSANDRO DE SOUZA FONSECA, ao afirmar que o aumento da pena relacionado a restrição da liberdade das vítimas configura responsabilidade objetiva.
+XVI - Não se aplica a minorante relacionada a participação de menor importância ao réu THIAGO ALESSANDRO DE SOUZA FONSECA se o papel do recorrente era crucial no seio da associação criminosa, uma vez que transportava, guardava e mantinha em depósito os objetos roubados, oferecendo para tanto a sua própria residência.
+XVII - Não assiste razão ao réu GEAN CARLOS BOUZON DOS SANTOS quando afirma que o aumento de pena relacionado ao crime continuado não possui amparo legal ante o disposto no art. 71 do Código Penal e do entendimento sufragado no sentido de que é a quantidade de infrações o seu critério de avaliação superiores.
+XVIII - Se não há pedido expresso para o fim de reparação de danos, na forma do art. 387, IV do Código de Processo Penal, deve ser ela afastada em homenagem à ampla defesa e contraditório; situação essa que deve ser estendida aos demais réus, na forma do art. 580 do mesmo diploma.
+XIX - A desclassificação para o crime de furto requerida pelo réu DANIEL RIBEIRO CORDONIZ não encontra amparo no conjunto probatório dos autos, no qual ficou evidenciada a coação psicológica exigida para configuração do crime de roubo.
+XX - Provimento parcial do recurso ministerial e do recurso interposto pelo réu GEAN CARLOS BOUZON DOS SANTOS e desprovimento dos demais recursos defensivos.
+A defesa apresentou pedido revisional, com fundamento no art. 621, inciso I, do Código de Processo Penal, visando a desconstituição da condenação e, subsidiariamente, a revisão da dosimetria da pena.
+Em 28/6/2024, o Tribunal Regional Federal da 2ª Região não conheceu do pedido revisional. O acórdão recebeu a seguinte ementa:
+PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL CAUSA DE PEDIR FUNDAMENTADA NA PRECARIEDADE DAS PROVAS QUE DERAM SUPORTE À CONDENAÇÃO. ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL. REEXAME DE PROVAS E TESES JÁ APRECIADAS. DOSIMETRIA DA PENA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. NÃO CONHECIMENTO DA AÇÃO.
+I - Ação revisional proposta com base no artigo 621, I, do CPP, cuja causa de pedir se fundamenta na precariedade das provas que deram suporte à condenação do requerente pela prática dos crimes de roubo circunstanciado e associação criminosa.
+II - Jurisprudência do Superior Tribunal de Justiça consolidade no sentido de que a revisão criminal não se presta a nova valoração das provas ou reexame das matérias já decididas e não pode para tanto ser utilizada como sucedâneo recursal, portanto, quando a tanto se propõe, não merece ultrapassar o juízo de admissibilidade.
+III - Nenhum erro judiciário há que justifique a revisão do julgado, eis que todas as teses defensivas foram suficientemente examinadas à luz do conjunto probatório dos autos, sendo rechaçadas pelo magistrado sentenciante e ratificadas pela Segunda Turma Especializada desta Corte em sede de apelação criminal.
+IV - No que respeita à dosimetria da pena, a revisão criminal tem cabimento na hipótese de deficiência da fundamentação. Contudo, no presente caso, a pena foi devidamente calculada, levando em consideração elementos concretos existentes nos autos, tanto que, embora objeto de recurso, foi mantida no julgamento da apelação criminal.
+V - Além de inexistir qualquer circunstância que determine ou autorize diminuição especial da pena, a pretendida revisão do julgado em relação à dosimetria da pena somente seria cabível se evidenciado, previamente, o cabimento do pedido revisional, o que, como já visto, não é a presente hipótese.
+VI - Revisão criminal não conhecida.
+Daí o presente writ, no qual a defesa sustenta que a condenação foi contrária à evidência dos autos, ressaltando a presença de condições subjetivas favoráveis, além de invocar a ilegalidade do procedimento de reconhecimento fotográfico. Aduz que não foram produzidas provas quanto ao emprego de arma de fogo, razão pela qual seria necessário o afastamento da majorante respectiva. Ressalta a primariedade técnica do paciente. Pugna, ao final, que seja julgada " ..  procedente a revisão criminal para reformar o acórdão que condenou o revisionando, ante a não colhida todo conjunto probatório a fim de ensejar a condenação estando assim a sentença contrário à evidência dos autos nos termos da argumentação", decretando-se a absolvição do paciente. Subsidiariamente, pleiteia o afastamento da majorante da arma de fogo, a fixação da pena-base no mínimo legal, a imposição de regime inicial mais benéfico e a diminuição da pena" (e-STJ fls. 3/33).
+As informações foram prestadas às fls.1586/1591.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela não concessão da ordem (e-STJ fls. 1600/1606).
+É o relatório. Decido.
+A presente irresignação não merece prosperar, pois se trata de mera reiteração de recurso especial anteriormente dirigido a esta Corte - Recurso Especial n. 2.160.786/RJ - impetrado em favor do ora paciente e contra o mesmo acórdão.
+Por oportuno, destaco que o recurso especial foi interposto pelos mesmos advogados do presente habeas corpus, possui idênticos pedidos e está concluso para julgamento.
+Dessarte, o proceder da defesa caracteriza mera reiteração de pedido a ser apreciado, providência essa inviável, uma vez que provocada a tutela jurisdicional pelo Superior Tribunal de Justiça, não sendo possível a dupla apreciação da matéria.
+No mesmo sentido, destaco os seguintes precedentes:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REITERAÇÃO DE PEDIDO. MATÉRIA JÁ SUSCITADA EM RECURSO ESPECIAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em razão da reiteração de pedido já apresentado em agravo em recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão consiste em saber se é cabível a reiteração de pedido de habeas corpus já analisado em agravo em recurso especial sobre o mesmo acórdão.
+III. RAZÕES DE DECIDIR
+3. A reiteração de pedido já submetido ao agravo em recurso especial é inadmissível, conforme entendimento pacífico do STJ.
+4. O habeas corpus não pode ser utilizado para obter nova análise da mesma matéria em decisão já recorrida.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 784.994/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ser meio inadequado à pretensão de declaração de nulidade da sentença condenatória, alegando cerceamento de defesa pelo indeferimento de oitiva de testemunha.
+2. Fato relevante. O agravante foi condenado à pena de reclusão e multa, por fraudes na obtenção de financiamento, com recurso de apelação parcialmente provido para absolver de um dos crimes, abrandar o regime prisional e substituir a pena privativa de liberdade por prestação de serviços à comunidade e prestação pecuniária.
+3. As decisões anteriores. A ordem de habeas corpus não foi conhecida, pois já havia recurso especial interposto contra o mesmo acórdão, e não foi constatada ilegalidade flagrante que permitisse a concessão de habeas corpus de ofício.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento da oitiva de testemunha essencial à busca da verdade real configura cerceamento de defesa, justificando a nulidade da sentença condenatória.
+III. Razões de decidir
+5. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão, evitando a subversão do sistema recursal.
+6. A jurisprudência é firme no sentido de que o indeferimento de oitiva de testemunhas, quando fundamentado pelo magistrado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa.
+7. Não há flagrante ilegalidade a ser sanada pela via do habeas corpus, pois a negativa da pretensão foi devidamente fundamentada na sentença condenatória, considerando a falta de verossimilhança da alegação do réu.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. O princípio da unirrecorribilidade recursal impede a tramitação simultânea de habeas corpus e agravo em recurso especial contra a mesma decisão. 2. O indeferimento de oitiva de testemunhas, quando fundamentado por considerá-la desnecessária ou protelatória, não constitui cerceamento de defesa".
+Dispositivos relevantes citados: CPP, art. 402; Lei n. 7.492/1986, art. 19.Jurisprudência relevante citada: STJ, AgRg no HC 967.391/RO, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j.
+26.03.2025; STJ, AgRg no HC 938.662/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 07.10.2024; STJ, AgRg no HC n. 342.168/PB, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 08.02.2022.
+(AgRg no HC n. 955.639/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se
+EMENTA
