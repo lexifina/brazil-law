@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CULPA PELA RESCISÃO CONTRATUAL. ATRASO NA INAUGURAÇÃO DO EMPREENDIMENTO COMERCIAL. SÚMULAS N. 5 E 7/STJ.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem solucionou a lide em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. O tribunal de origem entendeu que a alteração unilateral da metodologia construtiva, mesmo que voltada à sustentabilidade e as dificuldades logísticas enfrentadas, não caracterizam excludentes de responsabilidade, tampouco autorizam a modificação do pacto.
+3. Alterar o decidido no acórdão impugnado, no que se refere à culpa de recorrente pela rescisão contratual, exige o reexame de fatos e provas e de cláusulas contratuais, o que é vedado, em recurso especial, pelas Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por VARZEA GRANDE SHOPPING S.A. contra decisão monocrática de minha relatoria que negou provimento ao agravo em recuso especial.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fl. 345):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES - CONTRATO DE COMPRA E VENDA DE PONTO COMERCIAL - SHOPPING CENTER - INOBSERVÂNCIA DO PRAZO CONTRATUAL À ENTREGA DO EMPREENDIMENTO E INÍCIO DAS ATIVIDADES - RESCISÃO CONTRATUAL POR CULPA EXCLUSIVA DO EMPREENDEDOR/RÉU - DEVOLUÇÃO DA RES SPERATA - DEVIDA - MULTA PELA EXTINÇÃO DO VÍNCULO CONTRATUAL - INDEVIDA - SENTENÇA MANTIDA - RECURSO DESPROVIDO. "Não sendo cumprido o prazo estabelecido para entrega do espaço comercial, restando claro que o Shopping Center não foi inaugurado, é razoável a conclusão de que o apelante ensejou a resolução do contrato. Comprovado que a rescisão contratual decorreu do inadimplemento do empreendedor-administrador, inadmissível se beneficiar com o pagamento de multa contratual e demais cominações. No caso, comprovado que o shopping center descumpriu os termos contratuais, procede a ação que visa obter a devolução dos valores pagos a título de res sperata." (TJMT - 1ª Câmara de Direito Privado - RAC 0011714- 46.2015.8.11.0002, Rel. Des. Sebastião Barbosa Farias, julgado em 11/07/2017, D Je 18/07/2017)
+Rejeitados os embargos de declaração opostos (fls. 426-429).
+Alega o agravante que o acórdão do Tribunal de origem se limitou a reproduzir trechos da sentença, sem se imiscuir sobre as razões recursais, o que viola o artigo 489, II, §1º, V do CPC. Argumenta que o acórdão não enfrentou os argumentos trazidos no recurso de apelação, limitando-se a transcrever trechos da decisão de primeira instância.
+Insiste na violação do art. 1.022 do CPC, eis que houve omissão na análise de um e-mail enviado pelo recorrido, no qual admite que o motivo para a rescisão contratual provém de dificuldades financeiras, sem mencionar o atraso da obra.
+Sustenta o afastamento da Súmula n. 7, eis que não pretende a reanálise das provas e fatos, mas sim a devida valoração da prova apresentada, o que é permitido em sede de recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 623-625).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CULPA PELA RESCISÃO CONTRATUAL. ATRASO NA INAUGURAÇÃO DO EMPREENDIMENTO COMERCIAL. SÚMULAS N. 5 E 7/STJ.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem solucionou a lide em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. O tribunal de origem entendeu que a alteração unilateral da metodologia construtiva, mesmo que voltada à sustentabilidade e as dificuldades logísticas enfrentadas, não caracterizam excludentes de responsabilidade, tampouco autorizam a modificação do pacto.
+3. Alterar o decidido no acórdão impugnado, no que se refere à culpa de recorrente pela rescisão contratual, exige o reexame de fatos e provas e de cláusulas contratuais, o que é vedado, em recurso especial, pelas Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem solucionou a lide em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O acórdão assim consignou sobre a questão dita omissa (fls. 349-350):
+Conquanto a requerida/locadora tenha encaminhado notificação ao locatário informando da prorrogação da inauguração com fundamento no referido dispositivo, em setembro de 2014, conforme AR e notificação de fls. 142/143, tem-se que este não prevê tal possibilidade, pois, embora conste que a data seria comunicada ao locatário no prazo de 180 dias, o caput estabelece que o locatário deveria proceder a inauguração na data prevista no item 13 do contrato.
+Nesse toar, convém trazer à baila o item 13ª do contrato de locação:
+"Data de inauguração: Prevista para o dia 30/03/2016.
+A eventual prorrogação da locação só poderá ocorrer se respeitadas as condições contratuais estabelecidas neste instrumento, nas normas a que este se subordina e nos regulamentos e instrumentos que o complementam e integram previstos na Cláusula Primeira do Contrato." (fls. 83/84)
+A prorrogação da inauguração não foi negada pela locadora/requerida, que apenas tentou justificá-las, afirmando que foi necessário alterar a metodologia construtiva do concreto com o fim de tornar o processo mais produtível e sustentável, e que em razão de ser vizinha à área de suporte na construção do Veículo Leve Sobre Trilhos - VLT e de várias obras de intervenção viária teve dificuldades no acesso do trafego de caminhões que levaram materiais de construção. Destarte, não há nos autos provas de que o atraso foi justificado, por motivos de caso fortuito, força maior ou demais razões que poderiam prejudicar o cumprimento integral da obrigação estipulada.
+A justificativa constante na notificação de prorrogação de que "após a atualização do cronograma das obras do empreendimento identificamos a necessidade de alterar a metodologia construtiva de concreto moldada in loco, adotada inicialmente, para estrutura metálica industrializada, tornando o processo mais produtivo e sustentável" (fl. 143), por certo não se enquadra nas hipóteses de excludentes de responsabilidade (art. 393, do CPC).
+Assim, como a parte ré não se desincumbiu de seu ônus, com base nos elementos dos autos é possível concluir pelo descumprimento do contrato, referente a demora injustificada da inauguração do centro de compras, fato que permite a rescisão contratual por inadimplência da locadora/requerida, nos termos do art. 475, do Código Civil, in verbis: (..).
+Consigna-se que, apesar do requerente continuar a adimplir as parcelas da res sperata após o recebimento o comunicado sobre a prorrogação da data da inauguração, o que ensejaria na anuência com a prorrogação, não se pode ignorar que a alteração da data constitui violação ao pacta sund servanda.
+Com efeito, a inobservância dos compromissos assumidos com relação à data da inauguração do empreendimento, trouxe prejuízos ao lojista que havia se planejado e estabelecido parcerias com a empresa de telefonia móvel, Claro, em razão da previsão de inauguração para março de 2015, que acabou perdendo o interesse na atividade que seria desenvolvida no novo empreendimento.
+Não se pode conhecer da alegada violação dos arts. 111, 113 e 422 do Código Civil, porquanto o exame da tese recursal esbarra no óbice da Súmula n. 7/STJ. Isso porque o acórdão recorrido, ao concluir pela inexistência de justificativa idônea para a prorrogação da inauguração do empreendimento, baseou-se na interpretação do contrato firmado entre as partes e na valoração das provas constantes dos autos, especialmente a notificação encaminhada pela locadora e os elementos que evidenciam a ausência de caso fortuito ou força maior.
+O T ribunal de origem entendeu que a alteração unilateral da metodologia construtiva, mesmo que voltada à sustentabilidade, e as dificuldades logísticas enfrentadas, não caracterizam excludentes de responsabilidade, tampouco autorizam a modificação do pacto.
+Alterar o decidido no acórdão impugnado, no que se refere à culpa de recorrente pela rescisão contratual, exige o reexame de fatos e provas e de cláusulas contratuais, o que é vedado, em recurso especial, pelas Súmulas n. 5 e 7 do STJ.
+A propósito, cito o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DAS OBRAS. CULPA DA CONSTRUTORA. SÚMULA Nº 7 DO STJ. RESTITUIÇÃO IMEDIATA E INTEGRAL DOS VALORES PAGOS. SÚMULA Nº 543 DO STJ. CORREÇÃO MONETÁRIA A PARTIR DE CADA DESEMBOLSO E JUROS DE MORA DESDE A CITAÇÃO. AGRAVO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, o acórdão estadual recorrido afirmou que foi a construtora quem deu causa à propositura da ação de resolução do contrato, pois incorreu em atraso na entrega das obras. Nesses termos não é possível acolher a alegação recursal de que a extinção do contrato se deu por culta dos consumidores sem esbarrar na Súmula nº 7 do STJ.
+2. Na hipótese de resolução do contrato por culpa do promitente vendedor, a restituição das parcelas pagas pelo consumidor deve ser integral e imediata ( Súmula nº 543 do STJ).
+3. A correção monetária deve incidir desde o efetivo desembolso dos valores pagos os juros de mora desde a citação. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.250.781/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
