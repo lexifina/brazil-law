@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Landmark Participações Ltda., em face do acórdão do Tribunal Regional da 4ª Região assim ementado:
+
+    “TRIBUTÁRIO. PIS E COFINS. INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI 9.718/1998. REPERCUSSÃO GERAL. AÇÃO DE REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO. RESTITUIÇÃO DO INDÉBITO. ALUGUEL DE IMÓVEIS PRÓPRIO E RECEITAS FINANCEIRAS. INCLUSÃO NA BASE DE CÁLCULO. 1. Tratando-se de restituição do indébito, aqueles que efetuaram os recolhimentos até 08/06/2005 têm direito à repetição no prazo de 10 anos anteriores ao ajuizamento, limitada ao prazo máximo de cinco anos a contar da data da vigência da lei nova. Relativamente aos pagamentos havidos após a entrada em vigor da LC nº 118/2005, ou seja, 09/06/2005, o prazo prescricional é de cinco anos. 2. O STF, em questão de ordem, reconheceu a repercussão geral da questão constitucional acerca do § 1º do artigo 3º da Lei 9.718/98, reafirmando sua jurisprudência no sentido da inconstitucionalidade da ampliação da base de cálculo do PIS e da COFINS. 3. Receitas financeiras e de aluguel de imóvel próprio, intrínsecas à atividade comercial da empresa e elencadas em seu objeto social, são consideradas, nestes casos, como mercadorias ou serviços, eis que funcionalizadas desta forma, impondo-se a incidência do PIS e da COFINS. (Apelação Cível nº 5001668-54.2019.4.04.7000, 1ª Turma do Tribunal Regional Federal da 4ª Região, Des. Federal Maria de Fátima Freitas Labarrère)
+
+    Em juízo de retratação, o Tribunal de origem adequou o julgado à jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, nos seguintes termos:
+
+    “JUÍZO DE RETRATAÇÃO. TRIBUTÁRIO. PIS-PASEP. COFINS. BASE DE CÁLCULO. RECEITAS FINANCEIRAS E DE LOCAÇÃO DE IMÓVEIS. FATURAMENTO. TEMAS 630 E 684 DO STF. PRESCRIÇÃO. REPETIÇÃO DE INDÉBITO. LC 118/2005. TEMA 4 DO STF. TEMAS 137 E 138 DO STJ. ADEQUAÇÃO DO JULGADO.” (Apelação Cível nº 5001668-54.2019.4.04.7000, 1ª Turma do Tribunal Regional Federal da 4ª Região, Juiz Federal Convocado Giovani Bigolin, j. 26.2.2025)
+
+    Na minuta, sustenta-se, em síntese, que as receitas financeiras e as receitas decorrentes da locação de imóveis próprios não integram o conceito de faturamento ou receita bruta para fins de incidência das contribuições ao PIS e à COFINS, especialmente no período anterior à EC nº 20/1998. Defende-se a inconstitucionalidade da ampliação da base de cálculo promovida pelo § 1º do art. 3º da Lei nº 9.718/1998, por violação ao art. 195, I, da Constituição Federal, em sua redação original, bem como ao princípio da legalidade tributária previsto no art. 150, I, da Constitucional Federal. Invoca-se, ainda, o direito à restituição dos valores pagos indevidamente, inclusive aqueles anteriores a 09.6.2005, com fundamento na tese dos “cinco mais cinco” anos, buscando afastar a aplicação imediata do novo prazo prescricional introduzido pela Lei Complementar nº 118/2005.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que “É constitucional a incidência da contribuição para o PIS e da COFINS sobre as receitas auferidas com a locação de bens móveis ou imóveis, quando constituir atividade empresarial do contribuinte, considerando que o resultado econômico dessa operação coincide com o conceito de faturamento ou receita bruta, tomados como a soma das receitas oriundas do exercício das atividades empresariais, pressuposto desde a redação original do art. 195, I, da Constituição Federal”, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “DOIS EMBARGOS DE DECLARAÇÃO. RE 599.658. TEMA 630 DA REPERCUSSÃO GERAL. RE 659.412. TEMA 684 DA REPERCUSSÃO GERAL. JULGAMENTO UNIFICADO. INCIDÊNCIA DO PIS E DA COFINS SOBRE RECEITAS AUFERIDAS COM LOCAÇÃO DE BENS MÓVEIS E IMÓVEIS. ATIVIDADE EMPRESARIAL DO CONTRIBUINTE. CONSTITUCIONALIDADE MESMO ANTES DA EDIÇÃO DA EC 20/1998. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO. AMBOS REJEITADOS. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A MODULAÇÃO DOS EFEITOS DA DECISÃO EMBARGADA. 1. As embargantes alegam, em suma, que a decisão embargado contém vício de omissão por desconsiderar que, antes da Emenda Constitucional 20/98, o SUPREMO TRIBUNAL FEDERAL havia declarado a inconstitucionalidade do artigo 3º, §1º da Lei 9.718/98, no que determinava a incidência de PIS/COFINS sobre a totalidade das receitas auferidas pelas pessoas jurídicas, inclusive aquelas não relacionadas a um serviço prestado e/ou mercadoria vendida. 2. Com base nesse argumento, pleiteiam a modulação dos efeitos da decisão, para que a Tese 630 da Repercussão Geral do STF surta efeitos a partir da vigência das Leis 10.637, de 2002, e 10.833, de 2003 (regime não cumulativo), e 12.973, de 2014 (regime cumulativo), ou, subsidiariamente, logo após a vigência da EC 20/1998”. 3. Constou expressamente no voto condutor do acórdão embargado que, mesmo antes da edição da EC 20/1998, esta CORTE assentou que o conceito de faturamento abrange a receita operacional decorrente da venda de mercadorias ou venda de serviços ou mercadorias e serviços, desde que vinculadas à ideia de produto das atividades típicas empresariais, de acordo com o objeto social. Assim, a locação de bens móveis e imóveis, enquanto objeto do contrato social da pessoa jurídica, enquadra-se como faturamento da pessoa jurídica, na medida em que configura resultado econômico da atividade empresarial desenvolvida, para fins da incidência do PIS/COFINS. 4. Desse modo, inexistem razões de segurança jurídica ou interesse social que justifiquem a modulação dos efeitos da decisão, conforme pleiteado pelas embargantes. 5. Ambos os Embargos de Declaração rejeitados.” (RE 599658 ED-segundos, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 26.08.2024)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 23 de junho de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
