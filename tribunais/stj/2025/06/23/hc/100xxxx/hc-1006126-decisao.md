@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONARDO SHIMADA CARDOSO, condenado pelo Juízo de Direito da 5ª Vara Criminal da comarca de São Paulo à pena de 8 anos, 10 meses e 20 dias de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 96 dias-multa, como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, ocasião em que fora-lhe negado o direito de recorrer em liberdade (Ação Penal n. 1509828-04.2024.8.26.0228 - fls. 22/46).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ora apontado como órgão coator, denegou a ordem no HC n. 2106932-07.2025.8.26.0000, mantendo a prisão preventiva (fls. 14/21).
+Nesta Casa, a defesa alega a ocorrência de excesso de prazo, pois o paciente permanece preso preventivamente há mais de um ano, sem que haja decisão definitiva. Afirma que se trata de réu primário, estudante, com bons antecedentes, residência fixa e ocupação lícita. Sustenta a ausência de fundamentação idônea na decretação e na manutenção da custódia.
+Requer, no âmbito liminar e no mérito, a revogação da custódia, ainda que com a aplicação de medidas cautelares alternativas.
+Antes de tomar qualquer decisão, solicitei informações às instâncias ordinárias (fl. 58), que foram prestadas às fls. 61/63 e 65/66.
+É o relatório.
+Quanto aos fundamentos da prisão preventiva, o presente writ não comporta conhecimento.
+Isso porque não consta do s autos a cópia da decisão do Juízo de primeiro grau que originariamente decretou a prisão preventiva, cujos fundamentos foram mantidos por ocasião da sentença condenatória, documento essencial à compreensão das alegações e ao deslinde da controvérsia.
+Com efeito, é deficiente a instrução do habeas corpus quando, pretendendo-se a revogação da custódia e/ou sua substituição por medidas cautelares alternativas, não consta dos autos a cópia de tal peça, que é, por óbvio, a gênese da controvérsia aqui suscitada.
+Nesse sentido, os seguintes precedentes: AgRg no HC n. 726.822/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/4/2022; AgRg no RHC n. 108.082/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2022; e AgRg no RHC n. 154.348/CE, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 19/11/2021.
+Quanto ao alegado excesso de prazo da custódia, o acórdão impugnado asseverou que (fls. 16/21 - grifo nosso):
+Consta dos autos, em especial das informações prestadas pela digna Autoridade impetrada que, por sentença proferida em 28 de novembro de 2024, o ora paciente foi condenado à pena de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime fechado, e ao pagamento de 96 (noventa e seis) dias- multa, no mínimo legal, como incurso no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal (fls. 633/657).
+Inconformada com a sentença, a Defesa do paciente interpôs recurso de apelação (fls. 820/848), que se encontra em regular processamento.
+ ..
+Apenas para que não fique sem registro, não há se falar em excesso de prazo, pois a instrução criminal encontra-se encerrada, incidindo, na hipótese, o enunciado do verbete nº 52, da Súmula do Egrégio Superior Tribunal de Justiça, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ademais, interposto recurso de apelação contra a r. sentença, os autos já foram distribuídos ao signatário, de sorte que em breve o reclamo será julgado.
+Ora, no caso, o paciente já foi condenado pela prática do crime de roubo circunstanciado à pena de 8 anos, 10 meses e 20 dias de reclusão, havendo a incidência da Súmula 52/STJ. Ademais, tendo a sentença sido proferida em 28/11/2024 (fl. 46), paira sobre o réu reprimenda de montante relevante, não estando caracterizada mora irrazoável, tendo em conta o decurso do prazo de aproximadamente 7 meses desde a data da prolação da sentença, sendo que a apelação interposta já foi, inclusive, devidamente distribuída no Tribunal de origem (fl. 21).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fim de análise de suposta ocorrência de excesso de prazo no julgamento da apelação. A propósito, confiram-se: AgRg no HC n. 883.271/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/8/2024; AgRg no HC n. 787.527/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2023; e AgRg no HC n. 812.677/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/8/2023.
+Como se vê, o processo segue seu regular curso, não havendo falar em desídia das instâncias ordinárias que justifique o relaxamento da prisão por excesso de prazo.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DAS ALEGAÇÕES. ALEGAÇÃO DE EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SENTENÇA CONDENATÓRIA JÁ PROFERIDA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
