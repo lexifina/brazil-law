@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. INDENIZAÇÃO SECURITÁRIA. DEVER DE INFORMAÇÃO. ESTIPULANTE. TEMA 1.112/STJ. COBERTURA. DOENÇA PROFISSIONAL. NÃO ABRANGÊNCIA.
+1. Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice.
+2. Por expressa previsão legal e contratual, a cobertura por Invalidez Permanente Parcial ou Total por Acidente (IPA) não abrange as doenças, inclusive as classificadas como profissionais, ainda quando consideradas acidentes do trabalho pela legislação previdenciária. Precedente.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por CASSIO BRAZ DE OLIVEIRA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DOENÇA OCUPACIONAL INCAPACITANTE - NÃO COBERTA PELA APÓLICE - PEDIDO SUBSIDIÁRIO TAMBÉM SEM COBERTURA - DEVER DE INFORMAÇÃO - ESTIPULANTE - RECURSO NÃO PROVIDO. 1. O dever de informação das cláusulas limitativas é da estipulante. Em recente decisão, o Superior Tribunal de Justiça concluiu o julgamento do R Esp n. 1.874.811/SC, submetido à sistemática dos recursos repetitivos e objeto do Tema 1112, no qual sedimentou o entendimento de que "(i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre". 2. Nas condições contratuais da apólice, consta expressamente que não estão incluídas no conceito de acidente as doenças profissionais, lesões decorrentes de LER e DORT, bem como as situações similares reconhecidas por classe médico científica. 3. Pedido subsidiário também não consta no rol da contratação" (e-STJ fl. 623).
+No recurso especial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 6º, III, 46, 47 e 51, IV, do CDC por ofensa ao dever de informação e ao argumento de que as cláusulas do contrato devem ser interpretadas de maneira mais favorável ao consumidor; e
+(ii) art. 757 do Código Civil por defender a equiparação da doença ocupacional a acidente de trabalho para fins do contrato de seguro.
+Após as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. INDENIZAÇÃO SECURITÁRIA. DEVER DE INFORMAÇÃO. ESTIPULANTE. TEMA 1.112/STJ. COBERTURA. DOENÇA PROFISSIONAL. NÃO ABRANGÊNCIA.
+1. Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice.
+2. Por expressa previsão legal e contratual, a cobertura por Invalidez Permanente Parcial ou Total por Acidente (IPA) não abrange as doenças, inclusive as classificadas como profissionais, ainda quando consideradas acidentes do trabalho pela legislação previdenciária. Precedente.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, no que se refere ao dever de informação, extrai-se do acórdão recorrido que:
+"Primeiramente, o dever de informação das cláusulas limitativas é da estipulante. Em recente decisão, o Superior Tribunal de Justiça concluiu o julgamento do REsp n. 1.874.811/SC, submetido à sistemática dos recursos repetitivos e objeto do Tema 1112, no qual sedimentou o entendimento de que "(i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre".
+(..)
+Logo, não sendo da seguradora a obrigação de informar previamente aos segurados as condições gerais do contrato, prevalecem as regras limitativas e restritivas" (fl. 625 e-STJ).
+Assim, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, em sem Tema nº 1.112/STJ.
+A propósito:
+"RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. GARANTIA SECURITÁRIA. INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). INDENIZAÇÃO SECURITÁRIA. INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE. GRAU DE INVALIDEZ. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia dos autos reside em definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+3. Teses para os fins do art. 1.040 do CPC/2015: (i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) n ão se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora.
+4. Recurso especial não provido" (REsp n. 1.874.788/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023.)
+No que diz respeito à cobertura securitária, as conclusões do tribunal de origem decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"Por consequência, estando excluídas da cobertura da apólice as doenças ocupacionais incapacitantes, como é o caso da parte autora, esta não faz jus ao recebimento do seguro, consoante demonstrará a seguir.
+Nota-se que na inicial o requerente não deixa dúvidas quanto à origem da incapacidade, relatando que devido ao trabalho realizado, com esforços repetitivos, foi acometido por acidente de trabalho por equiparação.
+Assim, a incapacidade laboral que acomete o requerente é decorrente de doença ocupacional, cujo risco está expressamente excluído da cobertura da apólice não fazendo jus a requerente ao recebimento do seguro.
+Ademais, com bem asseverado pelo magistrado é incabível a equiparação da doença funcional a acidente de trabalho, uma vez que tal hipótese encontra-se expressamente excluída pela apólice.
+Sendo que ainda que fosse considerado a indenização em razão da doença (pedido subsidiário), somente é indenizável a doença que provoque invalidez funcional permanente e total, não sendo este o caso do apelante, visto que apresente invalidez permanente parcial incompleta" (e-STJ fl. 626).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. LER. AUSÊNCIA DE COBERTURA. ALTERAÇÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. REEXAME DE
+PROVAS. SÚMULAS NºS 5 E 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nº 2 e 3/STJ).
+2. Alterar a conclusão do tribunal estadual de que a doença incapacitante não está prevista no contrato exigiria a análise de cláusulas contratuais e o reexame de provas, procedimentos inviáveis na estreita via do recurso especial.
+3. Agravo interno não provido" (AgInt no AREsp n. 1.325.482/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/12/2018, DJe de 14/12/2018.)
+Ademais, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que, por expressa previsão legal e contratual, a cobertura por Invalidez Permanente Parcial ou Total por Acidente (IPA) não abrange as doenças, inclusive as classificadas como profissionais, ainda quando consideradas acidentes do trabalho pela legislação previdenciária.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. DOENÇA OCUPACIONAL. EQUIPARAÇÃO A ACIDENTE DO TRABALHO. IMPOSSIBILIDADE. ACÓRDÃO QUE DIVERGE DA JURISPRUDÊNCIA DO STJ.
+1. Por expressa previsão legal e contratual, a cobertura por Invalidez Permanente Parcial ou Total por Acidente (IPA) não abrange as doenças, inclusive as classificadas como profissionais, ainda quando consideradas acidentes do trabalho pela legislação previdenciária. Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt no REsp n. 2.154.692/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12 % (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15 % (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+É o voto.
