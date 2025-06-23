@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JULIANO DA ROSA, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5012396-07.2025.8.24.0000/SC - fls. 40/44).
+Busca o recorrente a revogação das medidas cautelares diversas da prisão impostas pelo Juízo singular da comarca de Caçador/SC, em razão da suposta prática dos crimes de homicídio e lesão corporal culposos na direção de veículo automotor e fraude processual, ao argumento de constrangimento ilegal em razão da fragilidade do conjunto probatório acerca da autoria, da ilegalidade da prisão em flagrante, bem como do excesso de prazo na manutenção da medidas cautelares impostas e na conclusão do inquérito policial. Subsidiariamente, pede a revogação apenas da medida cautelar de suspensão do direito de dirigir.
+O recorrente apresentou pedido de tutela provisória e reiterou as alegações da petição inicial (fls. 80/83).
+Sem contrarrazões.
+É o relatório.
+Inicialmente, tem-se que, na via eleita, não há como dirimir a tese de negativa de autoria nem a de ausência de provas das condutas criminosas, pois, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva. Nesse sentido: AgRg no HC n. 920.036/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/2/2025; e AgRg no RHC n. 197.281/MG, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 23/10/2024.
+Além disso, o recurso ordinário em habeas corpus deve ser instruído com as peças necessárias para confirmação da efetiva ocorrência do constrangimento ilegal, cabendo ao recorrente o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas.
+Nesse sentido, cito: AgRg no HC n. 702.560/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/2/2022; e RHC n. 134.960/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/10/2021.
+In casu, o recorrente não juntou cópia de documentos capazes de demonstrar a situação fático-processual, como, por exemplo, o decreto prisional, a decisão que determinou as medidas cautelares impostas ao réu e a decisão que indeferiu o pedido de revogação das cautelares, o que inviabiliza a análise das alegações suscitadas. É evidente a deficiência na instrução do feito.
+À vista do exposto, não conheço deste recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE TRÂNSITO. HOMICÍDIO E LESÃO CORPORAL CULPOSOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. FRAUDE PROCESSUAL. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. REVOGAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. EXCESSO DE PRAZO. FUNDAMENTAÇÃO. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. ÔNUS DO RECORRENTE. FALTA DE PEÇAS ESSENCIAIS. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES.
+Recurso não conhecido.
