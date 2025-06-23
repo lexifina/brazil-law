@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo DISTRITO FEDERAL contra decisão que inadmitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO REGRESSIVA. CONDENAÇÃO DO ESTADO. INDENIZAÇÃO. PENDENTE DE PAGAMENTO. FALTA DE INTERESSE DE AGIR. 1. O interesse de agir da Fazenda Pública em ação regressiva apenas surge após o efetivo pagamento da indenização pelo dano causado. 2. Possibilitar o prosseguimento de ação de regresso, sem que tenha havido efetivo prejuízo ao erário, enseja até mesmo o enriquecimento ilícito em favor do Estado: julgada procedente a ação regressiva, o ente público poderia vir a receber a indenização requerida sem ter pagado anteriormente, nem vir a pagar no futuro, qualquer valor à vítima e, por conseguinte, sem sofrer qualquer lesão patrimonial que pudesse amparar seu pedido indenizatório regressivo. 3. Recurso conhecido e não provido.
+Embargos de declaração rejeitados (e-STJ fl. 134).
+Nas razões do especial, alega violação dos arts. 934 e 1.022, II e parágrafo único, II, do CPC/2015.
+Contrarrazões (e-STJ fl. 178/184).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 202/203).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são acolhidos embargos de declaração quando houver, no acórdão ou sentença, omissão, contradição, obscuridade ou erro material no julgado.
+Para admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, o Tribunal de origem, mesmo provocado (e-STJ fls. 78/81), deixou de se manifestar a respeito do fato de que a sentença condenatória já está sendo objeto de cumprimento de sentença, o que autorizaria a ação de regresso.
+O agravante afirma o que se segue (e-STJ fls. 79/81):
+3. Ao assim decidir, desconsiderou a incindibilidade do título executivo, aplicando, de forma tácita e, reconheça-se, indevida, a previsão do art. 803 do CPC, que dispõe: "É nula a execução se: (..) III - for instaurada antes de se verificar a condição ou de ocorrer o termo".
+4. Essa incindibilidade fica evidente pela p rópria previsão do art. 975 do CPC, ao proclamar que a pretensão rescisória "se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo".
+5. No caso concreto, com maior razão, na justa medida em que a sentença condenatória já está sendo objeto de cumprimento de sentença, em que reclamadas todas as parcelas indenizatórias, a saber: (1) dano moral (precatório já expedido); (2) pensionamento temporário, já implementado, com passivo objeto de precatório também já expedido; e (3) ressarcimento do dano material (despesas com funeral), quitado.
+6. Desconsiderando a admissibilidade apenas parcial da regressiva, o v. acórdão embargado proclamou: "O interesse de agir da Fazenda Pública em ação regressiva apenas surge após o efetivo pagamento da indenização pelo dano causado. Em outras palavras, possibilitar o prosseguimento de ação de regresso, sem que tenha havido efetivo prejuízo ao erário, enseja até mesmo o enriquecimento ilícito em favor do Estado: julgada procedente a ação regressiva, o ente público poderia vir a receber a indenização requerida sem ter pagado anteriormente, nem vir a pagar no futuro, qualquer valor à vítima e, por conseguinte, sem sofrer qualquer lesão patrimonial que pudesse amparar seu pedido indenizatório regressivo."
+7. Assim é que o julgado reclama integração, para correção da (equivocada) premissa de que toda a regressiva deva ser postergada, uma vez que a decisão de primeiro grau extinguiu apenas parcialmente a ação (..). (Grifos acrescidos).
+Assim, configurada a violação do art. 1.022 do Código de Processo Civil/2015, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que os vícios sejam sanados pelo Tribunal de origem.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES AO AGRAVO REGIMENTAL. PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. EMBARGOS DECLARATÓRIOS. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É imprescindível a intimação do agravo para apresentar contrarrazões, em atenção aos princípios da ampla defesa e do contraditório.
+2. Não tendo o Tribunal a quo se manifestado sobre questão fundamental para o julgamento da controvérsia, justifica-se a anulação do julgado por esta Corte, por afronta do artigo 535 do Código de Processo Civil.
+3. Agravo regimental desprovido. (AgRg no REsp 1.236.975/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 15/02/2012).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos para que o Tribunal de origem reaprecie os embargos de declaração opostos pelo ora agravante, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
+EMENTA
