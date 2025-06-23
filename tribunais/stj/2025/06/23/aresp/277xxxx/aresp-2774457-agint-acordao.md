@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 195):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A agravante sustenta que "(..) a minuta do Agravo em Recurso Especial interposto cumpriu todos os requisitos formais pontados como não observados haja vista que a decisão da lavrada da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo de mostrou absolutamente vaga, lacunosa e genérica, sendo inclusive apontada como nula de pleno direito por aquele recurso." (fl. 202).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnados , especificamente, os fundamentos da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, a recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada nos seguintes fundamentos: a) insuficiência dos argumentos expendidos para infirmar as conclusões do acórdão recorrido; b) ausência de evidência do maltrato às normas legais enunciadas; c) incidência da Súmula 7/STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, no seu agravo em recurso especial, a parte tão somente arguiu a nulidade da decisão obstativa por suposta ausência de fundamentação. Em seguida, alegou genericamente ter demonstrado a violação à legislação federal (apenas remetendo às folhas do recurso especial) e, a pretexto de impugnar a aplicação da Súmula 7/STJ, sustentou que "(..), o recurso especial interposto não suscita a reanálise de provas e, assim, não viola a súmula 7 desta Egrégia Corte. A não violação da súmula 7 decorre da clara ausência de necessidade de reanálise de provas dos autos, haja vista que os atos ilegais perpetrados são unicamente de direito, posto que a prescrição intercorrente é flagrante, não havendo o que se falar apreciação de provas, mas sim da constatação de FATOS incontroversos que constam dos autos." (fl. 175).
+Ora, a bem de ver, a parte deveria ter demonstrado a inaplicabilidade dos fundamentos trazidos pela Corte a quo, seja porque seus argumentos recursais foram, sim, suficientes para infirmar as conclusões do acórdão recorrido (e aí caberia ter tratado de tais conclusões e dos argumentos trazidos a fim de modifica-las), seja porque evidenciou a contento o maltrato às normas legais enunciadas (e aí caberia ter mencionado as normas em questão e explicitado como demonstrou seu malferimento).
+Quanto à Súmula 7/STJ, sua adequada impugnação exige da parte que esta desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica - e aí deve comprovar tal circunstância, não apenas alega-la -, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido - e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Todavia, in casu, além de não terem sido observadas tais diligências, ao afirmar que o caso depende da "(..) constatação de FATOS incontroversos que constam dos autos." (fl. 175), ao invés de demonstrar a desnecessidade de revisão do conteúdo fático-probatório no julgamento do apelo nobre, a agravante fez justamente o contrário, isto é, apontou a necessidade de reexame desse conteúdo para a correta resolução da controvérsia.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
