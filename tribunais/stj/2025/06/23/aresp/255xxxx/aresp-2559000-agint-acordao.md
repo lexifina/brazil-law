@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUBCLASSES. CRIAÇÃO. POSSIBILIDADE. ADOÇÃO DE CRITÉRIOS OBJETIVOS. SÚMULAS N. 7 E 83/STJ. PRECLUSÃO. AFASTAMENTO. ARGUMENTOS. DISSOCIAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO DE ORIGEM. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. "No plano de recuperação judicial, a criação de subclasses entre credores é possível, desde que previsto critério objetivo e justificado, envolvendo credores com interesses homogêneos, vedando-se a estipulação de descontos que permitam a supressão de direitos d e credores minoritários ou isolados" (AgInt no REsp n. 1.743.785/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Acórdão de origem está em conformidade com a jurisprudência do Superior Tribunal de Justiça. Aplicação do verbete n. 83 da Súmula.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manifestado por Abengoa Bioenergia S.A. e outras em face de decisão que negou provimento a agravo em recurso especial.
+Afirmam que "o Grupo Abengoa não buscou em seu Agravo em Recurso Especial de origem o reexame de matéria fático-probatória, muito menos, a interpretação de cláusulas do Plano de Recuperação Judicial, razão pela qual não incidem as Súmulas nº 5 e 7 deste C. STJ ao presente caso" (e-STJ, fl. 542).
+Defendem que houve omissão no acórdão de origem a respeito da preclusão, haja vista que a questão a respeito da inclusão de determinados credores em certa classe já havia sido decidida por decisão não recorrida, o que deixou de ser apreciado pela Corte estadual.
+Reiteram, assim, a violação dos artigos 1.022, 489 e 507 do Código de Processo Civil.
+Pedem o provimento do recurso.
+Impugnação da parte contrária no sentido de que a decisão do Tribunal de origem está em consonância com a jurisprudência do STJ, que não houve decisão anterior sobre a matéria específica dos agravados e a que tese de violação ao artigo 507 do CPC não permite a exata compreensão da matéria, ensejando a aplicação da Súmula 284 do STF (fls. 560-561).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUBCLASSES. CRIAÇÃO. POSSIBILIDADE. ADOÇÃO DE CRITÉRIOS OBJETIVOS. SÚMULAS N. 7 E 83/STJ. PRECLUSÃO. AFASTAMENTO. ARGUMENTOS. DISSOCIAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO DE ORIGEM. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. "No plano de recuperação judicial, a criação de subclasses entre credores é possível, desde que previsto critério objetivo e justificado, envolvendo credores com interesses homogêneos, vedando-se a estipulação de descontos que permitam a supressão de direitos d e credores minoritários ou isolados" (AgInt no REsp n. 1.743.785/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Acórdão de origem está em conformidade com a jurisprudência do Superior Tribunal de Justiça. Aplicação do verbete n. 83 da Súmula.
+4. Agravo interno a que se nega provimento.
+VOTO
+O inconformismo não merece acolhida.
+As recorrentes manifestaram agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Agravo de instrumento. Flexibilização dos critérios previstos no plano de recuperação judicial para credor ser classificado na subclasse "credor essencial". Impossibilidade. A matéria central de análise no presente recurso é aferir a possiblidade de o Judiciário reclassificar credor na subclasse dos essenciais, mesmo sem ter cumprido integralmente todos os requisitos expressamente previstos no plano de recuperação judicial para tanto. A criação de subclasses somente é permitida com a utilização de critérios objetivos, afastando-se a subjetividade. Além disso, a escolha dos requisitos para a classificação dos credores na subclasse dos "credores essenciais" foi especificamente delineada no plano de recuperação judicial, ou seja, a assembleia de credores definiu os requisitos para esse benefício ao recebimento dos créditos. Não cabe ao Judiciário interferir em aspectos econômicos do plano de recuperação e nem flexibilizar os critérios objetivos ali insculpidos para a inclusão de credor na subclasse em testilha. É necessário, então, o cumprimento de todos os requisitos para a classificação do credor na subclasse dos "credores essenciais". O Judiciário não pode, caso a caso, afastar os requisitos expressamente previstos no plano de recuperação judicial, justamente porque a criação de subclasses somente é permitida com base em critérios objetivos, ou seja, para ser classificado na subclasse dos "credores essenciais" é necessário o cumprimento de todos os requisitos, nem mais, nem menos. Decisão reformada. Recurso provido.
+Alegaram, na ocasião, violação dos artigos 1.022, 489 e 507 do Código de Processo Civil e 47 da Lei 11.101/05 sob os argumentos de que o acórdão local é omisso; que houve preclusão do tema; e que o impedimento da inclusão de certo credor na subclasse "credores essenciais" violaria o princípio da preservação da empresa.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte. Sobre o tema, os seguintes precedentes: AgRg no R Esp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, D Je 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, D Je 6/5/2011.
+Incompreensível, ainda, a alegada violação do artigo 507 do Código de Processo Civil, porquanto nada dá conta de que houve decisão judicial anterior a respeito da questão, senão o contrário, esclarecido nos embargos de declaração, no sentido de "que não há preclusão da matéria, tendo em vista que se trata de tema em atual discussão nos autos de origem" (e-STJ, fl. 347), o que atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Não há, quanto ao mais, impedimento para que se criem subclasses no quadro de credores, desde que atendidos critérios objetivos e não prejudique credores minoritários.
+A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONCESSÃO DE PRAZOS E DESCONTOS PARA PAGAMENTO DOS CRÉDITO. CORREÇÃO MONETÁRIA E JUROS. AUSÊNCIA DE ABUSIVIDADE. SUBCLASSES. CRITÉRIOS OBJETIVOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência pacífica desta Corte, a concessão de prazos e descontos para pagamento de créditos, bem como correção monetária e juros inserem-se dentre as tratativas negociais passíveis de deliberação pelo devedor e pelos credores quando da discussão assemblear sobre o plano de recuperação apresentado. Ademias, no caso concreto, não foi verificada nenhuma abusividade.
+2. No plano de recuperação judicial, a criação de subclasses entre credores é possível, desde que previsto critério objetivo e justificado, envolvendo credores com interesses homogêneos, vedando-se a estipulação de descontos que permitam a supressão de direitos de credores minoritários ou isolados. Precedentes.
+3. Agravo interno não provido
+(AgInt no REsp n. 1.743.785/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024.)
+O Tribunal local, na delimitação da matéria, registrou que se trata de "aferir a possiblidade de o Judiciário reclassificar credor na subclasse dos essenciais, mesmo sem ter cumprido integralmente todos os requisitos expressamente previstos no plano de recuperação judicial para tanto" (e-STJ, fl. 329).
+Concluiu "que a criação de subclasses é permitida, desde que utilizados critérios objetivos para tanto, ou seja, afasta-se a subjetividade na classificação" (fl. 329/e-STJ).
+Decidiu, assim, que a decisão de primeiro grau merecia reforma para "que somente os credores que cumpr irem integralmente os requisitos previstos no plano de recuperação judicial poderão ser classificados na subclasse dos "credores essenciais", sendo vedada a flexibilização em questão" (e-STJ, fl. 331).
+O entendimento está em estreita consonância com o pensamento desta Casa, de modo que recaem os óbices de que tratam os verbetes n. 5, 7 e 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
