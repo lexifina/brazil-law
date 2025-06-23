@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso manejado por Crescenza Carone Appolinário - Sucessão contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 45):
+AGRAVO DE INSTRUMENTO DESAPROPRIAÇÃO JUROS COMPENSATÓRIOS Prevalência do entendimento firmado pelo E. STF no julgamento da ADI 2.332 quanto ao índice dos juros compensatórios em desapropriação (6% ao ano), em relação ao teor da decisão exequenda transitada em julgado, que estipulou juros compensatórios de 12% ao ano Inocorrência de violação à coisa julgada Precedentes do C. STJ Decisão mantida Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos arts. 502, 507 e 508 do CPC. Para tanto, sustenta que o percentual dos juros compensatórios não poderia ser alterado, porquanto fixado expressamente no título executivo judicial, sob pena de ofensa à coisa julgada.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo conhecimento do agravo, para não conhecer do recurso especial (fls. 161/166).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A respeito do tema, esta Corte Superior tem asseverado que, "Tratando-se de parcela integrante da compensação financeira a ser paga ao expropriado, inviável a incidência imediata de índices de juros compensatórios supervenientes ao trânsito em julgado, sob pena de modificação do valor da justa indenização fixada no título judicial, não se aplicando a tal parcela, por conseguinte, a ratio decidendi acolhida pela Corte Especial deste Tribunal Superior relativamente aos juros de mora, porquanto somente aos consectários legais de natureza processual é possível a aplicação imediata da legislação superveniente " (RMS n. 60.400/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/6/2023, DJe de 13/6/2023.
+Nesse mesmo sentido, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. REVISÃO DOS JUROS COMPENSATÓRIOS FIXADOS NO TÍTULO EXECUTIVO JUDICIAL. IMPOSSIBILIDADE. COISA JULGADA. PRECEDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Eventual incorreção dos juros compensatórios definidos em título executivo não constitui circunstância excepcional a justificar a revisão da coisa julgada e a aplicação de índice diverso, notadamente quando o título executivo adotou índice até então vigente no ordenamento jurídico. Precedentes.
+2. Hipótese em que o título executivo judicial expressamente estabeleceu a taxa de juros compensatórios em 12% ao ano, com base na liminar concedida pelo STF na ADI 2.332 (fl. 308). Contexto que torna inviável a revisão do percentual, sob pena de ofensa à coisa julgada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.945.388/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS REMUNERATÓRIOS. ADEQUAÇÃO. DECLARAÇÃO DE CONSTITUCIONALIDADE APÓS O TRÂNSITO EM JULGADO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em cumprimento de sentença, indeferiu o pedido do agravante de adequação do percentual dos juros remuneratórios. No Tribunal a quo, negou-se provimento ao agravo.
+II - Verifica-se que, consoante excertos reproduzidos do aresto recorrido, o entendimento firmado pelo Tribunal Regional encontra-se em sintonia com o posicionamento desta Corte Superior, no sentido de que a constitucionalidade do art. 15-A do Decreto n. 3.365/1941, declarada no julgamento da ADI n. 2.332/DF, posteriormente ao trânsito em julgado da ação expropriatória (fase de conhecimento), não impõe a alteração no percentual de juros compensatórios. Nesse sentido: REsp n. 1.896.374/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/11/2020, DJe 23/11/2020; AgInt no AREsp n. 929.166/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/6/2019, DJe 9/8/2019.
+III - Agravo interno improvido.
+(AgInt no REsp n. 1.828.292/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/8/2022, DJe de 19/8/2022.)
+Destarte, o acórdão recorrido não merece subsistir no particular.
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação acima.
+Publique-se.
+EMENTA
