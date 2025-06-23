@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE NULIDADE DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO PARCIAL DO ÁGIO. AUSÊNCIA DE SIMULAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LETÍCIA KARLA LOPES DA SILVA e THALES DE MELO CASADO contra decisão singular de minha lavra na qual neguei provimento ao recurso especial pelos seguintes fundamentos: a) não se verificou omissão, pois o Tribunal de origem apreciou todas as teses suscitadas pelos agravantes; b) as demais teses suscitadas pelos agravantes demandariam o reexame de matéria fática, bem como interpretação de cláusulas contratuais, incidindo as Súmulas 5 e 7/STJ (fls. 1018/1021).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou o art. 1.022, I e II, do Código de Processo Civil/2015 e os arts. 3º, caput, 167, §1º, II, 171, II, 473, 475, 476, 308, 421 e 85, §2º, todos do Código Civil.
+Quanto à suposta ofensa ao art. 1.022, I e II, do CPC/2015, sustenta que a decisão foi omissa e contraditória ao não reconhecer a simulação da cláusula de pagamento e ao não aplicar a nulidade do negócio jurídico.
+Argumenta, também, que houve negativa de prestação jurisdicional pela manutenção de sentença citra petita, bem como violação do art. 167, §1º, II, do CC, em razão da simulação do negócio jurídico no que se refere ao adimplemento contratual.
+Além disso, teria violado o art. 473 do Código Civil, ao não reconhecer o direito potestativo de resolução do contrato em face do inadimplemento.
+Alega que a jurisprudência do STJ assegura o retorno ao status quo ante em casos de inadimplemento, o que teria sido demonstrado, no caso, por elementos probatórios que indicam a falta de pagamento do ágio.
+Haveria, por fim, violação aos arts. 308 e 421 do Código Civil, uma vez que o Tribunal de origem considerou que o pagamento à credora-fiduciária desobrigaria a recorrida perante os recorrentes, o que não foi ratificado por eles.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE NULIDADE DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO PARCIAL DO ÁGIO. AUSÊNCIA DE SIMULAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação visando à declaração da nulidade ou à anulação de negócio jurídico, com pedido subsidiário de rescisão, ajuizada pelos agravantes em face da agravada, quanto ao negócio jurídico firmado entre as partes sobre o imóvel sito no Núcleo Bandeirante, Brasília/DF.
+A sentença julgou parcialmente procedentes os pedidos dos agravantes, condenando a agravada ao pagamento de R$ 57.570,80 (cinquenta e sete mil quinhentos e setenta reais e oitenta centavos), mas manteve o contrato de compra e venda.
+O Tribunal de origem confirmou a manutenção do contrato e a condenação da agravada apenas ao pagamento da diferença do ágio não quitada, afastando a alegação de simulação e má-fé.
+Como constou na decisão agravada, a questão relativa ao contrato e pagamento foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão dos recorrentes.
+Isso se diz porque o Tribunal de origem consignou que: (i) não houve simulação na contratação  pois certa foi a intenção de compra e venda do imóvel pelos valores acordados entre as partes; (ii) houve apenas inadimplemento parcial no concernente à cláusula contratual ora questionada; (iii) ficou comprovada apenas a ausência de pagamento do remanescente do ágio no valor de R$ 57.570,80 (cinquenta e sete mil e quinhentos e setenta reais e oitenta centavos. Confira-se:
+Do cotejo do farto conjunto probatório, tanto documental como oral, resta demonstrado que não houve simulação na contratação  pois certa foi a intenção de compra e venda do imóvel pelos valores acordados entre as partes. Houve apenas inadimplemento parcial no concernente à cláusula contatual ora questionada, referente ao valor de R$ 316.500,00 (trezentos e dezesseis mil e quinhentos reais), constatando-se nesse ponto ter sobrevindo confusão dos autores quanto à sua interpretação, o que se verifica ser de fácil elucidação e incapaz de acarretar a nulidade, anulação ou rescisão do contrato.
+Com efeito, o preço total do imóvel foi acordado em R$ 560.000,00 (quinhentos e sessenta mil reais), constituído pelos valores de R$ 243.500,00 (duzentos e quarenta e três mil e quinhentos reais), e de R$ 316.500,00 (trezentos e dezesseis mil e quinhentos reais).
+O valor de R$ 243.500,00 (duzentos e quarenta e três mil e quinhentos reais), designado contratualmente de dívida confessada, se refere ao saldo devedor que foi expresso objeto de portabilidade da CEF para o BRB, quando da celebração do contrato de compra e venda do imóvel entre as partes (IDs 45590933, 45591579 e 45591580).
+No valor de R$ 316.500,00 (trezentos e dezesseis mil e quinhentos reais), designado contratualmente de recursos próprios, está, a toda evidência, contido o valor de R$ 241.707,56 (duzentos e quarenta e um mil e setecentos e sete reais e cinquenta e seis centavos) que, designado de quitação do saldo devedor, cobre os valores dos débitos que estavam em aberto junto à CEF e que foram pagos pela ré antes da celebração do contrato, correspondendo ao ágio pago, ainda que parcial.
+De fato, computados o aporte de R$ 210.000,00 (duzentos e dez mil reais) para amortização extraordinária (ID 45591591) e o valor de R$ 48.929,20 (quarenta e oito mil novecentos e vinte e nove reais e vinte centavos referente aos repasses da ré aos autores, desde 24/04/2015 a 08/12/2016, para pagamento das prestações vencidas antes de firmado entre as partes o instrumento público de compra e venda (IDs 45591600 a 45591611, 45591613, 45591671 a 45591673, 45591689), imperioso é reconhecer que houve o efetivo pagamento do ágio na importância de R$ 258.929,20 (duzentos e cinquenta e oito mil novecentos e vinte e nove reais e vinte centavos).
+Corroborando o juízo sentenciante, restou não comprovado o pagamento apenas do remanescente do ágio no valor de R$ 57.570,80 (cinquenta e sete mil e quinhentos e setenta reais e oitenta centavos). Nesse aspecto, o parágrafo segundo da cláusula primeira, assegura aos autores o direito à percepção da referida diferença.
+ ..
+Confirmada a sentença quanto à manutenção do contrato e à condenação da ré ao pagamento da diferença do ágio não quitada, resta prejudicado o pedido de condenação da ré a título de lucros cessantes  ..  (fls. 822/826).
+Assim, não há como ser acolhida a alegação de violação do art. 1.022 do CPC/2015, como pretendido pela parte agravante, uma vez que o Tribunal de origem reconheceu expressamente a ausência de simulação da cláusula de pagamento e, portanto, a falta de nulidade do negócio jurídico.
+Ademais, como constou na decisão ora agravada, a revisão das premissas adotadas no acórdão recorrido quanto à intenção de compra e venda do imóvel pelos valores acordados entre as partes; o mero inadimplemento parcial e, portanto, a ausência de simulação, demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
