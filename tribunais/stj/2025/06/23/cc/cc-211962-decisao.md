@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA, ACIDENTES DO TRABALHO E REGISTROS PÚBLICOS DE JARAGUÁ DO SUL - SC contra o JUÍZO FEDERAL DO TERCEIRO NÚCLEO DE JUSTIÇA 4.0 DE FLORIANÓPOLIS - SJ/SC, nos autos de ação previdenciária ajuizada contra o Instituto Nacional do Seguro Social - INSS, na qual se postula a concessão de benefício por incapacidade.
+A demanda foi proposta perante o Juízo Federal, que declarou-se incompetente para processar e julgar o feito, à consideração de que (fl. 23):
+Conforme documentos anexos (3.1 e 2.1), a alegada redução da capacidade decorre de lesões consolidadas decorrentes de acidente de trabalho - acidente de trajeto: "CAT do empregador informa acidente de trajeto ocorrido em 19/10/2022. Declaração na CAT assinada em 25/10/2022 pela Dra. Ana C. Simoneti, CRMSC 25748 informa "S42.0.".
+2. Tratando-se, portanto, de pedido de concessão de benefício previdenciário baseado em incapacidade decorrente de acidente de trabalho, de acordo com o artigo 109, I, da Constituição Federal e as Súmulas 15 do Superior Tribunal de Justiça e 501 do Supremo Tribunal Federal, a competência para processamento e julgamento do feito é da Justiça Estadual.
+Os autos foram remetidos para a Justiça Estadual, que suscitou o presente conflito negativo de competência, aduzindo, em suma, que (fl. 25):
+No caso, infere-se que o autor, em nenhum momento menciona que sofreu acidente de trabalho ou de trajeto, limitando-se a dizer que sofreu "queda de bicicleta".
+Ou seja, a causa de pedir desta ação é previdenciária, e não acidentária.
+Muito embora durante a perícia administrativa tenha sido apresentada CAT informando acidente de trajeto ocorrido em 19.10.2022 (evento 2, LAUDO1), a CAT não foi apresentada em juízo.
+Ademais, no laudo pericial, realizado em juízo, o perito constou que o autor "nega acidente de trajeto" (Evento 12), inexistindo, portanto, nexo causal acidentário.
+O Ministério Público Federal opina "pelo conhecimento do presente conflito negativo de competência com a declaração da competência do Juízo Federal do Terceiro Núcleo de Justiça 4.0 de Florianópolis - SJ/SC, o suscitado" (fl. 38).
+É o relatório.
+Decido.
+É certo que, nos termos das Súmulas n. 15 do STJ e 501 do STF, compete à Justiça Estadual processar e julgar litígios decorrentes de acidente do trabalho, ainda que promovidos contra a União ou suas autarquias, como é o caso do INSS.
+Outrossim, a delimitação da competência para o processamento e julgamento da demanda previdenciária é definida pelo pedido e causa de pedir deduzidos na petição inicial, e não em razão de um juízo preliminar acerca do mérito da causa. Nesse sentido: AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1º/12/2022.
+No caso, a parte autora ajuizou demanda na Justiça Federal objetivando a concessão de benefício por incapacidade, não sendo indicado na petição inicial (fls. 4-12) que o benefício requerido seja decorrente de acidente de trabalho. Como bem ressaltado pelo Ministério Público Federal, "a parte autora busca a transformação do benefício de auxílio-doença previamente concedido, sendo que essa pretensão, no caso concreto, não tem por causa de pedir acidente de trabalho ou de trajeto  .. . Não se busca, portanto, benefício de natureza acidentária laboral" (fl. 36).
+Nesse contexto, como a demanda na origem busca a concessão de benefício previdenciário sem qualquer referência à ocorrência de um acidente de trabalho, a competência para processar e julgar o feito é da Justiça Federal.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR. (CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022.)
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. PEDIDO E CAUSA DE PEDIR. JUSTIÇA FEDERAL. COMPETÊNCIA.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo questão anterior a qualquer outro juízo sobre a causa.
+2. Hipótese de ação ajuizada perante a Justiça Federal por segurado que postula o restabelecimento de auxílio-doença ou a concessão de aposentadoria por invalidez, sem nenhuma referência no tocante à existência de doença profissional ou relacionada à atividade desenvolvida que justifique a aplicação do art. 20 da Lei n. 8.213/1991. Precedentes.
+3. Agravo interno desprovido. (AgInt no CC n. 148.508/BA, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/6/2017, DJe de 6/9/2017.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do JUÍZO FEDERAL DO TERCEIRO NÚCLEO DE JUSTIÇA 4.0 DE FLORIANÓPOLIS - SJ/SC, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. BENEFÍCIO POR INCAPACIDADE. CRITÉRIOS PARA FIXAÇÃO DA COMPETÊNCIA. PEDIDO E CAUSA DE PEDIR NÃO VINCULADOS A ACIDENTE DO TRABALHO. BENEFÍCIO DE NATUREZA PREVIDENCIÁRIA. COMPETÊNCIA DO JUÍZO FEDERAL DO TERCEIRO NÚCLEO DE JUSTIÇA 4.0 DE FLORIANÓPOLIS - SJ/SC, O SUSCITADO.
