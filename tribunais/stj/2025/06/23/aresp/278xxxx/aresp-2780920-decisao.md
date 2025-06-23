@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por CERRO AZUL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e EDISON LUIZ SALDANHA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 529):
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO ORDINÁRIA. I. AS PROVAS PRODUZIDAS NOS AUTOS CORROBORAM A TESE AUTORAL, NO SENTIDO DE QUE NÃO HOUVE A CONFECÇÃO DE PROCURAÇÃO EM FAVOR DE TERCEIRO - PARA O FIM DE NEGOCIAÇÃO DE IMÓVEL. II. PROVA EMPRESTADA PRODUZIDA NOS AUTOS DO PROCESSO DE Nº 5001156- 91.2020.8.21.0028 QUE CORROBORA A TESE AUTORAL. TABELIÃO DE NOTAS DE SÃO PAULO QUE CONFIRMA A FALSIFICAÇÃO DE PROCURAÇÃO E SUBSTABELECIMENTO UTILIZADOS NA NEGOCIAÇÃO DISCUTIDA NO PRESENTE FEITO. III. INEXISTE NULIDADE A SER DECLARADA, TENDO EM VISTA QUE O DEMANDADO NO PRESENTE FEITO É TAMBÉM O RÉU NO PROCESSO SUPRAMENCIONADO - EM QUE PRODUZIDAS AS PROVAS EMPRESTADAS, DO QUAL TEVE O DEVIDO CONTRADITÓRIO E AMPLA DEFESA. IV. VERBA HONORÁRIA SUCUMBENCIAL MAJORADA. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fls. 548-550).
+Aduz, no mérito, violação dos arts. 215, caput, do Código Civil, 373, I, 427, 429 e 432 do CPC.
+Sustenta, em síntese, que a comprovação da falsidade dos documentos é ônus de quem a alega. Defende que a falsidade de escritura pública não poderia ter sido demonstrada por meio de prova oral, ao argumento de que ela somente poderia ter sido demonstrada por meio da realização de prova pericial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 574-586).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 589-591), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 608-620).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem concluiu pela invalidade da negociação do imóvel, ao fundamento de que restou demonstrado que a procuração e o substabelecimento constantes nos autos foram confeccionados por falsário, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 528):
+Com base em tais considerações, denota-se que a parte autora logrou êxito em demonstrar os fatos constitutivos do seu direito, a teor do que dispõe o art. 373, I, do CPC, no sentido de que a procuração e o substabelecimento constantes nos autos foram confeccionados por falsário, sendo inválida, assim, a negociação do imóvel levada a efeito em seu nome.
+Ademais, o suposto outorgado/substabelecente - Sr. João Derli Bordim, em seu depoimento, foi assente sobre o fato de não conhecer os litigantes e de que nunca foi procurador dos autores, e que tampouco efetivou qualquer negociação com os réus.
+Quanto ao fato de terem sido utilizadas no presente feito provas produzidas nos autos do processo de nº 5001156-91.2020.8.21.0028 não há qualquer óbice, pelo contrário, tendo em vista que em ambos os feitos o demandado é o mesmo, sendo que as situações jurídico-materiais discutidas nos processos são as mesmas, ou seja, nulidade das negociações de compra e venda - em razão da falsificação de documentos em nome do 12º Tabelião de Notas da Comarca de São Paulo.
+Quanto ao 12º Tabelião de Notas da Comarca de São Paulo, aliás, insta salientar que o mesmo foi assente nos autos do processo de nº 5001156-91.2020.8.21.0028 no sentido de que as negociações foram levadas a efeito mediante o uso de documentação fraudulenta, senão vejamos:
+(..)
+Assim, nos termos do art. 372, do CPC, não há razão para ser invalidada a prova emprestada - do qual o réu/apelante teve o devido contraditório e ampla defesa, tampouco há razão para que a sentença produzida no presente feito seja desconstituída, pois nos autos do processo de nº 5001156- 91.2020.8.21.0028 existem todos os elementos necessários para o deslinde da controvérsia, ou seja, nova intimação do Cartório somente protelaria o feito e não traria qualquer elemento novo além daqueles já constantes (acerca da nulidade da procuração e substabelecimento).
+Desse modo, a fastar o referido entendimento para concluir no sentido de que a parte recorrida não teria se desincumbido do seu ônus de comprovar a falsidade, como pretende a recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Por outro lado, nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, o art. 215 do Código Civil e os arts. 427 e 429 do CPC, apontados como violados, assim como a tese a eles vinculada, não foram prequestionados, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa .
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. FALSIDADE DOCUMENTAL. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
