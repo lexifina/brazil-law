@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, imp etrado em benefício de LUCAS PETERSON TORRES DA SILVA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0022634-45.2021.8.12.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, não comporta processamento.
+Com efeito, busca a impetração a desclassificação do crime de tráfico de drogas para a conduta de posse de drogas destinada a consumo pessoal, ao fundamento de que a condenação se ampara em um deserto probatório no que tange a esse elemento volitivo. Os fatos, tal como decantados nos autos, apontam para uma única direção: a ausência de qualquer indício de traficância. A quantidade de droga apreendida (23,08 g de maconha) é objetivamente compatível com o consumo pessoal. Some-se a isso a completa inexistência de apetrechos que caracterizam a atividade comercial - como balanças de precisão, contabilidade ou embalagens para fracionamento (fl. 4).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as circunstâncias da apreensão da droga, em contexto de venda a usuário-comprador (fls. 17/18), demonstram que não há dúvida a ser resolvida em favor do paciente.
+A propósito, nesse contexto, entende-se que, embora a quantidade de droga apreendida seja pequena (4,1 g de maconha), o contexto da apreensão, incluindo a presença de uma balança de precisão e os depoimentos que indicam o envolvimento do paciente com o narcotráfico, foram suficientes para justificar a condenação por tráfico, conforme fundamentado pelas instâncias ordinárias (HC n. 827.365/SC, Ministra Daniela Teixeira, Quinta Turma, DJe 21/10/2024).
+Em face do exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA (A DESPEITO DA POUCA QUANTIDADE DE DROGA APREENDIDA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
