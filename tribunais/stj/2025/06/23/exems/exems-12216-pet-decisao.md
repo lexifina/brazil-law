@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da petição de fls. 299-302, a ASSOCIAÇÃO DOS APOSENTADOS E PENSIONISTAS DA CEPLAC - AACEP requereu a intimação da UNIÃO para "comprovar o cumprimento da obrigação de fazer referente à implementação da gratificação GDATFA nos contracheques dos autores, bem como para apresentar as fichas financeiras dos servidores no período compreendido entre a data da impetração do mandamus (2006) até a efetiva incorporação da gratificação em comento, a fim de verificar se há valores a serem executados na presente demanda" (fl. 300).
+Intimada para comprovar o cumprimento da obrigação de fazer, a UNIÃO, na petição de fls. 330-331, informou que "a gratificação foi implementada antes da impetração do mandamus, que ocorreu em 2006, e incorporada, conforme fichas financeiras juntadas,  motivo pelo qual  não subsiste obrigação de fazer a ser cumprida pelo ente público, muito menos obrigação de pagar."
+Em resposta, a parte exequente requer o arquivamento do feito, considerando que "as fichas financeiras dos impetrantes foram obtidas e os cumprimentos de sentença desmembrados relativos à obrigação de pagar já foram ajuizadas em autos apartados, cuja discussão sobre as parcelas pecuniárias já está em avançado curso."
+Assim, não havendo providências adicionais a serem adotadas nos autos desta execução, extingo o processo sem exame do mérito e determino o seu arquivamento.
+Publique-se, Intimem-se.
+EMENTA
