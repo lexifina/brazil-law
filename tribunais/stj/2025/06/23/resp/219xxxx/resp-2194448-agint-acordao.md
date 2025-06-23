@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EQUILÍBRIO ECONÔMICO-FINNANCEIRO DO CONTRATO. SÚMULA N. 283/STF. ENRIQUECIMENTO ILÍCITO. SÚMULA N. 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento autônomo do acórdão recorrido que, por si só, respalda o resultado do julgamento, atrai a incidência da Súmula n. 283 do STF.
+3. No caso dos autos, para rever as conclusões firmadas pelo Tribunal a quo a respeito do equilíbrio econômico-financeiro do contrato, bem como verificar eventual enriquecimento ilícito pela manutenção da multa por inexecução parcial do contrato, exige o revolvimento do contexto fático-probatório dos autos, o que esbarra na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pela contra decisão assim ementada (fl. 843):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PROCESSO ADMINISTRATIVO. MULTA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EQUILÍBRIO ECONÔMICO-FINNANCEIRO DO CONTRATO. VERIFICADO. RAZOABILIDADE DA PENALIDADE APLICADA. SÚMULA N. 283/STF. ENRIQUECIMENTO ILÍCITO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno, a parte agravante sustenta, em suma, que "é induvidoso que à luz das normas postas em discussão (arts. 40, inc. XI, 55, inc. III, 65, 86 e 87 da Lei nº 8.666/1993 e arts. 1º, 2º e 3º da Lei nº 10.192/2001), a interpretação do contrato, notadamente Cláusula Décima Quarta do CONTRATO Nº 007/2021, deixa inequívoco a ilegalidade das sanções administrativas." (fl. 861). Assevera ainda que a análise da questão jurídica posta não demanda uma reanalise de provas, o que afasta a Súmula n. 7/STJ, posto que o que se busca é tão somente o reconhecimento de violação dos dispositivos federais comentados, decorrido da inadequada interpretação. Por fim, defende a inaplicabilidade ao caso da Súmula n. 283/STF.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EQUILÍBRIO ECONÔMICO-FINNANCEIRO DO CONTRATO. SÚMULA N. 283/STF. ENRIQUECIMENTO ILÍCITO. SÚMULA N. 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento autônomo do acórdão recorrido que, por si só, respalda o resultado do julgamento, atrai a incidência da Súmula n. 283 do STF.
+3. No caso dos autos, para rever as conclusões firmadas pelo Tribunal a quo a respeito do equilíbrio econômico-financeiro do contrato, bem como verificar eventual enriquecimento ilícito pela manutenção da multa por inexecução parcial do contrato, exige o revolvimento do contexto fático-probatório dos autos, o que esbarra na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+O cerne da presente controvérsia cinge-se à validade da decisão do Processo Administrativo e à manutenção da correspondente penalidade aplicada (no caso, da multa decorrente da inexecução parcial do contrato).
+Com efeito, no que tange à alegada ilegalidade das sanções administrativas do contrato, bem como do argumento de que a manutenção da multa por inexecução parcial do contrato configura enriquecimento sem causa, o Tribunal a quo consignou o seguinte (fls. 659-676):
+ ..  observa-se que a pretensão de reajuste se deu com base em parâmetro diverso, qual seja a tabela do DNIT, contrariando o disposto no contrato, o que se reputa indevido.
+Em relação ao desequilíbrio econômico-financeiro em si, não se identifica dos autos prova concreta da variação nos preços dos insumos, o que não se pode extrair tão somente de expediente de autarquia federal (DNIT) que aponta determinado índice para produtos siderúrgicos, porquanto necessário até mesmo esclarecer o conteúdo dessa definição. Aliás, nem mesmo restou identificado no feito a impropriedade do índice estipulado no contrato e sua repercussão ao caso.
+ ..
+De efeito, o cotejo probatório denota que desde o início a empresa encontrou dificuldade na contratação dos itens, entretanto, teve seus pedidos de alteração indeferidos.
+Nesse aspecto, não se cogita de quebra do equilíbrio econômico- financeiro do negócio ajustado, pois o pretenso cenário desfavorável à execução do projeto original seria contemporâneo à análise das propostas, mas só identificado , quando o termo de a posteriori contrato já havia sido firmado, assim como expedida a correspondente ordem de serviço, afinal, é incogitável que em poucos meses após a contratação tenha advindo, quase que abruptamente, um ambiente divergente do inicial, com acentuada diminuição na oferta do aço e escassez de empresas com aptidão de fornecerem as estruturas de estacas raiz.
+Dessa forma, não se inferem presentes elementos que autorizem, na espécie presente, obrigação de reajuste de preços e, na sua ausência, o reconhecimento de excepcional desequilíbrio, subsequente ao negócio, que fundamente a rescisão do contrato.
+Afastado o reconhecimento de álea econômica que ampare a pretensão central de rescisão do contrato por motivo justo, passo a análise do pleito de nulidade das sanções de multa aplicadas.
+Consta da já aludida suma do processo administrativo disponibilizada no boletim interno da organização militar que os dias paralisados correspondem ao período entre 04/03/2022 a 13/05/2022, "intervalo entre o último dia de medição e o dia em que a contratada manifestou interesse em declinar do contrato".
+ ..
+Nesses termos, extrai-se que a suspensão das atividades durante esse período se esteou na boa-fé da empresa que, apesar de já cientificada acerca da manutenção do projeto originário, teve acolhida - para fins de análise - a pretensão apresentada, inclusive por meio de documentação.
+Destarte, somente com a conclusão do processo administrativo, se deu a imputação de sanção decorrente da paralisação, muito embora o órgão contratante tenha expressamente processado os expedientes apresentados pela ora demandante.
+ ..
+Quanto à outra sanção aplicada (multa decorrente da inexecução parcial do contrato), embora os expedientes administrativos denotem certa credibilidade da tese apresentada no âmbito administrativo, qual seja, dificuldade na aquisição de insumo (aço) e a produtividade da empresa que executa a estaca raiz, entendo, como já antecipado alhures, que não foi apresentada prova suficiente, tal como a apresentação de dados oficiais do setor, oitiva dos fornecedores, etc., tendo a autora, repita-se, indicado expresso desinteresse na produção de novas provas. Deveras, não há como se acolher o argumento da demandante com base em meras afirmações e/ou suposições, ou no senso comum, destituídas de provas mínimas nesse sentido.
+ ..
+Nessa trilha, constato que a definição da pena no máximo preserva proporcionalidade, pois a inexecução parcial é significativamente mais grave do que o atraso diário na execução. Segundo a regra contratual, no caso de atraso superior a 15 dias, deve incidir uma multa de 1,6% ao dia, a partir do 16º dia. Portanto, havendo atraso de 23 dias, já se teria uma sanção de multa no percentual máximo de 10%. Assim, com muito mais razão, nos casos de inexecução parcial deverá ser estabelecida nesse patamar.
+Portanto, uma vez que não houve irrazoabilidade na definição da multa no percentual máximo, não há de ser invalidada.
+Por fim, no tocante ao pleito de devolução da última medição, uma vez que a referida quantia (R$ 65.009,98) é inferior à multa aqui validada (R$ 210.097,52), não merece acolhida."
+No entanto, os fundamentos do acórdão combatido em destaque não foram combatidos nas razões do recurso especial, especialmente quanto a razoabilidade da penalidade aplicada. Dessa forma, à míngua da devida impugnação, preserva-se incólume o fundamento aplicado no decisum vergastado, que se mostra capaz, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não o impugnou. Incide ao caso a Súmula n. 283 do STF. Nesse sentido: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019; e AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021.
+De outro lado, extrai-se do acórdão recorrido que não houve inadimplemento contratual, assim como não houve comprovação de desequilíbrio econômico-financeiro do contrato e que a sanção aplicada é razoável porque observou os termos do contrato, sem ocasionar enriquecimento indevido da agravada.
+Assim, alterar as conclusões adotadas pela Corte de origem quanto ao adequado equilíbrio econômico-financeiro do contrato, bem como verificar eventual enriquecimento ilícito pela manutenção da multa por inexecução parcial do contrato, exige o revolvimento do contexto fático-probatório dos autos, conforme o óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TABELA DE PROCEDIMENTOS. SUS. LITISCONSÓRCIO NECESSÁRIO. DESNECESSIDADE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL. EQUILÍBRIO ECONÔMICO-FINANCEIRO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊCIA DO ENUNCIADO 7/STJ.
+ ..
+3. Para se rever as conclusões firmadas pelo Tribunal a quo a respeito do equilíbrio econômico-financeiro do contrato, seria necessário o revolvimento de matéria fático-probatória, o que esbarra no óbice do Enunciado 7/STJ.
+ ..
+5. Agravo interno conhecido e desprovido.
+(AgInt no AREsp n. 2.080.844/DF, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 6/3/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. ANÁLISE DE NORMA LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. DECRETO ESTADUAL N. 25.997/2000. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. TARIFA DE ÁGUA E ESGOTO. CRITÉRIOS DE REAJUSTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL5. DESCABIMENTO.
+ ..
+V - In casu, rever o entendimento do Tribunal de origem, o qual consignou que quanto aos reajustes tarifários o cálculo deve assegurar o equilíbrio econômico-financeiro do contrato, possibilitando a prestação de um serviço adequado, mas considerando a modicidade da tarifa e a justa remuneração, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+IX - Agravo Interno parcialmente provido.
+(AgInt no REsp n. 2.144.219/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. VIOLAÇÃO AO ARTIGO 535/1973 (ATUAL 1.022 DO CPC). NÃO OCORRÊNCIA. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO NÃO VERIFICADO. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Na hipótese dos autos, o Tribunal de origem concluiu, após análise de fatos e provas dos autos, que não restou configurada uma álea econômica extraordinária e extracontratual, além de que a agravante não provou e nem sequer citou onde e quando ocorreu o desequilíbrio contratual, bem como o laudo pericial atestou que não consta dos autos qualquer documento hábil e/ou registros contábeis que comprove a elevação dos custos diretos e indiretos a título de BDI que justifique o aumento percentual conforme pleiteado, não havendo hipótese de desequilíbrio econômico-financeiro ensejador de reparação.
+3. O recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e no contexto fático-probatório próprio da causa.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.415.810/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/5/2024.)
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. REVISÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DE CONTRATO, DIANTE DAS ALTERAÇÕES FORMULADAS NO REGIME DE RECOLHIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL PELA LEI Nº 12.546/2011. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 7 E 5/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Nesse passo, para se deduzir de modo diverso do decisum vergastado, entendendo não ser possível e nem de direito a pretensão de reequilíbrio econômico-financeiro do ajuste, na forma pretendida no apelo nobre, demandaria o reexame do mesmo acervo fático-probatório já analisado, providência impossível pela via estreita do recurso especial, ante os óbices dos enunciados das Súmulas 5 e 7/STJ que assim dispõem, respectivamente: "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.408.506/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 23/5/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
