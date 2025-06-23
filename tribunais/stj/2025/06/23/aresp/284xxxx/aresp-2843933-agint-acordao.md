@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. ADMISSIBILIDADE DO RECURSO ESPECIAL. PREQUESTIONAMENTO. OCORRÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. PENALIDADES DO ART. 523, § 1º, DO CPC/2015. INCIDÊNCIA APÓS O ESCOAMENTO DO PRAZO PARA PAGAMENTO VOLUNTÁRIO. CONFIGURAÇÃO. REVISÃO (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal de Justiça concluiu pela aplicação da regra do § 1º do art. 523 do CPC/2015, com incidência da multa e dos honorários previstos, por ter escoado o prazo para o pagamento voluntário no cumprimento de sentença.
+2. Nesse contexto, a revisão do acórdão recorrido não prescindiria do reexame fático-probatório, providência inviável nesta instância, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015, para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A contra decisão monocrática proferida pela Presidência desta Corte (e-STJ, fls. 180-182), que conheceu do agravo para não conhecer do recurso especial, com fundamento na ausência de prequestionamento quanto à incidência da multa prevista no art. 523, § 1º, do CPC/2015.
+Em suas razões recursais, a parte agravante refuta o aludido fundamento.
+Impugnação apresentada às fls. 204-209 (e-STJ) sustentando a inadmissibilidade e, no mérito, o desprovimento do recurso, requerendo, por fim, a fixação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. ADMISSIBILIDADE DO RECURSO ESPECIAL. PREQUESTIONAMENTO. OCORRÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. PENALIDADES DO ART. 523, § 1º, DO CPC/2015. INCIDÊNCIA APÓS O ESCOAMENTO DO PRAZO PARA PAGAMENTO VOLUNTÁRIO. CONFIGURAÇÃO. REVISÃO (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal de Justiça concluiu pela aplicação da regra do § 1º do art. 523 do CPC/2015, com incidência da multa e dos honorários previstos, por ter escoado o prazo para o pagamento voluntário no cumprimento de sentença.
+2. Nesse contexto, a revisão do acórdão recorrido não prescindiria do reexame fático-probatório, providência inviável nesta instância, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015, para não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes as alegações recursais, porque da análise do acórdão recorrido, constata-se o efetivo prequestionamento da matéria, motivo pelo qual deve ser dado provimento ao agravo interno, ficando, assim, prejudicado o conhecimento do pedido de aplicação da multa.
+Passa-se a novo exame do recurso especial.
+Trata-se de recurso especial interposto por BANCO DO BRASIL S/A em desafio a acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS DA CADERNETA DE POUPANÇA. NÃO CONHECIMENTO: IMPUGNAÇÃO RECURSAL À PENHORA DETERMINADA PELO JUÍZO DE ORIGEM, POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. PEDIDO DE CONDENAÇÃO DA AGRAVADA EM HONORÁRIOS SUCUMBENCIAIS. NÃO CABIMENTO EM SEDE DE AGRAVO DE INSTRUMENTO. FALTA DE INTERESSE NA DISCUSSÃO ACERCA DA POSSIBILIDADE OU NÃO DE INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM SEDE DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NÃO CONHECIMENTO DA ALEGAÇÃO DA PARTE AGRAVADA, DE VIOLAÇÃO À COISA JULGADA, AUSÊNCIA DE INTERESSE NESSE PONTO. PRELIMINAR DE FALTA DE DIALETICIDADE DA PARTE AGRAVANTE. NÃO ACOLHIDA. MÉRITO APRECIADO NO RECURSO: IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA COLETIVA. LIQUIDAÇÃO DE SENTENÇA. MULTA PELA AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. MULTA E HONORÁRIOS ACRESCIDOS EM 10% (DEZ POR CENTO). INCIDÊNCIA DEVIDA, HAJA IMPUGNAÇÃO OU NÃO, DEPOIS DE ESCOADO O PRAZO PARA PAGAMENTO VOLUNTÁRIO. SUMULA 517, DO STJ. PEDIDO FORMULADO PELA RECORRIDA PARA CONDENAR O RECORRENTE EM MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE PRÁTICA DE ILÍCITO PROCESSUAL. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, NÃO PROVIDO. À UNANIMIDADE."
+Em suas razões recursais, a parte agravante alegou violação do art. 523, § 1º, do CPC/2015, defendendo a impossibilidade de condenação às penalidades previstas no aludido dispositivo, em razão da realização de depósito em Juízo no prazo legal, além de ser descabida a sua incidência quando ainda discutia a adequação dos valores.
+Decide-se:
+No caso dos autos, o Tribunal de origem concluiu pelo cabimento da multa e honorários previstos pelo art. 523, § 1º, do CPC/2015, por ter escoado o prazo para o pagamento voluntário no cumprimento de sentença, bem como afastou a tese de que a sua imposição tenha ocorrido por ocasião da rejeição da impugnação ao cumprimento de sentença (e-STJ, fls. 44-45):
+"A matéria devolvida a esta Corte pelo Banco agravante, e ora conhecida, cinge-se em analisar a (im) possibilidade de condenação do agravante ao pagamento de honorários advocatícios e aplicação da multa de 10% (dez por cento) prevista no art. 523, §1º, do CPC.
+Sobre o cabimento de honorários advocatícios em fase de cumprimento de sentença, sabe-se que existe disposição normativa clara autorizando sua incidência, conforme verifica-se da leitura do art. 85, § 1º do, CPC, lê-se:
+(..)
+Desta maneira, não existem dúvidas que são devidos honorários advocatícios na fase de cumprimento de sentença, necessário, então, ser destacado que coube ao art. 523, §1º do CPC, estipular em que situação podem ser arbitrados, in verbis:
+(..)
+Para que não pairem dúvidas, a Súmula 517 do STJ, em sua precisa eficiência para o caso em comento, foi cirúrgica e cristalina ao esclarecer que "são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada".
+Isto é, possível a condenação em honorários advocatícios na fase de cumprimento de sentença, todavia, em que pese a parte recorrente alegue que fora arbitrada condenação em honorários advocatícios pela rejeição à impugnação do cumprimento de sentença, o fato é que a aplicação de honorários se deu pela ausência de pagamento voluntário do débito, alvo de satisfação na fase processual em específico, no prazo da legislação vigente.
+De forma repetitiva, frisa-se: o simples início da fase de cumprimento de sentença não resulta em automática condenação em honorários advocatícios, mas apenas a ausência de pagamento voluntário do débito discutido no cumprimento de sentença no prazo estipulado em lei. Nesta toada, no caso em deslinde não há o que se discutir a incidência dos honorários advocatícios com fulcro no art. 523, § 1º, pois devidos."
+Desse modo, é inviável conhecer do recurso especial, porque a revisão do acórdão recorrido, sobre o cabimento das penalidades pela ausência de pagamento voluntário, não prescindiria do reexame fático-probatório, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo do art. 1.042 do CPC/2015 para não conhecer do recurso especial, por fundamento distinto.
+É como voto.
