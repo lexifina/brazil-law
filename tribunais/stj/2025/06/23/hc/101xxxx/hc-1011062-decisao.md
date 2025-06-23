@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de KAUA FREIRE FLORENCIO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2142906-08.2025.8.26.0000).
+Na peça, a defesa informa que o paciente foi preso em flagrante por tráfico de entorpecentes, conforme o Auto de Prisão em Flagrante n. 1504069- 39.2025.8.26.0385 (fl. 3).
+Alega que a prisão preventiva foi decretada com base na gravidade abstrata do crime e na quantidade de drogas apreendidas, sem motivação cautelar idônea (fls. 3/4).
+Sustenta que o paciente é primário, possui bons antecedentes e residência fixa, o que afastaria o risco à ordem pública, à instrução criminal ou à aplicação da lei penal (fls. 4/6).
+Afirma que a quantidade de droga apreendida não constitui elemento suficiente para comprovar envolvimento com organização criminosa e que, em caso de condenação, o paciente faria jus ao redutor legal previsto no art. 33, § 4º, da Lei n. 11.343/2006, além de regime diverso do inicial fechado e substituição da pena (fls. 4/5).
+Requer a concessão definitiva da ordem para que o paciente seja posto em liberdade (fl. 6).
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na gravidade concreta da conduta (fls. 44/45):
+ ..  Observa-se dos autos que o réu foi detido e está sendo acusado, após ter sido surpreendido em via pública, na Av. Brasil, em plena luz do dia, em atitude típica de mercancia ilícita, tendo sido encontrado em seu poder duas sacolas plásticas contendo 482 eppendorfs de cocaína (615 gramas); 200 pedras de crack (122 gramas); 378 porções de maconha (628 gramas),01 papel contendo anotações características de traficância, um telefone celular, um radiotransmissor e a quantia de R$392,00, conforme boletim de ocorrência e autos de constatação e de apreensão de fls. 02/05, 07/08 e 09/13.
+O entendimento das instâncias ordinárias de é que legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que, em hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024). E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
