@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO NO AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO MONOCRÁTICA RECONSIDERADA. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM PAGAMENTO DE ALUGUEL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTENTE.  CERCEAMENTO DE DEFESA. AUSENTE.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  No  caso  concreto,  rever  a  conclusão  do  acórdão  recorrido  de  que não há falar em cerceamento de defesa demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  do  disposto  na  Súmula  nº  7/STJ.
+3.  Agravo  interno provido, para reconsiderar a decisão e-STJ fls. 941/942, para conhecer do agravo para conhecer  parcialmente do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FÁTIMA ANDREA KISIL MENDES  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  (e-STJ  fls. 941/942 ).
+Nas  presentes  razões,  a recorrente defende que rebateu todos os fundamentos da decisão de admissibilidade.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  deste  recurso  à  turma  julgadora.
+Sem impugnação.
+  É  o  relatório.
+EMENTA
+AGRAVO  INTERNO NO AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO MONOCRÁTICA RECONSIDERADA. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM PAGAMENTO DE ALUGUEL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTENTE.  CERCEAMENTO DE DEFESA. AUSENTE.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  No  caso  concreto,  rever  a  conclusão  do  acórdão  recorrido  de  que não há falar em cerceamento de defesa demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  do  disposto  na  Súmula  nº  7/STJ.
+3.  Agravo  interno provido, para reconsiderar a decisão e-STJ fls. 941/942, para conhecer do agravo para conhecer  parcialmente do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento.
+VOTO
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de e-STJ fls. 941/942 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de agravo interposto por FÁTIMA ANDREA KISIL MENDES contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE NÃO FAZER E DE REPASSAR VALORES - QUESTIONAMENTO PRELIMINAR - PROVA ORAL - PRECLUSÃO - DEPOIMENTOS TESTEMUNHAIS DE AÇÃO DE USUCAPIÃO - MESMAS PARTES - CONTRADITÓRIO ASSEGURADO - CONDOMINIO PRO DIVISO - UNIDADES OCUPADAS EM CONSENSO - VIOLAÇÃO COM INVASÃO A PORÇÃO PARTICULAR - INOCORRÊNCIA - PROVA NÃO CONFECCIONADA - EXPLORAÇÃO EM PREJUÍZO AO EXERCÍCIO DA POSSE DA AUTORA - INEXISTÊNCIA - ALUGUEL DE PROPRIEDADE EM CONDOMINIO INDEVIDO - IMPROCEDÊNCIA - HONORÁRIOS ADVOCATÍCIOS - VALOR DA CAUSA - PERCENTUAL RAZOÁVEL - SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO. Preclusa a oportunidade de produzir provas se a parte não manifesta interesse quando intimada para especificá-las. A consideração de depoimentos testemunhais alcançados em outro processo não afronta o contraditório e a ampla defesa, sobretudo se a parte também participa da lide na qual a prova foi produzida. Julga-se improcedente o pedido inibitório se não existem elementos demonstrativos da ocupação da parte em descumprimento ao convencionado (condomínio pro diviso) e em área exclusiva de outro condômino. Não cabe ao condômino repassar parcela dos ganhos auferidos em exploração econômica de porção territorial da sua fração ideal a título de aluguéis ou indenização. Os honorários advocatícios são arbitrados entre 10% e 20% do valor da condenação, do proveito econômico ou da causa. Mantém-se a verba quando razoável o parâmetro e atendidos os critérios de complexidade, natureza da lide, tempo e local da prestação dos serviços advocatícios" (e-STJ fl. 836).
+Não foram opostos embargos de declaração.
+No recurso especial, a recorrente alega violação dos arts. 489, II, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+Sustenta que houve cerceamento de defesa no caso dos autos.
+Com as contrarrazões às e-STJ fls. 877/892, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+A irresignação não merece prosperar.
+De início, deve ser afastada a intempestividade do recurso.
+Não  se  vislumbra  a  apontada  violação  do  art.  1.022,  II,  do  Código  de  Processo  Civil.
+Na  hipótese  dos  autos,  o  Tribunal  local  consignou:
+"(..)
+Da análise do processo, verifica-se que oportunizada a especificação das provas úteis, no entanto, a Apelante não se diligenciou em indicá-las, tampouco arrolou as testemunhas que seriam ouvidas em audiência de instrução.
+Desse modo, configurada a preclusão temporal conforme decidido pelo i. Juízo a quo (ordem n.92).
+Os argumentos recursais não respaldam a mudança do entendimento e a reabertura da instrução probatória, visto que o silêncio da Apelante importou desinteresse na produção.
+Com efeito, rejeita-se o questionamento preliminar.
+Ao contrário do suposto na apelação, a ponderação de depoimentos testemunhais alcançados em outro processo neste julgamento não afronta o contraditório e a ampla defesa já que a Apelante também participa da lide na qual a prova foi produzida (usucapião, autos nº 5000308-77.2020.8.13.0012).
+Frisa-se que esse elemento de prova não foi responsável exclusivamente pela convicção do i. Juízo, mas foi um elemento adicional à prova documental e à inspeção judicial, conforme bem anotado na sentença.
+O fato de o Juiz se valer de relatos obtidos na ação de usucapião não denota parcialidade que macula o ato judicial, mas revela a busca pela prestação jurisdicional qualificada"  (e-STJ  fls.  840/841).
+
+Assim,  verifica-se  que  o  Tribunal  de  origem  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Como  cediço,  o  julgador  não  é  obrigado  a  responder  a  todos  os  argumentos  apresentados  pelas  partes,  bastando  que  aponte  as  razões  do  seu  convencimento  acerca  dos  pontos  imprescindíveis  à  resolução  da  demanda  para  que  a  decisão  esteja  devidamente  fundamentada.
+Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+A  esse  respeito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  CUSTEIO  DE  MEDICAMENTO  (THIOTEPA).  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  2.  FUNDAMENTO  SUFICIENTE  NÃO  ATACADO.  SÚMULA  283/STF.  3.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  4.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INCIDÊNCIA  DAS  SÚMULAS  282/STF  E  211/STJ.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  ficou  configurada  a  violação  ao  art.  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou,  de  forma  fundamentada,  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  O  acórdão  recorrido  encontra-se  em  perfeita  harmonia  com  a  jurisprudência  desta  Corte  no  sentido  de  que,  "embora  se  trate  de  fármaco  importado  ainda  não  registrado  pela  ANVISA,  teve  a  sua  importação  excepcionalmente  autorizada  pela  referida  Agência  Nacional,  sendo,  pois,  de  cobertura  obrigatória  pela  operadora  de  plano  de  saúde"  (REsp  1.923.107/SP,  relatora  ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  10/8/2021,  DJe  16/8/2021).
+3.  Atentando-se  aos  argumentos  trazidos  pela  recorrente  e  aos  fundamentos  adotados  pela  Corte  estadual  de  que  a  ANVISA  admite  a  importação  do  fármaco,  verifica-se  que  estes  não  foram  objeto  de  impugnação  nas  razões  do  recurso  especial,  e  a  subsistência  de  argumento  que,  por  si  só,  mantém  o  acórdão  recorrido  torna  inviável  o  conhecimento  do  apelo  especial,  atraindo  a  aplicação  do  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+4.  A  ausência  de  debate  acerca  do  conteúdo  normativo  dos  arts.  66  da  Lei  n.  6.360/1976  e  10,  V,  da  Lei  n.  6.437/1976,  apesar  da  oposição  de  embargos  de  declaração,  atrai  os  óbices  das  Súmulas  282/STF  e  211/STJ.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.164.998/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  REGRESSO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DOS  DEMANDADOS.
+1.  Não  há  se  falar  em  negativa  de  prestação  jurisdicional,  na  medida  em  que  o  órgão  julgador  dirimiu  todas  as  questões  que  lhe  foram  postas  à  apreciação,  de  forma  clara  e  sem  omissões,  embora  não  tenha  acolhido  a  pretensão  da  parte.
+2.  Rever  a  conclusão  do  Tribunal  de  origem  com  relação  à  responsabilidade  pelo  ressarcimento  dos  valores  pagos  em  reclamação  trabalhista  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos  e  a  interpretação  de  cláusulas  contratuais,  providencias  que  encontram  óbice  no  disposto  nas  Súmulas  5  e  7  do  STJ.  Precedentes.
+3.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AREsp  2.135.800/SP,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+Ademais,  rever  a  conclusão  do  acórdão  recorrido  de  que não há falar em cerceamento de defesa demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  do  disposto  na  Súmula  nº  7/STJ.
+Ante  o  exposto,  reconsidero a decisão de e-STJ fls. 941/942 e, em novo exame, conheço  do  agravo  para  conhecer  parcialmente do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da causa, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É  o  voto.
