@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PENHORA.  TUTELA  ANTECIPATÓRIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULAS  Nº  735/STF  E  Nº  7/STJ.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  entende  que  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela,  haja  vista  a  natureza  precária  da  decisão,  a  teor  do  que  dispõe  a  Súmula  nº  735/STF.
+2.  N o  caso,  rever  as  conclusões  do  tribunal  de  origem  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  MARCILENE  DE  SOUSA  JORGE  contra  a  decisão  que  inadmitiu  recurso  especial.  O  apelo  extremo,  fundamentado  no  art.  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  assim  ementado:
+"PROCESSUAL  CIVIL.  AGRAVO  CONTRA  DECISÃO  DO  RELATOR  QUE  INDEFERE  PEDIDO  DE  ANTECIPAÇÃO  DA  TUTELA  RECURSAL.  DECISÃO  QUE  ESGOTARIA  O  OBJETO  DO  RECURSO.
+AUSÊNCIA  DE  PREJUÍZO  DO  AGUARDO  DO  PROUNCIAMENTO  DO  COLEGIADO.  -  É  de  melhor  alvitre  que  se  reserve  ao  Colegiado  a  decisão  sobre  o  desbloqueio  em  conta  corrente  objeto  de  constrição,  tendo  em  vista  que  o  deferimento  em  antecipação  de  tutela  recursal  esgota  o  objeto  do  recurso"  (e-STJ  fls.  283).
+No  recurso  especial,  a  recorrente  alega,  além  de  divergência  jurisprudencial,  violação  do  art.  833,  X,  do  Código  de  Processo  Civil,  sob  a  tese  de  que  os  valores  depositados  são  impenhoráveis,  pois  o  montante  é  inferior  a  40  (quarenta)  salários  mínimos.
+Apresentadas  as  contrarrazões  (e-STJ  fls.  338/345),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PENHORA.  TUTELA  ANTECIPATÓRIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULAS  Nº  735/STF  E  Nº  7/STJ.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  entende  que  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela,  haja  vista  a  natureza  precária  da  decisão,  a  teor  do  que  dispõe  a  Súmula  nº  735/STF.
+2.  N o  caso,  rever  as  conclusões  do  tribunal  de  origem  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+No  caso,  o  Tribunal  de  origem  entendeu  pela  ausência  dos  requisitos  para  a  concessão  da  tutela  provisória  de  urgência  nos  seguintes  termos:
+"(..)
+A  agravante  afirma  que  demonstrou  ter  sido  depositada  na  conta  que  foi  objeto  da  constrição  o  valor  recebido  em  ação  de  alimentos,  em  favor  de  sua  filha  (ID  9906091142),  bem  próximo  do  valor  bloqueado.
+Diz  que  o  documento  constante  do  ID  9906125612  prova  que  a  conta  bancária  indicada  na  ação  de  alimentos  para  o  depósito  do  valor  ali  levantado  foi  exatamente  a  conta  objeto  da  constrição.  Afirma  que  a  movimentação  existente  na  conta  é  natural,  pois  precisa  fazer  saques  para  o  custeio  da  subsistência  da  alimentanda.
+Na  análise  própria  do  pedido  de  antecipação  da  tutela  recursal,  destaquei  que  o  bloqueio  em  discussão  é  de  apenas  R$1.156,00  e  que  nos  extratos  bancários  existem  créditos  diferentes  daqueles  indicados  como  provenientes  da  pensão  alimentícia  paga  em  favor  da  filha  da  agravante.
+Por  tal  razão  é  que  afirmei  ser  de  melhor  alvitre  que  a  questão  seja  resolvida  pelo  Colegiado,  no  julgamento  definitivo  do  recurso,  até  mesmo  para  a  garantia  do  resultado  útil  do  recurso.  É  que  a  liberação  do  bloqueio  em  decisão  monocrática  esgota  o  objeto  da  discussão.
+Rejeito  o  pedido  de  aplicação  da  multa  prevista  no  §4º,  do  artigo  1.021,  do  CPC,  pois  o  recurso  não  é  manifestamente  inadmissível,  sendo  razoável  a  tese  nele  debatida.
+Feitas  tais  considerações,  NEGO  PROVIMENTO  AO  AGRAVO  e  confirmo  o  indeferimento  do  pedido  de  antecipação  da  tutela  recursal"  (e-STJ  fls.  285/286).
+Com  efeito,  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  em  atendimento  ao  disposto  na  Súmula  nº  735/STF,  entende  que,  via  de  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  tutela  de  urgência  em  razão  da  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  EMBARGOS  À  EXECUÇÃO.  EFEITO  SUSPENSIVO.  REQUISITOS.  SÚMULA  Nº  7/STJ.  TUTELA  DE  URGÊNCIA.  INDEFERIMENTO.  SÚMULA  Nº  735/STF.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Na  hipótese,  rever  as  conclusões  do  tribunal  de  origem,  no  sentido  de  que  a  execução  não  se  encontra  garantida,  demandaria  a  análise  de  matéria  fático-probatória,  procedimento  inviável  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ.
+3.  O  exame  da  alegação  de  prejudicialidade  externa  depende  da  comprovação  da  garantia  do  juízo,  o  que  não  ocorreu  no  caso  dos  autos.
+4.  Ao  recurso  especial  interposto  contra  a  decisão  que  analisa  o  pedido  de  concessão  de  tutela  antecipada  é  permitida  apenas  a  análise  do  cumprimento,  por  parte  do  tribunal  de  origem,  dos  requisitos  estabelecidos  legalmente  pelo  diploma  processual,  não  sendo  possível  averiguar,  nesta  instância  superior,  a  presença  ou  não  de  provas  que  comprovem  a  verossimilhança  ou  a  urgência  do  pedido.  Súmula  nº  735/STF.
+ 5.  Agravo  interno  não  provido"  (AgInt  no  AgInt  no  AREsp  2.168.503/CE,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  21/8/2023,  DJe  de  24/8/2023).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  RECURSO  ESPECIAL  INTERPOSTO  CONTRA  DECISÃO  QUE  DEFERIU  A  TUTELA  PROVISÓRIA  DE  URGÊNCIA.  APLICAÇÃO  DA  SÚMULA  Nº  7  DO  STJ  E  DA  SÚMULA  Nº  735  DO  STF.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+ 2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que  à  luz  do  disposto  no  enunciado  da  Súmula  nº  735  do  STF,  via  de  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela,  em  razão  da  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo,  devendo  ser  confirmada  ou  revogada  pela  sentença  de  mérito.
+ 3.  O  Tribunal  de  Justiça  firmou  que  não  estão  presentes  os  requisitos  para  o  deferimento  da  tutela  antecipada,  quais  sejam,  a  fumaça  do  bom  direito  e  o  perigo  da  demora.  Essas  ponderações  foram  fundadas  na  apreciação  de  fatos,  atraindo  a  incidência  da  Súmula  nº  7  do  STJ.
+ 4.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+ 5.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.998.824/MG,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  26/9/2022,  DJe  de  28/9/2022).
+Ressalta-se  que  rever  as  conclusões  do  Tribunal  local  acerca  dos  requisitos  para  a  concessão  da  tutela  antecipada  no  caso  concreto  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+Anota-se,  ainda,  que  a  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Deixo  de  tratar  dos  honorários  recursais  (art.  85,  §  11,  do  CPC),  tendo  em  vista  que  o  recurso  especial  ao  qual  se  negou  provimento  é  oriundo  de  acórdão  proferido  por  ocasião  de  julgamento  de  agravo  de  instrumento,  sem  fixação  de  honorários  sucumbenciais.
+É  o  voto  .
