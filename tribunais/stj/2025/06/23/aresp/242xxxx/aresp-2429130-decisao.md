@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JEFFERSON HENRIQUE USTULIM DE LIMA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500252-04.2021.8.26.0612 (fls. 301/321).
+No recurso especial, o agravante postula: a) a aplicação do redutor previsto no art. 33, §4º da Lei 11.343/2006 sob o fundamento da vedação ao bis in idem; b) o abrandamento do regime inicial de pena (326/352).
+Apresentadas as contrarrazões (fls. 371/391), o Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7/STJ e 284/STF (fls. 394/395).
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para conhecer do recurso especial e negar-lhe provimento (fls. 455/463).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+Quanto ao pleito para a aplicação da causa especial de redução de pena prevista no art. 33, § 4º da Lei 11.343/2006, a Corte de origem se manifestou às (fls. 318 - grifo nosso):
+
+Na primeira fase da dosimetria, com base no artigo 59 do Código Penal e 42 da Lei de Drogas, o juízo de primeiro grau exasperou a pena-base imposta ao acusado na fração de 1/6, justificando tal aumento especialmente pela natureza dos entorpecentes apreendidos (maconha e cocaína) que provocam inúmeros efeitos deletérios ao usuário, sendo mais nocivas do que outros tipo de drogas e pela quantidade expressiva de entorpecentes apreendidos (drogas que somam o total de 958,67 gramas de massa líquida de cocaína e 299,66 gramas de massa líquida de maconha laudos periciais de fls. 24/25 e 115/126), resultando a reprimenda nesta fase em 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa, pena que deve ser mantida. Não há que se falar na fixação da pena-base no mínimo legal conforme solicitado pela Defesa, uma vez que houve fundamentação idônea para exasperação da pena pelas circunstâncias judicias desfavoráveis presentes no caso concreto.
+ ..
+Na derradeira etapa, ausentes causas de aumento ou diminuição da pena, não era mesmo caso de aplicação o redutor relativo ao tráfico privilegiado conforme solicitado pela Defesa, uma vez que a quantidade e variedade de drogas apreendidas em poder do acusado são expressivas, além de terem sido apreendidos quase 2 mil eppendorfs vazios e uma balança de precisão, a indicar que Jefferson fazia do comércio espúrio seu meio de vida, se dedicando à atividade criminosa.
+ ..
+Analisando o acórdão combatido, observa-se que a Corte de origem conclui, por fundamentação idônea, que o recorrente não preenchia os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006, reconhecendo a dedicação à atividade criminosa, porque ficou demonstrada que, em razão das circunstâncias no caso em concreto, aliada à elevada quantidade de drogas, o recorrente exercia a traficância de forma habitual, evidenciando que fazia do tráfico seu meio de vida.
+Portanto, no presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação do agravante à atividade criminosa (tráfico de drogas). Assim, para se acolher a tese de que o agravante não se dedica à atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei 11.343/2006, seria necessário o revolvimento fático-probatório vedado pela súmula 7/STJ.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (1.331,91 G DE COCAÍNA, 140,70 G DE CRACK E 305,87 G DE MACONHA). DOSIMETRIA. PENA-BASE. PLEITO PARA O RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. VIOLAÇÃO DO BIS IN IDEM. DEDICAÇÃO À ATIVIDADES CRIMINOSAS RECONHECIDA PELA CORTE DE ORIGEM. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. SÚMULAS 7 E 83/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
