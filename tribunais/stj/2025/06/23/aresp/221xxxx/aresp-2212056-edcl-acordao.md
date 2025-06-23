@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente a inviabilidade do presente pleito, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o aresto impugnado de maneira tecnicamente inadequada.
+2. Embargos de declaração rejeitados, com a advertência de que, havendo reiteração de instrumentos protelatórios, será aplicada a multa prevista no art. 1.026 do CPC.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por EMPRESA ALVORADA DE HOTEIS S.A. contra a acórdão de e-STJ fls. 675/679 que negou provimento a agravo interno.
+Em suas razões, a embargante alega a existência de omissão, vez que todos os fundamentos da decisão recorrida teriam sido impugnados. Argumenta que demonstrou que não é responsável pelos encargos condominiais ora cobrados, pois o imóvel em questão já se encontrava à disposição da adquirente desde 06/06/2014, data da averbação do habite-se.
+Defende que o art. 1.345 do CC estabelece a responsabilidade do adquirente do imóvel pelos encargos condominiais vinculados à unidade, justamente por se tratar de obrigação propter rem, transferida automaticamente ao novo titular da unidade, independentemente de pactos anteriores firmados entre terceiros.
+Por fim, requer o acolhimento dos declaratórios e o provimento do recurso especial.
+Impugnação às e-SJT fls. 693/695.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente a inviabilidade do presente pleito, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o aresto impugnado de maneira tecnicamente inadequada.
+2. Embargos de declaração rejeitados, com a advertência de que, havendo reiteração de instrumentos protelatórios, será aplicada a multa prevista no art. 1.026 do CPC.
+VOTO
+Sem razão a embargante.
+Conforme assentado no acórdão combatido, a negativa de prestação jurisdicional deve ser afastada, pois o órgão colegiado se pronunciou acerca dos pontos levantados pela recorrente, os quais entendeu relevantes para a solução da controvérsia, afastando os argumentos que poderiam infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas pela parte não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema 339/STF).
+Não há obrigação de o órgão judicante se pronunciar especificamente sobre todos os pontos, tese ou alegação suscitados pelos litigantes. Na técnica da decisão judicial, é usual o fato de que o acolhimento ou a refutação de determinado argumento torne prejudicado ou exclua, logicamente, a análise dos demais, por restarem incompatíveis com a decisão ou simplesmente por não terem sido acolhidos pelo julgador.
+Disso se conclui que a motivação contrária aos interesses da parte ou a superação de argumentos considerados irrelevantes para a solução do caso não autoriza o acolhimento dos declaratórios.
+Conforme assentado no aresto combatido, o TJDFT afasta a alegada ilegitimidade passiva da empresa recorrente amparado nos seguintes fundamentos: seu pedido de suspensão de cobrança de taxas restou prejudicado na ação 0002425-06.2015.8.07.0001, em decorrência do trânsito em julgado do acórdão da 8ª Turma Cível do Tribunal de Justiça na Apelação Cível 0727449-87.2018.8.07.0001; a responsabilidade da Sra. Maria Alice em relação ao pagamento das taxas condominiais anteriores a data de recebimento das chaves foi afastada por força de decisão transitada na mencionada Apelação Cível 0727449-87.2018.8.07.0001; não houve interposição de recurso após a publicação do acórdão na ação 0002425- 06.2015.8.07.0001, com vista ao suprimento de omissão em relação ao pedido recursal atinente às taxas condominiais; e inviabilidade da rediscussão desta controvérsia na presente demanda judicial, sob pena de afronta ao artigo 508 do CPC.
+O art. 508 do CPC trata justamente da eficácia preclusiva da coisa julgada, e tem a seguinte redação: "Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto . ao acolhimento quanto à rejeição do pedido".
+Verifica-se na petição do recurso especial que o tema do art. 508 do CPC não foi impugnado pela recorrente, nem mesmo na petição dos embargos declaratórios que foram opostos ao acórdão combatido, o que atrai a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Não bastasse isso, ainda que, por hipótese, os fundamentos acima não fossem aplicáveis ao caso em análise, verifica-se que o acórdão impugnado se encontra em linha com a jurisprudência do STJ, segundo a qual o comprador somente é responsável pelos encargos condominiais após a sua imissão na posse do imóvel.
+Inclusive, no Tema Repetitivo 886 (REsp 1.345.331/RS), esta temática foi consolidada no STJ em julgamento cuja controvérsia versou sobre quem teria legitimidade - vendedor ou adquirente - para responder por dívidas condominiais na hipótese de alienação da unidade.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o seu intuito infringe, que visa a reforma da decisão de maneira tecnicamente inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de instrumentos protelatórios, será aplicada a multa prevista no art. 1.026 do CPC.
+É o voto.
