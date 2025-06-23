@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIVERSIDADE FEDERAL DO RIO DE JANEIRO - UFRJ da decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação n. 5121860-05.2023.4.02.5101/RJ, assim ementado (fl. 751):
+ADMINISTRATIVO. LEI 12.711/12. RESERVA DE VAGAS PARA INGRESSO EM UNIVERSIDADE PÚBLICA PARA CANDIDATOS AUTODECLARADOS PRETOS, PARDOS OU INDÍGENAS. UFRJ. AUSÊNCIA DE PREVISÃO EDITALÍCIA DE COMISSÃO DE HETEROIDENTIFICAÇÃO E CRITÉRIOS DE VERIFICAÇÃO DA AUTODECLARAÇÃO. CANCELAMENTO DE MATRÍCULA INDEVIDO. PRINCÍPIOS DA VINCULAÇÃO AO EDITAL, CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. SENTENÇA REFORMADA.
+- Trata-se de recurso de apelação interposto pelo autor em face da sentença que julgou improcedente o pedido, que almejava "declarar nulo o ato administrativo de exclusão de matrícula do Autor, tornando-a definitiva". -Na hipótese em apreço, constata-se que, à época do ingresso do autor na UFRJ (2019), não havia previsão editalícia acerca de mecanismos de verificação da autodeclaração dos candidatos. Com efeito, o edital do processo seletivo limitou-se a prever, genericamente, a reserva de vagas para candidatos autodeclarados pretos, pardos e indígenas, sem estabelecer a necessidade de apresentação de documentação comprobatória ou submissão a procedimento de heteroidentificação.
+- Nesse contexto, tem-se que o edital do processo seletivo do qual participou o autor não continha menção à submissão dos candidatos à Comissão de Heteroidentificação, não prevendo, assim, critérios para verificação da autodeclaração prestada, único requisito estabelecido no ato normativo para o enquadramento do candidato na política afirmativa.
+- Nesses termos, ainda que caiba à Universidade, dentro da autonomia que lhe foi assegurada pelo art. 207 da Constituição da República (CRFB) e pelo art. 53 da Lei de Diretrizes e Bases da Educação Nacional (Lei 9.394/96), definir a forma de implementação das ações afirmativas, não se mostra razoável e consentâneo aos princípios da vinculação ao edital, da confiança legítima e da segurança jurídica, a aplicação retroativa de critérios de verificação da autodeclaração de candidato desprovidos de previsão editalícia. Nesse sentido, precedentes do Superior Tribunal de Justiça (STJ) e desta Turma Especializada, sempre com a ressalva quanto à necessidade de previsão editalícia prévia para a formação de Comissão de Heteroidentificação e dos critérios a serem adotados para o controle da autodeclaração do candidato.
+- Recurso de apelação do autor provido para, reformando a sentença, declarar a nulidade do ato de exclusão de sua matrícula.
+Opostos embargos declaratórios, foram rejeitados (fl. 789).
+Nas razões do recurso especial, interposto pela UFRJ, com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega afronta aos arts. 1º e 3º da Lei n. 12.711/12 e ao art. 53 da Lei n. 9.394/96, trazendo os seguintes argumentos (fls. 796-801):
+a) a decisão recorrida desconsidera a autonomia universitária para estabelecer critérios de seleção e verificar as condições declaradas pelos candidatos aprovados para as vagas reservadas para as cotas;
+b) a Lei n. 9.394/96 assegura às universidades a autonomia para regular suas atividades, incluindo a verificação da veracidade da autodeclaração por banca constituída para esse fim; e
+c) o Judiciário não pode substituir a Universidade no exercício de sua autonomia didático-científica, afastando critérios administrativos e acadêmicos para acesso às vagas reservadas à implementação do sistema de cotas.
+Ao final, requer o provimento do recurso especial para que seja reformada a decisão recorrida, reconhecendo a legalidade da previsão editalícia que prevê a eliminação do candidato em caso de não confirmação da veracidade da autodeclaração (fl. 801).
+Contrarrazões ao recurso especial às fls. 818-825.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 841-843), seguiu-se o presente agravo em recurso especial (fls. 867-873).
+Sem contrarrazões ao agravo em recurso especial (fl. 888).
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+O Tribunal a quo não admitiu o apelo nobre, por considerar que o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Na espécie, a parte agravante cingiu-se a repetir, predominantemente, os argumentos trazidos no recurso especial e, ao final, afirmar que:
+ ..  o suposto "fundamento autônomo não impugnado", mencionado pelo Ilustre Desembargador que inadmitiu o REsp, é concernente à teoria do fato consumado, ao passo que o Supremo Tribunal Federal, no julgamento do recurso extraordinário com agravo n. 928.838, proferido em 16/12/2015, deixou assente que a teoria do fato consumado não pode ser invocada para conceder direito inexistente, sob alegação de consolidação da situação fática pelo decurso do tempo (fls. 872-873).
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurs o especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 749), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. UNIVERSIDADE FEDERAL DO RIO DE JANEIRO - UFRJ. COTAS RACIAIS. AUTODECLARAÇÃO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 83 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
