@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VALOR DAS ASTREINTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ . DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 302-307) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (fls. 293-298).
+Em suas razões, a parte agravante alega que o Tribunal de origem não se pronunciou, de forma clara e suficiente, sobre a questão da exclusão ou redução do valor das astreintes, uma vez que a quantia fixada seria extremamente desproporcional, podendo ensejar o enriquecimento ilícito da parte recorrida. A agravante argumenta que comprovou exaustivamente o cumprimento da tutela de urgência, mesmo que parcialmente.
+Afirma que a "discussão posta nestes autos, ao contrário da afirmação da decisão agravada, não envolve o reexame de fatos e provas.  ..  Com efeito, as questões do recurso especial residem na correta interpretação dos artigos 537, § 1º, I, II e artigo 884 do Código Civil.  ..  Vale dizer, novamente, que para se aferir a violação apontada no presente recurso especial, basta partir da moldura fática delineada no v. aresto atacado para se verificar a frontal violação, não havendo qualquer necessidade de se revolver provas, de modo que a citada Súmula 7 desse Superior Tribunal de Justiça não encontra aplicação no caso em exame" (fls. 306-307).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 316-327) e requereu aplicação da multa do art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VALOR DAS ASTREINTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ . DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 293-298):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, ante os óbices das Súmulas n. 7/STJ e 735/STF (e-STJ fls. 250/256).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 138/140):
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJEITADA IMPUGNAÇÃO CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE MULTA COMINATÓRIA. ALEGAÇÃO DE CUMPRIMENTO TEMPESTIVO DA OBRIGAÇÃO DE FAZER. DESCABIDA. MATÉRIA JÁ DECIDIDA PELA CORTE. COISA JULGADA E PRECLUSÃO PRO JUDICATO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. REJEITADA. AUSÊNCIA DE DEMONSTRATIVO DE CÁLCULO OU INDICAÇÃO DO VALOR INCONTROVERSO. ART. 525, §§ 4º E 5º DO CPC/15. ALEGAÇÃO DE ABUSIVIDADE DO VALOR DA MULTA COMINATÓRIA. REJEITADA. LOCUPLETAMENTO INDEVIDO DA AGRAVADA. NÃO CONFIGURADO. RECURSO CONHECIDO, MAS NÃO PROVIDO.
+1. Trata-se de Agravo de Instrumento com pedido de efeito suspensivo, interposto por AMIL - Assistência Médica Internacional S/A, em face de decisão proferida pelo MM. Juízo da 23ª Vara Cível da Comarca de Fortaleza - CE, que rejeitou a impugnação ao cumprimento de sentença, e determinou a liberação de valores em favor da parte agravada.
+2. Ab initio, observo que a recorrente traz em seu recurso matéria já previamente submetida ao crivo desta C. 4ª Câmara de Direito Privado, visto que nos autos do Agravo de Instrumento de nº 0627144-57.2020.8.06.0000, em acórdão de minha relatoria, este órgão julgador entendeu à unanimidade pela comprovação da ocorrência de efetivo descumprimento da obrigação de fazer deferida em favor da autora em sede de tutela antecipada, e a regularidade do bloqueio efetivado em desfavor do promovido, ora agravante.
+3. Desta feita, descabe rediscussão acerca de matéria de fato sob a qual o órgão jurisdicional já apreciou e já se encontra atingida pela coisa julgada material, já tendo sido operada nesse caso a preclusão pro judicato, na forma dos arts. 502, 505 e 508 do CPC/15. Precedentes.
+4. Quanto à alegação de excesso na execução, diante da inteligência do art. 525, §§ 4º e 5º do CPC/15, quando, na impugnação ao cumprimento de sentença, o devedor alegar a ocorrência de excesso de execução, deverá necessariamente apresentar demonstrativo de cálculo com o valor que entender como devido, ou indicar o valor incontroverso, sob pena de rejeição liminar ou não apreciação do pleito de impugnação por excesso de execução.
+5. Compulsando os autos do processo de origem, inobstante tenha alegado em sua impugnação a ocorrência de excesso de execução, a impugnante em momento algum apresentou a planilha de cálculos ou mesmo indicou o valor incontroverso que entenda como devido, de modo que entendo como inviável o pleito de alegação de excesso de execução, diante de expresso imperativo legal.
+6. A multa cominatória, também denominada de astreintes, consiste em instituto processual cujo objetivo se revela em meio conferido pelo legislador para dar efetividade à autoridade das decisões judiciais e consistir em meio idôneo para compelir a parte para dar efetivo cumprimento à ordem jurisdicional.
+7. Assim, é patente que tal instituto não se reveste de natureza indenizatória, mas sim coercitiva. Neste ponto é que deve ser compreendido que as astreintes devem parecer para o destinatário da ordem como um desincentivo ao seu descumprimento, de modo que o arbitramento da multa em valor irrisório se mostra medida inidônea para os fins pretendidos pela norma processual.
+8. Analisando o caso vertente, verifico que na decisão que deferiu a tutela antecipada em favor da promovente (fls. 72/76 dos autos originários), o Juízo arbitrou a multa no valor de R$ 1.000,00 (hum mil reais) e após reiteradas comunicações de descumprimentos, veio a majorá-la para R$ 3.000,00 (três mil reais), (fls. 163/164 dos autos originários). Tais valores, abstratamente se mostram adequados e proporcionais para a finalidade da norma, e a majoração ocorreu em cenário de comprovada irresignação da Agravante em dar cumprimento à ordem.
+9. Desta feita, é descabida a pretensão de neste momento processual, após reiterada conduta evasiva à ordem judicial, pleitear a redução do valor das astreintes por considerá-lo excessivo, visto que a quantia somente chegou ao patamar atual pelo cômputo de diversos dias de descumprimento da obrigação de fazer imposta e posteriormente confirmada em sentença.
+10. Ao meu sentir, prover o recurso neste particular consistiria em prestigiar a reprovável conduta do Agravante de descumprimento à autoridade judicante da corte, conduta que reputo inclusive como atentatória à Dignidade da Justiça.
+11. Outrossim, não procede a alegação de desproporcionalidade do valor, apta a ensejar a redução do valor da multa cominatória que guarda relação com a amplitude e nobreza da obrigação imposta em favor da saúde da agravada. O interesse meramente econômico da recorrente não deve prevalecer sob o reconhecido risco à saúde e bem- estar da recorrida reconhecido em decisão judicial, não havendo inclusive que se falar em locupletamento indevido por parte da recorrida.
+12. Recurso conhecido, mas não provido. Decisão recorrida mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 209/225).
+No recurso especial (e-STJ fls. 159/172), fundamentado no art. 105, III, "a", da CF, a parte recorrente defendeu que:
+(I) houve violação do art. 1.022, II, do CPC, pois há "necessidade de exclusão ou redução do valor das astreintes, uma vez que a quantia fixada é extremamente desproporcional para o caso em tela e a sua manutenção ensejaria o enriquecimento ilícito da parte recorrida, especialmente porque, no caso, restou exaustivamente comprovado o cumprimento da tutela de urgência, ainda que de forma parcial, o que se admite apenas a título de argumentação" (e-STJ fl. 164),
+(II) foram contrariados os arts. 537, § 1º, I e II, do CPC e 884 do Código Civil, ante a "Desproporcionalidade da multa aplicada com relação a obrigação fixada" e o "Desrespeito ao Pilar da Vedação de Locupletamento Ilícito" (e-STJ fl. 166).
+No agravo (e-STJ fls. 213/220), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta às fls. 268/277 (e-STJ) e requerida aplicação de multa processual.
+É o relatório.
+Decido.
+A controvérsia tem origem em decisão que "deferiu a tutela antecipada em favor da promovente (fls. 72/76 dos autos originários),  .. ", "arbitrou a multa no valor de R$ 1.000,00 (hum mil reais) e após reiteradas comunicações de descumprimentos, veio a majorá-la para R$ 3.000,00 (três mil reais)" (e-STJ fl. 139).
+Após o trânsito em julgado, a demandante deu início ao cumprimento de sentença, oportunidade em que o Juízo a quo "rejeitou a impugnação ao cumprimento de sentença, e determinou a liberação de valores em favor da parte agravada" (fl. 141 e-STJ).
+Contra essa decisão, houve agravo de instrumento, oportunidade em que o Tribunal de origem manteve o valor exequendo, em razão da multa acumulada, no valor de R$ 65.823,61 (sessenta cinco mil, oitocentos e vinte e três reais e sessenta e um centavos), sob o fundamento de que "Tais valores, abstratamente se mostram adequados e proporcionais para a finalidade da norma, e a majoração ocorreu em cenário de comprovada irresignação da Agravante em dar cumprimento à ordem" (e-STJ fl. 139).
+(I) Inexiste afronta ao 1.022, II, do CPC, quando o acórdão recorrido pronuncia-se, de forma clara, suficiente e fundamentada, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese desproporcionalidade da multa, o Tribunal de origem manifestou-se que (e-STJ fls. 144 e 149):
+Desta feita, descabe rediscussão acerca de matéria de fato sob a qual o órgão jurisdicional já apreciou e já se encontra atingida pela coisa julgada material, já tendo sido operada nesse caso a preclusão pro judicato, na forma dos arts. 502, 505 e 508 do CPC/15
+ ..
+Analisando o caso vertente, verifico que na decisão que deferiu a tutela antecipada em favor da promovente (fls. 72/76 dos autos originários), o Juízo arbitrou a multa no valor de R$ 1.000,00 (hum mil reais) e após reiteradas comunicações de descumprimentos, veio a majorá-la para R$ 3.000,00 (três mil reais), (fls. 163/164 dos autos originários).
+Tais valores, abstratamente se mostram adequados e proporcionais para a finalidade da norma, e a majoração ocorreu em cenário de comprovada irresignação da Agravante em dar cumprimento à ordem.
+não se pode "perder o caráter coercitivo da providência" (e-STJ fl. 96).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+(II) Rever a quantia arbitrada a título de astreintes pressupõe reexame do conjunto probatório dos autos, circunstância que impossibilita o conhecimento do recurso especial, em razão da Súmula n. 7/STJ.
+Somente em hipóteses excepcionais, quando evidentemente exorbitante ou irrisório o valor da multa cominatória, admite-se o afastamento do referido óbice para possibilitar sua revisão, a fim de impedir o enriquecimento indevido do credor ou a inércia do devedor.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA REDUZIR O VALOR DA MULTA DIÁRIA, VISTO QUE FIXADA EM QUANTIA TERATOLÓGICA PELAS INSTÂNCIAS ORDINÁRIAS. INSURGÊNCIA DO EXEQUENTE.
+ ..
+2. É possível a redução das astreintes fixadas fora dos parâmetros de razoabilidade e proporcionalidade, a fim de se evitar o enriquecimento sem causa. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 50.222/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/3/2018, DJe 27/3/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. ATRASO NA ENTREGA DA OBRA. CONSUMIDOR ADIMPLENTE. TRIBUNAL DE ORIGEM AFASTOU A EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. REVISÃO DO VALOR DA MULTA DIÁRIA. POSSIBILIDADE. QUANTUM DIÁRIO EXORBITANTE. AFASTAMENTO DA SÚMULA 7/STJ. DANOS MORAIS. MONTANTE RAZOÁVEL E PROPORCIONAL. PRETENSÃO DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO PARCIALMENTE PROVIDO.
+ ..
+3. A multa diária deve ser reduzida quando fixada em valores contrários aos princípios da razoabilidade e da proporcionalidade, de modo que, à luz da jurisprudência deste Sodalício, nessas hipóteses, é possível relativizar a Súmula n. 7/STJ. No caso o quantum se mostra exorbitante, devendo o presente recurso ser provido em parte, tão somente para reduzir o valor da aludida multa.
+4. Agravo interno parcialmente provido. (AgInt no AREsp n. 727.620/RJ, Relator Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF DA 5ª REGIÃO -, QUARTA TURMA, julgado em 2/8/2018, DJe 24/8/2018.)
+Além disso, conforme a jurisprudência do STJ, "o arbitramento da multa coercitiva e a definição de sua exigibilidade, bem como eventuais alterações do seu valor e/ou periodicidade, exige do magistrado, sempre dependendo das circunstâncias do caso concreto, ter como norte alguns parâmetros: i) valor da obrigação e importância do bem jurídico tutelado; ii) tempo para cumprimento (prazo razoável e periodicidade); iii) capacidade econômica e de resistência do devedor; iv) possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo (duty to mitigate de loss)" (AgInt no AgRg no AREsp n. 738.682/RJ, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2016, DJe 14/12/2016).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA COMINATÓRIA. VALOR EXCESSIVO. REDUÇÃO. POSSIBILIDADE. PARÂMETROS PARA O ARBITRAMENTO DAS ASTREINTES. DECISÃO MANTIDA.
+ ..
+2. "O arbitramento da multa coercitiva e a definição de sua exigibilidade, bem como eventuais alterações do seu valor e/ou periodicidade, exige do magistrado, sempre dependendo das circunstâncias do caso concreto, ter como norte alguns parâmetros:
+i) valor da obrigação e importância do bem jurídico tutelado; ii) tempo para cumprimento (prazo razoável e periodicidade); iii) capacidade econômica e de resistência do devedor; iv) possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo (duty to mitigate de loss)" (AgInt no AgRg no AREsp 738.682/RJ, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2016, DJe 14/12/2016).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no REsp n. 1.078.941/RS, de minha relatoria, QUARTA TURMA, julgado em 1º/03/2021, DJe 3/3/2021.)
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VALORES BLOQUEADOS. BACEN-JUD. TRANSFERÊNCIA. ORDEM JUDICIAL. DESCUMPRIMENTO. MULTA COMINATÓRIA. VALOR. REDUÇÃO. IMPOSSIBILIDADE. RAZOABILIDADE E PROPORCIONALIDADE. PRINCÍPIOS RESPEITADOS. TETO. FIXAÇÃO. EXCEPCIONALIDADE.
+ ..
+3. Para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+ ..
+12. Recurso especial de AUREO HOEFLING DE JESUS provido.
+13. Recurso especial do BANCO SANTANDER parcialmente provido.
+(REsp n. 1.840.693/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, ju lgado em 26/5/2020, DJe 29/5/2020.)
+O valor verificado pela Corte local, R$ 65.823,61 (sessenta cinco mil, oitocentos e vinte e três reais e sessenta e um centavos), em razão do longo período de descumprimento da obrigação de prestar assistência médica à beneficiária de plano de saúde, não se mostra exorbitante de modo a justificar a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Deixo de aplicar multa processual, uma vez que a parte apenas exerceu seu direito de petição, o que não constitui ato protelatório que enseje sanção, tampouco se evidencia, até o momento, conduta maliciosa ou temerária a justificar a punição.
+Conforme o entendimento desta Corte, não devem ser majorados os honorários recursais na instância excepcional quando não foram fixados na origem.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação do art. 1.022, II, do CPC/2015.
+De fato, em relação à tese da desproporcionalidade da multa, o Tribunal de origem manifestou-se expressamente sobre o tema como mencionado acima, porém em sentido contrário à pretensão recursal.
+Quanto ao valor da multa diária, sua modificação é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade.
+O valor estabelecido pelo Tribunal a quo - R$ 65.823,61 (sessenta cinco mil, oitocentos e vinte e três reais e sessenta e um centavos), em razão do longo período de descumprimento da obrigação de prestar assistência médica à beneficiária de plano de saúde - não enseja a intervenção do STJ, por demandar reexame do contexto fático-probatório com óbice na Súmula 7 desta Corte.
+Ainda que assim não fosse, cabe destacar que, recentemente, a Corte Especial do STJ reafirmou que "a modificação das astreintes somente é possível em relação à "multa vincenda" (EAREsp n. 1.479.019/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do expo sto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
