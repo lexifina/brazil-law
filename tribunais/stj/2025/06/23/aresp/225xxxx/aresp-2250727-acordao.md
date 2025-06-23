@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por COMPLEXO MARACANÃ ENTRETENIMENTO S.A. (MARACANÃ) pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DIREITOS AUTORAIS. FOTOGRAFIA. SOCO NO AR DO PELÉ. TRICAMPEONATO MUNDIAL DE FUTEBOL DE 1970. REPRODUÇÃO EM PAINEL DO MUSEU DO FUTEBOL. COMPLEXO DO MARACANÃ. DANOS MATERIAIS E MORAIS. SENTENÇA DE PROCEDÊNCIA. RECURSOS DOS RÉUS.
+Fotógrafo profissional ajuizou ação indenizatória em face de Maracanã S/A e da SUDERJ-RJ pela utilização, sem autorização, de famosa fotografia de sua autoria, conhecida por soco no ar, capturada na Copa do Mundo de 1970, que eternizou o momento em que Pelé comemorou um gol, com Tostão e Jairzinho ao fundo. A célebre foto foi inserida no centro de painel que retrata momentos importantes do futebol brasileiro, exibido no Museu do Futebol, localizado no Complexo Maracanã. Em razão da sentença de procedência apelam os réus, cingindo-se a discussão recursal, notadamente, na utilização da obra artística sem o devido consentimento.
+REJEITO a preliminar de ilegitimidade passiva do Complexo Maracanã, pois não se esclareceu quando foi retirado o painel, se antes ou depois que a concessionária iniciou sua gestão no local, o que era de simples prova.
+A conduta dos apelantes na utilização e divulgação da imagem imortalizada pelo recorrido no exercício da sua atividade profissional é vedada, de acordo com artigo 5º, VII, da Lei de Direitos Autorais - Lei 9.610/98, havendo que se reconhecer a existência de conduta ilícita e nexo causal para o alegado prejuízo pela violação de direitos autorais, a serem suportados pelos recorrentes.
+Nada a reparar na sentença que condenou os réus, solidariamente, ao pagamento de danos materiais, a serem apurados na liquidação da sentença por arbitramento, observado o valor cobrado a título de ingresso para a visita ao Museu do Maracanã até a data da retirada do painel e a prática negocial dos repasses em favor dos autores das obras.
+A lesão moral é presumida pelo uso e divulgação da fotografia sem atribuição da autoria, bem como porque ofende direito da personalidade do criador. Levando em conta as circunstâncias, o valor indenizatório fixado na origem pelos danos extrapatrimoniais deve ser reduzido para R$15.000,00 (quinze mil e novecentos reais).
+Recursos CONHECIDOS e PARCIALMENTE PROVIDOS. (e-STJ, fls. 672/673)
+Irresignado, MARACANÃ interpôs recurso especial, com base no art. 105, III, alínea a, da CF.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Agravo não conhecido.
+VOTO
+O agravo é espécie recursal que não comporta conhecimento.
+A decisão de inadmissibilidade do especial ficou assim redigida:
+Inicialmente, o acórdão recorrido não demonstra violação aos artigos 489, §1º, IV e 1022, II do Código de Processo Civil. A leitura atenta dos acórdãos revela que foram apreciadas e devidamente fundamentadas as questões debatidas pelas partes durante o desenrolar do processo, tendo o órgão julgador firmado seu convencimento de forma clara e transparente.
+Cumpre destacar que o Superior Tribunal de Justiça já definiu que não é possível confundir decisão contrária aos interesses da parte com ausência de fundamentação ou negativa de prestação jurisdicional (STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008), o que parece ser a hipótese dos autos.
+Assim, aplica-se à hipótese o Enunciado da Súmula 83 do Superior Tribunal de Justiça, que também incide nos recursos especiais interpostos com fulcro na alínea "a" do artigo 105, III, da CFRB - "..O entendimento desta Corte Superior é o de que "a incidência da Súmula n. 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a c itada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+Ademais, exame das razões recursais revela que o recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, o que encontra óbice na Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"; Corte Especial; julgado em 28/06/1990; DJ 03/07/1990).
+ ..
+Como se vê, o Colegiado firmou seu entendimento a partir da análise das circunstâncias fático-probatórias, uma vez que a configuração do dever de indenizar e o quantum fixado pelos danos morais são aferidos com base na análise do caso concreto e nas suas peculiaridades. A reavaliação das questões fáticas dos autos é indispensável para à tentativa de alteração do convencimento do Colegiado, o que inviabiliza a admissão do recurso especial, na forma da Súmula 07 do Superior. (e-STJ, fls. 814-817)
+Verifica-se, da atenta leitura da petição do agravo em recurso especial, que MARACANÃ não impugnou todos os fundamentos da decisão agravada, não havendo combate específico a respeito da afirmação de que incidente a Súmula n. 83 do STJ, porque a Corte de origem, em consonância com a jurisprudência do Superior Tribunal de Justiça, afirmou que não é possível confundir decisão contrária aos interesses da parte com ausência de fundamentação ou negativa de prestação jurisdicional (e-STJ, fl. 814). Também não houve impugnação a respeito da conclusão de que a configuração do dever de indenizar e o quantum fixado pelos danos morais são aferidos com base na análise do caso concreto e nas suas peculiaridades (e-STJ, fl. 817), acarretando o óbice da Súmula n. 7 do STJ.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não se conhecer do agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente. Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA C/C REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamento da decisão de admissibilidade negativa, que obstou o seguimento a parte do apelo por força do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.565.679/GO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 7/12/2020, DJe 11/12/2020)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Inaplicável ao caso a majoração de honorários.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
