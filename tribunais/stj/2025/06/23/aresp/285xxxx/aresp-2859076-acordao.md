@@ -1,0 +1,107 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA INDEFERIDA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA 7. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob o argumento de que a análise do mérito demandaria reexame de prova, o que é vedado pela Súmula 7 do STJ.
+II. Questão em discussão
+2. Consiste em saber se a análise da decisão do Tribunal que concluiu pela não comprovação da hipossuficiência, para fins de benefício da justiça gratuita, demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. Rever a conclusão do Tribunal pela negativa do benefício demandaria incursão nos elementos probatórios, sendo que o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo
+5. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu ao recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA INDEFERIDA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA 7. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob o argumento de que a análise do mérito demandaria reexame de prova, o que é vedado pela Súmula 7 do STJ.
+II. Questão em discussão
+2. Consiste em saber se a análise da decisão do Tribunal que concluiu pela não comprovação da hipossuficiência, para fins de benefício da justiça gratuita, demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. Rever a conclusão do Tribunal pela negativa do benefício demandaria incursão nos elementos probatórios, sendo que o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo
+5. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+"II. Não merece ser admitida a presente irresignação.
+Ao analisar o benefício da gratuidade judiciária, o Órgão Julgador assentou os fundamentos fáticos que levaram à conclusão de que a parte não cumpria os requisitos necessários para a concessão do benefício da AJG, conforme se denota da fundamentação do acórdão recorrido.
+A Câmara Julgadora entendeu que os documentos que instruíram o feito não demonstram a hipossuficiência alegada, sendo caso de indeferimento do benefício pleiteado.
+Embora o entendimento do Superior Tribunal de Justiça seja no sentido de que o benefício da justiça gratuita depende de simples alegação da parte, podendo, porém, ser desconstituído com a impugnação da parte contrária ou elidida pelo Julgador com fundadas razões, o fato de ser relativa a presunção de que trata o § 3º do artigo 99 do CPC permite ao Julgador, no exame do caso concreto, concluir pela negativa do benefício.
+Como visto, ao manter a decisão que indeferiu a AJG postulada pela parte recorrente, o Órgão Julgador entendeu, a partir dos elementos fáticos da causa, que não foi comprovada a falta de condições de suportar as despesas processuais.
+Nesses termos, a aferição de existência, ou não, da possibilidade de a parte satisfazer as despesas processuais demanda incursão nos elementos probatórios coligidos, o que se afigura defeso na via do recurso especial, restando inafastável, pois, a incidência da Súmula 7 do STJ.
+Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA DE VERACIDADE. MATÉRIA COGNOSCÍVEL DE OFÍCIO. PRECEDENTES. SÚMULA 83/STJ. REVISÃO DOS PRESSUPOSTOS PARA CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. NÃO PROVIDO. 1. Esta Corte Superior possui firme o entendimento no sentido de que: "O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário" (AgInt no AR Esp 1311620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, Dje 14/12/2018). 2. A reapreciação de matéria no âmbito do recurso especial, de modo a infirmar os pressupostos adotados na Corte Local, quanto à suficiência econômica da requerente, a fim de reconhecer o benefício da gratuidade de justiça, encontra óbice na Súmula 7 do Superior Tribunal de Justiça. 3. Agravo interno a que se nega provimento. (AgInt no R Esp n. 2.061.951/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, D Je de 30/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. PEDIDO DE GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. BENEFÍCIO NÃO CONCEDIDO PELO TRIBUNAL ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO. 1. Não configura ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia. 2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º). 3. O Tribunal de Justiça confirmou decisão que não concedeu o benefício de assistência judiciária gratuita ao ora agravante, sob o entendimento de que os documentos juntados demonstram incompatibilidade com o alegado estado de necessidade para o benefício pretendido. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ. 4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. 5. Agravo interno desprovido. (AgInt nos E Dcl no AR Esp n. 1.969.720/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, D Je de 25/4/2022.)
+Sem êxito também a alegada divergência interpretativa, pois "a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, devido à ausência de identidade entre as bases fáticas do acórdão recorrido com os paradigmas colacionados, que são próprias de cada caso." (AgInt no R Esp 1.778.099/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 01/4/2019, D Je 09/4/2019).
+Relembro, por oportuno, a firme orientação do Superior Tribunal de Justiça no sentido de que "Cumpre ao magistrado, que é o destinatário da prova, em observância ao princípio do livre convencimento motivado, valorar conforme seu entendimento todas as provas e circunstâncias levadas a seu conhecimento para alcançar a resolução do conflito". (AgInt no AR Esp 1311167/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 17/02/2020, D Je 19/02/2020)
+Inviável, nesses termos, a submissão da inconformidade à Corte Superior.
+III. Ante o exposto, NÃO ADMITO o recurso."
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Para conhecer da controvérsia apresentada, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da comrpeensão firmada pela corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice das Súmulas 7 e 5 do STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, o que não fez. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023. Grifo Acrescido)
+A análise das razões recursais indica que, embora afirme o adequado superamento dos óbices apontados, a parte agravante afirmou não ser necessário analisar a matéria fática, uma vez que para a concessão do benefício da justiça gratuita, sem contrariedade da parte adversa, bastaria a declaração da parte, na forma estabelecida pelo art. 4º da Lei n 1.060/50, o que, contudo, não é suficiente a demonstrar a desnecessidade de revisão fático-probatória, conforme jurisprudência desta corte.
+Observa-se dos autos que, diante da renda mensal do recorrente, este foi intimado para comprovar a necessidade da gratuidade, tal como afirmado na declaração de hipossuficiência econômica, não logrando, contudo, se desincumbir de seu ônus, conforme análise do Tribunal de origem.
+É cediço que "A jurisprudência do STJ estabelece que a declaração de pobreza implica presunção relativa de veracidade, podendo ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (EDcl no AgInt no AREsp n. 2.610.781/RO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+Dessa forma, o acolhimento da tese recursal, revendo a conclusão do Tribunal, demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: 1. Para fins de concessão da justiça gratuita, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+(AgInt no AREsp n. 2.793.250/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/5/2025, DJEN de 13/5/2025.)
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. ENTIDADE FILANTRÓPICA. PEDIDO DE JUSTIÇA GRATUITA. INDEFERIMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. ALTERAÇÃO DA CONCLUSÃO DA CORTE ESTADUAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+2. Para alterar a conclusão a que chegou o Tribunal estadual quanto à ausência de comprovação da hipossuficiência financeira, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte é firme quanto à concessão da gratuidade de justiça para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as custas processuais.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.846.320/RS, relator Ministro Moura R ibeiro, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários sucumbenciais, não havendo prévia fixação de honorários sucumbenciais pelas instâncias precedentes.
+É o voto.
