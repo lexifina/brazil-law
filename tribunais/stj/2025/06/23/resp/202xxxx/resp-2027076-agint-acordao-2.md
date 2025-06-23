@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. NEGÓCIO JURÍDICO CELEBRADO ENTRE AS PARTES. PRESUNÇÃO DE VERACIDADE. CONJUNTO FÁTICO E PROBATÓRIO. REEXAME IMPOSSIBILIDADE.
+1. O Tribunal de Justiça analisou o contrato celebrado entre as partes para concluir que, muito embora seja ele demasiadamente simples, é prova suficiente da existência do negócio jurídico celebrado entre as partes.
+2. A análise do voto deixa claro, portanto, que o Tribunal de origem concluiu que o documento trazido aos autos faz prova do negócio jurídico, respeitando-se a presunção de veracidade prevista no art. 408 do CPC, neste ponto. Assim, a alegação de que a decisão do Tribunal de origem teria violado a presunção de veracidade prevista no art. 408 do CPC, com relação à ocorrência do pagamento, pela simples presença do instrumento contratual de promessa de compra e venda nos autos - e não de um contrato de cessão de quotas ou da alteração do contrato social da sociedade, por exemplo - está dissociada dos argumentos utilizados na decisão guerreada e da realidade dos autos, atraindo-se a incidência da Súmula 284 do STF.
+3. A pretensão de modificação do quadro fático relatado pelas instâncias ordinárias com o objetivo de, a partir da reapreciação de provas, obter a reforma da decisão recorrida, atrai a incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUIS ALFREDO ALFERES BERTONCIN contra decisão desta relatoria que negou provimento ao recurso especial (e-STJ fls. 1.708/1.712).
+Em suas razões (e-STJ fls. 1.719/1.739), a parte agravante reitera as alegações do recurso especial.
+Sustenta violação do art. 408 do Código de Processo Civil, porque o documento feito de próprio punho pelo agravado, em que se retratou o negócio jurídico entabulado entre as partes, atrairia a presunção de que o pagamento foi realizado.
+Sustenta que o Tribunal de origem, ao analisar o conjunto probatório, deixou de reconhecer, como parte do pagamento do negócio jurídico celebrado entra as partes, a ocorrência de transferência de 50% das quotas da sociedade Piscicultura Santa Clara e a ocorrência da transferência de 7.070 arrobas de boi gordo; embora tenha reconhecido o pagamento de R$ 1.150.000,00.
+Enfatiza ser necessária a reforma do acórdão proferido pelo Tribunal de origem, pois entende que os documentos colacionados e depoimentos testemunhais fazem prova das alegadas transferências.
+Requer que o recurso especial seja provido para tornar insubsistente o recorrido e reconhecer o pagamento da sociedade na Piscicultura Santa Clara, e o pagamento de uma parcela de 7.070 arrobas de boi gordo do negócio jurídico celebrado.
+Impugnação às fls. e-STJ 1.777/1.781.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. NEGÓCIO JURÍDICO CELEBRADO ENTRE AS PARTES. PRESUNÇÃO DE VERACIDADE. CONJUNTO FÁTICO E PROBATÓRIO. REEXAME IMPOSSIBILIDADE.
+1. O Tribunal de Justiça analisou o contrato celebrado entre as partes para concluir que, muito embora seja ele demasiadamente simples, é prova suficiente da existência do negócio jurídico celebrado entre as partes.
+2. A análise do voto deixa claro, portanto, que o Tribunal de origem concluiu que o documento trazido aos autos faz prova do negócio jurídico, respeitando-se a presunção de veracidade prevista no art. 408 do CPC, neste ponto. Assim, a alegação de que a decisão do Tribunal de origem teria violado a presunção de veracidade prevista no art. 408 do CPC, com relação à ocorrência do pagamento, pela simples presença do instrumento contratual de promessa de compra e venda nos autos - e não de um contrato de cessão de quotas ou da alteração do contrato social da sociedade, por exemplo - está dissociada dos argumentos utilizados na decisão guerreada e da realidade dos autos, atraindo-se a incidência da Súmula 284 do STF.
+3. A pretensão de modificação do quadro fático relatado pelas instâncias ordinárias com o objetivo de, a partir da reapreciação de provas, obter a reforma da decisão recorrida, atrai a incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+Não procede a irresignação.
+Conforme assentado na decisão monocrática ora combatida, o recorrente alude que a presença nos autos do instrumento contratual escrito à mão seria suficiente para comprovar que os pagamentos realizados em decorrência desse instrumento englobariam não apenas aqueles reconhecidos pelo Tribunal de origem, como também a transferência de 50% da sociedade Piscicultura Santa Clara.
+Por outro lado, o Tribunal de Justiça analisou o contrato celebrado entre as partes para concluir que, muito embora seja ele demasiadamente simples, é prova suficiente da existência do negócio jurídico celebrado entre as partes.
+A análise do voto deixa claro, portanto, que o Tribunal de origem concluiu que o documento trazido aos autos faz prova do negócio jurídico, respeitando-se a presunção de veracidade prevista no art. 408 do CPC, neste ponto.
+Assim, a alegação de que a decisão do Tribunal de origem teria violado a presunção de veracidade prevista no art. 408 do CPC, com relação à ocorrência do pagamento, pela simples presença do instrumento contratual de promessa de compra e venda nos autos - e não de um contrato de cessão de quotas ou da alteração do contrato social da sociedade, por exemplo - está dissociada dos argumentos utilizados na decisão guerreada e da realidade dos autos, atraindo-se a incidência da Súmula 284 do STF.
+Ademais, é cediço na jurisprudência do Superior Tribunal de Justiça que a pretensão de modificação do quadro fático relatado pelas instâncias ordinárias com o objetivo de, a partir da reapreciação de provas, obter a reforma da decisão recorrida, atrai a incidência da Súmula 7/STJ.
+Também não seria possível, com base em recurso especial, reanalisar o conjunto fático-probatório, nele incluído, neste caso, o contrato celebrado entre as partes e eventuais depoimentos de testemunhas, para se chegar a conclusão diversa daquela do Tribunal de origem acerca da não comprovação da transferência de 50% das quotas sociais da sociedade Piscicultura Santa Clara em decorrência da celebração do contrato.
+Além disso, o recorrente alega que as provas presentes nos autos, em especial a declaração da testemunha Celso Pereira Guimarães, seriam suficientes para demonstrar a entrega de uma das levas de boi gordo, que teria ocorrido em decorrência da celebração do negócio entre as partes. Da mesma forma, a pretensão de reanálise das provas documentais e testemunhais para se definir, em contrariedade às conclusões do Juízo de primeira instância e do Tribunal de Justiça, que o pagamento de uma das parcelas de arrobas de boi de fato ocorreu, atrai a incidência da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
