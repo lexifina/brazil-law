@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de FRANCISCO RAI FERREIRA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0010340-73.2022.8.06.0168) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 1ª Vara da comarca de Solonópole/CE, ao argumento de que a reprimenda-base foi exasperada em patamar superior a 1/8 em relação a cada circunstância judicial, bem como aplicado o regime inicial fechado.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade (EDcl no AgRg no HC n. 964. 972/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 24/4/2025).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REPRIMENDA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO. EXISTÊNCIA. REGIME INICIAL FECHADO ADEQUADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
