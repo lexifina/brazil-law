@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por ENGIE BRASIL ENERGIA S.A., com fundamento no art. 105, III, alínea "a", da CF, contra acórdão do Tribunal Regional da 4ª Região, assim ementado (fl. 972):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. PIS E COFINS. BASE DE CÁLCULO. PARCELA DA CORREÇÃO MONETÁRIA DE APLICAÇÕES FINANCEIRAS. INCIDÊNCIA. É legal a incidência da COFINS e da contribuição para o PIS sobre os rendimentos auferidos em aplicações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Precedentes desta Corte.
+Em suas razões, a recorrente aponta negativa de vigência aos arts. 110 do Código Tributário Nacional; ao art. 1º das Leis nº 10.637/02 e 10.833/03 e ao art. 12 do Decreto-Lei nº 1.598/77. Alega que "os rendimentos de aplicações financeiras até o limite da inflação não podem estar sujeitos ao pagamento do PIS e da COFINS, visto que, enquanto riqueza imaginária, apenas reestabelecem o valor aquisitivo da moeda, não se adequando ao conceito de faturamento ou receita financeira, necessários para fins de incidência das referidas contribuições, sendo ilegal e inconstitucional tal exigência." (fls. 987-988).
+Requer o afastamento das referidas contribuições sociais sobre o montante correspondente à parcela dos rendimentos de aplicações financeiras correspondente à correção monetária em razão da inflação medida pelo IPCA-E, vez que possui caráter indenizatório, e a compensação dos valores indevidamente recolhidos.
+As contrarrazões foram apresentadas às fls. 1076-1085.
+O Tribunal de origem, às fls. 1091-1092, não admitiu o recurso especial.
+Em seu agravo, às fls. 1113-1121, a agravante alega que a inadmissibilidade do feito com amparo na Súmula 83/STJ não subsiste, uma vez que a matéria não é pacífica no STJ. No mais, reitera as alegações concernentes ao mérito.
+O Ministério Público Federal apresentou manifestação na qual opina pelo sobrestamento do feito e devolução ao tribunal de origem até o julgamento do mérito dos recursos repetitivos afetados e vinculados à matéria (fls. 1157-1160).
+É o relatório.
+A Primeira Seção do STJ, ao apreciar os Recursos Especiais n. 2179065/SP, 2179067/SP e 2170834/SP, decidiu submeter a matéria ora debatida ao exame do órgão colegiado para "Definir se as variações patrimoniais decorrentes de diferença de correção monetária sobre aplicações financeiras (recomposição inflacionária) integram a base de cálculo da contribuição para o PIS e da COFINS." (Tema 1335).
+O julgado produzido na ProAfR no REsp 2179065/RS, sob a relatoria do Ministro Marco Aurélio Bellizze, foi assim resumido:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TRIBUTÁRIO. CORREÇÃO MONETÁRIA SOBRE APLICAÇÕES FINANCEIRAS (RECOMPOSIÇÃO INFLACIONÁRIA). INCLUSÃO NAS BASES DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS.
+1. Delimitação da controvérsia: definir se as variações patrimoniais decorrentes de diferença de correção monetária sobre aplicações financeiras (recomposição inflacionária) integram a base de cálculo da contribuição para o PIS e da COFINS.
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 2.179.067/SP, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 25/3/2025, DJEN de 28/4/2025.)
+Por considerar que alguns pontos debatidos no acórdão recorrido se amoldam à hipótese submetida ao rito dos repetitivos e que o seu debate é prejudicial à análise do feito, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: REsp n. 2.128.835, Ministro Paulo Sérgio Domingues, DJe de 2/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1335), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. CORREÇÃO MONETÁRIA SOBRE APLICAÇÕES FINANCEIRAS. RECOMPOSIÇÃO INFLACIONÁRIA. BASE DE CÁLCULO. PIS E COFINS. MATÉRIA AFETADA AO RITO DOS REPETITIVOS. TEMA 1335. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
