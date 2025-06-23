@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ADEMIR SIMIONI com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (fls. 489 - 497):
+"APELAÇÃO CRIMINAL. HOMICÍDIO CULPOSO E LESÃO CORPORAL CULPOSA, NA CONDUÇÃO DE VEÍCULO AUTOMOTOR (CTB, ARTS. 302, CAPUT, E 303, CAPUT). SENTENÇA CONDENATÓRIA. RECURSO DO ACUSADO.
+1. PROVA. CULPA. PERÍCIA TÉCNICA. DEPOIMENTO TESTEMUNHAL. CULPA EXCLUSIVA DA VÍTIMA. 2. AGRAVANTE DO ART. 298, I, DO CTB. VIA URBANA. FLUXO DE VEÍCULOS E PESSOAS. SUBSEQUENTE COLISÃO EM POSTE E PONTO DE ÔNIBUS OCUPADO. DANO POTENCIAL A TERCEIROS. 3. GRATUIDADE DE JUSTIÇA. DOCUMENTAÇÃO. REPRESENTAÇÃO POR DEFENSOR CONSTITUÍDO. CONTRATAÇÃO DE PARECERISTA PRIVADO NO DECORRER DA INSTRUÇÃO.
+1. Se o teor de prova pericial e a palavra de testemunha ocular demonstram que o condutor de automóvel, ao iniciar manobra de conversão, imprudentemente obstruiu o trajeto de motocicleta que trafegava na pista de contramão, dando causa à morte de uma pessoa e a lesões corporais noutra, em contexto que afasta a hipótese de culpa exclusiva da vítima, faz-se possível a condenação do agente pela prática dos ilícitos de homicídio culposo e lesões corporais culposas, ambos na condução de veículo automotor.
+2. É legítima a aplicação da agravante do art. 298, I, do Código de Trânsito Brasileiro, em caso de homicídio culposo e lesões corporais culposas durante a condução de automóvel, quando a conduta imprudente se deu em via urbana, de substancial fluxo de veículos e pessoas, e causou a colisão do veículo abalroado com um poste e um ponto de ônibus ocupado por outros indivíduos, ensejando potencial de grandes danos a terceiros.
+3. Não faz jus à gratuidade da justiça o requerente que não apresenta prova de situação de hipossuficiência, é representado por defensor constituído e, no decorrer da instrução, conta com parecer técnico de profissional de engenharia contratado.
+RECURSO CONHECIDO E DESPROVIDO."
+Em suas razões, a parte recorrente aponta violação do art. 564, V, parágrafo único, do CPP, do art. 244, III, do CTB, argumentando, em síntese, que (i) a sentença é nula por desconsiderar a mudança indevida do depoimento da principal testemunha ocular dos fatos, que teria sido procurada por familiares da vítima, e por violação à incomunicabilidade das testemunhas e (ii) a vítima conduzia a motocicleta de forma imprudente, empinando-a em via pública, o que teria sido a causa exclusiva do acidente.
+Com contrarrazões (fls. 530 - 534), o recurso especial foi inadmitido (fls. 537 - 538), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo (fls. 589 - 597 ).
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+A decisão de inadmissibilidade do recurso especial baseou-se na incidência da Súmula 284/STF e na ausência de cotejo analítico; no agravo do art. 1.042 do CPC, todavia, a parte agravante não infirmou adequadamente os referidos fundamentos.
+Da leitura do agravo, observo que a parte recorrente limitou-se a alegar, de maneira genérica, que não se aplica a Súmula 284/STF, sem demonstrar, de forma clara e específica, as razões pelas quais tal óbice seria inaplicável ao caso concreto. O mero inconformismo com a decisão que inadmitiu o recurso não substitui a necessidade de impugnação fundamentada dos óbices apontados pelo Tribunal de origem, conforme exigido pelo artigo 1.042 do Código de Processo Civil.
+Com relação ao dissídio jurisprudencial, a decisão agravada apontou o descumprimento das exigências previstas no art. 1.029, §1º, do CPC/2015 e no art. 255, §1º, do RISTJ, especialmente pela ausência de cotejo analítico entre o acórdão recorrido e os paradigmas.
+A parte agravante, ao reiterar os argumentos declinados no recurso especial, colacionando as ementas dos julgados apontados como paradigmas, para, ao final, afirmar que "o cotejo analítico resta cabalmente demonstrado" (e-STJ, fl. 554), não logrou afastar o fundamento de que não houve demonstração adequada da divergência interpretativa.
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo do art. 1.042 do CPC, o qual não supera o juízo de admissibilidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
