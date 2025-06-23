@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  DISSÍDIO.  INCIDÊNCIA  DA  SÚMULA  Nº  284/STF.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  se  a  divergência  não  é  notória  e  as  razões  de  recurso  especial  não  trazem  a  indicação  de  dispositivo  de  lei  federal,  com  demonstração  da  eventual  ofensa  à  legislação  infraconstitucional,  aplica-se,  por  analogia,  o  óbice  contido  na  Súmula  nº  284/STF,  a  inviabilizar  o  conhecimento  do  recurso  também  pela  alínea  "c"  do  permissivo  constitucional.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  COOPERATIVA  AGRÍCOLA  MISTA  NOVA  PALMA  LTDA.  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial,  pois  a  parte  recorrente  "deixou  de  indicar  precisamente  os  dispositivos  legais  federais  que  teriam  sido  violados  ou  quais  dispositivos  legais  seriam  objeto  de  dissídio  interpretativo,  trazendo  apenas  dispositivos  constitucionais"  (e-STJ  fls.  117-118).
+Em  suas  razões  (e-STJ  fls.  122-128),  a  agravante  sustenta,  em  síntese,  que  inexiste  discussão  de  matéria  constitucional,  tendo  vista  que  a  matéria  do  apelo  nobre  gira  em  torno  do  art.  921  do  CPC,  que  trata  da  prescrição  intercorrente.
+Salienta  que  promoveu  o
+"(..)  necessário  cotejo  analítico  para  demonstrar  a  existência  de  dissídio  jurisprudencial,  indicando  claramente  os  acórdãos  paradigmas,  expondo  a  similitude  fática  e  jurídica  entre  os  casos  confrontados,  bem  como  apresentando  quadro  comparativo  que  evidencia  as  semelhanças  e  divergências  entre  o  acórdão  recorrido  e  os  paradigmas  invocados"  (e-STJ  fl.  125).
+Ao  final,  requer  a  reforma  da  decisão  agravada.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  (e-STJ  fls.  132-134).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  DISSÍDIO.  INCIDÊNCIA  DA  SÚMULA  Nº  284/STF.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  se  a  divergência  não  é  notória  e  as  razões  de  recurso  especial  não  trazem  a  indicação  de  dispositivo  de  lei  federal,  com  demonstração  da  eventual  ofensa  à  legislação  infraconstitucional,  aplica-se,  por  analogia,  o  óbice  contido  na  Súmula  nº  284/STF,  a  inviabilizar  o  conhecimento  do  recurso  também  pela  alínea  "c"  do  permissivo  constitucional.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Na  origem,  trata-se  de  execução  de  título  extrajudicial,  na  qual  a  ora  agravante  busca  o  recebimento  de  seu  crédito,  oriundo  de  instrumento  particular  de  confissão  de  dívida  e  promessa  de  pagamento.
+O  Tribunal  de  Justiça  do  Estado  do  Rio  Grande  do  Sul  extinguiu  o  feito  em  acórdão  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO.  DIREITO  PRIVADO  NÃO  ESPECIFICADO.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  EXTINÇÃO  DO  FEITO  PELA  PRESCRIÇÃO  INTERCORRENTE.  CREDOR  QUE  NÃO  SE  MOSTROU  SUFICIENTEMENTE  DILIGENTE  NA  BUSCA  PELO  CRÉDITO  DURANTE  O  PRAZO  PRESCRICIONAL.  EXECUÇÃO  QUE  TRAMITA  HÁ  QUASE  15  ANOS.  REITERADOS  PEDIDOS  DE  SUSPENSÃO  DO  PROCESSO  E  PROVIDÊNCIAS  SABIDAMENTE  INÓCUAS.  DEMANDA  POR  TRÊS  VEZES  ARQUIVADA.  PRESCRIÇÃO  CARACTERIZADA.  NÃO  FIXAÇÃO  DE  HONORÁRIOS  SUCUMBENCIAIS.  RESP  2.025.303/DF.  RECURSO  PROVIDO,  POR  MAIORIA"  (e-STJ  fl.  39).
+Inconformada,  a  ora  agravante  interpôs  recurso  especial,  fundamentado  na  alínea  "c"  do  permissivo  constitucional  (e-STJ  fls.  49-59).
+De  fato,  nos  termos  da  jurisprudência  desta  Corte,  se  a  divergência  não  é  notória  e  as  razões  de  recurso  especial  não  trazem  a  indicação  de  dispositivo  de  lei  federal,  com  demonstração  da  eventual  ofensa  à  legislação  infraconstitucional,  aplica-se,  por  analogia,  o  óbice  contido  na  Súmula  nº  284/STF,  a  inviabilizar  o  conhecimento  do  recurso  também  pela  alínea  "c"  do  permissivo  constitucional.
+A  propósito:
+
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  SÚMULA  284/STF.  APLICAÇÃO  ANALÓGICA.  CABIMENTO.  AUSÊNCIA  DE  INDICAÇÃO  DA  ALÍNEA  DO  PERMISSIVO  CONSTITUCIONAL  EM  QUE  SE  FUNDA  O  RECURSO.  SÚMULA  284/STF.  FALTA  DE  APONTAMENTO  DO  DISPOSITIVO  LEGAL  VIOLADO  OU  OBJETO  DE  INTERPRETAÇÃO  DISSONANTE.  SÚMULA  284/STF.  DIVERGÊNCIA  NOTÓRIA.  NÃO  OCORRÊNCIA.  DANOS  MORAIS.  EXORBITÂNCIA  NÃO  EVIDENCIADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  AGRAVO  DESPROVIDO.
+1.  É  plenamente  cabível  a  aplicação  analógica,  por  esta  Corte  Superior,  do  enunciado  n.  284  da  Súmula  do  Supremo  Tribunal  Federal.
+2.  A  recorrente  não  indicou,  no  apelo  especial,  a  alínea  do  dispositivo  constitucional  na  qual  se  fundamenta  o  reclamo,  circunstância  que  impede  o  seu  conhecimento,  segundo  o  teor  do  verbete  sumular  n.  284/STF.
+3.  Para  o  cabimento  do  recurso  especial,  é  imprescindível  que  sejam  apontados,  de  forma  clara,  os  preceitos  legais  objeto  de  ofensa  ou  interpretação  dissentânea,  sob  pena  de  inadmissão.  Incidência  do  enunciado  n.  284  da  Súmula  da  Suprema  Corte.
+4.  A  divergência  jurisprudencial  apontada  não  é  notória,  razão  pela  qual  não  há  falar  em  flexibilização  da  exigência  de  indicação  do  dispositivo  legal  objeto  de  interpretação  dissonante.
+5.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  se  firmou  no  sentido  de  que  a  alteração  do  valor  estabelecido  pelas  instâncias  ordinárias,  a  título  de  danos  morais,  só  é  possível  quando  o  referido  montante  tiver  sido  fixado  em  patamar  irrisório  ou  excessivo.
+6.  No  feito  em  análise,  a  quantia  indenizatória  não  pode  ser  considerada  exorbitante,  de  modo  que  a  sua  revisão  demandaria  o  reexame  de  fatos  e  provas,  providência  vedada  na  via  eleita,  ante  a  incidência  do  enunciado  n.  7  da  Súmula  do  STJ.
+7.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.824.850/MG,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  15/6/2021,  DJe  de  21/6/2021  -  grifou-se).
+"DIREITO  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO  RECURSAL.  RECURSO  NÃO  PROVIDO.
+I.  Caso  em  exame
+1.  Agravo  interno  interposto  contra  decisão  que  não  conheceu  do  recurso  especial,  fundamentando-se  na  Súmula  n.  284  do  STF,  por  deficiência  na  fundamentação  recursal,  uma  vez  que  a  parte  recorrente  não  indicou  precisamente  os  dispositivos  legais  federais  violados  ou  objeto  de  dissídio  interpretativo.
+2.  A  parte  agravante  alega  que  a  decisão  agravada  aplicou  equivocadamente  a  Súmula  n.  284  do  STF,  afirmando  ter  sido  clara  ao  indicar  os  dispositivos  legais  violados,  especificamente  os  arts.  10  e  35-F  da  Lei  n.  9.656/1998  e  o  art.  300  do  Código  de  Processo  Civil.
+II.  Questão  em  discussão
+3.  A  questão  em  discussão  consiste  em  saber  se  a  parte  agravante  demonstrou  de  forma  clara  e  precisa  a  violação  dos  dispositivos  legais  indicados  no  recurso  especial,  de  modo  a  afastar  a  aplicação  da  Súmula  n.  284  do  STF.
+III.  Razões  de  decidir
+4.  A  deficiência  na  fundamentação  recursal  impede  o  conhecimento  do  recurso  especial,  pois  não  é  possível  aferir  de  que  maneira  o  acórdão  impugnado  violou  os  dispositivos  de  lei  federal  indicados,  inviabilizando  a  compreensão  da  controvérsia.
+5.  A  mera  citação  de  dispositivos  legais  sem  especificar  os  desdobramentos  em  parágrafos,  incisos  ou  alíneas  caracteriza  deficiência  de  fundamentação,  conforme  entendimento  consolidado  na  Súmula  n.  284  do  STF.
+6.  O  recurso  especial  exige  a  demonstração  clara  dos  dispositivos  apontados  como  malferidos  pela  decisão  recorrida,  sob  pena  de  inadmissão,  mesmo  quando  apontado  o  dissídio  jurisprudencial.
+IV.  Dispositivo  e  tese
+7.  Agravo  interno  desprovido.
+Tese  de  julgamento:  "1.  A  deficiência  na  fundamentação  recursal  impede  o  conhecimento  do  recurso  especial.  2.  A  mera  citação  de  dispositivos  legais  sem  especificar  os  desdobramentos  caracteriza  deficiência  de  fundamentação.  3.  O  recurso  especial  exige  a  demonstração  clara  dos  dispositivos  apontados  como  malferidos  pela  decisão  recorrida".
+Dispositivos  relevantes  citados:  Lei  n.  9.656/1998,  arts.  10  e  35-F;  Código  de  Processo  Civil,  art.  300.Jurisprudência  relevante  citada:  STF,  Súmula  n.  284;  STJ,  AgInt  no  AREsp  2.120.664/MG,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  19/9/2022"  (AgInt  no  AREsp  2.574.724/SE,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  28/4/2025,  DJEN  de  5/5/2025  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  NO  RECURSO  ESPECIAL.  APELAÇÃO.  AÇÃO  DECLARATÓRIA  DE  FALSIDADE  DE  DOCUMENTO.  CHEQUE.  COISA  JULGADA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  ACÓRDÃO  SUFICIENTEMENTE  FUNDAMENTADO.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  DEMONSTRAÇÃO.  SIMPLES  TRANSCRIÇÃO  DE  EMENTA.  CERCEAMENTO  DE  DEFESA.  AUSÊNCIA  DE  EXPRESSA  INDICAÇÃO  DE  ARTIGO  DE  LEI  VIOLADO.  INCIDÊNCIA  DA  SÚMULA  N.  284  DO  STF.  AGRAVO  NÃO  PROVIDO.
+1.  Não  há  falar  em  omissão  quando  a  decisão  está  clara  e  suficientemente  fundamentada,  resolvendo  integralmente  a  controvérsia.  O  julgador  não  está  obrigado  a  rebater,  um  a  um,  os  argumentos  trazidos  pelas  partes,  quando  encontrar  motivação  satisfatória  para  dirimir  o  litígio  sobre  os  pontos  essenciais  da  controvérsia  em  exame.
+2.  A  mera  transcrição  de  ementas  e  excertos,  desprovida  da  realização  do  necessário  cotejo  analítico  entre  os  arestos  confrontados,  mostra-se  insuficiente  para  comprovar  a  divergência  jurisprudencial  ensejadora  da  abertura  da  via  especial  com  esteio  na  alínea  c  do  permissivo  constitucional.  Incidência  da  Súmula  n.  284  do  STF.
+3.  A  falta  de  indicação,  de  forma  clara  e  precisa,  dos  dispositivos  legais  que  teriam  sido  eventualmente  violados  ou  a  que  se  teria  dado  interpretação  divergente  faz  incidir  à  hipótese,  em  relação  a  quaisquer  das  alíneas  do  permissivo  constitucional,  a  teor  da  Súmula  n.  284  do  STF,  por  analogia:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  "
+4.  Agravo  desprovido"  (AREsp  2.801.613/GO,  Relator  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  24/3/2025,  DJEN  de  27/3/2025-  grifou-se).
+Desse  modo,  a  razões  do  agravo  não  são  capazes  de  reformar  a  decisão  agravada,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
