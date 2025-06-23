@@ -1,0 +1,21 @@
+DECISÃO
+Em petição de recurso em habeas corpus interposto em favor de Gustavo Andrei Bachmann, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina.
+O recorrente teve sua prisão preventiva decretada em 13/3/2025, pela Vara Regional de Garantias de Blumenau/SC, no âmbito do Inquérito Policial n. 684.25.01, por suspeita de envolvimento com tráfico de drogas. A decisão fundamentou-se na gravidade concreta do crime, em antecedentes por delitos patrimoniais e na suposta condição de foragido.
+Diante da prisão, a defesa impetrou habeas corpus no TJSC, apontando ausência de fundamentação adequada e nulidades no inquérito, como violação da cadeia de custódia e busca domiciliar ilegal. O Tribunal, no entanto, negou o pedido, considerando válidos os fundamentos da prisão e inexistentes irregularidades capazes de anular as provas.
+Contra esse acórdão, foi interposto o presente recurso em habeas corpus, por meio do qual a defesa busca a reforma da decisão do TJSC e requer a apreciação do mérito pelo egrégio Superior Tribunal de Justiça. Conforme consta na petição de fl. 147 (e-STJ), as razões recursais seriam apresentadas oportunamente, com fundamento na aplicação analógica do art. 600, § 4º, do Código de Processo Penal.
+Em petição de fls. 161-168 (e-STJ), a defesa apresentou as razões recursais.
+O Ministério Público Federal manifestou-se pelo não conhecimento do pedido recursal, nos termos da seguinte ementa (e-STJ, fl. 171):
+EMENTA: Recurso ordinário em habeas corpus. Tráfico de drogas. Prisão preventiva. Ausência das razões recursais. Não conhecimento.
+- O recurso ordinário foi aviado sem a razões recursais, não sendo caso de intimar a defesa para que as apresente perante esse Superior Tribunal de Justiça, visto que deveriam ter sido oferecidas em concomitância ao próprio apelo, não sendo diversos os momentos da interposição e do arrazoado, conforme entende o STJ: " A  ausência de juntada das razões recursais impede o conhecimento do recurso em habeas corpus, sendo inviável a apresentação posterior dessas razões, tendo em vista que o recurso ordinário constitucional deve ascender à instância superior já acompanhado do respectivo arrazoado" (RCD no RHC n. 207.938/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025)
+- Noto que não há manifesta ilegalidade na prisão preventiva, pois o paciente detinha quase 140kg de maconha, restando consignado no acordão recorrido sua condição de reincidente, tendo praticado o novo crime no cumprimento de pena anteriormente imposta, estando ainda foragido ao tempo do julgamento da impetração originária. A gravidade concreta da conduta, a reiteração delitiva e o risco de inviabilizar a aplicação da lei penal autorizam a custódia cautelar.
+Parecer pelo não conhecimento do recurso ordinário.
+É o relatório. Decido.
+De início, cumpre destacar que não se admite a apresentação posterior de razões recursais no recurso em habeas corpus. A analogia ao art. 600, § 4º, do Código de Processo Penal não é aplicável, pois referido dispositivo regula exclusivamente a apelação.
+No tocante ao recurso em habeas corpus, o art. 30 da Lei n. 8.038/1990 dispõe expressamente que a interposição deve ocorrer no prazo de cinco dias, acompanhada das razões do pedido de reforma, in verbis:
+Art. 30 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de Habeas Corpus, proferidas pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, será interposto no prazo de cinco dias, com as razões do pedido de reforma.
+Nesse sentido, a jurisprudência do STJ é pacífica ao entender que a ausência de razões no momento da interposição impede o conhecimento do recurso ordinário, sendo incabível sua posterior apresentação (RCD no RHC n. 207.938/RJ, rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+No caso, a defesa interpôs o recurso sem as razões, declarando que as apresentaria oportunamente, o que foi feito apenas em momento posterior. Tal conduta não encontra respaldo legal ou jurisprudencial, impondo-se, portanto, o não conhecimento do recurso.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
