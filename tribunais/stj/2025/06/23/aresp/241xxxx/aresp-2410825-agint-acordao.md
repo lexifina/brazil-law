@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DISPOSITIVO LEGAL VIOLADO. FALTA DE INDICAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INCIDÊNCIA. MANDADO DE SEGURANÇA. APLICAÇÃO DE MULTA DIRETAMENTE AO AGENTE PÚBLICO RECALCITRANTE. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A falta de indicação precisa e específica do dispositivo de lei federal violado no acórdão recorrido impede o conhecimento do recurso especial por deficiência na fundamentação recursal. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. A jurisprudência do Superior Tribunal de Justiça (STJ) é assente no sentido de que "inexiste óbice a que as astreintes possam também recair sobre a autoridade coatora recalcitrante que, sem justo motivo, cause embaraço ou deixe de dar cumprimento à decisão judicial proferida no curso da ação mandamental" (AgInt no REsp 1.405.170/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/6/2019, DJe de 18/6/2019).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO PIAUÍ da decisão em que reconsiderei a decisão da Presidência do Superior Tribunal de Justiça (STJ) de fls. 307/310, conhecendo do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento (fls. 367/371).
+A parte agravante afirma o seguinte:
+(1) "não incide no caso em apreço o entendimento da Súmula n. 284 do STF na medida em que não existe qualquer empecilho que não possa ser facilmente ultrapassado à impedir a adequada compreensão das razões do recurso especial e de sua hipótese de cabimento" (fl. 382);
+(2) "na petição de interposição, afirma peremptoriamente a violação normas do direito infraconstitucional federal consignadas nos artigos 506 e 536, § 1º, do CPC, e a contrariedade à lei federal é motivo que autoriza o conhecimento e provimento do recurso especial" (fl. 382);
+(3) "ainda que assim não fosse, deve ainda ser sopesado que o atual Código de Processo Civil consagrou o princípio da primazia da solução do mérito, de sorte que ainda que se entenda ser necessária a indicação numérica da norma constitucional que autoriza o recurso especial, deveria oportunizar à parte a correção da falha sanável" (fl. 384);
+(4) "não se pode simplesmente considerar que o descumprimento da decisão judicial é fruto da má-fé do agente publico do agente público responsável. Sabe-se que o agente público responsável, bem como o funcionamento da "máquina administrativa" possui inúmero entraves" (fl. 385).
+Requer que seja dado provimento ao agravo.
+A parte adversa não apresentou impugnação (fl. 393).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DISPOSITIVO LEGAL VIOLADO. FALTA DE INDICAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INCIDÊNCIA. MANDADO DE SEGURANÇA. APLICAÇÃO DE MULTA DIRETAMENTE AO AGENTE PÚBLICO RECALCITRANTE. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A falta de indicação precisa e específica do dispositivo de lei federal violado no acórdão recorrido impede o conhecimento do recurso especial por deficiência na fundamentação recursal. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. A jurisprudência do Superior Tribunal de Justiça (STJ) é assente no sentido de que "inexiste óbice a que as astreintes possam também recair sobre a autoridade coatora recalcitrante que, sem justo motivo, cause embaraço ou deixe de dar cumprimento à decisão judicial proferida no curso da ação mandamental" (AgInt no REsp 1.405.170/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/6/2019, DJe de 18/6/2019).
+3. Agravo interno a que se nega provimento.
+VOTO
+Do recurso especial não se conheceu porque a parte ora agravante não havia indicado os dispositivos legais que teriam sido violados no acórdão recorrido.
+Em seu recurso especial, a parte recorrente alegou que inexistira prejuízo à parte adversa (então impetrante do mandado de segurança), pois tinha havido o cumprimento da decisão judicial após o bloqueio de suas contas (fl. 75), e que havia faltado a citação do gestor público (fls. 75/76).
+Em nova análise do recurso, vê-se que a parte recorrente realmente não indicou os dispositivos legais que teriam sido violados, quanto àquelas teses recursais, no acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+A alínea a do inciso III do art. 105 da Constituição Federal estabelece que compete ao Superior Tribunal de Justiça "julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida  ..  contrariar tratado ou lei federal, ou negar-lhes vigência".
+Ou seja, a parte recorrente deve indicar nas razões de seu recurso especial a legislação federal contrariada no acórdão recorrido; a inobservância dessa obrigação inviabiliza o conhecimento do recurso devido à deficiência na fundamentação, o que é causa de aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+Está correta a decisão que não conheceu do recurso, no ponto.
+Ressalto, ainda, que a alegação da parte ora agravante de que foram apontados os arts. 506 e 536, § 1º, do Código de Processo Civil (CPC) como violados não altera a conclusão constante da decisão agravada. Isso porque esses dispositivos legais foram considerados como vinculados à outra tese recursal suscitada no recurso especial - atinente à fixação de multa cominatória em desfavor do gestor público.
+Os dispositivos em questão possuem a seguinte redação:
+Art. 506. A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros.
+Art. 536. No cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente.
+1º Para atender ao disposto no caput , o juiz poderá determinar, entre outras medidas, a imposição de multa, a busca e apreensão, a remoção de pessoas e coisas, o desfazimento de obras e o impedimento de atividade nociva, podendo, caso necessário, requisitar o auxílio de força policial.
+Portanto, da mesma forma, não seria possível conhecer do recurso, quanto ao ponto, porque os dispositivos em questão não contêm comando normativo capaz de demonstrar a inexistência de prejuízo à parte adversa e a falta de citação do gestor público, atraindo a incidência, igualmente, da Súmula 284/STF, aplicada por analogia.
+No tocante ao cerne recursal, o Tribunal de origem reconheceu a recalcitrância injustificável do Secretário de Saúde do Estado recorrente, o qual foi intimado pessoalmente para que se pronunciasse nos autos da ação mandamental quanto ao descumprimento da decisão judicial, sendo a ele aplicada multa cominatória nestes exatos termos (fls. 28/29):
+Realmente, consoante se extrai dos autos, em 18 de agosto de 2018 fora concedida a medida liminar reclamada, a fim de determinar o fornecimento, ao agravado, do medicamento necessário e sob pena de multa diária no valor de R$ 1.000,00 (mil reais) até o limite de R$ 30.000,00 (trinta mil reais), sem prejuízo de incursão do ou dos responsáveis na conduta.
+Todavia, em 21 de setembro de 2018, o agravado queixou-se do não cumprimento da ordem judicial. Foi, então, determinada, em 21 de novembro de 2018, a intimação pessoal do Secretário de Saúde do Estado do Piauí, para que se pronunciasse, em 24 horas, acerca da informação do descumprimento. Contudo, embora disso cientificado, a referida autoridade não se dignou nem mesmo de responder, quanto mais de tentar, pelo menos, justificar-se.
+Assim é que foi determinada a majoração da multa, a ser suportada pessoalmente por ele, tendo em vista que a doutrina e jurisprudência admitem isso, quando se demonstrar que a negativa de cumprimento se caracteriza como recalcitrância injustificável.
+No âmbito do Superior Tribunal de Justiça, inclusive, é pacífico o entendimento, segundo o qual no mandado de segurança, a multa coercitiva deve recair diretamente sobre o patrimônio da própria autoridade coatora. Neste sentido, por sinal, os seguintes julgados, verbis:  .. .
+Conforme destacado na decisão agravada, o entendimento presente no acórdão recorrido - concernente à possibilidade de arbitramento de multa cominatória em desfavor do administrador público responsável pelo cumprimento das decisões judiciais, mormente em mandado de segurança - não destoa do firmado por esta Corte no sentido de que "inexiste óbice a que as astreintes possam também recair sobre a autoridade coatora recalcitrante que, sem justo motivo, cause embaraço ou deixe de dar cumprimento à decisão judicial proferida no curso da ação mandamental" (AgInt no REsp 1.405.170/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/6/2019, DJe de 18/6/2019).
+A propósito, confiram-se estes outros julgados ilustrativos:
+ADMINISTRATIVO. AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE AJUSTAMENTO DE CONDUTA (TAC). OBRIGAÇÃO DE FAZER. INEXECUÇÃO. MULTA COMINATÓRIA. RESPONSABILIDADE DO PREFEITO. LEGITIMIDADE PASSIVA INCONTESTESTÁVEL. CLÁUSULA FIXADA NO ACÓRDÃO. TRANSCURSO TEMPORAL NÃO SOLVE A OBRIGAÇÃO. AGRAVO NÃO PROVIDO.
+ ..
+3. A jurisprudência do STJ há tempos diz que "a cominação de astreintes pode ser direcionada não apenas ao ente estatal, mas também pessoalmente às autoridades ou aos agentes responsáveis pelo cumprimento das determinações judiciais (Precedente: REsp 1.111.562/RN, Rel. Min. Castro Meira, Segunda Turma, publicado em 18/09/2009)" (AgRg no AREsp 472.750/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.6.2014).
+ ..
+8. Agravo Interno não provido.
+(AgInt no REsp n. 1.957.741/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. POSSIBILIDADE DE APLICAÇÃO DE ASTREINTES EM DESFAVOR DE AUTORIDADE. AGRAVO INTERNO DO ENTE ESTATAL A QUE SE NEGA PROVIMENTO.
+1. Considerando-se que o Ente Federativo manifesta sua vontade por meio de autoridade pública, é possível a atribuição de multa que objetive assegurar o cumprimento de decisão judicial pelo Administrador Público responsável (REsp 1.399.842/ES, Rel. Min. SÉRGIO KUKINA, DJe 3.2.2015; AgRg no AREsp 472.750/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 9.6.2014).
+2. Agravo Interno do Estado de Pernambuco a que se nega provimento.
+(AgInt no REsp n. 1.563.797/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe de 20/4/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
