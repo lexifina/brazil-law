@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC. ORDEM DE GRADAÇÃO.
+1. Ação de busca e apreensão.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos argumentos invocados pelos recorrentes em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálcul o: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente.
+6. Os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+7. Recurso especial parcialmente conhecido e, nesta extensão, parcialmente provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se recurso especial interposto por BORTOLINI TRANSLOC LTDA e ALVARO MATHEUS DE CASTRO LARA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de busca e apreensão, ajuizada por CAIXA ECONÔMICA FEDERAL, em desfavor da primeira recorrente, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor.
+Sentença: julgou extinto o processo, sem resolução de mérito, com fulcro no art. 485, IV, do CPC (ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo). Na oportunidade, deixou de fixar condenação a título de honorários advocatícios.
+Acórdão: deu parcial provimento à apelação interposta pelos recorrentes, a fim de fixar verba honorária em seu favor, por equidade, no montante de R$ 2.000,00 (dois mil reais). O acórdão foi assim ementado:
+DIREITO PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. AJUIZAMENTO EM MOMENTO ANTERIOR À CONFIGURAÇÃO DA MORA DO CREDOR. DESISTÊNCIA. CONDENAÇÃO DA REQUERENTE EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. MONTANTE. EQUIDADE. ART. 85, §§ 2º E 8º DO CPC/2015. POSSIBILIDADE. APELAÇÃO PARCIALMENTE PROVIDA.
+1. Foi a requerente quem deu causa à propositura da presente ação de busca e apreensão, ao notificar equivocadamente a parte executada e ajuizar ação de busca e apreensão antes mesmo de estar configurada a mora do devedor - como ela própria veio a admitir posteriormente -, devendo, portanto, arcar com custas e honorários advocatícios sucumbenciais, em decorrência do princípio da causalidade.
+2. A fixação dos honorários em percentual incidente sobre o valor da causa resultaria em quantia desarrazoada e desproporcional, ensejadora de enriquecimento sem causa, ainda mais quando considerada a baixíssima complexidade do feito, resolvido pela desistência da requerente.
+3. Diante das peculiaridades que a hipótese encerra, impende arbitrar os honorários advocatícios por equidade, conforme previsto nos §§ 2º e 8º do artigo 85 do CPC, revelando-se assim razoável fixá-los no valor de R$ 2.000,00 (dois mil reais), montante mais do que suficiente para remunerar dignamente o trabalho do advogado, sem, todavia, onerar demasiadamente a parte adversa.
+4. Apelação parcialmente provida (e-STJ fl. 141).
+Embargos de declaração: opostos pelos recorrentes foram rejeitados.
+Recurso especial: foi interposto pelos recorrentes, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Acórdão: em juízo de retratação, foi mantido o acórdão recorrido, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. TESES REPETITIVAS. APLICAÇÃO AO CASO CONCRETO QUE INDEPENDE DO TRÂNSITO EM JULGADO DO JULGADO PARADIGMA. HONORÁRIOS SUCUMBENCIAIS. ACÓRDÃO QUE NÃO DESTOA DE TESE FIRMADA EM RECURSO REPETITIVO (TEMA Nº 1.076). ART. 1.040, II, DO CPC/2015. JUÍZO DE RETRATAÇÃO NEGATIVO.
+1. Os autos foram restituídos pela Vice-Presidência deste Tribunal para eventual juízo de retratação, por se tratar de matéria submetida à sistemática dos recursos repetitivos (Tema nº 1.076).
+2. É firme na jurisprudência dos Tribunais Superiores o entendimento de que não há necessidade de aguardar o trânsito em julgado do recurso repetitivo para aplicação da tese ali firmada, ante a ausência de previsão legal. Precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+3. O acórdão proferido não destoa de tese firmada pelo Superior Tribunal de Justiça em recurso repetitivo (Tema nº 1.076), uma vez que ali se decidiu, dentre outras teses, que "(a)penas se admite arbitramento de honorários por equidade quando, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável".
+4. Na hipótese, tratando-se de questão relativa à desistência, tem-se que o proveito econômico não é estimável, razão pela qual é possível o arbitramento de honorários advocatícios por equidade.
+6. Exercido juízo negativo de retratação, nos termos do artigo 1.040, II, do CPC/2015, por entender que o acórdão recorrido não contraria orientação firmada pelo Superior Tribunal de Justiça em recurso repetitivo (Tema nº 1.076) (e-STJ fl. 381).
+Recurso especial: apontam a violação dos arts. 85, § 2º, § 6º, § 8º-A, 489, § 1º, IV, 927, III, e 1.022, I e II, do CPC, bem como dissídio jurisprudencial. Além de alegaram a ocorrência de negativa de prestação jurisdicional, insurgem-se contra a fixação dos honorários advocatícios por meio de apreciação equitativa, defendendo a necessidade de se observar o limite mínimo de 10% (dez por cento) estabelecido no art. 85, § 2º, do CPC. Aduzem que as ações de busca e apreensão de veículos possuem valor patrimonial correspondente ao valor dado à causa, não sendo hipótese em que o proveito econômico é inestimável. Afirmam, ainda, que, em não sendo possível mensurar o proveito econômico obtido, os honorários advocatícios devem ser arbitrados com base no valor da causa. Asseveram que houve inobservância ao Tema 1076/STJ.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC. ORDEM DE GRADAÇÃO.
+1. Ação de busca e apreensão.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos argumentos invocados pelos recorrentes em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálcul o: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente.
+6. Os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+7. Recurso especial parcialmente conhecido e, nesta extensão, parcialmente provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da violação do art. 1.022, I e II, do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido justificou, fundamentada e expressamente, a fixação dos honorários advocatícios por apreciação equitativa, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+- Da violação do art. 489, § 1º, IV, do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelos recorrentes em seu recurso especial quanto aos arts. 85, § 6º, § 8º-A, e 927, III, do CPC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da fixação dos honorários advocatícios
+Por ocasião do julgamento do Tema 1.076/STJ (DJe de 31/05/2022), a Corte Especial firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (grifos acrescentados).
+Na espécie, o TJ/SP, a fim de justificar a fixação por equidade da verda honorária, deixou expressamente consignado que, tratando-se de questão relativa à desistência, tem-se que o proveito econômico não é estimável, razão pela qual é possível o arbitramento de honorários advocatícios por equidade (e-STJ fl. 384).
+Contudo, esta Corte Superior possui entendimento de que os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito (AgInt no AREsp 1.187.650/SP, Terceira Turma, DJe 30/4/2018).
+Destarte, o acórdão recorrido, ao fixar - por equidade - a verba honorária em R$ 2.000,00 (dois mil reais), está em dissonância com a jurisprudência do STJ.
+O acórdão recorrido, portanto, merece reforma.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, DOU-LHE PARCIAL PROVIMENTO, a fim de determinar o retorno dos autos ao TJ/SP, a fim de que promova o arbitramento da verba honorária à luz do entendimento firmado neste voto.
