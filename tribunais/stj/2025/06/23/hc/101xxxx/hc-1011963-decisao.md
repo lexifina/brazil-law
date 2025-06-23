@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RUDNEY RODRIGUES TANAN, apontando como autoridade coatora o desembargador relator da revisão criminal n. 0023232-07.2024.8.26.0000 do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi inicialmente condenado pelo Juízo da 5ª Vara Criminal da Comarca de São Bernardo do Campo, no âmbito da ação penal n. 1510324-63.2022.8.26.0564, como incurso, por duas vezes, no artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, na forma do artigo 70, caput, do mesmo diploma, à pena de 10 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, além do pagamento de 40 dias-multa (fls. 17-30).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso para afastar a causa de aumento de pena relativa à restrição de liberdade da vítima, prevista no artigo 157, § 2º, inciso V, do Código Penal, reduzindo a pena para 9 anos, 7 meses e 20 dias de reclusão, e 36 dias-multa, mantendo os demais termos da condenação (fls. 31-39).
+Após o trânsito em julgado, foi proposta a revisão criminal n. 0023232-07.2024.8.26.0000 perante o Tribunal de Justiça do Estado de São Paulo, a qual foi indeferida liminarmente por decisão monocrática do relator (fls. 9-19).
+Na presente impetração, sustenta-se que a decisão do juízo viola entendimento consolidado do Superior Tribunal de Justiça, bem como o disposto no art. 93, inciso IX, da Constituição Federal, e no art. 315, § 2º, incisos I, II e III, do Código de Processo Penal (fl. 6). Afirma-se que estão presentes o fumus boni iuris e o periculum in mora, uma vez que a ilegalidade da decisão impacta diretamente nos marcos temporais para o cálculo da pena no âmbito da execução penal (fl. 7).
+Requer-se, ao final, a concessão da ordem para fixar a pena-base no mínimo legal e readequar os aumentos nas demais fases da dosimetria, com repercussão na pena final (fls. 7-8).
+É o relatório. DECIDO.
+A presente impetração investe contra a decisão monocrática do desembargador relator da revisão criminal n. 0023232-07.2024.8.26.0000 (fls. 9-16), que indeferiu liminarmente a revisão criminal. Não há registro de que a decisão tenha sido submetida ao órgão colegiado do Tribunal de Justiça do Estado de São Paulo.
+Segundo o artigo 105, I, "c", e II, da Constituição Federal, o Superior Tribunal de Justiça não possui competência para analisar habeas corpus impetrado contra ato de desembargador. A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator, em casos de manifesta incompetência, a indeferir liminarmente o habeas corpus, hipótese verificada nos presentes autos.
+De toda sorte, não verifico, de plano, a presença de constrangimento ilegal que justifique a concessão da ordem de ofício.
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
