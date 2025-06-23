@@ -1,0 +1,18 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar, impetrado em favor de ANDERSON DE SOUSA BARBOSA SILVA, alega-se coação ilegal em relação a acórdão da Corte local que denegou a ordem.
+O paciente foi preso em flagrante no dia 11 de fevereiro de 2025 pela possível prática do crime previsto no artigo 155, §4º, inciso I e II, do Código Penal. Após audiência de custódia, o juízo converteu a prisão em preventiva.
+Ao receber a denúncia, o juízo reavaliou a decisão de prisão e manteve a medida. Após, o paciente impetrou habeas corpus no Tribunal local. Sustenta que a segregação cautelar foi baseada na gravidade abstrata do crime e que não há contemporaneidade na medida adotada. Afirma que não foi lhe dada oportunidade de contatar os familiares por ocasião da prisão. O Tribunal denegou a ordem de habeas corpus (fls. 1-90).
+Em seguida, impetrou habeas corpus nesta Corte Superior, reiterando os fundamentos e solicitando, liminarmente e no mérito, a revogação da prisão preventiva (fls. 2-10).
+É o relatório.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo Ministro Relator, nos termos do art. 34, XVIII e XX, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Conforme decreto prisional (fls. 27-29):
+ ..  Em que pese o delito tenha sido praticado sem o emprego de violência ou grave ameaça, o autuado é reincidente, de modo que a conversão do flagrante em prisão preventiva se faz necessária a fim de se evitar a reiteração delitiva, eis que em liberdade já demonstrou concretamente que continuará a delinquir, o que evidencia que medidas cautelares diversas da prisão não serão suficientes para afastá-lo da prática criminosa e confirma o perigo gerado pelo estado de liberdade do autuado. Outrossim, a REINCIDÊNCIA é circunstância impeditiva, nos termos da lei e na eventualidade de condenação, da concessão de regime menos gravoso. Outrossim, assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus.
+Como se vê, a prisão preventiva foi validamente fundamentada na reiteração delitiva do paciente.
+De acordo com entendimento desta Corte, a prisão preventiva pode ser decretada com base no risco de reiteração delitiva, evidenciado pelos antecedentes criminais. Nesse sentido: HC n. 979.434/TO - 5ª T. - unânime - Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), DJe de 9-6-2025; HC 999516/MG - 5ª T. - unânime - Rel. Min. Ribeiro Dantas - DJe 4-6-2025; HC 989.960/SP - 6ª T. - unânime - Rel. Min. Rogerio Schietti Cruz - DJe 3-6-2025); HC 965.268/SP - 6ª T. - unânime - Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP) - DJe 2-6-2025.
+Sobre a contemporaneidade, tal regra "não exige que o motivo ensejador da custódia seja recente, mas que permaneça atual e justificável diante do caso concreto" (AgRg no HC n. 972.995/PA, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+Conforme citado pelo acórdão de origem e de acordo com o que se depreende da certidão de antecedentes (fls. 59-64), que o paciente ostenta mais de uma condenação criminal anterior à data do novo crime por crimes contra o patrimônio, inclusive utilizando violência ou grave ameaça contra pessoa.
+Dessa forma, mesmo diante de múltiplas condenações e antecedentes, o paciente insiste na reiteração delitiva, o que sustenta a permanência e contemporaneidade dos motivos ensejadores da prisão preventiva, de acordo com decisões já proferidas nesta Corte.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do STJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
