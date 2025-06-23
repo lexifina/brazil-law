@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA LUCIA BARROS FERREIRA DE FARIA contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 do STJ e 282 e 356 do STF e na ausência de violação dos arts. 489, § 1º, IV, e 1.022, II, III, do CPC.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão em apelação nos autos de ação ordinária. O julgado foi assim ementado (fl. 746):
+PROCESSO CIVIL. AGRAVO INTERNO. APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO CONSIGNADO. REGULARIDADE CONTRATUAL. IRDR N.º 53983/2016. DESPROVIMENTO. 1. Verificando-se atentamente os autos observa-se a existência de documentos que comprovam a contratação. 2. O agravante não apresentou a distinção que lhe competia, trazendo aos autos mera rediscussão de tese já firmada por este Tribunal no IRDR nº. 53.983/2016. 3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no R Esp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, D Je 20/05/2021); (AgInt nos E Dcl no R Esp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, D Je 10/03/2021) e (AgInt no AR Esp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020). 4. Agravo interno não provido.
+No recurso especial, a parte aponta violação dos arts 1.022, II, III, e 489, § 1º, IV, do CPC, 4º, IV, e 6º, III, do CDC e 138 do CC.
+Sustenta que a decisão recorrida não enfrentou os pontos nucleares do caso concreto, configurando omissão e falta de fundamentação.
+Aduz que não houve informação clara e adequada sobre os diferentes produtos, especificando corretamente as características do contrato.
+Aponta que houve erro substancial na contratação em face das circunstâncias do negócio.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, declarando a nulidade do contrato e afastando a situação de inadimplência da recorrente.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece provimento, pois a decisão recorrida está amparada pelo ordenamento jurídico brasileiro, impondo-se sua manutenção nos seus exatos termos, permanecendo rejeitado o recurso especial interposto pela recorrente.
+É o relatório. Decido.
+Trata-se de ação de repetição de indébito e reparação por danos morais em que a parte autora pleiteou a declaração de quitação do contrato de empréstimo consignado, a devolução em dobro dos valores descontados indevidamente e a condenação ao pagamento de indenização por danos morais. O valor da causa foi fixado em R$ 10.518,40.
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos formulados na inicial, declarando quitado o contrato de empréstimo consignado, condenando o requerido a devolver em dobro o montante descontado e ao pagamento de indenização por danos morais, além de fixar honorários advocatícios em 10% do valor da condenação.
+A Corte estadual reformou a sentença, julgando improcedentes os pedidos contidos na inicial e condenando a parte autora ao pagamento de honorários advocatícios no percentual de 10% sobre o valor da causa.
+I - Arts. 489, § 1º, IV, e 1.022, II, III, do CPC
+Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Isso porque a Corte estadual concluiu que não houve omissão ou falta de fundamentação, pois a decisão embargada analisou todos os documentos juntados aos autos para chegar à conclusão quanto ao provimento do apelo (fl. 748):
+Registre-se que toda a matéria foi devidamente debatida na decisão que rejeitei os embargos (ID 34287269) e mantive o entendimento anteriormente proferido em todos os recursos interpostos nos presentes autos, por estarem ausentes os requisitos autorizadores do art. 1.022 do CPC, tendo em vista que a decisão embargada não incorreu em nenhuma das hipóteses legais de cabimento dos aclaratórios.
+No caso concreto, este relator analisou atentamente os documentos juntados aos autos para chegar à conclusão quanto ao provimento do apelo e, também, para não conhecer do primeiro agravo (ID 29747617) e rejeitar os embargos de declaração (ID 34287269).
+Além disso, não há, na petição do atual agravo interno (ID 35083620), argumentos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Arts. 4º, IV e 6º, III, do CDC e 138 do CC
+A recorrente sustenta que houve erro substancial na contratação e falta de informação clara e adequada sobre os diferentes produtos para especificar corretamente as características do contrato.
+O Tribunal de origem analisando o acervo probatório dos autos concluiu que a modalidade de contratação foi devidamente consentida pela apelada, que assinou os termos de adesão nos quais estavam evidentes as características do negócio jurídico celebrado.
+Confira-se trecho do julgado (fls. 749-750):
+Logo, vê-se que o agravante não apresentou a distinção que lhe competia, trazendo aos autos mera rediscussão de tese já firmada por este Tribunal no IRDR nº. 53.983/2016.
+Com efeito, os fatos já foram apreciados e a interpretação normativa possui precedente qualificado com licitude de contrato de cartão de crédito consignado quando há demonstração idônea de assinatura e de exposição clara e destacada da modalidade de empréstimo que se está contratando. Assim, com "informação adequada e clara sobre os diferentes produtos, especificando corretamente as características do contrato" (I IRDR nº. 53.983/2016 - Tese 4).
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na regularidade da contratação e na informação adequada e clara sobre os diferentes produtos, especificando corretamente as características do contrato. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
