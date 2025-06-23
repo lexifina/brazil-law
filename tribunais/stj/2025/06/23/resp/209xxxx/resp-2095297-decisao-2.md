@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JEISON LENON RIBEIRO DOS SANTOS contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu o recurso especial.
+O recorrente foi condenado como incurso no art. artigos 334, § 1º, inciso IV, e artigo 334-A, § 1º, inciso V, ambos do Código Penal, na forma do artigo 29, CP, à pena de 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos (fl. 616).
+O Tribunal de origem negou provimento aos apelos defensivos (fls. 615-642).
+A defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 62, inciso I, do CP, no qual requer o afastamento da referida agravante (fls. 674-681).
+O Tribunal não admitiu o recurso especial pela incidência da Súmula n. 7, STJ (fls. 701-705). Foi interposto agravo em recurso especial pela defesa (fls. 716-725).
+O Ministério Público Federal opinou pelo conhecimento do agravo em recurso especial para o desprovimento do recurso especial (fls. 743-749).
+É o relatório. DECIDO.
+A controvérsia dos autos consiste em analisar o pedido de afastamento da agravante prevista no artigo 62, inciso I, do Código Penal, por alegar não estar configurada no caso de concurso de apenas dois agentes, com repartição simplória de tarefas (fl. 680).
+O Tribunal de origem assim se manifestou sobre a aplicação da agravante (fls. 638- 641)
+"Deve incidir a agravante do artigo 62, inciso I, do Código Penal, na medida em que o réu JEISON LENON RIBEIRO DOS SANTOS adquiriu as mercadorias, organizou o seu transporte no veículo e contratou o codenunciado ADRIANO RIBEIRO para levá-las até São Paulo/SP, em ônibus que também seria de sua propriedade, segundo este último relatou ao ser interrogado."
+(..)
+"Deve incidir a agravante do artigo 62, inciso I, do Código Penal, na medida em que o réu JEISON LENON RIBEIRO DOS SANTOS adquiriu os cigarros, organizou o seu transporte no veículo e contratou o codenunciado ADRIANO RIBEIRO para levá-las até São Paulo/SP, em ônibus que também seria de sua propriedade, segundo este último relatou ao ser interrogado."
+(..)
+"Na segunda fase, o juízo a quo aplicou a agravante do art. 62, I, CP, o que reputo correto.
+Ficou comprovado nos autos que JEISON LENON RIBEIRO DOS SANTOS era dono das mercadorias proibidas e transportou os produtos por meio de seu veículo GM/Vectra até Corbélia/PR, na companhia de ADRIANO RIBEIRO, o qual havia contratado para transportar os produtos até São Paulo/SP por meio de um ônibus de turismo.
+Resta evidente, diante de tais circunstâncias, que foi JEISON LENON RIBEIRO DOS SANTOS quem promoveu e organizou a empreitada criminosa. "
+Como se vê, o acórdão recorrido decidiu mantê-la, tendo em vista que ficou comprovado nos autos que o réu era dono das mercadorias proibidas e transportou os produtos por meio de seu veículo, na companhia do corréu, o qual havia sido contratado para levá-las por meio de ônibus de turismo.
+Assim, o Tribunal de origem entendeu que o agravante promoveu e organizou a empreitada criminosa, incidindo a agravante tipificada no artigo 62, inciso I, do Código Penal.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas do agente, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Dispõe o artigo 62, inciso I, do Código Penal:
+Art. 62 - A pena será ainda agravada em relação ao agente que:
+I - promove, ou organiza a cooperação no crime ou dirige a atividade dos demais agentes;
+Nessa linha, esta Corte Superior tem entendido:
+"(..) no tocante à segunda fase da dosimetria da pena, para que se configure a agravante do art. 62, I, do Código Penal é necessário que o agente promova ou organize a cooperação no crime, dirigindo a atividade dos demais criminosos. No caso, as instâncias ordinárias concluíram que o recorrente era quem de fato, coordenava a atuação dos demais.  ..  Diante dessa constatação, de rigor a incidência da agravante, porquanto comprovada a posição de liderança por ele exercida no grupo, não se tratando de mero integrante, restando clara a necessidade de resposta superior, em estrito cumprimento do princípio da individualização da pena (HC n. 416.418/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/5/2018).(AgRg no AREsp n. 2.324.431/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO NO PATAMAR DE 1/5. POSSIBILIDADE. QUANTIDADE E NATUREZA DAS DROGAS. AUSÊNCIA DE BIS IN IDEM NA EXASPERAÇÃO DA BASILAR PARA AMBOS OS CRIMES. INCIDÊNCIA DA AGRAVANTE DO ART. 62, I, DO CP. DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. POSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. PRECEDENTES. CAUSA DE AUMENTO DO ART. 40, I, DA LEI N. 11.343/2006. APLICAÇÃO CONCOMITANTE. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. (..)
+IV - evidenciado que o recorrente exerceu papel de liderança na atividade criminosa - organizando e dirigindo a atividade dos demais agentes -, deve ser mantida inalterada a incidência da agravante prevista no art. 62, I, do CP, sendo certo que, para adotar conclusão diversa, seria necessário o revolvimento de matéria fático-probatória" (AgRg no AgRg no AREsp n. 1.863.470/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 28/3/2022) (..)
+Agravo regimental desprovido.
+(AgRg no HC n. 604.501/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Deste modo, restando demonstrado que o recorrente exerceu função de liderança na empreitada criminosa  organizando e coordenando a atuação dos demais envolvidos  , impõe-se a manutenção da agravante prevista no art. 62, I, do Código Penal.
+Vale notar que não é possível extrair do dispositivo legal a interpretação suscitada pela defesa, no sentido de que a agravante apenas se aplicaria na hipótese de atividade criminosa complexa. O intento da agravante é punir com mais rigor aquele que planeja e direciona a atividade ilícita, ou seja, o mentor do crime, independentemente de haver uma repartição simples ou complexa de tarefas.
+Assim, no caso concreto, restou demonstrado que o réu exerceu função de liderança na empreitad a criminosa, tendo em vista que ficou comprovado nos autos que este era dono das mercadorias proibidas e transportou os produtos por meio de seu veículo, contratando o corréu para tarefa específica, não havendo ilegalidade na imposição da agravante.
+Ademais, ressalte-se que a adoção de entendimento diverso demandaria o reexame do conjunto fático-probatório dos autos, providência vedada na instância especial." (AgRg no AgRg no AREsp n. 1.863.470/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 28/3/2022)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
