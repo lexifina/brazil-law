@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ELI PEIXOTO ACOSTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E ESTÉTICOS. DISPAROS INTENCIONAIS DE ARMA DE FOGO. NECESSIDADE DE TRATAMENTO CIRÚRGICO. DANO MORAL E ESTÉTICO CONFIGURADOS. PRESENÇA DE CICATRIZES E PROJÉTEIS ALOJADOS. DUPLA APELAÇÃO. APELAÇÃO DA PARTE RÉ DESPROVIDA. APELAÇÃO DO AUTOR PARCIALMENTE PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I, do Código de Processo Civil, no que concerne à ausência de demonstração dos danos morais e estéticos alegadados pelo recorrido, trazendo a seguinte argumentação:
+Deveras, completamente descabida a condenação ao adimplemento de Indenização por Danos Moral e Estético; pois se diga: por tudo, não há Lesão Imaterial alguma caracterizada ou configurada no caso concreto, quiçá, uma confusão entre os conceitos dos ditos Prejuízos (artigo 5º, V e X, da CF/88 e artigos 186, 187 e 927 do CC/02), justamente pelo todo supra e retro exposto, qual seja, a inexistência de Responsabilidade Civil por parte do peticionante:
+ ..
+Nesse sentido, os Danos Moral e Estético tão apenas dão-se quando efetiva e prejudicialmente ocorre o injusto Sofrimento Moral e Psicológico Humano, o que, diga- se de passagem, é extremamente subjetivo, e difícil de ser comprovado, até porque, jamais o autor fora humilhado, depreciado, destratado, etc. como, utopicamente, quer fazer crer a parte, causadora dos embates havidos entre os litigantes:
+ ..
+Portanto, não tendo o recorrente dado Azo à Prejuízo algum ao recorrente (Moral ou Estético), com certeza, totalmente isento o peticionante de Culpa, não havendo em Indenização qualquer e devendo ser reformada por inteiro o Julgado recorrido, em razão da Violação do artigo 373, I, do CPC/15, pelo motivos supra delineados; assim, afastando a condenação do recorrente e consagrando a improcedência da Pretensão. (fls. 424-427).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Assim, em que pesem os argumento da ré, à toda evidência, configurado está o dano moral in re ipsa, o qual decorre da própria lesão à integridade física da parte autora, bem demonstrada no auto de Exame de Corpo de Delito (evento 3, PROCJUDIC1, pgs. 34/35), realizado em 20/07/2011, e no Auto de Exame Complementar de Lesões Corporais, realizado em 18/11/2011 (evento 3, PROCJUDIC1, pg. 38). Nesse sentido, cito julgados deste e. Tribunal de Justiça de casos análogos, sic:
+ ..
+Diante de tais considerações, conclui-se que restam devidamente caracterizados os danos morais.
+Sendo assim, não prospera a irresignação recursal da parte ré, no sentido de que em nada contribuiu para a origem dos ditos infortúnios, supostamente sofridos pelo autor e que não há lesão imaterial alguma caracterizada ou configurada no caso concreto, pois contrasta, flagrantemente, com a prova produzida na demanda, acima transcrita, estando bem demonstrada a prática do ato ilícito, o dano moral e o nexo causal.
+ ..
+No caso em apreço, o fato ocorreu em 29 de maio de 2011. Imperioso colacionar, por oportuno o Auto de Exame de Corpo de Delito (evento 3, PROCJUDIC1, pgs. 34/35), realizado em 20/07/2011, que dá conta das lesões, ad litteram:
+ ..
+Como bem se observa, do fato resultaram ao menos cicatrizes, merecendo destaque a referida na região abdominal, medindo 28,5 cm, bem como a resposta ao quesito de nº 04, no sentido de que do fato resultou incapacidade para as ocupações habituais por mais de trinta dias.
+Já no Auto de Exame Complementar de Lesões Corporais, realizado em 18/11/2011 ( evento 3, PROCJUDIC1, pg. 38), consta que as cicatrizes descritas no exame anterior se encontram consolidadas e que o autor apresenta limitação na flexão do 4º dedo direito e na flexo-extensão do 5º dedo direito, expressis verbis:
+ ..
+Registro, ainda, que o autor se submeteu a outros dois exames complementares em 16/05/2012 (evento 3, PROCJUDIC1, pg. 42) e 17/09/2012 ( evento 3, PROCJUDIC1, pg. 43), contudo os quesitos sexto e sétimos seguiram sem resposta, dependendo de novos exames complementares em 120 dias.
+Acompanha a petição inicial, ainda, a interpretação médica de um exame de imagem ( evento 3, PROCJUDIC1, pg. 40), no sentido de que, na região infra-clavicular direita, há projétil de arma de foro e fragmentos metálicos, o que corrobora o depoimento pessoal prestado pelo autor, no sentido de que ficou com projéteis alojados.
+Após o ajuizamento da ação, foi juntada, também, a nota de alta do autor do Hospital Universitário São Francisco de Paula, ocorrida em 14/03/2013, dando conta da realização de hernioplastia incisional com colocação de tela de marlex, em razão de hernia incisional (evento 3, PROCJUDIC2, pgs. 15/16).
+ ..
+Como bem se verifica, os documentos referidos demonstram a extensão das lesões suportadas pelo autor causadas pelos disparos, os quais deixaram cicatrizes consolidadas, bem como projéteis alojados no corpo do autor, alterando o seu aspecto normal e anterior, elemento caracterizador do dano estético.
+ ..
+Tenho, portanto, que estão configurados os danos estéticos, sendo o caso de reforma da sentença, no tópico. (fls. 374-381).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
