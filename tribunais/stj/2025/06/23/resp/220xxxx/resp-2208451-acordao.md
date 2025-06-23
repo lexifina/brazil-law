@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVI E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que afastou a condenação ao pagamento de indenização por danos morais em ação de obrigação de fazer cumulada com indenização por danos morais, envolvendo plano de saúde e negativa de cobertura para procedimento cirúrgico.
+2. A sentença de primeiro grau condenou a operadora de saúde ao pagamento de danos materiais e morais, mas o Tribunal de Justiça reformou parcialmente a sentença, afastando a condenação por danos morais, por entender que a negativa de cobertura não se deu em situação de emergência e tampouco foi elemento impeditivo para a realização da cirurgia eletiva, caracterizando, portanto, um mero inadimplemento contratual.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a negativa de cobertura por parte da operadora de saúde, em caso de procedimento cirúrgico autorizado, enseja reparação por danos morais, considerando a ausência de agravamento da condição de saúde do paciente.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que o descumprimento contratual por parte da operadora de saúde, que resulta em negativa de cobertura, somente enseja reparação por danos morais em situações de emergência ou quando há agravamento da condição de dor, abalo psicológico ou prejuízos à saúde do paciente.
+5. No caso concreto, a Corte Estadual concluiu que a negativa de cobertura não gerou preocupação, angústia ou sofrimento que ultrapassasse o mero aborrecimento, não havendo, portanto, fundamento para a indenização por danos morais.
+6. A reforma do julgado é inviável ante o óbice das Súmulas 7 e 83 do STJ, que impedem o reexame de provas e a revisão de entendimento consolidado.
+IV. Dispositivo
+7. Recurso não conhecido.
+RELATÓRIO
+Trata-se de Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MORAIS Plano de Saúde Autor que ajuizou a ação visando o reembolso dos valores cobrados pelo hospital em que realizou procedimento cirúrgico de artroscopia para tratamento de artrose em um de seus ombros, devidamente autorizado pela Operadora de Saúde ré, além do reembolso integral das despesas relativas à fisioterapia pós-operatória e reparação de danos morais Sentença de procedência para condenar a requerida ao pagamento de danos materiais no valor de R$ 10.776,26, referente aos materiais cirúrgicos indispensáveis para a realização da artroscopia e à diferença não reembolsada pelas sessões de fisioterapia pós-operatória, além do pagamento de danos morais no valor de R$ 10.000,00, ambos devidamente atualizados e acrescidos de juros legais Irresignação da Operadora de Saúde ré Parcial acolhimento Aplicação das regras do CDC Hipótese em que foi regularmente autorizada a realização do procedimento cirúrgico prescrito ao autor, inclusive em relação aos materiais especiais Negativa de cobertura posteriormente apresentada ao nosocômio que não pode ser admitida Aplicabilidade da Súmula 102 deste E. TJSP Cláusula contratual que disciplina o reembolso dos procedimentos de livre escolha que é obscura e se utiliza de índices unilaterais não especificados Ré que não demonstrou como chegou ao valor restituído, existindo afronta ao dever de informação, previsto no CDC Reembolso integral mantido Negativa parcial de cobertura que, todavia, não é suficiente para caracterizar efetivo abalo moral Caracterizada existência de mero inadimplemento contratual Ausência de prova de eventual violação à direitos de personalidade Sentença reformada em parte, para afastar a condenação ao pagamento de indenização por dano moral Fixação de sucumbência parcial Recurso parcialmente provido.
+O recorrente alega violação aos artigos 187 e 927 do Código Civil e ao artigo 14 do CDC, além de divergência jurisprudencial com outros tribunais buscando o reestabelecimento da condenação por danos morais e a majoração dos honorários advocatícios (e-STJ, fls. 318-330)
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ, fls. 347-365).
+É o relatório.
+EMENTA
+DIREITO CIVI E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que afastou a condenação ao pagamento de indenização por danos morais em ação de obrigação de fazer cumulada com indenização por danos morais, envolvendo plano de saúde e negativa de cobertura para procedimento cirúrgico.
+2. A sentença de primeiro grau condenou a operadora de saúde ao pagamento de danos materiais e morais, mas o Tribunal de Justiça reformou parcialmente a sentença, afastando a condenação por danos morais, por entender que a negativa de cobertura não se deu em situação de emergência e tampouco foi elemento impeditivo para a realização da cirurgia eletiva, caracterizando, portanto, um mero inadimplemento contratual.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a negativa de cobertura por parte da operadora de saúde, em caso de procedimento cirúrgico autorizado, enseja reparação por danos morais, considerando a ausência de agravamento da condição de saúde do paciente.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que o descumprimento contratual por parte da operadora de saúde, que resulta em negativa de cobertura, somente enseja reparação por danos morais em situações de emergência ou quando há agravamento da condição de dor, abalo psicológico ou prejuízos à saúde do paciente.
+5. No caso concreto, a Corte Estadual concluiu que a negativa de cobertura não gerou preocupação, angústia ou sofrimento que ultrapassasse o mero aborrecimento, não havendo, portanto, fundamento para a indenização por danos morais.
+6. A reforma do julgado é inviável ante o óbice das Súmulas 7 e 83 do STJ, que impedem o reexame de provas e a revisão de entendimento consolidado.
+IV. Dispositivo
+7. Recurso não conhecido.
+VOTO
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, a e c, da Constituição Federal).
+Entretanto, o recurso não merece ser conhecido.
+Cito trechos do acórdão recorrido, necessários ao deslinde da controvérsia (e-STJ, fl. 310):
+"Os danos morais, no entanto, não restaram caracterizados. Houve mero inadimplemento contratual e o descumprimento do contrato, por si só, não gera dano moral. Não se discute que a negativa da ré pode ter causado certos dissabores e aborrecimentos ao autor, mas não restou comprovado que seu estado de saúde tenha se agravado em razão do ocorrido, até porque o tratamento foi realizado e após o envio da cobrança pelo Hospital, o valor remanescente foi prontamente adimplido pelo autor.
+Assim, eventuais constrangimentos experimentados, quando da negativa ou do envio da cobrança pelo Hospital, não caracterizam a dor moral grave que justifica uma condenação pecuniária com caráter indenizatório.
+Em casos de plano de saúde, tem sido reconhecido o direito do titular, cuja cobertura foi negada, ao ressarcimento de danos morais, quando se verificar que a recusa foi capaz de trazer sofrimento, angústia ou dor. Mas a hipótese não é de dano "in re ipsa", de sorte que a negativa, por si só, não é capaz de gerar direito à indenização, sendo necessário que se verifique, no caso concreto, que dela resultou, de fato, preocupação, angústia ou sofrimento, que ultrapassa o limite do mero aborrecimento, o que não restou evidenciado no caso vertente. "
+Quanto ao tema, verifica-se que a jurisprudência do STJ tem se inclinado no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente". (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+Nesse mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. CUSTEIO DO EXAME DENOMINADO PET-CT. DANOS MORAIS IN RE IPSA. NÃO CABIMENTO. MANUTENÇÃO DO ACÓRDÃO. NON REFORMATIO IN PEJUS. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. HONORÁRIOS. BASE DE CÁLCULO. CONDENAÇÃO COMPLETA. ASTREINTES. NÃO INCLUSÃO NA BASE DE CÁLCULO DOS HONORÁRIOS.
+1. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente". (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+2. Como não houve recurso interposto pela operadora de plano de saúde, não é o caso de afastar os danos morais fixados na origem, sob pena de reformatio in pejus.
+3. A pretendida majoração do quantum indenizatório demandaria o reexame das provas dos autos, o que encontra óbice na Súmula 7/STJ.
+4. As astreintes constituem apenas meio de coerção indireta ao cumprimento do julgado, não ostentando natureza condenatória. Não integram, portanto, a base de cálculo dos honorários advocatícios sucumbenciais. Precedentes.
+Recurso especial conhecido em parte e parcialmente provido.
+(REsp n. 1.882.584/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+Assim, não sendo caso de recusa de cobertura em atendimento de emergência e tendo a Corte Estadual, nesse ponto, consignado que " (..) a negativa, por si só, não é capaz de gerar dir eito à indenização, sendo necessário que se verifique, no caso concreto, que dela resultou, de fato, preocupação, angústia ou sofrimento, que ultrapassa o limite do mero aborrecimento, o que não restou evidenciado no caso vertente", inviável se reformar o julgado ante o óbice das Súmulas 7 e 83 do STJ.
+Corolário desse entendimento, a inviabilidade da pretendida majoração dos ônus sucumbenciais em desvafor da recorrido.
+Manifesto meu voto, portanto, pelo não conhecimento do presente recurso especial.
+Majoro os honorários advocatícios, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiçaos honorários sucumbenciais.
+É como voto.
