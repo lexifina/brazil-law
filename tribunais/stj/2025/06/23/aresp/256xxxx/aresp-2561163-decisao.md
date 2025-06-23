@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por GEAP AUTOGESTAO EM SAUDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 608-609):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DE CONHECIMENTO. PRELIMINARES DE AUSÊNCIA DE DIALETICIDADE RECURSAL E FALTA DE INTERESSE DE AGIR. REJEIÇÃO. PLANO DE SAÚDE DE AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. DESNUTRIÇÃO E SARCOPENIA GRAVES. TERAPIA NUTRICIONAL PARENTERAL EM REGIME AMBULATORIAL. TRATAMENTO NA FORMA INDICADA PELO MÉDICO ASSISTENTE. AUSÊNCIA DE CLÍNICIA/HOSPITAL OU PROFISSIONAL DE SAÚDE NA REDE CREDENCIADA. RN DA ANS Nº 259/11. REEMBOLSO INTEGRAL. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. INAPLICABILIDADE. ARBITRAMENTO CONSOANTE O DISPOSTO NO ART. 85, §§ 2º E 6º, DO CPC. SENTENÇA MANTIDA. 1. Se a parte apresentou fundamentos que se contrapõem ao que foi decidido na sentença recorrida, mostra-se cumprido o requisito do art. 1.010, inciso III, do CPC. 2. Não há de se falar em ausência de interesse recursal, se a irresignação da parte recorrente é justamente a obrigação de custear o tratamento nos moldes requeridos pelo apelado. 3. De acordo com a RN da ANS nº 259/11, na falta de prestador credenciado, o plano de saúde é obrigado a reembolsar integralmente o valor do tratamento, independentemente de limite ou teto. 4. Não tendo o plano de saúde comprovado que possui em sua rede credenciada, clínica/hospital ou profissional de saúde aptos a realizar a terapia nutricional parenteral, em regime ambulatorial, deve ser mantida a sentença que determinou que a seguradora autorize e custeie o tratamento solicitado pelo médico do segurado, conforme relatório, em instituição credenciada ou em estabelecimento escolhido pelo beneficiário, caso a rede oferecida pelo plano de saúde seja inexistente ou insuficiente. (e-STJ Fl.608) 5. O art. 85, § 2º, do CPC, dispõe que os honorários serão fixados entre o mínimo de dez por cento (10%) e o máximo de vinte por cento (20%) sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. 6. O critério da equidade, conforme previsto no art. 85, § 8º, do CPC, tem aplicação apenas nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo. 7. Diante da existência de uma das bases de cálculo previstas no art. 85, § 2º, do CPC, os honorários advocatícios não devem ser fixados com base na apreciação equitativa, e sim nos parâmetros definidos no art. 85, § 2º, do CPC. 8. Apelo não provido
+Rejeitados os embargos de declaração opostos (fls. 662-677).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 12, VI, da Lei n. 9.656/98 e 421 do Código Civil.
+Sustenta, em síntese, dispor de prestador credenciado apto a realizar o tratamento pleiteado, afastando o dever de custeio integral fora da rede. Afirma que o acórdão amplia indevidamente a cobertura contratual, impondo ônus excessivo e violando a função social do contrato.
+Foram oferecidas contrarrazões ao recurso especial (fls. 733-748).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 751-754), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 774-790).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro que (fls. 611-612 ):
+Da análise dos autos, observa-se que não houve recusa por parte do plano de saúde em autorizar o tratamento prescrito ao segurado. Por outro lado, a GEAP não comprovou possuir em sua rede credenciada, clínica/hospital ou profissional de saúde que realizasse a terapia nutricional parenteral em acesso venoso em PICC, em regime ambulatorial.
+ ..
+Conclui-se, portanto, que o Hospital Brasília, prestador de serviço da rede credenciada da GEAP, não oferece o tratamento em ambiente ambulatorial, conforme recomendado pelo médico assistente, tendo acordado em fornecer o referido procedimento apenas de forma excepcional, na modalidade de "day clinic".
+De acordo com a RN da ANS nº 259/11, na falta de prestador credenciado, o plano de saúde é obrigado a reembolsar integralmente o valor do tratamento, independentemente de limite ou teto. Confira-se o que dispõe o art. 4º, sobre a ausência ou inexistência de prestador credenciado: (gn.)
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+No mérito, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. Alterar o decidido no acórdão, no que tange à falta de prestador credenciado apto a realizar o serviço, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES REALIZADAS FORA DA REDE CREDENCIADA. INEXISTÊNCIA DE ESTABELECIMENTO CREDENCIADO. CABIMENTO.
+1. Em se tratando de serviços de cobertura obrigatória prescritos pelo médico assistente, é devido, excepcionalmente, o reembolso integral das despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada da operadora de plano de saúde, na ausência de serviços próprios, contratados, credenciados ou referenciados na localidade.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.007.365/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA DE PRESTADOR CREDENCIADO APTO A REALIZAR O SERVIÇO. REEMBOLSO INTEGRAL. SÚMULA N. 83/STJ. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
