@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIAS SOUSA FURTADO e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de violação dos arts. 176 e 178 do CPC, 279 do CPC e 25 da Lei n. 8.625/1993, na incidência da Súmula n. 7 do STJ, em não ter sido realizado o cotejo analítico e em não ter sido demonstrada a divergência jurisprudencial (fls. 476-478).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo de instrumento é improcedente, pois não há demonstração eficaz sobre a necessária superação dos requisitos exigidos para interposição do recurso especial, ficando o agravo limitado ao revolvimento das razões já apresentadas no decorrer do feito (fls. 501-504).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação reivindicatória.
+O julgado foi assim ementado (fls. 412-415):
+AÇÃO REIVINDICATÓRIA - PRELIMINARES REJEITADAS - DOMÍNIO DA AUTORA PLENAMENTE COMPROVADO - POSSE INJUSTA DOS RÉUS - BENFEITORIAS NÃO COMPROVADAS - TAXA DE OCUPAÇÃO MAJORADA - SENTENÇA PARCIALMENTE REFORMADA - RECURSO DA AUTORA PROVIDO - APELO DOS RÉUS IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 433-435).
+No recurso especial (fls. 437-451), a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 176, 178, II, 279, § 1º, do CPC, pois não houve intimação do Ministério Público para intervir no processo, resultando em nulidade absoluta das decisões;
+b) 124 do CPC, visto que foi indeferida a intervenção litisconsorcial dos filhos incapazes dos recorrentes, violando o direito à ampla defesa; e
+c) 1.196, 1.200, 1.201, 1.204, 1.205, I, 1.206, 1.207, 1.208, 1.209, 1.210, 1.211 e 1.212 do Código Civil, porquanto os direitos possessórios dos recorrentes foram arbitrariamente frustrados.
+Requer o provimento do recurso para que se declare a nulidade das decisões recorridas e se determine o retorno do processo ao Tribunal de origem para novas decisões.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é inadmissível, pois não há demonstração de violação das normas federais invocadas, e que o agravo de instrumento é improcedente, devendo ser mantida a decisão que não admitiu o recurso especial (fls. 473-475).
+É o relatório. Decido.
+Na origem, trata-se de apelação cível e recurso adesivo relacionados a uma ação reivindicatória, envolvendo Elias Souza Furtado, Regina Maria Gonçalves de Barros e Luzimar dos Reis Cardoso, na Comarca de São Paulo.
+A ação foi movida para reconhecer a nulidade de um compromisso verbal de compra e venda de um imóvel, deferindo a imissão da autora, ora agravada, na posse do bem, com devolução dos valores pagos pelos adquirentes e fixação de uma taxa de ocupação a ser paga pelos réus.
+Os réus, ora agravantes, por sua vez, insurgiram-se contra a sentença, alegando nulidade por falta de apreciação das preliminares e indeferimento da intervenção de terceiros, além de sustentarem que são possuidores de boa-fé e que o contrato verbal firmado com a genitora da requerente é válido.
+Ao julgar os recursos, o Tribunal de origem decidiu deferir o provimento ao recurso da autora e negar provimento ao apelo dos réus.
+O acórdão fundamentou-se na comprovação do domínio da autora sobre o imóvel, considerando a posse dos réus como injusta, uma vez que não detinham título de propriedade. Além disso, o Tribunal de origem rejeitou o pedido de indenização por benfeitorias, pois não houve pedido reconvencional e nem descrição pormenorizada das supostas construções e melhorias realizadas pelos réus. A taxa de ocupação foi majorada de 0,5% para 1% do valor do contrato, considerando-a irrisória para indenizar a proprietária pelo longo período de ocupação indevida.
+Nesse contexto, a sentença original foi parcialmente reformada, mantendo-se a decisão de imissão na posse do imóvel em favor da autora e a majoração da taxa de ocupação.
+No tocante à suscitada violação dos arts. 124, 176, 178, II, 279, § 1º, do CPC (itens a e b), o Tribunal de origem fundamentou que inexiste nulidade na sentença em relação à intervenção do Ministério Público, pois as preliminares arguidas em contestação foram devidamente apreciadas e afastadas pela decisão saneadora, bem como que o pleito de intervenção de terceiros foi corretamente rejeitado, já que os filhos do apelante não detêm relação alguma com a matéria tratada nos autos, que é relativa a contrato e obrigações dele decorrentes.
+Todavia, os referidos fundamentos não foram devidamente impugnados, atraindo, portanto o óbice da Súmula n. 283 do STF.
+Cito, pois, os seguintes julgados: AgInt no AREsp n. 2.277.330/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/5/2025, DJEN de 23/5/2025 e AREsp n. 2.777.450/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.
+Quanto à alegada violação dos arts. 1.196, 1.200, 1.201, 1.204, 1.205, I, 1.206, 1.207, 1.208, 1.209, 1.210, 1.211 e 1.212 do Código Civil, infere-se do acórdão recorrido que a posse dos réus foi considerada injusta por não possuírem título de propriedade e que o direito à indenização por benfeitorias restou prejudicado porque não houve pedido reconvencional nem descrição detalhada das supostas construções e melhorias.
+Nesse contexto, não é possível analisar a alegação de os direitos possessórios dos recorrentes foram arbitrariamente frustrados, porquanto para alterar o entendimento do acórdão, seria necessário reexaminar fatos e provas, o que é vedado pela Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. CONTESTAÇÃO. TEMPESTIVIDADE. REANÁLISE. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO NÃO PROVIDO. (AgInt no AREsp n. 1.863.161/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTESTAÇÃO. TEMPESTIVIDADE. REEXAME DE PROVA. SÚMULA Nº 7/STJ.
+1. Para rever a conclusão do tribunal de origem de que a contestação da agravada foi tempestiva seria necessário reexaminar os elementos fático-probatórios dos autos, o que se mostra inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido. (AgRg no AREsp n. 569.723/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe de 3/3/2015.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios, em favor da parte ora recorrida, em mais 20% sobre o valor arbitrado, ressalvada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
