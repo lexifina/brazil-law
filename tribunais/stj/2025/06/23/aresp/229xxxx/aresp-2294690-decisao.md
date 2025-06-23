@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por RONALDO WILSON PASSOS CAVALARI contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0267992-59.2018.8.19.0001.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo e parcial provimento do recurso especial com extensão aos demais corréus (fls. 1.284/1.307).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre, pois, em relação aos arts. 3 68 e 439, c e e, ambos do CPPM e 226 do CPP e 81, § 1º, do CPM, o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula 83/STJ). Ainda, que não houve violação ao art. 619 do CPP, pois a matéria foi debatida no acórdão recorrido.
+Todavia, quanto ao óbice da Súmula 83/STJ, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça. Ademais, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos.
+A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. A propósito: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Nesse sentido: AgRg no AREsp n. 2.211.864/PR, da minha relatoria, Sexta Turma, julgado em 17/4/2023, DJe 20/4/2023; e AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Por fim, esta Corte Superior de Justiça possui entendimento no sentido de que a Súmula n. 83 do STJ se aplica tanto ao recurso especial fundado na alínea "c" quanto na "a", ambas do permissivo constitucional (AgRg no AgRg no AREsp n. 1.600.882/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/5/2023).
+Ademais, deixou de impugnar, de maneira suficiente, o óbice no sentido de que as matérias foram apreciadas pelo Tribunal de origem, não havendo violação do art. 619 do CPP, pois deixou de trazer os trechos de suas alegações na origem e do acórdão recorrido demonstrando essa alegada omissão.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
