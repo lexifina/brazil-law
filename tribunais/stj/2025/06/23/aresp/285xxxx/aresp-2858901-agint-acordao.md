@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Licenciado o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DANOS C/C PEDIDO LIMINAR. COMPRA E VENDA DE VEÍCULO. EXISTÊNCIA DO NEGÓCIO JURIDICO RECONHECIDA PELA CORTE DE ORIGEM. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROLDAN & TAVARES TRANSPORTES LTDA contra decisão monocrática desta Relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a agravante reitera a alegada violação ao art. 1.022, II, do CPC, sustentando que o acórdão recorrido foi omisso sobre a ausência de qualquer contato entre a recorrente e a METALÚRGICA SPILLERE e sobre a validade das declarações do 2º réu, JOÃO BATISTA, devendo aos autos retornarem ao egrégio TJ-SC para que realize novo julgamento da apelação.
+Ao final, requer a reconsideração da decisão agravada, ou sua reforma pela Turma Julgadora.
+Intimada, a parte agravada apresentou manifestação pleiteando a rejeição do agravo interno, com aplicação de multa à agravante de 1% (um por cento) a 10% (dez por cento), a título de litigância de má-fé, nos termos do art. 81 do CPC, em razão da reiterada interposição de recursos para fins meramente protelatórios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DANOS C/C PEDIDO LIMINAR. COMPRA E VENDA DE VEÍCULO. EXISTÊNCIA DO NEGÓCIO JURIDICO RECONHECIDA PELA CORTE DE ORIGEM. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Conforme constou na decisão agravada, no que se refere à tese de omissão sobre a ausência de qualquer contato entre a recorrente e a METALÚRGICA SPILLERE e validade das declarações do 2º réu, JOÃO BATISTA, à luz do art. 408, parágrafo único, do CPC, assim decidiu o TJ/SC:
+"Referida declaração consta que João teria, a pedido da ré, escolhido para compra o caminhão de propriedade da autora, e se comprometido, a pedido da ré, a buscar o veículo juntamente com motorista por ela contratado para levar o caminhão de Santa Catarina para o Rio Grande do Sul.
+Em e-mails trocados entre a primeira ré e o segundo réu, este teria, de fato, "intermediado" a negociação entre a autora e a primeira ré, pois ele lhe oferecera diversos caminhões para compra, tendo sido escolhido por ela o caminhão de propriedade da autora.
+Com efeito, não há dúvidas que a declaração firmada pelo segundo réu possui veracidade, corroborada com as demais provas juntadas aos autos.
+Não bastasse isso, nota-se que a ré, para contrapor os argumentos da autora, se limita a mencionar que o segundo réu não era seu preposto, o que, para o caso, a nomenclatura "preposto" ou a prova de sua existência não é suficiente para afastar a sua responsabilidade pelo infortúnio.
+É que, como visto, o segundo réu atuou como longa manus da ré apelante - substituindo- lhe na busca pelo veículo -, na medida em que, pelo desenrolar dos fatos, da relação existente entre eles, aquele se comprometeu a buscar o veículo e vistoria-lo - prática comum, ao que tudo indica -, o que leva a crer que a entrega foi combinada da maneira conforme mencionou João em sua declaração.
+O segundo réu, de fato, representou a segunda ré na negociação, desde a escolha do veículo até o comprometimento com a entrega do bem adquirido à apelante. Importante dizer que deve ser considerada, na verdade, a relação jurídica existente entre a autora e a ré apelante, pois a compra e venda do veículo se deu entre as duas e o fato de o veículo ter sido buscado por terceiro - a pedido da ré - não afasta as responsabilidades do negócio envolvendo vendedor e comprador.
+Outrossim, não é crível pensar que o segundo réu viria buscar o veículo sem que tivesse nenhuma relação direta com a segunda ré.
+Logo, uma vez entregue o veículo ao segundo e terceiro réus, a pedido da primeira ré apelante, a responsabilidade pelo bem passou a ser desta última, devendo arcar com as consequência dos danos causados ao veículo no trajeto até seu destino, bem como do inadimplemento do contrato." (e-STJ, fls. 687/688)
+E acrescentou, ao julgar os embargos de declaração:
+"A embargante argumentou que houve omissão no acórdão objurgado, vez que não fora examinada questão atinente à ausência de prova da negociação entre a embargada e a embargante e à validade das declarações de João Batista Pessota.
+Consta do acórdão embargado que restou firmada por João Batista Martins Pessota, escritura pública declaratória, da qual consta que este teria, a pedido da ré, escolhido para compra o caminhão de propriedade da autora, e se comprometido, a pedido da demandada, a buscar o veículo juntamente com motorista por ela contratado para levar o caminhão de Santa Catarina para o Rio Grande do Sul.
+Ainda, que em e-mails trocados entre a primeira ré e o segundo réu, este teria, de fato, "intermediado" a negociação entre a autora e a primeira ré, pois ele lhe oferecera diversos caminhões para compra, tendo sido escolhido por ela o caminhão de propriedade da autora, sendo que, não há dúvidas que a declaração firmada pelo segundo réu possui veracidade, corroborada com as demais provas juntadas aos autos." (e-STJ, fl. 779)
+Como visto, a Corte de origem consignou expressamente que, diante das provas dos autos, não há dúvidas de que a declaração firmada pelo segundo réu possui veracidade, e de que ele representou a segunda ré na negociação.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO EVIDENCIADA. ALEGAÇÃO DE BEM DE FAMÍLIA NÃO ANALISADA. JUNTADA DE DOCUMENTOS. IMPOSSIBILIDADE. PRECLUSÃO DA MATÉRIA. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+(..)
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.047.817/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE LOTE. RESCISÃO CONTRATUAL. DESISTÊNCIA DOS COMPRADORES. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 11, 489, 1.022 E 1.025 DO CPC/2015. COMPETÊNCIA. DOMICÍLIO DOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO . INEXISTÊNCIA. SÚMULA N. 182/STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 11, 489, 1.022 e 1.025 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.2. Tratando- se de relação consumerista, a competência territorial é absoluta, sendo facultado à parte autora escolher ajuizar a demanda no local em que melhor possa deduzir sua defesa, optando entre seu foro de domicílio, no de domicílio do réu, no do local de cumprimento da obrigação, ou no foro de eleição contratual, caso exista. Contudo, está vedada e eleição de foro aleatório. Precedentes.
+(..) 5. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no AREsp n. 2.718.480/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INFECÇÃO HOSPITALAR. MORTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. PROVA PERICIAL. NEXO DE CAUSALIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. DANOS MORAIS. VALOR. REVISÃO. IMPOSSIBILIDADE. PENSÃO MENSAL. QUANTIA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. TERMO FINAL. FILHOS DA VÍTIMA.25 ANOS DE IDADE. JUROS MORATÓRIOS. SELIC. PRECLUSÃO. MATÉRIA DECIDIDA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+(..)
+8. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.652.788/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de multa por litigância de má-fé, pois "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+Contudo, o presente agravo interno não apresenta tais características.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
