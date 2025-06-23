@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JHONATAN DOS ANJOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls 17-26.
+No presente writ, sustenta a defesa que há excesso de prazo para o encerramento da instrução processual, uma vez que o processo se encontra concluso para sentença desde 18/07/2024, sem previsão de julgamento, em feito de pouca complexidade, por suposto delito praticado sem violência ou grave ameaça, onde os entorpecentes apreendidos não são de quantidade tão elevada.
+Afirma que a prisão preventiva foi decretada com base na gravidade abstrata da conduta delitiva, pois o juízo de piso citou a quantidade de drogas apreendidas como indicativo de risco à garantia da ordem pública, sem que existam fatos novos que justifiquem a manutenção da prisão do paciente.
+Alega que o paciente é primário, não faz parte de organização criminosa, e não há comprovação de tráfico de drogas interestadual.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 320-321.
+As informações foram prestadas às fls. 333-336, 337-345 e 346-354. O  Ministério  Público  Federal,  às  fls.  356-361,  manifestou pela denegação da ordem.
+É  o  relatório. DECIDO.
+A análise da decisão que decreto a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida: 03 kg (três) quilos- fl. 04, circunstâncias aptas a ensejarem a manutenção da segregação cautelar.
+A propósito :
+"A jurisprudência desta Corte sustenta a manutenção da prisão preventiva em casos de grande quantidade de drogas e risco à ordem pública"(RHC n. 192.177/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 25/11/2024.)
+"A exorbitante quantidade de droga apreendida em poder do agente evidencia a gravidade concreta da conduta e se revela como motivo idôneo e apto a embasar o decreto prisional"(AgRg no RHC n. 200.130/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no HC n. 954.171/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024; (AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024; AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Em relação a alegação de excesso de prazo na formação a culpa, na linha dos precedentes desta Corte, outra não é a conclusão a que se chega senão a de que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+In casu, extrai-se das informações colhidas que a instrução criminal já se encerrou e que o feito encontra-se concluso para julgamento, incidindo no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ilustrativamente:
+"consignou-se no aresto impugnado que a audiência de instrução e julgamento foi realizada e que os autos aguardam a apresentação das alegações finais da defesa e do Parquet, a atrair a incidência o enunciado sumular n. 52 desta Corte Superior de Justiça"(AgRg no HC n. 888.960/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.).
+"No caso, os autos encontram-se em fase de alegação final, de modo que incide ao caso o enunciado nº 52 da Súmula desta Corte, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".(AgRg no RHC n. 176.365/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+Nesse mesmo sentido: (AgRg no HC n. 796.125/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 6/3/2023); (AgRg no HC n. 756.005/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023);(AgRg no HC n. 922.872/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Ante o exposto, denego o habeas corpus. Expeça-se, contudo, recomendação ao Juízo de origem para que imprima maior celeridade possivel no julgamento da sentença.
+Publique-se. Intimem-se.
+EMENTA
