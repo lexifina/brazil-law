@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE AQUISIÇÃO DE COTAS EM EMPREENDIMENTO HOTELEIRO. RESOLUÇÃO POR CULPA DO CONTRATANTE. VALORES PAGOS. CLÁUSULA PENAL. PERDA DE 25%. DISPOSIÇÃO EXPRESSA. FUNDAMENTAÇÃO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  C DESIGN HOTEL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e OUTROS  ao  acórdão  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO DE AQUISIÇÃO DE COTAS EM EMPREENDIMENTO HOTELEIRO. RESOLUÇÃO POR CULPA DO CONTRATANTE. VALORES PAGOS. CLÁUSULA PENAL. PERDA DE 25%. DISPOSIÇÃO EXPRESSA. FUNDAMENTAÇÃO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. DISSÍDIO NÃO COMPROVADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A conclusão adotada pelas instâncias ordinárias não está fundada na aplicação de normas consumeristas, tampouco na atribuição de culpa à construtora, mas na existência de cláusula penal com prefixação de perdas e danos em caso de resolução do contrato por culpa do contratante.
+3. Havendo expressa disposição contratual estabelecendo a retenção de 25% (vinte e cinco por cento) dos valores pagos para a hipótese de resolução do contrato por culpa do contratante, não poderiam as contratadas exigir que a retenção se operasse em percentual diverso, desrespeitando o que foi pactuado entre as partes, independentemente do regime de construção adotado.
+4. A ausência de impugnação de fundamentos suficientes do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+5. Nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a indicação de divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Agravo interno não provido."
+Em  suas  razões  (e-STJ  fls.  740-747),  os  embargantes  reiteram o seu inconformismo, alegando que não incide, na espécie, o óbice da Súmula nº 284/STF.
+Insistem na tese de que
+"(..) havendo inadimplemento contratual por parte do promitente-comprador, a Lei nº 4.591/64 prevê a possibilidade de o incorporador promover o leilão extrajudicial da cota parte do adquirente inadimplente, para pagamento das despesas da incorporação e, se houver saldo, procederá à restituição, tal como preceituam as regras da Lei nº 4.591/64 em especial o art. 63, §§ 1º a 4º da aludida, o que deixou de ser analisado em sua integralidade e por isso se pede nova reapreciação" (e-STJ fl. 743).
+Aduzem, ainda, que o acórdão embargado é omisso quanto à inaplicabilidade, ao caso, das Súmulas nºs 5 e 7/STJ, visto que a mora da adquirente e sua intenção de desfazer o negócio por ausência de recursos financeiros são fatos incontroversos.
+Ao final, requerem o acolhimento dos embargos de declaração, com efeitos infringentes, para que sejam supridas as omissões neles indicadas.
+Devidamente  intimada,  a  parte  contrária  não apresentou  impugnação  aos  aclaratórios  (e-STJ  fl.  751).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE AQUISIÇÃO DE COTAS EM EMPREENDIMENTO HOTELEIRO. RESOLUÇÃO POR CULPA DO CONTRATANTE. VALORES PAGOS. CLÁUSULA PENAL. PERDA DE 25%. DISPOSIÇÃO EXPRESSA. FUNDAMENTAÇÃO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  o  acórdão  embargado  deixou suficientemente claro que a conclusão adotada pelas instâncias ordinárias não está fundada na aplicação de normas consumeristas, tampouco na atribuição de culpa à construtora, mas na existência de cláusula penal com prefixação de perdas e danos em caso de resolução do contrato por culpa do contratante, e que tal fundamento não foi nem sequer impugnado nas razões do apelo extremo, a atrair o óbice da Súmula nº 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nota-se, a propósito, que as razões dos aclaratórios são incompreensíveis na parte que sustentam a inaplicabilidade das Súmulas nºs 5 e 7/STJ e nº 284/STF, visto que tais óbices não foram nem sequer aventados no acórdão embargado.
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
