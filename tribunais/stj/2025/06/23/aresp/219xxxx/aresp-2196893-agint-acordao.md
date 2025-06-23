@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CUMPRIMENTO DE SENTENÇA. PROCESSO FALIMENTAR. MASSA FALIDA. LEGITIMADA EXTRAORDINÁRIA. ÍNDICE DE CORREÇÃO MONETÁRIA. ALTERAÇÃO. NEGATIVA. JUROS DE MORA. AFASTAMENTO NEGADO. EXCESSO DE EXECUÇÃO NÃO CONSTATADO. REGIME FALIMENTAR. APLICAÇÃO INVIABILIZADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Na hipótese, rever a conclusão do acórdão recorrido de que o regime jurídico falimentar não se aplica às agravantes, por se tratar de cumprimento de sentença proposto por consumidores, demandaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GP CAPITAL PARTNERS V, LPe outra, contra a decisão de e-STJ fls. 974/976, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento em razão da incidência da Súmula nº 211/STJ e por entender que não houve deficiência na prestação jurisdicional na espécie.
+Em suas razões (e-STJ fls. 980/992), as agravantes sustentam que o acórdão recorrido distorceu o conteúdo da sentença e violou a coisa julgada ao atribuir-lhes a obrigação de pagar diretamente aos consumidores, quando a condenação original determinava apenas o ressarcimento à massa falida.
+Alegam que a decisão conferiu ao processo um caráter de execução coletiva inexistente no título executivo e impôs obrigações distintas daquelas fixadas para a Massa, em afronta à coisa julgada e aos arts. 502, 503 e 505 do CPC.
+Afirmam ainda que, embora a responsabilidade tenha decorrido da desconsideração da personalidade jurídica com base na teoria menor, o acórdão impôs obrigação autônoma às agravantes frente aos consumidores, em desacordo com o art. 28 do CDC.
+A parte contrária apresentou impugnação (e-STJ fls. 996/1.010).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CUMPRIMENTO DE SENTENÇA. PROCESSO FALIMENTAR. MASSA FALIDA. LEGITIMADA EXTRAORDINÁRIA. ÍNDICE DE CORREÇÃO MONETÁRIA. ALTERAÇÃO. NEGATIVA. JUROS DE MORA. AFASTAMENTO NEGADO. EXCESSO DE EXECUÇÃO NÃO CONSTATADO. REGIME FALIMENTAR. APLICAÇÃO INVIABILIZADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Na hipótese, rever a conclusão do acórdão recorrido de que o regime jurídico falimentar não se aplica às agravantes, por se tratar de cumprimento de sentença proposto por consumidores, demandaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto às questões postas nos embargos de declaração, conforme se verifica do seguinte trecho do acórdão que os examinou:
+"Alega a embargante a existência de vício no v. acórdão de fls. 836/842 no tocante à fundamentação, pois: o acórdão violou a coisa julgada ao desconsiderar os termos expressos da r. sentença acerca dos encargos legais; a desconsideração da personalidade jurídica não impõe às embargadas obrigação distinta daquela que a massa falida possui junto aos consumidores; a obrigação distinta não deve prevalecer; há excesso na execução.
+ ..
+Não houve omissão em relação à alegação da coisa julgada, uma vez que esta C. Câmara foi expressa ao declarar a ausência de excesso na execução e regularidade no afastamento do regime falimentar à embargante (fls. 839/840).
+ ..
+Conforme já consignado, o regime falimentar não se aplica à embargante, restando incabível nova digressão sobre o assunto" (e-STJ fls. 861/863).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte, embora utilizando-se de fundamentação suficiente para solucionar a controvérsia.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento " (AgInt no AREsp 2.164.998/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ao examinar o recurso das recorrentes na origem, a Corte paulista dispôs o seguinte:
+"Trata-se de cumprimento de sentença oriundo do processo falimentar nº 1089370-76.2014.8.26.0100 em que a massa falida almeja, na qualidade de legitimada extraordinária, a satisfação do crédito decorrente das inúmeras condenações que suportou em razão das ações indenizatórias promovidas pelos consumidores.
+A impugnação das agravantes, ora executadas, foram parcialmente acolhidas na decisão impugnada, pretendendo as recorrentes o reconhecimento, em maior extensão, do excesso da execução alegado, conforme descrito no relatório em epígrafe.
+Em suma, requerem que o regime falimentar, benéfico para a massa falida em diversos aspectos, se aplique ao seu contexto processual para: alterar o índice da correção monetária para a taxa TR e afastar os juros moratórios legais.
+Razão não lhes assiste!
+Conforme acertadamente pontuado pelo MM. Juiz "a quo", o regime jurídico falimentar, de forma alguma, pode ser aplicado às agravantes.
+Isso porque, o cumprimento de sentença "sub judice", nada mais é do que a reunião artificial de todas as execuções que poderiam ser ajuizadas pelos diversos consumidores credores da massa falida.
+Conforme assentado em contraminuta e parecer ministerial, trata-se de genuíno cumprimento de sentença de viés coletivo, o qual veicula um feixe de direitos subjetivos dos vulneráveis credores da massa falida contra o interesse das recorrentes.
+As agravantes não faliram, mas sim, foram incluídas no polo passivo da execução na qualidade de sociedades empresárias controladoras, nos termos do art. 82 da Lei 11.101/05 e desconsideração da personalidade jurídica já decidida em fase processual anterior.
+Deste modo, as regras jurídicas invocadas (art. 9º da. Lei 8.177/91 e art. 124 da Lei 11.101/2005) não se aplicam às recorrentes, justamente porque não foi decretada a falência em relação a elas.
+Consequentemente, não há se falar em excesso à execução, pois corretamente adotada a Tabela prática do TJ/SP para a correção monetária e adequada a incidência dos juros moratórios de 1% a.m. a partir da citação, conforme prevê o art. 406 do Código Civil.
+Entendimento diverso implicaria em grave violação aos direitos dos consumidores em obter a reparação integral dos danos, afrontando o disposto no art. 6º, inciso VI do Código de Defesa do Consumidor" (e-STJ fls. 838/839).
+A pretensão das agravantes de afastar a aplicação dos juros legais e de alterar o índice de correção monetária com fundamento no regime jurídico falimentar encontra óbice na Súmula nº 7 do STJ.
+Isso porque o acórdão recorrido, ao rejeitar tais pedidos, baseou-se na análise das circunstâncias específicas da demanda executiva, reconhecendo que as agravantes, embora tenham sido incluídas no polo passivo por força da desconsideração da personalidade jurídica, não integram a massa falida e, portanto, não fazem jus ao tratamento jurídico reservado a esta.
+Rever a conclusão da Corte paulista de que se trata de cumprimento de sentença coletivo, destinado à satisfação de créditos de consumidores contra sociedades controladoras da falida, exigiria o reexame do contexto fático delineado nos autos, especialmente quanto à natureza da execução, à origem dos créditos cobrados e à posição processual das agravantes.
+Tais elementos foram fundamentais para afastar a aplicação das normas falimentares às recorrentes, conforme decidido na origem.
+Ainda que as agravantes sustentem que houve violação à coisa julgada ou desvirtuamento do título executivo, o acórdão impugnado assentou expressamente que não houve inovação nas obrigações executadas, mas apenas a regular reunião dos créditos consumeristas contra as recorrentes, já responsabilizadas em momento anterior.
+Reavaliar tal entendimento também demandaria revolvimento de fatos e provas, o que é vedado em recurso especial, nos termos da Súmula nº 7/STJ.
+Assim, todas as alegações das agravantes, inclusive quanto à suposta alteração da natureza da execução ou à imposição de encargos diversos dos previstos na sentença, esbarram na impossibilidade de reexame do acervo fático-probatório.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
