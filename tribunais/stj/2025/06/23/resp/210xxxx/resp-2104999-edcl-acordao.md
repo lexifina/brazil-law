@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/06/2025 a 23/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Cuida-se de embargos de declaração opostos por INDÚSTRIA MECÂNICA SIGRIST IMPORTÃO E EXPROTAÇÃO LTDA., em face de acórdão, assim ementado (fls. 918/919):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INEXISTÊNCIA DE VÍCIOS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. REVISÃO DO JUÍZO. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO DA DECISÃO ORA AGRAVADA NÃO ESPECIFICAMENTE IMPUGNADO. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em afronta aos arts. 1.022 e 489 do CPC/2015, porquanto o órgão julgador, de forma clara e coerente, externou fundamentação adequada e suficiente sobre as questões necessárias para o deslinde da controvérsia. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. No caso, o Tribunal a quo concluiu que a análise da prescrição, nos moldes pugnados, demanda dilação probatória, inviável pela via da objeção de pré-executividade, visto que "exigem análise da própria exação cobrada e o necessário contraditório", bem como ser incabível a alegação de questão que configura indevida inovação recursal, sob pena de supressão de instância.
+4. A remansosa jurisprudência do STJ é no sentido de que não incorre em vício de omissão a ausência de manifestação do órgão julgador de matéria que configura indevida inovação recursal, porquanto é vedado ao órgão judicante adentrar o mérito de alegações que não constituem matéria impugnada, sobre a qual não se operou o efeito devolutivo. A propósito: AgInt no REsp 1.138.093/MG, Rel. Min. Sérgio Kukina, Primeira Turma, D Je 11/12/2017; AgInt no R Esp 1.938.680/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, D Je 18/3/2022; AgRg no Ag 1.335.892/SP, Rel. Min. Raul Araújo, Quarta Turma, D Je 9/11/2015; REsp 190.184/PE, Rel. Min. Eliana Calmon, Segunda Turma, DJ 19/2/2001.
+5. "A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (AgInt nos E Dcl no AgInt no AR Esp 2.229.134/RJ, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 13/5/2024). Confiram-se: AgInt no REsp 2.114.576/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2/5/2024; AgInt no R Esp 2.113.199/SP, Rel. Min. Regina Helena Costa, Primeira Turma, D Je 25/4/2024; AgInt no AREsp 2.185.170/SP, Rel. Min. Afrânio Vilela, Segunda Turma, D Je 2/4/2024.
+6. Considerando as premissas fáticas firmadas no acórdão, inviável alcançar conclusão diversa no sentido da tese recursal, uma vez que a argumentação apresentada somente poderia ter sua procedência verificada mediante o reexame do suporte fático-probatório, providência incabível no âmbito do recurso especial, por força do óbice da Súmula 7/STJ.
+7 . Quanto ao inconformismo pela incidência das Súmulas 211/STJ e 284/STF, as argumentações ora apresentadas não impugnam especificamente os referidos óbices, aplicados pelos fundamentos de falta de cumprimento do requisito do prequestionamento e de razões dissociadas e ausência de comando normativo.
+8. A falta de impugnação específica a fundamento da decisão agravada de que se recorre no agravo interno impõe o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ. Neste sentido: AgInt no AREsp 2.301.826/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 28/10/2024; AgInt no AREsp n. 2560118/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em, 2/12/2024, DJe 6/12/2024.
+9. Agravo interno parcialmente conhecido e não provido.
+A parte embargante alega omissão quanto aos fundamentos trazidos no agravo interno relativamente à parte em que foi demonstrada a afronta aos arts. 1.022 e 489 do CPC/2015, a respeito de que a prescrição é matéria de ordem pública, sendo viável sua análise em sede de exceção de pré-executividade.
+Alega a não incidência da Súmula 182/STJ na ausência de impugnação de capítulos autônomos, porque induz preclusão das matérias não impugnadas; mas também pede o afastamento da Súmula 182/STJ em relação aos dispositivos infraconstitucionais apontados violados.
+Impugnação a fls. 600-604.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, a parte embargante, nas alegações ora arguidas para sustentar a oposição dos presentes embargos pelo art. 1.022, II, do CPC/2015, cinge-se a inconformismo genérico e efetivamente não indica o ponto eivado de vício a ser sanado, no acórdão ora embargado, considerando os fundamentos adotados, conforme seguem (fls. 924/925, grifos nossos):
+No caso, o Tribunal a quo concluiu que a análise da prescrição, nos moldes pugnados, demanda dilação probatória, inviável pela via da objeção de pré- executividade, visto que "exigem análise da própria exação cobrada e o necessário contraditório", bem como ser incabível a alegação de questão que configura inovação recursal, sob pena de supressão de instância (fls. 592-595 do acórdão).
+ ..
+Segundo a pacífica jurisprudência deste Tribunal Superior, " a  exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (AgInt nos E Dcl no AgInt no AR Esp n. 2.229.134/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024).
+ ..
+Quanto ao inconformismo pela incidência das Súmulas 211/STJ e 284/STF, as argumentações apresentadas nos tópicos consignados neste recurso não impugnam especificamente os referidos óbices, aplicados pelos fundamentos de falta de cumprimento do requisito do prequestionamento e de razões dissociadas e ausência de comando normativo.
+A falta de impugnação específica a fundamento da decisão agravada de que se recorre no agravo interno impõe o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ. Neste sentido: AgInt no AREsp 2.301.826/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 28/10/2024; AgInt no AR Esp n. 2560118/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em, 2/12/2024, DJe 6/12/2024.
+A toda evidência, no presente caso, a parte embargante, não conformada com o resultado a seu desfavor, busca, de forma transversa, o reexame recursal. Contudo, tendo o decisório ora embargado analisado de forma clara e fundamentada a controvérsia, o rejulgamento da causa almejado é providência incompatível pela via do recurso integrativo.
+Na espécie, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+A esse respeito, colaciono os seguintes julgados:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. AUSÊNCIA DE VÍCIOS NO JULGADO.  ..
+2. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+3. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretendem os embargantes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.539.387/RS, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 14/2/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL.  ..
+1. Consoante dispõe o art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventuais omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.740.473/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 22/3/2019)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
