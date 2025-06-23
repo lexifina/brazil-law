@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso interposto por JOAO VICTOR SANTOS DA SILVA e GUTIERREZ AIRTON DE LIMA TRAJANO contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO no HC n. 0000340-35.2024.8.17.9901.
+Os recorrentes pleiteiam a imediata revogação da prisão preventiva, sem prejuízo da substituição da custódia por medidas cautelares diversas, no âmbito da Ação Penal n. 0000451-50.2024.8.17.7110, em trâmite na Vara Única da comarca de Sanharó/PE, que apura a suposta prática do crime de roubo majorado. No mérito, buscam o trancamento dessa ação penal.
+Alegam, para tanto, a ilegalidade da busca pessoal, realizada com base em informações genéricas e sem fundada suspeita, bem como do reconhecimento pessoal, que não observou as formalidades previstas no art. 226 do Código de Processo Penal.
+Contrarrazões, às fls. 282/288, pelo desprovimento do recurso.
+É o relatório.
+O recurso não merece prosperar, pois não há constrangimento ilegal a ser sanado por esta via.
+Observa-se que as circunstâncias do caso concreto demonstraram a fundada suspeita para a abordagem policial. Segundo consta do auto de prisão em flagrante, a Polícia Militar recebeu informação de que dois indivíduos teriam roubado uma motocicleta na zona rural e estariam se deslocando entre municípios vizinhos. Durante diligência na rodovia de acesso à cidade, os suspeitos foram localizados nas proximidades de um posto de combustível, ao lado de duas motocicletas, uma delas identificada como a subtraída. Na busca, foram encontrados um aparelho celular, um capacete e a chave da moto, todos provenientes da ação delituosa (fls. 100/101).
+A hipótese não caracteriza uma abordagem aleatória e injustificada, razão pela qual inexiste nulidade a ser reconhecida. A propósito, o AgRg no RHC n. 190.259/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/10/2024; e o AgRg no HC n. 871.486/SP, Ministro Og Fernandes, Sexta Turma, julgado em 15/10/2024, DJe 23/10/2024.
+Além disso, o afastamento das conclusões expostas pelas instâncias antecedentes não é admitido na presente via, por implicar reexame de fatos e provas.
+Quanto ao mais, o procedimento formal de reconhecimento só é exigível quando houver dúvida sobre a identidade do agente. No caso, há elementos objetivos de individualização, como o vídeo que registra dois homens em uma moto vermelha, trajando as mesmas roupas que os recorrentes usavam no momento da prisão. O quadro aponta para a ausência de dúvida quanto aos autores da conduta delitiva, de modo que dispensável, na espécie, a metodologia prevista no art. 226 do Código de Processo Penal. Nesse sentido, o AgRg no HC n. 793.886/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023.
+Dessa forma, não evidenciadas as ilegalidades apontadas, inexiste fundamento jurídico para o trancamento da ação pena l.
+Por fim, válido destacar que a decisão de origem fundamentou a prisão cautelar em dados concretos, com ênfase à gravidade do crime imputado, perpetrado com emprego de arma de fogo e ameaças de disparo, circunstâncias que abalaram emocionalmente as vítimas, gerando fundado temor. Ademais, consta dos autos que os réus teriam sido contratados por pessoa não identificada para entregar a motocicleta subtraída a terceiro em cidade próxima, evidenciando sofisticação na prática delitiva e reforçando a necessidade da prisão preventiva para assegurar a ordem pública.
+Incensurável, portanto, o acórdão recorrido.
+Pelo exposto, nego provimento ao recurso (art. 34, XVIII, b, do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. TRANCAMENTO DA AÇÃO PENAL. NULIDADES. AUSÊNCIA DE FUNDADAS RAZÕES PARA A ABORDAGEM POLICIAL E VIOLAÇÃO DO ART. 226 DO CPP. INEVIDÊNCIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. NECESSIDADE DE ASSEGURAR A ORDEM PÚBLICA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Recurso improvido.
