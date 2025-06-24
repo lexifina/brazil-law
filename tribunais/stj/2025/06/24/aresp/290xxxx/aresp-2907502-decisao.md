@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA ILDETE DE OLIVEIRA LEÃO, MARIA LÚCIA DE JESUS e LAUDELINA FERREIRA FILHA GOMES, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 257):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. TESE DE NULIDADE DA SENTENÇA AFASTADA. DECISÃO FUNDAMENTADA. PROGRESSÃO FUNCIONAL POR TITULAÇÃO. PROFESSORAS MUNICIPAIS DE RIACHO DE SANTANA. FICHAS FINANCEIRAS E REQUERIMENTO GENÉRICO DO SINDICATO. AUSÊNCIA DE PROVA DO FATO CONSTITUTIVO DO DIREITO. NECESSIDADE DE PREENCHIMENTO DE REQUISITOS ESPECÍFICOS. REFLEXOS FINANCEIROS. IMPOSSIBILIDADE DE AFERIÇÃO DOS MARCOS. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTE O PEDIDO. SUCUMBÊNCIA INVERTIDA. SUSPENSÃO DA EXIGIBILIDADE EM VIRTUDE DA CONCESSÃO DA GRATUIDADE ÀS AUTORAS.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 265-285, as recorrentes sustentam violação aos arts. 489, §1º, inciso III, e 492, ambos do Código de Processo Civil, argumentando, de forma genérica, que "não se considera fundamentado o acórdão que invocar motivos que se prestariam a justificar qualquer outra decisão, bem como, porque é vedado ao Juiz/Desembargador proferir decisão de natureza diversa da pedida" (fl. 284).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 292):
+Quanto à alegada transgressão aos arts. 489, § 1º, inciso III e 492, do Código de Processo Civil, não se vislumbra a possibilidade de abertura da via especial pela alínea "a" do inciso III do art. 105 da Constituição Federal, uma vez que tais dispositivos não foram objeto de análise no acórdão recorrido, tampouco foram opostos embargos de declaração visando sanar eventual omissão, contradição ou obscuridade quanto a esses pontos.
+Tal circunstância enseja a incidência na espécie da Súmula 282 do STF, aqui aplicada por analogia, segundo a qual "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada", sendo também aplicável a Súmula 356 do mesmo Sodalício, que dispõe que "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Em seu agravo, às fls. 299-321, as agravantes alegam que:
+A decisão que inadmitiu o recurso especial não possui qualquer embasamento legal.
+O art. 105, III, "a", da Constituição preconiza o cabimento de Recurso Especial para o Superior Tribunal de Justiça (STJ) quando acórdãos dos Tribunais de Justiça contrariarem Lei Federal.
+Com efeito, o juízo de admissibilidade realizado pelo Tribunal a quo deve limitar-se à análise dos requisitos formais do Recurso, quais sejam: comprovação de violação à lei federal, da divergência jurisprudencial, o cotejo analítico do dissídio jurisprudencial, a tempestividade do Recurso, o recolhimento de custas, o prequestionamento, dentre outros. O que, claramente, não foi a análise realizada nos autos.
+Ao adentrar ao mérito do Recurso, o E. Tribunal de Justiça da Bahia extrapolou o âmbito do juízo de admissibilidade e impediu indevidamente o acesso da Agravante à Superior Instância, em total desrespeito ao princípio constitucional da ampla defesa previsto no artigo 5º, inciso LV, da CF. (fl. 315)
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto as agravantes não infirmaram especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência dos enunciados 282 e 356 da Súmula do STF, em razão da ausência de prequestionamento.
+Entretanto, em sede de agravo em recurso especial as recorrente deixaram de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, as agravantes ferem o princípio da dialeticidade e atraem a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
