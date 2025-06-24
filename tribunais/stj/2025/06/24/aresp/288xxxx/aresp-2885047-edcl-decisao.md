@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ADRIANA DAHRUJ ANAUATI, M A D ANAUATI CONFECCOES LTDA. à decisão de fls. 188/189, que não conheceu do recurso.
+Sustenta a parte embargante:
+3. Em face à r. decisão monocrática proferida nos autos, que deixou de conhecer do recurso sob o fundamento de sua intempestividade, alegando ausência de comprovação documental idônea acerca da suspensão de prazos processuais no período de 03.03.2025 a 04.03.2025.
+4. Ocorre que a referida decisão padece de omissão, pois deixou de considerar a jurisprudência consolidada da própria Corte Especial deste Egrégio Superior Tribunal de Justiça, conforme julgado nos Embargos de Divergência no AR Esp 1.927.268/RJ, em que se firmou entendimento pela idoneidade das informações extraídas do calendário judicial do site oficial do Tribunal de origem como meio hábil para a comprovação da tempestividade recursal:
+ ..
+5. Haja vista que a mesma informação, quanto a suspensão, em razão do feriado foram juntados à petição de interposição do Agravo.
+ ..
+7. Desse modo, revela-se contraditória a r. decisão ao não enfrentar o referido precedente da Corte Especial, que se aplica diretamente ao caso dos autos, dado que as ora Embargantes instruíram o recurso com descrição dos calendários judiciais eletrônicos obtidos diretamente do site do Tribunal de Justiça do Estado de São Paulo, apontando a suspensão de prazos na semana do Carnaval, bem como do presente Eg. Superior Tribunal de Justiça (fls. 194/197).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942 /SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição de Agravo em Recurso Especial. Porém, não trouxe nenhum documento apto para comprovar a tempestividade do recurso.
+É certo que o feriado nacional de 4.3.2025 não precisa ser comprovado. Porém, o dia 3.3.2025 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento oportuno, o que não ocorreu.
+No caso, a segunda-feira de carnaval, a Quarta-Feira de Cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.493.227/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 15.5.2024; AgInt nos EDcl no AREsp n. 1.759.735/SC, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 13.5.2024; e, AgInt no AREsp n. 2.398.408/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 2.5.2024.).
+No mais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14.5.2020 e o AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.12.2019.
+Acrescente-se que as disposições da Lei n. 5.010/66 dizem respeito à Justiça Federal e aos Tribunais Superiores, não se aplicando aos Tribunais de justiça estaduais. (AgInt no AREsp 1576616/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 26.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
