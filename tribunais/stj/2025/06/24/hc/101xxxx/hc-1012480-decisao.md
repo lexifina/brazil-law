@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de COSME JUNIOR RIBEIRO DA SILVA - condenado como incurso nos crimes de tráfico transnacional de drogas e tráfico internacional de arma de fogo (Ação Penal n. 50112355-3.2023.4.04.7005) -, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, não comporta processamento.
+Com efeito, busca a impetração a anulação da ação penal na qual o paciente restou pelo Juízo de Direito da 4ª Vara Federal de Cascavel/PR, aos argumentos de nulidade da prisão em flagrante, em razão da busca veicular ter ocorrido sem fundada suspeita, incompetência da Justiça Federal e atipicidade da conduta referente ao tráfico de armas, tendo em vista o erro de tipo do sentenciado.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois consta da sentença que a busca veicular decorreu de fiscalização de rotina, tendo em vista o veículo encontrar-se com a placa ilegível (fl. 123), a via eleita é incompatível com a alegação de incompetência da Justiça Federal, além do que as pretensões, conforme como colocadas na impetração (alegação de não demonstração da transnacionalidade dos crimes e erro de tipo), demandam reexame de provas.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO TRANSNACIONAL DE DROGAS (MAIS DE 3 TONELADAS DE MACONHA). REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA VEICULAR. ABORDAGEM REALIZADA EM FISCALIZAÇÃO DE ROTINA. VEÍCULO COM PLACA ILEGÍVEL. COMPETÊNCIA. INADMISSIBILIDADE NA VIA ELEITA. NEGATIVA DA TRANSNACIONALIDADE E ALEGAÇÃO DE ERRO DE TIPO. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
