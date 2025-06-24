@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito penal. Recurso especial. FURTO MAJORADO TENTADO. Princípio da insignificância. INAPLICABILIDADE. acusado reincidente específico, que ostenta quatro condenações anteriores por furto. habitualidade delitiva. reprovabilidade do comportamento. Recurso improvido.
+I. Caso em exame
+1. Recurso especial interposto contra o acórdão do Tribunal de Justiça de São Paulo que manteve a condenação por furto majorado pelo repouso noturno, negando a aplicação do princípio da insignificância devido à reincidência e maus antecedentes do recorrente.
+2. O recorrente tentou subtrair cabos e fios elétricos de uma empresa durante o repouso noturno, sendo multirreincidente específico com quatro condenações definitivas por furto e maus antecedentes por condenação por roubo.
+3. O Tribunal de origem considerou que, apesar do valor dos bens não ter sido precisado, a conduta habitual do recorrente em cometer furtos não é desprovida de reprovabilidade, merecendo resposta penal adequada.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o princípio da insignificância pode ser aplicado ao delito de furto simples, quando o agente é multirreincidente específico e possui maus antecedentes.
+III. Razões de decidir
+5. A jurisprudência do STF e do STJ entende que a reincidência e os maus antecedentes impedem a aplicação do princípio da insignificância, devido à maior reprovabilidade do comportamento e à periculosidade social da conduta.
+6. A ausência de avaliação específica dos bens não conduz à atipicidade formal da conduta, especialmente em se tratando de crime tentado, em que os objetos não chegaram a ser efetivamente subtraídos.
+7. A aplicação do princípio da insignificância deve ser excepcional, para evitar que se torne um incentivo à prática de pequenos delitos patrimoniais.
+IV. Dispositivo e tese
+8. Recurso improvido.
+Tese de julgamento: "1. A reincidência e os maus antecedentes impedem, via de regra, a aplicação do princípio da insignificância. 2. A ausência de avaliação específica dos bens não conduz à atipicidade formal da conduta em crime tentado. 3. O princípio da insignificância deve ser aplicado de forma excepcional para evitar incentivo à prática de pequenos delitos patrimoniais".
+Dispositivos relevantes citados: Código Penal, art. 155, §1º; Código de Processo Penal, art. 386, III.
+Jurisprudência relevante citada: Não há.
+RELATÓRIO
+Trata-se de recurso especial interposto por RENATO LUIZ, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1502109-82.2022.8.26.0537, assim ementado (fl. 206):
+Apelação. Crime de furto majorado pelo repouso noturno. Sentença condenatória. Recurso da defesa. 1. Quadro probatório suficiente para evidenciar a responsabilidade penal do acusado pelo delito. 2. Não incidência do princípio da insignificância. A conduta pregressa do agente não constitui fator totalmente estranho no processo de qualificação jurídica do fato sob o ângulo do princípio da insignificância. A se pensar de forma diversa, desenha-se um quadro potencialmente apto a gerar impunidade para os crimes patrimoniais de pequeno valor, incentivando-se, por via reflexa, a criminalidade, numa situação contrária aos valores que informam a dogmática penal. A pensar de forma diferente, o citado princípio terminaria por conferir juridicidade à conduta daquele que passe a cometer crimes que tenham por objeto bens de diminuto valor. Implicaria, na prática, um salvo-conduto em favor do agente para a prática de delitos de pequena ou desprezível lesividade ao bem jurídico patrimônio. Orientação do STJ. 3. Incidência da causa de aumento de pena prevista no artigo 155, par, 1º, do Código Penal. Aplicação dos parâmetros estabelecidos pelo Superior Tribunal de Justiça em sede de recurso repetitivo Tema Repetitivo 1144 (REsp n. 1.979.989/RS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 22/6/2022, REPDJe de 30/06/2022, DJe de 27/6/2022). 4. Sanção que comporta redução, com fixação do regime inicial aberto para a pena privativa de liberdade. Recurso parcialmente provido.
+No presente recurso especial, a defesa sustenta, em síntese, violação dos arts. 158, 159 e 172 do Código de Processo Penal, alegando atipicidade da conduta por ausência de exame de corpo de delito e de avaliação do bem que teria sido objeto da tentativa de furto. Alternativamente, alega ofensa ao art. 155, caput, do Código Penal, pugnando pela aplicação do princípio da insignificância, em razão da inexpressividade econômica dos bens.
+Requer a absolvição do ora recorrente, em face da atipicidade material da conduta, nos termos do art. 386, inciso III, do Código de Processo Penal (fl. 235).
+Ofertadas contrarrazões (fls. 238/243), o Tribunal de origem admitiu parcialmente o apelo (fl. 246).
+O Ministério Público Federal opinou, às fls. 255/258, pelo não provimento do recurso.
+É o relatório.
+EMENTA
+Direito penal. Recurso especial. FURTO MAJORADO TENTADO. Princípio da insignificância. INAPLICABILIDADE. acusado reincidente específico, que ostenta quatro condenações anteriores por furto. habitualidade delitiva. reprovabilidade do comportamento. Recurso improvido.
+I. Caso em exame
+1. Recurso especial interposto contra o acórdão do Tribunal de Justiça de São Paulo que manteve a condenação por furto majorado pelo repouso noturno, negando a aplicação do princípio da insignificância devido à reincidência e maus antecedentes do recorrente.
+2. O recorrente tentou subtrair cabos e fios elétricos de uma empresa durante o repouso noturno, sendo multirreincidente específico com quatro condenações definitivas por furto e maus antecedentes por condenação por roubo.
+3. O Tribunal de origem considerou que, apesar do valor dos bens não ter sido precisado, a conduta habitual do recorrente em cometer furtos não é desprovida de reprovabilidade, merecendo resposta penal adequada.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o princípio da insignificância pode ser aplicado ao delito de furto simples, quando o agente é multirreincidente específico e possui maus antecedentes.
+III. Razões de decidir
+5. A jurisprudência do STF e do STJ entende que a reincidência e os maus antecedentes impedem a aplicação do princípio da insignificância, devido à maior reprovabilidade do comportamento e à periculosidade social da conduta.
+6. A ausência de avaliação específica dos bens não conduz à atipicidade formal da conduta, especialmente em se tratando de crime tentado, em que os objetos não chegaram a ser efetivamente subtraídos.
+7. A aplicação do princípio da insignificância deve ser excepcional, para evitar que se torne um incentivo à prática de pequenos delitos patrimoniais.
+IV. Dispositivo e tese
+8. Recurso improvido.
+Tese de julgamento: "1. A reincidência e os maus antecedentes impedem, via de regra, a aplicação do princípio da insignificância. 2. A ausência de avaliação específica dos bens não conduz à atipicidade formal da conduta em crime tentado. 3. O princípio da insignificância deve ser aplicado de forma excepcional para evitar incentivo à prática de pequenos delitos patrimoniais".
+Dispositivos relevantes citados: Código Penal, art. 155, §1º; Código de Processo Penal, art. 386, III.
+Jurisprudência relevante citada: Não há.
+VOTO
+Há reiterado entendimento, tanto do STF quanto desta Corte Superior, de que a reincidência, notadamente se específica, e o reconhecimento de maus antecedentes impossibilitam a aplicação do princípio da insignificância como fundamento para absolvição do acusado, tendo em vista a maior reprovabilidade do comportamento e a periculosidade social da conduta.
+Na espécie, a controvérsia resume-se à possibilidade ou não de aplicação do princípio da insignificância ao delito de furto simples, quando o valor do bem subtraído é de pequena monta, mas o agente é multirreincidente específico (possui 5 condenações definitivas por furto) e ostenta maus antecedentes (condenação por roubo), em razão do cometimento de crimes contra o patrimônio.
+Consoante se extrai dos autos, o recorrente tentou subtrair "cabos e fios elétricos" da empresa Floral Atlanta Indústria e Comércio Ltda., durante o repouso noturno. Como bem observou o Tribunal de origem, em que pesem as alegações defensivas, as regras de experiência comum indicam que não se cuida de bens despidos de expressividade econômica (fl. 209).
+Dessa forma, a ausência de avaliação específica dos bens não conduz à atipicidade formal da conduta, especialmente em se tratando de crime tentado, em que os objetos não chegaram a ser efetivamente subtraídos, permanecendo na posse da vítima.
+Assim, embora não tenha sido avaliada a res furtiva, a jurisprudência desta Corte tem consolidado o entendimento de que a existência de condições pessoais desfavoráveis, tais como maus antecedentes, reincidência ou ações penais em curso, embora não sejam consideradas isoladamente, são suficientes para obstar a aplicação do princípio da insignificância. Assim, por exemplo: AgRg no HC n. 813.238/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/6/2023, DJe 29/6/2023; AgRg no HC n. 809.280/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/6/2023, DJe 28/6/2023; AgRg no HC n. 706.743/SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, julgado em 6/6/2023, DJe 12/6/2023; AgRg no HC n. 796.563/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/5/2023, DJe 25/5/2023; AgRg no HC n. 528.128/SC, da minha relatoria, SEXTA TURMA, julgado em 15/5/2023, DJe 18/5/2023 ; e AgRg no AREsp n. 2.181.616/MG, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), SEXTA TURMA, julgado em 18/4/2023, DJe 24/4/2023.
+No caso, ainda que o valor da res furtiva pudesse ser considerado de pequena monta, a absolvição do recorrido representaria inegável estímulo a que continue a infringir a lei penal praticando crimes contra o patrimônio, sobretudo furto, pois ciente da probabilidade de não ser responsabilizado penalmente.
+O comportamento de quem comete crimes de furto de forma habitual, como é o caso dos autos, em que verificadas quatro condenações anteriores transitadas em julgado pela prática do mesmo delito, não é desprovido de reprovabilidade, pois demonstra, no mínimo, desapreço pelo patrimônio alheio, pela Justiça e pelos órgãos de persecução criminal, merecendo, portanto, resposta penal adequada e proporcional.
+Ademais, não se pode deixar de mencionar o alto grau de reprovabilidade da conduta, uma vez que o crime foi praticado durante o repouso noturno.
+Deve-se ressaltar que o princípio da insignificância, como causa supralegal de exclusão de tipicidade, deve ser aplicado excepcionalmente, de modo a impedir que sua ampla e irrestrita aplicação se torne um verdadeiro incentivo à prática de pequenos delitos patrimoniais.
+Ante o exposto, nego provimento ao recurso especial.
