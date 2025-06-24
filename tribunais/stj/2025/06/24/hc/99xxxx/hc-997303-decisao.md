@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCELO SILVA MOREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão foi decretada visando garantir a ordem pública, foram apreendidas 72 porções de maconha pesando 196,2 gramas; 144 porções de cocaína pesando 146,3 gramas; 46 potes pequenos, conhecidos como "ice/dry", com peso de 111,5 gramas; 17 frascos de lança-perfume atingindo 335,5ml; 161 embalagens com pedras de crack pesando 92 gramas; e 18 porções de haxixe, com peso de 8,2 gramas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 23-29.
+No presente writ, alega a defesa que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis.
+Aduz que, em caso de condenação, o paciente terá direito a regime diverso do fechado.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls . 42-43.
+As informações foram prestadas às fls.50-63. Pedido de reconsideração indeferido às fls. 72-73.
+O Ministério Público Federal, às fls. 79-83, manifestou "pela concessão parcial da ordem".
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como o acórdão impugnado permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade e variedade de droga apreendida - 72 porções de maconha pesando 196,2 gramas; 144 porções de cocaína pesando 146,3 gramas; 46 potes pequenos, conhecidos como "ice/dry", com peso de 111,5 gramas; 17 frascos de lança-perfume atingindo 335,5ml; 161 embalagens com pedras de crack pesando 92 gramas; e 18 porções de haxixe, com peso de 8,2 gramas- fl. 25.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Ademais, consta, da decisão que decretou a segregação cautelar que o paciente "passou por audiência de custódia recentemente, reiterando a conduta nefasta"- fl. 37 .
+A propósito:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Quanto a afirmação de que em caso de condenação terá direito a regime diverso do fechado,a desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
