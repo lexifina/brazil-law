@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial apresentado por VALDIR DIAS PEREIRA, com fundamento no art. 18, § 3º, da Lei 12.153/2009, em razão do acórdão da 2ª Turma Recursal de Fazenda Pública do Tribunal de Justiça de São Paulo assim ementado (fl. 735):
+DIREITO ADMINISTRATIVO. RECURSO INOMINADO. SERVIDOR(A) PÚBLICO(A) MUNICIPAL. PROMOÇÃO. 1. Motorista Município de Araraquara. Pretensão do autor à concessão de promoções trienais. 2. Impossibilidade. LM nº 7.842/2012 alterou a redação do art. 43 da LM nº 6.251/2005, permitindo a promoção funcional automática uma única vez, já concedida. 3. Ausência de direito adquirido a regime jurídico. 4. Promoção que depende de processo seletivo, na vacância na classe superior. O não cumprimento de todos os requisitos, ainda que por conta da não realização de processo seletivo pela Administração Pública, impede a promoção automática. 5. O deferimento da promoção pela via judicial implica a violação do princípio da isonomia perante os demais candidatos, além de criar, indiretamente, vagas de classe distinta. 6. Sentença de improcedência mantida. Recurso improvido.
+A parte requerente alega que a Turma Recursal deu interpretação diversa ao art. 468 da Consolidação da Leis do Trabalho (CLT) bem como violou a Súmula 51 do Tribunal Superior do Trabalho (TST), apresentando como paradigma julgado do Tribunal Regional do Trabalho da 15ª Região.
+A parte adversa não apresentou impugnação (fl. 779).
+O Ministério Público Federal opinou pelo não conhecimento do pedido (fls. 786/789).
+É o relatório.
+Acerca do conhecimento do pedido de uniformização de interpretação de lei federal suscitado no Superior Tribunal de Justiça (STJ), assim dispõem os arts. 18, §§ 1º, 2º e 3º, e 19 da Lei 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto naqueles dispositivos, bem como no art. 67, parágrafo único, VIII-A, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível, em questão de direito material, em três hipóteses, quando: (i) as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem à lei federal interpretações divergentes; (ii) "a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça"; e (iii) a Turma de Uniformização contrariar súmula desta Corte.
+No presente caso, do pedido não é possível conhecer uma vez que a parte requerente apresentou, como paradigma, julgado proveniente do Tribunal Regional do Trabalho da 15ª Região, e não de Turma Recursal dos Juizados Especiais de outro Estado.
+Ademais, apresentou contrariedade à Súmula do TST e não do Superior Tribunal de Justiça, o que é inviável nos termos do entendimento deste Tribunal. Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE LEI. TEMPESTIVIDADE RECURSAL. QUESTÃO PROCESSUAL. NÃO CONHECIMENTO DO PEDIDO. AGRAVO INTERNO DESPROVIDO.
+1. A Turma Recursal não conheceu do recurso intempestivo, não obstante tenha reconhecido que o sistema PJe apresentou informação equivocada quanto ao prazo recursal do juizado especial.
+2. O art. 18 da Lei 12.153/2009 prevê expressamente o cabimento do pedido de uniformização de interpretação de lei quando: (a) houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; (b) as Turmas de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula deste Superior Tribunal.
+3. No caso, a discussão se limita à matéria processual, cuja análise é inviável por meio do incidente do Pedido de Uniformização de Interpretação de Lei - PUIL, conforme disposição legal e precedentes desta Corte Superior.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 4.404/MG, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 15/4/2025, DJEN de 24/4/2025, sem destaque no original.)
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
+ EMENTA
