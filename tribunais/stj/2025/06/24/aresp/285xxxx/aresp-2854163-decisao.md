@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR SOUZA DO NASCIMENTO e MATHEUS SANTOS DE OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não admitiu o recurso especial.
+Os agravantes foram condenados pela prática do crime tipificado no art. 157, §2º, inciso II, c/c art. 14, inciso II, ambos do Código Penal, por três vezes, em concurso formal próprio, nos termos do art. 70, caput, do Código Penal, às penas de 02 (dois) anos, 10 (dez) meses e 03 (três) dias de reclusão, a ser cumprida inicialmente em regime semiaberto, e a 06 (seis) dias-multa (fls. 330-339).
+A defesa interpôs apelação, que não foi provida pelo Tribunal local (fls. 468-475).
+Os agravantes interpuseram recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao art. 386, inciso VII, do Código de Processo Penal, por insuficiência de provas para a condenação (fls. 500-517).
+O recurso foi inadmitido na origem por incidência das Súmulas n. 7 e 83, STJ (fls. 537-538).
+No presente agravo, a defesa sustenta que o recurso especial deveria ter sido admitido, uma vez que não há necessidade de reexame fático-probatório e que a decisão recorrida não está em consonância com a jurisprudência do STJ (fls. 560-593).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial, afirmando que a condenação está devidamente fundamentada e em consonância com precedentes do Superior Tribunal de Justiça, além de destacar a necessidade de revolvimento fático-probatório, o que atrai a incidência da Súmula n. 7, STJ (fls. 633-641).
+É o relatório. DECIDO.
+Constato que, no agravo, os recorrentes rechaçaram os fundamentos de inadmissão do apelo especial.
+Porém, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+No recurso especial, a defesa sustenta que não há qualquer elemento que confirme que os agravantes praticaram condutas ilícitas. Sinala que a narrativa apresentada por ambos os recorrentes está coerente e harmônica com as demais provas presentes no processo, pois, ao que tudo indica, houve, por motivo de vingança e pura rivalidade entre torcidas organizadas, uma comunicação falsa de crime.
+Argumenta que não há prova segura de que teve início a execução de um crime de roubo, já que, no momento do encontro entre os ofendidos e recorrentes, o grupo entrou em luta corporal e não foi exteriorizado comando para entrega dos bens. Observa que o depoimento do condutor do flagrante não corrobora para condenação, uma vez que ele não presenciou os fatos, além de que, no momento que chegou ao local, os recorrentes estavam presos e machucados, conforme consta nos autos do processo.
+Conclui que não há nenhuma prova robusta que traga a certeza de que o crime foi cometido, pelo contrário, todas as provas apontam absolvição dos recorrentes.
+O Tribunal de origem, soberano na análise do conteúdo fático-probatório, manteve a sentença condenatória com base nos seguintes fundamentos (fls. 472-474):
+" ..  Extrai-se dos depoimentos acima que as três vítimas estavam em frente a um hotel aguardando o motorista de aplicativo. Na ocasião, os réus se aproximaram e simularam estar portando uma arma com a mão por baixo da roupa. Em seguida, anunciaram o assalto, mas foram surpreendidos pela reação do ofendido Ian.
+As vítimas conseguiram neutralizar os réus e o motorista de aplicativo acionou a polícia. Após, todos foram levados à delegacia para registro do Boletim de Ocorrência.
+A tese defensiva de briga entre torcidas rivais se encontra isolada nos autos, não havendo nenhum elemento concreto a validar possível desentendimento entre os envolvidos ou que as vítimas tivessem algum motivo para querer incriminar injustamente os réus.
+Em contrapartida, o motorista de aplicativo relatou que ouviu uma mulher gritando "ladrão" no momento dos fatos, o que sugere uma situação de tentativa de assalto, tal qual narrado pelas vítimas.
+Apesar de o depoimento não ter sido confirmado em juízo, o entendimento desta Corte é no sentido de que as declarações prestadas na delegacia podem ser utilizadas na formação do convencimento do julgador quando corroboradas pelas provas produzidas em juízo, como no presente caso .. .
+Desse modo, os depoimentos das vítimas, harmônicos entre si, descrevem as circunstâncias em que ocorreu o delito de tentativa de roubo, não deixando dúvidas quanto ao protagonismo dos réus na empreitada criminosa, sobretudo quando corroborado por outras provas  .. ".
+Assim , para acolher a tese dos agravantes no sentido de que não há prova suficiente para a condenação ou para rever a dinâmica como os fatos se sucederam, fatalmente seria necessária a incursão nos fatos e nas provas, o que não se admite em sede de recurso especial, nos termos da Súmula n. 7, STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
