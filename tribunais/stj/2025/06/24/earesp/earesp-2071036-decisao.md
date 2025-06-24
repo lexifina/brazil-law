@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Terceira Turma desta Corte, assim ementado (fl . 3.888, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna todos os fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 7 do STJ).
+2. Agravo interno não provido.
+O recorrente, em suas razões, alega divergência em relação ao entendimento da Quarta Turma. Para tanto, indicam como paradigmas os acórdãos do AgRg no REsp 1.036.178/SP, REsp 1.369.571/PE e do AgInt no REsp 1.810.826/RJ:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - ROUBO DE CARGA - DEMANDA REGRESSIVA DE SEGURADORA CONTRATADA PELO PROPRIETÁRIO DOS BENS EM FACE DA TRANSPORTADORA - DECISÃO MONOCRÁTICA PROVENDO O RECLAMO DA DEMANDADA, PARA ISENTA-LA DO DEVER DE INDENIZAR. INSURGÊNCIA DA AUTORA - 1. A REDEFINIÇÃO DO ENQUADRAMENTO JURÍDICO DOS FATOS EXPRESSAMENTE MENCIONADOS NO ACÓRDÃO HOSTILIZADO CONSTITUI MERA REVALORAÇÃO DA PROVA - DELIBERAÇÃO UNIPESSOAL EM CONFORMIDADE AO ENTENDIMENTO CRISTALIZADO NA SÚMULA N. 7 DO STJ - 2. SUBTRAÇÃO DA CARGA, MEDIANTE AÇÃO ARMADA DE ASSALTANTES - CAUSA INDEPENDENTE, DESVINCULADA À NORMAL EXECUÇÃO DO CONTRATO DE TRANSPORTE, QUE CONFIGURA FATO EXCLUSIVO DE TERCEIRO, EXCLUDENTE DA RESPONSABILIDADE CIVIL - ENTENDIMENTO CONSOLIDADO NESTE SUPERIOR TRIBUNAL DE JUSTIÇA - ALUSÃO, ADEMAIS, NO ARESTO ATACADO, DA ADOÇÃO DE PROVIDÊNCIAS CONCRETAS POR INICIATIVA DA TRANSPORTADORA VISANDO À PREVENÇÃO DA OCORRÊNCIA - 3. RECURSO DESPROVIDO.
+(AgRg no REsp n. 1.036.178/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2011, DJe de 19/12/2011.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. MATÉRIA JORNALÍSTICA. REVALORAÇÃO DE PROVAS. POSSIBILIDADE. NÃO INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. FUNDAMENTO CONSTITUCIONAL NO ACÓRDÃO RECORRIDO. AUSENTE. NÃO INCIDÊNCIA DO ENUNCIADO N.º 126/STJ. DIREITO À INFORMAÇÃO E À LIVRE MANIFESTAÇÃO DO PENSAMENTO. CARÁTER ABSOLUTO. INEXISTÊNCIA. DEVER DE CUIDADO. NECESSIDADE DE OBSERVÂNCIA. DIREITO AO ESQUECIMENTO. TUTELA DA DIGNIDADE DA PESSOA HUMANA. RESPONSABILIDADE DAS EMPRESAS JORNALÍSTICAS. INEXIGÊNCIA DA PROVA INEQUÍVOCA DA MÁ-FÉ. QUANTUM INDENIZATÓRIO. REDUÇÃO. POSSIBILIDADE. OBEDIÊNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+1. Ação de indenização por danos morais decorrentes de veiculação de matéria jornalística que supostamente imputou prática de ilícito a terceiro.
+2. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática admitida em sede de recurso especial, razão pela qual não incide o óbice previsto no Enunciado n.º 7/STJ.
+3. Não há qualquer fundamento constitucional autônomo que merecesse a interposição de recurso extraordinário, por isso inaplicável, ao caso, o Enunciado n.º 126/STJ.
+4. Os direitos à informação e à livre manifestação do pensamento não possuem caráter absoluto, encontrando limites em outros direitos e garantias constitucionais que visam à concretização da dignidade da pessoa humana.
+5. No desempenho da função jornalística, as empresas de comunicação não podem descurar de seu compromisso com a veracidade dos fatos ou assumir uma postura displicente ao divulgar fatos que possam macular a integridade moral de terceiros.
+6. O Enunciado n.º 531, da VI Jornada de Direito Civil do Superior Tribunal de Justiça assevera: "A tutela da dignidade da pessoa humana na sociedade da informação inclui o direito ao esquecimento".
+7. A jurisprudência do Superior Tribunal de Justiça tem-se manifestado pela responsabilidade das empresas jornalísticas pelas matérias ofensivas por elas divulgadas, sem exigir a prova inequívoca da má-fé da publicação.
+8. O valor arbitrado a título de reparação por danos morais, merece ser reduzido, em atenção aos princípios da proporcionalidade e da razoabilidade e à jurisprudência do STJ.
+9. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.369.571/PE, relator Ministro Ricardo Villas Bôas Cueva, relator para acórdão Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/9/2016, DJe de 28/10/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS NÃO CONFIGURADOS. PRECEDENTES. VALORAÇÃO JURÍDICA DOS FATOS. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o atraso na entrega de imóvel não enseja, por si só, o dever de indenizar danos de ordem moral.
+A revaloração jurídica dos fatos não implica a incidência do óbice da Súmula 7 do STJ, quando a análise do recurso especial é baseada nas premissas estabelecidas pelas instâncias ordinárias.
+Precedentes.
+Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.810.826/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/5/2020, DJe de 28/5/2020.)
+Cinge-se a controvérsia à correta aplicação das Súmulas 7 e 182/STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos e, sobretudo, do julgado trazido nas razões do recurso, observo que os embargos de divergência não reúnem condições de serem conhecidos, pois não atendem à estrita hipótese de cabimento do art. 1.043, III, do Código de Processo Civil.
+O recurso especial interposto pelo agravante nem sequer foi conhecido, por incidência da Súmula 182/STJ. A parte não impugnou todos os fundamentos da decisão que não admitiu o recurso especial no Tribunal de origem, em especial o óbice da Súmula 7/STJ. Portanto, o acórdão embargado não adentrou no mérito do recurso:
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra os fundamentos da decisão que negou seguimento ao apelo nobre, pois CLEUTON, na ocasião, não refutou, de forma arrazoada, a não incidência da Súmula n.º 7 do STJ.
+E isso não fez porque, além de não mencionar os motivos pelos quais o referido enunciado deveria ser afastado, também deixou de demonstrar concretamente que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+O entendimento desta Corte, contudo, é de que "(..) não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+O art. 1.043, III, do CPC prevê o cabimento de embargos de divergência, ainda que um dos acórdãos não tenha sido conhecido, mas desde que tenha apreciado a controvérsia. No caso em julgamento, o acórdão embargado não analisou o mérito recursal e, muito menos, a controvérsia nele versada. Os embargos de divergência não servem para alterar ou reavaliar os critérios de conhecimento do recurso, passando-se ao mérito recursal:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL.
+ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DA CONTROVÉRSIA. CORRETA INCIDÊNCIA DA SÚMULA 315/STJ.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ (AgInt nos EDcl nos EDv nos EREsp 1615774/MG, Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDv nos EDcl no AREsp n. 2.203.366/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Portanto, incide o óbice da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Em face do exp osto, indefiro liminarmente os embargos de divergência.
+Intimem-se.
+EMENTA
