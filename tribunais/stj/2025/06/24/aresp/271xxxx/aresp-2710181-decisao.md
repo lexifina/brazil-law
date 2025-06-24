@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por JULIO CESAR DE LIMA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1.199):
+Preliminar. Legitimidade passiva ad causam. Álbum probatório que aponta a participação do apelado (Banco do Brasil) na relação jurídica negocial que embasa os pedidos formulados na exordial, na qualidade de instituição financeira representante do FNDE. Precedentes. Preliminar afastada.
+Preliminar. Competência. Pleito de inclusão do FNDE no polo passivo da ação e consequente remessa dos autos à Justiça Federal. Discussão que não adentra as regras e requisitos do FIES, cingindo-se ao cumprimento de contrato de financiamento estudantil. Intervenção do FNDE desnecessária. Competência da Justiça Estadual. Precedentes. Preliminar afastada.
+Apelação. Prestação de serviços educacionais. Ação declaratória de inexigibilidade de débito c. c. reparação de dano moral. Sentença de improcedência. Adesão ao programa "Uniesp Paga". Ciência do aluno acerca das condições do contrato. Disposições claras e expressas quanto às obrigações do beneficiário. Ausência de abusividade ou de violação ao dever de informação. "Excelência acadêmica". Autor que não atendeu a todos os requisitos exigidos para a obtenção do benefício oferecido pelo programa. Descumprimento contratual que impõe a rejeição do pleito inicial. Sentença mantida. Recurso improvido.
+Os primeiros embargos de declaração opostos pelo recorrente foram rejeitados (fls. 1.232-1.237). Já os segundos embargos foram acolhidos apenas para reconhecer a nulidade da certificação do trânsito em julgado, em razão da ausência de intimação eletrônica da Defensoria Pública do Estado de São Paulo quanto ao acórdão anterior (fls. 1.258-1.260).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos arts. 6º, III, IV, V, 46, 47 e 51, IV, do CDC, por ausência de informações claras sobre o contrato, especialmente quanto à expressão "excelência acadêmica", tida como vaga. Sustenta que houve cláusulas abusivas, interpretação contratual desfavorável ao consumidor e publicidade enganosa quanto à garantia do pagamento das mensalidades.
+Foram apresentadas contrarrazões ao recurso especial pela parte agravada Banco do Brasil S.A. (fls. 1.423-1.436), enquanto a segunda agravada, Uniesp S.A., deixou de se manifestar (fl. 1.437).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.438-1.439), o que ensejou a interposição do presente agravo.
+A parte agravada Banco do Brasil S.A. apresentou contraminuta ao agravo (fls. 1.460-1.468), enquanto a parte agravada Uniesp S.A. não se manifestou (fl. 1.469).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Súmulas 5 e 7/STJ
+Com efeito, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, consignou que o agravante tinha ciência das cláusulas contratuais, especialmente a exigência de "excelência acadêmica", considerada clara e expressa.
+Confira-se excerto do acórdão recorrido (fls. 1.207-1.210):
+As Rés em razão do descumprimento pelo autor da condição contratual de "excelência acadêmica", pretendem desobrigar-se do compromisso assumido sob a alegação de que houve o descumprimento, por parte do Autor, das responsabilidades contratuais, notadamente os itens 3.2 do Regulamento e Cláusula Terceira do Contrato de Garantia de Pagamento das Prestações do FIES, in verbis:
+"3.2. Mostrar excelência no rendimento escolar e na frequência às aulas e às atividades acadêmicas realizadas no Curso Superior escolhido; ser disciplinado e colaborador da instituição em suas iniciativas de melhorias acadêmicas, culturais e sociais."
+Analisando as provas colacionadas aos autos, não cabe razão ao recorrente.
+De proêmio, cabe apontar que a particularidade de o material publicitário não conter suficiente informação sobre as condições para que a instituição quitasse o financiamento estudantil junto ao FIES ficou superada a partir do momento em que o aluno firmou o contrato, visto que nele estavam textualmente especificadas aquelas exigências.
+Consigne-se que as disposições da Lei 8.078/90 quanto ao dever de informação em material publicitário (artigos 30 a 38 e 46 a 48) devem ser compreendidas com atenção ao seu sentido finalístico, que é assegurar ao consumidor efetiva possibilidade de se inteirar sobre os termos do negócio.
+Logo, se apesar da omissão ou imprecisão do material publicitário o consumidor é pelo contrato informado sobre aqueles pontos e celebra o negócio jurídico, não pode em momento seguinte dizer-se dispensado de cumprir o que fora convencionado sob o argumento de que o material de propaganda não trazia aquelas informações.
+ ..
+Com efeito, para se beneficiar financiamento estudantil junto ao FIES o aluno deveria cumprir, entre outras, a exigência que se chamou de "excelência no rendimento escolar" (cláusula 3.2 fls. 49).
+Exigência que, note-se, nada tinha de abusiva à luz da Lei 8.078/90, sendo mesmo usual e razoável ante o compreensível interesse da instituição de ensino de estimular o bom aproveitamento escolar, que é mensurado pela nota.
+De lembrar que, conforme o artigo 5º § 10 da Lei federal 10.861/2004, excelência acadêmica deve ser entendida como a obtenção das maiores notas nas disciplinas do ENADE.
+É possível verificar no "Histórico Escolar" colacionado as fls. 58/59 que o autor não apresentou "excelência no rendimento escolar" como exigia o contrato, visto que, não obtivera mais do que nota 5,5 nas disciplinas de "Economia", "Teoria das Organizações", "Fundamentos de Marketing", "Rotinas e Legislação Trabalhista" e "Gerenciamento de Pessoas", pontuação esta, manifestamente insatisfatória para classificar o rendimento escolar do recorrente como "excelente".
+O contrato informa expressamente a condição quando enfatiza que em caso de descumprisse de qualquer daquelas condições pelo aluno, ficaria a instituição de ensino desobrigada de quitar o financiamento contraído junto ao FIES (cláusula 3.7).
+Isto porque, na peculiaridade dos autos, não restando comprovado o preenchimento de todos os requisitos previstos no contrato, notadamente aquele estabelecido na cláusula 3.2, "excelência acadêmica.
+Destarte, escorreita a r. sentença no que concerne à rejeição dos pedidos iniciais quanto à condenação da ré no ressarcimento dos prejuízos materiais sofridos e na obrigação de quitar todo o débito decorrente do FIES, ou ainda parte dele.
+ ..
+Assim, a pretensão de que se reconheça a abusividade da cláusula contratual relativa à exigência de "excelência acadêmica" para obtenção de financiamento estudantil, bem como a alegação de publicidade enganosa, implicaria a análise de cláusulas contratuais e o reexame da matéria fático-probatória, procedimento vedado em recurso especial nos termos das Súmulas 5 e 7 do STJ.
+Nesse sentido, cito: AREsp n. 2.374.798/SP, relator Ministro João Otávio de Noronha, DJe de 16/11/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da causa, observada eventual concessão de gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. CONTRATO DE FINANCIAMENTO ESTUDANTIL. REQUISITOS. DESCUMPRIMENTO. PUBLICIDADE ENGANOSA. NÃO CONFIGURAÇÃO. PRETENSÃO DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
