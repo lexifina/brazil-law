@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. CONDENAÇÃO TRANSITADA EM JULGADO. SIMPLES PROPOSIÇÃO DE REVISÃO CRIMINAL NA ORIGEM NÃO SERVE A INAUGURAR A COMPETENCIA DESTA CASA. NÃO CONHECIMENTO DE HABEAS CORPUS PELO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, o paciente tem condenação transitada em julgado de 17 anos, 6 meses e 15 dias de reclusão, em regime fechado.
+2. A defesa insiste que o writ deve ser conhecido e a ordem concedida para se absolver o paciente.
+3. Na decisão agravada, foi pontuado que, apesar de existir revisão criminal proposta na origem (conforme foi informado pelo impetrante), a falta de manifestação do Tribunal faz com que ainda não se veja inaugurada a competência do Superior Tribunal de Justiça para apreciar o caso. O processo está concluso, sendo necessário aguardar.
+4. Em esforço argumentativo, a defesa trouxe, na petição de agravo, julgamento do HC n. 872.325/SP pelo Superior Tribunal de Justiça, sob a relatoria da Min. Daniela Teixeira.
+5. Como se depreende da leitura da decisão juntada à título persuasório, o ato apontado como coator no caso era uma decisão prolatada pelo Tribunal no bojo da ação de revisão criminal. No caso em tela, o ato trazido como coator é o acórdão da apelação. Isso porque ainda não há decisão na revisional na origem, já que o processo está concluso.
+6. O simples ajuizamento da revisão criminal na origem não inaugura a competência desta Corte Superior para que se pronuncie sobre condenações já transitadas em julgado. A competência para desconstituir condenações condenações com trânsito em julgado, como a do presente caso, pertence ao Tribunal estadual. Assim, apenas após decisão daquele Colegiado é que a matéria relativa à condenação do ora paciente pode ser apreciada por esta Casa.
+7. Impende reconhecer que é, sim, prematura qualquer manifestação do Superior Tribunal de Justiça sobre a condenação transitada em julgado do paciente, sendo adequado aguardar a atividade jurisdicional do órgão competente para tanto, sem que, portanto, banalize-se a atividade das Cortes Superiores ou diminua-se a relevância dos Tribunais locais.
+8. Agravo regimental não provido.
+RELATÓRIO
+RAUL COSTA ARAUJO, por meio de petição de fls. 1388-1402, agrava da decisão de fls. 1385-1386, em que indeferi liminarmente o habeas corpus.
+Consta dos autos que o paciente foi condenado às penas de 17 anos, 6 meses e 15 dias de reclusão e pagamento de 16 dias-multa, por incursão nos artigos 157, § 2º, incisos II e VII, e artigo 159, caput, na forma artigo 69, caput, todos do Código Penal.
+Na decisão agravada, pontuei que apesar de existir revisão criminal proposta na origem (conforme foi informado pelo impetrante), a falta de manifestação do Tribunal faz com que ainda não se veja inaugurada a competência do Superior Tribunal de Justiça para apreciar o caso.
+Nesta ocasião, a defesa insiste que é o caso de se receber o writ e oportunamente conceder a ordem para absolver o paciente.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. CONDENAÇÃO TRANSITADA EM JULGADO. SIMPLES PROPOSIÇÃO DE REVISÃO CRIMINAL NA ORIGEM NÃO SERVE A INAUGURAR A COMPETENCIA DESTA CASA. NÃO CONHECIMENTO DE HABEAS CORPUS PELO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, o paciente tem condenação transitada em julgado de 17 anos, 6 meses e 15 dias de reclusão, em regime fechado.
+2. A defesa insiste que o writ deve ser conhecido e a ordem concedida para se absolver o paciente.
+3. Na decisão agravada, foi pontuado que, apesar de existir revisão criminal proposta na origem (conforme foi informado pelo impetrante), a falta de manifestação do Tribunal faz com que ainda não se veja inaugurada a competência do Superior Tribunal de Justiça para apreciar o caso. O processo está concluso, sendo necessário aguardar.
+4. Em esforço argumentativo, a defesa trouxe, na petição de agravo, julgamento do HC n. 872.325/SP pelo Superior Tribunal de Justiça, sob a relatoria da Min. Daniela Teixeira.
+5. Como se depreende da leitura da decisão juntada à título persuasório, o ato apontado como coator no caso era uma decisão prolatada pelo Tribunal no bojo da ação de revisão criminal. No caso em tela, o ato trazido como coator é o acórdão da apelação. Isso porque ainda não há decisão na revisional na origem, já que o processo está concluso.
+6. O simples ajuizamento da revisão criminal na origem não inaugura a competência desta Corte Superior para que se pronuncie sobre condenações já transitadas em julgado. A competência para desconstituir condenações condenações com trânsito em julgado, como a do presente caso, pertence ao Tribunal estadual. Assim, apenas após decisão daquele Colegiado é que a matéria relativa à condenação do ora paciente pode ser apreciada por esta Casa.
+7. Impende reconhecer que é, sim, prematura qualquer manifestação do Superior Tribunal de Justiça sobre a condenação transitada em julgado do paciente, sendo adequado aguardar a atividade jurisdicional do órgão competente para tanto, sem que, portanto, banalize-se a atividade das Cortes Superiores ou diminua-se a relevância dos Tribunais locais.
+8. Agravo regimental não provido.
+VOTO
+Não assiste razão à defesa.
+Em esforço argumentativo, a defesa trouxe, na petição de agravo, julgamento do HC n. 872.325/SP pelo Superior Tribunal de Justiça, sob a relatoria da Min. Daniela Teixeira. A defesa chega a juntar cópia da referida decisão desta Casa (fl. 1399):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de XXX em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal 2094994-83.2023.8.26.0000).
+O paciente foi condenado à pena de 2 anos e 6 meses de reclusão em regime semiaberto, além do pagamento de 12 dias-multa, pela prática do crime previsto no art. 155, § 4º, II, do Código Penal (furto qualificado em razão do abuso de confiança, mediante fraude, escalada ou destreza).
+O Tribunal de origem deu parcial provimento à apelação interposta pelo Ministério Público a fim de redimensionar a pena para 2 anos e 4 meses de reclusão, além do pagamento de 11 dias-multa, mantida a condenação nos demais termos.
+A revisão criminal ajuizada pela defesa foi indeferida por meio de acórdão assim ementado:
+REVISÃO CRIMINAL FURTO QUALIFICADO PROVA NOVA - RETRATAÇÃO DE TESTEMUNHA LIMINAR CONCEDIDA APENAS PARA SUSPENDER OS EFEITOS DA CONDENAÇÃO ATÉ O JULGAMENTO DO PEDIDO REVISIONAL - NOVA VERSÃO APRESENTA INCONGRUÊNCIAS NÃO DEMONSTRADO ERROR IN JUDICANDO PEDIDO INDEFERIDO, CASSADA A LIMINAR.
+A defesa alega: a) necessidade de absolvição do paciente, haja vista a insuficiência probatória para a condenação; b) existência de prova nova, consistente em novo depoimento da testemunha de acusação, no sentido de se retratar e oferecer versão convergente com a apresentada pelo paciente ao longo da persecução penal; c) "a prova nova, de validade incontestável, fragiliza os fundamentos da condenação originária, tanto que a Procuradoria reconhece exatamente isso em seu parecer" (e-STJ fl. 8); d) violação ao sistema acusatório; e e) nulidade da revisão criminal, em razão da ausência de intimação da defesa para se manifestar sobre o julgamento virtual.
+Requer liminar para que o paciente possa aguardar em liberdade o julgamento definitivo da ação revisional e, definitivamente, deferimento da ordem a fim de declarar a nulidade da revisão criminal ou absolver o paciente. É o relatório.
+Decido.
+(..)
+Quanto ao mérito, são necessárias mais informações para o julgamento.
+Ante o exposto, defiro o pedido de liminar para assegurar que o paciente aguarde em liberdade o trânsito em julgado da Revisão Criminal nº 2094994-83.2023.8.26.0000.
+Como se depreende da leitura da decisão juntada à título persuasório, o ato apontado como coator no caso era uma decisão prolatada pelo Tribunal no bojo da ação de revisão criminal. No caso em tela, o ato trazido como coator é o acórdão da apelação. Isso porque ainda não há decisão na revisional na origem, já que o processo está concluso.
+O simples ajuizamento da revisão criminal na origem não inaugura a competência desta Corte Superior para que se pronuncie sobre condenações já transitadas em julgado. A competência para desconstituir condenações condenações com trânsito em julgado, como a do presente caso, pertence ao Tribunal estadual. Assim, apenas após decisão daquele Colegiado é que a matéria relativa à condenação do ora paciente pode ser apreciada por esta Casa.
+Logo, impende reconhecer que é, sim, prematura qualquer manifestação do Superior Tribunal de Justiça sobre a condenação transitada em julgado do paciente, sendo adequado aguardar a atividade jurisdicional do órgão competente para tanto, sem que, portanto, banalize-se a atividade das Cortes Superiores ou diminua-se a relevância dos Tribunais locais.
+À vista do exposto, nego provimento ao agravo regimental.
