@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso próprio. Não provimento.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a condenação do paciente à pena de 8 anos e 6 meses de reclusão em regime inicial fechado pela prática do crime de roubo majorado.
+2. A impetrante alega constrangimento ilegal devido à nulidade do reconhecimento do paciente realizado em sede policial, sem observância dos parâmetros do art. 226 do CPP, e desproporcionalidade no aumento da pena.
+3. O agravo regimental limita-se a reiterar os fundamentos utilizados na impetração do habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando não apresenta novos argumentos capazes de alterar o entendimento anteriormente firmado.
+5. Outra questão é saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio, especialmente na ausência de flagrante ilegalidade.
+III. Razões de decidir
+6. A jurisprudência desta Corte é pacífica no sentido de que o agravo regimental não deve ser conhecido quando não apresenta novos argumentos capazes de alterar a decisão agravada.
+7. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+8. A decisão condenatória foi fundamentada em elementos probatórios existentes nos autos, incluindo relatos das vítimas e depoimentos de agentes policiais, não havendo coação ilegal que justifique a concessão da ordem de ofício.
+IV. Dispositivo e tese
+9. Agravo regimental não provido .
+Tese de julgamento: "1. O agravo regimental não deve ser conhecido quando não apresenta novos argumentos capazes de alterar a decisão agravada. 2. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade."
+Dispositivos relevantes citados: CPP, art. 226; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, DJE 11.11.2024; STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de THIAGO VINICIUS GONCALVES contra decisão da minha lavra, às fls. 1203-1207, na qual foi mantida a condenação do paciente à pena de 08 anos e 06 meses de reclusão em regime inicial fechado pela prática do crime de roubo majorado.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que é nulo o reconhecimento do paciente realizado em sede policial que não observou os parâmetros estabelecidos no art. 226 do CPP. Além disso, aduz que há desproporcionalidade no aumento de 1/4 da pena em razão da identificação de duas agravantes na segunda fase da dosimetria da pena. Assevera também que não há fundamentação concreta para a exasperação da pena em razão da quantidade de causas de aumento acima do mínimo previsto na terceira fase da dosimetria da pena.
+Requer, em pedido liminar, possa o paciente aguardar em liberdade o julgamento do mérito do presente habeas corpus
+No mérito, pugna pela concessão da ordem para que o paciente seja absolvido em razão da nulidade do reconhecimento realizado em sede policial e, subsidiariamente, seja a pena reduzida nas frações de 1/5 na segunda fase e 1/3 na terceira fase.
+No agravo regimental interposto, às fls. 1213-1220, o recorrente se limita a reproduzir os mesmos fundamentos utilizados para sustentar a impetração do mandamus, como exposto acima.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso próprio. Não provimento.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a condenação do paciente à pena de 8 anos e 6 meses de reclusão em regime inicial fechado pela prática do crime de roubo majorado.
+2. A impetrante alega constrangimento ilegal devido à nulidade do reconhecimento do paciente realizado em sede policial, sem observância dos parâmetros do art. 226 do CPP, e desproporcionalidade no aumento da pena.
+3. O agravo regimental limita-se a reiterar os fundamentos utilizados na impetração do habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando não apresenta novos argumentos capazes de alterar o entendimento anteriormente firmado.
+5. Outra questão é saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio, especialmente na ausência de flagrante ilegalidade.
+III. Razões de decidir
+6. A jurisprudência desta Corte é pacífica no sentido de que o agravo regimental não deve ser conhecido quando não apresenta novos argumentos capazes de alterar a decisão agravada.
+7. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+8. A decisão condenatória foi fundamentada em elementos probatórios existentes nos autos, incluindo relatos das vítimas e depoimentos de agentes policiais, não havendo coação ilegal que justifique a concessão da ordem de ofício.
+IV. Dispositivo e tese
+9. Agravo regimental não provido .
+Tese de julgamento: "1. O agravo regimental não deve ser conhecido quando não apresenta novos argumentos capazes de alterar a decisão agravada. 2. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade."
+Dispositivos relevantes citados: CPP, art. 226; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, DJE 11.11.2024; STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos, haja vista a ausência de formulação de novos argumentos suscitados pelo recorrente aptos a ocasionar sua alteração.
+Nenhum argumento novo foi ventilado, sequer indiretamente.
+Ora, é pacífica a jurisprudência desta Corte no sentido de que inexistentes novos argumentos capazes de alterar o entendimento anteriormente firmado, o recurso não deve ser conhecido. A propósito:
+Nos termos da jurisprudência desta Corte Superior, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecido na decisão agravada sob pena de ser mantida a decisão pelos seus próprios fundamentos (súmula 182 do Superior Tribunal de Justiça). Limitando-se o recorrente a reiterar os argumentos expostos na inicial do habeas corpus, não deve o agravo regimental ser conhecido." AgRg no HC 841050/ES - Quinta Turma - Relatora Ministra Daniela Teixeira - DJE de 11.11.2024.
+Ademais, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda que superadas as duas questões preliminares postas acima, não vislumbrei a presença de coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Na decisão de fls. 1203-1207 assim expus os fundamentos restantes da denegação da ordem, os quais incorporo como razões de decidir neste voto:
+"(..) Convergem as duas Turmas Criminais deste Tribunal Superior no entendimento de que o reconhecimento pessoal realizado em desacordo com as regras do artigo 226 do CPP, quando desacompanhado de outros elementos que apontem a autoria do delito imputado, não pode servir como fundamento único a amparar a condenação do reconhecido, ainda que haja a confirmação em juízo:
+(..)
+Não é, contudo, o que ocorre nestes autos pois a condenação pautou-se em outros elementos de prova colhidos no decorrer da instrução. Colho os seguintes trechos extraídos do acórdão impetrado: "Como se vê, a prova amealhada aos autos é segura no sentido de incriminar os apelantes pela prática do delito de roubo pelo qual se viram condenados. É que as vítimas João e Marli, nas duas fases da persecução penal, e Michela e Milena, em solo policial, narraram os fatos de forma firme, coerente e detalhada, sendo certo que Marli, na primeira fase da persecução penal, ao visualizar uma fotografia de Thiago Gonçalves, afirmou que ele "tem bastante semelhança com um dos assaltantes que ingressaram em sua residência no dia do roubo" (sic). Apenas para que não fique sem registro, na época em que praticado o roubo não havia, no acervo fotográfico da delegacia de polícia, imagem alguma dos apelantes, tal como exposto em juízo pelos policiais civis Marcio e Fausto, o que intuitivamente elucida a razão pela qual nenhuma das vítimas foi capaz de reconhecer qualquer dos roubadores, que utilizavam capuzes ao ensejo da empreitada criminosa, no momento em que prestadas as declarações de cada uma delas na primeira fase da persecução penal. Posteriormente, com a prisão em flagrante dos apelantes em virtude de outro crime de roubo ocorrido cerca de três meses após a infração aqui apurada, foram exibidas fotografias deles à vítima Marli, a qual apontou a existência de significativa semelhante física de Thiago Gonçalves com um dos roubadores, os quais, reforce-se, utilizaram capuzes durante a ação delitiva, sendo certo que o fato das vítimas Marli e João, em juízo, não terem reconhecido qualquer dos apelantes em nada os beneficia, pois intuitivamente justificável não apenas pelo aludido uso de capuzes, mas também pelo tempo decorrido desde o cometimento do crime (a oitiva em juízo ocorreu aos 6 de julho de 2016, ou seja, quase quatro anos após o roubo suportado pelas vitimas). (..) Aliados às declarações das vítimas, têm-se, ainda, os depoimentos dos policiais civis Marcio e Fausto, que expuseram, em juízo, as diligências e circunstâncias que levaram à identificação dos apelantes como sendo os responsáveis pelo roubo descrito na denúncia. Ora, conquanto não tenham presenciado a prática delitiva em questão, os policiais asseveram a respeito da prisão em flagrante dos apelantes em virtude da prática de outro delito de roubo e das razões pelas quais os identificaram como responsáveis por diversos crimes de roubo, inclusive o exposto na inicial acusatória, porquanto praticadas todas as infrações de maneira semelhante ("A abordagem era feita quando a vítima chegava em casa com carro. Eles rendiam o motorista, posteriormente todos entravam na casa e rendiam todos os moradores. Amarravam as vítimas, um ficava escutando rádio HT na frequência da Polícia Militar, perguntavam às vítimas o endereço da casa, eles recolhiam todos os objetos eletrônicos, dinheiro, jóias, colocavam no carro, geralmente da vítima, saiam com o carro e, logo após fazerem o transporte dos objetos, eles abandonavam o veículo" sic), tendo a vítima Marli reconhecido, como sendo de sua propriedade, objetos apreendidos em poder Thiago Gonçalves e Tiago de Lima, além de ter reconhecido, por meio de fotografia, Thiago Gonçalves como sendo bastante semelhante a um dos executores do roubo por ela suportado."
+Não há dúvida, portanto, que a decisão condenatória foi proferida com lastro nos elementos probatórios existentes nos autos, em especial, no relato posterior das vítimas e nos depoimentos prestados pelos agentes policiais. Aliás, ao relato da vítima é mister que seja conferida maior relevância por se tratar de crime contra o patrimônio, espécie de infração penal que, não raro, acontece em contexto de clandestinidade.
+Neste sentido:
+(..)
+Por derradeiro, observa-se que o Tribunal impetrado se valeu de forma fundamentada dos elementos que guarnecem os autos para dimensionar a penal final em desfavor do paciente, na forma dos artigos 59 e 68 do Código Penal e, neste contexto, a revisão da dosimetria realizada implicaria profundo revolvimento fático-probatório, conduta vedada na via estreita do presente remédio constitucional.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus."
+Ante o exposto, os autos demonstraram os autos de forma segura que é inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, razão pela qual nego provimento ao agravo regimental.
+É como voto.
