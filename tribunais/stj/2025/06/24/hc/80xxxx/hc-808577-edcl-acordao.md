@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MODUS OPERANDI. OMISSÕES INEXISTENTES. INTENTO DE REEXAME DO PRÓPRIO MÉRITO DO REMÉDIO CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de mero inconformismo da parte.
+2. No caso, o acórdão embargado foi claro ao concluir estar suficientemente fundamentado o ato constritivo da liberdade do réu. Como bem ressaltaram as instâncias de origem, justifica-se a medida constritiva da liberdade, a bem da ordem pública, diante do modus operandi empregado na conduta delitiva, revelador da periculosidade do acusado.
+3. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por BRUNO DA SILVA DANTAS contra acórdão oriundo da Sexta Turma desta Corte, de minha relatoria, assim ementado (e-STJ fl. 295/300):
+AGRAVO REGIMENTAL HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MODUS OPERANDI. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AGRAVO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão foi decretada em decorrência do modus operandi empregado na prática, em tese, dos crimes de homicídio qualificado. Ao que se depreende dos autos, o agravante e os corréus, agindo em comunhão de vontades e unidade de desígnios, mataram as vítimas JHONATAS LINHARES SILVA, TADEU SOUSA ALMEIDA, ERINALDO SEVERINO DOS SANTOS e JOSÉ DA SILVA LIMA, por motivo torpe e mediante recurso que dificultou-lhes a defesa. Segundo o apurado, os ofendidos eram parentes de Marcelo Bezerra, conhecido criminoso da região e que integrava grupo rival ao dos acusados, de modo que os assassinatos foram cometidos em razão dessa rixa, como forma de vingança. As testemunhas relataram que os acusados chegaram no local dos fatos com as armas em punho procurando por Marcelo e, como não o encontraram, abriram fogo contra seus familiares, ceifando suas vidas. Os laudos tanatoscópicos demonstraram a brutalidade e crueldade empregada por eles, que efetuaram diversos disparos de arma de fogo contra as vítimas, especialmente na cabeça. Dessarte, evidenciada a periculosidade do agravante e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Nos termos da orientação do Superior Tribunal de Justiça, "em delito de autoria coletiva a necessidade de minuciosa individualização da conduta de cada acusado é mitigada diante da complexidade do caso, bastando que haja descrição fática suficiente a demonstrar a existência do crime e o vínculo entre o acusado e a empreitada criminosa, o que ocorreu no caso concreto" (RHC 42.294/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, D Je 5/5/2014).
+4. Condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Precedentes.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+6. Agravo regimental desprovido.
+Alega o embargante a existência de omissão no julgado, argumentando que "é dever do magistrado a manifestação fundamentada das decisões que proferir, em obediência ao que dispõe o art. 93, IX. Daí se deriva a necessidade de também se manifestar acerca da manutenção, revogação ou substituição da prisão anteriormente ordenada, consoante o at. 413, §3º, do CPP, o que não ocorreu" (e-STJ fl. 310).
+É, em síntese, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MODUS OPERANDI. OMISSÕES INEXISTENTES. INTENTO DE REEXAME DO PRÓPRIO MÉRITO DO REMÉDIO CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de mero inconformismo da parte.
+2. No caso, o acórdão embargado foi claro ao concluir estar suficientemente fundamentado o ato constritivo da liberdade do réu. Como bem ressaltaram as instâncias de origem, justifica-se a medida constritiva da liberdade, a bem da ordem pública, diante do modus operandi empregado na conduta delitiva, revelador da periculosidade do acusado.
+3. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não vislumbro o vício apontado.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de mero inconformismo da parte.
+No caso, o acórdão embargado foi claro ao concluir que o embargante e os corréus, agindo em comunhão de vontades e unidade de desígnios, mataram as vítimas JHONATAS LINHARES SILVA, TADEU SOUSA ALMEIDA, ERINALDO SEVERINO DOS SANTOS e JOSÉ DA SILVA LIMA, por motivo torpe e mediante recurso que dificultou-lhes a defesa. Segundo o apurado, os ofendidos eram parentes de Marcelo Bezerra, conhecido criminoso da região e que integrava grupo rival ao dos acusados, de modo que os assassinatos foram cometidos em razão dessa rixa, como forma de vingança. As testemunhas relataram que os acusados chegaram no local dos fatos com as armas em punho procurando por Marcelo e, como não o encontraram, abriram fogo contra seus familiares, ceifando suas vidas. Os laudos tanatoscópicos demonstraram a brutalidade e crueldade empregada por eles, que efetuaram diversos disparos de arma de fogo contra as vítimas, especialmente na cabeça.
+Nesse contexto, entendi suficientemente fundamentado o ato constritivo em desfile. Como bem ressaltaram as instâncias de origem, justifica-se a medida constritiva da liberdade, a bem da ordem pública, diante do modus operandi empregado na conduta delitiva, revelador da periculosidade do agravante.
+Tais circunstâncias, como já destacado, evidenciaram a gravidade concreta da conduta, porquanto extrapolaram a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar pareceu-me necessária como forma de acautelar a ordem pública.
+Assim, não vislumbro nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+Logo, não padece o acórdão embargado de nenhum vício.
+À vista do exposto, rejeito os presentes embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
