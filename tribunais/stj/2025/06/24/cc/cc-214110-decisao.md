@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SÃO JOSÉ (SC) e o TRIBUNAL REGIONAL DO TRABALHO DA 12ª REGIÃO, para definir a competência para processar e julgar reclamação trabalhista ajuizada por VERIDIANE SOARES em desfavor de DWF2 - DIGITAL WORLD FAST SERVIÇOS GERAIS LTDA. e OUTRAS, objetivando o reconhecimento de vínculo empregatício e a condenação das reclamadas ao pagamento das verbas trabalhistas.
+A Justiça laboral, na qual a ação foi proposta, declinou da competência e determinou a remessa dos autos à Justiça comum com fundamento no que fora decidido no âmbito da ADC n. 48 (fls. 56-71).
+O JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SÃO JOSÉ, por sua vez, suscitou o presente conflito por entender que a questão relativa ao reconhecimento do vínculo empregatício e ao recebimento das verbas trabalhistas se insere no âmbito do direito trabalhista (fls. 73-75).
+O Ministério Público Federal manifestou-se no sentido de não ser caso de sua atuação (fls. 80-83).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia refere-se à definição do juízo competente para processar e julgar demanda sobre a caracterização de vínculo empregatício em contrato de prestação de serviços de transporte rodoviário de carga.
+A competência ratione materiae, via de regra, é questão anterior a qualquer outra sobre espécies de competência e, sendo determinada em função da natureza jurídica da pretensão deduzida, decorre diretamente do pedido e da causa de pedir deduzidos em juízo.
+No caso, os fundamentos de fato e de direito dizem respeito à suposta existência de relação de emprego, pois, apesar de haver a contratação na vigência da Lei n. 11.442/2007, a pretensão é o reconhecimento do vínculo trabalhista entre os interessados.
+No entanto, sobre esse tema, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que cabe à Justiça estadual definir se estão presentes os requisitos do transporte rodoviário de cargas, nos termos da Lei n. 11.442/2007 (ADI n. 3.961, relator Ministro Roberto Barroso, Tribunal Pleno, sessão de 15/4/2020, DJe de 5/6/2020; e RCL n. 43.982/ES, relator Ministro Roberto Barroso, decisão monocrática proferida em 25/2/2021, DJe de 2/3/2021), não sendo, portanto, a competência inicial da Justiça do Trabalho, sob pena de ofensa ao decidido na ADC n. 48.
+No mesmo sentido é a jurisprudência do STJ: AgInt no CC n. 180.647/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/11/2021, DJe de 7/12/2021.
+Assim, cabe à Justiça comum estadual o afastamento ou reconhecimento dos requisitos do transporte rodoviário de cargas.
+Caso entenda não estarem preenchidos os requisitos necessários à constituição da relação civil, deve extinguir o feito de maneira fundamentada, cabendo ao interessado posteriormente ajuizar ação na esfera trabalhista competente.
+No caso em análise, não se desincumbiu a Justiça estadual da necessária análise sobre a presença ou não dos requisitos do transporte rodoviário de cargas, nos termos da Lei n. 11.442/2007. Ao contrário, limitou-se a afirmar ser indevida a decisão da Justiça trabalhista, porquanto a pretensão está diretamente relacionada ao reconhecimento ou não de um contrato de trabalho (fl. 74 ).
+Assim, agiu em sentido oposto ao entendimento do STF e do STJ, segundo os quais a discussão sobre a presença (ou ausência) dos pressupostos e requisitos legais inerentes à contratação na vigência da Lei n. 11.442/2007 deve iniciar-se na Justiça comum e somente quando constatado que não foram preenchidos os requisitos previstos na lei supracitada é que a competência passará a ser da Justiça do Trabalho.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 4ª Vara Cível de São José (SC) , o suscitante .
+Publique-se. Intimem-se.
+EMENTA
