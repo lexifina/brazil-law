@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por MARCIA FATIMA ZIK contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 581):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. ERRO MÉDICO E LABORATORIAL. SUPOSTO ERRO DE DIAGNÓSTICO E FALHA EM LAUDO LABORATORIAL. NECESSIDADE DE PERÍCIA MÉDICA. SENTENÇA DESCONSTITUÍDA DE OFÍCIO. A QUESTÃO FÁTICA TRAZIDA NESTE FEITO É DE NATUREZA ABSOLUTAMENTE TÉCNICA, DA ÁREA MÉDICA, E POR UM ESPECIALISTA PRECISA SER ANALISADA PARA QUE O JULGAMENTO DA DEMANDA SEJA ADEQUADO E ATENDA OS RELEVANTES PRINCÍPIOS E GARANTIAS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. ASSIM, POR SE TRATAR DE PROVA INDISPENSÁVEL, IMPÕE-SE A DESCONSTITUIÇÃO DA SENTENÇA DE OFÍCIO E A DETERMINAÇÃO DE QUE HAJA O SANEAMENTO E ORGANIZAÇÃO DO PROCESSO, BEM COMO A REABERTURA DA INSTRUÇÃO PARA A REALIZAÇÃO DE PERÍCIA MÉDICA PARA ANALISAR TODA A DOCUMENTAÇÃO ACOSTADA AOS AUTOS E VERIFICAR A (IN)EXISTÊNCIA DE ERRO DE DIAGNÓSTICO E LABORATORIAL COMO AFIRMADO NA EXORDIAL. SENTENÇA DESCONSTITUÍDA DE OFÍCIO, APELAÇÕES JULGADAS PREJUDICADAS.
+Rejeitados os embargos de declaração opostos pela recorrente (fls. 603-606).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 4º, 6º, 7º, 357, 369, 370, 371, 373, I e II, e 570 do CPC, sustentando que, "tendo em vista que não houve o requerimento dos recorridos da realização de prova pericial, ocorreu a preclusão consumativa no ponto, não podendo ser a sentença desconstituída de ofício por este argumento" (fl. 630).
+Foram oferecidas contrarrazões (fls. 650-654).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 658-661), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 698-702).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 489 e 1.022 do CPC, o recurso especial não merece prosperar, pois as questões relativas à apreciação da prova e à necessidade de desconstituição da sentença, proferida em desconformidade com a legislação, foram devidamente apreciados pelo Tribunal de origem, de maneira a afastar as alegações de omissão e negativa de prestação jurisdicional.
+A propósito, cito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANOMORAL. SUSPENSÃO DO FORNECIMENTO DOSERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NORESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º,E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA.DEVER DE INDENIZAR. REQUISITOS PARA ARESPONSABILIZAÇÃO DA CONCESSIONÁRIA.ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DAINDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos. .. 6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários, pois não fixados na origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO E LABORATORIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. SENTENÇA DESCONSTITUÍDA DE OFÍCIO. QUESTÃO TÉCNICA. PRECLUSÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE SÚMULA 7/STJ. AGRAVO IMPROVIDO.
