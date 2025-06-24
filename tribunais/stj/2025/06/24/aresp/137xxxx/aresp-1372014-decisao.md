@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por ÁQUILA REGINA LEITE E TOMOKO MIURA contra decisão da Corte de origem que, em parte, negou seguimento ao recurso especial quanto às questões sobre as quais em conformidade o acórdão com os Temas Repetitivos 962/STJ e 981/STJ, inadmitindo-o quanto à parte remanescente, considerando o acórdão combatido, assim ementado (fl. 153):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REDIRECIONAMENTO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. PRESCRIÇÃO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO NÃO PROVIDO.
+1. Presume-se dissolvida irregular mente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+2. No caso dos autos, a constituição do crédito tributário deu-se com a entrega das declarações pelo contribuinte, o que ocorreu em 01/07/2010 e a execução foi ajuizada em 11/03/2014, não se verificando, portanto a ocorrência de prescrição.
+3. Assim, de rigor a manutenção da decisão recorrida, que afastou a prescrição alegada, tendo vista que não decorreu o prazo de 5 (cinco) anos.
+4. Agravo não provido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018), de modo que não se conhece do AREsp na falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial.
+No caso dos autos, as razões recursais não impugnam especificamente a decisão que inadmitiu o recurso especial pelo óbice da Súmula 7/STJ, ao fundamento de que o Tribunal firmou suas conclusões com lastro no suporte fático-probatório e a pretensão recursal de infirmar as premissas fáticas que serviram de fundamento ao acórdão recorrido relativamente (i) à dissolução irregular, (ii) poderes de gerência e de que (iii) não operada a prescrição, com base nas datas dos eventos, requer o reexame do acervo fático-probatório dos autos.
+Diz-se assim porque a parte agravante, no ponto, cinge-se a alegações genéricas e razões dissociadas, sustentando meramente que o caso enseja revaloração de provas, com o correto enquadramento jurídico dos fatos, passando a afirmar que: não demonstrado que os sócios agiram com excesso de poderes ou com infração de lei ou contrato ou de forma dolosa ou fraudulenta e que não haveria comprovação da data da declaração.
+Com efeito, as razões do AREsp demonstram que a análise da pretensão recursal demanda efetivamente reexame de fatos e provas por esta Corte Superior, porquanto busca a modificação das próprias premissas fáticas firmadas nas instâncias ordinárias na via eleita, conforme fundamentação trazida na decisão de inadmissão - providência vedada no âmbito do recurso especial.
+A jurisprudência do STJ entende que, para impugnar especificamente a Súmula 7/STJ, o agravante deve demonstrar de que maneira a análise da tese jurídica, considerando as premissas fixadas no acórdão, não dependeria do reexame de provas - o que não ocorreu.
+Assinale-se que não supre o princípio da dialeticidade, cumprindo-se com a impugnação específica, requisito legal de admissibilidade do AREsp, nos termos do disposto nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ, a falta de confronto direto e pertinente contra o que pontualmente consta na decisão de inadmissibilidade, para fins de demonstrar o seu desacerto.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
