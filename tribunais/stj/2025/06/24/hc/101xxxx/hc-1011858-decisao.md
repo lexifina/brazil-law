@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ EDUARDO MARINHO DA SILVA TEIXEIRA - condenado como incurso no crime de tráfico de drogas privilegiado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0025368-08.2020.8.19.0001), não comporta processamento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da Vara Criminal da comarca de Araruama/RJ, ao argumento de nulidade consistente na quebra da cadeia de custódia. Subsidiariamente, pede a revisão da dosimetria.
+Ocorre que é inviável a utilização da via eleita para revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias. Ademais, do atento exame dos autos, não se observa constrangimento ilegal capaz de justificar a superação do referido óbice.
+Isso porque, em relação à alegada quebra da cadeia de custódia, observa-se que a Corte estadual afastou a referida nulidade, em razão da ocorrência de preclusão e da ausência de comprovação de efetivo prejuízo (fls. 94/96).
+A fundamentação adotada pelo Tribunal a quo se encontra em consonância com o posicionamento firmado pelo Superior Tribunal de Justiça, pois a defesa não apresentou elementos concretos que demonstrassem adulteração ou interferência indevida na prova, sendo necessário reexame de fatos e provas para desconstituir a decisão de origem (AgRg no RHC n. 205.429/GO, Ministro Messod Azulay Neto, Quinta Turma, DJEN 17/2/2025).
+Melhor sorte não assiste ao pleito dosimétrico, tendo a pena-base sido fixada acima do mínimo legal, em razão da quantidade e natureza da droga apreendida, encontrando amparo no art. 42 da Lei n. 11.343/2006 e nos arts. 59 e 68 do Código Penal.
+Deve ser mantida a fração de 1/2 utilizada na minorante do tráfico privilegiado, uma vez que idônea a fundamentação utilizada pelas instâncias ordinárias para tanto, pois, além de o apelante portar rádio comunicador, os entorpecentes apreendidos apresentavam inscrições alusivas à facção criminosa dominante na localidade, o que evidencia que a mercancia ilícita destinava-se a fomentar o poderio econômico e bélico da referida organização (fl. 104).
+Por fim, inviável o reconhecimento da atenuante da confissão espontânea, uma vez que o apelante não admitiu a prática delitiva nem na fase policial, tampouco em Juízo (fl. 105).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. QUEBRA DA CADEIA DE CUSTÓDIA. COMPROVAÇÃO DO EFETIVO PREJUÍZO. AUSÊNCIA. DOSIMETRIA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Petição inicial indeferida liminarmente.
