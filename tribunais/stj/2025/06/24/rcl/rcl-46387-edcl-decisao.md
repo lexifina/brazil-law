@@ -1,0 +1,45 @@
+DECISÃO
+1. Cuida-se de embargos de declaração (fls. 268-275) interpostos pela Defensoria Pública do Estado de Minas Gerais, contra a decisão de fls. 255-257, que negou seguimento ao recurso extraordinário manejado pelo Estado de Minas Gerais.
+Nas razões dos embargos de declaração, narra que, representando DEUSIMAR DA SILVA ROBERTO, ajuizou a presente reclamação contra o Estado de Minas Gerais, tendo sido julgada procedente. Não se resignando, o ente da federação apresentou agravo interno ao qual foi negado provimento por esta Corte. Por fim, manejado recurso extraordinário pelo referido Estado, foi-lhe negado seguimento.
+Afirma que apesar da procedência do pedido, da angularização da relação processual e da sucumbência da parte ré, as decisões proferidas nestes autos deixaram de fixar os honorários advocatícios sucumbenciais devidos à parte vencedora. Sendo a decisão recorrida omissa quanto a esse ponto.
+Cita jurisprudência do Superior Tribunal de Justiça sobre o cabimento de honorários advocatícios subumbenciais em sede de reclamação e sobre tratar-se de matéria de ordem pública, bem como o Tema n. 1.002 do Supremo Tribunal Federal, que afirma ser devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra.
+Requer o acolhimento dos embargos de declaração para, sanando a omissão, sejam fixados honorários advocatícios de sucumbência, nos termos do art. 85 do CPC.
+DECIDO.
+2. De início, registre-se que o art. 85 do Código de Processo Civil dispõe:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+(..)
+De acordo com o referido dispositivo legal, a fixação dos honorários pelo tribunal pressupõe o julgamento do processo.
+Com efeito, a Constituição da República estabeleceu em seu art. 102, III, a competência exclusiva do Supremo Tribunal Federal para julgar, mediante recurso extraordinário, as causas decididas em única ou última instância.
+Seguindo essa diretriz constitucional, a Vice-Presidência do Superior Tribunal de Justiça exerce, por delegação do Presidente, a análise da admissibilidade do recurso extraordinário interposto para o Supremo Tribunal Federal, nos termos do art. 22, § 2º, I, "a", do Regimento Interno do STJ e do art. 1.030 do Código de Processo Civil.
+Esse juízo é estritamente vinculado à verificação de requisitos formais de admissibilidade do recurso extraordinário e à aplicação das balizas definidas pelo STF no regime da repercussão geral. À Vice-Presidência compete:
+Negar seguimento ao recurso quando inexistente repercussão geral ou quando o acórdão recorrido estiver em conformidade com entendimento já consolidado pelo STF (art. 1.030, I);
+Determinar o retorno dos autos ao órgão julgador para eventual juízo de retratação, quando o acórdão divergir da orientação do STF (art. 1.030, II);
+Sobrestar o recurso para aguardar julgamento de tema em repercussão geral ou selecionar recurso representativo da controvérsia (art. 1.030, III e IV);
+Realizar o juízo de admissibilidade e, sendo positivo, remeter os autos ao STF (art. 1.030, V).
+Esse exame pressupõe o esgotamento das vias recursais ordinárias nesta Corte.
+Assim, a jurisprudência pacífica tanto desta Corte quando do STF é no sentido de que, na admissibilidade dos recursos dirigidos a tribunais superiores, não se realiza qualquer incursão no mérito da controvérsia, mas apenas mera aferição do preenchimento, ou não, dos requisitos ao conhecimento da irresignação para efeito de devolução ao Superior Tribunal de Justiça ou ao Supremo Tribunal Federal.
+Nessa linha de entendimento, concluiu-se no sentido de que consubstanciando, o juízo de admissibilidade do recurso, ato judicial restrito ao exame dos pressupostos processuais do reclamo, não possui qualquer conteúdo decisório.
+Nesse sentido, a iterativa jurisprudência do STJ: AgRg no AREsp 437.628/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, Dje 3/12/2014; AgRg no AREsp 412.369/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2014; HC 87.132/SP, Rel. Ministra Jane Silva, Sexta Turma, DJe 19/12/2008; EDcl no AgRg nos EDcl no AREsp 338.492/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 28/03/2014; AgRg no AREsp 412.369/RN, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2013, DJe 6/3/2014; AgRg no Ag 1286765/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 09/12/2011; REsp nº 2.001.631/RS, rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/5/2023, DJe de 2/6/2023.
+Na mesma direção converge a jurisprudência do col. STF: RHC 117.612, Rel. Min. Teori Zavascki; HC 97.293, Rel.ª Min.ª Cármen Lúcia; HC 94.089, Rel. Min. Ayres Britto; AgR no ARE 813030, Rel. Min. Roberto Barroso, AgR no ARE 867963; Rel. Min. Roberto Barroso; AgR-ED no ARE 1392660, Rel. Min. Edson Fachin.
+Registre-se que, mesmo quando a Vice-Presidência nega seguimento ao recurso extraordinário em razão de paradigma firmado em sede de repercussão geral, não há julgamento da insurgência, mas simplesmente o exercício de atribuição própria, prevista no art. 1.030 do Código de Processo Civil, consoante tem reiteradamente decidido a Suprema Corte: Rcl n. 70398 AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 24/2/2025, DJe de 5/3/2025 e Rcl n. 67231 AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 17/2/2025, DJe de 26/2/2025, dentre outros.
+Ressalte-se, ainda, que esta o Superior Tribunal de Justiça tem o entendimento de que o "capítulo da sentença que trata dos honorários, ao disciplinar uma relação autônoma, titularizada pelo causídico, é de mérito, embora dependente e acessório, de modo que poderá ser discutido por meio de embargos infringentes se a sentença vier a ser reformada, por maioria de votos, no julgamento da apelação" (REsp n. 1.113.175/DF, relator Ministro Castro Meira, Corte Especial, julgado em 24/5/2012, DJe de 7/8/2012.)
+Portanto, restringindo-se o juízo de admissibilidade do recurso extraordinário ao exame dos pressupostos processuais, sem possuir conteúdo decisório, e constituindo o capítulo dos honorários parte do mérito, não há falar-se em possibilidade de fixação de honorários de sucumbência pela Vice-Presidência do STJ.
+3. Consigne-se, por fim, que embora se pudesse cogitar de remessa dos autos à respectiva Turma do STJ, que negou provimento ao agravo interno da parte contrária, em virtude da discussão sobre honorários advocatícios de sucumbência ser considerada de ordem pública, no presente caso tem-se a impossibilidade de fazê-lo, ante a ocorrência de preclusão.
+Com efeito, contra o acordão de fls. 237-243, que negou provimento ao agravo interno do Estado, não foram interpostos embargos de declaração pela Defensoria Pública, objetivando suprir a omissão sobre os honorários sucumbenciais.
+Assim, percebe-se que o debate acerca da fixação de honorários advocatícios de sucumbência esgotou-se com o julgamento pelo órgão colegiado do agravo interno contra a decisão que julgou procedente a reclamação.
+Com relação aos honorários advocatícios de sucumbência, cumpre destacar orientação jurisprudencial deste Tribunal Superior, no sentido de ser necessária a insurgência específica da parte, no momento processual oportuno, sob pena de preclusão.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA NÃO SUSCITADA EM APELAÇÃO. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA.
+ ..  3. Segundo a jurisprudência desta Corte, ocorre a preclusão da questão referente aos honorários advocatícios de sucumbência que não foi objeto de impugnação em apelação.
+4.Agravo interno não provido. (AgInt no REsp n. 1.987.104/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022)
+___
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE MAJORAÇÃO EM RESP ANTERIOR. PERCENTUAL SOBRE OS HONORÁRIOS ADVOCATÍCIOS. NÃO PROVIMENTO.
+1. Determinado o critério de majoração dos honorários advocatícios recursais, por decisão preclusa, em percentual sobre o valor dos honorários sucumbenciais, descabe a alteração para que o referido percentual incida sobre outro valor.
+2. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.925.050/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021)
+___
+Dessa maneira, a previsão legal de atuação da Vice-Presidência desta Corte e a preclusão impedem manifestação sobre eventual fixação de honorários sucumbenciais.
+4. Ante todo o exposto, à míngua de omissão, rejeito os embargos de declaração.
+Publique-se e Intimem-se.
+EMENTA
