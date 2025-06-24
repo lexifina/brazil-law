@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 116):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE EFEITO SUSPENSIVO ATIVO. CUMPRIMENTO DE SENTENÇA. REAJUSTE REMUNERATÓRIO. REMESSA DOS AUTOS AO CONTADOR JUDICIAL. COMPENSAÇÃO DAS VERBAS PAGAS. DECISÃO NÃO TERATOLÓGICA. RECURSO DESPROVIDO.
+- Cuida-se de agravo de instrumento, interposto por AFONSO GERMANO DE ZEVEDO, ALEX ARRUDA, ALEXANDRE SOARES VALENTIM, ALEXANDRE ALVES SANTOS e ALEXANDRE DE ALMEIDA, com pedido de atribuição de efeito suspensivo ativo, alvejando decisão que, nos autos de cumprimento de sentença, dentre outras medidas, determinou a remessa dos autos de origem ao Contador Judicial, para que seja apurado o "valor devido no período de 01/93 a 06/98, compensando-se o montante obtido com as verbas pagas sob o mesmo título, no período de 12/2002 a 01/2017, conforme documentos acostados em evento 17".
+- Como razões de decidir, o Magistrado singular deixou registrado que o tema inerente à limitação executiva, em decorrência da incorporação de valores nos vencimentos dos exequentes, ora agravantes, apesar de não ter sido ventilado pela União, não impede que seja debatido no âmbito do cumprimento de sentença então deflagrado, na medida em que tal questão, por não ter sido apreciada em sede de apelação, não parece integrar a coisa julgada.
+- Foi destacado na decisão ora impugnada que a Lei n.º 11.358/2006 ao promover a reestruturação de diversas carreiras, inclusive a carreira dos exequentes, ora recorrentes, majorou os vencimentos dos mesmos. Logo, foi acentuado que, consoante entendimento firmado pelo Colendo Supremo Tribunal Federal, nos autos do julgamento do RE n.º 596.663, o reajuste devido por força de decisão judicial ficaria absorvido por concessão de reajuste posterior.
+- Conforme asseverado pelo Juízo a quo, os ganhos determinados pela sentença transitada em julgado já se encontrariam, de fato, absorvidos pelo reajuste concedido aos autores, ora agravantes, no ano de 2006, de forma que os valores que configuram a execução deflagrada se limitariam ao período de 17/03/2005 a 20/10/2006, data da vigência da aludida legislação, a qual concedeu o mencionado reajuste.
+- Na linha do posicionamento adotado pelo Julgador de piso, a execução proposta deveria, em um primeiro momento, ser procedida "à integração do reajuste nos vencimentos (obrigação de fazer), para depois se promover a obrigação de pagar, pelas diferenças devidas e apuradas" , contudo, "tendo em vista que a absorção dos valores já se deu em 2006, cabível o pagamento tão somente da diferença não prescrita".
+- Consoante entendimento desta Egrégia Corte, somente em casos de decisão teratológica, com abuso de poder ou em flagrante descompasso com a Constituição, a Lei ou com orientação consolidada de Tribunal Superior ou deste Tribunal, seria justificável sua reforma pelo órgão ad quem, em agravo de instrumento.
+- Recurso desprovido.
+Embargos de declaração rejeitados.
+Os recorrentes alegam violação dos artigos 503, 505, 506, 507, 508, 926, 1.022 e 1.025, todos do CPC/2015, sustentando, em suma, a ocorrência de negativa de prestação jurisdicional e afronta à coisa julgada.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 708.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Sob esse enfoque, verifica-se que o presente recurso foi interposto contra o acórdão proferido pelo Tribunal Regional Federal da 2ª Região nos autos do Agravo de Instrumento n. 5013828-77.2023.4.02.0000/RJ.
+Ocorre que, conforme se extrai do ofício acostado às fls. 971-987, o Supremo Tribunal Federal julgou procedente a RCL 74.540/RJ "para cassar o acórdão proferido pela Sexta Turma do Tribunal Regional Federal da Segunda Região no Agravo de Instrumento n. 5013828-77.2023.4.02.0000 e determinar outro seja proferido como de direito, observada a tese de repercussão geral firmada por este Supremo Tribunal no Recurso Extraordinário n. 596.663-RG, Tema 494 da repercussão geral".
+Assim, à vista do noticiado, reconheço a perda do objeto do presente
+recurso, pois manifesta a ausência de interesse recursal.
+Ante o exposto, julgo prejudicado o recurso especial, em virtude da perda de objeto (art. 34, inciso XI, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
