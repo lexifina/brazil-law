@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela SEÇÃO SINDICAL DOS DOCENTES DA UNIVERSIDADE FEDERAL DE SANTA MARIA - SEDUFSM, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 452/456):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. A Turma já entendeu que não cabe ao empregador ajuizar ação buscando afastar a obrigação de reter e recolher a contribuição dos empregados, porque importaria em decisão judicial que prejudique direitos de terceiro, sem que este seja chamado a defender-se.
+3. A legitimidade ativa é questão que pode ser analisada de ofício em qualquer tempo e grau de jurisdição.
+Os embargos de declaração opostos foram desprovidos (fls. 482/486).
+Nas razões de seu recurso, a parte recorrente alega afronta aos arts. 489, 506 e 1.022 do Código de Processo Civil (CPC), 121, II, e 128 do Código Tributário Nacional (CTN) e 30 da Lei 8.212/1991 ao defender sua legitimidade ativa, na qualidade de responsável tributário pela retenção da contribuição previdenciária dos seus empregados, para postular a não incidência dessa rubrica sobre o adicional de férias por eles recebido.
+A parte adversa apresentou contrarrazões (fls. 516/518).
+O recurso foi admitido (fls. 521/522).
+É o relatório.
+O Tribunal de origem reconheceu, de ofício, a ilegitimidade ativa da parte autora para postular a exclusão de rubricas da base de cálculo das contribuições previdenciárias devidas pelos seus empregados, extinguindo o processo sem resolução do mérito.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No mérito, a conclusão do Tribunal de origem está em consonância com o entendimento do Superior Tribunal de Justiça (STJ) de que não possui legitimidade ativa o empregador, na qualidade de agente arrecadador, para impugnar a incidência das contribuições previdenciárias de responsabilidade de seus empregados.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO. TESE NÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO NA ORIGEM. SÚMULA 356/STF. APLICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. JURISPRUDÊNCIA DOMINANTE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA 568/STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO. EMPRESA. ILEGITIMIDADE ATIVA. ART. 30 DA LEI 8.212/91. MERO AGENTE ARRECADADOR.
+ ..
+5. A empresa, quanto à parte da contribuição social devida por seus empregados, atua como agente arrecadador, não possuindo legitimidade ativa para discutir o direito à compensação ou à restituição do indébito. Precedentes: AgInt no REsp n. 1.563.612/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022; AgInt no REsp 1.895.544/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2021, DJe 1º/7/2021; AgInt nos EREsp 1.895.544/SC, Rel. Ministra Regina Helena Costa, Primeira Seção, julgado em 15/2/2022, DJe 17/2/2022; AgInt no REsp 1.834.855/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe 29/6/2021; AgInt no AgInt no REsp 1.673.655/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 25/4/2019, DJe 2/5/2019; e REsp 790.739/BA, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 10/10/2006, DJ 13/11/2006.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.755.253/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023, sem destaques no original.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. CONTRIBUIÇÃO PREVIDENCIÁRIA. EMPRESA COMO MERO AGENTE ARRECADADOR. ILEGITIMIDADE ATIVA POR NÃO INTEGRAR A RELAÇÃO JURÍDICO-TRIBUTÁRIA. SÚMULA 83/STJ.
+1. Conforme dito anteriormente, a controvérsia do Recurso Especial reside na possibilidade de o empregador pleitear, em juízo, a declaração de não incidência de contribuição previdenciária de empregados.
+2 Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem expressamente assentou a exigibilidade das contribuições previdenciárias questionadas e rejeitou a tese de legitimidade ativa da empresa para questioná-las judicialmente.
+3. Ademais, o Tribunal a quo não apenas analisou completamente o caso, como também o fez em conformidade com a jurisprudência do STJ, na medida em que asseverou que "o empregador não tem legitimidade para contestar a exigência de contribuição previdenciária imputada a seus empregados, posto que somente a retém em nome deles, conforme a alínea "a" do inciso I do art. 30 da Lei 8.212/1991." (fl. 380, e-STJ).
+4. De fato, o STJ possui orientação de que o empregador é mero arrecadador ao reter a contribuição previdenciária exigível de seus empregados, o que significa que não integra a relação jurídico-tributária. Logo, não lhe assiste o direito de impugnar a incidência das contribuições ou mesmo à compensação ou restituição do indébito, pois que não integra a relação jurídico-tributária.
+5. Assim sendo, aplica-se o referido entendimento ao caso concreto, ainda que a parte afirme agora que "possui legitimidade ativa para propor ação visando a impugnação da exação (..) sem a intenção de recuperar valores." (fl. 713, e-STJ).
+6. Sublinhe-se que a parte, nos Aclaratórios, afirmou expressamente o oposto, pois defendeu a "legitimidade da empresa para afastar a exigibilidade da contribuição parte empregado sobre as rubricas que reconhecidamente não ostentam caráter remuneratório" (fl. 398, e-STJ), o que configura, portanto, inovação recursal inviável.
+7. "Esta Corte adota o posicionamento segundo o qual a empresa, quanto à parte da contribuição social devida por seus empregados, atua como agente arrecadador, não tendo legitimidade ativa para discutir o direito à compensação ou restituição do indébito." (AgInt no AgInt no REsp 1.673.655/SC, Rel. Min. Regina Helena Costa, DJe 2/5/2019).
+8. Agravo Interno não provido.
+(AgInt no REsp n. 1.895.544/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2021, DJe de 1/7/2021, sem destaques no original.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
