@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LESÃO CORPORAL POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na fixação do regime prisional fechado, em razão da reincidência e existência de circunstâncias judiciais desfavoráveis, mesmo quando a pena é inferior a 4 anos de reclusão. Precedente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 440.348/2025) interposto por JEFFERSON ANTONIO PINTO DE OLIVEIRA contra decisão da lavra deste Relator (fls. 143/144), em que se indeferiu liminarmente a impetração, a seguir ementada:
+PENAL. HABEAS CORPUS. LESÃO CORPORAL QUALIFICADA. REGIME PRISIONAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ para revisão da condenação imposta e mantida pelas instâncias ordinárias - já assentaram, tanto o STJ, quanto o STF, de forma firme e uníssona, que, é possível a impetração de HC substitutivo, seja de recurso próprio, seja de revisão criminal (fls. 154) - e, no mérito, ratifica os argumentos da impetração, pretendendo a alteração do regime inicial fechado para semiaberto, apontando erro, considerando a pena inferior a 4 anos, levando em consideração a reincidência e os maus antecedentes, o regime mais gravoso e adequado, em via de regra o regime mais gravoso seria o semi-aberto, e não o regime fechado (fls. 158).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LESÃO CORPORAL POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na fixação do regime prisional fechado, em razão da reincidência e existência de circunstâncias judiciais desfavoráveis, mesmo quando a pena é inferior a 4 anos de reclusão. Precedente.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve o regime inicial fechado na condenação do agravante por lesão corporal qualificada a 1 ano, 4 meses e 10 dias de reclusão, proferida na Ação Penal n. 1503338-96.2023.8.26.0099 (da 2ª Vara Criminal da comarca de Bragança Paulista/SP) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois a fundamentação para fixação do regime fechado - as circunstâncias judiciais são desfavoráveis e o acusado é reincidente, tudo a indicar que condenações anteriores não bastaram a que se emendasse, havendo a necessidade de maior rigor no início do cumprimento da pena (fls. 144) - está de acordo com o entendimento desta Corte Superior.
+Nesse sentido: AgRg no REsp n. 2.179.561/SP, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.
+Em razão disso, ne go provimento ao agravo regimental.
