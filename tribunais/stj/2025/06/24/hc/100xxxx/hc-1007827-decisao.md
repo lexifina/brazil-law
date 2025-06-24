@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ALLAN ROBERT DE SOUZA GOMES FILHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2098278-31.2025.8.26.0000 (fls. 80/85).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 30/3/2025, convertida a prisão em preventiva, pela suposta prática dos crimes de roubo majorado, resistência, dano qualificado e corrupção de menor (P rocesso n. 1500850-50.2025.8.26.0536, em trâmite na 2ª Vara Criminal da comarca de São Vicente/SP).
+No presente habeas corpus, a defesa sustenta agressão por parte dos policiais no momento da prisão em flagrante ; ausência dos requisitos previstos no art. 312 do CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada em elementos concretos; ressalta as condições pessoais favoráveis.
+O pedido liminar foi indeferido (fls. 88/89).
+Após as informações (fls. 95/98), o Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do habeas corpus, e, vencida a preliminar, pela denegação da ordem (fls. 100/104).
+É o relatório.
+Inicialmente, após uma análise mais apurada dos autos, em relação à tese de agressão por parte dos policiais no momento da prisão em flagrante, nota-se que a matéria não foi enfrentada no acórdão combatido. Isso inviabiliza a análise da questão por este Tribunal Superior em razão do nítido intento de supressão de instância.
+Quanto aos motivo da custódia, o Magistrado a decretou com base nos seguintes fundamentos (fl. 65 - grifo nosso):
+ ..
+Consta dos autos que o indiciado foi abordado pelos policiais em veículo que estava sendo procurado com queixa de furto e ao desembarcar para empreender fuga em concurso com outras pessoas, houve disparos de arma de fogo contra os policiais. O indiciado tinha em seu poder chaves de outros dois veículos que posteriormente foram localizados na região, com as placas distintas das originais. Ademais, o averiguado ostenta maus antecedentes, de acordo com a FA acostada aos autos, a revelar que medidas mais brandas se mostraram insuficientes para afastá-lo da criminalidade.
+ ..
+No caso, o Tribunal a quo, ao denegar a ordem, convalidando a constrição cautelar decretada pelo juízo, ressaltou que (fl. 83 - grifo nosso):
+ ..
+Assim, a decisão de primeiro grau se encontra devidamente fundamentada e consubstanciada na documentação acostada, em total consonância com os artigos quinto e 93, inciso IX, da Constituição Federal, e artigos 312 e 313, do Código de Processo Penal, porquanto se baseou nas características e nas consequências do crime cometido, além das particularidades do paciente.
+Cumpre ressaltar que o paciente ostenta maus antecedentes, situação que denota risco de reiteração delitiva se colocado em liberdade.
+ ..
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Assim,  observa-se ,  da  análise  dos  trechos  acima,  que  a  constrição  cautelar  está  alicerçada  em  elementos  vinculados  à  realidade,  ante  as  referências  às  circunstâncias  fáticas  justificadoras,  com  destaque,  principalmente,  à  reiteração  delitiva - possui registros por atos infracionais - e  ao  modus  operandi - subtraiu um skate e um automóvel, na companhia de um menor e outros dois indivíduos, mediante violência e grave ameaça exercidas com emprego de arma de fogo, inclusive havendo trocas de tiros com a polícia em perseguição .  Tudo  a  revelar  e  a  justificar  a  manutenção  da  medida  extrema.
+Com efeito, este Superior Tribunal possui entendimento de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019; e AgRg no HC n. 890.488/MA, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024 - grifo nosso).
+Sem contar que o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023 - grifo nosso). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Não foi outra a opinião do Ministério Público Federal em seu parecer, o qual também adoto como razões de decidir (fls. 100/104) .
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do writ e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO  CIRCUNSTANCIADO. PRISÃO PREVENTIVA. AGRESSÃO POR PARTE DOS POLICIAIS NO FLAGRANTE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. FUNDAMENTOS DA CUSTÓDIA CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. RISCO  DE  REITERAÇÃO  DELITIVA. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
