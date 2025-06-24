@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. INDEFERIMENTO (DECRETO N. 11.846/2023). AUSÊNCIA DE ILEGALIDADE. APENADO QUE JÁ FOI AGRACIADO COM A COMUTAÇÃO EM ANOS ANTERIORES. VEDAÇÃO EXPRESSA DO ART. 4º DO DECRETO. PRECEDENTES DO STJ.
+Agravo regi mental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jonathan Sampaio Dias contra a decisão monocrática, de minha lavra, assim ementada (fl. 118):
+HABEAS CORPUS. EXECUÇÃO. COMUTAÇÃO. INDEFERIMENTO DA COMUTAÇÃO DE PENA COM BASE NO DECRETO PRESIDENCIAL Nº 11.846/2023. AUSÊNCIA DE ILEGALIDADE. APENADO QUE JÁ FOI AGRACIADO COM A COMUTAÇÃO EM ANOS ANTERIORES - VEDAÇÃO EXPRESSA DO ART. 4º DO REFERIDO DECRETO PRESIDENCIAL - PRECEDENTES.
+Ordem denegada.
+No presente recurso, o agravante alega, em síntese, que a vedação prevista no parágrafo único do artigo 4º refere-se à impossibilidade de cumular o tempo já comutado para fins de preenchimento do requisito temporal entre os artigos 3º e 4º (comutação comum e comutação por outros requisitos), e não à vedação de múltiplas comutações ao longo da execução penal. A interpretação restritiva dada ao parágrafo único do artigo 4º do Decreto n. 11.846/2023 gera um conflito aparente de normas que afronta o princípio da legalidade, previsto no artigo 5º, XXXIX, da Constituição Federal, o qual veda a criação de restrições a direitos fundamentais (fl. 131).
+Sustenta que, ao regular a comutação de penas, o Decreto n. 11.846/2023 não pode restringir o acesso ao benefício de forma mais gravosa do que a lei o faz. Dessa forma, a interpretação que melhor se harmoniza com os princípios constitucionais da individualização da pena (art. 5º, XLVI, da CF/88), da dignidade da pessoa humana (art. 1º, III, da CF/88), da proporcionalidade e individualização, bem como com a finalidade ressocializadora da pena é aquela que permite a concessão da comutação (fl. 131).
+Por isso, requer a reconsideração da decisão, ou, subsidiariamente, o conhecimento e provimento do agravo regimental, para conceder a ordem e conceder a comutação de penas ao agravante nos termos do Decreto Presidencial n. 11.846/2023 (fl. 133).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. INDEFERIMENTO (DECRETO N. 11.846/2023). AUSÊNCIA DE ILEGALIDADE. APENADO QUE JÁ FOI AGRACIADO COM A COMUTAÇÃO EM ANOS ANTERIORES. VEDAÇÃO EXPRESSA DO ART. 4º DO DECRETO. PRECEDENTES DO STJ.
+Agravo regi mental improvido.
+VOTO
+A decisão agravada deve ser mantida, pois guarda harmonia com a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO E COMUTAÇÃO. DECRETO N. 9.246/2017. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O prequestionamento é requisito para a admissibilidade do recurso especial. No caso, a alegação de que o apenado não obteve comutações decorrentes de decretos anteriores - considerando a data em que os benefícios foram concedidos pelo Juiz da VEC - deixou de ser abordada pela instância inferior.
+2. De todo modo, na decisão agravada, foi esclarecido que o acórdão recorrido está em conformidade com a jurisprudência estabelecida por esta Corte. Adicionalmente, constou que a decisão que formaliza a comutação é declaratória, de efeitos retroativos, de modo que a data em que é proferida não modifica a condição de o condenado haver sido beneficiado pelos decretos dos anos de 2013 e 2015, o que impede a aplicação do Decreto Presidencial n. 9.246/2017, por vedação estipulada em seu art. 7º, parágrafo único.
+3. Agravo regimental não provido.
+(AgRg no REsp 2.045.987/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024 - grifo nosso).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPUGNAÇÃO DEFENSIVA. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO 9.246/2017. VEDAÇÃO DE CONCESSÃO A APENADOS QUE JÁ TENHAM SIDO BENEFICIADOS COM COMUTAÇÕES ANTERIORES. INTERPRETAÇÃO DO PARÁGRAFO ÚNICO DO ART. 7º DO DECRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. O Decreto n. 9.246/2017 veda, expressa e taxativamente, em seu art. 7º, parágrafo único, a concessão da comutação por ele instituída, a quem já tenha sido beneficiado por igual benesse processual decorrente de decretos anteriores. Precedentes: AgRg no HC n. 714.744/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no HC n. 471.788/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2020, DJe de 12/8/2020; AgRg no HC n. 471.779/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/10/2019, DJe de 19/11/2019; HC n. 485.321/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2019, DJe de 15/3/2019; AgRg no HC n. 475.035/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/2/2019, DJe de 1/3/2019.
+3. Agravo regimental desprovido.
+(AgRg no HC 891.745/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 8.172/2013. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO DE ORDEM NEGATIVA. APENADO AGRACIADO COM COMUTAÇÃO DA PENA COM BASE EM DECRETOS ANTERIORES. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Conforme literalidade do art. 3º, do Decreto n. 8.172, de 24 de dezembro de 2013, "Concede-se comutação às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2013, obtido as comutações, de decretos anteriores, independente de pedido anterior".
+2. No caso dos autos, o paciente foi agraciado com a comutação da pena, com base nos decretos anteriores, dos anos de 2011 e 2012, relacionados às mesmas reprimendas, razão pela qual não restou preenchido o requisito objetivo.
+3. Agravo regimental desprovido.
+(AgRg no HC 763.863/GO, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023).
+Ante o exposto, nego provimento ao agravo regimental.
