@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EDMILSON JOSE DO NASCIMENTO contra decisão de e-STJ fls. 2.375/2.378, integrada pela decisão dos embargos declaratórios, às e-STJ fls. 2.395/2.397, por meio das quais indeferi liminarmente o habeas corpus em virtude de ser usado pela defesa como substitutivo de recurso próprio, assentando, ainda, a inexistência de flagrante ilegalidade, no caso.
+Neste recurso, a defesa alega, em resumo, que "evidente a ilegalidade havida nos autos, posto que DEIXOU RECONHECER A APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI 11.343/06. Ocorre que não há nos autos nenhuma demonstração de que o paciente se dedicava à traficância, até por que é primário e de bons antecedentes, sendo certo que a acusação não se desincumbiu de seu ônus previsto no art. 156, do CPP, sendo certo que os nobres Desembargadores (autoridade coatora), ao manter o afastamento da DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI 11.343/06, impingiram (iminência) flarente coação ilegal, pela clara ilegalidade havida na decisão. Ora, a ausência de demonstração da habitualidade e dedicação às atividades criminosas faz com que se torne certa a aplicação da CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI 11.343/06, o que não fora feito no caso em comento" (e-STJ fl. 2.408).
+Assim, requer (e-STJ fl. 2.415):
+seja DADO PROVIMENTO AO PRESENTE AGRAVO REGIMENTAL, a fim de que seja modificada a decisão monocrática que indeferiu liminarmente o Habeas Corpus, com o especial fim de QUE SEJA APLICADA A MINORANTE DO TRÁFICO PRIVILEGIADO, bem como para que seja modificado o regime prisional para início de cumprimento da pena para o semiaberto, nos exatos termos do art. 33, do CP, fazendo assim a mais lídima e cristalina J U S T I Ç A.
+- POR FIM, E EM NÃO SENDO O ENTENDIMENTO DE V. EXAS. SE TRATAR DE MATÉRIA PERTINENTE AO HABEAS CORPUS SUBSTITUTIVO, REQUER SEJA CONCEDIDA A ORDEM DE OFÍCIO, HAJA VISTA SE TRATAR DE FLAGRANTE COAÇÃO ILEGAL SOFRIDA PELO PACIENTE, COM O DEFERIMENTO DOS PEDIDOS ACIMA APONTADOS.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Na espécie, verifico que, não obstante as razões defensivas, não há argumentos aptos a ensejar a alteração do entendimento firmado na decisão agravada, a qual deve ser mantida pelos próprios fundamentos (e-STJ fls. 2.396/2.397):
+Recebo agravo regimental como embargos de declaração esclarecimento da questão ora trazida pela defesa.
+Verifico, no ponto, o equívoco da decisão embargada quanto ao fundamento utilizado pelo Tribunal de origem em relação à negativa da benesse no art. 33, § 4º, da Lei n. 11.343/2006.
+De fato, a decisão embargada assentou que a benesse em referência foi afastada pelo Tribunal de origem em razão de condenação anterior por porte de entorpecente para uso pessoal. Todavia, a Corte a quo denegou a minorante pelos seguintes motivos, in verbis (e-STJ fls. 367/368):
+Doutro giro, ainda que o agente Edmilson seja primário e portador de bons antecedentes, entendo que o mesmo não faz jus à concessão da causa especial de redução de pena insculpida no art. 33, § 4º, da Lei nº 11.343/06, uma vez que o agente se dedicava à atividades criminosas.
+In haec specie, observo que haver sido arrecadada elevada e variada quantidade de drogas - cerca de 81.588,5g de maconha e 9,5g de cocaína.
+Ademais, o policial Sandro afirmou que Edmilson teria admitido ser o responsável pela articulação e distribuição das drogas de Jaulian, bem ainda que Bruno informou haver Edmilson deixado a balança de precisão no local, a qual foi devidamente apreendida.
+Nesse mesmo viés, o policial Afonso informou haver notícias de que Edmilson frequentemente buscava as drogas para levar para Jaulian.
+Dessa forma, constata-se que o agente se dedica a atividade criminosa, qual seja, o tráfico de entorpecentes.
+Logo, embora fosse o réu, à época dos fatos, tecnicamente primário, tais elementos, concatenadamente analisados, permitem concluir que se dedicava à prática de atividades criminosas.
+Assim, comprovado que Edmilson dedicava-se à prática de atividades ilícitas, não se reconhece, em favor do apelante, a minorante especial prevista na Lei Antidrogas.
+Dessa forma, embora tenha se equivocado quanto ao fundamento para negativa do redutor, a decisão embargada deve ser mantida, pois trata-se, de fato, de não cabimento do writ, já que substitutivo de recuso próprio.
+E, sob esse prisma, não vislumbro o alegado constrangimento ilegal, já que as instâncias ordinárias, como visto acima, não reconheceram a incidência da minorante com base nas circunstâncias do delito. É que, apesar da primariedade do agente, entendeu-se que as circunstâncias fáticas da apreensão deixaram claro que o paciente não se tratava de mero traficante ocasional; ao contrário, denotaram a sua habitualidade no comércio ilícito. Assim, em respeito aos critérios estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, as instâncias ordinárias excluíram a possibilidade de aplicação do pretendido redutor. Por outro lado, a desconstituição dos fundamentos adotados demandaria ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+Ante do exposto, recebo o agravo regimental como embargos de declaração e acolho o incidente para sanar obscuridade na decisão embargada, sem efeitos , nos termos ora delineados.
+De fato, somente situações em que se verifica, de pronto, de forma flagrante e patente, o constrangimento ilegal de que padece o acusado podem autorizar que se ultrapasse, excepcionalmente, a inadmissibilidade do habeas corpus substitutivo de recurso próprio. Ademais, a análise da alegação de que o agravante faria jus à benesse ora pleiteada implicaria o revolvimento dos fatos tidos por incontroversos nas instâncias ordinárias, o que não encontra guarida na estreita via do habeas corpus.
+Mantenho a decisão agravada, portanto, por seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
