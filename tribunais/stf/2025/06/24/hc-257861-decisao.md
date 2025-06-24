@@ -1,0 +1,71 @@
+DECISÃO
+
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTOS IDÔNEOS. DENEGAÇÃO DA ORDEM.
+
+    1. Trata-se de habeas corpus impetrado contra acórdão proferido pela 5ª Turma do Superior Tribunal de Justiça, mediante o qual foi negado provimento ao Agravo Regimental no Habeas Corpus nº 984.906/RS (e-doc. 7).
+
+    2. Colhe-se dos autos que o paciente teve a prisão preventiva decretada, em 11/10/2024, ante o suposto cometimento dos crimes previstos nos arts. 33 e 35 da Lei nº 11.343, de 2006 (tráfico de drogas e associação para o tráfico). A medida foi implementada no âmbito da “Operação Lei e Ordem”, deflagrada a partir da apreensão de aparelho celular dentro da Penitenciária Modulada Estadual de Uruguaiana, contendo registros de mensagens que, segundo a investigação, apontariam sua participação em grupo criminoso voltado ao tráfico de drogas (e-doc. 5).
+
+    3. Inconformada, a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio Grande do Sul, sendo a ordem denegada (e-doc. 6). Contra a respectiva decisão, foi impetrado o writ no STJ, não conhecido pelo Ministro Relator. Seguiu-se o citado agavo regimental de que resultou o ato ora impugnado.
+
+    4. Neste habeas corpus, a defesa sustenta, em síntese, que a prisão preventiva imposta ao paciente configura constrangimento ilegal, por ausência de fundamentação concreta e individualizada quanto à necessidade da medida extrema. Argumenta que os fundamentos utilizados são genéricos, sem avaliação suficiente da adequação de medidas cautelares menos gravosas, previstas no art. 319 do CPP. Sustenta que o paciente é primário, possui bons antecedentes, renda lícita e residência fixa, o que revela a desproporcionalidade da prisão. Alega que as menções nos diálogos extraídos de telefone celular não comprovam apreensão de entorpecente, não havendo que se falar em crime de tráfico de drogas. Sustenta suficiência de medidas cautelares alternativas.
+
+    5. Requer, no âmbito liminar e no mérito, a revogação da prisão preventiva, ainda que estabelecidas as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+
+    É o relatório.
+
+    Decido.
+
+    6. Pelo que se tem nos autos, o paciente teve a prisão preventiva decretada no âmbito de investigação instaurada após a deflagração da chamada “Operação Lei e Ordem”, originada de diligência realizada pela Polícia Penal no interior da Penitenciária Modulada Estadual de Uruguaiana, ocasião em que foi apreendido aparelho celular em cela ocupada por integrantes de grupo criminoso (e-doc. 5, p. 3).
+
+    7. A partir da extração de dados do dispositivo, a autoridade policial identificou o paciente como um dos envolvidos no esquema de tráfico de drogas. As mensagens trocadas entre o paciente e um dos gerentes do grupo criminoso indicariam que ele teria recebido porções de maconha e cocaína para revenda em múltiplas ocasiões, inclusive enviando imagens das substâncias e comprovantes de pagamento. O decreto preventivo atribuiu a João Victor o recebimento de grande quantidade de entorpecente para venda e negociação para que assumisse um dos pontos de venda de entorpecentes existente na cidade (e-doc. 9, p. 12-15).
+
+    8. Ainda segundo o que constou da decisão de decretação da preventiva, “a investigação apurou que o grupo criminoso ordenou a execução de um indivíduo por ter se relacionado com mulher vinculada à outro grupo criminoso, bem como foi apurado que os criminosos ordenaram o espancamento de outro indivíduo não identificado e que a prática do referido delito foi acompanhado de dentro do presídio, por meio de chamada de vídeo, pelos líderes da facção, evidenciando, assim, que a instrução criminal permaneceria em risco com a liberdade dos suspeitos” Destacou-se, ademais, que “o grupo criminoso comanda as atividades criminosas do interior do sistema prisional, inclusive determinando a remessa de entorpecentes e outros objetos para o interior das casas prisionais, de modo a "abastecer" os integrantes do grupo criminoso que se encontram recolhidos“ (e-doc. 5, p. 38; grifos nossos).
+
+    9. O STJ, no ato apontado como coator, a partir os fundamentos adotados pelas instâncias ordinárias, assentou a inexistência de ilegalidade na imposição da prisão. Eis o que constou do pronunciamento:
+
+    “Como demonstrado, a prisão preventiva foi mantida pelo Tribunal estadual em razão da periculosidade do paciente, que é acusado de integrar um grupo criminoso denominado “Os Manos”, responsável pelo tráfico de drogas na cidade de Uruguaiana. Este grupo mantém conexões com crimes violentos e com o envio de entorpecentes para estabelecimentos prisionais, sendo comandado, inclusive, por criminosos atualmente recolhidos nos presídios.
+
+    De acordo com o decreto, todos os membros da associação criminosa estão comprometidos com a capitalização constante e a manutenção do empreendimento ilícito. Além disso, são mencionados dois eventos violentos atribuídos ao grupo: (i) a ordem dada para a execução de um indivíduo que teria se relacionado com uma mulher vinculada a outro grupo criminoso; (ii) a ordem para o espancamento de outro indivíduo não identificado, cuja prática do delito foi acompanhada, dentro do presídio, pelos líderes da facção, por meio de chamada de vídeo.
+
+    Dessa forma, “justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo” (AgRg no HC n. 728.450/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/8/2022, DJe 18/8/2022).
+
+    Isso porque “a necessidade de se interromper ou diminuir a atuação de integrantes de organização enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva” (AgRg no HC n. 776.508/SP, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe 15/12/2022).
+
+    O decreto preventivo foi baseado no fato de que, em tese, o paciente foi apontado como um dos envolvidos na recepção de entorpecentes destinados à comercialização. O documento menciona, inclusive, que João Victor teria recebido, entre outras remessas, 10 kg de maconha oriundos de outra cidade, além de haver indícios de sua participação na negociação de um ponto de tráfico.
+
+    Sobre esse ponto, "conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019).
+
+    Diante desse contexto fático, entendo que a prisão preventiva do paciente está devidamente justificada, a fim de resguardar a ordem pública, conforme os termos do artigo 312 do Código de Processo Penal (CPP).” (e-doc. 7; grifos nossos)
+
+    10. Não há constrangimento ilegal a ser sanado nas decisões mediante as quais imposta e mantida a prisão preventiva. As premissas adotadas pelas instâncias antecedentes estão em harmonia com a jurisprudência desta Corte, no sentido de que a vinculação do agente a grupo criminoso, a existência de registros de ações violentas ordenadas por seus membros, e a atuação reiterada no comércio de entorpecentes, ainda que sem apreensão direta das drogas, sinalizam a gravidade concreta da conduta, ensejando a prisão para fins de garantia da ordem pública e para evitar a reiteração delitiva. Assim, por exemplo: HC nº 125.290-AgR/MG, Rel. Min. Cármen Lúcia, Segunda Turma, j. 16/12/2014, p. 19/12/2014; HC nº 119.715/TO, Rel. Min. Teori Zavascki, Segunda Turma, j. 13/05/2014, p. 29/05/2014; HC nº 127.488/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 09/06/2015, p. 1º/07/2015; e HC nº 127.043/MG, Rel. Min. Gilmar Mendes, Segunda Turma, j. 14/04/2015, p. 07/05/2015. E também:
+
+    “HABEAS CORPUS. PROCESSO PENAL. OPERAÇÃO FAROESTE. PRISÃO PREVENTIVA. GARANTIA DA INSTRUÇÃO CRIMINAL. RISCO À ORDEM PÚBLICA E À INSTRUÇÃO CRIMINAL. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. PERICULUM LIBERTATIS. CONTEMPORANEIDADE DOS FATOS. EXCESSO DE PRAZO NÃO CONFIGURADO. ORDEM DENEGADA. 1. Não há ilegalidade flagrante na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta, considerando-se a necessidade de resguardar tanto a ordem pública quanto a instrução criminal, seja pelo demonstrado risco de ocultação ou destruição de provas, seja pelo destacado papel da paciente na organização criminosa, além do fundado risco de reiteração delitiva. 2. De acordo com o ato indicado como coator, a paciente foi ‘flagrada descumprindo ordem judicial emanada do Superior Tribunal de Justiça de não manter comunicação com funcionários do Tribunal de Justiça, dando orientação, para uma de suas subordinadas, no sentido de impedir a apreensão de aparelho telefônico pela Polícia Federal’, razão, por si só, suficiente para justificar a necessidade da medida, sobretudo porque associada ao insucesso de cautelar alternativa anteriormente fixada. 3. Inexiste excesso de prazo na prisão quando o alongar da marcha processual decorre não de desídia do Poder Judiciário, mas da complexidade do feito. 4. Ordem de habeas corpus denegada.”
+
+    (HC nº 186.621/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 06/04/2021, p. 14/06/2021; grifos nossos).
+
+    11. Outrossim, na linha como decidiu o STJ, o Supremo Tribunal firmou entendimento no sentido de que constitui fundamento idôneo para a decretação da prisão preventiva a necessidade de se interromper a atuação de organização criminosa. Nessa linha, confiram-se:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. PRISÃO PREVENTIVA. ASSOCIAÇÃO PARA O TRÁFICO. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE INTERROMPER A ATUAÇÃO DE ORGANIZAÇÃO CRIMINOSA. PRISÃO FUNDAMENTADA NO RISCO À ORDEM PÚBLICA. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+
+    (HC nº 205.446-AgR/AL, Rel. Min. Cármen Lúcia, Primeira Turma, j. 20/09/2021, p. 23/09/2021; grifos nossos).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO, NAS FORMAS CONSUMADA E TENTADA, E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. CONTEMPORANEIDADE. PRISÃO DOMICILIAR. NÃO CABIMENTO. REINCIDÊNCIA. VIOLÊNCIA CONTRA A PESSOA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes. 2. Se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes. 3. A jurisprudência consolidada do Supremo Tribunal Federal é no sentido de que a necessidade de interromper a atuação de organização criminosa e a fundada probabilidade de reiteração delitiva constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes. 4. A contemporaneidade diz com os motivos ensejadores da prisão preventiva e não com o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal. 5. Prisão domiciliar afastada pelas instâncias anteriores diante da não demonstração da imprescindibilidade da Agravante no cuidado dos menores, da reincidência e da prática de crimes com emprego de violência ou grave ameaça à pessoa. Precedentes. 6. Para acolher a tese defensiva no sentido da inexistência de indícios de autoria delitiva, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. 7. Agravo regimental conhecido e não provido.”
+
+    (HC nº 207.084-AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, j. 11/11/2021, p. 18/11/2021; grifos nossos).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO INDIVIDUAL DE MINISTRO DO STJ. SUBSTITUTIVO DE AGRAVO REGIMENTAL. INADEQUAÇÃO DA VIA ELEITA. ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. ATUAÇÃO DELITIVA: NECESSIDADE DE INTERRUPÇÃO. FUNDAMENTAÇÃO VÁLIDA. CONTEMPORANEIDADE VERIFICADA. 1. Inexistindo pronunciamento colegiado do STJ, não compete ao Supremo Tribunal Federal examinar a questão de direito versada na impetração (CRFB, art. 102, inc. I, al. ‘i’). 2. A gravidade concreta do crime e a necessidade de interromper as atividades do grupo criminoso, de modo a impedir a reiteração delitiva, respaldam a prisão preventiva, considerado o risco à ordem pública. Precedentes. 3. É contemporânea a prisão preventiva decretada para fazer cessar a prática de crime permanente. Precedentes. 4. Agravo regimental a que se nega provimento.”
+
+    (HC nº 215.452-AgR/SC, Rel. Min. André Mendonça, Segunda Turma, j. 22/02/2023, p. 28/02/2023; grifos nossos).
+
+    12. Registro, por fim, que o fato de o paciente apresentar atributos favoráveis, a exemplo de primariedade, bons antecedentes, trabalho lícito e residência fixa, por si só, é insuficiente para afastar a prisão (HC nº 154.394-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, j. 29/06/2018, p. 24/08/2018; HC nº 214.290-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 23/05/2022, p. 06/06/2022; e RHC nº 217.679-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma, j. 03/10/2022, p. 06/10/2022).
+
+    13. Ante o exposto, denego a ordem, com fundamento no art. 192 do RISTF.
+
+    Publique-se.
+
+    Brasília, 24 de junho de 2025.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
