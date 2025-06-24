@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DENIS DA SILVA e DIEGO FELISBERTO GOULART, condenados como incursos nas sanções do crime previsto no art. 155, § 4º, I e IV, c/c o art. 14, II, ambos do Código Penal, às penas de 10 meses e 15 dias de reclusão, em regime aberto, e pagamento de 3 dias-multa -Ação Penal n. 5022654-21.2022.8.24.0020, da 2ª Vara Criminal da comarca de Criciúma/SC.
+Aponta-se como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Santa Catarina, que negou provimento à apelação defensiva e não conheceu dos embargos de declaração opostos a esse acórdão.
+Alega-se que a conduta dos pacientes não ultrapassou a fase dos atos preparatórios, inexistindo início de execução do crime, conforme a teoria objetivo-formal adotada pelo Código Penal. Sustenta-se, nesse ponto, que a tentativa de arrombamento da porta de estabelecimento comercial caracteriza apenas ato preparatório, uma vez que a execução do crime de furto pressupõe o início da subtração do bem, o que não se verificou no caso concreto.
+Requer a concessão da ordem para absolver os acusados.
+É o relatório.
+Não tem cabimento o presente writ.
+Primeiro, não é admissível o remédio constitucional impetrado quando em curso o prazo para a interposição do recurso cabível. Verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Segundo, não há risco iminente ao direito de ir e vir, uma vez que foi concedido aos réus o direito de recorrerem em liberdade e não há notícia do trânsito em julgado da condenação.
+Terceiro, o Tribunal estadual não se pronunciou a respeito do tema, porquanto não foi provocado a tanto oportunamente. É inadmissível a pretendida supressão de instância. Nesse sentido, o AgRg no HC n. 802.153/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/3/2023.
+Quarto, não há ilegalidade manifesta a ser reparada por meio da concessão de habeas corpus de ofício, pois, embora não se trate de matéria pacificada na jurisprudência, a condenação pela tentativa encontra amparo em precedentes do Superior Tribunal de Justiça, segundo os quais o início da execução pode se configurar mesmo antes da prática do verbo nuclear do tipo penal, desde que a conduta revele risco concreto ao bem jurídico tutelado.
+No caso, os pacientes arrombaram a porta frontal do estabelecimento comercial com o uso de ferramentas (pé de cabra e corta fio) e foram surpreendidos pela equipe de segurança no momento imediatamente subsequente (fl. 91).
+Com efeito, os atos externados pelos agentes ultrapassaram meros atos de cogitação ou de preparação e expuseram a perigo real o bem jurídico protegido pela norma penal, inclusive com a execução da qualificadora do furto (REsp n. 1.252.770/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/3/2015).
+Quinto, a hipótese ainda esbarra no revolvimento fático-probatório da ação penal, procedimento que não se coaduna com a via eleita.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO. IMPETRAÇÃO QUANDO EM CURSO O PRAZO PARA A INTERPOSIÇÃO DO RECURSO ADEQUADO NA ORIGEM. AUSÊNCIA DE RISCO IMINENTE À LIBERDADE DE IR E VIR. IMPROPRIEDADE DA VIA ELEITA. FURTO QUALIFICADO TENTADO. ATIPICIDADE DA CONDUTA. INDEVIDA SUPRESSÃO DE INSTÂNCIA. INÍCIO DOS ATOS EXECUTÓRIOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE.
+Petição inicial indeferida liminarmente.
