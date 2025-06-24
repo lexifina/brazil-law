@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que não conheceu da impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na decisão recorrida, pois a pretensão de abrandamento do regime inicial já foi apreciada por esta Corte no julgamento do HC n. 916.276/SP, também impetrado em benefício do mesmo paciente, configurando reiteração de pedido. Precedente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 429.902/2025) interposto por JOAO HENRIQUE PEREIRA DA COSTA SOUZA contra a decisão da lavra deste Relator (fls. 71/72), em que não se conheceu do habeas corpus, a seguir ementada:
+PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA. REGIME INICIAL. PRETENSÃO IDÊNTICA À FORMULADA NO HC N. 916.276/SP. MERA REITERAÇÃO. INADMISSIBILIDADE.
+Writ não conhecido.
+Sustenta o agravante, inicialmente, não configuração de mera reiteração de pedido - alegando que o habeas corpus anterior (HC 916.276/SP) fundamentava-se essencialmente na desproporcionalidade do regime fechado frente à pena aplicada inferior a 8 anos para réu primário, apresentando argumentação genérica. Já o presente writ trouxe fundamentação substancialmente distinta (fl. 79) - e, no mérito, ratifica os argumentos da impetração, pretendendo que a alteração do regime inicial de cumprimento de pena para o semiaberto, aduzindo que o regime fechado foi fixado sem fundamentação concreta, baseando-se apenas na reincidência específica referente apenas a um dos três delitos, sem indicação de elementos concretos e atuais que justificassem a imposição de regime mais gravoso (fl. 80).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que não conheceu da impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedente.
+2. Hipótese em que não há ilegalidade na decisão recorrida, pois a pretensão de abrandamento do regime inicial já foi apreciada por esta Corte no julgamento do HC n. 916.276/SP, também impetrado em benefício do mesmo paciente, configurando reiteração de pedido. Precedente.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a condenação do agravante por falsidade ideológica a 3 anos, 8 meses e 10 dias de reclusão, e 12 dias-multa, proferida na Ação Penal n. 1504942-83.2018.8.26 .0482 (da 1ª Vara Criminal da comarca de Presidente Prudente/SP) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ ( AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois a pretensão - abrandamento do regime inicial fixado na condenação proferida na Ação Penal n. 1504942-83.2018.8.26.0482 - já foi apreciada por est a Corte no julgamento do HC n. 916.276/SP, também impetrado em benefício do mesmo paciente, configurando reiteração de pedido.
+Ainda que assim não fosse, razão também não lhe assistiria, pois, considerando a pena corporal (3 anos, 8 meses e 10 dias de reclusão), a negativação do vetor antecedentes e a reincidência (fl. 29), não há ilegalidade na fixação do regime inicial fechado (AgRg no AREsp n. 2.860.464/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025).
+Em razão disso, nego provimento ao agravo regimental.
