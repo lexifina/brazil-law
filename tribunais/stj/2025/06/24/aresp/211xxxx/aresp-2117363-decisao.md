@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de ELISEU PEREIRA BARBOSA contra decisão de inadmissão de recurso especial.
+O agravante foi condenado na Ação Penal n. 1500368-17.2018.8.26.0288, Primeira Vara de Ituverava/SP, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, e 680 dias-multa, à razão mínima, pela prática de conduta no art. 33 da Lei n. 11.343/2006 (fl. 576/592).
+Diante dessa decisão, o agravante apresentou apelação, a qual foi desprovida pelo Tribunal local (fls. 754/768).
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido violou o art. 33, § 2º, b, do Código Penal, porquanto a quantidade e a qualidade da droga apreendida foram utilizados para exasperar a pena-base, caracterizando bis in idem.
+Da mesma forma, a reincidência não é fundamento suficiente para fixação do regime fechado.
+Pede o provimento do recurso (fls. 774/781).
+Contrarrazões às fls. 876/879.
+O apelo foi obstado na origem por não terem sido impugnados todos os fundamentos do acórdão e por demandar reexame de provas (fls. 882/883).
+O agravante aviou, então, a presente insurgência, na qual aduz, em suma, que o recurso enfrentou todos os fundamentos do acórdão e que não versa sobre reexame de provas (fls. 886/896).
+Contrarrazões ao agravo em recurso especial às fls. 886/896.
+O Ministério Público Federal pugna pelo conhecimento do agravo para não conhecer do recurso especial, tendo em vista a consonância do acórdão recorrido com a jurisprudência deste Tribunal Superior (fls. 919/922).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos de admissibilidade.
+Passando ao recurso especial, quanto à violação do art. 33, § 2º, b, do Código Penal, a jurisprudência consolidada deste Superior Tribunal estabelece que a determinação do regime inicial de cumprimento de pena deve observar não apenas o quantum da reprimenda e a primariedade ou reincidência do agente, mas também as circunstâncias judiciais previstas no art. 59 do Código Penal, consoante dispõe o art. 33, § 3º, do mesmo diploma legal. Nesse sentido, admite-se a fixação de regime inicial fechado para réus reincidentes, mesmo com pena inferior a quatro anos, quando há circunstâncias judiciais desfavoráveis (AgRg no HC n. 921.389/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024). Confiram-se, ainda: AgRg no HC n. 936.584/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2024, DJe de 6/11/2024; e AgRg nos EDcl no AgRg no AREsp n. 2.321.835/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023.
+No presente caso, embora a pena aplicada seja inferior a 8 e superior a 4 anos, o próprio acórdão recorrido reconheceu que o acusado é reincidente e teve sua pena-base majorada em razão da circunstância judicial negativa dos antecedentes. A Súmula 269 desta Corte Superior de Justiça preceitua que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 anos se favoráveis as circunstâncias judiciais. A existência de qualquer vetorial negativa, como os maus antecedentes reconhecidos na espécie, afasta a aplicação da regra excepcional e determina a incidência do regime mais gravoso. O art. 33, § 3º, do Código Penal é cristalino ao estabelecer que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código, conferindo ao julgador o dever de considerar todas as circunstâncias judiciais na individualização da sanção penal, em consonância com os postulados constitucionais da proporcionalidade e da individualização da pena.
+O Tribunal local manteve o regime fechado aos seguintes fundamentos (fl. 767):
+ ..  Além disso, o réu Eliseu ostenta maus antecedentes e é reincidente específico o que indica a necessidade de regime mais gravoso para desestimulá-lo da senda do crime. Portanto, demonstrou periculosidade e culpabilidade acima da média, de forma que o regime fechado é o único que se mostra suficiente para atingir a função preventiva específica da pena, que é inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal.
+Assim, perfeitamente observado o regramento do art. 33 do Código Penal, acerca da fixação do regime inicial, haja vista a existência de circunstância judicial negativa e da reincidência.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA INFERIOR A 8 E SUPERIOR A 4 ANOS. REINCIDÊNCIA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. SÚMULA 269/STJ. REGIME FECHADO. POSSIBILIDADE.
+Agravo conhecido para negar provimento ao recurso especial.
