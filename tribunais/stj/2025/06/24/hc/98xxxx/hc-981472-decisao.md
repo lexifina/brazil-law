@@ -1,0 +1,98 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FRANCISCA ALVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que a paciente foi presa preventivamente em 24/4/2024 e foi denunciada pela suposta prática da conduta descrita no art. 2º, §§ 2º e 3º, da Lei n. 12.850/2013.
+O impetrante alega que a paciente estaria sendo submetida a constrangimento ilegal, apontando a existência de excesso de prazo na formação da culpa.
+Aduz que não há previsão para o início da instrução, apesar de a ação penal não ser complexa, e destaca a possibilidade da aplicação de medidas cautelares diversas do cárcere.
+Defende que a defesa não contribuiu para a mora processual e afirma que a paciente possui condições favoráveis, como primariedade, residência fixa, e trabalho lícito.
+Assevera que o excesso de prazo é evidente, ainda mais considerando que, na hipótese de condenação, poderia ser fixado regime diverso do fechado ou substituída a pena corporal por restritiva de direitos.
+Frisa a ausência de justa causa para a continuidade da prisão e destaca que o filho da paciente enfrenta problemas psicológicos graves, o que permitiria a concessão de prisão domiciliar à acusada, a qual seria a única responsável pelo menor.
+Requer, liminarmente e no mérito, o relaxamento ou a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas, ou a concessão de prisão domiciliar.
+Por meio da decisão de fls. 429-433, o pedido liminar foi indeferido. Foram juntadas aos autos as informações prestadas pela origem (fls. 423-427, 462-506 e 528-532) e a manifestação do Ministério Público Federal, opinando pelo não conhecimento ou denegação do habeas corpus (fls. 510-513).
+A defesa apresentou pedidos de reconsideração da decisão que indeferiu a liminar (fls. 436-453 e 593-613) e petição complementar (fls. 544-592).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Conforme disposto na decisão que indeferiu a liminar, o presente habeas corpus se limita à apreciação da alegação de excesso de prazo, pois as teses de ausência de fundamentação idônea do decreto prisional e de saúde debilitada do filho da paciente, o que permitiria a concessão de prisão domiciliar, já foram objeto de exame pelo Superior Tribunal de Justiça no julgamento do HC n. 956.760/CE, o qual foi denegado por acórdão publicado em 12/5/2025, tendo sido os embargos de declaração defensivos rejeitados por acórdão publicado em 28/5/2025.
+No mais, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 33-35, grifei):
+2. Da tese de excesso de prazo para formação da culpa:
+Ab initio, cumpre registrar que a tese de excesso de prazo na formação da culpa foi submetida ao Juízo a quo através do pedido de relaxamento de prisão formulado nos autos de nº 0038436-46.2024.8.06.0001, o qual restou indeferido em 10/12/2024 (fls. 48/50), motivo pelo qual não se deve cogitar indevida supressão de instância.
+Dito isto, adianto que não visualizo desídia da autoridade coatora apta a configurar constrangimento ilegal em virtude de excesso de prazo na formação da culpa, não devendo a ordem ser concedida. Explico.
+Antes de analisar a cronologia dos atos processuais, e como forma de se fazer uma exposição mais didática, apenas listarei os eventos relacionados ao paciente, de sorte que não analisarei, neste ato, a apresentação de peças por parte dos demais réus, em razão do elevado número de participantes no processo.
+Analisando a ação penal originária nº 0030338-72.2024.8.06.0001, é possível extrair-se a seguinte movimentação cronológica dos principais atos processuais:
+24/04/2024 - Prisão da paciente;
+26/04/2024 - Audiência de custódia;
+10/05/2024 - Requerimento do MP de retorno dos autos à delegacia de polícia para produção de Relatório Final;
+14/05/2024 - Determinação de intimação da autoridade policial para apresentação do Relatório Final em 10 dias;
+28/05/2024 - Intimação do MP para manifestação sobre o relatório apresentado pela autoridade policial;
+19/06/2024 - Oferecimento da denúncia;
+08/07/2024 - Recebimento da denúncia;
+27/09/2024 - Citação da paciente;
+07/10/2024 - Apresentação de resposta escrita à acusação;
+10/12/2024 - Análise do pedido de relaxamento da prisão preventiva;
+16/12/2024 - Ratificação do recebimento da denúncia.
+Diante desse contexto, entendo que o feito registra ritmo compatível com as peculiaridades do caso, o que evidencia a razoabilidade da duração do processo. Não se verifica demora que possa ser atribuída à autoridade impetrada, haja vista que essa vem atuando de maneira célere no processo, sem incidir em nenhuma inércia desidiosa durante o transcurso da ação penal, pois devidamente segue performando todos os atos processuais necessários à satisfação do litígio, nas diversas fases do processo alcançadas, a fim de acelerar o seu trâmite.
+Não se pode olvidar que a ação penal nº 0245853-37.2022.8.06.0001 contava com 22 (vinte e dois) réus denunciados pela prática do crime de integrar organização criminosa, sendo desmembrada em relação à paciente e outros 4 (quatro) corréus, o que de certo torna a tramitação mais estendida, se, contudo, extrapolar a razoabilidade na tramitação dos autos.
+Tais fatos podem, sim, trazer o contexto de complexidade ao caso, atraindo o enunciado sumular n. 15 desta Corte de Justiça, in verbis: "Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais".
+ ..
+Portanto, verifico não restar caracterizado excesso de prazo na formação da culpa na hipótese, não havendo ilegalidade apta a justificar a concessão da ordem, vez que não configurada ofensa ao princípio da razoabilidade.
+Ainda, veja-se o que consta nas informações prestadas pelo Juízo de origem (fls. 528-530, grifei):
+A paciente teve seu mandado de prisão cumprido no dia 24/04/2024 conforme documentos de fls.1750/1753 no processo de nº 0203181-43.2024.8.06.0001, estando aproximadamente 1 (um) ano recolhida.
+Após parecer do Ministério Publico, em despacho de f1.12 esse colegiado prorrogou por 90 o prazo de conclusão do procedimento investigativo. (20/06/2022).
+Em fl. 540, foi prorrogado por mais 90 dias o prazo para Autoridade Policial concluir o inquérito policial. (08/04/2024).
+Em despacho de fl. 590, foi determinado que fosse retirado o sigilo do presente Inquérito Policial.
+As fls. 2167/2236, foi juntado pela Autoridade Policial atualizações relacionadas ao presente procedimento inquisitorial.
+Em fls. 2237/2238, foi apresentado parecer pelo Ministério Público pedindo pelo retorno dos autos a Autoridade Policial para que essa apresente o relatório final. (10/05/2024).
+Em despacho retro exarado, foi determinado a intimação da Autoridade Policial da FORCA INTEGRADA DE COMBATE AO CRIME ORGANIZADO DO CEARA  FICCO/CE para, no prazo máximo de 10 (dez) dias, apresentar o competente relatório final.
+Em fl. 2255 a autoridade policial informou que o relatório final do Inquérito encontra-se nas fls. 663/896.
+Em despacho de fl. 2301 no dia 28/05/2024, esse colegiado despachou abrindo vista ao Ministério Publico para oferecimento da denúncia ou qualquer outra medida que achar pertinente.
+Em 19/06/2024 nas fls. 2550/2582 o Ministério Publico apresentou denúncia em que a paciente foi denunciada pelos delitos previstos no Artigo 2º, §§2% 3º da Lein. 12.850/2013.
+Em 08/07/2024 na decisão de f1s.2675/2677, esse juízo recebeu a denúncia.
+Em decisão de fls. 3791/3796, foi determinado o desmembramento do processo, permanecendo a presente ação em penal em relação a paciente e mais 4 corréus, Ricardo Andrade Ferreira, Edglei Da Silva Lima, Henrique Abraão Goncalves Da Silva e Menesclau de Araujo Souza Junior.
+A paciente apresentou defesa preliminar em 07/10/2024 conforme fls.4051/4130.
+Em relação ao pedido de oferecimento de Acordo de Não Persecução Penal pugnado as f1s.4100/4104, esse juízo abriu vista ao Ministério Publico para que se manifeste em despacho de fls. 4441, o Ministério publico por sua vez requereu que o pedido de ANPP formulado pela defesa fosse integralmente indeferido com a justificativa de que a defesa da ré não questionou o cabimento do Acordo de Não Persecução Penal (ANPP) dentro do prazo originalmente fixado para a apresentação da resposta a acusação, o que, segundo a legislação processual, configura preclusão quanto à matéria, a Procuradoria-Geral da Justiça reiterou a recusa do oferecimento de Acordo de Não Persecução Penal, consoante as fls. 4466/4472
+Em decisão de fls. 4474/4478 foi ratificado o recebimento a denúncia por esse juízo.
+Foi designada audiência de instrução em fls. 4793/4795, para se realizar no dia 03/06/2025 de forma remota as 09h.
+Atualmente o processo está em fase de intimações para realização de audiência, onde-se aguarda o retorno de carta precatórias contidas em fls. 4810/4811 4812/4813. 4815/4816, 4820/4821, 5090/5091. 5092/5093.
+Como se vê, a paciente foi presa em 24/4/2024; a denúncia foi oferecida em 19/6/2024 e recebida em 8/7/2024; foi determinado o desmembramento do processo, que passou a contar com 5 denunciados; a paciente apresentou defesa preliminar em 7/10/2024; foi analisado pedido de relaxamento da prisão preventiva em 10/12/2025; foi designada audiência de instrução para o dia 3/6/2025; e, atualmente, o processo está em fase de intimações para a realização de audiência, aguardando-se o retorno de cartas precatórias.
+Ainda, ressaltou a Corte local a complexidade do feito, que contava com 22 réus, e a compatibilidade do ritmo da tramitação processual com as peculiaridades do caso.
+Assim, considerando a complexidade do processo, que conta com vários réus, vários procuradores, pedido defensivo de relaxamento de prisão e expedição de cartas precatórias, bem como apura a responsabilidade de organização criminosa complexa, não se constata uma demora injustificada para o início da instrução.
+Ressalte-se que o tempo de segregação da paciente, que está encarcerada desde 24/4/2024, não assume contornos desproporcionais em comparação com a pena abstrata do delito apurado, com destaque para a agravante relativa ao comando da organização criminosa e a causa de aumento relativa ao emprego de arma de fogo (art. 2º, §§ 2º e 3º, da Lei n. 12.850/2013).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA ARMADA ESPECIALIZADA NO TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. PECULIARIDADES QUE JUSTIFICAM O ELASTECIMENTO DO PRAZO. ALTERAÇÃO DA CAPITULAÇÃO JURÍDICA. DECLÍNIO DA COMPETÊNCIA PARA VARA ESPECIALIZADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A aferição da violação à garantia constitucional da razoável duração do processo não se realiza de forma puramente matemática.
+Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso, a prisão preventiva foi cumprida em 9/11/2021, a denúncia oferecida em 20/12/2021 e, após apresentação das defesas prévias, foi recebida em 4/7/2022, com designação de audiência de instrução para o dia 25/10/2022. Porém, identificada a vinculação da associação com organização criminosa, foi aberta vista ao Ministério Público, que requereu o declínio da competência e o aditamento da denúncia, deferido em 18/1/2023. Em seguida, foi fixada a competência do juízo especializado em 2/3/2023, recebido o aditamento à denúncia e mantidas as prisões em 7/4/2023, estando o feito em fase de instrução.
+3. Desse modo, o pequeno atraso para o seu término se deve, como consignado, à complexidade do feito, na apuração de crimes vinculados à organização criminosa que ensejou o declínio da competência. Não obstante, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sem indícios de desídia ou paralisação imputável aos órgãos estatais responsáveis, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 815.593/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, j. em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PEDIDO DE REVOGAÇÃO DAS MEDIDAS CAUTELARES IMPOSTAS. NECESSIDADE E ADEQUAÇÃO. GRAVIDADE CONCRETA. PERICULOSIDADE DO ACUSADO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. TRÂMITE REGULAR. SÚMULA 64 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO DESPROVIDO.
+1. A defesa se insurge contra decisão desta relatoria que negou provimento ao recurso e manteve as medidas cautelares impostas ao agravante, notadamente o monitoramento eletrônico e o recolhimento domiciliar.
+2. As medidas cautelares alternativas podem, dentro de um critério de necessidade e de adequabilidade, substituir a prisão preventiva, a fim de garantir a ordem pública, a instrução criminal ou a futura aplicação da lei penal, com menor gravame ao réu.
+3. O Tribunal de Justiça do Estado de Sergipe considerou que a aplicação de medidas cautelares diversas da prisão seriam suficientes para o caso em tela, em atendimento aos princípios da razoabilidade e da proporcionalidade.
+4. No particular, o agravante é acusado de ser líder de uma complexa e estruturada organização criminosa, destinada à prática de crimes de tráfico interestadual de drogas e lavagem de dinheiro. Ademais, a partir de conversas extraídas do Whatsapp e comprovantes de depósito bancário, constatou-se a negociação de quantidade expressiva de substâncias entorpecentes e grande movimentação financeira entre os membros da organização criminosa.
+5. Sobre o tema, esta Corte Superior possui jurisprudência no sentido de que "diante das circunstâncias concretas do caso e em observância à proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal" (AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+6. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+7. No caso, trata-se de ação complexa, em que se apura a prática dos crimes de organização criminosa, tráfico de drogas e lavagem de dinheiro, contendo 4 réus e sendo necessária a expedição de cartas precatórias e a análise de pedidos de revogação de prisão preventiva e das medidas cautelares impostas.
+8. Além disso, em consulta ao site do Tribunal de Justiça do Estado de Sergipe, verifica-se que o feito tem tramitação regular e a audiência de instrução e julgamento do dia 16/2/2023 somente foi adiada para o dia 26/6/2023 pois a defesa dos acusados insistiu na oitiva de testemunhas ausentes. Incidência da Súmula n. 64 do STJ.
+9. Agravo regimental a que se nega provimento."
+(AgRg no RHC n. 176.377/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, j. em 17/5/2022, DJe de 20/5/2022.)
+Por outro lado, considerando que a defesa apresentou certidão dos autos de origem, informando sobre a impossibilidade de realização da audiência que estava designada para o dia 3/6/2025 (fl. 611), por conta de doença do magistrado, é de rigor a recomendação de celeridade para o julgamento do feito.
+Por fim, com a análise do mérito, ficam prejudicados os pedidos de reconsideração de fls. 436-453 e 593-613.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, com recomendação de celeridade para a conclusão do julgamento na origem.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. HABEAS CORPUS DENEGADO.
