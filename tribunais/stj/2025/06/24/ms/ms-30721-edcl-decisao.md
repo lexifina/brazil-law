@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos por MAHLE METAL LEVE S/A contra decisão que denegou a segurança.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que: a) "no polo passivo, como autoridade coatora, foi incluído o Ministro da Previdência, o que justifica a distribuição do presente Mandado de Segurança perante este STJ"; b) são várias as "ameaças ao direito da empresa decorrentes da concessão do benefício sem análise médico pericial"; c) não se trata de writ contra lei em tese, uma vez que, "na verdade, o novo procedimento adotado pela Previdência para permitir a concessão de benefícios via ATESTMED ofende diversos institutos normativos, todos eles citados na peça vestibular, em prejuízo da empresa impetrante." (fls. 623-626).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, em que pese as alegações do embargante, não verifico vício formal no decisum, tendo a decisão objurgada apontado, com clareza, a ausência de ato coator praticado por autoridade prevista no art. 105, I, "b", da CF ("Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal"), restando afastada, portanto, a competência desta Corte de Justiça para analisar o Mandado de Segurança.
+Da simples leitura das portarias atacadas pelo recorrente (Portaria MPS INSS 38/2023 e Portaria INSS/SRGPS /MMPS 37/2023), observa-se que ambas são emanadas pelo Presidente do Instituto Nacional do Seguro Social e pelo Secretário do Regime Geral de Previdência Social do Ministério da Previdência Social.
+Ainda, a decisão consignou, expressamente , acerca da impossibilidade de utilização do mandado de segurança para questionar atos normativos de caráter genérico e abstrato, por força da Súmula 266/STF.
+Por fim, conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
