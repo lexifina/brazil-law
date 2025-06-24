@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da deserção.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 39):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. ADMISSIBILIDADE. GARANTIA INSUFICIENTE.
+O pressuposto de admissibilidade dos embargos à execução fiscal é a existência de garantia do juízo, conforme disposto no art. 16, §1º, da Lei nº 6.830, de 1980, não se aplicando, nesse ponto, as disposições específicas do Código de Processo Civil, de modo que não cabe receber os embargos quando a penhora for ínfima, porque é o mesmo que não haver garantia.
+Embargos de declaração com provimento negado.
+No recurso especial, a recorrente alega violação dos arts. 15, inc. II, e 16, §1º, da LEF, sob os seguintes argumentos: a) a execução foi devidamente garantida mediante o bloqueio na data de 25/10/2023 do valor de R$2.945,71, e na data de 31/10/2023 do valor de R$5.514,65, ambos da conta corrente da instituição financeira Sicoob da Recorrente, estando portanto garantida a execução; b) a legislação não estabelece um valor mínimo para a penhora como requisito de admissibilidade dos Embargos à Execução, mas apenas a existência de penhora que funcione como garantia do débito em questão, como verificado no presente caso; c) no caso, observa-se a indevida determinação ex officio pelo julgador da insuficiência da penhora e do consequente reforço, sem que houvesse qualquer postulação nesse sentido por parte da Fazenda Pública; d) a Recorrente é pessoa jurídica em vulnerabilidade financeira, tendo o seu faturamento comprometido desde antes da pandemia do Covid-19, que se agravou posteriormente à crise sanitária, sendo assim, não há possibilidade de efetuar reforço para garantia determinado na decisão ora recorrida; e) conforme a jurisprudência, se não há recursos a serem penhorados e assim garantir a execução, podem ser recebidos os Embargos à Execução; f) se o valor não serve para garantir o juízo deve no mínimo ser devolvido ao Recorrente, pelo mesmo fundamento utilizado para o não recebimento dos Embargos, mas isso não foi o que foi determinado pelo Juízo a quo.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado o fundamento da decisão agravada, passa-se ao exame do recurso especial.
+Em o fazendo, verifica-se que é descabido o conhecimento do recurso. Com efeito, o Novo Código de Processo Civil traz regulamentação expressa no sentido de que a comprovação do preparo recursal deve ocorrer no momento da interposição do recurso (art. 1007, caput), bem como no sentido de que, em não havendo a referida comprovação no momento oportuno, após intimado a tanto, o recorrente deverá efetuar o recolhimento do preparo em dobro (art. 1007, §4º).
+No caso, o recurso especial não foi instruído com a Guia de Recolhimento da União/GRU e o respectivo comprovante de pagamento. Intimada por duas vezes a regularizar o vício, na forma do art. 1007, §4º, do CPC/2015, a recorrente deixou de efetuar o recolhimento em dobro da verba.
+Nesse contexto, evidencia-se que, além de não ter comprovado o recolhimento devido no momento apropriado, ainda deixou de observar a obrigatoriedade de pagamento em dobro. Assim, inafastável a aplicação da Súmula 187/STJ ao caso. No que aqui interessa, veja-se:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. RECURSO ESPECIAL DESERTO. AUSÊNCIA DE PREPARO OU COMPROVAÇÃO DA JUSTIÇA GRATUITA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - (..)
+II - O recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento. Percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+III - (..)
+IV - Agravo interno improvido.
+(AgInt no AREsp 2.298.158/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 6/3/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAS CUSTAS DO RECURSO ESPECIAL NO ATO DA SUA INTERPOSIÇÃO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DAS CUSTAS. ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Este Tribunal Superior consolidou o entendimento de que "a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. Com o advento do CPC/2015, a falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Na espécie, constatada a irregularidade e devidamente intimado, o recorrente deixou de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.308.142/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 18/10/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE COMPROVAÇÃO OPORTUNA. INTIMAÇÃO PARA REGULARIZAÇÃO E COMPLEMENTAÇÃO (ART. 1007, §4º, DO CPC/2015). INÉRCIA. DESERÇÃO. SÚMULA 187/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
