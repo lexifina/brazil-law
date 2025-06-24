@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO THOMAZ DE AQUINO contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0002973-57.2018.4.03.6181.
+O Ministério Público Federal manifesta-se pelo desprovimento dos agravos (fls. 1.798/1.806).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre, pela necessidade de reexame de provas (Súmula 7/STJ) e porque o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior de Justiça, citando, inclusive, os seguintes julgados (fl. 1.663):
+ ..  (STJ, HC 517114/SP, 5ª Turma, Rel. Desembargador Convocado Leopoldo de Arruda Raposo, j. 17.12.2019, DJe 19.02.2019)
+De igual forma: STJ, HC 561013/RJ, 5ª Turma, Rel. Min. Ribeiro Dantas, j. 10.03.2020, DJe 26.03.2020; STJ, AgRg no REsp 1840924/PE, 5ª Turma, Rel. Min. Jorge Mussi, j. 06.02.2020, DJe 19.02.2020; STJ, REsp 1829744/SP, 6ª Turma, Rel. Min. Sebastião Reis Junior, j. 18.02.2020, DJe 03.03.2020; STJ, AgRg no AREsp 1341076/AC, 6ª Turma, Rel. Min. Nefi Cordeiro, j. 14.05.2019, DJe 21.05.2019.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, no tocante à Súmula 7 desta Corte, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Em relação à conformidade do acórdão recorrido ao entendimento desta Corte Superior, não cuidou de trazer julgado contemporâneo ou mais recente ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a jurisprudência atual do Superior Tribunal de Justiça.
+Além disso, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. Ilustrativamente: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Por fim, o Superior Tribunal de Justiça possui entendimento no sentido de que a Súmula n. 83 do STJ se aplica tanto ao recurso especial fundado na alínea "c" quanto na "a", ambas do permissivo constitucional (AgRg no AgRg no AREsp n. 1.600.882/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/5/2023).
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
