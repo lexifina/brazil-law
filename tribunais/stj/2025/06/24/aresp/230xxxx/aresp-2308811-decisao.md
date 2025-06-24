@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por J. A. V. DE B. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC; não demonstração de violação dos arts. 373, II, do CPC, 13, parágrafo único, II, III, da Lei n. 9.656/1998, 6º, VIII, do CDC, 144, 421 e 422 do CC, pela incidência das Súmulas n. 5 e 7 do STJ e por não ter sido demonstrada a similitude fática entre o acórdão recorrido e o acórdão paradigma (fls. 274-276).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não merece prosperar, pois o recurso especial interposto pela agravante busca o reexame de matéria fática e probatória, o que é vedado pelas Súmulas n. 5 e 7 do STJ, e que a decisão recorrida está em conformidade com o artigo 13, II, da Lei n. 9.656/1998 (fls. 303-309).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de obrigação de fazer.
+O julgado foi assim ementado (fl. 214):
+APELAÇÃO SEGURO SAÚDE OBRIGAÇÃO DE FAZER RESCISÃO INADIMPLEMENTO DE MENSALIDADE SUPERIOR A 60 DIAS NOTIFICAÇÃO ENVIADA PARA O ENDEREÇO DO BENEFICIÁRIO PURGAÇÃO DA MORA NÃO EFETIVADA NO PRAZO LEGAL - ARTIGO 13 DA LEI FEDERAL Nº 9.656/98 EXERCÍCIO REGULAR DE DIREITO - SENTENÇA DE IMPROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 258):
+EMBARGOS DE DECLARAÇÃO APELAÇÃO SEGURO SAÚDE OBRIGAÇÃO DE FAZER RESCISÃO - DECISÃO QUE NEGOU PROVIMENTO AO APELO RECURSO QUE APONTA SUPOSTA OMISSÃO NO JULGADO - NÃO OCORRÊNCIA - INEXISTÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL PREQUESTIONAMENTO DESNECESSIDADE BASTA UMA SIMPLES ALUSÃO AOS DISPOSITIVOS TIDOS POR VIOLADOS - PRECEDENTES DO STJ - RECURSO SEM EFEITO INFRINGENTE EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, caput, § 1º, II, III e IV, e 1.022, II, do CPC, por omissão quanto ao enfrentamento da alegação de ilegalidade do cancelamento do plano durante tratamento médico;
+b) 373, II, do CPC, 6º, VIII, do CDC e 13, parágrafo único, II, da Lei n. 9.656/1998, pois não há prova idônea da regular notificação da recorrente porquanto não houve comprovação de recebimento da notificação;
+c) 13, parágrafo único, III, da Lei n. 9.656/1998, visto que o cancelamento do plano se deu em meio a tratamento médico;
+d) 144, 421 e 422 do CC, porque o cancelamento do plano ocorreu em meio a dificuldades financeiras e pandemia.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ, que considera abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência, conforme acórdãos divergentes.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, promovendo a imediata reativação do plano de saúde em favor da recorrente.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece provimento (fls. 266-273).
+É o relatório. Decido.
+Trata-se de controvérsia acerca da regularidade da notificação de suspensão do plano por inadimplência.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido da parte autora de reativação do plano , condenando a parte autora ao pagamento das custas e despesas processuais, bem como aos honorários advocatícios, arbitrados em 10% sobre o valor da causa.
+A Corte estadual manteve a sentença de improcedência. Destacou que que a Lei Federal nº 9.656/98 permite a rescisão unilateral do contrato de plano de saúde em casos de inadimplência superior a sessenta dias, desde que o consumidor seja comprovadamente notificado, e, no caso, a operadora de saúde, cumpriu os requisitos legais ao enviar notificações por correio eletrônico e telegrama ao endereço da autora, que foi reconhecido como correto. Ressaltou que a lei não exige intimação pessoal, e que a autora teve a oportunidade de purgar a mora.
+De início, afasta-se a alegada ofensa aos arts. 489 e 1.022, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Não prospera também a alegada violação do a rt. 373, II, do CPC, visto que a Corte estadual concluiu que a recorrente foi devidamente notificada por e-mail e telegrama, conforme comprovado nos autos.
+Confira-se trecho do acórdão recorrido (fl. 216):
+  O cancelamento não é ilegal, na medida em que a ré notificou a autora por correio eletrônico (fls. 131/133) para o mesmo correio que a autora declarou ser o seu às fls. 46. Além disso, a ré remeteu telegrama ao endereço da autora (fls. 134/136), onde foi recebido (fls. 137/138), o que é suficiente para a comprovação do requisito legal  .
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na regularidade da notificação. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Cumpre asseverar que a questão referente à violação dos artigos 13, parágrafo único, III, da Lei n. 9.656/1998 e 144, 421 e 422 do CC não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ
+Ressalta-se que, consoante entendimento jurisprudencial do STJ, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC e a falta de prequestionamento, com incidência das Súmulas n. 211 do STJ e 282 do STF em relação às teses invocadas pela parte agravante que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia outros fundamentos utilizados pelo colegiado.
+Nesse sentido: AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 3/5/2018; e AgInt no AREsp n. 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe de 26/3/2018.
+Por fim, no tocante ao apontado dissídio, ressalte-se que a incidência de óbices sumulares processuais quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A esse respeito: AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
