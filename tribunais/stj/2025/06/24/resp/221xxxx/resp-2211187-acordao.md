@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. CONDUTA SOCIAL. NEGATIVAÇÃO EM RAZÃO DA PRÁTICA DE NOVO CRIME DURANTE O CUMPRIMENTO DE PENA. fundamentação idônea. JURISPRUDÊNCIA CONSOLIDADA. INEXISTÊNCIA DE BIS IN IDEM COM A AGRAVANTE DA REINCIDÊNCIA. FUNDAMENTOS DIVERSOS. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público de Minas Gerais contra o acórdão do Tribunal de Justiça de Minas Gerais que afastou a valoração negativa da conduta social na dosimetria da pena, em razão da prática de novo crime durante o cumprimento de pena por crime anterior, sob o argumento de evitar bis in idem.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se é válida a valoração negativa da conduta social do réu na dosimetria da pena, quando fundamentada na prática de crime durante o cumprimento de pena anterior.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça admite a valoração negativa da conduta social quando o agente pratica novo crime enquanto cumpre pena por delito anterior, considerando que tal fato demonstra comportamento social inadequado.
+4. No caso concreto, o Tribunal de origem considerou que o recorrido cometeu nova infração penal enquanto cumpria pena por outro delito, o que configuraria reincidência.
+5. A decisão recorrida encontra-se em dissonância dos precedentes desta Corte, que reconhecem como idônea a fundamentação da valoração negativa da conduta social com base na prática de infração durante o cumprimento de pena.
+IV. Dispositivo e tese
+6. Recurso provido.
+Tese de julgamento: "A prática de novo crime durante o cumprimento de pena por crime anterior justifica a valoração negativa da conduta social, sem configurar bis in idem em relação à agravante da reincidência, pois os fundamentos são distintos".
+Dispositivos relevantes citados: Código Penal, art. 59; Código Penal, art. 63.
+Jurisprudência relevante citada: STJ, AgRg no HC 556.444/DF, Rel. Min. Sebastião Reis Júnior, DJe 24/8/2020; STJ, AgRg no AREsp n. 2.276.637/PR, Rel. Min. Ribeiro Dantas, DJe 28/4/2023, STJ, AREsp n. 2.633.799/MG, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 6/12/2024.
+RELATÓRIO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0000.24.259732-6/001, assim ementado (fl. 249):
+APELAÇÃO CRIMINAL DEFENSIVA - DELITO DE FURTO CONSUMADO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO - DECOTE DA QUALIFICADORA - COMPROVAÇÃO DA MESMA POR PROVAS TÉCNICA E TESTEMUNHAL - DESCABIMENTO - AFASTAMENTO DA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS LEGAIS DA "CULPABILIDADE", DOS "ANTECEDENTES" E DA "CONDUTA SOCIAL"- REPROVABILIDADE CONCRETA DA CONDUTA E CONDENAÇÃO ANTERIOR VERIFICADAS - MAJORAÇÃO DA PENA JUSTIFICADA - INADMISSIBILIDADE - DELITO PRATICADO ENQUANTO O RÉU ESTAVA EM CUMPRIMENTO DE PENA - FATOR A ENSEJAR O RECONHECIMENTO DA REINCIDÊNCIA - "BIS IN IDEM" A SER EVITADO - AFASTAMENTO - NECESSIDADE - PENA-BASE - ADOÇÃO DE QUANTO SUPERIOR A 1/6 (UM SEXTO) PARA CADA CIRCUNSTÂNCIA LEGAL DESFAVORÁVEL - AUSÊNCIA DE FUNDAMENTAÇÃO - REDUÇÃO - VIABILIDADE - ABRANDAMENTO DO REGIME PRISIONAL- REINCIDÊNCIA E MAUS ANTECEDENTES - NÃO CABIMENTO - ISENÇÃO DAS CUSTAS PROCESSUAIS - EFEITO LEGAL OBRIGATÓRIO DA CONDENAÇÃO - DESCABIMENTO - SUSPENSÃO OU PARCELAMENTO DO PAGAMENTO RESPECTIVO - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO.
+ ..
+4- O fato de o apelante, quando do cometimento do delito, estar em cumprimento de pena em função de condenações outras implica no reconhecimento da reincidência, sendo incabível, pois, ter-se como desfavorável a "conduta social" por conta de tal, sob pena de "bis in idem".
+5- O aumento da pena-base pela existência de circunstâncias legais - art. 59 do CP - desfavoráveis deve, a princípio, observar o patamar de 1/6 (um sexto) da reprimenda mínima cominada, de forma que, caso o juiz da causa opte por adotar parâmetro diverso, deve o mesmo fundamentar a sua escolha.
+ ..
+V. V. I - Conforme precedentes do Superior Tribunal de Justiça, é válida a valoração negativa da conduta social do agente quando o crime é cometido durante o cumprimento de pena. II - A atual jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que há dois critérios para orientar a fixação da pena-base acima do quantum mínimo abstratamente previsto no preceito secundário do tipo penal, quando se constata a existência de circunstâncias judiciais negativas, sendo elas: (i) a exasperação da pena na fração de 1/6 (um sexto), incidente sobre a pena mínima abstrata, por circunstância judicial negativa; (ii) a exasperação da pena na fração de 1/8 (um oitavo), incidente sobre o intervalo existente entre a pena mínima e a máxima abstratamente prevista no tipo penal, também por circunstância judicial negativa. Caso o magistrado opte por elevar a pena acima destes critérios, deve fundamentar adequadamente a necessidade de adoção de reprimenda mais severa.
+Nas razões recursais, alega-se violação do art. 59 do Código Penal, defendendo a possibilidade de valorar negativamente a vetorial "conduta social" devido à prática criminosa ter ocorrido durante o cumprimento de pena. Argumenta que, conforme entendimento do Superior Tribunal de Justiça, a prática de novo delito durante o cumprimento de pena por crime anterior justifica a valoração negativa da conduta social, não configurando bis in idem em relação à agravante da reincidência, pois os fundamentos são diversos.
+Requer (fl. 284):
+a) o conhecimento do presente recurso especial, vez que atendidos todos os seus pressupostos de admissibilidade, sendo a via adequada para enfrentamento da violação ao art. 59, caput, do Código Penal.
+b) o provimento do presente recurso para que seja reformada a decisão do Tribunal de Justiça mineiro, reestabelecendo o desvalor da circunstância judicial "conduta social" nos termos da sentença primeva.
+Ofertadas contrarrazões (fls. 287/294), o Tribunal de origem admitiu o apelo (fls. 299/301).
+O Ministério Público Federal manifestou-se, às fls. 315/324, pelo provimento do recurso especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. CONDUTA SOCIAL VALORADA EM RAZÃO DE O DELITO TER SIDO PRATICADO ENQUANTO O RÉU CUMPRIA PENA POR DELITO ANTERIOR. MAIOR REPROVABILIDADE DA CONDUTA. COMPORTAMENTO ANTISSOCIAL RECALCITRANTE. FUNDAMENTO DIVERSO DA REINCIDÊNCIA. INOCORRÊNCIA DE BIS IN IDEM. 1. Consoante entendimento consolidado dessa E. Corte Superior, a prática de novo crime durante o cumprimento de pena por crimes anteriores revela comportamento antissocial recalcitrante, a evidenciar maior reprovabilidade da conduta, autorizando, por conseguinte, o sopesamento da pena-base a título de "conduta social" e não configurando bis in idem em relação à agravante da reincidência, porquanto diversa a fundamentação utilizada. 2. Parecer pelo provimento do recurso especial para restabelecer a negativação da vetorial "conduta social".
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. CONDUTA SOCIAL. NEGATIVAÇÃO EM RAZÃO DA PRÁTICA DE NOVO CRIME DURANTE O CUMPRIMENTO DE PENA. fundamentação idônea. JURISPRUDÊNCIA CONSOLIDADA. INEXISTÊNCIA DE BIS IN IDEM COM A AGRAVANTE DA REINCIDÊNCIA. FUNDAMENTOS DIVERSOS. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público de Minas Gerais contra o acórdão do Tribunal de Justiça de Minas Gerais que afastou a valoração negativa da conduta social na dosimetria da pena, em razão da prática de novo crime durante o cumprimento de pena por crime anterior, sob o argumento de evitar bis in idem.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se é válida a valoração negativa da conduta social do réu na dosimetria da pena, quando fundamentada na prática de crime durante o cumprimento de pena anterior.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça admite a valoração negativa da conduta social quando o agente pratica novo crime enquanto cumpre pena por delito anterior, considerando que tal fato demonstra comportamento social inadequado.
+4. No caso concreto, o Tribunal de origem considerou que o recorrido cometeu nova infração penal enquanto cumpria pena por outro delito, o que configuraria reincidência.
+5. A decisão recorrida encontra-se em dissonância dos precedentes desta Corte, que reconhecem como idônea a fundamentação da valoração negativa da conduta social com base na prática de infração durante o cumprimento de pena.
+IV. Dispositivo e tese
+6. Recurso provido.
+Tese de julgamento: "A prática de novo crime durante o cumprimento de pena por crime anterior justifica a valoração negativa da conduta social, sem configurar bis in idem em relação à agravante da reincidência, pois os fundamentos são distintos".
+Dispositivos relevantes citados: Código Penal, art. 59; Código Penal, art. 63.
+Jurisprudência relevante citada: STJ, AgRg no HC 556.444/DF, Rel. Min. Sebastião Reis Júnior, DJe 24/8/2020; STJ, AgRg no AREsp n. 2.276.637/PR, Rel. Min. Ribeiro Dantas, DJe 28/4/2023, STJ, AREsp n. 2.633.799/MG, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 6/12/2024.
+VOTO
+A questão a ser analisada consiste em verificar se é possível valorar negativamente a vetorial "conduta social", prevista no art. 59 do Código Penal, quando o agente pratica novo delito durante o cumprimento de pena por condenação anterior.
+O Tribunal de origem entendeu que essa circunstância deveria ser considerada apenas no âmbito da agravante da reincidência, afastando a valoração negativa da conduta social para evitar o bis in idem.
+Contudo, o posicionamento da Corte mineira contraria a jurisprudência consolidada do Superior Tribunal de Justiça, que admite a valoração negativa da conduta social quando o agente pratica novo crime durante o cumprimento de pena por crime anterior, sem que isso configure bis in idem com a reincidência.
+A conduta social, prevista no art. 59 do Código Penal, está relacionada ao comportamento do réu em seu meio social, familiar e profissional. Trata-se de critério distinto da reincidência, que considera a condenação anterior transitada em julgado por crime diverso, nos termos do art. 63 do Código Penal.
+Com efeito, quando o agente pratica novo delito enquanto cumpre pena por crime anterior, demonstra não apenas que é reincidente, mas também que possui conduta social inadequada, pois evidencia seu desprezo pela ordem jurídica e sua dificuldade de adaptação ao convívio social, mesmo após a intervenção estatal. Trata-se de fundamentos distintos que podem ser considerados separadamente na dosimetria da pena. Assim, por exemplo:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL. PRÁTICA DELITIVA DURANTE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo em Recurso Especial interposto por Zaqueu Alves da Silva contra acórdão que considerou adequada a valoração negativa da conduta social na dosimetria da pena, em razão da prática de novo crime durante o período em que cumpria pena por outra infração penal. O agravante alega que a valoração da conduta social foi inadequada, indicando como violado o art. 59 do Código Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é válida a valoração negativa da conduta social do réu na dosimetria da pena, quando fundamentada na prática de crime durante o cumprimento de pena anterior.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça (STJ) admite a valoração negativa da conduta social quando o agente pratica novo crime enquanto cumpre pena por delito anterior, considerando que tal fato demonstra comportamento social inadequado.
+4. No caso concreto, o Tribunal de origem considerou que o agravante cometeu nova infração penal enquanto cumpria pena por outro delito, evidenciando a inadequação de sua conduta social e fundamentando a negativação dessa circunstância na dosimetria da pena.
+5. A decisão recorrida encontra-se em consonância com precedentes desta Corte, que reconhecem como idônea a fundamentação da valoração negativa da conduta social com base na prática de infração durante o cumprimento de pena, conforme decidido em AgRg no HC 556.444/DF, Rel. Min. Sebastião Reis Júnior, DJe 24/8/2020.
+6. A jurisprudência consolidada do STJ também estabelece que a prática de novo crime durante a progressão de regime ou usufruto de benefícios penais justifica a negativação da conduta social, conforme o decidido em AgRg no AREsp n. 2.276.637/PR, Rel. Min. Ribeiro Dantas, DJe 28/4/2023.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.633.799/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 6/12/2024 - grifo nosso).
+No presente caso, verifica-se que o réu praticou o delito de furto qualificado pelo rompimento de obstáculo enquanto estava em cumprimento de pena por crime anterior, conforme reconhecido pelo próprio Tribunal de origem.
+Dessa forma, merece reparo o acórdão recorrido, devendo ser restabelecida a negativação da vetorial "conduta social". De rigor, pois, o redimensionamento da pena.
+Considerando a fração de 1/6 sobre a pena mínima aplicada no acórdão, sendo três circunstâncias judiciais negativas (antecedentes, culpabilidade e conduta social), reajusto a pena-base para 3 anos de reclusão e 15 dias-multa, que torno definitiva, ante a compensação da reincidência com a confissão espontânea, à míngua de outras causas de oscilação. Mantenho, no mais, os termos da condenação, inclusive o regime prisional.
+Ante o exposto, dou provimento ao recurso especial, reajustando a dosimetria da pena, nos moldes acima delineados.
