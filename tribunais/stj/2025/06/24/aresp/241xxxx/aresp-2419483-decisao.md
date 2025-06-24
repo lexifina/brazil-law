@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 2.022):
+Apelação. Ação declaratória de inexistência de relação jurídico-tributária com pedido cumulado de anulação de lançamento fiscal. Imposto sobre serviços de qualquer natureza. Exercício de 2009. Pretensão de que se expeça alvará de "habite-se" independentemente de pagamento de lançamento complementar do tributo. Admissibilidade. Exigência do réu constitutiva de ilegítimo meio de coerção do contribuinte. Previsão legal de como se efetua a cobrança de créditos tributários. Aparente violação aos princípios do contraditório e da ampla defesa. Precedentes da corte.
+Imposto sobre serviços de qualquer natureza. Exercício de 2009. Construção civil. Lançamento complementar por arbitramento com base em pauta fiscal. Inadmissibilidade. Não comprovação de inidoneidade das declarações prestadas pelo contribuinte ou por terceiros. Desrespeito aos artigos 7º, "caput", da Lei Complementar 116/03 e 148 do Código Tributário Nacional. Recurso denegado.
+Em suas razões recursais, a parte aponta violação ao art. 7º da Lei Complementar 116/2003 e ao art. 148 do Código Tributário Nacional (CTN). Sustenta que "o arbitramento foi realizado de maneira legítima, porquanto respeitado o devido processo legal e oportunizado ao contribuinte a possibilidade de contribuir para que o Município apure o valor real do tributo" (fl. 2.042).
+A parte adversa apresentou contrarrazões (fls. 2.046/2.060).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No caso em questão, o Tribunal de origem decidiu (fls. 2.021/2.030):
+Na hipótese dos autos não se deu instauração de processo administrativo, tampouco há indícios de que as notas fiscais emitidas pelos diversos prestadores de serviços desmereçam fé. De concluir, portanto, inexistir supedâneo legal para que a base de cálculo adotada pelo sujeito passivo do ISS seja desconsiderada e utilizada, em seu lugar, outra previamente fixada pelo Fisco.
+ ..
+Dúvida não resta, portanto, de que o sistema de "pauta fiscal" utilizado pelo Fisco Paulistano para cobrar o ISS é ilegal, pois desrespeita o artigo 7% "caput", da Lei Complementar 116/03 e o artigo 148 do Código Tributário Nacional. Daí a ilegitimidade do lançamento complementar em apreço.
+A peça recursal, todavia, não se insurge contra esse fundamento, limitando-se a afirmar que "o contribuinte não demonstrou por que razão ou em função de que técnica praticada concretamente é possível concluir que os valores envolvidos em seus contratos são inferiores aos valores - cientifica e economicamente atestados - praticados em empreendimentos da mesma natureza no Município de São Paulo" (fl. 2.039).
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Além disso, entendimento diverso do adotado pela Corte estadual, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
