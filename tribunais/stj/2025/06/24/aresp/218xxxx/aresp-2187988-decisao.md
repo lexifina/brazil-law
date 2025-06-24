@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por YAGO EMANUEL DE ALMEIDA NETTO contra a decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1502097-30.2019.8.26.0616.
+No recurso especial, a defesa apontou violação Dos arts. 33, § 4º, da Lei n. 11.343/2006, 33, § 2º e § 3º e 59, ambos do CP, e 387, § 2º, do CPP (fls. 292/307).
+Inadmitido o recurso na origem (fls. 324/325), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 330/344).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fl. 366).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Sobre a suposta violação do art. 33, § 4º, da Lei n. 11.343/2006, razão não assiste ao recorrente. O Tribunal fez constar expressamente que não se está usando fato posterior para agravar a pena, mas se trata de mais um indício que somado a tudo o que foi apontado nestes autos, não deixa dúvida de que YAGO não é o pequeno traficante, merecedor do benefício previsto no § 4º do artigo 33 da Lei n. 11.343/2006 (fl. 279 - grifo nosso). Confira-se parte do voto (fl. 279 - grifo nosso):
+ ..  a exorbitante quantidade de drogas variadas apreendias, 194 (cento e noventa e quatro) invólucros de maconha e 264 (duzentos e sessenta e quatro) porções de cocaína, além de R$ 702,25 (setecentos e dois reais e vinte e cinco centavos), em cédulas e moedas trocadas. Tudo isso somado à confissão do réu, de que era responsável pela distribuição das drogas aos vendedores, bem como responsável por recolher o dinheiro das vendas, não resta dúvida de sua dedicação à atividade ilícita, gozando de confiança da organização criminosa que controla o tráfico na região.  ..  tão logo colocado em liberdade, o apelado retornou para a atividade mercantil espúria e, alguns meses depois, em 11 de novembro de 2019 (nos autos nº 1502642-03.2019.8.26.0616), foi preso em flagrante novamente e condenado, consoante se infere de fls. 201/206).  ..
+Entendido pela instância ordinária que há dedicação a atividades criminosas, por parte do recorrente, aplica-se a Súmula 7/STJ.
+Em relação aos arts. 33, § 2º e § 3º, e 59, ambos do CP, deverá ser abrandado o regime para o semiaberto. É que, apesar de o Julgador fazer menção de que a pena-base deveria ter sido fixada acima do piso mínimo, mas que não houve pedido ministerial a esse respeito (fl. 277), o fato é que a pena-base foi fixada no mínimo legal, o recorrente não é reincidente e a pena final foi fixada em patamar inferior a 8 anos de reclusão. Nesses termos, o regime deve ser abrandado para o semiaberto.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento para fixar o regime semiaberto.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DOS ARTS. 33, § 4º, DA LEI N. 11.343/2006, 33, § 2º E § 3º, E 59, DO CP E 387, § 2º, DO CPP. COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ARTS. 33, § 2º e § 3º e 59, AMBOS DO CP. REGIME SEMIABERTO.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento.
