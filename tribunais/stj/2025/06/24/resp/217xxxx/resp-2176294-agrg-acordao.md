@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA NO MÍNIMO LEGAL. DISCRICIONARIEDADE DO JULGADOR. CONSIDERAÇÃO DAS PARTICULARIDADES FÁTICAS E CONCRETAS DOS AUTOS. LEGALIDADE E PROPORCIONALIDADE OBSERVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte Superior, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada violação à lei, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. No caso dos autos, não vislumbro, no procedimento dosimétrico adotado pelo Tribunal de origem, nenhuma ofensa a legislação federal apta a ensejar o redimensionamento da pena por esta instância extraordinária.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS, por meio da qual deixei de conhecer do seu recurso especial.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 793/798, in verbis:
+Trata-se de Recurso Especial (e-STJ fls. 742/749) interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, objetivando a reforma do Acórdão proferido pela 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal, que deu parcial provimento à Apelação Criminal defensiva n. 0707541-05.2022.8.07.0001, cujo Acórdão portou a seguinte ementa:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. MATERIALIDADE E AUTORIA. COMPROVAÇÃO. DOSIMETRIA DA PENA. CULPABILIDADE. DOIS VERBOS NUCLEARES DO TIPO. AFASTAMENTO. CIRCUNSTÂNCIA ESPECIAL DO ART. 42 DA LEI DE DROGAS. NATUREZA E QUANTIDADE. VETOR ÚNICO. CAUSA DE AUMENTO DE PENA. ART. 40, III DA LEI DE DROGAS. DELITO COMETIDO NAS IMEDIAÇÕES DE INSTITUIÇÃO DE ENSINO. MANUTENÇÃO. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. RESTRITIVA DE DIREITOS. INVIABILIDADE. REGIME FECHADO. MANUTENÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1. Comprovadas suficientemente a materialidade e a autoria do delito tipificado no 33, caput, c/c art. 40, inciso III, ambos da Lei nº 11.343/06.
+2. A prática de dois verbos núcleos do tipo (vender e trazer consigo), que se deram no mesmo dia e local, consubstanciam um único crime. A valoração negativa da culpabilidade tão somente pela prática desses dois verbos nucleares não ultrapassa o grau de censurabilidade da norma e, portanto, não se justifica, razão pela qual deve ser afastada. Precedentes deste Tribunal.
+3."A quantidade de droga apreendida, no caso, não expressa maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006. Nesse sentido, o entendimento desta Corte, a estabelecer que "a natureza e a quantidade da droga são elementos que integram um vetor judicial único, não sendo possível cindir a sua análise. Somente quando examinadas em conjunto (tipo de droga e quantidade) será possível ao julgador compreender adequadamente a gravidade concreta do fato e proceder à devida individualização da pena, que é o objetivo almejado pelo legislador com as disposições do art. 42 da Lei n. 11.343/06" (AgRg no HC n. 734.699/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/12/2022, DJe 22/12/2022). ( )." (AgRg no HC n. 815.864/MS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.). 3.1. No caso, embora a natureza da droga (crack) seja de altíssimo potencial de dependência, foi pequena a quantidade da droga apreendida (porções de 0,77g e 0,12g).
+4. A norma prevista no artigo 40, inciso III, da Lei de Drogas, tem caráter objetivo e incide se comprovado que o crime de tráfico de entorpecentes ocorreu nas imediações de um estabelecimento de ensino, sendo irrelevante o horário em que o tráfico aconteceu e se os estudantes eram os destinatários da droga. Precedentes deste Tribunal.
+5. Não há falar em reconhecimento do tráfico privilegiado (art. 33, § 4º da Lei de Drogas), quando o réu é reincidente específico.
+6. Considerando a reincidência específica, bem como o ora quantum estabelecido para a pena privativa de liberdade, deve ser mantido o regime inicial fechado, conforme prescreve o artigo 33, § 2º, alínea "b" do CP.
+7. Inviável substituir ou suspender a pena privativa de liberdade (CP, arts. 44 e 77), ante o não preenchimento dos requisitos legais, haja vista o da pena, bem como a reincidência específica do quantum apelante.
+8. Recurso da Defesa conhecido e parcialmente provido
+Insatisfeito, o Recorrente interpôs Recurso Especial, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, alegando contrariedade ao art. 33, caput, da Lei n. 11.343/2006 e ao art. 59 do Código Penal, em razão do afastamento da valoração negativa da culpabilidade.
+Afirma que "ao contrário do que se afirmou no acórdão recorrido, a pluralidade de ações cometidas pelo recorrido, quais sejam, "vender" e "trazer consigo", foi devidamente utilizada como fundamento para a exasperação da pena-base na sentença condenatória, a qual está em harmonia com a jurisprudência do Superior Tribunal de Justiça" (e-STJ fl. 746) e, ainda, que "no presente caso, o magistrado sentenciante considerou a autonomia das condutas perpetradas pelo réu para valorar negativamente a culpabilidade, pois, além de vender porção de crack, o réu ainda trazia consigo outra porção de crack" (e- STJ fl. 748) Ao final, requer o conhecimento e provimento do Recurso Especial para que seja valorada negativamente a culpabilidade do Recorrido, nos termos da sentença condenatória.
+O Desembargador Presidente do Tribunal de Justiça do Distrito Federal e Territórios admitiu o Recurso Especial (e-STJ fls. 772/773).
+Neste agravo regimental, a defesa repisa os argumentos deduzidos anteriormente, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA NO MÍNIMO LEGAL. DISCRICIONARIEDADE DO JULGADOR. CONSIDERAÇÃO DAS PARTICULARIDADES FÁTICAS E CONCRETAS DOS AUTOS. LEGALIDADE E PROPORCIONALIDADE OBSERVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte Superior, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada violação à lei, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. No caso dos autos, não vislumbro, no procedimento dosimétrico adotado pelo Tribunal de origem, nenhuma ofensa a legislação federal apta a ensejar o redimensionamento da pena por esta instância extraordinária.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 800/802):
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte Superior, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, não vislumbro ilegalidade no acórdão recorrido, que deixou de negativar, na primeira fase da dosimetria da pena, a culpabilidade do agente, pela presença de dois núcleos do tipo penal, "vender" e "trazer consigo", menos de 1g (um grama) de crack.
+De todo modo, tenho que o acolhimento das razões do recorrente esbarraria, na espécie, no óbice previsto na Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
