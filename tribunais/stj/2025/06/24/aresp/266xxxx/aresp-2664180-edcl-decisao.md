@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SUPERMERCADO SERVE TODOS PIRAJUI LTDA, contra a decisão monocrática de fls. 744/747, da lavra deste signatário, que negou provimento ao em recurso especial interposto pela parte ora insurgente.
+Em suas razões de fls. 750/751, aponta a ocorrência de omissão e contradição a macular o decisum recorrido, contestando a ausência de fundamentação adequada sobre a responsabilidade da parte recorrida, a omissão sobre o nexo causal entre o dano suportado pela embargante e a atividade da recorrida, e a contradição na conclusão do acórdão quanto à atuação da recorrida e a suposta fraude sistêmica.
+Contrarrazões aos embargos de declaração foram apresentadas pela parte contrária (fls. 756/757, e-STJ).
+É o breve relatório.
+Decido.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração objetivam suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a
+insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado.
+(EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)
+Segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+A contradição, por sua vez, diz respeito à proposições logicamente antagônicas (incongruentes entre si) contidas no corpo da decisão embargada, vale dizer, é aquela detectada entre os fundamentos ou entre estes e a parte dispositiva da decisão, nunca em relação à interpretação conferida à determinado preceito legal ou à matéria fática contida nos autos.
+A obscuridade, a seu turno, é vício de fundamentação caracterizado pela falta de clareza, confusão e ambiguidade que torna incompreensível o ato jurisdicional impugnado.
+No caso em apreço, a decisão embargada conheceu do agravo para negar provimento ao recurso especial interposto, porquanto a Corte local abordou as questões necessárias ao deslinde do feito, em especial acerca da responsabilidade e o consequente nexo causal entre o dano suportado e a atividade (fls. 745-746, e-STJ):
+Na hipótese, da leitura do acórdão recorrido, infere-se que as questões relativas à eventual responsabilização da parte recorrida foram analisadas e discutidas pelo órgão julgador, de forma ampla e devidamente fundamentada, consoante se extrai dos seguintes trechos do julgado (fls. 655-658, e-STJ):
+No caso dos autos, no entanto, não se vislumbra a utilização do sistema da requerida para a ocorrência da fraude, de modo que o caso concreto se configura como fortuito externo apto a afastar a responsabilidade da instituição financeira, ante a ruptura do nexo de causalidade.
+(..) Não há nos autos prova alguma de que a recorrente tenha se envolvido com a prática de atos ilícitos, tampouco que os estelionatários tenham se utilizado de dados sensíveis do sistema da empresa requerida para a prática delitiva.
+(..) Cabe pontuar que o MercadoPago atua como mero gerador do meio de pagamento, não se beneficiando do crédito nele estampado, sendo possível concluir que a fraude por terceiro foi realizada fora de seu ambiente virtual. Logo, não há como ser responsabilizado pelo dano material suportado pela demandante, uma vez que é impossível controlar o que é feito com o boleto fora de seu site. Se o direcionamento dos recursos oriundos do pagamento do boleto é feito com dolo, obviamente, este não pode ser imputado ao intermediador, porque a empresa apelante não tem ingerência na essência dos negócios realizados pelos seus usuários.
+Essa conduta dolosa do terceiro efetivamente favorecido constitui causa estranha, independente e sem vínculo com a atividade da apelante, configurando fortuito externo, exonerando-a, assim, de responsabilidade. (grifou-se)
+Como se vê, ao contrário do que aponta a parte recorrente, não se vislumbra a alegada omissão no decisum, o qual foi expresso - inclusive, acerca da ausência de qualquer benefício em proveito da parte recorrida. Deve, portanto, ser afastada a alegada violação aos aludidos dispositivos.
+Neste contexto, não há infringência ao artigo art. 1.022, CPC/2015, em razão da suficiente fundamentação exarada no decisum embargado, tendo dirimido a controvérsia com base no entendimento adotado no âmbito desta Corte Superior, sendo clara na sustentação das razões para o desprovimento do recurso interposto.
+Depreende-se, assim, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parte insurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
