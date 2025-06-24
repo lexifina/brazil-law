@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/1990. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. REQUISITOS SUBJETIVOS NÃO PREENCHIDOS. PRECEDENTES DO STJ. SÚMULA 83/STJ.
+1. Para além do critério objetivo referente ao montante do débito fiscal, a aplicação do princípio da insignificância, em delitos contra a ordem tributária, demanda também a análise de requisitos de natureza subjetiva, destacando-se, entre estes, a ausência de um histórico de prática delituosa contumaz ou de reiteração criminosa.
+2. No presente caso, a reiteração na prática de crimes contra a ordem tributária afasta a incidência do princípio da insignificância, tendo o Tribunal de origem destacado que ambos os réus possuem duas condenações transitadas em julgado também pela prática de crimes contra a ordem tributária, ou seja, são reincidentes específicos, além de existirem inúmeras ações penais em andamento contra ambos e pela prática de crimes da mesma natureza.
+3. Agravo regimental improvido.
+RELATÓRIO
+Erivan Leandro de Oliveira e Nilda Eliza Maia Leandro de Oliveira interpõem agravo regimental contra a decisão de fls. 1.645/1.648, de minha lavra, assim resumida:
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/1990. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. REQUISITOS SUBJETIVOS NÃO PREENCHIDOS. PRECEDENTES DO STJ. SÚMULA 83/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
+Nas razões do regimental, aduz a defesa, em síntese, que a existência de múltiplos processos, com objetos idênticos, decorre tão somente de erro cometido pelo Ministério Público durante o oferecimento das denúncias, não sendo tal pluralidade arrimo para a conclusão da divergência subjetiva (fl. 1.656).
+Alega que o obstáculo para o reconhecimento do princípio da insignificância é, exclusivamente, a suposta habitualidade delitiva, sendo esta deduzida a partir da própria pluralidade de processos, contrariamente aos elementos concretos, e que tal habitualidade delitiva sequer resta constatada nos demais processos do Embargante, referentes ao mesmo fato, sendo concedida sua absolvição de ofício (EDcl no AgRg nos EDcl no AREsp n. 2.423.838/PB; AREsp n. 2.349.371 ; AREsp n. 2.732.507), ressaltando que, ainda que a multiplicidade de ações constituísse impedimento à incidência do princípio da bagatela, o Supremo Tribunal Federal possui entendimento de que os antecedentes criminais do acusado não podem ser utilizados como óbice à aplicação do referido princípio jurídico (fls. 1.657/1.658).
+Requer a reconsideração da decisão agravada, ou a submissão do presente recurso ao órgão colegiado (fl. 1.659).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/1990. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. REQUISITOS SUBJETIVOS NÃO PREENCHIDOS. PRECEDENTES DO STJ. SÚMULA 83/STJ.
+1. Para além do critério objetivo referente ao montante do débito fiscal, a aplicação do princípio da insignificância, em delitos contra a ordem tributária, demanda também a análise de requisitos de natureza subjetiva, destacando-se, entre estes, a ausência de um histórico de prática delituosa contumaz ou de reiteração criminosa.
+2. No presente caso, a reiteração na prática de crimes contra a ordem tributária afasta a incidência do princípio da insignificância, tendo o Tribunal de origem destacado que ambos os réus possuem duas condenações transitadas em julgado também pela prática de crimes contra a ordem tributária, ou seja, são reincidentes específicos, além de existirem inúmeras ações penais em andamento contra ambos e pela prática de crimes da mesma natureza.
+3. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão dos agravantes .
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Consoante assinalado na decisão agravada, para além do critério objetivo referente ao montante do débito fiscal, a aplicação do princípio da insignificância, em delitos contra a ordem tributária, demanda também a análise de requisitos de natureza subjetiva, destacando-se, entre estes, a ausência de um histórico de prática delituosa contumaz ou de reiteração criminosa.
+No caso em tela, o Tribunal de origem destacou, no julgamento da apelação, que ambos os réus são reincidentes específicos, e que há duas condenações transitadas em julgado por crimes tributários para cada um deles, além de inúmeras ações penais em andamento imputando-lhes a prática de crimes tributários (fl. 1.486 - grifo nosso); no julgamento do recurso integrativo, ressaltou que os réus/embargantes são contumazes na prática de delitos de sonegação fiscal e de débitos tributários constituídos, de modo que não são subjetivamente favorecidos sendo, portanto, incabível a absolvição com base no princípio da insignificância (fl. 1.533).
+Desse modo, comprovada a contumácia dos agravantes, inviável a aplicação do princípio da insignificância.
+Além dos precedentes citados na decisão agravada, confiram-se o AgRg no HC n. 927.206/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e o AgRg no RHC n. 176.669/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 26/5/2023.
+Em face da ausência de qualquer elemento capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+Ante o exposto, nego provimento ao agravo regimental.
