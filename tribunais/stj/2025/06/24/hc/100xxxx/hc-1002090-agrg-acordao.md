@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NECESSIDADE DE EXAME PELO TRIBUNAL A QUO. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de não admitir habeas corpus contra decisão que indefere pedido liminar em writ impetrado perante Tribunal de origem, salvo se constatada flagrante ilegalidade ou teratologia, nos termos do enunciado n. 691 da Súmula do STF.
+2. A alegação de excesso de prazo na formação da culpa demanda análise pormenorizada das circunstâncias do caso concreto, à luz dos princípios da razoabilidade e proporcionalidade, e não de um critério aritmético.
+3. No caso, a decisão agravada evidenciou a ausência de ilegalidade manifesta a ensejar a mitigação do óbice sumular, tendo destacado a necessidade de apresentação de informações pela autoridade apontada como coatora e a existência de fundamentos concretos na decisão que decretou a prisão preventiva, relacionados à gravidade dos fatos e à necessidade de garantia da ordem pública.
+4. Ausente flagrante ilegalidade apta a afastar o óbice da Súmula 691/STF, impõe-se a manutenção da decisão que indeferiu liminarmente o habeas corpus.
+5 . Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus impetrado em favor de KLEBER JORDAN VIEIRA PEREIRA, apontando-se como autoridade coatora Desembargador Relator do Tribunal de Justiça do Estado da Paraíba que indeferiu pedido liminar formulado nos autos do HC n. 0808580-21.2025.8.15.0000.
+Segundo narrado, o agravante foi preso em flagrante em 09/12/2024, pela suposta prática dos delitos previstos no art. 33 da Lei n. 11.343/2006 e art. 16 da Lei n. 10.826/2003, prisão posteriormente convertida em preventiva.
+A defesa impetrou a ordem originária, cuja liminar foi indeferida ao fundamento de inexistência de demonstração inequívoca do fumus boni iuris, considerando-se que os fundamentos da prisão preventiva foram devidamente lançados com base na gravidade concreta dos fatos imputados e na presença dos requisitos dos arts. 312 e 313 do Código de Processo Penal.
+Diante dessa decisão, foi impetrado habeas corpus nesta instância superior, reiterando-se os argumentos relativos ao alegado constrangimento ilegal por excesso de prazo e postulando-se, liminarmente e no mérito, a revogação ou relaxamento da prisão cautelar.
+A decisão ora agravada indeferiu liminarmente o writ, com fundamento na Súmula 691 do Supremo Tribunal Federal, por não vislumbrar flagrante ilegalidade que justificasse a superação do referido óbice.
+Inconformada, a defesa interpôs o presente agravo regimental, sustentando que a ilegalidade é manifesta, ante a ausência de complexidade do feito e o tempo de custódia que reputa desproporcional e irrazoável. Requer, em juízo de retratação, o deferimento da liminar ou, mantida a decisão, o julgamento colegiado do recurso, com eventual concessão da ordem, inclusive de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NECESSIDADE DE EXAME PELO TRIBUNAL A QUO. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de não admitir habeas corpus contra decisão que indefere pedido liminar em writ impetrado perante Tribunal de origem, salvo se constatada flagrante ilegalidade ou teratologia, nos termos do enunciado n. 691 da Súmula do STF.
+2. A alegação de excesso de prazo na formação da culpa demanda análise pormenorizada das circunstâncias do caso concreto, à luz dos princípios da razoabilidade e proporcionalidade, e não de um critério aritmético.
+3. No caso, a decisão agravada evidenciou a ausência de ilegalidade manifesta a ensejar a mitigação do óbice sumular, tendo destacado a necessidade de apresentação de informações pela autoridade apontada como coatora e a existência de fundamentos concretos na decisão que decretou a prisão preventiva, relacionados à gravidade dos fatos e à necessidade de garantia da ordem pública.
+4. Ausente flagrante ilegalidade apta a afastar o óbice da Súmula 691/STF, impõe-se a manutenção da decisão que indeferiu liminarmente o habeas corpus.
+5 . Agravo regimental não provido.
+VOTO
+O agravo regimental não merece provimento.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Nos termos da decisão agravada, não se vislumbrou, na espécie, hipótese de flagrante ilegalidade que autorizasse a mitigação do enunciado da Súmula 691 do Supremo Tribunal Federal, aplicável à espécie por analogia.
+Como cediço, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Desse modo, convém o exame mais detido da matéria, inclusive após a apresentação de informações pela autoridade apontada como coatora, para que se verifique a existência de constrangimento ilegal a ser sanado.
+Nesse sentido, o Desembargador Relator destacou que " a  concessão de tutela de eficácia imediata em habeas corpus constitui medida de extrema excepcionalidade, somente admitida nos casos em que demonstrada de forma manifesta a necessidade e urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado" (e-STJ fl. 20).
+Desse modo, examinou a idoneidade dos fundamentos da prisão, considerando-a amparada na gravidade concreta dos fatos, relacionados ao tráfico de entorpecentes e posse de arma de fogo de uso restrito, bem como na necessidade de garantia da ordem pública, aplicação da lei penal e conveniência da instrução criminal, e solicitou informações ao magistrado singular.
+Portanto, a matéria ainda está sob exame do Tribunal de Justiça do Estado da Paraíba, não havendo demonstração de omissão ou inércia do juízo competente que justifique a intervenção prematura desta Corte.
+A irresignação apresentada no agravo regimental limita-se a reiterar os fundamentos expostos na impetração, sem trazer elementos novos capazes de infirmar os fundamentos adotados na decisão agravada.
+Dessa forma, ausente flagrante ilegalidade apta a afastar o óbice da Súmula 691/STF, impõe-se a manutenção da decisão que indeferiu liminarmente o habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
