@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão proferida pelo Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0078247-46.2019.8.09.0149.
+No recurso especial, a defesa apontou violação dos arts. 33, caput, da Lei n. 11.343/2006 e 180, caput, do Código Penal e, de forma subsidiária, do art. 619 do CPP (fls. 452/483).
+Inadmitido o recurso na origem (fls. 506/508), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 513/541).
+O Ministério Público Federal opinou pelo não conhecimento ou desprovimento do agravo (fls. 568/574).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+A acusação aponta ofensa aos arts. 33 da Lei de Drogas, 180 do CP e 619 do CPP. Os argumentos do recorrente foram devidamente analisados no acórdão hostilizado, como pode ser conferido no julgamento dos embargos de declaração, que transcreveu trecho do julgamento da ap elação, quando assim se pronunciou (fls. 442/445 - grifo nosso):
+ ..
+Verifica-se no Voto/Acórdão que o recurso interposto por ANA DE LOURDES DIAS DAS NEVES foi conhecido e provido, desclassificando a conduta de tráfico para posse para uso e a absolveu do crime de receptação, nos seguintes termos:
+ ..
+Assim, apreendida pequena quantidade de droga em poder da apelante e não havendo provas suficientes de que se destinava à difusão ilícita, tendo a acusada informado ser usuária e que o narcótico apreendido era para seu próprio consumo, imperiosa a desclassificação da conduta de tráfico para aquela contida no art. 28, da Lei nº 11.343/06.
+Em relação ao crime de receptação, sabe-se que é elementar do tipo que a apelante tenha conhecimento de que o produto advenha de crime anterior, o que não restou comprovado nos autos.
+No caso, embora os policiais tenham informado que no local não havia crianças, é fato que a apelante possui filhos (mov. 01, arquivo 03, fl. 132) e que, nas circunstâncias em que se encontrava, não comprovado que tinha condições de saber da origem ilícita dos objetos encontrados.
+Ademais, verifica-se que há contradição no depoimento dos policiais (sic), pois um deles afirma que a apelante sabia da origem ilícita dos objetos apreendidos e o outro afirma que sequer questionaram se ela sabia da origem dos objetos. Dessa forma, constata-se que houve somente suposições de que a apelante sabia da origem das mercadorias.
+Nesse contexto, deve a apelante ser absolvida do crime de receptação por não existirem provas suficientes para sua condenação.
+Ante o exposto, desacolho o parecer ministerial de cúpula, conheço e dou provimento ao apelo, para desclassificar as condutas de tráfico de drogas para posse para uso, com a respectiva remessa dos autos ao Juizado Especial Criminal para os fins de mister e absolver do crime de receptação, nos termos do art. 386, VII, do CPP".
+Da transcrição supra, ao contrário do aduzido pelo representante ministerial, verifica-se que não há nenhuma omissão no Voto/Acórdão. A prova foi analisada em sua integralidade, a qual resultou na conclusão absolutória e, embora realmente o delito de tráfico seja crime de conteúdo variado, necessário sim, para sua configuração, que o entorpecente se destine à difusão ilícita, o que não restou comprovado nos autos.
+Outrossim, a quantidade de droga, a forma de acondicionamento também foram levados em consideração, os quais, por si só, não denotam a traficância, máxime porque também são adquiridos desta forma. Por outro lado, embora também não se ignore a inversão do ônus da prova em delito de receptação, a análise minuciosa de todo o apurado não demonstrou sua prática, não sendo suficiente para tanto a simples denúncia. Logo, ausente omissão no Voto/Acórdão, não há espaço para nova discussão acerca da matéria já apreciada no apelo, impondo-se, de consequência, a rejeição dos embargos.
+Assim, alcançar conclusão inversa do acórdão hostilizado demandaria reexame de provas, o que atrai a incidência da Súmula 7 deste Superior Tribunal.
+E como mencionado na transcrição supracitada, não há ofensa ao art. 619 do CPP, pois o recurso de embargos declaratórios é cabível apenas quando houver na decisão ambiguidade, obscuridade, contradição ou omissão, não se presta para buscar esclarecimentos sobre o convencimento da Turma Julgadora, mormente quando têm o nítido propósito de obter o reexame da prova. In casu, ao examinar as razões do recurso, verifica-se uma nítida intenção em alterar o resultado do julgamento haja vista o claro desacordo com o acórdão.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. ARTS. 33, CAPUT, DA LEI N. 11.343/2006, 180, CAPUT, DO CP E 619 DO CPP. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA POSSE DESTINADA A CONSUMO PRÓPRIO. ABSOLVIÇÃO DO DELITO DE RECEPTAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AUSÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, improvido.
