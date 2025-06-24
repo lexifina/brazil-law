@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. FURTO QUALIFICADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedentes.
+2. Hipótese em que não há ilegalidade na dosimetria da pena, considerando a fundamentação concreta para a negativação do vetor personalidade e a correta aplicação das frações de exasperação da pena-base e das agravantes.
+3. Considerando a pena imposta (4 anos de reclusão) e a existência de circunstâncias judiciais negativadas, não há ilegalidade no regime inicial semiaberto.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 443.784/2025) interposto por CARLA MICHELE MARIANO BONATO contra decisão da lavra deste Relator (fls. 44/46), em que se indeferiu liminarmente o habeas corpus, a seguir ementada:
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta a agravante, inicialmente, a possibilidade de utilização do writ para revisão da condenação imposta e mantida pelas instâncias ordinárias - alegando constrangimento ilegal e a possibilidade de concessão de habeas corpus de ofício (fls. 54) - e, no mérito, ratifica os argumentos da impetração, pretendendo a revisão da dosimetria do furto, com o afastamento da negativação do vetor personalidade ou, subsidiariamente, a alteração da fração de aumento para 1/6 por circunstância judicial negativa, afastamento da agravante da coação (art. 62, II, CP), e alteração do regime inicial de cumprimento de pena para aberto.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. FURTO QUALIFICADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DA PENA POR ALTERNATIVAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente como uma espécie de "segunda apelação" para revisar a condenação imposta e mantida pelas instâncias ordinárias, o que desvirtua a finalidade do habeas corpus e contribui para o acúmulo de processos no Superior Tribunal de Justiça. Precedentes.
+2. Hipótese em que não há ilegalidade na dosimetria da pena, considerando a fundamentação concreta para a negativação do vetor personalidade e a correta aplicação das frações de exasperação da pena-base e das agravantes.
+3. Considerando a pena imposta (4 anos de reclusão) e a existência de circunstâncias judiciais negativadas, não há ilegalidade no regime inicial semiaberto.
+4. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a condenação da agravante por furto qualificado a 4 anos de reclusão e 19 dias-multa, proferida na Ação Penal n. 1501981-63.2021.8.26.0451 (da 2ª Vara Criminal e da Infância e Juventude da comarca de Votuporanga/SP) - não comporta reparos.
+Primeiro, porque a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois:
+a) no acórdão hostilizado, a negativação do vetor personalidade está devidamente fundamentada em elementos concretos dos autos - apresenta desvio de caráter. Isso porque, o crime não constituiu um episódio acidental na vida da acusada, pois sua personalidade é voltada para o crime. A acusada fazia do crime seu meio de vida. Nos relatórios de investigação de fls. 479/489 há diversas conversas encontradas em seu telefone celular indicando que cooptava várias pessoas buscando "alugar" sua conta bancária e aplicar golpes, gerando prejuízo  a  diversas (fl. 13) -, evidenciando circunstâncias que extrapolam os elementos do tipo penal imputado;
+b) corretas as frações utilizadas para exasperação de pena-base, 1/3 - em razão da negativação da personalidade e circunstâncias do crime (fl. 12) - e em 1/2, pela incidência de três agravantes (fls. 13/14);
+c) rever a conclusão do acórdão hostilizado acerca de incidência de agravante da coação - fundamentada na prova testemunhal, que confirmou que a paciente organizou a empreitada criminosa, induzindo outros agentes, ainda que de modo implícito (fl. 14) - demandaria reexame probatório, inviável na via eleita; e
+d) considerando a pena imposta (4 anos de reclusão) e a existência de circunstâncias judiciais negativadas, não há ilegalidade no regime inicial semiaberto.
+Em razão disso, nego provimento ao agravo regimental.
