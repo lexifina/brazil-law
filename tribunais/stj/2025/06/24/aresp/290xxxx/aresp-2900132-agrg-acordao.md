@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. REGIMENTAL. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS. DOSIMETRIA. PERSONALIDADE. NEGATIVAÇÃO COM BASE EM ELEMENTOS CONCRETOS. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. PRECEDENTES. RAZÕES QUE NÃO INFIRMARAM REFERIDO FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ QUANTO AO PONTO.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ FERNANDO BEIRAO SILVEIRA contra a decisão monocrática de minha lavra, assim ementada (fl. 631):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS TIDOS COMO NÃO ATACADOS DEVIDAMENTE IMPUGNADOS NO AGRAVO. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DOSIMETRIA. PERSONALIDADE. NEGATIVAÇÃO COM BASE EM ELEMENTOS CONCRETOS. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO JURISPRUDENCIAL. DESTA CORTE. PRECEDENTES.
+Decisão reconsiderada. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões, a defesa sustenta que não é caso de aplicabilidade da súmula 7 desta Corte, porquanto os fatos incontroversos cotejados consistentes na ausência de apreensão das drogas negociadas nas mensagens de WhatsApp para caracterizar o crime de tráfico de drogas, possibilitam novo enquadramento jurídico (fl. 643).
+Alega, também, que os argumentos proferidos para manter o aumento da pena-base podem ser reconsiderados (fl. 646) e entendendo pela ausência de fundamentação suficiente para elevar a pena-base por conta da personalidade deturpada (fl. 647) pugna pelo afastamento e a condução da pena para o mínimo legal (idem).
+Requer, assim, a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. REGIMENTAL. MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS. DOSIMETRIA. PERSONALIDADE. NEGATIVAÇÃO COM BASE EM ELEMENTOS CONCRETOS. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. PRECEDENTES. RAZÕES QUE NÃO INFIRMARAM REFERIDO FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ QUANTO AO PONTO.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+VOTO
+Inicialmente, observo que a defesa deixou de impugnar, com a especificidade necessária, o fundamento que manteve a elevação da pena-base por entender que, no ponto, o acórdão de coadunava com a jurisprudência desta Corte.
+Ora, conforme anotei na decisão monocrática ora agravada, a jurisprudência desta Corte caminha em conformidade com o entendimento externado no acórdão combatido, no sentido de não considerar imprescindível a realização de perícia para aferição da personalidade do agente.
+Nesse sentido, citei:
+ ..
+4. A personalidade do agente resulta da análise do seu perfil subjetivo, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatório dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado, independentemente de perícia. No caso, o réu obteve vídeos íntimos de forma clandestina e passou a ameaçá-la caso revelasse as violências sexuais por ela sofridas.
+ ..
+(AgRg no HC n. 924.377/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 6/9/2024 - grifo nosso).
+E vários são os precedentes que confirmam tal posicionamento. A título de reforço, listo: HC n. 772.044/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN de 14/2/2025; AgRg no HC n. 909.984/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 13/2/2025 e AgRg no HC n. 925.471/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 4/10/2024.
+Ora, é sabido que a impugnação específica acerca da inaplicabilidade da Súmula 568/STJ à espécie exige do recorrente que colacione precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, o que não se verificou no caso em exame.
+Com efeito, limitou-se o agravante a afirmar, genericamente, que os argumentos proferidos para manter o aumento da pena-base podem ser reconsiderados (fl. 646) e que houve ausência de fundamentação suficiente para elevar a pena-base por conta da personalidade deturpada (fl. 647). Não trouxe, contudo, nenhum julgado efetivamente contrário ao entendimento externado na decisão agravada, tendo citado apenas um único precedente, anterior ao mencionado na decisão combatida, cujo teor não destoa da conclusão ali externada.
+Assim, tenho que o agravante não observou o disposto no art. 932, III, do Código de Processo Civil de 2015, atraindo quanto ao ponto, a incidência da Súmula 182/STJ. Nesse sentido: AgInt no AREsp n. 2.361.327/SP, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 6/9/2023.
+Quanto ao mais, tenho que a decisão agravada deve ser mantida.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação do agravante com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Como afirmei monocraticamente, a conclusão no sentido da prática do tráfico de drogas por parte do agravante - não obstante se reconheça a pequena quantidade de drogas apreendida em seu poder (10 g de maconha) - está calcada num contexto de anterior condenação por associação para o tráfico - cujos fatos teriam direta relação com os apurados no presente feito -, em detalhado relatório de conversas telefônicas, vídeos e fotografias mostrando o réu manipulando entorpecentes, bem como na palavra dos policiais que atuaram na investigação do crime em questão. Confira-se (fls. 384/388 - grifo nosso):
+ ..
+Em síntese, o apelante já possui uma condenação, transitada em julgado, pela prática do crime de associação para o tráfico, cujos fatos guardam relação direta com estes autos.
+Desse modo, o pedido absolutório, fundado exclusivamente na alegação de ausência de prova da materialidade, não possui a mínima razão de ser.
+Isso porque o próprio recorrente admite que foi encontrado em sua residência a quantidade de 10g de maconha, e o auto de apreensão presente no inquérito policial 5058058- 95.2020.8.24.0023, INQ5, p. 43, confirma isso. Ainda que se trate de pouca quantidade, o relatório detalhado das conversas telefônicas, extraído dos autos 5056325-94.2020.8.24.0023, ev. 1, não deixa dúvidas de que o acusado e seus comparsas negociavam drogas rotineiramente, e os vídeos e fotografias indicados na sentença, em grande número, trazem o réu manipulando maconha e seus derivados num exibicionismo típico de quem está acostumado com esse tipo de atividade.
+Conquanto seja fácil de se encontrar a materialidade desta infração penal, até mesmo pelas próprias razões do recurso, vale ratificar os depoimentos dos principais atores da investigação, boa parte deles colhidos durante a primeira ação penal e bem sintetizados na sentença recorrida:
+ ..
+Conforme se extrai dos depoimentos, o réu era um conhecido traficante para um grupo de pessoas mais próximas, e estava associado com Raí Frasseto Bariani Carvalho e o adolescente P. H. F., negociando entorpecentes sem qualquer constrangimento, algo que suas namoradas e amigas sempre souberam.
+Muito embora a descoberta deste ilícito tenha ocorrido por conta do acaso, fruto das interceptações telefônicas relacionados aos crimes sexuais, o fato é que com o apelante foi encontrado certa quantidade de maconha e as provas de natureza digital trazem a certeza de que ao menos parte daquele material seria destinado ao comércio.
+Aliás, os vídeos juntados aos autos 5058058-95.2020.8.24.0023 indicam que o apelante também manipulava quantidade maior de tóxico, algumas em um volume maior com a erva prensada (ev. 6).
+Desse modo, existindo apreensão de droga, vídeos e conversas cujo contexto é nitidamente vinculado ao comércio ilícito de entorpecentes, inviável acolher-se o pleito de absolvição por ausência de materialidade delitiva.
+ ..
+Nesse cenário, é certo que o acolhimento do pleito absolutório - fundado na tese de insuficiência probatória - demandaria o reexame da prova coligida, providência essa vedada nos termos da Súmula 7/STJ.
+A propósito, citei e novamente o faço:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. PRETENSÃO ABSOLUTÓRIA. INVERSÃO DO JULGADO. REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. IMPOSIÇÃO DO REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. RÉU REINCIDENTE. PRESENÇA DE CIRCUNSTÃNCIA JUDICIAL NEGATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso em sede especial, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+ ..
+(AgRg no AgRg no AREsp n. 2.357.113/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/9/2023 - grifo nosso).
+Na mesma linha: AgRg no AREsp n. 2.337.750/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 1º/3/2024; AgRg no AREsp n. 2.244.586/TO, Ministro Messod Azulay Neto, Quinta Turma, DJe 28/3/2023; e AgRg no TP n. 2.096/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/8/2019, entre muitos outros.
+Tenho, pois, que o agravante não logrou êxito em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais devem ser mantidas in totum pelos seus próprios fundamentos.
+Ante o exposto, conheço parcialmente do agravo regimental e, nessa extensão, nego-lhe provimento.
