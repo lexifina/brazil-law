@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2025 a 24/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. ABSOLVIÇÃO. IMPOSSIBILIDADE. ALEGAÇÃO DE AUSÊNCIA DE BENEFÍCIO FINANCEIRO. REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que tange ao pedido de absolvição, por não ser o agravante funcionário público, o acórdão impugnado, ao indeferir o pedido, vai ao encontro da jurisprudência desta Corte Superior, segundo a qual, é possível o oferecimento de denúncia contra pessoa que não exerce cargo público, nos termos do artigo 327 do Código Penal, pelo crime de corrupção passiva, quando o particular colaborar com o funcionário público na prática da conduta típica, tendo em vista a comunicabilidade das condições de caráter pessoal elementares do crime (APn n. 536/BA, relatora Ministra Eliana Calmon, Corte Especial, julgado em 15/3/2013, DJe de 4/4/2013). Portanto, incide, no ponto, a Súmula n. 83 do STJ.
+2. Acerca da tese de ausência de benefício financeiro, a análise dos temas demanda vedado reexame de provas. Portanto, incide, no ponto, a Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+ADELSON MACELAY interpõe agravo regimental contra a decisão que, ao negar provimento ao recurso especial, chancelou acórdão proferido pela Corte loc al que negou provimento ao apelo.
+Informam os autos que, após regular instrução processual, sobreveio sentença que condenou os recorrentes nos seguintes termos:
+Adelson Macelay, a 3 anos, 1 mês e 10 dias de reclusão, em regime inicial aberto, por infração ao disposto no art. 317, § 1º, c/c art. 59, caput, por uma vez, ambos do Código Penal, substituída por duas restritivas de direitos
+Júlio César da Silva, a 10 anos e 3 dias de reclusão, em regime inicial fechado, bem como a perda do cargo público, por infração ao disposto no art. 317, caput, e art. 317, § 1º, c/c art. 59, caput, e art. 71, por 35 vezes, do Código Penal e no art. 2º, § 2º e § 4º, inciso II, da Lei n. 12.850/2013, c/c
+Maurício de Lima Lopes, a 7 anos e 20 dias de reclusão, em regime inicial semiaberto, por infração ao disposto no art. 317, caput, e art. 317, § 1º, c/c art. 59, caput, e art. 71, por 5 vezes, do Código Penal e art. 2º, § 4º, inciso II, da Lei nº 12.850/2013, c/c art. 59, caput, do Código Penal, ambos c/c art. 69, caput, também do Código Penal;
+Ana Carolina de Medeiros da Silva, a 7 anos, 11 meses e 10 dias de reclusão, em regime inicial semiaberto, por infração ao disposto no art. 317, caput, e art. 317, § 1º, c/c art. 59, caput, e art. 71, por 23 vezes, do Código Penal e art. 2º, § 4º, inciso II, da Lei nº 12.850/2013, c/c art. 59, caput, do Código Penal, ambos c/c art. 69, caput, também do Código Penal.
+A Corte local negou provimento ao apelo de Júlio César da Silva e deu parcial provimento ao recurso de Ana Carolina de Medeiros da Silva, Maurício de Lima Lopes e Adelson Macelay, para fixar as penas, respectivamente, em 7 anos, 11 meses e 10 dias de reclusão; 7 anos e 20 dias de reclusão, no regime semiaberto; e 2 anos, 8 meses de reclusão e 20 dias, no regime aberto.
+Irresignada, a defesa interpôs recurso especial, pugnando pela absolvição, por não ser funcionário público, de modo que não poderia ser condenado por corrupção passiva tipificada no artigo 317 do CP. Sustenta jamais ter recebido benefício financeiro.
+O Ministério Público Federal oficia pelo não conhecimento dos recursos especiais defensivos.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. ABSOLVIÇÃO. IMPOSSIBILIDADE. ALEGAÇÃO DE AUSÊNCIA DE BENEFÍCIO FINANCEIRO. REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que tange ao pedido de absolvição, por não ser o agravante funcionário público, o acórdão impugnado, ao indeferir o pedido, vai ao encontro da jurisprudência desta Corte Superior, segundo a qual, é possível o oferecimento de denúncia contra pessoa que não exerce cargo público, nos termos do artigo 327 do Código Penal, pelo crime de corrupção passiva, quando o particular colaborar com o funcionário público na prática da conduta típica, tendo em vista a comunicabilidade das condições de caráter pessoal elementares do crime (APn n. 536/BA, relatora Ministra Eliana Calmon, Corte Especial, julgado em 15/3/2013, DJe de 4/4/2013). Portanto, incide, no ponto, a Súmula n. 83 do STJ.
+2. Acerca da tese de ausência de benefício financeiro, a análise dos temas demanda vedado reexame de provas. Portanto, incide, no ponto, a Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+VOTO
+No que tange ao recurso de Adelson - em que pede a absolvição, por não ser funcionário públicos, o acórdão impugnado, ao indeferir o pedido, vai ao encontro da jurisprudência desta Corte Superior, segundo a qual, é possível o oferecimento de denúncia contra pessoa que não exerce cargo público, nos termos do artigo 327 do Código Penal, pelo crime de corrupção passiva, quando o particular colaborar com o funcionário público na prática da conduta típica, tendo em vista a comunicabilidade das condições de caráter pessoal elementares do crime (APn n. 536/BA, relatora Ministra Eliana Calmon, Corte Especial, julgado em 15/3/2013, DJe de 4/4/2013).
+Portanto, incide, no ponto, a Súmula n. 83 do STJ.
+Acerca das teses de (a) ausência de benefício financeiro, esposada pela defesa de Adelson, e (b) ignorância de práticas criminosas praticadas pelos demais corréus em crime próprio, sustentada pela defesa de Maurício, a análise dos temas demanda vedado reexame de provas.
+Portanto, incide, no ponto, a Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
