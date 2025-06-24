@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por DENISE ACUNHA MARTINS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que não admitiu o recurso especial.
+A agravante foi denunciada pela prática de crime contra a ordem tributária tipificado no art. 2º, inciso II, da Lei n. 8.137/1990, por não recolher ICMS no prazo legal referente aos meses de agosto de 2018 a dezembro de 2019 (fls. 13-17).
+A defesa alegou a prescrição da pretensão punitiva sustentando que, entre os fatos e o recebimento da denúncia, datada de 03/02/2023, transcorreu mais de quatro anos, conforme o art. 109, inciso V, do Código Penal (fls. 169-184).
+O Juízo de primeiro grau, com base no art. 107, inciso VI, do Código Penal, declarou extinta a punibilidade no que tange aos fatos ocorridos entre agosto de 2018 a fevereiro de 2019 em razão da prescrição da pretensão punitiva (fls. 199-200).
+O Tribunal de origem, ao julgar o recurso em sentido estrito interposto pelo Ministério Público, reformou a decisão de extinção da punibilidade considerando que o prazo prescricional esteve suspenso em virtude do ingresso do débito fiscal em programas de parcelamento (fls. 257-261).
+Os embargos de declaração da defesa foram rejeitados (fls. 276-279).
+A agravante interpôs recurso especial com base no art. 105, inciso III, alínea "a" da Constituição Federal, apontando violação ao art. 109, inciso V, do Código Penal e insistindo na ocorrência da prescrição (fls. 286-291).
+O recurso especial foi inadmitido com base no óbice da Súmula n. 83, STJ (fls. 307-308).
+No presente agravo, a defesa sustenta que o recurso especial deveria ter sido admitido, alegando que o acórdão recorrido contrariou o disposto no art. 109, V, do Código Penal, e que a prescrição da pretensão punitiva deveria ser reconhecida (fls. 315-319).
+O Ministério Público Federal manifestou-se pelo não conhecimento e desprovimento do agravo, afirmando que a decisão recorrida está em consonância com a jurisprudência do Superior Tribunal de Justiça (fls. 351-353).
+É o relatório. DECIDO.
+Verifico que, no agravo, a recorrente não rechaçou os fundamentos de inadmissão do apelo especial.
+Isso porque, inadmitido o recurso especial com base no enunciado da Súmula n. 83, STJ, incumbiria à agravante apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, para demonstrar que outra é a orientação jurisprudencial do Superior Tribunal de Justiça (AgRg no AREsp n. 2.267.844/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025).
+No mesmo sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+ ..
+3. Para superar o óbice da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+ .. "
+(AgRg no AREsp n. 2.589.655/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/3/2025, DJEN de 28/3/2025).
+Na hipótese, a agravante limitou-se a repetir a tese de mérito do recurso especial quando da interposição do agravo, sem, contudo, demonstrar a efetiva divergência jurisprudencial desta Corte com o acórdão recorrido.
+Desatendido o pressuposto, o agravo não pode ser conhecido, nos termos da Súmula n. 182, STJ.
+De qualquer modo, mesmo que assim não fosse, o recurso especial não poderia ser conhecido.
+Este Corte registra precedentes no sentido de que o período de parcelamento do débito tributário suspende o curso do prazo de prescrição da pretensão punitiva.
+Confira-se, a título de exemplo, o seguinte precedente:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. SONEGAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. TERMO INICIAL. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. PARCELAMENTO. SUSPENSÃO DO PRAZO. CONDUTA ANTERIOR À VIGÊNCIA DO ART. 337-A, DO CP. ART. 1º, I, DA LEI N. 8.137/1990. CONTRIBUIÇÕES SOCIAIS. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA. DESCRIÇÃO DO FATO CRIMINOSO. INDICAÇÃO DE PERÍODO E VALORES. PROCEDIMENTO FISCAL. MENÇÃO A DOCUMENTOS ESPECÍFICOS. SUFICIÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. MONTANTE DO DÉBITO CONSTITUÍDO SUPERIOR AO LIMITE. RECURSO DESPROVIDO.
+1. Os crimes contra a ordem tributária, previstos no art. 1º, I a IV, da Lei n. 8.137/1990, se consumam apenas com o lançamento definitivo do tributo, consoante a Súmula Vinculante 24, do STF, iniciando-se, a partir de então, a contagem do prazo de prescrição da pretensão punitiva, o qual se suspende durante o período de parcelamento .. ."
+(RHC n. 128.804/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022..
+No caso concreto, o acórdão recorrido assim decidiu a questão controvertida (fls. 258-259):
+" ..  cuidando-se de dívida fiscal, deve-se observar o contido no art. 83, § 2º, da Lei n. 9.430/96, segundo o qual "É suspensa a pretensão punitiva do Estado referente aos crimes previstos no caput, durante o período em que a pessoa física ou a pessoa jurídica relacionada com o agente dos aludidos crimes estiver incluída no parcelamento, desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denúncia criminal."
+No caso, a magistrada a quo extinguiu a punibilidade do agente pelo implemento da prescrição, pois considerou que "verifica-se que entre a data dos fatos (agosto de 2018 a dezembro de 2019 - evento 1, DENUNCIA1) e o recebimento da denúncia (03/02/2023 - evento 10), houve o transcurso do prazo prescricional somente dos períodos de agosto de 2018 a fevereiro de 2019, razão pela qual o pleito deve ser acolhido" (evento 68, DESPADEC1).
+Todavia, ao examinar atentamente os documentos que acompanharam a denúncia, alguns dos períodos que nela constaram foram incluídos em regimes de parcelamento, quais sejam (evento 1, DOC4): a) parcelamento sequencial 3, incluiu alguns períodos de apuração da DVA n. 210009098429, de 08/2018 a 11/2018, e gerou a suspensão do prazo prescricional durante sua vigência, ou seja, entre 30/01/2019 (data da consolidação) e 19/05/2019 (data do cancelamento); b) parcelamento sequencial 4, incluiu todos os períodos de apuração das DVA"s ns. 210009098429 e 210009133275, bem como os períodos 10/2019 e 11/2019 da DVA n. 220000105705, e gerou a suspensão do prazo prescricional durante sua vigência, ou seja, entre 23/01/2020 (data da consolidação) e 16/05/2021 (data do cancelamento).
+Logo, considerando o período de suspensão pelo parcelamento do débito fiscal, compreendido entre 30-01-2019 a 19-05-2019, referente ao parcelamento sequencial 3; e 23-1-2020 a 16-5-2021, referente a sequencial 4, decorreu lapso inferior a 4 (quatro) anos desde a data dos respectivos fatos, não se aplicando a prescrição legal dos períodos entre agosto de 2018 a fevereiro de 2019.  .. ".
+Dessa forma, a decisão recorrida está em perfeita harmonia com a orientação desta Corte, não ensejando acesso às vias excepcionais, o que atrai a aplicação da Súmula n. 83, STJ.
+Reputo correta, portanto, a decisão que não admitiu o recurso especial.
+Ante o exposto, não conheço do agravo em recurso especial , nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
