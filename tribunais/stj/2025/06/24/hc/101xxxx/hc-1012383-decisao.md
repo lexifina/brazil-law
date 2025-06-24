@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCAS TEIXEIRA CORREIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento do Agravo de Execução Penal n. 0001339-42.2025.8.26.0026.
+Extrai-se dos autos que o Juízo das Execuções Penais revogou o livramento condicional concedido ao paciente, em razão do trânsito em julgado da condenação por crime praticado durante o curso do período de prova do benefício. Na ocasião, foi determinado o recolhimento do apenado em regime fechado (fls. 22/26).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, em acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO Restabelecimento da benesse do livramento condicional Decisão a proceder à unificação das penas do sentenciado, com a fixação do regime prevalecente (fechado) Desnecessidade de prévia oitiva do condenado, porquanto não se tratasse de regressão de regime Inconformismo, ademais, que se encontra prejudicado, diante do trânsito em julgado da condenação superveniente, a ensejar a revogação do benefício, nos termos do art. 86, inciso II, do CP - Recurso desprovido." (fl. 9).
+No presente writ, o impetrante informa que o paciente estava cumprindo pena em regime semiaberto antes de ser agraciado com o livramento condicional, sendo que, após a suspensão cautelar do benefício pela suposta prática de novo crime, o paciente foi regredido ao regime fechado sem fundamentação adequada.
+Alega que, "passados 259 dias em que o Paciente cumpria a sua regressão cautelar em REGIME FECHADO, o Magistrado atual, observando incompatibilidade de regime, progrediu o corrigiu o feito e transferiu o Paciente ao REGIME SEMIABERTO".
+Aduz que o paciente vinha cumprindo a pena no "CPP Bauru 2 desde 17/10/2024, inclusive, realizando trabalhos externos c/ tornozeleira eletrônica desde sua chegada ao CPP Bauru 2, também, agraciado com a saída temporária de dezembro de 2024 a janeiro de 2025" (fl. 4).
+Sustenta que, "tardiamente, em 02/02/2025, foi aposto nos autos pelo cartório, certidão de objeto e Pé (fls.522/523) do trânsito em julgado do Paciente, cujo o crime mencionado acima na PEC 0002568- 26.2024.8.26.0041 que já estava a muito tempo unificada e sustada cautelarmente o LC aos presentes autos principais executórios" (fl. 4).
+Argumenta que "o Paciente cumpria REGIME SEMIABERTO antes de ser agraciado pelo Livramento Condicional, inclusive, faltavam meros 16 (dezesseis) dias p/ o alcance do REGIME ABERTO" (fl. 4).
+Assinala que o Juiz das Execuções Penais regrediu "o sentenciado ao regime fechado - desprovido de qualquer fundamentação e ainda c/ Cálculo de Pena Desatualizado -, descumprindo lei federal n.º 7.210/1984, art. 41, XVI, sendo que, o então ora Paciente, vem já cumprindo a pena da PEC nº 0002568-26.2024.8.26.0041 desde o seu início em 06/11/2023, ou seja, até hoje são 590 dias" (fl. 5).
+Requer, em liminar e no mérito, seja mantido o paciente em regime semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra possível no presente caso.
+É cediço que a amplitude cognitiva do habeas corpus confere maior discricionariedade ao julgador para apreciar eventual ilegalidade manifesta da decisão impugnada, ainda que de ofício. Essa característica, todavia, não ilide o ônus do impetrante de demonstrar, satisfatoriamente, o equívoco do comando judicial, sob pena de ofensa ao princípio da dialeticidade.
+Referido axioma é corolário das categorias lógicas e abstratas do processo, incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus. Dessa forma, a insurgência apresentada deve deduzir os motivos pelos quais entende-se equivocada a ratio decidendi por meio de cotejo entre os fundamentos da decisão combatida e as razões que justifiquem sua reforma.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. APLICABILIDADE A HABEAS CORPUS. FUNDAMENTOS DA DECISÃO ATACADA. REMISSÃO OBRIGATÓRIA. REQUISITO NÃO ATENDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus.
+2. Se a parte se insurge contra decisão judicial, deve referir-se aos seus fundamentos antes de deduzir as teses defensivas.
+3. Ao não se remeterem ao que foi concretamente decidido na instância antecedente, as razões da impetração configuram alegações abstratas que, à guisa de se aplicarem a diversos processos, não se referem a nenhum especificamente, o que impede o seu conhecimento.
+4. Agravo regimental não provido.
+(AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Na hipótese em análise, o Tribunal estadual denegou a ordem do writ originário nos seguintes termos:
+"O presente inconformismo defensivo não comporta agasalho, estando sua análise, inclusive, passível de ser julgada prejudicada.
+O agravante estava sendo processado por crime doloso, praticado em 06/11/2023 e por este motivo teve o benefício do livramento condicional suspenso, com fundamento nos artigos 145 da Lei de Execução Penal e 89 do Código Penal.
+Após, com o trânsito em julgado da sentença, que confirmou a condenação pelo crime doloso, a revogação é obrigatória, nos termos do artigo 86, inciso I do Código Penal, com a fixação do regime fechado para cumprimento das penas.
+E, como é sabido, havendo mais de uma execução a cumprir, deve-se proceder, deveras, à unificação das penas a fim de se estabelecer o regime prisional adequado, sendo certo que, no presente caso, diante da condenação superveniente a impingir ao sentenciado, à época, o regime fechado para o cumprimento de suas penas, não havia lugar para outro regime senão este regime prisional mais gravoso para o desconto da totalidade das penas a ele impostas.
+Confira-se o disposto nos artigos 111 e 118, inciso II, ambos da L. E. P.:
+ ..
+Vale observar, ademais, que, em consulta aos autos da execução, os cálculos atualizados ainda não foram juntados diante da prática de nova falta grave em fevereiro, tendo sido determinada a vinda da sindicância para posterior atualização (fls. 567 dos autos da execução)." (fls. 10/11).
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem consignou que, "havendo mais de uma execução a cumprir, deve-se proceder, deveras, à unificação das penas a fim de se estabelecer o regime prisional adequado, sendo certo que, no presente caso, diante da condenação superveniente a impingir ao sentenciado, à época, o regime fechado para o cumprimento de suas penas, não havia lugar para outro regime senão este regime prisional mais gravoso para o desconto da totalidade das penas a ele impostas" (fl. 10).
+Entretanto, no presente writ, não houve argumento específico apresentado pela defesa capaz de ilidir os fundamentos do acórdão impugnado para manter o paciente em regime fechado.
+Percebe-se, ainda, que o Tribunal de origem não abordou a matéria sob o viés apresentado pela defesa no presente habeas corpus , de modo que esta Corte Superior se mostra impossibilitada de apreciar a questão, sob pena de indevida supressão de instância.
+A propósito: "Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg no HC n. 967.923/GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/3/2025, DJEN de 12/3/2025).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
