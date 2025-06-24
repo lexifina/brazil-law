@@ -1,0 +1,26 @@
+DECISÃO
+Em petição  de  habeas  corpus,  com  pedido  liminar para concessão da liberdade provisória com dispensa da fiança e imposição de medidas alternativas,  impetrado em favor de  RAMON DOS SANTOS MULINARI, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça  do  Estado  do Paraná.
+Consta dos autos a prisão em flagrante do paciente, decorrente de suposta prática do delito de receptação.
+Impetrado  writ  perante  o  Tribunal  de  origem,  que, por decisão monocrática,  não concedeu  a  ordem  pleiteada  no  Habeas  Corpus  n.  0065530-56.2025.8.16.0000.
+A petição expõe a existência de constrangimento ilegal, tendo em vista que " ..  o paciente já teve a liberdade provisória concedida, porém está exclusivamente preso, por não dispor da quantia de R$1.518,00 (reais), para pagamento de fiança." (e-STJ, fl. 3).
+O impetrante alega que: "Em contato com os familiares do indiciado, foi informado que não possuem condições de arcar com o valor da fiança, bem como o próprio paciente, que não dispõe desse valor." (e-STJ, fl. 5).
+No ponto, alega-se também que " ..  é forçoso conceber que o paciente está sendo preso durante um processo no qual poderá ser absolvido, ou na pior das hipóteses receberá uma pena num regime menos gravoso do que está atualmente, sendo irrelevante a nomenclatura de prisão (preventiva), ou seja, ao final para quem está preso prisão é prisão, independentemente se é prisão cautelar ou prisão pena." (e-STJ, fl. 10).
+Assim, o pedido especifica-se na concessão da liberdade provisória, com ou sem aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal - CPP, dispensando a fiança.
+É, no essencial, o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+No presente caso, verifica-se que, por decisão monocrática, a Desembargadora do respeitável Tribunal de origem não concedeu a ordem do habeas corpus impetrado, ao fundamento de que " ..  a magistrada a quo apenas determinou a intimação do paciente para juntar provas de sua hipossuficiência econômica, sob pena de indeferimento, ou seja, o pedido de dispensa da fiança sequer foi apreciado, aguardando o cumprimento da intimação pelo patrono do paciente." (e-STJ, fls. 87/88).
+Ocorre que: "A decisão combatida foi proferida monocraticamente pelo desembargador relator na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior ante o não exaurimento da instância originária. Nesse aspecto, a jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, inciso I, alínea "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado." (AgRg no HC n. 963.536/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/2/2025, DJEN de 26/2/2025).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU O PROCESSAMENTO DE REVISÃO CRIMINAL. NÃO CABIMENTO. NECESSIDADE DE ESGOTAMENTO DAS VIAS ORDINÁRIAS DE IMPUGNAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. ANÁLISE DE CARACTERIZAÇÃO DA LITISPENDÊNCIA. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Nos termos do entendimento desta Corte, " n ão se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de desembargador" (AgRg no HC 746.912/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2022, DJe 08/08/2022; sem grifos no original).
+ ..
+(AgRg no HC n. 783.925/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023.)
+Assim, o não exaurimento da instância de origem impõe o não conhecimento da impetração, impossibilitando a análise do pedido pelo Tribunal Superior de Justiça.
+Ante o exposto, indefiro liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
