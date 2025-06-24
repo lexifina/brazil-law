@@ -1,0 +1,51 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/05/2025.
+Concluso ao gabinete em: 05/06/2025.
+Ação: revisional de contrato proposta por IVO JOSE CARDOSO, em face da agravante, em razão de excesso na cobrança de juros remuneratórios, decorrente de contrato de empréstimo.
+Sentença: julgou procedentes os pedidos para o fim de limitar os juros remuneratórios do contrato à taxa média de mercado à época da contratação, afastando os efeitos da mora e condenando a agravante à restituição simples dos valores eventualmente cobrados e pagos a maior.
+Acórdão: deu parcial provimento aos recursos interpostos pela agravante e agravado, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO REVISIONAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO CÍVEL DA INSTITUIÇÃO FINANCEIRA RÉ E RECURSO ADESIVO DA PARTE AUTORA.
+PRELIMINAR. DEFENDIDA A NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INSUBSISTÊNCIA. DECISÃO QUE INDICA A LEGISLAÇÃO APLICÁVEL E EXTERNA AS RAZÕES DO LIVRE CONVENCIMENTO. INEXISTÊNCIA DE VIOLAÇÃO AO ARTIGO 93, INCISO IX, DA CARTA MAGNA. PREFACIAL REJEITADA.
+PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. ALEGAÇÃO FUNDADA EM RELAÇÃO AO PEDIDO DE REVISÃO DAS CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE PLEITO REFERENTE AO VÍCIO DO PRODUTO OU SERVIÇO. AÇÃO DE CUNHO PESSOAL. INCIDÊNCIA DO PRAZO DECENÁRIO. ART. 205 DO CÓDIGO CIVIL DE 2002. PRESTAÇÕES CONTINUADAS. TERMO INICIAL COM O VENCIMENTO DA ÚLTIMA PARCELA. PREJUDICIAL AFASTADA.
+MÉRITO.
+CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA DA SÚMULA 297 DO STJ. ADESIVIDADE DO CONTRATO EVIDENCIADA. POSSIBILIDADE DE REVISAR AS CLÁUSULAS DO CONTRATO. FLEXIBILIZAÇÃO DO PACTA SUNT SERVANDA.
+JUROS REMUNERATÓRIOS. LIMITAÇÃO AO ÍNDICE DIVULGADO PELA TAXA MÉDIA DE MERCADO ANUNCIADA PELO BANCO CENTRAL DO BRASIL. INOCORRÊNCIA. TAXA MÉDIA COMO REFERENCIAL ÚTIL E NÃO UM LIMITADOR TAXATIVO. IMPOSSIBILIDADE DE ESTABELECER UM TETO PARA TAXA DE JUROS. AVALIAÇÃO SINGULAR AO CASO CONCRETO, OBSERVADO TODOS OS REQUISITOS DO RESP N. 2.009.614/SC. INSTITUIÇÃO FINANCEIRA QUE NÃO SE DESINCUMBIU DO ÔNUS DA PROVA CAPAZ DE JUSTIFICAR A RAZOABILIDADE DAS TAXAS DE JUROS REMUNERATÓRIOS INSTITUÍDA. AUSÊNCIA DE LASTRO PROBATÓRIO MÍNIMO ACERCA DAS CIRCUNSTÂNCIAS RELACIONADAS ÀS OPERAÇÕES BANCÁRIAS EFETUADAS, DO PERFIL DO CONSUMIDOR, DE INFORMAÇÕES SOBRE O CUSTO DAS OPERAÇÕES, FONTES DE RENDA DO CONTRATANTE, RESULTADO DA ANÁLISE DE RISCO. ABUSIVIDADE LATENTE, POIS DESTOAM SUBSTANCIALMENTE DA MÉDIA DE MERCADO PARA A MESMA MODALIDADE CONTRATUAL. NECESSIDADE DE AJUSTE PARA APLICAÇÃO DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN. SÉRIE TEMPORAL. COMPOSIÇÃO DE DÍVIDAS QUE DEMANDA A EXISTÊNCIA DE CONTRATOS DE MODALIDADES DISTINTAS. NÃO OCORRÊNCIA. RECURSO DA RÉ PARCIALMENTE PROVIDO NO PONTO.
+JUROS REMUNERATÓRIOS. AUSÊNCIA DO CONTRATO. SANÇÃO DO ART. 400, INC. I, CPC. MATÉRIA ABORDADA PELO VERBETE SUMULAR 530 DO STJ E RECURSO REPRESENTATIVO DE CONTROVÉRSIA N. 1.112.879/PR. LIMITAÇÃO A TAXA MÉDIA DE MERCADO. RECURSO ADESIVO DA PARTE AUTORA PARCIALMENTE PROVIDO NO PONTO.
+"NOS CONTRATOS BANCÁRIOS, NA IMPOSSIBILIDADE DE COMPROVAR A TAXA DE JUROS EFETIVAMENTE CONTRATADA - POR AUSÊNCIA DE PACTUAÇÃO OU PELA FALTA DE JUNTADA DO INSTRUMENTO AOS AUTOS -, APLICA-SE A TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN, PRATICADA NAS OPERAÇÕES DA MESMA ESPÉCIE, SALVO SE A TAXA COBRADA FOR MAIS VANTAJOSA PARA O DEVEDOR." (SÚMULA 530, STJ).
+REPETIÇÃO DE INDÉBITO. CABIMENTO. EXISTÊNCIA DE ENCARGOS ABUSIVOS. DEVER DE PROMOVER A DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE, NA FORMA SIMPLES, DIANTE DE ENGANO JUSTIFICÁVEL DA INSTITUIÇÃO FINANCEIRA. VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA.
+SUCUMBÊNCIA REDISTRIBUÍDA.
+HONORÁRIOS RECURSAIS (ART. 85, § 11, CPC). CRITÉRIOS CUMULATIVOS NÃO ATENDIDOS. RECURSO PROVIDO EM PARTE. TEMA 1059. MAJORAÇÃO INVIÁVEL.
+RECURSO DA PARTE RÉ CONHECIDO E PROVIDO EM PARTE.
+RECURSO ADESIVO DA PARTE AUTORA CONHECIDO E PROVIDO EM PARTE.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 421 do Código Civil, bem como divergência jurisprudencial. Insurge-se, em síntese, contra a limitação dos juros remuneratórios, sustentando ausência de abusividade da taxa pactuada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Conquanto se saiba que a jurisprudência do STJ entende que, o simples fato de os juros remuneratórios contratados serem superiores à taxa média de mercado, por si só, não configura abusividade, no caso dos autos, observa-se que o TJ/SC, após analisar o acervo probatório reunido nos autos, concluiu que:
+Nesse sentido, a partir dos requisitos estabelecidos no R Esp n. 2.009.614/SC, constata-se do caso em comento que:
+a) a relação contratual entre as partes é de consumo (Súmula 297 STJ);
+b) os juros remuneratórios contratados estão demasiadamente acima da taxa média de mercado, o que coloca o consumidor em desvantagem absurdamente exagerada;
+c) não há garantia contratual, bem como não há informações sobre a situação da economia na época da pactuação, do custo da captação dos recursos, do risco envolvido na operação em comento e do relacionamento do consumidor com a instituição financeira.
+Logo, a instituição financeira não instruiu os autos com as circunstâncias do caso em comento que foram submetidas a apreciação quando da assinatura do contrato, socorrendo-se única e exclusivamente das decisões do Superior Tribunal de Justiça, ao afirmar que a taxa média de mercado não é parâmetro único e exclusivo.
+Portanto, em que pese a forma de pagamento do contrato seja em débito em conta e não consignado, bem como, não fora ofertada garantia, porém, repisa-se não há qualquer informação que a parte autora possuía protestos ou restrição de seu nome em órgão de proteção ao crédito quando da contratação ou até mesmo sobre a sua inadimplência. Ou seja, não há nos autos qualquer prova que demonstre os indicativos sobre o resultado da análise do perfil de risco de crédito a ser concedido à parte autora.
+(..) Desse modo, a instituição financeira ao ceder o crédito deve/pode avaliar o risco do negócio e, não simplesmente, pela modalidade de contrato, submeter o consumidor a uma taxa de juros que destoa de forma excessiva em relação a taxa média de mercado, sem que haja quaisquer informações sobre as circunstâncias do caso concreto no momento da assinatura do contrato.
+No entanto, a instituição financeira ré não se desincumbiu do seu ônus de demonstrar que a parte autora possuía perfil de alto risco de inadimplência capaz de ensejar na aplicação da taxa de juros em percentual tão elevado em comparação com a taxa média de mercado, a qual serve apenas como referencial e não como um limitador.
+(..) Com isso, ao analisar os juros de acordo com a orientação do Superior Tribunal de Justiça conclui-se que são abusivos os juros remuneratórios contratados. Dessa forma, os juros remuneratórios devem ser limitados ao percentual da taxa média de mercado para os respectivos períodos de pactuação, observando-se a série temporal n. 20742, aplicável às operações de crédito com recursos livres - pessoas físicas - crédito pessoal não consignado. (e-STJ, fls. 757-759)
+Portanto, alterar o decidido no acórdão impugnado no tocante à abusividade das taxas de juros remuneratórios, exige o reexame do contexto fático e probatório valorado pelas instâncias ordinárias, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 para R$ 2.500,00.
+Nos termos do art. 85, § 11, do CPC/15, majoro em R$ 1.000,00 os honorários fixados em desfavor da parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMON STRADA. DISSÍDIO PREJUDICADO.
+1. Ação revisional de contrato.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
