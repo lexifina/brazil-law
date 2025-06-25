@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO CÍVEL - Mandado de segurança - Instauração de procedimento administrativo para aplicação de penalidade de suspensão da CNH pelo Diretor do Departamento Estadual de Trânsito de São Paulo DETRAN/SP - Alegação de prescrição da pretensão punitiva em razão do decurso de mais de 4 anos desde a data da infração - Inocorrência - Procedimento para aplicação da penalidade de suspensão da CNH regido pela Resolução CONTRAN 723/2018 - Prazo prescricional de 5 anos que se inicia após a finalização do processo administrativo para imposição da penalidade de multa - Inteligência do art. 24, I e § 1º, III daquela Resolução - Inaplicabilidade dos prazos previstos no § 6º do art. 282 do CTB, porque relativos à notificação de penalidade já imposta. Sentença mantida. Recurso improvido.
+Aduz a parte impetrante, em suma, que:
+Contra paciente foi instaurado o processo de suspensão do seu direito de dirigir nº 917/2024, cuja a notificação foi postada em 22/08/2024.
+(..)
+Salienta-se que referido processo do direito de dirigir foi instaurado com base no auto da infração C357414981, lavrado em 15/11/2020, pelo próprio DETRAN.
+(..)
+Nota-se que o DETRAN levou quase 04 anos para instaurar o processo de punição de suspensão do direito de dirigir contra o impetrante, baseado no auto de infração C357414981, lavrado em 15/11/2020.
+(..)
+Não foi reconhecida a preclusão de instauração do processo de suspensão, com o fundamento de que apenas ocorre a prescrição de 05 (cinco) anos, deixando, portanto, de aplicar no caso os artigos 256, 261, § 10 e 282, §6º, inciso II, do CTB.
+Nem mesmo deixou de aplicar a suspensão do direito de dirigir em 01 mês já que o apelante trabalha de forma autônoma e necessita de sua CNH.
+Sendo assim, alternativa não restou ao paciente a impetrar o presente writ, com vistas a ser reformada a r. sentença
+(..)
+No caso em análise, há relevância, uma vez que se trata de interpretação divergente entre inúmeras turmas recursais e tribunais, causando uma insegurança jurídica enorme
+(..)
+A proteção da confiança, um subprincípio da segurança jurídica, considera a boa-fé do cidadão que espera que os atos do poder público sejam lícitos e respeitados. Este princípio influenciou o CPC, especialmente nos arts. 927, §§ 3º e 4º, que tratam da modulação dos efeitos de alterações jurisprudenciais e da necessidade de fundamentação adequada ao modificar enunciados de súmulas ou jurisprudências pacificadas, sempre considerando os princípios da segurança jurídica, proteção da confiança e isonomia.
+(..)
+No presente caso, o DETRAN tem a incumbência de notificar o condutor acerca da imposição da penalidade de suspensão ou cassação de seu direito de dirigir, devendo observar o prazo de 180 (cento e oitenta) ou 360 (trezentos e sessenta) dias, dependendo da apresentação de defesa prévia. O referido prazo deve ser computado a partir da conclusão do processo administrativo prévio que deu ensejo à deflagração daqueles que acarretam a imposição da sanção de suspensão do direito de dirigir, conforme determina o art. 282, §6º, I e II.
+(..)
+FICA EVIDENCIADO que houve a PRECLUSÃO do presente processo, isso porque o prazo para ocorrer a aplicação da penalidade seria de 180 dias para infrações com revelia de defesa e 360 para casos em que existam defesas administrativas apresentadas.
+(..)
+Desta forma, a fim de viabilizar a uniformização da interpretação do art. 282, §6º, I e II do CTB no âmbito das Turmas e Colégios Recursais do Estado de São Paulo, acerca da declaração da decadência do direito de instaurar o processo de suspensão/cassação, faz-se necessária a admissibilidade do presente writ.
+No caso, verifica-se que a 1ª Turma Recursal de São Paulo/SP analisou no processo nº 1030770-91.2023.8.26.0053 a mesma matéria proposta pela autora perante a 8ª Turma da Fazenda Pública do Colégio Recursal Central. Contudo, verifica-se que naquele caso o entendimento foi diverso, uma vez que restou por manter a reverter a sentença de procedência do pedido. Veja o confronto de ementas:
+(..)
+Como se observa, há grande insegurança jurídica no âmbito das Turmas e Colégios Recursais do Estado de São Paulo e de outros estados, uma vez que é nítida a divergência de entendimentos sobre a interpretação do art. 282, §6º, I e II do CTB, quanto a consideração dos prazos de 180/360 dias
+(..)
+Assim, temos que, qualquer outro motorista que cometa a mesma infração que gerou a suspensão da CNH do impetrante, temos que esta não exacerba a culpa daquele. Todavia, a aplicação da pena possui reflexo muito mais gravoso para o motorista profissional.
+Desata feita, a pena de cassação do direito de dirigir veículos, aplicada ao motorista profissional, viola o direito ao trabalho, assegurado constitucionalmente no art. 5º, XVII, de vendo, em tais casos, ser declarada inconstitucional e decotada da condenação.
+(..)
+Dessa forma considerando que o paciente é responsável financeiro requer que seja então o seu direito suspenso por apenas 30 dias.
+É necessário a concessão da liminar uma vez que o paciente esta prestes a ter seu direito de dirigir cassado e consequentemente comprometer o sustento de toda sua família. (fls. 2-19).
+Por fim, requer:
+Ante o exposto, postula o paciente pela a reforma da r. sentença para que seja r reconhecida a preclusão de instauração do processo de suspensão nº 917/2024 e seu registro julgado insubsistente, pois somente quase quatro anos depois veio exercer suas atribuições, infringindo, assim, os artigos 256, 261, § 10 e 282, §§ 6º e 7º, do CTB. Não seja este o Vosso Entendimento requer que a suspensão do direito de dirigir seja aplicada em 01 mês, uma vez que o apelante é vendedor autônomo necessitando de sua CNH para trazer sustento a sua família, assim o apelante está sendo punido, porem sem comprometer a sua subsistência e de seus familiares. (fl. 20)
+É o relatório. Decido.
+O habeas corpus é ação constitucional (artigo 5, LXVIII, da Constituição Federal) que visa proteger a liberdade de locomoção quando ameaçada ou violada por ilegalidade ou abuso de poder.
+Como cediço, no que concerne ao conhecimento da impetração, o Supremo Tribunal Federal, diante da utilização crescente e sucessiva do habeas corpus passou a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. A citar, dentre inúmeros: HC 226.440 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, DJe de 24/01/2024.
+Outra não é a compreensão da jurisprudência do Superior Tribunal de Justiça, uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por estar ainda escoando o prazo para a interposição de recurso previsto em regramentos legal e regimental, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+Nesse mesmo sentido, o seguinte julgado deste Superior Tribunal: HC 1.003.839/RS, Rel. Ministro ANTÔNIO SALDANHA PALHEIRO, DJEN 19/05/2025; AH 1.003.803/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJEN 19/05/2025; E AgRg no HC n. 988.974/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/4/2025.
+De acordo com os autos, foi prolatada sentença denegando a segurança, nos seguintes termos:
+Não há falar em preclusão, prescrição ou decadência. A prescrição da pretensão punitiva se dá em 5 anos, com início da data da infração que originou o processo administrativo, e no caso dos autos, a infração ocorreu em 15/11/2020 e o processo administrativo se iniciou em 22/8/2024. A prescrição da ação executória também se dá em 5 anos a contar da definitividade da decisão, e o processo administrativo PA 917/2024 segue em andamento. Por fim, a prescrição intercorrente tem por prazo 3 anos para que não haja inércia no processo administrativo, que se iniciou, conforme supramencionado, em 22/8/2024, e sequer terminou.
+Ademais, a infração gravíssima tem por penalidade a suspensão do direito de dirigir pelo prazo de 12 meses, e não 1 mês, nos termos do art. 261 do Código de Trânsito Brasileiro.
+Assim, não há falar em qualquer ilegalidade cometida pelas autoridades impetradas, pois o processo administrativo em curso não padece de prescrição. De rigor a denegação da ordem.
+Interposta apelação, restou julgada improcedente, firme na seguinte convicção:
+Promove o apelante ação mandamental contra ato do Diretor do Departamento Estadual de Trânsito de São Paulo DETRAN/SP, alegando que ocorreu preclusão punitiva no processo nº 917/2024, instaurado contra si, procedimento instaurado para suspensão do direito de dirigir.
+Alega, em síntese, que o processo de suspensão do direito de dirigir foi instaurado depois de quase 04 anos do auto de infração, devendo ser reconhecida a preclusão/decadência, nos termos dos arts. 282, §6º, incisos II; 256, II e 261, §10, todos do Código de Trânsito Brasileiro.
+(..)
+A respeitável sentença recorrida afastou as alegações de prescrição da pretensão punitiva, da ação executória e da prescrição intercorrente, denegando a segurança (fls. 70):
+(..)
+Analisando os autos, consta que em 15/11/2020 o apelante foi autuado por dirigir sob a influência de álcool, infringindo assim o artigo 165 do CTB (fls.43/44):
+(..)
+Lavrado o auto de infração e após notificação do infrator, inicia- se o prazo para apresentação de Defesa Prévia:
+(..)
+No entanto, no que concerne à penalidade de suspensão do direito de dirigir, há de ser observada a Resolução CONTRAN nº 723/2018, que dispõe sobre a uniformização do procedimento administrativo para imposição das penalidades previstas nos artigos 261 e 263, incisos I e II do Código de Trânsito Brasileiro, que disciplina:
+(..)
+Assim, no caso do procedimento administrativo objeto dos autos, somente após finalizada a instância administrativa relativa a aplicação da penalidade de multa é que se procedeu à instauração do processo de aplicação da penalidade de suspensão do direito de dirigir.
+Instaurado, pois, o procedimento para suspensão do direito de dirigir (fls. 43), foi efetuada a regular notificação do apelante (fls. 44/45), abrindo-se prazo para apresentação de defesa prévia, direito que foi exercido tempestivamente pelo autor conforme fls. 47/49, apresentando recurso, que culminou da decisão final em 11/12/2024 (fls.53), da qual foi o impetrante notificado, com a postagem da notificação em 13/12/2024 (fls.54/55).
+Nesta notificação, ainda foi informado que poderia apresentar recurso à Junta Administrativa de Recursos de Infrações JARI, e tendo o interposto (fls.62), ainda não houve notícias de seu julgamento final.
+Anota-se que tampouco se observa das peças disponíveis qualquer irregularidade naquele procedimento.
+Nos termos do artigo 24 da Resolução CONTRAN nº 723/2018, são aplicáveis os prazos prescricionais previstos na Lei nº 9.873/1999:
+(..)
+Destarte, a contagem do prazo prescricional não se inicia na data em que cometida a infração, conforme sustenta o apelante, mas se inicia somente quando finalizado o procedimento relativo à penalidade de multa (inciso III supra citado).
+Não há nos autos, no entanto, comprovação de que o encerramento daquele procedimento tenha se dado há mais de cinco anos da data da instauração do procedimento relativo à suspensão do direito de dirigir (art. 24, I, supra). Ao contrário, o procedimento aqui em análise foi instaurado em 22/08/2024 (fls. 43), pouco mais de três anos após a data da infração (15/11/2020), do que se conclui que certamente instaurado antes do decurso do prazo prescricional da ação punitiva. de suspensão.
+Também não se observa, conforme ressaltado pelo juízo de primeiro grau que decorridos três anos de paralisação do processo de suspensão, à incidir a prescrição intercorrente alegada. Tampouco o decurso de cinco anos para caracterização da prescrição da ação executório, já que sequer imposta a penalidade, posto que ainda pendente de apreciação a Defesa Prévia apresentada pela parte.
+(..)
+Inaplicável, ademais, os prazos previstos no § 6º do artigo 282 do CTB ("§ 6º O prazo para expedição das notificações das penalidades previstas no art. 256 deste Código é de 180 (cento e oitenta) dias ou, se houver interposição de defesa prévia, de 360 (trezentos e sessenta) dias, contado: I - no caso das penalidades previstas nos incisos I e II do caput do art. 256 deste Código, da data do cometimento da infração;II - no caso das demais penalidades previstas no art. 256 deste Código, da conclusão do processo administrativo da penalidade que lhe der causa.") que dizem respeito à expedição de notificação das penalidades, ou seja, da comunicação ao infrator da penalidade que lhe foi imposta, após a apreciação de eventuais recursos.
+(..)
+Assim, não merece reparos a respeitável sentença recorrida, devendo ser mantida por seus próprios fundamentos. (fls. 21-29).
+Desta feita, não há como afastar a conclusão pelo não cabimento de habeas corpus, nos termos do enunciado da Súmula 691/STF.
+Com efeito, tanto a orientação jurisprudencial do Supremo Tribunal Federal (STF, HC 109.956, Rel. Min. Marco Aurélio, DJe-178 de 10/09/2012; STF, HC 114.579/SP, Rel. Min. Rosa Weber, DJe-089 de 13-05-2013) quanto do Superior Tribunal de Justiça é no sentido do não cabimento do habeas corpus como sucedâneo recursal, ressalvada a hipótese excepcional de concessão ex officio da ordem quando constatada flagrante ilegalidade ou decisão teratológica, o que não ocorre na espécie, reitere-se.
+Ainda, nesse pensar:
+PENAL. HABEAS CORPUS. ART. 213 C.C. ART. 14, II, DO CÓDIGO PENAL. CONDENAÇÃO. APELAÇÃO JULGADA. (1) WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INVIABILIDADE. VIA INADEQUADA. (2) AGRAVANTE. REINCIDÊNCIA. ESPECÍFICA. QUANTUM DE AUMENTO. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO SUFICIENTE. WRIT NÃO CONHECIDO.
+1. É imperiosa a necessidade de racionalização do habeas corpus, a bem de se prestigiar a lógica do sistema recursal. As hipóteses de cabimento do writ são restritas, não se admitindo que o remédio constitucional seja utilizado em substituição a recursos ordinários (apelação, agravo em execução, recurso especial), tampouco como sucedâneo de revisão criminal. Não é possível a impetração de habeas corpus substitutivo de recurso especial. Para o enfrentamento de teses jurídicas na via restrita, imprescindível que haja ilegalidade manifesta, relativa a matéria de direito, cuja constatação seja evidente e independa de qualquer análise probatória.
+ ..
+3. Habeas corpus não conhecido.
+(HC 161.022/SP, Rel. Min. Maria Thereza de Assis Moura, 6ª Turma, DJe 14/05/2013)
+HABEAS CORPUS. WRIT UTILIZADO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. EXAME DA POSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. NÃO OCORRÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA NA DECISÃO IMPUGNADA. MEDIDAS COERCITIVAS ATÍPICAS. SUSPENSÃO DE PASSAPORTE E CNH. INDÍCIOS DE BLINDAGEM PATRIMONIAL COM REGISTRO DE EMPRESA NO EXTERIOR. PACIENTE SERVIDOR TRIBUNAL CONTAS ESTADUAL. ATIVIDADE COMERCIAL PRIVADA CITADA COMO JUSTFICATIVA PARA NÃO APREENSÃO DOS DOCUMENTOS.
+1. O propósito recursal consiste em averiguar o cabimento de habeas corpus como substitutivo de recurso ordinário contra decisão de prosseguimento de execução na qual foram ordenadas medidas atípicas de apreensão de passaporte e CNH.
+2. É incabível habeas corpus como sucedâneo recursal. Precedentes.
+3. Ausentes manifesta ilegalidade, teratologia na decisão impugnada, ou excepcionalidade apta a autorizar a concessão da ordem de ofício, tendo a Corte de Origem simplesmente determinado prosseguimento da execução com a revogação do efeito suspensivo, concedido sem garantia de juízo quando da oposição de embargos à execução pelos pacientes/devedores.
+4. Se no curso da execução há indícios de tentativa de blindagem patrimonial pelos pacientes/devedores por ato de registro de empresa no exterior em data muito próxima da concessão da medida atípica executória, além de se ter notícia de que um dos pacientes exerce função pública em aparente incompatibilidade com a atividade privada ligada à empresa estrangeira da qual se alega obtenção de sustento familiar, considera-se justificada a ordem de suspensão de CNHs e apreensão de passaportes. Precedentes.
+5. Habeas corpus não conhecido. Expedição de ofício ao órgão público estadual (TCE/MT) para averiguar compatibilidade da atividade privada com a função desempenhada por paciente servidor do quadro.
+(HC n. 913.713/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/10/2024, DJe de 17/10/2024.)
+Assim, tendo em vista que não há nos autos elementos que evidenciem a interposição de recurso em face do referido acórdão, aplicável ao caso, a jurisprudência do Superior Tribunal de Justiça, no sentido do não cabimento de habeas corpus como sucedâneo recursal.
+Em verdade, no presente habeas corpus a parte impetrante apenas renova argumentação já apresentada em juízo, sem, todavia, demonstrar de forma indene de dúvidas qualquer espécie de flagrante ilegalidade ou teratologia nas decisões apontadas como coatoras. Demais disso, somente mediante cotejo das provas seria possível prosperar a impetração, razão pela qual a presente pretensão não logra êxito, porquanto inadmissível o amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c os arts. 34, XX, e art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus. Prejudicado pedido de concessão de liminar.
+Publique-se. Intimem-se.
+EMENTA
