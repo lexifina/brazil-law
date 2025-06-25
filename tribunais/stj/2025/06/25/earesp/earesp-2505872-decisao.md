@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por USINA SANTA RITA S.A. AÇÚCAR E ÁLCOOL - EM RECUPERAÇÃO JUDICIAL contra acórdão assim ementado (fls. 1.739-1.740):
+PROCESSUAL CIVIL. NA ORIGEM. EMBARGOS À EXECUÇÃO. PRETENSÃO A QUE SEJA RECEBIDO NO EFEITO SUSPENSIVO. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS LEGAIS. INTELIGÊNCIA DO ART. 919, §§ 1º E 2º, DO CPC. RECURSO NÃO PROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO INTERNO IMPROVIDO.
+I - Trata-se de agravo de instrumento tirado contra a decisão de fls. 230 dos autos principais, que recebeu os embargos à execução opostos pela agravante contra a execução fiscal. No Tribunal a quo, o agravo foi improvido. Verifica-se que a decisão inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+II - Entretanto, a parte agravante deixou de impugnar especificamente a Súmula n. 7/STJ.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. São insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem. Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+IV - Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AREsp n. 888.241/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp n. 1.036.445/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp n. 1.006.712/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+V - Agravo interno improvido.
+No presente recurso, a parte embargante alega que há divergência com acórdão paradigma da Quarta Turma (AgInt no AREsp n. 2.262.542/PR) e da Terceira Turma (REsp n. 2.054.507/MG) relativamente à tese de que a fixação dos honorários advocatícios sucumbenciais deve observar os percentuais previstos no art. 85, § 2º, do CPC.
+Requer o provimento dos embargos de divergência.
+É o relatório. Decido.
+Os embargos não reúnem condições de processamento.
+Aduz a parte embargante que há divergência com acórdão paradigma da Quarta Turma (AgInt no AREsp n. 2.262.542/PR) e da Terceira Turma (REsp n. 2.054.507/MG) relativamente à tese de que a fixação dos honorários advocatícios sucumbenciais deve observar os percentuais previstos no art. 85, § 2º, do CPC .
+Ocorre que o acórdão embargado não conheceu da matéria controvertida, pois do agravo em recurso especial não se conheceu, devido à falta de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, conforme a Súmula n. 315 desta Corte: "Não cabem embargos de divergência no âm bito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido: AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
