@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE ARAGUAÍNA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS À EXECUÇÃO FISCAL. ISSQN. NÃO INCIDÊNCIA SOBRE BOLSAS DE ESTUDO CONCEDIDAS POR MEIO DO PROUNI. VALOR DAS BOLSAS NÃO INTEGRA A RECEITA BRUTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR. SERVIÇO GRATUITO. NATUREZA MERCANTIL DO ISSQN. SENTENÇA REFORMADA.
+1. Conforme Lei Federal 11.096/05, que instituiu o Programa Universidade para Todos - Prouni, as instituições de ensino que aderem ao Programa possuem isenção de impostos e contribuições federais. Tal isenção não alcança tributos de competência municipal, como é o caso do ISSQN, sob pena de afronta à Constituição Federal.
+2. Entretanto, por uma interpretação lógico-sistemática, é possível concluir que a incidência do ISSQN pressupõe um contrato celebrado entre o prestador do serviço e seu tomador mediante um preço. O campo abrangido pela imposição do referido tributo continua limitado aos serviços prestados mediante remuneração, afastando sua incidência na hipótese dos autos.
+3. O benefício concedido pelo PROUNI é um exemplo de desconto incondicionado, eis que conferido sem qualquer dependência de situação futura. Se, eventualmente, o aluno perde o benefício, não é cobrado do mesmo as mensalidades anteriores, apenas as futuras. 4. Recurso provido. Sentença reformada.
+Nas suas razões, a municipalidade recorrente aponta violação do art. 111, II, do CTN. Sustenta que: (i) o ISS não está contemplado na hipótese de isenção tributária prevista na lei instituidora do Programa Universidade para Todos - PROUNI (Lei n. 11.906/2005), sendo, portanto, exigível o imposto sobre as receitas advindas desse programa; (ii) "não há desconto ofertado pelo prestador de serviço apto a ensejar a dedução de base de cálculo do ISS, porquanto o valor concedido ao estudante pelo Prouni é repassado à consulente por meio de outra fonte pagadora (União) através de benefício tributário".
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de embargos à execução fiscal de ISS.
+O magistrado julgou o pedido improcedente.
+Na sequência, o TJTO deu provimento à apelação, vindo a reformar a sentença com a seguinte motivação:
+Pertinente relembrar que o PROUNI, programa social instituído pela Lei nº 11.096/2005, foi criado com a finalidade de viabilizar a concessão de bolsas de estudos integrais e parciais aos estudantes que demonstrarem sua hipossuficiência financeira e pretendam frequentar cursos de graduação em instituições de ensino superior privadas. Em contrapartida, estas são isentas de pagamento de determinados tributos, na proporcionalidade das bolsas concedidas.
+Para aderir ao programa, as instituições de ensino devem cumprir diversas exigências e se enquadrar nos parâmetros definidos pelo artigo 5º da aludida lei:
+ ..
+Estando regularmente habilitadas e tendo um número de alunos bolsistas proporcional ao número de alunos regularmente pagantes, às instituições de ensino participantes do PROUNI são garantidas a isenção, dos seguintes impostos e contribuições federais conforme o artigo 8º da Lei:
+ ..
+Trata-se de verdadeiro incentivo instituído para que as instituições de ensino privadas concedam bolsas de estudos, prestando seus serviços de forma gratuita aos alunos de baixa renda.
+Veja-se que a isenção abrange impostos e contribuições federais durante a vigência do termo de adesão, não podendo atingir tributos de competência municipal, como é o caso do ISSQN, sob pena de afronta à Constituição Federal. Contudo, por uma interpretação lógico-sistemática, é possível extrair da situação a não incidência de ISS sobre os serviços prestados de forma gratuita.
+Com efeito, o ISS incide sobre a prestação de determinados serviços, que devem estar necessariamente listados em Lei Complementar Federal (LC), no caso a LC nº 116/2003. A prestação de serviço educacional, em regra, é fato gerador de ISS. Entretanto, pesa o fato de que o ISS tem natureza mercantil, ou seja, sua prestação pressupõe um contrato celebrado entre o prestador do serviço e seu tomador mediante um preço. Daí concluir que serviços prestados gratuitamente não são tributáveis. O campo abrangido pela imposição do ISS continua limitado aos serviços prestados mediante remuneração, diferente da hipótese dos autos.
+Ademais, a Lei Federal nº 11.096/2005 (que institui o Programa Universidade para Todos - PROUNI) não prevê qualquer reembolso pela Administração às instituições que aderem ao PROUNI dos valores das bolsas de estudos concedidas, bem como que a bolsa de estudos não advém da mera liberalidade da instituição, mas, sim, de sua adesão ao Prouni, inexistindo, ainda, qualquer condição futura imposta ao aluno beneficiário do programa, tal benefício consiste em verdadeiro desconto incondicionado.
+Por serem consideradas descontos incondicionados, as bolsas de estudo do Prouni não integram a base de cálculo do ISSQN, devendo, portanto, a sentença ser reformada no ponto em que impôs a cobrança.
+ ..
+O PROUNI é um exemplo de desconto incondicionado, eis que conferido sem qualquer dependência de situação futura. Se, eventualmente, o aluno perde o benefício, não é cobrado do mesmo as mensalidades anteriores, apenas as futuras.
+Veja-se que se o preço do serviço é a base de cálculo do ISSQN e o aluno possui bolsa integral, o valor correspondente é zero. Ao passo que se o aluno detém bolsa parcial, efetuando pagamento de um valor residual, a incidência do ISSQN fica vinculada apenas ao que está sendo pago.
+Pois bem.
+O presente recurso não supera o juízo de admissibilidade.
+Isso porque o apontado art. 151, II, do CTN não possui comando normativo apto à modificação do acórdão recorrido, visto que o Colegiado local não afastou as bolsas do PROUNI da tributação do ISS com fundamento na isenção, mas sim por entender que: (i) não incide o imposto municipal sobre serviço prestado gratuitamente; (ii) a referida bolsa caracteriza desconto incondicionado.
+Essa deficiência da irresignação recursal enseja a aplicação do óbice de conhecimento estampado na Súmula 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
