@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por GUILHERME DOS SANTOS RAUPP contra decisão monocrática em que não conheci do agravo em recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+"REVISÃO CRIMINAL. REVISIONANDO CONDENADO POR ROUBO CIRCUNSTANCIADO (ART. 157, § 2º, INCISOS I, II E V, NA REDAÇÃO VIGENTE À ÉPOCA DOS FATOS). PRETENDIDO O RECONHECIMENTO DE NULIDADE DO RECONHECIMENTO FOTOGRÁFICO, PORQUE PRODUZIDO SEM OBSERVÂNCIA À FÓRMULA DO ARTIGO 226 DO CÓDIGO DE PROCESSO PENAL, E A CONSEQUENTE ABSOLVIÇÃO. MATÉRIA JÁ ANALISADA PELO JUÍZO A QUO E POR ESTE TRIBUNAL QUANDO DO JULGAMENTO DO RECURSO DE APELAÇÃO CRIMINAL. REVISÃO QUE NÃO PODE TER A NATUREZA DE UM SEGUNDO RECLAMO DE APELAÇÃO. NO MAIS, ALMEJADA A GRATUIDADE DA JUSTIÇA. DEMANDA SEM ÔNUS PROCESSUAL. BENEFÍCIO DISPENSÁVEL. NÃO CONHECIMENTO DAS TESES. PEDIDO REVISIONAL NÃO CONHECIDO. 1. " ..  É descabido o manejo da revisão criminal com o objetivo de novamente discutir o acerto do decisum, que já foi dirimido apropriadamente na instância recursal  .. ". (TJSC - Revisão Criminal n. 4000954-42.2017.8.24.0000, de Brusque, Seção Criminal, Rel. Des. Moacyr de Moraes Lima Filho, j. em 29/03/2017). 2. A revisão criminal se trata de demanda sem ônus processual, mostrando-se, assim, dispensável a concessão de gratuidade da justiça."
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 1322-1330).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Com efeito, "para impugnar a incidência da Súmula nº. 83, STJ, não basta a mera alegação. Incumbe ao agravante demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou, ainda, colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão recorrida para comprovar que outro é o entendimento jurisprudencial do Tribunal. Precedentes" (AgRg no AREsp n. 2.260.505/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/5/2023, DJe de 2/6/2023).
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
