@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ALEX RODRIGUES FERREIRA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Embargos Infringentes e de Nulidade n. 0723665-68.2019.8.07.0001).
+Consta que o paciente foi condenado, em primeiro grau, às penas de 8 (oito) anos, 6 (seis) meses e 2 (dois) dias de reclusão, em regime inicial fechado, e 851 (oitocentos e cinquenta e um) dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006.
+O Tribunal de origem conheceu em parte da apelação defensiva e, no mais, negou-lhe provimento. Em seguida, os embargos infringentes foram rejeitados.
+Neste writ, a parte impetrante sustenta, em síntese, que deve ser afastada a incidência da majorante do art. 40, inciso III, da Lei de Drogas, na dosimetria da pena do paciente, ao argumento de que (fl. 8)
+(n)ão há qualquer prova de que a atividade criminosa tinha como destinatários as pessoas que iriam àquele local, nexo que deveria ter sido estabelecido pela acusação. Aliás, a comprovação do referido nexo sequer seria possível, posto que o flagrante ocorreu em período de férias, ou seja, em que o estabelecimento de ensino estava fechado.
+Pleiteia, no mérito, a redução das penas nos termos delineados na impetração.
+As informações foram prestadas (fls. 510-525).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 528-534).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC n. 180.365, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, e AgRg no HC n. 147.210, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020).
+No caso, não constato flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício.
+O Tribunal de origem manteve a incidência da causa de aumento prevista no art. 40, inciso III, da Lei n. 11.343/2006, conforme a fundamentação a seguir (fls. 18-24):
+Pedindo as mais respeitosas vênias, tenho que o entendimento majoritário, conduzido pelo voto do em. Desembargador Roberval Casemiro Belinati, deve prevalecer.
+Por pertinente, trago a douta fundamentação do voto majoritário, verbis:
+"DO PEDIDO EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO ARTIGO 40, INCISO III, DA LEI N.º 11.343/2006
+A Defesa requer o afastamento da causa de aumento de pena prevista no artigo 40, inciso III, da Lei n. 11.343/2006, ao argumento de que os fatos teriam ocorrido no período de férias escolares, bem como que "não há provas de que a referida atividade criminosa tinha como alvo frequentadores da escola".
+Sem razão.
+O artigo 40, inciso III, da Lei n. 11.343/2006 dispõe que:
+"Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:  ..  III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;  .. "
+Conforme prova produzida nos autos, os fatos se deram nas proximidades do colégio CEMEIT, em Taguatinga/DF. Nesse sentido, foram as declarações dos policiais civis responsáveis pelas investigações e o relatório de ID 57851595 - Pág. 13.
+Conquanto a Defesa alegue que não há provas de que o apelante se aproveitou do fluxo de pessoas, vale registrar que para a aplicação da causa de aumento de pena em comento, de natureza objetiva, não é necessário comprovar que a droga era destinada aos estudantes, haja vista que "a justificativa para a existência desta majorante diz respeito à enorme facilidade de disseminação do consumo de drogas nesses locais em virtude da maior concentração de pessoas, o que acaba por representar maior risco à saúde pública" 3 .
+Por oportuno, vale a transcrição dos seguintes arestos do Superior Tribunal de Justiça em casos semelhantes:
+" ..  4. Não há divergência entre as turmas da Terceira Seção sobre a desnecessidade da comprovação da efetiva mercancia nos locais elencados na lei, tampouco de estar a substância entorpecente ao alcance, diretamente, dos trabalhadores, dos estudantes, das pessoas hospitalizadas etc., para o reconhecimento da majorante prevista no inciso III do art. 40 da Lei de Drogas, sendo suficiente que a prática ilícita ocorra nas dependências, em locais próximos ou nas imediações de tais localidades.  .. " (AgRg nos EREsp n. 2.039.430/MG, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 31/10/2023, DJe de 7/11/2023).
+" ..  3. Conforme a jurisprudência do Superior Tribunal de Justiça, para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais.  .. " (AgRg no HC n. 754.573/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+" ..  7. A majorante do art. 40, III, da Lei 11.343/2006 é de natureza objetiva, bastando que o delito tenha sido praticado nas dependências ou nas imediações dos estabelecimentos listados neste dispositivo. Não se exige, portanto, que o sujeito ativo do delito almeje, especificamente, vender a droga aos frequentadores da instituição.  .. " (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023).
+Esta Corte de Justiça tem reiteradamente decidido nesse mesmo sentido, in verbis:
+(..)
+Em consequência, colha-se ementa de revisão criminal julgada pela Câmara Criminal deste Tribunal de Justiça que não reconheceu violação legal no reconhecimento da majorante, mesmo durante o período de férias escolares:
+(..)
+Desse modo, verifica-se que a referida majorante foi corretamente aplicada na sentença, pois a infração comprovadamente ocorreu em local próximo a estabelecimento de ensino.
+Assim, mantém-se a causa especial de aumento de pena insculpida no artigo 40, inciso III, da Lei n.º 11.343/2006." (ID 60602075)
+A respeito do tema, esposando o entendimento majoritário, tenho me manifestado no sentido de que a causa de aumento constante do art. 40, III, da LAD possui natureza objetiva, bastando a comprovação de que o tráfico de drogas foi praticado nas imediações de estabelecimento de ensino.
+Nesse cenário, é indiferente que o tráfico de drogas não tenha por alvo os frequentadores da escola, ainda que esteja fechada.
+Nessa perspectiva, repriso, diante da natureza objetiva da referida causa de aumento, o cometimento da infração nas imediações do estabelecimento de ensino, por si só, possibilita a sua incidência.
+(..)
+Por conseguinte, o fato de o crime ter ocorrido durante a suspensão das aulas não afasta a causa de aumento, contida no art. 40, inciso III, da Lei de Drogas.
+Do excerto transcrito, concluo que o entendimento adotado pelo Tribunal estadual está em consonância com a jurisprudência desta Corte, fixada no sentido de que, para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. CAUSA DE AUMENTO DO ART. 40, INCISO III, DA LEI DE DROGAS. INCIDÊNCIA. CRIME REALIZADO NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO E UNIDADE DE SAÚDE. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, o entendimento adotado pelo Tribunal estadual está em consonância com a jurisprudência desta Corte Superior de Justiça, fixada no sentido de que, para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais 2. A inversão do julgado demandaria, necessariamente, nova incursão em provas e fatos que instruem o caderno processual, o que não é possível na via estreita do writ.
+3. Agravo regimental não provido.
+(AgRg no HC n. 914.589/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+De casos análogos, confiram-se as seguintes decisões monocráticas: STJ, HC n. 848.996/RS, relator Ministro Antonio Saldanha Palheiro, DJEN de 18/12/2024; e STJ, HC n. 812.216/SP, relator Ministro Sebastião Reis Júnior, DJEN de 13/12/2024.
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
+EMENTA
