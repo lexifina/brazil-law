@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ANA CAROLINA SILVA CARVALHO contra decisão monocrática da Presidência desta Corte que não conheceu do recurso especial em razão da intempestividade (fls. 869-870).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal , contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 701):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE NEGOCIO JURÍDICO COM PEDIDO DE TUTELA DE URGÊNCIA. NEGOCIO JURÍDICO VÁLIDO. SENTENÇA MANTIDA. I. É válido o negócio jurídico firmado entre pessoas capazes, com objeto lícito, possível, determinado e forma não defesa em lei, em observância aos requisitos do art. 104 do CC. II. A nulidade do negócio jurídico apenas pode ser declarada quando plenamente demonstrada a existência de vício de consentimento decorrente de erro, dolo, coação, estado de perigo, lesão, ou fraude contra credores, conforme estabelece o art. 171, inciso II, do CC. III. A invalidade de ato jurídico é medida excepcional, autorizada quando for irrefutavelmente comprovada a existência de vício de consentimento ou mesmo a ausência de seus requisitos essenciais de validade, não identificado na espécie. IV. Assim, não demonstrado nenhuma mácula aos requisitos da validade dos negócios jurídicos realizados, a manutenção da sentença que reconheceu a validade do negócio jurídico entabulado entre as partes constitui medida imperiosa. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+A agravante argumenta que o Recurso Especial foi erroneamente considerado intempestivo devido a um erro do sistema eletrônico PROJUDI do Tribunal de Justiça de Goiás. Ela sustenta que o sistema induziu ao erro na contagem do prazo, o que configura justa causa para afastar a intempestividade do recurso.
+Cita precedentes do STJ que reconhecem a justa causa para prorrogação do prazo em casos de erro na informação divulgada pelo sistema eletrônico.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno, com a consequente reforma da decisão para reconhecer a tempestividade do recurso.
+Contrarrazões (fls. 904-920).
+É, no essencial, o relatório.
+Com razão a parte agravante.
+A Corte Especial do STJ, na sessão do dia 5/2/2025, no julgamento da QO no AREsp n. 2.638.376/MG, fixou a seguinte tese:
+A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+Com efeito, o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei n. 14.939/2024, aplicar-se-á a todos os processos em curso. O recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso. Caso não o faça, o Tribunal determinará, a qualquer momento, enquanto não encerrada a sua competência, a correção do vício formal ou poderá desconsiderá-lo, caso a informação já conste do processo eletrônico.
+No caso dos autos, a parte recorrente comprovou a tempestividade do recurso especial.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 869-870 .
+Voltem os autos conclusos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI N. 14.939/2024. FERIADO LOCAL E SUSPENSÃO DO EXPEDIENTE FORENSE COMPROVADOS. AGRAVO INTERNO PROVIDO.
