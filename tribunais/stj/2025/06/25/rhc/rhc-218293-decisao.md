@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por VINICIUS MARCOS DA SILVA - preso preventivamente pela prática, em tese, do crime de homicídio triplamente qualificado -, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5034402-08.2025.8.24.0000/SC).
+Busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo da 2ª Vara da comarca de São João Batista/SC, aos argumentos de ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva, lastreados em alegações genéricas. Destaca que possui predicados favoráveis, como primariedade e bons antecedentes. Subsidiariamente,  pede  a  substituição  da  custódia  preventiva  por  medidas  cautelares  alternativas.
+Sem contrarrazões.
+É o relatório.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao recorrente.
+No caso, embora os autos estejam com a instrução deficiente em razão da ausência do decreto prisional, o Tribunal a quo convalidou a segregação preventiva por entendê-la motivada, sob os seguintes fundamentos (fls. 41/42 - grifo nosso):
+ ..
+A decisão que decretou a prisão preventiva encontra-se devidamente fundamentada (Evento 14 dos autos 5000615-25.2025.8.24.0505):
+ ..  Trata-se de auto de prisão em flagrante.
+Não é caso de relaxamento, já que em tese presente a situação de flagrância (art. 302 do CPP), para mais de o auto de prisão em flagrante ter sido lavrado por autoridade competente, com observância dos incisos LXII, LXIII e LXIV do art. 5º da Constituição da República. (e-STJ Fl.41) Documento recebido eletronicamente da origem.
+No mais, a conclusão é mesmo pela conversão da prisão em flagrante em preventiva, na linha da manifestação oral do Ministério Público.
+De fato, quanto aos pressupostos da prisão preventiva, há indícios de autoria e prova da materialidade (em particular pelos depoimentos prestados pelos policiais militares que participaram da ocorrência e pelo próprio conduzido, bem como pelas fotografias juntadas no Evento 1, P_FLAGRANTE4).
+No que diz com os fundamentos, há mesmo a necessidade de garantia da ordem pública, mormente diante da natureza concreta do crime praticado (homicídio contra o próprio pai, com exacerbada violência pela reiteração de golpes - como indicado pela Promotora de Justiça em sua manifestação oral durante a audiência, em conduta desnecessária, tanto que o próprio conduzido, durante a audiência, disse estar arrependido porque em vez de ter cometido o crime poderia simplesmente ter deixado a residência).
+O pedido de revogação da prisão foi indeferido na Audiência do Evento 89 dos autos 5000815-03.2025.8.24.0062.
+Em que pese as alegações da Impetrante, as decisões encontram-se devidamente fundamentadas, em especial diante da gravidade concreta da conduta imputada ao Paciente que, em tese, teria ceifado a vida da vítima, seu genitor, ao desferir-lhe golpes de arma branca (tesoura e estilete) no pescoço, por motivo fútil, meio cruel e recurso que teria impossibilitado a defesa do ofendido.
+Importante destacar que a gravidade concreta da conduta e o modus operandi de delitos violentos, justificam a segregação para garantia da ordem pública.
+Como  se  vê,  o  periculum  libertatis  do  recorrente  foi  evidenciado  pelas  instâncias  ordinárias.
+Assim,  observa-se ,  da  análise  dos  trechos  acima ,  que  a  constrição  cautelar  está  alicerçada  em  elementos  vinculados  à  realidade,  ante  as  referências  às  circunstâncias  fáticas  justificadoras,  com  destaque,  principalmente,  ao  modus  operandi.  Tudo  a  revelar  e  a  justificar  a  manutenção  da  medida  extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Por  fim,  eventuais  condições  pessoais  favoráveis  do  recorrente  não  têm  o  condão  de,  por  si  sós,  garantir  a  revogação  da  prisão  preventiva.  Há  nos  autos  elementos  hábeis  a  recomendar  a  manutenção  da  custódia  preventiva,  não  se  mostrando  suficientes  as  medidas  previstas  no  art.  319  do  Código  de  Processo  Penal.
+Em  face  do  exposto,  nego  provimento  ao  recurso  ordinário.
+Publique-se.
+EMENTA
+RECURSO  EM  HABEAS  CORPUS.  HOMICÍDIO  TRIPLAMENTE QUALIFICADO .  PRISÃO  PREVENTIVA.  FUNDAMENTAÇÃO.  GRAVIDADE  CONCRETA  DA  CONDUTA.  MODUS  OPERANDI.  CRIME COMETIDO CONTRA O PRÓPRIO PAI COM EMPREGO DE ARMA BRANCA.  MOTIVAÇÃO  IDÔNEA.  CONSTRANGIMENTO  ILEGAL.  AUSÊNCIA.  PRECEDENTES.
+Recurso em habeas corpus improvido .
