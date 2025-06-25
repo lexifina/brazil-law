@@ -1,0 +1,44 @@
+DECISÃO
+    1. Trata-se de reclamação, com pedido liminar, proposta por Antonio Nilson Ribeiro da Silva contra decisão proferida pelo Juízo da Vara Única de Eldorado dos Carajás, sob alegado descumprimento do que decidido por esta Suprema Corte no julgamento da ADI nº 5.240.
+
+    2. Narra o reclamante que teve sua prisão preventiva decretada e cumprida, mas sem que haja sido submetido à correspondente audiência de custódia.
+
+    3. Requer, liminarmente, seja realizada a audiência de custódia; no mérito, seja cassada a decisão reclamada.
+
+        É o relatório
+        Decido
+    4. Deixo de requisitar informações e de enviar o feito à Procuradoria-Geral da República, por entender que o processo está em condições de julgamento (arts. 21, § 1º, 52, parágrafo único, e 161, parágrafo único, do RISTF).
+
+    5. A  estreita via da reclamação constitucional (art. 102, inc. I, al. ”l” e § 3º, do art. 103-A da CRFB) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a enunciado de sua súmula vinculante ou o descumprimento de decisão desta Corte em controle abstrato de constitucionalidade, ou em controle difuso, contanto que havida, nesta última hipótese, a mesma relação jurídica e entre as mesmas partes.
+
+    6. Como relatado, alega-se inobservância do que decidido por esta Corte no julgamento da ADI nº 5.240, cuja ementa se transcreve:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PROVIMENTO CONJUNTO 03/2015 DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO. AUDIÊNCIA DE CUSTÓDIA. 1. A Convenção Americana sobre Direitos do Homem, que dispõe, em seu artigo 7º, item 5, que “toda pessoa presa, detida ou retida deve ser conduzida, sem demora, à presença de um juiz”, posto ostentar o status jurídico supralegal que os tratados internacionais sobre direitos humanos têm no ordenamento jurídico brasileiro, legitima a denominada “audiência de custódia”, cuja denominação sugere-se “audiência de apresentação”. 2. O direito convencional de apresentação do preso ao Juiz, consectariamente, deflagra o procedimento legal de habeas corpus, no qual o Juiz apreciará a legalidade da prisão, à vista do preso que lhe é apresentado, procedimento esse instituído pelo Código de Processo Penal, nos seus artigos 647 e seguintes. 3. O habeas corpus ad subjiciendum, em sua origem remota, consistia na determinação do juiz de apresentação do preso para aferição da legalidade da sua prisão, o que ainda se faz presente na legislação processual penal (artigo 656 do CPP). 4. O ato normativo sob o crivo da fiscalização abstrata de constitucionalidade contempla, em seus artigos 1º, 3º, 5º, 6º e 7º normas estritamente regulamentadoras do procedimento legal de habeas corpus instaurado perante o Juiz de primeira instância, em nada exorbitando ou contrariando a lei processual vigente, restando, assim, inexistência de conflito com a lei, o que torna inadmissível o ajuizamento de ação direta de inconstitucionalidade para a sua impugnação, porquanto o status do CPP não gera violação constitucional, posto legislação infraconstitucional. 5. As disposições administrativas do ato impugnado (artigos 2º, 4° 8°, 9º, 10 e 11), sobre a organização do funcionamento das unidades jurisdicionais do Tribunal de Justiça, situam-se dentro dos limites da sua autogestão (artigo 96, inciso I, alínea a, da CRFB). Fundada diretamente na Constituição Federal, admitindo ad argumentandum impugnação pela via da ação direta de inconstitucionalidade, mercê de materialmente inviável a demanda. 6. In casu, a parte do ato impugnado que versa sobre as rotinas cartorárias e providências administrativas ligadas à audiência de custódia em nada ofende a reserva de lei ou norma constitucional. 7. Os artigos 5º, inciso II, e 22, inciso I, da Constituição Federal não foram violados, na medida em que há legislação federal em sentido estrito legitimando a audiência de apresentação. 8. A Convenção Americana sobre Direitos do Homem e o Código de Processo Penal, posto ostentarem eficácia geral e erga omnes, atingem a esfera de atuação dos Delegados de Polícia, conjurando a alegação de violação da cláusula pétrea de separação de poderes. 9. A Associação Nacional dos Delegados de Polícia – ADEPOL, entidade de classe de âmbito nacional, que congrega a totalidade da categoria dos Delegados de Polícia (civis e federais), tem legitimidade para propor ação direta de inconstitucionalidade (artigo 103, inciso IX, da CRFB). Precedentes. 10. A pertinência temática entre os objetivos da associação autora e o objeto da ação direta de inconstitucionalidade é inequívoca, uma vez que a realização das audiências de custódia repercute na atividade dos Delegados de Polícia, encarregados da apresentação do preso em Juízo. 11. Ação direta de inconstitucionalidade PARCIALMENTE CONHECIDA e, nessa parte, JULGADA IMPROCEDENTE, indicando a adoção da referida prática da audiência de apresentação por todos os tribunais do país.
+(ADI nº 5.240, Rel. Min. Luiz Fux, Tribunal Pleno, j. 20/08/2015, p. 01/02/2016).
+
+    7. Pela decisão reclamada, o Juízo da Vara Única de Eldorado dos Carajás justificou a não realização da audiência de custódia nos seguintes termos (e-doc. 6, p. 4):
+
+Consigne-se que o Conselho Nacional de Justiça, recentemente, estipulou novas diretrizes acerca da realização da audiência de custódia para os casos em que há cumprimento de mandados de prisão.
+Na decisão proferida pela Ministra Corregedora Nacional de Justiça definiu-se que o Juízo competente para a realização da audiência de custódia, nos casos de prisões preventivas, temporárias, prisões definitivas para o início do cumprimento da pena e prisões cíveis, é o que prolatou a ordem de restrição da liberdade e não o Juízo onde foi cumprido o mandado de prisão, em conformidade com o artigo 13, parágrafo único, da Resolução 213/2015 do CNJ.
+Isso porque compete ao Juízo que determinou a prisão revisar a decisão que desencadeou a privação da liberdade do(a) acusado(a) ou investigado(a).
+Ante o exposto, considerando que se trata de cumprimento de mandado de prisão civil, DETERMINO o encaminhamento do acusado para o Sistema Prisional em Parauapebas/PA, aguardando seu recambiamento caso seja necessário.
+
+    8. A audiência de custódia foi afirmada como garantia fundamental por esta Suprema Corte, tanto no julgamento da ADI nº 5.240 quanto da ADPF nº 347, em que se determinou que juízes e tribunais: a) realizem audiências de custódia, preferencialmente de forma presencial, de modo a viabilizar o comparecimento do preso perante a autoridade judiciária em até 24 horas contadas do momento da prisão;
+
+    9. A Resolução CNJ nº 562/2024, que a alterou Resolução CNJ nº 213/2015, assim prevê: A pessoa presa será imediatamente apresentada à autoridade judicial que determinou a expedição da ordem de prisão ou ao juiz das garantias, segundo dispuser a lei de organização judiciária local. § 2º Na hipótese em que a prisão for efetivada em localidade fora da jurisdição da autoridade judicial que a decretou, a pessoa será imediatamente apresentada ao juiz ou juíza competente do lugar em que ocorreu a prisão ou ao juiz das garantias do local da custódia, para a realização da audiência.
+
+    10. Sendo assim, a decisão da autoridade reclamada que determinou o encaminhamento do acusado para o Sistema Prisional em Parauapebas/PA está em desacordo com o que estabelecido por esta Suprema Corte. Da mesma forma:
+
+Cumpre registrar, com a devida ênfase, que o Juízo reclamado incorreu em erro ao afirmar que o competente para realizar a audiência de custódia seria o juízo que decretou a prisão preventiva. Com efeito, nos termos do art. 13, § 2º, da Resolução nº 213/2015 do CNJ, acima citado, com redação dada pela Resolução nº 562/2024, nas hipóteses em que a prisão seja cumprida em localidade distinta daquela cuja autoridade judicial expediu o mandado, a audiência de custódia deverá ser realizada pelo juízo competente do local da prisão ou pelo juiz das garantias do local da custódia. Esse entendimento é corroborado pela jurisprudência consolidada pelo Supremo Tribunal Federal (ADI nº 5.240 e ADPF nº 347), conferindo máxima proteção ao direito fundamental à imediata apresentação do preso ao magistrado competente. Portanto, evidencia-se manifesta violação ao entendimento firmado por esta Corte e à regulamentação do Conselho Nacional de Justiça.
+(Rcl nº 76.426, Rel. Min. Gilmar Mendes, j. 13/03/2025, p. 14/03/2025).
+
+    11. Ante o exposto, julgo procedente a reclamação, nos termos do art. 161, parágrafo único, do RISTF, para determinar que a autoridade reclamada realize a audiência de custódia, presencial ou por videoconferência, no prazo de 24 horas, a contar da comunicação desta decisão.
+
+Comunique-se ao Juízo reclamado e ao Presidente do Tribunal de Justiça do Pará.
+
+	Publique-se.
+
+	Brasília, 25 de junho de 2025.
+
+Ministro ANDRÉ MENDONÇA
+Relator
