@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ AUGUSTO DE SOUZA FERREIRA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ fl. 727):
+APELAÇÃO CRIMINAL. AÇÃO PENAL PRIVADA. DIFAMAÇÃO. INJÚRIA. TEXTO PUBLICADO EM SÍTIO DE INTERNET. POSTAGEM EM REDE SOCIAL DO QUERELADO. LIBERDADE DE IMPRENSA. EXCESSO. MATERIALIDADE. AUTORIA. COMPROVAÇÃO. ELEMENTO SUBJETIVO. PRESENÇA.
+1. Publicados texto em sítio de internet e postagem em rede social do querelado, conclui-se por incontroversa a autoria dos textos como sendo do querelado, inclusive como por ele mesmo admitido, caracterizando a materialidade e a autoria dos delitos de injúria e de difamação, praticados pelo apelante, porque o conteúdo atinge a honra do querelante e atribuindo-lhe fato que macula sua reputação perante o meio onde vive, sendo descabidas as alegações sobre liberdade de imprensa porque, mesmo sendo profissional da área, não lhe é deferida a prática de delitos contra a honra de quaisquer pessoas, ainda que se trate de figura pública e/ou política, sob a justificativa do funcionamento, aprimoramento e desenvolvimento da democracia.
+2. Na situação posta, o apelante agiu com vontade livre e consciente, quando tinha o dever de agir conforme o direito, escolheu imputar fato ofensivo à reputação do querelante e, nas mesmas condições de tempo, lugar e modo de agir, também ofendeu a dignidade do querelante, por meio da veiculação de matéria jornalística em sítio de internet e de postagem em seu perfil de rede social.
+3. Recurso de apelação conhecido e desprovido.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 894-905).
+Contraminuta apresentada (e-STJ fls. 915-935).
+O Ministério Público Federal opinou pelo "não provimento do agravo" (e-STJ fls. 987-994).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Em recurso especial, aduz o recorrente que o acórdão atacado violou os arts. 139 e 140, do Código Penal, sustentando atipicidade da conduta, sob o argumento de que "é um claro exercício da atividade jornalística, amplamente albergada pelo primado da liberdade de imprensa, pela qual o recorrente expõe e critica aspectos da atividade pública do recorrido, o que se dá diante de manifesto interesse público. Não há qualquer espaço para a condenação imposta, a qual representa verdadeira censura" (e-STJ fl. 766) .
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de análise aprofundada da prova e não apenas nova interpretação.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639 /MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5 /2024, DJe de 3/6/2024).
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
