@@ -1,0 +1,9 @@
+DECISÃO
+MESSIAS DOMINGOS DA SILVA SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.25.186776-8/000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que o paciente está "preso desde o dia 27 de maio de 2025, pela suposta prática do delito previsto no artigo 33 da Lei nº 11.343/06" (fl. 15).
+Asseriu a defesa, perante a Corte de origem, "que a gravidade abstrata do delito não é motivo idôneo para sustentar o decreto preventivo, além de que o Magistrado a quo não apresentou motivos concretos capazes de justificar a conversão da custódia flagrancial em prisão preventiva e que não se encontram presentes, in casu, os pressupostos e requisitos autorizadores da custódia cautelar, elencados nos artigos 312 do Código de Processo Penal" (fl. 15).
+Apontou a Corte de origem que "o delito em tese praticado pelo paciente se revela de especial e concreta gravidade, mormente, considerando a apreensão de imensa quantidade e variedade de entorpecentes, qual seja, 230,42g (duzentos e trinta gramas e quarenta e dois centigramas) de maconha, 28,45 (vinte e oito gramas e quarenta e cinco centigramas) de crack e 7,60g (sete gramas e sessenta centigramas) de cocaína" (fl. 18, grifei).
+Em conjuntura assemelhada, já destacou o Superior Tribunal de Justiça que " a  decisão que decretou a prisão preventiva baseou-se em dados concretos, notadamente a quantidade e variedade consideráveis de drogas apreendidas (160g de cocaína, 190g de maconha e 20g de crack), em local conhecido como ponto de venda e com a presença de outro indivíduo que fugiu do local" (AgRg no HC n. 987.367/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 18/6/2025.)
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
