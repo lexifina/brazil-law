@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO DOS SANTOS OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Cautelar Inominada n. 1.0000.24.514623-8/000).
+Consta dos autos que o paciente foi alvo de medida protetiva requerida por sua ex-companheira, com quem possui um filho. A sentença proferida em outubro de 2024 revogou a medida protetiva, por ausência de elementos fáticos e jurídicos que justificassem sua manutenção. Entretanto, em dezembro de 2024, foi deferido efeito suspensivo à sentença, restabelecendo os efeitos da medida até o julgamento da apelação, ainda sem data designada.
+Diante desse cenário, o paciente afirma que há risco de sofrer constrangimento ilegal, especialmente em razão de não ter como saber previamente se frequentará locais públicos onde esteja a requerente da medida. Como exemplo concreto, cita sua intenção de comparecer a um evento musical na data de 18/06/2025, na cidade de Montes Claros/MG, e receia ser preso em razão de eventual descumprimento da medida.
+Alega que a genitora do filho comparece rotineiramente à porta de sua residência para buscar a criança, sem qualquer intercorrência, o que evidenciaria a inexistência de risco ou de necessidade da medida protetiva.
+Diante disso, requer liminarmente a expedição de salvo-conduto para que possa comparecer ao evento mencionado sem risco de prisão, bem como, no mérito, a concessão da ordem de habeas corpus preventivo, para assegurar seu direito de ir e vir, afastando qualquer ameaça decorrente da medida protetiva pendente de julgamento.
+É o relatório.
+DECIDO.
+No presente caso, verifica-se que o pedido liminar de expedição de salvo-conduto, a fim de assegurar ao paciente o comparecimento ao evento indicado sem risco de prisão, bem como, no mérito, a concessão da ordem de habeas corpus preventivo para garantir o direito de locomoção, afastando eventual ameaça decorrente de medida protetiva ainda pendente de julgamento, não foi objeto de apreciação pela Corte de origem.
+Diante desse cenário, impõe-se reiterar que não compete ao Superior Tribunal de Justiça o exame originário da matéria, sob pena de indevida supressão de instância
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).  .. .  AgRg no RHC n. 182.899/PB, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos
+Ressalta-se, ainda, que a impetração teve como ato coator, unicamente, a decisão monocrática, que deferiu o pedido de concessão de efeito suspensivo à apelação, nos termos do artigo 1.012, caput, do Código de Processo Civil (CPC - fls. 10/13).
+Ante o exposto, indefiro liminarmente o presente habeas corpus, julgando prejudicado o pedido protocolado às fls. 91/93.
+Cientifique-se o Ministério Público Federal.
+EMENTA
