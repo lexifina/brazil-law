@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA APARECIDA DE OLIVEIRA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado (e-STJ fl. 235):
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. CRIMES CONTRA A HONRA. CALÚNIA E DIFAMAÇÃO MAJORADAS. ART. 138 E ART. 139 C/C ART. 141, II E III, DO CÓDIGO PENAL. PRELIMINAR SUSCITADA DE OFÍCIO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. AGENTE MAIOR DE SETENTA ANOS NA DATA DA SENTENÇA. ÚLTIMO MARCO INTERRUPTIVO. REDUÇÃO DO PRAZO PRESCRICIONAL PELA METADE. DECURSO DO PRAZO PRESCRICIONAL VERIFICADO. EXTINÇÃO DA PUNIBILIDADE EM RELAÇÃO AO CRIME DE DIFAMAÇÃO MAJORADA. MÉRITO RECURSAL. CALÚNIA MAJORADA. ALEGAÇÃO RECURSAL DE INEXISTÊNCIA DE ELEMENTOS SUFICIENTES PARA COMPROVAÇÃO DA MATERIALIDADE E AUTORIA DELITIVAS. REJEIÇÃO. EXCESSO E ABUSO NO EXERCÍCIO DA LIBERDADE DE INFORMAÇÃO. DOLO ESPECÍFICO DE OFENDER A HONRA DO QUERELANTE. ACERVO PROBATÓRIO SUFICIENTE PARA A CONDENAÇÃO. IMPUTAÇÃO FALSA DE FATO CRIMINOSO DESACOMPANHADA DE ELEMENTOS COMPROBATÓRIOS. TIPICIDADE DA CONDUTA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. RECURSO CONHECIDO E NÃO PROVIDO.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 270-276).
+O Ministério Público Federal opinou pelo "pelo não conhecimento do agravo em recurso especial" (e-STJ fls.299-300).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+O recurso especial (e-STJ fls. 251-257) tem como objetivo a absolvição da agravante, sob o argumento de violação ao art. 138 do Código Penal, ante a ausência de dolo específico.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de análise aprofundada da prova e não apenas nova interpretação.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639 /MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5 /2024, DJe de 3/6/2024).
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, "a" , do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
