@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DAYCOVAL S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/11/2023.
+Concluso ao gabinete em: 13/6/2024.
+Ação: revisão contratual, ajuizada por CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA, em face de BANCO DAYCOVAL S/A.
+Sentença: julgou extinto o feito, sem resolução do mérito, e condenou CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa. (e-STJ fls. 1179-1185)
+Acórdão: rejeitando a preliminar arguida por BANCO DAYCOVAL S/A, negou provimento à Apelação interposta por CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA, nos termos da seguinte ementa:
+"Recurso de apelação cível. Pedido de tutela cautelar de urgência em caráter antecedente (art. 305 do CPC). Partes que celebraram 10 (dez) cédulas de crédito bancário. Posterior condensação em 02 (dois) de instrumentos de confissão de dívida com garantia real. Alegação de nulidade de utilização do CDI como índice de correção das ccb "s. Liminar deferida pelo Juízo a quo. Adequação da pretensão à hipótese do art. 303, do CPC. Constatação da natureza revisional da demanda. Posterior adequação pelo magistrado singular. Sentença que extinguiu o feito sem resolução de mérito por violação às regras dos §§ 2º e 3º do CPC
+I - Preliminar de não conhecimento do apelo. Alegada ausência de impugnação específica aos fundamentos da sentença. Inocorrência. Constatação de que o apelo ataca, adequadamente, a sentença do magistrado singular. Rejeição da preliminar. Decisão unânime.
+II - Apelo da autora.
+a) Liminar deferida pelo Juízo a quo. Instituição financeira que apresentou planilha de débito alterando o critério de correção do CDI para o INPC. Provimento por esta colenda 4ª Câmara Cível do agravo de instrumento interposto pela autora para considerar o INPC desde a época da contratação. Recurso que pende de embargos de declaração. Demandante que, ainda assim, não apresentou memória de cálculo dos valores incontroversos ou continuou a honrar sua obrigação
+b) Autora que objetiva verdadeiramente a revisão de cláusulas contratuais. Demandante que, inclusive, pugnou expressamente pela compensação dos valores indevidos com seu débito perante a instituição financeira. Ausência de pretensão meramente declaratória. Violação as regras dos §§ 2º e 3º do art. 330 do CPC, que se mostram configuradas. Inépcia da inicial que constitui previsão expressa na Cartilha de Ritos para a hipótese de, na inicial em ação revisional de contrato de financiamento ou empréstimo, a parte autora não discriminar as obrigações contratuais que pretende controverter ou não quantificar o valor incontroverso do débito.
+III - Recurso a que se nega provimento. Decisão unânime. Honorários. Majoração para 15% do valor da causa. Art. 85, § 11º do CPC." (e-STJ fls. 1315-1316)
+Embargos de Declaração: opostos, por BANCO DAYCOVAL S/A, CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA, foram acolhidos, com efeitos infringentes, para determinar a nulidade da sentença, a fim de que a CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA sejam intimados para os fins do artigo 330, § 2º, CPC (e-STJ fls. 1399/1411); opostos, por BANCO DAYCOVAL S/A, CONSTRUTORA DALLAS LTDA. e SÉRGIO MACHADO DE ARRUDA, foram rejeitados (e-STJ fls. 1480-1489)
+Recurso especial: alega violação dos arts. 278, 330, §§ 2º, 3º, 337, IV, 485, I, 489, II, § 1º, IV, 942, 1.022, I, CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) no julgamento do recurso de apelação, havia sido mantida a sentença de extinção, o que apenas foi modificado, por maioria, quando do julgamento dos embargos de declaração para anular a sentença, por isso deveria ter sido realizado o julgamento ampliado, independentemente de o voto vencedor, e não o vencido, ter alterado o resultado do julgamento do recurso interposto; e, ii) como já houve a apresentação de defesa pela parte recorrente, quanto ao pedido principal, ocorreu a estabilização da demanda, razão pela qual não seria possível promover, a destempo, a emenda da exordial; e, iii) mesmo após a parte recorrida ser intimada a se manifestar sobre o recálculo da dívida, não impugnou de modo fundamentado o valor incontroverso apontado pela parte recorrente e nem apresentou cenário alternativo do valor que entendia devido, o que torna evidente a impossibilidade de reabertura de novo prazo na origem para emenda da exordial, ante a preclusão ocorrida. (e-STJ fls. 1502-1519)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de intimação da parte agravada para demonstrar a parte incontroversa do débito, sob pena de extinção do processo, sem apreciação do mérito, o que impõe o retorno do processo ao juízo de primeiro grau para intimação e cumprimento do artigo 330, § 2º, CPC (e-STJ fls. 1399-1411), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 330, §§ 2º, 3º, 942, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 337, IV, 485, I, CPC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão contratual.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
