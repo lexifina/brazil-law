@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível de Vacaria/RS, suscitante, e o Juízo Federal da 3ª Vara de Caxias do Sul - Seção Judiciária do Estado do Rio Grande do Sul, suscitado, nos autos da ação de cumprimento de sentença ajuizada pela Concessionária ALL - América Latina Logística Malha Sul S/A., contra o particular Nereu Demétrio dos Santos.
+Depreende-se dos autos que a exequente ajuizou ação de reintegração de posse, que tramitou perante o Juízo Federal da 3ª Vara de Caxias do Sul - SJ/RS, tendo o Juízo intimado o réu para o cumprimento da sentença perante o Juízo sentenciante.
+No curso do feito, o Departamento Nacional de Infraestrutura de Transportes -DNIT se manifestou pela ausência de interesse em intervir no feito.
+Em consequência, o Juízo sentenciante se declarou incompetente para processar e julgar o feito e declinou da competência para a Justiça Estadual da Comarca de Vacaria/RS (fls. 261-263).
+Recebido os autos na Justiça Estadual, este suscitou o presente conflito, entendendo que o pedido já foi processado e julgado na Justiça Federal, pelo que não competiria à Justiça Estadual promover o processamento da fase de cumprimento de sentença prolatada por órgão da Justiça Federal (fls. 232-233).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça Federal (fls. 266-269).
+É o relatório. Decido.
+Acerca da matéria discutida no presente incidente, este Superior Tribunal de Justiça assinala que a competência para o cumprimento de sentença (art. 516 do CPC/2015) é funcional e, assim, absoluta, devendo processar-se perante o juízo que decidiu a causa em primeiro grau. Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS PERICIAIS. COMPETÊNCIA DO JUÍZO QUE DECIDIU A CAUSA. ART. 516 DO CÓDIGO DE PROCESSO CIVIL.
+1. A norma prevista no art. 516, II, do CPC, consagra regra segundo a qual o juízo que decidiu a causa no primeiro grau de jurisdição é competente para o cumprimento de sentença, reafirmando o sincretismo processual e o princípio da perpetuatio jurisdictionis, segundo o qual a competência é determinada no momento do registro ou da distribuição da petição inicial.
+2. Não se enquadra em nenhuma das situações que excepcionam a regra contida no art, 516, II, do CPC, motivo pelo qual conheço do Conflito para declarar competente para o processamento do feito o Juiz de Direito suscitado.
+(CC n. 191.185/MS, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 28/2/2024, DJe de 4/3/2024.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL QUE RECONHECEU A ILEGITIMIDADE PASSIVA DE AUTARQUIA FEDERAL E REMETEU OS AUTOS À JUSTIÇA ESTADUAL. EXECUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA AUTARQUIA. COMPETÊNCIA DO JUÍZO EM QUE SE FORMOU O TÍTULO EXECUTIVO.
+1. O conflito negativo de competência estará configurado, segundo o art. 66, II, do CPC/2015, quando dois ou mais juízes se considerarem incompetentes para processamento da causa, atribuindo um ao outro a competência.
+2. Da exegese do art. 516, II, do CPC/2015 se depreende que a competência para dar cumprimento do título executivo judicial é do Juízo que decidiu a causa em primeiro grau de jurisdição. Por sua vez, conforme o art. 24, § 1º, da Lei n. 8.906/1994, a execução da verba honorária pode ser promovida nos mesmos autos da ação, se assim convier ao advogado, sobretudo porque se trata de título autônomo à demanda originária.
+3. No caso, o Juiz federal reconheceu a ilegitimidade passiva da autarquia federal e condenou a autora ao pagamento de honorários, determinando a remessa dos autos à Justiça estadual. Assim, apesar de não ser possível que se dê nos próprios autos, a execução da verba honorária requerida pela entidade federal deve ser processada perante o Juízo federal que constituiu o título executivo.
+4. Conflito conhecido para declarar a competência do Juízo Federal da 24ª Vara do Rio de Janeiro - SJ/RJ.
+(CC n. 175.883/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2022, DJe de 26/8/2022.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE DESAPROPRIAÇÃO. SENTENÇA TRANSITADA EM JULGADO. EXECUÇÃO DE TÍTULO JUDICIAL. EMBARGOS À EXECUÇÃO. RECURSO.
+1. A controvérsia reside em saber a competência para o julgamento de execução de título executivo judicial decorrente de sentença de desapropriação  devidamente transitada em julgado  proferida por Juízo Federal e em demanda na qual não figurou nenhuma das pessoas jurídicas de direito público elencadas no art. 109, I, da Constituição da República.
+2. A ausência na relação processual de alguma das entidades elencados no referido dispositivo constitucional afastaria a competência da Justiça Federal. Entretanto, na execução do julgado, deve ser observado o disposto no artigo 575, inciso II, do CPC, segundo o qual a execução fundada em título judicial deve ser processada perante "o juízo que decidiu a causa no primeiro grau de jurisdição", bem assim o disposto no artigo 475-P, inciso II, do mesmo diploma, que dispõe que o cumprimento da sentença deverá ser efetuado no "juízo que processou a causa no primeiro grau de jurisdição".
+3. O processo e julgamento da execução compete ao Juízo que prolatou a sentença na ação cognitiva, in casu, o Juízo Federal, ainda que não haja interesse de qualquer ente federal arrolado no artigo 109, inciso I, da CR.
+4. A sentença proferida pelo juiz estadual nos autos dos embargos à execução deve ser ratificada ou anulada pelo Juízo Federal, já que proferida por Juízo absolutamente incompetente.
+5. Conflito de competência conhecido para declarar competente o Juízo Federal, ora suscitado.
+(CC n. 108.985/SP, relator Ministro Castro Meira, Primeira Seção, julgado em 10/2/2010, DJe de 4/3/2010.)
+Assim, nos termos do art. 516, II, do CPC/2015, compete ao Juízo Federal da 3ª Vara de Caxias do Sul - Seção Judiciária do Estado do Rio Grande do Sul, que decidiu a causa em primeiro grau, prosseguir com o respectivo cumprimento de sentença.
+Em caso idêntico: CC n. 210.406, Ministro Benedito Gonçalves, DJEN de 06/03/2025.
+Ante o exposto, conheço do conflito para declara a competência do Juízo Federal da 3ª Vara de Caxias do Sul - Seção Judiciária do Estado do Rio Grande do Sul, o suscitado.
+Publique-se. Comunique-se.
+EMENTA
