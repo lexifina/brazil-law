@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDMILSON OLIVEIRA SILVA contra decisão monocrática, por mim proferida, a qual concedeu a ordem para anular o acórdão proferido nos autos da apelação n. 1503625-36.2024.8.26.0548, em trâmite perante o Tribunal de Justiça do Estado de São Paulo, por cerceamento de defesa.
+Alega o embargante omissão pelo não exame do requerimento relativo ao direito de recorrer em liberdade, em homenagem à razoável duração do processo, não sendo "justo, quiçá razoável o paciente ter de aguardar o recuo de todo o percurso processual preso, por motivos alheios à sua vontade e ou de sua defesa. Restando clarividente que, quando do julgamento de suas razões recursais perante o E. TJ/SP e ou superiores instâncias, poderá lhe ser assistido de imediato a causa especial de diminuição de pena (tráfico privilegiado), o que lhe colocará em liberdade de forma imediata. Não havendo prejuízo algum em caso de desprovimento de recurso, a considerar que estará pronto para cumprir todo e quaisquer ato processual".
+Pugna, ao final, por que seja sanada a omissão apontada, concedendo-se ao embargante o direito de recorrer em liberdade ou, alternativamente, seja reconhecido o tráfico privilegiado em seu favor.
+É o relatório.
+Decido.
+Nos termos do art. 619 do CPP, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+O pedido de reconhecimento da minorante do tráfico de drogas, como já afirmado, está prejudicado pela renovação do julgamento da apelação.
+Quanto ao pedido de recurso em liberdade, da sentença constou o seguinte:
+" ..  Por todo o exposto, e tendo em vista o intenso grau de culpa, as consequências deletérias do tráfico de entorpecentes de tamanho montante, é que não vislumbro a possibilidade de o réu recobrar a liberdade. Certamente poderia reincidir no mesmo crime, equiparado a hediondo, ou até mesmo frustrar a aplicação da pena, já que residente no distante município de Ji-Paraná. Por tudo isso, vale dizer, para assegurar a aplicação da lei penal, e em nome da ordem pública, prontamente afetada por crime de tanta repercussão social, é que mantenho a prisão preventiva do acusado, que deve ser recomendado no estabelecimento que se encontra  .. " (e-STJ, fl. 74).
+Considerada a elevada quantidade de drogas apreendida em poder do embargante (185,08kg de maconha e 426,02 kg de cocaína), aliada à pena aplicada em 1ª instância (11 anos e 3 meses de reclusão, em regime inicial fechado) não recomendam o recurso em liberdade por nulidade no julgamento da apelação, que deverá ser refeito, mas em nada interfere nos fundamentos esposados pelas instâncias ordinárias para preservação da custódia cautelar.
+Ante o exposto, acolho parcialmente os embargos de declaração, sem atribuição de efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
