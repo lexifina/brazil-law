@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por HELIVELSON MONTEIRO RAMOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1.0471.19.006052-8/001 e embargos de declaração em seguida opostos (fls. 391/421 e 442/447).
+No recurso especial (fls. 450/455), o agravante sustenta violação do art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que preenche os requisitos legais para a incidência da minorante do tráfico privilegiado, sendo inidônea a fundamentação utilizada para afastá-la, notadamente por se basear exclusivamente em presunções genéricas, sem elementos concretos de reiteração delitiva ou integração a organização criminosa.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo (fls. 495/499).
+É o relatório.
+O agravo é admissível, pois foi interposto tempestivamente e impugna os fundamentos da decisão de inadmissibilidade.
+O acórdão recorrido afastou a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos (fls. 412/413):
+Pela análise da CAC do acusado verifica-se a inexistência de condenação anterior com trânsito em julgado, apta a configurar a reincidência. No entanto, restou comprovado nos autos que réu se dedica a atividades criminosas, não sendo neófito na prática delitiva. As circunstâncias do caso concreto, assim como o relato dos policiais, comprova que o réu não agia de modo ocasional, mas sim que fazia da traficância seu meio de vida.
+Em observância à legalidade, nos termos exatos do §4º do art. 33 da Lei 11.343/2006, para a aplicação do privilégio é impositivo que se trate de réu que não se dedique às atividades criminosas, o que não se comprovou nestes autos, pelo contrário.
+Nos termos da jurisprudência consolidada desta Corte, a exclusão do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 exige a existência de elementos concretos nos autos que evidenciem a dedicação do agente à atividade criminosa ou sua integração à organização criminosa. Presunções genéricas ou valoração abstrata das circunstâncias do caso não são suficientes (AgRg no HC n. 969.281/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 5/3/2025; e AgRg no HC n. 695425/PR, minha relatoria, Sexta Turma, DJe 19/11/2021).
+No caso em exame, o agravante é tecnicamente primário, não possui antecedentes criminais e foi absolvido do crime previsto no art. 35 da Lei 11.343/2006. A fundamentação adotada pelo Tribunal de origem se limita à interpretação subjetiva de relatos policiais e ao modo de execução do delito, sem indicar qualquer elemento concreto de habitualidade delitiva ou vínculo com organização criminosa.
+As circunstâncias destacadas são inerentes ao próprio tipo penal e não bastam, por si sós, para afastar a incidência da minorante.
+Reconheço, assim, o direito do recorrente à aplicação do § 4º do art. 33 da Lei 11.343/2006, fixando sua incidência no patamar máximo de 2/3.
+Passo ao redimensionamento da pena.
+Considerando a pena-base fixada em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, e aplicando-se a redução de 2/3, torna-se definitiva a pena de 1 (um) ano e 8 (oito) meses de reclusão, e 166 (cento e sessenta e seis) dias-multa, no valor unitário de 1/30 do salário mínimo vigente à época dos fatos.
+Nos termos do art. 33, § 2º, alínea c, do Código Penal, considerando que o recorrente não é reincidente e não há circunstâncias judiciais desfavoráveis, o regime inicial deve ser fixado no aberto.
+Ademais, preenchidos os requisitos do art. 44 do Código Penal, substituo a pena privativa de liberdade por duas penas restritivas de direitos, a serem especificadas pelo Juízo da execução.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de aplicar a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006, redimensionando a pena para 1 (um) ano e 8 (oito) meses de reclusão, e 166 (cento e sessenta e seis) dias-multa, no valor unitário de 1/30 do salário mínimo vigente à época dos fatos, a ser cumprida em regime inicial aberto, substituída por duas penas restritivas de direitos, nos termos da fundamentação.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO DO ACÓRDÃO INSUFICIENTE PARA AFASTAR A MINORANTE. AUSÊNCIA DE ELEMENTOS CONCRETOS A INDICAR DEDICAÇÃO A ATIVIDADE CRIMINOSA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REDIMENSIONAMENTO DA PENA. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+Agravo conhecido para dar provimento ao recurso especial.
