@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ROGER DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada, em 22/04/2025, pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e denegou a ordem, em acórdão de fls. 46-49.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal em parecer, às fls. 96-97, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que o recorrente juntamente com outros corréus, participariam de um esquema coordenado, com divisão de tarefas e atuação estruturada voltada para o tráfico de entorpecentes, na modalidade de "tele-entrega" , comandada por indivíduo recolhido no sistema prisional, que de dentro do presídio comandava a central de entregas, desempenhando o acusado a função de entregador dos entorpecentes, circunstâncias que revelam a periculosidade concreta do agente e demonstra a indispensabilidade da imposição da segregação cautelar - fl. 47.
+Sobre o tema:
+"a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 981.209/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 15/4/2025.)
+"A conduta do agente, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal"(AgRg no RHC n. 212.464/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/4/2025.)
+No mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
