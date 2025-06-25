@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por Claiton Manoel da Silva Pereira, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+O recorrente foi condenado à pena de 13 (treze) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 41 (quarenta e um) dias-multa, pela prática dos crimes previstos nos artigos 157, §2º, inciso II, §2ºA, inciso I, art. 311, caput, todos do Código Penal, e artigo 14 da Lei 10.826/03, na forma do art. 69 do Código Penal (fls. 275-288).
+O Tribunal de origem deu parcial provimento ao recurso de apelação do réu, absolvendo-o da imputação descrita no art. 14 da Lei 10.826/03, com fundamento no art. 386, III, do Código de Processo Penal, e readequando as penas para 11 (onze) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e pagamento de 31 (trinta e um) dias-multa, no piso mínimo, por infração ao art. 157, §2º, inciso II, §2º-A, inciso I, e art. 311, caput, na forma do art. 69, todos do Código Penal (fls. 346-362).
+Nas razões recursais (fls. 369-375), o recorrente alega negativa de vigência ao inciso II, §2º, do art. 157 do Código Penal, bem como ao parágrafo único do art. 68 do mesmo diploma legal, além de violação ao art. 311 do Código Penal.
+Apresentadas as contrarrazões (fls. 379-389), o recurso foi admitido (fls. 392-393), ascendendo a esta Corte.
+O Ministério Público se manifestou pelo conhecimento parcial do recurso especial e pelo seu desprovimento, nessa parte (fls. 403-411).
+É o relatório. DECIDO.
+Cinge-se a controvérsia a analisar a negativa de vigência ao inciso II, §2º, do art. 157 do Código Penal, bem como ao parágrafo único do art. 68 do mesmo diploma legal, além da alegada violação ao art. 311 do Código Penal.
+O recorrente argumenta que o Tribunal de Justiça de São Paulo aplicou indevidamente a majorante de concurso de pessoas, considerando a participação de um menor de idade, o que não encontra respaldo no direito penal.
+Ademais, sustenta que a aplicação cumulativa das causas de aumento de pena, por concurso de agentes e uso de arma de fogo, careceu de fundamentação concreta, conforme exigido pela Súmula 443 do STJ.
+Por fim, pleiteia a absolvição do crime de adulteração de sinal identificador de veículo, alegando que a colocação de fitas isolantes na placa não teve a intenção de adulterar, mas sim de proteger durante a pintura do veículo.
+Pois bem.
+De início, quanto a alegação de violação do art. 311 do CP, ante o fundamento de que o recorrente não teve a intenção de adulterar a placa do veículo ao incluir fitas isolantes em sua placa, assim dissertou o Tribunal de origem (fl. 358):
+Quanto ao crime de adulteração de sinal identificador de veículo automotor, ficou comprovado que o acusado ocultou as placas do automóvel com fita adesiva, conforme laudo pericial de fls. 184/189 e confissão.
+Como é sabido os veículos automotores são identificados externamente por meio de placas dianteira e traseira, individualizando os bens até a baixa do registro, conforme dispõe o art. 115 do Código de Trânsito Brasileiro. Assim, as placas externas integram o conceito de "qualquer sinal identificador do veículo automotor" para fins de tipificação do delito previsto no art. 311 do Código Penal
+Com efeito, a Corte Estadual, ao analisar o conjunto probatório, incluído aí laudo pericial, afirmou a existência de provas suficientes da materialidade e autoria do delito de adulteração de sinal identificador de veículo.
+Dessarte, para concluir que o recorrente não teria praticado o delito do art. 311 do Código Penal, seria necessário o revolvimento dos fatos e provas, o que não é permitido em recurso especial, conforme a Súmula 7 do STJ.
+Não conheço da tese, portanto.
+Seguindo, passo ao exame acerca da cumulação de majorantes na terceira fase da dosimetria, uma vez que essa ressai como matéria prejudicial à tese da impossibilidade de concurso de pessoas em se tratando de participação de menor no delito.
+Sobre o ponto, assim restou consignado no voto condutor do Tribunal a quo (fls. 356-357):
+Outrossim, não há que se falar em afastamento da combinação das majorantes previstas no art. 157, § 2º, II, e §2º-A, I, do CP, porquanto o disposto no art. 68, p. único, do CP, não obriga o julgador a fazer incidir somente a causa que aumente mais a pena. Nesse sentido, confira-se:
+ ..
+Sendo assim, havendo fundamentação suficiente, lastreada em elementos concretos que evidenciem maior grau de reprovabilidade da conduta e, portanto, a necessidade de sanção mais rigorosa, é plenamente possível a cumulação das causas de aumento relativas ao concurso de pessoas e ao emprego de armas de fogo.
+Não obstante, a despeito do Tribunal de origem afirmar haver fundamentação suficiente, apoiada em elementos concretos a evidenciar o maior grau de reprovabilidade da conduta, para a cumulação em exame, o juízo primevo, ao aplicar as causas de aumento, assim se manifestou (fl. 286, grifei):
+Réu: CLAITON MANOEL DA SILVA PEREIRA. Atento, aos critérios do artigo 59, do Código Penal, não constato circunstância judicial negativa de modo que fixo a pena em 04 anos de reclusão e pagamento de 10 dias-multa para o roubo; 02 anos de reclusão e pagamento de 10 dias-multa para o porte de arma e 03 anos de reclusão e pagamento de 10 dias-multa para a adulteração de veículo. Ausentes agravantes, presente a atenuante da confissão sem reflexo na pena já fixada no mínimo. Presente a causa de aumento do roubo pelo concurso de agentes, que leva a pena à 05 anos e 04 meses de reclusão e pagamento de 13 dias-multa, bem como a causa de aumento do emprego de arma de fogo que leva a pena do roubo à 08 anos, 10 meses e 20 dias de reclusão e pagamento de 21 dias-multa. Ausente causa de diminuição. Reconheço o concurso material de delitos e somo as penas totalizando 13 anos, 10 meses e 20 dias de reclusão e pagamento de 41 dias-multa. Fixo o valor do dia-multa no mínimo legal e o regime fechado para início de cumprimento de pena. Não faz jus à substituição da pena e tampouco ao sursis.
+Com efeito, verifico de plano que a postura das instâncias ordinárias - seja na sentença, seja no acórdão que a manuteniu - ao cumular as majorantes do §2º, inciso II, com a do §2º-A, inciso I, sem a apresentação de fundamentos concretos e individualizados que justificassem referida soma, contraria a jurisprudência dominante desta Corte, sumulada sob a numeração 443, segundo a qual "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes."
+Portanto, com razão, neste ponto o recorrente.
+Nessa linha, a teor da literalidade do parágrafo único do art. 68 do Código penal, o qual aduz que "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua", mantenho a causa de aumento do art. 157, §2º-A, inciso I (emprego de arma de fogo), afastando a majorante do §2º, inciso II, do mesmo dispositivo (concurso de pessoas).
+Prejudicada, portanto, a tese derradeira.
+Passo ao recálculo da dosimetria do crime do art. 157, §2º-A, incido I, do CP, nos termos do art. 59 e 68 do mesmo diploma normativo.
+PRIMEIRA FASE
+Não havendo alteração, mantenho em 04 anos de reclusão e 10 dias-multa.
+SEGUNDA FASE
+Não havendo alteração, mantenho. Ausentes agravantes. Presente a atenuante da confissão espontânea, sem reflexo na pena já fixada no mínimo legal.
+TERCEIRA FASE
+Procedo à alteração. Para o crime de roubo, aplico apenas a causa de aumento pelo emprego de arma de fogo (art. 157, § 2º, I, do CP), aumentando a pena em 1/3, resultando em 05 anos e 04 meses de reclusão e 13 dias-multa.
+Afasto a majorante do concurso de pessoas (art. 157, § 2º, II, do CP) em aplicação à Súmula 443, STJ.
+CONCURSO DE CRIMES
+Procedo à alteração em razão da nova dosimetria do crime de roubo, somando as penas e chegando ao total de 08 (oito) anos e 04 (quatro) meses de reclusão e 23 (vinte e três) dias-multa.
+Não havendo alteração, mantenho o valor do dia-multa no mínimo legal e o regime inicial fechado para cumprimento da pena.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, a fim de afastar a incidência da causa de aumento de pena do concurso de pessoas (art. 157, §2º, inciso II, do CP), redimensionando a pena final do recorrente, após a aplicação do art. 69 do CP, para 08 (oito) anos e 04 (quatro) meses de reclusão e 23 (vinte e três) dias-multa, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
