@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JOAQUIM DE JESUS DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Processo n. 1017680-27.2025.8.11.0000).
+Alega o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu a petição inicial do writ impetrado na origem.
+Informa que o paciente, atualmente com 87 anos de idade, encontra-se custodiado no Centro de Detenção Provisória de Juína/MT, em regime fechado e que este é portador de doenças osteoarticulares crônicas e degenerativas, sofre de limitação motora severa e necessita de ajuda para atividades básicas, além de ser medicamentoso crônico.
+Alega que, recentemente, o quadro de saúde do paciente se agravou com o surgimento de hérnia inguinal volumosa, com indicação de cirurgia imediata, conforme atestado médico, carecendo este de procedimento cirúrgico e, consequentemente, de cuidados pós-operatórios que o cárcere não pode prover.
+Discorre que a manutenção do encarceramento representa uma ameaça concreta e imediata à vida e integridade física do paciente, demandando pronta intervenção judicial para fins de auferir prisão domiciliar humanitária.
+Argumenta que referida modalidade de cumprimento de pena é autorizada pela Lei de Execução Penal e pelo Código de Processo Penal, considerando a idade avançada do paciente e seu estado de saúde.
+Ressalta que a progressão de regime está prevista apenas para 23/11/2033, quando o paciente terá 95 anos, o que, somado ao quadro clínico e à ausência de estrutura carcerária, torna a manutenção da prisão iníqua e desumana.
+Requer, liminarmente e no mérito, a concessão da prisão domiciliar humanitária ao paciente, ainda que com uso de monitoramento eletrônico, conforme recomendação expressa da própria direção da unidade prisional.
+É o relatório.
+Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 17.6.2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 11.3.2022.)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
