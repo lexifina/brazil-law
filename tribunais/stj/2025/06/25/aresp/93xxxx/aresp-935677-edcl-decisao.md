@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Fls. 1.699/1.710e - Trata-se de Embargos de Declaração opostos contra decisão monocrática de minha lavra, mediante a qual, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, o Agravo em Recurso Especial não foi conhecido, porquanto não atacados especificamente nenhum dos fundamentos da decisão agravada (fls. 1.693/1.697e)..
+Sustenta a Embargante, em síntese, que há omissão na decisão embargada, porquanto restaria pendente de julgamento o Agravo Interno de fls. 1.644/1.648e, bem como quanto à aplicação do Tema n. 1.011/STF, e, ainda, quanto à afetação, pela sistemática dos recursos repetitivos, da discussão em torno da possibilidade de responsabilizar a Seguradora por danos decorrentes de vícios de construção (Tema 1.301/STJ).
+Alega, ainda, erro material quanto à majoração dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, uma vez que o acórdão recorrido teria sido publicado em 13/02/2015 (fls. 1.699/1.710e).
+Transcorreu in albis o prazo do INSTITUTO NACIONAL DO SEGURO SOCIAL para impugnação (fl. 473e).
+Feito breve relato, decido.
+O Exmo. Ministro Marco Aurélio Bellizze, então relator à época, determinou a " ..  devolução destes autos ao Tribunal de origem, com a respectiva baixa, a fim de que lá permaneçam suspensos no aguardo da publicação do acórdão do RE n. 827.996/PR, quando então deverão ser adotadas, conforme o caso, as diretivas previstas nos arts. 1.039 e 1.040 do CPC/2015", cuja distribuição ocorrera por prevenção ao REsp 1743911 (fls. 1.639/1.640e)
+Em 10.12.2024, os autos foram atribuídos ao Sr. Desembargador Convocado Carlos Cini Marchionatti (fl. 1.683e) e, posteriormente, à Exma. Ministra Daniela Teixeira (fl. 1.685e).
+Sua Excelência determinou a redistribuição dos autos para uma das turmas da Seção de Direito Público desta Corte Superior, por envolver questões referentes aos contratos de mútuo habitacional que impliquem comprometimento do Fundo de Compensação das Variações Salariais - FCVS (fls. 1.686/1.687e).
+Os autos foram a mim redistribuído (fl. 1.691e) e, em 17.05.2023, proferi decisão não conhecendo do Agravo em Recurso Especial da Agravante (fls. 1.693/1.697e).
+Na sequencia foram opostos os presente Embargos de Declaração sustentando omissão, porquanto restaria pendente de julgamento o Agravo Interno de fls. 1.644/1.648e, bem como quanto à aplicação do Tema n. 1.011/STF, e, ainda, quanto à afetação, pela sistemática dos recursos repetitivos, da discussão em torno da possibilidade de responsabilizar a Seguradora por danos decorrentes de vícios de construção (Tema 1.301/STJ), bem como erro material quanto à majoração dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, uma vez que o acórdão recorrido teria sido publicado em 13/02/2015 (fls. 1.699/1.710e).
+Assiste razão à parte embargante.
+Impõe-se reconhecer a existência de omissão e erro material, porquanto pendente de julgamento o Agravo Interno interposto contra a decisão proferida Exmo. Ministro Marco Aurélio Bellizze, enquanto relator e integrante da terceira Turma desta Corte.
+Posto isso, ACOLHO os Embargos de Declaração para TORNAR SEM EFEITO a decisão de fls. 1.693/1.697e, proferida por equívoco, e DETERMINAR a devolução dos autos à Exma. Ministra Daniela Teixeira, com a consequente redistribuição.
+Publique-se e intimem-se.
+EMENTA
