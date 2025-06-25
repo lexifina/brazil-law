@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por Alfredo A Treichel e Cia Ltda. com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 780):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. CONSTITUCIONALIDADE. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. São constitucionais as contribuições destinadas a terceiros, inclusive sob a vigência da EC nº 33/2001, conforme jurisprudência consolidada no Supremo Tribunal Federal.
+2. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+3. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+4. O salário-educação é regido por legislação específica, em razão do que também a ele não se aplica o teto de 20 salários mínimos.
+Opostos embargos declaratórios, foram rejeitados (fls. 805/808).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 4º, parágrafo único, da Lei n. 6.950/81, e 1º, I e II, e 3º do Decreto-Lei n. 2.318/1986, ao sustentar "o direito  .. de, com base na regra inscrita no artigo 4º, parágrafo único, da Lei nº 6.950, de 4 de novembro de 1981, apurar a base de cálculo da contribuição para o INCRA incidente sobre a folha de salários, com a observância do limite máximo do salário de contribuição no valor correspondente a 20 (vinte) vezes o maior salário mínimo vigente no país" (fl. 835).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com relação aos arts. 4º, parágrafo único, da Lei n. 6.950/81, e 1º, I e II, e 3º do Decreto-Lei n. 2.318/1986, nota- se que os referidos dispositivos legais não contêm comando capaz de sustentar a tese recursal de que a contribuição para o INCRA deve respeitar o limite de 20 vezes o maior salário-mínimo vigente no país e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no REsp n. 2.154.627/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024; AgInt no AREsp n. 2.288.113/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024; AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Por fim, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, tendo em vista que o mesmo óbice imposto à alínea "a" do permissivo constitucional é aplicável ao apelo raro interposto pela alínea "c".
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
