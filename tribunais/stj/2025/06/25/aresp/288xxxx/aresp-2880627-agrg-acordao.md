@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. No caso dos autos, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de tráfico de drogas, ante o conjunto fático-probatório acostado aos autos.
+2. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a absolver o agravante, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ).
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por THIAGO HENRIQUE DA SILVA contra a decisão monocrática que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 579/580).
+Consta dos autos que o Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 317):
+Tráfico de entorpecentes - Autoria e materialidade comprovadas pelos elementos constantes dos autos - Condenação mantida - Circunstâncias que demonstram a dedicação ao comércio espúrio - Pena e regime fixados com critério - Recurso desprovido.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação ao art. 155 e art. 199, ambos do Código de Processo Penal.
+Inadmitido o recurso especial, houve a interposição do respectivo agravo.
+Nesta Corte Superior, conheceu-se do agravo para não conhecer do recurso especial, em decorrência da incidência da Súmula n. 7/STJ.
+Daí a interposição deste agravo regimental, no qual o recorrente sustenta que não pretende o reexame de fatos, tendo em vista que os fatos se mostram incontroversos no processo.
+Alega que "a condenação de THIAGO HENRIQUE DA SILVA foi fundamentada exclusivamente nos elementos informativos colhidos na investigação, baseados em uma confissão extrajudicial inadmissível, sem qualquer respaldo probatório colhido sob o contraditório judicial, contrariando, portanto, a disposição expressa do art. 155 e do art. 199, ambos do Código de Processo Penal" (e-STJ fl. 588)
+Ao final, requer o provimento do agravo regimental para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. No caso dos autos, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de tráfico de drogas, ante o conjunto fático-probatório acostado aos autos.
+2. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a absolver o agravante, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+De fato, no caso, o Tribunal de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de tráfico ilícito de entorpecentes.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 319/321 ):
+Em contraponto, exsurgem os depoimentos dos policiais militares Fabiano e Wilyan que reportaram, em uníssono, acerca da atuação (cf. mídia inserta nos autos digitais). No dia dos fatos, estavam em patrulhamento e ao passarem pelo local do ocorrido, conhecido como ponto de tráfico ilícito de entorpecentes, avistaram dois indivíduos que fugiram ao visualizarem a viatura, mas Diego foi detido; Thiago entrou na residência e pulou o muro dos fundos, conseguindo fugir. Realizada busca pessoal em Diego, foram apreendidos 29 (vinte e nove) pinos de cocaína e dinheiro. No local da abordagem, apreenderam uma carteira plástica contendo comprovante bancário em nome de Thiago Henrique e um telefone celular; Diego confirmou que tais bens pertenciam a Thiago e que ele adquirira os entorpecentes das mãos dele. O policial Fabiano descreveu Thiago como indivíduo branco, tatuagem em uma das pernas, cabelo claro; o policial Wilyan, por sua vez, descreveu Thiago de estatura alta, pele mais clara, tatuagem na perna, reconhecendo Thiago em audiência. Segundo Wilyan, distavam 30 metros do acusado.
+Repise-se que o depoimento prestado por policiais militares, urge alvitrar, porque agentes públicos forçados a obrar no estreito campo da legalidade, goza de inequívocas presunções de veracidade e legitimidade, e não pode ser infirmado por meras ilações suscitadas pelo prejudicado. A dúvida deve vir calcada em elementos sólidos, ausentes na espécie. É, afinal, como tem decidido esta Egrégia Corte, conforme o aresto abaixo colacionado:
+ ..
+Tais relatos, desdobrados e prestados em uníssono, assumem valioso elemento de convicção, e não foram infirmados pela defesa.
+Essa a prova oral aquilatada nos autos. E não se prospecta, em resumo, qualquer senão nos informes em destaque, muito menos deliberada postura incriminadora daqueles que não disporiam de motivos a fazê-lo.
+E isso, no geral, foi bem aquilatado na origem.
+No aspecto, os dados da apreensão falam por si. Em patrulhamento de rotina, em local conhecido como ponto de tráfico, os policiais militares surpreenderam o comparsa do réu com 29 porções de cocaína e 01 porção petrificada da mesma droga, além de dinheiro (24,6g cf. laudo de contatação de fls. 29/30 e laudo de exame químico-toxicológico de 115/120) já parcelados aptos, portanto, à pronta disseminação, a deixar bem evidenciada a prática da traficância. Afora isso, conforme declinaram os captores, o comparsa afirmou que a droga pertencia ao acusado.
+Ademais, o laudo pericial de fls. 49/57, referente à extração e análise do aparelho celular pertencente a Thiago atesta a existência de fotografias referente à anotações em folhas de caderno, dinheiro em notas diversas, balança de precisão e cigarro artesanal, tudo a demonstrar a prática da narcotraficância.
+ale lembrar que, em faltas do jaez, há que se conferir prestígio àqueles que, ao menos aparentemente (e à Defesa cumpria dispor o inverso), desempenham um múnus público, em confronto com adversidades locais. Seria ilógico conceber, do contrário, que o Estado-Polícia tendesse a coibir a marginalidade com imposturas, mormente sem qualquer justificativa plausível a tanto.
+Essa a premissa que se tem em conta e que pode ser anuviada por provas diversas, das quais a parte deve dispor.
+Conforme consignado na decisão guerreada, considerei que a condenação do agravante foi devidamente fundamentada pelas provas dos autos.
+Deve, ainda, ser destacado que o édito condenatório fundamentou-se nas apreensões realizadas pelas autoridades policiais, além da perícia realizada no aparelho de celular do réu, evidenciando a prática do comércio de drogas.
+Desse modo, conforme consignado na decisão agravada, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. APRESENTAÇÃO DE RÉPLICA DO MINISTÉRIO PÚBLICO À DEFESA PRÉVIA. NULIDADE NÃO DECRETADA. AUSÊNCIA DE PREJUÍZO. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. CAUSA DE AUMENTO PREVISTA NO ART. 40, III, DA LEI DE DROGAS MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, não há como reconhecer a nulidade alegada pela defesa, uma vez que a manifestação do Ministério Público não lhe trouxe qualquer prejuízo. Aliás, consonante jurisprudência desta Corte Superior, "O direito ao órgão acusador de réplica às respostas dos denunciados deve ser assegurado, especialmente quando suscitadas questões que, se acolhidas, poderão impedir o prosseguimento da ação penal. Desse modo, se estará prestigiando o princípio constitucional do contraditório (art. 5º, LV, CF), que garante aos litigantes, e não apenas à defesa, a efetiva participação na instrução do processo" (RHC n. 53.118/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 22/9/2017).
+2. No tocante ao pleito de absolvição do réu, em razão da insuficiência de provas, a instância ordinária, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). Rever esse entendimento implica o reexame do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+3. Quanto à causa de aumento do art. 40, III, da Lei de Drogas, o Tribunal a quo assentou que "o delito foi praticado nas proximidades dos estabelecimentos de ensino Colégio Adventista de Ribeirão Preto e EMEI Padre Emílio Jarbinet". Assim, uma vez demonstrado que o crime de tráfico de drogas foi perpetrado nas imediações ou nas proximidades de escolas, deve ser mantida a incidência da majorante em questão.
+4. Agravo regimental não provido. (AgRg no REsp n. 1.893.579/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022, grifei.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. OFENSA AO PRINCÍPIO DA CORRELAÇÃO. NÃO OCORRÊNCIA. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. RESTITUIÇÃO DO VEÍCULO APREENDIDO. APLICAÇÃO DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O fato de o órgão acusador ter descrito substância entorpecente diversa da que restou constatada no laudo pericial não descaracteriza o delito de tráfico ilícito de entorpecentes, imputado ao agravante. Isso porque, a elementar do delito em questão, trata-se de "drogas" (substância entorpecente), devidamente descrita na peça acusatória, circunstância que não se mostra penalmente relevante para romper a correlação exigida entre a acusação e a sentença condenatória.
+2. Concluindo o Tribunal pela presença da materialidade e autoria delitiva, torna-se incabível a desconstituição do entendimento a fim de acolher a pretensão de absolvição criminal, ante a necessidade do reexame do conjunto fático-probatório dos autos, vedado pela Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+3. A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de restituir o veículo apreendido, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+4. Agravo regimental desprovido. (AgRg no AgRg no AREsp n. 2.000.602/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022, grifei .)
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
