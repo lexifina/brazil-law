@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de JESLEY ALEXANDRE LUCIANO, tendo como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, em virtude do julgamento do habeas corpus criminal nº 1.0000.25.033842-3/000.
+Consta dos autos que o paciente se encontra em cumprimento de pena, estabelecida em 07 (sete) anos e 02 (dois) meses, tendo cumprido 05 (cinco) anos, 04 (quatro) meses e 09 (nove) dias, atualmente em regime aberto, sendo-lhe concedida a progressão de regime.
+Na presente impetração, a defesa busca a concessão de indulto ao paciente previsto no Decreto nº 11.846/2023, alegando que todos os requisitos estão preenchidos.
+Argumenta que, "Conforme pode-se observar no relatório acostado aos presentes autos, referente à situação executória de sua pena, é possível constatar que o sentenciado não é reincidente, nem mesmo é condenado por exercer comando de organização criminosa, o que deixa claro o preenchimento dos requisitos legais. Vale lembrar que os delitos pelo qual o acusado foi condenado também não possuem caráter hediondo ou equiparado, tampouco estão previstos no rol do art. 1º do decreto que instituiu o indulto, razão pela qual não há nenhum fator impeditivo para a concessão do indulto" (fl. 6).
+Requer "diretamente a ordem de indulto, com a consequente extinção da pena privativa de liberdade e da multa aplicada, diante do preenchimento inequívoco dos requisitos legais, conforme previsão no Decreto n. 11.846/2023" (fl. 9).
+Informações, às fls. 64-71 e 72-1.092.
+O MPF oficiou pelo não conhecimento do habeas corpus, às fls. 1.096-1.098.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração.
+Tendo em vista a eventual possibilidade de concessão da ordem de ofício, na forma do §2º do art. 654 do Código de Processo Penal, transcrevo a ementa do acórdão que apreciou o habeas corpus criminal n. 0000.25.033842-3/000 (fl. 39):
+HABEAS CORPUS  AUTORIZAÇÃO PARA VISITA FAMILIAR DE CRIANÇA  MATÉRIA AFETA À EXECUÇÃO PENAL  VIA INADEQUADA  VERIFICAÇÃO.
+Não se admite Habeas Corpus em substituição ao recurso adequado, ressalvados os casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Considerando que a tese apresentada na presente impetração não foi previamente submetida ao Tribunal de Justiça do Estado de Minas Gerais, o Superior Tribunal de Justiça fica impedido de apreciar a matéria, sob pena de incorrer em indevida supressão de instância.
+A esse respeito, cito o seguinte julgado:
+ ..  A alegação no sentido de que as provas remanescentes de autoria são apenas extrajudiciais e violam o disposto no art. 155 do CPP também não pode ser conhecida por esta Corte Superior, porquanto não submetida ao crivo das instâncias ordinárias, o que mais uma vez revela indevida supressão de instância.  ..  (AgRg no AgRg no HC n. 845.383/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/9/2023, DJe de 8/9/2023.)
+De toda sorte, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Isso porque o acórdão ainda bem destacou o caso concreto (fls. 39-44):
+Em outras palavras, o Habeas Corpus, em substituição do recurso próprio, só poderá ser analisado se constatado, de plano, manifesta ilegalidade que implique ofensa ao direito de liberdade do paciente, o que não se verifica no presente caso.
+Ademais, ao prestar informações, a autoridade apontada coatora consignou que:
+"Atendendo ao oficio recebido na data 10.02.2025, tenho a honra de me dirigir a Vossa Excelência, para prestar os seguintes esclarecimentos: Conforme consta do sequencial 482.1, o representante do Ministério Público ao ser intimado para manifestar acerca do pedido da Defesa de indulto requereu diligências, até mesmo porque consta dos autos juntada de Boletim de Ocorrência com suposta prática de falta grave do sentenciado. Em 13.12.2024, a defesa novamente requereu o indulto, estando o feito aguardando novo parecer ministerial para posterior conclusão. Por fim, informa que o reeducando descumpriu as condições do regime domiciliar, ausentando-se de sua residência em horário não permitido (seq. 397.1), requerendo o Ministério Público a designação de audiência de justificação. O feito encontra-se conclusos para designação de audiência de justificação, bem como parecer ministerial quanto ao novo-pedido de indulto. Instruo o presente com cópia integral dos autos".
+Observa-se, assim, que no presente caso, pretende o paciente, em verdade, utilizar o presente writ como sucedâneo recursal, a fim de que lhe seja concedida as benesses almejadas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
