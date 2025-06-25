@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado por Athena - Comércio de Combustíveis Ltda. com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 417/418):
+APELAÇÃO CÍVEL. TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. LITISPENDÊNCIA. INOCORRÊNCIA. NECESSÁRIA A IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. AÇÕES PROPOSTAS PELA APELADA QUE POSSUEM CAUSA DE PEDIR REMOTA DIVERSA. ALEGAÇÃO DE PREVENÇÃO DA JUSTIÇA FEDERAL QUE TAMBÉM DEVE SER REJEITADA. REUNIÃO DE AÇÕES QUE É VEDADA QUANDO IMPLICAR ALTERAÇÃO DE COMPETÊNCIA ABSOLUTA. ENTENDIMENTO DO STJ. ESTABILIZAÇÃO DA TUTELA ANTECIPADA. IMPOSSIBILIDADE. RÉ QUE APRESENTOU CONTESTAÇÃO IMPUGNANDO A TUTELA DEFERIDA, BEM COMO OS FUNDAMENTOS APRESENTADOS PELA AUTORA. INTERPRETAÇÃO DO ARTIGO 304 DO CÓDIGO DE PROCESSO CIVIL. INSURGÊNCIA EM FACE DA TUTELA QUE NÃO SE LIMITA SOMENTE A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. PROCESSO QUE DEVE TER REGULAR PROSSEGUIMENTO, CONFORME PREVISTO PELO §1º DO ARTIGO 303 DO CPC. SENTENÇA ANULADA. ANÁLISE DO RECURSO ADESIVO PREJUDICADA. RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 452/455).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 304 do Código de Processo Civil, sob o argumento de que a contestação apresentada pela ré não impugnou a tutela concedida, não se prestando a obstaculizar a estabilização da medida.
+Traz julgados para demonstrar que ocorre a estabilização da tutela nas hipóteses em que apresentada somente a contestação.
+Foram ofertadas contrarrazões às fls. 508/524.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O tema em debate diz respeito à tutela antecipada em caráter antecedente, prevista no art. 303 do CPC, e à interpretação a ser dada ao art. 304 do CPC/2015, em ordem a definir se a apresentação de contestação pelo réu é capaz de coibir sua estabilização.
+O Tribunal de origem, ao apreciar a questão, concluiu que a contestação apresentada pela parte ré tem o mesmo efeito da interposição de agravo de instrumento, pois evidencia a oposição ao pedido da autora.
+Contudo, ao assim decidir, contrariou a jurisprudência desta Corte no sentido de que "A apresentação de contestação não tem o condão de afastar a preclusão decorrente da não utilização do instrumento processual adequado - o agravo de instrumento" (REsp n. 1.797.365/RS, relator Ministro Sérgio Kukina, relatora para acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2019, DJe de 22/10/2019).
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. TUTELA ANTECIPADA DEFERIDA EM CARÁTER ANTECEDENTE. AUSÊNCIA DE RECURSO PRÓPRIO. NECESSIDADE. ESTABILIZAÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. PROVIMENTO NEGADO.
+1. Nos termos do art. 304 do Código de Processo Civil, a tutela antecipada deferida em caráter antecedente se estabilizará quando não for interposto o respectivo recurso. Precedentes.
+2. Aplica-se a Súmula 83/STJ quando o acórdão recorrido encontra-se em harmonia com a jurisprudência firmada no Superior Tribunal de Justiça (STJ).
+3. A impugnação da incidência da Súmula 83/STJ exige a apresentação de precedentes mais recentes deste Tribunal em oposição ao entendimento adotado ou a demonstração de que os precedentes citados não se aplicam ao caso concreto, o que não ocorreu.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.040.096/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/5/2024, DJe de 20/5/2024.)
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO ADMINISTRATIVO. EXECUÇÃO DE OBRA PÚBLICA. DECISÃO QUE INDEFERIU A ANTECIPAÇÃO DE TUTELA. VÍCIO DE FUNDAMENTAÇÃO. AUSÊNCIA. DECISÃO JUDICIAL EXARADA COM BASE EM COGNIÇÃO SUMÁRIA. DESCABIMENTO DO APELO ESPECIAL. SÚMULAS 7/STJ E 735/STF.
+1. Deve-se afastar a alegativa de afronta aos arts. 489, § 1º, e 1022 do CPC quando o acórdão recorrido utiliza-se de fundamentação suficiente para a solução da controvérsia.
+2. No caso, as instâncias ordinárias indeferiram o pedido liminar de rescisão do contrato administrativo, haja vista o regramento contido no art. 79 da Lei n. 8.666/1993, bem como a necessidade de dilação probatória.
+3. De acordo com a jurisprudência do STJ, a verificação dos requisitos para a concessão da medida liminar de natureza cautelar ou antecipatória dos efeitos da tutela consiste em matéria de fato e de caráter precário, sendo defesa a análise em recurso especial, nos termos preconizados nas Súmulas 7 e 735 do STF.
+4. A orientação contida na Súmula 735/STF permanece hígida quanto aos provimentos jurisdicionais fundamentados em juízo de cognição sumária, mesmo após a vigência do CPC/2015. 5. A estabilização da tutela concedida em caráter antecedente pressupõe a ausência de impugnação da decisão que deferiu a providência requerida com base no art. 303 do CPC e, por conseguinte, a extinção do processo, com resolução do mérito, consoante disposto no art. 304, § 1º, do CPC/2015. No caso, não se cogita da estabilização do provimento antecipatório, seja porque a parte autora não se utilizou do procedimento previsto no art. 303 do CPC/2015, seja porque a medida liminar não foi sequer deferida.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.457.801/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 1/10/2019, DJe de 7/10/2019.)
+Desta forma, o recurso merece acolhimento para restabelecer a sentença de primeiro grau que declarou a estabilidade da tutela antecipada concedida (art. 303, caput, do CPC) e julgou extinto o processo, conforme art. 304, § 1º, c/c o art. 485, X, ambos do CPC.
+ANTE O EXPOSTO, conheço e dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
+EMENTA
