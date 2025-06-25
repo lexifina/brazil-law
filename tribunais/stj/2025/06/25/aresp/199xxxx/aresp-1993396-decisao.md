@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por VALDEMIR AQUINO DE FREITAS, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que inadmitiu o recurso especial.
+O agravante foi condenado por infração ao art. 312, "caput" c/c o art. 327, §2º, ambos do Código Penal em concurso formal com o crime do art. 1º, V, da Lei nº 9.613/98, à pena de 09 (nove) anos, 4 (quatro) meses de reclusão e 345 dias-multa (fls. 246).
+O Tribunal deu parcial provimento ao apelo defensivo para redimensionar a pena para 04 (quatro) anos e 4 (quatro) meses de reclusão em regime semi-aberto e 80 dias-multa e absolvê-lo do crime de lavagem de dinheiro (fls. 269).
+Rejeitados os embargos de declaração (fls. 223).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar negativa vigência ao art. 5º, XL, da Constituição Federal e art. 109, VI, art. 110, §1º e o art. 117, IV todos do Código Penal c.c. a Lei nº 12.234/2010 (fls. 236).
+O recurso foi inadmitido na origem, à consideração de que "olvidou em apontar qual(is) o(s) dispositivo(s) infraconstitucional(is) que, porventura, o referido julgado tenha violado. Em verdade, extrai-se de suas razões recursais, a alegação de que o acórdão vergastado não fez prevalecer o preceituado no art. 5º, XL, da Constituição Federal, questão essa que não pode ser examinada em sede de Recurso Especial, mas, sim, através de Recurso Extraordinário, a teor do disposto no art. 102, III, "a" da CF." (fls. 137-138)
+Nas razões do agravo em recurso especial, a defesa sustenta o preenchimento dos requisitos para a admissão do recurso especial.(fls. 33-40).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 4989-5004).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O recurso especial, porém, não pode ser conhecido.
+Considerando que o presente recurso tem fundamento em suposta contrariedade à lei federal, verifico deficiência na fundamentação do recurso, pois, a parte agravante se limitou a citar os referidos dispositivos de lei infraconstitucional tidos por violados, sem, contudo, especificar de forma clara e específica, como teria havido violação à legislação federal, deixando de atender o previsto no artigo 1.029 do CPC, o qual dispõe que o recurso especial conterá: "I - a exposição do fato e do direito; II - a demonstração do cabimento do recurso interposto; III - as razões do pedido de reforma ou de invalidação da decisão recorrida".
+O apelo nobre, portanto, esbarra na Súmula 284 do STF, aplicada por analogia, que preceitua: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Conforme, a jurisprudência consolidada desta Corte, a superação do óbice da Súmula 284/STF, exige que o recorrente faça a comparação entre o que estabelece a norma e os argumentos apresentados nas razões do recurso, a fim de evidenciar a correlação jurídica entre o fato e a norma legal. Não é suficiente, portanto, menção superficial às leis federais, nem a simples exposição da interpretação jurídica que o recorrente considera correta.
+Ademais, como se vê, há fundamento constitucional autônomo no acórdão recorrido e não foi interposto recurso extraordinário dirigido ao Supremo Tribunal Federal, o que impede o conhecimento do recurso nos termos do entendimento consolidado na Súmula 126 do Superior Tribunal de Justiça:
+"É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
