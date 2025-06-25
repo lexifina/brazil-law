@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJDFT.
+Recurso especial interposto em: 27/5/2024.
+Concluso ao gabinete em: 17/2/2025.
+Ação: de execução de título extrajudicial, ajuizada pela parte recorrente em desfavor de ANA CRISTINA DE ASSIS ALCANTARA, ora recorrida.
+Decisão interlocutória: "determinou a liberação da penhora incidente sobre a pensão da executada e suspendeu o curso da execução" (e-STJ fl. 103).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora recorrente, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL E CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. AÇÃO. PENHORA. PENSÃO. DÍVIDA NÃO ALIMENTAR. CINQUENTA SALÁRIOS-MÍNIMOS. VALOR INFERIOR. IMPOSSIBILIDADE. DIGNIDADE. DEVEDOR. GARANTIA. PROVA. ÔNUS. CREDOR. 1. Há previsão expressa das hipóteses em que é possível a penhora salarial no Código de Processo Civil. A regra da impenhorabilidade é mitigada pelo disposto no art. 833, § 2º, do Código de Processo Civil, segundo o qual é admitida a penhora de verba remuneratória para pagamento de dívida de natureza alimentar, bem como a penhora das importâncias salariais excedentes a cinquenta (50) salários-mínimos. 2. Não há que se falar em retenção de percentual do salário do devedor que não excede cinquenta (50) salários-mínimos para adimplemento de dívida que não ostenta caráter alimentar. 3. A relativização da impenhorabilidade das verbas remuneratórias possui caráter excepcional e só poderá ocorrer quando restarem inviabilizados outros meios de garantir a quitação do débito e for garantida a dignidade do devedor e de sua família. 4. É ônus do credor carrear aos autos lastro probatório mínimo que indique que a pretensão de penhora não afeta o sustento do devedor. 5. Agravo de instrumento desprovido. (e-STJ fls. 101-102)
+Embargos de declaração: opostos pela parte recorrente, foram rejeitados.
+Recurso especial: aponta, além da existência de dissídio jurisprudencial, violação ao art. 833, IV, do CPC, sustentando, em síntese, que o entendimento do TJDFT contrariou a jurisprudência do STJ sobre a possibilidade de penhora de percentual dos proventos, desde que não comprometa a dignidade do devedor.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Antonio Carlos Martins Soares deixou de se manifestar acerca do mérito recursal, pugnando pelo prosseguimento do processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Esta Corte Superior entende que "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capazes de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, Corte Especial, DJe de 16/10/2018).
+Nesse sentido: AgInt no AREsp 2.732.595/SP, 3ª Turma, DJEN de 20/2/2025; AgInt no REsp 1.987.404/SP, 3ª Turma, DJe de 23/3/2023; AgInt no AREsp 2.477.842/DF, 3ª Turma, DJe de 22/8/2024; AgInt no AREsp 2.537.382/DF, 4ª Turma, DJe de 26/6/2024; AgInt no REsp 2.067.117/PR, 3ª Turma, DJe de 15/12/2023; AgInt nos EDcl no REsp 1.993.457/SP, 3ª Turma, DJe de 21/9/2022; AgInt no REsp 1.866.064/SP, 4ª Turma, DJe de 16/12/2021; AgInt no REsp 1.948.607/AC, 3ª Turma, DJe de 1/12/2021; AgInt no REsp 1.886.436/DF, 4ª Turma, DJe de 21/06/2021; AgInt no AREsp 1.773.483/MG, 4ª Turma, DJe de 7/6/2021; AgInt no REsp 1.906.957/SP, 3ª Turma, DJe de 25/3/2021; e AgInt no AgInt no AREsp 1.645.585/DF, 3ª Turma, DJe de 24/11/2020.
+Nessa mesma linha, a Corte Especial fixou a tese segundo a qual "admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família" (EREsp 1.874.222/DF, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023).
+No particular, o TJDFT consignou que:
+O Juízo de Primeiro Grau determinou a liberação da penhora incidente sobre a pensão da executada, ora agravada, e suspendeu o curso da ação de execução de título extrajudicial originária (id 168820072 dos autos originários).
+A agravante pede o provimento do agravo de instrumento para determinar a penhora de sete por cento (7%) das verbas de pensão da agravada.
+(..)
+O processo originário decorre de contrato de empréstimo com garantia hipotecária pactuado pelas partes. O débito exequendo corresponde ao valor atualizado de R$ 563.566,57 (quinhentos e sessenta e três mil quinhentos e sessenta e seis reais e cinquenta e sete centavos) (id 162893253 dos autos originários). Não consiste, portanto, em dívida de natureza alimentar.
+A penhora requerida tampouco incide sobre importância excedente a cinquenta (50) salários-mínimos. A agravante afirma que a agravada é pensionista da Câmara dos Deputados e aufere o valor mensal de R$ 26.059,23 (vinte e seis mil e cinquenta e nove reais e vinte e três centavos).
+A análise não exauriente, própria deste momento recursal, mostra que o caso em análise não se enquadra nas hipóteses legais de exceção da impenhorabilidade das verbas remuneratórias.
+(..)
+A agravante não apresentou documento que corrobore a pretensão de penhora de percentual da pensão da agravada, principalmente porque a simples análise da quantia mensal por ela auferida não permite a conclusão de que a sua dignidade e de seu núcleo familiar estão garantidas.
+A aferição sobre a real capacidade econômica do executado, bem como a possibilidade de se penhorar percentual da sua remuneração, sem afrontar sua dignidade, demanda a análise da existência e natureza de outros compromissos assumidos pelo devedor, como, por exemplo, despesas com tratamento de saúde seu ou de um familiar ou débitos fiscais, o que não restou demonstrado.
+O caso em análise não se amolda àquelas situações excepcionais consideradas pela jurisprudência que autorizam a mitigação da impenhorabilidade dos proventos auferidos pelo devedor, principalmente em razão da ausência de provas, por parte da exequente, de que a penhora parcial da pensão recebida pela executada não comprometerá a sua subsistência digna. (e-STJ fls. 114-118, grifou-se)
+Logo, o acórdão recorrido, alinhou-se ao entendimento do STJ, não merecendo, portanto, ser reformado.
+Aplica-se, na espécie, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "o caso em análise não se enquadra nas hipóteses legais de exceção da impenhorabilidade das verbas remuneratórias" (e-STJ fl. 115), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, nos termos do artigo 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE RENDIMENTOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. A regra geral da impenhorabilidade de salários, prevista no Código de Processo Civil, pode ser excepcionada quando for preservado percentual capaz de dar amparo à dignidade do devedor e de sua família. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
