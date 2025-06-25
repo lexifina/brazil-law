@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAOLA LESSA VIDAL, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5015230-17.2019.8.21.00119).
+Em síntese, aduz que a paciente foi absolvida da imputação do crime previsto no art. 250 do Código Penal em primeira instância. Interposta apelação ministerial, o Tribunal de origem deu provimento ao recurso e condenou a paciente. Alega negativa de vigência ao art. 250 do CP, artigos 158, 173 e 386, II e VII, do CPP. Aduz que para materialidade delitiva é necessário perícia ou provas indiretas como foto, não bastando laudo indireto e prova testemunhal.
+Pleiteia em liminar a suspensão da execução do acórdão a fim de impedir a execução da pena. Ao final, pleiteia a concessão da ordem para que o acórdão seja cassado e o paciente absolvida nos termos do art. 386, II e VII, do CPP.
+É o relatório.
+DECIDO.
+Em tempos de habeas corpus de número um milhão impetrado nesta Colenda Corte, cujo relator é o Ministro Ribeiro Dantas, discute-se a eficácia desse remédio constitucional e a real necessidade de se restringi-lo aos requisitos constitucionais e legais em relação ao direito de ir, vir e ficar, ou seja, à liberdade de locomoção, ou então aceitá-lo como substituto de outro recurso ou ação cabível.
+Conforme exposto pelo Ministro Rogerio Schietti Cruz nos autos do HC n. 1.002.968:
+"Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico." (grifamos)
+Nesse contexto, verifica-se que o habeas corpus em tela foi impetrado contra acórdão proferido em 22/05/2025. A petição não faz qualquer menção ao cabimento do remédio constitucional na hipótese, se houve recurso especial ou trânsito em julgado da condenação. Ainda, observa-se que o acórdão foi proferido por maioria (fls. 25/26) e não consta da petição informações sobre oposição de embargos infringentes de forma que não se verifica o requisito do exaurimento da instância.
+Fato é que a "Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal." (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+No caso, não se verifica flagrante ilegalidade.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
