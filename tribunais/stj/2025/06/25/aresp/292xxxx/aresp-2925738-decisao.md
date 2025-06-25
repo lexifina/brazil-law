@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ EDUARDO SILVEIRA JÚNIOR contra decisão que inadmitiu recurso especial diante de sua deserção.
+Alega o agravante que o pedido de concessão do benefício da assistência judiciária gratuita pode ser formulado em qualquer tempo e em qualquer grau de jurisdição, conforme precedentes do STJ.
+Sustenta que, embora o pedido de assistência judiciária gratuita não tenha sido apreciado pelo Juízo a quo, foi apresentada a declaração de hipossuficiência, justificando a concessão do benefício de assistência judiciária.
+Requer a concessão do benefício da justiça gratuita, o conhecimento e o provimento do recurso, com a admissão e o julgamento do recurso especial, assim como a reforma da decisão para conceder a tutela jurisdicional pretendida.
+É o relatório. Decido.
+Verifica-se dos autos que a parte agravante litiga sob o pálio da assistência judiciária gratuita (fl. 40), razão pela qual está dispensado o recolhimento do preparo.
+Prossigo, pois, ao exame de admissibilidade do recurso especial.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de monitória, em que a parte autora pleiteou a constituição de título executivo judicial para a cobrança de notas promissórias, cujo valor da causa foi fixado em R$ 42.477,00.
+O julgado foi assim ementado (fl. 181):
+Apelação - Não conhecimento por intempestividade - Pretensão de reconhecimento de nulidade da intimação por erro gráfico no nome do patrono -Troca de uma única letra na publicação que não impede a identificação do processo, das partes e do defensor, notadamente por constar o número correto de sua OAB - Precedentes do STJ - Preliminar arguida em contrarrazões que merece ser acolhida - Recurso não conhecido.
+Nas razões do recurso especial, o ora agravante aponta violação do art. 272, § 2º, do CPC.
+Alega que a intimação foi realizada com erro na grafia do nome do advogado e no nome da sociedade de advogados sem pedido prévio, sendo, portanto, nula.
+Requer o provimento do recurso para que se anule o acórdão recorrido e se determine novo julgamento da apelação, com a anterior intimação do recorrente.
+Passo, pois, à análise das proposições deduzidas.
+O recurso não merece prosperar.
+O Superior Tribunal de Justiça já esclareceu que a incorreção ou incompletude de nome atribuído a advogado em publicação, o qual pode ser identificado pelo número do seu registro na Ordem dos Advogados do Brasil, não acarreta a nulidade do ato processual quando houver outros elementos que viabilizem a identificação do processo, em atenção ao princípio da instrumentalidade das formas. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REGULARIDADE NA INTIMAÇÃO DE ADVOGADO. ERRO DE GRAFIA. SUPRESSÃO DO AGNOME "FILHO". POSSIBILIDADE DE IDENTIFICAÇÃO POR OUTRAS CIRCUNSTÂNCIAS. AUSÊNCIA DE PREJUÍZO. NULIDADE AFASTADA. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Na linha dos precedentes desta Corte, as irregularidades de publicação decorrentes de erro na grafia do nome do advogado não causam nulidade se não estiver configurado prejuízo.
+3. No caso dos autos, o Tribunal estadual foi expresso em afirmar que não houve prejuízo, pois indicado corretamente o número do processo, o nome das partes e a OAB do advogado, tendo sido suprimido apenas o agnome "filho".
+4. Impossível, assim, afirmar que o ato intimatório, apesar da irregularidade formal, não cumpriu sua finalidade sem reexaminar fatos e provas, o que veda a Súmula n.º 7 do STJ.
+5. Agravo interno não provido. (AgInt no REsp n. 1.975.485/AC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+No mesmo sentido: AgInt no REsp n. 1.975.491/AM, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJEN de 5/12/2024; AgInt no AREsp n. 2.061.968/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022; AgInt no AREsp n. 1.624.352/PB, Terceira Turma, julgado em 14/9/2020, DJe de 17/9/2020; e AgInt no AREsp n. 83.532/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/2/2019, DJe de 12/2/2019.
+A Corte estadual, em sintonia com esse entendimento, não conheceu do recurso de apelação devido à sua intempestividade. Considerou que a intimação da sentença foi válida, apesar do erro gráfico no nome do advogado, pois o núm ero da OAB estava correto e permitia a identificação do processo, das partes e do defensor. Consignou ainda que não houve pedido de intimação exclusiva em nome de nenhum dos patronos constituídos, conforme permitido pelo art. 272, § 2º, do CPC. Confira-se (fls. 182-185, destaquei):
+O recurso interposto pelo réu não comporta ser conhecido por intempestividade, merecendo acolhida a preliminar arguida em contrarrazões.
+No caso dos autos, conforme se observa às fls. 54/59, não houve pedido de intimação exclusiva em nome de nenhum dos patronos constituídos, conforme permitido pelo art. 272, §2º, do CPC, portanto, a intimação feita somente em nome de um dos advogados constituídos é plenamente válida.
+A procuração juntada à fl. 60, aponta os advogados Leonardo Latorraca, OAB/SP 251.619 e Bruno Vinicius Vieira de Andrade Pandolfi, OAB/SP 399.574, tendo a sentença sido publicada no DJe em nome do último patrono, conforme fls. 136/137 e 138/139. E, embora a grafia do sobrenome esteja errônea, já que constou Panfolfi, ao invés de Pandolfi, constou o número correto de sua OAB, além do nome das partes, número do processo, tipo de ação, sendo tais dados suficientes permitindo a identificação.
+Aliás, é sabido que a intimação das publicações no diário oficial, considera o número da OAB que, no caso estava correta, além da AASP se basear também pelo número do registro profissional para tal finalidade.
+Ora, não se pode permitir que mero erro de digitação com a troca de uma letra ("f" pelo "d") na grafia do último sobrenome, impeça a identificação, restando nítida a intenção do apelante em tentar justificar a intempestividade na interposição do recurso.
+De outro lado, o fato de ter sido cadastrado erroneamente no sistema SAJ o patrono Bruno Vinicius Vieira de Andrade Pandolfi como Sociedade de Advogados, conforme fl. 152, não houve interferência de tal equívoco na publicação da sentença, eis que constou apenas o nome do patrono e não de sociedade de advogados (fl. 136).
+Portanto, o que se observa é que a insignificante troca de uma letra ("f" pelo "d") na grafia do último sobrenome não impediu a identificação do processo e do patrono constituído, não havendo falar em nulidade da intimação.
+ ..
+A apelação em tela foi interposta no dia 15 de fevereiro de 2024, podendo-se observar, porém, que a r. sentença recorrida foi publicada no DJe do dia 22 de janeiro de 2024 (fls. 138/139), evidenciando, assim, que quando da interposição da apelação, já havia decorrido o prazo legal de 15 dias para sua interposição, que findou-se dia 14 de fevereiro de 2024 (considerando-se os feriados do carnaval).
+Portanto, diante da intempestividade na interposição do presente apelo, o recurso não merece conhecimento, restando acolhida a preliminar.
+Assim, o entendimento adotado no acórdão recorrido coincide com a jurisprudência consolidada nesta Corte, circunstância que atrai a incidência da Súmula n. 83 do STJ.
+Ademais, para concluir em sentido contrário e reconhecer a nulidade da publicação, como pretendido pela parte agravante, é necessário o reexame do conjunto probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
