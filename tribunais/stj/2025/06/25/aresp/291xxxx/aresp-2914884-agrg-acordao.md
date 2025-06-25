@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA A UM DOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente não atacou adequadamente um dos fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atraiu o óbice da Súmula n. 182/STJ. Com efeito, " é  entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescin dível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023, providência da qual não se desincumbiu o ora agravante.
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANTONIO CARLOS BERNARDO DA SILVA contra a decisão de e-STJ fls. 360/362, por meio da qual não conheci do agravo em recurso especial com fundamento na Súmula n. 182/STJ.
+Nesta oportunidade, sustenta a defesa não ser o caso de incidência do óbice da referida Súmula n. 182/STJ, argumentando que " o  agravante não se limitou a afirmações genéricas, mas desenvolveu argumentação jurídica vinculada aos dispositivos legais violados, com demonstração objetiva de como o acórdão recorrido contrariou os artigos 15 do CP e 619 do CPP. Assim, resta indevida a aplicação da Súmula 182/STJ, que exige ausência de impugnação específica, o que não se verifica no caso concreto" (e-STJ fls. 375/376).
+Requer, desta forma, o provimento do recurso a fim de, em última análise, conhecer do recurso especial e dar-lhe provimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA A UM DOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente não atacou adequadamente um dos fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atraiu o óbice da Súmula n. 182/STJ. Com efeito, " é  entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescin dível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023, providência da qual não se desincumbiu o ora agravante.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Pelo princípio da dialeticidade, o agravante tem o ônus de impugnar especificamente os fundamentos da decisão agravada, a fim de desconstituir o impedimento à cognição do recurso interposto.
+No caso, conforme asseverado na decisão monocrática ora combatida, a parte não atacou adequadamente um dos fundamentos do provimento jurisdicional que negou seguimento ao recurso especial (incidência da Súmula n. 7/STJ).
+Isso, porque, conforme consignei anteriormente, o afastamento do óbice da referida Súmula demanda objetivo cotejo entre as razões de decidir do acórdão hostilizado e as teses levantadas no recurso especial, a fim de efetivamente demonstrar que a controvérsia levantada nas razões do apelo nobre não demandaria reexame de fatos e provas contidos no caderno processual.
+Com efeito, " é  entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023), providência da qual não se desincumbiu o ora agravante.
+Desse modo, compreendo que a incidência da Súmula n. 182/STJ foi mesmo medida de rigor.
+Ainda que assim não fosse, não seria o caso de se conhecer do recurso especial.
+Isso, porque alegou a defesa, nas razões do recurso especial, com base no prontuário médico realizado e em depoimento de testemunha, que "não ficou comprovado de forma inequívoca que o recorrente tinha a intenção de matar (animus necandi)", já que " o  fato de a vítima ter sido atingida por apenas um tiro e de o recorrente não ter prosseguido com a agressão, apesar de ter condições de fazê-lo, sugere que o mesmo não tinha o intuito de matar" (e-STJ fls. 264/265).
+No entanto, o Tribunal de origem, ao apreciar o recurso em sentido estrito e posteriormente os embargos de declaração opostos pela defesa, consignou que "não há como acolher o pedido de desclassificação da conduta para o crime previsto no art. 129 do CP, pois não comprovado de forma inconteste a ausência de animus necandi do recorrente" (e-STJ fl. 253), bem como que não havia omissão a ser sanada no acórdão embargado, haja vista que a análise do pleito defensivo competiria ao Conselho de Sentença (e-STJ fl. 287).
+Assim, ao contrário do que alegou a defesa, não há que se falar em mera revaloração de fatos incontroversos contidos nos acórdãos hostilizados, sendo nítida a pretensão de ver reexaminado o acervo fático-probatório dos autos para reversão das conclusões obtidas pela instância ordinária, providência incompatível com esta via excepcional, conforme preconiza a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
