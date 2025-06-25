@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo, interposto por EMPRESA DE TRENS URBANOS DE PORTO ALEGRE S/A - TRENSURB, da decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação n. 5016881-67.2019.4.04.7108.
+Na origem, cuida-se de ação de indenização proposta por GERTRUDE VON KNOBLAUCH, na qual afirmou que houve desapropriação indireta do seu terreno pela recorrente e a desvalorização da área remanescente, objetivando o recebimento da indenização, acrescida de juros compensatórios e correção monetária, em face da empresa ora agravante.
+Foi proferida sentença para julgar os pedidos procedentes a fim de declarar incorporada a área ao patrimônio da TRENSURB e condená-la ao pagamento de indenização por desapropriação indireta.
+O TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no julgamento da Apelação n. 5016881-67.2019.4.04.7108/RS, negou provimento, em acórdão cuja ementa é a seguir transcrita (fl. 575):
+DESAPROPRIAÇÃO INDIRETA. JUSTA INDENIZAÇÃO. JUROS COMPENSATÓRIOS. HONORÁRIOS ADVOCATÍCIOS. ART. 27, §§ 1º E 3º, DO DL 3.365/1941.
+I. Em relação ao direito à indenização e quantum indenizatório, o laudo pericial mostra-se irretocável, não restando evidenciada flagrante irregularidade, hábil a desqualificá-lo.
+II. Em relação ao momento em que deve ocorrer a apuração do quantum indenizatório, tem-se como correta a adoção de valor contemporâneo ao da avaliação feita pelo perito judicial, sendo irrelevante a data em que ocorreu a imissão na posse ou aquela em que se deu a vistoria do expropriante ou esbulho para tanto.
+III. A incidência dos juros compensatórios deve ocorrer se houver a imissão na posse e depende da prova da utilização do bem. Portanto, demonstrado no laudo pericial que não havia exploração econômica comercial ou agrícola, descabe a incidência de juros compensatórios.
+IV. Nos termos do § 1º do artigo 27 do Decreto-Lei nº 3.365/41 e conforme decidiu o STF no julgamento da ADI 2332, tratando-se de desapropriação, os honorários devem ser fixados nos parâmetros mínimo de 0,5% e máximo 5%.
+V. Os limites percentuais estabelecidos para os honorários advocatícios no art. 27, §§ 1º e 3º, do DL 3.365/1941, aplicam-se às desapropriações indiretas.
+Foram opostos embargos de declaração pelo ora agravante, os quais foram rejeitados (fl. 647).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente aponta violação dos art. 212 da Lei n. 6.015/1976, 1.276, § 2º, do Código Civil, e 26 e 27, § 1º, do Decreto-lei n. 3.365/1941, pretendendo a reforma do acórdão para afastar a condenação ao pagamento de indenização e honorários advocatícios, alegando erros no registro do imóvel, abandono pela recorrida e a supervalorização indevida do terreno.
+Contrarrazões às fls. 674-682.
+O Tribunal a quo não admitiu o recurso especial, por considerar que a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos do enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nas razões do presente agravo em recurso especial, alega a parte agravante que a decisão aplicou indevidamente a Súmula n. 7 do STJ, pois a matéria recursal discutida no recurso especial interposto não corresponde ao mero reexame de matéria probatória, mas sim à violação de dispositivos legais.
+O Ministério Público Federal ofereceu parecer opinando pelo desprovimento do agravo (fl. 734).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+Do voto condutor do acórdão estrai-se o seguinte:
+Da desapropriação por Utilidade Pública
+No caso dos autos, houve a indevida apropriação de parte do imóvel da autora, ou seja, sem o devido procedimento legal, em virtude da construção de um viaduto pela TRENSURB com o objetivo de ligar a linha férrea à ponte do Rio dos Sinos.
+Nesse panorama, cumpre reconhecer o direito da parte autora à indenização da área desapropriada conforme determinado na origem.
+Cabe referir que a alegação da TRENSURB no sentido de que houve equívoco relativo às dimensões das matrículas, em face do desmembramento dos terrenos das matrículas 15.253 e 15.254 não prospera, porque são matrículas distintas e a desapropriação no presente processo tem por objeto o imóvel da matrícula 15.253, conforme ficou claro no laudo pericial às fls. 72/73. evento 3, CONTES3
+Já a Desapropriação indireta é o pedido de indenização por ocupação irregular de imóvel, tendo como requisito tratar-se de ocupação ilegal.
+O art. 927 do CPC dispõe o seguinte:
+"Art. 927. Incumbe ao autor provar:
+I - a sua posse;
+II - a turbação ou o esbulho praticado pelo réu;
+III - a data da turbação ou do esbulho;
+IV - a continuação da posse, embora turbada, na ação de manutenção; a perda da posse, na ação de reintegração."
+Do quantum indenizatório
+Sobre tal aspecto, tenho firmado entendimento no sentido de que, de regra, acolhe-se o laudo do perito oficial, sempre que não evidenciada flagrante irregularidade.
+Na hipótese dos autos, os laudos produzidos mostraram-se adequados à realidade, em estrita observância aos critérios pertinentes, não revelando, de pronto, qualquer equívoco em suas conclusões.
+Ressalte-se que o laudo pericial realizado mostra-se irretocável, tendo sido ressaltada a metodologia empregada, consistindo no Método Comparativo Direto de Dados de Mercado (MCDDM). evento 3, CONTES3
+Nesse sentido, mantenho as conclusões da sentença: evento 15, SENT1
+O laudo topográfico avaliou a área total do imóvel em R$ 3.162.580,00 (três milhões, cento e sessenta e dois mil quinhentos e oitenta reais) considerando o preço médio do metro quadrado em R$ 916,62 e a área remanescente do imóvel em R$ 1.773.029,84 (um milhão, setecentos e setenta e três mil vinte e nove reais e oitenta e quatro centavos).
+Concluiu, assim, que o valor da indenização pela área ocupada ( 1.714,22m2) atinge o montante de R$ 1.389.550,66 (um milhão, trezentos e oitenta e nove mil quinhentos e cinquenta reais e sessenta e seis centavos) na data da avaliação.
+Verifico, ainda, que o laudo pericial utilizou o método comparativo de dados de mercado (item 7 do laudo e anexo III - evento 03 - CONTEST3, p. 74 e 89), de modo que não prospera a irresignação da parte ré acerca do valor médio do metro quadrado da área desapropriada.
+Também foram levadas em consideração as particularidades do imóvel, bem como sua localização e liquidez no mercado imobiliário local. O método de cálculo utilizou a área total em seu valor original e o valor do metro quadrado da área remanescente, o que engloba, portanto, eventual (des)valorização da área remanescente. Por conseguinte, o pedido de indenização pela desvalorização foi apreciado em conjunto e obedeceu os parâmetros do art. 27 do DL 3.365/41.
+No caso concreto, a perícia não apontou desvalorização da área remanescente, mas ligeira valorização do valor do metro quadrado. Assim, considerando que não houve impugnação da parte autora acerca do laudo apresentado e estando o valor apurado em consonância embasado com valores de mercado, acolho o valor encontrado no laudo, por representar a justa indenização devida no presente caso.
+Ainda acerca da mensuração, é imprescindível destacar que a mais-valia da área remanescente não poderá, em regra, ser compensada com o montante fixado a título de indenização da parcela desapropriada do bem, sendo passível de exigência, se o caso, através de contribuição de melhoria.
+Excetuando-se situações excepcionais de valorização muito específica de um bem, não seria razoável exigir a valorização apenas do desapropriado, através compensação de valores com o montante da indenização, quando muitos proprietários, ainda que não atingidos pela obra pública, venham a ter também seus imóveis valorizados.
+ ..
+Assim, sobressai a validade da perícia efetuada no presente processo e acolhida pelo Juízo, sem restar evidenciado qualquer vício capaz de torná-la nula. Entendo, desta maneira, que o valor da indenização tomou por base critério justo e razoável, devendo ser mantida.
+Verifica-se que a Corte local, soberana na análise dos fatos e das provas, assentou o direito da parte autora à indenização, a ausência de equívoco em relação às dimensões da área desapropriada e a razoabilidade do valor da indenização.
+Nesse contexto, diante da fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o revolvimento fático-probatório da causa  a fim de verificar a regularidade do registro do imóvel, o alegado abandono do imóvel pela recorrida e a razoabilidade do valor da indenização  o que é vedado no âmbito do recurso especial, nos termos do entendimento consolidado na Súmula n. 7 do STJ.
+Como se sabe, é pacífico, nesta Casa, a compreensão de que "a análise em torno da necessidade de dilação probatória ou existência de prova pré-constituída é inviável nesta instância superior, por demandar reapreciação do conjunto fático nos termos da Súmula n. 7/STJ" (AgRg no AREsp n. 841.849/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/5/2016, DJe de 9/5/2016).
+Nesse mesmo sentido, a título ilustrativo:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. JUSTO VALOR. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. HONORÁRIOS DE ADVOGADO FIXADOS, PELO TRIBUNAL A QUO, SEM DEIXAR DELINEADAS, CONCRETAMENTE, TODAS AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 16/11/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de recursos de Apelação, interpostos por Pedro Fernandes Pimenta Neto, Dolores Perez Rodrigues Pimenta e pelo Estado de Pernambuco, em face de sentença que julgara parcialmente procedente ação de desapropriação, para expropriar, em favor do Estado de Pernambuco, imóvel situado no bairro de Santa Mônica, Camaragibe/PE, estipulando o valor da indenização em R$ 3.671.998,71 (três milhões, seiscentos e setenta e um mil, novecentos e noventa e oito reais e setenta e um centavos) e condenando o ente expropriante ao pagamento de honorários advocatícios, no percentual de 0,5% (meio por cento) sobre o valor da diferença entre a indenização e a oferta inicial, nos termos do art. 27, § 1º do Decreto-lei 3.365/41.
+III. O entendimento firmado pelo Tribunal a quo - quanto ao valor a ser fixado a título de indenização, em face dos laudos periciais juntados aos autos - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Na forma da jurisprudência do STJ, "a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte" (STJ, AgInt no AREsp 918.616/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/11/2016). No mesmo sentido: STJ, AgInt no REsp 1.518.515/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 05/12/2017. V. Em situações excepcionalíssimas, o STJ afasta a Súmula 7, para exercer juízo de valor sobre o quantum fixado a título de honorários advocatícios, com vistas a decidir se são eles irrisórios ou exorbitantes. Para isso, indispensável, todavia, que tenham sido delineadas concretamente, no acórdão recorrido, todas as circunstâncias a que se referem as alíneas do § 3º do art. 20 do CPC/73, o que não ocorreu, nos presentes autos. Incidência da Súmula 7/STJ.
+VI. Agravo interno improvido. (AgInt no AREsp n. 1.171.802/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 10/4/2018, DJe de 17/4/2018.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. ÁREA REMANESCENTE. DEPRECIAÇÃO. INDENIZAÇÃO DEVIDA. DESVALORIZAÇÃO. REVISÃO. SÚMULA 7 DO STJ.
+ ..
+2. De acordo com a jurisprudência desta Corte, é devida indenização pela
+limitação ao direito de propriedade decorrente de desapropriação de bem imóvel.
+3. Hipótese em que o Tribunal de origem consignou que a parte expropriada
+suportou prejuízo pela desapropriação promovida em seu imóvel, razão pela qual deve haver reparação econômica pela área remanescente que sofreu comprometimento em razão do ato expropriatório, sendo certo que a revisão de tal entendimento atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 948.951/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2018, DJe de 8/8/2018.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO, REVISÃO FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
