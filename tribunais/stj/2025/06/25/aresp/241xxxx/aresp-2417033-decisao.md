@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANO ELIAS DE OLIVEIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que inadmitiu recurso especial interposto contra o acórdão proferido nos autos da Apelação Criminal n. 0003447-31.2020.8.12.0019 (fls. 472/488).
+No recurso especial (fls. 495/502), o agravante sustenta violação ao art. 33, § 4º, da Lei n. 11.343/2006, argumentando que preenche todos os requisitos legais para a aplicação da causa de diminuição da pena. Alega ser primário, possuir bons antecedentes, não integrar organização criminosa nem se dedicar a atividades criminosas, sendo, portanto, indevido o afastamento da minorante com base exclusivamente na quantidade de droga apreendida (37,8 kg de maconha), na logística empregada e em presunções.
+O Ministério Público Federal opinou pelo não conhecimento e, se superado o óbice, pelo não provimento do recurso (fls. 580/591).
+É o relatório.
+O agravo é admissível, pois foi interposto tempestivamente e impugna adequadamente os fundamentos da decisão que inadmitiu o recurso especial.
+O Tribunal de origem afastou a causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas com base na seguinte fundamentação (fls. 477/479 - grifo nosso):
+No caso em pauta, embora o réu seja tecnicamente primário, do contexto fático vislumbrado, neste encadernado, emerge o envolvimento com organização criminosa ligada ao tráfico de drogas, o que impede gozar do benefício em tela.
+Versa o caso presente sobre acusado que enveredou pela seara da criminalidade, responsabilizando-se por transportar entorpecentes entre Estados diversos, a fim de auferir vantagens que o narcotráfico lhe proporcionaria.
+Tanto é evidente o envolvimento com organização criminosa desse jaez que foi preparada toda uma logística pelos terceiros conhecidos do acusado, para assim obter sucesso na empreitada, eliminando riscos, com custeio de despesas que não seria efetuado, a não ser para pessoa com quem a organização nutra relação e proximidade.
+Não há como desconsiderar que receberia vultoso valor para o transporte, bem assim que se tratava de consideráveis 37,8 quilos de maconha.
+ ..
+Logo, os valores envolvidos, a quantidade de droga, a logística oferecida, a sofisticação verificada, somados, evidenciam a relação de proximidade do réu com organização criminosa voltada ao narcotráfico, despontando disso, então, que não se trata de mera mula do tráfico.
+ ..
+Mas, repiso, não se verifica bis in idem nos presentes autos, pois, embora a moduladora específica (quantidade) tenha desabonado o réu na primeira fase da dosimetria, o não reconhecimento do tráfico privilegiado decorre do modo que se operou a narcotraficância, sendo que a quantidade de entorpecente confiado ao acusado é apenas mais um elemento que corrobora o cenário de ligação com organização criminosa envolvida com o tráfico de drogas.
+ ..
+Diante do cenário externado, evidente que o recorrente, evolvido na seara organizacional, tinha a tarefa de transportar o entorpecente, desenlace que impede a aplicação da benesse legal prevista no § 4º do art. 33 da Lei de Drogas.
+No caso, o agravante foi flagrado transportando 37,8 kg de maconha entre Estados da Federação. A instância de origem afastou a causa de diminuição com base em presunções derivadas da quantidade de droga e da logística empregada, contudo, não há nos autos elementos concretos que demonstrem sua efetiva integração à organização criminosa ou dedicação habitual ao tráfico. Trata-se de réu primário, com bons antecedentes, e ausente qualquer indício objetivo de reiteração delitiva ou vínculo estável com organização criminosa, razão pela qual se mostra incabível o afastamento da minorante.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de "mula", por si só, não autoriza o afastamento da minorante, podendo, contudo, justificar a modulação da fração de redução (AgRg no AREsp n. 2.331.192/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 22/3/2024).
+Diante disso, impõe-se o restabelecimento da dosimetria fixada na sentença de primeiro grau, que aplicou a minorante no patamar de 1/3.
+Assim, fica a pena fixada novamente em 3 anos, 10 meses e 20 dias de reclusão, e pagamento de 387 dias-multa, no valor mínimo legal de 1/30 do salário mínimo vigente à época dos fatos.
+Por conseguinte, à míngua de elementos concretos que justifiquem a fixação de regime mais gravoso, impõe-se a aplicação do disposto no art. 33, § 2º, alínea c, do Código Penal, que determina o regime inicial aberto para penas iguais ou inferiores a 4 anos. Ademais, a pena privativa de liberdade deve ser substituída por duas penas restritivas de direitos, a serem definidas pelo Juízo da execução.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a condenação fixada no primeiro grau, ficando a pena estabelecida em 3 anos, 10 meses e 20 dias de reclusão, e pagamento de 387 dias-multa, no valor mínimo legal de 1/30 do salário mínimo vigente à época dos fatos, a ser cumprida em regime inicial aberto, substituída a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo Juízo da execução.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTOS DO ACÓRDÃO INSUFICIENTES PARA AFASTAR O REDUTOR. RESTABELECIMENTO DA DOSIMETRIA DE PRIMEIRO GRAU.
+Agravo conhecido para dar provimento ao recurso especial.
