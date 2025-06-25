@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Valdemar de Oliveira Gomes contra o acórdão proferido pela Décima Quinta Câmara do Tribunal de Justiça de São Paulo que, nos autos do Mandado de Segurança Criminal n. 2110884-28.2024.8.26.0000, concedeu, em parte, a segurança.
+Narram os autos que o recorrente foi condenado a 3 anos de reclusão, em regime inicial fechado, pela prática do crime de furto qualificado (Ação Penal n. 500951-94.2023.8.26.0621). Na oportunidade, o Juiz de piso condicionou a restituição do veículo de propriedade do recorrente ao pagamento de taxas administrativas (guincho e manutenção no pátio).
+Neste recurso, a defesa sustenta, em síntese, que o veículo FIAT Pálio Economy, ano 2010, placas EMS9E96, foi apreendido por ordem judicial e que, segundo o Código de Trânsito Brasileiro, não há previsão para o pagamento de despesas relacionadas ao pátio e ao guincho quando o bem é restituído ao final do processo.
+Requer o conhecimento do presente Recurso Ordinário para reformar a decisão denegatória e dar provimento para conceder a ordem de modo a não se exigir do Recorrente os pagamentos das despesas de pátio e remoção do veículo (fl. 65).
+Não houve pedido liminar.
+Contrarrazões às fls. 69/71.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República JOÃO HELIOFAR DE JESUS VILLAR, pelo provimento do recurso (fls. 81/83).
+É o relatório.
+Nos termos do art. 1º da Lei n. 12.016/2009, que repete a redação da Lei n. 1.533/1951, o mandado de segurança tem como objetivo proteger o direito líquido e certo que não é amparado por habeas corpus ou habeas data. Essa proteção é garantida sempre que uma pessoa física ou jurídica sofre, ilegalmente ou por abuso de poder, violação de seus direitos ou tem justo receio de que isso ocorra, por parte de qualquer autoridade, independentemente de sua categoria ou função.
+Adicionalmente, conforme o art. 5º, inciso II, da Lei n. 12.016/2009, não é possível impetrar mandado de segurança contra decisão judicial que seja passível de recurso com efeito suspensivo. A Súmula 267 do Supremo Tribunal Federal reforça essa disposição ao afirmar que não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+No caso concreto dos autos, assiste razão ao recorrente.
+Com razão o Ministério Público Federal, cujo parecer adoto como razões de decidir (fl. 83 - grifo nosso):
+ ..
+Limita-se a controvérsia, portanto, a apurar se o recorrente possui ou não direito líquido e certo à restituição do veículo apreendido por ocasião da prisão em flagrante, sem ser compelido a realizar o pagamento da estadia do bem pelo tempo que permaneceu sob a guarda do Estado.
+A cobrança de taxas estranhas ao processo penal, geradas ao longo da instrução criminal pela apreensão do veículo, não tem previsão legal. Com efeito, as normas que disciplinam a restituição das coisas apreendidas (arts. 118 a 124 do Código de Processo Penal), não condicionam a liberação do bem ao pagamento das despesas decorrentes de sua apreensão e guarda durante o curso do processo.
+Ademais, como sabido, é vedado o uso de analogia in malam partem no direito penal, de modo que a retenção e a remoção de veículos tratadas no Código de Trânsito Brasileiro, dizem respeito apenas à aplicação de sanções administrativas vinculadas às infrações de trânsito, caracterizando a própria sanção do condutor infrator. Diferente, portanto, é a situação daquele que tem seu bem apreendido no interesse da investigação e/ou instrução criminal, a fim de auxiliar na elucidação do crime (art. 118, do CPP).
+Nesse sentido, é o entendimento do Superior Tribunal de Justiça: "Esta Corte Superior já teve a oportunidade de examinar recentemente casos semelhantes, tendo firmado a orientação de que, por ausência de previsão legal que possibilite eventual cobrança por parte do Estado para fins de guarda de bens lícitos utilizados em práticas delitivas, configura violação a direito líquido e certo o condicionamento da restituição do veículo ao pagamento das taxas e despesas de remoção e apreensão. A propósito, citam-se as seguintes decisões monocráticas: RMS n. 68.975, Ministro Ribeiro Dantas, D Je de 12/06/2023 (CASO DE ABSOLVIÇÃO); e RMS n. 69.109, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), D Je de 13/04/2023." (RMS 67409, Rel. Ministro Antônio Saldanha Palheiro, DJe 6/11/2023).
+ ..
+Ante o exposto, à vista do parecer, dou provimento ao recurso em mandado de segurança, para determinar que o veículo apreendido seja restituído ao recorrente sem a imposição de quaisquer ônus relacionados ao pagamento de despesas administrativas com a apreensão e guarda do bem.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM MANDADO DE SEGURANÇA. APREENSÃO DE VEÍCULO INSTRUMENTO DO CRIME. RESTITUIÇÃO CONDICIONADA AO PAGAMENTO DE TAXAS E DESPESAS. AUSÊNCIA DE PREVISÃO LEGAL. ISENÇÃO. CABIMENTO. PARECER ACOLHIDO.
+Recurso em mandado de segurança provido nos termos do dispositivo.
