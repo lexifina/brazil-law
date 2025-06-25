@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por DANIEL SAMUEL DE SOUZA, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 313/314, e-STJ):
+APELAÇÕES RECÍPROCAS. Ação Revisional de Contrato Bancário. Sentença de parcial procedência para reconhecer abusividade do seguro prestamista.
+RECURSO DO BANCO REQUERIDO. Inadmissibilidade. Insuficiência do preparo recursal. Determinação de comprovação do recolhimento da complementação, em cinco dias, nos termos do art. 1.007, "caput" e §2º, do CPC, sob pena de deserção. Inércia do interessado. Deserção configurada.
+RECURSO DO AUTOR. JUROS REMUNERATÓRIOS. Capitalização de juros remuneratórios permitida. A previsão expressa de taxa de juros anual superior ao duodécuplo da taxa mensal é suficiente para a legalidade da cobrança (Tema Repetitivo nº 247 e Súmulas 539 e 541 do c. STJ), como ocorre no caso. Possibilidade de revisão do contrato. Abusividade das taxas previstas na avença firmada entre os litigantes. Princípio da liberdade contratual que encontra limitação para admitir a revisão das referidas taxas de juros em situações excepcionais, conforme REsp nº 1061.530/RS. Aplicação da média de mercado vigente à época da contratação, conforme índice divulgado pelo Banco Central (SGS). Taxa prevista no contrato que não supera duas vezes a média do mercado à época da contratação (AgInt no REsp n. 2.025.475/PR e AgInt no AREsp n. 1.493.171/RS). Previsão contratual legítima.
+COMISSÃO DE PERMANÊNCIA. Inexistência de previsão expressa. Encargos decorrentes da mora que não se mostram abusivos (2% de multa moratória e 1% ao mês de juros moratórios). Observância ao disposto nas súmulas n.º 379 e 472 do c. STJ.
+TARIFA DE REGISTRO DE CONTRATO. Não comprovação da efetiva prestação do serviço. Cobrança abusiva, em consonância ao decidido pelo c. STJ no Tema 958.
+TARIFA DE AVALIAÇÃO DO BEM. Possibilidade de cobrança quando comprovada a prestação de serviços (REsp nº 1.578.553/SP - Tema nº 958). No caso, a instituição bancária não se desincumbiu do ônus de provar a efetiva prestação do serviço por meio de laudo idôneo. Termo apresentado do qual constaram apenas informações básicas do veículo, sem identificação do avaliador, tampouco comprovante de pagamento pelo serviço. Tarifa que deve ser considerada abusiva.
+SENTENÇA REFORMADA. Reconhecimento da abusividade das tarifas de avaliação do bem e de registro de contrato, com recálculo do débito e devolução na forma simples dos valores cobrados indevidamente, mantida, no mais, da forma como proferida (RITJSP, art. 252).
+RECURSO DO RÉU NÃO CONHECIDO E, POR OUTRO LADO, PROVIDO EM PARTE O DO AUTOR.
+Opostos embargos de declaração (fls. 349/353, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 326/333, e-STJ), o insurgente aponta violação do artigo 85, §§ 2º e 8º-A, do CPC, ao argumento de que o arbitramento de honorários advocatícios, no caso, deveria observar a tabela da OAB.
+Sem contrarrazões (fl. 360, e-STJ) e de decisão do Tribunal de origem admitido o recurso (fls. 362/363, e-STJ), ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração do art. 85, § 8º-A, do CPC, ao argumento de que o arbitramento de honorários advocatícios estaria vinculado à tabela da OAB.
+Acerca da controvérsia, o Tribunal local decidiu (fl. 322, e-STJ):
+Assim sendo, a sentença deve ser reformada para o fim de também reconhecer a ilegalidade da cobrança das tarifas de avaliação do bem e de registro de contrato, com o recálculo do débito e a compensação daquilo que foi cobrado indevidamente e com a devolução dos valores de forma simples, com atualização monetária desde a data do efetivo desembolso e juros de mora de 1% a. m. desde a citação. Por consequência, estabeleço a sucumbência recíproca, com divisão igualitária das custas e despesas processuais, bem ainda honorários advocatícios devidos à parte adversa, por ambos os litigantes, no valor correspondente a 20% sobre o valor da condenação, o que não se mostra irrisório em vista da reforma ora empreendida e da baixa complexidade da demanda (CPC, arts.85, §§ 2º e 8º). (grifei e destaquei)
+Com efeito, a tabela da OAB, apesar de servir de parâmetro para o arbitramento dos honorários contratuais, não possui caráter vinculativo, devendo ser observadas as circunstâncias do caso concreto para evitar o enriquecimento sem causa do advogado.
+Desse modo, verifico que o acórdão recorrido está em conformidade com a orientação firmada na jurisprudência desta Corte, para a qual o magistrado não está vinculado aos valores de honorários estabelecidos pela tabela da Ordem dos Advogados do Brasil.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. O entendimento do Tribunal a quo encontra-se em harmonia com a orientação desta Corte Superior, no sentido da inexistência de vinculação do magistrado aos valores estabelecidos pela tabela organizada pelo Conselho Seccional da OAB para a fixação dos honorários advocatícios quando arbitrados com base nos parâmetros do § 2º do artigo 85 do CPC. Precedentes.
+2. Inaplicável, na hipótese, a regra do § 8º-A do artigo 85 do CPC, incluído pela Lei nº 14.365/2022, pois, no caso concreto, a verba honorária foi fixada nos termos do § 2º do artigo 85 do CPC, no percentil mínimo de 10%, com base no valor da causa, o qual não é considerado baixo ou irrisório, não tendo havido a incidência do § 8º (arbitramento de honorários por equidade), o qual constitui requisito para a observação dos parâmetros da tabela da OAB.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.123.882/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2025, DJEN de 16/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. VÍCIOS NÃO CONSTATADOS. 2. FIXAÇÃO DOS HONORÁRIOS. REMUNERAÇÃO COMPATÍVEL COM O TRABALHO DESENVOLVIDO PELO ADVOGADO. CONCLUSÃO DO TRIBUNAL DE ORIGEM COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. TABELA DE HONORÁRIOS DA OAB NÃO VINCULANTE. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à adequação do montante fixado a título de honorários advocatícios, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+3. Constata-se que o acórdão recorrido encontra-se em harmonia com a orientação desta Corte Superior, no sentido da "inexistência de vinculação do magistrado aos valores estabelecidos pela tabela da OAB para os honorários advocatícios" (AgInt no AgInt no AREsp n. 1.578.753/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020). Incide, no ponto, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com
+amparo nas alíneas a e/ou c do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.165.770/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. TABELA DE HONORÁRIOS DA SECCIONAL DA OAB. NATUREZA INFORMATIVA. NÃO VINCULANTE. HONORÁRIOS FIXADOS OBSERVANDO OS PARÂMETROS LEGAIS E EM VALOR RAZOÁVEL. ALTERAÇÃO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior manifesta-se no sentido de que "a tabela organizada pelo Conselho Seccional da OAB tem natureza meramente orientadora e não vincula o julgador, devendo ser levada em consideração a realidade do caso concreto" (AgInt no REsp 1.751.304/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe de 30/9/2019).
+2. Ademais, somente é admissível o exame do valor arbitrado a título de honorários advocatícios contratuais, nesta instância especial, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, o que não se verifica no caso em exame.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.038.616/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Dessa forma, estando o aresto recorrido em conformidade com a orientação
+jurisprudencial firmada por esta Colenda Corte acerca da matéria, incide, na hipótese, o óbice da Súmula 83/STJ, aplicável a ambas as alíneas do permissivo constitucional.
+2. Do exposto, com amparo no art. 932 do CPC c/c a Súmula 568 do STJ, nego provimento ao recurso especial. Deixo de fixar honorários sucumbenciais recursais em razão de os honorários já terem sido fixados no limite máximo de 20%, consoante determinado no § 11 do art. 85 do NCPC.
+B ublique-se.
+Intimem-se.
+EMENTA
