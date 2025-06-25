@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 47):
+Vícios construtivos indenização (cumprimento de sentença) impugnação rejeição inconformismo não acolhimento cumprimento de sentença que tem como objeto o recebimento dos valores fixados a título de danos materiais sentença, já transitada em julgado (e neste tópico, mantida por esta turma julgadora) que não condicionou o levantamento dos valores da condenação à apresentação do cronograma de obras ou qualquer outra providência decisão mantida recurso improvido.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 514 do Código de Processo Civil/2015.
+Quanto à suposta ofensa ao art. 514 do CPC/2015, sustenta que, "embora não conste expressamente na sentença o implemento da condição imposta por esta recorrente para o deferimento do levantamento dos valores depositados judicialmente, as circunstâncias do caso concreto conduzem à interpretação de que a apresentação dos documentos supracitados é salutar para a garantia dos direitos individuais e coletivos que circundam a ação" (fl. 57).
+Argumenta, também, que a decisão do Tribunal de origem não observou os princípios constitucionais da Administração Pública, especialmente o princípio da eficiência, ao permitir o levantamento dos valores sem a comprovação da destinação correta.
+Haveria, por fim, violação aos princípios do contraditório e da ampla defesa, uma vez que o Tribunal de origem não teria considerado adequadamente os argumentos da recorrente sobre a destinação dos valores.
+Contrarrazões ao recurso especial às fls. 65-69.
+O recurso especial não foi admitido, pois não ficou demonstrada a alegada vulneração ao dispositivo arrolado.
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que a decisão agravada não reflete a realidade do recurso e impede a agravante de exercer a ampla defesa.
+Foi apresentada contraminuta às fls. 83-87 na qual a agravada afirma que não pode a parte agravante, por mera liberalidade e de forma totalmente arbitrária, impor requisitos para que os agravados possam levantar quantia já reconhecidamente devida, mediante decisão transitada em julgado, principalmente em sede de cumprimento de sentença, sendo que tal questão referente à necessidade de apresentação de cronograma de obras em nenhum momento foi sequer mencionada no decorrer do processo.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de agravo de instrumento interposto em face de decisão interlocutória proferida nos autos de cumprimento de sentença nº 0000313-50.2023.8.26.0326, que não acatou o pedido da agravante acerca da retenção do valor depositado judicialmente a título de indenização por danos materiais.
+O Tribunal de origem consignou que a sentença que julgou procedente o pedido de indenização por danos materiais não condicionou o levantamento dos valores à apresentação de cronograma de obras, sendo indevida a retenção pleiteada. Confira-se:
+Tal qual bem observado na origem, inexiste qualquer condição no título executivo condicionando o levantamento do numerário devido aos exequentes.
+Vale dizer, a r. sentença, já transitada em julgado, condenou a ora agravante ao pagamento de danos materiais aos autores/agravados, nos valores de R$ 38.543,69, R$ 38.266,49, R$ 23.560,88, R$ 29.528,44, R$ 29.159,86 e R$ 22.945, 32, além de quantia a título de danos morais (esta última, afastada pela Turma Julgadora no âmbito da Apelação Cível nº 1000167-26.2022).
+Com o trânsito em julgado, os agravados manejaram o incidente de cumprimento de sentença, visando o recebimento dos valores objeto da condenação a título de danos materiais, já depositados pela agravante.
+Entretanto, ao contrário do que sustenta esta última, inexiste no título executivo, qualquer condição que impeça o levantamento do numerário. O apontado inadimplemento contratual com relação ao pagamento das prestações é questão totalmente estranha ao feito, sendo ainda descabido que se aguarde a expedição de cronograma de obras (condição que não foi fixada nem na r. sentença, tampouco no aresto que julgou a apelação)  ..  (fls. 48-49).
+Como se vê, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte no sentido de que os parâmetros definidos na sentença para pagamento da condenação não podem ser alterados em respeito à coisa julgada, incidindo, portanto, o óbice da Súmula 83 do STJ. A saber:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO POR CÁLCULOS ARITMÉTICOS. OBSERVÂNCIA À COISA JULGADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. O Tribunal de Justiça destacou que a sentença e o acórdão em cumprimento já haviam delimitado a procedência do pedido de indenização conforme os documentos existentes nos autos, tornando possível e adequada a liquidação por cálculos aritméticos, sem necessidade de nova discussão ou perícia, assegurando ao devedor, por outro lado, meios próprios para impugnar eventuais excessos.
+3. A decisão de afastar a liquidação por arbitramento e determinar a observância da forma de liquidação definida pela coisa julgada está alinhada à jurisprudência do Superior Tribunal de Justiça, que preconiza a fidelidade da execução ao título executivo. Incidência da Súmula 83/STJ.
+4. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 1.243.411/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/3/2025, DJEN de 31/3/2025.)
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. INCLUSÃO DE PARCELAS VINCENDAS. VERBA ESTRANHA AO TÍTULO EXECUTIVO JUDICIAL SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Esta Corte de Justiça possui o entendimento de que, não obstante o art. 323 do CPC (antigo art. 290 do CPC/73) admita a inclusão, na sentença condenatória, das prestações vincendas no curso da demanda, tal providência é vedada em cumprimento de sentença, sob pena de ofensa a coisa julgada. Incidência da Súmula n. 568 do STJ.
+2. O Tribunal de origem assentou que era possível a inclusão de valores vincendos na execução de taxas condominiais, por se tratar de relação jurídica continuada, devendo o acórdão recorrido ser reformado no ponto.
+3. Agravo conhecido para dar provimento ao recurso especial.
+(AREsp n. 2.810.140/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 1/4/2025.)
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à violação à coisa julgada, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
