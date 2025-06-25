@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE CONTRADIÇÃO QUANTO AO LOCAL DO CRIME. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental interposto no âmbito de habeas corpus, mantendo a prisão preventiva anteriormente decretada.
+2. A embargante alega a existência de contradição no julgado, por suposta imprecisão quanto ao local da conduta delitiva, sustentando que o tráfico de drogas não teria ocorrido em sua residência, onde vivem seus filhos menores, mas em unidade prisional da qual se encontra afastada por decisão judicial.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em definir se o acórdão embargado incorre em contradição quanto ao local dos fatos imputados à embargante, apta a justificar o acolhimento dos embargos declaratórios, nos termos do art. 619 do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração pressupõem a demonstração de obscuridade, omissão, contradição ou erro material no julgado, sendo incabíveis quando utilizados como meio de rediscussão do mérito da decisão.
+5. O acórdão embargado adota expressamente a conclusão do Juízo de origem de que a conduta delitiva atribuída à acusada ocorreu na própria residência, o que fundamenta a negativa de substituição da prisão preventiva por domiciliar, em razão da exposição dos filhos ao risco da atividade criminosa.
+6. A alegação de que os fatos teriam ocorrido em outro local não corresponde ao que consta nos autos e configura mera tentativa de reabrir a análise de mérito, o que extrapola os limites dos embargos de declaração.
+7. O acórdão impugnado está devidamente fundamentado, com base em decisão judicial anterior e jurisprudência consolidada do STJ, que afasta a prisão domiciliar quando a residência é o ambiente da prática delitiva, ainda que haja filhos menores.
+IV. DISPOSITIVO E TESE
+8. Embargos de declaração rejeitados.
+Tese de julgamento:
+A contradição apta a justificar embargos de declaração deve estar presente no próprio acórdão embargado, não podendo ser presumida com base em teses da parte que divergem do conteúdo do julgado.
+É válida a fundamentação que afasta a prisão domiciliar com base na prática do crime no ambiente familiar, nos termos da jurisprudência do STJ, ainda que a embargante alegue fato diverso nos embargos.
+Embargos de declaração não constituem meio hábil para rediscutir matéria já decidida ou manifestar inconformismo com a conclusão do acórdão.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por FERNANDA DA SILVA IRMÃO, contra acórdão de fls. 136-139, que negou provimento ao agravo regimental no habeas corpus.
+Sustenta a parte embargante, em suma, que o acórdão está eivado de contradição, considerando que a conduta do tráfico de drogas imputado à embargante não ocorreu na própria residência e nem na presença dos filhos, mas sim na unidade prisional a qual se encontra proibida de se aproximar, conforme decisão de fls. 53-56 (fls. 144-145).
+Requer o acolhimento dos embargos "para conhecer e dar provimento total ao Agravo em habeas corpus, concedendo a ordem para revogar a prisão preventiva desnecessária e desproporcional, dando o direito de responder em liberdade o processo nº 0000841-90.2023.8.25.0042 até seu trânsito em julgado, ou a substituí-la pela prisão domiciliar, nos termos dos art.318, III e V, e 318-A, ambos do CPP" (fl. 146).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE CONTRADIÇÃO QUANTO AO LOCAL DO CRIME. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental interposto no âmbito de habeas corpus, mantendo a prisão preventiva anteriormente decretada.
+2. A embargante alega a existência de contradição no julgado, por suposta imprecisão quanto ao local da conduta delitiva, sustentando que o tráfico de drogas não teria ocorrido em sua residência, onde vivem seus filhos menores, mas em unidade prisional da qual se encontra afastada por decisão judicial.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em definir se o acórdão embargado incorre em contradição quanto ao local dos fatos imputados à embargante, apta a justificar o acolhimento dos embargos declaratórios, nos termos do art. 619 do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração pressupõem a demonstração de obscuridade, omissão, contradição ou erro material no julgado, sendo incabíveis quando utilizados como meio de rediscussão do mérito da decisão.
+5. O acórdão embargado adota expressamente a conclusão do Juízo de origem de que a conduta delitiva atribuída à acusada ocorreu na própria residência, o que fundamenta a negativa de substituição da prisão preventiva por domiciliar, em razão da exposição dos filhos ao risco da atividade criminosa.
+6. A alegação de que os fatos teriam ocorrido em outro local não corresponde ao que consta nos autos e configura mera tentativa de reabrir a análise de mérito, o que extrapola os limites dos embargos de declaração.
+7. O acórdão impugnado está devidamente fundamentado, com base em decisão judicial anterior e jurisprudência consolidada do STJ, que afasta a prisão domiciliar quando a residência é o ambiente da prática delitiva, ainda que haja filhos menores.
+IV. DISPOSITIVO E TESE
+8. Embargos de declaração rejeitados.
+Tese de julgamento:
+A contradição apta a justificar embargos de declaração deve estar presente no próprio acórdão embargado, não podendo ser presumida com base em teses da parte que divergem do conteúdo do julgado.
+É válida a fundamentação que afasta a prisão domiciliar com base na prática do crime no ambiente familiar, nos termos da jurisprudência do STJ, ainda que a embargante alegue fato diverso nos embargos.
+Embargos de declaração não constituem meio hábil para rediscutir matéria já decidida ou manifestar inconformismo com a conclusão do acórdão.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+In casu, não há falar-se na presença de quaisquer dos vícios do art. 619 do CPP, extraindo-se do aresto ora embargado (fls. 137-138):
+ ..  A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta (fls. 103-104):
+ ..  Consta da decisão que indeferiu a prisão domiciliar (fl. 12-14):
+ ..  Sem maiores delongas, reputo que o cenário processual ensejador da decretação da prisão preventiva da Acusada FERNANDA DA SILVA IRMÃO permanece inalterado, não havendo nenhum elemento que permita concluir que, neste momento, não há risco concreto à ordem pública, estando, pois, presentes os requisitos legais, a saber: o fumus comissi delicti, indicando a possível prática do delito pelo autor do fato, bem como o periculum libertatis, traduzido em alguma das hipóteses previstas no art. 312, caput, do Código de Processo Penal.
+Não suficiente, reputo como absolutamente inadequadas as medidas cautelares diversas da prisão, invocadas pelo art. 319 do Código de Processo Penal, salientando, inclusive, acerca da impossibilidade do arbitramento de fiança por imposição legal, ou seja, artigos 321 e 322, ambos deste Diploma Processual.
+Logo, conclui-se que o cenário processual ensejador da decretação da prisão preventiva da Acusada FERNANDA DA SILVA IRMÃO permanece hígido, não havendo nenhum elemento que permita concluir que, neste momento, não há risco concreto à ordem pública, conclusão que pode vir a ser revisada pela eventual provocação das partes.
+Noutro giro, especificamente em relação ao pedido de conversão da prisão preventiva por prisão domiciliar, tem-se que este já também foi deliberado pela decisão de 29/01/2025, a qual concluiu pela impossibilidade de substituição da prisão preventiva da Denunciada por prisão domiciliar, especialmente pelo fato de que o flagrante verificado em meio aos autos de n.º 202420300209 ocorreu na própria residência da acusada, de modo que a restrição da sua liberdade aos limites da unidade residencial, mesmo com o monitoramento eletrônico, é indiferente para a prática delitiva verificada na espécie, além expor os infantes à criminalidade e seus riscos, malferindo o escopo da lei e a ratio da decisão exarada no Habeas Corpus de nº 143.641, que visam, antes de qualquer coisa, salvaguardar o interesse superior das crianças, como ressaltado pela decisão de pp. 186-188 e no precedente do STJ no mesmo sentido, conforme se extrai do AgRg no HC 787.289/SP. In verbis:
+ ..  Ora, muito embora o art. 318 do CPP prescreva hipóteses de conversão da prisão preventiva em prisão domiciliar, é de se destacar que a jurisprudência excetuou os casos em que os crimes tenham sido supostamente praticados com violência/grave ameaça em desfavor dos descendentes, ou em situações excepcionalíssimas, como no caso dos autos, em que a prática delitiva da Agente circunda a convivência dos próprios infantes, além do fato de que estava sob outras medidas cautelares, as quais foram decretadas nos autos de n.º 202420300209.
+Por isso, deve ser indeferido o pedido de substituição da prisão preventiva por prisão domiciliar. ..
+Como anteriormente externado, a conduta (tráfico de drogas) ocorreu na própria residência da acusada, ora agravante, de modo que a restrição de sua liberdade aos limites da unidade residencial, mesmo com o monitoramento eletrônico, é indiferente à prática delitiva verificada na espécie, mormente por estar sob a seara de medidas cautelares decretadas noutros autos. ..
+Como se vê do trecho acima transcrito - em destaque -, concluiu o Juízo de primeiro grau, em 29/1/2025, "pela impossibilidade de substituição da prisão preventiva da Denunciada por prisão domiciliar, especialmente pelo fato de que o flagrante verificado em meio aos autos de n.º 202420300209 ocorreu na própria residência da acusada, de modo que a restrição da sua liberdade aos limites da unidade residencial, mesmo com o monitoramento eletrônico, é indiferente para a prática delitiva verificada na espécie, além expor os infantes à criminalidade e seus riscos, malferindo o escopo da lei e a ratio da decisão exarada no Habeas Corpus de nº 143.641, que visam, antes de qualquer coisa, salvaguardar o interesse superior das crianças" (fl. 13), entendimento esse que se coaduna com a jurisprudência desta egrégia Corte.
+"O ambiente domiciliar em que se deram os fatos revela incompatibilidade com a proteção integral dos filhos, afastando a possibilidade de concessão do benefício da prisão domiciliar previsto nos arts. 318-A e 318-B do Código de Processo Penal." (AgRg no HC n. 996.417/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025).
+"No caso dos autos, a substituição da custódia preventiva pela domiciliar foi negada à acusada, tendo em vista a afirmação de que ela, em tese, vinha praticando o crime em questão na residência em que convivia com os filhos menores de idade. Assim, é certo que da situação evidenciada nos autos, verifica-se excepcionalidade apta a revelar a inadequação da prisão domiciliar, considerando as circunstâncias do caso concreto, que comprometem a segurança de seus filhos menores, o que justifica o afastamento da incidência da benesse." (AgRg no RHC n. 210.419/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+"Conforme orientação jurisprudencial do STJ, a substituição da prisão preventiva pela domiciliar não resguarda o interesse dos filhos menores de 12 anos de idade, quando o crime é praticado na presença do infante. Precedentes." (AgRg no HC n. 919.240/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+Diante do exposto, rejeito os presentes embargos.
+É o voto.
