@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por Jadson Oliveira Rosa do Nascimento contra decisão monocrática do em. Min. Marco Aurélio Bellizze, que conheceu do agravo para dar provimento ao recurso especial, com o fim de afastar a responsabilidade entre o banco demandado e a empresa alienante do veículo e julgar improcedente o pedido de rescisão do contrato de financiamento automotivo.
+A parte agravante alega, em síntese, que a decisão monocrática deve ser reformada, pois, conforme reconhecido pelo acórdão do Tribunal de origem, a ora agravada é "instituição financeira que atua DIRETAMENTE no negócio de comercialização do bem, onde, junto com a loja, auferem benefícios econômicos de forma conjunta" (e-STJ fl. 384), razão pela qual deve responder de forma solidária pelos danos causados e o contrato de financiamento deve ser rescindo.
+A parte agravada, devidamente intimada, deixou de se manifestar, conforme certidão de e-STJ fls. 396.
+É o relatório.
+Decido.
+A decisão monocrática merece ser reconsiderada para não conhecer do recurso especial.
+Para fundamentar o provimento do recurso especial, a decisão monocrática apresentou a seguinte argumentação:
+ .. . No caso, a Corte de origem entendeu que a instituição financeira deve sofrer os efeitos da rescisão do contrato e compra e venda por vício do produto, ao fundamento de os contratos serem coligados..
+Entretanto, de acordo com a jurisprudência do Superior Tribunal de Justiça, a responsabilidade solidária entre a instituição financeira e a concessionária de automóveis somente se perfaz quando existe vinculação entre ambas, isto é, a instituição financeira atua como "banco da montadora", integrando a cadeia de consumo e, portanto, sendo responsável pelo defeito no produto, o que não é o caso dos autos, em que que a instituição financeira tão somente viabilizou o financiamento do veículo, sem nenhuma vinculação com a revendedora de automóveis, tendo atuado somente como "banco de varejo"  ..  (e-STJ fls. 353-354).
+Extrai-se do trecho acima, que a decisão monocrática afirmou que, mesmo o Tribunal de origem tendo concluiu que os contratos eram coligados e que, portanto, havia vinculação entre a instituição financeira e a concessionária de automóveis, tal situação não estava presente no caso dos autos, pois a "instituição financeira tão somente viabilizou o financiamento do veículo, sem nenhuma vinculação com a revendedora de automóveis, tendo atuado como como "banco de varejo".
+Ocorre que a jurisprudência desta Corte tem o entendimento de que, quando o Tribunal de origem, analisando as provas dos autos, conclui que a instituição financeira tem coligação com a concessionária, alterar essa conclusão em sede de recurso especial esbarra no óbice da súmula nº 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO. FINANCIAMENTO DE VEÍCULO. VÍCIO. RESOLUÇÃO DO CONTRATO. BANCO QUE FAZ PARTE DA CADEIA DE CONSUMO. SOLIDARIEDADE. NECESSIDADE
+DE ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.os 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. São solidariamente responsáveis, por vício do produto, a instituição financeira e a concessionária de automóveis a ela vinculada, pois ambas integram a cadeia de consumo.
+2. O Tribunal estadual decidiu, com amparo no contexto fático probatório, que a instituição financeira tem coligação com a concessionária para a venda de veículos. Assim, alterar esse entendimento demandaria, necessariamente, o reexame das provas dos autos, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3 . Agravo interno não provido.
+(AgInt no AREsp n. 2.440.390/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifos acrescidos).
+No caso, o Tribunal de origem fez a seguinte afirmação:
+ .. . A correquerida credora fiduciária apregoa que não cabe o desfazimento do contrato bancário, ao que não lhe assiste razão, vez que a atuação da lojista revendedora de veículos e do banco se dão de forma coligada, ambas aferindo proveitos da operação conjunta, de modo que incumbe a responsabilidade pelo dano ante a formação de cadeia de fornecedores do serviço ( artigo 18 do Código de Defesa do Consumidor ). E mais: caso acolhido o pedido para manutenção do contrato bancário, haveria nítido desequilíbrio em desfavor da parte hipossuficiente, que seria obrigada a pagar parcelas de financiamento por bem que não lhe aproveita. Resulta, portanto, devida a rescisão de ambos os negócios, até mesmo se tratando de risco inerente ao negócio praticado pela instituição financeira  ..  (e-STJ fl. 204 - grifos acrescidos).
+Diante dessa conclusão do Tribunal de origem, não é cabível, em sede de recurso especial, modificar o entendimento para afirmar que não havia uma atuação coligada entre o lojista e a instituição financeira, pois tal modificação demandaria o exame das provas angariadas aos autos, vedado pela súmula nº 7 do STJ.
+Sendo assim, a decisão agravada merece ser reconsiderada para que o recurso especial não seja conhecido, mantendo-se integralmente o acórdão do Tribunal de origem.
+Ante todo o exposto, com base no art. 259, §6º do RISTJ, reconsidero a decisão de e-STJ fls. 352-356 de modo a conhecer do agravo para não conhecer do recurso especial.
+Majoro o percentual dos honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, §11 do CPC.
+Publique-se. Intime-se.
+EMENTA
