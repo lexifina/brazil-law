@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL. CRÉDITOS TRIBUTÁRIOS. ASPECTO TEMPORAL COMPENSAÇÃO.
+A aquisição jurídica e econômica da renda tributável, reveladora do acréscimo patrimonial, ocorre por ocasião da homologação, expressa ou tácita, da declaração de compensação. Precedentes desta Corte.
+Passo a decidir.
+A Primeira Seção do STJ, em sessão de julgamento encerrada em 27/05/2025, decidiu afetar à sistemática dos recursos repetitivos os REsps 2.172.434/SP, 2.153.547/SP, 2.153.817/SP e 2.153.492/SP, de relatoria do Ministro Teodoro Silva Santos, a seguinte controvérsia (Tema 1.362): "Definir o momento no qual é verificada a disponibilidade jurídica de renda em repetição de indébito tributário ou em reconhecimento do direito à compensação julgado procedente e já transitado em julgado, para a caracterização do fato gera dor do IRPJ e da CSLL, na hipótese de créditos ilíquidos" .
+Houve determinação de suspensão de todos os processos em que tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
