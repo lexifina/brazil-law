@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VITOR JUNIOR MATES DOS ANJOS contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o paciente encontra-se preso preventivamente sob a acusação de suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006, praticado em 06/05/2025.
+A defesa sustenta que a decisão impugnada carece de fundamentação concreta, presumindo a traficância apenas pela quantidade de droga, sem comprovação da destinação mercantil, intensa movimentação de usuários ou confissão do acusado.
+Afirma que a prisão preventiva foi decretada de forma automática e genérica, violando o princípio da presunção de inocência e os arts. 312 e 313 do Código de Processo Penal, que exigem elementos concretos para justificar a custódia cautelar.
+Alega que o paciente é primário, possui bons antecedentes, residência fixa e ocupação lícita, condições pessoais que deveriam ter sido consideradas para aplicar medidas cautelares menos gravosas, conforme o art. 319 do Código de Processo Penal.
+A defesa argumenta que a custódia cautelar não pode ser utilizada como punição antecipada e que a prisão preventiva exige demonstração inequívoca da necessidade atual da medida.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 46-47.
+Informações prestadas às fls. 49-61.
+O Ministério Público Federal em parecer, às fls. 66-70, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade de droga apreendida, a saber, 300 gramas de maconha e 100 gramas de crack - fl. 15, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No caso, a prisão preventiva possui fundamentação idônea, decretada a bem da ordem pública, em razão das circunstâncias do flagrante, ocasião em que foram apreendidos "818,00g (oitocentos e dezoito gramas) e 994,0g (novecentos e noventa e quatro gramas) de cocaína e 4,0g (quatro gramas) de maconha" (AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 923.584/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2024; AgRg no RHC n. 193.464/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; AgRg no RHC n. 190.350/MG, de minha relatoria, Quinta Turma, DJe de 16/8/2024 e AgRg no HC n. 914.608/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024).
+Destacou, ainda, a decisão que decretou a segregação cautelar que o acusado foi sentenciado pelo crime previsto no artigo 33, §4º, da Lei 11.343/06, fato que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa - fl. 12.
+Sobre o tema:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
