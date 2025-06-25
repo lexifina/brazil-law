@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de BANCO FINASA - BRADESCO LEASING S/A ARRENDAMENTO MERCANTIL contra decisão que inadmitiu recurso especial, interposto com fulcro na alínea "a" do permissivo constitucional, objetando-se decisão, tomada pelo eg. Tribunal de Justiça do Estado do Pará, em acórdão assim ementado (e-STJ, fl. 1035):
+EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. CONTRATO DE ARRENDAMENTO MERCANTIL. DEMORA INJUSTIFICADA DO RÉU EM EFETUAR A BAIXA DOS GRAVAMES. CULPA EXCLUSIVA DA AUTORA NÃO DEMONSTRADA. LUCROS CESSANTES COMPROVADOS POR MEIO DE PERÍCIA CONTÁBIL. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. A demora injustificada do arrendador em efetuar a baixa dos gravames sobre os veículos objeto de contrato de arrendamento mercantil, após a quitação pelo arrendatário, enseja a responsabilidade pelos lucros cessantes;
+2. Não se demonstrou a causa excludente da responsabilidade pela culpa exclusiva da parte autora;
+3. O valor dos lucros cessantes fundamentou-se em laudo pericial contábil que indicou especificamente os parâmetros do cálculo;
+4. Recurso conhecido e não provido.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 1076-1079, e-STJ.
+Em seu recurso especial (e-STJ, fls. 1058-1100), o recorrente alega que houve ofensa aos arts. 403 e 884 do Código Civil. Defende, em síntese, que deve ser desconstituída a perícia realizada, pois "fica muito evidente que a fixação dos lucros cessantes deve ser revertida, pois, conforme já destacado, a jurisprudência do STJ é remansosa no sentido de que a condenação em lucros cessantes pressupõe a existência de dados objetivos para sua fixação. Do contrário, haver-se-ia, como no caso concreto, desrespeito ao que preceitua o art. 403 do Código Civil, além de proporcionar a parte adversa enriquecimento sem causa, situação vedada no ordenamento jurídico" (fl. 1098, e-STJ).
+Contrarrazões às fls. 1104-1113, e-STJ.
+Em juízo prévio de admissibilidade, o eg. TJ-PA inadmitiu o apelo nobre (e-STJ, fls. 1120-1123), dando ensejo ao presente agravo (e-STJ, fls. 1125-1135).
+Contraminuta às fls. 1137-1151, e-STJ.
+É o relatório. Passo a decidir.
+A irresignação não comporta provimento.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+"A controvérsia diz respeito à existência de lucros cessantes e do nexo causal com a conduta do banco, o qual sustenta que a autora deixou de providenciar a tempo os documentos que lhe competiam para licenciamento junto ao DETRAN/PA.
+Ainda que se considere que a autora tenha providenciado o primeiro emplacamento de alguns dos veículos apenas entre os dias 11 e 15/12/2006 (Id. 12161314, p. 9 e seguintes), não fica afastado o atraso na baixa dos gravames, que foi realizada em 05/01/2007.
+Desse modo, não cabe a exclusão da responsabilidade, visto que não se configurou a culpa exclusiva da autora ou de terceiros.
+Evidencia-se o nexo causal entre o atraso injustificado na baixa dos gravames pelo réu e os prejuízos sofridos pela autora, ante a desvalorização dos veículos destinados à venda, conforme o laudo pericial contábil de Id. 12161319, p. 11 e seguintes.
+Sendo patente a demora do banco arrendador em cumprir a sua incumbência, o argumento referente à sub-rogação da autora nos deveres da arrendatária anterior não é apto a configurar a culpa exclusiva da parte prejudicada.
+Por fim, não procede o argumento de que o laudo apresentou valores com base em conjecturas, uma vez que indicou especificamente o parâmetro do cálculo dos lucros cessantes, qual seja, a depreciação dos veículos em 20% (vinte por cento) do valor devido à mudança de modelo no ano seguinte ao da fabricação." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de Justiça concluiu que "não procede o argumento de que o laudo apresentou valores com base em conjecturas, uma vez que indicou especificamente o parâmetro do cálculo dos lucros cessantes, qual seja, a depreciação dos veículos em 20% (vinte por cento) do valor devido à mudança de modelo no ano seguinte ao da fabricação."
+Nesse contexto, a pretensão de modificar o entendimento firmado, acerca do valor atribuído a título de lucros cessantes, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284 DO STF. AÇÃO RESCISÓRIA. VIOLAÇÃO DE LITERAL DISPOSITIVO DE LEI. OFENSA À NORMA JURÍDICA QUE NÃO FOI OBJETO DE APRECIAÇÃO PELO ACÓRDÃO RESCINDENDO. LUCROS CESSANTES. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. ERRO DE FATO. EXISTÊNCIA DE PRONUNCIAMENTO JUDICIAL SOBRE O FATO. NÃO CABIMENTO.
+1. Não se conhece da alegada violação dos arts. 489 e 1.022 do CPC quando o recorrente se limita a afirmar de forma genérica a ofensa aos referidos normativos, sem demonstrar qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em embargos de declaração e a sua efetiva relevância para o julgamento da causa. Incidência da Súmula n. 284/STF.
+2. Nos termos da jurisprudência pacífica do STJ, "não cabe ação rescisória por violação manifesta de norma jurídica, quando o aresto rescindendo não emitiu juízo de valor sobre o normativo apontado como violado" (AgInt na AR n. 7.428/PB, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 14/5/2024, DJe de 20/5/2024).
+3. Na apreciação de lucros cessantes, o julgador não pode se afastar de forma absoluta de presunções e deduções, porquanto deverá perquirir acerca dos benefícios legítimos que não foram realizados por culpa da parte ex adversa. Exigir prova absoluta do lucro que não ocorreu, seria impor ao lesado o ônus de prova impossível (REsp n. 1.549.467/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/9/2016, DJe de 19/9/2016).
+4. Modificar a conclusão do Tribunal de origem acerca dos lucros cessantes demandaria o revolvimento do acervo fático- probatório dos autos, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+5. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC).
+6. No caso dos autos, o Tribunal de origem expressamente consignou que as questões apontadas como erros de fato foram alvo de controvérsia pelo acórdão rescindendo, obstando, assim, a procedência da presente ação rescisória. Ao assim decidir, a Corte local se manifestou de acordo com a jurisprudência do Superior Tribunal de Justiça.
+Recurso especial conhecido e improvido.
+(REsp n. 2.171.803/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2025, DJEN de 17/3/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. LUCROS CESSANTES. VIOLAÇÃO DOS ARTS. 402 E 403 DO CÓDIGO CIVIL. PRETENSÃO DE REEXAME DE PROVAS. LUCROS CESSANTES PRESUMIDOS OU HIPOTÉTICOS. DESCABIMENTO. RECURSO ESPECIAL REPETITIVO (RESP N. 1.347.136/DF). NECESSIDADE DE COMPROVAÇÃO. NOVA PERÍCIA. NECESSIDADE.
+1. Acórdão que determinou o refazimento de laudo pericial a fim de apurar a indenização devida a título de indenização securitária.
+2. Segundo a jurisprudência desta Corte, "Não se admite a indenização de lucros cessantes sem a efetiva comprovação, rejeitando-se lucros presumidos ou hipotéticos, dissociados da realidade efetivamente comprovada. Ainda que reconhecido o direito de indenizar, "Não comprovada a extensão do dano (quantum debeatur), possível enquadrar-se em liquidação com "dano zero", ou "sem resultado positivo" (REsp 1.347.136/DF, processado sob o regime do art. 543-C do CPC/1973, Rel. Min. ELIANA CALMON, PRIMEIRA SEÇÃO, DJe de 07/03/2014)." (AgInt nos EDcl no AREsp n. 110.662/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 5/6/2018, DJe de 12/6/2018 - destaquei).
+3.Verificar se efetivamente os lucros cessantes seriam inexistentes - a possibilitar eventual afastamento dessa indenização - ou mesmo afastar a necessidade de nova perícia, a despeito do quanto decidido na origem, demandaria reexame de matéria fático-probatória, inviável em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.190.872/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 15% para 16% sobre o valor da condenação.
+Publique-se.
+EMENTA
