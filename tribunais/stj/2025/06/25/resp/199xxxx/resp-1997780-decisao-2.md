@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ ORESTE BOZELLI contra decisão proferida pelo Tribunal de Justiça de São Paulo que admitiu parcialmente o recurso especial interposto nos autos n. 0003264-95.2016.8.26.0347.
+Consta que o recorrente foi condenado pela prática do crime tipificado no art. 1º, inciso IV, da Lei n. 8.137/1990, à pena inicial de 4 (quatro) anos de reclusão e 19 (dezenove) dias-multa. A apelação criminal interposta foi parcialmente provida, para fixar o regime aberto para cumprimento da pena, mantida no mais a sentença condenatória (e-STJ fls. 816/824).
+Em embargos de declaração, o Tribunal de origem acolheu parcialmente os embargos, sem reflexo no resultado do julgamento (e-STJ fl. 900).
+No recurso especial (e-STJ fls. 869/881), com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega violação ao art. 12, I, da Lei n. 8.137/1990, sustentando que não houve fundamentação adequada para aplicação da causa de aumento de grave dano à coletividade, pois o Tribunal a quo teria afirmado genericamente que "o valor de R$ 252.317,70, valor significante e que sem a menor dúvidas causou prejuízos à coletividade", sem demonstrar concretamente a ocorrência do especial dano exigido pela norma. Argumenta, ainda, violação ao art. 41 do CPP, alegando inépcia da denúncia por não descrever adequadamente a conduta criminosa e por ausência de indícios suficientes de autoria e materialidade. Sustenta também violação ao art. 13 do CP, pleiteando sua absolvição por não ter concorrido para a prática da infração penal, aduzindo que houve adoção ilegal de responsabilidade objetiva, uma vez que "não haver sequer uma única assinatura ou prova indiciária da ciência ou concordância" quanto aos fatos descritos na denúncia. Por fim, aduz divergência jurisprudencial quanto à interpretação dos dispositivos legais mencionados, sustentando que outros tribunais teriam dado solução diversa para casos análogos.
+O recurso especial foi admitido parcialmente na origem, apenas quanto à questão do art. 12, I, da Lei n. 8.137/1990 (e-STJ fls. 943/945).
+Houve, então, a interposição do presente agravo (e-STJ fls. 950/967).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo provimento do recurso especial na parte admitida (e-STJ fls. 1040/1048).
+É o relatório.
+Decido.
+O agravante sustenta que deveria ter sido admitido integralmente o recurso especial, insurgindo-se contra a parte da decisão que não admitiu as demais alegações.
+Ocorre que, segundo o entendimento consolidado desta Corte Superior, quando há admissão parcial do recurso especial, opera-se o efeito devolutivo integral, de modo que todas as questões suscitadas no recurso, ainda que expressamente não admitidas na instância de origem, serão devolvidas para apreciação desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. ESTELIONATO. RECURSO ESPECIAL PARCIALMENTE ADMITIDO. EFEITO DEVOLUTIVO INTEGRAL. AUSÊNCIA DE INTERESSE RECURSAL PARA A INTERPOSIÇÃO DE AGRAVO CONTRA A PARTE NÃO ADMITIDA. INTELIGÊNCIA DAS SÚMULAS 292 E 528 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo entendimento jurisprudencial, com a admissão parcial do Recurso Especial as outras questões, ainda que expressamente não admitidas na instância local, serão devolvidas para apreciação desta Corte Superior. Nesse contexto, sobressai nítida a falta de interesse recursal da agravante, o que inviabiliza o cabimento deste Agravo em Recurso Especial. Incide, por analogia, as Súmulas 292 e 528 do STF.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.187.056/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Na hipótese dos autos, verifica-se que o recurso especial foi admitido parcialmente quanto à alegada violação ao art. 12, I, da Lei n. 8.137/1990. Dessa forma, em razão do efeito devolutivo integral, todas as demais questões suscitadas no recurso especial (inépcia da denúncia, violação ao art. 13 do CP e divergência jurisprudencial) serão necessariamente apreciadas quando do julgamento do recurso especial, ainda que não tenham sido expressamente admitidas na origem.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
