@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se habeas corpus substitutivo de revisão criminal, com pedido liminar, impetrado em favor de THIAGO ADORICO HAMMES, contra acórdão Tribunal de Justiça do Estado de Santa Catarina.
+Extrai-se dos autos que o paciente foi condenado definitivamente pela prática do crime previsto no art. 155, §4º, inciso II e IV, c/c art. 299, caput, todos do Código Penal, às penas de 3 anos e 8 meses de reclusão e 22 dias-multa, em regime inicial semiaberto.
+O Tribunal de origem conheceu parcialmente da revisão criminal e, nesta extensão, julgou-lhe improcedente (e-STJ, fl. 11-15).
+Nesta Corte, a defesa alega, em síntese, que deve ser fixado regime aberto, haja vista que o paciente é primário e suas circunstâncias judiciais foram majoritariamente favoráveis.
+Requer a concessão da ordem para aplicar regime aberto e substituir a pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O capítulo da fixação de regime aberto não foi apreciado pelo Tribunal a quo, por fundamento de mera reiteração de pedidos, motivo pelo qual inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+O Tribunal a quo assim decidiu sobre a conversão da pena privativa em restritiva de direitos:
+"Como os vetores do caput do art. 59 do Código Penal são critério para a avaliação sobre a conveniência da substituição da pena (CP, art. 59, IV) e como a ponderação sobre a suficiência da imposição de penas restritivas de direito depende especificamente da ponderação sobre as circunstâncias do delito (CP, art. 44, III), não há ilegalidade decorrente da almejada substituição" (e-STJ, fl. 15)
+No tocante à conversão da pena corporal por restritivas de direito, malgrado seja tecnicamente primário, verificam-se circunstâncias judiciais desfavoráveis, o que, nos termos do art. 44, III, do Código Penal, obsta a concessão do benefício penal.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. APLICABILIDADE. BIS IN IDEM CONFIGURADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME PRISIONAL. PENA INFERIOR A 4 ANOS. CIRCUNTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO SEMIABERTO. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 di as, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A conclusão do Tribunal a quo de que o paciente se dedicava à atividade criminosa está alicerçada, precipuamente, na grande quantidade de entorpecentes apreendidos. Inadmitido conjecturas e suposições acerca da dedicação ou integração com organização criminosa.
+3. Inviável, sob pena de bis in idem, a aplicação de fração diferente do patamar máximo permitido (2/3), haja vista que a quantidade de drogas foi usada para a exasperação da pena-base do agravante.
+4. Considerando as circunstâncias judiciais desfavoráveis ao agravante, é mais adequada a fixação do regime mais gravoso sequente, qual seja, o semiaberto, nos termos do art. 33, §2º, b, do Código Penal. Descabida a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, III, do Código Penal.
+5. Agravo regimental parcialmente provido." (AgRg no HC n. 881.739/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Neste contexto, deve ser reconhecida a idoneidade dos fundamentos declinados pelo tribunal de origem, restando evidente a inviabilidade da concessão da benesse prevista no art. 44 do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
