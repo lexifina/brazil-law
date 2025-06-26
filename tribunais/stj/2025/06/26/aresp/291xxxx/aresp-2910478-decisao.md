@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LAIS BENITO CORTES DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. EXTINÇÃO DO PROCESSO E CONDENAÇÃO DA ADVOGADA AO PAGAMENTO DAS DESPESAS PROCESSUAIS E MULTA POR LITIGÂNCIA DE MÁ-FÉ. INSTAURAÇÃO DE PROCEDIMENTO INTERNO PARA APURAÇÃO DE PRÁTICA DE FRAUDE PELA PATRONA. MULTIPLICIDADE DE AÇÕES IDÊNTICAS AJUIZADAS PELA MESMA ADVOGADA SEM CONHECIMENTO DOS AUTORES. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 81 do CPC, no que concerne à necessidade de redução da multa por litigância de má-fé, porquanto o valor fixado de 10 salários-mínimos excede o limite legal de 10% sobre o valor corrigido da causa, trazendo a seguinte argumentação:
+15. O v. acórdão manteve a condenação imposta pelo D. juízo a quo, qual seja, "sem prejuízo, condeno, ainda a Dra. LAÍS BENTO CORTES DA SILVA em multa por litigância de má-fé, que fixo em 10 salários-mínimos, nos termos do artigo 80, III e 81, §2º do Código de Processo Civil", negando vigência ao próprio art. 81 do Código de Processo Civil, que prevê expressamente o limite máximo de 10% sobre o valor corrigido da causa, para fins de multa por litigância de má-fé.
+ ..
+17. Ora, Excelências, o v. acórdão deixou de observar os parâmetros estabelecidos em lei quando manteve a fixação da multa por litigância de má-fé, pois, ainda que mediante compreensível fundamentação, o v. acórdão manteve multa em valor astronômico, praticamente dezessete vezes maior do que o valor atribuído à causa, contrariando o art. 81 do Código de Processo Civil, que expressamente prevê que a multa "deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa".
+18. Nesse sentido, sendo o valor atribuído à causa R$ 848,17 (oitocentos e quarenta e oito reais e dezessete centavos), tem-se que a egrégia 8ª Câmara de Direito Privado do Tribunal de Justiça do Rio de Janeiro deveria ter fixado multa no valor máximo de R$ 84,81 (oitenta e quatro reais e oitenta e um centavos).
+19. Diante disso, imperiosa a fixação da multa em valor razoável, que considere o contido no caput do art. 81 do CPC.
+20. Ante o exposto, considerando que a fundamentação do v. acórdão negou vigência ao art. 81 do CPC, desconsiderando o limite aplicável à multa por litigância de má-fé, arbitrando-a em valor que supera o valor atribuído à causa praticamente em dezessete vezes, requer-se seja o v. acórdão reformado, para que a multa seja fixada entre os valores de 1% a 10% sobre o valor atribuído à causa (fls. 647-648).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
