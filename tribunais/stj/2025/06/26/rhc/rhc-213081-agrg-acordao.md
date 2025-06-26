@@ -1,0 +1,126 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. AUSÊNCIA DO REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. INCURSÃO APROFUNDADA NA SEARA FÁTICO-PROBATÓRIA. INCOMPATIBILIDADE COM A VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Recebida a notícia do cometimento de falta grave no decorrer do cumprimento da pena em regime aberto, a jurisprudência desta Corte autoriza a regressão cautelar de regime pelo Juízo das Execuções.
+2. A decisão agravada negou provimento ao recurso ordinário consignando que o apenado possui conturbado histórico prisional tendo o acórdão destacado expressamente a "falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício.
+3. A desconstituição do que ficou assentado pelas instância ordinárias implica reexame aprofundado do conjunto fático-probatório, providência totalmente incompatível com os estreitos limites da via eleita, que é caracterizada pelo rito célere e cognição sumária.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por GABRIEL VINICIUS RODRIGUES SILVA contra decisão monocrática de minha lavra (e-STJ fls. 1976/1984), na qual neguei provimento ao recurso em habeas corpus impetrado em seu favor e por meio do qual pretendia a concessão do livramento condicional.
+No presente agravo regimental, a Defesa argumenta que "em razão de rompimento o lacre de tornozeleira eletrônica, mesmo após este cumprir 08 anos e 02 meses, da condenação total de 12 anos, 01 mês de sua reprimenda, ou seja, restando apenas 03 anos, 11 meses e 10 dias, foi determinada a Regressão de Regime em desfavor do Paciente, mesmo este tendo direitos inerentes ao Livramento Condicional, e até mesmo a progressão, antes mesmo de qualquer existência de falta grave a ser apurada" (e-STJ fls. 1993/1994).
+Sustenta que em relação as faltas graves utilizadas para justificar a regressão de regime "foram devidamente justificadas pelo próprio Agravante, e devidamente aceitas, haja vista que nada mais foi necessário, como por exemplo audiência de justificação ou apresentação de defesa pelas advogadas constituídas do Agravante, não sendo fundamento idôneo para impedir benéfico que o Agravante já teria a mais de 03 anos atras antes de qualquer regressão por rompimento de tornozeleira" (e-STJ fl. 1998).
+Reitera que a "segregação imposta em desfavor do Agravante, com a determinação de Regressão de regime é totalmente ilegal, haja vista que este já teria preenchido os requisitos objetivos e subjetivos no dia 19/03/2021, sendo que a regressão ilegal aplicada, não havendo que se falar em falta do requisito subjetivo para concessão da benesse que o Paciente já teria direito e vencida a mais de 02 anos, sem sua concessão" (e-STJ fls. 2008/2009).
+Pede, ao final, o provimento do recurso para que "seja concedido em favor do Recorrente Livramento Condicional, independentemente da regressão determinada pelo juízo coator, haja vista que o Recorrente já tinha direito do benefício benesse antes mesmo de qualquer regressão, sendo que na época teria preenchido os requisitos objetivos e subjetivos. No mais, requer que seja concedido o Livramento Condicional, haja vista que o Recorrente já foi prejudicado com regressão de regime, e assim diante da falta de concessão está sendo duplamente punido, incorrendo ainda em bis in idem" (e-STJ fl. 2014).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. AUSÊNCIA DO REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. INCURSÃO APROFUNDADA NA SEARA FÁTICO-PROBATÓRIA. INCOMPATIBILIDADE COM A VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Recebida a notícia do cometimento de falta grave no decorrer do cumprimento da pena em regime aberto, a jurisprudência desta Corte autoriza a regressão cautelar de regime pelo Juízo das Execuções.
+2. A decisão agravada negou provimento ao recurso ordinário consignando que o apenado possui conturbado histórico prisional tendo o acórdão destacado expressamente a "falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício.
+3. A desconstituição do que ficou assentado pelas instância ordinárias implica reexame aprofundado do conjunto fático-probatório, providência totalmente incompatível com os estreitos limites da via eleita, que é caracterizada pelo rito célere e cognição sumária.
+4. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo.
+Entretanto, em que pesem os judiciosos argumentos postos no agravo regimental, tenho que não tiveram o condão de abalar os fundamentos da decisão monocrática que negou provimento ao recurso em habeas corpus nos seguintes termos:
+O Juízo das Execuções indeferiu o benefício pleiteado em decisão assim fundamentada (e-STJ, fls. 1893/1896):
+Compulsando os autos, observa-se que relatório da situação processual executória (RSPE) da mov. 300 atesta o adimplemento do requisito objetivo para a concessão do livramento condicional em 18/03/2021.
+Extrai-se que o livramento condicional foi indeferido à época por ausência do requisito subjetivo ante a prática de suposto novo crime, em 13/01/2021, que tramitou perante o Juízo da 5ª Vara Criminal de Anápolis/GO, na ação penal nº 5013733-69.2021.8.09.0006, nos termos da decisão da mov. 114.
+Com a redistribuição dos autos a esta Comarca (mov. 181), observa-se que o benefício da progressão de regime foi deferido por Juízo diverso do que indeferiu o livramento condicional.
+Apesar da concessão da progressão de regime posterior ao indeferimento do livramento condicional, respeitado o livre convencimento do Juízo competente à época, nota-se que, em verdade, a certidão carcerária da mov. 176, apesar de atestar bom comportamento carcerário, não refletia a realidade dos fatos, uma vez que havia notícia de falta grave praticada pelo reeducando naquele período em questão , o que ensejou o indeferimento da liberdade condicional.
+Ademais, o documento emitido pela direção da Unidade Prisional não vincula o Juízo à concessão de eventuais benefícios, sendo necessária a análise dos demais elementos processuais, diligência esta observada pelo Juízo que proferiu a decisão da mov. 114.
+Sobre o assunto, colaciono julgado do STJ:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. HISTÓRICO CARCERÁRIO. PRÁTICA DE FALTA GRAVE RECENTE. DECISÃO MANTIDA. 1. "A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de (AgRg no HC n. 660.197/SP, relator Ministro documentos administrativos". Rogerio Schietti Cruz, Sexta Turma, julgado em 17/8/2021, D Je 25/8/2021.) 2. O registro de falta grave relativamente recente constitui fundamento apto a justificar o indeferimento do benefício do livramento condicional, ainda que decorrido um ano, sendo imprópria a via do especial à revisão do Precedentes. 3. Agravo regimental improvido. (AgRg no entendimento. AR Esp n. 2.223.180/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/2/2024, D Je de 23/2/2024.)
+Além disso, extrai-se de certidão carcerária da mov. 35 que o sentenciado ostentava diversas faltas graves no curso da execução penal desde sua prisão em 01/01/2015.
+Posteriormente ao indeferimento da benesse, sem que houvesse sido operada a reabilitação do reeducando, foram noticiadas novas infrações disciplinares em menos de 12 (doze) meses após o ocorrido, consistentes em violações de área do monitoramento eletrônico, motivo pelo qual o reeducando foi advertido pela Central de Monitoramento, conforme documento da mov. 231.4, comprometendo, assim, o seu de bom comportamento. status
+Novamente o sentenciado incorreu em faltas, consistentes em não comparecimento na Unidade Prisional para assinatura da folha de frequência semanal do regime semiaberto, consoantes folhas de mov. 251, 262, 272, 274, 275 e seguintes.
+Não suficiente, o reeducando empreendeu fuga ao deixar a tornozeleira eletrônica descarregar totalmente por período superior à 24 (vinte e quatro) horas e sobreveio informações de que a causídica do sentenciado entregou o equipamento de monitoração no Posto de Fiscalização, inferindo-se possível rompimento da cinta do aparelho de monitoramento, documentos das movs. 312 e 329. vide
+Nota-se, assim, que durante todo o período antes - e depois - do indeferimento do livramento condicional em 29/04/2021 (mov. 114) o penitente não ostentava bom comportamento durante o resgate da reprimenda, indo ao encontro do impedimento previsto no art. 83, III, "a" do CP.
+A controvérsia em questão é pauta do Tema Repetitivo 1161 no Superior Tribunal de Justiça, cujo entendimento majoritário atual na Quinta e Sexta Turma do r. STJ leva em consideração todo o histórico prisional do sentenciado. Senão vejamos:
+(..)
+Assim, considerando que o(a) sentenciado(a) não obteve bom comportamento durante a execução das penas na presente execução, à luz do princípio da uniformização da jurisprudência e demais motivos supracitados, impõe-se a não concessão do benefício.
+Ante o exposto, INDEFIRO o livramento condicional do sentenciado GABRIEL VINICIUS RODRIGUES SILVA ante o não preenchimento do requisito subjetivo, nos termos do art. 83, III, "a" do CP.
+O Tribunal de origem, por sua vez, manteve a decisão, apresentando os seguintes fundamentos (e-STJ, fls. 51/52):
+ ..
+01. Contextualização
+Segundo informa a impetração, "O Requerente foi condenado à pena unificada de 12 anos 01 mês de reclusão por infração ao art. 33 da lei 11.343/06 e art. 157 do Código Penal, tendo as respeitáveis Sentenças transitado em julgado. Ocorre que o Requerente já havia cumprido a pena de 08 anos, 01 mês e 13 dias, restando apenas para finalização da sua Execução Penal o quantum de 03 anos 11 meses e 17 dias. Ademais, o Paciente alcançou requisitos para concessão do livramento condicional no dia 19 de março de 2021. (..) Todavia, em razão de rompimento o lacre de tornozeleira eletrônica, mesmo após este cumprir 08 anos e 02 meses, da condenação total de 12 anos, 01 mês de sua reprimenda, ou seja, restando apenas 03 anos, 11 meses e 10 dias, foi determinada a Regressão de Regime em desfavor do Paciente, mesmo este tendo direitos inerentes ao Livramento Condicional, e até mesmo a progressão, antes mesmo de qualquer existência de falta grave a ser apurada."
+No feito da execução penal (Proc. 0356868-22.2016.8.09.0006, Seq. 414.1) consta que, no dia 22/11/2024, o paciente anexou petição requerendo a concessão de livramento condicional, com manifestação desfavorável pelo Ministério Público em 1º grau (Seq. 418.1). Após, supervenientemente à impetração, o juízo lavrou decisão indeferindo o pedido de livramento condicional (Seq. 424.1).
+02. Teses de direito ao livramento condicional e demora na apreciação do pedido
+Primeiramente, de se ressaltar que a alegada demora restou superada com a apreciação e indeferimento do pedido de livramento condicional, ausente atraso desarrazoado quanto ao tempo de análise. Portanto, o que está sob exame na presente impetração é a análise de um dos requisitos subjetivos para a concessão do livramento condicional.
+A impetração sustenta que o paciente alcançou direito ao livramento condicional em 19/03/2021, contudo, em razão do rompimento de tornozeleira eletrônica, foi determinada a regressão de regime. Alega direito à concessão do benefício, vez que antes do cometimento da falta grave, o paciente já havia implementado os requisitos para o livramento condicional.
+A autoridade coatora indeferiu o pedido com os seguintes fundamentos (mov. 18):
+(..)
+Em análise à prova pré constituída, própria do habeas corpus, infere-se que a decisão que indeferiu o benefício não se revela manifestamente desarrazoada a justificar a concessão da ordem, notadamente porque fundamentada na falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício.
+Ressalta-se que o enfrentamento com maior amplitude da questão suscitada pertinente ao requisito subjetivo demanda dilação probatória abrangendo toda a situação carcerária, com a finalidade de averiguar e debater fatos, situação que se mostra mais apropriada no recurso próprio, observado o contraditório, principalmente porque já interposto agravo em execução penal, em fase de processamento na origem (SEEU nº 0356868-22.2016.8.09.0006).
+Portanto, não se evidencia coação ilegal manifesta ao direito de liberdade.
+03. Conclusão
+POSTO ISSO, voto pelo conhecimento e denegação da ordem de habeas corpus.
+A legislação penal exige o bom comportamento carcerário durante o cumprimento da pena como condição subjetiva para o livramento condicional, dentre outros requisitos:
+Código Penal:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+ ..
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+ ..
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir.
+No caso, verifica-se que o apenado possui conturbado histórico prisional tendo o acórdão destacado expressamente a "falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício" (e-STJ fl. 1924)
+Desse modo, não está preenchido o requisito subjetivo previsto no art. 83, III, "a", para a concessão do benefício, que deve ser entendido de modo global, o que justifica, efetivamente, o indeferimento da benesse.
+Impende registrar, nesse sentido, que a noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos (AgRg no HC n. 660.197/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/8/2021, DJe 25/8/2021).
+A seguir, os seguintes julgados, que consideram a prática de faltas graves no decorrer da execução penal um motivo para o indeferimento do livramento condicional:
+(..)
+De se pontuar, inclusive, que, em julgamento do Recurso Especial n. 1.970.217/MG (Relator Ministro RIBEIRO DANTAS, Terceira Seção, julgado em 24/5/2023, DJe de 1º/6/2023), na sistemática dos recursos representativos de controvérsia (Tema 1161), em sessão de 24/5/2023, a Terceira Seção desta Corte firmou tese no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o provimento do recurso.
+Como destacado na decisão agravada, "o apenado possui conturbado histórico prisional tendo o acórdão destacado expressamente a "falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício" (e-STJ fl. 1981).
+Esclareceu-se, ainda, que o Juízo das Execuções indeferiu o benefício assim fundamentando sua decisão (e-STJ fl. 1978/1979):
+"Além disso, extrai-se de certidão carcerária da mov. 35 que o sentenciado ostentava diversas faltas graves no curso da execução penal desde sua prisão em .01/01/2015.
+Posteriormente ao indeferimento da benesse, sem que houvesse sido operada a reabilitação do reeducando, foram noticiadas novas infrações disciplinares emmenos de 12 (doze) meses após o ocorrido, consistentes em violações de área do monitoramento eletrônico, motivo pelo qual o reeducando foi advertido pela Central de Monitoramento, conforme documento da mov. 231.4, comprometendo, assim, o seu de bom comportamento.
+Novamente o sentenciado incorreu em faltas, consistentes em não comparecimento na Unidade Prisional para assinatura da folha de frequência semanal do regime semiaberto, consoantes folhas de mov. 251, 262, 272, 274, 275 e seguintes.
+Não suficiente, o reeducando empreendeu fuga ao deixar a tornozeleira eletrônica descarregar totalmente por período superior à 24 (vinte e quatro) horas e sobreveio informações de que a causídica do sentenciado entregou o equipamento de monitoração no Posto de Fiscalização, inferindo-se possível rompimento da cinta do aparelho de monitoramento, documentos das movs. 312 e 329. vide
+Nota-se, assim, que durante todo o período antes - e depois - do indeferimento do livramento condicional em (mov. 114) o29/04/2021 penitente não ostentava bom comportamento durante o resgate da reprimenda, indo ao encontro do impedimento previsto no art. 83, III, "a" do CP".
+Na decisão agravada ficou consignado que "não está preenchido o requisito subjetivo previsto no art. 83, III, "a", para a concessão do benefício, que deve ser entendido de modo global, o que justifica, efetivamente, o indeferimento da benesse" (e-STJ fl. 1981).
+Cabe destacar, nesse ponto, que a desconstituição do que ficou assentado pelas instância ordinárias implica reexame aprofundado do conjunto fático-probatório, providência totalmente incompatível com os estreitos limites da via eleita, que é caracterizada pelo rito célere e cognição sumária.
+Desse, em que pese a irresignação da Defesa, não se vislumbra argumentos aptos e suficientes para modificar a decisão agravada.
+Em reforço aos precedentes colacionados na decisão agravado, temos, entre vários, os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. NOTÍCIA DE DESCUMPRIMENTO DE REGRA IMPOSTA AO REGIME ABERTO. SUPOSTA PRÁTICA DE FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior e com lastro no poder geral de cautela conferido ao Juiz das Execuções Penais, é válida a decisão que determina a regressão cautelar do regime de cumprimento de pena em razão da suposta prática de infração grave.
+Entende-se, ainda, ser possível a regressão cautelar para qualquer dos regimes mais rigorosos, por analogia ao disposto no art. 118, da Lei n. 7.210/1984.
+2. Na hipótese, o Magistrado singular sustou cautelarmente a manutenção do Agravante em regime aberto e determinou a sua transferência cautelar para o regime semiaberto, e m razão do descumprimento das regras do regime aberto, por violação da regra prevista no art. 146-C, inciso II, da Lei de Execução Penal.
+3. Os temas relativos às supostas condução coercitiva, revista pessoal ilegal, por ausência de justa causa, e prévia advertência à Agravante ao direito de autoincriminação, não foram objeto de debate no acórdão recorrido, motivo pelo qual incabível o exame das matérias, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 184.586/RJ, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. PRÁTICA DE FALTA GRAVE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegava constrangimento ilegal no indeferimento do pedido de livramento condicional.
+2. O indeferimento do livramento condicional foi fundamentado na ausência do requisito subjetivo, evidenciado pela prática de falta disciplinar de natureza grave durante a execução da pena.
+3. O agravante sustentou ter excelente comportamento, argumentando que uma falta grave ocorrida há mais de três anos não deveria ser considerada indefinidamente.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prática de falta disciplinar grave, mesmo que antiga, pode justificar o indeferimento do livramento condicional por ausência do requisito subjetivo.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que a gravidade do delito e a longa pena a cumprir não são fundamentos idôneos para o indeferimento do livramento condicional.
+5. O histórico prisional conturbado, com a prática de faltas disciplinares graves, demonstra a inaptidão do apenado para o benefício do livramento condicional.
+6. A jurisprudência do STJ estabelece que faltas graves justificam o indeferimento do benefício ante a ausência do requisito subjetivo, sem limitação temporal para análise do comportamento.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no HC n. 958.743/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/3/2025, DJEN de 12/3/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, mantendo a decisão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução penal, indeferindo o pedido de livramento condicional por ausência de requisito subjetivo.
+2. O agravante, condenado a 16 anos, 11 meses e 16 dias de reclusão por crimes de furto qualificado, teve o pedido de livramento condicional negado devido à prática de falta disciplinar grave, consistente em tentativa de abandono do sistema prisional durante o regime semiaberto.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prática de falta grave durante a execução da pena impede a concessão do livramento condicional, considerando o requisito subjetivo de bom comportamento carcerário ao longo de toda a pena, conforme o art. 83, III, do Código Penal.
+4. A discussão também envolve a aplicação do Tema 1161 do STJ, que estabelece que a valoração do requisito subjetivo deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do art. 83, III, do Código Penal.
+III. Razões de decidir
+5. O Tribunal a quo manteve o indeferimento do benefício com base no histórico carcerário conturbado do apenado, especialmente pela prática de falta grave durante a progressão de regime prisional.
+6. A jurisprudência do STJ, conforme o Tema 1161, estabelece que o requisito subjetivo para concessão do livramento condicional deve considerar todo o histórico prisional, não se limitando ao período de 12 meses.
+7. A prática de falta grave recente demonstra a ausência do requisito subjetivo exigido para a concessão do livramento condicional, conforme entendimento consolidado no STJ.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+(AgRg no HC n. 958.577/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Desse modo, inexiste flagrante constrangimento ou ilegalidade na decisão agravada que autorize o provimento do recurso ou a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
