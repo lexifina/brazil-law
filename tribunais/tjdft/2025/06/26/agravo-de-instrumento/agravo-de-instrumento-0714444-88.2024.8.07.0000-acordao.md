@@ -1,0 +1,159 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0714444-88.2024.8.07.0000AGRAVANTE(S)BRENDO COSTA BRAGAAGRAVADO(S)INSTITUTO EURO AMERICANO DE EDUCACAO CIENCIA TECNOLOGIARelatorDesembargador JAMES EDUARDO OLIVEIRA
+ Acórdão Nº2014990
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL.  CUMPRIMENTO DE SENTENÇA. BLOQUEIO ELETRÔNICO PELO SISBAJUD. QUANTIA DEPOSITADA EM CONTA POUPANÇA. IMPENHORABILIDADE. VALOR CORRESPONDENTE A VERBA SALARIAL. CONSTRIÇÃO QUE NÃO PODE SUBSISTIR.
+
+I. De acordo com o artigo 833, inciso X, do Código de Processo Civil, é impenhorável quantia inferior a 40 (quarenta) salários-mínimos depositada em conta poupança.
+
+II. É desnecessário perquirir, para o reconhecimento da impenhorabilidade, a origem dos valores depositados na conta poupança e a forma do seu uso pelo titular, ressalvada a demonstração de má-fé ou abuso de direito.
+
+III. Não pode subsistir bloqueio de quantia provinda da remuneração de um salário mínimo percebida pelo executado, nos termos do artigo 833, inciso IV, do Código de Processo Civil.
+
+IV. Agravo de Instrumento conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JAMES EDUARDO OLIVEIRA - Relator, SÉRGIO ROCHA - 1º Vogal e AISTON HENRIQUE DE SOUSA - 2º Vogal, sob a Presidência do Senhor Desembargador SÉRGIO ROCHA, em proferir a seguinte decisão: DAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Julho de 2025
+
+Desembargador JAMES EDUARDO OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de AGRAVO DE INSTRUMENTO interposto por BRENDO COSTA BRAGA contra a seguinte decisão proferida no CUMPRIMENTO DE SENTENÇA requerido pelo INSTITUTO EURO AMERICANO DE EDUCAÇÃO CIÊNCIA TECNOLOGIA:
+
+“Trata-se de impugnação apresentada pela ré, em ID 187912987, em que, em síntese, aduz que os valores bloqueados se encontram na conta poupança e provêm de salário, motivo pelo qual impenhoráveis.
+
+Intimada, a parte exequente rechaça a tese defensiva, requerendo a transferência do valor penhorado na conta indicada.
+
+Decido.
+
+Verifica-se que foi realizada a pesquisa SISBAJUD das contas da parte executada, conforme ID 184765680, sendo realizado o bloqueio total de R$739,07.
+
+Quanto aos valores depositados e bloqueados na conta do Nubank, o executado alega que são quantias provenientes de transferência via PIX de sua conta Santader, de onde recebe seu salário. Em que pese o executado ter demonstrado, de fato, que recebe seu salário em sua conta Santander, e que dessa conta efetuou transferências via PIX para a conta Nubank, conforme ID 187913997, não trouxe aos autos este último extrato bancário, a fim de possibilitar a verificação da correspondência exata entre a quantia bloqueada e o valor transferido, considerando a possibilidade de haver outras quantias depositadas além daquela alegada.
+
+No mais, quanto ao valor bloqueado na Caixa (ID 187913996), embora se trate de conta poupança, observa-se recorrente movimentação bancária a partir de novembro de 2023, em evidente desvirtuamento de sua finalidade precípua. Nesse sentido, já manifestou este e. Tribunal:
+
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PROCESSO DE EXECUÇÃO. INAPLICABILIDADE DA REGRA DA IMPENHORABILIDADE DO VALOR DEPOSITADO EM CONTA POUPANÇA. RECURSO DESPROVIDO. 1. A presente hipótese consiste em examinar a possibilidade de penhora de quantia depositada em conta poupança. 2. A regra prevista no art. 833, inc. X, do CPC, impede a penhora de valores depositados em conta poupança até o limite de 40 (quarenta) salários mínimos. 3. A utilização da conta poupança como meio ordinário de movimentação bancária, no entanto, desvirtua sua finalidade precípua, de modo que os valores ali depositados ficam sujeitos à penhora. 4. A impenhorabilidade do montante equivalente a 40 (quarenta) salários mínimos somente é destinada aos depósitos efetuados em conta poupança, justamente em virtude da peculiaridade de que se destina à guarda de valores que, em regra, não são movimentados com frequência. 4.1. Assim, privilegia-se o ato de poupar, de modo a constituir e resguardar o patrimônio da família, o que é compatível com a regra prevista no art. 226 da Constituição Federal. 5. No caso em exame verifica-se, a partir da análise dos respectivos extratos, a utilização dos valores depositados na efetivação de transferências frequentes, a comprovar que a referida conta não tem por finalidade dar consecução apenas ao hábito de poupar. Por essa razão a quantia em questão não está protegida pela regra da impenhorabilidade. 6. Recurso conhecido e desprovido. (Acórdão 1735330, 07183225520238070000, Relator: ALVARO CIARLINI, 2ª Turma Cível, data de julgamento: 26/7/2023, publicado no DJE: 9/8/2023. Pág.: Sem Página Cadastrada.) - grifo nosso.
+
+Sendo assim, rejeito a impugnação.
+
+Preclusa esta decisão, intime-se o exequente para indicar conta bancária para transferência da quantia bloqueada, no prazo de 5 (cinco) dias.
+
+Após, intime-se para dar andamento ao feito, trazendo a planilha atualizada do débito e indicando bens à penhora, no prazo de 10 (dez) dias.”
+
+O Agravante sustenta que recebe apenas “um salário mínimo por mês” com o seu trabalho, “única fonte de renda para o seu sustento e de sua família”.
+
+Afirma que a quantia de R$ 300,00 foi bloqueada na conta poupança que mantém na Caixa Econômica Federal e que a quantia de R$ 439,82 foi bloqueada na conta corrente que mantém no Banco Nu Pagamentos S/A, ambas decorrentes de sua remuneração.
+
+Conclui que a constrição afronta o artigo 833, incisos IV e X, do Código de Processo Civil.
+
+Requer a atribuição de efeito suspensivo ao recurso e, ao final, o seu provimento para reconhecer a impenhorabilidade dos valores bloqueados.
+
+A decisão de ID 57972485 indeferiu a atribuição de efeito suspensivo ao recurso.
+
+Em contrarrazões, o Agravado argumenta que o Agravante não demonstrou hipossuficiência financeira e a natureza salarial dos valores bloqueados.
+
+Acrescenta que “é possível relativizar a regra da impenhorabilidade das verbas de natureza salarial para pagamento de dívida não alimentar, independentemente do montante recebido pelo devedor, desde que preservado valor que assegure subsistência digna para ele e sua família.”
+
+Pugna pelo não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - Relator
+Presentes os pressupostos objetivos e subjetivos de admissibilidade, conheço do recurso.
+
+Ao ser determinado o bloqueio eletrônico autorizado pelo artigo 854, caput, do Código de Processo Civil, em regra não são conhecidas as fontes que alimentam os ativos financeiros do executado.
+
+Por conta disso, cumprida a ordem de indisponibilidade, cabe ao executado demonstrar que a quantia bloqueada corresponde a alguma das hipóteses de impenhorabilidade, na esteira do que estatui o artigo 854, § 3º, inciso I, do Código de Processo Civil:
+
+“Art. 854. Para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o juiz, a requerimento do exequente, sem dar ciência prévia do ato ao executado, determinará às instituições financeiras, por meio de sistema eletrônico gerido pela autoridade supervisora do sistema financeiro nacional, que torne indisponíveis ativos financeiros existentes em nome do executado, limitando-se a indisponibilidade ao valor indicado na execução.
+
+[...]
+
+§ 3º Incumbe ao executado, no prazo de 5 (cinco) dias, comprovar que:
+
+I - as quantias tornadas indisponíveis são impenhoráveis;
+
+II - ainda remanesce indisponibilidade excessiva de ativos financeiros.”
+
+Trata-se, pois, de ônus que a legislação processual impõe ao executado para que possa ser levantada ou desconstituída a ordem de indisponibilidade. Na explanação de Luiz Guilherme Marinoni e Sérgio Cruz Arenhart:
+
+“Como é evidente, no momento em que a penhora on line é realizada, é impossível saber se o valor está gravado por alguma forma de impenhorabilidade. Em razão disto, e como não poderia ser de outra forma, a lei posterga o exame desta questão, impondo ao devedor o ônus de alegar e provar a existência de razão que inviabilize a penhora do valor indisponibilizado (art. 655-A, § 2º, do CPC). (Curso de Processo Civil, Volume 3, 2ª ed., RT, p. 277)”
+
+É o executado, portanto, quem tem o encargo de suscitar e demonstrar a impenhorabilidade do dinheiro bloqueado. Nesse sentido, decidiu este Tribunal de Justiça:
+
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO. CONTA BANCÁRIA. IMPENHORABILIDADE. VERBA SALARIAL. NÃO COMPROVAÇÃO. BLOQUEIO. SISBAJUD. POSSIBILIDADE. DECISÃO MANTIDA. 1. Compete ao executado o ônus processual de comprovar que as quantias tornadas indisponíveis seriam impenhoráveis, nos termos do art. 854, § 3º, I, do CPC. (...) (AGI 07401651320228070000, 4ª T., rel. Lucimeire Maria da Silva, DJE 20/6/2023)”(g. n.)
+
+“AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. BLOQUEIO VIA SISBAJUD. IMPUGNAÇÃO À PENHORA. ALEGAÇÃO DE VERBA SALARIAL. ÔNUS DA PROVA DO EXECUTADO. IMPUGNAÇÃO REJEITADA. DECISÃO MANTIDA. 1. Cuidando de penhora de ativos financeiros em conta bancária, via SISBAJUD, incumbe ao executado provar que as quantias tornadas indisponíveis são impenhoráveis, conforme dispõe o art. 854, § 3º, inc. I, do CPC. (...) (AGI 07373839620238070000, 5ª T., rel. Fábio Eduardo Marques, PJe 23/2/2024)”(g n.)
+
+O Agravante se desincumbiu desse ônus probatório.
+
+De acordo com o documento de ID 184765680 (autos principais), em 24/01/2024 foram bloqueados R$ 300,00 na conta da Caixa Econômica Federal e no dia 23/01/2024 foram bloqueados R$ 439,07 na conta do Banco Nu Pagamentos S/A.
+
+O bloqueio de R$ 300,00 recaiu na “conta poupança” que o Agravante mantém na Caixa Econômica Federal (ID 187912993 dos autos principais), sendo certo que os extratos de ID 187912994 (autos principais) e os extratos de p. 41/67 ID 57788479 indicam que em 2024 houve movimentações irrelevantes (pix de baixíssimo valor).
+
+O simples fato de a constrição ter alcançado dinheiro depositado em conta poupança basta ao reconhecimento da sua insubsistência, a teor do que prescreve o artigo 833, inciso X, do Código de Processo Civil:
+
+“Art. 833. São impenhoráveis:
+
+[...]
+
+X - a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos;”
+
+Em se tratando de conta com esse perfil, voltada à “aplicação de pequenos valores que passam a gerar rendimentos mensalmente” (fonte Banco Central), é desnecessário perquirir, para o reconhecimento da impenhorabilidade, a origem dos valores depositados e a forma do seu uso pelo titular, salvo quando evidenciada manifesta má-fé ou abuso.
+
+Reitere-se que em janeiro de 2024 a conta poupança registrou movimentações financeiras de baixíssimo valor, tanto que só havia R$ 300,00 no momento em que foi implementado o bloqueio eletrônico.
+
+Ainda que se possa compreender como atípica a movimentação espelhada nos extratos bancários, isso não infirmaria a impenhorabilidade, dada a falta de evidência de que a opção pela conta poupança objetivou blindar artificialmente dinheiro que seria penhorável.
+
+Com efeito, a salvaguarda da impenhorabilidade não deixa de existir simplesmente porque o executado usa o dinheiro depositado na conta poupança segundo as suas necessidades e a sua conveniência.A propósito, decidiu o Superior Tribunal de Justiça:
+
+“AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA PARTE AGRAVADA. 1. De acordo com a atual jurisprudência desta E. Corte, a "garantia da impenhorabilidade é aplicável automaticamente, no patamar de até 40 (quarenta), ao valor depositado exclusivamente em caderneta de poupança. Se a medida de bloqueio/penhora judicial, por meio físico ou eletrônico (Bacenjud), atingir dinheiro mantido em conta-corrente ou quaisquer outras aplicações financeiras, poderá eventualmente a garantia da impenhorabilidade ser estendida a tal investimento - respeitado o teto de quarenta salários mínimos -, desde que comprovado, pela parte processual atingida pelo ato constritivo, que o referido montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial" (REsp n. 1.660.671/RS, relator Ministro Herman Benjamin, Corte Especial, julgado em 21/2/2024, DJe de 23/5/2024). Incidência da Súmula 83 do STJ. 2. É firme o entendimento de que a simples movimentação atípica na conta poupança, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC. 3. A redefinição do enquadramento jurídico dos fatos expressamente mencionados no acórdão hostilizado constitui mera revaloração, afastando a incidência da Súmula 7 desta Corte Superior. 4. Agravo interno desprovido. (AgInt no REsp 2.155.756/DF, 4ª T., rel. Min. Marco Buzzi, DJEN 29/11/2024)” (g.n.)
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS. IRRELEVÂNCIA DO NOME DADO À APLICAÇÃO FINANCEIRA. CARÁTER DE CONTA DE POUPANÇA. ART. 833, X, DO NCPC. APLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. MÁ-FÉ OU FRAUDE NÃO DEMONSTRADAS. AGRAVO INTERNO NÃO PROVIDO. 1. A jurisprudência desta Corte Superior adota o posicionamento de que a simples movimentação atípica em conta, com característica e objetivo de poupança, apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do NCPC. Incidência da Súmula n. 568 do STJ. 2. Agravo interno não provido. (AgInt no AREsp 2.598.754/SC, 3ª T., rel. Min. Moura Ribeiro, DJe 18/9/2024)” (g.n.)
+
+No mesmo sentido, decidiu esta Corte de Justiça:
+
+“AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPUGNAÇÃO À PENHORA. CONTA POUPANÇA. 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. LEVANTAMENTO DA RESTRIÇÃO (...) 3. Na forma do art. 833, inciso X, do Código de Processo Civil, é impenhorável a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos. Ausente comprovação de má-fé, abuso ou fraude, deve ser assegurada a impenhorabilidade da quantia inferior a 40 salários-mínimos encontrada em conta poupança ou outra similar, sendo irrelevante para justificar a penhora a movimentação atípica na conta bancária. IV. DISPOSITIVO. 5. Recurso conhecido e desprovido. (AGI 07399359720248070000, 4ª T., rel. Aiston Henrique de Sousa, DJe 15/01/2025)”
+
+Não se trata de expandir a impenhorabilidade do inciso X do artigo 833 do Código de Processo Civil, concernente à “quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos”, para qualquer tipo de reserva financeira mantida pelo executado.
+
+É preciso respeitar minimamente o intuito legal de preservação de quantia inferior a 40 (quarenta) salários-mínimos que o executado mantém em aplicação financeira com o intuito de fazer frente a adversidades ou para a consecução de planos pessoais.
+
+A interpretação teleológica dessa regra de impenhorabilidade tem o mérito de capturar o escopo normativo de salvaguardar reserva financeira constituída pelo executado para situações de dificuldade ou para a realização de projetos pessoais, mas não pode ir ao ponto de tornar impenhoráveis todos e quaisquer valores depositados em instituições financeiras.
+
+Exegese dessa ordem avança flagrantemente sobre os limites semânticos da regra de impenhorabilidade disposta no inciso X do artigo 833 do Código de Processo Civil, terminando por criar uma nova hipótese de impenhorabilidade que não foi desejada nem idealizada pelo legislador. Conforme assentou o Superior Tribunal de Justiça:
+
+“PROCESSUAL CIVIL. BLOQUEIO DE DINHEIRO VIA BACEN JUD. DINHEIRO DISPONÍVEL EM CONTA-CORRENTE, NÃO EM CADERNETA DE POUPANÇA. IMPENHORABILIDADE ABSOLUTA. ART. 833, X, DO CPC (ANTIGO ART. 649, X, DO CPC/1973). NORMA RESTRITIVA. INTERPRETAÇÃO AMPLIATIVA. IMPOSSIBILIDADE. PRESTÍGIO À JURISPRUDÊNCIA FIRMADA NESSE SENTIDO. AUSÊNCIA DE JUSTIFICATIVA EXCEPCIONAL OU RELEVANTES RAZÕES PARA ALTERAÇÃO. DEVER DOS TRIBUNAIS SUPERIORES DE MANTER SUAS ORIENTAÇÕES ESTÁVEIS, ÍNTEGRAS E COERENTES. DELIMITAÇÃO DA CONTROVÉRSIA 1. A controvérsia cinge-se ao enquadramento das importâncias depositadas em conta-corrente até 40 (quarenta) salários mínimos na impenhorabilidade prevista no art. 649, X, do CPC/1973, atual art. 833, X, do CPC/2015. 2. O Tribunal de origem reformou a decisão de primeiro grau para considerar impenhorável o valor de R$ 40.816,42 depositado em conta-corrente do executado, mesmo que as verbas não tenham origem salarial ou alimentar e estivessem sendo usadas como disponibilidade financeira para pagamentos diversos, tais como "internet, cobranças bancárias, condomínio, saques, cheques, dentre outros", conforme identificado pelo juiz de piso (fls. 125-126, e-STJ). JURISPRUDÊNCIA DO STJ A RESPEITO DA QUESTÃO CONTROVERTIDA 3. A orientação cediça do STJ, desde a introdução do instituto no Código de Processo Civil de 1973, sempre foi no sentido de que a disposição contida no art. 649, X, do CPC/1973 - atual art. 833, X, do CPC/2015 - era limitada aos valores depositados em caderneta de poupança, consoante dicção expressa da lei. Por todos: "O art. 649, X, do CPC, não admite intepretação extensiva, de modo a abarcar outras modalidades de aplicação financeira, de maior risco e rentabilidade, que não detêm o caráter alimentício da caderneta de poupança" (REsp 1.330.567/RS, Rel. Ministra Nancy Andrighi, DJe 27.5.2013). No mesmo sentido: AgRg no REsp 1.371.567/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12.6.2013; AgRg no AREsp 385.316/RJ, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 14.4.2014; AgRg no AREsp 511.240/AL, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 30.3.2015; AgInt no AgInt no AREsp 886.532/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 14.6.2017. 4. Vale acrescentar que, nos casos em que os depósitos realizados eram utilizados mais para fins de movimentação financeira do que como poupança, o entendimento jurisprudencial era de que estava descaracterizada a proteção conferida pela regra da impenhorabilidade, pois destinada a conferir segurança alimentícia e familiar, o que deixava de ocorrer no caso de uso como fluxo de caixa para despesas diversas. 5. Esse posicionamento começou a sofrer alteração a partir de alguns julgados do STJ que passaram a adotar posição diametralmente oposta, no sentido de que "a impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente as aplicações em caderneta de poupança, mas também as mantidas em fundo de investimentos, em conta-corrente ou guardadas em papel-moeda, ressalvado eventual abuso, má-fé, ou fraude, a ser verificado de acordo com as circunstâncias do caso concreto" (REsp 1.582.264/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28.6.2016). No mesmo sentido: REsp 1.230.060/PR, Rel. Ministra Isabel Gallotti, Segunda Seção, DJe 29.8.2014; AgRg no REsp 1.566.145/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18.12.2015; e REsp 1.666.893/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30.6.2017. 6. O acórdão a quo se baseou em precedente da Segunda Seção, firmado por maioria, no REsp 1.230.060/PR, DJe 29.8.2014, Rel. Ministra Isabel Gallotti, para desbloquear as verbas penhoradas da conta-corrente do executado. INTERPRETAÇÃO DO ART. 833, X, DO CPC À LUZ DA CF/1988 E DO ART. 5º DA LINDB 7. Originalmente, o Voto por mim apresentado adotava solução coerente com a posição jurisprudencial que vinha sendo aplicada pacificamente no STJ até 2014, isto é, restringindo a impenhorabilidade do montante de até 40 salários mínimos para o dinheiro aplicado exclusivamente em cadernetas de poupança, com lastro na interpretação literal das normas do CPC/1973 e do atual CPC. 8. Não obstante, dado o brilhantismo dos fundamentos lançados no Voto-Vista divergente apresentado pelo Ministro Luis Felipe Salomão, pedi Vista Regimental para sobre eles refletir e apresentar solução intermediária. 9. Saliento, conforme exposição abaixo, que a modificação adequada e ora submetida ao Colegiado possui abrangência menor do que a veiculada na proposta do eminente par. 10. Primeiramente, reitero, com base nos precedentes acima citados, que o STJ procedeu à alteração jurisprudencial acerca do tema no ano de 2014, situação que não pode ser desconsiderada no julgamento da presente causa. 11. Em segundo lugar, tenho como claro e incontroverso, pela leitura dos dois Votos até aqui apresentados, que a redação literal do Código de Processo Civil (tanto o de 1973 - art. 649, X - como o atual - art. 833, X) sempre especificou que é absolutamente impenhorável a quantia de até 40 salários mínimos aplicada apenas em caderneta de poupança. 12. Sucede que não é despropositado observar que realmente houve alteração na realidade fática atinente às aplicações financeiras. 13. Na cultura generalizada vigente nas últimas décadas do século passado, o cidadão médio, quando pensava em reservar alguma quantia para a proteção própria ou de sua família, pensava naturalmente na poupança. 14. Hoje em dia, não é incomum verificar a grande expansão de empresas especializadas em atender a um crescente mercado voltado ao investimento no mercado financeiro, sendo frequente que um segmento social (ainda que eventualmente pequeno) relativamente privilegiado saiba muito bem que, atualmente, a poupança é a aplicação que dá menor retorno. 15. Exatamente por essa razão é que se entende, após melhor ponderação sobre o tema, que o nome da aplicação financeira, por si só, é insuficiente para viabilizar a proteção almejada pelo legislador. Em outras palavras, a se considerar que a reserva de numerário mínimo, destinada a formar patrimônio necessário ao resguardo da dignidade da pessoa humana (aqui incluída a do grupo familiar a que pertence), constitui o fim social almejado pelo legislador, não seria razoável, à luz da Constituição Federal e do art. 5º da LINDB, consagrar entendimento no sentido de proteger apenas a parte processual que optou por fazer aplicação em "cadernetas de poupança", instituindo tratamento desigual para outros que, aplicando sua reserva monetária em aplicações com características e finalidade similares à da poupança, buscam obter retorno financeiro mais bem qualificado. 16. No sentido acima, chama-se atenção para o fato de que a hipótese não é de interpretação ampliativa - incabível em relação às normas de exceção em um microssistema jurídico -, mas de sua exegese à luz da Constituição Federal de 1988 e do art. 5º da LINDB. 17. Não sensibiliza, todavia, a genérica menção à ampliação da impenhorabilidade, que passaria a ser geral e irrestrita, a todo e qualquer tipo de aplicação financeira de até 40 salários mínimos, com amparo na necessidade de se proceder à exegese da norma em conformidade com outros valores prestigiados constitucionalmente. 18. Isso porque, embora evidentemente as normas não possam ser interpretadas contra outros valores constitucionais, a ciência jurídica impõe o acato e a observância à rigorosa técnica da hermenêutica e de ponderação de valores de normas aparentemente conflitantes. Assim, a menção abstrata a outros valores de estatura constitucional, por si só, é insuficiente para justificar, como resultado exegético, interpretação que entre em atrito com outras máximas, ou princípios e fundamentos técnico-jurídicos, como os de que a lei não contém palavras inúteis, ou de que as normas de exceção devem ser interpretadas restritivamente. 19. Dito de outro modo, o que se tem por razoável é considerar, na melhor das hipóteses, que a norma sobre a impenhorabilidade deve ser interpretada, à luz da CF/1988, sob a perspectiva de preservar direitos fundamentais, sem que isso autorize, entretanto, a adoção de interpretação ampliativa em relação a normas editadas com finalidade eminentemente restritiva (já que a impenhorabilidade, como se sabe, constitui exceção ao princípio da responsabilidade patrimonial), pois, em tal contexto, não haveria interpretação buscando compatibilizar normas jurídicas, mas construção de um ordenamento jurídico sustentado por sistema hermenêutico autofágico, em que uma norma aniquilaria o espírito e a razão de existir de outra. 20. É precisamente por esse motivo que merece reprodução o seguinte excerto lançado no próprio Voto-Vista do Ministro Luis Felipe Salomão, o qual se reporta à "lapidar lição de Fredie Didier Jr" (destaques meus, em negrito): "(...) a restrição à penhora de certos bens apresenta-se como uma técnica processual tradicional e bem aceita pela sociedade contemporânea. Mas essas regras não estão imunes ao controle de constitucionalidade in concreto e, por isso, podem ser afastadas ou mitigadas se, no caso concreto, a sua aplicação revelar-se não razoável ou desproporcional.". 21. Como base no acima exposto, à luz do princípio da proporcionalidade e da razoabilidade, é inadequado formar-se posicionamento jurisprudencial que consubstancie orientação no sentido de que toda aplicação de até 40 (quarenta) salários mínimos, em qualquer tipo de aplicação bancária ou financeira, estará sempre enquadrada na hipótese do art. 833, X, do CPC. 22. A partir do raciocínio acima, a melhor interpretação e aplicação da norma é aquela que respeita as seguintes premissas: a) é irrelevante o nome dado à aplicação financeira, mas é essencial que o investimento possua características e objetivo similares ao da utilização da poupança (isto é, reserva contínua e duradoura de numerário até quarenta salários mínimos, destinada a conferir proteção individual ou familiar em caso de emergência ou imprevisto grave) - o que não ocorre, por exemplo, com aplicações especulativas e de alto risco financeiro (como recursos em bitcoin, etc.); b) não possui as características acima o dinheiro referente às sobras que remanescem, no final do mês, em conta-corrente tradicional ou remunerada (a qual se destina, justamente, a fazer frente às mais diversas operações financeiras de natureza diária, eventual ou frequente, mas jamais a constituir reserva financeira para proteção contra adversidades futuras e incertas); c) importante ressalvar que a circunstância descrita no item anterior, por si só, não conduz automaticamente ao entendimento de que o valor mantido em conta-corrente será sempre penhorável. Com efeito, deve subsistir a orientação jurisprudencial de que o devedor poderá solicitar a anulação da medida constritiva, desde que comprove que o dinheiro percebido no mês de ingresso do numerário possui natureza absolutamente impenhorável (por exemplo, conta usada para receber o salário, ou verba de natureza salarial); d) para os fins da impenhorabilidade descrita na hipótese "a", acima, ressalvada a hipótese de aplicação em caderneta de poupança (em torno da qual há presunção absoluta de impenhorabilidade), é ônus da parte devedora produzir prova concreta de que a aplicação similar à poupança constitui reserva de patrimônio destinada a assegurar o mínimo existencial ou a proteger o indivíduo ou seu núcleo familiar contra adversidades. SÍNTESE DA TESE OBJETIVA AQUI APRESENTADA 23. A garantia da impenhorabilidade é aplicável automaticamente, no patamar de até 40 (quarenta) salários mínimos, ao valor depositado exclusivamente em caderneta de poupança. Se a medida de bloqueio/penhora judicial, por meio físico ou eletrônico (Bacenjud), atingir dinheiro mantido em conta-corrente ou quaisquer outras aplicações financeiras, poderá eventualmente a garantia da impenhorabilidade ser estendida a tal investimento - respeitado o teto de quarenta salários mínimos -, desde que comprovado, pela parte processual atingida pelo ato constritivo, que o referido montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial. HIPÓTESE DOS AUTOS 24. No caso concreto, a penhora incidiu sobre numerário em conta-corrente, constituindo-se, em tese, verba perfeitamente penhorável. 25. Superada a exegese adotada na Corte regional, devem os autos retornar para que esta, em respeito ao princípio da não supressão de instância, prossiga no julgamento do Agravo de Instrumento, no que concerne à argumentação de que a conta-corrente abrange valores impenhoráveis porque parte da quantia lá depositada possui natureza salarial (fruto da remuneração dos serviços profissionais prestados pelo recorrido, que é advogado), ou, ainda, porque parte dos valores que lá se encontram não é de sua propriedade, mas sim constitui crédito de terceiros (seus clientes) - crédito em trânsito, porque o advogado apenas tomou posse mediante Alvará de Levantamento, por exemplo, e que seria repassado aos verdadeiros destinatários. 26. Recurso Especial provido. (REsp 1.660.671/RS, Corte Especial, DJe 23/5/2024)”(g.n.)
+
+Não é disso, no entanto, que se cuida no caso sub judice: o dinheiro não foi bloqueado em conta corrente ou em aplicação financeira que se afasta do perfil da caderneta de poupança, mas em conta poupança sem movimentação contemporânea indicativa do seu desvirtuamento.
+
+Conclui-se, assim, pela impenhorabilidade da quantia bloqueada na conta poupança da Caixa Econômica Federal.
+
+No que diz respeito à quantia de R$ 439,07, o Agravante alegou que o bloqueio, realizado em 23/01/2024 na conta corrente do Banco Nu Pagamentos S/A, recaiu sobre verba salarial transferida do Banco Santander S/A.
+
+Os extratos da conta corrente do Banco Santander de p. 68/70 ID 57788479 e de ID 187913997 (autos principais) registram crédito de salário no valor de R$ 959,63 no dia 05/01/2024 e a transferência de R$ 601,64 para a conta corrente do Banco Nu Pagamentos por meio de pix enviados em 08/01 (R$ 50,00), 09/01 (R$ 167,00), 10/01 (R$ 100,00), 11/01 (R$ 150,00) e 16/01 (R$ 134,64).
+
+Nesse contexto, não se pode evadir à conclusão de que o bloqueio eletrônico de R$ 439,07 realizado em 23/01/2024 recaiu sobre verba salarial considerada impenhorável pelo artigo 833, inciso IV, do Código de Processo Civil.
+
+Com efeito, restou suficientemente demonstrado que o bloqueio incidiu sobre verba salarial transferida de outra instituição financeira, valendo consignar que o Agravante percebe remuneração de apenas um salário mínimo, circunstância que deve ser levada em consideração para avaliar a validade da constrição que efetivamente compromete sua subsistência e de sua família.
+
+Ademais, a constrição também está em dissonância com o inciso X do artigo 833 do Código de Processo Civil, tendo em vista que, pelo próprio valor da quantia bloqueada, afeta a subsistência digna do executado e de sua família.
+
+ISTO POSTO, conheço e dou provimento ao Agravo de Instrumento para determinar o cancelamento dos bloqueios eletrônicos, nos termos da fundamentação.
+
+O Senhor Desembargador SÉRGIO ROCHA - 1º Vogal Com o relatorO Senhor Desembargador AISTON HENRIQUE DE SOUSA - 2º Vogal Com o relator
+
+DECISÃO
+
+DAR PROVIMENTO AO RECURSO. UNÂNIME
