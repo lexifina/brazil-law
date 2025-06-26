@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por REIDNER PADILHA TORRI em face de decisão monocrática proferida pelo desembargador relator do HC n. 5040717-52.2025.8.24.0000, impetrado originariamente perante o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Conforme consta dos autos, a defesa impetrou o HC n. 5040717-52.2025.8.24.0000 perante o Tribunal de Justiça do Estado de Santa Catarina, apontando como autoridade coatora o Juízo da Vara Criminal da Comarca de Joaçaba, na ação penal n. 5004663-49.2020.8.24.0037. O habeas corpus não foi conhecido, por ter sido manejado como substitutivo de revisão criminal (fls. 39-41).
+Contra a referida decisão monocrática (fls. 39-41), a defesa interpôs o presente recurso ordinário (fls. 48-50), pleiteando seu conhecimento e provimento, com o objetivo de reformar a decisão impugnada.
+Alega-se a atipicidade material da conduta atribuída ao paciente, relativa ao delito previsto no art. 14 da Lei 10.826/03, com fundamento no princípio da insignificância, o que ensejaria sua absolvição com base no art. 386, III, do Código de Processo Penal.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 65-69).
+É o relatório. DECIDO.
+O presente recurso não merece ser conhecido, pois se insurge contra decisão monocrática proferida pelo desembargador relator do HC n. 5040717-52.2025.8.24.0000.
+Compulsando os autos, verifico que não houve interposição de recurso contra a decisão monocrática recorrida, inexistindo manifestação por órgão colegiado da Corte local.
+Segundo o artigo 105, inciso II, "a", da Constituição Federal, o Superior Tribunal de Justiça é competente para julgar os recursos ordinários nos habeas corpus denegados em única ou última instância pelos Tribunais sujeitos à sua jurisdição.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. EXAME CRIMINOLÓGICO. PROGRESSÃO DE REGIME . FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS: IMPETRAÇÃO QUE SE VOLTA CONTRA DECISÃO MONOCRÁTICA DE RELATOR. HABEAS CORPUS NÃO CONHECIDO POR VEICULAR IDÊNTICO TEMA POSTO EM AGRAVO EM EXECUÇÃO PENDENTE DE JULGAMENTO DO TRIBUNAL DE ORIGEM. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO .
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, c, da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ .Situação em que o habeas corpus aqui impetrado se voltava contra decisão monocrática de Relator.
+2. Não padece de ilegalidade o acórdão recorrido que deixa de conhecer de habeas corpus, por veicular idêntico tema posto em agravo em execução pendente de julgamento do Tribunal de origem e cujo conhecimento demanda a análise de matéria fático-probatória. A Terceira Seção desta Corte, por votação majoritária no julgamento do Habeas Corpus n . 482.549/SP, de Relatoria do Min. ROGERIO SCHIETTI CRUZ, firmou entendimento no sentido de que "O habeas corpus, quando impetrado de forma concomitante com o recurso cabível contra o ato impugnado, será admissível apenas se for destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso do objeto do recurso próprio e que reflita mediatamente na liberdade do paciente". Hipótese em que, ademais, as irresignações da defesa serão melhor analisadas por ocasião do julgamento do agravo em execução já interposto pelo recorrente, recurso esse que possui espectro de conhecimento bem mais amplo e aprofundado do que o permitido no rito do habeas corpus .
+3. Agravo regimental desprovido.
+(AgRg no HC 809199-SP (2023/0084607-0), relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 24/04/2023, QUINTA TURMA, Data de Publicação: DJe 28/04/2023)
+Ante o exposto, não conheço do recurso ordinário, nos termos dos artigos 210 e 246, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
