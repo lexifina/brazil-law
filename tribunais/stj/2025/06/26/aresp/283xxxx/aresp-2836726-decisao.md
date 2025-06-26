@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HRH FORTALEZA EMPREENDIMENTO HOTELEIRO S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: rescisão contratual c/c restituição de parcelas ajuizada por LUCIANA MIWA NITA WATANABE e outro, em face do agravante, em razão de atraso na entrega de imóvel.
+Sentença: julgou procedentes os pedidos para decretar a rescisão do contrato e condenar a agravante à restituição dos valores efetivamente pagos e ao pagamento da multa prevista na cláusula sexta, no percentual equivalente a 10% (dez por cento).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PROCESSUAL CIVIL. COMPETÊNCIA. CLÁUSULA. ELEIÇÃO DE FORO. ABUSIVIDADE. CONSUMIDOR. DOMICÍLIO. ESCOLHA. POSSIBILIDADE. CERCEAMENTO DE DEFESA. DECISÃO SURPRESA. NÃO OCORRÊNCIA. PROMESSA. COMPRA E VENDA. IMÓVEL. PLANTA. MULTIPROPRIEDADE. ATRASO. ENTREGA. INADIMPLEMENTO CONTRATUAL. ATRASO CONFIGURADO. PRAZO. TOLERÂNCIA. EXTRAPOLAÇÃO. PANDEMIA. CORONAVÍRUS (COVID-19). CASO FORTUITO. FORÇA MAIOR. AUSÊNCIA. DEVOLUÇÃO INTEGRAL. PARCELAS QUITADAS. (e-STJ fl. 758)
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de fatos e provas (Súmula 7/STJ); ii) incidência da Súmula 13/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não tem aplicabilidade a Súmula nº 07 da Colenda Corte, quando não se tratar de reexame do conjunto fático-probatório, mas sim de revaloração dos critérios jurídicos utilizados neste exame, vez que a situação fática pode levar, inclusive, à conclusão diversa daquela anteriormente adotada"; ii) "o dissenso jurisprudencial foi comprovado por certidão, ou cópia, ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução do julgado disponível na internet, com indicação da respectiva fonte, conforme documentação acostada nos autos."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de fatos e provas (Súmula 7/STJ); ii) incidência da Súmula 13/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, uma vez que a verba honorária foi arbitrada no limite máximo previsto no art. 85, §2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
