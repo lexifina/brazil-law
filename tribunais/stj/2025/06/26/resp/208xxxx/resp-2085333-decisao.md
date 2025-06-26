@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por UNIÃO - FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no julgamento da Apelação Cível n. 5000313-04.2018.4.04.7110/RS.
+Na origem, cuida-se de embargos à execução fiscal proposto por IRMAOS NUNES TRANSPORTES LTDA, no qual postulou a exclusão do ICMS da base de cálculo do PIS e da COFINS.
+Em primeiro grau, a sentença foi proferida para julgar parcialmente procedentes os pedidos, determinando a exclusão dos valores referentes ao ICMS da base de cálculo do PIS e da COFINS, conforme apurado em prova pericial.
+A Corte local, em julgamento da Apelação da União, não conheceu do recurso, em acórdão assim resumido (fl. 2746):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO DA UNIÃO. RAZÕES DISSOCIADAS. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. NÃO CONHECIMENTO.
+1. Nos termos do art. 932, inciso III, do CPC, não se conhece do recurso cujas razões recursais encontram-se dissociadas do conteúdo da decisão apelada, que não impugna especificamente os fundamentos da decisão recorrida.
+2. A União não deduziu nenhum argumento atacando as conclusões da perícia, limitando-se a alegações genéricas da legalidade/constitucionalidade da incidência do ICMS na base de cálculo do PIS/COFINS, processualmente já superadas, em face da realização da prova pericial.
+2. Apelação da União não conhecida.
+Houve embargos de declaração, que foram rejeitados (fl. 2773).
+Nas razões do apelo nobre, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, a recorrente alega vício de fundamentação, pois a Corte local não teria analisado a aplicação da modulação de efeitos do Tema n. 69 do STF. Aponta afronta aos arts. 1.022, II, 1.040, 489, § 1º, IV a VI, 525, §13, 926, 927, 1022 e § 3º, 1.030, III, do CPC, declinando os seguintes argumentos (fls. 2783-2800):
+"A União opôs embargos de declaração em face do v. acórdão recorrido, com vistas a suprir omissões do julgado em relação a pontos relevantes ao deslinde da controvérsia, cabendo destacar os seguintes: Omissão quanto à aplicação da modulação do Tema 69. Ação proposta após 15/03/2017."
+Ao final, requer o provimento do recurso especial para que seja reconhecida a limitação temporal ao direito de excluir o indébito referente aos fatos geradores anteriores a 15/03/2017.
+Houve interposição de contrarrazões (fl. 2820).
+O recurso especial foi admitido (fl. 2856).
+É o relatório.
+Decido.
+O Tribunal de origem enfrentou expressamente o tema referente à inaplicabilidade da modulação de feitos estabelecida no julgamento do Tema n. 69 do STF ao caso concreto, conforme trecho do voto de fl. 2735:
+Sequer a questão relativa à modulação tem impacto sobre o presente feito, porquanto a referida modulação se deu exclusivamente em relação à repetição de indébito, ao passo que a presente ação consiste em embargos à execução fiscal, por meio dos quais o contribuinte busca tão somente defender-se da cobrança de tributos calculados de forma inconstitucional.
+Portanto, inexiste omissão, razão pela qual não há falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Já em relação às demais alegadas violações, o tribunal de origem concluiu pela exclusão do ICMS da base de cálculo da contribuição para o PIS e da COFINS mesmo para lançamentos anteriores à modulação de efeitos estabelecida no Tema n. 69 do STF, com base nos seguintes fundamentos, cada qual suficiente, por si só, para dar suporte à conclusão do Tribunal de origem (fl . 2735): a) "a referida modulação se deu exclusivamente em relação à repetição de indébito, ao passo que a presente ação consiste em embargos à execução fiscal, por meio dos quais o contribuinte busca tão somente defender-se da cobrança de tributos calculados de forma inconstitucional" e; b) " n  enhum argumento atacando as conclusões da perícia foi deduzido pela União, limitando-se a alegações genéricas da legalidade/constitucionalidade da incidência do ICMS na base de cálculo do PIS/COFINS, processualmente já superadas, diante da realização da prova pericial".
+A parte recorrente, no entanto, deixou de impugnar a ausência de contestação específica das conclusões periciais, aptas a subsidiar o afastamento da incidência tributária.
+Portanto, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 2655), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSO CIVIL. EMBARGOS À EXECUÇÃO FISCAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. MODULAÇÃO DE EFEITOS DO TEMA N. 69 DO STF. OMISSÃO. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
