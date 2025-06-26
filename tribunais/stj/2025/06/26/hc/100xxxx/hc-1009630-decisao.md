@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ROBERTO DOUGLAS VITORINO DE SOUSA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do Agravo Interno Criminal n. 2068244-73.2025.8.26.0000/50000.
+Extrai-se dos autos que o Juízo da Execução determinou o exame criminológico para análise de progressão do paciente ao regime semiaberto (fls. 27/32).
+O Tribunal de origem negou provimento ao Agravo Interno Criminal, em acórdão assim sintetizado:
+"DIREITO PENAL. AGRAVO INTERNO CRIMINAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU, LIMINARMENTE, A PRETENSÃO DO PACIENTE. MATÉRIA DE AGRAVO EM EXECUÇÃO PENAL. HABEAS CORPUS: VIA INCORRETA QUE NÃO PODE SUBSTITUIR O RECURSO ORDINÁRIO. MÉRITO QUE TRATA DE QUESTÃO DE ALTA INDAGAÇÃO. DECISÃO ATACADA SUFICIENTEMENTE FUNDAMENTADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A JUSTIFICAR A APRECIAÇÃO DO MÉRITO POR MEIO DESTA AÇÃO. AGRAVO DESPROVIDO.
+1. Paciente que se encontra em cumprimento de pena.
+2. Insurgência contra decisão que determinou a realização de exame criminológico, para apreciação do pedido de progressão de regime prisional.
+3. Decisão prolatada pelo Juízo das Execuções Criminais suficientemente fundamentada, não havendo constrangimento ilegal a justificar apreciação do mérito por meio desta ação.
+4. Recurso cabível: Agravo em Execução Penal.
+5. Habeas corpus. Via eleita incorreta. Demanda que trata de questão de alta indagação.
+6. Agravo desprovido, mantendo indeferimento liminar do writ." (fl. 41).
+No presente writ, a defesa alega a carência de fundamentação idônea na decisão que exigiu o exame criminológico para análise da progressão de regime, uma vez ausente qualquer conduta desabonadora do paciente durante a execução da pena.
+Assevera estarem presentes os requisitos objetivos e subjetivos para o deferimento do benefício.
+Busca, em liminar e no mérito, a concessão da progressão do paciente ao regime semiaberto. Alternativamente, requer seja determinado ao Tribunal de Justiça do Estado de São Paulo que analise o mérito do writ originário.
+Liminar indeferida às fls. 51/52.
+Informações prestadas às fls. 58/60.
+O Ministério Público Federal manifestou-se pela concessão da ordem, de ofício, para determinar que a Corte de origem aprecie o mérito da questão como entender de direito (fls. 65/68).
+É o relatório.
+Decido.
+Diante de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, o Desembargador Relator indeferiu a petição inicial do habeas corpus nos seguintes termos:
+"Ao paciente faculta-se a interposição de recurso de agravo em execução, visando à reforma da decisão contra a qual ora se insurge, não sendo o "Habeas Corpus" a via adequada para tal.
+"Inadmissibilidade Via eleita incorreta Crime hediondo Regime prisional Progressão Necessidade de avaliação pelo Juízo das Execuções Criminais, com rediscussão do tema na via recursal ordinária" (TJSP 856/579).
+"Não se admite o "habeas corpus" como substituto ou sucedâneo de recurso ordinário, para o exame aprofundado da presença das condições subjetivas do sentenciado à comutação de penas" (RJDTACRIM 8/185).
+Desta forma, não sendo o "Habeas Corpus" a via adequada para satisfazer a pretensão do paciente, a denunciar a falta de interesse de agir, pela inadequação do meio, INDEFIRO A PETIÇÃO INICIAL, dispensadas as informações da autoridade apontada como coatora, sendo desnecessária a manifestação do d. Procurador de Justiça." (fl. 36).
+Interposto agravo interno, a decisão de indeferimento do writ foi mantida, conforme acórdão de fls. 40/45.
+Como se vê, a Corte estadual não conheceu da impetração ao argumento de que a matéria desafiaria o recurso de agravo em execução.
+De fato, a jurisprudência desta Corte Superior possui entendimento reiterado no sentido de que não é possível o manejo do habeas corpus para rever circunstâncias subjetivas necessárias à concessão dos benefícios da execução ou apreciar pedidos que demandem revolvimento fático-probatóri o.
+Contudo, o caso em análise diz respeito exclusivamente à fundamentação adotada pelo Juízo das execuções para determinar a realização do exame criminológico, matéria exclusivamente de direito, cuja análise não encontra óbice na impossibilidade de revolvimento fático-probatório.
+No que diz respeito à necessidade de análise das teses deduzidas na origem em habeas corpus substitutivo de recurso próprio, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, a impetração sequer deveria ser conhecida.
+Entretanto, considerando as alegações expostas na inicial e a impossibilidade de análise por esta Corte Superior, sob pena de incorrer em supressão de instância, razoável a concessão da ordem para determinar que o Tribunal de origem analise o feito de modo a verificar a existência de eventual constrangimento ilegal que possa justificar a concessão da ordem de ofício.
+Nesse sentido:
+HABEAS CORPUS. INDULTO. ART. 12 DO DECRETO 11.302/2022. ANÁLISE DO PEDIDO DE INDULTO PELO JUÍZO DE CONHECIMENTO. POSSIBILIDADE. AUSÊNCIA DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO.
+1. A condição primária exigida no indulto não diz respeito à "decisão de primeiro grau", mas, sim, à primariedade do réu, ou seja, eventual reincidência.
+2. No caso, o acórdão impugnado padece de ilegalidade ao deixar de analisar a decisão do Juízo de conhecimento que indeferiu o indulto, sob o fundamento de ausência de competência.
+3. Ordem concedida, em menor extensão, para determinar que o Tribunal de origem analise o mérito do indulto, como entender de direito.
+(HC n. 878.179/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL. TUTELA ANTECIPADA ANTECEDENTE RECEBIDA COMO HABEAS CORPUS. ARTS. 33 E 35 DA LEI N. 11.343/2006 E ART. 12 DA LEI N. 10.826/2003. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. MOTIVAÇÃO IDÔNEA. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na espécie, a segregação preventiva encontra-se devidamente motivada, pois se referiu expressamente o Juiz ao motivo que levou à preservação da custódia no curso do feito, ou seja, à gravidade concreta da conduta, extraída da grande quantidade de entorpecente apreendido - 33kg (trinta e três quilos) de cocaína -, o que se depreende dos autos do HC n. 808.441/SP (impetrado nesta Corte Superior também em favor do ora agravante), na medida em que a defesa nem mesmo juntou a estes autos as decisões proferidas durante o processo e que mantiveram a medida extrema, omissão que poderia ensejar, inclusive, o indeferimento liminar do writ, sem exame meritório, por ausência de prova pré-constituída.
+3. Quanto ao pedido de prisão domiciliar, consoante consignado na decisão agravada, a questão não foi examinada pelo Tribunal de origem no acórdão impugnado (HC n. 2339951-88.2023.8.26.0000), tampouco no acórdão proferido no writ mencionado pela defesa nas razões do anterior agravo interno (HC n. 2118593-17.2024.8.26.0000, o qual foi impetrado objetivando justamente a prisão no domicílio), o que impede o exame da matéria por esta Corte Superior, sob pena de indevida supressão de instância.
+Neste último habeas corpus (HC n. 2118593-17.2024.8.26.0000), a petição inicial foi indeferida em razão da compreensão de que "ao paciente faculta-se a interposição de agravo em execução, visando à reforma da decisão contra a qual ora se insurge, não sendo o "Habeas Corpus" a via adequada para tal".
+Em razão disso, a decisão agravada concluiu pela existência de evidente constrangimento ilegal ocasionado ao acusado, em razão de ser uníssona a orientação desta Casa no sentido do cabimento do remédio constitucional para o exame de questões de direito que, por assim dizer, não demandam o revolvimento de fatos e provas, e concedeu habeas corpus de ofício a fim de determinar que o Tribunal de origem examinasse o mérito do HC n. 2118593-17.2024.8.26.0000, lá impetrado, como entendesse de direito.
+4. Agravo regimental desprovido.
+(AgRg no AgRg na TutAntAnt n. 255/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PENA CORPORAL SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS. PENA DE 1 ANO DE RECLUSÃO. PLEITO DE SUBSTITUIÇÃO POR UMA RESTRITIVA DE DIREITOS OU POR MULTA. REDUÇÃO DO VALOR DA PRESTAÇÃO PECUNIÁRIA DESTINADA À VÍTIMA. QUESTÕES NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. POSSIBILIDADE DE VERIFICAÇÃO DA EXISTÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS CONCEDIDO, DE OFÍCIO. DETERMINAÇÃO DE ANÁLISE DO HC ORIGINÁRIO.
+1. Não tendo o Tribunal a quo exercido cognição sobre a questão tratada nos autos, forçoso reconhecer a impossibilidade de apreciação direta do tema por esta Corte, sob pena de indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte, conforme reiterada jurisprudência.
+2. A jurisprudência desta Corte tem decidido que, embora realmente não se admita a impetração de habeas corpus substitutivo de agravo em execução, cabe ao órgão julgador aferir a existência de eventual coação ilegal imposta ao recorrente, a justificar a concessão da ordem, de ofício.
+3. Agravo regimental não provido. Habeas corpus concedido, de ofício, apenas para determinar que o Tribunal de origem analise o mérito do HC 2237616-93.2020.8.26.0000, como entender de direito, e verifique a existência de eventual flagrante ilegalidade imposta à agravante, a justificar a concessão da ordem, de ofício.
+(AgRg no RHC n. 140.906/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração. Contudo, concedo a ordem de habeas corpus, de ofício, para determinar ao Tribunal de origem que, dentro dos limites do habeas corpus, analise as alegações deduzidas no writ lá impetrado, verific ando a possibilidade da concessão da ordem de ofício.
+Publique-se.
+Intimem-se.
+EMENTA
