@@ -1,0 +1,67 @@
+DECISÃO: Trata-se de habeas corpus de próprio punho interposto contra acórdão do Superior Tribunal de Justiça, assim ementado (eDOC.02, pp. 1-2):
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor do paciente, em razão do trânsito em julgado da condenação, configurando contorno revisional e usurpação da competência do Tribunal de origem, conforme arts. 105, inciso I, alínea "e", e 108, inciso I, alínea "b", da Constituição da República. 2. O agravante reitera alegações de existência de constrangimento ilegal na dosimetria da pena II. Questão em discussão 3. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando as razões apresentadas não enfrentam os fundamentos da decisão agravada, atraindo a aplicação do enunciado n. 182 da Súmula do STJ III. Razões de decidir 4. As razões do agravo regimental não infirmaram os fundamentos da decisão agravada, o que atrai a aplicação do enunciado n. 182 da Súmula do STJ, que impede o conhecimento do agravo que não ataca especificamente os fundamentos da decisão agravada. 5. A decisão recorrida corretamente não conheceu do habeas corpus, pois o writ foi impetrado contra decisão unipessoal que não conheceu de pedido de revisão criminal. IV. DISPOSITIVO E TESE 6. Agravo regimental não conhecido. Tese de julgamento: "1. É inviável o agravo regimental que não ataca especificamente os fundamentos da decisão agravada, conforme enunciado n. 182 da Súmula do STJ. 2. Habeas corpus com contorno revisional não é conhecido, em razão de usurpação da competência do Tribunal de origem."”
+
+    Narra o impetrante que: a) paciente foi condenado à pena de 16 anos pela prática do crime tipificado no art. 121, caput, do Código Penal; b) na sentença condenatória, o Juízo de origem valorou negativamente a culpabilidade do agente, bem como os motivos, as circunstâncias e as consequências do crime com base em argumentos genéricos e em elementos ínsitos ao tipo penal; c) ajuizada revisão criminal, o Relator do Tribunal de Justiça do Estado do Pará não conheceu da ação revisional por instrução deficitária; d) interposto agravo regimental contra a decisão monocrática do Relator do TJPA, o recurso não foi conhecido por instrução deficitária e ausência de impugnação específica.
+
+    Sustenta-se, em síntese, que: a) considerando que a revisão criminal buscava “apenas a discussão da pena aplicada na primeira fase do cálculo dosimétrico (pena-base)”, “o ÚNICO documento a ser analisado é a sentença (devidamente juntada no momento do protocolo), porquanto a fixação da pena-base é atribuição exclusiva do Juiz-Presidente, sem interferência do Conselho de Sentença que, como visto na sentença, reconheceu a prática de homicídio simples, sem a quesitação de causas de aumento”.
+
+    À vista do exposto, requer: a) “seja determinado ao egrégio Tribunal de Justiça do Estado do Pará a análise da revisão criminal, considerando os inválidos argumentos para o não conhecimento”; ou b) “seja adequada a pena base infligida, eis que os motivos de exasperação não se mostram idôneos, não estão fundamentados e são extremamente desproporcionais”.
+
+    É o relatório. Decido.
+
+  1. Em que pese o óbice ao conhecimento do writ, por voltar-se contra condenação transitada em julgado, verifico presente ilegalidade passível de conhecimento de ofício, relacionada à dosimetria da pena aplicada.
+
+    Ademais, seria ilógico negar conhecimento ao presente habeas corpus sob o argumento de ser sucedâneo de revisão criminal, porquanto o paciente demonstrou que ajuizou a devida ação revisional, bem como acostou os documentos necessários para a análise da matéria, mas o pedido não foi conhecido.
+
+    Quanto à dosimetria da pena, a jurisprudência desta Corte é consolidada no sentido de que “o juízo revisional da dosimetria da pena fica circunscrito à motivação (formalmente idônea) de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419/MS, Primeira Turma, da relatoria do Ministro Sepúlveda Pertence, DJ de 28.08.92).
+
+    Não bastasse, merece ponderação o fato de que “é vedado subtrair da instância julgadora a possibilidade de se movimentar com certa discricionariedade nos quadrantes da alternatividade sancionatória” (HC 97.256, Relator(a): Min. AYRES BRITTO, Tribunal Pleno, julgado em 01.09.2010).
+
+    Diante desse limite cognitivo, a revisão da dosimetria não permite incursão no quadro fático-probatório, tampouco a reconstrução da discricionariedade constitucionalmente atribuída às instâncias ordinárias. Quando o assunto consiste em aplicação da pena, a atividade do Supremo Tribunal Federal, em verdade, circunscreve-se “ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 128.446, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 15.09.2015)
+
+    No caso concreto, o paciente, condenado pela prática de homicídio simples (art. 121, caput, CP), teve a dosimetria de sua pena estabelecida sob a seguinte fundamentação (eDOC.12, p. 31 e ss., grifei):
+
+    “A pena cominada ao crime passa a ser de 06 a 20 anos de reclusão.
+
+    Considerando os critérios legais dos artigos 59 e 68, ambos do Código Penal Brasileiro, o réu RONILDO BARBOSA DE ANDRADE agiu com culpabilidade em grau reprovável, possui antecedentes criminais, possui personalidade e conduta social normal, os motivos, as circunstâncias e as consequências do crime lhe são desfavoráveis, sobretudo diante do resultado morte, considero que a vítima não concorreu para a prática do crime, assim, fixo a PENA BASE em 17 (dezessete) anos de reclusão contra a pessoa do réu RONILDO BARBOSA DE ANDRADE.
+
+    Não existem nos autos circunstâncias agravantes, porém existe uma atenuante, visto que o réu era menor de 21 (vinte e um) anos à época do delito, pelo que reduzo a pena anteriormente fixada em 01 (um) ano de reclusão.
+
+    Não existem também nos autos causas especiais de aumento ou de diminuição de pena.
+
+    Pelo exposto e em razão da fundamentação acima, CONDENO o réu ONILDO BARBOSA DE ANDRADE à pena de 16 (dezesseis) anos de reclusão, a qual deverá ser cumprida inicialmente em regime fechado, ex vi do artigo 33, ª2º, letra a do Código Penal Brasileiro, no Sistema Penitenciário do Pará, pena esta que torno definitiva, concreta e final”
+
+    Ajuizada revisão criminal, mesmo com manifestação do Ministério Público local favorável ao conhecimento e procedência do pedido defensivo (eDOC.03, pp. 63-67), o TJPA não conheceu da ação. O STJ, por sua vez, não analisou a matéria impugnada (eDOC.03, p. 109).
+
+    Nada obstante, resta patente a ilegalidade na dosimetria da pena, a recomendar o reparo imediato por esta Suprema Corte.
+
+    Com efeito, como bem ponderou o impetrante, com exceção dos maus antecedentes, o Juiz Presidente recrudesceu a pena-base a partir de argumentos genéricos e inidôneos, motivo pelo qual devem ser decotadas as circunstâncias judiciais: i) da culpabilidade (“agiu com culpabilidade em grau reprovável”), uma vez que a sentença não aponta nenhum argumento concreto que justifique o agravamento, não preenchendo, portanto, o dever de fundamentação das decisões judiciais; ii) do motivo, circunstâncias e consequências do crime (“lhe são desfavoráveis, sobretudo diante do resultado morte”), já que sua desvaloração decorre de aspectos criminais ínsitos ao tipo penal (art. 121, caput, CP).
+
+    Quanto ao ponto, merece reprodução o emblemático precedente em que se assentou que “a melhor prova da ausência de motivação válida de uma decisão judicial - que deve ser a demonstração da adequação do dispositivo a um caso concreto e singular - é que ela sirva a qualquer julgado, o que vale por dizer que não serve a nenhum.” (HC 78013, Relator(a): Min. SEPÚLVEDA PERTENCE, Primeira Turma, julgado em 24.11.1998).
+
+    Ademais, ressalto que a jurisprudência desta Corte compreende que a utilização de um mesmo elemento como fundamento para caracterizar a prática delitiva, e simultaneamente, para justificar o recrudescimento da pena-base, implica em bis in idem. Nesse sentido:
+
+    “HABEAS CORPUS. PENAL E PROCESSO PENAL. SUBSTITUTIVO DE RECURSO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ARTIGO 302 DO CÓDIGO DE TRÂNSITO NACIONAL. EXASPERAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS ELEMENTARES DO DELITO. CONCESSÃO DA ORDEM DE OFÍCIO. 1. Contra a denegação de habeas corpus por Tribunal Superior prevê a Constituição Federal remédio jurídico expresso, o recurso ordinário. Diante da dicção do art. 102, II, a, da Constituição da República, a impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional. 2. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. 3. A ponderação das circunstâncias elementares do tipo no momento da aferição do cálculo da pena-base configura ofensa ao princípio do non bis in idem. 4. A inobservância do dever de cuidado caracterizador da imprudência decorreu da condução do veículo, pelo paciente, em via pública com desrespeito aos limites de velocidade, ocasionando a morte da vítima, circunstâncias elementares do tipo. 4. À míngua de outras circunstâncias judiciais desfavoráveis, a pena-base há de permanecer no mínimo legal. 5. Ordem concedida de ofício.” (HC 117599 AgR, Rel. Rosa Weber, Primeira Turma, DJe 14.02.2014, grifei)
+
+    “HABEAS CORPUS. PACIENTE CONDENADO EM AÇÃO PENAL ORIGINÁRIA POR TRIBUNAL ESTADUAL. DECISÃO DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA -- STJ, QUE NÃO CONHECEU DE WRIT AO FUNDAMENTO DE AINDA SEREM CABÍVEIS EMBARGOS INFRINGENTES, BEM COMO DE NÃO SER POSSÍVEL A UTILIZAÇÃO DE HABEAS CORPUS COMO SUBSTITUTO DE RECURSO ESPECIAL. Patente o constrangimento ilegal por parte da decisão impugnada, seja ao mencionar a interposição de recurso incabível, seja ao condicionar a impetração de habeas corpus à não interposição de recurso especial, diminuindo a envergadura dada pela Carta Magna à ação mandamental. Sempre que houver a possibilidade de concessão do writ ex officio, nos casos em que o constrangimento ilegal se mostrar flagrante, nada obsta que a Turma acolha de pronto o pedido sem a necessidade de remetê-lo ao STJ, evitando, assim, a postergação de seu exame e a conseqüente manutenção desnecessária do constrangimento ilegal já constatado. Hipótese em o acórdão condenatório, para aumentar a pena, considerou exclusivamente o fato de o acusado ser prefeito, afirmando expressamente serem favoráveis as demais circunstâncias judiciais. Sendo a qualidade de prefeito inerente ao tipo inserto no art. 1º, inciso I, do DL n.º 201/67 -- e, como tal, considerada pelo legislador ao estipular os dois anos para sanção mínima --, não pode ser levada em consideração para aumentar a reprimenda, sob pena de bis in idem. Habeas corpus deferido para desde logo reduzir a pena aplicada ao mínimo legal e, em conseqüência, declarar extinta a punibilidade pela prescrição da pretensão punitiva, à base da pena concreta, calculada da data do fato à do recebimento da denúncia.” (HC 83510, Relator(a): Min. CARLOS BRITTO, Primeira Turma, julgado em 07.10.2003, grifei)
+
+    3. Assim, evidenciada argumentação inidônea, e considerando que o impetrante ajuizou a devida revisão criminal antes de impetrar o presente habeas corpus, é o caso de determinar ao TJPA a devida reformulação da dosimetria da pena.
+
+    No que diz respeito à ponderação do Relator da ação no TJPA de que “a defesa da requerente não anexou o documento essencial à análise e admissibilidade do pedido sustentado” (eDOC.03, p. 18), assiste razão ao paciente ao afirmar que, para analisar o pedido formulado na ação revisional, “o ÚNICO documento a ser analisado é a sentença (devidamente juntada no momento do protocolo), porquanto a fixação da pena-base é atribuição exclusiva do Juiz-Presidente, sem interferência do Conselho de Sentença que, como visto na sentença, reconheceu a prática de homicídio simples, sem a quesitação de causas de aumento. Ou seja, o Juiz-Presidente não se valeu de qualquer outro documento dos autos para fixação da pena-base”.
+
+    4. Diante do exposto, com fulcro no art. 192 do RISTF, não conheço do writ, mas concedo a ordem, de ofício, a fim de determinar que o Tribuna de Justiça do Estado do Pará analise a revisão criminal ajuizada pelo paciente (processo n. 0808810-27.2024.8.14.0000) e reformule a dosimetria da pena empreendida na sentença condenatória, decotando-se culpabilidade, motivo, circunstâncias e consequências do crime.
+
+    Comunique-se, com urgência, ao TJPA.
+
+    Comunique-se também ao STJ, para ciência.
+
+    Publique-se. Intime-se.
+
+    Brasília, 26 de junho de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
