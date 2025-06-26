@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 248):
+SEGURO. PLANO DE SAÚDE. PRETENDIDO FORNECIMENTO DE MEDICAMENTOS ASSOCIADOS A TRATAMENTO DE CÂNCER PRESCRITO A BENEFICIÁRIA DO PLANO. INCONFORMISMO MANIFESTADO PELA RÉ. CUSTEIO DE TRATAMENTO. PRETENDIDA A REVERSÃO DO JULGADO. INADMISSIBILIDADE. NECESSIDADE DO PROCEDIMENTO VERIFICADA. ALEGAÇÃO DE QUE O TRATAMENTO PRESCRITO É "OFF LABEL" (FORA DA BULA). EXISTÊNCIA DE CLÁUSULA EXPRESSA DE EXCLUSÃO. JURISPRUDÊNCIA, TODAVIA, QUE VEM SE ORIENTANDO FIRMEMENTE NO SENTIDO DO RECONHECIMENTO DO CARÁTER ABUSIVO DAS CLÁUSULAS DE EXCLUSÃO DE COBERTURA. PRECEDENTES DO STJ E ENUNCIADOS 96 E 102 DA SÚMULA DO TJSP. DANOS MORAIS. INEXISTÊNCIA. HIPÓTESE EM QUE HOUVE MERO DESCUMPRIMENTO CONTRATUAL, QUE NÃO ENSEJA DANO MORAL INDENIZÁVEL. CASO QUE REVELA MERA SUSCEPTIBILIDADE DA AUTORA. AÇÃO PARCIALMENTE PROCEDENTE. SUCUMBÊNCIA RECÍPROCA. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 325-329).
+Em suas razões (fls. 266-286), a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais, sob os respectivos fundamentos
+(i) art. 944 do CC/2002, sustentando que "o plano de saúde deve ser condenado a reparar integralmente os danos sofridos pelo consumidor, incluindo despesas com tratamentos alternativos, transtornos psicológicos e eventual impacto negativo em sua vida pessoal e profissional" (fl. 275);
+(ii) art. 422 do CC/2002, afirmando que, " a o recusar a cobertura de um medicamento essencial ao tratamento, o plano de saúde ora Recorrido contraria o propósito essencial do contrato, desvirtuando-o e frustrando a legítima expectativa do consumidor de que terá assegurada a assistência médica", e que esse ponto "também foi ignorado no v. acordão, o que resulta em um descumprimento contratual claro, gerando prejuízos a Recorrente" (fl. 276);
+(iii) art. 51, IX e X, do CDC, aduzindo que " a  negativa de cobertura do medicamento prescrito coloca o consumidor em evidente desvantagem exagerada, pois limita o acesso ao tratamento e compromete sua saúde, direito fundamental previsto na Constituição Federal" (fl. 276)
+Acrescenta que, "além da ofensa à norma do artigo 927, III do CPC  .. , há evidente dissídio jurisprudencial entre o acórdão recorrido e acórdão editado por esta Corte Superior do Tribunal de Justiça, adotado como paradigma neste Recurso Especial" (fl. 279)
+Contrarrazões apresentadas (fls. 333-339).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia tem origem na negativa de fornecimento do fármaco NIVOLUMABE, indicado por médico assistente para tratamento de câncer renal que acomete a demandante, o qual foi prescrito associado ao CABOZANTINIBE. Apenas o fornecimento deste último foi autorizado pelo plano de saúde, sob a alegação de que o NIVOLUMABE seria de uso experimental e divergente das indicações constantes da bula para as quais o medicamento foi aprovado.
+O Juízo de origem julgou "PARCIALMENTE PROCEDENTES os pedidos da autora para: a) condenar a parte ré ao custeio do tratamento medicamentoso indicado em receituário médico, quais sejam: NIVOLUMABE associado a CABOZANTINIBE (CABOMETYX)  .. ; b) condenar a parte ré ao pagamento de R$ 10.000,00, a título de danos morais".
+O Tribunal a quo deu parcial provimento à apelação da operadora para afastar os danos morais.
+Constata-se que, apesar de opostos embargos de declaração, a tese de violação dos arts. 422 e 944 do CC/2002 e 51, IX e X, do CDC não foi expressamente indicada nas razões do recurso e nem enfrentada pelo Tribunal sob o enfoque pretendido pela parte recorrente.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+Além disso, conforme o entendimento desta Corte Superior, "a negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente" (AgInt no REsp n. 1.973.706/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/6/2022, DJe de 15/6/2022).
+Do mesmo modo (grifei):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CÂNCER DE ESÔFAGO. NEGATIVA DE COBERTURA. REEMBOLSO INTEGRAL. DANOS MORAIS. PREVISÃO CONTRATUAL. DÚVIDA RAZOÁVEL.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. O reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com assistência à saúde poderá ser limitado aos preços e às tabelas contratadas com o plano de saúde. Precedentes.
+3. Há configuração de danos morais indenizáveis pela recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde às situações de emergência, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde.
+4. Há situações, tal como na espécie vertente, em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, a afastar qualquer pretensão de compensação por danos morais.
+5. Agravo conhecido para conhecer e negar provimento ao recurso especial.
+(AREsp n. 2.754.735/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL PELA OPERADORA. IRREGULARIDADE DA NOTIFICAÇÃO. APÓS DECURSO DO PRAZO DE CINQUENTA DIAS DE INADIMPLÊNCIA. DEVER DE RESTABELECIMENTO. CONDUTA QUE ULTRAPASSOU O MERO DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS CONFIGURADOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO
+..
+2. De acordo com a jurisprudência desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.4.
+Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.054.722/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. DANO MORAL NÃO CONFIGURADO. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. IMPOSSIBILIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. "A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral indenizável, que pressupõe ofensa anormal à personalidade" (AgInt no REsp n. 1.988.367/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022).
+2. A mera recusa de cobertura de procedimento ou tratamento baseada em dúvida razoável de interpretação de contrato não é apta, por si só, a causar danos morais indenizáveis, mormente ao se considerar a jurisprudência desta Corte no sentido de que o mero descumprimento contratual não gera dano moral.
+3. "A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7/STJ).
+Agravo interno improvido.
+(AgInt no REsp n. 2.018.599/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Por sua vez, constou no acórdão recorrido que (fls. 254-255 - grifei):
+ ..  no que concerne aos danos morais, devem eles ser afastados.
+Isto porque, ainda que a negativa de cobertura haja mesmo se dado de forma indevida, não há que se falar em prejuízo à honra da demandante, decorrente da conduta relatada.
+Conquanto não se desconheça alguma divergência, é firme, para a maioria da jurisprudência, o entendimento de que o singelo inadimplemento contratual, não dá azo à indenização por danos morais, mas apenas pelos eventuais prejuízos materiais.
+ ..
+Reconhecer-se, de maneira ampla, a possibilidade direta de indenização por dano moral a partir de qualquer suscetibilidade cotidiana é criar verdadeira fonte de enriquecimento sem causa. Para o descumprimento contratual existe a reparação do dano material e bem dos lucros cessantes.
+Basta que se os provem os interessados. Extrair, por outro lado, os danos morais de quaisquer descumprimentos contratuais é forma de se furtar a essa prova, de maior dificuldade, reconheça-se. O dano moral não é sucedâneo do dano material, e nem deve ser assim interpretado. Ademais, é preciso que o dano seja provado (e jamais presumido, como se pretendeu no caso dos autos).
+Portanto, incide no caso a Súmula n. 83/STJ, uma vez que as conclusões do acórdão impugnado estão em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Nesse contexto, modificar o entendimento do acórdão impugnado quanto à constatação de que houve "singelo inadimplemento contratual e que, no caso, "não há que se falar em prejuízo à honra da demandante, decorrente da conduta relatada", demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ainda, verifica-se que o Tribunal a quo julgou a lide com respaldo em ampla análise contratual, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 5 do STJ.
+Por sua vez, o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+No caso concreto, a recorrente apenas transcreve trechos dos julgados supostamente divergentes, sem nem demonstrar a similitude fática e as divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Afora isso, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+Diante do exposto NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em desfavor da parte recorrente , observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC).
+Publique-se e intimem-se.
+EMENTA
