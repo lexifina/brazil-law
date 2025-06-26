@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DA SERRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. INADMISSÃO RECURSAL. JUÍZO MONOCRÁTICO.CABIMENTO. INOBSERVÂNCIA. Decisão monocrática mantida. RECURSO CONHECIDO E desprovido.
+I. A manifestação judicial que extingue o feito executivo trata-se de sentença, sendo, portanto, recorrível por apelação, nos termos dos artigos 203, §1º, e 1009, do CPC/15. Precedentes TJES e STJ.
+II. Apresenta-se equivocada a oposição do agravo de instrumento na espécie, apresentando-se como verdadeiro erro grosseiro, elemento suficiente para vedar a aplicação do princípio da fungibilidade recursal e, consequentemente, obstaculizar o seu conhecimento em respeito aos princípios da unirrecorribilidade e da taxatividade, ante a ausência de dúvida objetiva acerca do cabimento do agravo de instrumento ou da apelação em hipóteses tais, tampouco sólida divergência doutrinária ou reiterado dissídio jurisprudencial sobre o tema, razão pela qual irretocável a decisão monocrática que não conheceu do agravo de instrumento anteriormente interposto.
+III. Recurso conhecido e desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1.015, parágrafo único, do CPC, no que concerne ao cabimento do recurso de agravo de instrumento em razão de a decisão agravada ter sido proferida em sede de cumprimento de sentença sem que houvesse o encerramento expresso do referido procedimento , trazendo a seguinte argumentação:
+O v acórdão recorrido de entendeu que o recurso cabível para a sentença de impugnação proferida na Ação de Cumprimento de Sentença Coletiva seria o recurso de apelação é não agravo de instrumento.
+Entretanto, a r. decisão que negou a impugnação do Requerido e que homologou os cálculos apresentados pelas Agravadas, não encerrou expressamente o procedimento executório, estando contido no previsto no artigo 1015, parágrafo único do CPC e também no entendimento jurisprudencial, abaixo transcrito:
+ ..
+Observa-se que a r. decisão agravada julgou improcedente a Impugnação formulada pelo Município da Serra nos autos do cumprimento de sentença de origem, homologando os cálculos apresentados pelas ora agravadas, sem, contudo, encerrar expressamente o referido procedimento (fls. 238)
+Dessa forma, considerando que a r. decisão agravada foi proferida em sede de "Cumprimento de Sentença", sem encerrar expressamente o referido procedimento, o Recurso de Agravo de Instrumento preencheu o requisito de cabimento, nos termos da expressa previsão contida no art. 1.015, Parágrafo Único do Código de Processo Civil, razão pela qual requer-se o seu conhecimento por esse E. TJES (fl. 242).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Nestes termos, impõe-se asseverar que o agravo de instrumento interposto pela municipalidade não mereceu, de fato, ser conhecido, porquanto manifesta a inadequação da via recursal eleita, manejada em face de manifestação judicial que rejeitou a impugnação ao cumprimento de sentença, extinguiu o feito executivo movido contra a Fazenda Pública e determinou a expedição de RPV, sendo, por conseguinte, enquadrado como sentença, a teor do artigo 203, §1º, do CPC/15, supratranscrito (fl. 227)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
