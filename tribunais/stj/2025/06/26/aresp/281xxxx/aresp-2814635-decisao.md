@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CARLOS ALBERTO BRANDALISE, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: cumprimento de sentença, proposto pelo agravante, em face de FENIX COMERCIO DE MATERIAIS RECICLAVEIS LTDA, no qual visa à satisfação de acordo homologado entre os contendores no bojo da ação n. 0004671-48.2010.8.24.0139, o qual estabeleceu o valor devido dos alugueis, bem como a rescisão do vínculo locatício e consequente desocupação do imóvel em havendo inadimplemento (e-STJ fls. 03-08).
+Acórdão recorrido: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. APELO DA IMPUGNADA.
+DECISÃO QUE RECONHECEU A ILEGITIMIDADE ATIVA DA EXEQUENTE, PORQUANTO COBRA DÉBITOS LOCATÍCIOS DE IMÓVEL QUE VEIO A VENDER EM DATA ANTERIOR ÀS COBRANÇAS EM QUESTÃO.
+AVENTADA PERTINÊNCIA SUBJETIVA. ALEGAÇÃO DE QUE O IMÓVEL CUJA VENDA NOTICIOU A IMPUGNANTE/APELADA É DISTINTO DAQUELE OBJETO DO CONTRATO DE LOCAÇÃO. REJEIÇÃO. CIRCUNSTÂNCIA NÃO DEMONSTRADA A CONTENTO E SEQUER MENCIONADA QUANDO DA MANIFESTAÇÃO SOBRE A IMPUGNAÇÃO. ÔNUS DE DIRIMIR PLENAMENTE TAL QUESTÃO QUE COMPETE À PARTE AUTORA. ALEGADA, AINDA, NATUREZA PESSOAL DO PACTO A JUSTIFICAR A LEGITIMIDADE ATIVA. REJEIÇÃO. ART. 8º DA LEI DE LOCAÇÕES. SUB-ROGAÇÃO DA ADQUIRENTE DO IMÓVEL OBJETO DA LOCAÇÃO NOS DIREITOS DO ANTIGO PROPRIETÁRIO.
+HONORÁRIOS RECURSAIS DEVIDOS. APELO CONHECIDO E DESPROVIDO. (e-STJ fl. 455)
+Embargos de declaração: opostos pelo agravante, foram rejeitados (e-STJ fls. 473-475).
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial, em razão da:
+i) incidência da Súmula 284/STF (art. 1.022 do CPC); e
+ii) incidência das Súmulas 5 e 7, ambas do STJ - ilegitimidade do agravante para cobrança de débitos de locação, devido à sub-rogação do adquirente do imóvel (e-STJ fls. 522-525).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) "O recurso em questão foi precedido pelos embargos declaratórios (Evento 40). Da leitura do recurso interposto, deduz-se que os ônus processuais do ora agravante, em que pese aos temas controvertidos do julgamento, foram cumpridos satisfatoriamente. Mormente, Excelência, no que diz respeito à correta indicação do preceito federal (direito federal de hierarquia infraconstitucional) e do prequestionamento. Em última análise, estão presentes os requisitos intrínsecos e extrínsecos. Não falta interesse rec ursal ao ora agravante." (e-STJ fl. 543); e
+ii) "Do exame detalhado do recurso especial distribuído pelo ora agravante, é possível constatar que a argumentação não é genérica em face da decisão que nega ou contraria preceito federal. A despeito do decisório citar com vistas à análise para o afastamento da ilegitimidade do locador, aqui agravante, ser necessário o revolvimento do acervo fático probatório e a interpretação do pacto locatício, a solução é outra. Não a de reexaminar a prova, mas sim, diferente providência. Não há óbice algum na revaloração jurídica da prova e dos fatos da causa." (e-STJ fl. 546).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência da Súmula 284/STF (art. 1.022 do CPC) e incidência das Súmulas 5 e 7, ambas do STJ (ilegitimidade do agravante para cobrança de débitos de locação, devido à sub-rogação do adquirente do imóv el).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa (e-STJ fl. 453) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
