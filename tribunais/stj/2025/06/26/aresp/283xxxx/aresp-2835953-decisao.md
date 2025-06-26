@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SEBASTIÃO DE CRISTO CASTRO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/11/2024.
+Concluso ao gabinete em: 19/2/2025.
+Ação: extinção de condomínio com divisão de bens, em fase de cumprimento de sentença, ajuizada por AMILTON DE JESUS CASTRO, em face de SEBASTIÃO DE CRISTO CASTRO.
+Decisão interlocutória: declarou a preclusão quanto a forma de divisão dos imóveis, bem como indeferiu a sugestão da parte agravada de divisão dos bens (mov. 1465.1), além de partilhar os imóveis de acordo com a decisão de mov. 1460.1 e o laudo, determinando, ao fim, a expedição de mandado de imissão na posse em favor da parte agravada. (e-STJ fl. 606)
+Acórdão: não conheceu do Agravo de Instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. CONDOMÍNIO COM DIVISÃO DE BENS. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE PARTILHOU OS IMÓVEIS DE ACORDO COM O LAUDO PERICIAL E A OPORTUNIDADE DA ESCOLHA DAS PARTES. IRRESIGNAÇÃO DO RÉU.
+1. IMPUGNAÇÕES RELATIVAS À CONCLUSÃO DO LAUDO. ALEGADA DESPROPORÇÃO DAS FRAÇÕES. CERCEAMENTO DE DEFESA. INJUSTIÇA. EXCESSO. NÃO CONHECIMENTO. LAUDO JÁ IMPUGNADO ANTERIORMENTE. IMPUGNAÇÃO REJEITADA PELO JUÍZO EM MAIS DE UMA OPORTUNIDADE E POR ESTE TRIBUNAL. HIGIDEZ DO LAUDO. PRECLUSÃO DA MATÉRIA. ART. 505, 507 E 508 DO CPC.
+- No caso, todas as fases e decisões foram precedidas da oitiva de ambas as partes que inequivocamente foram instadas a participar e tiveram o mesmo tratamento.
+- O juízo de origem, assim como este Tribunal, já analisaram o conteúdo do laudo pericial, concluindo, em mais de uma oportunidade, inexistir elementos que autorizem sua desconstituição, razão pela qual hígido e inconteste, do mesmo modo que a discussão sobre ele resta acobertada pela preclusão consumativa, lógica, temporal e pro judicato.
+2. IRRESIGNAÇÃO QUANTO AO INDEFERIMENTO DE HABILITAÇÃO DE SEU FILHO COMO ASSISTENTE LITISCONSORCIAL. ART. 18 DO CPC. NÃO CONHECIMENTO. MATÉRIA TRATADA EM OUTRO RECURSO INTERPOSTO PELO INTERESSADO. RECURSO PREJUDICADO.
+- Nos termos do art. 18 do Código de Processo Civil "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico".
+3. IMISSÃO NA POSSE. ADEQUADO. IMPOSSIBILIDADE DE CUMPRIMENTO DA IMISSÃO DA POSSE DA FORMA DETERMINADA. INOVAÇÃO. MATÉRIA SUBMETIDA AO JUÍZO E EM DISCUSSÃO NA ORIGEM. NÃO CONHECIMENTO. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA.
+- Da leitura do feito na origem, observa-se que a decisão ora recorrida, na parte em que determinou a imissão, fora aditada e modificada, contemplando, em parte, o que foi dito pelo próprio recorrente.
+- No caso, a matéria, da forma arguida, não havia sido até então submetida ao juízo de primeiro grau, o que configuraria inovação recursal, não sendo passível de conhecimento nesta fase.
+- Ato contínuo, recentemente, com a submissão da matéria ao juízo, nota-se a questão relativa ao cumprimento da imissão está sendo efetivamente discutida na origem, o que impede sua discussão aqui sob pena de supressão de instância.
+Recurso de agravo de instrumento não conhecido." (e-STJ fls. 605-606)
+Recurso especial: alega violação dos arts. 473, I, II, III, IV, §§ 1º, 2º, 3º, 581, 583, 584, 585, 586, CPC, sustentando que: i) é inaceitável a argumentação de que as matérias restam preclusas; e, ii) estabeleceu-se uma divisão não igualitária, embasada em argumentação contraditória e infundada, sobretudo, no tocante à decretação da preclusão; e, iii) não se procedeu à demarcação física, nem ao relatório da linha percorrida pelos peritos, bem como à colocação dos marcos nos rumos das linhas divisórias, consignando a exatidão do memorial e da planta apresentados pelo agrimensor ou à divergência porventura encontrada, e nem mesmo houve a assinatura do respectivo auto de demarcação, muito menos foi proferida a sentença homologatória da demarcação; e, iv) nada do que determina a Lei Processual Civil foi observado, de forma que a r. Decisão agravada encerra o processo demarcatório e de divisão e extinção do condomínio em discussão de maneira totalmente contrária aos ditames da Lei Processual Civil. (e-STJ fls. 620-661)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 473, I, II, III, IV, §§ 1º, 2º, 3º, 581, 583, 584, 585, 586, CPC, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "além de não verificar qualquer cerceamento de defesa, tampouco violação ao direito ao contraditório, sequer omissão do juízo, também não é possível conhecer de parte do recurso de Agravo de Instrumento interposto, no que tange à higidez do laudo, os critérios de divisão dos bens e a alegada desproporção dos blocos, uma vez que a matéria já foi objeto de apreciação pelo juízo na origem e pelo TJ/PR", bem como de que "hígido e inconteste o laudo pericial, que insiste a parte agravante ser tendencioso, falho e injusto, do mesmo modo que a discussão sobre ele resta acobertada pela preclusão consumativa, lógica, temporal e pro judicato", assim também de que "não merece conhecimento o pleito de demarcação e colocação dos marcos necessários (artigo 582 do CPC), bem como que se realize a audiência, relativa à partilha e demarcação dos quinhões, já que da leitura dos autos na origem, observa-se que a decisão recorrida, na parte em que determinou a imissão, fora aditada e modificada em mov. 1520.1 e em mov. 1613.1, contemplando, em parte, o que foi dito pela própria parte agravante", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO COM DIVISÃO DE BENS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de extinção de condomínio com divisão de bens.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
