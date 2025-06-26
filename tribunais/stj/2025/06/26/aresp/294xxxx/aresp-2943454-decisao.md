@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interposto por Célio Bispo da Silva contra decisão do Tribunal de Justiça do Estado do Paraná de fls. 480-485, que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e n. 83 do Superior Tribunal de Justiça e Súmula n. 284 do Supremo Tribunal Federal.
+O recorrente foi condenado pelo juízo de primeiro grau, como incurso no art. 157, § 1º c/c § 2º-A, inciso I, do Código Penal, à pena de 8 anos, 5 meses e 18 dias de reclusão, em regime inicial fechado. Interposta apelação pela defesa, restou desprovida, mantendo-se a condenação.
+No recurso especial, sustenta-se violação dos arts. 155 e 386, IV, do Código de Processo Penal, aduzindo que a condenação foi fundamentada preponderantemente em elementos colhidos na fase extrajudicial, em desacordo com o contraditório judicial.
+No agravo em recurso especial, a parte sustenta que não houve omissão ou ausência de impugnação específica dos fundamentos da decisão recorrida, e que a aplicação das Súmulas 284/STF, 83/STJ e 7/STJ ao caso é descabida.
+Requer o provimento do recurso, a fim de absolver o recorrente, nos termos do art. 386, IV e VII, do CPP, e, subsidiariamente, o afastamento da majorante do emprego de arma de fogo.
+Contraminuta apresentada (fls. 500-502).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 523):
+AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE PREENCHIDOS. CONDENAÇÃO POR ROUBO CIRCUNSTANCIADO. UTILIZAÇÃO PROVA NOVA. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTAÇÃO RELEVANTE DO ACÓRDÃO ORA IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. USO DE PROVA INDICIÁRIA E NULIDADE DE RECONHECIMENTO PESSOAL DO AGENTE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF. PLEITO DE ABSOLVIÇÃO POR FALTA DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CAUSA DE AUMENTO. EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E REALIZAÇÃO DE PERÍCIA. DEPOIMENTO DA VÍTIMA COMPROVANDO O EMPREGO DO ARTEFATO. INCIDÊNCIA DA SÚMULA 83/STJ. Parecer pelo conhecimento do agravo para não conhecer o apelo especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou todas as razões da decisão impugnada.
+Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fl. 443-444):
+Verifica-se que a materialidade do delito de furto qualificado descrito na inicial acusatória restou comprovado pela portaria (mov. 1.1), boletim de ocorrência (mov. 1.2), auto de avaliação direta ou indireta (mov. 1.3), termo de promessa legal (mov. 1.4), auto de reconhecimento pessoal (mov. 1.5), termo de depoimento (mov. 1.10 e 11), bem como os depoimentos colhidos durante a persecução penal.
+Portanto, não há o que se discutir quanto a prova da materialidade.
+A autoria também está comprovada através da prova oral colhida na fase extrajudicial e judicial. Consigne-se que as transcrições utilizadas na fundamentação da sentença de primeiro grau (mov. 93.1) são fiéis aos depoimentos e interrogatório prestados em juízo e sede inquisitiva, razão pela qual serão aqui aproveitados, em homenagem à celeridade e economia processual.
+A vítima IRMA DA SILVA ORESTE, seq. 82.2, relatou que estavam se preparando para dormir, a depoente escutou um barulho no quintal, quando foi averiguar encontrou o acusado, então ele apontou a arma na direção da vítima e disse "é um assalto, senhora". Em razão disso a vítima fechou a porta e o denunciado forçou a entrada quando a porta já estava cerrada com violência a ponto de causar rachaduras. Após, a ofendida gritou para o marido "bem, é o Célio, é o Célio". Não tem dúvidas de que era o réu. Afirma que o acusado subtraiu uma quantia em dinheiro destinada ao fundo bíblico, não sabe o valor exato, mas entre R$ 250,00 e R$290,00 e uma carteirinha da delegacia, mas nada foi recuperado. Afirmou que quando foi à delegacia já sabia que era o réu o autor do roubo e que portava uma arma de fogo.
+A vítima ELCIO ORESTE, seq. 82.3, relatou que no domingo teria reunião ministerial no município de Paranavaí, então deixou uma pasta separada com documentos e demais itens que precisaria levar ao local, inclusive um envelope com valor destinado à prestação de contas do fundo bíblico, deixou a pasta dentro do veículo e esqueceu de trancá-lo. O automóvel estava na garagem, próximo a porta da cozinha. Quando estava se preparando para dormir, a esposa do depoente estava na cozinha, ouviu um barulho e saiu para averiguar, então encontrou um rapaz mexendo nas coisas. Disse que quando ouviu a voz de assalto a esposa do depoente fechou e trancou a porta, por isso o agressor chutou a porta, que rachou. Pediu para sua esposa ligar para a polícia, mas não ligaram. A vítima saiu de sua residência e encontrou uma viatura, mas o indivíduo já havia pulado o muro para o quintal do vizinho, então os policiais não o encontraram. Afirmou que o envelope estava rasgado e sem o dinheiro, os papéis foram todos remexidos. Não viu quem foi, somente sua esposa o visualizou. Disse que o autor do fato portava arma de fogo, a esposa do depoente contou que o indivíduo deu voz de assalto e apontou a arma na direção dela. Conhece o réu, mas no dia do roubo não viu quem era, somente sua esposa o visualizou o assaltante e logo indicou que era o acusado, posteriormente também reconheceu as fotografias na delegacia. O denunciado havia prestado serviços no comércio da vítima, após foi deixar o réu em casa e, no caminho, a vítima, então, indicou onde morava, conhece o denunciado há muitos anos. A vítima conhece o réu há muitos anos, desde quando mudou de São Paulo para cá e morava na mesma rua que o acusado, conhece também sua família. O depoente afirmou que a carteira que ganhou de brinde por contribuir com a polícia foi levada, mas não havia dinheiro. Nenhum dos objetos subtraídos foi recuperado.  ..
+Desse modo, tem-se que a vítima reconheceu o acusado, pois apenas uma semana antes ele teria realizado um serviço no carro do seu esposo e ao passarem juntos na frente da residência das vítimas, o réu Célio teria indagado se eles ainda moravam no local.
+No mesmo sentido, a vítima Elcio, esposo de Irma, relatou que a vítima no momento do roubo mencionou que se tratava o autor do delito como sendo Célio, pois conheciam o acusado e sua família, tendo morado na mesma rua que eles.
+Registre-se, ademais, que segundo narrou a vítima Irma após visualizar o acusado subtraindo itens de dentro do veículo dos ofendidos, o mesmo deu voz de assalto, empunhando uma arma de fogo.
+Nesse contexto é possível confirmar que o apelante praticou a conduta que lhe é imputado nos exatos termos da denúncia, sendo robusto o conjunto probatório que aponta a autoria do réu pelo crime de roubo majorado.
+Conforme demonstrado no acórdão de origem, a condenação do agravante está robustecida em relevante arcabouço probatório, tendo a decisão do juízo a quo se embasado em provas colhidas na fase policial e judicial.
+Ademais, a revisão das provas para absolver o agravante demandaria reexame fático-probatório, o que é inviável na via especial, conforme vedação extraída da Súmula 7/STJ.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. AUTORIA E MATERIALIDADE. PLEITO ABSOLUTÓRIO OU DESCLASSIFICATÓRIO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. INCIDÊNCIA MANTIDA. CONCURSO FORMAL DE CRIMES. VÍTIMAS DISTINTAS. PRECEDENTES. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para dar parcial provimento ao recurso especial, excluindo a fixação do valor indenizatório mínimo determinado pelas instâncias ordinárias.
+2. O recorrente foi condenado pelo crime de roubo, com base em provas testemunhais e documentais, incluindo depoimentos das vítimas, e a aplicação do concurso formal de crimes, considerando a subtração de bens de três vítimas distintas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a condenação do agravante por roubo pode ser revista na via do recurso especial, considerando a alegação de insuficiência de provas e a inaplicabilidade do concurso formal.
+4. A defesa alega que a conduta do agravante não se amolda aos elementos do crime de roubo, pleiteando a absolvição ou a desclassificação para o crime de ameaça, além do afastamento do concurso formal.
+III. RAZÕES DE DECIDIR
+5. O Tribunal de origem concluiu pela materialidade e autoria dos delitos com base em provas testemunhais e documentais, incluindo depoimentos das vítimas e dos policiais.
+6. A revisão das provas para absolver o agravante demandaria reexame fático-probatório, o que é inviável em recurso especial, conforme a Súmula 7 do STJ.
+7. A jurisprudência do STJ é pacífica no sentido de que, quando há subtração de bens de vítimas distintas em um mesmo contexto fático, configura-se concurso formal de delitos, e não crime único.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp n. 2.726.966/BA, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 6/5/2025, DJEN de 13/5/2025.)
+Superado o ponto, a defesa requereu o afastamento da majorante da arma de fogo, consoante explicitado na petição de recurso especial (fl. 466):
+De acordo com as circunstâncias do caso, a majorante não deve ser aplicada, uma vez que somente a vítima IRMA alega ter visto a arma de fogo, que nunca foi encontrada, mesmo a casa de Célio ter sido invadida pelos Policiais logo após o cometimento do crime.
+Conforme os autos do processo, não existem provas sólidas de que o acusado portava uma arma de fogo durante o assalto. A única referência à presença de uma arma de fogo é o testemunho da vítima IRMA, que afirma tê-la visto.
+No entanto, devemos considerar a possibilidade de que a vítima possa ter se enganado ou estar sob forte estresse durante o evento, o que poderia afetar sua capacidade de identificação precisa.
+Além disso, não existem outros relatos de alguém ter visto uma arma de fogo em posse do acusado. Não há evidências materiais que corroborem a afirmação da vítima sobre a presença da arma de fogo. Portanto, a majorante da arma de fogo não deve ser aplicada com base unicamente no testemunho da vítima, sem provas adicionais que sustentem essa alegação.
+Em contrapartida, importante anotar a decisão do Tribunal de origem para reconhecer a aplicação da causa de aumento de pena acima referida (fl. 446):
+Como já mencionado, a vítima Irma narrou que escutou um barulho no quintal e se deparou com o acusado dentro da garagem de sua residência. Então, o réu apontou a arma na direção da vítima e disse "é um assalto, senhora". A vítima fechou rapidamente a porta da residência, tendo o réu forçado a entrada com socos, causando rachaduras na parte interna da porta.
+Assim, pelos relatos da vítima durante a persecução penal, restou inequívoco o emprego da arma de fogo e, portanto, a configuração da respectiva causa de aumento.
+Por certo que, em muitos casos, aponta-se a necessidade da apreensão da arma de fogo para fins de aceitação da majorante. Ocorre, contudo, de acordo com o consolidado entendimento a aplicação da majorante em apreço pode ser comprovada por outros meios.
+O egrégio Superior Tribunal de Justiça possui entendimento que a apreensão da arma não é necessária para aplicação da majorante do art. 157, § 2º-A, I, do Código Penal, quando comprovada por outros meios de prova.
+Anoto o acórdão de relatoria do Ministro Messod Azulay:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, impetrado em substituição a recurso próprio, visando o reconhecimento de nulidade processual e o afastamento da majorante relativa ao emprego de arma de fogo.
+2. O paciente foi condenado em primeira instância por roubo majorado e resistência, com pena de reclusão e detenção, além de multa. A defesa alegou constrangimento ilegal por não observância do art. 212 do CPP e a existência de laudo pericial indicando que a arma utilizada era um simulacro.
+3. O Tribunal de origem negou provimento à apelação da defesa. Nessa instância superior, o habeas corpus foi não conhecido em decisão monocrática e posterior acolhimento de embargos de declaração sem efeitos infringentes.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é cabível o habeas corpus em substituição ao recurso próprio, e se há flagrante ilegalidade que justifique a concessão da ordem de ofício.
+5. Outra questão é a possibilidade de afastamento da majorante relativa ao emprego de arma de fogo, considerando a alegação de que o objeto era um simulacro.
+III. Razões de decidir
+6. O habeas corpus não foi conhecido por ser substitutivo de recurso próprio, conforme entendimento pacificado no STJ e STF, salvo em casos de flagrante ilegalidade, o que não se verificou no presente caso.
+7. A jurisprudência do STJ dispensa a apreensão e perícia da arma de fogo para a incidência da majorante, desde que comprovada a utilização por outros meios, como testemunhos, o que foi constatado no caso.
+8. A alegação de que a arma era um simulacro não foi enfrentada pela Corte de origem, impedindo a análise pelo STJ, sob pena de supressão de instância.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. Não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A majorante do emprego de arma de fogo prescinde de apreensão e perícia, desde que comprovada por outros meios de prova. 3. A análise de questões não enfrentadas pela instância inferior configura supressão de instância".
+Dispositivos relevantes citados: CPP, art. 212; CP, art. 157, § 2º-A, I; CPP, art. 654, § 2º.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, j.
+10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, j. 27.03.2020.
+(AgRg nos EDcl no HC n. 928.291/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2025, DJEN de 28/4/2025.)
+Desse modo, é inviável o afastamento da causa de aumento, uma vez que o testemunho prestado em juízo confirma a utilização de arma de fogo, o que, corroborado com outras provas produzidas, constitui fundamento suficiente para embasar a condenação.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
