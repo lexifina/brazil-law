@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+ ..
+06. Omitiu-se a r. Decisão de analisar que o Tribunal a quo não se pronunciou especificamente acerca da participação do Desembargador impedido - que presidiu a sessão - no julgamento dos Aclaratórios, o que caracteriza relevante vício processual e uma nulidade absoluta, nos termos do art. 144, CPC.
+07. Não há que se falar em revolvimento de provas ao se analisar a composição do quórum, o que demonstra ter sido a sessão presidida com prolação de voto pelo Desembargador Abraham Lincoln - declarado impedido, o que afasta o óbice da Súmula n.º 7/STJ.
+ ..
+10. A jurisprudência utilizada pela r. Decisão, ora embargada, não guarda similitude com o presente feito na medida em que envolve (esta sim) a necessidade de revolver fatos e provas para alcançar conclusão de que haveria "suspeição da assessora do magistrado sentenciante", o que não é o caso dos autos, em que o impedimento do Desembargador Abrajam Lincoln foi por ele autodeclarado, mas tendo votado em sessão que julgou os Embargos Declaratórios.
+ ..
+13. Omitiu-se a r. Decisão de analisar que o i. Juiz substituto que proferiu a Sentença deixou de valorar a prova oral produzida, especificamente os depoimentos do preposto e do informante, baseando-se exclusivamente na perícia, comprometendo a análise dos fatos incontroversos, como a compatibilidade do equipamento utilizado com o edital e as limitações do software da contrante.
+ ..
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada. A decisão ora embargada analisa os pontos essenciais para o deslinde da controvérsia nesta Corte.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+ ..
+No caso, não há que se falar em negativa de prestação jurisdicional, pois a parte recorrente busca rediscutir os fundamentos fáticos em que se baseou o acórdão recorrido.
+No tocante à indicada violação do art. 144, do CPC/2015, sob a tese de nulidade do julgamento do recurso de apelação, por vício na composição do quórum de julgamento, em razão da participação de Magistrado impedido, o acolhimento da pretensão recursal, na forma pretendida, demandaria o reexame das circunstâncias fáticas dos autos, procedimento obstado pela Súmula nº 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INVOCAÇÃO GENÉRICA. APELAÇÃO. JULGAMENTO. PREVENÇÃO DO RELATOR. REGIMENTO INTERNO DA CORTE LOCAL. ANÁLISE. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. O Tribunal a quo reconheceu a prevenção de Desembargador Relator para julgamento da apelação, com base nas dispositivos processuais e regimentais ali citadas, bem como nas "circunstâncias fáticas descortinadas."
+3. A despeito de indicada vulneração a preceito de lei federal, a análise do mérito recursal perpassa de forma necessária pelo disposto no Regimento Interno da Corte de origem, o que denota que o apelo especial, no ponto, esbarra no enunciado da Súmula 399 do STF: "Não cabe recurso extraordinário, por violação de lei federal, quando a ofensa alegada for a regimento de tribunal."
+4. Compreender que houve nulidade absoluta por error in procedendo na distribuição dos autos, nos moldes apresentados na peça recursal, reclama o exame de matéria com conteúdo fático-probatório processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+5. Esta Corte Superior tem entendido que o acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.389.063/PI, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESOLUÇÃO Nº 72/CNJ. ANÁLISE. INVIABILIDADE. DEFICIÊNCIA RECURSAL. SÚMULA Nº 284/STF. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF. RELATOR. COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. REDISTRIBUIÇÃO. COMPETÊNCIA. RELATOR. REGIMENTO INTERNO DO TRIBUNAL LOCAL. APLICAÇÃO. SÚMULA Nº 280/STF. JULGAMENTO. CONVOCAÇÃO. QUÓRUM. PUBLICIDADE. PREJUÍZO. AUSÊNCIA. SÚMULA Nº 7/STJ. EXECUÇÃO. EXTINÇÃO
+DE OFÍCIO. PREJUDICIALIDADE EXTERNA. JULGADOS DO STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Em recurso especial é inviável a análise da Resolução Nº 72/CNJ, pois que, nos termos do art. 105, "a", do permissivo constitucional, não pode ser equiparada a lei federal.
+3. O recurso mostra-se deficiente em sua fundamentação quando o recorrente não demonstra de maneira clara, precisa e consistente em que configurou a pretensa violação legal. Incidência da Súmula nº 284/STF.
+4. Se a competência do relator foi definida com base no regimento interno do tribunal local, não há como rever tal posicionamento em virtude da Súmula nº 280/STF.
+5. A ausência de impugnação específica de fundamento do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+6. Tendo o acórdão afirmado que a nulidade da sessão de julgamento e a convocação de outros julgadores para composição do quórum não causou prejuízo à parte e atendeu aos preceitos legais e regimentais, o acolhimento da pretensão recursal demandaria o reexame das circunstâncias fáticas dos autos, procedimento obstado pela Súmula nº 7/STJ.
+7. Extinta a execução, não há como restabelecer a decisão que autorizou o levantamento dos depósitos realizados pelo recorrido.
+8. Agravo intern o não provido.
+(AgInt nos EDcl no REsp n. 1.311.579/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/12/2018, DJe de 6/12/2018.)
+Quanto à tese invocada pelo Recorrente acerca da nulidade da sentença proferida na origem, em razão de ter sido prolatada por juiz substituto que não presidiu a audiência de instrução e julgamento, assim se manifestou a Corte local (fls. 1.331-1.336):
+DO PRINCÍPIO DO JUIZ NATURAL
+Argumenta a parte apelante que a sentença prolatada é nula, pois não foi proferida pelo juiz titular da Vara e sim pelo juiz substituto. Contudo, sem razão.
+O princípio do juiz natural não se confunde com o princípio da identidade física do juiz, ou seja, não importa, para o processo, a pessoa "física" do magistrado.
+A ideia do juiz natural é baseada na garantia ao indivíduo de que seu processo será julgado por autoridade judiciária com competência definida previamente no ordenamento jurídico.
+Neste diapasão é o entendimento do STJ:
+ .. .
+(AgRg nos EDcl nos EDcl no REsp n. 1.979.465/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+O Corregedor-Geral da Justiça emanou ordem de serviço ao juiz substituto para auxiliar o juiz titular:
+ .. .
+Desse modo, o magistrado foi indicado pelo Corregedor-Geral da Justiça a fim de auxiliar na prolação de sentenças, o que não acarreta nulidade.
+ .. .
+Assim, considerando a inexistência de juízo de exceção, não configurada a nulidade da sentença por ofensa ao princípio do juiz natural.
+A Corte Especial do STJ firmou entendimento de que "o princípio da identidade física do juiz não tem caráter absoluto. Assim, desde que não se vislumbre, no caso concreto, prejuízo a alguma das partes, é de se reconhecer como válida sentença proferida por juiz que não presidiu a instrução, ainda que tenha decidido como substituto eventual, em regime de mutirão" (STJ, AgRg no Ag 624.779/RS, Rel. Ministro Castro Filho, Corte Especial, DJe de 17/11/2008).
+No mesmo sentido: AgInt nos EDcl no AREsp 769.140/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 6/10/2017; AgInt no REsp 1.591.302/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 27/4/2017, DJe 16/5/2017.
+Confira-se, ainda, os seguintes julgados:
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS COM PEDIDO DE LUCROS CESSANTES. INCÊNDIO. ESTACIONAMENTO DE VEÍCULOS EM POSTO DE GASOLINA. ART. 535 DO CPC/73. AUSÊNCIA D EOMISSÃO NO ACÓRDÃO. PROCESSO JULGADO EM REGIME DE MUTIRÃO. PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. CARÁTER NÃO ABSOLUTO. NÃO FERIMENTO. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZOS. SÚMULA N. 7/STJ. ATO ILPICITO DE TERCEIRO. CASO FORTUITO. FORÇA MAIOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. CONTRATO DE DEPÓSITO. ESTACIONAMENTO. ATRATIVO. RECONHECIMENTO NA ORIGEM. SÚMULA 130/STJ. RESPONSABILIDADE DA EMPRESA. LUCROS CESSANTES. AUSÊNCIA DE CONTRAPROVA. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação do art. 535 do CPC/73, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a apontada violação ao princípio da identidade física do juiz.
+2. Esta Corte, em casos semelhantes, em que a ação foi julgada em regime de mutirão, já se manifestou no sentido de que "o princípio da identidade física do juiz não pode ser interpretado de maneira absoluta, e admite exceções, como nas hipóteses do art. 132 do CPC/73, em cujo rol está incluída afastamento do magistrado em decorrência do regime de exceção ou mutirão para agilização da prestação jurisdicional." (AgInt no AREsp n. 1.149.739/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/5/2019, DJe de 16/5/2019.)
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste nulidade processual quando ausente prejuízo às partes, (pas de nulitté sans grief) em observância ao princípio da instrumentalidade das formas no âmbito do direito processual.
+4. O Tribunal de origem não considerou, no exame dos autos, o argumento de ocorrência de caso fortuito. Ausência de prequestionamento. Súmula n. 211/STJ.
+5. A Corte a quo entendeu pela existência de contrato de depósito pois, diante das provas apresentadas, teria ficado demonstrado nos autos que o espaço de estacionamento cedido pelo posto de gasolina seria um atrativo para os clientes fazerem uso dos serviços e produtos oferecidos no local. Afastar este entendimento demandaria incursão nas provas dos autos. Súmula n. 7/STJ.
+6. A controvérsia deve ser dirimida pelo entendimento exarado na Súmula n. 130 do STJ, que dispõe que "A empresa responde perante o cliente pela reparação do dano ou furto de veículos ocorridos em seu estabelecimento".
+7. O Tribunal manteve a condenação em lucros cessantes por verificar que o apelante não teria oferecido nenhuma contraprova que evidenciasse as alegadas irregularidades dos valores apresentados pelo recorrido. Modificar a conclusão do acórdão demandaria reexame das provas dos autos. Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 1.613.988/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. QUESTÕES DEVIDAMENTE ANALISADAS PELO TRIBUNAL DE ORIGEM. 2. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. ACÓRDÃO PROFERIDO SOB A ÉGIDE DO CPC/1973. AUSÊNCIA DE NULIDADE. ENTENDIMENTO CONSOLIDADO PELO STJ. 3. SENTENÇA PROFERIDA POR JUIZ SUBSTITUTO, QUE NÃO PARTICIPOU DA AUDIÊNCIA DE INSTRUÇÃO, EM DECORRÊNCIA DAS FÉRIAS DA JUÍZA TITULAR. POSSIBILIDADE. EXCEÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. ART. 132, CAPUT, DO CPC/1973. 4. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. EMBARGANTE QUE NÃO PARTICIPOU DA AÇÃO DE EXECUÇÃO. 5. ALEGAÇÃO DE SUSPEIÇÃO DA ASSESSORA DO MAGISTRADO SENTENCIANTE. MATÉRIA NÃO SUSCITADA POR PRÉVIO INCIDENTE, A TEOR DO QUE DETERMINAVA O § 1º DO ART. 138 DO CPC/1973. ARGUMENTO COMPROVADAMENTE AFASTADO NO AUTOS. 6. RECURSO ESPECIAL DESPROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional, pois todas as questões suscitadas foram devidamente examinadas no acórdão recorrido, razão pela afasta-se a alegação de violação do art. 535, I e II, do CPC/1973.
+2. Sob a égide do Código de Processo Civil de 1973, no qual foi prolatado o acórdão recorrido, o entendimento do Superior Tribunal de Justiça era pacífico no sentido de se admitir a chamada fundamentação per relationem, não havendo qualquer nulidade na adoção dessa técnica de julgamento.
+3. O acórdão recorrido encontra-se em perfeita consonância com o entendimento desta Corte Superior no sentido de que "não ocorre ofensa ao princípio da identidade física do juiz quando o magistrado que presidir a instrução seja afastado por qualquer motivo, por consistir tal hipótese uma das exceções previstas no art. 132 do CPC" (AgRg no AREsp n. 678.968/MG, Relator o Ministro João Otávio de Noronha, DJe de 2/2/2016).
+4. Considerando que a esposa do executado não foi citada na ação de execução, não há como estender os efeitos da coisa julgada, tal como pretendido pela recorrente, no que concerne à penhorabilidade do bem imóvel discutido, sendo perfeitamente possível, na linha do que entendeu o Tribunal de origem, o ajuizamento dos embargos de terceiro para defender sua posse no imóvel, nos termos do art. 1.046, § 3º, do CPC/1973.
+5. Embora seja possível, em tese, reconhecer o impedimento ou a suspeição de "serventuário da justiça", a teor do que dispunha o art. 138, inciso II, do CPC/1973, vigente à época dos fatos (atual art. 148, inciso II, do CPC/2015), não é possível acolher a alegação da recorrente na hipótese.
+5.1. É que o exame de suspeição da assessora do magistrado sentenciante demandaria prévia instauração de incidente específico, a teor do que determinava o § 1º do art. 138 do CPC/1973, o que, todavia, não foi feito pela parte recorrente, a qual se limitou a alegar tal fato nas razões de apelação.
+5.2. Além disso, ficou devidamente comprovado nos autos que a minuta da sentença proferida na ação subjacente, ao contrário do que alega a recorrente, não foi criada e nem modificada pela nora da advogada da parte ora recorrida, que, à época, exercia o cargo de assessora de juiz, mas sim, por outra servidora do Tribunal de Justiça do Rio Grande do Sul.
+6. Recurso especial desprovido.
+(REsp n. 1.404.494/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2022, DJe de 11/3/2022.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+ ..
+Assim, as alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
