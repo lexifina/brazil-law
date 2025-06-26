@@ -1,0 +1,38 @@
+DECISÃO
+JOSÉ REGINALDO ALVES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no Habeas Corpus n. 1.0000.24.216084-4/000.
+Consta dos autos que o Juízo da Vara de Execuções Penais da Comarca de São Gotardo/MG indeferiu o pedido de concessão de indulto natalino, com base no art. 2º, XIV, do Decreto n. 11.846/2023, ao fundamento de que a norma, para ser compatível com a Constituição Federal, deve ser interpretada como vedando o benefício nos casos em que o crime tenha sido cometido com violência ou grave ameaça à pessoa. O acórdão impugnado manteve a decisão sob o argumento de que não se verificava flagrante ilegalidade a justificar a impetração de habeas corpus em substituição ao recurso próprio.
+A defesa sustenta o preenchimento dos requisitos objetivos e subjetivos para a concessão do indulto, notadamente em razão do tempo de pena cumprida e da inexistência de vedação expressa no Decreto presidencial à hipótese de homicídio privilegiado.
+Medida liminar indeferida às fls. 45-47 e informações prestadas pelo Juízo da Vara de Execuções Penais da Comarca de São Gotardo/MG às fls. 52-54.
+O Ministério Público Federal opinou pela denegação da ordem, às fls. 58-66.
+Decido.
+I. Contextualização
+A controvérsia instaurada na presente impetração cinge-se à possibilidade de concessão do indulto natalino previsto no Decreto n. 11.846/2023 ao apenado condenado pela prática de homicídio qualificado-privilegiado, diante da vedação contida no art. 2º, XIV, do referido decreto, que exclui do benefício as pessoas condenadas por crime cometido com violência ou grave ameaça à pessoa.
+O Juízo da Vara de Execuções Penais da Comarca de São Gotardo/MG indeferiu o pedido da defesa com a seguinte fundamentação:
+"No caso em apreço, o apenado foi condenado pela prática de homicídio qualificado-privilegiado. Embora a qualificadora tenha sido afastada pela incidência do privilégio, trata-se de crime cometido com violência contra a pessoa.
+O art. 2º, XIV, do Decreto n. 11.846/2023 prevê, de forma clara, que não será concedido indulto à pessoa condenada por crime cometido com violência ou grave ameaça à pessoa, razão pela qual, para que o decreto seja considerado compatível com a Constituição, deve-se conferir à vedação interpretação que preserve sua racionalidade e eficácia.
+Assim, entendo que a exclusão do benefício abrange os crimes como o ora examinado, nos quais, apesar da incidência de circunstância privilegiadora, houve a prática de conduta violenta, incompatível com o alcance da medida."
+O Tribunal de Justiça de Minas Gerais, ao denegar a ordem no habeas corpus impetrado em segunda instância, ratificou os fundamentos adotados pelo juízo de origem nos seguintes termos:
+"O indeferimento do pedido de indulto pelo Juízo da Execução está fundado na interpretação do art. 2º, XIV, do Decreto n. 11.846/2023, o qual exclui do benefício os condenados por crimes cometidos com violência ou grave ameaça à pessoa.
+A decisão atacada está devidamente motivada e encontra respaldo em entendimento jurisprudencial que admite interpretação restritiva do indulto presidencial, notadamente nos casos em que a conduta criminosa, ainda que desclassificada ou mitigada por causa especial de diminuição de pena, envolva violência efetiva contra a vítima.
+Diante disso, não se verifica ilegalidade manifesta ou teratologia apta a justificar o uso do habeas corpus como sucedâneo de recurso próprio."
+A defesa sustenta que o homicídio qualificado-privilegiado não ostenta natureza hedionda, razão pela qual não estaria abrangido pela vedação do decreto presidencial. Aponta que o paciente preenche os requisitos objetivos e subjetivos para concessão do benefício e que a interpretação ampliativa da vedação normativa implicaria violação ao princípio da legalidade estrita.
+II. Indulto natalino - homicídio qualificado-privilegiado - natureza não hedionda do delito
+O paciente foi condenado à pena de 6 anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto no art. 121, §§ 1º e 2º, IV, do Código Penal. A defesa requereu a concessão do indulto natalino, nos termos do Decreto n. 11.846/2023, sustentando o preenchimento dos requisitos legais e a inexistência de vedação expressa à hipótese de homicídio qualificado-privilegiado.
+O pedido foi indeferido pelo Juízo da Vara de Execuções Penais da Comarca de São Gotardo/MG, ao fundamento de que o delito, embora desqualificado pela causa especial de diminuição, teria sido praticado com violência contra a pessoa, situação que atrairia a vedação contida no art. 2º, XIV, do decreto presidencial.
+As instâncias ordinárias afastaram a pretensão com base em interpretação ampliativa da norma restritiva, sem reconhecer a natureza não hedionda do homicídio qualificado-privilegiado. No entanto, a jurisprudência consolidada do Superior Tribunal de Justiça admite a concessão de benefícios legais a condenados por essa modalidade delitiva, por entender que não há previsão legal para o seu enquadramento como crime hediondo.
+No Habeas Corpus n. 965.987/RO, assim foi decidido:
+"É cediço, nesta Corte Superior, que o homicídio privilegiado-qualificado não é delito hediondo, eis que não se encontra disciplinado no rol taxativo previsto no art. 2º, I, da Lei n. 8.072/1990, não sendo aplicada a ele as disposições contidas nessa norma, dentre elas, a vedação ao indulto.  ..
+No caso, tendo sido reconhecida a causa especial de diminuição de pena prevista no § 1º do art. 121 do Código Penal, incide o entendimento jurisprudencial consolidado que afasta a natureza hedionda da infração, sendo plenamente possível a análise do preenchimento dos requisitos para a concessão do indulto."
+(HC n. 965.987/RO, Rel. Ministro Ribeiro Dantas, DJe 10/12/2024)
+No mesmo sentido:
+O homicídio qualificado-privilegiado não é crime hediondo, não se lhe aplicando norma que estabelece o regime fechado para o integral cumprimento da pena privativa de liberdade (Lei n. 8.072/90, arts. 1º e 2º, § 1º).  ..  Havendo incidência de circunstância privilegiadora, afasta-se a excepcionalidade da qualificadora, restando inaplicáveis as disposições restritivas da Lei dos Crimes Hediondos.
+(HC n. 43.043/MG, Rel. Ministro Hamilton Carvalhido, 6ª T., DJ 6/2/2006, p. 352)
+Por incompatibilidade axiológica e por falta de previsão legal, o homicídio qualificado-privilegiado não integra o rol dos denominados crimes hediondos.
+O reconhecimento da causa especial de diminuição de pena prevista no art. 121, § 1º, do Código Penal retira a natureza hedionda do delito, afastando, por consequência, as restrições próprias dessa categoria, inclusive quanto ao indulto.
+(HC n. 153.728/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 31/5/2010)
+Na espécie, as instâncias ordinárias não apontaram qualquer óbice subjetivo à concessão do benefício, limitando-se a interpretar a cláusula de exclusão do decreto com base na natureza violenta do delito. Tal interpretação não se coaduna com o entendimento jurisprudencial consolidado, o qual exige que as vedações previstas em normas concessivas de graça presidencial sejam interpretadas estritamente, nos termos do art. 5º, XL, da Constituição Federal.
+III. Dispositivo
+Ante o exposto, concedo a ordem para afastar a vedação prevista no art. 2º, XIV, do Decreto n. 11.846/2023 à hipótese de homicídio qualificado-privilegiado e determinar ao Juízo da Vara de Execuções Penais da Comarca de São Gotardo/MG que reanalise o pedido de indulto natalino formulado pelo paciente, com base nos requisitos legais e no entendimento firmado nesta decisão.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
