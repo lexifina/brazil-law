@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por CINTIA NAOMI HAGIO, SEITI HAGIO e HELENA AYAKO TOKUNAGA HAGIO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 3/9/2024.
+Co ncluso ao Gabinete em: 10/3/2025.
+Ação: monitória, ajuizada pelo BANCO DO BRASIL SA em desfavor dos agravantes, em virtude de inadimplemento de contrato bancário firmado entre as partes.
+Sentença: rejeitou os embargos monitórios opostos pelos agravantes, constituindo de pleno direito o título executivo em favor do agravado.
+Acórdão: negou provimento à apelação interposta pelas partes agravantes, nos termos das seguinte ementa:
+PROCESSUAL CIVIL - Cerceamento de defesa inocorrente, diante da possibilidade da exegese contratual mediante apreciação de teses de direito, reiteradamente afirmadas pelo Judiciário - Nulidade da sentença não ocorrente, porque houve o devido pronunciamento judicial a respeito da matéria travada nos autos, restando expresso na sentença os fundamentos pelos quais acolheu a pretensão da casa bancária - Preliminares rejeitadas.
+AÇÃO MONITÓRIA - Contrato de Abertura de Crédito em conta-corrente, acompanhado de demonstrativo de conta vinculada - Documentos hábeis a embasar o procedimento monitório - Inteligência do art. 700, do CPC/15 - Inicial instruída com demonstrativo a denotar a utilização de crédito - Alegação genérica de ausência de documentos que demonstrem a evolução da dívida - Capitalização dos juros admitida por lei e prevista no contrato - Ausência de demonstração que revele que a taxa praticada por outras instituições, no mesmo período, eram bem inferiores à aqui contratada - Inexistência de prova de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, II, do CPC/15) - Sentença mantida - Majorada a honorária de sucumbência - Recurso improvido.
+(e-STJ Fls. 624)
+Embargos de declaração: em rejulgamento, após o acolhimento da negativa de prestação jurisdicional suscitada em recurso especial, foram parcialmente acolhidos sem efeitos infringentes, no seguinte sentido:
+EMBARGOS DE DECLARAÇÃO - Recurso Especial interposto pelos embargantes que foi provido, com determinação de reexame dos declaratórios - Sanação do vício, para deixar expresso que, apesar de constar da nomenclatura deles "BB AGRONEGÓCIO GIRO CONTRATO", ele não fora destinado ao financiamento de produtos agrícolas, tampouco deferidos com recursos próprios de tais financiamentos Manual de Crédito Rural, do Banco Central do Brasil, em seu capítulo 3, Seção 1, Item 1, que não contempla os contratos de abertura de crédito em conta-corrente às hipóteses em que se pode formalizar o crédito rural - Em razão disso, não cabe qualquer limitação de juros ou outros encargos, conforme restou expressamente ressaltado pelos acórdãos de fls. 623/630 e 691/699 - Inocorrência de violação a qualquer dos dispositivos de lei citados pelos embargantes - Embargos acolhidos, em parte, sem atribuição de efeito modificativo ao julgado.
+(e-STJ Fl. 963)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial dos agravantes em razão dos seguintes fundamentos:
+i) ausência de deficiência de fundamentação da decisão ou negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC);
+ii) no que tange ao cerceamento de defesa e à ausência de produção da prova requerida, incidência da Súmula 7 do STJ, em atenção à jurisprudência desta Corte;
+iii) quanto à monitória, ao contrato de abertura de crédito em conta corrente (BB Agronegócio giro contrato), aos juros remuneratórios, à limitação à taxa média do Banco Central para contratos de agronegócio, ao contrato voltado ao crédito rural e à prova (e-STJ Fl. 979), ausência de demonstração da alegada vulneração dos dispositivos arrolados, a par da incidência das Súmulas 5 e 7 do STJ; e
+iv) ausência de similitude fática a ensejar o dissídio jurisprudencial alegado (alínea "c" do permissivo constitucional).
+Agravo em recurso especial: nas razões do presente recurso, os agravantes alegam, em síntese, que:
+i) o acórdão recorrido contraria os artigos do CPC, a legislação de referência e a Súmula 286/STJ, bem como a jurisprudência pátria, reiterando-se, assim, as razões de mérito de seu recurso especial;
+ii) a realização de perícia é imprescindível na espécie, restando configurado o cerceamento de defesa;
+iii) houve efetiva deficiência de fundamentação e omissão do acórdão recorrido. Não obstante tais razões, não fora arguida ofensa aos arts. 489 e 1.022 do CPC, mas sim ao art. 11 do CPC, de sorte que as matérias apontadas em embargos monitórios foram analisadas com error in judicando, não sendo julgadas à luz do da legislação aplicável aos contratos rurais;
+iv) foi demonstrada a vulneração a todos os dispositivos legais apontados, sobretudo o art. 369 do CPC, mediante a demonstração do cerceamento de defesa;
+v) houve demonstração da similitude fática quando da interposição recursal pela alínea "c" do permissivo constitucional; e
+vi) são inaplicáveis as Súmulas 5 e 7 do STJ à espécie.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que os agravantes não demonstraram, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) no que tange ao cerceamento de defesa e à ausência de produção da prova requerida, incidência da Súmula 7 do STJ, em atenção à jurisprudência desta Corte;
+ii) quanto à monitória, ao contrato de abertura de crédito em conta corrente (BB Agronegócio giro contrato), aos juros remuneratórios, à limitação à taxa média do Banco Central para contratos de agronegócio, ao contrato voltado ao crédito rural e à prova (e-STJ Fl. 979), ausência de demonstração da alegada vulneração dos dispositivos arrolados, a par da incidência das Súmulas 5 e 7 do STJ; e
+iii) ausência de similitude fática a ensejar o dissídio jurisprudencial alegado (alínea "c" do permissivo constitucional).
+Nesse passo, os agravantes limitaram-se a reprisar as suas razões de mérito e a tecer alegações meramente genéricas, deixando de demonstrar o desacerto da decisão, mormente demonstrando a efetiva desnecessidade do reexame fático-probatório e contratual dos autos.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 1%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
